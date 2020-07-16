@@ -34,3 +34,4 @@
 - [Browser extensions for Roam Research (2020)](https://nesslabs.com/browser-extensions-roam-research)
 - [Own Your Second Brain: Set Up org-roam on Your Own Machine (2020)](https://www.ianjones.us/2020-05-05-doom-emacs)
 - [Cal Robert's Roam Themes](https://github.com/calrobertlee/roam-css-styles) ([Reddit](https://www.reddit.com/r/RoamResearch/comments/hijomu/roam_darkmode/))
+- [From Beginner to Superuser: A Complete Roam Research Tutorial Course (2020)](https://www.youtube.com/playlist?list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC)
