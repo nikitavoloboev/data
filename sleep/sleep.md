@@ -20,3 +20,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [HN: Deep Sleep May Help the Brain Clear Alzheimer's Toxins (2020)](https://news.ycombinator.com/item?id=21414565)
 - [Pod Pro](https://www.eightsleep.com/eight-pod-sleep-cool/) - Smart cooling mattress.
 - [The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days (2020)](https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/) ([HN](https://news.ycombinator.com/item?id=23211068))
+- [Dealing With Insomnia (2020)](https://jacquesmattheij.com/dealing-with-insomnia/) ([HN](https://news.ycombinator.com/item?id=23810506))

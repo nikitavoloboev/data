@@ -690,6 +690,7 @@
   - [Neo4j](databases/neo4j.md)
   - [Dgraph](databases/dgraph.md)
   - [Cassandra](databases/cassandra.md)
+  - [MariaDB](databases/mariadb.md)
   - [Blockchain](databases/blockchain/blockchain.md)
     - [Ethereum](databases/blockchain/ethereum.md)
     - [Polkadot](databases/blockchain/polkadot.md)

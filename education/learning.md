@@ -58,3 +58,4 @@
 - [Ask HN: What are some skills you have that are worth learning? (2020)](https://news.ycombinator.com/item?id=23758188)
 - [How Developers Stop Learning: Rise of the Expert Beginner (2012)](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) ([HN](https://news.ycombinator.com/item?id=23767438))
 - [What the fuck is ...?](https://whatthefuck.is/) ([Code](https://github.com/gaearon/whatthefuck.is))
+- [The Polymath Playbook](https://salman.io/posts/polymath-playbook/) ([HN](https://news.ycombinator.com/item?id=23796035))
