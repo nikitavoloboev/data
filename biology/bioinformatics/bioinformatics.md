@@ -31,7 +31,7 @@
 - [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
 - [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics)
-- [How to Build a Biotech](https://www.celinehh.com/biotech)
+- [How to Build a Biotech](https://www.celinehh.com/how-to-build-a-biotech) ([HN](https://news.ycombinator.com/item?id=23816390))
 - [Unified rational protein engineering with sequence-based deep representation learning (2019)](https://www.nature.com/articles/s41592-019-0598-1)
 - [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks (2020)](https://arxiv.org/abs/2003.13720) ([HN](https://news.ycombinator.com/item?id=22768143))
 - [Computationally Comparing Biological Networks and Reconstructing Their Evolution (2012)](http://www.robpatro.com/newsite/documents/dissertation.pdf)
@@ -50,4 +50,3 @@
 - [Cell Biology by the Numbers](http://book.bionumbers.org/)
 - [CReM](https://github.com/DrrDom/crem) - Open-source Python framework to generate chemical structures using a fragment-based approach.
 - [QSAR modeling software and virtual screening](http://qsar4u.com/)
-- [Axial - Founder-driven life sciences companies (2020)](https://axial.substack.com/p/axial-founder-driven-life-sciences)

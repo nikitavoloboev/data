@@ -59,3 +59,4 @@
 - [100 Day Computational Design Challenge](https://www.chelseawatson.com/100-computational-designs)
 - [Space colonization branching experiments in JavaScript (2020)](https://jasonwebb.io/2020/03/space-colonization-branching-experiments-in-javascript/)
 - [Ricky Reusser's sketches](https://rreusser.github.io/sketches/)
+- [The Generative Portraiture of Espen Kluge](https://www.artnome.com/news/2019/7/24/generative-portraiture-of-espen-kluge)
