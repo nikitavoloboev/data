@@ -142,6 +142,7 @@ Here are few more things I liked, design wise.
 - [Yehor Lvivski](http://lvivski.com/)
 - [Kyle Shevlin](https://kyleshevlin.com/) ([Code](https://github.com/kyleshevlin/blog))
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))
+- [Saoirse Shipwreckt](https://without.boats/)
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Roxane Jammet](http://roxane.me/)
 - [Rob Hope](https://robhope.com/)
