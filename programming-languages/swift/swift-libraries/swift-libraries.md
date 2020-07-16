@@ -6,6 +6,7 @@
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
 - [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.
 - [Ashen](https://github.com/colinta/Ashen) - Framework for writing terminal applications in Swift.
+- [SwiftShell](https://github.com/kareman/SwiftShell) - Library for creating command-line applications and running shell commands in Swift.
 
 ## Animation
 
