@@ -92,3 +92,5 @@
 - [NextJS features overview by Tim (2020)](https://github.com/vercel/next.js/discussions/14953#discussioncomment-34938)
 - [What is Next.js Incremental Static (Re)Generation? (2020)](https://arunoda.me/blog/what-is-nextjs-issg)
 - [The Hitchhiker’s Guide to Next.js (2020)](https://medium.com/swlh/the-hitchhikers-guide-to-next-js-fd7aa14ae8d0)
+- [Building the Tailwind Blog with Next.js (2020)](https://blog.tailwindcss.com/building-the-tailwind-blog)
+- [Building a Fullstack Twitter Clone with Next.js and Prisma (2020)](https://kunal.sh/posts/building-a-fullstack-twitter-clone) ([Code](https://github.com/kunalgorithm/fullstack-twitter))
