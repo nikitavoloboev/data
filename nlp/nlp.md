@@ -124,3 +124,4 @@
 - [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing) ([HN](https://news.ycombinator.com/item?id=23718475))
 - [GPT-3 Creative Fiction (2020)](https://www.gwern.net/GPT-3) ([HN](https://news.ycombinator.com/item?id=23722635))
 - [Classifying 200k articles in 7 hours using NLP (2020)](https://salt.agency/blog/nlp-and-stuff/) ([HN](https://news.ycombinator.com/item?id=23760109))
+- [GPT3: An Even Bigger Language Model (2020)](https://www.youtube.com/watch?v=_8yVOC4ciXc)
