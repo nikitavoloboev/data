@@ -183,6 +183,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Juvoni Beckford's bookshelf](https://juvoni.com/books)
 - [Nabeel Qureshi's favorite books](https://nabeelqu.co/Books)
 - [Sharif Shameem's Bookshelf](https://sharif.io/bookshelf/)
+- [Ask HN: Which book helped you understand the world? (2020)](https://news.ycombinator.com/item?id=23858599)
 
 ## Notes
 
