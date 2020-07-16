@@ -72,3 +72,4 @@
 - [Modelling software architecture with PlantUML (2020)](https://dev.to/simonbrown/modelling-software-architecture-with-plantuml-56fc)
 - [A terrible, horrible, no-good, bad day at Slack (2020)](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ([HN](https://news.ycombinator.com/item?id=23755843))
 - [LOOPY](https://ncase.me/loopy/) - Tool for thinking in systems. ([HN](https://news.ycombinator.com/item?id=23765297))
+- [Systems Performance: Enterprise and the Cloud book (2020)](http://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)

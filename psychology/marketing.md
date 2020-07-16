@@ -38,6 +38,7 @@
 - [I got 400 signups with a video of a product that didn’t exist (2020)](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist) ([HN](https://news.ycombinator.com/item?id=23764098))
 - [How today's fastest growing B2B businesses found their first ten customers (2020)](https://www.lennyrachitsky.com/p/how-todays-fastest-growing-b2b-businesses)
 - [Startup Lessons from Spotify Wrapped (2019)](https://medium.com/@SarahMcBride/startup-lessons-from-spotify-wrapped-3807cb9336a9)
+- [How I made \$10,041 by combining a feature launch with a lifetime deal (2020)](https://www.indiehackers.com/post/how-i-made-10-041-by-combining-a-feature-launch-with-a-lifetime-deal-3e6d094897)
 
 ## Images
 

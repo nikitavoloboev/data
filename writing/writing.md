@@ -161,4 +161,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [40 tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)
 - [Fluently](https://fluently.so/trybeta) - Online text editor with a multilingual translator, dictionary, and thesaurus built-in.
 - [Scott McCloud Discusses the Making of The Sculptor (2015)](https://www.youtube.com/watch?v=P46qJVKxGo8)
-- [How to Write Technical Posts (so people will read them) (2019)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+- [How to Write Technical Posts (so people will read them) (2019)](https://reasonablypolymorphic.com/blog/writing-technical-posts/) ([Lobsters](https://lobste.rs/s/5xfwza/how_write_technical_posts_so_people_will))
