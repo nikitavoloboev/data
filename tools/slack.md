@@ -18,3 +18,4 @@
 - [HN: A major reason for departures at Slack was “remote work request rejected” (2020)](https://news.ycombinator.com/item?id=23297113)
 - [How to Use Slack and Not Go Bananas (2018)](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-bananas/)
 - [BoltJS](https://github.com/slackapi/bolt-js) - Framework to build Slack apps using JavaScript.
+- [Why Dgraph Is Shutting Down Slack (2020)](https://dgraph.io/blog/post/dgraph-shutting-slack-using-discourse/)

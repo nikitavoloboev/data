@@ -162,3 +162,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Fluently](https://fluently.so/trybeta) - Online text editor with a multilingual translator, dictionary, and thesaurus built-in.
 - [Scott McCloud Discusses the Making of The Sculptor (2015)](https://www.youtube.com/watch?v=P46qJVKxGo8)
 - [How to Write Technical Posts (so people will read them) (2019)](https://reasonablypolymorphic.com/blog/writing-technical-posts/) ([Lobsters](https://lobste.rs/s/5xfwza/how_write_technical_posts_so_people_will))
+- [Write to a short attention span (2020)](https://matthewrocklin.com/blog/work/2020/07/13/brevity)
