@@ -66,6 +66,7 @@
 - [goproxy](https://github.com/elazarl/goproxy) - Provides a customizable HTTP proxy library for Go.
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go.
 - [Oxy](https://github.com/vulcand/oxy) - Go library with HTTP handlers that enhance HTTP standard library.
+- [go-limiter](https://github.com/sethvargo/go-limiter) - Provides a rate limiter in Go, suitable for use in HTTP servers and distributed workloads.
 
 ## GraphQL
 
