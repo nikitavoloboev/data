@@ -125,3 +125,4 @@
 - [GPT-3 Creative Fiction (2020)](https://www.gwern.net/GPT-3) ([HN](https://news.ycombinator.com/item?id=23722635))
 - [Classifying 200k articles in 7 hours using NLP (2020)](https://salt.agency/blog/nlp-and-stuff/) ([HN](https://news.ycombinator.com/item?id=23760109))
 - [HN: Using GPT-3 to generate user interfaces (2020)](https://news.ycombinator.com/item?id=23821411)
+- [Thread of GPT-3 use cases (2020)](https://twitter.com/xuenay/status/1283312640199196673)

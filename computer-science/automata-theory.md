@@ -27,3 +27,4 @@
 - [Game of Life Web](https://herebeseaswines.net/game-of-life/)
 - [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
 - [Eye Computer: Turning Vision into a Programmable Computer (2010)](https://humanfactorylab.com/uploads/8/3/4/4/83445868/changizi_eyecomputer_presspiece.pdf) ([Tweet](https://twitter.com/MarkChangizi/status/1271129027781234690))
+- [The Game of Life – Emergence in Generative Art (2020)](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art) ([HN](https://news.ycombinator.com/item?id=23840295))
