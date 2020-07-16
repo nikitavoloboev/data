@@ -35,3 +35,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [SDF Public Access UNIX System](https://sdf.org/)
 - [Discovering Dennis Ritchie’s Lost Dissertation (2020)](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/) ([HN](https://news.ycombinator.com/item?id=23582070))
 - [Pipe is a thing (2020)](https://blog.8-p.info/en/2020/06/16/pipe/)
+- [The Unix-Haters Handbook (1994)](https://web.mit.edu/~simsong/www/ugh.pdf)
