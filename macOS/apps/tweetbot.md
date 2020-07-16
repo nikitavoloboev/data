@@ -30,3 +30,4 @@ I split the app into 2 columns on mac.
 - [Thread Reader](https://threadreaderapp.com/) - Transform Twitter Threads into a Readable Page.
 - [Debubble](https://debubble.me/) - Publishing tool that facilitates a debate between two Twitter users. ([HN](https://news.ycombinator.com/item?id=23728499))
 - [Cheap Twitter Bots, Done Quick](https://cheapbotsdonequick.com/) - Bots are written in Tracery, a tool for writing generative grammars.
+- [How to get your @brand on Twitter if taken (2020)](https://www.indiehackers.com/post/how-to-get-your-brand-on-twitter-if-taken-3e9c449974)

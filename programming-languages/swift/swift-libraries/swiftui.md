@@ -87,3 +87,4 @@
 - [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture (2020)](https://www.fivestars.blog/code/section-title-index-swiftui.html)
 - [Swift UI Property Wrappers](https://swiftuipropertywrappers.com/) - Deciding when to use @State, @Binding, @StateObject, @ObservedObject, and @EnvironmentObject.
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS.
+- [What is a SwiftUI Property Wrapper (2020)](https://www.christopherbiscardi.com/what-is-a-swift-ui-property-wrapper)
