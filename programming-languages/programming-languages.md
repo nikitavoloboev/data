@@ -99,3 +99,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Statically Sized Higher-kinded Polymorphism (2020)](http://blog.ielliott.io/sized-hkts/) ([Lobsters](https://lobste.rs/s/vlndlq/statically_sized_higher_kinded))
 - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget)
 - [Family spaghetti of programming languages (2019)](https://erkin.party/blog/190208/spaghetti/)
+- [Continuations by example: Exceptions, time-traveling search, threads, and more (2020)](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/) ([HN](https://news.ycombinator.com/item?id=23859278))

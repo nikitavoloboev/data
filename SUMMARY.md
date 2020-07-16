@@ -625,6 +625,7 @@
   - [Email](tools/email.md)
   - [Slack](tools/slack.md)
   - [Discord](tools/discord.md)
+  - [Zulip](tools/zulip.md)
   - [Firebase](tools/firebase.md)
   - [Personal setups](tools/personal-setups.md)
   - [Voice assistants](tools/voice-assistants/voice-assistants.md)

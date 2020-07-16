@@ -38,3 +38,4 @@
 - [People who’ve worked on teams where they felt valued and fulfilled: what made those teams special? (2020)](https://twitter.com/SparksZilla/status/1273073364551139329)
 - [Engineering manager resources](https://github.com/dmleong/manager-resources)
 - [What makes a good boss? (2020)](https://twitter.com/zenorocha/status/1274037726111657984)
+- [When your coworker does great work, tell their manager (2020)](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) ([HN](https://news.ycombinator.com/item?id=23858662))

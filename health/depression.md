@@ -17,3 +17,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [How not to be sad (2020)](https://ldeming.posthaven.com/how-not-to-be-sad)
 - [Talking Depression with Reckful (2019)](https://www.youtube.com/watch?v=LZVTbFuZrNw)
 - [Solving Laziness with Asmongold (2020)](https://www.youtube.com/watch?v=WQ5bkdFuFhg)
+- [Let’s avoid talk of ‘chemical imbalance’: it’s people in distress (2020)](https://psyche.co/ideas/lets-avoid-talk-of-chemical-imbalance-its-people-in-distress) ([HN](https://news.ycombinator.com/item?id=23858294))
