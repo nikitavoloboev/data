@@ -117,6 +117,7 @@ Here are few more things I liked, design wise.
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
 - [Michael Edelstone](https://michaeledelstone.com/)
 - [Rodrigo Pombo](https://pomb.us/)
+- [Olivia Ifrim](https://iolivia.me/) ([Code](https://github.com/iolivia/iolivia.me))
 - [Steven Fabre](http://stevenfabre.com)
 - [Max Böck](https://mxb.dev/) ([Code](https://github.com/maxboeck/mxb))
 - [Amie Chen](https://www.amie-chen.com/)
