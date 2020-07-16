@@ -32,3 +32,4 @@
 - [bwt](https://github.com/shesek/bwt) - Lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 - [Prism: Scaling Bitcoin by 10,000x](https://github.com/yangl1996/prism-rust) - Rust implementation.
 - [Bitcoin From Scratch (2020)](https://monokh.com/posts/bitcoin-from-scratch-part-1) ([HN](https://news.ycombinator.com/item?id=23728228))
+- [Bitcoin is more like ham radio than the early internet (2020)](http://jpkoning.blogspot.com/2020/07/bitcoin-is-more-like-ham-radio-than.html) ([HN](https://news.ycombinator.com/item?id=23823304))
