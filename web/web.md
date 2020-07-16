@@ -134,3 +134,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 - [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops) ([HN](https://news.ycombinator.com/item?id=23734093))
 - [No Cookies, No Problem — Using ETags For User Tracking (2020)](https://levelup.gitconnected.com/no-cookies-no-problem-using-etags-for-user-tracking-3e745544176b) ([Lobsters](https://lobste.rs/s/anzcwy/no_cookies_no_problem_using_etags_for_user))
+- [Your SPA doesn’t need a router (2020)](https://forweb.dev/en/blog/drop-the-router/)

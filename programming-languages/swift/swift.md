@@ -136,3 +136,4 @@
 - [Mark Moeykens's Swift videos](https://www.youtube.com/c/MarkMoeykens/playlists)
 - [What the heck are closures and why does Swift love them so much? (2020)](https://www.hackingwithswift.com/quick-start/understanding-swift/what-the-heck-are-closures-and-why-does-swift-love-them-so-much)
 - [Questions & Answers | Swift by Sundell](https://swiftbysundell.com/questions/)
+- [AppCoda](https://www.appcoda.com/) - Learn Swift, SwiftUI, iOS, and Mac App Programming.

@@ -22,6 +22,7 @@
 - [Tuist org](https://github.com/sponsors/tuist)
 - [Deno](https://github.com/sponsors/denoland)
 - [Alex Ellis](https://github.com/sponsors/alexellis/) - Get newsletter as reward.
+- [uberdosis](https://github.com/sponsors/ueberdosis)
 
 ## Thanks pages
 
