@@ -25,3 +25,4 @@
 - [Scott Aaronson - Schrödinger's Cat and Quantum Necromancy (2020)](https://www.youtube.com/watch?v=xAYzTNFyazo)
 - [Q: What if the particles in the double slit experiment were conscious? Could you ask them which slit they went through afterwards? (2020)](https://www.askamathematician.com/2020/05/q-what-if-the-particles-in-the-double-slit-experiment-were-conscious-could-you-ask-them-which-slit-they-went-through-afterwards/)
 - [Research on Topological quantum matter (2020)](https://twitter.com/MBarkeshli/status/1283139300901695488)
+- [Why does entanglement work in the sense that it does not break any rules of relativity in regards to information transfer? (2020)](https://www.reddit.com/r/AskPhysics/comments/hptloh/why_does_entanglement_work_in_the_sense_that_it/)
