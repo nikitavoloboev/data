@@ -16,3 +16,4 @@
 - [Zig: a great fit for emulators - Benjamin Feng (2020)](https://www.youtube.com/watch?v=jkkUS0nmdsg) ([Lobsters](https://lobste.rs/s/gaoldu/zig_great_fit_for_emulators))
 - [What is Zig's “Colorblind” Async/Await? (2020)](https://kristoff.it/blog/zig-colorblind-async-await/) ([Lobsters](https://lobste.rs/s/y3fsrm/what_is_zig_s_colorblind_async_await))
 - [Zig Showtime](https://zig.show/) - Show where members of the Zig community share code and ideas.
+- [Announcing the Zig Software Foundation (2020)](https://ziglang.org/news/announcing-zig-software-foundation.html) ([HN](https://news.ycombinator.com/item?id=23806222))

@@ -102,3 +102,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Continuations by example: Exceptions, time-traveling search, threads, and more (2020)](http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/) ([HN](https://news.ycombinator.com/item?id=23859278))
 - [People of Programming Languages](http://www.cs.cmu.edu/~popl-interviews/)
 - [People of Language Design and Implementation](http://abstract.ece.cmu.edu/peopleOfPLDI/)
+- [Hindley-Milner Type Inference (2012)](http://steshaw.org/hm/) ([HN](https://news.ycombinator.com/item?id=23794691))

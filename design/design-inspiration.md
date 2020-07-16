@@ -82,7 +82,7 @@ Here are few more things I liked, design wise.
 ## Personal pages
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))
-- [Joel Hooks](https://joelhooks.com/)
+- [Joel Hooks](https://joelhooks.com/) ([Code](https://github.com/joelhooks/joelhooks-com))
 - [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
 - [Surma](https://surma.dev/)
@@ -173,6 +173,7 @@ Here are few more things I liked, design wise.
 - [Kitze](https://kitze.io/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
 - [Cassidy Williams](https://cassidoo.co/)
+- [Eduardo Boucas](https://eduardoboucas.com/about/)
 - [Nicholas Carlini](https://nicholas.carlini.com/)
 - [Mike Arvela](https://mike.fi/) ([Code](https://github.com/mieky/mieky.github.io))
 - [Prithu Goswami](https://prithu.xyz/) ([Code](https://github.com/prithugoswami/personal-website))

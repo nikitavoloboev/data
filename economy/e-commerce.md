@@ -18,3 +18,5 @@
 - [How I grew my Shopify micro-SaaS (2020)](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months) ([HN](https://news.ycombinator.com/item?id=23734539))
 - [Fast](https://www.fast.co/) - 1-click checkout and login.
 - [Jika](https://jika.ai/) - Price A/B Testing for Shopify. ([HN](https://news.ycombinator.com/item?id=23861435))
+- [Democratizing Commerce (2020)](https://www.bolt.com/blog/democratizing-commerce/)
+- [Taproom Agency](https://thetaproom.com/) - Shopify Design, Migration, & Marketing.

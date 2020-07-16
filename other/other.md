@@ -267,3 +267,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Frink is Good, the Unit is Evil (2020)](https://www.hillelwayne.com/post/frink/) ([Lobsters](https://lobste.rs/s/1awrik/frink_is_good_unit_is_evil))
 - [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/) ([HN](https://news.ycombinator.com/item?id=23808400))
 - [Ask HN: Concepts the modern tech industry falsely believes it invented? (2020)](https://news.ycombinator.com/item?id=23814645)
+- [Refined Hacker News extension](https://github.com/plibither8/refined-hacker-news) - Interface tweaks and features to make the HN experience better. ([HN](https://news.ycombinator.com/item?id=23804469))

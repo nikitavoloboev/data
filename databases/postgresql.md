@@ -119,3 +119,4 @@
 - [Foreign data wrappers: PostgreSQL's secret weapon? (2020)](https://www.splitgraph.com/blog/foreign-data-wrappers) ([HN](https://news.ycombinator.com/item?id=23769420))
 - [PostgreSQL Templates (2020)](https://supabase.io/blog/2020/07/09/postgresql-templates/) ([HN](https://news.ycombinator.com/item?id=23781786))
 - [pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust. ([HN](https://news.ycombinator.com/item?id=23821112))
+- [PostgreSQL EXPLAIN glossary](https://www.pgmustard.com/docs/explain)
