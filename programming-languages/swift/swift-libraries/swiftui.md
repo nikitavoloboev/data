@@ -88,3 +88,4 @@
 - [Swift UI Property Wrappers](https://swiftuipropertywrappers.com/) - Deciding when to use @State, @Binding, @StateObject, @ObservedObject, and @EnvironmentObject.
 - [RedditOS](https://github.com/Dimillian/RedditOS) - SwiftUI Reddit client for macOS.
 - [What is a SwiftUI Property Wrapper (2020)](https://www.christopherbiscardi.com/what-is-a-swift-ui-property-wrapper)
+- [Primitive School](https://www.primitive.school/) - Learn SwiftUI for Designers, Sprint Kits, and more.

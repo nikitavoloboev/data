@@ -4,12 +4,13 @@ I love all animals. And I am sad that some people decide to eat them and not let
 
 ## Lovely animals
 
-- Dogs
-- Cats
-  - Ragamuffin
+- [Dogs](https://en.wikipedia.org/wiki/Dog)
+- [Cats](https://en.wikipedia.org/wiki/Cat)
+  - [Ragamuffin](https://en.wikipedia.org/wiki/Ragamuffin_cat)
 - [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o)
 - [Qokkas](https://en.wikipedia.org/wiki/Quokka)
 - [Colugo](https://en.wikipedia.org/wiki/Colugo)
+- [Axolotl](https://en.wikipedia.org/wiki/Axolotl)
 
 ## Cute
 

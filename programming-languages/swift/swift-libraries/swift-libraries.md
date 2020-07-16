@@ -405,6 +405,7 @@
 - [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) - Ordered dictionary data structure implementation in Swift.
 - [Signals](https://github.com/artman/Signals) - Library for creating and observing events. It replaces delegates, actions and NSNotificationCenter with something much more powerful and elegant.
 - [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
+- [Swift Service Lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting. ([Article](https://swift.org/blog/swift-service-lifecycle/)) ([HN](https://news.ycombinator.com/item?id=23856229))
 
 ## Other (not lib)
 
