@@ -62,3 +62,4 @@
 - [Transducers From The Ground Up (2020)](https://bsless.github.io/transducers-intro/)
 - [Clojure Learning Program](https://github.com/athensresearch/ClojureFam)
 - [Clojure Basics: Debugging with the REPL (2020)](https://www.youtube.com/watch?v=tpcl5pjkRTQ)
+- [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development) ([HN](https://news.ycombinator.com/item?id=23791152))

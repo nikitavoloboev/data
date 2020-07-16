@@ -133,3 +133,4 @@
 - [NPComp](https://github.com/google/mlir-npcomp) - Aspirational MLIR based numpy compiler.
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Python compiler written in Python. ([Web](http://nuitka.net/))
 - [Brython](https://brython.info/) - Python 3 implementation for client-side web programming. ([HN](https://news.ycombinator.com/item?id=23746067))
+- [Hashing it Out (2020)](https://akshayr.me/blog/articles/python-dictionaries) - A deep dive into Python dictionaries.

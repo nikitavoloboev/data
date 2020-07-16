@@ -32,3 +32,4 @@
 - [WebTorrent Workshop](https://webtorrent.github.io/workshop/) - Learn WebTorrent and WebRTC in a guided workshop.
 - [Introducing Web3Torrent (2020)](https://blog.statechannels.org/introducing-web3torrent/) ([HN](https://news.ycombinator.com/item?id=23602008))
 - [Chihaya](https://github.com/chihaya/chihaya) - Customizable, multi-protocol BitTorrent Tracker.
+- [Monitoring Torrents On Your Server (2020)](https://rmpr.xyz/Managing-torrents-on-your-server/) ([Lobsters](https://lobste.rs/s/qzogsg/monitoring_torrents_on_your_server))

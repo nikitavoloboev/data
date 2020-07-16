@@ -196,3 +196,4 @@
 - [Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) ([Tweet](https://twitter.com/felixge/status/1282675240355667968))
 - [An introduction to vectorization (2019)](https://blog.cr.yp.to/20190430-vectorize.html)
 - [Introduction to Asynchronous Programming](http://cs.brown.edu/courses/cs168/f12/handouts/async.pdf)
+- [Etcd, or, why modern software makes me sad (2020)](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/) ([HN](https://news.ycombinator.com/item?id=23833362))
