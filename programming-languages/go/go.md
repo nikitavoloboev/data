@@ -311,3 +311,4 @@ Go promotes composition over inheritance.
 - [copyist](https://github.com/cockroachdb/copyist) - Mocking your SQL database in Go tests has never been easier. ([HN](https://news.ycombinator.com/item?id=23811698))
 - [PopCount on ARM64 in Go Assembler (2020)](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
 - [GopherCon Europe: Online 2020](https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG)
+- [Go’s History in Code (2020)](https://seh.dev/go-legacy/)

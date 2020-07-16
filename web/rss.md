@@ -48,3 +48,4 @@
 - [How to discover and subscribe to most RSS feeds (2020)](https://toffelblog.xyz/tips/discover-rss/)
 - [Feedsub](https://feedsub.com/) - Get RSS/Atom Feeds Delivered To Your Inbox.
 - [Hacker News RSS feeds](https://edavis.github.io/hnrss/) ([HN](https://news.ycombinator.com/item?id=23778510))
+- [Reading RSS feeds from wacky protocols with newsboat (2020)](https://brokenco.de/2020/07/07/newsboat-wacky-feeds.html)

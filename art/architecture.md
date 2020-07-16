@@ -27,3 +27,4 @@
 - [JW Renders](https://www.jwrenders.com/about) - Creative studio dedicated to architectural and design communication, focused on 3D visualization for interior and furniture design.
 - [Thread of homes to live in](https://twitter.com/marty/status/1217874823898116096) ([Part 2](https://twitter.com/gonsanchezs/status/1265091312946118656))
 - [Vintage Home Collection](https://vintagehomecollection.tumblr.com/)
+- [The accidentally resilient design of Athens apartments (2020)](https://www.bloomberg.com/news/features/2020-07-15/the-design-history-of-athens-iconic-apartments) ([HN](https://news.ycombinator.com/item?id=23843813))
