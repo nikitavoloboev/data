@@ -431,6 +431,7 @@
 - [sdfu](https://github.com/termhn/sdfu) - Signed Distance Field Utilities.
 - [webrtc-audio-processing](https://github.com/tonarino/webrtc-audio-processing) - Wrapper around PulseAudio's repackaging of WebRTC's AudioProcessing module.
 - [Elfkit](https://github.com/aep/elfkit) - Rust elf parsing, manipulation and (re)linking toolkit.
+- [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - Library for creating references that carry their owner with them.
 
 ## Cargo Plugins
 

@@ -65,3 +65,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Neovim Async Tutorial (2020)](https://ms-jpq.github.io/neovim-async-tutorial/)
 - [How Did Vim Become So Popular (2020)](https://pragmaticpineapple.com/how-did-vim-become-so-popular/) ([HN](https://news.ycombinator.com/item?id=23689091)) ([Lobsters](https://lobste.rs/s/smszig/how_did_vim_become_so_popular)) ([Reddit](https://www.reddit.com/r/vim/comments/hilqrw/how_did_vim_become_so_popular/))
 - [Vim's Versatile CLI (2020)](https://www.youtube.com/watch?v=pt36X1OJRG4) ([Lobsters](https://lobste.rs/s/v0vfcy/vim_s_versatile_cli))
+- [GNvim](https://github.com/vhakulinen/gnvim) - Rich Neovim GUI without any web bloat.
