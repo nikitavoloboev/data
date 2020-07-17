@@ -121,3 +121,5 @@
 - [Classification with PyTorch](https://github.com/bearpaw/pytorch-classification)
 - [PyTorch Toolbox](https://github.com/PistonY/torch-toolbox) - Aiming to make you write Pytorch code more easier, readable and concise.
 - [Sinusoidal Representation Networks (SIREN)](https://github.com/dalmia/siren)
+- [PyTorch Hub](https://pytorch.org/hub/) - Discover and publish models to a pre-trained model repository designed for research exploration.
+- [Pretrained models for PyTorch](https://github.com/Cadene/pretrained-models.pytorch)

@@ -46,3 +46,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 - [Dynamic music for video creators](https://www.moodelizer.com/studio/music-for-video)
 - [Crowd-sourced list of Black artists on Bandcamp](https://www.blackbandcamp.info/#/)
+- [Music And Measure Theory (2015)](https://www.youtube.com/watch?v=cyW5z-M2yzw)
