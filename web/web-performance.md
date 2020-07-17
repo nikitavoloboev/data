@@ -90,3 +90,4 @@
 - [Is my host fast yet?](https://ismyhostfastyet.com/) - Leaderboard of hosting providers' TTFB performance. ([Code](https://github.com/rviscomi/ismyhostfastyet))
 - [web-vitals-reporter](https://github.com/treosh/web-vitals-reporter) - Tiny (800 B) utility to simplify web vitals reporting.
 - [Perf Track](https://perf-track.web.app/) - Tracking framework performance at scale. ([Code](https://github.com/GoogleChromeLabs/perf-track))
+- [Wikipedia's JavaScript initialisation on a budget (2020)](https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/) ([Lobsters](https://lobste.rs/s/dckdjb/wikipedia_s_javascript_initialisation))

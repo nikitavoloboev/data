@@ -268,3 +268,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/) ([HN](https://news.ycombinator.com/item?id=23808400))
 - [Ask HN: Concepts the modern tech industry falsely believes it invented? (2020)](https://news.ycombinator.com/item?id=23814645)
 - [Refined Hacker News extension](https://github.com/plibither8/refined-hacker-news) - Interface tweaks and features to make the HN experience better. ([HN](https://news.ycombinator.com/item?id=23804469))
+- [Getting Started with Core Bluetooth (2020)](https://ditto.live/blog/posts/getting-started-with-core-bluetooth)

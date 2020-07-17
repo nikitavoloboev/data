@@ -56,3 +56,4 @@
 - [ReadMe](https://readme.com/) - Beautiful, personalized, interactive docs.
 - [Favorite docs collection (and why) (2020)](https://twitter.com/dan_abramov/status/1280949739534630919)
 - [Ask HN: How do you learn new libraries without much documentation? (2020)](https://news.ycombinator.com/item?id=23800590)
+- [Design Docs at Google (2020)](https://www.industrialempathy.com/posts/design-docs-at-google/#comments)

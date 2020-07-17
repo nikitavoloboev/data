@@ -171,6 +171,7 @@ Here are few more things I liked, design wise.
 - [Jason Webb](https://jasonwebb.io/)
 - [Chris Penner](https://chrispenner.ca/)
 - [Kitze](https://kitze.io/)
+- [Malte Ubl](https://www.industrialempathy.com/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
 - [Cassidy Williams](https://cassidoo.co/)
 - [Eduardo Boucas](https://eduardoboucas.com/about/)
