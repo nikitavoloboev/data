@@ -13,3 +13,4 @@
 - [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/) ([HN](https://news.ycombinator.com/item?id=23513152))
 - [YoWASP](https://yowasp.org/) - Unofficial WebAssembly-based packages for Yosys, nextpnr, and more.
 - [Silice](https://github.com/sylefeb/Silice) - Language for hardcoding Algorithms into FPGA hardware.
+- [Repurposing FPGA-based Products as Development Kits](https://geeklan.co.uk/files/ossg16072020-repurposing_obsolete_fpga_and_dev_kits.pdf) ([Lobsters](https://lobste.rs/s/bprw37/repurposing_fpga_based_products_as))
