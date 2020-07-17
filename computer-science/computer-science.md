@@ -59,3 +59,4 @@
 - [Code: The Hidden Language of Computer Hardware and Software (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [Is This a Turing Machine?](http://lambdaway.free.fr/lambdawalks/?view=meta4) ([HN](https://news.ycombinator.com/item?id=23711343))
 - [Professor solves 240 computer science exam problems in 4 hours (2020)](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s) ([HN](https://news.ycombinator.com/item?id=23759673))
+- [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/) ([HN](https://news.ycombinator.com/item?id=23873752))
