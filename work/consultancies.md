@@ -105,3 +105,4 @@
 - [Client](https://www.toclient.com/) - Simplified requirement collection for freelancers and agencies. Say goodbye to boring contact forms, emails and unproductive first calls.
 - [Clutch](https://clutch.co/) - B2B Ratings & Reviews.
 - [Software Consulting Legal Documents](https://numtide.github.io/software-consulting-documents/) ([Code](https://github.com/numtide/software-consulting-documents))
+- [Software Consulting: What This Really Means and How to Start (2020)](https://daedtech.com/software-consulting/)
