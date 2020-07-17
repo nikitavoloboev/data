@@ -28,3 +28,4 @@
 - [Remote Faces: Share webcam still images with PeerJS/WebRTC (2018)](https://medium.com/@dai_shi/remote-faces-share-webcam-still-images-with-peerjs-webrtc-a7ed5fe11e49)
 - [gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc) ([HN](https://news.ycombinator.com/item?id=23572660))
 - [A Study of WebRTC Security](https://webrtc-security.github.io/) ([Code](https://github.com/webrtc-security/webrtc-security.github.io))
+- [RecordRTC](https://recordrtc.org/) - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording. ([HN](https://news.ycombinator.com/item?id=23869752))
