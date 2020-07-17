@@ -22,3 +22,4 @@
 - [serverless.tf](https://github.com/antonbabenko/serverless.tf) - Doing serverless with Terraform.
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) ([Code](https://github.com/antonbabenko/terraform-best-practices))
 - [tfnotify](https://github.com/mercari/tfnotify) - CLI command to parse Terraform execution result and notify it to GitHub.
+- [CDK for Terraform: Enabling Python & TypeScript Support (2020)](https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support/)

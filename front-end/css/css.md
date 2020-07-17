@@ -179,3 +179,4 @@
 - [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
 - [ZeroDivs](https://zerodivs.com/#/) - UI editor for single-element CSS illustrations. ([HN](https://news.ycombinator.com/item?id=23781559))
 - [Style Stage](https://stylestage.dev/) - Modern CSS showcase styled by community contributions. ([Code](https://github.com/5t3ph/stylestage)) ([Article](https://dev.to/5t3ph/announcing-style-stage-a-community-css-showcase-28cp))
+- [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css) ([HN](https://news.ycombinator.com/item?id=23868355))
