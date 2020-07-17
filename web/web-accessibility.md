@@ -27,3 +27,4 @@
 - [Is Dark Mode Such A Good Idea? (2020)](https://kevq.uk/is-dark-mode-such-a-good-idea/) ([Lobsters](https://lobste.rs/s/o4su2v/is_dark_mode_such_good_idea)) ([HN](https://news.ycombinator.com/item?id=23495052))
 - [Technica11y](https://technica11y.org/) - Discussing challenges in technical accessibility.
 - [Tenon.io](https://tenon.io/) - Accessibility as a Service.
+- [A11Y Project](https://www.a11yproject.com/) - Community-driven effort to make digital accessibility easier.
