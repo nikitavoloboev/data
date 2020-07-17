@@ -5,6 +5,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 ## Interesting CVs
 
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
+- [David R. MacIver](https://www.drmaciver.com/cv/)
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
 - [Joseph Combs](https://www.josephecombs.com/resume/)
 - [Kiliankoe](http://kilian.io/assets/files/cv.pdf) - [Open Source](https://github.com/kiliankoe/cv), made with LaTeX.

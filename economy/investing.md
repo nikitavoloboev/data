@@ -78,3 +78,4 @@
 - [Andrew Wilkinson & Tiny Capital Operating Manual (2020)](https://colinkeeley.com/blog/andrew-wilkinson-tiny-capital-operating-manual) ([HN](https://news.ycombinator.com/item?id=23739381))
 - [Charlie Songhurst – Lessons from Investing in 483 Companies (2020)](http://investorfieldguide.com/songhurst/) ([Tweet](https://twitter.com/patrick_oshag/status/1280889822404624384))
 - [Via by On Deck](https://via.beondeck.com/) - Get referred to breakout companies via top investors.
+- [Visual History Of The S&P 500](https://etfdb.com/history-of-the-s-and-p-500/)

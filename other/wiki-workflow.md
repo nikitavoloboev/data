@@ -102,6 +102,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Bharat’s Digital Garden](https://notes.bharatkalluri.in/)
 - [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
+- [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.

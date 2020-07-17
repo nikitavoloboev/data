@@ -10,7 +10,7 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 ## Links
 
 - [Do schools kill creativity](https://www.youtube.com/watch?v=iG9CE55wbtY)
-- [Abstraction, intuition, and the “monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/) ([HN comments](https://news.ycombinator.com/item?id=17015661))
+- [Abstraction, intuition, and the “monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/) ([HN](https://news.ycombinator.com/item?id=17015661))
 - [Steve Jobs on Education and Conspiracy Theories....](https://www.youtube.com/watch?v=dULN8WbMb3M)
 - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 - [Solvio](http://solvio.org) - Decentralized education system. Our mission is to build a P2P education system that will be equivalent to a formal education.
