@@ -171,3 +171,4 @@
 - [Comprehensive List of Algebra Symbols](https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/)
 - [Knuth - Two notes on notation (1992)](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/knuth403-422.pdf) ([Lobsters](https://lobste.rs/s/xb2rsp/knuth_two_notes_on_notation_1992))
 - [How Gödel’s Incompleteness Theorems Work (2020)](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714)
+- [The Marvels of Polynomials over a Field (2020)](https://decentralizedthoughts.github.io/2020-07-17-the-marvels-of-polynomials-over-a-field/)
