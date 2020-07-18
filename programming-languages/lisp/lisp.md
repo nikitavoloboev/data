@@ -68,3 +68,4 @@
 - [MIT CADR Lisp Machine Emulation](http://www.unlambda.com/lisp/cadr.page)
 - [LambdaDelta](https://github.com/dseagrav/ld) - Emulator of the LMI Lambda Lisp Machine.
 - [Meroko](http://www.unlambda.com/lisp/meroko.page) - Lisp machine emulator.
+- [Typed Lisp, A Primer (2019)](https://alhassy.github.io/TypedLisp.html)
