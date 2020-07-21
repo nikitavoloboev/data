@@ -21,7 +21,7 @@
 - [Loer Architecture](https://loerarchitecten.com/)
 - [Away From Tourist Eyes, Marietta Varga’s Captivating Work Depicts Another Side Of Rome](https://www.ignant.com/2020/02/20/away-from-tourist-eyes-marietta-vargas-captivating-work-depicts-another-side-of-rome/)
 - [Inside Aaron Paul’s Rustic Riverside Home In Idaho](https://www.youtube.com/watch?v=D-qQneOnJl0)
-- [Designing a New Old Home (2020)](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) - How we started, and suggestions for starting your own project.
+- [Designing a New Old Home (2020)](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) - How we started, and suggestions for starting your own project. ([HN](https://news.ycombinator.com/item?id=23881363))
 - [A prefab glass cabin with a very Icelandic view (2020)](https://www.curbed.com/2020/5/12/21255300/glass-cabins-iceland-retreat-ood-house)
 - [Curbed](https://www.curbed.com/) - Love where you live—and improve it, all the time.
 - [JW Renders](https://www.jwrenders.com/about) - Creative studio dedicated to architectural and design communication, focused on 3D visualization for interior and furniture design.

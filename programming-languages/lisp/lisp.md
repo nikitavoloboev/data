@@ -69,3 +69,4 @@
 - [LambdaDelta](https://github.com/dseagrav/ld) - Emulator of the LMI Lambda Lisp Machine.
 - [Meroko](http://www.unlambda.com/lisp/meroko.page) - Lisp machine emulator.
 - [Typed Lisp, A Primer (2019)](https://alhassy.github.io/TypedLisp.html)
+- [The Many Faces of an Undying Programming Language (2020)](http://jakob.space/blog/thoughts-on-lisps.html) ([Lobsters](https://lobste.rs/s/chamtu/many_faces_undying_programming_language))

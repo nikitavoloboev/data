@@ -77,3 +77,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [ImprovMX](https://improvmx.com/) - Free email forwarding. Email aliases for your domain name.
 - [JMAP](https://jmap.io/) - JSON Meta Application Protocol Specification.
 - [Email Isn’t Broken, Email Clients Are (2020)](https://medium.com/@alnewkirk/email-isnt-broken-email-clients-are-8badaa14af61) ([Lobsters](https://lobste.rs/s/jhixrm/email_isn_t_broken_email_clients_are))
+- [How to self host your email server (2020)](https://www.garron.blog/posts/host-your-email-server.html) ([Lobsters](https://lobste.rs/s/iatbst/how_self_host_your_email_server))
+- [Why I no longer host my emails myself (2020)](https://jlelse.blog/thoughts/2020/07/no-email-selfhosting/) ([Lobsters](https://lobste.rs/s/wz3px4/why_i_no_longer_host_my_emails_myself))

@@ -257,3 +257,4 @@
 - [Rust for JavaScript Developers - Pattern Matching and Enums (2020)](http://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums/) ([HN](https://news.ycombinator.com/item?id=23811431))
 - [Shipping Const Generics in 2020](https://without.boats/blog/shipping-const-generics/) ([HN](https://news.ycombinator.com/item?id=23858916))
 - [Rust 1.45 (2020)](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html) ([HN](https://news.ycombinator.com/item?id=23859085))
+- [Clear explanation of Rust’s module system (2020)](http://www.sheshbabu.com/posts/rust-module-system/) ([Lobsters](https://lobste.rs/s/1tarzz/clear_explanation_rust_s_module_system))

@@ -54,3 +54,6 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/) - Defines a common protocol for debug adapters. ([Code](https://github.com/microsoft/debug-adapter-protocol))
 - [Linenoise](https://github.com/antirez/linenoise) - Small self-contained alternative to readline and libedit.
 - [Xi-Editor Retrospective (2020)](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html) ([HN](https://news.ycombinator.com/item?id=23663878)) ([Reddit](https://www.reddit.com/r/rust/comments/hgzdu5/xieditor_retrospective/))
+- [Three Architectures for a Responsive IDE (2020)](https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html)
+- [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/) ([Lobsters](https://lobste.rs/s/vjymsq/syntax_highlighting_is_waste)) ([HN](https://news.ycombinator.com/item?id=23902124))
+- [Tired of note-taking apps (2020)](https://akkshaya.blog/2020/07/19/note-taking/) ([HN](https://news.ycombinator.com/item?id=23888799))
