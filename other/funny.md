@@ -25,7 +25,7 @@
 - [science diagrams that look like shitposts](https://twitter.com/FizzyKai_/status/1217550609160773633)
 - [Hitler uses Kubernetes (2020)](https://www.youtube.com/watch?v=9wvEwPLcLcA)
 - [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ)
-- [Vim rendered on a cube for no reason ](https://github.com/oakes/vim_cubed) ([HN](https://news.ycombinator.com/item?id=22743267))
+- [Vim rendered on a cube for no reason](https://github.com/oakes/vim_cubed) ([HN](https://news.ycombinator.com/item?id=22743267))
 - [Dog sporting event](https://twitter.com/MrAndrewCotter/status/1248313303270596610)
 - [Funny YouTube Playlist](https://www.youtube.com/playlist?list=PL0nGxteCFLXYK7svEgDwWR1WiTbhBkIi_)
 - [Bill Hicks - Sane Man (1989)](https://www.youtube.com/watch?v=kH_tUpcCbrg)

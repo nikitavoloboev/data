@@ -261,3 +261,4 @@
 - [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann) ([HN](https://news.ycombinator.com/item?id=23737338))
 - [CML](https://cml.dev/) - Continuous Machine Learning: Bring DevOps to Data Science. ([HN](https://news.ycombinator.com/item?id=23759332)) ([Code](https://github.com/iterative/cml))
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) ([HN](https://news.ycombinator.com/item?id=23867892))
+- [Apple Machine Learning Research](https://machinelearning.apple.com/)
