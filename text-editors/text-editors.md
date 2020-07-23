@@ -57,3 +57,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Three Architectures for a Responsive IDE (2020)](https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html)
 - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/) ([Lobsters](https://lobste.rs/s/vjymsq/syntax_highlighting_is_waste)) ([HN](https://news.ycombinator.com/item?id=23902124))
 - [Tired of note-taking apps (2020)](https://akkshaya.blog/2020/07/19/note-taking/) ([HN](https://news.ycombinator.com/item?id=23888799))
+- [Inside a Collaborative Text Editor (2020)](https://caolan.uk/articles/inside-a-collaborative-text-editor/)
