@@ -183,3 +183,4 @@
 - [The myth of “joins don't scale” (2020)](https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale/) ([HN](https://news.ycombinator.com/item?id=23773889))
 - [Your database is a distributed system (2015)](https://www.futurelearn.com/info/blog/your-database-is-a-distributed-system)
 - [Sieuferd](http://people.csail.mit.edu/ebakke/sieuferd/) - General-purpose user interface for relational databases.
+- [Unofficial Guide to Datomic Internals (2014)](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/) ([HN](https://news.ycombinator.com/item?id=23926497))

@@ -94,3 +94,4 @@
 - [The Hitchhiker’s Guide to Next.js (2020)](https://medium.com/swlh/the-hitchhikers-guide-to-next-js-fd7aa14ae8d0)
 - [Building the Tailwind Blog with Next.js (2020)](https://blog.tailwindcss.com/building-the-tailwind-blog)
 - [Building a Fullstack Twitter Clone with Next.js and Prisma (2020)](https://kunal.sh/posts/building-a-fullstack-twitter-clone) ([Code](https://github.com/kunalgorithm/fullstack-twitter))
+- [Next.js 9.5](https://nextjs.org/blog/next-9-5) ([HN](https://news.ycombinator.com/item?id=23966936))
