@@ -130,3 +130,4 @@ And these Discord servers:
 - [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.
 - [HN with Dark Mode](https://brianlovin.com/hn)
 - [Take control over your feeds to regain mindfulness (2020)](https://solmaz.io/thoughts/digital-hygiene-feeds/) ([HN](https://news.ycombinator.com/item?id=23662874))
+- [Ask HN: Is it just me? why is “news” so addictive? (2020)](https://news.ycombinator.com/item?id=23938007)

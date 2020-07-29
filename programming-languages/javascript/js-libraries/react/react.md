@@ -143,3 +143,4 @@
 - [Ярослав Лосев – React Reconciler: как написать собственный рендерер (2020)](https://www.youtube.com/watch?v=E1G2rMKq8lc) ([Code](https://github.com/LosYear/react-reconciler-talk))
 - [New, experimental frontend for React inspired by SwiftUI](https://github.com/tvler/experimental-react-like-framework)
 - [Plasmic](https://www.plasmic.app/) - Visual UI builder for React. ([Article](https://medium.com/plasmic-app/announcing-plasmic-3bc510a97ea3))
+- [Glossary of React Terms](https://reactjs.org/docs/glossary.html)
