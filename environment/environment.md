@@ -34,3 +34,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The rise and rise of Climate-tech (2020)](https://medium.com/@himanshu_99557/the-rise-and-rise-of-climate-tech-1c8e95da7c7b)
 - [Saildrone](https://www.saildrone.com/) - Redefining Ocean Data Collection.
 - [A thread of all things climate change, from history to core tenets and demands, from movement strategy & dynamics to hot takes (2019)](https://twitter.com/n_thanki/status/1159466969755729922)
+- [What can a technologist do about climate change? A personal view. (2015)](http://worrydream.com/ClimateChange/)
