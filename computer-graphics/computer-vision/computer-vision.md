@@ -91,3 +91,4 @@
 - [Computer Vision Lab | ETH Zurich](https://vision.ee.ethz.ch/)
 - [PyTorch Computer Vision Library for Experts and Beginners (2020)](https://medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners-84b9157584e5)
 - [Computer Vision Pretrained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
+- [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/) ([HN](https://news.ycombinator.com/item?id=23917337))

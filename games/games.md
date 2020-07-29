@@ -53,6 +53,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [MineJS](https://github.com/ian13456/mine.js) - Minecraft-like voxel engine built in JavaScript.
 - [Hypermine](https://github.com/Ralith/hypermine) - Minecraft-like game that is playable in a hyperbolic geometry. ([Demo](https://www.youtube.com/watch?v=AjCbkDCmNDo)) ([Wiki](https://github.com/Ralith/hypermine/wiki))
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Open source re-creation of the popular game "Dune II".
+- [MineSweeper](https://github.com/propjockey/css-sweeper) - Implemented in 100% CSS and HTML – no JavaScript. ([HN](https://news.ycombinator.com/item?id=23920987))
 
 ## Recommendations
 
@@ -91,3 +92,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Deus Ex at 20: The oral history of a pivotal PC game (2020)](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/) ([HN](https://news.ycombinator.com/item?id=23599411))
 - [Read-Only Memory](https://readonlymemory.vg/) - Publisher of beautiful books on videogame history. ([Twitter](https://twitter.com/ROMvg))
 - [Gamework (2020)](https://www.youtube.com/watch?v=FVoOC_RHY2E)
+- [Flash Game History](http://www.flashgamehistory.com/) ([HN](https://news.ycombinator.com/item?id=23922206))

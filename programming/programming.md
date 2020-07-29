@@ -199,3 +199,5 @@
 - [Etcd, or, why modern software makes me sad (2020)](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/) ([HN](https://news.ycombinator.com/item?id=23833362))
 - [The golden rule of software quality (2020)](http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html) ([Lobsters](https://lobste.rs/s/yikjeu/golden_rule_software_quality))
 - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ([Reddit](https://www.reddit.com/r/programming/comments/hx42ro/advice_to_myself_when_starting_out_as_a_software/))
+- [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) ([HN](https://news.ycombinator.com/item?id=23914486))
+- [Why GNU grep is fast (2010)](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html) ([HN](https://news.ycombinator.com/item?id=23923645))

@@ -70,3 +70,4 @@
 - [The Free and Open Source Silicon Foundation](https://fossi-foundation.org/)
 - [TinyPilot: Build a KVM Over IP for Under \$100 (2020)](https://mtlynch.io/tinypilot/) ([Lobsters](https://lobste.rs/s/j1xznn/tinypilot_build_kvm_over_ip_for_under_100))
 - [Socialism’s DIY Computer (2020)](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer) ([Lobsters](https://lobste.rs/s/jebrp8/socialism_s_diy_computer))
+- [Terminal Server on a Budget (2020)](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/) ([HN](https://news.ycombinator.com/item?id=23915777))

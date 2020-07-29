@@ -47,3 +47,4 @@
 - [Every Kind of Thing in Space Mapped (2020)](https://www.youtube.com/watch?v=uniGQrGLEoI)
 - [My dad launched the quest to find alien intelligence (2020)](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/) ([HN](https://news.ycombinator.com/item?id=23596603))
 - [Space Search](https://space-search.io/) - Search engine for space objects. ([HN](https://news.ycombinator.com/item?id=23078376))
+- [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO (2020)](https://www.eso.org/public/news/eso2011/?lang) ([HN](https://news.ycombinator.com/item?id=23917559))

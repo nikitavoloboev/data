@@ -65,3 +65,4 @@
 - [The perfect investor deck for raising a seed round (2015)](https://www.startuphacks.vc/blog/2015/12/31/the-perfect-investor-deck-for-seed-round)
 - [Fundraising? Don’t Say These Things to Investors (2020)](https://entrepreneurshandbook.co/fundraising-dont-say-these-things-to-investors-a285e6b59230)
 - [Sales Pitches For Startup Founders (2020)](https://www.holloway.com/g/founding-sales/sections/sales-pitches-for-startup-founders)
+- [Understand Seed Round(s) Dynamics in Silicon Valley (2020)](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in) ([HN](https://news.ycombinator.com/item?id=23914179))
