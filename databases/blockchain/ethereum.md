@@ -64,3 +64,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Semaphore](https://github.com/appliedzkp/semaphore) - Zero-knowledge gadget which allows users to prove their membership of a set without revealing their original identity.
 - [Ethereum Research Forum](https://ethresear.ch/)
 - [The hitchhiker’s guide to Ethereum (2020)](https://www.wslyvh.com/ethereum-guide/) ([HN](https://news.ycombinator.com/item?id=23770109))
+- [Ethereum Foundation Blog](https://blog.ethereum.org/)
