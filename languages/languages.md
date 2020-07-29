@@ -11,3 +11,4 @@
 - [Unker Non-Linear Writing System](https://s.ai/nlws/) ([Lobsters](https://lobste.rs/s/r7qucz/unker_non_linear_writing_system))
 - [Notation and thought](https://github.com/hypotext/notation) - Collection of quotes on notation design & how it affects thought.
 - [Repo to track the evolution of notation in arts and sciences](https://github.com/prathyvsh/notation)
+- [Twitter account that renames everyday objects](https://ahtaitay.blogspot.com/2020/07/this-twitter-account-is-renaming.html?m=1)

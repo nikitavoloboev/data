@@ -124,3 +124,4 @@
 - [goaction](https://github.com/posener/goaction) - Write Github actions in Go.
 - [Goaction example for using Github APIs](https://github.com/posener/goaction-issues-example)
 - [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Demonstration using Dhall to generate YAML for github actions.
+- [GitHub Actions: Manual triggers with workflow_dispatch (2020)](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/)
