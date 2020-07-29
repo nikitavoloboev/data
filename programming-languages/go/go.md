@@ -316,3 +316,4 @@ Go promotes composition over inheritance.
 - [Important Reading for Go](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md)
 - [Life without line numbers (2020)](https://commaok.xyz/post/no-line-numbers/)
 - [Go draft design proposal for file system interfaces and embedding files (2020)](https://lobste.rs/s/8lezbe/go_draft_design_proposal_for_file_system)
+- [Gebug](https://github.com/moshebe/gebug) - Debug Dockerized Go applications better.
