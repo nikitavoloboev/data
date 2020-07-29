@@ -13,3 +13,4 @@
 - [RISC-V OS using Rust: Filesystems](http://osblog.stephenmarz.com/ch10.html) ([HN](https://news.ycombinator.com/item?id=23155294))
 - [Sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management tool for ZFS filesystems. When combined with the Linux KVM hypervisor, you can use it to make your systems functionally immortal.
 - [UtahFS](https://github.com/cloudflare/utahfs) - Encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage. ([Article](https://blog.cloudflare.com/utahfs/)) ([HN](https://news.ycombinator.com/item?id=23465571))
+- [Writing a file system from scratch in Rust (2020)](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) ([Lobsters](https://lobste.rs/s/8ipzof/writing_file_system_from_scratch_rust))

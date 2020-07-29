@@ -23,6 +23,7 @@
 - [TidalCycles](https://tidalcycles.org/index.php/Welcome) - Allows you to make patterns with code, whether live coding music at algoraves or composing in the studio.
 - [Music Grid](https://music-grid.surge.sh/) - Simple music grid web app in which you can tap on cells to create music. ([HN](https://news.ycombinator.com/item?id=23512297)) ([Code](https://github.com/irshadshalu/music-grid))
 - [mosh](https://github.com/jamesb93/mosh) - Small command-line application written in Nim for 'moshing' data into audio.
+- [OCellator](http://kevinmahoney.co.uk/ocellator/) - Lispy synth language with structural editor. ([Lobsters](https://lobste.rs/s/td8ddx/ocellator_lispy_synth_language_with))
 
 ## Inspiration
 

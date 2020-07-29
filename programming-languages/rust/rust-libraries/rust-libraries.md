@@ -131,6 +131,7 @@
 ## ML
 
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
+- [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.
 
 ## macOS
 

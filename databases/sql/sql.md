@@ -55,3 +55,4 @@
 - [querycafe](https://www.query.cafe/) - Import, query, and share any dataset.
 - [AlaSQL](https://github.com/agershun/alasql) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).
 - [RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers (2020)](https://arxiv.org/abs/1911.04942) ([Code](https://github.com/microsoft/rat-sql))
+- [Some SQL Tricks of an Application DBA (2020)](https://hakibenita.com/sql-tricks-application-dba) ([Lobsters](https://lobste.rs/s/yqd6bi/some_sql_tricks_application_dba))

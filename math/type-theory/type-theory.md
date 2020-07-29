@@ -85,3 +85,4 @@
 - [Peter LeFanu Lumsdaine, What are we thinking when we present a type theory? (2020)](https://www.youtube.com/watch?v=kQe0knDuZqg)
 - [Mathematics in type theory (2020)](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/) ([HN](https://news.ycombinator.com/item?id=23612856))
 - [Division by zero in type theory: a FAQ (2020)](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/) ([HN](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/))
+- [Programming in Martin-L ̈of’s Type Theory: An Introduction (1990)](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)

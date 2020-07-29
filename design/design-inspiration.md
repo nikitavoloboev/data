@@ -153,6 +153,8 @@ Here are few more things I liked, design wise.
 - [Brent Jackson](https://jxnblk.com/)
 - [Vivien Hantusch](https://www.vivien.space/portfolio.html)
 - [Jon Gold](https://jon.gold/)
+- [Bilal Khan](https://bilal.software/)
+- [Haki Benita](https://hakibenita.com/)
 - [Joey Banks](https://joeyabanks.io/)
 - [Brian Louis](https://blr.design/)
 - [Jack McDade](https://jackmcdade.com/)
