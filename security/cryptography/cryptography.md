@@ -70,3 +70,4 @@
 - [A Gentle Introduction to Verifiable Delay Functions](https://adlrocha.substack.com/p/adlrocha-a-gentle-introduction-to) ([HN](https://news.ycombinator.com/item?id=23667575))
 - [Keyoxide](https://keyoxide.org/) - Lightweight and FOSS solution to make basic cryptography operations accessible to regular humans. ([Article](https://yarmo.eu/post/keyoxide)) ([Lobsters](https://lobste.rs/s/2ab63g/launching_keyoxide_org))
 - [Low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/) ([HN](https://news.ycombinator.com/item?id=23725921))
+- [Cryptography is not Magic (2020)](http://loup-vaillant.fr/articles/crypto-is-not-magic) ([Lobsters](https://lobste.rs/s/huvle5/cryptography_is_not_magic))

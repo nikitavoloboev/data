@@ -41,6 +41,7 @@
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE/) - Powerful real-time game development platform created by Crytek. ([HN](https://news.ycombinator.com/item?id=23660099))
 - [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
 - [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
+- [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
 
 ## Physics engines
 
