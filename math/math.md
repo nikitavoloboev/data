@@ -175,3 +175,4 @@
 - [Mathematicians Discover the Perfect Way to Multiply](https://www.quantamagazine.org/mathematicians-discover-the-perfect-way-to-multiply-20190411/) ([Lobsters](https://lobste.rs/s/jmgjkj/mathematicians_discover_perfect_way))
 - [Bloom filters debunked: Dispelling 30 Years of bad math with Coq (2020)](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html) ([Lobsters](https://lobste.rs/s/adwxhn/bloom_filters_debunked_dispelling_30))
 - [Irrational Numbers (2020)](https://blog.demofox.org/2020/07/26/irrational-numbers/) ([Lobsters](https://lobste.rs/s/nyu3y0/irrational_numbers))
+- [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118) ([HN](https://news.ycombinator.com/item?id=23911903))

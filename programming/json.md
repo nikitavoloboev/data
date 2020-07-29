@@ -18,3 +18,4 @@
 - [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet.
 - [Building a high performance JSON parser (2020)](https://dave.cheney.net/high-performance-json.html) ([HN](https://news.ycombinator.com/item?id=23662540))
 - [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
+- [The Rise and Rise of JSON (2017)](https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html) ([HN](https://news.ycombinator.com/item?id=23914743))

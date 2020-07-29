@@ -49,3 +49,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Homeschooled: Laura Deming, Scientist & Founder of The Longevity Fund (2020)](https://blog.withprimer.com/laura-deming/) ([HN](https://news.ycombinator.com/item?id=23644762))
 - [The future of education looks like Y Combinator. Here are 10 things schools can learn from the program. (2020)](https://twitter.com/david_perell/status/1277387185633689600)
 - [Ask HN: Something like Khan Academy but full curriculum for grade schoolers? (2020)](https://news.ycombinator.com/item?id=23793216)
+- [Consider getting a “DIY” degree online instead of a traditional CS major](https://www.pashabitz.com/posts/undergrad-altenative/) ([HN](https://news.ycombinator.com/item?id=23919579))
