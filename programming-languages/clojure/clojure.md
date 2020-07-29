@@ -63,3 +63,4 @@
 - [Clojure Learning Program](https://github.com/athensresearch/ClojureFam)
 - [Clojure Basics: Debugging with the REPL (2020)](https://www.youtube.com/watch?v=tpcl5pjkRTQ)
 - [Programming at the REPL (2018)](https://clojure.org/guides/repl/guidelines_for_repl_aided_development) ([HN](https://news.ycombinator.com/item?id=23791152))
+- [Nubank acquires Cognitect (2020)](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank) ([HN](https://news.ycombinator.com/item?id=23926407))

@@ -42,3 +42,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Goodhart's Law and how systems are shaped by the metrics you chase (2020)](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts) ([HN](https://news.ycombinator.com/item?id=23762526))
 - [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and privacy-friendly analytics.
 - [GoAccess](https://goaccess.io/) - Visual Web Log Analyzer.
+- [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD (2020)](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/) ([HN](https://news.ycombinator.com/item?id=23906165))
