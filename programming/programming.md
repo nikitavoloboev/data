@@ -202,3 +202,4 @@
 - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) ([HN](https://news.ycombinator.com/item?id=23914486))
 - [Why GNU grep is fast (2010)](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html) ([HN](https://news.ycombinator.com/item?id=23923645))
 - [What debugging technique did it take you entirely too long to learn? (2020)](https://lobste.rs/s/h7f6qk/what_debugging_technique_did_it_take_you)
+- [Dialectical Progress in Programming (2017)](https://amasad.me/dialectical)

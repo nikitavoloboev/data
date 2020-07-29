@@ -23,3 +23,5 @@
 - [Learn Genetics](https://learn.genetics.utah.edu/) ([HN](https://news.ycombinator.com/item?id=23295590))
 - [fgsea](https://github.com/ctlab/fgsea) - Fast Gene Set Enrichment Analysis.
 - [Awesome Genome Visualization](https://github.com/cmdcolin/awesome-genome-visualization)
+- [Computational Genomics Class Playlist at San Diego State University](https://www.youtube.com/playlist?list=PLpPXw4zFa0uLMHwSZ7DMeLGjIUgo1IBbn)
+- [Computational Genomics Manual](https://linsalrob.github.io/ComputationalGenomicsManual/) ([Code](https://github.com/linsalrob/ComputationalGenomicsManual))
