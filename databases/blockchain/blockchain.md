@@ -22,6 +22,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Slingshot](https://github.com/stellar/slingshot) - New blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 - [Tezos](https://tezos.com/) - Open-source platform for assets and applications backed by a global community of validators, researchers, and builders.
 - [arweave](https://www.arweave.org/) - New type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to store data forever.
+- [Foundation](https://withfoundation.com/) - Reclaiming the idea of the stock market to benefit creators and collectors directly.
 
 ## Notes
 

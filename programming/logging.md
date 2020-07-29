@@ -15,3 +15,4 @@
 - [StatsD Metrics Export Specification](https://github.com/b/statsd_spec)
 - [Loglizer](https://github.com/logpai/loglizer) - Machine learning-based log analysis toolkit for automated anomaly detection.
 - [DTXLoggingInfra](https://github.com/wix/DTXLoggingInfra) - Logging infrastructure for Apple platforms.
+- [Good Logging (2020)](https://henrikwarne.com/2020/07/23/good-logging/) ([Lobsters](https://lobste.rs/s/d8dk4r/good_logging))
