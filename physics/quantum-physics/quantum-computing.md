@@ -39,3 +39,4 @@
 - [Grove](https://github.com/rigetti/grove) - Collection of quantum algorithms built using the Rigetti Forest platform.
 - [Picturing Quantum Processes](https://www.cambridge.org/nl/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/picturing-quantum-processes-first-course-quantum-theory-and-diagrammatic-reasoning?format=HB) - A First Course in Quantum Theory and Diagrammatic Reasoning.
 - [A Brief Opinionated Overview of NIST’s Post-Quantum Cryptography Round 3 Candidates (2020)](https://soatok.blog/2020/07/24/a-brief-opinionated-of-nists-post-quantum-cryptography-round-3-candidates/) ([Lobsters](https://lobste.rs/s/t7g14w/brief_opinionated_overview_nist_s_post))
+- [Ask HN: Resources to start learning about quantum computing? (2020)](https://news.ycombinator.com/item?id=23914992)
