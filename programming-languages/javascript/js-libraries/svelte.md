@@ -37,3 +37,4 @@
 - [Svelte Actions for Progressive Enhancement in 100 Seconds (2020)](https://www.youtube.com/watch?v=Q6dzy_IIB1s)
 - [Svelte Recipes](https://svelte.recipes/)
 - [How Svelte code is different from React (2020)](https://twitter.com/lihautan/status/1280532033693839361)
+- [Svelte <3 TypeScript (2020)](https://svelte.dev/blog/svelte-and-typescript) ([Lobsters](https://lobste.rs/s/bu8ker/svelte_3_typescript))
