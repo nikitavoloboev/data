@@ -90,6 +90,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [James Jean](https://www.artsy.net/artist/james-jean)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
+- [Elvin Aliyev](https://www.behance.net/surferdude)
 - [Ben Nicholas](https://www.artstation.com/belgianboolean)
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)

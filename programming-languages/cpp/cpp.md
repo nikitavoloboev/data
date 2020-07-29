@@ -99,3 +99,4 @@
 - [C++ Lambda Story Book (2020)](https://www.bfilipek.com/2020/06/lambdastory.html)
 - [CPyKE](https://github.com/tbennun/cpyke) - Easy integrated Python scripting embedded in C++.
 - [5 Curious C++ Lambda Examples: Recursion, constexpr, Containers and More (2020)](https://www.bfilipek.com/2020/07/lambdas5ex.html)
+- [C++ On Sea](https://cpponsea.uk/) - International C++ conference.
