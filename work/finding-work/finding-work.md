@@ -48,7 +48,7 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [The Career Advice I Wish I Had](https://welearncode.com/career-advice/)
 - [Otta](https://otta.com/) - Discover the most relevant roles for you at all of London's best startups.
 - [Rocket List](https://rocketlist.co.uk/) - Curated list of the best fast-growing companies in London to work for. Built for job-seekers.
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies (or teams) that don't do "whiteboard" interviews.
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies (or teams) that don't do "whiteboard" interviews. ([HN](https://news.ycombinator.com/item?id=23981795))
 - [Placement](https://placement.com/) - Get a great job in a new city.
 - [Tell HN: I used to be homeless and want to work as a software developer (2019)](https://news.ycombinator.com/item?id=21880179)
 - [Thoughts on Recruiting (2019)](https://markmcgranaghan.com/recruiting)

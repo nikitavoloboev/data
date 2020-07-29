@@ -27,3 +27,4 @@
 - [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 - [Build](https://github.com/rizsotto/Bear) - Tool that generates a compilation database for clang tooling.
 - [How to list all the targets on a Makefile (2020)](https://diamantidis.github.io/tips/2020/07/01/list-makefile-targets) ([HN](https://news.ycombinator.com/item?id=23702756))
+- [You don’t need reproducible builds (2020)](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html) ([Lobsters](https://lobste.rs/s/ha8c42/you_don_t_need_reproducible_builds))
