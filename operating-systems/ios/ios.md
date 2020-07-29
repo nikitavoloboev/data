@@ -54,6 +54,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
 - [Supercharge](https://www.supercharge.app/) - Offers an innovative tweak editor with dozens of tools to build tweaks without writing a single line of code.
 - [play.js](https://playdotjs.com/) - Node.js and React Native IDE for iPhone and iPad.
+- [CocoaHub](https://cocoahub.app/) - Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 
 ## Notes
 

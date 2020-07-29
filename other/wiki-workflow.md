@@ -200,3 +200,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [histre](https://histre.com/) - Effortless Knowledge Base.
 - [Notebooks (2020)](https://blog.yoshuawuyts.com/notebooks/)
 - [Digital gardens (2020)](https://schof.co/digital-garden/)
+- [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st Century. ([Why is Zettlr Open Source?](https://www.zettlr.com/post/why-zettlr-open-source))

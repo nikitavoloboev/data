@@ -147,6 +147,7 @@ Here are few more things I liked, design wise.
 - [Roxane Jammet](http://roxane.me/)
 - [Rob Hope](https://robhope.com/)
 - [Andy Sparks](https://www.andysparks.co/)
+- [Andrea Limjoco](http://andrealimjo.co/)
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Patrick Heng](https://patrickheng.com/)
 - [Erlend Hamberg](https://hamberg.no/erlend/)

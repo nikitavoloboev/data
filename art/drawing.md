@@ -23,3 +23,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Drawing on the Right Side of the Brain](https://www.drawright.com/)
 - [Elegy for Creative Independence](https://flowartestudio.ck.page/) - Art Session Worksheets.
 - [Shelly](https://shelly.dev/) - Programming language for drawing. ([HN](https://news.ycombinator.com/item?id=23866688))
+- [Procreate Handbook](https://procreate.art/handbook)
