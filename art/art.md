@@ -286,3 +286,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Creative AI Lab](https://creative-ai.org/) - Ongoing project to aggregate tools and resources for artists, engineers, curators & researchers interested in incorporating machine learning (ML) and other forms of artificial intelligence (AI) into their practice.
 - [Artnome](https://www.artnome.com/)
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) ([Links](https://linktr.ee/truegrittexturesupply))
+- [1 Second Painting](https://1secondpainting.com/) - Generate abstract paintings in one click. ([HN](https://news.ycombinator.com/item?id=23919590))

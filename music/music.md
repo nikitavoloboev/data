@@ -47,3 +47,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Dynamic music for video creators](https://www.moodelizer.com/studio/music-for-video)
 - [Crowd-sourced list of Black artists on Bandcamp](https://www.blackbandcamp.info/#/)
 - [Music And Measure Theory (2015)](https://www.youtube.com/watch?v=cyW5z-M2yzw)
+- [Defining the ’90s Music Canon (2020)](https://pudding.cool/2020/07/song-decay/) ([HN](https://news.ycombinator.com/item?id=23919786))

@@ -72,3 +72,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Increase Your Chances Of Getting Hired As A Code Newbie (2020)](https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie)
 - [How do you measure career/personal growth? (2020)](https://lobste.rs/s/bkyxww/how_do_you_measure_career_personal_growth)
 - [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847) ([HN](https://news.ycombinator.com/item?id=23964539))
+- [Ask HN: Is all of FAANG like this? (2020)](https://news.ycombinator.com/item?id=23917131)

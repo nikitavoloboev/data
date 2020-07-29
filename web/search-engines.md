@@ -45,3 +45,4 @@
 - [paxx](https://github.com/jackdoe/paxx) - Simple inverted index search engine.
 - [Sajari](https://www.sajari.com/) - AI-driven Search Solutions.
 - [Runnaroo](https://www.runnaroo.com/) - A Better Private Search Engine. ([HN](https://news.ycombinator.com/item?id=23771131))
+- [Wiby](https://wiby.org/) - Search Engine for the Classic Web. ([HN](https://news.ycombinator.com/item?id=23926964))

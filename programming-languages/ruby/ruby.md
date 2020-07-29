@@ -18,3 +18,4 @@
 - [Why's Poignant Guide to Ruby](http://poignant.guide/)
 - [TruffleRuby](https://github.com/oracle/truffleruby) - GraalVM high-performance implementation of the Ruby programming language built by Oracle Labs.
 - [A silly thing you can do with the Ruby parser](https://penelope.zone/2019/12/22/a-silly-thing-you-can-do-with-the-ruby-parser.html) ([Lobsters](https://lobste.rs/s/op8zo4/silly_thing_you_can_do_with_ruby_parser))
+- [Ruby Method Overloading (2020)](https://lucaguidi.com/2020/07/22/ruby-method-overloading/) ([Lobsters](https://lobste.rs/s/gqsbka/ruby_method_overloading))

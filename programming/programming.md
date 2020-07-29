@@ -201,3 +201,4 @@
 - [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ([Reddit](https://www.reddit.com/r/programming/comments/hx42ro/advice_to_myself_when_starting_out_as_a_software/))
 - [Write code that is easy to delete, not easy to extend (2016)](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to) ([HN](https://news.ycombinator.com/item?id=23914486))
 - [Why GNU grep is fast (2010)](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html) ([HN](https://news.ycombinator.com/item?id=23923645))
+- [What debugging technique did it take you entirely too long to learn? (2020)](https://lobste.rs/s/h7f6qk/what_debugging_technique_did_it_take_you)

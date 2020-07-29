@@ -46,3 +46,4 @@
 - [Love letter to the Golden Age of Corporate Kitsch](https://www.instagram.com/__________office/)
 - [KGB Defector Yuri Bezmenov reveals Russian Subversion Tactics (1984)](https://www.youtube.com/watch?v=zgmg2VFX058)
 - [How 20 Famous Historical And Popular Figures looked like](https://www.boredpanda.com/digital-art-restoring-appearances-historical-figures-bas-uterwijk/)
+- [BBS Graphics History: Pretty awesome, until the web showed up (2020)](https://tedium.co/2020/07/21/bbs-graphics-history-ripscrip-naplps/) ([HN](https://news.ycombinator.com/item?id=23916050))

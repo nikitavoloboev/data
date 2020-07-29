@@ -313,3 +313,6 @@ Go promotes composition over inheritance.
 - [GopherCon Europe: Online 2020](https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG)
 - [Go’s History in Code (2020)](https://seh.dev/go-legacy/)
 - [The impact on middleware of expanding APIs with Go's interface smuggling](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMiddlewareVsInterfaceSmuggling) ([HN](https://news.ycombinator.com/item?id=23799833))
+- [Important Reading for Go](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md)
+- [Life without line numbers (2020)](https://commaok.xyz/post/no-line-numbers/)
+- [Go draft design proposal for file system interfaces and embedding files (2020)](https://lobste.rs/s/8lezbe/go_draft_design_proposal_for_file_system)

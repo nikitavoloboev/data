@@ -14,3 +14,4 @@
 - [YoWASP](https://yowasp.org/) - Unofficial WebAssembly-based packages for Yosys, nextpnr, and more.
 - [Silice](https://github.com/sylefeb/Silice) - Language for hardcoding Algorithms into FPGA hardware.
 - [Repurposing FPGA-based Products as Development Kits](https://geeklan.co.uk/files/ossg16072020-repurposing_obsolete_fpga_and_dev_kits.pdf) ([Lobsters](https://lobste.rs/s/bprw37/repurposing_fpga_based_products_as))
+- [The History, Status, and Future of FPGAs (2020)](https://queue.acm.org/detail.cfm?id=3411759) ([HN](https://news.ycombinator.com/item?id=23927992))

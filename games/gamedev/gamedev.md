@@ -79,3 +79,4 @@
 - [Networked games: Playing in the past or future (2020)](https://www.evanjones.ca/network-game-simulation.html) ([HN](https://news.ycombinator.com/item?id=23839390))
 - [Rust Sokoban](https://sokoban.iolivia.me/) - Extended tutorial on making a Sokoban copy in Rust.
 - [How do I design a game from scratch? A primer on core loops (2020)](https://teamavocado.co/core-loop/) ([HN](https://news.ycombinator.com/item?id=23869155))
+- [Elo suck - better multiplayer rating systems for smaller games](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f) ([Lobsters](https://lobste.rs/s/tzdghs/elo_sucks_better_multiplayer_rating))

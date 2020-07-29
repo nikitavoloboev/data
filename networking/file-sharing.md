@@ -27,3 +27,4 @@
 - [Syncthing is everything I used to love about computers (2020)](https://tonsky.me/blog/syncthing/) ([Lobsters](https://lobste.rs/s/4ucmcp/computers_as_i_used_love_them)) ([HN](https://news.ycombinator.com/item?id=23537243))
 - [Perkeep](https://perkeep.org/) - Lets you permanently keep your stuff, for life. ([HN](https://news.ycombinator.com/item?id=23676350))
 - [HN: Discussing Dropbox (2020)](https://news.ycombinator.com/item?id=23787446)
+- [SCP user's migration guide to rsync (2020)](https://fedoramagazine.org/scp-users-migration-guide-to-rsync/) ([Lobsters](https://lobste.rs/s/uupfif/scp_user_s_migration_guide_rsync))
