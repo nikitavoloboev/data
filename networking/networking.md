@@ -119,3 +119,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Can we talk about client-side certificates? (2020)](https://drewdevault.com/tls/security/oauth/2020/06/12/Can-we-talk-about-client-side-certs.html) ([Lobsters](https://lobste.rs/s/oddjob/can_we_talk_about_client_side))
 - [How CDNs Generate Certificates (2020)](https://fly.io/blog/how-cdns-generate-certificates/)
 - [Tunnel to dev](https://tunnelto.dev/) - Expose your local web server to the internet with a public URL.
+- [CS Visualized: CORS (2020)](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)

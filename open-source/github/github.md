@@ -107,3 +107,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Stars](https://stars.github.com/) - Lift up the people who inspire and educate your communities with the GitHub Stars program.
 - [Building a self-updating profile README for GitHub (2020)](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) ([HN](https://news.ycombinator.com/item?id=23807881))
 - [GitHub public roadmap](https://github.com/github/roadmap) ([HN](https://news.ycombinator.com/item?id=23977256))
+- [Repos Beyond Code: A Collection of Creative Uses of GitHub (2018)](http://www.brendanschlagel.com/2018/09/28/repos-beyond-code-a-collection-of-creative-uses-of-github/)

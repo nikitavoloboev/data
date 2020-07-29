@@ -28,3 +28,4 @@
 - [Technica11y](https://technica11y.org/) - Discussing challenges in technical accessibility.
 - [Tenon.io](https://tenon.io/) - Accessibility as a Service.
 - [A11Y Project](https://www.a11yproject.com/) - Community-driven effort to make digital accessibility easier.
+- [Appreciating accessibility - Keyboard shortcut guidelines](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)

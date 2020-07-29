@@ -115,3 +115,4 @@
 - [Awesome machine learning for compilers and program optimisation](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 - [Compiler Fuzzing: How Much Does It Matter? (2019)](https://www.youtube.com/watch?v=5TX5R_aX3ec)
 - [SOIL: Single Open Intermediate Language](http://soil-initiative.org/) ([Lobsters](https://lobste.rs/s/2kdxph/soil_single_open_intermediate_language))
+- [A Quick Introduction to Register Allocation (2020)](https://hassamuddin.com/blog/reg-alloc/) ([Lobsters](https://lobste.rs/s/3wfzfq/quick_introduction_register_allocation))

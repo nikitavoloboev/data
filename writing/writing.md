@@ -164,3 +164,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [How to Write Technical Posts (so people will read them) (2019)](https://reasonablypolymorphic.com/blog/writing-technical-posts/) ([Lobsters](https://lobste.rs/s/5xfwza/how_write_technical_posts_so_people_will))
 - [Write to a short attention span (2020)](https://matthewrocklin.com/blog/work/2020/07/13/brevity)
 - [Lobsters: What are you writing? (2020)](https://lobste.rs/s/gueost/what_are_you_writing)
+- [My Writing Setup (2020)](https://explog.in/notes/writingsetup.html) ([Lobsters](https://lobste.rs/s/2fngph/my_writing_setup))

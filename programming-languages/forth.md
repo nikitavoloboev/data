@@ -6,3 +6,4 @@
 - [Charles Moore: From Forth to Stack Processors and Beyond (2013)](http://www.cpushack.com/2013/02/21/charles-moore-forth-stack-processors/) ([HN](https://news.ycombinator.com/item?id=22865360))
 - [Collapse OS — Why Forth? (2020)](https://collapseos.org/forth.html) ([Lobsters](https://lobste.rs/s/t26h1l/collapse_os_why_forth))
 - [fortraith](https://github.com/Ashymad/fortraith) - Forth implemented in Rust trait system. ([HN](https://news.ycombinator.com/item?id=23501474))
+- [Network forth](http://www.sandelman.ca/People/Michael_Richardson/network-forth.html) ([Lobsters](https://lobste.rs/s/nemayk/network_forth))
