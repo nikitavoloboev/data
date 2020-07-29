@@ -8,3 +8,4 @@
 - [Everything you need to know to use Keras & TF 2.0 to build real-world machine learning solutions](https://colab.research.google.com/drive/1lWUGZarlbORaHYUZlF9muCgpPl8pEvve)
 - [Keras debugging tips](https://keras.io/examples/keras_recipes/debugging_tips/) ([Twitter](https://twitter.com/fchollet/status/1261769218766192640))
 - [Keras Examples](https://keras.io/examples/)
+- [Working with preprocessing layers](https://keras.io/guides/preprocessing_layers/)

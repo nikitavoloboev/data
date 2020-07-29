@@ -65,3 +65,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Gather](https://www.usegather.com/) - Collaborative finance tool.
 - [Stripe](https://stripe.com/en-nl) - Online payment processing for internet businesses.
 - [Financial Statements: A Beginner's Guide (2020)](https://www.causal.app/blog/whats-a-financial-statement) ([HN](https://news.ycombinator.com/item?id=23825606))
+- [Awesome Foundations of Decentralized Finance (DeFi)](https://github.com/Mikerah/awesome-foundations-of-DeFi)

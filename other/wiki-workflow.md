@@ -198,3 +198,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Artificial Brain Networked notebook apps](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
 - [Ask HN: How to Take Notes? (2020)](https://news.ycombinator.com/item?id=23844490)
 - [histre](https://histre.com/) - Effortless Knowledge Base.
+- [Notebooks (2020)](https://blog.yoshuawuyts.com/notebooks/)
