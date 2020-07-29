@@ -199,3 +199,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ask HN: How to Take Notes? (2020)](https://news.ycombinator.com/item?id=23844490)
 - [histre](https://histre.com/) - Effortless Knowledge Base.
 - [Notebooks (2020)](https://blog.yoshuawuyts.com/notebooks/)
+- [Digital gardens (2020)](https://schof.co/digital-garden/)
