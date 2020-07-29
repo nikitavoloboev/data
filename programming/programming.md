@@ -198,3 +198,4 @@
 - [Introduction to Asynchronous Programming](http://cs.brown.edu/courses/cs168/f12/handouts/async.pdf)
 - [Etcd, or, why modern software makes me sad (2020)](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/) ([HN](https://news.ycombinator.com/item?id=23833362))
 - [The golden rule of software quality (2020)](http://www.haskellforall.com/2020/07/the-golden-rule-of-software-quality.html) ([Lobsters](https://lobste.rs/s/yikjeu/golden_rule_software_quality))
+- [Advice to Myself When Starting Out as a Software Developer](https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/) ([Reddit](https://www.reddit.com/r/programming/comments/hx42ro/advice_to_myself_when_starting_out_as_a_software/))
