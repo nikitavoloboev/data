@@ -56,3 +56,4 @@
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
 - [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Enables containerd to manage containers as Firecracker microVMs.
 - [firecracker-go-sdk](https://github.com/firecracker-microvm/firecracker-go-sdk) - SDK in Go for the Firecracker microVM API.
+- [The Edge Computing Opportunity: It’s Not What You Think (2020)](https://blog.cloudflare.com/cloudflare-workers-serverless-week/)
