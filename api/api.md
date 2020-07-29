@@ -92,6 +92,7 @@
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [TalkJS](https://talkjs.com/) - Chat API and Javascript SDK for websites and apps.
+- [Exchangerate.host](https://exchangerate.host/#/) - Free API service for crypto and foreign exchange rates. ([HN](https://news.ycombinator.com/item?id=23917210))
 
 ## Links
 
