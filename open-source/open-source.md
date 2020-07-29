@@ -105,3 +105,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Libraries.io](https://libraries.io/) - Open Source Discovery Service. ([Code](https://github.com/librariesio/libraries.io))
 - [Open Source Sustainability (2020)](https://dev.to/erikras/open-source-sustainability-3pjf)
 - [Ethical Source: Open Source, Evolved](https://ethicalsource.dev/) ([Comment](https://news.ycombinator.com/item?id=23737855))
+- [Rethinking Open Source: The Challenges Behind Establishing a Modern Emulator (2019)](https://emucross.com/rethinking-open-source/) ([Lobsters](https://lobste.rs/s/x45hrd/rethinking_open_source_challenges))

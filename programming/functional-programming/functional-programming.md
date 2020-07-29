@@ -87,6 +87,7 @@
 - [Graham Hutton: Publications](http://www.cs.nott.ac.uk/~pszgmh/bib.html)
 - [Queensland Functional Programming Lab](https://qfpl.io/)
 - [List of useful resources to learn typed FP](https://github.com/dewey92/typed-fp-good-reads)
+- [Monads and Mom (2020)](https://twitchard.github.io/posts/2020-07-26-monads.html) ([Lobsters](https://lobste.rs/s/hkz1kh/monads_mom))
 
 ## Images
 

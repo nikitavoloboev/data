@@ -33,3 +33,4 @@ Is logical theory of computable functions.
 - [The Awesome Power of Theory: Explorations in the untyped lambda calculus (2014)](http://www.flownet.com/ron/lambda-calculus.html)
 - [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations)
 - [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus)
+- [Finite Vector Spaces as Model of Simply-Typed Lambda-Calculi](https://www.cis.upenn.edu/~stevez/papers/VZ14.pdf)

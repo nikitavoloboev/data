@@ -258,3 +258,5 @@
 - [Shipping Const Generics in 2020](https://without.boats/blog/shipping-const-generics/) ([HN](https://news.ycombinator.com/item?id=23858916))
 - [Rust 1.45 (2020)](https://blog.rust-lang.org/2020/07/16/Rust-1.45.0.html) ([HN](https://news.ycombinator.com/item?id=23859085))
 - [Clear explanation of Rust’s module system (2020)](http://www.sheshbabu.com/posts/rust-module-system/) ([Lobsters](https://lobste.rs/s/1tarzz/clear_explanation_rust_s_module_system))
+- [Enum or Trait Object (2020)](https://www.possiblerust.com/guide/enum-or-trait-object) ([Lobsters](https://lobste.rs/s/dubjtt/enum_trait_object))
+- [Possible Rust](https://www.possiblerust.com/) - Learning what’s possible in Rust.
