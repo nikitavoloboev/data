@@ -130,3 +130,4 @@
 - [How GPT3 Works - Visualizations and Animations (2020)](https://jalammar.github.io/how-gpt3-works-visualizations-animations/) ([Lobsters](https://lobste.rs/s/j54rgh/how_gpt3_works_visualizations)) ([HN](https://news.ycombinator.com/item?id=23967887))
 - [What is GPT-3? written in layman's terms (2020)](https://tinkeredthinking.com/index.php?id=841) ([HN](https://news.ycombinator.com/item?id=23923799))
 - [GPT3 Examples](https://gpt3examples.com/)
+- [DQI: Measuring Data Quality in NLP (2020)](https://arxiv.org/abs/2005.00816)

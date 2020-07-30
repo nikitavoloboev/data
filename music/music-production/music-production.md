@@ -80,3 +80,4 @@
 - [Creating Music in Sonic Pi (2020)](https://www.lilychan.dev/track1.html)
 - [JazzKeys](https://jazzkeys.plan8.co/) - Type to improvise Jazz music. ([HN](https://news.ycombinator.com/item?id=23737195))
 - [Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/) ([HN](https://news.ycombinator.com/item?id=23783652))
+- [Studiotime](https://www.studiotime.io/) - Rent a music studio, recording studio.

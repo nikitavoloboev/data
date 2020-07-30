@@ -39,3 +39,4 @@
 - [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl (2020)](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala) ([HN](https://news.ycombinator.com/item?id=23529016))
 - [JuliaAcademy courses](https://juliaacademy.com/courses)
 - [JuliaCon](https://live.juliacon.org/) - Conference dedicated to the Julia programming language.
+- [Julia for teaching optimization](https://michielstock.github.io/juliateaching/)
