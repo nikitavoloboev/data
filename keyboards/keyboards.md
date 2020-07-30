@@ -25,6 +25,7 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Absolem](https://zealot.hu/absolem/) ([Code](https://github.com/mrzealot/absolem))
 - [jklp](https://github.com/brow/jklp) - 36-key ergonomic keyboard.
 - [Moonlander](https://zsa.io/moonlander/) - Next-generation ergonomic keyboard.
+- [Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard) ([Tweet](https://twitter.com/kaepora/status/1288755152854437894))
 
 ## Interesting keycaps
 

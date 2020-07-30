@@ -55,4 +55,5 @@
 - [BuckleScript Monorepo example](https://github.com/anmonteiro/bucklescript-monorepo)
 - [reanalyze](https://github.com/reason-association/reanalyze) - Program analysis for Reason and OCaml projects targeting JS (bucklescript) as well as native code (dune).
 - [If you think ReasonML compiles to JS, you are wrong (2019)](https://baturin.org/blog/if-you-think-reasonml-compiles-to-js-you-are-wrong/)
-- [Ulrik Strid - Reason Native Web (2020)](https://www.youtube.com/watch?v=t-sWyMqxsD0&feature=youtu.be)
+- [Ulrik Strid - Reason Native Web (2020)](https://www.youtube.com/watch?v=t-sWyMqxsD0)
+- [Gabriel Nordeborn - ReasonRelay Demo (2020)](https://www.youtube.com/watch?v=fjbV0-OGuf4)

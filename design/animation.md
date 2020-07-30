@@ -17,3 +17,4 @@
 - [Pose](https://galshir.com/pose/) - Simple web app for character posing.
 - [Lottie](http://airbnb.io/lottie/#/) - Parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ([Code](https://github.com/airbnb/lottie))
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
+- [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
