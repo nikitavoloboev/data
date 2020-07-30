@@ -176,3 +176,4 @@
 - [Bloom filters debunked: Dispelling 30 Years of bad math with Coq (2020)](https://gopiandcode.uk/logs/log-bloomfilters-debunked.html) ([Lobsters](https://lobste.rs/s/adwxhn/bloom_filters_debunked_dispelling_30))
 - [Irrational Numbers (2020)](https://blog.demofox.org/2020/07/26/irrational-numbers/) ([Lobsters](https://lobste.rs/s/nyu3y0/irrational_numbers))
 - [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118) ([HN](https://news.ycombinator.com/item?id=23911903))
+- [Linear Logic Flavoured Composition of Petri Nets (2020)](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)

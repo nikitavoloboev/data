@@ -20,3 +20,4 @@ Concurrency is the composition of independently executing computations.
 - [Deterministic Parallel Fixpoint Computation (2019)](https://arxiv.org/pdf/1909.05951.pdf)
 - [Fearless concurrency: how Clojure, Rust, Pony, Erlang and Dart let you achieve that. (2019)](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/fearlessconcurrencyhowclojurerustponyerlanganddartletyouachievethat) ([HN](https://news.ycombinator.com/item?id=19241427))
 - [A Concurrency Cost Hierarchy (2020)](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
+- [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/) ([HN](https://news.ycombinator.com/item?id=23983508))
