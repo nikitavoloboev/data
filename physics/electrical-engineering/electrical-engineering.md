@@ -29,3 +29,4 @@
 - [Logic, before ICs (2020)](https://northcoastsynthesis.com/news/logic-before-ics/) ([HN](https://news.ycombinator.com/item?id=23591521))
 - [Synth DIY Projects](https://northcoastsynthesis.com/synth-diy-projects/)
 - [Electronics & Microcontrollers for Absolute Beginners (2020)](https://hackaday.io/page/7185-electronics-microcontrollers-for-absolute-beginners-part-1)
+- [VSRTL](https://github.com/mortbopet/VSRTL) - Visual Simulation of Register Transfer Logic.

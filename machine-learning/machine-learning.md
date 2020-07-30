@@ -262,3 +262,4 @@
 - [CML](https://cml.dev/) - Continuous Machine Learning: Bring DevOps to Data Science. ([HN](https://news.ycombinator.com/item?id=23759332)) ([Code](https://github.com/iterative/cml))
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0) ([HN](https://news.ycombinator.com/item?id=23867892))
 - [Apple Machine Learning Research](https://machinelearning.apple.com/) ([HN](https://news.ycombinator.com/item?id=23944506))
+- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates generation of Model Cards, machine learning documents that provide context and transparency into a model's development and performance. ([Article](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html))

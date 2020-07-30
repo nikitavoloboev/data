@@ -38,3 +38,4 @@
 - [Improving performance with SIMD intrinsics in three use cases (2020)](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/) ([HN](https://news.ycombinator.com/item?id=23772302))
 - [Inside the 8086 processor, tiny charge pumps create a negative voltage (2020)](http://www.righto.com/2020/07/inside-8086-processor-tiny-charge-pumps.html)
 - [An Intel 8080 assembler and online simulator (2020)](https://eli.thegreenplace.net/2020/an-intel-8080-assembler-and-online-simulator/)
+- [CoreMark](https://github.com/eembc/coremark) - Industry-standard benchmark that measures the performance of central processing units (CPU) and embedded microcrontrollers (MCU).

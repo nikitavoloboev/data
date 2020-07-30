@@ -104,3 +104,4 @@
 - [ALEX](https://github.com/microsoft/ALEX) - Library for building an in-memory, Adaptive Learned indEX. ([HN](https://news.ycombinator.com/item?id=23571741))
 - [cereal](https://github.com/USCiLab/cereal) - C++11 library for serialization.
 - [Boost C++ Libraries](https://github.com/boostorg/boost)
+- [ELFIO](https://github.com/serge1/ELFIO) - Header-only C++ library intended for reading and generating files in the ELF binary format.
