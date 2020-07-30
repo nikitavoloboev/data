@@ -20,3 +20,4 @@
 - [50 Short Product Lessons (2020)](https://cutle.fish/blog/50-product-lessons)
 - [Product Channel Fit Will Make or Break Your Growth Strategy (2017)](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 - [Jumping into Product Management (2019)](https://www.martzoukos.com/posts/jumping-into-product-management)
+- ["Product surface area" problem explained (2020)](https://twitter.com/amontalenti/status/1281940587843813376)

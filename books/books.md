@@ -248,3 +248,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))
 - [HN: There’s no replacement for the thrill of browsing in a bookstore (2020)](https://news.ycombinator.com/item?id=23678230)
 - [Lessons and Regrets from My \$25000 Book Launch (2020)](https://www.swyx.io/writing/coding-career-launch/)
+- [Timeful Texts (2020)](https://numinous.productions/timeful/) ([Tweet](https://twitter.com/andy_matuschak/status/1288221180063694848))
+- [Future Text Publishing](https://futuretextpublishing.com/) - Collection of dreams for how we want text to evolve as well as how we understand our current textual infrastructures, how we view the history of writing, and much more.

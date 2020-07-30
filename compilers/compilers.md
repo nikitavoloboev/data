@@ -116,3 +116,4 @@
 - [Compiler Fuzzing: How Much Does It Matter? (2019)](https://www.youtube.com/watch?v=5TX5R_aX3ec)
 - [SOIL: Single Open Intermediate Language](http://soil-initiative.org/) ([Lobsters](https://lobste.rs/s/2kdxph/soil_single_open_intermediate_language))
 - [A Quick Introduction to Register Allocation (2020)](https://hassamuddin.com/blog/reg-alloc/) ([Lobsters](https://lobste.rs/s/3wfzfq/quick_introduction_register_allocation))
+- [Effective Function Merging in the SSA Form (2020)](https://www.youtube.com/watch?v=tu4p1ftTBVw) ([Tweet](https://twitter.com/cbarrett/status/1288615955870949383))

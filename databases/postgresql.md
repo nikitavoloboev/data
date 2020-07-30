@@ -120,3 +120,4 @@
 - [PostgreSQL Templates (2020)](https://supabase.io/blog/2020/07/09/postgresql-templates/) ([HN](https://news.ycombinator.com/item?id=23781786))
 - [pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust. ([HN](https://news.ycombinator.com/item?id=23821112))
 - [PostgreSQL EXPLAIN glossary](https://www.pgmustard.com/docs/explain)
+- [Postgres Job Queues & Failure By MVCC (2020)](https://brandur.org/postgres-queues)
