@@ -46,3 +46,4 @@
 - [Is there any reason to not expect hyperinflation in the US? (2020)](https://www.reddit.com/r/AskEconomics/comments/hatqdd/serious_is_there_any_reason_to_not_expect/)
 - [Meditations On Moloch (2014)](https://www.lesswrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch)
 - [Just Too Efficient (2020)](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient) ([HN](https://news.ycombinator.com/item?id=23809291))
+- [Why Do People Stay Poor? (2020)](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf) ([HN](https://news.ycombinator.com/item?id=23983974))
