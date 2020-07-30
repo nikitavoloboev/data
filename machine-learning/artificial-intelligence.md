@@ -30,3 +30,4 @@
 - [DeepMind AI reading list (2020)](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf) ([HN](https://news.ycombinator.com/item?id=23662067))
 - [Using Artificial Intelligence to Augment Human Intelligence (2017)](https://distill.pub/2017/aia/)
 - [Why general artificial intelligence will not be realized (2020)](https://www.nature.com/articles/s41599-020-0494-4) ([HN](https://news.ycombinator.com/item?id=23793108))
+- [AI Myths](https://www.aimyths.org/) - Tackle 8 of the most insidious myths, misconceptions and inaccuracies about AI. ([Tweet](https://twitter.com/djleufer/status/1288423369327681536))
