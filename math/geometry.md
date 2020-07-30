@@ -13,3 +13,4 @@
 - [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/) ([HN](https://news.ycombinator.com/item?id=23590642))
 - [Qhull](http://www.qhull.org/) - Computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi diagram. ([Code](https://github.com/qhull/qhull))
 - [Non-Euclidean Geometry Explained (2020)](https://www.youtube.com/watch?v=zQo_S3yNa2w)
+- [What does this prove? Some of the most gorgeous visual "shrink" proofs ever invented (2020)](https://www.youtube.com/watch?v=sDfzCIWpS7Q)

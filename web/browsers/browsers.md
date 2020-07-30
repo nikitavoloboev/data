@@ -14,7 +14,7 @@
 - [WebKit](https://github.com/WebKit/webkit) - Open source cross-platform web browser engine.
 - [Browserless](https://www.browserless.io/) - Fast, scalable, and reliable browser automation built for businesses and developers.
 - [Polypane](https://polypane.app/) - Browser for developers and designers.
-- [QA Wolf](https://github.com/qawolf/qawolf) - Create browser tests 10x faster.
+- [QA Wolf](https://github.com/qawolf/qawolf) - Create browser tests 10x faster. ([Web](https://www.qawolf.com/))
 - [Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1) - Multi part series on how browsers work. Other parts found in left sidebar.
 - [Life of pixel (2019)](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.g60f92a5151_40_0)
 - [The whole web at maximum FPS: How WebRender gets rid of jank (2017)](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)

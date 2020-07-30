@@ -207,6 +207,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [NITCH](https://www.nitch.com/)
 - [The Art of Imperial Boy](https://www.iamag.co/the-art-of-imperial-boy/)
 - [Naughty Dog The Last of Us Part II Art Blast](https://magazine.artstation.com/2020/06/naughty-dog-the-last-of-us-part-ii-art-blast/)
+- [Petrus Van Schendel's Candle in the night](https://twitter.com/zhuanghongru/status/1276403432304209922)
 
 ## Photography
 
