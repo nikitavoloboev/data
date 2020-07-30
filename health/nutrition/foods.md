@@ -97,3 +97,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [What vertical farming and ag startups don't understand about agriculture (2020)](https://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/) ([HN](https://news.ycombinator.com/item?id=23630201))
 - [Investors say agroforestry is climate friendly and also profitable (2020)](https://news.mongabay.com/2020/07/investors-find-agroforestry-isnt-just-climate-friendly-it-can-also-be-profitable/) ([HN](https://news.ycombinator.com/item?id=23794141))
 - [Cult Favorite](https://cult.supply/)
+- [Different kinds of watermelon](https://twitter.com/Botanygeek/status/1150878950924722177)
