@@ -273,6 +273,7 @@ Here are few more things I liked, design wise.
 - [Matt Drollette](https://matt.drollette.com/)
 - [Alasdair Monk](https://alasdairmonk.com/)
 - [Steve Klabnik](https://steveklabnik.com/)
+- [Steve Losh](https://stevelosh.com/)
 - [David Heinemeier Hansson](https://dhh.dk/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.

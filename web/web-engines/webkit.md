@@ -7,3 +7,4 @@
 - [WebKit Blog](https://webkit.org/blog/)
 - [WebKit Goals for 2020](https://trac.webkit.org/wiki/WebKitGoalsfor2020) ([HN](https://news.ycombinator.com/item?id=21489686))
 - [ResizeObserver in WebKit](https://webkit.org/blog/9997/resizeobserver-in-webkit/) ([Tweet](https://twitter.com/addyosmani/status/1248899086490558465))
+- [Speculation in JavaScriptCore (2020)](https://webkit.org/blog/10308/speculation-in-javascriptcore/) ([HN](https://news.ycombinator.com/item?id=23989035))
