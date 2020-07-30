@@ -15,3 +15,4 @@
 - [ESPHome](https://esphome.io/) - System to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. ([Code](https://github.com/esphome/esphome))
 - [Home Assistant with Google Auth and Assistant (2020)](https://mwitkow.me/posts/2020-04-25_homeassistant_google/)
 - [My IoT](https://github.com/eigenein/my-iot-rs) - Yet another home automation. Written in Rust. ([Docs](https://eigenein.com/my-iot-rs/html/))
+- [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)

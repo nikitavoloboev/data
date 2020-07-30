@@ -137,3 +137,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Your SPA doesn’t need a router (2020)](https://forweb.dev/en/blog/drop-the-router/)
 - [Build Times](https://eduardoboucas.com/) - Musings on building (and breaking) websites.
 - [Come for the Network, Pay for the Tool (2020)](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
+- [Web Development Resources](https://github.com/mtdvio/web-development-resources)
