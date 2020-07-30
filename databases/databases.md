@@ -101,6 +101,7 @@
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Query and manage your relational databases.
 - [Diwata](https://github.com/ivanceras/diwata) - User-friendly database interface.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS. ([Web](https://sequel-ace.com/))
+- [ExtendsClass](https://extendsclass.com/mysql-online.html) - Online MySQL playground for testing.
 
 ## Links
 
