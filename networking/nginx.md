@@ -23,3 +23,4 @@
 - [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 (2020)](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/) ([HN](https://news.ycombinator.com/item?id=23582451))
 - [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning)
 - [The architecture of nginx (2012)](http://www.aosabook.org/en/nginx.html) ([Lobsters](https://lobste.rs/s/ipsqjq/architecture_nginx_2012))
+- [Migrating Dropbox from Nginx to Envoy (2020)](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) ([HN](https://news.ycombinator.com/item?id=24000546))
