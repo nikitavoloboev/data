@@ -75,6 +75,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Xuan Loc Xuan](https://www.behance.net/xuanlocxuan)
 - [Will Quinn](https://www.instagram.com/willquinnart/)
 - [Darya Shnykina](https://www.behance.net/daryashnykina)
+- [Grant Yun](https://www.ribbonriven.com/) ([Instagram](https://www.instagram.com/notimetoburn/))
 - [Tomas Sanchez](https://www.instagram.com/tomassanchezstudio/)
 - [Robert Beatty](https://www.robertbeattyart.com/)
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
@@ -289,3 +290,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Artnome](https://www.artnome.com/)
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) ([Links](https://linktr.ee/truegrittexturesupply))
 - [1 Second Painting](https://1secondpainting.com/) - Generate abstract paintings in one click. ([HN](https://news.ycombinator.com/item?id=23919590))
+- [Aesthetica Magazine](https://aestheticamagazine.com/) - The Art & Culture Magazine.

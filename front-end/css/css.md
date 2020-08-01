@@ -179,6 +179,7 @@
 - [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
 - [ZeroDivs](https://zerodivs.com/#/) - UI editor for single-element CSS illustrations. ([HN](https://news.ycombinator.com/item?id=23781559))
 - [Style Stage](https://stylestage.dev/) - Modern CSS showcase styled by community contributions. ([Code](https://github.com/5t3ph/stylestage)) ([Article](https://dev.to/5t3ph/announcing-style-stage-a-community-css-showcase-28cp))
+- [Learn CSS with CSS For Designers](https://cssfordesigners.com/) - Practical guide to CSS teaches you everything you need to know and nothing you don’t.
 - [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css) ([HN](https://news.ycombinator.com/item?id=23868355))
 - [css-media-vars](https://propjockey.github.io/css-media-vars/) - Brand new way to write responsive CSS. Named breakpoints, DRY selectors, no scripts, no builds, vanilla CSS. ([HN](https://news.ycombinator.com/item?id=23865900)) ([Code](https://github.com/propjockey/css-media-vars))
 - [Renderization of Conic gradients (2020)](https://blogs.igalia.com/dpino/2020/06/11/renderization-of-conic-gradients/)

@@ -42,3 +42,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeXML](https://github.com/brucemiller/LaTeXML) - TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [TikZiT](https://tikzit.github.io/) - Graphical tool for rapidly creating graphs and string diagrams using PGF/TikZ. ([Code](https://github.com/tikzit/tikzit))
 - [LaTeX to HTML5](https://github.com/smarr/latex-to-html5) - Scripts for Latex to HTML5 conversion.
+- [LaTeX Typesetting](https://fedoramagazine.org/latex-typesetting-part-1/) ([Lobsters](https://lobste.rs/s/kf9e9m/latex_typesetting_part_1))

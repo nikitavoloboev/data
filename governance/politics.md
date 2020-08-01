@@ -12,3 +12,4 @@
 - [Spoke](https://github.com/Elizabeth-Warren/Spoke) - Open source text-distribution tool for organizations to mobilize supporters and members into action.
 - [Tony Benn - 10 min History Lesson for Neoliberals](https://www.youtube.com/watch?v=qX-P4mx1FLU)
 - [Paul Butler - A snapshot of my politics in 2020](https://paulbutler.org/2020/a-snapshot-of-my-politics-in-2020/)
+- [David Shor’s Unified Theory of American Politics (2020)](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)

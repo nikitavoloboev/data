@@ -135,3 +135,4 @@
 - [Brython](https://brython.info/) - Python 3 implementation for client-side web programming. ([HN](https://news.ycombinator.com/item?id=23746067))
 - [Hashing it Out (2020)](https://akshayr.me/blog/articles/python-dictionaries) - A deep dive into Python dictionaries.
 - [An exploration of why Python doesn't require a 'main' function (2020)](https://utcc.utoronto.ca/~cks/space/blog/python/WhyNoMainFunction)
+- [Ask HN: How do I teach intermediate Python engineering skills? (2020)](https://news.ycombinator.com/item?id=23849070)
