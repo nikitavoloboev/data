@@ -33,3 +33,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes.
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files, sync external docs/src code & make better docs.
 - [Markdown Links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files.
+- [Customizing pandoc to generate beautiful pdf and epub from markdown (2019)](https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/)

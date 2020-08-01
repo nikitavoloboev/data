@@ -9,3 +9,4 @@
 - [Your configs suck? Try a real programming language. (2020)](https://beepb00p.xyz/configs-suck.html) ([HN](https://news.ycombinator.com/item?id=22787332)) ([Lobsters](https://lobste.rs/s/qyhvhc/your_configs_suck_try_real_programming))
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
 - [Ground Control to Major TOML: Why Buildpacks Use a Most Peculiar Format](https://blog.heroku.com/why-buildpacks-use-toml) ([Lobsters](https://lobste.rs/s/fik5bk/ground_control_major_toml_why_buildpacks))
+- [Star: Go but in Python? (2020)](https://maxmcd.com/posts/star/)

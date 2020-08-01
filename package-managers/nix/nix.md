@@ -119,3 +119,4 @@
 - [Tools to manage a Nix-based project](https://github.com/shajra/nix-project)
 - [Building static Haskell binary with Nix on Linux (2020)](https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html)
 - [Template for NUR repositories](https://github.com/rvolosatovs/nur-packages)
+- [Bramble](https://github.com/maxmcd/bramble) - Functional build system inspired by nix.
