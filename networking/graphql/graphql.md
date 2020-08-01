@@ -1,5 +1,9 @@
 # [GraphQL](https://graphql.org/)
 
+## Notes
+
+- [GraphQL creators are (I think) unanimous in their skepticism of tools that bring GraphQL directly to your database or ORM, because they just provide carte blanche access to your entire data model, without actually giving API design proper consideration.](https://twitter.com/andrewingram/status/1289623898493816832)
+
 ## Links
 
 - [Living APIs, and the Case for GraphQL](https://brandur.org/graphql)
