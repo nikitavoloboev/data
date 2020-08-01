@@ -73,6 +73,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory -- The math behind hyper-convergence automation (2019)](https://multix.sfo2.cdn.digitaloceanspaces.com/Category%20Theory%20TechBBQ.pdf)
 - [Pittsburgh Functional Programming Book Club featuring Category Theory for Programmers](https://github.com/chiroptical/ctfp-book-club) -
 - [Applied Category Theory 2020](https://act2020.mit.edu/)
+- [MIT Categories Seminar - Eugenia Cheng: Distributive laws for Lawvere theories (2020)](https://www.youtube.com/watch?v=YCJAzV1g6Xo)
 
 ## Images
 

@@ -57,3 +57,4 @@
 - [Custom Game Engines: A Small Study (2020)](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) ([HN](https://news.ycombinator.com/item?id=22965078))
 - [Making game engines is a waste of time - I probably won’t stop making them (2020)](https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html) ([HN](https://news.ycombinator.com/item?id=23214621))
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
+- [Designing a Physics Engine (2020)](https://blog.winter.dev/2020/designing-a-physics-engine/) ([HN](https://news.ycombinator.com/item?id=24016718))
