@@ -40,3 +40,4 @@
 - [JuliaAcademy courses](https://juliaacademy.com/courses)
 - [JuliaCon](https://live.juliacon.org/) - Conference dedicated to the Julia programming language.
 - [Julia for teaching optimization](https://michielstock.github.io/juliateaching/)
+- [Interactive notebooks ~ Pluto.jl | Fons van der Plas (2020)](https://www.youtube.com/watch?v=IAF8DjrQSSk)

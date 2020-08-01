@@ -12,3 +12,4 @@
 - [cloudworker-proxy](https://github.com/markusahlstrand/cloudworker-proxy) - API gateway for Cloudflare workers.
 - [Cloudflare Workers KV](https://www.cloudflare.com/products/workers-kv/) - Serverless key-value storage for applications on Cloudflare.
 - [cfworker](https://github.com/cfworker/cfworker) - Collection of packages optimized for Cloudflare Workers and service workers.
+- [Cloudflare launches Workers Unbound, next evolution of its serverless platform (2020)](https://blog.cloudflare.com/introducing-workers-unbound/) ([HN](https://news.ycombinator.com/item?id=23965514))

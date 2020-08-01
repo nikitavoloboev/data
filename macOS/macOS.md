@@ -86,3 +86,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Extract the system libraries on macOS Big Sur (2020)](https://lapcatsoftware.com/articles/bigsur.html)
 - [Apple Technologies Search](https://developer.apple.com/documentation/technologies)
 - [AquaticPrime](https://github.com/bdrister/AquaticPrime) - Mac software licensing code using cryptographically signed license files.
+- [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework.
