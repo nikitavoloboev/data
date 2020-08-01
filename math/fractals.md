@@ -33,3 +33,4 @@
 - [Kleinian fractals](https://cindyjs.org/gallery/main/Kleinian/)
 - [Clam](https://github.com/khyperia/Clam) - High-quality fractal viewer.
 - [Buddhabrot](https://github.com/porglezomp/buddhabrot) - Render a Buddhabrot fractal (an algorithm invented by Melinda Green).
+- [Buddhabrot fractal method](http://superliminal.com/fractals/bbrot/bbrot.htm)
