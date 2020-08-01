@@ -11,3 +11,4 @@
 - [Feather](https://github.com/feather-rs/feather) - Experimental Minecraft server implementation written in Rust.
 - [The Book of Minecraft Modding](https://thebookofmodding.ml/) ([HN](https://news.ycombinator.com/item?id=23723058))
 - [Langcraft](https://github.com/SuperTails/langcraft) - Compiler from LLVM IR to Minecraft datapacks. ([Reddit](https://www.reddit.com/r/rust/comments/hx3we0/langcraft_the_llvm_target_for_minecraft_youve/))
+- [SpongeAPI](https://www.spongepowered.org/) - Minecraft plugin API. ([Code](https://github.com/SpongePowered/SpongeAPI))
