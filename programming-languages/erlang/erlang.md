@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Getting Started With Erlang](https://erlang.org/doc/getting_started/users_guide.html)
 - [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang.
 - [ErlPort](https://github.com/hdima/erlport) - Connect Erlang to other languages.

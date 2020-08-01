@@ -104,3 +104,5 @@
 - [The physics behind spring animations (2020)](https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations)
 - [The Idea of Entropy Has Led Us Astray (2020)](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray) ([HN](https://news.ycombinator.com/item?id=23711872))
 - [Do we need a Theory of Everything? (2020)](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html) ([HN](https://news.ycombinator.com/item?id=23815824))
+- [Video Demonstrations in Lasers and Optics (2008)](https://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/index.htm)
+- [Two-beam Interference — Collimated Beams](https://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/demonstrations-in-physical-optics/two-beam-interference-2014-collimated-beams/)
