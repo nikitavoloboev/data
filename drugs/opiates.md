@@ -17,3 +17,4 @@ Best to not ever take opiates if you can avoid it.
 ## Links
 
 - [Ophelia](https://www.meetophelia.com/) - Medication and support for opioid withdrawal, in the privacy of your home. ([HN](https://news.ycombinator.com/item?id=22570133))
+- [Is it possible to make an opioid that is also a psychedelic? (2020)](https://www.reddit.com/r/researchchemicals/comments/i1a2w3/is_it_possible_to_make_an_opioid_that_is_also_a/)

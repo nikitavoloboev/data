@@ -138,3 +138,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Build Times](https://eduardoboucas.com/) - Musings on building (and breaking) websites.
 - [Come for the Network, Pay for the Tool (2020)](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 - [Web Development Resources](https://github.com/mtdvio/web-development-resources)
+- [Infinite scrolling on the web obnoxiously complex](https://notriddle-more-interesting.herokuapp.com/D35K4ZCCNG6RB)
