@@ -38,3 +38,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Vegan: Healthy, Sustainable, Compassionate Living](https://sunaku.github.io/vegan-for-life.html)
 - [Tips for going vegan](https://rosiecampbell.me/tips-for-going-vegan)
 - [Jerome Flynn interview talking about HOGWOOD: a modern horror story (2020)](https://www.youtube.com/watch?v=a_mQR7w__F0)
+- [Peter Singer: Suffering in Humans, Animals, and AI (2020)](https://overcast.fm/+eZyD9yoUE)

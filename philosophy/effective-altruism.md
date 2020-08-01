@@ -25,3 +25,4 @@
 - [Why Effective Altruism? (2019)](https://www.elilifland.com/2019/08/03/Why-Effective-Altruism/)
 - [Overflow](https://overflow.co/) - Equity For The Inequitable.
 - [What charities do the best job of alleviating global poverty? (2020)](https://www.reddit.com/r/AskEconomics/comments/hq7d30/what_charities_do_the_best_job_of_alleviating/)
+- [The Life You Can Save](https://www.thelifeyoucansave.org/) - Best Charities for Effective Giving.
