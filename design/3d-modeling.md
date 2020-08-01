@@ -14,3 +14,4 @@
 - [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 - [Sketchfab](https://sketchfab.com/) - Publish & find 3D models online.
 - [Antimony](https://github.com/mkeeter/antimony) - Computer-aided design (CAD) tool from a parallel universe in which CAD software evolved from Lisp machines rather than drafting tables.
+- [Vectary](https://www.vectary.com/) - Easiest Online 3D Design and 3D Modeling Software.

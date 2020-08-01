@@ -26,3 +26,4 @@
 - [Generative Iris (2020)](https://mostlymaths.net/2020/06/iris-sketch.html/) ([HN](https://news.ycombinator.com/item?id=23592665))
 - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 - [Akari Lanterns](http://roberthodgin.com/project/akari-lanterns) - System for creating paper lanterns in the style of Noguchi.
+- [Townscaper](https://store.steampowered.com/app/1291340/Townscaper/) - Building game inspired by the design of Scandinavian cities. ([HN](https://news.ycombinator.com/item?id=23937551)) ([Article](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town))
