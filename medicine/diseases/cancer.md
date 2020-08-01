@@ -9,3 +9,4 @@
 - [SnapShot: Splicing Alterations in Cancer](https://twitter.com/EricTopol/status/1215327396380852225)
 - [Nature Cancer: Volume 1 Issue 1, January 2020](https://www.nature.com/natcancer/volumes/1/issues/1)
 - [Why do we hear about breakthroughs in cancer treatment only to never see them again? (2020)](https://www.reddit.com/r/askscience/comments/gzb3gy/why_do_we_hear_about_breakthroughs_in_cancer/)
+- [We’re a Lot Better at Fighting Cancer Than We Realized (2020)](http://cshl.nautil.us/article/593/why-were-a-lot-better-at-fighting-cancer-than-we-realized) ([HN](https://news.ycombinator.com/item?id=24021408))

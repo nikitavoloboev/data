@@ -17,7 +17,7 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard.
 - [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys. ([Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/a4hp9e/corne_chocolatehotswappable_crkbd_for_chocolate/))
 - [Redox](https://github.com/mattdibi/redox-keyboard) - Ergonomic split mechanical keyboard.
-- [Helix](https://github.com/MakotoKurauchi/helix) - Compact split ortholinear keyboard.
+- [Helix](https://github.com/MakotoKurauchi/helix) - Compact split ortholinear keyboard. ([Article](http://xahlee.info/kbd/helix_keyboard.html))
 - [Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 - [Keyberon](https://github.com/TeXitoi/keyberon) - Hand wired ortholinear mechanical keyboard with a firmware in rust.
 - [Sonder](https://sonderdesign.com/keyboard/) - E-Ink Keyboard. ([HN](https://news.ycombinator.com/item?id=23370348))
