@@ -161,3 +161,4 @@
 - [Deploying statically-linked Haskell to Lambda (2020)](https://lazamar.github.io/deploying-statically-linked-haskell-to-lambda/)
 - [Retrie](https://github.com/facebookincubator/retrie/) - Powerful, easy-to-use codemodding tool for Haskell. ([Article](https://engineering.fb.com/open-source/retrie/))
 - [cabal-edit](https://github.com/sdiehl/cabal-edit) - Utility for managing Hackage dependencies from the command line.
+- [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html) ([HN](https://news.ycombinator.com/item?id=23997667))

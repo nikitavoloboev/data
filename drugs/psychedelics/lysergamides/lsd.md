@@ -21,3 +21,4 @@
 - [History of LSD in Czechoslovakia (2018)](https://przekroj.pl/en/society/a-communist-lsd-trip-aleksander-kaczorowski) ([HN](https://news.ycombinator.com/item?id=22208132))
 - [Practical LSD Manufacture, by: Uncle Fester (1995)](https://files.shroomery.org/cms/5841102-practicallsd-UncleFester.pdf) ([Reddit](https://www.reddit.com/r/DrugNerds/comments/gjoayy/practical_lsd_manufacture_by_uncle_fester_full/))
 - [Гид по ЛСД (2020)](https://docs.google.com/document/d/1nCsTtLruccmWqWRZ7CQ1gRZoRYFZODLF9mPmqDz4P70/edit)
+- [HN: LSD Chemist William Pickard to Be Released from Prison (2020)](https://news.ycombinator.com/item?id=23947157)

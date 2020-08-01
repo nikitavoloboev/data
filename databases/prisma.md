@@ -6,7 +6,7 @@
 - [Lift](https://github.com/prisma) - Declarative data modeling & database migrations.
 - [Prisma Framework Specifications](https://github.com/prisma/specs)
 - [Prisma 2.0 is Now in Beta: Type-safe Database Access with Prisma Client](https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e) ([HN](https://news.ycombinator.com/item?id=22739121))
-- [Prisma 2 Examples](https://github.com/prisma/prisma-examples)
+- [Prisma Examples](https://github.com/prisma/prisma-examples) ([GraphQL Server Example](https://github.com/prisma/prisma-examples/tree/master/typescript/graphql))
 - [Prisma Client](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement).
 - [Prisma Docs](https://www.prisma.io/docs/) ([Code](https://github.com/prisma/prisma2-docs))
 - [nexus-schema-prisma](https://github.com/AhmedElywa/nexus-schema-prisma) - Prisma CRUD schema generator for database-backed GraphQL servers.
