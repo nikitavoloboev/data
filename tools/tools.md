@@ -104,6 +104,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Calendly](https://calendly.com/) - Schedule meetings.
 - [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
 - [Bit](https://bit.dev/) - The shared component cloud.
+- [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
