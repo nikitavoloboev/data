@@ -20,3 +20,4 @@
 - [Jika](https://jika.ai/) - Price A/B Testing for Shopify. ([HN](https://news.ycombinator.com/item?id=23861435))
 - [Democratizing Commerce (2020)](https://www.bolt.com/blog/democratizing-commerce/)
 - [Taproom Agency](https://thetaproom.com/) - Shopify Design, Migration, & Marketing.
+- [Otis](https://withotis.com/) - Culture Is A New Asset.

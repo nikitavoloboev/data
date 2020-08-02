@@ -12,6 +12,10 @@
 - [Autonomous](https://www.autonomous.ai/) - Great standing desks & chairs.
 - [idasen-control](https://github.com/mitsuhiko/idasen-control) - Lets you control IKEA IDÅSEN desks from the command line. ([Tweet](https://twitter.com/mitsuhiko/status/1264548621606965248))
 
+## Display mounts
+
+- [M VESA display mount](https://products.multibrackets.com/en/desktop-display-mounts/vesa-gas-lift-arm/m-vesa-gas-lift-arm-single-silver)
+
 ## Setups
 
 - [1](https://twitter.com/kieranmch/status/1240407709658361859)

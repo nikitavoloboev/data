@@ -36,3 +36,4 @@
 - [Why Figma Wins (2020)](https://kwokchain.com/2020/06/19/why-figma-wins/) ([HN](https://news.ycombinator.com/item?id=23584954))
 - [How Figma helped us work during quarantine (2020)](https://littlemissrobot.com/blogs/how-figma-saved-us-during-a-lockdown)
 - [Design Systems in Figma course](https://www.leveluptutorials.com/tutorials/design-systems-in-figma)
+- [Config Figma](https://config.figma.com/) - Conferences organized by Figma.
