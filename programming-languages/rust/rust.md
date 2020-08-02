@@ -214,7 +214,7 @@
 - [Rust Analyzer: Next Few Years (2020)](https://rust-analyzer.github.io/blog/2020/05/18/next-few-years.html) ([Reddit](https://www.reddit.com/r/rust/comments/gm1nr6/rustanalyzer_next_few_years/))
 - [Things I hate about Rust (2020)](https://blog.yossarian.net/2020/05/20/Things-I-hate-about-rust) ([HN](https://news.ycombinator.com/item?id=23246908))
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs.
-- [Rust verification tools (2020)](https://alastairreid.github.io/rust-verification-tools/)
+- [Rust verification tools (2020)](https://alastairreid.github.io/rust-verification-tools/) ([Lobsters](https://lobste.rs/s/0o8ev4/rust_verification_tools))
 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) ([HN](https://news.ycombinator.com/item?id=23279731))
 - [Rust's Runtime (2020)](https://blog.mgattozzi.dev/rusts-runtime/) ([Lobsters](https://lobste.rs/s/mluz45/rust_s_runtime))
 - [Integration Testing in Rust (2020)](https://joshleeb.com/blog/rust-integration-tests/)
