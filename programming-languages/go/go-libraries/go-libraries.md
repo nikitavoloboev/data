@@ -475,6 +475,7 @@
 - [go-sumtype](https://github.com/BurntSushi/go-sumtype) - Simple utility for running exhaustiveness checks on Go "sum types.".
 - [pkg/json](https://github.com/pkg/json) - Efficient JSON decoder.
 - [OjG](https://github.com/ohler55/ojg) - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools.
+- [fuzzy](https://github.com/deanishe/go-fuzzy) - Implements fuzzy matching/sorting of string slices and custom types.
 
 ## Links
 
