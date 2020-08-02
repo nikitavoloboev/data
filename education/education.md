@@ -51,3 +51,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Ask HN: Something like Khan Academy but full curriculum for grade schoolers? (2020)](https://news.ycombinator.com/item?id=23793216)
 - [Consider getting a “DIY” degree online instead of a traditional CS major](https://www.pashabitz.com/posts/undergrad-altenative/) ([HN](https://news.ycombinator.com/item?id=23919579))
 - [Harvard CS professor David Malan built a distance-learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire) ([HN](https://news.ycombinator.com/item?id=23905985))
+- [A College Degree Is No Guarantee of a Good Life (2020)](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/) ([HN](https://news.ycombinator.com/item?id=24007278))

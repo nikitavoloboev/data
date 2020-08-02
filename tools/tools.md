@@ -108,6 +108,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Bit](https://bit.dev/) - The shared component cloud.
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
+- [Float](https://www.float.com/) - Resource Planning & Management Software.
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.

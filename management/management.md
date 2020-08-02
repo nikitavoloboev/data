@@ -39,3 +39,4 @@
 - [Engineering manager resources](https://github.com/dmleong/manager-resources)
 - [What makes a good boss? (2020)](https://twitter.com/zenorocha/status/1274037726111657984)
 - [When your coworker does great work, tell their manager (2020)](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) ([HN](https://news.ycombinator.com/item?id=23858662))
+- [Book Review: High Output Management by Andy Grove (2020)](https://multitasked.net/2020/08/01/book-review-high.html)

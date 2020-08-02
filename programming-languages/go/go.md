@@ -317,3 +317,4 @@ Go promotes composition over inheritance.
 - [Life without line numbers (2020)](https://commaok.xyz/post/no-line-numbers/)
 - [Go draft design proposal for file system interfaces and embedding files (2020)](https://lobste.rs/s/8lezbe/go_draft_design_proposal_for_file_system)
 - [Gebug](https://github.com/moshebe/gebug) - Debug Dockerized Go applications better.
+- [Pkg.go.dev is more concerned with Google's interests than good engineering (2020)](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html) ([HN](https://news.ycombinator.com/item?id=24021929))
