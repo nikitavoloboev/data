@@ -39,3 +39,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Rebecca R. Helm's research into Open Ocean Exploration](https://twitter.com/rebeccarhelm/)
 - [Sean Graesser](https://www.instagram.com/gourmetbiologist/) - Wildlife and Conservation photographer.
 - [Ask HN: Are there any software jobs in nature/animal conservation? (2020)](https://news.ycombinator.com/item?id=23938635)
+- [ZooPhotonics](https://zoophotonics.com/) - AI-Powered Wildlife Classification.

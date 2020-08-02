@@ -28,3 +28,4 @@
 - [Drive & Listen](https://driveandlisten.herokuapp.com/) - Drive through cities in the browser while listening to local radio stations. ([HN](https://news.ycombinator.com/item?id=23543043))
 - [Tea With Strangers](http://www.teawithstrangers.com/) - Community organization that's all about making our cities feel more like neighborhoods by breaking the barriers between strangers.
 - [WindowSwap](https://window-swap.com/) - View someone's window somewhere in the world. ([HN](https://news.ycombinator.com/item?id=23815460))
+- [Kibbo](https://www.kibbo.com/) - Community pioneering a new kind of flexible and affordable housing model on the West Coast.
