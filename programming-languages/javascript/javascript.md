@@ -188,3 +188,4 @@
 - [Skypack](https://www.skypack.dev/) - New kind of JavaScript delivery network. ([HN](https://news.ycombinator.com/item?id=23825798))
 - [Openbase](https://openbase.io/) - Help developers choose the right JS package for any task - through user reviews and insights about packages' popularity, reliability, activity and more. ([HN](https://news.ycombinator.com/item?id=23833441))
 - [Basho](https://github.com/bashojs/basho) - Shell Automation with Plain JavaScript. ([Docs](https://bashojs.org/))
+- [What is the JS Event Loop and Call Stack?](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
