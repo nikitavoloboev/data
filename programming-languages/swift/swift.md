@@ -139,3 +139,4 @@
 - [AppCoda](https://www.appcoda.com/) - Learn Swift, SwiftUI, iOS, and Mac App Programming.
 - [Swift in Depth](https://www.swiftindepth.com/)
 - [Swift Server Work Group](https://swift.org/server/) ([Code](https://github.com/swift-server))
+- [SwiftRef](https://dabrahams.github.io/SwiftRef/) - Community-Generated Swift Programming Language Reference.
