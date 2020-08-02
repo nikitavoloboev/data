@@ -45,3 +45,4 @@
 - [Logistic Regression from scratch](https://philippmuens.com/logistic-regression-from-scratch/) ([HN](https://news.ycombinator.com/item?id=23640762))
 - [Seeing Theory](https://seeing-theory.brown.edu/) - Visual introduction to probability and statistics. ([HN](https://news.ycombinator.com/item?id=23661131))
 - [Abusing Linear Regression to Make a Point (2020)](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/) ([HN](https://news.ycombinator.com/item?id=23752561))
+- [Introduction to Probability and Random Processes (1979)](https://ellerman.org/wp-content/uploads/2012/12/Rota-Baclawski-Prob-Theory-79.pdf)

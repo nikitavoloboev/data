@@ -144,3 +144,4 @@
 - [New, experimental frontend for React inspired by SwiftUI](https://github.com/tvler/experimental-react-like-framework)
 - [Plasmic](https://www.plasmic.app/) - Visual UI builder for React. ([Article](https://medium.com/plasmic-app/announcing-plasmic-3bc510a97ea3))
 - [Glossary of React Terms](https://reactjs.org/docs/glossary.html)
+- [Frustrated by Formik? Here's a simpler way to do forms in React (2020)](https://maxrozen.com/2020/07/23/frustrated-formik-simpler-react-forms/)
