@@ -31,3 +31,4 @@
 - [Will RISC-V Revolutionize Computing?](https://cacm.acm.org/magazines/2020/5/244325-will-risc-v-revolutionize-computing/fulltext) ([Lobsters](https://lobste.rs/s/icegvf/will_risc_v_revolutionize_computing))
 - [Vulcan](https://github.com/vmmc2/Vulcan) - RISC-V Instruction Set Simulator Built For Education.
 - [Ripes](https://github.com/mortbopet/Ripes) - Graphical processor simulator and assembly editor for the RISC-V ISA.
+- [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1) ([HN](https://news.ycombinator.com/item?id=23983704))

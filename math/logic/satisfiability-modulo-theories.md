@@ -16,3 +16,4 @@
 - [CryptoMiniSat SAT solver](https://github.com/msoos/cryptominisat)
 - [SAT solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 - [SAT/SMT by Example](https://yurichev.com/SAT_SMT.html) - Extensive and diverse collection of problems that can be encoded as SAT or SMT problems, and discusses their encodings in detail.
+- [Kissat SAT Solver](http://fmv.jku.at/kissat/) ([HN](https://news.ycombinator.com/item?id=23979388))
