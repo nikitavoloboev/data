@@ -270,3 +270,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Refined Hacker News extension](https://github.com/plibither8/refined-hacker-news) - Interface tweaks and features to make the HN experience better. ([HN](https://news.ycombinator.com/item?id=23804469))
 - [Getting Started with Core Bluetooth (2020)](https://ditto.live/blog/posts/getting-started-with-core-bluetooth)
 - [E.gg](https://e.gg/) - Creative app.
+- [NASA Systems Engineering Handbook](https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook)
