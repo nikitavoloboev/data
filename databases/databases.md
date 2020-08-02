@@ -187,3 +187,4 @@
 - [Unofficial Guide to Datomic Internals (2014)](https://tonsky.me/blog/unofficial-guide-to-datomic-internals/) ([HN](https://news.ycombinator.com/item?id=23926497))
 - [Lobsters: Does anyone use advanced database access control anymore?](https://lobste.rs/s/x4luho/does_anyone_use_advanced_database_access)
 - [Introduction to database schemas](https://dataguide.prisma.io/intro/intro-to-schemas)
+- [BaseDash](https://www.basedash.io/) - Build internal tools for your database. ([HN](https://news.ycombinator.com/item?id=23999124))

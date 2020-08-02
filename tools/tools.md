@@ -83,6 +83,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Braid](http://www.braidchat.com/) - Team-chat app with a novel UI that leads to better conversations. ([Code](https://github.com/braidchat/braid))
 - [Lighthouse](https://lighthouse.black.af/) - Intelligent Webmention hosting you can rely on.
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
+- [Chartio](https://chartio.com/) - Cloud-based data analytics exploration for all.
 - [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
 - [Sketch.systems](https://sketch.systems/) - Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.

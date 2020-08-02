@@ -27,3 +27,4 @@
 - [Binance](https://www.binance.com/en) - Trade Bitcoin, BNB, and hundreds of other cryptocurrencies in minutes.
 - [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics)
 - [Coinbase](https://www.coinbase.com/) - Digital currency exchange.
+- [What Dan Romero Thinks About Basically Everything (2020)](https://overcast.fm/+LDKc8Lu8Y) ([Notes](https://danromero.org/venture-stories-podcast-interview.html))
