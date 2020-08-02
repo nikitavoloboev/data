@@ -23,6 +23,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Third Row Tesla Podcast – Elon Musk's Story (2020)](https://www.youtube.com/watch?v=J9oEc0wCQDE)
 - [A Conversation with Bertrand Russell (1952)](https://www.youtube.com/watch?v=fb3k6tB-Or8)
 - [Musical.ly's Alex Zhu on Igniting Viral Growth and Building a User Community (2016)](https://www.youtube.com/watch?v=wTyg2E44pBA) ([Notes](https://www.notion.so/Alex-Zhu-Musical-ly-TikTok-4631f80fdcc4423a845e145e807d8e2b))
+- [Creative challenges with Alyssa X](https://nesslabs.com/alyssa-x-interview)
 
 ## Interesting bios
 

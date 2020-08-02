@@ -262,3 +262,4 @@
 - [Possible Rust](https://www.possiblerust.com/) - Learning what’s possible in Rust.
 - [Rust explained using easy English](https://github.com/Dhghomon/easy_rust) ([HN](https://news.ycombinator.com/item?id=23924467)) ([Lobsters](https://lobste.rs/s/tqg2wp/rust_explained_using_easy_english))
 - [Berline.rs](https://berline.rs/) - Berlin-local Rust community.
+- [Blue Team Rust: What Is “Memory Safety”, Really? (2020)](https://tiemoko.com/blog/blue-team-rust/) ([HN](https://news.ycombinator.com/item?id=24024876))

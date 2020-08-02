@@ -11,3 +11,4 @@
 - [Ask HN: How do you brand yourself as a freelancer? (2020)](https://news.ycombinator.com/item?id=23282278)
 - [Collected writings on Theory & Practice for Independent Consultants](https://tomcritchlow.com/strategy/)
 - [Cushion](https://cushionapp.com/) - Peace of mind for freelancers.
+- [Tips and notes about freelancing (2020)](https://piccalil.li/blog/tips-and-notes-about-freelancing/)
