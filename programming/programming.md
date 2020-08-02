@@ -205,3 +205,4 @@
 - [Dialectical Progress in Programming (2017)](https://amasad.me/dialectical)
 - [Assessing Abstractions](https://stopa.io/post/245)
 - [Views on Error Handling (2020)](https://dannas.name/error-handling) ([HN](https://news.ycombinator.com/item?id=23884505))
+- [What is memoization](https://whatthefuck.is/memoization)

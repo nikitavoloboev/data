@@ -145,6 +145,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
 - [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
 - [Causal](https://www.causal.app/) - Clearer way to work with numbers.
+- [Taler](https://www.taler.app/) - Social design sandbox.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
