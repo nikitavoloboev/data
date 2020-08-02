@@ -265,3 +265,4 @@
 - [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates generation of Model Cards, machine learning documents that provide context and transparency into a model's development and performance. ([Article](https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html))
 - [Top ML Books recommended by experts](https://mentorcruise.com/books/ml/)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost)
+- [Bethge Lab](http://bethgelab.org/) - Perceiving Neural Networks.

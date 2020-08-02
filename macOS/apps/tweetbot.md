@@ -33,3 +33,4 @@ I split the app into 2 columns on mac.
 - [How to get your @brand on Twitter if taken (2020)](https://www.indiehackers.com/post/how-to-get-your-brand-on-twitter-if-taken-3e9c449974)
 - [Tweet Seeker](https://2017.lionheartsw.com/software/tweet-seeker/) - Best way to find your tweets on Twitter.
 - [Vicariously](https://vicariously.io/) - Easiest way to create Twitter lists based on the follows of other users.
+- [Twitter API Tutorial (2018)](http://socialmedia-class.org/twittertutorial.html)

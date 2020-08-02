@@ -135,3 +135,4 @@
 - [Do NLP Beyond English (2020)](https://ruder.io/nlp-beyond-english/) ([HN](https://news.ycombinator.com/item?id=24026511))
 - [Giving GPT-3 a Turing Test (2020)](https://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) ([HN](https://news.ycombinator.com/item?id=23887637))
 - [Neural Network Methods for Natural Language Processing (2017)](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=22&products_id=1056)
+- [Tempering Expectations for GPT-3 and OpenAI’s API (2020)](https://minimaxir.com/2020/07/gpt3-expectations/)

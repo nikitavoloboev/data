@@ -38,3 +38,4 @@
 - [Svelte Recipes](https://svelte.recipes/)
 - [How Svelte code is different from React (2020)](https://twitter.com/lihautan/status/1280532033693839361)
 - [Svelte and TypeScript (2020)](https://svelte.dev/blog/svelte-and-typescript) ([Lobsters](https://lobste.rs/s/bu8ker/svelte_3_typescript)) ([HN](https://news.ycombinator.com/item?id=23907383))
+- [What is Svelte](https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934)

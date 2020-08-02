@@ -166,6 +166,7 @@ Here are few more things I liked, design wise.
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
 - [Fabian Fett](https://fabianfett.de/)
 - [Louie Mantia](http://louiemantia.com/)
+- [Rob Haisfield](https://robhaisfield.com/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
 - [Fabrizio Rinaldi](https://fabriziorinaldi.com/)

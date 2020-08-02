@@ -21,3 +21,4 @@
 - [Democratizing Commerce (2020)](https://www.bolt.com/blog/democratizing-commerce/)
 - [Taproom Agency](https://thetaproom.com/) - Shopify Design, Migration, & Marketing.
 - [Otis](https://withotis.com/) - Culture Is A New Asset.
+- [Commerce Tea](https://commercetea.com/) - Podcast about succeeding on Shopify.

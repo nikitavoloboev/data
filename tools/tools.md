@@ -347,3 +347,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [No Code (2020)](https://vas3k.com/blog/nocode/)
 - [Notion, Roam, and The Future of Doing Work (2020)](https://nbt.substack.com/p/notion-roam-and-the-future-of-doing)
 - [OpenAPM Tools](https://openapm.io/landscape) - Landscape for APM Tools, Obervability Tools and Monitoring Tools.
+- [Ask HN: What is the best enterprise software you use every day? (2020)](https://news.ycombinator.com/item?id=23862903)

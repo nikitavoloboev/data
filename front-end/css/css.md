@@ -185,3 +185,4 @@
 - [Renderization of Conic gradients (2020)](https://blogs.igalia.com/dpino/2020/06/11/renderization-of-conic-gradients/)
 - [PostCSS 100vh Fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS.
 - [Infinite Scroll without Layout Shifts (2020)](https://addyosmani.com/blog/infinite-scroll-and-core-web-vitals/)
+- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
