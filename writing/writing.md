@@ -166,3 +166,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Lobsters: What are you writing? (2020)](https://lobste.rs/s/gueost/what_are_you_writing)
 - [My Writing Setup (2020)](https://explog.in/notes/writingsetup.html) ([Lobsters](https://lobste.rs/s/2fngph/my_writing_setup))
 - [Learn Ulysses course](https://thesweetsetup.com/ulysses/)
+- [Writing Tips for Remote Workers (And Everyone Else)](https://doist.com/blog/writing-tips/)

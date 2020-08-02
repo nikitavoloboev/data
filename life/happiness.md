@@ -55,3 +55,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being)
 - [Three Equations for a Happy Life](https://www.theatlantic.com/family/archive/2020/04/how-increase-happiness-according-research/609619/)
 - [How to be happy? Most people have it backwards](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant) ([HN](https://news.ycombinator.com/item?id=23700043))
+- [The Lost Art of Crying](https://nibrasi.co.uk/the-lost-art-of-crying)

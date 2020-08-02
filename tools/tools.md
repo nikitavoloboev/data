@@ -213,7 +213,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
-- [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router.
+- [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.

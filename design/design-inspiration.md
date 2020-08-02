@@ -153,6 +153,7 @@ Here are few more things I liked, design wise.
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Patrick Heng](https://patrickheng.com/)
 - [Erlend Hamberg](https://hamberg.no/erlend/)
+- [Kaya Thomas](https://kaya.dev/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Vivien Hantusch](https://www.vivien.space/portfolio.html)
 - [Jon Gold](https://jon.gold/)

@@ -100,3 +100,4 @@
 - [CPyKE](https://github.com/tbennun/cpyke) - Easy integrated Python scripting embedded in C++.
 - [5 Curious C++ Lambda Examples: Recursion, constexpr, Containers and More (2020)](https://www.bfilipek.com/2020/07/lambdas5ex.html)
 - [C++ On Sea](https://cpponsea.uk/) - International C++ conference.
+- [dds](https://github.com/vector-of-bool/dds) - New build, test, and packaging tool for native C and C++ libraries and applications, with a focus on simplicity, speed, and integratability. ([Web](https://dds.pizza/))
