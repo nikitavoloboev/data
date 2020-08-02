@@ -148,3 +148,4 @@
 - [Linux Impressions (2020)](https://jorin.me/linux-impressions/) ([Lobsters](https://lobste.rs/s/gepn5p/linux_impressions))
 - [Ask HN: Advanced Linux users, which distribution do you run? Why? (2020)](https://news.ycombinator.com/item?id=23816007)
 - [Pinephone – “Community Edition: PostmarketOS” Linux smartphone (2020)](https://store.pine64.org/product-category/pinephone/) ([HN](https://news.ycombinator.com/item?id=23849202))
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux. ([HN](https://news.ycombinator.com/item?id=23880207))
