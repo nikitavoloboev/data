@@ -184,6 +184,7 @@
 - [Two Years to Make \$10 in Software Revenue (2020)](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue) ([HN](https://news.ycombinator.com/item?id=23791369))
 - [Startup canon](https://danromero.org/canon.html) - Reading list for people looking to make the jump into startups. ([Tweet](https://twitter.com/dwr/status/1224400041013432320))
 - [Starting a Company is Less Risky Than You Think (2020)](https://eriktorenberg.substack.com/p/starting-a-company-is-less-risky)
+- [Ask HN: Starting a SaaS business as non-technical founder (2020)](https://news.ycombinator.com/item?id=24021128)
 
 ## Images
 

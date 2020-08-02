@@ -138,3 +138,4 @@
 - [Ask HN: How do I teach intermediate Python engineering skills? (2020)](https://news.ycombinator.com/item?id=23849070)
 - [Creating a virtual env in Python steps (2020)](https://news.ycombinator.com/item?id=24022583)
 - [futurecoder](https://futurecoder.herokuapp.com/) - Platform for beginners to learn programming in Python. ([HN](https://news.ycombinator.com/item?id=24020906))
+- [Exactly-Once Initialization in Asynchronous Python (2020)](https://nullprogram.com/blog/2020/07/30/)

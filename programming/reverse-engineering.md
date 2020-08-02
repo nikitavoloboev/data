@@ -45,3 +45,4 @@
 - [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board (2020)](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html) ([HN](https://news.ycombinator.com/item?id=23596070))
 - [Why can't decompilers perfectly reconstruct source code? (2020)](https://www.reddit.com/r/AskComputerScience/comments/hx8ecu/why_cant_decompilers_perfectly_reconstruct_source/)
 - [Reverse Engineering Starling Bank (Part I): Obfuscation Techniques (2020)](https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html)
+- [Reverse-engineering the adder inside the Intel 8086](http://www.righto.com/2020/08/reverse-engineering-adder-inside-intel.html) ([HN](https://news.ycombinator.com/item?id=24021415))

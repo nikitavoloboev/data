@@ -72,3 +72,4 @@
 - [Socialism’s DIY Computer (2020)](https://tribunemag.co.uk/2020/07/make-your-own-self-managed-socialist-microcomputer) ([Lobsters](https://lobste.rs/s/jebrp8/socialism_s_diy_computer))
 - [Terminal Server on a Budget (2020)](https://blog.lasseter.org/posts/2020/07/terminal-server-on-a-budget/) ([HN](https://news.ycombinator.com/item?id=23915777))
 - [NixOS on ARM/PINE64 Pinebook Pro](https://nixos.wiki/wiki/NixOS_on_ARM/PINE64_Pinebook_Pro) ([Code](https://github.com/samueldr/wip-pinebook-pro))
+- [Hardware interrupts (2020)](https://www.youtube.com/watch?v=DlEa8kd7n3Q)
