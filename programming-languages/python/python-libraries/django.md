@@ -11,3 +11,4 @@
 - [rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database.
 - [Django REST framework](https://github.com/encode/django-rest-framework) - Awesome web-browsable Web APIs.
 - [Awesome Django](https://github.com/wsvincent/awesome-django)
+- [Introducing Django (2005)](https://simonwillison.net/2005/Jul/17/django/)
