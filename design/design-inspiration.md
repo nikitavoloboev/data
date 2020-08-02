@@ -57,6 +57,7 @@ Here are few more things I liked, design wise.
 - [secret club](https://secret.club/)
 - [Pixel Envy](https://pxlnv.com/)
 - [Pseudo Random](https://www.pseudorandom.com/)
+- [the Webb blog](https://blog.webb.page/)
 
 ## Products
 

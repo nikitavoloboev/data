@@ -843,3 +843,4 @@
     - [2020 May](looking-back/2020/2020-may.md)
     - [2020 June](looking-back/2020/2020-june.md)
     - [2020 July](looking-back/2020/2020-july.md)
+    - [2020 August](looking-back/2020/2020-august.md)

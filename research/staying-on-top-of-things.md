@@ -111,6 +111,7 @@ And these Discord servers:
 - [DataTau](https://datatau.net/) - Data Science Newsboard.
 - [HN Deck](https://hndeck.sagunshrestha.com/) - View multiple HN feeds at once. ([HN](https://news.ycombinator.com/item?id=23626167))
 - [Tools and Toys](http://toolsandtoys.net/) - Hand-Picked for Work and Play.
+- [Old News is Ripe Knowledge](https://oldnews.dev/)
 
 ## Notes
 
