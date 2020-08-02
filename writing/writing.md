@@ -165,3 +165,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Write to a short attention span (2020)](https://matthewrocklin.com/blog/work/2020/07/13/brevity)
 - [Lobsters: What are you writing? (2020)](https://lobste.rs/s/gueost/what_are_you_writing)
 - [My Writing Setup (2020)](https://explog.in/notes/writingsetup.html) ([Lobsters](https://lobste.rs/s/2fngph/my_writing_setup))
+- [Learn Ulysses course](https://thesweetsetup.com/ulysses/)

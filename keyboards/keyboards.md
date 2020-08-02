@@ -74,3 +74,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Keyboardio Atreus Review (2020)](https://blog.sulami.xyz/posts/atreus/) ([Lobsters](https://lobste.rs/s/b0zusu/keyboardio_atreus_review))
 - [Mechanical Keyboard Build : 5° Acrylic Case + DZ60 PCB (2018)](https://www.youtube.com/watch?v=oQj9y16OmlE)
 - [Split Mechanical Keyboard Build Log (2020)](https://benjamincongdon.me/blog/2020/07/30/Sinc-Split-Mechanical-Keyboard-Build-Log/) ([Lobsters](https://lobste.rs/s/u5nhjs/split_mechanical_keyboard_build_log))
+- [Model H: IBM Keyboard USB Conversion (2020)](https://www.johnhawthorn.com/2020/07/modelh-keyboard-controller/)

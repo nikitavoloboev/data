@@ -13,3 +13,4 @@
 - [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
 - [lain](https://github.com/microsoft/lain) - Fuzzer framework built in Rust.
 - [Fuzzing Raft for Fun and Publication (2015)](https://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit/)
+- [Design Draft: First Class Fuzzing in Go](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
