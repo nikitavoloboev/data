@@ -195,6 +195,7 @@ Here are few more things I liked, design wise.
 - [Matt D. Smith](http://mds.is/)
 - [Monica Lent](https://monicalent.com/)
 - [Hugo Zapata](https://hugozap.com/)
+- [Jared Pereira](https://awarm.space/) ([Code](https://gitlab.com/jaredpereira/site))
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))

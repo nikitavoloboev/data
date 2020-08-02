@@ -132,3 +132,4 @@
 - [GPT3 Examples](https://gpt3examples.com/) ([HN](https://news.ycombinator.com/item?id=23993251))
 - [DQI: Measuring Data Quality in NLP (2020)](https://arxiv.org/abs/2005.00816)
 - [Humanloop](https://humanloop.com/) - Train and deploy NLP. ([HN](https://news.ycombinator.com/item?id=23987353))
+- [Do NLP Beyond English (2020)](https://ruder.io/nlp-beyond-english/) ([HN](https://news.ycombinator.com/item?id=24026511))
