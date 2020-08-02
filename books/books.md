@@ -185,6 +185,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Sharif Shameem's Bookshelf](https://sharif.io/bookshelf/)
 - [Ask HN: Which book helped you understand the world? (2020)](https://news.ycombinator.com/item?id=23858599)
 - [Dan Romero's bookshelf](https://danromero.org/books/)
+- [Devine's curated list of books](https://wiki.xxiivv.com/site/readings.html)
 
 ## Notes
 
@@ -252,3 +253,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Future Text Publishing](https://futuretextpublishing.com/) - Collection of dreams for how we want text to evolve as well as how we understand our current textual infrastructures, how we view the history of writing, and much more.
 - [Literature Map](https://www.literature-map.com/) - Tourist Map of Literature.
 - [Making a modern ebook with Standard Ebooks](https://awarm.space/fast/standard-ebooks)
+- [Readng](https://readng.co/) - Global community of book lovers & readers.
