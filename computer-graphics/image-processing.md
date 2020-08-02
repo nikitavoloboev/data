@@ -39,3 +39,4 @@
 - [libspng](https://github.com/randy408/libspng) - C library for reading and writing Portable Network Graphics (PNG) format files with a focus on security and ease of use.
 - [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md) ([HN](https://news.ycombinator.com/item?id=23787674))
 - [jpeg2png](https://github.com/victorvde/jpeg2png) - Silky smooth JPEG decoding - no more artifacts. ([Lobsters](https://lobste.rs/s/qi7jk5/jpeg2png_silky_smooth_jpeg_decoding_no))
+- [VICAR](https://github.com/nasa/VICAR/) - Multi-dimensional image processing software. ([HN](https://news.ycombinator.com/item?id=24026778))

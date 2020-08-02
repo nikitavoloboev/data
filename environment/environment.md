@@ -35,3 +35,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Saildrone](https://www.saildrone.com/) - Redefining Ocean Data Collection.
 - [A thread of all things climate change, from history to core tenets and demands, from movement strategy & dynamics to hot takes (2019)](https://twitter.com/n_thanki/status/1159466969755729922)
 - [What can a technologist do about climate change? A personal view. (2015)](http://worrydream.com/ClimateChange/)
+- [Google Earth Timelapse](https://earthengine.google.com/timelapse/) ([HN](https://news.ycombinator.com/item?id=24005047))

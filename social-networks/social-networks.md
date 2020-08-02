@@ -50,3 +50,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Auralite](https://auralite.io/) - New social network for the future. ([Tweet](https://twitter.com/m1guelpf/status/1275815147248979968))
 - [De-Escalating Social Media (2020)](https://nickpunt.com/blog/deescalating-social-media/) ([HN](https://news.ycombinator.com/item?id=23734535))
 - [PG: The biggest source of stress for me at YC was running HN (2020)](https://news.ycombinator.com/item?id=23806426)
+- [Instagram Morphs into an Information Powerhouse (2020)](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html) ([HN](https://news.ycombinator.com/item?id=24019977))

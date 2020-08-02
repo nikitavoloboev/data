@@ -29,3 +29,4 @@
 - [Tea With Strangers](http://www.teawithstrangers.com/) - Community organization that's all about making our cities feel more like neighborhoods by breaking the barriers between strangers.
 - [WindowSwap](https://window-swap.com/) - View someone's window somewhere in the world. ([HN](https://news.ycombinator.com/item?id=23815460))
 - [Kibbo](https://www.kibbo.com/) - Community pioneering a new kind of flexible and affordable housing model on the West Coast.
+- [The Fantasy and the Cyberpunk Futurism of Singapore (2020)](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore/) ([HN](https://news.ycombinator.com/item?id=24022222))

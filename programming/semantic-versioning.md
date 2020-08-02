@@ -7,7 +7,7 @@
 ## Links
 
 - [Semantic Versioning 2.0.0](https://semver.org/)
-- [Semver trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades.
+- [Semver trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades. ([HN](https://news.ycombinator.com/item?id=24020254))
 - [Compatible Versioning](https://gitlab.com/staltz/comver)
 
 ## Images

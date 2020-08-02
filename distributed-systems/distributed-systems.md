@@ -99,3 +99,4 @@
 - [Understanding Replication in Databases and Distributed Systems (2018)](https://www.ic.unicamp.br/~buzato/teaching/2018/mo441/wiesmann00a.pdf)
 - [A plain English introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 - [Debugging Incidents in Google's Distributed Systems (2020)](https://queue.acm.org/detail.cfm?id=3404974) ([HN](https://news.ycombinator.com/item?id=23916104))
+- [Odin](https://github.com/theycallmemac/odin) - Programmable, observable and distributed job orchestration system which allows for the scheduling, management and unattended background execution of user created tasks on Linux based systems. ([HN](https://news.ycombinator.com/item?id=24020566))
