@@ -37,3 +37,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Pipe is a thing (2020)](https://blog.8-p.info/en/2020/06/16/pipe/)
 - [The Unix-Haters Handbook (1994)](https://web.mit.edu/~simsong/www/ugh.pdf)
 - [When Unix learned to reboot(2) (2020)](http://bsdimp.blogspot.com/2020/07/when-unix-learned-to-reboot2.html) ([Lobsters](https://lobste.rs/s/e0e0qe/when_unix_learned_reboot_2))
+- [Modular Synthesis and UNIX (2020)](https://nora.codes/post/modular-synthesis-and-unix/) ([HN](https://news.ycombinator.com/item?id=24023727))

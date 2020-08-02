@@ -136,3 +136,5 @@
 - [Hashing it Out (2020)](https://akshayr.me/blog/articles/python-dictionaries) - A deep dive into Python dictionaries.
 - [An exploration of why Python doesn't require a 'main' function (2020)](https://utcc.utoronto.ca/~cks/space/blog/python/WhyNoMainFunction)
 - [Ask HN: How do I teach intermediate Python engineering skills? (2020)](https://news.ycombinator.com/item?id=23849070)
+- [Creating a virtual env in Python steps (2020)](https://news.ycombinator.com/item?id=24022583)
+- [futurecoder](https://futurecoder.herokuapp.com/) - Platform for beginners to learn programming in Python. ([HN](https://news.ycombinator.com/item?id=24020906))
