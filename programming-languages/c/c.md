@@ -61,3 +61,4 @@
 - [Tiny C Compiler](https://bellard.org/tcc/) ([HN](https://news.ycombinator.com/item?id=23617461))
 - [C performance mystery: delete unused string constant (2020)](https://news.ycombinator.com/item?id=23633583)
 - [C's main() is one of the places where Unix's user and kernel APIs differ](https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI) ([Lobsters](https://lobste.rs/s/pdiisx/c_s_main_is_one_places_where_unix_s_user))
+- [Standard C loop idioms (2020)](https://dannas.name/standard-c-loop-idioms)

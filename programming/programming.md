@@ -204,3 +204,4 @@
 - [What debugging technique did it take you entirely too long to learn? (2020)](https://lobste.rs/s/h7f6qk/what_debugging_technique_did_it_take_you)
 - [Dialectical Progress in Programming (2017)](https://amasad.me/dialectical)
 - [Assessing Abstractions](https://stopa.io/post/245)
+- [Views on Error Handling (2020)](https://dannas.name/error-handling) ([HN](https://news.ycombinator.com/item?id=23884505))

@@ -22,3 +22,4 @@
 - [Open Robotics](https://www.openrobotics.org/) - Offer robotics R&D, consulting, custom engineering, and application development services to industry and government.
 - [Investing in Robotics with YC Founder Trevor Blackwell (2020)](https://www.youtube.com/watch?v=fdxQ_tSBjMY) ([HN](https://news.ycombinator.com/item?id=23760671))
 - [A beginner’s guide to robot programming with Python (2020)](https://thenextweb.com/syndication/2020/07/11/a-beginners-guide-to-robot-programming-with-python/)
+- [Sergey Levine's research](http://people.eecs.berkeley.edu/~svlevine/)
