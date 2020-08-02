@@ -9,3 +9,4 @@
 - [Walk Kumano Kodo](https://walkkumano.com/) - Notes and tips on walking the Kumano Kodo UNESCO World Heritage pilgrimage routes.
 - [A visual chronicle of Tokyo's disappearing jazz bars (2016)](https://thevinylfactory.com/features/tokyo-jazz-joints-visual-chronicle/) ([HN](https://news.ycombinator.com/item?id=23666647))
 - [Japanese Language Learning Forum](https://questions.japanesecomplete.com/) ([HN](https://news.ycombinator.com/item?id=24025034))
+- [Japan's Brand New Bullet Train Is Earthquake-Proof (2020)](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/) ([HN](https://news.ycombinator.com/item?id=24015707))
