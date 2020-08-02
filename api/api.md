@@ -129,3 +129,4 @@
 - [APIs with GitHub](https://github.com/mddanishyusuf/json-apis-with-github) - Simple tool to make JSON APIs for quick use for your basic projects. Your APIs are hosted on GitHub as JSON file that's simple.
 - [Akita Software](https://www.akitasoftware.com/) - Helping people get visibility into their software through their APIs.
 - [A personal API (2019)](https://blog.webb.page/2019/a-personal-api)
+- [The API Economy](https://a16z.com/tag/the-api-economy/)

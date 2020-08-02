@@ -20,3 +20,4 @@
 - [Lovecroft](https://github.com/thesephist/lovecroft) - Minimal mailing list manager for static sites, with a simple JSON API.
 - [How to build your own Substack with Ghost (2020)](https://www.indiehackers.com/post/how-to-build-your-own-substack-with-ghost-9d061b0b79)
 - [Set up a Paid Newsletter at Your Own Domain (2020)](https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/)
+- [Stoop](https://stoopinbox.com/) - Newsletter app.

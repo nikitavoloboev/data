@@ -41,3 +41,4 @@
 - [Rootless Containers](https://rootlesscontaine.rs/)
 - [Linux Containers Forum](https://discuss.linuxcontainers.org/)
 - [LXD – next generation system container manager release 4.3 (2020)](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303) ([HN](https://news.ycombinator.com/item?id=23828920))
+- [AWS Containers Roadmap](https://github.com/aws/containers-roadmap)

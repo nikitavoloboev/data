@@ -29,3 +29,4 @@
 - [The silence is deafening (2020)](https://devonzuegel.com/post/the-silence-is-deafening) ([HN](https://news.ycombinator.com/item?id=23728212))
 - [Thoughts on Moderation by Andrew Gallant (2020)](https://www.reddit.com/r/rust/comments/hnfnti/where_is_the_rust_community_allowed_to_talk_about/fxf65nf/)
 - [Communication As Problem Solving (2020)](https://ashfurrow.com/blog/communication-as-problem-solving/) ([Lobsters](https://lobste.rs/s/vu3zal/communication_as_problem_solving))
+- [How to Become Convincing](https://dcgross.com/how-to-convince-people/) ([HN](https://news.ycombinator.com/item?id=23986571))

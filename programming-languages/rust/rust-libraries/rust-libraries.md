@@ -78,6 +78,7 @@
 - [ultraviolet](https://github.com/termhn/ultraviolet) - Wide linear algebra crate for games and graphics.
 - [pixels](https://github.com/parasyte/pixels) - Tiny hardware-accelerated pixel frame buffer.
 - [kurbo](https://github.com/linebender/kurbo) - Rust library for manipulating curves.
+- [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust.
 
 ## Games
 

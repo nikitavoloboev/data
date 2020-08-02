@@ -22,3 +22,4 @@
 - [Taproom Agency](https://thetaproom.com/) - Shopify Design, Migration, & Marketing.
 - [Otis](https://withotis.com/) - Culture Is A New Asset.
 - [Commerce Tea](https://commercetea.com/) - Podcast about succeeding on Shopify.
+- [Shop](https://shop.app/) - Online shopping assistant that makes every part of your experience better.

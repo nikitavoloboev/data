@@ -7,3 +7,4 @@
 - [Commonwealth Fusion Systems](https://cfs.energy/)
 - [ITER: World's largest nuclear fusion project begins assembly (2020)](https://www.bbc.com/news/science-environment-53573294) ([HN](https://news.ycombinator.com/item?id=23979608))
 - [Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion (2020)](https://overcast.fm/+eZyB5mw30)
+- [Ian Hutchinson's research](https://www-internal.psfc.mit.edu/~hutch/)

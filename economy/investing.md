@@ -81,3 +81,4 @@
 - [Visual History Of The S&P 500](https://etfdb.com/history-of-the-s-and-p-500/)
 - [Software Stack Investing](https://softwarestackinvesting.com/)
 - [Robinhood and How to Lose Money (2020)](https://themargins.substack.com/p/robinhood-and-how-to-lose-money) ([HN](https://news.ycombinator.com/item?id=23894228))
+- [Ask HN: I have \$450K cash, what should I do to maximize my return? (2020)](https://news.ycombinator.com/item?id=24020899)
