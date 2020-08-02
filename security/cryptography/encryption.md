@@ -17,3 +17,4 @@
 - [Ask HN: Good Resources on Voice Encryption? (2020)](https://news.ycombinator.com/item?id=23712006)
 - [Intro to Fully Homomorphic Encryption (2020)](http://blog.higashi.tech/2020/06/16/fhe_01.html) ([HN](https://news.ycombinator.com/item?id=23721661))
 - [Exploring Fully Homomorphic Encryption (2020)](https://vitalik.ca/general/2020/07/20/homomorphic.html)
+- [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux) ([HN](https://news.ycombinator.com/item?id=24025478))

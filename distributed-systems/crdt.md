@@ -29,3 +29,4 @@
 - [CRDTs in a Nutshell (2020)](https://amattn.com/p/riaks_two_contentions_and_crdts.html) ([Lobsters](https://lobste.rs/s/ipbe60/crdts_nutshell))
 - [A First Replicating Type (2020)](https://appdecentral.com/2020/07/22/a-first-replicating-type/)
 - [Conflict-Free Replicated Data Types (CRDTs) in Swift (2020)](https://appdecentral.com/2020/07/12/conflict-free-replicated-data-types-crdts-in-swift/)
+- [Local-first software: You Own Your Data, in spite of the Cloud (2019)](https://www.inkandswitch.com/media/local-first/local-first.pdf) ([HN](https://news.ycombinator.com/item?id=24027663))
