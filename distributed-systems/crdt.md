@@ -27,3 +27,4 @@
 - [An introduction to Conflict-Free Replicated Data Types (2020)](https://lars.hupel.info/topics/crdt/01-intro) ([HN](https://news.ycombinator.com/item?id=23737639))
 - [CRDTs: The Hard Parts (2020)](https://www.youtube.com/watch?v=x7drE24geUw) ([Abstract & References](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)) ([HN](https://news.ycombinator.com/item?id=23802208))
 - [CRDTs in a Nutshell (2020)](https://amattn.com/p/riaks_two_contentions_and_crdts.html) ([Lobsters](https://lobste.rs/s/ipbe60/crdts_nutshell))
+- [A First Replicating Type (2020)](https://appdecentral.com/2020/07/22/a-first-replicating-type/)

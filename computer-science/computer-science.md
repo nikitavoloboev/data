@@ -61,3 +61,4 @@
 - [Professor solves 240 computer science exam problems in 4 hours (2020)](https://www.youtube.com/watch?v=g_ZdcHSFGv0&t=10s) ([HN](https://news.ycombinator.com/item?id=23759673))
 - [Entropy: An Introduction](https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/) ([HN](https://news.ycombinator.com/item?id=23873752))
 - [Corecursion and coinduction: what they are and how they relate to recursion and induction](https://www.cl.cam.ac.uk/archive/mjcg/plans/Coinduction.pdf) ([Lobsters](https://lobste.rs/s/eenrfz/corecursion_coinduction_what_they_are))
+- [Turing-Completeness Totally Free](https://link.springer.com/chapter/10.1007/978-3-319-19797-5_13)
