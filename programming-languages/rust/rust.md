@@ -261,3 +261,4 @@
 - [Enum or Trait Object (2020)](https://www.possiblerust.com/guide/enum-or-trait-object) ([Lobsters](https://lobste.rs/s/dubjtt/enum_trait_object))
 - [Possible Rust](https://www.possiblerust.com/) - Learning what’s possible in Rust.
 - [Rust explained using easy English](https://github.com/Dhghomon/easy_rust) ([HN](https://news.ycombinator.com/item?id=23924467)) ([Lobsters](https://lobste.rs/s/tqg2wp/rust_explained_using_easy_english))
+- [Berline.rs](https://berline.rs/) - Berlin-local Rust community.

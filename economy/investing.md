@@ -80,3 +80,4 @@
 - [Via by On Deck](https://via.beondeck.com/) - Get referred to breakout companies via top investors.
 - [Visual History Of The S&P 500](https://etfdb.com/history-of-the-s-and-p-500/)
 - [Software Stack Investing](https://softwarestackinvesting.com/)
+- [Robinhood and How to Lose Money (2020)](https://themargins.substack.com/p/robinhood-and-how-to-lose-money) ([HN](https://news.ycombinator.com/item?id=23894228))
