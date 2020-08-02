@@ -132,3 +132,4 @@
 - [Business Card Neural Network (2020)](https://imois.in/posts/card-network/)
 - [Functional Neural Networks (2020)](https://b-thi.github.io/Posts/FNNs.html)
 - [Attention Is All You Need (2017)](https://www.youtube.com/watch?v=iDulhoQ2pro)
+- [Getting Artificial Neural Networks Closer to Animal Brains (2020)](https://maraoz.com/2020/07/12/brains-vs-anns/)
