@@ -19,3 +19,4 @@
 - [hydrated-ws](https://github.com/dcharbonnier/hydrated-ws) - Toolbox for websockets clients, reconnecting websockets, channels muxing websockets, authentication, json-rpc over websockets.
 - [Chat built in Go using Websockets and Redis Pub/Sub](https://github.com/leartgjoni/go-chat-api)
 - [Retransmit](https://github.com/retransmit/prism) - HTTP and WebSockets API Gateway. ([Docs](https://retransmit.io/docs/))
+- [Real-time data streaming using FastAPI and WebSockets (2020)](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets)

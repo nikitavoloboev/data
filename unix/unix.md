@@ -33,8 +33,9 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Is Sudo Almost Useless? (2020)](https://security.stackexchange.com/questions/232924/is-sudo-almost-useless) ([HN](https://news.ycombinator.com/item?id=23468456))
 - [tildeverse](https://tildeverse.org/) - Loose association of like-minded tilde communities.
 - [SDF Public Access UNIX System](https://sdf.org/)
+- [Dennis Ritchie's Dissertation](https://minnie.tuhs.org/pipermail/tuhs/2020-August/021937.html)
 - [Discovering Dennis Ritchie’s Lost Dissertation (2020)](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/) ([HN](https://news.ycombinator.com/item?id=23582070))
 - [Pipe is a thing (2020)](https://blog.8-p.info/en/2020/06/16/pipe/)
 - [The Unix-Haters Handbook (1994)](https://web.mit.edu/~simsong/www/ugh.pdf)
 - [When Unix learned to reboot(2) (2020)](http://bsdimp.blogspot.com/2020/07/when-unix-learned-to-reboot2.html) ([Lobsters](https://lobste.rs/s/e0e0qe/when_unix_learned_reboot_2))
-- [Modular Synthesis and UNIX (2020)](https://nora.codes/post/modular-synthesis-and-unix/) ([HN](https://news.ycombinator.com/item?id=24023727))
+- [Modular Synthesis and UNIX (2020)](https://nora.codes/post/modular-synthesis-and-unix/) ([HN](https://news.ycombinator.com/item?id=24023727)) ([Lobsters](https://lobste.rs/s/cbtcax/modular_synthesis_unix))

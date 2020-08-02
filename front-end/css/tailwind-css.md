@@ -20,3 +20,4 @@
 - [TailwindCSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin)
 - [TailBlocks](https://mertjf.github.io/tailblocks/) - Ready-to-use Tailwind CSS blocks. ([Code](https://github.com/mertJF/tailblocks))
 - [Tailwind CSS Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Tailwind CSS plugin that adds variants for dark mode.
+- [The origin story of Tailwind (2020)](https://twitter.com/adamwathan/status/1289645193038192641)

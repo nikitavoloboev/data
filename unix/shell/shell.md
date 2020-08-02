@@ -67,4 +67,4 @@ All active variables can be seen by running `env`.
 - [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell.
 - [Hacking with environment variables](https://www.elttam.com/blog/env/) ([HN](https://news.ycombinator.com/item?id=23827486))
 - [CMD.XYZ](https://cmd.xyz/) - GPT3 command creator for Linux.
-- [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ([HN](https://news.ycombinator.com/item?id=24016977))
+- [Alacritty](https://github.com/alacritty/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ([HN](https://news.ycombinator.com/item?id=24016977)) ([Lobsters](https://lobste.rs/s/ab8bfz/alacritty_version_0_5_0))
