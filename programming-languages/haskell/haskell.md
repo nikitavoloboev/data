@@ -164,3 +164,5 @@
 - [The Haskell Elephant in the Room](https://www.stephendiehl.com/posts/crypto.html) ([HN](https://news.ycombinator.com/item?id=23997667))
 - [How Haskell threads block (2020)](https://www.wjwh.eu/posts/2020-07-10-haskell-thread-blocked.html)
 - [Time Traveling In Haskell: How It Works And How To Use It (2020)](https://danilafe.com/blog/haskell_lazy_evaluation/)
+- [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+- [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/) ([HN](https://news.ycombinator.com/item?id=24031376))

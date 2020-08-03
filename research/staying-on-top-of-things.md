@@ -135,3 +135,4 @@ And these Discord servers:
 - [Take control over your feeds to regain mindfulness (2020)](https://solmaz.io/thoughts/digital-hygiene-feeds/) ([HN](https://news.ycombinator.com/item?id=23662874))
 - [Ask HN: Is it just me? why is “news” so addictive? (2020)](https://news.ycombinator.com/item?id=23938007)
 - [An underrated way to keep up with web development (2020)](https://kitze.io/posts/keeping-up-with-webdev)
+- [The Fear Of Missing Out (2020)](https://christine.website/blog/gemini-web-fear-missing-out-2020-08-02) ([Lobsters](https://lobste.rs/s/evwukk/fear_missing_out))
