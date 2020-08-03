@@ -178,3 +178,4 @@
 - [Terry Tao on some desirable properties of mathematical notation](https://mathoverflow.net/questions/366070/what-are-the-benefits-of-writing-vector-inner-products-as-langle-u-v-rangle/366118#366118) ([HN](https://news.ycombinator.com/item?id=23911903))
 - [Linear Logic Flavoured Composition of Petri Nets (2020)](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
 - [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418) ([HN](https://news.ycombinator.com/item?id=24029791))
+- [Who Is Alexander Grothendieck? (2008)](https://www.ams.org/notices/200808/tx080800930p.pdf) ([HN](https://news.ycombinator.com/item?id=24024248))

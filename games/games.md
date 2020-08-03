@@ -93,3 +93,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Read-Only Memory](https://readonlymemory.vg/) - Publisher of beautiful books on videogame history. ([Twitter](https://twitter.com/ROMvg))
 - [Gamework (2020)](https://www.youtube.com/watch?v=FVoOC_RHY2E)
 - [Flash Game History](http://www.flashgamehistory.com/) ([HN](https://news.ycombinator.com/item?id=23922206)) ([Lobsters](https://lobste.rs/s/notzsw/how_flash_games_shaped_video_games))
+- [Analogue](https://www.analogue.co/) - Makes gaming devices.

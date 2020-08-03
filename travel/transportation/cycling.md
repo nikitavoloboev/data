@@ -8,6 +8,7 @@
 - [Carbon bike build, for less than £730!](https://www.youtube.com/watch?v=FVKzUHCl3_A)
 - [COWBOY](https://cowboy.com/)
 - [CAKE](https://ridecake.com/)
+- [Karmic](https://www.karmic.cc/)
 
 ## Links
 

@@ -40,3 +40,4 @@ Here are tools I use for streaming:
 - [My streaming setup (2020)](https://beesbuzz.biz/articles/5442-My-streaming-setup)
 - [Tips for setting up remote lessons — 3Blue1Brown (2020)](https://www.3blue1brown.com/blog/livestream-setup)
 - [How to Run a Live Coding Stream on Twitch using OBS (2020)](https://jordanlewis.org/posts/twitch-live-coding/) ([HN](https://news.ycombinator.com/item?id=23834153)) ([Lobsters](https://lobste.rs/s/rwuhtj/how_run_live_coding_stream_on_twitch_using))
+- [Automating Promotion for Livestreams](https://theworst.dev/automating-stream-promotion/)

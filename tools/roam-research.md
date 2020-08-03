@@ -37,3 +37,4 @@
 - [From Beginner to Superuser: A Complete Roam Research Tutorial Course (2020)](https://www.youtube.com/playlist?list=PLwXSqDdn_CpE934BjXMgmzHnlwXMy41TC)
 - [RoamPublic](https://www.roampublic.com/)
 - [RoamStack](https://www.roamstack.com/)
+- [A Thorough Beginner's Guide to Roam Research (2020)](https://thesweetsetup.com/a-thorough-beginners-guide-to-roam-research/)
