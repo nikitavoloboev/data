@@ -121,3 +121,4 @@
 - [pgx](https://github.com/zombodb/pgx) - Build Postgres Extensions with Rust. ([HN](https://news.ycombinator.com/item?id=23821112))
 - [PostgreSQL EXPLAIN glossary](https://www.pgmustard.com/docs/explain)
 - [Postgres Job Queues & Failure By MVCC (2020)](https://brandur.org/postgres-queues)
+- [PostgreSQL beginner guide (2020)](https://knowledgepill.it/posts/postgresql-basics-guide/) ([HN](https://news.ycombinator.com/item?id=24036132))

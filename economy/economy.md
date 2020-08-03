@@ -47,3 +47,4 @@
 - [Meditations On Moloch (2014)](https://www.lesswrong.com/posts/TxcRbCYHaeL59aY7E/meditations-on-moloch)
 - [Just Too Efficient (2020)](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient) ([HN](https://news.ycombinator.com/item?id=23809291))
 - [Why Do People Stay Poor? (2020)](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf) ([HN](https://news.ycombinator.com/item?id=23983974))
+- [Basic Economics - Thomas Sowell (2003)](https://www.goodreads.com/book/show/3023.Basic_Economics)
