@@ -20,3 +20,4 @@
 - [A silly thing you can do with the Ruby parser](https://penelope.zone/2019/12/22/a-silly-thing-you-can-do-with-the-ruby-parser.html) ([Lobsters](https://lobste.rs/s/op8zo4/silly_thing_you_can_do_with_ruby_parser))
 - [Ruby Method Overloading (2020)](https://lucaguidi.com/2020/07/22/ruby-method-overloading/) ([Lobsters](https://lobste.rs/s/gqsbka/ruby_method_overloading))
 - [RBS](https://github.com/ruby/rbs) - Type Signature for Ruby. ([Article](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)) ([HN](https://news.ycombinator.com/item?id=23989738)) ([Lobsters](https://lobste.rs/s/ujkglz/state_ruby_3_typing))
+- [IRB](https://github.com/ruby/irb) - Interactive Ruby.

@@ -34,3 +34,4 @@ Nowadays I learn new habits proactively by building systems and thought processe
 - [Habits vs. Goals: A Look at the Benefits of a Systematic Approach to Life](https://fs.blog/2017/06/habits-vs-goals/)
 - [How a Lazy Bitch like me learned to be Productive (2020)](https://www.madisontaskett.com/lazy-bastard-productivity/) ([HN](https://news.ycombinator.com/item?id=23314485))
 - [14 Habits of Highly Productive Developers](https://14habits.com/) ([HN](https://news.ycombinator.com/item?id=23831851))
+- [Ask HN: What’s your daily/weekly routine? (2020)](https://news.ycombinator.com/item?id=24029286)

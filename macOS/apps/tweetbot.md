@@ -34,3 +34,4 @@ I split the app into 2 columns on mac.
 - [Tweet Seeker](https://2017.lionheartsw.com/software/tweet-seeker/) - Best way to find your tweets on Twitter.
 - [Vicariously](https://vicariously.io/) - Easiest way to create Twitter lists based on the follows of other users.
 - [Twitter API Tutorial (2018)](http://socialmedia-class.org/twittertutorial.html)
+- [Twuota](https://twuota.poxmedia.net/) - Twitter timeline statistics.
