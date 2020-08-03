@@ -140,3 +140,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Development Resources](https://github.com/mtdvio/web-development-resources)
 - [Infinite scrolling on the web obnoxiously complex](https://notriddle-more-interesting.herokuapp.com/D35K4ZCCNG6RB)
 - [Piccalilli Community Forum](https://community.piccalil.li/)
+- [The hypertext Web is the real Metaverse (2020)](https://thesephist.com/posts/hypertext/)

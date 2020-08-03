@@ -37,3 +37,4 @@
 - [Saturno](https://github.com/alvarosan/saturno) - Implementation of 'Ray Tracing in One Weekend' in Rust (and wasm).
 - [Ray tracing in Nim (2020)](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html) ([HN](https://news.ycombinator.com/item?id=23707286))
 - [How to Write a Ray Tracer Intuitively (2020)](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
+- [Traceur: a path tracing renderer in Ink and JavaScript (2020)](https://dotink.co/posts/traceur/)
