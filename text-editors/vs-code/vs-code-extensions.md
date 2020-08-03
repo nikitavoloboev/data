@@ -14,7 +14,7 @@ Below is a list of extensions I use.
 
 ## Python
 
-- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Performant, feature-rich language server for Python.
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Performant, feature-rich language server for Python. ([Code](https://github.com/microsoft/pylance-release))
 
 ## Git
 
