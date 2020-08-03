@@ -186,6 +186,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Which book helped you understand the world? (2020)](https://news.ycombinator.com/item?id=23858599)
 - [Dan Romero's bookshelf](https://danromero.org/books/)
 - [Devine's curated list of books](https://wiki.xxiivv.com/site/readings.html)
+- [Books people (re)read (2020)](https://rauchg.com/2020/books-people-reread)
 
 ## Notes
 
