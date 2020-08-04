@@ -38,3 +38,4 @@
 - [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. ([Web](https://riccardoscalco.it/textures/)) ([HN](https://news.ycombinator.com/item?id=23673534))
 - [SVG Caching with <use> (2020)](https://paco.im/blog/svg-caching-with-use)
 - [Benefits of SVG (2020)](https://dev.to/alexi_be3/benefits-of-svg-10mn)
+- [Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations) ([HN](https://news.ycombinator.com/item?id=24048508))

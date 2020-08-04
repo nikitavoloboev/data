@@ -14,3 +14,4 @@
 - [lain](https://github.com/microsoft/lain) - Fuzzer framework built in Rust.
 - [Fuzzing Raft for Fun and Publication (2015)](https://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit/)
 - [Design Draft: First Class Fuzzing in Go](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
+- [FuzzCon](https://www.fuzzcon.eu/) - European Online Conference About Fuzzing.

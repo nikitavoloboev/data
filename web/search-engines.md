@@ -46,6 +46,6 @@
 - [Sajari](https://www.sajari.com/) - AI-driven Search Solutions.
 - [Runnaroo](https://www.runnaroo.com/) - A Better Private Search Engine. ([HN](https://news.ycombinator.com/item?id=23771131))
 - [Wiby](https://wiby.org/) - Search Engine for the Classic Web. ([HN](https://news.ycombinator.com/item?id=23926964))
-- [Let's build a Full-Text Search engine (2020)](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) ([Lobsters](https://lobste.rs/s/hi7pm5/let_s_build_full_text_search_engine))
+- [Let's build a Full-Text Search engine (2020)](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/) ([Lobsters](https://lobste.rs/s/hi7pm5/let_s_build_full_text_search_engine)) ([HN](https://news.ycombinator.com/item?id=24051229))
 - [ScaNN: Efficient Vector Similarity Search (2020)](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) ([HN](https://news.ycombinator.com/item?id=23983906))
 - [Neeva](https://neeva.co/) - Search Reimagined. ([HN](https://news.ycombinator.com/item?id=23960741))
