@@ -140,3 +140,4 @@
 - [Swift in Depth](https://www.swiftindepth.com/)
 - [Swift Server Work Group](https://swift.org/server/) ([Code](https://github.com/swift-server))
 - [SwiftRef](https://dabrahams.github.io/SwiftRef/) - Community-Generated Swift Programming Language Reference. ([Code](https://github.com/dabrahams/SwiftRef))
+- [Swift type checking is undecidable (2020)](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024) ([Lobsters](https://lobste.rs/s/yl7a1w/swift_type_checking_is_undecidable)) ([HN](https://news.ycombinator.com/item?id=24047394))
