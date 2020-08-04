@@ -28,3 +28,4 @@
 - [How to implement dependent type theory (2012)](http://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 - [Dependently-typed compilers don't go wrong (2020)](http://www.cs.nott.ac.uk/~pszgmh/bib.html#well-typed)
 - [Dependable Types explained in parts (2018)](http://www.tomharding.me/2018/01/09/dependable-types/)
+- [Research library of the ##dependent IRC channel](https://github.com/dpndnt/library)
