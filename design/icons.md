@@ -36,3 +36,4 @@
 - [Awesome Icons](https://github.com/notlmn/awesome-icons) - Curated list of awesome downloadable SVG/PNG/Font icon projects.
 - [The Comeback of Fun in Visual Design (2020)](https://applypixels.com/blog/comeback) ([HN](https://news.ycombinator.com/item?id=23738329))
 - [iOS App Icon Template](https://applypixels.com/resource/ios-14-app-icon)
+- [System UIcons](https://systemuicons.com/) - Icons designed for products, no attribution. ([HN](https://news.ycombinator.com/item?id=24037853))

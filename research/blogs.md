@@ -106,3 +106,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blogging infrastructure](https://awarm.space/fast/0004-blogging-infrastructure)
 - [Teletype](https://teletype.in/) - Publishing platform for creators.
 - [Medium is not the home for your ideas (2020)](https://hulry.com/medium-vs-own-blog/) ([HN](https://news.ycombinator.com/item?id=23914052))
+- [А как делать блог? (2020)](https://vas3k.ru/notes/how_to_blog/)

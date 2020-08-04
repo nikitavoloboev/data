@@ -88,6 +88,7 @@
 - [Queensland Functional Programming Lab](https://qfpl.io/)
 - [List of useful resources to learn typed FP](https://github.com/dewey92/typed-fp-good-reads)
 - [Monads and Mom (2020)](https://twitchard.github.io/posts/2020-07-26-monads.html) ([Lobsters](https://lobste.rs/s/hkz1kh/monads_mom))
+- [Learn Functional Programming Design from Redux (2020)](https://pitayan.com/posts/redux-fp-design/) ([HN](https://news.ycombinator.com/item?id=24046631))
 
 ## Images
 
