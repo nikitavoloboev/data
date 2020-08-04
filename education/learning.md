@@ -62,3 +62,4 @@
 - [A Better Cheatsheet](https://www.hillelwayne.com/post/cheatsheets/) ([Lobsters](https://lobste.rs/s/baxiv1/better_cheatsheet))
 - [Fathom](https://fathom.network/) - Open and empowering system for learning.
 - [My Younger Self](https://myyoungerself.co/) - Curated curriculum on topics of timeless human importance.
+- [Trickle](https://trickle.app/) - Make lifelong learning effortless.

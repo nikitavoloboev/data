@@ -166,3 +166,4 @@
 - [Time Traveling In Haskell: How It Works And How To Use It (2020)](https://danilafe.com/blog/haskell_lazy_evaluation/)
 - [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 - [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/) ([HN](https://news.ycombinator.com/item?id=24031376))
+- [Haskell Implementors’ Workshop papers/talks (2020)](https://icfp20.sigplan.org/home/hiw-2020)

@@ -45,6 +45,7 @@
 - [Red Collar digital agency](https://redcollar.digital/)
 - [Dialectic Design](https://dialectic.design/)
 - [Unfold](https://unfold.co/) - Create delightful experiences for brands. ([Dribble](https://dribbble.com/unfold))
+- [Clay](https://clay.global/) - UI/UX Design Agency, Web Design & Branding. ([Dribble](https://dribbble.com/clayglobal))
 
 ## DB
 

@@ -143,6 +143,7 @@
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header).
 - [SwiftUI Animatable Gradients](https://github.com/CypherPoet/AnimatableGradients) - Collection of SwiftUI View Modifiers for creating animated color gradients.
 - [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - Sliding ruler control for SwiftUI.
+- [Shiny](https://github.com/maustinstar/shiny) - Add motion-based texture to your SwiftUI views.
 
 ## Test
 

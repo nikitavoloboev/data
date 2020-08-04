@@ -9,3 +9,4 @@
 - [Keras debugging tips](https://keras.io/examples/keras_recipes/debugging_tips/) ([Twitter](https://twitter.com/fchollet/status/1261769218766192640))
 - [Keras Examples](https://keras.io/examples/)
 - [Working with preprocessing layers](https://keras.io/guides/preprocessing_layers/)
+- [Keras for Beginners: Implementing a Recurrent Neural Network (2020)](https://victorzhou.com/blog/keras-rnn-tutorial/)

@@ -43,3 +43,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Backblaze B2 Cloud Storage Now Has S3 Compatible APIs (2020)](https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/) ([HN](https://news.ycombinator.com/item?id=23069114))
 - [tmignore](https://github.com/samuelmeuli/tmignore) - Exclude development files from Time Machine backups.
 - [Setting up your backup service (2020)](https://www.williamjbowman.com/blog/2020/06/30/setting-up-your-backup-service/)
+- [Organizing Data Through the Lens of Deduplication (2020)](https://www.anishathalye.com/2020/08/03/periscope/) ([Lobsters](https://lobste.rs/s/udqu02/organizing_data_through_lens))

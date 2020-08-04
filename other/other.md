@@ -278,3 +278,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [HN: Del.icio.us (2020)](https://news.ycombinator.com/item?id=23984503)
 - [Point](https://www.point.app/) - Do it all debit card.
 - [Screenshot Essays](https://www.screenshotessays.com/) - All that's fit to print on a single iPhone screenshot.
+- [Tales of the Autistic Developer - Senior Developer (2020)](https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c) ([Lobsters](https://lobste.rs/s/jtupzd/tales_autistic_developer_senior))
+- [Friendly ambitious nerd](https://gumroad.com/l/friendlynerdbook) - Collection of essays, blogposts and twitter threads by @visakanv.

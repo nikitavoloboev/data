@@ -12,3 +12,4 @@
 - [Django REST framework](https://github.com/encode/django-rest-framework) - Awesome web-browsable Web APIs.
 - [Awesome Django](https://github.com/wsvincent/awesome-django)
 - [Introducing Django (2005)](https://simonwillison.net/2005/Jul/17/django/)
+- [Django 3.1 (2020)](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/) ([HN](https://news.ycombinator.com/item?id=24048046))

@@ -27,3 +27,4 @@
 - [Menus, Metaphors and Materials: Milestones of User Interface Design (2020)](https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c)
 - [Writing UX copy for buttons and links (2020)](https://vanschneider.com/writing-ux-copy-for-buttons-and-links)
 - [Laws of UX](https://lawsofux.com/) - Help anyone understand web design principles for the sites we use everyday. ([HN](https://news.ycombinator.com/item?id=24030969)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i2fp1e/laws_of_ux_can_help_anyone_understand_web_design/))
+- [The UX of LEGO Interface Panels (2020)](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
