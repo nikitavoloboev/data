@@ -67,3 +67,4 @@
 - [Sales Pitches For Startup Founders (2020)](https://www.holloway.com/g/founding-sales/sections/sales-pitches-for-startup-founders)
 - [Understand Seed Round(s) Dynamics in Silicon Valley (2020)](https://thevalley.substack.com/p/understand-seed-rounds-dynamics-in) ([HN](https://news.ycombinator.com/item?id=23914179))
 - [Steward Ownership Resources](https://memex.social/c/oiLz5UIXw9JXermqZmXW)
+- [Unlocking the Commons](https://hyperlink.academy/courses/unlocking-the-commons/15) - Practical introduction to funding models for open creative work.

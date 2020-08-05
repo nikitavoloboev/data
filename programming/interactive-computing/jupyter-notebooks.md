@@ -65,4 +65,4 @@
 - [Jovian.ml](https://www.jovian.ml/) - Collaboration platform for data science projects & Jupyter notebooks. ([Code](https://github.com/JovianML/jovian-py))
 - [Juniper](https://github.com/ines/juniper) - Edit and execute code snippets in the browser using Jupyter kernels.
 - [Transform Jupyter Notebook to an Ebook (2020)](https://towardsdatascience.com/transform-jupyter-notebook-to-an-ebook-ef3a9d32ac4f)
-- [Starboard](https://starboard.gg/) - Fully in-browser literate notebooks like Jupyter Notebook. ([HN](https://news.ycombinator.com/item?id=24029002))
+- [Starboard](https://starboard.gg/) - Fully in-browser literate notebooks like Jupyter Notebook. ([HN](https://news.ycombinator.com/item?id=24029002)) ([Code](https://github.com/gzuidhof/starboard-notebook))

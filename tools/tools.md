@@ -79,6 +79,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.
 - [Cosign](https://cosign.co/login)
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
+- [Friendly Captcha](https://friendlycaptcha.com/) - User-friendly CAPTCHA alternative.
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
 - [Braid](http://www.braidchat.com/) - Team-chat app with a novel UI that leads to better conversations. ([Code](https://github.com/braidchat/braid))
@@ -88,6 +89,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
 - [Sketch.systems](https://sketch.systems/) - Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
+- [Headway](https://headwayapp.co/) - Keep customers in the loop about your product with changelogs.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Amie](https://amie.so/) - Joyful productivity app.

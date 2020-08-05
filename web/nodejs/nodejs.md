@@ -85,3 +85,4 @@
 - [piscina](https://github.com/piscinajs/piscina) - Fast, efficient Node.js Worker Thread Pool implementation.
 - [Objection.js](https://github.com/Vincit/objection.js/) - SQL-friendly ORM for Node.js.
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/)
+- [Node.js Notes](https://igoradamenko.com/blog/v6/)

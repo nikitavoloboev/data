@@ -256,3 +256,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Making a modern ebook with Standard Ebooks](https://awarm.space/fast/standard-ebooks)
 - [Readng](https://readng.co/) - Global community of book lovers & readers.
 - [GITenberg](https://www.gitenberg.org/) - Open source community for publishing ebooks in the public domain. ([HN](https://news.ycombinator.com/item?id=24028510))
+- [Highlights from books and articles](https://highlights.melanie-richards.com/)
+- [The Book is a Program](https://hyperlink.academy/courses/the-book-is-a-program/21) - Practical exploration in dual-publishing websites and printed books, using Pollen, LaTeX, and the Racket programming language.
+- [Write a Micro-Textbook](https://hyperlink.academy/courses/write-a-micro-textbook/14) - Write a complete first draft of a micro-textbook on a subject of your choice.
+- [3D Book Image CSS Generator](https://3d-book-css.netlify.app/) ([Code](https://github.com/scastiel/3d-book-image-css-generator))

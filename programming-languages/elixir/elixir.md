@@ -35,3 +35,4 @@
 - [Using Mnesia in an Elixir Application (2020)](https://blog.appsignal.com/2020/05/19/using-mnesia-in-an-elixir-application.html) ([Lobsters](https://lobste.rs/s/bpyepm/using_mnesia_elixir_application))
 - [Reusable Elixir Libraries (2020)](https://keathley.io/blog/reusable-libraries.html)
 - [Homemade analytics with Ecto and Elixir (2020)](https://dashbit.co/blog/homemade-analytics-with-ecto-and-elixir)
+- [Elixir School](https://elixirschool.com/en)

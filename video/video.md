@@ -93,3 +93,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Video that keeps your team connected and inspired (2020)](https://blog.rewatch.tv/post/2020/07/08/connected-and-inspired/)
 - [ZmURL](https://zmurl.com/) - Host Delightful Zoom Events.
 - [DIY Video Hosting (2020)](https://tyler.io/diy-video-hosting/) ([HN](https://news.ycombinator.com/item?id=23894827))
+- [Unscreen](https://www.unscreen.com/) - Automatically remove video backgrounds with ML. ([HN](https://news.ycombinator.com/item?id=24058341))

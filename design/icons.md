@@ -38,3 +38,4 @@
 - [iOS App Icon Template](https://applypixels.com/resource/ios-14-app-icon)
 - [System UIcons](https://systemuicons.com/) - Icons designed for products, no attribution. ([HN](https://news.ycombinator.com/item?id=24037853))
 - [Bootstrap Icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
+- [Teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons. ([Code](https://github.com/teenyicons/teenyicons))

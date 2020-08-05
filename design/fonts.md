@@ -115,3 +115,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [99 Font Pairings & Typeface Combinations](https://fontpairings.bypeople.com/)
 - [Capsize](https://seek-oss.github.io/capsize/) - Flipping how we define typography in CSS.
 - [Embedded Google Fonts](https://amio.github.io/embedded-google-fonts/) ([Code](https://github.com/amio/embedded-google-fonts))
+- [Once Upon a Type](https://hyperlink.academy/courses/once-upon-a-type/17)

@@ -93,3 +93,4 @@
 - [Computer Vision Pretrained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
 - [Fawkes: Image “Cloaking” for Personal Privacy](http://sandlab.cs.uchicago.edu/fawkes/) ([HN](https://news.ycombinator.com/item?id=23917337))
 - [Motion](https://github.com/Motion-Project/motion) - Software motion detector.
+- [Supervised 3D Mesh Reconstruction (2020)](https://nextjournal.com/nirmal-suthar/supervised-3d-mesh-reconstruction)

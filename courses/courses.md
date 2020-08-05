@@ -18,3 +18,5 @@
 - [Coursera](https://www.coursera.org/) - Build Skills with Online Courses from Top Institutions.
 - [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
 - [hyperlink.academy](https://hyperlink.academy/) - Course platform and online school built for seriously effective learning. ([Manual](https://hyperlink.academy/manual)) ([Code](https://gitlab.com/jaredpereira/hyperlink-academy)) ([v1 Retro](https://awarm.space/fast/008-hyperlinkv1-retro))
+- [Meta Course](https://hyperlink.academy/courses/the-meta-course/1) - Course for creating great courses! We learn how to create learning structures specifically for the ideas and skills most interesting to us.
+- [Course Garden](https://forum.hyperlink.academy/c/course-garden/15) - Place to propose and workshop new course ideas.

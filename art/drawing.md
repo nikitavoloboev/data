@@ -24,3 +24,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Elegy for Creative Independence](https://flowartestudio.ck.page/) - Art Session Worksheets.
 - [Shelly](https://shelly.dev/) - Programming language for drawing. ([HN](https://news.ycombinator.com/item?id=23866688))
 - [Procreate Handbook](https://procreate.art/handbook)
+- [Anti-Perfectionism Drawing](https://hyperlink.academy/courses/anti-perfectionism-drawing/7) - Series of exercises to overcome the perfectionism that holds us back from drawing more.

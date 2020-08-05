@@ -293,3 +293,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [True Grit Texture Supply](https://www.truegrittexturesupply.com/) ([Links](https://linktr.ee/truegrittexturesupply))
 - [1 Second Painting](https://1secondpainting.com/) - Generate abstract paintings in one click. ([HN](https://news.ycombinator.com/item?id=23919590))
 - [Aesthetica Magazine](https://aestheticamagazine.com/) - The Art & Culture Magazine.
+- [GUIs Through Art History](https://hyperlink.academy/courses/guis-through-art-history/2) - Explore new styles of interface design inspired by art history movements.

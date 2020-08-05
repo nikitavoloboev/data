@@ -81,3 +81,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Why I no longer host my emails myself (2020)](https://jlelse.blog/thoughts/2020/07/no-email-selfhosting/) ([Lobsters](https://lobste.rs/s/wz3px4/why_i_no_longer_host_my_emails_myself))
 - [Small Mailserver Best Current Practices (2020)](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/) ([Lobsters](https://lobste.rs/s/aqmpa8/small_mailserver_best_current_practices))
 - [A Month-and-a-Half of Self-Hosted Email (2020)](https://www.paritybit.ca/blog/a-month-and-a-half-of-self-hosted-email)
+- [Sending e-mail from Cloudflare Workers (2020)](https://guido.io/posts/sending-email-from-cloudflare-workers/)
+- [Really Good Emails](https://reallygoodemails.com/) - Curated collection of emails.

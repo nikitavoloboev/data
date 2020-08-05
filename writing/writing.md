@@ -98,6 +98,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents.](https://twitter.com/nipunmehra/status/1154590521345490945)
 - [Writing is not publishing. If you conflate the two you might not write at all.](https://news.ycombinator.com/item?id=23314664)
 - [I just set aside about an hour a day, during my peak alertness time (around 11-2) during which I write. I have an outline of a book I want to write, and I just pick a section and start going (whatever I feel like that particular day). I write until the words don't flow any more. One thing that helped me a lot an idea I learned in high school of writing a shitty first draft -- almost stream of consciousness, without caring about quality, then going back to clean up later.](https://twitter.com/justinkan/status/1268270905379024896)
+- [Write like you speak. Use simple words & tenses. Use the active voice. Cut as much as possible.](http://www.paulgraham.com/writing44.html)
 
 ## Links
 
@@ -168,3 +169,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Learn Ulysses course](https://thesweetsetup.com/ulysses/)
 - [Writing Tips for Remote Workers (And Everyone Else)](https://doist.com/blog/writing-tips/)
 - [WordSafety](http://wordsafety.com/) - Check a name for unwanted meanings in foreign languages. ([HN](https://news.ycombinator.com/item?id=24006618))
+- [A Founder's Guide to Writing Well (2020)](https://firstround.com/review/a-founders-guide-to-writing-well/)
+- [The Age of the Essay (2004)](http://www.paulgraham.com/essay.html)
+- [Architecture of Writing (2020)](https://forum.hyperlink.academy/t/architecture-of-writing/141/8)
+- [Writing to Learn: How to Write--And Think--Clearly about Any Subject at All (1993)](https://www.goodreads.com/book/show/585474.Writing_to_Learn)

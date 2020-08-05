@@ -266,3 +266,4 @@
 - [Top ML Books recommended by experts](https://mentorcruise.com/books/ml/)
 - [Best practices for performance and cost optimization for machine learning](https://cloud.google.com/solutions/machine-learning/best-practices-for-ml-performance-cost)
 - [Bethge Lab](http://bethgelab.org/) - Perceiving Neural Networks.
+- [Graphcore code examples](https://github.com/graphcore/examples)

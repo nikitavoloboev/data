@@ -42,3 +42,4 @@
 - [Julia for teaching optimization](https://michielstock.github.io/juliateaching/)
 - [Interactive notebooks ~ Pluto.jl | Fons van der Plas (2020)](https://www.youtube.com/watch?v=IAF8DjrQSSk)
 - [Julia 1.5 (2020)](https://julialang.org/blog/2020/08/julia-1.5-highlights/) ([HN](https://news.ycombinator.com/item?id=24039559))
+- [Flux – Accelerating Flux.jl with PyTorch kernels (2020)](https://fluxml.ai/2020/06/29/acclerating-flux-torch.html)
