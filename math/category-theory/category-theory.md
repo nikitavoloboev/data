@@ -74,6 +74,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Pittsburgh Functional Programming Book Club featuring Category Theory for Programmers](https://github.com/chiroptical/ctfp-book-club) -
 - [Applied Category Theory 2020](https://act2020.mit.edu/)
 - [MIT Categories Seminar - Eugenia Cheng: Distributive laws for Lawvere theories (2020)](https://www.youtube.com/watch?v=YCJAzV1g6Xo)
+- [AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks (2020)](https://www.youtube.com/watch?v=7zr2qnud4XM)
 
 ## Images
 
