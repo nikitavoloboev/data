@@ -7,4 +7,3 @@ Nothing remarkable happened this month. A bit burned out by how many things exis
 ## Timing
 
 ![](https://i.imgur.com/1saPA43.png)
-

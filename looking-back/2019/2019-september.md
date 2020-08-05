@@ -7,4 +7,3 @@ Visited Prague. Went to Gastby Days & found out how great Gastby is. Will rebuil
 ## Timing
 
 ![](https://i.imgur.com/tj0nmih.png)
-

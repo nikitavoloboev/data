@@ -23,4 +23,3 @@ Lots of time spent on `News` which I mostly use as a catch all for any time that
 As can be seen, my goal of less than 3 hours of `News` time a week was not met in February. Not even close. 😞
 
 Next month this chart should hopefully look a lot closer to how I expect it to look. I am super happy to further streamline & automate my process of getting things done and removing as much friction as I can from my life and work.
-

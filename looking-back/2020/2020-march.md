@@ -5,4 +5,3 @@ Never give up. Don't waste time. Build. This corona virus & its effects on the w
 The whole situation in US is just sad. The amount of stealing and abuse that takes place daily. Human lives are worth nothing. It's all about [preserving and building new capital](https://www.reddit.com/r/politics/comments/fqn42e/unacceptable_dems_fume_after_trump_announces_plan/). Capitalism is fun.
 
 I'm focusing 100% of my time on LA now.
-
