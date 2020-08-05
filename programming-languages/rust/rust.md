@@ -266,3 +266,4 @@
 - [A gentle intro to assembly with Rust (2020)](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 - [Learning Rust: Mindsets and Expectations (2020)](https://ferrous-systems.com/blog/mindsets-and-expectations/)
 - [An introduction to Data Oriented Design with Rust (2020)](http://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
+- [Rusty Days 2020](https://www.youtube.com/playlist?list=PLf3u8NhoEikhTC5radGrmmqdkOK-xMDoZ)
