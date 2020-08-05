@@ -288,6 +288,7 @@
 - [ecsy](https://github.com/MozillaReality/ecsy) - Highly experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance. ([Docs](https://ecsy.io/docs/#/))
 - [Object Visualizer](https://github.com/iendeavor/object-visualizer) - Visualize the JSON object to the DOM. ([HN](https://news.ycombinator.com/item?id=23860568))
 - [Reach Schema](https://github.com/open-draft/reach-schema) - Functional schema-driven JavaScript object validation library.
+- [@cycle/callbags](https://github.com/cyclejs/callbags) - Set of commonly used stream operators implemented as callbags with Typescript and ES modules.
 
 ## Links
 

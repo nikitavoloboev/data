@@ -40,3 +40,4 @@
 - [Material Design Palette Generator](https://materialpalettes.com/) ([Code](https://github.com/edelstone/material-palette-generator))
 - [Colour Theory On 80 Display Boards (1944)](http://blog.presentandcorrect.com/colour-theory-on-80-display-boards-1944)
 - [Color Palette Generator](https://palettegenerator.colorion.co/)
+- [Coolors](https://coolors.co/) - Super fast color schemes generator.

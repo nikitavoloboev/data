@@ -36,6 +36,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Space Grotesk](https://fonts.floriankarsten.com/space-grotesk) - Florian Karsten Typefaces. ([Code](https://github.com/floriankarsten/space-grotesk))
 - [Florian Karsten Typefaces](https://fonts.floriankarsten.com/)
 - [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/) - Coding font designed by Fabrizio Schiavi.
+- [OpenDyslexic](https://opendyslexic.org/) - Typeface for Dyslexia. ([HN](https://news.ycombinator.com/item?id=24036563))
 
 ## Links
 

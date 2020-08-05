@@ -29,3 +29,5 @@
 - [Dependently-typed compilers don't go wrong (2020)](http://www.cs.nott.ac.uk/~pszgmh/bib.html#well-typed)
 - [Dependable Types explained in parts (2018)](http://www.tomharding.me/2018/01/09/dependable-types/)
 - [Research library of the ##dependent IRC channel](https://github.com/dpndnt/library)
+- [Epigram language](http://www.e-pig.org/) - Dependently typed programming language and an interactive programming environment. ([Code](https://github.com/mietek/epigram2))
+- [A dependently typed calculus with pattern matching and erasure inference (2020)](https://dl.acm.org/doi/10.1145/3408973)
