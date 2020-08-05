@@ -100,6 +100,7 @@
 - [Typescript Data Structures and Algorithms](https://github.com/jeffzh4ng/dsa-ts) - Collection of classic data structures and algorithms implemented in Typescript with video lectures.
 - [TypeDoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects. ([Web](https://typedoc.org/))
 - [Advanced TypeScript Types cheat sheet (with examples) (2020)](https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414)
+- [TypeScript interactive course](https://www.executeprogram.com/courses/typescript)
 
 ## Images
 
