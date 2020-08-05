@@ -43,7 +43,7 @@
 - [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) - : A typescript language service plugin that gives superpowers to SQL tagged template literals.
 - [hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers.
 - [PgTyped](https://github.com/adelsz/pgtyped) - Makes it possible to use raw SQL in TypeScript with guaranteed type-safety.
-- [Zapatos](https://github.com/jawj/zapatos) - Zero-Abstraction Postgres for TypeScript.
+- [Zapatos](https://github.com/jawj/zapatos) - Zero-Abstraction Postgres for TypeScript. ([Docs](https://jawj.github.io/zapatos/))
 - [tagged-ts](https://github.com/joshburgess/tagged-ts) - Tagged unions code generation library for discriminating tastes.
 - [Monads](https://github.com/hqoss/monads) - Type safe Option, Result, and Either types; inspired by Rust.
 - [typecheck.macro](https://github.com/vedantroy/typecheck.macro) - Easy (and fast) typescript validation library/macro. Automatically generation validation functions for Typescript types.
