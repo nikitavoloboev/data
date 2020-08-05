@@ -38,3 +38,4 @@
 - [Deno explained by Ryan Dahl (2020)](https://docs.google.com/presentation/d/1RnRx4cO4wTFJGHdw5XYypOx74XqQdDdWHP5bA7HjmiM/edit#slide=id.p) ([Tweet](https://twitter.com/trivikram/status/1275461881935745024))
 - [Testing in Deno: the basics (2020)](https://blog.begin.com/testing-in-deno-the-basics-943916d85224)
 - [nest.land](https://nest.land/) - Module registry for Deno, on the blockchain.
+- [Deno Apps with WebAssembly, Rust, and WASI (2020)](https://www.secondstate.io/articles/deno-webassembly-rust-wasi/)
