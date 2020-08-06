@@ -120,3 +120,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Guide to Design](https://start.uxdesign.cc/)
 - [Themesberg](https://themesberg.com/) - Premium and Free Themes, Templates & UI Kits.
 - [Design Hunt](https://designhunt.us/) - Creative inspiration for everyone.
+- [Grid Systems in Graphic Design/Raster Systeme Fur Die Visuele Gestaltung by Josef Müller-Brockmann](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)

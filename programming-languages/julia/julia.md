@@ -43,3 +43,6 @@
 - [Interactive notebooks ~ Pluto.jl | Fons van der Plas (2020)](https://www.youtube.com/watch?v=IAF8DjrQSSk)
 - [Julia 1.5 (2020)](https://julialang.org/blog/2020/08/julia-1.5-highlights/) ([HN](https://news.ycombinator.com/item?id=24039559))
 - [Flux – Accelerating Flux.jl with PyTorch kernels (2020)](https://fluxml.ai/2020/06/29/acclerating-flux-torch.html)
+- [Hands-On Design Patterns and Best Practices with Julia (2020)](https://www.packtpub.com/application-development/hands-design-patterns-julia-10) ([Code](https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia))
+- [Julia High Performance](https://juliahighperformance.com/) - Optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond.
+- [Julia Quick Syntax Reference](https://link.springer.com/book/10.1007/978-1-4842-5190-4)

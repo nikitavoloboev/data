@@ -32,3 +32,4 @@
 - [Knowledge Futures Group](https://www.knowledgefutures.org/) - Builds technology for the production, curation, and preservation of knowledge in service of the public good.
 - [w2g](https://github.com/w2g/w2g) - World Wide Graph: A memex for semantic notetaking. ([Web](https://graph.global/?id=))
 - [Khan Academy knowledge map editor tool](https://github.com/beneater/kmap-editor)
+- [Amazon’s open-source tools make embedding knowledge graphs much more efficient (2020)](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)

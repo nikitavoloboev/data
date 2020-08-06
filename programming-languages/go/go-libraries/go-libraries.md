@@ -80,7 +80,7 @@
 ## DB
 
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
-- [Gorm](https://github.com/jinzhu/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
+- [Gorm](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance.
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
@@ -476,6 +476,7 @@
 - [pkg/json](https://github.com/pkg/json) - Efficient JSON decoder.
 - [OjG](https://github.com/ohler55/ojg) - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools.
 - [fuzzy](https://github.com/deanishe/go-fuzzy) - Implements fuzzy matching/sorting of string slices and custom types.
+- [Gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
 
 ## Links
 

@@ -206,3 +206,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq))
 - [Sharing knowledge in a remote team, across timezones (2020)](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/) ([HN](https://news.ycombinator.com/item?id=24021103))
 - [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
+- [Dendron](https://www.dendron.so/) - Local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. ([Code](https://github.com/dendronhq/dendron))

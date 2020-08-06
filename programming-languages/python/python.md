@@ -139,3 +139,5 @@
 - [Creating a virtual env in Python steps (2020)](https://news.ycombinator.com/item?id=24022583)
 - [futurecoder](https://futurecoder.herokuapp.com/) - Platform for beginners to learn programming in Python. ([HN](https://news.ycombinator.com/item?id=24020906))
 - [Exactly-Once Initialization in Asynchronous Python (2020)](https://nullprogram.com/blog/2020/07/30/)
+- [Dive Into Python 3 book](https://diveinto.org/python3/table-of-contents.html) ([Code](https://github.com/diveintomark/diveintopython3))
+- [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)

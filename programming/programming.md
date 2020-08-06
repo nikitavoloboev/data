@@ -207,3 +207,5 @@
 - [Views on Error Handling (2020)](https://dannas.name/error-handling) ([HN](https://news.ycombinator.com/item?id=23884505))
 - [What is memoization](https://whatthefuck.is/memoization)
 - [Niklaus Wirth: A Plea for Lean Software (1995)](https://people.inf.ethz.ch/wirth/Articles/LeanSoftware.pdf) ([HN](https://news.ycombinator.com/item?id=24059704))
+- [Data-Centric Parallel Programming: Torsten Hoefler (2020)](https://www.youtube.com/watch?v=otBu_pDf0ig)
+- [DomeCode](https://domecode.com/) - Single platform to learn to code.

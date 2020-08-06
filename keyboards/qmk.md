@@ -8,3 +8,4 @@
 
 - [Leader keys](https://docs.qmk.fm/#/feature_leader_key)
 - [Adventures in Obscure C Features (2020)](https://blog.gboards.ca/2020/02/adventures-in-obscure-c-features-2020.html)
+- [VIA](https://caniusevia.com/) - Modified QMK builds for keyboards. ([Code](https://github.com/the-via))
