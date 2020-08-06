@@ -8,3 +8,5 @@
 - [Polygon Runway](https://polygonrunway.com/) - Become a 3D illustrator.
 - [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator) - Blender script to procedurally generate 3D spaceships. ([HN](https://news.ycombinator.com/item?id=23373107))
 - [How to Make a Couch in Blender (2020)](https://www.youtube.com/watch?v=Y4whyFTilsA)
+- [Blender.Today](https://blender.community/c/today)
+- [Mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.

@@ -320,3 +320,4 @@ Go promotes composition over inheritance.
 - [Pkg.go.dev is more concerned with Google's interests than good engineering (2020)](https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html) ([HN](https://news.ycombinator.com/item?id=24021929))
 - [Break The Golang Context Chain (2020)](https://rodaine.com/2020/07/break-context-cancellation-chain/) ([Lobsters](https://lobste.rs/s/y7hkqj/break_golang_context_chain))
 - [Go vs. Rust: Writing a CLI Tool (2020)](https://cuchi.me/posts/go-vs-rust) ([HN](https://news.ycombinator.com/item?id=24044043)) ([Lobsters](https://lobste.rs/s/nyprxb/go_vs_rust_writing_cli_tool))
+- [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md) ([HN](https://news.ycombinator.com/item?id=24065499))

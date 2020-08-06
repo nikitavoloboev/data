@@ -88,3 +88,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [AquaticPrime](https://github.com/bdrister/AquaticPrime) - Mac software licensing code using cryptographically signed license files.
 - [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework.
 - [macOS 11 Big Sur UI Kit](https://products.ls.graphics/macos/)
+- [The Art Of Mac Malware](https://taomm.org/)
