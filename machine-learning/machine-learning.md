@@ -268,3 +268,4 @@
 - [Bethge Lab](http://bethgelab.org/) - Perceiving Neural Networks.
 - [Graphcore code examples](https://github.com/graphcore/examples)
 - [Machine learning examples and tutorials](https://github.com/lazyprogrammer/machine_learning_examples)
+- [Vintage Factor Analysis with Varimax Performs Statistical Inference (2020)](https://arxiv.org/abs/2004.05387)

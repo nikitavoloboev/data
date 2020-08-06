@@ -267,3 +267,4 @@
 - [Learning Rust: Mindsets and Expectations (2020)](https://ferrous-systems.com/blog/mindsets-and-expectations/)
 - [An introduction to Data Oriented Design with Rust (2020)](http://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
 - [Rusty Days 2020](https://www.youtube.com/playlist?list=PLf3u8NhoEikhTC5radGrmmqdkOK-xMDoZ)
+- [Inbound & Outbound FFI (2020)](https://www.possiblerust.com/guide/inbound-outbound-ffi)

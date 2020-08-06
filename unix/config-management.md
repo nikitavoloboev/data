@@ -10,3 +10,4 @@
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
 - [Ground Control to Major TOML: Why Buildpacks Use a Most Peculiar Format](https://blog.heroku.com/why-buildpacks-use-toml) ([Lobsters](https://lobste.rs/s/fik5bk/ground_control_major_toml_why_buildpacks))
 - [Star: Go but in Python? (2020)](https://maxmcd.com/posts/star/) ([Lobsters](https://lobste.rs/s/l9kyzm/star_go_python))
+- [The creeping scourge of tooling config files in project root directories](https://github.com/nodejs/tooling/issues/79) ([HN](https://news.ycombinator.com/item?id=24066748))
