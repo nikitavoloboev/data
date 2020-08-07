@@ -50,3 +50,4 @@
 - [ScaNN: Efficient Vector Similarity Search (2020)](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html) ([HN](https://news.ycombinator.com/item?id=23983906))
 - [Neeva](https://neeva.co/) - Search Reimagined. ([HN](https://news.ycombinator.com/item?id=23960741))
 - [aPPR](https://github.com/RoheLab/aPPR) - Approximate Personalized Page Rank.
+- [Infinity Search](https://infinitysearch.co/) - Open-source search engine. ([Code](https://gitlab.com/infinitysearch/infinity-search)) ([HN](https://news.ycombinator.com/item?id=24080444))
