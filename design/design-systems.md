@@ -39,6 +39,7 @@
 - [UIkit](https://github.com/uikit/uikit) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.
 - [Docker Design System](https://design.docker.com/)
 - [SHAPER](https://hihayk.github.io/shaper/) - Interface styles shaper. ([Code](https://github.com/hihayk/shaper))
+- [FAST](https://github.com/microsoft/fast) - Adaptive interface system for modern web experiences. ([Docs](https://www.fast.design/docs/introduction/))
 
 ## Links
 

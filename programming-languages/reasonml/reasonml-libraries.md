@@ -12,7 +12,7 @@
 ## Other
 
 - [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml.
-- [tablecloth](https://github.com/darklang/tablecloth) - Ergonomic, cross-platform, standard library for ReasonML and OCaml.
+- [tablecloth](https://github.com/darklang/tablecloth) - Ergonomic, cross-platform, standard library for ReasonML and OCaml. ([Lobsters](https://lobste.rs/s/lw296f/ergonomic_cross_platform_standard))
 - [Wonka](https://github.com/kitten/wonka) - Fast push & pull stream library for Reason, loosely following the callbag spec.
 - [Restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management.
 - [revery-quick-start](https://github.com/revery-ui/revery-quick-start) - Quick Start / Sample Revery Application.

@@ -20,3 +20,4 @@
 - [POTL: A First-Order Complete Temporal Logic for Operator Precedence Languages (2019)](https://arxiv.org/pdf/1910.09327.pdf)
 - [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
+- [An Introduction to Godel's Theorems](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf) ([HN](https://news.ycombinator.com/item?id=24081858))

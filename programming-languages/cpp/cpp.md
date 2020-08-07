@@ -102,3 +102,4 @@
 - [C++ On Sea](https://cpponsea.uk/) - International C++ conference.
 - [dds](https://github.com/vector-of-bool/dds) - New build, test, and packaging tool for native C and C++ libraries and applications, with a focus on simplicity, speed, and integratability. ([Web](https://dds.pizza/))
 - [Syntax changes from C++11 to C++20 (2020)](https://www.bfilipek.com/2020/08/lambda-syntax.html) ([HN](https://news.ycombinator.com/item?id=24049549))
+- [Categories for the Working C++ Programmer (2020)](https://bartoszmilewski.com/2020/08/05/categories-for-the-working-c-programmer/) ([Reddit](https://www.reddit.com/r/cpp/comments/i4af6m/categories_for_the_working_c_programmer/))

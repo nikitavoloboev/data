@@ -46,3 +46,4 @@
 - [Hands-On Design Patterns and Best Practices with Julia (2020)](https://www.packtpub.com/application-development/hands-design-patterns-julia-10) ([Code](https://github.com/PacktPublishing/Hands-on-Design-Patterns-and-Best-Practices-with-Julia))
 - [Julia High Performance](https://juliahighperformance.com/) - Optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond.
 - [Julia Quick Syntax Reference](https://link.springer.com/book/10.1007/978-1-4842-5190-4)
+- [JuliaCon2020: Julia is production ready!](https://bkamins.github.io/julialang/2020/08/07/production-ready.html)
