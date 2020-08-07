@@ -10,3 +10,4 @@
 - [How to Make a Couch in Blender (2020)](https://www.youtube.com/watch?v=Y4whyFTilsA)
 - [Blender.Today](https://blender.community/c/today)
 - [Mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
+- [Wild Tricks for Greenscreen in Blender (2020)](https://www.youtube.com/watch?v=RxD6H3ri8RI)
