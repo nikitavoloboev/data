@@ -76,6 +76,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Contrast](https://usecontrast.com/) - macOS app for quick access to WCAG color contrast ratios.
 - [Mouseless](https://mouseless.app/)
 - [Codye](https://darioroa.com/codye/) - Allows you to present code in more than 180 languages and 80 themes.
+- [Coppice](https://www.coppiceapp.com/) - Cultivate Your Thoughts.
 
 ## Links
 

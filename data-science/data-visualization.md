@@ -46,3 +46,4 @@
 - [Vida](https://vida.io/) - Software tool that reads JSON files and turns them into compelling dashboards. ([Code](https://github.com/vidalab/vida))
 - [Best of the visualization web (2020)](https://www.visualisingdata.com/2020/07/best-of-the-visualisation-web-april-2020/)
 - [Data Visualisation Catalogue](https://datavizcatalogue.com/index.html) ([HN](https://news.ycombinator.com/item?id=23915694))
+- [Muze](https://muzejs.org/) - Free data visualization library to create Tableau-like charts in browser.

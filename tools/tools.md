@@ -88,6 +88,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Chartio](https://chartio.com/) - Cloud-based data analytics exploration for all.
 - [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
 - [Sketch.systems](https://sketch.systems/) - Helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
+- [Datafold](https://www.datafold.com/) - Diff Tool for SQL Databases. ([HN](https://news.ycombinator.com/item?id=24071955))
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
 - [Headway](https://headwayapp.co/) - Keep customers in the loop about your product with changelogs.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.

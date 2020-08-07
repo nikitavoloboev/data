@@ -41,3 +41,4 @@
 - [A Brief Opinionated Overview of NIST’s Post-Quantum Cryptography Round 3 Candidates (2020)](https://soatok.blog/2020/07/24/a-brief-opinionated-of-nists-post-quantum-cryptography-round-3-candidates/) ([Lobsters](https://lobste.rs/s/t7g14w/brief_opinionated_overview_nist_s_post))
 - [Ask HN: Resources to start learning about quantum computing? (2020)](https://news.ycombinator.com/item?id=23914992)
 - [“Giant atoms” enable quantum processing and communication in one (2020)](http://news.mit.edu/2020/giant-atoms-quantum-processing-communication-0729)
+- [Quantum Game with Photons](https://alpha.quantumgame.io/)

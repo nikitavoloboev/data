@@ -24,3 +24,4 @@
 - [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda).
 - [AWS CDK Made Simple: Run a Lambda function locally (2020)](https://tlakomy.com/run-cdk-lambda-function-locally)
 - [Building Your First Serverless Service With AWS Lambda Functions (2020)](https://css-tricks.com/building-your-first-serverless-service-with-aws-lambda-functions/)
+- [Introducing Direct Lambda Resolvers: AWS AppSync GraphQL APIs without VTL](https://aws.amazon.com/blogs/mobile/appsync-direct-lambda/)

@@ -90,3 +90,4 @@
 - [Moving from TypeScript to Rust / WebAssembly (2020)](https://nicolodavis.com/blog/typescript-to-rust/) ([HN](https://news.ycombinator.com/item?id=23776514))
 - [Hunting down a non-determinism-bug in our Rust Wasm build (2020)](https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1)
 - [Boids in WebAssembly Using Go (2020)](https://healeycodes.com/boids-flocking-simulation/) ([Lobsters](https://lobste.rs/s/7hrtwi/boids_webassembly_using_go)) ([Code](https://github.com/healeycodes/boids))
+- [WebAssembly in the Cloud](https://www.explorewasm.com/)

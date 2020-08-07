@@ -49,6 +49,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv) - Swift iOS app to track when your favorite tv show airs next.
 - [Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios) - Native iOS app using the exposure notification framework from Apple.
 - [Clip](https://github.com/rileytestut/Clip) - Clipboard manager for iOS that can monitor your clipboard indefinitely in the background.
+- [Loose Leaf](https://github.com/adamwulf/loose-leaf) - Intuitive note taking app for iPad.
 
 ## Other
 
