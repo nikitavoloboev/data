@@ -13,7 +13,7 @@
 - [Big](https://github.com/tmcw/big) - Presentations for busy messy hackers.
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - [MDX](https://github.com/mdx-js/mdx)-based presentation decks.
 - [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - Present code with style.
-- [reveal.js](https://github.com/hakimel/reveal.js/) - HTML Presentation Framework. ([Talks](http://stabbycutyou.github.io/))
+- [reveal.js](https://github.com/hakimel/reveal.js/) - HTML Presentation Framework. ([Talks](http://stabbycutyou.github.io/)) ([Web](https://revealjs.com/)) ([Chalkboard with reveal.js](https://rajgoel.github.io/reveal.js-demos/chalkboard-demo.html#/)) ([Plugins](https://github.com/rajgoel/reveal.js-plugins))
 - [Fusuma](https://github.com/hiroppy/fusuma) - Make slides with Markdown easily.
 - [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
 - [mdx-deck-live-code](https://github.com/JReinhold/mdx-deck-live-code) - Component for mdx-deck for live coding directly in your slides.
