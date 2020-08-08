@@ -4,6 +4,10 @@ Depression is a natural emotion that is caused by your body's response to the un
 
 I try my best to mindfully be aware of emotions, thoughts and feelings I have and focus on improving my [happiness](../life/happiness.md) in life.
 
+## Notes
+
+- [Jealousy is natural. You are not a terrible person for feeling jealous. That feeling of jealousy is your responsibility to find ways to work with. And you can find ways to work with it.](https://twitter.com/gildedspine/status/1291863161486880770)
+
 ## Links
 
 - [Ask HN: Effective methods to fight depression?](https://news.ycombinator.com/item?id=16922738)

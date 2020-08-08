@@ -10,6 +10,7 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Animal protein is not healthy in any way, shape or form.](https://nutritionfacts.org/topics/animal-protein/)
 - [Veganism should be the moral baseline. If you can live without animals being directly killed or exploited, why wouldn’t you?](https://www.reddit.com/r/PlantBasedDiet/comments/8x3tfm/is_100_vegan_the_way_to_go/)
 - [The vegan diet, and veganism in general, is a plant-based diet, and an avoidance of all commodities made from animal products. Its focus is on cruelty to animals. WFPB is another plant-based diet, but with stricter recommendations, that you eat the healthiest of foods, and avoid processed and animal derived foods. I am vegan because I believe cruelty to the animals should be avoided, and I adhere to WFPB because I want to promote my health. Two different motivations that produce similar results with a lot of overlap.](https://www.reddit.com/r/PlantBasedDiet/comments/82lw2d/whats_the_difference_between_a_plantbased_and_a/)
+- [Most consumers don't even know what conditions are like for dairy animals. In Europe, consumers smugly assume we have high welfare standards (maybe we do relative to other countries), but I was shocked to learned that some farms still tie and tether cows in small cramped indoor spaces. In fact, most dairy cows will spend the majority of their life indoors rather than outside grazing on pasture. This is the price of cheap, industrial-scale agriculture.](https://news.ycombinator.com/item?id=24091202)
 
 ## Links
 

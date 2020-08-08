@@ -114,3 +114,4 @@
 - [REST and GraphQL: An Architectural Comparison (2020)](https://hasura.io/blog/rest-view-of-graphql/) ([HN](https://news.ycombinator.com/item?id=23758367))
 - [GraphQL playground complete overview (2020)](https://holivielvaldez.dev/en/blog/graphlql-playground-complete-overview/)
 - [RESTless London #2 LIVE — A GraphQL Meetup (2020)](https://www.youtube.com/watch?v=67glzvghPH0)
+- [Meeshkan](https://meeshkan.com/) - Automated tests for your GraphQL APIs, dynamically generated.
