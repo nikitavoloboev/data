@@ -56,3 +56,4 @@ Success comes from not giving up and doing what you love.
 - [Sources of competitive advantage that you can generate simply by adjusting your own mentality](https://twitter.com/patio11/status/1275600252121133057)
 - [How to be more positive sum](https://twitter.com/eriktorenberg/status/1105556875611795456)
 - [30 Year Thinking (2020)](https://www.nateliason.com/blog/30-years)
+- [Blueprint I've followed to build my own business/income in ~4 years (2020)](https://twitter.com/jdnoc/status/1291773397010087938)

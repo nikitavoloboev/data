@@ -51,3 +51,4 @@
 - [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov) ([HN](https://news.ycombinator.com/item?id=23987760))
 - [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225) ([HN](https://news.ycombinator.com/item?id=24026270))
 - [Computer History Timeline](https://history-computer.com/)
+- [Everyday Technology: Machines and the Making of India's Modernity](https://bookshop.org/books/everyday-technology-machines-and-the-making-of-india-s-modernity/9780226269375)
