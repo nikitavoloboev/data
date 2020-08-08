@@ -145,6 +145,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Tiny Letter](https://tinyletter.com)
 - [Pace](https://pace.dev/) - Minimalist project management tool.
+- [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
