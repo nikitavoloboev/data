@@ -119,3 +119,4 @@
 - [Effective Function Merging in the SSA Form (2020)](https://www.youtube.com/watch?v=tu4p1ftTBVw) ([Tweet](https://twitter.com/cbarrett/status/1288615955870949383))
 - [Compiler Construction - Niklaus Wirth](https://people.inf.ethz.ch/wirth/CompilerConstruction/index.html)
 - [Beyond Code: New Signals for Static Analysis (2020)](https://pldi20.sigplan.org/details/SOAP-2020-papers/5/Keynote-Beyond-Code-New-Signals-for-Static-Analysis-)
+- [HPVM - Heterogeneous Parallel Virtual Machine](https://publish.illinois.edu/hpvm-project/)

@@ -44,3 +44,4 @@
 - [Vellvm](https://github.com/vellvm/vellvm) - Coq formalization of the semantics of (a subset of) the LLVM compiler IR.
 - [Writing an LLVM Optimization (2020)](https://www.youtube.com/watch?v=MagR2KY8MQI)
 - [KLEE](https://github.com/klee/klee) - Symbolic virtual machine built on top of the LLVM compiler infrastructure.
+- [ALLVM Research Project](https://publish.illinois.edu/allvm-project/) - All software components — except a small set needed for bootstrapping — are represented in a virtual instruction set instead of native machine code.
