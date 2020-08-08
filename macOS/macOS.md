@@ -90,3 +90,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS 11 Big Sur UI Kit](https://products.ls.graphics/macos/)
 - [The Art Of Mac Malware](https://taomm.org/)
 - [Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities](https://github.com/sslab-gatech/pwn2own2020)
+- [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236) ([HN](https://news.ycombinator.com/item?id=24080378))

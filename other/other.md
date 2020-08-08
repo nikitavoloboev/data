@@ -285,3 +285,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Webflow University](https://university.webflow.com/) - Learn web design with free video courses and tutorials.
 - [The Math of Card Shuffling (2018)](https://fredhohman.com/card-shuffling/) ([HN](https://news.ycombinator.com/item?id=24069999))
 - [Gen Z Mafia](https://genzmafia.com/) - Community of young builders. We make new experiences.
+- [What Hacker News says Extension](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're browsing. ([HN](https://news.ycombinator.com/item?id=24048786))

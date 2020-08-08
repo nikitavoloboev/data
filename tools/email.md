@@ -83,3 +83,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [A Month-and-a-Half of Self-Hosted Email (2020)](https://www.paritybit.ca/blog/a-month-and-a-half-of-self-hosted-email)
 - [Sending e-mail from Cloudflare Workers (2020)](https://guido.io/posts/sending-email-from-cloudflare-workers/)
 - [Really Good Emails](https://reallygoodemails.com/) - Curated collection of emails.
+- [ETHMail](https://ethmail.cc/) - Email services for Ethereum community.
