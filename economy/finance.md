@@ -68,3 +68,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Awesome Foundations of Decentralized Finance (DeFi)](https://github.com/Mikerah/awesome-foundations-of-DeFi)
 - [Why Credit Card Fraud Is Still a Thing (2020)](https://krebsonsecurity.com/2020/07/heres-why-credit-card-fraud-is-still-a-thing/) ([HN](https://news.ycombinator.com/item?id=23990960))
 - [Ask HN: Do you have a daily cash stream? (2020)](https://news.ycombinator.com/item?id=24047683)
+- [Best countries for FIRE? (2020)](https://www.reddit.com/r/EuropeFIRE/comments/i5gpeh/best_countries_for_fire/)

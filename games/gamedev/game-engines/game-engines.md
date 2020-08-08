@@ -15,7 +15,7 @@
 - [Piston](https://github.com/PistonDevelopers/piston) - Modular game engine written in Rust.
 - [GDevelop](https://github.com/4ian/GDevelop) - Open-source, cross-platform game engine designed to be used by everyone.
 - [Corona](https://github.com/coronalabs/corona) - Simple to learn and use 2D game engine developed by Corona Labs.
-- [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III.
+- [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III. ([Reddit](https://www.reddit.com/r/programming/comments/i5oyqz/heroes_of_might_and_magic_iii_engine_written_from/))
 - [Hex Engine](https://github.com/suchipi/hex-engine) - Modern 2D game engine for the browser.
 - [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform 3D engine in C++17.
 - [Flex Engine](https://github.com/ajweeks/FlexEngine) - Personal game engine.

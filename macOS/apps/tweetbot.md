@@ -36,3 +36,4 @@ I split the app into 2 columns on mac.
 - [Twitter API Tutorial (2018)](http://socialmedia-class.org/twittertutorial.html)
 - [Twuota](https://twuota.poxmedia.net/) - Twitter timeline statistics.
 - [On Using Twitter (2020)](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919) ([HN](https://news.ycombinator.com/item?id=24076739))
+- [Twitter Crush](https://woaini.page/) - Find twitter user you admire the most.
