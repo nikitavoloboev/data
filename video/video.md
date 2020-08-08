@@ -94,3 +94,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [ZmURL](https://zmurl.com/) - Host Delightful Zoom Events.
 - [DIY Video Hosting (2020)](https://tyler.io/diy-video-hosting/) ([HN](https://news.ycombinator.com/item?id=23894827))
 - [Unscreen](https://www.unscreen.com/) - Automatically remove video backgrounds with ML. ([HN](https://news.ycombinator.com/item?id=24058341))
+- [YouTube Storytelling: How To Make Videos that People Share (2020)](https://www.shopmoment.com/lessons/youtube-storytelling-how-to-make-videos-people-share-colin-and-samir)

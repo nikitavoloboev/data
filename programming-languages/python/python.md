@@ -64,7 +64,7 @@
 - [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/) ([HN](https://news.ycombinator.com/item?id=21732821))
 - [Pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
-- [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy. ([Web](https://python-poetry.org/)) ([HN](https://news.ycombinator.com/item?id=24081125))
 - [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html) ([Code](https://github.com/quantifiedcode/python-anti-patterns))
 - [Creator of Python Programming Language, Guido van Rossum | Oxford Union (2019)](https://www.youtube.com/watch?v=7kn7NtlV6g0)

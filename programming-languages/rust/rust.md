@@ -269,3 +269,4 @@
 - [Rusty Days 2020](https://www.youtube.com/playlist?list=PLf3u8NhoEikhTC5radGrmmqdkOK-xMDoZ)
 - [Inbound & Outbound FFI (2020)](https://www.possiblerust.com/guide/inbound-outbound-ffi)
 - [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/) ([HN](https://news.ycombinator.com/item?id=24057022)) ([Lobsters](https://lobste.rs/s/tmqadv/how_speed_up_rust_compiler_some_more_2020))
+- [Crust of Rust: Channels (2020)](https://www.youtube.com/watch?v=b4mS5UPHh20)
