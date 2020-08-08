@@ -22,3 +22,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [New Movies Coming Out](https://newmoviescomingout.us/) - Never miss a movie coming out again. ([Article](https://medium.com/makesideproject/new-movies-coming-out-79ee9595d59f))
 - [Film School Rejects](https://filmschoolrejects.com/) - Website about popular culture.
 - [Eastern European Movies](https://easterneuropeanmovies.com/) ([HN](https://news.ycombinator.com/item?id=23624551))
+- [Ask HN: Films that made you see the world differently? (2020)](https://news.ycombinator.com/item?id=24088582)
