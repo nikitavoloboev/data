@@ -32,3 +32,4 @@
 - [Verified Programming with Project Everest (2020)](https://www.youtube.com/watch?v=5B7iI2onu8s)
 - [Proving Algebraic Datatypes are “Algebraic” (2020)](https://soap.coffee/~lthms/posts/AlgebraicDatatypes.html)
 - [SPLV – Scottish Programming Languages and Verification Summer School](http://www.macs.hw.ac.uk/splv/)
+- [backspace.ai](https://backspace.ai/) - Fun resource to start playing with formal programming languages.
