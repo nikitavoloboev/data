@@ -282,3 +282,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Friendly ambitious nerd](https://gumroad.com/l/friendlynerdbook) - Collection of essays, blogposts and twitter threads by @visakanv.
 - [I could do that in a weekend!](https://danluu.com/sounds-easy/)
 - [locals](https://locals.com/) - Build your community. Control your destiny. Make money from subscriptions. Own your data. Leverage your network.
+- [Webflow University](https://university.webflow.com/) - Learn web design with free video courses and tutorials.

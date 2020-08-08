@@ -13,3 +13,4 @@
 - [Bringing webgl to react - Paul Henschel (2020)](https://www.youtube.com/watch?v=YyqBdN71nFs)
 - [map33.js](https://github.com/blaze33/map33.js) - Library to build 3D maps with Three.js. ([HN](https://news.ycombinator.com/item?id=23762403))
 - [Case study: Moving a Three.js-based WebXR app off-main-thread (2020)](https://surma.dev/things/omt-for-three-xr/)
+- [Intro To React 3D](https://www.leveluptutorials.com/tutorials/react-3d)

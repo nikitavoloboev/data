@@ -185,6 +185,7 @@
 - [Startup canon](https://danromero.org/canon.html) - Reading list for people looking to make the jump into startups. ([Tweet](https://twitter.com/dwr/status/1224400041013432320))
 - [Starting a Company is Less Risky Than You Think (2020)](https://eriktorenberg.substack.com/p/starting-a-company-is-less-risky)
 - [Ask HN: Starting a SaaS business as non-technical founder (2020)](https://news.ycombinator.com/item?id=24021128)
+- [Ask HN: What are the least competitive consumer and enterprise markets? (2020)](https://news.ycombinator.com/item?id=24066842)
 
 ## Images
 

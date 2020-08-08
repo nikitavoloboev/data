@@ -13,6 +13,7 @@
 - [Careers at Figma](https://www.figma.com/careers/) ([Twitter](https://twitter.com/rsms/status/1274057553266139137))
 - [Work at Basecamp](https://basecamp.com/about/jobs)
 - [Prisma Labs](https://www.notion.so/Open-positions-at-Prisma-Labs-eb709e36aba8405c8c189fad1c226389) - Likes that it uses Notion to list/maintain the jobs.
+- [Gumroad](https://www.notion.so/Open-positions-f43f816013b2405aa41ddefb663a4a38)
 
 ## Notes
 

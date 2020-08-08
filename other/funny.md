@@ -37,3 +37,4 @@
 - [Courage](https://deprogrammaticaipsum.com/courage/)
 - [When Millennials Name Babies](https://www.youtube.com/watch?v=27OzhD4YFcQ)
 - [Nice fishes](https://twitter.com/KashWhiteley/status/1280627592060600320)
+- [people with the 'airplane emoji' in their bio](https://www.youtube.com/watch?v=h2lKmxj9YGA)
