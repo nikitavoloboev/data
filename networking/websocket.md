@@ -20,3 +20,4 @@
 - [Chat built in Go using Websockets and Redis Pub/Sub](https://github.com/leartgjoni/go-chat-api)
 - [Retransmit](https://github.com/retransmit/prism) - HTTP and WebSockets API Gateway. ([Docs](https://retransmit.io/docs/))
 - [Real-time data streaming using FastAPI and WebSockets (2020)](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets)
+- [reactions-spreadsheet](https://github.com/osnr/reactions-spreadsheet) - Tiny multiplayer spreadsheet where you can react to cells.

@@ -30,7 +30,7 @@
 - [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)
 - [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit.
 - [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143)
-- [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data.
+- [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data. ([datasette-graphql](https://github.com/simonw/datasette-graphql))
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
 - [Vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
 - [PyParis 2018 - Vaex: Out of Core Dataframes for Python](https://www.youtube.com/watch?v=TlTcQJPUL3M)
