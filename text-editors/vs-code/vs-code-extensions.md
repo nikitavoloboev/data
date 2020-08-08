@@ -61,6 +61,7 @@ Below is a list of extensions I use.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Calculate](https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate) - Evaluate math expressions.
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons.
 - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) - Display code outline tree in the explorer pane.
 - [Empty indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Remove indent of empty lines on save.
 - [Endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Wisely add "end" in Ruby.
