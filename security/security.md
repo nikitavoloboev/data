@@ -82,3 +82,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [tl;dr sec Newsletter](https://tldrsec.com/)
 - [Flipper Zero](https://flipperzero.one/) - Tamagochi for Hackers. ([HN](https://news.ycombinator.com/item?id=23996733))
 - [Security@ Conference](https://www.hackerone.com/security-at)
+- [I'm Open Sourcing the Have I Been Pwned Code Base (2020)](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/) ([HN](https://news.ycombinator.com/item?id=24079682))

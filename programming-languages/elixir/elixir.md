@@ -36,3 +36,4 @@
 - [Reusable Elixir Libraries (2020)](https://keathley.io/blog/reusable-libraries.html)
 - [Homemade analytics with Ecto and Elixir (2020)](https://dashbit.co/blog/homemade-analytics-with-ecto-and-elixir)
 - [Elixir School](https://elixirschool.com/en)
+- [Elixir RAM and the Template of Doom (2016)](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)

@@ -89,3 +89,4 @@
 - [Type Theory and Functional Programming book (1991)](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 - [Intro To Type Theory](https://danielbmarkham.locals.com/post/88422/technical-tuesdays-intro-to-type-theory) ([Lobsters](https://lobste.rs/s/tvqpbu/intro_type_theory))
 - [Towards Observational Type Theory](http://strictlypositive.org/ott.pdf)
+- [Typing is Hard](https://typing-is-hard.ch/) ([Lobsters](https://lobste.rs/s/t7utm7/typing_is_hard))

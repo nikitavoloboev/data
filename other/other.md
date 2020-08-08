@@ -281,3 +281,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Tales of the Autistic Developer - Senior Developer (2020)](https://dev.to/baweaver/tales-of-the-autistic-developer-senior-developer-3l0c) ([Lobsters](https://lobste.rs/s/jtupzd/tales_autistic_developer_senior))
 - [Friendly ambitious nerd](https://gumroad.com/l/friendlynerdbook) - Collection of essays, blogposts and twitter threads by @visakanv.
 - [I could do that in a weekend!](https://danluu.com/sounds-easy/)
+- [locals](https://locals.com/) - Build your community. Control your destiny. Make money from subscriptions. Own your data. Leverage your network.

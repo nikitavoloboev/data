@@ -89,3 +89,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework.
 - [macOS 11 Big Sur UI Kit](https://products.ls.graphics/macos/)
 - [The Art Of Mac Malware](https://taomm.org/)
+- [Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities](https://github.com/sslab-gatech/pwn2own2020)
