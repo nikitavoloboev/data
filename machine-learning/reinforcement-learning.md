@@ -88,3 +88,7 @@
 - [Reinforcement Learning Under Moral Uncertainty (2020)](https://arxiv.org/abs/2006.04734) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/hslstp/r_reinforcement_learning_under_moral_uncertainty/)) ([Code](https://github.com/uber-research/normative-uncertainty))
 - [Go-Explore: a New Approach for Hard-Exploration Problems (2019)](https://arxiv.org/abs/1901.10995) ([Code](https://github.com/uber-research/go-explore))
 - [Neural Architecture Search (2020)](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
+- [Scaling All-Goals Updates in Reinforcement Learning Using Convolutional Neural Networks](https://github.com/fabiopardo/qmap)
+- [Tonic](https://github.com/fabiopardo/tonic) - Deep reinforcement learning library.
+- [Model Based Reinforcement Learning Benchmarking Library (MBBL)](https://github.com/WilsonWangTHU/mbbl)
+- [TF-Agents](https://github.com/tensorflow/agents) - Reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
