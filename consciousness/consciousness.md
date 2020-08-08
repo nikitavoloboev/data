@@ -38,3 +38,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [Can AI Become Conscious? (2020)](https://cacm.acm.org/news/244846-can-ai-become-conscious/fulltext) ([HN](https://news.ycombinator.com/item?id=23157312))
 - [Electrons May Very Well Be Conscious (2020)](http://nautil.us//blog/electrons-may-very-well-be-conscious) ([HN](https://news.ycombinator.com/item?id=23215877))
 - [Joscha Bach: Artificial Consciousness and the Nature of Reality (2020)](https://overcast.fm/+OcVcduJ_s) ([HN](https://news.ycombinator.com/item?id=23923183))
+- [Sir Roger Penrose & Dr. Stuart Hameroff: Consciousness and the physics of the brain (2020)](https://www.youtube.com/watch?v=xGbgDf4HCHU) ([Notes](https://news.ycombinator.com/item?id=24090384))
