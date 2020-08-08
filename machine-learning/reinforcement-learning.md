@@ -87,3 +87,4 @@
 - [Suggestions of good RL courses (2020)](https://www.reddit.com/r/reinforcementlearning/comments/hnebb8/i_need_suggestions_on_good_rl_courses/)
 - [Reinforcement Learning Under Moral Uncertainty (2020)](https://arxiv.org/abs/2006.04734) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/hslstp/r_reinforcement_learning_under_moral_uncertainty/)) ([Code](https://github.com/uber-research/normative-uncertainty))
 - [Go-Explore: a New Approach for Hard-Exploration Problems (2019)](https://arxiv.org/abs/1901.10995) ([Code](https://github.com/uber-research/go-explore))
+- [Neural Architecture Search (2020)](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
