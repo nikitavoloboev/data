@@ -102,3 +102,4 @@
 - [A graphical analysis of women's tops sold on Goodwill's website](https://goodwill.awardwinninghuman.com/) ([HN](https://news.ycombinator.com/item?id=23768921))
 - [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro (2020)](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html) ([HN](https://news.ycombinator.com/item?id=23986925))
 - [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
+- [Data Science Meets Devops: MLOps with Jupyter, Git, & Kubernetes (2020)](https://blog.kubeflow.org/mlops/)

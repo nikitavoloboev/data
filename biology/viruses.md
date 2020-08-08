@@ -30,3 +30,4 @@
 - [Effective Reproduction Number for COVID-19](https://rt.live/) ([Code](https://github.com/rtcovidlive/covid-dash))
 - [Viruses and the Evolution of Life (2005)](https://www.asmscience.org/content/book/10.1128/9781555817626)
 - [HN: The evidence which suggests that Covid-19 is not a naturally evolved virus (2020)](https://news.ycombinator.com/item?id=23875758)
+- [Computational predictions of protein structures associated with COVID-19 (2020)](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)

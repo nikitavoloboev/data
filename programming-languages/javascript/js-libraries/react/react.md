@@ -146,3 +146,4 @@
 - [Glossary of React Terms](https://reactjs.org/docs/glossary.html)
 - [Frustrated by Formik? Here's a simpler way to do forms in React (2020)](https://maxrozen.com/2020/07/23/frustrated-formik-simpler-react-forms/)
 - [Ink 3 - Build CLI apps with React (2020)](https://vadimdemedes.com/posts/ink-3)
+- [Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid (2020)](https://dev.to/lloyds-digital/comparing-reactivity-models-react-vs-vue-vs-svelte-vs-mobx-vs-solid-29m8)

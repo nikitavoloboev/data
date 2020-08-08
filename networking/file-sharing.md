@@ -28,3 +28,4 @@
 - [Perkeep](https://perkeep.org/) - Lets you permanently keep your stuff, for life. ([HN](https://news.ycombinator.com/item?id=23676350))
 - [HN: Discussing Dropbox (2020)](https://news.ycombinator.com/item?id=23787446)
 - [SCP user's migration guide to rsync (2020)](https://fedoramagazine.org/scp-users-migration-guide-to-rsync/) ([Lobsters](https://lobste.rs/s/uupfif/scp_user_s_migration_guide_rsync))
+- [Broccoli: Syncing faster by syncing less (2020)](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)

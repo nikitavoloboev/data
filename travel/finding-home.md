@@ -30,3 +30,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Renting vs buying a house](https://www.bluprince13.com/apps/renting-vs-buying/)
 - [Atmos](https://www.buildatmos.com/) - Home building, simplified.
 - [Opendoor](https://www.opendoor.com/) - Home buy/selling.
+- [We quit our jobs to build a cabin (2020)](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington) ([HN](https://news.ycombinator.com/item?id=24051907))
