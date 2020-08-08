@@ -187,3 +187,4 @@
 - [Infinite Scroll without Layout Shifts (2020)](https://addyosmani.com/blog/infinite-scroll-and-core-web-vitals/)
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup.
+- [content-visibility](https://web.dev/content-visibility/) - New CSS property that boosts your rendering performance.

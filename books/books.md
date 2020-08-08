@@ -187,6 +187,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Dan Romero's bookshelf](https://danromero.org/books/)
 - [Devine's curated list of books](https://wiki.xxiivv.com/site/readings.html)
 - [Books people (re)read (2020)](https://rauchg.com/2020/books-people-reread)
+- [89 books Paul Graham recommended](https://www.readthistwice.com/person/paul-graham)
 
 ## Notes
 

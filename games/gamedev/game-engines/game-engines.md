@@ -59,3 +59,4 @@
 - [Making game engines is a waste of time - I probably won’t stop making them (2020)](https://benwiser.com/blog/Making-game-engines-is-a-waste-of-time---I-probably-won%E2%80%99t-stop-making-them.html) ([HN](https://news.ycombinator.com/item?id=23214621))
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 - [Designing a Physics Engine (2020)](https://blog.winter.dev/2020/designing-a-physics-engine/) ([HN](https://news.ycombinator.com/item?id=24016718))
+- [Game engines used for urban planning, architecture, automotive engineering firms, live music and events, filmmaking, etc. (2020)](https://twitter.com/aaronzlewis/status/1291889682788253696)
