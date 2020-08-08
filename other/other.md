@@ -283,3 +283,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [I could do that in a weekend!](https://danluu.com/sounds-easy/)
 - [locals](https://locals.com/) - Build your community. Control your destiny. Make money from subscriptions. Own your data. Leverage your network.
 - [Webflow University](https://university.webflow.com/) - Learn web design with free video courses and tutorials.
+- [The Math of Card Shuffling (2018)](https://fredhohman.com/card-shuffling/) ([HN](https://news.ycombinator.com/item?id=24069999))

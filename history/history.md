@@ -50,3 +50,4 @@
 - [Develop: Apple Technical Journal: Issue 10 (1992)](https://vintageapple.org/develop/pdf/develop-10_9205_May_1992.pdf)
 - [The Soviet web: the tale of how the USSR almost invented the internet (2017)](https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov) ([HN](https://news.ycombinator.com/item?id=23987760))
 - [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225) ([HN](https://news.ycombinator.com/item?id=24026270))
+- [Computer History Timeline](https://history-computer.com/)
