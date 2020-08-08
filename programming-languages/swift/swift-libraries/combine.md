@@ -32,3 +32,4 @@
 - [Retrying a network request with a delay in Combine (2020)](https://www.donnywals.com/retrying-a-network-request-with-a-delay-in-combine/)
 - [Swift Combine Marbles](https://github.com/robertpalmer/CombineMarbles) - Interactive diagrams of swift combine publishers for iOS and macOS.
 - [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)
+- [TimelaneCombineX](https://github.com/Sixt/TimelaneCombineX) - Timelane + CombineX.
