@@ -72,7 +72,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [klobie](https://klobie.com/) - Bookmarking tool designed to help synthesize your web research . ([HN](https://news.ycombinator.com/item?id=24004588))
 - [MessageBird](https://messagebird.com/en/) - Zero friction, omnichannel communication. ([HN](https://news.ycombinator.com/item?id=23624854))
-- [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.
+- [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.
+- [Runway Financial](https://runway.com/) - Understand financial statements better.
 - [Texts](https://texts.com/) - One inbox. All your texts.
 - [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
 - [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
@@ -116,6 +117,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
+- [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
@@ -357,3 +359,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [OpenAPM Tools](https://openapm.io/landscape) - Landscape for APM Tools, Obervability Tools and Monitoring Tools.
 - [Ask HN: What is the best enterprise software you use every day? (2020)](https://news.ycombinator.com/item?id=23862903)
 - [Build tools around workflows, not workflows around tools (2020)](https://thesephist.com/posts/tools/)
+- [Linus's list of dev resources / tools / repos](https://linus.zone/dev)
