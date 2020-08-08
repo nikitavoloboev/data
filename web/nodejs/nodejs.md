@@ -86,3 +86,4 @@
 - [Objection.js](https://github.com/Vincit/objection.js/) - SQL-friendly ORM for Node.js.
 - [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/)
 - [Node.js Notes](https://igoradamenko.com/blog/v6/)
+- [How to stream file downloads in Node.js with Got (2020)](https://philna.sh/blog/2020/08/06/how-to-stream-file-downloads-in-Node-js-with-got/)

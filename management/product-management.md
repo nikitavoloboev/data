@@ -21,3 +21,4 @@
 - [Product Channel Fit Will Make or Break Your Growth Strategy (2017)](https://brianbalfour.com/essays/product-channel-fit-for-growth)
 - [Jumping into Product Management (2019)](https://www.martzoukos.com/posts/jumping-into-product-management)
 - ["Product surface area" problem explained (2020)](https://twitter.com/amontalenti/status/1281940587843813376)
+- [Overcoming impostor syndrome, introducing growth to an org, and how to partner with your Data Scientist (2019)](https://www.lennyrachitsky.com/p/this-week-overcoming-impostor-syndrome)

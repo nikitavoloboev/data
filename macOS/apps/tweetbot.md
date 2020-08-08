@@ -35,3 +35,4 @@ I split the app into 2 columns on mac.
 - [Vicariously](https://vicariously.io/) - Easiest way to create Twitter lists based on the follows of other users.
 - [Twitter API Tutorial (2018)](http://socialmedia-class.org/twittertutorial.html)
 - [Twuota](https://twuota.poxmedia.net/) - Twitter timeline statistics.
+- [On Using Twitter (2020)](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919) ([HN](https://news.ycombinator.com/item?id=24076739))
