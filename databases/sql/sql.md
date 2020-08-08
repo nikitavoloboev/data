@@ -58,3 +58,4 @@
 - [Some SQL Tricks of an Application DBA (2020)](https://hakibenita.com/sql-tricks-application-dba) ([Lobsters](https://lobste.rs/s/yqd6bi/some_sql_tricks_application_dba))
 - [Scaling relational SQL databases (2020)](https://stribny.name/blog/2020/07/scaling-relational-sql-databases)
 - [The Troublesome Active Record Pattern (2020)](http://calpaterson.com/activerecord.html) ([HN](https://news.ycombinator.com/item?id=22615414))
+- [Implementing subqueries in go-mysql-server (2020)](https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/)

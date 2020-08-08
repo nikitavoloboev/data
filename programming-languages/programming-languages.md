@@ -107,3 +107,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Ask HN: What are you using new programming languages for? (2020)](https://news.ycombinator.com/item?id=23956851)
 - [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
 - [A Foundation for Typed Concatenative Languages (2017)](https://www2.ccs.neu.edu/racket/pubs/dissertation-kleffner.pdf) - Presents a sound and complete type inference algorithm.
+- [What Is The Minimal Set Of Optimizations Needed For Zero-Cost Abstraction? (2020)](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
