@@ -51,3 +51,4 @@
 - [Neeva](https://neeva.co/) - Search Reimagined. ([HN](https://news.ycombinator.com/item?id=23960741))
 - [aPPR](https://github.com/RoheLab/aPPR) - Approximate Personalized Page Rank.
 - [Infinity Search](https://infinitysearch.co/) - Open-source search engine. ([Code](https://gitlab.com/infinitysearch/infinity-search)) ([HN](https://news.ycombinator.com/item?id=24080444))
+- [hndex.org](https://hndex.org/) - Full-text search engine of articles submitted to HN. ([HN](https://news.ycombinator.com/item?id=24079592))
