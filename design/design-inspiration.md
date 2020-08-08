@@ -116,6 +116,7 @@ Here are few more things I liked, design wise.
 - [Shawn Park](https://www.designbyroka.com/)
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Travis Jeffery](https://travisjeffery.com/)
+- [Julian Lehr](https://julian.digital/)
 - [Andrew Bosworth](https://boz.com/)
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
 - [Michael Edelstone](https://michaeledelstone.com/)
