@@ -83,3 +83,4 @@
 - [Studiotime](https://www.studiotime.io/) - Rent a music studio, recording studio.
 - [Sonuum](https://sonuum.com/) - Audio collaborative editor for everyone.
 - [HN: Spotify CEO: musicians can no longer release music only “once every 3-4 years” (2020)](https://news.ycombinator.com/item?id=24010152)
+- [Making AI Musicians (2017)](https://www.youtube.com/watch?v=lfttRvrYHn0)
