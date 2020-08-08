@@ -210,3 +210,4 @@
 - [Data-Centric Parallel Programming: Torsten Hoefler (2020)](https://www.youtube.com/watch?v=otBu_pDf0ig)
 - [DomeCode](https://domecode.com/) - Single platform to learn to code.
 - [How To Make Less Dumb Mistakes When Programming](https://www.semicolonandsons.com/episode/how-to-make-less-mistakes-when-programming) ([Lobsters](https://lobste.rs/s/ynvyei/how_make_less_dumb_mistakes_when))
+- [George Hotz | what is programming? (2020)](https://www.youtube.com/watch?v=N2bXEUSAiTI)
