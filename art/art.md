@@ -67,6 +67,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Natalie Dombois](http://nataliedombois.de/)
 - [Yuxing Zhang](https://www.artstation.com/eason)
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
+- [Alexandria Neonakis](https://www.alexneonakis.com/) ([Instagram](https://www.instagram.com/alexneonakis/))
 - [Guy Billout](https://www.boredpanda.com/surreal-illustrations-guy-billout/) ([More art](https://twitter.com/GraceSpelman/status/1276267166950711296))
 - [Gemma O’Brien](https://shop.gemmaobrien.com/)
 - [Petur Orn](https://www.instagram.com/orn.design/)

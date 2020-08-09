@@ -42,3 +42,4 @@
 - [Unit Testing is Overrated (2020)](https://tyrrrz.me/blog/unit-testing-is-overrated) ([HN](https://news.ycombinator.com/item?id=23778878))
 - [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Implementing mutation testing in a niche language with Stryker (2020)](https://medium.com/att-israel/mutants-against-bugs-87f77a95aad)
+- [BrowserStack](https://www.browserstack.com/) - App & Browser Testing Made Easy.

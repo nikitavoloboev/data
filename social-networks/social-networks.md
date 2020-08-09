@@ -53,3 +53,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Instagram Morphs into an Information Powerhouse (2020)](https://www.axios.com/instagram-information-coronavirus-george-floyd-706d1ad3-9d6d-48d4-b085-3469a0d93b56.html) ([HN](https://news.ycombinator.com/item?id=24019977))
 - [Proof of X (2020)](https://julian.digital/2020/08/06/proof-of-x/)
 - [TikTok and the Sorting Hat (2020)](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) ([HN](https://news.ycombinator.com/item?id=24049676))
+- [How to run a small social network site for your friends](https://runyourown.social/)

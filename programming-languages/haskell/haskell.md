@@ -167,3 +167,4 @@
 - [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
 - [A philosophical difference between Haskell and Lisp (2015)](https://chrisdone.com/posts/haskell-lisp-philosophy-difference/) ([HN](https://news.ycombinator.com/item?id=24031376))
 - [Haskell Implementors’ Workshop papers/talks (2020)](https://icfp20.sigplan.org/home/hiw-2020)
+- [Designing a React Hooks style TUI lib from scratch (2020)](https://www.youtube.com/watch?v=xiBSb0A_3SQ)
