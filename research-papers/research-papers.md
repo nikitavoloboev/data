@@ -24,6 +24,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Collaboratived repository to put all computer science papers that we thing everyone must read](https://github.com/leomindez/papers-you-must-read)
 - [Exciting papers to read in the field of Computer Science (2020)](https://www.reddit.com/r/compsci/comments/ffd4xx/what_is_the_most_exciting_paper_you_have_read/)
 - [Get started with computer science papers](https://developer.sh/posts/computer-science-papers)
+- [Scientific papers I haven't been able to find](http://trettel.org/papers-to-find.html)
 
 ## Notes
 

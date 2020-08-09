@@ -122,3 +122,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [CS Visualized: CORS (2020)](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 - [IPv4, IPv6, and a sudden change in attitude (2020)](https://apenwarr.ca/log/20200708) ([HN](https://news.ycombinator.com/item?id=23914482))
 - [Cloudflare Network Interconnect (2020)](https://blog.cloudflare.com/cloudflare-network-interconnect/) ([HN](https://news.ycombinator.com/item?id=24049525))
+- [Adding a fiber link to my home network (2020)](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/) ([HN](https://news.ycombinator.com/item?id=24099425))

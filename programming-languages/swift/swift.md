@@ -142,3 +142,4 @@
 - [SwiftRef](https://dabrahams.github.io/SwiftRef/) - Community-Generated Swift Programming Language Reference. ([Code](https://github.com/dabrahams/SwiftRef))
 - [Swift type checking is undecidable (2020)](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024) ([Lobsters](https://lobste.rs/s/yl7a1w/swift_type_checking_is_undecidable)) ([HN](https://news.ycombinator.com/item?id=24047394))
 - [The state of Swift documentation (2020)](https://forums.swift.org/t/the-state-of-swift-documentation/39130)
+- [A deep dive into Swift’s function builders (2020)](https://swiftbysundell.com/articles/deep-dive-into-swift-function-builders/)

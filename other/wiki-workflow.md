@@ -103,6 +103,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Bharat’s Digital Garden](https://notes.bharatkalluri.in/)
 - [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
 - [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
+- [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
