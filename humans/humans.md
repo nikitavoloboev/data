@@ -35,6 +35,10 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [stapelberg uses this: my 2020 desk setup](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/) ([HN](https://news.ycombinator.com/item?id=23282784))
 - [Dan Munro](https://danmunro.com/recommendations/)
 
+## Notes
+
+- [Build a list of people you want to work with someday. ~100% of them will be unavailable when you write their names down. You'll probably believe you'll never actually get a chance to work with >80% of them. Keep at it long enough and you'll be stunned by how wrong you were.](https://twitter.com/julianweisser/status/1292077164645367808)
+
 ## Links
 
 - [Important women in CS who aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/)
