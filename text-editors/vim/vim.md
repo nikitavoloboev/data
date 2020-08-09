@@ -67,3 +67,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim's Versatile CLI (2020)](https://www.youtube.com/watch?v=pt36X1OJRG4) ([Lobsters](https://lobste.rs/s/v0vfcy/vim_s_versatile_cli))
 - [GNvim](https://github.com/vhakulinen/gnvim) - Rich Neovim GUI without any web bloat.
 - [Why Should You Learn Vim in 2020](https://pragmaticpineapple.com/why-should-you-learn-vim-in-2020/) ([Lobsters](https://lobste.rs/s/07tbby/why_should_you_learn_vim_2020)) ([HN](https://news.ycombinator.com/item?id=24064809))
+- [Vim Search, Find and Replace: a Detailed Guide (2020)](https://thevaluable.dev/vim-search-find-replace/)
