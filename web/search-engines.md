@@ -53,3 +53,4 @@
 - [Infinity Search](https://infinitysearch.co/) - Open-source search engine. ([Code](https://gitlab.com/infinitysearch/infinity-search)) ([HN](https://news.ycombinator.com/item?id=24080444))
 - [hndex.org](https://hndex.org/) - Full-text search engine of articles submitted to HN. ([HN](https://news.ycombinator.com/item?id=24079592))
 - [Sourcegraph](https://sourcegraph.com/search) - Search public code.
+- [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) - Visualization of Google's autocomplete. ([Code](https://github.com/anvaka/vs))
