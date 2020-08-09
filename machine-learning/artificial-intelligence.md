@@ -32,3 +32,4 @@
 - [Why general artificial intelligence will not be realized (2020)](https://www.nature.com/articles/s41599-020-0494-4) ([HN](https://news.ycombinator.com/item?id=23793108))
 - [AI Myths](https://www.aimyths.org/) - Tackle 8 of the most insidious myths, misconceptions and inaccuracies about AI. ([Tweet](https://twitter.com/djleufer/status/1288423369327681536))
 - [Manifold Computing](https://manifoldcomputing.com/) - Open, distributed research group working on significantly improving learning systems and applying them to the toughest problems humanity faces.
+- [The role of AI in coding (2020)](https://blog.repl.it/codingai)
