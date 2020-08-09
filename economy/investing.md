@@ -85,3 +85,4 @@
 - [Ask HN: I have \$450K cash, what should I do to maximize my return? (2020)](https://news.ycombinator.com/item?id=24020899)
 - [Public.com](https://public.com/) - Social Investing App.
 - [Rolling funds explanation (2020)](https://github.com/cassidoo/stream-hooks-demo)
+- [Naval Ravikant on Investing](https://www.navalmanack.com/investing)

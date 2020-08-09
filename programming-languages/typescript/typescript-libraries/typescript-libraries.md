@@ -61,3 +61,4 @@
 - [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more.
 - [check-dts](https://github.com/ai/check-dts) - Unit tests for TypeScript definitions in your JS open source library.
 - [LiTScript](https://github.com/johtela/litscript) - Documentation generation tool that draws inspiration from literate programming.
+- [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by esbuild.

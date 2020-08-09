@@ -91,3 +91,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [The Art Of Mac Malware](https://taomm.org/)
 - [Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities](https://github.com/sslab-gatech/pwn2own2020)
 - [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236) ([HN](https://news.ycombinator.com/item?id=24080378))
+- [Ask HN: What feature did you find after years of using macOS? (2020)](https://news.ycombinator.com/item?id=24091707)

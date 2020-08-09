@@ -33,3 +33,4 @@
 - [Proving Algebraic Datatypes are “Algebraic” (2020)](https://soap.coffee/~lthms/posts/AlgebraicDatatypes.html)
 - [SPLV – Scottish Programming Languages and Verification Summer School](http://www.macs.hw.ac.uk/splv/)
 - [backspace.ai](https://backspace.ai/) - Fun resource to start playing with formal programming languages.
+- [Formulog: ML + Datalog + SMT (2020)](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
