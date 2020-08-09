@@ -10,3 +10,4 @@
 - [HN: Our restaurants are failing. Why should food delivery apps thrive?](https://news.ycombinator.com/item?id=23204225)
 - [HN: Restaurants rebel against delivery apps as cities crack down on fees (2020)](https://news.ycombinator.com/item?id=23291170)
 - [Coronavirus Guides for the F&B Industry](https://fnbcovidguide.com/)
+- [How applying extreme constraints led to the meteoric rise of one of the world's most influential chefs (2020)](https://twitter.com/kevinleeme/status/1291763997595688962)

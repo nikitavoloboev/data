@@ -31,3 +31,4 @@
 - [Communication As Problem Solving (2020)](https://ashfurrow.com/blog/communication-as-problem-solving/) ([Lobsters](https://lobste.rs/s/vu3zal/communication_as_problem_solving))
 - [How to Become Convincing](https://dcgross.com/how-to-convince-people/) ([HN](https://news.ycombinator.com/item?id=23986571))
 - [On Reviews (2020)](https://boz.com/articles/reviews)
+- [Fire your bad customers (2020)](https://www.preetamnath.com/blog/fire-your-bad-customers) ([HN](https://news.ycombinator.com/item?id=24097420))

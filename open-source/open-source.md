@@ -110,3 +110,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [A new funding model for open source software (2020)](https://vriad.com/essays/a-new-funding-model-for-open-source-software) ([HN](https://news.ycombinator.com/item?id=23981563))
 - [The terms of the AGPL are pretty easy to comply with (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html) ([HN](https://news.ycombinator.com/item?id=23966778))
 - [Scarf](https://about.scarf.sh/) - Helps open-source developers get paid and deliver better software.
+- [Ask HN: Is it a good practice to provide open-source version of your paid app? (2020)](https://news.ycombinator.com/item?id=24097763)
