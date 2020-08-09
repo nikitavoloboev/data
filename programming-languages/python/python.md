@@ -142,3 +142,4 @@
 - [Dive Into Python 3 book](https://diveinto.org/python3/table-of-contents.html) ([Code](https://github.com/diveintomark/diveintopython3))
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
 - [I know Python basics, what next? (2020)](https://www.reddit.com/r/Python/comments/i0m2sy/i_know_python_basics_what_next/)
+- [Fluent Python (2015)](https://www.oreilly.com/library/view/fluent-python/9781491946237/) ([Code](https://github.com/fluentpython/example-code))
