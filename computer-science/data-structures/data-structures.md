@@ -36,3 +36,4 @@
 - [Dense vs. Sparse Indexes (2020)](https://yetanotherdevblog.com/dense-vs-sparse-indexes/)
 - [Data Structures and Algorithms Problems](https://www.techiedelight.com/list-of-problems/)
 - [Data Structures & Algorithms I Actually Used Working at Tech Companies (2020)](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/) ([Lobsters](https://lobste.rs/s/n8tyip/data_structures_algorithms_i_actually)) ([HN](https://news.ycombinator.com/item?id=23841491))
+- [Let’s implement a Bloom Filter (2020)](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
