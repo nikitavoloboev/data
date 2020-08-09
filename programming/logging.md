@@ -17,3 +17,4 @@
 - [DTXLoggingInfra](https://github.com/wix/DTXLoggingInfra) - Logging infrastructure for Apple platforms.
 - [Good Logging (2020)](https://henrikwarne.com/2020/07/23/good-logging/) ([Lobsters](https://lobste.rs/s/d8dk4r/good_logging))
 - [Monitoring demystified: A guide for logging, tracing, metrics (2020)](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics) ([HN](https://news.ycombinator.com/item?id=24006697))
+- [Metrictank](https://github.com/grafana/metrictank) - Multi-tenant timeseries platform that can be used as a backend or replacement for Graphite.
