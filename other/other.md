@@ -286,3 +286,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Math of Card Shuffling (2018)](https://fredhohman.com/card-shuffling/) ([HN](https://news.ycombinator.com/item?id=24069999))
 - [Gen Z Mafia](https://genzmafia.com/) - Community of young builders. We make new experiences.
 - [What Hacker News says Extension](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're browsing. ([HN](https://news.ycombinator.com/item?id=24048786))
+- [Reddit Today’s Top Communities](https://www.reddit.com/subreddits/leaderboard/)
