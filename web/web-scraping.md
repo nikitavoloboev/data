@@ -2,6 +2,7 @@
 
 ## Links
 
+- [ScrapingBee](https://www.scrapingbee.com/) - Web Scraping API.
 - [Easy web scraping with Scrapy (2019)](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
 - [A guide to Web Scraping without getting blocked in 2020](https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/)
 - [Crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.
@@ -28,3 +29,4 @@
 - [Gumbo](https://github.com/google/gumbo-parser) - Pure-C HTML5 parser.
 - [What is a present-day web scraping in 2020?](https://dataflowkit.com/blog/what-is-a-present-day-web-scraper/)
 - [Dataflow Kit](https://dataflowkit.com/) - Web scraping. Data extraction tools
+- [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)

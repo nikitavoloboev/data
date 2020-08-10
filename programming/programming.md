@@ -212,3 +212,4 @@
 - [How To Make Less Dumb Mistakes When Programming](https://www.semicolonandsons.com/episode/how-to-make-less-mistakes-when-programming) ([Lobsters](https://lobste.rs/s/ynvyei/how_make_less_dumb_mistakes_when))
 - [George Hotz | what is programming? (2020)](https://www.youtube.com/watch?v=N2bXEUSAiTI)
 - [Disintegrated Development Environments — How Did We Get Here? (2017)](https://amasad.me/disintegrated)
+- [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md) ([HN](https://news.ycombinator.com/item?id=24099167))

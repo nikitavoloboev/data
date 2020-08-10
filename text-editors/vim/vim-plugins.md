@@ -100,6 +100,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vimspector](https://github.com/puremourning/vimspector) - Multi-language debugging system for Vim.
 - [Completor](https://github.com/maralla/completor.vim) - Async completion framework made ease.
+- [File Explorer](https://github.com/kyazdani42/nvim-tree.lua) - Simple tree for neovim written in lua.
 
 ## Looks
 

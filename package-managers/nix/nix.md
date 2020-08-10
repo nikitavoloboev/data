@@ -120,3 +120,5 @@
 - [Building static Haskell binary with Nix on Linux (2020)](https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html)
 - [Template for NUR repositories](https://github.com/rvolosatovs/nur-packages)
 - [Bramble](https://github.com/maxmcd/bramble) - Functional build system inspired by nix.
+- [The easiest way (I've found) to create your own Nix channel (2020)](https://lucperkins.dev/blog/nix-channel/)
+- [Nix Monorepo](https://github.com/lucperkins/nix-monorepo) - How you might use Nix in a larger, multi-language project.

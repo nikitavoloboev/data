@@ -23,6 +23,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 ## Bots
 
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
+- [TgDev](https://tgdev.io/) - Telegram bots development.
 
 ## Links
 

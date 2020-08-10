@@ -54,3 +54,4 @@
 - [hndex.org](https://hndex.org/) - Full-text search engine of articles submitted to HN. ([HN](https://news.ycombinator.com/item?id=24079592))
 - [Sourcegraph](https://sourcegraph.com/search) - Search public code.
 - [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) - Visualization of Google's autocomplete. ([Code](https://github.com/anvaka/vs))
+- [Dorking: the use of search engines to find very specific data (2020)](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html) ([HN](https://news.ycombinator.com/item?id=24101889))

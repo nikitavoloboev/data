@@ -116,3 +116,4 @@
 - [RESTless London #2 LIVE — A GraphQL Meetup (2020)](https://www.youtube.com/watch?v=67glzvghPH0)
 - [Meeshkan](https://meeshkan.com/) - Automated tests for your GraphQL APIs, dynamically generated.
 - [GraphQL in Datasette with the new datasette-graphql plugin (2020)](https://simonwillison.net/2020/Aug/7/datasette-graphql/)
+- [Example GraphQL server written in Rust](https://github.com/lucperkins/rust-graphql-juniper-actix-diesel-postgres)

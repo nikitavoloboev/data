@@ -77,3 +77,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Lightweight Linux VMs on NixOS (2020)](https://www.srid.ca/2012301.html)
 - [adhoc executable patching on nixos (2020)](https://notes.neeasade.net/adhoc-executable-patching-on-nix.html)
 - [Nix Flakes: Managing NixOS systems (2020)](https://www.tweag.io/blog/2020-07-31-nixos-flakes/)
+- [NixOS Channels (2020)](https://nixos.online/posts/NixOS_channels/)

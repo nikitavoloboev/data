@@ -275,3 +275,4 @@
 - [Surviving Rust async interfaces (2020)](https://fasterthanli.me/articles/surviving-rust-async-interfaces) ([Lobsters](https://lobste.rs/s/u49qgy/surviving_rust_async_interfaces))
 - [Rust for a Pythonista (2020)](https://dygalo.dev/blog/rust-for-a-pythonista-1/)
 - [Two Years With Rust (2020)](http://brooker.co.za/blog/2020/03/22/rust.html)
+- [sled theoretical performance guide](https://sled.rs/perf) - Covers timeless ideas that are helpful to keep in mind while working with systems where performance matters.

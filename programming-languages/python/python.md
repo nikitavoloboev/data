@@ -3,7 +3,7 @@
 ## Links
 
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
-- [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python. ([Article](https://engineering.fb.com/security/pysa/))
 - [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
 - [WTF Python](https://github.com/satwikkansal/wtfpython)
 - [My Python Development Environment, 2020 Edition (2019)](https://jacobian.org/2019/nov/11/python-environment-2020/) ([HN](https://news.ycombinator.com/item?id=21510262))
@@ -143,3 +143,5 @@
 - [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
 - [I know Python basics, what next? (2020)](https://www.reddit.com/r/Python/comments/i0m2sy/i_know_python_basics_what_next/)
 - [Fluent Python (2015)](https://www.oreilly.com/library/view/fluent-python/9781491946237/) ([Code](https://github.com/fluentpython/example-code))
+- [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+- [Sparking Joy with Python (2020)](https://maxwellforbes.com/posts/spark-joy-python-why)

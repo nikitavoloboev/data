@@ -35,3 +35,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Synchronous Text (2019)](http://exple.tive.org/blarg/2019/04/26/synchronous-text/)
 - [Convos](https://convos.chat/) - Simplest way to use IRC in your browser. ([Code](https://github.com/Nordaaker/convos))
 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/) ([Code](https://github.com/ircdocs/modern-irc))
+- [Quassel IRC](https://github.com/quassel/quassel) - Modern, cross-platform, distributed IRC client. ([Web](https://quassel-irc.org/))

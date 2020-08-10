@@ -188,6 +188,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Devine's curated list of books](https://wiki.xxiivv.com/site/readings.html)
 - [Books people (re)read (2020)](https://rauchg.com/2020/books-people-reread)
 - [89 books Paul Graham recommended](https://www.readthistwice.com/person/paul-graham)
+- [Best-Books.dev](https://www.best-books.dev/) - Best programming books, all in one place.
 
 ## Notes
 

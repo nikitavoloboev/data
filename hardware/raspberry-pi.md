@@ -20,3 +20,4 @@
 - [Adding PCIe To Your Raspberry Pi 4, The Easier Way (2020)](https://hackaday.com/2020/07/01/adding-pcie-to-your-raspberry-pi-4-the-easier-way/)
 - [Raspberry Pi 4 PCIe bridge “chip” (2020)](https://blog.zakkemble.net/rpi4-pci-express-bridge-chip/) ([HN](https://news.ycombinator.com/item?id=23701208))
 - [I built a desktop radiation monitor with Raspberry Pi, brass and wood (2020)](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/) ([HN](https://news.ycombinator.com/item?id=23756964))
+- [Trying to build the ultimate raspberry pi computer (zero terminal v3)](https://n-o-d-e.net/zeroterminal3.html)

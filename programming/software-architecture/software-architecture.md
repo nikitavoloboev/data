@@ -75,3 +75,4 @@
 - [Systems Performance: Enterprise and the Cloud book (2020)](http://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 - [People of Systems & Architecture: James Mickens (2020)](https://www.sigops.org/2020/people-of-systems-architecture-james-mickens/)
 - [Systems design for advanced beginners (2020)](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) ([HN](https://news.ycombinator.com/item?id=23904000))
+- [Awesome System Design](https://github.com/madd86/awesome-system-design)

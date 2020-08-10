@@ -30,3 +30,4 @@
 - [Synth DIY Projects](https://northcoastsynthesis.com/synth-diy-projects/)
 - [Electronics & Microcontrollers for Absolute Beginners (2020)](https://hackaday.io/page/7185-electronics-microcontrollers-for-absolute-beginners-part-1)
 - [VSRTL](https://github.com/mortbopet/VSRTL) - Visual Simulation of Register Transfer Logic.
+- [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn) ([HN](https://news.ycombinator.com/item?id=24093132))

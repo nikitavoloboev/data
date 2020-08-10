@@ -49,3 +49,4 @@
 - [Introduction to Probability and Random Processes (1979)](https://ellerman.org/wp-content/uploads/2012/12/Rota-Baclawski-Prob-Theory-79.pdf)
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [Statistics 110: Probability (35 lectures)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [Causal Inference Book (2020)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)

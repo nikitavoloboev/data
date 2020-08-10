@@ -105,6 +105,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
 - [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
+- [Nick Belzer](https://notes.nickbelzer.me/) ([Code](https://github.com/nbelzer/notes))
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
@@ -209,3 +210,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
 - [Dendron](https://www.dendron.so/) - Local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. ([Code](https://github.com/dendronhq/dendron))
 - [If you take notes, which note-taking tool do you use? (2020)](https://twitter.com/anthilemoon/status/1291646162919993344)
+- [Building my personal knowledge repository (2020)](https://notes.nickbelzer.me/topics/2020/05/12/building-my-personal-knowledge-repository.html)

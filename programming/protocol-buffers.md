@@ -19,3 +19,4 @@
 - [proto](https://github.com/emicklei/proto) - Package in Go for parsing Google Protocol Buffers.
 - [hrpc](https://github.com/mafintosh/hrpc) - Simple RPC with Protobuf Services.
 - [Golang ProtoBuf Validator Compiler](https://github.com/mwitkow/go-proto-validators)
+- [protopatch](https://github.com/alta/protopatch) - Patch protoc plugin output with Go-specific features.
