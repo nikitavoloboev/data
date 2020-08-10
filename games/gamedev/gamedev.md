@@ -6,6 +6,7 @@
 - [Goldborough Studio](https://www.goldboroughstudio.com/)
 - [CD PROJEKT RED](https://en.cdprojektred.com/)
 - [GSC Game World](https://www.gsc-game.com/) - Makers of Stalker.
+- [HiWarp](https://www.hiwarp.com/) - Indie Game Studio.
 
 ## Notes
 

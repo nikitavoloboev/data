@@ -223,3 +223,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/) ([HN](https://news.ycombinator.com/item?id=23919175))
 - [RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Enhancing the iOS simulator for productivity.
 - [Introducing CryptoKit (2020)](https://www.raywenderlich.com/10846296-introducing-cryptokit)
+- [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html) ([HN](https://news.ycombinator.com/item?id=24099968))

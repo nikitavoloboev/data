@@ -21,6 +21,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Fire Runner](https://subl.ee/runker/)
 - [Dig Escape](https://tantandev.itch.io/digescape) - Game written in Rust, compilable to webbassembly. ([Code](https://github.com/TanTanDev/DigEscape))
 - [PiAwk](https://www.hiwarp.com/piawk/)
+- [NAiAD](https://www.hiwarp.com/naiad/)
 
 ## Awesome OSS games
 
