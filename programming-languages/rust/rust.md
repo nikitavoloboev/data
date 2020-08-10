@@ -272,6 +272,6 @@
 - [Crust of Rust: Channels (2020)](https://www.youtube.com/watch?v=b4mS5UPHh20)
 - [Rust at Sunrise](https://twitter.com/rust_at_sunrise) - Daily update on the latest Rust Nightly. ([Code](https://github.com/jonhoo/rust-at-sunrise))
 - [Rust Compiler Performance Monitoring & Benchmarking](https://perf.rust-lang.org/) ([Code](https://github.com/rust-lang/rustc-perf))
-- [Surviving Rust async interfaces (2020)](https://fasterthanli.me/articles/surviving-rust-async-interfaces)
+- [Surviving Rust async interfaces (2020)](https://fasterthanli.me/articles/surviving-rust-async-interfaces) ([Lobsters](https://lobste.rs/s/u49qgy/surviving_rust_async_interfaces))
 - [Rust for a Pythonista (2020)](https://dygalo.dev/blog/rust-for-a-pythonista-1/)
 - [Two Years With Rust (2020)](http://brooker.co.za/blog/2020/03/22/rust.html)

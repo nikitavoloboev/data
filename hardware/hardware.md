@@ -15,7 +15,7 @@
 - [Learning hardware programming as a software engineer (2019)](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=21878263))
 - [My Business Card Runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) ([HN](https://news.ycombinator.com/item?id=21871026))
 - [nMigen](https://github.com/m-labs/nmigen) - Refreshed Python toolbox for building complex digital hardware.
-- [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) - Tool for exploring digital interfaces.
+- [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) - Tool for exploring digital interfaces. ([HN](https://news.ycombinator.com/item?id=24101915))
 - [Everything I know about SSDs (2019)](http://kcall.co.uk/ssd/index.html) - Solid State Devices using NAND Flash, how they differ from Hard Drives, and how they affect file deletion and recovery. ([HN](https://news.ycombinator.com/item?id=22054600))
 - [CRAY-1 Computer System: Hardware Reference Manual (1977)](http://www.ed-thelen.org/comp-hist/CRAY-1-HardRefMan/CRAY-1-HRM.html)
 - [Cerebras CS-1](https://www.cerebras.net/product/) - Built from the ground up to accelerate deep learning in the data center.

@@ -169,3 +169,4 @@
 - [Haskell Implementors’ Workshop papers/talks (2020)](https://icfp20.sigplan.org/home/hiw-2020)
 - [Designing a React Hooks style TUI lib from scratch (2020)](https://www.youtube.com/watch?v=xiBSb0A_3SQ)
 - [hinc](https://serras.github.io/hinc/) - Haskell In New Clothes. Braces-and-parens syntax for your favorite language. ([HN](https://news.ycombinator.com/item?id=24090346)) ([Code](https://github.com/serras/hinc)) ([Why](https://github.com/serras/hinc/blob/master/why.md))
+- [Simon Peyton Jones - Elastic sheet-defined functions (2020)](https://www.youtube.com/watch?v=jH2Je6wUvPs&t)

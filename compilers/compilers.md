@@ -120,3 +120,4 @@
 - [Compiler Construction - Niklaus Wirth](https://people.inf.ethz.ch/wirth/CompilerConstruction/index.html)
 - [Beyond Code: New Signals for Static Analysis (2020)](https://pldi20.sigplan.org/details/SOAP-2020-papers/5/Keynote-Beyond-Code-New-Signals-for-Static-Analysis-)
 - [HPVM - Heterogeneous Parallel Virtual Machine](https://publish.illinois.edu/hpvm-project/)
+- [GraalVM](https://github.com/oracle/graal) - Run Programs Faster Anywhere. ([Web](https://www.graalvm.org/)) ([HN](https://news.ycombinator.com/item?id=24103233))
