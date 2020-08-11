@@ -189,3 +189,4 @@
 - [awsm.css](https://github.com/igoradamenko/awsm.css) - Simple CSS library for semantic HTML markup.
 - [content-visibility](https://web.dev/content-visibility/) - New CSS property that boosts your rendering performance.
 - [Nailing the Perfect Contrast Between Light Text and a Background Image (2020)](https://css-tricks.com/nailing-the-perfect-contrast-between-light-text-and-a-background-image/)
+- [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)

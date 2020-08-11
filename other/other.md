@@ -288,3 +288,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What Hacker News says Extension](https://github.com/pinoceniccola/what-hn-says-webext) - Easily find Hacker News discussions about the page you're browsing. ([HN](https://news.ycombinator.com/item?id=24048786))
 - [Reddit Today’s Top Communities](https://www.reddit.com/subreddits/leaderboard/)
 - [TwikTwok](https://twiktwok.github.io/) - Twitter x TikTok. ([HN](https://news.ycombinator.com/item?id=24096328))
+- [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step) ([HN](https://news.ycombinator.com/item?id=18360847))
+- [Unveil](https://github.com/sheshbabu/unveil) - Simple feature flag service written using ActixWeb, SQLx and React.

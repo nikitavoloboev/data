@@ -477,6 +477,7 @@
 - [OjG](https://github.com/ohler55/ojg) - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools.
 - [fuzzy](https://github.com/deanishe/go-fuzzy) - Implements fuzzy matching/sorting of string slices and custom types.
 - [Gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
+- [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
 
 ## Links
 

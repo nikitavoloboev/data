@@ -108,3 +108,5 @@
 - [Two-beam Interference — Collimated Beams](https://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/demonstrations-in-physical-optics/two-beam-interference-2014-collimated-beams/)
 - [NANOGrav](http://nanograv.org/) - North American Nanohertz Observatory for Gravitational Waves. ([Tweet](https://twitter.com/coreyspowell/status/1292288928922427393))
 - [Algorithmic Theories of Everything (2000)](https://arxiv.org/abs/quant-ph/0011122) ([HN](https://news.ycombinator.com/item?id=24093599))
+- [Periodic table, color coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872) ([HN](https://news.ycombinator.com/item?id=24107656))
+- [Twistors and the Standard Model (2020)](https://www.math.columbia.edu/~woit/wordpress/?p=11899)

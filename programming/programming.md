@@ -213,3 +213,4 @@
 - [George Hotz | what is programming? (2020)](https://www.youtube.com/watch?v=N2bXEUSAiTI)
 - [Disintegrated Development Environments — How Did We Get Here? (2017)](https://amasad.me/disintegrated)
 - [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md) ([HN](https://news.ycombinator.com/item?id=24099167))
+- [Tripping over the potholes in too many libraries (2020)](https://rachelbythebay.com/w/2020/08/09/lib/) ([Lobsters](https://lobste.rs/s/mxa5ze/tripping_over_potholes_too_many))

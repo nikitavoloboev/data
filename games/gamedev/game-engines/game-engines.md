@@ -43,6 +43,7 @@
 - [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
 - [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
 - [PlayCanvas](https://playcanvas.com/) - WebGL Game Engine. ([HN](https://news.ycombinator.com/item?id=24018097))
+- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/))
 
 ## Physics engines
 

@@ -145,3 +145,6 @@
 - [Fluent Python (2015)](https://www.oreilly.com/library/view/fluent-python/9781491946237/) ([Code](https://github.com/fluentpython/example-code))
 - [Awesome Python Typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 - [Sparking Joy with Python (2020)](https://maxwellforbes.com/posts/spark-joy-python-why)
+- [Options for packaging your Python code: Wheels, Conda, Docker, and more (2020)](https://pythonspeed.com/articles/distributing-software/) ([HN](https://news.ycombinator.com/item?id=24117464))
+- [Mypy](https://github.com/python/mypy) - Optional Static Typing for Python.
+- [Mypyc](https://github.com/python/mypy/tree/master/mypyc) - Mypy to Python C Extension Compiler. ([Lobsters](https://lobste.rs/s/3c1oog/mypyc_mypy_python_c_extension_compiler))

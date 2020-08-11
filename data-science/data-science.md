@@ -103,3 +103,4 @@
 - [1.1B Taxi Rides Using OmniSciDB and a MacBook Pro (2020)](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html) ([HN](https://news.ycombinator.com/item?id=23986925))
 - [Data Science Interview Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
 - [Data Science Meets Devops: MLOps with Jupyter, Git, & Kubernetes (2020)](https://blog.kubeflow.org/mlops/)
+- [dplyr](https://github.com/tidyverse/dplyr/) - Grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges. ([Web](https://dplyr.tidyverse.org/))

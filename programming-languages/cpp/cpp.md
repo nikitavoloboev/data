@@ -104,3 +104,4 @@
 - [Syntax changes from C++11 to C++20 (2020)](https://www.bfilipek.com/2020/08/lambda-syntax.html) ([HN](https://news.ycombinator.com/item?id=24049549))
 - [Categories for the Working C++ Programmer (2020)](https://bartoszmilewski.com/2020/08/05/categories-for-the-working-c-programmer/) ([Reddit](https://www.reddit.com/r/cpp/comments/i4af6m/categories_for_the_working_c_programmer/))
 - [Overriding C++ virtual functions at run time (2020)](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/) ([HN](https://news.ycombinator.com/item?id=24098048))
+- [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions (2020)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf) ([HN](https://news.ycombinator.com/item?id=24114402))

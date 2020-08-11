@@ -1,5 +1,15 @@
 # [Django](https://www.djangoproject.com/)
 
+## Notes
+
+- Make migration (where `./manage` is a script that wraps over `python manage.py`):
+  1. Change model. Add/remove fields etc.
+  2. Run `./manage makemigrations` to create migration from changed models. (can run `./manage makemigrations -n <migration-name>` to give it custom name).
+  3. Migration file is created. Run `./manage migrate` to apply
+- Run tests:
+  - `./manage test` = run all tests
+  - `./manage test -k path.to.test` = run specific test. can also run some function from the test inside the file with another `.`.
+
 ## Links
 
 - [Profiling Django with DTrace and cProfile (2019)](https://wiedi.frubar.net/blog/2019/11/18/django-performance/)
@@ -14,3 +24,4 @@
 - [Introducing Django (2005)](https://simonwillison.net/2005/Jul/17/django/)
 - [Django 3.1 (2020)](https://www.djangoproject.com/weblog/2020/aug/04/django-31-released/) ([HN](https://news.ycombinator.com/item?id=24048046))
 - [Surviving Django (if you care about databases) (2020)](https://www.varrazzo.com/blog/2020/07/25/surviving-django/) ([HN](https://news.ycombinator.com/item?id=24074520)) ([Lobsters](https://lobste.rs/s/l7dqrf/surviving_django_if_you_care_about))
+- [Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/) - Opinionated guide on how to write views in Django.

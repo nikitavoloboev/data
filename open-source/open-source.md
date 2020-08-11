@@ -111,3 +111,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [The terms of the AGPL are pretty easy to comply with (2020)](https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html) ([HN](https://news.ycombinator.com/item?id=23966778))
 - [Scarf](https://about.scarf.sh/) - Helps open-source developers get paid and deliver better software.
 - [Ask HN: Is it a good practice to provide open-source version of your paid app? (2020)](https://news.ycombinator.com/item?id=24097763)
+- [I want to contribute to your project, how do I start? (2020)](https://drewdevault.com/2020/08/10/How-to-contribute-to-FOSS.html) ([Lobsters](https://lobste.rs/s/to2cgw/i_want_contribute_your_project_how_do_i))
