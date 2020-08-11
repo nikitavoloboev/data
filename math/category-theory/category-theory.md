@@ -75,6 +75,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Applied Category Theory 2020](https://act2020.mit.edu/)
 - [MIT Categories Seminar - Eugenia Cheng: Distributive laws for Lawvere theories (2020)](https://www.youtube.com/watch?v=YCJAzV1g6Xo)
 - [AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks (2020)](https://www.youtube.com/watch?v=7zr2qnud4XM)
+- [Why does the "working mathematician" need category theory? (2020)](https://www.reddit.com/r/math/comments/i7erja/why_does_the_working_mathematician_need_category/)
 
 ## Images
 
