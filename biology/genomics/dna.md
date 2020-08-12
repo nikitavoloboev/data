@@ -29,3 +29,4 @@
 - [How do Genes know when to Turn On and Off? (2020)](https://www.reddit.com/r/askscience/comments/gqap1l/how_do_genes_know_when_to_turn_on_and_off/)
 - [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA (2020)](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/) ([HN](https://news.ycombinator.com/item?id=23688535))
 - [Allostery through DNA drives phenotype switching (2020)](https://www.biorxiv.org/content/10.1101/2020.07.04.187450v1)
+- [Manolis Kellis: Human Genome and Evolutionary Dynamics (2020)](https://overcast.fm/+eZyA3p3HE)

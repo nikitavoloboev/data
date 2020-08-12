@@ -31,3 +31,4 @@
 - [Electronics & Microcontrollers for Absolute Beginners (2020)](https://hackaday.io/page/7185-electronics-microcontrollers-for-absolute-beginners-part-1)
 - [VSRTL](https://github.com/mortbopet/VSRTL) - Visual Simulation of Register Transfer Logic.
 - [Signal Reflection](https://www.solipsys.co.uk/new/SignalReflection.html?th08hn) ([HN](https://news.ycombinator.com/item?id=24093132))
+- [3D Printing Integrated Circuits: What's Possible Now and in the Future? (2019)](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future) ([HN](https://news.ycombinator.com/item?id=24119102))

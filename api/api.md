@@ -131,3 +131,4 @@
 - [A personal API (2019)](https://blog.webb.page/2019/a-personal-api)
 - [The API Economy](https://a16z.com/tag/the-api-economy/)
 - [Mock Service Worker (MSW)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
+- [Rusty's API Design Manifesto](http://sweng.the-davies.net/Home/rustys-api-design-manifesto)

@@ -40,3 +40,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [When Unix learned to reboot(2) (2020)](http://bsdimp.blogspot.com/2020/07/when-unix-learned-to-reboot2.html) ([Lobsters](https://lobste.rs/s/e0e0qe/when_unix_learned_reboot_2))
 - [Modular Synthesis and UNIX (2020)](https://nora.codes/post/modular-synthesis-and-unix/) ([HN](https://news.ycombinator.com/item?id=24023727)) ([Lobsters](https://lobste.rs/s/cbtcax/modular_synthesis_unix))
 - [Cron Helper](https://cron.help/) - Cron syntax for us humans.
+- [File handling in Unix: tips, traps and outright badness (2020)](https://rachelbythebay.com/w/2020/08/11/files/)

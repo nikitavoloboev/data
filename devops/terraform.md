@@ -23,3 +23,4 @@
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) ([Code](https://github.com/antonbabenko/terraform-best-practices))
 - [tfnotify](https://github.com/mercari/tfnotify) - CLI command to parse Terraform execution result and notify it to GitHub.
 - [CDK for Terraform: Enabling Python & TypeScript Support (2020)](https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support/)
+- [Terraform and Nix integration](https://github.com/tweag/terraform-nixos) - Set of Terraform modules that are designed to deploy NixOS.

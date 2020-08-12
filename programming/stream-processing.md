@@ -13,3 +13,4 @@
 - [Storm Applied: Strategies for real-time event processing](https://www.amazon.com/Storm-Applied-Strategies-real-time-processing/dp/1617291897)
 - [Template Haskell and Stream-processing programs (2020)](https://jmtd.net/log/template_haskell/streamgraph/)
 - [Eventual Consistency isn’t for Streaming (2020)](https://materialize.io/eventual-consistency-isnt-for-streaming/) ([HN](https://news.ycombinator.com/item?id=23832149))
+- [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) - Open-Source Distributed Stream and Batch Processing. ([Web](https://jet-start.sh/))

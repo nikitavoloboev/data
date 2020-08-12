@@ -35,7 +35,7 @@
 - [Ardb](https://github.com/yinqiwen/ardb) - High Performance Persistent NoSql, Full Redis-Protocol Compatibility.
 - [datahikeai](https://github.com/replikativ/datahike) - Durable datalog implementation adaptable for distribution.
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) - High-performance distributed SQL database for global, internet-scale apps.
-- [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl) - Parallel analytical database in pure Julia.
+- [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl) - Parallel analytical database in pure Julia. ([Docs](https://juliadata.github.io/JuliaDB.jl/latest/)) ([HN](https://news.ycombinator.com/item?id=24119118))
 - [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines.
 - [M3](https://github.com/m3db/m3) - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps.

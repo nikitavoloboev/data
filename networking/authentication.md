@@ -63,3 +63,4 @@
 - [Everything You Need to Know About OAuth (2.0) (2020)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) ([HN](https://news.ycombinator.com/item?id=23851870))
 - [OAuth 2.0 and OpenID Connect (in plain English) (2018)](https://www.youtube.com/watch?v=996OiexHze0)
 - [Best practices for password hashing and storage](https://tools.ietf.org/html/draft-ietf-kitten-password-storage-00)
+- [Xkit](https://xkit.co/) - Build OAuth integrations in minutes. ([HN](https://news.ycombinator.com/item?id=24121290))

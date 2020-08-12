@@ -40,6 +40,7 @@
 - [Startup Lessons from Spotify Wrapped (2019)](https://medium.com/@SarahMcBride/startup-lessons-from-spotify-wrapped-3807cb9336a9)
 - [How I made \$10,041 by combining a feature launch with a lifetime deal (2020)](https://www.indiehackers.com/post/how-i-made-10-041-by-combining-a-feature-launch-with-a-lifetime-deal-3e6d094897)
 - [Oatly: The New Coke? (2020)](https://divinations.substack.com/p/oatly-the-new-coke#) ([HN](https://news.ycombinator.com/item?id=24090492))
+- [Clearbit](https://clearbit.com/) - Marketing data engine for all of your customer interactions.
 
 ## Images
 

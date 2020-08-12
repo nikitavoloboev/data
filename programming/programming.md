@@ -29,6 +29,14 @@
 - [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 - [If your variable names are good enough you need way fewer comments](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 - [The mindset that has helped me to improve my skills is that you should always just roll up your sleeves and look at the running process and its code rather than wasting more than 5 minutes searching for help or pouring over documentation that’s out of date and never correct. Put a short time cap on the time you spend doing that, and then just put on your explorer hat and pull out your scary toolkit to hunt that thing down.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [There are practices you can follow that get you those results, but people just don’t seem interested in following them:](https://lobste.rs/s/4lnshh/urban_legend_10x_developer#c_w8fav1)
+  - Understand the business reasoning behind the project…look for ways of exploiting that knowledge to minimize the amount of work done.
+  - Less code is always easier to debug…or if you can’t debug, throw out and replace.
+  - Clearly defined project goals and constraints and milestones make development fast and visible.
+  - Throwaway prototypes are faster than big projects and teach you more–and may be good enough for the business.
+  - Understanding, deeply, the tools you use and the basic principles of computer science and engineering help you prune solution spaces a lot better.
+  - Identify whether or not the framework/third-party app is actually delivering value over just implementing a smaller bespoke solution yourself. Color picker? Almost certainly. Database extension? Probably. Container orchestration for a static blog? Probably not.
+  - Pseudocode and stepwise refinement of the solution to a problem. If you can’t explain something with bullet points, you don’t understand it, and if you don’t understand it, you’re slow.
 
 ## Links
 
@@ -214,3 +222,5 @@
 - [Disintegrated Development Environments — How Did We Get Here? (2017)](https://amasad.me/disintegrated)
 - [GitHub Arctic Code Vault: Tech Tree](https://github.com/github/archive-program/blob/master/TheTechTree.md) ([HN](https://news.ycombinator.com/item?id=24099167))
 - [Tripping over the potholes in too many libraries (2020)](https://rachelbythebay.com/w/2020/08/09/lib/) ([Lobsters](https://lobste.rs/s/mxa5ze/tripping_over_potholes_too_many))
+- [12 Principles for a Diverging Desktop Future (2020)](https://www.divergent-desktop.org/blog/2020/08/10/principles-overview/) ([Lobsters](https://lobste.rs/s/ksbcw5/12_principles_for_diverging_desktop))
+- [Systemic Software Debugging](https://systemicsoftwaredebugging.com/)

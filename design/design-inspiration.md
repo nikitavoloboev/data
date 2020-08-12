@@ -219,6 +219,7 @@ Here are few more things I liked, design wise.
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Caolan McMahon](https://caolan.uk/)
 - [Sibylle Sehl](https://sibylle.dev/)
+- [Hector Simpson](https://hector.me/)
 - [Damien Seguin](https://dmnsgn.me/)
 - [Heydon Pickering](https://heydonworks.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)

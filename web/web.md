@@ -144,3 +144,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Incrementally Improving The DOM (2018)](https://blog.functorial.com/posts/2018-04-08-Incrementally-Improving-The-DOM.html)
 - [HN: In spite of an increase in Internet speed, webpage speeds have not improved (2020)](https://news.ycombinator.com/item?id=24050980)
 - [The History of the Web](https://thehistoryoftheweb.com/)
+- [IndieWeb Collection](https://boffosocko.com/research/indieweb/)

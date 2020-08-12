@@ -44,3 +44,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [My weekly review habit](https://www.benkuhn.net/weekly/)
 - [How to finish your side project](https://hugozap.com/posts/how-to-finish-your-side-project/) ([HN](https://news.ycombinator.com/item?id=23672686))
 - [Deep Work and the 30-Hour Method for Learning a New Skill (2018)](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) ([HN](https://news.ycombinator.com/item?id=23845575))
+- [How to stop procrastinating by using the Fogg Behavior Model (2020)](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model) ([HN](https://news.ycombinator.com/item?id=24120275))

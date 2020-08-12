@@ -14,3 +14,4 @@
 - [How to Setup Prometheus Monitoring On Kubernetes Cluster (2019)](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 - [Promxy](https://github.com/jacksontj/promxy) - Aggregating proxy to enable HA prometheus.
 - [process-exporter](https://github.com/ncabatoff/process-exporter) - Prometheus exporter that mines /proc to report on selected processes.
+- [Systems Monitoring with Prometheus and Grafana (2020)](https://flightaware.engineering/systems-monitoring-with-prometheus-grafana/) ([HN](https://news.ycombinator.com/item?id=24126088))

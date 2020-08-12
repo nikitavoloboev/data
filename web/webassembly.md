@@ -91,5 +91,5 @@
 - [Hunting down a non-determinism-bug in our Rust Wasm build (2020)](https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1)
 - [Boids in WebAssembly Using Go (2020)](https://healeycodes.com/boids-flocking-simulation/) ([Lobsters](https://lobste.rs/s/7hrtwi/boids_webassembly_using_go)) ([Code](https://github.com/healeycodes/boids))
 - [WebAssembly in the Cloud](https://www.explorewasm.com/)
-- [Single Page Applications using Rust and WASM (2020)](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/) ([HN](https://news.ycombinator.com/item?id=24120311))
+- [Single Page Applications using Rust and WASM (2020)](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/) ([HN](https://news.ycombinator.com/item?id=24120311)) ([Lobsters](https://lobste.rs/s/1awebn/single_page_applications_using_rust))
 - [Golang Desktop App with Webview/Lorca, WASM and Bazel (2020)](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89) ([HN](https://news.ycombinator.com/item?id=24117758))
