@@ -27,3 +27,4 @@
 - [WebGL with Three.js Program](https://www.notion.so/WebGL-with-Three-js-Program-0d9a048f1a4e4573880f7de77b11789f)
 - [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html) ([HN](https://news.ycombinator.com/item?id=23770711))
 - [Cool WebGL stuff (2020)](http://gfxprose.blogspot.com/2020/07/cool-webgl-stuff-2020-07-16.html)
+- [Advanced Creative Coding with WebGL and Shaders on top of ThreeJS (2020)](https://frontendmasters.com/courses/webgl-shaders/)

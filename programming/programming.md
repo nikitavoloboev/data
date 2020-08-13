@@ -224,3 +224,4 @@
 - [Tripping over the potholes in too many libraries (2020)](https://rachelbythebay.com/w/2020/08/09/lib/) ([Lobsters](https://lobste.rs/s/mxa5ze/tripping_over_potholes_too_many))
 - [12 Principles for a Diverging Desktop Future (2020)](https://www.divergent-desktop.org/blog/2020/08/10/principles-overview/) ([Lobsters](https://lobste.rs/s/ksbcw5/12_principles_for_diverging_desktop))
 - [Systemic Software Debugging](https://systemicsoftwaredebugging.com/)
+- [Aspect-oriented programming](https://patents.google.com/patent/US6467086B1/en)

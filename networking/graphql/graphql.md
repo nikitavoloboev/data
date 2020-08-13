@@ -117,3 +117,4 @@
 - [Meeshkan](https://meeshkan.com/) - Automated tests for your GraphQL APIs, dynamically generated.
 - [GraphQL in Datasette with the new datasette-graphql plugin (2020)](https://simonwillison.net/2020/Aug/7/datasette-graphql/)
 - [Example GraphQL server written in Rust](https://github.com/lucperkins/rust-graphql-juniper-actix-diesel-postgres)
+- [How to urql, Part 3: The Normalized Cache (2020)](https://formidable.com/blog/2020/normalized-cache/)

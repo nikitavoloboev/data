@@ -191,3 +191,4 @@
 - [What is the JS Event Loop and Call Stack?](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
 - [Starving the Event Loop with microtasks](https://gist.github.com/jesstelford/bbb30b983bddaa6e5fef2eb867d37678)
 - [GPU.js](https://gpu.rocks/#/) - GPU accelerated JavaScript. ([HN](https://news.ycombinator.com/item?id=24027487))
+- [The JavaScript Promise Tutorial (2020)](https://adrianmejia.com/promises-tutorial-concurrency-in-javascript-node/)

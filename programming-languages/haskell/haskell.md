@@ -171,3 +171,4 @@
 - [hinc](https://serras.github.io/hinc/) - Haskell In New Clothes. Braces-and-parens syntax for your favorite language. ([HN](https://news.ycombinator.com/item?id=24090346)) ([Code](https://github.com/serras/hinc)) ([Why](https://github.com/serras/hinc/blob/master/why.md))
 - [Simon Peyton Jones - Elastic sheet-defined functions (2020)](https://www.youtube.com/watch?v=jH2Je6wUvPs&t)
 - [Haskell Love 2020 talks](https://www.youtube.com/playlist?list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc) ([Web](https://haskell.love/)) ([Day 1](https://haskell.love/agenda-day-1/)) ([Day 2](https://haskell.love/agenda-day-2/))
+- [Haskel / Nix / hie / Stack template](https://github.com/Cmdv/haskell-nix-hie-template)

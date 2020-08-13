@@ -19,6 +19,7 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [tilde.institute](https://tilde.institute/) - Public-access OpenBSD system.
 - [Guide to FreeBSD Desktop Distributions](https://www.freebsdfoundation.org/guide-to-freebsd-desktop-distributions/)
 - [HN: FreeBSD 11.4 (2020)](https://news.ycombinator.com/item?id=23541104)
+- [NetBSD](https://www.netbsd.org/) - Free, fast, secure, and highly portable Unix-like Open Source operating system.
 - [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html) ([HN](https://news.ycombinator.com/item?id=23755267))
 - [Tutorial sites treating FreeBSD like a Linux distro (2020)](https://rubenerd.com/tutorial-sites-treating-freebsd-like-a-linux-distro/) ([HN](https://news.ycombinator.com/item?id=23818702))
 - [The Design and Implementation of the 4.3BSD UNIX Operating System (1989)](https://www.goodreads.com/book/show/5770.The_Design_and_Implementation_of_the_4_3BSD_UNIX_Operating_System)

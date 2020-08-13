@@ -55,6 +55,7 @@
 - [Artem Sapegin: Custom CSS is the Path to Inconsistent UI (2018)](https://www.youtube.com/watch?v=t5VTLwAias8)
 - [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) ([Code](https://github.com/mixu/cssbook))
 - [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects.
+- [CSS Working Group Wiki](https://wiki.csswg.org/)
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
 - [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - Truly monstrous async web chat using no JS whatsoever on the frontend.
@@ -190,3 +191,4 @@
 - [content-visibility](https://web.dev/content-visibility/) - New CSS property that boosts your rendering performance.
 - [Nailing the Perfect Contrast Between Light Text and a Background Image (2020)](https://css-tricks.com/nailing-the-perfect-contrast-between-light-text-and-a-background-image/)
 - [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
+- [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)

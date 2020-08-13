@@ -218,6 +218,10 @@ Below is a list of extensions I use.
 
 - [Deno](https://github.com/denoland/vscode_deno) - Adds Deno support for VS Code using the TypeScript Deno language service plugin.
 
+## Vue
+
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) ([Code](https://github.com/sdras/vue-vscode-snippets))
+
 ## Bash
 
 - [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) - Language server for Bash.

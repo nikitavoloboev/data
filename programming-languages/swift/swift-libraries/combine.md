@@ -33,3 +33,4 @@
 - [Swift Combine Marbles](https://github.com/robertpalmer/CombineMarbles) - Interactive diagrams of swift combine publishers for iOS and macOS.
 - [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)
 - [TimelaneCombineX](https://github.com/Sixt/TimelaneCombineX) - Timelane + CombineX.
+- [Custom Instrument based on Timelane](https://github.com/icanzilb/CustomInstrument)
