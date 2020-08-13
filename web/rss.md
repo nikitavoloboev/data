@@ -50,3 +50,4 @@
 - [Hacker News RSS feeds](https://edavis.github.io/hnrss/) ([HN](https://news.ycombinator.com/item?id=23778510))
 - [Reading RSS feeds from wacky protocols with newsboat (2020)](https://brokenco.de/2020/07/07/newsboat-wacky-feeds.html)
 - [News And Rumors](https://newsandrumors.com/) - Alternative RSS reader and search engine for news and content. ([HN](https://news.ycombinator.com/item?id=23999065))
+- [About Feeds](https://aboutfeeds.com/) - Getting Started guide to web feeds/RSS.

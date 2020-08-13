@@ -150,3 +150,5 @@
 - [Pinephone – “Community Edition: PostmarketOS” Linux smartphone (2020)](https://store.pine64.org/product-category/pinephone/) ([HN](https://news.ycombinator.com/item?id=23849202))
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux. ([HN](https://news.ycombinator.com/item?id=23880207))
 - [Low latency tuning guide](https://rigtorp.se/low-latency-guide/) ([HN](https://news.ycombinator.com/item?id=24027366))
+- [eBPF](https://ebpf.io/) ([HN](https://news.ycombinator.com/item?id=24138503))
+- [How the ARM32 Linux kernel decompresses (2020)](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)

@@ -31,3 +31,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Atmos](https://www.buildatmos.com/) - Home building, simplified.
 - [Opendoor](https://www.opendoor.com/) - Home buy/selling.
 - [We quit our jobs to build a cabin (2020)](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington) ([HN](https://news.ycombinator.com/item?id=24051907))
+- [Where the missing middle of housing isn't missing (2020)](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing) ([HN](https://news.ycombinator.com/item?id=24135153))

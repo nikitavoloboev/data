@@ -192,3 +192,4 @@
 - [Nailing the Perfect Contrast Between Light Text and a Background Image (2020)](https://css-tricks.com/nailing-the-perfect-contrast-between-light-text-and-a-background-image/)
 - [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+- [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)

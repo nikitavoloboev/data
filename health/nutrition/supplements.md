@@ -37,3 +37,5 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Paul Stamets: Psilocybin Mushrooms & The Mycology of Consciousness (2017)](https://www.youtube.com/watch?v=vFWxWq0Fv0U)
 - [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa & Sulforaphane Supplementation (2017)](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
 - [HN: Vitamin D Insufficiency is Prevalent in Severe Covid-19 (2020)](https://news.ycombinator.com/item?id=23023703) ([HN 2](https://news.ycombinator.com/item?id=23119949))
+- [Vitamin D supplements do not reduce the risk of depression](https://sciencebasedmedicine.org/vitamin-d-supplements-do-not-reduce-the-risk-of-depression/)
+- [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics) ([HN](https://news.ycombinator.com/item?id=24138590))

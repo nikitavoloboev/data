@@ -47,3 +47,4 @@
 - [Julia High Performance](https://juliahighperformance.com/) - Optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond.
 - [Julia Quick Syntax Reference](https://link.springer.com/book/10.1007/978-1-4842-5190-4)
 - [JuliaCon2020: Julia is production ready](https://bkamins.github.io/julialang/2020/08/07/production-ready.html) ([HN](https://news.ycombinator.com/item?id=24082281)) ([Lobsters](https://lobste.rs/s/cyrgim/julia_is_production_ready))
+- [Julia: Are there any performance tips that are not mentioned in the docs?](https://www.reddit.com/r/Julia/comments/i8kdg1/are_there_any_performance_tips_that_are_not/)

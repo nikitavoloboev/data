@@ -106,4 +106,4 @@
 - [Overriding C++ virtual functions at run time (2020)](https://blog.visionappster.com/2020/08/06/overriding-virtual-functions-at-run-time/) ([HN](https://news.ycombinator.com/item?id=24098048))
 - [Cheri C/C++ Programming Guide: Capability Hardware Enhanced RISC Instructions (2020)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-947.pdf) ([HN](https://news.ycombinator.com/item?id=24114402))
 - [Memory mapped storage with Modern C++ (2015)](https://www.youtube.com/watch?v=STiBJT90d2o)
-- [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) ([Lobsters](https://lobste.rs/s/4xcla1/handles_are_better_pointers))
+- [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) ([Lobsters](https://lobste.rs/s/4xcla1/handles_are_better_pointers)) ([HN](https://news.ycombinator.com/item?id=24141541))

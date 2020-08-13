@@ -179,3 +179,5 @@
 - [Linear Logic Flavoured Composition of Petri Nets (2020)](https://golem.ph.utexas.edu/category/2020/07/linear_logic_flavoured_composi.html)
 - [How real are real numbers? (2004)](https://arxiv.org/abs/math/0411418) ([HN](https://news.ycombinator.com/item?id=24029791))
 - [Who Is Alexander Grothendieck? (2008)](https://www.ams.org/notices/200808/tx080800930p.pdf) ([HN](https://news.ycombinator.com/item?id=24024248))
+- [Taylor Series and Accelerometers (2020)](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/) ([HN](https://news.ycombinator.com/item?id=24129870))
+- [What is the difference between a theorem, a lemma, and a corollary? (2008)](https://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/)

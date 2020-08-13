@@ -29,7 +29,7 @@
 - [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 - [If your variable names are good enough you need way fewer comments](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 - [The mindset that has helped me to improve my skills is that you should always just roll up your sleeves and look at the running process and its code rather than wasting more than 5 minutes searching for help or pouring over documentation that’s out of date and never correct. Put a short time cap on the time you spend doing that, and then just put on your explorer hat and pull out your scary toolkit to hunt that thing down.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
-- [There are practices you can follow that get you those results, but people just don’t seem interested in following them:](https://lobste.rs/s/4lnshh/urban_legend_10x_developer#c_w8fav1)
+- [Practices you can follow to get 10x results with programming](https://lobste.rs/s/4lnshh/urban_legend_10x_developer#c_w8fav1)
   - Understand the business reasoning behind the project…look for ways of exploiting that knowledge to minimize the amount of work done.
   - Less code is always easier to debug…or if you can’t debug, throw out and replace.
   - Clearly defined project goals and constraints and milestones make development fast and visible.
@@ -224,4 +224,5 @@
 - [Tripping over the potholes in too many libraries (2020)](https://rachelbythebay.com/w/2020/08/09/lib/) ([Lobsters](https://lobste.rs/s/mxa5ze/tripping_over_potholes_too_many))
 - [12 Principles for a Diverging Desktop Future (2020)](https://www.divergent-desktop.org/blog/2020/08/10/principles-overview/) ([Lobsters](https://lobste.rs/s/ksbcw5/12_principles_for_diverging_desktop))
 - [Systemic Software Debugging](https://systemicsoftwaredebugging.com/)
-- [Aspect-oriented programming](https://patents.google.com/patent/US6467086B1/en)
+- [Aspect-oriented programming](https://patents.google.com/patent/US6467086B1/en) ([JS library implementation](https://github.com/mgechev/aspect.js)) ([Paper](https://www.cs.ubc.ca/~gregor/papers/kiczales-ECOOP1997-AOP.pdf))
+- [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html) ([HN](https://news.ycombinator.com/item?id=24135189))

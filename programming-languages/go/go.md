@@ -322,3 +322,4 @@ Go promotes composition over inheritance.
 - [Go vs Rust: Writing a CLI Tool (2020)](https://cuchi.me/posts/go-vs-rust) ([HN](https://news.ycombinator.com/item?id=24044043)) ([Lobsters](https://lobste.rs/s/nyprxb/go_vs_rust_writing_cli_tool))
 - [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md) ([HN](https://news.ycombinator.com/item?id=24065499))
 - [GoPlus](https://github.com/goplus/gop) - Go+ language for data science.
+- [Proposal: Register-based Go calling convention (2020)](https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md)

@@ -19,3 +19,4 @@
 - [Practical Chicken Scheme with Emacs: hello-world webserver (2017)](https://www.youtube.com/watch?v=eXB3I3S3vJc)
 - [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/) ([Lobsters](https://lobste.rs/s/ao7qpz/evolution_scheme_programmer))
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
+- [A New R6RS Scheme Compiler (2019)](https://weinholt.se/articles/new-r6rs-compiler/) ([Lobsters](https://lobste.rs/s/6gbneg/new_r6rs_scheme_compiler))

@@ -29,4 +29,4 @@
 - [Eye Computer: Turning Vision into a Programmable Computer (2010)](https://humanfactorylab.com/uploads/8/3/4/4/83445868/changizi_eyecomputer_presspiece.pdf) ([Tweet](https://twitter.com/MarkChangizi/status/1271129027781234690))
 - [The Game of Life – Emergence in Generative Art (2020)](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art) ([HN](https://news.ycombinator.com/item?id=23840295))
 - [conwayste](https://github.com/conwayste/conwayste) - Multiplayer Conway's Game of Life.
-- [Cellular automata as convolutional neural networks (2020)](https://arxiv.org/abs/1809.02942)
+- [Cellular automata as convolutional neural networks (2020)](https://arxiv.org/abs/1809.02942) ([HN](https://news.ycombinator.com/item?id=24130849))

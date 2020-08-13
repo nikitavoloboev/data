@@ -117,7 +117,7 @@
 - [JavaScript Visualized: Prototypal Inheritance (2020)](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
 - [Y: The Most Beautiful Idea in Computer Science explained in JavaScript (2018)](https://lucasfcosta.com/2018/05/20/Y-The-Most-Beautiful-Idea-in-Computer-Science.html)
 - [2019 JavaScript Rising Stars](https://risingstars.js.org/2019/en/) ([Code](https://github.com/bestofjs/javascript-risingstars))
-- [Best of JS](https://bestofjs.org/) - Best of JavaScript, HTML and CSS. ([Code](https://github.com/bestofjs/bestofjs-webui))
+- [Best of JS](https://bestofjs.org/) - Best of JavaScript, HTML and CSS. ([Code](https://github.com/bestofjs/bestofjs-webui)) ([Web Timeline](https://bestofjs.org/timeline)) ([HN](https://news.ycombinator.com/item?id=24142462))
 - [omggif](https://github.com/deanm/omggif) - JavaScript implementation of a GIF 89a encoder and decoder.
 - [Sampling bias, FDR, and The State of JS (2020)](https://davidea.st/articles/sampling-bias-fdr-state-of-js)
 - [JavaScript Visualized: Generators and Iterators (2020)](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)

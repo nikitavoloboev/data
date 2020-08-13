@@ -65,3 +65,4 @@
 - [My Younger Self](https://myyoungerself.co/) - Curated curriculum on topics of timeless human importance.
 - [Trickle](https://trickle.app/) - Make lifelong learning effortless.
 - [Ask HN: How does your organisation train programmers? (2020)](https://news.ycombinator.com/item?id=24097348)
+- [masterWiki](https://masterwiki.how/) - MasterClass course summaries.

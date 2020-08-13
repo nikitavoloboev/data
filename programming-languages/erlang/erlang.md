@@ -42,3 +42,4 @@
 - [escript](http://erlang.org/doc/man/escript.html) - Provides support for running short Erlang programs without having to compile them first, and an easy way to retrieve the command-line arguments.
 - [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/) ([HN](https://news.ycombinator.com/item?id=17003897))
 - [Erlang dbg Intro (2020)](https://antranigv.am/weblog_en/posts/erlang-dbg-intro/) ([Lobsters](https://lobste.rs/s/sisfuf/erlang_dbg_intro))
+- [Concurrency In The Erlang VM (2020)](https://www.skcript.com/svr/concurrency-in-the-erlang-vm/)

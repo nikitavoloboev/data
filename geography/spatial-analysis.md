@@ -28,3 +28,4 @@
 - [Ethics in Geo (2020)](https://macwright.org/2020/06/21/ethics-in-geo.html)
 - [Seeing how it all unfolds (2020)](https://erdavis.com/2020/06/19/seeing-how-it-all-unfolds/)
 - [Very spatial people to follow on Twitter (2020)](https://spatialawareness.xyz/blog/very-spatial-people-to-follow-on-twitter/) ([Tweet](https://twitter.com/robhawkes/status/1280055131178926080))
+- [Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geopandas/geo-arrow-spec)

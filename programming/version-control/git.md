@@ -145,3 +145,5 @@ I love Git and version control. And I use version control over any project I do.
 - [A Better Way to Git Log to Understand Changes in a Big Codebase (2020)](https://pspdfkit.com/blog/2020/a-better-way-to-git-log/)
 - [Write good commit messages (2020)](https://letterstoanewdeveloper.com/2020/07/27/write-good-commit-messages/) ([Lobsters](https://lobste.rs/s/z2vjet/write_good_commit_messages))
 - [Just One Single History](https://github.com/esrlabs/josh) - Aimed at supporting trunk based development in a Git monorepo.
+- [gix](https://github.com/Byron/gitoxide) - Idiomatic, modern, lean, fast, safe & pure rust implementation of git.
+- [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) - Convenient command-line tool helping you keep repositories clean. ([HN](https://news.ycombinator.com/item?id=24135860))

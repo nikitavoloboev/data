@@ -99,6 +99,8 @@
 - [Carta](https://github.com/jackskj/carta) - SQL data mapper for Go.
 - [QLBridge](https://github.com/araddon/qlbridge) - Go SQL Runtime Engine.
 - [dbq](https://github.com/rocketlaunchr/dbq) - Zero boilerplate database operations for Go.
+- [sql-migrate](https://github.com/rubenv/sql-migrate) - SQL Schema migration tool for Go. Based on gorp and goose.
+- [Pop](https://github.com/gobuffalo/pop) - Makes it easy to do CRUD operations, run migrations, and build/execute queries.
 
 ## ML
 

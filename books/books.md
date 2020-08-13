@@ -189,6 +189,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books people (re)read (2020)](https://rauchg.com/2020/books-people-reread)
 - [89 books Paul Graham recommended](https://www.readthistwice.com/person/paul-graham)
 - [Best-Books.dev](https://www.best-books.dev/) - Best programming books, all in one place.
+- [Derek Sivers books read with notes](https://sive.rs/book)
 
 ## Notes
 

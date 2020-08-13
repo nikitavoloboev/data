@@ -49,3 +49,4 @@
 - [Space Search](https://space-search.io/) - Search engine for space objects. ([HN](https://news.ycombinator.com/item?id=23078376))
 - [First Ever Image of a Multi-Planet System Around a Sun-Like Star Captured by ESO (2020)](https://www.eso.org/public/news/eso2011/?lang) ([HN](https://news.ycombinator.com/item?id=23917559))
 - [Project Apollo Archive](https://www.flickr.com/photos/projectapolloarchive/) ([Apollo 11 Hasselblad image](https://www.flickr.com/photos/projectapolloarchive/22068769545))
+- [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station) ([HN](https://news.ycombinator.com/item?id=24129162))

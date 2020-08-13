@@ -67,4 +67,4 @@
 - [Chapter One](https://chapterone.vc/) - Invest in early-stage startups who are passionate about the future of work, developer tools, and subscription businesses.
 - [Sahil Lavingia Rolling Fund](https://shl.vc/)
 - [Find a VC Job](http://vcjobs.kgbase.com/) ([HN](https://news.ycombinator.com/item?id=24072949))
-- [Raise less money (2020)](https://www.aaronkharris.com/raise-less-money)
+- [Raise less money (2020)](https://www.aaronkharris.com/raise-less-money) ([HN](https://news.ycombinator.com/item?id=24133146))

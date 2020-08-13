@@ -123,3 +123,6 @@
 - [Postgres Job Queues & Failure By MVCC (2020)](https://brandur.org/postgres-queues)
 - [PostgreSQL beginner guide (2020)](https://knowledgepill.it/posts/postgresql-basics-guide/) ([HN](https://news.ycombinator.com/item?id=24036132))
 - [pgxtesting](https://github.com/go-pa/pgxtesting) - Utilities for having a temporary database per test.
+- [PostgreSQL: bloat, pg_repack, and deferred constraints (2020)](https://medium.com/miro-engineering/postgresql-bloat-pg-repack-and-deferred-constraints-d0ecf33337ec)
+- [How we used Postgres extended statistics to achieve a 3000x speedup (2020)](https://build.affinity.co/how-we-used-postgres-extended-statistics-to-achieve-a-3000x-speedup-ea93d3dcdc61)
+- [Postgres Execution Plans - Field Glossary (2019)](https://www.pgmustard.com/blog/2019/9/17/postgres-execution-plans-field-glossary)

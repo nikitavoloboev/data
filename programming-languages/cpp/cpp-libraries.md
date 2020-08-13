@@ -21,6 +21,10 @@
 - [Plywood](https://github.com/arc80/plywood) - Cross-platform framework for building all kinds of C++ software. ([HN](https://news.ycombinator.com/item?id=23310341))
 - [Elements](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. ([HN](https://news.ycombinator.com/item?id=23743376))
 
+## Web
+
+- [Drogon](https://github.com/an-tao/drogon) - C++14/17-based rapid HTTP and web application framework.
+
 ## Graphics
 
 - [Cinder](https://github.com/cinder/Cinder) - Peer-reviewed, free, open source C++ library for creative coding. ([Web](https://libcinder.org/)) ([Docs](https://libcinder.org/docs/index.html))
