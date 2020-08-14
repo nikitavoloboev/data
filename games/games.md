@@ -57,6 +57,10 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Open source re-creation of the popular game "Dune II".
 - [MineSweeper](https://github.com/propjockey/css-sweeper) - Implemented in 100% CSS and HTML – no JavaScript. ([HN](https://news.ycombinator.com/item?id=23920987))
 
+## Awesome games (other)
+
+- [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609))
+
 ## Recommendations
 
 - [What game would you describe as a masterpiece?](https://www.reddit.com/r/patientgamers/comments/7629r3/what_game_would_you_describe_as_a_masterpiece/)

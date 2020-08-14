@@ -37,3 +37,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [What can a technologist do about climate change? A personal view. (2015)](http://worrydream.com/ClimateChange/)
 - [Google Earth Timelapse](https://earthengine.google.com/timelapse/) ([HN](https://news.ycombinator.com/item?id=24005047))
 - [Planet](https://www.planet.com/) - Daily Satellite Imagery and Insights.
+- [It’s Time to Redefine What Sustainable Fishing Means (2020)](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means) ([HN](https://news.ycombinator.com/item?id=24156319))
+- [Oceans on Nautilus](http://oceans.nautil.us/) - Explore ocean science, conservation and culture.

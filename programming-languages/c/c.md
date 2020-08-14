@@ -1,5 +1,9 @@
 # C
 
+## Notes
+
+- [Notes on learning/using C.](https://lobste.rs/s/b5xwwg/what_are_you_doing_this_weekend#c_1kh5sd)
+
 ## Links
 
 - [Principles for C programming](http://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)

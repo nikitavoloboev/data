@@ -63,3 +63,4 @@
 - [Ask HN: How do you deal with social isolation while working from home? (2020)](https://news.ycombinator.com/item?id=23722523)
 - [Ask HN: Should a remote employee’s salary be tied to their physical location? (2020)](https://news.ycombinator.com/item?id=23927974)
 - [Remote Workers](https://remoteworkers.dev/) - Hire from a global talent pool of remote workers.
+- [Ask HN: Newly Remote Workers – Where Are You Moving? (2020)](https://news.ycombinator.com/item?id=24152096)

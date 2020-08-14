@@ -277,3 +277,5 @@
 - [Two Years With Rust (2020)](http://brooker.co.za/blog/2020/03/22/rust.html)
 - [sled theoretical performance guide](https://sled.rs/perf) - Covers timeless ideas that are helpful to keep in mind while working with systems where performance matters. ([Lobsters](https://lobste.rs/s/2ftlzt/sled_theoretical_performance_guide))
 - [rd](https://github.com/sidkshatriya/rd) - Record/replay debugger written in rust.
+- ["Rust does not have a stable ABI"](https://people.gnome.org/~federico/blog/rust-stable-abi.html) ([Lobsters](https://lobste.rs/s/0eld2b/rust_does_not_have_stable_abi)) ([HN](https://news.ycombinator.com/item?id=24140848))
+- [I am a Java, C#, C or C++ developer, time to do some Rust (2020)](https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust)

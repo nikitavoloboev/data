@@ -95,3 +95,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [DIY Video Hosting (2020)](https://tyler.io/diy-video-hosting/) ([HN](https://news.ycombinator.com/item?id=23894827))
 - [Unscreen](https://www.unscreen.com/) - Automatically remove video backgrounds with ML. ([HN](https://news.ycombinator.com/item?id=24058341))
 - [YouTube Storytelling: How To Make Videos that People Share (2020)](https://www.shopmoment.com/lessons/youtube-storytelling-how-to-make-videos-people-share-colin-and-samir)
+- [ESPFLIX](https://github.com/rossumur/espflix) - Free video streaming service that runs on a ESP32. ([HN](https://news.ycombinator.com/item?id=24150029))
+- [Tella](https://www.tella.tv/) - Collaborative online video editor. ([HN](https://news.ycombinator.com/item?id=24158509))

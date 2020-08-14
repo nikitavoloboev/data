@@ -27,3 +27,4 @@
 - [Research on Topological quantum matter (2020)](https://twitter.com/MBarkeshli/status/1283139300901695488)
 - [Why does entanglement work in the sense that it does not break any rules of relativity in regards to information transfer? (2020)](https://www.reddit.com/r/AskPhysics/comments/hptloh/why_does_entanglement_work_in_the_sense_that_it/)
 - [Visualization of Quantum Physics (Quantum Mechanics)](https://www.youtube.com/watch?v=p7bzE1E5PMY)
+- [Kindergarten Quantum Mechanics (2005)](https://arxiv.org/abs/quant-ph/0510032) ([HN](https://news.ycombinator.com/item?id=24130443))

@@ -22,3 +22,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Just Another Chocolate Chip Cookie Recipe](https://www.arvarik.com/just-another-chocolate-chip-cookie-recipe)
 - [Brunch the Sunday Way (2020)](https://www.goodreads.com/book/show/53004549-brunch-the-sunday-way) ([Tweet](https://twitter.com/dan_abramov/status/1281010364721881088))
 - [Search for ingredients to pair with other ingredients](https://www.kulinarian.com/flavor-pairings/) ([HN](https://news.ycombinator.com/item?id=23997271))
+- [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks) ([HN](https://news.ycombinator.com/item?id=24154417))

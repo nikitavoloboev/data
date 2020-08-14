@@ -11,6 +11,7 @@
 - [org-journal](https://github.com/bastibe/org-journal) - Simple org-mode based journaling mode.
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - Emacs "jump to definition" package for 40+ languages.
 - [which-key](https://github.com/justbur/emacs-which-key) - Emacs package that displays available keybindings in popup.
+- [reformatter.el](https://github.com/purcell/reformatter.el) - Define commands which run reformatters on the current Emacs buffer.
 
 ## Elm
 

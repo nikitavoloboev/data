@@ -201,6 +201,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
 - [Replies](https://replies.io/) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 - [Larder](https://larder.io/) - Bookmarking for developers. ([HN](https://news.ycombinator.com/item?id=23442165))
+- [Ready](https://ready.so/) - The calendar you need to meet.
+- [Clockwise](https://www.getclockwise.com/) - Smart calendar assistant that frees up your time so you can focus on what matters.
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))

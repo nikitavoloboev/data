@@ -30,3 +30,4 @@
 - [SSH Emergency Access (2020)](https://smallstep.com/blog/ssh-emergency-access/) ([HN](https://news.ycombinator.com/item?id=23731351))
 - [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity.
 - [Lockbox](https://github.com/half-cambodian-hacker-man/ssh-lockbox) - Personal centralised SSH key deployment to multiple boxes. ([Lobsters](https://lobste.rs/s/d9ziys/ssh_lockbox_personal_centralised_ssh_key))
+- [Ask HN: What do you use for SSH key management of teams? (2020)](https://news.ycombinator.com/item?id=24157180)

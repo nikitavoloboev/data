@@ -35,3 +35,4 @@
 - [Buddhabrot](https://github.com/porglezomp/buddhabrot) - Render a Buddhabrot fractal (an algorithm invented by Melinda Green).
 - [Buddhabrot fractal method](http://superliminal.com/fractals/bbrot/bbrot.htm)
 - [The Computational Beauty of Nature (2020)](https://mitpress.mit.edu/books/computational-beauty-nature) - Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation.
+- [A Massive Fractal in Days, Not Years (2020)](http://www.jcgt.org/published/0009/02/02/paper.pdf) ([HN](https://news.ycombinator.com/item?id=24124827))

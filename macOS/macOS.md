@@ -92,3 +92,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities](https://github.com/sslab-gatech/pwn2own2020)
 - [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236) ([HN](https://news.ycombinator.com/item?id=24080378))
 - [Ask HN: What feature did you find after years of using macOS? (2020)](https://news.ycombinator.com/item?id=24091707)
+- [Sinter](https://github.com/trailofbits/sinter) - User-mode application authorization system for MacOS written in Swift. ([Article](https://blog.trailofbits.com/2020/08/12/sinter-new-user-mode-security-enforcement-for-macos/))

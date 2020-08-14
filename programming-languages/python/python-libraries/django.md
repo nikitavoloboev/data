@@ -9,6 +9,8 @@
 - Run tests:
   - `./manage test` = run all tests
   - `./manage test -k path.to.test` = run specific test. can also run some function from the test inside the file with another `.`.
+- Migrate down/up: `./manage migrate <app> <migration-number>`
+- Make empty migration: `./manage makemigrations --empty -n <name-of-migration> <app>`
 
 ## Links
 

@@ -149,3 +149,4 @@
 - [Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid (2020)](https://dev.to/lloyds-digital/comparing-reactivity-models-react-vs-vue-vs-svelte-vs-mobx-vs-solid-29m8)
 - [My Tech Stack (2020 Edition with Next.js, Tailwind, MongoDB, Jest, and more!)](https://www.youtube.com/watch?v=9plIzok5LCQ)
 - [Opinionated Guide to React](https://opinionatedreact.com/)
+- [UIKit's UIViews in JavaScript, Part 1: Why? (2020)](https://blog.eliangtan.com/view-framework-1/)

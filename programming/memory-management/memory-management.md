@@ -20,3 +20,4 @@
 - [gperftools](https://github.com/gperftools/gperftools) - Collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
 - [Memory Consistency Models: A Tutorial (2016)](https://www.cs.utexas.edu/~bornholt/post/memory-models.html) ([HN](https://news.ycombinator.com/item?id=23546316))
 - [Modern garbage collection (2016)](https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e) - A look at the Go GC strategy.
+- [Virtual Memory Tricks (2017)](https://ourmachinery.com/post/virtual-memory-tricks/)

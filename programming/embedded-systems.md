@@ -52,3 +52,4 @@
 - [Concurrency Patterns in Embedded Rust (2020)](https://ferrous-systems.com/blog/embedded-concurrency-patterns/)
 - [OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg) - Open-sourced Apple UEFI drivers, enabling Hackintosh. ([HN](https://news.ycombinator.com/item?id=24069428))
 - [MicroBlocks](http://microblocks.fun/) - Small, Fast, Human Friendly.
+- [probe-run, run embedded Rust apps like native apps (2020)](https://ferrous-systems.com/blog/probe-run/)

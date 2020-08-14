@@ -291,3 +291,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step) ([HN](https://news.ycombinator.com/item?id=18360847))
 - [Unveil](https://github.com/sheshbabu/unveil) - Simple feature flag service written using ActixWeb, SQLx and React.
 - [Arcan](https://github.com/letoram/arcan) - Powerful development framework for creating virtually anything from user interfaces for specialized embedded applications all the way to full-blown standalone desktop environments.
+- [Open Standards Are Simple](https://portal.mozz.us/gemini/ebc.li/posts/open-standards-are-simple.gmi) ([Lobsters](https://lobste.rs/s/byslqk/open_standards_are_simple))
+- [100+ No Code Resources](https://trello.com/b/A4OmiAWb/100-no-code-resources)

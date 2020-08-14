@@ -90,3 +90,4 @@
 - [Intro To Type Theory](https://danielbmarkham.locals.com/post/88422/technical-tuesdays-intro-to-type-theory) ([Lobsters](https://lobste.rs/s/tvqpbu/intro_type_theory))
 - [Towards Observational Type Theory](http://strictlypositive.org/ott.pdf)
 - [Typing is Hard](https://typing-is-hard.ch/) ([Lobsters](https://lobste.rs/s/t7utm7/typing_is_hard))
+- [Types as axioms, or: playing god with static types (2020)](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/)

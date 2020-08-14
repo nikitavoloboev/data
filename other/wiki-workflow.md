@@ -105,6 +105,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
 - [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
+- [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
 - [Nick Belzer](https://notes.nickbelzer.me/) ([Code](https://github.com/nbelzer/notes))
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
