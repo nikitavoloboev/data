@@ -54,3 +54,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Proof of X (2020)](https://julian.digital/2020/08/06/proof-of-x/)
 - [TikTok and the Sorting Hat (2020)](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) ([HN](https://news.ycombinator.com/item?id=24049676))
 - [How to run a small social network site for your friends](https://runyourown.social/)
+- [A Blueprint for Content Governance and Enforcement (2018)](https://www.facebook.com/notes/mark-zuckerberg/a-blueprint-for-content-governance-and-enforcement/10156443129621634/)

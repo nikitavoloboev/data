@@ -13,3 +13,4 @@
 - [High Availability Load Balancers with Maglev (2020)](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
 - [Examining Load Balancing Algorithms with Envoy (2020)](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c)
 - [Convey](https://github.com/bparli/convey) - Layer 4 load balancer with dynamic configuration loading.
+- [Dropbox posts on load balancing](https://twitter.com/copyconstruct/status/1293796261414371330)

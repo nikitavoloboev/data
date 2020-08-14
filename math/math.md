@@ -181,3 +181,4 @@
 - [Who Is Alexander Grothendieck? (2008)](https://www.ams.org/notices/200808/tx080800930p.pdf) ([HN](https://news.ycombinator.com/item?id=24024248))
 - [Taylor Series and Accelerometers (2020)](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/) ([HN](https://news.ycombinator.com/item?id=24129870))
 - [What is the difference between a theorem, a lemma, and a corollary? (2008)](https://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/)
+- [Formalising Undergraduate Mathematics (2020)](https://www.youtube.com/watch?v=FDx0nXFQloE) ([Slides](http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/ug_maths.pdf)) ([Tweet](https://twitter.com/XenaProject/status/1292939583290736651))

@@ -41,3 +41,4 @@
 - [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/) ([Code](https://github.com/superruzafa/visual-scala-reference))
 - [Martin Odersky – A Scala 3 Update](https://www.youtube.com/watch?v=Z0w_pITUTyU) ([Reddit](https://www.reddit.com/r/scala/comments/hngs27/martin_odersky_a_scala_3_update/))
 - [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/))
+- [Signify Technology](https://www.signifytechnology.com/) - Award Winning Scala Recruitment.

@@ -1,5 +1,9 @@
 # [Swift](https://developer.apple.com/swift/)
 
+## Notes
+
+- [Avoid using AnyCollection.](https://twitter.com/AirspeedSwift/status/1294292068412473347)
+
 ## Links
 
 - [Swift Book](https://docs.swift.org/swift-book/)

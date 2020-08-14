@@ -97,6 +97,7 @@
 - [Little Miss Robot](https://littlemissrobot.com/) - Digital Product Design Agency.
 - [Itty Bitty Apps](https://www.ittybittyapps.com/) - Dedicated to native mobile apps.
 - [Troodon Software](http://www.troodon-software.com/)
+- [Lickability](https://lickability.com/) - Software studio in NYC that builds apps.
 - [Skcript](https://www.skcript.com/)
 
 ## Links

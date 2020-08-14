@@ -46,3 +46,4 @@
 - [KLEE](https://github.com/klee/klee) - Symbolic virtual machine built on top of the LLVM compiler infrastructure.
 - [ALLVM Research Project](https://publish.illinois.edu/allvm-project/) - All software components — except a small set needed for bootstrapping — are represented in a virtual instruction set instead of native machine code.
 - [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html) ([HN](https://news.ycombinator.com/item?id=24097446))
+- [Compiling a Higher-Order Smart Contract Language to LLVM](https://arxiv.org/pdf/2008.05555.pdf) ([Tweet](https://twitter.com/maqstik/status/1294170007891566593))
