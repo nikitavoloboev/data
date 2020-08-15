@@ -87,3 +87,4 @@
 - [Rolling funds explanation (2020)](https://github.com/cassidoo/stream-hooks-demo)
 - [Naval Ravikant on Investing](https://www.navalmanack.com/investing)
 - [Investing ft. Brianne Kimmel (worklife), Tyler Tringas (Earnest Capital), and Sunil Pai (AngelList) (2020)](https://www.youtube.com/watch?v=a6oxclPIaxs) ([Article](https://techcrunch.com/2020/08/05/gumroad-founder-sahil-lavingia-launches-new-seed-fund-in-collaboration-with-angellist/))
+- [Announcing Initialized Fund V (2020)](https://medium.com/initialized-capital/announcing-initialized-fund-v-ab34becf68c9)

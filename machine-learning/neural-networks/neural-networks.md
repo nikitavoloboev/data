@@ -135,3 +135,4 @@
 - [Getting Artificial Neural Networks Closer to Animal Brains (2020)](https://maraoz.com/2020/07/12/brains-vs-anns/)
 - [Foolbox Native](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX.
 - [Genann](https://github.com/codeplea/genann) - Minimal, well-tested library for training and using feedforward artificial neural networks (ANN) in C.
+- [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks (2020)](https://blog.ml.cmu.edu/2020/08/14/high-frequency-component-helps-explain-the-generalization-of-convolutional-neural-networks/)

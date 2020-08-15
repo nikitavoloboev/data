@@ -65,4 +65,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum Research Forum](https://ethresear.ch/)
 - [The hitchhiker’s guide to Ethereum (2020)](https://www.wslyvh.com/ethereum-guide/) ([HN](https://news.ycombinator.com/item?id=23770109))
 - [Ethereum Foundation Blog](https://blog.ethereum.org/)
-- [Uniswap](https://uniswap.org/) - Fully decentralized protocol for automated liquidity provision on Ethereum.
+- [Uniswap](https://uniswap.org/) - Fully decentralized protocol for automated liquidity provision on Ethereum. ([Beta](https://beta.uniswap.info/home))

@@ -24,3 +24,4 @@ And here are Chrome extensions I use:
 - [HN: Unable to deal with Chrome Extension Team, Kozmos is shutting down (2020)](https://news.ycombinator.com/item?id=23285466)
 - [Chrome Extension (built with TypeScript + React)](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
+- [Mighty](https://mightyapp.com/) - Faster Google Chrome that uses 10x less memory.
