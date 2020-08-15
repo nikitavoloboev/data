@@ -21,3 +21,4 @@
 - [Palmer Archipelago (Antarctica) Penguins data package](https://github.com/allisonhorst/penguins)
 - [Plumber](https://github.com/rstudio/plumber) - Turn your R code into a web API.
 - [R-bloggers](https://www.r-bloggers.com/) - R news and tutorials contributed by hundreds of R bloggers.
+- [R for Everyone](https://www.jaredlander.com/r-for-everyone/)

@@ -52,3 +52,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [How to Speak course](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)
 - [Alexis King's talks](https://github.com/lexi-lambda/talks)
 - [Speaking Tips (2020)](https://twitter.com/swyx/status/1276918032971886592)
+- [Notist](https://noti.st/) - Your public speaking portfolio.
