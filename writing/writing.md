@@ -173,3 +173,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [The Age of the Essay (2004)](http://www.paulgraham.com/essay.html)
 - [Architecture of Writing (2020)](https://forum.hyperlink.academy/t/architecture-of-writing/141/8)
 - [Writing to Learn: How to Write--And Think--Clearly about Any Subject at All (1993)](https://www.goodreads.com/book/show/585474.Writing_to_Learn)
+- [Reading Supply](https://reading.supply/) - Writing and discussion platform.

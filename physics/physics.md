@@ -110,3 +110,4 @@
 - [Algorithmic Theories of Everything (2000)](https://arxiv.org/abs/quant-ph/0011122) ([HN](https://news.ycombinator.com/item?id=24093599))
 - [Periodic table, color coded by the likely origin of each element](https://twitter.com/olivertlord/status/1292562140776271872) ([HN](https://news.ycombinator.com/item?id=24107656))
 - [Twistors and the Standard Model (2020)](https://www.math.columbia.edu/~woit/wordpress/?p=11899)
+- [Spacetime has 3 space dimensions and 1 time dimension. Why?](https://twitter.com/johncarlosbaez/status/1294317943359016960)

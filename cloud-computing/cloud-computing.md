@@ -40,3 +40,4 @@
 - [How to deploy side projects as web services for free (2020)](https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free/) ([Lobsters](https://lobste.rs/s/nn0kpt/how_deploy_side_projects_as_web_services))
 - [DigitalOcean VPC](https://blog.digitalocean.com/vpc-trust-platform/) ([HN](https://news.ycombinator.com/item?id=23007860))
 - [Finala](https://github.com/similarweb/finala) - Resource cloud scanner that analyzes and reports about wasteful and unused resources to cut unwanted expenses.
+- [Dear Google Cloud: Your Deprecation Policy is Killing You (2020)](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc)

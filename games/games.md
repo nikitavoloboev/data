@@ -64,6 +64,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 ## Other
 
 - [Lucid Heist](https://kindafiction.itch.io/lucidheist) ([Tweet](https://twitter.com/agathayu/status/1293946819441856513))
+- [Popup Dungeon](https://store.steampowered.com/app/349730/Popup_Dungeon/) ([Tweet](https://twitter.com/patio11/status/1294499296360816640))
 
 ## Recommendations
 
