@@ -119,3 +119,4 @@
 - [Example GraphQL server written in Rust](https://github.com/lucperkins/rust-graphql-juniper-actix-diesel-postgres)
 - [How to urql, Part 3: The Normalized Cache (2020)](https://formidable.com/blog/2020/normalized-cache/)
 - [GraphQL Tweetletter](https://tweets.dgraph.io/?stream=graphql&search=&from=1597269600000&issue=NaN) - Most Interesting GraphQL Tweets.
+- [GraphQL Enterprise Connect 2020](https://www.youtube.com/watch?v=GaPspp4QSew)

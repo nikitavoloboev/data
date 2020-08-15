@@ -149,3 +149,4 @@
 - [A deep dive into Swift’s function builders (2020)](https://swiftbysundell.com/articles/deep-dive-into-swift-function-builders/)
 - [Introduction to parsing Swift code with the SwiftSyntax Library (2020)](https://vivekseth.com/swift-syntax-intro/)
 - [Swift Calling Conventions on ARM64 (2020)](https://vivekseth.com/swift-arm64-int-bool/)
+- [Force-Unwrapping in Swift is NOT a Bad Thing](https://wolfmcnally.com/82/force-unwrapping-swift-not-bad-thing/)
