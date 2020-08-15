@@ -138,7 +138,7 @@
 - [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
 - [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/) ([Lobsters](https://lobste.rs/s/ky2fu3/examples_incorrect_abstractions_non))
 - [Haskell Platform](https://github.com/haskell/haskell-platform) - Combination of the GHC compiler and core libraries, plus additional tools and libraries covering a range of common programming tasks.
-- [Stan](https://github.com/kowainik/stan) - Haskell static analyser.
+- [Stan](https://github.com/kowainik/stan) - Haskell static analyser. ([Talk](https://www.youtube.com/watch?v=wb5PLv6-e6I&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=5))
 - [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) - Structured set of materials. How to build real-world applications in Haskell.
 - [The Pain Points of Haskell: A Practical Summary (2020)](https://dixonary.co.uk/blog/haskell/pain/) ([HN](https://news.ycombinator.com/item?id=23454352))
 - [nix-hs](https://github.com/pjones/nix-hs) - Thin layer over the existing Haskell infrastructure in nixpkgs which adds all of the tools needed for interactive development.

@@ -12,6 +12,7 @@
 
 ## Nice rewards
 
+- [Veronika Romashkina](https://github.com/sponsors/vrom911)
 - [TheLatestKate](https://www.patreon.com/thelatestkate)
 - [Max Howell](https://www.patreon.com/mxcl)
 - [TJ Holowaychuk](https://github.com/sponsors/tj)
@@ -23,6 +24,7 @@
 - [Deno](https://github.com/sponsors/denoland)
 - [Alex Ellis](https://github.com/sponsors/alexellis/) - Get newsletter as reward.
 - [uberdosis](https://github.com/sponsors/ueberdosis)
+- [Dmitrii Kovanikov](https://github.com/sponsors/chshersh)
 
 ## Thanks pages
 

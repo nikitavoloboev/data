@@ -270,3 +270,4 @@
 - [Machine learning examples and tutorials](https://github.com/lazyprogrammer/machine_learning_examples)
 - [Vintage Factor Analysis with Varimax Performs Statistical Inference (2020)](https://arxiv.org/abs/2004.05387)
 - [An Opinionated Guide to ML Research (2020)](http://joschu.net/blog/opinionated-guide-ml-research.html)
+- [Amazon's Machine Learning University](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university) ([HN](https://news.ycombinator.com/item?id=24167034))

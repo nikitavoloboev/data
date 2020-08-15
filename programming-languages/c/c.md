@@ -68,3 +68,4 @@
 - [Standard C loop idioms (2020)](https://dannas.name/standard-c-loop-idioms)
 - [Why the C Language Will Never Stop You from Making Mistakes (2020)](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 - [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html) ([HN](https://news.ycombinator.com/item?id=24139943))
+- [Cyclone](https://cyclone.thelanguage.org/) - Safe dialect of C.

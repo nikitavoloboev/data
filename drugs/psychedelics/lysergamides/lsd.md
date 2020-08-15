@@ -23,3 +23,4 @@
 - [Гид по ЛСД (2020)](https://docs.google.com/document/d/1nCsTtLruccmWqWRZ7CQ1gRZoRYFZODLF9mPmqDz4P70/edit)
 - [HN: LSD Chemist William Pickard to Be Released from Prison (2020)](https://news.ycombinator.com/item?id=23947157)
 - [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/) ([HN](https://news.ycombinator.com/item?id=23952390))
+- [Story of LSD](https://twitter.com/PulpLibrarian/status/1294322294408515584)
