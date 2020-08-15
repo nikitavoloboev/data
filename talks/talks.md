@@ -27,6 +27,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 ## Notes
 
 - Giving a talk, it is often best to start with a `Why?`
+- [I love the virtual conf format of "play pre-recorded video while speaker engages with the audience in chat". As a speaker, I enjoy interacting with the audience this way throughout the entire talk, and being able to answer questions without losing any speaking time.](https://twitter.com/techgirl1908/status/1294355241412878336)
 
 ## Links
 

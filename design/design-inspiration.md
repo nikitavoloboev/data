@@ -202,6 +202,7 @@ Here are few more things I liked, design wise.
 - [Matt D. Smith](http://mds.is/)
 - [Monica Lent](https://monicalent.com/)
 - [Hugo Zapata](https://hugozap.com/)
+- [Matthias Ott](https://matthiasott.com/)
 - [Jared Pereira](https://awarm.space/) ([Code](https://gitlab.com/jaredpereira/site))
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Sarah Lim](https://slim.computer/)

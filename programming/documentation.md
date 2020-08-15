@@ -13,6 +13,7 @@
 - [Top two mistakes in documentation:](https://twitter.com/dan_abramov/status/1083472984252260352)
   1. Assuming people know everything
   2. Assuming people are stupid
+- [If asked a question twice, respond the 3rd time with a URL.](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
 
 ## Links
 

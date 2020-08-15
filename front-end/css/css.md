@@ -193,3 +193,4 @@
 - [The Languages Which Almost Became CSS](https://eager.io/blog/the-languages-which-almost-were-css/)
 - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
+- [How I Structure My CSS (for Now) (2020)](https://matthiasott.com/notes/how-i-structure-my-css)

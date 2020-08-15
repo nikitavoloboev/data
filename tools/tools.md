@@ -132,7 +132,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
-- [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes.
+- [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))
 - [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529))
 - [Code to Image Monochromatic](https://code-to-image.now.sh/)
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
