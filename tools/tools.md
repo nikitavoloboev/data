@@ -103,6 +103,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
+- [Threads](https://threads.com/) - Empowers teams to easily share, discuss, and make decisions no matter where they are.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Circle](https://circle.so/) - Modern community platform for creators.
 - [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.
