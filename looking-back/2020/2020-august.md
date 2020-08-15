@@ -14,7 +14,7 @@ Want to build a version of [Foam](https://jevakallio.github.io/notes/foam-one-mo
 
 Need to explore Sublime API. And VSCode too as I want to have more power over my environment. Got Xcode 12 too so excited to start learning Swift/SwiftUI too. I still can't let go of the fact that [Ship GitHub client](https://www.realartists.com/blog/ship-20.html) ceased to exist. It was the **perfect** GitHub client. The idea of putting important issues into `Next` queue is so so nice. So yeah, Learn Anything, new personal site, a nice blog with mdx & newsletter. And app my GF and I are building for iOS. And in the future a nice GitHub client to use on macOS unless GitHub officially tackles macOS. And of course the full time job at CodeYellow.
 
-👨‍💻👨‍💻
+👨‍💻👩‍💻
 
 I also started adding more notes to the wiki as part of `## Notes`. Feels nice to extend the wiki in more ways than just adding links which is what I was doing for the past few months.
 

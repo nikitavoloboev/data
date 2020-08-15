@@ -12,3 +12,4 @@
 - [Notation and thought](https://github.com/hypotext/notation) - Collection of quotes on notation design & how it affects thought.
 - [Repo to track the evolution of notation in arts and sciences](https://github.com/prathyvsh/notation)
 - [Twitter account that renames everyday objects](https://ahtaitay.blogspot.com/2020/07/this-twitter-account-is-renaming.html?m=1)
+- [Hypocognition: Making Sense of the Landscape Beyond One's Conceptual Reach (2018)](https://www.researchgate.net/publication/319974334_Hypocognition_Making_Sense_of_the_Landscape_Beyond_One%27s_Conceptual_Reach)

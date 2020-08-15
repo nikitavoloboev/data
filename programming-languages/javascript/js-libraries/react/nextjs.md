@@ -14,6 +14,7 @@
 - [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
 - [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
 - [Vault Docs](https://github.com/hashicorp/vault/tree/master/website) ([Web](https://www.vaultproject.io/))
+- [MDNEXT](https://github.com/domitriusclark/mdnext) - Opinionated starter for your MDX + Next.js needs.
 
 ## NextJS plugins
 
