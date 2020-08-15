@@ -24,3 +24,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Tutorial sites treating FreeBSD like a Linux distro (2020)](https://rubenerd.com/tutorial-sites-treating-freebsd-like-a-linux-distro/) ([HN](https://news.ycombinator.com/item?id=23818702))
 - [The Design and Implementation of the 4.3BSD UNIX Operating System (1989)](https://www.goodreads.com/book/show/5770.The_Design_and_Implementation_of_the_4_3BSD_UNIX_Operating_System)
 - [BSDCan 2020](https://www.youtube.com/playlist?list=PLeF8ZihVdpFedccMdpBtBxniM3Lm-fVpT)
+- [An Introduction to OpenBSD (2020)](https://blog.lambda.cx/posts/openbsd-introduction-talk/) ([Lobsters](https://lobste.rs/s/ulk8bi/introduction_openbsd))
