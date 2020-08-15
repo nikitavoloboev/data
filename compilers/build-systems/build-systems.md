@@ -29,3 +29,5 @@
 - [How to list all the targets on a Makefile (2020)](https://diamantidis.github.io/tips/2020/07/01/list-makefile-targets) ([HN](https://news.ycombinator.com/item?id=23702756))
 - [You don’t need reproducible builds (2020)](http://blog.cmpxchg8b.com/2020/07/you-dont-need-reproducible-builds.html) ([Lobsters](https://lobste.rs/s/ha8c42/you_don_t_need_reproducible_builds)) ([HN](https://news.ycombinator.com/item?id=24059410))
 - [Strategies for Binary Relocation In Functional Build Systems (2020)](https://maxmcd.com/posts/strategies-for-binary-relocation/) ([Lobsters](https://lobste.rs/s/2lnncd/strategies_for_binary_relocation))
+- [Reproducible Telegram Builds for iOS and Android](https://core.telegram.org/reproducible-builds)
+- [Faster Builds with Code Signing Hacks (2020)](https://eisel.me/jekyll/update/2020/08/07/signing.html)

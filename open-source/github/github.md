@@ -110,3 +110,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Repos Beyond Code: A Collection of Creative Uses of GitHub (2018)](http://www.brendanschlagel.com/2018/09/28/repos-beyond-code-a-collection-of-creative-uses-of-github/)
 - [Sponsor Verifier](https://github.com/matchai/sponsor-verifier) - Site for users to verify their sponsorships to be sent goodies.
 - [GitHub Archive Program & Arctic Code Vault](https://github.com/github/archive-program)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes.
