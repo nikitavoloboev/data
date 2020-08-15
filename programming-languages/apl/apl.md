@@ -21,4 +21,4 @@
 - [APL In Exposition by K. E. Iverson (1972)](http://www.softwarepreservation.org/projects/apl/Papers/197201_APL%20In%20Exposition_320-3010.pdf)
 - [An APL Machine (1970)](https://www.slac.stanford.edu/pubs/slacreports/reports07/slac-r-114.pdf) ([Lobsters](https://lobste.rs/s/zfwv49/apl_machine_1970))
 - [Compiling APL to JavaScript](http://archive.vector.org.uk/art10501160) ([Lobsters](https://lobste.rs/s/4c5joc/compiling_apl_javascript))
-- [J Notation as a Tool of Thought (2020)](https://www.hillelwayne.com/post/j-notation/) ([Lobsters](https://lobste.rs/s/uh4hl2/j_notation_as_tool_thought))
+- [J Notation as a Tool of Thought (2020)](https://www.hillelwayne.com/post/j-notation/) ([Lobsters](https://lobste.rs/s/uh4hl2/j_notation_as_tool_thought)) ([HN](https://news.ycombinator.com/item?id=24166260))

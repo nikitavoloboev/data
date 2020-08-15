@@ -22,3 +22,4 @@
 - [Set up a Paid Newsletter at Your Own Domain (2020)](https://balajis.com/set-up-a-paid-newsletter-at-your-own-domain/)
 - [Stoop](https://stoopinbox.com/) - Newsletter app.
 - [5 months in: My honest review of Substack (2020)](https://www.indiehackers.com/post/5-months-in-my-honest-review-of-substack-45bab46aea)
+- [Newsletters and New Media Economics (2020)](https://diff.substack.com/p/newsletters-and-new-media-economics)

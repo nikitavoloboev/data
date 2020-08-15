@@ -279,3 +279,4 @@
 - [rd](https://github.com/sidkshatriya/rd) - Record/replay debugger written in rust.
 - ["Rust does not have a stable ABI"](https://people.gnome.org/~federico/blog/rust-stable-abi.html) ([Lobsters](https://lobste.rs/s/0eld2b/rust_does_not_have_stable_abi)) ([HN](https://news.ycombinator.com/item?id=24140848))
 - [I am a Java, C#, C or C++ developer, time to do some Rust (2020)](https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust)
+- [Frustrated? It's not you, it's Rust (2020)](https://fasterthanli.me/articles/frustrated-its-not-you-its-rust) ([Lobsters](https://lobste.rs/s/kexgcp/frustrated_it_s_not_you_it_s_rust)) ([Reddit](https://www.reddit.com/r/rust/comments/i9sor7/frustrated_its_not_you_its_rust/))

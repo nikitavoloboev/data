@@ -3,6 +3,7 @@
 ## Notes
 
 - [Semantics involves giving meaning to logical constants in a formal way. When we talk about truth table semantics, we’re talking about a way to formally interpret (or give meaning to) sentences in the logical language using truth tables. Similarly, algebraic semantics does the same, but using algebras. Proof-theoretic semantics attempts to give meaning in terms of proof rather than truth conditions.](https://www.reddit.com/r/logic/comments/78rihs/why_call_it_semantics/)
+- [Intuitionistic logic is also known as “constructive logic,” which is not a coincidence. And the Curry-Howard correspondence, which is also deeply related, connects computation to intuitionistic logic.](https://twitter.com/lexi_lambda/status/1294354136213921798)
 
 ## Links
 

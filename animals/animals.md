@@ -41,3 +41,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Ask HN: Are there any software jobs in nature/animal conservation? (2020)](https://news.ycombinator.com/item?id=23938635)
 - [ZooPhotonics](https://zoophotonics.com/) - AI-Powered Wildlife Classification.
 - [Reddit's Aww growing communities](https://www.reddit.com/subreddits/leaderboard/aww/)
+- [Things to think about when getting a cat](https://twitter.com/nayafia/status/1294295163410378752)
