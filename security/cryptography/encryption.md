@@ -18,3 +18,4 @@
 - [Intro to Fully Homomorphic Encryption (2020)](http://blog.higashi.tech/2020/06/16/fhe_01.html) ([HN](https://news.ycombinator.com/item?id=23721661))
 - [Exploring Fully Homomorphic Encryption (2020)](https://vitalik.ca/general/2020/07/20/homomorphic.html)
 - [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux) ([HN](https://news.ycombinator.com/item?id=24025478))
+- [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode. ([Lobsters](https://lobste.rs/s/2nalpm/split_files_into_encrypted_segments))

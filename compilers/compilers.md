@@ -121,3 +121,4 @@
 - [Beyond Code: New Signals for Static Analysis (2020)](https://pldi20.sigplan.org/details/SOAP-2020-papers/5/Keynote-Beyond-Code-New-Signals-for-Static-Analysis-)
 - [HPVM - Heterogeneous Parallel Virtual Machine](https://publish.illinois.edu/hpvm-project/)
 - [GraalVM](https://github.com/oracle/graal) - Run Programs Faster Anywhere. ([Web](https://www.graalvm.org/)) ([HN](https://news.ycombinator.com/item?id=24103233))
+- [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) ([Code](https://github.com/justinmeiners/lc3-vm))
