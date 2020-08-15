@@ -53,3 +53,4 @@
 - [Axial - Founder-driven life sciences companies (2020)](https://axial.substack.com/p/axial-founder-driven-life-sciences)
 - [Manolis Kellis research](http://web.mit.edu/manoli/)
 - [Pumas AI](https://pumas.ai/) - Platform for pharmaceutical modeling and simulation. ([HN](https://news.ycombinator.com/item?id=24126754))
+- [Mitochondrial dynamics in postmitotic cells regulate neurogenesis (2020)](https://science.sciencemag.org/content/369/6505/858.full) ([Tweet](https://twitter.com/VanderhaeghenP2/status/1294168825735319553))
