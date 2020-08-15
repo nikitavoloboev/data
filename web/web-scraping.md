@@ -30,3 +30,5 @@
 - [What is a present-day web scraping in 2020?](https://dataflowkit.com/blog/what-is-a-present-day-web-scraper/)
 - [Dataflow Kit](https://dataflowkit.com/) - Web scraping. Data extraction tools
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)
+- [Common Crawl](http://commoncrawl.org/) - Build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.
+- [Cognito Common Crawl](https://github.com/andresriancho/cc-lambda) - Search the common crawl using lambda functions.

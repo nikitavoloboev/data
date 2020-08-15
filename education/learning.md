@@ -66,3 +66,4 @@
 - [Trickle](https://trickle.app/) - Make lifelong learning effortless.
 - [Ask HN: How does your organisation train programmers? (2020)](https://news.ycombinator.com/item?id=24097348)
 - [masterWiki](https://masterwiki.how/) - MasterClass course summaries.
+- [The shape of learning](https://twitter.com/azlenelza/status/1294344958992777216) - Playing with visualizing different ways of structuring classes/learning groups.
