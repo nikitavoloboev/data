@@ -26,3 +26,4 @@
 - [Overflow](https://overflow.co/) - Equity For The Inequitable.
 - [What charities do the best job of alleviating global poverty? (2020)](https://www.reddit.com/r/AskEconomics/comments/hq7d30/what_charities_do_the_best_job_of_alleviating/)
 - [The Life You Can Save](https://www.thelifeyoucansave.org/) - Best Charities for Effective Giving.
+- [Anyone here a social entrepreneur i.e. placing social impact above profit? (2020)](https://news.ycombinator.com/item?id=24168902)

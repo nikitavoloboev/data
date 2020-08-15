@@ -190,6 +190,7 @@
 - [Anti-A/B-Test Framework](https://twitter.com/louisnicholls_/status/1279455083160391681)
 - [Start Small, Stay Small book notes](https://sive.rs/book/StartSmallStaySmall)
 - [10 Tips for Startup Founders (2020)](https://medium.com/@sophiaedm/10-tips-for-startup-founders-d6ed1c1a2d94)
+- [How to turn an important spreadsheet into a SaaS business (2020)](https://twitter.com/Tawheed/status/1294095453680795648)
 
 ## Images
 
