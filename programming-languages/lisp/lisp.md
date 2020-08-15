@@ -72,3 +72,4 @@
 - [The Many Faces of an Undying Programming Language (2020)](http://jakob.space/blog/thoughts-on-lisps.html) ([Lobsters](https://lobste.rs/s/chamtu/many_faces_undying_programming_language))
 - [Interface Builder's Alternative Lisp timeline (2013)](https://paulhammant.com/2013/03/28/interface-builders-alternative-lisp-timeline/) ([Lobsters](https://lobste.rs/s/qcyzt0/interface_builder_s_alternative_lisp))
 - [Embeddable lisp/scheme interpreter written in C](https://github.com/justinmeiners/lisp-interpreter)
+- [Boring Benefits of Lisp (2020)](https://justinmeiners.github.io/boring-benefits-of-lisp/)
