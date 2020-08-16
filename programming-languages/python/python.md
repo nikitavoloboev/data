@@ -1,5 +1,9 @@
 # [Python](https://www.python.org)
 
+## Notes
+
+- [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)
+
 ## Links
 
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
@@ -150,3 +154,4 @@
 - [Mypyc](https://github.com/python/mypy/tree/master/mypyc) - Mypy to Python C Extension Compiler. ([Lobsters](https://lobste.rs/s/3c1oog/mypyc_mypy_python_c_extension_compiler))
 - [Developing Python with Poetry & Poetry2nix: Reproducible flexible Python environments (2020)](https://www.tweag.io/blog/2020-08-12-poetry2nix/)
 - [Structural pattern matching for Python (2020)](https://lwn.net/Articles/827179/)
+- [Python Data model](https://docs.python.org/3/reference/datamodel.html)

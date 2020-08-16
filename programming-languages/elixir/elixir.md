@@ -37,3 +37,4 @@
 - [Homemade analytics with Ecto and Elixir (2020)](https://dashbit.co/blog/homemade-analytics-with-ecto-and-elixir)
 - [Elixir School](https://elixirschool.com/en)
 - [Elixir RAM and the Template of Doom (2016)](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+- [The BEAM has Spoiled Me (2020)](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html) ([HN](https://news.ycombinator.com/item?id=24172336))

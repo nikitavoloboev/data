@@ -83,3 +83,4 @@
 - [Elo suck - better multiplayer rating systems for smaller games](https://medium.com/acolytefight/elo-sucks-better-multiplayer-rating-systems-for-smaller-games-8ca588ee652f) ([Lobsters](https://lobste.rs/s/tzdghs/elo_sucks_better_multiplayer_rating))
 - [A-Life: An Insight into Ambitious AI (2017)](https://blackshellmedia.com/2017/08/12/a-life-an-insight-into-ambitious-ai/)
 - [Ct.js](https://ctjs.rocks/) Visual Game Editor for Pixi.js. ([HN](https://news.ycombinator.com/item?id=24176655))
+- [High Hat Devlogs](https://www.youtube.com/playlist?list=PL0DiuJldNGZyVFZ9KWu7GymvYMbC-N0C3)

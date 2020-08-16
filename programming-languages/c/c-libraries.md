@@ -26,3 +26,4 @@
 - [libsrt](https://github.com/faragon/libsrt) - C library for writing fast and safe C code, faster.
 - [sx](https://github.com/septag/sx) - Portable base library for C programmers, designed for performance and simplicity.
 - [poica](https://github.com/Hirrolot/poica) - ADTs with pattern matching and type introspection for pure C.
+- [MiniFB](https://github.com/emoon/minifb) - Small cross platform library to create a frame buffer that you can draw pixels in. ([HN](https://news.ycombinator.com/item?id=24172362))

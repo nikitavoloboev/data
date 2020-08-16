@@ -15,6 +15,7 @@
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 - [Torus](https://github.com/thesephist/torus) - Event-driven model-view UI framework for the web, focused on being tiny, efficient, and free of dependencies.
 - [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798))
+- [Phenomic](https://github.com/phenomic/phenomic) - Modular website compiler (React, Webpack, Reason and whatever you want).
 
 ## Animation
 
