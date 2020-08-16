@@ -16,3 +16,4 @@
 - [SQLite Localtime Date Modifier is Slow (2019)](https://radhifadlillah.com/post/2019-08-11-sqlite-localtime-date-modifier-is-slow/)
 - [Why SQLite succeeded as a database (2016)](https://changelog.com/podcast/201)
 - [Appropriate Uses For SQLite](https://sqlite.org/whentouse.html)
+- [SQLite 3.33 adds support for UPDATE FROM](https://www.sqlite.org/lang_update.html#upfrom) ([HN](https://news.ycombinator.com/item?id=24176608))
