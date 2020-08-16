@@ -155,3 +155,4 @@
 - [Developing Python with Poetry & Poetry2nix: Reproducible flexible Python environments (2020)](https://www.tweag.io/blog/2020-08-12-poetry2nix/)
 - [Structural pattern matching for Python (2020)](https://lwn.net/Articles/827179/)
 - [Python Data model](https://docs.python.org/3/reference/datamodel.html)
+- [Building FunctionTrace, a graphical Python profiler (2020)](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)

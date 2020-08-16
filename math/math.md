@@ -28,6 +28,7 @@
   3. Coordinate geometry - Loney
   4. Calculus of one variable - Maron
 - [If you can, find someone else to work with, and someone else who already knows some math to ask occasional questions would probably help you a lot.](https://news.ycombinator.com/item?id=18939913)
+- [Monad on Set is a way to describe some sort of gadget that's a set equipped with a bunch of operations obeying a bunch of equations](https://twitter.com/johncarlosbaez/status/1294054900289028096)
 
 ## Links
 
@@ -182,3 +183,4 @@
 - [Taylor Series and Accelerometers (2020)](https://jeremykun.com/2020/07/26/taylor-series-and-accelerometers/) ([HN](https://news.ycombinator.com/item?id=24129870))
 - [What is the difference between a theorem, a lemma, and a corollary? (2008)](https://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/)
 - [Formalising Undergraduate Mathematics (2020)](https://www.youtube.com/watch?v=FDx0nXFQloE) ([Slides](http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/ug_maths.pdf)) ([Tweet](https://twitter.com/XenaProject/status/1292939583290736651))
+- [Explanation of monad (2020)](https://twitter.com/johncarlosbaez/status/1294697378755174400)

@@ -1,5 +1,9 @@
 # E-commerce
 
+## Nice shops
+
+- [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
+
 ## Links
 
 - [Stripe Elements examples](https://stripe.dev/elements-examples/) - Pre-built rich UI components that help you build your own pixel-perfect checkout flows across desktop and mobile.

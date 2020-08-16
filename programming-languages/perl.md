@@ -8,3 +8,4 @@
 - [Perl7 is a fork of values (2020)](http://blogs.perl.org/users/leon_timmermans/2020/08/perl7-is-a-fork-of-values.html) ([HN](https://news.ycombinator.com/item?id=24019932)) ([Lobsters](https://lobste.rs/s/unt6el/perl7_is_fork_values))
 - [perlres](https://github.com/thibaultduponchelle/perlres) - List of resources about Perl.
 - [Try Perl](http://tryperl.pl/) - Learn the basics of the Perl language in your browser. ([Code](https://github.com/thibaultduponchelle/tryperl))
+- [RFC 188, by Damian Conway: Objects: Private keys and methods (2020)](https://raku-advent.blog/2020/08/16/rfc-188-by-damian-conway-objects-private-keys-and-methods/)
