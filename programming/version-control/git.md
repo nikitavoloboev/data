@@ -135,7 +135,7 @@ I love Git and version control. And I use version control over any project I do.
 - [How to write good Git commit messages (2020)](https://altcampus.io/blog/how-to-write-good-git-commit-message) ([HN](https://news.ycombinator.com/item?id=23479465))
 - [gitignore.io](https://www.toptal.com/developers/gitignore) - Create Useful .gitignore Files For Your Project. ([Code](https://github.com/toptal/gitignore.io))
 - [Speeding up a Git monorepo at Dropbox with <200 lines of code (2020)](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code) ([HN](https://news.ycombinator.com/item?id=23480198))
-- [Oh Shit, Git!?!](https://ohshitgit.com/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/) ([HN](https://news.ycombinator.com/item?id=24173238))
 - [Using Rust to Delete Gitignored Cruft (2020)](https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/)
 - [The Problem with Git Flow (2020)](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/) ([HN](https://news.ycombinator.com/item?id=23622071))
 - [Ask HN: Git alternatives that aren't so complicated? (2020)](https://news.ycombinator.com/item?id=23670757)

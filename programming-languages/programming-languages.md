@@ -109,3 +109,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A Foundation for Typed Concatenative Languages (2017)](https://www2.ccs.neu.edu/racket/pubs/dissertation-kleffner.pdf) - Presents a sound and complete type inference algorithm.
 - [What Is The Minimal Set Of Optimizations Needed For Zero-Cost Abstraction? (2020)](https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html)
 - [Kicking Off the Repl.it Programming Language Jam (2020)](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105) ([HN](https://news.ycombinator.com/item?id=24113863))
+- [Structure and Interpretation of Computer Programs with Hal Abelson (2019)](https://overcast.fm/+LfVPfUqoc)

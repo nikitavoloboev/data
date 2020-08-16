@@ -29,4 +29,5 @@
 - [Generative Adversarial Imitation Learning](https://github.com/openai/imitation)
 - [High-Fidelity Generative Image Compression](https://hific.github.io/) ([HN](https://news.ycombinator.com/item?id=23652753))
 - [Photoreal Roman Emperor Project. 54 Machine-learning assisted portraits (2020)](https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f)
+- [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT) ([HN](https://news.ycombinator.com/item?id=24172603))
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - Improved version of AnimeGAN.
