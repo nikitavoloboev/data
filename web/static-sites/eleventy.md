@@ -13,3 +13,4 @@
 - [Add Search to an Eleventy website with Elasticlunr (2020)](https://www.belter.io/eleventy-search/)
 - [Create a Sitemap.xml with Eleventy (2020)](https://www.belter.io/eleventy-sitemap/)
 - [Eleventy-Garden](https://github.com/b3u/eleventy-garden) - Starter site for building a mind garden, using 11ty.
+- [Eleventastic](https://github.com/maxboeck/eleventastic) - Simple Eleventy Starter Kit.

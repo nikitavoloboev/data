@@ -300,3 +300,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Handmade Community](https://handmade.network/home) - Community for Self-Rolled Performant Software. ([Manifesto](https://handmade.network/manifesto)) ([HN](https://news.ycombinator.com/item?id=24184688))
 - [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/)
 - [Juanito Fatas's Fragments](https://juanitofatas.com/fragments)
+- [SoftwareIdeas](https://www.softwareideas.io/) - Hand-picked, validated SaaS ideas delivered straight to your inbox.

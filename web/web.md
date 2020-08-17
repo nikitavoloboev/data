@@ -147,3 +147,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [IndieWeb Collection](https://boffosocko.com/research/indieweb/)
 - [Chromatic](https://www.chromatic.com/) - Storybook deployment, review, and test.
 - [Don't design for mobile](https://mattanddesign.com/dont-design-for-mobile/) ([Lobsters](https://lobste.rs/s/iei6om/don_t_design_for_mobile))
+- [Why not use Bazel for building web projects](https://twitter.com/samccone/status/1295069537084162048)

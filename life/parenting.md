@@ -17,3 +17,4 @@
 - [Coding with kids (2020)](https://dev.solita.fi/2020/06/12/coding-with-kids.html) ([Lobsters](https://lobste.rs/s/b6zf13/coding_with_kids))
 - [Teach Kids to Code Resources](https://alexn.org/wiki/docs/teach-kids.html)
 - [Young children would rather explore than get rewards (2020)](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/) ([HN](https://news.ycombinator.com/item?id=24139261))
+- [Ask HN: Parents, what are you doing for school this fall? (2020)](https://news.ycombinator.com/item?id=24189147)

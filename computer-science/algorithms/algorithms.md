@@ -38,6 +38,7 @@
 - [Cache Oblivious Algorithms (2020)](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/) ([HN](https://news.ycombinator.com/item?id=23662434))
 - [You could have invented fractional cascading (2012)](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 - [Guide to learning algorithms through LeetCode](https://labuladong.gitbook.io/algo-en/) ([Code](https://github.com/labuladong/fucking-algorithm/tree/english)) ([HN](https://news.ycombinator.com/item?id=24167297))
+- [How hard is unshuffling a string?](https://cstheory.stackexchange.com/questions/34/how-hard-is-unshuffling-a-string)
 
 ## Images
 
