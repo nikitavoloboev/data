@@ -139,3 +139,4 @@
 - [Philosophers on GPT-3 (2020)](http://dailynous.com/2020/07/30/philosophers-gpt-3/) ([HN](https://news.ycombinator.com/item?id=24003384))
 - [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer) - Power tool for experimenting with GPT-3. ([Code](https://github.com/belay-labs/gpt-explorer))
 - [Recent Advances in Natural Language Processing (2020)](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/) ([HN](https://news.ycombinator.com/item?id=24179795))
+- [Project Insight](https://github.com/abhimishra91/insight) - NLP as a Service. ([Forum post](https://discuss.streamlit.io/t/project-insight-streamlit-fastapi-huggingface-and-all-the-goodness/4978))

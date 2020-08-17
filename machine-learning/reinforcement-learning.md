@@ -93,3 +93,5 @@
 - [Model Based Reinforcement Learning Benchmarking Library (MBBL)](https://github.com/WilsonWangTHU/mbbl)
 - [TF-Agents](https://github.com/tensorflow/agents) - Reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
 - [Reinforcement Learning Specialization by University of Alberta](https://www.coursera.org/specializations/reinforcement-learning)
+- [Optax](https://github.com/deepmind/optax) - Gradient processing and optimization library for JAX.
+- [Chex](https://github.com/deepmind/chex) - Library of utilities for helping to write reliable JAX code.

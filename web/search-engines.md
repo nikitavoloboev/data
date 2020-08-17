@@ -56,3 +56,4 @@
 - [Autocomplete VS graph](https://anvaka.github.io/vs/?query=) - Visualization of Google's autocomplete. ([Code](https://github.com/anvaka/vs))
 - [Dorking: the use of search engines to find very specific data (2020)](https://www.alec.fyi/dorking-how-to-find-anything-on-the-internet.html) ([HN](https://news.ycombinator.com/item?id=24101889))
 - [Create and use HTML full text search index (C++)](https://stackoverflow.com/questions/3073390/create-and-use-html-full-text-search-index-c)
+- [Google Search tips](https://www.avanderlee.com/optimization/developer-productivity-boost-with-google-search-tips-tricks/)

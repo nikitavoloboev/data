@@ -15,3 +15,4 @@
 - [Zinc framework](https://github.com/matter-labs/zinc) - Goal of Zinc is to make writing safe zero-knowledge programs and ZKP-based smart contracts easy.
 - [A Field Guide to zkSNARKs (2020)](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
 - [Circom](https://github.com/iden3/circom) - Language designed to write arithmetic circuits that can be used in zero knowledge proofs.
+- [Zero-Knowledge Proofs for Engineers: Introduction (2020)](https://blog.zkga.me/intro-to-zksnarks)

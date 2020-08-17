@@ -32,3 +32,6 @@
 - [Human vs City](https://www.behance.net/gallery/80246913/HUMAN-vs-CITY-CHONGQING)
 - [Christopher Alexander: A Primer (2020)](https://www.youtube.com/watch?v=XLsTZXT0FlM) ([HN](https://news.ycombinator.com/item?id=24033936))
 - [Lumion 3D Rendering Software](https://lumion.com/) - Architectural Visualization.
+- [Floorplanner](https://floorplanner.com/) - Create 2D & 3D floorplans for real estate, office space or your home.
+- [Coohom](https://www.coohom.com/) - Create 3D models and apply them in cutting edge AR, VR, 360-degree spins, floorplanning, and high-quality rendering solutions.
+- [Styldod](https://www.styldod.com/) - Virtual Home Staging & Interior Design Solutions.

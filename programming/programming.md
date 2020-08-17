@@ -228,3 +228,4 @@
 - [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html) ([HN](https://news.ycombinator.com/item?id=24135189))
 - [How we use "ship small" to rapidly build new features at GitHub (2020)](https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9)
 - [Digital Design in Architecture: research landscape map 1975-2019](https://github.com/antonsavov/research-maps) ([HN](https://news.ycombinator.com/item?id=24154122))
+- [Ask HN: How do you overcome decision fatigue in software development? (2020)](https://news.ycombinator.com/item?id=24176774)

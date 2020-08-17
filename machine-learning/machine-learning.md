@@ -273,3 +273,4 @@
 - [Amazon's Machine Learning University](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university) ([HN](https://news.ycombinator.com/item?id=24167034))
 - [Progress, Notes, Summaries and a lot of Questions on Machine Learning](https://github.com/RobertTLange/reading-notes-ml)
 - [SciML](https://sciml.ai/) - Open Source Software for Scientific Machine Learning.
+- [Mihaela Rosca ML notes](https://github.com/mihaelacr/paper-notes)

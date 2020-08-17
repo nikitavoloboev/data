@@ -60,6 +60,7 @@ Here are few more things I liked, design wise.
 - [Pixel Envy](https://pxlnv.com/)
 - [Pseudo Random](https://www.pseudorandom.com/)
 - [the Webb blog](https://blog.webb.page/)
+- [Dark Forest Blog](https://blog.zkga.me/)
 
 ## Products
 
@@ -357,6 +358,7 @@ Here are few more things I liked, design wise.
 - [Patricia Realini](http://www.patriciarealini.com/)
 - [Soul Wire](https://soulwire.co.uk/)
 - [Alex](https://alexgaynor.net/)
+- [Алексей Черенкевич](https://cherenkevich.com/)
 - [Ning Sun](https://sunng.info/)
 - [Oleg Slobodskoi](https://kof.github.io/)
 - [Joe Birch](https://joebirch.co/)
