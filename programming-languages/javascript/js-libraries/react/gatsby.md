@@ -66,3 +66,4 @@
 - [Gatsby And Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden) - Create a digital garden with Gatsby.
 - [Gatsby Design](https://www.gatsby.design/)
 - [Adding Search to Gatsby Blog (2020)](https://www.thomas.wang/blog/adding-search)
+- [Why did I give up using Gatsby for my blog? (2020)](https://eshlox.net/2020/08/15/why-did-i-give-up-using-gatsby-for-my-blog)

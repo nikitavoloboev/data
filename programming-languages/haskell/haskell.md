@@ -173,3 +173,4 @@
 - [Haskell Love 2020 talks](https://www.youtube.com/playlist?list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc) ([Web](https://haskell.love/)) ([Day 1](https://haskell.love/agenda-day-1/)) ([Day 2](https://haskell.love/agenda-day-2/))
 - [Haskel / Nix / hie / Stack template](https://github.com/Cmdv/haskell-nix-hie-template)
 - [ruHaskell](https://ruhaskell.org/) - Russian Haskell community.
+- [Let’s write a Haskell Language Server plugin](https://github.com/pepeiborra/hls-tutorial)

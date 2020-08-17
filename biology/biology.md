@@ -37,3 +37,4 @@
 - [Modeling Life](https://link.springer.com/book/10.1007/978-3-319-59731-7) - The Mathematics of Biological Systems.
 - [Why Are Plants Green? To Reduce the Noise in Photosynthesis (2020)](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/) ([HN](https://news.ycombinator.com/item?id=23998793))
 - [Cell Biology by the Numbers](http://book.bionumbers.org/)
+- [Haseloff Lab](https://haseloff.plantsci.cam.ac.uk/) - Synthetic Biology for engineering plant growth.

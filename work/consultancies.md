@@ -101,6 +101,7 @@
 - [Lickability](https://lickability.com/) - Software studio in NYC that builds apps.
 - [Skcript](https://www.skcript.com/)
 - [Autogram](https://autogram.is/) - Content management and design systems experts.
+- [Echobind](https://echobind.com/)
 
 ## Links
 

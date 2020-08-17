@@ -93,6 +93,7 @@ And these Discord servers:
 - [Machine Learning: Science and Technology journal](https://iopscience.iop.org/journal/2632-2153)
 - [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
 - [NOWNESS](https://www.nowness.com/)
+- [InputMag](https://www.inputmag.com/)
 
 ### Other
 

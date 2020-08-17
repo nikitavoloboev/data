@@ -301,3 +301,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/)
 - [Juanito Fatas's Fragments](https://juanitofatas.com/fragments)
 - [SoftwareIdeas](https://www.softwareideas.io/) - Hand-picked, validated SaaS ideas delivered straight to your inbox.
+- [The Map of Control Theory](https://www.redbubble.com/shop/ap/55089837)
