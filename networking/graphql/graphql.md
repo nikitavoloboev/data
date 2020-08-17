@@ -120,3 +120,5 @@
 - [How to urql, Part 3: The Normalized Cache (2020)](https://formidable.com/blog/2020/normalized-cache/)
 - [GraphQL Tweetletter](https://tweets.dgraph.io/?stream=graphql&search=&from=1597269600000&issue=NaN) - Most Interesting GraphQL Tweets.
 - [GraphQL Enterprise Connect 2020](https://www.youtube.com/watch?v=GaPspp4QSew)
+- [Deriving A Data Model From A Design With GraphQL (2020)](https://andrewingram.net/posts/deriving-a-data-model-from-a-design-with-graphql/)
+- [Demystifying GraphQL Connections (2020)](https://andrewingram.net/posts/demystifying-graphql-connections/)

@@ -96,3 +96,4 @@
 - [Using SwiftUI's Spacer to Create Complex Layouts (2019)](https://benmcmahen.com/using-spacer-in-swiftui/)
 - [SwiftUI Kit](https://github.com/jordansinger/SwiftUI-Kit) - SwiftUI system components and interactions demo app.
 - [Sharing SwiftUI layout information (2020)](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
+- [SwiftUI betas - what changed before 1.0 (2020)](https://mackuba.eu/2020/08/17/swiftui-beta/)
