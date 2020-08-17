@@ -226,3 +226,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html) ([HN](https://news.ycombinator.com/item?id=24099968))
 - [OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
 - [Quick Trick to Make Your App Snappier (2019)](https://eisel.me/jekyll/update/2019/02/13/snappy.html)
+- [Bite-sized Screencasts for iOS Development](https://nsscreencast.com/series/18-working-with-modern-collection-views)

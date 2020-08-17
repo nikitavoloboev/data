@@ -127,3 +127,4 @@
 - [How we used Postgres extended statistics to achieve a 3000x speedup (2020)](https://build.affinity.co/how-we-used-postgres-extended-statistics-to-achieve-a-3000x-speedup-ea93d3dcdc61)
 - [Postgres Execution Plans - Field Glossary (2019)](https://www.pgmustard.com/blog/2019/9/17/postgres-execution-plans-field-glossary)
 - [Recursive queries in PostgreSQL (2020)](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/) ([HN](https://news.ycombinator.com/item?id=24184070))
+- [Cloud-Native PostgreSQL on Kubernetes (2020)](https://www.youtube.com/watch?v=MTyY_qjOpXA) ([Slides](https://speakerdeck.com/ongres/stackgres-cloud-native-postgresql-on-kubernetes))
