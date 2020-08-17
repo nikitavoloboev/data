@@ -531,6 +531,7 @@
   - [Strength training](fitness/strength-training.md)
   - [Exercises](fitness/exercises.md)
   - [Running](fitness/running.md)
+  - [Yoga](fitness/yoga.md)
 - [Medicine](medicine/medicine.md)
   - [Diseases](medicine/diseases/diseases.md)
     - [Cancer](medicine/diseases/cancer.md)

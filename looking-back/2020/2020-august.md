@@ -25,3 +25,9 @@ Oh and one nice thing happened few days ago, [Dan Abramov](https://twitter.com/d
 Writing out the above future projects I want to complete in the coming months makes me reflect on how broad my [current goals](../../focusing/goals.md) are.
 
 I also listened to an [amazing interview](https://overcast.fm/+OozP23MDM) with CEO of Loom, Joe. He mentioned how he does weekly [CEO updates authored with Notion and Loom](https://twitter.com/yoyo_thomas/status/1258446807597645824) & it's awesome. Video as screencast format is certainly underused especially as you can playback video at 2x speed.
+
+## 17
+
+Reading [this review on 4 months working at BuildKite](https://juanitofatas.com/4-month-buildkite) was amazing. So many things got right. 🌈
+
+From personal experience, working in software companies is insanely stressful and all efforts by the company to alleviate the stress are very welcome.

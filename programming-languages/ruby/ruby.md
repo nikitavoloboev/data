@@ -22,3 +22,4 @@
 - [RBS](https://github.com/ruby/rbs) - Type Signature for Ruby. ([Article](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)) ([HN](https://news.ycombinator.com/item?id=23989738)) ([Lobsters](https://lobste.rs/s/ujkglz/state_ruby_3_typing))
 - [IRB](https://github.com/ruby/irb) - Interactive Ruby.
 - [Http.rb is Great (2018)](https://janko.io/httprb-is-great/)
+- [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Common Ruby idioms.

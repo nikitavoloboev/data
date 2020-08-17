@@ -12,3 +12,4 @@
 - [Japan's Brand New Bullet Train Is Earthquake-Proof (2020)](https://www.popularmechanics.com/science/a33372664/japan-new-bullet-train-shinkansen-earthquakes/) ([HN](https://news.ycombinator.com/item?id=24015707))
 - [How I Got my Japanese Permanent Residency (2020)](https://www.dampfkraft.com/how-i-got-my-japanese-pr.html) ([HN](https://news.ycombinator.com/item?id=24099252))
 - [How to Tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
+- [Moved to Tokyo](https://juanitofatas.com/fragments/moved-to-tokyo)

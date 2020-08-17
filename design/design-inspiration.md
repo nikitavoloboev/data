@@ -223,6 +223,7 @@ Here are few more things I liked, design wise.
 - [Caolan McMahon](https://caolan.uk/)
 - [Sibylle Sehl](https://sibylle.dev/)
 - [Hector Simpson](https://hector.me/)
+- [Juanito Fatas](https://juanitofatas.com/)
 - [Damien Seguin](https://dmnsgn.me/)
 - [Heydon Pickering](https://heydonworks.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)

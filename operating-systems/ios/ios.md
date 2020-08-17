@@ -10,7 +10,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [EVOlution](https://github.com/Evolution-App/iOS) - Unofficial app for Swift Evolution.
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS)
 - [Mast 2](https://github.com/ShihabMe/Mast2) - Mastodon client.
-- [AltStore](https://github.com/rileytestut/AltStore) - Alternative app store for non-jailbroken iOS devices.
+- [AltStore](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. ([Code](https://github.com/rileytestut/AltStore))
 - [mChat](https://github.com/realpaliy/mChat) - Real-time messaging app written in Swift for iOS devices.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
 - [ProtonMail](https://github.com/ProtonMail/ios-mail)
