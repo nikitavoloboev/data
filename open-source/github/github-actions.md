@@ -51,7 +51,7 @@
 - [action-cli](https://github.com/numtide/action-cli) - GitHub actions without JavaScript.
 - [amplify-cli-action](https://github.com/ambientlight/amplify-cli-action) - GitHub action for deploying AWS Amplify project.
 - [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
-- [Safe space](https://github.com/charliegerard/safe-space) - Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces.
+- [Safe space](https://github.com/charliegerard/safe-space) - Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces. ([Article](https://charliegerard.dev/blog/github-action-toxic-comments/))
 
 ## Go
 

@@ -283,6 +283,6 @@
 - [Error recovery with parser combinators (using nom) (2020)](https://www.eyalkalderon.com/nom-error-recovery/)
 - [Comparative unsafety (2020)](https://flak.tedunangst.com/post/comparative-unsafety) ([Lobsters](https://lobste.rs/s/9e7o8e/comparative_unsafety))
 - [Learning Rust: The Compiler is your Friend (2020)](https://ferrous-systems.com/blog/the-compiler-is-your-friend/)
-- [Existential types in Rust (2018)](https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html)
+- [Existential types in Rust (2018)](https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html) ([Lobsters](https://lobste.rs/s/xoyqkm/existential_types_rust))
 - [Ryan Levick - Why should I care about Rust? (2020)](https://www.youtube.com/watch?v=OhCjnyBc448)
 - [Makepad](http://makepad.nl/) - Creative software development platform built around Rust. ([Code](https://github.com/makepad/makepad))
