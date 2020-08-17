@@ -54,3 +54,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Alexis King's talks](https://github.com/lexi-lambda/talks)
 - [Speaking Tips (2020)](https://twitter.com/swyx/status/1276918032971886592)
 - [Notist](https://noti.st/) - Your public speaking portfolio.
+- [List of best talks (2020)](https://twitter.com/ashleymcnamara/status/1278537744352862208)

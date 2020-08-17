@@ -290,6 +290,7 @@
 - [Object Visualizer](https://github.com/iendeavor/object-visualizer) - Visualize the JSON object to the DOM. ([HN](https://news.ycombinator.com/item?id=23860568))
 - [Reach Schema](https://github.com/open-draft/reach-schema) - Functional schema-driven JavaScript object validation library.
 - [@cycle/callbags](https://github.com/cyclejs/callbags) - Set of commonly used stream operators implemented as callbags with Typescript and ES modules.
+- [umbrella](https://github.com/thi-ng/umbrella/) - Broadly scoped ecosystem & mono-repository of ~135 TypeScript projects for functional, data driven development.
 
 ## Links
 

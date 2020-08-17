@@ -50,3 +50,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Defining the ’90s Music Canon (2020)](https://pudding.cool/2020/07/song-decay/) ([HN](https://news.ycombinator.com/item?id=23919786))
 - [Soundslice](https://www.soundslice.com/) - Better music learning experience.
 - [Predicting the Music Mood of a Song with Deep Learning (2020)](https://towardsdatascience.com/predicting-the-music-mood-of-a-song-with-deep-learning-c3ac2b45229e)
+- [Plexamp](https://plexamp.com/) - Beautiful Plex music player for audiophiles, curators, and hipsters.

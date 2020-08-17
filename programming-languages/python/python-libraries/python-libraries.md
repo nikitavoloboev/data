@@ -139,6 +139,7 @@
 - [Invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [Invocations](https://github.com/pyinvoke/invocations) - Reusable Invoke tasks.
 - [Texthero](https://github.com/jbesomi/texthero) - Python toolkit to work with text-based dataset quickly and effortlessly.
+- [Pymanopt](https://www.pymanopt.org/) - Python toolbox for optimization on manifolds, that computes gradients and Hessians automatically.
 
 ## Links
 

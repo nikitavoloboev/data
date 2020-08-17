@@ -32,3 +32,4 @@
 - [How to Become Convincing](https://dcgross.com/how-to-convince-people/) ([HN](https://news.ycombinator.com/item?id=23986571))
 - [On Reviews (2020)](https://boz.com/articles/reviews)
 - [Fire your bad customers (2020)](https://www.preetamnath.com/blog/fire-your-bad-customers) ([HN](https://news.ycombinator.com/item?id=24097420))
+- [Tools of the trade: How I communicate at GitHub (and why) (2020)](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
