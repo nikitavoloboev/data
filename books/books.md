@@ -190,6 +190,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [89 books Paul Graham recommended](https://www.readthistwice.com/person/paul-graham)
 - [Best-Books.dev](https://www.best-books.dev/) - Best programming books, all in one place.
 - [Derek Sivers books read with notes](https://sive.rs/book)
+- [8 Science Fiction Books That Get Programming Right](https://www.tor.com/2020/08/14/8-science-fiction-books-that-get-programming-right/)
 
 ## Notes
 

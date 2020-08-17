@@ -100,7 +100,7 @@
 - [graphql-redis-subscriptions](https://github.com/davidyaha/graphql-redis-subscriptions) - GraphQL subscriptions implementation using Redis and Apollo's GraphQL-subscriptions.
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js.
 - [How and why GraphQL will influence the SourceHut alpha (2020)](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/) ([Lobsters](https://lobste.rs/s/me5emr/how_why_graphql_will_influence_sourcehut)) ([HN](https://news.ycombinator.com/item?id=23485290))
-- [GraphQL Spec](https://spec.graphql.org/June2018/)
+- [GraphQL Spec](https://spec.graphql.org/) ([Code](https://github.com/graphql/graphql-spec))
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - Light and simple utility for adding GraphQL to React components. Ships with an extensible, composable cache invalidation mechanism.
 - [GraphQL directives are underrated (2020)](https://blog.logrocket.com/graphql-directives-are-underrated/)
 - [Genql](https://genql.now.sh/) - Type safe GraphQL query builder. ([Code](https://github.com/remorses/genql))

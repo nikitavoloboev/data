@@ -101,3 +101,4 @@
 - [Debugging Incidents in Google's Distributed Systems (2020)](https://queue.acm.org/detail.cfm?id=3404974) ([HN](https://news.ycombinator.com/item?id=23916104))
 - [Odin](https://github.com/theycallmemac/odin) - Programmable, observable and distributed job orchestration system which allows for the scheduling, management and unattended background execution of user created tasks on Linux based systems. ([HN](https://news.ycombinator.com/item?id=24020566))
 - [Verifying Strong Eventual Consistency in Distributed Systems (2017)](https://arxiv.org/pdf/1707.01747.pdf)
+- [Patterns of Distributed Systems (2020)](https://martinfowler.com/articles/patterns-of-distributed-systems/)

@@ -297,3 +297,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Picking Locks with Audio Technology (2020)](https://cacm.acm.org/news/246744-picking-locks-with-audio-technology/fulltext) ([HN](https://news.ycombinator.com/item?id=24172385))
 - [Opus Audio Codec – FAQ](https://wiki.xiph.org/index.php?title=OpusFAQ) ([HN](https://news.ycombinator.com/item?id=24173285))
 - [Wavey](https://hector.me/wavey) - Set of vibrant wallpapers.
+- [Handmade Community](https://handmade.network/home) - Community for Self-Rolled Performant Software. ([Manifesto](https://handmade.network/manifesto)) ([HN](https://news.ycombinator.com/item?id=24184688))

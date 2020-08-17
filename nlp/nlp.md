@@ -138,3 +138,4 @@
 - [Tempering Expectations for GPT-3 and OpenAI’s API (2020)](https://minimaxir.com/2020/07/gpt3-expectations/)
 - [Philosophers on GPT-3 (2020)](http://dailynous.com/2020/07/30/philosophers-gpt-3/) ([HN](https://news.ycombinator.com/item?id=24003384))
 - [GPT-3 Explorer](https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer) - Power tool for experimenting with GPT-3. ([Code](https://github.com/belay-labs/gpt-explorer))
+- [Recent Advances in Natural Language Processing (2020)](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/) ([HN](https://news.ycombinator.com/item?id=24179795))

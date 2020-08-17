@@ -156,3 +156,4 @@
 - [Structural pattern matching for Python (2020)](https://lwn.net/Articles/827179/)
 - [Python Data model](https://docs.python.org/3/reference/datamodel.html)
 - [Building FunctionTrace, a graphical Python profiler (2020)](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
+- [Python 3.8 Makes me Sad Again (2020)](https://ilya-sher.org/2020/08/16/python-3-8-makes-me-sad-again/) ([Lobsters](https://lobste.rs/s/rgcgjz/python_3_8_makes_me_sad_again)) ([HN](https://news.ycombinator.com/item?id=24176823))

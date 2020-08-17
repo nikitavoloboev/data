@@ -44,3 +44,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [DiscussBot](https://comments.app/) - Add comments to posts in your channel. Or add comments to pages on your website.
 - [Take Notes and Save Links Using Telegram (2020)](https://histre.com/blog/take-notes-with-telegram/)
 - [Telegram Open Code](https://telegram.org/apps#source-code)
+- [Create a Telegram Bot in Python in under 10 minutes (2020)](https://blog.usejournal.com/part-1-how-to-create-a-telegram-bot-in-python-under-10-minutes-145e7f4e6e40)

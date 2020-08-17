@@ -69,3 +69,5 @@
 - [Why the C Language Will Never Stop You from Making Mistakes (2020)](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 - [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html) ([HN](https://news.ycombinator.com/item?id=24139943))
 - [Cyclone](https://cyclone.thelanguage.org/) - Safe dialect of C.
+- [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([HN](https://news.ycombinator.com/item?id=24182441))
+- [C Code Archive Network](http://ccodearchive.net/) ([Code](https://github.com/rustyrussell/ccan))

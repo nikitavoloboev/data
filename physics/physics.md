@@ -112,3 +112,4 @@
 - [Twistors and the Standard Model (2020)](https://www.math.columbia.edu/~woit/wordpress/?p=11899)
 - [Spacetime has 3 space dimensions and 1 time dimension. Why?](https://twitter.com/johncarlosbaez/status/1294317943359016960)
 - [A flutter in time: Quantum mechanics is immune to the butterfly effect (2020)](https://www.economist.com/science-and-technology/2020/08/15/quantum-mechanics-is-immune-to-the-butterfly-effect) ([HN](https://news.ycombinator.com/item?id=24167691))
+- [A brief introduction to observational entropy (2020)](https://arxiv.org/abs/2008.04409)

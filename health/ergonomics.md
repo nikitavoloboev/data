@@ -35,3 +35,4 @@
 - [My Standard Desktop (2020)](https://lucumr.pocoo.org/2020/5/24/my-standard-desktop/)
 - [Your room can be as bright as the outdoors](https://www.benkuhn.net/lux/)
 - [Megadesk](https://www.tindie.com/products/gcormier/megadesk/) - Open-source, drop in controller for the IKEA Bekant standing desk. ([HN](https://news.ycombinator.com/item?id=23676346))
+- [Taking my home work setup seriously (2020)](https://ahelwer.ca/post/2020-08-09-home-ergonomics/) ([Lobsters](https://lobste.rs/s/fvnhyd/taking_my_home_work_setup_seriously))

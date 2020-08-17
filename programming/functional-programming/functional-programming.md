@@ -91,6 +91,7 @@
 - [Learn Functional Programming Design from Redux (2020)](https://pitayan.com/posts/redux-fp-design/) ([HN](https://news.ycombinator.com/item?id=24046631))
 - [Imperative functional programming (1992)](https://www.microsoft.com/en-us/research/wp-content/uploads/1993/01/imperative.pdf)
 - [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire (1991)](https://ris.utwente.nl/ws/portalfiles/portal/6142049/meijer91functional.pdf) ([Web](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.125))
+- [Monads, Explained Without Bullshit (2020)](https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html)
 
 ## Images
 

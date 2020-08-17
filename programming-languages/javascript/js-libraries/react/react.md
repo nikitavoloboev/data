@@ -151,3 +151,4 @@
 - [Opinionated Guide to React](https://opinionatedreact.com/)
 - [UIKit's UIViews in JavaScript, Part 1: Why? (2020)](https://blog.eliangtan.com/view-framework-1/)
 - [Experimental React Single File Components](https://github.com/react-sfc/react-sfc-swyx) ([Tweet](https://twitter.com/swyx/status/1294310598419689472))
+- [Records & Tuples for React, way more than immutability (2020)](https://dev.to/sebastienlorber/records-tuples-for-react-way-more-than-immutability-2iic)

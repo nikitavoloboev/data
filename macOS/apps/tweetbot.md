@@ -38,3 +38,4 @@ I split the app into 2 columns on mac.
 - [On Using Twitter (2020)](https://medium.com/@emilymenonbender/on-using-twitter-84fbd80c8919) ([HN](https://news.ycombinator.com/item?id=24076739))
 - [Twitter Crush](https://woaini.page/) - Find twitter user you admire the most.
 - [Top Tweets Bot](https://toptweetsbot.appspot.com/) - Creates and maintains a collection of your top tweets.
+- [The.Rip](https://the.rip/) - Unroll Twitter threads into markdown. ([Tweet](https://twitter.com/benzguo/status/1294832715049517058))

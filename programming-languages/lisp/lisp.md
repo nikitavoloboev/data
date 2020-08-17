@@ -74,3 +74,4 @@
 - [Embeddable lisp/scheme interpreter written in C](https://github.com/justinmeiners/lisp-interpreter)
 - [Boring Benefits of Lisp (2020)](https://justinmeiners.github.io/boring-benefits-of-lisp/)
 - [Review of Paul Graham's Bel, Chris Granger's Eve, and a Silly VR Rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32) ([HN](https://news.ycombinator.com/item?id=24162703))
+- [Sild](https://github.com/jfo/sild) - Lisp Dialect.

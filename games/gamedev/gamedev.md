@@ -84,3 +84,4 @@
 - [A-Life: An Insight into Ambitious AI (2017)](https://blackshellmedia.com/2017/08/12/a-life-an-insight-into-ambitious-ai/)
 - [Ct.js](https://ctjs.rocks/) Visual Game Editor for Pixi.js. ([HN](https://news.ycombinator.com/item?id=24176655))
 - [High Hat Devlogs](https://www.youtube.com/playlist?list=PL0DiuJldNGZyVFZ9KWu7GymvYMbC-N0C3)
+- [Handmade Hero](https://hero.handmade.network/) - Ongoing project by Casey Muratori to create a complete, professional-quality game accompanied by videos that explain every single line of its source code.

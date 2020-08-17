@@ -77,3 +77,5 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Model H: IBM Keyboard USB Conversion (2020)](https://www.johnhawthorn.com/2020/07/modelh-keyboard-controller/)
 - [I made a mechanical keyboard with 3d-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)
 - [Механические клавиатуры ресурсы](https://mkbd.ru/)
+- [Toward a more useful keyboard](https://github.com/jasonrudolph/keyboard)
+- [Art of Chording](https://www.artofchording.com/) - Teach yourself stenography for free. Use steno with Plover to type faster and more ergonomically than on a keyboard. ([HN](https://news.ycombinator.com/item?id=24182336))

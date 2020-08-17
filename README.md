@@ -18,7 +18,7 @@ This wiki is large. 30000+ lines of markdown large (calculated with [loc](https:
 --------------------------------------------------------------------------------
  Language             Files        Lines        Blank      Comment         Code
 --------------------------------------------------------------------------------
- Markdown               844        35078         5078            0        30000
+ Markdown               850        35000         5000            0        30000
 ```
 
 ## Using the wiki well

@@ -29,6 +29,10 @@
 
 - [Flux3D.jl](https://github.com/nirmal-suthar/Flux3D.jl) - 3D computer vision library in Julia.
 
+## Web
+
+- [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/))
+
 ## Other
 
 - [TimeSeries](https://github.com/JuliaStats/TimeSeries.jl) - Aims to provide a lightweight framework for working with time series data in Julia.

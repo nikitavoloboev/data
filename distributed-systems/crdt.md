@@ -30,3 +30,4 @@
 - [A First Replicating Type (2020)](https://appdecentral.com/2020/07/22/a-first-replicating-type/)
 - [Conflict-Free Replicated Data Types (CRDTs) in Swift (2020)](https://appdecentral.com/2020/07/12/conflict-free-replicated-data-types-crdts-in-swift/)
 - [Local-first software: You Own Your Data, in spite of the Cloud (2019)](https://www.inkandswitch.com/media/local-first/local-first.pdf) ([HN](https://news.ycombinator.com/item?id=24027663))
+- [Are CRDTs suitable for shared editing? (2020)](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)

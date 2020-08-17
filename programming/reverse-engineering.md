@@ -47,3 +47,4 @@
 - [Reverse Engineering Starling Bank (Part I): Obfuscation Techniques (2020)](https://hot3eed.github.io/2020/07/30/starling_p1_obfuscations.html)
 - [Reverse-engineering the adder inside the Intel 8086](http://www.righto.com/2020/08/reverse-engineering-adder-inside-intel.html) ([HN](https://news.ycombinator.com/item?id=24021415))
 - [A reverse engineering challenge: an intricate visual pattern in 39 bytes](https://yurichev.com/news/20200731_visual_RE_challenge/) ([Lobsters](https://lobste.rs/s/nisyhu/reverse_engineering_challenge))
+- [Hiding messages in x86 binaries using semantic duals (2020)](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals) ([Lobsters](https://lobste.rs/s/pd6xcy/hiding_messages_x86_binaries_using))

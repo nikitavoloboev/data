@@ -22,6 +22,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Dig Escape](https://tantandev.itch.io/digescape) - Game written in Rust, compilable to webbassembly. ([Code](https://github.com/TanTanDev/DigEscape))
 - [PiAwk](https://www.hiwarp.com/piawk/)
 - [NAiAD](https://www.hiwarp.com/naiad/)
+- [Pure Skill Minesweeper](https://github.andrewt.net/mines/) ([HN](https://news.ycombinator.com/item?id=24181772))
 
 ## Awesome OSS games
 
@@ -105,3 +106,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Gamework (2020)](https://www.youtube.com/watch?v=FVoOC_RHY2E)
 - [Flash Game History](http://www.flashgamehistory.com/) ([HN](https://news.ycombinator.com/item?id=23922206)) ([Lobsters](https://lobste.rs/s/notzsw/how_flash_games_shaped_video_games))
 - [Analogue](https://www.analogue.co/) - Makes gaming devices.
+- [Factorio and Software Engineering (2020)](https://blog.nindalf.com/posts/factorio-and-software-engineering/) ([HN](https://news.ycombinator.com/item?id=24181783))

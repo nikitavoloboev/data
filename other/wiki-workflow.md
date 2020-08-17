@@ -213,3 +213,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [If you take notes, which note-taking tool do you use? (2020)](https://twitter.com/anthilemoon/status/1291646162919993344)
 - [Building my personal knowledge repository (2020)](https://notes.nickbelzer.me/topics/2020/05/12/building-my-personal-knowledge-repository.html)
 - [An Iterative Approach to Notes (2020)](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29) ([HN](https://news.ycombinator.com/item?id=24108466))
+- [Where is your notebook? (2020)](https://bowero.nl/blog/2020/08/16/where-is-your-notebook/) ([Lobsters](https://lobste.rs/s/lmh8gj/where_is_your_notebook))

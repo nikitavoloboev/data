@@ -110,3 +110,4 @@
 - [Boost C++ Libraries](https://github.com/boostorg/boost)
 - [ELFIO](https://github.com/serge1/ELFIO) - Header-only C++ library intended for reading and generating files in the ELF binary format.
 - [DataFrame](https://github.com/hosseinmoein/DataFrame) - C++ statistical library that provides an interface similar to Pandas package in Python. ([Reddit](https://www.reddit.com/r/cpp/comments/i3i19j/reclaiming_modern_c_as_the_tool_of_data_analysis/))
+- [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct. ([HN](https://news.ycombinator.com/item?id=24182771))

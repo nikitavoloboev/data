@@ -10,7 +10,7 @@
 - [Dissecting Reinforcement Learning: Part 1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 - [Learning Dexterity (2018)](https://blog.openai.com/learning-dexterity/)
 - [Dopamine](https://github.com/google/dopamine) - Research framework for fast prototyping of reinforcement learning algorithms.
-- [Spinning Up in Deep RL](https://github.com/openai/spinningup) - Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL). ([Web](https://spinningup.openai.com/en/latest/))
+- [Spinning Up in Deep RL](https://github.com/openai/spinningup) - Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL). ([Docs](https://spinningup.openai.com/en/latest/)) ([HN](https://news.ycombinator.com/item?id=24184270))
 - [Advanced Deep Learning & Reinforcement Learning Course (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [OpenAI Gym](https://github.com/openai/gym) - Toolkit for developing and comparing reinforcement learning algorithms.
 - [Hands-On Reinforcement Learning With Python book](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
@@ -92,3 +92,4 @@
 - [Tonic](https://github.com/fabiopardo/tonic) - Deep reinforcement learning library.
 - [Model Based Reinforcement Learning Benchmarking Library (MBBL)](https://github.com/WilsonWangTHU/mbbl)
 - [TF-Agents](https://github.com/tensorflow/agents) - Reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
+- [Reinforcement Learning Specialization by University of Alberta](https://www.coursera.org/specializations/reinforcement-learning)

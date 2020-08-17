@@ -94,3 +94,4 @@
 - [Single Page Applications using Rust and WASM (2020)](http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/) ([HN](https://news.ycombinator.com/item?id=24120311)) ([Lobsters](https://lobste.rs/s/1awebn/single_page_applications_using_rust))
 - [Golang Desktop App with Webview/Lorca, WASM and Bazel (2020)](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89) ([HN](https://news.ycombinator.com/item?id=24117758))
 - [Bytecode Alliance RFCs](https://github.com/bytecodealliance/rfcs)
+- [Webassembly Without The Browser (2020)](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html) ([HN](https://news.ycombinator.com/item?id=24180303))
