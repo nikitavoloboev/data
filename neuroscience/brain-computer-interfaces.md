@@ -11,3 +11,4 @@
 - [High-speed microscope captures fleeting brain signals (2020)](https://www.sciencedaily.com/releases/2020/03/200319161523.htm) ([HN](https://news.ycombinator.com/item?id=22712512))
 - [Machine translation of cortical activity to text with encoder–decoder framework](https://www.nature.com/articles/s41593-020-0608-8.epdf) ([HN](https://news.ycombinator.com/item?id=22736449))
 - [Brain Oriented Programming (2020)](https://tobeva.com/articles/brain-oriented-programming/) ([HN](https://news.ycombinator.com/item?id=24165893))
+- [A generative network model of neurodevelopment (2020)](https://www.biorxiv.org/content/10.1101/2020.08.13.249391v1)

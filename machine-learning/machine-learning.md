@@ -274,3 +274,4 @@
 - [Progress, Notes, Summaries and a lot of Questions on Machine Learning](https://github.com/RobertTLange/reading-notes-ml)
 - [SciML](https://sciml.ai/) - Open Source Software for Scientific Machine Learning.
 - [Mihaela Rosca ML notes](https://github.com/mihaelacr/paper-notes)
+- [Compression of Deep Learning Models for Text: A Survey (2020)](https://arxiv.org/abs/2008.05221)

@@ -282,3 +282,4 @@
 - [Frustrated? It's not you, it's Rust (2020)](https://fasterthanli.me/articles/frustrated-its-not-you-its-rust) ([Lobsters](https://lobste.rs/s/kexgcp/frustrated_it_s_not_you_it_s_rust)) ([Reddit](https://www.reddit.com/r/rust/comments/i9sor7/frustrated_its_not_you_its_rust/))
 - [Error recovery with parser combinators (using nom) (2020)](https://www.eyalkalderon.com/nom-error-recovery/)
 - [Comparative unsafety (2020)](https://flak.tedunangst.com/post/comparative-unsafety) ([Lobsters](https://lobste.rs/s/9e7o8e/comparative_unsafety))
+- [Learning Rust: The Compiler is your Friend (2020)](https://ferrous-systems.com/blog/the-compiler-is-your-friend/)

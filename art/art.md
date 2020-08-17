@@ -264,6 +264,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Platon](https://www.instagram.com/platon/)
 - [Most detailed ever photograph of The Night Watch goes online](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online) ([HN](https://news.ycombinator.com/item?id=23151934))
 - [Restricted Areas](http://www.danilatkachenko.com/projects/restricted-areas/)
+- [Håggard Photography](https://www.bewegungsunschaerfe.de/en/torii)
 
 ## Notes
 

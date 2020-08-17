@@ -92,6 +92,7 @@
 - [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - Table view cell class that adds a badge, similar to the badges in Apple's own apps.
 - [FNMNetworkMonitor](https://github.com/Farfetch/network-monitor-ios) - iOS networking framework that can be used to monitor the network of an iOS app.
 - [Texture](https://github.com/texturegroup/texture/) - Smooth asynchronous user interfaces for iOS apps.
+- [Buy Me a Coffee framework for iOS](https://github.com/appcraftstudio/buymeacoffee)
 
 ## macOS
 
