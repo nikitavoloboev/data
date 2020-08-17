@@ -15,6 +15,7 @@
   - repeat until `<body>` is the containers
   - never use absolute widths (px, in, cm, etc.) for anything
 - body tag takes up the whole width and height of the browser screen.
+- [Hex colors are super common... and inconvenient as heck. Try hsl instead.](https://twitter.com/sulco/status/1295336749552537600)
 
 ## Links
 
