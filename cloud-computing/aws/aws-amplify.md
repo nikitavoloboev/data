@@ -12,3 +12,4 @@
 - [Amplify Docs](https://docs.amplify.aws/) ([Code](https://github.com/aws-amplify/docs))
 - [AWS Amplify Docs](https://aws.amazon.com/amplify/)
 - [AWS Amplify Discord](https://discord.com/invite/amplify)
+- [Using Swift Combine with AWS Amplify (2020)](https://aws.amazon.com/blogs/mobile/using-swift-combine-with-aws-amplify/)
