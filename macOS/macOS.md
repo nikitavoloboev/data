@@ -20,6 +20,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - `/usr/local/bin` is a good place to put raw binaries available in the path, that are not installed with Nix.
 - [`defaults write NSGlobalDomain KeyRepeat -int 1` setup keyboard repeat.](https://twitter.com/jordwalke/status/1230582824224165888)
 - [Can select text from middle of link's text by holding down alt while you drag and select with the mouse](https://twitter.com/MBoffin/status/1218668903586394112)
+- [plutil tool support the generation of Swift or Objective-C code directly from plists. For example: plutil -convert swift.](https://twitter.com/dmartincy/status/1295029196503351298)
 
 ## Links
 

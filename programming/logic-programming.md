@@ -7,3 +7,4 @@
 - [Holmes](https://github.com/i-am-tom/holmes) - Reference library for constraint-solving with propagators and CDCL.
 - [Incorrectness Logic (2020)](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf)
 - [Datalog in Haskell](https://github.com/travitch/datalog) - Pure Haskell implementation of Datalog, as a library.
+- ["Constraint Logic Propagation Conflict Spreadsheets" by William Taysom (2015)](https://www.youtube.com/watch?v=voG5-15aDu4)

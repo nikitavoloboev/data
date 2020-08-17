@@ -10,3 +10,4 @@
 - [Static Analysis (2020)](https://nim-lang.org/blog/2020/06/08/static-analysis.html) ([HN](https://news.ycombinator.com/item?id=23465231))
 - [NimConf 2020](https://conf.nim-lang.org/index.html) - Online Nim conference. ([HN](https://news.ycombinator.com/item?id=23585006)) ([Videos](https://www.youtube.com/playlist?list=PLxLdEZg8DRwTIEzUpfaIcBqhsj09mLWHx))
 - [INim](https://github.com/inim-repl/INim) - Interactive Nim Shell.
+- [HN: Nim (2020)](https://news.ycombinator.com/item?id=24178438)

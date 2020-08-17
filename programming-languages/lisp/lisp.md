@@ -73,3 +73,4 @@
 - [Interface Builder's Alternative Lisp timeline (2013)](https://paulhammant.com/2013/03/28/interface-builders-alternative-lisp-timeline/) ([Lobsters](https://lobste.rs/s/qcyzt0/interface_builder_s_alternative_lisp))
 - [Embeddable lisp/scheme interpreter written in C](https://github.com/justinmeiners/lisp-interpreter)
 - [Boring Benefits of Lisp (2020)](https://justinmeiners.github.io/boring-benefits-of-lisp/)
+- [Review of Paul Graham's Bel, Chris Granger's Eve, and a Silly VR Rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32) ([HN](https://news.ycombinator.com/item?id=24162703))

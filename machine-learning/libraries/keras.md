@@ -10,3 +10,4 @@
 - [Keras Examples](https://keras.io/examples/)
 - [Working with preprocessing layers](https://keras.io/guides/preprocessing_layers/)
 - [Keras for Beginners: Implementing a Recurrent Neural Network (2020)](https://victorzhou.com/blog/keras-rnn-tutorial/)
+- [ActivationFunctions using Custom Layers in Keras](https://github.com/Agrover112/ActivationFunctions)

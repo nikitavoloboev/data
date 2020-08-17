@@ -226,3 +226,4 @@
 - [Systemic Software Debugging](https://systemicsoftwaredebugging.com/)
 - [Aspect-oriented programming](https://patents.google.com/patent/US6467086B1/en) ([JS library implementation](https://github.com/mgechev/aspect.js)) ([Paper](https://www.cs.ubc.ca/~gregor/papers/kiczales-ECOOP1997-AOP.pdf))
 - [Rob Pike's Rules of Programming (1989)](http://users.ece.utexas.edu/~adnan/pike.html) ([HN](https://news.ycombinator.com/item?id=24135189))
+- [How we use "ship small" to rapidly build new features at GitHub (2020)](https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9)
