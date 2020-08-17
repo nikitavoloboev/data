@@ -24,7 +24,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190))
 - [Lime Text](https://github.com/limetext/lime) - Powerful and elegant text editor primarily developed in Go.
 - [Geany](https://www.geany.org/) - Fast and lightweight IDE. ([Code](https://github.com/geany/geany)) ([HN](https://news.ycombinator.com/item?id=23524336))
-- [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/))
+- [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/)) ([Lobsters](https://lobste.rs/s/zkupa1/xi_editor))
 - [Xi Editor macOS](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
 - [Kiro](https://github.com/rhysd/kiro-editor) - Terminal UTF-8 text editor written in Rust.
 - [TextMate](https://github.com/textmate/textmate) - Graphical text editor for macOS 10.12 or later. ([Web](https://macromates.com/))

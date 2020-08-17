@@ -38,3 +38,6 @@
 - [Elixir School](https://elixirschool.com/en)
 - [Elixir RAM and the Template of Doom (2016)](https://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
 - [The BEAM has Spoiled Me (2020)](https://gvaughn.github.io/2020/08/08/beam_spoiled_me.html) ([HN](https://news.ycombinator.com/item?id=24172336))
+- [Parse, don't validate — Elixir edition (2020)](https://well-ironed.com/articles/parse-dont-validate-elixir-edition/)
+- [A More Type-Driven Elixir Workflow? Maybe (2019)](https://well-ironed.com/articles/a-more-type-driven-elixir-workflow-maybe/)
+- [The Virtue of Busy Waiting (2019)](https://well-ironed.com/articles/the-virtue-of-busy-waiting/)
