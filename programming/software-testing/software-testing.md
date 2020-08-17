@@ -3,6 +3,7 @@
 ## Notes
 
 - [My advice is never to start with unit tests. Start with integration tests and work your way backwards until it stops being worth your time.](https://twitter.com/buildsghost/status/1274240189485862912)
+- [I use TDD when the problem and desired API are both clearly defined. A lot of front-end work is more exploratory in nature, which can make writing tests up front quite challenging. Often (and perhaps even ideally), the desired UI and interactions aren't really set in stone.](https://twitter.com/andrewingram/status/1295335435900727297)
 
 ## Links
 
@@ -44,3 +45,4 @@
 - [Implementing mutation testing in a niche language with Stryker (2020)](https://medium.com/att-israel/mutants-against-bugs-87f77a95aad)
 - [BrowserStack](https://www.browserstack.com/) - App & Browser Testing Made Easy.
 - [Karate](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. ([HN](https://news.ycombinator.com/item?id=24176433))
+- [Thoughts on TDD (2020)](https://twitter.com/tlakomy/status/1295331095181918209)
