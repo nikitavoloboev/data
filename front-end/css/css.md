@@ -196,3 +196,4 @@
 - [How I Structure My CSS (for Now) (2020)](https://matthiasott.com/notes/how-i-structure-my-css)
 - [Gradient Magic](https://www.gradientmagic.com/) - Fantastic and Unique CSS Gradients.
 - [CSS Weekly](https://css-weekly.com/)
+- [A Lightweight Masonry Solution (2020)](https://css-tricks.com/a-lightweight-masonry-solution/) ([CodePen](https://codepen.io/collection/DYRJxR))

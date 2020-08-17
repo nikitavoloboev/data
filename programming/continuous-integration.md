@@ -15,3 +15,4 @@
 - [Netlify Build Plugins](https://github.com/netlify/plugins)
 - [GitOps Engine](https://github.com/argoproj/gitops-engine) - Reusable library that implements core GitOps features.
 - [Automating safe, hands-off deployments (2020)](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
+- [Buildkite](https://buildkite.com/) - Platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure.
