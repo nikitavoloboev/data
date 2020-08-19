@@ -24,3 +24,4 @@
 - [A beginner’s guide to robot programming with Python (2020)](https://thenextweb.com/syndication/2020/07/11/a-beginners-guide-to-robot-programming-with-python/)
 - [Sergey Levine's research](http://people.eecs.berkeley.edu/~svlevine/)
 - [S-RL Toolbox](https://github.com/araffin/robotics-rl-srl) - Reinforcement Learning (RL) and State Representation Learning (SRL) for Robotics.
+- [Open problems in Robotics (2020)](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/) ([HN](https://news.ycombinator.com/item?id=24207424))

@@ -101,6 +101,7 @@
 - [TypeDoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects. ([Web](https://typedoc.org/))
 - [Advanced TypeScript Types cheat sheet (with examples) (2020)](https://dev.to/ibrahima92/advanced-typescript-types-cheat-sheet-with-examples-5414)
 - [TypeScript interactive course](https://www.executeprogram.com/courses/typescript)
+- [ts-migrate](https://github.com/airbnb/ts-migrate) - Tool to automatically migrate JavaScript projects to TS. ([HN](https://news.ycombinator.com/item?id=24204718))
 
 ## Images
 
