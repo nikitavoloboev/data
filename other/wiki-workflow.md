@@ -67,7 +67,6 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Tom Critchlow](https://tomcritchlow.com/wiki/)
 - [panthema.net](http://bingmann.github.io/) - Diverse collection of interesting ideas.
 - [Buster Benson](https://busterbenson.com/piles/)
-- [Nick Belzer](https://wiki.nickbelzer.me/)
 - [Burke Libbey's notes](https://notes.burke.libbey.me/)
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
