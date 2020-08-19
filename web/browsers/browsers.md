@@ -61,3 +61,5 @@
 - [Ampie](https://ampie.app/) - Social navigator for the web. Helps you find interesting links, and find what people had to say about them. ([Tweet](https://twitter.com/posobin/status/1283111738154668032))
 - [Browserslist](https://browserslist.dev/) - Website to display compatible browsers from browserslist string. ([Code](https://github.com/PSPDFKit-labs/browserslist.dev))
 - [Kosmonaut](https://github.com/twilco/kosmonaut) - Web browser from scratch in Rust. ([HN](https://news.ycombinator.com/item?id=24170201))
+- [Replay](https://replay.io/) - Record and replay web applications.
+- [theheadless.dev](https://theheadless.dev/) - Learn Puppeteer & Playwright. ([HN](https://news.ycombinator.com/item?id=24209073)) ([Code](https://github.com/checkly/theheadless.dev))

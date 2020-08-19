@@ -1,5 +1,9 @@
 # Embedded systems
 
+## Interesting chips
+
+- [ESP32](https://en.wikipedia.org/wiki/ESP32)
+
 ## Links
 
 - [Discovery](https://github.com/rust-embedded/discovery) - Discover the world of microcontrollers through Rust.
@@ -55,3 +59,4 @@
 - [probe-run, run embedded Rust apps like native apps (2020)](https://ferrous-systems.com/blog/probe-run/)
 - [Step-through debugging with no debugger on Cortex-M (2020)](https://interrupt.memfault.com/blog/cortex-m-debug-monitor)
 - [Target atsamd microcontrollers using Rust](https://github.com/atsamd-rs/atsamd)
+- [ClojureScript on ESP32? Why not! (2020)](https://blog.tindie.com/2020/07/clojurescript-on-esp32-why-not/)

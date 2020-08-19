@@ -122,3 +122,5 @@
 - [GraphQL Enterprise Connect 2020](https://www.youtube.com/watch?v=GaPspp4QSew)
 - [Deriving A Data Model From A Design With GraphQL (2020)](https://andrewingram.net/posts/deriving-a-data-model-from-a-design-with-graphql/)
 - [Demystifying GraphQL Connections (2020)](https://andrewingram.net/posts/demystifying-graphql-connections/)
+- [Apollo Client & Client-side Architecture Basics (2020)](https://www.apollographql.com/blog/apollo-client-client-side-architecture-basics/)
+- [Testing GraphQL Backend in Product Hunt (2020)](https://blog.rstankov.com/testing-graphql-backend-in-product-hunt/)

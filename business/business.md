@@ -44,3 +44,4 @@ Learning to build [startups](startups/startups.md).
 - [XOLO](https://www.xolo.io/) - Forget any worries about your solo business setup, accounting and getting a bank account. We do it for you, 100% online.
 - [Most Interesting Business Essay You’ve Read? (2020)](https://kscarrott.com/biz-essays/)
 - [Fire & Fawning (2020)](https://www.profgalloway.com/fire-fawning)
+- [Ask HN: Is a SaaS provider expected to have a trademark in every country? (2020)](https://news.ycombinator.com/item?id=24195375)

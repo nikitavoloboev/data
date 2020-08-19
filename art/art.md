@@ -92,6 +92,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Josh James](https://www.artstation.com/stokens)
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
 - [James Jean](https://www.artsy.net/artist/james-jean)
+- [Miguel Membreno](https://www.artstation.com/miguelmembre)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Elvin Aliyev](https://www.behance.net/surferdude)
@@ -265,6 +266,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Most detailed ever photograph of The Night Watch goes online](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online) ([HN](https://news.ycombinator.com/item?id=23151934))
 - [Restricted Areas](http://www.danilatkachenko.com/projects/restricted-areas/)
 - [Håggard Photography](https://www.bewegungsunschaerfe.de/en/torii)
+- [Favorite photo shots](https://twitter.com/MeredithFrost/status/1296042373370318848)
 
 ## Notes
 
@@ -300,3 +302,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [1 Second Painting](https://1secondpainting.com/) - Generate abstract paintings in one click. ([HN](https://news.ycombinator.com/item?id=23919590))
 - [Aesthetica Magazine](https://aestheticamagazine.com/) - The Art & Culture Magazine.
 - [GUIs Through Art History](https://hyperlink.academy/courses/guis-through-art-history/2) - Explore new styles of interface design inspired by art history movements.
+- [TASCHEN Books](https://www.taschen.com/) - Publisher of books on art, architecture, design and photography.

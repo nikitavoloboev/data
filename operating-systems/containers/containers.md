@@ -43,3 +43,4 @@
 - [LXD – next generation system container manager release 4.3 (2020)](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303) ([HN](https://news.ycombinator.com/item?id=23828920))
 - [AWS Containers Roadmap](https://github.com/aws/containers-roadmap)
 - [Nestybox](https://www.nestybox.com/) - Run Docker and Kubernetes in Containers. ([HN](https://news.ycombinator.com/item?id=24084758))
+- [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers.

@@ -223,7 +223,7 @@
 - [A Spacetime Approach to Generalized Cognitive Reasoning in Multi-scale Learning (2017)](https://arxiv.org/abs/1702.04638)
 - [Open Source Deep Learning Glossary](https://github.com/jrdi/dl-glossary)
 - [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Collection of important graph embedding, classification and representation learning papers with implementations.
-- [fastAI v2 course](https://dev.fast.ai/) ([Code](https://github.com/fastai/fastai2))
+- [fastAI course](https://dev.fast.ai/) ([Code](https://github.com/fastai/fastai))
 - [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 - [Deep learning with graph-structured representations (2020)](https://pure.uva.nl/ws/files/46900201/Thesis.pdf)
 - [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) ([Web](https://trekhleb.github.io/machine-learning-experiments/#/))

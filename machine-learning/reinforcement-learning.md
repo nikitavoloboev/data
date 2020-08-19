@@ -95,3 +95,4 @@
 - [Reinforcement Learning Specialization by University of Alberta](https://www.coursera.org/specializations/reinforcement-learning)
 - [Optax](https://github.com/deepmind/optax) - Gradient processing and optimization library for JAX.
 - [Chex](https://github.com/deepmind/chex) - Library of utilities for helping to write reliable JAX code.
+- [Reinforcement Learning for Combinatorial Optimization: A Survey (2020)](https://arxiv.org/abs/2003.03600)

@@ -57,3 +57,4 @@
 - [Collection of delicious docker recipes](https://github.com/vimagick/dockerfiles)
 - [Gocker: Docker implemented in 1.3k lines of Go (2020)](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/) ([HN](https://news.ycombinator.com/item?id=23558853))
 - [Docker CLI plugin for Amazon ECS](https://github.com/docker/ecs-plugin) ([Article](https://www.infoq.com/news/2020/07/docker-ecs-plugin/)) ([HN](https://news.ycombinator.com/item?id=23962120))
+- [Docker-type runtime, written in 100% Python](https://github.com/tonybaloney/mocker)

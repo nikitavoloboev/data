@@ -86,3 +86,4 @@
 - [HN: Spotify CEO: musicians can no longer release music only “once every 3-4 years” (2020)](https://news.ycombinator.com/item?id=24010152)
 - [Making AI Musicians (2017)](https://www.youtube.com/watch?v=lfttRvrYHn0)
 - [Audio From Scratch With Go: Extracting Breakpoints (2020)](https://dylanmeeus.github.io/posts/audio-from-scratch-pt7/)
+- [Ask HN: How to Become a Music Buff? (2020)](https://news.ycombinator.com/item?id=24209025)

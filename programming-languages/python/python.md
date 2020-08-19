@@ -158,3 +158,6 @@
 - [Building FunctionTrace, a graphical Python profiler (2020)](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
 - [Python 3.8 Makes me Sad Again (2020)](https://ilya-sher.org/2020/08/16/python-3-8-makes-me-sad-again/) ([Lobsters](https://lobste.rs/s/rgcgjz/python_3_8_makes_me_sad_again)) ([HN](https://news.ycombinator.com/item?id=24176823))
 - [The Consortium for Python Data API Standards (2020)](https://data-apis.org/blog/announcing_the_consortium/) ([HN](https://news.ycombinator.com/item?id=24205363))
+- [Write a Python to C compiler in Python (2020)](https://notes.eatonphil.com/writing-a-simple-python-compiler.html)
+- [Writing Python Extensions in Assembly (2020)](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
+- [CPython Internals Book](https://realpython.com/products/cpython-internals-book/) ([Code](https://github.com/tonybaloney/cpython-book-samples))

@@ -24,3 +24,4 @@
 - [Introducing the GoLD Stack: Go + Lambda + DynamoDB (2020)](https://dev.to/prozz/introduction-to-the-gold-stack-5b66)
 - [Modeling Graph Relationships in DynamoDB (2020)](https://medium.com/developing-koan/modeling-graph-relationships-in-dynamodb-c06141612a70)
 - [Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (2018)](https://www.youtube.com/watch?v=HaEPXoXVf2k) ([Notes on NoSQL patterns](https://github.com/dideler/notes/blob/master/nosql-patterns.md))
+- [How to understand DynamoDB](https://consulting.0x4447.com/articles/how_to/how-to-understand-dynamodb.html)

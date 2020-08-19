@@ -2,11 +2,14 @@
 
 ## Examples of nice docs
 
+- [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))
+- [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page.
 - [TSDX](https://tsdx.io)
 - [Parcel 2 docs](https://v2.parceljs.org/) ([Code](https://github.com/parcel-bundler/website))
 - [Shields.io readme](https://github.com/badges/shields) - Clear instructions on how to start working on the project, contributing guidelines pointing to a tutorial, coding guidelines and even a high-level code walkthrough.
 - [inDinero Help Center in Notion](https://support.indinero.com/inDinero-Help-Center-465343520bbe4af19f3b0144b70a1192) - Easy example of doing help/docs for company in Notion.
 - [Formik Docs](https://formik.org/blog/new-docs) - NextJS + Notion + TailwindCSS + AlgoliaSearch.
+- [Monzo](https://docs.monzo.com/#introduction)
 
 ## Notes
 

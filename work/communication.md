@@ -1,5 +1,9 @@
 # Communication
 
+## Notes
+
+- [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)
+
 ## Links
 
 - [HN: Help me ask why you didn't just](https://news.ycombinator.com/item?id=21675717) ([Great comment](https://news.ycombinator.com/item?id=21691168))

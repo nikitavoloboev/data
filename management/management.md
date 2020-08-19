@@ -42,3 +42,4 @@
 - [Book Review: High Output Management by Andy Grove (2020)](https://multitasked.net/2020/08/01/book-review-high.html)
 - [Good managers, what they do, how they think & act (2020)](https://twitter.com/shreyas/status/1290685921348562948)
 - [12 Powerful Performance Review Examples (+ Expert Tips)](https://venngage.com/blog/performance-review-examples/)
+- [How to Operate (2020)](https://twitter.com/george__mack/status/1295079345732673540) - Keith Rabois Breaks down operational excellence.

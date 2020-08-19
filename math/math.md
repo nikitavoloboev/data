@@ -184,3 +184,4 @@
 - [What is the difference between a theorem, a lemma, and a corollary? (2008)](https://divisbyzero.com/2008/09/22/what-is-the-difference-between-a-theorem-a-lemma-and-a-corollary/)
 - [Formalising Undergraduate Mathematics (2020)](https://www.youtube.com/watch?v=FDx0nXFQloE) ([Slides](http://wwwf.imperial.ac.uk/~buzzard/one_off_lectures/ug_maths.pdf)) ([Tweet](https://twitter.com/XenaProject/status/1292939583290736651))
 - [Explanation of monad (2020)](https://twitter.com/johncarlosbaez/status/1294697378755174400)
+- [Compendium of Mathematical Symbols (2020)](https://mathvault.ca/hub/higher-math/math-symbols/)

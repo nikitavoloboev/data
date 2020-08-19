@@ -192,6 +192,8 @@
 - [10 Tips for Startup Founders (2020)](https://medium.com/@sophiaedm/10-tips-for-startup-founders-d6ed1c1a2d94)
 - [How to turn an important spreadsheet into a SaaS business (2020)](https://twitter.com/Tawheed/status/1294095453680795648)
 - [Top company flywheels](https://twitter.com/lennysan/status/1295743085243060224)
+- [How Uber grew so quickly (2020)](https://twitter.com/sgorlick/status/1295398477644664832)
+- [How to think about building a business from things like dev tools or OSS projects](https://twitter.com/jasoncwarner/status/1294641696257585152)
 
 ## Images
 

@@ -214,3 +214,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [An Iterative Approach to Notes (2020)](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29) ([HN](https://news.ycombinator.com/item?id=24108466))
 - [Where is your notebook? (2020)](https://bowero.nl/blog/2020/08/16/where-is-your-notebook/) ([Lobsters](https://lobste.rs/s/lmh8gj/where_is_your_notebook))
 - [Archivy](https://github.com/Uzay-G/archivy) - Self Hosted Knowledge Base embedded into your filesystem. ([HN](https://news.ycombinator.com/item?id=24199419))
+- [How to choose the right note-taking app (2020)](https://nesslabs.com/how-to-choose-the-right-note-taking-app) ([Tweet](https://twitter.com/anthilemoon/status/1296047396976316416))
+- [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base (2020)](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base) ([HN](https://news.ycombinator.com/item?id=24206727))

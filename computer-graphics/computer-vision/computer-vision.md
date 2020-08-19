@@ -96,3 +96,4 @@
 - [Supervised 3D Mesh Reconstruction (2020)](https://nextjournal.com/nirmal-suthar/supervised-3d-mesh-reconstruction)
 - [NeRF in the Wild](https://nerf-w.github.io/) - Neural Radiance Fields for Unconstrained Photo Collections.
 - [NASA: Neural Articulated Shape Approximation (2020)](https://arxiv.org/abs/1912.03207)
+- [An Overview of Deep Learning Architectures in Few-Shot Learning Domain (2020)](https://arxiv.org/abs/2008.06365v2)
