@@ -111,6 +111,7 @@
 - [SWR + Firestore](https://github.com/nandorojo/swr-firestore) - Implement Vercel's useSWR for querying Firestore in React/React Native/Expo apps.
 - [react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - Splittable, draggable, collapsible panel layout library.
 - [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
+- [Formik](https://github.com/formium/formik) - Build forms in React, without the tears. ([Formik vs Plain React for Forms – Worth it?](https://www.bitnative.com/2020/08/19/formik-vs-plain-react-for-forms-worth-it/))
 
 ## Links
 

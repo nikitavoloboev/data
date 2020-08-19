@@ -305,3 +305,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html) ([HN](https://news.ycombinator.com/item?id=24184414))
 - [Diversify Tech](https://www.diversifytech.co/) - Collection of resources for underrepresented people in tech.
 - [Tildes](https://gitlab.com/tildes/tildes) - Non-profit community site. ([Web](https://tildes.net/))
+- [Jam](https://jam.dev/) - Comment and react directly on the pages of your product.
