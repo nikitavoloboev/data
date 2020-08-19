@@ -1,5 +1,9 @@
 # Microservices
 
+## Notes
+
+- [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)
+
 ## Links
 
 - [What are Microservices? (2019)](https://www.netlify.com/blog/2019/11/18/what-are-microservices/)
