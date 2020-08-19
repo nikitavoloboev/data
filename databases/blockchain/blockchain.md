@@ -76,3 +76,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/))
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - Framework for building blockchain applications in Golang.
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - Library for secure smart contract development.
+- [A Philosophy of Blockchain Validation (2020)](https://vitalik.ca/general/2020/08/17/philosophy.html)

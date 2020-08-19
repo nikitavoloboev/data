@@ -55,7 +55,7 @@
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful and performance-focused pure css loading animations.
 - [Artem Sapegin: Custom CSS is the Path to Inconsistent UI (2018)](https://www.youtube.com/watch?v=t5VTLwAias8)
 - [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) ([Code](https://github.com/mixu/cssbook))
-- [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects.
+- [CSSFX](https://cssfx.netlify.app/) - Beautifully simple click-to-copy CSS effects. ([Code](https://github.com/jolaleye/cssfx))
 - [CSS Working Group Wiki](https://wiki.csswg.org/)
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)

@@ -302,3 +302,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Juanito Fatas's Fragments](https://juanitofatas.com/fragments)
 - [SoftwareIdeas](https://www.softwareideas.io/) - Hand-picked, validated SaaS ideas delivered straight to your inbox.
 - [The Map of Control Theory](https://www.redbubble.com/shop/ap/55089837)
+- [An Ecology of Mind](http://www.anecologyofmind.com/thefilm.html) ([HN](https://news.ycombinator.com/item?id=24184414))
+- [Diversify Tech](https://www.diversifytech.co/) - Collection of resources for underrepresented people in tech.
+- [Tildes](https://gitlab.com/tildes/tildes) - Non-profit community site. ([Web](https://tildes.net/))

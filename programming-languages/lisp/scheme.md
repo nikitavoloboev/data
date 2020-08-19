@@ -20,3 +20,4 @@
 - [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/) ([Lobsters](https://lobste.rs/s/ao7qpz/evolution_scheme_programmer))
 - [Awesome Scheme](https://github.com/schemedoc/awesome-scheme)
 - [A New R6RS Scheme Compiler (2019)](https://weinholt.se/articles/new-r6rs-compiler/) ([Lobsters](https://lobste.rs/s/6gbneg/new_r6rs_scheme_compiler))
+- [STklos](https://stklos.net/index.html) - Free Scheme system mostly compliant with the languages features defined in R7RS small.

@@ -64,6 +64,10 @@
 
 - [Dasshbit](https://dashbit.co/) - Help startups and enterprises adopt and run Elixir in production.
 
+## Haskell
+
+- [Kowainik](https://kowainik.github.io/)
+
 ## NixOS
 
 - [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016.
@@ -102,6 +106,7 @@
 - [Skcript](https://www.skcript.com/)
 - [Autogram](https://autogram.is/) - Content management and design systems experts.
 - [Echobind](https://echobind.com/)
+- [This Dot Labs](https://labs.thisdot.co/)
 
 ## Links
 

@@ -16,10 +16,17 @@
 - Haskell's type system lets you express a lot of domain specific invariants and logic in a statically verifiable manner.
 - Go is as type safe as haskell, the language doesn't allow invalid operations on data types. What people mean with "weak" is often expressivity. Go's enums sucks and it doesn't have ADTs or generic.
   - When people talk about strong type system, they usually just mean expressivity, not safety.
+- [Basic ideas that Haskell encourages](https://www.reddit.com/r/haskell/comments/ibys0m/how_did_haskell_boost_your_productivity_or_change/)
+  1. Purity
+  2. Well typed programs
+  3. Separation of IO and logic
+  4. Immutability
+  5. Data is "transformed" using functions and function compositions
 
 ## Links
 
 - [Haskell Programming Book](https://haskellbook.com/)
+- [Learn Haskell Path](https://github.com/bitemyapp/learnhaskell)
 - [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types)
 - [How I Learned to Stop Worrying and Love the Type System](http://reasonablypolymorphic.com/blog/love-types/)
 - [Simon Peyton Jones - Closer to Nirvana](https://www.youtube.com/watch?v=xmjvOLlCdFU)
@@ -105,7 +112,7 @@
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - Bare-bones Twitter clone implemented in a single file of Haskell deployed with Nix. ([HN](https://news.ycombinator.com/item?id=21599546)) ([Slides](https://github.com/Gabriel439/slides/blob/master/simple-twitter/slides.md))
 - [Boring Haskell Manifesto (2019)](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)
 - [HaskellR](https://github.com/tweag/HaskellR) - Full power of R in Haskell.
-- [A List of Haskell Articles on good design, good testing](https://www.onikudaki.net/blog/wp-content/uploads/2019/12/HaskellArticles-1.pdf)
+- [A list of Haskell articles on good design, good testing (2019)](https://williamyaoh.com/posts/2019-11-24-design-and-testing-articles.html) ([PDF](https://github.com/oswald2/haskell_articles/blob/master/HaskellArticles_1_6.pdf))
 - [Is Haskell the functional end station or are there heavier drugs? (2019)](https://www.reddit.com/r/haskell/comments/e021oe/is_haskell_the_functional_end_station_or_are/)
 - [Dependently Typed Haskell in Industry (Experience Report) (2019)](https://www.youtube.com/watch?v=Q6PKdRDKcKA)
 - [Write Junior Code - A plea to Haskellers everywhere (2019)](https://www.parsonsmatt.org/2019/12/26/write_junior_code.html) ([Lobsters](https://lobste.rs/s/gdwjpc/plea_haskellers_everywhere_write_junior))
@@ -174,3 +181,4 @@
 - [Haskel / Nix / hie / Stack template](https://github.com/Cmdv/haskell-nix-hie-template)
 - [ruHaskell](https://ruhaskell.org/) - Russian Haskell community.
 - [Let’s write a Haskell Language Server plugin](https://github.com/pepeiborra/hls-tutorial)
+- [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) ([Reddit](https://www.reddit.com/r/haskell/comments/ib9fe0/blog_post_haskell_minipatterns_handbook/))

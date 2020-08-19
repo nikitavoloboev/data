@@ -15,6 +15,7 @@
 - [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
 - [Vault Docs](https://github.com/hashicorp/vault/tree/master/website) ([Web](https://www.vaultproject.io/))
 - [MDNEXT](https://github.com/domitriusclark/mdnext) - Opinionated starter for your MDX + Next.js needs.
+- [Egghead new NextJS front end](https://github.com/eggheadio/egghead-io-nextjs)
 
 ## NextJS plugins
 
@@ -98,3 +99,4 @@
 - [Next.js 9.5](https://nextjs.org/blog/next-9-5) ([HN](https://news.ycombinator.com/item?id=23966936))
 - [Minimum Viable SaaS](https://github.com/jaredpalmer/minimum-viable-saas) - Feature-complete membership app in less than ~400 lines of code.
 - [Bison](https://github.com/echobind/bisonapp) - Full Stack JAMstack in-a-box.
+- [Authentication Patterns for Next.js (2020)](https://leerob.io/blog/nextjs-authentication)

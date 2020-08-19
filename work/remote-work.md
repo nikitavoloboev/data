@@ -65,3 +65,4 @@
 - [Remote Workers](https://remoteworkers.dev/) - Hire from a global talent pool of remote workers.
 - [Ask HN: Newly Remote Workers – Where Are You Moving? (2020)](https://news.ycombinator.com/item?id=24152096)
 - [Remote work predictions (2020)](https://twitter.com/chris_herd/status/1294590291761037312)
+- [Ask HN: How do you switch off from work, particularly when WFH? (2020)](https://news.ycombinator.com/item?id=24196433)

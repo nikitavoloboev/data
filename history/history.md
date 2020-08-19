@@ -52,3 +52,5 @@
 - [Stories and lessons from working with Jeff Bezos on the original Kindle](https://twitter.com/drose_999/status/1287944667414196225) ([HN](https://news.ycombinator.com/item?id=24026270))
 - [Computer History Timeline](https://history-computer.com/)
 - [Everyday Technology: Machines and the Making of India's Modernity](https://bookshop.org/books/everyday-technology-machines-and-the-making-of-india-s-modernity/9780226269375)
+- [A \$10B Experimental City Nearly Got Built in Rural Minnesota (2018)](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/) ([HN](https://news.ycombinator.com/item?id=24184470))
+- [History of opposition to the civil rights movement](https://twitter.com/GKBesterfriend/status/1295428171198685184)

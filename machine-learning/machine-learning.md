@@ -275,3 +275,4 @@
 - [SciML](https://sciml.ai/) - Open Source Software for Scientific Machine Learning.
 - [Mihaela Rosca ML notes](https://github.com/mihaelacr/paper-notes)
 - [Compression of Deep Learning Models for Text: A Survey (2020)](https://arxiv.org/abs/2008.05221)
+- [The Computational Limits of Deep Learning (2020)](https://arxiv.org/abs/2007.05558) ([HN](https://news.ycombinator.com/item?id=24192117))

@@ -36,6 +36,8 @@
 - [Izumi](https://github.com/7mind/izumi) - Ecosystem of independent libraries and frameworks allowing you to significantly increase productivity of your Scala development.
 - [Odin](https://github.com/valskalla/odin) - Fast & Functional logger in Scala.
 - [Monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
+- [Coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching.
+- [almond](https://github.com/almond-sh/almond) - Scala kernel for Jupyter. ([Web](https://almond.sh/))
 
 ## Links
 

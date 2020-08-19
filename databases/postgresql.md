@@ -128,3 +128,5 @@
 - [Postgres Execution Plans - Field Glossary (2019)](https://www.pgmustard.com/blog/2019/9/17/postgres-execution-plans-field-glossary)
 - [Recursive queries in PostgreSQL (2020)](https://www.cybertec-postgresql.com/en/recursive-queries-postgresql/) ([HN](https://news.ycombinator.com/item?id=24184070))
 - [Cloud-Native PostgreSQL on Kubernetes (2020)](https://www.youtube.com/watch?v=MTyY_qjOpXA) ([Slides](https://speakerdeck.com/ongres/stackgres-cloud-native-postgresql-on-kubernetes))
+- [Quickly debugging Postgres problems (2020)](https://klotzandrew.com/blog/quickly-debugging-postgres-problems)
+- [pg-jump](https://github.com/twooster/pg-jump) - Postgres jumphost with query audit-logging.

@@ -34,3 +34,4 @@
 - [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)
 - [TimelaneCombineX](https://github.com/Sixt/TimelaneCombineX) - Timelane + CombineX.
 - [Custom Instrument based on Timelane](https://github.com/icanzilb/CustomInstrument)
+- [Fun with Apple’s Combine framework (2020)](https://twitter.com/johnsundell/status/1295685964380151810)

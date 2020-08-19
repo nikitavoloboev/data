@@ -30,3 +30,5 @@
 - [Is NonLinear Algebra a thing? (2020)](https://www.reddit.com/r/math/comments/hac0bt/is_nonlinear_algebra_a_thing/)
 - [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/questions/2811951/why-is-it-important-for-a-matrix-to-be-square/2811960#2811960) ([HN](https://news.ycombinator.com/item?id=23591553))
 - [Interactive Visualization of Why Eigenvectors Matter (2020)](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net/) ([HN](https://news.ycombinator.com/item?id=24196080))
+- [Vector Matrix Vector Queries for Solving Linear Algebra, Statistics, and Graph Problems (2020)](https://www.youtube.com/watch?v=NVOE1KFNZDo)

@@ -31,3 +31,4 @@
 - [Strategies for Binary Relocation In Functional Build Systems (2020)](https://maxmcd.com/posts/strategies-for-binary-relocation/) ([Lobsters](https://lobste.rs/s/2lnncd/strategies_for_binary_relocation))
 - [Reproducible Telegram Builds for iOS and Android](https://core.telegram.org/reproducible-builds)
 - [Faster Builds with Code Signing Hacks (2020)](https://eisel.me/jekyll/update/2020/08/07/signing.html)
+- [Allowing CMake functions to return(value) (2020)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)

@@ -34,3 +34,5 @@ Is logical theory of computable functions.
 - [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations)
 - [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus)
 - [Finite Vector Spaces as Model of Simply-Typed Lambda-Calculi](https://www.cis.upenn.edu/~stevez/papers/VZ14.pdf)
+- [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus) ([HN](https://news.ycombinator.com/item?id=24193313))
+- [Lambda Zoo](https://github.com/ak3n/abt-zoo) - Implementations of different lambda calculi with abstract binding trees.

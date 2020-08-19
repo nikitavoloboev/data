@@ -14,3 +14,4 @@
 - [Qhull](http://www.qhull.org/) - Computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi diagram. ([Code](https://github.com/qhull/qhull))
 - [Non-Euclidean Geometry Explained (2020)](https://www.youtube.com/watch?v=zQo_S3yNa2w)
 - [What does this prove? Some of the most gorgeous visual "shrink" proofs ever invented (2020)](https://www.youtube.com/watch?v=sDfzCIWpS7Q)
+- [Impossible shapes library](https://im-possible.info/english/library/index.html)

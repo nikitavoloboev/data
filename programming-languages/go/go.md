@@ -213,7 +213,7 @@ Go promotes composition over inheritance.
 - [Why are my Go executable files so large?](https://dr-knz.net/go-executable-size-visualization-with-d3.html) - Size visualization of Go executables using D3.
 - [Testing in Go: Clean Tests Using t.Cleanup (2020)](https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/)
 - [Go Up](https://github.com/rvflash/goup) - Checks if there are any updates for imports in your module.
-- [I want off Mr. Golang's Wild Ride (2020)](https://news.ycombinator.com/item?id=22443363) ([HN](https://news.ycombinator.com/item?id=22443363))
+- [I want off Mr. Golang's Wild Ride (2020)](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride) ([HN](https://news.ycombinator.com/item?id=22443363)) ([Lobsters](https://lobste.rs/s/cqn0pc/i_want_off_mr_golang_s_wild_ride))
 - [Early Impressions of Go from a Rust Programmer (2020)](https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/)
 - [Install go tools from modules with brew-gomod (2020)](https://blog.filippo.io/install-go-tools-from-modules-with-brew-gomod/)
 - [Illustrated Tales of Go Runtime Scheduler (2020)](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
@@ -323,3 +323,4 @@ Go promotes composition over inheritance.
 - [File System Interfaces for Go – Draft Design](https://go.googlesource.com/proposal/+/master/design/draft-iofs.md) ([HN](https://news.ycombinator.com/item?id=24065499))
 - [GoPlus](https://github.com/goplus/gop) - Go+ language for data science.
 - [Proposal: Register-based Go calling convention (2020)](https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md)
+- [Little Go Book](https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md)

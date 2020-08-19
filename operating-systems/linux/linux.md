@@ -152,3 +152,4 @@
 - [Low latency tuning guide](https://rigtorp.se/low-latency-guide/) ([HN](https://news.ycombinator.com/item?id=24027366))
 - [eBPF](https://ebpf.io/) ([HN](https://news.ycombinator.com/item?id=24138503))
 - [How the ARM32 Linux kernel decompresses (2020)](https://people.kernel.org/linusw/how-the-arm32-linux-kernel-decompresses)
+- [Xplain – Explaining X11 for the rest of us](https://magcius.github.io/xplain/article/) ([HN](https://news.ycombinator.com/item?id=24197528)) ([Code](https://github.com/magcius/xplain))

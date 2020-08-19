@@ -150,3 +150,4 @@
 - [Introduction to parsing Swift code with the SwiftSyntax Library (2020)](https://vivekseth.com/swift-syntax-intro/)
 - [Swift Calling Conventions on ARM64 (2020)](https://vivekseth.com/swift-arm64-int-bool/)
 - [Force-Unwrapping in Swift is NOT a Bad Thing](https://wolfmcnally.com/82/force-unwrapping-swift-not-bad-thing/)
+- [Functional Programming in Swift (2020)](https://www.47deg.com/academy/2020-09-01-Functional-Programming-in-Swift-with-Bow-course/)

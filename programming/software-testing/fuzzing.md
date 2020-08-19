@@ -16,3 +16,4 @@
 - [Design Draft: First Class Fuzzing in Go](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
 - [FuzzCon](https://www.fuzzcon.eu/) - European Online Conference About Fuzzing.
 - [Advanced Fuzzing: Compare shattering (2020)](https://www.youtube.com/watch?v=yezHZuDCBho)
+- [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)

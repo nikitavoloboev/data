@@ -480,6 +480,7 @@
 - [fuzzy](https://github.com/deanishe/go-fuzzy) - Implements fuzzy matching/sorting of string slices and custom types.
 - [Gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
+- [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency.
 
 ## Links
 

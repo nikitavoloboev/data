@@ -23,3 +23,4 @@
 - [IRB](https://github.com/ruby/irb) - Interactive Ruby.
 - [Http.rb is Great (2018)](https://janko.io/httprb-is-great/)
 - [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Common Ruby idioms.
+- [Effective Debugging of Memory Leaks in Ruby (2020)](http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/)

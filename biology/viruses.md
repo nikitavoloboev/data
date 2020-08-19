@@ -32,3 +32,5 @@
 - [HN: The evidence which suggests that Covid-19 is not a naturally evolved virus (2020)](https://news.ycombinator.com/item?id=23875758)
 - [Computational predictions of protein structures associated with COVID-19 (2020)](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)
 - [c-19 Long Hauling (2020)](https://blog.rumyra.com/2020-08-14-c-19-long-hauling/)
+- [A Mechanist's Guide to the Coronavirus Genome (2020)](https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome) ([Tweet](https://twitter.com/csvoss/status/1295458745833594880))
+- [Analysis of the SARS-CoV-2 genome](https://github.com/nqureshi/sars-cov-2)

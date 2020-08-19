@@ -141,3 +141,4 @@
 - [Recent Advances in Natural Language Processing (2020)](https://deponysum.com/2020/01/16/recent-advances-in-natural-language-processing-some-woolly-speculations/) ([HN](https://news.ycombinator.com/item?id=24179795))
 - [Project Insight](https://github.com/abhimishra91/insight) - NLP as a Service. ([Forum post](https://discuss.streamlit.io/t/project-insight-streamlit-fastapi-huggingface-and-all-the-goodness/4978))
 - [Bob Coecke: Quantum Natural Language Processing (QNLP) (2020)](https://www.youtube.com/watch?v=mL-hWbwVphk) ([Article](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d))
+- [Language-Agnostic BERT Sentence Embedding (2020)](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)

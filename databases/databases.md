@@ -92,6 +92,7 @@
 - [GhostDB](https://github.com/jakekgrog/GhostDB) - Distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. ([HN](https://news.ycombinator.com/item?id=23774174))
 - [Datalevin](https://github.com/juji-io/datalevin) - Port of Datascript in-memory Datalog database to Lightning Memory-Mapped Database (LMDB).
 - [DagDB](https://github.com/mikeal/dagdb) - Syncable database built on IPLD.
+- [MonetDB](https://github.com/MonetDB/MonetDB) - Column-store pioneer. ([Web](https://www.monetdb.org/))
 
 ## Tools
 
@@ -103,6 +104,8 @@
 - [Diwata](https://github.com/ivanceras/diwata) - User-friendly database interface.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS. ([Web](https://sequel-ace.com/))
 - [ExtendsClass](https://extendsclass.com/mysql-online.html) - Online MySQL playground for testing.
+- [Dropbase](https://www.dropbase.io/) - Turn offline files into live databases instantly. ([HN](https://news.ycombinator.com/item?id=24189582))
+- [Synth](https://getsynth.com/) - Create synthetic data environments in seconds. ([HN](https://news.ycombinator.com/item?id=24198114))
 
 ## Links
 
@@ -190,3 +193,5 @@
 - [Introduction to database schemas](https://dataguide.prisma.io/intro/intro-to-schemas)
 - [BaseDash](https://www.basedash.io/) - Build internal tools for your database. ([HN](https://news.ycombinator.com/item?id=23999124))
 - [Databases, Types, and the Relational Model: The Third Manifesto](http://thethirdmanifesto.com/) - Rigorously define a type-safe (and NULL-safe) data model and query language based on the relational algebra.
+- [When are full database backups faster than incremental backups? (2020)](https://tech.davis-hansson.com/p/incremental-backup/)
+- [Testing Database Engines via Pivoted Query Synthesis (2020)](https://arxiv.org/abs/2001.04174) ([Tweet](https://twitter.com/electron0zero/status/1295446187084877824))

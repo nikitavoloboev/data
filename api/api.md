@@ -133,3 +133,4 @@
 - [Mock Service Worker (MSW)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [Rusty's API Design Manifesto](http://sweng.the-davies.net/Home/rustys-api-design-manifesto)
 - [Top 10 Social Media APIs for Developers (2020)](https://www.ayrshare.com/top-10-social-media-apis-for-developers/)
+- [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API. ([HN](https://news.ycombinator.com/item?id=24196121))

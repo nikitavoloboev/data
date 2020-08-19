@@ -287,3 +287,4 @@
 - [Ryan Levick - Why should I care about Rust? (2020)](https://www.youtube.com/watch?v=OhCjnyBc448)
 - [Makepad](http://makepad.nl/) - Creative software development platform built around Rust. ([Code](https://github.com/makepad/makepad))
 - [Jon Gjengset Q&A August 2020](https://www.youtube.com/watch?v=AUEbaWaEeF4)
+- [Laying the foundation for Rust's future (2020)](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html) ([HN](https://news.ycombinator.com/item?id=24199424))

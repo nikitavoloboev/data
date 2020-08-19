@@ -11,3 +11,5 @@
 - [Making games with Kotlin (2019)](https://kotlin.christmas/2019/11) ([HN](https://news.ycombinator.com/item?id=21760520))
 - [Gryphon](https://github.com/vinivendra/Gryphon) - Swift to Kotlin translator.
 - [JetBrains Academy: Learn Kotlin](https://hyperskill.org/onboarding?track=kotlin)
+- [An Ergonomics Review of Using Kotlin from Swift (2020)](https://benasher.co/kotlin-ios-ergonomics/)
+- [Getting Started with Kotlin on iOS (2020)](https://benasher.co/kotlin-ios-getting-started/)

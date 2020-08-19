@@ -75,3 +75,4 @@
 - [Hardware interrupts (2020)](https://www.youtube.com/watch?v=DlEa8kd7n3Q)
 - [Setting up a privacy-oriented Home Lab (2020)](https://wrt.nth.io/luke/home-lab) ([Lobsters](https://lobste.rs/s/900fd3/setting_up_privacy_oriented_home_lab))
 - [Home Network Overview (2020)](https://shipilev.net/labs/network-de/)
+- [Nintendo DS Architecture](https://www.copetti.org/projects/consoles/nintendo-ds/) ([HN](https://news.ycombinator.com/item?id=24195751))

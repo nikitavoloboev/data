@@ -40,6 +40,8 @@ Here are few more things I liked, design wise.
 - [Dogstudio](https://dogstudio.co/)
 - [hyperlink.academy](https://hyperlink.academy/)
 - [Point-Free](https://www.pointfree.co/)
+- [Materialize](https://materialize.io/)
+- [Dropbase](https://www.dropbase.io/)
 
 ## Blogs
 
@@ -230,6 +232,7 @@ Here are few more things I liked, design wise.
 - [Heydon Pickering](https://heydonworks.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)
 - [Daniel Gross](https://dcgross.com/)
+- [Chelsea Voss](https://csvoss.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
 - [Mitxela](https://mitxela.com/)
@@ -281,6 +284,7 @@ Here are few more things I liked, design wise.
 - [Kentaro Wada](https://www.wkentaro.com/)
 - [Gal Shir](https://galshir.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
+- [Marcos Alonso](http://marcosalonso.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
 - [Jordan O’Connor](https://jdnoc.com/)
 - [Leonora Tindall](https://nora.codes/)
@@ -299,6 +303,8 @@ Here are few more things I liked, design wise.
 - [Sam Bleckley](https://sambleckley.com/)
 - [Paul Butler](https://paulbutler.org/)
 - [JW Design](https://www.jw.design/)
+- [Jesse Squires](https://www.jessesquires.com/) ([Code](https://github.com/jessesquires/jessesquires.com))
+- [Ben Asher](https://benasher.co/) ([Code](https://github.com/benasher44/benasher.co))
 - [Simon Sarris](https://simonsarris.com/)
 - [Ramkumar Ramachandra](https://artagnon.com/) ([Code](https://github.com/artagnon/artagnon.com))
 - [Andreas Kirsch](https://www.blackhc.net/)

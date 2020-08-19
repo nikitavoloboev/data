@@ -54,6 +54,10 @@
 
 - [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api)
 
+## DB
+
+- [SQigiL](https://github.com/twooster/sqigil) - Postgres SQL template string for Javascript.
+
 ## React
 
 - [state-machines-in-react](https://github.com/tanem/state-machines-in-react) - Small React, xstate and Framer Motion demo.

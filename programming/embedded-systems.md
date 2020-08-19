@@ -53,3 +53,5 @@
 - [OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg) - Open-sourced Apple UEFI drivers, enabling Hackintosh. ([HN](https://news.ycombinator.com/item?id=24069428))
 - [MicroBlocks](http://microblocks.fun/) - Small, Fast, Human Friendly.
 - [probe-run, run embedded Rust apps like native apps (2020)](https://ferrous-systems.com/blog/probe-run/)
+- [Step-through debugging with no debugger on Cortex-M (2020)](https://interrupt.memfault.com/blog/cortex-m-debug-monitor)
+- [Target atsamd microcontrollers using Rust](https://github.com/atsamd-rs/atsamd)

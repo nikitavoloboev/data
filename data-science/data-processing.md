@@ -16,3 +16,4 @@
 - [Timely Dataflow and Total Order (2020)](http://justinjaffray.com/timely-dataflow-and-total-order/)
 - [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform.
 - [Apache Spark](https://github.com/apache/spark) - Unified analytics engine for large-scale data processing.
+- [Batch](https://batch.sh/) - Event replay platform. Version control for data passing through your messaging systems. ([HN](https://news.ycombinator.com/item?id=24188214))

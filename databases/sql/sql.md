@@ -61,3 +61,4 @@
 - [Implementing subqueries in go-mysql-server (2020)](https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/)
 - [We Can Do Better Than SQL (2019)](https://edgedb.com/blog/we-can-do-better-than-sql/) ([Lobsters](https://lobste.rs/s/uwefle/we_can_do_better_than_sql)) ([HN](https://news.ycombinator.com/item?id=24106608))
 - [How to level up your SQL skills (2019)](https://clubhouse.io/developer-how-to/how-to-level-up-your-sql-skills/) ([Lobsters](https://lobste.rs/s/fddvpn/how_level_up_your_sql_skills))
+- [Lateral Joins and Demand-Driven Queries (2020)](https://materialize.io/lateral-joins-and-demand-driven-queries/)

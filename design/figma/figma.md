@@ -6,6 +6,7 @@
 - [Task Lists Kit](https://www.figma.com/community/file/844437632570943875)
 - [File Thumbnail Kit](https://www.figma.com/community/file/834093248798603357)
 - [iOS 14 UI Kit](https://www.figma.com/community/file/858143367356468985)
+- [macOS Big Sur UI Kit](https://www.figma.com/community/file/877084038660699458)
 
 ## Notes
 
