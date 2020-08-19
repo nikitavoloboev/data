@@ -92,3 +92,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Ask HN: How can I quickly trim my AWS bill? (2020)](https://news.ycombinator.com/item?id=23798347)
 - [Designing a scalable API on AWS spot instances (2020)](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/) ([HN](https://news.ycombinator.com/item?id=23925783))
 - [AWS Tagging Best Practices](https://www.cloudforecast.io/blog/aws-tagging-best-practices/) ([HN](https://news.ycombinator.com/item?id=24132528))
+- [Using ProxyCannon-NG to Create Unlimited Rotating Proxies (2020)](https://iamstoxe.com/posts/using-proxycannon-ng-to-create-unlimited-rotating-proxies/)

@@ -39,7 +39,7 @@
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/) - [HN](https://news.ycombinator.com/item?id=18495697)
 - [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster.
-- [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes.
+- [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes. ([Getting started](https://iamstoxe.com/posts/argo-getting-started/)) ([Templating](https://iamstoxe.com/posts/templating-with-argo/)) ([Argo Server](https://iamstoxe.com/posts/argo-server/))
 - [Kazan](https://github.com/obmarg/kazan) - Kubernetes API client for Elixir.
 - [Tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Maestro](https://github.com/maestrosdk/maestro) - Provides a declarative approach to building production-grade Kubernetes Operators covering the entire application lifecycle.

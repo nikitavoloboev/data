@@ -19,7 +19,7 @@
 - [3 common pitfalls in microservice integration and how to avoid them (2018)](https://www.youtube.com/watch?v=O2-NHptllKQ)
 - [So you want to learn Microservices? (2019)](https://dev.to/kgoralski/deep-dive-into-microservices-architecture-h54) ([HN](https://news.ycombinator.com/item?id=21583072))
 - [SuperGloo](https://github.com/solo-io/supergloo) - Service Mesh Orchestration Platform.
-- [Kapow](https://github.com/BBVA/kapow) - Turn shell scripts into HTTP API endpoints.
+- [Kapow](https://github.com/BBVA/kapow) - Turn shell scripts into HTTP API endpoints. ([Lobsters](https://lobste.rs/s/jfydw6/turn_shell_commands_into_apis))
 - [Ask HN: How do you deal with atomicity in microservice environments? (2019)](https://news.ycombinator.com/item?id=21656891)
 - [Go: Introduction to Protobuf: Services](https://scene-si.org/2019/12/02/introduction-to-protobuf-services/)
 - [Go: Dependency injection with Wire (2019)](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)

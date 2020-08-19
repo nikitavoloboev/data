@@ -137,3 +137,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Airr](https://apps.apple.com/us/app/airr-highlight-podcasts/id1355926315) - Podcast player that lets you highlight, add a note, and share moments from episodes.
 - [Podcast Stats](https://www.listennotes.com/podcast-stats/) - How many podcasts are there? ([HN](https://news.ycombinator.com/item?id=23773537))
 - [PodcastFest Russian](https://podfest.ru/)
+- [Podcast generator written in Go](https://github.com/jbub/podcasts)
