@@ -33,3 +33,4 @@
 - [React vs Vue: Compare and Contrast (2020)](https://dev.to/ben/react-vs-vue-compare-and-contrast-13jp)
 - [Why frontend build tools are getting an overhaul (2020)](https://www.youtube.com/watch?v=5F_k9q9HbAc)
 - [Responsively](https://responsively.app/) - Web developer's browser.
+- [What are the most difficult UI patterns you've coded? (2020)](https://twitter.com/TatianaTMac/status/1295833772600958976)

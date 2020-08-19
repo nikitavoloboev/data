@@ -130,6 +130,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [George Bletsis](http://www.monstertree.co.uk/)
 - [Federico Italiano](https://www.instagram.com/federico._.italiano/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
+- [Wu Yi](https://www.instagram.com/wuyi555/)
 - [Robby Johnson](https://www.artstation.com/rjohnson)
 - [Jasmin Habezai-Fekri](https://www.artstation.com/curlscurly)
 - [Simon Stalenhag](https://www.simonstalenhag.se/)

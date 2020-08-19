@@ -30,3 +30,4 @@
 - [A11Y Project](https://www.a11yproject.com/) - Community-driven effort to make digital accessibility easier.
 - [Appreciating accessibility - Keyboard shortcut guidelines](https://erresen.github.io/csharp/dotnet/accessibility/shortcuts/visualstudio/2020/07/26/appreciating-accessibility.html)
 - [A11y Coffee](https://a11y.coffee/)
+- [Accessibility Testing is like Making Coffee (2020)](https://madalyn.dev/blog/a11y-testing-coffee/)

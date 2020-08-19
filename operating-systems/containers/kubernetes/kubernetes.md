@@ -211,3 +211,4 @@
 - [Kubernetes External Secrets](https://github.com/godaddy/kubernetes-external-secrets) - Integrate external secret management systems with Kubernetes.
 - [A single-node Kubernetes cluster without virtualization or a container registry (2020)](https://notes.eatonphil.com/a-single-node-kubernetes-cluster-without-virtualization-or-a-container-registry.html)
 - [A Hacker’s Guide to Kubernetes Networking (2017)](https://thenewstack.io/hackers-guide-kubernetes-networking/)
+- [Multi-Cluster Kubernetes and Service Mesh Patterns (2020)](https://www.solo.io/blog/webinar-recap-multi-cluster-kubernetes-and-service-mesh-patterns/)

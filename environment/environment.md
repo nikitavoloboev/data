@@ -40,3 +40,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [It’s Time to Redefine What Sustainable Fishing Means (2020)](http://oceans.nautil.us/article/600/its-time-to-redefine-what-sustainable-fishing-means) ([HN](https://news.ycombinator.com/item?id=24156319))
 - [Oceans on Nautilus](http://oceans.nautil.us/) - Explore ocean science, conservation and culture.
 - [HN: Popular seafood species in sharp decline around the world (2020)](https://news.ycombinator.com/item?id=24199767)
+- [Emitwise](https://www.emitwise.com/) - Monitor & manage your carbon footprint.

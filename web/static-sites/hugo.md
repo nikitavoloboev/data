@@ -16,6 +16,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Codex](https://github.com/jakewies/hugo-theme-codex) - Minimal blog theme built for Hugo.
 - [Carlisle](https://github.com/thesephist/carlisle) - Minimal template for a Hugo site.
 - [Archie](https://github.com/athul/archie) - Minimal and clean theme for hugo with a markdown-ish UI.
+- [Chlorine](https://github.com/AnnaOpss/hugo-chlorine-theme) - Simple responsive blog theme for Hugo based on Natrium.
 
 ## Examples
 

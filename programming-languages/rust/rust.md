@@ -288,3 +288,4 @@
 - [Makepad](http://makepad.nl/) - Creative software development platform built around Rust. ([Code](https://github.com/makepad/makepad))
 - [Jon Gjengset Q&A August 2020](https://www.youtube.com/watch?v=AUEbaWaEeF4)
 - [Laying the foundation for Rust's future (2020)](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html) ([HN](https://news.ycombinator.com/item?id=24199424))
+- [Run Rust on your embedded device from VSCode in one click (2020)](https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/)

@@ -64,6 +64,7 @@ Here are few more things I liked, design wise.
 - [the Webb](https://blog.webb.page/)
 - [Dark Forest Blog](https://blog.zkga.me/)
 - [Well-Ironed](https://well-ironed.com/)
+- [Blog Title](https://blogtitle.github.io/)
 
 ## Products
 
