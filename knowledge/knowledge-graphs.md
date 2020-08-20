@@ -33,3 +33,4 @@
 - [w2g](https://github.com/w2g/w2g) - World Wide Graph: A memex for semantic notetaking. ([Web](https://graph.global/?id=))
 - [Khan Academy knowledge map editor tool](https://github.com/beneater/kmap-editor)
 - [Amazon’s open-source tools make embedding knowledge graphs much more efficient (2020)](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
+- [An Introduction to Natural Language Processing with Python for SEOs (2020)](https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/)
