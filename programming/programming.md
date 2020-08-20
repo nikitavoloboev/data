@@ -37,6 +37,7 @@
   - Understanding, deeply, the tools you use and the basic principles of computer science and engineering help you prune solution spaces a lot better.
   - Identify whether or not the framework/third-party app is actually delivering value over just implementing a smaller bespoke solution yourself. Color picker? Almost certainly. Database extension? Probably. Container orchestration for a static blog? Probably not.
   - Pseudocode and stepwise refinement of the solution to a problem. If you can’t explain something with bullet points, you don’t understand it, and if you don’t understand it, you’re slow.
+- [Code style comments are tiny cuts to someone's confidence and you should weigh that vs the value of the "fixing" it..](https://twitter.com/zkat__/status/1296130087314534401)
 
 ## Links
 

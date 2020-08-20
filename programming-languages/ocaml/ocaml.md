@@ -47,3 +47,4 @@
 - [Multicore OCaml: May 2020 update](https://discuss.ocaml.org/t/multicore-ocaml-may-2020-update/5898) ([HN](https://news.ycombinator.com/item?id=23380370))
 - [Misc algorithms in OCaml (HyperLogLog, jump consistent hashing)](https://github.com/let-def/grenier)
 - [Composable Error Handling in OCaml (2018)](https://keleshev.com/composable-error-handling-in-ocaml)
+- [opam](https://opam.ocaml.org/) - OCaml Package Manager. ([Code](https://github.com/ocaml/opam-repository))
