@@ -3,6 +3,7 @@
 ## Web
 
 - [Slinky](https://github.com/shadaj/slinky) - Framework for writing React apps in Scala with an experience just like using ES6.
+- [Http4s](https://github.com/http4s/http4s) - Minimal, idiomatic Scala interface for HTTP services.
 
 ## CLI
 

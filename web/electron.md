@@ -21,3 +21,4 @@
 - [Make Your Electron App Feel at Home Everywhere (2019)](https://kilianvalkhof.com/2019/electron/make-your-electron-app-feel-at-home-everywhere/)
 - [electron-builder-notarize](https://github.com/karaggeorge/electron-builder-notarize) - Notarize Electron applications using electron-builder.
 - [Collection of apps built on Electron](https://www.electronjs.org/apps) ([Code](https://github.com/electron/apps))
+- [Desktop apps with Electron course](https://desktopappswithelectron.com/)

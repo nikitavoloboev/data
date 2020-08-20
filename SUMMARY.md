@@ -629,6 +629,7 @@
   - [Discord](tools/discord.md)
   - [Zulip](tools/zulip.md)
   - [Firebase](tools/firebase.md)
+  - [Elasticsearch](tools/elasticsearch.md)
   - [Personal setups](tools/personal-setups.md)
   - [Voice assistants](tools/voice-assistants/voice-assistants.md)
   - [Wordpress](tools/wordpress.md)

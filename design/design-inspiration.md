@@ -42,6 +42,7 @@ Here are few more things I liked, design wise.
 - [Point-Free](https://www.pointfree.co/)
 - [Materialize](https://materialize.io/)
 - [Dropbase](https://www.dropbase.io/)
+- [Failory](https://www.failory.com/)
 
 ## Blogs
 

@@ -18,7 +18,7 @@
 - [modelizr](https://github.com/julienvincent/modelizr) - Generate GraphQL queries from models that can be mocked and normalized.
 - [GraphQL Nexus](https://github.com/graphql-nexus/nexus) - Code-First Type-Safe GraphQL Framework. ([Docs](https://nexusjs.org/))
 - [Thunder](https://github.com/samsarahq/thunder) - Go framework for rapidly building powerful graphql services.
-- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators.
+- [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators. ([Docs](https://typegraphql.com/docs/introduction.html)) ([1.0 announcement](https://dev.to/michallytek/announcing-typegraphql-1-0-1d7h))
 - [GQL2TS](https://github.com/avantcredit/gql2ts) - Generate TypeScript type interfaces from GraphQL types and query definitions.
 - [GraphQL Batch Resolver](https://github.com/calebmer/graphql-resolve-batch) - Method for batching the resolution of GraphQL fields as an alternative to dataloader that works with both GraphQL.js and graphql-tools.
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - WebSocket client + server for GraphQL subscriptions.

@@ -162,3 +162,4 @@
 - [Writing Python Extensions in Assembly (2020)](https://tonybaloney.github.io/posts/extending-python-with-assembly.html)
 - [CPython Internals Book](https://realpython.com/products/cpython-internals-book/) ([Code](https://github.com/tonybaloney/cpython-book-samples))
 - [A deep dive into the official Docker image for Python (2020)](https://pythonspeed.com/articles/official-python-docker-image/)
+- [How to cheat at unit tests with pytest and Black (2020)](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
