@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/)
+- [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/) ([Solutions](https://github.com/tomhoule/theorem-proving-in-lean-exercises))
 - [Xena](https://github.com/kbuzzard/xena) - Lean Library currently studying for a degree at Imperial College.
 - [Xena Project](http://wwwf.imperial.ac.uk/~buzzard/xena/) - Building a library of undergraduate level pure maths.
 - [Lean mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library.

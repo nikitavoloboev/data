@@ -56,3 +56,4 @@ Might give it a go sometime.
 - [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html) ([HN](https://news.ycombinator.com/item?id=23672473))
 - [Learning Emacs resources](https://emacsredux.com/resources/)
 - [Castlemacs](https://github.com/freetonik/castlemacs) - Modern, minimalist Emacs for macOS.
+- [Emacs Code](https://github.com/emacs-mirror/emacs)

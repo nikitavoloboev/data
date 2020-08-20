@@ -22,3 +22,4 @@
 - [Plumber](https://github.com/rstudio/plumber) - Turn your R code into a web API.
 - [R-bloggers](https://www.r-bloggers.com/) - R news and tutorials contributed by hundreds of R bloggers.
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/)
+- [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - Weekly social data project in R.

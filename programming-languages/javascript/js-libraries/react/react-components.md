@@ -112,6 +112,7 @@
 - [react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - Splittable, draggable, collapsible panel layout library.
 - [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
 - [Formik](https://github.com/formium/formik) - Build forms in React, without the tears. ([Formik vs Plain React for Forms – Worth it?](https://www.bitnative.com/2020/08/19/formik-vs-plain-react-for-forms-worth-it/))
+- [FullCalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop JavaScript event calendar.
 
 ## Links
 

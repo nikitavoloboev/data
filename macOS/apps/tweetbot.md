@@ -39,3 +39,5 @@ I split the app into 2 columns on mac.
 - [Twitter Crush](https://woaini.page/) - Find twitter user you admire the most.
 - [Top Tweets Bot](https://toptweetsbot.appspot.com/) - Creates and maintains a collection of your top tweets.
 - [The.Rip](https://the.rip/) - Unroll Twitter threads into markdown. ([Tweet](https://twitter.com/benzguo/status/1294832715049517058))
+- [Advanced Search on Twitter](https://github.com/igorbrigadir/twitter-advanced-search)
+- [Tracking significant changes to the Twitter API or platform as a whole](https://github.com/igorbrigadir/twitter-history)

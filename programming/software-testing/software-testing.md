@@ -47,3 +47,4 @@
 - [Karate](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. ([HN](https://news.ycombinator.com/item?id=24176433))
 - [Thoughts on TDD (2020)](https://twitter.com/tlakomy/status/1295331095181918209)
 - [What’s wrong with snapshot tests (2019)](https://blog.sapegin.me/all/snapshot-tests/)
+- [Mutation Testing: A Tale of Two Suites (2020)](https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/)

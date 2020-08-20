@@ -24,6 +24,7 @@
 ## Web
 
 - [Drogon](https://github.com/an-tao/drogon) - C++14/17-based rapid HTTP and web application framework.
+- [Asio](http://think-async.com/Asio/) - Cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. ([Code](https://github.com/chriskohlhoff/asio))
 
 ## Graphics
 
@@ -112,3 +113,5 @@
 - [DataFrame](https://github.com/hosseinmoein/DataFrame) - C++ statistical library that provides an interface similar to Pandas package in Python. ([Reddit](https://www.reddit.com/r/cpp/comments/i3i19j/reclaiming_modern_c_as_the_tool_of_data_analysis/))
 - [structopt](https://github.com/p-ranav/structopt) - Parse command line arguments by defining a struct. ([HN](https://news.ycombinator.com/item?id=24182771))
 - [Derecho](https://github.com/Derecho-Project/derecho) - Open-source C++ distributed computing toolkit that provides strong forms of distributed coordination and consistency at RDMA speeds.
+- [Jungle](https://github.com/eBay/Jungle) - Embedded key-value storage library, based on a combined index of LSM-tree and copy-on-write (append-only) B+tree.
+- [NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library.

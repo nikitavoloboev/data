@@ -42,3 +42,4 @@
 - [Ask HN: Resources to start learning about quantum computing? (2020)](https://news.ycombinator.com/item?id=23914992)
 - [“Giant atoms” enable quantum processing and communication in one (2020)](http://news.mit.edu/2020/giant-atoms-quantum-processing-communication-0729)
 - [Quantum Game with Photons](https://alpha.quantumgame.io/)
+- [Amazon Braket](https://aws.amazon.com/braket/) - Explore and experiment with quantum computing. ([HN](https://news.ycombinator.com/item?id=24220337))

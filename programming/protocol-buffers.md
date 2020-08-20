@@ -20,3 +20,4 @@
 - [hrpc](https://github.com/mafintosh/hrpc) - Simple RPC with Protobuf Services.
 - [Golang ProtoBuf Validator Compiler](https://github.com/mwitkow/go-proto-validators)
 - [protopatch](https://github.com/alta/protopatch) - Patch protoc plugin output with Go-specific features.
+- [Wire](https://github.com/square/wire) - GRPC and protocol buffers for Android, Kotlin, and Java. ([Support for Swift](https://cashapp.github.io/2020-08-19/wire-support-for-swift-part-1))

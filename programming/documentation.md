@@ -65,3 +65,4 @@
 - [Outline](https://www.getoutline.com/) - Team wiki & knowledge base.
 - [Why Write ADRs (2020)](https://github.blog/2020-08-13-why-write-adrs/) ([HN](https://news.ycombinator.com/item?id=24146594))
 - [I Love MDN, or the cult of the free in action (2020)](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html) ([HN](https://news.ycombinator.com/item?id=24159244))
+- [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.

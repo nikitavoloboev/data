@@ -1,5 +1,9 @@
 # [Keras](https://github.com/keras-team/keras)
 
+## Notes
+
+- [What if my loss doesn't match the signature loss?](https://twitter.com/fchollet/status/1296292123768025090)
+
 ## Links
 
 - [Keras Attention Mechanism](https://github.com/philipperemy/keras-attention-mechanism) - Attention mechanism Implementation for Keras.

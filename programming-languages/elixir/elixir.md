@@ -43,3 +43,4 @@
 - [The Virtue of Busy Waiting (2019)](https://well-ironed.com/articles/the-virtue-of-busy-waiting/)
 - [Elegant TCP with Elixir (2020)](https://www.openmymind.net/Elegant-TCP-with-Elixir-Part-1-TCP-as-Messages/)
 - [Using Messages In Elixir To Avoid Polling (2020)](https://www.openmymind.net/Using-Messages-In-Elixir-To-Avoid-Polling-The-DB/)
+- [The Little Elixir & OTP Guidebook](https://livebook.manning.com/book/the-little-elixir-and-otp-guidebook/about-this-book/)

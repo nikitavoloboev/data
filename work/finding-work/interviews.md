@@ -82,3 +82,4 @@
 - [How Firebase Interviewed Software Engineers (2019)](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
 - [Tech sector job interviews assess anxiety, not software skills: study (2020)](https://news.ycombinator.com/item?id=23848039) ([HN](https://news.ycombinator.com/item?id=23848039))
 - [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky) ([HN](https://news.ycombinator.com/item?id=24017555))
+- [How to conduct a System Design Interview (2020)](https://robertovitillo.com/how-to-conduct-a-system-design-interview/)

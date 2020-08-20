@@ -19,3 +19,4 @@
 - [Zig Showtime](https://zig.show/) - Show where members of the Zig community share code and ideas.
 - [Announcing the Zig Software Foundation (2020)](https://ziglang.org/news/announcing-zig-software-foundation.html) ([HN](https://news.ycombinator.com/item?id=23806222))
 - [Zig Live Coding: Self-Hosted Incremental Compilation Debug Info + LLVM 11 Upgrade (2020)](https://www.youtube.com/watch?v=3CtQAaWUZrY)
+- [Awesome Zig](https://github.com/nrdmn/awesome-zig)

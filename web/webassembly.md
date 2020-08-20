@@ -95,3 +95,4 @@
 - [Golang Desktop App with Webview/Lorca, WASM and Bazel (2020)](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89) ([HN](https://news.ycombinator.com/item?id=24117758))
 - [Bytecode Alliance RFCs](https://github.com/bytecodealliance/rfcs)
 - [Webassembly Without The Browser (2020)](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html) ([HN](https://news.ycombinator.com/item?id=24180303))
+- [Everything Old is New Again: Binary Security of WebAssembly (2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann) ([HN](https://news.ycombinator.com/item?id=24216764))

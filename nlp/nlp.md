@@ -142,3 +142,4 @@
 - [Project Insight](https://github.com/abhimishra91/insight) - NLP as a Service. ([Forum post](https://discuss.streamlit.io/t/project-insight-streamlit-fastapi-huggingface-and-all-the-goodness/4978))
 - [Bob Coecke: Quantum Natural Language Processing (QNLP) (2020)](https://www.youtube.com/watch?v=mL-hWbwVphk) ([Article](https://medium.com/cambridge-quantum-computing/quantum-natural-language-processing-748d6f27b31d))
 - [Language-Agnostic BERT Sentence Embedding (2020)](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
+- [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/) - Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.

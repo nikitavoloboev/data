@@ -74,3 +74,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847) ([HN](https://news.ycombinator.com/item?id=23964539))
 - [Ask HN: Is all of FAANG like this? (2020)](https://news.ycombinator.com/item?id=23917131)
 - [A few things I wish I knew before I started working as a software engineer](https://shubheksha.com/posts/2019/06/a-few-things-i-wish-i-knew-before-i-started-working-as-a-software-engineer/)
+- [StaffEng](https://staffeng.com/) - Stories of reaching Staff-plus engineering roles.

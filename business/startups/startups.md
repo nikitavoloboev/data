@@ -24,6 +24,10 @@
 - [Under-valued skills of good startup founders: 1. Ability to create process 2. Writing clearly 3. Delaying gratification 4. Knowing when not to talk 5. Saying no to almost everything, but yes when it truly matters](https://mobile.twitter.com/AndyGCook/status/1134828886821416960)
 - [Things that founders often regret](https://twitter.com/lpolovets/status/1184628336124841984)
 - [Few founder superpowers: Knowing which questions to ask. Listening before talking. Speaking in analogies. Being able to take feedback. Uninterested in what competition is doing.](https://twitter.com/gregisenberg/status/1277287405008060416)
+- [The reason you don't see more startups in the hard sciences is not due to the lack of hybrid talent as this article surmises. It's because:](https://news.ycombinator.com/item?id=24208828)
+  1. VCs are reluctant to fund capital intensive startups that have time horizons for exits that are significantly longer than software based startups
+  2. The product lifecycle is so much longer, which makes it inherently much riskier. In many cases it can be years before you even get to the point where you can get real feedback on the business model.
+  3. There are often other considerations e.g. regulations or interactions with existing products, that are entirely outside of the control of the company that can significantly alter the likelihood of success.
 
 ## Links
 

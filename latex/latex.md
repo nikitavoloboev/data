@@ -43,3 +43,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TikZiT](https://tikzit.github.io/) - Graphical tool for rapidly creating graphs and string diagrams using PGF/TikZ. ([Code](https://github.com/tikzit/tikzit))
 - [LaTeX to HTML5](https://github.com/smarr/latex-to-html5) - Scripts for Latex to HTML5 conversion.
 - [LaTeX Typesetting](https://fedoramagazine.org/latex-typesetting-part-1/) ([Lobsters](https://lobste.rs/s/kf9e9m/latex_typesetting_part_1))
+- [Papers](https://github.com/store2be/pape-rs) - LaTeX template to PDF generation web service written in Rust.

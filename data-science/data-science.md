@@ -108,3 +108,5 @@
 - [dstack.ai](https://dstack.ai/) - Open-source tool for building data and ML applications using Python and R. ([HN](https://news.ycombinator.com/item?id=24131723))
 - [Learn Python for Data Science](https://github.com/blobcity/python-for-data-science) - Collection of Jupyter Notebooks designed to learn Python for Data Science. ([HN](https://news.ycombinator.com/item?id=24130890))
 - [Computational Causal Inference at Netflix (2020)](https://netflixtechblog.com/computational-causal-inference-at-netflix-293591691c62)
+- [Practical Data Ethics](http://ethics.fast.ai/) ([HN](https://news.ycombinator.com/item?id=24213477))
+- [New Google Data Science project](https://datastudio.google.com/u/0/datasources/create)

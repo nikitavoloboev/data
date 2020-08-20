@@ -46,3 +46,4 @@
 - [Microservices: Up and Running book (2020)](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/)
 - [Gizmo Microservice Toolkit](https://github.com/nytimes/gizmo) - Provides packages to put together server and pubsub daemons.
 - [Go + Microservices = Go Kit - Peter Bourgon (2017)](https://www.youtube.com/watch?v=NX0sHF8ZZgw)
+- [Conductor](https://github.com/Netflix/conductor) - Microservices orchestration engine. ([Docs](https://netflix.github.io/conductor/)) ([HN](https://news.ycombinator.com/item?id=24214735))

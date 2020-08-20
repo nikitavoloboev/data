@@ -43,6 +43,7 @@
 - [Clearbit](https://clearbit.com/) - Marketing data engine for all of your customer interactions.
 - [Papercups](https://papercups.io/) - Connect with your customers. Own your data. ([Code](https://github.com/papercups-io/papercups)) ([HN](https://news.ycombinator.com/item?id=24133719))
 - [Ads Don’t Work That Way (2014)](https://meltingasphalt.com/ads-dont-work-that-way/)
+- [7 mistakes startups make with their messaging](https://twitter.com/Nicolascole77/status/1295742352301015041)
 
 ## Images
 

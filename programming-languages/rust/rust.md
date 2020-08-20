@@ -139,7 +139,7 @@
 - [Rust: Unlocking Systems Programming (2016)](https://www.infoq.com/presentations/rust-thread-safety/)
 - [Hello Rust](https://hello-rust.show/) - Lighthearted live-programming channel about my journey to become a fearless, more effective Rust programmer.
 - [Introduction to Rust (for people who have never used a compiler)" - Tim McNamara (2020)](https://www.youtube.com/watch?v=jiBYfpf_M4c)
-- [Rust in Action book (2020)](https://www.manning.com/books/rust-in-action?a_aid=rust&a_bid=0367c58f&chan=www)
+- [Rust in Action book (2020)](https://www.manning.com/books/rust-in-action)
 - [How To Write Fast Rust Code (2020)](http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html) ([Reddit](https://www.reddit.com/r/rust/comments/eq168d/how_to_write_fast_rust_code/))
 - [The Soundness Pledge (2020)](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html) ([Reddit](https://www.reddit.com/r/rust/comments/eqcefv/the_soundness_pledge/))
 - [What is Rust and why is it so popular? (2020)](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/) ([HN](https://news.ycombinator.com/item?id=22106501))
@@ -289,3 +289,5 @@
 - [Jon Gjengset Q&A August 2020](https://www.youtube.com/watch?v=AUEbaWaEeF4)
 - [Laying the foundation for Rust's future (2020)](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html) ([HN](https://news.ycombinator.com/item?id=24199424) ([Lobsters](https://lobste.rs/s/mgrmge/laying_foundation_for_rust_s_future)))
 - [Run Rust on your embedded device from VSCode in one click (2020)](https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/)
+- [Practical Networked Applications in Rust, Part 1 (2019)](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/) ([Part 2](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-2/))
+- [Rust and C++ Interoperability in Chrome (2020)](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability) ([HN](https://news.ycombinator.com/item?id=24211691))

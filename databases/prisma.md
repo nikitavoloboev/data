@@ -15,3 +15,6 @@
 - [Prisma 2.0 Demo by Nikolas Burk (2020)](https://www.youtube.com/watch?v=AnJxKWQG_fM)
 - [Prisma 2.0: Confidence and productivity for your database (2020)](https://www.prisma.io/blog/announcing-prisma-2-n0v98rzc8br1) ([HN](https://news.ycombinator.com/item?id=23466834))
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma) (2020)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
+- [Prisma Engines](https://github.com/prisma/prisma-engines) - Collection of engines that power the core stack for Prisma.
+- [Prisma Language Support](https://github.com/prisma/language-tools)
+- [Awesome Prisma](https://github.com/catalinmiron/awesome-prisma)

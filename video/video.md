@@ -97,3 +97,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [YouTube Storytelling: How To Make Videos that People Share (2020)](https://www.shopmoment.com/lessons/youtube-storytelling-how-to-make-videos-people-share-colin-and-samir)
 - [ESPFLIX](https://github.com/rossumur/espflix) - Free video streaming service that runs on a ESP32. ([HN](https://news.ycombinator.com/item?id=24150029))
 - [Tella](https://www.tella.tv/) - Collaborative online video editor. ([HN](https://news.ycombinator.com/item?id=24158509))
+- [Moving from YouTube to PeerTube (2020)](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/) ([HN](https://news.ycombinator.com/item?id=24222661))
