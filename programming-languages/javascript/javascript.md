@@ -9,6 +9,7 @@
 - [Can type `debugger` in JS/TS to activate debugger at that point](https://twitter.com/calebporzio/status/1151185995309690886).
 - Can `console.log({ myConst })` to log the variable with the value as an object so you see the variable name & the value. As opposed to doing `console.log(myConst, 'myConst')`.
 - [Periodic reminder that `await import('//dev.jspm.io/[pkg]')` allows you to import anything from npm in the browser instantly. I often use this in the console to test things out.](https://twitter.com/guybedford/status/1202022281633030145)
+- [Between typescript and prettier, there is very little justification for eslint.](https://twitter.com/mweststrate/status/1296437898330419209)
 
 ## Links
 
