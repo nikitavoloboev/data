@@ -70,3 +70,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Ask HN: Do you have a daily cash stream? (2020)](https://news.ycombinator.com/item?id=24047683)
 - [Best countries for FIRE? (2020)](https://www.reddit.com/r/EuropeFIRE/comments/i5gpeh/best_countries_for_fire/)
 - [Mollie](https://www.mollie.com/en) - Effortless payments.
+- [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)

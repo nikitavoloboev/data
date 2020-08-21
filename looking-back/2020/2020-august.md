@@ -31,3 +31,20 @@ I also listened to an [amazing interview](https://overcast.fm/+OozP23MDM) with C
 Reading [this review on 4 months working at BuildKite](https://juanitofatas.com/4-month-buildkite) was amazing. So many things got right. 🌈
 
 From personal experience, working in software companies is insanely stressful and all efforts by the company to alleviate the stress are very welcome.
+
+## 21
+
+Want to have a nicer [top of my mind](https://notes.andymatuschak.org/%C2%A7What%E2%80%99s_top_of_mind) place for myself. These look backs are that but I feel like my wiki is too rigid. Andy's web render of his notes is so so nice.
+
+This wiki doesn't have any fancy features like bi-directional linking and I do enjoy having a structure to my notes that isn't just tagged points (like in roam).
+
+I think I'll try to write my plans out here for myself, in context of my goals. I have lots of todos with due date set for Sat. But in short, I want to rebuild my personal site, finally..
+
+- based of [mdnext](https://github.com/domitriusclark/mdnext).
+- watch [this](https://www.youtube.com/watch?v=I6ypD7qv3Z8) & replicate it for LA. Prisma/TS/NextJS/Postgres. Very nice stack.
+- study Django in more depth. Also Mobx. Oh and I've been starting to read [The Art of PostgreSQL](https://theartofpostgresql.com/) book and it's nice.
+- there is few other misc things like building latest version of [Vimari](https://github.com/nbelzer/vimari).
+
+Writing these out, reminded me of [Julian's site](https://julian.digital/2020/07/12/a-mid-year-check-in-on-my-2020-goals/). He writes these kinds of things in public too as a sort of review. [Media consumption](https://julian.digital/2020/08/02/media-consumption-jul-2020/) too. Only everyone has a fancy site to go along with it.
+
+🎼 Tor is [nice](https://open.spotify.com/track/7vYO7MSeKpjD6y7WscPN3c?si=m09s3fOrSy6lkHwpdug57w).
