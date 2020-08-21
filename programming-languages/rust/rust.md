@@ -294,3 +294,4 @@
 - [Rust Unstable Book](https://doc.rust-lang.org/unstable-book/the-unstable-book.html)
 - [First thoughts on Rust vs OCaml (2020)](https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/) ([Lobsters](https://lobste.rs/s/vmkv3r/first_thoughts_on_rust_vs_ocaml)) ([HN](https://news.ycombinator.com/item?id=24223018))
 - [In Rust, ordinary vectors are values (2018)](http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/)
+- [RustConf 2020 Summary](https://github.com/poteto/rustconf-2020)

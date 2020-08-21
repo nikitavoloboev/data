@@ -248,6 +248,7 @@ Here are few more things I liked, design wise.
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Fabio Cevasco](https://h3rald.com/) ([Code](https://github.com/h3rald/h3rald))
+- [Lauren Tan](https://www.no.lol/)
 - [Tinnei](https://tinnei.today/index.html)
 - [Stéphanie Walter](https://stephaniewalter.design/)
 - [Nienke Dekker](https://nienke.dev/)
