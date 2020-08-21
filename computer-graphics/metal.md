@@ -15,3 +15,4 @@
 - [mtlswift](https://github.com/s1ddok/mtlswift) - Metal shader Swift encoding code generator.
 - [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure.
 - [Andrey Volodin - Explain Metal like I’m 5 (2020)](https://www.youtube.com/watch?v=ebap8D1-GIY)
+- [MetalANGLE](https://github.com/kakashidinho/metalangle) - OpenGL ES to Metal API translation layer.

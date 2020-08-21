@@ -107,4 +107,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Flash Game History](http://www.flashgamehistory.com/) ([HN](https://news.ycombinator.com/item?id=23922206)) ([Lobsters](https://lobste.rs/s/notzsw/how_flash_games_shaped_video_games))
 - [Analogue](https://www.analogue.co/) - Makes gaming devices.
 - [Factorio and Software Engineering (2020)](https://blog.nindalf.com/posts/factorio-and-software-engineering/) ([HN](https://news.ycombinator.com/item?id=24181783))
-- [ROBLOX is a MUD: The history of MUDs, virtual worlds & MMORPGs (2020)](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b)
+- [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs (2020)](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b) ([HN](https://news.ycombinator.com/item?id=24221010))

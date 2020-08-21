@@ -12,3 +12,4 @@
 - [When Should You Not Use Rails? (2020)](http://codefol.io/posts/when-should-you-not-use-rails/) ([Lobsters](https://lobste.rs/s/khbupj/when_should_you_not_use_rails)) ([HN](https://news.ycombinator.com/item?id=24057715))
 - [Lobsters Rails Code](https://github.com/lobsters/lobsters)
 - [Introduction to Ruby on Rails Patterns and Anti-patterns (2020)](https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html)
+- [How Shopify reduced storefront response times with a rewrite (2020)](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite) ([HN](https://news.ycombinator.com/item?id=24228651))

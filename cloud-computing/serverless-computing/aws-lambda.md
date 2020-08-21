@@ -26,3 +26,4 @@
 - [Building Your First Serverless Service With AWS Lambda Functions (2020)](https://css-tricks.com/building-your-first-serverless-service-with-aws-lambda-functions/)
 - [Introducing Direct Lambda Resolvers: AWS AppSync GraphQL APIs without VTL](https://aws.amazon.com/blogs/mobile/appsync-direct-lambda/)
 - [Cache AWS Lambda responses with Cloudflare (2020)](https://kylebarron.dev/blog/caching-lambda-functions-cloudflare)
+- [Debugging AWS Lambda Timeouts (2020)](https://lumigo.io/blog/debugging-aws-lambda-timeouts/)

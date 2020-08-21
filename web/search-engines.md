@@ -58,3 +58,4 @@
 - [Google Search tips](https://www.avanderlee.com/optimization/developer-productivity-boost-with-google-search-tips-tricks/)
 - [Searching code with Sourcegraph](https://lwn.net/SubscriberLink/828748/846c0800e1587f25/) ([Lobsters](https://lobste.rs/s/deizcm/searching_code_with_sourcegraph))
 - [A Fast Fuzzy Search Implementation (2020)](https://www.objc.io/blog/2020/08/18/fuzzy-search/)
+- [Using a search engine as a programmer (2020)](https://codewithoutrules.com/2020/08/17/search-engine-programmers/)

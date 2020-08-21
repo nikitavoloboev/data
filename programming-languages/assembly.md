@@ -18,3 +18,4 @@
 - [Little Computer 3](http://littlecomputer3.com/) - Learn how to program in assembly on the web. ([Code](https://github.com/0x213F/littlecomputer3))
 - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 - [Hello "Hello world!" (2020)](https://blog.jfo.click/hello-hello-world/) ([Lobsters](https://lobste.rs/s/uoluir/hello_hello_world))
+- [Art of Assembly Language](https://www.cs.yale.edu/flint/cs422/doc/art-of-asm/pdf/)

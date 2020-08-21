@@ -91,3 +91,4 @@
 - [Towards Observational Type Theory](http://strictlypositive.org/ott.pdf)
 - [Typing is Hard](https://typing-is-hard.ch/) ([Lobsters](https://lobste.rs/s/t7utm7/typing_is_hard))
 - [Types as axioms, or: playing god with static types (2020)](https://lexi-lambda.github.io/blog/2020/08/13/types-as-axioms-or-playing-god-with-static-types/) ([Lobsters](https://lobste.rs/s/zl3eha/types_as_axioms_playing_god_with_static))
+- [The Cartesian Product Algorithm (Type Inference) (1995)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.8177&rep=rep1&type=pdf)

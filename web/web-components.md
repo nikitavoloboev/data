@@ -11,3 +11,4 @@
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/) ([[HN](https://news.ycombinator.com/item?id=23871367)])
 - [Shoelace](https://github.com/shoelace-style/shoelace) - Forward-thinking library of web components. ([Docs](https://shoelace.style/))
 - [One web component to rule them all? (2020)](https://www.filamentgroup.com/lab/delegator/)
+- [Vanilla Web Components](https://github.com/vanillawc/vanillawc) - Framework-free, transpiler-free, scaffolding-free web components.

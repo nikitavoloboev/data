@@ -15,3 +15,4 @@
 - [Working with preprocessing layers](https://keras.io/guides/preprocessing_layers/)
 - [Keras for Beginners: Implementing a Recurrent Neural Network (2020)](https://victorzhou.com/blog/keras-rnn-tutorial/)
 - [ActivationFunctions using Custom Layers in Keras](https://github.com/Agrover112/ActivationFunctions)
+- [Training Keras models with TensorFlow Cloud](https://keras.io/guides/training_keras_models_on_cloud/)

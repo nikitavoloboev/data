@@ -71,7 +71,7 @@
 - [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
 - [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
-- [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics.
+- [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics. ([Docs](https://zizzamia.github.io/perfume/))
 - [How Khan Academy Successfully Handled 2.5x Traffic in a Week (2020)](http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm) ([HN](https://news.ycombinator.com/item?id=23168998))
 - [Quicklink](https://getquick.link/) - Drop-in solution for sites to prefetch links based on what is in the user's viewport. ([Code](https://github.com/GoogleChromeLabs/quicklink/)) ([Article](https://web.dev/quicklink/))
 - [Serve Videos Instead of GIFs (2020)](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) ([Lobsters](https://lobste.rs/s/x44a92/serve_videos_instead_gifs)) ([HN](https://news.ycombinator.com/item?id=23207019))
@@ -93,3 +93,4 @@
 - [Wikipedia's JavaScript initialisation on a budget (2020)](https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/) ([Lobsters](https://lobste.rs/s/dckdjb/wikipedia_s_javascript_initialisation))
 - [Web Design Guidelines for Low Bandwidth](http://www.aptivate.org/webguidelines/Guidelines.html)
 - [Environmental web design & use tips](https://floss.social/@alcinnz/104390993016046404)
+- [How Fast Should Your Load? (2020)](https://medium.com/firebase-developers/how-fast-should-your-site-load-cfb14be48e8b)

@@ -51,3 +51,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Soundslice](https://www.soundslice.com/) - Better music learning experience.
 - [Predicting the Music Mood of a Song with Deep Learning (2020)](https://towardsdatascience.com/predicting-the-music-mood-of-a-song-with-deep-learning-c3ac2b45229e)
 - [Plexamp](https://plexamp.com/) - Beautiful Plex music player for audiophiles, curators, and hipsters.
+- [Black Music History Library](https://blackmusiclibrary.com/Library)

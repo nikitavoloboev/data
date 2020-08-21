@@ -3,6 +3,7 @@
 ## Notes
 
 - [Avoid using AnyCollection.](https://twitter.com/AirspeedSwift/status/1294292068412473347)
+- [Swift collection types are value types, with copy-on-write to ensure performance as long as they aren’t shared.](https://lobste.rs/s/uel1zp/rust_ordinary_vectors_are_values)
 
 ## Links
 

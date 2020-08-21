@@ -28,6 +28,7 @@ Below is a list of plugins I use.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
 - [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
+- [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Advanced Vim emulation layer for Sublime Text.
 
 ## Markdown
 

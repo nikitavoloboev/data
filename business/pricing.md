@@ -23,3 +23,4 @@ Before selling things I owned, I look at prices of same or similar items on the 
 - [SaaS Pricing Models & How They Affect Valuation (2020)](https://empireflippers.com/saas-pricing-models/) ([HN](https://news.ycombinator.com/item?id=23193397))
 - [ProsperStack](https://prosperstack.com/) - Use Stripe to automatically prevent cancellations. ([HN](https://news.ycombinator.com/item?id=23501378))
 - [9 Tricks to Experiment with your Pricing Strategy (2020)](https://medium.com/point-nine-news/9-tricks-to-experiment-with-your-pricing-strategy-329b07a5b171)
+- [Subscription or no subscription? That is not the question (2020)](https://ia.net/topics/subscription-or-no-subscription)

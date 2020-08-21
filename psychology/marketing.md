@@ -1,5 +1,12 @@
 # Marketing
 
+## Notes
+
+- [Every startup should focus on its inbound and outbound strategies.](https://news.ycombinator.com/item?id=24233859)
+  - Inbound Marketing: Publish great content (blog posts, white papers, videos, resources things people will find genuinely useful) across the web on topics related to your service so that users find you. Out the most compelling resources behind a lead form that helps you qualify them as potential buyers. This gets the user acquainted with you and also gives you their contact info for follow up marketing or sales contacts.
+  - Outbound Sales: Reaching out directly to the leads you have acquired (best quality) or off some other list (lower, variable quality). Sometimes the contact will be happy to engage and learn more. Other times not.
+  - You can and will win sales from the inbound piece alone, especially if you have a clear and efficient sign up process. But you'll find you can greatly amplify the number of closed sales by reaching out to users and engaging them directly. That human touch adds a whole new element.
+
 ## Links
 
 - [Lucky Retweet](https://luckyretweet.now.sh/) - Just paste a tweet and choose a number of winners.
@@ -44,6 +51,7 @@
 - [Papercups](https://papercups.io/) - Connect with your customers. Own your data. ([Code](https://github.com/papercups-io/papercups)) ([HN](https://news.ycombinator.com/item?id=24133719))
 - [Ads Don’t Work That Way (2014)](https://meltingasphalt.com/ads-dont-work-that-way/)
 - [7 mistakes startups make with their messaging](https://twitter.com/Nicolascole77/status/1295742352301015041)
+- [Product-led Growth (2020)](https://posthog.com/blog/product-led-growth) ([HN](https://news.ycombinator.com/item?id=24233859))
 
 ## Images
 

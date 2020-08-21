@@ -32,3 +32,5 @@
 - [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping)
 - [Common Crawl](http://commoncrawl.org/) - Build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone.
 - [Cognito Common Crawl](https://github.com/andresriancho/cc-lambda) - Search the common crawl using lambda functions.
+- [Awesome Open Source Javascript Projects for Web Scraping (2020)](https://scrapingant.com/awesome-open-source-javascript-projects-for-web-scraping/)
+- [ScrapingAnt](https://scrapingant.com/) - All in One Scraping API. Rotating Proxies. Headless Chrome.

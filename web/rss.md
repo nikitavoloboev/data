@@ -34,7 +34,7 @@
 - [HTTP Conditional Get for RSS Hackers (2002)](https://fishbowl.pastiche.org/2002/10/21/http_conditional_get_for_rss_hackers)
 - [Bespoke software, and a really simple RSS aggregator (2020)](https://routley.io/posts/bespoke-software-rss-aggregator/) ([HN](https://news.ycombinator.com/item?id=23304512))
 - [Which Atom/RSS reader do you use? (2020)](https://lobste.rs/s/hwhptd/which_atom_rss_reader_do_you_use)
-- [RSSHub](https://rsshub.app/) - Open source, easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything. ([Code](https://github.com/DIYgod/RSSHub))
+- [RSSHub](https://rsshub.app/) - Open source, easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything. ([Code](https://github.com/DIYgod/RSSHub)) ([HN](https://news.ycombinator.com/item?id=24213682))
 - [go-rss](https://github.com/ungerik/go-rss) - Simple RSS parser for Go.
 - [siftrss](https://siftrss.com/) - Filter your RSS feeds and throw away the junk.
 - [FeedFox](https://github.com/manikandanraji/feedfox) - Modern RSS reader that allows you to play youtube videos, listen to podcasts, download torrents, browser reddit, twitter and view cat GIFs.
@@ -51,3 +51,4 @@
 - [Reading RSS feeds from wacky protocols with newsboat (2020)](https://brokenco.de/2020/07/07/newsboat-wacky-feeds.html)
 - [News And Rumors](https://newsandrumors.com/) - Alternative RSS reader and search engine for news and content. ([HN](https://news.ycombinator.com/item?id=23999065))
 - [About Feeds](https://aboutfeeds.com/) - Getting Started guide to web feeds/RSS.
+- [Feed Creator](http://createfeed.fivefilters.org/) - Create feed from web page elements.

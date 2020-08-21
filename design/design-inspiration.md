@@ -43,6 +43,7 @@ Here are few more things I liked, design wise.
 - [Materialize](https://materialize.io/)
 - [Dropbase](https://www.dropbase.io/)
 - [Failory](https://www.failory.com/)
+- [iA](https://ia.net/)
 
 ## Blogs
 
@@ -132,6 +133,7 @@ Here are few more things I liked, design wise.
 - [Steven Fabre](http://stevenfabre.com)
 - [Max Böck](https://mxb.dev/) ([Code](https://github.com/maxboeck/mxb))
 - [Amie Chen](https://www.amie-chen.com/)
+- [Arun Venkatesan](https://www.arun.is/)
 - [Boris Muller](https://esono.com/)
 - [Jordan Lewis](https://jordanlewis.org/)
 - [Hayk An](https://hayk.design/#/)
@@ -251,6 +253,7 @@ Here are few more things I liked, design wise.
 - [Nienke Dekker](https://nienke.dev/)
 - [Stefan Baumgartner](https://fettblog.eu/)
 - [Luke Miles](https://ylukem.com/)
+- [Hillel Wayne](https://hillelwayne.com/)
 - [Ethan Marcotte](https://ethanmarcotte.com/)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))

@@ -291,3 +291,6 @@
 - [Run Rust on your embedded device from VSCode in one click (2020)](https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/)
 - [Practical Networked Applications in Rust, Part 1 (2019)](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/) ([Part 2](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-2/))
 - [Rust and C++ Interoperability in Chrome (2020)](https://www.chromium.org/Home/chromium-security/memory-safety/rust-and-c-interoperability) ([HN](https://news.ycombinator.com/item?id=24211691))
+- [Rust Unstable Book](https://doc.rust-lang.org/unstable-book/the-unstable-book.html)
+- [First thoughts on Rust vs OCaml (2020)](https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/) ([Lobsters](https://lobste.rs/s/vmkv3r/first_thoughts_on_rust_vs_ocaml)) ([HN](https://news.ycombinator.com/item?id=24223018))
+- [In Rust, ordinary vectors are values (2018)](http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/)

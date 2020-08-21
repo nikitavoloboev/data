@@ -124,3 +124,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design Books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f)
 - [TTN Design Guidelines](https://github.com/TheThingsNetwork/lorawan-stack/blob/v3.9/DESIGN.md)
 - [LogoArchive](https://www.logoarchive.shop/) - Study of form language in logo design. ([IG](https://www.instagram.com/LogoArchive/))
+- [iA new site design (2020)](https://ia.net/topics/newsite)

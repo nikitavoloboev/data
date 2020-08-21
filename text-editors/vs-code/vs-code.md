@@ -41,3 +41,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [sail](https://github.com/cdr/sail) - Instant, pre-configured VS Code development environments.
 - [StackBlitz](https://stackblitz.com/) - Online IDE powered by Visual Studio Code. ([Code](https://github.com/stackblitz/core))
 - [The best Parts of Visual Studio Code are proprietary (2020)](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html) ([HN](https://news.ycombinator.com/item?id=24047638))
+- [VS Code Rocks](https://vscode.rocks/) - Weekly news on the newest features and updates to VSCode.

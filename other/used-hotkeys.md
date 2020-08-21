@@ -79,8 +79,10 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - x - Selection -> Reddit
 - b - Selection -> Medium
 - n - Selection -> GitHub
+- m - Selection -> Typinator snippet
 
 ## CMD+OPT+CTRL+SHIFT
 
 - t - Open Trello
+- g - Loom recording
 - Space - Alfred

@@ -49,3 +49,4 @@
 - [flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
 - [Cozyroom](https://cozyroom.xyz/) - Free peer-to-peer spatial audio environments.
 - [TrustNet](https://cblgh.org/articles/trustnet.html) - Trust-based Moderation Systems.
+- [Farm](https://github.com/inkandswitch/farm) - Extensible, programmable environment with real-time and offline collaboration with other users and no mandatory infrastructure.

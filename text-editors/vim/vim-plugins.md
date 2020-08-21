@@ -162,6 +162,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [lightline-ale](https://github.com/maximbaz/lightline-ale) - Provides ALE indicator for the lightline vim plugin.
 
+## OCaml
+
+- [Merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs.
+
 ## Vim
 
 - [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
