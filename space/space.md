@@ -52,3 +52,4 @@
 - [DIY Satellite Ground Station to Receive NOAA Images](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station) ([HN](https://news.ycombinator.com/item?id=24129162))
 - [Fastest star ever seen is moving at 8% the speed of light](https://phys.org/news/2020-08-fastest-star.html) ([HN](https://news.ycombinator.com/item?id=24169732))
 - [What’s Flying Above Us?](https://skycircl.es/donate/) ([HN](https://news.ycombinator.com/item?id=24188661))
+- [Tour of the outer Solar System in radio light](https://twitter.com/TheNRAO/status/1296633586880253952)

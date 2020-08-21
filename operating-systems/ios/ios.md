@@ -70,6 +70,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - It’s useful to setup apps to open links in Safari and not in-browser where possible (i.e. Tweetbot)
 - [To share purchased content, all family members must be on the same country or region.](https://support.apple.com/en-us/HT201454)
 - [iOS app dev tip: If you wanted an app name but it's not available, change the primary language on App Store Connect. Apps are region specific, and you may end up finding that it's still available in most languages (English US is usually taken).](https://twitter.com/JPEGuin/status/1269915954424791041)
+- [Texture is great library for iOS if you need top performance.](https://twitter.com/JordanMorgan10/status/1296774307218169856)
 
 ## Links
 
