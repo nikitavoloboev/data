@@ -1,5 +1,9 @@
 # [Roam Research](https://roamresearch.com/)
 
+## Notes
+
+- [Always grow your systems iteratively. I think part of what “true” Roamanship is is to reduce any and all sources of friction when adding new things, including the need to keep things neat and tidy.](https://www.reddit.com/r/RoamResearch/comments/ie8la8/how_do_you_deal_with_a_chaotic_database/)
+
 ## Links
 
 - [Roam Research MVP Review: Pages + Bullets = Cool New Product Category (2020)](https://medium.com/bloated-mvp/roam-research-mvp-review-pages-bullets-cool-new-product-category-28baf5dd0a3)
