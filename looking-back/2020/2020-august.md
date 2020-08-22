@@ -48,3 +48,7 @@ I think I'll try to write my plans out here for myself, in context of my goals. 
 Writing these out, reminded me of [Julian's site](https://julian.digital/2020/07/12/a-mid-year-check-in-on-my-2020-goals/). He writes these kinds of things in public too as a sort of review. [Media consumption](https://julian.digital/2020/08/02/media-consumption-jul-2020/) too. Only everyone has a fancy site to go along with it.
 
 🎼 Tor is [nice](https://open.spotify.com/track/7vYO7MSeKpjD6y7WscPN3c?si=m09s3fOrSy6lkHwpdug57w).
+
+## 22
+
+So [Vimari](https://twitter.com/nikitavoloboev/status/1297127939767775232) part is done. [Nick](https://nickbelzer.me) has done an amazing job at moving Vimari forward.
