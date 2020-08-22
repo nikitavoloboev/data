@@ -34,3 +34,4 @@
 - [Cognito Common Crawl](https://github.com/andresriancho/cc-lambda) - Search the common crawl using lambda functions.
 - [Awesome Open Source Javascript Projects for Web Scraping (2020)](https://scrapingant.com/awesome-open-source-javascript-projects-for-web-scraping/)
 - [ScrapingAnt](https://scrapingant.com/) - All in One Scraping API. Rotating Proxies. Headless Chrome.
+- [Django Dynamic Scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.

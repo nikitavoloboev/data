@@ -70,3 +70,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Dark Forest](https://zkga.me/) - Fully-decentralized RTS built on ethereum with zk-SNARKs. ([v0.3 summary](https://twitter.com/darkforest_eth/status/1295067861665423365)) ([Blog](https://blog.zkga.me/)) ([Code](https://github.com/darkforest-eth/darkforest-v0.3)) ([Announcement](https://blog.zkga.me/announcing-darkforest))
 - [Solidity Template](https://github.com/PaulRBerg/solidity-template) - To be used when building a new solidity project from scratch.
 - [Create Eth App](https://github.com/PaulRBerg/create-eth-app)
+- [Buidler](https://buidler.dev/) - Task runner for Ethereum smart contract developers. ([Code](https://github.com/nomiclabs/buidler))
+- [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm) - Ethereum VM implemented in JavaScript.
