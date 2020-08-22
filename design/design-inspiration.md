@@ -134,6 +134,7 @@ Here are few more things I liked, design wise.
 - [Max Böck](https://mxb.dev/) ([Code](https://github.com/maxboeck/mxb))
 - [Amie Chen](https://www.amie-chen.com/)
 - [Arun Venkatesan](https://www.arun.is/)
+- [Tina He](http://tinahe.co/)
 - [Boris Muller](https://esono.com/)
 - [Jordan Lewis](https://jordanlewis.org/)
 - [Hayk An](https://hayk.design/#/)

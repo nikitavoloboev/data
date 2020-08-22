@@ -70,3 +70,4 @@
 - [Raise less money (2020)](https://www.aaronkharris.com/raise-less-money) ([HN](https://news.ycombinator.com/item?id=24133146))
 - [Ludlow Ventures](https://www.ludlowventures.com/)
 - [Gelt VC](https://www.gelt.vc/)
+- [Babel Ventures](https://www.babel.ventures/)

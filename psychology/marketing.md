@@ -52,6 +52,7 @@
 - [Ads Don’t Work That Way (2014)](https://meltingasphalt.com/ads-dont-work-that-way/)
 - [7 mistakes startups make with their messaging](https://twitter.com/Nicolascole77/status/1295742352301015041)
 - [Product-led Growth (2020)](https://posthog.com/blog/product-led-growth) ([HN](https://news.ycombinator.com/item?id=24233859))
+- [Assembled Brands](https://assembledbrands.com/) - New Approach to Growing Brands.
 
 ## Images
 
