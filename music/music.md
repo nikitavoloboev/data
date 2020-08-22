@@ -52,3 +52,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Predicting the Music Mood of a Song with Deep Learning (2020)](https://towardsdatascience.com/predicting-the-music-mood-of-a-song-with-deep-learning-c3ac2b45229e)
 - [Plexamp](https://plexamp.com/) - Beautiful Plex music player for audiophiles, curators, and hipsters.
 - [Black Music History Library](https://blackmusiclibrary.com/Library)
+- [A Tale Of Two Ecosystems: On Bandcamp, Spotify And The Wide-Open Future (2020)](https://www.npr.org/2020/08/19/903547253/a-tale-of-two-ecosystems-on-bandcamp-spotify-and-the-wide-open-future?t=1598103940702)

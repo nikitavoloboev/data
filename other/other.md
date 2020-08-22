@@ -307,3 +307,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Tildes](https://gitlab.com/tildes/tildes) - Non-profit community site. ([Web](https://tildes.net/))
 - [Jam](https://jam.dev/) - Comment and react directly on the pages of your product.
 - [Partitions](https://www.partitions.io/) - Threaded group chat, for the software industry.
+- [SecureDrop](https://securedrop.org/) - Share and accept documents securely.

@@ -116,6 +116,7 @@ And these Discord servers:
 - [Old News is Ripe Knowledge](https://oldnews.dev/)
 - [Morning Brew](https://www.morningbrew.com/)
 - [dev.to](https://dev.to/) ([dev.to is now open source](https://dev.to/ben/devto-is-now-open-source-5n1))
+- [NPR](https://www.npr.org/)
 
 ## Notes
 
