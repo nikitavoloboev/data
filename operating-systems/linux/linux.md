@@ -157,3 +157,5 @@
 - [Articles on BPF](https://lwn.net/Kernel/Index/#Berkeley_Packet_Filter)
 - [Lobsters: A Case against Wayland](https://lobste.rs/s/3ggfkc/case_against_wayland_2011)
 - [How the ARM32 kernel starts (2020)](https://people.kernel.org/linusw/how-the-arm32-kernel-starts)
+- [The design of lock_sock() in Linux kernel (2018)](https://medium.com/@c0ngwang/the-design-of-lock-sock-in-linux-kernel-69c3406e504b) ([Tweet](https://twitter.com/penberg/status/1296811744015384583))
+- [On Kernel-Bypass Networking and Programmable Packet Processing (2018)](https://medium.com/@penberg/on-kernel-bypass-networking-and-programmable-packet-processing-799609b06898)

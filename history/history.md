@@ -54,3 +54,4 @@
 - [Everyday Technology: Machines and the Making of India's Modernity](https://bookshop.org/books/everyday-technology-machines-and-the-making-of-india-s-modernity/9780226269375)
 - [A \$10B Experimental City Nearly Got Built in Rural Minnesota (2018)](https://www.smithsonianmag.com/innovation/how-10-billion-experimental-city-nearly-got-built-rural-minnesota-180968617/) ([HN](https://news.ycombinator.com/item?id=24184470))
 - [History of opposition to the civil rights movement](https://twitter.com/GKBesterfriend/status/1295428171198685184)
+- [MTV First Four Hours Remastered (1981)](https://archive.org/details/1981.08.01_MTV_First_Four_Hours_Remastered_12am_Saturday_August_1st_1981/1981.08.01+-+MTV+First+Four+Hours+Remastered+-+01+-+Original+Broadcast+-+12am+Saturday+August+1st%2C+1981.mpg)
