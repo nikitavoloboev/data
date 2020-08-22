@@ -71,3 +71,5 @@
 - [Ludlow Ventures](https://www.ludlowventures.com/)
 - [Gelt VC](https://www.gelt.vc/)
 - [Babel Ventures](https://www.babel.ventures/)
+- [Pace Capital](https://www.pacecapital.com/)
+- [NEA](https://www.nea.com/)
