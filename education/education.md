@@ -53,4 +53,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Harvard CS professor David Malan built a distance-learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire) ([HN](https://news.ycombinator.com/item?id=23905985))
 - [A College Degree Is No Guarantee of a Good Life (2020)](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/) ([HN](https://news.ycombinator.com/item?id=24007278))
 - [Epihub](https://epihub.com/) - Shopify for teaching online. ([HN](https://news.ycombinator.com/item?id=24215376))
-- [MLH Fellowship](https://fellowship.mlh.io/) - Spend 12-weeks remotely leveling up your skills & building out your portfolio under the guidance of an expert mentor.
+- [MLH Fellowship](https://fellowship.mlh.io/) - Spend 12-weeks remotely leveling up your skills & building out your portfolio under the guidance of an expert mentor. ([Experience of doing the program](https://dev.to/jessie_anh_nguyen/growing-as-a-developer-through-the-mlh-fellowship-eb2))
