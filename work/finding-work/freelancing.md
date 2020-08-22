@@ -1,5 +1,9 @@
 # Freelancing
 
+## Notes
+
+- [Use Loom to provide updates on projects for clients.](https://twitter.com/johndsaunders/status/1294263930018312194)
+
 ## Links
 
 - [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk) ([HN](https://news.ycombinator.com/item?id=9726182))
