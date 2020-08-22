@@ -23,6 +23,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 
 - [The source for pimbook.org](https://github.com/pim-book/pim-book.github.io)
 - [Oxide Computer](https://github.com/oxidecomputer/design.oxide.computer)
+- [Platform.sh User Docs](https://github.com/platformsh/platformsh-docs)
 
 ## Links
 
