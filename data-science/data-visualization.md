@@ -47,3 +47,6 @@
 - [Best of the visualization web (2020)](https://www.visualisingdata.com/2020/07/best-of-the-visualisation-web-april-2020/)
 - [Data Visualisation Catalogue](https://datavizcatalogue.com/index.html) ([HN](https://news.ycombinator.com/item?id=23915694))
 - [Muze](https://muzejs.org/) - Free data visualization library to create Tableau-like charts in browser.
+- [Beautiful News](https://informationisbeautiful.net/beautifulnews/) - Unseen trends, uplifting stats - daily.
+- [Data-Visualization Books Everyone Should Read](https://informationisbeautiful.net/visualizations/dataviz-books/)
+- [Information is Beautiful](https://informationisbeautiful.net/)
