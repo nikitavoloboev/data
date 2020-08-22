@@ -70,3 +70,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim Search, Find and Replace: a Detailed Guide (2020)](https://thevaluable.dev/vim-search-find-replace/)
 - [Neovim 0.5.0: Language Server Protocol (2020)](https://nathansmith.io/posts/neovim-lsp)
 - [Neovim for macOS](https://github.com/JaySandhu/neovim-mac) - Fast, minimal, Neovim GUI for macOS.
+- [VimTricks](https://vimtricks.com/) - Weekly Vim tips, tricks, guides, screencasts, and more.

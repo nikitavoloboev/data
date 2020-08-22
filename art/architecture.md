@@ -35,3 +35,6 @@
 - [Floorplanner](https://floorplanner.com/) - Create 2D & 3D floorplans for real estate, office space or your home.
 - [Coohom](https://www.coohom.com/) - Create 3D models and apply them in cutting edge AR, VR, 360-degree spins, floorplanning, and high-quality rendering solutions.
 - [Styldod](https://www.styldod.com/) - Virtual Home Staging & Interior Design Solutions.
+- [Selling Sunset](https://iknowaspot.substack.com/p/-selling-sunset)
+- [I Know a Spot](https://iknowaspot.substack.com/)
+- [Amazingly spacious house](https://twitter.com/ariel_n/status/1261038889466130433)

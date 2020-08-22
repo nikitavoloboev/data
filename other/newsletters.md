@@ -24,3 +24,4 @@
 - [5 months in: My honest review of Substack (2020)](https://www.indiehackers.com/post/5-months-in-my-honest-review-of-substack-45bab46aea)
 - [Newsletters and New Media Economics (2020)](https://diff.substack.com/p/newsletters-and-new-media-economics)
 - [Mailing List Hackers](https://www.mailinglisthackers.com/) - Virtual community for mailing list and newsletter builders.
+- [10 Tweets about Newsletters, 3 words each](https://twitter.com/Kamphey/status/1285773961138036742)
