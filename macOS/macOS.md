@@ -96,3 +96,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Sinter](https://github.com/trailofbits/sinter) - User-mode application authorization system for MacOS written in Swift. ([Article](https://blog.trailofbits.com/2020/08/12/sinter-new-user-mode-security-enforcement-for-macos/))
 - [MacPorts package manager](https://www.macports.org/) ([Code](https://github.com/macports/macports-ports))
 - [macOS icon pack](https://macosicons.com/) - Beautiful open source icons for Big Sur. ([Code](https://github.com/elrumo/macOS_Big_Sur_icons_replacements))
+- [Thoughts on macOS Package Managers (2019)](https://saagarjha.com/blog/2019/04/26/thoughts-on-macos-package-managers/)

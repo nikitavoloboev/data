@@ -57,3 +57,4 @@ Success comes from not giving up and doing what you love.
 - [How to be more positive sum](https://twitter.com/eriktorenberg/status/1105556875611795456)
 - [30 Year Thinking (2020)](https://www.nateliason.com/blog/30-years)
 - [Blueprint I've followed to build my own business/income in ~4 years (2020)](https://twitter.com/jdnoc/status/1291773397010087938)
+- [Advice on making a living as an independent maker (2020)](https://twitter.com/adamwathan/status/1296447318074568704)

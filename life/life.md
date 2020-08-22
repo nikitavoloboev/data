@@ -25,3 +25,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [The Chiral Puzzle of Life (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6) ([HN](https://news.ycombinator.com/item?id=23294294))
 - [Life as Thermodynamic Evidence of Algorithmic Structure in Nature (2012)](https://www.mdpi.com/1099-4300/14/11/2173) ([HN](https://news.ycombinator.com/item?id=23448081))
 - [Ask HN: I implemented the life I designed: perfect but I feel lost. What now? (2020)](https://news.ycombinator.com/item?id=23450110)
+- [‘Electric mud’ teems with new, mysterious bacteria (2020)](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria) ([HN](https://news.ycombinator.com/item?id=24233544))
