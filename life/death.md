@@ -23,3 +23,4 @@ One advantage that this view of the world brings. The view that everything that 
 - [Practicing Death (with 5-MeO-DMT)](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75716)
 - [What do people die from?](https://ourworldindata.org/what-does-the-world-die-from)
 - [Living is Dying – How to Prepare for Dying, Death and Beyond](https://www.siddharthasintent.org/resources/publications/living-is-dying-how-to-prepare-for-dying-death-and-beyond/)
+- [How do you prepare the experience of dying? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/ie23u1/how_do_you_prepare_the_experience_of_dying/)
