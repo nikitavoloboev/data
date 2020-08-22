@@ -68,3 +68,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Uniswap](https://uniswap.org/) - Fully decentralized protocol for automated liquidity provision on Ethereum. ([Beta](https://beta.uniswap.info/home))
 - [The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum (2020)](https://www.goodreads.com/book/show/50175330)
 - [Dark Forest](https://zkga.me/) - Fully-decentralized RTS built on ethereum with zk-SNARKs. ([v0.3 summary](https://twitter.com/darkforest_eth/status/1295067861665423365)) ([Blog](https://blog.zkga.me/)) ([Code](https://github.com/darkforest-eth/darkforest-v0.3)) ([Announcement](https://blog.zkga.me/announcing-darkforest))
+- [Solidity Template](https://github.com/PaulRBerg/solidity-template) - To be used when building a new solidity project from scratch.
+- [Create Eth App](https://github.com/PaulRBerg/create-eth-app)
