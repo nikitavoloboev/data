@@ -101,7 +101,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Sauced](https://opensauced.pizza/) - Provides structured onboarding for new contributors to open source. ([Code](https://github.com/open-sauced/open-sauced)) ([Web](https://opensauced.pizza/))
 - [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
 - ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
-- [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/) ([Article](https://nayafia.substack.com/p/22-working-in-public))
+- [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/) ([Article](https://nayafia.substack.com/p/22-working-in-public)) ([Notes](https://twitter.com/devonzuegel/status/1292212683748585473))
 - [I Just Hit \$100,000/yr On GitHub Sponsors. Here’s How I Did It! (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it) ([HN](https://news.ycombinator.com/item?id=23613719))
 - [Libraries.io](https://libraries.io/) - Open Source Discovery Service. ([Code](https://github.com/librariesio/libraries.io))
 - [Open Source Sustainability (2020)](https://dev.to/erikras/open-source-sustainability-3pjf)

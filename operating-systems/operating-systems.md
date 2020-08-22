@@ -118,3 +118,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Operating System Design: The Xinu Approach](https://xinu.cs.purdue.edu/)
 - [Operating Systems Design & Implementation MINIX Book](<http://index-of.es/EBooks/Operating%20Systems%20Design%20&%20Implementation%203rd%20Edition(1).pdf>)
 - [The Evolution and Future of Hypervisors (2017)](https://medium.com/@penberg/the-evolution-and-future-of-hypervisors-999f568f9a5d)
+- [A Text-Based Desktop Environment](https://vtm.netxs.online/) ([HN](https://news.ycombinator.com/item?id=24243521)) ([Code](https://github.com/netxs-group/VTM))
