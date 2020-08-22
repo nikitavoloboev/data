@@ -28,3 +28,5 @@
 - [Commerce Tea](https://commercetea.com/) - Podcast about succeeding on Shopify.
 - [Shop](https://shop.app/) - Online shopping assistant that makes every part of your experience better.
 - [Interactive e-commerce](https://www.dropbox.com/s/dkkv5b3ru06ty4v/Interactive%20Ecommerce%20Whitepaper%202020.08.10.pdf)
+- [Drive more traffic to your Shopify store and increase your sales - Interlayer](https://interlayer.io/traffic-exchange/shopify/)
+- [Interlayer](https://interlayer.io/) - Increase your Ecommerce, Website and Blog traffic in minutes. ([Shopify plugin](https://interlayer.io/traffic-exchange/shopify/))

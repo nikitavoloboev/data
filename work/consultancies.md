@@ -47,6 +47,7 @@
 - [Unfold](https://unfold.co/) - Create delightful experiences for brands. ([Dribble](https://dribbble.com/unfold))
 - [Clay](https://clay.global/) - UI/UX Design Agency, Web Design & Branding. ([Dribble](https://dribbble.com/clayglobal))
 - [makemepulse](https://www.makemepulse.com/)
+- [Milkinside](https://milkinside.com/)
 
 ## DB
 
