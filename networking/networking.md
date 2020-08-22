@@ -125,4 +125,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Adding a fiber link to my home network (2020)](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/) ([HN](https://news.ycombinator.com/item?id=24099425))
 - ["Cloud-like" Infrastructure at Home - Part 1: LoadBalancers on the Metal (2020)](https://cmacr.ae/post/2020-08-10-cloud-like-infra-at-home-part-1/)
 - [Ask HN: How Belarus can keep connected despite internet blackout? (2020)](https://news.ycombinator.com/item?id=24129059)
-- [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
+- [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works))
+- [Peer-to-Peer Communication Across Network Address Translators](https://bford.info/pub/net/p2pnat/)
