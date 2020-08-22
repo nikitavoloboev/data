@@ -306,4 +306,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Aesthetica Magazine](https://aestheticamagazine.com/) - The Art & Culture Magazine.
 - [GUIs Through Art History](https://hyperlink.academy/courses/guis-through-art-history/2) - Explore new styles of interface design inspired by art history movements.
 - [TASCHEN Books](https://www.taschen.com/) - Publisher of books on art, architecture, design and photography.
-- [amorfati](https://amorfati.substack.com/)
+- [AmorFati](https://amorfati.substack.com/) - Personal mood board of art, poetry, photography, and architecture, that has moved me.

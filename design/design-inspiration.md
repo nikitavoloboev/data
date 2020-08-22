@@ -290,6 +290,8 @@ Here are few more things I liked, design wise.
 - [Linus Lee](https://thesephist.com/)
 - [Kentaro Wada](https://www.wkentaro.com/)
 - [Gal Shir](https://galshir.com/)
+- [Patricia Mou](https://patriciamou.com/)
+- [Phil Hedayatnia](http://hedayatnia.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Marcos Alonso](http://marcosalonso.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
