@@ -151,3 +151,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 - [Cloudflare Docs](https://developers.cloudflare.com/docs/)
 - [Raw Sockets API proposal](https://github.com/WICG/raw-sockets)
+- [Deploy Friday Live Q&A](https://www.youtube.com/playlist?list=PLn5EpEMtxTCmLsbLgaN3djvEkRdp-YmlE)
