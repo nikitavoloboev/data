@@ -278,3 +278,4 @@
 - [The Computational Limits of Deep Learning (2020)](https://arxiv.org/abs/2007.05558) ([HN](https://news.ycombinator.com/item?id=24192117))
 - [Awesome MLOps](https://ml-ops.org/) ([Code](https://github.com/visenger/awesome-mlops)) ([References](https://ml-ops.org/content/references.html))
 - [Benchmarks of approximate nearest neighbor libraries in Python](https://github.com/erikbern/ann-benchmarks) ([Web](http://ann-benchmarks.com/))
+- [MIT Deep Learning course](https://github.com/lexfridman/mit-deep-learning)
