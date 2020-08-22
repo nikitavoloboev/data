@@ -118,3 +118,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Once Upon a Type](https://hyperlink.academy/courses/once-upon-a-type/17)
 - [Leading-Trim: The Future of Digital Typesetting (2020)](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202) - How an emerging CSS standard can fix old problems and raise the bar for web apps.
 - [Cap height](https://github.com/sebdesign/cap-height) - Calculate the cap height of fonts loaded with Web Font Loader.
+- [Use advanced typography with local fonts (2020)](https://web.dev/local-fonts/)

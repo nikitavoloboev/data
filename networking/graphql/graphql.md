@@ -124,3 +124,4 @@
 - [Demystifying GraphQL Connections (2020)](https://andrewingram.net/posts/demystifying-graphql-connections/)
 - [Apollo Client & Client-side Architecture Basics (2020)](https://www.apollographql.com/blog/apollo-client-client-side-architecture-basics/)
 - [Testing GraphQL Backend in Product Hunt (2020)](https://blog.rstankov.com/testing-graphql-backend-in-product-hunt/)
+- [Why I Don’t Use GraphQL Anymore (2020)](https://www.youtube.com/watch?v=S1wQ0WvJK64) ([Tweet](https://twitter.com/dabit3/status/1296808912365260804))
