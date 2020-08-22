@@ -40,3 +40,4 @@
 - [The Roots of Progress](https://rootsofprogress.org/) - The story of human progress—and how we can keep it going.
 - [Progress Studies for Aspiring Young Scholars](https://progressstudies.school/) - Online summer program in the history of technology for high school students. ([HN](https://news.ycombinator.com/item?id=23665298))
 - [Future of work + cities (2020)](https://twitter.com/wolfejosh/status/1295742515879055367)
+- [Fascinating Internet niche communities](https://twitter.com/_patriciamou/status/1296654041569570819)

@@ -16,3 +16,4 @@
 - [Outlier](https://outlier.nyc/)
 - [Kotn](https://kotn.com/) - Premium Essentials, Ethically Made.
 - [Ugmonk](https://ugmonk.com/)
+- [Stitch Fix](https://www.stitchfix.com/) - Personal Styling for Everybody.

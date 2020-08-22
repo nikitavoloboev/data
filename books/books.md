@@ -193,6 +193,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [8 Science Fiction Books That Get Programming Right](https://www.tor.com/2020/08/14/8-science-fiction-books-that-get-programming-right/)
 - [Juanito Fatas Bookshelf](https://juanitofatas.com/bookshelf)
 - [Library of Merveilles](https://github.com/merveilles/Librarium)
+- [Patricia Mou Bookshelf](https://patriciamou.com/my-shelf)
 
 ## Notes
 

@@ -25,3 +25,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Being Alone](https://www.ankit.fyi/being-alone) ([HN](https://news.ycombinator.com/item?id=23592161))
 - [Derek Sivers & The Art of Enough (2020)](https://brendancahill.io/brensblog/dereksivers) ([HN](https://news.ycombinator.com/item?id=24020263))
 - [HN: Mindfulness and meditation can worsen depression and anxiety (2020)](https://news.ycombinator.com/item?id=24185710)
+- [Wellness Wisdom](https://wellnesswisdom.substack.com/)
