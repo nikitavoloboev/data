@@ -12,3 +12,4 @@
 - [The Book of Minecraft Modding](https://thebookofmodding.ml/) ([HN](https://news.ycombinator.com/item?id=23723058))
 - [Langcraft](https://github.com/SuperTails/langcraft) - Compiler from LLVM IR to Minecraft datapacks. ([Reddit](https://www.reddit.com/r/rust/comments/hx3we0/langcraft_the_llvm_target_for_minecraft_youve/)) ([HN](https://news.ycombinator.com/item?id=23955371))
 - [SpongeAPI](https://www.spongepowered.org/) - Minecraft plugin API. ([Code](https://github.com/SpongePowered/SpongeAPI))
+- [mcview](https://github.com/kbinani/mcview) - Minecraft: top-down 2D map viewer.

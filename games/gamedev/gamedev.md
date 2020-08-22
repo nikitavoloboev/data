@@ -7,6 +7,7 @@
 - [CD PROJEKT RED](https://en.cdprojektred.com/)
 - [GSC Game World](https://www.gsc-game.com/) - Makers of Stalker.
 - [HiWarp](https://www.hiwarp.com/) - Indie Game Studio.
+- [5 Lives Studios](http://5livesstudios.com/)
 
 ## Notes
 

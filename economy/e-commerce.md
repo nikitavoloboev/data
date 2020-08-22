@@ -27,3 +27,4 @@
 - [Otis](https://withotis.com/) - Culture Is A New Asset.
 - [Commerce Tea](https://commercetea.com/) - Podcast about succeeding on Shopify.
 - [Shop](https://shop.app/) - Online shopping assistant that makes every part of your experience better.
+- [Interactive e-commerce](https://www.dropbox.com/s/dkkv5b3ru06ty4v/Interactive%20Ecommerce%20Whitepaper%202020.08.10.pdf)

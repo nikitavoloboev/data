@@ -15,3 +15,4 @@
 - [Software Renderer](https://github.com/zauonlok/renderer) - Shader-based software renderer written from scratch in C89.
 - [MatCaps](https://github.com/nidorx/matcaps) - Huge library of MatCap textures in PNG and ZMT.
 - [Shader Doodle](https://github.com/halvves/shader-doodle) - Friendly web-component for writing and rendering shaders.
+- [Collection of shaders to draw color maps](https://github.com/kbinani/colormap-shaders)
