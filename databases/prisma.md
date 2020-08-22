@@ -18,3 +18,4 @@
 - [Prisma Engines](https://github.com/prisma/prisma-engines) - Collection of engines that power the core stack for Prisma.
 - [Prisma Language Support](https://github.com/prisma/language-tools)
 - [Awesome Prisma](https://github.com/catalinmiron/awesome-prisma)
+- [Nikolas Burk on Prisma 2 (2020)](https://overcast.fm/+N_6LdHvjk)
