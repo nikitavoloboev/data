@@ -311,4 +311,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Fakepixels](https://fakepixels.com/) ([Newsletter](https://fakepixels.substack.com/))
 - [BKYD](http://bkyd.community/) - Kickstart Any Side Project.
 - [The Violet Society](https://www.thevioletsociety.com/) - Technology Peer Mentorship.
-- [Cuppa](https://www.getcuppa.io/) - 1-1 virtual coffees with top tech talent sourced from Twitter.
+- [Cuppa](https://www.getcuppa.io/) - 1-1 virtual coffees with top tech talent sourced from Twitter. ([HN](https://news.ycombinator.com/item?id=24244721))

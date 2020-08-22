@@ -325,3 +325,4 @@ Go promotes composition over inheritance.
 - [Proposal: Register-based Go calling convention (2020)](https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md)
 - [Little Go Book](https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md)
 - [Speeding up json processing in go (2020)](https://klotzandrew.com/blog/speeding-up-json-processing-in-go)
+- [Implementing traceroute in Go (2020)](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)

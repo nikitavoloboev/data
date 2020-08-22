@@ -197,3 +197,4 @@
 - [Testing Database Engines via Pivoted Query Synthesis (2020)](https://arxiv.org/abs/2001.04174) ([Tweet](https://twitter.com/electron0zero/status/1295446187084877824))
 - [Splitgraph](https://www.splitgraph.com/) - Integrated data catalog and database proxy. ([Code](https://github.com/splitgraph/splitgraph)) ([Splitgraph Data Delivery Network](https://www.splitgraph.com/blog/data-delivery-network-launch)) ([HN](https://news.ycombinator.com/item?id=24233948))
   )
+- [Database backup strategies (2019)](https://blog.kalbhor.xyz/post/database-backup-strategies/)

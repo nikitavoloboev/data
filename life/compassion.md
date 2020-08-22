@@ -5,6 +5,7 @@ I believe compassion for other living organisms is an important part of our live
 ## Notes
 
 - Love, in all the forms that it takes, is the greatest gift we as a conscious creatures can give to one another.
+- [Patience, guidance, empathy and love, correction of poor behaviors.](https://www.google.com/search?client=safari&rls=en&q=behaviours&ie=UTF-8&oe=UTF-8)
 
 ## Links
 

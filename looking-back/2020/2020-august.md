@@ -53,4 +53,6 @@ Writing these out, reminded me of [Julian's site](https://julian.digital/2020/07
 
 So [Vimari](https://twitter.com/nikitavoloboev/status/1297127939767775232) part is done. [Nick](https://nickbelzer.me) has done an amazing job at moving Vimari forward.
 
-[Lovely & powerful advice](https://twitter.com/adamwathan/status/1296447318074568704). I should use Twitter more often.
+[Lovely & powerful advice](https://twitter.com/adamwathan/status/1296447318074568704).
+
+These kind of threads of condensed knowledge always inspire me. Need to learn to use Twitter better.
