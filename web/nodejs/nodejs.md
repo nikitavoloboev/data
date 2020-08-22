@@ -13,7 +13,7 @@
 - [ncc](https://github.com/zeit/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js. ([Web](https://www.fastify.io/))
 - [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 - [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.

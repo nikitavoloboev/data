@@ -17,3 +17,6 @@
 - [Kotn](https://kotn.com/) - Premium Essentials, Ethically Made.
 - [Ugmonk](https://ugmonk.com/)
 - [Stitch Fix](https://www.stitchfix.com/) - Personal Styling for Everybody.
+- [Allbirds](https://www.allbirds.com/) - Sustainable & Comfortable Shoes.
+- [Patagonia](https://www.patagonia.com/home/) - Outdoor Clothing & Gear.
+- [Herschel](https://herschel.com/) - Backpacks, Totes & Accessories.

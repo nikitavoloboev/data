@@ -89,3 +89,4 @@
 - [Bellwoods (2018)](https://mattdesl.svbtle.com/bellwoods)
 - [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [Game Programming Patterns: Event Queue](https://gameprogrammingpatterns.com/event-queue.html) ([HN](https://news.ycombinator.com/item?id=24233229))
+- [Storymapr](https://www.storymapr.com/) - Visually design game dialogues and quests.
