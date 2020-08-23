@@ -181,5 +181,5 @@
 - [Haskel / Nix / hie / Stack template](https://github.com/Cmdv/haskell-nix-hie-template)
 - [ruHaskell](https://ruhaskell.org/) - Russian Haskell community.
 - [Let’s write a Haskell Language Server plugin](https://github.com/pepeiborra/hls-tutorial)
-- [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) ([Reddit](https://www.reddit.com/r/haskell/comments/ib9fe0/blog_post_haskell_minipatterns_handbook/))
+- [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) ([Reddit](https://www.reddit.com/r/haskell/comments/ib9fe0/blog_post_haskell_minipatterns_handbook/)) ([HN](https://news.ycombinator.com/item?id=24196836))
 - [Describing Microservices using Modern Haskell (2020)](https://www.47deg.com/blog/mu-in-haskell-symposium/)

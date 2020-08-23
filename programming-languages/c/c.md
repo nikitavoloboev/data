@@ -71,3 +71,4 @@
 - [Cyclone](https://cyclone.thelanguage.org/) - Safe dialect of C.
 - [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([HN](https://news.ycombinator.com/item?id=24182441))
 - [C Code Archive Network](http://ccodearchive.net/) ([Code](https://github.com/rustyrussell/ccan))
+- [do {...} while (0) in macros (2014)](https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) ([Lobsters](https://lobste.rs/s/whezna/do_while_0_macros))

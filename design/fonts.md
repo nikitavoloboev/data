@@ -40,7 +40,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 ## Links
 
-- [Typewolf](https://www.typewolf.com) - What's trending in type.
+- [Typewolf](https://www.typewolf.com) - What's trending in type. ([Site of the day](https://www.typewolf.com/site-of-the-day))
 - [Google Fonts](https://fonts.google.com)
 - [Programming Fonts](http://app.programmingfonts.org/) - Test drive over 50 free programming fonts.
 - [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)

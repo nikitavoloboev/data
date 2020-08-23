@@ -364,3 +364,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Ask HN: What is the best enterprise software you use every day? (2020)](https://news.ycombinator.com/item?id=23862903)
 - [Build tools around workflows, not workflows around tools (2020)](https://thesephist.com/posts/tools/) ([HN](https://news.ycombinator.com/item?id=24244329))
 - [Linus's list of dev resources / tools / repos](https://linus.zone/dev)
+- [What's your favorite software to use right now? (2020)](https://twitter.com/natfriedman/status/1297177104182702080)
