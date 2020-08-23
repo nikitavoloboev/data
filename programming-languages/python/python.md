@@ -163,3 +163,4 @@
 - [CPython Internals Book](https://realpython.com/products/cpython-internals-book/) ([Code](https://github.com/tonybaloney/cpython-book-samples))
 - [A deep dive into the official Docker image for Python (2020)](https://pythonspeed.com/articles/official-python-docker-image/)
 - [How to cheat at unit tests with pytest and Black (2020)](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
+- [Never Run ‘python’ In Your Downloads Folder (2020)](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html) ([HN](https://news.ycombinator.com/item?id=24250418))
