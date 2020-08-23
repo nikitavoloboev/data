@@ -7,3 +7,4 @@
 - [Read.as](https://read.as/) - Long-form ActivityPub-enabled reader. ([Code](https://github.com/writeas/Read.as))
 - [gourami](https://github.com/alexwennerberg/gourami) - Intentionally small, lightweight ActivityPub microblogging service. ([Lobsters](https://lobste.rs/s/n8fcyi/gourami_intentionally_small))
 - [ActivityPub Could Be The Future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/) ([HN](https://news.ycombinator.com/item?id=23852036))
+- [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine, based on ActivityPub. ([Web](https://joinplu.me/))
