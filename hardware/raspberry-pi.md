@@ -22,3 +22,4 @@
 - [I built a desktop radiation monitor with Raspberry Pi, brass and wood (2020)](https://www.balena.io/blog/show-tell-a-steampunk-desktop-background-radiation-monitor/) ([HN](https://news.ycombinator.com/item?id=23756964))
 - [Trying to build the ultimate raspberry pi computer (zero terminal v3)](https://n-o-d-e.net/zeroterminal3.html)
 - [Let's Build a 28-core Raspberry Pi Cluster (2020)](https://ikarus.sg/how-i-built-kraken/) ([HN](https://news.ycombinator.com/item?id=24126719))
+- [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi) ([HN](https://news.ycombinator.com/item?id=24250947))
