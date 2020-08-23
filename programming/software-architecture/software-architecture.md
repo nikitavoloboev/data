@@ -77,3 +77,4 @@
 - [Systems design for advanced beginners (2020)](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/) ([HN](https://news.ycombinator.com/item?id=23904000))
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [The System Design Manual](https://systemdesignmanual.com/) - Learn how to design, build and operate large scale distributed systems.
+- [Organizing architectural katas (2020)](https://nelis.boucke.be/post/architectural-katas/)
