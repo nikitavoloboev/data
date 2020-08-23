@@ -68,3 +68,5 @@ Speaking of drugs, [LizardLabs](https://lizardlabs.eu/) is one of the most inspi
 Netherlands I think is actually one of the nicest places on Earth in this regard but that seems to be [changing](https://www.reddit.com/r/researchchemicals/comments/ietad5/must_have_chems_before_netherlands_rc_ban/) 😿
 
 Hopefully I'll get the ability to drive the change with regards to this. Alongside proper animal rights, renewable energy & proper education and medicine rights for all. Future is way too unevenly distributed.
+
+Oh and [Hive](https://www.reddit.com/r/TheeHive/) too. Doing synthesis is incredibly insightful and fun. Want to explore it when I get time & some equipment. There should be more [Shulgins](https://en.wikipedia.org/wiki/Alexander_Shulgin) in the world.
