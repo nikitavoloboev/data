@@ -32,6 +32,7 @@ Go promotes composition over inheritance.
 - [In Go, as long as you are not sharing data, you don't really have to care about whether something is concurrent or parallel, the runtime takes care of it for you. You just use goroutines, IO transparently happens on a dedicated threadpool, CPU heavy tasks are spread out over the available cores.](https://news.ycombinator.com/item?id=20210850)
 - [How to edit Go packages locally](https://twitter.com/zekjur/status/1226487216937086976)
 - [The main sell point of Go is not simplicity, but overall balance and flexibility](https://news.ycombinator.com/item?id=21744910)
+- [Better make copies of a struct than passing pointers to it.](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
 
 ## Links
 
