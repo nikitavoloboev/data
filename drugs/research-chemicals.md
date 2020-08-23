@@ -31,3 +31,4 @@
 - [RC FAQ & Resources](https://www.reddit.com/r/researchchemicals/comments/dchpr0/faq_resources/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/ec7qwt/what_is_your_favorite_rc_and_why/)
 - [What will take me to a different plane of existence? (2020)](https://www.reddit.com/r/researchchemicals/comments/fh15ex/what_will_take_me_to_a_different_plane_of/)
+- [Favorite RC's, list and why (2020)](https://www.reddit.com/r/researchchemicals/comments/if103b/favorite_rcs_list_and_why_and_go/)

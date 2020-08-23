@@ -8,6 +8,8 @@
 - [One of the things you learn in Physics is that nothing is ever still or completely solid. All atoms vibrate and most(95+%) of their space is empty, where electrons spin. So everything you see is a vibrating mesh of molecules. Neutrinos are so small they can fly straight through everything, even planets! The only time anything stays completely still is at zero degrees Kelvin and it is theorized that time actually stands still at the this temperature.](https://www.reddit.com/r/shrooms/comments/c7i8ee/it_going_to_be_a_good_day/)
 - Emergent complexity: complexity arising from simple rules is interesting. One example of it is [cellular automata](https://natureofcode.com/book/chapter-7-cellular-automata/) and [Conway's game of life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 - [Gravity travels at the speed of light.](https://twitter.com/InertialObservr/status/1270499784546107393)
+- [Acceleration is independent of mass of object.](https://www.reddit.com/r/Physics/comments/iezeqe/gravity/)
+- [Inertia is an intrinsic property and can basically be described as a body’s resistance to acceleration/ change in it’s speed (1st law). What’s intertwined is inertia and force (not acceleration necessarily) since inertia (be it linear or rotational) of a particle would decide how much force is required to produce a certain acceleration (2nd law)](https://www.reddit.com/r/Physics/comments/iezeqe/gravity/)
 
 ## Links
 

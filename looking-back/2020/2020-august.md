@@ -56,3 +56,15 @@ So [Vimari](https://twitter.com/nikitavoloboev/status/1297127939767775232) part 
 [Lovely & powerful advice](https://twitter.com/adamwathan/status/1296447318074568704).
 
 These kind of threads of condensed knowledge always inspire me. Need to learn to use Twitter better.
+
+## 23
+
+[Drug Gardening](https://www.reddit.com/r/druggardening/) is one of the best community on Reddit. Sadly I don't possess a garden yet.
+
+Speaking of drugs, [LizardLabs](https://lizardlabs.eu/) is one of the most inspiring companies to me. Synthesizing psychedelics and shipping it worldwide is the future. Just not evenly distributed yet.
+
+[4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT) especially was an amazing experience. Sadly it's a bit harder to get it now that it was 3 years ago. It's such a shame that it's 2020 and certain substances are still illegal for purchase.
+
+Netherlands I think is actually one of the nicest places on Earth in this regard but that seems to be [changing](https://www.reddit.com/r/researchchemicals/comments/ietad5/must_have_chems_before_netherlands_rc_ban/) 😿
+
+Hopefully I'll get the ability to drive the change with regards to this. Alongside proper animal rights, renewable energy & proper education and medicine rights for all. Future is way too unevenly distributed.
