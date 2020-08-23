@@ -12,3 +12,4 @@
 - [Stockfish for Mac](https://github.com/daylen/stockfish-mac) - Powerful chess analysis app.
 - [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
 - [What is 5D chess? (2020)](https://en.chessbase.com/post/what-on-earth-is-5d-chess) ([HN](https://news.ycombinator.com/item?id=24054313))
+- [Chess Board HTML Element](https://justinfagnani.github.io/chessboard-element/) ([Code](https://github.com/justinfagnani/chessboard-element/))

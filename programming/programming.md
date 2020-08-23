@@ -232,3 +232,4 @@
 - [Ask HN: How do you overcome decision fatigue in software development? (2020)](https://news.ycombinator.com/item?id=24176774)
 - [xkcd: Dependency](https://xkcd.com/2347/) ([HN](https://news.ycombinator.com/item?id=24193278))
 - [On Parallel Programming (2020)](https://penberg.org/blog/parallel.html)
+- [You've only added two lines - why did that take two days! (2020)](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
