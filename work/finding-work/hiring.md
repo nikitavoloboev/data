@@ -47,3 +47,4 @@
 - [When hiring, what's one quality or achievement in your field that makes someone an instant hire? (2020)](https://twitter.com/swyx/status/1261608997322461186)
 - [Thoughts on using references when hiring](https://twitter.com/nlevin/status/1265319461969489920)
 - [Hiring a distributed team - Inside PSPDFKit (2016)](https://pspdfkit.com/blog/2016/hiring-a-distributed-team/)
+- [Code katas for selecting technical talent (2020)](https://nelis.boucke.be/post/code-katas-for-hiring/)
