@@ -141,6 +141,9 @@
 - [Texthero](https://github.com/jbesomi/texthero) - Python toolkit to work with text-based dataset quickly and effortlessly.
 - [Pymanopt](https://www.pymanopt.org/) - Python toolbox for optimization on manifolds, that computes gradients and Hessians automatically.
 - [Wily](https://github.com/tonybaloney/wily) - Python application for tracking, reporting on timing and complexity in Python code.
+- [PyNaCl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [pyca/cryptography](https://github.com/pyca/cryptography) - Package designed to expose cryptographic primitives and recipes to Python developers.
+- [bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers.
 
 ## Links
 

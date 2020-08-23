@@ -148,6 +148,7 @@
 - [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
 - [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
 - [partial_application](https://github.com/Emerentius/partial_application) - Partial function application macro for Rust.
+- [macro_railroad](https://github.com/lukaslueg/macro_railroad) - Library to generate syntax diagrams for Rust macros.
 
 ## Other
 
