@@ -161,3 +161,4 @@
 - [On Kernel-Bypass Networking and Programmable Packet Processing (2018)](https://medium.com/@penberg/on-kernel-bypass-networking-and-programmable-packet-processing-799609b06898)
 - [How Executables Work on Linux (2020)](https://www.youtube.com/watch?v=jR2hUhjcAXI)
 - [Aboriginal Linux](http://landley.net/aboriginal/documentation.html) - Toolkit for building custom virtual machines.
+- [Ventoy](https://github.com/ventoy/Ventoy) - Open source tool to create bootable USB drive for ISO/WIM/IMG/EFI files. ([Web](https://www.ventoy.net/en/index.html))
