@@ -152,3 +152,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Cloudflare Docs](https://developers.cloudflare.com/docs/)
 - [Raw Sockets API proposal](https://github.com/WICG/raw-sockets)
 - [Deploy Friday Live Q&A](https://www.youtube.com/playlist?list=PLn5EpEMtxTCmLsbLgaN3djvEkRdp-YmlE)
+- [A clean start for the web (2020)](https://macwright.com/2020/08/22/clean-starts-for-the-web.html) ([Lobsters](https://lobste.rs/s/tmzyrk/clean_start_for_web))
