@@ -34,3 +34,7 @@
 - [Formalizing text editors in Coq (2020)](https://arxiv.org/abs/2006.03525) ([HN](https://news.ycombinator.com/item?id=23454629))
 - [Monadic equational reasoning in Coq](https://github.com/affeldt-aist/monae)
 - [Coq Enhancement Proposals](https://github.com/coq/ceps)
+- [A Study of Clight and its Semantics](https://soap.coffee/~lthms/posts/ClightIntroduction.html)
+- [Implementing and Certifying a Web Server in Coq (2020)](https://soap.coffee/~lthms/posts/MiniHTTPServer.html)
+- [Rewriting in Coq](https://soap.coffee/~lthms/posts/RewritingInCoq.html)
+- [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - Framework for implementing, certifying, and executing impure computations in Coq.

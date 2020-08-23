@@ -24,6 +24,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Hexo](https://github.com/hexojs/hexo) - Fast, simple & powerful blog framework, powered by Node.js.
 - [gostatic](https://github.com/piranha/gostatic) - Fast static site generator.
 - [Metalsmith](https://metalsmith.io/) - Extremely simple, pluggable static site generator. ([Code](https://github.com/segmentio/metalsmith))
+- [Soupault](https://soupault.neocities.org/) - Static website generator based on HTML rewriting. ([Code](https://github.com/dmbaturin/soupault/))
 
 ## Notes
 
@@ -51,3 +52,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Building yet another static site generator (2017)](https://h3rald.com/articles/hastysite/)
 - [​​Automatic Website Deployment With Docker and Google Cloud Build (2019)](https://blog.theincredibleholk.org/blog/2019/10/13/automatic-website-deployment-with-docker-and-google-cloud-build/)
 - [Pre-rendering static websites with wget (2020)](https://apex.sh/blog/post/pre-render-wget/)
+- [A Series on Generating this Static Website](https://soap.coffee/~lthms/cleopatra.html)
