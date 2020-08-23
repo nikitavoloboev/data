@@ -312,6 +312,7 @@ Here are few more things I liked, design wise.
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Sam Bleckley](https://sambleckley.com/)
 - [Paul Butler](https://paulbutler.org/)
+- [Aral Balkan](https://ar.al/)
 - [JW Design](https://www.jw.design/)
 - [Jesse Squires](https://www.jessesquires.com/) ([Code](https://github.com/jessesquires/jessesquires.com))
 - [Ben Asher](https://benasher.co/) ([Code](https://github.com/benasher44/benasher.co))
