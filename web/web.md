@@ -152,5 +152,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Cloudflare Docs](https://developers.cloudflare.com/docs/)
 - [Raw Sockets API proposal](https://github.com/WICG/raw-sockets)
 - [Deploy Friday Live Q&A](https://www.youtube.com/playlist?list=PLn5EpEMtxTCmLsbLgaN3djvEkRdp-YmlE)
-- [A clean start for the web (2020)](https://macwright.com/2020/08/22/clean-starts-for-the-web.html) ([Lobsters](https://lobste.rs/s/tmzyrk/clean_start_for_web))
+- [A clean start for the web (2020)](https://macwright.com/2020/08/22/clean-starts-for-the-web.html) ([Lobsters](https://lobste.rs/s/tmzyrk/clean_start_for_web)) ([HN](https://news.ycombinator.com/item?id=24255541))
 - [What is the Small Web? (2020)](https://ar.al/2020/08/07/what-is-the-small-web/) ([Lobsters](https://lobste.rs/s/f8ip91/what_is_small_web))

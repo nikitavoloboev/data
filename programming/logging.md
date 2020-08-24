@@ -20,3 +20,4 @@
 - [Metrictank](https://github.com/grafana/metrictank) - Multi-tenant timeseries platform that can be used as a backend or replacement for Graphite.
 - [EventNative](https://github.com/ksensehq/eventnative) - Open-source data collection framework.
 - [Phuslu/Log](https://github.com/phuslu/log) - Structured Logging for Humans.
+- [Logs and Time Series are not the same (2020)](https://www.philipotoole.com/logs-and-time-series-are-not-the-same/)

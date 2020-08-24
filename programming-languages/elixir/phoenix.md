@@ -11,3 +11,4 @@
 - [Mastering Phoenix Framework](https://shankardevy.com/phoenix-inside-out-mpf/#mastering-phoenix-framework)
 - [PhoenixClient](https://github.com/mobileoverlord/phoenix_client) - Channel client for connecting to Phoenix from Elixir.
 - [Phoenix in Action (2019)](https://www.google.com/search?q=phoenix+in+action&hl=en&safe=off)
+- [Build a Video Chat App in Phoenix LiveView (2020)](https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-phoenix-liveview)

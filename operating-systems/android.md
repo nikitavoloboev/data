@@ -12,4 +12,4 @@
 - [Android Roadmap](https://roadmap.sh/android)
 - [Sample Projects to demonstrate how to build Android apps with Swift](https://github.com/vgorloff/swift-everywhere-samples)
 - [UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - UI framework for native apps, which enables code targeting iOS UIKit to run on other platforms, particularly on Android.
-- [Make Android self-hosting (musl, toybox, qcc)](http://landley.net/aboriginal/about.html#selfhost)
+- [Make Android self-hosting (musl, toybox, qcc)](http://landley.net/aboriginal/about.html#selfhost) ([Lobsters](https://lobste.rs/s/mzpz9t/make_android_self_hosting))
