@@ -240,6 +240,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Kythe](https://github.com/kythe/kythe) - Pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [StackSnippet](http://www.stacksnippet.com/#gsc.tab=0) - Aims to combine the preciseness of Google Search with Stack Overflow's vast reservoir of helpful code snippets.
 - [fio](https://github.com/axboe/fio) - Flexible I/O Tester.
+- [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. ([Docs](https://plopjs.com/documentation/))
 - [Sentry](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you. ([Learn Webflow](https://flowmingo.co/))
 - [Quip](https://quip.com/) - Real-time document collaboration.
@@ -269,6 +270,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Airbridge](https://airbridge.app/) - Calendar built for people, not companies.
 - [Transform](https://transform.tools/) - Polyglot web converter.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [Imgur](https://imgur.com/) - Upload & browse images.
+- [put.re](https://put.re/) - Privacy focused Imgur alternative.
 - [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
 - [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.
 - [jazz rooms](https://jazz.ninja/)
@@ -301,6 +304,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Okta](https://developer.okta.com/) - Adds authentication, authorization, and user management to your web or mobile app within minutes.
 - [Rekki](https://www.rekki.com/) - Free mobile app that lets you order and chat with any supplier.
 - [Envoy](https://envoy.com/) - Makes workplaces safe—no matter what.
+- [paste.in.ua](https://paste.in.ua/) - Code paste bin. ([Article](https://solovyov.net/blog/2020/clojure-graalvm-polyglotvm-paste-in-ua/))
 - [Tandem](https://tandem.chat/) - Virtual office for remote teams.
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.

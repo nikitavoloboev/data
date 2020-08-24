@@ -25,7 +25,7 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [HandWiki](https://handwiki.org/wiki/Start) - Online wiki-style encyclopedia dedicated to applications of computers, software programs and programming in different areas of science, finance and engineering.
 - [Quanta Magazine](https://www.quantamagazine.org/)
-- [Collection of GitHub repos, blogs and websites to learn cool things](https://github.com/rsapkf/goodies)
+- [42: Collection of over 3000+ sites and resources](https://links.rsapkf.xyz/) ([Code](https://github.com/rsapkf/42))
 - [Imperial Exam Papers](https://xav.ai/exam_papers/)
 - [Ask HN: What's the most valuable thing you can learn in an hour? (2019)](https://news.ycombinator.com/item?id=21581361)
 - [Learning at work is work, and we must make space for it](https://sloanreview.mit.edu/article/learning-for-a-living/) ([HN](https://news.ycombinator.com/item?id=21762640))

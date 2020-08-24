@@ -145,6 +145,7 @@
 - [SwiftUI Animatable Gradients](https://github.com/CypherPoet/AnimatableGradients) - Collection of SwiftUI View Modifiers for creating animated color gradients.
 - [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - Sliding ruler control for SwiftUI.
 - [Shiny](https://github.com/maustinstar/shiny) - Add motion-based texture to your SwiftUI views.
+- [Router](https://github.com/carson-katri/router) - Typesafe routing for SwiftUI.
 
 ## Test
 

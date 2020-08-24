@@ -32,3 +32,4 @@
 - [Interactive Visualization of Why Eigenvectors Matter (2020)](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
 - [Graphical Linear Algebra](https://graphicallinearalgebra.net/) ([HN](https://news.ycombinator.com/item?id=24196080))
 - [Vector Matrix Vector Queries for Solving Linear Algebra, Statistics, and Graph Problems (2020)](https://www.youtube.com/watch?v=NVOE1KFNZDo)
+- [Computability in linear algebra](https://www.sciencedirect.com/science/article/pii/S0304397504004086)

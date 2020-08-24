@@ -14,3 +14,5 @@
 - [TLS Encrypted Client Hello (2020)](https://tlswg.org/draft-ietf-tls-esni/draft-ietf-tls-esni.html)
 - [IDontSpeakSSL](https://github.com/BishopFox/IDontSpeakSSL) - Simple tool based on sslyze to scan large scope and provide SSL/TLS vulnerabilities.
 - [crypto/tls in Go](https://github.com/cloudflare/tls-tris)
+- [OpenSSL](https://www.openssl.org/) - Robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
+- [BoringSSL](https://github.com/google/boringssl) - Fork of OpenSSL that is designed to meet Google's needs.

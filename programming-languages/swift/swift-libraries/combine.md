@@ -35,3 +35,4 @@
 - [TimelaneCombineX](https://github.com/Sixt/TimelaneCombineX) - Timelane + CombineX.
 - [Custom Instrument based on Timelane](https://github.com/icanzilb/CustomInstrument)
 - [Fun with Apple’s Combine framework (2020)](https://twitter.com/johnsundell/status/1295685964380151810)
+- [On the Subject of Interface Hygiene (2019)](https://duan.ca/2019/07/01/combine-hygiene/)

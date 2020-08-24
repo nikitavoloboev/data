@@ -556,6 +556,8 @@
     - [China](travel/visited/china.md)
     - [Canada](travel/visited/canada.md)
     - [India](travel/visited/india.md)
+    - [Ukraine](travel/visited/ukraine.md)
+    - [Austria](travel/visited/austria.md)
   - [Cities](travel/cities.md)
 - [Geography](geography/geography.md)
   - [Spatial analysis](geography/spatial-analysis.md)

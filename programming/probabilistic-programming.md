@@ -13,3 +13,4 @@
 - [TensorFlow Probability](https://github.com/tensorflow/probability) - Library for probabilistic reasoning and statistical analysis in TensorFlow.
 - [Soss: Probabilistic Programming with Julia (2020)](https://notamonadtutorial.com/soss-probabilistic-programming-with-julia-6acc5add5549)
 - [NumPyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
+- [Edward2](https://github.com/google/edward2) - Simple probabilistic programming language.

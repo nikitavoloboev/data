@@ -19,3 +19,4 @@
 - [Prisma Language Support](https://github.com/prisma/language-tools)
 - [Awesome Prisma](https://github.com/catalinmiron/awesome-prisma)
 - [Nikolas Burk on Prisma 2 (2020)](https://overcast.fm/+N_6LdHvjk)
+- [Building a Modern Backend with TypeScript, PostgreSQL and Prisma (2020)](https://www.prisma.io/blog/modern-backend-1-tsjs1ps7kip1)

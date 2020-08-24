@@ -327,3 +327,4 @@ Go promotes composition over inheritance.
 - [Little Go Book](https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md)
 - [Speeding up json processing in go (2020)](https://klotzandrew.com/blog/speeding-up-json-processing-in-go)
 - [Implementing traceroute in Go (2020)](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
+- [Notes on working with Go and computer systems](https://github.com/betty200744/ultimate-go)

@@ -79,3 +79,5 @@
 - [Digital Design and Computer Architecture course (2020)](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php) ([Lectures](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2))
 - [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich.
 - [Mantis: Reactive Programmable Switches](http://vincen.tl/files/mantis-sigcomm20.pdf)
+- [Computer Architecture Takeaways (2020)](https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html)
+- [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.

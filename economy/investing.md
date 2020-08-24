@@ -23,7 +23,6 @@
 - [How To Invest In Startups (2020)](https://blog.samaltman.com/how-to-invest-in-startups) ([HN](https://news.ycombinator.com/item?id=22035997))
 - [Fey](https://www.feyapp.com/) - Gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
 - [Top companies by market cap](https://finviz.com/screener.ashx?o=-marketcap)
-- [FINVIZ](https://finviz.com/) - Financial visualizations.
 - [How to start angel investing (2020)](https://medium.com/@juliadewahl/how-to-start-angel-investing-8f2eb779e96f)
 - [Investors Club](https://investors.club/) - Paid, members-only marketplace for serious buyers interested in proven businesses that aren't listed anywhere else.
 - [Tesla: the ’20s (2020)](https://jwmza.com/thoughts/tesla-the-20s/)
@@ -71,7 +70,7 @@
 - [Blueprint Project](https://blueprint.dormroomfund.com/) - Masterclass by Dorm Room Fund aimed at empowering diverse investors and founders.
 - [Jeff Morris Jr. (Founder & Managing Partner at Chapter One) interview (2020)](https://thetakeoff.substack.com/p/jeff-morris-jr-edition-15)
 - [Numerai](https://numer.ai/) - AI-run, crowd-sourced hedge fund.
-- [FINVIZ](https://www.finviz.com/) - Stock Screener.
+- [FINVIZ](https://www.finviz.com/) - Stock screener for investors and traders, financial visualizations.
 - [How do I get better at following lesser known stocks? (2020)](https://www.reddit.com/r/investing/comments/gyax1h/how_do_i_get_better_at_following_lesser_known/)
 - [Fortune 500 companies](https://fortune.com/fortune500/) ([Parsed as CSV](https://github.com/cmusam/fortune500))
 - [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies) ([Code](https://github.com/datasets/s-and-p-500-companies))

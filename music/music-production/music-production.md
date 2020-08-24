@@ -25,6 +25,7 @@
 - [mosh](https://github.com/jamesb93/mosh) - Small command-line application written in Nim for 'moshing' data into audio.
 - [OCellator](http://kevinmahoney.co.uk/ocellator/) - Lispy synth language with structural editor. ([Lobsters](https://lobste.rs/s/td8ddx/ocellator_lispy_synth_language_with))
 - [BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth.
+- [Vivid](https://vivid-synth.com/) - High quality audio with Haskell and SuperCollider. ([Code](https://github.com/vivid-synth/vivid))
 
 ## Inspiration
 

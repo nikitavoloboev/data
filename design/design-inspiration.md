@@ -181,6 +181,7 @@ Here are few more things I liked, design wise.
 - [Rob Haisfield](https://robhaisfield.com/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
+- [Daniel Duan](https://duan.ca/) ([Code](https://github.com/dduan/duan.ca))
 - [Fabrizio Rinaldi](https://fabriziorinaldi.com/)
 - [Milen Dzhumerov](https://milen.me/)
 - [Krasjet](https://krasjet.com/)

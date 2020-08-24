@@ -122,6 +122,10 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Dnote](https://github.com/dnote/dnote) - Simple personal knowledge base.
 - [Instiki](https://github.com/parasew/instiki) - Basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.
 
+## Notes
+
+- [Don't waste energy chasing fancy tools and methodologies without already having a simple workflow in place. Once you have a good idea of what works for you, then introduce tools designed to make your life easier.](https://news.ycombinator.com/item?id=24251068)
+
 ## Links
 
 - [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
@@ -217,3 +221,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Archivy](https://github.com/Uzay-G/archivy) - Self Hosted Knowledge Base embedded into your filesystem. ([HN](https://news.ycombinator.com/item?id=24199419))
 - [How to choose the right note-taking app (2020)](https://nesslabs.com/how-to-choose-the-right-note-taking-app) ([Tweet](https://twitter.com/anthilemoon/status/1296047396976316416))
 - [Using Obsidian to manage goals, tasks, notes, and software dev knowledge base (2020)](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base) ([HN](https://news.ycombinator.com/item?id=24206727))
+- [Hode](https://github.com/JeffreyBenjaminBrown/hode) - Hypergraph editor. ([Explanation](https://news.ycombinator.com/item?id=24261725))
+- [Remembering what you Read: Zettelkasten vs. P.A.R.A (2020)](https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/) ([HN](https://news.ycombinator.com/item?id=24251068))

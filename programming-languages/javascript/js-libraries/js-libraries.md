@@ -296,6 +296,8 @@
 - [@cycle/callbags](https://github.com/cyclejs/callbags) - Set of commonly used stream operators implemented as callbags with Typescript and ES modules.
 - [umbrella](https://github.com/thi-ng/umbrella/) - Broadly scoped ecosystem & mono-repository of ~135 TypeScript projects for functional, data driven development.
 - [HTM](https://github.com/developit/htm) - JSX-like syntax in plain JavaScript - no transpiler necessary.
+- [NativeScript](https://github.com/nativescript/nativescript) - Framework for building native iOS and Android apps using JavaScript and CSS.
+- [schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary.
 
 ## Links
 

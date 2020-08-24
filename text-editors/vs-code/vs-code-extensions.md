@@ -20,6 +20,10 @@ Below is a list of extensions I use.
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
 
+## HTML
+
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag. ([Code](https://github.com/vincaslt/vscode-highlight-matching-tag))
+
 ## Theme
 
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) ([Code](https://github.com/primer/github-vscode-theme))
@@ -92,6 +96,7 @@ Below is a list of extensions I use.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
+- [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - Spacemacs' like keybindings. ([Code](https://github.com/VSpaceCode/VSpacecode))
 
 ## Shell
 
@@ -174,7 +179,6 @@ Below is a list of extensions I use.
 
 ## HTML
 
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
 
 ## Haskell

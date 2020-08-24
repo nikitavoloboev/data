@@ -149,3 +149,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) - Convenient command-line tool helping you keep repositories clean. ([HN](https://news.ycombinator.com/item?id=24135860))
 - [Using Askgit – A SQL interface to your Git repository (2020)](https://willschenk.com/articles/2020/using_askgit/) ([HN](https://news.ycombinator.com/item?id=24166489))
 - [Trunk-based development (2020)](https://nelis.boucke.be/post/trunk-based-development/)
+- [Good Commit Messages (2020)](https://lazau.com/articles/good_commit_messages.html) ([Lobsters](https://lobste.rs/s/0lwjby/good_commit_messages))

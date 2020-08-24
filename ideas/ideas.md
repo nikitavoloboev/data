@@ -61,3 +61,4 @@ I try to give my full attention to any ideas I am working on.
 - [How I side project (2019)](https://thesephist.com/posts/how-i-side-project/)
 - [Ask HN: What kind of ideas are not VC-backable but should exist in the future? (2020)](https://news.ycombinator.com/item?id=23697840)
 - [Ask HN: What weird or hard problems are you trying to solve? (2020)](https://news.ycombinator.com/item?id=23735676)
+- [What software do you dream about, but do not have time to do yourself? (2020)](https://lobste.rs/s/8aiw6g/what_software_do_you_dream_about_do_not)

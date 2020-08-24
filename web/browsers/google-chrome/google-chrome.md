@@ -25,3 +25,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension (built with TypeScript + React)](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 - [Mighty](https://mightyapp.com/) - Faster Google Chrome that uses 10x less memory.
+- [Tab Organizer Chrome Extension](https://github.com/Pauan/tab-organizer)

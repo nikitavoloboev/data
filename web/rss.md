@@ -52,3 +52,4 @@
 - [News And Rumors](https://newsandrumors.com/) - Alternative RSS reader and search engine for news and content. ([HN](https://news.ycombinator.com/item?id=23999065))
 - [About Feeds](https://aboutfeeds.com/) - Getting Started guide to web feeds/RSS.
 - [Feed Creator](http://createfeed.fivefilters.org/) - Create feed from web page elements.
+- [What RSS Feeds do you subscribe to? (2020)](https://lobste.rs/s/eiditd/what_rss_feeds_do_you_subscribe)

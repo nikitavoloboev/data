@@ -2,6 +2,11 @@
 
 Be honest.
 
+## Notes
+
+- [Marriage is not something you "do", it's something you make. One of the foremost requirements going in to a marriage is that both partners understand this. You will marry the right person if you change your axioms.](https://news.ycombinator.com/item?id=24260004)
+- [Finding the "right" person for marriage is pretty selfish. Be the right person. Try to strive to be the best person you can be and give grace when issues happen. Issues will happen. How you respond to them will result in the outcome of happiness of marriage.](https://news.ycombinator.com/item?id=24260004)
+
 ## Links
 
 - [Generalized One-Night Stands (2019)](http://sandymaguire.me/blog/one-night-stands/)

@@ -70,3 +70,7 @@ Netherlands I think is actually one of the nicest places on Earth in this regard
 Hopefully I'll get the ability to drive the change with regards to this. Alongside proper animal rights, renewable energy & proper education and medicine rights for all. Future is way too unevenly distributed.
 
 Oh and [Hive](https://www.reddit.com/r/TheeHive/) too. Doing synthesis is incredibly insightful and fun. Want to explore it when I get time & some equipment. There should be more [Shulgins](https://en.wikipedia.org/wiki/Alexander_Shulgin) in the world.
+
+## 24
+
+🎼 On the endless quest to find the [forever focus background song](https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT?si=ULFGIC7AR2KsaBKx7N_eNQ)

@@ -100,3 +100,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Moving from YouTube to PeerTube (2020)](https://battlepenguin.com/tech/moving-from-youtube-to-peertube/) ([HN](https://news.ycombinator.com/item?id=24222661))
 - [RedditVids](https://redditvids.com/) - Discover shared videos and live broadcasts from Reddit.
 - [FFmpeg: Step-by-Step Retro Video Filter (2020)](https://www.gariany.com/2020/08/ffmpeg-step-by-step-retro-video-filter/)
+- [YouTube Transcript](https://youtubetranscript.com/) - Read YouTube videos.

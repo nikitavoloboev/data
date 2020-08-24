@@ -33,3 +33,5 @@
 - [Prism: Scaling Bitcoin by 10,000x](https://github.com/yangl1996/prism-rust) - Rust implementation.
 - [Bitcoin From Scratch (2020)](https://monokh.com/posts/bitcoin-from-scratch-part-1) ([HN](https://news.ycombinator.com/item?id=23728228))
 - [Bitcoin is more like ham radio than the early internet (2020)](http://jpkoning.blogspot.com/2020/07/bitcoin-is-more-like-ham-radio-than.html) ([HN](https://news.ycombinator.com/item?id=23823304))
+- [Bitcoin Information & Educational Resources](https://www.lopp.net/bitcoin-information.html)
+- [c-lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation in C. ([Rust bindings](https://github.com/laanwj/rust-clightning-rpc)) ([Go bindings](https://github.com/niftynei/glightning))

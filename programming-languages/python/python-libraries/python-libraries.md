@@ -144,6 +144,7 @@
 - [PyNaCl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 - [pyca/cryptography](https://github.com/pyca/cryptography) - Package designed to expose cryptographic primitives and recipes to Python developers.
 - [bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers.
+- [oscrypto](https://github.com/wbond/oscrypto) - Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy.
 
 ## Links
 

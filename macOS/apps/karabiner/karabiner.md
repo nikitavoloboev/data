@@ -48,3 +48,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Custom Key Bindings with Karabiner (2020)](https://zacjones.io/custom-key-bindings)
 - [Master of keyboard is master of automation (Key remapper implementation in Swift)](https://github.com/creasty/Keyboard)
 - [Remapping keys on macOS](https://blog.codefront.net/2020/06/24/remapping-keys-on-macos)
+- [Goku Configs on GitHub](https://github.com/search?l=&o=desc&q=extension%3A.edn+filename%3Akarabiner.edn&s=&type=Code)
