@@ -126,3 +126,5 @@
 - [Testing GraphQL Backend in Product Hunt (2020)](https://blog.rstankov.com/testing-graphql-backend-in-product-hunt/)
 - [Why I Don’t Use GraphQL Anymore (2020)](https://www.youtube.com/watch?v=S1wQ0WvJK64) ([Tweet](https://twitter.com/dabit3/status/1296808912365260804))
 - [Why we decided against GraphQL for local state management (2020)](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/) ([HN](https://news.ycombinator.com/item?id=24235807))
+- [GraphQL Summit Worldwide 2020](https://www.youtube.com/playlist?list=PLpi1lPB6opQxkOv1H0j4JHhHx9bydEk8H)
+- [How to Auth: Secure a GraphQL API with Confidence (2020)](https://www.youtube.com/watch?v=dBuU61ABEDs&list=PLpi1lPB6opQxkOv1H0j4JHhHx9bydEk8H&index=13)

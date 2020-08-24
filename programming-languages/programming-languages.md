@@ -114,3 +114,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Analysis Tools](https://analysis-tools.dev/) - Most Popular Analysis Tools by Programming Language.
 - [What's the Deal with Message Passing, Anyway (2020)](https://buttondown.email/hillelwayne/archive/whats-the-deal-with-message-passing-anyway/) ([Lobsters](https://lobste.rs/s/k0lx87/what_s_deal_with_message_passing_anyway))
 - [Things that are not strings (2020)](https://frantic.im/no-strings) ([Lobsters](https://lobste.rs/s/wjpj6n/things_are_not_strings))
+- [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)
