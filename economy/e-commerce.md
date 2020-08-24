@@ -30,4 +30,4 @@
 - [Interactive e-commerce](https://www.dropbox.com/s/dkkv5b3ru06ty4v/Interactive%20Ecommerce%20Whitepaper%202020.08.10.pdf)
 - [Drive more traffic to your Shopify store and increase your sales - Interlayer](https://interlayer.io/traffic-exchange/shopify/)
 - [Interlayer](https://interlayer.io/) - Increase your Ecommerce, Website and Blog traffic in minutes. ([Shopify plugin](https://interlayer.io/traffic-exchange/shopify/))
-- [Guide: Make money building Shopify micro-SaaS apps (2020)](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify)
+- [Guide: Make money building Shopify micro-SaaS apps (2020)](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify) ([HN](https://news.ycombinator.com/item?id=24261192))

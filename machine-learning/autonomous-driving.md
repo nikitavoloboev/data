@@ -16,3 +16,4 @@
 - [Mobileye](https://www.mobileye.com/) - Autonomous Driving & ADAS (Advanced Driver Assistance Systems).
 - [Einride](https://www.einride.tech/) - Making autonomous electric transport possible today.
 - [Going Driverless: How we developed a CAN library for Go (2020)](https://www.youtube.com/watch?v=IbggJHJUv0U)
+- [SelfDriving.fyi](https://selfdriving.fyi/) - Comprehensive database of companies working on autonomous vehicles and related technologies.
