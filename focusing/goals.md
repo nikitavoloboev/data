@@ -1,37 +1,27 @@
 # Goals
 
-## Learn Anything
+The goals are quite broad now as I want to build LA to track the main things. Ideas & learning. Other goals are mostly rules I already have noted I want to focus my attention on.
 
-Make the best tool for learning anything and sharing ideas.
+## Build Learn Anything
 
-## Health
+Make the best tool for learning anything and sharing ideas. Release website, API, build community.
 
-Eat healthy and exercise daily.
+## Healthy mind/body
 
-## Understand deeply
+Eat healthy and exercise daily. Play more tennis, work ergonomically.
 
-Understand deeply tech & tools I use. Understand each layer of the technical stack.
+## Learn what matters. Solve problems.
 
-Learn by building/exploring and lots of reading/thinking. Document everything.
+Understand tech & tools I use deeply. Build, explore the tech. Solve problems & write about what I learned.
 
-## Minimize, improve tools used, meet people
+## Eradicate complexity/waste. Streamline actions.
 
-Focus on making and extending tools to solve problems & any frictions I have.
+I still feel frictions in writing, deploying code. Or more broadly translating ideas into code/solutions. Need better glue & tools.
 
-Filter incoming streams of information to contain only impactful things that inspire me. Meet more people.
+Filter out wasteful news, information. Focus on goals & todos.
 
-Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create things that bring joy!
+## Go out of my comfort zone
 
-## Read books/papers
+Make screencasts/videos to educate.
 
-Read books & research papers relevant to problems I want to solve.
-
-## Express myself in all the ways
-
-Make more videos (educational & otherwise). More insightful articles. Richer wiki. Better tools for extracting knowledge.
-
-Express myself creatively by playing music, taking photos & making designs/drawings.
-
-## Complete important tasks & be focused
-
-Progressively complete important 2Do tasks, GitHub issues. Keep in mind goals above & my rules.
+Practice photography. Compose music. Design. Be inspired & improve myself.

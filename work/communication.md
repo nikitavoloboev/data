@@ -3,6 +3,7 @@
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)
+- [At the end of each meeting ask if they know anyone else you can meet with. I normally tell them I’m trying to expand my network with successful folks in the area/space. Nice way to indirect compliment them.](https://twitter.com/AlwaysBeHustlin/status/1297920306900865024)
 
 ## Links
 
@@ -17,7 +18,7 @@
 - [Alternative Sources of Advice (2020)](https://tratt.net/laurie/blog/entries/alternative_sources_of_advice.html) ([HN](https://news.ycombinator.com/item?id=23089544))
 - [Chatting with Glue](http://a9.io/glue-comic/) - Cognitive tools for augmented conversation.
 - [Different types of 1:1 conversations visualized](https://twitter.com/thisisneer/status/1264537589031165952)
-- [Centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way.
+- [Centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way. ([Summary](https://www.reddit.com/r/golang/comments/i7xec5/centrifuge_a_realtime_messaging_core_of/g14pbod/?context=3))
 - [White Guyde To The Galaxy](https://tatianamac.com/posts/white-guyde/) - How to make meaningful change.
 - [GitHub Etiquette](https://github.com/kossnocorp/etiquette)
 - [Virus Cafe](https://virus.cafe/) - Make a friend in 2 minutes. ([HN](https://news.ycombinator.com/item?id=23408144))
@@ -38,3 +39,4 @@
 - [Fire your bad customers (2020)](https://www.preetamnath.com/blog/fire-your-bad-customers) ([HN](https://news.ycombinator.com/item?id=24097420))
 - [Tools of the trade: How I communicate at GitHub (and why) (2020)](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
 - [Get your work recognized: write a brag document (2020)](https://jvns.ca/blog/brag-documents/)
+- [Top tips to expand your network (2020)](https://twitter.com/AlwaysBeHustlin/status/1297920300366073857)

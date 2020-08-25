@@ -64,3 +64,4 @@
 - [Turing-Completeness Totally Free](https://link.springer.com/chapter/10.1007/978-3-319-19797-5_13) ([Paper](https://personal.cis.strath.ac.uk/conor.mcbride/TotallyFree.pdf))
 - [Essential Coding Theory (2019)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf) ([HN](https://news.ycombinator.com/item?id=24194543))
 - [Codexpanse](https://codexpanse.com/) - Programming and CS courses for humans.
+- [Cambridge Department of Computer Science](https://www.cl.cam.ac.uk/)

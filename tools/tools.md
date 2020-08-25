@@ -271,6 +271,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Transform](https://transform.tools/) - Polyglot web converter.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
 - [Imgur](https://imgur.com/) - Upload & browse images.
+- [ImgBB](https://imgbb.com/) - Free image hosting.
 - [put.re](https://put.re/) - Privacy focused Imgur alternative.
 - [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
 - [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.
@@ -306,6 +307,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Envoy](https://envoy.com/) - Makes workplaces safe—no matter what.
 - [paste.in.ua](https://paste.in.ua/) - Code paste bin. ([Article](https://solovyov.net/blog/2020/clojure-graalvm-polyglotvm-paste-in-ua/))
 - [Tandem](https://tandem.chat/) - Virtual office for remote teams.
+- [UXBOX](https://github.com/uxbox/uxbox) - Open-Source prototyping tool. ([Web](https://uxbox.io/))
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
 - [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).

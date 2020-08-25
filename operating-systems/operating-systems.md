@@ -45,6 +45,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Demikernel](https://github.com/demikernel/demikernel) - Library operating system architecture designed for use with kernel-bypass I/O devices.
 - [Drone](https://www.drone-os.com/) - Embedded Operating System for writing real-time applications in Rust. ([drone-core](https://github.com/drone-os/drone-core))
 - [Manticore](https://github.com/manticoreos/manticore) - Research operating system, written in Rust. ([Web](https://manticoreos.io/))
+- [CyanOS](https://github.com/AymenSekhri/CyanOS) - x86 monolithic kernel operating system, coded in C++ 17 and few lines of x86 Assembly.
 
 ## Notes
 

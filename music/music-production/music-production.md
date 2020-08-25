@@ -88,3 +88,4 @@
 - [Making AI Musicians (2017)](https://www.youtube.com/watch?v=lfttRvrYHn0)
 - [Audio From Scratch With Go (2020)](https://dylanmeeus.github.io/posts/audio-from-scratch-pt1/)
 - [Ask HN: How to Become a Music Buff? (2020)](https://news.ycombinator.com/item?id=24209025)
+- [SuperCollider Book (2011)](https://mitpress.mit.edu/books/supercollider-book) - Essential reference to SuperCollider, a powerful, flexible, open-source, cross-platform audio programming language.

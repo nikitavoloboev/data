@@ -125,3 +125,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [TTN Design Guidelines](https://github.com/TheThingsNetwork/lorawan-stack/blob/v3.9/DESIGN.md)
 - [LogoArchive](https://www.logoarchive.shop/) - Study of form language in logo design. ([IG](https://www.instagram.com/LogoArchive/))
 - [iA new site design (2020)](https://ia.net/topics/newsite)
+- [Six N. Five](https://sixnfive.com/) - Multidisciplinary Design Studio.

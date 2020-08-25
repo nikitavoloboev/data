@@ -42,3 +42,4 @@
 - [How Extreme Ultraviolet Lithography works (2020)](https://www.youtube.com/watch?v=z6c3vzIGo9o)
 - [SIMDe](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them. ([HN](https://news.ycombinator.com/item?id=24048562))
 - [Itanium Processor Microarchitecture (2000)](http://www.cs.binghamton.edu/~dima/cs522_05/itanium.pdf)
+- [Intel Hardware Accelerated Execution Manager (HAXM)](https://github.com/intel/haxm)

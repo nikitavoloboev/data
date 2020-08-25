@@ -228,4 +228,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.
 - [Quick Trick to Make Your App Snappier (2019)](https://eisel.me/jekyll/update/2019/02/13/snappy.html)
 - [Bite-sized Screencasts for iOS Development](https://nsscreencast.com/series/18-working-with-modern-collection-views)
-- [iOS 13 Entitlements](https://gist.github.com/jankais3r/1f839820f83be90d419140a6b8325795)
+- [iOS 13 Entitlements](https://gist.github.com/jankais3r/1f839820f83be90d419140a6b8325795) ([Tweet](https://twitter.com/steipete/status/1297876380244496385))

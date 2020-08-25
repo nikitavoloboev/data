@@ -81,3 +81,4 @@
 - [Mantis: Reactive Programmable Switches](http://vincen.tl/files/mantis-sigcomm20.pdf)
 - [Computer Architecture Takeaways (2020)](https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html)
 - [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.
+- [Home Lab Beginners guide (2020)](https://haydenjames.io/home-lab-beginners-guide-hardware/)

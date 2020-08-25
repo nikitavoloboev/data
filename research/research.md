@@ -57,3 +57,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Resources for Running Research Groups](https://github.com/jeanqasaur/research-group-resources)
 - [Where to Start Research? (2020)](https://acesounderglass.com/2020/06/09/where-to-start-research/)
 - [Ten Lessons I Wish I Had Been Taught (1997)](https://www.ams.org/notices/199701/comm-rota.pdf) ([HN](https://news.ycombinator.com/item?id=23722803))
+- [Relevance of researchers in a compute driven world (2020)](https://www.reddit.com/r/MachineLearning/comments/iezgsc/d_relevance_of_researchers_in_a_compute_driven/) ([Tweet](https://twitter.com/hardmaru/status/1298114780763316227))

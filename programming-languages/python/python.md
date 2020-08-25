@@ -110,7 +110,7 @@
 - [Hypermodern Python (2020)](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) ([HN](https://news.ycombinator.com/item?id=23336050)) ([Lobsters](https://lobste.rs/s/2dcejo/hypermodern_python))
 - [pyanalyze](https://github.com/quora/pyanalyze) - Static analysis tool for Python.
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) - Book aims to teach the Python programming language using a practical approach.
-- [Practical Python Programming course](https://github.com/dabeaz-course/practical-python)
+- [Practical Python Programming course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) ([Code](https://github.com/dabeaz-course/practical-python))
 - [Milksnake](https://github.com/getsentry/milksnake) - Extension for setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
 - [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 - [Overview of Python Dependency Management (2020)](https://modelpredict.com/python-dependency-management-tools) ([HN](https://news.ycombinator.com/item?id=23380113))
@@ -163,5 +163,5 @@
 - [CPython Internals Book](https://realpython.com/products/cpython-internals-book/) ([Code](https://github.com/tonybaloney/cpython-book-samples))
 - [A deep dive into the official Docker image for Python (2020)](https://pythonspeed.com/articles/official-python-docker-image/)
 - [How to cheat at unit tests with pytest and Black (2020)](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
-- [Never Run ‘python’ In Your Downloads Folder (2020)](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html) ([HN](https://news.ycombinator.com/item?id=24250418))
+- [Never Run ‘python’ In Your Downloads Folder (2020)](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html) ([HN](https://news.ycombinator.com/item?id=24250418)) ([Reddit](https://www.reddit.com/r/Python/comments/ifkt6k/never_run_python_in_your_downloads_folder/))
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)

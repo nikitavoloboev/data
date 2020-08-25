@@ -57,3 +57,4 @@
 - [MTV First Four Hours Remastered (1981)](https://archive.org/details/1981.08.01_MTV_First_Four_Hours_Remastered_12am_Saturday_August_1st_1981/1981.08.01+-+MTV+First+Four+Hours+Remastered+-+01+-+Original+Broadcast+-+12am+Saturday+August+1st%2C+1981.mpg)
 - [Oral History of Sophie Wilson 2012 Computer History Museum Fellow (2012)](http://archive.computerhistory.org/resources/access/text/2012/06/102746190-05-01-acc.pdf) ([HN](https://news.ycombinator.com/item?id=24243415))
 - [Rosatom releases previously classified documentary video of Tsar Bomba nuke test](https://thebarentsobserver.com/en/security/2020/08/rosatom-releases-previously-classified-documentary-video-50-mt-novaya-zemlya-test) ([HN](https://news.ycombinator.com/item?id=24247349))
+- [The NeWS Book - An Introduction to the Network/Extensible Window System](http://bitsavers.trailing-edge.com/pdf/sun/NeWS/The_NeWS_Book_1989.pdf) ([Lobsters](https://lobste.rs/s/tpl4rr/news_book_introduction_network))

@@ -11,7 +11,7 @@
 
 ## Science
 
-- [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595))
+- [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595)) ([Web](https://ocaml.xyz/))
 
 ## ML
 

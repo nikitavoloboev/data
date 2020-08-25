@@ -102,3 +102,4 @@
 - [Odin](https://github.com/theycallmemac/odin) - Programmable, observable and distributed job orchestration system which allows for the scheduling, management and unattended background execution of user created tasks on Linux based systems. ([HN](https://news.ycombinator.com/item?id=24020566))
 - [Verifying Strong Eventual Consistency in Distributed Systems (2017)](https://arxiv.org/pdf/1707.01747.pdf)
 - [Patterns of Distributed Systems (2020)](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- [Keeping CALM: When Distributed Consistency Is Easy (2020)](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)

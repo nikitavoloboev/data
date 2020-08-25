@@ -14,3 +14,4 @@
 - [MolhadoRef: A Refactoring-aware Infrastructure for OO Programs](http://dig.cs.illinois.edu/papers/Molhadoref_ETX.pdf)
 - [99 Bottles of OOP](https://sandimetz.com/99bottles) - Practical guide to writing cost-effective, maintainable, and pleasing object-oriented code.
 - [Case against OOP is understated, not overstated (2020)](http://boxbase.org/entries/2020/aug/3/case-against-oop/)
+- [Don't Name Classes After Patterns. Mostly. (2020)](https://mailchi.mp/sandimetz/dont-name-classes-after-patterns-mostly)

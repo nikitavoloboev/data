@@ -99,3 +99,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Cult Favorite](https://cult.supply/)
 - [Different kinds of watermelon](https://twitter.com/Botanygeek/status/1150878950924722177)
 - [You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local](https://ourworldindata.org/food-choice-vs-eating-local) ([Tweet](https://twitter.com/MaxCRoser/status/1294928556036956162))
+- [Open Food Facts](https://world.openfoodfacts.org/) - Gathers information and data on food products from around the world.

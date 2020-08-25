@@ -42,3 +42,4 @@
 - [Martin Odersky – A Scala 3 Update](https://www.youtube.com/watch?v=Z0w_pITUTyU) ([Reddit](https://www.reddit.com/r/scala/comments/hngs27/martin_odersky_a_scala_3_update/))
 - [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/))
 - [Signify Technology](https://www.signifytechnology.com/) - Award Winning Scala Recruitment.
+- [A Simple Soundness Proof for Dependent Object Types](https://arxiv.org/pdf/1706.03814.pdf)

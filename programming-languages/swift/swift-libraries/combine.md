@@ -12,7 +12,7 @@
 - [Combine: Asynchronous Programming with Swift book (2019)](https://www.raywenderlich.com/6185979-combine-asynchronous-programming-with-swift-complete-book-available)
 - [Debugging with Swift Combine Framework (2019)](https://www.vadimbulavin.com/debugging-with-combine-swift-framework/)
 - [Awesome Combine](https://github.com/CombineCommunity/awesome-combine)
-- [OpenCombine](https://github.com/broadwaylamb/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
+- [OpenCombine](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 - [Harvest](https://github.com/inamiy/Harvest) - Apple's Combine.framework + State Machine, inspired by Elm.
 - [Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
 - [Asynchronous Programming with Futures and Promises in Swift with Combine Framework (2020)](https://www.vadimbulavin.com/asynchronous-programming-with-future-and-promise-in-swift-with-combine-framework/)

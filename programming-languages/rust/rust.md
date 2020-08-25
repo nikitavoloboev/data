@@ -296,3 +296,4 @@
 - [In Rust, ordinary vectors are values (2018)](http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/)
 - [RustConf 2020 Summary](https://github.com/poteto/rustconf-2020) ([HN](https://news.ycombinator.com/item?id=24236734))
 - [Using C libraries in Rust: make a sys crate](https://kornel.ski/rust-sys-crate)
+- [Different levels of async in Rust (2020)](https://www.fpcomplete.com/blog/different-levels-async-rust/)

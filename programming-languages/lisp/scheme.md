@@ -1,4 +1,4 @@
-# [Scheme](<https://en.wikipedia.org/wiki/Scheme_(programming_language)>)
+# [Scheme](https://wiki.call-cc.org/)
 
 ## Links
 
@@ -22,3 +22,7 @@
 - [A New R6RS Scheme Compiler (2019)](https://weinholt.se/articles/new-r6rs-compiler/) ([Lobsters](https://lobste.rs/s/6gbneg/new_r6rs_scheme_compiler))
 - [STklos](https://stklos.net/index.html) - Free Scheme system mostly compliant with the languages features defined in R7RS small.
 - [A Simple Scheme Compiler (1997)](https://www.cs.utexas.edu/ftp/garbage/cs345/schintro-v14/schintro_142.html#SEC271) ([HN](https://news.ycombinator.com/item?id=24257488))
+- [Planet Scheme](http://www.scheme.dk/planet/) - Community Scheme Blog.
+- [CHICKEN Scheme wiki](https://wiki.call-cc.org/)
+- [CHICKEN User's Manual](http://wiki.call-cc.org/man/5/The%20User%27s%20Manual)
+- [Scheme C FFI](https://github.com/Mathieu-Desrochers/Schemings) ([HN](https://news.ycombinator.com/item?id=23860977))

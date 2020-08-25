@@ -15,6 +15,7 @@
 - [The Art of Automation (2020)](https://blog.jessfraz.com/post/the-art-of-automation/)
 - [ElectroNeek](https://electroneek.com/) - Easy Robotic Process Automation. ([HN](https://news.ycombinator.com/item?id=23770214))
 - [Automatoes](https://automatoes.com/) ([Code](https://github.com/johnlindquist/automatoes.com))
+- [Huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.
 
 ## Images
 

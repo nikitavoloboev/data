@@ -110,3 +110,4 @@
 - [Computational Causal Inference at Netflix (2020)](https://netflixtechblog.com/computational-causal-inference-at-netflix-293591691c62)
 - [Practical Data Ethics](http://ethics.fast.ai/) ([HN](https://news.ycombinator.com/item?id=24213477))
 - [New Google Data Science project](https://datastudio.google.com/u/0/datasources/create)
+- [Python for Data Analytics course](https://github.com/ItsAwSM/Python-for-Data-Analytics) ([Reddit](https://www.reddit.com/r/Python/comments/ifukmz/free_python_for_data_analytics_course/))

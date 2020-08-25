@@ -16,7 +16,7 @@
 - [Join Monster](https://github.com/acarl005/join-monster) - GraphQL to SQL query execution layer for query planning and batch data fetching.
 - [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL tool to ease the creation of permission layer.
 - [modelizr](https://github.com/julienvincent/modelizr) - Generate GraphQL queries from models that can be mocked and normalized.
-- [GraphQL Nexus](https://github.com/graphql-nexus/nexus) - Code-First Type-Safe GraphQL Framework. ([Docs](https://nexusjs.org/))
+- [GraphQL Nexus](https://github.com/graphql-nexus/nexus) - Code-First Type-Safe GraphQL Framework. ([Docs](https://nexusjs.org/)) ([Article](https://blog.graphqleditor.com/graphql-nexus-codefirst-graphql-server/))
 - [Thunder](https://github.com/samsarahq/thunder) - Go framework for rapidly building powerful graphql services.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators. ([Docs](https://typegraphql.com/docs/introduction.html)) ([1.0 announcement](https://dev.to/michallytek/announcing-typegraphql-1-0-1d7h))
 - [GQL2TS](https://github.com/avantcredit/gql2ts) - Generate TypeScript type interfaces from GraphQL types and query definitions.
@@ -124,7 +124,7 @@
 - [Demystifying GraphQL Connections (2020)](https://andrewingram.net/posts/demystifying-graphql-connections/)
 - [Apollo Client & Client-side Architecture Basics (2020)](https://www.apollographql.com/blog/apollo-client-client-side-architecture-basics/)
 - [Testing GraphQL Backend in Product Hunt (2020)](https://blog.rstankov.com/testing-graphql-backend-in-product-hunt/)
-- [Why I Don’t Use GraphQL Anymore (2020)](https://www.youtube.com/watch?v=S1wQ0WvJK64) ([Tweet](https://twitter.com/dabit3/status/1296808912365260804))
+- [Why I Don’t Use GraphQL Anymore (2020)](https://www.youtube.com/watch?v=S1wQ0WvJK64) ([Tweet](https://twitter.com/dabit3/status/1296808912365260804)) ([Reddit](https://www.reddit.com/r/javascript/comments/ifxvo0/why_i_dont_use_graphql_anymore/))
 - [Why we decided against GraphQL for local state management (2020)](https://tech.okcupid.com/why-we-decided-against-graphql-for-local-state-management/) ([HN](https://news.ycombinator.com/item?id=24235807))
 - [GraphQL Summit Worldwide 2020](https://www.youtube.com/playlist?list=PLpi1lPB6opQxkOv1H0j4JHhHx9bydEk8H)
 - [How to Auth: Secure a GraphQL API with Confidence (2020)](https://www.youtube.com/watch?v=dBuU61ABEDs&list=PLpi1lPB6opQxkOv1H0j4JHhHx9bydEk8H&index=13)

@@ -48,3 +48,4 @@
 - [Misc algorithms in OCaml (HyperLogLog, jump consistent hashing)](https://github.com/let-def/grenier)
 - [Composable Error Handling in OCaml (2018)](https://keleshev.com/composable-error-handling-in-ocaml)
 - [opam](https://opam.ocaml.org/) - OCaml Package Manager. ([Code](https://github.com/ocaml/opam-repository))
+- [OCaml Scientific Computing Book](https://ocaml.xyz/book/) - Functional programming meets data science.

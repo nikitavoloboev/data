@@ -16,3 +16,4 @@
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.
 - [Learn Reagent Free](https://www.jacekschae.com/courses/learn-reagent-free/)
 - [Lambda Island](https://lambdaisland.com/) - Screencast series about ClojureScript and Clojure.
+- [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) - Open source book about ClojureScript. ([Code](https://github.com/funcool/clojurescript-unraveled))

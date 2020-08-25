@@ -61,6 +61,7 @@
 - [Top experts on content marketing](https://twitter.com/coreyhainesco/status/1297534306387218433)
 - [Our Product Hunt Launch — What most checklists and guides don’t tell you (2020)](https://medium.com/@kGoedecke/our-product-hunt-launch-what-most-checklists-and-guides-dont-tell-you-48af24eb1a38)
 - [Effective messaging for startups (2020)](https://twitter.com/JayKapoorNYC/status/1297548803466289153)
+- [Sales for Founders](https://salesforfounders.com/)
 
 ## Images
 

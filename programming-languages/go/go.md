@@ -328,3 +328,4 @@ Go promotes composition over inheritance.
 - [Speeding up json processing in go (2020)](https://klotzandrew.com/blog/speeding-up-json-processing-in-go)
 - [Implementing traceroute in Go (2020)](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
 - [Notes on working with Go and computer systems](https://github.com/betty200744/ultimate-go)
+- [DepsCheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.

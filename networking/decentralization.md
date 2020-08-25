@@ -32,3 +32,4 @@
 - [Aragon](https://aragon.org/) - Gives internet communities unprecedented power to organize around shared values and resources.
 - [73 and Web3](https://github.com/sagmom3/73-and-web3)
 - [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/)
+- [IPLD](https://ipld.io/) - Data model of the content-addressable web.

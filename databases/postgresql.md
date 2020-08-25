@@ -131,3 +131,4 @@
 - [Quickly debugging Postgres problems (2020)](https://klotzandrew.com/blog/quickly-debugging-postgres-problems)
 - [pg-jump](https://github.com/twooster/pg-jump) - Postgres jumphost with query audit-logging.
 - [WAL-E](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres.
+- [Postgres Tips And Tricks](https://pgdash.io/blog/postgres-tips-and-tricks.html)

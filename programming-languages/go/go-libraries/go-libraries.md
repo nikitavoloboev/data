@@ -68,6 +68,7 @@
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go.
 - [Oxy](https://github.com/vulcand/oxy) - Go library with HTTP handlers that enhance HTTP standard library.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - Provides a rate limiter in Go, suitable for use in HTTP servers and distributed workloads.
+- [cachecontrol](https://github.com/pquerna/cachecontrol) - HTTP Caching Parser and Interpretation.
 
 ## GraphQL
 
@@ -112,6 +113,7 @@
 ## Graphics
 
 - [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.
+- [orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang.
 
 ## GUI
 
@@ -482,6 +484,7 @@
 - [Gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go.
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
 - [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency.
+- [otp](https://github.com/pquerna/otp) - One Time Password utilities Go.
 
 ## Links
 
