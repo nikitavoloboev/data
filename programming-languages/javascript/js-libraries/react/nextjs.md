@@ -103,3 +103,4 @@
 - [Building a Blog with Next.js and MDX (2020)](https://johnpolacek.com/building-a-blog-with-nextjs-and-mdx)
 - [Adding Dark Mode to a Next.js Site (2020)](https://johnpolacek.com/adding-dark-mode-to-nextjs-site)
 - [Next.js News newsletter](https://nextjsnews.com/)
+- [Next.js Conf](https://nextjs.org/conf)
