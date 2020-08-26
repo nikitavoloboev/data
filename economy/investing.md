@@ -6,6 +6,14 @@
 - If you want the theoretically highest return then get in immediately, because the only guaranteed way to on average increase your return is to be in the market for a longer period of time. If you're worried about volatility then accumulate your position over a week or a month at a set rate.
 - ISA investing is tax-free. Can use [Vanguard](https://www.vanguardinvestor.co.uk/investing-explained/stocks-shares-isa) for it.
 - [Welcome high-profile failures.](https://twitter.com/patio11/status/1296303522737033216)
+- [Volatility of the markets: Personally, I give it absolutely no respect at all. I do not give a shit about the world, news, politics, economy, COVID, all time highs, all time lows, V shape recovery, W shape recovery, wars, recessions, etc.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+  - Those things have absolutely no impact on how I invest. I am boring and I really don’t give a shit. As such, I’ll keep investing half of my pay every pay until I retire/die as my job is stable with high job security, I have a solid emergency fund that can cover 6 months worth of living expenses, I have no debt, and I have no expensive tastes/hobbies.
+  - Finally, I actually look forward to and hope for recessions and market crashes because I am a super long term investor. This allows me to buy more shit and reach my own financial goals quicker and I don’t care how greedy and/or selfish that sounds. I’m investing for me, my family, and future unborn generations.
+- [Invest in Index Funds every month and invest more when there is a market crash and recession.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- Think like an investor and not a trader, one should aim to learn to think like a business man. That means thinking about customer value, customer experience, demographic changes and consumer behavior.
+  - Your portfolio as the literal portfolio of an active owner of multiple businesses. Since you can’t influence management, the point is not to kid yourself that you can do a better job than world class management. You’re just learning to spot them and attach your capital to their knowledge and skills. It also makes the hobby more fun, as you learn what good solutions to problems look like.
+- [QQQ index](https://www.investopedia.com/ask/answers/061715/what-qqq-etf.asp) has [nice returns](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/g2wyqab/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Don’t chase companies. Don’t move money to ride the hot company that month. Do your research, plan, and then wait. Check your evaluation and then execute.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
 
 ## Links
 
@@ -89,3 +97,4 @@
 - [Investing ft. Brianne Kimmel (worklife), Tyler Tringas (Earnest Capital), and Sunil Pai (AngelList) (2020)](https://www.youtube.com/watch?v=a6oxclPIaxs) ([Article](https://techcrunch.com/2020/08/05/gumroad-founder-sahil-lavingia-launches-new-seed-fund-in-collaboration-with-angellist/))
 - [Announcing Initialized Fund V (2020)](https://medium.com/initialized-capital/announcing-initialized-fund-v-ab34becf68c9)
 - [Advice on investing in fintech companies (2020)](https://twitter.com/arfrank/status/1297997387475099654)
+- [What is the best investing tip for beginner investors you wish you knew when you started? (2020)](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
