@@ -27,3 +27,4 @@
 - [Introducing Direct Lambda Resolvers: AWS AppSync GraphQL APIs without VTL](https://aws.amazon.com/blogs/mobile/appsync-direct-lambda/)
 - [Cache AWS Lambda responses with Cloudflare (2020)](https://kylebarron.dev/blog/caching-lambda-functions-cloudflare)
 - [Debugging AWS Lambda Timeouts (2020)](https://lumigo.io/blog/debugging-aws-lambda-timeouts/)
+- [Show HN: AWS Lambda TypeScript Middleware](https://github.com/dbartholomae/lambda-middleware) ([Docs](https://dbartholomae.github.io/lambda-middleware/)) ([HN](https://news.ycombinator.com/item?id=24280237))

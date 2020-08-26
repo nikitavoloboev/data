@@ -4,6 +4,8 @@
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
+If you like to stay updated on these look backs, I write a [monthly newsletter of things I built & thought about](https://nikitavoloboev.substack.com).
+
 ## 2020
 
 - [January](2020/2020-january.md) - Joined Rekki.

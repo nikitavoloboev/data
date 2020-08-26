@@ -57,3 +57,4 @@
 - [If you think ReasonML compiles to JS, you are wrong (2019)](https://baturin.org/blog/if-you-think-reasonml-compiles-to-js-you-are-wrong/)
 - [Ulrik Strid - Reason Native Web (2020)](https://www.youtube.com/watch?v=t-sWyMqxsD0)
 - [Gabriel Nordeborn - ReasonRelay Demo (2020)](https://www.youtube.com/watch?v=fjbV0-OGuf4)
+- [ReScript](https://rescript-lang.org/) - Compiled language to JS. ([Code](https://github.com/rescript-lang/rescript-compiler))

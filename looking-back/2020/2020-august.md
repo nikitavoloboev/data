@@ -74,3 +74,21 @@ Oh and [Hive](https://www.reddit.com/r/TheeHive/) too. Doing synthesis is incred
 ## 24
 
 🎼 On the endless quest to find the [forever focus background song](https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT?si=ULFGIC7AR2KsaBKx7N_eNQ)
+
+## 26
+
+Decided I will have two binds for songs. [One for active focus and one slower one.](https://github.com/nikitavoloboev/dotfiles/commit/1cd57e2ccc199763f9a30bbd1d463c5b875fe48f) I still need to make binds to swap the favorite focus songs easily. Now those binds are hardcoded into karabiner config. But yeah, [Bonobo](https://open.spotify.com/track/6vgr2cK1a1OXF2IQ9FE8yB?si=ipl7fbnNT8eos9YlUTEWqg) does some nice active music.
+
+Music and coding, focus work is so weird. There are people who can listen to wordy songs and still get to do productive work. It's strange.
+
+I refined my goals finally. It's still quite broad as there is one piece missing and that's Learn Anything. But they do paint a good picture of what to focus on.
+
+Cannot wait until Tekezo finally releases new Karabiner version based off DriverKit. Boggles my mind that seemingly no Apple engineers use Karabiner to extent that I do. Quite sad even.
+
+[This new post by Brandur](https://brandur.org/nanoglyphs/013-remote) was a great read. It's my dream to one day to live in a place like SF filled with so many tech making people. Immigration laws are the worst. 😢
+
+I think I'll start doing personal monthly updates that will include everything I've thought about, worked on in that month. I already made [Substack](https://nikitavoloboev.substack.com/) for it. [Gwern](https://gwern.substack.com) does the same and it's pretty awesome.
+
+Will release the first entry in September as I am moving to a new place then and hope to be much more productive now with respect to my projects & work. Writing 'on schedule' is a great motivator to keep yourself accountable. Also the reviews will be aided by some nifty automation (grabbing GitHub repos made, getting log of commits, songs played), this kind of stuff. And be linked from here of course as these diary entries are just raw thoughts. Most people use Twitter for this kind of thing but I feel these thoughts are often 'too unfiltered' to be sent out to every single person's feed that follows me. I like to keep my Twitter use to more higher quality content.
+
+One other little thing I want to build is an email client built primarily to consume newsletters. Spark does filter out newsletters, notifications and personal emails nicely. But the newsletters themselves, I'd love if I could get a nicer experience with a clear separation of `top newsletters` and `other newsletters` similar to what I already do on Twitter/Instagram/Reddit. Could be I could make use of Gmail filtering to solve this and still use Spark client.

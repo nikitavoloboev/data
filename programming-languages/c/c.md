@@ -73,3 +73,4 @@
 - [C Code Archive Network](http://ccodearchive.net/) ([Code](https://github.com/rustyrussell/ccan))
 - [do {...} while (0) in macros (2014)](https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) ([Lobsters](https://lobste.rs/s/whezna/do_while_0_macros))
 - [Simple C Compiler](https://www.simple-cc.org/)
+- [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)

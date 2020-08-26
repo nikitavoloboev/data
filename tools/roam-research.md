@@ -3,6 +3,7 @@
 ## Notes
 
 - [Always grow your systems iteratively. I think part of what “true” Roamanship is is to reduce any and all sources of friction when adding new things, including the need to keep things neat and tidy.](https://www.reddit.com/r/RoamResearch/comments/ie8la8/how_do_you_deal_with_a_chaotic_database/)
+- [I use Roam as a journal. A book review place. Where I learn. My Daily Notes is a template, so that it helps me choose what to write, then its a daily logbook](https://www.reddit.com/r/RoamResearch/comments/igfnkv/roam_workflow/)
 
 ## Links
 

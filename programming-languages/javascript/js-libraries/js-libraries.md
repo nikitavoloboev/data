@@ -298,6 +298,7 @@
 - [HTM](https://github.com/developit/htm) - JSX-like syntax in plain JavaScript - no transpiler necessary.
 - [NativeScript](https://github.com/nativescript/nativescript) - Framework for building native iOS and Android apps using JavaScript and CSS.
 - [schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary.
+- [flatpickr](https://github.com/flatpickr/flatpickr) - JS date time picker.
 
 ## Links
 

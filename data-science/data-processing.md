@@ -17,3 +17,4 @@
 - [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform.
 - [Apache Spark](https://github.com/apache/spark) - Unified analytics engine for large-scale data processing.
 - [Batch](https://batch.sh/) - Event replay platform. Version control for data passing through your messaging systems. ([HN](https://news.ycombinator.com/item?id=24188214))
+- [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216) ([HN](https://news.ycombinator.com/item?id=24275683))

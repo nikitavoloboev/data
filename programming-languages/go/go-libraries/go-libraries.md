@@ -22,6 +22,7 @@
 - [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 - [Spinner](https://github.com/briandowns/spinner) - Simple package to add a spinner / progress indicator to any terminal application.
 - [Viper](https://github.com/spf13/viper) - Go configuration with fangs.
+- [Echelon](https://github.com/cirruslabs/echelon) - Hierarchical progress in terminals.
 
 ## Test
 

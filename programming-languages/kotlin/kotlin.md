@@ -13,3 +13,4 @@
 - [JetBrains Academy: Learn Kotlin](https://hyperskill.org/onboarding?track=kotlin)
 - [An Ergonomics Review of Using Kotlin from Swift (2020)](https://benasher.co/kotlin-ios-ergonomics/)
 - [Getting Started with Kotlin on iOS (2020)](https://benasher.co/kotlin-ios-getting-started/)
+- [Shrinking a Kotlin Binary by 99.2% (2020)](https://jakewharton.com/shrinking-a-kotlin-binary/) ([HN](https://news.ycombinator.com/item?id=24279128))

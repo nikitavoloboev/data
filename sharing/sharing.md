@@ -44,6 +44,8 @@ I love tracking various things for my own reference.
 
 I share and reflect on my life in this wiki. Acts as a little personal journal I love to look back on.
 
+I also write a [newsletter](https://nikitavoloboev.substack.com) with monthly updates.
+
 ## Everything else
 
 I share most everything else here:

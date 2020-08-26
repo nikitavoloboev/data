@@ -14,3 +14,6 @@
 - [How to Tokenize Japanese in Python](https://www.dampfkraft.com/nlp/how-to-tokenize-japanese.html)
 - [Moved to Tokyo](https://juanitofatas.com/fragments/moved-to-tokyo)
 - [Tokyo Jazz Site](https://tokyojazzsite.com/) - Guide to Jazz bars, clubs, cafes and shops in the Tokyo and Yokohama city areas.
+- [Beginner Japanese](https://brandur.org/fragments/beginner-japanese)
+- [Learn Japanese](https://www.tofugu.com/learn-japanese/) - Detailed Guide.
+- [Tofugu](https://www.tofugu.com/) - Japanese Culture & Language Blog.

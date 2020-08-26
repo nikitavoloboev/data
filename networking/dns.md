@@ -38,3 +38,4 @@
 - [DNS Push Notifications](https://www.rfc-editor.org/rfc/rfc8765.html) ([HN](https://news.ycombinator.com/item?id=23627094))
 - [DNS questions](https://questions.wizardzines.com/dns.html)
 - [Under the Hood of a Simple DNS Server (2020)](https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/)
+- [Understanding DNS—anatomy of a BIND zone file (2020)](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)

@@ -43,3 +43,4 @@
 - [Coolors](https://coolors.co/) - Super fast color schemes generator.
 - [atcq](https://github.com/mattdesl/atcq) - Implementation of Ant-Tree Color Quantization (ATCQ), described by Pérez-Delgado in various papers.
 - [Color contrast checker, analyser and color suggestions](https://polypane.app/color-contrast/)
+- [Adobe Color](https://color.adobe.com/create/color-wheel) - Color wheel, a color palette generator.

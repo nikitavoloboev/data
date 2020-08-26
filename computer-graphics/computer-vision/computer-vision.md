@@ -98,3 +98,4 @@
 - [NASA: Neural Articulated Shape Approximation (2020)](https://arxiv.org/abs/1912.03207)
 - [An Overview of Deep Learning Architectures in Few-Shot Learning Domain (2020)](https://arxiv.org/abs/2008.06365v2)
 - [FutureMapping: The Computational Structure of Spatial AI Systems (2018)](https://arxiv.org/abs/1803.11288) ([Tweet](https://twitter.com/AjdDavison/status/1045617261925543937))
+- [Optimal Peanut Butter and Banana Sandwiches (2020)](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/) ([Twitter](https://twitter.com/eprosenthal/status/1298290961294950401))

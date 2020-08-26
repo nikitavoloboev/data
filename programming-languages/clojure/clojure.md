@@ -66,3 +66,4 @@
 - [Nubank acquires Cognitect (2020)](https://cognitect.com/blog/2020/07/23/Cognitect-Joins-Nubank) ([HN](https://news.ycombinator.com/item?id=23926407))
 - [Cursive](https://cursive-ide.com/) - IDE for beautiful Clojure(Script) code. ([Lobsters](https://lobste.rs/s/2iyiwy/cursive_ide_for_beautiful_clojure_code))
 - [Clojurists Together](https://www.clojuriststogether.org/) - Funding critical Clojure open source software.
+- [(N)vim for Clojure development (2020)](https://tomekw.com/nvim-for-clojure-development/)

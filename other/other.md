@@ -313,3 +313,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Violet Society](https://www.thevioletsociety.com/) - Technology Peer Mentorship.
 - [Cuppa](https://www.getcuppa.io/) - 1-1 virtual coffees with top tech talent sourced from Twitter. ([HN](https://news.ycombinator.com/item?id=24244721))
 - [Patrick Collison's Questions](https://patrickcollison.com/questions) ([HN](https://news.ycombinator.com/item?id=24256676))
+- [Glowing Bear](https://www.glowing-bear.org/) - WeeChat web frontend.
+- [Nord Themes](https://www.nordtheme.com/) - Arctic, north-bluish color palette.

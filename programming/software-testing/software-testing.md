@@ -50,3 +50,5 @@
 - [Mutation Testing: A Tale of Two Suites (2020)](https://codeascraft.com/2020/08/17/mutation-testing-a-tale-of-two-suites/)
 - [In Testing, Scenarios Are King (2020)](https://devqa.io/scenarios-are-king/)
 - [Chaos Engineering book (2020)](https://www.manning.com/books/chaos-engineering) - Crash test your applications. ([Code](https://github.com/seeker89/chaos-engineering-book))
+- [Ian Cooper - TDD, Where Did It All Go Wrong (2017)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+- [Is TDD Dead? (2014)](https://martinfowler.com/articles/is-tdd-dead/) ([HN](https://news.ycombinator.com/item?id=24281195))

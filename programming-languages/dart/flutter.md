@@ -1,5 +1,9 @@
 # [Flutter](https://flutter.io/)
 
+## Nice Flutter apps
+
+- [Gmail Clone built with Flutter](https://github.com/rodydavis/gmail_clone)
+
 ## Links
 
 - [Why Flutter uses Dart (2018)](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
@@ -12,3 +16,4 @@
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples)
 - [Flutter Engine](https://github.com/flutter/engine)
 - [Flutter Code](https://github.com/flutter/flutter)
+- [Widget Studio](https://widget.studio/#/) - Drag and Drop Flutter Widget Creator.

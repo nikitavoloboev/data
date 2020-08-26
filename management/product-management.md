@@ -1,5 +1,9 @@
 # Product Management
 
+## Notes
+
+- [Toyota's decision-making principle: Instead of depending on hierarchy, the people who are closest to what’s happening make decisions](https://twitter.com/david_perell/status/1298436779725320192)
+
 ## Links
 
 - [15 Things You Should Know About Product Managers (2019)](https://medium.com/@johnpcutler/15-things-you-should-know-about-product-managers-f488513d246)

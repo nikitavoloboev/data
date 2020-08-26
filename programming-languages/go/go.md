@@ -329,3 +329,4 @@ Go promotes composition over inheritance.
 - [Implementing traceroute in Go (2020)](https://blog.kalbhor.xyz/post/implementing-traceroute-in-go/)
 - [Notes on working with Go and computer systems](https://github.com/betty200744/ultimate-go)
 - [DepsCheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
+- [Fuzzing in Go (2020)](https://lwn.net/SubscriberLink/829242/64cbde0531aaf166/)
