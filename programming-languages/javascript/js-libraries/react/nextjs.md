@@ -34,6 +34,10 @@
 - [next-unused](https://github.com/pacocoursey/next-unused) - Find unused files in your Next.js projects.
 - [next-img](https://github.com/humaans/next-img) - Next.js plugin for embedding optimized images.
 
+## Notes
+
+- [getStaticProps is a reverse proxy. It's the simplest reverse proxy ever. It's a function, exported alongside your React component.](https://twitter.com/samselikoff/status/1298634466802446337)
+
 ## Links
 
 - [next-postgres](https://github.com/jimmylee/next-postgres) - React 16.4.2 + NextJS 7.0.2 + Emotion + Sequelize 4/Postgres + Passport Local Auth + Zeit or Heroku Deployment.
