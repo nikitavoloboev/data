@@ -20,6 +20,7 @@
 - [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - Optimization on Manifolds in Julia.
 - [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation.
 - [ReverseDiff](https://github.com/JuliaDiff/ReverseDiff.jl) - Reverse Mode Automatic Differentiation for Julia.
+- [StatsFuns.jl](https://github.com/JuliaStats/StatsFuns.jl) - Mathematical functions related to statistics.
 
 ## Biology
 
