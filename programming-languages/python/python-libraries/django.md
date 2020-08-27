@@ -30,3 +30,4 @@
 - [Django Middleware](https://www.reddit.com/r/django/comments/hms3n6/django_middleware/)
 - [Django Async: What's new and what's next? (2020)](https://deepsource.io/blog/django-async-support/) ([HN](https://news.ycombinator.com/item?id=24160608))
 - [Django Redis](https://github.com/jazzband/django-redis) - Redis cache backend for Django.
+- [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)

@@ -40,3 +40,4 @@
 - [Tools of the trade: How I communicate at GitHub (and why) (2020)](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
 - [Get your work recognized: write a brag document (2020)](https://jvns.ca/blog/brag-documents/)
 - [Top tips to expand your network (2020)](https://twitter.com/AlwaysBeHustlin/status/1297920300366073857)
+- [Make It Clear book](https://mitpress.mit.edu/books/make-it-clear) - Speak and Write to Persuade and Inform.

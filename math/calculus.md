@@ -11,3 +11,4 @@
 - [Introduction to Tensor Calculus](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
 - [Why Calculus Works](https://markibrahim.gitbook.io/why-calculus-works/) - Understanding Calculus through real analysis, complex analysis, and measure theory. ([Code](https://github.com/marksibrahim/why-calculus-works))
 - [Mathematics for Machine Learning - Multivariate Calculus (2020)](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
+- [List of Calculus and Analysis Symbols](https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/)

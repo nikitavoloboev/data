@@ -62,3 +62,4 @@
 - [The Generative Portraiture of Espen Kluge](https://www.artnome.com/news/2019/7/24/generative-portraiture-of-espen-kluge)
 - [Hyper Glu](https://hyperglu.com/) - Generative artist.
 - [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/) ([HN](https://news.ycombinator.com/item?id=24118534))
+- [Interview With Generative Artist Jared Tarbell (2020)](https://www.artnome.com/news/2020/8/24/interview-with-generative-artist-jared-tarbell)

@@ -43,3 +43,4 @@
 - [“Giant atoms” enable quantum processing and communication in one (2020)](http://news.mit.edu/2020/giant-atoms-quantum-processing-communication-0729)
 - [Quantum Game with Photons](https://alpha.quantumgame.io/)
 - [Amazon Braket](https://aws.amazon.com/braket/) - Explore and experiment with quantum computing. ([HN](https://news.ycombinator.com/item?id=24220337))
+- [What Intel Is Planning for The Future of Quantum Computing: Hot Qubits, Cold Control Chips, and Rapid Testing (2020)](https://spectrum.ieee.org/tech-talk/computing/hardware/intels-quantum-computing-plans-hot-qubits-cold-control-chips-and-rapid-testing)

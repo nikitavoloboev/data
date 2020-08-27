@@ -153,3 +153,4 @@
 - [Force-Unwrapping in Swift is NOT a Bad Thing](https://wolfmcnally.com/82/force-unwrapping-swift-not-bad-thing/)
 - [Functional Programming in Swift (2020)](https://www.47deg.com/academy/2020-09-01-Functional-Programming-in-Swift-with-Bow-course/)
 - [Logging in Swift (2020)](https://steipete.com/posts/logging-in-swift/)
+- [Swiftly](https://swiftly.dev/) - Swift references for busy coders.

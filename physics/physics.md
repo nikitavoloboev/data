@@ -118,3 +118,4 @@
 - [Humanly Traversable Wormholes (2020)](https://arxiv.org/abs/2008.06618) ([HN](https://news.ycombinator.com/item?id=24196052))
 - [Stephen Wolfram & Eric Weinstein: The Nature of Mathematical Reality (2020)](https://overcast.fm/+Hf52xFKgY)
 - [Symmetry Magazine](https://www.symmetrymagazine.org/) - Dimensions of particle physics.
+- [A Candidate Geometrical Formalism for the Foundations of Mathematics and Physics (2020)](https://www.wolframphysics.org/bulletins/2020/08/a-candidate-geometrical-formalism-for-the-foundations-of-mathematics-and-physics/)

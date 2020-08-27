@@ -86,3 +86,4 @@
 - [SPIR-V](https://www.khronos.org/registry/spir-v/) - Binary intermediate language for representing graphical-shader stages and compute kernels for multiple Khronos APIs, including OpenCL, OpenGL, and Vulkan.
 - [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - Tool designed for parsing and converting SPIR-V to other shader languages.
 - [Low Level Graphics Library (LLGL)](https://github.com/LukasBanana/LLGL) - Abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
+- [Band-Limiting Procedural Textures (2020)](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)

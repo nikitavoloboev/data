@@ -127,3 +127,4 @@
 - [github-actions-dhall](https://github.com/vmchale/github-actions-dhall) - Demonstration using Dhall to generate YAML for github actions.
 - [GitHub Actions: Manual triggers with workflow_dispatch (2020)](https://github.blog/changelog/2020-07-06-github-actions-manual-triggers-with-workflow_dispatch/)
 - [Happy-PR: Pull Request Sentiment Analysis with GitHub Actions (2020)](https://dev.to/terabytetiger/happy-pr-pull-request-sentiment-analysis-with-github-actions-i0i)
+- [Automate GitHub for more than CI/CD (2020)](https://opensource.creativecommons.org/blog/entries/automate-github-for-more-than-CI%20CD/)

@@ -71,3 +71,4 @@
 - [Steward Ownership Resources](https://memex.social/c/oiLz5UIXw9JXermqZmXW)
 - [Unlocking the Commons](https://hyperlink.academy/courses/unlocking-the-commons/15) - Practical introduction to funding models for open creative work.
 - [The ideal round](https://www.notion.so/The-ideal-round-738cd31fa26b461281e2258a7cac3f24)
+- [How to Build a Fund Custodian (2020)](https://www.moderntreasury.com/journal/how-to-build-a-fund-custodian)

@@ -29,3 +29,5 @@
 - [Visualization of Quantum Physics (Quantum Mechanics)](https://www.youtube.com/watch?v=p7bzE1E5PMY)
 - [Kindergarten Quantum Mechanics (2005)](https://arxiv.org/abs/quant-ph/0510032) ([HN](https://news.ycombinator.com/item?id=24130443))
 - [Brief Overview of Quantum Mechanics (SEP)](https://plato.stanford.edu/entries/qm/)
+- [A Short Note on the Double-Slit Experiment and Other Quantum Interference Effects in the Wolfram Model (2020)](https://www.wolframphysics.org/bulletins/2020/08/a-short-note-on-the-double-slit-experiment-and-other-quantum-interference-effects-in-the-wolfram-model/)
+- [Schrödinger’s Cat When Nobody Is Looking (2020)](http://nautil.us/issue/89/the-dark-side/schrdingers-cat-when-nobody-is-looking)
