@@ -3,12 +3,12 @@
 ## Life
 
 - [Rules](../focusing/rules.md) - Lets me focus on creating value and cutting out noise in life.
-- [Processes](../focusing/processes.md) - Streamlines doing some tasks.
 - [Goals](../focusing/goals.md) - What I want to focus on in life in general strokes. Gives direction.
+- [Processes](../focusing/processes.md) - Streamlines doing some tasks.
 
 ## Code
 
-- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go & TypeScript.
+- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go & TS.
 - [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Editing markdown (wiki, articles, quick notes).
 - [Vim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it.
 - [Xcode](../macOS/apps/xcode/xcode.md) - Swift/SwiftUI.
@@ -16,8 +16,7 @@
 ## Tasks
 
 - [2Do](../macOS/apps/2do.md) - Personal tasks. Every task is actionable, tagged appropriately and sorted by priority.
-- [Linear](https://linear.app/) - Lovely task management for teams. Keyboard friendly. Use it for small & big private projects.
-- [GitHub](../open-source/github/github.md) - Issues/PRs open for OSS projects I care about.
+- [GitHub](../open-source/github/github.md) - Issues/PRs for projects I care about.
 
 ## Plan
 
@@ -26,7 +25,7 @@
 
 ## Video
 
-- [Hangouts](https://hangouts.google.com) - Fast and works well. Doesn't require booting a desktop app like Zoom.
+- [Hangouts](https://hangouts.google.com) or [Zoom](http://zoom.us)
 
 ## Knowledge index
 
@@ -66,22 +65,22 @@
 
 ## Presentations
 
-- Keynote - [BeautifulAI](https://www.beautiful.ai), [Spectacle](https://formidable.com/open-source/spectacle/), [Hyperdeck](https://hyperdeck.io/) & Google Slides are good too.
+- [Pitch](https://pitch.com/) or [Keynote](https://www.apple.com/keynote/)
 
 ## Tech stack
 
-- Static sites (landing pages) / Blogs - [Eleventy](https://github.com/11ty/eleventy) or [Hugo](https://github.com/gohugoio/hugo).
-- Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react). Deployed with [Vercel](https://vercel.com/learn-anything) or [Netlify](https://www.netlify.com).
+- Static sites (landing pages) / Blogs - [NextJS](https://nextjs.org/), [Eleventy](https://www.11ty.dev) or [Hugo](https://gohugo.io).
+- Web Apps - [NextJS](https://nextjs.org/)
 - Server APIs - [Go](https://golang.org/). Deployed as lambda functions on [AWS](https://aws.amazon.com/lambda/) or [GCP](https://cloud.google.com/functions).
-- Scripts & CLI tools - [Go](https://golang.org/).
-- Database - [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. [SQLite](https://www.sqlite.org) is great too.
-- Authentication - [Firebase](https://firebase.google.com/docs/auth)
-- iOS/macOS - Swift/SwiftUI. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) seems great.
+- Scripts & CLI tools - [Go](https://golang.org/)
+- Database - [Postgres](https://www.postgresql.org) for everything. With [Prisma](https://www.prisma.io/) or [Hasura](https://hasura.io) setup for queries. [SQLite](https://www.sqlite.org) is great too.
+- Authentication - [Firebase](https://firebase.google.com/docs/auth) or [Prisma](https://v1.prisma.io/docs/1.2/reference/migration-guides/authentication-and-authorization-yaeco6ieth)
+- iOS/macOS - Swift/SwiftUI. Using [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
 
 ## Project tools
 
 - [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type & size of project. Small project, Telegram group is fine. Open source or community project, Discord. Fully private, Slack is good although Discord works well too.
-- [Linear](https://linear.app/) - For everything task related.
+- [Linear](https://linear.app/) - Lovely task management for teams. Keyboard friendly. Use it for small & big private projects.
 - [Notion](../tools/notion.md) - For everything wiki, collaboration.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
 - [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
@@ -94,7 +93,7 @@
 
 ## React
 
-- State Management - React useState, [Zustand](https://github.com/react-spring/zustand) & [Urql](https://github.com/FormidableLabs/urql)
+- State Management - React useState/Context with [Zustand](https://github.com/react-spring/zustand) or [Urql](https://github.com/FormidableLabs/urql) or [Apollo](https://www.apollographql.com).
 
 ## Git
 

@@ -8,14 +8,14 @@
 ## Links
 
 - [Slides](https://slides.com/) - Awesome tool to make and present slide decks.
-- [Beautiful.ai](https://www.beautiful.ai/) - Create beautiful presentations in minutes.
+- [BeautifulAI](https://www.beautiful.ai/) - Create beautiful presentations in minutes.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations.
 - [Big](https://github.com/tmcw/big) - Presentations for busy messy hackers.
 - [mdx-deck](https://github.com/jxnblk/mdx-deck) - [MDX](https://github.com/mdx-js/mdx)-based presentation decks.
 - [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - Present code with style.
 - [reveal.js](https://github.com/hakimel/reveal.js/) - HTML Presentation Framework. ([Talks](http://stabbycutyou.github.io/)) ([Web](https://revealjs.com/)) ([Chalkboard with reveal.js](https://rajgoel.github.io/reveal.js-demos/chalkboard-demo.html#/)) ([Plugins](https://github.com/rajgoel/reveal.js-plugins))
 - [Fusuma](https://github.com/hiroppy/fusuma) - Make slides with Markdown easily.
-- [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
+- [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library. ([Web](https://formidable.com/open-source/spectacle/))
 - [mdx-deck-live-code](https://github.com/JReinhold/mdx-deck-live-code) - Component for mdx-deck for live coding directly in your slides.
 - [Sizle](https://sizle.io/) - Bring your slide decks to life.
 - [Waymark](https://waymark.io/) - Instant, beautiful roadmaps for product presentations.
@@ -28,3 +28,5 @@
 - [Hyperdeck](https://hyperdeck.io/) - Markdown Presentations for iPad and macOS.
 - [Paste](https://paste.bywetransfer.com/) - Here to change how you make decks. ([Taking creativity remote with the new Paste](https://ideas.bywetransfer.com/story/taking-creativity-remote-with-paste))
 - [Turndown](https://github.com/domchristie/turndown) - Convert HTML into Markdown with JavaScript. ([Web](http://domchristie.github.io/turndown/))
+- [Keynote](https://www.apple.com/keynote/)
+- [Google Slides](https://www.google.com/slides/about/)
