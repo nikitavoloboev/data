@@ -65,3 +65,4 @@
 - [Essential Coding Theory (2019)](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf) ([HN](https://news.ycombinator.com/item?id=24194543))
 - [Codexpanse](https://codexpanse.com/) - Programming and CS courses for humans.
 - [Cambridge Department of Computer Science](https://www.cl.cam.ac.uk/)
+- [Abstracting Abstract Machines (2010)](http://matt.might.net/papers/vanhorn2010abstract.pdf) ([HN](https://news.ycombinator.com/item?id=24286666))
