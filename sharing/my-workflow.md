@@ -20,7 +20,7 @@
 
 ## Plan
 
-- [Fantastical](../macOS/apps/fantastical.md) - Only set events for meetings & actual events I want to visit. I view the calendar in 5 next days mode.
+- [Fantastical](../macOS/apps/fantastical.md) - Only set events for meetings & actual events I want to visit.
 - [Calendly](https://calendly.com/) - For sharing my availability and arranging of meetings.
 
 ## Video

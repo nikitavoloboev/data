@@ -49,3 +49,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Master of keyboard is master of automation (Key remapper implementation in Swift)](https://github.com/creasty/Keyboard)
 - [Remapping keys on macOS](https://blog.codefront.net/2020/06/24/remapping-keys-on-macos)
 - [Goku Configs on GitHub](https://github.com/search?l=&o=desc&q=extension%3A.edn+filename%3Akarabiner.edn&s=&type=Code)
+- [Setting Up Karabiner for Keyboard Shortcut Glory w/ Shawn Wang (2020)](https://www.twitch.tv/videos/723308009)
