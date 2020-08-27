@@ -71,3 +71,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Neovim 0.5.0: Language Server Protocol (2020)](https://nathansmith.io/posts/neovim-lsp)
 - [Neovim for macOS](https://github.com/JaySandhu/neovim-mac) - Fast, minimal, Neovim GUI for macOS.
 - [VimTricks](https://vimtricks.com/) - Weekly Vim tips, tricks, guides, screencasts, and more.
+- [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) ([HN](https://news.ycombinator.com/item?id=24287566))

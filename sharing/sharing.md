@@ -44,7 +44,7 @@ I love tracking various things for my own reference.
 
 I share and reflect on my life in this wiki. Acts as a little personal journal I love to look back on.
 
-I also write a [newsletter](https://nikitavoloboev.substack.com) with monthly updates on things I built & thought about.
+I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
 
 ## Everything else
 

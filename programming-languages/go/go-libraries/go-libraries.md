@@ -486,6 +486,7 @@
 - [Got](https://github.com/melbahja/got) - Simple and fast concurrent downloader.
 - [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency.
 - [otp](https://github.com/pquerna/otp) - One Time Password utilities Go.
+- [Golang Network File Server](https://github.com/willscott/go-nfs/) - NFSv3 protocol implementation in pure Go. ([HN](https://news.ycombinator.com/item?id=24287381))
 
 ## Links
 

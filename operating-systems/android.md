@@ -14,4 +14,4 @@
 - [UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - UI framework for native apps, which enables code targeting iOS UIKit to run on other platforms, particularly on Android.
 - [Make Android self-hosting (musl, toybox, qcc)](http://landley.net/aboriginal/about.html#selfhost) ([Lobsters](https://lobste.rs/s/mzpz9t/make_android_self_hosting))
 - [Shipping Two Apps in One on Android (2020)](https://eng.snap.com/shipping_two_apps_in_one_android)
-- [Jetpack Compose Alpha is released (2020)](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
+- [Jetpack Compose Alpha is released (2020)](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html) ([HN](https://news.ycombinator.com/item?id=24284517))

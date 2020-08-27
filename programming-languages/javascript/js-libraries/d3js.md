@@ -22,3 +22,4 @@
 - [WebCola](https://ialab.it.monash.edu/webcola/) - JavaScript constraint based layout for high-quality graph visualization and exploration using D3.js and other web-based graphics libraries.
 - [Rendering One Million Datapoints with D3 and WebGL (2020)](https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html)
 - [D3 Render](https://github.com/unkleho/d3-render) - Declarative and reusable D3. Replace select, append, data, join, enter, exit, transition and more with one function.
+- [HN: D3 6.0 (2020)](https://news.ycombinator.com/item?id=24288497)

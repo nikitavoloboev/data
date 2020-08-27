@@ -19,3 +19,4 @@
 - [Young children would rather explore than get rewards (2020)](https://news.osu.edu/young-children-would-rather-explore-than-get-rewards/) ([HN](https://news.ycombinator.com/item?id=24139261))
 - [Ask HN: Parents, what are you doing for school this fall? (2020)](https://news.ycombinator.com/item?id=24189147)
 - [HN: My kid can’t handle a virtual education, and neither can I (2020)](https://news.ycombinator.com/item?id=24214570)
+- [MixedName](https://mixedname.com/) - Bilingual baby name finder. ([HN](https://news.ycombinator.com/item?id=24286065))

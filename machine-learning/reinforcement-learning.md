@@ -96,3 +96,5 @@
 - [Optax](https://github.com/deepmind/optax) - Gradient processing and optimization library for JAX.
 - [Chex](https://github.com/deepmind/chex) - Library of utilities for helping to write reliable JAX code.
 - [Reinforcement Learning for Combinatorial Optimization: A Survey (2020)](https://arxiv.org/abs/2003.03600)
+- [GenRL](https://github.com/SforAiDl/genrl) - PyTorch reinforcement learning library centered around reproducible and generalizable algorithm implementations. ([HN](https://news.ycombinator.com/item?id=24292339)) ([Docs](https://genrl.readthedocs.io/en/latest/)) ([Tutorials](https://genrl.readthedocs.io/en/latest/usage/tutorials/index.html)) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/ihibey/genrl_pytorchfirst_reinforcement_learning_library/))
+- [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.

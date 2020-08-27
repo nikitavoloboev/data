@@ -163,3 +163,4 @@
 - [Aboriginal Linux](http://landley.net/aboriginal/documentation.html) - Toolkit for building custom virtual machines.
 - [Ventoy](https://github.com/ventoy/Ventoy) - Open source tool to create bootable USB drive for ISO/WIM/IMG/EFI files. ([Web](https://www.ventoy.net/en/index.html))
 - [Linux Kernel Modules Developments](https://github.com/AymenSekhri/LinuxKernelModulesDevelopments)
+- [Introduction to Linux commands and Shell scripting](https://github.com/learnbyexample/Linux_command_line)

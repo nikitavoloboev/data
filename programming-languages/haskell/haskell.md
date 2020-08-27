@@ -22,6 +22,9 @@
   3. Separation of IO and logic
   4. Immutability
   5. Data is "transformed" using functions and function compositions
+- [Haskell does not have return or statements, only expressions.](https://users.rust-lang.org/t/why-semicolons/25074/8)
+  - It has do-notation, which resembles statements if you don’t squint too hard. But Haskell has very few syntactic elements, so there is no need to worry about disambiguating between e.g. a; [b].c and a[b].c like there is in Rust.
+- [All values are immutable and all functions are pure in Haskell, with the one exception of I/O monads.](https://users.rust-lang.org/t/why-semicolons/25074/9)
 
 ## Links
 

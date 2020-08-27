@@ -23,3 +23,9 @@ Filter out wasteful news, information. No thoughtless actions. Focus on goals & 
 ## Go out of my comfort zone
 
 Make screencasts/videos to educate. Write. Practice photography. Compose music. Design. Be inspired & improve myself.
+
+## Expand personal site
+
+Lots of [inspiration](../design/design-inspiration.md). I want a personal space I can expand and build upon (experiment).
+
+Blog, wiki, art, projects, photos. Look backs with data from services.

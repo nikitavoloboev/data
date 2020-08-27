@@ -4,7 +4,7 @@
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
-I also write a [newsletter](https://nikitavoloboev.substack.com) with monthly updates on things I built & thought about.
+I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
 
 ## 2020
 

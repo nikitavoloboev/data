@@ -94,3 +94,21 @@ Will release the first entry in September as I am moving to a new place then and
 One other little thing I want to build is an email client built primarily to consume newsletters. Spark does filter out newsletters, notifications and personal emails nicely. But the newsletters themselves, I'd love if I could get a nicer experience with a clear separation of `top newsletters` and `other newsletters` similar to what I already do on Twitter/Instagram/Reddit. Could be I could make use of Gmail filtering to solve this and still use Spark client.
 
 [Solumun](https://open.spotify.com/track/0ukVxZ8pEQIS99zVwboZBV?si=0U1PcT66REOcx5WqwYJHfA) is nice too.
+
+## 27
+
+I do think if it's worth going with Substack for these newsletters or roll either my own solution with [Mailgun](https://www.mailgun.com). But I fear that would be bad and most mails might be [marked as spam for whatever reason](https://brandur.org/nanoglyphs/013-remote).
+
+I guess the fear is that Substack actually gets worse with time similar to Medium or just stops innovating (Medium still has no syntax highlight code block in 2020). So yeah, I'll just use Substack and in the worse case it doesn't really lock you in to their platform and you can move away if it gets bad.
+
+[Erik Torenberg](https://eriktorenberg.substack.com/) is another Substack I greatly enjoy reading. I like how he set for himself to write something every week & goes through with it. [On Deck Writer Fellowship](https://www.beondeck.com/writers) looks very awesome too. Curious about what kind of things you can learn there from other great writers. Plus of course it would be so nice to actually know some great writers. 🙃
+
+Just learned that Substack doesn't support markdown. That's quite a deal breaker actually. I think I'll just go with [Buttondown](https://buttondown.email/) due to this. The big thing I want is to keep everything as source on my site and then just distribute parts of it as part of a newsletter. Or essentially distribute some 'posts', would be nice if it was as simple as 'publishing' a new post with a `git push`. Anyway, will see, some newsletter will be setup before end of September.
+
+Okay Buttondown even has [API](https://buttondown.email/features/api). It's not even close then, Substack is 💩
+
+I'll make a macro to take the post I wrote be it a blog post or a monthly summary and publish it as part of a newsletter with near 0 friction. So nice.
+
+As a note, [Hillel Wayne](https://www.hillelwayne.com/post/j-notation/) does this for his articles. The main source is on his site but is also distributed via newsletter to all. With an easy subscribe action at end of all posts.
+
+I do wonder if Buttondown will support mdx though. Google returns nothing, will have to try. Not even sure what kind of things I'll be using mdx for. I still have to watch all the talks from the recent [MDX Conf](https://mdxjs.com/conf/).

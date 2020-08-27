@@ -19,6 +19,7 @@
 - [SurrealNumbers](https://github.com/mroughan/SurrealNumbers.jl) - Implementation of Conway's Surreal Numbers.
 - [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - Optimization on Manifolds in Julia.
 - [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation.
+- [ReverseDiff](https://github.com/JuliaDiff/ReverseDiff.jl) - Reverse Mode Automatic Differentiation for Julia.
 
 ## Biology
 

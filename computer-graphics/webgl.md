@@ -29,3 +29,4 @@
 - [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html) ([HN](https://news.ycombinator.com/item?id=23770711))
 - [Cool WebGL stuff (2020)](http://gfxprose.blogspot.com/2020/07/cool-webgl-stuff-2020-07-16.html)
 - [Advanced Creative Coding with WebGL and Shaders on top of ThreeJS (2020)](https://frontendmasters.com/courses/webgl-shaders/)
+- [Real-time rendering of water caustics (2020)](https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa)

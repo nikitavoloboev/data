@@ -81,3 +81,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Toward a more useful keyboard](https://github.com/jasonrudolph/keyboard)
 - [Art of Chording](https://www.artofchording.com/) - Teach yourself stenography for free. Use steno with Plover to type faster and more ergonomically than on a keyboard. ([HN](https://news.ycombinator.com/item?id=24182336))
 - [KBDfans](https://kbdfans.com/) - Mechanical Keyboards Store.
+- [Vim-like Layer for Xorg and Wayland (2020)](https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/) ([HN](https://news.ycombinator.com/item?id=24280413))

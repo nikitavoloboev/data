@@ -199,3 +199,4 @@
 - [CSS Weekly](https://css-weekly.com/)
 - [A Lightweight Masonry Solution (2020)](https://css-tricks.com/a-lightweight-masonry-solution/) ([CodePen](https://codepen.io/collection/DYRJxR))
 - [Enhancing User Experience With CSS Animations](https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/)
+- [Make your first CSS art (2020)](https://nadialaasri.me/blog/make-your-first-css-art)
