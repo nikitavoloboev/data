@@ -32,8 +32,9 @@
 - [Notion Go](https://github.com/kjk/notionapi)
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
-- [Reddit Go](https://github.com/turnage/graw)
-- [Reddit Go 2](https://github.com/jzelinskie/geddit)
+- [Reddit Go](https://github.com/vartanbeno/go-reddit)
+- [Reddit Go 2](https://github.com/turnage/graw)
+- [Reddit Go 3](https://github.com/jzelinskie/geddit)
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
@@ -130,3 +131,4 @@
 - [Rusty's API Design Manifesto](http://sweng.the-davies.net/Home/rustys-api-design-manifesto)
 - [Top 10 Social Media APIs for Developers (2020)](https://www.ayrshare.com/top-10-social-media-apis-for-developers/)
 - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API. ([HN](https://news.ycombinator.com/item?id=24196121))
+- [The land before modern APIs (2020)](https://increment.com/apis/land-before-modern-apis/)

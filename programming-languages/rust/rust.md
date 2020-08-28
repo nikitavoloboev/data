@@ -300,3 +300,5 @@
 - [Different levels of async in Rust (2020)](https://www.fpcomplete.com/blog/different-levels-async-rust/)
 - [Rust Memory Container Cheat-sheet](https://github.com/usagi/rust-memory-container-cs)
 - [HN: Rust 1.46 (2020)](https://news.ycombinator.com/item?id=24294960) ([Lobsters](https://lobste.rs/s/oet5t1/announcing_rust_1_46_0))
+- [Acheiving warp speed with Rust (2017)](http://troubles.md/rust-optimization/)
+- [Inviting God's Wrath with Cursed Rust (2020)](http://troubles.md/abusing-rustc/)

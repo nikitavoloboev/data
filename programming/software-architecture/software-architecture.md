@@ -78,3 +78,4 @@
 - [Awesome System Design](https://github.com/madd86/awesome-system-design)
 - [The System Design Manual](https://systemdesignmanual.com/) - Learn how to design, build and operate large scale distributed systems.
 - [Organizing architectural katas (2020)](https://nelis.boucke.be/post/architectural-katas/)
+- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html) - Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work. ([Code](https://github.com/nocomplexity/ArchitecturePlaybook))

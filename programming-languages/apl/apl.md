@@ -26,3 +26,4 @@
 - [A look at the J language: the fine line between genius and insanity (2012)](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/) ([HN](https://news.ycombinator.com/item?id=24177126))
 - [Convolutional Neural Networks in APL (2019)](https://dl.acm.org/doi/pdf/10.1145/3315454.3329960)
 - [NumPy another Iverson Ghost (2018)](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/) ([HN](https://news.ycombinator.com/item?id=24176985))
+- [MicroKanren in J: an Embedding of the Relational Paradigm in an Array Language with Rank-Polymorphic Unification (2020)](http://minikanren.org/workshop/2020/minikanren-2020-paper2.pdf) ([Lobsters](https://lobste.rs/s/qcrdly/microkanren_j_embedding_relational))

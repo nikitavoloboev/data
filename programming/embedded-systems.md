@@ -61,3 +61,4 @@
 - [Target atsamd microcontrollers using Rust](https://github.com/atsamd-rs/atsamd)
 - [ClojureScript on ESP32? Why not! (2020)](https://blog.tindie.com/2020/07/clojurescript-on-esp32-why-not/)
 - [defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems.
+- [Embedded Podcast/Blog](https://embedded.fm/) - Site dedicated to the many aspects of engineering. We talk about the how, why, and what of engineering, usually devices.

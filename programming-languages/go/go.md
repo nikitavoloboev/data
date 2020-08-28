@@ -330,3 +330,6 @@ Go promotes composition over inheritance.
 - [Notes on working with Go and computer systems](https://github.com/betty200744/ultimate-go)
 - [DepsCheck](https://github.com/divan/depscheck) - Dependency checker for Golang (Go) packages. Prints stats and suggests to remove small LeftPad-like imports if any.
 - [Fuzzing in Go (2020)](https://lwn.net/SubscriberLink/829242/64cbde0531aaf166/)
+- [Fundamentals of Go](https://github.com/bitfield/ftl-fundamentals)
+- [gore](https://github.com/motemen/gore) - Go REPL that works nicely. Featured with line editing, code completion, and more.
+- [Testing Database Transactions in Go (2020)](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM) ([HN](https://news.ycombinator.com/item?id=24303322))

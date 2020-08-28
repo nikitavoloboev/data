@@ -119,3 +119,4 @@
 - [Stephen Wolfram & Eric Weinstein: The Nature of Mathematical Reality (2020)](https://overcast.fm/+Hf52xFKgY)
 - [Symmetry Magazine](https://www.symmetrymagazine.org/) - Dimensions of particle physics.
 - [A Candidate Geometrical Formalism for the Foundations of Mathematics and Physics (2020)](https://www.wolframphysics.org/bulletins/2020/08/a-candidate-geometrical-formalism-for-the-foundations-of-mathematics-and-physics/)
+- [Mathematics for Physics](https://www.mathphysicsbook.com/) - Illustrated Handbook.

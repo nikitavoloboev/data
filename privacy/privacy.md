@@ -51,3 +51,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [We Chat, They Watch (2020)](https://citizenlab.ca/2020/05/we-chat-they-watch/) - How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus. ([HN](https://news.ycombinator.com/item?id=23109997))
 - [EFF](https://www.eff.org/) - Leading nonprofit organization defending civil liberties in the digital world.
 - [Metomic](https://metomic.io/) - Privacy Tools for Developers.
+- [How Facebook and Other Sites Manipulate Your Privacy Choices (2020)](https://www.wired.com/story/facebook-social-media-privacy-dark-patterns/)

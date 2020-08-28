@@ -200,6 +200,7 @@
 - [How to think about building a business from things like dev tools or OSS projects](https://twitter.com/jasoncwarner/status/1294641696257585152)
 - [Persisting as a solo founder (2020)](https://vishnu.tech/posts/persistence/) ([HN](https://news.ycombinator.com/item?id=24251403))
 - [How to Disrupt Network Effects. Making networks redundant is one way to (2020)](https://medium.com/breadcrumb/how-to-disrupt-network-effects-aeeb105c82b1)
+- [How to Create a Good Name for Your Business (2020)](https://toolbox.humandeluxe.com/good-business-name/)
 
 ## Images
 

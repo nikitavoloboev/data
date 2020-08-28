@@ -22,7 +22,7 @@
 - [JuliaLang: The Ingredients for a Composable Programming Language (2020)](https://white.ucc.asn.au/2020/02/09/whycompositionaljulia.html) ([HN](https://news.ycombinator.com/item?id=22288735))
 - [Julia website code](https://github.com/JuliaLang/www.julialang.org)
 - [Julia Virtual Meetup (2020)](https://www.youtube.com/watch?v=ZUrozPzNOtI)
-- [Pluto.jl](https://github.com/fonsp/Pluto.jl) - Lightweight reactive notebooks for Julia.
+- [Pluto.jl](https://github.com/fonsp/Pluto.jl) - Lightweight reactive notebooks for Julia. ([HN](https://news.ycombinator.com/item?id=24281613))
 - [MIT: Computational thinking with Julia + application to the COVID-19 pandemic (2020)](https://github.com/mitmath/6S083)
 - [Set of IPython (Jupyter) notebooks to introduce the Julia programming language](https://github.com/daanhb/Julia-tutorial)
 - [OhMyREPL](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL.

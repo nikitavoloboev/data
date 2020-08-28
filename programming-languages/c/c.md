@@ -74,3 +74,4 @@
 - [do {...} while (0) in macros (2014)](https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) ([Lobsters](https://lobste.rs/s/whezna/do_while_0_macros))
 - [Simple C Compiler](https://www.simple-cc.org/)
 - [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)
+- [Rust-style futures in C (2020)](https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html)

@@ -49,6 +49,7 @@
 - [makemepulse](https://www.makemepulse.com/)
 - [Milkinside](https://milkinside.com/)
 - [Awkward](https://www.awkward.co/) - Digital product agency.
+- [Human Deluxe Design Studio](https://humandeluxe.com/)
 
 ## DB
 
@@ -112,6 +113,7 @@
 - [Uberdosis](https://github.com/ueberdosis) - Digital product agency, building own products & working for clients.
 - [Littlelines](https://littlelines.com/) - Ruby on Rails Development Company.
 - [Atomic Object](https://atomicobject.com/)
+- [Bitfield Consulting](https://bitfieldconsulting.com/) - Cloud native & Go consultancy.
 
 ## Links
 
