@@ -93,7 +93,7 @@
 
 ## React
 
-- State Management - React useState/Context with [Zustand](https://github.com/react-spring/zustand) or [Urql](https://github.com/FormidableLabs/urql) or [Apollo](https://www.apollographql.com).
+- State Management - React useState/Context with [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx), [Urql](https://github.com/FormidableLabs/urql) or [Apollo](https://www.apollographql.com).
 
 ## Git
 
