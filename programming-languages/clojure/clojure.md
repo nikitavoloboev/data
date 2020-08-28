@@ -67,3 +67,4 @@
 - [Cursive](https://cursive-ide.com/) - IDE for beautiful Clojure(Script) code. ([Lobsters](https://lobste.rs/s/2iyiwy/cursive_ide_for_beautiful_clojure_code))
 - [Clojurists Together](https://www.clojuriststogether.org/) - Funding critical Clojure open source software.
 - [(N)vim for Clojure development (2020)](https://tomekw.com/nvim-for-clojure-development/)
+- [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)

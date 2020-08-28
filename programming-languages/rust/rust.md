@@ -3,6 +3,7 @@
 ## Notes
 
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
+- [Every reference in Rust has a lifetime, but the compiler is usually smart enough to infer it.](https://news.ycombinator.com/item?id=24294960)
 
 ## Links
 
@@ -298,3 +299,4 @@
 - [Using C libraries in Rust: make a sys crate](https://kornel.ski/rust-sys-crate)
 - [Different levels of async in Rust (2020)](https://www.fpcomplete.com/blog/different-levels-async-rust/)
 - [Rust Memory Container Cheat-sheet](https://github.com/usagi/rust-memory-container-cs)
+- [HN: Rust 1.46 (2020)](https://news.ycombinator.com/item?id=24294960) ([Lobsters](https://lobste.rs/s/oet5t1/announcing_rust_1_46_0))

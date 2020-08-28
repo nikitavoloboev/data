@@ -17,5 +17,5 @@
 - [SAT solver on top of regex matcher](https://yurichev.com/news/20200621_regex_SAT/)
 - [SAT/SMT by Example](https://yurichev.com/SAT_SMT.html) - Extensive and diverse collection of problems that can be encoded as SAT or SMT problems, and discusses their encodings in detail.
 - [Kissat SAT Solver](http://fmv.jku.at/kissat/) ([HN](https://news.ycombinator.com/item?id=23979388))
-- [Can Computers Solve the Collatz Conjecture? (2020)](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) ([Lobsters](https://lobste.rs/s/ylgnlq/computer_scientists_attempt_corner))
+- [Can Computers Solve the Collatz Conjecture? (2020)](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) ([Lobsters](https://lobste.rs/s/ylgnlq/computer_scientists_attempt_corner)) ([HN](https://news.ycombinator.com/item?id=24288963))
 - [SMT Solvers, Integer Linear Programming (2019)](https://shapr.github.io/posts/2019-07-10-smt-solvers.html)

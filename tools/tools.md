@@ -34,7 +34,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Replace](https://replace.sh/) - Find and replace blocks of text with sed. ([Code](https://github.com/esemeniuc/replace.sh/))
 - [Logflare](https://logflare.app/) - Affordable log management & event analytics.
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
-- [Draw.io](https://www.draw.io/) - Online diagramming web site that delivers the source in this project. ([Code](https://github.com/jgraph/drawio))
+- [Diagrams](https://app.diagrams.net/) - Online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Code](https://github.com/jgraph/drawio))
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
 - [Pulse](https://pulse.so/) - Keep Remote Teams Aligned No Matter When & Where. ([Twitter](https://twitter.com/leonardofed/status/1264980016850513920))

@@ -51,7 +51,7 @@
 - [Quotebacks](https://quotebacks.net/) - Quote the Web. ([HN](https://news.ycombinator.com/item?id=23468175)) ([Code](https://github.com/Blogger-Peer-Review/quotebacks))
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - See how your favicon hold up across popular browsers, including native dark and light modes. ([Code](https://github.com/colinkeany/favicon-checker))
 - [Selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python.
-- [WebCheck](https://webcheck.tools/) - High-confidence browser testing. ([Lobsters](https://lobste.rs/s/mdmvuw/webcheck_high_confidence_browser))
+- [Quickstrom](https://quickstrom.io/) - High-confidence browser testing. ([Lobsters](https://lobste.rs/s/mdmvuw/webcheck_high_confidence_browser)) ([Intro](https://wickstrom.tech/programming/2020/08/27/introducing-quickstrom-high-confidence-browser-testing.html))
 - [Hello, Goodbye](https://github.com/bcye/Hello-Goodbye) - Browser extension that blocks annoying chat widgets.
 - [Getting a Browser Extension Through Review (2020)](https://formidable.com/blog/2020/extension-reviews/)
 - [Browservice](https://github.com/ttalvitie/browservice) - Browse the modern web on historical browsers. ([HN](https://news.ycombinator.com/item?id=23595430))
