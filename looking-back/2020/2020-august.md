@@ -112,3 +112,7 @@ I'll make a macro to take the post I wrote be it a blog post or a monthly summar
 As a note, [Hillel Wayne](https://www.hillelwayne.com/post/j-notation/) does this for his articles. The main source is on his site but is also distributed via newsletter to all. With an easy subscribe action at end of all posts.
 
 I do wonder if Buttondown will support mdx though. Google returns nothing, will have to try. Not even sure what kind of things I'll be using mdx for. I still have to watch all the talks from the recent [MDX Conf](https://mdxjs.com/conf/).
+
+## 30
+
+[Lovecroft](https://github.com/thesephist/lovecroft) is another nice newsletter solution. 🤔
