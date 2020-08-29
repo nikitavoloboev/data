@@ -97,7 +97,7 @@ One other little thing I want to build is an email client built primarily to con
 
 ## 27
 
-I do think if it's worth going with Substack for these newsletters or roll either my own solution with [Mailgun](https://www.mailgun.com). But I fear that would be bad and most mails might be [marked as spam for whatever reason](https://brandur.org/nanoglyphs/013-remote).
+I do think if it's worth going with Substack for these newsletters or roll my own solution with [Mailgun](https://www.mailgun.com). But I fear that would be bad and most mails might be [marked as spam for whatever reason](https://brandur.org/nanoglyphs/013-remote).
 
 I guess the fear is that Substack actually gets worse with time similar to Medium or just stops innovating (Medium still has no syntax highlight code block in 2020). So yeah, I'll just use Substack and in the worse case it doesn't really lock you in to their platform and you can move away if it gets bad.
 

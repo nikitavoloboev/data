@@ -55,3 +55,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Speaking Tips (2020)](https://twitter.com/swyx/status/1276918032971886592)
 - [Notist](https://noti.st/) - Your public speaking portfolio.
 - [List of best talks (2020)](https://twitter.com/ashleymcnamara/status/1278537744352862208)
+- [Badass Conference Talks](https://github.com/emmabostian/badass-conference-talks)
