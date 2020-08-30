@@ -1,5 +1,9 @@
 # [AWS Lambda](https://aws.amazon.com/lambda/)
 
+## Notes
+
+- [I just reduced latency by \~ 10x by bumping memory from default to \~1GB. w/ provisioned concurrency brought the request time down to around 30ms w DDB](https://twitter.com/dabit3/status/1299846109448282112)
+
 ## Links
 
 - [Writing AWS Lambda Functions in Rust](https://github.com/SilentByte/rust-lambda) ([Article](https://silentbyte.com/writing-aws-lambda-functions-in-rust))
