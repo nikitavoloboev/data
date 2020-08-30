@@ -269,3 +269,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [3D Book Image CSS Generator](https://3d-book-css.netlify.app/) ([Code](https://github.com/scastiel/3d-book-image-css-generator))
 - [StoryGraph](https://thestorygraph.com/index.html) - Help you to surface the best books that fit your current mood.
 - [Great book covers](https://twitter.com/simonsarris/status/1294317092393582600)
+- [Gatsby Starter Book](https://github.com/SaraVieira/gatsby-starter-book) - Gatsby starter focused on simplicity to help you create books.

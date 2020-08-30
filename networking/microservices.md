@@ -3,6 +3,7 @@
 ## Notes
 
 - [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)
+- [The single most effective thing you can do to improve the reliability, performance, and coherence of a distributed system is to minimize the required coördination and communication between nodes](https://twitter.com/peterbourgon/status/1300092429018820616)
 
 ## Links
 

@@ -412,6 +412,7 @@
 - [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 - [Swift Service Lifecycle](https://github.com/swift-server/swift-service-lifecycle) - Cleanly startup and shutdown server application, freeing resources in order before exiting. ([Article](https://swift.org/blog/swift-service-lifecycle/)) ([HN](https://news.ycombinator.com/item?id=23856229))
 - [Prephirences](https://github.com/phimage/Prephirences) - Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
+- [SoulverCore](https://github.com/soulverteam/SoulverCore) - Powerful Swift framework for evaluating mathematical expressions.
 
 ## Other (not lib)
 
