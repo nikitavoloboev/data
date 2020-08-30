@@ -92,6 +92,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Datafold](https://www.datafold.com/) - Diff Tool for SQL Databases. ([HN](https://news.ycombinator.com/item?id=24071955))
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
 - [Headway](https://headwayapp.co/) - Keep customers in the loop about your product with changelogs.
+- [Fungarzione](https://fungarzione.com/) - Changelog Of The Future.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Amie](https://amie.so/) - Joyful productivity app.

@@ -10,7 +10,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 
 ## Links
 
-- [Longevity FAQ](https://www.ldeming.com/longevityfaq/) - A beginner's guide to longevity research.
+- [Longevity FAQ](https://www.ldeming.com/longevityfaq/) - A beginner's guide to longevity research. ([HN](https://news.ycombinator.com/item?id=24320846))
 - [Aesthetic anti-aging](https://www.reddit.com/r/longevity/comments/8q950u/aesthetic_antiaging/)
 - [Is there actually anything out on the market that is worth taking to extend your life, as of now?](https://www.reddit.com/r/longevity/comments/8e3eov/is_there_actually_anything_out_on_the_market_that/)
 - ["Future of Healthy Longevity" by Elizabeth Parrish (2018)](https://www.youtube.com/watch?v=92YyfMPqKVE)
