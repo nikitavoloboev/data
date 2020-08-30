@@ -123,4 +123,4 @@
 - [The easiest way (I've found) to create your own Nix channel (2020)](https://lucperkins.dev/blog/nix-channel/)
 - [Nix Monorepo](https://github.com/lucperkins/nix-monorepo) - How you might use Nix in a larger, multi-language project.
 - [A Tutorial Introduction to Nix (2020)](https://rgoswami.me/posts/ccon-tut-nix/)
-- [nixbuild.net](https://nixbuild.net/) - Cloud service that runs your Nix builds. It takes away the effort of maintaining and scaling build clusters, and integrates easily with any setup that uses Nix. ([Docs](https://docs.nixbuild.net/))
+- [nixbuild.net](https://nixbuild.net/) - Cloud service that runs your Nix builds. It takes away the effort of maintaining and scaling build clusters, and integrates easily with any setup that uses Nix. ([Docs](https://docs.nixbuild.net/)) ([Tweet](https://twitter.com/utdemir/status/1299850167546380288))

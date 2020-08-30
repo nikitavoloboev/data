@@ -48,3 +48,4 @@
 - [Thoughts on using references when hiring](https://twitter.com/nlevin/status/1265319461969489920)
 - [Hiring a distributed team - Inside PSPDFKit (2016)](https://pspdfkit.com/blog/2016/hiring-a-distributed-team/)
 - [Code katas for selecting technical talent (2020)](https://nelis.boucke.be/post/code-katas-for-hiring/)
+- [How to spot top talent](https://twitter.com/gregisenberg/status/1300105523111624713)
