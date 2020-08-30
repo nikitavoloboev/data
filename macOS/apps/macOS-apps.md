@@ -29,7 +29,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Tinkle](https://github.com/pqrs-org/Tinkle/) - Appends a visual effect for the focused window changes.
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS.
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards on macOS.
-- [Vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
+- [Vimac](https://github.com/dexterleng/vimac/) - Vimium for macOS. ([Web](https://vimacapp.com/)) ([HN](https://news.ycombinator.com/item?id=24323378))
 - [LinkLiar](https://github.com/halo/LinkLiar) - Link-Layer MAC spoofing GUI for macOS.
 - [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 - [Blurred](https://github.com/dwarvesf/Blurred) - macOS utility that helps reduce distraction by dimming your inactive noise.
