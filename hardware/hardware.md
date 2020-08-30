@@ -83,3 +83,4 @@
 - [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.
 - [Home Lab Beginners guide (2020)](https://haydenjames.io/home-lab-beginners-guide-hardware/) ([HN](https://haydenjames.io/home-lab-beginners-guide-hardware/))
 - [Low-level details of the Zen 2 microarchitecture (2020)](https://www.agner.org/optimize/microarchitecture.pdf)
+- [Instructables](https://www.instructables.com/) - Community for people who like to make things.

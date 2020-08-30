@@ -59,3 +59,4 @@ Success comes from not giving up and doing what you love.
 - [Blueprint I've followed to build my own business/income in ~4 years (2020)](https://twitter.com/jdnoc/status/1291773397010087938)
 - [Advice on making a living as an independent maker (2020)](https://twitter.com/adamwathan/status/1296447318074568704)
 - [Vector theory of impact](https://twitter.com/sama/status/1297912739206242306)
+- [Some guiding principles for a good life (2020)](https://twitter.com/Kpaxs/status/1300016373482106882)
