@@ -34,3 +34,4 @@
 - [Khan Academy knowledge map editor tool](https://github.com/beneater/kmap-editor)
 - [Amazon’s open-source tools make embedding knowledge graphs much more efficient (2020)](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
 - [An Introduction to Natural Language Processing with Python for SEOs (2020)](https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/)
+- [Deep Learning for Knowledge Graph Embeddings (2020)](https://cxlabs.sap.com/2020/08/31/deep-learning-for-knowledge-graph-embeddings/)

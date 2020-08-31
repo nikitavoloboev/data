@@ -109,3 +109,4 @@
 - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) ([Lobsters](https://lobste.rs/s/4xcla1/handles_are_better_pointers)) ([HN](https://news.ycombinator.com/item?id=24141541))
 - [Templight](https://github.com/mikael-s-persson/templight) - Template Instantiation Profiler and Debugger.
 - [6 Things You Can Do to Refactor a C++ Project (2020)](https://www.bfilipek.com/2020/08/6things-refactor.html)
+- [C++ Pattern Matching](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1371r2.pdf)
