@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Group theory and why I love the monster group (2020)](https://www.youtube.com/watch?v=mH0oCDa74tE)
 - [Monster Group (John Conway) | Numberphile](https://www.youtube.com/watch?v=jsSeoGpiWsw) ([Reddit](https://www.reddit.com/r/math/comments/254q8a/monster_group_numberphile/))
 - [Monster Group - John Conway](https://www.youtube.com/watch?v=lbN8EMcOH5o)
 - [Monster Group (a little extra bit)](https://www.youtube.com/watch?v=MXKiih4JJvQ)

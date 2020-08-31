@@ -29,3 +29,4 @@
 - [gRPC over WebRTC](https://github.com/jsmouret/grpc-over-webrtc) ([HN](https://news.ycombinator.com/item?id=23572660))
 - [A Study of WebRTC Security](https://webrtc-security.github.io/) ([Code](https://github.com/webrtc-security/webrtc-security.github.io))
 - [RecordRTC](https://recordrtc.org/) - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording. ([HN](https://news.ycombinator.com/item?id=23869752))
+- [WebRTC for the Curious](https://webrtcforthecurious.com/) ([HN](https://news.ycombinator.com/item?id=24323589)) ([Lobsters](https://lobste.rs/s/gxzwnx/webrtc_for_curious)) ([Code](https://github.com/webrtc-for-the-curious/webrtc-for-the-curious))
