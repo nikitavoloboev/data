@@ -199,3 +199,4 @@
   )
 - [Database backup strategies (2019)](https://blog.kalbhor.xyz/post/database-backup-strategies/)
 - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf) ([HN](https://news.ycombinator.com/item?id=24303422)) ([Notes](https://twitter.com/copyconstruct/status/1299949569057333249))
+- [The database I wish I had (2020)](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)

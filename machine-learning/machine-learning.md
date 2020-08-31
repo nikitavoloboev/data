@@ -283,3 +283,4 @@
 - [Books for Machine Learning, Deep Learning, and related topics](https://github.com/loveunk/Deep-learning-books)
 - [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/iezafd/r_graph_representation_learning_book_by_will/))
 - [Effective testing for machine learning systems (2020)](https://www.jeremyjordan.me/testing-ml/) ([HN](https://news.ycombinator.com/item?id=24332202))
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) ([HN](https://news.ycombinator.com/item?id=24332303))
