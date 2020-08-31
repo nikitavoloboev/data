@@ -69,3 +69,4 @@
 - [masterWiki](https://masterwiki.how/) - MasterClass course summaries.
 - [The shape of learning](https://twitter.com/azlenelza/status/1294344958992777216) - Playing with visualizing different ways of structuring classes/learning groups.
 - [A Guide to Autodidactism (2020)](https://www.jackkinsella.ie/articles/autodidactism)
+- [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) - Library with links to resources about various topics.

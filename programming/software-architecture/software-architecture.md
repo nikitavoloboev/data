@@ -79,3 +79,4 @@
 - [The System Design Manual](https://systemdesignmanual.com/) - Learn how to design, build and operate large scale distributed systems.
 - [Organizing architectural katas (2020)](https://nelis.boucke.be/post/architectural-katas/)
 - [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html) - Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work. ([Code](https://github.com/nocomplexity/ArchitecturePlaybook))
+- [Multi-tenant Architectures (2020)](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html) ([HN](https://news.ycombinator.com/item?id=24324142))

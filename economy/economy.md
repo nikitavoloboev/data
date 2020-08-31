@@ -50,3 +50,4 @@
 - [Basic Economics - Thomas Sowell (2003)](https://www.goodreads.com/book/show/3023.Basic_Economics)
 - [What harm do minimum wages do? (2020)](https://www.economist.com/schools-brief/2020/08/15/what-harm-do-minimum-wages-do) ([HN](https://news.ycombinator.com/item?id=24213325))
 - [Matt Levine Writing](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine)
+- [Banks create money, but it's less impressive than it sounds (2020)](https://www.attejuvonen.fi/money-out-of-thin-air/) ([HN](https://news.ycombinator.com/item?id=24326224))

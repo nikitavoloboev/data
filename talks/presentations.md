@@ -30,3 +30,4 @@
 - [Turndown](https://github.com/domchristie/turndown) - Convert HTML into Markdown with JavaScript. ([Web](http://domchristie.github.io/turndown/))
 - [Keynote](https://www.apple.com/keynote/)
 - [Google Slides](https://www.google.com/slides/about/)
+- [present](https://github.com/vinayak-mehta/present) - Terminal-based presentation tool with colors and effects. ([HN](https://news.ycombinator.com/item?id=24324099))

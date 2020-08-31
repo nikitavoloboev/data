@@ -74,3 +74,4 @@ All active variables can be seen by running `env`.
 - [Overmind](https://github.com/DarthSim/overmind) - Process manager for Procfile-based applications and tmux.
 - [Tunshell](https://github.com/TimeToogo/tunshell) - Remote shell into ephemeral environments behind NAT/firewall. ([HN](https://news.ycombinator.com/item?id=24186410)) ([Web](https://tunshell.com/))
 - [A Better Shell (2019)](https://matklad.github.io/2019/11/16/a-better-shell.html)
+- [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/) ([HN](https://news.ycombinator.com/item?id=24314600))

@@ -68,3 +68,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Manual Photographers Series](https://phillipreeve.net/blog/photography/)
 - [Whats the best photography related advice you have or heard from someone? (2020)](https://www.reddit.com/r/photography/comments/hsufjj/whats_the_best_photography_related_advice_you/)
 - [ReidReviews](https://www.reidreviews.com/)
+- [The surreal art of ‘unnatural lighting’ (2020)](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)

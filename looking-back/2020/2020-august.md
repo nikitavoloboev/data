@@ -116,3 +116,11 @@ I do wonder if Buttondown will support mdx though. Google returns nothing, will 
 ## 30
 
 [Lovecroft](https://github.com/thesephist/lovecroft) is another nice newsletter solution. 🤔
+
+## 31
+
+[Sublime Merge](https://www.sublimemerge.com) is so good ❤️
+
+I need to learn Git more deeply. I feel like it has so many awesome features I don't use. This applies to pretty much every tool I use but still 🙃
+
+As example [git-absorb](https://github.com/tummychow/git-absorb). Looks nice but I don't even know what `git commit --fixup` does. Never used it.

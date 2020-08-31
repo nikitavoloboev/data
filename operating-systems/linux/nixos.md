@@ -78,3 +78,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [adhoc executable patching on nixos (2020)](https://notes.neeasade.net/adhoc-executable-patching-on-nix.html)
 - [Nix Flakes: Managing NixOS systems (2020)](https://www.tweag.io/blog/2020-07-31-nixos-flakes/)
 - [NixOS Channels (2020)](https://nixos.online/posts/NixOS_channels/)
+- [Building and Importing NixOS AMIs on EC2 (2020)](http://jackkelly.name/blog/archives/2020/08/30/building_and_importing_nixos_amis_on_ec2/)

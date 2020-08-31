@@ -31,4 +31,4 @@
 - [conwayste](https://github.com/conwayste/conwayste) - Multiplayer Conway's Game of Life.
 - [Cellular automata as convolutional neural networks (2020)](https://arxiv.org/abs/1809.02942) ([HN](https://news.ycombinator.com/item?id=24130849))
 - [What is that scarf? (2019)](https://csvoss.com/cellular-automaton-scarf)
-- [The Recursive Universe (2020)](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/) ([HN](https://news.ycombinator.com/item?id=24323011))
+- [The Recursive Universe (2020)](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/) ([HN](https://news.ycombinator.com/item?id=24323011)) ([Lobsters](https://lobste.rs/s/kvujjm/recursive_universe))

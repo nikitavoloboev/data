@@ -360,6 +360,7 @@ Here are few more things I liked, design wise.
 - [Maddie](http://maddie.io/) - Clean.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.
 - [Ines](https://ines.io/about)
+- [Atte Juvonen](https://www.attejuvonen.fi/) ([Code](https://github.com/baobabKoodaa/blog/))
 - [James Mulholland](https://jmulholland.com/) ([Code](https://github.com/mulholio/jmulholland-dot-com))
 - [Nadia Eghbal](https://nadiaeghbal.com/)
 - [Victor Laerte](http://www.victorlaerte.com/)
@@ -421,6 +422,7 @@ Here are few more things I liked, design wise.
 - [Fuzzy Notepad](https://eev.ee/blog/)
 - [npf by Nate Finch](https://npf.io/)
 - [Tom Bonnike](https://tom-bonnike.com/)
+- [Max Bernstein](https://bernsteinbear.com/) ([Code](https://github.com/tekknolagi/tekknolagi.github.com))
 - [Alexey Sekachov](https://work.asekachov.com/) - Clean.
 - [Aaron Covrett](http://aaroncovrett.com/play/)
 - [Ayaka B. Ito](http://ayakaito.com/)

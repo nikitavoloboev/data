@@ -6,6 +6,7 @@ Below is a list of extensions I use.
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 
 ## Go
 
@@ -130,7 +131,6 @@ Below is a list of extensions I use.
 ## JS/TS
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
-- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 - [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
 - [ast-query](https://marketplace.visualstudio.com/items?itemName=nikaspran.ast-query) - Search and highlight JavaScript and TypeScript via Abstract Syntax Tree queries. ([Code](https://github.com/nikaspran/vscode-ast-query))
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).

@@ -234,3 +234,4 @@
 - [On Parallel Programming (2020)](https://penberg.org/blog/parallel.html)
 - [You've only added two lines - why did that take two days! (2020)](https://www.mrlacey.com/2020/07/youve-only-added-two-lines-why-did-that.html)
 - [Ask HN: How to do cross platform GUI? (2020)](https://news.ycombinator.com/item?id=24242412)
+- [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code) ([HN](https://news.ycombinator.com/item?id=24325974))
