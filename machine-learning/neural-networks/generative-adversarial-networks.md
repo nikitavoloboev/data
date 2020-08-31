@@ -32,3 +32,4 @@
 - [Using machine learning to recreate photorealistic portraits of Roman Emperors](https://voshart.com/ROMAN-EMPEROR-PROJECT) ([HN](https://news.ycombinator.com/item?id=24172603))
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2) - Improved version of AnimeGAN.
 - [TecoGAN](https://github.com/thunil/TecoGAN) - TEmporally COherent GAN for video super-resolution. ([Video](https://www.youtube.com/watch?v=MwCgvYtOLS0))
+- [Playing a game of GANstruction (2020)](https://thegradient.pub/playing-a-game-of-ganstruction/)
