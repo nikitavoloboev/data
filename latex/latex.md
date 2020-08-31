@@ -45,3 +45,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX Typesetting](https://fedoramagazine.org/latex-typesetting-part-1/) ([Lobsters](https://lobste.rs/s/kf9e9m/latex_typesetting_part_1))
 - [Papers](https://github.com/store2be/pape-rs) - LaTeX template to PDF generation web service written in Rust.
 - [Collection of LaTeX templates used for research, courses](https://github.com/dustinvtran/latex-templates)
+- [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.

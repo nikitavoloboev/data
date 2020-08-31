@@ -59,3 +59,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Ten Lessons I Wish I Had Been Taught (1997)](https://www.ams.org/notices/199701/comm-rota.pdf) ([HN](https://news.ycombinator.com/item?id=23722803))
 - [Relevance of researchers in a compute driven world (2020)](https://www.reddit.com/r/MachineLearning/comments/iezgsc/d_relevance_of_researchers_in_a_compute_driven/) ([Tweet](https://twitter.com/hardmaru/status/1298114780763316227))
 - [Scientists who never won a Nobel Prize (2019)](https://www.wondersofphysics.com/2019/01/scientists-who-never-won.html) ([HN](https://news.ycombinator.com/item?id=24283018))
+- [List of years in science](https://en.wikipedia.org/wiki/List_of_years_in_science) - Events related to science or technology which occurred in the listed year.

@@ -72,3 +72,4 @@
 - [Low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/) ([HN](https://news.ycombinator.com/item?id=23725921))
 - [Cryptography is not Magic (2020)](http://loup-vaillant.fr/articles/crypto-is-not-magic) ([Lobsters](https://lobste.rs/s/huvle5/cryptography_is_not_magic))
 - [Cryptography Dispatches: Registries Considered Harmful (2020)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/) ([Lobsters](https://lobste.rs/s/4eku7g/cryptography_dispatches_registries))
+- [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) ([HN](https://news.ycombinator.com/item?id=24310842))

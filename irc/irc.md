@@ -36,3 +36,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Convos](https://convos.chat/) - Simplest way to use IRC in your browser. ([Code](https://github.com/Nordaaker/convos))
 - [Modern IRC Client Protocol](https://modern.ircdocs.horse/) ([Code](https://github.com/ircdocs/modern-irc))
 - [Quassel IRC](https://github.com/quassel/quassel) - Modern, cross-platform, distributed IRC client. ([Web](https://quassel-irc.org/))
+- [Why IRC is Still Good (2020)](https://www.paritybit.ca/blog/why-irc-is-still-good) ([Lobsters](https://lobste.rs/s/rzesjq/why_irc_is_still_good_current_year))

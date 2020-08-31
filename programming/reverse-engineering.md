@@ -49,3 +49,4 @@
 - [A reverse engineering challenge: an intricate visual pattern in 39 bytes](https://yurichev.com/news/20200731_visual_RE_challenge/) ([Lobsters](https://lobste.rs/s/nisyhu/reverse_engineering_challenge))
 - [Hiding messages in x86 binaries using semantic duals (2020)](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals) ([Lobsters](https://lobste.rs/s/pd6xcy/hiding_messages_x86_binaries_using))
 - [Reverse Engineering GTA V's Stunt Jump System (2020)](https://hackery.site/writing/gta-v-stunt-jumps/)
+- [ARM Exploitation Book](https://arm-exploitation.com/)

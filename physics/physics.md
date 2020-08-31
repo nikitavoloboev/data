@@ -121,3 +121,4 @@
 - [A Candidate Geometrical Formalism for the Foundations of Mathematics and Physics (2020)](https://www.wolframphysics.org/bulletins/2020/08/a-candidate-geometrical-formalism-for-the-foundations-of-mathematics-and-physics/)
 - [Mathematics for Physics](https://www.mathphysicsbook.com/) - Illustrated Handbook.
 - [Elements of Physics](https://elements-of-physics.surge.sh/) - Interactive simulation which describes different elements of physics like Gravity, Acceleration and Force.
+- [Do we really travel through time with the speed of light? (2020)](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html) ([HN](https://news.ycombinator.com/item?id=24328617))

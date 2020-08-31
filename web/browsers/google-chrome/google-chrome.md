@@ -26,3 +26,4 @@ And here are Chrome extensions I use:
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
 - [Mighty](https://mightyapp.com/) - Faster Google Chrome that uses 10x less memory.
 - [Tab Organizer Chrome Extension](https://github.com/Pauan/tab-organizer)
+- [25 Google Chrome Flags You Should Use](https://beebom.com/google-chrome-flags/) ([Tweet](https://twitter.com/koehrsen_will/status/1300197822315278338))

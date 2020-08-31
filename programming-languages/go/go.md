@@ -33,6 +33,7 @@ Go promotes composition over inheritance.
 - [How to edit Go packages locally](https://twitter.com/zekjur/status/1226487216937086976)
 - [The main sell point of Go is not simplicity, but overall balance and flexibility](https://news.ycombinator.com/item?id=21744910)
 - [Better make copies of a struct than passing pointers to it.](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
+- [I have grown to strongly dislike passing options by variable argument in Go ("...Option"). It makes a terrible mess of package documentation. Much easier to find and understand fields in an Options or Config struct.](https://twitter.com/davidcrawshaw/status/1300094723340865537)
 
 ## Links
 
@@ -333,3 +334,4 @@ Go promotes composition over inheritance.
 - [Fundamentals of Go](https://github.com/bitfield/ftl-fundamentals)
 - [gore](https://github.com/motemen/gore) - Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [Testing Database Transactions in Go (2020)](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM) ([HN](https://news.ycombinator.com/item?id=24303322))
+- [An interesting mistake with Go's context package (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake) ([HN](https://news.ycombinator.com/item?id=24323564))

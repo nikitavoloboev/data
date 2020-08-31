@@ -17,3 +17,4 @@
 - [Flutter Engine](https://github.com/flutter/engine)
 - [Flutter Code](https://github.com/flutter/flutter)
 - [Widget Studio](https://widget.studio/#/) - Drag and Drop Flutter Widget Creator.
+- [Flutter Course Resources](https://github.com/londonappbrewery/Flutter-Course-Resources)

@@ -21,3 +21,4 @@
 - [Resources to learn smalltalk? (2020)](https://www.reddit.com/r/smalltalk/comments/frxp1f/resources_to_learn_smalltalk/)
 - [Crosstalk](https://github.com/michaelengel/crosstalk) - Bare metal Smalltalk-80 port to the Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=23874206))
 - [TruffleSqueak](https://github.com/hpi-swa/trufflesqueak) - Squeak/Smalltalk VM and Polyglot Programming Environment for the GraalVM.
+- [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1) ([HN](https://news.ycombinator.com/item?id=24329485))

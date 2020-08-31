@@ -72,3 +72,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Create Eth App](https://github.com/PaulRBerg/create-eth-app)
 - [Buidler](https://buidler.dev/) - Task runner for Ethereum smart contract developers. ([Code](https://github.com/nomiclabs/buidler))
 - [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm) - Ethereum VM implemented in JavaScript.
+- [SushiSwap](https://app.sushiswap.org/) - Stake Uniswap LP tokens.

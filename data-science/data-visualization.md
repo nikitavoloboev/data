@@ -51,3 +51,4 @@
 - [Data-Visualization Books Everyone Should Read](https://informationisbeautiful.net/visualizations/dataviz-books/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [e-sum](https://anvaka.github.io/e-sum/) - Visualization of exponential sums. ([Code](https://github.com/anvaka/e-sum))
+- [Matplot++](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization.

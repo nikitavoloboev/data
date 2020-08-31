@@ -165,3 +165,4 @@
 - [How to cheat at unit tests with pytest and Black (2020)](https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/)
 - [Never Run ‘python’ In Your Downloads Folder (2020)](https://glyph.twistedmatrix.com/2020/08/never-run-python-in-your-downloads-folder.html) ([HN](https://news.ycombinator.com/item?id=24250418)) ([Reddit](https://www.reddit.com/r/Python/comments/ifkt6k/never_run_python_in_your_downloads_folder/))
 - [Awesome Scientific Python](https://github.com/rossant/awesome-scientific-python)
+- [Learn Python 3 with Jupyter notebooks](https://github.com/jerry-git/learn-python3)
