@@ -6,11 +6,15 @@ Below is a list of extensions I use.
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
-- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language. ([Code](https://github.com/golang/vscode-go))
+
+## JS
+
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
+- [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - Tightly integrate with the GraphQL Ecosystem. ([Code](https://github.com/prisma-labs/vscode-graphql))
 
 ## Python
 

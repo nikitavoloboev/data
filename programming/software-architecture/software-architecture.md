@@ -59,7 +59,7 @@
 - [Ask HN: I've been promoted to Architect. What do I need to learn/do to excel? (2020)](https://news.ycombinator.com/item?id=23152092)
 - [Drawing good architecture diagrams (2020)](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams)
 - [Hints and Principles for Computer System Design (2019)](https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/)
-- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) ([HN](https://news.ycombinator.com/item?id=24332485))
 - [What your developers are using: the application stack](https://technically.dev/posts/what-your-developers-are-using.html)
 - [Ladders and Tar Pits](https://yak.sh/ladders/) - Using concepts from the papers “Out of the Tar Pit” and “Ladder of Abstraction”, we’ll examine what it means to build robust abstractions.
 - [3factor app](https://3factor.app/) - Architecture pattern for modern full stack apps. ([Code](https://github.com/hasura/3factor))

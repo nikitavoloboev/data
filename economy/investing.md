@@ -98,3 +98,4 @@
 - [Announcing Initialized Fund V (2020)](https://medium.com/initialized-capital/announcing-initialized-fund-v-ab34becf68c9)
 - [Advice on investing in fintech companies (2020)](https://twitter.com/arfrank/status/1297997387475099654)
 - [What is the best investing tip for beginner investors you wish you knew when you started? (2020)](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- [The Truth About "Trading Gurus" From a Hedge Fund Manager (2020)](https://www.youtube.com/watch?v=JfP4rVsmL_Q) ([Tweet](https://twitter.com/ossia/status/1300473889663995904))
