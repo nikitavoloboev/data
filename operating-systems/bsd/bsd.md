@@ -26,3 +26,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [BSDCan 2020](https://www.youtube.com/playlist?list=PLeF8ZihVdpFedccMdpBtBxniM3Lm-fVpT)
 - [An Introduction to OpenBSD (2020)](https://blog.lambda.cx/posts/openbsd-introduction-talk/) ([Lobsters](https://lobste.rs/s/ulk8bi/introduction_openbsd)) ([HN](https://news.ycombinator.com/item?id=24185985))
 - [A reimplementation of NetBSD based on a microkernel - Andy Tanenbaum (2019)](https://www.youtube.com/watch?v=jMkR9VF2GNY) ([Lobsters](https://lobste.rs/s/hn0jp5/reimplementation_netbsd_based_on))
+- [Modernizing the OpenBSD console (2020)](https://www.cambus.net/modernizing-the-openbsd-console/)

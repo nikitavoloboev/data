@@ -199,4 +199,6 @@
   )
 - [Database backup strategies (2019)](https://blog.kalbhor.xyz/post/database-backup-strategies/)
 - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf) ([HN](https://news.ycombinator.com/item?id=24303422)) ([Notes](https://twitter.com/copyconstruct/status/1299949569057333249))
-- [The database I wish I had (2020)](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html) ([HN](https://news.ycombinator.com/item?id=24337244))
+- [The database I wish I had (2020)](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html) ([HN](https://news.ycombinator.com/item?id=24337244)) ([Lobsters](https://lobste.rs/s/m9vkg4/database_i_wish_i_had))
+- [Advanced Database Systems course by Andy Pavlo (2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+- [sled simulation guide](https://sled.rs/simulation) - Contains basic information about deterministic testing of distributed, message-based, event-driven, or actor systems.
