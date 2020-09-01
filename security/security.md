@@ -85,3 +85,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [I'm Open Sourcing the Have I Been Pwned Code Base (2020)](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/) ([HN](https://news.ycombinator.com/item?id=24079682))
 - [Security Research from the Microsoft Security Response Center](https://github.com/microsoft/MSRC-Security-Research)
 - [Researchers can duplicate keys from the sounds they make in locks (2020)](https://kottke.org/20/08/researchers-can-duplicate-keys-from-the-sounds-they-make-in-locks) ([HN](https://news.ycombinator.com/item?id=24205833))
+- [DEF CON](https://defcon.org/) - Hacking Conference.

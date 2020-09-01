@@ -302,3 +302,4 @@
 - [HN: Rust 1.46 (2020)](https://news.ycombinator.com/item?id=24294960) ([Lobsters](https://lobste.rs/s/oet5t1/announcing_rust_1_46_0))
 - [Acheiving warp speed with Rust (2017)](http://troubles.md/rust-optimization/)
 - [Inviting God's Wrath with Cursed Rust (2020)](http://troubles.md/abusing-rustc/)
+- [Supporting Linux kernel development in Rust (2020)](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/) ([HN](https://news.ycombinator.com/item?id=24334731))

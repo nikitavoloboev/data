@@ -32,3 +32,4 @@
 - [Cellular automata as convolutional neural networks (2020)](https://arxiv.org/abs/1809.02942) ([HN](https://news.ycombinator.com/item?id=24130849))
 - [What is that scarf? (2019)](https://csvoss.com/cellular-automaton-scarf)
 - [The Recursive Universe (2020)](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/) ([HN](https://news.ycombinator.com/item?id=24323011)) ([Lobsters](https://lobste.rs/s/kvujjm/recursive_universe))
+- [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) ([Lobsters](https://lobste.rs/s/lcgb1l/build_working_game_tetris_conway_s_game))

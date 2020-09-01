@@ -42,3 +42,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Cron Helper](https://cron.help/) - Cron syntax for us humans.
 - [File handling in Unix: tips, traps and outright badness (2020)](https://rachelbythebay.com/w/2020/08/11/files/) ([HN](https://news.ycombinator.com/item?id=24129113))
 - [History of UNIX Design and Interfaces](https://github.com/penberg/unix-history)
+- [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/) ([Lobsters](https://lobste.rs/s/zyt4hk/cs631_advanced_programming_unix))

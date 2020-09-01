@@ -8,6 +8,7 @@
 - [HTTPX](https://github.com/encode/httpx) - Next generation HTTP client for Python.
 - [baseplate.py](https://github.com/reddit/baseplate.py) - Reddit's python service framework. ([Docs](https://baseplate.readthedocs.io/en/stable/))
 - [Nameko](https://github.com/nameko/nameko) - Microservices framework for Python that lets service developers concentrate on application logic and encourages testability.
+- [Kore](https://kore.io/) - Easy to use web platform for C and Python.
 
 ## ML
 
