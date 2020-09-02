@@ -69,3 +69,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Whats the best photography related advice you have or heard from someone? (2020)](https://www.reddit.com/r/photography/comments/hsufjj/whats_the_best_photography_related_advice_you/)
 - [ReidReviews](https://www.reidreviews.com/)
 - [The surreal art of ‘unnatural lighting’ (2020)](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
+- [Thoughts on cameras in the age of excellent cell phone photos (2020)](https://whatever.scalzi.com/2020/05/05/thoughts-on-cameras-in-the-age-of-excellent-cell-phone-photos/) ([HN](https://news.ycombinator.com/item?id=23389437))

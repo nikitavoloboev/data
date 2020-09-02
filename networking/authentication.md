@@ -67,3 +67,4 @@
 - [Galileo's Proposed Authentication Algorithm (2020)](https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/)
 - [Let's build the GitHub authorization model (2020)](https://www.osohq.com/post/building-the-github-authorization-model-using-oso)
 - [oso](https://www.osohq.com/) - Authorization for Developers.
+- [Why I Actively Discourage Online Tooling like `jwt.io` and Online JSON Validators (2020)](https://www.jvt.me/posts/2020/09/01/against-online-tooling/) ([Lobsters](https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling))
