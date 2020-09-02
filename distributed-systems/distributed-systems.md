@@ -103,3 +103,4 @@
 - [Verifying Strong Eventual Consistency in Distributed Systems (2017)](https://arxiv.org/pdf/1707.01747.pdf)
 - [Patterns of Distributed Systems (2020)](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 - [Keeping CALM: When Distributed Consistency Is Easy (2020)](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
+- [Distributed Systems Notes](https://github.com/Qwe1rty/distributed_systems_notes)

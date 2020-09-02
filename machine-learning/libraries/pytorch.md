@@ -128,3 +128,4 @@
 - [MiniTorch](https://minitorch.github.io/) - Teaching library for machine learning engineers who wish to learn about the internal concepts underlying deep learning systems.
 - [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA (2020)](https://www.youtube.com/watch?v=9mS1fIYj1So) ([Summary](https://twitter.com/karpathy/status/1299921324333170689))
 - [Opacus](https://github.com/pytorch/opacus) - Training PyTorch models with differential privacy.
+- [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://github.com/cleardusk/3DDFA_V2)
