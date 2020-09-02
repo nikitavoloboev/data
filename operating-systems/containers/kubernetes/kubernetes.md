@@ -216,3 +216,4 @@
 - [How to Create Ephemeral Environments using Crossplane and ArgoCD? (2020)](https://www.infracloud.io/blogs/how-to-create-ephemeral-environments-using-crossplane-and-argocd/)
 - [Gitpod](https://github.com/gitpod-io/gitpod) - Open-source Kubernetes application providing fully-baked, collaborative development environments in your browser - powered by VS Code. ([Article](https://www.gitpod.io/blog/opensource/))
 - [HyScale](https://github.com/hyscale/hyscale) - Abstraction framework over Kubernetes. ([HN](https://news.ycombinator.com/item?id=24270669))
+- [Kubernetes: Make your services faster by removing CPU limits (2020)](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) ([HN](https://news.ycombinator.com/item?id=24351566))

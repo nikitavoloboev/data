@@ -80,7 +80,7 @@
 - [SAFARI Research Group](https://safari.ethz.ch/) - Part of the Institute for High Performance Computing Systems in the Department of Computer Science at ETH Zurich.
 - [Mantis: Reactive Programmable Switches](http://vincen.tl/files/mantis-sigcomm20.pdf)
 - [Computer Architecture Takeaways (2020)](https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html)
-- [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology.
+- [XLS: Accelerated HW Synthesis](https://github.com/google/xls) - - Aims to enable the rapid development of hardware IP that also runs as efficient host software via "software style" methodology. ([Docs](https://google.github.io/xls/))
 - [Home Lab Beginners guide (2020)](https://haydenjames.io/home-lab-beginners-guide-hardware/) ([HN](https://haydenjames.io/home-lab-beginners-guide-hardware/))
 - [Low-level details of the Zen 2 microarchitecture (2020)](https://www.agner.org/optimize/microarchitecture.pdf)
 - [Instructables](https://www.instructables.com/) - Community for people who like to make things.

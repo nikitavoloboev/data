@@ -9,3 +9,11 @@ Wrote a [script](https://twitter.com/nikitavoloboev/status/1300497250800500736) 
 I've also been enjoying using Safari for everything (not just web browsing). Previously I used Chrome for web dev but now I realize that Chrome does have some nice features in its dev tools but more often Safari feels faster and the dev tools it has do what I need already. Look cleaner too.
 
 Another thing that's nice to see is more people [getting into Karabiner](https://dev.to/swyx/notes-on-karabiner-elements-from-john-lindquist-4cmo). I actually raided the stream and found out about Karabiner's ability to map keys based off how many fingers lie on the trackpad. In the end though this workflow isn't for me as I don't see much usefulness in it as it requires you to type a key anyway so just use layers. It's neat still.
+
+## 2
+
+There should be more services like [Buttondown](https://buttondown.email). Solve a problem well and that's it (counter example [Dropbox](https://tonsky.me/blog/syncthing/)). And be [transparent about it](https://www.notion.so/Running-Costs-f29729ded5494272947f656440967cbf). It's run by a [single person](https://buttondown.email/features/run-by-a-human) too.
+
+The breakdown of running costs is actually very useful to see. Would love to see cost breakdowns for more larger companies like Stripe. Gives more perspective on what scale means and how resources can be used efficiently.
+
+I extended [my workflow](../../sharing/my-workflow.md) further to add some detail to my preferred tools of working. There is some overlap with [rules](../../focusing/rules.md). Hope to get a more clear difference between the two. And for processes, I hope to build a dedicate service/app for it. As processes need to be actionable.

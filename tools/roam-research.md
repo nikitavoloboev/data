@@ -47,3 +47,4 @@
 - [RoamThemes](https://roamthemes.io/) - Style your Roam with Custom Themes.
 - [Effortless Output in Roam](https://www.effortlessoutput.com/)
 - [Roam private API](https://github.com/artpi/roam-research-private-api/) - Helper to automate your Roam Research adventures.
+- [Roam Research Forum](https://forum.roamresearch.com/latest)

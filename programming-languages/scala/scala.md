@@ -43,3 +43,4 @@
 - [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/))
 - [Signify Technology](https://www.signifytechnology.com/) - Award Winning Scala Recruitment.
 - [A Simple Soundness Proof for Dependent Object Types](https://arxiv.org/pdf/1706.03814.pdf)
+- [Things you need to know about JVM (that matter in Scala) (2020)](https://leanpub.com/jvm-scala-book)

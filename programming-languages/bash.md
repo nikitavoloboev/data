@@ -38,3 +38,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Help message for shell scripts (2020)](https://samizdat.dev/help-message-for-shell-scripts/) ([HN](https://news.ycombinator.com/item?id=23763166)) ([Lobsters](https://lobste.rs/s/5njqrb/help_message_for_shell_scripts))
 - [Supercharge Your Bash History (2020)](https://metaredux.com/posts/2020/07/07/supercharge-your-bash-history.html) ([Lobsters](https://lobste.rs/s/ruygyw/supercharge_your_bash_history))
 - [Import](https://import.pw/) - Simple and Fast Module System for Bash and Other Unix Shells. ([HN](https://news.ycombinator.com/item?id=23864909))
+- [Intelligent Bash (ibash)](https://rdmp.org/dmbcs/i-bash)

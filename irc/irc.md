@@ -1,12 +1,12 @@
 # [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
-I spend quite a lot of my time on [Freenode](https://freenode.net/) as it has so many useful channels and people that can help you.
+I spend some time on [Freenode](https://freenode.net/) as it has many useful channels and people that can help you.
 
-I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer to always keep me logged in to the servers as well as it keeping history logs when I am away.
+I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
 
-Here are the IRC channels I often frequent:
+Here are IRC channels I frequent:
 
-![](https://i.imgur.com/6STwHFX.png)
+![](https://i.imgur.com/rrI7FIp.png)
 
 ## IRC commands
 

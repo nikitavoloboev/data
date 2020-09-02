@@ -16,3 +16,4 @@
 - [Kafka-Pixy (gRPC/REST Proxy for Kafka)](https://github.com/mailgun/kafka-pixy)
 - [Mirroring from Apache Kafka to Azure Event Hub (2020)](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/)
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
+- [Redpanda](https://vectorized.io/) - Kafka replacement for mission critical systems.

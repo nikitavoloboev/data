@@ -7,3 +7,4 @@
 - [Homology](https://www.tungsteno.io/post/exp-homology/)
 - [Physics, Topology, Logic and Computation: A Rosetta Stone (2009)](http://math.ucr.edu/home/baez/rosetta.pdf)
 - [Sphere Eversion (2020)](https://rreusser.github.io/explorations/sphere-eversion/) ([HN](https://news.ycombinator.com/item?id=23722275))
+- [A round-up of topology-based papers at ICML 2020](https://bastian.rieck.me/blog/posts/2020/icml_topology_roundup/) ([HN](https://news.ycombinator.com/item?id=24350436))

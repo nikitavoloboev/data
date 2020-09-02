@@ -201,6 +201,7 @@
 - [Persisting as a solo founder (2020)](https://vishnu.tech/posts/persistence/) ([HN](https://news.ycombinator.com/item?id=24251403))
 - [How to Disrupt Network Effects. Making networks redundant is one way to (2020)](https://medium.com/breadcrumb/how-to-disrupt-network-effects-aeeb105c82b1)
 - [How to Create a Good Name for Your Business (2020)](https://toolbox.humandeluxe.com/good-business-name/)
+- [Trends.vc](https://join.trends.vc/#thanks) - Discover new markets and ideas. ([Join](https://join.trends.vc/))
 
 ## Images
 

@@ -42,3 +42,4 @@
 - [Top tips to expand your network (2020)](https://twitter.com/AlwaysBeHustlin/status/1297920300366073857)
 - [Make It Clear book](https://mitpress.mit.edu/books/make-it-clear) - Speak and Write to Persuade and Inform.
 - [What to talk about in 1:1s](https://wizardzines.com/comics/1-1s/)
+- [GitHub’s Feedback Culture (2020)](https://codingsans.com/blog/feedback-culture)

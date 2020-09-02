@@ -25,3 +25,4 @@
 - [Newsletters and New Media Economics (2020)](https://diff.substack.com/p/newsletters-and-new-media-economics)
 - [Mailing List Hackers](https://www.mailinglisthackers.com/) - Virtual community for mailing list and newsletter builders.
 - [10 Tweets about Newsletters, 3 words each](https://twitter.com/Kamphey/status/1285773961138036742)
+- [mailbadger](https://github.com/mailbadger/app) - Self hosted newsletter mail system written in go.

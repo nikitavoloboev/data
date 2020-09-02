@@ -68,3 +68,5 @@
 - [Clojurists Together](https://www.clojuriststogether.org/) - Funding critical Clojure open source software.
 - [(N)vim for Clojure development (2020)](https://tomekw.com/nvim-for-clojure-development/)
 - [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+- [Clojure Reddit](https://www.reddit.com/r/Clojure/) - Has nice resources in sidebar.
+- [Using Clojure in Command Line with Babashka (2020)](https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html)

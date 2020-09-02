@@ -94,3 +94,4 @@
 - [The Cartesian Product Algorithm (Type Inference) (1995)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.8177&rep=rep1&type=pdf)
 - [Martin Hofmann’s contributions to Type Theory: Groupoids and Univalence (2020)](http://www.cs.nott.ac.uk/~psztxa/martin-19.pdf)
 - [Demystifying Type Systems (2020)](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
+- [Incremental Type Migration Using Type Algebra (2020)](https://research.google/pubs/pub49386/)

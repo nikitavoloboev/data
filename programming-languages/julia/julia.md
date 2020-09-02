@@ -50,3 +50,4 @@
 - [Julia: Are there any performance tips that are not mentioned in the docs?](https://www.reddit.com/r/Julia/comments/i8kdg1/are_there_any_performance_tips_that_are_not/)
 - [Sum Types in Julia and Rust (2020)](https://andreaskroepelin.de/blog/sum_types/) ([HN](https://news.ycombinator.com/item?id=24328071))
 - [Analyzing sources of compiler latency in Julia: method invalidations (2020)](https://julialang.org/blog/2020/08/invalidations/)
+- [Introduction to computational thinking for real-world problems course (2020)](https://github.com/mitmath/18S191) ([Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ))

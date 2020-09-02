@@ -154,3 +154,4 @@
 - [Functional Programming in Swift (2020)](https://www.47deg.com/academy/2020-09-01-Functional-Programming-in-Swift-with-Bow-course/)
 - [Logging in Swift (2020)](https://steipete.com/posts/logging-in-swift/)
 - [Swiftly](https://swiftly.dev/) - Swift references for busy coders.
+- [The Swift Runtime: Heap Objects (2020)](https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/)

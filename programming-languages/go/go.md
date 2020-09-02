@@ -335,3 +335,4 @@ Go promotes composition over inheritance.
 - [gore](https://github.com/motemen/gore) - Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [Testing Database Transactions in Go (2020)](https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM) ([HN](https://news.ycombinator.com/item?id=24303322))
 - [An interesting mistake with Go's context package (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake) ([HN](https://news.ycombinator.com/item?id=24323564))
+- [Even in Go, concurrency is still not easy (with an example) (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy)
