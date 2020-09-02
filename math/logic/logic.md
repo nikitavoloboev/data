@@ -22,3 +22,4 @@
 - [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
 - [An Introduction to Godel's Theorems](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf) ([HN](https://news.ycombinator.com/item?id=24081858))
+- [Gödel Without Tears, slowly (2020)](https://www.logicmatters.net/2020/09/01/godel-without-tears-slowly-1/)

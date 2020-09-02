@@ -90,3 +90,5 @@
 - [Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [Game Programming Patterns: Event Queue](https://gameprogrammingpatterns.com/event-queue.html) ([HN](https://news.ycombinator.com/item?id=24233229))
 - [Storymapr](https://www.storymapr.com/) - Visually design game dialogues and quests.
+- [VALORANT's 128-Tick Servers (2020)](https://technology.riotgames.com/news/valorants-128-tick-servers) ([Lobsters](https://lobste.rs/s/ecpsqo/valorant_s_128_tick_servers))
+- [Overwatch Gameplay Architecture and Netcode (2019)](https://www.youtube.com/watch?v=W3aieHjyNvw)

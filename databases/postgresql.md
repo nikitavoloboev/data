@@ -132,3 +132,4 @@
 - [pg-jump](https://github.com/twooster/pg-jump) - Postgres jumphost with query audit-logging.
 - [WAL-E](https://github.com/wal-e/wal-e) - Continuous Archiving for Postgres.
 - [Postgres Tips And Tricks](https://pgdash.io/blog/postgres-tips-and-tricks.html)
+- [Bootstraping Postgres in your project (2020)](https://manzanit0.github.io/automation/2020/08/26/bootstraping-postgres-greenfield.html)

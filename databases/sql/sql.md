@@ -64,3 +64,4 @@
 - [Lateral Joins and Demand-Driven Queries (2020)](https://materialize.io/lateral-joins-and-demand-driven-queries/)
 - [SQL Templates](https://popsql.com/sql-templates)
 - [PopSQL](https://popsql.com/) - Collaborative SQL editor for teams.
+- [Nested SQL Queries](https://leontrolski.github.io/nested-sql.html)

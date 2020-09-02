@@ -56,3 +56,4 @@
 - [Mitochondrial dynamics in postmitotic cells regulate neurogenesis (2020)](https://science.sciencemag.org/content/369/6505/858.full) ([Tweet](https://twitter.com/VanderhaeghenP2/status/1294168825735319553))
 - [PVDH Lab](https://pvdhlab.org/) - Stem cell and Developmental neurobiology.
 - [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech) ([HN](https://news.ycombinator.com/item?id=24262336))
+- [Europe’s biotech renaissance (2020)](https://www.nature.com/articles/s41587-020-0483-6)

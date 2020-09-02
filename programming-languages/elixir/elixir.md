@@ -46,3 +46,4 @@
 - [The Little Elixir & OTP Guidebook](https://livebook.manning.com/book/the-little-elixir-and-otp-guidebook/about-this-book/)
 - [In Elixir world, does traditional "microservice architecture" actually matter?](https://www.reddit.com/r/elixir/comments/ijhx3h/in_elixir_world_does_traditional_microservice/)
 - [A Sip of Elixir — Evaluating a New Tech Stack (2020)](https://www.smartly.io/blog/a-sip-of-elixir-evaluating-a-new-tech-stack)
+- [Elixir: Understanding the concurrency model (2019)](https://manzanit0.github.io/elixir/2019/09/29/elixir-concurrency.html)

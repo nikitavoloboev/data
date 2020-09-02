@@ -5,6 +5,7 @@
 - [As a CTO, my default loop is 'First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat.](https://news.ycombinator.com/item?id=16802530)
 - Ideas are more important than age.
   - Just because someone is junior doesn't mean they don't deserve respect and cooperation.
+- [So much of good management is so simple: recognizing when your people need a challenge vs. when they need help.](https://twitter.com/jenistyping/status/1277466746400563200)
 
 ## Links
 

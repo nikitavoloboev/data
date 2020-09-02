@@ -128,3 +128,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Six N. Five](https://sixnfive.com/) - Multidisciplinary Design Studio.
 - [Shift Nudge](https://shiftnudge.com/) - Interface Design Course.
 - [Neuralink Chip vector artwork](https://www.figma.com/community/file/882308473299123804)
+- [Mailbox UI](https://twitter.com/taylorlapeyre/status/1300589868603465733)

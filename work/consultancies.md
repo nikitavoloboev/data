@@ -50,6 +50,7 @@
 - [Milkinside](https://milkinside.com/)
 - [Awkward](https://www.awkward.co/) - Digital product agency.
 - [Human Deluxe Design Studio](https://humandeluxe.com/)
+- [This Too Shall Grow](https://thistooshallgrow.com/)
 
 ## DB
 
@@ -114,6 +115,7 @@
 - [Littlelines](https://littlelines.com/) - Ruby on Rails Development Company.
 - [Atomic Object](https://atomicobject.com/)
 - [Bitfield Consulting](https://bitfieldconsulting.com/) - Cloud native & Go consultancy.
+- [Apptension](https://apptension.com/)
 
 ## Links
 

@@ -185,3 +185,4 @@
 - [Explanation of monad (2020)](https://twitter.com/johncarlosbaez/status/1294697378755174400)
 - [Compendium of Mathematical Symbols (2020)](https://mathvault.ca/hub/higher-math/math-symbols/)
 - [Math Vault](https://mathvault.ca/) - Learn Higher Mathematics The Online Way.
+- [Mathematicians Report New Discovery About the Dodecahedron (2020)](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)

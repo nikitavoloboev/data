@@ -93,6 +93,7 @@
 - [Datalevin](https://github.com/juji-io/datalevin) - Port of Datascript in-memory Datalog database to Lightning Memory-Mapped Database (LMDB).
 - [DagDB](https://github.com/mikeal/dagdb) - Syncable database built on IPLD.
 - [MonetDB](https://github.com/MonetDB/MonetDB) - Column-store pioneer. ([Web](https://www.monetdb.org/))
+- [RxDB](https://github.com/pubkey/rxdb) - NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. ([HN](https://news.ycombinator.com/item?id=24340802))
 
 ## Tools
 

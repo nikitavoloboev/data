@@ -307,6 +307,7 @@ Below is a list of extensions I use.
 
 ## Theme
 
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) ([Code](https://github.com/sdras/night-owl-vscode-theme)) ([Web](https://night-owl-swag.netlify.app/))
 - [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - Beautifully warm dual theme. ([Code](https://github.com/jolaleye/horizon-theme-vscode))
 - [Overnight](https://marketplace.visualstudio.com/items?itemName=cev.overnight)
 - [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))

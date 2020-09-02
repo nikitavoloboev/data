@@ -117,7 +117,7 @@
 - [On porting code (2019)](https://samrat.me/posts/2019-11-26-porting-code/)
 - [Challenging projects every programmer should try (2019)](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html) ([HN](https://news.ycombinator.com/item?id=21790779))
 - [You don't need loops](https://github.com/you-dont-need/You-Dont-Need-Loops) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
-- [Bret Victor - The Future of Programming (2013)](https://vimeo.com/71278954)
+- [Bret Victor - The Future of Programming (2013)](https://www.youtube.com/watch?v=8pTEmbeENF4)
 - [Ask HN: What do top engineers you know do that others don't? (2019)](https://news.ycombinator.com/item?id=21870889)
 - [If you're goal is to learn how to code in 2020, here's a thread of advice for you](https://twitter.com/ASpittel/status/1212372163442958338)
 - [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)

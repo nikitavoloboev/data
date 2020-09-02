@@ -75,3 +75,4 @@
 - [Simple C Compiler](https://www.simple-cc.org/)
 - [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)
 - [Rust-style futures in C (2020)](https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html)
+- [The problem with C (2020)](https://cor3ntin.github.io/posts/c/)
