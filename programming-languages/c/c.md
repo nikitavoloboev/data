@@ -75,4 +75,5 @@
 - [Simple C Compiler](https://www.simple-cc.org/)
 - [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)
 - [Rust-style futures in C (2020)](https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html)
-- [The problem with C (2020)](https://cor3ntin.github.io/posts/c/) ([Lobsters](https://lobste.rs/s/e27sea/problem_with_c))
+- [The problem with C compatibility in C++ (2020)](https://cor3ntin.github.io/posts/c/) ([Lobsters](https://lobste.rs/s/e27sea/problem_with_c)) ([HN](https://news.ycombinator.com/item?id=24352258))
+- [Essential C (2003)](http://cslibrary.stanford.edu/101/EssentialC.pdf) ([HN](https://news.ycombinator.com/item?id=24356246))

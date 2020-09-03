@@ -47,3 +47,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Deep Work and the 30-Hour Method for Learning a New Skill (2018)](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) ([HN](https://news.ycombinator.com/item?id=23845575))
 - [How to stop procrastinating by using the Fogg Behavior Model (2020)](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model) ([HN](https://news.ycombinator.com/item?id=24120275))
 - [Thoughts on deep work (2020)](https://twitter.com/paraschopra/status/1295244575154479104)
+- [How to Be Indistractable](https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you) ([HN](https://news.ycombinator.com/item?id=24360966))

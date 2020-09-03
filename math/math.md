@@ -187,3 +187,4 @@
 - [Math Vault](https://mathvault.ca/) - Learn Higher Mathematics The Online Way.
 - [Mathematicians Report New Discovery About the Dodecahedron (2020)](https://www.quantamagazine.org/mathematicians-report-new-discovery-about-the-dodecahedron-20200831/)
 - [MIT Math GitHub](https://github.com/mitmath) - Educational materials for MIT math courses.
+- [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)

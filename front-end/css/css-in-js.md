@@ -25,3 +25,4 @@
 - [otion](https://github.com/kripod/otion) - Atomic CSS-in-JS with a featherweight runtime.
 - [CSS to JS](https://github.com/SaraVieira/css-to-js) - Transform between CSS, JS Objects and JSX props.
 - [cxs](https://github.com/cxs-css/cxs) - Fast af css-in-js in 0.7kb.
+- [Stiches](https://github.com/modulz/stitches) - Near-zero runtime, server-side rendering, multi-variant support, and best-in-class developer experience. ([Web](https://stitches.dev/))

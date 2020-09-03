@@ -17,3 +17,4 @@
 - [Mirroring from Apache Kafka to Azure Event Hub (2020)](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/)
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
 - [Redpanda](https://vectorized.io/) - Kafka replacement for mission critical systems.
+- [rochefort](https://github.com/jackdoe/rochefort) - Poor man's kafka (plus in-place mutations and search).

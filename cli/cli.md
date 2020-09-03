@@ -31,3 +31,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [wttr.in](https://github.com/chubin/wttr.in) - Console-oriented weather forecast service. ([HN](https://news.ycombinator.com/item?id=23646953))
 - [Structured text tools](https://github.com/dbohdan/structured-text-tools) - List of text-based file formats and command line tools for manipulating each.
 - [Conventions for Command Line Options (2020)](https://nullprogram.com/blog/2020/08/01/) ([HN](https://news.ycombinator.com/item?id=24020952))
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools (2020)](https://zaiste.net/posts/shell-commands-rust/) ([Lobsters](https://lobste.rs/s/2mxwdm/rewritten_rust_modern_alternatives))

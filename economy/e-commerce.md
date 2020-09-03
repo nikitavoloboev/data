@@ -3,6 +3,7 @@
 ## Nice shops
 
 - [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
+- [Recess](https://takearecess.com/)
 
 ## Links
 
@@ -32,3 +33,4 @@
 - [Interlayer](https://interlayer.io/) - Increase your Ecommerce, Website and Blog traffic in minutes. ([Shopify plugin](https://interlayer.io/traffic-exchange/shopify/))
 - [Guide: Make money building Shopify micro-SaaS apps (2020)](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify) ([HN](https://news.ycombinator.com/item?id=24261192))
 - [Shopify App CLI Tool: Build Apps Faster (2020)](https://www.shopify.com/partners/blog/cli-tool)
+- [Tens Sunglasses](https://tens.co/)

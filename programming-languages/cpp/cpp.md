@@ -110,3 +110,4 @@
 - [Templight](https://github.com/mikael-s-persson/templight) - Template Instantiation Profiler and Debugger.
 - [6 Things You Can Do to Refactor a C++ Project (2020)](https://www.bfilipek.com/2020/08/6things-refactor.html)
 - [C++ Pattern Matching](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1371r2.pdf)
+- [Using Vim for C++ Development](https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859) ([HN](https://news.ycombinator.com/item?id=24363225))

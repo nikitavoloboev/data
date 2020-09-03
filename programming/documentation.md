@@ -21,7 +21,7 @@
 ## Links
 
 - [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [Ask HN: Is there a better way to document complex software architectures? (2018)](https://news.ycombinator.com/item?id=18508284)
+- [Ask HN: Is there a better way to document complex software architectures? (2018)](https://news.ycombinator.com/item?id=18508284) -
 - [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Write the Docs](https://www.writethedocs.org/) - Global community of people who care about documentation. ([Code](https://github.com/writethedocs/www))
 - [Lobsters: What does your company use for documentation? (2019)](https://lobste.rs/s/6jc9qj/what_does_your_company_use_for)
@@ -66,3 +66,4 @@
 - [Why Write ADRs (2020)](https://github.blog/2020-08-13-why-write-adrs/) ([HN](https://news.ycombinator.com/item?id=24146594))
 - [I Love MDN, or the cult of the free in action (2020)](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html) ([HN](https://news.ycombinator.com/item?id=24159244))
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.
+- [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/))

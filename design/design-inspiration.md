@@ -356,6 +356,7 @@ Here are few more things I liked, design wise.
 - [Kokorobot](http://kokorobot.ca/#home)
 - [Code Kitchen](http://codekitchen.net/) - Small animation.
 - [Kenneth Reitz](https://www.kennethreitz.org/)
+- [Jan-Lukas Else](https://jlelse.dev/)
 - [autophagy](http://autophagy.io/)
 - [Seana Burns](http://seenaburns.com/)
 - [Maddie](http://maddie.io/) - Clean.

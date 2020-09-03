@@ -37,3 +37,4 @@
 - [Megadesk](https://www.tindie.com/products/gcormier/megadesk/) - Open-source, drop in controller for the IKEA Bekant standing desk. ([HN](https://news.ycombinator.com/item?id=23676346))
 - [Taking my home work setup seriously (2020)](https://ahelwer.ca/post/2020-08-09-home-ergonomics/) ([Lobsters](https://lobste.rs/s/fvnhyd/taking_my_home_work_setup_seriously))
 - [Remote Office Setup (2020)](https://juanitofatas.com/remote-setup)
+- [Fully](https://www.fully.com/) - Standing desks, chairs. ([Tweet](https://twitter.com/aaroniker_me/status/1301261705520050176))

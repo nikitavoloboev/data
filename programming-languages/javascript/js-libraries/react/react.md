@@ -154,3 +154,4 @@
 - [Records & Tuples for React, way more than immutability (2020)](https://dev.to/sebastienlorber/records-tuples-for-react-way-more-than-immutability-2iic)
 - [Managing React State course](https://app.pluralsight.com/profile/author/cory-house)
 - [A tale of webpage speed, or throwing away React (2020)](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/) ([HN](https://news.ycombinator.com/item?id=24258855))
+- [React is becoming a black box](https://jaredpalmer.com/blog/react-is-becoming-a-black-box) ([HN](https://news.ycombinator.com/item?id=24363261))

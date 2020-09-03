@@ -24,7 +24,7 @@ I share songs I like in [form of playlists](../music/music-playlists.md). I also
 
 I also share [YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) I made.
 
-## Ideas in [Trello](https://trello.com/b/alB1ryRP)
+## Ideas in [Trello/Notion](../ideas/ideas.md)
 
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332).
 

@@ -54,6 +54,7 @@
 - [NeverThrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript. ([Chaining Failable Tasks](https://gdelgado.ca/chaining-failable-tasks.html#title))
 - [TypeORM fixtures CLI](https://github.com/RobinCK/typeorm-fixtures) - Allows you to create a ton of fixtures/fake data for use while developing or testing your project.
 - [ts-union](https://github.com/twop/ts-union) - ADT sum type in typescript.
+- [Kiss-ORM](https://github.com/Seb-C/kiss-orm) - ORM for TypeScript with no query-builder, supporting full SQL queries. ([HN](https://news.ycombinator.com/item?id=24363493))
 
 ## Links
 

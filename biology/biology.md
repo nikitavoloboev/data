@@ -38,3 +38,4 @@
 - [Why Are Plants Green? To Reduce the Noise in Photosynthesis (2020)](https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/) ([HN](https://news.ycombinator.com/item?id=23998793))
 - [Cell Biology by the Numbers](http://book.bionumbers.org/)
 - [Haseloff Lab](https://haseloff.plantsci.cam.ac.uk/) - Synthetic Biology for engineering plant growth.
+- [When Two Bacteria Become One (2020)](https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/) ([HN](https://news.ycombinator.com/item?id=24354888))

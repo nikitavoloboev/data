@@ -13,3 +13,4 @@
 - [Sanity](https://www.sanity.io/) - Build with Structured Content.
 - [Spina CMS](https://github.com/SpinaCMS/Spina) - Easy to use CMS that features a clean interface without distractions.
 - [Contentful](https://www.contentful.com/) - API-first content platform to build digital experiences.
+- [Build and Deploy a Next.js Blog with Cosmic and Vercel (2020)](https://vercel.com/guides/deploying-next-and-cosmic-with-vercel)
