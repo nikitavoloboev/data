@@ -42,7 +42,7 @@
 - [Unsupervised Data Augmentation](https://github.com/google-research/uda) - Semi-supervised learning method which achieves state-of-the-art results on a wide variety of language and vision tasks.
 - [Rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text-and voice-based conversations.
 - [T5](https://github.com/google-research/text-to-text-transfer-transformer) - Text-To-Text Transfer Transformer.
-- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers) ([HN](https://news.ycombinator.com/item?id=24377223))
 - [Awesome NLP](https://github.com/keon/awesome-nlp)
 - [NLP Library](https://github.com/mihail911/nlp-library) - Curated collection of papers for the NLP practitioner.
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.

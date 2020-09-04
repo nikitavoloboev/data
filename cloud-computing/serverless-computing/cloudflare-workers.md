@@ -15,3 +15,4 @@
 - [Cloudflare launches Workers Unbound, next evolution of its serverless platform (2020)](https://blog.cloudflare.com/introducing-workers-unbound/) ([HN](https://news.ycombinator.com/item?id=23965514))
 - [Going fully serverless with Cloudflare Workers (2020)](https://guido.io/posts/going-fully-serverless-with-cloudflare-workers/)
 - [Rendering React on the Edge with Flareact and Cloudflare Workers (2020)](https://blog.cloudflare.com/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers/)
+- [Flareact](https://github.com/flareact/flareact) - Edge-rendered React framework powered by Cloudflare Workers. ([Docs](https://flareact.com/))

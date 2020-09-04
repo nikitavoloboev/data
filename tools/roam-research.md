@@ -49,3 +49,4 @@
 - [Roam private API](https://github.com/artpi/roam-research-private-api/) - Helper to automate your Roam Research adventures.
 - [Roam Research Forum](https://forum.roamresearch.com/latest)
 - [Let the kids Roam (2020)](https://www.roambrain.com/let-the-kids-roam/)
+- [Library of Roam](https://roamlibrary.com/library)
