@@ -31,3 +31,4 @@
 - [Django Async: What's new and what's next? (2020)](https://deepsource.io/blog/django-async-support/) ([HN](https://news.ycombinator.com/item?id=24160608))
 - [Django Redis](https://github.com/jazzband/django-redis) - Redis cache backend for Django.
 - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
+- [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/) ([Code](https://github.com/pplonski/my_ml_service))

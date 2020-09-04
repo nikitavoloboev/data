@@ -71,3 +71,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [The surreal art of ‘unnatural lighting’ (2020)](https://www.nationalgeographic.com/magazine/2020/09/the-surreal-art-of-unnatural-lighting/)
 - [Thoughts on cameras in the age of excellent cell phone photos (2020)](https://whatever.scalzi.com/2020/05/05/thoughts-on-cameras-in-the-age-of-excellent-cell-phone-photos/) ([HN](https://news.ycombinator.com/item?id=23389437))
 - [Accidental Cameras](http://people.csail.mit.edu/torralba/research/accidentalcameras/) ([HN](https://news.ycombinator.com/item?id=24352783))
+- [Working with film](https://royniang.com/exposing_film.html)

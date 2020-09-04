@@ -25,3 +25,4 @@
 - [Fast Ruby](https://github.com/JuanitoFatas/fast-ruby) - Writing Fast Ruby. Common Ruby idioms.
 - [Effective Debugging of Memory Leaks in Ruby (2020)](http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/)
 - [Ruby modules in-depth (2019)](https://www.brainstobytes.com/ruby-modules/)
+- [Proportional dispatching using Ruby (2020)](https://medium.com/rubycademy/proportional-dispatching-using-ruby-378afbdeb32d)

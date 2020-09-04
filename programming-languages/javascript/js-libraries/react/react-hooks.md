@@ -84,3 +84,4 @@
 - [A Critique of React Hooks (2020)](https://dillonshook.com/a-critique-of-react-hooks/) ([HN](https://news.ycombinator.com/item?id=22995928))
 - [Shared Hook State with SWR (2020)](https://paco.im/blog/shared-hook-state-with-swr)
 - [Death by a thousand useCallbacks (2020)](https://royi-codes.now.sh/thousand-usecallbacks/)
+- [React with Hooks](https://reactwithhooks.netlify.app/) - React documentation with Hooks-based explanations and examples.

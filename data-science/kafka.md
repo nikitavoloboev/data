@@ -18,3 +18,4 @@
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
 - [Redpanda](https://vectorized.io/) - Kafka replacement for mission critical systems.
 - [rochefort](https://github.com/jackdoe/rochefort) - Poor man's kafka (plus in-place mutations and search).
+- [Why Can’t I Connect to Kafka?](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/)

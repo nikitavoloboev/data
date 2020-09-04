@@ -146,6 +146,8 @@
 - [pyca/cryptography](https://github.com/pyca/cryptography) - Package designed to expose cryptographic primitives and recipes to Python developers.
 - [bcrypt](https://github.com/pyca/bcrypt) - Modern(-ish) password hashing for your software and your servers.
 - [oscrypto](https://github.com/wbond/oscrypto) - Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy.
+- [flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell.
+- [fastcore](https://github.com/fastai/fastcore) - Python goodies to make your coding faster, easier, and more maintainable. ([Article](https://fastpages.fast.ai/fastcore/))
 
 ## Links
 

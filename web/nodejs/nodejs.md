@@ -91,3 +91,4 @@
 - [undici](https://github.com/mcollina/undici) - HTTP/1.1 client, written from scratch for Node.js.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible & lean implementation of core jQuery designed specifically for the server.
 - [Skia Canvas](https://github.com/samizdatco/skia-canvas) - Skia + Rust = Serverside Canvas for Node. ([HN](https://news.ycombinator.com/item?id=24364656))
+- [Intro to Node That You May Have Missed (2018)](https://itnext.io/an-intro-to-node-js-that-you-may-have-missed-b175ef4277f7)

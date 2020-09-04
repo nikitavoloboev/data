@@ -46,6 +46,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Drone](https://www.drone-os.com/) - Embedded Operating System for writing real-time applications in Rust. ([drone-core](https://github.com/drone-os/drone-core))
 - [Manticore](https://github.com/manticoreos/manticore) - Research operating system, written in Rust. ([Web](https://manticoreos.io/))
 - [CyanOS](https://github.com/AymenSekhri/CyanOS) - x86 monolithic kernel operating system, coded in C++ 17 and few lines of x86 Assembly.
+- [ChaiOS](https://github.com/ChaiSoft/ChaiOS) - Modular multi-platform hobby OS. Hybrid kernel, largely monolithic. Kernel C library is dynamically linked.
 
 ## Notes
 
@@ -121,3 +122,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The Evolution and Future of Hypervisors (2017)](https://medium.com/@penberg/the-evolution-and-future-of-hypervisors-999f568f9a5d)
 - [A Text-Based Desktop Environment](https://vtm.netxs.online/) ([HN](https://news.ycombinator.com/item?id=24243521)) ([Code](https://github.com/netxs-group/VTM))
 - [Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency](https://syslab.cs.washington.edu/papers/latency-socc14.pdf)
+- [Beginner resource for OSdev](http://www.brokenthorn.com/Resources/OSDevIndex.html)

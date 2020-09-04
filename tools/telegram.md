@@ -46,3 +46,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegram Open Code](https://telegram.org/apps#source-code)
 - [Create a Telegram Bot in Python in under 10 minutes (2020)](https://blog.usejournal.com/part-1-how-to-create-a-telegram-bot-in-python-under-10-minutes-145e7f4e6e40)
 - [Evolution of Telegram](https://telegram.org/evolution)
+- [Building a Telegram bot with Apache Kafka and ksqlDB](https://talks.rmoff.net/JG780y/building-a-telegram-bot-with-apache-kafka-and-ksqldb)

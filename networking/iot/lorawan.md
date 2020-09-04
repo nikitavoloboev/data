@@ -46,3 +46,5 @@
 - [LoRa-based Device-to-Device Smartphone Communication for Crisis Scenarios (2020)](https://dtn7.github.io/assets/hoechst2020lora.pdf) ([HN](https://news.ycombinator.com/item?id=22725623))
 - [Adding machine learning to your LoRaWAN device - Jan Jongboom (2020)](https://www.youtube.com/watch?v=e-v0wnSM6YA)
 - [LoRa Mesh Communication without Infrastructure: The Meshtastic Project (ESP32, BLE, GPS) (2020)](https://www.youtube.com/watch?v=TY6m6fS8bxU) ([Reddit](https://www.reddit.com/r/darknetplan/comments/gyalhx/lora_mesh_communication_without_infrastructure/))
+- [TTGO LoRa32 development board (2020)](https://www.settorezero.com/wordpress/lora_lorawan_lilygo_ttgo_lora32_esp32/) ([Reddit](https://www.reddit.com/r/esp32/comments/hu32z1/in_this_article_i_explain_how_lora_and_lorawan/))
+- [DecodingLora](https://revspace.nl/DecodingLora)

@@ -28,6 +28,7 @@
   1. VCs are reluctant to fund capital intensive startups that have time horizons for exits that are significantly longer than software based startups
   2. The product lifecycle is so much longer, which makes it inherently much riskier. In many cases it can be years before you even get to the point where you can get real feedback on the business model.
   3. There are often other considerations e.g. regulations or interactions with existing products, that are entirely outside of the control of the company that can significantly alter the likelihood of success.
+- [Produce an infoproduct (book, course, newsletter, etc) in domain X prior to a SaaS in domain X. Much quicker time to money. Gets your name out there and starts attracting happy customers. Teaches you business mechanics while paying you.](https://twitter.com/patio11/status/1301562880878239745)
 
 ## Links
 
@@ -202,6 +203,7 @@
 - [How to Disrupt Network Effects. Making networks redundant is one way to (2020)](https://medium.com/breadcrumb/how-to-disrupt-network-effects-aeeb105c82b1)
 - [How to Create a Good Name for Your Business (2020)](https://toolbox.humandeluxe.com/good-business-name/)
 - [Trends.vc](https://join.trends.vc/#thanks) - Discover new markets and ideas. ([Join](https://join.trends.vc/))
+- [OKR Example Directory](https://soapboxhq.com/goal-examples) - Library of role-specific and personal development goal examples to inspire your employees.
 
 ## Images
 

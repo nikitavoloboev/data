@@ -102,3 +102,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [FFmpeg: Step-by-Step Retro Video Filter (2020)](https://www.gariany.com/2020/08/ffmpeg-step-by-step-retro-video-filter/)
 - [YouTube Transcript](https://youtubetranscript.com/) - Read YouTube videos.
 - [Got Your Back](https://www.gotyourback.space/) - Collection of virtual backdrops for use in video call apps.
+- [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/evm/) ([HN](https://news.ycombinator.com/item?id=24362525))
+- [Create a Golang Video Streaming Server Using HLS (2020)](https://qvault.io/2020/09/04/golang-video-stream-server/)

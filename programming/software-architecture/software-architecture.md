@@ -58,7 +58,7 @@
 - [Increment](https://increment.com/) - Print and digital magazine about how teams build and operate software systems at scale..
 - [Ask HN: I've been promoted to Architect. What do I need to learn/do to excel? (2020)](https://news.ycombinator.com/item?id=23152092)
 - [Drawing good architecture diagrams (2020)](https://www.ncsc.gov.uk/blog-post/drawing-good-architecture-diagrams)
-- [Hints and Principles for Computer System Design (2019)](https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/)
+- [Hints and Principles for Computer System Design (2019)](https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/) ([Updated](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf))
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) ([HN](https://news.ycombinator.com/item?id=24332485))
 - [What your developers are using: the application stack](https://technically.dev/posts/what-your-developers-are-using.html)
 - [Ladders and Tar Pits](https://yak.sh/ladders/) - Using concepts from the papers “Out of the Tar Pit” and “Ladder of Abstraction”, we’ll examine what it means to build robust abstractions.
@@ -80,4 +80,3 @@
 - [Organizing architectural katas (2020)](https://nelis.boucke.be/post/architectural-katas/)
 - [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html) - Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work. ([Code](https://github.com/nocomplexity/ArchitecturePlaybook))
 - [Multi-tenant Architectures (2020)](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html) ([HN](https://news.ycombinator.com/item?id=24324142))
-- [Hints and Principles for Computer System Design – Butler Lampson (2020)](https://www.dropbox.com/sh/4cex542zznbjh7b/AADM59pqAb9YBy4eeT1uw0t8a?dl=0&preview=Hints+190+full.pdf)

@@ -45,3 +45,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD (2020)](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/) ([HN](https://news.ycombinator.com/item?id=23906165))
 - [kSense](https://ksense.io/) - Insanely Fast Analytics.
 - [Umami](https://umami.is/) - Self-hosted open-source alternative to Google Analytics. ([HN](https://news.ycombinator.com/item?id=24198329))
+- [Privacy Focused Analytics From Scratch (2020)](https://healeycodes.com/privacy-focused-analytics-from-scratch/)

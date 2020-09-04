@@ -129,3 +129,4 @@
 - [GraphQL Summit Worldwide 2020](https://www.youtube.com/playlist?list=PLpi1lPB6opQxkOv1H0j4JHhHx9bydEk8H)
 - [How to Auth: Secure a GraphQL API with Confidence (2020)](https://www.youtube.com/watch?v=dBuU61ABEDs&list=PLpi1lPB6opQxkOv1H0j4JHhHx9bydEk8H&index=13)
 - [GraphQL tools & libraries (2020)](https://blog.graphqleditor.com/graphql-tools-partone/)
+- [How to build a low-latency serverless GraphQL API on AWS with Node.js, AppSync, Lambda, and DynamoDB (2020)](https://www.youtube.com/watch?v=_9DFFg-pNss)

@@ -80,7 +80,7 @@
 ## Project tools
 
 - [GitHub](https://github.com) - Code sharing & collaboration.
-- [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, Slack is good.
+- [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, Slack is ok.
 - [Notion](../tools/notion.md) - Everything wiki, collaboration.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
 - [Linear](https://linear.app/) - Keyboard friendly. Great to track group tasks. Use it for non code projects (as GitHub issues are good).

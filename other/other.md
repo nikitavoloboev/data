@@ -320,3 +320,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [press play to pause your thoughts](https://pressplaytopauseyourthoughts.com/)
 - [Recess](https://takearecess.com/) - Help people feel calm, focused, and creative despite the world around them.
 - [Big Desk Energy](https://www.bigdeskenergy.com/)
+- [Most-favorited Hacker News posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) ([HN](https://news.ycombinator.com/item?id=24351073))
+- [Tiny Factories](https://tinyfactories.space/) - Tribe of indie makers helping each other to ship products.

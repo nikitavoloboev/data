@@ -5,6 +5,7 @@
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
 - [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
 - [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux))
+- [Liquorix](https://liquorix.net/) - Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. ([Why use it](https://github.com/zen-kernel/zen-kernel/issues/30#issuecomment-647045343))
 
 ## WM
 
