@@ -228,3 +228,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [RWX.GG](https://rwx.gg/) - Progressive Knowledge App.
 - [Git-based Wiki (2020)](https://www.bit-101.com/blog/2020/09/git-based-wiki/) ([HN](https://news.ycombinator.com/item?id=24351298))
 - [DWiki](https://utcc.utoronto.ca/~cks/space/dwiki/DWiki)
+- [Cerveau](https://www.srid.ca/689c4a39.html) - Future-proof web app for notes. ([Lobsters](https://lobste.rs/s/xajgsn/cerveau_future_proof_web_app_for_notes))

@@ -17,3 +17,7 @@ There should be more services like [Buttondown](https://buttondown.email). Solve
 The breakdown of running costs is actually very useful to see. Would love to see cost breakdowns for more larger companies like Stripe. Gives more perspective on what scale means and how resources can be used efficiently.
 
 I extended [my workflow](../../sharing/my-workflow.md) further to add some detail to my preferred tools of working. There is some overlap with [rules](../../focusing/rules.md). Hope to get a more clear difference between the two. And for processes, I hope to build a dedicate service/app for it. As processes need to be actionable.
+
+## 3
+
+Pleasantly surprised my macOS post is 31st [most favorited post on HN](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis). Need to build/ship more things. ✨

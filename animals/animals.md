@@ -47,3 +47,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Reddit's Aww growing communities](https://www.reddit.com/subreddits/leaderboard/aww/)
 - [Things to think about when getting a cat](https://twitter.com/nayafia/status/1294295163410378752)
 - [PetSmart](https://www.petsmart.com) - Pet Supplies, Accessories and Products Online.
+- [Coping with Cats (2020)](https://acesounderglass.com/2020/09/02/coping-with-cats/) ([HN](https://news.ycombinator.com/item?id=24361029))
