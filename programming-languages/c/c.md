@@ -79,3 +79,4 @@
 - [Essential C (2003)](http://cslibrary.stanford.edu/101/EssentialC.pdf) ([HN](https://news.ycombinator.com/item?id=24356246))
 - [Modern C](https://modernc.gforge.inria.fr/) ([HN](https://news.ycombinator.com/item?id=24361469))
 - [C FAQ](http://www.c-faq.com/)
+- [Massacring C Pointers (2018)](https://wozniak.ca/blog/2018/06/25/1/index.html) ([HN](https://news.ycombinator.com/item?id=24376622))
