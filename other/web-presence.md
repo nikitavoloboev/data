@@ -129,3 +129,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Disqus](https://disqus.com/by/nikivi/)
 - [Tumblr](https://nikitavoloboev.tumblr.com/)
 - [Trello](https://trello.com/nikivi/activity)
+- [GitStalk](https://gitstalk.netlify.app/nikitavoloboev)

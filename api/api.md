@@ -135,3 +135,4 @@
 - [How should we build the APIs of tomorrow? (2020)](https://increment.com/apis/how-we-should-build-apis-tomorrow/) ([HN](https://news.ycombinator.com/item?id=24332418))
 - [Top Tools to Make Debugging APIs Easier (2020)](https://blog.bearer.sh/api-debugging-tools/)
 - [Bearer.sh](https://www.bearer.sh/) - Monitor, track performance, detect anomalies, and fix issues on your critical API usage.
+- [APIs You Won't Hate](https://apisyouwonthate.com/) - Community that cares about API design and development.
