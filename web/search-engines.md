@@ -60,3 +60,4 @@
 - [A Fast Fuzzy Search Implementation (2020)](https://www.objc.io/blog/2020/08/18/fuzzy-search/)
 - [Using a search engine as a programmer (2020)](https://codewithoutrules.com/2020/08/17/search-engine-programmers/)
 - [Google's powerful code search tooling (2020)](https://twitter.com/michaelrbock/status/1297954416637747201)
+- [Full-Text Search Battle: PostgreSQL vs Elasticsearch (2020)](https://rocky.dev/full-text-search) ([Lobsters](https://lobste.rs/s/omaotj/full_text_search_battle_postgresql_vs))
