@@ -13,3 +13,4 @@
 - [Lobsters Rails Code](https://github.com/lobsters/lobsters)
 - [Introduction to Ruby on Rails Patterns and Anti-patterns (2020)](https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html)
 - [How Shopify reduced storefront response times with a rewrite (2020)](https://engineering.shopify.com/blogs/engineering/how-shopify-reduced-storefront-response-times-rewrite) ([HN](https://news.ycombinator.com/item?id=24228651))
+- [A Site Reborn](https://calebhearth.com/a-site-reborn)

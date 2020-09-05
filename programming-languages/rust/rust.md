@@ -305,3 +305,5 @@
 - [Supporting Linux kernel development in Rust (2020)](https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/) ([HN](https://news.ycombinator.com/item?id=24334731))
 - [Rust testing or verifying: Why not both? (2020)](https://alastairreid.github.io/why-not-both/) ([HN](https://news.ycombinator.com/item?id=24372760))
 - [Understanding and Evolving the Rust Programming Language (2020)](https://people.mpi-sws.org/~jung/thesis.html) ([Reddit](https://www.reddit.com/r/rust/comments/ilwkrl/my_rusty_phd_thesis_is_finally_done/))
+- [If you want performance, cheat (2020)](https://vorner.github.io/2020/09/03/performance-cheating.html)
+- [C++ vs Rust: an async Thread-per-Core story (2020)](https://medium.com/@glaubercosta_11125/c-vs-rust-an-async-thread-per-core-story-28c4b43c410c)
