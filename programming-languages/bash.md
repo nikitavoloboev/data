@@ -39,3 +39,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Supercharge Your Bash History (2020)](https://metaredux.com/posts/2020/07/07/supercharge-your-bash-history.html) ([Lobsters](https://lobste.rs/s/ruygyw/supercharge_your_bash_history))
 - [Import](https://import.pw/) - Simple and Fast Module System for Bash and Other Unix Shells. ([HN](https://news.ycombinator.com/item?id=23864909))
 - [Intelligent Bash (ibash)](https://rdmp.org/dmbcs/i-bash)
+- [Functional programming in bash](https://github.com/ssledz/bash-fun) ([Slides](https://ssledz.github.io/presentations/bash-fun.html#/))
