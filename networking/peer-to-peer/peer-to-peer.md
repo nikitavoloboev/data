@@ -14,7 +14,7 @@
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Radicle](http://radicle.xyz/) - Peer-to-peer stack for code collaboration. ([Code](https://github.com/radicle-dev/radicle))
 - [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
-- [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html)
+- [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html) ([HN](https://news.ycombinator.com/item?id=24382589))
 - [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)
 - [Crust](https://github.com/maidsafe/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.
 - [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data.

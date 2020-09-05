@@ -437,6 +437,7 @@
 - [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - Library for creating references that carry their owner with them.
 - [Nuclei](https://github.com/vertexclique/nuclei) - Proactive IO system which is runtime agnostic and can work with any runtime. ([Lobsters](https://lobste.rs/s/qzuwsl/nuclei_proactive_io_runtime_system))
 - [Autocxx](https://github.com/google/autocxx) - Tool for calling C++ from Rust in a heavily automated, but safe, fashion. ([Reddit](https://www.reddit.com/r/rust/comments/iefeum/googleautocxx_calling_c_from_rust_in_a_heavily/))
+- [Scipio](https://github.com/DataDog/scipio) - Cooperative Thread-per-Core crate for Rust & Linux based on io_uring.
 - [Rust command-line library](https://github.com/rust-shell-script/rust_cmd_lib) ([HN](https://news.ycombinator.com/item?id=24249646))
 
 ## Cargo Plugins

@@ -4,6 +4,7 @@
 
 ## Links
 
+- [Sam Williams: Arweave – Bringing Permanence to the Web (2020)](https://overcast.fm/+RhzYXr_i4)
 - [Sam Williams, Arweave (2019)](https://www.youtube.com/watch?v=2TJLYdc-Sq4)
 - [Arweave: A Protocol for Economically Sustainable Information Permanence](https://www.arweave.org/yellow-paper.pdf)
 - [Verto Exchange](https://verto.exchange/) ([Code](https://github.com/useverto/verto))

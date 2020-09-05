@@ -108,3 +108,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Medium is not the home for your ideas (2020)](https://hulry.com/medium-vs-own-blog/) ([HN](https://news.ycombinator.com/item?id=23914052))
 - [А как делать блог? (2020)](https://vas3k.ru/notes/how_to_blog/)
 - [Internet Homesteading](https://hyperlink.academy/courses/internet-homesteading/22) - Build yourself a home on the internet (a website) with a toolchain you understand from the ground up.
+- [Blogs I like](https://jvns.ca/blogroll/)

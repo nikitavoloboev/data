@@ -148,6 +148,7 @@
 - [oscrypto](https://github.com/wbond/oscrypto) - Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy.
 - [flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell.
 - [fastcore](https://github.com/fastai/fastcore) - Python goodies to make your coding faster, easier, and more maintainable. ([Article](https://fastpages.fast.ai/fastcore/))
+- [cadCAD](https://github.com/cadCAD-org/cadCAD) - Design, simulate, validate, and operate within complex systems.
 
 ## Links
 
