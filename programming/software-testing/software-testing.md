@@ -54,3 +54,4 @@
 - [Is TDD Dead? (2014)](https://martinfowler.com/articles/is-tdd-dead/) ([HN](https://news.ycombinator.com/item?id=24281195))
 - [Functional Programming and Property-Based Testing](http://janmidtgaard.dk/quickcheck/)
 - [How They Test](https://abhivaikar.github.io/howtheytest/#/) - Collection of public resources about how software companies test their software. ([Code](https://github.com/abhivaikar/howtheytest))
+- [Test smarter, not harder (2020)](https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/)

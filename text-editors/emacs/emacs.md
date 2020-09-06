@@ -58,3 +58,4 @@ Might give it a go sometime.
 - [Learning Emacs resources](https://emacsredux.com/resources/)
 - [Castlemacs](https://github.com/freetonik/castlemacs) - Modern, minimalist Emacs for macOS.
 - [Emacs Code](https://github.com/emacs-mirror/emacs)
+- [Protesilaos Stavrou Emacs Blog](https://protesilaos.com/)

@@ -19,3 +19,4 @@
 - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 - [Hello "Hello world!" (2020)](https://blog.jfo.click/hello-hello-world/) ([Lobsters](https://lobste.rs/s/uoluir/hello_hello_world))
 - [Art of Assembly Language](https://www.cs.yale.edu/flint/cs422/doc/art-of-asm/pdf/)
+- [8086 microcode disassembled (2020)](https://www.reenigne.org/blog/8086-microcode-disassembled/) ([HN](https://news.ycombinator.com/item?id=24383648))
