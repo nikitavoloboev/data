@@ -63,6 +63,7 @@
 - [Effective messaging for startups (2020)](https://twitter.com/JayKapoorNYC/status/1297548803466289153)
 - [Sales for Founders](https://salesforfounders.com/)
 - [Buffer](https://buffer.com/) - Simpler social media tools for authentic engagement.
+- [Getting Users Is Hard (2020)](https://news.ycombinator.com/item?id=24386933)
 
 ## Images
 

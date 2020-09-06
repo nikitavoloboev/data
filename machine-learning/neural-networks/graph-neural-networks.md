@@ -14,3 +14,4 @@
 - [Graph-based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 - [PyTorch Cluster](https://github.com/rusty1s/pytorch_cluster) - PyTorch Extension Library of Optimized Graph Cluster Algorithms.
 - [Graph Neural Network Model in TensorFlow](https://github.com/mtiezzi/gnn)
+- [Traffic prediction with advanced Graph Neural Networks (2020)](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks) ([HN](https://news.ycombinator.com/item?id=24386584))

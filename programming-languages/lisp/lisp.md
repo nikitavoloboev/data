@@ -77,4 +77,5 @@
 - [Sild](https://github.com/jfo/sild) - Lisp Dialect.
 - [Mal](https://github.com/kanaka/mal) - Make a Clojure inspired Lisp interpreter.
 - [Compiling a Lisp: Overture](https://bernsteinbear.com/blog/compiling-a-lisp-0/) ([Lobsters](https://lobste.rs/s/hwekzx/compiling_lisp_overture))
+- [Compiling a Lisp: Primitive unary functions](https://bernsteinbear.com/blog/compiling-a-lisp-4/) ([HN](https://news.ycombinator.com/item?id=24386826))
 - [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language.
