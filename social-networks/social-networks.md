@@ -57,3 +57,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [A Blueprint for Content Governance and Enforcement (2018)](https://www.facebook.com/notes/mark-zuckerberg/a-blueprint-for-content-governance-and-enforcement/10156443129621634/)
 - [All the world's a stage. On alt accounts and communicative friction. (2020)](https://jasmine.substack.com/p/-all-the-worlds-a-stage)
 - [Wisdom Shelf](https://patriciamou.com/wisdom-shelf-waitlist) - Social network focused on personal development.
+- [Relevant](https://relevant.community/) - Social Network Built On Trust.

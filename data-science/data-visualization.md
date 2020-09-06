@@ -52,4 +52,4 @@
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [e-sum](https://anvaka.github.io/e-sum/) - Visualization of exponential sums. ([Code](https://github.com/anvaka/e-sum))
 - [Matplot++](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization.
-- [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/)
+- [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/) ([HN](https://news.ycombinator.com/item?id=24391049))
