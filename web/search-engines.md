@@ -61,3 +61,4 @@
 - [Using a search engine as a programmer (2020)](https://codewithoutrules.com/2020/08/17/search-engine-programmers/)
 - [Google's powerful code search tooling (2020)](https://twitter.com/michaelrbock/status/1297954416637747201)
 - [Full-Text Search Battle: PostgreSQL vs Elasticsearch (2020)](https://rocky.dev/full-text-search) ([Lobsters](https://lobste.rs/s/omaotj/full_text_search_battle_postgresql_vs))
+- [Lunr.js](https://github.com/olivernn/lunr.js) - Small, full-text search library for use in the browser. Indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries. ([Web](https://lunrjs.com/))
