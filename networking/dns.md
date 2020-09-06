@@ -39,3 +39,4 @@
 - [DNS questions](https://questions.wizardzines.com/dns.html)
 - [Under the Hood of a Simple DNS Server (2020)](https://blog.aos.sh/2020/08/23/under-the-hood-of-a-simple-dns-server/)
 - [Understanding DNS—anatomy of a BIND zone file (2020)](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
+- [DNSLink](https://dnslink.io/) - Simple protocol to link content and services directly from DNS.
