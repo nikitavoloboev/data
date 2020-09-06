@@ -74,3 +74,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) ([HN](https://news.ycombinator.com/item?id=24287566))
 - [VIM quick-start, cheat-sheet, and links (2013)](https://jkirchartz.com/2013/04/vim_quick_start_cheatsheet_and_links.html)
 - [VimConf](https://www.vimconf.live/) - Virtual vim conference.
+- [Vim: Sharpening the Axe (2020)](https://www.youtube.com/watch?v=iEShYRRVZOE)

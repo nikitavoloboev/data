@@ -94,6 +94,7 @@
 - [DagDB](https://github.com/mikeal/dagdb) - Syncable database built on IPLD.
 - [MonetDB](https://github.com/MonetDB/MonetDB) - Column-store pioneer. ([Web](https://www.monetdb.org/))
 - [RxDB](https://github.com/pubkey/rxdb) - NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. ([HN](https://news.ycombinator.com/item?id=24340802))
+- [Graviton Database](https://github.com/deroproject/graviton) - Simple, fast, versioned, authenticated, embeddable key-value store database in pure Go. ([HN](https://news.ycombinator.com/item?id=24390596))
 
 ## Tools
 
