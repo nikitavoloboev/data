@@ -29,7 +29,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory nLab](https://ncatlab.org/nlab/show/category+theory)
 - [Applied Category Theory – Online Course](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
 - [Functional Programming and Category Theory [Part 1] - Categories and Functors](http://nikgrozev.com/2016/03/14/functional-programming-and-category-theory-part-1-categories-and-functors/)
-- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/)
+- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) ([PDF](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf))
 - [Category Theory for Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Learn You Some Category Theory](https://jozefg.bitbucket.io/posts/2013-10-22-category-theory-in-haskell.html)
@@ -77,8 +77,10 @@ Anything that can be represented by the above list can be analyzed as a category
 - [AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks (2020)](https://www.youtube.com/watch?v=7zr2qnud4XM)
 - [Why does the "working mathematician" need category theory? (2020)](https://www.reddit.com/r/math/comments/i7erja/why_does_the_working_mathematician_need_category/)
 - [F-Algebras (2017)](https://bartoszmilewski.com/2017/02/28/f-algebras/)
-- [Topology: A Categorical Approach (2020)](https://topology.pubpub.org/) - Graduate-level textbook that presents basic topology from the perspective of category theory.
+- [Topology: A Categorical Approach (2020)](https://topology.pubpub.org/) - Graduate-level textbook that presents basic topology from the perspective of category theory. ([Lobsters](https://lobste.rs/s/cq30tt/topology_categorical_approach))
 - [MIT: Programming with Categories (2020)](http://brendanfong.com/programmingcats.html) ([HN](https://news.ycombinator.com/item?id=24353976))
+- [n-Category Cafe category theory posts](https://golem.ph.utexas.edu/category/)
+- [Category Theory for the Sciences (2014)](https://mitpress.mit.edu/books/category-theory-sciences)
 
 ## Images
 

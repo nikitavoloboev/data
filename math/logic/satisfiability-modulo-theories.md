@@ -19,3 +19,4 @@
 - [Kissat SAT Solver](http://fmv.jku.at/kissat/) ([HN](https://news.ycombinator.com/item?id=23979388))
 - [Can Computers Solve the Collatz Conjecture? (2020)](https://www.quantamagazine.org/can-computers-solve-the-collatz-conjecture-20200826/) ([Lobsters](https://lobste.rs/s/ylgnlq/computer_scientists_attempt_corner)) ([HN](https://news.ycombinator.com/item?id=24288963))
 - [SMT Solvers, Integer Linear Programming (2019)](https://shapr.github.io/posts/2019-07-10-smt-solvers.html)
+- [SBV](https://github.com/LeventErkok/sbv) - SMT Based Verification in Haskell. ([Changes](https://github.com/LeventErkok/sbv/blob/master/CHANGES.md))
