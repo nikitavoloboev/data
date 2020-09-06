@@ -149,6 +149,7 @@
 - [flupy](https://github.com/olirice/flupy) - Fluent data pipelines for python and your shell.
 - [fastcore](https://github.com/fastai/fastcore) - Python goodies to make your coding faster, easier, and more maintainable. ([Article](https://fastpages.fast.ai/fastcore/)) ([HN](https://news.ycombinator.com/item?id=24374738))
 - [cadCAD](https://github.com/cadCAD-org/cadCAD) - Design, simulate, validate, and operate within complex systems.
+- [asyncio-buffered-pipeline](https://github.com/michalc/asyncio-buffered-pipeline) - Parallelise pipelines of Python async iterables/generators. ([HN](https://news.ycombinator.com/item?id=24390116))
 
 ## Links
 

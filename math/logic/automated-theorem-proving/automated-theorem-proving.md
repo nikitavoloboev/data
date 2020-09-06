@@ -13,3 +13,4 @@
 - [Poi](https://github.com/advancedresearch/poi) - Pragmatic point-free theorem prover assistant. ([HN](https://news.ycombinator.com/item?id=23193859))
 - [STP](https://github.com/stp/stp) - Simple Theorem Prover, an efficient SMT solver for bitvectors.
 - [Posts in the category "Every proof assistant"](http://math.andrej.com/category/every-proof-assistant/)
+- [Graph Representations for Higher-Order Logic and Theorem Proving (2019)](https://arxiv.org/abs/1905.10006) ([HN](https://news.ycombinator.com/item?id=24389058))

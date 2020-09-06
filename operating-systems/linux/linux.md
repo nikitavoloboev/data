@@ -167,3 +167,4 @@
 - [Introduction to Linux commands and Shell scripting](https://github.com/learnbyexample/Linux_command_line)
 - [Linux From Scratch!](http://www.linuxfromscratch.org/index.html) ([HN](https://news.ycombinator.com/item?id=24350738))
 - [The Linux development process: Is it worth the hassle? (2020)](https://blog.usejournal.com/the-linux-development-process-is-it-worth-the-hassle-4f09d7ff09a2)
+- [How to take back control of /etc/resolv.conf on Linux (2018)](https://www.ctrl.blog/entry/resolvconf-tutorial.html) ([HN](https://news.ycombinator.com/item?id=24390053))

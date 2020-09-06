@@ -113,3 +113,4 @@
 - [Using Vim for C++ Development](https://gist.github.com/p1v0t/42a34744b5e4f5980e5f4e1c980ec859) ([HN](https://news.ycombinator.com/item?id=24363225))
 - [Where do I find the current C or C++ standard documents?](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents/83763#83763)
 - [New safety rules in C++ Core Check (2020)](https://devblogs.microsoft.com/cppblog/new-safety-rules-in-c-core-check/)
+- [HN: C++20 has been approved (2020)](https://news.ycombinator.com/item?id=24389549)
