@@ -44,6 +44,7 @@ Here are few more things I liked, design wise.
 - [Dropbase](https://www.dropbase.io/)
 - [Failory](https://www.failory.com/)
 - [iA](https://ia.net/)
+- [Uniswap](https://uniswap.org/)
 
 ## Blogs
 
