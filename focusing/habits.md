@@ -36,3 +36,4 @@ Nowadays I learn new habits proactively by building systems and thought processe
 - [14 Habits of Highly Productive Developers](https://14habits.com/) ([HN](https://news.ycombinator.com/item?id=23831851))
 - [Ask HN: What’s your daily/weekly routine? (2020)](https://news.ycombinator.com/item?id=24029286)
 - [The Proof](https://www.theproofwellness.com/) - Wellness Advice from World-Class Founders.
+- [Make your habits zero-effort](https://www.benkuhn.net/zero/)

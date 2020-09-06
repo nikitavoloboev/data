@@ -10,6 +10,13 @@
 ## Notes
 
 - [Two traits of a good architecture: 1. It should nudge you to do things in a scalable way by default. You should only pay for what you use. 2. When something gets slow, there should be a straightforward way to fix it.](https://twitter.com/dan_abramov/status/1251864460526006273)
+- [Tips to build a better software system](https://news.ycombinator.com/item?id=24388753)
+  1. Incremental improvement - implement a small version that works in a basic use case, then extend. Don't build it all in once.
+  2. Reuse code. Don't reinvent the wheel
+  3. Five whys - get to the root cause of why something should be done by asking yourself why many times. Understand the problem well before acting.
+  4. Keep the solution as simple as possible. Minimization.
+  5. Perfection can't be reached, so don't aim there. Be as good as necessary.
+  6. Postpone complexity and introduce it only when really needed.
 
 ## Links
 
@@ -80,3 +87,4 @@
 - [Organizing architectural katas (2020)](https://nelis.boucke.be/post/architectural-katas/)
 - [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html) - Use it to create better and faster (IT)Architectures. OSS Tools, templates and more for solving IT problems using real open architecture tools that work. ([Code](https://github.com/nocomplexity/ArchitecturePlaybook))
 - [Multi-tenant Architectures (2020)](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html) ([HN](https://news.ycombinator.com/item?id=24324142))
+- [Principles for better design](https://reflexio.debec.eu/principles-for-better-design) ([HN](https://news.ycombinator.com/item?id=24388753))
