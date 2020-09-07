@@ -286,3 +286,4 @@
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) ([HN](https://news.ycombinator.com/item?id=24332303))
 - [Compose](https://github.com/FeatureLabs/compose) - Machine learning tool for automated prediction engineering. It allows you to structure prediction problems and generate labels for supervised learning.
 - [Daily scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
+- [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated papers, articles, and blogs on data science & machine learning in production.

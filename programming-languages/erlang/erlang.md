@@ -44,3 +44,4 @@
 - [Erlang dbg Intro (2020)](https://antranigv.am/weblog_en/posts/erlang-dbg-intro/) ([Lobsters](https://lobste.rs/s/sisfuf/erlang_dbg_intro))
 - [Concurrency In The Erlang VM (2020)](https://www.skcript.com/svr/concurrency-in-the-erlang-vm/)
 - [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html) ([HN](https://news.ycombinator.com/item?id=24173111))
+- [Avoiding GenServer bottlenecks (2018)](https://www.cogini.com/blog/avoiding-genserver-bottlenecks/)

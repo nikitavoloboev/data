@@ -11,3 +11,8 @@
 - [Awesome Geometric Algebra](https://awesome-geometric-algebra.rtfd.io/) ([Code](https://github.com/pygae/awesome-geometric-algebra))
 - [GAlgebra](https://github.com/pygae/galgebra) - Symbolic Geometric Algebra/Calculus package for SymPy.
 - [BiVector docs](https://bivector.net/) - Curated selection of documents aimed to appeal to computer scientists and CGI practitioners.
+- [clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python. ([HN](https://news.ycombinator.com/item?id=24382360))
+- [Overview of Geometric Algebra in Physics](http://geocalc.clas.asu.edu/html/Overview.html)
+- [Geometric Calculus Research & Development](http://geocalc.clas.asu.edu/)
+- [Applications of Clifford’s Geometric Algebra (2013)](https://arxiv.org/pdf/1305.5663.pdf)
+- [Hugo Hadfield and Eric Wieser explore how Conformal Geometric Algebra can be used to simplify robot kinematics (2020)](https://www.youtube.com/watch?v=bj9JslblYPU)

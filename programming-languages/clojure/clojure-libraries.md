@@ -22,6 +22,7 @@
 - [Vizns](https://github.com/SevereOverfl0w/vizns) - Visualize the relationships between your namespaces and dependencies.
 - [Clip](https://github.com/juxt/clip) - Light structure and support for dependency injection.
 - [Spyscope](https://github.com/dgrnbrg/spyscope) - Trace-oriented debugging tools for Clojure.
+- [Expound](https://github.com/bhb/expound) - Human-optimized error messages for clojure.spec.
 
 ## Links
 

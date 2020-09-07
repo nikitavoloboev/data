@@ -204,3 +204,5 @@
 - [The database I wish I had (2020)](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html) ([HN](https://news.ycombinator.com/item?id=24337244)) ([Lobsters](https://lobste.rs/s/m9vkg4/database_i_wish_i_had))
 - [Advanced Database Systems course by Andy Pavlo (2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
 - [sled simulation guide](https://sled.rs/simulation) - Contains basic information about deterministic testing of distributed, message-based, event-driven, or actor systems.
+- [Database of Databases](https://dbdb.io/) - Discover and learn about database management systems.
+- [DB-Engines](https://db-engines.com/en/) - Knowledge Base of Relational and NoSQL Database Management Systems.

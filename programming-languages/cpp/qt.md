@@ -10,3 +10,4 @@
 - [HN: Qt Could Go Proprietary, KDE Relationship and Qt-Based Free Software in Jeopardy (2020)](https://news.ycombinator.com/item?id=23375791)
 - [MXE (M cross environment)](https://github.com/mxe/mxe) - GNU Makefile that compiles a cross compiler and cross compiles many free libraries such as SDL and Qt.
 - [QmlBook](http://qmlbook.github.io/) - Book about Qt5. ([Code](https://github.com/qmlbook/qmlbook))
+- [Technical vision for Qt 6 (2019)](https://www.qt.io/blog/2019/08/07/technical-vision-qt-6)

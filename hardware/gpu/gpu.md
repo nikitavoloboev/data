@@ -19,3 +19,4 @@
 - [Nyuzi Processor](https://github.com/jbush001/NyuziProcessor) - Experimental GPGPU processor hardware design focused on compute intensive tasks. It is optimized for use cases like deep learning and image processing.
 - [Reyes Rendering on the GPU (2015)](https://markussteinberger.net/papers/GPUReyes.pdf) ([HN](https://news.ycombinator.com/item?id=23572626))
 - [Compressed GPU texture formats – a review and compute shader decoders (2020)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
+- [GPU Compute Basic Algorithms - MLIR](https://llvm.discourse.group/t/gpu-compute-basic-algorithms/1281)

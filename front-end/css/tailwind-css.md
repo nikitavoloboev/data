@@ -22,3 +22,4 @@
 - [Tailwind CSS Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Tailwind CSS plugin that adds variants for dark mode.
 - [The origin story of Tailwind (2020)](https://twitter.com/adamwathan/status/1289645193038192641) ([HN](https://news.ycombinator.com/item?id=24031290))
 - [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) ([Code](https://github.com/jenstornell/tailwind-gradient-designer))
+- [Tailwind Ink](https://tailwind.ink/) - AI color palette generator for TailwindCSS. ([HN](https://news.ycombinator.com/item?id=24397183)) ([Code](https://github.com/dmarman/dmarman.github.io))

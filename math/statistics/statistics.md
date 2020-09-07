@@ -52,3 +52,4 @@
 - [Causal Inference Book (2020)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [Sets and Probability](https://stopa.io/post/243)
 - [Non-Uniform Random Variate Generation (1986)](http://luc.devroye.org/rnbookindex.html)
+- [Bayesian Data Analysis course (2020)](https://avehtari.github.io/BDA_course_Aalto/)

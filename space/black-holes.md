@@ -17,3 +17,4 @@
 - [Why is light affected by black holes? (2020)](https://www.reddit.com/r/AskPhysics/comments/gjl29o/why_is_light_affected_by_black_holes/)
 - [Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order (2020)](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/) ([HN](https://news.ycombinator.com/item?id=23358777))
 - [Spotting Quantum Black Holes in the Lab (2020)](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715)
+- [SXS - Simulating eXtreme Spacetimes](https://www.black-holes.org/)

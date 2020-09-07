@@ -17,7 +17,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
 - [AWS practical guide](https://github.com/open-guides/og-aws)
-- [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) - Framework for defining cloud infrastructure in code.
+- [AWS Cloud Development Kit](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code. ([Web](https://aws.amazon.com/cdk/))
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
@@ -95,3 +95,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Using ProxyCannon-NG to Create Unlimited Rotating Proxies (2020)](https://iamstoxe.com/posts/using-proxycannon-ng-to-create-unlimited-rotating-proxies/)
 - [AWS Stash](https://awsstash.com/?) - Collection of AWS related videos, podcasts, code repositories, whitepapers, and feature releases, all in a single, easy to search interface.
 - [AWS Boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
+- [AWS CDK Intro Workshop](https://cdkworkshop.com/) ([Code](https://github.com/aws-samples/aws-cdk-intro-workshop))

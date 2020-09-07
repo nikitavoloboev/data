@@ -2,6 +2,7 @@
 
 ## CLI
 
+- [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
 - [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.

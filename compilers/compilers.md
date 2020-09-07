@@ -123,3 +123,4 @@
 - [GraalVM](https://github.com/oracle/graal) - Run Programs Faster Anywhere. ([Web](https://www.graalvm.org/)) ([HN](https://news.ycombinator.com/item?id=24103233))
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) ([Code](https://github.com/justinmeiners/lc3-vm))
 - [Deep learning for compilers (2020)](https://era.ed.ac.uk/handle/1842/36866)
+- [MLIR Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/Ch-1/)

@@ -21,3 +21,4 @@
 - [Safe/unsafe alignment in CSS flexbox (2020)](https://www.stefanjudis.com/today-i-learned/safe-unsafe-alignment-in-css-flexbox/)
 - [Mental model of Flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)
 - [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox. ([HN](https://news.ycombinator.com/item?id=24319989))
+- [Building Website Headers with CSS Flexbox (2020)](https://ishadeed.com/article/website-headers-flexbox/)

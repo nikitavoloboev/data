@@ -66,6 +66,7 @@ Below is a list of extensions I use.
 - [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer))
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
+- [Hero Icons](https://marketplace.visualstudio.com/items?itemName=afzalsayed96.heroicons) ([Code](https://github.com/afzalsayed96/vscode-heroicons))
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
 - [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.

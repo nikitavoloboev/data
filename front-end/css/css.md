@@ -203,3 +203,4 @@
 - [The Thing With Leading in CSS (2020)](https://matthiasott.com/notes/the-thing-with-leading-in-css)
 - [Bahunya](https://github.com/Kimeiga/bahunya) - 10KB classless CSS framework with responsive typography, navbar, syntax highlighting, etc. ([Web](https://kimeiga.github.io/bahunya/))
 - [Flowing Text Around Images](https://calebhearth.com/flowing-text-around-images) ([Lobsters](https://lobste.rs/s/w6xe29/flowing_text_around_images))
+- [Debugging CSS](https://debuggingcss.com/) - Book with lots of tips and techniques on how to debug CSS the right way with easy and studied methods.

@@ -88,3 +88,4 @@
 - [Animated TabBar](https://github.com/gorhom/react-native-animated-tabbar) - 60FPS animated tab bar with a variety of cool animation presets.
 - [React Native Directory](https://reactnative.directory/)
 - [react-native-template](https://github.com/echobind/react-native-template) - Echobind's template for React Native projects.
+- [React Native renderer based on Skia](https://github.com/Kudo/react-native-skia)

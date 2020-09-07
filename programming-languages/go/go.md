@@ -337,3 +337,4 @@ Go promotes composition over inheritance.
 - [An interesting mistake with Go's context package (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake) ([HN](https://news.ycombinator.com/item?id=24323564))
 - [Even in Go, concurrency is still not easy (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy) ([HN](https://news.ycombinator.com/item?id=24359650)) ([Lobsters](https://lobste.rs/s/ntati1/even_go_concurrency_is_still_not_easy_with))
 - [Learning Go notes](https://rmoff.net/2020/06/25/learning-golang-some-rough-notes-s01e00/)
+- [The Within Go Repo Layout (2020)](https://christine.website/blog/within-go-repo-layout-2020-09-07)

@@ -109,3 +109,4 @@
 - [Adding Dark Mode to a Next.js Site (2020)](https://johnpolacek.com/adding-dark-mode-to-nextjs-site)
 - [Next.js News newsletter](https://nextjsnews.com/)
 - [Next.js Conf](https://nextjs.org/conf)
+- [Bulletproof Next](https://getstarted.sh/bulletproof-next) - Be an expert in Next.js.

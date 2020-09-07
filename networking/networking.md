@@ -127,3 +127,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ask HN: How Belarus can keep connected despite internet blackout? (2020)](https://news.ycombinator.com/item?id=24129059)
 - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works))
 - [Peer-to-Peer Communication Across Network Address Translators](https://bford.info/pub/net/p2pnat/)
+- [25 Best CDN Providers 2020](https://haydenjames.io/best-cdn-providers/)

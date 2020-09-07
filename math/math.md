@@ -189,3 +189,4 @@
 - [MIT Math GitHub](https://github.com/mitmath) - Educational materials for MIT math courses.
 - [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming)
 - [Metamath](http://us.metamath.org/index.html) - Tiny language that can express theorems in abstract mathematics, accompanied by proofs that can be verified by a computer program.
+- [3Blue1Brown Learn Math Recommendations](https://www.3blue1brown.com/recommendations)

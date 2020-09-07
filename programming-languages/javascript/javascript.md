@@ -197,3 +197,4 @@
 - [Javascript Generators, Meet XPath (2020)](https://jack.wrenn.fyi/blog/xpath-for-2020/) ([Lobsters](https://lobste.rs/s/5fsljg/javascript_generators_meet_xpath))
 - [goja](https://github.com/dop251/goja) - ECMAScript 5.1(+) implementation in Go.
 - [Guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
+- [How I wrote the fastest JavaScript memoization library (2017)](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)

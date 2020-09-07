@@ -33,3 +33,5 @@
 - [73 and Web3](https://github.com/sagmom3/73-and-web3)
 - [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/)
 - [IPLD](https://ipld.io/) - Data model of the content-addressable web.
+- [Resources about the general concepts around decentralization (2020)](https://merveilles.town/@jrc03c/104823469834829652)
+- [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.
