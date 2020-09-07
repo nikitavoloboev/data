@@ -114,3 +114,4 @@
 - [Where do I find the current C or C++ standard documents?](https://stackoverflow.com/questions/81656/where-do-i-find-the-current-c-or-c-standard-documents/83763#83763)
 - [New safety rules in C++ Core Check (2020)](https://devblogs.microsoft.com/cppblog/new-safety-rules-in-c-core-check/)
 - [HN: C++20 has been approved (2020)](https://news.ycombinator.com/item?id=24389549) ([Reddit](https://www.reddit.com/r/cpp/comments/imzkl4/c20_has_been_approved/))
+- [Named Parameters in C++20 (2020)](https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/) ([HN](https://news.ycombinator.com/item?id=24398756))

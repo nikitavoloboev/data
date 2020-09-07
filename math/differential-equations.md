@@ -11,3 +11,4 @@
 - [MIT Differential Equations course (2020)](https://math.mit.edu/~dyatlov/18.03/)
 - [MIT Linear Partial Differential Equations: Analysis and Numerics (2016)](https://github.com/mitmath/18303/tree/fall16)
 - [MIT Numerical Methods for Partial Differential Equations (2006)](http://math.mit.edu/~stevenj/18.336/)
+- [An intuitive look at differential forms (2020)](https://medium.com/@luca.ambrogioni/an-intuitive-look-at-differential-forms-8b405f2429f0)

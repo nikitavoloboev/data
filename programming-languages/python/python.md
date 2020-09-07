@@ -168,3 +168,4 @@
 - [Learn Python 3 with Jupyter notebooks](https://github.com/jerry-git/learn-python3)
 - [Writing More Idiomatic and Pythonic Code (2020)](https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83) ([Lobsters](https://lobste.rs/s/nprial/writing_more_idiomatic_pythonic_code))
 - [Package and deploy Python apps faster with Poetry and Nix (2020)](https://www.youtube.com/watch?v=TbIHRHy7_JM)
+- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
