@@ -60,3 +60,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Tired of note-taking apps (2020)](https://akkshaya.blog/2020/07/19/note-taking/) ([HN](https://news.ycombinator.com/item?id=23888799))
 - [Inside a Collaborative Text Editor (2020)](https://caolan.uk/articles/inside-a-collaborative-text-editor/)
 - [I wrote the world's worst text editor (so you don't have to) (2020)](https://briancallahan.net/blog/20200816.html)
+- [My thoughts about editors in 2020](https://phaazon.net/blog/editors-in-2020) ([HN](https://news.ycombinator.com/item?id=24395863))

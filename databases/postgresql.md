@@ -134,3 +134,4 @@
 - [Postgres Tips And Tricks](https://pgdash.io/blog/postgres-tips-and-tricks.html)
 - [Bootstraping Postgres in your project (2020)](https://manzanit0.github.io/automation/2020/08/26/bootstraping-postgres-greenfield.html)
 - [How to use PostgreSQL's LISTEN/NOTIFY as a simple message queue with psycopg2 and asyncio](https://gist.github.com/kissgyorgy/beccba1291de962702ea9c237a900c79)
+- [PostgreSQL B-Tree index deduplication (2020)](https://blog.rustprooflabs.com/2020/09/postgres-beta3-btree-dedup) ([HN](https://news.ycombinator.com/item?id=24395825))
