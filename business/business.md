@@ -45,3 +45,4 @@ Learning to build [startups](startups/startups.md).
 - [Most Interesting Business Essay You’ve Read? (2020)](https://kscarrott.com/biz-essays/)
 - [Fire & Fawning (2020)](https://www.profgalloway.com/fire-fawning)
 - [Ask HN: Is a SaaS provider expected to have a trademark in every country? (2020)](https://news.ycombinator.com/item?id=24195375)
+- [Ask HN: Any well funded tech companies tackling big, meaningful problems? (2020)](https://news.ycombinator.com/item?id=24408324)
