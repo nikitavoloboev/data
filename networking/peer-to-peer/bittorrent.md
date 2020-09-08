@@ -33,3 +33,4 @@
 - [Introducing Web3Torrent (2020)](https://blog.statechannels.org/introducing-web3torrent/) ([HN](https://news.ycombinator.com/item?id=23602008))
 - [Chihaya](https://github.com/chihaya/chihaya) - Customizable, multi-protocol BitTorrent Tracker.
 - [Monitoring Torrents On Your Server (2020)](https://rmpr.xyz/Managing-torrents-on-your-server/) ([Lobsters](https://lobste.rs/s/qzogsg/monitoring_torrents_on_your_server))
+- [BitTorrent v2 (2020)](https://blog.libtorrent.org/2020/09/bittorrent-v2/) ([HN](https://news.ycombinator.com/item?id=24401999))

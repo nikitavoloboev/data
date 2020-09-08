@@ -236,3 +236,4 @@
 - [Ask HN: How to do cross platform GUI? (2020)](https://news.ycombinator.com/item?id=24242412)
 - [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code) ([HN](https://news.ycombinator.com/item?id=24325974))
 - [The Life of a Data Byte (2020)](https://queue.acm.org/detail.cfm?id=3419941)
+- [Ask HN: As a developer what are your aha moments? (2020)](https://news.ycombinator.com/item?id=24397272)
