@@ -9,7 +9,7 @@
 
 - [Roam White Paper](https://roamresearch.com/#/app/help/page/Vu1MmjinS)
 - [Roam Research MVP Review: Pages + Bullets = Cool New Product Category (2020)](https://medium.com/bloated-mvp/roam-research-mvp-review-pages-bullets-cool-new-product-category-28baf5dd0a3)
-- [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam) ([Tweet](https://twitter.com/patrickc/status/1301380574095929344))
+- [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam) ([Tweet](https://twitter.com/patrickc/status/1301380574095929344)) ([HN](https://news.ycombinator.com/item?id=22104366))
 - [Roam for Zettlekasting](https://roamresearch.com/#/v8/help/page/VURQiVZQR)
 - [Debate: Roam Research vs. Notion (2020)](https://capiche.com/q/debate-roam-research-vs-notion)
 - [Nat reveals the Roam setup that he uses to run his life (2020)](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix) ([Tweet](https://twitter.com/nbashaw/status/1255554080837005312))

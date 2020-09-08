@@ -138,3 +138,4 @@
 - [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks (2020)](https://blog.ml.cmu.edu/2020/08/14/high-frequency-component-helps-explain-the-generalization-of-convolutional-neural-networks/)
 - [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) - Curated list of neural network pruning resources.
 - [Hopfield Networks is All You Need (2020)](https://arxiv.org/abs/2008.02217)
+- [Sparse Networks from Scratch: Faster Training without Losing Performance (2019)](https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/)

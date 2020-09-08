@@ -70,3 +70,4 @@
 - [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 - [Clojure Reddit](https://www.reddit.com/r/Clojure/) - Has nice resources in sidebar.
 - [Using Clojure in Command Line with Babashka (2020)](https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html)
+- [Deep Diamond - Deep Learning in Clojure is Fast, Simpler than Keras (2020)](https://dragan.rocks/articles/20/Deep-Diamond-Deep-Learning-in-Clojure-is-Fast-and-Simpler-than-Keras)

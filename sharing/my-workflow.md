@@ -1,5 +1,7 @@
 # My Workflow
 
+Items with `TODO:` are up for evaluation.
+
 ## Life
 
 - [Rules](../focusing/rules.md) - Lessons learned encoded as rules.
@@ -76,6 +78,7 @@
 - Database - [Postgres](https://www.postgresql.org) or [SQLite](https://www.sqlite.org). Use [Prisma](https://www.prisma.io/) or [Hasura](https://hasura.io) for GraphQL access.
 - Auth (SSO, 2FA) - [Firebase](https://firebase.google.com/docs/auth) or [Prisma](https://v1.prisma.io/docs/1.2/reference/migration-guides/authentication-and-authorization-yaeco6ieth)
 - iOS/macOS apps - Swift/SwiftUI. Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
+- TODO: https://github.com/apex/rpc generate API clients
 
 ## Project tools
 

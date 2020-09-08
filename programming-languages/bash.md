@@ -40,4 +40,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Import](https://import.pw/) - Simple and Fast Module System for Bash and Other Unix Shells. ([HN](https://news.ycombinator.com/item?id=23864909))
 - [Intelligent Bash (ibash)](https://rdmp.org/dmbcs/i-bash)
 - [Functional programming in bash](https://github.com/ssledz/bash-fun) ([Slides](https://ssledz.github.io/presentations/bash-fun.html#/))
-- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls)
+- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) ([Lobsters](https://lobste.rs/s/1vqimp/bash_pitfalls))

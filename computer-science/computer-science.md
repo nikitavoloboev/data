@@ -7,7 +7,7 @@
 ## Links
 
 - [The Church-Turing Thesis: Story and Recent Progress](https://www.youtube.com/watch?v=QlYJz1B5XLU)
-- [Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
+- [Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Learn CS in 5 months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
 - [Making a computer Turing complete](https://www.youtube.com/watch?v=AqNDk_UJW4k)
 - [What Is Abstraction in Computer Science](https://www.youtube.com/watch?v=_y-5nZAbgt4)

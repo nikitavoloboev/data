@@ -287,3 +287,4 @@
 - [Compose](https://github.com/FeatureLabs/compose) - Machine learning tool for automated prediction engineering. It allows you to structure prediction problems and generate labels for supervised learning.
 - [Daily scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated papers, articles, and blogs on data science & machine learning in production.
+- [Understanding Convolution in Deep Learning (2015)](https://timdettmers.com/2015/03/26/convolution-deep-learning/)

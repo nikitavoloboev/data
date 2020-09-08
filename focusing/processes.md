@@ -13,3 +13,7 @@
 ## Read
 
 1. Read. Note anything interesting.
+
+## Understand code
+
+1. Read contribution guidelines. Understand problem being solved. Understand data model.

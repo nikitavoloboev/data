@@ -11,7 +11,7 @@
 - [Planck](https://github.com/planck-repl/planck) - Stand-alone ClojureScript REPL.
 - [Code-Splitting ClojureScript (2019)](https://code.thheller.com/blog/shadow-cljs/2019/03/03/code-splitting-clojurescript.html)
 - [learn re-frame](https://www.learnreframe.com/) - Paid course.
-- [A Tool For Thought (2016)](http://swannodette.github.io/2016/06/03/tools-for-thought)
+- [A Tool For Thought (2016)](http://swannodette.github.io/2016/06/03/tools-for-thought) ([HN](https://news.ycombinator.com/item?id=11834131))
 - [Create CLJS App](https://github.com/filipesilva/create-cljs-app) - Create ClojureScript apps with a single command.
 - [uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.
 - [Learn Reagent Free](https://www.jacekschae.com/courses/learn-reagent-free/)
