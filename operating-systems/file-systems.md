@@ -16,3 +16,4 @@
 - [Writing a file system from scratch in Rust (2020)](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html) ([Lobsters](https://lobste.rs/s/8ipzof/writing_file_system_from_scratch_rust)) ([HN](https://news.ycombinator.com/item?id=23967016))
 - [Filesystem deduplication is a sidechannel](https://mjg59.dreamwidth.org/55638.html) ([Lobsters](https://lobste.rs/s/bhuaxo/filesystem_deduplication_is))
 - [Files by Dan Luu (2019)](https://www.deconstructconf.com/2019/dan-luu-files)
+- [Non-POSIX file systems (2020)](https://weinholt.se/articles/non-posix-filesystems/) ([Lobsters](https://lobste.rs/s/bed7wm/non_posix_file_systems)) ([HN](https://news.ycombinator.com/item?id=24412970))
