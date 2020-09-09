@@ -157,4 +157,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [What happens when you load a URL?](https://danluu.com/navigate-url/)
 - [A Short Guide to Minimal Web Development (2018)](https://meiert.com/en/blog/minimal-web-development/) ([HN](https://news.ycombinator.com/item?id=24294171))
 - [33 Web Development Terms You May Not Have Heard Of (2020)](https://meiert.com/en/blog/33-web-development-terms/)
-- [Fluid Framework](https://github.com/microsoft/FluidFramework) - TypeScript library for building distributed, real-time collaborative web applications. ([Web](https://fluidframework.com/))
+- [Fluid Framework](https://github.com/microsoft/FluidFramework) - TypeScript library for building distributed, real-time collaborative web applications. ([Web](https://fluidframework.com/)) ([Docs](https://fluidframework.com/docs/)) ([Playground](https://fluidframework.com/playground/?path=/story/welcome--page))
