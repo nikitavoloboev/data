@@ -90,14 +90,14 @@
 - [Google Domains](https://domains.google) - Domain purchase, handling. Gives you free email forwarding.
 - TODO: [Linear](https://linear.app/) is nice but GitHub is better integrated and is free. Just needs Linear level client.
 
-## Cloud
+## Cloud Compute
 
-- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) - Cloud services.
-- [G Suite](https://gsuite.google.com)
+- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) depending on service needed. GCP interface is nicer.
 
 ## Utility
 
 - [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
+- TODO: [G Suite](https://gsuite.google.com) not that useful compared to Notion. Can get email for free with email forwarding.
 
 ## React
 
