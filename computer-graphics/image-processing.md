@@ -43,3 +43,4 @@
 - [VICAR](https://github.com/nasa/VICAR/) - Multi-dimensional image processing software. ([HN](https://news.ycombinator.com/item?id=24026778))
 - [Parallel Seam Carving (2020)](https://shwestrick.github.io/2020/07/29/seam-carve.html) ([HN](https://news.ycombinator.com/item?id=24117330))
 - [Image Resizing by Seam Carving (2017)](https://www.youtube.com/watch?v=6NcIJXTlugc)
+- [AVIF has landed (2020)](https://jakearchibald.com/2020/avif-has-landed/) ([Lobsters](https://lobste.rs/s/hjz9uo/avif_has_landed)) ([HN](https://news.ycombinator.com/item?id=24407241))

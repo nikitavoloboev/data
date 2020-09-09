@@ -16,4 +16,4 @@
 
 ## Understand code
 
-1. Read contribution guidelines. Understand problem being solved. Understand data model.
+1. Read contribution guidelines. Understand problem being solved. Understand data model & data flow.
