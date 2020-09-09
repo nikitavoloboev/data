@@ -8,11 +8,11 @@ Make the best tool for learning anything and sharing ideas. Release website, mob
 
 ## Healthy mind/body
 
-Eat healthy and exercise daily. Play more tennis. Work ergonomically.
+Eat healthy and exercise daily. Work ergonomically.
 
 ## Learn what matters. Solve problems.
 
-Understand tech & tools I use deeply. Build, explore the tech. Solve problems & write about what I learned.
+Understand tools I use deeply. Solve problems & write about what I learned.
 
 ## Eradicate complexity/waste. Streamline actions.
 

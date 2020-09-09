@@ -1,7 +1,5 @@
 # My Workflow
 
-Items with `TODO:` are up for evaluation.
-
 ## Life
 
 - [Rules](../focusing/rules.md) - Lessons learned encoded as rules.
@@ -78,21 +76,28 @@ Items with `TODO:` are up for evaluation.
 - Database - [Postgres](https://www.postgresql.org) or [SQLite](https://www.sqlite.org). Use [Prisma](https://www.prisma.io/) or [Hasura](https://hasura.io) for GraphQL access.
 - Auth (SSO, 2FA) - [Firebase](https://firebase.google.com/docs/auth) or [Prisma](https://v1.prisma.io/docs/1.2/reference/migration-guides/authentication-and-authorization-yaeco6ieth)
 - iOS/macOS apps - Swift/SwiftUI. Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
+- Docs - [GitBook](https://www.gitbook.com)
 - TODO: [apex/rpc](https://github.com/apex/rpc) generate API clients
 
 ## Project tools
 
-- [GitHub](https://github.com) - Code sharing & collaboration.
+- [GitHub](https://github.com) - Code sharing & collaboration. Issues & Roadmaps.
 - [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, Slack is ok.
-- [Notion](../tools/notion.md) - Everything wiki, collaboration.
+- [Notion](../tools/notion.md) - Everything wiki, collaboration. Company Docs.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
-- [Linear](https://linear.app/) - Keyboard friendly. Great to track group tasks. Use it for non code projects (as GitHub issues are good).
-- [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
-- [Google Domains](https://domains.google) - Domain purchase, handling. Gives you free email forwarding.
-- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) - Cloud services.
-- [Loom](https://www.loom.com/) - Video screen sharing.
+- [Loom](https://www.loom.com/) - Video screen sharing & collaboration.
 - [Metabase](https://www.metabase.com/) - Quick insights/analytics from data. Hooks up to Postgres easily & lets you run intuitive queries & make dashboards.
+- [Google Domains](https://domains.google) - Domain purchase, handling. Gives you free email forwarding.
+- TODO: [Linear](https://linear.app/) is nice but GitHub is better integrated and is free. Just needs Linear level client.
+
+## Cloud
+
+- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) - Cloud services.
 - [G Suite](https://gsuite.google.com)
+
+## Utility
+
+- [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
 
 ## React
 

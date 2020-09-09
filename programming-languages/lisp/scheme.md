@@ -27,3 +27,4 @@
 - [CHICKEN User's Manual](http://wiki.call-cc.org/man/5/The%20User%27s%20Manual)
 - [Scheme C FFI](https://github.com/Mathieu-Desrochers/Schemings) ([HN](https://news.ycombinator.com/item?id=23860977))
 - [SICP done in Scheme](https://github.com/kana/sicp)
+- [Loko Scheme](https://scheme.fail/) - Optimizing R6RS Scheme compiler.

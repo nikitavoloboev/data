@@ -307,3 +307,4 @@
 - [Understanding and Evolving the Rust Programming Language (2020)](https://people.mpi-sws.org/~jung/thesis.html) ([Reddit](https://www.reddit.com/r/rust/comments/ilwkrl/my_rusty_phd_thesis_is_finally_done/))
 - [If you want performance, cheat (2020)](https://vorner.github.io/2020/09/03/performance-cheating.html)
 - [C++ vs Rust: an async Thread-per-Core story (2020)](https://medium.com/@glaubercosta_11125/c-vs-rust-an-async-thread-per-core-story-28c4b43c410c)
+- [Peeking inside a Rust enum (2020)](https://fasterthanli.me/articles/peeking-inside-a-rust-enum)

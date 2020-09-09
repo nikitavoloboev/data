@@ -9,11 +9,9 @@ Supplements I take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr
 - [Vegan Omega 3 DHA & EPA](https://www.amazon.com/VEGAN-OMEGA-Supplement-Cardiovascular-Supplements/dp/B01MYE95BQ) (1 capsule)
 - [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
 
-From these, Magnesium & Vitamin D3 are the more important supplements. I take all with breaks.
+From these, Magnesium & Vitamin D3 are the more important supplements.
 
-As I try get everything I need from eating [whole food plant based food](foods.md) naturally.
-
-I try to minimize the number of things my body has to process and maximize the quality of food I eat (natural, whole food). I also fast but not routinely.
+I try to minimize the number of things my body has to process to bare essentials. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely.
 
 ## Interesting
 

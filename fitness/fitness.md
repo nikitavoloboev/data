@@ -1,10 +1,12 @@
 # Fitness
 
-I currently do daily bodyweight exercises in form of situps & pushups. I also do cardio exercise daily either by running, cycling or walking.
+I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio in form of running or cycling.
 
-I never sit for prolonged times & take breaks standing or walking around.
+My preferred way to exercise is to play Tennis.
 
-I also enjoy playing sports like football.
+I also listen to [podcasts](../podcasts/podcasts.md) unless it's some team support like football.
+
+I try to not sit for prolonged times (by using a standing desk or taking breaks).
 
 ## Notes
 

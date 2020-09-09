@@ -12,6 +12,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 
 ## Bot libraries
 
+- [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf))
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.

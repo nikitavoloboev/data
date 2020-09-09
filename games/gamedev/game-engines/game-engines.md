@@ -44,6 +44,7 @@
 - [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
 - [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
 - [PlayCanvas](https://playcanvas.com/) - WebGL Game Engine. ([HN](https://news.ycombinator.com/item?id=24018097))
+- [Excalibur](https://github.com/excaliburjs/Excalibur) - Simple 2D HTML5 game engine written in TypeScript.
 
 ## Physics engines
 

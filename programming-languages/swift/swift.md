@@ -131,9 +131,9 @@
 - [100 Days of Swift](https://www.hackingwithswift.com/100)
 - [Swift Knowledge Base - Swift example code](https://www.hackingwithswift.com/example-code)
 - [Swift in Sixty Seconds](https://www.hackingwithswift.com/sixty)
-- [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
-- [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials.
+- [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials. ([Code](https://github.com/twostraws/HackingWithSwift))
 - [Hacking with Swift+](https://www.hackingwithswift.com/plus)
+- [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
 - [Awesome Swift NIO](https://github.com/slashmo/awesome-swift-nio)
 - [Swiftly Speaking: Chris Lattner interview (2020)](https://www.youtube.com/watch?v=OAaQhW4ifu0)
 - [Swift optimization notes](https://github.com/kelvin13/png/blob/master/benchmarks/README.md)

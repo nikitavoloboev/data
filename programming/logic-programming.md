@@ -9,3 +9,4 @@
 - [Datalog in Haskell](https://github.com/travitch/datalog) - Pure Haskell implementation of Datalog, as a library.
 - ["Constraint Logic Propagation Conflict Spreadsheets" by William Taysom (2015)](https://www.youtube.com/watch?v=voG5-15aDu4)
 - [Ceptre](https://github.com/chrisamaphone/interactive-lp) - Tiny logic programming language for prototyping rulesets that you can run, interact with, and analyze.
+- [TouIST](https://github.com/touist/touist) - Language for propositional logic. ([Web](https://www.irit.fr/TouIST/))
