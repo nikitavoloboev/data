@@ -65,3 +65,4 @@
 - [SQL Templates](https://popsql.com/sql-templates)
 - [PopSQL](https://popsql.com/) - Collaborative SQL editor for teams.
 - [Nested SQL Queries](https://leontrolski.github.io/nested-sql.html)
+- [GlueSQL](https://github.com/gluesql/gluesql) - SQL Database Engine as a Library.

@@ -179,3 +179,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
 - [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) ([HN](https://news.ycombinator.com/item?id=24268382))
 - [Andy's Note-writing stream (2020)](https://www.youtube.com/watch?v=DGcs4tyey18)
+- [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
