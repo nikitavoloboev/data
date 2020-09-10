@@ -35,3 +35,4 @@
 - [backspace.ai](https://backspace.ai/) - Fun resource to start playing with formal programming languages.
 - [Formulog: ML + Datalog + SMT (2020)](http://www.weaselhat.com/2020/08/07/formulog-ml-datalog-smt/)
 - [An introduction to Formal Verification for Software Systems (2020)](https://www.moritz.systems/blog/an-introduction-to-formal-verification/)
+- [Proof Engineering](https://proofengineering.org/) - Specifying, building, verifying, and maintaining software systems using proof assistants such as Coq, Isabelle/HOL, and HOL4.

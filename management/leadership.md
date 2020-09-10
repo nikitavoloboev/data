@@ -7,3 +7,4 @@
 - [Leadership Library for Engineers](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
 - [Ask HN: What makes a good technical leader – any recommended books? (2020)](https://news.ycombinator.com/item?id=23759547)
 - [Don't Create Chaos (2020)](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html) ([HN](https://news.ycombinator.com/item?id=23906172))
+- [The surprising traits of good remote leaders (2020)](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) ([HN](https://news.ycombinator.com/item?id=24431169))

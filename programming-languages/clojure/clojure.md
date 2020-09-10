@@ -71,3 +71,4 @@
 - [Clojure Reddit](https://www.reddit.com/r/Clojure/) - Has nice resources in sidebar.
 - [Using Clojure in Command Line with Babashka (2020)](https://www.karimarttila.fi/clojure/2020/09/01/using-clojure-in-command-line-with-babashka.html)
 - [Deep Diamond - Deep Learning in Clojure is Fast, Simpler than Keras (2020)](https://dragan.rocks/articles/20/Deep-Diamond-Deep-Learning-in-Clojure-is-Fast-and-Simpler-than-Keras)
+- [What Clojure Spec is and what you can do with it (2020)](https://www.pixelated-noise.com/blog/2020/09/10/what-spec-is/) ([HN](https://news.ycombinator.com/item?id=24432461))
