@@ -169,3 +169,4 @@
 - [Writing More Idiomatic and Pythonic Code (2020)](https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83) ([Lobsters](https://lobste.rs/s/nprial/writing_more_idiomatic_pythonic_code))
 - [Package and deploy Python apps faster with Poetry and Nix (2020)](https://www.youtube.com/watch?v=TbIHRHy7_JM)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+- [Sync vs. Async Python: What Is the Difference? (2020)](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference) ([HN](https://news.ycombinator.com/item?id=24427978))
