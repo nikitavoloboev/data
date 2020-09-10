@@ -28,3 +28,4 @@
 - [Overcoming impostor syndrome, introducing growth to an org, and how to partner with your Data Scientist (2019)](https://www.lennyrachitsky.com/p/this-week-overcoming-impostor-syndrome)
 - [Best active technology product managers (2020)](https://twitter.com/patrick_oshag/status/1294319157148889089)
 - [Five things I believe now about product work (2020)](https://twitter.com/shreyas/status/1296306987886505985)
+- [Awesome Product Management](https://github.com/dend/awesome-product-management)
