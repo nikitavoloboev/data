@@ -104,3 +104,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Got Your Back](https://www.gotyourback.space/) - Collection of virtual backdrops for use in video call apps.
 - [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/evm/) ([HN](https://news.ycombinator.com/item?id=24362525))
 - [Create a Golang Video Streaming Server Using HLS (2020)](https://qvault.io/2020/09/04/golang-video-stream-server/)
+- [Clipchamp](https://clipchamp.com/en/) - Convert videos to MP4. Compress and edit videos. Record with your webcam and collect videos from others.

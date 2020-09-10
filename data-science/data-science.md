@@ -17,7 +17,7 @@
 - [Data Science Cheat Sheet](https://github.com/ml874/Data-Science-Cheatsheet)
 - [Our world in data](https://ourworldindata.org/science-and-research)
 - [Free data science books](https://github.com/chaconnewu/free-data-science-books)
-- [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale.
+- [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale. ([Web](https://www.pachyderm.com/)) ([Pachyderm Hub](https://hub.pachyderm.com/landing))
 - [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets)
 - [Data Science in Visual Studio Code using Neuron, a new VS Code extension (2018)](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/10/29/data-science-in-visual-studio-code-using-neuron-a-new-vs-code-extension/)
 - [Virgilio](https://github.com/clone95/Virgilio) - Mentor for Data Science E-Learning.

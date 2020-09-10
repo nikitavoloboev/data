@@ -34,3 +34,7 @@
 - [SiFive Core IP 20G1](https://www.sifive.com/blog/sifive-core-ip-20g1) ([HN](https://news.ycombinator.com/item?id=23983704))
 - [RISC-V from scratch](https://twilco.github.io/riscv-from-scratch/2019/03/10/riscv-from-scratch-1.html) ([Code](https://github.com/twilco/riscv-from-scratch))
 - [PicoRio Linux RISC-V SBC is an open-source alternative to Raspberry Pi board (2020)](https://www.cnx-software.com/2020/09/04/picorio-linux-risc-v-sbc-is-an-open-source-alternative-to-raspberry-pi-board/) ([HN](https://news.ycombinator.com/item?id=24378758))
+- [PicoRV32](https://github.com/cliffordwolf/picorv32) - Size-Optimized RISC-V CPU.
+- [SERV](https://github.com/olofk/serv) - Award-winning bit-serial RISC-V core.
+- [SweRVolf](https://github.com/chipsalliance/Cores-SweRVolf) - FuseSoC-based SoC for the SweRV RISC-V core.
+- [mor1kx](https://github.com/openrisc/mor1kx) - OpenRISC 1000 processor IP core.

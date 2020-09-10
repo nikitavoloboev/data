@@ -42,3 +42,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [HN: Popular seafood species in sharp decline around the world (2020)](https://news.ycombinator.com/item?id=24199767)
 - [Emitwise](https://www.emitwise.com/) - Monitor & manage your carbon footprint.
 - [Future Planet](https://www.bbc.com/future/future-planet)
+- [The path to net zero – Climate Assembly UK full report](https://www.climateassembly.uk/report/)

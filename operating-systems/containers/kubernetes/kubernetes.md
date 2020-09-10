@@ -218,3 +218,4 @@
 - [HyScale](https://github.com/hyscale/hyscale) - Abstraction framework over Kubernetes. ([HN](https://news.ycombinator.com/item?id=24270669))
 - [Kubernetes: Make your services faster by removing CPU limits (2020)](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) ([HN](https://news.ycombinator.com/item?id=24351566))
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.
+- [Kubernetes YAML Generator](https://k8syaml.com/) ([HN](https://news.ycombinator.com/item?id=24419441))

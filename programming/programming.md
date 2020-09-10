@@ -238,3 +238,5 @@
 - [The Life of a Data Byte (2020)](https://queue.acm.org/detail.cfm?id=3419941)
 - [Ask HN: As a developer what are your aha moments? (2020)](https://news.ycombinator.com/item?id=24397272)
 - [Curated list of falsehoods programmers believe](https://github.com/kdeldycke/awesome-falsehood) ([HN](https://news.ycombinator.com/item?id=24405941))
+- [Signals & Threads Podcast](https://signalsandthreads.com/)
+- [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/) ([Lobsters](https://lobste.rs/s/jyyuhn/decision_table_patterns))

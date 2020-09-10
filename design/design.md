@@ -130,3 +130,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Neuralink Chip vector artwork](https://www.figma.com/community/file/882308473299123804)
 - [Mailbox UI](https://twitter.com/taylorlapeyre/status/1300589868603465733)
 - [To design and develop an interactive globe (2020)](https://stripe.com/blog/globe) ([HN](https://news.ycombinator.com/item?id=24350546))
+- [lookup.design](https://lookup.design/) - Find UI Design Examples.

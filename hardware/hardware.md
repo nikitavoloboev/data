@@ -84,3 +84,6 @@
 - [Home Lab Beginners guide (2020)](https://haydenjames.io/home-lab-beginners-guide-hardware/) ([HN](https://haydenjames.io/home-lab-beginners-guide-hardware/))
 - [Low-level details of the Zen 2 microarchitecture (2020)](https://www.agner.org/optimize/microarchitecture.pdf)
 - [Instructables](https://www.instructables.com/) - Community for people who like to make things.
+- [Programmable hardware with Andy Ray](https://overcast.fm/+hrS6lAIsM) ([Transcript](https://signalsandthreads.com/programmable-hardware/))
+- [FuseSoC](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development. ([FuseSoC standard core library](https://github.com/fusesoc/fusesoc-cores))
+- [Chips (Common Hardware for Interfaces, Processors and Systems) Alliance](https://chipsalliance.org/) - Develops high-quality, open source hardware designs relevant to silicon devices and FPGAs.

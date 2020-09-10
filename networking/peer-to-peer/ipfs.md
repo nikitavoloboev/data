@@ -35,3 +35,4 @@ I especially like the distinction of distributing content over distributing link
 - [Deploying This Site with IPFS and Scheme (2020)](https://elais.codes/deploying-this-site-with-ipfs-and-scheme.html) ([Lobsters](https://lobste.rs/s/fitmtb/deploying_this_site_with_ipfs_scheme))
 - [I built an IPFS crawler with libp2p (2020)](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler) ([HN](https://news.ycombinator.com/item?id=23515997))
 - [Blog Restructure and IPFS (2020)](https://deedlefake.com/blog-restructure-and-ipfs.html)
+- [IPSE](https://www.ipse.io/) - IPFS Search Engine. Distributed Search.

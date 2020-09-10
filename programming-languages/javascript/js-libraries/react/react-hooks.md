@@ -4,6 +4,7 @@
 
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
+- [Jotai](https://github.com/react-spring/jotai) - Primitive, flexible state management for React.
 
 ## Other
 

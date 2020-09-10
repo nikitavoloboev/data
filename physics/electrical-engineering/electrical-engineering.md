@@ -34,3 +34,4 @@
 - [3D Printing Integrated Circuits: What's Possible Now and in the Future? (2019)](https://www.nano-di.com/blog/2019-3d-printing-integrated-circuits-whats-possible-now-and-in-the-future) ([HN](https://news.ycombinator.com/item?id=24119102))
 - [An Analog IC Design Book Draft (2020)](https://hackaday.com/2020/08/31/an-analog-ic-design-book-draft/)
 - [Zachtronics Kohctpyktop game](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
+- [Edalize](https://github.com/olofk/edalize) - Python Library for interacting with EDA tools.

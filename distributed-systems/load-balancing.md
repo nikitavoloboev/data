@@ -14,3 +14,4 @@
 - [Examining Load Balancing Algorithms with Envoy (2020)](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c)
 - [Convey](https://github.com/bparli/convey) - Layer 4 load balancer with dynamic configuration loading.
 - [Dropbox posts on load balancing](https://twitter.com/copyconstruct/status/1293796261414371330)
+- [Awesome Load Balancing](https://github.com/cristaloleg/awesome-load-balancing)

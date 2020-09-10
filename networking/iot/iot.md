@@ -39,3 +39,4 @@
 - [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 - [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
 - [Octopi](https://octopi.chalmers.se/) - Research effort for creating an environment in which secure internet-of-things can be developed.
+- [Connected Home over IP](https://github.com/project-chip/connectedhomeip) - Working Group to develop and promote the adoption of a new, royalty-free connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. ([Web](https://www.connectedhomeip.com/))
