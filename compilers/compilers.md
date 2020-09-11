@@ -48,7 +48,6 @@
 - [GRIN](https://github.com/grin-compiler/grin) - Compiler back-end for lazy and strict functional languages with whole program optimization support. ([Website](https://grin-compiler.github.io/))
 - [Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Listing of compiler, language and runtime teams for people looking for jobs in this area](https://github.com/mgaudet/CompilerJobs)
-- [Basics of Compiler Design](httwp://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
 - [Computer Language Engineering course (2019)](https://github.com/6035/fa19)
 - [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
 - [Dive into Deep Learning Compiler](http://tvm.d2l.ai/)
@@ -76,7 +75,7 @@
 - [Let's Build A Simple Interpreter](https://github.com/rspivak/lsbasi)
 - [Introduction to Static Analysis - An Abstract Interpretation Perspective (2020)](https://mitpress.mit.edu/books/introduction-static-analysis)
 - [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) ([HN](https://news.ycombinator.com/item?id=22679138)) ([Lobsters](https://lobste.rs/s/dw9qyv/zig_cc_powerful_drop_replacement_for_gcc))
-- [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
+- [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/) ([HN](https://news.ycombinator.com/item?id=21778546)) ([PDF](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf))
 - [Modern Compiler Implementation in ML book (1998)](https://www.cs.princeton.edu/~appel/modern/ml/) ([Rust code](https://github.com/antoyo/tiger-rs))
 - [Efficient Deconstruction with Typed Pointer Reversal (2019)](https://hal.inria.fr/hal-02177326v2)
 - [Scripts for building compilers that run anywhere, which build things that run anywhere](https://github.com/theopolis/build-anywhere)

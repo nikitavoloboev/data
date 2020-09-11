@@ -131,3 +131,4 @@
 - [Towards Fast, Accurate and Stable 3D Dense Face Alignment](https://github.com/cleardusk/3DDFA_V2)
 - [Hivemind](https://github.com/learning-at-home/hivemind) - Library to train large neural networks across the internet. Imagine training one huge transformer on thousands of computers from universities, companies, and volunteers.
 - [Prediction and Policy-learning Under Uncertainty (PPUU)](https://github.com/Atcold/pytorch-PPUU)
+- [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.

@@ -57,3 +57,4 @@
 - [PVDH Lab](https://pvdhlab.org/) - Stem cell and Developmental neurobiology.
 - [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech) ([HN](https://news.ycombinator.com/item?id=24262336))
 - [Europe’s biotech renaissance (2020)](https://www.nature.com/articles/s41587-020-0483-6)
+- [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
