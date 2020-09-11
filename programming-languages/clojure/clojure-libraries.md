@@ -23,6 +23,7 @@
 - [Clip](https://github.com/juxt/clip) - Light structure and support for dependency injection.
 - [Spyscope](https://github.com/dgrnbrg/spyscope) - Trace-oriented debugging tools for Clojure.
 - [Expound](https://github.com/bhb/expound) - Human-optimized error messages for clojure.spec.
+- [Meander](https://github.com/noprompt/meander) - Tools for transparent data transformation.
 
 ## Links
 

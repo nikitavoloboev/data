@@ -77,3 +77,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [What I Learnt From Reviewing 22 CVs (2020)](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html) ([HN](https://news.ycombinator.com/item?id=23757585))
 - [Résumé Templates](https://www.figma.com/community/file/827002814255067977)
 - [Ask HN: What do you want to see in a resume / GitHub profile? (2020)](https://news.ycombinator.com/item?id=23780236)
+- [How to Build an Effective Dev Portfolio (2020)](https://joshwcomeau.com/effective-portfolio/)

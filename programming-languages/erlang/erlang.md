@@ -45,3 +45,4 @@
 - [Concurrency In The Erlang VM (2020)](https://www.skcript.com/svr/concurrency-in-the-erlang-vm/)
 - [LFE: Lisp Flavored Erlang](https://lfe.io/books/tutorial/index.html) ([HN](https://news.ycombinator.com/item?id=24173111))
 - [Avoiding GenServer bottlenecks (2018)](https://www.cogini.com/blog/avoiding-genserver-bottlenecks/)
+- [Scaling Erlang Developer Experience at WhatsApp (2020)](https://codesync.global/uploads/media/activity_slides/0001/03/f2292f201aa6b04db8c4e0b9cfa191dd07c9ee14.pdf) ([HN](https://news.ycombinator.com/item?id=24443128))

@@ -23,3 +23,5 @@
 - [The origin story of Tailwind (2020)](https://twitter.com/adamwathan/status/1289645193038192641) ([HN](https://news.ycombinator.com/item?id=24031290))
 - [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) ([Code](https://github.com/jenstornell/tailwind-gradient-designer))
 - [Tailwind Ink](https://tailwind.ink/) - AI color palette generator for TailwindCSS. ([HN](https://news.ycombinator.com/item?id=24397183)) ([Code](https://github.com/dmarman/dmarman.github.io))
+- [Tailwind Studio](https://tailwind-studio.com/)
+- [Beginner Tailwind](https://beginnertailwind.com/) - Make good looking designs quickly. All without a single line of custom CSS.

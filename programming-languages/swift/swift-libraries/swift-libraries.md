@@ -414,6 +414,7 @@
 - [Prephirences](https://github.com/phimage/Prephirences) - Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
 - [SoulverCore](https://github.com/soulverteam/SoulverCore) - Powerful Swift framework for evaluating mathematical expressions.
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
+- [Stripe iOS SDK](https://github.com/stripe/stripe-ios)
 
 ## Other (not lib)
 
