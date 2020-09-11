@@ -198,6 +198,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 ## Notes
 
 - With Audible plans, you can do easy exchanges. Don’t love a book? Swap it for free, anytime.
+- [Kindle changed the way we read books and then… stopped there. I want social highlights, notes, flash cards, and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)](https://twitter.com/Altimor/status/1003408586553294856)
 
 ## Links
 
