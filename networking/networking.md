@@ -128,4 +128,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works))
 - [Peer-to-Peer Communication Across Network Address Translators](https://bford.info/pub/net/p2pnat/)
 - [25 Best CDN Providers 2020](https://haydenjames.io/best-cdn-providers/)
-- [How do Routers Work, Really? (2020)](https://kamila.is//teaching/how-routers-work/)
+- [How do Routers Work, Really? (2020)](https://kamila.is//teaching/how-routers-work/) ([HN](https://news.ycombinator.com/item?id=24435454))
+- [Building a better home network (2020)](https://kevin.burke.dev/kevin/building-a-better-home-network/) ([Lobsters](https://lobste.rs/s/cjpeek/building_better_home_network))

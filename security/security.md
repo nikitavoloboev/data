@@ -90,3 +90,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. ([Code](https://github.com/GTFOBins/GTFOBins.github.io)) ([Lobsters](https://lobste.rs/s/qtb9da/gtfobins))
 - [MinTOTP](https://github.com/susam/mintotp) - Minimal TOTP generator written in Python. ([Lobsters](https://lobste.rs/s/fzkwum/minimal_totp_generator_20_lines_python))
 - [Information Security Requires Strongly-Typed Actors and Theories (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418003)
+- [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)

@@ -61,4 +61,4 @@ Might give it a go sometime.
 - [Protesilaos Stavrou Emacs Blog](https://protesilaos.com/)
 - [WikEmacs](http://wikemacs.org/wiki/Main_Page)
 - [My Org Mode Flow (2020)](https://christine.website/blog/org-mode-flow-2020-09-08) ([Lobsters](https://lobste.rs/s/dqexwp/my_org_mode_flow))
-- [Emacs is special regarding UIs (2020)](https://lists.gnu.org/archive/html/emacs-devel/2020-09/msg00286.html) ([HN](https://news.ycombinator.com/item?id=24430108))
+- [Emacs is special regarding UIs (2020)](https://lists.gnu.org/archive/html/emacs-devel/2020-09/msg00286.html) ([HN](https://news.ycombinator.com/item?id=24430108)) ([Lobsters](https://lobste.rs/s/yvmkmt/emacs_is_very_special_regarding_uis))

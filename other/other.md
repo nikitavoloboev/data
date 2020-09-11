@@ -322,3 +322,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Big Desk Energy](https://www.bigdeskenergy.com/)
 - [Most-favorited Hacker News posts](https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis) ([HN](https://news.ycombinator.com/item?id=24351073))
 - [Tiny Factories](https://tinyfactories.space/) - Tribe of indie makers helping each other to ship products.
+- [Ask HN: What is your favorite motto? (2020)](https://news.ycombinator.com/item?id=24436135)
