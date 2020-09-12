@@ -47,3 +47,5 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: Is a SaaS provider expected to have a trademark in every country? (2020)](https://news.ycombinator.com/item?id=24195375)
 - [Ask HN: Any well funded tech companies tackling big, meaningful problems? (2020)](https://news.ycombinator.com/item?id=24408324)
 - [Ask HN: What did you do to improve your company? (2020)](https://news.ycombinator.com/item?id=24398077)
+- [Gumroad Public Wiki](https://www.notion.so/Public-Wiki-72663c59ed5a432a9d52accafd8f166e)
+- [Buttondown Running Costs](https://www.notion.so/Running-Costs-f29729ded5494272947f656440967cbf)

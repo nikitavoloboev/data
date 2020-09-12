@@ -43,3 +43,4 @@
 - [Make It Clear book](https://mitpress.mit.edu/books/make-it-clear) - Speak and Write to Persuade and Inform.
 - [What to talk about in 1:1s](https://wizardzines.com/comics/1-1s/)
 - [GitHub’s Feedback Culture (2020)](https://codingsans.com/blog/feedback-culture)
+- [Benefit for going fully asynchronous (by Gumroad)](https://twitter.com/shl/status/1222545212477599751)

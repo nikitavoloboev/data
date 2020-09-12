@@ -10,6 +10,7 @@
 - [inDinero Help Center in Notion](https://support.indinero.com/inDinero-Help-Center-465343520bbe4af19f3b0144b70a1192) - Easy example of doing help/docs for company in Notion.
 - [Formik Docs](https://formik.org/blog/new-docs) - NextJS + Notion + TailwindCSS + AlgoliaSearch.
 - [Monzo](https://docs.monzo.com/#introduction)
+- [Expo](https://docs.expo.io/)
 
 ## Notes
 
