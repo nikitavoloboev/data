@@ -106,6 +106,10 @@
 
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
 
+## Payment
+
+- [Stripe Checkout](https://stripe.com/en-nl/payments/checkout)
+
 ## Git
 
 - [Sublime Merge](https://simgenie.app/) - Visual Git interface. Nice way to see changes + past commits.

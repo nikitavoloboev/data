@@ -34,3 +34,4 @@
 - [Guide: Make money building Shopify micro-SaaS apps (2020)](https://www.preetamnath.com/blog/building-your-first-micro-saas-app-on-shopify) ([HN](https://news.ycombinator.com/item?id=24261192))
 - [Shopify App CLI Tool: Build Apps Faster (2020)](https://www.shopify.com/partners/blog/cli-tool)
 - [Tens Sunglasses](https://tens.co/)
+- [Stripe Checkout](https://stripe.com/en-nl/payments/checkout)
