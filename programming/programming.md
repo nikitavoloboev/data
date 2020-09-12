@@ -240,3 +240,4 @@
 - [Curated list of falsehoods programmers believe](https://github.com/kdeldycke/awesome-falsehood) ([HN](https://news.ycombinator.com/item?id=24405941))
 - [Signals & Threads Podcast](https://signalsandthreads.com/)
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/) ([Lobsters](https://lobste.rs/s/jyyuhn/decision_table_patterns))
+- [Ask HN: I'm a terrible developer, what now? (2020)](https://news.ycombinator.com/item?id=24444705)
