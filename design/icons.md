@@ -41,3 +41,4 @@
 - [Bootstrap Icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [Teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons. ([Code](https://github.com/teenyicons/teenyicons))
 - [Material Design Icons](https://material.io/resources/icons/?style=baseline)
+- [React Icons](https://react-icons.github.io/react-icons/)

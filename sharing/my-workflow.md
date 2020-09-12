@@ -102,6 +102,10 @@
 
 - State Management - React useState/Context with [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx), [Urql](https://github.com/FormidableLabs/urql) or [Apollo](https://www.apollographql.com).
 
+## Design System
+
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+
 ## Git
 
 - [Sublime Merge](https://simgenie.app/) - Visual Git interface. Nice way to see changes + past commits.
