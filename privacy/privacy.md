@@ -53,3 +53,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Metomic](https://metomic.io/) - Privacy Tools for Developers.
 - [How Facebook and Other Sites Manipulate Your Privacy Choices (2020)](https://www.wired.com/story/facebook-social-media-privacy-dark-patterns/)
 - [Why Privacy Matters (2020)](https://thistooshallgrow.com/blog/privacy-security-roundup) ([HN](https://news.ycombinator.com/item?id=24341079))
+- [Nym](https://nymtech.net/) - Developing the infrastructure to prevent this data leakage and provide people with strong internet privacy.
