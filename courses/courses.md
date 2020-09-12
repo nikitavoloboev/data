@@ -21,3 +21,4 @@
 - [Meta Course](https://hyperlink.academy/courses/the-meta-course/1) - Course for creating great courses! We learn how to create learning structures specifically for the ideas and skills most interesting to us.
 - [Course Garden](https://forum.hyperlink.academy/c/course-garden/15) - Place to propose and workshop new course ideas.
 - [Disco](https://www.heydisco.com/) - Learn on the go with audio courses.
+- [Lynda Learning Paths](https://www.lynda.com/learning-paths/)
