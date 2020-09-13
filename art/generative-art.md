@@ -65,3 +65,4 @@
 - [Interview With Generative Artist Jared Tarbell (2020)](https://www.artnome.com/news/2020/8/24/interview-with-generative-artist-jared-tarbell)
 - [Moire Pattern](https://formmeetscode.in/blog/moire-pattern/)
 - [Generative Art with Context Free Grammars](https://www.leonrische.me/pages/generative_art_with_cfgs.html)
+- [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go. It is used to produce 2D vector graphics (think SVGs) depicting 3D scenes.
