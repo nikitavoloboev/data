@@ -80,6 +80,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [NicoHood](https://github.com/NicoHood/NicoHood.github.io/wiki)
 - [Sanyam Kapoor](https://www.sanyamkapoor.com/kb)
 - [Blake Robbins](https://blakeir.com/notes)
+- [Bismuth Garden](https://bismuth.garden/)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)

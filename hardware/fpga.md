@@ -18,3 +18,4 @@
 - [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards) ([Lobsters](https://lobste.rs/s/uqc8vi/cheap_fpga_development_boards))
 - [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA) ([HN](https://news.ycombinator.com/item?id=24252737))
 - [FPGA based mobile phone: Creating a truly open and trustable mobile communications device (2019)](https://www.youtube.com/watch?v=KuNB4ocZDXA)
+- [Reverse-engineering the first FPGA chip, the XC2064 (2020)](http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)

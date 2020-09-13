@@ -23,3 +23,4 @@ I share some [recipes I like](recipes.md).
 - [5 Easy Veggie-Based Meals: Quarantine Cooking (2020)](https://www.youtube.com/watch?v=u0n7RP5SssM)
 - [The battle to invent the automatic rice cooker](https://www.atlasobscura.com/articles/rice-cooker-history) ([HN](https://news.ycombinator.com/item?id=24019826))
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking (2017)](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
+- [Cooking with rocket stove](https://merveilles.town/web/statuses/104854765889908463)

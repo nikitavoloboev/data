@@ -47,6 +47,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Manticore](https://github.com/manticoreos/manticore) - Research operating system, written in Rust. ([Web](https://manticoreos.io/))
 - [CyanOS](https://github.com/AymenSekhri/CyanOS) - x86 monolithic kernel operating system, coded in C++ 17 and few lines of x86 Assembly.
 - [ChaiOS](https://github.com/ChaiSoft/ChaiOS) - Modular multi-platform hobby OS. Hybrid kernel, largely monolithic. Kernel C library is dynamically linked.
+- [Tails](https://tails.boum.org/) - Portable operating system that protects against surveillance and censorship. ([Intro](https://tilvids.com/videos/watch/44aa73c5-ac76-4b6c-9de3-9b87f9980482))
 
 ## Notes
 
@@ -123,3 +124,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [A Text-Based Desktop Environment](https://vtm.netxs.online/) ([HN](https://news.ycombinator.com/item?id=24243521)) ([Code](https://github.com/netxs-group/VTM))
 - [Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency](https://syslab.cs.washington.edu/papers/latency-socc14.pdf)
 - [Beginner resource for OSdev](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [SBTCVM (Simple Balanced Ternary Computer Virtual Machine)](https://sbtcvm.blogspot.com/) - Project focused on providing virtual machines based around balanced ternary computers.

@@ -191,6 +191,7 @@ Here are few more things I liked, design wise.
 - [Max Woolf](https://minimaxir.com/)
 - [Jason Webb](https://jasonwebb.io/)
 - [Chris Penner](https://chrispenner.ca/)
+- [Liam Cooke](https://liamcooke.com/)
 - [Kitze](https://kitze.io/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)
 - [Malte Ubl](https://www.industrialempathy.com/)
