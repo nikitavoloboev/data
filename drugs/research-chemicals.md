@@ -33,3 +33,4 @@
 - [What will take me to a different plane of existence? (2020)](https://www.reddit.com/r/researchchemicals/comments/fh15ex/what_will_take_me_to_a_different_plane_of/)
 - [Favorite RC's, list and why (2020)](https://www.reddit.com/r/researchchemicals/comments/if103b/favorite_rcs_list_and_why_and_go/)
 - [Most enjoyable RC's in your opinion? (2020)](https://www.reddit.com/r/researchchemicals/comments/ip4js0/most_enjoyable_rcs_in_your_opinion/)
+- [Why did you get the last chems you did? (2020)](https://www.reddit.com/r/researchchemicals/comments/irh069/why_did_you_get_the_last_chems_you_did/)

@@ -25,5 +25,3 @@ Pleasantly surprised my macOS post is 31st [most favorited post on HN](https://o
 ## 12
 
 Came across another public company wiki, this time by [Gumroad](https://www.notion.so/Public-Wiki-72663c59ed5a432a9d52accafd8f166e). Going to improve our wiki for LA. There is a [nice thread on going async for work](https://twitter.com/shl/status/1222545212477599751) too.
-
-I also moved to Big Sur finally now that Karabiner works there. Everything works amazingly well and fast. 💨
