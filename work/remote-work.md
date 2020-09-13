@@ -67,3 +67,4 @@
 - [Remote work predictions (2020)](https://twitter.com/chris_herd/status/1294590291761037312)
 - [Ask HN: How do you switch off from work, particularly when WFH? (2020)](https://news.ycombinator.com/item?id=24196433)
 - [Remoteleaf](https://remoteleaf.com/) - Receive hand-picked remote jobs delivered straight to your inbox.
+- [Why do so many people want us back in the office? (2020)](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/) ([HN](https://news.ycombinator.com/item?id=24452280))

@@ -273,3 +273,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Great book covers](https://twitter.com/simonsarris/status/1294317092393582600)
 - [Gatsby Starter Book](https://github.com/SaraVieira/gatsby-starter-book) - Gatsby starter focused on simplicity to help you create books.
 - [How Chekhov invented the modern short story (2020)](https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story) ([HN](https://news.ycombinator.com/item?id=24380587))
+- [I Want to Fix Goodreads (2020)](http://prepend.com/culture/2020/09/fixing_goodreads.html) ([HN](https://news.ycombinator.com/item?id=24454221))
