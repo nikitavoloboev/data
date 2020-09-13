@@ -204,6 +204,7 @@
 - [How to Create a Good Name for Your Business (2020)](https://toolbox.humandeluxe.com/good-business-name/)
 - [Trends.vc](https://join.trends.vc/#thanks) - Discover new markets and ideas. ([Join](https://join.trends.vc/))
 - [OKR Example Directory](https://soapboxhq.com/goal-examples) - Library of role-specific and personal development goal examples to inspire your employees.
+- [TLDW](https://usetldw.video/home.html) - Search inside of videos from YC, VCs and established founders. ([HN](https://news.ycombinator.com/item?id=24457893))
 
 ## Images
 
