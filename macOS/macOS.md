@@ -100,3 +100,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - Software update framework for macOS.
 - [Hard to discover tips and apps for macOS (2020)](https://thume.ca/2020/09/04/macos-tips/) ([HN](https://news.ycombinator.com/item?id=24391899)) ([Lobsters](https://lobste.rs/s/kpar4v/hard_discover_tips_apps_for_making_macos))
 - [fastmac](https://github.com/fastai/fastmac/) - MacOS instance or Linux shell. ([HN](https://news.ycombinator.com/item?id=24452384))
+- [What should I do after getting my (first) own new Macbook? (2020)](https://lobste.rs/s/uzdehw/what_should_i_do_after_getting_my_first_own)

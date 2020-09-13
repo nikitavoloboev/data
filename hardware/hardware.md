@@ -88,3 +88,4 @@
 - [FuseSoC](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development. ([FuseSoC standard core library](https://github.com/fusesoc/fusesoc-cores))
 - [Chips (Common Hardware for Interfaces, Processors and Systems) Alliance](https://chipsalliance.org/) - Develops high-quality, open source hardware designs relevant to silicon devices and FPGAs.
 - [Insanity 4004 – Experiments with the world's first microprocessor](http://insanity4004.blogspot.com/) ([HN](https://news.ycombinator.com/item?id=24440060))
+- [Teensy](https://www.pjrc.com/teensy/) - Complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of projects.
