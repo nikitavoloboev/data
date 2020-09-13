@@ -149,7 +149,7 @@
 - [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/) ([Lobsters](https://lobste.rs/s/ky2fu3/examples_incorrect_abstractions_non))
 - [Haskell Platform](https://github.com/haskell/haskell-platform) - Combination of the GHC compiler and core libraries, plus additional tools and libraries covering a range of common programming tasks.
 - [Stan](https://github.com/kowainik/stan) - Haskell static analyser. ([Talk](https://www.youtube.com/watch?v=wb5PLv6-e6I&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=5))
-- [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) - Structured set of materials. How to build real-world applications in Haskell.
+- [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) - Structured set of materials. How to build real-world applications in Haskell. ([Other resources that are good, but not necessarry about Software Design](https://gist.github.com/graninas/ef5dd5a2b57903af81039fb21ff3b0bf))
 - [The Pain Points of Haskell: A Practical Summary (2020)](https://dixonary.co.uk/blog/haskell/pain/) ([HN](https://news.ycombinator.com/item?id=23454352))
 - [nix-hs](https://github.com/pjones/nix-hs) - Thin layer over the existing Haskell infrastructure in nixpkgs which adds all of the tools needed for interactive development.
 - [Haskell for Imperative Programmers (2020)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
@@ -187,3 +187,8 @@
 - [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) ([Reddit](https://www.reddit.com/r/haskell/comments/ib9fe0/blog_post_haskell_minipatterns_handbook/)) ([HN](https://news.ycombinator.com/item?id=24196836))
 - [Describing Microservices using Modern Haskell (2020)](https://www.47deg.com/blog/mu-in-haskell-symposium/)
 - [Haskell MOOC](https://haskell.mooc.fi/material/)
+- [Design patterns in Haskell](https://gist.github.com/graninas/c71d2458d17bb8724b68dec6e38771c9)
+- [Building network actors with Node Framework](https://gist.github.com/graninas/9beb8df5d88dda5fa21c47ce9bcb0e16)
+- [Software Design Showcase Projects in Haskell](https://gist.github.com/graninas/49be74a21fbd58236bad28e1ce1eed94)
+- [Haskeller Competency Matrix](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
+- [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b/c4e1b25cefe673a0c1d1bec4c24690121f31fa21) ([HN](https://news.ycombinator.com/item?id=24449927)) ([Lobsters](https://lobste.rs/s/hjgchi/what_killed_haskell_could_kill_rust_too))

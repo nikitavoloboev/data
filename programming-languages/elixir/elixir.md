@@ -47,3 +47,4 @@
 - [In Elixir world, does traditional "microservice architecture" actually matter?](https://www.reddit.com/r/elixir/comments/ijhx3h/in_elixir_world_does_traditional_microservice/)
 - [A Sip of Elixir — Evaluating a New Tech Stack (2020)](https://www.smartly.io/blog/a-sip-of-elixir-evaluating-a-new-tech-stack)
 - [Elixir: Understanding the concurrency model (2019)](https://manzanit0.github.io/elixir/2019/09/29/elixir-concurrency.html)
+- [Elixir Tip: Case vs. With (2020)](https://preslav.me/2020/09/11/elixir-tip-case-vs-with/) ([Lobsters](https://lobste.rs/s/kmmakk/elixir_tip_case_vs_with))

@@ -116,3 +116,4 @@
 - [HN: C++20 has been approved (2020)](https://news.ycombinator.com/item?id=24389549) ([Reddit](https://www.reddit.com/r/cpp/comments/imzkl4/c20_has_been_approved/))
 - [Named Parameters in C++20 (2020)](https://pdimov.github.io/blog/2020/09/07/named-parameters-in-c20/) ([HN](https://news.ycombinator.com/item?id=24398756))
 - [HN: C++ was the fastest growing programming language in Sept according to TIOBE (2020)](https://news.ycombinator.com/item?id=24421061) ([Reddit](https://www.reddit.com/r/cpp/comments/ip9i8h/c_is_now_the_fastestgrowing_programming_language/))
+- [Software Transactional Memory in C++: pure functional approach](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525)

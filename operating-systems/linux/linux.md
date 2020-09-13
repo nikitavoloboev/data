@@ -169,3 +169,4 @@
 - [The Linux development process: Is it worth the hassle? (2020)](https://blog.usejournal.com/the-linux-development-process-is-it-worth-the-hassle-4f09d7ff09a2)
 - [How to take back control of /etc/resolv.conf on Linux (2018)](https://www.ctrl.blog/entry/resolvconf-tutorial.html) ([HN](https://news.ycombinator.com/item?id=24390053))
 - [Introduction to Linux Server Administration](https://github.com/snori74/linuxupskillchallenge)
+- [How does `who` work on Linux? (2020)](https://gauthier.uk/blog/who/)

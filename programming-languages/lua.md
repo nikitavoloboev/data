@@ -33,3 +33,4 @@
 - [Languages that compile to Lua](https://github.com/hengestone/lua-languages)
 - [Making the Fennel compiler self-hosting with another compiler (2020)](https://technomancy.us/192)
 - [Fennel](https://fennel-lang.org/) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale))
+- [How to Plan a Luau: Augmenting Lua’s Syntax With Types (2020)](https://medium.com/roblox-tech-blog/how-to-plan-a-luau-augmenting-luas-syntax-with-types-7751a790f0d8) ([HN](https://news.ycombinator.com/item?id=24448364))

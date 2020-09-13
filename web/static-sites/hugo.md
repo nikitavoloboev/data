@@ -19,6 +19,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Chlorine](https://github.com/AnnaOpss/hugo-chlorine-theme) - Simple responsive blog theme for Hugo based on Natrium.
 - [Ghostwriter](https://github.com/jbub/ghostwriter) - Port of ghostwriter theme to Hugo.
 - [Blogophonic](https://github.com/formspree/blogophonic-hugo) - Modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
+- [Pulp](https://github.com/koirand/pulp/) - Hugo theme for getting a simple, easy-to-read blog site.
 
 ## Examples
 

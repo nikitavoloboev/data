@@ -138,3 +138,4 @@
 - [APIs You Won't Hate](https://apisyouwonthate.com/) - Community that cares about API design and development.
 - [Ask HN: Suggestions for books about API design? (2020)](https://news.ycombinator.com/item?id=24383180)
 - [How To Design A Good API and Why it Matters (2007)](https://www.youtube.com/watch?v=aAb7hSCtvGw)
+- [Regarding Semantic Versioning (2020)](https://www.danielmoch.com/posts/2020/09/regarding-semantic-versioning/) ([Lobsters](https://lobste.rs/s/i8bcst/regarding_semantic_versioning))
