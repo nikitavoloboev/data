@@ -73,3 +73,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [EthereumJS](https://github.com/ethereumjs/ethereumjs-vm) - Ethereum VM implemented in JavaScript.
 - [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list) - Guide to available tools and platforms for developing on Ethereum.
 - [CryptoZombies](https://cryptozombies.io/) - Solidity Tutorial & Ethereum Blockchain Programming Course.
+- [Guide to Staking on Ethereum 2.0 (Ubuntu/Medalla/Nimbus) (2020)](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c)
