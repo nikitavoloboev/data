@@ -308,3 +308,4 @@
 - [If you want performance, cheat (2020)](https://vorner.github.io/2020/09/03/performance-cheating.html)
 - [C++ vs Rust: an async Thread-per-Core story (2020)](https://medium.com/@glaubercosta_11125/c-vs-rust-an-async-thread-per-core-story-28c4b43c410c)
 - [Peeking inside a Rust enum (2020)](https://fasterthanli.me/articles/peeking-inside-a-rust-enum)
+- [From Rust to TypeScript (2020)](https://valand.dev/blog/post/from-rust-to-typescript)

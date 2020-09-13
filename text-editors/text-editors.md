@@ -61,3 +61,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Inside a Collaborative Text Editor (2020)](https://caolan.uk/articles/inside-a-collaborative-text-editor/)
 - [I wrote the world's worst text editor (so you don't have to) (2020)](https://briancallahan.net/blog/20200816.html)
 - [My thoughts about editors in 2020](https://phaazon.net/blog/editors-in-2020) ([HN](https://news.ycombinator.com/item?id=24395863))
+- [From Vim to Ed (2020)](http://blog.cretaria.com/posts/from-vim-to-ed.html) ([Lobsters](https://lobste.rs/s/6l2i8z/from_vim_ed))
