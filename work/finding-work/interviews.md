@@ -12,6 +12,7 @@
   - blind feedback
 - When trying to solve problems for understanding, don't blindly copy other's solutions. Read their solutions and take notes. Then reimplement from the notes.
 - [In my experience the best candidates speculate rather than giving up, ask appropriate clarifying questions, and take end-to-end ownership of each answer by synthesising disparate discussion into a coherent final explanation.](https://twitter.com/kieranmch/status/1215385877112815617)
+- [You don't need to know the answer (let's be honest, the interviewer didn't know it in details either) to actually talk about why the problem exists and what you understand about it.](https://news.ycombinator.com/item?id=24460286)
 
 ## Links
 

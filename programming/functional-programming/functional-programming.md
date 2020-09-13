@@ -94,6 +94,7 @@
 - [Monads, Explained Without Bullshit (2020)](https://www.boringcactus.com/2020/07/18/monads-without-the-bullshit.html)
 - [Is Haskell good for learning functional programming? (2020)](https://www.reddit.com/r/haskell/comments/ik9yqi/is_haskell_good_for_learning_functional/)
 - [Functional lessons learnt (2019)](https://manzanit0.github.io/functional%20programming/2019/08/23/functional-lessons.html)
+- [Algebra-Driven Design book](https://algebradriven.design/) - Elegant Software from Simple Building Blocks. ([Lobsters](https://lobste.rs/s/xs8vlo/algebra_driven_design))
 
 ## Images
 

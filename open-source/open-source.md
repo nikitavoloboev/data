@@ -117,3 +117,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Working in Public and the Economics of Free (2020)](https://diff.substack.com/p/working-in-public-and-the-economics)
 - [Post-Open Source (2020)](https://www.boringcactus.com/2020/08/13/post-open-source.html)
 - [Ask HN: Which project does not have any good open-source alternatives? (2020)](https://news.ycombinator.com/item?id=21884828)
+- [Awesome Open Source](https://awesomeopensource.com/) - Find Open Source By Searching, Browsing and Combining 7,000 Topics.

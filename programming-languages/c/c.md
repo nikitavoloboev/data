@@ -80,3 +80,4 @@
 - [Modern C](https://modernc.gforge.inria.fr/) ([HN](https://news.ycombinator.com/item?id=24361469)) ([Lobsters](https://lobste.rs/s/01brvr/modern_c))
 - [C FAQ](http://www.c-faq.com/)
 - [Massacring C Pointers (2018)](https://wozniak.ca/blog/2018/06/25/1/index.html) ([HN](https://news.ycombinator.com/item?id=24376622)) ([Lobsters](https://lobste.rs/s/gim6hg/massacring_c_pointers_2018))
+- [C’s Biggest Mistake (2009)](https://digitalmars.com/articles/C-biggest-mistake.html) ([Lobsters](https://lobste.rs/s/3nebjo/c_s_biggest_mistake_2009))
