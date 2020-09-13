@@ -109,3 +109,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [А как делать блог? (2020)](https://vas3k.ru/notes/how_to_blog/)
 - [Internet Homesteading](https://hyperlink.academy/courses/internet-homesteading/22) - Build yourself a home on the internet (a website) with a toolchain you understand from the ground up.
 - [Blogs I like](https://jvns.ca/blogroll/)
+- [15 rules for blogging, and my current streak](http://interconnected.org/home/2020/09/10/streak)

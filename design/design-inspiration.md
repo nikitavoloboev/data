@@ -231,6 +231,7 @@ Here are few more things I liked, design wise.
 - [Wilhelm Klopp](https://wilhelmklopp.com/)
 - [Jason Lengstorf](https://www.jason.af/)
 - [Colin Shum](https://colinshum.com/)
+- [Paul Glushak](https://0xff.nu/)
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Josh Thompson](https://josh.works/)
