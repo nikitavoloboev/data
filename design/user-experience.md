@@ -30,3 +30,4 @@
 - [The UX of LEGO Interface Panels (2020)](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
 - [How to conduct UX user interviews (2020)](https://uxdesign.cc/how-to-conduct-ux-user-interviews-68721f186fb)
 - [UX design: Tools, methods and frameworks for generalists (2020)](https://nickdewilde.substack.com/p/the-keyring-zac-halbert-on-ux-design) ([HN](https://news.ycombinator.com/item?id=24112275))
+- [Read Me: Web](https://readymag.com/designs/1961839/) - To keep attention focused, readability is key. ([HN](https://news.ycombinator.com/item?id=24451426))

@@ -14,6 +14,7 @@
   - Your portfolio as the literal portfolio of an active owner of multiple businesses. Since you can’t influence management, the point is not to kid yourself that you can do a better job than world class management. You’re just learning to spot them and attach your capital to their knowledge and skills. It also makes the hobby more fun, as you learn what good solutions to problems look like.
 - [QQQ index](https://www.investopedia.com/ask/answers/061715/what-qqq-etf.asp) has [nice returns](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/g2wyqab/?utm_source=reddit&utm_medium=web2x&context=3)
 - [Don’t chase companies. Don’t move money to ride the hot company that month. Do your research, plan, and then wait. Check your evaluation and then execute.](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
+- [In a company, you have a board and you have shareholders. If you don't want the mould of a public company, you create or keep it as a private company. In a private company, you can do any of these employee stock options or buybacks or long term things, much as you can do with a public company, if you wanted to. The board and the shareholders have a similar sort of dynamic in both, but I would say the board of a private company invites less scrutiny, or at least less fully public scrutiny.](https://news.ycombinator.com/item?id=24456655)
 
 ## Links
 
@@ -99,3 +100,5 @@
 - [Advice on investing in fintech companies (2020)](https://twitter.com/arfrank/status/1297997387475099654)
 - [What is the best investing tip for beginner investors you wish you knew when you started? (2020)](https://www.reddit.com/r/investing/comments/igz1d2/what_is_the_best_investing_tip_for_beginner/)
 - [The Truth About "Trading Gurus" From a Hedge Fund Manager (2020)](https://www.youtube.com/watch?v=JfP4rVsmL_Q) ([Tweet](https://twitter.com/ossia/status/1300473889663995904))
+- [The Long-Term Stock Exchange Opens for Business (2020)](https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b) ([HN](https://news.ycombinator.com/item?id=24420177))
+- [HN: JPMorgan to trade shares of pre-IPO giants including SpaceX, Robinhood, Airbnb (2020)](https://news.ycombinator.com/item?id=24456655)
