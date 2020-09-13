@@ -50,3 +50,4 @@
 - [Hiding messages in x86 binaries using semantic duals (2020)](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals) ([Lobsters](https://lobste.rs/s/pd6xcy/hiding_messages_x86_binaries_using))
 - [Reverse Engineering GTA V's Stunt Jump System (2020)](https://hackery.site/writing/gta-v-stunt-jumps/)
 - [ARM Exploitation Book](https://arm-exploitation.com/)
+- [Super Mario Bros. 3 in 3 Minutes – World Record Speedrun Explained (2020)](https://www.youtube.com/watch?v=WWbZFj-cLvk) ([HN](https://news.ycombinator.com/item?id=24456247))

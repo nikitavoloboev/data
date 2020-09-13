@@ -28,3 +28,4 @@
 - [A Theory of Natural Universal Computation Through RNA (2020)](https://arxiv.org/abs/2008.08814) ([Tweet](https://twitter.com/theHessam/status/1296650944302776321))
 - [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html))
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome aggregation database.
+- [We can now edit the human genome – how far should we go?](https://www.pbs.org/wgbh/nova/video/human-nature/) ([HN](https://news.ycombinator.com/item?id=24454954))

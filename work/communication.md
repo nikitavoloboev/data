@@ -44,3 +44,4 @@
 - [What to talk about in 1:1s](https://wizardzines.com/comics/1-1s/)
 - [GitHub’s Feedback Culture (2020)](https://codingsans.com/blog/feedback-culture)
 - [Benefit for going fully asynchronous (by Gumroad)](https://twitter.com/shl/status/1222545212477599751)
+- [Together vs Alone: Thoughts on building a team](https://www.preetamnath.com/blog/building-a-team) ([HN](https://news.ycombinator.com/item?id=24458258))
