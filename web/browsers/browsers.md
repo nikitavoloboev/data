@@ -63,3 +63,4 @@
 - [Kosmonaut](https://github.com/twilco/kosmonaut) - Web browser from scratch in Rust. ([HN](https://news.ycombinator.com/item?id=24170201))
 - [Replay](https://replay.io/) - Record and replay web applications.
 - [theheadless.dev](https://theheadless.dev/) - Learn Puppeteer & Playwright. ([HN](https://news.ycombinator.com/item?id=24209073)) ([Code](https://github.com/checkly/theheadless.dev))
+- [Rumin Web Clipper](https://github.com/jhlyeung/rumin-web-clipper) - Browser extension for Rumin which allows you to save learnings from online resources. ([HN](https://news.ycombinator.com/item?id=24461070))
