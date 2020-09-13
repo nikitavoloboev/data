@@ -8,3 +8,4 @@
 - [LearnOpenGL in Rust](https://github.com/bwasty/learn-opengl-rs)
 - [Anton's OpenGL 4 Tutorials](https://antongerdelan.net/opengl/)
 - [Krita, OpenGL and Qt (2020)](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
+- [NanoGUI](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL.

@@ -49,6 +49,7 @@
 - [Piet](https://github.com/linebender/piet) - Abstraction for 2D graphics.
 - [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
 - [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
+- [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
 
 ## DB
 
