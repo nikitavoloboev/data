@@ -195,6 +195,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Library of Merveilles](https://github.com/merveilles/Librarium)
 - [Patricia Mou Bookshelf](https://patriciamou.com/my-shelf)
 - [Brutality of Life Reading List](https://www.sonyasupposedly.com/brutality-books/) ([HN](https://news.ycombinator.com/item?id=24458522))
+- [Some good books](https://slate.host/haris/books)
 
 ## Notes
 

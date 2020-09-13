@@ -98,3 +98,4 @@
 - [Sharing SwiftUI layout information (2020)](https://fivestars.blog/swiftui/swiftui-share-layout-information.html)
 - [SwiftUI betas - what changed before 1.0 (2020)](https://mackuba.eu/2020/08/17/swiftui-beta/)
 - [The State of SwiftUI (2020)](https://steipete.com/posts/state-of-swiftui/)
+- [How Swift 5.3 enhances SwiftUI’s DSL (2020)](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/)

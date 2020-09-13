@@ -100,6 +100,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
 - [Rollbar](https://rollbar.com/) - Error Tracking Software.
 - [Miro](https://miro.com/) - Where distributed teams get work done.
+- [Slate](https://slate.host/) - File storage network for you, your files, and your friends.
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
