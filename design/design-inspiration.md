@@ -218,6 +218,7 @@ Here are few more things I liked, design wise.
 - [Matthias Ott](https://matthiasott.com/)
 - [Jared Pereira](https://awarm.space/) ([Code](https://gitlab.com/jaredpereira/site))
 - [Michaël Villar](http://www.michaelvillar.com/)
+- [Jendrik Poloczek](https://madewithtea.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Derek Sivers](https://sivers.org/)

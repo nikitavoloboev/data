@@ -64,3 +64,4 @@
 - [Generative Art with CSS (2019)](https://generative-art-with-css.commons.host/) ([HN](https://news.ycombinator.com/item?id=24118534))
 - [Interview With Generative Artist Jared Tarbell (2020)](https://www.artnome.com/news/2020/8/24/interview-with-generative-artist-jared-tarbell)
 - [Moire Pattern](https://formmeetscode.in/blog/moire-pattern/)
+- [Generative Art with Context Free Grammars](https://www.leonrische.me/pages/generative_art_with_cfgs.html)
