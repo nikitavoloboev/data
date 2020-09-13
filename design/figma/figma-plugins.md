@@ -32,3 +32,4 @@
 - [Autoflow](https://www.flowchart.design/) - Draw flows in Figma automagically.
 - [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Search for texts on your page and replace them just like a text editor. ([Tweet](https://twitter.com/notdetails/status/1294454546400448512))
 - [Auto Layout + Absolute positioning](https://www.figma.com/community/file/886244271808606023)
+- [Live Preview](https://www.figma.com/community/plugin/849390271196300773/Live-Preview) - Share a live preview of your Figma prototype with others. ([Tweet](https://twitter.com/jsngr/status/1304794296323801088))
