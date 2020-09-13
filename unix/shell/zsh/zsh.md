@@ -9,6 +9,7 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - Search `zshall` man page to find all zsh widgets and more things.
 - I can use `zsh/zprof` to profile zsh startup time. Docs for it can be seen in `zshmodules`.
 - `zsh -x` - See what Zsh executes when it starts new shell.
+- [`cmd -` and TAB will list options for command.](https://twitter.com/rsms/status/1304877145743790080)
 
 ## Links
 
@@ -22,3 +23,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Some zshrc tricks (2020)](https://www.arp242.net/zshrc.html) ([Lobsters](https://lobste.rs/s/tgmzke/some_zshrc_tricks))
 - [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases) ([HN](https://news.ycombinator.com/item?id=23309310))
 - [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds (2020)](https://www.vidarholen.net/contents/blog/?p=878) ([HN](https://news.ycombinator.com/item?id=23520240))
+- [Nice Zsh configs/tips](https://twitter.com/rsms/status/1304837079826747392)
