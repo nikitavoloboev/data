@@ -49,3 +49,5 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Thoughts on deep work (2020)](https://twitter.com/paraschopra/status/1295244575154479104)
 - [How to Be Indistractable](https://psyche.co/guides/to-become-indistractable-recognise-that-it-starts-within-you) ([HN](https://news.ycombinator.com/item?id=24360966))
 - [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/) ([HN](https://news.ycombinator.com/item?id=24391686))
+- [Why Is It So Hard to Do Something That Should Be Easy?](https://www.youtube.com/watch?v=Uo08uS904Rg)
+- ['Ugh fields', or why you can’t even bear to think about that task (2020)](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) ([HN](https://news.ycombinator.com/item?id=24445603))
