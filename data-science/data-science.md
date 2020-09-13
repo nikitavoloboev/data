@@ -113,3 +113,4 @@
 - [Python for Data Analytics course](https://github.com/ItsAwSM/Python-for-Data-Analytics) ([Reddit](https://www.reddit.com/r/Python/comments/ifukmz/free_python_for_data_analytics_course/))
 - [Modern Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - [How to share data with a statistician](https://github.com/jtleek/datasharing)
+- [Becoming 1% better at data science everyday](https://github.com/amitness/learning)

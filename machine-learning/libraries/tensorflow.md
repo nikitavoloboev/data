@@ -51,3 +51,4 @@
 - [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
 - [Deep Xi](https://github.com/anicolson/DeepXi) - Deep Learning Approach to A Priori SNR Estimation for speech enhancement.
 - [TF-Coder, a tool that writes tricky TensorFlow expressions (2020)](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html) ([HN](https://news.ycombinator.com/item?id=24285910))
+- [TensorBoard](https://github.com/tensorflow/tensorboard) - Suite of web applications for inspecting and understanding your TensorFlow runs and graphs.

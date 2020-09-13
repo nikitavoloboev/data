@@ -73,3 +73,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Accidental Cameras](http://people.csail.mit.edu/torralba/research/accidentalcameras/) ([HN](https://news.ycombinator.com/item?id=24352783))
 - [Working with film](https://royniang.com/exposing_film.html)
 - [Wabi-sabi: When BAD PHOTOS are BETTER (2019)](https://www.youtube.com/watch?v=gyCumQ78ZoI)
+- [Jamie Windsor YouTube](https://www.youtube.com/jamiewindsor)

@@ -84,3 +84,4 @@
 - [What I learned from doing over 60 technical interviews in 30 days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky) ([HN](https://news.ycombinator.com/item?id=24017555))
 - [How to conduct a System Design Interview (2020)](https://robertovitillo.com/how-to-conduct-a-system-design-interview/)
 - [The Technical Interview is an Ego Trip (2020)](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) ([HN](https://news.ycombinator.com/item?id=24447182))
+- [List of company wise questions available on Leetcode premium](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
