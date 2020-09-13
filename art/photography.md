@@ -72,3 +72,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Thoughts on cameras in the age of excellent cell phone photos (2020)](https://whatever.scalzi.com/2020/05/05/thoughts-on-cameras-in-the-age-of-excellent-cell-phone-photos/) ([HN](https://news.ycombinator.com/item?id=23389437))
 - [Accidental Cameras](http://people.csail.mit.edu/torralba/research/accidentalcameras/) ([HN](https://news.ycombinator.com/item?id=24352783))
 - [Working with film](https://royniang.com/exposing_film.html)
+- [Wabi-sabi: When BAD PHOTOS are BETTER (2019)](https://www.youtube.com/watch?v=gyCumQ78ZoI)

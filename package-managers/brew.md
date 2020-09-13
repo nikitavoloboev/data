@@ -1,5 +1,11 @@
 # [Brew](https://brew.sh/)
 
+## Notes
+
+- [Keg - installation prefix of a formula (package definition). Keg-only dependencies, then, are dependencies that aren't symlinked to places like /usr/local](https://twitter.com/mjackson/status/1304837624809418752)
+  - Cask - An extension of Homebrew to install macOS native apps (binaries)
+  - Cellar - Where all kegs are installed
+
 ## Links
 
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
