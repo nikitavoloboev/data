@@ -64,6 +64,7 @@
 - [Sales for Founders](https://salesforfounders.com/)
 - [Buffer](https://buffer.com/) - Simpler social media tools for authentic engagement.
 - [Getting Users Is Hard (2020)](https://news.ycombinator.com/item?id=24386933)
+- [Hiring the first head of marketing at a startup (2020)](https://helenmin.com/blog/first-head-of-marketing) ([HN](https://news.ycombinator.com/item?id=24448513))
 
 ## Images
 

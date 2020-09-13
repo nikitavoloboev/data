@@ -39,3 +39,4 @@
 - [Cell Biology by the Numbers](http://book.bionumbers.org/)
 - [Haseloff Lab](https://haseloff.plantsci.cam.ac.uk/) - Synthetic Biology for engineering plant growth.
 - [When Two Bacteria Become One (2020)](https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/) ([HN](https://news.ycombinator.com/item?id=24354888))
+- [Trefle Botanical API](https://github.com/treflehq/trefle-api) ([HN](https://news.ycombinator.com/item?id=24451320)) ([Web](https://trefle.io/))

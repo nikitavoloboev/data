@@ -62,3 +62,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [List of years in science](https://en.wikipedia.org/wiki/List_of_years_in_science) - Events related to science or technology which occurred in the listed year.
 - [Edinburgh Research Archive](https://era.ed.ac.uk/) - Digital repository of original research produced at The University of Edinburgh.
 - [ScienceDirect.com](https://www.sciencedirect.com/) - Science, health and medical journals, full text articles and books.
+- [Google Research](https://research.google/)
