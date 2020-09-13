@@ -17,3 +17,4 @@
 - [The History, Status, and Future of FPGAs (2020)](https://queue.acm.org/detail.cfm?id=3411759) ([HN](https://news.ycombinator.com/item?id=23927992))
 - [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards) ([Lobsters](https://lobste.rs/s/uqc8vi/cheap_fpga_development_boards))
 - [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA) ([HN](https://news.ycombinator.com/item?id=24252737))
+- [FPGA based mobile phone: Creating a truly open and trustable mobile communications device (2019)](https://www.youtube.com/watch?v=KuNB4ocZDXA)

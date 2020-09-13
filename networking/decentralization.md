@@ -35,3 +35,4 @@
 - [IPLD](https://ipld.io/) - Data model of the content-addressable web.
 - [Resources about the general concepts around decentralization (2020)](https://merveilles.town/@jrc03c/104823469834829652)
 - [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.
+- [Coordination, Good and Bad (2020)](https://vitalik.ca/general/2020/09/11/coordination.html) ([HN](https://news.ycombinator.com/item?id=24449629))
