@@ -16,3 +16,4 @@
 - [Going fully serverless with Cloudflare Workers (2020)](https://guido.io/posts/going-fully-serverless-with-cloudflare-workers/)
 - [Rendering React on the Edge with Flareact and Cloudflare Workers (2020)](https://blog.cloudflare.com/rendering-react-on-the-edge-with-flareact-and-cloudflare-workers/)
 - [Flareact](https://github.com/flareact/flareact) - Edge-rendered React framework powered by Cloudflare Workers. ([Docs](https://flareact.com/))
+- [My Blog Just Got Faster: Cloudflare Workers and AVIF Support (2020)](https://endler.dev/2020/perf)

@@ -31,3 +31,4 @@
 - [Research library of the ##dependent IRC channel](https://github.com/dpndnt/library)
 - [Epigram language](http://www.e-pig.org/) - Dependently typed programming language and an interactive programming environment. ([Code](https://github.com/mietek/epigram2))
 - [A dependently typed calculus with pattern matching and erasure inference (2020)](https://dl.acm.org/doi/10.1145/3408973)
+- [A general definition of dependent type theories (2020)](http://math.andrej.com/2020/09/14/a-general-definition-of-dependent-type-theories/)
