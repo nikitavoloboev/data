@@ -21,3 +21,4 @@
 - [Compressed GPU texture formats – a review and compute shader decoders (2020)](https://themaister.net/blog/2020/08/12/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-1/)
 - [GPU Compute Basic Algorithms - MLIR](https://llvm.discourse.group/t/gpu-compute-basic-algorithms/1281)
 - [Which GPUs to get for deep learning (2020)](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) ([HN](https://news.ycombinator.com/item?id=24400603))
+- [KodeLife](https://hexler.net/products/kodelife) - Real-time GPU shader editor.
