@@ -12,6 +12,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 
 - [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)
 - [Don't design for average. If you want to make a great product, it needs to be great for someone.](https://twitter.com/linuz90/status/1275678185657716736)
+- [Design is about making things look a certain way. Not “make it look pretty” but “surface.” I have had many interactions with smart educated people (even designers!) whom seem to believe design is art, that design is mainly about surface (e.g. “a designer chair.”)](https://twitter.com/rsms/status/1305383261774905346)
 
 ## Links
 
@@ -132,3 +133,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [To design and develop an interactive globe (2020)](https://stripe.com/blog/globe) ([HN](https://news.ycombinator.com/item?id=24350546))
 - [lookup.design](https://lookup.design/) - Find UI Design Examples.
 - [Disrespectful Design – Users aren’t stupid or lazy (2020)](https://somehowmanage.com/2020/09/13/disrespectful-design-users-arent-stupid-or-lazy/) ([HN](https://news.ycombinator.com/item?id=24461365))
+- [What do you think most of the non-designers you work with today still get wrong about design?](https://twitter.com/joulee/status/1305243609944346626)
+- [What's More to Design in a Chair (2020)](https://samanthaz.me/writing/what-s-more-to-design-in-a-chair)

@@ -6,6 +6,7 @@
 - Ideas are more important than age.
   - Just because someone is junior doesn't mean they don't deserve respect and cooperation.
 - [So much of good management is so simple: recognizing when your people need a challenge vs. when they need help.](https://twitter.com/jenistyping/status/1277466746400563200)
+- [Review of Ted Lasso show and Ted's focus on making everyone in the team being the best version of themselves.](https://twitter.com/_danilo/status/1304811249499283456)
 
 ## Links
 

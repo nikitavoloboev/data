@@ -170,3 +170,4 @@
 - [Package and deploy Python apps faster with Poetry and Nix (2020)](https://www.youtube.com/watch?v=TbIHRHy7_JM)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 - [Sync vs. Async Python: What Is the Difference? (2020)](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference) ([HN](https://news.ycombinator.com/item?id=24427978))
+- [Mamba](https://github.com/mamba-org/mamba) - Reimplementation of the conda package manager in C++.

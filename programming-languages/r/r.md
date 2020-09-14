@@ -24,3 +24,4 @@
 - [R for Everyone](https://www.jaredlander.com/r-for-everyone/)
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday) - Weekly social data project in R.
 - [Teaching Statistics and Data Science Online](https://mine-cetinkaya-rundel.github.io/teach-r-online/) ([Code](https://github.com/mine-cetinkaya-rundel/teach-r-online))
+- [R & stats illustrations](https://github.com/allisonhorst/stats-illustrations)

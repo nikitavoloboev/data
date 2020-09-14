@@ -12,3 +12,4 @@
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - Adds an OCR text layer to scanned PDF files, allowing them to be searched.
 - [OCR with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/)
 - [What's so hard about PDF text extraction? (2020)](https://filingdb.com/b/pdf-text-extraction) ([HN](https://news.ycombinator.com/item?id=24460142))
+- [FilingDB](https://filingdb.com/) - Database of extracted and structured text from European company filings. Optimised for quant investors.

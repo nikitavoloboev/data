@@ -27,6 +27,7 @@
 - [BespokeSynth](https://github.com/awwbees/BespokeSynth) - Software modular synth.
 - [Vivid](https://vivid-synth.com/) - High quality audio with Haskell and SuperCollider. ([Code](https://github.com/vivid-synth/vivid))
 - [Teensy Audio Library](https://github.com/PaulStoffregen/Audio) - 16 bit, 44.1 kHz streaming audio library for Teensy 3.
+- [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis. ([Web](http://faust.grame.fr/)) ([Docs](https://faust.grame.fr/doc/manual/index.html#quick-start))
 
 ## Inspiration
 
@@ -57,7 +58,6 @@
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software.
 - [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) ([HN](https://news.ycombinator.com/item?id=21297462))
-- [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis.
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))
 - [Monome](https://monome.org/) - Sound machines for the exploration time and space. ([Code](https://github.com/monome/docs))
 - [Low Level Norns](https://github.com/PaulBatchelor/norns-lowlevel) - Small snippets of C code that do relatively low-level things on the norns.
@@ -75,7 +75,7 @@
 - [AudioMass](https://audiomass.co/) - Free, open source, web-based Audio and Waveform editor. ([HN](https://news.ycombinator.com/item?id=23337091))
 - [Ask HN: I'd like to learn vocals, any suggestion on how I can do this? (2020)](https://news.ycombinator.com/item?id=23359096)
 - [Making Music with Haskell From Scratch (2020)](https://www.youtube.com/watch?v=FYTZkE5BZ-0) ([Code](https://github.com/tsoding/haskell-music))
-- [mimium](https://github.com/mimium-org/mimium) - Programming language as an infrastructure for sound and music.
+- [mimium](https://github.com/mimium-org/mimium) - Programming language as an infrastructure for sound and music. ([Web](https://mimium.org/en/))
 - [Piano tuning (2019)](https://sidsite.com/posts/piano-tuning/)
 - [Splice](https://splice.com/) - Royalty-Free Sounds & Rent-to-Own Plugins.
 - [Carving out a niche as a small artist on Spotfiy (2020)](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg) ([HN](https://news.ycombinator.com/item?id=23652545))

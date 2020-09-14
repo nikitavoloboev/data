@@ -53,3 +53,4 @@
 - [About Feeds](https://aboutfeeds.com/) - Getting Started guide to web feeds/RSS.
 - [Feed Creator](http://createfeed.fivefilters.org/) - Create feed from web page elements.
 - [What RSS Feeds do you subscribe to? (2020)](https://lobste.rs/s/eiditd/what_rss_feeds_do_you_subscribe)
+- [Yarr](https://github.com/nkanaev/yarr) - Yet another RSS reader. ([HN](https://news.ycombinator.com/item?id=24469257))
