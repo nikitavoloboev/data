@@ -119,3 +119,4 @@
 - [Software Transactional Memory in C++: pure functional approach](https://gist.github.com/graninas/c7e0a603f3a22c7e85daa4599bf92525)
 - [Dependency Injection in C++ (2016)](https://vladris.com/blog/2016/07/06/dependency-injection-in-c.html)
 - [The C++ Bestiary (2017)](http://videocortex.io/2017/Bestiary/) - Compendium of Cryptic Characters.
+- [Data-Oriented Design book](https://www.dataorienteddesign.com/dodbook/) ([Review](https://gist.github.com/seece/25ed1b2108cf5782718b026382f2c52c)) ([Lobsters](https://lobste.rs/s/7jpgua/data_oriented_design_book_review))

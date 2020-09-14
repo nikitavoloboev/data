@@ -241,3 +241,4 @@
 - [Signals & Threads Podcast](https://signalsandthreads.com/)
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/) ([Lobsters](https://lobste.rs/s/jyyuhn/decision_table_patterns))
 - [Ask HN: I'm a terrible developer, what now? (2020)](https://news.ycombinator.com/item?id=24444705)
+- [Computer Architecture: A Quantitative Approach (1990)](https://www.goodreads.com/book/show/70135) ([Review](https://graydon2.dreamwidth.org/233585.html))

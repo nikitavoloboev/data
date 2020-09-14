@@ -33,3 +33,4 @@
 - [Django styleguide](https://github.com/HackSoftware/Django-Styleguide)
 - [Deploy Machine Learning Models with Django](https://www.deploymachinelearning.com/) ([Code](https://github.com/pplonski/my_ml_service))
 - [Async Views in Django 3.1 (2020)](https://testdriven.io/blog/django-async-views/) ([HN](https://news.ycombinator.com/item?id=24423637))
+- [Build a simple Hacker News clone using Django 3 (2020)](https://www.youtube.com/watch?v=292GB6snFYo)

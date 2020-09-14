@@ -43,3 +43,4 @@
 - [SIMDe](https://github.com/simd-everywhere/simde) - Implementations of SIMD instruction sets for systems which don't natively support them. ([HN](https://news.ycombinator.com/item?id=24048562))
 - [Itanium Processor Microarchitecture (2000)](http://www.cs.binghamton.edu/~dima/cs522_05/itanium.pdf)
 - [Intel Hardware Accelerated Execution Manager (HAXM)](https://github.com/intel/haxm)
+- [sse2neon](https://github.com/DLTcollab/sse2neon) - C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics.

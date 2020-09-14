@@ -42,6 +42,7 @@
 - [Optimization Algorithms on Matrix Manifolds](https://sites.uclouvain.be/absil/amsbook/)
 - [Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html) ([HN](https://news.ycombinator.com/item?id=24287622)) ([PDF](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf))
 - [Algorithms & Data Structures in Java](https://github.com/williamfiset/Algorithms)
+- [Wolfsort](https://github.com/scandum/wolfsort) - Stable adaptive hybrid radix / merge sort.
 
 ## Images
 

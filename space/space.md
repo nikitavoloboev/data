@@ -55,3 +55,4 @@
 - [Tour of the outer Solar System in radio light](https://twitter.com/TheNRAO/status/1296633586880253952)
 - [Parallel Supercomputing for Astronomy](https://juliacomputing.com/case-studies/celeste.html)
 - [Official SpaceX Photos](https://www.flickr.com/photos/spacex)
+- [Signs of Life discovered on Venus and atmosphere (2020)](https://twitter.com/brianroemmele/status/1304984620304232448) ([HN](https://news.ycombinator.com/item?id=24463423))

@@ -115,6 +115,7 @@
 - [Derecho](https://github.com/Derecho-Project/derecho) - Open-source C++ distributed computing toolkit that provides strong forms of distributed coordination and consistency at RDMA speeds.
 - [Jungle](https://github.com/eBay/Jungle) - Embedded key-value storage library, based on a combined index of LSM-tree and copy-on-write (append-only) B+tree.
 - [NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library.
+- [Hyperscan](https://github.com/intel/hyperscan) - High-performance multiple regex matching library. ([Web](https://www.hyperscan.io/))
 
 ## Links
 

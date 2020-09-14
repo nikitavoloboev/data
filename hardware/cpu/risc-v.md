@@ -38,3 +38,6 @@
 - [SERV](https://github.com/olofk/serv) - Award-winning bit-serial RISC-V core.
 - [SweRVolf](https://github.com/chipsalliance/Cores-SweRVolf) - FuseSoC-based SoC for the SweRV RISC-V core.
 - [mor1kx](https://github.com/openrisc/mor1kx) - OpenRISC 1000 processor IP core.
+- [RISC-V's Expanding Footprint (2020)](https://semiengineering.com/where-risc-v-is-gaining-traction/)
+- [Riding the RISC-V wave (2020)](https://semiengineering.com/riding-the-risc-v-wave/) ([HN](https://news.ycombinator.com/item?id=24460383))
+- [RIOS Lab](https://rioslab.org/) - Developing open source IP and software that helps make the RISC-V ecosystem world-class.

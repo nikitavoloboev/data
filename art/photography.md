@@ -74,3 +74,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Working with film](https://royniang.com/exposing_film.html)
 - [Wabi-sabi: When BAD PHOTOS are BETTER (2019)](https://www.youtube.com/watch?v=gyCumQ78ZoI)
 - [Jamie Windsor YouTube](https://www.youtube.com/jamiewindsor)
+- [What storage platforms do you use to for pictures or storing family stuff (2020)](https://lobste.rs/s/aa7mkn/what_storage_platforms_do_you_use_for)

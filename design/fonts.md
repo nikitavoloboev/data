@@ -122,3 +122,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Use advanced typography with local fonts (2020)](https://web.dev/local-fonts/)
 - [Signifier design information (2020)](https://klim.co.nz/blog/signifier-design-information/)
 - [ztext.js](https://bennettfeely.com/ztext/) - 3D Typography for the Web.
+- [Did You Know Fonts Could Do All This? (2020)](https://venam.nixers.net/blog/unix/2020/09/14/playing_with_fonts.html)

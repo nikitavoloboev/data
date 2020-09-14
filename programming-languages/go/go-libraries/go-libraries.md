@@ -70,6 +70,7 @@
 - [Oxy](https://github.com/vulcand/oxy) - Go library with HTTP handlers that enhance HTTP standard library.
 - [go-limiter](https://github.com/sethvargo/go-limiter) - Provides a rate limiter in Go, suitable for use in HTTP servers and distributed workloads.
 - [cachecontrol](https://github.com/pquerna/cachecontrol) - HTTP Caching Parser and Interpretation.
+- [autotls](https://github.com/gin-gonic/autotls) - Support Let's Encrypt for a Go server application.
 
 ## GraphQL
 
