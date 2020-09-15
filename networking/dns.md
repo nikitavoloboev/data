@@ -41,3 +41,4 @@
 - [Understanding DNS—anatomy of a BIND zone file (2020)](https://arstechnica.com/gadgets/2020/08/understanding-dns-anatomy-of-a-bind-zone-file/)
 - [DNSLink](https://dnslink.io/) - Simple protocol to link content and services directly from DNS.
 - [DNS flag day](https://dnsflagday.net/) ([Code](https://github.com/dns-violations/dnsflagday))
+- [Secondary DNS – Deep Dive (2020)](https://blog.cloudflare.com/secondary-dns-deep-dive/)
