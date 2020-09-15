@@ -11,7 +11,7 @@
 - [Pion WebRTC](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API.
 - [Amazon Kinesis Video Streams C WebRTC SDK](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Pure C WebRTC Client for Amazon Kinesis Video Streams. ([HN](https://news.ycombinator.com/item?id=21951692))
 - [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
-- [WebRTC code samples](https://github.com/webrtc/samples)
+- [WebRTC code samples](https://webrtc.github.io/samples/) ([Code](https://github.com/webrtc/samples)) ([HN](https://news.ycombinator.com/item?id=24473864))
 - [Web Wormhole: Peer authenticated WebRTC](https://github.com/saljam/webwormhole) - Let's you send files from one place to another. ([Web](https://webwormhole.io/)) ([Lobsters](https://lobste.rs/s/if50o1/web_wormhole))
 - [Pion](https://github.com/pion) - Modern and Cross Platform Stack for WebRTC. ([HN](https://news.ycombinator.com/item?id=23039348))
 - [RAWRTC](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.

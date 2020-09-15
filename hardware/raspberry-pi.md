@@ -23,3 +23,4 @@
 - [Trying to build the ultimate raspberry pi computer (zero terminal v3)](https://n-o-d-e.net/zeroterminal3.html)
 - [Let's Build a 28-core Raspberry Pi Cluster (2020)](https://ikarus.sg/how-i-built-kraken/) ([HN](https://news.ycombinator.com/item?id=24126719))
 - [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi) ([HN](https://news.ycombinator.com/item?id=24250947))
+- [Raspberry Pi as a local server for self hosting applications (2020)](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/) ([HN](https://news.ycombinator.com/item?id=24474309))

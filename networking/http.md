@@ -25,7 +25,7 @@
 - [h2spec](https://github.com/summerwind/h2spec) - Conformance testing tool for HTTP/2 implementation.
 - [HTTP Made Really Easy](https://www.jmarshall.com/easy/http/) - Practical Guide to Writing Clients and Servers.
 - [Mini HTTP guide for developers (2020)](https://charemza.name/blog/posts/abstractions/http/http-guide-for-developers/) - Glance behind the curtain: it can affect engineering decisions.
-- [How HTTPS works in a comic](https://howhttps.works/)
+- [How HTTPS works in a comic](https://howhttps.works/) ([HN](https://news.ycombinator.com/item?id=24476469))
 - [HTTP Caching (2018)](https://roadmap.sh/guides/http-caching) - Everything you need to know about web caching.
 - [The Status of HTTP/3 (2020)](https://www.infoq.com/news/2020/01/http-3-status/) ([HN](https://news.ycombinator.com/item?id=22037242))
 - [Cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go.

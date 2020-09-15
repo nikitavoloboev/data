@@ -117,3 +117,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)
 - [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653))
 - [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([Code](https://github.com/uwplse))
+- [Your Language Sucks, It Doesn’t Matter (2020)](https://matklad.github.io//2020/09/13/your-language-sucks.html) ([Lobsters](https://lobste.rs/s/zp2pqd/your_language_sucks_it_doesn_t_matter))

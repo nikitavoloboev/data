@@ -50,4 +50,4 @@
 - [Elixir Tip: Case vs. With (2020)](https://preslav.me/2020/09/11/elixir-tip-case-vs-with/) ([Lobsters](https://lobste.rs/s/kmmakk/elixir_tip_case_vs_with))
 - [Changelog for Elixir v1.11](https://github.com/elixir-lang/elixir/blob/master/CHANGELOG.md) ([HN](https://news.ycombinator.com/item?id=24450512))
 - [Optimising a web crawler in Elixir (2020)](https://manzanit0.github.io/elixir/2020/09/09/optimising-crawler.html)
-- [Bakeware](https://github.com/spawnfest/bakeware) - Compile Elixir applications into single, easily distributed executable binaries.
+- [Bakeware](https://github.com/spawnfest/bakeware) - Compile Elixir applications into single, easily distributed executable binaries. ([Lobsters](https://lobste.rs/s/8c1elv/spawnfest_bakeware_compile_elixir))

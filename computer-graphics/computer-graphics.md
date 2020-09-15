@@ -87,3 +87,4 @@
 - [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - Tool designed for parsing and converting SPIR-V to other shader languages.
 - [Low Level Graphics Library (LLGL)](https://github.com/LukasBanana/LLGL) - Abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal.
 - [Band-Limiting Procedural Textures (2020)](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
+- [The compositor causes problems and leads to complexity (2020)](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html) ([HN](https://news.ycombinator.com/item?id=24466929))

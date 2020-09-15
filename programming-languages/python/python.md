@@ -171,3 +171,4 @@
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 - [Sync vs. Async Python: What Is the Difference? (2020)](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference) ([HN](https://news.ycombinator.com/item?id=24427978))
 - [Mamba](https://github.com/mamba-org/mamba) - Reimplementation of the conda package manager in C++.
+- [Nagini](https://www.pm.inf.ethz.ch/research/nagini.html) - Automated, modular verifier for (concurrent) Python programs, based on the Viper verification infrastructure. ([Code](https://github.com/marcoeilers/nagini))
