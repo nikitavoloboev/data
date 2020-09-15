@@ -20,7 +20,7 @@ I love Git and version control. And I use version control over any project I do.
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
 - [Learn Git branching](https://learngitbranching.js.org/) ([Code](https://github.com/pcottle/learnGitBranching))
 - [Gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories.
-- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service.
+- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service. ([Web](https://gitea.io/en-us/))
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 - [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history.

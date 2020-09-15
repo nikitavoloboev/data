@@ -46,3 +46,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Papers](https://github.com/store2be/pape-rs) - LaTeX template to PDF generation web service written in Rust.
 - [Collection of LaTeX templates used for research, courses](https://github.com/dustinvtran/latex-templates)
 - [handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex. ([HN](https://news.ycombinator.com/item?id=24347131))
+- [LaTeX News](https://www.latex-project.org/news/)
+- [TeX FAQ](http://www.texfaq.org/index)
+- [LuaTeX](http://www.luatex.org/) - Extended version of pdfTeX using Lua as an embedded scripting language.
+- [What is the future of TeX?](http://www.texfaq.org/FAQ-TeXfuture)

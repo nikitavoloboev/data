@@ -489,6 +489,9 @@
 - [CCache](https://github.com/karlseguin/ccache) - LRU Cache, written in Go, focused on supporting high concurrency.
 - [otp](https://github.com/pquerna/otp) - One Time Password utilities Go.
 - [Pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go.
+- [terrors](https://github.com/monzo/terrors) - Package for wrapping Golang errors. Terrors provides additional context to an error, such as an error code and a stack trace.
+- [GoFPDF](https://github.com/jung-kurt/gofpdf) - PDF document generator with high level support for text, drawing and images.
+- [Bolt](https://github.com/boltdb/bolt) - Embedded key/value database for Go.
 - [Golang Network File Server](https://github.com/willscott/go-nfs/) - NFSv3 protocol implementation in pure Go. ([HN](https://news.ycombinator.com/item?id=24287381))
 
 ## Links

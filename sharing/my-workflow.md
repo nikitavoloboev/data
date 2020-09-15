@@ -70,7 +70,7 @@
 ## Tech
 
 - Static sites (landing pages) / Blogs - [NextJS](https://nextjs.org/), [Eleventy](https://www.11ty.dev) or [Hugo](https://gohugo.io).
-- Web Apps - [NextJS](https://nextjs.org/)
+- Web Apps - [NextJS](https://nextjs.org/) with [Blitz](https://github.com/blitz-js/blitz)
 - Server APIs - [Go](https://golang.org/). Deployed serverless on [GCP Cloud Run](https://cloud.google.com/run/) or [AWS Lambda](https://aws.amazon.com/lambda/). TODO: [apex/rpc](https://github.com/apex/rpc) generate API clients
 - Scripts & CLI tools - [Go](https://golang.org/)
 - Database - [Postgres](https://www.postgresql.org) or [SQLite](https://www.sqlite.org). Use [Prisma](https://www.prisma.io/), [Hasura](https://hasura.io) or [Graphile Starter](https://github.com/graphile/starter) for GraphQL.

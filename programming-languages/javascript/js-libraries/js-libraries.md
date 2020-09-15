@@ -299,6 +299,7 @@
 - [NativeScript](https://github.com/nativescript/nativescript) - Framework for building native iOS and Android apps using JavaScript and CSS.
 - [schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary.
 - [flatpickr](https://github.com/flatpickr/flatpickr) - JS date time picker.
+- [superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 
 ## Links
 

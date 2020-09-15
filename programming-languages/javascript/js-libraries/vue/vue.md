@@ -22,3 +22,4 @@
 - [Vue Stripe Checkout](https://github.com/jofftiquez/vue-stripe-checkout)
 - [Awesome Vue 3](https://github.com/blacksonic/awesome-vue-3)
 - [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Isolated Vue component development environment with a living style guide.
+- [Trying Vue.js for the First Time (2020)](https://www.youtube.com/watch?v=3OhLUYNw0TI)

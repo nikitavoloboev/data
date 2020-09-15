@@ -39,3 +39,4 @@
 - [Let’s implement a Bloom Filter (2020)](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/) ([HN](https://news.ycombinator.com/item?id=24102617))
 - [Data Structures Part 1: Bulk Data (2019)](https://ourmachinery.com/post/data-structures-part-1-bulk-data/) ([Lobsters](https://lobste.rs/s/t8mrxn/data_structures_part_1_bulk_data))
 - [Data Structures Explained](https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/)
+- [Introduction to Cache-Oblivious Data Structures (2018)](https://rcoh.me/posts/cache-oblivious-datastructures/)

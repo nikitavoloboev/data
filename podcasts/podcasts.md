@@ -138,3 +138,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcast Stats](https://www.listennotes.com/podcast-stats/) - How many podcasts are there? ([HN](https://news.ycombinator.com/item?id=23773537))
 - [PodcastFest Russian](https://podfest.ru/)
 - [Podcast generator written in Go](https://github.com/jbub/podcasts)
+- [Relay FM](https://www.relay.fm/) - Independent podcast network for people who are creative, curious, and maybe even a little obsessive.

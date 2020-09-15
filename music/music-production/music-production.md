@@ -94,3 +94,4 @@
 - [SuperCollider Book (2011)](https://mitpress.mit.edu/books/supercollider-book) - Essential reference to SuperCollider, a powerful, flexible, open-source, cross-platform audio programming language.
 - [Pippi](https://github.com/luvsound/pippi) - Computer Music With Python. ([HN](https://news.ycombinator.com/item?id=24289981))
 - [Playtronica](https://playtronica.com/) - Interactive toolkit and playground. Turn any object alive using our prototyping instruments.
+- [Adio](https://www.adio.app/) - Collaborative songwriting platform for bands and musicians.

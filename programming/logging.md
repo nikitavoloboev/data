@@ -22,3 +22,4 @@
 - [Phuslu/Log](https://github.com/phuslu/log) - Structured Logging for Humans.
 - [Logs and Time Series are not the same (2020)](https://www.philipotoole.com/logs-and-time-series-are-not-the-same/)
 - [Tracing at Slack: Thinking in Causal Graphs (2020)](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
+- [slog](https://github.com/monzo/slog) - Go library for capturing structured log information.

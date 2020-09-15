@@ -21,3 +21,4 @@ I sometimes do one day fasts but not routinely.
 - [How Does Fasting Affect the Brain?](http://www.brainfacts.org/thinking-sensing-and-behaving/diet-and-lifestyle/2018/how-does-fasting-affect-the-brain-071318) ([HN](https://news.ycombinator.com/item?id=19858732))
 - [Effects of Intermittent Fasting on Health, Aging, and Disease](https://www.gwern.net/docs/longevity/2019-decabo.pdf) ([HN](https://news.ycombinator.com/item?id=21887905))
 - [Fasting and rapamycin: diabetes versus benevolent glucose intolerance (2019)](https://www.nature.com/articles/s41419-019-1822-8) ([Reddit](https://www.reddit.com/r/longevity/comments/cprhpl/fasting_and_rapamycin_diabetes_versus_benevolent/))
+- [Fasting improves chemotherapy results and protects from side effects (2020)](https://www.nature.com/articles/s41467-020-16138-3) ([HN](https://news.ycombinator.com/item?id=24480142))
