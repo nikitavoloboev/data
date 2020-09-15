@@ -299,6 +299,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.
 - [workspaces-run](https://github.com/jamiebuilds/workspaces-run) - Run tasks/scripts across Yarn/Lerna/Bolt/etc workspaces.
 - [MacPin](https://github.com/kfix/MacPin) - Creates pseudo-browsers managed with internal JavaScripts.
+- [PrivateBin](https://privatebin.net/) - Minimalist, open source online pastebin where the server has zero knowledge of pasted data. ([Code](https://github.com/PrivateBin/PrivateBin))
 - [notehub](https://github.com/chmllr/notehub) - Pastebin for markdown pages.
 - [dpaste](https://dpaste.org/) - Open source pastebin application. ([Code](https://github.com/bartTC/dpaste))
 - [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.

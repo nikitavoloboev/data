@@ -23,6 +23,7 @@
 - [Spinner](https://github.com/briandowns/spinner) - Simple package to add a spinner / progress indicator to any terminal application.
 - [Viper](https://github.com/spf13/viper) - Go configuration with fangs.
 - [Echelon](https://github.com/cirruslabs/echelon) - Hierarchical progress in terminals.
+- [go-glint](https://github.com/mitchellh/go-glint) - Component-based UI framework specifically targeted towards command-line interfaces.
 
 ## Test
 

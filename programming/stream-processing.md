@@ -15,3 +15,4 @@
 - [Eventual Consistency isn’t for Streaming (2020)](https://materialize.io/eventual-consistency-isnt-for-streaming/) ([HN](https://news.ycombinator.com/item?id=23832149))
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) - Open-Source Distributed Stream and Batch Processing. ([Web](https://jet-start.sh/))
 - [WTF are streams? (2019)](https://manzanit0.github.io/computing/2019/05/29/wtf-are-streams.html)
+- [Benthos](https://github.com/Jeffail/benthos) - Stream processor for mundane tasks written in Go. ([Web](https://www.benthos.dev/))

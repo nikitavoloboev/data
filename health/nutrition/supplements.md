@@ -11,7 +11,9 @@ Supplements I take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr
 
 From these, Magnesium & Vitamin D3 are the more important supplements.
 
-I try to minimize the number of things my body has to process to bare essentials. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely.
+I try to minimize the number of things my body has to process to bare essentials so more often than not I don't take any supplements. I maximize the quality of food I eat by eating [natural whole food plant based food](foods.md). I also fast but not routinely.
+
+And I enjoy taking [psychedelics](../../drugs/psychedelics/psychedelics.md) once in few months. Tryptamines being my favorite.
 
 ## Interesting
 

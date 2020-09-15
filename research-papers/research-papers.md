@@ -60,3 +60,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [How You Should Read Research Papers According To Andrew Ng (2020)](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
 - [Meta-Search](https://ricon.dev/) - Find Systematic reviews and meta-analysis that cite a given paper. ([About](https://ricon.dev/about))
 - [ResearchHub](https://www.researchhub.com/) - Open Science Community.
+- [Annotated Research Papers](https://github.com/AakashKumarNain/annotated_research_papers)

@@ -155,3 +155,4 @@
 - [Logging in Swift (2020)](https://steipete.com/posts/logging-in-swift/)
 - [Swiftly](https://swiftly.dev/) - Swift references for busy coders.
 - [The Swift Runtime: Heap Objects (2020)](https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/)
+- [JSON Decoding in Swift with Codable: A Practical Guide (2020)](https://matteomanferdini.com/codable/)

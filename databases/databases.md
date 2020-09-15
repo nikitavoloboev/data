@@ -206,3 +206,4 @@
 - [sled simulation guide](https://sled.rs/simulation) - Contains basic information about deterministic testing of distributed, message-based, event-driven, or actor systems.
 - [Database of Databases](https://dbdb.io/) - Discover and learn about database management systems.
 - [DB-Engines](https://db-engines.com/en/) - Knowledge Base of Relational and NoSQL Database Management Systems.
+- [Old, Good Database Design (2020)](https://relinx.io/2020/09/14/old-good-database-design/)

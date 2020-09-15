@@ -15,6 +15,7 @@ I share [all the macros I use](km-macros.md) with the app.
 - [Keyboard Maestro converts any variables that start with ENV\_ into environment variables when it launches sub-processes.](https://forum.keyboardmaestro.com/t/how-to-sent-env-in-keyboard-maestro/11947/2)
 - `defaults write com.stairways.keyboardmaestro.editor MouseGetCountdown -int 3` will change the [timer for getting coordinates from 5 secs to 3](https://forum.keyboardmaestro.com/t/is-there-a-way-to-set-default-waiting-time-to-get-coordinates-from-5-seconds-to-3-seconds/14980).
 - Can dismiss palettes with `return` key.
+- Useful to sort macros by `Date modified`. Applies to most other tools too like Finder.
 
 ## Links
 

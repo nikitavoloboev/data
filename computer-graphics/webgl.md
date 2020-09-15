@@ -31,3 +31,4 @@
 - [Advanced Creative Coding with WebGL and Shaders on top of ThreeJS (2020)](https://frontendmasters.com/courses/webgl-shaders/)
 - [Real-time rendering of water caustics (2020)](https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa)
 - [OrigamiSimulator](https://github.com/amandaghassaei/OrigamiSimulator) - Realtime WebGL origami simulator. ([Web](https://origamisimulator.org/))
+- [Progressive Enhancement with WebGL and React (2020)](https://medium.com/14islands/progressive-enhancement-with-webgl-and-react-71cd19e66d4)

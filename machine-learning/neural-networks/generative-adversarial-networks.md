@@ -34,3 +34,4 @@
 - [TecoGAN](https://github.com/thunil/TecoGAN) - TEmporally COherent GAN for video super-resolution. ([Video](https://www.youtube.com/watch?v=MwCgvYtOLS0))
 - [Playing a game of GANstruction (2020)](https://thegradient.pub/playing-a-game-of-ganstruction/)
 - [Score matching with Langevin Sampling: a new contender to GANs (2020)](https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/) ([HN](https://news.ycombinator.com/item?id=24366524))
+- [PyTorch GANs](https://github.com/gordicaleksa/pytorch-gans) - Contains PyTorch implementation of various GAN architectures.

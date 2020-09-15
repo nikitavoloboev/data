@@ -72,7 +72,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Statebox Category Theory Course](https://training.statebox.org/)
 - [Category Theory -- The math behind hyper-convergence automation (2019)](https://multix.sfo2.cdn.digitaloceanspaces.com/Category%20Theory%20TechBBQ.pdf)
 - [Pittsburgh Functional Programming Book Club featuring Category Theory for Programmers](https://github.com/chiroptical/ctfp-book-club) -
-- [Applied Category Theory 2020](https://act2020.mit.edu/)
+- [Applied Category Theory 2020](https://act2020.mit.edu/) ([2020 Recordings](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYot9VNdLlZqGajHyZUywdI)) ([2020 Tutorials](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYPE63bVbsVfA41_wa3sZOh))
 - [MIT Categories Seminar - Eugenia Cheng: Distributive laws for Lawvere theories (2020)](https://www.youtube.com/watch?v=YCJAzV1g6Xo)
 - [AlgebraicJulia: Applied Category Theory in Julia | James Fairbanks (2020)](https://www.youtube.com/watch?v=7zr2qnud4XM)
 - [Why does the "working mathematician" need category theory? (2020)](https://www.reddit.com/r/math/comments/i7erja/why_does_the_working_mathematician_need_category/)
@@ -81,6 +81,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [MIT: Programming with Categories (2020)](http://brendanfong.com/programmingcats.html) ([HN](https://news.ycombinator.com/item?id=24353976))
 - [n-Category Cafe category theory posts](https://golem.ph.utexas.edu/category/)
 - [Category Theory for the Sciences (2014)](https://mitpress.mit.edu/books/category-theory-sciences)
+- [Categorical Probability and Statistics (2020)](http://perimeterinstitute.ca/personal/tfritz/2019/cps_workshop/) ([Videos](https://www.youtube.com/playlist?list=PLaILTSnVfqtIebAXFOcee9MvAyBwhIMyr))
 
 ## Images
 

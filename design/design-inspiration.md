@@ -291,6 +291,7 @@ Here are few more things I liked, design wise.
 - [Joe Birr-Pixton](http://jbp.io/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)
+- [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
 - [Eric Davidson](https://www.erdavids.com/)
 - [Jay Riverlong](https://jayriverlong.github.io/)
 - [Tatiana Mac](https://tatianamac.com/)
@@ -318,6 +319,7 @@ Here are few more things I liked, design wise.
 - [Steve Losh](https://stevelosh.com/)
 - [David Heinemeier Hansson](https://dhh.dk/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
+- [Jason Pamental](https://rwt.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Sam Bleckley](https://sambleckley.com/)
 - [Paul Butler](https://paulbutler.org/)

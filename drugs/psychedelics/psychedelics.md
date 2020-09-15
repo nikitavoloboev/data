@@ -16,6 +16,8 @@ My favorite psychedelics currently are [4-AcO-DMT](https://psychonautwiki.org/wi
 
 I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance.
 
+I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day.
+
 ## Notes
 
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)
