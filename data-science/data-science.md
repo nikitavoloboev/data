@@ -114,3 +114,4 @@
 - [Modern Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - [How to share data with a statistician](https://github.com/jtleek/datasharing)
 - [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
+- [Jigsaw Labs](https://www.jigsawlabs.io/) - Learn Data Science part-time.

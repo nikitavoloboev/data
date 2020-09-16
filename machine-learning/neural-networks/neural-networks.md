@@ -139,3 +139,4 @@
 - [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) - Curated list of neural network pruning resources.
 - [Hopfield Networks is All You Need (2020)](https://arxiv.org/abs/2008.02217)
 - [Sparse Networks from Scratch: Faster Training without Losing Performance (2019)](https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/)
+- [Jigsaw Labs - Learn Neural Nets](https://www.jigsawlabs.io/#neural_nets)
