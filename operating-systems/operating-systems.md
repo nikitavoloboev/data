@@ -48,6 +48,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [CyanOS](https://github.com/AymenSekhri/CyanOS) - x86 monolithic kernel operating system, coded in C++ 17 and few lines of x86 Assembly.
 - [ChaiOS](https://github.com/ChaiSoft/ChaiOS) - Modular multi-platform hobby OS. Hybrid kernel, largely monolithic. Kernel C library is dynamically linked.
 - [Tails](https://tails.boum.org/) - Portable operating system that protects against surveillance and censorship. ([Intro](https://tilvids.com/videos/watch/44aa73c5-ac76-4b6c-9de3-9b87f9980482))
+- [EmuTOS](https://github.com/emutos/emutos) - Free operating system for Atari ST computers, and more. ([Web](https://emutos.sourceforge.io/))
 
 ## Notes
 

@@ -15,3 +15,4 @@
 - [PodToBUILD](https://github.com/pinterest/PodToBUILD) - Easy way to build CocoaPods with Bazel - it integrates pods end to end with an easy to use macro.
 - [Bazel Performance in a CI Environment (2020)](https://filipnikolovski.com/posts/bazel-performance-in-a-ci-environment/)
 - [Bazel Code](https://github.com/bazelbuild/bazel)
+- [Bazel for Open-source C / C++ Libraries Distribution (2020)](https://liuliu.me/eyes/bazel-for-libraries-distribution-an-open-source-library-author-perspective/)

@@ -87,3 +87,4 @@
 - [The Technical Interview is an Ego Trip (2020)](https://blog.kowsheek.com/the-technical-interview-is-an-ego-trip/) ([HN](https://news.ycombinator.com/item?id=24447182))
 - [List of company wise questions available on Leetcode premium](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
 - [Ask HN: What is a better approach to interviewing? (2020)](https://news.ycombinator.com/item?id=24454866)
+- [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview) ([Lobsters](https://lobste.rs/s/cvi4vc/rewriting_technical_interview))

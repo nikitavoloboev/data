@@ -28,4 +28,5 @@
 - [Spicy](https://github.com/zeek/spicy) - C++ parser generator that makes it easy to create robust parsers for network protocols, file formats, and more.
 - [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers (2020)](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/) ([Lobsters](https://lobste.rs/s/pje7ff/don_t_panic_better_fewer_syntax_errors_for)) ([HN](https://news.ycombinator.com/item?id=23850718))
 - [Parsing: a timeline (2014)](http://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2014/09/chron.html) ([HN](https://news.ycombinator.com/item?id=8290681))
-- [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/entries/which_parsing_approach.html)
+- [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/entries/which_parsing_approach.html) ([Lobsters](https://lobste.rs/s/9pcqys/which_parsing_approach))
+- [Lark](https://github.com/lark-parser/lark/) - Parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
