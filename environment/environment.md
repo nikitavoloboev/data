@@ -45,3 +45,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The path to net zero – Climate Assembly UK full report](https://www.climateassembly.uk/report/)
 - [How Big Oil Misled the Public into Believing Plastic Would Be Recycled (2020)](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled) ([HN](https://news.ycombinator.com/item?id=24441979))
 - [Bubble barriers: a smart solution to plastic pollution](https://thegreatbubblebarrier.com/en/) ([HN](https://news.ycombinator.com/item?id=24480289))
+- [How Earth’s Climate Changes Naturally (and Why Things Are Different Now) (2020)](https://www.quantamagazine.org/how-earths-climate-changes-naturally-and-why-things-are-different-now-20200721/)
