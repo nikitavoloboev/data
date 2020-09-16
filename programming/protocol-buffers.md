@@ -21,3 +21,4 @@
 - [Golang ProtoBuf Validator Compiler](https://github.com/mwitkow/go-proto-validators)
 - [protopatch](https://github.com/alta/protopatch) - Patch protoc plugin output with Go-specific features.
 - [Wire](https://github.com/square/wire) - GRPC and protocol buffers for Android, Kotlin, and Java. ([Support for Swift](https://cashapp.github.io/2020-08-19/wire-support-for-swift-part-1))
+- [pb-jelly](https://github.com/dropbox/pb-jelly) - Protobuf code generation framework for the Rust language developed at Dropbox. ([HN](https://news.ycombinator.com/item?id=24493491))
