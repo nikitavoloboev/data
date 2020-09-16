@@ -13,3 +13,4 @@
 - [AWS Amplify Docs](https://aws.amazon.com/amplify/)
 - [AWS Amplify Discord](https://discord.com/invite/amplify)
 - [Using Swift Combine with AWS Amplify (2020)](https://aws.amazon.com/blogs/mobile/using-swift-combine-with-aws-amplify/)
+- [AWS Amplify Cheat Sheet](https://twitter.com/ramonpostulart/status/1306223867652911104)

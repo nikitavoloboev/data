@@ -103,6 +103,10 @@
 - State - useState/Context with [Jotai](https://github.com/react-spring/jotai) TODO: [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx),
 - GraphQL - [Urql](https://github.com/FormidableLabs/urql) TODO: [Apollo](https://www.apollographql.com).
 
+## Web
+
+- Performance check - use [WebPageTest](https://webpagetest.org/)
+
 ## Design System
 
 - Components - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
