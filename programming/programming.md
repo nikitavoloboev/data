@@ -38,6 +38,7 @@
   - Identify whether or not the framework/third-party app is actually delivering value over just implementing a smaller bespoke solution yourself. Color picker? Almost certainly. Database extension? Probably. Container orchestration for a static blog? Probably not.
   - Pseudocode and stepwise refinement of the solution to a problem. If you can’t explain something with bullet points, you don’t understand it, and if you don’t understand it, you’re slow.
 - [Code style comments are tiny cuts to someone's confidence and you should weigh that vs the value of the "fixing" it..](https://twitter.com/zkat__/status/1296130087314534401)
+- [My measure of codebase quality these days is almost entirely "how easy is it to change". So readability is key, and also making sure that changes have to touch as few places in the code as possible.](https://twitter.com/simonw/status/1306269673252478978)
 
 ## Links
 

@@ -33,3 +33,4 @@
 - [Accessibility Testing is like Making Coffee (2020)](https://madalyn.dev/blog/a11y-testing-coffee/)
 - [axe-mode](https://github.com/raunofreiberg/axe-mode) - Accessibility testing visualized.
 - [A11y Testing Is Like Making Coffee](https://a11y.coffee/a11y-testing-making-coffee/)
+- [Accessibility Guide in Russian](http://specialbank.ru/guide/)
