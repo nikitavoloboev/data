@@ -23,3 +23,4 @@
 - [reactions-spreadsheet](https://github.com/osnr/reactions-spreadsheet) - Tiny multiplayer spreadsheet where you can react to cells.
 - [Strongly Typed Realtime Programming with TypeScript (2020)](https://www.stackbuilders.com/news/strongly-typed-realtime-programming-with-typescript)
 - [WebSocket Client & Server Implementation for Node](https://github.com/theturtle32/WebSocket-Node)
+- [GraphQL over WebSockets (2020)](https://the-guild.dev/blog/graphql-over-websockets)

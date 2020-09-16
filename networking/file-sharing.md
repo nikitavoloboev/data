@@ -31,3 +31,4 @@
 - [Broccoli: Syncing faster by syncing less (2020)](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 - [Ask HN: What is your favorite method of sending large files? (2020)](https://news.ycombinator.com/item?id=24351111)
 - [Data Transfer Project](https://github.com/google/data-transfer-project) - Makes it easy for people to transfer their data between online services. ([Web](https://datatransferproject.dev/))
+- [File Transfer with SSH, Tee, and Base64 (2019)](https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/)

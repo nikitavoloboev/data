@@ -40,3 +40,4 @@
 - [Data Structures Part 1: Bulk Data (2019)](https://ourmachinery.com/post/data-structures-part-1-bulk-data/) ([Lobsters](https://lobste.rs/s/t8mrxn/data_structures_part_1_bulk_data))
 - [Data Structures Explained](https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/)
 - [Introduction to Cache-Oblivious Data Structures (2018)](https://rcoh.me/posts/cache-oblivious-datastructures/)
+- [The Daily Coding newsletter](https://thedailycoding.com/) - Master JavaScript and Data Structures.

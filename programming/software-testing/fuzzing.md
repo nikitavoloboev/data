@@ -14,6 +14,6 @@
 - [lain](https://github.com/microsoft/lain) - Fuzzer framework built in Rust.
 - [Fuzzing Raft for Fun and Publication (2015)](https://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit/)
 - [Design Draft: First Class Fuzzing in Go](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
-- [FuzzCon](https://www.fuzzcon.eu/) - European Online Conference About Fuzzing.
+- [FuzzCon](https://www.fuzzcon.eu/) - European Online Conference About Fuzzing. ([Videos](https://www.youtube.com/playlist?list=PLI0R_0_8-TV4JArtdlgnuPtgXALZxAYqu))
 - [Advanced Fuzzing: Compare shattering (2020)](https://www.youtube.com/watch?v=yezHZuDCBho)
 - [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)

@@ -30,3 +30,4 @@
 - [Parsing: a timeline (2014)](http://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2014/09/chron.html) ([HN](https://news.ycombinator.com/item?id=8290681))
 - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/entries/which_parsing_approach.html) ([Lobsters](https://lobste.rs/s/9pcqys/which_parsing_approach))
 - [Lark](https://github.com/lark-parser/lark/) - Parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
+- [Challenging LR Parsing (2020)](https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html)

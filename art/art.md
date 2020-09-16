@@ -173,6 +173,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Bee Grandinetti](http://www.beegrandinetti.com/)
 - [Miena A.R.](https://mienar.com/original-artworks)
 - [Victor Mosquera](https://www.instagram.com/victormosquera/)
+- [Mike Winkelmann](https://www.instagram.com/beeple_crap/)
 
 ## Interesting art
 

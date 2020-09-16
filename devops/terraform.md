@@ -25,3 +25,4 @@
 - [CDK for Terraform: Enabling Python & TypeScript Support (2020)](https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support/)
 - [Terraform and Nix integration](https://github.com/tweag/terraform-nixos) - Set of Terraform modules that are designed to deploy NixOS.
 - [Terraform Registry](https://registry.terraform.io/)
+- [Terratag](https://github.com/env0/terratag) - CLI tool for Terraform users to create and maintain tags (AWS, GCP, Azure).

@@ -73,3 +73,4 @@
 - [Babel Ventures](https://www.babel.ventures/)
 - [Pace Capital](https://www.pacecapital.com/)
 - [NEA](https://www.nea.com/)
+- [VC Guide](https://www.vcguide.co/) - Anonymous fund & investor partner reviews by founders for founders. ([HN](https://news.ycombinator.com/item?id=24491199))

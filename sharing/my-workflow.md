@@ -100,11 +100,13 @@
 
 ## React
 
-- State Management - React useState/Context with [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx), [Urql](https://github.com/FormidableLabs/urql) or [Apollo](https://www.apollographql.com).
+- State - useState/Context with [Jotai](https://github.com/react-spring/jotai) TODO: [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx),
+- GraphQL - [Urql](https://github.com/FormidableLabs/urql) TODO: [Apollo](https://www.apollographql.com).
 
 ## Design System
 
-- [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- Components - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- [Storybook](https://storybook.js.org/) - View/test components on web.
 
 ## Payment
 

@@ -20,7 +20,7 @@
 - [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](https://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
-- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
+- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course) ([Web](https://course.spacy.io/en/))
 - [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
 - [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp)
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.

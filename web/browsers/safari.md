@@ -2,7 +2,7 @@
 
 My favorite browser. It is incredibly fast & cares about my privacy unlike Chrome.
 
-Here are the websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
+Here are websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
 
 ![](https://i.imgur.com/uDjnhwX.jpg)
 
@@ -22,7 +22,7 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 
 ![](https://i.imgur.com/po7kXGS.png)
 
-- There's 500 open tabs limit on Safari iOS.
+- There's 500 open tabs limit on Safari.
 - [Can right click on any DOM node in the inspector and grab a screenshot of that node](https://twitter.com/brian_lovin/status/1255208138699010048)
 
 ## Links

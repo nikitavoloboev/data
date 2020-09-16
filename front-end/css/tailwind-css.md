@@ -25,3 +25,4 @@
 - [Tailwind Ink](https://tailwind.ink/) - AI color palette generator for TailwindCSS. ([HN](https://news.ycombinator.com/item?id=24397183)) ([Code](https://github.com/dmarman/dmarman.github.io))
 - [Tailwind Studio](https://tailwind-studio.com/)
 - [Beginner Tailwind](https://beginnertailwind.com/) - Make good looking designs quickly. All without a single line of custom CSS.
+- [Tailwind UI React extension](https://chrome.google.com/webstore/detail/tailwind-ui-react/binfindfddkgfibeajgkmjioklcgigjn/related)

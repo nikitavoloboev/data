@@ -61,3 +61,5 @@
 - [HTML APIs: What They Are And How To Design A Good One (2017)](https://www.smashingmagazine.com/2017/02/designing-html-apis/)
 - [Creating a sitemap.xml from a pile of HTML files](https://www.christopherbiscardi.com/creating-a-sitemap-xml-from-a-pile-of-html-files)
 - [DOM Expressions](https://github.com/ryansolid/dom-expressions) - Fine-Grained Runtime for Performant DOM Rendering.
+- [Form Design](https://gerireid.com/forms.html)
+- [xm](https://github.com/giuseppeg/xm) - Extensible HTML. ([Docs](https://giuseppegurgone.com/xm/))
