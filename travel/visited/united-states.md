@@ -18,3 +18,4 @@
 - [Immigrating to the US: My path from non-immigrant to permanent resident (2020)](https://blog.maximeheckel.com/posts/immigrating-to-the-us-my-path)
 - [List of things to fix in US (2020)](https://www.reddit.com/r/EverythingScience/comments/hniy7v/the_us_is_deporting_scientists_im_one_of_them/fxctulk?utm_source=share&utm_medium=web2x)
 - [Sonic](https://www.sonic.com/) - Gigabit Fiber Internet & Phone.
+- [How to Form a California LLC (without a lawyer) (2020)](https://feross.org/form-california-llc/) ([HN](https://news.ycombinator.com/item?id=24487937)) ([Tweet](https://twitter.com/feross/status/1306014643471683585))
