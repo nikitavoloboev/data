@@ -123,3 +123,4 @@
 - [Elements of Physics](https://elements-of-physics.surge.sh/) - Interactive simulation which describes different elements of physics like Gravity, Acceleration and Force.
 - [Do we really travel through time with the speed of light? (2020)](https://backreaction.blogspot.com/2020/08/do-we-really-travel-through-time-with.html) ([HN](https://news.ycombinator.com/item?id=24328617))
 - [Physics is stuck (2020)](https://www.salon.com/2020/09/06/physics-is-stuck--and-needs-another-einstein-to-revolutionize-it-physicist-avi-loeb-says/) ([HN](https://news.ycombinator.com/item?id=24454438))
+- [Manifestations of waves in nature (2020)](https://twitter.com/QiaochuYuan/status/1306048749462908931)
