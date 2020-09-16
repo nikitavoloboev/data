@@ -41,6 +41,8 @@
 - [How hard is unshuffling a string?](https://cstheory.stackexchange.com/questions/34/how-hard-is-unshuffling-a-string)
 - [Optimization Algorithms on Matrix Manifolds](https://sites.uclouvain.be/absil/amsbook/)
 - [Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html) ([HN](https://news.ycombinator.com/item?id=24287622)) ([PDF](https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf))
+- [Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- [Algorithms implemented in JavaScript](https://github.com/TheAlgorithms/Javascript)
 - [Algorithms & Data Structures in Java](https://github.com/williamfiset/Algorithms)
 - [Wolfsort](https://github.com/scandum/wolfsort) - Stable adaptive hybrid radix / merge sort.
 

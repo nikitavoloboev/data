@@ -55,3 +55,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Why Privacy Matters (2020)](https://thistooshallgrow.com/blog/privacy-security-roundup) ([HN](https://news.ycombinator.com/item?id=24341079))
 - [Nym](https://nymtech.net/) - Developing the infrastructure to prevent this data leakage and provide people with strong internet privacy.
 - [Your Phone Is Your Castle](https://puri.sm/posts/your-phone-is-your-castle/) ([HN](https://news.ycombinator.com/item?id=24463347))
+- [Threat Models for Differential Privacy (2020)](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)

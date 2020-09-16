@@ -90,3 +90,4 @@
 - [Insanity 4004 – Experiments with the world's first microprocessor](http://insanity4004.blogspot.com/) ([HN](https://news.ycombinator.com/item?id=24440060))
 - [Teensy](https://www.pjrc.com/teensy/) - Complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of projects.
 - [HN: Nvidia to Acquire Arm for \$40B (2020)](https://news.ycombinator.com/item?id=24464807)
+- [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi.

@@ -68,3 +68,4 @@
 - [Starboard](https://starboard.gg/) - Fully in-browser literate notebooks like Jupyter Notebook. ([HN](https://news.ycombinator.com/item?id=24029002)) ([Code](https://github.com/gzuidhof/starboard-notebook))
 - [Jupyter Book](https://github.com/executablebooks/jupyter-book) - Open-source tool for building publication-quality books and documents from computational material. ([Intro](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)) ([HN](https://news.ycombinator.com/item?id=24136955)) ([Web](https://jupyterbook.org/intro.html)) ([Docs](https://executablebooks.org/en/latest/))
 - [Tracking Jupyter newsletter](https://tinyletter.com/TrackingJupyter/)
+- [Text2Code for Jupyter notebook](https://github.com/deepklarity/jupyter-text2code) - Proof-of-concept jupyter extension which converts english queries into relevant python code.

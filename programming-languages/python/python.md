@@ -60,7 +60,6 @@
 - [Python -> Speed blog](https://pythonspeed.com/) - Learn tools and techniques to help you ship better Python software, faster.
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments.
 - [pyperf](https://github.com/vstinner/pyperf) - Toolkit to run Python benchmarks.
-- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [Flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules.
 - [Python debugger package for use with Visual Studio and Visual Studio Code](https://github.com/microsoft/ptvsd)
 - [Pyflame](https://github.com/uber/pyflame) - Ptracing Profiler For Python.
@@ -173,3 +172,5 @@
 - [Mamba](https://github.com/mamba-org/mamba) - Reimplementation of the conda package manager in C++.
 - [Nagini](https://www.pm.inf.ethz.ch/research/nagini.html) - Automated, modular verifier for (concurrent) Python programs, based on the Viper verification infrastructure. ([Code](https://github.com/marcoeilers/nagini))
 - [Source Code Modeling](https://github.com/lab-ml/source_code_modelling) - Use Transformers and LSTMs to learn Python source code.
+- [Course Files for Complete Python 3 Bootcamp Course](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
+- [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Case studies in successfully shipping Python software.
