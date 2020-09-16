@@ -151,6 +151,7 @@
 - [cadCAD](https://github.com/cadCAD-org/cadCAD) - Design, simulate, validate, and operate within complex systems.
 - [asyncio-buffered-pipeline](https://github.com/michalc/asyncio-buffered-pipeline) - Parallelise pipelines of Python async iterables/generators. ([HN](https://news.ycombinator.com/item?id=24390116))
 - [quickle](https://github.com/jcrist/quickle) - Fast and small serialization format for a subset of Python types. ([Docs](https://jcristharif.com/quickle/))
+- [Boltons](https://github.com/mahmoud/boltons) - Set of over 230 pure-Python utilities.
 
 ## Links
 
