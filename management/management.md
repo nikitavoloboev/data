@@ -49,3 +49,4 @@
 - [Some Thoughts on Estimation (2019)](https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html)
 - [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 - [How Linear.app builds its software](https://linear.app/linear-method)
+- [The software engineering lifecycle: How we built the new Dropbox Plus (2020)](https://dropbox.tech/frontend/the-software-engineering-lifecycle--how-we-built-the-new-dropbox) ([HN](https://news.ycombinator.com/item?id=24494852))

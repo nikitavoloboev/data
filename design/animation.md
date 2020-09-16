@@ -19,3 +19,4 @@
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
 - [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)
+- [WeightShift](https://weightshift.io/) - Maya plugin for animator friendly, physically-based character animation.
