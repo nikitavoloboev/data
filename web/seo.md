@@ -30,5 +30,4 @@
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) - Add metadata tags for search engines and social networks to better index and display your site's content.
 - [My best SEO tactic so far (2020)](https://questinglog.com/my-best-seo-tactic-so-far/) ([HN](https://news.ycombinator.com/item?id=24163658))
 - [SEO Doesn't Matter Anymore (2020)](https://hawaiigentech.com/post/no-more-seo/)
-- [Some Things I’ve Learned About SEO](https://patwalls.com/some-things-i-ve-learned-about-seo)
-- [Tips on getting good good Google SEO (2020)](https://patwalls.com/some-things-i-ve-learned-about-seo) ([Tweet](https://twitter.com/thepatwalls/status/1306614893630681088))
+- [Some Things I’ve Learned About SEO](https://patwalls.com/some-things-i-ve-learned-about-seo) ([Tweet](https://twitter.com/thepatwalls/status/1306614893630681088))
