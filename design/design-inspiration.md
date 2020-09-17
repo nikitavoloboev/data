@@ -46,6 +46,7 @@ Here are few more things I liked, design wise.
 - [iA](https://ia.net/)
 - [Uniswap](https://uniswap.org/)
 - [Panic](https://panic.com/)
+- [Podia](https://www.podia.com/)
 
 ## Blogs
 
