@@ -223,6 +223,7 @@ Here are few more things I liked, design wise.
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Derek Sivers](https://sivers.org/)
+- [Camille Fassett](https://www.sempervirens.io/)
 - [Bargava Subramanian](https://www.bargava.com/)
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
 - [Andy McCune](https://andymccune.com/)
