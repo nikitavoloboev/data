@@ -22,3 +22,4 @@
 - [Modern garbage collection (2016)](https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e) - A look at the Go GC strategy.
 - [Virtual Memory Tricks (2017)](https://ourmachinery.com/post/virtual-memory-tricks/)
 - [Reference counting vs GC (2020)](https://twitter.com/mraleph/status/1305209967641796611)
+- [Memory allocator showdown (2020)](https://blog.janestreet.com/memory-allocator-showdown/)
