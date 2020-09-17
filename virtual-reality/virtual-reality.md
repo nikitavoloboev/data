@@ -19,3 +19,4 @@
 - [Mozilla Hubs](https://hubs.mozilla.com/#/) - Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out. ([Code](https://github.com/mozilla/hubs))
 - [A-Frame](https://aframe.io/) - Make WebVR.
 - [Relativty](https://www.relativty.com/) - Open-source VR headset. ([HN](https://news.ycombinator.com/item?id=24431052)) ([Code](https://github.com/relativty/Relativty))
+- [Facebook Connect: John Carmack Unscripted Live (2020)](https://www.youtube.com/watch?v=sXmY26pOE-Y)
