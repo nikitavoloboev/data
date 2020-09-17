@@ -266,7 +266,7 @@
 - [Blue Team Rust: What Is “Memory Safety”, Really? (2020)](https://tiemoko.com/blog/blue-team-rust/) ([HN](https://news.ycombinator.com/item?id=24024876))
 - [A gentle intro to assembly with Rust (2020)](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/)
 - [Learning Rust: Mindsets and Expectations (2020)](https://ferrous-systems.com/blog/mindsets-and-expectations/)
-- [An introduction to Data Oriented Design with Rust (2020)](http://jamesmcm.github.io/blog/2020/07/25/intro-dod/)
+- [An introduction to Data Oriented Design with Rust (2020)](https://jamesmcm.github.io/blog/2020/07/25/intro-dod/) ([HN](https://news.ycombinator.com/item?id=24506744))
 - [Rusty Days 2020](https://www.youtube.com/playlist?list=PLf3u8NhoEikhTC5radGrmmqdkOK-xMDoZ)
 - [Inbound & Outbound FFI (2020)](https://www.possiblerust.com/guide/inbound-outbound-ffi)
 - [How to speed up the Rust compiler some more in 2020](https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/) ([HN](https://news.ycombinator.com/item?id=24057022)) ([Lobsters](https://lobste.rs/s/tmqadv/how_speed_up_rust_compiler_some_more_2020))

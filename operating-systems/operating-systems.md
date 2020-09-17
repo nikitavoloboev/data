@@ -49,6 +49,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [ChaiOS](https://github.com/ChaiSoft/ChaiOS) - Modular multi-platform hobby OS. Hybrid kernel, largely monolithic. Kernel C library is dynamically linked.
 - [Tails](https://tails.boum.org/) - Portable operating system that protects against surveillance and censorship. ([Intro](https://tilvids.com/videos/watch/44aa73c5-ac76-4b6c-9de3-9b87f9980482))
 - [EmuTOS](https://github.com/emutos/emutos) - Free operating system for Atari ST computers, and more. ([Web](https://emutos.sourceforge.io/))
+- [HalideOS](https://github.com/DSC-KIIT/project-halide) - Experimental operating system written entirely from scratch. It supports a basic shell with some commands including a command line calculator.
 
 ## Notes
 
