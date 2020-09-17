@@ -156,3 +156,5 @@
 - [A tale of webpage speed, or throwing away React (2020)](https://solovyov.net/blog/2020/a-tale-of-webpage-speed-or-throwing-away-react/) ([HN](https://news.ycombinator.com/item?id=24258855))
 - [React is becoming a black box](https://jaredpalmer.com/blog/react-is-becoming-a-black-box) ([HN](https://news.ycombinator.com/item?id=24363261))
 - [Rewriting Facebook's "Recoil" React library from scratch in 100 lines (2020)](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/)
+- [react-nil](https://github.com/pmndrs/react-nil) - Allows you to bring Reacts high-level component abstraction to Node, or wherever you need it.
+- [What do you use to handle state with React? (2020)](https://twitter.com/rachelnabors/status/1306563902436716545)

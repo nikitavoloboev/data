@@ -39,6 +39,7 @@
 - [Monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 - [Coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching.
 - [almond](https://github.com/almond-sh/almond) - Scala kernel for Jupyter. ([Web](https://almond.sh/))
+- [Twitter Util](https://github.com/twitter/util) - Bunch of idiomatic, small, general purpose tools.
 
 ## Links
 

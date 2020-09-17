@@ -22,3 +22,4 @@
 - [hashmap.c](https://github.com/tidwall/hashmap.c) - Hash map implementation in C.
 - [Hashmaps Benchmarks (2019)](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)
 - [tsip](https://github.com/dgryski/tsip) - Go, amd64, C, and Rust implemtations of a small fast string hashing function.
+- [High Speed Hashing for Integers and Strings (2020)](https://arxiv.org/pdf/1504.06804.pdf)

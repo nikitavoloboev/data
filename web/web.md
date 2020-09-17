@@ -34,7 +34,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Build Tracker](https://github.com/paularmstrong/build-tracker) - Set of tools to track the size of your build artifacts over time.
 - [monolith](https://github.com/Y2Z/monolith) - Save HTML pages with ease. ([HN](https://news.ycombinator.com/item?id=20774322))
 - [Watch Netlify's CEO code a Sudoku app from scratch in a bar on a Saturday night (2019)](https://www.youtube.com/watch?v=GytUZLK4kwA)
-- [static.fun](https://github.com/zeit/static-fun) - Fun demo for wildcard domains.
+- [static.fun](https://github.com/vercel/static-fun) - Fun demo for wildcard domains.
 - [W3C on GitHub](https://github.com/w3c/) - Resources useful when working on W3C projects using GitHub.
 - [Deep Dive Into Modern Web Development (2019)](https://fullstackopen.com/en/)
 - [urlwatch](https://github.com/thp/urlwatch) - Monitors webpages for you.

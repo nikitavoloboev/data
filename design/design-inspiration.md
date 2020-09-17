@@ -45,6 +45,7 @@ Here are few more things I liked, design wise.
 - [Failory](https://www.failory.com/)
 - [iA](https://ia.net/)
 - [Uniswap](https://uniswap.org/)
+- [Panic](https://panic.com/)
 
 ## Blogs
 
@@ -262,6 +263,7 @@ Here are few more things I liked, design wise.
 - [Lauren Tan](https://www.no.lol/)
 - [Tinnei](https://tinnei.today/index.html)
 - [Stéphanie Walter](https://stephaniewalter.design/)
+- [Carlos Becker](https://carlosbecker.com/) ([Code](https://github.com/caarlos0/carlosbecker.com))
 - [Nienke Dekker](https://nienke.dev/)
 - [Stefan Baumgartner](https://fettblog.eu/)
 - [Luke Miles](https://ylukem.com/)
@@ -363,6 +365,7 @@ Here are few more things I liked, design wise.
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) -Clean dark design.
 - [Renzo Carbonara](https://ren.zone/) - Simple.
 - [xxiivv](http://xxiivv.com/)
+- [Corey Haines](https://www.coreyhaines.co/)
 - [Kokorobot](http://kokorobot.ca/#home)
 - [Code Kitchen](http://codekitchen.net/) - Small animation.
 - [Kenneth Reitz](https://www.kennethreitz.org/)

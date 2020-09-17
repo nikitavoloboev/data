@@ -27,3 +27,4 @@
 - [10 Tweets about Newsletters, 3 words each](https://twitter.com/Kamphey/status/1285773961138036742)
 - [mailbadger](https://github.com/mailbadger/app) - Self hosted newsletter mail system written in go.
 - [Django News Feed](https://github.com/saadmk11/django-newsfeed) - News curator and newsletter subscription package for Django. ([HN](https://news.ycombinator.com/item?id=24389275))
+- [SubStats](https://substats.actionably.com/) - Substack Newsletter Leaderboard.

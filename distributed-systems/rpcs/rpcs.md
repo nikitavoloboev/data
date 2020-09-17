@@ -14,3 +14,4 @@
 - [Loqui](https://github.com/discord/loqui) - Transport that implements a very simple framing protocol over a raw socket.
 - [Go Tools for Recording and Replaying RPCs](https://github.com/google/go-replayers)
 - [RPC](https://github.com/apex/rpc) - Simple RPC style APIs with generated clients & servers.
+- [rpc-perf](https://github.com/twitter/rpc-perf) - Tool for benchmarking RPC services.

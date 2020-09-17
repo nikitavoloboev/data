@@ -2,7 +2,7 @@
 
 ## Web Dev frameworks
 
-- [Next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps.
+- [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.
@@ -77,7 +77,7 @@
 - [jSPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [ForgJS](https://github.com/oussamahamdaoui/forgJs) - JavaScript lightweight object validator.
 - [faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of realistic fake data in Node.js and the browser.
-- [arg](https://github.com/zeit/arg) - Simple argument parsing.
+- [arg](https://github.com/vercel/arg) - Simple argument parsing.
 - [fbt](https://github.com/facebookincubator/fbt) - JavaScript Internationalization Framework.
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema.

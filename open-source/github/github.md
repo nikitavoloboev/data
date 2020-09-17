@@ -54,7 +54,8 @@ I publish most of my work and make it open source for other people to use and re
 - [Monorepo](https://github.com/codechecks/monorepo) - Framework for code review automation. It allows writing plugins (codechecks) in JavaScript.
 - [Brainstorm ideas for GitHub Sponsors tiers](https://github.com/github/github-sponsors-beta/issues/12)
 - [ChangeCast](https://github.com/palmerhq/changecast) - Create beautiful, performant, accessible changelogs from your Github releases.
-- [Release](https://github.com/zeit/release) - Generate changelogs with a single command.
+- [Release](https://github.com/vercel/release) - Generate changelogs with a single command.
+- [Release Auth](https://github.com/vercel/release-auth) - Handles the OAuth authentication with GitHub's webflow for release.
 - [Triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [VS Code Issues Triaging workflow](https://github.com/microsoft/vscode/wiki/Issues-Triaging)
 - [reviewdog](https://github.com/reviewdog/reviewdog) - Automated code review tool integrated with any code analysis tools regardless of programming language.

@@ -219,3 +219,4 @@
 - [Kubernetes: Make your services faster by removing CPU limits (2020)](https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/) ([HN](https://news.ycombinator.com/item?id=24351566))
 - [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS.
 - [Kubernetes YAML Generator](https://k8syaml.com/) ([HN](https://news.ycombinator.com/item?id=24419441))
+- [What we learned after a year on Kubernetes (2020)](https://about.gitlab.com/blog/2020/09/16/year-of-kubernetes/) ([HN](https://news.ycombinator.com/item?id=24498108)) ([Tweet](https://twitter.com/benskuhn/status/1306379191772946432))

@@ -493,6 +493,7 @@
 - [GoFPDF](https://github.com/jung-kurt/gofpdf) - PDF document generator with high level support for text, drawing and images.
 - [Bolt](https://github.com/boltdb/bolt) - Embedded key/value database for Go.
 - [Golang Network File Server](https://github.com/willscott/go-nfs/) - NFSv3 protocol implementation in pure Go. ([HN](https://news.ycombinator.com/item?id=24287381))
+- [Dump](https://github.com/storozhukBM/dump) - One function library to simplify local print debug.
 
 ## Links
 

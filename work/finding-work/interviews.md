@@ -88,3 +88,4 @@
 - [List of company wise questions available on Leetcode premium](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
 - [Ask HN: What is a better approach to interviewing? (2020)](https://news.ycombinator.com/item?id=24454866)
 - [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview) ([Lobsters](https://lobste.rs/s/cvi4vc/rewriting_technical_interview))
+- [Lessons interviewing 200+ engineers: the perfect process to manage tech debt (2020)](https://blog.stepsize.com/the-perfect-process-to-manage-tech-debt/)

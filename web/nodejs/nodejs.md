@@ -10,7 +10,7 @@
 - [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [What is the Node way?](http://thenodeway.io/introduction)
 - [Redbird](https://github.com/OptimalBits/redbird) - Modern reverse proxy for node.
-- [ncc](https://github.com/zeit/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+- [ncc](https://github.com/vercel/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js. ([Web](https://www.fastify.io/))
@@ -71,7 +71,7 @@
 - [Domain-Driven Design w/ TypeScript & Node.js](https://khalilstemmler.com/courses/domain-driven-design-typescript/)
 - [Official Docker Image for Node.js](https://github.com/nodejs/docker-node)
 - [Learn ES Modules in Node with Myles Borins (2020)](https://www.youtube.com/watch?v=qeCncjPWD1A)
-- [Node File Trace](https://github.com/zeit/node-file-trace) - Determine exactly which files (including node_modules) are necessary for the application runtime.
+- [Node File Trace](https://github.com/vercel/nft) - Determine exactly which files (including node_modules) are necessary for the application runtime.
 - [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
 - [Emma](https://github.com/maticzav/emma-cli) - Terminal assistant to find and install node packages.
 - [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
@@ -94,3 +94,4 @@
 - [Intro to Node That You May Have Missed (2018)](https://itnext.io/an-intro-to-node-js-that-you-may-have-missed-b175ef4277f7)
 - [node-postgres](https://github.com/brianc/node-postgres) - Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings.
 - [Docker best practices with Node (2020)](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
+- [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)

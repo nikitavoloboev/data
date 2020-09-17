@@ -31,7 +31,7 @@
 - [MVP.css](https://andybrewer.github.io/mvp/) - Minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML. ([Code](https://github.com/andybrewer/mvp))
 - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript. ([Code](https://github.com/phuoc-ng/html-dom)) ([HN](https://news.ycombinator.com/item?id=22758218))
 - [hyper(HTML)](https://github.com/WebReflection/hyperHTML) - Fast & Light Virtual DOM Alternative available for Node.js and NativeScript too.
-- [Open Graph Image as a Service](https://github.com/zeit/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
+- [Open Graph Image as a Service](https://github.com/vercel/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
 - [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [sahtml-query](https://github.com/mdevils/sahtml-query) - Fast and low memory query API for HTML (node.js).
 - [HTML is more complicated than you think (2020)](https://www.tempertemper.net/blog/html-is-more-complicated-than-you-think)

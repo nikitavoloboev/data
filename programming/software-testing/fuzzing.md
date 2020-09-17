@@ -17,3 +17,4 @@
 - [FuzzCon](https://www.fuzzcon.eu/) - European Online Conference About Fuzzing. ([Videos](https://www.youtube.com/playlist?list=PLI0R_0_8-TV4JArtdlgnuPtgXALZxAYqu))
 - [Advanced Fuzzing: Compare shattering (2020)](https://www.youtube.com/watch?v=yezHZuDCBho)
 - [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)
+- [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-As-A-Service platform.

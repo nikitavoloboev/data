@@ -86,3 +86,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [ETHMail](https://ethmail.cc/) - Email services for Ethereum community.
 - [Mutt](http://mutt.org/) - E-Mail Client. ([HN](https://news.ycombinator.com/item?id=24173676))
 - [Implementing 'focus and reply' for Fastmail with JMAP (2020)](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/) ([HN](https://news.ycombinator.com/item?id=24207506))
+- [tmpmail](https://github.com/sdushantha/tmpmail) - Temporary email right from your terminal.

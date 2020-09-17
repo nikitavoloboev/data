@@ -97,3 +97,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
 - [AWS CDK Intro Workshop](https://cdkworkshop.com/) ([Code](https://github.com/aws-samples/aws-cdk-intro-workshop))
 - [Tips and Gotchas for managing your AWS Costs (2020)](https://www.taggun.io/tips-and-gotchas-for-managing-your-aws-cloud-costs)
+- [AWS Video Catalog](https://awsvideocatalog.com/)

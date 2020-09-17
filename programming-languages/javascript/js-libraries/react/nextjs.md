@@ -1,4 +1,4 @@
-# [Next.js](https://github.com/zeit/next.js/)
+# [Next.js](https://github.com/vercel/next.js)
 
 ## Example sites
 
@@ -6,8 +6,8 @@
 - [OctoLinker site](https://github.com/OctoLinker/octolinker.now.sh)
 - [Syntax.fm](https://github.com/wesbos/Syntax)
 - [Notion Blog](https://github.com/ijjk/notion-blog) - Next.js site using new SSG support with a Notion backed blog.
-- [Companies / Sites using NextJS](https://github.com/zeit/next.js/discussions/10640)
-- [NextJS official examples](https://github.com/zeit/next.js/tree/canary/examples)
+- [Companies / Sites using NextJS](https://github.com/vercel/next.js/discussions/10640)
+- [NextJS official examples](https://github.com/vercel/next.js/tree/canary/examples)
 - [Next + TypeScript + Yarn monorepo](https://github.com/josephluck/next-typescript-monorepo)
 - [Next.js SDK for signing in with Auth0](https://github.com/auth0/nextjs-auth0)
 - [Next.js Medium style boilerplate blog](https://github.com/maxigimenez/next-medium-blog-boilerplate)
@@ -52,21 +52,21 @@
 - [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)
-- [Static Generation / SSG Improvements](https://github.com/zeit/next.js/issues/9524)
+- [Static Generation / SSG Improvements](https://github.com/vercel/next.js/issues/9524)
 - [Next.js course](https://nextjscourse.com/oEEGG76l22UE8B77ovWn/)
-- [Next.js website source](https://github.com/zeit/next-site)
-- [Next.js Plugins](https://github.com/zeit/next-plugins)
+- [Next.js website source](https://github.com/vercel/next-site)
+- [Next.js Plugins](https://github.com/vercel/next-plugins)
 - [next-urql](https://github.com/FormidableLabs/next-urql) - Set of convenience utilities for using urql with NextJS.
 - [Next.js Apollo TypeScript pre-configured starter with great DX](https://github.com/borisowsky/nextjs-apollo-ts-starter)
 - [Mastering NextJS](https://masteringnextjs.com/) - Premiere video course for building production, server-side rendered applications with Next.js and React.
 - [NextJS/Reason/Tailwind Template](https://github.com/sgrove/nextjs-reason-urql)
 - [dotJS 2019 - Tim Neutkens - What to expect from a modern web framework?](https://www.dotconferences.com/2019/12/tim-neutkens-what-to-expect-from-a-modern-web-framework)
 - [Next & Apollo Example](https://github.com/adamsoffer/next-apollo-example)
-- [next-learn-demo](https://github.com/zeit/next-learn-demo) - Meant to be used with the Next.js tutorial on https://nextjs.org/learn.
+- [next-learn-demo](https://github.com/vercel/next-learn-demo) - Meant to be used with the Next.js tutorial on https://nextjs.org/learn.
 - [Next.js Starter with User Authentication/Authorization](https://github.com/rwieruch/nextjs-firebase-authentication)
 - [next-purgecss](https://github.com/lucleray/next-purgecss) - Nextjs + purgecss for faster websites.
 - [next-offline](https://github.com/hanford/next-offline) - Make your Next.js application work offline using service workers via Google's workbox.
-- [Next.js Stats GitHub Action](https://github.com/zeit/next-stats-action) - Downloads and runs project with provided configs gathering stats to compare branches.
+- [Next.js Stats GitHub Action](https://github.com/vercel/next-stats-action) - Downloads and runs project with provided configs gathering stats to compare branches.
 - [React ESI](https://github.com/dunglas/react-esi) - Blazing-fast Server-Side Rendering for React and Next.js.
 - [Server-side Only React with Next (2020)](https://webcloud.se/blog/2020-03-12-nextjs-without-client-side-react/) ([HN](https://news.ycombinator.com/item?id=22717900))
 - [Serverless Nextjs Component](https://github.com/danielcondemarin/serverless-next.js) - Deploy your next apps using the serverless framework.

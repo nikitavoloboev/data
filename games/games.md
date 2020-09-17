@@ -57,6 +57,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Hypermine](https://github.com/Ralith/hypermine) - Minecraft-like game that is playable in a hyperbolic geometry. ([Demo](https://www.youtube.com/watch?v=AjCbkDCmNDo)) ([Wiki](https://github.com/Ralith/hypermine/wiki))
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Open source re-creation of the popular game "Dune II".
 - [MineSweeper](https://github.com/propjockey/css-sweeper) - Implemented in 100% CSS and HTML – no JavaScript. ([HN](https://news.ycombinator.com/item?id=23920987))
+- [Team Comtress 2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations.
 
 ## Awesome games (other)
 

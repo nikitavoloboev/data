@@ -100,7 +100,7 @@
 
 ## React
 
-- State - useState/Context with [Jotai](https://github.com/react-spring/jotai) TODO: [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx),
+- State - useState (trivial data updates). useReducer + useContext (global updates, can also use [Jotai](https://github.com/react-spring/jotai)). TODO: [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx), [XState](https://twitter.com/DavidKPiano/status/1306572730867814401)
 - GraphQL - [Urql](https://github.com/FormidableLabs/urql) TODO: [Apollo](https://www.apollographql.com).
 
 ## Web

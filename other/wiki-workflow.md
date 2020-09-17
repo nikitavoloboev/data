@@ -233,3 +233,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Cerveau](https://www.srid.ca/689c4a39.html) - Future-proof web app for notes. ([Lobsters](https://lobste.rs/s/xajgsn/cerveau_future_proof_web_app_for_notes))
 - [A Meta-Layer for Notes (2020)](https://julian.digital/2020/09/04/a-meta-layer-for-notes/)
 - [A Hierarchy First Approach to Note Taking](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html)
+- [How to set up your own digital garden (2020)](https://nesslabs.com/digital-garden-set-up)

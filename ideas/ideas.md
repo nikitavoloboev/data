@@ -63,3 +63,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: What weird or hard problems are you trying to solve? (2020)](https://news.ycombinator.com/item?id=23735676)
 - [What software do you dream about, but do not have time to do yourself? (2020)](https://lobste.rs/s/8aiw6g/what_software_do_you_dream_about_do_not)
 - [Businesses I Love](https://sweatystartup.com/businesses-i-love/)
+- [Making The Leap (2020)](https://www.coreyhaines.co/blog/leap)
