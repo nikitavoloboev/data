@@ -35,6 +35,7 @@
 - [A Connectome of the Adult Drosophila Central Brain (2020)](https://www.biorxiv.org/content/10.1101/2020.01.21.911859v1)
 - [NanoNeuro 2020 Webinar](https://www.youtube.com/watch?v=CJXp8vCWlmA)
 - [Large Associative Memory Problem in Neurobiology and Machine Learning (2020)](https://arxiv.org/abs/2008.06996) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/icjcfk/r_biological_plausible_explanation_of_hopfield/))
+- [NeuroAI at CSHL](https://www.neuroaicshl.com/)
 
 ## Images
 
