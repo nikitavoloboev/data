@@ -309,3 +309,4 @@
 - [C++ vs Rust: an async Thread-per-Core story (2020)](https://medium.com/@glaubercosta_11125/c-vs-rust-an-async-thread-per-core-story-28c4b43c410c)
 - [Peeking inside a Rust enum (2020)](https://fasterthanli.me/articles/peeking-inside-a-rust-enum)
 - [From Rust to TypeScript (2020)](https://valand.dev/blog/post/from-rust-to-typescript)
+- [My Favorite Rust Function Signature (2020)](https://www.brandonsmith.ninja/blog/favorite-rust-function) ([HN](https://news.ycombinator.com/item?id=24505436))
