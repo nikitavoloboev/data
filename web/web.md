@@ -159,3 +159,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [33 Web Development Terms You May Not Have Heard Of (2020)](https://meiert.com/en/blog/33-web-development-terms/)
 - [Fluid Framework](https://github.com/microsoft/FluidFramework) - TypeScript library for building distributed, real-time collaborative web applications. ([Web](https://fluidframework.com/)) ([Docs](https://fluidframework.com/docs/)) ([Playground](https://fluidframework.com/playground/?path=/story/welcome--page))
 - [On Modern Web Applications Stability (2020)](https://www.emadelsaid.com/on-modern-web-applications-stability/) ([HN](https://news.ycombinator.com/item?id=24493865))
+- [Cloudflare and the Wayback Machine, joining forces for a more reliable Web (2020)](http://blog.archive.org/2020/09/17/internet-archive-partners-with-cloudflare-to-help-make-the-web-more-useful-and-reliable/) ([HN](https://news.ycombinator.com/item?id=24504080))

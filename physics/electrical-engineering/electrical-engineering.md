@@ -35,3 +35,4 @@
 - [An Analog IC Design Book Draft (2020)](https://hackaday.com/2020/08/31/an-analog-ic-design-book-draft/)
 - [Zachtronics Kohctpyktop game](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/)
 - [Edalize](https://github.com/olofk/edalize) - Python Library for interacting with EDA tools.
+- [This electrical transmission tower has a problem (2020)](https://twitter.com/tubetimeus/status/1306359385656946688) ([HN](https://news.ycombinator.com/item?id=24499924)) ([Notes](https://twitter.com/MarcJBrooker/status/1306594464337551360))
