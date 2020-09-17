@@ -123,3 +123,4 @@
 - [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/) ([Code](https://github.com/justinmeiners/lc3-vm))
 - [Deep learning for compilers (2020)](https://era.ed.ac.uk/handle/1842/36866)
 - [MLIR Tutorial](https://mlir.llvm.org/docs/Tutorials/Toy/Ch-1/)
+- [Does register selection matter to performance on x86 CPUs? (2020)](https://fiigii.com/2020/02/16/Does-register-selection-matter-to-performance-on-x86-CPUs/)

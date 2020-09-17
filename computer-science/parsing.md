@@ -30,4 +30,5 @@
 - [Parsing: a timeline (2014)](http://jeffreykegler.github.io/Ocean-of-Awareness-blog/individual/2014/09/chron.html) ([HN](https://news.ycombinator.com/item?id=8290681))
 - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/entries/which_parsing_approach.html) ([Lobsters](https://lobste.rs/s/9pcqys/which_parsing_approach))
 - [Lark](https://github.com/lark-parser/lark/) - Parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
-- [Challenging LR Parsing (2020)](https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html) ([HN](https://news.ycombinator.com/item?id=24492675))
+- [Challenging LR Parsing (2020)](https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html) ([HN](https://news.ycombinator.com/item?id=24492675)) ([Lobsters](https://lobste.rs/s/t9oewt/challenging_lr_parsing))
+- [Why I write recursive descent parsers (despite their issues) (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)

@@ -100,3 +100,4 @@
 - [FutureMapping: The Computational Structure of Spatial AI Systems (2018)](https://arxiv.org/abs/1803.11288) ([Tweet](https://twitter.com/AjdDavison/status/1045617261925543937))
 - [Optimal Peanut Butter and Banana Sandwiches (2020)](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/) ([Twitter](https://twitter.com/eprosenthal/status/1298290961294950401))
 - [Gesture Recognition with Line Integrals](https://justinmeiners.github.io/gesture-recognition/) ([Code](https://github.com/justinmeiners/gesture-recognition))
+- [Computer Vision: Looking Back to Look Forward (2020)](http://slazebni.cs.illinois.edu/spring20/)
