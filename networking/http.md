@@ -67,3 +67,4 @@
 - [Will It CORS?](https://httptoolkit.tech/will-it-cors/)
 - [HTTP Toolkit](https://httptoolkit.tech/) - Intercept, debug & mock HTTP.
 - [HTTP protocol and the web](https://codexpanse.com/courses/http)
+- [Critical Resources and the First 14 KB - A Review (2019)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)

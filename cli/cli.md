@@ -4,7 +4,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 ## Notes
 
-- Look into [gh cli](https://github.com/cli/cli) for example a well designed CLI. The `-h` is amazing.
+- Look into [gh cli](https://github.com/cli/cli) for example of a well designed CLI. The `-h` is amazing.
 
 ## Links
 
