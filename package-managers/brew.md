@@ -15,3 +15,7 @@
 - [Homebrew Core](https://github.com/Homebrew/homebrew-core) - Core formulae for the Homebrew package manager.
 - [GitHub actions + Homebrew = ❤️ (2020)](https://medium.com/@Extrawurst/github-actions-homebrew-%EF%B8%8F-2789ae5023fd)
 - [Brewfiles](https://brewfile.info/) - Generate Brewfiles from existing templates. ([Code](https://github.com/jesse-c/Brewfile))
+- [Homebrew Cask](https://github.com/Homebrew/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
+- [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle) - Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
+- [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - Core formulae for the Homebrew package manager on Linux.
+- [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.

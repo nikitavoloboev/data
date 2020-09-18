@@ -52,3 +52,4 @@
 - [Let the kids Roam (2020)](https://www.roambrain.com/let-the-kids-roam/)
 - [Library of Roam](https://roamlibrary.com/library)
 - [Roam42](https://roamresearch.com/#/app/roamhacker/page/UeoxCm8rm)
+- [Roam’s road ahead (2020)](https://divinations.substack.com/p/roams-road-ahead)

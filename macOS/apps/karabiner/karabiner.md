@@ -50,3 +50,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Remapping keys on macOS](https://blog.codefront.net/2020/06/24/remapping-keys-on-macos)
 - [Goku Configs on GitHub](https://github.com/search?l=&o=desc&q=extension%3A.edn+filename%3Akarabiner.edn&s=&type=Code)
 - [Putting your Keyboard on Steroids with Karabiner Elements (2020)](https://dev.to/swyx/notes-on-karabiner-elements-from-john-lindquist-4cmo)
+- [Karabiner Docs](https://karabiner-elements.pqrs.org/docs/)

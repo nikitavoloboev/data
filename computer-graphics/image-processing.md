@@ -46,3 +46,4 @@
 - [AVIF has landed (2020)](https://jakearchibald.com/2020/avif-has-landed/) ([Lobsters](https://lobste.rs/s/hjz9uo/avif_has_landed)) ([HN](https://news.ycombinator.com/item?id=24407241))
 - [imgix](https://www.imgix.com/) - Image processing and optimization API - Image CDN.
 - [cavif](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust.
+- [A Tour of the Tiny and Obfuscated Image Decoder (2020)](http://eastfarthing.com/blog/2020-09-14-decoder/) ([HN](https://news.ycombinator.com/item?id=24468039))

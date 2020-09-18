@@ -277,6 +277,7 @@ Here are few more things I liked, design wise.
 - [Ben Kuhn](https://www.benkuhn.net/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
+- [Andrew Kensler](http://eastfarthing.com/blog/index.html)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Traf](https://tr.af/)
