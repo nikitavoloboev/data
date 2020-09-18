@@ -30,3 +30,4 @@
 - [Redis code](https://github.com/redis-io/redis)
 - [RediSearch](https://github.com/RediSearch/RediSearch/) - Fulltext Search and Secondary Index module for Redis. ([Docs](https://oss.redislabs.com/redisearch/)) ([HN](https://news.ycombinator.com/item?id=23777460))
 - [Little Redis Book](https://github.com/karlseguin/the-little-redis-book/blob/master/en/redis.md)
+- [Introducing RediSearch 2.0 (2020)](https://redislabs.com/blog/introducing-redisearch-2-0/)

@@ -93,3 +93,4 @@
 - [VALORANT's 128-Tick Servers (2020)](https://technology.riotgames.com/news/valorants-128-tick-servers) ([Lobsters](https://lobste.rs/s/ecpsqo/valorant_s_128_tick_servers))
 - [Overwatch Gameplay Architecture and Netcode (2019)](https://www.youtube.com/watch?v=W3aieHjyNvw)
 - [The Making of Dune II](https://readonlymemory.vg/the-making-of-dune-ii/)
+- [Ask HN: Advice for Multiplayer Back End (2020)](https://news.ycombinator.com/item?id=24512488)

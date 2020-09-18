@@ -32,3 +32,4 @@
 - [The Fantasy and the Cyberpunk Futurism of Singapore (2020)](https://www.wired.com/story/opinion-the-fantasy-and-the-cyberpunk-futurism-of-singapore/) ([HN](https://news.ycombinator.com/item?id=24022222))
 - [Travels of Juanito Fatas](https://juanitofatas.com/travels)
 - [Ideas of where to move from SF (2020)](https://twitter.com/justinkan/status/1295204370519175170)
+- [Passport Index](https://www.passportindex.org/)

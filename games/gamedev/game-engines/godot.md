@@ -16,3 +16,4 @@
 - [Enu](https://github.com/dsrw/enu) - Logo-like DSL for Godot, implemented in Nim. ([Introducing Enu, 3D live-coding in Nim](https://www.youtube.com/watch?v=3l6tsKM1cY8))
 - [Godot 4.0 gets SDF based real-time global illumination (2020)](https://godotengine.org/article/godot-40-gets-sdf-based-real-time-global-illumination) ([HN](https://news.ycombinator.com/item?id=23668918))
 - [Making Advanced GUI Applications with Godot (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b) ([HN](https://news.ycombinator.com/item?id=24043427))
+- [Godot Python](https://github.com/touilleMan/godot-python) - Python language support as a scripting module for the Godot game engine.

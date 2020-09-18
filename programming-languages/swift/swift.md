@@ -156,3 +156,5 @@
 - [Swiftly](https://swiftly.dev/) - Swift references for busy coders.
 - [The Swift Runtime: Heap Objects (2020)](https://belkadan.com/blog/2020/08/Swift-Runtime-Heap-Objects/)
 - [JSON Decoding in Swift with Codable: A Practical Guide (2020)](https://matteomanferdini.com/codable/)
+- [Understanding Swift Performance - WWDC (2016)](https://developer.apple.com/videos/play/wwdc2016/416/) ([Notes](https://lobste.rs/s/v5cb0t/swift_5_3_released))
+- [Introducing Swift Cluster Membership (2020)](https://swift.org/blog/swift-cluster-membership/) ([Lobsters](https://lobste.rs/s/havoue/introducing_swift_cluster_membership))

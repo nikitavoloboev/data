@@ -89,3 +89,4 @@
 - [Multi-tenant Architectures (2020)](https://blog.codonomics.com/2020/08/multi-tenant-architectures.html) ([HN](https://news.ycombinator.com/item?id=24324142))
 - [Principles for better design](https://reflexio.debec.eu/principles-for-better-design) ([HN](https://news.ycombinator.com/item?id=24388753))
 - [Clouddraw](https://clouddraw.app/) - Create cloud architecture diagrams in minutes.
+- [Introduction to the Modeling and Analysis of Complex Systems (2015)](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)

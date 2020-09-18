@@ -16,3 +16,4 @@
 - [Antimony](https://github.com/mkeeter/antimony) - Computer-aided design (CAD) tool from a parallel universe in which CAD software evolved from Lisp machines rather than drafting tables.
 - [Vectary](https://www.vectary.com/) - Easiest Online 3D Design and 3D Modeling Software.
 - [AngelCAD](https://arnholm.github.io/angelcad-docs/) - Script-based 3D solid modeller. ([HN](https://news.ycombinator.com/item?id=24243077)) ([Code](https://github.com/arnholm/angelcad))
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Free and open source multiplatform 3D parametric modeler. ([HN](https://news.ycombinator.com/item?id=24513340))

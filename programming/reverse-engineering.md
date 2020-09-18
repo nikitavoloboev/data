@@ -51,3 +51,4 @@
 - [Reverse Engineering GTA V's Stunt Jump System (2020)](https://hackery.site/writing/gta-v-stunt-jumps/)
 - [ARM Exploitation Book](https://arm-exploitation.com/)
 - [Super Mario Bros. 3 in 3 Minutes – World Record Speedrun Explained (2020)](https://www.youtube.com/watch?v=WWbZFj-cLvk) ([HN](https://news.ycombinator.com/item?id=24456247))
+- [Reverse engineering the Logitech Harmony (2020)](https://twitter.com/foone/status/1251395931351609347) ([Lobsters](https://lobste.rs/s/5wwalu/reverse_engineering_logitech_harmony))

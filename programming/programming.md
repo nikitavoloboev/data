@@ -245,3 +245,4 @@
 - [Computer Architecture: A Quantitative Approach (1990)](https://www.goodreads.com/book/show/70135) ([Review](https://graydon2.dreamwidth.org/233585.html))
 - [Project Oberon](http://www.projectoberon.com/) - Design for a complete desktop computer system from scratch. ([HN](https://news.ycombinator.com/item?id=24468704))
 - [Programming Styles (2008)](https://people.inf.ethz.ch/wirth/Miscellaneous/Styles.pdf)
+- [My Principles for Building Software (2020)](http://kevinmahoney.co.uk/articles/my-principles-for-building-software/) ([Lobsters](https://lobste.rs/s/bodvug/my_principles_for_building_software))

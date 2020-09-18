@@ -74,3 +74,4 @@
 - [Cryptography Dispatches: Registries Considered Harmful (2020)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-registries-considered/) ([Lobsters](https://lobste.rs/s/4eku7g/cryptography_dispatches_registries))
 - [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) ([HN](https://news.ycombinator.com/item?id=24310842))
 - [A history of elliptic curves in tweets (2020)](https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html)
+- [Learning fast elliptic-curve cryptography in JS (2020)](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)

@@ -152,6 +152,7 @@
 - [asyncio-buffered-pipeline](https://github.com/michalc/asyncio-buffered-pipeline) - Parallelise pipelines of Python async iterables/generators. ([HN](https://news.ycombinator.com/item?id=24390116))
 - [quickle](https://github.com/jcrist/quickle) - Fast and small serialization format for a subset of Python types. ([Docs](https://jcristharif.com/quickle/))
 - [Boltons](https://github.com/mahmoud/boltons) - Set of over 230 pure-Python utilities.
+- [catalogue](https://github.com/explosion/catalogue) - Tiny, zero-dependencies library that makes it easy to add function (or object) registries to your code.
 
 ## Links
 

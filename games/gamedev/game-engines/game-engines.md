@@ -8,7 +8,7 @@
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
 - [ggez](https://github.com/ggez/ggez)
 - [Amethyst](https://github.com/amethyst/amethyst)
-- [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
+- [boardgame.io](https://boardgame.io/) - State Management for Turn-Based Games. ([Code](https://github.com/boardgameio/boardgame.io))
 - [Xash3D FWGS Engine](https://github.com/FWGS/xash3d) - Custom Gold Source engine rewritten from scratch.
 - [Newton](https://github.com/hunterloftis/newton) - Playful, particle-based physics engine designed from the ground up for JavaScript.
 - [Noa](https://github.com/andyhall/noa) - Experimental voxel game engine.

@@ -127,4 +127,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency](https://syslab.cs.washington.edu/papers/latency-socc14.pdf)
 - [Beginner resource for OSdev](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 - [SBTCVM (Simple Balanced Ternary Computer Virtual Machine)](https://sbtcvm.blogspot.com/) - Project focused on providing virtual machines based around balanced ternary computers.
-- [The Cost of Software-Based Memory Management Without Virtual Memory (2020)](https://arxiv.org/pdf/2009.06789.pdf) ([Tweet](https://twitter.com/AndrewCMyers/status/1306057485741109258))
+- [The Cost of Software-Based Memory Management Without Virtual Memory (2020)](https://arxiv.org/pdf/2009.06789.pdf) ([Tweet](https://twitter.com/AndrewCMyers/status/1306057485741109258)) ([HN](https://news.ycombinator.com/item?id=24503773))
+- [Writing an x86 bootloader in Rust that can launch vmlinux](https://vmm.dev/en/rust/krabs.md) ([HN](https://news.ycombinator.com/item?id=24514100))

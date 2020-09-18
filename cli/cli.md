@@ -2,6 +2,10 @@
 
 I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
 
+## Notes
+
+- Look into [gh cli](https://github.com/cli/cli) for example a well designed CLI. The `-h` is amazing.
+
 ## Links
 
 - [Awesome command line tools](https://github.com/learn-anything/command-line-tools)
