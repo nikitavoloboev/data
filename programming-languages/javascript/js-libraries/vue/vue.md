@@ -23,3 +23,4 @@
 - [Awesome Vue 3](https://github.com/blacksonic/awesome-vue-3)
 - [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Isolated Vue component development environment with a living style guide.
 - [Trying Vue.js for the First Time (2020)](https://www.youtube.com/watch?v=3OhLUYNw0TI)
+- [Vue.js 3 (2020)](https://github.com/vuejs/vue-next/releases/tag/v3.0.0) ([HN](https://news.ycombinator.com/item?id=24518295))

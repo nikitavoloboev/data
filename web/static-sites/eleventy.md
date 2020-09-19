@@ -16,3 +16,4 @@
 - [Eleventastic](https://github.com/maxboeck/eleventastic) - Simple Eleventy Starter Kit.
 - [High-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) ([Code](https://github.com/google/eleventy-high-performance-blog))
 - [Eleventy Leaderboards](https://www.11ty.dev/speedlify/)
+- [Eleventy and Vue Components - Behind the New Netlify.com (2020)](https://www.netlify.com/blog/2020/09/18/eleventy-and-vue-a-match-made-to-power-netlify.com/)
