@@ -122,6 +122,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Edward Hopper](https://www.wikiart.org/en/edward-hopper) ([Shirley: Visions of Reality](https://www.youtube.com/watch?v=rcQ4JKxxukY)) ([Exhibition](https://www.fondationbeyeler.ch/en/exhibitions/edward-hopper))
 - [Ariel González Losada](https://www.flickr.com/people/99778654@N05/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
+- [Salman Toor](https://www.salmantoor.com/)
 - [Andrew Williamson](https://andrewwilliamson.net/)
 - [James White](https://signalnoise.com/) - Retro 80s.
 - [Cornelius Dämmrich](https://corneliusdammrich.com/) - Creates CG environments with a combination of various 3d softwares and tools.
@@ -133,7 +134,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Wu Yi](https://www.instagram.com/wuyi555/)
 - [Robby Johnson](https://www.artstation.com/rjohnson)
 - [Jasmin Habezai-Fekri](https://www.artstation.com/curlscurly)
-- [Simon Stalenhag](https://www.simonstalenhag.se/)
+- [Simon Stalenhag](https://www.simonstalenhag.se/) ([Other art](https://www.simonstalenhag.se/other.html))
 - [Fran Rodríguez](https://www.instagram.com/lacabezaenlasnubes/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
@@ -221,6 +222,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Petrus Van Schendel's Candle in the night](https://twitter.com/zhuanghongru/status/1276403432304209922)
 - [Polaroids by Andrei Tarkovsky](https://twitter.com/ddoniolvalcroze/status/1292117732230434818)
 - [Julien Gauthier's dystopian, post–global-warming Bangkok](https://twitter.com/FedeItaliano76/status/1296827295806758912)
+- [Anna Niess Tumblr](https://glerpie.tumblr.com/)
 
 ## Photography
 

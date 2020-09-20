@@ -240,6 +240,7 @@ Here are few more things I liked, design wise.
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Josh Thompson](https://josh.works/)
+- [Anna Niess](https://annaniess.biz/)
 - [Andrew Ingram](https://andrewingram.net/)
 - [Caolan McMahon](https://caolan.uk/)
 - [Sibylle Sehl](https://sibylle.dev/)
