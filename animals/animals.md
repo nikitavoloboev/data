@@ -21,6 +21,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Bats](https://twitter.com/JosephSwanTwo/status/1296561251171131392)
 - [Awooooo](https://twitter.com/QueenAwakened/status/1298298073718890503)
 - [Sir Leopold](https://twitter.com/PerryFellow/status/1253355544146034690)
+- [Foxy cat](https://twitter.com/ttt_zegu952/status/1285953528637190145)
 
 ## Links
 
