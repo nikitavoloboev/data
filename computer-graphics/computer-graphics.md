@@ -89,3 +89,4 @@
 - [Band-Limiting Procedural Textures (2020)](https://iquilezles.org/www/articles/bandlimiting/bandlimiting.htm)
 - [The compositor causes problems and leads to complexity (2020)](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html) ([HN](https://news.ycombinator.com/item?id=24466929))
 - [Rendering the Hellscape of Doom Eternal (2020)](http://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
+- [Introduction to Computer Graphics (2018)](http://math.hws.edu/graphicsbook/index.html)
