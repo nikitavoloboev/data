@@ -8,11 +8,11 @@ I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can
 
 I switch between Ayu Light and Ayu Mirage themes as I change between macOS appearances.
 
-![](https://i.imgur.com/iu79ifS.png)
+![](https://i.imgur.com/LKSOmms.png)
 
 > Ayu Light
 
-![](https://i.imgur.com/k9pyjvd.png)
+![](https://i.imgur.com/f0wFbdH.png)
 
 > Ayu Mirage
 
