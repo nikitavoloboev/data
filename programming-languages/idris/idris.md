@@ -25,3 +25,4 @@
 - [Type-Driven Development with Idris book](https://www.manning.com/books/type-driven-development-with-idris) ([Updates required](https://idris2.readthedocs.io/en/latest/typedd/typedd.html))
 - [libc.idr](https://github.com/Hirrolot/libc.idr) - Bindings to the C standard library for Idris2.
 - [Edwin Brady Tells Us What's New in Idris 2 (2020)](https://www.youtube.com/watch?v=nbClauMCeds)
+- [A simple Parser Combinator library in Idris (2020)](https://timmyjose.github.io/docs/2020-09-19-parser-combinator-library-idris)

@@ -51,3 +51,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [PetSmart](https://www.petsmart.com) - Pet Supplies, Accessories and Products Online.
 - [Coping with Cats (2020)](https://acesounderglass.com/2020/09/02/coping-with-cats/) ([HN](https://news.ycombinator.com/item?id=24361029))
 - [Jellyfish: Toxic but fascinating (2020)](http://oceans.nautil.us/feature/615/toxic-but-fascinating)
+- [Ask HN: Advice for first-time dog owners? (2020)](https://news.ycombinator.com/item?id=24532872)
