@@ -125,3 +125,4 @@
 - [Physics is stuck (2020)](https://www.salon.com/2020/09/06/physics-is-stuck--and-needs-another-einstein-to-revolutionize-it-physicist-avi-loeb-says/) ([HN](https://news.ycombinator.com/item?id=24454438))
 - [Manifestations of waves in nature (2020)](https://twitter.com/QiaochuYuan/status/1306048749462908931)
 - [Daniel and Jorge Explain the Universe - Most Common Listener Questions (2020)](https://overcast.fm/+Oq0a0jjIo)
+- [I am self-studying physics, which book should I get? (2020)](https://www.reddit.com/r/AskPhysics/comments/iwae2d/i_am_selfstudying_physics_which_book_should_i_get/)
