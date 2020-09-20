@@ -105,3 +105,4 @@
 - [Keeping CALM: When Distributed Consistency Is Easy (2020)](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [Distributed Systems Notes](https://github.com/Qwe1rty/distributed_systems_notes)
 - [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
+- [The Reactive Principles](https://principles.reactive.foundation/) - Design Principles for Distributed Applications.
