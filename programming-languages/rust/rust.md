@@ -310,3 +310,4 @@
 - [Peeking inside a Rust enum (2020)](https://fasterthanli.me/articles/peeking-inside-a-rust-enum)
 - [From Rust to TypeScript (2020)](https://valand.dev/blog/post/from-rust-to-typescript)
 - [My Favorite Rust Function Signature (2020)](https://www.brandonsmith.ninja/blog/favorite-rust-function) ([HN](https://news.ycombinator.com/item?id=24505436))
+- [Why Not Rust? (2020)](https://matklad.github.io//2020/09/20/why-not-rust.html) ([Lobsters](https://lobste.rs/s/jgcvev/why_not_rust)) ([HN](https://news.ycombinator.com/item?id=24536645))

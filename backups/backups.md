@@ -44,3 +44,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [tmignore](https://github.com/samuelmeuli/tmignore) - Exclude development files from Time Machine backups.
 - [Setting up your backup service (2020)](https://www.williamjbowman.com/blog/2020/06/30/setting-up-your-backup-service/)
 - [Organizing Data Through the Lens of Deduplication (2020)](https://www.anishathalye.com/2020/08/03/periscope/) ([Lobsters](https://lobste.rs/s/udqu02/organizing_data_through_lens))
+- [Backing up data like the adult I supposedly am (2020)](https://magnusson.io/post/backups/) ([Lobsters](https://lobste.rs/s/bmqi6l/backing_up_data_like_adult_i_supposedly_am)) ([HN](https://news.ycombinator.com/item?id=24526706))
