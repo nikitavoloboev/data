@@ -39,3 +39,4 @@
 - [Design Systems in Figma course](https://www.leveluptutorials.com/tutorials/design-systems-in-figma)
 - [Config Figma](https://config.figma.com/) - Conferences organized by Figma.
 - [Embracing the tension between code and design (2020)](https://www.figma.com/blog/config-europe-2020-new-feature-announcements/)
+- [Designing in Figma book](https://figmabook.com/)

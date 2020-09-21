@@ -45,3 +45,4 @@
 - [GitHub’s Feedback Culture (2020)](https://codingsans.com/blog/feedback-culture)
 - [Benefit for going fully asynchronous (by Gumroad)](https://twitter.com/shl/status/1222545212477599751)
 - [Together vs Alone: Thoughts on building a team](https://www.preetamnath.com/blog/building-a-team) ([HN](https://news.ycombinator.com/item?id=24458258))
+- [How I trained myself to remember 95% of a 2h meeting (2020)](https://barehands.substack.com/p/how-to-take-meeting-notes) ([HN](https://news.ycombinator.com/item?id=24547098))
