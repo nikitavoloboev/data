@@ -62,3 +62,4 @@
 - [Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)
 - [Designing a Physics Engine (2020)](https://blog.winter.dev/2020/designing-a-physics-engine/) ([HN](https://news.ycombinator.com/item?id=24016718))
 - [Game engines used for urban planning, architecture, automotive engineering firms, live music and events, filmmaking, etc. (2020)](https://twitter.com/aaronzlewis/status/1291889682788253696)
+- [Porting a c++ game engine to the web with emscripten (2020)](https://www.polymonster.co.uk/blog/porting-to-wasm-with-emscripten)
