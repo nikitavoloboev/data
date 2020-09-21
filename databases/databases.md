@@ -21,7 +21,7 @@
 - [Cassandra](https://github.com/apache/cassandra) - Highly-scalable partitioned row store. Rows are organized into tables with a required primary key.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
-- [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System.
+- [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085))
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
 - [Genji](https://github.com/asdine/genji) - Multi engine embedded database.
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.

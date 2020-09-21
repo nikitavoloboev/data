@@ -29,3 +29,4 @@
 - [Greatest Java apps (2020)](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written) ([HN](https://news.ycombinator.com/item?id=23676723))
 - [How to learn idiomatic Java in 2020?](https://lobste.rs/s/y2nnwd/how_learn_idiomatic_java_2020)
 - [Circumventing the JVM's bytecode verifier (2019)](https://anthony.som.codes/blog/2019-12-30-jvm-hackery-noverify/) ([HN](https://news.ycombinator.com/item?id=21921922))
+- [Java Turns 25 – Whats Next? (2020)](https://www.oracle.com/a/ocom/docs/corporate/analystrelations/omdia-java-turns-25.pdf) ([HN](https://news.ycombinator.com/item?id=24534629))

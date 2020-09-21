@@ -58,3 +58,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [All the world's a stage. On alt accounts and communicative friction. (2020)](https://jasmine.substack.com/p/-all-the-worlds-a-stage)
 - [Wisdom Shelf](https://patriciamou.com/wisdom-shelf-waitlist) - Social network focused on personal development.
 - [Relevant](https://relevant.community/) - Social Network Built On Trust.
+- [The Social Dilemma](https://www.thesocialdilemma.com/) ([HN](https://news.ycombinator.com/item?id=24536929))

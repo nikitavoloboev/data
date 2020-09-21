@@ -20,7 +20,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Conserve](https://github.com/sourcefrog/conserve) - Robust portable backup tool in Rust.
 - [tm](https://github.com/erica/tm) - Time Machine recovery utility for the six-or-so people who still use Time Machine for version control.
 - [Unison](https://github.com/bcpierce00/unison) - File-synchronization tool for OSX, Unix, and Windows. ([Web](https://www.cis.upenn.edu/~bcpierce/unison/))
-- [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid.
+- [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid. ([HN](https://news.ycombinator.com/item?id=24535046))
 
 ## Cloud Storage
 
