@@ -102,3 +102,4 @@
 - [The Truth About "Trading Gurus" From a Hedge Fund Manager (2020)](https://www.youtube.com/watch?v=JfP4rVsmL_Q) ([Tweet](https://twitter.com/ossia/status/1300473889663995904))
 - [The Long-Term Stock Exchange Opens for Business (2020)](https://blog.ltse.com/the-long-term-stock-exchange-opens-for-business-38b13f51e87b) ([HN](https://news.ycombinator.com/item?id=24420177))
 - [HN: JPMorgan to trade shares of pre-IPO giants including SpaceX, Robinhood, Airbnb (2020)](https://news.ycombinator.com/item?id=24456655)
+- [Ask HN: What are your instruments for investment? (2020)](https://news.ycombinator.com/item?id=24539605)

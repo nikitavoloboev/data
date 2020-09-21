@@ -66,3 +66,4 @@
 - [PopSQL](https://popsql.com/) - Collaborative SQL editor for teams.
 - [Nested SQL Queries](https://leontrolski.github.io/nested-sql.html)
 - [GlueSQL](https://github.com/gluesql/gluesql) - SQL Database Engine as a Library.
+- [TS SQL](https://github.com/codemix/ts-sql) - SQL database implemented purely in TypeScript type annotations. ([Tweet](https://twitter.com/c_pick/status/1307433762914009090))

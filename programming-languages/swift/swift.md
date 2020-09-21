@@ -158,3 +158,4 @@
 - [JSON Decoding in Swift with Codable: A Practical Guide (2020)](https://matteomanferdini.com/codable/)
 - [Understanding Swift Performance - WWDC (2016)](https://developer.apple.com/videos/play/wwdc2016/416/) ([Notes](https://lobste.rs/s/v5cb0t/swift_5_3_released))
 - [Introducing Swift Cluster Membership (2020)](https://swift.org/blog/swift-cluster-membership/) ([Lobsters](https://lobste.rs/s/havoue/introducing_swift_cluster_membership))
+- [SwiftWasm Pad](https://swiftwasm-pad.netlify.app/) - Online playground to help developers learn about Swift on Web. ([Code](https://github.com/kateinoigakukun/swiftwasm-pad))
