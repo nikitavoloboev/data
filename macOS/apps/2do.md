@@ -8,6 +8,8 @@ It also has global quick add with a hotkey. Together with lists, priorities, pow
 
 ![](https://i.imgur.com/QuBsexM.png)
 
+I use 2Do only for personal tasks. Team & project tasks are done on [GitHub](../../open-source/github/github.md).
+
 ## Managing tasks with tags
 
 My main way of managing tasks is with **tags**. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my **Inbox**.

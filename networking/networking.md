@@ -131,3 +131,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How do Routers Work, Really? (2020)](https://kamila.is//teaching/how-routers-work/) ([HN](https://news.ycombinator.com/item?id=24435454))
 - [Building a better home network (2020)](https://kevin.burke.dev/kevin/building-a-better-home-network/) ([Lobsters](https://lobste.rs/s/cjpeek/building_better_home_network))
 - [socat (2018)](https://medium.com/@copyconstruct/socat-29453e9fc8a6) - Socat stands for SOcket CAT. It is a utility for data transfer between two addresses.
+- [PJON (Padded Jittering Operative Network)](https://github.com/gioblu/PJON) - Arduino-compatible, multi-master, multi-media network protocol.

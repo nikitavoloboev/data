@@ -1,5 +1,9 @@
 # Values
 
+Values help improve decision making. When faced with multiple tough decisions, company or personal values can help find the 'right' decision faster.
+
+My personal values are encoded as [rules](../focusing/rules.md) I try to follow.
+
 ## Interesting values/principles
 
 - [Oxide Principles of Operation](https://oxide.computer/principles/)

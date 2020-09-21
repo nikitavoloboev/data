@@ -3,7 +3,7 @@
 ## Life
 
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
-- Set [tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
+- Set [tasks](../macOS/apps/2do.md) & [goals](../focusing/goals.md). [Plan](../macOS/apps/fantastical.md). [Focus](../focusing/focusing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
@@ -14,7 +14,7 @@
 - Don't compare myself to other people. Surround myself with people that inspire me. Be my true self.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
-- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
+- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Don't over optimize.
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
@@ -236,7 +236,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Change OS appearance when appropriate (light interface in sunny areas, dark otherwise).
+- Change OS appearance where appropriate (light interface in sunny areas, dark otherwise).
 
 ## Trello
 

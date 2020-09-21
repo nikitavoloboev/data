@@ -107,6 +107,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
+- [chl's org file notes](https://github.com/even4void/org)
 - [Roy Niang](https://royniang.com/home.html) ([Code](https://git.sr.ht/~royniang/koikoi))
 - [Hyperfine Village](https://roamresearch.com/#/app/hyperfinelabs/page/TYt89wtA7)
 - [Nick Belzer](https://notes.nickbelzer.me/) ([Code](https://github.com/nbelzer/notes))
