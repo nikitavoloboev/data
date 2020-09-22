@@ -247,3 +247,4 @@
 - [Programming Styles (2008)](https://people.inf.ethz.ch/wirth/Miscellaneous/Styles.pdf)
 - [My Principles for Building Software (2020)](http://kevinmahoney.co.uk/articles/my-principles-for-building-software/) ([Lobsters](https://lobste.rs/s/bodvug/my_principles_for_building_software))
 - [When feature flags do and don’t make sense (2019)](https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/) ([HN](https://news.ycombinator.com/item?id=24549917))
+- [The case for comments in code (2020)](https://notes.eatonphil.com/the-case-for-comments-in-code.html) ([HN](https://news.ycombinator.com/item?id=24556782))

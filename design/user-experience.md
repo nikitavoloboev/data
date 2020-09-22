@@ -3,6 +3,7 @@
 ## Notes
 
 - Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.
+- [Underappreciated competitive advantage: letting people do x without creating an account.](https://twitter.com/paulg/status/1261976515408990208)
 
 ## Links
 
