@@ -262,7 +262,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.
 - [Tiny Apps](https://tinyapps.org/) - Aging catalog of tiny, well-made software.
 - [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/) ([HN](https://news.ycombinator.com/item?id=23730865))
-- [Visuals of Earth](https://visualsofearth.com/) - Gorgeous, minimal mobile wallpapers.
+- [Visuals of Earth](https://visualsofearth.com/) - Gorgeous, minimal mobile wallpapers. ([Wallpapers](https://visualsofearth.com/wallpapers/))
 - [Creating My Own Personal Micropub Client (2020)](https://www.jvt.me/posts/2020/06/28/personal-micropub-client/)
 - [The Frink is Good, the Unit is Evil (2020)](https://www.hillelwayne.com/post/frink/) ([Lobsters](https://lobste.rs/s/1awrik/frink_is_good_unit_is_evil))
 - [Do not remain nameless to yourself (1966)](https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself/) ([HN](https://news.ycombinator.com/item?id=23808400))

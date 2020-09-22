@@ -100,3 +100,4 @@
 - [The State of SwiftUI (2020)](https://steipete.com/posts/state-of-swiftui/)
 - [How Swift 5.3 enhances SwiftUI’s DSL (2020)](https://www.swiftbysundell.com/articles/how-swift-5-3-enhances-swiftui-dsl/) ([HN](https://news.ycombinator.com/item?id=24462511))
 - [Going native: SwiftUI from the perspective of a React developer (2020)](https://blog.maximeheckel.com/posts/swiftui-as-react-developer)
+- [Debating if I’ll use SwiftUI for my new project. Worried I’ll be a lot slower and will run into issues that force me to redo parts in UIKit (2020)](https://twitter.com/soffes/status/1308149148009472001)

@@ -97,7 +97,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [MacPorts package manager](https://www.macports.org/) ([Code](https://github.com/macports/macports-ports))
 - [macOS icon pack](https://macosicons.com/) - Beautiful open source icons for Big Sur. ([Code](https://github.com/elrumo/macOS_Big_Sur_icons_replacements))
 - [Thoughts on macOS Package Managers (2019)](https://saagarjha.com/blog/2019/04/26/thoughts-on-macos-package-managers/)
-- [Sparkle](https://github.com/sparkle-project/Sparkle) - Software update framework for macOS.
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - Software update framework for macOS. ([Web](https://sparkle-project.org/))
 - [Hard to discover tips and apps for macOS (2020)](https://thume.ca/2020/09/04/macos-tips/) ([HN](https://news.ycombinator.com/item?id=24391899)) ([Lobsters](https://lobste.rs/s/kpar4v/hard_discover_tips_apps_for_making_macos))
 - [fastmac](https://github.com/fastai/fastmac/) - MacOS instance or Linux shell. ([HN](https://news.ycombinator.com/item?id=24452384))
 - [What should I do after getting my (first) own new Macbook? (2020)](https://lobste.rs/s/uzdehw/what_should_i_do_after_getting_my_first_own)

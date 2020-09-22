@@ -311,3 +311,4 @@
 - [From Rust to TypeScript (2020)](https://valand.dev/blog/post/from-rust-to-typescript)
 - [My Favorite Rust Function Signature (2020)](https://www.brandonsmith.ninja/blog/favorite-rust-function) ([HN](https://news.ycombinator.com/item?id=24505436))
 - [Why Not Rust? (2020)](https://matklad.github.io//2020/09/20/why-not-rust.html) ([Lobsters](https://lobste.rs/s/jgcvev/why_not_rust)) ([HN](https://news.ycombinator.com/item?id=24536645))
+- [My least favorite Rust type (2020)](https://ridiculousfish.com/blog/posts/least-favorite-rust-type.html) ([HN](https://news.ycombinator.com/item?id=24546928)) ([Lobsters](https://lobste.rs/s/bssphv/my_least_favorite_rust_type)) ([Reddit](https://www.reddit.com/r/rust/comments/ix751t/my_least_favorite_rust_type/))

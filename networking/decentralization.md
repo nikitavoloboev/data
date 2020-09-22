@@ -21,7 +21,7 @@
 - [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 - [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
 - [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.
-- [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web.
+- [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web. ([Web](https://gun.eco/))
 - [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)
 - [SAFE Network Primer](https://primer.safenetwork.org/) - Introductory guide to the world's first fully autonomous data and communications network.
 - [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
@@ -36,3 +36,4 @@
 - [Resources about the general concepts around decentralization (2020)](https://merveilles.town/@jrc03c/104823469834829652)
 - [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.
 - [Coordination, Good and Bad (2020)](https://vitalik.ca/general/2020/09/11/coordination.html) ([HN](https://news.ycombinator.com/item?id=24449629))
+- [The unrealized potential of federation (2020)](https://drewdevault.com/2020/09/20/The-potential-of-federation.html) ([HN](https://news.ycombinator.com/item?id=24534148))

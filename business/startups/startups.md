@@ -29,6 +29,12 @@
   2. The product lifecycle is so much longer, which makes it inherently much riskier. In many cases it can be years before you even get to the point where you can get real feedback on the business model.
   3. There are often other considerations e.g. regulations or interactions with existing products, that are entirely outside of the control of the company that can significantly alter the likelihood of success.
 - [Produce an infoproduct (book, course, newsletter, etc) in domain X prior to a SaaS in domain X. Much quicker time to money. Gets your name out there and starts attracting happy customers. Teaches you business mechanics while paying you.](https://twitter.com/patio11/status/1301562880878239745)
+- [Startup advice:](https://twitter.com/gaganbiyani/status/1308062970057023489)
+  1. Focus. You're a small team; just do one thing well.
+  2. Weekly cadence. Build a growth team that meets weekly, instead of biweekly or quarterly.
+  3. Talk like your customer. Use their language, not yours.
+  4. Use less data. When you are small, obsessing over data is pointless.
+  5. Replace important debates with experiments and unimportant debates with decisions.
 
 ## Links
 
