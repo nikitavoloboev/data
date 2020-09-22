@@ -109,3 +109,4 @@
 - [Next.js News newsletter](https://nextjsnews.com/)
 - [Next.js Conf](https://nextjs.org/conf)
 - [Bulletproof Next](https://getstarted.sh/bulletproof-next) - Be an expert in Next.js.
+- [Blogging on Next.js: Generating static index pages](https://javacrisps.com/posts/nextjs-static-fun) ([HN](https://news.ycombinator.com/item?id=24558784))

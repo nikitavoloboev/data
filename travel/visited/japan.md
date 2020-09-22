@@ -17,3 +17,4 @@
 - [Beginner Japanese](https://brandur.org/fragments/beginner-japanese)
 - [Learn Japanese](https://www.tofugu.com/learn-japanese/) - Detailed Guide.
 - [Tofugu](https://www.tofugu.com/) - Japanese Culture & Language Blog.
+- [Learning How to Learn Japanese (2020)](https://zachdaniel.dev/learning-how-to-learn-japanese/)
