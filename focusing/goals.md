@@ -32,6 +32,6 @@ Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived
 
 ## Plan bigger. Save the planet.
 
-Create amazing things. Focus on sustainability. Reverse climate change & [save animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/).
+Create amazing things. Focus on solving [real global problems](https://www.youtube.com/watch?v=vKmQW_Nkfk8) like reversing climate change & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/).
 
-Earth is for everyone, not just humans. Be [mission](https://www.tesla.com/about), goal & [value](../business/startups/values.md) driven.
+Earth is for everyone, not just humans. Be goal & [value](../business/startups/values.md) driven.

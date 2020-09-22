@@ -233,3 +233,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Auto Linking on iOS & macOS (2020)](https://milen.me/writings/auto-linking-on-ios-and-macos/)
 - [Open Radar](https://openradar.appspot.com/page/1) - Community bug reports. ([Code](https://github.com/timburks/openradar))
 - [Open Feedback Assistant](https://github.com/feedback-assistant/reports) - Open collection of Apple Feedback Assistant reports.
+- [iOS 14 Monochrome Icon Set](https://icons.tr.af/)
