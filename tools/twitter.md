@@ -29,3 +29,4 @@
 - [Tracking significant changes to the Twitter API or platform as a whole](https://github.com/igorbrigadir/twitter-history)
 - [Twitter Developers Forum](https://twittercommunity.com/latest)
 - [First hands on the new Twitter API (2020)](https://dev.to/bearer/first-hands-on-the-new-twitter-api-44e9)
+- [HuggingTweets](https://github.com/borisdayma/huggingtweets) - Train a model to generate tweets. .

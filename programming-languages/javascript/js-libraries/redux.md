@@ -74,3 +74,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Dynadux](https://github.com/aneldev/dynadux) - Advanced and simpler Stores based on dispatch and Reducers. Alternative to Redux.
 - [Why I Stopped Using Redux (2020)](https://dev.to/g_abud/why-i-quit-redux-1knl)
 - [Redux Overview and Concepts](https://redux.js.org/tutorials/essentials/part-1-overview-concepts) ([HN](https://news.ycombinator.com/item?id=23950153))
+- [The evil pattern of Redux that reduces boilerplate (2020)](https://www.albertgao.xyz/2020/09/22/evil-pattern-of-redux-that-reduces-boilerplate/)

@@ -107,6 +107,8 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Timothy Andrew](https://timothyandrew.net/learning/)
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
+- [Paul Batchelor](https://pbat.ch/wiki/)
+- [Ten Digits](https://tendigits.space/)
 - [chl's org file notes](https://github.com/even4void/org)
 - [Roy Niang](https://royniang.com/home.html) ([Code](https://git.sr.ht/~royniang/koikoi))
 - [Rob Haisfields's Roam](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z)

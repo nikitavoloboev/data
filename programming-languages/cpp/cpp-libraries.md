@@ -117,6 +117,7 @@
 - [NuRaft](https://github.com/eBay/NuRaft) - C++ implementation of Raft core logic as a replication library.
 - [Hyperscan](https://github.com/intel/hyperscan) - High-performance multiple regex matching library. ([Web](https://www.hyperscan.io/))
 - [libcu++](https://github.com/NVIDIA/libcudacxx) - NVIDIA C++ Standard Library.
+- [OpenR](https://github.com/facebook/openr) - Distributed platform for building autonomic network functions.
 
 ## Links
 

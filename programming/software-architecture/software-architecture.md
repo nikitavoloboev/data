@@ -90,3 +90,4 @@
 - [Principles for better design](https://reflexio.debec.eu/principles-for-better-design) ([HN](https://news.ycombinator.com/item?id=24388753))
 - [Clouddraw](https://clouddraw.app/) - Create cloud architecture diagrams in minutes.
 - [Introduction to the Modeling and Analysis of Complex Systems (2015)](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)
+- [Performance Engineering of Software Systems MIT course (2018)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/index.htm)

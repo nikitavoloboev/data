@@ -175,3 +175,4 @@
 - [Course Files for Complete Python 3 Bootcamp Course](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
 - [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Case studies in successfully shipping Python software.
 - [Data-oriented Programming in Python (2020)](https://www.moderndescartes.com/essays/data_oriented_python/) ([HN](https://news.ycombinator.com/item?id=24504947))
+- [Analyzing Python Code with Python (2020)](https://rotemtam.com/2020/08/13/python-ast/)

@@ -51,3 +51,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Goku Configs on GitHub](https://github.com/search?l=&o=desc&q=extension%3A.edn+filename%3Akarabiner.edn&s=&type=Code)
 - [Putting your Keyboard on Steroids with Karabiner Elements (2020)](https://dev.to/swyx/notes-on-karabiner-elements-from-john-lindquist-4cmo)
 - [Karabiner Docs](https://karabiner-elements.pqrs.org/docs/)
+- [Compose Key On macOS](https://github.com/Granitosaurus/macos-compose) ([HN](https://news.ycombinator.com/item?id=24553013))

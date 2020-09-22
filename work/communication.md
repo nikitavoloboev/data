@@ -46,3 +46,4 @@
 - [Benefit for going fully asynchronous (by Gumroad)](https://twitter.com/shl/status/1222545212477599751)
 - [Together vs Alone: Thoughts on building a team](https://www.preetamnath.com/blog/building-a-team) ([HN](https://news.ycombinator.com/item?id=24458258))
 - [How I trained myself to remember 95% of a 2h meeting (2020)](https://barehands.substack.com/p/how-to-take-meeting-notes) ([HN](https://news.ycombinator.com/item?id=24547098))
+- [List of interesting questions to get to know people better](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)

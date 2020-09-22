@@ -75,3 +75,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Ask HN: Is all of FAANG like this? (2020)](https://news.ycombinator.com/item?id=23917131)
 - [A few things I wish I knew before I started working as a software engineer](https://shubheksha.com/posts/2019/06/a-few-things-i-wish-i-knew-before-i-started-working-as-a-software-engineer/)
 - [StaffEng](https://staffeng.com/) - Stories of reaching Staff-plus engineering roles.
+- [Laid Off, Now What? (2020)](https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html) ([HN](https://news.ycombinator.com/item?id=24534685))

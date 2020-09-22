@@ -1,6 +1,6 @@
 # Goals
 
-## Action (todo)
+## Action
 
 ### Build Learn Anything
 
@@ -12,7 +12,11 @@ Lots of [inspiration](../design/design-inspiration.md). I want a personal space 
 
 Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived data (from GitHub/Twitter/..).
 
-## Theme (focus on)
+## Read books / papers
+
+Take time to read relevant books & papers.
+
+## Theme
 
 ### Healthy mind/body
 

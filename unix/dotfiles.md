@@ -44,3 +44,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.
 - [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [rcm](https://github.com/thoughtbot/rcm) - Management suite for dotfiles.

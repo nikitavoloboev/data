@@ -5,6 +5,12 @@
 - [Digital technology is separating the citizens in all societies into two groups: the watchers and the watched.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [Once we searched Google, but now Google searches us. Once we thought of digital services as free, but now surveillance capitalists think of us as free.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [It is no longer enough to automate information flows about us; the goal now is to automate us. These processes are meticulously designed to produce ignorance by circumventing individual awareness and thus eliminate any possibility of self-determination. As one data scientist explained to me, “We can engineer the context around a particular behaviour and force change that way… We are learning how to write the music, and then we let the music make them dance.”](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [Coordination, the ability for large groups of actors to work together for their common interest, is one of the most powerful forces in the universe. It can be improved in many ways:](https://vitalik.ca/general/2020/09/11/coordination.html)
+  - Faster spread of information.
+  - Better norms that identify what behaviors are classified as cheating along with more effective punishments.
+  - Stronger and more powerful organizations.
+  - Tools like smart contracts that allow interactions with reduced levels of trust.
+  - Governance technologies (voting, shares, decision markets...)
 
 ## Links
 

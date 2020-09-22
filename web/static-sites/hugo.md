@@ -20,6 +20,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Ghostwriter](https://github.com/jbub/ghostwriter) - Port of ghostwriter theme to Hugo.
 - [Blogophonic](https://github.com/formspree/blogophonic-hugo) - Modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
 - [Pulp](https://github.com/koirand/pulp/) - Hugo theme for getting a simple, easy-to-read blog site.
+- [Hugo Starter Tailwind Basic](https://github.com/bep/hugo-starter-tailwind-basic) - Simple starter set up with TailnwindCSS and its typograhpy plugin and a build setup using PostCSS and PurgeCSS (when running the production build).
 
 ## Examples
 

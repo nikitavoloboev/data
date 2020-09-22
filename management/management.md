@@ -7,6 +7,7 @@
   - Just because someone is junior doesn't mean they don't deserve respect and cooperation.
 - [So much of good management is so simple: recognizing when your people need a challenge vs. when they need help.](https://twitter.com/jenistyping/status/1277466746400563200)
 - [Review of Ted Lasso show and Ted's focus on making everyone in the team being the best version of themselves.](https://twitter.com/_danilo/status/1304811249499283456)
+- [Do you need to estimate the shit that needs to be done? No! It all needs to be done. The dev team will do it as fast as they can. Estimating the work will only waste time they could spend getting the shit done.](http://slap.pm/)
 
 ## Links
 
@@ -50,3 +51,4 @@
 - [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 - [How Linear.app builds its software](https://linear.app/linear-method)
 - [The software engineering lifecycle: How we built the new Dropbox Plus (2020)](https://dropbox.tech/frontend/the-software-engineering-lifecycle--how-we-built-the-new-dropbox) ([HN](https://news.ycombinator.com/item?id=24494852))
+- [Sweary Lightweight Agile Planning](http://slap.pm/)

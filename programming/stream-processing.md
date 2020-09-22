@@ -16,3 +16,5 @@
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) - Open-Source Distributed Stream and Batch Processing. ([Web](https://jet-start.sh/))
 - [WTF are streams? (2019)](https://manzanit0.github.io/computing/2019/05/29/wtf-are-streams.html)
 - [Benthos](https://github.com/Jeffail/benthos) - Stream processor for mundane tasks written in Go. ([Web](https://www.benthos.dev/))
+- [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Process & Analyze Streaming Data .
+- [Kiner](https://github.com/bufferapp/kiner) - Python AWS Kinesis Producer with error handling and thread support.

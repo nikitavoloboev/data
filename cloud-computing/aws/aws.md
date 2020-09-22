@@ -98,3 +98,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS CDK Intro Workshop](https://cdkworkshop.com/) ([Code](https://github.com/aws-samples/aws-cdk-intro-workshop))
 - [Tips and Gotchas for managing your AWS Costs (2020)](https://www.taggun.io/tips-and-gotchas-for-managing-your-aws-cloud-costs)
 - [AWS Video Catalog](https://awsvideocatalog.com/)
+- [AWS Perspective](https://aws.amazon.com/solutions/implementations/aws-perspective/) - Quickly visualizes AWS Cloud workloads as architecture diagrams. ([HN](https://news.ycombinator.com/item?id=24552779)) ([Code](https://github.com/awslabs/aws-perspective))
+- [Open AWS Catalogue](https://aws.dendron.so/) - Reference of all things AWS. ([Code](https://github.com/dendronhq/catalogue-open-aws))

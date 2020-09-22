@@ -212,6 +212,8 @@
 - [OKR Example Directory](https://soapboxhq.com/goal-examples) - Library of role-specific and personal development goal examples to inspire your employees.
 - [TLDW](https://usetldw.video/home.html) - Search inside of videos from YC, VCs and established founders. ([HN](https://news.ycombinator.com/item?id=24457893))
 - [The Sweaty Startup](https://sweatystartup.com/) - Resource for Entrepreneurs.
+- [Peter Thiel’s Stanford course notes (2012)](https://blakemasters.com/peter-thiels-cs183-startup)
+- [Stripe Atlas: Guide to Software as a Service, as a business (2020)](https://stripe.com/en-nl/atlas/guides/business-of-saas)
 
 ## Images
 

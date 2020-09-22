@@ -74,3 +74,4 @@
 - [What Clojure Spec is and what you can do with it (2020)](https://www.pixelated-noise.com/blog/2020/09/10/what-spec-is/) ([HN](https://news.ycombinator.com/item?id=24432461))
 - [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
 - [Essential Reference for the Clojure Standard Library](https://freecontent.manning.com/meet-the-clojure-standard-library/)
+- [Local memoized recursive functions (2020)](https://quanttype.net/posts/2020-09-20-local-memoized-recursive-functions.html)
