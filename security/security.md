@@ -92,3 +92,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Information Security Requires Strongly-Typed Actors and Theories (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3418003)
 - [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security and Pentest/CTF.
+- [Bypassing ESP32 Encrypted Secure Boot (2020)](https://raelize.com/posts/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)

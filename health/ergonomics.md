@@ -8,7 +8,7 @@
 
 ## Standing desks
 
-- [Jarvis](https://www.fully.eu/products/jarvis-adjustable-standing-desk-bamboo)
+- [Jarvis](https://www.fully.eu/products/jarvis-adjustable-standing-desk-bamboo) ([Tweet](https://twitter.com/twostraws/status/1308335047896956928))
 - [Autonomous](https://www.autonomous.ai/) - Great standing desks & chairs.
 - [idasen-control](https://github.com/mitsuhiko/idasen-control) - Lets you control IKEA IDÅSEN desks from the command line. ([Tweet](https://twitter.com/mitsuhiko/status/1264548621606965248))
 

@@ -28,6 +28,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 
 - Giving a talk, it is often best to start with a `Why?`
 - [I love the virtual conf format of "play pre-recorded video while speaker engages with the audience in chat". As a speaker, I enjoy interacting with the audience this way throughout the entire talk, and being able to answer questions without losing any speaking time.](https://twitter.com/techgirl1908/status/1294355241412878336)
+- [Give a roadmap whenever you start speaking. Signpost every argument. Explicitly state the implications of your arguments. Good debaters talk about facts, great ones talk about framing.](https://twitter.com/david_perell/status/1307493332285825024)
 
 ## Links
 

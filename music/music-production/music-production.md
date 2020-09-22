@@ -30,6 +30,7 @@
 - [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis. ([Web](http://faust.grame.fr/)) ([Docs](https://faust.grame.fr/doc/manual/index.html#quick-start))
 - [AudioKit Pro](https://audiokitpro.com/) - Leading free & open-source audio framework for iOS, macOS, and Apple Watch.
 - [noise.sh](https://noise.sh/) - Digital signal processing spreadsheet for sound design.
+- [Noisefunge](https://github.com/revnull/noisefunge.rs) - Music livecoding environment based on the befunge programming language. ([HN](https://news.ycombinator.com/item?id=24549602))
 
 ## Inspiration
 

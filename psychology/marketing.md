@@ -67,6 +67,7 @@
 - [Hiring the first head of marketing at a startup (2020)](https://helenmin.com/blog/first-head-of-marketing) ([HN](https://news.ycombinator.com/item?id=24448513))
 - [Steve Jobs speech on marketing](https://www.youtube.com/watch?v=YM4If6YHN3s)
 - [Direct sales for SaaS startups – our experience and tips (2020)](https://blog.palabra.io/learning-to-listen-direct-sales-tips-for-early-stage-startups)
+- [Tips I wish I knew about building an audience when I first started (2020)](https://twitter.com/thisiskp_/status/1306614299218055169)
 
 ## Images
 

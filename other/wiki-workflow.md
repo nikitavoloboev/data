@@ -109,6 +109,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
 - [chl's org file notes](https://github.com/even4void/org)
 - [Roy Niang](https://royniang.com/home.html) ([Code](https://git.sr.ht/~royniang/koikoi))
+- [Rob Haisfields's Roam](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z)
 - [Hyperfine Village](https://roamresearch.com/#/app/hyperfinelabs/page/TYt89wtA7)
 - [Nick Belzer](https://notes.nickbelzer.me/) ([Code](https://github.com/nbelzer/notes))
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
@@ -235,3 +236,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [A Meta-Layer for Notes (2020)](https://julian.digital/2020/09/04/a-meta-layer-for-notes/)
 - [A Hierarchy First Approach to Note Taking](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64.html)
 - [How to set up your own digital garden (2020)](https://nesslabs.com/digital-garden-set-up)
+- [Cosy](https://cosy.af/) - Internal company hub & workplace search.

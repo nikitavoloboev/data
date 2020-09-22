@@ -212,7 +212,7 @@
 - [miri](https://github.com/rust-lang/miri) - Interpreter for Rust's mid-level intermediate representation.
 - [Tide](https://github.com/rustasync/tide) - Empowering everyone to build HTTP Services.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
-- [maud](https://github.com/lfairy/maud) - Compile-time HTML templates for Rust.
+- [maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust. ([HN](https://news.ycombinator.com/item?id=24552107))
 - [panic-never](https://github.com/japaric/panic-never) - This crate guarantees that your application is free of panicking branches.
 - [graphql_client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust.
 - [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.

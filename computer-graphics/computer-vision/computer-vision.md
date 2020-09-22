@@ -102,3 +102,4 @@
 - [Gesture Recognition with Line Integrals](https://justinmeiners.github.io/gesture-recognition/) ([Code](https://github.com/justinmeiners/gesture-recognition))
 - [Computer Vision: Looking Back to Look Forward (2020)](http://slazebni.cs.illinois.edu/spring20/)
 - [DAIN (Depth-Aware Video Frame Interpolation)](https://github.com/baowenbo/DAIN)
+- [Picsellia](https://picsellia.com/) - Development platform dedicated to Computer Vision.
