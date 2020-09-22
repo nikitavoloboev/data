@@ -12,7 +12,7 @@ Lots of [inspiration](../design/design-inspiration.md). I want a personal space 
 
 Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived data (from GitHub/Twitter/..).
 
-## Read books / papers
+### Read books / papers
 
 Take time to read relevant books & papers.
 
