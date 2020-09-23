@@ -11,3 +11,4 @@
 - [Ørsted](https://orsted.com/en) - Global leader in offshore wind based in Denmark.
 - [After many false starts, hydrogen power might now bear fruit (2020)](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit) ([HN](https://news.ycombinator.com/item?id=23731956))
 - [Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189) ([HN](https://news.ycombinator.com/item?id=24252048))
+- [Ask HN: Is hydrogen likely to be a major source of power in the next 10 years? (2020)](https://news.ycombinator.com/item?id=24567711)

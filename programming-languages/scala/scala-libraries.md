@@ -40,6 +40,7 @@
 - [Coursier](https://github.com/coursier/coursier) - Pure Scala Artifact Fetching.
 - [almond](https://github.com/almond-sh/almond) - Scala kernel for Jupyter. ([Web](https://almond.sh/))
 - [Twitter Util](https://github.com/twitter/util) - Bunch of idiomatic, small, general purpose tools.
+- [scalameta](https://github.com/scalameta/scalameta) - Library to read, analyze, transform and generate Scala programs. ([Guide](https://scalameta.org/docs/trees/guide.html))
 
 ## Links
 
