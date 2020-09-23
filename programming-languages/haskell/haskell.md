@@ -192,5 +192,5 @@
 - [Software Design Showcase Projects in Haskell](https://gist.github.com/graninas/49be74a21fbd58236bad28e1ce1eed94)
 - [Haskeller Competency Matrix](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
 - [What killed Haskell, could kill Rust, too (2020)](https://gist.github.com/graninas/22ab535d2913311e47a742c70f1d2f2b/c4e1b25cefe673a0c1d1bec4c24690121f31fa21) ([HN](https://news.ycombinator.com/item?id=24449927)) ([Lobsters](https://lobste.rs/s/hjgchi/what_killed_haskell_could_kill_rust_too))
-- [Haskell's Children (2020)](https://owenlynch.org/posts/2020-09-16-haskells-children/) ([HN](https://news.ycombinator.com/item?id=24565019))
+- [Haskell's Children (2020)](https://owenlynch.org/posts/2020-09-16-haskells-children/) ([HN](https://news.ycombinator.com/item?id=24565019)) ([Reddit](https://www.reddit.com/r/rust/comments/iyawej/haskells_children/))
 - [Understanding Haskell IO](https://github.com/Pauan/programming-notes/blob/master/JavaScript/Understanding%20Haskell's%20IO.rst)

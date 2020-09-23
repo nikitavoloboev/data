@@ -8,6 +8,7 @@
 - [GSC Game World](https://www.gsc-game.com/) - Makers of Stalker.
 - [HiWarp](https://www.hiwarp.com/) - Indie Game Studio.
 - [5 Lives Studios](http://5livesstudios.com/)
+- [Frictional Games](https://frictionalgames.blogspot.com/) - Creators of Penumbra, Amnesia and SOMA.
 
 ## Notes
 

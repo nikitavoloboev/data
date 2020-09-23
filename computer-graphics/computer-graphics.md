@@ -90,3 +90,4 @@
 - [The compositor causes problems and leads to complexity (2020)](https://raphlinus.github.io/ui/graphics/2020/09/13/compositor-is-evil.html) ([HN](https://news.ycombinator.com/item?id=24466929))
 - [Rendering the Hellscape of Doom Eternal (2020)](http://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
 - [Introduction to Computer Graphics (2018)](http://math.hws.edu/graphicsbook/index.html) ([HN](https://news.ycombinator.com/item?id=24526845))
+- [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/) ([HN](https://news.ycombinator.com/item?id=24569542))

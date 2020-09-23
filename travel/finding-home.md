@@ -14,6 +14,7 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 
 ### NL rent
 
+- [Holland2Stay](https://holland2stay.com/)
 - [I am expat](https://www.iamexpat.nl)
 - [Only Expats](https://www.onlyexpats.nl/)
 - [Funda](https://www.funda.nl)
