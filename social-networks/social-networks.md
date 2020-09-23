@@ -59,4 +59,5 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Wisdom Shelf](https://patriciamou.com/wisdom-shelf-waitlist) - Social network focused on personal development.
 - [Relevant](https://relevant.community/) - Social Network Built On Trust.
 - [The Social Dilemma](https://www.thesocialdilemma.com/) ([HN](https://news.ycombinator.com/item?id=24536929))
+- [Books and resources to read to learn more about challenges of social networks](https://twitter.com/mozilla/status/1308542908291661824)
 - [How TikTok's design makes the algorithm work (2020)](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) ([HN](https://news.ycombinator.com/item?id=24550113))

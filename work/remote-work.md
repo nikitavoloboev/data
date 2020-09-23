@@ -1,5 +1,9 @@
 # Remote work
 
+## Notes
+
+- [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)
+
 ## Links
 
 - [Remote Habits](http://remotehabits.com/)

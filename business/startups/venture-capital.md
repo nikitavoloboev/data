@@ -74,3 +74,4 @@
 - [Pace Capital](https://www.pacecapital.com/)
 - [NEA](https://www.nea.com/)
 - [VC Guide](https://www.vcguide.co/) - Anonymous fund & investor partner reviews by founders for founders. ([HN](https://news.ycombinator.com/item?id=24491199))
+- [Atomico](https://www.atomico.com/) - European Venture Capital Firm.
