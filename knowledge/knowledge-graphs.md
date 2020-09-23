@@ -35,3 +35,6 @@
 - [Amazon’s open-source tools make embedding knowledge graphs much more efficient (2020)](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
 - [An Introduction to Natural Language Processing with Python for SEOs (2020)](https://www.searchenginejournal.com/natural-language-processing-python-seo/377051/)
 - [Deep Learning for Knowledge Graph Embeddings (2020)](https://cxlabs.sap.com/2020/08/31/deep-learning-for-knowledge-graph-embeddings/)
+- [Wikimedia Research/Showcase](https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase)
+- [Knowledge Gaps Index/Taxonomy](https://meta.wikimedia.org/wiki/Research:Knowledge_Gaps_Index/Taxonomy)
+- [Wikimedia Research Showcase (2020)](https://www.youtube.com/watch?v=GJDsKPsz64o)
