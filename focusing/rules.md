@@ -8,7 +8,7 @@
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
-- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast. No regrets.
+- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Adapt. Move forward. Move fast. No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me. Be my true self.
