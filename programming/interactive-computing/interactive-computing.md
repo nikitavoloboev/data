@@ -10,3 +10,4 @@
 - [lively.next](https://lively-next.org/) - Personal programming kit. It emphasizes liveness, directness and interactivity.
 - [Small-Step Live Programming by Example (2020)](https://cseweb.ucsd.edu/~hpeleg/snippy-uist2020.pdf)
 - [What's Wrong with Computational Notebooks? (2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/chi20c-sub8173-cam-i16.pdf) ([HN](https://news.ycombinator.com/item?id=24364315))
+- [Eve](http://witheve.com/) - Programming language based on years of research into building a human-first programming platform. ([Code](https://github.com/witheve/Eve))

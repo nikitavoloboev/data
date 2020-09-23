@@ -158,3 +158,4 @@
 - [Rewriting Facebook's "Recoil" React library from scratch in 100 lines (2020)](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/)
 - [react-nil](https://github.com/pmndrs/react-nil) - Allows you to bring Reacts high-level component abstraction to Node, or wherever you need it.
 - [What do you use to handle state with React? (2020)](https://twitter.com/rachelnabors/status/1306563902436716545)
+- [New JSX Transform (2020)](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) ([HN](https://news.ycombinator.com/item?id=24555415))

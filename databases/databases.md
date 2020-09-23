@@ -2,6 +2,7 @@
 
 ## Interesting
 
+- [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
@@ -108,6 +109,7 @@
 - [ExtendsClass](https://extendsclass.com/mysql-online.html) - Online MySQL playground for testing.
 - [Dropbase](https://www.dropbase.io/) - Turn offline files into live databases instantly. ([HN](https://news.ycombinator.com/item?id=24189582))
 - [Synth](https://getsynth.com/) - Create synthetic data environments in seconds. ([HN](https://news.ycombinator.com/item?id=24198114))
+- [Baserow](https://gitlab.com/bramw/baserow) - Open source online database tool and Airtable alternative.
 
 ## Links
 

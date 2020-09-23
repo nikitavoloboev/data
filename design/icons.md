@@ -42,3 +42,4 @@
 - [Teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons. ([Code](https://github.com/teenyicons/teenyicons))
 - [Material Design Icons](https://material.io/resources/icons/?style=baseline)
 - [React Icons](https://react-icons.github.io/react-icons/)
+- [Mono Icons](https://icons.mono.company/) - Simple, consistent open-source icon set designed to be used in a wide variety of digital products. ([Code](https://github.com/mono-company/mono-icons))

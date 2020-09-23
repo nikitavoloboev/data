@@ -119,3 +119,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Ask HN: Which project does not have any good open-source alternatives? (2020)](https://news.ycombinator.com/item?id=21884828)
 - [Awesome Open Source](https://awesomeopensource.com/) - Find Open Source By Searching, Browsing and Combining 7,000 Topics.
 - [Stop Mentoring First-Time Contributors (2019)](https://mikemcquaid.com/2019/02/16/stop-mentoring-first-time-contributors/)
+- [SQLite Copyright](https://www.sqlite.org/copyright.html)

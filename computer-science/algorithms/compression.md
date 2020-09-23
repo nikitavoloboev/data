@@ -24,3 +24,4 @@
 - [ZFP](https://github.com/LLNL/zfp) - Compressed format for representing multidimensional floating-point and integer arrays.
 - [PyTorch Implementation of the CVPR'19 Paper "Practical Full Resolution Learned Lossless Image Compression"](https://github.com/fab-jul/L3C-PyTorch)
 - [Lossless compression of English messages using GPT-2](http://textsynth.org/sms.html) ([HN](https://news.ycombinator.com/item?id=23618465)) ([Code](https://bellard.org/nncp/gpt2tc.html))
+- [Visualizing gzip compression with Python (2020)](https://brennan.io/2020/09/22/compression-curves/) ([HN](https://news.ycombinator.com/item?id=24563372))

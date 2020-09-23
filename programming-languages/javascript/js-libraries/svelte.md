@@ -42,3 +42,4 @@
 - [Will it Scale? - Finding Svelte's Inflection Point](https://github.com/halfnelson/svelte-it-will-scale)
 - [Svelte Native](https://github.com/halfnelson/svelte-native) - Create Mobile applications using native widgets via Svelte Svelte and NativeScript.
 - [Optimizing Svelte Applications (2020)](https://www.syntaxsuccess.com/viewarticle/optimizing-svelte-applications)
+- [Try Svelte (2020)](https://marcradziwill.com/blog/why-you-should-try-svelte/) ([HN](https://news.ycombinator.com/item?id=24564670))

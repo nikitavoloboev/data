@@ -18,3 +18,4 @@
 - [laika](https://github.com/gbmor/laika) - Async Gemini protocol server.
 - [deedum](https://github.com/snoe/deedum) - Project Gemini browser.
 - [A look at the Gemini protocol: a brutally simple alternative to the web (2020)](https://toffelblog.xyz/blog/gemini-overview/) ([HN](https://news.ycombinator.com/item?id=23730408))
+- [Scalar](https://sr.ht/~icefox/scalar/) - Small chat protocol, inspired by Gemini. ([Lobsters](https://lobste.rs/s/gnd8bc/scalar_small_chat_protocol_inspired_by))

@@ -8,13 +8,13 @@
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
-- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
+- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast. No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me. Be my true self.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people.
-- Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
-- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Don't over optimize.
+- Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
@@ -233,6 +233,7 @@
 - Yellow arrows & text is nicer to read when annotating images.
 - Don't play games on mac/iOS.
 - [Automate backups](../backups/backups.md).
+- Archive useful content no longer actively used. `~/archive`
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.

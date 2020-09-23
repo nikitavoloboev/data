@@ -16,30 +16,34 @@ Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived
 
 Take time to read relevant books & papers.
 
+### Build better tools for everything
+
+Lots of ideas around improving my workflow further. Build them.
+
 ## Theme
 
 ### Healthy mind/body
 
 Eat healthy and exercise daily. Work ergonomically. Follow [rules](rules.md).
 
-### Learn what matters. Solve problems.
+### Learn what matters. Solve problems. Share learnings.
 
 Understand tools I use deeply. Solve problems & write about what I learned.
 
 ### Remove complexity/waste. Streamline processes.
 
-Remove any friction I feel in life. Such as when writing code or making art. Build new tools & processes.
+Remove any friction I feel. Filter out wasteful news, info. No thoughtless actions. Focus on goals & todos. No time wasted.
 
-Filter out wasteful news, information. No thoughtless actions. Focus on goals & todos. No time wasted.
+Everything should have a well defined process.
 
 ### Go out of my comfort zone. Meet people.
 
-Make screencasts/videos to educate. Write. Practice photography. Compose music. Design. Share.
+Make screencasts/videos to educate. Write. Practice photography. Compose music. Design. Share & learn with community.
 
 Be inspired & improve myself. Reach out to people I admire.
 
 ### Plan bigger. Save the planet.
 
-Create amazing things. Focus on solving [real global problems](https://www.youtube.com/watch?v=vKmQW_Nkfk8) like reversing climate change & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/).
+Create amazing things. Focus on solving [real global problems](https://youtu.be/l6T9xIeZTds?t=6029) like reversing climate change (electrical everything, efficient use of capital) & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed).
 
 Earth is for everyone, not just humans. Be goal & [value](../business/startups/values.md) driven.

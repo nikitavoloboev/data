@@ -80,3 +80,4 @@
 - [Compiling a Lisp: Primitive unary functions](https://bernsteinbear.com/blog/compiling-a-lisp-4/) ([HN](https://news.ycombinator.com/item?id=24386826))
 - [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language.
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) ([Code](https://github.com/sarabander/sicp)) ([Racket SICP](https://docs.racket-lang.org/sicp-manual/index.html#%28part._.Installation%29)) ([HN](https://news.ycombinator.com/item?id=24428907))
+- [A micro-manual for LISP Implemented in C (2010)](https://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/)

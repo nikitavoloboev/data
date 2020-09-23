@@ -19,3 +19,4 @@
 - [What Happens After the Universe Ends? (2020)](https://www.youtube.com/watch?v=PC2JOQ7z5L0)
 - [Our deepest view of the X-ray sky (2020)](http://www.mpe.mpg.de/7461761/news20200619) ([HN](https://news.ycombinator.com/item?id=23573476))
 - [How big is the universe? What happens at the “edge”? (2020)](https://www.askamathematician.com/2020/06/q-how-big-is-the-universe-what-happens-at-the-edge/)
+- [The Big and the Small (2020)](https://waitbutwhy.com/2020/09/universe.html) ([Universe in a Nutshell App](https://shop-us.kurzgesagt.org/products/universe-in-a-nutshell-app)) ([HN](https://news.ycombinator.com/item?id=24558358))

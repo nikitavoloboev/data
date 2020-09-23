@@ -39,3 +39,4 @@
 - [SVG Caching with <use> (2020)](https://paco.im/blog/svg-caching-with-use)
 - [Benefits of SVG (2020)](https://dev.to/alexi_be3/benefits-of-svg-10mn)
 - [Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations) ([HN](https://news.ycombinator.com/item?id=24048508))
+- [svg2jsx](https://github.com/balajmarius/svg2jsx) - Transform SVG into valid JSX.

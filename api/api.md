@@ -141,3 +141,4 @@
 - [How To Design A Good API and Why it Matters (2007)](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 - [Regarding Semantic Versioning (2020)](https://www.danielmoch.com/posts/2020/09/regarding-semantic-versioning/) ([Lobsters](https://lobste.rs/s/i8bcst/regarding_semantic_versioning))
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [Catch Breaking Changes by Diffing API Traffic (2020)](https://www.akitasoftware.com/blog/2020/9/22/faster-better-earlier-catch-breaking-changes-by-diffing-api-behavior) ([HN](https://news.ycombinator.com/item?id=24561119))

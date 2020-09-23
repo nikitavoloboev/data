@@ -79,7 +79,6 @@
 - [Metaflow](https://metaflow.org/) - Framework for real-life data science. ([HN](https://news.ycombinator.com/item?id=21696779)) ([Code](https://github.com/Netflix/metaflow))
 - [SaturnCloud](https://www.saturncloud.io/s/index.html) - Manage Data Science applications so Data Scientists don't have to do DevOps.
 - [Falcon](https://github.com/uwdata/falcon) - Interactive Visual Analysis for Big Data.
-- [Materialize](https://github.com/MaterializeInc/materialize) - Streaming Data Warehouse. ([Web](https://materialize.io/))
 - [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 - [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews) ([HN](https://news.ycombinator.com/item?id=24460141))
 - [Google Cloud DataLab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.

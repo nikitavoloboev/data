@@ -54,3 +54,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [​​Automatic Website Deployment With Docker and Google Cloud Build (2019)](https://blog.theincredibleholk.org/blog/2019/10/13/automatic-website-deployment-with-docker-and-google-cloud-build/)
 - [Pre-rendering static websites with wget (2020)](https://apex.sh/blog/post/pre-render-wget/)
 - [A Series on Generating this Static Website](https://soap.coffee/~lthms/cleopatra.html)
+- [Static Hosting Benchmark 2020](https://www.pierbover.com/posts/static-hosting-benchmark-2020/)
