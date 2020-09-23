@@ -274,6 +274,7 @@ Here are few more things I liked, design wise.
 - [Hillel Wayne](https://hillelwayne.com/)
 - [Ethan Marcotte](https://ethanmarcotte.com/)
 - [Jon Kuperman](https://jonkuperman.com/)
+- [Adrien Griveau](https://adriengriveau.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
 - [Ben Kuhn](https://www.benkuhn.net/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)

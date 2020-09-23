@@ -131,3 +131,4 @@
 - [GraphQL tools & libraries (2020)](https://blog.graphqleditor.com/graphql-tools-partone/)
 - [How to build a low-latency serverless GraphQL API on AWS with Node.js, AppSync, Lambda, and DynamoDB (2020)](https://www.youtube.com/watch?v=_9DFFg-pNss)
 - [Graffiti.js](https://github.com/yamalight/graffiti) - Minimalistic GraphQL framework.
+- [GitHub Mobile and GraphQL (2020)](https://github.blog/2020-09-23-github-mobile-and-graphql/)
