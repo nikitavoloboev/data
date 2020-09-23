@@ -313,6 +313,7 @@ Here are few more things I liked, design wise.
 - [Phil Hedayatnia](http://hedayatnia.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Marcos Alonso](http://marcosalonso.com/)
+- [Jamie Crisman](https://longest.voyage/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
 - [Jordan O’Connor](https://jdnoc.com/)
 - [Leonora Tindall](https://nora.codes/)

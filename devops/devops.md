@@ -33,3 +33,4 @@
 - [Clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management. ([Announcement](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713))
 - [What is DevOps? (2020)](https://cloud.google.com/devops)
 - [Sysdig](https://sysdig.com/) - Security, Compliance & Performance for your Devops Workflows.
+- [A List of Skills and PracticesWe Use to Train Our DevOps Internally (2020)](https://blog.maddevs.io/devops-engineers-in-mad-devs-449ded5221b6)

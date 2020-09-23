@@ -312,3 +312,5 @@
 - [My Favorite Rust Function Signature (2020)](https://www.brandonsmith.ninja/blog/favorite-rust-function) ([HN](https://news.ycombinator.com/item?id=24505436))
 - [Why Not Rust? (2020)](https://matklad.github.io//2020/09/20/why-not-rust.html) ([Lobsters](https://lobste.rs/s/jgcvev/why_not_rust)) ([HN](https://news.ycombinator.com/item?id=24536645))
 - [My least favorite Rust type (2020)](https://ridiculousfish.com/blog/posts/least-favorite-rust-type.html) ([HN](https://news.ycombinator.com/item?id=24546928)) ([Lobsters](https://lobste.rs/s/bssphv/my_least_favorite_rust_type)) ([Reddit](https://www.reddit.com/r/rust/comments/ix751t/my_least_favorite_rust_type/))
+- [Resources to help you get started with Rust (2020)](https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/)
+- [Neovim and Rust (2020)](https://sharksforarms.dev/posts/neovim-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/iy15dw/neovim_and_rust_an_effective_development/))

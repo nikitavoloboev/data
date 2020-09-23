@@ -21,3 +21,4 @@
 - [Health Effects of Coffee (2020)](https://www.mdpi.com/2072-6643/12/6/1842) ([HN](https://news.ycombinator.com/item?id=23599221))
 - [No More Coffee](https://jayriverlong.github.io/2020/06/30/coffee.html) ([HN](https://news.ycombinator.com/item?id=23708204))
 - [Caffenol: Developing Photos with Coffee and Vitamin C (2020)](https://www.youtube.com/watch?v=9bhOtTUtPhg) ([HN](https://news.ycombinator.com/item?id=23761554))
+- [Engineering Exploration in Building a Coffee Machine (2020)](https://medium.com/@smithxlabs/breaking-new-grounds-an-engineering-exploration-in-building-a-coffee-machine-part-i-b24e42b3c480)

@@ -34,8 +34,6 @@ Understand tools I use deeply. Solve problems & write about what I learned.
 
 Remove any friction I feel. Filter out wasteful news, info. No thoughtless actions. Focus on goals & todos. No time wasted.
 
-Everything should have a well defined process.
-
 ### Go out of my comfort zone. Meet people.
 
 Make screencasts/videos to educate. Write. Practice photography. Compose music. Design. Share & learn with community.

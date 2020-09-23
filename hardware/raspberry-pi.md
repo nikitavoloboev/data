@@ -25,3 +25,4 @@
 - [Simultaneous AP and Client Mode Wi-Fi on Raspberry Pi Zero W](https://github.com/lukicdarkoo/rpi-wifi) ([HN](https://news.ycombinator.com/item?id=24250947))
 - [Raspberry Pi as a local server for self hosting applications (2020)](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/) ([HN](https://news.ycombinator.com/item?id=24474309))
 - [Raspberry Pi Colocation](https://raspberry-hosting.com/en/order) - Raspberry Pi hosting. ([Tweet](https://twitter.com/jeremyphoward/status/1308259937160577024))
+- [Useful Project Ideas for Your Raspberry Pi with Tutorials](https://devandgear.com/13-useful-project-ideas-for-your-raspberry-pi-with-tutorials/) ([HN](https://news.ycombinator.com/item?id=24567012))

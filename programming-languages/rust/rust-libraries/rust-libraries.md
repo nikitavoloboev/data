@@ -442,6 +442,7 @@
 - [Scipio](https://github.com/DataDog/scipio) - Cooperative Thread-per-Core crate for Rust & Linux based on io_uring.
 - [Rust command-line library](https://github.com/rust-shell-script/rust_cmd_lib) ([HN](https://news.ycombinator.com/item?id=24249646))
 - [rustcommon](https://github.com/twitter/rustcommon) - Common Twitter Rust lib.
+- [rust-dominator](https://github.com/Pauan/rust-dominator) - Zero cost declarative DOM library using FRP signals for Rust.
 
 ## Cargo Plugins
 

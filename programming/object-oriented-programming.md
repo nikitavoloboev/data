@@ -16,3 +16,4 @@
 - [Case against OOP is understated, not overstated (2020)](http://boxbase.org/entries/2020/aug/3/case-against-oop/)
 - [Don't Name Classes After Patterns. Mostly. (2020)](https://mailchi.mp/sandimetz/dont-name-classes-after-patterns-mostly)
 - [If everyone hates it, why is OOP still so widely spread?](https://stackoverflow.blog/2020/09/02/if-everyone-hates-it-why-is-oop-still-so-widely-spread/) ([HN](https://news.ycombinator.com/item?id=24356978)) ([Lobsters](https://lobste.rs/s/8y2ldu/if_everyone_hates_it_why_is_oop_still_so))
+- [Single dispatch multi-methods](https://github.com/Pauan/programming-notes/blob/master/Single%20dispatch%20multi-methods.rst)

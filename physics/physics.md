@@ -126,3 +126,4 @@
 - [Manifestations of waves in nature (2020)](https://twitter.com/QiaochuYuan/status/1306048749462908931)
 - [Daniel and Jorge Explain the Universe - Most Common Listener Questions (2020)](https://overcast.fm/+Oq0a0jjIo)
 - [I am self-studying physics, which book should I get? (2020)](https://www.reddit.com/r/AskPhysics/comments/iwae2d/i_am_selfstudying_physics_which_book_should_i_get/)
+- [A Child’s Guide to Spinors (2016)](http://www.weylmann.com/spinor.pdf)

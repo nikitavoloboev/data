@@ -38,3 +38,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Quassel IRC](https://github.com/quassel/quassel) - Modern, cross-platform, distributed IRC client. ([Web](https://quassel-irc.org/))
 - [Why IRC is Still Good (2020)](https://www.paritybit.ca/blog/why-irc-is-still-good) ([Lobsters](https://lobste.rs/s/rzesjq/why_irc_is_still_good_current_year))
 - [BitlBee](https://github.com/bitlbee/bitlbee) - IRC to other chat networks gateway. ([Web](https://www.bitlbee.org/main.php/news.r.html))
+- [Kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client written in POSIX C99. ([HN](https://news.ycombinator.com/item?id=24491839))

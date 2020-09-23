@@ -17,3 +17,4 @@
 - [Eesen](https://github.com/srvk/eesen) - End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding.
 - [Ask HN: Is there any work being done in speech-to-code with deep learning? (2020)](https://news.ycombinator.com/item?id=23497756)
 - [Silero Models](https://github.com/snakers4/silero-models) - Pre-trained STT models and benchmarks made embarrassingly simple.
+- [High-quality pre-trained speech-to-text models now available on Torch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/) ([HN](https://news.ycombinator.com/item?id=24565831))

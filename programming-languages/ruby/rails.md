@@ -16,3 +16,4 @@
 - [A Site Reborn](https://calebhearth.com/a-site-reborn)
 - [Under Deconstruction: The State of Shopify’s Monolith (2020)](https://engineering.shopify.com/blogs/engineering/shopify-monolith) ([HN](https://news.ycombinator.com/item?id=24505467))
 - [Rails Concerns: To Concern Or Not To Concern (2020)](https://blog.appsignal.com/2020/09/16/rails-concers-to-concern-or-not-to-concern.html) ([HN](https://news.ycombinator.com/item?id=24503022))
+- [Rails Performance](https://github.com/igorkasyanchuk/rails_performance) - Monitor performance of you Rails applications.

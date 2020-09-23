@@ -26,3 +26,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Procreate Handbook](https://procreate.art/handbook)
 - [Anti-Perfectionism Drawing](https://hyperlink.academy/courses/anti-perfectionism-drawing/7) - Series of exercises to overcome the perfectionism that holds us back from drawing more.
 - [Apparatus with Magnets](https://www.notion.so/Apparatus-with-Magnets-Intro-2e32af5b59b64a45b3b203408374a56e) - Prototyping a new approach to drawing dynamic pictures with direct manipulation.
+- [Drawing References (2020)](https://longest.voyage/notes/drawing-references/)
