@@ -19,3 +19,4 @@
 - [Batch](https://batch.sh/) - Event replay platform. Version control for data passing through your messaging systems. ([HN](https://news.ycombinator.com/item?id=24188214))
 - [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216) ([HN](https://news.ycombinator.com/item?id=24275683))
 - [mm-ADT](http://www.mm-adt.org/) - Multi-Model Abstract Data Type. Distributed virtual machine capable of integrating a diverse collection of data processing technologies. ([Code](https://github.com/mm-adt/vm))
+- [Data Preprocessing in Machine Learning (2020)](https://serokell.io/blog/data-preprocessing)

@@ -67,3 +67,4 @@
 - [Cambridge Department of Computer Science](https://www.cl.cam.ac.uk/)
 - [Abstracting Abstract Machines (2010)](http://matt.might.net/papers/vanhorn2010abstract.pdf) ([HN](https://news.ycombinator.com/item?id=24286666))
 - [Free Online Programming & Computer Science Courses (2020)](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
+- [CS Notes](https://csnotes.me/) - University CS notes. ([Code](https://github.com/samrobbins85/notes-site))
