@@ -77,3 +77,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [StaffEng](https://staffeng.com/) - Stories of reaching Staff-plus engineering roles.
 - [Laid Off, Now What? (2020)](https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html) ([HN](https://news.ycombinator.com/item?id=24534685))
 - [Small Tech](https://scattered-thoughts.net/writing/small-tech/) - Should you join a big company or start a startup? ([HN](https://news.ycombinator.com/item?id=24553085))
+- [Guide to the Senior Engineer Job Search (2020)](https://twitter.com/stopachka/status/1308766905642123264)

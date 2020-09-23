@@ -20,3 +20,4 @@
 - [Measure: a mental model for decision-making (2019)](https://taimur.me/posts/measure-a-mental-model-for-decision-making/)
 - [Invert, always, invert (2020)](https://www.anup.io/2020/07/20/invert-always-invert/) ([HN](https://news.ycombinator.com/item?id=23905221))
 - [Theory of Startups: a free book on mental models for startup founders (2020)](https://invertedpassion.com/free-book-mental-models-for-startup-founders/)
+- [Mentat Wiki](http://www.ludism.org/mentat/) - Exploring ways to become a better thinker. ([HN](https://news.ycombinator.com/item?id=24568112))

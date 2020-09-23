@@ -9,6 +9,7 @@
 - [Libra](libra.md)
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices.
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
+- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency.
 
 ## Links
 

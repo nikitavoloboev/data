@@ -79,3 +79,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [A Philosophy of Blockchain Validation (2020)](https://vitalik.ca/general/2020/08/17/philosophy.html)
 - [Blockchain, the Solution for Almost Nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63) ([HN](https://news.ycombinator.com/item?id=24249477)) ([Lobsters](https://lobste.rs/s/2kmkou/blockchain_amazing_solution_for_almost))
 - [ViewBlock](https://viewblock.io/) - Blockchain exploration for the masses.
+- [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) ([HN](https://news.ycombinator.com/item?id=24569083))

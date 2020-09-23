@@ -56,3 +56,5 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Nym](https://nymtech.net/) - Developing the infrastructure to prevent this data leakage and provide people with strong internet privacy.
 - [Your Phone Is Your Castle](https://puri.sm/posts/your-phone-is-your-castle/) ([HN](https://news.ycombinator.com/item?id=24463347))
 - [Threat Models for Differential Privacy (2020)](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
+- [Sekreta](https://gitlab.com/sekreta/sekreta/) - Universal internet-anonymity API with privacy-enhancing subsystem.
+- [Kovri](https://gitlab.com/kovri-project/kovri/) - Free, decentralized, anonymity technology based on I2P's open specifications.
