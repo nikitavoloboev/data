@@ -43,3 +43,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [The best Parts of Visual Studio Code are proprietary (2020)](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html) ([HN](https://news.ycombinator.com/item?id=24047638))
 - [VS Code Rocks](https://vscode.rocks/) - Weekly news on the newest features and updates to VSCode.
 - [VSCode to Prism Themes](https://prism.dotenv.dev/)
+- [The Era of Visual Studio Code (2020)](https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code/) ([HN](https://news.ycombinator.com/item?id=24558788)) ([Lobsters](https://lobste.rs/s/d2uhbm/era_visual_studio_code))
