@@ -7,6 +7,7 @@ Below is a list of plugins I use.
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
 - [AutoDark](https://github.com/jrappen/sublime-auto-dark) - Automatic dark mode, switches Sublime Text's UI according to your operating system's appearance.
+- [PackageDev](https://github.com/SublimeText/PackageDev) - Provides syntax highlighting and other helpful utility for Sublime Text resource files.
 
 ## Looks
 
