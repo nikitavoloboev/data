@@ -209,3 +209,4 @@
 - [Database of Databases](https://dbdb.io/) - Discover and learn about database management systems. ([Code](https://github.com/cmu-db/dbdb.io))
 - [DB-Engines](https://db-engines.com/en/) - Knowledge Base of Relational and NoSQL Database Management Systems.
 - [Old, Good Database Design (2020)](https://relinx.io/2020/09/14/old-good-database-design/)
+- [Berkeley: Introduction to Database Systems course (2020)](https://cs186berkeley.net/)

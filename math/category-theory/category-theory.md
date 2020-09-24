@@ -78,7 +78,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Why does the "working mathematician" need category theory? (2020)](https://www.reddit.com/r/math/comments/i7erja/why_does_the_working_mathematician_need_category/)
 - [F-Algebras (2017)](https://bartoszmilewski.com/2017/02/28/f-algebras/)
 - [Topology: A Categorical Approach (2020)](https://topology.pubpub.org/) - Graduate-level textbook that presents basic topology from the perspective of category theory. ([Lobsters](https://lobste.rs/s/cq30tt/topology_categorical_approach))
-- [MIT: Programming with Categories (2020)](http://brendanfong.com/programmingcats.html) ([HN](https://news.ycombinator.com/item?id=24353976))
+- [MIT: Programming with Categories (2020)](http://brendanfong.com/programmingcats.html) ([HN](https://news.ycombinator.com/item?id=24353976)) ([Draft](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf))
 - [n-Category Cafe category theory posts](https://golem.ph.utexas.edu/category/)
 - [Category Theory for the Sciences (2014)](https://mitpress.mit.edu/books/category-theory-sciences)
 - [Categorical Probability and Statistics (2020)](http://perimeterinstitute.ca/personal/tfritz/2019/cps_workshop/) ([Videos](https://www.youtube.com/playlist?list=PLaILTSnVfqtIebAXFOcee9MvAyBwhIMyr))

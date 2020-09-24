@@ -205,3 +205,4 @@
 - [Flowing Text Around Images](https://calebhearth.com/flowing-text-around-images) ([Lobsters](https://lobste.rs/s/w6xe29/flowing_text_around_images))
 - [Debugging CSS](https://debuggingcss.com/) - Book with lots of tips and techniques on how to debug CSS the right way with easy and studied methods.
 - [Learn CSS Centering](https://ishadeed.com/article/learn-css-centering/)
+- [blocks.css](https://thesephist.github.io/blocks.css/) - Add some dimension to your page with blocks. ([Code](https://github.com/thesephist/blocks.css))

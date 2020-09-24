@@ -41,3 +41,4 @@
 - [Data Structures Explained](https://www.freecodecamp.org/news/learn-all-about-data-structures-used-in-computer-science/)
 - [Introduction to Cache-Oblivious Data Structures (2018)](https://rcoh.me/posts/cache-oblivious-datastructures/)
 - [The Daily Coding newsletter](https://thedailycoding.com/) - Master JavaScript and Data Structures.
+- [Lectures Note for Data Structures and Algorithms (2019)](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)

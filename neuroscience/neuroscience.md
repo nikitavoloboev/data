@@ -36,6 +36,7 @@
 - [NanoNeuro 2020 Webinar](https://www.youtube.com/watch?v=CJXp8vCWlmA)
 - [Large Associative Memory Problem in Neurobiology and Machine Learning (2020)](https://arxiv.org/abs/2008.06996) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/icjcfk/r_biological_plausible_explanation_of_hopfield/))
 - [NeuroAI at CSHL](https://www.neuroaicshl.com/)
+- [Artificial neural networks for neuroscientists: A primer (2020)](https://arxiv.org/abs/2006.01001)
 
 ## Images
 

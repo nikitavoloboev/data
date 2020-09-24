@@ -1,5 +1,9 @@
 # Scala
 
+## Notes
+
+- [Scala enables abstractions which aren’t possible and/or not nearly as elegantly expressed in Kotlin due to for example the lack of native higher-kinded type (HKT), typeclasses, structural intersection/union type lattice, operator overloading, path dependent types and robust pattern matching in Kotlin (and probably many other nuances such a value types which are ostensibly useful for example for efficiently emulating new type system features)](https://www.reddit.com/r/scala/comments/ixjjmf/dotty_becomes_scala_3/)
+
 ## Links
 
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) - Amazing course.
@@ -40,7 +44,7 @@
 - [mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala.
 - [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/) ([Code](https://github.com/superruzafa/visual-scala-reference))
 - [Martin Odersky – A Scala 3 Update](https://www.youtube.com/watch?v=Z0w_pITUTyU) ([Reddit](https://www.reddit.com/r/scala/comments/hngs27/martin_odersky_a_scala_3_update/))
-- [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/))
+- [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/)) ([Docs](https://dotty.epfl.ch/docs/index.html))
 - [Signify Technology](https://www.signifytechnology.com/) - Award Winning Scala Recruitment.
 - [A Simple Soundness Proof for Dependent Object Types](https://arxiv.org/pdf/1706.03814.pdf)
 - [Things you need to know about JVM (that matter in Scala) (2020)](https://leanpub.com/jvm-scala-book)

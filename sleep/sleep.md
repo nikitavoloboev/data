@@ -22,3 +22,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days (2020)](https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/) ([HN](https://news.ycombinator.com/item?id=23211068))
 - [Dealing With Insomnia (2020)](https://jacquesmattheij.com/dealing-with-insomnia/) ([HN](https://news.ycombinator.com/item?id=23810506))
 - [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/) ([HN](https://news.ycombinator.com/item?id=24170225))
+- [Bedroom Tech (2020)](https://twitter.com/nateliason/status/1309119185646161920)
