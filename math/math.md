@@ -191,4 +191,4 @@
 - [Metamath](http://us.metamath.org/index.html) - Tiny language that can express theorems in abstract mathematics, accompanied by proofs that can be verified by a computer program.
 - [3Blue1Brown Learn Math Recommendations](https://www.3blue1brown.com/recommendations)
 - [Gurobi](https://www.gurobi.com/) - Powerful mathematical optimization solver.
-- [Mathematics for programmers (2020)](https://yurichev.com/writings/Math-for-programmers.pdf) ([Lobsters](https://lobste.rs/s/4mcasw/mathematics_for_programmers))
+- [Mathematics for programmers (2020)](https://yurichev.com/writings/Math-for-programmers.pdf) ([Lobsters](https://lobste.rs/s/4mcasw/mathematics_for_programmers)) ([HN](https://news.ycombinator.com/item?id=24574574))

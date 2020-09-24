@@ -25,3 +25,11 @@ Pleasantly surprised my macOS post is 31st [most favorited post on HN](https://o
 ## 12
 
 Came across another public company wiki, this time by [Gumroad](https://www.notion.so/Public-Wiki-72663c59ed5a432a9d52accafd8f166e). Going to improve our wiki for LA. There is a [nice thread on going async for work](https://twitter.com/shl/status/1222545212477599751) too.
+
+## 24
+
+Remembered today I once had a huge collection of songs I collected in FLAC locally. Lots of albums neatly sorted including Alt-J, Tame Impala and lots more. What is a shame is that I deleted the entire hard drive where all these songs & albums were stored as I sold the hard drive to some person. Because minimalism. 😿
+
+Extended my rules with: No Regrets. It does hurt as there were songs in there that I don't have in my Spotify collection any more and I don't think I'll ever find them again. The world of music is a big place. Feels good to write it though as it's been bugging me for 2 days now. Regret sucks.
+
+In other news, I am not writing here as much as I try to learn use Twitter more. Plus soonish the feeds of this journal & Twitter will be combined into one nice page.
