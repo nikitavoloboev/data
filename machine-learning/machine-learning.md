@@ -289,3 +289,4 @@
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated papers, articles, and blogs on data science & machine learning in production.
 - [Understanding Convolution in Deep Learning (2015)](https://timdettmers.com/2015/03/26/convolution-deep-learning/)
 - [21 Habits I Picked Up While Learning Machine Learning (2019)](http://blog.varunajayasiri.com/practices_learned_while_learning_machine_learning.html)
+- [Hacker News for ML](https://mln.dev/top/1)

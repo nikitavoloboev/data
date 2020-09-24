@@ -14,3 +14,5 @@
 - [Nadia Polikarpova: Liquid resource types for verification and synthesis (2020)](https://www.youtube.com/watch?v=BW3ZDtjD_Yw)
 - [Implementation of the paper "Automatic Program Synthesis of Long Programs with a Learned Garbage Collector"](https://github.com/amitz25/PCCoder)
 - [Deepcoder](https://github.com/dkamm/deepcoder) - Deepcoder paper implementation.
+- [Program Synthesis Papers by Area](https://docs.google.com/spreadsheets/d/1F0MH949En1wn-iCDS6dunkIs8YdwxZjLkXsY7Xy2iro/htmlview)
+- [Syntia](https://github.com/RUB-SysSec/syntia) - Program synthesis based framework for deobfuscation. It uses instruction traces as an blackbox oracle to produce random input and output pairs.

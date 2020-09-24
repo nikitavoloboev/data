@@ -81,7 +81,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [How I Record Educational Videos (2020)](https://kentcdodds.com/blog/how-i-record-educational-videos)
 - [Icebreaker](https://icebreaker.video/) - Online events that build community.
 - [What's In A GIF - Bit by Byte](http://matthewflickinger.com/lab/whatsinagif/bits_and_bytes.asp)
-- [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials.
+- [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials. ([HN](https://news.ycombinator.com/item?id=24579699))
 - [room.sh](https://room.sh/) - Online meeting rooms with powerful collaboration tools.
 - [mmhmm](https://www.mmhmm.app/) - Clear, compelling communication for everyone.
 - [Building Cloudflare TV from scratch (2020)](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/) ([HN](https://news.ycombinator.com/item?id=23764596))
