@@ -327,3 +327,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [SVALT Cooling Dock for macbooks](https://svalt.com/products/cooling-dock)
 - [Rumin](https://getrumin.com/) - Mind map for online learning resources.
 - [Makani](https://github.com/google/makani) - Project to develop a commercial-scale airborne wind turbine. ([HN](https://news.ycombinator.com/item?id=24456613))
+- [Area 120 by Google](https://area120.google.com/) - Google’s in-house incubator.

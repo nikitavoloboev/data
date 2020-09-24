@@ -121,3 +121,4 @@
 - [The C++ Bestiary (2017)](http://videocortex.io/2017/Bestiary/) - Compendium of Cryptic Characters.
 - [Data-Oriented Design book](https://www.dataorienteddesign.com/dodbook/) ([Review](https://gist.github.com/seece/25ed1b2108cf5782718b026382f2c52c)) ([Lobsters](https://lobste.rs/s/7jpgua/data_oriented_design_book_review))
 - [Learning-based Memory Allocation for C++ Server Workloads (2020)](https://research.google/pubs/pub49008/)
+- [C++ Should Support JIT Compilation (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1609r3.html)

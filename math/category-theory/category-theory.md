@@ -82,6 +82,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [n-Category Cafe category theory posts](https://golem.ph.utexas.edu/category/)
 - [Category Theory for the Sciences (2014)](https://mitpress.mit.edu/books/category-theory-sciences)
 - [Categorical Probability and Statistics (2020)](http://perimeterinstitute.ca/personal/tfritz/2019/cps_workshop/) ([Videos](https://www.youtube.com/playlist?list=PLaILTSnVfqtIebAXFOcee9MvAyBwhIMyr))
+- [Charity](http://pll.cpsc.ucalgary.ca/charity1/www/home.html) - Categorical programming language. ([Code](https://github.com/mietek/charity-lang))
 
 ## Images
 

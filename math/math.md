@@ -192,3 +192,5 @@
 - [3Blue1Brown Learn Math Recommendations](https://www.3blue1brown.com/recommendations)
 - [Gurobi](https://www.gurobi.com/) - Powerful mathematical optimization solver.
 - [Mathematics for programmers (2020)](https://yurichev.com/writings/Math-for-programmers.pdf) ([Lobsters](https://lobste.rs/s/4mcasw/mathematics_for_programmers)) ([HN](https://news.ycombinator.com/item?id=24574574))
+- [Classic style and mathematical writing (2019)](https://www.epatters.org/post/classic-style-and-mathematical-writing/)
+- [Maxima](http://maxima.sourceforge.net/) - Computer Algebra System.

@@ -8,8 +8,8 @@ If analytics are used, it's best to implement them server side with something li
 
 ## Links
 
-- [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Golang & Preact. ([Code](https://github.com/usefathom/fathom))
+- [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [Cube.js](https://github.com/statsbotco/cube.js) - Open source modular framework to build analytical web applications.

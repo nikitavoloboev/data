@@ -21,6 +21,8 @@
 - [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation.
 - [ReverseDiff](https://github.com/JuliaDiff/ReverseDiff.jl) - Reverse Mode Automatic Differentiation for Julia.
 - [StatsFuns.jl](https://github.com/JuliaStats/StatsFuns.jl) - Mathematical functions related to statistics.
+- [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) - Framework for applied category theory in the Julia language.
+- [Symata.jl](https://github.com/jlapeyre/Symata.jl) - Symbolic mathematics language.
 
 ## Biology
 

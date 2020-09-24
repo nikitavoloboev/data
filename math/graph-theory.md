@@ -24,3 +24,4 @@
 - [A Practical Introduction to Graphs (Network Diagrams) (2020)](https://healeycodes.com/practical-intro-to-graphs/)
 - [Tronix - Visualize Graph Theory](http://pulzed.com/) ([HN](https://news.ycombinator.com/item?id=24050651))
 - [Efficient Graph Search](https://dl.acm.org/doi/fullHtml/10.1145/3424302.3424304)
+- [Graphs and C-sets I: What is a graph? (2020)](https://www.algebraicjulia.org/blog/post/2020/09/cset-graphs-1/)

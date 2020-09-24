@@ -269,7 +269,6 @@
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths.
 - [go-sx](https://github.com/travelaudience/go-sx) - Provides some extensions to the standard library database/sql package.
 - [json-iterator/go](https://github.com/json-iterator/go) - High-performance 100% compatible drop-in replacement of "encoding/json".
-- [TamaGo](https://github.com/inversepath/tamago) - Bare metal Go for ARM SoCs.
 - [go-pretty](https://github.com/jedib0t/go-pretty) - Utilities to prettify console output of tables, lists, text, etc.
 - [Go Terminput](https://github.com/tj/go-terminput) - Provides terminal keyboard input for interactive command-line tools.
 - [Termd](https://github.com/tj/go-termd) - Provides terminal markdown rendering, with code block syntax highlighting support.
@@ -403,7 +402,7 @@
 - [APNS/2](https://github.com/sideshow/apns2) - Simple, flexible and fast Apple Push Notifications on iOS, OSX and Safari using the new HTTP/2 Push provider API.
 - [sanitize](https://github.com/kennygrant/sanitize) - Provides functions for sanitizing text in golang strings.
 - [Flect](https://github.com/gobuffalo/flect) - Inflection engine for golang.
-- [TamaGo](https://github.com/f-secure-foundry/tamago) - Bare metal Go for ARM SoCs.
+- [TamaGo](https://github.com/f-secure-foundry/tamago) - Bare metal Go for ARM SoCs. ([Web](https://labs.f-secure.com/blog/tamago/)) ([HN](https://news.ycombinator.com/item?id=24576266))
 - [Bloom filters](https://github.com/willf/bloom) - Bloom filter is a representation of a set of n items, where the main requirement is to make membership queries; i.e., whether an item is a member of a set.
 - [goph](https://github.com/melbahja/goph) - Native golang ssh client to execute your commands over ssh connection.
 - [mem](https://github.com/go4org/mem) - Cheap Go type to hold & operate on either a read-only []byte or string.

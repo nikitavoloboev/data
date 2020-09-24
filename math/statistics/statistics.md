@@ -55,3 +55,4 @@
 - [Bayesian Data Analysis course (2020)](https://avehtari.github.io/BDA_course_Aalto/)
 - [Introduction to the Field of Statistics (and R)](https://stat150.blog/)
 - [Causal Inference: The Mixtape (2018)](http://scunning.com/cunningham_mixtape.pdf)
+- [The algebra and machine representation of statistical models (2020)](https://arxiv.org/abs/2006.08945)

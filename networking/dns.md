@@ -42,3 +42,4 @@
 - [DNSLink](https://dnslink.io/) - Simple protocol to link content and services directly from DNS.
 - [DNS flag day](https://dnsflagday.net/) ([Code](https://github.com/dns-violations/dnsflagday))
 - [Secondary DNS – Deep Dive (2020)](https://blog.cloudflare.com/secondary-dns-deep-dive/)
+- [DNSimple](https://dnsimple.com/) - Secure & Simple DNS Hosting.

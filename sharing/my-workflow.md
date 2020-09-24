@@ -87,7 +87,7 @@
 - [Loom](https://www.loom.com/) - Video screen sharing & collaboration.
 - [Metabase](https://www.metabase.com/) - Quick insights/analytics from data. Hooks up to Postgres easily & lets you run intuitive queries & make dashboards.
 - [Google Domains](https://domains.google) - Domain purchase, handling. Gives you free email forwarding.
-- TODO: [Linear](https://linear.app/) is nice but GitHub is better integrated and is free. Just needs Linear level client.
+- TODO: [Linear](https://linear.app/) is nice but GitHub is better integrated and is free. Just needs [Linear](https://linear.app) or [Ship](https://www.realartists.com/blog/ship-20.html) level client.
 
 ## Cloud Compute
 
@@ -115,6 +115,10 @@
 ## Payment
 
 - [Stripe Checkout](https://stripe.com/en-nl/payments/checkout)
+
+## Analytics
+
+- [Fathom](https://usefathom.com/)
 
 ## Git
 

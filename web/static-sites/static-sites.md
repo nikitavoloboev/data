@@ -26,6 +26,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Metalsmith](https://metalsmith.io/) - Extremely simple, pluggable static site generator. ([Code](https://github.com/segmentio/metalsmith))
 - [Soupault](https://soupault.neocities.org/) - Static website generator based on HTML rewriting. ([Code](https://github.com/dmbaturin/soupault/))
 - [makesite.py](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders.
+- [Boom](https://github.com/RadhiFadlillah/boom) - Simple static site generator built with Go. ([Blog built with Boom](https://github.com/RadhiFadlillah/blog))
 
 ## Notes
 

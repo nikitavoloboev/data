@@ -106,3 +106,4 @@
 - [Distributed Systems Notes](https://github.com/Qwe1rty/distributed_systems_notes)
 - [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 - [The Reactive Principles](https://principles.reactive.foundation/) - Design Principles for Distributed Applications.
+- [Paxi](https://github.com/ailidani/paxi) - Framework that implements WPaxos and other Paxos protocol variants.

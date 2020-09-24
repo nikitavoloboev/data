@@ -51,3 +51,6 @@
 - [Sum Types in Julia and Rust (2020)](https://andreaskroepelin.de/blog/sum_types/) ([HN](https://news.ycombinator.com/item?id=24328071))
 - [Analyzing sources of compiler latency in Julia: method invalidations (2020)](https://julialang.org/blog/2020/08/invalidations/)
 - [Introduction to computational thinking for real-world problems course (2020)](https://github.com/mitmath/18S191) ([Videos](https://www.youtube.com/playlist?list=PLP8iPy9hna6Q2Kr16aWPOKE0dz9OnsnIJ))
+- [AlgebraicJulia](https://algebraicjulia.github.io/) - Bringing compositionality to technical computing. ([Blog](https://www.algebraicjulia.org/blog/))
+- [A History of Releasing Julia Packages (2020)](https://cdg.dev/tech/release-history/)
+- [Chris Rackauckas - SciML: How Language is Changing Scientific Research (2020)](https://www.youtube.com/watch?v=3hM7wn7iJ70)

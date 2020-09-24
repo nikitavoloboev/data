@@ -228,7 +228,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
 - [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
-- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
+- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar))
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
@@ -264,7 +264,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Findka](https://findka.com/) - Recommends content you might like based on data from other users with similar preferences. ([HN](https://news.ycombinator.com/item?id=23541840))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool.
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
-- [Sanity](https://www.sanity.io/) - Fastest, most flexible platform for delivering content to digital devices and products.
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
 - [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 - [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.
@@ -322,6 +321,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
 - [dotenv-linter](https://github.com/mgrachev/dotenv-linter) - Linter for .env files. Written in Rust.
 - [Coral](https://coralproject.net/) - Better commenting experience.
+- [Pory](https://pory.io/) - Create websites using Airtable in minutes.
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
 - [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
 - [GDBFrontend](https://github.com/rohanrhu/gdb-frontend) - Easy, flexible and extensionable GUI debugger.

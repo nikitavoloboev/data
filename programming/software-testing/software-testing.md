@@ -32,7 +32,7 @@
 - [Compositional Testing of Internet Protocols](http://mcmil.net/pubs/SECDEV19.pdf)
 - [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
 - [How NASA does software testing and QA (2020)](https://www.functionize.com/blog/how-nasa-does-software-testing-and-qa/)
-- [Puppeteer Recorder](https://github.com/checkly/puppeteer-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer script.
+- [Headless Recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [Unit Testing at REKKI (2020)](https://eng.rekki.com/unit-testing-at-rekki/t.txt)
 - [Ideology (2015)](https://www.destroyallsoftware.com/talks/ideology) ([Lobsters](https://lobste.rs/s/zte1xm/ideology))
 - [Gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation. ([Web](https://gauge.org/))
