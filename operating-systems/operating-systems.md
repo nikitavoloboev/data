@@ -51,6 +51,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [EmuTOS](https://github.com/emutos/emutos) - Free operating system for Atari ST computers, and more. ([Web](https://emutos.sourceforge.io/))
 - [HalideOS](https://github.com/DSC-KIIT/project-halide) - Experimental operating system written entirely from scratch. It supports a basic shell with some commands including a command line calculator.
 - [Biscuit](https://pdos.csail.mit.edu/projects/biscuit.html) - Monolithic, POSIX-subset operating system kernel in Go. ([HN](https://news.ycombinator.com/item?id=24572370))
+- [illumos](https://illumos.org/) - Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options. ([Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc))
 
 ## Notes
 

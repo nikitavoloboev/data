@@ -35,7 +35,7 @@
 - [Shape Divider App](https://www.shapedivider.app/) - Export a beautiful SVG shape divider.
 - [URL-encoder for SVG](https://yoksel.github.io/url-encoder/) ([Code](https://github.com/yoksel/url-encoder))
 - [SVG Filters Playground](https://yoksel.github.io/svg-filters/#/) ([Code](https://github.com/yoksel/svg-filters))
-- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. ([Web](https://riccardoscalco.it/textures/)) ([HN](https://news.ycombinator.com/item?id=23673534))
+- [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. ([Web](https://riccardoscalco.it/textures/)) ([HN](https://news.ycombinator.com/item?id=23673534)) ([Example](https://observablehq.com/@bradydowling/textures))
 - [SVG Caching with <use> (2020)](https://paco.im/blog/svg-caching-with-use)
 - [Benefits of SVG (2020)](https://dev.to/alexi_be3/benefits-of-svg-10mn)
 - [Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations) ([HN](https://news.ycombinator.com/item?id=24048508))

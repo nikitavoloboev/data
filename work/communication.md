@@ -47,4 +47,4 @@
 - [Together vs Alone: Thoughts on building a team](https://www.preetamnath.com/blog/building-a-team) ([HN](https://news.ycombinator.com/item?id=24458258))
 - [How I trained myself to remember 95% of a 2h meeting (2020)](https://barehands.substack.com/p/how-to-take-meeting-notes) ([HN](https://news.ycombinator.com/item?id=24547098))
 - [List of interesting questions to get to know people better](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
-- [The Most Important Non-Programming Skills for Programmers (2020)](https://welearncode.com/most-important-nonprogramming/)
+- [The Most Important Non-Programming Skills for Programmers (2020)](https://welearncode.com/most-important-nonprogramming/) ([HN](https://news.ycombinator.com/item?id=24577876))

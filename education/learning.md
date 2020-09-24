@@ -69,3 +69,4 @@
 - [A Guide to Autodidactism (2020)](https://www.jackkinsella.ie/articles/autodidactism)
 - [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) - Library with links to resources about various topics.
 - [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779)) ([Code](https://github.com/learn-awesome/learn))
+- [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/)

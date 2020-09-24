@@ -16,6 +16,7 @@
 - [Torus](https://github.com/thesephist/torus) - Event-driven model-view UI framework for the web, focused on being tiny, efficient, and free of dependencies. ([Web](https://thesephist.github.io/torus/))
 - [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798))
 - [Phenomic](https://github.com/phenomic/phenomic) - Modular website compiler (React, Webpack, Reason and whatever you want).
+- [Halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools. ([Docs](https://www.gethalfmoon.com/docs/introduction/))
 
 ## Animation
 
