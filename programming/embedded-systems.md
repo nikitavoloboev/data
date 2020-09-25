@@ -62,3 +62,5 @@
 - [ClojureScript on ESP32? Why not! (2020)](https://blog.tindie.com/2020/07/clojurescript-on-esp32-why-not/)
 - [defmt](https://github.com/knurling-rs/defmt) - Efficient, deferred formatting for logging on embedded systems.
 - [Embedded Podcast/Blog](https://embedded.fm/) - Site dedicated to the many aspects of engineering. We talk about the how, why, and what of engineering, usually devices.
+- [Tesla Buildroot](https://github.com/teslamotors/buildroot) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
+- [coreboot](https://github.com/teslamotors/coreboot) - Aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.

@@ -33,3 +33,4 @@
 - [Challenging LR Parsing (2020)](https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html) ([HN](https://news.ycombinator.com/item?id=24492675)) ([Lobsters](https://lobste.rs/s/t9oewt/challenging_lr_parsing))
 - [Why I write recursive descent parsers (despite their issues) (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)
 - [mpc](https://github.com/orangeduck/mpc) - Lightweight and powerful Parser Combinator library for C.
+- [Pure AST based linting sucks (2020)](https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html)

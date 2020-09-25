@@ -147,6 +147,7 @@
 - [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - Sliding ruler control for SwiftUI.
 - [Shiny](https://github.com/maustinstar/shiny) - Add motion-based texture to your SwiftUI views.
 - [Router](https://github.com/carson-katri/router) - Typesafe routing for SwiftUI.
+- [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - Simple line and bar charting library that support accessibility written using SwiftUI.
 
 ## Test
 

@@ -1,7 +1,5 @@
 # Pricing
 
-Before selling things I owned, I look at prices of same or similar items on the marketplace and price my item accordingly.
-
 ## Nice pricing pages
 
 - [Monica](https://www.monicahq.com/pricing)
@@ -9,6 +7,7 @@ Before selling things I owned, I look at prices of same or similar items on the 
 ## Notes
 
 - [Wealth and access to wealth is one of the most widely experienced Accessibility issues.](https://twitter.com/buildsghost/status/1274376280255811584)
+- Before selling things owned, can look at prices of same or similar items on marketplace and price the item accordingly.
 
 ## Links
 
@@ -26,3 +25,4 @@ Before selling things I owned, I look at prices of same or similar items on the 
 - [Subscription or no subscription? That is not the question (2020)](https://ia.net/topics/subscription-or-no-subscription)
 - [Pipe](https://www.pipe.com/) - Instant access to your annual cash flow.
 - [Pricing Low-Touch SaaS (2020)](https://stripe.com/en-in/atlas/guides/saas-pricing) - How to approach pricing and packaging a new SaaS app, by example. ([HN](https://news.ycombinator.com/item?id=24543433))
+- [SaaS Financial Model (2020)](https://baremetrics.com/blog/saas-financial-model)

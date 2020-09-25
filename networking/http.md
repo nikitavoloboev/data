@@ -7,7 +7,7 @@
 ## Links
 
 - [Know your HTTP well](https://github.com/for-GET/know-your-http-well)
-- [HTTP/3 explained](https://http3-explained.haxx.se/en) - Document describing the HTTP/3 and QUIC protocols. ([Code](https://github.com/bagder/http3-explained))
+- [HTTP/3 explained](https://http3-explained.haxx.se/en) - Document describing the HTTP/3 and QUIC protocols. ([Code](https://github.com/bagder/http3-explained)) ([Presentation](https://daniel.haxx.se/http3-explained/))
 - [The modern Web](http://ninenines.eu/docs/en/cowboy/1.0/guide/modern_web/) - Good explanation of web networking.
 - [WireMock](https://github.com/tomakehurst/wiremock) - Tool for mocking HTTP services.
 - [Apache HTTP Server](https://github.com/apache/httpd)
@@ -20,7 +20,6 @@
 - [serve-dir](https://github.com/maruel/serve-dir) - "python -m SimpleHTTPServer" but FAST.
 - [Yaws web server](https://github.com/klacke/yaws) - HTTP high performance 1.1 webserver particularly well suited for dynamic-content web applications.
 - [Vulcain](https://github.com/dunglas/vulcain) - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs.
-- [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 - [nghttp2](https://github.com/nghttp2/nghttp2) - Implementation of the Hypertext Transfer Protocol version 2 in C.
 - [h2spec](https://github.com/summerwind/h2spec) - Conformance testing tool for HTTP/2 implementation.
 - [HTTP Made Really Easy](https://www.jmarshall.com/easy/http/) - Practical Guide to Writing Clients and Servers.

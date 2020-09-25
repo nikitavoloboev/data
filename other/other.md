@@ -330,3 +330,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Area 120 by Google](https://area120.google.com/) - Google’s in-house incubator.
 - [Biohack Stack](https://biohackstack.com/) - Discover the daily regimens of the most notable biohackers, scientists, athletes, entrepreneurs, and more.
 - [IndieHackers TV](https://indiehackers.tv/)
+- [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) ([HN](https://news.ycombinator.com/item?id=24583109))

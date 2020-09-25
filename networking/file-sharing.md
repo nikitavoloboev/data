@@ -34,3 +34,4 @@
 - [File Transfer with SSH, Tee, and Base64 (2019)](https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/)
 - [Tardigrade](https://tardigrade.io/) - Decentralized Cloud Object Storage.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another. ([HN](https://news.ycombinator.com/item?id=24503077))
+- [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound. ([HN](https://news.ycombinator.com/item?id=24586390))

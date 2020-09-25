@@ -54,3 +54,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Coping with Cats (2020)](https://acesounderglass.com/2020/09/02/coping-with-cats/) ([HN](https://news.ycombinator.com/item?id=24361029))
 - [Jellyfish: Toxic but fascinating (2020)](http://oceans.nautil.us/feature/615/toxic-but-fascinating)
 - [Ask HN: Advice for first-time dog owners? (2020)](https://news.ycombinator.com/item?id=24532872)
+- [Crows possess higher intelligence long thought a primarily human attribute](https://www.statnews.com/2020/09/24/crows-possess-higher-intelligence-long-thought-primarily-human/) ([HN](https://news.ycombinator.com/item?id=24583314)) ([Reddit](https://www.reddit.com/r/science/comments/izbj3r/research_finds_that_crows_know_what_they_know_and/))

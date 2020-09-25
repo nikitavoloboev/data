@@ -45,6 +45,7 @@
 - [Algorithms implemented in JavaScript](https://github.com/TheAlgorithms/Javascript)
 - [Algorithms & Data Structures in Java](https://github.com/williamfiset/Algorithms)
 - [Wolfsort](https://github.com/scandum/wolfsort) - Stable adaptive hybrid radix / merge sort.
+- [Evolutionary Computation Bestiary](https://github.com/fcampelo/EC-Bestiary) - Bestiary of evolutionary, swarm and other metaphor-based algorithms.
 
 ## Images
 

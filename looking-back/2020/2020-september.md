@@ -33,3 +33,13 @@ Remembered today I once had a huge collection of songs I collected in FLAC local
 Extended my rules with: No Regrets. It does hurt as there were songs in there that I don't have in my Spotify collection any more and I don't think I'll ever find them again. The world of music is a big place. Feels good to write it though as it's been bugging me for 2 days now. Regret sucks.
 
 In other news, I am not writing here as much as I try to learn use Twitter more. Plus soonish the feeds of this journal & Twitter will be combined into one nice page.
+
+It's also quite interesting how obsessive I once was in collecting lossless music. I didn't even have any fancy gear to play and appreciate the lossless format. 🤦‍♂️
+
+## 25
+
+[Every day should be a mental health day.](https://twitter.com/techgirl1908/status/1309214827030540288)
+
+I 😻 [Remotive](https://remotive.io/) site design. So cute. Found it out through [MakeHub](https://makehub.io/).
+
+In 5 days I will send out my first newsletter. Excited. Would be curious to see how the format of the newsletter will evolve with time. I think the initial send out will be greatly influenced by [Gwern's newsletter](https://www.gwern.net/tags/newsletter) layout. Some links, some music. Some personal thoughts. Some photos. And a little boost for the next month to keep myself and maybe others going in chasing their dreams.

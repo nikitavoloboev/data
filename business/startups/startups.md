@@ -214,6 +214,7 @@
 - [The Sweaty Startup](https://sweatystartup.com/) - Resource for Entrepreneurs.
 - [Peter Thiel’s Stanford course notes (2012)](https://blakemasters.com/peter-thiels-cs183-startup)
 - [Stripe Atlas: Guide to Software as a Service, as a business (2020)](https://stripe.com/en-nl/atlas/guides/business-of-saas)
+- [MakeHub](https://makehub.io/) - Discover bootstrapped startups.
 
 ## Images
 

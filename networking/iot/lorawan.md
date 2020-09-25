@@ -49,3 +49,4 @@
 - [TTGO LoRa32 development board (2020)](https://www.settorezero.com/wordpress/lora_lorawan_lilygo_ttgo_lora32_esp32/) ([Reddit](https://www.reddit.com/r/esp32/comments/hu32z1/in_this_article_i_explain_how_lora_and_lorawan/))
 - [DecodingLora](https://revspace.nl/DecodingLora)
 - [We build a \$20 LoRa Satellite Ground Station and we follow the FossaSat-1 launch (2019)](https://www.youtube.com/watch?v=5k0aM-PJzo8) ([HN](https://news.ycombinator.com/item?id=24519340))
+- [Arduino Library for The Things Node](https://github.com/TheThingsNetwork/arduino-node-lib)

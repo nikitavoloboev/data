@@ -133,3 +133,4 @@
 - [Prediction and Policy-learning Under Uncertainty (PPUU)](https://github.com/Atcold/pytorch-PPUU)
 - [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
 - [LabML Neural Networks](http://lab-ml.com/labml_nn/index.html) - Collection of simple PyTorch implementation of various neural network architectures and layers. ([Code](https://github.com/lab-ml/labml_nn))
+- [PyTorch Interpret](https://github.com/ttumiel/interpret) - PyTorch library for interpreting your deep learning results, using both visualisations and attributions.

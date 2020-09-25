@@ -36,6 +36,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Web3Modal](https://github.com/web3modal/web3modal) - Single Web3 / Ethereum provider solution for all Wallets.
 - [Lighthouse](https://github.com/sigp/lighthouse) - Rust Ethereum 2.0 Client.
 - [Utilities for handling Ethereum keys](https://github.com/ethereumjs/ethereumjs-wallet)
+- [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum)
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 - [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)

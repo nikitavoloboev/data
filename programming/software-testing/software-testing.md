@@ -56,3 +56,4 @@
 - [How They Test](https://abhivaikar.github.io/howtheytest/#/) - Collection of public resources about how software companies test their software. ([Code](https://github.com/abhivaikar/howtheytest))
 - [Test smarter, not harder (2020)](https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/)
 - [TestDriven Courses](https://testdriven.io/)
+- [Anatomy of a Good Test (2020)](https://www.innoq.com/en/blog/anatomy-of-a-good-test/)

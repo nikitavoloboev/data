@@ -51,3 +51,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Attention is your scarcest resource (2020)](https://www.benkuhn.net/attention/) ([HN](https://news.ycombinator.com/item?id=24391686))
 - [Why Is It So Hard to Do Something That Should Be Easy?](https://www.youtube.com/watch?v=Uo08uS904Rg)
 - ['Ugh fields', or why you can’t even bear to think about that task (2020)](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) ([HN](https://news.ycombinator.com/item?id=24445603))
+- [Work on What Matters](https://staffeng.com/guides/work-on-what-matters) ([HN](https://news.ycombinator.com/item?id=24581810))

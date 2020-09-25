@@ -147,7 +147,7 @@
 - [SwiftRef](https://dabrahams.github.io/SwiftRef/) - Community-Generated Swift Programming Language Reference. ([Code](https://github.com/dabrahams/SwiftRef))
 - [Swift type checking is undecidable (2020)](https://forums.swift.org/t/swift-type-checking-is-undecidable/39024) ([Lobsters](https://lobste.rs/s/yl7a1w/swift_type_checking_is_undecidable)) ([HN](https://news.ycombinator.com/item?id=24047394))
 - [The state of Swift documentation (2020)](https://forums.swift.org/t/the-state-of-swift-documentation/39130)
-- [A deep dive into Swift’s function builders (2020)](https://swiftbysundell.com/articles/deep-dive-into-swift-function-builders/)
+- [A deep dive into Swift’s function builders (2020)](https://swiftbysundell.com/articles/deep-dive-into-swift-function-builders/) ([HN](https://news.ycombinator.com/item?id=24585647))
 - [Introduction to parsing Swift code with the SwiftSyntax Library (2020)](https://vivekseth.com/swift-syntax-intro/)
 - [Swift Calling Conventions on ARM64 (2020)](https://vivekseth.com/swift-arm64-int-bool/)
 - [Force-Unwrapping in Swift is NOT a Bad Thing](https://wolfmcnally.com/82/force-unwrapping-swift-not-bad-thing/)

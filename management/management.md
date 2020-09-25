@@ -53,3 +53,4 @@
 - [The software engineering lifecycle: How we built the new Dropbox Plus (2020)](https://dropbox.tech/frontend/the-software-engineering-lifecycle--how-we-built-the-new-dropbox) ([HN](https://news.ycombinator.com/item?id=24494852))
 - [Sweary Lightweight Agile Planning](http://slap.pm/)
 - [Company-wide Retrospectives](https://sklivvz.com/posts/company-wide-retrospectives)
+- [We cancelled standups and let the team build](https://www.usehaystack.io/blog/we-cancelled-standups-and-let-the-team-build-heres-what-happened) ([HN](https://news.ycombinator.com/item?id=24581360))

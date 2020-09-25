@@ -301,6 +301,7 @@
 - [schema-dts](https://github.com/google/schema-dts) - JSON-LD TypeScript types for Schema.org vocabulary.
 - [flatpickr](https://github.com/flatpickr/flatpickr) - JS date time picker.
 - [superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [lazy-collections](https://github.com/RobinMalfait/lazy-collections) - Collection of fast and lazy operations.
 
 ## Links
 

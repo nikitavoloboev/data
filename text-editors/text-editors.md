@@ -44,6 +44,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Marky Marked](https://github.com/patrickfatrick/marky-marked) - Lightweight in-browser content editor combining Markdown with the typical WYSIWYG toolbar.
 - [yace](https://github.com/petersolopov/yace) - Yet another code editor for browser.
 - [Slate](https://github.com/ianstormtaylor/slate) - Completely customizable framework for building rich text editors.
+- [TinyMCE](https://www.tiny.cloud/) - Advanced WYSIWYG HTML Editor.
 
 ## Links
 

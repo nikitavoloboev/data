@@ -163,3 +163,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Development for Everyone book](https://webdevelopmentforeveryone.com/)
 - [Skynet](https://siasky.net/) - Decentralized CDN and file sharing platform for devs.
 - [Apache ZooKeeper](https://zookeeper.apache.org/) - Centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ([Code](https://github.com/apache/zookeeper))
+- [Grant for the Web](https://www.grantfortheweb.org/) - 100M fund to boost open, fair, and inclusive standards and innovation in Web Monetization.
+- [Nerds of the 90s Web Ring](https://webringdemo.netlify.app/) ([Code](https://github.com/maxboeck/webring))

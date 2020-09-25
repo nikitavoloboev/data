@@ -28,3 +28,4 @@
 - [Proportional dispatching using Ruby (2020)](https://medium.com/rubycademy/proportional-dispatching-using-ruby-378afbdeb32d)
 - [Modern Ruby Serializers (2020)](https://vasilakisfil.social/blog/2020/01/20/modern-ruby-serializers/)
 - [Ruby Antipatterns](https://www.alchemists.io/articles/ruby_antipatterns/) ([Lobsters](https://lobste.rs/s/duiirg/ruby_antipatterns))
+- [Puma](https://github.com/puma/puma) - Ruby/Rack web server built for concurrency. ([Web](https://puma.io/))
