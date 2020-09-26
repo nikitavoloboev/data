@@ -4,6 +4,7 @@
 
 - [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
 - [Recess](https://takearecess.com/)
+- [Magic Mind](https://magicmind.co/)
 
 ## Links
 

@@ -29,3 +29,4 @@
 - [Modern Ruby Serializers (2020)](https://vasilakisfil.social/blog/2020/01/20/modern-ruby-serializers/)
 - [Ruby Antipatterns](https://www.alchemists.io/articles/ruby_antipatterns/) ([Lobsters](https://lobste.rs/s/duiirg/ruby_antipatterns))
 - [Puma](https://github.com/puma/puma) - Ruby/Rack web server built for concurrency. ([Web](https://puma.io/))
+- [Ruby 3.0 Preview 1 (2020)](https://www.ruby-lang.org/en/news/2020/09/25/ruby-3-0-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=24593093))
