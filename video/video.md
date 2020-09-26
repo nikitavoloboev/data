@@ -105,3 +105,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Eulerian Video Magnification](https://people.csail.mit.edu/mrub/evm/) ([HN](https://news.ycombinator.com/item?id=24362525))
 - [Create a Golang Video Streaming Server Using HLS (2020)](https://qvault.io/2020/09/04/golang-video-stream-server/)
 - [Clipchamp](https://clipchamp.com/en/) - Convert videos to MP4. Compress and edit videos. Record with your webcam and collect videos from others.
+- [Airmeet](https://www.airmeet.com/) - Virtual Events Platform for Communities & Enterprises.
