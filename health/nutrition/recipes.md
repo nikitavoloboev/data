@@ -24,3 +24,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Search for ingredients to pair with other ingredients](https://www.kulinarian.com/flavor-pairings/) ([HN](https://news.ycombinator.com/item?id=23997271))
 - [A Database of 5k Historical Cookbooks](https://www.atlasobscura.com/articles/how-to-find-historic-cookbooks) ([HN](https://news.ycombinator.com/item?id=24154417))
 - [Favorite dairy-free and wheat-free desserts](https://merveilles.town/@lrhodes/104832099711215455)
+- [Subtle Asian Food](https://subtleasianfood.com/) - Search for yummy Asian desserts.
