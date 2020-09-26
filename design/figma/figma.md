@@ -40,3 +40,4 @@
 - [Config Figma](https://config.figma.com/) - Conferences organized by Figma.
 - [Embracing the tension between code and design (2020)](https://www.figma.com/blog/config-europe-2020-new-feature-announcements/)
 - [Designing in Figma book](https://figmabook.com/)
+- [Figma Tools](https://github.com/souporserious/figma-tools) - Tools to help you programmatically interact with your Figma files.

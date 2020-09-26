@@ -73,3 +73,4 @@
 - [The ideal round](https://www.notion.so/The-ideal-round-738cd31fa26b461281e2258a7cac3f24)
 - [How to Build a Fund Custodian (2020)](https://www.moderntreasury.com/journal/how-to-build-a-fund-custodian)
 - [How to Raise a Rolling Fund (2020)](https://www.notion.so/How-to-Raise-a-Rolling-Fund-99220e692e5e40598c2230e5c7e8dce7)
+- [Tips for generating an elevator pitch (2020)](https://twitter.com/lpolovets/status/1309646003021123584)
