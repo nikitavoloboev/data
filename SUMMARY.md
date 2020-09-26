@@ -562,6 +562,7 @@
     - [India](travel/visited/india.md)
     - [Ukraine](travel/visited/ukraine.md)
     - [Austria](travel/visited/austria.md)
+    - [Korea](travel/visited/korea.md)
   - [Cities](travel/cities.md)
 - [Geography](geography/geography.md)
   - [Spatial analysis](geography/spatial-analysis.md)

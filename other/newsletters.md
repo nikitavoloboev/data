@@ -29,3 +29,4 @@
 - [Django News Feed](https://github.com/saadmk11/django-newsfeed) - News curator and newsletter subscription package for Django. ([HN](https://news.ycombinator.com/item?id=24389275))
 - [SubStats](https://substats.actionably.com/) - Substack Newsletter Leaderboard.
 - [Awesome Newsletter Tools](https://github.com/marcelkooi/awesome-newsletter-tools)
+- [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - Find the best newsletters for your taste.

@@ -199,3 +199,4 @@
 - [Guide to unit testing in JavaScript](https://github.com/mawrkus/js-unit-testing-guide)
 - [How I wrote the fastest JavaScript memoization library (2017)](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
 - [JavaScript Playgrounds](https://unpkg.com/javascript-playgrounds@^1.0.0/public/index.html) - Interactive JavaScript sandbox. ([Code](https://github.com/dabbott/javascript-playgrounds))
+- [Speakeasy JS](https://speakeasyjs.com/) - Weekly JavaScript meetup.

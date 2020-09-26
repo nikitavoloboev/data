@@ -110,3 +110,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Analogue](https://www.analogue.co/) - Makes gaming devices.
 - [Factorio and Software Engineering (2020)](https://blog.nindalf.com/posts/factorio-and-software-engineering/) ([HN](https://news.ycombinator.com/item?id=24181783))
 - [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs (2020)](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b) ([HN](https://news.ycombinator.com/item?id=24221010))
+- [GameTrack](https://gametrack.app/) - Making managing your games collection easy and enjoyable.
