@@ -161,3 +161,4 @@
 - [SwiftWasm Pad](https://swiftwasm-pad.netlify.app/) - Online playground to help developers learn about Swift on Web. ([Code](https://github.com/kateinoigakukun/swiftwasm-pad))
 - [swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
 - [Swift on Windows (2020)](https://swift.org/blog/swift-on-windows/) ([HN](https://news.ycombinator.com/item?id=24556245))
+- [Swift System](https://github.com/apple/swift-system) - Provides idiomatic interfaces to system calls and low-level currency types. ([Announcement](https://swift.org/blog/swift-system/)) ([HN](https://news.ycombinator.com/item?id=24593028))
