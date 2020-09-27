@@ -30,3 +30,4 @@
 - [SubStats](https://substats.actionably.com/) - Substack Newsletter Leaderboard.
 - [Awesome Newsletter Tools](https://github.com/marcelkooi/awesome-newsletter-tools)
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - Find the best newsletters for your taste.
+- [Substack Rhymes With Medium (2020)](https://napkinmath.substack.com/p/substack-rhymes-with-medium)
