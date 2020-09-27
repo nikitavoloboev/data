@@ -43,3 +43,9 @@ It's also quite interesting how obsessive I once was in collecting lossless musi
 I 😻 [Remotive](https://remotive.io/) site design. So cute. Found it out through [MakeHub](https://makehub.io/).
 
 In 5 days I will send out my first newsletter. Excited. Would be curious to see how the format of the newsletter will evolve with time. I think the initial send out will be greatly influenced by [Gwern's newsletter](https://www.gwern.net/tags/newsletter) layout. Some links, some music. Some personal thoughts. Some photos. And a little boost for the next month to keep myself and maybe others going in chasing their dreams.
+
+## 27
+
+Started to work on a [little game](https://github.com/intr3st/divinity) using [Godot](https://godotengine.org) with my little brother and sister. It's theirs and my first game ever made. But will start small. The first task is to read through Godot docs and make a box movable with arrow keys on a 2d grid.
+
+I personally want to create something like Among Us.

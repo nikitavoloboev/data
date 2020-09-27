@@ -493,6 +493,7 @@
 - [Bolt](https://github.com/boltdb/bolt) - Embedded key/value database for Go.
 - [Golang Network File Server](https://github.com/willscott/go-nfs/) - NFSv3 protocol implementation in pure Go. ([HN](https://news.ycombinator.com/item?id=24287381))
 - [Dump](https://github.com/storozhukBM/dump) - One function library to simplify local print debug.
+- [Go-Diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go. ([HN](https://news.ycombinator.com/item?id=24603926))
 
 ## Links
 
