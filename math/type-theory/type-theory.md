@@ -95,3 +95,4 @@
 - [Martin Hofmann’s contributions to Type Theory: Groupoids and Univalence (2020)](http://www.cs.nott.ac.uk/~psztxa/martin-19.pdf)
 - [Demystifying Type Systems (2020)](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
 - [Incremental Type Migration Using Type Algebra (2020)](https://research.google/pubs/pub49386/)
+- [Things I Was Wrong About: Types](https://v5.chriskrycho.com/journal/things-i-was-wrong-about/1-types/) ([HN](https://news.ycombinator.com/item?id=24604943))
