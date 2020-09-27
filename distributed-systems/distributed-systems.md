@@ -107,3 +107,4 @@
 - [Avoiding fallback in distributed systems](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 - [The Reactive Principles](https://principles.reactive.foundation/) - Design Principles for Distributed Applications.
 - [Paxi](https://github.com/ailidani/paxi) - Framework that implements WPaxos and other Paxos protocol variants.
+- [Rafting Trip](https://dabeaz.com/raft.html) - Learn about network programming, concurrency, distributed systems, and more as you tackle the challenge of implementing the Raft distributed consensus algorithm.
