@@ -74,3 +74,4 @@
 - [How to Build a Fund Custodian (2020)](https://www.moderntreasury.com/journal/how-to-build-a-fund-custodian)
 - [How to Raise a Rolling Fund (2020)](https://www.notion.so/How-to-Raise-a-Rolling-Fund-99220e692e5e40598c2230e5c7e8dce7)
 - [Tips for generating an elevator pitch (2020)](https://twitter.com/lpolovets/status/1309646003021123584)
+- [EU funding options (2020)](https://news.ycombinator.com/item?id=24601823)

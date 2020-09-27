@@ -36,3 +36,4 @@ Is logical theory of computable functions.
 - [Finite Vector Spaces as Model of Simply-Typed Lambda-Calculi](https://www.cis.upenn.edu/~stevez/papers/VZ14.pdf)
 - [A circuit-like notation for lambda calculus (2015)](https://csvoss.com/circuit-notation-lambda-calculus) ([HN](https://news.ycombinator.com/item?id=24193313))
 - [Lambda Zoo](https://github.com/ak3n/abt-zoo) - Implementations of different lambda calculi with abstract binding trees.
+- [All you need is λ, part one: booleans (2020)](https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/) ([HN](https://news.ycombinator.com/item?id=24601981))

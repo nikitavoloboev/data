@@ -60,3 +60,4 @@
 - [The NeWS Book - An Introduction to the Network/Extensible Window System](http://bitsavers.trailing-edge.com/pdf/sun/NeWS/The_NeWS_Book_1989.pdf) ([Lobsters](https://lobste.rs/s/tpl4rr/news_book_introduction_network))
 - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth#240) ([HN](https://news.ycombinator.com/item?id=24459997))
 - [New Steve Jobs recordings from the '80s released](https://www.sfgate.com/tech/article/New-Steve-Jobs-recordings-from-the-80s-released-15572216.php) ([HN](https://news.ycombinator.com/item?id=24544508))
+- [Would it be possible to detect an industrial civilization in geological record? (2018)](https://arxiv.org/abs/1804.03748) ([HN](https://news.ycombinator.com/item?id=24601375))
