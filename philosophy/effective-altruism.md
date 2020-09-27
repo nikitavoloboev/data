@@ -27,3 +27,4 @@
 - [What charities do the best job of alleviating global poverty? (2020)](https://www.reddit.com/r/AskEconomics/comments/hq7d30/what_charities_do_the_best_job_of_alleviating/)
 - [The Life You Can Save](https://www.thelifeyoucansave.org/) - Best Charities for Effective Giving.
 - [Anyone here a social entrepreneur i.e. placing social impact above profit? (2020)](https://news.ycombinator.com/item?id=24168902)
+- [5k people have pledged to give 10%+ of their income to effective charities (2020)](https://www.givingwhatwecan.org/post/2020/09/5000-people-have-pledged/) ([HN](https://news.ycombinator.com/item?id=24604594))

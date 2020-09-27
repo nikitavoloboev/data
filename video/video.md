@@ -107,3 +107,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Clipchamp](https://clipchamp.com/en/) - Convert videos to MP4. Compress and edit videos. Record with your webcam and collect videos from others.
 - [Airmeet](https://www.airmeet.com/) - Virtual Events Platform for Communities & Enterprises.
 - [Tube Explorer](https://observablehq.com/@tomlarkworthy/random-place-on-youtube) - Technology that helps me find strange things on YouTube outside my filter bubble.
+- [How to Make an Actually Good Tutorial (2020)](https://www.youtube.com/watch?v=IrrdC_pkmGM)
