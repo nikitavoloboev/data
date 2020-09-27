@@ -64,3 +64,4 @@ Might give it a go sometime.
 - [Emacs is special regarding UIs (2020)](https://lists.gnu.org/archive/html/emacs-devel/2020-09/msg00286.html) ([HN](https://news.ycombinator.com/item?id=24430108)) ([Lobsters](https://lobste.rs/s/yvmkmt/emacs_is_very_special_regarding_uis))
 - [Interview with Thierry Volpiatto, maintainer of Emacs Helm (2018)](https://sachachua.com/blog/2018/09/interview-with-thierry-volpiatto/)
 - [Emacs Prelude 1.0](https://emacsredux.com/blog/2020/09/15/emacs-prelude-1-0/) ([HN](https://news.ycombinator.com/item?id=24480448)) ([Lobsters](https://lobste.rs/s/egkt4n/emacs_prelude_1_0))
+- [Practical Emacs Lisp](http://ergoemacs.org/emacs/elisp.html)
