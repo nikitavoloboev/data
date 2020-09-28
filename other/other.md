@@ -331,3 +331,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Biohack Stack](https://biohackstack.com/) - Discover the daily regimens of the most notable biohackers, scientists, athletes, entrepreneurs, and more.
 - [IndieHackers TV](https://indiehackers.tv/)
 - [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) ([HN](https://news.ycombinator.com/item?id=24583109))
+- [How to Get Promoted (2020)](https://defmacro.substack.com/p/how-to-get-promoted) ([HN](https://news.ycombinator.com/item?id=24618707))
