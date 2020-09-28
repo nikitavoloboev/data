@@ -110,7 +110,7 @@
 - [Dropbase](https://www.dropbase.io/) - Turn offline files into live databases instantly. ([HN](https://news.ycombinator.com/item?id=24189582))
 - [Synth](https://getsynth.com/) - Create synthetic data environments in seconds. ([HN](https://news.ycombinator.com/item?id=24198114))
 - [Baserow](https://gitlab.com/bramw/baserow) - Open source online database tool and Airtable alternative.
-- [SHMIG](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
+- [shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 
 ## Links
 

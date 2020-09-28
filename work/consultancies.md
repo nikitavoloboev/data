@@ -117,6 +117,7 @@
 - [Bitfield Consulting](https://bitfieldconsulting.com/) - Cloud native & Go consultancy.
 - [Apptension](https://apptension.com/)
 - [Abstract Machines](https://abstractmachines.dev/) - Short contracts, code reviews, and coaching in the fields of web, data, and knowledge engineering.
+- [Futured](https://www.futured.app/en/) - Mobile business builders.
 
 ## Links
 
