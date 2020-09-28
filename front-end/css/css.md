@@ -206,3 +206,4 @@
 - [Debugging CSS](https://debuggingcss.com/) - Book with lots of tips and techniques on how to debug CSS the right way with easy and studied methods.
 - [Learn CSS Centering](https://ishadeed.com/article/learn-css-centering/)
 - [blocks.css](https://thesephist.github.io/blocks.css/) - Add some dimension to your page with blocks. ([Code](https://github.com/thesephist/blocks.css))
+- [Making a Rotating Icon Button in React (2020)](https://steveruiz.me/posts/rotating-icon-button)

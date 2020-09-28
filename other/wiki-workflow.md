@@ -242,3 +242,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [How to set up your own digital garden (2020)](https://nesslabs.com/digital-garden-set-up)
 - [Cosy](https://cosy.af/) - Internal company hub & workplace search.
 - [Digital Gardens list](tiny.cc/digital-gardeners)
+- [Kb](https://github.com/gnebbia/kb) - Text-oriented minimalist command line knowledge base manager. ([HN](https://news.ycombinator.com/item?id=24506280))

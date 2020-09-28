@@ -61,7 +61,7 @@
 - [Using Haskell to build a performant GraphQL to SQL compiler by Tanmai Gopal (2018)](https://www.youtube.com/watch?v=JOaeF-VKrS8)
 - [Статьи и презентации про GraphQL](https://github.com/nodkz/conf-talks)
 - [graphqurl](https://github.com/hasura/graphqurl) - Curl for GraphQL with autocomplete, subscriptions and GraphiQL.
-- [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL.
+- [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. ([Web](https://graphile-starter.herokuapp.com/))
 - [Super Graph](https://github.com/dosco/super-graph) - Gives you a high performance GraphQL API without you having to write any code. ([Docs](https://supergraph.dev/docs/home/))
 - [Designing GraphQL Schemas (2019)](https://egghead.io/courses/designing-graphql-schemas-99db)
 - [graphql-santa](https://github.com/prisma-labs/graphql-santa) - GraphQL API framework. It takes a code-first approach and brings together a set of tools that provide robust type safety so that if your app compiles, you have a high degree of confidence that it works.

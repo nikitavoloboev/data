@@ -36,3 +36,5 @@
 - [Build a simple Hacker News clone using Django 3 (2020)](https://www.youtube.com/watch?v=292GB6snFYo)
 - [Building a Django app with data access control in 30 minutes (2020)](https://www.osohq.com/post/django-access-control) ([Lobsters](https://lobste.rs/s/tpoc8j/building_django_app_with_data_access))
 - [Django Waffle](https://github.com/django-waffle/django-waffle) - Feature flipper for Django.
+- [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django) - Framework for jump starting production-ready Django projects quickly.
+- [SaaS Pegasus](https://www.saaspegasus.com/) - Django-Powered SaaS Template. ([Docs](https://docs.saaspegasus.com/))

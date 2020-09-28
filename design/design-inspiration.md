@@ -48,6 +48,7 @@ Here are few more things I liked, design wise.
 - [Panic](https://panic.com/)
 - [Podia](https://www.podia.com/)
 - [Remotive](https://remotive.io/)
+- [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
 
 ## Blogs
 
@@ -266,6 +267,7 @@ Here are few more things I liked, design wise.
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Fabio Cevasco](https://h3rald.com/) ([Code](https://github.com/h3rald/h3rald))
 - [Lauren Tan](https://www.no.lol/)
+- [Steve Ruiz](https://steveruiz.me/) ([Code](https://github.com/steveruizok/personal-blog))
 - [Tinnei](https://tinnei.today/index.html)
 - [Stéphanie Walter](https://stephaniewalter.design/)
 - [Carlos Becker](https://carlosbecker.com/) ([Code](https://github.com/caarlos0/carlosbecker.com))

@@ -13,3 +13,4 @@
 - [Brain Oriented Programming (2020)](https://tobeva.com/articles/brain-oriented-programming/) ([HN](https://news.ycombinator.com/item?id=24165893))
 - [A generative network model of neurodevelopment (2020)](https://www.biorxiv.org/content/10.1101/2020.08.13.249391v1)
 - [An integrated brain-machine interface platform with thousands of channels (2019)](https://www.biorxiv.org/content/10.1101/703801v2)
+- [Dorsolateral prefrontal cortex-based control with an implanted brain–computer interface (2020)](https://www.nature.com/articles/s41598-020-71774-5)

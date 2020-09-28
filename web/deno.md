@@ -4,7 +4,7 @@
 
 - [Ryan Dahl. Deno, a new way to JavaScript (2019)](https://www.youtube.com/watch?v=z6JRlx5NC9E)
 - [Node vs Deno](https://github.com/egoist/node-vs-deno) - Deno guide for Node.js developers.
-- [Deno Website](https://deno.land/)
+- [Deno Website](https://deno.land/) ([Code](https://github.com/denoland/deno_website2))
 - [Ryan Dahl — Deno, a new way to JavaScript (2019)](https://www.youtube.com/watch?v=HjdJzNoT_qg)
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [DVM](https://github.com/imbsky/dvm) - Fast and simple Deno runtime version manager built with Native Reason.
@@ -21,7 +21,7 @@
 - [Deno Weekly](https://denoweekly.com/) - Weekly roundup of news, tutorials and projects from the land of Deno.
 - [DenoX](https://github.com/BentoumiTech/denox) - Script runner and workspace configuration for Deno.
 - [PostgreSQL driver for Deno](https://github.com/buildondata/deno-postgres)
-- [Deno Third Party Modules](https://deno.land/x)
+- [Deno Third Party Modules](https://deno.land/x) ([Code](https://github.com/denoland/deno_registry2))
 - [AutoPilot](https://github.com/divy-work/autopilot-deno) - Cross-platform desktop automation library for Deno.
 - [Alosaur](https://github.com/alosaur/alosaur) - Deno web framework with many decorators.
 - [pgc4d](https://github.com/jakajancar/pgc4d) - PostgreSQL client for Deno.

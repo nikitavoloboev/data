@@ -180,7 +180,6 @@
 - [Rust-AV](https://github.com/rust-av/rust-av) - Multimedia Toolkit written in pure rust.
 - [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
 - [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
-- [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 - [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux.
 - [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
 - [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.

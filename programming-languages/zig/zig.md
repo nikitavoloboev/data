@@ -22,3 +22,4 @@
 - [Awesome Zig](https://github.com/nrdmn/awesome-zig)
 - [Interview with Zig language creator Andrew Kelley (2020)](https://www.youtube.com/watch?v=ZvskDoP09Ao) ([HN](https://news.ycombinator.com/item?id=24292437))
 - [What is Zig's Comptime? (2019)](https://kristoff.it/blog/what-is-zig-comptime/)
+- [Zig's New Relationship with LLVM (2020)](https://kristoff.it/blog/zig-new-relationship-llvm/) ([HN](https://news.ycombinator.com/item?id=24615916))

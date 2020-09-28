@@ -215,6 +215,7 @@
 - [Peter Thiel’s Stanford course notes (2012)](https://blakemasters.com/peter-thiels-cs183-startup)
 - [Stripe Atlas: Guide to Software as a Service, as a business (2020)](https://stripe.com/en-nl/atlas/guides/business-of-saas)
 - [MakeHub](https://makehub.io/) - Discover bootstrapped startups.
+- [Resources on product-market fit (2020)](https://www.indiehackers.com/post/any-resources-on-product-market-fit-10af7cca2b)
 
 ## Images
 

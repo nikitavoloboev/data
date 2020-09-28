@@ -1,6 +1,6 @@
 # Tea
 
-I love tea of all kinds.
+I prefer tea to coffee.
 
 ## Interesting
 

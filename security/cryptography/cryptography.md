@@ -75,3 +75,4 @@
 - [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) ([HN](https://news.ycombinator.com/item?id=24310842))
 - [A history of elliptic curves in tweets (2020)](https://vnhacker.blogspot.com/2020/09/a-history-of-elliptic-curves-in-tweets.html)
 - [Learning fast elliptic-curve cryptography in JS (2020)](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)
+- [Absolute Minimum Every Engineer Must Know About Authentication and Encryption](https://www.ldelossa.is/blog/absolute-minimum-cryptography/)

@@ -14,3 +14,4 @@
 - [Should I Block Ads? (2020)](https://shouldiblockads.com/) ([HN](https://news.ycombinator.com/item?id=23276117))
 - [EasyList filter lists](https://github.com/easylist/easylist) - Sets of rules originally designed for Adblock that automatically remove unwanted content from the internet.
 - [HN: uMatrix has been archived (2020)](https://news.ycombinator.com/item?id=24532973)
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Web browser extension to help bypass paywalls for selected sites.

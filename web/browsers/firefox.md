@@ -15,3 +15,4 @@
 - [Gecko browser engine source code](https://github.com/mozilla/gecko-dev)
 - [Introduction to Firefox Debugger](https://mozilladevelopers.github.io/playground/debugger)
 - [MaterialFox](https://github.com/muckSponge/MaterialFox) - Material Design-inspired userChrome.css theme for Firefox.
+- [Tridactyl](https://github.com/tridactyl/tridactyl) - Vim-like interface for Firefox.

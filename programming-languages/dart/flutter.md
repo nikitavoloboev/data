@@ -18,3 +18,4 @@
 - [Flutter Code](https://github.com/flutter/flutter)
 - [Widget Studio](https://widget.studio/#/) - Drag and Drop Flutter Widget Creator.
 - [Flutter Course Resources](https://github.com/londonappbrewery/Flutter-Course-Resources)
+- [Flutter Gallery](https://gallery.flutter.dev/) - Resource to help developers evaluate and use Flutter. ([Code](https://github.com/flutter/gallery))

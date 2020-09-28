@@ -96,3 +96,4 @@
 - [Docker best practices with Node (2020)](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
 - [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)
 - [Node.js' Tooling Group](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools.
+- [5 TILs about Node.js Fundamentals from the Node.js Design Patterns Book (2020)](https://www.swyx.io/til-node-fundamentals-design-patterns-book/)

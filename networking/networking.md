@@ -134,3 +134,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [PJON (Padded Jittering Operative Network)](https://github.com/gioblu/PJON) - Arduino-compatible, multi-master, multi-media network protocol.
 - [Fast Software Cache Design for Network Appliances (2020)](https://www.youtube.com/watch?v=VR68-d9qf4Y)
 - [Creating a Home IPv6 Network (2020)](https://blog.hansenpartnership.com/creating-a-home-ipv6-network/)
+- [Building the Next Evolution of Cloud Networks at Slack (2020)](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack/)

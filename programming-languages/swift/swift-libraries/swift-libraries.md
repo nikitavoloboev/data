@@ -148,6 +148,7 @@
 - [Shiny](https://github.com/maustinstar/shiny) - Add motion-based texture to your SwiftUI views.
 - [Router](https://github.com/carson-katri/router) - Typesafe routing for SwiftUI.
 - [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - Simple line and bar charting library that support accessibility written using SwiftUI.
+- [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert.
 
 ## Test
 

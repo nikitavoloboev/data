@@ -138,3 +138,5 @@
 - [PostgreSQL and Machine Learning (2020)](https://mljar.com/blog/postgresql-machine-learning/)
 - [Things we learned running Postgres 13 (2020)](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability) ([HN](https://news.ycombinator.com/item?id=24544881))
 - [2ndQuadrant](https://www.2ndquadrant.com/en/) - PostgreSQL support company.
+- [Mastering PostgreSQL Administration (2020)](https://momjian.us/main/writings/pgsql/administration.pdf) ([HN](https://news.ycombinator.com/item?id=24606163))
+- [Cost savings of using managed PostgreSQL](https://news.ycombinator.com/item?id=24608538)

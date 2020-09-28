@@ -16,3 +16,4 @@ You can [sync Hazel rules](https://www.noodlesoft.com/manual/hazel/work-with-fol
 
 - [Reference hazel file path](https://forum.keyboardmaestro.com/t/reference-hazels-file-path/9138)
 - [Hazel Debug Mode](https://www.noodlesoft.com/kb/hazel-debug-mode/)
+- [Nice use cases of Hazel](https://news.ycombinator.com/item?id=24612436)

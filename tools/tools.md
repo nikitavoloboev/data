@@ -289,6 +289,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [linkinator](https://github.com/JustinBeckwith/linkinator) - Scurry around your site and find all those broken links.
 - [Better Twitter](https://bettertwitter.netlify.com/) - Better twitter search UI for power users. ([Code](https://github.com/sw-yx/bettertwitter))
 - [Sacred](https://github.com/IDSIA/sacred) - Tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+- [gomplate](https://github.com/hairyhenderson/gomplate) - Flexible command line tool for template rendering. Supports lots of local and remote data sources.
 - [Data Puller](https://github.com/austil/datapuller) - Easy" data dump of your activity on various web services.
 - [Short](https://github.com/byliuyang/short) - URL shortening service written in Go and React.
 - [Twitter-Following-To-List-Migration](https://github.com/zackshapiro/Twitter-Following-To-List-Migration) - Creates a new list and adds all accounts you are following to that list, then unfollows them all.

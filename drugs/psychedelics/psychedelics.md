@@ -12,7 +12,7 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 
 > _"When you get the message, hang up the phone"_
 
-My favorite psychedelics currently are [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT) & [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT).
+My favorite psychedelics currently are [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT), [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT) & [Changa](https://psychonautwiki.org/wiki/Changa).
 
 I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance.
 
@@ -40,6 +40,7 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [The current model is that psilocybin (and LSD) basically just activate the 5-HT2A receptor which leads to a collapse in the brain’s functional hierarchy via modulation of the DMN. The 2A receptor is there for a reason; current speculation is that it is activated in times of crisis, when beliefs need to rapidly be reassessed in order to adapt. Makes sense, right? The DMN/ego is there to reinforce beliefs; to fit them into a storyline. If you want transformation, the stories needs to be relaxed.](https://www.reddit.com/r/RationalPsychonaut/comments/j09fur/anyone_who_is_an_experienced_rationalpsychonaut/)
   - This is in alignment with a lot of people’s reports of spontaneous “Awakening” experiences; a lot of them tend to have a common variable: surrender. The point is, the drugs aren’t doing anything that can’t be done without them, the circumstances just need to be right. The brain is normally working very hard to give you your “mundane” everyday experience.
   - I have no experience with breathwork but having been on a couple meditation retreats I can certainly tell you the experiences can become very similar.
+- [Dissociatives and psychedelics remove the conflict of interest when it comes to working on yourself. We get in the way normally, but then these drugs remove us from ourselves so we can look at ourselves without “ourselves.”](https://www.reddit.com/r/RationalPsychonaut/comments/j0uv2q/dissociatives_and_psychedelics_remove_the/)
 
 ## Links
 

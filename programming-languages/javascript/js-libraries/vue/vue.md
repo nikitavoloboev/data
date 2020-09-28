@@ -13,7 +13,8 @@
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
-- [Vite](https://github.com/vuejs/vite) - Experimental no-bundle dev server for Vue SFCs.
+- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production.
+- [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
 - [Starter for Vite + VueUse + TypeScript](https://github.com/antfu/vite-vueuse-starter)
@@ -23,4 +24,5 @@
 - [Awesome Vue 3](https://github.com/blacksonic/awesome-vue-3)
 - [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Isolated Vue component development environment with a living style guide.
 - [Trying Vue.js for the First Time (2020)](https://www.youtube.com/watch?v=3OhLUYNw0TI)
-- [Vue.js 3 (2020)](https://github.com/vuejs/vue-next/releases/tag/v3.0.0) ([HN](https://news.ycombinator.com/item?id=24518295))
+- [Vue.js 3 (2020)](https://github.com/vuejs/vue-next/releases/tag/v3.0.0) ([HN](https://news.ycombinator.com/item?id=24518295)) ([Video](https://www.youtube.com/watch?v=Vp5ANvd88x0))
+- [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables. ([Web](https://pikax.me/vue-composable/))

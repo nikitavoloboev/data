@@ -69,6 +69,7 @@
 - [Direct sales for SaaS startups – our experience and tips (2020)](https://blog.palabra.io/learning-to-listen-direct-sales-tips-for-early-stage-startups)
 - [Tips I wish I knew about building an audience when I first started (2020)](https://twitter.com/thisiskp_/status/1306614299218055169)
 - [Ask HN: How to learn sales? (2020)](https://news.ycombinator.com/item?id=24601579)
+- [Zero To Users](https://zerotousers.com/) - Which Acquisition Channels do Consistently Work for Founders.
 
 ## Images
 

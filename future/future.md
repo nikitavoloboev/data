@@ -42,3 +42,4 @@
 - [Future of work + cities (2020)](https://twitter.com/wolfejosh/status/1295742515879055367)
 - [Fascinating Internet niche communities](https://twitter.com/_patriciamou/status/1296654041569570819)
 - [What happened to the future? - Founders Fund](https://foundersfund.com/the-future/)
+- [Which positive change in the world do you hope to see in your lifetime? (2020)](https://twitter.com/MaxCRoser/status/1310245891731750913)

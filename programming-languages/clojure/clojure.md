@@ -75,3 +75,4 @@
 - [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
 - [Essential Reference for the Clojure Standard Library](https://freecontent.manning.com/meet-the-clojure-standard-library/)
 - [Local memoized recursive functions (2020)](https://quanttype.net/posts/2020-09-20-local-memoized-recursive-functions.html)
+- [Clojure Notes](https://github.com/gnebbia/clojure_notes)

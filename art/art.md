@@ -175,6 +175,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Miena A.R.](https://mienar.com/original-artworks)
 - [Victor Mosquera](https://www.instagram.com/victormosquera/)
 - [Mike Winkelmann](https://www.instagram.com/beeple_crap/)
+- [Steve Ruiz](https://steveruizart.com/archive)
 
 ## Interesting art
 
