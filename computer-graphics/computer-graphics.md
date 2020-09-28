@@ -91,3 +91,4 @@
 - [Rendering the Hellscape of Doom Eternal (2020)](http://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
 - [Introduction to Computer Graphics (2018)](http://math.hws.edu/graphicsbook/index.html) ([HN](https://news.ycombinator.com/item?id=24526845))
 - [Ray Marching Soft Shadows in 2D (2020)](https://www.rykap.com/2020/09/23/distance-fields/) ([HN](https://news.ycombinator.com/item?id=24569542))
+- [The polygons of DOOM: PSX (2020)](https://fabiensanglard.net/doom_psx/)

@@ -63,6 +63,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 - [eqMac](https://github.com/bitgapp/eqMac) - macOS System-wide Audio Equalizer.
 - [SensibleSideButtons](https://sensible-side-buttons.archagon.net/) - Side navigation for third-party mice in macOS. ([HN](https://news.ycombinator.com/item?id=24389977))
+- [DevUtils](https://devutils.app/) - Developer Utilities for macOS. ([Code](https://github.com/DevUtilsApp/DevUtils-app)) ([HN](https://news.ycombinator.com/item?id=24604291))
 
 ## Other interesting apps
 

@@ -56,3 +56,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Lo-Fi Player](https://magenta.github.io/lofi-player/) - Interact with objects and create your own music. ([Article](https://magenta.tensorflow.org/lofi-player)) ([HN](https://news.ycombinator.com/item?id=24389748))
 - [myNoise](https://mynoise.net/) - Background Noises & Interactive Soundscapes.
 - [Pandora Music Genome Project](https://www.pandora.com/about/mgp) - Comprehensive analysis of music.
+- [Odesli](https://odesli.co/) - On demand smart links.

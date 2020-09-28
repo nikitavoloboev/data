@@ -315,3 +315,4 @@
 - [Resources to help you get started with Rust (2020)](https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/)
 - [Neovim and Rust (2020)](https://sharksforarms.dev/posts/neovim-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/iy15dw/neovim_and_rust_an_effective_development/))
 - [Building even faster interpreters in Rust (2020)](https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/)
+- [Rust Crates that do What the Go Standard library Does (2020)](https://christine.website/blog/rust-crates-go-stdlib-2020-09-27) ([Lobsters](https://lobste.rs/s/luapg7/rust_crates_do_what_go_standard_library))

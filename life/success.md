@@ -43,7 +43,7 @@ Success comes from not giving up and doing what you love.
 - [The Bus Ticket Theory of Genius (2019)](http://paulgraham.com/genius.html) ([HN](https://news.ycombinator.com/item?id=21613357))
 - [I coached 101 CEOs, founders, VCs and other executives in 2019: These are the biggest takeaways (2019)](https://leowid.com/2019-2) ([HN](https://news.ycombinator.com/item?id=21882441))
 - [How To Be Successful (At Your Career) (2020)](https://twitter.com/sama/status/1214274038933020672) ([HN](https://news.ycombinator.com/item?id=21974718))
-- [Almanac of Naval Ravikant](https://www.navalmanack.com/) - Guide to Wealth and Happiness.
+- [Almanac of Naval Ravikant](https://www.navalmanack.com/) - Guide to Wealth and Happiness. ([HN](https://news.ycombinator.com/item?id=24611721))
 - [Some examples of people quickly accomplishing ambitious things together](https://patrickcollison.com/fast) ([HN](https://news.ycombinator.com/item?id=21848860))
 - [Ask HN: What has your work taught you that other people don't realize? (2020)](https://news.ycombinator.com/item?id=22018946)
 - [Ask HN: What were the things you did that made the biggest impact at your work? (2020)](https://news.ycombinator.com/item?id=22210361)
