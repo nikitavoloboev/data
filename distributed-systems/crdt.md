@@ -32,4 +32,4 @@
 - [Local-first software: You Own Your Data, in spite of the Cloud (2019)](https://www.inkandswitch.com/media/local-first/local-first.pdf) ([HN](https://news.ycombinator.com/item?id=24027663))
 - [Are CRDTs suitable for shared editing? (2020)](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
 - [Room Service](https://www.roomservice.dev/) - Faster-Than-Light Multiplayer Engine.
-- [I was wrong. CRDTs are the future (2020)](https://josephg.com/blog/crdts-are-the-future/)
+- [I was wrong. CRDTs are the future (2020)](https://josephg.com/blog/crdts-are-the-future/) ([HN](https://news.ycombinator.com/item?id=24617542))
