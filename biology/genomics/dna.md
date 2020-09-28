@@ -4,6 +4,7 @@
 
 - [Is DNA compressed?](https://www.reddit.com/r/askscience/comments/637gyu/is_dna_compressed/)
 - One of the potential "limits" to DNA size is that everything has to be copied whenever a cell divides, which takes both time and energy to do, so there is selective pressure to keep it relatively efficient. A second limiting factor is that the DNA copying machinery isn't 100% accurate, so you end up with errors whenever DNA is copied despite the presence of error-checking processes (better in some organisms than others). So the with longer DNA you also end with more potential for errors. Cancer is primarily caused by this buildup of errors (though it's also the basis of evolution)
+- [DNA is copied by a protein machine 10 nanometers in size. In bacteria, it produces 1,000 DNA bases per second. Scaled to daily-life proportions, this would be equivalent to a FedEx truck going at the speed of sound, delivering the correct package every 30 centimetres.](https://twitter.com/van__Oijen/status/1310353334457348097)
 
 ## Links
 

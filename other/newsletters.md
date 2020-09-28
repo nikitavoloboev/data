@@ -1,5 +1,9 @@
 # Newsletters
 
+## Notes
+
+- [Treat your email list like your friends and community members.](https://twitter.com/jhooks/status/1310418061451603968)
+
 ## Links
 
 - [Listmonk](https://listmonk.app/) - Self-hosted newsletter + mailing list manager. ([Code](https://github.com/knadh/listmonk))
