@@ -60,4 +60,4 @@
 - [twilio-run](https://github.com/twilio-labs/twilio-run) - CLI tool to develop, debug and deploy Twilio Functions.
 - [Building a serverless hosting platform (2020)](https://blog.vtemian.com/post/serverless-hosting-platform/)
 - [Cloud Foundry CLI](https://github.com/cloudfoundry/cli)
-- [Build a hit counter for Gatsby with React, AWS Lambda, and FaunaDB (2020)](https://joshwcomeau.com/react/serverless-hit-counter/) ([HN](https://news.ycombinator.com/item?id=24617086))
+- [Building a Modern-Day Hit Counter (2020)](https://joshwcomeau.com/react/serverless-hit-counter/) - Shows how I use FaunaDB and serverless functions to use dynamic user-generated data in my static Gatsby site. ([HN](https://news.ycombinator.com/item?id=24617086))
