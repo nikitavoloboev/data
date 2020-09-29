@@ -124,3 +124,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [ztext.js](https://bennettfeely.com/ztext/) - 3D Typography for the Web.
 - [Did You Know Fonts Could Do All This? (2020)](https://venam.nixers.net/blog/unix/2020/09/14/playing_with_fonts.html) ([Lobsters](https://lobste.rs/s/iavbo2/did_you_know_fonts_could_do_all_this))
 - [macOS-like fonts on Manjaro/Arch Linux (2020)](https://aswinmohan.me/posts/better-fonts-on-linux/) ([HN](https://news.ycombinator.com/item?id=24588947))
+- [When fonts fall (2020)](https://www.figma.com/blog/when-fonts-fall/) ([HN](https://news.ycombinator.com/item?id=24631681))

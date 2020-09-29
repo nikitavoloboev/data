@@ -75,3 +75,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [VIM quick-start, cheat-sheet, and links (2013)](https://jkirchartz.com/2013/04/vim_quick_start_cheatsheet_and_links.html)
 - [VimConf](https://www.vimconf.live/) - Virtual vim conference.
 - [Vim: Sharpening the Axe (2020)](https://www.youtube.com/watch?v=iEShYRRVZOE)
+- [Using LibUV in Neovim](https://teukka.tech/vimloop.html)
