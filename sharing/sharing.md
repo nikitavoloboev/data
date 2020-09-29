@@ -44,9 +44,9 @@ I share my goals openly. The will to live in a [better future](../future/future.
 
 I love tracking various things for my own reference.
 
-## Places/Events I am visiting
+## What I am [doing now](https://nikitavoloboev.xyz/now/)
 
-I track [places & events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan on visiting.
+Lists my current location & [events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan on visiting.
 
 ## [Looking back on life](../looking-back/looking-back.md)
 
