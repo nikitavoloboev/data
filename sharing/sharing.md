@@ -36,9 +36,17 @@ I [love macOS](https://github.com/nikitavoloboev/my-mac-os) and automation so I 
 
 I try to make my workflow in doing things be as _transparent_ as possible.
 
+## [My goals](../focusing/goals.md)
+
+I share my goals openly. The will to live in a [better future](../future/future.md) drives me to complete them.
+
 ## [Things I track](tracking.md)
 
 I love tracking various things for my own reference.
+
+## Places/Events I am visiting
+
+I track [places & events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan on visiting.
 
 ## [Looking back on life](../looking-back/looking-back.md)
 
