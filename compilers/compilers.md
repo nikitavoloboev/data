@@ -126,3 +126,4 @@
 - [Does register selection matter to performance on x86 CPUs? (2020)](https://fiigii.com/2020/02/16/Does-register-selection-matter-to-performance-on-x86-CPUs/)
 - [Self hosting compiler (2020)](https://www.reddit.com/r/Compilers/comments/ipsdj0/self_hosting_compiler/)
 - [Bootstrapping compilers](https://bootstrapping.miraheze.org/wiki/Main_Page) - Building up compilers and interpreters and tools from nothing.
+- [Linkers go brrrrr (2020)](https://vinayak.io/2020/09/28/day-34-linkers-go-brrrrr/)
