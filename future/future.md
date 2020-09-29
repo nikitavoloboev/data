@@ -10,6 +10,8 @@
 - NLP lets machines understand knowledge & language at deep level.
 - Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
 - Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic on Earth.
+- No more Electron. All apps are native and use optimal amount of resources.
+- No more UX dark patterns. Each app/tool experience optimizes for user joy & empowerment.
 
 ## Links
 
