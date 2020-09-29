@@ -12,6 +12,9 @@
 - Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic.
 - No more Electron. All apps are native and use optimal amount of resources.
 - No more UX dark patterns. Each app/tool experience optimizes for user joy & empowerment.
+- Ability to control computers with thoughts at high bandwidth.
+- Smarter cities that are friendly to humans, not cars.
+- A lot of designated areas across the globe given back to wildlife to flourish.
 
 ## Links
 

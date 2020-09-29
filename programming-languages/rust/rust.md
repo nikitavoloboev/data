@@ -318,3 +318,4 @@
 - [Rust Crates that do What the Go Standard library Does (2020)](https://christine.website/blog/rust-crates-go-stdlib-2020-09-27) ([Lobsters](https://lobste.rs/s/luapg7/rust_crates_do_what_go_standard_library))
 - [Learning Rust the Open Source Way (2020)](https://bitsbybrad.com/2020-09-29-learning-rust/)
 - [Clippy](https://github.com/rust-lang/rust-clippy) - Collection of lints to catch common mistakes and improve your Rust code.
+- [Rust 2021: GUI (2020)](https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html) ([HN](https://news.ycombinator.com/item?id=24631611))
