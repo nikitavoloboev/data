@@ -100,3 +100,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Video Catalog](https://awsvideocatalog.com/)
 - [AWS Perspective](https://aws.amazon.com/solutions/implementations/aws-perspective/) - Quickly visualizes AWS Cloud workloads as architecture diagrams. ([HN](https://news.ycombinator.com/item?id=24552779)) ([Code](https://github.com/awslabs/aws-perspective))
 - [Open AWS Catalogue](https://aws.dendron.so/) - Reference of all things AWS. ([Code](https://github.com/dendronhq/catalogue-open-aws))
+- [AWS for the rest of us (2020)](https://technically.dev/posts/aws-for-the-rest-of-us)
