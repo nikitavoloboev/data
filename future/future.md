@@ -2,13 +2,14 @@
 
 ## ~ 2030
 
-- People wake up and animals get actual rights (like humans) and are no longer forced to endure life in slaughterhouses. Being vegan is normal. Caring is normal.
+- Animals get actual human like rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
 - No fossil fuels used. Only sustainable & environmentally energy sources used. Each country's grid is ran off renewable energy.
 - All vehicles are electrical. Autonomous driving fully integrated into society.
-- Cure for all cancers & diseases (cheap immunotherapies, medicine)
+- Cure for all cancers & diseases (cheap immunotherapies, medicine).
 - Psychedelics legalized. Both possession, purchase and manufacturing.
+- NLP lets machines understand knowledge & language at deep level.
+- Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
 - Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic on Earth.
-- NLP lets machines understands human language at deep level.
 
 ## Links
 
