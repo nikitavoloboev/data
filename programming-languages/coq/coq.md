@@ -38,3 +38,4 @@
 - [Implementing and Certifying a Web Server in Coq (2020)](https://soap.coffee/~lthms/posts/MiniHTTPServer.html)
 - [Rewriting in Coq](https://soap.coffee/~lthms/posts/RewritingInCoq.html)
 - [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - Framework for implementing, certifying, and executing impure computations in Coq.
+- [How hard can you believe in your logic? (2020)](http://c9x.me/articles/trust/)
