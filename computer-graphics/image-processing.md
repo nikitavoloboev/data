@@ -47,3 +47,4 @@
 - [imgix](https://www.imgix.com/) - Image processing and optimization API - Image CDN.
 - [cavif](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust.
 - [A Tour of the Tiny and Obfuscated Image Decoder (2020)](http://eastfarthing.com/blog/2020-09-14-decoder/) ([HN](https://news.ycombinator.com/item?id=24468039))
+- [imSearch](https://github.com/rikenmehta03/imsearch) - Generic framework to build your own reverse image search engine.

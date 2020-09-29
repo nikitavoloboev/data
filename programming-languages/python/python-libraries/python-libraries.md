@@ -154,6 +154,7 @@
 - [Boltons](https://github.com/mahmoud/boltons) - Set of over 230 pure-Python utilities.
 - [catalogue](https://github.com/explosion/catalogue) - Tiny, zero-dependencies library that makes it easy to add function (or object) registries to your code.
 - [Hask](https://github.com/billpmurphy/hask) - Haskell language features and standard libraries in pure Python. ([HN](https://news.ycombinator.com/item?id=24540937))
+- [Fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 
 ## Links
 

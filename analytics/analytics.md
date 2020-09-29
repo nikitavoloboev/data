@@ -46,3 +46,4 @@ If analytics are used, it's best to implement them server side with something li
 - [kSense](https://ksense.io/) - Insanely Fast Analytics.
 - [Umami](https://umami.is/) - Self-hosted open-source alternative to Google Analytics. ([HN](https://news.ycombinator.com/item?id=24198329))
 - [Privacy Focused Analytics From Scratch (2020)](https://healeycodes.com/privacy-focused-analytics-from-scratch/)
+- [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) ([Article](https://blog.cloudflare.com/free-privacy-first-analytics-for-a-better-web/)) ([HN](https://news.ycombinator.com/item?id=24627204))

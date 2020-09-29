@@ -304,6 +304,7 @@
 - [lazy-collections](https://github.com/RobinMalfait/lazy-collections) - Collection of fast and lazy operations.
 - [Perfect Arrows](https://github.com/steveruizok/perfect-arrows) - Set of functions for drawing perfect arrows between points and shapes.
 - [Autocomplete.js](https://github.com/algolia/autocomplete.js) - Fast and full-featured autocomplete library.
+- [urlcat](https://github.com/balazsbotond/urlcat) - URL builder library for JavaScript. ([Docs](https://urlcat.dev/))
 
 ## Links
 

@@ -8,3 +8,4 @@
 - [rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis.
 - [BullMQ](https://github.com/taskforcesh/bullmq) - Premium Message Queue for NodeJS based on Redis.
 - [Celery](https://github.com/celery/celery) - Distributed Task Queue.
+- [Apache RocketMQ](https://github.com/apache/rocketmq) - Distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.

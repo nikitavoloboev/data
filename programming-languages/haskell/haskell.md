@@ -30,7 +30,7 @@
 
 - [Haskell Programming Book](https://haskellbook.com/)
 - [Learn Haskell Path](https://github.com/bitemyapp/learnhaskell)
-- [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types)
+- [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types) ([Notes](https://abhinavsarkar.net/posts/twt-notes-1/))
 - [How I Learned to Stop Worrying and Love the Type System](http://reasonablypolymorphic.com/blog/love-types/)
 - [Simon Peyton Jones - Closer to Nirvana](https://www.youtube.com/watch?v=xmjvOLlCdFU)
 - [Curry-Howard-Lambek correspondence](https://wiki.haskell.org/Curry-Howard-Lambek_correspondence)
@@ -195,3 +195,5 @@
 - [Haskell's Children (2020)](https://owenlynch.org/posts/2020-09-16-haskells-children/) ([HN](https://news.ycombinator.com/item?id=24565019)) ([Reddit](https://www.reddit.com/r/rust/comments/iyawej/haskells_children/))
 - [Understanding Haskell IO](https://github.com/Pauan/programming-notes/blob/master/JavaScript/Understanding%20Haskell's%20IO.rst)
 - [Haskell Vedanta](https://karma-engineering.com/lab/wiki/Haskell/Vedanta)
+- [JSON Parsing from Scratch in Haskell (2020)](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
+- [Fast Sudoku Solver in Haskell (2018)](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)

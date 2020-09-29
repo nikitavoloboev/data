@@ -34,3 +34,4 @@
 - [Manifold Computing](https://manifoldcomputing.com/) - Open, distributed research group working on significantly improving learning systems and applying them to the toughest problems humanity faces.
 - [The role of AI in coding (2020)](https://blog.repl.it/codingai)
 - [Papers with Annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations)
+- [AI Paygrades](https://aipaygrad.es/) - Statistics of industry job offers in Artificial Intelligence.

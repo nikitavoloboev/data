@@ -36,3 +36,4 @@ I especially like the distinction of distributing content over distributing link
 - [I built an IPFS crawler with libp2p (2020)](https://adlrocha.substack.com/p/adlrocha-how-i-built-an-ipfs-crawler) ([HN](https://news.ycombinator.com/item?id=23515997))
 - [Blog Restructure and IPFS (2020)](https://deedlefake.com/blog-restructure-and-ipfs.html)
 - [IPSE](https://www.ipse.io/) - IPFS Search Engine. Distributed Search.
+- [Nix × IPFS – Milestone 1 (2020)](https://blog.ipfs.io/2020-09-08-nix-ipfs-milestone-1/) ([HN](https://news.ycombinator.com/item?id=24621276))

@@ -196,6 +196,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Patricia Mou Bookshelf](https://patriciamou.com/my-shelf)
 - [Brutality of Life Reading List](https://www.sonyasupposedly.com/brutality-books/) ([HN](https://news.ycombinator.com/item?id=24458522))
 - [Some good books](https://slate.host/haris/books)
+- [Abhinav Sarkar's books read](https://abhinavsarkar.net/readings/)
 
 ## Notes
 
@@ -275,3 +276,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Gatsby Starter Book](https://github.com/SaraVieira/gatsby-starter-book) - Gatsby starter focused on simplicity to help you create books.
 - [How Chekhov invented the modern short story (2020)](https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story) ([HN](https://news.ycombinator.com/item?id=24380587))
 - [I Want to Fix Goodreads (2020)](http://prepend.com/culture/2020/09/fixing_goodreads.html) ([HN](https://news.ycombinator.com/item?id=24454221))
+- [DeDRM tools for ebooks](https://github.com/apprenticeharper/DeDRM_tools) - Remove DRM from ebooks.
+- [Writing a book: is it worth it? (2020)](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html)

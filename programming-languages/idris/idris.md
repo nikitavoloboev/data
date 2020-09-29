@@ -28,3 +28,4 @@
 - [A simple Parser Combinator library in Idris (2020)](https://timmyjose.github.io/docs/2020-09-19-parser-combinator-library-idris)
 - [Idris 2 Erlang](https:/Idris2-Erlang/github.com/chrrasmussen/Idris2-Erlang) - Erlang code generator for Idris 2. ([HN](https://news.ycombinator.com/item?id=24620090))
 - [Inigo](https://github.com/hayesgm/inigo) - Package manager for Idris 2 to help use and share Idris code.
+- [SPLV 2020](https://github.com/edwinb/SPLV20) - Course notes and supporting code for the Scottish Programming Language and Verification summer school course on "The Implementation of Idris 2".

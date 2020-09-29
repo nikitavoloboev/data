@@ -136,3 +136,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [What do you think most of the non-designers you work with today still get wrong about design?](https://twitter.com/joulee/status/1305243609944346626)
 - [What's More to Design in a Chair (2020)](https://samanthaz.me/writing/what-s-more-to-design-in-a-chair)
 - [Contrast](https://www.contrast.app/) - Developer Handoff Reimagined. ([Blog](https://www.contrast.app/blog))
+- [How we created the illustration style for our partner products (2020)](https://booking.design/building-a-new-illustration-style-for-our-partner-products-808c32e5e16c)

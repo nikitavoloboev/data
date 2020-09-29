@@ -21,3 +21,4 @@
 - [Why Dgraph Is Shutting Down Slack (2020)](https://dgraph.io/blog/post/dgraph-shutting-slack-using-discourse/)
 - [The deep work guide to Slack (2020)](https://www.arun.is/blog/slack-guide/)
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord).
+- [Slack’s \$25 Billion Dollar Secret Sauce (2015)](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)

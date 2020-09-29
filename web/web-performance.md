@@ -97,3 +97,4 @@
 - [radEventListener: Client-side Framework Performance (2020)](https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/) ([HN](https://news.ycombinator.com/item?id=24279434))
 - [Tune The Web](https://www.tunetheweb.com/) - Make your website better today.
 - [The Ultimate Guide to Web Performance (2020)](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+- [Performance Observer](https://github.com/sumup-oss/performance-observer) - Generic interface for PerformanceObserver API.

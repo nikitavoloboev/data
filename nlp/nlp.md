@@ -145,3 +145,4 @@
 - [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit/) - Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.
 - [Booste Pre Trained Models](https://www.booste.io/pretrained-models) - Free-to-use GPT-2 API. ([HN](https://news.ycombinator.com/item?id=24561214))
 - [Context-theoretic Semantics for Natural Language: an Algebraic Framework (2007)](https://arxiv.org/abs/2009.10542)
+- [THUNLP (Natural Language Processing Lab at Tsinghua University) research](https://github.com/thunlp)

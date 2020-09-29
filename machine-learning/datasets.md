@@ -40,3 +40,4 @@
 - [Clothing Dataset: Call for Action (2020)](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)
 - [Unsplash Dataset](https://github.com/unsplash/datasets) - 2,000,000+ Unsplash images made available for research and machine learning. ([Web](https://unsplash.com/data))
 - [100k+ Rows Topic Labeled News Dataset (2020)](https://newscatcherapi.com/blog/topic-labeled-news-dataset)
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST-like fashion product database.

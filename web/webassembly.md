@@ -98,3 +98,4 @@
 - [Everything Old is New Again: Binary Security of WebAssembly (2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann) ([HN](https://news.ycombinator.com/item?id=24216764))
 - [Hands-on WebAssembly: Try the basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) ([HN](https://news.ycombinator.com/item?id=24279912))
 - [WebAssembly Troubles: WebAssembly Is Not a Stack Machine (2020)](http://troubles.md/wasm-is-not-a-stack-machine/)
+- [Wasmer Python](https://github.com/wasmerio/wasmer-python) - WebAssembly runtime for Python.

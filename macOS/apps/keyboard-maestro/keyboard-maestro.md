@@ -16,6 +16,7 @@ I share [all the macros I use](km-macros.md) with the app.
 - `defaults write com.stairways.keyboardmaestro.editor MouseGetCountdown -int 3` will change the [timer for getting coordinates from 5 secs to 3](https://forum.keyboardmaestro.com/t/is-there-a-way-to-set-default-waiting-time-to-get-coordinates-from-5-seconds-to-3-seconds/14980).
 - Can dismiss palettes with `return` key.
 - Useful to sort macros by `Date modified`. Applies to most other tools too like Finder.
+- [The trick is to work incrementally. Find out how to successfully evaluate and display something atomic. And then gradually elaborate, layer upon layer.](https://forum.keyboardmaestro.com/t/having-trouble-with-execute-shell-script/19628/9)
 
 ## Links
 

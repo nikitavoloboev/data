@@ -15,3 +15,4 @@
 - [Convey](https://github.com/bparli/convey) - Layer 4 load balancer with dynamic configuration loading.
 - [Dropbox posts on load balancing](https://twitter.com/copyconstruct/status/1293796261414371330)
 - [Awesome Load Balancing](https://github.com/cristaloleg/awesome-load-balancing)
+- [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.

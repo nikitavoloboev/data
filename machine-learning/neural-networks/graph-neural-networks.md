@@ -16,3 +16,4 @@
 - [Graph Neural Network Model in TensorFlow](https://github.com/mtiezzi/gnn)
 - [Traffic prediction with advanced Graph Neural Networks (2020)](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks) ([HN](https://news.ycombinator.com/item?id=24386584))
 - [Transformers Are Graph Neural Networks (2020)](https://thegradient.pub/transformers-are-graph-neural-networks/) ([HN](https://news.ycombinator.com/item?id=24453294))
+- [Must-read papers on graph neural networks](https://github.com/thunlp/GNNPapers)

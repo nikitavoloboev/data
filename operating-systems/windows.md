@@ -11,3 +11,4 @@
 - [In Praise of AutoHotKey (2020)](https://www.hillelwayne.com/post/ahk/) ([HN](https://news.ycombinator.com/item?id=23156060)) ([Lobsters](https://lobste.rs/s/aqwsn5/praise_autohotkey))
 - [DirectX is coming to the Windows Subsystem for Linux (2020)](https://devblogs.microsoft.com/directx/directx-heart-linux/) ([HN](https://news.ycombinator.com/item?id=23241040)) ([Sasha Levin's take on it](https://lkml.org/lkml/2020/5/19/742))
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
+- [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - Set of functions for Windows 10 fine-tuning and automating the routine tasks.

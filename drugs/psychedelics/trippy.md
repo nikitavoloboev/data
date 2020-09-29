@@ -8,3 +8,4 @@
 - [My face is embedded in this image](https://twitter.com/AkiyoshiKitaoka/status/1256778042086526977)
 - [Akiyoshi's illusion pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 - [Dots move](https://twitter.com/KangarooPhysics/status/1306223624567881733)
+- [Illusion Songs](https://illusionsongs.tumblr.com/) - Collection of auditory illusions found in indigenous folk practices, popular music, and scientific research.

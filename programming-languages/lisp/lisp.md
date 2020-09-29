@@ -8,7 +8,7 @@
 
 ## Links
 
-- [Racket documentation](file:///Users/nikivi/Library/Racket/6.10/doc/index.html)
+- [Racket documentation](https://docs.racket-lang.org/)
 - [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp)
 - [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications.
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) ([HN](https://news.ycombinator.com/item?id=18225870)) ([HN 2](https://news.ycombinator.com/item?id=23163596))

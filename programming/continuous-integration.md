@@ -17,3 +17,4 @@
 - [Automating safe, hands-off deployments (2020)](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
 - [Buildkite](https://buildkite.com/) - Platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. ([CLI](https://github.com/buildkite/cli))
 - [Platform.sh](https://platform.sh/) - End-to-end cloud PaaS for hosting, development, and deployment. ([Docs](https://docs.platform.sh/))
+- [Drone CI](https://drone.io/) - Automate Software Testing and Delivery.

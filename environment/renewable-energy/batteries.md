@@ -6,3 +6,4 @@
 - [Fostering a Sustainable Community in Batteries (2020)](https://pubs.acs.org/doi/10.1021/acsenergylett.0c01304)
 - [HN: Ultralight lithium-sulfur batteries for electric airplanes (2020)](https://news.ycombinator.com/item?id=24213867)
 - [Tesla Battery Day (2020)](https://youtu.be/l6T9xIeZTds?t=6029)
+- [Northvolt](https://northvolt.com/) - Swedish battery developer and manufacturer, specialized in lithium-ion technology for electric vehicles.

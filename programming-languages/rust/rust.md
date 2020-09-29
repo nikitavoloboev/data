@@ -316,3 +316,5 @@
 - [Neovim and Rust (2020)](https://sharksforarms.dev/posts/neovim-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/iy15dw/neovim_and_rust_an_effective_development/))
 - [Building even faster interpreters in Rust (2020)](https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/)
 - [Rust Crates that do What the Go Standard library Does (2020)](https://christine.website/blog/rust-crates-go-stdlib-2020-09-27) ([Lobsters](https://lobste.rs/s/luapg7/rust_crates_do_what_go_standard_library))
+- [Learning Rust the Open Source Way (2020)](https://bitsbybrad.com/2020-09-29-learning-rust/)
+- [Clippy](https://github.com/rust-lang/rust-clippy) - Collection of lints to catch common mistakes and improve your Rust code.

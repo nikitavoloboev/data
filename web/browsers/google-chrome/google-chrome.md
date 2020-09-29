@@ -2,7 +2,7 @@
 
 I use it only to develop websites with Dev Tools, [Pesticide](http://pesticide.io) & [React Dev Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html) extensions. Although lately I prefer to just use Safari for both browsing and web dev.
 
-I use dark mode & [Empty New Black Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp?hl=en).
+I use dark mode & [Empty New Black Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp).
 
 ![](https://i.imgur.com/nsBY2MK.png)
 

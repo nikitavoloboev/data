@@ -14,7 +14,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)
 - [Miles Johnston](https://www.artsy.net/artist/miles-johnston) - His [Instagram](https://www.instagram.com/miles_art/) and [top art](https://www.reddit.com/user/Miles___?sort=top).
-- [James Jean](https://www.instagram.com/jamesjeanart/?hl=en)
+- [James Jean](https://www.instagram.com/jamesjeanart/)
 - [Dániel Taylor](https://www.instagram.com/mrtaylordani/)
 - [Yanjun Cheng](https://www.artstation.com/yjc)
 - [Alena Aenami](https://aenamiart.artstation.com/) ([ArtStation](https://www.artstation.com/aenamiart))
@@ -157,6 +157,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
 - [Nicholas Boatwright](https://www.etsy.com/shop/BoatwrightArt) ([Reddit](https://www.reddit.com/user/yum_paste/))
 - [Juno Calypso](https://www.junocalypso.com/)
+- [Hailey Ha Jung](https://www.instagram.com/hzzzha/)
 - [Robh Ruppel](https://www.artstation.com/robh_ruppel_design)
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
@@ -177,6 +178,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Victor Mosquera](https://www.instagram.com/victormosquera/)
 - [Mike Winkelmann](https://www.instagram.com/beeple_crap/)
 - [Steve Ruiz](https://steveruizart.com/archive)
+- [Jack Harvatt](https://www.instagram.com/harvatt.house/)
 
 ## Interesting art
 
@@ -237,12 +239,12 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Craig Mod](https://www.instagram.com/craigmod/)
 - [Anna Försterling](https://www.instagram.com/anna.foersterling/)
 - [Thomas Heaton](https://www.instagram.com/heatonthomas/)
-- [Peter McKinnon](https://www.instagram.com/petermckinnon/?hl=en)
+- [Peter McKinnon](https://www.instagram.com/petermckinnon/)
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
 - [Artem Sapegin](https://unsplash.com/@sapegin)
 - [Annie Spratt](https://www.instagram.com/anniespratt/)
-- [André Josselin](https://www.instagram.com/josselin/?hl=en) ([Charleen Weiss in Paris](https://www.behance.net/gallery/77340901/Charleen-Weiss-in-Paris))
+- [André Josselin](https://www.instagram.com/josselin/) ([Charleen Weiss in Paris](https://www.behance.net/gallery/77340901/Charleen-Weiss-in-Paris))
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 - [Matt Perry](https://mattperry.photography/)

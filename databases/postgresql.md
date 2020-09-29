@@ -140,3 +140,4 @@
 - [2ndQuadrant](https://www.2ndquadrant.com/en/) - PostgreSQL support company.
 - [Mastering PostgreSQL Administration (2020)](https://momjian.us/main/writings/pgsql/administration.pdf) ([HN](https://news.ycombinator.com/item?id=24606163))
 - [Cost savings of using managed PostgreSQL](https://news.ycombinator.com/item?id=24608538)
+- [How to Fix PostgreSQL Performance Issues with PG Extras (2020)](https://pawelurbanek.com/postgresql-fix-performance)

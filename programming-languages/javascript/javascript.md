@@ -200,3 +200,5 @@
 - [How I wrote the fastest JavaScript memoization library (2017)](https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/)
 - [JavaScript Playgrounds](https://unpkg.com/javascript-playgrounds@^1.0.0/public/index.html) - Interactive JavaScript sandbox. ([Code](https://github.com/dabbott/javascript-playgrounds))
 - [Speakeasy JS](https://speakeasyjs.com/) - Weekly JavaScript meetup.
+- [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
+- [quickjs-rs](https://github.com/theduke/quickjs-rs) - Rust wrapper for QuickJS.

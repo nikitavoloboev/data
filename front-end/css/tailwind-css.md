@@ -27,3 +27,6 @@
 - [Beginner Tailwind](https://beginnertailwind.com/) - Make good looking designs quickly. All without a single line of custom CSS. ([Intro](https://learn.better.dev/courses/beginner-tailwind/384541-getting-started/1263040-intro))
 - [Tailwind UI React extension](https://chrome.google.com/webstore/detail/tailwind-ui-react/binfindfddkgfibeajgkmjioklcgigjn/related)
 - [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components. ([Code](https://github.com/tailwindlabs/headlessui))
+- [Kitwind](https://kitwind.io/) - Marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS.
+- [Kometa UI Kit](https://kitwind.io/products/kometa) - Over 130 sections, built with TailwindCSS.
+- [Tailwind CSS Resources you wish you had (2020)](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18)
