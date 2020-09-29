@@ -2,16 +2,13 @@
 
 ## ~ 2030
 
-- People wake up and animals get actual rights and are no longer forced to endure life in slaughterhouses. Being vegan is normal. Caring is normal.
+- People wake up and animals get actual rights (like humans) and are no longer forced to endure life in slaughterhouses. Being vegan is normal. Caring is normal.
+- No fossil fuels used. Only sustainable & environmentally energy sources used. Each country's grid is ran off renewable energy.
+- All vehicles are electrical. Autonomous driving fully integrated into society.
+- Cure for all cancers & diseases (cheap immunotherapies, medicine)
+- Psychedelics legalized. Both possession, purchase and manufacturing.
 - Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic on Earth.
-- No use of fossil fuels. Only sustainable & environmentally safe sources used.
-- Every device that needs to connect to the internet, is connected. Abundant connectivity for all devices.
-- Autonomous driving fully integrated into society.
-
-## ~ 2040
-
-- AGI
-- Cure for all cancers & diseases (cheap immunotherapies, drugs)
+- NLP lets machines understands human language at deep level.
 
 ## Links
 
