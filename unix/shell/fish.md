@@ -6,3 +6,4 @@
 - [HN: Fish: A command line shell for the 90s](https://news.ycombinator.com/item?id=21361696) ([Lobsters](https://lobste.rs/s/hvlzor/fish_friendly_interactive_shell))
 - [Awesome fish](https://github.com/jorgebucaran/awesome-fish)
 - [VSCode Fish](https://github.com/bmalehorn/vscode-fish) - Syntax highlighting, linting and code formatting for the fish shell.
+- [New Features in the Fish Shell (2020)](https://lwn.net/SubscriberLink/832429/5a786cc0fed26353/) ([HN](https://news.ycombinator.com/item?id=24631138))
