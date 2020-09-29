@@ -42,6 +42,6 @@ Be inspired & improve myself. Reach out to people I admire.
 
 ### Plan bigger. Save the planet.
 
-Create [amazing things](https://wiki.nikitavoloboev.xyz/future). Focus on solving [real global problems](https://youtu.be/l6T9xIeZTds?t=6029) like reversing climate change (electrical everything, efficient use of capital) & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed).
+Create [amazing things](../future/future.md). Focus on solving [real global problems](https://youtu.be/l6T9xIeZTds?t=6029) like reversing climate change (electrical everything, efficient use of capital) & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed).
 
 Earth is for everyone, not just humans. Be goal & [value](../business/startups/values.md) driven.
