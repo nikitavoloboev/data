@@ -62,3 +62,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Books and resources to read to learn more about challenges of social networks](https://twitter.com/mozilla/status/1308542908291661824)
 - [How TikTok's design makes the algorithm work (2020)](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) ([HN](https://news.ycombinator.com/item?id=24550113))
 - [Is this real life? (2020)](https://julian.digital/2020/09/25/is-this-real-life/)
+- [Social Cooling](https://www.socialcooling.com/) - Big Data's unintended side effect. ([HN](https://news.ycombinator.com/item?id=24627363))

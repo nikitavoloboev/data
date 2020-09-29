@@ -108,4 +108,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Airmeet](https://www.airmeet.com/) - Virtual Events Platform for Communities & Enterprises.
 - [Tube Explorer](https://observablehq.com/@tomlarkworthy/random-place-on-youtube) - Technology that helps me find strange things on YouTube outside my filter bubble.
 - [How to Make an Actually Good Tutorial (2020)](https://www.youtube.com/watch?v=IrrdC_pkmGM)
-- [Tips for the most immersive video calls (2020)](https://www.benkuhn.net/vc/)
+- [Tips for immersive video calls (2020)](https://www.benkuhn.net/vc/) ([HN](https://news.ycombinator.com/item?id=24610166))

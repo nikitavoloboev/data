@@ -56,3 +56,4 @@
 - [Parallel Supercomputing for Astronomy](https://juliacomputing.com/case-studies/celeste.html)
 - [Official SpaceX Photos](https://www.flickr.com/photos/spacex)
 - [Signs of Life discovered on Venus and atmosphere (2020)](https://twitter.com/brianroemmele/status/1304984620304232448) ([HN](https://news.ycombinator.com/item?id=24463423))
+- [Some Physicists See Signs of Cosmic Strings from the Big Bang (2020)](https://www.quantamagazine.org/pulsar-data-may-point-to-cosmic-strings-from-the-big-bang-20200929/) ([HN](https://news.ycombinator.com/item?id=24628417))
