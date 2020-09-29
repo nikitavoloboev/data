@@ -1,5 +1,9 @@
 # [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
+## Notes
+
+- [Distributed state is so fundamentally complex that I think we actually need CRDTs (or something like them) to reason about it effectively. And certainly to build reliable systems. The abstraction of a single, global, logical truth is so nice and tidy and appealing, but it becomes so leaky that I think all successful systems for distributed state will abandon it beyond a certain scale.](https://lobste.rs/s/9fufgr/i_was_wrong_crdts_are_future)
+
 ## Links
 
 - [James Long - CRDTs for Mortals (2019)](https://www.dotconferences.com/2019/12/james-long-crdts-for-mortals)
@@ -32,4 +36,4 @@
 - [Local-first software: You Own Your Data, in spite of the Cloud (2019)](https://www.inkandswitch.com/media/local-first/local-first.pdf) ([HN](https://news.ycombinator.com/item?id=24027663))
 - [Are CRDTs suitable for shared editing? (2020)](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
 - [Room Service](https://www.roomservice.dev/) - Faster-Than-Light Multiplayer Engine.
-- [I was wrong. CRDTs are the future (2020)](https://josephg.com/blog/crdts-are-the-future/) ([HN](https://news.ycombinator.com/item?id=24617542))
+- [I was wrong. CRDTs are the future (2020)](https://josephg.com/blog/crdts-are-the-future/) ([HN](https://news.ycombinator.com/item?id=24617542)) ([Lobsters](https://lobste.rs/s/9fufgr/i_was_wrong_crdts_are_future))

@@ -117,3 +117,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub ReadME Project](https://github.com/readme/) - Meet the people behind the projects you love.
 - [Scuttlebutt](https://github.com/benbjohnson/scuttlebutt) - Daemon for tracking and tweeting trending Github repositories by language.
 - [LinearSync](https://linear-sync.com/) - Sends GitHub issues to Linear. ([Code](https://github.com/jtormey/linear-sync))
+- [Keep your GitHub forks up to date (2020)](https://samizdat.dev/keep-your-github-forks-up-to-date/)

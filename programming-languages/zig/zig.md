@@ -7,7 +7,7 @@
 - [Pluto](https://github.com/SamTebbs33/pluto) - Hobby x86 kernel written in Zig.
 - [Hobby x86 kernel written with Zig](https://github.com/jzck/kernel-zig) ([HN](https://news.ycombinator.com/item?id=21967668))
 - [Zig Compiler Internals (2020)](https://www.youtube.com/watch?v=NbHYLAro02M)
-- [bootstrap-zig](https://github.com/ziglang/bootstrap) - Start with minimum system dependencies and end with a fully operational Zig compiler for any target.
+- [bootstrap-zig](https://github.com/ziglang/zig-bootstrap) - Start with minimum system dependencies and end with a fully operational Zig compiler for any target.
 - [Zig 0.6.0 Release Notes](https://ziglang.org/download/0.6.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=22860008))
 - [PBUI Project](https://pbui.codes/) - Standard library toolsets in the Zig programming language. ([Code](https://github.com/pbui-project/pbui-main))
 - [A Brief Exploration of Zig (2020)](https://gsquire.github.io/static/post/a-brief-exploration-of-zig/)
@@ -22,4 +22,4 @@
 - [Awesome Zig](https://github.com/nrdmn/awesome-zig)
 - [Interview with Zig language creator Andrew Kelley (2020)](https://www.youtube.com/watch?v=ZvskDoP09Ao) ([HN](https://news.ycombinator.com/item?id=24292437))
 - [What is Zig's Comptime? (2019)](https://kristoff.it/blog/what-is-zig-comptime/)
-- [Zig's New Relationship with LLVM (2020)](https://kristoff.it/blog/zig-new-relationship-llvm/) ([HN](https://news.ycombinator.com/item?id=24615916))
+- [Zig's New Relationship with LLVM (2020)](https://kristoff.it/blog/zig-new-relationship-llvm/) ([HN](https://news.ycombinator.com/item?id=24615916)) ([Lobsters](https://lobste.rs/s/flw8du/zig_s_new_relationship_with_llvm))
