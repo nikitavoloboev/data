@@ -319,3 +319,6 @@
 - [Learning Rust the Open Source Way (2020)](https://bitsbybrad.com/2020-09-29-learning-rust/)
 - [Clippy](https://github.com/rust-lang/rust-clippy) - Collection of lints to catch common mistakes and improve your Rust code.
 - [Rust 2021: GUI (2020)](https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html) ([HN](https://news.ycombinator.com/item?id=24631611))
+- [Speed of Rust vs C](https://kornel.ski/rust-c-speed)
+- [The First-Mover Allocator Pattern (2020)](http://cliffle.com/blog/rust-first-mover/)
+- [The Typestate Pattern in Rust (2019)](http://cliffle.com/blog/rust-typestate/)

@@ -332,3 +332,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [IndieHackers TV](https://indiehackers.tv/)
 - [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/) ([HN](https://news.ycombinator.com/item?id=24583109))
 - [How to Get Promoted (2020)](https://defmacro.substack.com/p/how-to-get-promoted) ([HN](https://news.ycombinator.com/item?id=24618707))
+- [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching.

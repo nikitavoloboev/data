@@ -4,7 +4,7 @@
 
 - Animals get human rights and are no longer forced to endure life in slaughterhouses and be eaten. No animal can be harmed for food. Being vegan is normal. Caring is normal.
 - No fossil fuels used. Only sustainable & environmentally energy sources used. Each country's grid is ran off renewable clean energy.
-- All vehicles are electrical. Autonomous driving fully integrated into society.
+- All vehicles are electrical. Autonomous driving fully realized.
 - Cure for all cancers & diseases (cheap immunotherapies, medicine).
 - Psychedelics legalized. Both possession, purchase and manufacturing.
 - NLP lets machines understand knowledge & language at deep level.

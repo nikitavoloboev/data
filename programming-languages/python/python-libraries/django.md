@@ -38,3 +38,4 @@
 - [Django Waffle](https://github.com/django-waffle/django-waffle) - Feature flipper for Django.
 - [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django) - Framework for jump starting production-ready Django projects quickly.
 - [SaaS Pegasus](https://www.saaspegasus.com/) - Django-Powered SaaS Template. ([Docs](https://docs.saaspegasus.com/))
+- [Django Filter](https://github.com/carltongibson/django-filter) - Reusable Django application allowing users to declaratively add dynamic QuerySet filtering from URL parameters. ([Docs](https://django-filter.readthedocs.io/en/master/))

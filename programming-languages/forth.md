@@ -7,3 +7,4 @@
 - [Collapse OS — Why Forth? (2020)](https://collapseos.org/forth.html) ([Lobsters](https://lobste.rs/s/t26h1l/collapse_os_why_forth))
 - [fortraith](https://github.com/Ashymad/fortraith) - Forth implemented in Rust trait system. ([HN](https://news.ycombinator.com/item?id=23501474))
 - [Network forth](http://www.sandelman.ca/People/Michael_Richardson/network-forth.html) ([Lobsters](https://lobste.rs/s/nemayk/network_forth))
+- [CFM](https://github.com/cbiffle/cfm) - Forth-inspired processor targeting the Lattice ICE40 FPGA series, primarily targeting the Icoboard.

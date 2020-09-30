@@ -30,6 +30,7 @@
 - [rweb](https://github.com/kdy1/rweb) - Yet another web server framework for rust.
 - [Tower Web](https://github.com/carllerche/tower-web) - Web framework for Rust with a focus on removing boilerplate.
 - [http-types](https://github.com/http-rs/http-types) - Common types for HTTP operations.
+- [Dropshot](https://github.com/oxidecomputer/dropshot) - General-purpose crate for exposing REST APIs from a Rust program.
 
 ## WASM
 
@@ -443,6 +444,7 @@
 - [rustcommon](https://github.com/twitter/rustcommon) - Common Twitter Rust lib.
 - [rust-dominator](https://github.com/Pauan/rust-dominator) - Zero cost declarative DOM library using FRP signals for Rust.
 - [maplit](https://github.com/bluss/maplit) - Rust container / collection literal macros for HashMap, HashSet, BTreeMap, BTreeSet.
+- [cio](https://github.com/oxidecomputer/cio) - Set of Rust libraries for accessing various APIs for doing CIO jobs. ([Automated CIO](https://blog.jessfraz.com/post/the-automated-cio/))
 
 ## Cargo Plugins
 

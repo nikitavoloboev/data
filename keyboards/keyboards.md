@@ -84,3 +84,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Vim-like Layer for Xorg and Wayland (2020)](https://cedaei.com/posts/vim-like-layer-for-xorg-wayland/) ([HN](https://news.ycombinator.com/item?id=24280413))
 - [Nerves-keyboard - Running a mechanical keyboard with Elixir (2020)](https://underjord.io/nerves-keyboard-running-a-mechanical-keyboard-with-elixir.html)
 - [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)
+- [Planck Keyboard Layout Iterations](http://thedarnedestthing.com/planck%20constant)

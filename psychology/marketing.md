@@ -70,6 +70,7 @@
 - [Tips I wish I knew about building an audience when I first started (2020)](https://twitter.com/thisiskp_/status/1306614299218055169)
 - [Ask HN: How to learn sales? (2020)](https://news.ycombinator.com/item?id=24601579)
 - [Zero To Users](https://zerotousers.com/) - Which Acquisition Channels do Consistently Work for Founders.
+- [The SaaS Website Content You Need to Close Sales [Data] (2020)](https://www.mikesonders.com/saas-website-content/)
 
 ## Images
 

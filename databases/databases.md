@@ -212,3 +212,4 @@
 - [Old, Good Database Design (2020)](https://relinx.io/2020/09/14/old-good-database-design/)
 - [Berkeley: Introduction to Database Systems course (2020)](https://cs186berkeley.net/)
 - [The Datacenter as a Computer](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F09/wharehousesizedcomputers.pdf) - Introduction to the Design of Warehouse-Scale Machines.
+- [Database migrations lessons learned (2020)](https://octopus.com/blog/database-migrations-lessons-learned)

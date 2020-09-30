@@ -28,3 +28,4 @@
 - [Terratag](https://github.com/env0/terratag) - CLI tool for Terraform users to create and maintain tags (AWS, GCP, Azure).
 - [Validating Terraform plans with the Open Policy Agent (2019)](https://www.blokje5.dev/posts/validating-terraform-plans/)
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager.
+- [AWS VPC Terraform module](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Creates VPC resources on AWS.

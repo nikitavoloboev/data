@@ -46,7 +46,7 @@ I love tracking various things for my own reference.
 
 ## What I am [doing now](https://nikitavoloboev.xyz/now/)
 
-Lists my current location & [events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan on visiting.
+Lists my current location & [events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan to attend.
 
 ## [Looking back on life](../looking-back/looking-back.md)
 

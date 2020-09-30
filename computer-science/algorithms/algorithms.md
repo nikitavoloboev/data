@@ -46,6 +46,7 @@
 - [Algorithms & Data Structures in Java](https://github.com/williamfiset/Algorithms)
 - [Wolfsort](https://github.com/scandum/wolfsort) - Stable adaptive hybrid radix / merge sort.
 - [Evolutionary Computation Bestiary](https://github.com/fcampelo/EC-Bestiary) - Bestiary of evolutionary, swarm and other metaphor-based algorithms.
+- [Elements of Programming book](http://elementsofprogramming.com/) - Decomposing programs into a system of algorithmic components. ([Review](http://www.pathsensitive.com/2020/09/book-review-elements-of-programmnig.html))
 
 ## Images
 

@@ -64,3 +64,5 @@
 - [Embedded Podcast/Blog](https://embedded.fm/) - Site dedicated to the many aspects of engineering. We talk about the how, why, and what of engineering, usually devices.
 - [Tesla Buildroot](https://github.com/teslamotors/buildroot) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
 - [coreboot](https://github.com/teslamotors/coreboot) - Aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
+- [lilos](https://github.com/cbiffle/lilos) - Wee RTOS written to support the async style of programming in Rust.
+- [Brittle Kernel](https://github.com/cbiffle/brittle-kernel) - Research microkernel, designed for embedded applications on ARM Cortex-M microcontrollers.
