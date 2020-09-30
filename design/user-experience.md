@@ -37,3 +37,4 @@
 - [Learn UXD](https://learnuxd.io/) - Learn user-first design.
 - [Stop Asking Me to “Sign Up” (2014)](https://www.gkogan.co/blog/stop-asking-me-to-sign-up/) ([HN](https://news.ycombinator.com/item?id=24599642))
 - [Guide to UX Research](https://maze.design/guides/ux-research)
+- [Tips on using toggle switches](https://twitter.com/alexmuench/status/1311217244379271168)

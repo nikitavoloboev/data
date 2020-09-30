@@ -42,3 +42,4 @@
 - [When you browse Instagram and find Tony Abbott's passport number (2020)](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) ([HN](https://news.ycombinator.com/item?id=24488224)) ([Lobsters](https://lobste.rs/s/ecpncq/when_you_browse_instagram_find_former))
 - [Tabloid](https://tabloid.vercel.app/) - Clickbait headline programming language. ([Code](https://github.com/thesephist/tabloid)) ([HN](https://news.ycombinator.com/item?id=24578749))
 - [Turbo Encabulator](https://www.youtube.com/watch?v=Ac7G7xOG2Ag)
+- [How Spiritual People Talk About Drugs](https://www.youtube.com/watch?v=2xRpiczKbas)

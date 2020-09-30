@@ -22,3 +22,4 @@
 - [SwiftShortcuts](https://github.com/a2/swift-shortcuts) - iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI. ([Docs](https://a2.github.io/swift-shortcuts/))
 - [MFC Deck](https://mfcdeck.com/) - Widgetize Your Shortcuts.
 - [Shortcuts Catalog for iOS 14 (2020)](https://www.matthewcassinelli.com/shortcuts-catalog-ios-14/)
+- [Extended Icons](https://extendedicons.com/) - Beaufitul Icons for Shortcuts.
