@@ -216,6 +216,7 @@
 - [Stripe Atlas: Guide to Software as a Service, as a business (2020)](https://stripe.com/en-nl/atlas/guides/business-of-saas)
 - [MakeHub](https://makehub.io/) - Discover bootstrapped startups.
 - [Resources on product-market fit (2020)](https://www.indiehackers.com/post/any-resources-on-product-market-fit-10af7cca2b)
+- [Clearest sign of finding product-market fit is feeling "pull" from the market. How does it look like?](https://twitter.com/lennysan/status/1311350222883139584)
 
 ## Images
 

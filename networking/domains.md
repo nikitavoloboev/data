@@ -6,6 +6,7 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 
 - [Google Domains](https://domains.google/)
 - [Vercel Domains](https://vercel.com/domains)
+- [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/)
 - [Gandi](https://www.gandi.net/en) - Domain Names, Web Hosting, SSL Certificates.
 - [DecentDrops](https://decentdrops.com/) - Pronounceable & Recently Expired Domain Names. ([HN](https://news.ycombinator.com/item?id=23704983))
 - [Porkbun](https://porkbun.com/)
