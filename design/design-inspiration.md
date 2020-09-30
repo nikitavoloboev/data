@@ -412,6 +412,7 @@ Here are few more things I liked, design wise.
 - [Ning Sun](https://sunng.info/)
 - [Oleg Slobodskoi](https://kof.github.io/)
 - [Joe Birch](https://joebirch.co/)
+- [Ceda EI](https://cedaei.com/)
 - [Rodrigo García León](http://rodrigogarcia.me/)
 - [Keith Smiley](http://www.keith.so/)
 - [Nick Cammarata](http://nickcammarata.com/)
