@@ -43,3 +43,4 @@
 - [Tabloid](https://tabloid.vercel.app/) - Clickbait headline programming language. ([Code](https://github.com/thesephist/tabloid)) ([HN](https://news.ycombinator.com/item?id=24578749))
 - [Turbo Encabulator](https://www.youtube.com/watch?v=Ac7G7xOG2Ag)
 - [How Spiritual People Talk About Drugs](https://www.youtube.com/watch?v=2xRpiczKbas)
+- [Опять ничего не получается Ну и пожалуйста,ну и не надо](https://www.youtube.com/watch?v=6HSWn0kEb80)

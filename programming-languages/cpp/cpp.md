@@ -124,3 +124,4 @@
 - [C++ Should Support JIT Compilation (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1609r3.html)
 - [C++ Best Practices (2020)](https://leanpub.com/cppbestpractices) - 45ish Simple Rules with Specific Action Items for Better C++.
 - [What is the standard Library? (2020)](https://cor3ntin.github.io/posts/std/)
+- [Performance Matters - Emery Berger (2020)](https://www.youtube.com/watch?v=koTf7u0v41o)
