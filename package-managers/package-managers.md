@@ -17,3 +17,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [PRIVJS](https://privjs.com/) - Implement access control to your npm packages.
 - [distri](https://distr1.org/) - Linux distribution to research fast package management. ([Code](https://github.com/distr1/distri))
 - [My Year With GNU Guix (2020)](https://elais.codes/my-year-with-gnu-guix.html)
+- [Linux package managers are slow (2019)](https://michael.stapelberg.ch/posts/2019-08-17-linux-package-managers-are-slow/)
