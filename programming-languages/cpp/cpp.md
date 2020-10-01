@@ -125,3 +125,4 @@
 - [C++ Best Practices (2020)](https://leanpub.com/cppbestpractices) - 45ish Simple Rules with Specific Action Items for Better C++.
 - [What is the standard Library? (2020)](https://cor3ntin.github.io/posts/std/)
 - [Performance Matters - Emery Berger (2020)](https://www.youtube.com/watch?v=koTf7u0v41o)
+- [C++: The Good Parts](https://www.infoq.com/presentations/c-plus-plus-pros/) ([HN](https://news.ycombinator.com/item?id=24647402))

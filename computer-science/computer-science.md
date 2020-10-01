@@ -68,3 +68,4 @@
 - [Abstracting Abstract Machines (2010)](http://matt.might.net/papers/vanhorn2010abstract.pdf) ([HN](https://news.ycombinator.com/item?id=24286666))
 - [Free Online Programming & Computer Science Courses (2020)](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 - [CS Notes](https://csnotes.me/) - University CS notes. ([Code](https://github.com/samrobbins85/notes-site))
+- [Differential Synchronization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35605.pdf) - Describes the Differential Synchronization (DS) method for keeping documents synchronized.

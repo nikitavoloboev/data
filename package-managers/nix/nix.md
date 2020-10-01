@@ -127,4 +127,4 @@
 - [Manix](https://github.com/mlvzk/manix) - Fast CLI documentation searcher for Nix.
 - [Review of home manager (2020)](https://magnusson.io/post/home-manager-review/) ([Lobsters](https://lobste.rs/s/pys2ta/review_home_manager))
 - [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) - GitHub Action installs Nix in single-user mode, and adds almost no time at all to your workflow's running time. ([Web](https://github.com/marketplace/actions/nix-quick-install))
-- [Setting up a Nix S3 binary cache (2020)](https://fzakaria.com/2020/07/15/setting-up-a-nix-s3-binary-cache.html)
+- [Setting up a Nix S3 binary cache (2020)](https://fzakaria.com/2020/07/15/setting-up-a-nix-s3-binary-cache.html) ([Lobsters](https://lobste.rs/s/myps2p/setting_up_nix_s3_binary_cache))

@@ -323,3 +323,4 @@
 - [The First-Mover Allocator Pattern (2020)](http://cliffle.com/blog/rust-first-mover/)
 - [The Typestate Pattern in Rust (2019)](http://cliffle.com/blog/rust-typestate/)
 - [Revisiting a 'smaller Rust' (2020)](https://without.boats/blog/revisiting-a-smaller-rust/) ([Lobsters](https://lobste.rs/s/sqdqtj/revisiting_smaller_rust))
+- [Optimization - Making Rust Code Go Brrrr (2020)](https://aspenuwu.me/posts/rust-optimization.html)

@@ -129,3 +129,4 @@
 - [Happy-PR: Pull Request Sentiment Analysis with GitHub Actions (2020)](https://dev.to/terabytetiger/happy-pr-pull-request-sentiment-analysis-with-github-actions-i0i)
 - [Automate GitHub for more than CI/CD (2020)](https://opensource.creativecommons.org/blog/entries/automate-github-for-more-than-CI%20CD/)
 - [Self hosted Github Actions runners in Kubernetes (2020)](https://vitobotta.com/2020/09/29/self-hosted-github-actions-runners-in-kubernetes/)
+- [Running GitHub Actions for Certain Commit Messages (2020)](https://ryangjchandler.co.uk/articles/running-github-actions-for-certain-commit-messages)
