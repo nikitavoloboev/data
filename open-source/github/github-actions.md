@@ -130,3 +130,4 @@
 - [Automate GitHub for more than CI/CD (2020)](https://opensource.creativecommons.org/blog/entries/automate-github-for-more-than-CI%20CD/)
 - [Self hosted Github Actions runners in Kubernetes (2020)](https://vitobotta.com/2020/09/29/self-hosted-github-actions-runners-in-kubernetes/)
 - [Running GitHub Actions for Certain Commit Messages (2020)](https://ryangjchandler.co.uk/articles/running-github-actions-for-certain-commit-messages)
+- [Actionsflow](https://github.com/actionsflow/actionsflow) - IFTTT/Zapier free alternative based on GitHub Actions. ([HN](https://news.ycombinator.com/item?id=24648960))

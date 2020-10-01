@@ -70,3 +70,4 @@
 - [I Actively Discourage Online Tooling Like Jwt.io and Online JSON Validators (2020)](https://www.jvt.me/posts/2020/09/01/against-online-tooling/) ([Lobsters](https://lobste.rs/s/jxlr73/why_i_actively_discourage_online_tooling)) ([HN](https://news.ycombinator.com/item?id=24352360))
 - [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption.
 - [The different kinds of authentication protocols](https://www.devever.net/~hl/auth)
+- [gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2).

@@ -445,6 +445,7 @@
 - [rust-dominator](https://github.com/Pauan/rust-dominator) - Zero cost declarative DOM library using FRP signals for Rust.
 - [maplit](https://github.com/bluss/maplit) - Rust container / collection literal macros for HashMap, HashSet, BTreeMap, BTreeSet.
 - [cio](https://github.com/oxidecomputer/cio) - Set of Rust libraries for accessing various APIs for doing CIO jobs. ([Automated CIO](https://blog.jessfraz.com/post/the-automated-cio/))
+- [ocaml-interop](https://github.com/simplestaking/ocaml-interop) - OCaml<->Rust FFI with an emphasis on safety.
 
 ## Cargo Plugins
 

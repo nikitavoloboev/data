@@ -43,3 +43,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Seaglass](https://github.com/neilalexander/seaglass) - Truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support.
 - [NovaChat](https://nova.chat/) - Multi-Network Chat. ([HN](https://news.ycombinator.com/item?id=23693371))
 - [HN: Matrix (2020)](https://news.ycombinator.com/item?id=24239564)
+- [Gitter is joining Matrix (2020)](https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix) ([HN](https://news.ycombinator.com/item?id=24638438))

@@ -12,4 +12,4 @@
 - [Shoelace](https://github.com/shoelace-style/shoelace) - Forward-thinking library of web components. ([Docs](https://shoelace.style/))
 - [One web component to rule them all? (2020)](https://www.filamentgroup.com/lab/delegator/)
 - [Vanilla Web Components](https://github.com/vanillawc/vanillawc) - Framework-free, transpiler-free, scaffolding-free web components.
-- [The failed promise of Web Components (2020)](https://blog.carlmjohnson.net/post/2020/web-components/)
+- [The Failed Promise of Web Components (2020)](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) ([Follow up article](https://blog.carlmjohnson.net/post/2020/web-components/)) ([HN](https://news.ycombinator.com/item?id=24640151))

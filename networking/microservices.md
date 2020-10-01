@@ -49,3 +49,4 @@
 - [Go + Microservices = Go Kit - Peter Bourgon (2017)](https://www.youtube.com/watch?v=NX0sHF8ZZgw)
 - [Conductor](https://github.com/Netflix/conductor) - Microservices orchestration engine. ([Docs](https://netflix.github.io/conductor/)) ([HN](https://news.ycombinator.com/item?id=24214735))
 - [When To Use Microservices (And When Not To) • Sam Newman & Martin Fowler (2020)](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+- [Improve Your Micro-Services Debugging Environment (2020)](https://medium.com/@moshe.beladev.mb/better-debugging-environment-for-your-micro-services-9420a71b8a37)

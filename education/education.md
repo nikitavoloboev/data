@@ -56,3 +56,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [MLH Fellowship](https://fellowship.mlh.io/) - Spend 12-weeks remotely leveling up your skills & building out your portfolio under the guidance of an expert mentor. ([Experience of doing the program](https://dev.to/jessie_anh_nguyen/growing-as-a-developer-through-the-mlh-fellowship-eb2))
 - [Syllabus for Eric's PhD Students (2020)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview?pru=AAABdEtovic*vkWoyIJP-56-mWWnA923aA) ([HN](https://news.ycombinator.com/item?id=24274699))
 - [How to Pick Your Grad School (2020)](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)
+- [EdTech trends (2020)](https://twitter.com/meaganloyst/status/1310966914248736773)

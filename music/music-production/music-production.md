@@ -96,3 +96,4 @@
 - [Pippi](https://github.com/luvsound/pippi) - Computer Music With Python. ([HN](https://news.ycombinator.com/item?id=24289981))
 - [Playtronica](https://playtronica.com/) - Interactive toolkit and playground. Turn any object alive using our prototyping instruments.
 - [Adio](https://www.adio.app/) - Collaborative songwriting platform for bands and musicians.
+- [Discover MIDI Guide](https://imitone.com/discover-midi/)

@@ -58,3 +58,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Pandora Music Genome Project](https://www.pandora.com/about/mgp) - Comprehensive analysis of music.
 - [Odesli](https://odesli.co/) - On demand smart links.
 - [OB–4 magic radio](https://teenage.engineering/products/ob-4)
+- [Psytrance Guide](http://www.psytranceguide.com/)

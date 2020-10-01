@@ -71,6 +71,7 @@
 - [Ask HN: How to learn sales? (2020)](https://news.ycombinator.com/item?id=24601579)
 - [Zero To Users](https://zerotousers.com/) - Which Acquisition Channels do Consistently Work for Founders.
 - [The SaaS Website Content You Need to Close Sales [Data] (2020)](https://www.mikesonders.com/saas-website-content/)
+- [Tips to make viral Reddit posts (2020)](https://twitter.com/1HaKr/status/1311230136679714817)
 
 ## Images
 

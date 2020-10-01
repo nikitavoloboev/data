@@ -98,3 +98,5 @@
 - [Tune The Web](https://www.tunetheweb.com/) - Make your website better today.
 - [The Ultimate Guide to Web Performance (2020)](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 - [Performance Observer](https://github.com/sumup-oss/performance-observer) - Generic interface for PerformanceObserver API.
+- [Getting Postmark’s Lighthouse Performance Score to 100 (2020)](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100)
+- [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify))

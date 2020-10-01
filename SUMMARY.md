@@ -706,6 +706,7 @@
   - [Blockchain](databases/blockchain/blockchain.md)
     - [Ethereum](databases/blockchain/ethereum.md)
     - [Uniswap](databases/blockchain/uniswap.md)
+    - [Tezos](databases/blockchain/tezos.md)
     - [Polkadot](databases/blockchain/polkadot.md)
     - [Cardano](databases/blockchain/cardano.md)
     - [Arweave](databases/blockchain/arweave.md)

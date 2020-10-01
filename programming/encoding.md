@@ -14,3 +14,4 @@
 - [Text Encoding: The Thing You Were Trying to Avoid (2020)](https://pboyd.io/posts/text-encoding/)
 - [Amazon Ion](https://amzn.github.io/ion-docs/) - Richly-typed, self-describing, hierarchical data serialization format offering interchangeable binary and text representations. ([HN](https://news.ycombinator.com/item?id=23921610))
 - [Unicode In Five Minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
+- [Unicode support. What does that actually mean? (2020)](https://boyter.org/posts/unicode-support-what-does-that-actually-mean/)

@@ -278,3 +278,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [I Want to Fix Goodreads (2020)](http://prepend.com/culture/2020/09/fixing_goodreads.html) ([HN](https://news.ycombinator.com/item?id=24454221))
 - [DeDRM tools for ebooks](https://github.com/apprenticeharper/DeDRM_tools) - Remove DRM from ebooks.
 - [Writing a book: is it worth it? (2020)](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) ([HN](https://news.ycombinator.com/item?id=24628549))
+- [Searchable Library of book summaries](https://blas.com/books/searchable-library/)

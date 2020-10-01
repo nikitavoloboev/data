@@ -324,3 +324,5 @@
 - [The Typestate Pattern in Rust (2019)](http://cliffle.com/blog/rust-typestate/)
 - [Revisiting a 'smaller Rust' (2020)](https://without.boats/blog/revisiting-a-smaller-rust/) ([Lobsters](https://lobste.rs/s/sqdqtj/revisiting_smaller_rust))
 - [Optimization - Making Rust Code Go Brrrr (2020)](https://aspenuwu.me/posts/rust-optimization.html)
+- [Safely mixing Rust and OCaml in the TezEdge node (2020)](https://medium.com/simplestaking/safely-mixing-rust-and-ocaml-in-the-tezedge-node-a2089cbef590)
+- [Rust Web Boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications.

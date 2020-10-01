@@ -11,16 +11,16 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 
 ## Interesting applications
 
+- [Tezos](tezos.md)
+- [Polkadot](polkadot.md)
 - [Horizon State](https://horizonstate.com/) - Digital voting.
 - [Blockstack](https://blockstack.org/) - Decentralized apps on Blockstack let you own your data so you can maintain your privacy, security and freedom.
-- [Polkadot](https://polkadot.network/)
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
 - [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
 - [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
 - [Purple Protocol](https://purpleprotocol.org/) - Global Decentralized Ledger Infrastructure.
 - [Slingshot](https://github.com/stellar/slingshot) - New blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
-- [Tezos](https://tezos.com/) - Open-source platform for assets and applications backed by a global community of validators, researchers, and builders.
 - [arweave](https://www.arweave.org/) - New type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to store data forever.
 - [Foundation](https://withfoundation.com/) - Reclaiming the idea of the stock market to benefit creators and collectors directly.
 - [Zilliqa](https://www.zilliqa.com/)
@@ -80,3 +80,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchain, the Solution for Almost Nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63) ([HN](https://news.ycombinator.com/item?id=24249477)) ([Lobsters](https://lobste.rs/s/2kmkou/blockchain_amazing_solution_for_almost))
 - [ViewBlock](https://viewblock.io/) - Blockchain exploration for the masses.
 - [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) ([HN](https://news.ycombinator.com/item?id=24569083))
+- [DAO Landscape](https://github.com/parrachia/DAO-Landscape)

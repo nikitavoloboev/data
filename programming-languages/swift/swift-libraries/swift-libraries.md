@@ -421,6 +421,8 @@
 - [Stripe iOS SDK](https://github.com/stripe/stripe-ios)
 - [MistKit](https://github.com/brightdigit/MistKit) - Swift Package for Server-Side and Command-Line Access to CloudKit Web Services.
 - [NoopKit](https://github.com/mkj-is/NoopKit) - Short for No-operation Kit. Set of functions making work with empty closures a breeze.
+- [Swinject](https://github.com/Swinject/Swinject) - Lightweight dependency injection framework for Swift.
+- [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and macOS.
 
 ## Other (not lib)
 

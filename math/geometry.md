@@ -15,3 +15,4 @@
 - [Non-Euclidean Geometry Explained (2020)](https://www.youtube.com/watch?v=zQo_S3yNa2w)
 - [What does this prove? Some of the most gorgeous visual "shrink" proofs ever invented (2020)](https://www.youtube.com/watch?v=sDfzCIWpS7Q)
 - [Impossible shapes library](https://im-possible.info/english/library/index.html)
+- [An Elementary Introduction to Information Geometry (2018)](https://arxiv.org/abs/1808.08271) ([HN](https://news.ycombinator.com/item?id=24645530))

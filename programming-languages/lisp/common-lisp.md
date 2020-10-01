@@ -26,3 +26,4 @@
 - [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525))
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) ([Lobsters](https://lobste.rs/s/gb566t/lisp_quickstart))
 - [Creating a Common Lisp implementation (2020)](https://www.youtube.com/watch?v=Wa81OJnlsoI) ([HN](https://news.ycombinator.com/item?id=24276881))
+- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code.

@@ -93,3 +93,4 @@
 - [WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi.
 - [The Hardware Lottery (2020)](https://arxiv.org/abs/2009.06489)
 - [Computers Are Hard: hardware with Greg Kroah-Hartman (2020)](https://medium.com/computers-are-hard/computers-are-hard-hardware-with-greg-kroah-hartman-4be2d31c3126)
+- [Hardware Hacking Experiments - Several ways to extract firmware on embedded devices](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)

@@ -115,3 +115,5 @@
 - [Becoming 1% better at data science everyday](https://github.com/amitness/learning)
 - [Jigsaw Labs](https://www.jigsawlabs.io/) - Learn Data Science part-time.
 - [Data Science Ontology](https://www.datascienceontology.org/) - Knowledge base about data science.
+- [Narrator](https://www.narrator.ai/) - Data modeling platform built on a single table. ([HN](https://news.ycombinator.com/item?id=24640540))
+- [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) - Implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API.

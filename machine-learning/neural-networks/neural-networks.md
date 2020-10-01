@@ -141,3 +141,4 @@
 - [Sparse Networks from Scratch: Faster Training without Losing Performance (2019)](https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/)
 - [Jigsaw Labs - Learn Neural Nets](https://www.jigsawlabs.io/#neural_nets)
 - [Implementing a Neural Network in C](https://www.cs.bham.ac.uk/~jxb/INC/nn.html) ([Code](https://github.com/mathmagson/neuralnetwork))
+- [Web Neural Network API](https://webmachinelearning.github.io/webnn/) - Dedicated low-level API for neural network inference hardware acceleration. [Polyfill](https://github.com/webmachinelearning/webnn-polyfill)

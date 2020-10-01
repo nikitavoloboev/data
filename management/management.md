@@ -54,3 +54,4 @@
 - [Sweary Lightweight Agile Planning](http://slap.pm/)
 - [Company-wide Retrospectives](https://sklivvz.com/posts/company-wide-retrospectives)
 - [We cancelled standups and let the team build](https://www.usehaystack.io/blog/we-cancelled-standups-and-let-the-team-build-heres-what-happened) ([HN](https://news.ycombinator.com/item?id=24581360))
+- [Is Netflix CEO Reed Hastings' "Keeper Test" good management? (2020)](https://qz.com/work/1909338/is-netflix-ceo-reed-hastings-keeper-test-good-management/)

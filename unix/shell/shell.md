@@ -77,3 +77,4 @@ All active variables can be seen by running `env`.
 - [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/) ([HN](https://news.ycombinator.com/item?id=24314600))
 - [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer. ([HN](https://news.ycombinator.com/item?id=24431027))
 - [Shell redirection example (2019)](http://dtrace.org/blogs/dap/2019/09/23/shell-redirection-example/)
+- [Kitty](https://github.com/kovidgoyal/kitty) - Fast, featureful, GPU based terminal emulator. ([Code](https://github.com/kovidgoyal/kitty)) ([HN](https://news.ycombinator.com/item?id=24643008))

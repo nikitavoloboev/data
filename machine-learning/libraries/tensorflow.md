@@ -53,3 +53,4 @@
 - [TF-Coder, a tool that writes tricky TensorFlow expressions (2020)](https://blog.tensorflow.org/2020/08/introducing-tensorflow-coder-tool.html) ([HN](https://news.ycombinator.com/item?id=24285910))
 - [TensorBoard](https://github.com/tensorflow/tensorboard) - Suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
 - [Awesome TensorFlowJS](https://github.com/aaronhma/awesome-tensorflow-js)
+- [Tensorflow vs Scikit-learn (2020)](https://mljar.com/blog/tensorflow-vs-scikit-learn/)

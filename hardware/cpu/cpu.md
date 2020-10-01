@@ -44,3 +44,4 @@
 - [Itanium Processor Microarchitecture (2000)](http://www.cs.binghamton.edu/~dima/cs522_05/itanium.pdf)
 - [Intel Hardware Accelerated Execution Manager (HAXM)](https://github.com/intel/haxm)
 - [sse2neon](https://github.com/DLTcollab/sse2neon) - C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics.
+- [Toward the 1nm Technology Generation: Imec Roadmap for Logic Technology (2020)](https://www.imec-int.com/en/articles/view-logic-technology-roadmap)

@@ -38,3 +38,4 @@
 - [This electrical transmission tower has a problem (2020)](https://twitter.com/tubetimeus/status/1306359385656946688) ([HN](https://news.ycombinator.com/item?id=24499924)) ([Notes](https://twitter.com/MarcJBrooker/status/1306594464337551360))
 - [Precursor – A mobile, open source electronics platform](https://www.bunniestudios.com/blog/?p=5921) ([HN](https://news.ycombinator.com/item?id=24527846))
 - [Guide to LEDs (2020)](https://www.youtube.com/watch?v=Y06VHj1GvLI)
+- [An Intuitive Look at Moving Average and CIC Filters (2020)](https://tomverbeure.github.io/2020/09/30/Moving-Average-and-CIC-Filters.html)

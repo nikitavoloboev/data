@@ -290,3 +290,5 @@
 - [Understanding Convolution in Deep Learning (2015)](https://timdettmers.com/2015/03/26/convolution-deep-learning/)
 - [21 Habits I Picked Up While Learning Machine Learning (2019)](http://blog.varunajayasiri.com/practices_learned_while_learning_machine_learning.html)
 - [Hacker News for ML](https://mln.dev/top/1)
+- [Think Fast: Tensor Streaming Processor for Accelerating Deep Learning Workloads (2020)](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a145/466100a145.pdf)
+- [My Deep Learning Toolchain (2020)](https://rosshemsley.co.uk/posts/deep_learning_toolchain/)

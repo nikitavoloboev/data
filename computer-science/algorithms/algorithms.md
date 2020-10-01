@@ -47,6 +47,7 @@
 - [Wolfsort](https://github.com/scandum/wolfsort) - Stable adaptive hybrid radix / merge sort.
 - [Evolutionary Computation Bestiary](https://github.com/fcampelo/EC-Bestiary) - Bestiary of evolutionary, swarm and other metaphor-based algorithms.
 - [Elements of Programming book](http://elementsofprogramming.com/) - Decomposing programs into a system of algorithmic components. ([Review](http://www.pathsensitive.com/2020/09/book-review-elements-of-programmnig.html)) ([HN](https://news.ycombinator.com/item?id=24635947)) ([Lobsters](https://lobste.rs/s/bqnhbo/book_review_elements_programmnig))
+- [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
 ## Images
 

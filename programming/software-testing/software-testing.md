@@ -41,7 +41,7 @@
 - [The lazy programmer's guide to writing thousands of tests: An introduction to Property-Based Tests (2020)](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 - [Against Testing (2020)](https://flak.tedunangst.com/post/against-testing) ([HN](https://news.ycombinator.com/item?id=23755339)) ([Lobsters](https://lobste.rs/s/fepvea/against_testing))
 - [Unit Testing is Overrated (2020)](https://tyrrrz.me/blog/unit-testing-is-overrated) ([HN](https://news.ycombinator.com/item?id=23778878))
-- [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+- [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. ([Recipes](https://github.com/cypress-io/cypress-example-recipes))
 - [Implementing mutation testing in a niche language with Stryker (2020)](https://medium.com/att-israel/mutants-against-bugs-87f77a95aad)
 - [BrowserStack](https://www.browserstack.com/) - App & Browser Testing Made Easy.
 - [Karate](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. ([HN](https://news.ycombinator.com/item?id=24176433))

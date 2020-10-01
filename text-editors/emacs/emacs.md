@@ -66,3 +66,4 @@ Might give it a go sometime.
 - [Emacs Prelude 1.0](https://emacsredux.com/blog/2020/09/15/emacs-prelude-1-0/) ([HN](https://news.ycombinator.com/item?id=24480448)) ([Lobsters](https://lobste.rs/s/egkt4n/emacs_prelude_1_0))
 - [Practical Emacs Lisp](http://ergoemacs.org/emacs/elisp.html)
 - [Comprehensive guide on handling long lines in Emacs (2020)](https://200ok.ch/posts/2020-09-29_comprehensive_guide_on_handling_long_lines_in_emacs.html)
+- [Class-based, functional configuration](https://nyxt.atlas.engineer/article/class-based-functional-configuration.org)

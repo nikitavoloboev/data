@@ -127,3 +127,5 @@
 - [Daniel and Jorge Explain the Universe - Most Common Listener Questions (2020)](https://overcast.fm/+Oq0a0jjIo)
 - [I am self-studying physics, which book should I get? (2020)](https://www.reddit.com/r/AskPhysics/comments/iwae2d/i_am_selfstudying_physics_which_book_should_i_get/)
 - [A Child’s Guide to Spinors (2016)](http://www.weylmann.com/spinor.pdf)
+- [NIST Pair of Atomic Clocks Reveal Einstein's Relativity at a Personal Scale (2010)](https://www.nist.gov/news-events/news/2010/09/nist-pair-aluminum-atomic-clocks-reveal-einsteins-relativity-personal-scale) ([HN](https://news.ycombinator.com/item?id=24634461))
+- [The Grand Design by Stephen Hawking](https://blas.com/the-grand-design/)

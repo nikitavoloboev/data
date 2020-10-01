@@ -334,3 +334,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How to Get Promoted (2020)](https://defmacro.substack.com/p/how-to-get-promoted) ([HN](https://news.ycombinator.com/item?id=24618707))
 - [Google Trends](https://trends.google.com/trends/) - Explore what the world is searching.
 - [Big Heads](https://bigheads.io/) - Easily generate avatars for your projects. ([Code](https://github.com/RobertBroersma/bigheads))
+- [What's a rule that was implemented somewhere that massively backfired?](https://twitter.com/TrungTPhan/status/1311300651645767682)

@@ -39,3 +39,6 @@
 - [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django) - Framework for jump starting production-ready Django projects quickly.
 - [SaaS Pegasus](https://www.saaspegasus.com/) - Django-Powered SaaS Template. ([Docs](https://docs.saaspegasus.com/))
 - [Django Filter](https://github.com/carltongibson/django-filter) - Reusable Django application allowing users to declaratively add dynamic QuerySet filtering from URL parameters. ([Docs](https://django-filter.readthedocs.io/en/master/))
+- [Django Best Practices: Security (2020)](https://learndjango.com/tutorials/django-best-practices-security)
+- [LearnDjango](https://learndjango.com/) - Django Tutorials.
+- [Django Dynamic Fixture](https://github.com/paulocheque/django-dynamic-fixture) - Complete library to create dynamic model instances for testing purposes.
