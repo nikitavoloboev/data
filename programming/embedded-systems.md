@@ -67,3 +67,4 @@
 - [lilos](https://github.com/cbiffle/lilos) - Wee RTOS written to support the async style of programming in Rust.
 - [Brittle Kernel](https://github.com/cbiffle/brittle-kernel) - Research microkernel, designed for embedded applications on ARM Cortex-M microcontrollers.
 - [Bare-metal programming the tinyAVR 0 microcontrollers (2020)](https://www.omzlo.com/articles/baremetal-programming-on-the-tinyavr-0-micro-controllers)
+- [AI at the edge](https://github.com/crespum/edge-ai) - Curated list of resources for embedded AI.

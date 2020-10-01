@@ -39,3 +39,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Barbra](https://barbra.io/) - Lets classmates create online study groups to share flashcards, notes, and goals with one another. ([HN](https://news.ycombinator.com/item?id=22943075))
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki)
 - [genanki](https://github.com/kerrickstaley/genanki) - Library for Generating Anki Decks.
+- [Spaced repetition, Anki and Execute Program (2020)](https://mike.place/2020/executeprogram/)

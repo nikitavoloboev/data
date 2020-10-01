@@ -79,3 +79,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Ask HN: What do you want to see in a resume / GitHub profile? (2020)](https://news.ycombinator.com/item?id=23780236)
 - [How to Build an Effective Dev Portfolio (2020)](https://joshwcomeau.com/effective-portfolio/)
 - [Standard Resume](https://standardresume.co/) - Effortlessly build a memorable resume.
+- [resume.md](https://github.com/williamsmj/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF.
