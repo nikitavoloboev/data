@@ -1,5 +1,7 @@
 # 2020 September
 
+> As [Newsletter](https://buttondown.email/nikitavoloboev/archive/first-newsletter-new-beginnings/)
+
 ## 1
 
 Excited for Spring. Moving to new place on 14th in Eindhoven. The place is finally a bit nicer than any other place I've lived in before. In London I've lived in a closet. A closet that was close to office but still. It was right above a noisy street and the roof leaked water every time it rained.

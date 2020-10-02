@@ -327,4 +327,4 @@
 - [Safely mixing Rust and OCaml in the TezEdge node (2020)](https://medium.com/simplestaking/safely-mixing-rust-and-ocaml-in-the-tezedge-node-a2089cbef590)
 - [Rust Web Boilerplate](https://github.com/svenstaro/rust-web-boilerplate) - Rust web template for modern web backend applications.
 - [A Fistful of States: More State Machine Patterns in Rust (2020)](https://deislabs.io/posts/a-fistful-of-states/)
-- [Rust lets us monitor 30k API calls/min (2020)](https://blog.bearer.sh/how-rust-lets-us-monitor-30k-api-calls-min/)
+- [Rust lets us monitor 30k API calls/min (2020)](https://blog.bearer.sh/how-rust-lets-us-monitor-30k-api-calls-min/) ([HN](https://news.ycombinator.com/item?id=24661395))
