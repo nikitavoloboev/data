@@ -23,16 +23,17 @@
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 30+ min cardio/weights daily.
-- Eat [whole food, plant based nutritious diet](../health/nutrition/nutrition.md).
+- [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 30+ min cardio/weights daily.
+- Eat [whole food plant based nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee. No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
-- Start every morning with workout & shower.
-- Brush/floss teeth & [clean face](../health/skin-care.md) every morning/evening.
+- Go on walks or do exercise throughout the day when possible as breaks.
+- Brush/floss teeth & [clean face + sunscreen](../health/skin-care.md) daily.
 - Apply sun screen when going out. Don't frown. Don't touch face or mouth with dirty hands.
-- [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
+- Never sit for long. Sit up right (good posture, never slouch). Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
+- [Sleep](../sleep/sleep.md) fully & well. Don't limit sleep. If need to wake up early, go to sleep early. Sleep as much as body needs (~ 8h often).
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Clean up.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Be calm. Clean up.
 
 ## Focus
 
@@ -46,7 +47,6 @@
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.
 - Wear clean & comfortable clothes.
-- Never sit for long. Sit up right. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing.
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Trello [Learn board](https://trello.com/b/cu32qF3q) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
