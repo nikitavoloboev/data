@@ -8,7 +8,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 
 - 5 - Start/stop ScreenFlow recording
 - 6 - Maximize window to next screen
-- 7 - Open Typinator
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
 - 0 - Open Dropzone
@@ -49,7 +48,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 6 - Resize to top left corner
 - 7 - Search selection on /r/askcience
 - 8 - New 2Do quick task
-- 9 - Typinator Quick Search
 - 0 - Search Alfred Snippets
 - u - Sip color picker
 - i - Tester
@@ -68,8 +66,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 6 - Toggle Night Shift on/off.
 - 7 - Selection -> Google Lucky
 - 8 - Selection -> SnippetsLab snippet
-- 9 - Clipboard -> Typinator snippet
-- 0 - Selection -> Typinator snippet
 - e - Selection -> YouTube
 - r - Selection -> Google Translate
 - y - Selection -> Stack Overflow
@@ -80,7 +76,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - x - Selection -> Reddit
 - b - Selection -> Medium
 - n - Selection -> GitHub
-- m - Selection -> Typinator snippet
 
 ## CMD+OPT+CTRL+SHIFT
 
