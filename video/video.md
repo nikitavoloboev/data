@@ -111,3 +111,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Tips for immersive video calls (2020)](https://www.benkuhn.net/vc/) ([HN](https://news.ycombinator.com/item?id=24610166))
 - [m4vga-rs](https://github.com/cbiffle/m4vga-rs) - VGA-style video output for STM32F4 processors, in Rust.
 - [Tips for Running an Effective Virtual Offsite (2020)](https://blog.bearer.sh/tips-for-virtual-offsite/)
+- [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)

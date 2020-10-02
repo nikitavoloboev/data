@@ -44,3 +44,4 @@
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Mono Icons](https://icons.mono.company/) - Simple, consistent open-source icon set designed to be used in a wide variety of digital products. ([Code](https://github.com/mono-company/mono-icons)) ([HN](https://news.ycombinator.com/item?id=24564684))
 - [3D Icons](https://www.iconshock.com/3d-icons/)
+- [Radical Icons](https://radicalicons.com/) - Radical, hand-drawn SVGs.

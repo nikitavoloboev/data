@@ -41,3 +41,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Intelligent Bash (ibash)](https://rdmp.org/dmbcs/i-bash)
 - [Functional programming in bash](https://github.com/ssledz/bash-fun) ([Slides](https://ssledz.github.io/presentations/bash-fun.html#/))
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) ([Lobsters](https://lobste.rs/s/1vqimp/bash_pitfalls))
+- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator. ([HN](https://news.ycombinator.com/item?id=24636367))

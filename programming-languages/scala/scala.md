@@ -48,3 +48,4 @@
 - [Signify Technology](https://www.signifytechnology.com/) - Award Winning Scala Recruitment.
 - [A Simple Soundness Proof for Dependent Object Types](https://arxiv.org/pdf/1706.03814.pdf)
 - [Things you need to know about JVM (that matter in Scala) (2020)](https://leanpub.com/jvm-scala-book)
+- [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 (2020)](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)

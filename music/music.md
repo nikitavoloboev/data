@@ -59,3 +59,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Odesli](https://odesli.co/) - On demand smart links.
 - [OB–4 magic radio](https://teenage.engineering/products/ob-4)
 - [Psytrance Guide](http://www.psytranceguide.com/)
+- [Music Playlists with a story](https://www.youtube.com/channel/UCWlhyyYBiD67Aju1CXUgaug/videos)

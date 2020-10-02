@@ -162,3 +162,5 @@
 - [swift-tools-support-core](https://github.com/apple/swift-tools-support-core) - Contains common infrastructural code for both SwiftPM and llbuild.
 - [Swift on Windows (2020)](https://swift.org/blog/swift-on-windows/) ([HN](https://news.ycombinator.com/item?id=24556245))
 - [Swift System](https://github.com/apple/swift-system) - Provides idiomatic interfaces to system calls and low-level currency types. ([Announcement](https://swift.org/blog/swift-system/)) ([HN](https://news.ycombinator.com/item?id=24593028))
+- [Introducing Swift Atomics (2020)](https://swift.org/blog/swift-atomics/) ([HN](https://news.ycombinator.com/item?id=24657500))
+- [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices)

@@ -31,7 +31,7 @@
 - [useDebounce](https://github.com/xnimorz/use-debounce) - Debounce hook for react.
 - [use-methods](https://github.com/pelotom/use-methods) - Simpler way to useReducers.
 - [@umijs/hooks](https://github.com/umijs/hooks) - React Hooks Library.
-- [Collection of beautiful (and hopefully useful) React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
+- [Beautiful React Hooks](https://github.com/beautifulinteractions/beautiful-react-hooks) - React hooks to speed-up your components and hooks development.
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) ([Code](https://github.com/nikgraf/react-hooks))
 - [use-what-changed](https://github.com/simbathesailor/use-what-changed) - Simple hook to debug major Reactjs hooks and custom hooks.
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks.
@@ -87,3 +87,4 @@
 - [Shared Hook State with SWR (2020)](https://paco.im/blog/shared-hook-state-with-swr)
 - [Death by a thousand useCallbacks (2020)](https://royi-codes.now.sh/thousand-usecallbacks/)
 - [React with Hooks](https://reactwithhooks.netlify.app/) - React documentation with Hooks-based explanations and examples.
+- [React Hooks - EpicReact workshop](https://github.com/kentcdodds/react-hooks)

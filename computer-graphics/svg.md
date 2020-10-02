@@ -40,3 +40,4 @@
 - [Benefits of SVG (2020)](https://dev.to/alexi_be3/benefits-of-svg-10mn)
 - [Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations) ([HN](https://news.ycombinator.com/item?id=24048508))
 - [svg2jsx](https://github.com/balajmarius/svg2jsx) - Transform SVG into valid JSX.
+- [Graphical UI's with SVG and React (2020)](https://datalanguage.com/blog/graphical-uis-with-svg-and-react-part-1-declarative-graphics)

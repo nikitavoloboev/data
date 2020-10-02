@@ -475,6 +475,7 @@ Here are few more things I liked, design wise.
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Frederique Matti](https://frederiquematti.com/)
 - [Blaž](https://mxxn.io/)
+- [Andrew Coyle](https://andrewcoyle.com/)
 - [Jenny Wen](http://jennywen.ca/index.html)
 - [Ryan Tsao](https://ryantsao.com/)
 - [Louis Merlin](https://louismerl.in/)

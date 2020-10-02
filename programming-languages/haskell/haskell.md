@@ -197,3 +197,4 @@
 - [Haskell Vedanta](https://karma-engineering.com/lab/wiki/Haskell/Vedanta)
 - [JSON Parsing from Scratch in Haskell (2020)](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
 - [Fast Sudoku Solver in Haskell (2018)](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
+- [Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell) ([Web](https://kowainik.github.io/projects/learn4haskell))

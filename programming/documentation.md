@@ -68,3 +68,4 @@
 - [I Love MDN, or the cult of the free in action (2020)](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html) ([HN](https://news.ycombinator.com/item?id=24159244))
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.
 - [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/))
+- [Just the Docs](https://github.com/pmarsceill/just-the-docs) - Modern, high customizable, responsive Jekyll theme for documention with built-in search.

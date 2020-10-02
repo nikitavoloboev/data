@@ -49,7 +49,8 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 6 - Resize to top left corner
 - 7 - Search selection on /r/askcience
 - 8 - New 2Do quick task
-- 9 - Typinator quick search
+- 9 - Typinator Quick Search
+- 0 - Search Alfred Snippets
 - u - Sip color picker
 - i - Tester
 - u - Open URL

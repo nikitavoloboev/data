@@ -166,3 +166,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Grant for the Web](https://www.grantfortheweb.org/) - 100M fund to boost open, fair, and inclusive standards and innovation in Web Monetization.
 - [Nerds of the 90s Web Ring](https://webringdemo.netlify.app/) ([Code](https://github.com/maxboeck/webring))
 - [Cloudflare Radar](https://radar.cloudflare.com/) ([Introduction](https://blog.cloudflare.com/introducing-cloudflare-radar/)) ([HN](https://news.ycombinator.com/item?id=24638706))
+- [Hyperlog](https://hyperlog.app/) - Search web logs of small personal websites & indie publications.

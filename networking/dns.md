@@ -44,3 +44,4 @@
 - [Secondary DNS – Deep Dive (2020)](https://blog.cloudflare.com/secondary-dns-deep-dive/)
 - [DNSimple](https://dnsimple.com/) - Secure & Simple DNS Hosting.
 - [Speeding up HTTPS and HTTP/3 negotiation with... DNS (2020)](https://blog.cloudflare.com/speeding-up-https-and-http-3-negotiation-with-dns/) ([Tweet](https://twitter.com/SimmerVigor/status/1311294630198161410))
+- [DNS Flag Day 2020](https://blog.cloudflare.com/dns-flag-day-2020/)

@@ -16,3 +16,4 @@
 - [Dropbox posts on load balancing](https://twitter.com/copyconstruct/status/1293796261414371330)
 - [Awesome Load Balancing](https://github.com/cristaloleg/awesome-load-balancing)
 - [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
+- [Ask HN: What is an acceptable latency for a web load balancer? (2020)](https://news.ycombinator.com/item?id=24661903)

@@ -2,15 +2,15 @@
 
 I try to maximize my [happiness](../life/happiness.md) and quality of life through proper [nutrition](nutrition/nutrition.md), [exercise](../fitness/fitness.md) and stress free outlook on life with [mindfulness](../mindfulness/mindfulness.md).
 
-Here are some things I am trying to improve with my health right now.
+- [Nutrition](nutrition/nutrition.md) - Eat whole food plant based nutritious diet. Optionally [supplementing](nutrition/supplements.md) when necessary.
+- [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022) & accelerates aging. Practice [mindfulness](../mindfulness/mindfulness.md) & be calm.
+- [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm and wake up without alarm getting as much sleep as my body needs.
+- [Exercise](../fitness/fitness.md) - Start every morning with some exercise. Go on walks or do exercise throughout the day when possible.
+- Dental care - Brush my teeth daily with occasional flossing.
+- [Skin care](skin-care.md) - Clean & moisturize my skin every morning with added sunscreen. Apply occasional face masks & moisturize skin & shower in evening.
+- [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouching my back and sit for long times. Take breaks. Use good chair & desk.
 
-- [Nutrition](nutrition/nutrition.md) - I eat a whole food plant based diet and take [few supplements](nutrition/supplements.md).
-- [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022). Practicing [mindfulness](../mindfulness/mindfulness.md) helps greatly in maintaining a healthy and stress free outlook on life.
-- [Proper sleep](../sleep/sleep.md) - I try go to sleep at ~ 23:00 and wake up without alarm getting as much sleep as my body needs.
-- [Exercise](../fitness/fitness.md) - I start every morning with some exercise.
-- Dental care - Brushing my teeth every morning and evening as well as flossing it few times throughout the day.
-- [Skin care](skin-care.md) - Clean & moisturize my skin every morning and evening & applying occasional face masks.
-- [Ergonomics](ergonomics.md) - Properly sitting, standing and keeping good posture throughout the day. Never slouching my back and sitting at one spot for too long.
+These health focuses are part of my [life rules](../focusing/rules.md).
 
 ## Notes
 

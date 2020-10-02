@@ -64,3 +64,4 @@
 - [Lunr.js](https://github.com/olivernn/lunr.js) - Small, full-text search library for use in the browser. Indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries. ([Web](https://lunrjs.com/))
 - [Linxy](https://golinxy.com/) - Search engine which creates feeds based on multiple input search phrases. ([HN](https://news.ycombinator.com/item?id=24564986))
 - [Awesome Algolia](https://github.com/algolia/awesome-algolia)
+- [Write an Internet search engine with 200 lines of Ruby code (2009)](https://web.archive.org/web/20191029230509/https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/)

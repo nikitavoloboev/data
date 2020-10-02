@@ -28,4 +28,4 @@
 - [Scheme C FFI](https://github.com/Mathieu-Desrochers/Schemings) ([HN](https://news.ycombinator.com/item?id=23860977))
 - [SICP done in Scheme](https://github.com/kana/sicp)
 - [Loko Scheme](https://scheme.fail/) - Optimizing R6RS Scheme compiler.
-- [Unsyntax](https://www.unsyntax.org/) - Sane implementation of R7RS Scheme.
+- [Unsyntax](https://www.unsyntax.org/) - Sane implementation of R7RS Scheme. ([Lobsters](https://lobste.rs/s/xszs7d/unsyntax_sane_implementation_r7rs))

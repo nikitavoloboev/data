@@ -1,8 +1,6 @@
 # Supplements
 
-Supplements I take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
-
-### Take
+Supplements I sometimes take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
 
 - [Magnesium](https://www.amazon.co.uk/Thorne-Research-Magnesium-Citramate-Vegetarian/dp/B0797SJ88Y) (1 capsule)
 - [Vitamin D3](https://www.amazon.co.uk/Supplement-Absorption-Cholecalciferol-Nu-Nutrition/dp/B01NC3DJK7) (1 capsule)

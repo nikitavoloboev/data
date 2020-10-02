@@ -9,3 +9,9 @@
 - [perlres](https://github.com/thibaultduponchelle/perlres) - List of resources about Perl.
 - [Try Perl](http://tryperl.pl/) - Learn the basics of the Perl language in your browser. ([Code](https://github.com/thibaultduponchelle/tryperl))
 - [RFC 188, by Damian Conway: Objects: Private keys and methods (2020)](https://raku-advent.blog/2020/08/16/rfc-188-by-damian-conway-objects-private-keys-and-methods/)
+- [The Perl Ambassador: Damian Conway (2020)](https://www.perl.com/article/the-perl-ambassador-damian-conway/)
+- [Perl.com](https://www.perl.com/) - Programming news, code and culture.
+- [Perl, the first postmodern computer language](http://www.wall.org/~larry/pm.html)
+- [Perl 5 code](https://github.com/Perl/perl5)
+- [Raku](https://raku.org/) - Newest member of the family of languages known as Perl.
+- [Raku GitHub projects](https://github.com/Raku)
