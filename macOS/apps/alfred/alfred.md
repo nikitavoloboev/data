@@ -34,6 +34,12 @@ I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) with macO
 
 ![](https://i.imgur.com/Y4oKBoT.png)
 
+## Snippets
+
+I use Alfred together with [Keyboard Maestro](../keyboard-maestro/keyboard-maestro.md) to automate text expansions. Alfred for simple expansions, KM for complex or per app expansions.
+
+![](https://i.imgur.com/vWP4lkz.png)
+
 ### Symlink workflows
 
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.

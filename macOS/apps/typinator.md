@@ -1,27 +1,6 @@
 # [Typinator](http://www.ergonis.com/products/typinator/)
 
-I use the app to [fully automate writing repetitive text](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8).
-
-## My Typinator Sets
-
-Here you can find the different Sets that I use in Typinator to speed up my writing.
-
-You can also find & download all the Typinator sets I use from [here](https://www.dropbox.com/sh/7cfwu8q2nstqw65/AACPu7r1GIWn4_WE7pFwJ_n4a?dl=0) and here is their explanation.
-
-1. Smart - Snippets with more complex embeddings like AppleScript output.
-2. Words - Single word expansions.
-3. Phrases - Some phrases I find myself saying often.
-4. Questions - Common questions I found myself asking.
-5. Dates - Expanding current date in different formats like DD/MM/YYYY.
-6. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](fantastical.md).
-
-![](https://i.imgur.com/V8FHOj4.png)
-
-> My Typinator Sets
-
-I use the same trick as in [KM](keyboard-maestro/km-macros.md) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
-
-![](https://i.imgur.com/CKyQ8gR.png)
+Used the app [previously](https://github.com/nikitavoloboev/knowledge/blob/27bdf4e90829c7f5fafe61fdaf57f0d13a2d15ed/macOS/apps/typinator.md) to automate text expansions. Now use [Alfred](alfred/alfred.md) (simple expansions) & [Keyboard Maestro](keyboard-maestro/keyboard-maestro.md) (complex) instead.
 
 ## Notes
 
