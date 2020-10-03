@@ -292,4 +292,4 @@
 - [Hacker News for ML](https://mln.dev/top/1)
 - [Think Fast: Tensor Streaming Processor for Accelerating Deep Learning Workloads (2020)](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a145/466100a145.pdf)
 - [My Deep Learning Toolchain (2020)](https://rosshemsley.co.uk/posts/deep_learning_toolchain/)
-- [igel](https://github.com/nidhaloff/igel) - Machine learning tool that allows you to train/fit, test and use models without writing code.
+- [igel](https://github.com/nidhaloff/igel) - Machine learning tool that allows you to train/fit, test and use models without writing code. ([HN](https://news.ycombinator.com/item?id=24671525))

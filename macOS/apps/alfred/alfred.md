@@ -62,6 +62,7 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 ![](https://i.imgur.com/D0NP2s3.png)
 
 - Adding `alfred:ignore` tag to files/folders will have Alfred ignore the file/folder in its searches.
+- [If you copy the selected text, then open Alfred's clipboard manager, you can use cmd+s on the selected clipboard entry, and this will open Alfred's preferences and pre-fill a snippet for you to save.](https://www.alfredforum.com/topic/15852-how-to-save-selected-text-as-alfred-snippet/)
 
 ## Links
 
