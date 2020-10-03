@@ -100,6 +100,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Mocaran](https://mocaran.com/)
+- [Brendon Burton](https://www.instagram.com/burtoo/) ([Web](https://www.brendonburton.com/))
 - [Steve Teeple](https://steveteeps.com/)
 - [Nikolai Lockertsen](https://www.artstation.com/nikolailockertsen)
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
