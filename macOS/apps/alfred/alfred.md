@@ -63,6 +63,7 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 
 - Adding `alfred:ignore` tag to files/folders will have Alfred ignore the file/folder in its searches.
 - [If you copy the selected text, then open Alfred's clipboard manager, you can use cmd+s on the selected clipboard entry, and this will open Alfred's preferences and pre-fill a snippet for you to save.](https://www.alfredforum.com/topic/15852-how-to-save-selected-text-as-alfred-snippet/)
+- File note found? Go to Alfred's preferences > Help > Troubleshooting and run the File Search Troubleshooting, dragging in some of the files you are expecting to see in your File Filter. Check the `Content Type:` field. It could be something like `com.unknown.md` instead of `net.daringfireball.markdown` you might expect.
 
 ## Links
 
