@@ -137,3 +137,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Building the Next Evolution of Cloud Networks at Slack (2020)](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack/)
 - [Gubernator](https://github.com/mailgun/gubernator) - Distributed, high performance, cloud native and stateless rate limiting service.
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Simple MT-Proto proxy.
+- [Multicast and the markets with Brian Nigito (2020)](https://overcast.fm/+hrS4EaIbk)

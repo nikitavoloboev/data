@@ -7,6 +7,7 @@
 - [Iris van Herpen's Serpent Dress](https://www.vogue.com/fashion-shows/fall-2011-couture/iris-van-herpen)
 - [Christmas creatures at Moesgaard](https://www.moesgaardmuseum.dk/en/news/christmas-creatures-at-moesgaard/)
 - [RODARTE SS21](https://twitter.com/coldtakesonly/status/1307540898394386437)
+- [Christian Dior Spring 2021 Ready-to-Wear Collection | Vogue](https://www.vogue.com/fashion-shows/spring-2021-ready-to-wear/christian-dior)
 
 ## Links
 
@@ -21,3 +22,4 @@
 - [Allbirds](https://www.allbirds.com/) - Sustainable & Comfortable Shoes.
 - [Patagonia](https://www.patagonia.com/home/) - Outdoor Clothing & Gear.
 - [Herschel](https://herschel.com/) - Backpacks, Totes & Accessories.
+- [Vogue Fashion Shows](https://www.vogue.com/fashion-shows)

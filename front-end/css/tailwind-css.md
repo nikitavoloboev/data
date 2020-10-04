@@ -31,3 +31,4 @@
 - [Kometa UI Kit](https://kitwind.io/products/kometa) - Over 130 sections, built with TailwindCSS.
 - [Tailwind CSS Resources you wish you had (2020)](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18)
 - [Statik UI](https://statik.ly/) - Modern UI kit based on Tailwind CSS.
+- [Why Tailwind CSS (2020)](https://dev.to/swyx/why-tailwind-css-2o8f) ([Tweet](https://twitter.com/swyx/status/1312603851581652994))

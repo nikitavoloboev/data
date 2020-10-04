@@ -243,3 +243,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Cosy](https://cosy.af/) - Internal company hub & workplace search.
 - [Digital Gardens list](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
 - [Kb](https://github.com/gnebbia/kb) - Text-oriented minimalist command line knowledge base manager. ([HN](https://news.ycombinator.com/item?id=24506280))
+- [List of Zettelkasten software (2020)](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
