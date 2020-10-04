@@ -341,3 +341,4 @@ Go promotes composition over inheritance.
 - [Writing multi-package analysis tools for Go (2020)](https://eli.thegreenplace.net/2020/writing-multi-package-analysis-tools-for-go/)
 - [Python and Go (2020)](https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html)
 - [Surprises and Gotchas When Working With JSON (2020)](https://www.alexedwards.net/blog/json-surprises-and-gotchas)
+- [Package Management With Go Modules: The Pragmatic Guide (2019)](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
