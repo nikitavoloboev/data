@@ -96,3 +96,8 @@
 - [Hardware Hacking Experiments - Several ways to extract firmware on embedded devices](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
 - [Ask HN: How to get into the chip industry? (2020)](https://news.ycombinator.com/item?id=24649959)
 - [Hardcaml](https://github.com/janestreet/hardcaml) - OCaml library for designing hardware.
+- [Chisel](https://github.com/freechipsproject/chisel3) - Hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. ([Web](https://www.chisel-lang.org/))
+- [Chipyard](https://github.com/ucb-bar/chipyard) - Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more.
+- [PyMTL](https://github.com/pymtl/pymtl3) - Open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.
+- [Freedom](https://github.com/sifive/freedom) - RTL created by SiFive for its Freedom E300 and U500 platforms.
+- [Berkeley Architecture Research](https://bar.eecs.berkeley.edu/) ([Code](https://github.com/ucb-bar))

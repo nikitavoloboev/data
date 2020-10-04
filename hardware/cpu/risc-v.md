@@ -43,3 +43,4 @@
 - [RIOS Lab](https://rioslab.org/) - Developing open source IP and software that helps make the RISC-V ecosystem world-class.
 - [RISC-V: What’s Missing and Who’s Competing (2020)](https://semiengineering.com/risc-v-whats-missing-and-whos-competing/) ([HN](https://news.ycombinator.com/item?id=24602264))
 - [Bluespec](https://bluespec.com/) - Open Source RISC-V Cores and Tools.
+- [DANA](https://github.com/bu-icsg/dana) - Chisel3 implementation of a fully connected neural network accelerator, DANA, supporting inference or learning.
