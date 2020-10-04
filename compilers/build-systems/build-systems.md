@@ -33,3 +33,4 @@
 - [Faster Builds with Code Signing Hacks (2020)](https://eisel.me/jekyll/update/2020/08/07/signing.html)
 - [Allowing CMake functions to return(value) (2020)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 - [The quest to the perfect Makefile (2018)](https://r4nd0m6uy.ch/the-quest-to-the-perfect-makefile.html)
+- [Build systems with Andrey Mokhov (2020)](https://overcast.fm/+hrS7F9_XA)

@@ -66,3 +66,4 @@
 - [Sting talks about his ayahuasca experience (2019)](https://www.youtube.com/watch?v=k3nUVM-v0qU)
 - ["Entity" Contact on DMT (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/hrhmh0/entity_contact_on_dmt/)
 - [Ayahuasca sends neuroscientist to DMT world | Dr. James Cooke [trip report] (2020)](https://www.youtube.com/watch?v=wSr0MteWM2g)
+- [I can’t find any evidence that DMT is produced in the human body (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/j4g5ef/i_cant_find_any_evidence_that_dmt_is_produced_in/)

@@ -95,3 +95,4 @@
 - [Computers Are Hard: hardware with Greg Kroah-Hartman (2020)](https://medium.com/computers-are-hard/computers-are-hard-hardware-with-greg-kroah-hartman-4be2d31c3126)
 - [Hardware Hacking Experiments - Several ways to extract firmware on embedded devices](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
 - [Ask HN: How to get into the chip industry? (2020)](https://news.ycombinator.com/item?id=24649959)
+- [Hardcaml](https://github.com/janestreet/hardcaml) - OCaml library for designing hardware.

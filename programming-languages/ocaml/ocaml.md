@@ -51,3 +51,4 @@
 - [OCaml Scientific Computing Book](https://ocaml.xyz/book/) - Functional programming meets data science. ([HN](https://news.ycombinator.com/item?id=24269368)) ([Draft discussion](https://discuss.ocaml.org/t/ann-draft-of-ocaml-scientific-computing-book/6291))
 - [OCaml for Scientists](https://www.ffconsultancy.com/products/ocaml_for_scientists/index.html)
 - [OCaml 2020 All Videos](https://www.youtube.com/playlist?list=PLKO_ZowsIOu5fHjRj0ua7_QWE_L789K_f)
+- [OCaml-Java](http://www.ocamljava.org/) - Run OCaml code on a JVM, and manipulate Java entities from OCaml.
