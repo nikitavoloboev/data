@@ -64,3 +64,4 @@
 - [Replay](https://replay.io/) - Record and replay web applications.
 - [theheadless.dev](https://theheadless.dev/) - Learn Puppeteer & Playwright. ([HN](https://news.ycombinator.com/item?id=24209073)) ([Code](https://github.com/checkly/theheadless.dev))
 - [Rumin Web Clipper](https://github.com/jhlyeung/rumin-web-clipper) - Browser extension for Rumin which allows you to save learnings from online resources. ([HN](https://news.ycombinator.com/item?id=24461070))
+- [Browser Focus Rings (2020)](https://www.notion.so/Focus-Rings-4459faa9d1f643728ca8dde145a89900) - How making accessible, consistent, and elegant focus rings in browsers is actually a hard problem.
