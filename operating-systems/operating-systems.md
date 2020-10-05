@@ -19,7 +19,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [mikado](https://github.com/cavedweller/mikado) - RISC-V Experimental OS.
 - [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs. ([HN](https://news.ycombinator.com/item?id=22087701))
 - [Barebones](https://github.com/fwsGonzo/barebones) - Barebones multiboot kernel for beginners.
-- [xv6](https://github.com/mit-pdos/xv6-public) - Re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6. ([Paper](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)) ([HN](https://news.ycombinator.com/item?id=22511569)) ([HN 2](https://news.ycombinator.com/item?id=24567993))
+- [xv6](https://github.com/mit-pdos/xv6-public) - Re-implementation of Dennis Ritchie's and Ken Thompson's simple, Unix-like teaching operating system. ([PDF](https://pdos.csail.mit.edu/6.828/2020/xv6/book-riscv-rev1.pdf)) ([HN](https://news.ycombinator.com/item?id=22511569)) ([HN 2](https://news.ycombinator.com/item?id=24567993))
 - [xv6 for RISC-V](https://github.com/mit-pdos/xv6-riscv)
 - [Orange Slice](https://github.com/gamozolabs/orange_slice) - Research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - Open source Virtual Machine Monitor (VMM) that runs on top of KVM.
@@ -93,7 +93,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
 - [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.
-- [MIT Operating Systems Engineering course using RISC-V](https://pdos.csail.mit.edu/6.828/2019/schedule.html)
+- [MIT Operating Systems Engineering course using RISC-V (2020)](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
 - [fectl](https://github.com/fafhrd91/fectl) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 - [1001 Ways of Implementing a System Call (2019)](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 - [How I Switched To Plan 9 (2019)](http://helpful.cat-v.org/Blog/2019/12/03/0/)
