@@ -94,6 +94,7 @@ And these Discord servers:
 - [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
 - [NOWNESS](https://www.nowness.com/)
 - [InputMag](https://www.inputmag.com/)
+- [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
 
 ### Other
 

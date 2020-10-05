@@ -28,3 +28,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [‘Electric mud’ teems with new, mysterious bacteria (2020)](https://www.sciencemag.org/news/2020/08/electric-mud-teems-new-mysterious-bacteria) ([HN](https://news.ycombinator.com/item?id=24233544))
 - [Life is Short (2016)](http://paulgraham.com/vb.html) ([HN](https://news.ycombinator.com/item?id=24313158))
 - [On the Use of a Life (2020)](http://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html) ([HN](https://news.ycombinator.com/item?id=24537865)) ([Lobsters](https://lobste.rs/s/d8wxhi/on_use_life))
+- [Life's Small-Molecule Problem (2020)](https://www.scientificamerican.com/article/lifes-small-molecule-problem/)

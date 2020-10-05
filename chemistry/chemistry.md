@@ -10,3 +10,8 @@
 - [The 2019 Nobel Prize in Chemistry - Lithium Ion Batteries](https://www.youtube.com/watch?v=zy1BhVhpGN0)
 - [Quantum Chemistry - Introduction](https://www.youtube.com/watch?v=HC81oYe43DI)
 - [Marie Curie's PhD thesis (2020)](https://www.youtube.com/watch?v=-Vynhniw7SY)
+- [Organic Chemistry Portal](https://www.organic-chemistry.org/)
+- [The Vespiary](https://www.thevespiary.org/talk/index.php) - Virtual encyclopedia of drug synthesis, precursor synthesis and drug pharmacology with many links.
+- [What gear/glassware should I need for some easy beginner synths and what should my budget be? (2020)](https://www.reddit.com/r/TheeHive/comments/j05ybe/what_gearglassware_should_i_need_for_some_easy/)
+- [What should a beginner do to get started synthesizing? (2020)](https://www.reddit.com/r/TheeHive/comments/ikyfrw/what_should_a_beginner_do_to_get_started/)
+- [Chemify](http://www.chem.gla.ac.uk/cronin/chemify/) - Project dedicated to making chemical synthesis accessible to everyone, regardless of training. ([Code](https://github.com/croningp/ChemputerSoftware))

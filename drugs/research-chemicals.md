@@ -34,3 +34,5 @@
 - [Favorite RC's, list and why (2020)](https://www.reddit.com/r/researchchemicals/comments/if103b/favorite_rcs_list_and_why_and_go/)
 - [Most enjoyable RC's in your opinion? (2020)](https://www.reddit.com/r/researchchemicals/comments/ip4js0/most_enjoyable_rcs_in_your_opinion/)
 - [Why did you get the last chems you did? (2020)](https://www.reddit.com/r/researchchemicals/comments/irh069/why_did_you_get_the_last_chems_you_did/)
+- [Synex Synthetics](https://www.synexsynthetics.com/) - Chemical manufacturer providing specialist synthesis solutions to the global life science and chemical industries. Supply to [LizardLabs](https://lizardlabs.eu/).
+- [Lizard Labs](https://lizardlabs.eu/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds.

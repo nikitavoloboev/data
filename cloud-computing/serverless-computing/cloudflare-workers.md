@@ -19,3 +19,4 @@
 - [My Blog Just Got Faster: Cloudflare Workers and AVIF Support (2020)](https://endler.dev/2020/perf)
 - [Cloudflare Edge Chat Demo](https://github.com/cloudflare/workers-chat-demo/) - Demo app written on Cloudflare Workers utilizing Durable Objects to implement real-time chat with stored history. This app runs 100% on Cloudflare's edge.
 - [Workers Durable Objects Beta: A New Approach to Stateful Serverless (2020)](https://blog.cloudflare.com/introducing-workers-durable-objects/)
+- [Built with Cloudflare Workers](https://workers.cloudflare.com/built-with)

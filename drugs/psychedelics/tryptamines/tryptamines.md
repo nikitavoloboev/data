@@ -43,3 +43,4 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [5-MeO-DMT Reports](https://erowid.org/experiences/subs/exp_5MeODMT.shtml)
 - [Elevate Symposium Zurich June 10th 2018 Panel Discussion](https://www.youtube.com/watch?v=HkywHPPyHUQ)
 - [New Biosynthesis of Psilocybin and Related Tryptamines (2020)](https://psychedelicreview.com/scientists-bioengineer-s-cerevisiae-to-produce-psilocybin-and-related-tryptamines/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/gsll79/psilocybin_4acodmt_and_other_tryptamines_produced/))
+- [Conversion of DMT to 4acodmt/4homet (2020)](https://www.reddit.com/r/TheeHive/comments/j1gr6f/conversion_of_dmt_to_4acodmt4homet/)

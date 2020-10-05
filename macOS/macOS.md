@@ -103,3 +103,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [What should I do after getting my (first) own new Macbook? (2020)](https://lobste.rs/s/uzdehw/what_should_i_do_after_getting_my_first_own)
 - [macOS Simple KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 - [HN: Apple’s T2 security chip jailbreak (2020)](https://news.ycombinator.com/item?id=24636166)
+- [Apple's macOS SDKs](https://github.com/alexey-lysiuk/macos-sdk)

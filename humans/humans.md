@@ -24,6 +24,8 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [A Conversation with Bertrand Russell (1952)](https://www.youtube.com/watch?v=fb3k6tB-Or8)
 - [Musical.ly's Alex Zhu on Igniting Viral Growth and Building a User Community (2016)](https://www.youtube.com/watch?v=wTyg2E44pBA) ([Notes](https://www.notion.so/Alex-Zhu-Musical-ly-TikTok-4631f80fdcc4423a845e145e807d8e2b))
 - [Creative challenges with Alyssa X](https://nesslabs.com/alyssa-x-interview)
+- [The Observer Effect – Daniel Ek (2020)](https://www.theobservereffect.org/daniel.html)
+- [The Observer Effect – Marc Andreessen](https://www.theobservereffect.org/marc.html)
 
 ## Interesting bios
 

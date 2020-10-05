@@ -124,6 +124,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Ariel González Losada](https://www.flickr.com/people/99778654@N05/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Salman Toor](https://www.salmantoor.com/)
+- [Marilyn Mugot](https://www.instagram.com/mary_wolf/) ([Web](https://www.marilynmugot.com/night-project/)) ([Behance](https://www.behance.net/marilynmugot))
 - [Andrew Williamson](https://andrewwilliamson.net/)
 - [James White](https://signalnoise.com/) - Retro 80s.
 - [Cornelius Dämmrich](https://corneliusdammrich.com/) - Creates CG environments with a combination of various 3d softwares and tools.
