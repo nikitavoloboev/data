@@ -110,3 +110,4 @@
 - [Rafting Trip](https://dabeaz.com/raft.html) - Learn about network programming, concurrency, distributed systems, and more as you tackle the challenge of implementing the Raft distributed consensus algorithm.
 - [Resources for learning distributed systems (2020)](https://lobste.rs/s/vuevqu/resources_for_learning_distributed)
 - [Workload isolation using shuffle-sharding (2020)](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
+- [Consensus is Harder Than It Looks (2020)](http://brooker.co.za/blog/2020/10/05/consensus.html)

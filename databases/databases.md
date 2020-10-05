@@ -213,3 +213,4 @@
 - [Berkeley: Introduction to Database Systems course (2020)](https://cs186berkeley.net/)
 - [The Datacenter as a Computer](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F09/wharehousesizedcomputers.pdf) - Introduction to the Design of Warehouse-Scale Machines.
 - [Database migrations lessons learned (2020)](https://octopus.com/blog/database-migrations-lessons-learned)
+- [Delos: Simple, flexible control plane storage (2019)](https://engineering.fb.com/data-center-engineering/delos/)

@@ -70,3 +70,4 @@
 - [Tracking Jupyter newsletter](https://tinyletter.com/TrackingJupyter/)
 - [Text2Code for Jupyter notebook](https://github.com/deepklarity/jupyter-text2code) - Proof-of-concept jupyter extension which converts english queries into relevant python code.
 - [Notebook.community](https://notebook.community/) - Effort to archive the most interesting open-source Jupyter notebooks.
+- [How TensorFlow docs uses Jupyter notebooks (2020)](https://blog.tensorflow.org/2020/10/how-tensorflow-docs-uses-juypter-notebooks.html)

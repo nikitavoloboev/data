@@ -149,6 +149,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)
 - [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)
+- [Wenqing Yan](https://www.yuumeiart.com/) ([Twitter](https://twitter.com/Yuumei_Art))
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Betty Jiang](https://www.instagram.com/kawaiibettyjiang/)
 - [Jim](https://jimllpaintit.tumblr.com/)

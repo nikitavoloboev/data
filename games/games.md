@@ -112,3 +112,6 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Roblox is a MUD: The history of MUDs, virtual worlds and MMORPGs (2020)](https://medium.com/@felipepepe/roblox-is-a-mud-the-history-of-virtual-worlds-muds-mmorpgs-12e41c4cb9b) ([HN](https://news.ycombinator.com/item?id=24221010))
 - [GameTrack](https://gametrack.app/) - Making managing your games collection easy and enjoyable.
 - [Ajour](https://www.getajour.com/) - World of Warcraft addon manager written in Rust. ([Code](https://github.com/casperstorm/ajour))
+- [Paradox Interactive](https://www.paradoxplaza.com/) - Global publisher of strategy games.
+- [Epic Games Store](https://www.epicgames.com/store/en-US/)
+- [Steam Store](https://store.steampowered.com/)
