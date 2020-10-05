@@ -9,6 +9,7 @@
 - [HiWarp](https://www.hiwarp.com/) - Indie Game Studio.
 - [5 Lives Studios](http://5livesstudios.com/)
 - [Frictional Games](https://frictionalgames.blogspot.com/) - Creators of Penumbra, Amnesia and SOMA.
+- [Embark Studios](https://www.embark-studios.com/) - Stockholm-based games studio.
 
 ## Notes
 

@@ -110,6 +110,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - You don't need expensive recording studio. It's just recording conversations.
 - Basic audio editing is easy to learn. You can use free tools like GarageBand and Audacity.
 - Podcasts are not necessarily live. You can edit out the parts that go off topic.
+- Can use a mirror for podcast interviews. Can look nice like [here](https://www.youtube.com/watch?v=ecKgqJRvZ5M).
 
 ## Links
 

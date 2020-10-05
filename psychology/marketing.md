@@ -11,6 +11,7 @@
   2. Design boldly. Bold design stands out.
   3. Write simply. Easy-to-understand ideas win.
   4. Data = your friend. Use Junglescout, Redditlist to gain intelligence.
+- [5 ways to monetize your open source project as an individual: 1. Ads 2. Licensing 3. Consulting 4. Sponsors 5. Premium Code](https://twitter.com/zenorocha/status/1313140411699920899)
 
 ## Links
 
