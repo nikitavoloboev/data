@@ -143,3 +143,5 @@
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [Catch Breaking Changes by Diffing API Traffic (2020)](https://www.akitasoftware.com/blog/2020/9/22/faster-better-earlier-catch-breaking-changes-by-diffing-api-behavior) ([HN](https://news.ycombinator.com/item?id=24561119))
 - [Cloudflare API Shield (2020)](https://blog.cloudflare.com/introducing-api-shield/)
+- [Abstract API](https://www.abstractapi.com/) - Suite of fast, accurate, & robust APIs.
+- [Stargate](https://github.com/stargate/stargate) - Open source API framework for data. Data gateway deployed between client applications and a database. ([Web](https://stargate.io/)) ([Hello GraphQL; meet Cassandra](https://stargate.io/2020/10/05/hello-graphql.html))
