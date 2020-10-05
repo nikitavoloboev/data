@@ -92,3 +92,5 @@
 - [Clouddraw](https://clouddraw.app/) - Create cloud architecture diagrams in minutes.
 - [Introduction to the Modeling and Analysis of Complex Systems (2015)](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)
 - [Performance Engineering of Software Systems MIT course (2018)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/index.htm)
+- [SRE Classroom: exercises for non-abstract large systems design](https://cloud.google.com/blog/products/devops-sre/join-sre-classroom-nalsd-workshops)
+- [SRE Classroom: Distributed PubSub](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)

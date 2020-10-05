@@ -305,7 +305,7 @@
 - [Perfect Arrows](https://github.com/steveruizok/perfect-arrows) - Set of functions for drawing perfect arrows between points and shapes.
 - [Autocomplete.js](https://github.com/algolia/autocomplete.js) - Fast and full-featured autocomplete library.
 - [urlcat](https://github.com/balazsbotond/urlcat) - URL builder library for JavaScript. ([Docs](https://urlcat.dev/))
-- [Diagram Maker](https://github.com/awslabs/diagram-maker) - Library to display an interactive editor for any graph-like data. ([Docs](https://awslabs.github.io/diagram-maker/))
+- [Diagram Maker](https://github.com/awslabs/diagram-maker) - Library to display an interactive editor for any graph-like data. ([Docs](https://awslabs.github.io/diagram-maker/)) ([HN](https://news.ycombinator.com/item?id=24688860))
 
 ## Links
 

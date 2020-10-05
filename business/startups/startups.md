@@ -217,7 +217,7 @@
 - [MakeHub](https://makehub.io/) - Discover bootstrapped startups.
 - [Resources on product-market fit (2020)](https://www.indiehackers.com/post/any-resources-on-product-market-fit-10af7cca2b)
 - [Clearest sign of finding product-market fit is feeling "pull" from the market. How does it look like?](https://twitter.com/lennysan/status/1311350222883139584)
-- [How we built a \$1m ARR SaaS startup – Canny (2020)](https://canny.io/blog/how-we-built-a-1m-arr-saas-startup/) ([Tweet TLDR](https://twitter.com/sarahhum/status/1311364411702075394))
+- [How we built a \$1m ARR SaaS startup – Canny (2020)](https://canny.io/blog/how-we-built-a-1m-arr-saas-startup/) ([Tweet TLDR](https://twitter.com/sarahhum/status/1311364411702075394)) ([HN](https://news.ycombinator.com/item?id=24689339))
 - [FundedVentures](https://fundedventures.com/freeleads.html) - List of startups that just got funded.
 
 ## Images
