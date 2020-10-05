@@ -119,3 +119,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([Code](https://github.com/uwplse))
 - [Your Language Sucks, It Doesn’t Matter (2020)](https://matklad.github.io//2020/09/13/your-language-sucks.html) ([Lobsters](https://lobste.rs/s/zp2pqd/your_language_sucks_it_doesn_t_matter))
 - [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) ([HN](https://news.ycombinator.com/item?id=24642134))
+- [Deep learning to translate between programming languages (2020)](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
