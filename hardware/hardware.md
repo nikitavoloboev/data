@@ -101,3 +101,6 @@
 - [PyMTL](https://github.com/pymtl/pymtl3) - Open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.
 - [Freedom](https://github.com/sifive/freedom) - RTL created by SiFive for its Freedom E300 and U500 platforms.
 - [Berkeley Architecture Research](https://bar.eecs.berkeley.edu/) ([Code](https://github.com/ucb-bar))
+- [Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) ([HN](https://news.ycombinator.com/item?id=24680109))
+- [The History of the Microprocessor and the Personal Computer (2020)](https://www.techspot.com/article/874-history-of-the-personal-computer/)
+- [Accelerating Sparse Matrix-Matrix Multiplication with GPU Tensor Cores (2020)](https://arxiv.org/abs/2009.14600) ([HN](https://news.ycombinator.com/item?id=24681914))

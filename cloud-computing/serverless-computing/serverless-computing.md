@@ -62,3 +62,4 @@
 - [Cloud Foundry CLI](https://github.com/cloudfoundry/cli)
 - [Building a Modern-Day Hit Counter (2020)](https://joshwcomeau.com/react/serverless-hit-counter/) - Shows how I use FaunaDB and serverless functions to use dynamic user-generated data in my static Gatsby site. ([HN](https://news.ycombinator.com/item?id=24617086))
 - [Serverless for data scientists (2019)](https://mike.place/2019/serverless-for-data-scientists/)
+- [Strategies Scalable Web Architecture](https://gist.github.com/erwindev/a6b28231f3c7798180925b82772f63df)

@@ -68,3 +68,4 @@
 - [Adding Search to Gatsby Blog (2020)](https://www.thomas.wang/blog/adding-search)
 - [Why did I give up using Gatsby for my blog? (2020)](https://eshlox.net/2020/08/15/why-did-i-give-up-using-gatsby-for-my-blog)
 - [An Honest Review of Gatsby (2020)](https://cra.mr/an-honest-review-of-gatsby/) ([HN](https://news.ycombinator.com/item?id=24670252))
+- [Gatsby vs. Next.js (2020)](https://jaredpalmer.com/gatsby-vs-nextjs)

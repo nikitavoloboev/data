@@ -57,3 +57,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Syllabus for Eric's PhD Students (2020)](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview?pru=AAABdEtovic*vkWoyIJP-56-mWWnA923aA) ([HN](https://news.ycombinator.com/item?id=24274699))
 - [How to Pick Your Grad School (2020)](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/)
 - [EdTech trends (2020)](https://twitter.com/meaganloyst/status/1310966914248736773)
+- [Why I Left My Tenured Academic Job (2020)](https://reyammer.io/blog/2020/10/03/the-good-the-bad-and-the-bye-bye-why-i-left-my-tenured-academic-job/) ([HN](https://news.ycombinator.com/item?id=24677171))

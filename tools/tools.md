@@ -293,7 +293,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Data Puller](https://github.com/austil/datapuller) - Easy" data dump of your activity on various web services.
 - [Short](https://github.com/byliuyang/short) - URL shortening service written in Go and React.
 - [Twitter-Following-To-List-Migration](https://github.com/zackshapiro/Twitter-Following-To-List-Migration) - Creates a new list and adds all accounts you are following to that list, then unfollows them all.
-- [Excalidraw](https://www.excalidraw.com) - Sketch hand-drawn like diagrams. ([Code](https://github.com/excalidraw/excalidraw))
+- [Excalidraw](https://www.excalidraw.com) - Sketch hand-drawn like diagrams. ([Code](https://github.com/excalidraw/excalidraw)) ([Excalidraw Embed](https://github.com/excalidraw/excalidraw-embed))
 - [SketchViz](https://sketchviz.com/new) - Create Graphviz graphs.
 - [OverAPI](http://overapi.com/) - Collecting All Cheat Sheets.
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.

@@ -18,3 +18,4 @@
 - [Showkase](https://github.com/airbnb/Showkase) - Annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements.
 - [Jetpack Compose Samples](https://github.com/android/compose-samples)
 - [Understanding Jetpack Compose (2020)](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
+- [Android In a Box](https://anbox.io/) - Run Android applications on any GNU/Linux operating system. ([HN](https://news.ycombinator.com/item?id=24684187))

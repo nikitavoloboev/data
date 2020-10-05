@@ -111,3 +111,4 @@
 - [Bulletproof Next](https://getstarted.sh/bulletproof-next) - Be an expert in Next.js.
 - [Blogging on Next.js: Generating static index pages](https://javacrisps.com/posts/nextjs-static-fun) ([HN](https://news.ycombinator.com/item?id=24558784))
 - [Quirrel](https://quirrel.dev/) - Job Queueing for Next.js x Vercel.
+- [Create a Next.js RSS feed for your static website (2020)](https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js)

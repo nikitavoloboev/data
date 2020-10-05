@@ -331,3 +331,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [GUIs Through Art History](https://hyperlink.academy/courses/guis-through-art-history/2) - Explore new styles of interface design inspired by art history movements.
 - [TASCHEN Books](https://www.taschen.com/) - Publisher of books on art, architecture, design and photography.
 - [AmorFati](https://amorfati.substack.com/) - Personal mood board of art, poetry, photography, and architecture, that has moved me.
+- [Corruption Is Attractive (2020)](https://venam.nixers.net/blog/programming/2020/10/05/corruption-at-the-core.html)

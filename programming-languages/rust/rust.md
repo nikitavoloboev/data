@@ -329,3 +329,5 @@
 - [A Fistful of States: More State Machine Patterns in Rust (2020)](https://deislabs.io/posts/a-fistful-of-states/)
 - [Rust lets us monitor 30k API calls/min (2020)](https://blog.bearer.sh/how-rust-lets-us-monitor-30k-api-calls-min/) ([HN](https://news.ycombinator.com/item?id=24661395))
 - [Rust Starter Kit 2020](https://wiki.alopex.li/RustStarterKit2020) ([HN](https://news.ycombinator.com/item?id=24671403))
+- [Drop order in Rust: It's tricky (2020)](https://vojtechkral.github.io/blag/rust-drop-order/)
+- [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/) ([HN](https://news.ycombinator.com/item?id=24687685))

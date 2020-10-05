@@ -29,3 +29,4 @@
 - [SICP done in Scheme](https://github.com/kana/sicp)
 - [Loko Scheme](https://scheme.fail/) - Optimizing R6RS Scheme compiler.
 - [Unsyntax](https://www.unsyntax.org/) - Sane implementation of R7RS Scheme. ([Lobsters](https://lobste.rs/s/xszs7d/unsyntax_sane_implementation_r7rs))
+- [s7 Scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html) - Scheme implementation intended as extension language for other applications. ([HN](https://news.ycombinator.com/item?id=24687031))

@@ -36,7 +36,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 7 - New Kap recording
 - 8 - Show Launchpad
 - 9 - Picture of screen -> Clipboard
-- 0 - Picture of screen -> ~/Desktop
+- 0 - Picture of screen -> \~/Desktop
 
 ## OPT+CTRL+CMD
 
@@ -62,6 +62,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 
 ## CMD+OPT+SHIFT
 
+- 4 - Screenshot -> CleanShot (cloud)
 - 5 - PixelSnap
 - 6 - Toggle Night Shift on/off.
 - 7 - Selection -> Google Lucky

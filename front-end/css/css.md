@@ -208,3 +208,5 @@
 - [blocks.css](https://thesephist.github.io/blocks.css/) - Add some dimension to your page with blocks. ([Code](https://github.com/thesephist/blocks.css))
 - [Making a Rotating Icon Button in React (2020)](https://steveruiz.me/posts/rotating-icon-button)
 - [Finding The Root Cause of a CSS Bug (2020)](https://ishadeed.com/article/finding-the-root-cause/)
+- [CSS Demystified](https://cssdemystified.com/) - Start writing CSS with confidence.
+- [A Complete Guide to CSS Media Queries (2020)](https://css-tricks.com/a-complete-guide-to-css-media-queries/)

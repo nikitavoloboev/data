@@ -108,3 +108,5 @@
 - [The Reactive Principles](https://principles.reactive.foundation/) - Design Principles for Distributed Applications.
 - [Paxi](https://github.com/ailidani/paxi) - Framework that implements WPaxos and other Paxos protocol variants.
 - [Rafting Trip](https://dabeaz.com/raft.html) - Learn about network programming, concurrency, distributed systems, and more as you tackle the challenge of implementing the Raft distributed consensus algorithm.
+- [Resources for learning distributed systems (2020)](https://lobste.rs/s/vuevqu/resources_for_learning_distributed)
+- [Workload isolation using shuffle-sharding (2020)](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)

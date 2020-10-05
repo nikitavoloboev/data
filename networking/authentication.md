@@ -71,3 +71,4 @@
 - [ORY Hydra](https://github.com/ory/hydra) - Hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption.
 - [The different kinds of authentication protocols](https://www.devever.net/~hl/auth)
 - [gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2).
+- [What's in a JWT (Json Web Token)? (2020)](https://loige.co/whats-in-a-jwt/)

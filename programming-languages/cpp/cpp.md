@@ -126,3 +126,5 @@
 - [What is the standard Library? (2020)](https://cor3ntin.github.io/posts/std/)
 - [Performance Matters - Emery Berger (2020)](https://www.youtube.com/watch?v=koTf7u0v41o)
 - [C++: The Good Parts](https://www.infoq.com/presentations/c-plus-plus-pros/) ([HN](https://news.ycombinator.com/item?id=24647402))
+- [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)

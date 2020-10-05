@@ -29,7 +29,6 @@
 - [Interview with Alistair Fulton (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=-tzKMHTdoe8)
 - [Extending LoRaWAN's reach - Nicolas Sornin (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=pHq7_rgDyFA)
 - [From zero to LoRaWAN in a weekend (2018)](https://github.com/ttn-zh/ic880a-gateway/wiki)
-- [LoRa Server](https://github.com/brocaar/loraserver) - Open-source LoRaWAN network-server.
 - [LoRaWAN and the Ocean Cleanup - Jasper den Hartog (MCS) (2019)](https://www.youtube.com/watch?v=E5huiCbVR5A)
 - [Lacuna Space](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
 - [Can someone give me the rundown on LoRa? (2019)](https://www.reddit.com/r/IOT/comments/bzd2q0/can_someone_give_me_the_rundown_on_lora/)
@@ -51,3 +50,4 @@
 - [We build a \$20 LoRa Satellite Ground Station and we follow the FossaSat-1 launch (2019)](https://www.youtube.com/watch?v=5k0aM-PJzo8) ([HN](https://news.ycombinator.com/item?id=24519340))
 - [Arduino Library for The Things Node](https://github.com/TheThingsNetwork/arduino-node-lib)
 - [LoRa packet forwarder](https://github.com/Lora-net/packet_forwarder) - Program running on the host of a Lora gateway that forwards RF packets receive by the concentrator to a server through a IP/UDP link, and emits RF packets that are sent by the server.
+- [ChirpStack](https://www.chirpstack.io/) - Open-source LoRaWAN Network Server stack. ([Code](https://github.com/brocaar/chirpstack-network-server))

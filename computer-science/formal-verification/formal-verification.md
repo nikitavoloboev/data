@@ -37,3 +37,4 @@
 - [An introduction to Formal Verification for Software Systems (2020)](https://www.moritz.systems/blog/an-introduction-to-formal-verification/)
 - [Proof Engineering](https://proofengineering.org/) - Specifying, building, verifying, and maintaining software systems using proof assistants such as Coq, Isabelle/HOL, and HOL4.
 - [Software Engineering and Formal Methods 2020](https://event.cwi.nl/sefm2020/)
+- [The Assembly Language of Satisfiability (2020)](https://jix.one/the-assembly-language-of-satisfiability/)

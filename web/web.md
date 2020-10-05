@@ -167,3 +167,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Nerds of the 90s Web Ring](https://webringdemo.netlify.app/) ([Code](https://github.com/maxboeck/webring))
 - [Cloudflare Radar](https://radar.cloudflare.com/) ([Introduction](https://blog.cloudflare.com/introducing-cloudflare-radar/)) ([HN](https://news.ycombinator.com/item?id=24638706))
 - [Hyperlog](https://hyperlog.app/) - Search web logs of small personal websites & indie publications.
+- [The Odin Project](https://www.theodinproject.com/) - Full stack curriculum.
+- [CS50's Web Programming with Python and JavaScript (2020)](https://cs50.harvard.edu/web/2020/)

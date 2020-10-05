@@ -76,3 +76,5 @@
 - [Essential Reference for the Clojure Standard Library](https://freecontent.manning.com/meet-the-clojure-standard-library/)
 - [Local memoized recursive functions (2020)](https://quanttype.net/posts/2020-09-20-local-memoized-recursive-functions.html)
 - [Clojure Notes](https://github.com/gnebbia/clojure_notes)
+- [I will never let monads be in a Clojure project (2018)](https://grishaev.me/en/no-monads/)
+- [Going faster than TensorFlow with Clojure (2020)](https://dragan.rocks/articles/20/Going-faster-than-TensorFlow-with-Clojure)

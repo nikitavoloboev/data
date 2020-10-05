@@ -97,3 +97,4 @@
 - [Playtronica](https://playtronica.com/) - Interactive toolkit and playground. Turn any object alive using our prototyping instruments.
 - [Adio](https://www.adio.app/) - Collaborative songwriting platform for bands and musicians.
 - [Discover MIDI Guide](https://imitone.com/discover-midi/)
+- [pureMix](https://www.puremix.net/) - Learn mixing. ([Courses](https://www.puremix.net/tutorials/all-courses.html))
