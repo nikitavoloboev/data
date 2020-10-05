@@ -81,4 +81,3 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [ViewBlock](https://viewblock.io/) - Blockchain exploration for the masses.
 - [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) ([HN](https://news.ycombinator.com/item?id=24569083))
 - [DAO Landscape](https://github.com/parrachia/DAO-Landscape)
-- [Distributed Computing - Consensus (Book) (2016)](https://bitcoinschool.gr/slides/session3.pdf)
