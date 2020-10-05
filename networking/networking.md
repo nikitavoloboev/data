@@ -138,3 +138,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Gubernator](https://github.com/mailgun/gubernator) - Distributed, high performance, cloud native and stateless rate limiting service.
 - [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Simple MT-Proto proxy.
 - [Multicast and the markets with Brian Nigito (2020)](https://overcast.fm/+hrS4EaIbk)
+- [NetworKit](https://github.com/networkit/networkit) - Open-source tool suite for high-performance network analysis. Its aim is to provide tools for the analysis of large networks in the size range from thousands to billions of edges. ([Web](https://networkit.github.io/))

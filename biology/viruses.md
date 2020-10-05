@@ -34,3 +34,4 @@
 - [c-19 Long Hauling (2020)](https://blog.rumyra.com/2020-08-14-c-19-long-hauling/)
 - [A Mechanist's Guide to the Coronavirus Genome (2020)](https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome) ([Tweet](https://twitter.com/csvoss/status/1295458745833594880))
 - [Analysis of the SARS-CoV-2 genome](https://github.com/nqureshi/sars-cov-2)
+- [How COVID-19 can cause psychological problems (2020)](https://www.youtube.com/watch?v=LIOxKVrVRy4)
