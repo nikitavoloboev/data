@@ -12,6 +12,8 @@ I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows#p
 
 This workflow also searches through all folders in this wiki and lets me create new folders inside those folders or create new entries (md files) inside the folders.
 
+I also wrote a [comment that goes in more detail over the ways I update the wiki](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki#c_vczr1n).
+
 ## Editing on iOS
 
 I place this [knowledge](https://github.com/nikitavoloboev/knowledge) folder in Dropbox. Then I use [Ulysses](https://ulyssesapp.com) iOS app to edit this entire wiki from the app by adding it as an external folder. Ulysses indexes the entire wiki so I can jump to any file in the folder in seconds and make an edit.
@@ -244,3 +246,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Digital Gardens list](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
 - [Kb](https://github.com/gnebbia/kb) - Text-oriented minimalist command line knowledge base manager. ([HN](https://news.ycombinator.com/item?id=24506280))
 - [List of Zettelkasten software (2020)](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
+- [What {note taking|team wiki|personal wiki|external brain} tool do you use? (2020)](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
