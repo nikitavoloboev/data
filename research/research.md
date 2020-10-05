@@ -66,3 +66,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The Book of Why: The New Science of Cause and Effect (2018)](http://cdar.berkeley.edu/wp-content/uploads/2017/04/Lisa-Goldberg-reviews-The-Book-of-Why.pdf) ([HN](https://news.ycombinator.com/item?id=24487135))
 - [Lecture Notes on Design & Analysis of Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments)
 - [Nature Scientific Reports](https://www.nature.com/srep/)
+- [NobelPrize.org](https://www.nobelprize.org/) - Set of annual international awards on science.

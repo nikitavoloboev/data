@@ -6,3 +6,4 @@
 - [Smaller HTML Payloads with Service Workers (2020)](https://philipwalton.com/articles/smaller-html-payloads-with-service-workers/)
 - [Service Worker Cookbook](https://serviceworke.rs/) - Collection of working, practical examples of using service workers in modern web sites. ([Code](https://github.com/mozilla/serviceworker-cookbook/))
 - [Workbox API](https://developers.google.com/web/tools/workbox/) - JavaScript Libraries for adding offline support to web apps.
+- [How to Fix the Refresh Button When Using Service Workers (2017)](https://redfin.engineering/how-to-fix-the-refresh-button-when-using-service-workers-a8e27af6df68)

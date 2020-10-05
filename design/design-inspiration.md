@@ -10,6 +10,7 @@ Here are few more things I liked, design wise.
 - [Framer](https://www.framer.com/)
 - [Linear](https://linear.app/)
 - [Apple](https://www.apple.com/)
+- [Primer](https://www.withprimer.com/)
 - [Supernotes](https://supernotes.app/)
 - [Mailbrew](https://mailbrew.com/)
 - [Fey](https://feyapp.com/)
