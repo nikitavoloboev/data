@@ -42,3 +42,4 @@
 - [Django Best Practices: Security (2020)](https://learndjango.com/tutorials/django-best-practices-security)
 - [LearnDjango](https://learndjango.com/) - Django Tutorials.
 - [Django Dynamic Fixture](https://github.com/paulocheque/django-dynamic-fixture) - Complete library to create dynamic model instances for testing purposes.
+- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/products/two-scoops-of-django-3-x)
