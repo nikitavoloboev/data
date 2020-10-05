@@ -197,6 +197,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Brutality of Life Reading List](https://www.sonyasupposedly.com/brutality-books/) ([HN](https://news.ycombinator.com/item?id=24458522))
 - [Some good books](https://slate.host/haris/books)
 - [Abhinav Sarkar's books read](https://abhinavsarkar.net/readings/)
+- [Science Fiction Stories with Good Astronomy and Physics: A Topical Index](https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9)
 
 ## Notes
 
