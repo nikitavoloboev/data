@@ -220,6 +220,7 @@
 - [How we built a \$1m ARR SaaS startup – Canny (2020)](https://canny.io/blog/how-we-built-a-1m-arr-saas-startup/) ([Tweet TLDR](https://twitter.com/sarahhum/status/1311364411702075394)) ([HN](https://news.ycombinator.com/item?id=24689339))
 - [FundedVentures](https://fundedventures.com/freeleads.html) - List of startups that just got funded.
 - [Jobs, Wozniak, Cook (Build, Sell, Scale) (2020)](http://blog.eladgil.com/2020/10/jobs-wozniak-cook-build-sell-scale.html)
+- [Boring Startup Stuff](https://boringstartupstuff.com/) - Kinda like a Harvard MBA sent weekly to your inbox.
 
 ## Images
 
