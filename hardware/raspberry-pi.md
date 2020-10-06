@@ -27,3 +27,4 @@
 - [Raspberry Pi Colocation](https://raspberry-hosting.com/en/order) - Raspberry Pi hosting. ([Tweet](https://twitter.com/jeremyphoward/status/1308259937160577024))
 - [Useful Project Ideas for Your Raspberry Pi with Tutorials](https://devandgear.com/13-useful-project-ideas-for-your-raspberry-pi-with-tutorials/) ([HN](https://news.ycombinator.com/item?id=24567012))
 - [Bare Metal Programming on Raspberry Pi 3](https://github.com/bztsrc/raspi3-tutorial) ([HN](https://news.ycombinator.com/item?id=24637129))
+- [Rust + Raspberry Pi Tide Clock (2020)](https://thefuntastic.com/blog/rust-tide-clock)

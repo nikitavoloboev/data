@@ -21,7 +21,6 @@
 - [g-fu](https://github.com/codr7/g-fu) - Pragmatic Lisp developed and embedded in Go.
 - [Land of Lisp](http://landoflisp.com/) ([HN](https://news.ycombinator.com/item?id=19677292))
 - [Anarki](https://github.com/arclanguage/anarki) - Community-managed fork of the Arc dialect of Lisp.
-- [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 - [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)
 - [C-Mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages.
 - [LISP Reference Manual](http://www.softwarepreservation.net/projects/LISP/starlisp/starlisp-reference-manual-version-5-0.pdf)
@@ -82,3 +81,6 @@
 - [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) ([Code](https://github.com/sarabander/sicp)) ([Racket SICP](https://docs.racket-lang.org/sicp-manual/index.html#%28part._.Installation%29)) ([HN](https://news.ycombinator.com/item?id=24428907))
 - [A micro-manual for LISP Implemented in C (2010)](https://nakkaya.com/2010/08/24/a-micro-manual-for-lisp-implemented-in-c/)
 - [Lisp Operating System (2013)](http://metamodular.com/Common-Lisp/lispos.html) ([Lobsters](https://lobste.rs/s/8seq7v/lisp_operating_system_2013))
+- [Little Bits of Lisp video series](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_)
+- [What Made Lisp Different (2001)](http://www.paulgraham.com/diff.html)
+- [Successful Lisp Book Contents](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/contents.html)

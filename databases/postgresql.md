@@ -141,3 +141,4 @@
 - [Mastering PostgreSQL Administration (2020)](https://momjian.us/main/writings/pgsql/administration.pdf) ([HN](https://news.ycombinator.com/item?id=24606163))
 - [Cost savings of using managed PostgreSQL](https://news.ycombinator.com/item?id=24608538)
 - [How to Fix PostgreSQL Performance Issues with PG Extras (2020)](https://pawelurbanek.com/postgresql-fix-performance)
+- [7 Tips for PostgreSQL Bulk Data Loading (2020)](https://www.2ndquadrant.com/en/blog/7-best-practice-tips-for-postgresql-bulk-data-loading/)

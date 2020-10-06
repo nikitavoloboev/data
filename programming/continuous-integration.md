@@ -18,3 +18,4 @@
 - [Buildkite](https://buildkite.com/) - Platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. ([CLI](https://github.com/buildkite/cli))
 - [Platform.sh](https://platform.sh/) - End-to-end cloud PaaS for hosting, development, and deployment. ([Docs](https://docs.platform.sh/))
 - [Drone CI](https://drone.io/) - Automate Software Testing and Delivery.
+- [PipeCD](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications. ([Web](https://pipecd.dev/))

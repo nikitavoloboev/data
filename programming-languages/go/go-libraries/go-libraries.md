@@ -106,6 +106,7 @@
 - [dbq](https://github.com/rocketlaunchr/dbq) - Zero boilerplate database operations for Go.
 - [sql-migrate](https://github.com/rubenv/sql-migrate) - SQL Schema migration tool for Go. Based on gorp and goose.
 - [Pop](https://github.com/gobuffalo/pop) - Makes it easy to do CRUD operations, run migrations, and build/execute queries.
+- [go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database.
 
 ## ML
 

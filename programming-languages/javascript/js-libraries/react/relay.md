@@ -13,3 +13,4 @@
 - [Relay Workshop](https://github.com/sibelius/relay-workshop)
 - [Relay compiler in Rust](https://github.com/facebook/relay/tree/master/compiler/crates/relay-lsp/src)
 - [twentyfive-stars](https://github.com/phated/twentyfive-stars) - GraphQL server written in Rust.
+- [reason-relay-sample](https://github.com/zth/reason-relay-playground) - Contains a playground for testing out ReasonRelay.

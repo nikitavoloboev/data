@@ -39,6 +39,7 @@
   - Pseudocode and stepwise refinement of the solution to a problem. If you can’t explain something with bullet points, you don’t understand it, and if you don’t understand it, you’re slow.
 - [Code style comments are tiny cuts to someone's confidence and you should weigh that vs the value of the "fixing" it..](https://twitter.com/zkat__/status/1296130087314534401)
 - [My measure of codebase quality these days is almost entirely "how easy is it to change". So readability is key, and also making sure that changes have to touch as few places in the code as possible.](https://twitter.com/simonw/status/1306269673252478978)
+- [1. You're not clever. 2. Distributed systems rule #1: Do not distribute the system! 3. Do not micro optimize. 4. Measure where your program spends time. 5. Optimization rule #1: Reduce I/O. 6. Should I use a distributed cache? No!](https://github.com/klingtnet)
 
 ## Links
 
@@ -251,3 +252,4 @@
 - [Technically](https://technically.dev/) - Learn about software.
 - [Kevin Mahoney: Applying "Make Invalid States Unrepresentable" (2020)](https://kevinmahoney.co.uk/articles/applying-misu/) ([Lobsters](https://lobste.rs/s/5c8cvg/applying_make_invalid_states)) ([HN](https://news.ycombinator.com/item?id=24685772))
 - [Principles of Data Oriented Programming (2020)](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence) ([HN](https://news.ycombinator.com/item?id=24686863))
+- [Finding memory leaks with Memtrace (2020)](https://blog.janestreet.com/finding-memory-leaks-with-memtrace/)

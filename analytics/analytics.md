@@ -15,7 +15,7 @@ If analytics are used, it's best to implement them server side with something li
 - [Cube.js](https://github.com/statsbotco/cube.js) - Open source modular framework to build analytical web applications.
 - [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines. ([Article](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf))
-- [Plausible Analytics](https://plausible.io/) - Simple, privacy-friendly alternative to Google Analytics. ([Code](https://github.com/plausible/analytics))
+- [Plausible Analytics](https://plausible.io/) - Simple, privacy-friendly alternative to Google Analytics. ([Code](https://github.com/plausible/analytics)) ([HN](https://news.ycombinator.com/item?id=24696145)) ([Docs](https://docs.plausible.io/))
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([Code](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.

@@ -35,3 +35,4 @@
 - [The role of AI in coding (2020)](https://blog.repl.it/codingai)
 - [Papers with Annotations](https://github.com/Machine-Learning-Tokyo/papers-with-annotations)
 - [AI Paygrades](https://aipaygrad.es/) - Statistics of industry job offers in Artificial Intelligence.
+- [CS50 Introduction to Artificial Intelligence with Python (2020)](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv) ([Notes](http://stribny.name/blog/2020/10/artificial-intelligence-in-python))

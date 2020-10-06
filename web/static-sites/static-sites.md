@@ -4,9 +4,8 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 
 ## Interesting generators
 
-- [Gatsby](https://github.com/gatsbyjs/gatsby) - Using React.
-- [VuePress](https://github.com/vuejs/vuepress) - Minimalistic docs generator with Vue component based layout system.
-- [zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola))
+- [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
+- [Zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola)) ([My Zola Workflow](https://0xc45.com/blog/my-zola-workflow/))
 - [Styx](https://styx-static.github.io/styx-site/) - Purely functional static site generator in Nix expression language.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator.
 - [elm-pages](https://github.com/dillonkearns/elm-pages) - Statically typed site generator for Elm.
@@ -16,7 +15,6 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know. ([Tweet](https://twitter.com/tjholowaychuk/status/1303655839341907969))
 - [rib](https://github.com/srid/rib) - Haskell library for writing your own static site generator.
 - [Publish](https://github.com/JohnSundell/Publish) - Static site generator for Swift developers.
-- [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
 - [Docsite](https://github.com/txd-team/docsite) - Open source static website generator.
 - [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Haunt](https://dthompson.us/projects/haunt.html) - Simple, functional, hackable static site generator that gives authors the ability to treat websites as Scheme programs.
@@ -29,6 +27,8 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Boom](https://github.com/RadhiFadlillah/boom) - Simple static site generator built with Go. ([Blog built with Boom](https://github.com/RadhiFadlillah/blog))
 - [Pelican](https://blog.getpelican.com/) - Static Site Generator, Powered by Python. ([Code](https://github.com/getpelican/pelican)) ([HN](https://news.ycombinator.com/item?id=24661299))
 - [binserve](https://github.com/mufeedvh/binserve) - Blazingly fast static web server in a single binary you can set up with zero code.
+- [Gatsby](https://github.com/gatsbyjs/gatsby) - Using React + GraphQL.
+- [VuePress](https://github.com/vuejs/vuepress) - Minimalistic docs generator with Vue component based layout system.
 
 ## Notes
 

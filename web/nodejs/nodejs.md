@@ -97,3 +97,4 @@
 - [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html)
 - [Node.js' Tooling Group](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools.
 - [5 TILs about Node.js Fundamentals from the Node.js Design Patterns Book (2020)](https://dev.to/swyx/5-tils-about-node-js-fundamentals-from-the-node-js-design-patterns-book-4dh2)
+- [Promise Pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing.

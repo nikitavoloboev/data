@@ -130,3 +130,4 @@
 - [NIST Pair of Atomic Clocks Reveal Einstein's Relativity at a Personal Scale (2010)](https://www.nist.gov/news-events/news/2010/09/nist-pair-aluminum-atomic-clocks-reveal-einsteins-relativity-personal-scale) ([HN](https://news.ycombinator.com/item?id=24634461))
 - [The Grand Design by Stephen Hawking](https://blas.com/the-grand-design/)
 - [Moonshot Papers (2020)](https://davidwyde.com/thoughts/moonshot-papers/)
+- [The Nobel Prize in Physics 2020](https://www.nobelprize.org/prizes/physics/2020/press-release/) ([HN](https://news.ycombinator.com/item?id=24696230))

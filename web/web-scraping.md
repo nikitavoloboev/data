@@ -37,3 +37,4 @@
 - [Django Dynamic Scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
 - [AutoScraper](https://github.com/alirezamika/autoscraper) - Smart, Automatic, Fast and Lightweight Web Scraper for Python.
 - [Spidey](https://github.com/Manzanit0/spidey) - Dead-simple crawler which focuses on ease of use and speed. Return a list of all URls of a web page.
+- [Scraping News and Articles From Public APIs with Python (2020)](https://martinheinz.dev/blog/31)

@@ -65,3 +65,5 @@
 - [Linxy](https://golinxy.com/) - Search engine which creates feeds based on multiple input search phrases. ([HN](https://news.ycombinator.com/item?id=24564986))
 - [Awesome Algolia](https://github.com/algolia/awesome-algolia)
 - [Write an Internet search engine with 200 lines of Ruby code (2009)](https://web.archive.org/web/20191029230509/https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/)
+- [The Search Engine Map](https://www.searchenginemap.com/)
+- [Algolia Netlify plugin](https://github.com/algolia/algoliasearch-netlify) - Automatically index your website to Algolia when deploying your project to Netlify with the Algolia Crawler.

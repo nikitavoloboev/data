@@ -41,7 +41,7 @@
 - [re-resizable](https://github.com/bokuweb/re-resizable) - Resizable component for React.
 - [react-tiniest-router](https://github.com/kitze/react-tiniest-router) - Tiniest router for React, built with hooks.
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
-- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - React custom hook for form validation without the hassle.
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) - Performant, flexible and extensible forms with easy to use validation.
 - [rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
 - [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.

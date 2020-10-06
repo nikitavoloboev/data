@@ -58,3 +58,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Threat Models for Differential Privacy (2020)](https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy)
 - [Sekreta](https://gitlab.com/sekreta/sekreta/) - Universal internet-anonymity API with privacy-enhancing subsystem.
 - [Kovri](https://gitlab.com/kovri-project/kovri/) - Free, decentralized, anonymity technology based on I2P's open specifications.
+- [Mute](https://mute.one/) - Privacy enhancing communication system.

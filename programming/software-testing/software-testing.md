@@ -57,3 +57,5 @@
 - [Test smarter, not harder (2020)](https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/)
 - [TestDriven Courses](https://testdriven.io/)
 - [Anatomy of a Good Test (2020)](https://www.innoq.com/en/blog/anatomy-of-a-good-test/)
+- [Assertion Injection : Unit Test Design Pattern](http://redsymbol.net/articles/assertion-injection/)
+- [High-level Language Features and Testing](http://redsymbol.net/articles/high-level-lang-features-and-testing/)

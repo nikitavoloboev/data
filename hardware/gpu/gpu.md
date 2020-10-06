@@ -23,3 +23,4 @@
 - [Which GPUs to get for deep learning (2020)](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/) ([HN](https://news.ycombinator.com/item?id=24400603))
 - [KodeLife](https://hexler.net/products/kodelife) - Real-time GPU shader editor.
 - [Getting Started with GPU Computing in Anaconda (2017)](https://www.anaconda.com/blog/getting-started-with-gpu-computing-in-anaconda)
+- [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - TypeScript library for generating distance fields from 2d images on the GPU.

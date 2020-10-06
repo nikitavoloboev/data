@@ -169,3 +169,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Hyperlog](https://hyperlog.app/) - Search web logs of small personal websites & indie publications.
 - [The Odin Project](https://www.theodinproject.com/) - Full stack curriculum.
 - [CS50's Web Programming with Python and JavaScript (2020)](https://cs50.harvard.edu/web/2020/)
+- [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.

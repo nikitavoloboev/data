@@ -331,3 +331,4 @@
 - [Rust Starter Kit 2020](https://wiki.alopex.li/RustStarterKit2020) ([HN](https://news.ycombinator.com/item?id=24671403))
 - [Drop order in Rust: It's tricky (2020)](https://vojtechkral.github.io/blag/rust-drop-order/)
 - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/) ([HN](https://news.ycombinator.com/item?id=24687685))
+- [Dancing Links In Rust (2020)](https://ferrous-systems.com/blog/dlx-in-rust/)

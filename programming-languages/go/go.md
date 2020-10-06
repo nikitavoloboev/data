@@ -34,6 +34,7 @@ Go promotes composition over inheritance.
 - [The main sell point of Go is not simplicity, but overall balance and flexibility](https://news.ycombinator.com/item?id=21744910)
 - [Better make copies of a struct than passing pointers to it.](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
 - [I have grown to strongly dislike passing options by variable argument in Go ("...Option"). It makes a terrible mess of package documentation. Much easier to find and understand fields in an Options or Config struct.](https://twitter.com/davidcrawshaw/status/1300094723340865537)
+- [Go's RTS is built around a rather simple concurrent mark/sweep GC with all of the trade-offs that this implies. In the case of GHC you have a choice between a throughput-oriented moving GC and an (admittedly somewhat young) non-moving collector. On the low-latency front Go indeed has something of a head-start here, but GHC is now competitive and is improving with every release.](https://www.reddit.com/r/haskell/comments/j5slz6/how_does_haskells_gcruntime_compare_with_that_of/)
 
 ## Links
 
@@ -228,7 +229,7 @@ Go promotes composition over inheritance.
 - [HN: Go Turns 10](https://news.ycombinator.com/item?id=21483933)
 - [Benchmarking Go programs (2017)](https://scene-si.org/2017/06/06/benchmarking-go-programs/)
 - [gopkg](https://labix.org/gopkg.in) - Service provides versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories. ([Code](https://github.com/niemeyer/gopkg))
-- [Go Binaries](https://github.com/tj/gobinaries) - On-demand binary server, allowing non-Go users to quickly install tools written in Go without installing go itself. ([Article](https://cto.ai/blog/on-demand-go-binaries/))
+- [Go Binaries](https://github.com/tj/gobinaries) - On-demand binary server, allowing non-Go users to quickly install tools written in Go without installing go itself. ([Article](https://cto.ai/blog/on-demand-go-binaries/)) ([Web](https://gobinaries.com/))
 - [gosize](https://github.com/bradfitz/gosize) - Analyze size of Go binaries.
 - [tre](https://github.com/zegl/tre) - LLVM backed Go compiler.
 - [Statically compiling Go programs (2020)](https://www.arp242.net/static-go.html)

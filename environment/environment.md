@@ -49,3 +49,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
 - [Protect.Earth](https://protect.earth/) - Start saving the planet today.
 - [Destination Earth](https://ec.europa.eu/digital-single-market/en/destination-earth-destine) - Developing a very high precision digital model of Earth.
+- [Permapeople](https://permapeople.org/) - Platform for permaculture people.
+- [Why I Am Building permapeople.org (2020)](https://permapeople.org/blog/2020/10/05/why-i-am-building-permapeople-org.html) ([HN](https://news.ycombinator.com/item?id=24696688))

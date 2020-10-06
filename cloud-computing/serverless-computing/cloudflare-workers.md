@@ -20,3 +20,4 @@
 - [Cloudflare Edge Chat Demo](https://github.com/cloudflare/workers-chat-demo/) - Demo app written on Cloudflare Workers utilizing Durable Objects to implement real-time chat with stored history. This app runs 100% on Cloudflare's edge.
 - [Workers Durable Objects Beta: A New Approach to Stateful Serverless (2020)](https://blog.cloudflare.com/introducing-workers-durable-objects/)
 - [Built with Cloudflare Workers](https://workers.cloudflare.com/built-with)
+- [Let's build a Cloudflare Worker with WebAssembly and Haskell (2020)](https://blog.cloudflare.com/cloudflare-worker-with-webassembly-and-haskell/)

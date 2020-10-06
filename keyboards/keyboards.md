@@ -85,3 +85,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Nerves-keyboard - Running a mechanical keyboard with Elixir (2020)](https://underjord.io/nerves-keyboard-running-a-mechanical-keyboard-with-elixir.html)
 - [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)
 - [Planck Keyboard Layout Iterations](http://thedarnedestthing.com/planck%20constant)
+- [4x4 Macro Pad (2020)](https://0xc45.com/blog/4x4-macro-pad/)

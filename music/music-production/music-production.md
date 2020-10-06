@@ -98,3 +98,4 @@
 - [Adio](https://www.adio.app/) - Collaborative songwriting platform for bands and musicians.
 - [Discover MIDI Guide](https://imitone.com/discover-midi/)
 - [pureMix](https://www.puremix.net/) - Learn mixing. ([Courses](https://www.puremix.net/tutorials/all-courses.html))
+- [SoundCard](https://github.com/bastibe/SoundCard) - Library for playing and recording audio without resorting to a CPython extension.

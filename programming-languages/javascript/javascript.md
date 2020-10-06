@@ -202,3 +202,4 @@
 - [Speakeasy JS](https://speakeasyjs.com/) - Weekly JavaScript meetup.
 - [Elsa](https://github.com/elsaland/elsa) - Minimal, fast and secure QuickJS wrapper written in Go. ([HN](https://news.ycombinator.com/item?id=24626655))
 - [quickjs-rs](https://github.com/theduke/quickjs-rs) - Rust wrapper for QuickJS.
+- [RSLint](https://github.com/RDambrosio016/RSLint) - JavaScript linter written in Rust designed to be as fast as possible, customizable, and easy to use.

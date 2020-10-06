@@ -262,7 +262,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 - [Findka](https://findka.com/) - Recommends content you might like based on data from other users with similar preferences. ([HN](https://news.ycombinator.com/item?id=23541840))
-- [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool.
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
 - [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.

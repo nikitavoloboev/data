@@ -7,3 +7,4 @@
 - [Self-publishing and the 2nd edition of Ansible for DevOps](https://www.jeffgeerling.com/blog/2020/self-publishing-and-2nd-edition-ansible-devops) ([HN](https://news.ycombinator.com/item?id=24138969))
 - [Training Course for Ansible Automation Platform](https://github.com/ansible/workshops)
 - [Ansible Puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible.
+- [Ansible-defined Homelab (2020)](https://0xc45.com/blog/ansible-defined-homelab/)
