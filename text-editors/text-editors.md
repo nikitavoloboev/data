@@ -66,4 +66,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [From Vim to Ed (2020)](http://blog.cretaria.com/posts/from-vim-to-ed.html) ([Lobsters](https://lobste.rs/s/6l2i8z/from_vim_ed))
 - [My Text Editor Journey: Vim, Spacemacs, Atom and Sublime Text (2017)](https://thume.ca/2017/03/04/my-text-editor-journey-vim-spacemacs-atom-and-sublime-text/)
 - [Which color scheme is better? (2020)](https://stitcher.io/blog/why-light-themes-are-better-according-to-science) ([Lobsters](https://lobste.rs/s/bvjabr/light_colour_schemes_are_better_based_on)) ([HN](https://news.ycombinator.com/item?id=24609600))
-- [What you could steal from the Kakoune code editor right now, and get away with it (2020)](https://kakoune-editor.github.io/community-articles/2020/10/01/what_steal_get_away_kakoune.html)
+- [What you could steal from the Kakoune code editor right now, and get away with it (2020)](https://kakoune-editor.github.io/community-articles/2020/10/01/what_steal_get_away_kakoune.html) ([Lobsters](https://lobste.rs/s/reaylm/what_you_could_steal_from_kakoune_code)) ([HN](https://news.ycombinator.com/item?id=24685267))
