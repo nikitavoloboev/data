@@ -381,3 +381,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Postmake](https://postmake.io/) - Curated tools and resources for your next project.
 - [No-Code vs Pro-Code: A New Hope (2020)](https://journeyapps.com/engineering-blog/no-code-vs-pro-code-a-new-hope/) ([HN](https://news.ycombinator.com/item?id=24421767))
 - [Small, Sharp Tools](https://brandur.org/small-sharp-tools)
+- [You should be using Linear (2020)](https://www.contrast.app/posts/you-should-be-using-linear)

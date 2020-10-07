@@ -9,3 +9,5 @@
 - [Anton's OpenGL 4 Tutorials](https://antongerdelan.net/opengl/)
 - [Krita, OpenGL and Qt (2020)](https://valdyas.org/fading/hacking/krita-hacking/krita-opengl-and-qt/)
 - [NanoGUI](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL.
+- [20th Anniversary OpenGL Year Book](https://www.khronos.org/files/opengl/OpenGL-20th-Booklet.pdf)
+- [OpenGL Spec (2004)](https://www.khronos.org/registry/OpenGL/specs/gl/glspec20.pdf)

@@ -50,6 +50,7 @@ Here are few more things I liked, design wise.
 - [Panic](https://panic.com/)
 - [Podia](https://www.podia.com/)
 - [Remotive](https://remotive.io/)
+- [Contrast](https://www.contrast.app/)
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
 
 ## Blogs

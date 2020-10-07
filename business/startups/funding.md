@@ -35,6 +35,10 @@
 
 - [Auston Bunsen](https://www.bitsorbricks.com/angel-investing)
 
+## Pitches
+
+- [Dylan Field pitches seed-stage Figma to Daniel Gross (2020)](https://www.youtube.com/watch?v=C1UUVdN3kdQ)
+
 ## Notes
 
 - [Preparing to raise capital? Do not start with the deck. Start with an FAQ. Write down the answers to ALL questions investors can possibly ask you.](https://twitter.com/alexiskold/status/1218987908545306624)
