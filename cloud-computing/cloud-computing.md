@@ -27,6 +27,7 @@
 
 ## Other
 
+- [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) ([Announcement](https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)) ([HN](https://news.ycombinator.com/item?id=24698334))
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
 
 ## Links

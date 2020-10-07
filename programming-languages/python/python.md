@@ -179,3 +179,4 @@
 - [Healthy Python Codebase (2020)](https://blog.vtemian.com/post/healthy-python-codebase/)
 - [Python Multiple Inheritance (2020)](https://blog.vtemian.com/post/multiple-inheritance/)
 - [The Personal Python Data Science Toolkit (2020)](https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/)
+- [Beginners Introduction to using Standard I/O (2020)](https://alecthegeek.github.io/2020/05/04/Intro-to-stdio.html)

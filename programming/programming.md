@@ -253,3 +253,4 @@
 - [Kevin Mahoney: Applying "Make Invalid States Unrepresentable" (2020)](https://kevinmahoney.co.uk/articles/applying-misu/) ([Lobsters](https://lobste.rs/s/5c8cvg/applying_make_invalid_states)) ([HN](https://news.ycombinator.com/item?id=24685772))
 - [Principles of Data Oriented Programming (2020)](https://blog.klipse.tech/databook/2020/09/29/do-principles.html?essence) ([HN](https://news.ycombinator.com/item?id=24686863))
 - [Finding memory leaks with Memtrace (2020)](https://blog.janestreet.com/finding-memory-leaks-with-memtrace/)
+- [Ask HN: Essential skill needed to be a programmer? (2020)](https://news.ycombinator.com/item?id=24697965)

@@ -31,6 +31,10 @@ Below is a list of extensions I use.
 
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag. ([Code](https://github.com/vincaslt/vscode-highlight-matching-tag))
 
+## CSS
+
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) ([Code](https://github.com/tailwindlabs/tailwindcss-intellisense))
+
 ## Theme
 
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) ([Code](https://github.com/primer/github-vscode-theme))
@@ -171,7 +175,6 @@ Below is a list of extensions I use.
 
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
-- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) ([Code](https://github.com/bradlc/vscode-tailwindcss))
 
 ## ReasonML
 

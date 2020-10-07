@@ -52,3 +52,4 @@
 - [Optimising a web crawler in Elixir (2020)](https://manzanit0.github.io/elixir/2020/09/09/optimising-crawler.html)
 - [Bakeware](https://github.com/spawnfest/bakeware) - Compile Elixir applications into single, easily distributed executable binaries. ([Lobsters](https://lobste.rs/s/8c1elv/spawnfest_bakeware_compile_elixir))
 - [A Brief Guide to OTP in Elixir (2020)](https://serokell.io/blog/elixir-otp-guide) ([HN](https://news.ycombinator.com/item?id=24637121))
+- [Elixir 1.11 (2020)](https://elixir-lang.org/blog/2020/10/06/elixir-v1-11-0-released/) ([HN](https://news.ycombinator.com/item?id=24698086))
