@@ -166,6 +166,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
+- [Nick Archer](https://www.instagram.com/archer.nick/)
 - [Ian Spriggs](https://ianspriggs.com/) - 3D Portrait Character Artist.
 - [Charles van den Eycken](https://www.invaluable.com/artist/eycken-charles-van-den-1859-0l00jbqpg4/sold-at-auction-prices/) ([Tweet](https://twitter.com/CGdrawing/status/1276403951135453184))
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
