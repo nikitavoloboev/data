@@ -130,3 +130,4 @@
 - [Setting up a Nix S3 binary cache (2020)](https://fzakaria.com/2020/07/15/setting-up-a-nix-s3-binary-cache.html) ([Lobsters](https://lobste.rs/s/myps2p/setting_up_nix_s3_binary_cache))
 - [swift2nix: Run Swift inside Nix builds (2020)](https://euandre.org/2020/10/05/swift2nix-run-swift-inside-nix-builds.html)
 - [sorri](https://github.com/nmattia/sorri) - Simple, lightweight implementation of Tweag's lorri.
+- [Nix and the nix-shell for easily redistributable scripts (2020)](https://knezevic.ch/posts/nix-shell-redistributable-scripts/)

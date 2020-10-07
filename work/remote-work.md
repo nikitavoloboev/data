@@ -74,3 +74,4 @@
 - [Why do so many people want us back in the office? (2020)](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/) ([HN](https://news.ycombinator.com/item?id=24452280))
 - [Remotive](https://remotive.io/) - Remote Jobs in Programming, Support, Design and more.
 - [Remote Technology Jobs by Standard Resume](https://standardresume.co/remote-jobs)
+- [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))

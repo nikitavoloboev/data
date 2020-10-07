@@ -11,3 +11,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [TV Series recommendations](https://michael.stapelberg.ch/series/)
 - [Catch](https://github.com/mipstian/catch) - Mac application that runs in the menu bar, and will automatically download episodes found in your ShowRSS feed using your favorite BitTorrent client.
 - [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [Subify](https://github.com/matcornic/subify) - Tool to download subtitles for your favorite TV shows and movies.

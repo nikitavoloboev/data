@@ -103,3 +103,4 @@
 - [Computer Vision: Looking Back to Look Forward (2020)](http://slazebni.cs.illinois.edu/spring20/)
 - [DAIN (Depth-Aware Video Frame Interpolation)](https://github.com/baowenbo/DAIN)
 - [Picsellia](https://picsellia.com/) - Development platform dedicated to Computer Vision.
+- [Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch](https://github.com/vita-epfl/openpifpaf)

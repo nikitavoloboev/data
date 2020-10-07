@@ -113,3 +113,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Tips for Running an Effective Virtual Offsite (2020)](https://blog.bearer.sh/tips-for-virtual-offsite/)
 - [Interactive Video Stylization Using Few-Shot Patch-Based Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
 - [Bitmovin](https://bitmovin.com/) - Adaptive streaming video infrastructure encoding and HTML5 player.
+- [screego/server](https://github.com/screego/server) - Screen sharing for developers. ([Web](https://app.screego.net/)) ([Docs](https://screego.net/#/))

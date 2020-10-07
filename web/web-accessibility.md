@@ -35,3 +35,4 @@
 - [A11y Testing Is Like Making Coffee](https://a11y.coffee/a11y-testing-making-coffee/)
 - [Accessibility Guide in Russian](http://specialbank.ru/guide/)
 - [a11yresources](https://a11yresources.webflow.io/) - Growing list of accessibility tools and resources.
+- [5 Things I've Learned From the Accessibility Community (2020)](https://marcysutton.github.io/5-things-i-learned-from-accessibility/#/)

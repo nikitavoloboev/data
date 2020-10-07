@@ -35,6 +35,12 @@
   3. Talk like your customer. Use their language, not yours.
   4. Use less data. When you are small, obsessing over data is pointless.
   5. Replace important debates with experiments and unimportant debates with decisions.
+- [Margins matter, even in the early days. \$24k/mo sounds good, but we never evaluated the COGS of this and how much it really cost us to produce our content. If we realized how low our margins were, we would have made many decisions differently. Watch your COGS.](https://twitter.com/Mat_Sherman/status/1313548708361859073)
+  - Don't hire people you don't have a absolute need for or people you don't know how to train. People are expensive, so if you hire them, make sure you have something for them to do, and you make sure they do it well. If either of those two are absent, you're wasting money.
+  - Your own emotional state will be thrusted onto your company whether you want it to or not. My emotions were the companies emotions. I should have had a wall, between what I felt and what people saw, but they were equal. This crushed the moral of the company, as well as my own.
+  - If things are too easy, look harder for problems. Business is not easy. It isn't meant to go smoothly. If it is, try to find the reason it's so easy, and give yourself reasons something could go wrong. Because, something always goes wrong eventually.
+  - Love what you do, and if you don't, be self aware. I didn't have a deep passion for PubLoft. Content was not my life's mission. We let Jason invest, and he wanted a huge outcome. but I knew pubLoft was not my life's work. Be self aware about this before you take money.
+  - Keep going. It's only a failure if I don't get back up and try again.
 
 ## Links
 
@@ -221,6 +227,8 @@
 - [FundedVentures](https://fundedventures.com/freeleads.html) - List of startups that just got funded.
 - [Jobs, Wozniak, Cook (Build, Sell, Scale) (2020)](http://blog.eladgil.com/2020/10/jobs-wozniak-cook-build-sell-scale.html)
 - [Boring Startup Stuff](https://boringstartupstuff.com/) - Kinda like a Harvard MBA sent weekly to your inbox.
+- [Forward Thinking City](https://www.forwardthinking.city/) - Experience the serendipity of the bay area, simply by opening up your computer.
+- [Capbase](https://capbase.com/) - Streamlines and automates many parts of your business, freeing up your time and capital to focus on growing your startup.
 
 ## Images
 

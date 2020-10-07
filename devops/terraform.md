@@ -11,7 +11,8 @@
 - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code.
 - [Checkov](https://github.com/bridgecrewio/checkov) - Static code analysis tool for infrastructure-as-code. It scans cloud infrastructure provisioned using Terraform, Cloudformation or kubernetes and detects security and compliance misconfigurations.
 - [Terraform Vault provider](https://github.com/terraform-providers/terraform-provider-vault)
-- [Terraform Language Server](https://github.com/hashicorp/terraform-ls)
+- [Terraform LSP experimental](https://github.com/juliosueiras/terraform-lsp)
+- [Terraform LSP stable](https://github.com/hashicorp/terraform-ls)
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - Lightweight, security focused, BDD test framework against terraform.
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - Convert Terraform projects to Pulumi TypeScript programs.
 - [Terraform Lightning Course (2020)](https://www.youtube.com/playlist?list=PLozcbFx8FoPHM7n2DGLa6G8ZwtWFsVZsP)
@@ -29,3 +30,4 @@
 - [Validating Terraform plans with the Open Policy Agent (2019)](https://www.blokje5.dev/posts/validating-terraform-plans/)
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager.
 - [AWS VPC Terraform module](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Creates VPC resources on AWS.
+- [Akashi](https://github.com/drlau/akashi) - Validate "terraform plan" changes against a customizable ruleset.

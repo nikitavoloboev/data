@@ -162,3 +162,6 @@
 - [My State Management Mistake (2020)](https://epicreact.dev/my-state-management-mistake/)
 - [Epic React course](https://epicreact.dev/) ([Code](https://github.com/topics/epicreact-dev)) ([Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns)) ([React Performance](https://github.com/kentcdodds/react-performance))
 - [react-performance-testing](https://github.com/keiya01/react-performance-testing) - Library to test runtime performance in React.
+- [Developing React Global State Library With Atom Abstraction (2020)](https://blog.axlight.com/posts/developing-react-global-state-library-with-atom-abstraction/)
+- [How to Measure Performance in JavaScript Applications (2020)](https://blog.asayer.io/how-to-measure-performance-in-javascript-applications)
+- [Animating React with React Transition Group (2020)](https://blog.bitsrc.io/animating-reactjs-with-react-transition-group-2af6c87cab0c)

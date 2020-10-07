@@ -130,3 +130,4 @@
 - [Clutch](https://clutch.co/) - B2B Ratings & Reviews.
 - [Software Consulting Legal Documents](https://numtide.github.io/software-consulting-documents/) ([Code](https://github.com/numtide/software-consulting-documents))
 - [Software Consulting: What This Really Means and How to Start (2020)](https://daedtech.com/software-consulting/)
+- [Becoming A Consultant In 2020: A How-To Guide (2020)](https://ericvanular.com/becoming-a-consultant-in-2020/)

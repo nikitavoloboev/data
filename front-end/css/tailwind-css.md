@@ -26,9 +26,10 @@
 - [Tailwind Studio](https://tailwind-studio.com/)
 - [Beginner Tailwind](https://beginnertailwind.com/) - Make good looking designs quickly. All without a single line of custom CSS. ([Intro](https://learn.better.dev/courses/beginner-tailwind/384541-getting-started/1263040-intro))
 - [Tailwind UI React extension](https://chrome.google.com/webstore/detail/tailwind-ui-react/binfindfddkgfibeajgkmjioklcgigjn/related)
-- [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components. ([Code](https://github.com/tailwindlabs/headlessui))
+- [Headless UI](https://headlessui.dev/) - Unstyled, fully accessible UI components. ([Code](https://github.com/tailwindlabs/headlessui)) ([Article](https://blog.tailwindcss.com/headless-ui-unstyled-accessible-ui-components))
 - [Kitwind](https://kitwind.io/) - Marketplace of fully responsive, multi-purpose UI kits, built with Tailwind CSS.
 - [Kometa UI Kit](https://kitwind.io/products/kometa) - Over 130 sections, built with TailwindCSS.
 - [Tailwind CSS Resources you wish you had (2020)](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18)
 - [Statik UI](https://statik.ly/) - Modern UI kit based on Tailwind CSS.
 - [Why Tailwind CSS (2020)](https://dev.to/swyx/why-tailwind-css-2o8f) ([Tweet](https://twitter.com/swyx/status/1312603851581652994))
+- [Tailwind Play](https://play.tailwindcss.com/) - Official Tailwind CSS playground. ([Intro article](https://blog.tailwindcss.com/introducing-tailwind-play))

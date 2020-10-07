@@ -4,6 +4,7 @@
 
 - [Buildtools for bazel](https://github.com/bazelbuild/buildtools) - Contains developer tools for working with Google's bazel buildtool.
 - [BazelCon 2019 videos](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj)
+- [BazelCon 2020](https://opensourcelive.withgoogle.com/events/bazelcon2020)
 - [Bazel Reaches 1.0 Milestone (2019)](https://opensource.googleblog.com/2019/10/bazel-reaches-10-milestone.html) ([HN](https://news.ycombinator.com/item?id=21288185))
 - [HN: Bazel 2.0](https://news.ycombinator.com/item?id=21863393)
 - [Make local development (with Bazel) great again (2020)](https://www.youtube.com/watch?v=rQv1sjLU4cI)
@@ -16,3 +17,4 @@
 - [Bazel Performance in a CI Environment (2020)](https://filipnikolovski.com/posts/bazel-performance-in-a-ci-environment/)
 - [Bazel Code](https://github.com/bazelbuild/bazel)
 - [Bazel for Open-source C / C++ Libraries Distribution (2020)](https://liuliu.me/eyes/bazel-for-libraries-distribution-an-open-source-library-author-perspective/) ([HN](https://news.ycombinator.com/item?id=24490089))
+- [Bazel Blog](https://blog.bazel.build/) ([Code](https://github.com/bazelbuild/bazel-blog))

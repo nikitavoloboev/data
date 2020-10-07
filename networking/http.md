@@ -71,3 +71,4 @@
 - [What Is HTTP/3 - Lowdown on the Fast New UDP-Based Protocol (2020)](https://kinsta.com/blog/http3/)
 - [HTTP/3: From root to tip (2019)](https://blog.cloudflare.com/http-3-from-root-to-tip/)
 - [Gist: HTTP](https://blog.theidrees.me/gist-http-ckfsc0deb01hwv6s1fol4fv26)
+- [RequestBin.com](https://requestbin.com/) - Modern request bin to collect, inspect and debug HTTP requests and webhooks.

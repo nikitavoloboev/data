@@ -29,3 +29,5 @@
 - [Best active technology product managers (2020)](https://twitter.com/patrick_oshag/status/1294319157148889089)
 - [Five things I believe now about product work (2020)](https://twitter.com/shreyas/status/1296306987886505985)
 - [Awesome Product Management](https://github.com/dend/awesome-product-management)
+- [15 principles for product work (2020)](https://twitter.com/shreyas/status/1313539331563298817)
+- [Resources for Learning Product Management (2020)](https://informedpm.com/posts/product-manager-resources)

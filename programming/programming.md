@@ -40,6 +40,7 @@
 - [Code style comments are tiny cuts to someone's confidence and you should weigh that vs the value of the "fixing" it..](https://twitter.com/zkat__/status/1296130087314534401)
 - [My measure of codebase quality these days is almost entirely "how easy is it to change". So readability is key, and also making sure that changes have to touch as few places in the code as possible.](https://twitter.com/simonw/status/1306269673252478978)
 - [1. You're not clever. 2. Distributed systems rule #1: Do not distribute the system! 3. Do not micro optimize. 4. Measure where your program spends time. 5. Optimization rule #1: Reduce I/O. 6. Should I use a distributed cache? No!](https://github.com/klingtnet)
+- [Top 3 motivation killers for developers: Slow environments to test. Micromanagement. Continuous legacy projects.](https://twitter.com/MattCodeJourney/status/1313486362029547528)
 
 ## Links
 

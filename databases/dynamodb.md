@@ -25,3 +25,6 @@
 - [Modeling Graph Relationships in DynamoDB (2020)](https://medium.com/developing-koan/modeling-graph-relationships-in-dynamodb-c06141612a70)
 - [Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (2018)](https://www.youtube.com/watch?v=HaEPXoXVf2k) ([Notes on NoSQL patterns](https://github.com/dideler/notes/blob/master/nosql-patterns.md))
 - [How to understand DynamoDB](https://consulting.0x4447.com/articles/how_to/how-to-understand-dynamodb.html)
+- [DynamoDB, explained](https://www.dynamodbguide.com/) - Primer on the DynamoDB NoSQL database.
+- [Patterns: Serverless Rust + GraphQL + DynamoDB on AWS Lambda](https://github.com/codetalkio/patterns-serverless-rust)
+- [Live Migration of DynamoDB Tables (2020)](https://codetalk.io/posts/2020-03-19-Live-Migration-of-DynamoDB-Tables.html)

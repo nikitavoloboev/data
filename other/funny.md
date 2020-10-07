@@ -45,3 +45,4 @@
 - [How Spiritual People Talk About Drugs](https://www.youtube.com/watch?v=2xRpiczKbas)
 - [Опять ничего не получается Ну и пожалуйста,ну и не надо](https://www.youtube.com/watch?v=6HSWn0kEb80)
 - [When someone asks how I'm doing](https://twitter.com/yayalexisgay/status/1312914775211421700)
+- [Me not bothering about 2020 anymore](https://twitter.com/KarmenJ_97/status/1313210331729203203)

@@ -267,6 +267,7 @@
     - [Objective C libraries](programming-languages/objc/objc-libraries.md)
   - [Lua](programming-languages/lua.md)
   - [Ruby](programming-languages/ruby/ruby.md)
+    - [Ruby libraries](programming-languages/ruby/ruby-libraries.md)
     - [Rails](programming-languages/ruby/rails.md)
   - [Crystal](programming-languages/crystal.md)
   - [Idris](programming-languages/idris/idris.md)

@@ -53,3 +53,4 @@
 - [e-sum](https://anvaka.github.io/e-sum/) - Visualization of exponential sums. ([Code](https://github.com/anvaka/e-sum))
 - [Matplot++](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization.
 - [How to pick more beautiful colors for your data visualizations (2020)](https://blog.datawrapper.de/beautifulcolors/) ([HN](https://news.ycombinator.com/item?id=24391049))
+- [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive details-on-demand data visualizations at scale.

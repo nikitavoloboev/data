@@ -294,3 +294,9 @@
 - [My Deep Learning Toolchain (2020)](https://rosshemsley.co.uk/posts/deep_learning_toolchain/)
 - [igel](https://github.com/nidhaloff/igel) - Machine learning tool that allows you to train/fit, test and use models without writing code. ([HN](https://news.ycombinator.com/item?id=24671525))
 - [Gradient Boosted Decision Trees (2020)](https://www.simonwardjones.co.uk/posts/gradient_boosted_decision_trees/) ([HN](https://news.ycombinator.com/item?id=24700250))
+- [NeurIPS 2020 Accepted Papers](https://neurips.cc/Conferences/2020/AcceptedPapersInitial)
+- [explained.ai](https://explained.ai/) - Deep explanations of machine learning and related topics.
+- [How to visualize decision trees (2018)](https://explained.ai/decision-tree-viz/index.html)
+- [How to explain gradient boosting (2018)](https://explained.ai/gradient-boosting/index.html)
+- [Beware Default Random Forest Importances (2018)](https://explained.ai/rf-importance/index.html)
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/)

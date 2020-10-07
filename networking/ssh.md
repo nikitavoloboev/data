@@ -28,7 +28,8 @@
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
 - [SSH Agent Explained (2020)](https://smallstep.com/blog/ssh-agent-explained/) ([HN](https://news.ycombinator.com/item?id=23241934))
 - [SSH Emergency Access (2020)](https://smallstep.com/blog/ssh-emergency-access/) ([HN](https://news.ycombinator.com/item?id=23731351))
-- [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity.
+- [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity. Say Goodbye to SSH Key Management.
+- [Step CLI](https://github.com/smallstep/cli) - Toolkit for working with your public key infrastructure (PKI).
 - [Lockbox](https://github.com/half-cambodian-hacker-man/ssh-lockbox) - Personal centralised SSH key deployment to multiple boxes. ([Lobsters](https://lobste.rs/s/d9ziys/ssh_lockbox_personal_centralised_ssh_key))
 - [Ask HN: What do you use for SSH key management of teams? (2020)](https://news.ycombinator.com/item?id=24157180)
 - [How to properly manage ssh keys for server access (2020)](https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/) ([HN](https://news.ycombinator.com/item?id=24599837))

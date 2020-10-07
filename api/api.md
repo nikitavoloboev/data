@@ -41,6 +41,7 @@
 - [Fastly Go](https://github.com/fastly/cli) - CLI for interacting with the Fastly platform.
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
+- [Discord Rust 3](https://github.com/passcod/accord)
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
 - [Slack Go](https://github.com/nlopes/slack)
 - [Slack Go 2](https://github.com/slack-go/slack)

@@ -121,3 +121,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) ([HN](https://news.ycombinator.com/item?id=24642134))
 - [Deep learning to translate between programming languages (2020)](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
 - [Increasing the Impact of PL Research (2020)](https://blog.sigplan.org/2020/07/29/increasing-the-impact-of-pl-research/)
+- [Programming Languages course by Dan Grossman](https://www.coursera.org/learn/programming-languages) ([Answers](https://github.com/chuabingquan/programming-languages-coursera))

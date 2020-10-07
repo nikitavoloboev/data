@@ -1,26 +1,14 @@
 # [Textual](https://www.codeux.com/textual/)
 
-I love IRC and this is the best macOS client for it.
+I like IRC even though Discord is a strictly superior experience. I currently use Matrix and [Element](https://element.io) client to connect to IRC Freenode channels I care about.
 
-I created my own theme for it that I love.
+I use Geeza Pro Regular 18pt font & built in Tomorrow Night (Eighties) theme.
 
-![](https://i.imgur.com/C9lEXB6.jpg)
-
-I am using Geeza Pro Regular 18pt font.
-
-I love its awesome channel search feature & use it a lot.
+I love Textual's channel search feature.
 
 ![](https://i.imgur.com/CMBW8Qf.png)
 
-## Install theme
-
-To install the theme, download the Monokai Night folder attached from [here](https://www.dropbox.com/sh/mxh1ybdr9x7cfza/AAD6Y--qv3j2yddTY6UJLPyva?dl=1).
-
-Then go to Textual app. Go to preferences and in Styles click on `Browse Styles` here:
-
-![](https://i.imgur.com/q5m1cGa.png)
-
-Put the downloaded folder inside the folder. You can read [this](https://help.codeux.com/textual/Styles.kb) for more information.
+One day I hope someone makes a solid macOS native client for Matrix that has all the features and speed of Textual.
 
 ## Notes
 

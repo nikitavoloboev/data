@@ -11,3 +11,4 @@
 - [MDX v2 Umbrella issue](https://github.com/mdx-js/mdx/issues/1041)
 - [Using React hooks in MDX (2020)](https://dev.to/sebastienlorber/using-react-hooks-in-mdx-4ei6)
 - [MDXConf](https://mdxjs.com/conf/) - Official MDX conference.
+- [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js.

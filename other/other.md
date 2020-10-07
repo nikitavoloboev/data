@@ -336,3 +336,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What's a rule that was implemented somewhere that massively backfired?](https://twitter.com/TrungTPhan/status/1311300651645767682)
 - [No Code Founders](https://nocodefounders.com/)
 - [TypeLit.io](https://www.typelit.io/) - Practice typing by retyping entire classic novels. ([HN](https://news.ycombinator.com/item?id=24696658))
+- [WikiExtractor](https://github.com/attardi/wikiextractor) - Python script that extracts and cleans text from a Wikipedia database dump.
+- [Hexatope](https://hexatope.io/) - Design your own unique jewellery.

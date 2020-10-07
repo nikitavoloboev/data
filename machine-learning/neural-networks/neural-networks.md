@@ -142,3 +142,7 @@
 - [Jigsaw Labs - Learn Neural Nets](https://www.jigsawlabs.io/#neural_nets)
 - [Implementing a Neural Network in C](https://www.cs.bham.ac.uk/~jxb/INC/nn.html) ([Code](https://github.com/mathmagson/neuralnetwork))
 - [Web Neural Network API](https://webmachinelearning.github.io/webnn/) - Dedicated low-level API for neural network inference hardware acceleration. [Polyfill](https://github.com/webmachinelearning/webnn-polyfill)
+- [Clarifying exceptions and visualizing tensor operations in deep learning code (2020)](https://explained.ai/tensor-sensor/index.html)
+- [Tensor Sensor](https://github.com/parrt/tensor-sensor) - Generate more helpful exception messages for numpy/pytorch matrix algebra expressions. ([Tweet](https://twitter.com/jeremyphoward/status/1313584515206451200))
+- [Explaining RNNs without neural networks (2020)](https://explained.ai/rnn/index.html)
+- [A visual explanation for regularization of linear models (2020)](https://explained.ai/regularization/index.html)

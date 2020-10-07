@@ -79,3 +79,5 @@
 - [I will never let monads be in a Clojure project (2018)](https://grishaev.me/en/no-monads/)
 - [Going faster than TensorFlow with Clojure (2020)](https://dragan.rocks/articles/20/Going-faster-than-TensorFlow-with-Clojure)
 - [Simulating Machines in Clojure](https://stopa.io/post/255) ([HN](https://news.ycombinator.com/item?id=24701737))
+- [Clojure projects with the REPL (2020)](https://www.youtube.com/watch?v=7muHVkxzZcE)
+- [Practicalli](https://practicalli.github.io/) - Practical approaches to learning Functional Programming with Clojure.

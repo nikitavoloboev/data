@@ -36,3 +36,4 @@
 - [Bitcoin Information & Educational Resources](https://www.lopp.net/bitcoin-information.html)
 - [c-lightning](https://github.com/ElementsProject/lightning) - Lightning Network implementation in C. ([Rust bindings](https://github.com/laanwj/rust-clightning-rpc)) ([Go bindings](https://github.com/niftynei/glightning))
 - [Bitcoin Summer School 2016](https://bitcoinschool.gr/) ([Consensus](https://bitcoinschool.gr/slides/session3.pdf))
+- [Vapor](https://vapor.network/) - Decentralized Web over Bitcoinized HTTP. ([HN](https://news.ycombinator.com/item?id=24708161))

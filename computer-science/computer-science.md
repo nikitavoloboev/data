@@ -69,3 +69,4 @@
 - [Free Online Programming & Computer Science Courses (2020)](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 - [CS Notes](https://csnotes.me/) - University CS notes. ([Code](https://github.com/samrobbins85/notes-site))
 - [Differential Synchronization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35605.pdf) - Describes the Differential Synchronization (DS) method for keeping documents synchronized.
+- [Foundations of Computer Science notebook](https://github.com/ocamllabs/focs-notebooks/blob/main/1A%20Foundations%20of%20Computer%20Science.ipynb)

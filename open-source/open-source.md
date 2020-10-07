@@ -121,3 +121,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Stop Mentoring First-Time Contributors (2019)](https://mikemcquaid.com/2019/02/16/stop-mentoring-first-time-contributors/)
 - [SQLite Copyright](https://www.sqlite.org/copyright.html)
 - [HN: DigitalOcean's Hacktoberfest Is Hurting Open Source (2020)](https://news.ycombinator.com/item?id=24643894) ([Lobsters](https://lobste.rs/s/epbcho/digitalocean_s_hacktoberfest_is_hurting)) ([How GitHub can improve](https://news.ycombinator.com/item?id=24655810))
+- [TJ Sponsored Projects](https://github.com/tj/sponsors)

@@ -150,6 +150,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Roman Muradov](https://www.bluebed.net/)
 - [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)
 - [Wenqing Yan](https://www.yuumeiart.com/) ([Twitter](https://twitter.com/Yuumei_Art))
+- [Kilian Eng](https://www.instagram.com/kilianeng/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Betty Jiang](https://www.instagram.com/kawaiibettyjiang/)
 - [Jim](https://jimllpaintit.tumblr.com/)
@@ -165,6 +166,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
+- [Ian Spriggs](https://ianspriggs.com/) - 3D Portrait Character Artist.
 - [Charles van den Eycken](https://www.invaluable.com/artist/eycken-charles-van-den-1859-0l00jbqpg4/sold-at-auction-prices/) ([Tweet](https://twitter.com/CGdrawing/status/1276403951135453184))
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)
@@ -276,6 +278,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Simon Sarris](https://www.instagram.com/simonsarris/)
 - [Jack Sharp](https://www.jacksharp.co.uk/)
 - [Karolina Szczur](https://fox.exposure.co/)
+- [Cole Rise](https://www.instagram.com/colerise/) ([Web](http://www.colerise.com/))
 - [Mona Kuhn](https://www.monakuhn.com/portfolio/works/)
 - [Aleks Five](https://www.flickr.com/photos/aleksfive/) ([Instagram](https://www.instagram.com/fivealeks/)) ([Fave photos](https://www.flickr.com/photos/aleksfive/favorites))
 - [Andre Josselin](https://www.instagram.com/josselin/)

@@ -15,3 +15,5 @@
 - [What gear/glassware should I need for some easy beginner synths and what should my budget be? (2020)](https://www.reddit.com/r/TheeHive/comments/j05ybe/what_gearglassware_should_i_need_for_some_easy/)
 - [What should a beginner do to get started synthesizing? (2020)](https://www.reddit.com/r/TheeHive/comments/ikyfrw/what_should_a_beginner_do_to_get_started/)
 - [Chemify](http://www.chem.gla.ac.uk/cronin/chemify/) - Project dedicated to making chemical synthesis accessible to everyone, regardless of training. ([Code](https://github.com/croningp/ChemputerSoftware))
+- [The Nobel Prize in Chemistry 2020: Genetic Scissors](https://www.nobelprize.org/prizes/chemistry/2020/press-release/) ([HN](https://news.ycombinator.com/item?id=24706670))
+- [Zhang Lab](https://zlab.bio/) - Studies biological diversity to discover systems and processes that may be harnessed for the improvement of human health.

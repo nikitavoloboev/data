@@ -281,3 +281,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Writing a book: is it worth it? (2020)](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) ([HN](https://news.ycombinator.com/item?id=24628549))
 - [Searchable Library of book summaries](https://blas.com/books/searchable-library/)
 - [The Book Trail](https://www.thebooktrail.com/) - Match your next read to your destination with The Literary Travel Agency.
+- [Chareads](https://chareads.com/) ([YouTube](https://www.youtube.com/c/Chareads/videos))

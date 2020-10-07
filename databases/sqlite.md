@@ -19,3 +19,4 @@
 - [SQLite 3.33 adds support for UPDATE FROM](https://www.sqlite.org/lang_update.html#upfrom) ([HN](https://news.ycombinator.com/item?id=24176608))
 - [SQLite: Protégé of PostgreSQL (2014)](https://www.youtube.com/watch?v=ZvmMzI0X7fE) ([Tweet](https://twitter.com/electron0zero/status/1280431762133270529))
 - [SQLite Quirks and Gotchas](https://sqlite.org/quirks.html)
+- [sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.

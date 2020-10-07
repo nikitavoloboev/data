@@ -98,3 +98,5 @@
 - [Node.js' Tooling Group](https://github.com/nodejs/tooling) - Advancing Node.js as a framework for writing great tools.
 - [5 TILs about Node.js Fundamentals from the Node.js Design Patterns Book (2020)](https://dev.to/swyx/5-tils-about-node-js-fundamentals-from-the-node-js-design-patterns-book-4dh2)
 - [Promise Pool](https://github.com/supercharge/promise-pool) - Map-like, concurrent promise processing.
+- [Node CLI Automation](https://nodecli.com/) - Build Node.js Command-line Automation Dev-tools.
+- [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2020](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020)

@@ -101,3 +101,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local](https://ourworldindata.org/food-choice-vs-eating-local) ([Tweet](https://twitter.com/MaxCRoser/status/1294928556036956162))
 - [Open Food Facts](https://world.openfoodfacts.org/) - Gathers information and data on food products from around the world.
 - [Falling Fruit](http://fallingfruit.org/) - Massive, collaborative map of the urban harvest.
+- [Grapefruit Is One of the Weirdest Fruits on the Planet](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)

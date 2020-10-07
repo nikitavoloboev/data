@@ -446,6 +446,7 @@
 - [maplit](https://github.com/bluss/maplit) - Rust container / collection literal macros for HashMap, HashSet, BTreeMap, BTreeSet.
 - [cio](https://github.com/oxidecomputer/cio) - Set of Rust libraries for accessing various APIs for doing CIO jobs. ([Automated CIO](https://blog.jessfraz.com/post/the-automated-cio/))
 - [ocaml-interop](https://github.com/simplestaking/ocaml-interop) - OCaml<->Rust FFI with an emphasis on safety.
+- [fs-err](https://github.com/andrewhickman/fs-err) - Simple wrapper around filesystem operations to provide more helpful error messages.
 
 ## Cargo Plugins
 

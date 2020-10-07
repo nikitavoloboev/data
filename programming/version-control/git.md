@@ -158,3 +158,6 @@ I love Git and version control. And I use version control over any project I do.
 - [Stacked pull requests: Make code reviews faster, easier, and more effective](https://www.michaelagreiler.com/stacked-pull-requests/)
 - [Create a global gitignore (2020)](https://mike.place/2020/global-gitignore/)
 - [Fortunately, I don't squash my commits (2020)](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/) ([HN](https://news.ycombinator.com/item?id=24686527)) ([Reddit](https://www.reddit.com/r/coding/comments/j5l9wb/fortunately_i_dont_squash_my_commits/))
+- [Git QuickFix](https://github.com/siedentop/git-quickfix) - Allows you to commit changes in your git repository to a new branch without leaving the current branch.
+- [Gerrit is Awesome (2016)](https://techspot.zzzeek.org/2016/04/21/gerrit-is-awesome/)
+- [Gerrit Code Review](https://www.gerritcodereview.com/)

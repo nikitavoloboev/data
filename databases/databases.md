@@ -214,5 +214,5 @@
 - [The Datacenter as a Computer](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F09/wharehousesizedcomputers.pdf) - Introduction to the Design of Warehouse-Scale Machines.
 - [Database migrations lessons learned (2020)](https://octopus.com/blog/database-migrations-lessons-learned)
 - [Delos: Simple, flexible control plane storage (2019)](https://engineering.fb.com/data-center-engineering/delos/)
-- [Time for a WTF MySQL Moment (2020)](https://gbl08ma.com/time-for-a-wtf-mysql-moment/) ([HN](https://news.ycombinator.com/item?id=24698660))
+- [Time for a WTF MySQL Moment (2020)](https://gbl08ma.com/time-for-a-wtf-mysql-moment/) ([HN](https://news.ycombinator.com/item?id=24698660)) ([Lobsters](https://lobste.rs/s/ktg3dd/time_for_wtf_mysql_moment))
 - [The Database is on Fire (2020)](http://acko.net/blog/the-database-is-on-fire/) ([Lobsters](https://lobste.rs/s/mpprag/database_is_on_fire))
