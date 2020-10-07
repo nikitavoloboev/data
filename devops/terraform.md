@@ -31,3 +31,4 @@
 - [tfenv](https://github.com/tfutils/tfenv) - Terraform version manager.
 - [AWS VPC Terraform module](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Creates VPC resources on AWS.
 - [Akashi](https://github.com/drlau/akashi) - Validate "terraform plan" changes against a customizable ruleset.
+- [How to implement Lambda@Edge functions in Terraform (2020)](https://transcend.io/blog/lambda-edge-functions-in-terraform)

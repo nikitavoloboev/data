@@ -104,3 +104,4 @@
 - [Running a Unix-like OS on a home-built CPU with a home-built C compiler (2020)](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/) ([HN](https://news.ycombinator.com/item?id=24680109))
 - [The History of the Microprocessor and the Personal Computer (2020)](https://www.techspot.com/article/874-history-of-the-personal-computer/)
 - [Accelerating Sparse Matrix-Matrix Multiplication with GPU Tensor Cores (2020)](https://arxiv.org/abs/2009.14600) ([HN](https://news.ycombinator.com/item?id=24681914))
+- [USB3: why it's a bit harder than USB2 (2020)](https://lab.ktemkin.com/post/why-is-usb3-harder/) ([HN](https://news.ycombinator.com/item?id=24704298))

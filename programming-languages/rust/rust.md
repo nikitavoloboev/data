@@ -334,3 +334,5 @@
 - [Dancing Links In Rust (2020)](https://ferrous-systems.com/blog/dlx-in-rust/)
 - [Designing a New Rust Class at Stanford: Safety in Systems Programming (2020)](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html) ([HN](https://news.ycombinator.com/item?id=24711314))
 - [CS 110L: Safety in Systems Programming (2020)](https://reberhardt.com/cs110l/spring-2020/)
+- [Rust async execution (2019)](http://jblog.andbit.net/2019/11/10/rust-async-execution/)
+- [Rust Async Benchmark](https://github.com/jkarneges/rust-async-bench) - Attempts to compare the performance of a manually written poll loop vs async/await.
