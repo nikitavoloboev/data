@@ -6,7 +6,7 @@ An application which allowed me to originally create [all of the maps](https://w
 
 I visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/fFxApNMuV2GmAzkBYxcD5quSFBM5wevdSMcRTz7H#1464.4,-1059.5,0).
 
-![](https://i.imgur.com/eRWiGKI.png)
+![](https://i.imgur.com/3UXdzco.png)
 
 ## Links
 
