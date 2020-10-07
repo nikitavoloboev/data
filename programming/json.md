@@ -20,5 +20,5 @@
 - [A Journey building a fast JSON parser and full JSONPath, Oj for Go](https://github.com/ohler55/ojg/blob/master/design.md)
 - [The Rise and Rise of JSON (2017)](https://twobithistory.org/2017/09/21/the-rise-and-rise-of-json.html) ([HN](https://news.ycombinator.com/item?id=23914743))
 - [Common JSON patterns in Haskell, Rust, and TypeScript (2020)](https://codetalk.io/posts/2020-04-05-common-json-patterns-in-haskell-rust-and-javascript.html)
-- [Project Cambria: Translate your data with lenses (2020)](https://www.inkandswitch.com/cambria.html)
+- [Project Cambria: Translate your data with lenses (2020)](https://www.inkandswitch.com/cambria.html) ([Tweet](https://www.instagram.com/archer.nick/))
 - [Cambria](https://github.com/inkandswitch/cambria) - JavaScript/Typescript library for converting JSON data between related schemas.

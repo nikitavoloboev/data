@@ -18,3 +18,4 @@
 - [Eleventy Leaderboards](https://www.11ty.dev/speedlify/)
 - [Eleventy and Vue Components - Behind the New Netlify.com (2020)](https://www.netlify.com/blog/2020/09/18/eleventy-and-vue-a-match-made-to-power-netlify.com/)
 - [To Eleventy and Beyond (2020)](https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/)
+- [How to Build an Eleventy Plugin (2020)](https://joshuaclanton.dev/blog/2020-10-06-how-to-build-an-eleventy-plugin/)
