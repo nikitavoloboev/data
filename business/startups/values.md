@@ -36,3 +36,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [4 month at Buildkite (2020)](https://juanitofatas.com/4-month-buildkite) - Amazing account of benefits at a company.
 - [Values Are the Rules You Break (2020)](https://8thlight.com/blog/stephen-prater/2020/09/15/values-rules-break.html)
 - [Designing a Culture of Reinvention (2020)](https://overcast.fm/+BlzFOUoJA)
+- [Working at Stripe experience](https://twitter.com/jzipdamonsta/status/1313860094438846464)

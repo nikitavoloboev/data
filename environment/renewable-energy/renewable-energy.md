@@ -13,3 +13,4 @@
 - [Semi-Transparent Solar Panels Allow Concurrent Production of Crops and Power (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202001189) ([HN](https://news.ycombinator.com/item?id=24252048))
 - [Ask HN: Is hydrogen likely to be a major source of power in the next 10 years? (2020)](https://news.ycombinator.com/item?id=24567711)
 - [Energypedia](https://energypedia.info/wiki/Main_Page) - Wiki-based platform for collaborative knowledge exchange on renewable energy and energy access.
+- [Notes on Hydrogen (2020)](https://www.orbuch.com/notes-on-hydrogen/)

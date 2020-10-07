@@ -52,3 +52,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Permapeople](https://permapeople.org/) - Platform for permaculture people.
 - [Why I Am Building permapeople.org (2020)](https://permapeople.org/blog/2020/10/05/why-i-am-building-permapeople-org.html) ([HN](https://news.ycombinator.com/item?id=24696688))
 - [A Clear, Strong, and Thermally Insulated Transparent Wood for Energy Effcient Windows (2020)](https://www.fpl.fs.fed.us/documnts/pdf2020/fpl_2020_mi001.pdf)
+- [We Need To Take CO2 Out Of The Sky (2020)](https://www.orbuch.com/carbon-removal/)
