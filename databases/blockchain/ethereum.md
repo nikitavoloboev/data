@@ -77,3 +77,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Guide to Staking on Ethereum 2.0 (Ubuntu/Medalla/Nimbus) (2020)](https://medium.com/@SomerEsat/guide-to-staking-on-ethereum-2-0-ubuntu-medalla-nimbus-5f4b2b0f2d7c)
 - [GoSwap Exchange](https://goswap.exchange/#/swap) ([Help](https://help.goswap.exchange/))
 - [yearn finance](https://yearn.finance/) - Yield optimization for stable coins. ([Yearn solidity smart contracts](https://github.com/iearn-finance/yearn-protocol))
+- [A Closer Look at Software Canisters, an Evolution of Smart Contracts (2020)](https://medium.com/dfinity/software-canisters-an-evolution-of-smart-contracts-internet-computer-f1f92f1bfffb)

@@ -338,3 +338,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [TypeLit.io](https://www.typelit.io/) - Practice typing by retyping entire classic novels. ([HN](https://news.ycombinator.com/item?id=24696658))
 - [WikiExtractor](https://github.com/attardi/wikiextractor) - Python script that extracts and cleans text from a Wikipedia database dump.
 - [Hexatope](https://hexatope.io/) - Design your own unique jewellery.
+- [Buy For Life](https://www.buyforlifeproducts.com/) - Find durable and sustainable products that are made to last. ([HN](https://news.ycombinator.com/item?id=24707407))

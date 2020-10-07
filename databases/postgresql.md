@@ -143,3 +143,4 @@
 - [How to Fix PostgreSQL Performance Issues with PG Extras (2020)](https://pawelurbanek.com/postgresql-fix-performance)
 - [7 Tips for PostgreSQL Bulk Data Loading (2020)](https://www.2ndquadrant.com/en/blog/7-best-practice-tips-for-postgresql-bulk-data-loading/)
 - [zheap: Reinvented PostgreSQL storage (2020)](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/) ([Lobsters](https://lobste.rs/s/qyd3pz/zheap_reinvented_postgresql_storage))
+- [EDB](https://www.enterprisedb.com/) - Supercharges PostgreSQL.
