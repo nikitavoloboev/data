@@ -335,3 +335,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Big Heads](https://bigheads.io/) - Easily generate avatars for your projects. ([Code](https://github.com/RobertBroersma/bigheads))
 - [What's a rule that was implemented somewhere that massively backfired?](https://twitter.com/TrungTPhan/status/1311300651645767682)
 - [No Code Founders](https://nocodefounders.com/)
+- [TypeLit.io](https://www.typelit.io/) - Practice typing by retyping entire classic novels. ([HN](https://news.ycombinator.com/item?id=24696658))

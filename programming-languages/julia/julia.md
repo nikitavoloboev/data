@@ -54,3 +54,4 @@
 - [AlgebraicJulia](https://algebraicjulia.github.io/) - Bringing compositionality to technical computing. ([Blog](https://www.algebraicjulia.org/blog/))
 - [A History of Releasing Julia Packages (2020)](https://cdg.dev/tech/release-history/)
 - [Chris Rackauckas - SciML: How Language is Changing Scientific Research (2020)](https://www.youtube.com/watch?v=3hM7wn7iJ70)
+- [A quick introduction to data parallelism in Julia (2020)](https://juliafolds.github.io/data-parallelism/tutorials/quick-introduction/) ([HN](https://news.ycombinator.com/item?id=24700436))

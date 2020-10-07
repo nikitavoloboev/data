@@ -8,3 +8,4 @@
 - [gourami](https://github.com/alexwennerberg/gourami) - Intentionally small, lightweight ActivityPub microblogging service. ([Lobsters](https://lobste.rs/s/n8fcyi/gourami_intentionally_small))
 - [ActivityPub Could Be The Future (2020)](https://kyefox.com/2020/04/09/activitypub-could-be-the-future/) ([HN](https://news.ycombinator.com/item?id=23852036))
 - [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine, based on ActivityPub. ([Web](https://joinplu.me/))
+- [Guide for new ActivityPub implementers (2020)](https://socialhub.activitypub.rocks/t/guide-for-new-activitypub-implementers/479)

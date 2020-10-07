@@ -146,3 +146,4 @@
 - [Booste Pre Trained Models](https://www.booste.io/pretrained-models) - Free-to-use GPT-2 API. ([HN](https://news.ycombinator.com/item?id=24561214))
 - [Context-theoretic Semantics for Natural Language: an Algebraic Framework (2007)](https://arxiv.org/abs/2009.10542)
 - [THUNLP (Natural Language Processing Lab at Tsinghua University) research](https://github.com/thunlp)
+- [AI training method exceeds GPT-3 performance with fewer parameters (2020)](https://www.infoq.com/news/2020/10/training-exceeds-gpt3/) ([HN](https://news.ycombinator.com/item?id=24704952))

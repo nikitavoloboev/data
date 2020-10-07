@@ -15,7 +15,7 @@ If analytics are used, it's best to implement them server side with something li
 - [Cube.js](https://github.com/statsbotco/cube.js) - Open source modular framework to build analytical web applications.
 - [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines. ([Article](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf))
-- [Plausible Analytics](https://plausible.io/) - Simple, privacy-friendly alternative to Google Analytics. ([Code](https://github.com/plausible/analytics)) ([HN](https://news.ycombinator.com/item?id=24696145)) ([Docs](https://docs.plausible.io/))
+- [Plausible Analytics](https://plausible.io/) - Simple, privacy-friendly alternative to Google Analytics. ([Code](https://github.com/plausible/analytics)) ([HN](https://news.ycombinator.com/item?id=24696145)) ([Docs](https://docs.plausible.io/)) ([Lobsters](https://lobste.rs/s/xksjh5/plausible_analytics_self_hosted_privacy))
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([Code](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
@@ -49,3 +49,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) ([Article](https://blog.cloudflare.com/free-privacy-first-analytics-for-a-better-web/)) ([HN](https://news.ycombinator.com/item?id=24627204)) ([HN 2](https://news.ycombinator.com/item?id=24628628))
 - [Big tech finally challenges Fathom Analytics (2020)](https://usefathom.com/blog/big-tech-vs-fathom)
 - [umami](https://umami.is/) - Simple, fast, website analytics alternative to Google Analytics. ([Code](https://github.com/mikecao/umami))
+- [The Analytics That Matter (2020)](https://css-tricks.com/the-analytics-that-matter/)

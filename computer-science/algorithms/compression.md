@@ -27,3 +27,4 @@
 - [Visualizing gzip compression with Python (2020)](https://brennan.io/2020/09/22/compression-curves/) ([HN](https://news.ycombinator.com/item?id=24563372))
 - [The Hitchhiker's Guide to Compression](https://go-compression.github.io/) ([Code](https://github.com/go-compression/go-compression.github.io)) ([HN](https://news.ycombinator.com/item?id=24691422))
 - [Miniz](https://github.com/richgel999/miniz) - Single C source file zlib-replacement library.
+- [Rationale for a Large Text Compression Benchmark (2009)](http://mattmahoney.net/dc/rationale.html)

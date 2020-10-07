@@ -78,3 +78,4 @@
 - [Clojure Notes](https://github.com/gnebbia/clojure_notes)
 - [I will never let monads be in a Clojure project (2018)](https://grishaev.me/en/no-monads/)
 - [Going faster than TensorFlow with Clojure (2020)](https://dragan.rocks/articles/20/Going-faster-than-TensorFlow-with-Clojure)
+- [Simulating Machines in Clojure](https://stopa.io/post/255) ([HN](https://news.ycombinator.com/item?id=24701737))

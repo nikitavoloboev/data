@@ -59,3 +59,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Sekreta](https://gitlab.com/sekreta/sekreta/) - Universal internet-anonymity API with privacy-enhancing subsystem.
 - [Kovri](https://gitlab.com/kovri-project/kovri/) - Free, decentralized, anonymity technology based on I2P's open specifications.
 - [Mute](https://mute.one/) - Privacy enhancing communication system.
+- [HN: Stop the Earn IT Bill Before It Breaks Encryption (2020)](https://news.ycombinator.com/item?id=24695373)

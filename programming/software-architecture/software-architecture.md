@@ -94,3 +94,4 @@
 - [Performance Engineering of Software Systems MIT course (2018)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/lecture-videos/index.htm)
 - [SRE Classroom: exercises for non-abstract large systems design](https://cloud.google.com/blog/products/devops-sre/join-sre-classroom-nalsd-workshops)
 - [SRE Classroom: Distributed PubSub](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
+- [Monolith -> Services: A Sketchy Approach (2020)](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) ([HN](https://news.ycombinator.com/item?id=24690947))

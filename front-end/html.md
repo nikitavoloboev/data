@@ -63,3 +63,4 @@
 - [DOM Expressions](https://github.com/ryansolid/dom-expressions) - Fine-Grained Runtime for Performant DOM Rendering.
 - [Form Design](https://gerireid.com/forms.html)
 - [xm](https://github.com/giuseppeg/xm) - Extensible HTML. ([Docs](https://giuseppegurgone.com/xm/))
+- [DOMPurify bypass: XSS via HTML namespace confusion (2020)](https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/) ([HN](https://news.ycombinator.com/item?id=24703230))

@@ -178,6 +178,7 @@
   - [Logging](programming/logging.md)
   - [Interactive computing](programming/interactive-computing/interactive-computing.md)
     - [Jupyter Notebooks](programming/interactive-computing/jupyter-notebooks.md)
+    - [Google Colab](programming/interactive-computing/google-colab.md)
     - [Mathematica](programming/interactive-computing/mathematica.md)
   - [Visual programming](programming/visual-programming.md)
   - [Software architecture](programming/software-architecture/software-architecture.md)

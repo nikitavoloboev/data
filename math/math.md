@@ -195,3 +195,4 @@
 - [Classic style and mathematical writing (2019)](https://www.epatters.org/post/classic-style-and-mathematical-writing/)
 - [Maxima](http://maxima.sourceforge.net/) - Computer Algebra System.
 - [Awesome Mathematical Notation Design](https://github.com/fredhohman/awesome-mathematical-notation-design)
+- [Toward an API for the Real Numbers (2020)](https://blog.acolyer.org/2020/10/02/toward-an-api-for-the-real-numbers/) ([HN](https://news.ycombinator.com/item?id=24700705))

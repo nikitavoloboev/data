@@ -71,3 +71,4 @@
 - [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779)) ([Code](https://github.com/learn-awesome/learn))
 - [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/)
 - [Golden](https://golden.com/explore) - Explore and Contribute to Knowledge. ([HN](https://news.ycombinator.com/item?id=24642566))
+- [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/) ([HN](https://news.ycombinator.com/item?id=24700647))

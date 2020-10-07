@@ -293,3 +293,4 @@
 - [Think Fast: Tensor Streaming Processor for Accelerating Deep Learning Workloads (2020)](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a145/466100a145.pdf)
 - [My Deep Learning Toolchain (2020)](https://rosshemsley.co.uk/posts/deep_learning_toolchain/)
 - [igel](https://github.com/nidhaloff/igel) - Machine learning tool that allows you to train/fit, test and use models without writing code. ([HN](https://news.ycombinator.com/item?id=24671525))
+- [Gradient Boosted Decision Trees (2020)](https://www.simonwardjones.co.uk/posts/gradient_boosted_decision_trees/) ([HN](https://news.ycombinator.com/item?id=24700250))
