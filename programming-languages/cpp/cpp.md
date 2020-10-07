@@ -129,3 +129,4 @@
 - [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 - [Back to Basics: Concurrency - Arthur O'Dwyer - CppCon 2020](https://www.youtube.com/watch?v=F6Ipn7gCOsY)
+- [Back to Basics: The Abstract Machine - Bob Steagall - CppCon 2020](https://www.youtube.com/watch?v=ZAji7PkXaKY)

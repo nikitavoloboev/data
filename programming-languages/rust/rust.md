@@ -333,3 +333,4 @@
 - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/) ([HN](https://news.ycombinator.com/item?id=24687685))
 - [Dancing Links In Rust (2020)](https://ferrous-systems.com/blog/dlx-in-rust/)
 - [Designing a New Rust Class at Stanford: Safety in Systems Programming (2020)](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html) ([HN](https://news.ycombinator.com/item?id=24711314))
+- [CS 110L: Safety in Systems Programming (2020)](https://reberhardt.com/cs110l/spring-2020/)

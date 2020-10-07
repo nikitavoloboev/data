@@ -6,6 +6,10 @@
 - [Bondi Icons](https://bondi-icons.com/) - Icons for your Mac.
 - [Susan Kare Icons](http://kareprints.com/)
 
+## Icon designers
+
+- [Gavin Nelson](https://twitter.com/Gavmn/status/1313859376130613251)
+
 ## Links
 
 - [Font Awesome](https://fontawesome.com/) - Free vector icons. ([Code](https://github.com/FortAwesome/Font-Awesome))

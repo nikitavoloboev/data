@@ -32,4 +32,4 @@
 - [Tailwind CSS Resources you wish you had (2020)](https://dev.to/tracycss/tailwind-css-resources-you-wish-you-had-3i18)
 - [Statik UI](https://statik.ly/) - Modern UI kit based on Tailwind CSS.
 - [Why Tailwind CSS (2020)](https://dev.to/swyx/why-tailwind-css-2o8f) ([Tweet](https://twitter.com/swyx/status/1312603851581652994))
-- [Tailwind Play](https://play.tailwindcss.com/) - Official Tailwind CSS playground. ([Intro article](https://blog.tailwindcss.com/introducing-tailwind-play))
+- [Tailwind Play](https://play.tailwindcss.com/) - Official Tailwind CSS playground. ([Intro article](https://blog.tailwindcss.com/introducing-tailwind-play)) ([Code](https://github.com/tailwindlabs/play.tailwindcss.com))
