@@ -302,5 +302,5 @@
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/)
 - [Yann LeCun Spring 2020 DL Course (Videos, Slides, Jupyter Notebooks)](https://atcold.github.io/pytorch-Deep-Learning/) ([HN](https://news.ycombinator.com/item?id=24715307))
 - [ML Guide: Feature Store vs Data Warehouse (2020)](https://www.logicalclocks.com/blog/feature-store-vs-data-warehouse) ([HN](https://news.ycombinator.com/item?id=24718301))
-- [Grid AI](https://www.grid.ai/) - Seamlessly train hundreds of Machine Learning models on the cloud from your laptop.
+- [Grid AI](https://www.grid.ai/) - Seamlessly train hundreds of Machine Learning models on the cloud from your laptop. ([HN](https://news.ycombinator.com/item?id=24720681))
 - [Getting Started with Applied ML Research (2020)](https://elvissaravia.substack.com/p/getting-started-with-applied-ml-research)

@@ -40,3 +40,4 @@
 - [Tips on using toggle switches](https://twitter.com/alexmuench/status/1311217244379271168)
 - [Design better data tables (2017)](https://medium.com/nextux/design-better-data-tables-4ecc99d23356)
 - [Usability Testing in 4 Simplified Steps](https://learnuxd.io/posts/usability-testing-in-4-simplified-steps)
+- [The UX copywriter](https://vanschneider.com/series/writing-ux-copy)

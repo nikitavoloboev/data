@@ -36,3 +36,4 @@
 - [Lambda calculus and Graham’s number (2012)](https://mindsarentmagic.org/2012/11/22/lambda-graham/)
 - [Rust on AWS Lambda Using AWS CDK for Deployment](https://github.com/codetalkio/patterns-serverless-rust-minimal)
 - [The Complete AWS Lambda Handbook for Beginners (2020)](https://dashbird.io/blog/complete-aws-lambda-handbook-beginners-part-1/)
+- [AWS Lambda Extensions – In preview (2020)](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/)

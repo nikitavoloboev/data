@@ -49,3 +49,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Big tech finally challenges Fathom Analytics (2020)](https://usefathom.com/blog/big-tech-vs-fathom)
 - [umami](https://umami.is/) - Simple, fast, website analytics alternative to Google Analytics. ([Code](https://github.com/mikecao/umami))
 - [The Analytics That Matter (2020)](https://css-tricks.com/the-analytics-that-matter/)
+- [The Startup Guide to Analytics](https://windsor.io/guide)

@@ -37,3 +37,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Values Are the Rules You Break (2020)](https://8thlight.com/blog/stephen-prater/2020/09/15/values-rules-break.html)
 - [Designing a Culture of Reinvention (2020)](https://overcast.fm/+BlzFOUoJA)
 - [Working at Stripe experience](https://twitter.com/jzipdamonsta/status/1313860094438846464)
+- [What Working At Stripe Has Been Like (2020)](https://kalzumeus.com/2020/10/09/four-years-at-stripe/)
