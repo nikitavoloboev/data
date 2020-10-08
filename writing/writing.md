@@ -181,3 +181,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Andy's Note-writing stream (2020)](https://www.youtube.com/watch?v=DGcs4tyey18)
 - [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [On the importance of writing for for computer-type-people](https://twitter.com/LeaKissner/status/1304419161364340737)
+- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)

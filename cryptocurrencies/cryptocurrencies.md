@@ -30,3 +30,4 @@
 - [Coinbase](https://www.coinbase.com/) - Digital currency exchange.
 - [What Dan Romero Thinks About Basically Everything (2020)](https://overcast.fm/+LDKc8Lu8Y) ([Notes](https://danromero.org/venture-stories-podcast-interview.html))
 - [Crypto Technology Reddit](https://www.reddit.com/r/CryptoTechnology/)
+- [Publication of Cryptocurrency Enforcement Framework](https://www.justice.gov/opa/pr/attorney-general-william-p-barr-announces-publication-cryptocurrency-enforcement-framework) ([HN](https://news.ycombinator.com/item?id=24721051))

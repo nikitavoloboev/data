@@ -31,3 +31,4 @@
 - ["Building a Unified Cancer Immunotherapy Data Library" by Lacey Kitch and Ben Kamphaus (2019)](https://www.youtube.com/watch?v=vwZxHVcfwuw)
 - [Genome-wide CRISPR–Cas9 screening reveals ubiquitous T cell cancer targeting via the monomorphic MHC class I-related protein MR1 (2020)](https://www.nature.com/articles/s41590-019-0578-8) ([HN](https://news.ycombinator.com/item?id=22101188)) ([Reddit](https://www.reddit.com/r/worldnews/comments/ergiwm/immune_cell_which_kills_most_cancers_discovered/))
 - [Projecting single-cell transcriptomics data onto a reference T cell atlas to interpret immune responses (2020)](https://www.biorxiv.org/content/10.1101/2020.06.23.166546v1)
+- [The Antibody Society](https://www.antibodysociety.org/) - International non-profit supporting antibody-related research and development.
