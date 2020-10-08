@@ -18,3 +18,4 @@
 - [Black Hole Paradoxes Reveal a Fundamental Link Between Energy and Order (2020)](https://www.quantamagazine.org/black-hole-paradoxes-reveal-a-fundamental-link-between-energy-and-order-20200528/) ([HN](https://news.ycombinator.com/item?id=23358777))
 - [Spotting Quantum Black Holes in the Lab (2020)](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715)
 - [SXS - Simulating eXtreme Spacetimes](https://www.black-holes.org/)
+- [What Black Holes Bring to the Galaxy (2020)](https://www.theatlantic.com/science/archive/2020/10/what-black-holes-bring-to-the-galaxy/616631/)

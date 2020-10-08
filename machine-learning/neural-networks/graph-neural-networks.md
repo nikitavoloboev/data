@@ -17,3 +17,4 @@
 - [Traffic prediction with advanced Graph Neural Networks (2020)](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks) ([HN](https://news.ycombinator.com/item?id=24386584))
 - [Transformers Are Graph Neural Networks (2020)](https://thegradient.pub/transformers-are-graph-neural-networks/) ([HN](https://news.ycombinator.com/item?id=24453294))
 - [Must-read papers on graph neural networks](https://github.com/thunlp/GNNPapers)
+- [Latest developments in Graph Neural Networks: A list of recent conference talks (2020)](https://www.reddit.com/r/MachineLearning/comments/j6wzut/r_latest_developments_in_graph_neural_networks_a/)

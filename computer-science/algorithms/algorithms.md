@@ -22,7 +22,7 @@
 - [Algorithms for Optimization book](https://mitpress.mit.edu/books/algorithms-optimization)
 - [Collaborative book on algorithms](https://www.algorithm-archive.org/) ([Code](https://github.com/algorithm-archivists/algorithm-archive))
 - [Algorithms in C by Robert Sedgewick](http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf)
-- [Algorithm Design ManualAlgorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+- [Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 - [MIT Introduction to Algorithms course (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [How to implement an algorithm from a scientific paper (2012)](http://codecapsule.com/2012/01/18/how-to-implement-a-paper/)
 - [Quadsort](https://github.com/scandum/quadsort) - Stable non-recursive merge sort named quadsort.
@@ -49,6 +49,8 @@
 - [Elements of Programming book](http://elementsofprogramming.com/) - Decomposing programs into a system of algorithmic components. ([Review](http://www.pathsensitive.com/2020/09/book-review-elements-of-programmnig.html)) ([HN](https://news.ycombinator.com/item?id=24635947)) ([Lobsters](https://lobste.rs/s/bqnhbo/book_review_elements_programmnig))
 - [Competitive Programming Algorithms](https://cp-algorithms.com/)
 - [CPP/C](https://github.com/akshitagit/CPP) - C/C++ algorithms/DS problems.
+- [How to design an algorithm (2018)](https://www.adamconrad.dev/blog/how-to-design-an-algorithm/)
+- [CSE 373 – Introduction to Algorithms, by Steven Skiena (2020)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
 
 ## Images
 

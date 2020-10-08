@@ -118,3 +118,4 @@
 - [Narrator](https://www.narrator.ai/) - Data modeling platform built on a single table. ([HN](https://news.ycombinator.com/item?id=24640540))
 - [Data Engineering Project](https://github.com/damklis/DataEngineeringProject) - Implementation of the data pipeline which consumes the latest news from RSS Feeds and makes them available for users via handy API.
 - [Hex Technologies](https://hex.tech/) - Turn your notebooks into collaborative, sharable data apps and stories. No more loose CSVs, chart screenshots, or stale decks.
+- [News Aggregator from Scratch in 2 Weeks (2020)](https://danlark.org/2020/07/31/news-aggregator-from-scratch-in-2-weeks/)

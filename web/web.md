@@ -170,3 +170,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Odin Project](https://www.theodinproject.com/) - Full stack curriculum.
 - [CS50's Web Programming with Python and JavaScript (2020)](https://cs50.harvard.edu/web/2020/)
 - [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.
+- [How The URL Was Built (2020)](https://www.welcometothejungle.com/en/articles/btc-url-internet)
+- [Developing For The Semantic Web (2020)](https://www.smashingmagazine.com/2020/10/developing-semantic-web/)

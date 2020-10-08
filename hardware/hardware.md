@@ -105,3 +105,4 @@
 - [The History of the Microprocessor and the Personal Computer (2020)](https://www.techspot.com/article/874-history-of-the-personal-computer/)
 - [Accelerating Sparse Matrix-Matrix Multiplication with GPU Tensor Cores (2020)](https://arxiv.org/abs/2009.14600) ([HN](https://news.ycombinator.com/item?id=24681914))
 - [USB3: why it's a bit harder than USB2 (2020)](https://lab.ktemkin.com/post/why-is-usb3-harder/) ([HN](https://news.ycombinator.com/item?id=24704298))
+- [PS5 Teardown (2020)](https://www.youtube.com/watch?v=CaAY-jAjm0w) ([HN](https://news.ycombinator.com/item?id=24707924))

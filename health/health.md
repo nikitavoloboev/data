@@ -32,3 +32,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Why We Have So Many Problems with Our Teeth (2020)](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/) ([HN](https://news.ycombinator.com/item?id=23335368))
 - [Biohacking Lite (2020)](https://karpathy.github.io/2020/06/11/biohacking-lite/) ([HN](https://news.ycombinator.com/item?id=23501021))
 - [Apple is building an operating system for health (2020)](https://divinations.substack.com/p/healthos)([HN](https://news.ycombinator.com/item?id=23507600))
+- [The Long Game by Mehdi Yacoubi](https://mehdiyacoubi.substack.com/)

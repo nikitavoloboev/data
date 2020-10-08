@@ -44,3 +44,4 @@
 - [Lectures Note for Data Structures and Algorithms (2019)](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf)
 - [Mechanically Deriving Binary Tree Iterators with Continuation Defunctionalization (2020)](https://abhinavsarkar.net/posts/continuation-defunctionalization/)
 - [Segment Tree data structure](https://cp-algorithms.com/data_structures/segment_tree.html)
+- [Structure of a binary state tree (2020)](https://medium.com/@gballet/structure-of-a-binary-state-tree-part-1-48c587836d2f)

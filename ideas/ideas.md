@@ -64,3 +64,4 @@ I try to give my full attention to any ideas I am working on.
 - [What software do you dream about, but do not have time to do yourself? (2020)](https://lobste.rs/s/8aiw6g/what_software_do_you_dream_about_do_not)
 - [Businesses I Love](https://sweatystartup.com/businesses-i-love/)
 - [Making The Leap (2020)](https://www.coreyhaines.co/blog/leap)
+- [Are Ideas Getting Harder to Find? (2020)](https://web.stanford.edu/~chadj/IdeaPF.pdf)

@@ -87,6 +87,7 @@
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
+- [GCP Haskell](https://github.com/brendanhay/gogol) - Comprehensive Google Services SDK for Haskell.
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))
 - [OpenAI API](https://beta.openai.com/) ([HN](https://news.ycombinator.com/item?id=23489653))
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)

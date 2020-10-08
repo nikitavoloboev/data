@@ -234,3 +234,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Open Radar](https://openradar.appspot.com/page/1) - Community bug reports. ([Code](https://github.com/timburks/openradar))
 - [Open Feedback Assistant](https://github.com/feedback-assistant/reports) - Open collection of Apple Feedback Assistant reports.
 - [iOS 14 Monochrome Icon Set](https://icons.tr.af/)
+- [Babylon iOS Playbook](https://github.com/babylonhealth/ios-playbook)
+- [Formatting Notes and Gotchas (2020)](https://www.andyibanez.com/posts/formatting-notes-and-gotchas/) ([Tweet](https://twitter.com/steipete/status/1314113507529568256))

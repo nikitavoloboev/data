@@ -53,3 +53,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Why I Am Building permapeople.org (2020)](https://permapeople.org/blog/2020/10/05/why-i-am-building-permapeople-org.html) ([HN](https://news.ycombinator.com/item?id=24696688))
 - [A Clear, Strong, and Thermally Insulated Transparent Wood for Energy Effcient Windows (2020)](https://www.fpl.fs.fed.us/documnts/pdf2020/fpl_2020_mi001.pdf)
 - [We Need To Take CO2 Out Of The Sky (2020)](https://www.orbuch.com/carbon-removal/)
+- [Recycling was a lie to sell more plastic, recycling industry veteran says (2020)](https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618) ([HN](https://news.ycombinator.com/item?id=24714880))

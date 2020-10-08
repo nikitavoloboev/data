@@ -423,6 +423,9 @@
 - [NoopKit](https://github.com/mkj-is/NoopKit) - Short for No-operation Kit. Set of functions making work with empty closures a breeze.
 - [Swinject](https://github.com/Swinject/Swinject) - Lightweight dependency injection framework for Swift.
 - [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and macOS.
+- [Swift Algorithms](https://github.com/apple/swift-algorithms) - Open-source package of sequence and collection algorithms, along with their related types. ([Article](https://swift.org/blog/swift-algorithms/)) ([HN](https://news.ycombinator.com/item?id=24714488))
+- [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework for iOS, tvOS, watchOS, macOS, and Mac Catalyst.
+- [ReactiveKit](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time.
 
 ## Other (not lib)
 

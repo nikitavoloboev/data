@@ -19,3 +19,4 @@
 - [Tofugu](https://www.tofugu.com/) - Japanese Culture & Language Blog.
 - [Learning How to Learn Japanese (2020)](https://zachdaniel.dev/learning-how-to-learn-japanese/) ([HN](https://news.ycombinator.com/item?id=24557961))
 - [Essential Japanese: The Mental Model](https://japanesecomplete.com/guide)
+- [Remote in Japan](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) - Technology companies that allow remote work in Japan.

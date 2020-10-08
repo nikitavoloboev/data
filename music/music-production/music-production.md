@@ -101,3 +101,4 @@
 - [SoundCard](https://github.com/bastibe/SoundCard) - Library for playing and recording audio without resorting to a CPython extension.
 - [MIDI Sucks](https://pbat.ch/wiki/MIDI_sucks/)
 - [Essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings. ([Web](https://essentia.upf.edu/))
+- [Nicholas Spice · How to play the piano](https://www.lrb.co.uk/the-paper/v14/n06/nicholas-spice/how-to-play-the-piano) ([HN](https://news.ycombinator.com/item?id=24702650))

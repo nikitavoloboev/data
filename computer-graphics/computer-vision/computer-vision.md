@@ -104,3 +104,4 @@
 - [DAIN (Depth-Aware Video Frame Interpolation)](https://github.com/baowenbo/DAIN)
 - [Picsellia](https://picsellia.com/) - Development platform dedicated to Computer Vision.
 - [Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch](https://github.com/vita-epfl/openpifpaf)
+- [Object Recognition with Gradient-Based Learning (1999)](https://link.springer.com/chapter/10.1007/3-540-46805-6_19)

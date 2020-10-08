@@ -3,6 +3,7 @@
 ## Nice Flutter apps
 
 - [Gmail Clone built with Flutter](https://github.com/rodydavis/gmail_clone)
+- [GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git.
 
 ## Links
 
@@ -19,3 +20,4 @@
 - [Widget Studio](https://widget.studio/#/) - Drag and Drop Flutter Widget Creator.
 - [Flutter Course Resources](https://github.com/londonappbrewery/Flutter-Course-Resources)
 - [Flutter Gallery](https://gallery.flutter.dev/) - Resource to help developers evaluate and use Flutter. ([Code](https://github.com/flutter/gallery))
+- [Flutter Roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development.

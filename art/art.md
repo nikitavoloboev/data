@@ -145,6 +145,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Daniel Riise](https://www.instagram.com/nostalgictree/)
 - [Andrey Tkachenko](https://atdesign.com/)
 - [Colin Prahl](http://www.colinprahl.com/)
+- [Fernando Magalhaes](https://www.instagram.com/mglhs_com/)
 - [Raphael Lacoste](https://gumroad.com/raphaellacoste)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)

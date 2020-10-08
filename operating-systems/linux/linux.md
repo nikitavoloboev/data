@@ -173,3 +173,4 @@
 - [Clean ALSA documentation](https://rendaw.gitlab.io/blog/2125f09a85f2.html) ([Lobsters](https://lobste.rs/s/vdb8ih/clean_alsa_documentation))
 - [An introduction to Linux kernel initcalls (2020)](https://www.collabora.com/news-and-blog/blog/2020/07/14/introduction-to-linux-kernel-initcalls/) ([Part 2](https://www.collabora.com/news-and-blog/blog/2020/09/25/initcalls-part-2-digging-into-implementation/))
 - [Unlocking eBPF power (2020)](https://devopsspiral.com/articles/linux/ebpf-unlock/)
+- [Linux interview questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md)

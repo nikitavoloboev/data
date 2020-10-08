@@ -24,7 +24,6 @@ If analytics are used, it's best to implement them server side with something li
 - [What is your preferred web traffic analytics platform? (2020)](https://lobste.rs/s/gzkue1/what_is_your_preferred_web_traffic)
 - [blackrock](https://github.com/rekki/blackrock) - Events & Analytics.
 - [RudderStack](https://rudderstack.com/) - Platform for collecting, storing and routing customer event data to dozens of tools. ([Code](https://github.com/rudderlabs/rudder-server))
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time.
 - [OpenTelemetry API for Javascript](https://github.com/open-telemetry/opentelemetry-js) - Framework for collecting traces and metrics from applications.
 - [PostHog](https://posthog.com/) - Developer-friendly, open-source product analytics. ([Code](https://github.com/PostHog/posthog))
 - [We ditched Google Analytics for good (2020)](https://missiveapp.com/blog/privacy-first-analytics)

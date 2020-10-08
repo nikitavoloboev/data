@@ -84,3 +84,4 @@
 - [Little Bits of Lisp video series](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_)
 - [What Made Lisp Different (2001)](http://www.paulgraham.com/diff.html)
 - [Successful Lisp Book Contents](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/contents.html)
+- [Lisp and Haskell (2015)](https://markkarpov.com/post/lisp-and-haskell.html) ([HN](https://news.ycombinator.com/item?id=24712207))

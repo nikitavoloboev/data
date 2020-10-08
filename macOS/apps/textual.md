@@ -2,9 +2,9 @@
 
 I like IRC even though Discord is a strictly superior experience. I currently use Matrix and [Element](https://element.io) client to connect to IRC Freenode channels I care about.
 
-I use Geeza Pro Regular 18pt font & built in Tomorrow Night (Eighties) theme.
+In Textual, when I did use it, I used Geeza Pro Regular 18pt font & built in Tomorrow Night (Eighties) theme.
 
-I love Textual's channel search feature.
+Textual has great channel search feature.
 
 ![](https://i.imgur.com/CMBW8Qf.png)
 

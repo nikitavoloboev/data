@@ -36,3 +36,4 @@
 - [Score matching with Langevin Sampling: a new contender to GANs (2020)](https://ajolicoeur.wordpress.com/the-new-contender-to-gans-score-matching-with-langevin-sampling/) ([HN](https://news.ycombinator.com/item?id=24366524))
 - [PyTorch GANs](https://github.com/gordicaleksa/pytorch-gans) - Contains PyTorch implementation of various GAN architectures.
 - [ExGAN: Adversarial Generation of Extreme Samples (2020)](https://arxiv.org/abs/2009.08454)
+- [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/eladrich/pixel2style2pixel)

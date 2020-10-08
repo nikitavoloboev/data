@@ -16,3 +16,4 @@
 - [MatCaps](https://github.com/nidorx/matcaps) - Huge library of MatCap textures in PNG and ZMT.
 - [Shader Doodle](https://github.com/halvves/shader-doodle) - Friendly web-component for writing and rendering shaders.
 - [Collection of shaders to draw color maps](https://github.com/kbinani/colormap-shaders)
+- [ShaderConductor](https://github.com/microsoft/ShaderConductor) - Tool designed for cross-compiling HLSL to other shading languages.

@@ -38,3 +38,4 @@
 - [Selling Sunset](https://iknowaspot.substack.com/p/-selling-sunset)
 - [I Know a Spot](https://iknowaspot.substack.com/)
 - [Amazingly spacious house](https://twitter.com/ariel_n/status/1261038889466130433)
+- [Sverchok](https://github.com/nortikin/sverchok) - Powerful parametric tool for architects, allowing geometry to be programmed visually with nodes.

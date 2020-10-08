@@ -161,3 +161,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Git QuickFix](https://github.com/siedentop/git-quickfix) - Allows you to commit changes in your git repository to a new branch without leaving the current branch.
 - [Gerrit is Awesome (2016)](https://techspot.zzzeek.org/2016/04/21/gerrit-is-awesome/)
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
+- [Dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation. ([Web](https://www.dulwich.io/))
+- [Ask HN: What are the pros / cons of using monorepos? (2020)](https://news.ycombinator.com/item?id=24719525)

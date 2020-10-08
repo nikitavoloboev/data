@@ -115,3 +115,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Bitmovin](https://bitmovin.com/) - Adaptive streaming video infrastructure encoding and HTML5 player.
 - [screego/server](https://github.com/screego/server) - Screen sharing for developers. ([Web](https://app.screego.net/)) ([Docs](https://screego.net/#/))
 - [Whereby](https://whereby.com/) - Video Meetings, Video Conferencing and Screen Sharing. Same meeting link every time.
+- [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi. ([Web](https://www.calla.chat/)) ([HN](https://news.ycombinator.com/item?id=24710948))

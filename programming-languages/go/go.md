@@ -343,3 +343,6 @@ Go promotes composition over inheritance.
 - [Python and Go (2020)](https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html)
 - [Surprises and Gotchas When Working With JSON (2020)](https://www.alexedwards.net/blog/json-surprises-and-gotchas)
 - [Package Management With Go Modules: The Pragmatic Guide (2019)](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
+- [Polymorphism in Limbo and Go 2 (2020)](https://seh.dev/limbgo/) ([Lobsters](https://lobste.rs/s/blefqc/polymorphism_limbo_go_2))
+- [I wrote Go code for 3 weeks and you won’t believe what happened next (2020)](https://danlark.org/2020/01/31/i-wrote-go-code-for-3-weeks-and-you-wont-believe-what-happened-next/)
+- [depaware](https://github.com/tailscale/depaware) - Makes you aware of your Go dependencies. It generates a list of your dependencies which you check in to your repo.

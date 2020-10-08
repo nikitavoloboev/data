@@ -211,3 +211,4 @@
 - [CSS Demystified](https://cssdemystified.com/) - Start writing CSS with confidence.
 - [A Complete Guide to CSS Media Queries (2020)](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
 - [Custom bullets with CSS ::marker (2020)](https://web.dev/css-marker-pseudo-element/)
+- [Easing Functions Cheat Sheet](https://easings.net/) ([Code](https://github.com/ai/easings.net))

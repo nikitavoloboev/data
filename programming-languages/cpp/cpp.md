@@ -130,3 +130,5 @@
 - [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 - [Back to Basics: Concurrency - Arthur O'Dwyer - CppCon 2020](https://www.youtube.com/watch?v=F6Ipn7gCOsY)
 - [Back to Basics: The Abstract Machine - Bob Steagall - CppCon 2020](https://www.youtube.com/watch?v=ZAji7PkXaKY)
+- [I need extra C/C++ performance now. How? (2020)](https://danlark.org/2020/10/08/i-need-extra-c-c-performance-now-how/)
+- [How to Keep the Binary Compatibility of C++ Based Objects (2020)](https://www.intechopen.com/books/computer-methods-and-programs-in-biomedical-signal-and-image-processing/how-to-keep-the-binary-compatibility-of-c-based-objects)

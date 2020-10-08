@@ -81,3 +81,5 @@
 - [Simulating Machines in Clojure](https://stopa.io/post/255) ([HN](https://news.ycombinator.com/item?id=24701737))
 - [Clojure projects with the REPL (2020)](https://www.youtube.com/watch?v=7muHVkxzZcE)
 - [Practicalli](https://practicalli.github.io/) - Practical approaches to learning Functional Programming with Clojure.
+- [Salza λiquid text editor](https://github.com/mogenslund/liquid) - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
+- [Clojure Rich Comment Blocks (2020)](https://betweentwoparens.com/rich-comment-blocks)

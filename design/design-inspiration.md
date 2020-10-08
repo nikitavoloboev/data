@@ -203,6 +203,7 @@ Here are few more things I liked, design wise.
 - [Liam Cooke](https://liamcooke.com/)
 - [Kitze](https://kitze.io/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)
+- [Bradley Taunt](https://uglyduck.ca/)
 - [Malte Ubl](https://www.industrialempathy.com/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
 - [Cassidy Williams](https://cassidoo.co/)

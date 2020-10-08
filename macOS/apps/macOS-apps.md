@@ -65,6 +65,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [SensibleSideButtons](https://sensible-side-buttons.archagon.net/) - Side navigation for third-party mice in macOS. ([HN](https://news.ycombinator.com/item?id=24389977))
 - [DevUtils](https://devutils.app/) - Developer Utilities for macOS. ([Code](https://github.com/DevUtilsApp/DevUtils-app)) ([HN](https://news.ycombinator.com/item?id=24604291))
 - [5 GUIs](https://github.com/ZeeZide/5GUIs) - Tiny macOS app that can detect the GUI technologies used in other apps.
+- [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar.
 
 ## Other interesting apps
 

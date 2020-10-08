@@ -497,6 +497,7 @@
 - [Go-Diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go. ([HN](https://news.ycombinator.com/item?id=24603926))
 - [Bluge](https://github.com/blugelabs/bluge) - Modern text indexing in go.
 - [Typed](https://github.com/karlseguin/typed) - Wrapper around map[string]interface{} to provide some strong typing.
+- [Purell](https://github.com/PuerkitoBio/purell) - Go library to normalize URLs.
 
 ## Links
 

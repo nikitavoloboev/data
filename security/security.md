@@ -94,3 +94,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security and Pentest/CTF.
 - [Bypassing ESP32 Encrypted Secure Boot (2020)](https://raelize.com/posts/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
 - [F-Secure Labs](https://labs.f-secure.com/) - Cyber security research and development.
+- [We Hacked Apple for 3 Months: Here’s What We Found (2020)](https://samcurry.net/hacking-apple/) ([HN](https://news.ycombinator.com/item?id=24718078))

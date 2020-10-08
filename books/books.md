@@ -282,3 +282,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Searchable Library of book summaries](https://blas.com/books/searchable-library/)
 - [The Book Trail](https://www.thebooktrail.com/) - Match your next read to your destination with The Literary Travel Agency.
 - [Chareads](https://chareads.com/) ([YouTube](https://www.youtube.com/c/Chareads/videos))
+- [IntechOpen](https://www.intechopen.com/) - Publisher of Open Access books. By scientists, for scientists.

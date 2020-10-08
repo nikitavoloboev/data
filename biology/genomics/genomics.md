@@ -29,3 +29,4 @@
 - [Hail](https://github.com/hail-is/hail) - Open-source, general-purpose, Python-based data analysis tool with additional data types and methods for working with genomic data. ([References](https://hail.is/references.html))
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome aggregation database.
 - [We can now edit the human genome – how far should we go?](https://www.pbs.org/wgbh/nova/video/human-nature/) ([HN](https://news.ycombinator.com/item?id=24454954))
+- [Scientific Background: A tool for genome editing (2020)](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)

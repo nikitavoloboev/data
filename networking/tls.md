@@ -16,3 +16,4 @@
 - [crypto/tls in Go](https://github.com/cloudflare/tls-tris)
 - [OpenSSL](https://www.openssl.org/) - Robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
 - [BoringSSL](https://github.com/google/boringssl) - Fork of OpenSSL that is designed to meet Google's needs.
+- [Certigo](https://github.com/square/certigo) - Utility to examine and validate certificates to help with debugging SSL/TLS issues.

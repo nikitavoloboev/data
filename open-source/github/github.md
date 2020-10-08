@@ -120,3 +120,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Keep your GitHub forks up to date (2020)](https://samizdat.dev/keep-your-github-forks-up-to-date/)
 - [GitHub Security](https://github.com/features/security) - Code scanning & more. ([Article](https://github.blog/2020-09-30-code-scanning-is-now-available/)) ([HN](https://news.ycombinator.com/item?id=24646960))
 - [Go script to query whether a GitHub user is your sponsor at a given tier](https://gist.github.com/alexellis/6212c988189323dbb2806d1c7f7699ab)
+- [github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email even if it's not public.

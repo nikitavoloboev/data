@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm.
+- [Zstandard](https://github.com/facebook/zstd) - Fast real-time compression algorithm. ([HN](https://news.ycombinator.com/item?id=24714854))
 - [Orz](https://github.com/richox/orz) - General purpose data compressor written in rust.
 - [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New Generation Entropy coders.
 - [Snappy](https://github.com/google/snappy) - Fast compressor/decompressor.

@@ -149,3 +149,5 @@
 - [AI training method exceeds GPT-3 performance with fewer parameters (2020)](https://www.infoq.com/news/2020/10/training-exceeds-gpt3/) ([HN](https://news.ycombinator.com/item?id=24704952))
 - [BERT Attention Analysis](https://github.com/clarkkev/attention-analysis)
 - [Neural Modules and Models for Conversational AI (2020)](https://medium.com/pytorch/nvidia-nemo-neural-modules-and-models-for-conversational-ai-d660480d9696)
+- [BERTopic](https://github.com/MaartenGr/BERTopic) - Topic modeling technique that leverages BERT embeddings and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
+- [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - Comprehensive reference for all topics related to Natural Language Processing.

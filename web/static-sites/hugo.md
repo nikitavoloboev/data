@@ -23,6 +23,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Hugo Starter Tailwind Basic](https://github.com/bep/hugo-starter-tailwind-basic) - Simple starter set up with TailnwindCSS and its typograhpy plugin and a build setup using PostCSS and PurgeCSS (when running the production build).
 - [Minimal](https://github.com/calintat/minimal)
 - [Cocoa](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme.
+- [Tale](https://github.com/EmielH/tale-hugo/) - Minimal theme curated for storytellers.
 
 ## Examples
 

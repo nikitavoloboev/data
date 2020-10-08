@@ -32,3 +32,4 @@
 - [AWS VPC Terraform module](https://github.com/terraform-aws-modules/terraform-aws-vpc) - Creates VPC resources on AWS.
 - [Akashi](https://github.com/drlau/akashi) - Validate "terraform plan" changes against a customizable ruleset.
 - [How to implement Lambda@Edge functions in Terraform (2020)](https://transcend.io/blog/lambda-edge-functions-in-terraform)
+- [terraform-exec](https://github.com/hashicorp/terraform-exec) - Go module for constructing and running Terraform CLI commands. Structured return values use the data types defined in terraform-json.
