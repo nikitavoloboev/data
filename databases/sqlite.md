@@ -20,3 +20,4 @@
 - [SQLite: Protégé of PostgreSQL (2014)](https://www.youtube.com/watch?v=ZvmMzI0X7fE) ([Tweet](https://twitter.com/electron0zero/status/1280431762133270529))
 - [SQLite Quirks and Gotchas](https://sqlite.org/quirks.html)
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
+- [CG/SQL](https://github.com/facebookincubator/CG-SQL) - Easy, accurate SQLite code generation. ([Article](https://engineering.fb.com/open-source/cg-sql/))

@@ -103,6 +103,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Brendon Burton](https://www.instagram.com/burtoo/) ([Web](https://www.brendonburton.com/))
 - [Steve Teeple](https://steveteeps.com/)
 - [Nikolai Lockertsen](https://www.artstation.com/nikolailockertsen)
+- [Kevin Hong](https://www.instagram.com/taijuey/) ([Web](https://www.kevinhong.com/))
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Marcin Sacha](http://marcinsacha.arte.usermd.net/en/home-2/) ([Instagram](https://www.instagram.com/sachamarcin/))

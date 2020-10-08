@@ -41,3 +41,5 @@
 - [When Two Bacteria Become One (2020)](https://www.udel.edu/udaily/2020/september/eleftherios-papoutsakis-bacterial-fusion/) ([HN](https://news.ycombinator.com/item?id=24354888))
 - [Trefle Botanical API](https://github.com/treflehq/trefle-api) ([HN](https://news.ycombinator.com/item?id=24451320)) ([Web](https://trefle.io/))
 - [When Plants Go to War](http://nautil.us/issue/90/something-green/when-plants-go-to-war-rp) ([HN](https://news.ycombinator.com/item?id=24702588))
+- [Adaptive optics/lattice light-sheet microscope (2018)](https://www.electrooptics.com/news/harvard-team-develops-adaptive-opticslattice-light-sheet-microscope)
+- [Drosophila Cell Division on Lattice Light Sheet Microscope](https://vimeo.com/202222028)

@@ -59,3 +59,4 @@
 - [The algebra and machine representation of statistical models (2020)](https://arxiv.org/abs/2006.08945)
 - [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/preface.php)
 - [An Introduction to Conditional Random Fields (2012)](https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf)
+- [Modeling with Data (2009)](https://ben.klemens.org/pdfs/gsl_stats.pdf)
