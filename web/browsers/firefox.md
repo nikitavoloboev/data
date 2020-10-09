@@ -16,3 +16,4 @@
 - [Introduction to Firefox Debugger](https://mozilladevelopers.github.io/playground/debugger)
 - [MaterialFox](https://github.com/muckSponge/MaterialFox) - Material Design-inspired userChrome.css theme for Firefox.
 - [Tridactyl](https://github.com/tridactyl/tridactyl) - Vim-like interface for Firefox.
+- [Firefox CSS Overflow Debugger](https://twitter.com/violasong/status/1314406711696912386)
