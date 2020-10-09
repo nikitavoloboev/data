@@ -165,3 +165,4 @@
 - [Introducing Swift Atomics (2020)](https://swift.org/blog/swift-atomics/) ([HN](https://news.ycombinator.com/item?id=24657500))
 - [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices)
 - [SwiftDump](https://github.com/neil-wu/SwiftDump) - Command-line tool for retriving the Swift Object info from Mach-O file.
+- [Advanced Swift learning resources (2020)](https://twitter.com/drewmccormack/status/1314539109013127181)

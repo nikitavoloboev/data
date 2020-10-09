@@ -24,3 +24,4 @@
 - [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning)
 - [The architecture of nginx (2012)](http://www.aosabook.org/en/nginx.html) ([Lobsters](https://lobste.rs/s/ipsqjq/architecture_nginx_2012))
 - [Migrating Dropbox from Nginx to Envoy (2020)](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) ([HN](https://news.ycombinator.com/item?id=24000546))
+- [How we scaled nginx and saved the world 54 years every day (2020)](https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/)
