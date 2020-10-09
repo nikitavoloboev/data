@@ -21,3 +21,4 @@
 - [How to Form a California LLC (without a lawyer) (2020)](https://feross.org/form-california-llc/) ([HN](https://news.ycombinator.com/item?id=24487937)) ([Tweet](https://twitter.com/feross/status/1306014643471683585))
 - [The Rise and Fall of American Growth: A summary (2020)](https://rootsofprogress.org/summary-the-rise-and-fall-of-american-growth)
 - [HN: Trump administration announces overhaul of H1B visa program requiring higher pay (2020)](https://news.ycombinator.com/item?id=24702393)
+- [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA (2020)](https://news.ycombinator.com/item?id=24730450)
