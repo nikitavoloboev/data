@@ -67,3 +67,4 @@
 - [Browser Focus Rings (2020)](https://www.notion.so/Focus-Rings-4459faa9d1f643728ca8dde145a89900) - How making accessible, consistent, and elegant focus rings in browsers is actually a hard problem.
 - [Look ma, no mouse: Vimium (2020)](https://codefaster.substack.com/p/look-ma-no-mouse-vimium) ([HN](https://news.ycombinator.com/item?id=24700746))
 - [Fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page. ([Web](https://fraidyc.at/))
+- [Keyboard-driven browser design tool](https://twitter.com/yoshikischmitz/status/1185189779521953798)
