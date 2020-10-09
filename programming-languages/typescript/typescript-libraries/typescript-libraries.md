@@ -55,6 +55,10 @@
 - [TypeORM fixtures CLI](https://github.com/RobinCK/typeorm-fixtures) - Allows you to create a ton of fixtures/fake data for use while developing or testing your project.
 - [ts-union](https://github.com/twop/ts-union) - ADT sum type in typescript.
 - [Kiss-ORM](https://github.com/Seb-C/kiss-orm) - ORM for TypeScript with no query-builder, supporting full SQL queries. ([HN](https://news.ycombinator.com/item?id=24363493))
+- [Decoder](https://github.com/MarcCoquand/Decoder) - Powerful, well tested, data decoder for Typescript.
+- [swagger-to-ts](https://github.com/drwpow/swagger-to-ts) - Generate TypeScript types from Swagger OpenAPI specs.
+- [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
+- [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types.
 
 ## Links
 

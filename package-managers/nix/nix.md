@@ -131,3 +131,6 @@
 - [swift2nix: Run Swift inside Nix builds (2020)](https://euandre.org/2020/10/05/swift2nix-run-swift-inside-nix-builds.html)
 - [sorri](https://github.com/nmattia/sorri) - Simple, lightweight implementation of Tweag's lorri.
 - [Nix and the nix-shell for easily redistributable scripts (2020)](https://knezevic.ch/posts/nix-shell-redistributable-scripts/)
+- [nix-buildkite](https://github.com/circuithub/nix-buildkite) - Take a Nix job description and turn it into separate Buildkite steps with dependencies. ([Tweet](https://twitter.com/acid2/status/1314507071224676352?s=21))
+- [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of pre-commit git hooks with Nix.
+- [Nix + Haskell setup](https://twitter.com/acid2/status/1314507569541640192)

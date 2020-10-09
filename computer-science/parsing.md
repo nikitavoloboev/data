@@ -34,3 +34,4 @@
 - [Why I write recursive descent parsers (despite their issues) (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe)
 - [mpc](https://github.com/orangeduck/mpc) - Lightweight and powerful Parser Combinator library for C.
 - [Pure AST based linting sucks (2020)](https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html)
+- [Awesome binary parsing](https://github.com/dloss/binary-parsing) - List of generic tools for parsing binary data structures, such as file formats, network protocols or bitstreams.

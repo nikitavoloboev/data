@@ -43,3 +43,5 @@
 - [LearnDjango](https://learndjango.com/) - Django Tutorials.
 - [Django Dynamic Fixture](https://github.com/paulocheque/django-dynamic-fixture) - Complete library to create dynamic model instances for testing purposes.
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/products/two-scoops-of-django-3-x)
+- [Speed Up Your Django Tests book](https://gumroad.com/l/suydt)
+- [django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.

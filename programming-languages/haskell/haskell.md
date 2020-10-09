@@ -199,3 +199,4 @@
 - [Fast Sudoku Solver in Haskell (2018)](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/)
 - [Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell) ([Web](https://kowainik.github.io/projects/learn4haskell))
 - [Generalizing 'jq' and Traversal Systems using optics and standard monads (2020)](https://chrispenner.ca/posts/traversal-systems) ([HN](https://news.ycombinator.com/item?id=24710565))
+- [apply-refact](https://github.com/mpickering/apply-refact) - Refactor Haskell source files.

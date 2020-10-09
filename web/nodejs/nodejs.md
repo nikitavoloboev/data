@@ -101,3 +101,5 @@
 - [Node CLI Automation](https://nodecli.com/) - Build Node.js Command-line Automation Dev-tools.
 - [Top 11 Node.js ORMs, Query Builders & Database Libraries in 2020](https://www.prisma.io/dataguide/database-tools/top-nodejs-orms-query-builders-and-database-libraries-in-2020)
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Upgrades your package.json dependencies to the latest versions, ignoring specified versions.
+- [yarn-audit-fix](https://github.com/antongolub/yarn-audit-fix) - Apply npm audit fix logic to yarn.lock.
+- [@hapi/lab](https://github.com/hapijs/lab) - Node test utility.

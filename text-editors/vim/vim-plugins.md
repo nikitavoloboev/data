@@ -101,6 +101,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vimspector](https://github.com/puremourning/vimspector) - Multi-language debugging system for Vim.
 - [Completor](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [File Explorer](https://github.com/kyazdani42/nvim-tree.lua) - Simple tree for neovim written in lua.
+- [Defx](https://github.com/Shougo/defx.nvim) - Dark powered file explorer implementation.
 
 ## Looks
 

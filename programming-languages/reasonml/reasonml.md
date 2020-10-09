@@ -1,5 +1,9 @@
 # [ReasonML](https://reasonml.github.io)
 
+## Example Sites
+
+- [alexfedoseev.com](https://github.com/alexfedoseev/alexfedoseev.com)
+
 ## Links
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)

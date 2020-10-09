@@ -78,3 +78,4 @@
 - [Absolute Minimum Every Engineer Must Know About Authentication and Encryption](https://www.ldelossa.is/blog/absolute-minimum-cryptography/)
 - [Cute Cryptography Stories (2020)](https://www.cryptologie.net/article/506/cute-cryptography-stories/)
 - [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive) - Longer form discussion of the cryptography engineering topics.
+- [Small portable Elliptic-Curve Diffie-Hellman in C](https://github.com/kokke/tiny-ECDH-c)

@@ -40,6 +40,7 @@
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
+- [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.
 
 ## GUI
 
@@ -157,6 +158,8 @@
 - [Fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [environs](https://github.com/sloria/environs) - Python library for parsing environment variables.
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
+- [Falkon](https://github.com/FalkonML/falkon) - Python implementation of the Falkon algorithm for large-scale, approximate kernel ridge regression.
+- [tomotopy](https://github.com/bab2min/tomotopy) - Python extension of tomoto (Topic Modeling Tool) which is a Gibbs-sampling based topic model library written in C++.
 
 ## Links
 

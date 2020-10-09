@@ -22,6 +22,8 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 - [JMAP](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification.
 - [Postmark](https://postmarkapp.com/) - Delivers your transactional email to customers on time, every time.
+- [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates)
+- [Postmark Node.js Library](https://github.com/wildbit/postmark.js)
 - [Generic Tips For Emailing Busy People](https://www.kalzumeus.com/standing-invitation/#generic-tips-for-emailing-busy-people)
 - [Hakara](https://github.com/haraka/Haraka) - Fast, highly extensible, and event driven SMTP server.
 - [How To Run Your Own Mail Server (2017)](https://www.c0ffee.net/blog/mail-server-guide/)
@@ -89,3 +91,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Implementing 'focus and reply' for Fastmail with JMAP (2020)](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/) ([HN](https://news.ycombinator.com/item?id=24207506))
 - [tmpmail](https://github.com/sdushantha/tmpmail) - Temporary email right from your terminal.
 - [Flanker](https://github.com/mailgun/flanker) - Python email address and Mime parsing library.
+- [Coded Mails](https://codedmails.com/) - Hassle free responsive html email templates. ([HN](https://news.ycombinator.com/item?id=24729938)) ([Code](https://github.com/hunzaboy/codedmails))

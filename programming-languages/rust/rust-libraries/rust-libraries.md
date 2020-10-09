@@ -51,6 +51,7 @@
 - [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
 - [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
+- [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
 
 ## DB
 
@@ -447,6 +448,10 @@
 - [cio](https://github.com/oxidecomputer/cio) - Set of Rust libraries for accessing various APIs for doing CIO jobs. ([Automated CIO](https://blog.jessfraz.com/post/the-automated-cio/))
 - [ocaml-interop](https://github.com/simplestaking/ocaml-interop) - OCaml<->Rust FFI with an emphasis on safety.
 - [fs-err](https://github.com/andrewhickman/fs-err) - Simple wrapper around filesystem operations to provide more helpful error messages.
+- [ring-compat](https://github.com/RustCrypto/ring-compat) - Compatibility crate for using RustCrypto's traits with the cryptographic algorithm implementations from ring.
+- [untrusted.rs](https://github.com/briansmith/untrusted) - Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.
+- [rust-dangerous](https://github.com/avitex/rust-dangerous) - Rust library for safely and explicitly parsing user-generated data.
+- [magick-rust](https://github.com/nlfiedler/magick-rust) - Rust bindings for ImageMagick.
 
 ## Cargo Plugins
 

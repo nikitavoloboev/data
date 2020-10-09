@@ -61,3 +61,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Mute](https://mute.one/) - Privacy enhancing communication system.
 - [HN: Stop the Earn IT Bill Before It Breaks Encryption (2020)](https://news.ycombinator.com/item?id=24695373)
 - [Purism](https://puri.sm/) - Beautiful, Secure, Privacy-Respecting Laptops & Phones.
+- [Purism – Fund Your App](https://puri.sm/fund-your-app/) ([HN](https://news.ycombinator.com/item?id=24721913))

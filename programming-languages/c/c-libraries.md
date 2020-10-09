@@ -8,6 +8,7 @@
 
 ## GUI
 
+- [libui](https://github.com/andlabs/libui/) - Portable GUI library for C.
 - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Minimal-state, immediate-mode graphical user interface toolkit written in ANSI C.
 
 ## Other

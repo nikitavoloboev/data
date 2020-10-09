@@ -57,3 +57,4 @@
 - [Exploiting Tiny Tiny RSS (2020)](https://www.digeex.de/blog/tinytinyrss/)
 - [Ask HN: What RSS Reader do you use? (2020)](https://news.ycombinator.com/item?id=24658424)
 - [Podpodge](https://github.com/reibitto/podpodge) - Convert YouTube playlists to audio-only RSS feeds for podcast apps to consume.
+- [RSS.app](https://rss.app/) - RSS Feed Generator, Create RSS feeds from URL

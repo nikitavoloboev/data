@@ -50,6 +50,7 @@
 - [wana](https://github.com/alloc/wana) - Easy observable state for React.
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/))
 - [State Designer](https://github.com/steveruizok/state-designer) - JavaScript and TypeScript library for managing the state of a user interface.
+- [Fluxible](https://github.com/yahoo/fluxible) - Pluggable container for universal flux applications.
 
 ## API bindings
 
@@ -306,6 +307,9 @@
 - [Autocomplete.js](https://github.com/algolia/autocomplete.js) - Fast and full-featured autocomplete library.
 - [urlcat](https://github.com/balazsbotond/urlcat) - URL builder library for JavaScript. ([Docs](https://urlcat.dev/))
 - [Diagram Maker](https://github.com/awslabs/diagram-maker) - Library to display an interactive editor for any graph-like data. ([Docs](https://awslabs.github.io/diagram-maker/)) ([HN](https://news.ycombinator.com/item?id=24688860))
+- [js-coroutines](https://github.com/miketalbot/js-coroutines) - 60fps with JavaScript Coroutines for idle processing and animation.
+- [Transducist](https://github.com/dphilipson/transducist) - Ergonomic JavaScript/TypeScript transducers for beginners and experts.
+- [decimal.js](https://github.com/MikeMcl/decimal.js) - Arbitrary-precision Decimal type for JavaScript.
 
 ## Links
 

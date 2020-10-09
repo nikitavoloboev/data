@@ -56,6 +56,7 @@
 - [react-layout-effect](https://github.com/alloc/react-layout-effect) - useLayoutEffect with SSR fallback and React Native support.
 - [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) - React hook that allows you to use a ResizeObserver to measure an element's size.
 - [Focus Layers](https://github.com/discord/focus-layers) - Tiny React hooks for isolating focus within subsections of the DOM.
+- [React-async-hook](https://github.com/slorber/react-async-hook) - React hook to handle any async operation in React components.
 
 ## Notes
 

@@ -14,3 +14,4 @@
 - [Best designed apps and websites for iPad (2020)](https://twitter.com/rauchg/status/1260324646223667200)
 - [Working on iPad (2020)](https://www.notion.so/Working-on-iPad-ccefea4f9e06455da169c97b3fe054c1) ([Tweet](https://twitter.com/rauchg/status/1274766898530357249)) ([HN](https://news.ycombinator.com/item?id=23650763))
 - [Paperlike](https://paperlike.com/) - iPad Screen Protector: write and draw like on paper.
+- [Saving the iPad — Building an app for myself (2020)](https://sakunlabs.com/blog/saving-the-ipad)

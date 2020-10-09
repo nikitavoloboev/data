@@ -52,3 +52,4 @@
 - [Farm](https://github.com/inkandswitch/farm) - Extensible, programmable environment with real-time and offline collaboration with other users and no mandatory infrastructure.
 - [Network Coding in P2P Networks (2020)](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks) ([HN](https://news.ycombinator.com/item?id=24250739))
 - [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
+- [Beaker Social](https://github.com/beakerbrowser/social) - Peer-to-peer social media. A Beaker application.

@@ -74,6 +74,7 @@
 - [The SaaS Website Content You Need to Close Sales [Data] (2020)](https://www.mikesonders.com/saas-website-content/)
 - [Tips to make viral Reddit posts (2020)](https://twitter.com/1HaKr/status/1311230136679714817)
 - [Booking early growth strategy (2020)](https://twitter.com/lennysan/status/1314237569622654976)
+- [Audience First book](https://audiencefirst.link/)
 
 ## Images
 

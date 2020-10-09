@@ -90,3 +90,5 @@
 - [react-native-template](https://github.com/echobind/react-native-template) - Echobind's template for React Native projects.
 - [React Native renderer based on Skia](https://github.com/Kudo/react-native-skia)
 - [React Native Navigation Tutorial (2020)](https://www.robinwieruch.de/react-native-navigation)
+- [react-native-modal](https://github.com/react-native-community/react-native-modal) - Enhanced, animated and customizable react-native modal.
+- [RN Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet) - Performant interactive bottom sheet with fully configurable options.

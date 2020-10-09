@@ -26,3 +26,5 @@
 - [Trying Vue.js for the First Time (2020)](https://www.youtube.com/watch?v=3OhLUYNw0TI)
 - [Vue.js 3 (2020)](https://github.com/vuejs/vue-next/releases/tag/v3.0.0) ([HN](https://news.ycombinator.com/item?id=24518295)) ([Video](https://www.youtube.com/watch?v=Vp5ANvd88x0))
 - [vue-composable](https://github.com/pikax/vue-composable) - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables. ([Web](https://pikax.me/vue-composable/))
+- [Ream](https://github.com/ream/ream) - Full-stack framework for building web apps, powered by Vue 3.
+- [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.

@@ -95,6 +95,10 @@
 - [Listable](https://github.com/kyleve/Listable) - Declarative list views for iOS apps.
 - [Buy Me a Coffee framework for iOS](https://github.com/appcraftstudio/buymeacoffee)
 - [UIKitPlus](https://github.com/MihaelIsaev/UIKitPlus) - Declarative UIKit with LivePreview for iOS9+ (better than SwiftUI).
+- [SweetCurtain](https://github.com/multimediasuite/SweetCurtain) - Framework that provides Curtain Controller. Curtain Controller is a container view controller that implements a content-curtain interface.
+- [ScrollStackController](https://github.com/malcommac/ScrollStackController) - Create scrollable complex layouts easily using UIViewControllers/UIView and the power of AutoLayout.
+- [SwiftSignatureView](https://github.com/alankarmisra/SwiftSignatureView) - Lightweight, fast and customizable option for capturing fluid, variable-stroke-width signatures within your app.
+- [SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - Swift wrapper around Tesseract for use in iOS applications.
 
 ## macOS
 
@@ -150,6 +154,7 @@
 - [Router](https://github.com/carson-katri/router) - Typesafe routing for SwiftUI.
 - [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - Simple line and bar charting library that support accessibility written using SwiftUI.
 - [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert.
+- [SwiftUI Charts](https://github.com/swift-extensions/swiftui-charts) - SwiftUI Charts with custom styles.
 
 ## Test
 
@@ -426,6 +431,7 @@
 - [Swift Algorithms](https://github.com/apple/swift-algorithms) - Open-source package of sequence and collection algorithms, along with their related types. ([Article](https://swift.org/blog/swift-algorithms/)) ([HN](https://news.ycombinator.com/item?id=24714488))
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework for iOS, tvOS, watchOS, macOS, and Mac Catalyst.
 - [ReactiveKit](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time.
+- [Swift Atomics](https://github.com/apple/swift-atomics) - Implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values.
 
 ## Other (not lib)
 

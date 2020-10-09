@@ -287,6 +287,7 @@ Here are few more things I liked, design wise.
 - [Adrien Griveau](https://adriengriveau.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
 - [Ben Kuhn](https://www.benkuhn.net/)
+- [Benoit Grelard](https://benoit.works/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
 - [Andrew Kensler](http://eastfarthing.com/blog/index.html)

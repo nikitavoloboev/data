@@ -22,3 +22,5 @@
 - [Common JSON patterns in Haskell, Rust, and TypeScript (2020)](https://codetalk.io/posts/2020-04-05-common-json-patterns-in-haskell-rust-and-javascript.html)
 - [Project Cambria: Translate your data with lenses (2020)](https://www.inkandswitch.com/cambria.html) ([Tweet](https://www.instagram.com/archer.nick/))
 - [Cambria](https://github.com/inkandswitch/cambria) - JavaScript/Typescript library for converting JSON data between related schemas.
+- [YYJSON](https://github.com/ibireme/yyjson) - High performance JSON library written in ANSI C.
+- [RapidJSON](https://github.com/Tencent/rapidjson) - Fast JSON parser/generator for C++ with both SAX/DOM style API.

@@ -39,3 +39,4 @@
 - [How to Write a Ray Tracer Intuitively (2020)](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 - [Traceur: a path tracing renderer in Ink and JavaScript (2020)](https://dotink.co/posts/traceur/)
 - [Racing the Beam Ray Tracer (2018)](https://tomverbeure.github.io/rtl/2018/11/26/Racing-the-Beam-Ray-Tracer.html) - Full Hardware Real-Time Ray-Tracer. ([Code](https://github.com/tomverbeure/rt))
+- [Ray-tracer / Learning project with Rust](https://github.com/qu4k/rain)

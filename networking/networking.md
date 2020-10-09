@@ -141,3 +141,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [NetworKit](https://github.com/networkit/networkit) - Open-source tool suite for high-performance network analysis. Its aim is to provide tools for the analysis of large networks in the size range from thousands to billions of edges. ([Web](https://networkit.github.io/))
 - [Understanding operational 5G: a first measurement study (2020)](https://blog.acolyer.org/2020/10/05/understanding-operational-5g/) ([HN](https://news.ycombinator.com/item?id=24688751))
 - [slurm](https://github.com/mattthias/slurm) - Yet another network load monitor.
+- [evilscan](https://github.com/eviltik/evilscan) - Nodejs Simple Network Scanner.
+- [Ixy languages](https://github.com/ixy-languages/ixy-languages) - High-speed network driver written in C, Rust, C++, Go, C#, Java, OCaml, Haskell, Swift, JavaScript, and Python.
+- [Redwood](https://github.com/andybalholm/redwood) - Web content filter that runs as an HTTP proxy.

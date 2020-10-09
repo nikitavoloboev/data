@@ -6,6 +6,10 @@ I publish most of my work and make it open source for other people to use and re
 
 [Here](../../sharing/my-github.md) you can find all the repositories I shared.
 
+## Interesting GitHub Bios
+
+- [Anthony Fu](https://github.com/antfu) - Has nice icons.
+
 ## Notes
 
 - Can append `#readme` to GitHub repo URL to jump to README of the repo.
@@ -121,3 +125,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Security](https://github.com/features/security) - Code scanning & more. ([Article](https://github.blog/2020-09-30-code-scanning-is-now-available/)) ([HN](https://news.ycombinator.com/item?id=24646960))
 - [Go script to query whether a GitHub user is your sponsor at a given tier](https://gist.github.com/alexellis/6212c988189323dbb2806d1c7f7699ab)
 - [github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email even if it's not public.
+- [SSH Auth Github](https://github.com/nextjournal/ssh-auth-github) - Small Babashka script that retrieves public keys from a specific team under a specific organization on Github.

@@ -45,3 +45,5 @@
 - [Intel Hardware Accelerated Execution Manager (HAXM)](https://github.com/intel/haxm)
 - [sse2neon](https://github.com/DLTcollab/sse2neon) - C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics.
 - [Toward the 1nm Technology Generation: Imec Roadmap for Logic Technology (2020)](https://www.imec-int.com/en/articles/view-logic-technology-roadmap)
+- [Gperftools CPU Profiler](https://gperftools.github.io/gperftools/cpuprofile.html)
+- [VSCode JS Profile Visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) - Custom editor for viewing .cpuprofile files in VS Code. Pairs well with new JavaScript debugger.

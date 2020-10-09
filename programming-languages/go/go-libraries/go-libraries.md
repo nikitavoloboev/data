@@ -107,6 +107,7 @@
 - [sql-migrate](https://github.com/rubenv/sql-migrate) - SQL Schema migration tool for Go. Based on gorp and goose.
 - [Pop](https://github.com/gobuffalo/pop) - Makes it easy to do CRUD operations, run migrations, and build/execute queries.
 - [go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database.
+- [Glow](https://github.com/chrislusf/glow) - Easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm.
 
 ## ML
 
@@ -498,6 +499,11 @@
 - [Bluge](https://github.com/blugelabs/bluge) - Modern text indexing in go.
 - [Typed](https://github.com/karlseguin/typed) - Wrapper around map[string]interface{} to provide some strong typing.
 - [Purell](https://github.com/PuerkitoBio/purell) - Go library to normalize URLs.
+- [Vasto](https://github.com/chrislusf/vasto) - Distributed key-value store. On Disk. Able to grow or shrink without service interruption.
+- [cascadia](https://github.com/andybalholm/cascadia) - CSS selector library in Go.
+- [brotli](https://github.com/andybalholm/brotli) - Pure Go Brotli encoder and decoder.
+- [Leaven](https://github.com/andybalholm/leaven) - Compile LLVM IR to Go.
+- [Hub](https://github.com/leandro-lugaresi/hub) - Fast enough Event Hub for go applications using publish/subscribe with support patterns on topics like rabbitMQ exchanges.
 
 ## Links
 

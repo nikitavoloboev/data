@@ -339,3 +339,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [WikiExtractor](https://github.com/attardi/wikiextractor) - Python script that extracts and cleans text from a Wikipedia database dump.
 - [Hexatope](https://hexatope.io/) - Design your own unique jewellery.
 - [Buy For Life](https://www.buyforlifeproducts.com/) - Find durable and sustainable products that are made to last. ([HN](https://news.ycombinator.com/item?id=24707407))
+- [Calligrapher](https://www.calligrapher.ai/) - Realistic computer-generated handwriting.
+- [Find Guidelines](https://findguidelin.es/) - Fastest way to brand assets.
+- [Celestial](https://github.com/gocelestial/Celestial) - Micropub client for an average user opting in to the IndieWeb.

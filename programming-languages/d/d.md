@@ -11,3 +11,4 @@
 - [Porting a Golang and Rust CLI tool to D (2020)](https://pingfrommorocco.blogspot.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html)
 - [D Tetris running on Webassembly (2020)](http://dpldocs.info/this-week-in-d/Blog.Posted_2020_08_10.html)
 - [D Improvement Proposals](https://github.com/dlang/DIPs)
+- [Hunt](https://github.com/huntlabs/hunt) - Refined core library for D programming language.

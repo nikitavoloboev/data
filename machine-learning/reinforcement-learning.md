@@ -102,3 +102,5 @@
 - [Reinforcement learning, non-Markov environments, and memory (2020)](https://flowing.systems/2020/09/15/reinforcement-learning-non-markov-memory.html)
 - [Mathy](https://mathy.ai/) - Platform for using computer algebra systems to solve math problems step-by-step with reinforcement learning. ([Code](https://github.com/justindujardin/mathy/))
 - [Multi-Agent Resource Optimization (MARO)](https://github.com/microsoft/maro) - Instance of Reinforcement Learning as a Service (RaaS) for real-world resource optimization.
+- [Homer: Provable Exploration in Reinforcement Learning (2020)](https://hunch.net/?p=13762683)
+- [RLCard](https://github.com/datamllab/rlcard) - Toolkit for Reinforcement Learning in Card Games.

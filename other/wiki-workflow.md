@@ -110,6 +110,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Dennis Ideler's notes](https://github.com/dideler/notes)
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
 - [Paul Batchelor](https://pbat.ch/wiki/)
+- [Yang Zhang CS notes](https://github.com/yang/notes)
 - [Ten Digits](https://tendigits.space/)
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Neil's Noodlemaps](https://commonplace.doubleloop.net/)
@@ -185,6 +186,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [A Short History of Bi-Directional Links (2020)](https://maggieappleton.com/bidirectionals)
 - [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
 - [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron)) ([Lobsters](https://lobste.rs/s/i1uylr/neuron_0_6_released_future_proof_note))
+- [Neuron Template](https://github.com/srid/neuron-template) - How to publish your own neuron site.
 - [How can we build an extension of your mind? (2020)](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
 - [mmap.it](https://www.mmap.it/) - Map knowledge into memory with seamless search and note taking. ([Code](https://github.com/pdepip/mmap.it))
 - [Luhmann’s Zettelkasten — A Productivity Tool That Works Like Your Brain (2019)](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)

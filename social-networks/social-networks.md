@@ -64,3 +64,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Is this real life? (2020)](https://julian.digital/2020/09/25/is-this-real-life/)
 - [Social Cooling](https://www.socialcooling.com/) - Big Data's unintended side effect. ([HN](https://news.ycombinator.com/item?id=24627363))
 - [Gurlic](https://gurlic.com/) - Free and Open Communities. ([HN](https://news.ycombinator.com/item?id=24680418))
+- [Twt](https://jointwt.org/) - New way to social media.

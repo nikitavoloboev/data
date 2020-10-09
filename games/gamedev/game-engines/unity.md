@@ -8,3 +8,4 @@
 - [AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity.
 - [Unity Software Inc S-1](https://www.sec.gov/Archives/edgar/data/1810806/000119312520227862/d908875ds1.htm) ([HN](https://news.ycombinator.com/item?id=24261559))
 - [An Investor's Guide to Unity (2020)](https://www.stooge.io/an-investors-guide-to-unity/)
+- [Working with Unity and GitHub (2020)](https://jeffrafter.com/unity-and-github/)

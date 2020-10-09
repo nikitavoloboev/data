@@ -105,3 +105,6 @@
 - [Picsellia](https://picsellia.com/) - Development platform dedicated to Computer Vision.
 - [Official implementation of "PifPaf: Composite Fields for Human Pose Estimation" in PyTorch](https://github.com/vita-epfl/openpifpaf)
 - [Object Recognition with Gradient-Based Learning (1999)](https://link.springer.com/chapter/10.1007/3-540-46805-6_19)
+- [Imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA PyTorch GAN library with distributed and mixed precision support. ([Docs](http://imaginaire.cc/))
+- [DeepBackSub](https://github.com/floe/deepbacksub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation.
+- [Awesome Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)

@@ -20,3 +20,4 @@
 - [IBM Fully Homomorphic Encryption Toolkit for Linux](https://github.com/IBM/fhe-toolkit-linux) ([HN](https://news.ycombinator.com/item?id=24025478))
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode. ([Lobsters](https://lobste.rs/s/2nalpm/split_files_into_encrypted_segments))
 - [This is how Signal protocol encrypts group messages](https://www.reddit.com/r/signal/comments/a2ogk2/this_is_how_signal_protocol_encrypts_group/)
+- [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small and portable implementation of the AES ECB, CTR and CBC encryption algorithms written in C.

@@ -36,3 +36,4 @@
 - [Accessibility Guide in Russian](http://specialbank.ru/guide/)
 - [a11yresources](https://a11yresources.webflow.io/) - Growing list of accessibility tools and resources.
 - [5 Things I've Learned From the Accessibility Community (2020)](https://marcysutton.github.io/5-things-i-learned-from-accessibility/#/)
+- [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - Lightweight and flexible accessible modal dialog.

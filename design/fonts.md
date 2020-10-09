@@ -39,6 +39,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [OpenDyslexic](https://opendyslexic.org/) - Typeface for Dyslexia. ([HN](https://news.ycombinator.com/item?id=24036563))
 - [Moneta](https://www.myfonts.com/fonts/santi-rey/moneta)
 - [3270font](https://github.com/rbanffy/3270font) - Font for the Nostalgic. ([HN](https://news.ycombinator.com/item?id=24646107))
+- [Last Resort](https://github.com/unicode-org/last-resort-font) - Special-purpose font that includes a collection of glyphs to represent types of Unicode characters.
 
 ## Links
 
@@ -130,3 +131,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [typespiration.com](https://typespiration.com/) - Showcase of web typography designs with ready-to-use CSS codes.
 - [Fontsource](https://github.com/fontsource/fontsource) - Updating monorepo full of self-hostable Open Source fonts bundled into individual NPM packages.
 - [Beautiful and Effective Web Typography: An Interview with Richard Rutter (2020)](https://medium.com/ux-and-front-end-interviews/beautiful-and-effective-web-typography-an-interview-with-richard-rutter-7684aff92dc7)
+- [Web Font Loader](https://github.com/typekit/webfontloader) - Gives you added control when using linked fonts via @font-face.
+- [Font Variation Description](https://github.com/typekit/fvd) - Compact and unambiguous way to describe a font in CSS.
+- [Adobe Fonts](https://fonts.adobe.com/) - Quality fonts at your fingertips.
+- [Font engineering tools](https://github.com/simoncozens/font-engineering) - Collection of font engineering utilities.

@@ -83,6 +83,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Codye](https://darioroa.com/codye/) - Allows you to present code in more than 180 languages and 80 themes.
 - [Coppice](https://www.coppiceapp.com/) - Cultivate Your Thoughts.
 - [Hook](https://hookproductivity.com/) - Find without searching.
+- [Twenttty](https://apps.apple.com/pl/app/twenttty/id1534796314?mt=12) - Give your eyes a break.
 
 ## Links
 

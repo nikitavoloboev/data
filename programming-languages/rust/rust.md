@@ -336,3 +336,4 @@
 - [CS 110L: Safety in Systems Programming (2020)](https://reberhardt.com/cs110l/spring-2020/)
 - [Rust async execution (2019)](http://jblog.andbit.net/2019/11/10/rust-async-execution/)
 - [Rust Async Benchmark](https://github.com/jkarneges/rust-async-bench) - Attempts to compare the performance of a manually written poll loop vs async/await.
+- [Constant Evaluation Rust Proposals](https://github.com/rust-lang/const-eval)

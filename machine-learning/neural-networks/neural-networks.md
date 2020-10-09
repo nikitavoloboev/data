@@ -147,3 +147,4 @@
 - [Explaining RNNs without neural networks (2020)](https://explained.ai/rnn/index.html)
 - [A visual explanation for regularization of linear models (2020)](https://explained.ai/regularization/index.html)
 - [A Guide to Deep Learning and Neural Networks (2020)](https://serokell.io/blog/deep-learning-and-neural-network-guide)
+- [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs.

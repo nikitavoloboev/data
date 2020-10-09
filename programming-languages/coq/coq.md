@@ -40,3 +40,4 @@
 - [FreeSpec](https://github.com/ANSSI-FR/FreeSpec) - Framework for implementing, certifying, and executing impure computations in Coq.
 - [How hard can you believe in your logic? (2020)](http://c9x.me/articles/trust/)
 - [CoqPrime](https://github.com/thery/coqprime) - Prime numbers for Coq.
+- [coqffi](https://github.com/coq-community/coqffi) - Automatically generates Coq FFI bindings to OCaml libraries.

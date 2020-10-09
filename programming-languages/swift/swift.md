@@ -164,3 +164,4 @@
 - [Swift System](https://github.com/apple/swift-system) - Provides idiomatic interfaces to system calls and low-level currency types. ([Announcement](https://swift.org/blog/swift-system/)) ([HN](https://news.ycombinator.com/item?id=24593028))
 - [Introducing Swift Atomics (2020)](https://swift.org/blog/swift-atomics/) ([HN](https://news.ycombinator.com/item?id=24657500))
 - [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices)
+- [SwiftDump](https://github.com/neil-wu/SwiftDump) - Command-line tool for retriving the Swift Object info from Mach-O file.

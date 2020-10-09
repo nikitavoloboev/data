@@ -25,6 +25,7 @@
 - [Expound](https://github.com/bhb/expound) - Human-optimized error messages for clojure.spec.
 - [Meander](https://github.com/noprompt/meander) - Tools for transparent data transformation.
 - [jsonista](https://github.com/metosin/jsonista) - Clojure library for fast JSON encoding and decoding.
+- [malli](https://github.com/metosin/malli) - Data-driven Schemas for Clojure/Script.
 
 ## Links
 

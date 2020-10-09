@@ -96,6 +96,7 @@
 - [MonetDB](https://github.com/MonetDB/MonetDB) - Column-store pioneer. ([Web](https://www.monetdb.org/))
 - [RxDB](https://github.com/pubkey/rxdb) - NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. ([HN](https://news.ycombinator.com/item?id=24340802))
 - [Graviton Database](https://github.com/deroproject/graviton) - Simple, fast, versioned, authenticated, embeddable key-value store database in pure Go. ([HN](https://news.ycombinator.com/item?id=24390596))
+- [SeaweedFS](https://github.com/chrislusf/seaweedfs) - Distributed object store and file system to store and serve billions of files fast.
 
 ## Tools
 
@@ -103,7 +104,7 @@
 - [TablePlus](https://tableplus.io/) ([HN](https://news.ycombinator.com/item?id=22908224))
 - [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) - Free, open source, multi-platform SQLite database manager.
 - [litecli](https://github.com/dbcli/litecli) - Command-line client for SQLite databases that has auto-completion and syntax highlighting.
-- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Query and manage your relational databases.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) - Query and manage your relational databases. ([Code](https://github.com/beekeeper-studio/beekeeper-studio))
 - [Diwata](https://github.com/ivanceras/diwata) - User-friendly database interface.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS. ([Web](https://sequel-ace.com/))
 - [ExtendsClass](https://extendsclass.com/mysql-online.html) - Online MySQL playground for testing.

@@ -11,3 +11,4 @@
 - [How to build your first Sketch plugin (2019)](https://medium.com/@kevingutowski/how-to-build-your-first-sketch-plugin-14c0e9e56bf0)
 - [Sketch Elements](https://www.sketch.com/elements) - Free iOS UI kit, brought to you by Sketch.
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) - Make your workflow more efficient.
+- [story2sketch](https://github.com/chrisvxd/story2sketch) - Convert Storybook stories into Sketch symbols.

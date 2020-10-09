@@ -181,3 +181,5 @@
 - [The Personal Python Data Science Toolkit (2020)](https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/)
 - [Beginners Introduction to using Standard I/O (2020)](https://alecthegeek.github.io/2020/05/04/Intro-to-stdio.html)
 - [Asynchronous Python and Databases (2015)](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/)
+- [What does this python package do?](https://www.youtube.com/playlist?list=PLCTHcU1KoD99ZWRvzAGrvF6ZBCrkmZk4t) - Bi-weekly series, our developer advocate, Nafiul Islam, explores different Python packages both in the standard library and the community.
+- [PyCharm JetBrains YouTube](https://www.youtube.com/c/PyCharmIDE/playlists)

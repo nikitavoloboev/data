@@ -33,3 +33,5 @@
 - [Akashi](https://github.com/drlau/akashi) - Validate "terraform plan" changes against a customizable ruleset.
 - [How to implement Lambda@Edge functions in Terraform (2020)](https://transcend.io/blog/lambda-edge-functions-in-terraform)
 - [terraform-exec](https://github.com/hashicorp/terraform-exec) - Go module for constructing and running Terraform CLI commands. Structured return values use the data types defined in terraform-json.
+- [Terraform and Amazon Web Services (2020)](https://jeffrafter.com/terraform-and-aws/)
+- [TerraGoat](https://github.com/bridgecrewio/terragoat) - Vulnerable Terraform Infrastructure.

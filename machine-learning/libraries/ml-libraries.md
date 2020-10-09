@@ -61,3 +61,6 @@
 - [LMfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting.
 - [tslearn](https://github.com/tslearn-team/tslearn) - Machine learning toolkit for time series analysis in Python.
 - [Libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone. ([Docs](https://libradocs.github.io/))
+- [NGBoost](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+- [LightGBM](https://github.com/microsoft/LightGBM) - Gradient boosting framework that uses tree based learning algorithms.
+- [XGBoost](https://github.com/dmlc/xgboost) - Optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework.

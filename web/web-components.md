@@ -13,3 +13,5 @@
 - [One web component to rule them all? (2020)](https://www.filamentgroup.com/lab/delegator/)
 - [Vanilla Web Components](https://github.com/vanillawc/vanillawc) - Framework-free, transpiler-free, scaffolding-free web components.
 - [The Failed Promise of Web Components (2020)](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) ([Follow up article](https://blog.carlmjohnson.net/post/2020/web-components/)) ([HN](https://news.ycombinator.com/item?id=24640151))
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation.
+- [lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepo for tools that analyze lit-html templates.

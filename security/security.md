@@ -95,3 +95,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Bypassing ESP32 Encrypted Secure Boot (2020)](https://raelize.com/posts/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
 - [F-Secure Labs](https://labs.f-secure.com/) - Cyber security research and development.
 - [Hacking Apple (2020)](https://samcurry.net/hacking-apple/) ([HN](https://news.ycombinator.com/item?id=24718078))
+- [Penetration Testing Tools](https://github.com/IoT-PTv/List-of-Tools)

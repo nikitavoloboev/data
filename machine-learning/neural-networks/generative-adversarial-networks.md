@@ -37,3 +37,4 @@
 - [PyTorch GANs](https://github.com/gordicaleksa/pytorch-gans) - Contains PyTorch implementation of various GAN architectures.
 - [ExGAN: Adversarial Generation of Extreme Samples (2020)](https://arxiv.org/abs/2009.08454)
 - [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://github.com/eladrich/pixel2style2pixel)
+- [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/NVlabs/stylegan2-ada)

@@ -50,3 +50,6 @@
 - [imSearch](https://github.com/rikenmehta03/imsearch) - Generic framework to build your own reverse image search engine.
 - [image-stego](https://github.com/dennis-tra/image-stego) - Novel approach to image manipulation detection.
 - [Lycon](https://github.com/ethereon/lycon) - Minimal and fast image library for Python and C++.
+- [Optimizt](https://github.com/funbox/optimizt) - CLI tool that helps you prepare images during frontend development.
+- [napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
+- [NeuralHash](https://github.com/nikcheerla/neuralhash) - Adversarial Steganographic Method For Robust, Imperceptible Watermarking.

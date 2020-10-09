@@ -163,3 +163,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
 - [Dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation. ([Web](https://www.dulwich.io/))
 - [Ask HN: What are the pros / cons of using monorepos? (2020)](https://news.ycombinator.com/item?id=24719525)
+- [bit](https://github.com/chriswalz/bit) - Modern Git CLI.
+- [Copybara Action](https://github.com/olivr/copybara-action) - Transform and move code between repositories. Start with ZERO config and 100% customizable.

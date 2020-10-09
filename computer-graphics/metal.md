@@ -17,3 +17,4 @@
 - [Andrey Volodin - Explain Metal like I’m 5 (2020)](https://www.youtube.com/watch?v=ebap8D1-GIY)
 - [MetalANGLE](https://github.com/kakashidinho/metalangle) - OpenGL ES to Metal API translation layer.
 - [3 Years of Metal (2020)](https://blog.roblox.com/2020/05/3-years-metal/)
+- [Satin](https://github.com/Hi-Rez/Satin) - 3D Graphics Framework built on Apple's Metal.

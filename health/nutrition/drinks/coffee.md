@@ -23,3 +23,4 @@
 - [Caffenol: Developing Photos with Coffee and Vitamin C (2020)](https://www.youtube.com/watch?v=9bhOtTUtPhg) ([HN](https://news.ycombinator.com/item?id=23761554))
 - [Engineering Exploration in Building a Coffee Machine (2020)](https://medium.com/@smithxlabs/breaking-new-grounds-an-engineering-exploration-in-building-a-coffee-machine-part-i-b24e42b3c480)
 - [AeroPress](https://aeropress.com/) - Device for brewing coffee.
+- [Low-tech “mild coffee” with Aeropress (2020)](https://blog.project-insanity.org/2020/10/09/low-tech-mild-coffee-with-aeropress/)

@@ -51,3 +51,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LuaTeX](http://www.luatex.org/) - Extended version of pdfTeX using Lua as an embedded scripting language.
 - [What is the future of TeX?](http://www.texfaq.org/FAQ-TeXfuture)
 - [TikZ](https://github.com/PetarV-/TikZ) - Complete collection of my PGF/TikZ figures. I will do my best to keep it updated as soon as new figures are published.
+- [Research Logbook](https://github.com/JJGO/research-logbook) - Simple yet powerful LaTeX template for research notebook with modular components and a wide variety of tools.

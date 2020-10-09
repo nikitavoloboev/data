@@ -22,4 +22,5 @@
 - [Layoutit Grid](https://grid.layoutit.com/) - Interactive CSS Grid generator. ([Code](https://github.com/Leniolabs/layoutit-grid)) ([OSS release article](https://medium.com/@patak_js/open-sourcing-layoutit-grid-3a78300bc022))
 - [Full-Bleed Layout Using CSS Grid (2020)](https://joshwcomeau.com/css/full-bleed/) ([HN](https://news.ycombinator.com/item?id=24688736))
 - [Poor Man's CSS Full-Bleed Layout (2020)](https://uglyduck.ca/poor-mans-full-bleed/)
+- [Full bleed layout using simple CSS (2020)](https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css/)
 - [On auto sizes in Grid Layout (2020)](https://www.youtube.com/watch?v=-FJYVwO4-BY) ([Slides](https://talks.hiddedevries.nl/K4gTqg/on-auto-sizes-in-grid-layout))

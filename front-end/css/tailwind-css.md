@@ -34,3 +34,4 @@
 - [Why Tailwind CSS (2020)](https://dev.to/swyx/why-tailwind-css-2o8f) ([Tweet](https://twitter.com/swyx/status/1312603851581652994))
 - [Tailwind Play](https://play.tailwindcss.com/) - Official Tailwind CSS playground. ([Intro article](https://blog.tailwindcss.com/introducing-tailwind-play)) ([Code](https://github.com/tailwindlabs/play.tailwindcss.com))
 - [Sidewind](https://github.com/survivejs/sidewind) - Tailwind but for state. ([Docs](https://sidewindjs.com/))
+- [Tailwind CSS Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Better base for styling form elements with Tailwind CSS.

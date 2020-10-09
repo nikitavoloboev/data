@@ -24,3 +24,4 @@
 - [KodeLife](https://hexler.net/products/kodelife) - Real-time GPU shader editor.
 - [Getting Started with GPU Computing in Anaconda (2017)](https://www.anaconda.com/blog/getting-started-with-gpu-computing-in-anaconda)
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - TypeScript library for generating distance fields from 2d images on the GPU.
+- [Gradient Free Cloud GPUs](https://gradient.paperspace.com/free-gpu)

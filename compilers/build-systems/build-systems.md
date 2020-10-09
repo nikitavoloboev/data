@@ -34,3 +34,4 @@
 - [Allowing CMake functions to return(value) (2020)](https://oleksandrkvl.github.io/2020/08/09/allowing-cmake-functions-to-return-value.html)
 - [The quest to the perfect Makefile (2018)](https://r4nd0m6uy.ch/the-quest-to-the-perfect-makefile.html)
 - [Build systems with Andrey Mokhov (2020)](https://overcast.fm/+hrS7F9_XA)
+- [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0) ([HN](https://news.ycombinator.com/item?id=24722214))

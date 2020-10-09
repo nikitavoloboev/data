@@ -41,3 +41,4 @@
 - [Free Vector Illustrations](https://www.pixeltrue.com/free-illustrations) ([HN](https://news.ycombinator.com/item?id=24048508))
 - [svg2jsx](https://github.com/balajmarius/svg2jsx) - Transform SVG into valid JSX.
 - [Graphical UI's with SVG and React (2020)](https://datalanguage.com/blog/graphical-uis-with-svg-and-react-part-1-declarative-graphics)
+- [SVGO](https://github.com/svg/svgo) - Node.js tool for optimizing SVG files.

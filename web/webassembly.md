@@ -99,3 +99,4 @@
 - [Hands-on WebAssembly: Try the basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) ([HN](https://news.ycombinator.com/item?id=24279912))
 - [WebAssembly Troubles: WebAssembly Is Not a Stack Machine (2020)](http://troubles.md/wasm-is-not-a-stack-machine/)
 - [Wasmer Python](https://github.com/wasmerio/wasmer-python) - WebAssembly runtime for Python.
+- [WebAssembly C and C++ API](https://github.com/WebAssembly/wasm-c-api)

@@ -127,3 +127,5 @@
 - [Self hosting compiler (2020)](https://www.reddit.com/r/Compilers/comments/ipsdj0/self_hosting_compiler/)
 - [Bootstrapping compilers](https://bootstrapping.miraheze.org/wiki/Main_Page) - Building up compilers and interpreters and tools from nothing.
 - [Linkers go brrrrr (2020)](https://vinayak.io/2020/09/28/day-34-linkers-go-brrrrr/)
+- [Hex Rays](https://www.hex-rays.com/) - State-of-the-art binary code analysis solutions.
+- [HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) - Hex-Rays microcode API plugin for breaking an obfuscating compiler.

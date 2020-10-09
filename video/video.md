@@ -117,3 +117,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Whereby](https://whereby.com/) - Video Meetings, Video Conferencing and Screen Sharing. Same meeting link every time.
 - [Calla](https://github.com/capnmidnight/Calla) - Virtual Meetups through Jitsi. ([Web](https://www.calla.chat/)) ([HN](https://news.ycombinator.com/item?id=24710948))
 - [Livestorm](https://livestorm.co/) - Video Conferencing Software for Webinars and Online Meetings.
+- [FreeTube](https://freetubeapp.io/) - Private YouTube Client. ([Code](https://github.com/FreeTubeApp/FreeTube))

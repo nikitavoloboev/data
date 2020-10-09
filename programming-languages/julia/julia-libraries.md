@@ -24,6 +24,7 @@
 - [Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl) - Framework for applied category theory in the Julia language.
 - [Symata.jl](https://github.com/jlapeyre/Symata.jl) - Symbolic mathematics language.
 - [BlackBoxOptim](https://github.com/robertfeldt/BlackBoxOptim.jl) - Black-box optimization for Julia.
+- [MappedArrays](https://github.com/JuliaArrays/MappedArrays.jl) - Lazy in-place transformations of arrays.
 
 ## Biology
 
@@ -86,6 +87,9 @@
 - [HTTP](https://github.com/JuliaWeb/HTTP.jl) - HTTP client and server functionality for Julia.
 - [OptimKit.jl](https://github.com/Jutho/OptimKit.jl) - Blissfully ignorant Julia package for gradient optimization.
 - [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) - Fast trajectory optimization library written in Julia.
+- [UnderscoreOh.jl](https://github.com/tkf/UnderscoreOh.jl) - Call graphs as recompilation-free capture-by-value closures.
+- [Downloads](https://github.com/JuliaLang/Downloads.jl) - Provides a single function, download, which provides cross-platform, multi-protocol, in-process download functionality implemented with libcurl.
+- [Colors](https://github.com/JuliaGraphics/Colors.jl) - Color manipulation utilities for Julia.
 
 ## Links
 

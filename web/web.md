@@ -170,5 +170,6 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Odin Project](https://www.theodinproject.com/) - Full stack curriculum.
 - [CS50's Web Programming with Python and JavaScript (2020)](https://cs50.harvard.edu/web/2020/)
 - [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.
-- [How The URL Was Built (2020)](https://www.welcometothejungle.com/en/articles/btc-url-internet)
+- [How The URL Was Built (2020)](https://www.welcometothejungle.com/en/articles/btc-url-internet) ([HN](https://news.ycombinator.com/item?id=24718227))
 - [Developing For The Semantic Web (2020)](https://www.smashingmagazine.com/2020/10/developing-semantic-web/)
+- [Reffy](https://github.com/tidoust/reffy) - Web spec dependencies exploration companion. It features a short set of tools to study spec references as well as WebIDL term definitions and references found in Web specifications.

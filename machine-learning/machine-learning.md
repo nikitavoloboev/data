@@ -304,3 +304,8 @@
 - [ML Guide: Feature Store vs Data Warehouse (2020)](https://www.logicalclocks.com/blog/feature-store-vs-data-warehouse) ([HN](https://news.ycombinator.com/item?id=24718301))
 - [Grid AI](https://www.grid.ai/) - Seamlessly train hundreds of Machine Learning models on the cloud from your laptop. ([HN](https://news.ycombinator.com/item?id=24720681))
 - [Getting Started with Applied ML Research (2020)](https://elvissaravia.substack.com/p/getting-started-with-applied-ml-research)
+- [Machine Learning Engineering book by Andriy Burkov](http://www.mlebook.com/wiki/doku.php)
+- [Determined](https://github.com/determined-ai/determined) - Deep Learning Training Platform. ([Web](https://determined.ai/))
+- [Phasic Policy Gradient](https://github.com/openai/phasic-policy-gradient)
+- [Juergen Schmidhuber ML reading list (2015)](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp5c0py/)
+- [Machine Learning Primer for Interviews](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)

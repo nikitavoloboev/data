@@ -44,3 +44,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) ([Lobsters](https://lobste.rs/s/1vqimp/bash_pitfalls))
 - [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator. ([HN](https://news.ycombinator.com/item?id=24636367))
 - [Bash Bracket Cheat Sheet](https://wizardzines.com/comics/brackets-cheatsheet/)
+- [Bash Error Handling](https://wizardzines.com/comics/bash-errors/)

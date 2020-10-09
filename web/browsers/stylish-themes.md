@@ -39,3 +39,7 @@ Below are some Stylish themes I used:
 ![](https://i.imgur.com/rcMQfXY.png)
 
 I prefer reading wiki with [Dictionary app](https://wokabulary.com/blog/the-built-in-dictionary-on-mac-and-iphone.html) as it's fast to search it.
+
+## Links
+
+- [Awesome Dark Themes for websites](https://github.com/JJGO/awesome-dark-themes)

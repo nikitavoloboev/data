@@ -9,6 +9,8 @@ I split the app into 2 columns on mac.
 
 ![](https://i.imgur.com/uMoGfGx.png)
 
+I use Tweetbot only on macOS. On iOS, I use the official Twitter app.
+
 ## Notes
 
 - There is a limit of 1600 tweets that can be shown in Timeline or list. More than that will not be shown and tweets will be lost from the feed. 😞
