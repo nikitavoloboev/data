@@ -78,3 +78,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [We can no longer ignore the potential of psychedelic drugs to treat depression (2020)](https://www.theguardian.com/commentisfree/2020/jun/08/psychedelic-drugs-treat-depression) ([HN](https://news.ycombinator.com/item?id=23458724))
 - [Is it normal for psychedelics to induce a very intense, life-altering experience for me while others take them nonchalantly? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/h78o8j/is_it_normal_for_psychedelics_to_induce_a_very/)
 - [Psychedelic drugs can improve mental health by making individuals more accepting of distressing experiences (2020)](https://www.reddit.com/user/neuromancer420/comments/isf49q/new_research_provides_evidence_that_psychedelic/)
+- [Robin Carhart-Harris explains what exactly happens to the brain on a trip (2020)](https://www.youtube.com/watch?v=HPerHB6Y2SQ)
