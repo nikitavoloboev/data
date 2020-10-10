@@ -337,3 +337,4 @@
 - [Rust async execution (2019)](http://jblog.andbit.net/2019/11/10/rust-async-execution/)
 - [Rust Async Benchmark](https://github.com/jkarneges/rust-async-bench) - Attempts to compare the performance of a manually written poll loop vs async/await.
 - [Constant Evaluation Rust Proposals](https://github.com/rust-lang/const-eval)
+- [A New Back End for Cranelift (2020)](https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/) ([HN](https://news.ycombinator.com/item?id=24738014))

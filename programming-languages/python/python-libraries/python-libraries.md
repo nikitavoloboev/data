@@ -160,6 +160,7 @@
 - [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python.
 - [Falkon](https://github.com/FalkonML/falkon) - Python implementation of the Falkon algorithm for large-scale, approximate kernel ridge regression.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python extension of tomoto (Topic Modeling Tool) which is a Gibbs-sampling based topic model library written in C++.
+- [magicimport.py](https://github.com/dheera/magicimport.py) - Python code that fetches its dependencies without complaining. ([HN](https://news.ycombinator.com/item?id=24735303))
 
 ## Links
 

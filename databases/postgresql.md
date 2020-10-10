@@ -146,4 +146,4 @@
 - [EDB](https://www.enterprisedb.com/) - Supercharges PostgreSQL.
 - [PostgreSQL community impact of 2nd Quadrant purchase (2020)](https://momjian.us/main/blogs/pgblog/2020.html#October_7_2020) ([HN](https://news.ycombinator.com/item?id=24710759))
 - [PostgreSQL Contributors](https://www.postgresql.org/community/contributors/)
-- [Measuring the Memory Overhead of a Postgres Connection (2020)](https://blog.anarazel.de/2020/10/07/measuring-the-memory-overhead-of-a-postgres-connection/)
+- [Measuring the Memory Overhead of a Postgres Connection (2020)](https://blog.anarazel.de/2020/10/07/measuring-the-memory-overhead-of-a-postgres-connection/) ([HN](https://news.ycombinator.com/item?id=24735012))
