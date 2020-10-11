@@ -38,3 +38,5 @@
 - [Bitcoin Summer School 2016](https://bitcoinschool.gr/) ([Consensus](https://bitcoinschool.gr/slides/session3.pdf))
 - [Vapor](https://vapor.network/) - Decentralized Web over Bitcoinized HTTP. ([HN](https://news.ycombinator.com/item?id=24708161))
 - [Takeaways from MicroStrategy CEO 425 million investment into bitcoin (2020)](https://twitter.com/woonomic/status/1306853254685364225)
+- [Building on Bitcoin #1 — Isaac Morehouse (2020)](https://www.youtube.com/watch?v=4F4kWu_6vVE&feature=youtu.be)
+- [What Comes Next. Building Bit.sv. (2020)](https://bit.sv/post/499dec5108b14e99d28b48b0c0dfcd5fe06edef43ad738d41f18264151aaf30d)
