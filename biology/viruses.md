@@ -35,3 +35,4 @@
 - [A Mechanist's Guide to the Coronavirus Genome (2020)](https://csvoss.com/a-mechanists-guide-to-the-coronavirus-genome) ([Tweet](https://twitter.com/csvoss/status/1295458745833594880))
 - [Analysis of the SARS-CoV-2 genome](https://github.com/nqureshi/sars-cov-2)
 - [How COVID-19 can cause psychological problems (2020)](https://www.youtube.com/watch?v=LIOxKVrVRy4)
+- [K: The Overlooked Variable That's Driving the Pandemic (2020)](https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/) - 19% of cases responsible for 80% of transmissions.
