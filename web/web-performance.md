@@ -101,3 +101,4 @@
 - [Getting Postmark’s Lighthouse Performance Score to 100 (2020)](https://wildbit.com/blog/2020/09/30/getting-postmark-lighthouse-performance-score-to-100)
 - [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify))
 - [Sitejoy](https://www.sitejoy.dev/) - Fast & responsive websites that will bring you joy.
+- [A Bit of Performance (2019)](https://www.kizu.ru/a-bit-of-performance/)

@@ -4,7 +4,7 @@ I spend some time on [Freenode](https://freenode.net/) as it has many useful cha
 
 I like IRC even though Discord is a strictly superior experience. I currently use Matrix and [Element](https://element.io) client to connect to IRC Freenode channels I care about.
 
-Previously use [Textual](../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
+Previously I used [Textual](../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
 
 Here are IRC channels I frequent:
 

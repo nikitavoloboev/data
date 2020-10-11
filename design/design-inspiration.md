@@ -205,6 +205,7 @@ Here are few more things I liked, design wise.
 - [Carolyn Stransky](https://workwithcarolyn.com/)
 - [Bradley Taunt](https://uglyduck.ca/)
 - [Malte Ubl](https://www.industrialempathy.com/)
+- [Roman Komarov](https://www.kizu.ru/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
 - [Cassidy Williams](https://cassidoo.co/)
 - [Eduardo Boucas](https://eduardoboucas.com/about/)

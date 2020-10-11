@@ -342,3 +342,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Calligrapher](https://www.calligrapher.ai/) - Realistic computer-generated handwriting.
 - [Find Guidelines](https://findguidelin.es/) - Fastest way to brand assets.
 - [Celestial](https://github.com/gocelestial/Celestial) - Micropub client for an average user opting in to the IndieWeb.
+- [Perfectly Cut Screams](https://twitter.com/AAAAAGGHHHH)
+- [Neverthink](https://neverthink.tv/) - Watch Memes & Funny Videos.
