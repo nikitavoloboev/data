@@ -52,6 +52,7 @@
 - [amplify-cli-action](https://github.com/ambientlight/amplify-cli-action) - GitHub action for deploying AWS Amplify project.
 - [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 - [Safe space](https://github.com/charliegerard/safe-space) - Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces. ([Article](https://charliegerard.dev/blog/github-action-toxic-comments/))
+- [Latest Changes](https://github.com/tiangolo/latest-changes) - Automatically add the changes from each PR to the release notes in a file.
 
 ## Go
 
