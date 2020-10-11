@@ -23,3 +23,4 @@
 - [Patagonia](https://www.patagonia.com/home/) - Outdoor Clothing & Gear.
 - [Herschel](https://herschel.com/) - Backpacks, Totes & Accessories.
 - [Vogue Fashion Shows](https://www.vogue.com/fashion-shows)
+- [What everyone is wearing in New York | Fall Outfits (2020)](https://www.youtube.com/watch?v=xlQk4D3Cdqk)

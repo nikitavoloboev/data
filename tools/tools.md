@@ -384,3 +384,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [No-Code vs Pro-Code: A New Hope (2020)](https://journeyapps.com/engineering-blog/no-code-vs-pro-code-a-new-hope/) ([HN](https://news.ycombinator.com/item?id=24421767))
 - [Small, Sharp Tools](https://brandur.org/small-sharp-tools)
 - [You should be using Linear (2020)](https://www.contrast.app/posts/you-should-be-using-linear)
+- [Mystery Knowledge and Useful Tools (2020)](https://nikhilism.com/post/2020/mystery-knowledge-useful-tools/)
