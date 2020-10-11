@@ -86,4 +86,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)
 - [Planck Keyboard Layout Iterations](http://thedarnedestthing.com/planck%20constant)
 - [4x4 Macro Pad (2020)](https://0xc45.com/blog/4x4-macro-pad/) ([HN](https://news.ycombinator.com/item?id=24697624)) ([Lobsters](https://lobste.rs/s/utcopz/4x4_macro_pad_kit))
-- [Down the ergonomic keyboard rabbit hole (2020)](https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html) ([HN](https://news.ycombinator.com/item?id=24728224))
+- [Down the ergonomic keyboard rabbit hole (2020)](https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html) ([HN](https://news.ycombinator.com/item?id=24728224)) ([Lobsters](https://lobste.rs/s/xhvoke/down_ergonomic_keyboard_rabbit_hole))

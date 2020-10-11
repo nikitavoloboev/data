@@ -1,5 +1,9 @@
 # [Twitter](https://twitter.com/)
 
+## Notes
+
+- Can search over my own Twitter profile with Nitter [like so](https://nitter.net/nikitavoloboev/search?f=tweets&q=pretty&since=&until=&near=).
+
 ## Links
 
 - [How I use Twitter (2018)](https://krausefx.com/blog/how-i-use-twitter)

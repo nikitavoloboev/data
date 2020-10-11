@@ -18,3 +18,4 @@
 - [AngelCAD](https://arnholm.github.io/angelcad-docs/) - Script-based 3D solid modeller. ([HN](https://news.ycombinator.com/item?id=24243077)) ([Code](https://github.com/arnholm/angelcad))
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Free and open source multiplatform 3D parametric modeler. ([HN](https://news.ycombinator.com/item?id=24513340))
 - [Ruckus](https://github.com/cbiffle/ruckus) - Procedural CAD for Weirdos.
+- [3d portrait of Erica](https://twitter.com/SpriggsIan/status/1313692911339368450)
