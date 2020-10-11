@@ -12,3 +12,4 @@ Technology and automation will not stop and more things will be automated with e
 - [What Is the Point of Universal Basic Income? (2020)](https://www.perell.com/fellowship-essays/universal-basic-income) ([HN](https://news.ycombinator.com/item?id=22217231))
 - [HN: Coronavirus Is Making Universal Basic Income Look Better (2020)](https://news.ycombinator.com/item?id=23201177)
 - [Universal Basic Income is Capitalism 2.0 (2020)](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/) ([HN](https://news.ycombinator.com/item?id=23993259))
+- [South Korea’s Universal Basic Income Experiment to Boost the Economy (2020)](https://www.youtube.com/watch?v=EbWv_1NbWyw)

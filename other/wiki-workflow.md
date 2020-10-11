@@ -192,7 +192,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Luhmann’s Zettelkasten — A Productivity Tool That Works Like Your Brain (2019)](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
 - [Building a digital garden (2019)](https://tomcritchlow.com/2019/02/17/building-digital-garden/) - How I built myself a simple wiki using folders and files and published via Jekyll.
 - [monotome](https://github.com/cblgh/monotome) - Personal knowledge base system. markdown markup, runs in the browser.
-- [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens.
+- [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens. ([Shared notes](https://github.com/digitalgardeners/notes))
 - [Thinking in maps: from the Lascaux caves to knowledge graphs (2020)](https://nesslabs.com/thinking-in-maps)
 - [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759))
 - [Ask HN: What is your favorite way to read online content? (2020)](https://news.ycombinator.com/item?id=23340031)

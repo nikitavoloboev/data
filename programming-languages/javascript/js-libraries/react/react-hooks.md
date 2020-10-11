@@ -89,3 +89,4 @@
 - [Death by a thousand useCallbacks (2020)](https://royi-codes.now.sh/thousand-usecallbacks/)
 - [React with Hooks](https://reactwithhooks.netlify.app/) - React documentation with Hooks-based explanations and examples.
 - [React Hooks - EpicReact workshop](https://github.com/kentcdodds/react-hooks)
+- [proper useState use](https://twitter.com/0xca0a/status/1314326386555924480)
