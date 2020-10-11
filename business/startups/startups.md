@@ -229,6 +229,7 @@
 - [Boring Startup Stuff](https://boringstartupstuff.com/) - Kinda like a Harvard MBA sent weekly to your inbox.
 - [Forward Thinking City](https://www.forwardthinking.city/) - Experience the serendipity of the bay area, simply by opening up your computer.
 - [Capbase](https://capbase.com/) - Streamlines and automates many parts of your business, freeing up your time and capital to focus on growing your startup.
+- [Breaking down business models one flywheel at a time (2020)](https://theflywheel.substack.com/p/coming-soon)
 
 ## Images
 

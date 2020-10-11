@@ -106,3 +106,5 @@
 - [PG and Jessica (2020)](https://blog.samaltman.com/pg-and-jessica) ([HN](https://news.ycombinator.com/item?id=24590401))
 - [Interactive Brokers](https://www.interactivebrokers.com/en/home.php)
 - [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
+- [Favorite dividend stock/etf to invest in (2020)](https://www.reddit.com/r/investing/comments/j8quo5/favorite_dividend_stocketf_to_invest_in/)
+- [ARK Invest](https://ark-funds.com/) - Innovation ETFs.

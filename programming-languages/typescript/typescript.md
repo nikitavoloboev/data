@@ -106,6 +106,7 @@
 - [TypeScript for Professionals (2020)](https://www.udemy.com/course/typescript-for-professionals/)
 - [The Single-Valued Type Pattern for TypeScript (2020)](https://spin.atomicobject.com/2020/10/05/single-valued-type-pattern/)
 - [TypeScript in 50 Lessons book](https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/)
+- [TypeScript notes/links](https://joeprevite.com/typescript)
 
 ## Images
 

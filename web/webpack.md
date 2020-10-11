@@ -31,3 +31,4 @@
 - [Webpack Module Federation Examples](https://github.com/module-federation/module-federation-examples)
 - [Webpack and yarn magic against duplicates in bundles (2020)](https://medium.com/@adevnadia/webpack-and-yarn-magic-against-duplicates-in-bundles-52b5e1a5e2e2)
 - [Webpack CLI](https://github.com/webpack/webpack-cli)
+- [Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/) ([HN](https://news.ycombinator.com/item?id=24741529))
