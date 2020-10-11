@@ -23,6 +23,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Sir Leopold](https://twitter.com/PerryFellow/status/1253355544146034690)
 - [Foxy cat](https://twitter.com/ttt_zegu952/status/1285953528637190145)
 - [Comedy Wildlife 2020 Finalists](https://www.comedywildlifephoto.com/gallery/finalists/2020_finalists.php)
+- [One of our kittens is a bit of a drama queen](https://twitter.com/kittensfolder/status/1233077592401567744)
 
 ## Links
 
