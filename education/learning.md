@@ -72,3 +72,4 @@
 - [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/)
 - [Golden](https://golden.com/explore) - Explore and Contribute to Knowledge. ([HN](https://news.ycombinator.com/item?id=24642566))
 - [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/) ([HN](https://news.ycombinator.com/item?id=24700647))
+- [Fractal Learning (2020)](https://reisub0.github.io/fractal-learning.html) ([HN](https://news.ycombinator.com/item?id=24738137))
