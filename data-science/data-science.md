@@ -120,3 +120,5 @@
 - [Hex Technologies](https://hex.tech/) - Turn your notebooks into collaborative, sharable data apps and stories. No more loose CSVs, chart screenshots, or stale decks.
 - [News Aggregator from Scratch in 2 Weeks (2020)](https://danlark.org/2020/07/31/news-aggregator-from-scratch-in-2-weeks/)
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
+- [Nemo: Data discovery at Facebook (2020)](https://engineering.fb.com/data-infrastructure/nemo/) ([Tweet](https://twitter.com/fulhack/status/1314997524336439296))
+- [Amundsen by Lyft](https://www.amundsen.io/) - Open source data discovery and metadata engine.

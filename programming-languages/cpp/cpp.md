@@ -133,3 +133,4 @@
 - [I need extra C/C++ performance now. How? (2020)](https://danlark.org/2020/10/08/i-need-extra-c-c-performance-now-how/)
 - [How to Keep the Binary Compatibility of C++ Based Objects (2020)](https://www.intechopen.com/books/computer-methods-and-programs-in-biomedical-signal-and-image-processing/how-to-keep-the-binary-compatibility-of-c-based-objects)
 - [Some Things C++ Does Right - Patrice Roy - CppCon 2020](https://www.youtube.com/watch?v=bMSrNBcir4Y)
+- [Ocean](https://github.com/STBoyden/ocean) - Project manager, similar to Rust's Cargo, for C and C++ written with Rust.
