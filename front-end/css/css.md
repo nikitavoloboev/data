@@ -214,3 +214,4 @@
 - [Easing Functions Cheat Sheet](https://easings.net/) ([Code](https://github.com/ai/easings.net))
 - [Keyboard-Only Focus](https://www.kizu.ru/keyboard-only-focus/)
 - [:focus-visible Is Here (2020)](https://matthiasott.com/notes/focus-visible-is-here)
+- [In Defense of Utility-First CSS (2018)](https://frontstuff.io/in-defense-of-utility-first-css)

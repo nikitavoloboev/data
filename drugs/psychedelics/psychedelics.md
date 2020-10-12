@@ -80,3 +80,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Psychedelic drugs can improve mental health by making individuals more accepting of distressing experiences (2020)](https://www.reddit.com/user/neuromancer420/comments/isf49q/new_research_provides_evidence_that_psychedelic/)
 - [Robin Carhart-Harris explains what exactly happens to the brain on a trip (2020)](https://www.youtube.com/watch?v=HPerHB6Y2SQ) ([Full course](https://www.idler.co.uk/product/the-science-of-psychedelics/))
 - [Centre for Psychedelic Research | Imperial College](https://www.imperial.ac.uk/psychedelic-research-centre)
+- [The magic of mushrooms forces us to rethink what intelligence means (2020)](https://www.prospectmagazine.co.uk/magazine/entangled-life-book-review-mushrooms-fungi-biology-science) ([HN](https://news.ycombinator.com/item?id=24731121))

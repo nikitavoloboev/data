@@ -97,6 +97,7 @@
 - [Algebra-Driven Design book](https://algebradriven.design/) - Elegant Software from Simple Building Blocks. ([Lobsters](https://lobste.rs/s/xs8vlo/algebra_driven_design))
 - [What is functional reactive programming](https://github.com/Pauan/programming-notes/blob/master/Signals.rst)
 - [Implement Box functional data structure](https://github.com/Pauan/programming-notes/blob/master/Boxes.rst)
+- [CS316 “Functional Programming” course (2020)](https://github.com/bobatkey/CS316-2020)
 
 ## Images
 
