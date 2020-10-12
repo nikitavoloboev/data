@@ -31,6 +31,7 @@
 - [AudioKit Pro](https://audiokitpro.com/) - Leading free & open-source audio framework for iOS, macOS, and Apple Watch.
 - [noise.sh](https://noise.sh/) - Digital signal processing spreadsheet for sound design.
 - [Noisefunge](https://github.com/revnull/noisefunge.rs) - Music livecoding environment based on the befunge programming language. ([HN](https://news.ycombinator.com/item?id=24549602))
+- [Roland 808303.studio](https://808303.studio/)
 
 ## Inspiration
 
@@ -102,3 +103,5 @@
 - [MIDI Sucks](https://pbat.ch/wiki/MIDI_sucks/)
 - [Essentia](https://github.com/MTG/essentia) - C++ library for audio and music analysis, description and synthesis, including Python bindings. ([Web](https://essentia.upf.edu/))
 - [Nicholas Spice · How to play the piano](https://www.lrb.co.uk/the-paper/v14/n06/nicholas-spice/how-to-play-the-piano) ([HN](https://news.ycombinator.com/item?id=24702650))
+- [Open Source Tools and Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html) ([HN](https://news.ycombinator.com/item?id=24748793)) ([Code](https://github.com/source-separation/tutorial))
+- [cchound.com](https://cchound.com/) - Curated library of free music for content creators. ([HN](https://news.ycombinator.com/item?id=24745874))

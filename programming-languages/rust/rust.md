@@ -338,4 +338,7 @@
 - [Rust Async Benchmark](https://github.com/jkarneges/rust-async-bench) - Attempts to compare the performance of a manually written poll loop vs async/await.
 - [Constant Evaluation Rust Proposals](https://github.com/rust-lang/const-eval)
 - [A New Back End for Cranelift (2020)](https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/) ([HN](https://news.ycombinator.com/item?id=24738014))
-- [Rust After the Honeymoon (2020)](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/) ([HN](https://news.ycombinator.com/item?id=24747492))
+- [Rust After the Honeymoon (2020)](http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/) ([HN](https://news.ycombinator.com/item?id=24747492)) ([Lobsters](https://lobste.rs/s/d7kowx/rust_after_honeymoon))
+- [Learning Rust through open source and live code reviews (2020)](https://loige.co/learning-rust-through-open-source-and-live-code-reviews/)
+- [Memory safe ‘curl’ for a more secure internet (2020)](https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/) ([Lobsters](https://lobste.rs/s/bfjdfd/rust_curl_with_hyper)) ([HN](https://news.ycombinator.com/item?id=24729218))
+- [Code Smell: Concrete Abstraction (2020)](https://matklad.github.io/2020/08/15/concrete-abstraction.html)

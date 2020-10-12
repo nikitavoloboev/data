@@ -23,3 +23,4 @@
 - [Virtual Memory Tricks (2017)](https://ourmachinery.com/post/virtual-memory-tricks/)
 - [Reference counting vs GC (2020)](https://twitter.com/mraleph/status/1305209967641796611)
 - [Memory allocator showdown (2020)](https://blog.janestreet.com/memory-allocator-showdown/)
+- [Understanding memory initialization patterns](http://tasvideos.org/Nach/MemoryInit.html)

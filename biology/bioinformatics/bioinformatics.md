@@ -61,3 +61,4 @@
 - [Coming up with ideas for biotech startups (2020)](https://www.youtube.com/watch?v=MTA5LajqdIc&feature=youtu.be)
 - [Analyzing toehold sequences for synthetic biology (2020)](https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/)
 - [R, Data Science, & Computational Biology (2020)](https://changelog.com/practicalai/107)
+- [Bioinformatics Algorithms book](https://www.bioinformaticsalgorithms.org/read-the-book)

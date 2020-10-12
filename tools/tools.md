@@ -169,6 +169,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam.
+- [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk))
 - [Windsor](https://windsor.io/) - Simplifying User Data.
 - [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
 - [DeepCode](https://www.deepcode.ai/) - Semantic static code analysis for better software - powered by AI.

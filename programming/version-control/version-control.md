@@ -10,3 +10,4 @@
 - [EdenSCM](https://github.com/facebookexperimental/eden) - Cross-platform, highly scalable source control management system.
 - [Fossil](https://www.fossil-scm.org/home/doc/trunk/www/index.wiki) - Simple, high-reliability, distributed software configuration management system. ([HN](https://news.ycombinator.com/item?id=24643200))
 - [Darcs, friendly version control](https://darcsbook.acmelabs.space/) ([Lobsters](https://lobste.rs/s/zgpvwq/darcs_friendly_version_control))
+- [Sentimental Versioning](http://sentimentalversioning.org/) ([HN](https://news.ycombinator.com/item?id=24751264))

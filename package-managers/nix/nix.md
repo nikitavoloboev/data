@@ -134,3 +134,4 @@
 - [nix-buildkite](https://github.com/circuithub/nix-buildkite) - Take a Nix job description and turn it into separate Buildkite steps with dependencies. ([Tweet](https://twitter.com/acid2/status/1314507071224676352?s=21))
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of pre-commit git hooks with Nix.
 - [Nix + Haskell setup](https://twitter.com/acid2/status/1314507569541640192)
+- [caching your nix-shell (2020)](https://fzakaria.com/2020/08/11/caching-your-nix-shell.html)

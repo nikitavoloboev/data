@@ -26,3 +26,4 @@
 - [JSLinux](https://bellard.org/jslinux/) - Run Linux or other Operating Systems in your browser.
 - [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98) ([HN](https://news.ycombinator.com/item?id=23674012))
 - [8-bit CPU simulator in C](https://github.com/reutiteuti/logic) ([HN](https://news.ycombinator.com/item?id=23672470))
+- [GBEmu](https://github.com/BlueBlazin/gbemu) - WebAssembly based Gameboy Emulator. ([Web](https://gbemu.netlify.app/))

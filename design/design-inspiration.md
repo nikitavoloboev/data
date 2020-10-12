@@ -311,6 +311,7 @@ Here are few more things I liked, design wise.
 - [Debbie O'Brien](https://debbie.codes/) ([Code](https://github.com/debs-obrien/debbie.codes))
 - [Joe Birr-Pixton](http://jbp.io/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
+- [Victor Darvariu](https://victor.darvariu.me/)
 - [Rafal Tomal](https://rafaltomal.com/)
 - [Wesley Moore](https://www.wezm.net/v2/)
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)

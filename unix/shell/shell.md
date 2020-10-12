@@ -80,3 +80,4 @@ All active variables can be seen by running `env`.
 - [Kitty](https://github.com/kovidgoyal/kitty) - Fast, featureful, GPU based terminal emulator. ([Code](https://github.com/kovidgoyal/kitty)) ([HN](https://news.ycombinator.com/item?id=24643008))
 - [Upterm](https://github.com/owenthereal/upterm) - Open-source solution for sharing terminal sessions instantly over the public internet via secure tunnels.
 - [libtmt](https://github.com/deadpixi/libtmt) - Small, simple, useful terminal emulation library.
+- [Syntactic Concepts in the Oil Language](http://www.oilshell.org/preview/doc/syntactic-concepts.html) ([Lobsters](https://lobste.rs/s/txj4um/syntactic_concepts_oil_language))

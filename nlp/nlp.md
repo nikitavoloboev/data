@@ -152,3 +152,7 @@
 - [BERTopic](https://github.com/MaartenGr/BERTopic) - Topic modeling technique that leverages BERT embeddings and c-TF-IDF to create dense clusters allowing for easily interpretable topics whilst keeping important words in the topic descriptions.
 - [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) - Comprehensive reference for all topics related to Natural Language Processing.
 - [Practical Natural Language Processing book](http://www.practicalnlp.ai/) ([Code](https://github.com/practical-nlp/practical-nlp))
+- [NLP Reseach Project: Best Practices for Finetuning Large Transformer Language models (2020)](https://bkkaggle.github.io/blog/nlp-research-part-1/)
+- [Deep Learning for NLP notes (2020)](https://strikingloo.github.io/wiki-articles/machine-learning/deep_learning_NLP)
+- [Modern Practical Natural Language Processing course](https://github.com/jmugan/modern_practical_nlp)
+- [LXMERT: Learning Cross-Modality Encoder Representations from Transformers in PyTorch](https://github.com/airsplay/lxmert)

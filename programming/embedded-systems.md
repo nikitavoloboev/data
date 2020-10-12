@@ -19,6 +19,7 @@
 - [What's your preferred embedded/application scripting language? (2019)](https://lobste.rs/s/jtrbrj/what_s_your_preferred_embedded)
 - [Bare-metal and Operating System development tutorials in Rust on the Raspberry Pi 3](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
 - [Embedded Rust Book](https://docs.rust-embedded.org/book/) - Introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers. ([Code](https://github.com/rust-embedded/book))
+- [Embedded Rust Discovery](https://docs.rust-embedded.org/discovery/) - Starting with Embedded Development Using Rust.
 - [mJS: Embedded JavaScript engine for C/C++](https://github.com/cesanta/mjs) - Designed for microcontrollers with limited resources.
 - [Swift for Embedded Systems](https://github.com/swift-embedded/swift-embedded)
 - [Cross](https://github.com/swift-embedded/cross) - Utility for easy cross compilation of projects to bare metal.

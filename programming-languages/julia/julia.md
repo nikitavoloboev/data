@@ -55,3 +55,5 @@
 - [A History of Releasing Julia Packages (2020)](https://cdg.dev/tech/release-history/)
 - [Chris Rackauckas - SciML: How Language is Changing Scientific Research (2020)](https://www.youtube.com/watch?v=3hM7wn7iJ70)
 - [A quick introduction to data parallelism in Julia (2020)](https://juliafolds.github.io/data-parallelism/tutorials/quick-introduction/) ([HN](https://news.ycombinator.com/item?id=24700436))
+- [CSV Reader Benchmarks: Julia Reads CSVs 10-20x Faster than Python and R (2020)](https://juliacomputing.com/blog/2020/06/22/fast-csv.html) ([HN](https://news.ycombinator.com/item?id=24746057))
+- [The unreasonable effectiveness of the Julia programming language (2020)](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/) ([HN](https://news.ycombinator.com/item?id=24729034))

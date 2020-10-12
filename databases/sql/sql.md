@@ -68,3 +68,4 @@
 - [GlueSQL](https://github.com/gluesql/gluesql) - SQL Database Engine as a Library.
 - [TS SQL](https://github.com/codemix/ts-sql) - SQL database implemented purely in TypeScript type annotations. ([Tweet](https://twitter.com/c_pick/status/1307433762914009090)) ([HN](https://news.ycombinator.com/item?id=24615185))
 - [Simple Anomaly Detection Using Plain SQL (2020)](https://hakibenita.com/sql-anomaly-detection) ([Lobsters](https://lobste.rs/s/q1hh1g/simple_anomaly_detection_using_plain_sql))
+- [A Short Story About SQL’s Biggest Rival (2020)](https://www.holistics.io/blog/quel-vs-sql/?) ([HN](https://news.ycombinator.com/item?id=24730713))

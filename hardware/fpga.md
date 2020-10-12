@@ -20,3 +20,5 @@
 - [FPGA based mobile phone: Creating a truly open and trustable mobile communications device (2019)](https://www.youtube.com/watch?v=KuNB4ocZDXA)
 - [Reverse-engineering the first FPGA chip, the XC2064 (2020)](http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 - [FireSim](https://github.com/firesim/firesim) - Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation.
+- [Are FPGAs More Secure Than Processors? (2020)](https://semiengineering.com/are-fpgas-more-secure-than-processors/)
+- [Conway's Game of Life on FPGA (2020)](https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/)

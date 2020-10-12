@@ -45,3 +45,5 @@
 - [Bluespec](https://bluespec.com/) - Open Source RISC-V Cores and Tools.
 - [DANA](https://github.com/bu-icsg/dana) - Chisel3 implementation of a fully connected neural network accelerator, DANA, supporting inference or learning.
 - [Writing a RISC-V Emulator from Scratch in 10 Steps](https://github.com/d0iasm/book.rvemu)
+- [Modernising RISC OS in 2020: is there hope for the ancient ARM OS? (2020)](https://liam-on-linux.livejournal.com/73983.html) ([Lobsters](https://lobste.rs/s/wh5bzl/modernising_risc_os_2020_is_there_hope_for))
+- [Tockilator](https://github.com/oxidecomputer/tockilator) - Deducing Tock execution flows from Ibex Verilator traces.

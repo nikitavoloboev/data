@@ -53,6 +53,7 @@
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - Pretty printer for Haskell data types that have a Show instance.
 - [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
 - [ByteString](https://github.com/haskell/bytestring) - Fast, Packed Strings of Bytes.
+- [in-other-words](https://github.com/KingoftheHomeless/in-other-words) - Higher-order effect system where the sky's the limit.
 
 ## Links
 

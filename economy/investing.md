@@ -108,4 +108,4 @@
 - [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment.
 - [Favorite dividend stock/etf to invest in (2020)](https://www.reddit.com/r/investing/comments/j8quo5/favorite_dividend_stocketf_to_invest_in/)
 - [ARK Invest](https://ark-funds.com/) - Innovation ETFs.
-- [HN: Reddit's Stock Threads Become a Must-Read on Wall Street (2020)](https://news.ycombinator.com/item?id=24739458)
+- [Reddit's Stock Threads Become a Must-Read on Wall Street (2020)](https://www.bloomberg.com/news/articles/2020-10-10/home-made-covid-vaccine-appeared-to-work-but-questions-remained) ([HN](https://news.ycombinator.com/item?id=24739458))

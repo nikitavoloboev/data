@@ -52,6 +52,8 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Loose Leaf](https://github.com/adamwulf/loose-leaf) - Intuitive note taking app for iPad.
 - [Swift Chess](https://github.com/nicklockwood/Chess) - Simple chess game for iPhone and iPad, designed for novice players.
 - [Shinkansen 3D Seat Booking Prototype](https://github.com/virakri/shinkansen-3d-seat-booking-prototype) - Example app in iOS utilizing SceneKit.
+- [Air Quality Reader](https://github.com/finiteloop/air-quality)
+- [Unsplash Photo Picker for iOS](https://github.com/unsplash/unsplash-photopicker-ios)
 
 ## Other
 

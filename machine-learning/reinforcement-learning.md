@@ -105,3 +105,5 @@
 - [Homer: Provable Exploration in Reinforcement Learning (2020)](https://hunch.net/?p=13762683)
 - [RLCard](https://github.com/datamllab/rlcard) - Toolkit for Reinforcement Learning in Card Games.
 - [Deep Reinforcement Learning Course (2020)](https://simoninithomas.github.io/deep-rl-course/) ([Code](https://github.com/simoninithomas/Deep_reinforcement_learning_Course))
+- [GridRoyale](https://github.com/cool-RR/grid_royale) - Life simulation for exploring social dynamics. ([HN](https://news.ycombinator.com/item?id=24744437))
+- [TorchRL](https://github.com/RchalYang/torchrl) - PyTorch Implementation of Reinforcement Learning Algorithms.

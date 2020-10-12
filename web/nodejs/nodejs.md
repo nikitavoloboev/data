@@ -103,3 +103,6 @@
 - [npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Upgrades your package.json dependencies to the latest versions, ignoring specified versions.
 - [yarn-audit-fix](https://github.com/antongolub/yarn-audit-fix) - Apply npm audit fix logic to yarn.lock.
 - [@hapi/lab](https://github.com/hapijs/lab) - Node test utility.
+- [live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Node.js module that allows you to install, uninstall and load any node package at runtime from npm registry.
+- [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.js.org/en/motivation))

@@ -348,3 +348,4 @@ Go promotes composition over inheritance.
 - [depaware](https://github.com/tailscale/depaware) - Makes you aware of your Go dependencies. It generates a list of your dependencies which you check in to your repo.
 - [goup](https://github.com/owenthereal/goup) - Elegant Go version manager. ([Article](https://owenou.com/goup/))
 - [C2go](https://github.com/andybalholm/c2go) - C to Go translation tool.
+- [Statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.).

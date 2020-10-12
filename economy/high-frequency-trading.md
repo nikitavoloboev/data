@@ -8,3 +8,4 @@
 - [Machine Learning for Trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Notebooks, resources, and references accompanying the book Machine Learning for Algorithmic Trading.
 - [Surpriver](https://github.com/tradytics/surpriver) - Find High Moving Stocks before they Move.
 - [TA-Lib](https://ta-lib.org/) - Technical Analysis Library. ([Python wrapper](https://github.com/mrjbq7/ta-lib))
+- [Timekeeping in Financial Exchanges (2020)](https://www.lucaspauker.ml/articles/20) ([HN](https://news.ycombinator.com/item?id=24746836))

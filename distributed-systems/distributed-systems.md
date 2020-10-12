@@ -110,3 +110,4 @@
 - [Resources for learning distributed systems (2020)](https://lobste.rs/s/vuevqu/resources_for_learning_distributed)
 - [Workload isolation using shuffle-sharding (2020)](https://aws.amazon.com/builders-library/workload-isolation-using-shuffle-sharding/)
 - [Consensus is Harder Than It Looks (2020)](http://brooker.co.za/blog/2020/10/05/consensus.html)
+- [The Little Strangler](https://docs.google.com/document/d/e/2PACX-1vSgPIhl1jt6G7vaeN6NDzBLCatZ2tU_NwjQarpJTSwS2Y5P7gp0N11xPH_6bNq0YE2bkj4B6mA8Gfoe/pub) ([Lobsters](https://lobste.rs/s/ilqthq/little_strangler))

@@ -115,3 +115,4 @@
 - [Quirrel](https://quirrel.dev/) - Job Queueing for Next.js x Vercel.
 - [Create a Next.js RSS feed for your static website (2020)](https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js)
 - [Replacing Create React App with the Next.js CLI (2020)](https://gist.github.com/tannerlinsley/65ac1f0175d79d19762cf06650707830)
+- [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing.

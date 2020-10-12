@@ -163,5 +163,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
 - [Dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation. ([Web](https://www.dulwich.io/))
 - [Ask HN: What are the pros / cons of using monorepos? (2020)](https://news.ycombinator.com/item?id=24719525)
-- [bit](https://github.com/chriswalz/bit) - Modern Git CLI.
+- [bit](https://github.com/chriswalz/bit) - Modern Git CLI. ([HN](https://news.ycombinator.com/item?id=24751212))
 - [Copybara Action](https://github.com/olivr/copybara-action) - Transform and move code between repositories. Start with ZERO config and 100% customizable.
+- [Git scraping: track changes over time by scraping to a Git repository (2020)](https://simonwillison.net/2020/Oct/9/git-scraping/) ([HN](https://news.ycombinator.com/item?id=24732943))
+- [Branch Agnostic Git Aliases (2020)](https://aj.codes/post/branch-agnostic-git-aliases/)

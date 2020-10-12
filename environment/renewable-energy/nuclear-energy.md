@@ -8,3 +8,4 @@
 - [ITER: World's largest nuclear fusion project begins assembly (2020)](https://www.bbc.com/news/science-environment-53573294) ([HN](https://news.ycombinator.com/item?id=23979608))
 - [Ian Hutchinson: Nuclear Fusion, Plasma Physics, and Religion (2020)](https://overcast.fm/+eZyB5mw30)
 - [Ian Hutchinson's research](https://www-internal.psfc.mit.edu/~hutch/)
+- [We Need a Nuclear New Deal, Not a Green New Deal (2020)](https://www.thebellows.org/we-need-a-nuclear-new-deal-not-a-green-new-deal/) ([HN](https://news.ycombinator.com/item?id=24746397))

@@ -11,3 +11,4 @@
 - [BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial-style talk "Weeks of debugging can save you hours of TLA+".
 - [APALACHE](https://github.com/konnov/apalache) - Symbolic model checker for TLA+.
 - [TLA+ Model Checking Made Symbolic (2019)](https://hal.archives-ouvertes.fr/hal-02280888/document)
+- [TLA+ Examples](https://github.com/tlaplus/Examples) - Collection of TLA+ specifications of varying complexities.

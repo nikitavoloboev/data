@@ -8,7 +8,8 @@
 - [VeGANs](https://github.com/unit8co/vegans) - Library to easily train various existing GANs (Generative Adversarial Networks) in PyTorch.
 - [Compare GAN code](https://github.com/google/compare_gan) - Offers TensorFlow implementations for many components related to Generative Adversarial Networks.
 - [PyTorch pretrained BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN)
-- [StyleGAN2](https://github.com/NVlabs/stylegan2) - Official TensorFlow Implementation.
+- [StyleGAN2 in TensorFlow](https://github.com/NVlabs/stylegan2)
+- [StyleGAN 2 in PyTorch](https://github.com/rosinality/stylegan2-pytorch)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/tkarras/progressive_growing_of_gans)
 - [CTGAN](https://github.com/sdv-dev/CTGAN) - Implementation of our NeurIPS paper Modeling Tabular data using Conditional GAN.
 - [Awesome GANs with TensorFlow](https://github.com/kozistr/Awesome-GANs)

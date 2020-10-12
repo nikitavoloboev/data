@@ -75,6 +75,7 @@
 - [Tips to make viral Reddit posts (2020)](https://twitter.com/1HaKr/status/1311230136679714817)
 - [Booking early growth strategy (2020)](https://twitter.com/lennysan/status/1314237569622654976)
 - [Audience First book](https://audiencefirst.link/)
+- [“Powered by” buttons for customer acquisition (2020)](https://zerotousers.substack.com/p/how-43-founders-got-their-first-users) ([HN](https://news.ycombinator.com/item?id=24745007))
 
 ## Images
 

@@ -45,3 +45,4 @@
 - [Mechanically Deriving Binary Tree Iterators with Continuation Defunctionalization (2020)](https://abhinavsarkar.net/posts/continuation-defunctionalization/)
 - [Segment Tree data structure](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Structure of a binary state tree (2020)](https://medium.com/@gballet/structure-of-a-binary-state-tree-part-1-48c587836d2f)
+- [Introductory data structures and algorithms](https://github.com/sushinoya/fundamentals)

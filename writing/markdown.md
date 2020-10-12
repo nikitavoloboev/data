@@ -34,3 +34,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files, sync external docs/src code & make better docs.
 - [Markdown Links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files.
 - [Customizing pandoc to generate beautiful pdf and epub from markdown (2019)](https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/)
+- [Customizing pandoc to generate pdf and epub from GitHub style markdown (2020)](https://learnbyexample.github.io/customizing-pandoc/) ([Lobsters](https://lobste.rs/s/zgsdgg/customizing_pandoc_generate_pdf_epub))

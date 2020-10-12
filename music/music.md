@@ -62,3 +62,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music Playlists with a story](https://www.youtube.com/channel/UCWlhyyYBiD67Aju1CXUgaug/videos)
 - [Generative Music – Brian Eno (1996)](https://inmotionmagazine.com/eno1.html) ([HN](https://news.ycombinator.com/item?id=24702201))
 - [Oda](https://oda.co/) - Live Performances in Your Home.
+- [Why do Musical Scales Have Certain Numbers of Notes? (2020)](https://www.lucaspauker.ml/articles/16)
+- [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer compatible with Subsonic/Airsonic. ([Code](https://github.com/deluan/navidrome))
+- [Cyanite.ai](https://cyanite.ai/) - Artificial music intelligence listens to and categorizes millions of songs in minutes, helping you to deliver the right music content, no matter the use case.

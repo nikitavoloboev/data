@@ -134,3 +134,6 @@
 - [How to Keep the Binary Compatibility of C++ Based Objects (2020)](https://www.intechopen.com/books/computer-methods-and-programs-in-biomedical-signal-and-image-processing/how-to-keep-the-binary-compatibility-of-c-based-objects)
 - [Some Things C++ Does Right - Patrice Roy - CppCon 2020](https://www.youtube.com/watch?v=bMSrNBcir4Y)
 - [Ocean](https://github.com/STBoyden/ocean) - Project manager, similar to Rust's Cargo, for C and C++ written with Rust.
+- [Overloading by Return Type in C++ (2020)](https://artificial-mind.net/blog/2020/10/10/return-type-overloading) ([HN](https://news.ycombinator.com/item?id=24752527))
+- [Inheritance is for sharing an interface (and so is overloading) (2020)](https://quuxplusone.github.io/blog/2020/10/09/when-to-derive-and-overload/)
+- [sigcpp](https://sigcpp.github.io/) - Special Interest Group on C++.

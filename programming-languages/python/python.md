@@ -183,3 +183,5 @@
 - [Asynchronous Python and Databases (2015)](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/)
 - [What does this python package do?](https://www.youtube.com/playlist?list=PLCTHcU1KoD99ZWRvzAGrvF6ZBCrkmZk4t) - Bi-weekly series, our developer advocate, Nafiul Islam, explores different Python packages both in the standard library and the community.
 - [PyCharm JetBrains YouTube](https://www.youtube.com/c/PyCharmIDE/playlists)
+- [How I Tried To Reduce Pylint Memory Usage (2020)](https://rtpg.co/2020/10/12/pylint-usage.html)
+- [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/index.html) ([HN](https://news.ycombinator.com/item?id=24750588))

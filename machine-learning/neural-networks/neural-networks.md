@@ -148,3 +148,5 @@
 - [A visual explanation for regularization of linear models (2020)](https://explained.ai/regularization/index.html)
 - [A Guide to Deep Learning and Neural Networks (2020)](https://serokell.io/blog/deep-learning-and-neural-network-guide)
 - [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs.
+- [How DeepMind learns physics simulators with Graph Networks (w/ author interview) (2020)](https://www.youtube.com/watch?v=JSed7OBasXs)
+- [Build Your Own Artificial Neural Network. It’s Easy! (2020)](http://nautil.us//blog/build-your-own-artificial-neural-network-its-easy)

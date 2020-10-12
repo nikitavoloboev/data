@@ -16,7 +16,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [LaTeX3 Development Repository](https://github.com/latex3/latex3) - Contains development material for LaTeX3.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
-- [KaTeX](https://katex.org/) - Fastest math typesetting library for the web.
+- [KaTeX](https://katex.org/) - Fastest math typesetting library for the web. ([Code](https://github.com/KaTeX/KaTeX)) ([HN](https://news.ycombinator.com/item?id=24742518))
 - [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - Easily clean the LaTeX code of your paper to submit to arXiv.
 - [HN: LaTeX Workflow on iPad](https://news.ycombinator.com/item?id=20180015)
 - [arxiv-style](https://github.com/kourgeorge/arxiv-style) - Latex style and template for paper preprints (based on NIPS style).

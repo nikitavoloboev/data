@@ -35,3 +35,4 @@
 - [terraform-exec](https://github.com/hashicorp/terraform-exec) - Go module for constructing and running Terraform CLI commands. Structured return values use the data types defined in terraform-json.
 - [Terraform and Amazon Web Services (2020)](https://jeffrafter.com/terraform-and-aws/)
 - [TerraGoat](https://github.com/bridgecrewio/terragoat) - Vulnerable Terraform Infrastructure.
+- [On Terraform code structure for scale (2020)](https://sysdogs.com/on-terraform-code-structure-for-scale/)

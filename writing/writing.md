@@ -182,3 +182,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
 - [On the importance of writing for for computer-type-people](https://twitter.com/LeaKissner/status/1304419161364340737)
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
+- [Why you should write (2020)](https://www.preetamnath.com/blog/why-you-should-write) ([HN](https://news.ycombinator.com/item?id=24743944))

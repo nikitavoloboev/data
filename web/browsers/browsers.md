@@ -68,3 +68,4 @@
 - [Look ma, no mouse: Vimium (2020)](https://codefaster.substack.com/p/look-ma-no-mouse-vimium) ([HN](https://news.ycombinator.com/item?id=24700746))
 - [Fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page. ([Web](https://fraidyc.at/))
 - [Keyboard-driven browser design tool](https://twitter.com/yoshikischmitz/status/1185189779521953798)
+- [Floating Point in the Browser (2020)](https://randomascii.wordpress.com/2020/09/27/floating-point-in-the-browser-part-1-impossible-expectations/) ([Part 2](https://randomascii.wordpress.com/2020/10/11/floating-point-in-the-browser-part-2-bad-epsilon/))

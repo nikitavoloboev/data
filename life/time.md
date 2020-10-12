@@ -16,3 +16,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [No, you cannot have a third of my life! (2020)](https://www.unixsheikh.com/articles/no-you-cannot-have-a-third-of-my-life.html)
 - [Reasons Revealed for the Brain’s Elastic Sense of Time (2020)](https://www.quantamagazine.org/reasons-revealed-for-the-brains-elastic-sense-of-time-20200924/) ([HN](https://news.ycombinator.com/item?id=24659683))
 - [Why does time become meaningless after the heat death of our universe?](https://www.reddit.com/r/AskPhysics/comments/j6ct6a/why_does_time_become_meaningless_after_the_heat/)
+- [Ask HN: What are some good methods to prove current time? (2020)](https://news.ycombinator.com/item?id=24744531)

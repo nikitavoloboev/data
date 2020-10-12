@@ -54,3 +54,4 @@
 - [A Brief Guide to OTP in Elixir (2020)](https://serokell.io/blog/elixir-otp-guide) ([HN](https://news.ycombinator.com/item?id=24637121))
 - [Elixir 1.11 (2020)](https://elixir-lang.org/blog/2020/10/06/elixir-v1-11-0-released/) ([HN](https://news.ycombinator.com/item?id=24698086))
 - [Real time communication at scale with Elixir at Discord (2020)](https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/)
+- [Coming to Elixir from TypeScript (2020)](https://www.papercups.io/blog/elixir-noob)

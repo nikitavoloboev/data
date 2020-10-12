@@ -589,6 +589,7 @@
 - [Philosophy](philosophy/philosophy.md)
   - [Effective altruism](philosophy/effective-altruism.md)
   - [Simulated reality](philosophy/simulated-reality.md)
+  - [Ethics](philosophy/ethics.md)
 - [Video](video/video.md)
   - [Cinematography](video/cinematography.md)
 - [Machine learning](machine-learning/machine-learning.md)

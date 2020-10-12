@@ -90,6 +90,8 @@
 - [UnderscoreOh.jl](https://github.com/tkf/UnderscoreOh.jl) - Call graphs as recompilation-free capture-by-value closures.
 - [Downloads](https://github.com/JuliaLang/Downloads.jl) - Provides a single function, download, which provides cross-platform, multi-protocol, in-process download functionality implemented with libcurl.
 - [Colors](https://github.com/JuliaGraphics/Colors.jl) - Color manipulation utilities for Julia.
+- [NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) - Reversible domain-specific language (DSL) that allow a program to go back to the past. ([HN](https://news.ycombinator.com/item?id=24743813))
+- [CUDAFolds](https://github.com/JuliaFolds/CUDAFolds.jl) - Data-parallelism on CUDA using Transducers.jl and for loops (FLoops.jl).
 
 ## Links
 

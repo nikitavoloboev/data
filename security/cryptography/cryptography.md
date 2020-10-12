@@ -79,3 +79,4 @@
 - [Cute Cryptography Stories (2020)](https://www.cryptologie.net/article/506/cute-cryptography-stories/)
 - [Cryptography Dispatches](https://buttondown.email/cryptography-dispatches/archive) - Longer form discussion of the cryptography engineering topics.
 - [Small portable Elliptic-Curve Diffie-Hellman in C](https://github.com/kokke/tiny-ECDH-c)
+- [Branca](https://github.com/tuupola/branca-spec) - Authenticated and encrypted API tokens using modern crypto. ([Web](https://branca.io/))

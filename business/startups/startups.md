@@ -148,7 +148,7 @@
 - [Ask HN: How to Do a Startup in 2020?](https://news.ycombinator.com/item?id=22375567)
 - [Hard Startups (2020)](https://blog.samaltman.com/hard-startups) ([HN](https://news.ycombinator.com/item?id=22425745))
 - [YC Companies](https://www.ycombinator.com/companies/)
-- [Failory](https://www.failory.com/) - Content to help you build a profitable startup.
+- [Failory](https://www.failory.com/) - Content to help you build a profitable startup. ([Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)) ([HN](https://news.ycombinator.com/item?id=24733189))
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/) ([HN](https://news.ycombinator.com/item?id=22398118))
 - [Free Resources for Indie SaaS Devs](https://blog.saasify.sh/indie-saas-resources/)
 - [Founder's Guide to Building a Developer Tools Business](https://manifold.co/blog/founders-guide-developer-tools-sell-to-engineers) ([HN](https://news.ycombinator.com/item?id=21511411))
@@ -230,6 +230,7 @@
 - [Forward Thinking City](https://www.forwardthinking.city/) - Experience the serendipity of the bay area, simply by opening up your computer.
 - [Capbase](https://capbase.com/) - Streamlines and automates many parts of your business, freeing up your time and capital to focus on growing your startup.
 - [Breaking down business models one flywheel at a time (2020)](https://theflywheel.substack.com/p/coming-soon)
+- [Zero to One: the book that built the future (2020)](https://www.blog.yesdelft.com/post/zero-to-one-the-book-that-built-the-future)
 
 ## Images
 

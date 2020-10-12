@@ -83,6 +83,7 @@
 - [pixels](https://github.com/parasyte/pixels) - Tiny hardware-accelerated pixel frame buffer.
 - [kurbo](https://github.com/linebender/kurbo) - Rust library for manipulating curves.
 - [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust.
+- [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust.
 
 ## Games
 
@@ -153,6 +154,7 @@
 - [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
 - [partial_application](https://github.com/Emerentius/partial_application) - Partial function application macro for Rust.
 - [macro_railroad](https://github.com/lukaslueg/macro_railroad) - Library to generate syntax diagrams for Rust macros.
+- [genco](https://github.com/udoprog/genco) - Whitespace-aware quasiquoter for beautiful code generation.
 
 ## Other
 
@@ -452,6 +454,9 @@
 - [untrusted.rs](https://github.com/briansmith/untrusted) - Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.
 - [rust-dangerous](https://github.com/avitex/rust-dangerous) - Rust library for safely and explicitly parsing user-generated data.
 - [magick-rust](https://github.com/nlfiedler/magick-rust) - Rust bindings for ImageMagick.
+- [indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust.
+- [libgoblin](https://github.com/m4b/goblin) - Impish, cross-platform binary parsing crate, written in Rust.
+- [com-rs](https://github.com/microsoft/com-rs) - Rust Crate for Creating and Consuming COM APIs.
 
 ## Cargo Plugins
 

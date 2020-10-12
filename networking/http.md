@@ -73,3 +73,4 @@
 - [Gist: HTTP](https://blog.theidrees.me/gist-http-ckfsc0deb01hwv6s1fol4fv26)
 - [RequestBin.com](https://requestbin.com/) - Modern request bin to collect, inspect and debug HTTP requests and webhooks.
 - [wrk2](https://github.com/giltene/wrk2) - Constant throughput, correct latency recording variant of wrk.
+- [Hetty](https://github.com/dstotijn/hetty) - HTTP toolkit for security research.

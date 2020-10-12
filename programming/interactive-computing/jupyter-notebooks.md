@@ -73,3 +73,4 @@
 - [How TensorFlow docs uses Jupyter notebooks (2020)](https://blog.tensorflow.org/2020/10/how-tensorflow-docs-uses-juypter-notebooks.html)
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks. ([Docs](https://jupyterhub.readthedocs.io/en/stable/))
 - [Treebeard](https://github.com/treebeardtech/treebeard) - Notebook-First Continuous Integration Framework.
+- [kernel-relay](https://github.com/nteract/kernel-relay) - GraphQL service for interfacing with one or more Jupyter kernels.

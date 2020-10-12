@@ -4,7 +4,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
-- [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
+- [Ale](https://github.com/dense-analysis/ale) - Asynchronous Lint Engine.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
@@ -17,7 +17,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Incsearch](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching.
 - [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
 - [Quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
-- [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 
 ## Git
 
@@ -90,6 +89,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
+- [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 - [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
 - [Ultisnips](https://github.com/SirVer/ultisnips) - Ultimate snippet solution for Vim.
 - [Incsearch & Easymotion](https://github.com/haya14busa/incsearch-easymotion.vim) - Incsearch & easymotion integration.

@@ -51,3 +51,4 @@
 - [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
 - [A Pipeline Made of Airbags (2020)](https://ferd.ca/a-pipeline-made-of-airbags.html) ([Lobsters](https://lobste.rs/s/uuex13/pipeline_made_airbags))
 - [Caramel](https://github.com/AbstractMachinesLab/caramel) - Erlang backend to the OCaml compiler.
+- [Elli](https://github.com/elli-lib/elli) - Erlang web server for HTTP APIs.

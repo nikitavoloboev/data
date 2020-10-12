@@ -38,3 +38,4 @@
 - [Wikimedia Research/Showcase](https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase)
 - [Knowledge Gaps Index/Taxonomy](https://meta.wikimedia.org/wiki/Research:Knowledge_Gaps_Index/Taxonomy)
 - [Wikimedia Research Showcase (2020)](https://www.youtube.com/watch?v=GJDsKPsz64o)
+- [LUKE](https://github.com/studio-ousia/luke) - Language Understanding with Knowledge-based Embeddings.

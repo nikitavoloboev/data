@@ -133,3 +133,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The Cost of Software-Based Memory Management Without Virtual Memory (2020)](https://arxiv.org/pdf/2009.06789.pdf) ([Tweet](https://twitter.com/AndrewCMyers/status/1306057485741109258)) ([HN](https://news.ycombinator.com/item?id=24503773))
 - [Writing an x86 bootloader in Rust that can launch vmlinux](https://vmm.dev/en/rust/krabs.md) ([HN](https://news.ycombinator.com/item?id=24514100))
 - [From Zero to main(): How to Write a Bootloader from Scratch (2020)](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch) ([HN](https://news.ycombinator.com/item?id=24635383))
+- [SerenityOS: The second year (2020)](http://serenityos.org/happy/2nd/) ([Lobsters](https://lobste.rs/s/rkx214/serenityos_second_year))
+- [OSDI '21 Call for Papers](https://www.usenix.org/conference/osdi21/call-for-papers)
+- [Tibru](https://github.com/tibru/tibru) - Alternative to the nonsense that is the Urbit project. ([Lobsters](https://lobste.rs/s/klltdm/tibru_tibru_alternative_nonsense_is))

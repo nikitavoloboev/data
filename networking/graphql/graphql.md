@@ -134,3 +134,4 @@
 - [GitHub Mobile and GraphQL (2020)](https://github.blog/2020-09-23-github-mobile-and-graphql/)
 - [Design Considerations for Secure GraphQL APIs (2020)](https://labs.bishopfox.com/tech-blog/design-considerations-for-secure-graphql-apis)
 - [GraphQL-ESLint](https://github.com/dotansimha/graphql-eslint) - Integrates GraphQL and ESLint, for a better developer experience. ([Intro article](https://the-guild.dev/blog/introducing-graphql-eslint))
+- [GraphQL Live Queries](https://github.com/n1ru4l/graphql-live-queries) - Proof of concept implementation of GraphQL Live Queries.

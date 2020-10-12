@@ -95,6 +95,7 @@ And these Discord servers:
 - [NOWNESS](https://www.nowness.com/)
 - [InputMag](https://www.inputmag.com/)
 - [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
+- [The Straight Dope](https://www.straightdope.com/)
 
 ### Other
 

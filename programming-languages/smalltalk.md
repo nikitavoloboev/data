@@ -23,3 +23,4 @@
 - [TruffleSqueak](https://github.com/hpi-swa/trufflesqueak) - Squeak/Smalltalk VM and Polyglot Programming Environment for the GraalVM.
 - [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1) ([HN](https://news.ycombinator.com/item?id=24329485))
 - [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
+- [Issue #25: Smalltalk (2020)](https://deprogrammaticaipsum.com/issue-25-smalltalk/)

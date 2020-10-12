@@ -344,3 +344,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Celestial](https://github.com/gocelestial/Celestial) - Micropub client for an average user opting in to the IndieWeb.
 - [Perfectly Cut Screams](https://twitter.com/AAAAAGGHHHH)
 - [Neverthink](https://neverthink.tv/) - Watch Memes & Funny Videos.
+- [Sunday Sites](https://sundaysites.cafe/) - Place to write code and socialize. A couple of sundays a month, we meet on Zoom and write HTML for around two hours.
+- [How does a gas pump know to shut itself off? (1981)](https://www.straightdope.com/21341412/how-does-a-gas-pump-know-to-shut-itself-off) ([HN](https://news.ycombinator.com/item?id=24741029))

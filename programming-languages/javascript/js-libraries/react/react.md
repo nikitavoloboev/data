@@ -168,3 +168,4 @@
 - [Animating React with React Transition Group (2020)](https://blog.bitsrc.io/animating-reactjs-with-react-transition-group-2af6c87cab0c)
 - [Maho](https://github.com/egoist/maho) - Framework for building server-rendered or static websites, powered by React and esbuild.
 - [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f)
+- [React Summit](https://reactsummit.com/) - Biggest React Conference Worldwide.

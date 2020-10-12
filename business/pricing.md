@@ -26,3 +26,4 @@
 - [Pipe](https://www.pipe.com/) - Instant access to your annual cash flow.
 - [Pricing Low-Touch SaaS (2020)](https://stripe.com/en-in/atlas/guides/saas-pricing) - How to approach pricing and packaging a new SaaS app, by example. ([HN](https://news.ycombinator.com/item?id=24543433))
 - [SaaS Financial Model (2020)](https://baremetrics.com/blog/saas-financial-model)
+- [Negotiating SaaS Contracts](https://www.crayika.com/blog)

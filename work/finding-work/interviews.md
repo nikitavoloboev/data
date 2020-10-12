@@ -92,3 +92,4 @@
 - [Lessons interviewing 200+ engineers: the perfect process to manage tech debt (2020)](https://blog.stepsize.com/the-perfect-process-to-manage-tech-debt/)
 - [Ask Me This Instead](https://www.holloway.com/b/ask-me-this-instead) - Flip the Interview to Land Your Dream Job.
 - [What an interview with Steve Jobs feels like (intimidating personality) (2020)](https://www.youtube.com/watch?v=ecKgqJRvZ5M)
+- [Reversing the technical interview (2017)](https://aphyr.com/posts/340-reversing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24735062))

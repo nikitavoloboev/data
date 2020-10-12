@@ -62,4 +62,5 @@
 - [New Steve Jobs recordings from the '80s released](https://www.sfgate.com/tech/article/New-Steve-Jobs-recordings-from-the-80s-released-15572216.php) ([HN](https://news.ycombinator.com/item?id=24544508))
 - [Would it be possible to detect an industrial civilization in geological record? (2018)](https://arxiv.org/abs/1804.03748) ([HN](https://news.ycombinator.com/item?id=24601375))
 - [Before the Web: The 1980s Dream of a Free and Borderless Virtual World (2020)](https://www.youtube.com/watch?v=YWh6Yzr12iQ)
-- [Asterisk (2020)](https://cormullion.github.io/pages/2020-10-09-asterisk/)
+- [Asterisk (2020)](https://cormullion.github.io/pages/2020-10-09-asterisk/) ([HN](https://news.ycombinator.com/item?id=24733187))
+- [United States Early Radio History](https://earlyradiohistory.us/) ([HN](https://news.ycombinator.com/item?id=24744537))

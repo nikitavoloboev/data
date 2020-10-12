@@ -9,3 +9,4 @@
 - [eslint-gitignore](https://github.com/mysticatea/eslint-gitignore) - Utility for ESLint respecting `.gitignore` files.
 - [eslint-plugin-echobind](https://github.com/echobind/eslint-plugin-echobind) - Echobind's recommended eslint rules and configs.
 - [ESLint code](https://github.com/eslint/eslint)
+- [eslint-plugin-deprecation](https://github.com/gund/eslint-plugin-deprecation) - ESLint rule that reports usage of deprecated code.

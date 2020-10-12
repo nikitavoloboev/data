@@ -99,6 +99,7 @@
 - [ScrollStackController](https://github.com/malcommac/ScrollStackController) - Create scrollable complex layouts easily using UIViewControllers/UIView and the power of AutoLayout.
 - [SwiftSignatureView](https://github.com/alankarmisra/SwiftSignatureView) - Lightweight, fast and customizable option for capturing fluid, variable-stroke-width signatures within your app.
 - [SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - Swift wrapper around Tesseract for use in iOS applications.
+- [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 
 ## macOS
 
@@ -161,6 +162,7 @@
 - [Quick](https://github.com/Quick/Quick) - Behavior-driven development framework for Swift and Objective-C.
 - [Muter](https://github.com/muter-mutation-testing/muter) - Automated mutation testing for Swift.
 - [AccessibilitySnapshot](https://github.com/cashapp/AccessibilitySnapshot) - Makes it simple to add regression tests for accessibility in UIKit.
+- [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) - Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 
 ## API
 
@@ -432,6 +434,7 @@
 - [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases framework for iOS, tvOS, watchOS, macOS, and Mac Catalyst.
 - [ReactiveKit](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time.
 - [Swift Atomics](https://github.com/apple/swift-atomics) - Implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values.
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Lightweight, pure-Swift library for generating pretty QRCode image with input watermark or icon and recognizing QRCode from image.
 
 ## Other (not lib)
 

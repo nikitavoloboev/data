@@ -31,7 +31,7 @@
 - [Equilibrium](https://equilibrium.co/) - Build core infrastructure for the new distributed web.
 - [Flok](https://munshkr.github.io/flok/) - Web-based P2P collaborative editor for live coding music and graphics. ([Code](https://github.com/munshkr/flok))
 - [go-libp2p examples and tutorials](https://github.com/libp2p/go-libp2p-examples)
-- [Berty](https://github.com/berty/berty) - Secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+- [Berty](https://github.com/berty/berty) - Secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network. ([Web](https://berty.tech/))
 - [Swarm](https://github.com/ethersphere/swarm) - Censorship resistant storage and communication infrastructure for a truly sovereign digital society.
 - [PushPin: Towards Production-Quality Peer-to-Peer Collaboration (2020)](https://martin.kleppmann.com/papers/pushpin-papoc20.pdf) ([Code](https://github.com/ept/pushpin-papoc))
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web.
@@ -53,3 +53,4 @@
 - [Network Coding in P2P Networks (2020)](https://adlrocha.substack.com/p/adlrocha-network-coding-in-p2p-networks) ([HN](https://news.ycombinator.com/item?id=24250739))
 - [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 - [Beaker Social](https://github.com/beakerbrowser/social) - Peer-to-peer social media. A Beaker application.
+- [Textile](https://github.com/textileio/textile) - Connects and extends Libp2p, IPFS, and Filecoin.

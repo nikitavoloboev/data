@@ -38,7 +38,7 @@
 ## State management
 
 - [Mutik](https://github.com/jaredpalmer/mutik) - Tiny (495B) immutable state management library based on Immer.
-- [Overmind](https://github.com/cerebral/overmind) - Frictionless state management.
+- [Overmind](https://github.com/cerebral/overmind) - Frictionless state management. ([Docs](https://overmindjs.org/)) ([HN](https://news.ycombinator.com/item?id=24750620))
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
 - [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
 - [Effector](https://github.com/zerobias/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector))
@@ -202,7 +202,7 @@
 - [CLUI](https://github.com/replit/clui) - Collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
 - [cosha](https://github.com/robinloeffel/cosha) - Colorful shadows for your images.
 - [Rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda.
-- [MathJax](https://github.com/mathjax/MathJax) - Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers. ([Web](https://www.mathjax.org/))
+- [MathJax](https://github.com/mathjax/MathJax) - Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers. ([Web](https://www.mathjax.org/)) ([HN](https://news.ycombinator.com/item?id=24741077))
 - [Litepicker](https://github.com/wakirin/Litepicker) - Date range picker - lightweight, no dependencies.
 - [core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript.
 - [timeago.js](https://github.com/hustcc/timeago.js) - Nano library (less than 2 kb) used to format datetime with \*\*\* time ago statement. eg: '3 hours ago'.
@@ -310,6 +310,9 @@
 - [js-coroutines](https://github.com/miketalbot/js-coroutines) - 60fps with JavaScript Coroutines for idle processing and animation.
 - [Transducist](https://github.com/dphilipson/transducist) - Ergonomic JavaScript/TypeScript transducers for beginners and experts.
 - [decimal.js](https://github.com/MikeMcl/decimal.js) - Arbitrary-precision Decimal type for JavaScript.
+- [Constant-Time JavaScript](https://github.com/soatok/constant-time-js) - Constant-time algorithms written in TypeScript.
+- [SheetJS](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit. Read, edit, and export spreadsheets. Works in web browsers and servers. ([Web](https://sheetjs.com/))
+- [Z](https://github.com/z-pattern-matching/z) - Pattern Matching for JavaScript. ([Web](https://z-pattern-matching.github.io/))
 
 ## Links
 

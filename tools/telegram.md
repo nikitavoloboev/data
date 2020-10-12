@@ -26,6 +26,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 - [TgDev](https://tgdev.io/) - Telegram bots development.
+- [Funda new house alerts on Telegram](https://github.com/dstotijn/funda-alert)
 
 ## Links
 
@@ -49,3 +50,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Create a Telegram Bot in Python in under 10 minutes (2020)](https://blog.usejournal.com/part-1-how-to-create-a-telegram-bot-in-python-under-10-minutes-145e7f4e6e40)
 - [Evolution of Telegram](https://telegram.org/evolution)
 - [Building a Telegram bot with Apache Kafka and ksqlDB](https://talks.rmoff.net/JG780y/building-a-telegram-bot-with-apache-kafka-and-ksqldb)
+- [MTProto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API.

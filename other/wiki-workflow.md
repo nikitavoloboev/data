@@ -185,7 +185,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Lobsters: How do you take notes and organize your knowledge? (2020)](https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your)
 - [A Short History of Bi-Directional Links (2020)](https://maggieappleton.com/bidirectionals)
 - [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
-- [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron)) ([Lobsters](https://lobste.rs/s/i1uylr/neuron_0_6_released_future_proof_note))
+- [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron)) ([Lobsters](https://lobste.rs/s/i1uylr/neuron_0_6_released_future_proof_note)) ([1.0 release lobsters](https://lobste.rs/s/ve9plk/neuron_1_0_released_future_proof_note))
 - [Neuron Template](https://github.com/srid/neuron-template) - How to publish your own neuron site.
 - [How can we build an extension of your mind? (2020)](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
 - [mmap.it](https://www.mmap.it/) - Map knowledge into memory with seamless search and note taking. ([Code](https://github.com/pdepip/mmap.it))
@@ -252,3 +252,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Notes with TiddlyWiki](http://beza1e1.tuxen.de/tiddlywiki_notes.html)
 - [Rekowl](https://rekowl.com/) - You personal knowledge library.
 - [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393))
+- [NoteApps](https://www.noteapps.info/) - Encyclopedia of note taking apps. ([Launch Notes](https://www.noteapps.info/launch_note)) ([Lobsters](https://lobste.rs/s/uii8of/noteapps_info_launch_notes))

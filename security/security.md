@@ -96,3 +96,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [F-Secure Labs](https://labs.f-secure.com/) - Cyber security research and development.
 - [Hacking Apple (2020)](https://samcurry.net/hacking-apple/) ([HN](https://news.ycombinator.com/item?id=24718078))
 - [Penetration Testing Tools](https://github.com/IoT-PTv/List-of-Tools)
+- [Chamber](https://github.com/segmentio/chamber) - CLI for managing secrets. Currently it does so by storing secrets in SSM Parameter Store, an AWS service for storing secrets.

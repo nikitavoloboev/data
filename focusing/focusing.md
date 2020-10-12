@@ -22,6 +22,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Brains aren’t for holding info, they’re for thinking. So if you can empty your brain out by writing stuff onto a todo list, onto your calendar, etc, your brain will have more space for the high level stuff that’s a bit harder to get on paper. And if you wrote down “do thing” on the todo-list… well you just have to do the thing afterwards. There’s nothing to think about or redigest if you write out the things in more detail](https://lobste.rs/s/0qlkm7/how_do_i_keep_multiple_projects_my_head)
 - [If you can't describe what you are doing as a process, you don't know what you're doing.](https://twitter.com/visualizevalue/status/1296791809478336513)
 - [Every high performer is fundamentally relaxed, and practices minimal use of effort to get a given result. Don't try harder: eliminate tensions.](https://twitter.com/sanityinc/status/1309974689268129792)
+- [Simply doodling on a Synth and enjoying the sounds, playing an instrument without trying to make a song, can be very relaxing and satisfying. Especially when you are a beginner at it. Otherwise you might be trying too hard to create something meaningful, destroying the pleasure in the process. So my advice would be not to attempt to create, but to simply indulge in the act and enjoy the flow.](https://news.ycombinator.com/item?id=24743944)
 
 ## Links
 

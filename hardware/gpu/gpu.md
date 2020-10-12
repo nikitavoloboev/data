@@ -25,4 +25,5 @@
 - [Getting Started with GPU Computing in Anaconda (2017)](https://www.anaconda.com/blog/getting-started-with-gpu-computing-in-anaconda)
 - [gpu-distance-field](https://github.com/ryankaplan/gpu-distance-field) - TypeScript library for generating distance fields from 2d images on the GPU.
 - [Gradient Free Cloud GPUs](https://gradient.paperspace.com/free-gpu)
-- [Object Detection from 9 FPS to 650 FPS in 6 Steps (2020)](https://paulbridger.com/posts/video_analytics_pipeline_tuning/)
+- [Object Detection from 9 FPS to 650 FPS in 6 Steps (2020)](https://paulbridger.com/posts/video_analytics_pipeline_tuning/) ([HN](https://news.ycombinator.com/item?id=24738835))
+- [GPU-Accelerated ODE Solving in R with Julia, the Language of Libraries (2020)](http://www.stochasticlifestyle.com/gpu-accelerated-ode-solving-in-r-with-julia-the-language-of-libraries/)

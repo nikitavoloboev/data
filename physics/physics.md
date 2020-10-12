@@ -132,3 +132,5 @@
 - [Moonshot Papers (2020)](https://davidwyde.com/thoughts/moonshot-papers/)
 - [The Nobel Prize in Physics 2020](https://www.nobelprize.org/prizes/physics/2020/press-release/) ([HN](https://news.ycombinator.com/item?id=24696230))
 - [The Superpowers of Super-Thin Materials (2020)](https://www.nytimes.com/2020/01/07/science/physics-materials-electronics.html) ([HN](https://news.ycombinator.com/item?id=24714994))
+- [How Andrea Ghez won the Nobel for an experiment nobody thought would work (2020)](https://www.scientificamerican.com/article/how-andrea-ghez-won-the-nobel-for-an-experiment-nobody-thought-would-work/) ([HN](https://news.ycombinator.com/item?id=24740475))
+- [Scientists find upper limit for the speed of sound (2020)](https://phys.org/news/2020-10-scientists-upper-limit.html) ([HN](https://news.ycombinator.com/item?id=24736738))
