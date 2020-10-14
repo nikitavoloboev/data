@@ -33,3 +33,4 @@
 - [Some Things I’ve Learned About SEO](https://patwalls.com/some-things-i-ve-learned-about-seo) ([Tweet](https://twitter.com/thepatwalls/status/1306614893630681088))
 - [SEO tips for indie hackers (2020)](https://twitter.com/jdnoc/status/1308741583140007936)
 - [SEO mistakes I've made and how I fixed them (2020)](https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them) ([HN](https://news.ycombinator.com/item?id=24766682))
+- [Understanding SEO - A Systematic Approach to Search Engine Optimization book (2020)](https://gumroad.com/l/understanding-seo/hacker-news)
