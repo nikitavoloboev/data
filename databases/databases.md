@@ -97,6 +97,9 @@
 - [RxDB](https://github.com/pubkey/rxdb) - NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. ([HN](https://news.ycombinator.com/item?id=24340802))
 - [Graviton Database](https://github.com/deroproject/graviton) - Simple, fast, versioned, authenticated, embeddable key-value store database in pure Go. ([HN](https://news.ycombinator.com/item?id=24390596))
 - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - Distributed object store and file system to store and serve billions of files fast.
+- [IndexedDB](https://github.com/jakearchibald/idb) - IndexedDB, but with promises.
+- [JsStore](https://github.com/ujjwalguptaofficial/JsStore) - Complete IndexedDB wrapper with SQL like syntax. ([Web](https://jsstore.net/))
+- [Quadrable](https://github.com/hoytech/quadrable) - Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs.
 
 ## Tools
 

@@ -142,8 +142,9 @@
 - [Cost savings of using managed PostgreSQL](https://news.ycombinator.com/item?id=24608538)
 - [How to Fix PostgreSQL Performance Issues with PG Extras (2020)](https://pawelurbanek.com/postgresql-fix-performance)
 - [7 Tips for PostgreSQL Bulk Data Loading (2020)](https://www.2ndquadrant.com/en/blog/7-best-practice-tips-for-postgresql-bulk-data-loading/)
-- [zheap: Reinvented PostgreSQL storage (2020)](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/) ([Lobsters](https://lobste.rs/s/qyd3pz/zheap_reinvented_postgresql_storage))
+- [Zheap: Reinvented PostgreSQL storage (2020)](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/) ([Lobsters](https://lobste.rs/s/qyd3pz/zheap_reinvented_postgresql_storage)) ([HN](https://news.ycombinator.com/item?id=24757333))
 - [EDB](https://www.enterprisedb.com/) - Supercharges PostgreSQL.
 - [PostgreSQL community impact of 2nd Quadrant purchase (2020)](https://momjian.us/main/blogs/pgblog/2020.html#October_7_2020) ([HN](https://news.ycombinator.com/item?id=24710759))
 - [PostgreSQL Contributors](https://www.postgresql.org/community/contributors/)
 - [Measuring the Memory Overhead of a Postgres Connection (2020)](https://blog.anarazel.de/2020/10/07/measuring-the-memory-overhead-of-a-postgres-connection/) ([HN](https://news.ycombinator.com/item?id=24735012))
+- [prostgles-server](https://github.com/prostgles/prostgles-server-js) - Isomorphic PostgreSQL client for node. ([Web](https://prostgles.com/))

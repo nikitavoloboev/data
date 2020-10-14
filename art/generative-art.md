@@ -68,3 +68,4 @@
 - [ln](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go. It is used to produce 2D vector graphics (think SVGs) depicting 3D scenes. ([JS port](https://github.com/aweary/ln.js))
 - [Abstract Puzzles](https://abstractpuzzl.es/)
 - [Jigsaw Design IDE](https://github.com/pouretrebelle/jigsaws) - Development environment for abstractpuzzl.es jigsaw design.
+- [Interview with Generative Artist Kjetil Golid (2020)](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)

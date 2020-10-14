@@ -9,6 +9,7 @@ I publish most of my work and make it open source for other people to use and re
 ## Interesting GitHub Bios
 
 - [Anthony Fu](https://github.com/antfu) - Has nice icons.
+- [Christian Muehlhaeuser](https://github.com/muesli) - Lengthy.
 
 ## Notes
 

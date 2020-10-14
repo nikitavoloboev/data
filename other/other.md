@@ -346,3 +346,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Neverthink](https://neverthink.tv/) - Watch Memes & Funny Videos.
 - [Sunday Sites](https://sundaysites.cafe/) - Place to write code and socialize. A couple of sundays a month, we meet on Zoom and write HTML for around two hours.
 - [How does a gas pump know to shut itself off? (1981)](https://www.straightdope.com/21341412/how-does-a-gas-pump-know-to-shut-itself-off) ([HN](https://news.ycombinator.com/item?id=24741029))
+- [Hacker News Lists](https://news.ycombinator.com/lists) - Top HN users/threads/..
+- [Fonos](https://github.com/fonoster/fonos) - Open-source telecommunications for the cloud. ([Docs](https://fonoster.github.io/fonos/))
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.

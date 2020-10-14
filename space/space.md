@@ -59,3 +59,4 @@
 - [Some Physicists See Signs of Cosmic Strings from the Big Bang (2020)](https://www.quantamagazine.org/pulsar-data-may-point-to-cosmic-strings-from-the-big-bang-20200929/) ([HN](https://news.ycombinator.com/item?id=24628417))
 - [NASA technical note: Lunar sample processing](https://core.ac.uk/download/pdf/42881927.pdf)
 - [100k Stars](http://stars.chromeexperiments.com/) ([HN](https://news.ycombinator.com/item?id=24702874))
+- [Space Engine](http://spaceengine.org/) - Universe simulator. ([HN](https://news.ycombinator.com/item?id=9581818))

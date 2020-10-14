@@ -201,3 +201,5 @@
 - [Generalizing 'jq' and Traversal Systems using optics and standard monads (2020)](https://chrispenner.ca/posts/traversal-systems) ([HN](https://news.ycombinator.com/item?id=24710565))
 - [apply-refact](https://github.com/mpickering/apply-refact) - Refactor Haskell source files.
 - [Delivering with Haskell (2020)](https://medium.com/@fommil/delivering-with-haskell-a347d8359597) - Advice to teams that are interested in using Haskell, for the first time, to ship a project. ([Lobsters](https://lobste.rs/s/qeaqsu/delivering_with_haskell))
+- [Towards Tactic Metaprogramming in Haskell (2020)](https://reasonablypolymorphic.com/blog/towards-tactics/index.html) ([HN](https://news.ycombinator.com/item?id=24759649))
+- [Haskell: Monads. A 5-minute introduction (2020)](https://www.youtube.com/watch?v=_Gk_lwhJMzk)

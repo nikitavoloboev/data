@@ -29,3 +29,5 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Modernizing the OpenBSD console (2020)](https://www.cambus.net/modernizing-the-openbsd-console/)
 - [NetBSD Tips and Tricks](http://students.engr.scu.edu/~sschaeck/netbsd/index.html)
 - [Compilers in OpenBSD (2013)](https://marc.info/?l=openbsd-misc&m=137530560232232)
+- [FreeBSD Case Study – Netflix](https://freebsdfoundation.org/blog/freebsd-case-study-netflix/) ([Lobsters](https://lobste.rs/s/hoezlc/freebsd_case_study_netflix))
+- [FreeBSD Fridays: Introduction to Jails (2020)](https://www.youtube.com/watch?v=hQmOc0egcl4)

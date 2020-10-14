@@ -31,3 +31,4 @@
 - [Circumventing the JVM's bytecode verifier (2019)](https://anthony.som.codes/blog/2019-12-30-jvm-hackery-noverify/) ([HN](https://news.ycombinator.com/item?id=21921922))
 - [Java Turns 25 – Whats Next? (2020)](https://www.oracle.com/a/ocom/docs/corporate/analystrelations/omdia-java-turns-25.pdf) ([HN](https://news.ycombinator.com/item?id=24534629))
 - [Please Test Your Memory](https://shipilev.net/jvm/test-your-memory/) - My JVM keeps crashing in GC, must be a GC bug. ([Lobsters](https://lobste.rs/s/jaezro/please_test_your_memory))
+- [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)

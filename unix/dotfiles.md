@@ -45,3 +45,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.
 - [Awesome dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [rcm](https://github.com/thoughtbot/rcm) - Management suite for dotfiles.
+- [Dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. ([Web](https://deadc0de.re/dotdrop/))

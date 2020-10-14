@@ -308,6 +308,7 @@
   - [Self](programming-languages/self.md)
   - [Factor](programming-languages/factor.md)
   - [Ink](programming-languages/ink.md)
+  - [Haxe](programming-languages/haxe/haxe.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)

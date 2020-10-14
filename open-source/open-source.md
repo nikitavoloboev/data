@@ -124,3 +124,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [TJ Sponsored Projects](https://github.com/tj/sponsors)
 - [Public Money, Public Code](https://publiccode.eu/) - Why is software created using taxpayers’ money not released as Free Software?
 - [Open Source Directory](https://postmake.io/open-source) - Human-browsable directory of popular open-source projects. ([Code](https://github.com/Postmake/open-source-directory))
+- [Open source licensing and why we’re changing Plausible to the AGPL license (2020)](https://plausible.io/blog/open-source-licenses) ([HN](https://news.ycombinator.com/item?id=24763734))

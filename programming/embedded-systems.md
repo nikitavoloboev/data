@@ -71,3 +71,4 @@
 - [AI at the edge](https://github.com/crespum/edge-ai) - Curated list of resources for embedded AI.
 - [JLCPCB](https://jlcpcb.com/) - PCB Prototype & PCB Fabrication Manufacturer.
 - [JLCKicadTools](https://github.com/matthewlai/JLCKicadTools) - Tool for using JLCPCB assembly service with KiCad.
+- [Low-Level Academy](https://lowlvl.org/) - Learn systems programming from the first principles. ([Code](https://github.com/LowLevelAcademy/LowLevelAcademy)) ([HN](https://news.ycombinator.com/item?id=24764589))

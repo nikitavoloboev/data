@@ -27,3 +27,4 @@
 - [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98) ([HN](https://news.ycombinator.com/item?id=23674012))
 - [8-bit CPU simulator in C](https://github.com/reutiteuti/logic) ([HN](https://news.ycombinator.com/item?id=23672470))
 - [GBEmu](https://github.com/BlueBlazin/gbemu) - WebAssembly based Gameboy Emulator. ([Web](https://gbemu.netlify.app/))
+- [Playstation Emulation Guide: implementation of an emulator from scratch (2016)](https://svkt.org/~simias/guide.pdf)

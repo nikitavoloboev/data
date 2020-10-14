@@ -51,6 +51,7 @@
 - [Awkward](https://www.awkward.co/) - Digital product agency.
 - [Human Deluxe Design Studio](https://humandeluxe.com/)
 - [This Too Shall Grow](https://thistooshallgrow.com/)
+- [Wiredcraft](https://wiredcraft.com/) - Creates & grows digital products for the world’s best brands.
 
 ## DB
 
@@ -120,6 +121,7 @@
 - [Futured](https://www.futured.app/en/) - Mobile business builders.
 - [Metosin](https://www.metosin.fi/en/)
 - [Elements](https://www.elements.nl/en) - Specialist for Digital Design & Development.
+- [HYPE4](https://hype4.com/) - Web and mobile / design and development.
 
 ## Links
 

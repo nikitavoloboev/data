@@ -107,3 +107,4 @@
 - [Deep Reinforcement Learning Course (2020)](https://simoninithomas.github.io/deep-rl-course/) ([Code](https://github.com/simoninithomas/Deep_reinforcement_learning_Course))
 - [GridRoyale](https://github.com/cool-RR/grid_royale) - Life simulation for exploring social dynamics. ([HN](https://news.ycombinator.com/item?id=24744437))
 - [TorchRL](https://github.com/RchalYang/torchrl) - PyTorch Implementation of Reinforcement Learning Algorithms.
+- [Reinforcement learning is supervised learning on optimized data (2020)](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/) ([HN](https://news.ycombinator.com/item?id=24771856))

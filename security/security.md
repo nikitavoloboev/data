@@ -97,3 +97,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Hacking Apple (2020)](https://samcurry.net/hacking-apple/) ([HN](https://news.ycombinator.com/item?id=24718078))
 - [Penetration Testing Tools](https://github.com/IoT-PTv/List-of-Tools)
 - [Chamber](https://github.com/segmentio/chamber) - CLI for managing secrets. Currently it does so by storing secrets in SSM Parameter Store, an AWS service for storing secrets.
+- [Cyber Security Resources](https://github.com/The-Art-of-Hacking/h4cker) ([Web](https://h4cker.org/))
+- [HowToHunt](https://github.com/KathanP19/HowToHunt) - Some Tutorials and Things to Do while Hunting Particular Vulnerability.
+- [EarlyBird](https://github.com/americanexpress/earlybird) - Sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
+- [Awesome Hacking](https://github.com/jekil/awesome-hacking) - Curated list of hacking tools for hackers, pentesters and security researchers. ([Web](https://awesomehacking.org/))

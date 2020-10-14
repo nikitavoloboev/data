@@ -135,3 +135,5 @@
 - [Design Considerations for Secure GraphQL APIs (2020)](https://labs.bishopfox.com/tech-blog/design-considerations-for-secure-graphql-apis)
 - [GraphQL-ESLint](https://github.com/dotansimha/graphql-eslint) - Integrates GraphQL and ESLint, for a better developer experience. ([Intro article](https://the-guild.dev/blog/introducing-graphql-eslint))
 - [GraphQL Live Queries](https://github.com/n1ru4l/graphql-live-queries) - Proof of concept implementation of GraphQL Live Queries.
+- [GraphQL is not meant to be exposed over the internet (2020)](https://wundergraph.com/blog/graphql_is_not_meant_to_be_exposed_over_the_internet)
+- [gqtx](https://github.com/sikanhe/gqtx) - Thin layer on top of graphql-js for writing a type-safe GraphQL server in TypeScript.

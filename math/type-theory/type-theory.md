@@ -98,3 +98,4 @@
 - [Things I Was Wrong About: Types](https://v5.chriskrycho.com/journal/things-i-was-wrong-about/1-types/) ([HN](https://news.ycombinator.com/item?id=24604943))
 - [Luca Cardelli: Typeful Programming](http://www.lucacardelli.name/Papers/TypefulProg.pdf)
 - [Alg](https://github.com/andrejbauer/alg) - Program that generates all finite models of a first-order theory. It is optimized for equational theories.
+- [Corpse Reviver: Sound and Efficient Gradual Typing via Contract Verification (2020)](https://arxiv.org/abs/2007.12630) ([Tweet](https://twitter.com/yminsky/status/1315983813965742081))

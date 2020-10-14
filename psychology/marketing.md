@@ -76,6 +76,7 @@
 - [Booking early growth strategy (2020)](https://twitter.com/lennysan/status/1314237569622654976)
 - [Audience First book](https://audiencefirst.link/)
 - [“Powered by” buttons for customer acquisition (2020)](https://zerotousers.substack.com/p/how-43-founders-got-their-first-users) ([HN](https://news.ycombinator.com/item?id=24745007))
+- [How to post on Hacker News (2020)](https://wiredcraft.com/blog/how-to-post-on-hacker-news/)
 
 ## Images
 

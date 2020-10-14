@@ -174,3 +174,4 @@
 - [An introduction to Linux kernel initcalls (2020)](https://www.collabora.com/news-and-blog/blog/2020/07/14/introduction-to-linux-kernel-initcalls/) ([Part 2](https://www.collabora.com/news-and-blog/blog/2020/09/25/initcalls-part-2-digging-into-implementation/))
 - [Unlocking eBPF power (2020)](https://devopsspiral.com/articles/linux/ebpf-unlock/)
 - [Linux interview questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md)
+- [Durability: Linux File APIs (2020)](https://www.evanjones.ca/durability-filesystem.html) ([HN](https://news.ycombinator.com/item?id=24758024))

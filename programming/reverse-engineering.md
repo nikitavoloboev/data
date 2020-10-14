@@ -53,3 +53,4 @@
 - [Super Mario Bros. 3 in 3 Minutes – World Record Speedrun Explained (2020)](https://www.youtube.com/watch?v=WWbZFj-cLvk) ([HN](https://news.ycombinator.com/item?id=24456247))
 - [Reverse engineering the Logitech Harmony (2020)](https://twitter.com/foone/status/1251395931351609347) ([Lobsters](https://lobste.rs/s/5wwalu/reverse_engineering_logitech_harmony))
 - [Reverse engineering my cable modem and turning it into an SDR (2020)](https://stdw.github.io/cm-sdr/)
+- [ReSilicon](https://www.reddit.com/r/ReSilicon/) - Place to discuss reverse engineering of integrated circuits, silicon die, methods of decapsulating epoxy and delayering polysilicon.

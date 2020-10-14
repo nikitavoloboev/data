@@ -313,6 +313,7 @@
 - [Constant-Time JavaScript](https://github.com/soatok/constant-time-js) - Constant-time algorithms written in TypeScript.
 - [SheetJS](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit. Read, edit, and export spreadsheets. Works in web browsers and servers. ([Web](https://sheetjs.com/))
 - [Z](https://github.com/z-pattern-matching/z) - Pattern Matching for JavaScript. ([Web](https://z-pattern-matching.github.io/))
+- [Graphology](https://github.com/graphology/graphology) - Robust & multipurpose Graph object for JavaScript & TypeScript. ([Docs](https://graphology.github.io/))
 
 ## Links
 

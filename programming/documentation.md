@@ -69,3 +69,4 @@
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.
 - [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/))
 - [Just the Docs](https://github.com/pmarsceill/just-the-docs) - Modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Vite plugin for React. It is very suitable for document site and React UI development environment.

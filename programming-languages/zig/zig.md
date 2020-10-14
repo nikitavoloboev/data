@@ -24,3 +24,4 @@
 - [What is Zig's Comptime? (2019)](https://kristoff.it/blog/what-is-zig-comptime/)
 - [Zig's New Relationship with LLVM (2020)](https://kristoff.it/blog/zig-new-relationship-llvm/) ([HN](https://news.ycombinator.com/item?id=24615916)) ([Lobsters](https://lobste.rs/s/flw8du/zig_s_new_relationship_with_llvm))
 - [Zig Compiler September Update & Hot Code Swapping Brainstorming (2020)](https://www.youtube.com/watch?v=3hwQSjhNSRU)
+- [Advanced Hello World in Zig - Loris Cro (2020)](https://www.youtube.com/watch?v=iZFXAN8kpPo)

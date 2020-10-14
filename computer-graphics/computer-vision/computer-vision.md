@@ -108,3 +108,6 @@
 - [Imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA PyTorch GAN library with distributed and mixed precision support. ([Docs](http://imaginaire.cc/))
 - [DeepBackSub](https://github.com/floe/deepbacksub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation.
 - [Awesome Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
+- [Flow-edge Guided Video Completion](https://github.com/vt-vl-lab/FGVC)
+- [5 Things to look for in a Computer Vision startup job (2020)](https://insights.ai-jobs.net/5-things-to-look-for-in-a-computer-vision-startup-job/)
+- [Transformers for Image Recognition at Scale (2020)](https://www.youtube.com/watch?v=Gl48KciWZp0) ([HN](https://news.ycombinator.com/item?id=24754538))

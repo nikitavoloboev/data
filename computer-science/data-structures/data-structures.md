@@ -46,3 +46,4 @@
 - [Segment Tree data structure](https://cp-algorithms.com/data_structures/segment_tree.html)
 - [Structure of a binary state tree (2020)](https://medium.com/@gballet/structure-of-a-binary-state-tree-part-1-48c587836d2f)
 - [Introductory data structures and algorithms](https://github.com/sushinoya/fundamentals)
+- [Applying Textbook Data Structures for Real Life Wins (2020)](https://heap.io/blog/engineering/applying-textbook-data-structures-for-real-life-wins) ([HN](https://news.ycombinator.com/item?id=24761105))

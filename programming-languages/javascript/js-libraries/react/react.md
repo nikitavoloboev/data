@@ -169,3 +169,5 @@
 - [Maho](https://github.com/egoist/maho) - Framework for building server-rendered or static websites, powered by React and esbuild.
 - [The Rules of React](https://gist.github.com/sebmarkbage/75f0838967cd003cd7f9ab938eb1958f)
 - [React Summit](https://reactsummit.com/) - Biggest React Conference Worldwide.
+- [vite-plugin-react](https://github.com/vitejs/vite-plugin-react) - Provides React Fast Refresh support for Vite.
+- [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)

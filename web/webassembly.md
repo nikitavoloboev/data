@@ -100,3 +100,5 @@
 - [WebAssembly Troubles: WebAssembly Is Not a Stack Machine (2020)](http://troubles.md/wasm-is-not-a-stack-machine/)
 - [Wasmer Python](https://github.com/wasmerio/wasmer-python) - WebAssembly runtime for Python.
 - [WebAssembly C and C++ API](https://github.com/WebAssembly/wasm-c-api)
+- [Explorable Programming with Rust and WebAssembly (2020)](https://lowlvl.org/blog/explorable-programming)
+- [wasm-remapper-web](https://github.com/vlakreeh/wasm-remapper-web) - Web app to help reverse engineer WebAssembly binaries.

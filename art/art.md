@@ -159,6 +159,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Azlen Elza](https://www.instagram.com/azlenelza/)
 - [Jie Ma](https://www.behance.net/jiema37?)
 - [Cole Peters](https://colepeters.com/)
+- [Mattis Dovier](https://mattisdovier.tumblr.com/) ([YouTube](https://www.youtube.com/channel/UCKhi8wL3aIlRCUkHWC-aHHg))
 - [Oliver Johnson](https://www.instagram.com/olivervjohnson/) ([Web](https://www.oliver-j.com/))
 - [David Altrath](https://davidaltrath.com/)
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
@@ -169,6 +170,8 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
+- [Alice Zhang](https://www.instagram.com/alicexz/)
+- [Marko Dieckmann](https://www.instagram.com/ionlands/)
 - [Nick Archer](https://www.instagram.com/archer.nick/)
 - [Ian Spriggs](https://ianspriggs.com/) - 3D Portrait Character Artist.
 - [Charles van den Eycken](https://www.invaluable.com/artist/eycken-charles-van-den-1859-0l00jbqpg4/sold-at-auction-prices/) ([Tweet](https://twitter.com/CGdrawing/status/1276403951135453184))
@@ -304,6 +307,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Midnight Stop](https://www.behance.net/gallery/63168473/Midnight-Stop)
 - [Todd Hido](https://www.instagram.com/toddhido_/)
 - [Baud Postma](https://www.instagram.com/baudpostma/)
+- [Bao Ngo's photos](https://twitter.com/coldtakesonly/status/1315838653206323200)
 
 ## Notes
 

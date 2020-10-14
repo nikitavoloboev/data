@@ -85,3 +85,4 @@
 - [Chibicc](https://github.com/rui314/chibicc) - Small C Compiler. ([HN](https://news.ycombinator.com/item?id=24676851))
 - [Loading CSV File at the Speed Limit of the NVMe Storage (2020)](https://liuliu.me/eyes/loading-csv-file-at-the-speed-limit-of-the-nvme-storage/) ([Lobsters](https://lobste.rs/s/zksa0f/loading_csv_file_at_speed_limit_nvme))
 - [What Makes C Hard to Compile (2020)](https://www.reddit.com/r/ProgrammingLanguages/comments/j3j4s9/what_makes_c_hard_to_compile/)
+- [malloc as a service (2020)](https://wingolog.org/archives/2020/10/13/malloc-as-a-service)

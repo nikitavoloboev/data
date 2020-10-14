@@ -74,3 +74,4 @@
 - [What's in a JWT (Json Web Token)? (2020)](https://loige.co/whats-in-a-jwt/)
 - [Gazepass](https://gazepass.com/) - Passwordless Authentication API.
 - [dex](https://github.com/dexidp/dex) - Federated OpenID Connect provider.
+- [Aperture](https://github.com/lightninglabs/aperture) - HTTP 402 Lightning Service Authentication Token Reverse Proxy.

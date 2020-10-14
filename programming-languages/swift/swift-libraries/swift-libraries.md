@@ -100,6 +100,7 @@
 - [SwiftSignatureView](https://github.com/alankarmisra/SwiftSignatureView) - Lightweight, fast and customizable option for capturing fluid, variable-stroke-width signatures within your app.
 - [SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - Swift wrapper around Tesseract for use in iOS applications.
 - [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
+- [ThirdPartyMailer](https://github.com/vtourraine/ThirdPartyMailer) - Interact with third-party iOS mail clients, using custom URL schemes.
 
 ## macOS
 

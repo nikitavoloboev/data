@@ -111,7 +111,7 @@
 - [RAdam](https://github.com/LiyuanLucasLiu/RAdam) - On The Variance Of The Adaptive Learning Rate And Beyond.
 - [Google ML/AI Comic](https://cloud.google.com/products/ai/ml-comic-1/)
 - [Machine Learning Notebooks](https://github.com/ageron/handson-ml2) - Series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [Streamlit](https://github.com/streamlit/streamlit) - Fastest way to build custom ML tools. ([Web](https://streamlit.io/))
+- [Streamlit](https://github.com/streamlit/streamlit) - Fastest way to build custom ML tools. ([Web](https://streamlit.io/)) ([Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit))
 - [A Gentle Introduction to Bayes’ Theorem for Machine Learning (2019)](https://news.ycombinator.com/item?id=21151032) ([HN](https://news.ycombinator.com/item?id=21151032))
 - [Practical Deep Learning for Coders](https://course.fast.ai/) ([Notes](https://github.com/reshamas/fastai_deeplearn_part1))
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
@@ -309,3 +309,5 @@
 - [Phasic Policy Gradient](https://github.com/openai/phasic-policy-gradient)
 - [Juergen Schmidhuber ML reading list (2015)](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp5c0py/)
 - [Machine Learning Primer for Interviews](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)
+- [Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks by Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for machine learning. ([Web](http://manifold.mlvis.io/))

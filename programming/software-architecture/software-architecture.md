@@ -96,3 +96,4 @@
 - [SRE Classroom: Distributed PubSub](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
 - [Monolith -> Services: A Sketchy Approach (2020)](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) ([HN](https://news.ycombinator.com/item?id=24690947))
 - [Testing Hexagonal Architecture (2020)](https://blog.sulami.xyz/posts/testing-hexagonal-architecture/)
+- [Ask HN: What are good resources to learn system design? (2020)](https://news.ycombinator.com/item?id=24762734)

@@ -103,3 +103,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS for the rest of us (2020)](https://technically.dev/posts/aws-for-the-rest-of-us)
 - [Bucket Stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [Granularity levels in AWS IAM policies (2020)](https://advancedweb.hu/granularity-levels-in-aws-iam-policies/)
+- [AWS Toolkit for Visual Studio Code](https://github.com/aws/aws-toolkit-vscode) - Extension for working with AWS services such as AWS Lambda.

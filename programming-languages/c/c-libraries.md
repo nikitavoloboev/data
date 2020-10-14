@@ -10,6 +10,7 @@
 
 - [libui](https://github.com/andlabs/libui/) - Portable GUI library for C.
 - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Minimal-state, immediate-mode graphical user interface toolkit written in ANSI C.
+- [Pugl](https://github.com/lv2/pugl) - Minimal portable API for embeddable GUIs.
 
 ## Other
 
