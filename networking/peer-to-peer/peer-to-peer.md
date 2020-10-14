@@ -54,3 +54,4 @@
 - [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 - [Beaker Social](https://github.com/beakerbrowser/social) - Peer-to-peer social media. A Beaker application.
 - [Textile](https://github.com/textileio/textile) - Connects and extends Libp2p, IPFS, and Filecoin.
+- [go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - Kademlia DHT implementation on go-libp2p.

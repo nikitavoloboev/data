@@ -89,6 +89,10 @@
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 
+## Java
+
+- [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java.
+
 ## Templates
 
 - [JS action template](https://github.com/actions/javascript-action)
@@ -134,3 +138,4 @@
 - [Actionsflow](https://github.com/actionsflow/actionsflow) - IFTTT/Zapier free alternative based on GitHub Actions. ([HN](https://news.ycombinator.com/item?id=24648960))
 - [Publish to GitHub Container Registry Using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)
 - [GitHub Actions: first impressions (2020)](https://eli.thegreenplace.net/2020/github-actions-first-impressions/)
+- [Build and deploy OpenFaaS functions with GitHub Actions (2020)](https://www.openfaas.com/blog/openfaas-functions-with-github-actions/)

@@ -311,3 +311,4 @@
 - [Machine Learning Primer for Interviews](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)
 - [Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks by Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for machine learning. ([Web](http://manifold.mlvis.io/))
+- [Making With ML YouTube series](https://github.com/google/making_with_ml)

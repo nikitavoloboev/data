@@ -15,3 +15,4 @@
 - [EasyList filter lists](https://github.com/easylist/easylist) - Sets of rules originally designed for Adblock that automatically remove unwanted content from the internet.
 - [HN: uMatrix has been archived (2020)](https://news.ycombinator.com/item?id=24532973)
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Web browser extension to help bypass paywalls for selected sites.
+- [Stuff Your Pi-Hole from Anywhere (2020)](https://fly.io/blog/stuff-your-pi-hole-from-anywhere/) ([HN](https://news.ycombinator.com/item?id=24767792))

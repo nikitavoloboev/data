@@ -49,3 +49,4 @@
 - [A Simple Soundness Proof for Dependent Object Types](https://arxiv.org/pdf/1706.03814.pdf)
 - [Things you need to know about JVM (that matter in Scala) (2020)](https://leanpub.com/jvm-scala-book)
 - [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 (2020)](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
+- [sbt-updates](https://github.com/rtimush/sbt-updates) - sbt plugin that can check Maven and Ivy repositories for dependency updates.

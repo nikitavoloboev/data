@@ -30,6 +30,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [The source for pimbook.org](https://github.com/pim-book/pim-book.github.io)
 - [Oxide Computer](https://github.com/oxidecomputer/design.oxide.computer)
 - [Platform.sh User Docs](https://github.com/platformsh/platformsh-docs)
+- [/dev/null as a Service](https://devnull-as-a-service.com/home/) ([Code](https://github.com/noqqe/devnull-as-a-service))
 
 ## Links
 
@@ -44,3 +45,5 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Nice articles on Hugo](https://www.ronaldsvilcins.com/tags/hugo/)
 - [Hugo: a static-site generator explained (2020)](https://lwn.net/SubscriberLink/825507/77df07d41cec68c4/)
 - [Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/)
+- [SEO for Hugo blogs (2020)](https://mathieuhendey.com/2020/10/seo-for-hugo-blogs/)
+- [Minifying CSS With Hugo Pipelines (2020)](https://mathieuhendey.com/2020/10/minifying-css-with-hugo-pipelines/)

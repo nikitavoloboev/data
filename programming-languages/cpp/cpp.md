@@ -137,3 +137,4 @@
 - [Overloading by Return Type in C++ (2020)](https://artificial-mind.net/blog/2020/10/10/return-type-overloading) ([HN](https://news.ycombinator.com/item?id=24752527))
 - [Inheritance is for sharing an interface (and so is overloading) (2020)](https://quuxplusone.github.io/blog/2020/10/09/when-to-derive-and-overload/)
 - [sigcpp](https://sigcpp.github.io/) - Special Interest Group on C++.
+- [Deep C (and C++) (2011)](https://pvv.ntnu.no/~oma/DeepC_slides_oct2011.pdf)

@@ -22,3 +22,4 @@
 - [The Rise and Fall of American Growth: A summary (2020)](https://rootsofprogress.org/summary-the-rise-and-fall-of-american-growth)
 - [HN: Trump administration announces overhaul of H1B visa program requiring higher pay (2020)](https://news.ycombinator.com/item?id=24702393)
 - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA (2020)](https://news.ycombinator.com/item?id=24730450)
+- [Why I Left America (2020)](https://www.theatlantic.com/ideas/archive/2020/10/american-emigre/616705/) ([HN](https://news.ycombinator.com/item?id=24777278))

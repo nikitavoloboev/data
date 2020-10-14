@@ -258,3 +258,4 @@
 - [Ask HN: Essential skill needed to be a programmer? (2020)](https://news.ycombinator.com/item?id=24697965)
 - [State-Transition Tables (2020)](https://bytes.zone/posts/state-transition-tables/)
 - [14,000x Speedup a.k.a. Computer Science for the Win (2020)](http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html) ([HN](https://news.ycombinator.com/item?id=24764605))
+- [Computers Are Hard: building software with David Heinemeier Hansson (2020)](https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e)

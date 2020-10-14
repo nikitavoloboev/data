@@ -60,3 +60,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [A Series on Generating this Static Website](https://soap.coffee/~lthms/cleopatra.html)
 - [Static Hosting Benchmark 2020](https://www.pierbover.com/posts/static-hosting-benchmark-2020/)
 - [Benchmarking static website hosting providers (2020)](https://www.savjee.be/2020/05/benchmarking-static-website-hosting-providers/) ([HN](https://news.ycombinator.com/item?id=24683403))
+- [Static SSL website entirely on AWS (2020)](https://mathieuhendey.com/2020/10/static-ssl-website-entirely-on-aws/)

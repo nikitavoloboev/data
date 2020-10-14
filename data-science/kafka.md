@@ -20,3 +20,4 @@
 - [rochefort](https://github.com/jackdoe/rochefort) - Poor man's kafka (plus in-place mutations and search).
 - [Why Can’t I Connect to Kafka?](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/)
 - [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka (2020)](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/) ([HN](https://news.ycombinator.com/item?id=24699534))
+- [Runtime Discovery of Kafka Streams (2020)](https://www.youtube.com/watch?v=685MVJX9r5M)

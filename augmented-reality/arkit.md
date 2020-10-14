@@ -11,3 +11,4 @@
 - [RealityUI](https://github.com/maxxfrazer/RealityUI) - Swift Package for creating familiar UI Elements in a RealityKit rendered AR or VR scene.
 - [ARTetris](https://github.com/exyte/ARTetris) - Augmented Reality Tetris made with ARKit and SceneKit.
 - [ArKit smoothedSceneDepth API](https://twitter.com/nobbis/status/1295816678169890816)
+- [Advanced Scene Understanding in AR (2020)](https://developer.apple.com/videos/play/tech-talks/609/)

@@ -54,3 +54,5 @@
 - [TensorBoard](https://github.com/tensorflow/tensorboard) - Suite of web applications for inspecting and understanding your TensorFlow runs and graphs.
 - [Awesome TensorFlowJS](https://github.com/aaronhma/awesome-tensorflow-js)
 - [Tensorflow vs Scikit-learn (2020)](https://mljar.com/blog/tensorflow-vs-scikit-learn/)
+- [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language.
+- [TensorFlow Federated](https://github.com/tensorflow/federated) - Framework for implementing federated learning.

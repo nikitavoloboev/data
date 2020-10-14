@@ -127,3 +127,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Go script to query whether a GitHub user is your sponsor at a given tier](https://gist.github.com/alexellis/6212c988189323dbb2806d1c7f7699ab)
 - [github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email even if it's not public.
 - [SSH Auth Github](https://github.com/nextjournal/ssh-auth-github) - Small Babashka script that retrieves public keys from a specific team under a specific organization on Github.
+- [GitHub public feedback discussions](https://github.com/github/feedback)

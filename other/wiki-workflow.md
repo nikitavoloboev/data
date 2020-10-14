@@ -253,3 +253,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Rekowl](https://rekowl.com/) - You personal knowledge library.
 - [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393))
 - [NoteApps](https://www.noteapps.info/) - Encyclopedia of note taking apps. ([Launch Notes](https://www.noteapps.info/launch_note)) ([Lobsters](https://lobste.rs/s/uii8of/noteapps_info_launch_notes))
+- [Organising knowledge with multi-level content: Making knowledge easier to understand, remember and communicate (2018)](https://www.francismiller.com/organising_knowledge_paper.pdf)

@@ -27,3 +27,4 @@
 - [Open problems in Robotics (2020)](https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/) ([HN](https://news.ycombinator.com/item?id=24207424))
 - [Robots I Love (2020)](https://www.charlieharrington.com/robots-i-love)
 - [Multiply Labs](https://multiplylabs.com/) - Personalized medicine. Enabled by robotics.
+- [Guided Curriculum Learning for Walking Over Complex Terrain (2020)](https://arxiv.org/abs/2010.03848)

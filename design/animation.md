@@ -20,3 +20,4 @@
 - [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)
 - [WeightShift](https://weightshift.io/) - Maya plugin for animator friendly, physically-based character animation.
+- [FlowBetween](https://github.com/Logicalshift/flowbetween) - Tool for creating animations. ([Web](https://flowbetween.app/))

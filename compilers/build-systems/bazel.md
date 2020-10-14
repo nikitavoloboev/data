@@ -19,3 +19,5 @@
 - [Bazel for Open-source C / C++ Libraries Distribution (2020)](https://liuliu.me/eyes/bazel-for-libraries-distribution-an-open-source-library-author-perspective/) ([HN](https://news.ycombinator.com/item?id=24490089))
 - [Bazel Blog](https://blog.bazel.build/) ([Code](https://github.com/bazelbuild/bazel-blog))
 - [Bazel Rust Rules](https://github.com/bazelbuild/rules_rust) - Rules for building Rust projects with Bazel.
+- [apple_rules_lint](https://github.com/apple/apple_rules_lint) - Framework for adding lint checks to Bazel projects.
+- [Python Rules for Bazel](https://github.com/bazelbuild/rules_python)

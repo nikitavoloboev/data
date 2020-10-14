@@ -107,6 +107,7 @@
 - [The Single-Valued Type Pattern for TypeScript (2020)](https://spin.atomicobject.com/2020/10/05/single-valued-type-pattern/)
 - [TypeScript in 50 Lessons book](https://www.smashingmagazine.com/printed-books/typescript-in-50-lessons/)
 - [TypeScript notes/links](https://joeprevite.com/typescript)
+- [Data Constructors, Part 1: Understanding by Implementing (2020)](https://v5.chriskrycho.com/journal/data-constructors-part-1-understanding-by-implementing/)
 
 ## Images
 

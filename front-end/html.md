@@ -66,3 +66,4 @@
 - [DOMPurify bypass: XSS via HTML namespace confusion (2020)](https://research.securitum.com/mutation-xss-via-mathml-mutation-dompurify-2-0-17-bypass/) ([HN](https://news.ycombinator.com/item?id=24703230))
 - [The usability of HTML elements (2020)](https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/) ([HN](https://news.ycombinator.com/item?id=24729006))
 - [Awfice](https://zserge.com/posts/awfice/) - Collection of tiny office suite apps. ([Article](https://zserge.com/posts/awfice/)) ([HN](https://news.ycombinator.com/item?id=24752546))
+- [croquis.js](https://github.com/disjukr/croquis.js) - HTML5 drawing tool library.

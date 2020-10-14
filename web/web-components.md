@@ -15,3 +15,4 @@
 - [The Failed Promise of Web Components (2020)](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) ([Follow up article](https://blog.carlmjohnson.net/post/2020/web-components/)) ([HN](https://news.ycombinator.com/item?id=24640151))
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation.
 - [lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepo for tools that analyze lit-html templates.
+- [11ty Web Component Generator](https://11ty-web-component-generator.netlify.app/) - Use the power of 11ty to generate web components (custom elements). ([Code](https://github.com/5t3ph/11ty-web-component-generator))

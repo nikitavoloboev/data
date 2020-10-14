@@ -119,3 +119,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Livestorm](https://livestorm.co/) - Video Conferencing Software for Webinars and Online Meetings.
 - [FreeTube](https://freetubeapp.io/) - Private YouTube Client. ([Code](https://github.com/FreeTubeApp/FreeTube))
 - [Vito Community](https://vi.to/) - Flexible, private, online spaces for groups.
+- [Things You Should Consider When Trying to Grow a YouTube Channel in 2020](https://blog.papercup.com/posts/things-you-should-consider-when-trying-to-grow-a-youtube-channel-in-2020/)

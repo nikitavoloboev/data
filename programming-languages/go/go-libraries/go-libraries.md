@@ -110,6 +110,8 @@
 - [Pop](https://github.com/gobuffalo/pop) - Makes it easy to do CRUD operations, run migrations, and build/execute queries.
 - [go-sqlcipher](https://github.com/mutecomm/go-sqlcipher) - Self-contained Go sqlite3 driver with an AES-256 encrypted sqlite3 database.
 - [Glow](https://github.com/chrislusf/glow) - Easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm.
+- [Stow](https://github.com/djherbis/stow) - Simple object persistence with boltdb.
+- [go-structured-query](https://github.com/bokwoon95/go-structured-query) - Code-generated, type safe query builder and struct mapper for Go.
 
 ## ML
 
@@ -506,6 +508,12 @@
 - [brotli](https://github.com/andybalholm/brotli) - Pure Go Brotli encoder and decoder.
 - [Leaven](https://github.com/andybalholm/leaven) - Compile LLVM IR to Go.
 - [Hub](https://github.com/leandro-lugaresi/hub) - Fast enough Event Hub for go applications using publish/subscribe with support patterns on topics like rabbitMQ exchanges.
+- [Buffer](https://github.com/djherbis/buffer) - Composable Buffers for Go.
+- [Stream](https://github.com/djherbis/stream) - Stream bytes to multiple independent Readers.
+- [fscache](https://github.com/djherbis/fscache) - Streaming File Cache for Go.
+- [times](https://github.com/djherbis/times) - Go file times (atime, mtime, ctime, btime).
+- [nio](https://github.com/djherbis/nio) - Concurrent Buffered IO in Go.
+- [go-ristretto](https://github.com/bwesterb/go-ristretto) - Go implementation of the group operations on the Ristretto prime-order group built from Edwards25519.
 
 ## Links
 

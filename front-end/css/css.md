@@ -217,3 +217,4 @@
 - [In Defense of Utility-First CSS (2018)](https://frontstuff.io/in-defense-of-utility-first-css)
 - [PureCSS Character](https://diana-adrianne.com/purecss-character/) ([Code](https://github.com/cyanharlow/purecss-character))
 - [Balloon.css](https://kazzkiq.github.io/balloon.css/) - CSS tooltips for HTML elements. ([Code](https://github.com/kazzkiq/balloon.css))
+- [Blunt](https://github.com/f-prime/blunt/) - CSS framework strictly for layouts.

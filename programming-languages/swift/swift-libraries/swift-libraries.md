@@ -101,6 +101,8 @@
 - [SwiftyTesseract](https://github.com/SwiftyTesseract/SwiftyTesseract) - Swift wrapper around Tesseract for use in iOS applications.
 - [Alertift](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper.
 - [ThirdPartyMailer](https://github.com/vtourraine/ThirdPartyMailer) - Interact with third-party iOS mail clients, using custom URL schemes.
+- [MXSegmentedControl](https://github.com/maxep/MXSegmentedControl) - Simple Segmented Control.
+- [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 
 ## macOS
 
@@ -115,6 +117,7 @@
 ## Web
 
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
+- [TinyNetworking](https://github.com/objcio/tiny-networking) - Contains a tiny networking library. It provides a struct Endpoint, which combines a URL request and a way to parse responses for that request.
 
 ## SwiftUI
 
@@ -370,6 +373,7 @@
 - [SwiftIO](https://github.com/sharplet/SwiftIO) - Simple Tools for File I/O in Swift.
 - [swift-benchmark](https://github.com/google/swift-benchmark) - Swift library to benchmark code snippets.
 - [MessageKit](https://github.com/MessageKit/MessageKit) - Community-driven replacement for JSQMessagesViewController.
+- [ChatLayout](https://github.com/ekazaev/ChatLayout) - Alternative solution to MessageKit. It uses custom UICollectionViewLayout to provide you full control over the presentation.
 - [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 - [SwiftMarkup](https://github.com/SwiftDocOrg/SwiftMarkup) - Parses Swift Markup from documentation comments into structured documentation entities.
 - [swift-exec](https://github.com/samuelmeuli/swift-exec) - Simple process execution with Swift.

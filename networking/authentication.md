@@ -75,3 +75,4 @@
 - [Gazepass](https://gazepass.com/) - Passwordless Authentication API.
 - [dex](https://github.com/dexidp/dex) - Federated OpenID Connect provider.
 - [Aperture](https://github.com/lightninglabs/aperture) - HTTP 402 Lightning Service Authentication Token Reverse Proxy.
+- [Kerbrute](https://github.com/ropnop/kerbrute) - Quickly bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication.

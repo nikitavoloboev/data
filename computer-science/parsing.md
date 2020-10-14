@@ -35,3 +35,5 @@
 - [mpc](https://github.com/orangeduck/mpc) - Lightweight and powerful Parser Combinator library for C.
 - [Pure AST based linting sucks (2020)](https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html)
 - [Awesome binary parsing](https://github.com/dloss/binary-parsing) - List of generic tools for parsing binary data structures, such as file formats, network protocols or bitstreams.
+- [Parsing with Scannerless Earley Virtual Machines (2019)](https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/7_2_01_Saikunas.pdf)
+- [North](https://github.com/tuxmark5/north) - Experimental SEVM (Scannerless Earley Virtual Machine) parser implementation.

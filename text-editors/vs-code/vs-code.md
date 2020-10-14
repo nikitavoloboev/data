@@ -45,3 +45,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VSCode to Prism Themes](https://prism.dotenv.dev/)
 - [The Era of Visual Studio Code (2020)](https://blog.robenkleene.com/2020/09/21/the-era-of-visual-studio-code/) ([HN](https://news.ycombinator.com/item?id=24558788)) ([Lobsters](https://lobste.rs/s/d2uhbm/era_visual_studio_code))
 - [My new coding workflow: VS Code + Remote-SSH extension (2020)](https://jlelse.blog/dev/code-using-vps/) ([Lobsters](https://lobste.rs/s/mqclc7/my_new_coding_workflow_vs_code_remote_ssh))
+- [Cloud Code for Visual Studio Code](https://github.com/GoogleCloudPlatform/cloud-code-vscode) - Brings the power and convenience of IDEs to developing cloud-native Kubernetes and Cloud Run applications.

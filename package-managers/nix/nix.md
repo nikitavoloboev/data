@@ -135,3 +135,4 @@
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of pre-commit git hooks with Nix.
 - [Nix + Haskell setup](https://twitter.com/acid2/status/1314507569541640192)
 - [caching your nix-shell (2020)](https://fzakaria.com/2020/08/11/caching-your-nix-shell.html)
+- [nix-direnv](https://github.com/nix-community/nix-direnv) - Fast, persistent use_nix implementation for direnv.

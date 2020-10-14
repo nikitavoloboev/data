@@ -70,3 +70,5 @@
 - [docsify](https://docsify.js.org/#/) - Magical documentation site generator. ([Code](https://github.com/docsifyjs/docsify/))
 - [Just the Docs](https://github.com/pmarsceill/just-the-docs) - Modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [vite-plugin-react-page](https://github.com/vitejs/vite-plugin-react-pages) - Vite plugin for React. It is very suitable for document site and React UI development environment.
+- [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
+- [Smooth Doc](https://github.com/gregberge/smooth-doc) - Ready to use documentation theme for Gatsby.

@@ -221,3 +221,5 @@
 - [Time for a WTF MySQL Moment (2020)](https://gbl08ma.com/time-for-a-wtf-mysql-moment/) ([HN](https://news.ycombinator.com/item?id=24698660)) ([Lobsters](https://lobste.rs/s/ktg3dd/time_for_wtf_mysql_moment))
 - [The Database is on Fire (2020)](http://acko.net/blog/the-database-is-on-fire/) ([Lobsters](https://lobste.rs/s/mpprag/database_is_on_fire))
 - [Alphora-Style Database Diagramming (2020)](http://blog.mckaysalisbury.com/2020/03/alphora-style-database-diagramming.html) ([Lobsters](https://lobste.rs/s/mjxien/alphora_style_database_diagramming))
+- [Things every developer needs to know about database indexing - Kai Sassnowski (2020)](https://www.youtube.com/watch?v=HubezKbFL7E)
+- [Fizz](https://github.com/gobuffalo/fizz) - Common DSL for Migrating Databases.

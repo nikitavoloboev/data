@@ -41,6 +41,9 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [3270font](https://github.com/rbanffy/3270font) - Font for the Nostalgic. ([HN](https://news.ycombinator.com/item?id=24646107))
 - [Last Resort](https://github.com/unicode-org/last-resort-font) - Special-purpose font that includes a collection of glyphs to represent types of Unicode characters. ([HN](https://news.ycombinator.com/item?id=24726008))
 - [JuliaMono](https://juliamono.netlify.app/) - Monospaced font for scientific and technical computing. ([HN](https://news.ycombinator.com/item?id=24732973)) ([Code](https://github.com/cormullion/juliamono))
+- [Josefin Sans](https://github.com/googlefonts/josefinsans) - Idea for creating this typeface was to make it geometric, elegant and kind of vintage, especially for titling.
+- [Titillium Web Variable Fonts](https://github.com/eliheuer/titillium-web-vf)
+- [Bungee](https://github.com/djrrb/Bungee) - Chromatic signage typeface for vertical and horizontal setting. ([Web](https://djr.com/bungee/))
 
 ## Links
 
@@ -136,3 +139,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Font Variation Description](https://github.com/typekit/fvd) - Compact and unambiguous way to describe a font in CSS.
 - [Adobe Fonts](https://fonts.adobe.com/) - Quality fonts at your fingertips.
 - [Font engineering tools](https://github.com/simoncozens/font-engineering) - Collection of font engineering utilities.
+- [Type Thursday](https://www.typethursday.org/) - Global type superfamily converges monthly to help one another improve our letterforms over drinks.
+- [Font of the Month Club](https://fontofthemonth.club/) - Get a fresh new font delivered to your inbox every single month.

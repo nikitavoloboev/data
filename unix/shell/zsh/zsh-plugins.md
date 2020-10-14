@@ -31,6 +31,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.
 - [cod](https://github.com/dim-an/cod) - Completion daemon for bash/zsh.
 - [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use Zsh as the default nix-shell shell.
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Adds real-time type-ahead autocompletion to Zsh, plus many more completion features.
 
 ## Prompt
 

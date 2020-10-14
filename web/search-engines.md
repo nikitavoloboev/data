@@ -68,3 +68,4 @@
 - [The Search Engine Map](https://www.searchenginemap.com/)
 - [Algolia Netlify plugin](https://github.com/algolia/algoliasearch-netlify) - Automatically index your website to Algolia when deploying your project to Netlify with the Algolia Crawler.
 - [How Google autocomplete predictions are generated (2020)](https://blog.google/products/search/how-google-autocomplete-predictions-work/)
+- [Fist](https://github.com/f-prime/fist) - Fast, lightweight, full-text search and index server. Fist stores all information in memory making lookups very fast while also persisting the index to disk. The index can be accessed over a TCP connection and all data returned is valid JSON.

@@ -19,3 +19,4 @@
 - [Spotting Quantum Black Holes in the Lab (2020)](https://www.quantamagazine.org/john-preskill-quantum-computing-may-help-us-study-quantum-gravity-20200715)
 - [SXS - Simulating eXtreme Spacetimes](https://www.black-holes.org/)
 - [What Black Holes Bring to the Galaxy (2020)](https://www.theatlantic.com/science/archive/2020/10/what-black-holes-bring-to-the-galaxy/616631/)
+- [(Relatively) Physically Accurate Black Hole Visualization in Unreal Engine (2020)](https://twitter.com/overdrawxyz/status/1316066431684030464) ([HN](https://news.ycombinator.com/item?id=24773546))

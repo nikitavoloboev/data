@@ -222,3 +222,4 @@
 - [What we learned after a year on Kubernetes (2020)](https://about.gitlab.com/blog/2020/09/16/year-of-kubernetes/) ([HN](https://news.ycombinator.com/item?id=24498108)) ([Tweet](https://twitter.com/benskuhn/status/1306379191772946432))
 - [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources)
 - [Reducing AWS data transfer cost — Going Multi-AZ to Single-AZ Kubernetes (2020)](https://lambda.grofers.com/reducing-aws-data-transfer-cost-kubernetes-from-multi-az-to-single-az-341d890553b6)
+- [kube-events-exporter](https://github.com/rhobs/kube-events-exporter) - Kubernetes events aggregator and exporter.

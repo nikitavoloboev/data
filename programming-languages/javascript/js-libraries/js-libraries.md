@@ -17,6 +17,8 @@
 - [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798))
 - [Phenomic](https://github.com/phenomic/phenomic) - Modular website compiler (React, Webpack, Reason and whatever you want).
 - [Halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools. ([Docs](https://www.gethalfmoon.com/docs/introduction/))
+- [Sinuous](https://github.com/luwes/sinuous) - Low-level UI library with a tiny footprint. ([Docs](https://sinuous.dev/docs/getting-started/))
+- [Overture](https://github.com/fastmail/overture) - Powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 
 ## Animation
 
@@ -314,6 +316,7 @@
 - [SheetJS](https://github.com/SheetJS/sheetjs) - Spreadsheet Data Toolkit. Read, edit, and export spreadsheets. Works in web browsers and servers. ([Web](https://sheetjs.com/))
 - [Z](https://github.com/z-pattern-matching/z) - Pattern Matching for JavaScript. ([Web](https://z-pattern-matching.github.io/))
 - [Graphology](https://github.com/graphology/graphology) - Robust & multipurpose Graph object for JavaScript & TypeScript. ([Docs](https://graphology.github.io/))
+- [weak-napi](https://github.com/node-ffi-napi/weak-napi) - Make weak references to JavaScript Objects.
 
 ## Links
 

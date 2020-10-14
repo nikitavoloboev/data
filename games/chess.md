@@ -14,3 +14,4 @@
 - [What is 5D chess? (2020)](https://en.chessbase.com/post/what-on-earth-is-5d-chess) ([HN](https://news.ycombinator.com/item?id=24054313))
 - [Chess Board HTML Element](https://justinfagnani.github.io/chessboard-element/) ([Code](https://github.com/justinfagnani/chessboard-element/))
 - [I learned to be less terrible at Chess (2020)](https://www.bargava.com/blog/suck-less-at-chess/)
+- [PyChess](https://github.com/pychess/pychess) - Chess client for Linux/Windows. ([Web](https://pychess.github.io/))

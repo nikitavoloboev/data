@@ -97,3 +97,4 @@
 - [Monolith -> Services: A Sketchy Approach (2020)](https://medium.com/@kentbeck_7670/monolith-services-theory-practice-617e4546a879) ([HN](https://news.ycombinator.com/item?id=24690947))
 - [Testing Hexagonal Architecture (2020)](https://blog.sulami.xyz/posts/testing-hexagonal-architecture/)
 - [Ask HN: What are good resources to learn system design? (2020)](https://news.ycombinator.com/item?id=24762734)
+- [Modern-Day Architecture Design Patterns for Software Professionals (2020)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977) ([HN](https://news.ycombinator.com/item?id=24762637))

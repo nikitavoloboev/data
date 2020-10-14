@@ -59,3 +59,4 @@
 - [Xplode - A script to reset your Xcodes (2019)](https://mattlorentz.com/weblog/2019/04/12/announcing-xplode.html)
 - [Buildwatch for Xcode](https://www.buildwatch.app/) - Mac app to track your compile times.
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Make Xcode Clean Again. Make your Xcode faster by removing unwanted and deprecated files.
+- [Xcode Github Theme](https://github.com/cntrump/Xcode-github-theme)

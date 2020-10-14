@@ -38,3 +38,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Vitamin D supplements do not reduce the risk of depression](https://sciencebasedmedicine.org/vitamin-d-supplements-do-not-reduce-the-risk-of-depression/)
 - [Vitamin D, part 1: back to basics](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics) ([HN](https://news.ycombinator.com/item?id=24138590))
 - [Vitamin D, part 2: Shannon's story (2020)](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe) ([HN](https://news.ycombinator.com/item?id=24261948))
+- [The Big Vitamin D Mistake (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/) ([HN](https://news.ycombinator.com/item?id=24768721))

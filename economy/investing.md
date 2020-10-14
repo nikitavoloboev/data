@@ -109,3 +109,6 @@
 - [Favorite dividend stock/etf to invest in (2020)](https://www.reddit.com/r/investing/comments/j8quo5/favorite_dividend_stocketf_to_invest_in/)
 - [ARK Invest](https://ark-funds.com/) - Innovation ETFs.
 - [Reddit's Stock Threads Become a Must-Read on Wall Street (2020)](https://www.bloomberg.com/news/articles/2020-10-10/home-made-covid-vaccine-appeared-to-work-but-questions-remained) ([HN](https://news.ycombinator.com/item?id=24739458))
+- [Collection of stock market resources and tools](https://github.com/ckz8780/market-toolkit)
+- [LazyFA](https://www.lazyfa.com/) - Automated Fundamental Analysis.
+- [EliteQuant](https://github.com/EliteQuant/EliteQuant) - List of online resources for quantitative modeling, trading, portfolio management.

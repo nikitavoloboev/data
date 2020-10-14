@@ -242,3 +242,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Formatting Notes and Gotchas (2020)](https://www.andyibanez.com/posts/formatting-notes-and-gotchas/) ([Tweet](https://twitter.com/steipete/status/1314113507529568256))
 - [KSCrash](https://github.com/kstenerud/KSCrash) - Ultimate iOS Crash Reporter.
 - [Buglife](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps.
+- [AlternateIcons](https://github.com/alexaubry/alternate-icons) - Swift script that automates adding alternate app icons to your iOS app.

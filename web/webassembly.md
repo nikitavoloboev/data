@@ -102,3 +102,4 @@
 - [WebAssembly C and C++ API](https://github.com/WebAssembly/wasm-c-api)
 - [Explorable Programming with Rust and WebAssembly (2020)](https://lowlvl.org/blog/explorable-programming)
 - [wasm-remapper-web](https://github.com/vlakreeh/wasm-remapper-web) - Web app to help reverse engineer WebAssembly binaries.
+- [wasi-fs-access](https://github.com/GoogleChromeLabs/wasi-fs-access) - Demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.
