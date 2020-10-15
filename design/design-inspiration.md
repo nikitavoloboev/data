@@ -52,6 +52,7 @@ Here are few more things I liked, design wise.
 - [Remotive](https://remotive.io/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
+- [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
 
 ## Blogs
@@ -250,6 +251,7 @@ Here are few more things I liked, design wise.
 - [Jason Lengstorf](https://www.jason.af/)
 - [Colin Shum](https://colinshum.com/)
 - [Paul Glushak](https://0xff.nu/)
+- [Gianluca Brindisi](https://cloudberry.engineering/)
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Josh Thompson](https://josh.works/)
@@ -310,6 +312,7 @@ Here are few more things I liked, design wise.
 - [Kabir Shah](https://kabir.sh/)
 - [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
+- [Tomas](https://www.tomas.io/)
 - [Loris Cro](https://kristoff.it/) ([Code](https://github.com/kristoff-it/kristoff-it.github.io))
 - [Sébastien Chopin](https://atinux.com/)
 - [Debbie O'Brien](https://debbie.codes/) ([Code](https://github.com/debs-obrien/debbie.codes))

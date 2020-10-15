@@ -32,6 +32,7 @@
 - [gatsby-plugin-next-seo](https://github.com/ifiokjr/gatsby-plugin-next-seo) - Plug in that makes managing your SEO easier in Gatsby projects.
 - [gatsby-plugin-prettier-build](https://github.com/jmsv/gatsby-plugin-prettier-build) - Prettify gatsby build output.
 - [gatsby-source-airtable](https://github.com/jbolda/gatsby-source-airtable) - Gatsby source plugin for sourcing data into your Gatsby application from your Airtable base tables.
+- [gatsby-remark-twitter-cards](https://github.com/alessbell/gatsby-remark-twitter-cards) - Gatsby remark plugin for generating Twitter card graphics.
 
 ## Links
 

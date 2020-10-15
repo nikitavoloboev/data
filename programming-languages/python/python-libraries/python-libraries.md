@@ -162,9 +162,15 @@
 - [Falkon](https://github.com/FalkonML/falkon) - Python implementation of the Falkon algorithm for large-scale, approximate kernel ridge regression.
 - [tomotopy](https://github.com/bab2min/tomotopy) - Python extension of tomoto (Topic Modeling Tool) which is a Gibbs-sampling based topic model library written in C++.
 - [magicimport.py](https://github.com/dheera/magicimport.py) - Python code that fetches its dependencies without complaining. ([HN](https://news.ycombinator.com/item?id=24735303))
+- [pymia](https://github.com/rundherum/pymia) - Python package for data handling and evaluation in deep learning-based medical image analysis.
+- [pyRiemann](https://github.com/alexandrebarachant/pyRiemann) - Python package for covariance matrices manipulation and classification through riemannian geometry.
+- [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export.
 
 ## Links
 
 - [PyPi](https://pypi.org/) - Repository of software for the Python programming language.
 - [Twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI.
 - [staged-recipes](https://github.com/conda-forge/staged-recipes) - Place to submit conda recipes before they become fully fledged conda-forge feedstocks.
+- [All of the python 3.9 standard library](https://gist.github.com/jph00/d5981f649a83a754946964cf22322cb2) - Organized and hyperlinked index to every module, function, and class in the Python standard library.
+- [pdocs](https://github.com/timothycrosley/pdocs) - Simple program and library to auto generate API documentation for Python modules.
+- [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages.

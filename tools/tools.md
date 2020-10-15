@@ -386,3 +386,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Small, Sharp Tools](https://brandur.org/small-sharp-tools)
 - [You should be using Linear (2020)](https://www.contrast.app/posts/you-should-be-using-linear)
 - [Mystery Knowledge and Useful Tools (2020)](https://nikhilism.com/post/2020/mystery-knowledge-useful-tools/)
+- [Life Stack of Aaron Parecki](https://aaronparecki.com/life-stack/) - Tools, apps, services and other things I use to manage my work and life.

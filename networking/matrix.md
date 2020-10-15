@@ -23,7 +23,6 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
 - [Riot Web](https://github.com/vector-im/riot-web) - Web client for Matrix.
 - [Ruma](https://github.com/ruma/homeserver) - Matrix homeserver written in Rust. Discontinued.
-- [Nheko](https://github.com/mujx/nheko) - Native desktop client for Matrix.
 - [Client-Server API](https://matrix.org/docs/spec/client_server/r0.3.0.html)
 - [Matrix Blog](https://matrix.org/blog/posts/)
 - [The 2018 Matrix Holiday Special](https://matrix.org/blog/2018/12/25/the-2018-matrix-holiday-special/)
@@ -46,3 +45,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Gitter is joining Matrix (2020)](https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix) ([HN](https://news.ycombinator.com/item?id=24638438))
 - [Dendrite is entering Beta (2020)](https://matrix.org/blog/2020/10/08/dendrite-is-entering-beta) ([HN](https://news.ycombinator.com/item?id=24721160))
 - [Free Small Matrix Server](https://matrix.org/docs/guides/free-small-matrix-server)
+- [Nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++17.

@@ -104,3 +104,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Bucket Stream](https://github.com/eth0izzle/bucket-stream) - Find interesting Amazon S3 Buckets by watching certificate transparency logs.
 - [Granularity levels in AWS IAM policies (2020)](https://advancedweb.hu/granularity-levels-in-aws-iam-policies/)
 - [AWS Toolkit for Visual Studio Code](https://github.com/aws/aws-toolkit-vscode) - Extension for working with AWS services such as AWS Lambda.
+- [AWS Copilot CLI](https://github.com/aws/copilot-cli) - Tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.

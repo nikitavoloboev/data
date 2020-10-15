@@ -50,9 +50,10 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tails](https://tails.boum.org/) - Portable operating system that protects against surveillance and censorship. ([Intro](https://tilvids.com/videos/watch/44aa73c5-ac76-4b6c-9de3-9b87f9980482))
 - [EmuTOS](https://github.com/emutos/emutos) - Free operating system for Atari ST computers, and more. ([Web](https://emutos.sourceforge.io/))
 - [HalideOS](https://github.com/DSC-KIIT/project-halide) - Experimental operating system written entirely from scratch. It supports a basic shell with some commands including a command line calculator.
-- [Biscuit](https://pdos.csail.mit.edu/projects/biscuit.html) - Monolithic, POSIX-subset operating system kernel in Go. ([HN](https://news.ycombinator.com/item?id=24572370))
+- [Biscuit](https://pdos.csail.mit.edu/projects/biscuit.html) - Monolithic, POSIX-subset operating system kernel in Go. ([HN](https://news.ycombinator.com/item?id=24572370)) ([Code](https://github.com/mit-pdos/biscuit))
 - [illumos](https://illumos.org/) - Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options. ([Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc))
 - [Managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O. ([Fully Asynchronous OS Based on Modern C++ - Alexander Grinten (2020)](https://github.com/managarm/managarm))
+- [EggOS](https://github.com/icexin/eggos) - Go unikernel running on x86 bare metal.
 
 ## Notes
 
@@ -136,3 +137,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [SerenityOS: The second year (2020)](http://serenityos.org/happy/2nd/) ([Lobsters](https://lobste.rs/s/rkx214/serenityos_second_year))
 - [OSDI '21 Call for Papers](https://www.usenix.org/conference/osdi21/call-for-papers)
 - [Tibru](https://github.com/tibru/tibru) - Alternative to the nonsense that is the Urbit project. ([Lobsters](https://lobste.rs/s/klltdm/tibru_tibru_alternative_nonsense_is))
+- [Re-Thinking the Desktop OS (2020)](https://twitter.com/patrickc/status/1316475471203360769) ([HN](https://news.ycombinator.com/item?id=24783387))

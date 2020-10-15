@@ -8,3 +8,4 @@
 - [Training Course for Ansible Automation Platform](https://github.com/ansible/workshops)
 - [Ansible Puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible.
 - [Ansible-defined Homelab (2020)](https://0xc45.com/blog/ansible-defined-homelab/)
+- [Ansible for DevOps Examples](https://github.com/geerlingguy/ansible-for-devops)

@@ -223,3 +223,4 @@
 - [Alphora-Style Database Diagramming (2020)](http://blog.mckaysalisbury.com/2020/03/alphora-style-database-diagramming.html) ([Lobsters](https://lobste.rs/s/mjxien/alphora_style_database_diagramming))
 - [Things every developer needs to know about database indexing - Kai Sassnowski (2020)](https://www.youtube.com/watch?v=HubezKbFL7E)
 - [Fizz](https://github.com/gobuffalo/fizz) - Common DSL for Migrating Databases.
+- [SQL vs NoSQL | MySQL vs MongoDB | Relational Databases vs DynamoDB, CosmosDB | When to use each (2020)](https://www.youtube.com/watch?v=hlkLL1R4KCI)

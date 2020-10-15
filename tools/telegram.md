@@ -21,6 +21,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python.
 - [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
 - [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
+- [telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
 
 ## Bots
 

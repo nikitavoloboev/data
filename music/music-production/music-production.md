@@ -32,6 +32,8 @@
 - [noise.sh](https://noise.sh/) - Digital signal processing spreadsheet for sound design.
 - [Noisefunge](https://github.com/revnull/noisefunge.rs) - Music livecoding environment based on the befunge programming language. ([HN](https://news.ycombinator.com/item?id=24549602))
 - [Roland 808303.studio](https://808303.studio/)
+- [Wafxr](https://andyhall.github.io/wafxr/) - Sound effect generator. ([Code](https://github.com/andyhall/wafxr))
+- [wasgen](https://github.com/andyhall/wasgen) - Web Audio sound generator.
 
 ## Inspiration
 

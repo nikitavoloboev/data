@@ -62,3 +62,4 @@
 - [Analyzing toehold sequences for synthetic biology (2020)](https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/)
 - [R, Data Science, & Computational Biology (2020)](https://changelog.com/practicalai/107)
 - [Bioinformatics Algorithms book](https://www.bioinformaticsalgorithms.org/read-the-book)
+- [ASAP](https://github.com/BingqingCheng/ASAP) - Automatic Selection And Prediction tools for materials and molecules.

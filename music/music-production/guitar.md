@@ -17,3 +17,4 @@
 - [SVGuitar](https://github.com/omnibrain/svguitar) - JavaScript Guitar Chord Renderer.
 - [React Guitar](https://react-guitar.com/) - Guitar component for React. ([HN](https://news.ycombinator.com/item?id=23921478))
 - [SmartGuitarAmp](https://github.com/keyth72/SmartGuitarAmp) - Guitar plugin made with deep learning. ([HN](https://news.ycombinator.com/item?id=24740266))
+- [PedalNetRT](https://github.com/keyth72/PedalNetRT) - Deep Learning Networks for Real Time Guitar Effect Emulation.

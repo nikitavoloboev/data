@@ -77,3 +77,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim: Sharpening the Axe (2020)](https://www.youtube.com/watch?v=iEShYRRVZOE)
 - [Using LibUV in Neovim](https://teukka.tech/vimloop.html)
 - [Beyond basic modal editing. Using vim's command-line mode (2020)](https://thoughtbot.com/blog/beyond-basic-modal-editing-using-vims-command-line-mode)
+- [Vimscript Language Server](https://github.com/google/vimscript-language-server)

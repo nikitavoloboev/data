@@ -71,4 +71,7 @@
 - [AI at the edge](https://github.com/crespum/edge-ai) - Curated list of resources for embedded AI.
 - [JLCPCB](https://jlcpcb.com/) - PCB Prototype & PCB Fabrication Manufacturer.
 - [JLCKicadTools](https://github.com/matthewlai/JLCKicadTools) - Tool for using JLCPCB assembly service with KiCad.
-- [Low-Level Academy](https://lowlvl.org/) - Learn systems programming from the first principles. ([Code](https://github.com/LowLevelAcademy/LowLevelAcademy)) ([HN](https://news.ycombinator.com/item?id=24764589))
+- [Low-Level Academy](https://lowlvl.org/) - Learn systems programming from the first principles. ([Code](https://github.com/LowLevelAcademy/LowLevelAcademy)) ([HN](https://news.ycombinator.com/item?id=24764589)) ([Backend code](https://github.com/LowLevelAcademy/server))
+- [Espruino](https://github.com/espruino/Espruino) - JavaScript interpreter for microcontrollers. ([HN](https://news.ycombinator.com/item?id=24764483))
+- [QP/C](https://github.com/QuantumLeaps/qpc) - Real-time embedded framework/RTOS for embedded systems based on active objects (actors) and hierarchical state machines. ([Web](http://www.state-machine.com/qpc/))
+- [Quantum Leaps](https://www.state-machine.com/) - Modern Embedded Software. ([GitHub](https://github.com/QuantumLeaps))

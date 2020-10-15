@@ -10,3 +10,4 @@
 - [BadWolf, one year later](https://hacktivis.me/articles/BadWolf%2C%20one%20year%20later) ([Lobsters](https://lobste.rs/s/zmbb4c/badwolf_one_year_later))
 - [Flow: A New Browser Engine (2020)](https://thereshouldbenored.com/posts/flow-new-engine/) ([Lobsters](https://lobste.rs/s/siuggy/flow_new_browser_engine))
 - [Understanding Map Internals (2020)](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df)
+- [Learning Google V8](https://github.com/danbev/learning-v8)

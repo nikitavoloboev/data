@@ -203,3 +203,7 @@
 - [Delivering with Haskell (2020)](https://medium.com/@fommil/delivering-with-haskell-a347d8359597) - Advice to teams that are interested in using Haskell, for the first time, to ship a project. ([Lobsters](https://lobste.rs/s/qeaqsu/delivering_with_haskell))
 - [Towards Tactic Metaprogramming in Haskell (2020)](https://reasonablypolymorphic.com/blog/towards-tactics/index.html) ([HN](https://news.ycombinator.com/item?id=24759649))
 - [Haskell: Monads. A 5-minute introduction (2020)](https://www.youtube.com/watch?v=_Gk_lwhJMzk)
+- [Channable - Bottlenecked on Haskell's text library (2020)](https://tech.channable.com/posts/2020-10-15-bottlenecked-on-haskells-text.html)
+- [LiquidHaskell](https://github.com/ucsd-progsys/liquidhaskell) - Liquid Types For Haskell.
+- [Why Fintech Companies Use Haskell (2020)](https://serokell.io/blog/functional-programming-in-fintech)
+- [cake-slayer](https://github.com/kowainik/cake-slayer) - Architecture of Haskell backend applications. ([Web](https://kowainik.github.io/projects/cake-slayer))

@@ -43,3 +43,4 @@
 - [When Plants Go to War](http://nautil.us/issue/90/something-green/when-plants-go-to-war-rp) ([HN](https://news.ycombinator.com/item?id=24702588))
 - [Adaptive optics/lattice light-sheet microscope (2018)](https://www.electrooptics.com/news/harvard-team-develops-adaptive-opticslattice-light-sheet-microscope)
 - [Drosophila Cell Division on Lattice Light Sheet Microscope](https://vimeo.com/202222028)
+- [Mushroom spores spreading in the wind](https://twitter.com/TechAmazing/status/1316395969215369216)

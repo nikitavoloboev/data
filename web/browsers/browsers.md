@@ -69,3 +69,4 @@
 - [Fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page. ([Web](https://fraidyc.at/))
 - [Keyboard-driven browser design tool](https://twitter.com/yoshikischmitz/status/1185189779521953798)
 - [Floating Point in the Browser (2020)](https://randomascii.wordpress.com/2020/09/27/floating-point-in-the-browser-part-1-impossible-expectations/) ([Part 2](https://randomascii.wordpress.com/2020/10/11/floating-point-in-the-browser-part-2-bad-epsilon/))
+- [sysend.js](https://github.com/jcubic/sysend.js) - Send messages between open pages or tabs in same browser.

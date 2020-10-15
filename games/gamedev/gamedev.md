@@ -101,3 +101,4 @@
 - [Laminar](https://github.com/amethyst/laminar) - Simple semi-reliable UDP protocol for multiplayer games.
 - [Fibers, Oh My (2020)](https://graphitemaster.github.io/fibers/) ([HN](https://news.ycombinator.com/item?id=24679740)) ([Lobsters](https://lobste.rs/s/2cranq/fibers_oh_my))
 - [Sid Meier's Memoir](https://sidmeiersmemoir.com/) ([HN](https://news.ycombinator.com/item?id=24729402))
+- [Zenva Academy](https://academy.zenva.com/) - Empower people so that they can create their own videogames, mobile apps and websites. ([YouTube](https://www.youtube.com/c/Zenva/videos))

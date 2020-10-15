@@ -103,3 +103,6 @@
 - [Explorable Programming with Rust and WebAssembly (2020)](https://lowlvl.org/blog/explorable-programming)
 - [wasm-remapper-web](https://github.com/vlakreeh/wasm-remapper-web) - Web app to help reverse engineer WebAssembly binaries.
 - [wasi-fs-access](https://github.com/GoogleChromeLabs/wasi-fs-access) - Demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.
+- [WASI Libc](https://github.com/WebAssembly/wasi-libc) - Libc for WebAssembly programs built on top of WASI system calls.
+- [Low-Level Academy WebAssembly modules](https://github.com/LowLevelAcademy/wasm-modules)
+- [trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.

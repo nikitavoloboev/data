@@ -12,3 +12,4 @@
 - [Mixer](https://github.com/ubisoft/mixer) - Add-on for real-time collaboration in Blender.
 - [Wild Tricks for Greenscreen in Blender (2020)](https://www.youtube.com/watch?v=RxD6H3ri8RI)
 - [Blender 2.90 (2020)](https://www.blender.org/download/releases/2-90/) ([HN](https://news.ycombinator.com/item?id=24334024))
+- [Blender Tools](https://github.com/LeanderSilur/Blender-Tools) - Various python tools for Blender. Partially Addons.

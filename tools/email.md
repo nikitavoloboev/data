@@ -92,3 +92,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [tmpmail](https://github.com/sdushantha/tmpmail) - Temporary email right from your terminal.
 - [Flanker](https://github.com/mailgun/flanker) - Python email address and Mime parsing library.
 - [Coded Mails](https://codedmails.com/) - Hassle free responsive html email templates. ([HN](https://news.ycombinator.com/item?id=24729938)) ([Code](https://github.com/hunzaboy/codedmails))
+- [mjml-react](https://github.com/wix-incubator/mjml-react) - React component library to generate the HTML emails on the fly.
+- [Maizzle](https://github.com/maizzle/maizzle) - Framework that helps you quickly build HTML emails with Tailwind CSS. ([Web](https://maizzle.com/))
+- [Alter.Email](https://alter.email/) - Transform your HTML emails.
+- [Email Tips Collection (2020)](https://joshspector.com/email-tips/)

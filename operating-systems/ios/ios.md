@@ -243,3 +243,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [KSCrash](https://github.com/kstenerud/KSCrash) - Ultimate iOS Crash Reporter.
 - [Buglife](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps.
 - [AlternateIcons](https://github.com/alexaubry/alternate-icons) - Swift script that automates adding alternate app icons to your iOS app.
+- [iOS and iPadOS 14: The MacStories Review](https://www.macstories.net/stories/ios-and-ipados-14-the-macstories-review/)

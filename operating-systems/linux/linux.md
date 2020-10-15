@@ -175,3 +175,5 @@
 - [Unlocking eBPF power (2020)](https://devopsspiral.com/articles/linux/ebpf-unlock/)
 - [Linux interview questions](https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md)
 - [Durability: Linux File APIs (2020)](https://www.evanjones.ca/durability-filesystem.html) ([HN](https://news.ycombinator.com/item?id=24758024))
+- [The Year of the Linux dissatisfaction (2020)](https://www.dedoimedo.com/computers/linux-year-of-dissatisfaction.html)
+- [Learning Linux Kernel internals](https://github.com/danbev/learning-linux-kernel)

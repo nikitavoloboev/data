@@ -20,3 +20,4 @@
 - [railsnew.io](https://railsnew.io/) - Simplest way to generate a new Rails app with (or without) all the bells and whistles.
 - [Rails Common WTFs](https://discuss.rubyonrails.org/t/frequently-wtfed-wtfs/74706)
 - [HatchBox](https://www.hatchbox.io/) - Build, deploy, and manage Rails apps.
+- [Guide to Reactive Rails](https://github.com/obie/guide-to-reactive-rails)

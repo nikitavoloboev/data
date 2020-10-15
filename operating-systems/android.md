@@ -20,3 +20,4 @@
 - [Understanding Jetpack Compose (2020)](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 - [Android In a Box](https://anbox.io/) - Run Android applications on any GNU/Linux operating system. ([HN](https://news.ycombinator.com/item?id=24684187))
 - [AinD: Android (Anbox) in Docker](https://github.com/aind-containers/aind)
+- [Oboe](https://github.com/google/oboe) - C++ library that makes it easy to build high-performance audio apps on Android.

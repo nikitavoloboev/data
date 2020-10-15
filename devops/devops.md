@@ -35,3 +35,4 @@
 - [Sysdig](https://sysdig.com/) - Security, Compliance & Performance for your Devops Workflows.
 - [A List of Skills and PracticesWe Use to Train Our DevOps Internally (2020)](https://blog.maddevs.io/devops-engineers-in-mad-devs-449ded5221b6)
 - [Bridgecrew](https://bridgecrew.io/) - Codified cloud security for DevOps.
+- [Waypoint](https://www.waypointproject.io/) - Build, deploy, and release applications across any platform. ([Code](https://github.com/hashicorp/waypoint)) ([Article](https://www.hashicorp.com/blog/announcing-waypoint)) ([HN](https://news.ycombinator.com/item?id=24790055)) ([Waypoint Plugin SDK](https://github.com/hashicorp/waypoint-plugin-sdk)) ([Waypoint Example Apps](https://github.com/hashicorp/waypoint-examples))

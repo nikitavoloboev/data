@@ -102,3 +102,6 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [EarlyBird](https://github.com/americanexpress/earlybird) - Sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.
 - [Awesome Hacking](https://github.com/jekil/awesome-hacking) - Curated list of hacking tools for hackers, pentesters and security researchers. ([Web](https://awesomehacking.org/))
 - [HashiCorp Boundary (2020)](https://www.boundaryproject.io/) - Simple and secure remote access — to any system anywhere based on trusted identity. ([Code](https://github.com/hashicorp/boundary)) ([Announcement](https://www.hashicorp.com/blog/hashicorp-boundary)) ([HN](https://news.ycombinator.com/item?id=24778073))
+- [mc2](https://github.com/mc2-project/mc2) - Multiparty Collaboration + Coopetition projects.
+- [Google Security Research](https://github.com/google/security-research) - Hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google.
+- [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.

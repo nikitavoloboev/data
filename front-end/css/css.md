@@ -218,3 +218,5 @@
 - [PureCSS Character](https://diana-adrianne.com/purecss-character/) ([Code](https://github.com/cyanharlow/purecss-character))
 - [Balloon.css](https://kazzkiq.github.io/balloon.css/) - CSS tooltips for HTML elements. ([Code](https://github.com/kazzkiq/balloon.css))
 - [Blunt](https://github.com/f-prime/blunt/) - CSS framework strictly for layouts.
+- [How to Create a Realistic Motion Blur with CSS Transitions (2020)](https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/)
+- [Link hover animation (circled)](https://codepen.io/aaroniker/pen/VwjeGLm)

@@ -65,3 +65,4 @@
 - [Strategies Scalable Web Architecture](https://gist.github.com/erwindev/a6b28231f3c7798180925b82772f63df)
 - [Netlify Edge Handlers](https://www.netlify.com/products/edge/edge-handlers) - Run custom code right from the network edge with incredible performance.
 - [The Serverless Revolution Has Stalled (2020)](https://www.infoq.com/articles/serverless-stalled/) ([HN](https://news.ycombinator.com/item?id=24758772))
+- [Datadog Serverless Plugin](https://github.com/DataDog/serverless-plugin-datadog) - Serverless plugin to automagically instrument your Lambda functions with Datadog.

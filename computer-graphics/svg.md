@@ -42,3 +42,5 @@
 - [svg2jsx](https://github.com/balajmarius/svg2jsx) - Transform SVG into valid JSX.
 - [Graphical UI's with SVG and React (2020)](https://datalanguage.com/blog/graphical-uis-with-svg-and-react-part-1-declarative-graphics)
 - [SVGO](https://github.com/svg/svgo) - Node.js tool for optimizing SVG files.
+- [Lean-SVG](https://lean-svg.netlify.app/) - Optimize SVG and Flatten transforms and shapes. ([Code](https://github.com/upendra-web/lean-svg))
+- [flatten-svg](https://github.com/nornagon/flatten-svg) - Flatten SVGs into points.

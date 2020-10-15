@@ -208,3 +208,5 @@
 - [ESM Hot Module Replacement (ESM-HMR) Spec](https://github.com/pikapkg/esm-hmr)
 - [esbuild-js](https://github.com/marvinhagemeister/esbuild-js) - es-build implemented in JS.
 - [Visual Guide to References in JavaScript (2020)](https://daveceddia.com/javascript-references/)
+- [Modern JavaScript features you may have missed (2019)](https://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/)
+- [RegPack](https://github.com/Siorki/RegPack) - Self-contained packer for size-constrained JS code.

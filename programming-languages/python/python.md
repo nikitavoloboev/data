@@ -185,3 +185,6 @@
 - [PyCharm JetBrains YouTube](https://www.youtube.com/c/PyCharmIDE/playlists)
 - [How I Tried To Reduce Pylint Memory Usage (2020)](https://rtpg.co/2020/10/12/pylint-usage.html) ([HN](https://news.ycombinator.com/item?id=24754397))
 - [PySDR: A Guide to SDR and DSP Using Python](https://pysdr.org/index.html) ([HN](https://news.ycombinator.com/item?id=24750588))
+- [Boa](https://github.com/mamba-org/boa) - Fast Conda and Mamba Package Builder.
+- [NPComp](https://github.com/llvm/mlir-npcomp) - MLIR based compiler toolkit for numerical python programs.
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - Strictest and most opinionated python linter ever.

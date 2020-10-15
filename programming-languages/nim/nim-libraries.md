@@ -8,3 +8,4 @@
 
 - [Arraymancer](https://github.com/mratsim/Arraymancer) - N-dimensional tensor (ndarray) library.
 - [paranim](https://github.com/paranim/paranim) - Nim game library.
+- [Synthesis](https://github.com/mratsim/Synthesis) - Exports a set of macros to synthesize static procedure-based automata from a declarative description of states, triggers and transitions with all states, triggers and transitions known at compile-time.

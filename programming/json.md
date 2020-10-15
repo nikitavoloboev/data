@@ -25,3 +25,5 @@
 - [YYJSON](https://github.com/ibireme/yyjson) - High performance JSON library written in ANSI C.
 - [RapidJSON](https://github.com/Tencent/rapidjson) - Fast JSON parser/generator for C++ with both SAX/DOM style API.
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native. ([Article](https://sancho.dev/blog/cross-compile-query-json/))
+- [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations.
+- [wernicke](https://github.com/latacora/wernicke) - Redaction tool for structured data.

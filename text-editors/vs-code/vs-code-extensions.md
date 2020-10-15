@@ -43,6 +43,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view) - Display documentation in the sidebar or panel. ([Code](https://github.com/mattbierner/vscode-docs-view))
 - [MetaGo](https://github.com/metaseed/metaGo) - Provides fast cursor movement/selection for keyboard focused users in vscode.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.

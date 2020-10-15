@@ -312,3 +312,6 @@
 - [Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks by Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for machine learning. ([Web](http://manifold.mlvis.io/))
 - [Making With ML YouTube series](https://github.com/google/making_with_ml)
+- [Topological Autoencoders (2020)](https://michaelmoor.ml/blog/topoae/main/) ([Code](https://github.com/BorgwardtLab/topological-autoencoders))
+- [Awesome Teachable Machine List](https://github.com/SashiDo/awesome-teachable-machine) - Curated list of awesome machine learning projects built with Google's Teachable Machine.
+- [How to put machine learning models into production (2020)](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)

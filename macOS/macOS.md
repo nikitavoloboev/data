@@ -105,3 +105,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [HN: Apple’s T2 security chip jailbreak (2020)](https://news.ycombinator.com/item?id=24636166)
 - [Apple's macOS SDKs](https://github.com/alexey-lysiuk/macos-sdk)
 - [macOS11 Big Sur UI Kit](https://applypixels.com/resource/big-sur-ui)
+- [Apple Platform Versions](https://github.com/phatblat/ApplePlatformVersions) - Recent history of platforms developed by Apple, including Apple-managed build tools for these platforms.

@@ -103,6 +103,7 @@
 - [ThirdPartyMailer](https://github.com/vtourraine/ThirdPartyMailer) - Interact with third-party iOS mail clients, using custom URL schemes.
 - [MXSegmentedControl](https://github.com/maxep/MXSegmentedControl) - Simple Segmented Control.
 - [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
+- [SwiftPageMenu](https://github.com/tamanyan/SwiftPageMenu) - Customizable Page Tab Menu Controller.
 
 ## macOS
 
@@ -160,6 +161,8 @@
 - [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - Simple line and bar charting library that support accessibility written using SwiftUI.
 - [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/alert.
 - [SwiftUI Charts](https://github.com/swift-extensions/swiftui-charts) - SwiftUI Charts with custom styles.
+- [Parma](https://github.com/dasautoooo/Parma) - SwiftUI view for displaying Markdown with customizable appearances.
+- [SwiftUI Visual Effects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 
 ## Test
 
@@ -167,6 +170,7 @@
 - [Muter](https://github.com/muter-mutation-testing/muter) - Automated mutation testing for Swift.
 - [AccessibilitySnapshot](https://github.com/cashapp/AccessibilitySnapshot) - Makes it simple to add regression tests for accessibility in UIKit.
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) - Command Line Tool to create XCFrameworks by wrapping xcodebuild.
+- [xcframework](https://github.com/jeffctown/xcframework) - Simple tool to create an XCFramework.
 
 ## API
 
@@ -440,6 +444,7 @@
 - [ReactiveKit](https://github.com/ReactiveCocoa/ReactiveSwift) - Streams of values over time.
 - [Swift Atomics](https://github.com/apple/swift-atomics) - Implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values.
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Lightweight, pure-Swift library for generating pretty QRCode image with input watermark or icon and recognizing QRCode from image.
+- [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - Package which provides transformation operation for WebAssembly binary.
 
 ## Other (not lib)
 

@@ -12,3 +12,4 @@
 - [Tracking Firmware Code Size (2020)](https://interrupt.memfault.com/blog/code-size-deltas)
 - [TS100 & TS80 Firmware](https://github.com/Ralim/ts100)
 - [binbloom](https://github.com/quarkslab/binbloom) - Raw binary firmware analysis software.
+- [Firmware Analysis and Comparison Tool (FACT)](https://github.com/fkie-cad/FACT_core)

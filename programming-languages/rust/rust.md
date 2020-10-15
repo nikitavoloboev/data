@@ -342,3 +342,5 @@
 - [Learning Rust through open source and live code reviews (2020)](https://loige.co/learning-rust-through-open-source-and-live-code-reviews/)
 - [Memory safe ‘curl’ for a more secure internet (2020)](https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/) ([Lobsters](https://lobste.rs/s/bfjdfd/rust_curl_with_hyper)) ([HN](https://news.ycombinator.com/item?id=24729218))
 - [Code Smell: Concrete Abstraction (2020)](https://matklad.github.io/2020/08/15/concrete-abstraction.html)
+- [Optional parameters in Rust (2020)](https://vidify.org/blog/rust-parameters/)
+- [Docker+Rust Buildcache](https://github.com/benmarten/sccache-docker-test) - Two strategies to cache rust builds within docker in the minimal example repo.

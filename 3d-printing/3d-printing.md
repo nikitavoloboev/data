@@ -12,3 +12,4 @@
 - [A Tale of Two 3D Printers (2020)](https://blog.jessfraz.com/post/a-tale-of-two-3d-printers/)
 - [Voron 2 CoreXY 3D Printer design](https://github.com/VoronDesign/Voron-2)
 - [VORON Design](http://vorondesign.com/) - No-compromise 3D printer.
+- [Ask HN: Why are there no open source 2d printers? (2020)](https://news.ycombinator.com/item?id=24786721)

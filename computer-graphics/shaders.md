@@ -17,3 +17,5 @@
 - [Shader Doodle](https://github.com/halvves/shader-doodle) - Friendly web-component for writing and rendering shaders.
 - [Collection of shaders to draw color maps](https://github.com/kbinani/colormap-shaders)
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor) - Tool designed for cross-compiling HLSL to other shading languages.
+- [The RTX Shader Binding Table Three Ways (2019)](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
+- [ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) - Shaders For People Who Don't Know How To Shader, a tutorial series for beginners.

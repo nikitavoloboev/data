@@ -15,3 +15,4 @@
 - [Energypedia](https://energypedia.info/wiki/Main_Page) - Wiki-based platform for collaborative knowledge exchange on renewable energy and energy access.
 - [Notes on Hydrogen (2020)](https://www.orbuch.com/notes-on-hydrogen/)
 - [ElectricityMap](https://www.electricitymap.org/map) - Live CO₂ emissions of electricity production and consumption. ([HN](https://news.ycombinator.com/item?id=24747927))
+- [Facebook and Carnegie Mellon launch the Open Catalyst Project to find new ways to store renewable energy (2020)](https://ai.facebook.com/blog/facebook-and-carnegie-mellon-launch-the-open-catalyst-project-to-find-new-ways-to-store-renewable-energy)

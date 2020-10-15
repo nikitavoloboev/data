@@ -107,3 +107,7 @@
 - [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.js.org/en/motivation))
 - [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
+- [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust.
+- [esno](https://github.com/antfu/esno) - TypeScript/ESNext node runtime powered by esbuild.
+- [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
+- [Learning Node.js internals](https://github.com/danbev/learning-nodejs)

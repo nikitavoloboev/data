@@ -19,3 +19,4 @@
 - [Freelance Notion templates](https://gumroad.com/l/notionpack)
 - [Upwork](https://www.upwork.com/) - Connects businesses to freelancers.
 - [Flexiple](https://flexiple.com/) - Hire Freelance Developers and Designers.
+- [Array Community](https://array.chat/) - Friendly, premium Discord community of freelancers, who look out for each other.

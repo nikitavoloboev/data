@@ -49,3 +49,4 @@
 - [Applying Textbook Data Structures for Real Life Wins (2020)](https://heap.io/blog/engineering/applying-textbook-data-structures-for-real-life-wins) ([HN](https://news.ycombinator.com/item?id=24761105))
 - [Michael Scott — Nonblocking data structures lectures (2020)](https://www.youtube.com/watch?v=9XAx279s7gs) - Nonblocking concurrent data structures are an increasingly valuable tool for shared-memory parallel programming.
 - [Scal](https://github.com/cksystemsgroup/scal) - High-performance multicore-scalable data structures and benchmarks. ([Web](http://scal.cs.uni-salzburg.at/))
+- [Hyperbolic embedding implementations](https://github.com/HazyResearch/hyperbolics)

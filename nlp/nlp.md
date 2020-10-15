@@ -156,3 +156,9 @@
 - [Deep Learning for NLP notes (2020)](https://strikingloo.github.io/wiki-articles/machine-learning/deep_learning_NLP)
 - [Modern Practical Natural Language Processing course](https://github.com/jmugan/modern_practical_nlp)
 - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers in PyTorch](https://github.com/airsplay/lxmert)
+- [Awesome software for Text ML](https://github.com/oskar-j/awesome-text-ml)
+- [Pretrained Transformers for Text Ranking: BERT and Beyond (2020)](https://arxiv.org/abs/2010.06467)
+- [SpaCy v3.0 Nightly (2020)](https://explosion.ai/blog/spacy-v3-nightly) ([HN](https://news.ycombinator.com/item?id=24789981)) ([Tweet](https://twitter.com/spacy_io/status/1316769056108818432))
+- [Explore trained spaCy v3.0 pipelines](https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py)
+- [spacy-streamlit](https://github.com/explosion/spacy-streamlit) - sGpaCy building blocks for Streamlit apps. ([Tweet](https://twitter.com/_inesmontani/status/1316781893791158273))
+- [Informers](https://github.com/ankane/informers) - State-of-the-art natural language processing for Ruby.

@@ -350,3 +350,8 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Fonos](https://github.com/fonoster/fonos) - Open-source telecommunications for the cloud. ([Docs](https://fonoster.github.io/fonos/))
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [hncheck](https://github.com/brandur/hncheck) - Simple app that checks to see if something under one of your domains has been submitted to HN, and emails you if it has. ([Runner](https://github.com/brandur/hncheck-runner))
+- [pure JS WiFi QR Code Generator](https://qifi.org/)
+- [Synapse Wireless](https://www.synapsewireless.com/) - Empowering Intelligent Industrial Facilities.
+- [Markdown Emoji Codes](https://github.com/ikatyang/emoji-cheat-sheet)
+- [Hacker News Day](https://hackernewsday.com/)
+- [What if we had Local-First Software? (2020)](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first) ([HN](https://news.ycombinator.com/item?id=24790170))

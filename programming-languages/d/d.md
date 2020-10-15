@@ -12,3 +12,5 @@
 - [D Tetris running on Webassembly (2020)](http://dpldocs.info/this-week-in-d/Blog.Posted_2020_08_10.html)
 - [D Improvement Proposals](https://github.com/dlang/DIPs)
 - [Hunt](https://github.com/huntlabs/hunt) - Refined core library for D programming language.
+- [DConf 2020](https://dconf.org/2020/online/index.html)
+- [DLangKoans](https://github.com/ilmanzo/DLangKoans)

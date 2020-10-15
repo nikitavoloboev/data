@@ -514,6 +514,8 @@
 - [times](https://github.com/djherbis/times) - Go file times (atime, mtime, ctime, btime).
 - [nio](https://github.com/djherbis/nio) - Concurrent Buffered IO in Go.
 - [go-ristretto](https://github.com/bwesterb/go-ristretto) - Go implementation of the group operations on the Ristretto prime-order group built from Edwards25519.
+- [ncw/swift](https://github.com/ncw/swift) - Easy to use library for interfacing with Swift / Openstack Object Storage / Rackspace cloud files from the Go Language.
+- [GoFlow](https://github.com/trustmaster/goflow) - Flow-based and dataflow programming library for Go.
 
 ## Links
 

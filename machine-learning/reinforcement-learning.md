@@ -108,3 +108,7 @@
 - [GridRoyale](https://github.com/cool-RR/grid_royale) - Life simulation for exploring social dynamics. ([HN](https://news.ycombinator.com/item?id=24744437))
 - [TorchRL](https://github.com/RchalYang/torchrl) - PyTorch Implementation of Reinforcement Learning Algorithms.
 - [Reinforcement learning is supervised learning on optimized data (2020)](https://bair.berkeley.edu/blog/2020/10/13/supervised-rl/) ([HN](https://news.ycombinator.com/item?id=24771856))
+- [Deep Reinforcement Learning Algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms)
+- [Introduction to Reinforcement Learning (2020)](https://www.youtube.com/watch?v=xMZE-9WECQE) ([Code](https://colab.research.google.com/github/psc-g/intro_to_rl/blob/master/Introduction_to_reinforcement_learning.ipynb))
+- [AI safety gridworlds](https://github.com/deepmind/ai-safety-gridworlds) - Suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
+- [RL and Deep-RL implementations](https://github.com/EliorBenYosef/reinforcement-learning)

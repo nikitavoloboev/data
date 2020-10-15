@@ -39,3 +39,4 @@
 - [Next Storefront](https://github.com/RobertBroersma/next-storefront) - Dazzlingly fast E-Commerce solution built with Typescript and NextJS.
 - [Etsy](https://www.etsy.com/) - Shop for handmade, vintage, custom, and unique gifts.
 - [Build static commerce sites with Gatsby (2020)](https://commercejs.com/blog/build-static-commerce-sites-with-gatsby/)
+- [Amazon Price-Tracker with Alerts](https://camelcamelcamel.com/) ([HN](https://news.ycombinator.com/item?id=24783727))

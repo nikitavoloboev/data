@@ -18,3 +18,5 @@
 - [K to GLSL transpiler](http://beyondloom.com/tools/specialk.html)
 - [Xs](https://cryptm.org/xs/) - Concatenative array language inspired by kdb+ and FORTH. ([HN](https://news.ycombinator.com/item?id=23437003))
 - [K language semantics](https://github.com/llelf/kex)
+- [Q for Quants](https://github.com/psaris/q4q) ([Article](http://nick.psaris.com/presentation/q-for-quants/))
+- [Fun Q: A Functional Introduction to Machine Learning in Q](https://github.com/psaris/funq)

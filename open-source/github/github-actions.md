@@ -53,6 +53,9 @@
 - [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 - [Safe space](https://github.com/charliegerard/safe-space) - Github action that checks the toxicity level of comments and PR reviews to help make repos safe spaces. ([Article](https://charliegerard.dev/blog/github-action-toxic-comments/))
 - [Latest Changes](https://github.com/tiangolo/latest-changes) - Automatically add the changes from each PR to the release notes in a file.
+- [Autosquash](https://github.com/tibdex/autosquash) - Automatically updates and merges your pull requests.
+- [chart-releaser](https://github.com/helm/chart-releaser-action) - GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool.
+- [action-waypoint](https://github.com/hashicorp/action-waypoint) - GitHub action for deploying and annotating PRs and commits with Waypoint.
 
 ## Go
 
@@ -139,3 +142,4 @@
 - [Publish to GitHub Container Registry Using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)
 - [GitHub Actions: first impressions (2020)](https://eli.thegreenplace.net/2020/github-actions-first-impressions/)
 - [Build and deploy OpenFaaS functions with GitHub Actions (2020)](https://www.openfaas.com/blog/openfaas-functions-with-github-actions/)
+- [Meercode](https://meercode.io/) - Github Actions Dashboard. Keep an eye on your latest builds.

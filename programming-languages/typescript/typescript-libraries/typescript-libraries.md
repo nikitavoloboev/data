@@ -59,6 +59,8 @@
 - [swagger-to-ts](https://github.com/drwpow/swagger-to-ts) - Generate TypeScript types from Swagger OpenAPI specs.
 - [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
 - [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types.
+- [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies))
+- [newtype-ts](https://github.com/gcanti/newtype-ts) - Implementation of newtypes in TypeScript.
 
 ## Links
 

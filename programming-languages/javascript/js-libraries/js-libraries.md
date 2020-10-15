@@ -53,6 +53,7 @@
 - [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/))
 - [State Designer](https://github.com/steveruizok/state-designer) - JavaScript and TypeScript library for managing the state of a user interface.
 - [Fluxible](https://github.com/yahoo/fluxible) - Pluggable container for universal flux applications.
+- [Logux State](https://github.com/logux/state) - Tiny state manager with CRDT, cross-tab, and Logux support.
 
 ## API bindings
 
@@ -317,6 +318,7 @@
 - [Z](https://github.com/z-pattern-matching/z) - Pattern Matching for JavaScript. ([Web](https://z-pattern-matching.github.io/))
 - [Graphology](https://github.com/graphology/graphology) - Robust & multipurpose Graph object for JavaScript & TypeScript. ([Docs](https://graphology.github.io/))
 - [weak-napi](https://github.com/node-ffi-napi/weak-napi) - Make weak references to JavaScript Objects.
+- [nestie](https://github.com/lukeed/nestie) - Tiny (211B) and fast utility to expand a flattened object.
 
 ## Links
 

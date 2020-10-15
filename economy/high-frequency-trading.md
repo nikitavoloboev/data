@@ -9,3 +9,4 @@
 - [Surpriver](https://github.com/tradytics/surpriver) - Find High Moving Stocks before they Move.
 - [TA-Lib](https://ta-lib.org/) - Technical Analysis Library. ([Python wrapper](https://github.com/mrjbq7/ta-lib))
 - [Timekeeping in Financial Exchanges (2020)](https://www.lucaspauker.ml/articles/20) ([HN](https://news.ycombinator.com/item?id=24746836))
+- [TF Quant Finance](https://github.com/google/tf-quant-finance) - TensorFlow based Quant Finance Library.

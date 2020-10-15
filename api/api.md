@@ -94,6 +94,7 @@
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))
 - [OpenAI API](https://beta.openai.com/) ([HN](https://news.ycombinator.com/item?id=23489653))
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
+- [Medium API](https://github.com/Medium/medium-api-docs)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
 - [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
@@ -152,3 +153,4 @@
 - [Cloudflare API Shield (2020)](https://blog.cloudflare.com/introducing-api-shield/)
 - [Abstract API](https://www.abstractapi.com/) - Suite of fast, accurate, & robust APIs.
 - [Stargate](https://github.com/stargate/stargate) - Open source API framework for data. Data gateway deployed between client applications and a database. ([Web](https://stargate.io/)) ([Hello GraphQL; meet Cassandra](https://stargate.io/2020/10/05/hello-graphql.html))
+- [API pagination design (2020)](https://solovyov.net/blog/2020/api-pagination-design/) ([Lobsters](https://lobste.rs/s/isysq1/api_pagination_design))

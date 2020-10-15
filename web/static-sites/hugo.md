@@ -24,6 +24,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Minimal](https://github.com/calintat/minimal)
 - [Cocoa](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme.
 - [Tale](https://github.com/EmielH/tale-hugo/) - Minimal theme curated for storytellers.
+- [Ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme Hugo.
 
 ## Examples
 
@@ -47,3 +48,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/)
 - [SEO for Hugo blogs (2020)](https://mathieuhendey.com/2020/10/seo-for-hugo-blogs/)
 - [Minifying CSS With Hugo Pipelines (2020)](https://mathieuhendey.com/2020/10/minifying-css-with-hugo-pipelines/)
+- [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo)

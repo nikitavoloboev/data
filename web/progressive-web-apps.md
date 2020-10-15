@@ -11,3 +11,4 @@
 - [Project Fugu: A New Hope (2020)](https://joreteg.com/blog/project-fugu-a-new-hope)
 - [Progressive Web Apps: Towards an Immersive User Experience (2020)](https://codeandpepper.com/progressive-web-apps-immersive-user-experience/)
 - [Nitro](https://github.com/williamluke4/Nitro) - Example of a PWA using Nextjs, Material-UI, Typescript and Auth0.
+- [PRPL Pattern (2020)](https://addyosmani.com/blog/prpl-pattern/) - Pattern for structuring and serving web applications and Progressive Web Apps (PWAs) with an emphasis on improved app delivery and launch performance.

@@ -81,3 +81,4 @@
 - [Small portable Elliptic-Curve Diffie-Hellman in C](https://github.com/kokke/tiny-ECDH-c)
 - [Branca](https://github.com/tuupola/branca-spec) - Authenticated and encrypted API tokens using modern crypto. ([Web](https://branca.io/))
 - [jsHashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [The EMV Standard: Break, Fix, Verify (2020)](https://arxiv.org/abs/2006.08249)

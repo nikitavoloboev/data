@@ -72,3 +72,5 @@
 - [Foundations of Computer Science notebook](https://github.com/ocamllabs/focs-notebooks/blob/main/1A%20Foundations%20of%20Computer%20Science.ipynb)
 - [Richard Feynman and Computation (1999)](https://cds.cern.ch/record/411350/files/p101.pdf)
 - [Computer Science Awards, Scholarships, & Fellowships](https://github.com/chinasaokolo/csGraduateFellowships)
+- [HazyResearch](https://cs.stanford.edu/people/chrismre/) - CS research group led by Prof. Chris Re.
+- [Computer Science Textbooks](https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems)

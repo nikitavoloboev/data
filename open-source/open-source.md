@@ -125,3 +125,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Public Money, Public Code](https://publiccode.eu/) - Why is software created using taxpayers’ money not released as Free Software?
 - [Open Source Directory](https://postmake.io/open-source) - Human-browsable directory of popular open-source projects. ([Code](https://github.com/Postmake/open-source-directory))
 - [Open source licensing and why we’re changing Plausible to the AGPL license (2020)](https://plausible.io/blog/open-source-licenses) ([HN](https://news.ycombinator.com/item?id=24763734))
+- [License Finder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
+- [Congress should invest in open-source software (2020)](https://www.brookings.edu/techstream/why-congress-should-invest-in-open-source-software/) ([HN](https://news.ycombinator.com/item?id=24789070))

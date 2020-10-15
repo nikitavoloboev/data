@@ -168,3 +168,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git scraping: track changes over time by scraping to a Git repository (2020)](https://simonwillison.net/2020/Oct/9/git-scraping/) ([HN](https://news.ycombinator.com/item?id=24732943))
 - [Branch Agnostic Git Aliases (2020)](https://aj.codes/post/branch-agnostic-git-aliases/) ([Lobsters](https://lobste.rs/s/z0spf3/branch_agnostic_git_aliases))
 - [Beyond the Basics: 5 Powerful Advanced Tools in Git (2020)](https://codeburst.io/beyond-the-basics-5-powerful-advanced-tools-in-git-2180faf0ee29)
+- [meta](https://github.com/mateodelnorte/meta) - Tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.

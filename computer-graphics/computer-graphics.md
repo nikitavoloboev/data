@@ -96,3 +96,5 @@
 - [Fooling Around with Foveated Rendering (2020)](https://www.peterstefek.me/focused-render.html) ([HN](https://news.ycombinator.com/item?id=24695275))
 - ["Panini projection", probably used by the Baroque painters, allows us to render images with wide field-of-vision (here 170°) more nicely than the usual perspective](https://twitter.com/ZenoRogue/status/1314573353353609216)
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free High Quality HDRIs for Everyone.
+- [TwinklebearDev SDL 2.0 Tutorial](https://www.willusher.io/pages/sdl2/) ([Code](https://github.com/Twinklebear/TwinklebearDev-Lessons))
+- [Will Usher's research](https://www.willusher.io/)

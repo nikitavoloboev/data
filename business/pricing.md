@@ -8,6 +8,8 @@
 
 - [Wealth and access to wealth is one of the most widely experienced Accessibility issues.](https://twitter.com/buildsghost/status/1274376280255811584)
 - Before selling things owned, can look at prices of same or similar items on marketplace and price the item accordingly.
+- [“It’s not for everyone”.](https://seths.blog/2018/06/its-not-for-everyone/)
+- [Many devs devalue their time enormously. ](https://twitter.com/kentcdodds/status/1316728697584381952)
 
 ## Links
 

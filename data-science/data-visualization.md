@@ -56,3 +56,4 @@
 - [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive details-on-demand data visualizations at scale.
 - [Dash Deck](https://github.com/plotly/dash-deck) - Library for building 3D interactive maps and graphical visualizations directly in Dash.
 - [Apache ECharts](https://github.com/apache/incubator-echarts) - Powerful, interactive charting and data visualization library for browser. ([Web](https://echarts.apache.org/en/index.html))
+- [plotly.py](https://github.com/plotly/plotly.py) - Interactive graphing library for Python (includes Plotly Express).

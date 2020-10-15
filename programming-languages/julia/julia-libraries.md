@@ -26,6 +26,7 @@
 - [BlackBoxOptim](https://github.com/robertfeldt/BlackBoxOptim.jl) - Black-box optimization for Julia.
 - [MappedArrays](https://github.com/JuliaArrays/MappedArrays.jl) - Lazy in-place transformations of arrays.
 - [Pingouin.jl](https://github.com/clementpoiret/Pingouin.jl) - Reimplementation of Raphaelvallat's Pingouin in Julia.
+- [StatsModels](https://github.com/JuliaStats/StatsModels.jl) - Specifying, fitting, and evaluating statistical models in Julia.
 
 ## Biology
 
@@ -94,6 +95,8 @@
 - [NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) - Reversible domain-specific language (DSL) that allow a program to go back to the past. ([HN](https://news.ycombinator.com/item?id=24743813))
 - [CUDAFolds](https://github.com/JuliaFolds/CUDAFolds.jl) - Data-parallelism on CUDA using Transducers.jl and for loops (FLoops.jl).
 - [TheFix.jl](https://github.com/MikaelSlevinsky/TheFix.jl) - Fix for the most common errors made in the REPL.
+- [FancyDiagnostics](https://github.com/JuliaLang/FancyDiagnostics.jl) - Enhance your Julia error message experience.
+- [RandomNumbers](https://github.com/sunoru/RandomNumbers.jl) - Random Number Generators.
 
 ## Links
 

@@ -458,6 +458,11 @@
 - [libgoblin](https://github.com/m4b/goblin) - Impish, cross-platform binary parsing crate, written in Rust.
 - [com-rs](https://github.com/microsoft/com-rs) - Rust Crate for Creating and Consuming COM APIs.
 - [Headcrab](https://github.com/headcrab-rs/headcrab) - Modern Rust debugging library. ([The Soul of a New Debugger](http://nbaksalyar.github.io/2020/07/12/soul-of-a-new-debugger.html))
+- [rust-dlopen](https://github.com/szymonwieloch/rust-dlopen) - Rust library for opening and working with dynamic link libraries.
+- [rust-lazysort](https://github.com/benashford/rust-lazysort) - Iterate in a lazily achieved sorted order.
+- [decimal](https://github.com/alkis/decimal) - Decimal Floating Point arithmetic for rust.
+- [declio](https://github.com/agausmann/declio) - Declarative I/O serialization library.
+- [rye](https://github.com/mpdn/rye) - Minimal, x86-64-only experiment into adding fibers to Rust.
 
 ## Cargo Plugins
 

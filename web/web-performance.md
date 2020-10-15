@@ -102,3 +102,4 @@
 - [Speedlify](https://www.speedlify.dev/) - Benchmark web pages over time. ([Code](https://github.com/zachleat/speedlify))
 - [Sitejoy](https://www.sitejoy.dev/) - Fast & responsive websites that will bring you joy.
 - [A Bit of Performance (2019)](https://www.kizu.ru/a-bit-of-performance/)
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions.

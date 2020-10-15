@@ -6,6 +6,7 @@
 - Data is not always useful and it doesn't matter how much of it you have.
   There’s no mathematical tool to tell you if your hypothesis is true; you can only see whether it is consistent with the data, and if the data is sparse or unclear, your conclusions are uncertain.
 - [By writing the data generating process first, and therefore knowing parameters, you can get more confidence that your model is well constructed.](https://twitter.com/Paradosso/status/1264395365307920385)
+- [Building a data pipeline in 2020 is like building a bridge in the 14th century: You do a lot of work that gets thrown away. Half the job is getting rid of the stuff you don't want. The folks who started it are dead by the time it's done.](https://twitter.com/teej_m/status/1316452684350713856)
 
 ## Links
 
@@ -122,3 +123,6 @@
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 - [Nemo: Data discovery at Facebook (2020)](https://engineering.fb.com/data-infrastructure/nemo/) ([Tweet](https://twitter.com/fulhack/status/1314997524336439296))
 - [Amundsen by Lyft](https://www.amundsen.io/) - Open source data discovery and metadata engine.
+- [Google BigQuery: Node.js Client](https://github.com/googleapis/nodejs-bigquery)
+- [The Modern Data Science Stack (2020)](https://fivetran.com/blog/modern-data-science-stack)
+- [Streamlit Sharing](https://blog.streamlit.io/introducing-streamlit-sharing/) - Platform for deploying, managing, and sharing your apps. ([HN](https://news.ycombinator.com/item?id=24789257))

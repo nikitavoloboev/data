@@ -41,3 +41,5 @@
 - [Deno Apps with WebAssembly, Rust, and WASI (2020)](https://www.secondstate.io/articles/deno-webassembly-rust-wasi/)
 - [Using node modules in Deno (2020)](https://medium.com/samsung-internet-dev/using-node-modules-in-deno-2885600ed7a9)
 - [CAC](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
+- [Go <=> Deno](https://github.com/littledivy/godeno)
+- [Obsidian - GraphQL caching client & server module for Deno (2020)](https://blog.graphqleditor.com/obsidian-graphql-caching-client-server-module-for-deno/)

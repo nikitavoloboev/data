@@ -36,3 +36,6 @@
 - [Terraform and Amazon Web Services (2020)](https://jeffrafter.com/terraform-and-aws/)
 - [TerraGoat](https://github.com/bridgecrewio/terragoat) - Vulnerable Terraform Infrastructure.
 - [On Terraform code structure for scale (2020)](https://sysdogs.com/on-terraform-code-structure-for-scale/)
+- [Terraform at Scale — Modualized Hierachical Layout (2020)](https://medium.com/faun/terraform-at-scale-modualized-hierachical-layout-cb5dbe5a368d) ([HN](https://news.ycombinator.com/item?id=24754778))
+- [Terraform Examples](https://github.com/futurice/terraform-examples) - Terraform samples for all the major clouds you can copy and paste.
+- [Pre Commit Terraform](https://github.com/antonbabenko/pre-commit-terraform) - Pre Commit git hooks to take care of Terraform configurations.

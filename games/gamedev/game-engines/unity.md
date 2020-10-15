@@ -10,3 +10,4 @@
 - [An Investor's Guide to Unity (2020)](https://www.stooge.io/an-investors-guide-to-unity/)
 - [Working with Unity and GitHub (2020)](https://jeffrafter.com/unity-and-github/)
 - [Basic Concepts in Unity for Software Engineers (2020)](https://blog.eyas.sh/2020/10/unity-for-engineers-pt1-basic-concepts/) ([HN](https://news.ycombinator.com/item?id=24750263))
+- [Unity Open Project #1: Action-adventure](https://github.com/UnityTechnologies/open-project-1)

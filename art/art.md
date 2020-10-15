@@ -170,6 +170,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
+- [Michael Kozlowski](https://www.instagram.com/mpkoz/)
 - [Alice Zhang](https://www.instagram.com/alicexz/)
 - [Marko Dieckmann](https://www.instagram.com/ionlands/)
 - [Nick Archer](https://www.instagram.com/archer.nick/)

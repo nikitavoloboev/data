@@ -54,7 +54,7 @@ Go promotes composition over inheritance.
 - [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/)
 - [Golang interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Go in 5 minutes](https://github.com/arschles/go-in-5-minutes)
-- [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
+- [Learn Go with tests](https://github.com/quii/learn-go-with-tests) ([Web](https://quii.gitbook.io/learn-go-with-tests/))
 - [Using Instruments to profile Go programs](https://rakyll.org/instruments/)
 - [Design Philosophy On Packaging](https://www.ardanlabs.com/blog/2017/02/design-philosophy-on-packaging.html)
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
@@ -349,3 +349,6 @@ Go promotes composition over inheritance.
 - [goup](https://github.com/owenthereal/goup) - Elegant Go version manager. ([Article](https://owenou.com/goup/))
 - [C2go](https://github.com/andybalholm/c2go) - C to Go translation tool.
 - [Statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.).
+- [Minimal go webapp (2020)](https://www.tomas.io/articles/go-webapp)
+- [Test with Go](https://testwithgo.com/) - Learn how to test real, complex software written in Go.
+- [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)

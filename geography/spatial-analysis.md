@@ -29,3 +29,5 @@
 - [Seeing how it all unfolds (2020)](https://erdavis.com/2020/06/19/seeing-how-it-all-unfolds/)
 - [Very spatial people to follow on Twitter (2020)](https://spatialawareness.xyz/blog/very-spatial-people-to-follow-on-twitter/) ([Tweet](https://twitter.com/robhawkes/status/1280055131178926080))
 - [Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geopandas/geo-arrow-spec)
+- [IMDF - Indoor Mapping Data Format](https://register.apple.com/resources/imdf/) ([HN](https://news.ycombinator.com/item?id=24763023))
+- [React-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - React wrapper for mapbox-gl-js.

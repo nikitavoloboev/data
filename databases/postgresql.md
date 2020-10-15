@@ -149,3 +149,5 @@
 - [Measuring the Memory Overhead of a Postgres Connection (2020)](https://blog.anarazel.de/2020/10/07/measuring-the-memory-overhead-of-a-postgres-connection/) ([HN](https://news.ycombinator.com/item?id=24735012))
 - [prostgles-server](https://github.com/prostgles/prostgles-server-js) - Isomorphic PostgreSQL client for node. ([Web](https://prostgles.com/))
 - [pg_squeeze: Optimizing PostgreSQL storage (2020)](https://www.cybertec-postgresql.com/en/pg_squeeze-optimizing-postgresql-storage/)
+- [CYBERTEC PostgreSQL](https://github.com/cybertec-postgresql) - Professional PostgreSQL services. ([Web](https://www.cybertec-postgresql.com/en/))
+- [Efficient Evenly Distributed Sampling of Time Series Records in PostgreSQL (2020)](https://blog.joshsoftware.com/2020/10/14/efficient-evenly-distributed-sampling-of-time-series-records-in-postgresql/)

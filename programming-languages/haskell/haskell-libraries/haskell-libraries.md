@@ -54,6 +54,9 @@
 - [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
 - [ByteString](https://github.com/haskell/bytestring) - Fast, Packed Strings of Bytes.
 - [in-other-words](https://github.com/KingoftheHomeless/in-other-words) - Higher-order effect system where the sky's the limit.
+- [prolens](https://github.com/kowainik/prolens) - Profunctor based lightweight implementation of Lenses.
+- [stm-incremental](https://github.com/SamuelSchlesinger/stm-incremental) - Exposes an interface for incremental computation using software transactional memory in Haskell.
+- [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics.
 
 ## Links
 

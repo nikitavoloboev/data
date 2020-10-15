@@ -50,3 +50,4 @@
 - [3D Icons](https://www.iconshock.com/3d-icons/)
 - [Radical Icons](https://radicalicons.com/) - Radical, hand-drawn SVGs.
 - [Radix Icons](https://icons.modulz.app/) - Crisp set of 15×15 icons designed by the Modulz team. ([Code](https://github.com/modulz/radix-icons))
+- [System UIcons](https://systemuicons.com/) - Collection of open source icons designed for products and systems in mind. Each icon is on a 21x21 grid. ([Code](https://github.com/CoreyGinnivan/system-uicons))

@@ -44,3 +44,4 @@
 - [Amazon Sidewalk Privacy and Security Whitepaper](https://m.media-amazon.com/images/G/01/sidewalk/privacy_security_whitepaper_final.pdf) ([HN](https://news.ycombinator.com/item?id=24565259))
 - [Introducing Twilio Microvisor IoT Platform (2020)](https://www.twilio.com/blog/introducing-microvisor)
 - [IoT Pentesting](https://www.iotpentest.com/)
+- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)

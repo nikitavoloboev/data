@@ -141,3 +141,6 @@
 - [Benchmkarking Optimizers in PyTorch (2020)](https://blog.paperspace.com/optimization-in-deep-learning/)
 - [ShrinkBench](https://github.com/JJGO/shrinkbench) - PyTorch library to facilitate development and standardized evaluation of neural network pruning methods.
 - [Asteroid](https://github.com/mpariente/asteroid) - PyTorch-based audio source separation toolkit for researchers.
+- [The Hitchhikers's Guide to PyTorch for Data Scientists (2020)](https://hackernoon.com/the-hitchhikerss-guide-to-pytorch-for-data-scientists-ux1i3td4)
+- [Pointnet2/Pointnet++ PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch)
+- [Dreamer PyTorch](https://github.com/juliusfrost/dreamer-pytorch) - Dream to Control: Learning Behaviors by Latent Imagination, implemented in PyTorch.

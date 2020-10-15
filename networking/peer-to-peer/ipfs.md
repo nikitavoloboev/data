@@ -38,3 +38,5 @@ I especially like the distinction of distributing content over distributing link
 - [IPSE](https://www.ipse.io/) - IPFS Search Engine. Distributed Search.
 - [Nix × IPFS – Milestone 1 (2020)](https://blog.ipfs.io/2020-09-08-nix-ipfs-milestone-1/) ([HN](https://news.ycombinator.com/item?id=24621276))
 - [go-orbit-db](https://github.com/berty/go-orbit-db) - P2P Database on IPFS.
+- [Sci-Hub and Library Genesis on IPFS (2020)](https://www.reddit.com/r/DataHoarder/comments/jb1hkn/p2p_free_library_help_build_humanitys_free/)
+- [DKV (Decentralized Key-Value Store) built on IPFS](https://github.com/mikeal/dkv)

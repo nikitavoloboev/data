@@ -44,6 +44,7 @@
 - [Atlassian Design System](https://atlassian.design/)
 - [UI Playbook](https://uiplaybook.dev/)
 - [Dracula UI](https://draculatheme.com/ui) - Dark-first collection of UI patterns and components.
+- [@polkadot/ui](https://github.com/polkadot-js/ui) ([Web](https://polkadot.js.org/ui/))
 
 ## Links
 
@@ -79,3 +80,4 @@
 - [The design systems between us (2020)](https://ethanmarcotte.com/wrote/the-design-systems-between-us/)
 - [Reimagining Design Systems at Spotify (2019)](https://spotify.design/article/reimagining-design-systems-at-spotify)
 - [Radius Design Kit - Figma](https://www.figma.com/community/file/831997833675385869) - Collection of open-source tools and libraries that allow you to accelerate your own design system.
+- [Awesome Design Systems Jobs](https://github.com/honzatmn/awesome-design-systems-jobs)

@@ -23,3 +23,5 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Dealing With Insomnia (2020)](https://jacquesmattheij.com/dealing-with-insomnia/) ([HN](https://news.ycombinator.com/item?id=23810506))
 - [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/) ([HN](https://news.ycombinator.com/item?id=24170225))
 - [Bedroom Tech (2020)](https://twitter.com/nateliason/status/1309119185646161920)
+- [The Stages of Insomnia](https://www.mcsweeneys.net/articles/the-52-stages-of-insomnia) ([HN](https://news.ycombinator.com/item?id=24781337))
+- [11 Exercises For Better Sleep (2020)](https://www.nytimes.com/2020/10/10/at-home/exercises-for-better-sleep.html)

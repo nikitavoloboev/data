@@ -35,3 +35,4 @@
 - [Tailwind Play](https://play.tailwindcss.com/) - Official Tailwind CSS playground. ([Intro article](https://blog.tailwindcss.com/introducing-tailwind-play)) ([Code](https://github.com/tailwindlabs/play.tailwindcss.com))
 - [Sidewind](https://github.com/survivejs/sidewind) - Tailwind but for state. ([Docs](https://sidewindjs.com/))
 - [Tailwind CSS Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Better base for styling form elements with Tailwind CSS.
+- [Tailwind UI CSS Components](https://tailwindui.com/components) - Collection of professionally designed, pre-built, fully responsive HTML snippets you can drop into your Tailwind projects.

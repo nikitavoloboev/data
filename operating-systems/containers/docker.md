@@ -64,3 +64,4 @@
 - [Docker Sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development.
 - [Docker Sync Boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate)
 - [Penguins in Docker - A Tutorial on Why We Use Docker (2020)](https://www.ezzeddinabdullah.com/posts/penguins-in-docker-a-tutorial-on-why-we-use-docker)
+- [Dockerfile Security Best Practices (2020)](https://cloudberry.engineering/article/dockerfile-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=24776771)) ([Code](https://github.com/gbrindisi/dockerfile-security))

@@ -80,3 +80,5 @@
 - [Tips for generating an elevator pitch (2020)](https://twitter.com/lpolovets/status/1309646003021123584)
 - [EU funding options (2020)](https://news.ycombinator.com/item?id=24601457)
 - [OpenDeck](https://opendeck.app/) - 1,200 startup slide decks by category – Team, Market, Funding. ([HN](https://news.ycombinator.com/item?id=24745542))
+- [How to Build a Great Series A Pitch and Deck (2020)](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) ([HN](https://news.ycombinator.com/item?id=24780152))
+- [How founders are finding new ways to grab investor attention (2020)](https://www.protocol.com/pitch-deck-not-yet-dead)

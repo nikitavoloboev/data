@@ -46,3 +46,4 @@
 - [Опять ничего не получается Ну и пожалуйста,ну и не надо](https://www.youtube.com/watch?v=6HSWn0kEb80)
 - [When someone asks how I'm doing](https://twitter.com/yayalexisgay/status/1312914775211421700)
 - [Me not bothering about 2020 anymore](https://twitter.com/KarmenJ_97/status/1313210331729203203)
+- [Unifying the Technical Interview (2020)](https://aphyr.com/posts/354-unifying-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24782175))

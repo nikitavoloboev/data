@@ -74,3 +74,7 @@
 - [RequestBin.com](https://requestbin.com/) - Modern request bin to collect, inspect and debug HTTP requests and webhooks.
 - [wrk2](https://github.com/giltene/wrk2) - Constant throughput, correct latency recording variant of wrk.
 - [Hetty](https://github.com/dstotijn/hetty) - HTTP toolkit for security research.
+- [ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time.
+- [cURL security anti-patterns (2020)](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
+- [nghttp3](https://github.com/ngtcp2/nghttp3) - Implementation of HTTP/3 mapping over QUIC and QPACK in C.
+- [aria2](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility operated in command-line.

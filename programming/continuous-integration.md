@@ -19,3 +19,4 @@
 - [Platform.sh](https://platform.sh/) - End-to-end cloud PaaS for hosting, development, and deployment. ([Docs](https://docs.platform.sh/))
 - [Drone CI](https://drone.io/) - Automate Software Testing and Delivery.
 - [PipeCD](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications. ([Web](https://pipecd.dev/))
+- [Conducto](https://www.conducto.com/) - Radically Better CI/CD. Python, not YAML. Lightning quick debugging. Seamless GitHub and Slack integration. ([Lobsters](https://lobste.rs/s/dx53xy/conducto_next_gen_ci_cd_python_not_yaml))

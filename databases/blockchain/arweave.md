@@ -12,3 +12,4 @@
 - [Arweave JS](https://github.com/ArweaveTeam/arweave-js) - JS/TS SDK for interacting with the Arweave network and uploading data ot the permaweb.
 - [PermaSee](https://permasee.com/) - Arweave's permaweb search engine.
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Simple, scalable smart contracts on the Arweave protocol.
+- [cacheweave](https://github.com/johnletey/cacheweave) - Arweave caching made simple.

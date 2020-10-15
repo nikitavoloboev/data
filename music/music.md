@@ -65,3 +65,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Why do Musical Scales Have Certain Numbers of Notes? (2020)](https://www.lucaspauker.ml/articles/16)
 - [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer compatible with Subsonic/Airsonic. ([Code](https://github.com/deluan/navidrome))
 - [Cyanite.ai](https://cyanite.ai/) - Artificial music intelligence listens to and categorizes millions of songs in minutes, helping you to deliver the right music content, no matter the use case.
+- [Download All Your Historical last.fm Data (2020)](https://mathieuhendey.com/2020/10/download-all-your-historical-last.fm-data/)

@@ -36,3 +36,4 @@
 - [Learn Racket in Y Minutes](https://learnxinyminutes.com/docs/racket/)
 - [RacketCon](https://con.racket-lang.org/)
 - [Parsing propositional logic in 33 lines of Racket (2020)](https://micahcantor.xyz/blog/logic-racket-parser)
+- [Racket Continuations Study Group](https://github.com/rain-1/continuations-study-group)

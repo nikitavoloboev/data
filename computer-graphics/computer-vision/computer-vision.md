@@ -111,3 +111,6 @@
 - [Flow-edge Guided Video Completion](https://github.com/vt-vl-lab/FGVC)
 - [5 Things to look for in a Computer Vision startup job (2020)](https://insights.ai-jobs.net/5-things-to-look-for-in-a-computer-vision-startup-job/)
 - [Transformers for Image Recognition at Scale (2020)](https://www.youtube.com/watch?v=Gl48KciWZp0) ([HN](https://news.ycombinator.com/item?id=24754538))
+- [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Segmentation method that is designed to deal with the dataset diversity.
+- [batchgenerators](https://github.com/MIC-DKFZ/batchgenerators) - Framework for data augmentation for 2D and 3D image classification and segmentation.
+- [Lookuq](https://www.lookuq.com/create-your-own-app) - App to create object detection projects without coding. ([HN](https://news.ycombinator.com/item?id=24784680))
