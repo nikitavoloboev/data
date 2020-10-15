@@ -46,3 +46,4 @@
 - [Speeding up HTTPS and HTTP/3 negotiation with... DNS (2020)](https://blog.cloudflare.com/speeding-up-https-and-http-3-negotiation-with-dns/) ([Tweet](https://twitter.com/SimmerVigor/status/1311294630198161410))
 - [DNS Flag Day 2020](https://blog.cloudflare.com/dns-flag-day-2020/)
 - [Unbound](https://github.com/NLnetLabs/unbound) - Validating, recursive, and caching DNS resolver. ([Web](https://nlnetlabs.nl/projects/unbound/about/))
+- [namebench](https://github.com/catap/namebench) - Open-source DNS Benchmark Utility.

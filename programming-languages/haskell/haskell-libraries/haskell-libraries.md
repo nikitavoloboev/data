@@ -57,6 +57,7 @@
 - [prolens](https://github.com/kowainik/prolens) - Profunctor based lightweight implementation of Lenses.
 - [stm-incremental](https://github.com/SamuelSchlesinger/stm-incremental) - Exposes an interface for incremental computation using software transactional memory in Haskell.
 - [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics.
+- [Streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition.
 
 ## Links
 

@@ -45,3 +45,4 @@
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 - [Speed Up Your Django Tests book](https://gumroad.com/l/suydt)
 - [django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
+- [Simple JWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - JSON Web Token authentication plugin for the Django REST Framework.

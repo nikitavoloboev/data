@@ -56,3 +56,4 @@
 - [Textile](https://github.com/textileio/textile) - Connects and extends Libp2p, IPFS, and Filecoin.
 - [go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - Kademlia DHT implementation on go-libp2p.
 - [Stealth](https://github.com/tholian-network/stealth) - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p) - Rust Implementation of libp2p networking stack.

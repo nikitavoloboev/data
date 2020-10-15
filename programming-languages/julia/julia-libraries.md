@@ -97,6 +97,7 @@
 - [TheFix.jl](https://github.com/MikaelSlevinsky/TheFix.jl) - Fix for the most common errors made in the REPL.
 - [FancyDiagnostics](https://github.com/JuliaLang/FancyDiagnostics.jl) - Enhance your Julia error message experience.
 - [RandomNumbers](https://github.com/sunoru/RandomNumbers.jl) - Random Number Generators.
+- [StaticModules](https://github.com/MasonProtter/StaticModules.jl) - Statically sized and typed namespace you can use for enclosing julia code and variables without runtime overhead and useable in either the global or local scopes.
 
 ## Links
 

@@ -463,6 +463,7 @@
 - [decimal](https://github.com/alkis/decimal) - Decimal Floating Point arithmetic for rust.
 - [declio](https://github.com/agausmann/declio) - Declarative I/O serialization library.
 - [rye](https://github.com/mpdn/rye) - Minimal, x86-64-only experiment into adding fibers to Rust.
+- [stdsimd](https://github.com/rust-lang/stdsimd) - Rust's standard library portable SIMD API.
 
 ## Cargo Plugins
 

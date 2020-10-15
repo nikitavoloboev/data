@@ -116,6 +116,7 @@
 - [React DnD](https://github.com/react-dnd/react-dnd/) - Drag and Drop for React. ([The secret is it’s just one flat list with pointers and css to make it look nested](https://twitter.com/peterpme/status/1314960743964512259)) ([Multi List Drag and Drop With react-beautiful-dnd, Immer, and useReducer](https://codedaily.io/tutorials/186/Multi-List-Drag-and-Drop-With-react-beautiful-dnd-Immer-and-useReducer))
 - [FullCalendar](https://github.com/fullcalendar/fullcalendar-react) - Official React component for FullCalendar.
 - [React Cookies](https://github.com/reactivestack/cookies) - Load and save cookies within your React application.
+- [react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React component built on top of the mature drag and drop library, Sortable.
 
 ## Links
 

@@ -171,6 +171,7 @@
 - [AccessibilitySnapshot](https://github.com/cashapp/AccessibilitySnapshot) - Makes it simple to add regression tests for accessibility in UIKit.
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) - Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 - [xcframework](https://github.com/jeffctown/xcframework) - Simple tool to create an XCFramework.
+- [DVR](https://github.com/venmo/DVR) - Network testing for Swift.
 
 ## API
 

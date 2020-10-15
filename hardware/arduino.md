@@ -10,3 +10,4 @@
 - [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32)
 - [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/) ([HN](https://news.ycombinator.com/item?id=23676006))
 - [Commanduino Library](https://github.com/croningp/commanduino) - Tools to control Arduino boards seamlessly from Python.
+- [Arduino emulator](https://github.com/ghewgill/emulino)

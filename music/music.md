@@ -66,3 +66,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Navidrome](https://www.navidrome.org/) - Modern Music Server and Streamer compatible with Subsonic/Airsonic. ([Code](https://github.com/deluan/navidrome))
 - [Cyanite.ai](https://cyanite.ai/) - Artificial music intelligence listens to and categorizes millions of songs in minutes, helping you to deliver the right music content, no matter the use case.
 - [Download All Your Historical last.fm Data (2020)](https://mathieuhendey.com/2020/10/download-all-your-historical-last.fm-data/)
+- [Music Training](https://github.com/g-r-a-n-t/music-training) - Practical exercises in music theory and ear training.

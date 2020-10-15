@@ -138,3 +138,4 @@
 - [Inheritance is for sharing an interface (and so is overloading) (2020)](https://quuxplusone.github.io/blog/2020/10/09/when-to-derive-and-overload/)
 - [sigcpp](https://sigcpp.github.io/) - Special Interest Group on C++.
 - [Deep C (and C++) (2011)](https://pvv.ntnu.no/~oma/DeepC_slides_oct2011.pdf)
+- [The joys of C++17 (2019)](https://0xd34df00d.me/posts/2019/09/the-joys-of-cpp17.html)

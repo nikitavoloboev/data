@@ -83,3 +83,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net/) ([HN](https://news.ycombinator.com/item?id=24569083))
 - [DAO Landscape](https://github.com/parrachia/DAO-Landscape)
 - [Zerochain](https://github.com/LayerXcom/zero-chain) - Privacy-preserving blockchain on Substrate. ([Docs](https://layerxcom.github.io/zerochain-book/))
+- [Gnosis Safe Contracts](https://github.com/gnosis/safe-contracts) - Allows secure management of blockchain assets. ([Web](https://gnosis-safe.io/))

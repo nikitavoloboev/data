@@ -344,3 +344,6 @@
 - [Code Smell: Concrete Abstraction (2020)](https://matklad.github.io/2020/08/15/concrete-abstraction.html)
 - [Optional parameters in Rust (2020)](https://vidify.org/blog/rust-parameters/)
 - [Docker+Rust Buildcache](https://github.com/benmarten/sccache-docker-test) - Two strategies to cache rust builds within docker in the minimal example repo.
+- [A Few Github Action “Recipes” for Rust (2020)](https://shift.click/blog/github-actions-rust/)
+- [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell (2020)](https://shift.click/blog/tearcell/)
+- [Layouts and dealloc: An unfortunate aspect of Rust’s allocation API (2020)](https://shift.click/blog/on-dealloc/)
