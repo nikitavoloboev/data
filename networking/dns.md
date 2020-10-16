@@ -47,3 +47,5 @@
 - [DNS Flag Day 2020](https://blog.cloudflare.com/dns-flag-day-2020/)
 - [Unbound](https://github.com/NLnetLabs/unbound) - Validating, recursive, and caching DNS resolver. ([Web](https://nlnetlabs.nl/projects/unbound/about/))
 - [namebench](https://github.com/catap/namebench) - Open-source DNS Benchmark Utility.
+- [Yet Another Kubernetes DNS Latency Story (2020)](https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d)
+- [Oblivious DoH Library](https://github.com/chris-wood/odoh)

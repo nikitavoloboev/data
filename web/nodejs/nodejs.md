@@ -111,3 +111,4 @@
 - [esno](https://github.com/antfu/esno) - TypeScript/ESNext node runtime powered by esbuild.
 - [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
 - [Learning Node.js internals](https://github.com/danbev/learning-nodejs)
+- [Boa](https://alibaba.github.io/pipcook/#/manual/intro-to-boa) - Call python functions from Node.

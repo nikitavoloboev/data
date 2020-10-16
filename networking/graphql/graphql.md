@@ -137,3 +137,4 @@
 - [GraphQL Live Queries](https://github.com/n1ru4l/graphql-live-queries) - Proof of concept implementation of GraphQL Live Queries.
 - [GraphQL is not meant to be exposed over the internet (2020)](https://wundergraph.com/blog/graphql_is_not_meant_to_be_exposed_over_the_internet)
 - [gqtx](https://github.com/sikanhe/gqtx) - Thin layer on top of graphql-js for writing a type-safe GraphQL server in TypeScript.
+- [Apollo Server](https://github.com/apollographql/apollo-server) - GraphQL server for Express, Connect, Hapi, Koa and more.

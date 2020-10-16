@@ -260,3 +260,4 @@
 - [14,000x Speedup a.k.a. Computer Science for the Win (2020)](http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html) ([HN](https://news.ycombinator.com/item?id=24764605))
 - [Computers Are Hard: building software with David Heinemeier Hansson (2020)](https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e)
 - [Crafting Functions](https://stopa.io/post/251) ([HN](https://news.ycombinator.com/item?id=24779624))
+- [Handling Bidirectional Control Flow (2020)](https://www.cs.cornell.edu/andru/papers/ufo/)

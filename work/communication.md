@@ -50,3 +50,5 @@
 - [List of interesting questions to get to know people better](https://docs.google.com/document/d/1K_iFxFt9lh1i0mxKRIhOSd2e8X1LNvxnihbChKXhyOc/mobilebasic)
 - [The Most Important Non-Programming Skills for Programmers (2020)](https://welearncode.com/most-important-nonprogramming/) ([HN](https://news.ycombinator.com/item?id=24577876))
 - [How to take meeting notes](https://vasilishynkarenka.com/meeting-notes/)
+- [Virtual First Toolkit: How to communicate effectively (2020)](https://blog.dropbox.com/topics/work-culture/-virtual-first-toolkit--how-to-communicate-effectively)
+- [Embracing Asynchronous Communication at Gitlab](https://about.gitlab.com/company/culture/all-remote/asynchronous/#async-30-at-gitlab) ([HN](https://news.ycombinator.com/item?id=24800006))

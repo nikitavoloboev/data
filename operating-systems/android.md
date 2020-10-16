@@ -21,3 +21,4 @@
 - [Android In a Box](https://anbox.io/) - Run Android applications on any GNU/Linux operating system. ([HN](https://news.ycombinator.com/item?id=24684187))
 - [AinD: Android (Anbox) in Docker](https://github.com/aind-containers/aind)
 - [Oboe](https://github.com/google/oboe) - C++ library that makes it easy to build high-performance audio apps on Android.
+- [Robotnix](https://github.com/danielfullmer/robotnix) - Build Android (AOSP) using Nix.

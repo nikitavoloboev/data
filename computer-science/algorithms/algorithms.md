@@ -52,6 +52,7 @@
 - [How to design an algorithm (2018)](https://www.adamconrad.dev/blog/how-to-design-an-algorithm/)
 - [CSE 373 – Introduction to Algorithms, by Steven Skiena (2020)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
 - [Computer Algorithms II course (2020)](http://homepages.math.uic.edu/~lreyzin/f20_mcs501/)
+- [Improving Binary Search by Guessing (2019)](https://notebook.drmaciver.com/posts/2019-04-30-13:03.html)
 
 ## Images
 

@@ -60,3 +60,4 @@
 - [NASA technical note: Lunar sample processing](https://core.ac.uk/download/pdf/42881927.pdf)
 - [100k Stars](http://stars.chromeexperiments.com/) ([HN](https://news.ycombinator.com/item?id=24702874))
 - [Space Engine](http://spaceengine.org/) - Universe simulator. ([HN](https://news.ycombinator.com/item?id=9581818))
+- [Life on Venus - Deep Dive (2020)](https://www.youtube.com/watch?v=8UJSHKIFiD8)

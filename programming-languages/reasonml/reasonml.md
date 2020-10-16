@@ -63,3 +63,4 @@
 - [Gabriel Nordeborn - ReasonRelay Demo (2020)](https://www.youtube.com/watch?v=fjbV0-OGuf4)
 - [ReScript](https://rescript-lang.org/) - Compiled language to JS. ([Code](https://github.com/rescript-lang/rescript-compiler))
 - [ReScript Docs](https://rescript-lang.org/docs/latest) ([Code](https://github.com/reason-association/rescript-lang.org))
+- [Easy cross compilation using esy [Reason/OCaml] (2020)](https://discuss.ocaml.org/t/ann-easy-cross-compilation-using-esy/6612)

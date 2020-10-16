@@ -35,5 +35,5 @@
 - [Practical guide to Racket macros](https://github.com/greghendershott/fear-of-macros)
 - [Learn Racket in Y Minutes](https://learnxinyminutes.com/docs/racket/)
 - [RacketCon](https://con.racket-lang.org/)
-- [Parsing propositional logic in 33 lines of Racket (2020)](https://micahcantor.xyz/blog/logic-racket-parser)
+- [Parsing propositional logic in 33 lines of Racket (2020)](https://micahcantor.xyz/blog/logic-racket-parser) ([HN](https://news.ycombinator.com/item?id=24764648))
 - [Racket Continuations Study Group](https://github.com/rain-1/continuations-study-group)

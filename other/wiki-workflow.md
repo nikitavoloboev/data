@@ -115,6 +115,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Neil's Noodlemaps](https://commonplace.doubleloop.net/)
 - [chl's org file notes](https://github.com/even4void/org)
+- [Cosma Shalizi](http://bactra.org/) ([Notebooks](http://bactra.org/notebooks/))
 - [Roy Niang](https://royniang.com/home.html) ([Code](https://git.sr.ht/~royniang/koikoi))
 - [Rob Haisfields's Roam](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z)
 - [Hyperfine Village](https://roamresearch.com/#/app/hyperfinelabs/page/TYt89wtA7)
@@ -255,3 +256,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [NoteApps](https://www.noteapps.info/) - Encyclopedia of note taking apps. ([Launch Notes](https://www.noteapps.info/launch_note)) ([Lobsters](https://lobste.rs/s/uii8of/noteapps_info_launch_notes))
 - [Organising knowledge with multi-level content: Making knowledge easier to understand, remember and communicate (2018)](https://www.francismiller.com/organising_knowledge_paper.pdf)
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) - Emacs package for a Zettelkasten system.
+- [Luhmann's Original Zettelkasten Digitalized (2020)](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V) ([HN](https://news.ycombinator.com/item?id=24794569))

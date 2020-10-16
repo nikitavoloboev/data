@@ -113,3 +113,5 @@
 - [The Little Strangler](https://docs.google.com/document/d/e/2PACX-1vSgPIhl1jt6G7vaeN6NDzBLCatZ2tU_NwjQarpJTSwS2Y5P7gp0N11xPH_6bNq0YE2bkj4B6mA8Gfoe/pub) ([Lobsters](https://lobste.rs/s/ilqthq/little_strangler))
 - [A Review of Consensus Protocols (2020)](https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols) ([HN](https://news.ycombinator.com/item?id=24768971))
 - [Disel: Distributed Separation Logic](https://github.com/DistributedComponents/disel) - Separation-style logic for compositional verification of distributed systems.
+- [raft-zero](https://github.com/Diggsey/raft-zero) - Implementation of the Raft consensus algorithm on top of the act-zero actor framework.
+- [raft-playground](https://github.com/Diggsey/raft-playground) - Application to simulate and test a Raft cluster, using raft-zero.

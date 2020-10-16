@@ -162,3 +162,5 @@
 - [Explore trained spaCy v3.0 pipelines](https://share.streamlit.io/ines/spacy-streamlit-demo/master/app.py)
 - [spacy-streamlit](https://github.com/explosion/spacy-streamlit) - sGpaCy building blocks for Streamlit apps. ([Tweet](https://twitter.com/_inesmontani/status/1316781893791158273))
 - [Informers](https://github.com/ankane/informers) - State-of-the-art natural language processing for Ruby.
+- [How to Structure and Manage Natural Language Processing (NLP) Projects (2020)](https://neptune.ai/blog/how-to-structure-and-manage-nlp-projects-templates)
+- [Sentence-BERT for spaCy](https://github.com/MartinoMensio/spacy-sentence-bert) - Wraps sentence-transformers (also known as sentence-BERT) directly in spaCy.

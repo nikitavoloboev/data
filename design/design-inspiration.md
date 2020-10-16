@@ -337,9 +337,11 @@ Here are few more things I liked, design wise.
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Marcos Alonso](http://marcosalonso.com/)
 - [Jamie Crisman](https://longest.voyage/)
+- [Jamie Wong](http://jamie-wong.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
 - [Jordan O’Connor](https://jdnoc.com/)
 - [Leonora Tindall](https://nora.codes/)
+- [Sasank Chilamkurthy](https://chsasank.github.io/) ([Code](https://github.com/chsasank/chsasank.github.io))
 - [Greg Berge](https://gregberge.com/)
 - [JP Simard](https://www.jpsim.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
@@ -401,6 +403,7 @@ Here are few more things I liked, design wise.
 - [Kenneth Reitz](https://www.kennethreitz.org/)
 - [Jan-Lukas Else](https://jlelse.dev/)
 - [autophagy](http://autophagy.io/)
+- [Jonathan Clem](https://jclem.net/)
 - [Seana Burns](http://seenaburns.com/)
 - [Maddie](http://maddie.io/) - Clean.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.

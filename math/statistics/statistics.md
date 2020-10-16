@@ -63,3 +63,5 @@
 - [Using python to work with time series data](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [Structural Time Series book](https://structural-time-series.fastforwardlabs.com/)
 - [Introduction to Causal Inference course (2020)](https://www.bradyneal.com/causal-inference-course)
+- [My Master's Degree in Statistics](https://github.com/fsaforo1/my-masters-degree-in-statistics) - Curated list of resources.
+- [The Unreasonable Effectiveness of Quasirandom Sequences (2020)](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)

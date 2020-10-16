@@ -78,6 +78,7 @@
 - [“Powered by” buttons for customer acquisition (2020)](https://zerotousers.substack.com/p/how-43-founders-got-their-first-users) ([HN](https://news.ycombinator.com/item?id=24745007))
 - [How to post on Hacker News (2020)](https://wiredcraft.com/blog/how-to-post-on-hacker-news/)
 - [10+ Proven Startup Marketing Ideas That Won’t Break Your Bank (2020)](https://www.classicinformatics.com/blog/proven-startup-marketing-ideas)
+- [Dealify](https://www.dealify.com/) - Deals Platform for Growth Hackers.
 
 ## Images
 

@@ -105,3 +105,6 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [mc2](https://github.com/mc2-project/mc2) - Multiparty Collaboration + Coopetition projects.
 - [Google Security Research](https://github.com/google/security-research) - Hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google.
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
+- [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS Detection Suite.
+- [GHunt](https://github.com/mxrch/GHunt) - Investigate Google Accounts with emails.
+- [HideAndSec](https://hideandsec.sh/) - Group of cybersecurity enthusiasts.

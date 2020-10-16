@@ -67,3 +67,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Cyanite.ai](https://cyanite.ai/) - Artificial music intelligence listens to and categorizes millions of songs in minutes, helping you to deliver the right music content, no matter the use case.
 - [Download All Your Historical last.fm Data (2020)](https://mathieuhendey.com/2020/10/download-all-your-historical-last.fm-data/)
 - [Music Training](https://github.com/g-r-a-n-t/music-training) - Practical exercises in music theory and ear training.
+- [Pianojacq](https://pianojacq.com/) - Easy way to learn to play the piano. ([Article](https://jacquesmattheij.com/2020-09-20-pianojacq-learn-to-play-piano/))
+- [spotDL](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata.

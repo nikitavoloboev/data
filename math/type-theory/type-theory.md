@@ -100,3 +100,5 @@
 - [Alg](https://github.com/andrejbauer/alg) - Program that generates all finite models of a first-order theory. It is optimized for equational theories.
 - [Corpse Reviver: Sound and Efficient Gradual Typing via Contract Verification (2020)](https://arxiv.org/abs/2007.12630) ([Tweet](https://twitter.com/yminsky/status/1315983813965742081))
 - [Propositions as types: some missing links (2019)](https://k-bx.github.io/articles/propositions-as-types-missing-links.html)
+- [SPRITE](https://github.com/ranjitjhala/sprite-lang) - Tutorial-style implementation of liquid/refinement types for a subset of Ocaml/Reason.
+- [Refinement Types: A Tutorial (2020)](https://arxiv.org/abs/2010.07763)

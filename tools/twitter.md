@@ -35,3 +35,4 @@
 - [First hands on the new Twitter API (2020)](https://dev.to/bearer/first-hands-on-the-new-twitter-api-44e9)
 - [HuggingTweets](https://github.com/borisdayma/huggingtweets) - Train a model to generate tweets. .
 - [ilo](https://ilo.so/) - Better Twitter analytics.
+- [toptweets.by](https://toptweets.by/) - Use toptweets.by / <user> to see the top tweets by that user. ([Code](https://github.com/michaelrbock/besttweets)) ([Tweet](https://twitter.com/michaelrbock/status/1316952215354048513))

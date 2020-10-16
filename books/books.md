@@ -198,6 +198,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Some good books](https://slate.host/haris/books)
 - [Abhinav Sarkar's books read](https://abhinavsarkar.net/readings/)
 - [Science Fiction Stories with Good Astronomy and Physics: A Topical Index](https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9) ([HN](https://news.ycombinator.com/item?id=24686247))
+- [The 100 Best Fantasy Books of All Time](https://time.com/collection/100-best-fantasy-books/)
 
 ## Notes
 
@@ -284,3 +285,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Chareads](https://chareads.com/) ([YouTube](https://www.youtube.com/c/Chareads/videos))
 - [IntechOpen](https://www.intechopen.com/) - Publisher of Open Access books. By scientists, for scientists.
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+- [How I Made \$30,000 on My First Self-Published Book (2020)](https://randallkanna.medium.com/how-i-made-30k-on-my-first-self-published-book-2f9073dc33e5)

@@ -56,3 +56,4 @@
 - [Tensorflow vs Scikit-learn (2020)](https://mljar.com/blog/tensorflow-vs-scikit-learn/)
 - [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language.
 - [TensorFlow Federated](https://github.com/tensorflow/federated) - Framework for implementing federated learning.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform based on Tensorflow.js.

@@ -49,3 +49,4 @@
 - [Cloud Native Buildpacks](https://buildpacks.io/) - Transform your application source code into images that can run on any cloud.
 - [Bravetools](https://github.com/bravetools/bravetools/) - End-to-end System Container management platform. ([Docs](https://bravetools.github.io/bravetools/))
 - [Packer](https://www.packer.io/) - Build Automated Machine Images. ([Code](https://github.com/hashicorp/packer))
+- [floki](https://github.com/Metaswitch/floki) - Launch containers to help build your software. ([Easy, reproducible, and shareable development environments](https://pure-hack.com/posts/floki/))

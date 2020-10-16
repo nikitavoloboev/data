@@ -13,3 +13,4 @@
 - [TS100 & TS80 Firmware](https://github.com/Ralim/ts100)
 - [binbloom](https://github.com/quarkslab/binbloom) - Raw binary firmware analysis software.
 - [Firmware Analysis and Comparison Tool (FACT)](https://github.com/fkie-cad/FACT_core)
+- [Tasmota](https://github.com/arendst/tasmota/) - Cloud-free open source smart home firmware for ESP8266 devices. ([Docs](https://tasmota.github.io/docs/About/)) ([HN](https://news.ycombinator.com/item?id=24785175))

@@ -58,6 +58,8 @@
 - [stm-incremental](https://github.com/SamuelSchlesinger/stm-incremental) - Exposes an interface for incremental computation using software transactional memory in Haskell.
 - [Reanimate](https://github.com/reanimate/reanimate) - Haskell library for building declarative animations based on SVG graphics.
 - [Streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition.
+- [poly](https://github.com/Bodigrim/poly) - Fast polynomial arithmetic in Haskell.
+- [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit.
 
 ## Links
 

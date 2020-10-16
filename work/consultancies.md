@@ -122,6 +122,7 @@
 - [Metosin](https://www.metosin.fi/en/)
 - [Elements](https://www.elements.nl/en) - Specialist for Digital Design & Development.
 - [HYPE4](https://hype4.com/) - Web and mobile / design and development.
+- [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.
 
 ## Links
 

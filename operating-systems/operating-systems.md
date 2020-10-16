@@ -87,7 +87,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [A dream of an ultimate OS (1995)](http://okmij.org/ftp/papers/DreamOSPaper.html) ([HN](https://news.ycombinator.com/item?id=20754592))
 - [Input/Output Subsystem in Singularity Operating System (2011)](http://students.mimuw.edu.pl/~md234040/master.pdf)
 - [Commute talk: How to start building an OS? (2019)](https://www.youtube.com/watch?v=fqllFKjEZAo)
-- [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html) ([HN](https://news.ycombinator.com/item?id=21446079))
+- [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) ([HN](https://news.ycombinator.com/item?id=21446079))
 - [Mu: Sketching out a minimal system programming language (2019)](http://akkartik.name/post/mu-2019-2) ([Lobsters](https://lobste.rs/s/e39f2x/mu_sketching_out_minimal_system))
 - [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
 - [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.

@@ -70,3 +70,6 @@
 - [Keyboard-driven browser design tool](https://twitter.com/yoshikischmitz/status/1185189779521953798)
 - [Floating Point in the Browser (2020)](https://randomascii.wordpress.com/2020/09/27/floating-point-in-the-browser-part-1-impossible-expectations/) ([Part 2](https://randomascii.wordpress.com/2020/10/11/floating-point-in-the-browser-part-2-bad-epsilon/))
 - [sysend.js](https://github.com/jcubic/sysend.js) - Send messages between open pages or tabs in same browser.
+- [Selenium](https://www.selenium.dev/) - Browser Automation. ([Code](https://github.com/SeleniumHQ/selenium))
+- [Selenium Python: Helium](https://github.com/mherrmann/selenium-python-helium) - Python library for web automation.
+- [Cloudflare Browser Isolation beta (2020)](https://blog.cloudflare.com/browser-beta/) ([HN](https://news.ycombinator.com/item?id=24789293))

@@ -16,3 +16,4 @@
 - [Competitive Programming books](https://cpbook.net/)
 - [Ultimate Competitive Programming setup for VSCode with C, C++ and Python (2020)](https://medium.com/big-data-center-of-excellence/ultimate-competitive-programming-setup-for-vscode-with-c-c-and-python-a638126f85ad)
 - [How to crack HashCode competition with some engineering skills (2020)](https://danlark.org/2020/03/13/how-to-crack-hashcode-competition-with-some-engineering-skills/)
+- [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)

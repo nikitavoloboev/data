@@ -53,6 +53,8 @@
 - [Using Typescript to make invalid states irrepresentable](http://www.javiercasas.com/articles/typescript-impossible-states-irrepresentable)
 - [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
 - [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety.
+- [type-coverage](https://github.com/plantain-00/type-coverage) - CLI tool to check type coverage for typescript code.
+- [TSDoc Standard](https://github.com/Raynos/tsdocstandard) - Standard but also use TypeScript on JS files with jsdoc.
 - [Typescript Generics Tutorial (2019)](https://www.youtube.com/watch?v=nViEqpgwxHE)
 - [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper. Provides an easier way to navigate and manipulate TypeScript and JavaScript code.
 - [tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.

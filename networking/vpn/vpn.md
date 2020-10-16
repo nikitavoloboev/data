@@ -30,3 +30,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [How Does VPN Work? (2020)](https://kean.github.io/post/networking-101)
 - [VPN & datacenter IPs](https://github.com/ejrv/VPNs) - List of datacenter & VPN IP addresses.
 - [Speedify](https://speedify.com/) - Fast, Secure, Reliable VPN for Individuals, Families & Teams.
+- [FreePN](https://www.freepn.org/) - Open-source peer-to-peer VPN service. ([Code](https://github.com/freepn/fpnd)) ([HN](https://news.ycombinator.com/item?id=24796999))

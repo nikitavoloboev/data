@@ -516,6 +516,8 @@
 - [go-ristretto](https://github.com/bwesterb/go-ristretto) - Go implementation of the group operations on the Ristretto prime-order group built from Edwards25519.
 - [ncw/swift](https://github.com/ncw/swift) - Easy to use library for interfacing with Swift / Openstack Object Storage / Rackspace cloud files from the Go Language.
 - [GoFlow](https://github.com/trustmaster/goflow) - Flow-based and dataflow programming library for Go.
+- [io_uring-go](https://github.com/Iceber/iouring-go) - Provides friendly async IO interface with io_uring.
+- [hrtime](https://github.com/loov/hrtime) - High resolution timing and benchmarking for Go.
 
 ## Links
 

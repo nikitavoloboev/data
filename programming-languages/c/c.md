@@ -10,7 +10,8 @@
 - [Understanding pointers](http://drewdevault.com/2016/05/28/Understanding-pointers.html)
 - [c4](https://github.com/rswier/c4) - C in four functions. ([HN](https://news.ycombinator.com/item?id=22353532))
 - [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
-- [One year of C](http://floooh.github.io/2018/06/02/one-year-of-c.html)
+- [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
+  https://floooh.github.io/2018/06/02/one-year-of-c.html
 - [Building C programs](http://seenaburns.com/building-c-programs/)
 - [Tiny Garbage Collector](https://github.com/orangeduck/tgc) - Tiny Garbage Collector for C.
 - [Awesome C](https://github.com/kozross/awesome-c) - Curated list of awesome C frameworks, libraries, resources and other shiny things.

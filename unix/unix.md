@@ -45,3 +45,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/) ([Lobsters](https://lobste.rs/s/zyt4hk/cs631_advanced_programming_unix))
 - [Hurd, seL4, thoughts](https://nalaginrut.com/archives/2019/12/11/hurd%2c%20sel4%2c%20thoughts) ([Lobsters](https://lobste.rs/s/5bfhrj/hurd_sel4_thoughts))
 - [Advanced Editing on Unix (Kernighan)](http://maibriz.de/unix/ultrix/etc/ae.pdf)
+- [The UNIX Time-Sharing System (1974)](https://chsasank.github.io/classic_papers/unix-time-sharing-system.html) ([HN](https://news.ycombinator.com/item?id=24797312))

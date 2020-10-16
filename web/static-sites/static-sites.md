@@ -30,6 +30,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Using React + GraphQL.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic docs generator with Vue component based layout system.
 - [Blades](https://github.com/grego/blades) - Fast static site generator written in Rust. ([Web](https://www.getblades.org/)) ([HN](https://news.ycombinator.com/item?id=24760528))
+- [Presite](https://github.com/egoist/presite) - Static site generator based on Puppeteer.
 
 ## Notes
 

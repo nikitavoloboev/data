@@ -21,3 +21,4 @@
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)
 - [WeightShift](https://weightshift.io/) - Maya plugin for animator friendly, physically-based character animation.
 - [FlowBetween](https://github.com/Logicalshift/flowbetween) - Tool for creating animations. ([Web](https://flowbetween.app/))
+- [History of animation](https://history-of-animation.webflow.io/)

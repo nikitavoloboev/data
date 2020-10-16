@@ -53,3 +53,4 @@ If analytics are used, it's best to implement them server side with something li
 - [userTrack](https://www.usertrack.net/) - Self-Hosted Analytics. ([HN](https://news.ycombinator.com/item?id=24746921))
 - [Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. ([Web](https://ackee.electerious.com/))
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+- [Frovedis](https://github.com/frovedis/frovedis) - Framework of vectorized and distributed data analytics.

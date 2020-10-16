@@ -136,4 +136,6 @@
 - [Nix + Haskell setup](https://twitter.com/acid2/status/1314507569541640192)
 - [caching your nix-shell (2020)](https://fzakaria.com/2020/08/11/caching-your-nix-shell.html)
 - [nix-direnv](https://github.com/nix-community/nix-direnv) - Fast, persistent use_nix implementation for direnv.
-- [NixCon 2020](https://2020.nixcon.org/)
+- [NixCon 2020](https://2020.nixcon.org/) ([Stream](https://www.youtube.com/watch?v=7sQa04olUA0)) ([Code](https://github.com/nixcon/2020.nixcon.org)) ([HN](https://news.ycombinator.com/item?id=24799659))
+- [Nix UX improvements](https://github.com/tweag/nix-ux)
+- [NixCon 2020 talk about Nix flakes](https://github.com/serokell/nixcon2020-talk)

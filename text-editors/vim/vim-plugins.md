@@ -103,6 +103,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [File Explorer](https://github.com/kyazdani42/nvim-tree.lua) - Simple tree for neovim written in lua.
 - [Defx](https://github.com/Shougo/defx.nvim) - Dark powered file explorer implementation.
 - [coc-explorer](https://github.com/weirongxu/coc-explorer) - Explorer for coc.nvim.
+- [nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim.
 
 ## Looks
 

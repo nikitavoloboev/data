@@ -34,6 +34,7 @@
 - [Roland 808303.studio](https://808303.studio/)
 - [Wafxr](https://andyhall.github.io/wafxr/) - Sound effect generator. ([Code](https://github.com/andyhall/wafxr))
 - [wasgen](https://github.com/andyhall/wasgen) - Web Audio sound generator.
+- [Audiobench](https://github.com/joshua-maros/audiobench) - Open source modular synthesizer.
 
 ## Inspiration
 

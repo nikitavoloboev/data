@@ -291,7 +291,7 @@
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [Interact](https://github.com/interact-rs/interact) - Framework for friendly online introspection of the running program state in an intuitive command-line interactive way.
 - [faster](https://github.com/AdamNiederer/faster) - SIMD for humans.
-- [rust-crdt](https://github.com/rust-crdt/rust-crdt) - Collection of well-tested, serializable CRDTs for Rust.
+- [rust-crdt](https://github.com/rust-crdt/rust-crdt) - Collection of well-tested, serializable CRDTs for Rust. ([HN](https://news.ycombinator.com/item?id=24795001))
 - [JSON-RPC](https://github.com/paritytech/jsonrpc) - Rust implementation of JSON-RPC 2.0 Specification. Transport-agnostic core and transport servers for http, ipc, websockets and tcp.
 - [yaml-rust](https://github.com/chyh1990/yaml-rust) - Pure rust YAML implementation.
 - [directories](https://github.com/soc/directories-rs) - Mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows.
@@ -464,6 +464,9 @@
 - [declio](https://github.com/agausmann/declio) - Declarative I/O serialization library.
 - [rye](https://github.com/mpdn/rye) - Minimal, x86-64-only experiment into adding fibers to Rust.
 - [stdsimd](https://github.com/rust-lang/stdsimd) - Rust's standard library portable SIMD API.
+- [act-zero](https://github.com/Diggsey/act-zero) - Actor system for Rust.
+- [Scones](https://github.com/joshua-maros/scones) - Quick and powerful constructor/builder generation in Rust.
+- [rustls-native-certs](https://github.com/ctz/rustls-native-certs) - Integration with OS certificate stores for rustls.
 
 ## Cargo Plugins
 

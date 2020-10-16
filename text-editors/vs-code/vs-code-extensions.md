@@ -69,7 +69,7 @@ Below is a list of extensions I use.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Phi](https://github.com/GuillaumeSalles/phi-vscode) - Design components for web in VSCode. Generate code.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
-- [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer))
+- [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer)) ([Article](https://addyosmani.com/blog/visualize-data-structures-vscode/))
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
 - [Hero Icons](https://marketplace.visualstudio.com/items?itemName=afzalsayed96.heroicons) ([Code](https://github.com/afzalsayed96/vscode-heroicons))

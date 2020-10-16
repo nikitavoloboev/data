@@ -17,3 +17,4 @@
 - [John Conway: Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE)
 - [Modular Forms (2020)](https://ahilado.wordpress.com/2020/05/07/modular-forms/)
 - [MegaFavNumbers](https://www.youtube.com/playlist?list=PLar4u0v66vIodqt3KSZPsYyuULD5meoAo) ([Tweet](https://twitter.com/jamesgrime/status/1296822902327775233))
+- [Lecture notes for Geometry, Algebra, and Number Theory](https://github.com/Multramate/GANT)

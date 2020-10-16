@@ -73,3 +73,4 @@
 - [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
 - [Smooth Doc](https://github.com/gregberge/smooth-doc) - Ready to use documentation theme for Gatsby.
 - [Furo](https://github.com/pradyunsg/furo) - Clean customizable theme for Sphinx.
+- [MyST](https://myst-parser.readthedocs.io/en/latest/) - Fully-functional markdown flavor and parser for Sphinx. ([Code](https://github.com/executablebooks/MyST-Parser))

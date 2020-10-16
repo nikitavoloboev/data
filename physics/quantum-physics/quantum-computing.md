@@ -46,3 +46,4 @@
 - [What Intel Is Planning for The Future of Quantum Computing: Hot Qubits, Cold Control Chips, and Rapid Testing (2020)](https://spectrum.ieee.org/tech-talk/computing/hardware/intels-quantum-computing-plans-hot-qubits-cold-control-chips-and-rapid-testing)
 - [List of quantum information and computation projects in Julia](https://github.com/jlapeyre/JuliaQuantumInformation)
 - [John Preskill - Quantum Computing and Fundamental Physics (2020)](https://www.youtube.com/watch?v=-idmtdl32e4) ([HN](https://news.ycombinator.com/item?id=24717673))
+- [TRIQS (Toolbox for Research on Interacting Quantum Systems)](https://github.com/TRIQS/triqs) - Scientific project providing a set of C++ and Python libraries to develop new tools for the study of interacting quantum systems. ([Web](https://triqs.github.io/triqs/latest/))

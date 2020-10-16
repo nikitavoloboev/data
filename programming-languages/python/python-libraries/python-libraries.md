@@ -165,6 +165,7 @@
 - [pymia](https://github.com/rundherum/pymia) - Python package for data handling and evaluation in deep learning-based medical image analysis.
 - [pyRiemann](https://github.com/alexandrebarachant/pyRiemann) - Python package for covariance matrices manipulation and classification through riemannian geometry.
 - [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export.
+- [attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate. ([Docs](https://www.attrs.org/en/stable/))
 
 ## Links
 

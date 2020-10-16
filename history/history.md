@@ -64,3 +64,6 @@
 - [Before the Web: The 1980s Dream of a Free and Borderless Virtual World (2020)](https://www.youtube.com/watch?v=YWh6Yzr12iQ)
 - [Asterisk (2020)](https://cormullion.github.io/pages/2020-10-09-asterisk/) ([HN](https://news.ycombinator.com/item?id=24733187))
 - [United States Early Radio History](https://earlyradiohistory.us/) ([HN](https://news.ycombinator.com/item?id=24744537))
+- [Iron, How Did They Make It, Part IVb: Work Hardening, or Hardly Working? (2020)](https://acoup.blog/2020/10/16/collections-iron-how-did-they-make-it-part-ivb-work-hardening-or-hardly-working/) ([HN](https://news.ycombinator.com/item?id=24797376))
+- [Look at the history of battle in popular culture Blog](https://acoup.blog/)
+- [The Cold War’s unfinished legacy (2020)](https://www.africasacountry.com/2020/09/the-cold-wars-unfinished-legacy)

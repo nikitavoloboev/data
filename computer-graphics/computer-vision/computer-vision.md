@@ -114,3 +114,4 @@
 - [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Segmentation method that is designed to deal with the dataset diversity.
 - [batchgenerators](https://github.com/MIC-DKFZ/batchgenerators) - Framework for data augmentation for 2D and 3D image classification and segmentation.
 - [Lookuq](https://www.lookuq.com/create-your-own-app) - App to create object detection projects without coding. ([HN](https://news.ycombinator.com/item?id=24784680))
+- [InsightFace](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet. ([Web](http://insightface.ai/))

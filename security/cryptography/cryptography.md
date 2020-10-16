@@ -83,3 +83,4 @@
 - [jsHashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 - [The EMV Standard: Break, Fix, Verify (2020)](https://arxiv.org/abs/2006.08249)
 - [CRISP & CHIP implementation in C++](https://github.com/shapaz/CRISP)
+- [Arithmetic Statistics for Elliptic Curves](https://github.com/Multramate/ArithmeticStatistics)

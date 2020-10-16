@@ -27,3 +27,4 @@
 - [Gradient Free Cloud GPUs](https://gradient.paperspace.com/free-gpu)
 - [Object Detection from 9 FPS to 650 FPS in 6 Steps (2020)](https://paulbridger.com/posts/video_analytics_pipeline_tuning/) ([HN](https://news.ycombinator.com/item?id=24738835))
 - [GPU-Accelerated ODE Solving in R with Julia, the Language of Libraries (2020)](http://www.stochasticlifestyle.com/gpu-accelerated-ode-solving-in-r-with-julia-the-language-of-libraries/)
+- [Detect GPU](https://github.com/TimvanScherpenzeel/detect-gpu) - Classify GPU's based on their benchmark score in order to provide an adaptive experience.

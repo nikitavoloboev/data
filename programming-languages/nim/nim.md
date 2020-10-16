@@ -13,4 +13,5 @@
 - [HN: Nim (2020)](https://news.ycombinator.com/item?id=24178438)
 - [Fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
 - [A guide to documenting, profiling and debugging Nim code (2020)](https://nim-lang.org/blog/2017/10/02/documenting-profiling-and-debugging-nim-code.html#profiling-with-nimprof)
-- [Introduction to ARC/ORC in Nim (2020)](https://nim-lang.org/blog/2020/10/15/introduction-to-arc-orc-in-nim.html) ([HN](https://news.ycombinator.com/item?id=24786649))
+- [Introduction to ARC/ORC in Nim (2020)](https://nim-lang.org/blog/2020/10/15/introduction-to-arc-orc-in-nim.html) ([HN](https://news.ycombinator.com/item?id=24786649)) ([Lobsters](https://lobste.rs/s/lxkqrz/introduction_arc_orc_nim))
+- [Nim 1.4](https://nim-lang.org/blog/2020/10/16/version-140-released.html) ([HN](https://news.ycombinator.com/item?id=24800161))
