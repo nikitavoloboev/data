@@ -68,7 +68,7 @@
 - [The shape of learning](https://twitter.com/azlenelza/status/1294344958992777216) - Playing with visualizing different ways of structuring classes/learning groups.
 - [A Guide to Autodidactism (2020)](https://www.jackkinsella.ie/articles/autodidactism)
 - [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) - Library with links to resources about various topics.
-- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779)) ([Code](https://github.com/learn-awesome/learn))
+- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779)) ([Code](https://github.com/learn-awesome/learn)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/jc1mee/building_a_goodreadsequivalent_for_lifelong/))
 - [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/)
 - [Golden](https://golden.com/explore) - Explore and Contribute to Knowledge. ([HN](https://news.ycombinator.com/item?id=24642566))
 - [How to remember what you learn (2020)](https://vasilishynkarenka.com/learning/) ([HN](https://news.ycombinator.com/item?id=24700647))
