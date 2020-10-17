@@ -468,6 +468,7 @@
 - [act-zero](https://github.com/Diggsey/act-zero) - Actor system for Rust.
 - [Scones](https://github.com/joshua-maros/scones) - Quick and powerful constructor/builder generation in Rust.
 - [rustls-native-certs](https://github.com/ctz/rustls-native-certs) - Integration with OS certificate stores for rustls.
+- [Tokio Tls](https://github.com/tokio-rs/tls) - Collection of Tokio based TLS libraries.
 
 ## Cargo Plugins
 

@@ -319,6 +319,7 @@
 - [Graphology](https://github.com/graphology/graphology) - Robust & multipurpose Graph object for JavaScript & TypeScript. ([Docs](https://graphology.github.io/))
 - [weak-napi](https://github.com/node-ffi-napi/weak-napi) - Make weak references to JavaScript Objects.
 - [nestie](https://github.com/lukeed/nestie) - Tiny (211B) and fast utility to expand a flattened object.
+- [Mock.js](https://github.com/nuysoft/Mock) - Simulation data generator.
 
 ## Links
 

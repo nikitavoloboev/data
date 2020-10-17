@@ -77,3 +77,4 @@
 - [Aperture](https://github.com/lightninglabs/aperture) - HTTP 402 Lightning Service Authentication Token Reverse Proxy.
 - [Kerbrute](https://github.com/ropnop/kerbrute) - Quickly bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication.
 - [OAuth 2.0 Simplified](https://oauth2simplified.com/) - Guide to building OAuth 2.0 servers.
+- [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Generates 2-Step Verification codes in your browser.

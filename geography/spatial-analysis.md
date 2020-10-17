@@ -31,3 +31,4 @@
 - [Specifications for storing geospatial data in Apache Arrow and Apache Parquet](https://github.com/geopandas/geo-arrow-spec)
 - [IMDF - Indoor Mapping Data Format](https://register.apple.com/resources/imdf/) ([HN](https://news.ycombinator.com/item?id=24763023))
 - [React-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) - React wrapper for mapbox-gl-js.
+- [Solaris](https://github.com/CosmiQ/solaris) - Geospatial Machine Learning Analysis Toolkit.

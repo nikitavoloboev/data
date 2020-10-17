@@ -113,3 +113,4 @@
 - [AI safety gridworlds](https://github.com/deepmind/ai-safety-gridworlds) - Suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
 - [RL and Deep-RL implementations](https://github.com/EliorBenYosef/reinforcement-learning)
 - [You don't need reinforcement learning when you have basic physics (2020)](https://npdeep.github.io/cartpole-without-reinforcement-learning.html) ([HN](https://news.ycombinator.com/item?id=24795953))
+- [TensorLayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers. ([Docs](https://tensorlayer.readthedocs.io/en/latest/))

@@ -52,3 +52,4 @@
 - [Optimizt](https://github.com/funbox/optimizt) - CLI tool that helps you prepare images during frontend development.
 - [napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
 - [NeuralHash](https://github.com/nikcheerla/neuralhash) - Adversarial Steganographic Method For Robust, Imperceptible Watermarking.
+- [gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs from image data.

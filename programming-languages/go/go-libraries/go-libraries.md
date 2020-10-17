@@ -518,6 +518,8 @@
 - [GoFlow](https://github.com/trustmaster/goflow) - Flow-based and dataflow programming library for Go.
 - [io_uring-go](https://github.com/Iceber/iouring-go) - Provides friendly async IO interface with io_uring.
 - [hrtime](https://github.com/loov/hrtime) - High resolution timing and benchmarking for Go.
+- [CRDT](https://github.com/neurodrone/crdt) - Go implementation of CRDTs.
+- [XID](https://github.com/rs/xid) - Globally unique id generator library, ready to safely be used directly in your server code.
 
 ## Links
 
