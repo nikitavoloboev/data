@@ -220,3 +220,4 @@
 - [Blunt](https://github.com/f-prime/blunt/) - CSS framework strictly for layouts.
 - [How to Create a Realistic Motion Blur with CSS Transitions (2020)](https://css-tricks.com/how-to-create-a-realistic-motion-blur-with-css-transitions/)
 - [Link hover animation (circled)](https://codepen.io/aaroniker/pen/VwjeGLm)
+- [min(), max(), and clamp(): three logical CSS functions to use today (2020)](https://web.dev/min-max-clamp/)
