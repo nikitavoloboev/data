@@ -224,3 +224,4 @@
 - [Things every developer needs to know about database indexing - Kai Sassnowski (2020)](https://www.youtube.com/watch?v=HubezKbFL7E)
 - [Fizz](https://github.com/gobuffalo/fizz) - Common DSL for Migrating Databases.
 - [SQL vs NoSQL | MySQL vs MongoDB | Relational Databases vs DynamoDB, CosmosDB | When to use each (2020)](https://www.youtube.com/watch?v=hlkLL1R4KCI)
+- [Neural Databases (2020)](https://arxiv.org/abs/2010.06973) ([HN](https://news.ycombinator.com/item?id=24805898))

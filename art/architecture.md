@@ -39,3 +39,4 @@
 - [I Know a Spot](https://iknowaspot.substack.com/)
 - [Amazingly spacious house](https://twitter.com/ariel_n/status/1261038889466130433)
 - [Sverchok](https://github.com/nortikin/sverchok) - Powerful parametric tool for architects, allowing geometry to be programmed visually with nodes.
+- [Animation of how bridges were built in Central Europe in the Middle Ages](https://www.youtube.com/watch?v=nJgD6gyi0Wk) ([HN](https://news.ycombinator.com/item?id=24798302))

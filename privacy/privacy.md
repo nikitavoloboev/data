@@ -62,3 +62,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [HN: Stop the Earn IT Bill Before It Breaks Encryption (2020)](https://news.ycombinator.com/item?id=24695373)
 - [Purism](https://puri.sm/) - Beautiful, Secure, Privacy-Respecting Laptops & Phones.
 - [Purism – Fund Your App](https://puri.sm/fund-your-app/) ([HN](https://news.ycombinator.com/item?id=24721913))
+- [Steps For Better Online Privacy (2020)](https://www.npr.org/2020/10/09/922262686/your-technology-is-tracking-you-take-these-steps-for-better-online-privacy) ([HN](https://news.ycombinator.com/item?id=24807980))
