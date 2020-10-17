@@ -108,3 +108,5 @@
 - [Nicholas Spice · How to play the piano](https://www.lrb.co.uk/the-paper/v14/n06/nicholas-spice/how-to-play-the-piano) ([HN](https://news.ycombinator.com/item?id=24702650))
 - [Open Source Tools and Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html) ([HN](https://news.ycombinator.com/item?id=24748793)) ([Code](https://github.com/source-separation/tutorial))
 - [cchound.com](https://cchound.com/) - Curated library of free music for content creators. ([HN](https://news.ycombinator.com/item?id=24745874))
+- [Kevin Parker (Tame Impala) Talks with Dan Snaith (Caribou) on the Talkhouse Podcast (2020)](https://open.spotify.com/episode/0i2XrBaF22zjQ13YMpg9Pl?si=icEC3xmIQCyV6Y3c82O7OQ) ([Web](https://www.talkhouse.com/kevin-parker-tame-impala-talks-with-dan-snaith-caribou-on-the-talkhouse-podcast/))
+- [Kevin Parker breaks down Tame Impala's 'The Slow Rush' album (2020)](https://www.youtube.com/watch?v=wkT6slu6cOc)

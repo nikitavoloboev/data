@@ -13,6 +13,7 @@
 - [Ghost Story Games](https://www.ghoststorygames.com/)
 - [Cloudhead Games](https://cloudheadgames.com/) - VR Game Studio.
 - [Nolla Games](https://nollagames.com/)
+- [Beamdog](https://www.beamdog.com/)
 
 ## Notes
 

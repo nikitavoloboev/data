@@ -37,7 +37,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Inside the iPhone 11 Camera, Part 1: A Completely New Camera (2019)](https://blog.halide.cam/inside-the-iphone-11-camera-part-1-a-completely-new-camera-28ea5d091071)
 - [Leica Q2 Review](https://www.needoptic.com/leica-q2-review-2019)
 - [Death to Stock](https://deathtothestockphoto.com/) - Artist Owned Co-op that provides you with the most authentic stock photos and videos.
-- [Nikon Small World Competition](https://www.nikonsmallworld.com/galleries/photomicrography-competition)
+- [Nikon Small World Competition](https://www.nikonsmallworld.com/galleries/photomicrography-competition) ([HN](https://news.ycombinator.com/item?id=24796570))
 - [Beautiful buildings in architecture photography prize – in pictures (2020)](https://www.theguardian.com/artanddesign/gallery/2020/jan/28/beautiful-buildings-in-architecture-photography-prize-in-pictures)
 - [PhotoPrism](https://github.com/photoprism/photoprism) - Server-based application for browsing, organizing and sharing your personal photo collection.
 - [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)

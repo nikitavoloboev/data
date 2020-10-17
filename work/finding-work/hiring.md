@@ -14,6 +14,8 @@
 - [Work at Basecamp](https://basecamp.com/about/jobs)
 - [Prisma Labs](https://www.notion.so/Open-positions-at-Prisma-Labs-eb709e36aba8405c8c189fad1c226389) - Likes that it uses Notion to list/maintain the jobs.
 - [Gumroad](https://www.notion.so/Open-positions-f43f816013b2405aa41ddefb663a4a38)
+- [Ueno Careers](https://ueno.co/careers/)
+- [Apple Jobs](https://www.apple.com/jobs/us/)
 
 ## Notes
 
