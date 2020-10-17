@@ -52,3 +52,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Evolution of Telegram](https://telegram.org/evolution)
 - [Building a Telegram bot with Apache Kafka and ksqlDB](https://talks.rmoff.net/JG780y/building-a-telegram-bot-with-apache-kafka-and-ksqldb)
 - [MTProto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API.
+- [Convert telegram channel to an email newsletter](https://articlius.com/home/SubscribeToTelegramChannelNewsletter)
