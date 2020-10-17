@@ -105,3 +105,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Granularity levels in AWS IAM policies (2020)](https://advancedweb.hu/granularity-levels-in-aws-iam-policies/)
 - [AWS Toolkit for Visual Studio Code](https://github.com/aws/aws-toolkit-vscode) - Extension for working with AWS services such as AWS Lambda.
 - [AWS Copilot CLI](https://github.com/aws/copilot-cli) - Tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
+- [Top 5 AWS EC2 Performance Problems (2020)](https://www.datadoghq.com/pdf/top_5_aws_ec2_performance_problems_ebook.pdf)
