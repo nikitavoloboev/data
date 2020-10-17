@@ -36,3 +36,4 @@
 - [Thanks for Subscribing](https://www.thanksforsubscribing.app/) - Find the best newsletters for your taste.
 - [Substack Rhymes With Medium (2020)](https://napkinmath.substack.com/p/substack-rhymes-with-medium)
 - [Revue](https://www.getrevue.co/) - Editorial newsletter tool for writers and publishers..
+- [Substack Became Milquetoast (2020)](https://nintil.com/substack-milquetoast) ([HN](https://news.ycombinator.com/item?id=24812887))

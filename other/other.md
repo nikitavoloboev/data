@@ -356,3 +356,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Hacker News Day](https://hackernewsday.com/)
 - [What if we had Local-First Software? (2020)](https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first) ([HN](https://news.ycombinator.com/item?id=24790170))
 - [100 Rabbits Themes](https://github.com/hundredrabbits/Themes) - Application themes and tools used across the Hundred Rabbits Ecosystem.
+- [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
