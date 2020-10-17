@@ -309,6 +309,7 @@
 - [Phasic Policy Gradient](https://github.com/openai/phasic-policy-gradient)
 - [Juergen Schmidhuber ML reading list (2015)](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp5c0py/)
 - [Machine Learning Primer for Interviews](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf)
+- [Confetti AI](https://www.confetti.ai/) - Ace Your Machine Learning Interviews.
 - [Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks by Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for machine learning. ([Web](http://manifold.mlvis.io/))
 - [Making With ML YouTube series](https://github.com/google/making_with_ml)

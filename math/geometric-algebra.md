@@ -16,3 +16,4 @@
 - [Geometric Calculus Research & Development](http://geocalc.clas.asu.edu/)
 - [Applications of Clifford’s Geometric Algebra (2013)](https://arxiv.org/pdf/1305.5663.pdf)
 - [Hugo Hadfield and Eric Wieser explore how Conformal Geometric Algebra can be used to simplify robot kinematics (2020)](https://www.youtube.com/watch?v=bj9JslblYPU)
+- [Comments on "Projective Geometric Algebra Done Right" (2020)](https://www.jeremyong.com/math/2020/01/24/comments-on-projective-geometric-algebra-done-right/)

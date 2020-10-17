@@ -136,3 +136,6 @@
 - [Scientists find upper limit for the speed of sound (2020)](https://phys.org/news/2020-10-scientists-upper-limit.html) ([HN](https://news.ycombinator.com/item?id=24736738))
 - [Room-Temperature Superconductivity Achieved for the First Time (2020)](https://www.quantamagazine.org/physicists-discover-first-room-temperature-superconductor-20201014/) ([HN](https://news.ycombinator.com/item?id=24777268))
 - [Cantera](https://github.com/Cantera/cantera) - Chemical kinetics, thermodynamics, and transport tool suite. ([Web](https://cantera.org/))
+- [Q&A with 2020 Nobel laureate Roger Penrose (2020)](https://www.youtube.com/watch?v=fQPUYjoG5jI)
+- [What is relativity, anyway? (2020)](https://maxhodak.com/nonfiction/2020/09/18/relativity.html)
+- [Spacetime Physics book (1992)](http://www.eftaylor.com/spacetimephysics/) - By Taylor and Wheeler (Feynman's PhD advisor).

@@ -81,7 +81,7 @@
 - [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift. ([Code](https://github.com/pointfreeco/pointfreeco))
 - [Swift Dev](https://theswiftdev.com/) - Weekly Swift articles.
 - [tree-sitter-swift](https://github.com/tree-sitter/tree-sitter-swift) - Swift grammar for tree-sitter.
-- [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874) ([GitHub doc](https://github.com/apple/swift/blob/main/docs/CppInteroperabilityManifesto.md))
+- [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874) ([GitHub doc](https://github.com/apple/swift/blob/main/docs/CppInteroperabilityManifesto.md)) ([HN](https://news.ycombinator.com/item?id=24808968))
 - [Swift Evolution](https://apple.github.io/swift-evolution/) - Proposals for changes and user-visible enhancements to Swift. ([Code](https://github.com/apple/swift-evolution))
 - [Swift AST Explorer](https://swift-ast-explorer.kishikawakatsumi.com/) ([Code](https://github.com/kishikawakatsumi/swift-ast-explorer-playground))
 - [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - Example of Procreate's Undo and Redo gestures.

@@ -67,3 +67,4 @@
 - [Iron, How Did They Make It, Part IVb: Work Hardening, or Hardly Working? (2020)](https://acoup.blog/2020/10/16/collections-iron-how-did-they-make-it-part-ivb-work-hardening-or-hardly-working/) ([HN](https://news.ycombinator.com/item?id=24797376))
 - [Look at the history of battle in popular culture Blog](https://acoup.blog/)
 - [The Cold War’s unfinished legacy (2020)](https://www.africasacountry.com/2020/09/the-cold-wars-unfinished-legacy)
+- [Welcome to the Old Internet Again](http://theoldnet.com/) ([HN](https://news.ycombinator.com/item?id=24808071))

@@ -24,3 +24,4 @@
 - [Tracing at Slack: Thinking in Causal Graphs (2020)](https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/)
 - [slog](https://github.com/monzo/slog) - Go library for capturing structured log information.
 - [Logging Levels: What They Are & How to Choose Them](https://sematext.com/blog/logging-levels/) ([Lobsters](https://lobste.rs/s/xilpkm/logging_levels_what_they_are_how_choose))
+- [bunyan-rs](https://github.com/LukeMathWalker/bunyan) - CLI to pretty print logs in bunyan format. A Rust port of the original JavaScript bunyan CLI.
