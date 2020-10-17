@@ -10,3 +10,4 @@
 - [Math to Code](https://mathtocode.com/) - Interactive Python tutorial to teach engineers how to read and implement math using the NumPy library. ([HN](https://news.ycombinator.com/item?id=23513438))
 - [Quaternions in NumPy](https://github.com/moble/quaternion) - Add built-in support for quaternions to numpy.
 - [Array programming with NumPy (2020)](https://www.nature.com/articles/s41586-020-2649-2) ([HN](https://news.ycombinator.com/item?id=24501511))
+- [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)

@@ -37,3 +37,4 @@
 - [How COVID-19 can cause psychological problems (2020)](https://www.youtube.com/watch?v=LIOxKVrVRy4)
 - [K: The Overlooked Variable That's Driving the Pandemic (2020)](https://www.theatlantic.com/health/archive/2020/09/k-overlooked-variable-driving-pandemic/616548/) - 19% of cases responsible for 80% of transmissions.
 - [Giant virus discovered with its own CRISPR-like immune system (2016)](https://www.ibtimes.co.uk/could-giant-virus-own-immune-system-be-branch-life-1546905?platform=hootsuite)
+- [This Week in Virology](https://www.microbe.tv/twiv/) - Podcast about viruses.
