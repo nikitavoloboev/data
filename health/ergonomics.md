@@ -6,6 +6,7 @@
 - [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
 - [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/)
 - [Capisco Ergonomic Office Chair](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733))
+- [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))
 
 ## Standing desks
 
@@ -26,6 +27,7 @@
 - [Desk for digital drawing](https://twitter.com/K_Kanehira/status/1266173850716237824)
 - [Pro Home Studio Setup](http://mds.is/recording/)
 - [Peter McKinnon's studio setup (2020)](https://www.youtube.com/watch?v=n8R3HtazP9M)
+- [Has nice lights](https://twitter.com/robhawkes/status/1317457111241162758)
 
 ## Links
 

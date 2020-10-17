@@ -37,7 +37,7 @@
 
 ## Focus
 
-- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
+- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal. Think from first principles.
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
