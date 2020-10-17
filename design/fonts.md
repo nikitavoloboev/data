@@ -44,6 +44,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Josefin Sans](https://github.com/googlefonts/josefinsans) - Idea for creating this typeface was to make it geometric, elegant and kind of vintage, especially for titling.
 - [Titillium Web Variable Fonts](https://github.com/eliheuer/titillium-web-vf)
 - [Bungee](https://github.com/djrrb/Bungee) - Chromatic signage typeface for vertical and horizontal setting. ([Web](https://djr.com/bungee/))
+- [Quicksand](https://fonts.google.com/specimen/Quicksand)
 
 ## Links
 
