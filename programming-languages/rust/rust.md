@@ -348,3 +348,4 @@
 - [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell (2020)](https://shift.click/blog/tearcell/)
 - [Layouts and dealloc: An unfortunate aspect of Rust’s allocation API (2020)](https://shift.click/blog/on-dealloc/)
 - [Collect in Rust, traverse in Haskell and Scala (2020)](https://www.fpcomplete.com/blog/collect-rust-traverse-haskell-scala/)
+- [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-parameters-idiomatic-in-rust) ([Lobsters](https://lobste.rs/s/mxpnx9/are_out_parameters_idiomatic_rust))

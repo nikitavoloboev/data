@@ -84,6 +84,7 @@
 - [kurbo](https://github.com/linebender/kurbo) - Rust library for manipulating curves.
 - [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust.
 - [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust.
+- [glow](https://github.com/grovesNL/glow) - Set of bindings to run GL anywhere and avoid target-specific code.
 
 ## Games
 
