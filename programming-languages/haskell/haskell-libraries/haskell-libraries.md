@@ -60,6 +60,7 @@
 - [Streamly](https://github.com/composewell/streamly) - Beautiful Streaming, Concurrent and Reactive Composition.
 - [poly](https://github.com/Bodigrim/poly) - Fast polynomial arithmetic in Haskell.
 - [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit.
+- [Path](https://github.com/commercialhaskell/path) - Support for well-typed paths in Haskell.
 
 ## Links
 
