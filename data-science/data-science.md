@@ -127,3 +127,4 @@
 - [The Modern Data Science Stack (2020)](https://fivetran.com/blog/modern-data-science-stack)
 - [Streamlit Sharing](https://blog.streamlit.io/introducing-streamlit-sharing/) - Platform for deploying, managing, and sharing your apps. ([HN](https://news.ycombinator.com/item?id=24789257))
 - [Awesome Data Engineering Learning Path](https://awesomedataengineering.com/) ([Code](https://github.com/snird/awesome-data-engineering-learning))
+- [Emerging Architectures for Modern Data Infrastructure (2020)](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) ([HN](https://news.ycombinator.com/item?id=24814687))

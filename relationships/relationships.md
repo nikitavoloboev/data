@@ -17,3 +17,4 @@ Be honest.
 - [The Stable Marriage Problem and Modern Dating (2020)](https://www.arvarik.com/the-stable-marriage-problem-and-modern-dating) ([HN](https://news.ycombinator.com/item?id=23771876))
 - [Paired](https://www.getpaired.com/) - 10 minutes a day to a better relationship.
 - [How you 'attach' to people may explain a lot about your inner life (2020)](https://www.theguardian.com/science/2020/jan/10/psychotherapy-childhood-mental-health) ([HN](https://news.ycombinator.com/item?id=23911813))
+- [Lex Fridman podcast with Whitney Cummings (2020)](https://www.youtube.com/watch?v=7f6K1U6lH5Q)
