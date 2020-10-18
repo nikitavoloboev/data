@@ -29,3 +29,4 @@ In short, it can be summed down to this:
 - [Don't ask to ask, just ask](https://dontasktoask.com/) ([Code](https://github.com/maunium/dontasktoask.com)) ([HN](https://news.ycombinator.com/item?id=24259156))
 - [How to ask questions of experts and gain more than just an answer (2017)](https://josh.works/better-questions)
 - [Advice on asking for coding help](https://twitter.com/cassiecodes/status/1303770566793592834)
+- [How to answer questions in a helpful way (2020)](https://jvns.ca/blog/answer-questions-well/)
