@@ -469,6 +469,7 @@
 - [Scones](https://github.com/joshua-maros/scones) - Quick and powerful constructor/builder generation in Rust.
 - [rustls-native-certs](https://github.com/ctz/rustls-native-certs) - Integration with OS certificate stores for rustls.
 - [Tokio Tls](https://github.com/tokio-rs/tls) - Collection of Tokio based TLS libraries.
+- [shared-arena](https://github.com/sebastiencs/shared-arena) - Thread-safe & efficient memory pool.
 
 ## Cargo Plugins
 

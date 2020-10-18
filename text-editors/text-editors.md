@@ -31,6 +31,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Acme](http://acme.cat-v.org/) - Powerful text editor, development environment and textual-user-interface platform.
 - [Nova](https://nova.app/) - Native Mac code editor. ([HN](https://news.ycombinator.com/item?id=24495330)) ([Lobsters](https://lobste.rs/s/fhhojk/nova)) ([Docs](https://docs.nova.app/))
 - [Trix](https://github.com/basecamp/trix) - Compose beautifully formatted text in your web application. ([Web](https://trix-editor.org/))
+- [Ox](https://github.com/curlpipe/ox) - Fast text editor that runs in your terminal.
 
 ## Web
 

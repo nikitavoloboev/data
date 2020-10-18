@@ -318,3 +318,4 @@
 - [How to put machine learning models into production (2020)](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
 - [Example Machine Learning Scripts for Numerai's Tournament (2020)](https://github.com/numerai/example-scripts)
 - [Synthetic Data Vault (SDV)](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational, time series data. ([Web](https://sdv.dev/))
+- [Penn Machine Learning Benchmarks](https://github.com/EpistasisLab/pmlb) - Large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms. ([Web](https://epistasislab.github.io/pmlb/))
