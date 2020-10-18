@@ -16,3 +16,4 @@
 - [A Field Guide to zkSNARKs (2020)](https://write.as/knowledgeprover/zero-knowledge-proof-systems-a-primer)
 - [Circom](https://github.com/iden3/circom) - Language designed to write arithmetic circuits that can be used in zero knowledge proofs.
 - [Zero-Knowledge Proofs for Engineers: Introduction (2020)](https://blog.zkga.me/intro-to-zksnarks)
+- [Why and How zk-Snark Works (2019)](https://arxiv.org/abs/1906.07221) ([HN](https://news.ycombinator.com/item?id=24815649))

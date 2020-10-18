@@ -88,3 +88,4 @@
 - [What Makes C Hard to Compile (2020)](https://www.reddit.com/r/ProgrammingLanguages/comments/j3j4s9/what_makes_c_hard_to_compile/)
 - [malloc as a service (2020)](https://wingolog.org/archives/2020/10/13/malloc-as-a-service)
 - [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html) - LALR parser generator for C.
+- [How Does a C Debugger Work? (2014)](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) ([HN](https://news.ycombinator.com/item?id=24814854))
