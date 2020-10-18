@@ -139,3 +139,4 @@
 - [NixCon 2020](https://2020.nixcon.org/) ([Stream](https://www.youtube.com/watch?v=7sQa04olUA0)) ([Code](https://github.com/nixcon/2020.nixcon.org)) ([HN](https://news.ycombinator.com/item?id=24799659))
 - [Nix UX improvements](https://github.com/tweag/nix-ux)
 - [NixCon 2020 talk about Nix flakes](https://github.com/serokell/nixcon2020-talk)
+- [Nickel](https://github.com/tweag/nickel) - Lightweight configuration language. Its purpose is to automate the generation of static configuration files.

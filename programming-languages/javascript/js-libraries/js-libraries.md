@@ -320,6 +320,7 @@
 - [weak-napi](https://github.com/node-ffi-napi/weak-napi) - Make weak references to JavaScript Objects.
 - [nestie](https://github.com/lukeed/nestie) - Tiny (211B) and fast utility to expand a flattened object.
 - [Mock.js](https://github.com/nuysoft/Mock) - Simulation data generator.
+- [Detect features](https://github.com/TimvanScherpenzeel/detect-features) - Detect and report browser and hardware features.
 
 ## Links
 

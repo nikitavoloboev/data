@@ -470,6 +470,7 @@
 - [rustls-native-certs](https://github.com/ctz/rustls-native-certs) - Integration with OS certificate stores for rustls.
 - [Tokio Tls](https://github.com/tokio-rs/tls) - Collection of Tokio based TLS libraries.
 - [shared-arena](https://github.com/sebastiencs/shared-arena) - Thread-safe & efficient memory pool.
+- [random_color](https://github.com/elementh/random_color) - Rust crate for generating random attractive colors.
 
 ## Cargo Plugins
 
