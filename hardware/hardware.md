@@ -111,3 +111,4 @@
 - [Sega Master System Architecture: A Practical Analysis](https://www.copetti.org/projects/consoles/master-system/) ([HN](https://news.ycombinator.com/item?id=24775305))
 - [Microfactory 02 | DIY Home Shop, Setting up the Workbench (2020)](https://l-o-o-s-e-d.net/microfactory-2)
 - [PC build for deep learning, generative art](https://pcpartpicker.com/list/DR7Z8J) ([Tweet](https://twitter.com/mrmrs_/status/1317660045165867009))
+- [Notes on building a deep learning PC (2020)](https://www.mrdbourke.com/notes-on-building-a-deep-learning-pc/)

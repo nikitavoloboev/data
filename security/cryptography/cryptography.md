@@ -84,3 +84,4 @@
 - [The EMV Standard: Break, Fix, Verify (2020)](https://arxiv.org/abs/2006.08249)
 - [CRISP & CHIP implementation in C++](https://github.com/shapaz/CRISP)
 - [Arithmetic Statistics for Elliptic Curves](https://github.com/Multramate/ArithmeticStatistics)
+- [Quantum Hardening Cryptographic Protocols](https://cupdev.net/blog/014_quantumhardening.html)

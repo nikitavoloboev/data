@@ -471,6 +471,8 @@
 - [Tokio Tls](https://github.com/tokio-rs/tls) - Collection of Tokio based TLS libraries.
 - [shared-arena](https://github.com/sebastiencs/shared-arena) - Thread-safe & efficient memory pool.
 - [random_color](https://github.com/elementh/random_color) - Rust crate for generating random attractive colors.
+- [flexi_logger](https://github.com/emabee/flexi_logger) - Flexible logger for rust programs that can write to stderr or to log files.
+- [spin-rs](https://github.com/mvdnes/spin-rs) - Spin-based synchronization primitives.
 
 ## Cargo Plugins
 

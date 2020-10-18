@@ -283,7 +283,7 @@
 - [Books for Machine Learning, Deep Learning, and related topics](https://github.com/loveunk/Deep-learning-books)
 - [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/iezafd/r_graph_representation_learning_book_by_will/))
 - [Effective testing for machine learning systems (2020)](https://www.jeremyjordan.me/testing-ml/) ([HN](https://news.ycombinator.com/item?id=24332202))
-- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) ([HN](https://news.ycombinator.com/item?id=24332303))
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) ([HN](https://news.ycombinator.com/item?id=24332303)) ([Code](https://github.com/dafriedman97/mlbook))
 - [Compose](https://github.com/FeatureLabs/compose) - Machine learning tool for automated prediction engineering. It allows you to structure prediction problems and generate labels for supervised learning.
 - [Daily scikit-learn tips](https://github.com/justmarkham/scikit-learn-tips)
 - [Applied ML](https://github.com/eugeneyan/applied-ml) - Curated papers, articles, and blogs on data science & machine learning in production.
@@ -319,3 +319,4 @@
 - [Example Machine Learning Scripts for Numerai's Tournament (2020)](https://github.com/numerai/example-scripts)
 - [Synthetic Data Vault (SDV)](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational, time series data. ([Web](https://sdv.dev/))
 - [Penn Machine Learning Benchmarks](https://github.com/EpistasisLab/pmlb) - Large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms. ([Web](https://epistasislab.github.io/pmlb/))
+- [2020 Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)

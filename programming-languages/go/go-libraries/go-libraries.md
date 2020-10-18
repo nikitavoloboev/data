@@ -520,6 +520,7 @@
 - [hrtime](https://github.com/loov/hrtime) - High resolution timing and benchmarking for Go.
 - [CRDT](https://github.com/neurodrone/crdt) - Go implementation of CRDTs.
 - [XID](https://github.com/rs/xid) - Globally unique id generator library, ready to safely be used directly in your server code.
+- [Libcache](https://github.com/shaj13/libcache) - Lightweight in-memory key:value cache library for Go.
 
 ## Links
 
