@@ -141,5 +141,5 @@
 - [The joys of C++17 (2019)](https://0xd34df00d.me/posts/2019/09/the-joys-of-cpp17.html)
 - [Getting back to C++ after Rust is a pain (2020)](https://www.reddit.com/r/rust/comments/ja5aoe/getting_back_to_c_after_rust_is_a_pain/)
 - [Does C++ still deserve a bad rap? (2020)](https://nibblestew.blogspot.com/2020/10/does-c-still-deserve-bad-rap-it-has-had.html) ([HN](https://news.ycombinator.com/item?id=24805717)) ([Lobsters](https://lobste.rs/s/tijvfk/does_c_still_deserve_bad_rap_it_has_had_for))
-- [C++ Deserves Its Bad Reputation (2020)](http://jmoiron.net/blog/cpp-deserves-its-bad-reputation)
+- [C++ Deserves Its Bad Reputation (2020)](http://jmoiron.net/blog/cpp-deserves-its-bad-reputation) ([Lobsters](https://lobste.rs/s/w0stvu/c_deserves_its_bad_reputation))
 - [Handle C++ exceptions in C code (2020)](https://explain.yshui.dev/programming%20language/2020/10/16/exceptions.html)

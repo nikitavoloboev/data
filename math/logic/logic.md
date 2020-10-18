@@ -24,3 +24,4 @@
 - [An Introduction to Godel's Theorems](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf) ([HN](https://news.ycombinator.com/item?id=24081858))
 - [Gödel Without Tears, slowly (2020)](https://www.logicmatters.net/2020/09/01/godel-without-tears-slowly-1/)
 - [Logic, Explainability and the Future of Understanding (2018)](https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/)
+- [Finite of Sense and Infinite of Thought (2018)](https://pron.github.io/posts/computation-logic-algebra-pt1)
