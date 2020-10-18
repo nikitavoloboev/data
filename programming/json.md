@@ -27,3 +27,4 @@
 - [query-json](https://github.com/davesnx/query-json) - Faster and simpler implementation of jq in Reason Native. ([Article](https://sancho.dev/blog/cross-compile-query-json/))
 - [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations.
 - [wernicke](https://github.com/latacora/wernicke) - Redaction tool for structured data.
+- [BetterThanJson](https://wiki.alopex.li/BetterThanJson) ([Lobsters](https://lobste.rs/s/s9rbxf/betterthanjson))

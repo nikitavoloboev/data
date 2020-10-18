@@ -74,6 +74,7 @@
 - [go-limiter](https://github.com/sethvargo/go-limiter) - Provides a rate limiter in Go, suitable for use in HTTP servers and distributed workloads.
 - [cachecontrol](https://github.com/pquerna/cachecontrol) - HTTP Caching Parser and Interpretation.
 - [autotls](https://github.com/gin-gonic/autotls) - Support Let's Encrypt for a Go server application.
+- [Go-Guardian](https://github.com/shaj13/go-guardian) - Provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.
 
 ## GraphQL
 

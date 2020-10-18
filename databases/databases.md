@@ -226,3 +226,4 @@
 - [SQL vs NoSQL | MySQL vs MongoDB | Relational Databases vs DynamoDB, CosmosDB | When to use each (2020)](https://www.youtube.com/watch?v=hlkLL1R4KCI)
 - [Neural Databases (2020)](https://arxiv.org/abs/2010.06973) ([HN](https://news.ycombinator.com/item?id=24805898))
 - [Movine](https://github.com/byronwasti/movine) - Migration manager written in Rust that attempts to be smart yet minimal.
+- [We deleted the production database by accident (2020)](https://keepthescore.co/blog/posts/deleting_the_production_database/) ([HN](https://news.ycombinator.com/item?id=24813795)) ([Lobsters](https://lobste.rs/s/awtxlo/we_deleted_production_database_by))
