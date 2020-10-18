@@ -252,7 +252,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [What {note taking|team wiki|personal wiki|external brain} tool do you use? (2020)](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
 - [Notes with TiddlyWiki](http://beza1e1.tuxen.de/tiddlywiki_notes.html)
 - [Rekowl](https://rekowl.com/) - You personal knowledge library.
-- [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393))
+- [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393)) ([Docs](https://xwmx.github.io/nb/))
 - [NoteApps](https://www.noteapps.info/) - Encyclopedia of note taking apps. ([Launch Notes](https://www.noteapps.info/launch_note)) ([Lobsters](https://lobste.rs/s/uii8of/noteapps_info_launch_notes))
 - [Organising knowledge with multi-level content: Making knowledge easier to understand, remember and communicate (2018)](https://www.francismiller.com/organising_knowledge_paper.pdf)
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) - Emacs package for a Zettelkasten system.
