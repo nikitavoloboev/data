@@ -104,6 +104,7 @@
 - [MXSegmentedControl](https://github.com/maxep/MXSegmentedControl) - Simple Segmented Control.
 - [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 - [SwiftPageMenu](https://github.com/tamanyan/SwiftPageMenu) - Customizable Page Tab Menu Controller.
+- [PIPKit](https://github.com/Kofktu/PIPKit) - Picture in Picture for iOS.
 
 ## macOS
 

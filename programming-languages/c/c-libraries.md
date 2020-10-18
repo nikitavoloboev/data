@@ -31,3 +31,4 @@
 - [MiniFB](https://github.com/emoon/minifb) - Small cross platform library to create a frame buffer that you can draw pixels in. ([HN](https://news.ycombinator.com/item?id=24172362))
 - [liblfds](https://liblfds.org/) - Portable, license-free, lock-free data structure library written in C.
 - [mlibc](https://github.com/managarm/mlibc) - C standard library.
+- [miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C. ([Web](https://miniaud.io/))
