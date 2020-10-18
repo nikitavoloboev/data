@@ -67,6 +67,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [5 GUIs](https://github.com/ZeeZide/5GUIs) - Tiny macOS app that can detect the GUI technologies used in other apps.
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar.
 - [Stackline](https://github.com/AdamWagner/stackline) - Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
+- [mirror-displays](https://github.com/fcanas/mirror-displays) - Mac app and command-line tool for fiddling with display mirroring: on/off/toggle.
 
 ## Other interesting apps
 

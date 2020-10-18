@@ -6,6 +6,7 @@
 - [Good Clean Read](https://github.com/adueck/good-clean-read) - Jekyll template for publishing clean, readable articles and single-page sites.
 - [Colorie](https://github.com/ronv/colorie) - Single column blog and portfolio Jekyll theme.
 - [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
+- [Lagrange](https://github.com/LeNPaul/Lagrange) - Minimalist Jekyll theme for running a personal blog.
 
 ## Plugins
 
