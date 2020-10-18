@@ -112,3 +112,4 @@
 - [TypeScript Tools for Node.js](https://github.com/AviVahl/ts-tools)
 - [Learning Node.js internals](https://github.com/danbev/learning-nodejs)
 - [Boa](https://alibaba.github.io/pipcook/#/manual/intro-to-boa) - Call python functions from Node.
+- [Cliffy](https://github.com/drew-y/cliffy) - Framework For Interactive CLIs.

@@ -167,6 +167,7 @@
 - [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export.
 - [attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate. ([Docs](https://www.attrs.org/en/stable/))
 - [Morfessor](https://github.com/aalto-speech/morfessor) - Tool for unsupervised and semi-supervised morphological segmentation.
+- [Construct](https://github.com/construct/construct) - Powerful declarative and symmetrical parser and builder for binary data.
 
 ## Links
 

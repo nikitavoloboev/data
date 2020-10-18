@@ -15,3 +15,4 @@
 - [GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis](https://github.com/descriptinc/melgan-neurips)
 - [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare? (2020)](https://news.ycombinator.com/item?id=23490115)
 - [DiffWave](https://github.com/lmnt-com/diffwave) - Fast, high-quality neural vocoder and waveform synthesizer.
+- [Voice Conversion with Non-Parallel Data](https://github.com/andabi/deep-voice-conversion)

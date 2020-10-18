@@ -54,6 +54,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Shinkansen 3D Seat Booking Prototype](https://github.com/virakri/shinkansen-3d-seat-booking-prototype) - Example app in iOS utilizing SceneKit.
 - [Air Quality Reader](https://github.com/finiteloop/air-quality)
 - [Unsplash Photo Picker for iOS](https://github.com/unsplash/unsplash-photopicker-ios)
+- [VJ](https://github.com/hexagons/VJ) - Minimal iPad app with interactive visuals.
 
 ## Other
 
@@ -245,3 +246,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [AlternateIcons](https://github.com/alexaubry/alternate-icons) - Swift script that automates adding alternate app icons to your iOS app.
 - [iOS and iPadOS 14: The MacStories Review](https://www.macstories.net/stories/ios-and-ipados-14-the-macstories-review/)
 - [Thoughts on the App Store from developer of AltStore (2020)](http://rileytestut.com/blog/2020/10/14/thoughts-on-app-store/)
+- [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) - Community additions to Apple's Human Interface Guidelines.

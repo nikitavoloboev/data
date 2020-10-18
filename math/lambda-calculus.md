@@ -38,3 +38,4 @@ Is logical theory of computable functions.
 - [Lambda Zoo](https://github.com/ak3n/abt-zoo) - Implementations of different lambda calculi with abstract binding trees.
 - [All you need is λ, part one: booleans (2020)](https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/) ([HN](https://news.ycombinator.com/item?id=24601981))
 - [lambda-mu-mu-calculus](https://github.com/fizruk/lambda-mu-mu-calculus) - Interpreter for λ̅μμ̃-calculus of Herbelin and Curien.
+- [Notes on lambda calculus and type theory](https://github.com/blynn/lambda)
