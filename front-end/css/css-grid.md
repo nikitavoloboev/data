@@ -19,7 +19,7 @@
 - [Grid for layout, Flexbox for components (2020)](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - [Grid Cheatsheet](https://yoksel.github.io/grid-cheatsheet/) ([Code](https://github.com/yoksel/grid-cheatsheet/))
 - [Raster](https://rsms.me/raster/) - CSS Grid System. ([Code](https://github.com/rsms/raster))
-- [Layoutit Grid](https://grid.layoutit.com/) - Interactive CSS Grid generator. ([Code](https://github.com/Leniolabs/layoutit-grid)) ([OSS release article](https://medium.com/@patak_js/open-sourcing-layoutit-grid-3a78300bc022))
+- [Layoutit Grid](https://grid.layoutit.com/) - Interactive CSS Grid generator. ([Code](https://github.com/Leniolabs/layoutit-grid)) ([OSS release article](https://medium.com/@patak_js/open-sourcing-layoutit-grid-3a78300bc022)) ([HN](https://news.ycombinator.com/item?id=24818485))
 - [Full-Bleed Layout Using CSS Grid (2020)](https://joshwcomeau.com/css/full-bleed/) ([HN](https://news.ycombinator.com/item?id=24688736))
 - [Poor Man's CSS Full-Bleed Layout (2020)](https://uglyduck.ca/poor-mans-full-bleed/)
 - [Full bleed layout using simple CSS (2020)](https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css/)

@@ -30,3 +30,4 @@ I switch between Ayu Light and Ayu Mirage themes as I change between macOS appea
 - [OdatNurd - Sublime Text Tutorials](https://www.youtube.com/user/nurdz/playlists)
 - [Sublime Text Community Documentation](https://docs.sublimetext.io/guide/) ([Code](https://github.com/sublimetext-io/docs.sublimetext.io))
 - [PackageDev](https://github.com/SublimeText/PackageDev) - Provides syntax highlighting and other helpful utility for Sublime Text resource files.
+- [Sublime Text 4 change log](https://gist.github.com/jfcherng/7bf4103ea486d1f67b7970e846b3a619)
