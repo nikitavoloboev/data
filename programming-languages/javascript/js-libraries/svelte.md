@@ -44,5 +44,5 @@
 - [Optimizing Svelte Applications (2020)](https://www.syntaxsuccess.com/viewarticle/optimizing-svelte-applications)
 - [Try Svelte (2020)](https://marcradziwill.com/blog/why-you-should-try-svelte/) ([HN](https://news.ycombinator.com/item?id=24564670))
 - [Layer Cake](https://github.com/mhkeller/layercake) - Framework for mostly-reusable graphics with svelte.
-- [Svelte Summit](https://sveltesummit.com/) - Free whole-day online event. ([Code](https://github.com/svelte-society/svelte-summit-2020))
+- [Svelte Summit](https://sveltesummit.com/) - Free whole-day online event. ([Code](https://github.com/svelte-society/svelte-summit-2020)) ([Video](https://www.youtube.com/watch?v=vHHLLJA0b70))
 - [What I've Learned about Svelte, Tailwind, FastAPI over the Past 10 Days (2020)](https://geoff.tuxpup.com/posts/stock_toolkit_4/)

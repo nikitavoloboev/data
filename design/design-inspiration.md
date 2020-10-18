@@ -49,6 +49,7 @@ Here are few more things I liked, design wise.
 - [Uniswap](https://uniswap.org/)
 - [Panic](https://panic.com/)
 - [Podia](https://www.podia.com/)
+- [Reeder](https://reeder.app/)
 - [Remotive](https://remotive.io/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
