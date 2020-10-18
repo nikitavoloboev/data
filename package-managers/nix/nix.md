@@ -140,3 +140,4 @@
 - [Nix UX improvements](https://github.com/tweag/nix-ux)
 - [NixCon 2020 talk about Nix flakes](https://github.com/serokell/nixcon2020-talk)
 - [Nickel](https://github.com/tweag/nickel) - Lightweight configuration language. Its purpose is to automate the generation of static configuration files.
+- [Nix-based process management framework](https://github.com/svanderburg/nix-processmgmt)

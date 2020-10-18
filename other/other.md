@@ -358,3 +358,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [100 Rabbits Themes](https://github.com/hundredrabbits/Themes) - Application themes and tools used across the Hundred Rabbits Ecosystem.
 - [Sharkle](https://sharkle.com/) - Generator of random awesomeness.
 - [Diagon](https://arthursonzogni.com/Diagon/) - Interactive ASCII art diagram generators. ([Code](https://github.com/ArthurSonzogni/Diagon))
+- [Ask HN: What did you purchase that measurably improved your quality of life? (2020)](https://news.ycombinator.com/item?id=24819254)

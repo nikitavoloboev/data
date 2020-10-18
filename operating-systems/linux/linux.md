@@ -179,3 +179,5 @@
 - [The Year of the Linux dissatisfaction (2020)](https://www.dedoimedo.com/computers/linux-year-of-dissatisfaction.html)
 - [Learning Linux Kernel internals](https://github.com/danbev/learning-linux-kernel)
 - [The Difficulties of Tracking Running Processes on Linux (2020)](https://natanyellin.com/posts/tracking-running-processes-on-linux/)
+- [Minimalistic rEFInd theme](https://github.com/EvanPurkhiser/rEFInd-minimal) - rEFInd is an easy to use boot manager for UEFI based systems.
+- [rEFInd EFI Boot Manager](https://github.com/agners/rEFInd)

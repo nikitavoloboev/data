@@ -108,3 +108,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [XSStrike](https://github.com/s0md3v/XSStrike) - Advanced XSS Detection Suite.
 - [GHunt](https://github.com/mxrch/GHunt) - Investigate Google Accounts with emails.
 - [HideAndSec](https://hideandsec.sh/) - Group of cybersecurity enthusiasts.
+- [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) - Collection of high value information on specific application security topics. ([Code](https://github.com/OWASP/CheatSheetSeries))
