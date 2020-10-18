@@ -349,3 +349,4 @@
 - [Layouts and dealloc: An unfortunate aspect of Rust’s allocation API (2020)](https://shift.click/blog/on-dealloc/)
 - [Collect in Rust, traverse in Haskell and Scala (2020)](https://www.fpcomplete.com/blog/collect-rust-traverse-haskell-scala/)
 - [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-parameters-idiomatic-in-rust) ([Lobsters](https://lobste.rs/s/mxpnx9/are_out_parameters_idiomatic_rust))
+- [warp-api-starter-template](https://github.com/rusty-crab/warp-api-starter-template) - Boilerplate template for starting a web services using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL).

@@ -9,3 +9,4 @@
 - [Blitz.js puts React on Rails](https://overcast.fm/+Id5XIrpzk)
 - [Blitz.js Draft RFCs and Other Documents](https://github.com/blitz-js/drafts)
 - [Blitz Public Wiki](https://github.com/blitz-js/blitz/wiki)
+- [Blitz.js Jobs](https://blitz-jobs.com/)

@@ -67,3 +67,4 @@
 - [The usability of HTML elements (2020)](https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/) ([HN](https://news.ycombinator.com/item?id=24729006))
 - [Awfice](https://zserge.com/posts/awfice/) - Collection of tiny office suite apps. ([Article](https://zserge.com/posts/awfice/)) ([HN](https://news.ycombinator.com/item?id=24752546))
 - [croquis.js](https://github.com/disjukr/croquis.js) - HTML5 drawing tool library.
+- [Emmet](https://github.com/emmetio/emmet) - Web-developer’s toolkit for boosting HTML & CSS code writing. ([Web](https://emmet.io/))

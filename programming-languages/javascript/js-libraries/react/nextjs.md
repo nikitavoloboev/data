@@ -117,3 +117,4 @@
 - [Replacing Create React App with the Next.js CLI (2020)](https://gist.github.com/tannerlinsley/65ac1f0175d79d19762cf06650707830)
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing.
 - [Next page tester](https://github.com/toomuchdesign/next-page-tester) - Enable DOM integration testing on Next.js pages.
+- [Debugging Next.JS (2020)](https://blog.codechem.com/debugging-nextjs)

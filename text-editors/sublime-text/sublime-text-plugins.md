@@ -30,6 +30,7 @@ Below is a list of plugins I use.
 - [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [NeoVintageous](https://github.com/NeoVintageous/NeoVintageous) - Advanced Vim emulation layer for Sublime Text.
+- [Emmet](https://github.com/emmetio/sublime-text-plugin)
 
 ## Markdown
 
