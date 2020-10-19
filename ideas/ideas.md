@@ -66,3 +66,4 @@ I try to give my full attention to any ideas I am working on.
 - [Businesses I Love](https://sweatystartup.com/businesses-i-love/)
 - [Making The Leap (2020)](https://www.coreyhaines.co/blog/leap)
 - [Are Ideas Getting Harder to Find? (2020)](https://web.stanford.edu/~chadj/IdeaPF.pdf)
+- [Starting a \$400,000 Side Business in 1 Month (for Free) (2020)](https://www.youtube.com/watch?v=NblHMZbYg-o)

@@ -156,3 +156,4 @@
 - [Stargate](https://github.com/stargate/stargate) - Open source API framework for data. Data gateway deployed between client applications and a database. ([Web](https://stargate.io/)) ([Hello GraphQL; meet Cassandra](https://stargate.io/2020/10/05/hello-graphql.html))
 - [API pagination design (2020)](https://solovyov.net/blog/2020/api-pagination-design/) ([Lobsters](https://lobste.rs/s/isysq1/api_pagination_design))
 - [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client. ([Code](https://github.com/Kong/insomnia))
+- [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation. ([How Apiary Works](https://apiary.io/how-apiary-works))

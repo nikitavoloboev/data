@@ -99,6 +99,7 @@
 - [Implement Box functional data structure](https://github.com/Pauan/programming-notes/blob/master/Boxes.rst)
 - [CS316 “Functional Programming” course (2020)](https://github.com/bobatkey/CS316-2020)
 - [Of Groups and Monads](https://garlandus.co/OfGroupsAndMonads.html) ([Lobsters](https://lobste.rs/s/zzcjr9/groups_monads))
+- [Compositional Podcast](https://www.compositional.fm/) - All about functional programming in practice.
 
 ## Images
 
