@@ -263,3 +263,4 @@
 - [Handling Bidirectional Control Flow (2020)](https://www.cs.cornell.edu/andru/papers/ufo/)
 - [Managing technical quality in a codebase (2020)](https://lethain.com/managing-technical-quality/)
 - [How to Write Good Programs book (2020)](https://www.cambridge.org/core/books/how-to-write-good-programs/6CBDD8A564E0899D54140700E90601C4)
+- [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/) - Teaches computer programming.

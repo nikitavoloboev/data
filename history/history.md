@@ -68,3 +68,4 @@
 - [Look at the history of battle in popular culture Blog](https://acoup.blog/)
 - [The Cold War’s unfinished legacy (2020)](https://www.africasacountry.com/2020/09/the-cold-wars-unfinished-legacy)
 - [Welcome to the Old Internet Again](http://theoldnet.com/) ([HN](https://news.ycombinator.com/item?id=24808071))
+- [Old Computer Podcasts](http://oldcomputerpods.com/) - Find Shows About Computing's Past.

@@ -212,3 +212,4 @@
 - [RegPack](https://github.com/Siorki/RegPack) - Self-contained packer for size-constrained JS code.
 - [ElectronJS alternative: SciterJS – HTML/CSS/JS in 4.5 MB executable](https://github.com/c-smile/sciter-js-sdk) ([HN](https://news.ycombinator.com/item?id=24797423))
 - [ESTree Spec](https://github.com/estree/estree) - Manipulate JavaScript source code.
+- [Pattern Matching in JavaScript (2020)](https://kyleshevlin.com/pattern-matching)
