@@ -199,6 +199,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Abhinav Sarkar's books read](https://abhinavsarkar.net/readings/)
 - [Science Fiction Stories with Good Astronomy and Physics: A Topical Index](https://astrosociety.org/file_download/inline/621a63fc-04d5-4794-8d2b-38e7195056e9) ([HN](https://news.ycombinator.com/item?id=24686247))
 - [The 100 Best Fantasy Books of All Time](https://time.com/collection/100-best-fantasy-books/)
+- [Ian Vanagas's Reading List](https://ianvanagas.com/reading-list/)
 
 ## Notes
 

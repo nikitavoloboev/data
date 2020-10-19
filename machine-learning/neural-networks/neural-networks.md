@@ -151,3 +151,4 @@
 - [How DeepMind learns physics simulators with Graph Networks (w/ author interview) (2020)](https://www.youtube.com/watch?v=JSed7OBasXs)
 - [Build Your Own Artificial Neural Network. It’s Easy! (2020)](http://nautil.us//blog/build-your-own-artificial-neural-network-its-easy)
 - [Neural Circuit Policies Enabling Auditable Autonomy](https://github.com/mlech26l/keras-ncp)
+- [FermiNet: Fermionic Neural Networks](https://github.com/deepmind/ferminet) ([Quantum Physics and Chemistry from First Principles (2020)](https://deepmind.com/blog/article/FermiNet)) ([Tweet](https://twitter.com/deepmind/status/1318257586983096320?s=21))
