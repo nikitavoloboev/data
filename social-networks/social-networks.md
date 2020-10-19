@@ -66,3 +66,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Gurlic](https://gurlic.com/) - Free and Open Communities. ([HN](https://news.ycombinator.com/item?id=24680418))
 - [Twt](https://jointwt.org/) - New way to social media.
 - [Going Viral as a Woman in Tech (2020)](https://www.emilykager.com/writing/2020/10/08/virality.html) ([HN](https://news.ycombinator.com/item?id=24743439))
+- [Combating abuse in Matrix - without backdoors (2020)](https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors)

@@ -150,3 +150,4 @@
 - [Handwriting Synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs.
 - [How DeepMind learns physics simulators with Graph Networks (w/ author interview) (2020)](https://www.youtube.com/watch?v=JSed7OBasXs)
 - [Build Your Own Artificial Neural Network. It’s Easy! (2020)](http://nautil.us//blog/build-your-own-artificial-neural-network-its-easy)
+- [Neural Circuit Policies Enabling Auditable Autonomy](https://github.com/mlech26l/keras-ncp)

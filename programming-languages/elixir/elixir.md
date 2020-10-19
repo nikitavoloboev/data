@@ -55,3 +55,4 @@
 - [Elixir 1.11 (2020)](https://elixir-lang.org/blog/2020/10/06/elixir-v1-11-0-released/) ([HN](https://news.ycombinator.com/item?id=24698086))
 - [Real time communication at scale with Elixir at Discord (2020)](https://elixir-lang.org/blog/2020/10/08/real-time-communication-at-scale-with-elixir-at-discord/)
 - [Coming to Elixir from TypeScript (2020)](https://www.papercups.io/blog/elixir-noob)
+- [Cursed Elixir (2020)](https://evuez.github.io/posts/cursed-elixir.html) ([HN](https://news.ycombinator.com/item?id=24818706))

@@ -15,7 +15,7 @@
 - [Animation worklet: the 4 missing features (2020)](https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/)
 - [The ultimate guide to proper use of animation in UX (2018)](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 - [Pose](https://galshir.com/pose/) - Simple web app for character posing.
-- [Lottie](http://airbnb.io/lottie/#/) - Parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ([Code](https://github.com/airbnb/lottie))
+- [Lottie](http://airbnb.io/lottie/#/) - Parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web. ([Code](https://github.com/airbnb/lottie)) ([Lottie for iOS, macOS](https://github.com/airbnb/lottie-ios))
 - [Ke-Sen Huang's research on animation synthesis, animation summarization, and motion retrieval](https://kesen.realtimerendering.com/)
 - [Rive](https://rive.app/) - Bring your apps and games to life with real-time animation. ([Beta](https://beta.rive.app/))
 - [Hashflag Gallery Animations](https://hashflaggallery.com/)

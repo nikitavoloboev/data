@@ -36,3 +36,6 @@
 - [How to Plan a Luau: Augmenting Lua’s Syntax With Types (2020)](https://medium.com/roblox-tech-blog/how-to-plan-a-luau-augmenting-luas-syntax-with-types-7751a790f0d8) ([HN](https://news.ycombinator.com/item?id=24448364))
 - [Croissant](https://github.com/giann/croissant) - Lua REPL and debugger implemented in Lua.
 - [Fengari](https://github.com/fengari-lua/fengari) - Lua VM written in JS ES6 for Node and the browser. ([Web](https://fengari.io/))
+- [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
+- [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
+- [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua.

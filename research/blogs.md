@@ -111,3 +111,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blogs I like](https://jvns.ca/blogroll/)
 - [15 rules for blogging, and my current streak](http://interconnected.org/home/2020/09/10/streak)
 - [Ask HN: Favourite blogs? (2020)](https://news.ycombinator.com/item?id=24539445)
+- [Deploying post to dev.to with markdown](https://github.com/moghwan/dev.to)

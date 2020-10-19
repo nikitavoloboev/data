@@ -47,3 +47,4 @@
 - [django-read-only](https://github.com/adamchainz/django-read-only) - Disable Django database writes.
 - [Simple JWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - JSON Web Token authentication plugin for the Django REST Framework.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Generate real Swagger/OpenAPI 2.0 specifications from a Django Rest Framework API.
+- [Graphene-Django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.

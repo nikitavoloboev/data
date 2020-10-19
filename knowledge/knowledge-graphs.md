@@ -40,3 +40,4 @@
 - [Wikimedia Research Showcase (2020)](https://www.youtube.com/watch?v=GJDsKPsz64o)
 - [LUKE](https://github.com/studio-ousia/luke) - Language Understanding with Knowledge-based Embeddings.
 - [mkb](https://github.com/raphaelsty/mkb) - Library dedicated to knowledge graph embeddings.
+- [Gentle introduction to the Wikidata Query Service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service#A_gentle_introduction_to_the_Wikidata_Query_Service) ([HN](https://news.ycombinator.com/item?id=24823074))

@@ -44,6 +44,7 @@
 - [Caqti](https://github.com/paurkedal/ocaml-caqti) - Provides a monadic cooperative-threaded OCaml connector API for relational databases.
 - [Streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions. ([Announcement](https://discuss.ocaml.org/t/ann-first-release-of-streaming/5961))
 - [cameleer](https://github.com/mariojppereira/cameleer) - Deductive Verification Tool for OCaml Programs.
+- [Ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters.
 
 ## Links
 

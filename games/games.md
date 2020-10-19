@@ -60,6 +60,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Team Comtress 2](https://github.com/mastercomfig/team-comtress-2) - Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations.
 - [Amnesia](https://frictionalgames.com/2020-09-amnesia-is-now-open-source/) ([HN](https://news.ycombinator.com/item?id=24567351))
 - [Ninja vs EVILCORP](https://github.com/remvst/ninja) - Platformer inspired by Super Meat Boy, Stealth Bastard Deluxe, and other great similar games.
+- [Sulis](https://github.com/Grokmoo/sulis) - Turn based tactical RPG with several campaigns, written in Rust. ([Web](https://www.sulisgame.com/))
 
 ## Awesome games (other)
 

@@ -313,6 +313,10 @@ Below is a list of extensions I use.
 
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
+## Agda
+
+- [Agda Mode](https://marketplace.visualstudio.com/items?itemName=banacorn.agda-mode) ([Code](https://github.com/banacorn/agda-mode-vscode))
+
 ## Theme
 
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) ([Code](https://github.com/sdras/night-owl-vscode-theme)) ([Web](https://night-owl-swag.netlify.app/))

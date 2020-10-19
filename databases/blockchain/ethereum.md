@@ -83,3 +83,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Fe](https://github.com/ethereum/fe) - Emerging smart contract language for the Ethereum blockchain.
 - [Trinity Ethereum Client](https://github.com/ethereum/trinity)
 - [Solidity](https://github.com/ethereum/solidity) - Contract-Oriented Programming Language. ([Docs](https://solidity.readthedocs.io/))
+- [EVM Opcodes](https://github.com/wolflo/evm-opcodes) - Quick reference for EVM opcodes.
+- [Eth2 News](https://eth2.news)
+- [Lido](https://lido.fi/) - Liquid staking solution for Ethereum. ([Introducing Lido](https://medium.com/lido-finance/introducing-lido-ca193431c82))

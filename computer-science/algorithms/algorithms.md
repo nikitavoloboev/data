@@ -53,6 +53,8 @@
 - [CSE 373 – Introduction to Algorithms, by Steven Skiena (2020)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
 - [Computer Algorithms II course (2020)](http://homepages.math.uic.edu/~lreyzin/f20_mcs501/)
 - [Improving Binary Search by Guessing (2019)](https://notebook.drmaciver.com/posts/2019-04-30-13:03.html)
+- [The case for a learned sorting algorithm (2020)](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/) ([HN](https://news.ycombinator.com/item?id=24823611))
+- [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Introduces elementary algorithms and data structures. Includes side-by-side comparisons of purely functional realization and their imperative counterpart.
 
 ## Images
 

@@ -57,3 +57,4 @@
 - [Is Netflix CEO Reed Hastings' "Keeper Test" good management? (2020)](https://qz.com/work/1909338/is-netflix-ceo-reed-hastings-keeper-test-good-management/)
 - [Estimates in software engineering do more harm than good, and drive people to act in dishonest ways (2020)](https://twitter.com/matryer/status/1313089174321405958)
 - [Four Keys](https://github.com/GoogleCloudPlatform/fourkeys) - Four key metrics that indicate the performance of a software development team.
+- [What is expected of a Engineering Manager? (2020)](http://blog.rlmflores.me/2020/10/14/what_is_expected_of_an_engineering_manager/)

@@ -40,7 +40,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Moneta](https://www.myfonts.com/fonts/santi-rey/moneta)
 - [3270font](https://github.com/rbanffy/3270font) - Font for the Nostalgic. ([HN](https://news.ycombinator.com/item?id=24646107))
 - [Last Resort](https://github.com/unicode-org/last-resort-font) - Special-purpose font that includes a collection of glyphs to represent types of Unicode characters. ([HN](https://news.ycombinator.com/item?id=24726008))
-- [JuliaMono](https://juliamono.netlify.app/) - Monospaced font for scientific and technical computing. ([HN](https://news.ycombinator.com/item?id=24732973)) ([Code](https://github.com/cormullion/juliamono))
+- [JuliaMono](https://juliamono.netlify.app/) - Monospaced font for scientific and technical computing. ([HN](https://news.ycombinator.com/item?id=24732973)) ([Code](https://github.com/cormullion/juliamono)) ([Article](https://cormullion.github.io/pages/2020-07-26-JuliaMono/))
 - [Josefin Sans](https://github.com/googlefonts/josefinsans) - Idea for creating this typeface was to make it geometric, elegant and kind of vintage, especially for titling.
 - [Titillium Web Variable Fonts](https://github.com/eliheuer/titillium-web-vf)
 - [Bungee](https://github.com/djrrb/Bungee) - Chromatic signage typeface for vertical and horizontal setting. ([Web](https://djr.com/bungee/))

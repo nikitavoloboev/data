@@ -38,3 +38,4 @@
 - [A Massive Fractal in Days, Not Years (2020)](http://www.jcgt.org/published/0009/02/02/paper.pdf) ([HN](https://news.ycombinator.com/item?id=24124827))
 - [State of my brain](https://codepen.io/terabaud/pen/VwZRrRL)
 - [The Fractal Project](https://thefractalproject.com/explore) - Trying to understand what makes an image visually appealing by analyzing feedback on our randomly generated fractal art.
+- [DeepBlue](https://github.com/micahhahn/DeepBlue) - Basic web app to make high quality renderings of the Mandelbrot Set written in Haskell.

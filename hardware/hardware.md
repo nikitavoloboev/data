@@ -112,3 +112,6 @@
 - [Microfactory 02 | DIY Home Shop, Setting up the Workbench (2020)](https://l-o-o-s-e-d.net/microfactory-2)
 - [PC build for deep learning, generative art](https://pcpartpicker.com/list/DR7Z8J) ([Tweet](https://twitter.com/mrmrs_/status/1317660045165867009))
 - [Notes on building a deep learning PC (2020)](https://www.mrdbourke.com/notes-on-building-a-deep-learning-pc/)
+- [Microcontroller VGA Interface projects](http://tinyvga.com/) ([Lobsters](https://lobste.rs/s/zkx2hw/microcontroller_vga_interface_projects))
+- [blokdots](https://blokdots.com/) - Software to build interactive hardware prototypes without writing a line of code. ([HN](https://news.ycombinator.com/item?id=24825056))
+- [Implementing Machine Learning on Massively Parallel Hardware (2020)](https://www.ieee-edps.com/archives/2020/c/2.5Patrick.pdf)

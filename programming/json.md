@@ -28,3 +28,4 @@
 - [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations.
 - [wernicke](https://github.com/latacora/wernicke) - Redaction tool for structured data.
 - [BetterThanJson](https://wiki.alopex.li/BetterThanJson) ([Lobsters](https://lobste.rs/s/s9rbxf/betterthanjson))
+- [Hjson](https://hjson.github.io/) - User interface for JSON.

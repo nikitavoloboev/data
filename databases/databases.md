@@ -100,6 +100,7 @@
 - [IndexedDB](https://github.com/jakearchibald/idb) - IndexedDB, but with promises.
 - [JsStore](https://github.com/ujjwalguptaofficial/JsStore) - Complete IndexedDB wrapper with SQL like syntax. ([Web](https://jsstore.net/))
 - [Quadrable](https://github.com/hoytech/quadrable) - Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs.
+- [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - Database designed specifically for search, including full-text search.
 
 ## Tools
 
@@ -227,3 +228,4 @@
 - [Neural Databases (2020)](https://arxiv.org/abs/2010.06973) ([HN](https://news.ycombinator.com/item?id=24805898))
 - [Movine](https://github.com/byronwasti/movine) - Migration manager written in Rust that attempts to be smart yet minimal.
 - [We deleted the production database by accident (2020)](https://keepthescore.co/blog/posts/deleting_the_production_database/) ([HN](https://news.ycombinator.com/item?id=24813795)) ([Lobsters](https://lobste.rs/s/awtxlo/we_deleted_production_database_by))
+- [Cuckoo Index](https://github.com/google/cuckoo-index) - Lightweight Secondary Index Structure.

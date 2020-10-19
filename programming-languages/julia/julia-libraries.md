@@ -100,6 +100,9 @@
 - [StaticModules](https://github.com/MasonProtter/StaticModules.jl) - Statically sized and typed namespace you can use for enclosing julia code and variables without runtime overhead and useable in either the global or local scopes.
 - [Mustache](https://github.com/jverzani/Mustache.jl) - Port of mustache.js to julia.
 - [Publish.jl](https://github.com/MichaelHatherly/Publish.jl) - Universal document authoring package for Julia.
+- [SIMD](https://github.com/eschnett/SIMD.jl) - Explicit SIMD vector operations for Julia.
+- [ArrayInterface](https://github.com/SciML/ArrayInterface.jl) - Designs for new Base array interface primitives.
+- [LazyArrays](https://github.com/JuliaArrays/LazyArrays.jl) - Lazy arrays and linear algebra in Julia.
 
 ## Links
 

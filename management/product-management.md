@@ -31,3 +31,4 @@
 - [Awesome Product Management](https://github.com/dend/awesome-product-management)
 - [15 principles for product work (2020)](https://twitter.com/shreyas/status/1313539331563298817)
 - [Resources for Learning Product Management (2020)](https://informedpm.com/posts/product-manager-resources)
+- [Cloudflare Product Management Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-product-management-assignment)

@@ -34,6 +34,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tyler Hobbs](https://tylerxhobbs.com/)
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
+- [Matt Mills](https://www.instagram.com/mattmillsart/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 
 ## Interesting artists
@@ -347,3 +348,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [TASCHEN Books](https://www.taschen.com/) - Publisher of books on art, architecture, design and photography.
 - [AmorFati](https://amorfati.substack.com/) - Personal mood board of art, poetry, photography, and architecture, that has moved me.
 - [Corruption Is Attractive (2020)](https://venam.nixers.net/blog/programming/2020/10/05/corruption-at-the-core.html)
+- [Art Grab](https://artgrab.co/) - Exclusively license and download images created by world-renowned artists.

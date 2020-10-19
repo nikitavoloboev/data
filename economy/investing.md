@@ -115,3 +115,6 @@
 - [How I failed my daughter and a simple path to wealth (2011)](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
 - [Investing with Vanguard for Europeans: 2020 update](https://jlcollinsnh.com/2020/04/22/investing-with-vanguard-for-europeans-2020-update/)
 - [The Swedish Investor videos](https://www.youtube.com/c/TheSwedishInvestor/videos)
+- [Robin Stocks](https://github.com/jmfernandes/robin_stocks) - Robinhood API Library. ([Docs](https://robin-stocks.readthedocs.io/en/latest/))
+- [pyrh](https://github.com/robinhood-unofficial/pyrh) - Python Framework to make trades with the unofficial Robinhood API.
+- [lbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.

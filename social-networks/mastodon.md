@@ -14,3 +14,4 @@
 - [Overview of the Fediverse May 2020](https://blog.strangestack.com/overview-of-the-fediverse-may-2020)
 - [How Does Mastodon Work? (2020)](https://kevq.uk/how-does-mastodon-work/) ([Lobsters](https://lobste.rs/s/d7p7pe/how_does_mastodon_work))
 - [Mastodon 3.2 (2020)](https://blog.joinmastodon.org/2020/08/mastodon-3.2/) ([HN](https://news.ycombinator.com/item?id=24032136))
+- [The local timeline is the key to enjoying Mastodon (2020)](https://cfenollosa.com/blog/you-may-be-using-mastodon-wrong.html) ([HN](https://news.ycombinator.com/item?id=24819387))

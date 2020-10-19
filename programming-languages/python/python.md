@@ -188,3 +188,4 @@
 - [Boa](https://github.com/mamba-org/boa) - Fast Conda and Mamba Package Builder.
 - [NPComp](https://github.com/llvm/mlir-npcomp) - MLIR based compiler toolkit for numerical python programs.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - Strictest and most opinionated python linter ever.
+- [codebasics learn python channel](https://www.youtube.com/c/codebasics/videos) ([Code](https://github.com/codebasics/py))

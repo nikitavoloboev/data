@@ -41,3 +41,4 @@
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/NVlabs/stylegan2-ada)
 - [Your Local GAN: Designing Two Dimensional Local Attention Mechanisms for Generative Models (2020)](https://github.com/giannisdaras/ylg)
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) (2017)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+- [AdaBelief Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - NeurIPS 2020 Spotlight, trains fast as Adam, generalizes well as SGD, and is stable to train GANs.

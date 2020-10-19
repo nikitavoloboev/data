@@ -82,3 +82,5 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Centre for Psychedelic Research | Imperial College](https://www.imperial.ac.uk/psychedelic-research-centre)
 - [The magic of mushrooms forces us to rethink what intelligence means (2020)](https://www.prospectmagazine.co.uk/magazine/entangled-life-book-review-mushrooms-fungi-biology-science) ([HN](https://news.ycombinator.com/item?id=24731121))
 - [1 sub and 4 sub psychedelics explained (2020)](https://www.reddit.com/r/researchchemicals/comments/jbql1p/can_someone_please_explain_1_sub_and_4_sub/)
+- [The Effects of Psychedelic Experience on Language Functioning](http://www.psychedelic-library.org/krippner.htm)
+- [Why are all the people who have unlocked the secrets of the universe/existence so bad at explaining their ideas? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/jdp2qx/why_are_all_the_people_who_have_unlocked_the/)

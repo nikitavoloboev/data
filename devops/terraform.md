@@ -42,3 +42,4 @@
 - [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - [Anton Babenko videos on Terraform](https://www.youtube.com/user/cyberbob37/playlists)
+- [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests. ([Web](https://www.infracost.io/))

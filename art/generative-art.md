@@ -69,3 +69,5 @@
 - [Abstract Puzzles](https://abstractpuzzl.es/)
 - [Jigsaw Design IDE](https://github.com/pouretrebelle/jigsaws) - Development environment for abstractpuzzl.es jigsaw design.
 - [Interview with Generative Artist Kjetil Golid (2020)](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
+- [Functional Geometry](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf) ([Code](https://github.com/micahhahn/FunctionalGeometry))
+- [Plotter Mushroom](https://github.com/cinnamon-bun/plotter-mushroom) - Algorithm for generating SVG art.

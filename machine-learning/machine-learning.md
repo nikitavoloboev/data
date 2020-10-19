@@ -320,3 +320,6 @@
 - [Synthetic Data Vault (SDV)](https://github.com/sdv-dev/SDV) - Synthetic Data Generation for tabular, relational, time series data. ([Web](https://sdv.dev/))
 - [Penn Machine Learning Benchmarks](https://github.com/EpistasisLab/pmlb) - Large, curated repository of benchmark datasets for evaluating supervised machine learning algorithms. ([Web](https://epistasislab.github.io/pmlb/))
 - [2020 Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [Responsible Machine Learning](https://github.com/ModelOriented/DrWhy) - Collection of tools for eXplainable AI (XAI). ([Web](https://modeloriented.github.io/DrWhy/))
+- [MI2 DataLab](https://mi2-warsaw.github.io/) - Group of mathematicians and computer scientists that love to play with data. ([GitHub](https://github.com/ModelOriented))
+- [Papers of Robust ML](https://github.com/P2333/Papers-of-Robust-ML) - Mainly focus on defenses.

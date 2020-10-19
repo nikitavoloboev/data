@@ -36,3 +36,5 @@
 - [SSH tutorial](https://github.com/RabeaMue/SSH_tutorial/blob/master/SSH_tutorial.org) - Small guide how to use SSH.
 - [TRASA](https://github.com/seknox/trasa) - Zero Trust Service Access. ([Web](https://www.trasa.io/))
 - [PSSH](https://github.com/lilydjwg/pssh) - Provides parallel versions of OpenSSH and related tools, including pssh, pscp, prsync, pnuke and pslurp.
+- [SSHDog](https://github.com/Matir/sshdog) - Small portable SSH server in Go.
+- [SSH Through Websocket (2020)](https://rumpelsepp.org/blog/ssh-through-websocket/)

@@ -274,6 +274,7 @@ Here are few more things I liked, design wise.
 - [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])
 - [Geri Reid](https://gerireid.com/index.html)
 - [Christine Dodrill](https://christine.website/)
+- [Gregory Schier](https://schier.co/) ([Code](https://github.com/gschier/schier.co))
 - [Sophia Dominguez](http://sophiaedm.com/)
 - [Owen Williams](https://owenwillia.ms/)
 - [Nicole Orchard](https://nicoleorchard.com/)
@@ -311,6 +312,7 @@ Here are few more things I liked, design wise.
 - [Ian Jones](https://www.ianjones.us/) ([Code](https://github.com/theianjones/blog))
 - [Guillermo Garron](https://www.garron.blog/)
 - [Kabir Shah](https://kabir.sh/)
+- [Jeremy Friesen](https://takeonrules.com/)
 - [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Tomas](https://www.tomas.io/)
@@ -467,6 +469,7 @@ Here are few more things I liked, design wise.
 - [Joe Previte](https://joeprevite.com/) ([Code](https://github.com/jsjoeio/joeprevite.com))
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Sarah Dayan](https://sarahdayan.dev/)
+- [Adam Wiggins](https://adamwiggins.com/)
 - [Matthew Conlen](https://mathisonian.com/) - Clean.
 - [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
 - [Fuzzy Notepad](https://eev.ee/blog/)

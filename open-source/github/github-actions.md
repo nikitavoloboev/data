@@ -144,3 +144,6 @@
 - [GitHub Actions: first impressions (2020)](https://eli.thegreenplace.net/2020/github-actions-first-impressions/)
 - [Build and deploy OpenFaaS functions with GitHub Actions (2020)](https://www.openfaas.com/blog/openfaas-functions-with-github-actions/)
 - [Meercode](https://meercode.io/) - Github Actions Dashboard. Keep an eye on your latest builds.
+- [Run your GitHub Actions in AWS CodeBuild](https://github.com/glassechidna/cbactions)
+- [GitHub Actions SDK (Go)](https://github.com/sethvargo/go-githubactions)
+- [Push to GitHub Container Registry using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)

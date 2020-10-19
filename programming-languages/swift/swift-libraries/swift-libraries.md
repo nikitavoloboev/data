@@ -105,6 +105,7 @@
 - [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
 - [SwiftPageMenu](https://github.com/tamanyan/SwiftPageMenu) - Customizable Page Tab Menu Controller.
 - [PIPKit](https://github.com/Kofktu/PIPKit) - Picture in Picture for iOS.
+- [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple but highly customizable paging layout for UICollectionView.
 
 ## macOS
 
@@ -447,6 +448,7 @@
 - [Swift Atomics](https://github.com/apple/swift-atomics) - Implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values.
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Lightweight, pure-Swift library for generating pretty QRCode image with input watermark or icon and recognizing QRCode from image.
 - [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - Package which provides transformation operation for WebAssembly binary.
+- [Graphiti](https://github.com/GraphQLSwift/Graphiti) - Swift library for building GraphQL schemas/types fast, safely and easily.
 
 ## Other (not lib)
 

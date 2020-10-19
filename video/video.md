@@ -123,3 +123,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Circles for Zoom](https://www.circlesforzoom.com/) - Get rid of the big Zoom window and turn each participant into a circle on your screen.
 - [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers) - Awesome YouTubers that teach about technology.
 - [Tools to create persistent room for team meetings (2020)](https://twitter.com/karrisaarinen/status/1317005954462920705)
+- [VideoAsk](https://www.videoask.com/) - Interact face-to-face with your audience & build stronger business relationships.

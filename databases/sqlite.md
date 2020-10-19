@@ -21,3 +21,4 @@
 - [SQLite Quirks and Gotchas](https://sqlite.org/quirks.html)
 - [sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases.
 - [CG/SQL](https://github.com/facebookincubator/CG-SQL) - Easy, accurate SQLite code generation. ([Article](https://engineering.fb.com/open-source/cg-sql/))
+- [SQLite: Begin Concurrent](https://sqlite.org/src/doc/begin-concurrent/doc/begin_concurrent.md)

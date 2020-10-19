@@ -71,3 +71,4 @@
 - [Fist](https://github.com/f-prime/fist) - Fast, lightweight, full-text search and index server. Fist stores all information in memory making lookups very fast while also persisting the index to disk. The index can be accessed over a TCP connection and all data returned is valid JSON.
 - [Towards an Understanding of Search Engines (2017)](https://thought.place/articles/2017/7/22/pagerank/)
 - [Search personal websites (2020)](https://jlelse.blog/links/2020/10/searchmysite/)
+- [GoCrawler](https://github.com/el10savio/GoCrawler) - Distributed web crawler implemented using Go, Postgres, RabbitMQ and Docker.

@@ -45,8 +45,9 @@
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
 - [Discord Rust 3](https://github.com/passcod/accord)
-- [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
-- [Slack Go](https://github.com/nlopes/slack)
+- [Discord Go](https://github.com/bwmarrin/discordgo)
+- [Discord C++](https://github.com/yourWaifu/sleepy-discord)
+- [Discord JS](https://github.com/discordjs/discord.js)
 - [Slack Go 2](https://github.com/slack-go/slack)
 - [Slack Go 3](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
@@ -154,3 +155,4 @@
 - [Abstract API](https://www.abstractapi.com/) - Suite of fast, accurate, & robust APIs.
 - [Stargate](https://github.com/stargate/stargate) - Open source API framework for data. Data gateway deployed between client applications and a database. ([Web](https://stargate.io/)) ([Hello GraphQL; meet Cassandra](https://stargate.io/2020/10/05/hello-graphql.html))
 - [API pagination design (2020)](https://solovyov.net/blog/2020/api-pagination-design/) ([Lobsters](https://lobste.rs/s/isysq1/api_pagination_design))
+- [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client. ([Code](https://github.com/Kong/insomnia))

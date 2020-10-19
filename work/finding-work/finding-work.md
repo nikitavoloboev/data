@@ -81,3 +81,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Ask HN: Just lost my job, where to go from here? (2020)](https://news.ycombinator.com/item?id=24617522)
 - [What I learned from hiring hundreds of engineers can help you land your next job (2020)](https://stackoverflow.blog/2020/09/23/hiring-jobs-candidates-software-coding-programmers-teresa-dietrich/)
 - [Deciding to switch companies (2020)](https://lethain.com/deciding-to-switch/)
+- [HerJobs](https://herjobs.co/) - Hire female talent from emerging economies.

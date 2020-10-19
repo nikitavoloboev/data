@@ -25,3 +25,5 @@
 - [WebSocket Client & Server Implementation for Node](https://github.com/theturtle32/WebSocket-Node)
 - [GraphQL over WebSockets (2020)](https://the-guild.dev/blog/graphql-over-websockets)
 - [Wslay](https://github.com/tatsuhiro-t/wslay) - WebSocket library written in C.
+- [Tungstenite](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
+- [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Asynchronous WebSockets for Tokio stack.

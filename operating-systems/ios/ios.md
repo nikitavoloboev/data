@@ -247,3 +247,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS and iPadOS 14: The MacStories Review](https://www.macstories.net/stories/ios-and-ipados-14-the-macstories-review/)
 - [Thoughts on the App Store from developer of AltStore (2020)](http://rileytestut.com/blog/2020/10/14/thoughts-on-app-store/)
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) - Community additions to Apple's Human Interface Guidelines.
+- [Building a Realtime Widget (2020)](https://nathantornquist.com/blog/2020/10/building-a-realtime-widget/)

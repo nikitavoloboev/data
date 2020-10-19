@@ -65,3 +65,4 @@
 - [LightGBM](https://github.com/microsoft/LightGBM) - Gradient boosting framework that uses tree based learning algorithms.
 - [XGBoost](https://github.com/dmlc/xgboost) - Optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework.
 - [DMLC-Core](https://github.com/dmlc/dmlc-core) - Common bricks library for building scalable and portable distributed machine learning.
+- [Linear Models](https://github.com/bashtage/linearmodels) - Add linear models including instrumental variable and panel data models that are missing from statsmodels.

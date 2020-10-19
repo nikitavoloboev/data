@@ -33,3 +33,4 @@
 - [Webpack CLI](https://github.com/webpack/webpack-cli)
 - [Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/) ([HN](https://news.ycombinator.com/item?id=24741529))
 - [How to Set Up webpack 5 from Scratch (2020)](https://www.taniarascia.com/how-to-use-webpack/)
+- [webpack-merge](https://github.com/survivejs/webpack-merge) - Provides a merge function that concatenates arrays and merges objects creating a new object.

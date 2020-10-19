@@ -61,6 +61,7 @@
 - [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types.
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies))
 - [newtype-ts](https://github.com/gcanti/newtype-ts) - Implementation of newtypes in TypeScript.
+- [fluent-builder](https://github.com/develohpanda/fluent-builder) - Typed, fluent builder for generating fixtures in Typescript.
 
 ## Links
 

@@ -113,3 +113,5 @@
 - [Learning Node.js internals](https://github.com/danbev/learning-nodejs)
 - [Boa](https://alibaba.github.io/pipcook/#/manual/intro-to-boa) - Call python functions from Node.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework For Interactive CLIs.
+- [localPorridge](https://github.com/johnletey/localPorridge) - Rip-off of localStorage for Node.
+- [Why does package-lock.json exist, and how does it work? (2020)](https://lucasfcosta.com/2020/10/17/lockfile-guide.html)

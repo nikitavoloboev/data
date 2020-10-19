@@ -110,3 +110,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [HideAndSec](https://hideandsec.sh/) - Group of cybersecurity enthusiasts.
 - [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/) - Collection of high value information on specific application security topics. ([Code](https://github.com/OWASP/CheatSheetSeries))
 - [Tricks for penetration testing](https://github.com/kmkz/Pentesting)
+- [Malware Source Code Collection](https://github.com/vxunderground/MalwareSourceCode)
+- [Research code & papers from members of vx-underground](https://github.com/vxunderground/VXUG-Papers)

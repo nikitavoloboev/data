@@ -22,3 +22,4 @@
 - [Built with Cloudflare Workers](https://workers.cloudflare.com/built-with)
 - [Let's build a Cloudflare Worker with WebAssembly and Haskell (2020)](https://blog.cloudflare.com/cloudflare-worker-with-webassembly-and-haskell/)
 - [cfw](https://github.com/lukeed/cfw) - Build and deploy utility for Cloudflare Workers.
+- [pytest-cloudflare-worker](https://github.com/samuelcolvin/pytest-cloudflare-worker) - CloudFlare worker system tests packaged as a pytest plugin.

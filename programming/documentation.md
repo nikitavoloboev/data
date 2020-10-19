@@ -30,7 +30,7 @@
 - [A Rubric for Open Source Documentation (2019)](https://naildrivin5.com/blog/2019/08/23/a-rubric-for-open-source-documentation.html)
 - [Outline](https://github.com/outline/outline) - Open, extensible, wiki for your team built using React and Node.js
 - [Ask HN: What is key to good technical documentation? (2019)](https://news.ycombinator.com/item?id=20909783)
-- [Slab](https://slab.com/) - Simple, scalable wiki that knocks down silos.
+- [Slab](https://slab.com/) - Simple, scalable wiki that knocks down silos. ([HN](https://news.ycombinator.com/item?id=24824063))
 - [How to remove condescending language from documentation (2019)](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
 - [Rich docs with Storybook MDX (2019)](https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc)
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.

@@ -78,3 +78,5 @@
 - [cURL security anti-patterns (2020)](https://blog.pan-net.cloud/posts/curl-security-anti-patterns/)
 - [nghttp3](https://github.com/ngtcp2/nghttp3) - Implementation of HTTP/3 mapping over QUIC and QPACK in C.
 - [aria2](https://github.com/aria2/aria2) - Lightweight multi-protocol & multi-source, cross platform download utility operated in command-line.
+- [htcat](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
+- [How HTTPS Works in Layman’s Terms – TLS 1.2 and 1.3 (2020)](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)

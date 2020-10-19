@@ -197,3 +197,5 @@
 - [Awesome Mathematical Notation Design](https://github.com/fredhohman/awesome-mathematical-notation-design)
 - [Toward an API for the Real Numbers (2020)](https://blog.acolyer.org/2020/10/02/toward-an-api-for-the-real-numbers/) ([HN](https://news.ycombinator.com/item?id=24700705))
 - [Making the Monty Hall problem weirder but obvious (2020)](https://dyno-might.github.io/2020/09/17/making-the-monty-hall-problem-weirder-but-obvious/) ([HN](https://news.ycombinator.com/item?id=24707305))
+- [Euler's Formula: A Complete Guide](https://mathvault.ca/euler-formula/) ([HN](https://news.ycombinator.com/item?id=24825065))
+- [Isomorphism - Mathematics of Programming book](https://github.com/liuxinyu95/unplugged) - Introduces the mathematics behind computer programming.

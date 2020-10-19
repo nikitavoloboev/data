@@ -166,3 +166,4 @@
 - [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices)
 - [SwiftDump](https://github.com/neil-wu/SwiftDump) - Command-line tool for retriving the Swift Object info from Mach-O file.
 - [Advanced Swift learning resources (2020)](https://twitter.com/drewmccormack/status/1314539109013127181)
+- [MinSwift](https://github.com/giginet/MinSwift-workshop) - Minimum Swift compiler written in Swift.

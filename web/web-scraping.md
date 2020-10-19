@@ -40,3 +40,4 @@
 - [Scraping News and Articles From Public APIs with Python (2020)](https://martinheinz.dev/blog/31)
 - [LinkedIn Scraper](https://github.com/linkedtales/scrapedin)
 - [ScrapeOwl](https://scrapeowl.com/) - Simple and affordable web scraping API.
+- [Pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler.

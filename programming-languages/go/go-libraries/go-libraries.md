@@ -38,6 +38,7 @@
 - [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
 - [Mockc](https://github.com/KimMachineGun/mockc) - Compile-time mock generator for Go.
 - [Terratest](https://github.com/gruntwork-io/terratest) - Makes it easier to write automated tests for your infrastructure code.
+- [gomonkey](https://github.com/agiledragon/gomonkey) - Library to make monkey patching in unit tests easy.
 
 ## Web
 
@@ -75,6 +76,11 @@
 - [cachecontrol](https://github.com/pquerna/cachecontrol) - HTTP Caching Parser and Interpretation.
 - [autotls](https://github.com/gin-gonic/autotls) - Support Let's Encrypt for a Go server application.
 - [Go-Guardian](https://github.com/shaj13/go-guardian) - Provides a simple, clean, and idiomatic way to create powerful modern API and web authentication.
+- [gorilla/sessions](https://github.com/gorilla/sessions) - Provides cookie and filesystem sessions and infrastructure for custom session backends.
+- [gorilla/csrf](https://github.com/gorilla/csrf) - HTTP middleware library that provides cross-site request forgery (CSRF) protection.
+- [securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values.
+- [gorilla/handlers](https://github.com/gorilla/handlers) - Collection of useful middleware for Go HTTP services & web applications.
+- [gorilla/schema](https://github.com/gorilla/schema) - Converts structs to and from form values.
 
 ## GraphQL
 
@@ -522,6 +528,9 @@
 - [CRDT](https://github.com/neurodrone/crdt) - Go implementation of CRDTs.
 - [XID](https://github.com/rs/xid) - Globally unique id generator library, ready to safely be used directly in your server code.
 - [Libcache](https://github.com/shaj13/libcache) - Lightweight in-memory key:value cache library for Go.
+- [tldr](https://github.com/JesusIslam/tldr) - Text summarizer for go using LexRank.
+- [ln](https://github.com/Xe/ln) - Natural log function. ([Article](https://christine.website/blog/ln-the-natural-logger-2020-10-17))
+- [Gohalt](https://github.com/1pkg/gohalt) - Simple and convenient yet powerful and efficient throttling go library.
 
 ## Links
 

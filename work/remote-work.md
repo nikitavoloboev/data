@@ -3,6 +3,7 @@
 ## Notes
 
 - [Remote work tip: Leave a Zoom open that anyone on the team can drop by during some predictable hours. No specific agenda.](https://twitter.com/dksf/status/1308799667153432576)
+- [Running a Remote Company ≠ Working From Home. It means the freedom to set your own work hours, work from anywhere (cafes, travel, co-working) and live where you want.](https://twitter.com/awilkinson/status/1317911134704340992)
 
 ## Links
 

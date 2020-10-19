@@ -18,6 +18,7 @@
 - [Egghead new NextJS front end](https://github.com/eggheadio/egghead-io-nextjs)
 - [Opinionated Next.js Starter with TypeScript, Tailwind, MDX, and decent SEO](https://github.com/joelhooks/next-typescript-tailwind-mdx-starter)
 - [Blog built using TypeScript/Next.js/Tailwind CSS/MDX Remote/Next SEO](https://github.com/BartoszJarocki/web-jarocki-me)
+- [Canvas-based arrows playground](https://github.com/steveruizok/arrows-playground)
 
 ## NextJS plugins
 

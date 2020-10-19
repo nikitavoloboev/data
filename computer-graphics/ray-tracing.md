@@ -41,3 +41,4 @@
 - [Racing the Beam Ray Tracer (2018)](https://tomverbeure.github.io/rtl/2018/11/26/Racing-the-Beam-Ray-Tracer.html) - Full Hardware Real-Time Ray-Tracer. ([Code](https://github.com/tomverbeure/rt))
 - [Ray-tracer / Learning project with Rust](https://github.com/qu4k/rain)
 - [tray_rust](https://github.com/Twinklebear/tray_rust) - Toy Ray Tracer in Rust.
+- [Visionaray](https://github.com/szellmann/visionaray) - C++-based, cross platform ray tracing library. ([Web](https://vis.uni-koeln.de/forschung/software-visionaray))

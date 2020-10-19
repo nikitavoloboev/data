@@ -33,3 +33,5 @@
 - [mlibc](https://github.com/managarm/mlibc) - C standard library.
 - [miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C. ([Web](https://miniaud.io/))
 - [libeatmydata](https://github.com/stewartsmith/libeatmydata) - LD_PRELOAD library that disables all forms of writing data safely to disk. fsync() becomes a NO-OP, O_SYNC is removed etc.
+- [C Smart Pointers](https://github.com/Snaipe/libcsptr) - Attempt to bring smart pointer constructs to C programming language. ([Article](https://snai.pe/posts/c-smart-pointers))
+- [Criterion](https://github.com/Snaipe/Criterion) - Dead-simple, yet extensible, C and C++ unit testing framework.

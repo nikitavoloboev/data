@@ -354,3 +354,8 @@ Go promotes composition over inheritance.
 - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 - [go-module-knobs](https://github.com/thepudds/go-module-knobs) - List of go module knobs for controlling CI, vendoring, and when go commands access the network.
 - [Go day on Google Open Source Live](https://opensourcelive.withgoogle.com/events/go) - Go experts will share updates on everything from Go basics to Package Discovery and Editor Tooling.
+- [Chronos](https://github.com/amit-davidson/Chronos) - Static race detector for the go language.
+- [Goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit.
+- [Go Regular Expressions (2020)](https://codesalad.dev/blog/go-regular-expressions-5)
+- [Build a Go Router From Scratch (2020)](https://codesalad.dev/blog/build-a-go-router-from-scratch-3)
+- [Benchmarks of Go serialization methods](https://github.com/alecthomas/go_serialization_benchmarks)

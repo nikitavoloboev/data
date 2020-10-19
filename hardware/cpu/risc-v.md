@@ -48,3 +48,5 @@
 - [Modernising RISC OS in 2020: is there hope for the ancient ARM OS? (2020)](https://liam-on-linux.livejournal.com/73983.html) ([Lobsters](https://lobste.rs/s/wh5bzl/modernising_risc_os_2020_is_there_hope_for))
 - [Tockilator](https://github.com/oxidecomputer/tockilator) - Deducing Tock execution flows from Ibex Verilator traces.
 - [Lecture notes on RISC-V assembly](https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/) ([HN](https://news.ycombinator.com/item?id=24810604))
+- [narvie](https://github.com/physical-computation/narvie) - Native REPL for RISC-V Instructions.
+- [OCaml RISC-V Extension](https://github.com/patricoferris/riscv-o-spec)

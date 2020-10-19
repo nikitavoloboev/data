@@ -182,3 +182,5 @@
 - [Minimalistic rEFInd theme](https://github.com/EvanPurkhiser/rEFInd-minimal) - rEFInd is an easy to use boot manager for UEFI based systems.
 - [rEFInd EFI Boot Manager](https://github.com/agners/rEFInd)
 - [LFS, round #1 (2020)](https://www.geeklan.co.uk/?p=2620) ([Lobsters](https://lobste.rs/s/qngua4/lfs_round_1))
+- [Sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux.
+- [Linux Commands frequently used by Linux Sysadmins (2020)](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)

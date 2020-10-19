@@ -42,7 +42,7 @@
 - [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/))
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
 - [hypercore-protocol-rs](https://github.com/Frando/hypercore-protocol-rs) - Rust implementation of the wire protocol of Hypercore.
-- [Earthstar](https://github.com/cinnamon-bun/earthstar) - Offline-first, distributed, syncable key-value store for use in p2p software.
+- [Earthstar](https://github.com/earthstar-project/earthstar) - Distributed, syncable document database for making p2p apps. ([react-earthstar](https://github.com/earthstar-project/react-earthstar))
 - [go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - PubSub implementation for go-libp2p.
 - [multifeed](https://github.com/kappa-db/multifeed) - Multi-writer hypercore.
 - [Data Terra Nemo talks](https://www.youtube.com/channel/UCp-7zAsouqg4LP4xULhYhcg/videos)

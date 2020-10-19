@@ -2,6 +2,9 @@
 
 ## Recruitment tests
 
+- [Cloudflare General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment)
+- [Cloudflare Systems Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-systems-engineering-assignment)
+- [Guardian Coding Exercises](https://github.com/guardian/coding-exercises)
 - [Skyscanner](https://github.com/Skyscanner/full-stack-recruitment-test)
 - [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
 

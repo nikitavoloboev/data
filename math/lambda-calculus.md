@@ -39,3 +39,4 @@ Is logical theory of computable functions.
 - [All you need is λ, part one: booleans (2020)](https://antitypical.com/posts/2020-03-29-all-you-need-is-lambda-1-booleans/) ([HN](https://news.ycombinator.com/item?id=24601981))
 - [lambda-mu-mu-calculus](https://github.com/fizruk/lambda-mu-mu-calculus) - Interpreter for λ̅μμ̃-calculus of Herbelin and Curien.
 - [Notes on lambda calculus and type theory](https://github.com/blynn/lambda)
+- [Fun with Lambda Calculus](https://stopa.io/post/263)

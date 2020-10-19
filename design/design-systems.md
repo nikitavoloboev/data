@@ -45,6 +45,7 @@
 - [UI Playbook](https://uiplaybook.dev/)
 - [Dracula UI](https://draculatheme.com/ui) - Dark-first collection of UI patterns and components.
 - [@polkadot/ui](https://github.com/polkadot-js/ui) ([Web](https://polkadot.js.org/ui/))
+- [Dripsy](https://github.com/nandorojo/dripsy) - Responsive, theme-based design system for Expo + React Native Web.
 
 ## Links
 
@@ -81,3 +82,4 @@
 - [Reimagining Design Systems at Spotify (2019)](https://spotify.design/article/reimagining-design-systems-at-spotify)
 - [Radius Design Kit - Figma](https://www.figma.com/community/file/831997833675385869) - Collection of open-source tools and libraries that allow you to accelerate your own design system.
 - [Awesome Design Systems Jobs](https://github.com/honzatmn/awesome-design-systems-jobs)
+- [Design System Kit](https://github.com/rundsk/dsk) - Workbench for collaboratively creating Design Systems. ([Web](https://rundsk.com/))

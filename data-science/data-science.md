@@ -73,7 +73,7 @@
 - [Ask HN: What does your BI stack look like? (2019)](https://news.ycombinator.com/item?id=21513566)
 - [Easy Data Transform](https://www.easydatatransform.com/) - Transform Your Data Without Programming. ([HN](https://news.ycombinator.com/item?id=21165736))
 - [Prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [Dagster](https://github.com/dagster-io/dagster) - Python library for building data applications: ETL, ML, Data Pipelines, and more.
+- [Dagster](https://github.com/dagster-io/dagster) - Python library for building data applications: ETL, ML, Data Pipelines, and more. ([Dagster: The Data Orchestrator](https://www.dagster.io/blog/dagster-the-data-orchestrator)) ([Lobsters](https://lobste.rs/s/v7ws9l/dagster_data_orchestrator))
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
 - [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
@@ -128,3 +128,4 @@
 - [Streamlit Sharing](https://blog.streamlit.io/introducing-streamlit-sharing/) - Platform for deploying, managing, and sharing your apps. ([HN](https://news.ycombinator.com/item?id=24789257))
 - [Awesome Data Engineering Learning Path](https://awesomedataengineering.com/) ([Code](https://github.com/snird/awesome-data-engineering-learning)) ([HN](https://news.ycombinator.com/item?id=24817630))
 - [Emerging Architectures for Modern Data Infrastructure (2020)](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) ([HN](https://news.ycombinator.com/item?id=24814687))
+- [PandasGUI](https://github.com/adamerose/pandasgui) - GUI for analyzing Pandas DataFrames.
