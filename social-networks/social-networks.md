@@ -67,3 +67,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Twt](https://jointwt.org/) - New way to social media.
 - [Going Viral as a Woman in Tech (2020)](https://www.emilykager.com/writing/2020/10/08/virality.html) ([HN](https://news.ycombinator.com/item?id=24743439))
 - [Combating abuse in Matrix - without backdoors (2020)](https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors)
+- [Why Social Media Is So Good at Polarizing Us (2020)](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) ([Tweet](https://twitter.com/mims/status/1318177521318461447))

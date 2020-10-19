@@ -32,3 +32,4 @@
 - [15 principles for product work (2020)](https://twitter.com/shreyas/status/1313539331563298817)
 - [Resources for Learning Product Management (2020)](https://informedpm.com/posts/product-manager-resources)
 - [Cloudflare Product Management Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-product-management-assignment)
+- [Personal knowledge management for product managers](https://twitter.com/osamakhn/status/1317968591279411200)
