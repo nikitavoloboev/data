@@ -7,7 +7,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 ## Interesting editors
 
 - [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. ([HN](https://news.ycombinator.com/item?id=23626398))
-- [CodeMirror](http://codemirror.net/) - In-browser code editor.
+- [CodeMirror](http://codemirror.net/) - In-browser code editor. ([Code](https://github.com/codemirror/CodeMirror))
 - [Awesome Online IDE](https://github.com/styfle/awesome-online-ide)
 - [Iota](https://github.com/gchp/iota) - Terminal-based text editor written in Rust.
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.

@@ -188,3 +188,5 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Vim plugins I use (2018)](https://news.ycombinator.com/item?id=17430546)
 - [Overview of what belongs in each directory of a Vim plugin](https://gist.github.com/nelstrom/1056049/784e252c3de653e204e9e128653010e19fbd493f)
 - [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins from across the universe. ([Code](https://github.com/vim-awesome/vim-awesome))
+- [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
+- [dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.

@@ -141,3 +141,4 @@
 - [Spacetime Physics book (1992)](http://www.eftaylor.com/spacetimephysics/) - By Taylor and Wheeler (Feynman's PhD advisor).
 - [Gravity is not a force – free-fall parabolas are straight lines in spacetime](https://timhutton.github.io/GravityIsNotAForce/) ([HN](https://news.ycombinator.com/item?id=24821141))
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html) - Physics Exploration Environment.
+- [A new way to visualize General Relativity (2020)](https://www.youtube.com/watch?v=wrwgIjBUYVc)

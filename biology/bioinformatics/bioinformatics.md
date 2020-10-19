@@ -64,3 +64,4 @@
 - [Bioinformatics Algorithms book](https://www.bioinformaticsalgorithms.org/read-the-book)
 - [ASAP](https://github.com/BingqingCheng/ASAP) - Automatic Selection And Prediction tools for materials and molecules.
 - [The second decade of synthetic biology: 2010–2020](https://www.nature.com/articles/s41467-020-19092-2) ([HN](https://news.ycombinator.com/item?id=24786151))
+- [BioDesign Research Conference](https://www.biodesign-conference.com/index.php)
