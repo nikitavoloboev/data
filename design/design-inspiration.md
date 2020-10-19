@@ -53,6 +53,7 @@ Here are few more things I liked, design wise.
 - [Remotive](https://remotive.io/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
+- [Blogging For Devs](https://bloggingfordevs.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
 

@@ -48,3 +48,4 @@
 - [Simple JWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt) - JSON Web Token authentication plugin for the Django REST Framework.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Generate real Swagger/OpenAPI 2.0 specifications from a Django Rest Framework API.
 - [Graphene-Django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL into your Django project.
+- [Optimizing Postgres full text search in Django (2019)](https://hodovi.ch/blog/optimizing-postgres-full-text-search-django/)
