@@ -193,6 +193,7 @@
   - [State machines](programming/state-machines.md)
   - [Software testing](programming/software-testing/software-testing.md)
     - [Fuzzing](programming/software-testing/fuzzing.md)
+    - [Cypress](programming/software-testing/cypress.md)
   - [JSON](programming/json.md)
 - [Programming languages](programming-languages/programming-languages.md)
   - [Go](programming-languages/go/go.md)

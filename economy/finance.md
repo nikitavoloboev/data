@@ -72,3 +72,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Mollie](https://www.mollie.com/en) - Effortless payments.
 - [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance)
 - [Paysend](https://paysend.com/) - Send money internationally. Nice for sending money to Russia at low (no) cost.
+- [Tax strategies for large earnings surge (2020)](https://www.reddit.com/r/fatFIRE/comments/jdrl4a/tax_strategies_for_large_earnings_surge/)

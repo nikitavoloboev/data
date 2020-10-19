@@ -222,3 +222,5 @@
 - [Link hover animation (circled)](https://codepen.io/aaroniker/pen/VwjeGLm)
 - [min(), max(), and clamp(): three logical CSS functions to use today (2020)](https://web.dev/min-max-clamp/)
 - [CSS Buttons](https://cssbuttons.vercel.app/) - Pure HTML & CSS Buttons For Web Development. ([Code](https://github.com/r1/cssbuttons))
+- [The State of CSS](https://stateofcss.com/) ([Code](https://github.com/StateOfJS/StateOfCSS-homepage))
+- [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)

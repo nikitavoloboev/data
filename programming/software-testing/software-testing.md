@@ -41,7 +41,6 @@
 - [The lazy programmer's guide to writing thousands of tests: An introduction to Property-Based Tests (2020)](https://www.youtube.com/watch?v=IYzDFHx6QPY)
 - [Against Testing (2020)](https://flak.tedunangst.com/post/against-testing) ([HN](https://news.ycombinator.com/item?id=23755339)) ([Lobsters](https://lobste.rs/s/fepvea/against_testing))
 - [Unit Testing is Overrated (2020)](https://tyrrrz.me/blog/unit-testing-is-overrated) ([HN](https://news.ycombinator.com/item?id=23778878))
-- [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. ([Recipes](https://github.com/cypress-io/cypress-example-recipes))
 - [Implementing mutation testing in a niche language with Stryker (2020)](https://medium.com/att-israel/mutants-against-bugs-87f77a95aad)
 - [BrowserStack](https://www.browserstack.com/) - App & Browser Testing Made Easy.
 - [Karate](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. ([HN](https://news.ycombinator.com/item?id=24176433))
@@ -59,6 +58,5 @@
 - [Anatomy of a Good Test (2020)](https://www.innoq.com/en/blog/anatomy-of-a-good-test/)
 - [Assertion Injection : Unit Test Design Pattern](http://redsymbol.net/articles/assertion-injection/)
 - [High-level Language Features and Testing](http://redsymbol.net/articles/high-level-lang-features-and-testing/)
-- [Tricks to make cypress tests run faster (2020)](https://twitter.com/oleg008/status/1314114975783362561)
 - [I/O Benchmark Suite](https://github.com/Algodev-github/S)
 - [Prefer Fakes Over Mocks (2020)](https://tyrrrz.me/blog/fakes-over-mocks) ([Lobsters](https://lobste.rs/s/7dwpye/prefer_fakes_over_mocks)) ([HN](https://news.ycombinator.com/item?id=24770954))

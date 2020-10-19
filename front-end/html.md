@@ -68,3 +68,4 @@
 - [Awfice](https://zserge.com/posts/awfice/) - Collection of tiny office suite apps. ([Article](https://zserge.com/posts/awfice/)) ([HN](https://news.ycombinator.com/item?id=24752546))
 - [croquis.js](https://github.com/disjukr/croquis.js) - HTML5 drawing tool library.
 - [Emmet](https://github.com/emmetio/emmet) - Web-developer’s toolkit for boosting HTML & CSS code writing. ([Web](https://emmet.io/))
+- [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html) ([HN](https://news.ycombinator.com/item?id=24824977))

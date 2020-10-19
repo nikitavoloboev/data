@@ -140,3 +140,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Intro to Web Design](https://rafaltomal.com/class/intro/)
 - [Adobe MAX Creativity Conference](https://max.adobe.com/)
 - [You don't know UI](https://github.com/MenaiAla/You-Dont-Know-UI) - Learn how to build universal, modern and scalable user interfaces.
+- [14 Patterns of Biophilic Design](https://www.terrapinbrightgreen.com/reports/14-patterns/)
