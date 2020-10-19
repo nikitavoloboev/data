@@ -139,3 +139,4 @@
 - [gqtx](https://github.com/sikanhe/gqtx) - Thin layer on top of graphql-js for writing a type-safe GraphQL server in TypeScript.
 - [Apollo Server](https://github.com/apollographql/apollo-server) - GraphQL server for Express, Connect, Hapi, Koa and more.
 - [graphql-transport-ws](https://github.com/enisdenjo/graphql-transport-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
+- [Fullstack GraphQL](https://www.newline.co/fullstack-graphql) - Complete Guide to Writing GraphQL Servers and Clients with TypeScript.

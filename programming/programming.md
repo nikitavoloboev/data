@@ -262,3 +262,4 @@
 - [Crafting Functions](https://stopa.io/post/251) ([HN](https://news.ycombinator.com/item?id=24779624))
 - [Handling Bidirectional Control Flow (2020)](https://www.cs.cornell.edu/andru/papers/ufo/)
 - [Managing technical quality in a codebase (2020)](https://lethain.com/managing-technical-quality/)
+- [How to Write Good Programs book (2020)](https://www.cambridge.org/core/books/how-to-write-good-programs/6CBDD8A564E0899D54140700E90601C4)
