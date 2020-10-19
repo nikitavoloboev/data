@@ -25,3 +25,4 @@
 - [AeroPress](https://aeropress.com/) - Device for brewing coffee.
 - [Low-tech “mild coffee” with Aeropress (2020)](https://blog.project-insanity.org/2020/10/09/low-tech-mild-coffee-with-aeropress/)
 - [How to enjoy coffee](https://psyche.co/guides/good-coffee-is-like-a-fine-wine-start-with-high-quality-beans)
+- [HashiCafe Coffee Art (2020)](https://www.youtube.com/watch?v=dWNv_XDR0zg)

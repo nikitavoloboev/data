@@ -56,3 +56,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Recycling was a lie to sell more plastic, recycling industry veteran says (2020)](https://www.cbc.ca/documentaries/the-passionate-eye/recycling-was-a-lie-a-big-lie-to-sell-more-plastic-industry-experts-say-1.5735618) ([HN](https://news.ycombinator.com/item?id=24714880))
 - [Climate Change Datasets for Machine Learning (2020)](https://lionbridge.ai/datasets/11-best-climate-change-datasets-for-machine-learning/)
 - [Open Catalyst Project](https://opencatalystproject.org/) - Using AI to model and discover new catalysts to address the energy challenges posed by climate change. ([Code](https://github.com/Open-Catalyst-Project/ocp))
+- [The Climate Issue](https://parametric.press/issue-02/)

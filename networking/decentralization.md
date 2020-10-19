@@ -27,7 +27,7 @@
 - [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network. ([Code](https://github.com/yggdrasil-network/yggdrasil-go))
 - [AutoDapp](https://github.com/autodapp/autodapp) - Instantly decentralize your web app.
-- [Everest](https://everest.link/) - Universally shared projects registry.
+- [Everest](https://everest.link/) - Universally shared projects registry. ([Projects](https://everest.link/projects/))
 - [Infura](https://infura.io/) - Ethereum & IPFS APIs. Develop now on Web 3.0.
 - [Aragon](https://aragon.org/) - Gives internet communities unprecedented power to organize around shared values and resources.
 - [73 and Web3](https://github.com/sagmom3/73-and-web3)

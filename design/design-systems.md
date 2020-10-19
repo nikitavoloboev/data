@@ -83,3 +83,4 @@
 - [Radius Design Kit - Figma](https://www.figma.com/community/file/831997833675385869) - Collection of open-source tools and libraries that allow you to accelerate your own design system.
 - [Awesome Design Systems Jobs](https://github.com/honzatmn/awesome-design-systems-jobs)
 - [Design System Kit](https://github.com/rundsk/dsk) - Workbench for collaboratively creating Design Systems. ([Web](https://rundsk.com/))
+- [Tips on making good design systems (2020)](https://twitter.com/_dte/status/1318222844434796544)

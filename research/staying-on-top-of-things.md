@@ -78,6 +78,7 @@ And these Discord servers:
 - [Nature](https://www.nature.com/)
 - [Atlas Obscura](https://www.atlasobscura.com/)
 - [Logic Magazine](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
+- [Parametric Press](https://parametric.press/about/) ([Code](https://github.com/parametricpress/))
 - [Glimmer](https://glitch.com/glimmer/)
 - [Physics Today](https://physicstoday.scitation.org/journal/pto) ([HN](https://news.ycombinator.com/item?id=23043525))
 - [Psyche](https://psyche.co/) - On the human condition.
