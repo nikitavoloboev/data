@@ -142,3 +142,4 @@
 - [Gravity is not a force – free-fall parabolas are straight lines in spacetime](https://timhutton.github.io/GravityIsNotAForce/) ([HN](https://news.ycombinator.com/item?id=24821141))
 - [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html) - Physics Exploration Environment.
 - [A new way to visualize General Relativity (2020)](https://www.youtube.com/watch?v=wrwgIjBUYVc)
+- [Space Itself Is Expanding: Gravity and General Relativity Explained (2015)](https://medium.com/@davidlevitt/space-itself-is-expanding-gravity-and-general-relativity-explained-6395aa2e4d69)

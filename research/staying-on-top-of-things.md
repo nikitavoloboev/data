@@ -77,10 +77,9 @@ And these Discord servers:
 - [Stratechery](https://stratechery.com/)
 - [Nature](https://www.nature.com/)
 - [Atlas Obscura](https://www.atlasobscura.com/)
-- [Logic Magazine](https://logicmag.io/)
+- [Logic Magazine](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
 - [Glimmer](https://glitch.com/glimmer/)
 - [Physics Today](https://physicstoday.scitation.org/journal/pto) ([HN](https://news.ycombinator.com/item?id=23043525))
-- [Logic](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
 - [Psyche](https://psyche.co/) - On the human condition.
 - [Nautilus](http://nautil.us/) - Science Connected.
 - [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)

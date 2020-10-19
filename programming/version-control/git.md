@@ -171,3 +171,5 @@ I love Git and version control. And I use version control over any project I do.
 - [meta](https://github.com/mateodelnorte/meta) - Tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
 - [Self-hosting Git with cgit (2020)](https://peppe.rs/posts/self-hosting_git/) ([Lobsters](https://lobste.rs/s/mezxcr/self_hosting_git_with_cgit))
 - [Embrace the monolith](https://www.monolithic.dev/) - Embrace a simpler way of building applications.
+- [Better Git diff output for Ruby, Python, Elixir, Go and more (2020)](https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more)
+- [The Git Commit Hash (2020)](https://www.mikestreety.co.uk/blog/the-git-commit-hash)
