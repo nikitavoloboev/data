@@ -264,3 +264,4 @@
 - [Managing technical quality in a codebase (2020)](https://lethain.com/managing-technical-quality/)
 - [How to Write Good Programs book (2020)](https://www.cambridge.org/core/books/how-to-write-good-programs/6CBDD8A564E0899D54140700E90601C4)
 - [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/) - Teaches computer programming.
+- [Programming with a Read-Eval-Synth Loop (2020)](http://cseweb.ucsd.edu/~hpeleg/resl-oopsla20.pdf) ([HN](https://news.ycombinator.com/item?id=24833723))
