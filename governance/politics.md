@@ -15,3 +15,4 @@
 - [David Shor’s Unified Theory of American Politics (2020)](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html)
 - [SplitSearch](https://splitsearch.netlify.app/) - Simultaneously search conservative and liberal news orgs. ([HN](https://news.ycombinator.com/item?id=24723945))
 - [Reading Too Much Political News Is Bad for Your Well-Being (2020)](https://www.theatlantic.com/family/archive/2020/10/reading-too-much-political-news-bad-happiness/616651/) ([HN](https://news.ycombinator.com/item?id=24818637))
+- [The Coinbase post was 100% right. Here's what you can do about it (2020)](https://parametricity.com/posts/2020-power/)

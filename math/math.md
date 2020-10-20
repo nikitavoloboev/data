@@ -199,3 +199,4 @@
 - [Making the Monty Hall problem weirder but obvious (2020)](https://dyno-might.github.io/2020/09/17/making-the-monty-hall-problem-weirder-but-obvious/) ([HN](https://news.ycombinator.com/item?id=24707305))
 - [Euler's Formula: A Complete Guide](https://mathvault.ca/euler-formula/) ([HN](https://news.ycombinator.com/item?id=24825065))
 - [Isomorphism - Mathematics of Programming book](https://github.com/liuxinyu95/unplugged) - Introduces the mathematics behind computer programming.
+- [Semigroups and Monoids](https://bkase.dev/posts/semigroups-and-monoids) ([Lobsters](https://lobste.rs/s/z0tqte/semigroups_monoids))

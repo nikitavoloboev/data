@@ -17,3 +17,4 @@
 - [dhall-prometheus](https://github.com/TristanCacqueray/dhall-prometheus) - Prometheus configuration with Dhall.
 - [graph](https://github.com/Gabriel439/graph) - Dhall support for directed graphs with labeled vertices.
 - [Awesome Dhall](https://github.com/dhall-lang/awesome-dhall)
+- [Data abstraction in Dhall (2020)](https://bkase.dev/posts/data-abstraction-dhall)

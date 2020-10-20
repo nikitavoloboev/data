@@ -85,3 +85,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Zerochain](https://github.com/LayerXcom/zero-chain) - Privacy-preserving blockchain on Substrate. ([Docs](https://layerxcom.github.io/zerochain-book/))
 - [Gnosis Safe Contracts](https://github.com/gnosis/safe-contracts) - Allows secure management of blockchain assets. ([Web](https://gnosis-safe.io/))
 - [Stateless Blockchain on Substrate using RSA Accumulators](https://github.com/paritytech/stateless-blockchain)
+- [Mina Protocol](https://minaprotocol.com/) - Lightest blockchain, powered by participants.

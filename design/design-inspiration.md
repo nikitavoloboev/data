@@ -328,6 +328,7 @@ Here are few more things I liked, design wise.
 - [Wesley Moore](https://www.wezm.net/v2/)
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
 - [Eric Davidson](https://www.erdavids.com/)
+- [Izaak Meckler](https://parametricity.com/)
 - [Jay Riverlong](https://jayriverlong.github.io/)
 - [Tatiana Mac](https://tatianamac.com/)
 - [Two Wrongs](https://two-wrongs.com/)
