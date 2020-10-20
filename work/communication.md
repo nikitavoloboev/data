@@ -53,3 +53,4 @@
 - [Virtual First Toolkit: How to communicate effectively (2020)](https://blog.dropbox.com/topics/work-culture/-virtual-first-toolkit--how-to-communicate-effectively)
 - [Embracing Asynchronous Communication at Gitlab](https://about.gitlab.com/company/culture/all-remote/asynchronous/#async-30-at-gitlab) ([HN](https://news.ycombinator.com/item?id=24800006))
 - [Circle](https://circle.so/) - Modern community platform for creators.
+- [Beginner's Guide to Arguing Constructively (2020)](http://liamrosen.com/arguments.html) ([HN](https://news.ycombinator.com/item?id=24831852))
