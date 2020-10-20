@@ -200,3 +200,4 @@
 - [Euler's Formula: A Complete Guide](https://mathvault.ca/euler-formula/) ([HN](https://news.ycombinator.com/item?id=24825065))
 - [Isomorphism - Mathematics of Programming book](https://github.com/liuxinyu95/unplugged) - Introduces the mathematics behind computer programming.
 - [Semigroups and Monoids](https://bkase.dev/posts/semigroups-and-monoids) ([Lobsters](https://lobste.rs/s/z0tqte/semigroups_monoids))
+- [Favorite (potentially long) mathematician quotes (2020)](https://twitter.com/3blue1brown/status/1317171780448972800)

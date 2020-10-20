@@ -75,3 +75,4 @@
 - [HazyResearch](https://cs.stanford.edu/people/chrismre/) - CS research group led by Prof. Chris Re.
 - [Computer Science Textbooks](https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems)
 - [Fun with Combinators (2020)](https://doisinkidney.com/posts/2020-10-17-ski.html) ([HN](https://news.ycombinator.com/item?id=24815859))
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)

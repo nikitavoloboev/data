@@ -265,3 +265,5 @@
 - [How to Write Good Programs book (2020)](https://www.cambridge.org/core/books/how-to-write-good-programs/6CBDD8A564E0899D54140700E90601C4)
 - [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/) - Teaches computer programming.
 - [Programming with a Read-Eval-Synth Loop (2020)](http://cseweb.ucsd.edu/~hpeleg/resl-oopsla20.pdf) ([HN](https://news.ycombinator.com/item?id=24833723))
+- [Poor man's profiler](http://poormansprofiler.org/) ([Lobsters](https://lobste.rs/s/znckfh/poor_man_s_profiler))
+- [Infer](https://github.com/facebook/infer) - Static analyzer for Java, C, C++, and Objective-C. ([Web](https://fbinfer.com/)) ([Facebook's Code Checker](https://www.youtube.com/watch?v=tKR2UZdRpV0))

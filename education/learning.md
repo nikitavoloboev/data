@@ -76,3 +76,4 @@
 - [SuperMemo Guru wiki](https://supermemo.guru/wiki/SuperMemo_Guru) - Texts on memory, learning, creativity, and education.
 - [Pyxium](https://pyxium.co/) - Earning Through Learning.
 - [Awesome learning](https://github.com/curlpipe/awesome-learning) - Teach yourself a new technology from this list.
+- [Lectures London](https://lectures.london/) - Academic lectures hosted by London universities.

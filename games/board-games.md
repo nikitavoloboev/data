@@ -19,3 +19,5 @@ I keep a [list of all board games I played](https://boardgamegeek.com/collection
 - [Hanabi Live](https://hanabi.live/) - Place to play Hanabi online. Cooperative card game of logic and reasoning. ([Code](https://github.com/Zamiell/hanabi-live)) ([List of Hanabi Strategies](https://github.com/Zamiell/hanabi-conventions))
 - [Love Letter to KataGo or: Go AI past, present, and future](https://brantondemoss.com/writing/kata/)
 - [StartPlaying.Games](https://startplaying.games/) - Tabletop RPGs run by pro game masters. ([HN](https://news.ycombinator.com/item?id=24827162))
+- [I Solved British Square (2020)](https://nullprogram.com/blog/2020/10/19/)
+- [Go Game notes](https://tromp.github.io/go.html)

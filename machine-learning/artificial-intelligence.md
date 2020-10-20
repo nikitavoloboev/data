@@ -37,4 +37,4 @@
 - [AI Paygrades](https://aipaygrad.es/) - Statistics of industry job offers in Artificial Intelligence.
 - [CS50 Introduction to Artificial Intelligence with Python (2020)](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv) ([Notes](http://stribny.name/blog/2020/10/artificial-intelligence-in-python))
 - [Mathematical Theory of Artificial Intelligence course (2020)](http://homepages.math.uic.edu/~lreyzin/f20_mcs548/)
-- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) ([HN](https://news.ycombinator.com/item?id=24809374))
+- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) ([HN](https://news.ycombinator.com/item?id=24809374)) ([In OCaml](https://github.com/tautologico/paip-ocaml))

@@ -53,3 +53,4 @@
 - [napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
 - [NeuralHash](https://github.com/nikcheerla/neuralhash) - Adversarial Steganographic Method For Robust, Imperceptible Watermarking.
 - [gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs from image data.
+- [Image Processing Techniques That You Can Use in Machine Learning Projects (2020)](https://neptune.ai/blog/image-processing-techniques-you-can-use-in-machine-learning)

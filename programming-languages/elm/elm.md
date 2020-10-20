@@ -39,3 +39,5 @@
 - [Beginning Elm](https://elmprogramming.com/) - Gentle introduction to Elm programming language.
 - [Evan Czaplicki - The life of a file (2017)](https://www.youtube.com/watch?v=XpDsk374LDE)
 - [Elm debug extension](https://github.com/kraklin/elm-debug-extension) - Browser extension, that is making your elm Debug.log output much easier to work with.
+- [Issue #40: Functional programming in Elm (2020)](https://elmbits.com/issue-40-functional-programming/)
+- [Elm Bits](https://elmbits.com/) - Free weekly newsletter about Elm.

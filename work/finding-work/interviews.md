@@ -29,7 +29,7 @@
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews)
-- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) ([HN](https://news.ycombinator.com/item?id=20727126))
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) ([HN](https://news.ycombinator.com/item?id=20727126)) ([Code](https://github.com/yangshun/tech-interview-handbook))
 - [Interview Map](https://github.com/KieSun/InterviewMap) - A map that can help you make a better preparation for the next interview.
 - [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers)
 - [Prepare for interview in 1 week advice](https://news.ycombinator.com/item?id=17755688)
@@ -94,3 +94,5 @@
 - [What an interview with Steve Jobs feels like (intimidating personality) (2020)](https://www.youtube.com/watch?v=ecKgqJRvZ5M)
 - [Reversing the technical interview (2017)](https://aphyr.com/posts/340-reversing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24735062))
 - [EPI Judge](https://github.com/adnanaziz/EPIJudge) - Companion to our book Elements of Programming Interviews.
+- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Curated list of lists of technical interview questions.
+- [Everything you need to know to get the job](https://github.com/kdn251/interviews)

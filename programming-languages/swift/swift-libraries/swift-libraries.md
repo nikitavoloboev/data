@@ -450,6 +450,7 @@
 - [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Lightweight, pure-Swift library for generating pretty QRCode image with input watermark or icon and recognizing QRCode from image.
 - [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - Package which provides transformation operation for WebAssembly binary.
 - [Graphiti](https://github.com/GraphQLSwift/Graphiti) - Swift library for building GraphQL schemas/types fast, safely and easily.
+- [ZippyJSON](https://github.com/michaeleisel/ZippyJSON) - Much faster version of JSONDecoder.
 
 ## Other (not lib)
 

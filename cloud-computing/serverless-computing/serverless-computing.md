@@ -4,7 +4,7 @@
 
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196))
 - [fn](https://github.com/fnproject/fn) - Container native, cloud agnostic serverless platform.
-- [Architect](https://github.com/arc-repos/architect) - The simplest, most powerful way to build serverless applications.
+- [Architect](https://github.com/architect/architect) - The simplest, most powerful way to build serverless applications. ([Docs](https://arc.codes/))
 - [serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome/Chromium on AWS Lambda (maybe Azure, & GCP later).
 - [Space Cloud](https://github.com/spaceuptech/space-cloud) - Open source, web server that provides instant Realtime APIs on any database of your choice.
 - [ƒun](https://github.com/vercel/fun) - Local serverless function λ development runtime.

@@ -152,3 +152,4 @@
 - [CYBERTEC PostgreSQL](https://github.com/cybertec-postgresql) - Professional PostgreSQL services. ([Web](https://www.cybertec-postgresql.com/en/))
 - [Efficient Evenly Distributed Sampling of Time Series Records in PostgreSQL (2020)](https://blog.joshsoftware.com/2020/10/14/efficient-evenly-distributed-sampling-of-time-series-records-in-postgresql/)
 - [postgres-interval](https://github.com/bendrucker/postgres-interval) - Parse Postgres interval columns.
+- [The Surprising Impact of Medium-Size Texts on PostgreSQL Performance (2020)](https://hakibenita.com/sql-medium-text-performance)

@@ -146,3 +146,4 @@
 - [No, C++ still isn't cutting it (2020)](https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html) ([HN](https://news.ycombinator.com/item?id=24817594)) ([Reddit](https://www.reddit.com/r/rust/comments/jdgm6u/no_c_still_isnt_cutting_it/))
 - [17 Smaller but Handy C++17 Features (2020)](https://www.bfilipek.com/2019/08/17smallercpp17features.html)
 - [`constexpr` is a Platform (2020)](https://foonathan.net/2020/10/constexpr-platform/)
+- [Warrior1: A Performance Sanitizer for C++ (2020)](https://arxiv.org/abs/2010.09583)

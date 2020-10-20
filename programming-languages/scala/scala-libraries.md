@@ -45,7 +45,9 @@
 - [Stainless](https://github.com/epfl-lara/stainless) - Verification framework and tool for higher-order Scala programs. ([Web](https://stainless.epfl.ch/))
 - [scodec](https://github.com/scodec/scodec) - Scala combinator library for working with binary data.
 - [circe](https://github.com/circe/circe) - JSON library for Scala.
+- [Ciris](https://github.com/vlovgr/ciris) - Functional Configurations for Scala.
 
 ## Links
 
 - [Scaladex](https://index.scala-lang.org/) - Scala Package Index. ([Code](https://github.com/scalacenter/scaladex))
+- [Useful Scala libraries (2020)](https://twitter.com/hmemcpy/status/1318473961236291584)

@@ -40,3 +40,5 @@ Is logical theory of computable functions.
 - [lambda-mu-mu-calculus](https://github.com/fizruk/lambda-mu-mu-calculus) - Interpreter for λ̅μμ̃-calculus of Herbelin and Curien.
 - [Notes on lambda calculus and type theory](https://github.com/blynn/lambda)
 - [Fun with Lambda Calculus](https://stopa.io/post/263)
+- [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
+- [Algorithmic Information Theory, using Binary Lambda Calculus](https://github.com/tromp/AIT)

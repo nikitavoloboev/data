@@ -43,3 +43,4 @@
 - [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
 - [Anton Babenko videos on Terraform](https://www.youtube.com/user/cyberbob37/playlists)
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests. ([Web](https://www.infracost.io/))
+- [Introduction to Infrastructure as Code using Terraform (2020)](https://blog.manimuridi.com/2020/10/16/introduction-to-infrastructure-as-code-using-terraform/)

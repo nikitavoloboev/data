@@ -17,3 +17,4 @@
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers)
 - [dgel](https://github.com/dmnsgn/dgel) - WebGPU engine.
 - [WebGPU Experiments](https://github.com/Twinklebear/webgpu-experiments)
+- [YUE](https://github.com/maierfelix/YUE) - Personal WebGPU based 3D renderer.

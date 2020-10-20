@@ -26,3 +26,4 @@
 - [Efficient Graph Search](https://dl.acm.org/doi/fullHtml/10.1145/3424302.3424304)
 - [Graphs and C-sets I: What is a graph? (2020)](https://www.algebraicjulia.org/blog/post/2020/09/cset-graphs-1/)
 - [Computer Scientists Break Traveling Salesperson Record (2020)](https://www.quantamagazine.org/computer-scientists-break-traveling-salesperson-record-20201008/) ([HN](https://news.ycombinator.com/item?id=24720607))
+- [Cuckoo Cycle](https://github.com/tromp/cuckoo) - Memory-bound graph-theoretic proof-of-work system.

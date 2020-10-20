@@ -131,7 +131,7 @@
 - [Development with Nix: Python (2020)](https://thomazleite.com/posts/development-with-nix-python/) ([Lobsters](https://lobste.rs/s/tjgvzi/development_with_nix_python))
 - [Picking a Language for Introductory CS - Why I don't like Python (2020)](http://dynamicsofprogramming.blogspot.com/2019/02/problems-with-python-for-introductory-cs.html)
 - [Clinging to memory: how Python function calls can increase your memory usage (2020)](https://pythonspeed.com/articles/function-calls-prevent-garbage-collection/)
-- [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/) ([HN](https://news.ycombinator.com/item?id=23627017))
+- [PEP 622 – Structural Pattern Matching](https://www.python.org/dev/peps/pep-0622/) ([HN](https://news.ycombinator.com/item?id=23627017)) ([Code](https://github.com/gvanrossum/patma))
 - [What is the core of the Python programming language? (2020)](https://snarky.ca/what-is-the-core-of-the-python-programming-language/) ([HN](https://news.ycombinator.com/item?id=23698846))
 - [NPComp](https://github.com/google/mlir-npcomp) - Aspirational MLIR based numpy compiler.
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Python compiler written in Python. ([Web](http://nuitka.net/))

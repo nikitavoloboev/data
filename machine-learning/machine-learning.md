@@ -39,7 +39,7 @@
 - [Deep Learning World](https://github.com/astorfi/Deep-Learning-World)
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [RAAIS 2018 - François Chollet (Creator of Keras)](https://www.youtube.com/watch?v=2L2u303FAs8)
-- [KubeFlow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
+- [KubeFlow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes. ([Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/))
 - [MIT AGI: Deep Learning (Yoshua Bengio) (2018)](https://www.youtube.com/watch?v=azOmzumh0vQ)
 - [TL-GAN: transparent latent-space GAN](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit.
 - [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Repository accompanying "Grokking Deep Learning" book.
@@ -65,7 +65,7 @@
 - [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) - Benchmark suite for end-to-end deep learning training and inference.
 - [Interpretable machine learning book (2018)](https://github.com/christophM/interpretable-ml-book) - Explaining the decisions and behavior of machine learning models.
 - [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean)
-- [Kubeflow](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
+- [KubeFlow Pipelines](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 - [Summary of some ML papers](https://github.com/kweonwooj/papers)
 - [Practical Deep Learning for Coders 2019](https://www.fast.ai/2019/01/24/course-v3/) - ([HN](https://news.ycombinator.com/item?id=19000027)) ([GitHub](https://github.com/fastai/course-v3))
 - [Notebooks for the "A walk with fastai2" Study Group and Lecture Series](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
@@ -323,3 +323,7 @@
 - [Responsible Machine Learning](https://github.com/ModelOriented/DrWhy) - Collection of tools for eXplainable AI (XAI). ([Web](https://modeloriented.github.io/DrWhy/))
 - [MI2 DataLab](https://mi2-warsaw.github.io/) - Group of mathematicians and computer scientists that love to play with data. ([GitHub](https://github.com/ModelOriented))
 - [Papers of Robust ML](https://github.com/P2333/Papers-of-Robust-ML) - Mainly focus on defenses.
+- [Why Deep Learning Works Even Though It Shouldn’t (2020)](https://moultano.wordpress.com/2020/10/18/why-deep-learning-works-even-though-it-shouldnt/) ([Lobsters](https://lobste.rs/s/qzbfzc/why_deep_learning_works_even_though_it))
+- [Some Notable Recent ML Papers and Future Trends (2020)](https://arankomatsuzaki.wordpress.com/2020/10/15/some-notable-recent-ml-papers-and-future-trends/)
+- [Wiki: 2020 ML Interviews Resources & Advice(s)](https://forums.fast.ai/t/wiki-2020-ml-interviews-resources-advice-s/70528)
+- [Interpretable Machine Learning -- A Brief History, State-of-the-Art and Challenges (2020)](https://arxiv.org/abs/2010.09337)

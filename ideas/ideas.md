@@ -66,3 +66,5 @@ I try to give my full attention to any ideas I am working on.
 - [Businesses I Love](https://sweatystartup.com/businesses-i-love/)
 - [Making The Leap (2020)](https://www.coreyhaines.co/blog/leap)
 - [Are Ideas Getting Harder to Find? (2020)](https://web.stanford.edu/~chadj/IdeaPF.pdf)
+- [Early Work (2020)](http://paulgraham.com/early.html) ([HN](https://news.ycombinator.com/item?id=24836090))
+- [Ideonomy](http://ideonomy.mit.edu/) - The science of ideas.

@@ -46,6 +46,7 @@
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
 - [Discord Rust 3](https://github.com/passcod/accord)
 - [Discord Go](https://github.com/bwmarrin/discordgo)
+- [Discord Go 2](https://github.com/diamondburned/arikawa)
 - [Discord C++](https://github.com/yourWaifu/sleepy-discord)
 - [Discord JS](https://github.com/discordjs/discord.js)
 - [Slack Go 2](https://github.com/slack-go/slack)

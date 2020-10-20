@@ -76,3 +76,4 @@
 - [Remotive](https://remotive.io/) - Remote Jobs in Programming, Support, Design and more.
 - [Remote Technology Jobs by Standard Resume](https://standardresume.co/remote-jobs)
 - [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))
+- [Slite Remote Coaching](https://slite.com/remote-chat) - Schedule a 30 min chat to untangle remote work.

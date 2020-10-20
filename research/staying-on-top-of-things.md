@@ -94,6 +94,8 @@ And these Discord servers:
 - [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
 - [NOWNESS](https://www.nowness.com/)
 - [InputMag](https://www.inputmag.com/)
+- [Axios](https://www.axios.com/)
+- [Financial Times](https://www.ft.com/)
 - [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
 - [The Straight Dope](https://www.straightdope.com/)
 

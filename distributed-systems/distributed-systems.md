@@ -115,3 +115,6 @@
 - [Disel: Distributed Separation Logic](https://github.com/DistributedComponents/disel) - Separation-style logic for compositional verification of distributed systems.
 - [raft-zero](https://github.com/Diggsey/raft-zero) - Implementation of the Raft consensus algorithm on top of the act-zero actor framework.
 - [raft-playground](https://github.com/Diggsey/raft-playground) - Application to simulate and test a Raft cluster, using raft-zero.
+- [Building Netflix’s Distributed Tracing Infrastructure (2020)](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+- [Wikipedia's self-hosted CDN (2020)](https://techblog.wikimedia.org/2020/10/14/wikimedias-cdn/)
+- [Infinite Parallel Universes: State at the Edge (2020)](https://www.infoq.com/presentations/architecture-global-scale/) ([Summary](https://twitter.com/embano1/status/1318277850613600257))

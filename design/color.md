@@ -46,3 +46,4 @@
 - [Adobe Color](https://color.adobe.com/create/color-wheel) - Color wheel, a color palette generator.
 - [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI.
 - [consistent-shading](https://github.com/ugudango/consistent-shading) - Shade consitency for various hues, based on luminance.
+- [Sorted CSS Colors](https://enes.in/sorted-colors/) - Sort the named CSS colors in a way that it shows related colors together. ([Code](https://github.com/scriptype/sorted-colors))

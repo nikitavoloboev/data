@@ -531,6 +531,7 @@
 - [tldr](https://github.com/JesusIslam/tldr) - Text summarizer for go using LexRank.
 - [ln](https://github.com/Xe/ln) - Natural log function. ([Article](https://christine.website/blog/ln-the-natural-logger-2020-10-17))
 - [Gohalt](https://github.com/1pkg/gohalt) - Simple and convenient yet powerful and efficient throttling go library.
+- [gox](https://github.com/8byt/gox) - Extension of Go's syntax that let's you write HTML-style tags directly in your source code.
 
 ## Links
 

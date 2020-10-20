@@ -39,3 +39,4 @@
 - [I was wrong. CRDTs are the future (2020)](https://josephg.com/blog/crdts-are-the-future/) ([HN](https://news.ycombinator.com/item?id=24617542)) ([Lobsters](https://lobste.rs/s/9fufgr/i_was_wrong_crdts_are_future)) ([Reddit](https://www.reddit.com/r/rust/comments/j1hb3a/i_was_wrong_crdts_are_the_future/))
 - [A Pragmatic Approach to Live Collaboration (2020)](https://hex.tech/blog/a-pragmatic-approach-to-live-collaboration)
 - [Local First (2020)](https://brandur.org/nanoglyphs/014-local-first)
+- [A Bluffers Guide to CRDTs in Riak](https://gist.github.com/russelldb/f92f44bdfb619e089a4d)

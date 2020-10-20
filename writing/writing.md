@@ -184,3 +184,5 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing)
 - [Why you should write (2020)](https://www.preetamnath.com/blog/why-you-should-write) ([HN](https://news.ycombinator.com/item?id=24743944))
 - [Google Journalist Studio](https://journaliststudio.google.com/) - Collection of tools to empower journalists to do their work more efficiently, creatively, and securely.
+- [Writing for Programmers by Paulus Esterhazy (2020)](https://www.youtube.com/watch?v=T7-2DW-KDV4) ([Slides](https://app.pitch.com/app/public/presentation/ac050780-ea9d-4a74-8b35-99366031b1fa))
+- [On Deck Writer Fellowship](https://www.beondeck.com/writers) - Where the best writers go to grow their audience and improve their craft.

@@ -42,3 +42,4 @@
 - [Ray-tracer / Learning project with Rust](https://github.com/qu4k/rain)
 - [tray_rust](https://github.com/Twinklebear/tray_rust) - Toy Ray Tracer in Rust.
 - [Visionaray](https://github.com/szellmann/visionaray) - C++-based, cross platform ray tracing library. ([Web](https://vis.uni-koeln.de/forschung/software-visionaray))
+- [Raytraced Shadows in Call of Duty: Modern Warfare](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) - How ray tracing can be integrated into a modern, forward+ engine with minimal-to-no content changes.

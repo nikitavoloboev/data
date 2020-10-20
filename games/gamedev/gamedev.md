@@ -107,3 +107,4 @@
 - [Sid Meier's Memoir](https://sidmeiersmemoir.com/) ([HN](https://news.ycombinator.com/item?id=24729402))
 - [Zenva Academy](https://academy.zenva.com/) - Empower people so that they can create their own videogames, mobile apps and websites. ([YouTube](https://www.youtube.com/c/Zenva/videos))
 - [Video Game Source Project](https://gamehistory.org/video-game-source-project/) - Video Game History Foundation. Ability to study video game source material is rare. We’re changing that.
+- [Activision Research Publications](https://research.activision.com/publications)

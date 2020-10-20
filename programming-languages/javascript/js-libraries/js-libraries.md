@@ -321,6 +321,11 @@
 - [nestie](https://github.com/lukeed/nestie) - Tiny (211B) and fast utility to expand a flattened object.
 - [Mock.js](https://github.com/nuysoft/Mock) - Simulation data generator.
 - [Detect features](https://github.com/TimvanScherpenzeel/detect-features) - Detect and report browser and hardware features.
+- [JSZip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with JavaScript.
+- [Classnames](https://github.com/JedWatson/classnames) - Simple javascript utility for conditionally joining classNames together.
+- [cx](https://github.com/joe-bell/cx) - Concatenate your classes (with shortcuts).
+- [Defer](https://github.com/borderless/defer) - Tiny, type-safe, JavaScript-native defer implementation.
+- [freshie](https://github.com/lukeed/freshie) - Fresh take on building universal applications with support for pluggable frontends and backends.
 
 ## Links
 

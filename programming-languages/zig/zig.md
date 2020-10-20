@@ -26,4 +26,4 @@
 - [Zig Compiler September Update & Hot Code Swapping Brainstorming (2020)](https://www.youtube.com/watch?v=3hwQSjhNSRU)
 - [Advanced Hello World in Zig - Loris Cro (2020)](https://www.youtube.com/watch?v=iZFXAN8kpPo)
 - [Zig heading toward a self-hosting compiler (2020)](https://lwn.net/Articles/833400/)
-- [Assorted thoughts on zig (and rust) (2020)](https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/) ([Lobsters](https://lobste.rs/s/4hx42h/assorted_thoughts_on_zig_rust))
+- [Assorted thoughts on zig (and rust) (2020)](https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/) ([Lobsters](https://lobste.rs/s/4hx42h/assorted_thoughts_on_zig_rust)) ([HN](https://news.ycombinator.com/item?id=24835357))

@@ -130,3 +130,4 @@
 - [Emerging Architectures for Modern Data Infrastructure (2020)](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/) ([HN](https://news.ycombinator.com/item?id=24814687))
 - [PandasGUI](https://github.com/adamerose/pandasgui) - GUI for analyzing Pandas DataFrames.
 - [Holistics](https://www.holistics.io/) - Data Modeling & Self-Service BI Platform.
+- [Numerai data science tournament](https://numer.ai/tournament)

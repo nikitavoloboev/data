@@ -39,3 +39,4 @@
 - [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
 - [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua.
+- [LTUI](https://github.com/tboox/ltui) - Cross-platform terminal ui library based on Lua.

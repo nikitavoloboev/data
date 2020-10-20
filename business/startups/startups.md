@@ -233,6 +233,7 @@
 - [Zero to One: the book that built the future (2020)](https://www.blog.yesdelft.com/post/zero-to-one-the-book-that-built-the-future)
 - [Typical problems of technical founders (2018)](https://qotoqot.com/blog/blind-spots/)
 - [What you should know as a founder of a software company (2017)](https://qotoqot.com/blog/founder-skills/) ([HN](https://news.ycombinator.com/item?id=15512592))
+- [SaaS Manual](https://saasmanual.com/) - Learn how to build "Software as a Service" products from scratch.
 
 ## Images
 

@@ -80,6 +80,7 @@
 - [10+ Proven Startup Marketing Ideas That Won’t Break Your Bank (2020)](https://www.classicinformatics.com/blog/proven-startup-marketing-ideas)
 - [Dealify](https://www.dealify.com/) - Deals Platform for Growth Hackers.
 - [Starting a \$400,000 Side Business in 1 Month (for Free) (2020)](https://www.youtube.com/watch?v=NblHMZbYg-o) - Write outline. Validate idea. Build & share it.
+- [Improve your SaaS conversion rate with 11 onboarding strategies (2020)](https://www.swipe.page/p/improve-your-saas-conversion-rate-with-11-onboarding-strategies)
 
 ## Images
 

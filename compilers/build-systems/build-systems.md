@@ -36,3 +36,4 @@
 - [Build systems with Andrey Mokhov (2020)](https://overcast.fm/+hrS7F9_XA)
 - [Amazon's Build System](https://gist.github.com/terabyte/15a2d3d407285b8b5a0a7964dd6283b0) ([HN](https://news.ycombinator.com/item?id=24722214))
 - [Pondering Amazon's Manyrepo Build System (2020)](http://beza1e1.tuxen.de/amazon_manyrepo_builds.html) ([Lobsters](https://lobste.rs/s/v6vmov/pondering_amazon_s_manyrepo_build_system))
+- [xmake](https://github.com/xmake-io/xmake) - Cross-platform build utility based on Lua. ([Docs](https://xmake.io/#/))

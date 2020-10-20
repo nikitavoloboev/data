@@ -65,7 +65,7 @@
 
 ## Presentations
 
-- [Pitch](https://pitch.com/) or [Keynote](https://www.apple.com/keynote/)
+- [Pitch](https://pitch.com/)
 
 ## Tech
 

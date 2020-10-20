@@ -125,3 +125,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Tools to create persistent room for team meetings (2020)](https://twitter.com/karrisaarinen/status/1317005954462920705)
 - [VideoAsk](https://www.videoask.com/) - Interact face-to-face with your audience & build stronger business relationships.
 - [Stream](https://www.stream.club/) - Virtual Class Platform.
+- [BigMarker](https://www.bigmarker.com/) - Modern, No-Download Webinar Software.

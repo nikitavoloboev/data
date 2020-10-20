@@ -156,6 +156,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Kilian Eng](https://www.instagram.com/kilianeng/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Betty Jiang](https://www.instagram.com/kawaiibettyjiang/)
+- [Liang Mark](https://www.instagram.com/liangmark/?hl=en)
 - [Jim](https://jimllpaintit.tumblr.com/)
 - [Azlen Elza](https://www.instagram.com/azlenelza/)
 - [Jie Ma](https://www.behance.net/jiema37?)

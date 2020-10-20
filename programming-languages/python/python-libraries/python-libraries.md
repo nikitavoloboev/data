@@ -169,6 +169,7 @@
 - [Morfessor](https://github.com/aalto-speech/morfessor) - Tool for unsupervised and semi-supervised morphological segmentation.
 - [Construct](https://github.com/construct/construct) - Powerful declarative and symmetrical parser and builder for binary data.
 - [Python BigQuery](https://github.com/googleapis/python-bigquery) - Python Client for Google BigQuery.
+- [halo](https://github.com/manrajgrover/halo) - Beautiful spinners for terminal, IPython and Jupyter.
 
 ## Links
 

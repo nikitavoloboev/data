@@ -35,3 +35,5 @@
 - [Tardigrade](https://tardigrade.io/) - Decentralized Cloud Object Storage.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another. ([HN](https://news.ycombinator.com/item?id=24503077))
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound. ([HN](https://news.ycombinator.com/item?id=24586390))
+- [JustBeamIt](https://justbeamit.com/) - File transfer made easy. ([CLI](https://github.com/justbeamit/beam))
+- [Magic Wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.

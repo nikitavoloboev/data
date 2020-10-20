@@ -72,3 +72,4 @@
 - [Towards an Understanding of Search Engines (2017)](https://thought.place/articles/2017/7/22/pagerank/)
 - [Search personal websites (2020)](https://jlelse.blog/links/2020/10/searchmysite/)
 - [GoCrawler](https://github.com/el10savio/GoCrawler) - Distributed web crawler implemented using Go, Postgres, RabbitMQ and Docker.
+- [From Then to Now: a Curated List for Neural Search and Jina (2020)](https://hanxiao.io/2020/10/19/A-Curated-List-of-Neural-Search-and-Jina-Framework-Designs/)

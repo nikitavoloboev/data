@@ -138,3 +138,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OSDI '21 Call for Papers](https://www.usenix.org/conference/osdi21/call-for-papers)
 - [Tibru](https://github.com/tibru/tibru) - Alternative to the nonsense that is the Urbit project. ([Lobsters](https://lobste.rs/s/klltdm/tibru_tibru_alternative_nonsense_is))
 - [Re-Thinking the Desktop OS (2020)](https://twitter.com/patrickc/status/1316475471203360769) ([HN](https://news.ycombinator.com/item?id=24783387))
+- [Why mmap is faster than system calls (2019)](https://medium.com/@sasha_f/why-mmap-is-faster-than-system-calls-24718e75ab37)
+- [Brief Retrospective on the Sprite Network Operating System](https://web.stanford.edu/~ouster/cgi-bin/spriteRetrospective.php)
+- [CS 140: Operating Systems course (2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)

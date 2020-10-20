@@ -84,3 +84,4 @@
 - [Awesome Design Systems Jobs](https://github.com/honzatmn/awesome-design-systems-jobs)
 - [Design System Kit](https://github.com/rundsk/dsk) - Workbench for collaboratively creating Design Systems. ([Web](https://rundsk.com/))
 - [Tips on making good design systems (2020)](https://twitter.com/_dte/status/1318222844434796544)
+- [Naming Tokens in Design Systems. Terms, Types, and Taxonomy to Describe (2020)](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)

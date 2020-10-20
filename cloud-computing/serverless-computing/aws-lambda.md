@@ -39,3 +39,4 @@
 - [AWS Lambda Extensions – In preview (2020)](https://aws.amazon.com/blogs/compute/introducing-aws-lambda-extensions-in-preview/) ([Tweet](https://twitter.com/dhruvsood/status/1314236371570024449))
 - [Building Bad Lambda (2020)](https://kohidave.dev/posts/building-bad-lambda/)
 - [golambda](https://github.com/rakyll/golambda) - AWS Lambda Go functions made easy.
+- [Determine prominent colors in a picture, your first AWS Lambda in Go (2020)](https://buddy.works/tutorials/determine-prominent-colors-in-a-picture-your-first-aws-lambda-in-go)

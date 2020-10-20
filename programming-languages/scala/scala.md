@@ -51,3 +51,4 @@
 - [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 (2020)](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 - [sbt-updates](https://github.com/rtimush/sbt-updates) - sbt plugin that can check Maven and Ivy repositories for dependency updates.
 - [Get started with Nix in Scala](https://github.com/gvolpe/sbt-nix.g8)
+- [Foundations of Functional Programming in Scala course (2020)](https://www.fp-tower.com/courses/foundations) ([Video](https://www.youtube.com/watch?v=OdPaWmRnAc4)) ([Tweet](https://twitter.com/JulienTruffaut/status/1318459887144361986))

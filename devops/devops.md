@@ -35,3 +35,4 @@
 - [Sysdig](https://sysdig.com/) - Security, Compliance & Performance for your Devops Workflows.
 - [A List of Skills and PracticesWe Use to Train Our DevOps Internally (2020)](https://blog.maddevs.io/devops-engineers-in-mad-devs-449ded5221b6)
 - [Bridgecrew](https://bridgecrew.io/) - Codified cloud security for DevOps.
+- [You Reap What You Code (2020)](https://ferd.ca/you-reap-what-you-code.html)

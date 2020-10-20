@@ -215,6 +215,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
+- [Slite](https://slite.com/) - Bring clarity to your team.
 - [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
 - [Lattice](https://lattice.com/) - Performance management and employee engagement.
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
@@ -281,6 +282,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
 - [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.
 - [jazz rooms](https://jazz.ninja/)
+- [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
+- [Formito](https://formito.com/) - Create Forms that Feel Like an App.
 - [Indent](https://indent.com/) - Access requests made easy.
 - [Repren](https://github.com/jlevy/repren) - Simple but flexible command-line tool for rewriting file contents according to a set of regular expression patterns.
 - [SILE](https://github.com/sile-typesetter/sile) - Typesetting system; its job is to produce beautiful printed documents.
@@ -387,3 +390,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [You should be using Linear (2020)](https://www.contrast.app/posts/you-should-be-using-linear)
 - [Mystery Knowledge and Useful Tools (2020)](https://nikhilism.com/post/2020/mystery-knowledge-useful-tools/)
 - [Life Stack of Aaron Parecki](https://aaronparecki.com/life-stack/) - Tools, apps, services and other things I use to manage my work and life.
+- [PDF Wrench](https://pdfwrench.com/) - Combine multiple PDF pages and images into one PDF document. ([HN](https://news.ycombinator.com/item?id=24830927))

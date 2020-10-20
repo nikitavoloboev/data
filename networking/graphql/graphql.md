@@ -140,3 +140,4 @@
 - [Apollo Server](https://github.com/apollographql/apollo-server) - GraphQL server for Express, Connect, Hapi, Koa and more.
 - [graphql-transport-ws](https://github.com/enisdenjo/graphql-transport-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 - [Fullstack GraphQL](https://www.newline.co/fullstack-graphql) - Complete Guide to Writing GraphQL Servers and Clients with TypeScript.
+- [Transform GraphQL](https://github.com/graphql-editor/transform-graphql) - Transformer function to transform GraphQL Directives. Create model CRUD directive for example.

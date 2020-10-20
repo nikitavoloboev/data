@@ -106,3 +106,4 @@
 - [WASI Libc](https://github.com/WebAssembly/wasi-libc) - Libc for WebAssembly programs built on top of WASI system calls.
 - [Low-Level Academy WebAssembly modules](https://github.com/LowLevelAcademy/wasm-modules)
 - [trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [wasmbin](https://github.com/GoogleChromeLabs/wasmbin) - Self-generating WebAssembly parser & serializer in Rust. ([Article](https://rreverser.com/wasmbin-yet-another-webassembly-parser-serializer/))

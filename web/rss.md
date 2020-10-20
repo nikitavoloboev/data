@@ -5,6 +5,7 @@
 - Can subscribe to Pinboard via RSS.
   - i.e. for user https://pinboard.in/u:jasdev/ it would be http://feeds.pinboard.in/rss/u:jasdev/
   - More options: http://feeds.pinboard.in/rss/u:username/ | http://feeds.pinboard.in/rss/t:tag/ | http://feeds.pinboard.in/rss/recent/ | http://feeds.pinboard.in/rss/popular/
+- [Can subscribe to a HN user via RSS. `https://hnrss.org/replies?id=`](https://news.ycombinator.com/item?id=24834158)
 
 ## Links
 

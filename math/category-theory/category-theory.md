@@ -86,6 +86,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [A monoid is a category with just one object. so what's the problem? (2019)](https://k-bx.github.io/articles/boring-monoid-category.html)
 - [Epidemiological Modeling With Structured Cospans (2020)](https://johncarlosbaez.wordpress.com/2020/10/19/epidemiological-modeling-with-structured-cospans/)
 - [Garlandus blog](https://garlandus.co/) - Essays on some of the mathematics behind computing, from classical logic to the monads of category theory, by way of Goettingen.
+- [Logical Relations as Types: Proof-Relevant Parametricity for Program Modules (2020)](http://www.jonmsterling.com/pdfs/lrat.pdf)
 
 ## Images
 

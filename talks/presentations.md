@@ -7,6 +7,7 @@
 
 ## Links
 
+- [Pitch](https://pitch.com/) - Helps teams build better presentations: collaboratively, effectively, and beautifully. ([Pitch launches](https://pitch.com/blog/pitch-launches)) ([HN](https://news.ycombinator.com/item?id=24836676))
 - [Slides](https://slides.com/) - Awesome tool to make and present slide decks.
 - [BeautifulAI](https://www.beautiful.ai/) - Create beautiful presentations in minutes.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations.
@@ -21,7 +22,6 @@
 - [Waymark](https://waymark.io/) - Instant, beautiful roadmaps for product presentations.
 - [Marp CLI](https://github.com/marp-team/marp-cli) - Can convert Marp / Marpit Markdown files into static HTML / CSS, PDF, PowerPoint document, and image(s) easily.
 - [Remark](https://github.com/gnab/remark) - Simple, in-browser, markdown-driven slideshow tool.
-- [Pitch](https://pitch.com/) - Helps teams build better presentations: collaboratively, effectively, and beautifully.
 - [Storytelling like Andy Raskin (2020)](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
 - [Shower Core](https://github.com/shower/core) - Core of Shower HTML presentation engine.
 - [Presentation Rules (2020)](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
