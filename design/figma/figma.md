@@ -43,3 +43,4 @@
 - [Figma Tools](https://github.com/souporserious/figma-tools) - Tools to help you programmatically interact with your Figma files.
 - [Learning and failing as a team (2020)](https://www.figma.com/blog/learning-and-failing-as-a-team/)
 - [Figma Config Europe 2020 videos](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7kSHHiltBqo3FK__aB5HZi)
+- [10 tips to work 10x faster in Figma (2020)](https://www.youtube.com/watch?v=i-9mgOL3mHw)

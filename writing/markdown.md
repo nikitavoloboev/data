@@ -36,3 +36,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Customizing pandoc to generate beautiful pdf and epub from markdown (2019)](https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/)
 - [Customizing pandoc to generate pdf and epub from GitHub style markdown (2020)](https://learnbyexample.github.io/customizing-pandoc/) ([Lobsters](https://lobste.rs/s/zgsdgg/customizing_pandoc_generate_pdf_epub))
 - [Python Markdown Generator](https://github.com/Nicceboy/python-markdown-generator) - Python library for generating HTML sanitised Markdown documents.
+- [Glow](https://github.com/charmbracelet/glow) - Markdown reader for the terminal with a TUI and encrypted cloud stash. ([HN](https://news.ycombinator.com/item?id=24810312))

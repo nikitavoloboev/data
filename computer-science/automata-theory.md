@@ -34,3 +34,4 @@
 - [The Recursive Universe (2020)](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/) ([HN](https://news.ycombinator.com/item?id=24323011)) ([Lobsters](https://lobste.rs/s/kvujjm/recursive_universe))
 - [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) ([Lobsters](https://lobste.rs/s/lcgb1l/build_working_game_tetris_conway_s_game))
 - [Let’s build a computer in Conway's game of life (2020)](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
+- [Building a computer in Conway's game of life (2020)](https://www.nicolasloizeau.com/gol-computer) ([HN](https://news.ycombinator.com/item?id=24831268))

@@ -79,7 +79,7 @@
 - [How to post on Hacker News (2020)](https://wiredcraft.com/blog/how-to-post-on-hacker-news/)
 - [10+ Proven Startup Marketing Ideas That Won’t Break Your Bank (2020)](https://www.classicinformatics.com/blog/proven-startup-marketing-ideas)
 - [Dealify](https://www.dealify.com/) - Deals Platform for Growth Hackers.
-- [Glow](https://github.com/charmbracelet/glow) - Markdown reader for the terminal with a TUI and encrypted cloud stash. ([HN](https://news.ycombinator.com/item?id=24810312))
+- [Starting a \$400,000 Side Business in 1 Month (for Free) (2020)](https://www.youtube.com/watch?v=NblHMZbYg-o) - Write outline. Validate idea. Build & share it.
 
 ## Images
 
