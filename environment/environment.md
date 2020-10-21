@@ -58,3 +58,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Open Catalyst Project](https://opencatalystproject.org/) - Using AI to model and discover new catalysts to address the energy challenges posed by climate change. ([Code](https://github.com/Open-Catalyst-Project/ocp))
 - [The Climate Issue](https://parametric.press/issue-02/)
 - [Wren](https://projectwren.com/) - Offset your carbon footprint through a monthly subscription.
+- [This website is killing the planet (2020)](https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/) ([Lobsters](https://lobste.rs/s/senzpv/this_website_is_killing_planet))
+- [Website Carbon Calculator](https://www.websitecarbon.com/) - How is your website impacting the planet?

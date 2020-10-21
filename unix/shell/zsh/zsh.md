@@ -24,3 +24,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases) ([HN](https://news.ycombinator.com/item?id=23309310))
 - [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds (2020)](https://www.vidarholen.net/contents/blog/?p=878) ([HN](https://news.ycombinator.com/item?id=23520240))
 - [Nice Zsh configs/tips](https://twitter.com/rsms/status/1304837079826747392)
+- [tabtab](https://github.com/denosaurs/tabtab) - Generate CLI completions for zsh, bash, and fish.

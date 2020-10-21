@@ -295,6 +295,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Andre Josselin](https://www.instagram.com/josselin/)
 - [Kate Bellm](https://www.instagram.com/katebellm/)
 - [Bradley G Munkowitz](https://photo.gmunk.com/) ([Lake Tahoe](https://photo.gmunk.com/2020-Lake-Tahoe))
+- [Linden Frederick](https://www.instagram.com/lindenfrederickreproductions/) ([Web](https://www.lindenfrederick.com/))
 - [Stay At Home Photography](https://stayathome.photography/)
 - [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 - [Caleb Zulawski](https://portfolio.calebzulawski.com/)

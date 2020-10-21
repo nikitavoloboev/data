@@ -6,7 +6,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 ## Interesting OSes
 
-- [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels.
+- [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5))
 - [QubesOS](https://www.qubes-os.org/)
 - [Plan 9](https://9p.io/plan9/)
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
@@ -141,3 +141,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Why mmap is faster than system calls (2019)](https://medium.com/@sasha_f/why-mmap-is-faster-than-system-calls-24718e75ab37)
 - [Brief Retrospective on the Sprite Network Operating System](https://web.stanford.edu/~ouster/cgi-bin/spriteRetrospective.php)
 - [CS 140: Operating Systems course (2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
+- [Tarides](https://tarides.com/) - Building functional systems. Commercial support on MirageOS and Irmin.

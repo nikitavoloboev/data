@@ -351,3 +351,4 @@
 - [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-parameters-idiomatic-in-rust) ([Lobsters](https://lobste.rs/s/mxpnx9/are_out_parameters_idiomatic_rust))
 - [warp-api-starter-template](https://github.com/rusty-crab/warp-api-starter-template) - Boilerplate template for starting a web services using Warp + SQLx (PostgreSQL) + Redis + Juniper (GraphQL).
 - [Neovim and Rust (2020)](https://sharksforarms.dev/posts/neovim-rust/)
+- [Learn Rust](https://www.rust-lang.org/learn)

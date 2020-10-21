@@ -257,3 +257,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Organising knowledge with multi-level content: Making knowledge easier to understand, remember and communicate (2018)](https://www.francismiller.com/organising_knowledge_paper.pdf)
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) - Emacs package for a Zettelkasten system.
 - [Luhmann's Original Zettelkasten Digitalized (2020)](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V) ([HN](https://news.ycombinator.com/item?id=24794569))
+- [Walling](https://walling.app/) - Visual Walls to Collect Ideas & Plot out Projects.

@@ -18,3 +18,4 @@
 - [ExporterHub](https://exporterhub.io/) - Curated List of Prometheus Exporters. ([Code](https://github.com/NexClipper/exporterhub.io))
 - [Prometheus NATS Exporter](https://github.com/nats-io/prometheus-nats-exporter) - Prometheus exporter for NATS metrics.
 - [Prometheus Community Kubernetes Helm Charts](https://github.com/prometheus-community/helm-charts)
+- [PostgreSQL Prometheus Adapter](https://github.com/CrunchyData/postgresql-prometheus-adapter) - Remote storage adapter enabling Prometheus to use PostgreSQL as a long-term store for time-series metrics.

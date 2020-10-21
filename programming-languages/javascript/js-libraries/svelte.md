@@ -48,3 +48,4 @@
 - [What I've Learned about Svelte, Tailwind, FastAPI over the Past 10 Days (2020)](https://geoff.tuxpup.com/posts/stock_toolkit_4/)
 - [REPLicant](https://github.com/pngwn/REPLicant) - Svelte Summit 2020 talk.
 - [Rich Harris: Futuristic Web Development (2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
+- [svelte-ssr-worker](https://github.com/lukeed/svelte-ssr-worker) - Quick demo for rendering Svelte server-side (SSR), but within a Cloudflare Worker.

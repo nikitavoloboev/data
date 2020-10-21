@@ -167,3 +167,5 @@
 - [Lingua Franca](https://github.com/MycroftAI/lingua-franca) - Mycroft's multilingual text parsing and formatting library.
 - [Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers) - Based on the Transformers library by HuggingFace. Lets you quickly train and evaluate Transformer models.
 - [Deep Bidirectional Transformers for Language Understanding (2020)](https://www.youtube.com/watch?v=j9toSIRf4RI) - Explains a legendary paper, BERT. ([HN](https://news.ycombinator.com/item?id=24826599))
+- [EasyTransfer](https://github.com/alibaba/EasyTransfer) - Designed to make the development of transfer learning in NLP applications easier.
+- [LambdaBERT](https://github.com/gsarti/lambda-bert) - Transformers-style implementation of BERT using LambdaNetworks instead of self-attention.

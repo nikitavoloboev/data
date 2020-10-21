@@ -21,3 +21,4 @@
 - [Flutter Course Resources](https://github.com/londonappbrewery/Flutter-Course-Resources)
 - [Flutter Gallery](https://gallery.flutter.dev/) - Resource to help developers evaluate and use Flutter. ([Code](https://github.com/flutter/gallery))
 - [Flutter Roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development.
+- [Flokk - How we built a Desktop App Using Flutter (2020)](https://blog.gskinner.com/archives/2020/09/flokk-how-we-built-a-desktop-app-using-flutter.html)

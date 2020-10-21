@@ -31,3 +31,7 @@
 - [Puma](https://github.com/puma/puma) - Ruby/Rack web server built for concurrency. ([Web](https://puma.io/))
 - [Ruby 3.0 Preview 1 (2020)](https://www.ruby-lang.org/en/news/2020/09/25/ruby-3-0-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=24593093))
 - [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/preface.html) ([Code](https://github.com/learnbyexample/learn_ruby_oneliners)) ([HN](https://news.ycombinator.com/item?id=24637797))
+- [RuboCop](https://github.com/rubocop-hq/rubocop) - Ruby static code analyzer and formatter, based on the community Ruby style guide. ([Docs](https://docs.rubocop.org/rubocop/1.0/index.html))
+- [Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide) - Community-driven Ruby coding style guide. ([Web](https://rubystyle.guide/))
+- [RuboCop Performance](https://github.com/rubocop-hq/rubocop-performance) - Extension of RuboCop focused on code performance checks.
+- [RuboCop RSpec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files.

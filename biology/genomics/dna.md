@@ -32,3 +32,5 @@
 - [Allostery through DNA drives phenotype switching (2020)](https://www.biorxiv.org/content/10.1101/2020.07.04.187450v1)
 - [Manolis Kellis: Human Genome and Evolutionary Dynamics (2020)](https://overcast.fm/+eZyA3p3HE)
 - [Two female CRISPR scientists make history, winning Nobel in chemistry (2020)](https://www.statnews.com/2020/10/07/two-crispr-scientists-win-nobel-prize-in-chemistry/)
+- [Precision of Tissue Patterning is Controlled by Dynamical Properties of Gene Regulatory Networks (2020)](https://www.biorxiv.org/content/10.1101/721043v2) - How do precise boundaries of gene expression form in developing tissues? ([Tweet](https://twitter.com/briscoejames/status/1318829819761692673))
+- [PanglaoDB](https://panglaodb.se/) - Single Cell Sequencing Resource For Gene Expression Data.

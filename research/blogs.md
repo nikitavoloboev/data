@@ -65,7 +65,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) ([HN](https://news.ycombinator.com/item?id=22876273))
 - [Rust blog source](https://github.com/rust-lang/blog.rust-lang.org)
 - [Ask HN: What are the niche blogs (like gwern) that worthwhile to follow? (2020)](https://news.ycombinator.com/item?id=21928170)
-- [Your own hosted blog, the easy, free, open way (even if you're not a computer expert) (2020)](https://www.fast.ai/2020/01/16/fast_template/) ([Tweet](https://twitter.com/jeremyphoward/status/1217909025259442176))
+- [Your own hosted blog, the easy, free, open way (even if you're not a computer expert) (2020)](https://www.fast.ai/2020/01/16/fast_template/) ([Tweet](https://twitter.com/jeremyphoward/status/1217909025259442176)) ([Code](https://github.com/fastai/fast_template))
 - [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs)
 - [Ask HN: What are good solo developer blogs that you enjoy reading? (2020)](https://news.ycombinator.com/item?id=22273224)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)

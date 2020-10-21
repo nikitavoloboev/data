@@ -359,3 +359,7 @@ Go promotes composition over inheritance.
 - [Go Regular Expressions (2020)](https://codesalad.dev/blog/go-regular-expressions-5)
 - [Build a Go Router From Scratch (2020)](https://codesalad.dev/blog/build-a-go-router-from-scratch-3)
 - [Benchmarks of Go serialization methods](https://github.com/alecthomas/go_serialization_benchmarks)
+- [Choosing the best adhesive for Go code](https://corpix.dev/2019/03/choosing-the-best-adhesive-for-go-code-1.html)
+- [Building a Mapping Language in Go with Parser Combinators (2020)](https://www.youtube.com/watch?v=JiViND-bpmw)
+- [go-bindata](https://github.com/kevinburke/go-bindata) - Small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
+- [Gopium](https://github.com/1pkg/gopium) - Smart Go Structures Optimizer and Manager.

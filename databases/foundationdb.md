@@ -9,3 +9,5 @@
 - [FoundationDB Rust Client](https://github.com/Clikengo/foundationdb-rs)
 - [Retrofitting a Foundation for CouchDB - Adam Kocoloski (2019)](https://www.youtube.com/watch?v=SjXyVZZFkBg&list=PLbzoR-pLrL6oWYrC950yAhbLk8FRRB_Bt&index=12&app=desktop)
 - [Kubernetes operator for FoundationDB](https://github.com/FoundationDB/fdb-kubernetes-operator)
+- [FoundationDB site](https://www.foundationdb.org/)
+- [A ZooKeeper Layer for FoundationDB - Paul Hemberger (2020)](https://www.youtube.com/watch?v=3FYpf1QMPgQ)

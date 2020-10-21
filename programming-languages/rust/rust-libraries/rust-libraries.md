@@ -166,6 +166,7 @@
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
 - [nom](https://github.com/Geal/nom) - Parser combinators library.
+- [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
 - [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax and the [futures](https://crates.io/crates/futures) crate.
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to \*nix APIs.
@@ -476,6 +477,7 @@
 - [spin-rs](https://github.com/mvdnes/spin-rs) - Spin-based synchronization primitives.
 - [Tremor](https://github.com/tremor-rs/tremor-runtime) - Event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation. ([Web](https://www.tremor.rs/)) ([v0.9 release](https://www.tremor.rs/blog/2020-10-16-v09-release/))
 - [uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis.
+- [tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust.
 
 ## Cargo Plugins
 
@@ -491,6 +493,7 @@
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 - [stack-sizes](https://github.com/japaric/stack-sizes) - Tools to print stack usage information emitted by LLVM in human readable format.
 - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling mistakes.
+- [cargo-lipo](https://github.com/TimNN/cargo-lipo) - Cargo subcommand to automatically create universal libraries for iOS.
 
 ## Links
 

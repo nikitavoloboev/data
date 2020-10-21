@@ -67,3 +67,5 @@
 - [Dockerfile Security Best Practices (2020)](https://cloudberry.engineering/article/dockerfile-security-best-practices/) ([HN](https://news.ycombinator.com/item?id=24776771)) ([Code](https://github.com/gbrindisi/dockerfile-security))
 - [It's Time to Forget About Docker (2020)](https://martinheinz.dev/blog/35) ([Lobsters](https://lobste.rs/s/kj6vtn/it_s_time_say_goodbye_docker))
 - [Smaller Docker Images Using Multi-Stage Builds (2020)](https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8)
+- [Reproducible docker containers (2019)](https://corpix.dev/2019/02/reproducible-docker-containers.html)
+- [Docker Repull](https://github.com/jdevelop/repull) - Tool to restart a Docker container with a newer version of an image used by the container.

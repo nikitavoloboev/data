@@ -174,3 +174,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Better Git diff output for Ruby, Python, Elixir, Go and more (2020)](https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more)
 - [The Git Commit Hash (2020)](https://www.mikestreety.co.uk/blog/the-git-commit-hash)
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories.
+- [Narrated Diffs](https://github.com/tbroadley/narrated-diffs) - Tool to enable PR authors to tell a story with their changes.
+- [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites.

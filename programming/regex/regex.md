@@ -37,3 +37,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Python re(gex) book](https://leanpub.com/py_regex) - Learn Python Regular Expressions step by step from beginner to advanced levels with hundreds of examples and exercises. ([Code](https://github.com/learnbyexample/py_regular_expressions))
 - [JavaScript RegExp](https://github.com/learnbyexample/learn_js_regexp) - Example based guide to mastering JavaScript regexp. ([Article](https://learnbyexample.github.io/cheatsheet/javascript/javascript-regexp-cheatsheet/))
 - [Compile time regular expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+- [A Visual Guide to Regular Expression (2020)](https://amitness.com/regex/)

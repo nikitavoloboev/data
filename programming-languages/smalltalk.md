@@ -24,3 +24,4 @@
 - [Why Smalltalk Has Failed](https://gbracha.blogspot.com/2020/05/bits-of-history-words-of-advice.html?m=1) ([HN](https://news.ycombinator.com/item?id=24329485))
 - [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)
 - [Issue #25: Smalltalk (2020)](https://deprogrammaticaipsum.com/issue-25-smalltalk/)
+- [Design patterns, Smalltalk, and the lost art of reading code (2020)](https://medium.com/swlh/design-patterns-smalltalk-and-the-lost-art-of-reading-code-1727d93fd7fa) ([HN](https://news.ycombinator.com/item?id=24842298))

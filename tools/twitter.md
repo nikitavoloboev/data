@@ -36,3 +36,5 @@
 - [HuggingTweets](https://github.com/borisdayma/huggingtweets) - Train a model to generate tweets. .
 - [ilo](https://ilo.so/) - Better Twitter analytics.
 - [toptweets.by](https://toptweets.by/) - Use toptweets.by / <user> to see the top tweets by that user. ([Code](https://github.com/michaelrbock/besttweets)) ([Tweet](https://twitter.com/michaelrbock/status/1316952215354048513))
+- [Awesome Twitter Data](https://github.com/shaypal5/awesome-twitter-data) - List of Twitter datasets and related resources.
+- [Gardening Your Twitter: Growing Your Followers (2020)](https://steipete.com/posts/growing-your-twitter-followers/)

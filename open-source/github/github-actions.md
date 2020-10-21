@@ -56,6 +56,7 @@
 - [Autosquash](https://github.com/tibdex/autosquash) - Automatically updates and merges your pull requests.
 - [chart-releaser](https://github.com/helm/chart-releaser-action) - GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool.
 - [action-waypoint](https://github.com/hashicorp/action-waypoint) - GitHub action for deploying and annotating PRs and commits with Waypoint.
+- [action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 
 ## Go
 
@@ -147,3 +148,4 @@
 - [Run your GitHub Actions in AWS CodeBuild](https://github.com/glassechidna/cbactions)
 - [GitHub Actions SDK (Go)](https://github.com/sethvargo/go-githubactions)
 - [Push to GitHub Container Registry using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)
+- [Create a JavaScript GitHub Action using TypeScript](https://github.com/actions/typescript-action)

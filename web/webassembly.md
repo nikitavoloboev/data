@@ -107,3 +107,5 @@
 - [Low-Level Academy WebAssembly modules](https://github.com/LowLevelAcademy/wasm-modules)
 - [trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [wasmbin](https://github.com/GoogleChromeLabs/wasmbin) - Self-generating WebAssembly parser & serializer in Rust. ([Article](https://rreverser.com/wasmbin-yet-another-webassembly-parser-serializer/))
+- [Sourcegraph Podcast: Syrus Akbary, founder and CEO of Wasmer (2020)](https://about.sourcegraph.com/podcast/syrus-akbary/)
+- [Go, WebAssembly, HTTP requests and Promises (2020)](https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html)

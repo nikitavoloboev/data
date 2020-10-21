@@ -170,10 +170,13 @@
 - [Construct](https://github.com/construct/construct) - Powerful declarative and symmetrical parser and builder for binary data.
 - [Python BigQuery](https://github.com/googleapis/python-bigquery) - Python Client for Google BigQuery.
 - [halo](https://github.com/manrajgrover/halo) - Beautiful spinners for terminal, IPython and Jupyter.
+- [Functions Framework for Python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions.
+- [Cachier](https://github.com/shaypal5/cachier) - Persistent, stale-free, local and cross-machine caching for Python functions.
+- [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames.
 
 ## Links
 
-- [PyPi](https://pypi.org/) - Repository of software for the Python programming language.
+- [PyPi](https://pypi.org/) - Repository of software for the Python programming language. ([Code](https://github.com/pypa/warehouse))
 - [Twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI.
 - [staged-recipes](https://github.com/conda-forge/staged-recipes) - Place to submit conda recipes before they become fully fledged conda-forge feedstocks.
 - [All of the python 3.9 standard library](https://gist.github.com/jph00/d5981f649a83a754946964cf22322cb2) - Organized and hyperlinked index to every module, function, and class in the Python standard library.

@@ -45,6 +45,7 @@ Here are few more things I liked, design wise.
 - [Dropbase](https://www.dropbase.io/)
 - [Failory](https://www.failory.com/)
 - [iA](https://ia.net/)
+- [Stedi](https://stedi.com/)
 - [Hex](https://hex.tech/)
 - [Uniswap](https://uniswap.org/)
 - [Panic](https://panic.com/)
@@ -53,6 +54,7 @@ Here are few more things I liked, design wise.
 - [Remotive](https://remotive.io/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
+- [Walling](https://walling.app/)
 - [Logic Magazine](https://logicmag.io/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
@@ -80,6 +82,7 @@ Here are few more things I liked, design wise.
 - [Dark Forest Blog](https://blog.zkga.me/)
 - [Well-Ironed](https://well-ironed.com/)
 - [Blog Title](https://blogtitle.github.io/)
+- [linus.coffee](https://linus.coffee/)
 
 ## Products
 
@@ -98,6 +101,7 @@ Here are few more things I liked, design wise.
 - [Tonic](https://canopy.cr/tonic)
 - [Triqla](https://triqla.com/)
 - [Formik](https://formik.com/)
+- [RocketSim](https://www.rocketsim.app/)
 
 ## Events
 

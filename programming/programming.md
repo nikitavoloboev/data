@@ -267,3 +267,5 @@
 - [Programming with a Read-Eval-Synth Loop (2020)](http://cseweb.ucsd.edu/~hpeleg/resl-oopsla20.pdf) ([HN](https://news.ycombinator.com/item?id=24833723))
 - [Poor man's profiler](http://poormansprofiler.org/) ([Lobsters](https://lobste.rs/s/znckfh/poor_man_s_profiler))
 - [Infer](https://github.com/facebook/infer) - Static analyzer for Java, C, C++, and Objective-C. ([Web](https://fbinfer.com/)) ([Facebook's Code Checker](https://www.youtube.com/watch?v=tKR2UZdRpV0))
+- [What you can do when code is really hard to review](https://understandlegacycode.com/blog/what-you-can-do-when-code-is-hard-to-review/)
+- [Discipline Doesn’t Scale (2020)](https://www.sicpers.info/2020/10/discipline-doesnt-scale/) ([HN](https://news.ycombinator.com/item?id=24834965))

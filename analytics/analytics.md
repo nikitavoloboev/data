@@ -45,7 +45,7 @@ If analytics are used, it's best to implement them server side with something li
 - [kSense](https://ksense.io/) - Insanely Fast Analytics.
 - [Umami](https://umami.is/) - Self-hosted open-source alternative to Google Analytics. ([HN](https://news.ycombinator.com/item?id=24198329))
 - [Privacy Focused Analytics From Scratch (2020)](https://healeycodes.com/privacy-focused-analytics-from-scratch/)
-- [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) ([Article](https://blog.cloudflare.com/free-privacy-first-analytics-for-a-better-web/)) ([HN](https://news.ycombinator.com/item?id=24627204)) ([HN 2](https://news.ycombinator.com/item?id=24628628))
+- [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) ([Article](https://blog.cloudflare.com/free-privacy-first-analytics-for-a-better-web/)) ([HN](https://news.ycombinator.com/item?id=24627204)) ([HN 2](https://news.ycombinator.com/item?id=24628628)) ([Review](https://markosaric.com/cloudflare-analytics-review/)) ([HN 3](https://news.ycombinator.com/item?id=24846300))
 - [Big tech finally challenges Fathom Analytics (2020)](https://usefathom.com/blog/big-tech-vs-fathom)
 - [umami](https://umami.is/) - Simple, fast, website analytics alternative to Google Analytics. ([Code](https://github.com/mikecao/umami))
 - [The Analytics That Matter (2020)](https://css-tricks.com/the-analytics-that-matter/)
@@ -54,3 +54,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. ([Web](https://ackee.electerious.com/))
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [Frovedis](https://github.com/frovedis/frovedis) - Framework of vectorized and distributed data analytics.
+- [AWS Web Analytics](https://github.com/goatandsheep/aws-web-analytics) - Privacy-focused alternative to Google Analytics on AWS Pinpoint.

@@ -77,3 +77,4 @@
 - [Quantum Leaps](https://www.state-machine.com/) - Modern Embedded Software. ([GitHub](https://github.com/QuantumLeaps))
 - [So you want to build an embedded Linux system? (2020)](https://jaycarlson.net/embedded-linux/) ([HN](https://news.ycombinator.com/item?id=24800037))
 - [How I Teach Embedded Systems (2019)](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
+- [eRPC (Embedded RPC)](https://github.com/EmbeddedRPC/erpc) - Open source Remote Procedure Call (RPC) system for multichip embedded systems and heterogeneous multicore SoCs.

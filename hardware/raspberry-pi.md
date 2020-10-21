@@ -29,3 +29,6 @@
 - [Bare Metal Programming on Raspberry Pi 3](https://github.com/bztsrc/raspi3-tutorial) ([HN](https://news.ycombinator.com/item?id=24637129))
 - [Rust + Raspberry Pi Tide Clock (2020)](https://thefuntastic.com/blog/rust-tide-clock)
 - [Today’s Webcams Are Boring, So I Brought Back a Classic (2020)](https://debugger.medium.com/todays-webcams-are-boring-so-i-brought-back-a-classic-291cc7c94c76) ([Lobsters](https://lobste.rs/s/w7pcc2/today_s_webcams_are_boring_so_i_brought)) ([HN](https://news.ycombinator.com/item?id=24742460))
+- [Raspberry Pi as FM transmitter](https://github.com/markondej/fm_transmitter)
+- [BT-Speaker](https://github.com/lukasjapan/bt-speaker) - Simple Bluetooth Speaker Daemon for the Raspberry Pi 3.
+- [Voice-Controlled Raspberry Pi (2020)](https://www.shawenyao.com/Voice-Controlled-Raspberry-Pi/)

@@ -20,3 +20,4 @@
 - [High-quality pre-trained speech-to-text models now available on Torch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/) ([HN](https://news.ycombinator.com/item?id=24565831))
 - [Wavenet For Speech Denoising](https://github.com/drethage/speech-denoising-wavenet) - Neural network for end-to-end speech denoising, as described in: "A Wavenet For Speech Denoising".
 - [Vosk](https://github.com/wzhd/vosk-rs) - Speech recognition toolkit with state-of-the-art accuracy and low latency in Rust.
+- [Voicegain](https://www.voicegain.ai/) - Speech-to-text Platform and APIs. Speech Recognition.

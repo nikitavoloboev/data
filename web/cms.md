@@ -16,3 +16,4 @@
 - [Build and Deploy a Next.js Blog with Cosmic and Vercel (2020)](https://vercel.com/guides/deploying-next-and-cosmic-with-vercel)
 - [KeystoneJS](https://github.com/keystonejs/keystone) - Scalable platform and CMS to build Node.js applications. ([Web](https://www.keystonejs.com/)) ([Keystone + Prisma](https://www.keystonejs.com/blog/prisma-adapter))
 - [Grav](https://getgrav.org/) - Modern Flat-File CMS.
+- [Caasy](https://caasy.io/) - Headless CMS with a focus on efficient collaboration and maximum flexibility.

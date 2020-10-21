@@ -45,6 +45,7 @@
 - [Streaming](https://github.com/odis-labs/streaming) - Fast, safe and composable streaming abstractions. ([Announcement](https://discuss.ocaml.org/t/ann-first-release-of-streaming/5961))
 - [cameleer](https://github.com/mariojppereira/cameleer) - Deductive Verification Tool for OCaml Programs.
 - [Ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters.
+- [jsoo-react](https://github.com/jchavarri/jsoo-react) - Bindings to React for js_of_ocaml, including JSX ppx. Allows to use React from OCaml.
 
 ## Links
 

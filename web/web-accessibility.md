@@ -37,3 +37,4 @@
 - [a11yresources](https://a11yresources.webflow.io/) - Growing list of accessibility tools and resources.
 - [5 Things I've Learned From the Accessibility Community (2020)](https://marcysutton.github.io/5-things-i-learned-from-accessibility/#/)
 - [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog) - Lightweight and flexible accessible modal dialog.
+- [Coding with voice dictation using Talon Voice (2020)](https://joshwcomeau.com/accessibility/hands-free-coding/) ([HN](https://news.ycombinator.com/item?id=24846887))

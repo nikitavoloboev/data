@@ -112,3 +112,6 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Tricks for penetration testing](https://github.com/kmkz/Pentesting)
 - [Malware Source Code Collection](https://github.com/vxunderground/MalwareSourceCode)
 - [Research code & papers from members of vx-underground](https://github.com/vxunderground/VXUG-Papers)
+- [Passguard](https://passguard.app/) - Decentralised and 100% secure password manager. ([Code](https://github.com/passguardapp/passguardapp.github.io))
+- [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) - Collection of cool tools used by Web hackers.
+- [Crowdsec](https://github.com/crowdsecurity/crowdsec) - Modern behavior detection system, written in Go. ([Web](https://crowdsec.net/))

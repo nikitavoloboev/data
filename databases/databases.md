@@ -101,6 +101,7 @@
 - [JsStore](https://github.com/ujjwalguptaofficial/JsStore) - Complete IndexedDB wrapper with SQL like syntax. ([Web](https://jsstore.net/))
 - [Quadrable](https://github.com/hoytech/quadrable) - Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs.
 - [Manticore Search](https://github.com/manticoresoftware/manticoresearch) - Database designed specifically for search, including full-text search.
+- [Amazon QLDB](https://aws.amazon.com/qldb/) - Fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. ([Awesome](https://github.com/mlewis7127/awesome-qldb))
 
 ## Tools
 

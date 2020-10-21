@@ -51,3 +51,5 @@
 - [Packer](https://www.packer.io/) - Build Automated Machine Images. ([Code](https://github.com/hashicorp/packer))
 - [floki](https://github.com/Metaswitch/floki) - Launch containers to help build your software. ([Easy, reproducible, and shareable development environments](https://pure-hack.com/posts/floki/))
 - [Implementing fast lightweight containers in Go with bst and btrfs (2020)](https://snai.pe/posts/lightweight-containers-part-1)
+- [gVisor](https://github.com/google/gvisor) - Application kernel for containers that provides efficient defense-in-depth anywhere. ([Web](https://gvisor.dev/))
+- [Bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool.

@@ -24,3 +24,4 @@
 - [Slack’s \$25 Billion Dollar Secret Sauce (2015)](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
 - [Creating a Slack app that uses fewer resources (2020)](https://kofi.sexy/blog/slack-app-fewer-resources) ([HN](https://news.ycombinator.com/item?id=24743790))
 - [Shrugs.app](https://shrugs.app/) - Integrate macOS into your Slack experience.
+- [How Riot Games Uses Slack (2020)](https://technology.riotgames.com/news/how-riot-games-uses-slack)

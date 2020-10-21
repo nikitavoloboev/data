@@ -99,6 +99,7 @@
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
+- [Vonage API](https://developer.nexmo.com/) - Everything you need to build connected applications. ([Code](https://github.com/Nexmo/nexmo-developer))
 - [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
 - [TalkJS](https://talkjs.com/) - Chat API and Javascript SDK for websites and apps.
 - [Exchangerate.host](https://exchangerate.host/#/) - Free API service for crypto and foreign exchange rates. ([HN](https://news.ycombinator.com/item?id=23917210))
@@ -158,3 +159,4 @@
 - [API pagination design (2020)](https://solovyov.net/blog/2020/api-pagination-design/) ([Lobsters](https://lobste.rs/s/isysq1/api_pagination_design))
 - [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client. ([Code](https://github.com/Kong/insomnia))
 - [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation. ([How Apiary Works](https://apiary.io/how-apiary-works))
+- [Customizing API Documentation with Next.JS, Tailwind CSS, and ReadMe (2020)](https://scale.com/blog/quick-start-guide-to-customized-api-documentation)

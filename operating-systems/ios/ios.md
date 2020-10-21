@@ -227,7 +227,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/)
 - [A Multithreading Saga (2020)](https://cashapp.github.io/2020-07-07/a-multithreading-saga-part-1) - Three part series discussing recent performance improvements we made in our iOS app.
 - [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/) ([HN](https://news.ycombinator.com/item?id=23919175))
-- [RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Enhancing the iOS simulator for productivity.
+- [RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Enhancing the iOS simulator for productivity. ([Web](https://www.rocketsim.app/))
 - [Introducing CryptoKit (2020)](https://www.raywenderlich.com/10846296-introducing-cryptokit)
 - [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html) ([HN](https://news.ycombinator.com/item?id=24099968))
 - [OpenJailbreak](https://github.com/GeoSn0w/OpenJailbreak) - GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.

@@ -127,3 +127,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open source licensing and why we’re changing Plausible to the AGPL license (2020)](https://plausible.io/blog/open-source-licenses) ([HN](https://news.ycombinator.com/item?id=24763734))
 - [License Finder](https://github.com/pivotal/LicenseFinder) - Find licenses for your project's dependencies.
 - [Congress should invest in open-source software (2020)](https://www.brookings.edu/techstream/why-congress-should-invest-in-open-source-software/) ([HN](https://news.ycombinator.com/item?id=24789070))
+- [VSCode's Approach to Issue Grooming](https://github.com/microsoft/vscode/wiki/Issue-Grooming) ([HN](https://news.ycombinator.com/item?id=24846210))
+- [I enforced the AGPL on my code, here's how it went (bad) (2020)](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html) ([Lobsters](https://lobste.rs/s/tlxth2/i_enforced_agpl_on_my_code_here_s_how_it_went)) ([HN](https://news.ycombinator.com/item?id=24845878))

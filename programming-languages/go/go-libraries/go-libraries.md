@@ -145,6 +145,10 @@
 
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries.
 
+## Crypto
+
+- [ristretto255](https://github.com/gtank/ristretto255) - Implements ristretto255, a fast prime-order group.
+
 ## Linux
 
 - [go-criu](https://github.com/checkpoint-restore/go-criu) - Go Bindings for CRIU.
@@ -532,6 +536,8 @@
 - [ln](https://github.com/Xe/ln) - Natural log function. ([Article](https://christine.website/blog/ln-the-natural-logger-2020-10-17))
 - [Gohalt](https://github.com/1pkg/gohalt) - Simple and convenient yet powerful and efficient throttling go library.
 - [gox](https://github.com/8byt/gox) - Extension of Go's syntax that let's you write HTML-style tags directly in your source code.
+- [Pirsch](https://github.com/pirsch-analytics/pirsch) - Drop-in, server-side, no-cookie, and privacy-focused tracking solution for Go.
+- [Birdland](https://github.com/rlouf/birdland) - Battle-tested recommendation library written in Go.
 
 ## Links
 

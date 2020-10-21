@@ -43,3 +43,4 @@
 - [CAC](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [Go <=> Deno](https://github.com/littledivy/godeno)
 - [Obsidian - GraphQL caching client & server module for Deno (2020)](https://blog.graphqleditor.com/obsidian-graphql-caching-client-server-module-for-deno/)
+- [Denosaurs](https://github.com/denosaurs) - Developing deno.land modules such as denon. ([Web](https://denosaurs.land/))

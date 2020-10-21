@@ -96,3 +96,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Maizzle](https://github.com/maizzle/maizzle) - Framework that helps you quickly build HTML emails with Tailwind CSS. ([Web](https://maizzle.com/))
 - [Alter.Email](https://alter.email/) - Transform your HTML emails.
 - [Email Tips Collection (2020)](https://joshspector.com/email-tips/)
+- [Email Reply Parser](https://github.com/crisp-dev/email-reply-parser) - Node library for parsing plain text email content.

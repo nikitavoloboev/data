@@ -126,3 +126,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [VideoAsk](https://www.videoask.com/) - Interact face-to-face with your audience & build stronger business relationships.
 - [Stream](https://www.stream.club/) - Virtual Class Platform.
 - [BigMarker](https://www.bigmarker.com/) - Modern, No-Download Webinar Software.
+- [Vowel](https://www.vowel.com/) - Plan, host, transcribe, search, and share your meetings.
+- [PeerTube](https://joinpeertube.org/) - Free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent. ([Code](https://github.com/Chocobozzz/PeerTube)) ([Roadmap](https://joinpeertube.org/roadmap/))

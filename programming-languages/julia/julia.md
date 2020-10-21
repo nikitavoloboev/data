@@ -58,3 +58,6 @@
 - [CSV Reader Benchmarks: Julia Reads CSVs 10-20x Faster than Python and R (2020)](https://juliacomputing.com/blog/2020/06/22/fast-csv.html) ([HN](https://news.ycombinator.com/item?id=24746057))
 - [The unreasonable effectiveness of the Julia programming language (2020)](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/) ([HN](https://news.ycombinator.com/item?id=24729034))
 - [Example of Julia workflow using Docker and GitHub Actions](https://github.com/terasakisatoshi/MyWorkflow.jl)
+- [The accelerating adoption of Julia (2020)](https://lwn.net/SubscriberLink/834571/e8d7adc0d9b669bc/) ([HN](https://news.ycombinator.com/item?id=24839744))
+- [Why Does Julia Work So Well?](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia) ([HN](https://news.ycombinator.com/item?id=24846033))
+- [Guide to distributed computing in Julia](https://github.com/juliohm/julia-distributed-computing)

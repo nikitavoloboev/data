@@ -17,3 +17,4 @@
 - [DiffWave](https://github.com/lmnt-com/diffwave) - Fast, high-quality neural vocoder and waveform synthesizer.
 - [Voice Conversion with Non-Parallel Data](https://github.com/andabi/deep-voice-conversion)
 - [Speech Synthesis Papers](https://github.com/xcmyz/speech-synthesis-paper)
+- [VoiceFilter](https://github.com/mindslab-ai/voicefilter) - Unofficial PyTorch implementation of Google AI's VoiceFilter system. ([Web](http://swpark.me/voicefilter/))

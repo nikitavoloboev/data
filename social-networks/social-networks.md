@@ -70,3 +70,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Party at My House: Darius Kazemi on Human-Scaled Social Media (2020)](https://logicmag.io/security/party-at-my-house-darius-kazemi-on-human-scaled-social-media/)
 - [Clusters rule everything around me (2020)](https://www.worksinprogress.co/issue/clusters-rule-everything-around-me/) ([HN](https://news.ycombinator.com/item?id=24830588))
 - [The political economy of platforms (2020)](https://parametricity.com/posts/2020-platforms/)
+- [Media Manipulation Casebook](https://mediamanipulation.org/) - Digital research platform linking together theory, methods, and practice for mapping media manipulation and disinformation campaigns.

@@ -451,6 +451,9 @@
 - [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - Package which provides transformation operation for WebAssembly binary.
 - [Graphiti](https://github.com/GraphQLSwift/Graphiti) - Swift library for building GraphQL schemas/types fast, safely and easily.
 - [ZippyJSON](https://github.com/michaeleisel/ZippyJSON) - Much faster version of JSONDecoder.
+- [AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - Library for creating App Icons from SwiftUI views.
+- [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Purchase Receipt Locally.
+- [BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift.
 
 ## Other (not lib)
 

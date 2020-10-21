@@ -285,6 +285,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
 - [Formito](https://formito.com/) - Create Forms that Feel Like an App.
 - [Indent](https://indent.com/) - Access requests made easy.
+- [Air](https://air.inc/) - Bring your team and content together in a space designed for visual work.
 - [Repren](https://github.com/jlevy/repren) - Simple but flexible command-line tool for rewriting file contents according to a set of regular expression patterns.
 - [SILE](https://github.com/sile-typesetter/sile) - Typesetting system; its job is to produce beautiful printed documents.
 - [CozyCal](https://www.cozycal.com) - Delightfully Simple Scheduling.
@@ -301,6 +302,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Excalidraw](https://www.excalidraw.com) - Sketch hand-drawn like diagrams. ([Code](https://github.com/excalidraw/excalidraw)) ([Excalidraw Embed](https://github.com/excalidraw/excalidraw-embed))
 - [SketchViz](https://sketchviz.com/new) - Create Graphviz graphs.
 - [OverAPI](http://overapi.com/) - Collecting All Cheat Sheets.
+- [QR Menu Creator](https://qrmenucreator.com/) - Make Your Restaurant or Bar Menu in a QR Code. ([Tweet](https://twitter.com/levelsio/status/1318890523743182851))
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.
 - [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.
 - [workspaces-run](https://github.com/jamiebuilds/workspaces-run) - Run tasks/scripts across Yarn/Lerna/Bolt/etc workspaces.

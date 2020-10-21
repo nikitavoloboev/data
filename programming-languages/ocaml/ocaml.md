@@ -54,3 +54,4 @@
 - [OCaml-Java](http://www.ocamljava.org/) - Run OCaml code on a JVM, and manipulate Java entities from OCaml.
 - [OCaml Labs](https://github.com/ocamllabs)
 - [Multicore OCaml: September 2020](https://discuss.ocaml.org/t/multicore-ocaml-september-2020/6565) ([HN](https://news.ycombinator.com/item?id=24719124))
+- [duniverse](https://github.com/ocamllabs/duniverse) - Experimental vendoring system for Dune.

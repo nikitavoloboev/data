@@ -15,3 +15,4 @@
 - [Amazon Ion](https://amzn.github.io/ion-docs/) - Richly-typed, self-describing, hierarchical data serialization format offering interchangeable binary and text representations. ([HN](https://news.ycombinator.com/item?id=23921610))
 - [Unicode In Five Minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
 - [Unicode support. What does that actually mean? (2020)](https://boyter.org/posts/unicode-support-what-does-that-actually-mean/)
+- [Fast UTF-8 validation (2020)](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/) ([HN](https://news.ycombinator.com/item?id=24839113)) ([Code](https://github.com/lemire/validateutf8-experiments))

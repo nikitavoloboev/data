@@ -21,3 +21,4 @@
 - [Rails Common WTFs](https://discuss.rubyonrails.org/t/frequently-wtfed-wtfs/74706)
 - [HatchBox](https://www.hatchbox.io/) - Build, deploy, and manage Rails apps.
 - [Guide to Reactive Rails](https://github.com/obie/guide-to-reactive-rails)
+- [Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide) - Community-driven Ruby on Rails style guide. ([Docs](https://rails.rubystyle.guide/)) ([RuboCop Rails](https://github.com/rubocop-hq/rubocop-rails))

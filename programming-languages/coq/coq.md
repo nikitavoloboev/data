@@ -42,3 +42,4 @@
 - [CoqPrime](https://github.com/thery/coqprime) - Prime numbers for Coq.
 - [coqffi](https://github.com/coq-community/coqffi) - Automatically generates Coq FFI bindings to OCaml libraries.
 - [Coqtail](https://github.com/coq-community/coqtail-math) - Library of mathematical theorems and tools proved inside the Coq proof assistant.
+- [Interaction Trees](https://github.com/DeepSpec/InteractionTrees) - Library for Representing Recursive and Impure Programs in Coq.

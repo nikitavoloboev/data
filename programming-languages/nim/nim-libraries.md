@@ -2,7 +2,7 @@
 
 ## Web
 
-- [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services.
+- [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
 
 ## Other
 

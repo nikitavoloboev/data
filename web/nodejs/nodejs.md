@@ -115,3 +115,6 @@
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework For Interactive CLIs.
 - [localPorridge](https://github.com/johnletey/localPorridge) - Rip-off of localStorage for Node.
 - [Why does package-lock.json exist, and how does it work? (2020)](https://lucasfcosta.com/2020/10/17/lockfile-guide.html)
+- [NodeConf Remote](https://www.nodeconfremote.com/)
+- [node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
+- [totalist](https://github.com/lukeed/totalist) - Tiny utility to recursively list all (total) files in a directory.
