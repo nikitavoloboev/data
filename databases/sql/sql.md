@@ -70,3 +70,4 @@
 - [Simple Anomaly Detection Using Plain SQL (2020)](https://hakibenita.com/sql-anomaly-detection) ([Lobsters](https://lobste.rs/s/q1hh1g/simple_anomaly_detection_using_plain_sql))
 - [A Short Story About SQL’s Biggest Rival (2020)](https://www.holistics.io/blog/quel-vs-sql/?) ([HN](https://news.ycombinator.com/item?id=24730713))
 - [What ORMs Have Taught Me: Just Learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/) ([HN](https://news.ycombinator.com/item?id=24845300))
+- [SQL Formatter](https://zeroturnaround.github.io/sql-formatter/) - JavaScript library for pretty-printing SQL queries. ([Code](https://github.com/zeroturnaround/sql-formatter))

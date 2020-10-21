@@ -218,3 +218,4 @@
 - [Metadata Reflection API for JS](https://github.com/rbuckton/reflect-metadata)
 - [SurviveJS](https://survivejs.com/) - Learn JavaScript. From apprentice to master.
 - [Composing Closures and Callbacks in JavaScript (2020)](https://egghead.io/playlists/composing-closures-and-callbacks-in-javascript-1223?utm_source=twitter&utm_campaign=javascript&utm_content=announce)
+- [CJS Module Lexer](https://github.com/guybedford/cjs-module-lexer) - Fast lexer to extract named exports via analysis from CommonJS modules.

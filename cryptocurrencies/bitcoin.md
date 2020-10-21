@@ -40,3 +40,4 @@
 - [Takeaways from MicroStrategy CEO 425 million investment into bitcoin (2020)](https://twitter.com/woonomic/status/1306853254685364225)
 - [Building on Bitcoin #1 — Isaac Morehouse (2020)](https://www.youtube.com/watch?v=4F4kWu_6vVE&feature=youtu.be)
 - [What Comes Next. Building Bit.sv. (2020)](https://bit.sv/post/499dec5108b14e99d28b48b0c0dfcd5fe06edef43ad738d41f18264151aaf30d)
+- [This Month In Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/)

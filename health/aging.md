@@ -40,3 +40,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Anti-ageing: Where We Are At Now And The Various Drugs And Companies In The Field (2020)](https://www.reddit.com/r/singularity/comments/hlm7i5/antiageing_where_we_are_at_now_and_the_various/)
 - [Longevity — what we know so far (2020)](https://www.youtube.com/watch?v=R719BANcwkA)
 - [Calico](https://www.calicolabs.com/) - Research longevity.
+- [Who Gets to Solve Death? (2020)](https://divinations.substack.com/p/who-gets-to-solve-death)

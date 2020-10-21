@@ -120,6 +120,7 @@
 - [Stow](https://github.com/djherbis/stow) - Simple object persistence with boltdb.
 - [go-structured-query](https://github.com/bokwoon95/go-structured-query) - Code-generated, type safe query builder and struct mapper for Go.
 - [remember-go](https://github.com/rocketlaunchr/remember-go) - Cache Slow Database Queries.
+- [RamSQL](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose.
 
 ## ML
 

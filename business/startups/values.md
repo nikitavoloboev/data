@@ -26,6 +26,10 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - Respect the product & the customers
 - Respect the decisions of the team
 
+## Notes
+
+- [Adversity is an opportunity to show great character. Bad things are good things in disguise.](https://twitter.com/galjudo/status/1318888329245589505)
+
 ## Links
 
 - [List of Questions to consider evaluating culture](https://twitter.com/jenistyping/status/1201560725379960832)

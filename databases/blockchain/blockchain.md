@@ -88,3 +88,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Mina Protocol](https://minaprotocol.com/) - Lightest blockchain, powered by participants.
 - [Agoric](https://agoric.com/) - Secure smart contracts. ([Platform SDK](https://github.com/Agoric/agoric-sdk))
 - [You Don’t Need a Blockchain, You Need a Time-Series Database (2020)](https://thenewstack.io/you-dont-need-a-blockchain-you-need-a-time-series-database/)
+- [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol.

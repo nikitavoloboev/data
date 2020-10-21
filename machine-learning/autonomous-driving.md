@@ -19,3 +19,4 @@
 - [SelfDriving.fyi](https://selfdriving.fyi/) - Comprehensive database of companies working on autonomous vehicles and related technologies.
 - [panda](https://github.com/commaai/panda) - Universal car interface.
 - [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. ([Docs](https://microsoft.github.io/AirSim/))
+- [Tesla Autopilot AI](https://www.tesla.com/autopilotAI)

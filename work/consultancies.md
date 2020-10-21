@@ -52,6 +52,8 @@
 - [Human Deluxe Design Studio](https://humandeluxe.com/)
 - [This Too Shall Grow](https://thistooshallgrow.com/)
 - [Wiredcraft](https://wiredcraft.com/) - Creates & grows digital products for the world’s best brands.
+- [Z1](https://z1.digital/) - Digital Product Studio.
+- [No Service 24/7](https://www.noservice.today/) - Brand Agency.
 
 ## DB
 

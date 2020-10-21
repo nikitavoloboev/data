@@ -539,6 +539,10 @@ Here are few more things I liked, design wise.
 - [Bustle](https://www.bustle.com/uk) - Fast.
 - [Gikken](https://gikken.co/) - Amazing iOS & macOS software.
 
+## Pages
+
+- [Nice use of Inter font](https://the-brandidentity.com/feed/no-service-24-7s-campaign-electric-scooter-brand-unu-lets-product-talking/)
+
 ## Links
 
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios)
