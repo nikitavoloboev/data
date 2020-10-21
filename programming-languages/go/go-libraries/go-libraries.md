@@ -81,6 +81,7 @@
 - [securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values.
 - [gorilla/handlers](https://github.com/gorilla/handlers) - Collection of useful middleware for Go HTTP services & web applications.
 - [gorilla/schema](https://github.com/gorilla/schema) - Converts structs to and from form values.
+- [Iris](https://github.com/kataras/iris) - Fastest HTTP/2 Go Web Framework. ([Web](https://www.iris-go.com/))
 
 ## GraphQL
 
@@ -543,6 +544,7 @@
 - [Birdland](https://github.com/rlouf/birdland) - Battle-tested recommendation library written in Go.
 - [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration.
 - [google-search](https://github.com/rocketlaunchr/google-search) - Scrape google search results.
+- [workerpool](https://github.com/proullon/workerpool) - Auto scaling generic worker pool.
 
 ## Links
 

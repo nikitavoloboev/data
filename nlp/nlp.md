@@ -169,3 +169,4 @@
 - [Deep Bidirectional Transformers for Language Understanding (2020)](https://www.youtube.com/watch?v=j9toSIRf4RI) - Explains a legendary paper, BERT. ([HN](https://news.ycombinator.com/item?id=24826599))
 - [EasyTransfer](https://github.com/alibaba/EasyTransfer) - Designed to make the development of transfer learning in NLP applications easier.
 - [LambdaBERT](https://github.com/gsarti/lambda-bert) - Transformers-style implementation of BERT using LambdaNetworks instead of self-attention.
+- [DialoGPT](https://github.com/microsoft/DialoGPT) - State-of-the-Art Large-scale Pretrained Response Generation Model.

@@ -81,3 +81,4 @@
 - [htcat](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
 - [How HTTPS Works in Layman’s Terms – TLS 1.2 and 1.3 (2020)](https://vinta.ws/code/how-https-works-in-laymans-terms-tls-1-2-and-1-3.html)
 - [The Long Road to HTTP/3 (2020)](https://scorpil.com/post/the-long-road-to-http3/) ([Lobsters](https://lobste.rs/s/knfugz/long_road_http_3)) ([HN](https://news.ycombinator.com/item?id=24834767))
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.

@@ -190,3 +190,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Vim Awesome](https://vimawesome.com/) - Awesome Vim plugins from across the universe. ([Code](https://github.com/vim-awesome/vim-awesome))
 - [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
 - [dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
+- [Paq](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.

@@ -38,3 +38,4 @@
 - [PSSH](https://github.com/lilydjwg/pssh) - Provides parallel versions of OpenSSH and related tools, including pssh, pscp, prsync, pnuke and pslurp.
 - [SSHDog](https://github.com/Matir/sshdog) - Small portable SSH server in Go.
 - [SSH Through Websocket (2020)](https://rumpelsepp.org/blog/ssh-through-websocket/)
+- [assh](https://github.com/moul/assh) - Transparent wrapper that adds support for regex, aliases, gateways, dynamic hostnames, graphviz, json output, yaml configuration, and more to SSH.

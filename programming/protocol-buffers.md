@@ -24,3 +24,4 @@
 - [pb-jelly](https://github.com/dropbox/pb-jelly) - Protobuf code generation framework for the Rust language developed at Dropbox. ([HN](https://news.ycombinator.com/item?id=24493491))
 - [Molecule](https://github.com/richardartoul/molecule) - Go library for parsing protobufs in an efficient and zero-allocation manner.
 - [How to Easily use GRPC and Protocol Buffers with NodeJS (2020)](https://adityasridhar.com/posts/how-to-easily-use-grpc-and-protocol-buffers-with-nodejs)
+- [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic protocol generator based on golang's text/template.

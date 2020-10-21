@@ -96,3 +96,4 @@
 - [EPI Judge](https://github.com/adnanaziz/EPIJudge) - Companion to our book Elements of Programming Interviews.
 - [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Curated list of lists of technical interview questions.
 - [Everything you need to know to get the job](https://github.com/kdn251/interviews)
+- [Protips for tech interviewing, especially for big teams or orgs (2020)](https://twitter.com/devonbl/status/1318944166651613185)
