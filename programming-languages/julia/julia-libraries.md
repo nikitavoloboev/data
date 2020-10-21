@@ -104,6 +104,7 @@
 - [ArrayInterface](https://github.com/SciML/ArrayInterface.jl) - Designs for new Base array interface primitives.
 - [LazyArrays](https://github.com/JuliaArrays/LazyArrays.jl) - Lazy arrays and linear algebra in Julia.
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs.
+- [LinearFractional](https://github.com/focusenergy/LinearFractional.jl) - Linear fractional programming with Julia and JuMP.
 
 ## Links
 

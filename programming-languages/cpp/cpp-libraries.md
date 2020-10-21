@@ -123,6 +123,7 @@
 - [Aleph](https://github.com/Pseudomanifold/Aleph) - Library for Exploring Persistent Homology.
 - [Terminal](https://github.com/jupyter-xeus/terminal) - Small header only C++ library for writing multiplatform terminal applications.
 - [Draco](https://github.com/lanl/Draco) - Object-oriented component library geared towards numerically intensive, radiation (particle) transport applications built for parallel computing hardware.
+- [cpu_features](https://github.com/google/cpu_features) - Cross platform C99 library to get cpu features at runtime.
 
 ## Links
 

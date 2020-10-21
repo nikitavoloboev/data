@@ -290,3 +290,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How I Made \$30,000 on My First Self-Published Book (2020)](https://randallkanna.medium.com/how-i-made-30k-on-my-first-self-published-book-2f9073dc33e5)
 - [Readium](https://www.readium.co/) - Easier way to track reading habits.
 - [Write Useful Books](https://writeusefulbooks.com/) - Guide containing everything I know about how to design, test, and refine nonfiction books.
+- [Inventaire](https://inventaire.io/) - Collaborative resource mapper powered by open-knowledge, starting with books. ([Code](https://github.com/inventaire/inventaire))

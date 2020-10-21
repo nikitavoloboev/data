@@ -478,6 +478,7 @@
 - [Tremor](https://github.com/tremor-rs/tremor-runtime) - Event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation. ([Web](https://www.tremor.rs/)) ([v0.9 release](https://www.tremor.rs/blog/2020-10-16-v09-release/))
 - [uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis.
 - [tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust.
+- [Rio](https://github.com/oxigraph/rio) - RDF parsers library.
 
 ## Cargo Plugins
 

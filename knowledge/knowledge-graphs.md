@@ -41,3 +41,5 @@
 - [LUKE](https://github.com/studio-ousia/luke) - Language Understanding with Knowledge-based Embeddings.
 - [mkb](https://github.com/raphaelsty/mkb) - Library dedicated to knowledge graph embeddings.
 - [Gentle introduction to the Wikidata Query Service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/A_gentle_introduction_to_the_Wikidata_Query_Service#A_gentle_introduction_to_the_Wikidata_Query_Service) ([HN](https://news.ycombinator.com/item?id=24823074))
+- [wikibase-cli](https://github.com/maxlath/wikibase-cli) - Read and edit a Wikibase instance from the command line.
+- [Web hub based on Wikidata](https://github.com/maxlath/hub) - Let's you craft URLs to go from an origin to a destination on the web, at the condition that you provide enough information on those points to be identified within Wikidata. ([Web](https://hub.toolforge.org/))
