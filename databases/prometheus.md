@@ -19,3 +19,7 @@
 - [Prometheus NATS Exporter](https://github.com/nats-io/prometheus-nats-exporter) - Prometheus exporter for NATS metrics.
 - [Prometheus Community Kubernetes Helm Charts](https://github.com/prometheus-community/helm-charts)
 - [PostgreSQL Prometheus Adapter](https://github.com/CrunchyData/postgresql-prometheus-adapter) - Remote storage adapter enabling Prometheus to use PostgreSQL as a long-term store for time-series metrics.
+- [PromCat](https://promcat.io/) - Resource catalog for enterprise-class Prometheus monitoring.
+- [Telegram bot for Prometheus alerting](https://github.com/inCaller/prometheus_bot)
+- [Alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager.
+- [Prometheus client for node.js](https://github.com/siimon/prom-client)

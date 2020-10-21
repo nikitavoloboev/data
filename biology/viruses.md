@@ -39,3 +39,4 @@
 - [Giant virus discovered with its own CRISPR-like immune system (2016)](https://www.ibtimes.co.uk/could-giant-virus-own-immune-system-be-branch-life-1546905?platform=hootsuite)
 - [This Week in Virology](https://www.microbe.tv/twiv/) - Podcast about viruses.
 - [What is Herd Immunity? Epidemiologists Make Their Case (2020)](https://www.youtube.com/watch?v=QJajHxG3C9A)
+- [Coronavirus Vaccine Tracker (2020)](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)

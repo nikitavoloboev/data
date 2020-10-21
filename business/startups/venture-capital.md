@@ -76,3 +76,4 @@
 - [VC Guide](https://www.vcguide.co/) - Anonymous fund & investor partner reviews by founders for founders. ([HN](https://news.ycombinator.com/item?id=24491199))
 - [Atomico](https://www.atomico.com/) - European Venture Capital Firm.
 - [Alpha Bridge](https://www.alphabridge.vc/)
+- [Runa Capital](https://runacap.com/) - Global venture capital firm built by serial entrepreneurs that invests in early stage software startups.

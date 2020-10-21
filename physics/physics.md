@@ -144,3 +144,4 @@
 - [A new way to visualize General Relativity (2020)](https://www.youtube.com/watch?v=wrwgIjBUYVc)
 - [Space Itself Is Expanding: Gravity and General Relativity Explained (2015)](https://medium.com/@davidlevitt/space-itself-is-expanding-gravity-and-general-relativity-explained-6395aa2e4d69)
 - [The female mathematician who changed the course of physics—but couldn’t get a job (2015)](https://arstechnica.com/science/2015/05/the-female-mathematician-who-changed-the-course-of-physics-but-couldnt-get-a-job/)
+- [Theoretical Physics Reference](https://www.theoretical-physics.com/dev/index.html) - Open source theoretical physics book. ([Web](https://www.theoretical-physics.com/)) ([Code](https://github.com/certik/theoretical-physics))

@@ -16,3 +16,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [BabyBees subreddit](https://www.reddit.com/r/BabyBees/) - Subreddit for those brand new to the Hive to ask questions and learn, and for experienced bees to answer questions.
 - [Aldous Huxley Foresaw America’s Pill-Popping Addiction](https://lithub.com/aldous-huxley-foresaw-americas-pill-popping-addiction-with-eerie-accuracy/) ([HN](https://news.ycombinator.com/item?id=21688096))
 - [Speeding up drug discovery with advanced machine learning (2020)](https://medium.com/pytorch/speeding-up-drug-discovery-with-advanced-machine-learning-b17d59e0daa6)
+- [Relay Therapeutics](https://relaytx.com/) - Clinical-stage precision medicine company transforming the drug discovery process.

@@ -119,6 +119,7 @@
 - [Glow](https://github.com/chrislusf/glow) - Easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm.
 - [Stow](https://github.com/djherbis/stow) - Simple object persistence with boltdb.
 - [go-structured-query](https://github.com/bokwoon95/go-structured-query) - Code-generated, type safe query builder and struct mapper for Go.
+- [remember-go](https://github.com/rocketlaunchr/remember-go) - Cache Slow Database Queries.
 
 ## ML
 
@@ -538,6 +539,8 @@
 - [gox](https://github.com/8byt/gox) - Extension of Go's syntax that let's you write HTML-style tags directly in your source code.
 - [Pirsch](https://github.com/pirsch-analytics/pirsch) - Drop-in, server-side, no-cookie, and privacy-focused tracking solution for Go.
 - [Birdland](https://github.com/rlouf/birdland) - Battle-tested recommendation library written in Go.
+- [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration.
+- [google-search](https://github.com/rocketlaunchr/google-search) - Scrape google search results.
 
 ## Links
 

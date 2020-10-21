@@ -74,3 +74,6 @@
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks. ([Docs](https://jupyterhub.readthedocs.io/en/stable/))
 - [Treebeard](https://github.com/treebeardtech/treebeard) - Notebook-First Continuous Integration Framework.
 - [kernel-relay](https://github.com/nteract/kernel-relay) - GraphQL service for interfacing with one or more Jupyter kernels.
+- [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol.
+- [xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for C++ based on the C++ interpreter cling and the native implementation of the Jupyter protocol xeus.
+- [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for Python based on the native implementation of the Jupyter protocol xeus.

@@ -121,6 +121,8 @@
 - [Abseil](https://github.com/abseil/abseil-cpp) - Open-source collection of C++ code designed to augment the C++ standard library. ([How to contribute to Abseil with a visible performance gain](https://danlark.org/2020/01/12/how-to-contribute-to-abseil-with-a-visible-performance-gain/))
 - [semver](https://github.com/Neargye/semver) - Semantic Versioning for modern C++.
 - [Aleph](https://github.com/Pseudomanifold/Aleph) - Library for Exploring Persistent Homology.
+- [Terminal](https://github.com/jupyter-xeus/terminal) - Small header only C++ library for writing multiplatform terminal applications.
+- [Draco](https://github.com/lanl/Draco) - Object-oriented component library geared towards numerically intensive, radiation (particle) transport applications built for parallel computing hardware.
 
 ## Links
 

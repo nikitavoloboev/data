@@ -329,6 +329,8 @@
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Online spreadsheet like excel that is powerful, simple to configure, and completely open source. ([Docs](https://mengshukeji.github.io/LuckysheetDocs/guide/))
 - [noUiSlider](https://github.com/leongersen/noUiSlider) - Lightweight JavaScript range slider.
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for JavaScript. ([Web](https://davidshimjs.github.io/qrcodejs/))
+- [HyperScript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript, on client or server.
+- [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - Terse syntax for hyperscript.
 
 ## Links
 

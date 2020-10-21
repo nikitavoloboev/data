@@ -110,3 +110,4 @@
 - [cchound.com](https://cchound.com/) - Curated library of free music for content creators. ([HN](https://news.ycombinator.com/item?id=24745874))
 - [Kevin Parker (Tame Impala) Talks with Dan Snaith (Caribou) on the Talkhouse Podcast (2020)](https://open.spotify.com/episode/0i2XrBaF22zjQ13YMpg9Pl?si=icEC3xmIQCyV6Y3c82O7OQ) ([Web](https://www.talkhouse.com/kevin-parker-tame-impala-talks-with-dan-snaith-caribou-on-the-talkhouse-podcast/))
 - [Kevin Parker breaks down Tame Impala's 'The Slow Rush' album (2020)](https://www.youtube.com/watch?v=wkT6slu6cOc)
+- [Étude in C minor (2020)](https://zserge.com/posts/etude-in-c/)

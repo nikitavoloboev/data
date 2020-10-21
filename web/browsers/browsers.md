@@ -74,3 +74,4 @@
 - [Selenium](https://www.selenium.dev/) - Browser Automation. ([Code](https://github.com/SeleniumHQ/selenium))
 - [Selenium Python: Helium](https://github.com/mherrmann/selenium-python-helium) - Python library for web automation.
 - [Cloudflare Browser Isolation beta (2020)](https://blog.cloudflare.com/browser-beta/) ([HN](https://news.ycombinator.com/item?id=24789293))
+- [Iridium Browser](https://iridiumbrowser.de/) - Browser securing your privacy. ([Code](https://github.com/iridium-browser/iridium-browser))
