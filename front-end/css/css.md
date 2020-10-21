@@ -224,3 +224,4 @@
 - [CSS Buttons](https://cssbuttons.vercel.app/) - Pure HTML & CSS Buttons For Web Development. ([Code](https://github.com/r1/cssbuttons))
 - [The State of CSS](https://stateofcss.com/) ([Code](https://github.com/StateOfJS/StateOfCSS-homepage))
 - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
+- [Manipulating Colors With CSS Variables and HSL (2020)](https://codesalad.dev/blog/manipulating-colors-with-css-variables-and-hsl-16)

@@ -149,6 +149,7 @@
 ## Crypto
 
 - [ristretto255](https://github.com/gtank/ristretto255) - Implements ristretto255, a fast prime-order group.
+- [Secure IO](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
 
 ## Linux
 

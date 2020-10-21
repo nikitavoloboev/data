@@ -56,3 +56,4 @@
 - [How to spot top talent](https://twitter.com/gregisenberg/status/1300105523111624713)
 - [Thoughts on HR software (2020)](https://twitter.com/jaltma/status/1308067827429961728)
 - [The Problem of Overfitting in Tech Hiring (2020)](https://scorpil.com/post/the-problem-of-overfitting-in-tech-hiring/)
+- [Typo](https://www.usetypo.com/) - Hiring simplified.

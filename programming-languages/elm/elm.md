@@ -41,3 +41,4 @@
 - [Elm debug extension](https://github.com/kraklin/elm-debug-extension) - Browser extension, that is making your elm Debug.log output much easier to work with.
 - [Issue #40: Functional programming in Elm (2020)](https://elmbits.com/issue-40-functional-programming/)
 - [Elm Bits](https://elmbits.com/) - Free weekly newsletter about Elm.
+- [Elm Shared State example](https://github.com/ohanhi/elm-shared-state) - Example for organizing large Single-Page Applications (SPAs) in Elm.

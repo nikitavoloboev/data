@@ -173,6 +173,7 @@
 - [Functions Framework for Python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions.
 - [Cachier](https://github.com/shaypal5/cachier) - Persistent, stale-free, local and cross-machine caching for Python functions.
 - [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames.
+- [Typing Inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module.
 
 ## Links
 
