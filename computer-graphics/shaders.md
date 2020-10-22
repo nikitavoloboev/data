@@ -19,3 +19,4 @@
 - [ShaderConductor](https://github.com/microsoft/ShaderConductor) - Tool designed for cross-compiling HLSL to other shading languages.
 - [The RTX Shader Binding Table Three Ways (2019)](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
 - [ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) - Shaders For People Who Don't Know How To Shader, a tutorial series for beginners.
+- [The future of RLSL (2020)](https://maikklein.github.io/rlsl-update3/)

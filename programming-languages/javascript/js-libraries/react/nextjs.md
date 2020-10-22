@@ -119,3 +119,4 @@
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing.
 - [Next page tester](https://github.com/toomuchdesign/next-page-tester) - Enable DOM integration testing on Next.js pages.
 - [Debugging Next.JS (2020)](https://blog.codechem.com/debugging-nextjs)
+- [Next.js - The Data Story (2020)](https://dev.to/dabit3/next-js-the-data-story-2b0d)

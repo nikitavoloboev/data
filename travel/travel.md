@@ -34,3 +34,4 @@
 - [Ideas of where to move from SF (2020)](https://twitter.com/justinkan/status/1295204370519175170)
 - [Passport Index](https://www.passportindex.org/)
 - [Duffel](https://duffel.com/) - Powerful and intuitive tools for starting and growing a travel business. Search, book, and manage flights across more than 20 airlines.
+- [Gowalla](https://go.gowalla.com/) - Social Game in the Real World.
