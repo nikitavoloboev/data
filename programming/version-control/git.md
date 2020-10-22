@@ -177,3 +177,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Narrated Diffs](https://narrated-diffs.thomasbroadley.com/) - Tool to enable PR authors to tell a story with their changes. ([Code](https://github.com/tbroadley/narrated-diffs))
 - [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites.
 - [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/) - Guide to using Git. ([Code](https://github.com/blynn/gitmagic))
+- [Git Crash Course (2020)](https://neros.dev/blog/git-crash-course-part-1/)

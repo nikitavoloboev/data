@@ -115,6 +115,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Bennett Hardwick](https://bennetthardwick.com/wiki/)
 - [Neil's Noodlemaps](https://commonplace.doubleloop.net/)
+- [Jesse Squires TIL](https://github.com/jessesquires/TIL)
 - [chl's org file notes](https://github.com/even4void/org)
 - [Cosma Shalizi](http://bactra.org/) ([Notebooks](http://bactra.org/notebooks/))
 - [Roy Niang](https://royniang.com/home.html) ([Code](https://git.sr.ht/~royniang/koikoi))

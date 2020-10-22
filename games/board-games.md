@@ -21,3 +21,4 @@ I keep a [list of all board games I played](https://boardgamegeek.com/collection
 - [StartPlaying.Games](https://startplaying.games/) - Tabletop RPGs run by pro game masters. ([HN](https://news.ycombinator.com/item?id=24827162))
 - [I Solved British Square (2020)](https://nullprogram.com/blog/2020/10/19/)
 - [Go Game notes](https://tromp.github.io/go.html)
+- [You Should Play Secret Hitler (2020)](https://kristoff.it/blog/you-should-play-secret-hitler/)
