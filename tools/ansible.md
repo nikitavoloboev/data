@@ -9,3 +9,4 @@
 - [Ansible Puller](https://github.com/teslamotors/ansible_puller) - Ansible daemon for massively-scaleable Ansible.
 - [Ansible-defined Homelab (2020)](https://0xc45.com/blog/ansible-defined-homelab/)
 - [Ansible for DevOps Examples](https://github.com/geerlingguy/ansible-for-devops)
+- [Replacing Ansible with salt-ssh (2020)](https://blog.hartwork.org/posts/replacing-ansible-with-salt-ssh-for-speed-and-for-good/) ([HN](https://news.ycombinator.com/item?id=24856502))

@@ -34,3 +34,4 @@
 - [Vector Matrix Vector Queries for Solving Linear Algebra, Statistics, and Graph Problems (2020)](https://www.youtube.com/watch?v=NVOE1KFNZDo)
 - [Computability in linear algebra](https://www.sciencedirect.com/science/article/pii/S0304397504004086)
 - [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
+- [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) ([HN](https://news.ycombinator.com/item?id=24860688))
