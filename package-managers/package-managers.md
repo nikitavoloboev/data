@@ -19,3 +19,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [My Year With GNU Guix (2020)](https://elais.codes/my-year-with-gnu-guix.html)
 - [Linux package managers are slow (2019)](https://michael.stapelberg.ch/posts/2019-08-17-linux-package-managers-are-slow/) ([Lobsters](https://lobste.rs/s/tanpix/linux_package_managers_are_slow))
 - [pkgsrc](https://www.pkgsrc.org/) - Framework for building third-party software on NetBSD and other UNIX-like systems, currently containing over 22,500 packages.
+- [Conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem. ([Docs](https://docs.conda.io/en/latest/))

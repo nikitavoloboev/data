@@ -75,3 +75,4 @@
 - [Smooth Doc](https://github.com/gregberge/smooth-doc) - Ready to use documentation theme for Gatsby.
 - [Furo](https://github.com/pradyunsg/furo) - Clean customizable theme for Sphinx.
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Fully-functional markdown flavor and parser for Sphinx. ([Code](https://github.com/executablebooks/MyST-Parser))
+- [DocuAPI](https://github.com/bep/docuapi) - Beautiful multilingual API documentation theme for Hugo.

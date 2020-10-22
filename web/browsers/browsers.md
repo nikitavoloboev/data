@@ -30,7 +30,7 @@
 - [Browser Startup Comparison (2020)](https://www.netmeister.org/blog/browser-startup.html)
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - Next-gen browser automation test automation framework for Node.js.
 - [rust-minibrowser](https://github.com/joshmarinacci/rust-minibrowser) - Mini-browser written in rust.
-- [Nyxt](https://nyxt.atlas.engineer/) - Keyboard-oriented, extensible web-browser designed for power users. ([Code](https://github.com/atlas-engineer/nyxt)) ([Lobsters](https://lobste.rs/s/pkpefb/nyxt_browser_2_0_0_pre_release))
+- [Nyxt](https://nyxt.atlas.engineer/) - Keyboard-oriented, extensible web-browser designed for power users. ([Code](https://github.com/atlas-engineer/nyxt)) ([Lobsters](https://lobste.rs/s/pkpefb/nyxt_browser_2_0_0_pre_release)) ([Typed, customizable hooks](https://nyxt.atlas.engineer/article/hooks-implementation.org))
 - [Browsix](https://github.com/plasma-umass/browsix) - Unix-like operating system for the browser.
 - [Web Extensions - Shipit](https://github.com/LinusU/wext-shipit) - Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge.
 - [Pico](https://github.com/gripeless/pico) - Take browser screenshots in JavaScript.
@@ -75,3 +75,4 @@
 - [Selenium Python: Helium](https://github.com/mherrmann/selenium-python-helium) - Python library for web automation.
 - [Cloudflare Browser Isolation beta (2020)](https://blog.cloudflare.com/browser-beta/) ([HN](https://news.ycombinator.com/item?id=24789293))
 - [Iridium Browser](https://iridiumbrowser.de/) - Browser securing your privacy. ([Code](https://github.com/iridium-browser/iridium-browser))
+- [Chromium in Docker](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium.

@@ -211,3 +211,5 @@
 - [Call stacks aren't really call stacks (2020)](https://0xd34df00d.me/posts/2020/08/callstacks.html)
 - [Statically safe dynamic typing a la Python (2019)](https://0xd34df00d.me/posts/2019/06/statically-safe-dynaming-typing.html)
 - [Refined types + dependent types = ♥️](https://github.com/0xd34df00d/refinedt)
+- [Intro to type-level programming in Haskell (2020)](http://matija.me/2020/07/04/haskell-type-lvl-programming-intro/)
+- [Haskell Fan Site](https://crypto.stanford.edu/~blynn/haskell/)

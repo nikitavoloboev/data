@@ -124,3 +124,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Programming Languages course by Dan Grossman](https://www.coursera.org/learn/programming-languages) ([Answers](https://github.com/chuabingquan/programming-languages-coursera))
 - [Polygott](https://github.com/replit/polygott) - Base Docker image for the Repl.it evaluation server.
 - [Chris Lattner: The Future of Computing and Programming Languages (2020)](https://www.youtube.com/watch?v=nWTvXbQHwWs) ([Web](https://lexfridman.com/chris-lattner-2/)) ([HN](https://news.ycombinator.com/item?id=24823384))
+- [History of Programming Language Topics](https://porges.github.io/programming-history/) ([Code](https://github.com/Porges/programming-history))

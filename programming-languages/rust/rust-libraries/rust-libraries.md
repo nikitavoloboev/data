@@ -53,6 +53,7 @@
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
 - [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
+- [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications.
 
 ## DB
 
@@ -86,6 +87,7 @@
 - [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust.
 - [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust.
 - [glow](https://github.com/grovesNL/glow) - Set of bindings to run GL anywhere and avoid target-specific code.
+- [Rust GPU](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code. ([HN](https://news.ycombinator.com/item?id=24858172))
 
 ## Games
 
@@ -131,6 +133,7 @@
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
 - [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
 - [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
+- [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
 
 ## Linux
 
@@ -157,6 +160,8 @@
 - [partial_application](https://github.com/Emerentius/partial_application) - Partial function application macro for Rust.
 - [macro_railroad](https://github.com/lukaslueg/macro_railroad) - Library to generate syntax diagrams for Rust macros.
 - [genco](https://github.com/udoprog/genco) - Whitespace-aware quasiquoter for beautiful code generation.
+- [num-derive](https://github.com/rust-num/num-derive) - Procedural macros to derive numeric traits in Rust.
+- [Horrorshow](https://github.com/Stebalien/horrorshow-rs) - Macro-based html builder for rust.
 
 ## Other
 
@@ -479,6 +484,7 @@
 - [uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis.
 - [tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust.
 - [Rio](https://github.com/oxigraph/rio) - RDF parsers library.
+- [mles-rs](https://github.com/jq-rs/mles-rs) - Distributed publish-subscribe data service and Mles protocol reference implementation on Rust, Tokio and Serde.
 
 ## Cargo Plugins
 

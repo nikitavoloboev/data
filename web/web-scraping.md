@@ -41,3 +41,5 @@
 - [LinkedIn Scraper](https://github.com/linkedtales/scrapedin)
 - [ScrapeOwl](https://scrapeowl.com/) - Simple and affordable web scraping API.
 - [Pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler.
+- [Booking site web scraper](https://github.com/ZoranPandovski/BookingScraper) - Downloads all of the accommodations for the chosen country and saves them in a file.
+- [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.

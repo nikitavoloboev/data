@@ -53,3 +53,4 @@
 - [Implementing fast lightweight containers in Go with bst and btrfs (2020)](https://snai.pe/posts/lightweight-containers-part-1)
 - [gVisor](https://github.com/google/gvisor) - Application kernel for containers that provides efficient defense-in-depth anywhere. ([Web](https://gvisor.dev/))
 - [Bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool.
+- [Singularity](https://github.com/hpcng/singularity) - Open source container platform designed to be simple, fast, and secure. ([Web](https://sylabs.io/singularity/))

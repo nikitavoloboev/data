@@ -3,6 +3,7 @@
 ## Web
 
 - [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
+- [Ash](https://github.com/ash-project/ash) - Resource based framework for building Elixir applications.
 
 ## DB
 

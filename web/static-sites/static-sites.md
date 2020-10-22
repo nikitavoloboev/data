@@ -33,6 +33,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Presite](https://github.com/egoist/presite) - Static site generator based on Puppeteer.
 - [tumblelog](https://github.com/john-bokma/tumblelog) - Static blog generator in about 1 KLOC. ([HN](https://news.ycombinator.com/item?id=24811499))
 - [Blogerl](https://github.com/ferd/blogerl) - Minimalist blog engine written in Erlang. It generates only flat HTML files with an RSS entry and an index, nothing more.
+- [Abell](https://github.com/abelljs/abell) - JavaScript based static-site-generator to help you create JSON, Markdown, or static-data based websites with minimal setup. ([Web](https://abelljs.org/))
 
 ## Notes
 
@@ -64,3 +65,5 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Static Hosting Benchmark 2020](https://www.pierbover.com/posts/static-hosting-benchmark-2020/)
 - [Benchmarking static website hosting providers (2020)](https://www.savjee.be/2020/05/benchmarking-static-website-hosting-providers/) ([HN](https://news.ycombinator.com/item?id=24683403))
 - [Static SSL website entirely on AWS (2020)](https://mathieuhendey.com/2020/10/static-ssl-website-entirely-on-aws/)
+- [Static versus dynamic web sites (2020)](http://john.ankarstrom.se/html2/) ([Lobsters](https://lobste.rs/s/okyfet/static_versus_dynamic_web_sites))
+- [Creating a blazing fast static website without Gatsby or JavaScript (2020)](https://bennetthardwick.com/blog/creating-a-blazingly-fast-blog-without-js-or-gatsby/)

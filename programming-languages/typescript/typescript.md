@@ -112,6 +112,7 @@
 - [Data Constructors, Part 1: Understanding by Implementing (2020)](https://v5.chriskrycho.com/journal/data-constructors-part-1-understanding-by-implementing/)
 - [TypeScript: accessing members of a union type (2020)](https://www.breck-mckye.com/blog/2020/10/TypeScript-accessing-members-of-a-union-type/)
 - [PlayCode](https://playcode.io/typescript/) - JavaScript/TypeScript Playground.
+- [Utilities for TypeScript and Bazel](https://github.com/bazelbuild/rules_typescript)
 
 ## Images
 

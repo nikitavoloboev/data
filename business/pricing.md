@@ -29,3 +29,5 @@
 - [Pricing Low-Touch SaaS (2020)](https://stripe.com/en-in/atlas/guides/saas-pricing) - How to approach pricing and packaging a new SaaS app, by example. ([HN](https://news.ycombinator.com/item?id=24543433))
 - [SaaS Financial Model (2020)](https://baremetrics.com/blog/saas-financial-model)
 - [Negotiating SaaS Contracts](https://www.crayika.com/blog)
+- [Build a startup financial model from scratch (2016)](https://www.mathventurepartners.com/blog/2016/9/15/startup-financial-modeling-part-1-what-is-a-financial-model) ([HN](https://news.ycombinator.com/item?id=24853787))
+- [Never Compete on Price (2020)](https://medium.com/@tylerhakes/never-compete-on-price-c7709f29280)

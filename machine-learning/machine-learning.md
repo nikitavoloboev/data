@@ -329,3 +329,4 @@
 - [Interpretable Machine Learning -- A Brief History, State-of-the-Art and Challenges (2020)](https://arxiv.org/abs/2010.09337)
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials (2018)](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 - [What is a Feature Store? (2020)](https://www.tecton.ai/blog/what-is-a-feature-store/)
+- [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) - Curated list of automated machine learning papers, articles.

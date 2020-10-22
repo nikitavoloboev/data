@@ -39,10 +39,12 @@
 - [Mockc](https://github.com/KimMachineGun/mockc) - Compile-time mock generator for Go.
 - [Terratest](https://github.com/gruntwork-io/terratest) - Makes it easier to write automated tests for your infrastructure code.
 - [gomonkey](https://github.com/agiledragon/gomonkey) - Library to make monkey patching in unit tests easy.
+- [Gofight](https://github.com/appleboy/gofight) - Testing API Handler written in Go.
 
 ## Web
 
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
+- [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
@@ -545,6 +547,8 @@
 - [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - DataFrames for Go: For statistics, machine-learning, and data manipulation/exploration.
 - [google-search](https://github.com/rocketlaunchr/google-search) - Scrape google search results.
 - [workerpool](https://github.com/proullon/workerpool) - Auto scaling generic worker pool.
+- [Wabbit](https://github.com/NeowayLabs/wabbit) - Go AMQP mocking library.
+- [goioc/di](https://github.com/goioc/di) - Simple and yet powerful Dependency Injection for Go.
 
 ## Links
 

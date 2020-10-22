@@ -85,3 +85,6 @@
 - [CRISP & CHIP implementation in C++](https://github.com/shapaz/CRISP)
 - [Arithmetic Statistics for Elliptic Curves](https://github.com/Multramate/ArithmeticStatistics)
 - [Quantum Hardening Cryptographic Protocols](https://cupdev.net/blog/014_quantumhardening.html)
+- [Pairing-Based Cryptography Notes](https://crypto.stanford.edu/pbc/)
+- [Pairing-Based Cryptography - Ben Lynn’s PhD Dissertation](https://crypto.stanford.edu/pbc/thesis.html)
+- [MIRACL Core](https://github.com/miracl/core) - Multi-lingual and architecturally agnostic Cryptographic library that supports elliptic curve cryptography, pairing-friendly curve cryptography, RSA, AES symmetric encryption and hash functions.

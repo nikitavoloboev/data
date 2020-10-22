@@ -363,3 +363,5 @@ Go promotes composition over inheritance.
 - [Building a Mapping Language in Go with Parser Combinators (2020)](https://www.youtube.com/watch?v=JiViND-bpmw)
 - [go-bindata](https://github.com/kevinburke/go-bindata) - Small utility which generates Go code from any file. Useful for embedding binary data in a Go program.
 - [Gopium](https://github.com/1pkg/gopium) - Smart Go Structures Optimizer and Manager.
+- [Nex](https://github.com/blynn/nex) - Lexer for Go. ([Web](http://www-cs-students.stanford.edu/~blynn//nex/))
+- [Go Training](https://github.com/go-training/training) - Learning basic Go in one day.

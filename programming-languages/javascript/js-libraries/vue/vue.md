@@ -29,3 +29,4 @@
 - [Ream](https://github.com/ream/ream) - Full-stack framework for building web apps, powered by Vue 3.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
 - [Using State Machines in Vue.js with XState (2020)](https://frontstuff.io/using-state-machines-in-vuejs-with-xstate)
+- [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.

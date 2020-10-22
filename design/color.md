@@ -47,3 +47,4 @@
 - [iroiro](https://github.com/antfu/iroiro) - Beautiful Colors Lookup in CLI.
 - [consistent-shading](https://github.com/ugudango/consistent-shading) - Shade consitency for various hues, based on luminance.
 - [Sorted CSS Colors](https://enes.in/sorted-colors/) - Sort the named CSS colors in a way that it shows related colors together. ([Code](https://github.com/scriptype/sorted-colors))
+- [Cascading Colors](https://cascading-colors.netlify.app/) - Generate dynamic and themable color palettes using CSS custom properties, and allow (persistent) user-adjustments with a bit of light-weight JS. ([Code](https://github.com/oddbird/cascading-color-system))

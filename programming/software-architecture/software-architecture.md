@@ -100,5 +100,5 @@
 - [Modern-Day Architecture Design Patterns for Software Professionals (2020)](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977) ([HN](https://news.ycombinator.com/item?id=24762637))
 - [A Modern Reddit Frontend (2016)](http://thejacklawson.com/2016/09/reddit-frontend/index.html)
 - [What's your tech stack? (2020)](https://twitter.com/IndieHackers/status/1318199727146622977)
-- [The Importance of End-to-End Thinking in System Design (2020)](https://www.sigarch.org/the-importance-of-end-to-end-thinking-in-system-design/)
+- [The Importance of End-to-End Thinking in System Design (2020)](https://www.sigarch.org/the-importance-of-end-to-end-thinking-in-system-design/) ([HN](https://news.ycombinator.com/item?id=24849216))
 - [System design for Twitter (2018)](https://medium.com/@narengowda/system-design-for-twitter-e737284afc95)

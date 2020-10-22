@@ -24,7 +24,6 @@
 - [DyNet](https://github.com/clab/dynet) - Dynamic Neural Network Toolkit.
 - [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go.
 - [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366) - [Video explanation](https://www.youtube.com/watch?v=AD3K8j12EIE) | [Notes](https://github.com/llSourcell/Neural_Differential_Equations/blob/master/Neural_Ordinary_Differential_Equations.ipynb)
-- [MindsDB](https://github.com/mindsdb/mindsdb) - Framework to streamline use of neural networks.
 - [Neural Network framework in 25 LOC](https://gist.github.com/macournoyer/620a8ba4a2ecd6d6feaf)
 - [Learning and Processing over Networks (2019)](https://github.com/rodrigo-pena/amld2019-graph-workshop) - Workshop presented by Michaël Defferrard and Rodrigo Pena at the Applied Machine Learning Days in January 2019.
 - [The Next Generation of Neural Networks by Geoffrey Hinton (2007)](https://www.youtube.com/watch?v=AyzOUbkUf3M)
@@ -152,3 +151,4 @@
 - [Build Your Own Artificial Neural Network. It’s Easy! (2020)](http://nautil.us//blog/build-your-own-artificial-neural-network-its-easy)
 - [Neural Circuit Policies Enabling Auditable Autonomy](https://github.com/mlech26l/keras-ncp)
 - [FermiNet: Fermionic Neural Networks](https://github.com/deepmind/ferminet) ([Quantum Physics and Chemistry from First Principles (2020)](https://deepmind.com/blog/article/FermiNet)) ([Tweet](https://twitter.com/deepmind/status/1318257586983096320?s=21))
+- [What is the Role of a Neuron?](https://github.com/davidbau/dissect)

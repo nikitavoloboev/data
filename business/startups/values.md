@@ -11,6 +11,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Glitch Company values](https://handbook.glitch.me/#values)
 - [Figma's engineering values](https://www.figma.com/blog/figmas-engineering-values/)
+- [Bright Paper](https://beamapp.co/bright_paper.html)
 
 ## Team values
 

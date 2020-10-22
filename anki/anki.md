@@ -40,3 +40,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Awesome Anki](https://github.com/tianshanghong/awesome-anki)
 - [genanki](https://github.com/kerrickstaley/genanki) - Library for Generating Anki Decks.
 - [Spaced repetition, Anki and Execute Program (2020)](https://mike.place/2020/executeprogram/)
+- [Why I Switched to SuperMemo After Using Anki 5 Years, 50k Cards and 420k Reviews (2018)](https://www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/)

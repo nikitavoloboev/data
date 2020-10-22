@@ -35,6 +35,7 @@
 - [Wafxr](https://andyhall.github.io/wafxr/) - Sound effect generator. ([Code](https://github.com/andyhall/wafxr))
 - [wasgen](https://github.com/andyhall/wasgen) - Web Audio sound generator.
 - [Audiobench](https://github.com/joshua-maros/audiobench) - Open source modular synthesizer.
+- [Edyson](https://github.com/perfall/Edyson) - Tool for exploring audio quickly.
 
 ## Inspiration
 
@@ -112,3 +113,5 @@
 - [Kevin Parker breaks down Tame Impala's 'The Slow Rush' album (2020)](https://www.youtube.com/watch?v=wkT6slu6cOc)
 - [Étude in C minor (2020)](https://zserge.com/posts/etude-in-c/)
 - [Steinberg](https://www.steinberg.net/en/home.html) - Audio software and hardware solutions.
+- [The Book of Knowledge of Impractical Musical Devices (2020)](https://blog.bela.io/2020/03/06/book-impractical-musical-devices-yann-seznec/)
+- [Augmented Instruments Laboratory](http://instrumentslab.org/)

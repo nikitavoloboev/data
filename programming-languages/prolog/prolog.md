@@ -20,3 +20,4 @@
 - [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web) ([HN](https://news.ycombinator.com/item?id=23597688))
 - [Real World Programming in SWI-Prolog](http://www.pathwayslms.com/swipltuts/) ([HN](https://news.ycombinator.com/item?id=23818901))
 - [pylo](https://github.com/sebdumancic/pylo2) - Python front-end for several Prolog engines.
+- [Implementation of Prolog in TypeScript](https://github.com/kkty/prolog)

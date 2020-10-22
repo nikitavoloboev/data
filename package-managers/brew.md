@@ -19,3 +19,4 @@
 - [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle) - Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - Core formulae for the Homebrew package manager on Linux.
 - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
+- [Update Homebrew Formula](https://github.com/NSHipster/update-homebrew-formula-action) - GitHub Action that synchronizes a Homebrew formula with a GitHub release.

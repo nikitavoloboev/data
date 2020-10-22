@@ -149,3 +149,4 @@
 - [GitHub Actions SDK (Go)](https://github.com/sethvargo/go-githubactions)
 - [Push to GitHub Container Registry using GitHub Actions (2020)](https://codesalad.dev/blog/push-to-github-container-registry-using-github-actions-7)
 - [Create a JavaScript GitHub Action using TypeScript](https://github.com/actions/typescript-action)
+- [Docker GitHub Action Example](https://github.com/metcalfc/docker-action-examples)

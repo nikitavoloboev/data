@@ -37,3 +37,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Conventions for Command Line Options (2020)](https://nullprogram.com/blog/2020/08/01/) ([HN](https://news.ycombinator.com/item?id=24020952))
 - [Rewritten in Rust: Modern Alternatives of Command-Line Tools (2020)](https://zaiste.net/posts/shell-commands-rust/) ([Lobsters](https://lobste.rs/s/2mxwdm/rewritten_rust_modern_alternatives))
 - [Search and replace tricks with ripgrep (2020)](https://learnbyexample.github.io/substitution-with-ripgrep/) ([Lobsters](https://lobste.rs/s/tn4olb/search_replace_tricks_with_ripgrep))
+- [What are your favorite non-standard CLI utils/applications (2020)](https://lobste.rs/s/eprvjp/what_are_your_favorite_non_standard_cli)

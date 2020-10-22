@@ -139,7 +139,7 @@
 - [NixCon 2020](https://2020.nixcon.org/) ([Stream](https://www.youtube.com/watch?v=7sQa04olUA0)) ([Code](https://github.com/nixcon/2020.nixcon.org)) ([HN](https://news.ycombinator.com/item?id=24799659))
 - [Nix UX improvements](https://github.com/tweag/nix-ux)
 - [NixCon 2020 talk about Nix flakes](https://github.com/serokell/nixcon2020-talk)
-- [Nickel](https://github.com/tweag/nickel) - Lightweight configuration language. Its purpose is to automate the generation of static configuration files.
+- [Nickel](https://github.com/tweag/nickel) - Lightweight configuration language. Its purpose is to automate the generation of static configuration files. ([Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/))
 - [Nix-based process management framework](https://github.com/svanderburg/nix-processmgmt)
 - [Local Nix Cache](https://github.com/andir/local-nix-cache) - Poor and hacky attempt at re-serving local nix packages that came from trusted sources.
 - [Nix parallelism & Import From Derivation (2020)](https://fzakaria.com/2020/10/20/nix-parallelism-import-from-derivation.html) ([Reddit](https://www.reddit.com/r/NixOS/comments/jf79zy/nix_parallelism_import_from_derivation/))

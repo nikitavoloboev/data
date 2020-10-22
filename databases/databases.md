@@ -22,7 +22,7 @@
 - [Cassandra](https://github.com/apache/cassandra) - Highly-scalable partitioned row store. Rows are organized into tables with a required primary key.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
-- [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085))
+- [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085)) ([Playing With DuckDB](https://www.turtle-techies.com/playing-with-duck-db/))
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
 - [Genji](https://github.com/asdine/genji) - Multi engine embedded database.
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
@@ -232,3 +232,4 @@
 - [We deleted the production database by accident (2020)](https://keepthescore.co/blog/posts/deleting_the_production_database/) ([HN](https://news.ycombinator.com/item?id=24813795)) ([Lobsters](https://lobste.rs/s/awtxlo/we_deleted_production_database_by))
 - [Cuckoo Index](https://github.com/google/cuckoo-index) - Lightweight Secondary Index Structure.
 - [DBML](https://www.dbml.org/home/) - Database Markup Language. ([Code](https://github.com/holistics/dbml))
+- [MindsDB](https://www.mindsdb.com/) - Open-Source Predictive AI layer for existing databases. ([Docs](https://docs.mindsdb.com/)) ([Docs code](https://github.com/mindsdb/mindsdb-docs)) ([Code](https://github.com/mindsdb/mindsdb))

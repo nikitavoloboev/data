@@ -28,3 +28,4 @@ I do want to start more focused mindfulness and trying to practice _channeling_ 
 - [Meditation - The Art of Doing Nothing](https://threader.app/thread/1261481222359801856)
 - [Breathe](https://github.com/filipeisho/breathe/) - Distraction-free peripheral breath trainer, it helps you breathe correctly so you can stay calm and focus on what matters. ([HN](https://news.ycombinator.com/item?id=24008678))
 - [Wim Hof's teachings about breath work and the health benefits of cold plunges (2020)](https://www.outsideonline.com/2417379/wim-hof-method) ([HN](https://news.ycombinator.com/item?id=24772352))
+- [The physiological effects of slow breathing in the healthy human (2017)](https://breathe.ersjournals.com/content/13/4/298) ([HN](https://news.ycombinator.com/item?id=24857356))

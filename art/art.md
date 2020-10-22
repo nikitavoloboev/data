@@ -138,6 +138,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Wu Yi](https://www.instagram.com/wuyi555/)
 - [Robby Johnson](https://www.artstation.com/rjohnson)
 - [Jasmin Habezai-Fekri](https://www.artstation.com/curlscurly)
+- [Sean Sevestre](https://www.artstation.com/sean)
 - [Simon Stalenhag](https://www.simonstalenhag.se/) ([Other art](https://www.simonstalenhag.se/other.html))
 - [Fran Rodríguez](https://www.instagram.com/lacabezaenlasnubes/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.

@@ -44,3 +44,5 @@
 - [AdaBelief Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer) - NeurIPS 2020 Spotlight, trains fast as Adam, generalizes well as SGD, and is stable to train GANs.
 - [From GAN to WGAN (2020)](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - [In-Domain GAN Inversion for Real Image Editing](https://github.com/genforce/idinvert_pytorch)
+- [Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting)
+- [GANDissect](https://github.com/CSAILVision/gandissect) - PyTorch-based tools for visualizing and understanding the neurons of a GAN.

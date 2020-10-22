@@ -117,3 +117,6 @@
 - [InsightFace](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet. ([Web](http://insightface.ai/))
 - [PyTorch implementation of SwAV (Swapping Assignments between Views)](https://github.com/facebookresearch/swav)
 - [Asymmetric Loss For Multi-Label Classification in PyTorch](https://github.com/Alibaba-MIIL/ASL)
+- [Antialiased CNNs](https://github.com/adobe/antialiased-cnns) - Making Convolutional Networks Shift-Invariant Again.
+- [Perceptual Similarity Metric and Dataset](https://github.com/richzhang/PerceptualSimilarity) - Unreasonable Effectiveness of Deep Features as a Perceptual Metric.
+- [Deep Learning Anime Papers](https://github.com/deeppomf/DeepLearningAnimePapers)

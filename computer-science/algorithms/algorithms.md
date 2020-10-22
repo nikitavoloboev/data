@@ -56,6 +56,7 @@
 - [The case for a learned sorting algorithm (2020)](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/) ([HN](https://news.ycombinator.com/item?id=24823611))
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Introduces elementary algorithms and data structures. Includes side-by-side comparisons of purely functional realization and their imperative counterpart.
 - [Combinatorics Algorithms for Coding Interviews (2018)](https://sahandsaba.com/combinatorial-generation-for-coding-interviews-in-python.html)
+- [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms) ([Web](https://zoranpandovski.github.io/al-go-rithms/))
 
 ## Images
 

@@ -18,3 +18,4 @@
 - [Advanced Fuzzing: Compare shattering (2020)](https://www.youtube.com/watch?v=yezHZuDCBho)
 - [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)
 - [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-As-A-Service platform.
+- [Let’s build a high-performance fuzzer with GPUs (2020)](https://blog.trailofbits.com/2020/10/22/lets-build-a-high-performance-fuzzer-with-gpus/)

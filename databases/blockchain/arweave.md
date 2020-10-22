@@ -13,3 +13,4 @@
 - [PermaSee](https://permasee.com/) - Arweave's permaweb search engine.
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - Simple, scalable smart contracts on the Arweave protocol.
 - [cacheweave](https://github.com/johnletey/cacheweave) - Arweave caching made simple.
+- [ArDrive](https://ardrive.io/) - Permanent, decentralized, uncensorable public file sharing app built on the Arweave network. ([Code](https://github.com/ardriveapp/ardrive-web)) ([App](https://app.ardrive.io/#/))

@@ -1,5 +1,9 @@
 # Logos
 
+## Nice examples
+
+- [Web Assembly Logo](https://github.com/carlosbaraza/web-assembly-logo)
+
 ## Links
 
 - [Names, Brands & Products by Pieratt](http://pieratt.com/)

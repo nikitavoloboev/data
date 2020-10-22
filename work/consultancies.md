@@ -54,6 +54,7 @@
 - [Wiredcraft](https://wiredcraft.com/) - Creates & grows digital products for the world’s best brands.
 - [Z1](https://z1.digital/) - Digital Product Studio.
 - [No Service 24/7](https://www.noservice.today/) - Brand Agency.
+- [Unlikely Objects](https://unlikelyobjects.com/) - Storytelling studio.
 
 ## DB
 
@@ -127,6 +128,7 @@
 - [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.
 - [gskinner](https://gskinner.com/)
 - [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise.
+- [Moritz Systems](https://www.moritz.systems/) - Code Security, Embedded Solutions, IOT and Edge Computing.
 
 ## Links
 

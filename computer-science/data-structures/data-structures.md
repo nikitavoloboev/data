@@ -51,3 +51,4 @@
 - [Scal](https://github.com/cksystemsgroup/scal) - High-performance multicore-scalable data structures and benchmarks. ([Web](http://scal.cs.uni-salzburg.at/))
 - [Hyperbolic embedding implementations](https://github.com/HazyResearch/hyperbolics)
 - [Morphisms of Computational Constructs](https://github.com/prathyvsh/morphisms-of-computational-structures) - Visual catalogue + story of morphisms displayed across computational structures.
+- [What is key-value store? (build-your-own-x) (2020)](http://djkooks.github.io/build-your-own-kv-store)

@@ -42,3 +42,4 @@ Is logical theory of computable functions.
 - [Fun with Lambda Calculus](https://stopa.io/post/263)
 - [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
 - [Algorithmic Information Theory, using Binary Lambda Calculus](https://github.com/tromp/AIT)
+- [Lambda calculus Notes](https://crypto.stanford.edu/~blynn/lambda/)

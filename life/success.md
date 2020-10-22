@@ -62,3 +62,4 @@ Success comes from not giving up and doing what you love.
 - [Some guiding principles for a good life (2020)](https://twitter.com/Kpaxs/status/1300016373482106882)
 - [Build Personal Moats (2020)](https://eriktorenberg.substack.com/p/build-personal-moats) ([HN](https://news.ycombinator.com/item?id=24538443))
 - [Half-assing it with everything you've got (2015)](http://mindingourway.com/half-assing-it-with-everything-youve-got/)
+- [Getting Big Things Done (2020)](http://brooker.co.za/blog/2020/10/19/big-changes.html)

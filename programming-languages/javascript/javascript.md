@@ -152,7 +152,7 @@
 - [React Workout: Reducers with Cassidy Williams (2020)](https://www.youtube.com/watch?v=sf4spiPynBE)
 - [JavaScript: The First 20 Years (2020)](http://www.wirfs-brock.com/allen/posts/866)
 - [Awesome Storybook](https://github.com/lauthieb/awesome-storybook)
-- [QuickJS](https://github.com/ldarren/QuickJS) - Small and embeddable Javascript engine. ([Another version](https://github.com/bellard/quickjs))
+- [QuickJS](https://github.com/bellard/quickjs) - Small and embeddable Javascript engine.
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
 - [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker. ([Web](https://hegel.js.org/)) ([Intro to Hegel](https://blog.logrocket.com/introduction-to-hegel/))
 - [NectarJS](https://github.com/NectarJS/nectarjs) - JS God mode. No VM. No Bytecode. No Garbage Collector. Full Compiled and Native binaries.
@@ -186,7 +186,7 @@
 - [Google Closure Compiler](https://github.com/google/closure-compiler) - Tool for making JavaScript download and run faster.
 - [JSConf](https://jsconf.com/) - Conferences for the JavaScript Community.
 - [The history of Promises](https://samsaccone.com/posts/history-of-promises.html)
-- [Skypack](https://www.skypack.dev/) - New kind of JavaScript delivery network. ([HN](https://news.ycombinator.com/item?id=23825798))
+- [Skypack](https://www.skypack.dev/) - New kind of JavaScript delivery network. ([HN](https://news.ycombinator.com/item?id=23825798)) ([Introducing Skypack Discover](https://www.skypack.dev/blog/2020/10/introducing-skypack-discover/)) ([Docs](https://docs.skypack.dev/))
 - [Openbase](https://openbase.io/) - Help developers choose the right JS package for any task - through user reviews and insights about packages' popularity, reliability, activity and more. ([HN](https://news.ycombinator.com/item?id=23833441))
 - [Basho](https://github.com/bashojs/basho) - Shell Automation with Plain JavaScript. ([Docs](https://bashojs.org/))
 - [What is the JS Event Loop and Call Stack?](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)
@@ -219,3 +219,5 @@
 - [SurviveJS](https://survivejs.com/) - Learn JavaScript. From apprentice to master.
 - [Composing Closures and Callbacks in JavaScript (2020)](https://egghead.io/playlists/composing-closures-and-callbacks-in-javascript-1223?utm_source=twitter&utm_campaign=javascript&utm_content=announce)
 - [CJS Module Lexer](https://github.com/guybedford/cjs-module-lexer) - Fast lexer to extract named exports via analysis from CommonJS modules.
+- [JavaScript minification (2019)](http://neugierig.org/software/blog/2019/04/js-minifiers.html)
+- [export-size](https://github.com/antfu/export-size) - Analysis bundle cost for each export of an ESM package.

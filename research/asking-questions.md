@@ -32,3 +32,4 @@ In short, it can be summed down to this:
 - [How to ask good questions (2016)](https://jvns.ca/blog/good-questions/)
 - [How to answer questions in a helpful way (2017)](https://jvns.ca/blog/answer-questions-well/)
 - [How to ask senior devs for help? (2020)](https://dev.to/sloan/how-to-ask-senior-devs-for-help-17ji)
+- [Oblique Questions (2020)](http://neugierig.org/software/blog/2020/04/oblique-questions.html)

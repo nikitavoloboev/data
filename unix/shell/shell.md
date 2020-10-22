@@ -81,3 +81,5 @@ All active variables can be seen by running `env`.
 - [Upterm](https://github.com/owenthereal/upterm) - Open-source solution for sharing terminal sessions instantly over the public internet via secure tunnels.
 - [libtmt](https://github.com/deadpixi/libtmt) - Small, simple, useful terminal emulation library.
 - [Syntactic Concepts in the Oil Language](http://www.oilshell.org/preview/doc/syntactic-concepts.html) ([Lobsters](https://lobste.rs/s/txj4um/syntactic_concepts_oil_language))
+- [smash](https://github.com/evmar/smash) - New kind of terminal. ([Docs](http://evmar.github.io/smash/))
+- [webify](https://github.com/beefsack/webify) - Turn shell commands into web services.

@@ -69,3 +69,5 @@
 - [Smaller Docker Images Using Multi-Stage Builds (2020)](https://codesalad.dev/blog/smaller-docker-images-using-multi-stage-builds-8)
 - [Reproducible docker containers (2019)](https://corpix.dev/2019/02/reproducible-docker-containers.html)
 - [Docker Repull](https://github.com/jdevelop/repull) - Tool to restart a Docker container with a newer version of an image used by the container.
+- [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker.
+- [selfdock](https://github.com/anordal/selfdock) - Sandbox for process and filesystem isolation, like Docker, but without its hard problems.

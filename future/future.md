@@ -46,3 +46,4 @@
 - [Fascinating Internet niche communities](https://twitter.com/_patriciamou/status/1296654041569570819)
 - [What happened to the future? - Founders Fund](https://foundersfund.com/the-future/)
 - [Which positive change in the world do you hope to see in your lifetime? (2020)](https://twitter.com/MaxCRoser/status/1310245891731750913)
+- [Audio’s opportunity and who will capture it (2020)](https://www.matthewball.vc/all/audiotech) ([HN](https://news.ycombinator.com/item?id=24815888))

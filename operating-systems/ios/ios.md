@@ -55,6 +55,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Air Quality Reader](https://github.com/finiteloop/air-quality)
 - [Unsplash Photo Picker for iOS](https://github.com/unsplash/unsplash-photopicker-ios)
 - [VJ](https://github.com/hexagons/VJ) - Minimal iPad app with interactive visuals.
+- [iOS 11 App Store clone](https://github.com/phillfarrugia/appstore-clone)
 
 ## Other
 

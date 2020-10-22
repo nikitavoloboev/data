@@ -269,3 +269,4 @@
 - [Infer](https://github.com/facebook/infer) - Static analyzer for Java, C, C++, and Objective-C. ([Web](https://fbinfer.com/)) ([Facebook's Code Checker](https://www.youtube.com/watch?v=tKR2UZdRpV0))
 - [What you can do when code is really hard to review](https://understandlegacycode.com/blog/what-you-can-do-when-code-is-hard-to-review/)
 - [Discipline Doesn’t Scale (2020)](https://www.sicpers.info/2020/10/discipline-doesnt-scale/) ([HN](https://news.ycombinator.com/item?id=24834965))
+- [Interfaces generally belong with users (2019)](http://neugierig.org/software/blog/2019/11/interface-pattern.html)

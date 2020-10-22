@@ -89,3 +89,4 @@
 - [malloc as a service (2020)](https://wingolog.org/archives/2020/10/13/malloc-as-a-service)
 - [The Lemon Parser Generator](https://sqlite.org/src/doc/trunk/doc/lemon.html) - LALR parser generator for C.
 - [How Does a C Debugger Work? (2014)](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) ([HN](https://news.ycombinator.com/item?id=24814854))
+- [SheLLVM](https://github.com/SheLLVM/SheLLVM) - Collection of LLVM transform and analysis passes to write shellcode in regular C.

@@ -22,3 +22,7 @@
 - [Array Community](https://array.chat/) - Friendly, premium Discord community of freelancers, who look out for each other.
 - [How I generated incomes as a web developer without working as a freelancer (2020)](https://medium.com/the-developers-journey/my-3-revenue-streams-as-a-developer-without-freelance-work-c5135dfa515d) ([HN](https://news.ycombinator.com/item?id=24808812))
 - [Ask HN: How to Become a Consultant? (2020)](https://news.ycombinator.com/item?id=24810399)
+- [Independent Work](https://independent.work/) - Independent Community for Freelancers.
+- [Work Notes](https://worknotes.co.uk/) - Articles, resources and community for freelancers.
+- [Freelance Guide](https://worknotes.co.uk/freelance-guide) - Helping freelancers improve their businesses.
+- [Freelance Pricing Guide](https://worknotes.co.uk/freelance-pricing-guide)

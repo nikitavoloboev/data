@@ -70,3 +70,4 @@ Might give it a go sometime.
 - [Making medieval manuscript transcription less painful with GNU Emacs (2020)](https://josephrjohnson.georgetown.domains/posts/emacs-transcriptions/) ([Lobsters](https://lobste.rs/s/defzbh/making_medieval_manuscript))
 - [Firn](https://github.com/theiceshelf/firn) - Static Site Generator for Org Mode.
 - [Why I Chose Emacs as My New Text Editor (2020)](https://takeonrules.com/2020/10/18/why-i-chose-emacs-as-my-new-text-editor/) ([Lobsters](https://lobste.rs/s/4cgvyb/why_i_chose_emacs_as_my_new_text_editor))
+- [Why Emacs itself is my “favourite Emacs package” (2020)](https://protesilaos.com/codelog/2020-10-21-emacs-favourite-package/)

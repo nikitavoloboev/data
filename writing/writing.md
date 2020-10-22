@@ -187,3 +187,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Writing for Programmers by Paulus Esterhazy (2020)](https://www.youtube.com/watch?v=T7-2DW-KDV4) ([Slides](https://app.pitch.com/app/public/presentation/ac050780-ea9d-4a74-8b35-99366031b1fa))
 - [On Deck Writer Fellowship](https://www.beondeck.com/writers) - Where the best writers go to grow their audience and improve their craft.
 - [Asciidoctor](https://asciidoctor.org/) - Fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats. ([Code](https://github.com/asciidoctor/asciidoctor)) ([HN](https://news.ycombinator.com/item?id=24849348))
+- [Telescopic Text](https://www.telescopictext.org/) - Experimental tool for creating expanding texts.

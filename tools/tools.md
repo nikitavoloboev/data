@@ -235,6 +235,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar))
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
+- [Appsmith](https://www.appsmith.com/) - Open source admin panel, CRUD, and workflow builder. ([Code](https://github.com/appsmithorg/appsmith))
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
@@ -268,7 +269,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Findka](https://findka.com/) - Recommends content you might like based on data from other users with similar preferences. ([HN](https://news.ycombinator.com/item?id=23541840))
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
-- [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 - [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.
 - [Serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [Crisp](https://crisp.chat/en/) - Give your customer messaging experience a human touch.
@@ -393,3 +393,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Mystery Knowledge and Useful Tools (2020)](https://nikhilism.com/post/2020/mystery-knowledge-useful-tools/)
 - [Life Stack of Aaron Parecki](https://aaronparecki.com/life-stack/) - Tools, apps, services and other things I use to manage my work and life.
 - [PDF Wrench](https://pdfwrench.com/) - Combine multiple PDF pages and images into one PDF document. ([HN](https://news.ycombinator.com/item?id=24830927))
+- [Tools for Conviviality (1973)](http://www.davidtinapple.com/illich/1973_tools_for_convivality.html)

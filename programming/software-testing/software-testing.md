@@ -60,3 +60,5 @@
 - [High-level Language Features and Testing](http://redsymbol.net/articles/high-level-lang-features-and-testing/)
 - [I/O Benchmark Suite](https://github.com/Algodev-github/S)
 - [Prefer Fakes Over Mocks (2020)](https://tyrrrz.me/blog/fakes-over-mocks) ([Lobsters](https://lobste.rs/s/7dwpye/prefer_fakes_over_mocks)) ([HN](https://news.ycombinator.com/item?id=24770954))
+- [Awesome Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools)
+- [Waldo](https://www.waldo.io/) - Create reliable automated mobile tests with no-code testing platform.

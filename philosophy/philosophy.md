@@ -29,3 +29,4 @@ In any way, it is an interesting subject I don't know much about.
 - ['Story Of Your Life' Is Not A Time-Travel Story](https://www.gwern.net/Story-Of-Your-Life)
 - [Book Review: A Philosophy of Software Design (2020)](https://johz.bearblog.dev/book-review-philosophy-software-design/) ([Lobsters](https://lobste.rs/s/cw5ulb/book_review_philosophy_software_design))
 - [Freedom is not simple](https://www.arp242.net/freedom.html) ([HN](https://news.ycombinator.com/item?id=24130963))
+- [Best Books on Philosophical Wonder (2020)](https://fivebooks.com/best-books/philosophical-wonder-eric-schwitzgebel/)

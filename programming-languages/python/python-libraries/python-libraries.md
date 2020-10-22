@@ -41,6 +41,7 @@
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 - [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.
+- [ormar](https://github.com/collerek/ormar) - Async mini ORM for Python, with support for Postgres, MySQL, and SQLite.
 
 ## GUI
 

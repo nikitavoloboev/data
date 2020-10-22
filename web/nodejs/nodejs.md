@@ -118,3 +118,6 @@
 - [NodeConf Remote](https://www.nodeconfremote.com/)
 - [node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 - [totalist](https://github.com/lukeed/totalist) - Tiny utility to recursively list all (total) files in a directory.
+- [Hyperbee](https://github.com/mafintosh/hyperbee) - Append-only Btree running on a Hypercore.
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp) - Tiny web framework as a replacement of Express.
+- [Awesome Node Native ESM modules](https://github.com/talentlessguy/awesome-node-esm)

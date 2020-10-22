@@ -12,3 +12,4 @@
 - [ARTetris](https://github.com/exyte/ARTetris) - Augmented Reality Tetris made with ARKit and SceneKit.
 - [ArKit smoothedSceneDepth API](https://twitter.com/nobbis/status/1295816678169890816)
 - [Advanced Scene Understanding in AR (2020)](https://developer.apple.com/videos/play/tech-talks/609/)
+- [Facemoji Kit](https://github.com/facemoji/facemoji-kit) - Face tracker with blend shapes coefficients, 3D head pose and dense mesh in real-time on iOS, Android, Mac, PC and Linux.

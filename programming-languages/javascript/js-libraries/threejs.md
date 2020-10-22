@@ -15,6 +15,7 @@
 - [Case study: Moving a Three.js-based WebXR app off-main-thread (2020)](https://surma.dev/things/omt-for-three-xr/)
 - [Intro To React 3D](https://www.leveluptutorials.com/tutorials/react-3d)
 - [r3f floating diamonds](https://codesandbox.io/embed/r3f-floating-diamonds-prb9t)
-- [react-three-flex](https://github.com/react-spring/react-three-flex) - Flexbox for react-three-fiber.
+- [react-three-flex](https://github.com/pmndrs/react-three-flex) - Flexbox for react-three-fiber.
 - [react-three-fiber Game Demo](https://github.com/coldi/r3f-game-demo) - Example implementation of a top-down 2d game made with React and react-three-fiber.
 - [ocean](https://github.com/jbouny/ocean) - Realistic water shader for Three.js.
+- [react-postprocessing](https://github.com/pmndrs/react-postprocessing) - Postprocessing for react-three-fiber.

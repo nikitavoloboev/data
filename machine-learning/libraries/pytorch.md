@@ -132,7 +132,7 @@
 - [Hivemind](https://github.com/learning-at-home/hivemind) - Library to train large neural networks across the internet. Imagine training one huge transformer on thousands of computers from universities, companies, and volunteers.
 - [Prediction and Policy-learning Under Uncertainty (PPUU)](https://github.com/Atcold/pytorch-PPUU)
 - [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-- [LabML Neural Networks](http://lab-ml.com/labml_nn/index.html) - Collection of simple PyTorch implementation of various neural network architectures and layers. ([Code](https://github.com/lab-ml/labml_nn))
+- [LabML Neural Networks](http://lab-ml.com/labml_nn/index.html) - Collection of simple PyTorch implementation of various neural network architectures and layers. ([Code](https://github.com/lab-ml/nn))
 - [PyTorch Interpret](https://github.com/ttumiel/interpret) - PyTorch library for interpreting your deep learning results, using both visualisations and attributions.
 - [Lambda Networks - PyTorch](https://github.com/lucidrains/lambda-networks) - Implementation of Lambda Networks, an attention-based solution for image recognition that reaches SOTA.
 - [PyTorch image data augmentation](https://github.com/anguelos/tormentor)
@@ -147,3 +147,6 @@
 - [project-NII-pytorch-scripts](https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts)
 - [fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extension library for high performance and large scale training for optimizing training on one or across multiple machines/nodes.
 - [FastSpeech PyTorch](https://github.com/xcmyz/FastSpeech)
+- [Lightwood](https://github.com/mindsdb/lightwood) - Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together.
+- [PyTorch Loss Functions: Guide (2020)](https://neptune.ai/blog/pytorch-loss-functions)
+- [David's Tips on How to Read PyTorch](https://github.com/davidbau/how-to-read-pytorch)

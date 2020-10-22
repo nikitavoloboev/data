@@ -86,3 +86,4 @@
 - [Successful Lisp Book Contents](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/contents.html)
 - [Lisp and Haskell (2015)](https://markkarpov.com/post/lisp-and-haskell.html) ([HN](https://news.ycombinator.com/item?id=24712207))
 - [LISP From Nothing](http://t3x.org/lfn/index.html) ([Lobsters](https://lobste.rs/s/xojcvn/lisp_from_nothing)) ([HN](https://news.ycombinator.com/item?id=24809293))
+- [How are Lisp REPLs different from Python or Ruby REPLs? (2020)](https://lisp-journey.gitlab.io/blog/how-are-lisp-repls-different-from-python-or-ruby-repls/)

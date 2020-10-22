@@ -36,3 +36,4 @@
 - [BitTorrent v2 (2020)](https://blog.libtorrent.org/2020/09/bittorrent-v2/) ([HN](https://news.ycombinator.com/item?id=24401999)) ([Lobsters](https://lobste.rs/s/psgswm/bittorrent_v2))
 - [libtorrent](https://github.com/arvidn/libtorrent) - Open source C++ library implementing the BitTorrent protocol, along with most popular extensions, making it suitable for real world deployment. ([Web](http://libtorrent.org/))
 - [libtorrent adds support for the WebTorrent protocol (2020)](https://feross.org/libtorrent-webtorrent/)
+- [cl-torrents](https://github.com/vindarel/cl-torrents) - Little app to search for torrents on popular trackers and to open them with a local or a remote client.

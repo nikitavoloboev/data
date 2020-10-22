@@ -50,7 +50,7 @@
 - [Hooksy](https://github.com/pie6k/hooksy) - State management solution based on react hooks.
 - [React Easy State](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [wana](https://github.com/alloc/wana) - Easy observable state for React.
-- [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/))
+- [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/)) ([Rewriting from scratch](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/))
 - [State Designer](https://github.com/steveruizok/state-designer) - JavaScript and TypeScript library for managing the state of a user interface.
 - [Fluxible](https://github.com/yahoo/fluxible) - Pluggable container for universal flux applications.
 - [Logux State](https://github.com/logux/state) - Tiny state manager with CRDT, cross-tab, and Logux support.
@@ -331,6 +331,7 @@
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for JavaScript. ([Web](https://davidshimjs.github.io/qrcodejs/))
 - [HyperScript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript, on client or server.
 - [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - Terse syntax for hyperscript.
+- [EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - Open source syntax highlighter written in pure javascript.
 
 ## Links
 

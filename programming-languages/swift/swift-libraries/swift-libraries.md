@@ -106,6 +106,7 @@
 - [SwiftPageMenu](https://github.com/tamanyan/SwiftPageMenu) - Customizable Page Tab Menu Controller.
 - [PIPKit](https://github.com/Kofktu/PIPKit) - Picture in Picture for iOS.
 - [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple but highly customizable paging layout for UICollectionView.
+- [Selene](https://github.com/linkedin/Selene) - iOS library which schedules the execution of tasks on a background fetch.
 
 ## macOS
 
@@ -454,6 +455,8 @@
 - [AppIconGenerator](https://github.com/pawello2222/AppIconGenerator) - Library for creating App Icons from SwiftUI views.
 - [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Purchase Receipt Locally.
 - [BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift.
+- [NWWebSocket](https://github.com/pusher/NWWebSocket) - WebSocket client written in Swift, using the Network framework from Apple.
+- [Fuse Swift](https://github.com/krisk/fuse-swift) - Lightweight fuzzy-search library, with zero dependencies.
 
 ## Other (not lib)
 

@@ -129,3 +129,4 @@
 - [Linkers go brrrrr (2020)](https://vinayak.io/2020/09/28/day-34-linkers-go-brrrrr/)
 - [Hex Rays](https://www.hex-rays.com/) - State-of-the-art binary code analysis solutions.
 - [HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) - Hex-Rays microcode API plugin for breaking an obfuscating compiler.
+- [Compiler notes (focusing on Haskell)](https://crypto.stanford.edu/~blynn/compiler/)

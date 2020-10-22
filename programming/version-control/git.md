@@ -176,3 +176,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories.
 - [Narrated Diffs](https://narrated-diffs.thomasbroadley.com/) - Tool to enable PR authors to tell a story with their changes. ([Code](https://github.com/tbroadley/narrated-diffs))
 - [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites.
+- [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/) - Guide to using Git. ([Code](https://github.com/blynn/gitmagic))

@@ -54,3 +54,4 @@
 - [NeuralHash](https://github.com/nikcheerla/neuralhash) - Adversarial Steganographic Method For Robust, Imperceptible Watermarking.
 - [gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs from image data.
 - [Image Processing Techniques That You Can Use in Machine Learning Projects (2020)](https://neptune.ai/blog/image-processing-techniques-you-can-use-in-machine-learning)
+- [image-server](https://github.com/kkty/image-server) - Simple http server that accepts an image, converts it to a different format, resizes/compresses it and sends it back.

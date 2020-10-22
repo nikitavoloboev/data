@@ -25,3 +25,4 @@
 - [Creating a Slack app that uses fewer resources (2020)](https://kofi.sexy/blog/slack-app-fewer-resources) ([HN](https://news.ycombinator.com/item?id=24743790))
 - [Shrugs.app](https://shrugs.app/) - Integrate macOS into your Slack experience.
 - [How Riot Games Uses Slack (2020)](https://technology.riotgames.com/news/how-riot-games-uses-slack)
+- [How Unstack is running their Slack community (2020)](https://buildwithusers.substack.com/p/a-peek-into-how-unstack-is-running)

@@ -82,3 +82,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Building and Importing NixOS AMIs on EC2 (2020)](http://jackkelly.name/blog/archives/2020/08/30/building_and_importing_nixos_amis_on_ec2/)
 - [Tailscale is magic; even more so with NixOS (2020)](https://fzakaria.com/2020/09/17/tailscale-is-magic-even-more-so-with-nixos.html)
 - [Secure, Declarative Key Management with NixOps, Pass, and nix-plugins (2018)](https://elvishjerricco.github.io/2018/06/24/secure-declarative-key-management.html)
+- [nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - Collection of one-shot scripts to install NixOS on various server hosters and other hardware.

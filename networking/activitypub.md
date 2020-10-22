@@ -10,3 +10,4 @@
 - [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine, based on ActivityPub. ([Web](https://joinplu.me/))
 - [Guide for new ActivityPub implementers (2020)](https://socialhub.activitypub.rocks/t/guide-for-new-activitypub-implementers/479)
 - [Epicyon](https://epicyon.net/) - ActivityPub protocol compliant federated social network server.
+- [Lemmy](https://dev.lemmy.ml/) - Federated alternative to reddit in rust. ([Code](https://github.com/LemmyNet/lemmy)) ([HN](https://news.ycombinator.com/item?id=23664067)) ([Communities](https://dev.lemmy.ml/communities)) ([Lemmy UI code](https://github.com/LemmyNet/lemmy-ui))

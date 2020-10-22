@@ -125,6 +125,7 @@
 - [Draco](https://github.com/lanl/Draco) - Object-oriented component library geared towards numerically intensive, radiation (particle) transport applications built for parallel computing hardware.
 - [cpu_features](https://github.com/google/cpu_features) - Cross platform C99 library to get cpu features at runtime.
 - [VSTGUI](https://github.com/steinbergmedia/vstgui) - User interface toolkit mainly for audio plug-ins.
+- [libunifex](https://github.com/facebookexperimental/libunifex) - Prototype implementation of the C++ sender/receiver async programming model.
 
 ## Links
 
