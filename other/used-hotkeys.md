@@ -66,7 +66,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 5 - PixelSnap
 - 6 - Toggle Night Shift on/off.
 - 7 - Selection -> Google Lucky
-- 8 - Selection -> SnippetsLab snippet
+- 9 - Raycast
 - e - Selection -> YouTube
 - r - Selection -> Google Translate
 - y - Selection -> Stack Overflow
