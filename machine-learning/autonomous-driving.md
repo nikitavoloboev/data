@@ -21,3 +21,4 @@
 - [AirSim](https://github.com/Microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. ([Docs](https://microsoft.github.io/AirSim/))
 - [Tesla Autopilot AI](https://www.tesla.com/autopilotAI)
 - [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets (2020)](https://www.youtube.com/watch?v=_L3gNaAVjQ4)
+- [Luminar](https://www.luminartech.com/) - Making autonomous transportation safe with long-range, high resolution lidar and perception.

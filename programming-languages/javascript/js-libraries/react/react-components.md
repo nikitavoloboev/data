@@ -120,6 +120,7 @@
 - [react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React component built on top of the mature drag and drop library, Sortable.
 - [Reactive](https://github.com/kutlugsahin/re-active) - Reactive approach to create React application.
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - React.js reCAPTCHA for Google.
+- [React-Chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React.
 
 ## Links
 

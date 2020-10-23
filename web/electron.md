@@ -22,3 +22,4 @@
 - [electron-builder-notarize](https://github.com/karaggeorge/electron-builder-notarize) - Notarize Electron applications using electron-builder.
 - [Collection of apps built on Electron](https://www.electronjs.org/apps) ([Code](https://github.com/electron/apps))
 - [Desktop apps with Electron course](https://desktopappswithelectron.com/)
+- [Libraries Slack Desktop Uses](https://slack.com/libs/desktop)

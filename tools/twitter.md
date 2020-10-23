@@ -39,3 +39,4 @@
 - [Awesome Twitter Data](https://github.com/shaypal5/awesome-twitter-data) - List of Twitter datasets and related resources.
 - [Gardening Your Twitter: Growing Your Followers (2020)](https://steipete.com/posts/growing-your-twitter-followers/)
 - [twitter-text](https://github.com/twitter/twitter-text) - Collection of libraries and conformance tests to standardize parsing of Tweet text.
+- [The Art of Twitter: A Guide To Building Your Twitter Account](https://gumroad.com/l/TwitterGuide)

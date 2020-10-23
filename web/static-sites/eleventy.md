@@ -17,6 +17,6 @@
 - [High-performance blog template for 11ty](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) ([Code](https://github.com/google/eleventy-high-performance-blog))
 - [Eleventy Leaderboards](https://www.11ty.dev/speedlify/)
 - [Eleventy and Vue Components - Behind the New Netlify.com (2020)](https://www.netlify.com/blog/2020/09/18/eleventy-and-vue-a-match-made-to-power-netlify.com/)
-- [To Eleventy and Beyond (2020)](https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/)
+- [To Eleventy and Beyond (2020)](https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/) ([HN](https://news.ycombinator.com/item?id=24863629))
 - [How to Build an Eleventy Plugin (2020)](https://joshuaclanton.dev/blog/2020-10-06-how-to-build-an-eleventy-plugin/)
 - [11ty.dev documentation code](https://github.com/11ty/11ty-website)

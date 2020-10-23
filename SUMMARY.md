@@ -292,6 +292,7 @@
     - [Datalog](programming-languages/prolog/datalog.md)
   - [PureScript](programming-languages/purescript/purescript.md)
   - [Zig](programming-languages/zig/zig.md)
+    - [Zig libraries](programming-languages/zig/zig-libraries.md)
   - [APL](programming-languages/apl/apl.md)
   - [Tcl](programming-languages/tcl.md)
   - [PHP](programming-languages/php/php.md)

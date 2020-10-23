@@ -175,6 +175,7 @@
 - [Cachier](https://github.com/shaypal5/cachier) - Persistent, stale-free, local and cross-machine caching for Python functions.
 - [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames.
 - [Typing Inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module.
+- [Scalpl](https://github.com/ducdetronquito/scalpl) - Lightweight wrapper to operate on nested dictionaries seamlessly.
 
 ## Links
 

@@ -7,3 +7,4 @@
 - [A look at modern PHP (2020)](https://lwn.net/SubscriberLink/818973/507f4b5e09ab9870/) ([HN](https://news.ycombinator.com/item?id=23077367))
 - [25 Years of PHP History (2020)](https://www.jetbrains.com/lp/php-25/) ([HN](https://news.ycombinator.com/item?id=23463944))
 - [Laravel beyond CRUD](https://laravel-beyond-crud.com/) - Building larger-than-average web applications.
+- [PHP 8: before and after (2020)](https://stitcher.io/blog/php-8-before-and-after) ([HN](https://news.ycombinator.com/item?id=24866190))

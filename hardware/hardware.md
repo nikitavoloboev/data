@@ -116,3 +116,4 @@
 - [blokdots](https://blokdots.com/) - Software to build interactive hardware prototypes without writing a line of code. ([HN](https://news.ycombinator.com/item?id=24825056))
 - [Implementing Machine Learning on Massively Parallel Hardware (2020)](https://www.ieee-edps.com/archives/2020/c/2.5Patrick.pdf)
 - [Turing Pi 2](https://turingpi.com/) - Compact ARM cluster with 32 Gb RAM. ([HN](https://news.ycombinator.com/item?id=24829768)) ([Docs](https://docs.turingpi.com/))
+- [Home Made Standing Desk Raspberry Pi Controller (2020)](https://timmyomahony.com/blog/home-made-standing-desk-raspberry-pi-controller)

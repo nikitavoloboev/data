@@ -244,6 +244,7 @@ Here are few more things I liked, design wise.
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Jendrik Poloczek](https://madewithtea.com/)
 - [Sarah Lim](https://slim.computer/)
+- [Timmy O'Mahony](https://timmyomahony.com/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Derek Sivers](https://sivers.org/)
 - [Camille Fassett](https://www.sempervirens.io/)

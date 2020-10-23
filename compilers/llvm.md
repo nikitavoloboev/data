@@ -48,3 +48,4 @@
 - [Run LLVM Assembly in the Browser](http://kripken.github.io/llvm.js/demo.html) ([HN](https://news.ycombinator.com/item?id=24097446))
 - [Compiling a Higher-Order Smart Contract Language to LLVM](https://arxiv.org/pdf/2008.05555.pdf) ([Tweet](https://twitter.com/maqstik/status/1294170007891566593))
 - [The Dynamic Runtime Inlining (DRTI)](https://github.com/drti/drti) - With this project it is possible to take the output from an LLVM compiler such as clang and allow selected parts of the code to recompile themselves at runtime.
+- [Understanding static single assignment forms (2020)](https://blog.yossarian.net/2020/10/23/Understanding-static-single-assignment-forms)

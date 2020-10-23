@@ -394,3 +394,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Life Stack of Aaron Parecki](https://aaronparecki.com/life-stack/) - Tools, apps, services and other things I use to manage my work and life.
 - [PDF Wrench](https://pdfwrench.com/) - Combine multiple PDF pages and images into one PDF document. ([HN](https://news.ycombinator.com/item?id=24830927))
 - [Tools for Conviviality (1973)](http://www.davidtinapple.com/illich/1973_tools_for_convivality.html)
+- [Gitlab: Tech Stack (2020)](https://about.gitlab.com/handbook/business-ops/tech-stack/) ([HN](https://news.ycombinator.com/item?id=24868415))

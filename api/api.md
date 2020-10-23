@@ -160,3 +160,4 @@
 - [Insomnia](https://insomnia.rest/) - API Design Platform and REST Client. ([Code](https://github.com/Kong/insomnia))
 - [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation. ([How Apiary Works](https://apiary.io/how-apiary-works))
 - [Customizing API Documentation with Next.JS, Tailwind CSS, and ReadMe (2020)](https://scale.com/blog/quick-start-guide-to-customized-api-documentation)
+- [OpenAPI 3 Generator](https://github.com/egorsmkv/openapi3-generator) - Faster way to prototype your APIs using OpenAPI 3 and Swagger UI. ([HN](https://news.ycombinator.com/item?id=24867853))
