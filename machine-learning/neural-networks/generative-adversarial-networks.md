@@ -46,3 +46,4 @@
 - [In-Domain GAN Inversion for Real Image Editing](https://github.com/genforce/idinvert_pytorch)
 - [Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting)
 - [GANDissect](https://github.com/CSAILVision/gandissect) - PyTorch-based tools for visualizing and understanding the neurons of a GAN.
+- [GANksy](https://vole.wtf/ganksy/) - A.I. street artist.

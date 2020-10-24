@@ -1,5 +1,10 @@
 # Marketing
 
+## Nice ads
+
+- [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)
+- [Introducing Descript](https://www.youtube.com/watch?v=Bl9wqNe5J8U)
+
 ## Notes
 
 - [Every startup should focus on its inbound and outbound strategies.](https://news.ycombinator.com/item?id=24233859)
