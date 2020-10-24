@@ -32,3 +32,4 @@
 - [Raspberry Pi as FM transmitter](https://github.com/markondej/fm_transmitter)
 - [BT-Speaker](https://github.com/lukasjapan/bt-speaker) - Simple Bluetooth Speaker Daemon for the Raspberry Pi 3.
 - [Voice-Controlled Raspberry Pi (2020)](https://www.shawenyao.com/Voice-Controlled-Raspberry-Pi/)
+- [faasd - lightweight Serverless for your Raspberry Pi (2020)](https://blog.alexellis.io/faasd-for-lightweight-serverless/)
