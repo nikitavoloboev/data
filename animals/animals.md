@@ -59,3 +59,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Crows possess higher intelligence long thought a primarily human attribute](https://www.statnews.com/2020/09/24/crows-possess-higher-intelligence-long-thought-primarily-human/) ([HN](https://news.ycombinator.com/item?id=24583314)) ([Reddit](https://www.reddit.com/r/science/comments/izbj3r/research_finds_that_crows_know_what_they_know_and/))
 - [What happened to South America's missing mega-mammals?](https://www.nytimes.com/2020/10/08/science/mammals-south-america-extinction.html) ([HN](https://news.ycombinator.com/item?id=24737911))
 - [Automated cat feeding infrastructure](https://news.ycombinator.com/item?id=24819442)
+- [Books on puppy training](https://twitter.com/dburka/status/1319784375521783809)
