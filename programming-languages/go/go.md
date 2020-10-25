@@ -365,3 +365,4 @@ Go promotes composition over inheritance.
 - [Gopium](https://github.com/1pkg/gopium) - Smart Go Structures Optimizer and Manager.
 - [Nex](https://github.com/blynn/nex) - Lexer for Go. ([Web](http://www-cs-students.stanford.edu/~blynn//nex/))
 - [Go Training](https://github.com/go-training/training) - Learning basic Go in one day.
+- [Ask HN: Go programming language is over ten years old. What do you think of it? (2020)](https://news.ycombinator.com/item?id=24887521)

@@ -147,6 +147,6 @@
 - [17 Smaller but Handy C++17 Features (2020)](https://www.bfilipek.com/2019/08/17smallercpp17features.html)
 - [`constexpr` is a Platform (2020)](https://foonathan.net/2020/10/constexpr-platform/)
 - [Warrior1: A Performance Sanitizer for C++ (2020)](https://arxiv.org/abs/2010.09583)
-- [What's Wrong with C++ Templates?](http://people.cs.uchicago.edu/~jacobm/pubs/templates.html) ([Lobsters](https://lobste.rs/s/bftgtj/what_s_wrong_with_c_templates))
+- [What's Wrong with C++ Templates?](http://people.cs.uchicago.edu/~jacobm/pubs/templates.html) ([Lobsters](https://lobste.rs/s/bftgtj/what_s_wrong_with_c_templates)) ([HN](https://news.ycombinator.com/item?id=24855401))
 - [Include What You Use](https://github.com/include-what-you-use/include-what-you-use) - Tool for use with clang to analyze #includes in C and C++ source files. ([Docs](https://include-what-you-use.org/))
 - [TCMalloc](https://github.com/google/tcmalloc) - Fast, multi-threaded malloc implementation used by Google.
