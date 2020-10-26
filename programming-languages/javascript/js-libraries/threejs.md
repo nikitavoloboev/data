@@ -19,3 +19,4 @@
 - [react-three-fiber Game Demo](https://github.com/coldi/r3f-game-demo) - Example implementation of a top-down 2d game made with React and react-three-fiber.
 - [ocean](https://github.com/jbouny/ocean) - Realistic water shader for Three.js.
 - [react-postprocessing](https://github.com/pmndrs/react-postprocessing) - Postprocessing for react-three-fiber.
+- [Three.js Journey](https://threejs-journey.xyz/) - Ultimate Three.js course.

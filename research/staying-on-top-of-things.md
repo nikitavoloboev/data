@@ -96,6 +96,7 @@ And these Discord servers:
 - [InputMag](https://www.inputmag.com/)
 - [Axios](https://www.axios.com/)
 - [Financial Times](https://www.ft.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
 - [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
 - [The Straight Dope](https://www.straightdope.com/)
 
