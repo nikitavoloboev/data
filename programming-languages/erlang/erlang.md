@@ -20,7 +20,7 @@
 - [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
 - [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang. ([Code](https://github.com/oreillymedia/etudes-for-erlang))
 - [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
-- [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
+- [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war. ([Code](https://github.com/heroku/erlang-in-anger))
 - [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM. ([HN](https://news.ycombinator.com/item?id=24185963))
 - [Anton Lavrik - A Reflection on Building the WhatsApp Server - Code BEAM 2018](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
 - [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.

@@ -21,3 +21,4 @@
 - [HN: My kid can’t handle a virtual education, and neither can I (2020)](https://news.ycombinator.com/item?id=24214570)
 - [MixedName](https://mixedname.com/) - Bilingual baby name finder. ([HN](https://news.ycombinator.com/item?id=24286065))
 - [Ask HN: Teaching Kids How to Think? (2020)](https://news.ycombinator.com/item?id=24638756)
+- [I got married and had kids so you don't have to (2020)](https://robertheaton.com/married-with-kids/)

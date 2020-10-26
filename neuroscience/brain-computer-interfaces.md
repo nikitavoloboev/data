@@ -16,3 +16,4 @@
 - [Dorsolateral prefrontal cortex-based control with an implanted brain–computer interface (2020)](https://www.nature.com/articles/s41598-020-71774-5)
 - [CoMind](https://comind.io/) - Next generation non-invasive brain-computer interfaces.
 - [Classifying brain activity using low-cost biosensors and automated time tracking](https://github.com/ErikBjare/thesis)
+- [No Implants Needed for Precise Control Deep into the Brain (2020)](https://spectrum.ieee.org/the-human-os/biomedical/devices/deep-brain-control-without-implants) ([HN](https://news.ycombinator.com/item?id=24898772))

@@ -98,3 +98,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email Tips Collection (2020)](https://joshspector.com/email-tips/)
 - [Email Reply Parser](https://github.com/crisp-dev/email-reply-parser) - Node library for parsing plain text email content.
 - [Mailman](https://mailmanhq.com/) - Email assistant that shields you from unimportant emails. ([How it was launched in 5 hours](https://twitter.com/awilkinson/status/1320735459870273536))
+- [meli](https://meli.delivery/) - Terminal mail client. ([Code](https://git.meli.delivery/meli/meli))

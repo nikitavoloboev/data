@@ -61,3 +61,4 @@
 - [RSS.app](https://rss.app/) - RSS Feed Generator, Create RSS feeds from URL
 - [Hello, RSS (2020)](https://paulstamatiou.com/hello-rss/)
 - [Blogtrottr](https://blogtrottr.com/) - Delivers updates from all of your favourite news, feeds, and blogs directly to your email inbox.
+- [Unexpected, Useless, and Urgent, or What RSS Gets Right (2020)](https://www.charlieharrington.com/unexpected-useless-and-urgent) ([HN](https://news.ycombinator.com/item?id=24899256))

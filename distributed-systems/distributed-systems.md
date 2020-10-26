@@ -118,3 +118,4 @@
 - [Building Netflix’s Distributed Tracing Infrastructure (2020)](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 - [Wikipedia's self-hosted CDN (2020)](https://techblog.wikimedia.org/2020/10/14/wikimedias-cdn/)
 - [Infinite Parallel Universes: State at the Edge (2020)](https://www.infoq.com/presentations/architecture-global-scale/) ([Summary](https://twitter.com/embano1/status/1318277850613600257))
+- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)

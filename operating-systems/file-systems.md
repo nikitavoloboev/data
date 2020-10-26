@@ -19,3 +19,4 @@
 - [Non-POSIX file systems (2020)](https://weinholt.se/articles/non-posix-filesystems/) ([Lobsters](https://lobste.rs/s/bed7wm/non_posix_file_systems)) ([HN](https://news.ycombinator.com/item?id=24412970))
 - [Filesystems for dummies (2020)](https://29jm.github.io/filesystems-for-dummies/)
 - [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - User-space file system for interacting with Google Cloud Storage.
+- [Apache Helix](https://helix.apache.org/0.6.8-docs/recipes/rsync_replicated_file_store.html) - Near-Realtime Rsync Replicated File System. ([HN](https://news.ycombinator.com/item?id=24898911))
