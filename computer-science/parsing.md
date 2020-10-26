@@ -38,4 +38,4 @@
 - [Parsing with Scannerless Earley Virtual Machines (2019)](https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/7_2_01_Saikunas.pdf)
 - [North](https://github.com/tuxmark5/north) - Experimental SEVM (Scannerless Earley Virtual Machine) parser implementation.
 - [Just write the parser](https://tiarkrompf.github.io/notes/?/just-write-the-parser/) - Whirlwind tour of writing parsers by hand. ([HN](https://news.ycombinator.com/item?id=24837898))
-- [Parsing Algorithms course](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
+- [Parsing Algorithms course](http://dmitrysoshnikov.com/courses/parsing-algorithms/) ([HN](https://news.ycombinator.com/item?id=24898210))

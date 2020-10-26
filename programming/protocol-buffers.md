@@ -25,3 +25,4 @@
 - [Molecule](https://github.com/richardartoul/molecule) - Go library for parsing protobufs in an efficient and zero-allocation manner.
 - [How to Easily use GRPC and Protocol Buffers with NodeJS (2020)](https://adityasridhar.com/posts/how-to-easily-use-grpc-and-protocol-buffers-with-nodejs)
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic protocol generator based on golang's text/template.
+- [ts-proto](https://github.com/stephenh/ts-proto) - Idiomatic protobuf generator for TypeScript.
