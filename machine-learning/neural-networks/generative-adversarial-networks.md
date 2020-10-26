@@ -47,3 +47,4 @@
 - [Rewriting a Deep Generative Model](https://github.com/davidbau/rewriting)
 - [GANDissect](https://github.com/CSAILVision/gandissect) - PyTorch-based tools for visualizing and understanding the neurons of a GAN.
 - [GANksy](https://vole.wtf/ganksy/) - A.I. street artist.
+- [GAN-Supported Concept Art Workflows (2020)](https://www.gamasutra.com/blogs/MaxSchulz/20201022/372349/GANSupported_Concept_Art_Workflows.php)

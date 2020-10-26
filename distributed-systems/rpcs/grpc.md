@@ -28,3 +28,4 @@
 - [gRPC Proxy](https://github.com/mwitkow/grpc-proxy) - Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead.
 - [gNMI](https://github.com/openconfig/gnmi) - gRPC Network Management Interface.
 - [Ditching REST with gRPC-web and Envoy (2020)](https://medium.com/swlh/ditching-rest-with-grpc-web-and-envoy-bfaa89a39b32)
+- [Road to gRPC (2020)](https://blog.cloudflare.com/road-to-grpc/)

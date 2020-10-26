@@ -489,6 +489,8 @@
 - [mles-rs](https://github.com/jq-rs/mles-rs) - Distributed publish-subscribe data service and Mles protocol reference implementation on Rust, Tokio and Serde.
 - [sharded-slab](https://github.com/hawkw/sharded-slab) - Lock-free concurrent slab. Provide pre-allocated storage for many instances of a single data type.
 - [inline-c](https://github.com/Hywan/inline-c-rs) - Write and execute C code inside Rust.
+- [includedir](https://github.com/tilpner/includedir) - Include a whole directory tree at compile time.
+- [strsim-rs](https://github.com/dguo/strsim-rs) - Rust implementations of string similarity metrics.
 
 ## Cargo Plugins
 

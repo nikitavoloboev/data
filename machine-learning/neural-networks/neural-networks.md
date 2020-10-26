@@ -154,3 +154,4 @@
 - [What is the Role of a Neuron?](https://github.com/davidbau/dissect)
 - [Marabou](https://github.com/NeuralNetworkVerification/Marabou) - SMT-based tool that can answer queries about a network’s properties by transforming these queries into constraint satisfaction problems.
 - [Demonstration of the attention mechanism with some toy experiments and explanations](https://github.com/greentfrapp/attention-primer)
+- [Augerino](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks.

@@ -50,6 +50,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Technically](https://technically.dev/posts-archive.html)
 - [the morning paper](https://blog.acolyer.org/)
 - [Fabian Tamp](https://capnfabs.net/posts/)
+- [Vitalik Buterin](https://vitalik.ca/) ([Code](https://github.com/vbuterin/blog))
 - [NSHipster](https://nshipster.com/)
 
 ## Links
@@ -113,3 +114,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ask HN: Favourite blogs? (2020)](https://news.ycombinator.com/item?id=24539445)
 - [Deploying post to dev.to with markdown](https://github.com/moghwan/dev.to)
 - [OneBlog](https://github.com/OneGraph/oneblog) - Build a blog powered by GitHub issues.
+- [Blogmaker](https://github.com/vbuterin/blogmaker) - Ultra-simple self-hosted blog publishing solution. Used by Vitalik Buterin.

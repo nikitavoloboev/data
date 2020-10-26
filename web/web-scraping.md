@@ -43,3 +43,4 @@
 - [Pholcidae](https://github.com/bbrodriges/pholcidae) - Tiny python web crawler.
 - [Booking site web scraper](https://github.com/ZoranPandovski/BookingScraper) - Downloads all of the accommodations for the chosen country and saves them in a file.
 - [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
+- [Web scraping with JS (2020)](https://qoob.cc/web-scraping/) ([HN](https://news.ycombinator.com/item?id=24898016))

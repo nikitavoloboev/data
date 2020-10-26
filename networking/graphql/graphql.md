@@ -143,3 +143,4 @@
 - [Transform GraphQL](https://github.com/graphql-editor/transform-graphql) - Transformer function to transform GraphQL Directives. Create model CRUD directive for example.
 - [GraphQL HTTP Server Middleware](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - Tool to get results of GraphQL code generator closer to you with types.
+- [GraphQL Workshop by Eve Porcello](https://www.graphqlworkshop.com/)

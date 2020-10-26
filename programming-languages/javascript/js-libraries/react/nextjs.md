@@ -122,3 +122,4 @@
 - [Debugging Next.JS (2020)](https://blog.codechem.com/debugging-nextjs)
 - [Next.js - The Data Story (2020)](https://dev.to/dabit3/next-js-the-data-story-2b0d)
 - [useQueryState for Next.js](https://github.com/47ng/next-usequerystate) - Like React.useState, but stored in the URL query string.
+- [Create a Next.js App Docs](https://nextjs.org/learn/basics/create-nextjs-app) ([Starter Code](https://github.com/vercel/next-learn-starter))

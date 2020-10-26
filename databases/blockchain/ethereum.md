@@ -90,3 +90,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Matter Labs](https://matter-labs.io/) - Unchaining Ethereum with Zero-Knowledge Proofs.
 - [zkSync](https://zksync.io/) - Secure, scalable crypto payments. Fully trustless, secure, user-centric protocol for scaling payments and smart contracts on Ethereum. ([Code](https://github.com/matter-labs/zksync))
 - [Ethereum wallet application for Ledger Blue and Nano S](https://github.com/LedgerHQ/app-ethereum)
+- [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs) ([Web](https://eips.ethereum.org/))
