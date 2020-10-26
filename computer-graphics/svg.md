@@ -45,3 +45,4 @@
 - [Lean-SVG](https://lean-svg.netlify.app/) - Optimize SVG and Flatten transforms and shapes. ([Code](https://github.com/upendra-web/lean-svg))
 - [flatten-svg](https://github.com/nornagon/flatten-svg) - Flatten SVGs into points.
 - [Squircley](https://squircley.app/) - SVG Squircle Maker. ([Code](https://github.com/georgedoescode/squircle)) ([Squircles with Vue](https://codepen.io/simeydotme/pen/oOGmYe))
+- [Fabric.js](https://github.com/fabricjs/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser. ([Web](http://fabricjs.com/))

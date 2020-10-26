@@ -131,3 +131,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [I enforced the AGPL on my code, here's how it went (bad) (2020)](https://raymii.org/s/blog/I_enforced_the_AGPL_on_my_code_heres_how_it_went.html) ([Lobsters](https://lobste.rs/s/tlxth2/i_enforced_agpl_on_my_code_here_s_how_it_went)) ([HN](https://news.ycombinator.com/item?id=24845878))
 - [ROSS Index](https://runacap.com/ross-index/) - Fastest-growing open-source startups, every quarter.
 - [Accel - Future of Open Source: Launching the Open 100 (2020)](https://www.accel.com/noteworthy/the-future-of-open-source-launching-the-open100)
+- [Parity Public License](https://paritylicense.com/) - Public LICENSE for software that requires users who build with your software to share their work with the community, too.
