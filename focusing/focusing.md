@@ -55,3 +55,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - ['Ugh fields', or why you can’t even bear to think about that task (2020)](https://medium.com/@robertwiblin/ugh-fields-or-why-you-can-t-even-bear-to-think-about-that-task-5941837dac62) ([HN](https://news.ycombinator.com/item?id=24445603))
 - [Work on What Matters](https://staffeng.com/guides/work-on-what-matters) ([HN](https://news.ycombinator.com/item?id=24581810))
 - [Ask HN: What is your trick to do deep work or study? (2020)](https://news.ycombinator.com/item?id=24675467)
+- [What some of your goals are? Where you think you want to go, where you think things should be going. (2020)](https://merveilles.town/@neauoire/105093152834494144)

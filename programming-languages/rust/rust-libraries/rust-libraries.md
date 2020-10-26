@@ -134,6 +134,8 @@
 - [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
 - [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
+- [poly-commit](https://github.com/scipr-lab/poly-commit) - Rust library for polynomial commitments.
+- [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
 
 ## Linux
 
@@ -485,6 +487,8 @@
 - [tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust.
 - [Rio](https://github.com/oxigraph/rio) - RDF parsers library.
 - [mles-rs](https://github.com/jq-rs/mles-rs) - Distributed publish-subscribe data service and Mles protocol reference implementation on Rust, Tokio and Serde.
+- [sharded-slab](https://github.com/hawkw/sharded-slab) - Lock-free concurrent slab. Provide pre-allocated storage for many instances of a single data type.
+- [inline-c](https://github.com/Hywan/inline-c-rs) - Write and execute C code inside Rust.
 
 ## Cargo Plugins
 
@@ -501,6 +505,7 @@
 - [stack-sizes](https://github.com/japaric/stack-sizes) - Tools to print stack usage information emitted by LLVM in human readable format.
 - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling mistakes.
 - [cargo-lipo](https://github.com/TimNN/cargo-lipo) - Cargo subcommand to automatically create universal libraries for iOS.
+- [cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion.
 
 ## Links
 

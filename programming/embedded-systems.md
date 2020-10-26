@@ -79,3 +79,4 @@
 - [How I Teach Embedded Systems (2019)](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
 - [eRPC (Embedded RPC)](https://github.com/EmbeddedRPC/erpc) - Open source Remote Procedure Call (RPC) system for multichip embedded systems and heterogeneous multicore SoCs.
 - [Bela](https://bela.io/) - Create beautiful interaction with sensors and sound. ([Code](https://github.com/BelaPlatform/Bela))
+- [Embedded Programming Without the IDE (2016)](http://reecestevens.me/blog/2016/07/08/embedded-programming-without-ide/) ([HN](https://news.ycombinator.com/item?id=24867643))

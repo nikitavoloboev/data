@@ -77,3 +77,4 @@
 - [Pyxium](https://pyxium.co/) - Earning Through Learning.
 - [Awesome learning](https://github.com/curlpipe/awesome-learning) - Teach yourself a new technology from this list.
 - [Lectures London](https://lectures.london/) - Academic lectures hosted by London universities.
+- [Opinionated Guides](https://opinionatedguide.github.io/#/) - Collection of educational un-textbooked, actually digestible pages on various topics. ([Code](https://github.com/opinionatedguide/opinionatedguide.github.io))

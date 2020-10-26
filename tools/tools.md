@@ -81,7 +81,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Cosign](https://cosign.co/login)
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Friendly Captcha](https://friendlycaptcha.com/) - User-friendly CAPTCHA alternative.
-- [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
+- [POLAR](https://getpolarized.io/) - Integrated reading environment to build your knowledge base. Actively read, annotate, connect thoughts, create flashcards, and track progress. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
 - [Braid](http://www.braidchat.com/) - Team-chat app with a novel UI that leads to better conversations. ([Code](https://github.com/braidchat/braid))
 - [Lighthouse](https://lighthouse.black.af/) - Intelligent Webmention hosting you can rely on.
@@ -184,6 +184,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Baremetrics](https://baremetrics.com/) - Subscription Analytics & Insights for Stripe, Braintree, Recurly & more.
 - [Reddit Write](https://redditwrite.datasources.co/) - Writing software trying to help you optimize and create the best reddit posts you can to attract more upvotes and comments.
 - [Rasa](https://rasa.com/) - Open source conversational AI.
+- [Data Fetcher for Airtable](https://datafetcher.io/)
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
@@ -232,7 +233,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
 - [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
-- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar))
+- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)) ([HN](https://news.ycombinator.com/item?id=24882480))
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
 - [Appsmith](https://www.appsmith.com/) - Open source admin panel, CRUD, and workflow builder. ([Code](https://github.com/appsmithorg/appsmith))

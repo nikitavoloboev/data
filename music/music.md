@@ -69,3 +69,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music Training](https://github.com/g-r-a-n-t/music-training) - Practical exercises in music theory and ear training.
 - [Pianojacq](https://pianojacq.com/) - Easy way to learn to play the piano. ([Article](https://jacquesmattheij.com/2020-09-20-pianojacq-learn-to-play-piano/))
 - [spotDL](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata.
+- [Stereo](https://withstereo.com/) - Completely-free and community-driven project that lets you play & listen to music in sync with friends in public or private rooms. ([Code](https://github.com/hoangvvo/stereo-web))

@@ -11,3 +11,4 @@
 - [Timekeeping in Financial Exchanges (2020)](https://www.lucaspauker.ml/articles/20) ([HN](https://news.ycombinator.com/item?id=24746836))
 - [TF Quant Finance](https://github.com/google/tf-quant-finance) - TensorFlow based Quant Finance Library.
 - [Quantopian](https://www.quantopian.com/home) - Place For Learning Quant Finance.
+- [We chose Java for our High-Frequency Trading application (2020)](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) ([HN](https://news.ycombinator.com/item?id=24895395))

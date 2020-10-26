@@ -13,3 +13,4 @@
 - [Wild Tricks for Greenscreen in Blender (2020)](https://www.youtube.com/watch?v=RxD6H3ri8RI)
 - [Blender 2.90 (2020)](https://www.blender.org/download/releases/2-90/) ([HN](https://news.ycombinator.com/item?id=24334024))
 - [Blender Tools](https://github.com/LeanderSilur/Blender-Tools) - Various python tools for Blender. Partially Addons.
+- [Sprytile Painter](https://github.com/Sprytile/Sprytile) - Blender addon for creating tile based low spec 3D scenes. ([Web](https://jeiel.itch.io/sprytile))

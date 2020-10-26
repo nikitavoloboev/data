@@ -167,6 +167,7 @@
 - [SwiftUI Charts](https://github.com/swift-extensions/swiftui-charts) - SwiftUI Charts with custom styles.
 - [Parma](https://github.com/dasautoooo/Parma) - SwiftUI view for displaying Markdown with customizable appearances.
 - [SwiftUI Visual Effects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
+- [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - SwiftUI view for dynamically highlighting user input.
 
 ## Test
 

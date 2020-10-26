@@ -115,3 +115,4 @@
 - [You don't need reinforcement learning when you have basic physics (2020)](https://npdeep.github.io/cartpole-without-reinforcement-learning.html) ([HN](https://news.ycombinator.com/item?id=24795953))
 - [TensorLayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers. ([Docs](https://tensorlayer.readthedocs.io/en/latest/))
 - [FitML](https://github.com/FitMachineLearning/FitML) - Collection of python Machine Learning articles and examples.
+- [Notes and scripts for SC2LE released by DeepMind and Blizzard](https://github.com/greentfrapp/pysc2-RLagents)

@@ -118,3 +118,4 @@
 - [Robin Stocks](https://github.com/jmfernandes/robin_stocks) - Robinhood API Library. ([Docs](https://robin-stocks.readthedocs.io/en/latest/))
 - [pyrh](https://github.com/robinhood-unofficial/pyrh) - Python Framework to make trades with the unofficial Robinhood API.
 - [lbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
+- [How to Break into Startup Investing (2020)](https://eriktorenberg.substack.com/p/how-to-break-into-startup-investing)

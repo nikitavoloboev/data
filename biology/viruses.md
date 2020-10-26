@@ -40,3 +40,4 @@
 - [This Week in Virology](https://www.microbe.tv/twiv/) - Podcast about viruses.
 - [What is Herd Immunity? Epidemiologists Make Their Case (2020)](https://www.youtube.com/watch?v=QJajHxG3C9A)
 - [Coronavirus Vaccine Tracker (2020)](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [COVID-19 Vaccine Tracker](https://thevaccinetracker.com/) ([Code](https://github.com/thevaccinetracker/thevaccinetracker))

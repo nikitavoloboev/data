@@ -172,3 +172,7 @@
 - [DialoGPT](https://github.com/microsoft/DialoGPT) - State-of-the-Art Large-scale Pretrained Response Generation Model.
 - [Neural reading comprehension and beyond - Danqi Chen's Thesis (2020)](https://github.com/danqi/thesis/blob/master/thesis.pdf) ([Code](https://github.com/danqi/thesis))
 - [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA) - Probe for analyzing the factual and commonsense knowledge contained in pretrained language models.
+- [awesome-2vec](https://github.com/MaxwellRebo/awesome-2vec) - Curated list of 2vec-type embedding models.
+- [Rethinking Attention with Performers (2020)](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html) ([HN](https://news.ycombinator.com/item?id=24878116))
+- [BERT Research - Key Concepts & Sources (2019)](https://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)
+- [The Pile](https://github.com/EleutherAI/The-Pile) - Large, diverse, open source language modelling data set that consists of many smaller datasets combined together.

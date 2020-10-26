@@ -49,3 +49,5 @@
 - [namebench](https://github.com/catap/namebench) - Open-source DNS Benchmark Utility.
 - [Yet Another Kubernetes DNS Latency Story (2020)](https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d)
 - [Oblivious DoH Library](https://github.com/chris-wood/odoh)
+- [Which DNS servers are you pointing to?](https://which.nameserve.rs/) ([HN](https://news.ycombinator.com/item?id=24886120)) ([Code](https://github.com/redirect2me/which-dns))
+- [Resolve.rs](https://resolve.rs/) - Troubleshooting website for network and DNS issues. ([Code](https://github.com/redirect2me/resolvers))

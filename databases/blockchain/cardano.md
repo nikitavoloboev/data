@@ -13,3 +13,4 @@
 - [Cardano Roadmap](https://cardanoroadmap.com/)
 - [Plutus Platform](https://github.com/input-output-hk/plutus) - Plutus language implementation and tools.
 - [Enter the Hydra: scaling distributed ledgers, the evidence-based way (2020)](https://iohk.io/en/blog/posts/2020/03/26/enter-the-hydra-scaling-distributed-ledgers-the-evidence-based-way/)
+- [Formal Models for Ledger Rules](https://github.com/input-output-hk/cardano-ledger-specs) - Formal specification and executable model of the ledger rules introduced by the Shelley release.

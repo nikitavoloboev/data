@@ -121,3 +121,6 @@
 - [Hyperbee](https://github.com/mafintosh/hyperbee) - Append-only Btree running on a Hypercore.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) - Tiny web framework as a replacement of Express.
 - [Awesome Node Native ESM modules](https://github.com/talentlessguy/awesome-node-esm)
+- [npm-diff](https://github.com/juliangruber/npm-diff) - Diff two versions of a node module.
+- [Esbuilt optimizer](https://github.com/remorses/vite-esbuild-optimizer) - Convert your dependencies to ESM bundles using esbuild.
+- [Why Node isn't exiting?](https://github.com/myndzi/wtfnode)

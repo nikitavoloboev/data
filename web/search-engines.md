@@ -73,3 +73,4 @@
 - [Search personal websites (2020)](https://jlelse.blog/links/2020/10/searchmysite/)
 - [GoCrawler](https://github.com/el10savio/GoCrawler) - Distributed web crawler implemented using Go, Postgres, RabbitMQ and Docker.
 - [From Then to Now: a Curated List for Neural Search and Jina (2020)](https://hanxiao.io/2020/10/19/A-Curated-List-of-Neural-Search-and-Jina-Framework-Designs/)
+- [CodeSearch](https://github.com/colin353/universe/tree/master/tools/search) - Search engine for code, written in Rust. ([Article](https://medium.com/@colin353/code-search-74a6a0a74789))

@@ -57,6 +57,7 @@
 - [chart-releaser](https://github.com/helm/chart-releaser-action) - GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool.
 - [action-waypoint](https://github.com/hashicorp/action-waypoint) - GitHub action for deploying and annotating PRs and commits with Waypoint.
 - [action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
+- [readme-scribe](https://github.com/muesli/readme-scribe) - GitHub Action that automatically generates & updates markdown content (like your readme.md).
 
 ## Go
 

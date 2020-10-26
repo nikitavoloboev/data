@@ -21,5 +21,5 @@
 - [Nikolas Burk on Prisma 2 (2020)](https://overcast.fm/+N_6LdHvjk)
 - [Building a Modern Backend with TypeScript, PostgreSQL and Prisma (2020)](https://www.prisma.io/blog/modern-backend-1-tsjs1ps7kip1)
 - [Reddit built with Next, Prisma](https://github.com/nikolasburk/lireddit/)
-- [Prisma's Data Guide](https://dataguide.prisma.io/) - Educational articles to make databases more approachable.
+- [Prisma's Data Guide](https://dataguide.prisma.io/) - Educational articles to make databases more approachable. ([Code](https://github.com/prisma/dataguide))
 - [Prisma Client Go](https://github.com/prisma/prisma-client-go) - Typesafe database access for Go.

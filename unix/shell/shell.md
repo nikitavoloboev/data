@@ -83,3 +83,4 @@ All active variables can be seen by running `env`.
 - [Syntactic Concepts in the Oil Language](http://www.oilshell.org/preview/doc/syntactic-concepts.html) ([Lobsters](https://lobste.rs/s/txj4um/syntactic_concepts_oil_language))
 - [smash](https://github.com/evmar/smash) - New kind of terminal. ([Docs](http://evmar.github.io/smash/))
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services.
+- [waitfor](https://github.com/aeshirey/waitfor) - Shell app for delaying on conditions.

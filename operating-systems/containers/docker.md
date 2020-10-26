@@ -72,3 +72,4 @@
 - [Registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker.
 - [selfdock](https://github.com/anordal/selfdock) - Sandbox for process and filesystem isolation, like Docker, but without its hard problems.
 - [Docker for macOS bug reports](https://github.com/docker/for-mac)
+- [Docker CLI](https://github.com/docker/cli)

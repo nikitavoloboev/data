@@ -42,3 +42,4 @@
 - [100k+ Rows Topic Labeled News Dataset (2020)](https://newscatcherapi.com/blog/topic-labeled-news-dataset)
 - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST-like fashion product database.
 - [FiveThirtyEight Datasets](https://data.fivethirtyeight.com/)
+- [Books in .txt format for AI training purposes](https://twitter.com/theshawwn/status/1320282149329784833) ([HN](https://news.ycombinator.com/item?id=24884789))

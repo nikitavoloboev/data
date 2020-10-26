@@ -10,6 +10,11 @@
   d) Doesn't annoy or piss off users such that they click the back button and choose someone else's link instead of yours.
   e) Earns links and amplification (see point below).
 - Have a great answer to the question: "Who will help amplify/link to this and WHY?" If you can nail that, and then get what you create in front of those right people/organizations, your ability to earn amplification, engagement, and links will be vastly better than simply trying to make stuff, then put it in front of likely linkers. Craft content the way Amazon crafts products - write the press release first. List the people who will want to share it/tweet it/post about it/write about it/link to it/etc. and then explain their motivations. Now you've got content that has the potential to earn the ranking signals you need.
+- [SEO strategy, I really like:](https://mobile.twitter.com/clokehead/status/1257597795432873986)
+  1. Find a topic that is growing using [ExplodingTopics](https://explodingtopics.com/)
+  2. Find existing keywords with some volume, where that topic can be substituted in to make a new keyword with no volume (but also no competition).
+  3. Wait for the new keyword to grow.
+  4. Profit.
 
 ## Links
 

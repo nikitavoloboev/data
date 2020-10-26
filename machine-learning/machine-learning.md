@@ -166,7 +166,7 @@
 - [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code, math, and discussions, based on the NumPy interface. ([HN](https://news.ycombinator.com/item?id=21948698)) ([Code](https://github.com/d2l-ai/d2l-en))
 - [Resources to learn more about Machine Learning and Artificial Intelligence](https://github.com/brylevkirill/notes)
 - [Foundations of Machine Learning book](https://mitpress.mit.edu/books/foundations-machine-learning-second-edition) - New edition of a graduate-level machine learning textbook that focuses on the analysis and theory of algorithms.
-- [Deep Learning book](http://www.deeplearningbook.org/) - Resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. ([Code](https://github.com/zsdonghao/deep-learning-book))
+- [Deep Learning book](http://www.deeplearningbook.org/) - Resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. ([Code](https://github.com/zsdonghao/deep-learning-book)) ([Notes](https://github.com/greentfrapp/deep-learning-book-notes))
 - [Introduction to Deep Learning - Eugene Charniak](https://mitpress.mit.edu/books/introduction-deep-learning) - Project-based guide to the basics of deep learning.
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)
 - [Topological Techniques for Unsupervised Learning (2019)](https://www.youtube.com/watch?v=7pAVPjwBppo)

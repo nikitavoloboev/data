@@ -46,6 +46,7 @@
 - [Dracula UI](https://draculatheme.com/ui) - Dark-first collection of UI patterns and components.
 - [@polkadot/ui](https://github.com/polkadot-js/ui) ([Web](https://polkadot.js.org/ui/))
 - [Dripsy](https://github.com/nandorojo/dripsy) - Responsive, theme-based design system for Expo + React Native Web.
+- [Storybook Design System](https://github.com/storybookjs/design-system) - Codifies existing UI components into a central, well-maintained repository.
 
 ## Links
 
@@ -85,3 +86,4 @@
 - [Design System Kit](https://github.com/rundsk/dsk) - Workbench for collaboratively creating Design Systems. ([Web](https://rundsk.com/))
 - [Tips on making good design systems (2020)](https://twitter.com/_dte/status/1318222844434796544)
 - [Naming Tokens in Design Systems. Terms, Types, and Taxonomy to Describe (2020)](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
+- [storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - Storybook addon that embed Figma, websites, PDF or images in the addon panel.

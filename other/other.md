@@ -365,3 +365,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [mold](https://github.com/rui314/mold) - Modern Linker.
 - [Stedi](https://stedi.com/) - Structured messaging platform for B2B trade.
 - [gorush](https://github.com/appleboy/gorush) - Push notification server written in Go.
+- [Lessons from six months at Shopify (2020)](https://alexdanco.com/2020/10/23/six-lessons-from-six-months-at-shopify/) ([HN](https://news.ycombinator.com/item?id=24876665))
+- [itty.bitty.site](http://itty.bitty.site/) - Tool to create links that contain small sites. ([Code](https://github.com/alcor/itty-bitty/))
+- [Sharkle](https://thesharkle.netlify.app/) - Generator of random awesomeness.

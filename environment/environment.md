@@ -60,3 +60,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Wren](https://projectwren.com/) - Offset your carbon footprint through a monthly subscription.
 - [This website is killing the planet (2020)](https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/) ([Lobsters](https://lobste.rs/s/senzpv/this_website_is_killing_planet))
 - [Website Carbon Calculator](https://www.websitecarbon.com/) - How is your website impacting the planet?
+- [Aerial](https://aerial.is/) - Your Climate Activity Companion.

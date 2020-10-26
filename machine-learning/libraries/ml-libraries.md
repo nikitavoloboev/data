@@ -68,3 +68,6 @@
 - [Linear Models](https://github.com/bashtage/linearmodels) - Add linear models including instrumental variable and panel data models that are missing from statsmodels.
 - [skift](https://github.com/shaypal5/skift) - scikit-learn wrappers for Python fastText.
 - [pulearn](https://github.com/pulearn/pulearn) - Positive-unlabeled learning with Python.
+- [pescador](https://github.com/pescadores/pescador) - Library for streaming (numerical) data, primarily for use in machine learning applications.
+- [TPOT (Tree-based Pipeline Optimization Tool)](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. ([Docs](http://epistasislab.github.io/tpot/))
+- [GraKeL](https://github.com/ysig/GraKeL) - Library that provides implementations of several well-established graph kernels. scikit-learn compatible.

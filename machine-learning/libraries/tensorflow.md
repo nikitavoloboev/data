@@ -57,3 +57,4 @@
 - [TensorFlow Scala](https://github.com/eaplatanios/tensorflow_scala) - TensorFlow API for the Scala Programming Language.
 - [TensorFlow Federated](https://github.com/tensorflow/federated) - Framework for implementing federated learning.
 - [Pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform based on Tensorflow.js.
+- [TensorFlow Compression](https://github.com/tensorflow/compression) - Build your own ML models with end-to-end optimized data compression built in.

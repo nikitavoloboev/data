@@ -88,3 +88,4 @@
 - [Pairing-Based Cryptography Notes](https://crypto.stanford.edu/pbc/)
 - [Pairing-Based Cryptography - Ben Lynn’s PhD Dissertation](https://crypto.stanford.edu/pbc/thesis.html)
 - [MIRACL Core](https://github.com/miracl/core) - Multi-lingual and architecturally agnostic Cryptographic library that supports elliptic curve cryptography, pairing-friendly curve cryptography, RSA, AES symmetric encryption and hash functions.
+- [SCIPR Lab](http://www.scipr-lab.org/) - Multi-institutional academic collaboration of researchers seeking to bring to practice cryptographic proof systems that provide succinct integrity and privacy.

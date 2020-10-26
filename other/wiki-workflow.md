@@ -261,3 +261,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Zetteldeft](https://github.com/EFLS/zetteldeft) - Emacs package for a Zettelkasten system.
 - [Luhmann's Original Zettelkasten Digitalized (2020)](https://niklas-luhmann-archiv.de/bestand/zettelkasten/zettel/ZK_1_NB_1_1_V) ([HN](https://news.ycombinator.com/item?id=24794569))
 - [Walling](https://walling.app/) - Visual Walls to Collect Ideas & Plot out Projects.
+- [How do I work with Obsidian on Mobile? (2020)](https://forum.obsidian.md/t/how-do-i-work-with-obsidian-on-mobile/471)

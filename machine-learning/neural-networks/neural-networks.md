@@ -152,3 +152,5 @@
 - [Neural Circuit Policies Enabling Auditable Autonomy](https://github.com/mlech26l/keras-ncp)
 - [FermiNet: Fermionic Neural Networks](https://github.com/deepmind/ferminet) ([Quantum Physics and Chemistry from First Principles (2020)](https://deepmind.com/blog/article/FermiNet)) ([Tweet](https://twitter.com/deepmind/status/1318257586983096320?s=21))
 - [What is the Role of a Neuron?](https://github.com/davidbau/dissect)
+- [Marabou](https://github.com/NeuralNetworkVerification/Marabou) - SMT-based tool that can answer queries about a network’s properties by transforming these queries into constraint satisfaction problems.
+- [Demonstration of the attention mechanism with some toy experiments and explanations](https://github.com/greentfrapp/attention-primer)

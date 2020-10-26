@@ -16,4 +16,4 @@ Some interesting words I like:
 ## Links
 
 - [Ask HN: I’m already fluent in English. How can I improve further? (2020)](https://news.ycombinator.com/item?id=23016268)
-- [Historical Thesaurus of English](https://ht.ac.uk/)
+- [Historical Thesaurus of English](https://ht.ac.uk/) ([HN](https://news.ycombinator.com/item?id=24867054))

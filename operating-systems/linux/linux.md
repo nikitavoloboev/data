@@ -184,3 +184,4 @@
 - [LFS, round #1 (2020)](https://www.geeklan.co.uk/?p=2620) ([Lobsters](https://lobste.rs/s/qngua4/lfs_round_1))
 - [Sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux.
 - [Linux Commands frequently used by Linux Sysadmins (2020)](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)
+- [Core Wayland protocol and libraries](https://github.com/wayland-project/wayland)

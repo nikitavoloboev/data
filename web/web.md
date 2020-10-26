@@ -176,3 +176,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Fundamentals](https://developers.google.com/web/fundamentals) - Best practices for modern web development. ([Code](https://github.com/google/WebFundamentals))
 - [Why IndieWeb?](https://indieweb.org/why)
 - [New on the web](https://www.industrialempathy.com/new-on-the-web/)
+- [Case study on vanilla web development](https://github.com/morris/vanilla-todo) ([Lobsters](https://lobste.rs/s/5gcrxh/case_study_on_vanilla_web_development))

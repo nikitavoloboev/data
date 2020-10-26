@@ -22,3 +22,5 @@
 - [Tesla Autopilot AI](https://www.tesla.com/autopilotAI)
 - [George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets (2020)](https://www.youtube.com/watch?v=_L3gNaAVjQ4)
 - [Luminar](https://www.luminartech.com/) - Making autonomous transportation safe with long-range, high resolution lidar and perception.
+- [comma.ai](https://comma.ai/) - Open source driving agent that runs on most cars.
+- [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets.

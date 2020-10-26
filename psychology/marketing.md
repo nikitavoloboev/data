@@ -87,6 +87,7 @@
 - [Starting a \$400,000 Side Business in 1 Month (for Free) (2020)](https://www.youtube.com/watch?v=NblHMZbYg-o) - Write outline. Validate idea. Build & share it.
 - [Improve your SaaS conversion rate with 11 onboarding strategies (2020)](https://www.swipe.page/p/improve-your-saas-conversion-rate-with-11-onboarding-strategies)
 - [HubSpot](https://www.hubspot.com/) - Inbound Marketing, Sales, and Service Software.
+- [Keylitic](https://www.keylitic.com/) - Database of trending product keywords.
 
 ## Images
 

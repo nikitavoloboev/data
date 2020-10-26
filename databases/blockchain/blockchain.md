@@ -87,5 +87,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Stateless Blockchain on Substrate using RSA Accumulators](https://github.com/paritytech/stateless-blockchain)
 - [Mina Protocol](https://minaprotocol.com/) - Lightest blockchain, powered by participants.
 - [Agoric](https://agoric.com/) - Secure smart contracts. ([Platform SDK](https://github.com/Agoric/agoric-sdk))
-- [You Don’t Need a Blockchain, You Need a Time-Series Database (2020)](https://thenewstack.io/you-dont-need-a-blockchain-you-need-a-time-series-database/) ([Lobsters](https://lobste.rs/s/n1cuh3/you_don_t_need_blockchain_you_need_time))
+- [You Don’t Need a Blockchain, You Need a Time-Series Database (2020)](https://thenewstack.io/you-dont-need-a-blockchain-you-need-a-time-series-database/) ([Lobsters](https://lobste.rs/s/n1cuh3/you_don_t_need_blockchain_you_need_time)) ([HN](https://news.ycombinator.com/item?id=24887746))
 - [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol.
+- [Ask HN: What are real-life useful use-cases for blockchain (not currencies)? (2020)](https://news.ycombinator.com/item?id=24881140)

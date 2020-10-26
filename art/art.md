@@ -352,3 +352,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [AmorFati](https://amorfati.substack.com/) - Personal mood board of art, poetry, photography, and architecture, that has moved me.
 - [Corruption Is Attractive (2020)](https://venam.nixers.net/blog/programming/2020/10/05/corruption-at-the-core.html)
 - [Art Grab](https://artgrab.co/) - Exclusively license and download images created by world-renowned artists.
+- [Savee](https://savee.it/) - Browse and save curated inspiration from designers over all around the world.

@@ -61,7 +61,7 @@
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
-- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp.
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes))
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
@@ -84,6 +84,8 @@
 - [gorilla/handlers](https://github.com/gorilla/handlers) - Collection of useful middleware for Go HTTP services & web applications.
 - [gorilla/schema](https://github.com/gorilla/schema) - Converts structs to and from form values.
 - [Iris](https://github.com/kataras/iris) - Fastest HTTP/2 Go Web Framework. ([Web](https://www.iris-go.com/))
+- [GoPacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go.
+- [goim](https://github.com/Terry-Mao/goim) - Web server in Go.
 
 ## GraphQL
 
@@ -549,6 +551,8 @@
 - [workerpool](https://github.com/proullon/workerpool) - Auto scaling generic worker pool.
 - [Wabbit](https://github.com/NeowayLabs/wabbit) - Go AMQP mocking library.
 - [goioc/di](https://github.com/goioc/di) - Simple and yet powerful Dependency Injection for Go.
+- [hcl](https://github.com/alecthomas/hcl) - Parsing, encoding and decoding of HCL to and from Go types and an AST.
+- [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters.
 
 ## Links
 

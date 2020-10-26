@@ -559,3 +559,4 @@ Here are few more things I liked, design wise.
 - [Design Site Inspiration](https://twitter.com/steveschoger/status/1215673997725196288?s=20)
 - [Awesome GUI Websites](https://simone.computer/#/awesomegui) - Websites, web apps, portfolios which look like desktop graphical user interfaces. ([Code](https://github.com/syxanash/awesome-gui-websites))
 - [Personal Website Chats](https://www.youtube.com/playlist?list=PLEXbN99LY3OCarUeXcxWeZzOelXQvVdAA)
+- [Lobsters: Rate my Homepage (2020)](https://lobste.rs/s/h9xgpv/rate_my_homepage)

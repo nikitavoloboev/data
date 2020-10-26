@@ -36,6 +36,7 @@
 - [wasgen](https://github.com/andyhall/wasgen) - Web Audio sound generator.
 - [Audiobench](https://github.com/joshua-maros/audiobench) - Open source modular synthesizer.
 - [Edyson](https://github.com/perfall/Edyson) - Tool for exploring audio quickly.
+- [AudioMass](https://audiomass.co/) - Audio Editor.
 
 ## Inspiration
 
@@ -115,3 +116,7 @@
 - [Steinberg](https://www.steinberg.net/en/home.html) - Audio software and hardware solutions.
 - [The Book of Knowledge of Impractical Musical Devices (2020)](https://blog.bela.io/2020/03/06/book-impractical-musical-devices-yann-seznec/)
 - [Augmented Instruments Laboratory](http://instrumentslab.org/)
+- [muda](https://github.com/bmcfee/muda) - Library for augmenting annotated audio data.
+- [librosa](https://github.com/librosa/librosa) - Python package for music and audio analysis.
+- [mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
+- [jams](https://github.com/marl/jams) - JSON Annotated Music Specification for Reproducible MIR Research.

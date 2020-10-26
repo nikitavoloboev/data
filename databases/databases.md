@@ -234,3 +234,4 @@
 - [Cuckoo Index](https://github.com/google/cuckoo-index) - Lightweight Secondary Index Structure.
 - [DBML](https://www.dbml.org/home/) - Database Markup Language. ([Code](https://github.com/holistics/dbml))
 - [MindsDB](https://www.mindsdb.com/) - Open-Source Predictive AI layer for existing databases. ([Docs](https://docs.mindsdb.com/)) ([Docs code](https://github.com/mindsdb/mindsdb-docs)) ([Code](https://github.com/mindsdb/mindsdb))
+- [Migrating Data When You Never Erase History (2020)](https://jorin.me/migrating-data-when-you-never-erase-history/)

@@ -19,6 +19,7 @@
 - [Halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools. ([Docs](https://www.gethalfmoon.com/docs/introduction/))
 - [Sinuous](https://github.com/luwes/sinuous) - Low-level UI library with a tiny footprint. ([Docs](https://sinuous.dev/docs/getting-started/))
 - [Overture](https://github.com/fastmail/overture) - Powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
+- [Lucia](https://github.com/aidenybai/lucia) - Tiny library for tiny web apps. ([Docs](https://lucia.js.org/))
 
 ## Animation
 
@@ -332,6 +333,7 @@
 - [HyperScript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript, on client or server.
 - [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - Terse syntax for hyperscript.
 - [EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - Open source syntax highlighter written in pure javascript.
+- [eslisp](https://github.com/anko/eslisp) - S-expression syntax for JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable.
 
 ## Links
 

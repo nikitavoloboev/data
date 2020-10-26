@@ -57,3 +57,4 @@
 - [go-libp2p-kad-dht](https://github.com/libp2p/go-libp2p-kad-dht) - Kademlia DHT implementation on go-libp2p.
 - [Stealth](https://github.com/tholian-network/stealth) - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy. ([HN](https://news.ycombinator.com/item?id=24816376))
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p) - Rust Implementation of libp2p networking stack.
+- [Publish a Local Webserver using P2P network (2020)](https://support.diode.io/article/ss32engxlq)

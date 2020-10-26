@@ -17,3 +17,4 @@
 - [ActivationFunctions using Custom Layers in Keras](https://github.com/Agrover112/ActivationFunctions)
 - [Training Keras models with TensorFlow Cloud](https://keras.io/guides/training_keras_models_on_cloud/)
 - [Keras Idiomatic Programmer](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
+- [Scikit-Learn Wrapper for Keras](https://github.com/adriangb/scikeras)

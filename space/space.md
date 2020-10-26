@@ -59,9 +59,10 @@
 - [Some Physicists See Signs of Cosmic Strings from the Big Bang (2020)](https://www.quantamagazine.org/pulsar-data-may-point-to-cosmic-strings-from-the-big-bang-20200929/) ([HN](https://news.ycombinator.com/item?id=24628417))
 - [NASA technical note: Lunar sample processing](https://core.ac.uk/download/pdf/42881927.pdf)
 - [100k Stars](http://stars.chromeexperiments.com/) ([HN](https://news.ycombinator.com/item?id=24702874))
-- [Space Engine](http://spaceengine.org/) - Universe simulator. ([HN](https://news.ycombinator.com/item?id=9581818))
+- [Space Engine](http://spaceengine.org/) - Universe simulator. ([HN](https://news.ycombinator.com/item?id=9581818)) ([HN 2](https://news.ycombinator.com/item?id=24881055))
 - [Life on Venus - Deep Dive (2020)](https://www.youtube.com/watch?v=8UJSHKIFiD8)
 - [Astrophotography by Panagiotis Andreou](https://astrotakis.com/)
 - [Elon Musk at 2020 Mars Society Event](https://www.youtube.com/watch?v=Opnk-cPOM50)
 - [Fermi paradox: why haven’t we found aliens yet? (2018)](https://www.vox.com/science-and-health/2018/7/3/17522810/aliens-fermi-paradox-drake-equation) - New paper on the Fermi paradox convincingly shows why we will probably never find aliens.
 - [NASA Asteroid Sample Return Mission](https://www.asteroidmission.org/)
+- [Big Trouble in a Deep Void (2020)](https://tritonstation.com/2020/10/23/big-trouble-in-a-deep-void/)

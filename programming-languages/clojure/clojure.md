@@ -86,3 +86,4 @@
 - [Metosin GitHub projects](https://github.com/metosin) - Small house of programmers, mostly Clojure(Script).
 - [Planet Clojure](http://planet.clojure.in/) - Meta blog that collects posts from the blogs of various Clojure hackers and contributors. ([Code](https://github.com/ghoseb/planet.clojure))
 - [Simulating RAM in Clojure](https://stopa.io/post/258)
+- [Clojure graph resources](https://github.com/simongray/clj-graph-resources) - Curated list of mostly mature and/or actively developed Clojure resources for dealing with graph-like data.

@@ -134,3 +134,5 @@ I publish most of my work and make it open source for other people to use and re
 - [Knightly](https://github.com/knightlyjs/knightly) - Nightly builds for projects and PRs.
 - [First Commit](https://firstcommit.netlify.app/) - Dig up the first commit of any GitHub repo. ([Code](https://github.com/premieroctet/firstcommit))
 - [GitHub Useful Forks](https://payne911.github.io/useful-forks/) - Sorted list of starred forks for a GitHub repo. ([Code](https://github.com/payne911/useful-forks))
+- [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana.
+- [GitHub-DL](https://github.com/achow101/github-dl) - GitHub Repo Full Downloader. Downloads an entire GitHub repository and it's metadata.

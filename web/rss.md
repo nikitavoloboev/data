@@ -60,3 +60,4 @@
 - [Podpodge](https://github.com/reibitto/podpodge) - Convert YouTube playlists to audio-only RSS feeds for podcast apps to consume.
 - [RSS.app](https://rss.app/) - RSS Feed Generator, Create RSS feeds from URL
 - [Hello, RSS (2020)](https://paulstamatiou.com/hello-rss/)
+- [Blogtrottr](https://blogtrottr.com/) - Delivers updates from all of your favourite news, feeds, and blogs directly to your email inbox.

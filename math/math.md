@@ -201,4 +201,6 @@
 - [Isomorphism - Mathematics of Programming book](https://github.com/liuxinyu95/unplugged) - Introduces the mathematics behind computer programming.
 - [Semigroups and Monoids](https://bkase.dev/posts/semigroups-and-monoids) ([Lobsters](https://lobste.rs/s/z0tqte/semigroups_monoids))
 - [Favorite (potentially long) mathematician quotes (2020)](https://twitter.com/3blue1brown/status/1317171780448972800)
-- [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+- [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) ([HN](https://news.ycombinator.com/item?id=24867685))
+- [Ask HN: How do I improve my command of mathematical language? (2020)](https://news.ycombinator.com/item?id=24866734)
+- [Ask HN: Which general programming language is good for learning/exploring math? (2020)](https://news.ycombinator.com/item?id=24884561)

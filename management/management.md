@@ -58,3 +58,5 @@
 - [Estimates in software engineering do more harm than good, and drive people to act in dishonest ways (2020)](https://twitter.com/matryer/status/1313089174321405958)
 - [Four Keys](https://github.com/GoogleCloudPlatform/fourkeys) - Four key metrics that indicate the performance of a software development team.
 - [What is expected of a Engineering Manager? (2020)](http://blog.rlmflores.me/2020/10/14/what_is_expected_of_an_engineering_manager/)
+- [Using NLP to enable flatter organizations](https://middle-out.io/posts/nlp_orgs) ([HN](https://news.ycombinator.com/item?id=24886936))
+- [How Apple Is Organized for Innovation (2020)](https://hbr.org/2020/11/how-apple-is-organized-for-innovation)

@@ -120,7 +120,8 @@
 - [react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React component built on top of the mature drag and drop library, Sortable.
 - [Reactive](https://github.com/kutlugsahin/re-active) - Reactive approach to create React application.
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - React.js reCAPTCHA for Google.
-- [React-Chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React.
+- [React-Chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React. ([HN](https://news.ycombinator.com/item?id=24869897))
+- [react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs.
 
 ## Links
 
@@ -135,3 +136,4 @@
 - [new-component](https://github.com/joshwcomeau/new-component) - Simple, customizable utility for adding new React components to your project.
 - [React View](https://github.com/uber/react-view) - Interactive playground, documentation and code generator for your components.
 - [Anatomy of a Typed React Component (2020)](https://daneden.me/blog/2020/anatomy-of-a-typed-react-component)
+- [Keeping up with React Libraries (2020)](https://maxrozen.com/keeping-up-with-react-libraries/)

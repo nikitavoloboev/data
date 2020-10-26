@@ -18,3 +18,4 @@
 - [My IoT](https://github.com/eigenein/my-iot-rs) - Yet another home automation. Written in Rust. ([Docs](https://eigenein.com/my-iot-rs/html/))
 - [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
 - [Home Assistant Add-ons](https://github.com/home-assistant/hassio-addons) ([Web](https://www.home-assistant.io/hassio/))
+- [Home Assistant CLI](https://github.com/home-assistant/cli)

@@ -19,6 +19,7 @@
 - [Opinionated Next.js Starter with TypeScript, Tailwind, MDX, and decent SEO](https://github.com/joelhooks/next-typescript-tailwind-mdx-starter)
 - [Blog built using TypeScript/Next.js/Tailwind CSS/MDX Remote/Next SEO](https://github.com/BartoszJarocki/web-jarocki-me)
 - [Canvas-based arrows playground](https://github.com/steveruizok/arrows-playground)
+- [Next.js Advanced Starter](https://github.com/agcty/nextjs-advanced-starter) - Use Tailwind CSS, ESLint, Prettier & absolute imports instantly.
 
 ## NextJS plugins
 
@@ -120,3 +121,4 @@
 - [Next page tester](https://github.com/toomuchdesign/next-page-tester) - Enable DOM integration testing on Next.js pages.
 - [Debugging Next.JS (2020)](https://blog.codechem.com/debugging-nextjs)
 - [Next.js - The Data Story (2020)](https://dev.to/dabit3/next-js-the-data-story-2b0d)
+- [useQueryState for Next.js](https://github.com/47ng/next-usequerystate) - Like React.useState, but stored in the URL query string.

@@ -132,3 +132,4 @@
 - [Awesome HPP](https://github.com/p-ranav/awesome-hpp) - Curated list of awesome header-only C++ libraries.
 - [Desktop App Toolkit](https://github.com/desktop-app) - Set of C++ libraries for developing nice desktop applications (by Telegram).
 - [How to export C++ library](https://github.com/robotology/how-to-export-cpp-library) - OS-agnostic C++ library template in plain CMake.
+- [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))

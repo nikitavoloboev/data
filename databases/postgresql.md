@@ -156,3 +156,5 @@
 - [Run PostgreSQL by hands (2019)](https://corpix.dev/2019/02/run-postgresql-by-hands.html)
 - [PostgreSQL Monitoring for Application Developers (2020)](https://info.crunchydata.com/blog/postgresql-monitoring-for-application-developers-dba-stats)
 - [PostgreSQL Feature Matrix](https://www.postgresql.org/about/featurematrix/)
+- [Recurring Events and PostgreSQL (2020)](https://thoughtbot.com/blog/recurring-events-and-postgresql)
+- [What's so exciting about Postgres? With Craig Kerstiens (2020)](https://changelog.com/podcast/417)

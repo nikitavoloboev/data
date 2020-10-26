@@ -33,3 +33,6 @@
 - [BT-Speaker](https://github.com/lukasjapan/bt-speaker) - Simple Bluetooth Speaker Daemon for the Raspberry Pi 3.
 - [Voice-Controlled Raspberry Pi (2020)](https://www.shawenyao.com/Voice-Controlled-Raspberry-Pi/)
 - [faasd - lightweight Serverless for your Raspberry Pi (2020)](https://blog.alexellis.io/faasd-for-lightweight-serverless/)
+- [Putting Raspberry Pi Online with Caddy and SSH Tunnel (2020)](https://gist.github.com/nileshtrivedi/4c615e8d3c1bf053b0d31176b9e69e42) ([HN](https://news.ycombinator.com/item?id=24893615))
+- [Porting Firecracker to a Raspberry Pi 4 (2019)](https://blog.cloudkernels.net/posts/firecracker-rpi4/) ([HN](https://news.ycombinator.com/item?id=24878698))
+- [Use a raspberry-pi 2 as a firewall with FreeBSD (2020)](https://stafwag.github.io/blog/blog/2020/10/25/rpi2_freebsd_firewall/) ([Lobsters](https://lobste.rs/s/ixvxmi/use_raspberry_pi_2_as_firewall_with))
