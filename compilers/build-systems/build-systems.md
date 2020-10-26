@@ -19,7 +19,7 @@
 - [mbt](https://github.com/mbtproject/mbt) - Most flexible build orchestration tool for monorepo.
 - [Earthly](https://github.com/earthly/earthly) - Run all your builds containerized.
 - [Synchronicity](https://github.com/iqlusioninc/synchronicity) - Distributed build system providing cryptographic proofs-of-reproducibility via Byzantine Fault Tolerant (BFT) consensus.
-- [Ninja](https://github.com/ninja-build/ninja) - Small build system with a focus on speed.
+- [Ninja](https://github.com/ninja-build/ninja) - Small build system with a focus on speed. ([ninja: a simple way to do builds](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/))
 - [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html) ([HN](https://news.ycombinator.com/item?id=23157783))
 - [samurai](https://github.com/michaelforney/samurai) - Ninja-compatible build tool written in C99 with a focus on simplicity, speed, and portability.
 - [Apple’s Linker & Deterministic Builds (2020)](https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/)

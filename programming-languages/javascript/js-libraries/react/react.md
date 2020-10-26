@@ -173,3 +173,4 @@
 - [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 - [Building a Pannable, Zoomable Canvas in React (2020)](https://jclem.net/posts/pan-zoom-canvas-react)
 - [Getting Started with Storybook: How to Develop React Components Without an App (2020)](https://welearncode.com/storybook/)
+- [Will this React global state work in Concurrent Mode?](https://github.com/dai-shi/will-this-react-global-state-work-in-concurrent-mode)

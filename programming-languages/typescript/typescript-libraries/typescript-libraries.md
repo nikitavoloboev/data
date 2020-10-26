@@ -62,6 +62,8 @@
 - [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies))
 - [newtype-ts](https://github.com/gcanti/newtype-ts) - Implementation of newtypes in TypeScript.
 - [fluent-builder](https://github.com/develohpanda/fluent-builder) - Typed, fluent builder for generating fixtures in Typescript.
+- [xstate-codegen](https://github.com/mattpocock/xstate-codegen) - Gives you 100% type-safe usage of XState in Typescript.
+- [useFsmReducer](https://github.com/mattpocock/use-fsm-reducer) - useReducer for state machine enthusiasts.
 
 ## Links
 

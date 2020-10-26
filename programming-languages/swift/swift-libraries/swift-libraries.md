@@ -458,6 +458,8 @@
 - [BigInt](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic in pure Swift.
 - [NWWebSocket](https://github.com/pusher/NWWebSocket) - WebSocket client written in Swift, using the Network framework from Apple.
 - [Fuse Swift](https://github.com/krisk/fuse-swift) - Lightweight fuzzy-search library, with zero dependencies.
+- [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing.
+- [Burritos](https://github.com/guillermomuntaner/Burritos) - Collection of well tested Swift Property Wrappers.
 
 ## Other (not lib)
 

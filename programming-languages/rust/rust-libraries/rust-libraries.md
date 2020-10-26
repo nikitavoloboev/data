@@ -54,6 +54,7 @@
 - [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
 - [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications.
+- [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
 
 ## DB
 
@@ -491,6 +492,9 @@
 - [inline-c](https://github.com/Hywan/inline-c-rs) - Write and execute C code inside Rust.
 - [includedir](https://github.com/tilpner/includedir) - Include a whole directory tree at compile time.
 - [strsim-rs](https://github.com/dguo/strsim-rs) - Rust implementations of string similarity metrics.
+- [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
+- [OpenTelemetry-Rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust.
+- [cap-std](https://github.com/sunfishcode/cap-std) - Capability-oriented version of the Rust standard library.
 
 ## Cargo Plugins
 

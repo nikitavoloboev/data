@@ -133,3 +133,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Swiss army knife of lossless video/audio editing. ([HN](https://news.ycombinator.com/item?id=24883030))
 - [youtube-dl](https://youtube-dl.org/) - Command-line program to download videos from YouTube.com and a few more sites. ([Code](https://github.com/youtube-dl2/youtube-dl))
 - [LiveGo](https://github.com/gwuhaolin/livego) - Simple and efficient live broadcast server in Go.
+- [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in JavaScript.
+- [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.

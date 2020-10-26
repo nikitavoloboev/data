@@ -334,6 +334,8 @@
 - [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - Terse syntax for hyperscript.
 - [EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - Open source syntax highlighter written in pure javascript.
 - [eslisp](https://github.com/anko/eslisp) - S-expression syntax for JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable.
+- [Smoldash](https://github.com/marvinhagemeister/smoldash) - Tiny lodash alternative built for the modern web.
+- [TypewriterJS](https://github.com/tameemsafi/typewriterjs) - Simple yet powerful native javascript plugin for a cool typewriter effect.
 
 ## Links
 

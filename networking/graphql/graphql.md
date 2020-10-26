@@ -144,3 +144,4 @@
 - [GraphQL HTTP Server Middleware](https://github.com/graphql/express-graphql) - Create a GraphQL HTTP server with Express.
 - [graphql-let](https://github.com/piglovesyou/graphql-let) - Tool to get results of GraphQL code generator closer to you with types.
 - [GraphQL Workshop by Eve Porcello](https://www.graphqlworkshop.com/)
+- [How to Create Nuxt App with GraphQL and Hasura (2020)](https://www.netlify.com/blog/2020/10/26/graphql-with-hasura-and-nuxt/)

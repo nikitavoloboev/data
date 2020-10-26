@@ -37,3 +37,4 @@
 - [Hosted Export](https://www.figma.com/community/plugin/886688414738743606/Hosted-Export) - Allows you to copy hosted image URLs for any frame inside Figma.
 - [Figma Plugins Stats](https://github.com/yuanqing/figma-plugins-stats) - CLI to get live and historical stats for your Figma plugins.
 - [Guide Mate](https://github.com/praneshr/guidemate) - Figma plugin which helps you to add condition based grids to your designs.
+- [Figma Plugin React Template](https://github.com/mattpocock/figma-xstate-plugin)

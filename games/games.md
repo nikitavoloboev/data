@@ -62,6 +62,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Ninja vs EVILCORP](https://github.com/remvst/ninja) - Platformer inspired by Super Meat Boy, Stealth Bastard Deluxe, and other great similar games.
 - [Sulis](https://github.com/Grokmoo/sulis) - Turn based tactical RPG with several campaigns, written in Rust. ([Web](https://www.sulisgame.com/))
 - [Various browser games](https://crypto.stanford.edu/~blynn/play/)
+- [Seeds Game](https://www.seedsgame.com/) - Collect seeds, save the world. ([Code](https://github.com/andrewMacmurray/seeds-game))
 
 ## Awesome games (other)
 

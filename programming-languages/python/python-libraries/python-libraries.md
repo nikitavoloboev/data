@@ -180,6 +180,7 @@
 - [pdpipe](https://github.com/pdpipe/pdpipe) - Easy pipelines for pandas DataFrames.
 - [Typing Inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module.
 - [Scalpl](https://github.com/ducdetronquito/scalpl) - Lightweight wrapper to operate on nested dictionaries seamlessly.
+- [JSONStreams](https://github.com/dcbaker/jsonstreams) - Python library for writing JSON documents as streams.
 
 ## Links
 

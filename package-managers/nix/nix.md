@@ -100,6 +100,7 @@
 - [Nixology (2020)](https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs) - Series of videos I've been releasing within Shopify to help promote and educate about Nix.
 - [Nix function to easily create derivations (packages) to install binaries from location](https://twitter.com/mitchellh/status/1259521715211657216)
 - [What Is Nix (2020)](https://engineering.shopify.com/blogs/engineering/what-is-nix) ([HN](https://news.ycombinator.com/item?id=23251754)) ([Lobsters](https://lobste.rs/s/bgwsd8/what_is_nix))
+- [What Is Nix and Why You Should Use It (2020)](https://serokell.io/blog/what-is-nix)
 - [comma](https://github.com/Shopify/comma) - Runs software without installing it. Wraps together nix run and nix-index.
 - [nix-derivation](https://github.com/Gabriel439/Haskell-Nix-Derivation-Library) - Parse and render \*.drv files.
 - [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - CI friendly wrapper around nix-build.

@@ -122,6 +122,7 @@
 - [react-recaptcha](https://github.com/appleboy/react-recaptcha) - React.js reCAPTCHA for Google.
 - [React-Chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React. ([HN](https://news.ycombinator.com/item?id=24869897))
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs.
+- [jsxui](https://github.com/souporserious/jsxui) - Primitive elements to build isomorphic user interfaces in React.
 
 ## Links
 

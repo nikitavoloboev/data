@@ -83,3 +83,4 @@
 - [The Long Road to HTTP/3 (2020)](https://scorpil.com/post/the-long-road-to-http3/) ([Lobsters](https://lobste.rs/s/knfugz/long_road_http_3)) ([HN](https://news.ycombinator.com/item?id=24834767))
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [Scriproxy](https://github.com/kkty/scriproxy) - Easy-to-use dynamic(scriptable) reverse proxy server.
+- [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection.

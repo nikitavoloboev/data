@@ -50,3 +50,4 @@
 - [Lecture notes on RISC-V assembly](https://web.eecs.utk.edu/~smarz1/courses/ece356/notes/assembly/) ([HN](https://news.ycombinator.com/item?id=24810604))
 - [narvie](https://github.com/physical-computation/narvie) - Native REPL for RISC-V Instructions.
 - [OCaml RISC-V Extension](https://github.com/patricoferris/riscv-o-spec)
+- [Parsing RISC-V assembly (2020)](https://web.eecs.utk.edu/~azh/blog/parsingriscv.html)

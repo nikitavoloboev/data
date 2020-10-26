@@ -42,3 +42,4 @@
 - [Issue #40: Functional programming in Elm (2020)](https://elmbits.com/issue-40-functional-programming/)
 - [Elm Bits](https://elmbits.com/) - Free weekly newsletter about Elm.
 - [Elm Shared State example](https://github.com/ohanhi/elm-shared-state) - Example for organizing large Single-Page Applications (SPAs) in Elm.
+- [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code.

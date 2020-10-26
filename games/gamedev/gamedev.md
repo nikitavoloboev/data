@@ -15,6 +15,7 @@
 - [Nolla Games](https://nollagames.com/)
 - [Beamdog](https://www.beamdog.com/)
 - [Unknown Worlds](https://unknownworlds.com/)
+- [Hive Games](https://hivegames.io/)
 
 ## Notes
 
