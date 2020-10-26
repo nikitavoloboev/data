@@ -19,3 +19,4 @@
 - [Awesome Home Assistant](https://github.com/frenck/awesome-home-assistant)
 - [Home Assistant Add-ons](https://github.com/home-assistant/hassio-addons) ([Web](https://www.home-assistant.io/hassio/))
 - [Home Assistant CLI](https://github.com/home-assistant/cli)
+- [Home Assistant Operating System](https://github.com/home-assistant/operating-system) - Operating system optimized for hosting Home Assistant and its Add-ons.

@@ -61,3 +61,4 @@
 - [The accelerating adoption of Julia (2020)](https://lwn.net/SubscriberLink/834571/e8d7adc0d9b669bc/) ([HN](https://news.ycombinator.com/item?id=24839744))
 - [Why Does Julia Work So Well?](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia) ([HN](https://news.ycombinator.com/item?id=24846033))
 - [Guide to distributed computing in Julia](https://github.com/juliohm/julia-distributed-computing)
+- [Julia: Dynamism and Performance Reconciled by Design (2018)](https://dl.acm.org/doi/pdf/10.1145/3276490) ([HN](https://news.ycombinator.com/item?id=24864087))

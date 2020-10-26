@@ -80,3 +80,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vimscript Language Server](https://github.com/google/vimscript-language-server)
 - [Vim Registers: What, How, and Macros (2020)](https://www.youtube.com/watch?v=Q5eDxR7bU2k)
 - [GoNeovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Go, using a Qt binding for Go.
+- [pyvim](https://github.com/prompt-toolkit/pyvim) - Pure Python Vim clone.

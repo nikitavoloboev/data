@@ -230,7 +230,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq))
 - [Sharing knowledge in a remote team, across timezones (2020)](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/) ([HN](https://news.ycombinator.com/item?id=24021103))
 - [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
-- [Dendron](https://www.dendron.so/) - Local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. ([Code](https://github.com/dendronhq/dendron)) ([HN](https://news.ycombinator.com/item?id=24898373))
+- [Dendron](https://www.dendron.so/) - Local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. ([Code](https://github.com/dendronhq/dendron)) ([HN](https://news.ycombinator.com/item?id=24898373)) ([Hierarchical Tool for Thought](https://www.kevinslin.com/notes/127a3230-4484-433a-b97f-178679564207.html))
 - [If you take notes, which note-taking tool do you use? (2020)](https://twitter.com/anthilemoon/status/1291646162919993344)
 - [Building my personal knowledge repository (2020)](https://notes.nickbelzer.me/topics/2020/05/12/building-my-personal-knowledge-repository.html)
 - [An Iterative Approach to Notes (2020)](https://medium.com/@bytebase/an-iterative-approach-to-notes-f1c2a28c4d29) ([HN](https://news.ycombinator.com/item?id=24108466))

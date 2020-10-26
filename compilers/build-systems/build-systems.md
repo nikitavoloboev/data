@@ -17,7 +17,7 @@
 - [Automation and Make](https://swcarpentry.github.io/make-novice/)
 - [Meson](https://github.com/mesonbuild/meson) - Project to create the best possible next-generation build system. ([Article](https://nibblestew.blogspot.com/2020/10/cargo-style-dependency-management-for-c.html)) ([HN](https://news.ycombinator.com/item?id=24845031))
 - [mbt](https://github.com/mbtproject/mbt) - Most flexible build orchestration tool for monorepo.
-- [Earthly](https://github.com/earthly/earthly) - Run all your builds containerized.
+- [Earthly](https://github.com/earthly/earthly) - Run all your builds containerized. ([Web](https://www.earthly.dev/))
 - [Synchronicity](https://github.com/iqlusioninc/synchronicity) - Distributed build system providing cryptographic proofs-of-reproducibility via Byzantine Fault Tolerant (BFT) consensus.
 - [Ninja](https://github.com/ninja-build/ninja) - Small build system with a focus on speed. ([ninja: a simple way to do builds](https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/))
 - [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html) ([HN](https://news.ycombinator.com/item?id=23157783))

@@ -83,3 +83,4 @@
 - [Remote Work Jobs](https://remoteworkjobs.io/) - Simple remote work jobs board.
 - [Remotely People](https://remotelypeople.com/) - Worldwide Remote jobs in design, marketing, programming.
 - [Workaline.com](https://workaline.com/) - Remote job board.
+- [Remote team bonding ideas (2020)](https://twitter.com/louispilfold/status/1320740516053590016)

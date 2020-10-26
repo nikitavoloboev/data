@@ -94,3 +94,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [@eth-optimisim/smock](https://github.com/ethereum-optimism/smock/) - Utility package that can generate mock Solidity contracts (for testing).
 - [Looking at ownership in the EVM (2018)](https://medium.com/@kelvinfichter/looking-at-ownership-in-the-evm-6e6914d341d)
 - [What’s a Sparse Merkle Tree? (2018)](https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837)
+- [Rosetta Ethereum](https://github.com/coinbase/rosetta-ethereum) - Ethereum Rosetta API Implementation.
