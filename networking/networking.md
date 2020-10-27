@@ -152,3 +152,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [BPF, XDP, Packet Filters and UDP (2020)](https://fly.io/blog/bpf-xdp-packet-filters-and-udp/) ([Tweet](https://twitter.com/tqbf/status/1318908202994573314))
 - [Hermes](https://github.com/George3d6/Hermes) - Minimalist, easy to deploy, dependency free file server written in go.
 - [CDN Geolocation](https://github.com/redirect2me/cdn-geolocation) - Geolocation API via HTTP headers from a CDN, currently supporting AWS Cloudfront, Cloudflare, Fastly and Google AppEngine.
+- [remotemoe](https://github.com/fasmide/remotemoe) - Software daemon for exposing ad-hoc services to the internet without having to deal with the regular network stuff such as configuring VPNs, changing firewalls, or adding port forwards.

@@ -24,7 +24,7 @@
 - [Bull](https://github.com/optimalbits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.
-- [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Website](https://nestjs.com/))
+- [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Website](https://nestjs.com/)) ([Awesome](https://github.com/juliandavidmr/awesome-nestjs))
 - [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
 - [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs)
 - [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.
@@ -124,3 +124,4 @@
 - [npm-diff](https://github.com/juliangruber/npm-diff) - Diff two versions of a node module.
 - [Esbuilt optimizer](https://github.com/remorses/vite-esbuild-optimizer) - Convert your dependencies to ESM bundles using esbuild.
 - [Why Node isn't exiting?](https://github.com/myndzi/wtfnode)
+- [fast-csv](https://github.com/C2FO/fast-csv) - Library for parsing and formatting CSVs or any other delimited value file in node.
