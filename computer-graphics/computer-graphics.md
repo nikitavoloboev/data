@@ -100,3 +100,5 @@
 - [Will Usher's research](https://www.willusher.io/)
 - [Graphics Samples of Jiayin Cao](https://github.com/JiayinCao/Graphics-Samples)
 - [Jiayin Cao Graphics Notes Blog](https://agraphicsguynotes.com/posts/)
+- [Text layout is a loose hierarchy of segmentation (2020)](https://raphlinus.github.io/text/2020/10/26/text-layout.html) ([HN](https://news.ycombinator.com/item?id=24906010))
+- [Bundler](https://github.com/snavely/bundler_sfm) - Bundler Structure from Motion Toolkit.

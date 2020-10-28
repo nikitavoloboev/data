@@ -53,7 +53,7 @@
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
 - [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
-- [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications.
+- [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://www.sixtyfps.io/)) ([HN](https://news.ycombinator.com/item?id=24919571))
 - [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
 
 ## DB
@@ -515,6 +515,7 @@
 - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling mistakes.
 - [cargo-lipo](https://github.com/TimNN/cargo-lipo) - Cargo subcommand to automatically create universal libraries for iOS.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion.
+- [rust-script](https://github.com/fornwall/rust-script) - Rust files and expressions as scripts without any setup or compilation step. ([Web](https://rust-script.org/))
 
 ## Links
 
@@ -532,3 +533,4 @@
 - [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - Tool for managing cargo workspaces and their packages, inspired by lerna.
 - [cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
+- [Ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry.

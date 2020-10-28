@@ -43,6 +43,7 @@
 - [Cell Press: Neuron](https://www.cell.com/neuron/home) - Biweekly peer-reviewed scientific journal. Covers neuroscience and related biological processes.
 - [Neuromatch](https://neuromatch.io/) - Conference made for the whole neuroscience community.
 - [Cortical Circuitry book (2017)](http://corticalcircuitry.com/) - Provides a readable account of how the neocortex works.
+- [Deep Neural Networks Help to Explain Living Brains (2020)](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
 
 ## Images
 

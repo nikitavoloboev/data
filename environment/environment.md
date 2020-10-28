@@ -61,3 +61,6 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [This website is killing the planet (2020)](https://visitmy.website/2020/07/13/this-website-is-killing-the-planet/) ([Lobsters](https://lobste.rs/s/senzpv/this_website_is_killing_planet))
 - [Website Carbon Calculator](https://www.websitecarbon.com/) - How is your website impacting the planet?
 - [Aerial](https://aerial.is/) - Your Climate Activity Companion.
+- [Mossy Earth](https://www.mossy.earth/) - Rewilding and Reforestation Membership.
+- [Thinking about climate change (2020)](https://st.im/thinking-about-climate-change/)
+- [Stripe Climate](https://stripe.com/climate) ([HN](https://news.ycombinator.com/item?id=24919006))

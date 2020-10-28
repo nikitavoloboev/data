@@ -135,3 +135,6 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [LiveGo](https://github.com/gwuhaolin/livego) - Simple and efficient live broadcast server in Go.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in JavaScript.
 - [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
+- [Frame.io](https://frame.io/) - Video Review and Collaboration Software.
+- [stream.new](https://stream.new/) - Add a video. Get a shareable link to stream it. ([Code](https://github.com/muxinc/stream.new))
+- [Video.js](https://github.com/videojs/video.js) - HTML5 Video Player.

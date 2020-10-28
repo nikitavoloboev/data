@@ -19,7 +19,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
   - [Augur Today](http://www.augur.today/)
 - [Drizzle](https://github.com/trufflesuite/drizzle) - Reactive Ethereum datastore for dapp UIs.
 - [Status](https://status.im/) - Secure messaging app, crypto wallet, and Web3 browser built with state of the art technology. ([Code](https://github.com/status-im/status-react))
-- [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information.
+- [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information. ([Code](https://github.com/ethhub-io/ethhub))
 - [Urbit](https://github.com/urbit/urbit) - Urbit virtual machine.
 - [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
@@ -98,3 +98,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [multiproof.rs](https://github.com/gballet/multiproof-rs) - Rust implementation of Alexey Akhunov's multiproof algorithm.
 - [Notional Finance](https://notional.finance/) - Fixed rate lending and borrowing protocol on Ethereum. ([Code](https://github.com/notional-finance/contracts))
 - [List of 4byte identifiers to common smart contract functions](https://github.com/ethereum-lists/4bytes)
+- [Balancer](https://balancer.finance/) - Non-custodial portfolio manager, liquidity provider, and price sensor. ([Pool management](https://pools.balancer.exchange/#/)) ([GitHub](https://github.com/balancer-labs))

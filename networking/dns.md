@@ -14,7 +14,7 @@
 - [A Cat Explains DNS (2017)](https://www.youtube.com/watch?v=4ZtFk2dtqv0)
 - [octoDNS](https://github.com/github/octodns) - Tools for managing DNS across multiple providers.
 - [Gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
-- [CoreDNS](https://github.com/coredns/coredns) - DNS server that chains plugins.
+- [CoreDNS](https://github.com/coredns/coredns) - DNS server that chains plugins. ([Web](https://coredns.io/))
 - [How we optimized our DNS server using go tools (2020)](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
 - [A warm welcome to DNS](https://powerdns.org/hello-dns/) - Attempts to provide a correct introduction to the Domain Name System as of 2018.
 - [Public Zone Database (ZoneDB)](https://github.com/zonedb/zonedb) - Contains a list and associated metadata of public DNS zones.
@@ -51,3 +51,4 @@
 - [Oblivious DoH Library](https://github.com/chris-wood/odoh)
 - [Which DNS servers are you pointing to?](https://which.nameserve.rs/) ([HN](https://news.ycombinator.com/item?id=24886120)) ([Code](https://github.com/redirect2me/which-dns))
 - [Resolve.rs](https://resolve.rs/) - Troubleshooting website for network and DNS issues. ([Code](https://github.com/redirect2me/resolvers))
+- [DNS Trends (2020)](https://www.potaroo.net/ispcol/2020-10/trends.html)

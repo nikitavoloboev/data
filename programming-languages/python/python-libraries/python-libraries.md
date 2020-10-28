@@ -42,6 +42,7 @@
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 - [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.
 - [ormar](https://github.com/collerek/ormar) - Async mini ORM for Python, with support for Postgres, MySQL, and SQLite.
+- [yoyo-migrations](https://pypi.org/project/yoyo-migrations/) - Database schema migration tool. Database migrations can be written as SQL files or Python scripts.
 
 ## GUI
 

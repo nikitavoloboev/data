@@ -16,3 +16,4 @@
 - [Edward2](https://github.com/google/edward2) - Simple probabilistic programming language.
 - [MCX](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference on CPU & GPU. Powered by JAX. ([Intro](https://rlouf.github.io/post/introduce_mcx/))
 - [Soss](https://github.com/cscherrer/Soss.jl) - Julia library for probabilistic programming via source rewriting.
+- [Orbit](https://github.com/uber/orbit) - Python package for time series modeling and inference using Bayesian sampling methods for model estimation. ([Docs](https://uber.github.io/orbit/))

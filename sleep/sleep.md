@@ -19,9 +19,11 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Ask HN: Best sleep trackers? (2020)](https://news.ycombinator.com/item?id=22685537)
 - [HN: Deep Sleep May Help the Brain Clear Alzheimer's Toxins (2020)](https://news.ycombinator.com/item?id=21414565)
 - [Pod Pro](https://www.eightsleep.com/eight-pod-sleep-cool/) - Smart cooling mattress.
+- [Pod Pro Cover](https://www.eightsleep.com/product/pod-pro-cover/)
 - [The Effects on Cognition of Sleeping 4 Hours per Night for 12-14 Days (2020)](https://guzey.com/science/sleep/14-day-sleep-deprivation-self-experiment/) ([HN](https://news.ycombinator.com/item?id=23211068))
 - [Dealing With Insomnia (2020)](https://jacquesmattheij.com/dealing-with-insomnia/) ([HN](https://news.ycombinator.com/item?id=23810506))
 - [Not everyone needs 8 hours of sleep: new research](https://time.com/5876614/circadian-rhythm-study/) ([HN](https://news.ycombinator.com/item?id=24170225))
 - [Bedroom Tech (2020)](https://twitter.com/nateliason/status/1309119185646161920)
 - [The Stages of Insomnia](https://www.mcsweeneys.net/articles/the-52-stages-of-insomnia) ([HN](https://news.ycombinator.com/item?id=24781337))
 - [11 Exercises For Better Sleep (2020)](https://www.nytimes.com/2020/10/10/at-home/exercises-for-better-sleep.html)
+- [Optimal sleep habits—Lessons learned (2020)](https://medium.com/@yangWao/optimal-sleep-habits-lessons-learned-8c097e3d3b8c)

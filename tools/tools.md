@@ -285,6 +285,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
 - [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.
 - [jazz rooms](https://jazz.ninja/)
+- [CloudSynth](https://cloudsynth.com/) - Inbox Zero for Teams.
 - [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
 - [Formito](https://formito.com/) - Create Forms that Feel Like an App.
 - [Indent](https://indent.com/) - Access requests made easy.
@@ -348,6 +349,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [NeuraCache](https://neuracache.com/) - Take notes & highlights, clip articles & screenshots using your favorite tool.
 - [Uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 - [SAO](https://github.com/saojs/sao) - Futuristic scaffolding tool. ([Docs](https://saojs.org/))
+- [Perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome. ([Web](https://perfetto.dev/))
 
 ## Notes
 
@@ -400,3 +402,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tools for Conviviality (1973)](http://www.davidtinapple.com/illich/1973_tools_for_convivality.html)
 - [Gitlab: Tech Stack (2020)](https://about.gitlab.com/handbook/business-ops/tech-stack/) ([HN](https://news.ycombinator.com/item?id=24868415))
 - [Open source, experimental, and tiny tools roundup](https://github.com/everestpipkin/tools-list) - Smaller tools that might be useful in building your game/website/interactive project.
+- [When is no-code useful? (2020)](https://linus.coffee/note/no-code/) ([HN](https://news.ycombinator.com/item?id=24914062))

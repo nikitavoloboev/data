@@ -233,3 +233,6 @@
 - [Kubernetes Enhancements](https://github.com/kubernetes/enhancements)
 - [kubeaudit](https://github.com/Shopify/kubeaudit) - Command line tool and a Go package to audit Kubernetes clusters for various different security concerns.
 - [CustomResourceDefinitions Automatic Docs](https://doc.crds.dev/) ([Code](https://github.com/crdsdev/doc))
+- [Modernizing the Tech Stack for a B2B SaaS Product Running on Bare Metal (2020)](https://www.aislelabs.com/blog/2020/10/23/modernizing-the-tech-stack-for-a-b2b-saas-product-running-on-bare-metal/)
+- [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices. ([Docs](https://www.botkube.io/))
+- [Isopod](https://github.com/cruise-automation/isopod) - Expressive DSL and framework for Kubernetes configuration without YAML.

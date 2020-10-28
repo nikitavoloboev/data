@@ -130,6 +130,8 @@
 - [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise.
 - [Moritz Systems](https://www.moritz.systems/) - Code Security, Embedded Solutions, IOT and Edge Computing.
 - [LateCheckout](https://withlatecheckout.com/) - Communities design firm.
+- [Underjord](https://underjord.io/) - Artisanal software development, quality productions and some teaching.
+- [Strumenta](https://strumenta.com/)
 
 ## Links
 

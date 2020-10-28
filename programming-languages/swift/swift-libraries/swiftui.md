@@ -102,3 +102,5 @@
 - [Going native: SwiftUI from the perspective of a React developer (2020)](https://blog.maximeheckel.com/posts/swiftui-as-react-developer)
 - [Debating if I’ll use SwiftUI for my new project. Worried I’ll be a lot slower and will run into issues that force me to redo parts in UIKit (2020)](https://twitter.com/soffes/status/1308149148009472001)
 - [Nice SwiftUI books (2020)](https://twitter.com/drewmccormack/status/1314289042037514241)
+- [SwiftUI State Management Fundamentals (2020)](https://mykola-harmash.medium.com/swiftui-state-management-fundamentals-5b28d2522e4d)
+- [SwiftUI Learning Resources](https://www.notion.so/SwiftUI-16ae61e922684ba08f870a5f22ef017b)

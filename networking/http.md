@@ -84,3 +84,4 @@
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [Scriproxy](https://github.com/kkty/scriproxy) - Easy-to-use dynamic(scriptable) reverse proxy server.
 - [teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection.
+- [Writing a Fast HTTP Parser (2015)](https://httpwork.shop/workshop2015/presentations/oku-picohttpparser.pdf) ([Lobsters](https://lobste.rs/s/rh6bau/writing_fast_http_parser))

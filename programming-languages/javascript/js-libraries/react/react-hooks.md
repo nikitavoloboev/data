@@ -62,6 +62,7 @@
 - [use-state-with-deps](https://github.com/peterjuras/use-state-with-deps) - React hook to use state and reset with dependencies.
 - [react-time-sync](https://github.com/peterjuras/react-time-sync) - React library to synchronize timers across an application.
 - [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints.
+- [React UseGesture](https://github.com/pmndrs/react-use-gesture) - Hook that lets you bind richer mouse and touch events to any component or view.
 
 ## Notes
 

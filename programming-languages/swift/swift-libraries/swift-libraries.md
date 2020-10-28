@@ -17,6 +17,7 @@
 - [Alomofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking.
 - [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
 - [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift.
+- [AFNetworking](https://github.com/AFNetworking/AFNetworking) - Delightful networking framework for iOS, macOS, watchOS, and tvOS.
 
 ## iOS
 

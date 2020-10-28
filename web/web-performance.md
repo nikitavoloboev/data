@@ -103,4 +103,5 @@
 - [Sitejoy](https://www.sitejoy.dev/) - Fast & responsive websites that will bring you joy.
 - [A Bit of Performance (2019)](https://www.kizu.ru/a-bit-of-performance/)
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions.
-- [Next.js Analytics](https://nextjs.org/analytics) - Provides your Real Experience Score through data from actual visitors.
+- [Next.js Analytics](https://nextjs.org/analytics) - Provides your Real Experience Score through data from actual visitors. ([HN](https://news.ycombinator.com/item?id=24908819))
+- [Request Metrics](https://requestmetrics.com/) - Website performance monitoring.

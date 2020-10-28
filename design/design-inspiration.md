@@ -307,6 +307,7 @@ Here are few more things I liked, design wise.
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
 - [David Ross](https://djr.com/)
+- [Fran Perez](https://franperez.me/)
 - [Andrew Kensler](http://eastfarthing.com/blog/index.html)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
@@ -504,6 +505,7 @@ Here are few more things I liked, design wise.
 - [Sarah Drasner](https://sarah.dev/)
 - [Brandon Weiss](https://brandonweiss.me/)
 - [Brandon Dail](https://brandondail.com/)
+- [Bjango Articles](https://bjango.com/articles/)
 - [Luuk de Vlieger](https://www.luuk.site/)
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 - [Karolina](https://thefox.is/)

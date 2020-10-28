@@ -46,3 +46,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Bracket Cheat Sheet](https://wizardzines.com/comics/brackets-cheatsheet/)
 - [Bash Error Handling](https://wizardzines.com/comics/bash-errors/) ([HN](https://news.ycombinator.com/item?id=24727495))
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - Foreign function interface for bash. ([HN](https://news.ycombinator.com/item?id=24738814))
+- [DevHints Bash Cheat Sheet](https://devhints.io/bash)

@@ -158,3 +158,5 @@
 - [PostgreSQL Feature Matrix](https://www.postgresql.org/about/featurematrix/)
 - [Recurring Events and PostgreSQL (2020)](https://thoughtbot.com/blog/recurring-events-and-postgresql)
 - [What's so exciting about Postgres? With Craig Kerstiens (2020)](https://changelog.com/podcast/417)
+- [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://info.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
+- [Protocol Buffer extension for PostgreSQL](https://github.com/mpartel/postgres-protobuf)

@@ -76,3 +76,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Jamie Windsor YouTube](https://www.youtube.com/jamiewindsor)
 - [What storage platforms do you use to for pictures or storing family stuff (2020)](https://lobste.rs/s/aa7mkn/what_storage_platforms_do_you_use_for)
 - [Notes on Exposure](https://bismuth.garden/exposure)
+- [Pixelfed](https://pixelfed.social/) - Image sharing platform, an ethical alternative to centralized platforms.

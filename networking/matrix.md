@@ -27,7 +27,7 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Matrix Blog](https://matrix.org/blog/posts/)
 - [The 2018 Matrix Holiday Special](https://matrix.org/blog/2018/12/25/the-2018-matrix-holiday-special/)
 - [HN: The Matrix.org 2018 year in review](https://news.ycombinator.com/item?id=18756787)
-- [Nio](https://github.com/kiliankoe/nio) - Upcoming matrix client for iOS.
+- [Nio](https://github.com/niochat/nio) - Upcoming matrix client for iOS.
 - [Dendrite design](https://github.com/matrix-org/dendrite/blob/master/docs/DESIGN.md)
 - [Dendrite checklist](https://docs.google.com/spreadsheets/d/1tkMNpIpPjvuDJWjPFbw_xzNzOHBA-Hp50Rkpcr43xTw) - API to finish for release.
 - [Running your own secure communication service with Matrix and Jitsi (2020)](https://matrix.org/blog/2020/04/06/running-your-own-secure-communication-service-with-matrix-and-jitsi) ([HN](https://news.ycombinator.com/item?id=22802645))

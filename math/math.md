@@ -205,3 +205,4 @@
 - [Ask HN: How do I improve my command of mathematical language? (2020)](https://news.ycombinator.com/item?id=24866734)
 - [Ask HN: Which general programming language is good for learning/exploring math? (2020)](https://news.ycombinator.com/item?id=24884561)
 - [Theta](http://thetamath.com/) - Web app that graphs an equation and allows you to pan and zoom around the coordinate grid. ([Code](https://github.com/evanw/theta))
+- [Algebraic Stacks Project](https://stacks.math.columbia.edu/) - Collaborative web-based project writing a text book on algebraic stacks and the algebraic geometry that is needed to define them. ([Code](https://github.com/stacks/stacks-project))

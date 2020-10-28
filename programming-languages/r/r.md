@@ -28,3 +28,6 @@
 - [Tidy Modeling with R](https://www.tmwr.org/)
 - [Torch](https://github.com/mlverse/torch) - PyTorch port using LibTorch for R. ([Intro](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/))
 - [coro](https://github.com/r-lib/coro) - Coroutines for R.
+- [purrr](https://github.com/tidyverse/purrr) - Functional programming toolkit for R. ([Web](https://purrr.tidyverse.org/))
+- [ggplot2](https://github.com/tidyverse/ggplot2) - Implementation of the Grammar of Graphics in R.
+- [Tidyverse](https://www.tidyverse.org/) - Opinionated collection of R packages designed for data science. ([GitHub](https://github.com/tidyverse))

@@ -67,6 +67,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 ## Awesome games (other)
 
 - [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609))
+- [Tabletop Simulator](https://tabletopsimulator.com/) ([HN](https://news.ycombinator.com/item?id=24906634))
 
 ## Other
 

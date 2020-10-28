@@ -142,3 +142,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Relay FM](https://www.relay.fm/) - Independent podcast network for people who are creative, curious, and maybe even a little obsessive.
 - [How To Start and Grow a Podcast with David Perrell, Jeff Umbro, and Sachit Gupta (2020)](https://overcast.fm/+LDKdlTNzs)
 - [Brett’s 2020 Podcasting Setup](https://brettterpstra.com/2020/08/17/bretts-2020-podcasting-setup/)
+- [Artifact](https://www.heyartifact.com/) - Personal podcasts with the people in your life. ([HN](https://news.ycombinator.com/item?id=24919931))

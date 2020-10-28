@@ -120,3 +120,4 @@
 - [Infinite Parallel Universes: State at the Edge (2020)](https://www.infoq.com/presentations/architecture-global-scale/) ([Summary](https://twitter.com/embano1/status/1318277850613600257))
 - [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [How you could have come up with Paxos yourself (2020)](https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html) ([HN](https://news.ycombinator.com/item?id=24906225))
+- [Grafana Tempo](https://github.com/grafana/tempo) - Open source, easy-to-use and high-scale distributed tracing backend. ([Web](https://grafana.com/oss/tempo/)) ([Announcement](https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/)) ([HN](https://news.ycombinator.com/item?id=24919464))

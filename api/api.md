@@ -45,6 +45,7 @@
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
 - [Discord Rust 3](https://github.com/passcod/accord)
+- [Discord Rust 4](https://github.com/AregevDev/rustcord) - Safe wrapper around the Discord Rich Presence API.
 - [Discord Go](https://github.com/bwmarrin/discordgo)
 - [Discord Go 2](https://github.com/diamondburned/arikawa)
 - [Discord C++](https://github.com/yourWaifu/sleepy-discord)

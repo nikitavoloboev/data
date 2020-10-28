@@ -188,3 +188,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [On Deck Writer Fellowship](https://www.beondeck.com/writers) - Where the best writers go to grow their audience and improve their craft.
 - [Asciidoctor](https://asciidoctor.org/) - Fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats. ([Code](https://github.com/asciidoctor/asciidoctor)) ([HN](https://news.ycombinator.com/item?id=24849348))
 - [Telescopic Text](https://www.telescopictext.org/) - Experimental tool for creating expanding texts.
+- [How to Write Well: 4 Steps to Improve Your Writing (2020)](https://adamfaliq.wordpress.com/2020/10/28/write-well/)

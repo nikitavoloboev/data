@@ -49,3 +49,4 @@
 - [REPLicant](https://github.com/pngwn/REPLicant) - Svelte Summit 2020 talk.
 - [Rich Harris: Futuristic Web Development (2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
 - [svelte-ssr-worker](https://github.com/lukeed/svelte-ssr-worker) - Quick demo for rendering Svelte server-side (SSR), but within a Cloudflare Worker.
+- [Svelte for Sites, React for Apps (2020)](https://www.swyx.io/svelte-sites-react-apps/)

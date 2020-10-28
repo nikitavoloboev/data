@@ -178,3 +178,5 @@ I love Git and version control. And I use version control over any project I do.
 - [gitjacker](https://github.com/liamg/gitjacker) - Leak git repositories from misconfigured websites.
 - [Git Magic](https://crypto.stanford.edu/~blynn/gitmagic/) - Guide to using Git. ([Code](https://github.com/blynn/gitmagic))
 - [Git Crash Course (2020)](https://neros.dev/blog/git-crash-course-part-1/)
+- [chglog](https://github.com/goreleaser/chglog) - Changelog management library and tool.
+- [fzf powered git fixups (2017)](http://blog.railscoder.net/git/zsh/fzf/tmux/2017/10/24/fzf-powered-git-fixups.html)

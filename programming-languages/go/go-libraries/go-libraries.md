@@ -26,6 +26,7 @@
 - [Viper](https://github.com/spf13/viper) - Go configuration with fangs.
 - [Echelon](https://github.com/cirruslabs/echelon) - Hierarchical progress in terminals.
 - [go-glint](https://github.com/mitchellh/go-glint) - Component-based UI framework specifically targeted towards command-line interfaces.
+- [PTerm](https://github.com/pterm/pterm) - Modern go module to beautify console output.
 
 ## Test
 

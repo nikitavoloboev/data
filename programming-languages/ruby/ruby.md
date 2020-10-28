@@ -35,3 +35,5 @@
 - [Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide) - Community-driven Ruby coding style guide. ([Web](https://rubystyle.guide/))
 - [RuboCop Performance](https://github.com/rubocop-hq/rubocop-performance) - Extension of RuboCop focused on code performance checks.
 - [RuboCop RSpec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files.
+- [Shopify Ruby Style Guide](https://github.com/Shopify/ruby-style-guide)
+- [Context on STM in Ruby (2020)](https://chrisseaton.com/truffleruby/ruby-stm/)

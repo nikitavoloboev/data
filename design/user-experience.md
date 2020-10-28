@@ -42,3 +42,4 @@
 - [Usability Testing in 4 Simplified Steps](https://learnuxd.io/posts/usability-testing-in-4-simplified-steps)
 - [The UX copywriter](https://vanschneider.com/series/writing-ux-copy)
 - [UXArchive](https://uxarchive.com/) - Library of mobile user flows.
+- [Linear's Superb User Experience (2020)](https://www.buildwithusers.com/p/superb-user-experience-with-linear)

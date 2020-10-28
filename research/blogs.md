@@ -115,3 +115,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Deploying post to dev.to with markdown](https://github.com/moghwan/dev.to)
 - [OneBlog](https://github.com/OneGraph/oneblog) - Build a blog powered by GitHub issues.
 - [Blogmaker](https://github.com/vbuterin/blogmaker) - Ultra-simple self-hosted blog publishing solution. Used by Vitalik Buterin.
+- [10 years of professional blogging. What I've learned (2020)](https://andrewchen.co/professional-blogging/)

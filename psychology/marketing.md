@@ -88,6 +88,8 @@
 - [Improve your SaaS conversion rate with 11 onboarding strategies (2020)](https://www.swipe.page/p/improve-your-saas-conversion-rate-with-11-onboarding-strategies)
 - [HubSpot](https://www.hubspot.com/) - Inbound Marketing, Sales, and Service Software.
 - [Keylitic](https://www.keylitic.com/) - Database of trending product keywords.
+- [Bannerbear](https://www.bannerbear.com/) - API for Automated Image and Video Generation.
+- [Facebook Ads Manual](https://superspicymedia.com/the-facebook-ads-manual) ([Tweet](https://twitter.com/jhooks/status/1321463201070899202))
 
 ## Images
 

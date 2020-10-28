@@ -112,7 +112,7 @@
 - [Building a Blog with Next.js and MDX (2020)](https://johnpolacek.com/building-a-blog-with-nextjs-and-mdx)
 - [Adding Dark Mode to a Next.js Site (2020)](https://johnpolacek.com/adding-dark-mode-to-nextjs-site)
 - [Next.js News newsletter](https://nextjsnews.com/)
-- [Next.js Conf](https://nextjs.org/conf)
+- [Next.js Conf](https://nextjs.org/conf) ([HN](https://news.ycombinator.com/item?id=24908729))
 - [Bulletproof Next](https://getstarted.sh/bulletproof-next) - Be an expert in Next.js.
 - [Blogging on Next.js: Generating static index pages](https://javacrisps.com/posts/nextjs-static-fun) ([HN](https://news.ycombinator.com/item?id=24558784))
 - [Quirrel](https://quirrel.dev/) - Job Queueing for Next.js x Vercel.

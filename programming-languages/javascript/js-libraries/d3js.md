@@ -24,3 +24,4 @@
 - [D3 Render](https://github.com/unkleho/d3-render) - Declarative and reusable D3. Replace select, append, data, join, enter, exit, transition and more with one function.
 - [HN: D3 6.0 (2020)](https://news.ycombinator.com/item?id=24288497)
 - [visx](https://github.com/airbnb/visx) - Collection of reusable low-level visualization components. ([Web](https://airbnb.io/visx/))
+- [D3 Discovery](https://d3-discovery.net/) - Find D3 plugins with ease.

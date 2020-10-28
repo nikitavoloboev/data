@@ -120,3 +120,4 @@
 - [AMD](https://www.amd.com/en) - High-Performance Processors and Graphics.
 - [NVIDIA](https://www.nvidia.com/) - Designs graphics processing units.
 - [Xilinx](https://www.xilinx.com/) - Inventor of the FPGA, programmable SoCs. Develops highly flexible and adaptive processing platforms. Owned by AMD. ([HN](https://news.ycombinator.com/item?id=24906151))
+- [Have you considered buying used hardware? (2020)](https://www.0chris.com/consider-buying-used.html) ([Lobsters](https://lobste.rs/s/waupgh/have_you_considered_buying_used_hardware))

@@ -43,4 +43,7 @@
 - [Elliot](https://github.com/helloiamelliot/elliot-serverless-ecommerce) - Serverless eCommerce Storefront. 100% headless & serverless. Built with Next.js & one-click deployable on Vercel.
 - [How a tiny peanut butter company grew to \$500k per month in sales (2020)](https://thehustle.co/how-a-tiny-peanut-butter-company-grew-to-500k-per-month-in-sales/)
 - [branchbob](https://www.branchbob.com/en) - Create a 100% free ecommerce store without restrictions.
-- [Next.js Commerce](https://nextjs.org/commerce) - All-in-one starter kit for high-performance ecommerce sites. ([Code](https://github.com/vercel/commerce))
+- [Next.js Commerce](https://nextjs.org/commerce) - All-in-one starter kit for high-performance ecommerce sites. ([Code](https://github.com/vercel/commerce)) ([HN](https://news.ycombinator.com/item?id=24908788))
+- [Shop Local Online](https://shoplocalonline.ie/) - Find and support businesses near you.
+- [Faceted Search For Ecommerce: Best Practices (2020)](https://searchnode.com/blog/faceted-search-for-ecommerce-best-practices/)
+- [Front-Commerce](https://www.front-commerce.com/en/) - PWA frontend for headless eCommerce.

@@ -186,3 +186,5 @@
 - [Linux Commands frequently used by Linux Sysadmins (2020)](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)
 - [Core Wayland protocol and libraries](https://github.com/wayland-project/wayland)
 - [Diving into /proc/[pid]/mem (2020)](https://blog.cloudflare.com/diving-into-proc-pid-mem/)
+- [Looking Glass](https://looking-glass.io/) - Open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. ([Code](https://github.com/gnif/LookingGlass))
+- [eBPF Summit 2020](https://ebpf.io/summit-2020/)

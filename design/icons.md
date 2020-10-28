@@ -55,3 +55,5 @@
 - [Radical Icons](https://radicalicons.com/) - Radical, hand-drawn SVGs.
 - [Radix Icons](https://icons.modulz.app/) - Crisp set of 15×15 icons designed by the Modulz team. ([Code](https://github.com/modulz/radix-icons))
 - [System UIcons](https://systemuicons.com/) - Collection of open source icons designed for products and systems in mind. Each icon is on a 21x21 grid. ([Code](https://github.com/CoreyGinnivan/system-uicons))
+- [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family for interfaces, diagrams, presentations.
+- [Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.

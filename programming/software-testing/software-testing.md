@@ -62,3 +62,5 @@
 - [Prefer Fakes Over Mocks (2020)](https://tyrrrz.me/blog/fakes-over-mocks) ([Lobsters](https://lobste.rs/s/7dwpye/prefer_fakes_over_mocks)) ([HN](https://news.ycombinator.com/item?id=24770954))
 - [Awesome Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools)
 - [Waldo](https://www.waldo.io/) - Create reliable automated mobile tests with no-code testing platform.
+- [OpenFaaS Puppeteer template](https://github.com/alexellis/openfaas-puppeteer-template) - Uses docker-puppeteer by buildkite to give you access to Puppeteer.
+- [Metamorphic Testing (2019)](https://www.hillelwayne.com/post/metamorphic-testing/)

@@ -74,3 +74,4 @@
 - [Docker for macOS bug reports](https://github.com/docker/for-mac)
 - [Docker CLI](https://github.com/docker/cli)
 - [Docker Compose](https://github.com/docker/compose) - Tool for defining and running multi-container Docker applications. ([Docs](https://docs.docker.com/compose/))
+- [Clair scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan.

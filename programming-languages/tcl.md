@@ -7,3 +7,4 @@
 - [TclSqueak](http://www.xdobry.de/tclsqueak/) - IDE for Tcl.
 - [Data Definition and Code Generation in Tcl (2014)](https://trs.jpl.nasa.gov/bitstream/handle/2014/7660/03-1728.pdf)
 - [Why I'm Tcl-Ish (2020)](https://colin-macleod.blogspot.com/2020/10/why-im-tcl-ish.html) ([HN](https://news.ycombinator.com/item?id=24897326))
+- [Tcl for Web Nerds (2011)](https://philip.greenspun.com/tcl/index.adp) ([HN](https://news.ycombinator.com/item?id=24916713))

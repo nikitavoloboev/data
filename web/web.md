@@ -179,3 +179,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Case study on vanilla web development](https://github.com/morris/vanilla-todo) ([Lobsters](https://lobste.rs/s/5gcrxh/case_study_on_vanilla_web_development))
 - [Archive.org](https://archive.org/) - Internet Archive. Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine. ([Python CLI](https://github.com/jjjake/internetarchive))
 - [caniuse-lite](https://github.com/ben-eb/caniuse-lite) - Smaller version of caniuse-db, with only the essentials.
+- [Geoff Huston ISP Column](https://www.potaroo.net/ispcol/) - Articles on the social and technical evolution of the Internet.
+- [If not SPAs, What? (2020)](https://macwright.com/2020/10/28/if-not-spas.html)

@@ -78,3 +78,4 @@
 - [Chromium in Docker](https://github.com/atlassian/docker-chromium-xvfb) - Docker image for running browser tests against headless Chromium.
 - [Say goodbye to resource-caching across sites and domains (2020)](https://www.stefanjudis.com/notes/say-goodbye-to-resource-caching-across-sites-and-domains/) ([HN](https://news.ycombinator.com/item?id=24894135))
 - [Browserslist](https://github.com/browserslist/browserslist) - Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env.
+- [Histools](https://github.com/thesephist/histools) - Collection of tools for generating data visualizations from browser history data. ([Article](https://dotink.co/posts/histools/))

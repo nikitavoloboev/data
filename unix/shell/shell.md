@@ -84,3 +84,4 @@ All active variables can be seen by running `env`.
 - [smash](https://github.com/evmar/smash) - New kind of terminal. ([Docs](http://evmar.github.io/smash/))
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services.
 - [waitfor](https://github.com/aeshirey/waitfor) - Shell app for delaying on conditions.
+- [Useful shell prompt (2020)](https://solovyov.net/blog/2020/useful-shell-prompt/) ([Lobsters](https://lobste.rs/s/s5jj3v/useful_shell_prompt))

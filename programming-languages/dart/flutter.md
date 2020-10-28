@@ -23,3 +23,4 @@
 - [Flutter Roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development.
 - [Flokk - How we built a Desktop App Using Flutter (2020)](https://blog.gskinner.com/archives/2020/09/flokk-how-we-built-a-desktop-app-using-flutter.html)
 - [Flutter Architecture Blueprints](https://github.com/wasabeef/flutter-architecture-blueprints) - Introduces MVVM architecture and project structure approaches to developing Flutter apps.
+- [Sony: Flutter and Wayland is the best practice in embedded systems using Linux (2020)](https://static.sched.com/hosted_files/osseu2020/e0/Oct%2027_Graphical%20User%20Interface%20Using%20Flutter%20in%20Embedded%20Systems_Hidenori%20Matsubayashi.pdf) ([HN](https://news.ycombinator.com/item?id=24921031))

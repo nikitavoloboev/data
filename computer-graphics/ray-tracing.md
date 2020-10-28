@@ -45,3 +45,4 @@
 - [Raytraced Shadows in Call of Duty: Modern Warfare](https://www.activision.com/cdn/research/Raytraced_Shadows_in_Call_of_Duty_Modern_Warfare.pdf) - How ray tracing can be integrated into a modern, forward+ engine with minimal-to-no content changes.
 - [Slightly Incremental Ray Tracing In One Weekend (2020)](https://www.peterstefek.me/incr-ray-tracer.html)
 - [SORT (Simple Open-source Ray Tracing)](https://github.com/JiayinCao/SORT) - Cross platform ray tracing renderer in C++. ([Web](https://sort-renderer.com/))
+- [redner](https://github.com/BachiLi/redner) - Differentiable Monte Carlo Ray Tracing through Edge Sampling.

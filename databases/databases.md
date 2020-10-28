@@ -119,6 +119,12 @@
 - [Synth](https://getsynth.com/) - Create synthetic data environments in seconds. ([HN](https://news.ycombinator.com/item?id=24198114))
 - [Baserow](https://gitlab.com/bramw/baserow) - Open source online database tool and Airtable alternative.
 - [SHMIG](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
+- [goose](https://github.com/pressly/goose) - Database migration tool. Manage your database schema by creating incremental SQL changes or Go functions.
+- [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.
+- [Flyway](https://flywaydb.org/) - Database Migrations Made Easy.
+- [Liquibase](https://www.liquibase.org/) - Open Source Version Control for Your Database.
+- [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL.
+- [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
 
 ## Links
 
@@ -129,7 +135,6 @@
 - [Storage Performance Development Kit](https://spdk.io/) - Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
 - [Let's Build a Simple Database](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C.
 - [Readings in Databases](https://github.com/rxin/db-readings) - List of papers essential to understanding databases and building new data systems.
-- [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
 - [Turning the database inside-out with Apache Samza (2015)](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 - [Designing Data Intensive Applications Book](https://dataintensive.net/) - Deep dives into different types of data storage solutions, their history, and how they actually work. ([Review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications/))
 - [Scalable SQL and NoSQL Data Stores](http://www.cattell.net/datastores/Datastores.pdf) - Good paper that helps differentiate similar but different datastores. Really helpful when you're trying to pick a modern data solution.
@@ -177,7 +182,6 @@
 - [Jon Gjengset's PhD thesis](https://github.com/jonhoo/thesis)
 - [Succinct Data Structures and Delta Encoding for Modern Databases (2020)](https://terminusdb.com/t/papers/terminusdb-git.pdf)
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
-- [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.
 - [I want to own the database that my apps use (2020)](https://orndorffgrant.com/own-your-data-idea/) ([Lobsters](https://lobste.rs/s/dyeuqm/i_want_own_database_my_apps_use))
 - [Hermitage: Testing transaction isolation levels](https://github.com/ept/hermitage)
 - [Amazon's Dynamo (2007)](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
@@ -235,3 +239,4 @@
 - [DBML](https://www.dbml.org/home/) - Database Markup Language. ([Code](https://github.com/holistics/dbml))
 - [MindsDB](https://www.mindsdb.com/) - Open-Source Predictive AI layer for existing databases. ([Docs](https://docs.mindsdb.com/)) ([Docs code](https://github.com/mindsdb/mindsdb-docs)) ([Code](https://github.com/mindsdb/mindsdb))
 - [Migrating Data When You Never Erase History (2020)](https://jorin.me/migrating-data-when-you-never-erase-history/)
+- [Thesis: Partial State in Dataflow-Based Materialized Views (2020)](https://www.youtube.com/watch?v=GctxvSPIfr8)

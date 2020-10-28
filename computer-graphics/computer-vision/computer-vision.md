@@ -122,3 +122,6 @@
 - [Deep Learning Anime Papers](https://github.com/deeppomf/DeepLearningAnimePapers)
 - [Vision Transformer](https://github.com/google-research/vision_transformer) - Models from the paper An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
 - [Handsfree.js](https://github.com/MIDIBlocks/handsfree) - Wrapper library around computer vision models for working with face pointers, assistive tech, and creative expression. ([Web](https://handsfreejs.glitch.me/))
+- [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
+- [SqueezeNext](https://github.com/amirgholami/SqueezeNext) - Contains the Caffe implementation of SqueezeNext.
+- [ANODE: Adjoint Based Neural ODEs](https://github.com/amirgholami/anode)

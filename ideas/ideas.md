@@ -12,6 +12,7 @@ I try to give my full attention to any ideas I am working on.
 
 - [Good ideas don’t have owners. They belong to everyone.](https://galaxyproject.org/jxtx/)
 - [Find a problem. Tell a story. Sell a service. Deliver a result. Build a product.](https://twitter.com/jackbutcher/status/1316747172306616321)
+- [If your idea already exists it's validation that there's a market for it. If your execution of the same idea is 1) better, or 2) cheaper, you can reach customers in that market.](https://twitter.com/levelsio/status/1321428353811943424)
 
 ## Links
 

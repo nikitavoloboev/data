@@ -33,3 +33,4 @@
 - [Please Test Your Memory](https://shipilev.net/jvm/test-your-memory/) - My JVM keeps crashing in GC, must be a GC bug. ([Lobsters](https://lobste.rs/s/jaezro/please_test_your_memory))
 - [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 - [A Complete Introduction to Java EE (2020)](https://www.jessym.com/articles/a-complete-introduction-to-java-ee)
+- [JDConf](https://jdconf.splashthat.com/) - Connecting Java Developers.

@@ -28,3 +28,4 @@
 - [DynamoDB, explained](https://www.dynamodbguide.com/) - Primer on the DynamoDB NoSQL database.
 - [Patterns: Serverless Rust + GraphQL + DynamoDB on AWS Lambda](https://github.com/codetalkio/patterns-serverless-rust)
 - [Live Migration of DynamoDB Tables (2020)](https://codetalk.io/posts/2020-03-19-Live-Migration-of-DynamoDB-Tables.html)
+- [dynamit-cli](https://github.com/floydspace/dynamodb-migrations-tool) - DynamoDB Migrations Tool CLI.

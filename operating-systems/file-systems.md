@@ -20,3 +20,6 @@
 - [Filesystems for dummies (2020)](https://29jm.github.io/filesystems-for-dummies/)
 - [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - User-space file system for interacting with Google Cloud Storage.
 - [Apache Helix](https://helix.apache.org/0.6.8-docs/recipes/rsync_replicated_file_store.html) - Near-Realtime Rsync Replicated File System. ([HN](https://news.ycombinator.com/item?id=24898911))
+- [The Second Extended File System](https://www.nongnu.org/ext2-doc/ext2.html) - Also known as Ext2.
+- [bindfs](https://github.com/mpartel/bindfs) - FUSE filesystem for mirroring a directory to another directory, similarly to mount --bind. ([Web](https://bindfs.org/))
+- [Practical File System Design (1999)](http://www.nobius.org/dbg/practical-file-system-design.pdf)

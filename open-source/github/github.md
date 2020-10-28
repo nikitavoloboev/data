@@ -137,3 +137,4 @@ I publish most of my work and make it open source for other people to use and re
 - [gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana. ([Tweet](https://twitter.com/mueslix/status/1320675269699579905))
 - [GitHub-DL](https://github.com/achow101/github-dl) - GitHub Repo Full Downloader. Downloads an entire GitHub repository and it's metadata.
 - [GitHub DMCA takedown notices](https://github.com/github/dmca)
+- [Parity GitHub Processbot](https://github.com/paritytech/parity-processbot)

@@ -53,3 +53,5 @@
 - [Caramel](https://github.com/AbstractMachinesLab/caramel) - Erlang backend to the OCaml compiler.
 - [Elli](https://github.com/elli-lib/elli) - Erlang web server for HTTP APIs.
 - [A brief introduction to BEAM (2020)](https://blog.erlang.org/a-brief-BEAM-primer/) ([HN](https://news.ycombinator.com/item?id=24837640))
+- [The BEAM marches forward (2020)](https://underjord.io/the-beam-marches-forward.html)
+- [LFE](https://github.com/rvirding/lfe) - Lisp Flavoured Erlang. Lisp for those who want to build distributed applications. ([Web](https://lfe.io/))

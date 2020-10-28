@@ -9,6 +9,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5))
 - [QubesOS](https://www.qubes-os.org/)
 - [Plan 9](https://9p.io/plan9/)
+- [Fuchsia](fuchsia-os.md)
+- [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
 - [Serenity](https://github.com/awesomekling/serenity) - X86 Unix-like operating system for IBM PC-compatibles.
@@ -54,6 +56,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [illumos](https://illumos.org/) - Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options. ([Rise and Development of illumos](https://www.youtube.com/watch?v=-zRN7XLCRhc))
 - [Managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O. ([Fully Asynchronous OS Based on Modern C++ - Alexander Grinten (2020)](https://github.com/managarm/managarm))
 - [EggOS](https://github.com/icexin/eggos) - Go unikernel running on x86 bare metal. ([HN](https://news.ycombinator.com/item?id=24856767))
+- [KnightOS](https://github.com/KnightOS/KnightOS) - Third-party operating system for TI calculators.
 
 ## Notes
 

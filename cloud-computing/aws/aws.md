@@ -107,3 +107,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Copilot CLI](https://github.com/aws/copilot-cli) - Tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.
 - [Top 5 AWS EC2 Performance Problems (2020)](https://www.datadoghq.com/pdf/top_5_aws_ec2_performance_problems_ebook.pdf) - How to detect them, why they occur and how to resolve them.
 - [Awesome CDK](https://github.com/kolomied/awesome-cdk)
+- [Where to Start with AWS as a Developer (2020)](https://www.samjulien.com/where-to-start-with-aws-as-a-developer)
+- [AWS Cost Comparison Tool](https://github.com/rocketmiles/aws-cct)

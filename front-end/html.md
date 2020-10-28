@@ -73,3 +73,4 @@
 - [Typed HTML](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
 - [he](https://github.com/mathiasbynens/he) - Robust HTML entity encoder/decoder written in JavaScript.
 - [bluemonday](https://github.com/microcosm-cc/bluemonday) - HTML sanitizer implemented in Go. It is fast and highly configurable.
+- [vanilla-colorful](https://github.com/web-padawan/vanilla-colorful) - Tiny color picker custom element for modern web apps.

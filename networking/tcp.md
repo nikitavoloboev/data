@@ -15,3 +15,4 @@
 - [TCPause](https://github.com/innogames/tcpause) - Zero-downtime proxy for TCP and UNIX sockets written in Go.
 - [Toxiproxy](https://github.com/Shopify/toxiproxy) - TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 - [go-tun2socks](https://github.com/eycorsican/go-tun2socks) - tun2socks implementation written in Go.
+- [Understand (a little) about TCP (2015)](https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/)

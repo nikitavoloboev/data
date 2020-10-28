@@ -154,3 +154,5 @@
 - [tinygrad](https://github.com/geohot/tinygrad) - Something in between a PyTorch and a karpathy/micrograd.
 - [Lucent](https://github.com/greentfrapp/lucent) - Lucid library adapted for PyTorch.
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch.
+- [PyHessian](https://github.com/amirgholami/PyHessian) - PyTorch library for second-order based analysis and training of Neural Networks.
+- [AdaHessian](https://github.com/amirgholami/adahessian) - Second order based optimizer for the neural network training based on PyTorch.

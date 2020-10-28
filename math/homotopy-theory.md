@@ -21,5 +21,5 @@
 - [Kevin Buzzard, Imperial College London: "Is HoTT the way to do mathematics?" (2020)](https://www.youtube.com/watch?v=q5-pykbfViA)
 - [A functional programmer's guide to homotopy type theory (2016)](https://dl.acm.org/doi/10.1145/2951913.2976748)
 - [A Guide for Computing Stable Homotopy Groups (2018)](https://arxiv.org/abs/1801.07530)
-- [Homotopy Type Theory by Egbert Rijke (2012)](https://hottheory.files.wordpress.com/2012/08/hott2.pdf)
+- [Homotopy Type Theory by Egbert Rijke (2012)](https://hottheory.files.wordpress.com/2012/08/hott2.pdf) ([HN](https://news.ycombinator.com/item?id=24902852))
 - [Egbert Rijke nLab research](https://ncatlab.org/nlab/show/Egbert+Rijke)

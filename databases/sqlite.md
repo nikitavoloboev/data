@@ -23,3 +23,4 @@
 - [CG/SQL](https://github.com/facebookincubator/CG-SQL) - Easy, accurate SQLite code generation. ([Article](https://engineering.fb.com/open-source/cg-sql/))
 - [SQLite: Begin Concurrent](https://sqlite.org/src/doc/begin-concurrent/doc/begin_concurrent.md)
 - [SQLite now allows multiple recursive SELECT statements in a single recursive CTE (2020)](https://fossil-scm.org/forum/forumpost/bacf8cf88c) ([HN](https://news.ycombinator.com/item?id=24843643))
+- [Making SQLite Upserts Snappy (with Python and SQLAlchemy) (2020)](https://flightaware.engineering/making-sqlite-upserts-snappy-with-python-and-sqlalchemy/)

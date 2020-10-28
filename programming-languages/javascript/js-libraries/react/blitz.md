@@ -10,3 +10,4 @@
 - [Blitz.js Draft RFCs and Other Documents](https://github.com/blitz-js/drafts)
 - [Blitz Public Wiki](https://github.com/blitz-js/blitz/wiki)
 - [Blitz.js Jobs](https://blitz-jobs.com/)
+- [Weekly Blitz](https://weekly-blitz.com/) - Best articles, links, community updates and news related to Blitz.js.

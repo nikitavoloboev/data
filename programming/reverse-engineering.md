@@ -57,3 +57,4 @@
 - [Reverse-Engineering YouTube (2017)](https://tyrrrz.me/blog/reverse-engineering-youtube)
 - [Spedi](https://github.com/abenkhadra/spedi) - Speculative disassembly, CFG recovery, and call-graph recovery from stripped binaries.
 - [bcov](https://github.com/abenkhadra/bcov) - Static instrumentation tool for efficient binary-level coverage analysis.
+- [Decompetition](https://decompetition.io/) - Reverse Engineering Competition.

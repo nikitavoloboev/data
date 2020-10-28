@@ -12,7 +12,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Ask HN: What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
 - [What's an awesome Linux/Unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
 - [Awesome Console Services](https://github.com/chubin/awesome-console-services)
-- [tldr](https://github.com/tldr-pages/tldr) - Collection of simplified and community-driven man pages.
+- [tldr](https://github.com/tldr-pages/tldr) - Collection of simplified and community-driven man pages. ([Web](https://tldr.sh/))
 - [Awesome jq](https://github.com/fiatjaf/awesome-jq) - Curated list of awesome things built with the JSON processor and turing-complete functional language jq.
 - [cli.fan blog](https://cli.fan/posts/introduction/) - [Introduction](https://cli.fan/posts/introduction/).
 - [One Things Well blog](https://onethingwell.org/) - Weblog about simple, useful software.

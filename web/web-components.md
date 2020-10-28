@@ -17,3 +17,5 @@
 - [lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepo for tools that analyze lit-html templates.
 - [11ty Web Component Generator](https://11ty-web-component-generator.netlify.app/) - Use the power of 11ty to generate web components (custom elements). ([Code](https://github.com/5t3ph/11ty-web-component-generator))
 - [Numl](https://github.com/tenphi/numl) - Open-source Library of Web Components and a Runtime CSS Framework for rapidly building UI that follows your Design System.
+- [Generic Components](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use. ([Web](https://genericcomponents.netlify.app/))
+- [Open Web Components Guide](https://open-wc.org/guide/) - Guides, tools and libraries for developing web components. ([Code](https://github.com/open-wc/open-wc))
