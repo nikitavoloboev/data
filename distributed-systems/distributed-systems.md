@@ -80,7 +80,7 @@
 - [Teleforking a process onto a different computer! (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) ([HN](https://news.ycombinator.com/item?id=22987747)) ([Code](https://github.com/trishume/telefork))
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294) ([HN](https://news.ycombinator.com/item?id=22993377))
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
-- [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/WebAssembly/wasi-libc/blob/master/.gitmodules)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/))
+- [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go))
 - [Model checker for implementing distributed systems](https://github.com/stateright/stateright)
 - [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)
 - [Distributed Services with Go](https://pragprog.com/book/tjgo/distributed-services-with-go)
@@ -119,3 +119,4 @@
 - [Wikipedia's self-hosted CDN (2020)](https://techblog.wikimedia.org/2020/10/14/wikimedias-cdn/)
 - [Infinite Parallel Universes: State at the Edge (2020)](https://www.infoq.com/presentations/architecture-global-scale/) ([Summary](https://twitter.com/embano1/status/1318277850613600257))
 - [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+- [How you could have come up with Paxos yourself (2020)](https://explain.yshui.dev/distributed%20system/2020/09/20/paxos.html) ([HN](https://news.ycombinator.com/item?id=24906225))

@@ -91,3 +91,4 @@
 - [How Does a C Debugger Work? (2014)](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) ([HN](https://news.ycombinator.com/item?id=24814854))
 - [SheLLVM](https://github.com/SheLLVM/SheLLVM) - Collection of LLVM transform and analysis passes to write shellcode in regular C.
 - [Defining C macros the right way (2020)](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/) ([Lobsters](https://lobste.rs/s/ubh34r/defining_c_macros_right_way))
+- [Hundred year mistakes (2020)](https://ericlippert.com/2020/02/27/hundred-year-mistakes/)

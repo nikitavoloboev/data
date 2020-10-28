@@ -35,3 +35,4 @@
 - [Responsively](https://responsively.app/) - Web developer's browser.
 - [What are the most difficult UI patterns you've coded? (2020)](https://twitter.com/TatianaTMac/status/1295833772600958976)
 - [Asayer](https://asayer.io/) - Frontend Application Monitoring.
+- [Omatsuri](https://omatsuri.app/) - Open source frontend focused browser tools for everyday use. ([Code](https://github.com/rtivital/omatsuri))

@@ -9,3 +9,4 @@
 - [Effective React Tests with Cypress (2020)](https://glebbahmutov.com/blog/effective-react-tests/)
 - [Tricks to make cypress tests run faster (2020)](https://twitter.com/oleg008/status/1314114975783362561)
 - [Thank you, Dr. Bahmutov for Cypress (2020)](https://changelog.com/jsparty/148) - Gleb Bahmutov, PhD joins the show for a fun conversation around end-to-end testing.
+- [cypress-routines](https://github.com/maximilianschmitt/cypress-routines) - Easily write scalable Node.js setup code for Cypress. ([Article](https://maxschmitt.me/posts/cypress-routines/))

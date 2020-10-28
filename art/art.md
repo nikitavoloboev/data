@@ -353,3 +353,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Corruption Is Attractive (2020)](https://venam.nixers.net/blog/programming/2020/10/05/corruption-at-the-core.html)
 - [Art Grab](https://artgrab.co/) - Exclusively license and download images created by world-renowned artists.
 - [Savee](https://savee.it/) - Browse and save curated inspiration from designers over all around the world.
+- [Experimental Capture course](https://github.com/golanlevin/ExperimentalCapture) - Concerned with the creation of systems to enable new ways of seeing.

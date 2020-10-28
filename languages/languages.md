@@ -13,3 +13,4 @@
 - [Repo to track the evolution of notation in arts and sciences](https://github.com/prathyvsh/notation)
 - [Twitter account that renames everyday objects](https://ahtaitay.blogspot.com/2020/07/this-twitter-account-is-renaming.html?m=1)
 - [Hypocognition: Making Sense of the Landscape Beyond One's Conceptual Reach (2018)](https://www.researchgate.net/publication/319974334_Hypocognition_Making_Sense_of_the_Landscape_Beyond_One%27s_Conceptual_Reach)
+- [All or nothing: No half-Merge and the evolution of syntax - Noam Chomsky (2019)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000539)

@@ -51,3 +51,6 @@
 - [narvie](https://github.com/physical-computation/narvie) - Native REPL for RISC-V Instructions.
 - [OCaml RISC-V Extension](https://github.com/patricoferris/riscv-o-spec)
 - [Parsing RISC-V assembly (2020)](https://web.eecs.utk.edu/~azh/blog/parsingriscv.html)
+- [RISC-V Core](https://github.com/ultraembedded/riscv) - 32-bit RISC-V core written in Verilog and an instruction set simulator supporting RV32IM.
+- [biRISC-V](https://github.com/ultraembedded/biriscv) - 32-bit dual issue RISC-V CPU.
+- [Understanding Non-Local Jumps (setjmp/longjmp) in RISC-V Assembly (2020)](https://danielmangum.com/posts/non-local-jumps-riscv/)

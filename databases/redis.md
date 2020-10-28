@@ -33,3 +33,4 @@
 - [Introducing RediSearch 2.0 (2020)](https://redislabs.com/blog/introducing-redisearch-2-0/)
 - [RediSQL](https://redisql.com/) - Fastest, simplest, in-memory SQL database server.
 - [Redis Cluster: Architecture, Replication, Sharding and Failover (2019)](https://medium.com/opstree-technology/redis-cluster-architecture-replication-sharding-and-failover-86871e783ac0)
+- [ioredis-mock](https://github.com/stipsan/ioredis-mock) - Emulates ioredis by performing all operations in-memory.

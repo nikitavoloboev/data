@@ -70,3 +70,6 @@
 - [Emmet](https://github.com/emmetio/emmet) - Web-developer’s toolkit for boosting HTML & CSS code writing. ([Web](https://emmet.io/))
 - [This page is a truly naked, brutalist HTML quine](https://secretgeek.github.io/html_wysiwyg/html.html) ([HN](https://news.ycombinator.com/item?id=24824977))
 - [Konva](https://github.com/konvajs/konva) - HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. ([Web](https://konvajs.org/))
+- [Typed HTML](https://github.com/nicojs/typed-html) - TypeSafe HTML templates using TypeScript. No need to learn a template library.
+- [he](https://github.com/mathiasbynens/he) - Robust HTML entity encoder/decoder written in JavaScript.
+- [bluemonday](https://github.com/microcosm-cc/bluemonday) - HTML sanitizer implemented in Go. It is fast and highly configurable.

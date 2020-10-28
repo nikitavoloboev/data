@@ -41,3 +41,4 @@ I especially like the distinction of distributing content over distributing link
 - [Sci-Hub and Library Genesis on IPFS (2020)](https://www.reddit.com/r/DataHoarder/comments/jb1hkn/p2p_free_library_help_build_humanitys_free/)
 - [DKV (Decentralized Key-Value Store) built on IPFS](https://github.com/mikeal/dkv)
 - [js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same fetch() API browsers provide for HTTP, but for IPFS.
+- [IPFS Live Streaming](https://github.com/tomeshnet/ipfs-live-streaming)

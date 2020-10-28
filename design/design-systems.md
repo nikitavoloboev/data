@@ -47,6 +47,7 @@
 - [@polkadot/ui](https://github.com/polkadot-js/ui) ([Web](https://polkadot.js.org/ui/))
 - [Dripsy](https://github.com/nandorojo/dripsy) - Responsive, theme-based design system for Expo + React Native Web.
 - [Storybook Design System](https://github.com/storybookjs/design-system) - Codifies existing UI components into a central, well-maintained repository.
+- [Geist](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design. ([Docs](https://react.geist-ui.dev/en-us/guide/introduction))
 
 ## Links
 
@@ -87,3 +88,4 @@
 - [Tips on making good design systems (2020)](https://twitter.com/_dte/status/1318222844434796544)
 - [Naming Tokens in Design Systems. Terms, Types, and Taxonomy to Describe (2020)](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 - [storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - Storybook addon that embed Figma, websites, PDF or images in the addon panel.
+- [UI Guideline - Component Standardization](https://www.uiguideline.com/components) - Definitive guide to standardize the design/code of UI Components.

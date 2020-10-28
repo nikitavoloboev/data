@@ -42,3 +42,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [Sir Roger Penrose & Dr. Stuart Hameroff: Consciousness and the physics of the brain (2020)](https://www.youtube.com/watch?v=xGbgDf4HCHU) ([Notes](https://news.ycombinator.com/item?id=24090384))
 - [Consciousness and the Social Brain book notes](https://leontrolski.github.io/consciousness.html)
 - [Your brain hallucinates your conscious reality | Anil Set (2017)](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+- [Are the Brain’s Electromagnetic Fields the Seat of Consciousness? (2020)](http://nautil.us/blog/are-the-brains-electromagnetic-fields-the-seat-of-consciousness) ([HN](https://news.ycombinator.com/item?id=24906232))

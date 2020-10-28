@@ -14,3 +14,4 @@
 - [Qt 6 for the desktop - What can we expect? (2020)](https://www.youtube.com/watch?v=QTNTrTAwChE)
 - [Qt 6 Build System (2020)](https://www.qt.io/blog/qt-6-build-system)
 - [Qt Support for State Charts](https://doc.qt.io/qtcreator/creator-scxml.html) ([HN](https://news.ycombinator.com/item?id=24787022))
+- [Graphics in Qt 6.0: QRhi, Qt Quick, Qt Quick 3D (2020)](https://www.qt.io/blog/graphics-in-qt-6.0-qrhi-qt-quick-qt-quick-3d) ([HN](https://news.ycombinator.com/item?id=24905634))

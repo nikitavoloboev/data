@@ -369,3 +369,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [itty.bitty.site](http://itty.bitty.site/) - Tool to create links that contain small sites. ([Code](https://github.com/alcor/itty-bitty/))
 - [Sharkle](https://thesharkle.netlify.app/) - Generator of random awesomeness.
 - [Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
+- [The Thought Emporium YouTube](https://www.youtube.com/c/thethoughtemporium/videos) - Science channel.

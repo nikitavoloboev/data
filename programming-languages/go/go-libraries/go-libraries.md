@@ -554,6 +554,9 @@
 - [goioc/di](https://github.com/goioc/di) - Simple and yet powerful Dependency Injection for Go.
 - [hcl](https://github.com/alecthomas/hcl) - Parsing, encoding and decoding of HCL to and from Go types and an AST.
 - [cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters.
+- [go-encoding](https://github.com/Shopify/go-encoding) - Go package which abstracts various encoding mechanisms under a unified API.
+- [go-cache](https://github.com/Shopify/go-cache) - Go package which abstracts cache systems.
+- [GWeb](https://github.com/life4/gweb) - Interact with browser from Go. Manually-crafted WebAPI interoperation library.
 
 ## Links
 

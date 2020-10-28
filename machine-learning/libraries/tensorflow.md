@@ -59,3 +59,4 @@
 - [Pipcook](https://github.com/alibaba/pipcook) - Front-End Algorithm Engineering Platform based on Tensorflow.js.
 - [TensorFlow Compression](https://github.com/tensorflow/compression) - Build your own ML models with end-to-end optimized data compression built in.
 - [Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading (2020)](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
+- [NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs) ([Web](https://nsfwjs.com/))

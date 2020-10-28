@@ -45,3 +45,5 @@
 - [Obsidian - GraphQL caching client & server module for Deno (2020)](https://blog.graphqleditor.com/obsidian-graphql-caching-client-server-module-for-deno/)
 - [Denosaurs](https://github.com/denosaurs) - Developing deno.land modules such as denon. ([Web](https://denosaurs.land/))
 - [Deno - An Unfinished Beauty (2020)](https://dev.to/emnudge/deno-an-unfinished-beauty-4bhn)
+- [Deno DOM](https://github.com/b-fuze/deno-dom) - Browser DOM in Deno.
+- [dext.ts](https://github.com/lucacasonato/dext.ts) - Preact Framework for Deno. Dext.ts is heavily inspired by Next.js.

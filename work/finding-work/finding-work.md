@@ -83,3 +83,5 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Deciding to switch companies (2020)](https://lethain.com/deciding-to-switch/)
 - [HerJobs](https://herjobs.co/) - Hire female talent from emerging economies.
 - [Tips on getting a job with Twitter](https://twitter.com/sehurlburt/status/923830594240372736)
+- [YC Work at Startup](https://www.workatastartup.com/)
+- [LinkedIn Job Finder Bot](https://github.com/eilonmore/job-finder) - NodeJS LinkedIn bot that connects to people and send messages automatically. ([Article](https://codeburst.io/how-i-nailed-a-job-with-this-nodejs-linkedin-bot-6fcada2afbe1))

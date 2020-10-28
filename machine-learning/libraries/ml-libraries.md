@@ -71,3 +71,4 @@
 - [pescador](https://github.com/pescadores/pescador) - Library for streaming (numerical) data, primarily for use in machine learning applications.
 - [TPOT (Tree-based Pipeline Optimization Tool)](https://github.com/EpistasisLab/tpot) - Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. ([Docs](http://epistasislab.github.io/tpot/))
 - [GraKeL](https://github.com/ysig/GraKeL) - Library that provides implementations of several well-established graph kernels. scikit-learn compatible.
+- [creme](https://github.com/creme-ml/creme) - Python library for online machine learning. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data. ([Docs](https://creme-ml.github.io/))

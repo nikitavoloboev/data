@@ -24,3 +24,4 @@
 - [Poor Man's CSS Full-Bleed Layout (2020)](https://uglyduck.ca/poor-mans-full-bleed/)
 - [Full bleed layout using simple CSS (2020)](https://kilianvalkhof.com/2020/css-html/full-bleed-layout-using-simple-css/)
 - [On auto sizes in Grid Layout (2020)](https://www.youtube.com/watch?v=-FJYVwO4-BY) ([Slides](https://talks.hiddedevries.nl/K4gTqg/on-auto-sizes-in-grid-layout))
+- [Prevent layout shifts with CSS grid stacks (2020)](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/)

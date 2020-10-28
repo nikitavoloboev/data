@@ -29,3 +29,4 @@ Use it for projects as a wiki of docs, notes, todos.
 - [Notion for Artists and Creatives](https://flowarte.com/notion-for-artists-and-creatives/)
 - [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion.
 - [Notion Tools](https://www.notion.so/Notion-Tools-25d054da911344199cdf403cc04f317c)
+- [Notion Landing Pages, Ultimate Guide](https://optemization.com/notion-landing-page-guide)

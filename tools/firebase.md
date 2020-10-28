@@ -15,3 +15,5 @@
 - [Firebase firestore lite](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight cloud firestore library for the browser.
 - [Firebase Emulator](https://firebase.googleblog.com/2020/05/local-firebase-emulator-ui.html) - Local first UI to boost your productivity.
 - [Firebase Quickstarts for JavaScript](https://github.com/firebase/quickstart-js)
+- [Python Firebase](https://github.com/ozgur/python-firebase) - Python interface to the Firebase's REST API.
+- [Firebase & GCP Examples](https://github.com/jthegedus/firebase-gcp-examples) - Firebase app architectures, languages, tools & some GCP things.

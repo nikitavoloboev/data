@@ -98,3 +98,5 @@
 - [HDRI Haven](https://hdrihaven.com/) - 100% Free High Quality HDRIs for Everyone.
 - [TwinklebearDev SDL 2.0 Tutorial](https://www.willusher.io/pages/sdl2/) ([Code](https://github.com/Twinklebear/TwinklebearDev-Lessons))
 - [Will Usher's research](https://www.willusher.io/)
+- [Graphics Samples of Jiayin Cao](https://github.com/JiayinCao/Graphics-Samples)
+- [Jiayin Cao Graphics Notes Blog](https://agraphicsguynotes.com/posts/)

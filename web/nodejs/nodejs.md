@@ -125,3 +125,5 @@
 - [Esbuilt optimizer](https://github.com/remorses/vite-esbuild-optimizer) - Convert your dependencies to ESM bundles using esbuild.
 - [Why Node isn't exiting?](https://github.com/myndzi/wtfnode)
 - [fast-csv](https://github.com/C2FO/fast-csv) - Library for parsing and formatting CSVs or any other delimited value file in node.
+- [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow.
+- [node-gyp](https://github.com/nodejs/node-gyp) - Cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js.

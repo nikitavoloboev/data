@@ -42,6 +42,7 @@
 - [Scientists Discovered a Mysterious Organ Lurking in the Centre of the Head (2020)](https://www.sciencealert.com/chance-discovery-reveals-mysterious-organ-lurking-in-human-head-missed-for-centuries) ([HN](https://news.ycombinator.com/item?id=24846026))
 - [Cell Press: Neuron](https://www.cell.com/neuron/home) - Biweekly peer-reviewed scientific journal. Covers neuroscience and related biological processes.
 - [Neuromatch](https://neuromatch.io/) - Conference made for the whole neuroscience community.
+- [Cortical Circuitry book (2017)](http://corticalcircuitry.com/) - Provides a readable account of how the neocortex works.
 
 ## Images
 

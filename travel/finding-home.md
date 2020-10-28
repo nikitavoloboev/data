@@ -35,3 +35,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Where the missing middle of housing isn't missing (2020)](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing) ([HN](https://news.ycombinator.com/item?id=24135153))
 - [Zillow](https://www.zillow.com/) - Real Estate, Apartments, Mortgages & Home Values.
 - [Nude](https://www.getnude.com/) - Savings account and financial friend for first-time home buyers.
+- [Trulia](https://www.trulia.com/) - Real Estate Listings, Homes For Sale, Housing Data.

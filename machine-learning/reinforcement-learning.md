@@ -116,3 +116,6 @@
 - [TensorLayer](https://github.com/tensorlayer/tensorlayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers. ([Docs](https://tensorlayer.readthedocs.io/en/latest/))
 - [FitML](https://github.com/FitMachineLearning/FitML) - Collection of python Machine Learning articles and examples.
 - [Notes and scripts for SC2LE released by DeepMind and Blizzard](https://github.com/greentfrapp/pysc2-RLagents)
+- [PFRL](https://github.com/pfnet/pfrl) - PyTorch-based deep reinforcement learning library.
+- [Deep Reinforcement Learning Papers](https://github.com/muupan/deep-reinforcement-learning-papers)
+- [ChainerRL](https://github.com/chainer/chainerrl) - Deep reinforcement learning library built on top of Chainer.

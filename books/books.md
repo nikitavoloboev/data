@@ -292,3 +292,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Write Useful Books](https://writeusefulbooks.com/) - Guide containing everything I know about how to design, test, and refine nonfiction books.
 - [Inventaire](https://inventaire.io/) - Collaborative resource mapper powered by open-knowledge, starting with books. ([Code](https://github.com/inventaire/inventaire))
 - [Five Books](https://fivebooks.com/) - Best Books Recommended by Leading Experts.
+- [3D Book Cover](https://3dbook.xyz/) - Create your 3D Book Cover, and embed it on your website. ([HN](https://news.ycombinator.com/item?id=24906487))

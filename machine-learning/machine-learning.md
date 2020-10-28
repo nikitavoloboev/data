@@ -330,3 +330,7 @@
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials (2018)](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 - [What is a Feature Store? (2020)](https://www.tecton.ai/blog/what-is-a-feature-store/)
 - [Awesome AutoML Papers](https://github.com/hibayesian/awesome-automl-papers) - Curated list of automated machine learning papers, articles.
+- [Machine Learning Systems Design at Stanford course (2020)](https://huyenchip.com/2020/10/27/ml-systems-design-stanford.html)
+- [Preferred Networks](https://preferred.jp/en/) - Develops practical applications of deep learning and other cutting-edge technologies. ([GitHub](https://github.com/pfnet))
+- [ML Art](https://mlart.co/) - Curated showcase of creative machine learning artworks and projects.
+- [Decision Making under Uncertainty course](https://web.stanford.edu/class/aa228/cgi-bin/wp/) ([Algorithms for Decision Making book](https://github.com/sisl/algorithmsbook/)) ([Concise Deep Learning Overview (2020)](https://web.stanford.edu/group/sisl/public/dm/chapter-31.pdf) ([HN](https://news.ycombinator.com/item?id=24908999)))

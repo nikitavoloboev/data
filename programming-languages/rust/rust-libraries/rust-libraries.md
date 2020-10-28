@@ -495,6 +495,9 @@
 - [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. ([HN](https://news.ycombinator.com/item?id=24888307))
 - [OpenTelemetry-Rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust.
 - [cap-std](https://github.com/sunfishcode/cap-std) - Capability-oriented version of the Rust standard library.
+- [Fuzzy Matcher](https://github.com/lotabout/fuzzy-matcher) - Fuzzy Matching Library for Rust.
+- [dirs-next](https://github.com/xdg-rs/dirs) - Low-level library that provides config/cache/data paths.
+- [generator-rs](https://github.com/Xudong-Huang/generator-rs) - Rust stackful generator library.
 
 ## Cargo Plugins
 

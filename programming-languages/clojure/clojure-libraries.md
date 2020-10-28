@@ -7,6 +7,10 @@
 - [bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites.
 - [Biff](https://github.com/jacobobryant/biff) - Web framework + self-hosted deployment solution for Clojure. ([Migrating to Biff, a self-hosted Firebase alternative for Clojure](https://findka.com/blog/migrating-to-biff/)) ([Web](https://findka.com/biff/#introduction)) ([HN](https://news.ycombinator.com/item?id=23921220))
 
+## DB
+
+- [asami](https://github.com/threatgrid/asami) - An in memory graph store for Clojure and ClojureScript.
+
 ## Other
 
 - [nippy](https://github.com/ptaoussanis/nippy) - High-performance serialization library for Clojure.
@@ -27,6 +31,7 @@
 - [jsonista](https://github.com/metosin/jsonista) - Clojure library for fast JSON encoding and decoding.
 - [malli](https://github.com/metosin/malli) - Data-driven Schemas for Clojure/Script.
 - [state-machete](https://github.com/retro/state-machete) - Functional statecharts implementation for Clojure and ClojureScript.
+- [causatum](https://github.com/candera/causatum) - Clojure library for generating streams of events based on stochastic state machines.
 
 ## Links
 

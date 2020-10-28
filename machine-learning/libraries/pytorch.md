@@ -153,3 +153,4 @@
 - [MeshCNN in PyTorch](https://github.com/ranahanocka/MeshCNN) - General-purpose deep neural network for 3D triangular meshes, which can be used for tasks such as 3D shape classification or segmentation.
 - [tinygrad](https://github.com/geohot/tinygrad) - Something in between a PyTorch and a karpathy/micrograd.
 - [Lucent](https://github.com/greentfrapp/lucent) - Lucid library adapted for PyTorch.
+- [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch.

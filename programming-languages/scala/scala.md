@@ -15,7 +15,7 @@
 - [Fury](https://github.com/propensive/fury) - Experimental dependency manager and build tool for Scala.
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices) - Collection of Scala best practices.
 - [scala-steward](https://github.com/fthomas/scala-steward) - Robot that helps you keeping your Scala projects up-to-date.
-- [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool.
+- [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool. ([Build Tool based on Pure Functional Programming](https://www.youtube.com/watch?v=j6uThGxx-18))
 - [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
 - [Functional Programming in Scala book](https://www.manning.com/books/functional-programming-in-scala)
 - [Scala Almost Succeeded (2019)](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5) ([Lobsters](https://lobste.rs/s/ku13t3/scala_almost_succeeded))

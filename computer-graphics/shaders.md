@@ -20,3 +20,5 @@
 - [The RTX Shader Binding Table Three Ways (2019)](https://www.willusher.io/graphics/2019/11/20/the-sbt-three-ways)
 - [ShaderTutorials](https://github.com/Xibanya/ShaderTutorials) - Shaders For People Who Don't Know How To Shader, a tutorial series for beginners.
 - [The future of RLSL (2020)](https://maikklein.github.io/rlsl-update3/)
+- [A Note on Branching Within a Shader (2020)](https://www.peterstefek.me/shader-branch.html)
+- [Tiny Shading Language](https://github.com/JiayinCao/Tiny-Shading-Language)

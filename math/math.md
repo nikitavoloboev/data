@@ -204,3 +204,4 @@
 - [Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) ([HN](https://news.ycombinator.com/item?id=24867685))
 - [Ask HN: How do I improve my command of mathematical language? (2020)](https://news.ycombinator.com/item?id=24866734)
 - [Ask HN: Which general programming language is good for learning/exploring math? (2020)](https://news.ycombinator.com/item?id=24884561)
+- [Theta](http://thetamath.com/) - Web app that graphs an equation and allows you to pan and zoom around the coordinate grid. ([Code](https://github.com/evanw/theta))

@@ -7,6 +7,7 @@
 - [Guardian Coding Exercises](https://github.com/guardian/coding-exercises)
 - [Skyscanner](https://github.com/Skyscanner/full-stack-recruitment-test)
 - [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
+- [PFN Internship Coding Tasks](https://github.com/pfnet/intern-coding-tasks)
 
 ## Nice Job pages
 

@@ -61,6 +61,7 @@
 - [use-asset](https://github.com/pmndrs/use-asset) - Data fetching strategy for React Suspense. ([Tweet](https://twitter.com/0xca0a/status/1315574053307133952))
 - [use-state-with-deps](https://github.com/peterjuras/use-state-with-deps) - React hook to use state and reset with dependencies.
 - [react-time-sync](https://github.com/peterjuras/react-time-sync) - React library to synchronize timers across an application.
+- [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints.
 
 ## Notes
 

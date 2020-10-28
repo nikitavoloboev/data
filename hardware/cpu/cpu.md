@@ -49,3 +49,4 @@
 - [VSCode JS Profile Visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) - Custom editor for viewing .cpuprofile files in VS Code. Pairs well with new JavaScript debugger.
 - [LDM: My Favorite ARM Instruction (2020)](https://keleshev.com/ldm-my-favorite-arm-instruction/) ([HN](https://news.ycombinator.com/item?id=24785357))
 - [How Debuggers Work: Getting and Setting x86 Registers (2020)](https://www.moritz.systems/blog/how-debuggers-work-getting-and-setting-x86-registers-part-1/)
+- [Taiwan Semiconductor](https://www.taiwansemi.com/) - Taiwanese multinational semiconductor contract manufacturing and design company.

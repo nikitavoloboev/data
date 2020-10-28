@@ -27,3 +27,4 @@
 - [R & stats illustrations](https://github.com/allisonhorst/stats-illustrations)
 - [Tidy Modeling with R](https://www.tmwr.org/)
 - [Torch](https://github.com/mlverse/torch) - PyTorch port using LibTorch for R. ([Intro](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/))
+- [coro](https://github.com/r-lib/coro) - Coroutines for R.

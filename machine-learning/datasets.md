@@ -35,7 +35,7 @@
 - [DataHub](https://datahub.io/) - Provide various solutions to Publish and Deploy your Data with power and simplicity.
 - [Core Data](https://datahub.io/docs/core-data) - Important, commonly-used data as high quality, easy-to-use & open data packages. ([Code](https://github.com/datasets))
 - [Awesome collections on DataHub](https://github.com/datasets/awesome-data)
-- [Label Studio](https://labelstud.io/) - Multi-type data labeling and annotation tool with standardized output format. ([Code](https://github.com/heartexlabs/label-studio))
+- [Label Studio](https://labelstud.io/) - Multi-type data labeling and annotation tool with standardized output format. ([Code](https://github.com/heartexlabs/label-studio)) ([Time Series Data Labeling](https://labelstud.io/blog/release-080-time-series-labeling.html))
 - [Heartex](https://www.heartex.ai/) - Data Management Platform for Machine Learning.
 - [Clothing Dataset: Call for Action (2020)](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)
 - [Unsplash Dataset](https://github.com/unsplash/datasets) - 2,000,000+ Unsplash images made available for research and machine learning. ([Web](https://unsplash.com/data))

@@ -37,6 +37,7 @@
 - [next-iron-session](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data.
 - [next-unused](https://github.com/pacocoursey/next-unused) - Find unused files in your Next.js projects.
 - [next-img](https://github.com/humaans/next-img) - Next.js plugin for embedding optimized images.
+- [Next.js plugin for preact X](https://github.com/preactjs/next-plugin-preact)
 
 ## Notes
 

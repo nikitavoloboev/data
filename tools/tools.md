@@ -81,7 +81,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Cosign](https://cosign.co/login)
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Friendly Captcha](https://friendlycaptcha.com/) - User-friendly CAPTCHA alternative.
-- [POLAR](https://getpolarized.io/) - Integrated reading environment to build your knowledge base. Actively read, annotate, connect thoughts, create flashcards, and track progress. ([Code](https://github.com/burtonator/polar-bookshelf))
+- [Polar](https://getpolarized.io/) - Integrated reading environment to build your knowledge base. Actively read, annotate, connect thoughts, create flashcards, and track progress. ([Code](https://github.com/burtonator/polar-bookshelf)) ([HN](https://news.ycombinator.com/item?id=24908227))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
 - [Braid](http://www.braidchat.com/) - Team-chat app with a novel UI that leads to better conversations. ([Code](https://github.com/braidchat/braid))
 - [Lighthouse](https://lighthouse.black.af/) - Intelligent Webmention hosting you can rely on.
@@ -100,7 +100,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
 - [Rollbar](https://rollbar.com/) - Error Tracking Software.
 - [Miro](https://miro.com/) - Where distributed teams get work done.
-- [Slate](https://slate.host/) - File storage network for you, your files, and your friends.
+- [Slate](https://slate.host/) - Open source Filecoin client for data that makes it easy to collect, organize, and share data anywhere. ([Code](https://github.com/filecoin-project/slate))
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
@@ -193,11 +193,13 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
 - [NoCo](https://noco.io/) - Low-code platform for engineering teams.
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
+- [Branch](https://branch.io/) - Mobile linking platform powering deep links and mobile attribution. ([iOS SDK](https://github.com/BranchMetrics/ios-branch-deep-linking-attribution))
 - [Google Cloud Search](https://cloudsearch.google.com) - Helps your employees quickly, easily, and securely find information across the business, whether integrated with G Suite.
 - [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
 - [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
 - [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
+- [Linktree](https://linktr.ee/) - Connect audiences to all of your content with just one link.
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
 - [Pantry](https://getpantry.cloud/) - Free data storage as a service. A good resource when building personal projects, apps for hackathons, and prototypes alike. ([Code](https://github.com/imRohan/Pantry))
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
@@ -330,6 +332,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - Lightning-fast linter for .env files. Written in Rust.
 - [Coral](https://coralproject.net/) - Better commenting experience.
+- [projen](https://github.com/eladb/projen) - Define and maintain complex project configuration through code.
 - [Pory](https://pory.io/) - Create websites using Airtable in minutes.
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
 - [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
@@ -396,3 +399,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [PDF Wrench](https://pdfwrench.com/) - Combine multiple PDF pages and images into one PDF document. ([HN](https://news.ycombinator.com/item?id=24830927))
 - [Tools for Conviviality (1973)](http://www.davidtinapple.com/illich/1973_tools_for_convivality.html)
 - [Gitlab: Tech Stack (2020)](https://about.gitlab.com/handbook/business-ops/tech-stack/) ([HN](https://news.ycombinator.com/item?id=24868415))
+- [Open source, experimental, and tiny tools roundup](https://github.com/everestpipkin/tools-list) - Smaller tools that might be useful in building your game/website/interactive project.

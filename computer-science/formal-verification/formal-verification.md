@@ -40,5 +40,5 @@
 - [The Assembly Language of Satisfiability (2020)](https://jix.one/the-assembly-language-of-satisfiability/)
 - [Continuous compliance with lightweight verification tools (2020)](https://homes.cs.washington.edu/~mernst/pubs/continuous-compliance-ase2020.pdf)
 - [Runtime Verification](https://runtimeverification.com/) - Startup company aimed at using runtime verification-based techniques to improve the safety, reliability, and correctness of software systems.
-- [Crucible](https://github.com/GaloisInc/crucible) - Language-agnostic library for performing forward symbolic execution of imperative programs. It provides a collection of data-structures and APIs for expressing programs as control-flow graphs. ([Web](https://crux.galois.com/))
+- [Crucible](https://github.com/GaloisInc/crucible) - Language-agnostic library for performing forward symbolic execution of imperative programs. It provides a collection of data-structures and APIs for expressing programs as control-flow graphs. ([Web](https://crux.galois.com/)) ([Intro](https://galois.com/blog/2020/10/crux-introducing-our-new-open-source-tool-for-software-verification/))
 - [snarky](https://github.com/o1-labs/snarky) - OCaml DSL for verifiable computation.

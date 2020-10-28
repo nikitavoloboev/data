@@ -84,3 +84,4 @@
 - [Remotely People](https://remotelypeople.com/) - Worldwide Remote jobs in design, marketing, programming.
 - [Workaline.com](https://workaline.com/) - Remote job board.
 - [Remote team bonding ideas (2020)](https://twitter.com/louispilfold/status/1320740516053590016)
+- [onsite.fun](https://onsite.fun/) - Online activities for remote teams.

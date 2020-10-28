@@ -467,7 +467,7 @@
 
 ## Links
 
-- [Swift Package Index](https://swiftpackageindex.com/) - The place to find Swift packages. ([Code](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server))
+- [Swift Package Index](https://swiftpackageindex.com/) - The place to find Swift packages. ([Server](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server)) ([Repo List](https://github.com/SwiftPackageIndex/PackageList))
 - [Swift Package Registry](https://swiftpackageregistry.com/) ([Code](https://github.com/twodayslate/swift-package-registry/))
 - [SwiftPM Library](https://swiftpm.co/) - Place to find packages for Swift. ([Code](https://github.com/daveverwer/SwiftPMLibrary))
 - [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.

@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/))
 - [ScrapingBee](https://www.scrapingbee.com/) - Web Scraping API.
 - [Easy web scraping with Scrapy (2019)](https://www.scrapingbee.com/blog/web-scraping-with-scrapy/)
 - [A guide to Web Scraping without getting blocked in 2020](https://www.scrapingbee.com/blog/web-scraping-without-getting-blocked/)

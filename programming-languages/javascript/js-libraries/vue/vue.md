@@ -31,3 +31,5 @@
 - [Using State Machines in Vue.js with XState (2020)](https://frontstuff.io/using-state-machines-in-vuejs-with-xstate)
 - [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 - [What Vue.js Does Better Than React (2020)](https://hswolff.com/blog/what-vuejs-does-better-than-react/)
+- [Things I Don’t Like about Vue.js (as a React engineer) (2020)](https://hswolff.com/blog/things-i-dont-like-about-vuejs-as-a-react-engineer/)
+- [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.

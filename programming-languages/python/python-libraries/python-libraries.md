@@ -181,6 +181,10 @@
 - [Typing Inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module.
 - [Scalpl](https://github.com/ducdetronquito/scalpl) - Lightweight wrapper to operate on nested dictionaries seamlessly.
 - [JSONStreams](https://github.com/dcbaker/jsonstreams) - Python library for writing JSON documents as streams.
+- [Transducers](https://github.com/jjtolton/pyxfn) - Pure Python implementation of Clojure's transducers.
+- [TextDistance](https://github.com/life4/textdistance) - Python library for comparing distance between two or more sequences by many algorithms.
+- [Deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
+- [PFIO](https://github.com/pfnet/pfio) - Library to access various filesystems with unified API.
 
 ## Links
 

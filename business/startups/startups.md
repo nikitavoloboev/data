@@ -234,6 +234,7 @@
 - [Typical problems of technical founders (2018)](https://qotoqot.com/blog/blind-spots/)
 - [What you should know as a founder of a software company (2017)](https://qotoqot.com/blog/founder-skills/) ([HN](https://news.ycombinator.com/item?id=15512592))
 - [SaaS Manual](https://saasmanual.com/) - Learn how to build "Software as a Service" products from scratch.
+- [Founder Library](https://www.founderlibrary.com/) - Learning portal packed with hundreds of resources to help startup founders go further faster.
 
 ## Images
 

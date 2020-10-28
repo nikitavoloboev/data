@@ -18,7 +18,7 @@
 - [LLVM Tutor](https://github.com/banach-space/llvm-tutor) - Collection of self-contained reference LLVM passes. It's a tutorial that targets novice and aspiring LLVM developers.
 - [LLVM Discourse](https://llvm.discourse.group/)
 - [LLVM Discord](https://discordapp.com/invite/xS7Z362)
-- [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
+- [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html) ([step-by-step tutorial for building an LLVM sample pass](https://github.com/abenkhadra/llvm-pass-tutorial))
 - [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
 - [haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR, written in Rust.
 - [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”](https://www.youtube.com/watch?v=m8G_S5LwlTo)

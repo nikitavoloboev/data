@@ -77,6 +77,7 @@
 - [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Facebook Graph API SDK Go](https://github.com/huandu/facebook)
 - [Trello Go](https://github.com/adlio/trello) - Trello API wrapper for Go.
+- [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
 - [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
@@ -162,3 +163,4 @@
 - [Customizing API Documentation with Next.JS, Tailwind CSS, and ReadMe (2020)](https://scale.com/blog/quick-start-guide-to-customized-api-documentation)
 - [OpenAPI 3 Generator](https://github.com/egorsmkv/openapi3-generator) - Faster way to prototype your APIs using OpenAPI 3 and Swagger UI. ([HN](https://news.ycombinator.com/item?id=24867853))
 - [Hoppscotch](https://hoppscotch.io/) - Free, fast and beautiful API request builder. ([Code](https://github.com/hoppscotch/hoppscotch))
+- [Optic](https://useoptic.com/) - APIs that Document and Test Themselves. ([Code](https://github.com/opticdev/optic))

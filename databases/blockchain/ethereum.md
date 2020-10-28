@@ -95,3 +95,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Looking at ownership in the EVM (2018)](https://medium.com/@kelvinfichter/looking-at-ownership-in-the-evm-6e6914d341d)
 - [What’s a Sparse Merkle Tree? (2018)](https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837)
 - [Rosetta Ethereum](https://github.com/coinbase/rosetta-ethereum) - Ethereum Rosetta API Implementation.
+- [multiproof.rs](https://github.com/gballet/multiproof-rs) - Rust implementation of Alexey Akhunov's multiproof algorithm.
+- [Notional Finance](https://notional.finance/) - Fixed rate lending and borrowing protocol on Ethereum. ([Code](https://github.com/notional-finance/contracts))
+- [List of 4byte identifiers to common smart contract functions](https://github.com/ethereum-lists/4bytes)

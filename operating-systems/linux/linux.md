@@ -185,3 +185,4 @@
 - [Sysmon](https://github.com/MatthiasSchinzel/sysmon) - Graphical system monitor for linux.
 - [Linux Commands frequently used by Linux Sysadmins (2020)](https://haydenjames.io/linux-commands-frequently-used-by-linux-sysadmins-part-1/)
 - [Core Wayland protocol and libraries](https://github.com/wayland-project/wayland)
+- [Diving into /proc/[pid]/mem (2020)](https://blog.cloudflare.com/diving-into-proc-pid-mem/)

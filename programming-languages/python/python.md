@@ -193,3 +193,7 @@
 - [Python Core Developers Q&A (2020)](https://www.youtube.com/watch?v=gXMdfBTcOfQ)
 - [Dlint](https://github.com/dlint-py/dlint) - Tool for encouraging best coding practices and helping ensure Python code is secure.
 - [Higher Kinded Types in Python (2020)](https://sobolevn.me/2020/10/higher-kinded-types-in-python)
+- [My Experience In Production with: Flask, Bottle, Tornado and Twisted (2020)](https://thehftguy.com/2020/10/27/my-experience-in-production-with-flask-bottle-tornado-and-twisted/)
+- [FlakeHell](https://github.com/life4/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
+- [Awesome Python Code Formatters](https://github.com/life4/awesome-python-code-formatters)
+- [Austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython written in pure C.

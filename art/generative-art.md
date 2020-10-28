@@ -72,3 +72,4 @@
 - [Functional Geometry](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf) ([Code](https://github.com/micahhahn/FunctionalGeometry))
 - [Plotter Mushroom](https://github.com/cinnamon-bun/plotter-mushroom) - Algorithm for generating SVG art.
 - [List of Generative Art and Live Coding Tools](https://opinionatedguide.github.io/#/Design/d5-gen) ([HN](https://news.ycombinator.com/item?id=24889333))
+- [Generative Book Covers](https://github.com/golanlevin/generative_covers)

@@ -48,3 +48,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [Cloud Code for Visual Studio Code](https://github.com/GoogleCloudPlatform/cloud-code-vscode) - Brings the power and convenience of IDEs to developing cloud-native Kubernetes and Cloud Run applications.
 - [GitHub and VS Code](https://vscode.github.com/)
 - [VS Code Tips](https://twitter.com/vscodetips)
+- [VS Code Wiki](https://github.com/Microsoft/vscode/wiki) ([Code](https://github.com/microsoft/vscode-wiki))

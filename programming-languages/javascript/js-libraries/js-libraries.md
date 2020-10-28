@@ -336,6 +336,10 @@
 - [eslisp](https://github.com/anko/eslisp) - S-expression syntax for JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable.
 - [Smoldash](https://github.com/marvinhagemeister/smoldash) - Tiny lodash alternative built for the modern web.
 - [TypewriterJS](https://github.com/tameemsafi/typewriterjs) - Simple yet powerful native javascript plugin for a cool typewriter effect.
+- [sse.js](https://github.com/mpetazzoni/sse.js) - Flexible Server Side Events source for JavaScript.
+- [Arkit](https://github.com/dyatko/arkit) - Visualises JavaScript, TypeScript and Flow codebases as meaningful and committable architecture diagrams. ([Web](https://arkit.pro/))
+- [jsii](https://github.com/aws/jsii) - Allows code in any language to naturally interact with JavaScript classes.
+- [proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap. ([Tweet](https://twitter.com/dai_shi/status/1321089602623557639))
 
 ## Links
 
