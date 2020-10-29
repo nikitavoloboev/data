@@ -25,3 +25,4 @@
 - [HN: D3 6.0 (2020)](https://news.ycombinator.com/item?id=24288497)
 - [visx](https://github.com/airbnb/visx) - Collection of reusable low-level visualization components. ([Web](https://airbnb.io/visx/))
 - [D3 Discovery](https://d3-discovery.net/) - Find D3 plugins with ease.
+- [How D3 Selections Work (2013)](https://bost.ocks.org/mike/selection/)

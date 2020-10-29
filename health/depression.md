@@ -7,6 +7,7 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 ## Notes
 
 - [Jealousy is natural. You are not a terrible person for feeling jealous. That feeling of jealousy is your responsibility to find ways to work with. And you can find ways to work with it.](https://twitter.com/gildedspine/status/1291863161486880770)
+- [Burnout is a response to repeated attempts to make meaningful change while lacking the agency to do so. See problems > try to fix them > get shot down or ignored.](https://twitter.com/marcysutton/status/1292971874570256385)
 
 ## Links
 

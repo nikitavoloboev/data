@@ -70,6 +70,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [mirror-displays](https://github.com/fcanas/mirror-displays) - Mac app and command-line tool for fiddling with display mirroring: on/off/toggle.
 - [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
 - [VirtualKVM](https://github.com/duanefields/VirtualKVM) - Automatically toggles Bluetooth and Target Display Mode when you connect a Macbook to your iMac via Thunderbolt.
+- [Keycastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.
 
 ## Other interesting apps
 

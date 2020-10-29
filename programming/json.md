@@ -31,3 +31,4 @@
 - [Hjson](https://hjson.github.io/) - User interface for JSON.
 - [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite)
 - [Mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON).
+- [JMESPath](https://jmespath.org/) - Query language for JSON. ([go-jmespath](https://github.com/jmespath/go-jmespath))

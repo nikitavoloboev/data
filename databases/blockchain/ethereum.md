@@ -99,3 +99,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Notional Finance](https://notional.finance/) - Fixed rate lending and borrowing protocol on Ethereum. ([Code](https://github.com/notional-finance/contracts))
 - [List of 4byte identifiers to common smart contract functions](https://github.com/ethereum-lists/4bytes)
 - [Balancer](https://balancer.finance/) - Non-custodial portfolio manager, liquidity provider, and price sensor. ([Pool management](https://pools.balancer.exchange/#/)) ([GitHub](https://github.com/balancer-labs))
+- [Truffle Suite](https://www.trufflesuite.com/) - Sweet Tools for Smart Contracts. ([Docs](https://www.trufflesuite.com/docs/truffle/overview))

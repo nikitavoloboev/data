@@ -108,6 +108,8 @@
 - [PIPKit](https://github.com/Kofktu/PIPKit) - Picture in Picture for iOS.
 - [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - Simple but highly customizable paging layout for UICollectionView.
 - [Selene](https://github.com/linkedin/Selene) - iOS library which schedules the execution of tasks on a background fetch.
+- [GPUImage](https://github.com/BradLarson/GPUImage) - Open source iOS framework for GPU-based image and video processing.
+- [Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift.
 
 ## macOS
 
@@ -169,6 +171,7 @@
 - [Parma](https://github.com/dasautoooo/Parma) - SwiftUI view for displaying Markdown with customizable appearances.
 - [SwiftUI Visual Effects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 - [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - SwiftUI view for dynamically highlighting user input.
+- [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - Collection of missing SwiftUI components.
 
 ## Test
 
@@ -461,6 +464,7 @@
 - [Fuse Swift](https://github.com/krisk/fuse-swift) - Lightweight fuzzy-search library, with zero dependencies.
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing.
 - [Burritos](https://github.com/guillermomuntaner/Burritos) - Collection of well tested Swift Property Wrappers.
+- [workflow-swift](https://github.com/square/workflow-swift) - Unidirectional data flow library for Swift and Kotlin.
 
 ## Other (not lib)
 

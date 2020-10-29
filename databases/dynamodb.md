@@ -29,3 +29,6 @@
 - [Patterns: Serverless Rust + GraphQL + DynamoDB on AWS Lambda](https://github.com/codetalkio/patterns-serverless-rust)
 - [Live Migration of DynamoDB Tables (2020)](https://codetalk.io/posts/2020-03-19-Live-Migration-of-DynamoDB-Tables.html)
 - [dynamit-cli](https://github.com/floydspace/dynamodb-migrations-tool) - DynamoDB Migrations Tool CLI.
+- [AsyncIO DynamoDB](https://github.com/HENNGE/aiodynamo) - Asynchronous, fast, pythonic DynamoDB Client. ([Docs](https://aiodynamo.readthedocs.io/en/latest/))
+- [Best Practices for Designing and Architecting with DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
+- [Rotary](https://github.com/akkoro/rotary) - ORM-like query library for DynamoDB.

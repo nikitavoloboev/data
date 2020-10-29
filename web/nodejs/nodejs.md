@@ -127,3 +127,5 @@
 - [fast-csv](https://github.com/C2FO/fast-csv) - Library for parsing and formatting CSVs or any other delimited value file in node.
 - [ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The Node.js cli interactive workflow.
 - [node-gyp](https://github.com/nodejs/node-gyp) - Cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js.
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues.
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS.

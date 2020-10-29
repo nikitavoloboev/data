@@ -109,3 +109,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Awesome CDK](https://github.com/kolomied/awesome-cdk)
 - [Where to Start with AWS as a Developer (2020)](https://www.samjulien.com/where-to-start-with-aws-as-a-developer)
 - [AWS Cost Comparison Tool](https://github.com/rocketmiles/aws-cct)
+- [My AWS toolbox - tools, plugins and applications (2020)](https://betterdev.blog/my-aws-toolbox/)
+- [Amazon ECR Docker Credential Helper](https://github.com/awslabs/amazon-ecr-credential-helper)

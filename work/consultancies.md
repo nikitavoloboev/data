@@ -132,6 +132,8 @@
 - [LateCheckout](https://withlatecheckout.com/) - Communities design firm.
 - [Underjord](https://underjord.io/) - Artisanal software development, quality productions and some teaching.
 - [Strumenta](https://strumenta.com/)
+- [RokkinCat](https://rokkincat.com/)
+- [The Agile Monkeys](https://www.theagilemonkeys.com/) - Team of full-stack senior software engineers.
 
 ## Links
 

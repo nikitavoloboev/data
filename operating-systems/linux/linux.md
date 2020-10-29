@@ -2,10 +2,13 @@
 
 ## Distributions
 
+- [Ubuntu](https://ubuntu.com/) - Enterprise Open Source and Linux.
+- [Arch Linux](https://www.archlinux.org/) - Simple, lightweight distribution.
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
 - [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
 - [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux))
 - [Liquorix](https://liquorix.net/) - Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. ([Why use it](https://github.com/zen-kernel/zen-kernel/issues/30#issuecomment-647045343))
+- [NixOS](nixos.md)
 
 ## WM
 
@@ -188,3 +191,5 @@
 - [Diving into /proc/[pid]/mem (2020)](https://blog.cloudflare.com/diving-into-proc-pid-mem/)
 - [Looking Glass](https://looking-glass.io/) - Open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. ([Code](https://github.com/gnif/LookingGlass))
 - [eBPF Summit 2020](https://ebpf.io/summit-2020/)
+- [What's in a Linux executable? (2020)](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) ([HN](https://news.ycombinator.com/item?id=24926925))
+- [Paru](https://github.com/Morganamilo/paru) - AUR helper and pacman wrapper.

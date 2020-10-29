@@ -60,3 +60,4 @@
 - [Buildwatch for Xcode](https://www.buildwatch.app/) - Mac app to track your compile times.
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner-SwiftUI) - Make Xcode Clean Again. Make your Xcode faster by removing unwanted and deprecated files.
 - [Xcode Github Theme](https://github.com/cntrump/Xcode-github-theme)
+- [Xcode Color Assets](https://github.com/nesium/xcode-color-assets) - Create (dark mode compatible) color assets for Xcode programmatically from a CSS-like textfile.

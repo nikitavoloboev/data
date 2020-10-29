@@ -38,3 +38,4 @@
 - [libtorrent adds support for the WebTorrent protocol (2020)](https://feross.org/libtorrent-webtorrent/)
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - Little app to search for torrents on popular trackers and to open them with a local or a remote client.
 - [distribyted](https://github.com/distribyted/distribyted) - Torrent client with on-demand file downloading as a filesystem.
+- [TorrentFreak](https://torrentfreak.com/) - Blog dedicated to reporting the latest news and trends on the BitTorrent protocol and file sharing.

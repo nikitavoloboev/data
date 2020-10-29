@@ -176,3 +176,5 @@
 - [Rethinking Attention with Performers (2020)](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html) ([HN](https://news.ycombinator.com/item?id=24878116))
 - [BERT Research - Key Concepts & Sources (2019)](https://mccormickml.com/2019/11/11/bert-research-ep-1-key-concepts-and-sources/)
 - [The Pile](https://github.com/EleutherAI/The-Pile) - Large, diverse, open source language modelling data set that consists of many smaller datasets combined together.
+- [Bort](https://github.com/alexa/bort) - Companion code for the paper "Optimal Subarchitecture Extraction for BERT."
+- [Vector AI](https://getvectorai.com/) - Encode And Deploy Vectors At The Edge. ([Code](https://github.com/vector-ai/vectorhub))

@@ -10,6 +10,7 @@
 ## DB
 
 - [asami](https://github.com/threatgrid/asami) - An in memory graph store for Clojure and ClojureScript.
+- [Yesql](https://github.com/krisajenkins/yesql) - Clojure library for using SQL.
 
 ## Other
 
@@ -32,6 +33,7 @@
 - [malli](https://github.com/metosin/malli) - Data-driven Schemas for Clojure/Script.
 - [state-machete](https://github.com/retro/state-machete) - Functional statecharts implementation for Clojure and ClojureScript.
 - [causatum](https://github.com/candera/causatum) - Clojure library for generating streams of events based on stochastic state machines.
+- [grasp](https://github.com/borkdude/grasp) - Grep Clojure code using clojure.spec regexes.
 
 ## Links
 

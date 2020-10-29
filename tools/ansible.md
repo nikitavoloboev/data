@@ -10,3 +10,5 @@
 - [Ansible-defined Homelab (2020)](https://0xc45.com/blog/ansible-defined-homelab/)
 - [Ansible for DevOps Examples](https://github.com/geerlingguy/ansible-for-devops)
 - [Replacing Ansible with salt-ssh (2020)](https://blog.hartwork.org/posts/replacing-ansible-with-salt-ssh-for-speed-and-for-good/) ([HN](https://news.ycombinator.com/item?id=24856502))
+- [Ansible Quick Ref](https://github.com/lorin/ansible-quickref)
+- [Ansible: Up and Running book](http://www.ansiblebook.com/) ([Code](https://github.com/ansiblebook/ansiblebook))

@@ -125,3 +125,5 @@
 - [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
 - [SqueezeNext](https://github.com/amirgholami/SqueezeNext) - Contains the Caffe implementation of SqueezeNext.
 - [ANODE: Adjoint Based Neural ODEs](https://github.com/amirgholami/anode)
+- [Python Video Stabilization using OpenCV](https://github.com/AdamSpannbauer/python_video_stab)
+- [Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)

@@ -55,3 +55,4 @@
 - [Circle](https://circle.so/) - Modern community platform for creators.
 - [Beginner's Guide to Arguing Constructively (2020)](http://liamrosen.com/arguments.html) ([HN](https://news.ycombinator.com/item?id=24831852))
 - [Forem](https://www.forem.com/) - For empowering community. Open source software which powers dev.to. ([forem.dev](https://forem.dev/))
+- [Betting Against Real-Time Team Messaging Apps Like Slack (2020)](https://blog.doist.com/betting-against-slack/)

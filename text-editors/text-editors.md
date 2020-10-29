@@ -73,3 +73,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [What you could steal from the Kakoune code editor right now, and get away with it (2020)](https://kakoune-editor.github.io/community-articles/2020/10/01/what_steal_get_away_kakoune.html) ([Lobsters](https://lobste.rs/s/reaylm/what_you_could_steal_from_kakoune_code)) ([HN](https://news.ycombinator.com/item?id=24685267))
 - [Kakoune, a punk-rock text editor (2020)](https://gist.github.com/Screwtapello/563628f777f0fc9f4d5fb681058d63ec) ([Lobsters](https://lobste.rs/s/hq8s4c/kakoune_punk_rock_text_editor))
 - [Auto Base16 Theme](https://github.com/makuto/auto-base16-theme) - Automatically generate a base16 color set for syntax highlighting based on the colors in an image.
+- [Monaco Languages](https://github.com/microsoft/monaco-languages) - Colorization and configuration supports for multiple languages for the Monaco Editor.

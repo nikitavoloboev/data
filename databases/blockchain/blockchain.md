@@ -67,7 +67,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [ink!](https://github.com/paritytech/ink) - eDSL to write WebAssembly based smart contracts using the Rust programming language targeting Substrate blockchains.
 - [Experimental blockchain database](https://github.com/paritytech/parity-db)
 - [David Gerard: Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/)
-- [Substrate](https://github.com/paritytech/substrate) - Next-generation framework for blockchain innovation.
 - [Build a Blockchain from Scratch in Go (2020)](https://gumroad.com/l/build-a-blockchain-from-scratch-in-go/)
 - [Smart Contract Languages](https://github.com/s-tikhomirov/smart-contract-languages) - Curated collection of resources on smart contract programming languages.
 - [BlockAtlas](https://github.com/trustwallet/blockatlas) - Clean explorer API and transaction observer for cryptocurrencies.

@@ -85,3 +85,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Tips on getting a job with Twitter](https://twitter.com/sehurlburt/status/923830594240372736)
 - [YC Work at Startup](https://www.workatastartup.com/)
 - [LinkedIn Job Finder Bot](https://github.com/eilonmore/job-finder) - NodeJS LinkedIn bot that connects to people and send messages automatically. ([Article](https://codeburst.io/how-i-nailed-a-job-with-this-nodejs-linkedin-bot-6fcada2afbe1))
+- [Ask HN: Jack-of-all-trades of HN, how do you approach job search? (2020)](https://news.ycombinator.com/item?id=24916016)

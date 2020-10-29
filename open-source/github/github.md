@@ -10,6 +10,7 @@ I publish most of my work and make it open source for other people to use and re
 
 - [Anthony Fu](https://github.com/antfu) - Has nice icons.
 - [Christian Muehlhaeuser](https://github.com/muesli) - Lengthy.
+- [TJ Holowaychuk](https://github.com/tj)
 
 ## Notes
 
@@ -138,3 +139,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub-DL](https://github.com/achow101/github-dl) - GitHub Repo Full Downloader. Downloads an entire GitHub repository and it's metadata.
 - [GitHub DMCA takedown notices](https://github.com/github/dmca)
 - [Parity GitHub Processbot](https://github.com/paritytech/parity-processbot)
+- [GitHub Pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs.

@@ -132,3 +132,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [ROSS Index](https://runacap.com/ross-index/) - Fastest-growing open-source startups, every quarter.
 - [Accel - Future of Open Source: Launching the Open 100 (2020)](https://www.accel.com/noteworthy/the-future-of-open-source-launching-the-open100)
 - [Parity Public License](https://paritylicense.com/) - Public LICENSE for software that requires users who build with your software to share their work with the community, too.
+- [Journal of Open Source Software](https://joss.theoj.org/) - Committed to publishing quality research software with zero article processing charges or subscription fees. ([Code](https://github.com/openjournals/joss))
+- [Working open source | Daniel Stenberg (2020)](https://daniel.haxx.se/blog/2020/10/26/working-open-source/)

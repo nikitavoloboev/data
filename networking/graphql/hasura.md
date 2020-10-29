@@ -13,5 +13,5 @@
 - [Hasura Authorization (2020)](https://www.youtube.com/watch?v=rkN3RQBi_UI)
 - [Hasura Actions in Action - Tanmai Gopal (2020)](https://www.youtube.com/watch?v=KH3mv4tm0fY)
 - [Moving From Django to Hasura and Next.js](https://hasura.io/blog/moving-from-django-to-hasura-and-next-js/)
-- [Nhost](https://nhost.io/) - Jamstack backend with Hasura.
+- [Nhost](https://nhost.io/) - Jamstack backend with Hasura. ([HN](https://news.ycombinator.com/item?id=24929732))
 - [Realworld Hasura](https://github.com/andrewMacmurray/realworld-hasura) - Realworld inspired blogging platform (Remake of Conduit) using Hasura + Kotlin + Elm.

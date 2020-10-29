@@ -75,7 +75,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Esoteric.Codes](https://esoteric.codes/) - Languages, platforms, and systems that break from the norms of computing.
 - [Resources for the working programmer to learn more about the fundamentals and theory of programming languages](https://github.com/jeanqasaur/learn-programming-languages)
 - [Call-By-Push-Value](https://www.cs.bham.ac.uk/~pbl/papers/thesisqmwphd.pdf) - New programming language paradigm, based on the slogan “a value is, a computation does".
-- [Semgrep](https://github.com/returntocorp/semgrep) - Tool for easily detecting and preventing bugs and anti-patterns in your codebase.
+- [Semgrep](https://github.com/returntocorp/semgrep) - Tool for easily detecting and preventing bugs and anti-patterns in your codebase. ([Web](https://semgrep.dev/))
 - [Algol 60 implementation (1964)](http://www.softwarepreservation.org/projects/ALGOL/book/Randell_ALGOL_60_Implementation_1964.pdf)
 - [Code Search](https://github.com/google/codesearch) - Tool for indexing and then performing regular expression searches over large bodies of source code. ([Lobsters](https://lobste.rs/s/g7mntu/codesearch_fast_indexed_regexp_search))
 - [Zoekt](https://github.com/google/zoekt) - Fast text search engine, intended for use with source code.

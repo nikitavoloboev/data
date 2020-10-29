@@ -32,3 +32,4 @@
 - [Obstacle avoiding robot made with the avr-hal crate, all in Rust](https://github.com/Dajamante/avr-car)
 - [Agility Robotics](https://www.agilityrobotics.com/) ([The Next Steps (2020)](https://www.youtube.com/watch?v=e0AhxwAKL7s))
 - [Vicarious](https://www.vicarious.com/) - Intelligent Robotics for the Next Age of Manufacturing.
+- [How do you Architect your Robots? State of the Practice and Guidelines for ROS-based System](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) ([Code](https://github.com/S2-group/icse-seip-2020-replication-package))

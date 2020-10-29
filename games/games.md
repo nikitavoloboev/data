@@ -38,6 +38,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Julius](https://github.com/bvschaik/julius) - Open source re-implementation of Caesar III.
 - [Quake 2](https://github.com/id-Software/Quake-2)
 - [QuakeJS](http://www.quakejs.com/) - Quake Port to JavaScript with Emscripten. ([HN](https://news.ycombinator.com/item?id=22797060))
+- [vkQuake](https://github.com/Novum/vkQuake) - Quake 1 port using Vulkan instead of OpenGL for rendering.
 - [Aim and Shoot](https://victorribeiro.com/aimAndShoot/) - Neuroevolution game experiment. ([Code](https://github.com/victorqribeiro/aimAndShoot))
 - [HyperRogue](http://roguetemple.com/z/hyper/) - SDL roguelike in a non-euclidean world. ([Code](https://github.com/zenorogue/hyperrogue)) ([Explanation](http://zenorogue.blogspot.com/2012/03/hyperbolic-geometry-in-hyperbolic-rogue.html))
 - [Vinifera](https://github.com/TheAssemblyArmada/Vinifera) - Open source re-implementation of Tiberian Sun : Firestorm written in C++.

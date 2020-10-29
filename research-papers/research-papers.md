@@ -62,3 +62,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ResearchHub](https://www.researchhub.com/) - Open Science Community.
 - [Annotated Research Papers](https://github.com/AakashKumarNain/annotated_research_papers)
 - [Paper2code](https://paper2code.com/) - Explore top-rated papers, source code and set real-time alerts.
+- [scholarly](https://github.com/scholarly-python-package/scholarly) - Retrieve author and publication information from Google Scholar in a friendly, Pythonic way.

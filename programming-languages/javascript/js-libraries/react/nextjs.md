@@ -124,3 +124,5 @@
 - [Next.js - The Data Story (2020)](https://dev.to/dabit3/next-js-the-data-story-2b0d)
 - [useQueryState for Next.js](https://github.com/47ng/next-usequerystate) - Like React.useState, but stored in the URL query string.
 - [Create a Next.js App Docs](https://nextjs.org/learn/basics/create-nextjs-app) ([Starter Code](https://github.com/vercel/next-learn-starter))
+- [next-placeholder](https://github.com/joe-bell/next-placeholder) - Roll-you-own placeholders for Next.js images.
+- [Next Apollo](https://github.com/adamsoffer/next-apollo) - Package for using Apollo within a Next.js application.

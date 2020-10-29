@@ -10,3 +10,5 @@
 - [rxjs-for-await](https://github.com/benlesh/rxjs-for-await) - Library for making RxJS support async-await for-await loops via AsyncIterables.
 - [RxJS Marbles](https://rxmarbles.com/) - Interactive diagrams of Rx Observables. ([Code](https://github.com/staltz/rxmarbles))
 - [Paris](https://github.com/microsoft/paris) - Data management library for webapps, using TypeScript and RxJS to implement Domain-Driven Design.
+- [react-rxjs-elements](https://github.com/kosich/react-rxjs-elements) - React component for RxJS content.
+- [rxjs-proxify](https://github.com/kosich/rxjs-proxify) - Turn a Stream of Objects into an Object of Streams.

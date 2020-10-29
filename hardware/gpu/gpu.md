@@ -29,5 +29,5 @@
 - [Object Detection at 1840 FPS with TorchScript, TensorRT and DeepStream (2020)](https://paulbridger.com/posts/video-analytics-deepstream-pipeline/) ([HN](https://news.ycombinator.com/item?id=24817173))
 - [GPU-Accelerated ODE Solving in R with Julia, the Language of Libraries (2020)](http://www.stochasticlifestyle.com/gpu-accelerated-ode-solving-in-r-with-julia-the-language-of-libraries/)
 - [Detect GPU](https://github.com/TimvanScherpenzeel/detect-gpu) - Classify GPU's based on their benchmark score in order to provide an adaptive experience.
-- [Moana Motunui Renderer on GPU (2020)](https://www.render-blog.com/2020/10/03/gpu-motunui/) ([HN](https://news.ycombinator.com/item?id=24833218))
+- [Moana Motunui Renderer on GPU (2020)](https://www.render-blog.com/2020/10/03/gpu-motunui/) ([HN](https://news.ycombinator.com/item?id=24833218)) ([Code](https://github.com/chellmuth/gpu-motunui))
 - [GPUs on a Raspberry Pi Compute Module 4 (2020)](https://www.youtube.com/watch?v=ikpgZu6kLKE)

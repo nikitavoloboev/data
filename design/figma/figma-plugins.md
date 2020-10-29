@@ -38,3 +38,4 @@
 - [Figma Plugins Stats](https://github.com/yuanqing/figma-plugins-stats) - CLI to get live and historical stats for your Figma plugins.
 - [Guide Mate](https://github.com/praneshr/guidemate) - Figma plugin which helps you to add condition based grids to your designs.
 - [Figma Plugin React Template](https://github.com/mattpocock/figma-xstate-plugin)
+- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) - Making design tokens a single source of truth for designers and developers using Figma. ([Code](https://github.com/six7/figma-tokens))

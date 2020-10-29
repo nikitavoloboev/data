@@ -87,6 +87,7 @@
 - [Iris](https://github.com/kataras/iris) - Fastest HTTP/2 Go Web Framework. ([Web](https://www.iris-go.com/))
 - [GoPacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go.
 - [goim](https://github.com/Terry-Mao/goim) - Web server in Go.
+- [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 
 ## GraphQL
 
@@ -128,6 +129,7 @@
 - [remember-go](https://github.com/rocketlaunchr/remember-go) - Cache Slow Database Queries.
 - [RamSQL](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose.
 - [goqu](https://github.com/doug-martin/goqu) - Expressive SQL builder and executor.
+- [goyesql](https://github.com/nleof/goyesql) - Go + Yesql.
 
 ## ML
 
@@ -558,6 +560,7 @@
 - [go-encoding](https://github.com/Shopify/go-encoding) - Go package which abstracts various encoding mechanisms under a unified API.
 - [go-cache](https://github.com/Shopify/go-cache) - Go package which abstracts cache systems.
 - [GWeb](https://github.com/life4/gweb) - Interact with browser from Go. Manually-crafted WebAPI interoperation library.
+- [govips](https://github.com/davidbyttow/govips) - Fast image processing library for Go.
 
 ## Links
 

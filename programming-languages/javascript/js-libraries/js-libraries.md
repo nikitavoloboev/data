@@ -340,6 +340,7 @@
 - [Arkit](https://github.com/dyatko/arkit) - Visualises JavaScript, TypeScript and Flow codebases as meaningful and committable architecture diagrams. ([Web](https://arkit.pro/))
 - [jsii](https://github.com/aws/jsii) - Allows code in any language to naturally interact with JavaScript classes.
 - [proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap. ([Tweet](https://twitter.com/dai_shi/status/1321089602623557639))
+- [CosmJS](https://github.com/cosmos/cosmjs) - Modular library consisting of multiple packages to power web experiences.
 
 ## Links
 

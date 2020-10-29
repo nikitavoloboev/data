@@ -35,3 +35,4 @@
 - [Personal knowledge management for product managers](https://twitter.com/osamakhn/status/1317968591279411200)
 - [ProdPad](https://www.prodpad.com/) - Product Management Software.
 - [Zest](https://hellozest.io/) - Give your users an easy way to leave instant visual feedback.
+- [Secrets of the best product teams (2020)](https://st.im/secrets-of-the-best-product-teams/)

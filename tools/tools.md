@@ -121,7 +121,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
-- [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.
+- [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools. ([Raycast Script Commands](https://github.com/raycast/script-commands)) ([HN](https://news.ycombinator.com/item?id=24932600))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends.

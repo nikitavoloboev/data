@@ -19,3 +19,4 @@
 - [Must-read papers on graph neural networks](https://github.com/thunlp/GNNPapers)
 - [Latest developments in Graph Neural Networks: A list of recent conference talks (2020)](https://www.reddit.com/r/MachineLearning/comments/j6wzut/r_latest_developments_in_graph_neural_networks_a/)
 - [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - Python package for graph neural networks in chemistry and biology.
+- [Introduction to Graph Neural Networks (2020)](https://heartbeat.fritz.ai/introduction-to-graph-neural-networks-c5a9f4aa9e99)

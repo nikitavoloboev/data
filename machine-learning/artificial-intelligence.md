@@ -41,3 +41,4 @@
 - [ACL2020 Tutorial: Open-Domain Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
 - [Simple ML algorithms implemented in Python 3, TensorFlow 2, and Keras by George Hotz](https://github.com/geohot/ai-notebooks)
 - [SISL (Stanford Intelligent Systems Laboratory)](http://sisl.stanford.edu/) ([GitHub](https://github.com/sisl))
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)

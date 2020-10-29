@@ -41,3 +41,4 @@
 - [What is Herd Immunity? Epidemiologists Make Their Case (2020)](https://www.youtube.com/watch?v=QJajHxG3C9A)
 - [Coronavirus Vaccine Tracker (2020)](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [COVID-19 Vaccine Tracker](https://thevaccinetracker.com/) ([Code](https://github.com/thevaccinetracker/thevaccinetracker))
+- [Aerosol transmission of Covid-19: A room, a bar and a classroom: how the coronavirus is spread through the air (2020)](https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html) ([Tweet](https://twitter.com/jljcolorado/status/1321599800714817537))

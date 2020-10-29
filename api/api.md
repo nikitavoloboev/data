@@ -101,6 +101,7 @@
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
+- [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.
 - [Vonage API](https://developer.nexmo.com/) - Everything you need to build connected applications. ([Code](https://github.com/Nexmo/nexmo-developer))
 - [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)
 - [TalkJS](https://talkjs.com/) - Chat API and Javascript SDK for websites and apps.
@@ -165,3 +166,4 @@
 - [OpenAPI 3 Generator](https://github.com/egorsmkv/openapi3-generator) - Faster way to prototype your APIs using OpenAPI 3 and Swagger UI. ([HN](https://news.ycombinator.com/item?id=24867853))
 - [Hoppscotch](https://hoppscotch.io/) - Free, fast and beautiful API request builder. ([Code](https://github.com/hoppscotch/hoppscotch))
 - [Optic](https://useoptic.com/) - APIs that Document and Test Themselves. ([Code](https://github.com/opticdev/optic))
+- [Pizzly](https://github.com/Bearer/Pizzly/) - Simplest, fastest way to integrate your app with OAuth APIs. ([Web](https://www.bearer.sh/pizzly-oauth-integration))

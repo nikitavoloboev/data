@@ -23,6 +23,7 @@
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification) - scikit-learn cross validators for iterative stratification of multilabel data.
 - [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.
 - [siuba](https://github.com/machow/siuba) - Scrappy data analysis, with seamless support for pandas and SQL.
+- [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod) - Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 
 ## Biology
 
@@ -186,6 +187,11 @@
 - [TextDistance](https://github.com/life4/textdistance) - Python library for comparing distance between two or more sequences by many algorithms.
 - [Deal](https://github.com/life4/deal) - Design by contract for Python with many validators support.
 - [PFIO](https://github.com/pfnet/pfio) - Library to access various filesystems with unified API.
+- [Await, What?](https://github.com/dimaqq/awaitwhat) - Tells you what waits for what in an async/await program.
+- [rasterstats](https://github.com/perrygeo/python-rasterstats) - Python module for summarizing geospatial raster datasets based on vector geometries.
+- [simanneal](https://github.com/perrygeo/simanneal) - Python module for Simulated Annealing optimization.
+- [jsonschema](https://github.com/Julian/jsonschema) - Implementation of JSON Schema for Python.
+- [swifter](https://github.com/jmcarpenter2/swifter) - Package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 
 ## Links
 

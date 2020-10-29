@@ -53,3 +53,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TikZ](https://github.com/PetarV-/TikZ) - Complete collection of my PGF/TikZ figures. I will do my best to keep it updated as soon as new figures are published.
 - [Research Logbook](https://github.com/JJGO/research-logbook) - Simple yet powerful LaTeX template for research notebook with modular components and a wide variety of tools.
 - [LyX](https://www.lyx.org/) - Document Processor. ([HN](https://news.ycombinator.com/item?id=24820428)) ([Code](https://github.com/cburschka/lyx))
+- [kaobook](https://github.com/fmarotta/kaobook) - LaTeX class for books, reports or theses.

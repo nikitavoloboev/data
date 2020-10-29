@@ -11,7 +11,7 @@
 - [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
   - [pd](https://github.com/pingcap/pd) - Placement driver for TiKV.
-- [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends.
+- [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends. ([Paper](https://pdos.csail.mit.edu/papers/noria:osdi18.pdf))
 - [RethinkDB](https://www.rethinkdb.com/) - Pushes JSON to your apps in realtime.
 - [RedixDB](https://github.com/alash3al/redix) - Persistent real-time key-value store, with the same redis protocol with powerful features.
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
@@ -78,7 +78,7 @@
 - [immudb](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go.
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
-- [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602))
+- [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602)) ([2.0 release](https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/))
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time.
 - [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver))
 - [LiteStore](https://github.com/h3rald/litestore) - Lightweight, self-contained, RESTful, multi-format NoSQL document store server written in Nim and powered by a SQLite backend for storage.
@@ -104,6 +104,7 @@
 - [Amazon QLDB](https://aws.amazon.com/qldb/) - Fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. ([Awesome](https://github.com/mlewis7127/awesome-qldb))
 - [Oxigraph](https://github.com/oxigraph/oxigraph) - Graph database implementing the SPARQL standard.
 - [JavaScript Database (JSDB)](https://github.com/small-tech/jsdb) - Transparent, in-memory, streaming write-on-update JavaScript database for Small Web applications that persists to a JavaScript transaction log. ([Intro](https://ar.al/2020/10/20/introducing-jsdb/)) ([Lobsters](https://lobste.rs/s/76eboi/introducing_jsdb))
+- [Cete](https://github.com/mosuka/cete) - Distributed key value store server written in Go built on top of BadgerDB.
 
 ## Tools
 
@@ -240,3 +241,4 @@
 - [MindsDB](https://www.mindsdb.com/) - Open-Source Predictive AI layer for existing databases. ([Docs](https://docs.mindsdb.com/)) ([Docs code](https://github.com/mindsdb/mindsdb-docs)) ([Code](https://github.com/mindsdb/mindsdb))
 - [Migrating Data When You Never Erase History (2020)](https://jorin.me/migrating-data-when-you-never-erase-history/)
 - [Thesis: Partial State in Dataflow-Based Materialized Views (2020)](https://www.youtube.com/watch?v=GctxvSPIfr8)
+- [Universal Relation Data Modelling Considered Harmful (2020)](https://www.enterprisedb.com/blog/universal-relation-data-modelling-considered-harmful) ([Lobsters](https://lobste.rs/s/xaozez/thesis_partial_state_dataflow_based))

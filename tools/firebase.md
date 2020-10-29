@@ -17,3 +17,4 @@
 - [Firebase Quickstarts for JavaScript](https://github.com/firebase/quickstart-js)
 - [Python Firebase](https://github.com/ozgur/python-firebase) - Python interface to the Firebase's REST API.
 - [Firebase & GCP Examples](https://github.com/jthegedus/firebase-gcp-examples) - Firebase app architectures, languages, tools & some GCP things.
+- [Firebase Summit 2020 videos](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlRjj-mSComCq3Vd4IJese1)

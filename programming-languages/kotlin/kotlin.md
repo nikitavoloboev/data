@@ -16,3 +16,5 @@
 - [Shrinking a Kotlin Binary by 99.2% (2020)](https://jakewharton.com/shrinking-a-kotlin-binary/) ([HN](https://news.ycombinator.com/item?id=24279128))
 - [Kotlin Multiplatform Mobile Goes Alpha (2020)](https://blog.jetbrains.com/kotlin/2020/08/kotlin-multiplatform-mobile-goes-alpha/)
 - [Kotlin Roadmap](https://kotlinlang.org/roadmap.html)
+- [For Complex Applications, Rust is as Productive as Kotlin (2020)](https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/)
+- [Kotlin Multiplatform at Netflix (2020)](https://medium.com/@NetflixTechBlog/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23)

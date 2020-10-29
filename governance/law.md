@@ -9,3 +9,4 @@
 - [A mathematical formulation of the tax code? (2019)](https://blog.merigoux.fr/en/2019/12/20/taxes-formal-proofs.html) ([Lobsters](https://lobste.rs/s/pfswxd/mathematical_formulation_tax_code))
 - [Starting a physical product company? You’re gonna need a lawyer (2020)](https://medium.com/@molson_hart/starting-a-physical-product-company-youre-gonna-need-a-lawyer-13b2eecebc9f) ([HN](https://news.ycombinator.com/item?id=24822800))
 - [Notarize](https://www.notarize.com/) - Legally Notarize Your Documents Online.
+- [What Color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)

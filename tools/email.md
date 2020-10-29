@@ -99,3 +99,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email Reply Parser](https://github.com/crisp-dev/email-reply-parser) - Node library for parsing plain text email content.
 - [Mailman](https://mailmanhq.com/) - Email assistant that shields you from unimportant emails. ([How it was launched in 5 hours](https://twitter.com/awilkinson/status/1320735459870273536))
 - [meli](https://meli.delivery/) - Terminal mail client. ([Code](https://git.meli.delivery/meli/meli))
+- [MailerSend](https://www.mailersend.com/) - Transactional email service that delivers.
+- [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail. ([HN](https://news.ycombinator.com/item?id=24422432))

@@ -370,3 +370,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Sharkle](https://thesharkle.netlify.app/) - Generator of random awesomeness.
 - [Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
 - [The Thought Emporium YouTube](https://www.youtube.com/c/thethoughtemporium/videos) - Science channel.
+- [Trustpilot](https://www.trustpilot.com/) - Consumer review website.

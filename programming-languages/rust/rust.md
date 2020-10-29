@@ -61,7 +61,7 @@
 - [Rust RFCs](https://github.com/rust-lang/rfcs)
 - [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([Code](https://github.com/learning-rust/site))
 - [Rust types cheat sheet](https://upsuper.github.io/rust-cheatsheet/) ([Code](https://github.com/upsuper/rust-cheatsheet))
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem. ([Code](https://github.com/rust-lang-nursery/rust-cookbook))
 - [hello-rust](https://github.com/jwiegley/hello-rust) - Simple hello world in Rust, with a Nix environment.
 - [A final proposal for await syntax (2019)](https://news.ycombinator.com/item?id=19840095) ([HN](https://news.ycombinator.com/item?id=19840095)) ([Lobsters](https://lobste.rs/s/4zy92m/final_proposal_for_await_syntax))
 - [Sealed Rust (2019)](https://ferrous-systems.com/blog/sealed-rust-the-pitch/)
@@ -356,3 +356,5 @@
 - [Ungrammar](https://github.com/rust-analyzer/ungrammar) - DLS for specifying concrete syntax tree. ([Article](https://rust-analyzer.github.io//blog/2020/10/24/introducing-ungrammar.html)) ([HN](https://news.ycombinator.com/item?id=24878098))
 - [RustFest](https://rustfest.global/) - Rust community conference. ([Blog](https://blog.rustfest.eu/)) ([Code](https://github.com/RustFestEU/blog.rustfest.eu))
 - [Rust Compiler Team](https://rust-lang.github.io/compiler-team/) - Home for compiler team planning documents, meeting minutes, and other such things. ([Code](https://github.com/rust-lang/compiler-team))
+- [Rust Careers](https://rust.careers/) - Find your next Rust job.
+- [Rust for Data-Intensive Computation (2020)](https://github.com/frankmcsherry/blog/blob/master/posts/2020-06-09.md)

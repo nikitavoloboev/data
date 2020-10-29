@@ -77,3 +77,4 @@
 - [xeus](https://github.com/jupyter-xeus/xeus) - C++ implementation of the Jupyter kernel protocol.
 - [xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for C++ based on the C++ interpreter cling and the native implementation of the Jupyter protocol xeus.
 - [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for Python based on the native implementation of the Jupyter protocol xeus.
+- [Jeremy Howard: I Like Notebooks (2020)](https://www.youtube.com/watch?v=9Q6sLbz37gk) ([HN](https://news.ycombinator.com/item?id=24926214))

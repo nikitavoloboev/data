@@ -43,3 +43,4 @@
 - [The UX copywriter](https://vanschneider.com/series/writing-ux-copy)
 - [UXArchive](https://uxarchive.com/) - Library of mobile user flows.
 - [Linear's Superb User Experience (2020)](https://www.buildwithusers.com/p/superb-user-experience-with-linear)
+- [How we built an app update flow our users love (2020)](https://medium.com/raycastapp/how-we-built-an-app-update-flow-our-users-love-89820602e8fe)

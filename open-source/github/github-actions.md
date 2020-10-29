@@ -58,6 +58,7 @@
 - [action-waypoint](https://github.com/hashicorp/action-waypoint) - GitHub action for deploying and annotating PRs and commits with Waypoint.
 - [action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [readme-scribe](https://github.com/muesli/readme-scribe) - GitHub Action that automatically generates & updates markdown content (like your readme.md).
+- [Workflow Webhook Action](https://github.com/distributhor/workflow-webhook) - GitHub workflow action to call a remote webhook endpoint with a JSON or form-urlencoded payload, and support for BASIC authentication.
 
 ## Go
 

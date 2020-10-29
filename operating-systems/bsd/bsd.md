@@ -32,3 +32,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD Case Study – Netflix](https://freebsdfoundation.org/blog/freebsd-case-study-netflix/) ([Lobsters](https://lobste.rs/s/hoezlc/freebsd_case_study_netflix))
 - [FreeBSD Fridays: Introduction to Jails (2020)](https://www.youtube.com/watch?v=hQmOc0egcl4)
 - [Why OpenBSD rocks](https://why-openbsd.rocks/) - Website that helps showing people why OpenBSD rocks. ([Code](https://github.com/noqqe/why-openbsd.rocks))
+- [defaulter](https://github.com/horia/defaulter) - Default OpenBSD Web Server.

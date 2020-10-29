@@ -21,3 +21,4 @@
 - [Bazel Rust Rules](https://github.com/bazelbuild/rules_rust) - Rules for building Rust projects with Bazel.
 - [apple_rules_lint](https://github.com/apple/apple_rules_lint) - Framework for adding lint checks to Bazel projects.
 - [Python Rules for Bazel](https://github.com/bazelbuild/rules_python)
+- [LLVM Bazel BUILD files](https://github.com/google/llvm-bazel) - Bazel Build System Support for LLVM. ([HN](https://news.ycombinator.com/item?id=24925368))

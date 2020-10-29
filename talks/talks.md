@@ -11,7 +11,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Growing a Language - Guy Steele (1998)](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf). ([HN](https://news.ycombinator.com/item?id=24383919))
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
-- [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
+- [Bret Victor - Inventing on Principle (2012)](https://www.youtube.com/watch?v=PUv66718DII)
 - [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&t=13m4s)
 - [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 - [Simplicity Matters - Rich Hickey (2012)](https://www.youtube.com/watch?v=rI8tNMsozo0)
@@ -57,3 +57,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Notist](https://noti.st/) - Your public speaking portfolio.
 - [List of best talks (2020)](https://twitter.com/ashleymcnamara/status/1278537744352862208)
 - [Badass Conference Talks](https://github.com/emmabostian/badass-conference-talks)
+- [workshopctl](https://github.com/cloud-native-nordics/workshopctl) - Tool for running workshops easily in the cloud.

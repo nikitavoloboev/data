@@ -77,3 +77,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [The evil pattern of Redux that reduces boilerplate (2020)](https://www.albertgao.xyz/2020/09/22/evil-pattern-of-redux-that-reduces-boilerplate/)
 - [Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware (2020)](https://blog.axlight.com/posts/redux-in-worker-off-main-thread-redux-reducers-and-middleware/)
 - [Refactoring a Redux app to use Recoil (2020)](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/)
+- [Repluggable](https://github.com/wix/repluggable) - Pluggable micro frontends in React+Redux apps.

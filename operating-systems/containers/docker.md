@@ -75,3 +75,5 @@
 - [Docker CLI](https://github.com/docker/cli)
 - [Docker Compose](https://github.com/docker/compose) - Tool for defining and running multi-container Docker applications. ([Docs](https://docs.docker.com/compose/))
 - [Clair scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan.
+- [Preparing for the Docker Hub Rate Limits (2020)](https://inlets.dev/blog/2020/10/29/preparing-docker-hub-rate-limits.html)
+- [Jobs as a Service (JaaS)](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) on Docker Swarm.

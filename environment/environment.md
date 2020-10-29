@@ -63,4 +63,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Aerial](https://aerial.is/) - Your Climate Activity Companion.
 - [Mossy Earth](https://www.mossy.earth/) - Rewilding and Reforestation Membership.
 - [Thinking about climate change (2020)](https://st.im/thinking-about-climate-change/)
-- [Stripe Climate](https://stripe.com/climate) ([HN](https://news.ycombinator.com/item?id=24919006))
+- [Stripe Climate](https://stripe.com/climate) ([HN](https://news.ycombinator.com/item?id=24919006)) ([Tweet](https://twitter.com/lehrjulian/status/1321480088781815808))
