@@ -110,6 +110,7 @@
 - [Selene](https://github.com/linkedin/Selene) - iOS library which schedules the execution of tasks on a background fetch.
 - [GPUImage](https://github.com/BradLarson/GPUImage) - Open source iOS framework for GPU-based image and video processing.
 - [Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift.
+- [Finjinon](https://github.com/finn-no/Finjinon) - Custom AVFoundation based camera UI, focused on quickly adding several photos.
 
 ## macOS
 

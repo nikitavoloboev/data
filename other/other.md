@@ -371,3 +371,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)](https://github.com/tpn/pdfs)
 - [The Thought Emporium YouTube](https://www.youtube.com/c/thethoughtemporium/videos) - Science channel.
 - [Trustpilot](https://www.trustpilot.com/) - Consumer review website.
+- [Wardley Maps Community Hub](https://github.com/wardley-maps-community/awesome-wardley-maps) - Wardley Mapping is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions.
+- [OnlineWardleyMaps](https://onlinewardleymaps.com/) - Draw Wardley Maps in seconds.

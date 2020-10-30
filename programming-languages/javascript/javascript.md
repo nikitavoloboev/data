@@ -221,3 +221,7 @@
 - [CJS Module Lexer](https://github.com/guybedford/cjs-module-lexer) - Fast lexer to extract named exports via analysis from CommonJS modules.
 - [JavaScript minification (2019)](http://neugierig.org/software/blog/2019/04/js-minifiers.html)
 - [export-size](https://github.com/antfu/export-size) - Analysis bundle cost for each export of an ESM package.
+- [ESM](https://github.com/postui/esm.sh) - Fast, global content delivery network ES Modules.
+- [Benny](https://github.com/caderek/benny) - Dead simple benchmarking framework for JS/TS libs.
+- [Functional Programming in JS - Composition (Currying, Lodash and Ramda) (2020)](https://11sigma.com/blog/functional-programming-in-js-part-i-composition)
+- [Understanding Modules, Import and Export in JavaScript (2020)](https://www.taniarascia.com/javascript-modules-import-export/)

@@ -37,6 +37,7 @@
 - [Audiobench](https://github.com/joshua-maros/audiobench) - Open source modular synthesizer.
 - [Edyson](https://github.com/perfall/Edyson) - Tool for exploring audio quickly.
 - [AudioMass](https://audiomass.co/) - Audio Editor.
+- [Geonkick](https://github.com/iurie-sw/geonkick) - Free software percussion synthesizer for GNU/Linux.
 
 ## Inspiration
 

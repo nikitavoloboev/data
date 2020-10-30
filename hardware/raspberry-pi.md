@@ -37,3 +37,4 @@
 - [Porting Firecracker to a Raspberry Pi 4 (2019)](https://blog.cloudkernels.net/posts/firecracker-rpi4/) ([HN](https://news.ycombinator.com/item?id=24878698))
 - [Use a raspberry-pi 2 as a firewall with FreeBSD (2020)](https://stafwag.github.io/blog/blog/2020/10/25/rpi2_freebsd_firewall/) ([Lobsters](https://lobste.rs/s/ixvxmi/use_raspberry_pi_2_as_firewall_with))
 - [RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices. ([Docs](https://xavierberger.github.io/RPi-Monitor-docs/index.html))
+- [5 Gbps Ethernet on the Raspberry Pi Compute Module 4 (2020)](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4)

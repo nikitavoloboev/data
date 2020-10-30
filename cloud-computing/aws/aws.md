@@ -17,7 +17,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
 - [AWS practical guide](https://github.com/open-guides/og-aws)
-- [AWS Cloud Development Kit](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code. ([Web](https://aws.amazon.com/cdk/))
+- [AWS CDK (Cloud Development Kit)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code. ([Web](https://aws.amazon.com/cdk/)) ([AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples))
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
@@ -111,3 +111,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Cost Comparison Tool](https://github.com/rocketmiles/aws-cct)
 - [My AWS toolbox - tools, plugins and applications (2020)](https://betterdev.blog/my-aws-toolbox/)
 - [Amazon ECR Docker Credential Helper](https://github.com/awslabs/amazon-ecr-credential-helper)
+- [Amazon EKS Helm charts](https://github.com/aws/eks-charts)
+- [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/) - Program offers technical resources, mentorship, and networking opportunities.
+- [AWS Secure Environment Accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - Tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis.
+- [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)

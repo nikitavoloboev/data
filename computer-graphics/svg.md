@@ -50,3 +50,4 @@
 - [SVG Diff](https://svgdiff.now.sh/) - See the visual difference between two SVGs. ([Code](https://github.com/stipsan/svgdiff))
 - [diffvg](https://people.csail.mit.edu/tzumao/diffvg/) - Differentiable Rasterizer for Vector Graphics. ([Paper](https://people.csail.mit.edu/tzumao/diffvg/))
 - [Using SVGs in asset catalogs](https://bjango.com/articles/svgassetcatalogs/)
+- [uhtml](https://github.com/WebReflection/uhtml) - Micro HTML/SVG render.

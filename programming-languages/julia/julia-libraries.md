@@ -106,6 +106,8 @@
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) - Fast and friendly fluid dynamics on CPUs and GPUs.
 - [LinearFractional](https://github.com/focusenergy/LinearFractional.jl) - Linear fractional programming with Julia and JuMP.
 - [MeasureTheory](https://github.com/cscherrer/MeasureTheory.jl) - Package for building and reasoning about measures.
+- [Restructured BNF](https://github.com/thautwarm/RBNF.jl) - Aims at the generating parsers without requiring redundant coding from programmers.
+- [GeneralizedGenerated](https://github.com/JuliaStaging/GeneralizedGenerated.jl) - Enables the generalized generated functions. Specifically, it supports closure constructions in generated functions.
 
 ## Links
 

@@ -51,3 +51,4 @@
 - [Optimizing Postgres full text search in Django (2019)](https://hodovi.ch/blog/optimizing-postgres-full-text-search-django/)
 - [Understand Group by in Django with SQL (2020)](https://hakibenita.com/django-group-by-sql)
 - [Running Django + React service by Cloud Run (2020)](http://djkooks.github.io/gcp-django-deploy-cloudrun)
+- [Django Doctor](https://django.doctor/) - Django GitHub PR bot that suggest the fix.

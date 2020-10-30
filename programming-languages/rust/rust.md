@@ -52,7 +52,7 @@
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) ([Lobsters](https://lobste.rs/s/td0qze/learning_rust_with_entirely_too_many))
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
-- [Rust. Are we web yet?](https://www.arewewebyet.org/)
+- [Rust. Are we web yet?](http://www.arewewebyet.org/) ([Code](https://github.com/rust-lang/arewewebyet)) ([HN](https://news.ycombinator.com/item?id=24940650))
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
 - [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq)
 - [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
@@ -358,3 +358,6 @@
 - [Rust Compiler Team](https://rust-lang.github.io/compiler-team/) - Home for compiler team planning documents, meeting minutes, and other such things. ([Code](https://github.com/rust-lang/compiler-team))
 - [Rust Careers](https://rust.careers/) - Find your next Rust job.
 - [Rust for Data-Intensive Computation (2020)](https://github.com/frankmcsherry/blog/blob/master/posts/2020-06-09.md)
+- [cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - Cache the dependencies of your Rust project and speed up your Docker builds. ([Article](https://www.lpalmieri.com/posts/fast-rust-docker-builds/))
+- [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production))
+- [So you want to write object oriented Rust (2020)](https://blog.darrien.dev/posts/so-you-want-to-object/)

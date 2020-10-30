@@ -28,3 +28,4 @@
 - [The Hitchhiker's Guide to Compression](https://go-compression.github.io/) ([Code](https://github.com/go-compression/go-compression.github.io)) ([HN](https://news.ycombinator.com/item?id=24691422))
 - [Miniz](https://github.com/richgel999/miniz) - Single C source file zlib-replacement library.
 - [Rationale for a Large Text Compression Benchmark (2009)](http://mattmahoney.net/dc/rationale.html)
+- [LZSA](https://github.com/emmanuel-marty/lzsa) - Byte-aligned, efficient lossless packer that is optimized for fast decompression on 8-bit micros.

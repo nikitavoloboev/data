@@ -53,3 +53,4 @@
 - [Get started with Nix in Scala](https://github.com/gvolpe/sbt-nix.g8)
 - [Foundations of Functional Programming in Scala course (2020)](https://www.fp-tower.com/courses/foundations) ([Video](https://www.youtube.com/watch?v=OdPaWmRnAc4)) ([Tweet](https://twitter.com/JulienTruffaut/status/1318459887144361986))
 - [Scala Website Code](https://github.com/scala/scala-lang)
+- [ScalaZONE](https://scala.zone/) - Scala 3 Programming Language Courses.

@@ -25,7 +25,7 @@
 - [How a SQL database works (2019)](http://calpaterson.com/how-a-sql-database-works.html) ([HN](https://news.ycombinator.com/item?id=21838531))
 - [When an SQL database makes a great Pub/Sub (2019)](https://threedots.tech/post/when-sql-database-makes-great-pub-sub/) ([HN](https://news.ycombinator.com/item?id=21834152))
 - [Cosette](https://github.com/uwdb/Cosette) - Automated SQL solver.
-- [BlazingSQL](https://github.com/BlazingDB/blazingsql) - GPU accelerated SQL engine built on top of the RAPIDS ecosystem.
+- [BlazingSQL](https://github.com/BlazingDB/blazingsql) - GPU accelerated SQL engine built on top of the RAPIDS ecosystem. ([Web](https://blazingsql.com/))
 - [libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer.
 - [SQL Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=tp_5c6jaNQE)
 - [SQL Koans](https://sqlkoans.com/) - Set of koans to introduce you to SQL. ([Code](https://github.com/phillipjohnson/sql-koans))

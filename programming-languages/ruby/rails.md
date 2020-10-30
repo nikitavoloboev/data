@@ -23,3 +23,4 @@
 - [Guide to Reactive Rails](https://github.com/obie/guide-to-reactive-rails)
 - [Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide) - Community-driven Ruby on Rails style guide. ([Docs](https://rails.rubystyle.guide/)) ([RuboCop Rails](https://github.com/rubocop-hq/rubocop-rails))
 - [React on Rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React.
+- [Ruby on Rails in a Week (2020)](https://www.simplethread.com/ruby-on-rails-in-a-week/) ([HN](https://news.ycombinator.com/item?id=24934581))

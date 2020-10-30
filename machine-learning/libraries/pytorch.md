@@ -157,3 +157,6 @@
 - [PyHessian](https://github.com/amirgholami/PyHessian) - PyTorch library for second-order based analysis and training of Neural Networks.
 - [AdaHessian](https://github.com/amirgholami/adahessian) - Second order based optimizer for the neural network training based on PyTorch.
 - [TorchMTL](https://github.com/chrisby/torchMTL) - Lightweight module to do Multi-Task Learning in PyTorch.
+- [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT. ([Docs](https://nvidia.github.io/TRTorch/))
+- [Mastering TorchScript: Tracing vs Scripting, Device Pinning, Direct Graph Modification (2020)](https://paulbridger.com/posts/mastering-torchscript/)
+- [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast) - Deep learning PyTorch library for time series forecasting, classification, and anomaly detection.

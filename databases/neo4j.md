@@ -7,3 +7,4 @@
 - [Neo4j Knowledge Base](https://neo4j.com/developer/kb/) ([Code](https://github.com/neo4j-documentation/knowledge-base))
 - [Connecting your React app to Neo4j with React Hooks (2020)](https://medium.com/neo4j/connecting-to-react-app-to-neo4j-148881d838b8)
 - [NODES 2020](https://neo4j.com/nodes-2020/) - Neo4j Online Developer Expo and Summit.
+- [relate](https://github.com/neo4j-devtools/relate) - Framework to manage Neo4j resources (databases, graph apps, backups, extensions).

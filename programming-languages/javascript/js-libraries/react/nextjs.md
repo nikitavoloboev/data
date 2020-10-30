@@ -126,3 +126,4 @@
 - [Create a Next.js App Docs](https://nextjs.org/learn/basics/create-nextjs-app) ([Starter Code](https://github.com/vercel/next-learn-starter))
 - [next-placeholder](https://github.com/joe-bell/next-placeholder) - Roll-you-own placeholders for Next.js images.
 - [Next Apollo](https://github.com/adamsoffer/next-apollo) - Package for using Apollo within a Next.js application.
+- [next-google-fonts](https://github.com/joe-bell/next-google-fonts) - Tiny next/head helper for loading Google Fonts fast and asynchronously.

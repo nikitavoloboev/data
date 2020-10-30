@@ -182,4 +182,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Geoff Huston ISP Column](https://www.potaroo.net/ispcol/) - Articles on the social and technical evolution of the Internet.
 - [If not SPAs, What? (2020)](https://macwright.com/2020/10/28/if-not-spas.html) ([HN](https://news.ycombinator.com/item?id=24920702))
 - [Designing for the Web by Mark Boulton](https://designingfortheweb.co.uk/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) ([Code](https://github.com/mdn/kuma)) ([MDN Web Docs evolves! Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)) ([HN](https://news.ycombinator.com/item?id=24931862))
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) ([Code](https://github.com/mdn/kuma)) ([MDN Web Docs evolves! Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)) ([HN](https://news.ycombinator.com/item?id=24931862)) ([Content](https://github.com/mdn/content))
+- [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler. ([Web](https://parceljs.org/))

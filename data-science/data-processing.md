@@ -23,3 +23,4 @@
 - [lakeFS](https://github.com/treeverse/lakeFS) - Open source layer that delivers resilience and manageability to object-storage based data lakes. ([Web](https://lakefs.io/))
 - [Baker](https://github.com/AdRoll/baker) - High performance, composable and extendable data-processing pipeline for the big data era.
 - [Cylon](https://github.com/cylondata/cylon) - Fast, scalable distributed memory data parallel library for processing structured data. ([Web](https://cylondata.org/))
+- [cuGraph](https://github.com/rapidsai/cugraph) - GPU Graph Analytics.

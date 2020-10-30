@@ -25,3 +25,4 @@
 - [slog](https://github.com/monzo/slog) - Go library for capturing structured log information.
 - [Logging Levels: What They Are & How to Choose Them](https://sematext.com/blog/logging-levels/) ([Lobsters](https://lobste.rs/s/xilpkm/logging_levels_what_they_are_how_choose))
 - [bunyan-rs](https://github.com/LukeMathWalker/bunyan) - CLI to pretty print logs in bunyan format. A Rust port of the original JavaScript bunyan CLI.
+- [Data Logging: Sampling versus Profiling (2020)](https://medium.com/whylabs/data-logging-sampling-versus-profiling-96fa8997f5f5)

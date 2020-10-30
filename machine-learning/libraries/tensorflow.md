@@ -60,3 +60,7 @@
 - [TensorFlow Compression](https://github.com/tensorflow/compression) - Build your own ML models with end-to-end optimized data compression built in.
 - [Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading (2020)](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
 - [NSFW detection on the client-side via TensorFlow.js](https://github.com/infinitered/nsfwjs) ([Web](https://nsfwjs.com/))
+- [Trieste](https://github.com/secondmind-labs/trieste) - Bayesian optimization toolbox built on TensorFlow.
+- [Introduction to Swift for TensorFlow (2020)](https://www.youtube.com/watch?v=YSUFcX2dTjk) ([Slides](https://brettkoonce.com/talks/introduction-to-swift-tensorflow-2020/))
+- [Convolutional Neural Networks with Swift for TensorFlow](https://convolutionalneuralnetworkswithswift.com/)
+- [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)

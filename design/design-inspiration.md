@@ -341,6 +341,7 @@ Here are few more things I liked, design wise.
 - [Jay Riverlong](https://jayriverlong.github.io/)
 - [Tatiana Mac](https://tatianamac.com/)
 - [Two Wrongs](https://two-wrongs.com/)
+- [Jeremy Church](https://j.eremy.net/)
 - [Chris Krycho](https://v5.chriskrycho.com)
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Chance Arthur](https://chancearthur.com/about)
@@ -564,3 +565,4 @@ Here are few more things I liked, design wise.
 - [Awesome GUI Websites](https://simone.computer/#/awesomegui) - Websites, web apps, portfolios which look like desktop graphical user interfaces. ([Code](https://github.com/syxanash/awesome-gui-websites))
 - [Personal Website Chats](https://www.youtube.com/playlist?list=PLEXbN99LY3OCarUeXcxWeZzOelXQvVdAA)
 - [Lobsters: Rate my Homepage (2020)](https://lobste.rs/s/h9xgpv/rate_my_homepage)
+- [SaaS Landing Page Examples (2020)](https://www.eleken.co/blog-posts/saas-landing-page-examples-get-inspired-and-discover-how-to-boost-conversion)

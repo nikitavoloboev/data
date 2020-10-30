@@ -52,3 +52,4 @@
 - [Which DNS servers are you pointing to?](https://which.nameserve.rs/) ([HN](https://news.ycombinator.com/item?id=24886120)) ([Code](https://github.com/redirect2me/which-dns))
 - [Resolve.rs](https://resolve.rs/) - Troubleshooting website for network and DNS issues. ([Code](https://github.com/redirect2me/resolvers))
 - [DNS Trends (2020)](https://www.potaroo.net/ispcol/2020-10/trends.html)
+- [Dynroute53](https://github.com/thoeni/dynroute53) - Dynamic DNS updater for AWS Route53. Like DDNS for AWS managed domains.

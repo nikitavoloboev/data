@@ -78,3 +78,4 @@
 - [Alpha Bridge](https://www.alphabridge.vc/)
 - [Runa Capital](https://runacap.com/) - Global venture capital firm built by serial entrepreneurs that invests in early stage software startups.
 - [Mythos Capital](https://mythos.capital/) - Invest in crypto networks.
+- [Breaking into VC](https://breakinto.vc/)

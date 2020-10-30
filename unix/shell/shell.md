@@ -85,3 +85,4 @@ All active variables can be seen by running `env`.
 - [webify](https://github.com/beefsack/webify) - Turn shell commands into web services.
 - [waitfor](https://github.com/aeshirey/waitfor) - Shell app for delaying on conditions.
 - [Useful shell prompt (2020)](https://solovyov.net/blog/2020/useful-shell-prompt/) ([Lobsters](https://lobste.rs/s/s5jj3v/useful_shell_prompt))
+- [awk: BEGIN { (2020)](https://jemma.dev/blog/awk-part-1) ([HN](https://news.ycombinator.com/item?id=24940661)) ([Lobsters](https://lobste.rs/s/ntxpzv/awk_begin))

@@ -116,3 +116,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Web Hacker's Weapons](https://github.com/hahwul/WebHackersWeapons) - Collection of cool tools used by Web hackers.
 - [Crowdsec](https://github.com/crowdsecurity/crowdsec) - Modern behavior detection system, written in Go. ([Web](https://crowdsec.net/))
 - [Awesome Security](https://github.com/sbilly/awesome-security)
+- [A Researcher’s Guide to Some Legal Risks of Security Research (2020)](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)

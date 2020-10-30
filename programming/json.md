@@ -30,5 +30,5 @@
 - [BetterThanJson](https://wiki.alopex.li/BetterThanJson) ([Lobsters](https://lobste.rs/s/s9rbxf/betterthanjson))
 - [Hjson](https://hjson.github.io/) - User interface for JSON.
 - [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite)
-- [Mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON).
+- [Mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON). ([Article](https://www.sanity.io/blog/mendoza)) ([HN](https://news.ycombinator.com/item?id=24943775))
 - [JMESPath](https://jmespath.org/) - Query language for JSON. ([go-jmespath](https://github.com/jmespath/go-jmespath))

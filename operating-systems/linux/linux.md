@@ -190,6 +190,6 @@
 - [Core Wayland protocol and libraries](https://github.com/wayland-project/wayland)
 - [Diving into /proc/[pid]/mem (2020)](https://blog.cloudflare.com/diving-into-proc-pid-mem/)
 - [Looking Glass](https://looking-glass.io/) - Open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. ([Code](https://github.com/gnif/LookingGlass))
-- [eBPF Summit 2020](https://ebpf.io/summit-2020/)
+- [eBPF Summit 2020](https://ebpf.io/summit-2020/) ([HN](https://news.ycombinator.com/item?id=24934560))
 - [What's in a Linux executable? (2020)](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) ([HN](https://news.ycombinator.com/item?id=24926925))
 - [Paru](https://github.com/Morganamilo/paru) - AUR helper and pacman wrapper.

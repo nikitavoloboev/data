@@ -362,6 +362,7 @@
   - [Brew](package-managers/brew.md)
 - [DevOps](devops/devops.md)
   - [Site Reliability Engineering](devops/site-reliability-engineering.md)
+  - [Observability](devops/observability.md)
   - [Terraform](devops/terraform.md)
 - [Mindfulness](mindfulness/mindfulness.md)
   - [Meditation](mindfulness/meditation.md)

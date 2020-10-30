@@ -110,3 +110,4 @@
 - [Zenva Academy](https://academy.zenva.com/) - Empower people so that they can create their own videogames, mobile apps and websites. ([YouTube](https://www.youtube.com/c/Zenva/videos))
 - [Video Game Source Project](https://gamehistory.org/video-game-source-project/) - Video Game History Foundation. Ability to study video game source material is rare. We’re changing that.
 - [Activision Research Publications](https://research.activision.com/publications)
+- [es_core](https://github.com/TTimo/es_core) - Experimental framework for low latency, high fps multiplayer games.

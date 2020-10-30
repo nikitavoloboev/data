@@ -192,6 +192,8 @@
 - [simanneal](https://github.com/perrygeo/simanneal) - Python module for Simulated Annealing optimization.
 - [jsonschema](https://github.com/Julian/jsonschema) - Implementation of JSON Schema for Python.
 - [swifter](https://github.com/jmcarpenter2/swifter) - Package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
+- [marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python.
+- [DAWG](https://github.com/pytries/DAWG) - DAFSA-based dictionary-like read-only objects for Python.
 
 ## Links
 

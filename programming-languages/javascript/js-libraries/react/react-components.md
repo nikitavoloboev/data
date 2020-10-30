@@ -32,7 +32,6 @@
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - Tiny but mighty list virtualization library, with zero dependencies.
 - [React Morph](https://github.com/brunnolou/react-morph) - Morphing UI transitions made simple.
-- [React InstantSearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia.
 - [React Virtuoso](https://github.com/petyosi/react-virtuoso) - Simple, easy to use React component made to render huge data lists.
 - [Tipple](https://github.com/andyrichardson/tipple) - Lightweight dependency-free library for fetching data over REST with React.
 - [react-component-benchmark](https://github.com/paularmstrong/react-component-benchmark) - Component to help benchmark React components and their trees.
@@ -123,6 +122,7 @@
 - [React-Chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline component for React. ([HN](https://news.ycombinator.com/item?id=24869897))
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs.
 - [jsxui](https://github.com/souporserious/jsxui) - Primitive elements to build isomorphic user interfaces in React.
+- [raam](https://github.com/joe-bell/raam) - Beautifully boring cosmetic-free primitives for structure and layout. ([Web](https://raam.joebell.co.uk/))
 
 ## Links
 

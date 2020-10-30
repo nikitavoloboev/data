@@ -281,7 +281,6 @@
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
 - [ent](https://github.com/facebookincubator/ent) - An Entity Framework For Go. Simple, yet powerful ORM for modeling and querying data.
-- [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go.
 - [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 - [gnet](https://github.com/panjf2000/gnet) - High-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.
@@ -561,6 +560,7 @@
 - [go-cache](https://github.com/Shopify/go-cache) - Go package which abstracts cache systems.
 - [GWeb](https://github.com/life4/gweb) - Interact with browser from Go. Manually-crafted WebAPI interoperation library.
 - [govips](https://github.com/davidbyttow/govips) - Fast image processing library for Go.
+- [go-randomdata](https://github.com/Pallinder/go-randomdata) - Tiny help suite for generating random data.
 
 ## Links
 

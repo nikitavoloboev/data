@@ -236,3 +236,11 @@
 - [Modernizing the Tech Stack for a B2B SaaS Product Running on Bare Metal (2020)](https://www.aislelabs.com/blog/2020/10/23/modernizing-the-tech-stack-for-a-b2b-saas-product-running-on-bare-metal/)
 - [BotKube](https://github.com/infracloudio/botkube) - App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices. ([Docs](https://www.botkube.io/))
 - [Isopod](https://github.com/cruise-automation/isopod) - Expressive DSL and framework for Kubernetes configuration without YAML.
+- [Starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security tool kit.
+- [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
+- [kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters.
+- [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Show who has RBAC permissions to perform actions on different resources in Kubernetes.
+- [kOps](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
+- [KubeLinter](https://github.com/stackrox/kube-linter) - Static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
+- [Gardener](https://github.com/gardener/gardener) - Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service. ([Web](https://gardener.cloud/))
+- [kraan](https://github.com/fidelity/kraan) - Building platforms on top of K8s. Helps you deploy and manage 'layers' on top of kubernetes.

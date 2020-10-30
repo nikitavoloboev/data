@@ -144,3 +144,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Font of the Month Club](https://fontofthemonth.club/) - Get a fresh new font delivered to your inbox every single month.
 - [Coding Fonts](https://coding-fonts.netlify.app/) - Microsite that shows off fonts designed for writing code. ([Code](https://github.com/chriscoyier/coding-fonts))
 - [The good line-height](https://www.thegoodlineheight.com/) - Create a type scale following an 8 point baseline grid, or any grid.
+- [Type Scale](https://type-scale.com/) - Visual Type Scale Calculator. ([Code](https://github.com/jeremychurch/type-scale))

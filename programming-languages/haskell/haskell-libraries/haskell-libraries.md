@@ -63,6 +63,7 @@
 - [jsonifier](https://github.com/nikita-volkov/jsonifier) - Fast and simple JSON encoding toolkit.
 - [Path](https://github.com/commercialhaskell/path) - Support for well-typed paths in Haskell.
 - [Yaya](https://github.com/sellout/yaya) - Yet another yet another recursion scheme library in Haskell.
+- [Happy](https://github.com/simonmar/happy) - Parser generator for Haskell.
 
 ## Links
 

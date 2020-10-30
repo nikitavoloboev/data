@@ -46,3 +46,6 @@
 - [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Scrapes Reddit to download media of your choice.
 - [Web scraping with JS (2020)](https://qoob.cc/web-scraping/) ([HN](https://news.ycombinator.com/item?id=24898016))
 - [Web scraping that just works with OpenFaaS with Puppeteer (2020)](https://www.openfaas.com/blog/puppeteer-scraping/)
+- [What Happened to XPath? (2020)](https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57) ([HN](https://news.ycombinator.com/item?id=24940676))
+- [ScrapingHub](https://www.scrapinghub.com/) - Turn web content into useful data. ([GitHub](https://github.com/scrapinghub))
+- [extruct](https://github.com/scrapinghub/extruct) - Library for extracting embedded metadata from HTML markup.

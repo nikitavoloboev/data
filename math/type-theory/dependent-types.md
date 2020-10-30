@@ -33,3 +33,4 @@
 - [A dependently typed calculus with pattern matching and erasure inference (2020)](https://dl.acm.org/doi/10.1145/3408973)
 - [A general definition of dependent type theories (2020)](http://math.andrej.com/2020/09/14/a-general-definition-of-dependent-type-theories/)
 - [dreamtt](https://github.com/jonsterling/dreamtt) - Pedagogic implementation of abstract bidirectional elaboration for dependent type theory.
+- [Metagen](https://github.com/thautwarm/Metagen) - Dependently type-safe code generator.

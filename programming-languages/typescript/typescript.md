@@ -114,6 +114,7 @@
 - [PlayCode](https://playcode.io/typescript/) - JavaScript/TypeScript Playground.
 - [Utilities for TypeScript and Bazel](https://github.com/bazelbuild/rules_typescript)
 - [End-to-End TypeScript: Database, Backend, API, and Frontend (2020)](https://www.youtube.com/watch?v=GrnBXhsr0ng)
+- [TypeScript Transformer Handbook](https://github.com/madou/typescript-transformer-handbook)
 
 ## Images
 

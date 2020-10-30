@@ -54,3 +54,4 @@
 - [RISC-V Core](https://github.com/ultraembedded/riscv) - 32-bit RISC-V core written in Verilog and an instruction set simulator supporting RV32IM.
 - [biRISC-V](https://github.com/ultraembedded/biriscv) - 32-bit dual issue RISC-V CPU.
 - [Understanding Non-Local Jumps (setjmp/longjmp) in RISC-V Assembly (2020)](https://danielmangum.com/posts/non-local-jumps-riscv/)
+- [Tinsel](https://github.com/POETSII/tinsel) - RISC-V-based manythread message-passing architecture designed for FPGA clusters.

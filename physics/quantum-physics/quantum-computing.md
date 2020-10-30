@@ -48,3 +48,4 @@
 - [TRIQS (Toolbox for Research on Interacting Quantum Systems)](https://github.com/TRIQS/triqs) - Scientific project providing a set of C++ and Python libraries to develop new tools for the study of interacting quantum systems. ([Web](https://triqs.github.io/triqs/latest/))
 - [Quantum Hardware: On the road to Quantum Advantage (2020)](https://www.ieee-edps.com/archives/2020/c/1.6ChristyTyberg.pdf) ([Video](https://www.ieee-edps.com/archives/2020/c/1.6ChristyTyberg.mp4))
 - [OpenQASM](https://github.com/Qiskit/openqasm) - Gate and operation specification for quantum circuits.
+- [Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.

@@ -85,3 +85,5 @@
 - [Workaline.com](https://workaline.com/) - Remote job board.
 - [Remote team bonding ideas (2020)](https://twitter.com/louispilfold/status/1320740516053590016)
 - [onsite.fun](https://onsite.fun/) - Online activities for remote teams.
+- [Remote Clan](https://remoteclan.com/) - Connect with remote workers to shape the future of work. ([News Feed](https://remoteclan.com/news-feed))
+- [Building Team Culture, Gitlab-Style (2020)](https://aboutsnack.com/blog/informal-communication-in-remote-work)

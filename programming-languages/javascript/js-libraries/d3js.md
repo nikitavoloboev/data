@@ -26,3 +26,4 @@
 - [visx](https://github.com/airbnb/visx) - Collection of reusable low-level visualization components. ([Web](https://airbnb.io/visx/))
 - [D3 Discovery](https://d3-discovery.net/) - Find D3 plugins with ease.
 - [How D3 Selections Work (2013)](https://bost.ocks.org/mike/selection/)
+- [Plottable](https://github.com/palantir/plottable) - Library of modular chart components built on D3. ([Web](http://plottablejs.org/))

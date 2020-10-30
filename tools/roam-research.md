@@ -55,3 +55,5 @@
 - [Roam’s road ahead (2020)](https://divinations.substack.com/p/roams-road-ahead)
 - [How Roam knows how pages and blocks are related to each other](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/ueY7f9Adm)
 - [Academic roaming](https://www.academicroaming.com/)
+- [Roam Digest](https://roamdigest.com/) - Fresh dose of #roamcult from around the web.
+- [Recovering Lost Roam Notes (2020)](https://jeffchen.dev/posts/Recovering-Lost-Roam-Notes/) ([HN](https://news.ycombinator.com/item?id=24944574))

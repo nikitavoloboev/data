@@ -22,3 +22,5 @@
 - [The future of RLSL (2020)](https://maikklein.github.io/rlsl-update3/)
 - [A Note on Branching Within a Shader (2020)](https://www.peterstefek.me/shader-branch.html)
 - [Tiny Shading Language](https://github.com/JiayinCao/Tiny-Shading-Language)
+- [Slang](https://github.com/shader-slang/slang) - Shading language that extends HLSL with new capabilities for building modular, extensible, and high-performance real-time shading systems.
+- [Shadershop](https://github.com/cdglabs/Shadershop) - Interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop.

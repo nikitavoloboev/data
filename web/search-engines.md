@@ -7,7 +7,9 @@
 - [CROKAGE: A New Way to Search Stack Overflow (2019)](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/)
 - [Bayard](https://github.com/mosuka/bayard) - Full-text search and indexing server written in Rust.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/)) ([HN](https://news.ycombinator.com/item?id=22685831))
-- [MeiliSearch Javascript Client](https://github.com/meilisearch/meilisearch-js)
+- [MeiliSearch JavaScript Client](https://github.com/meilisearch/meilisearch-js)
+- [MeiliSearch React](https://github.com/meilisearch/meilisearch-react) - Integrate a front-end search bar in your React application using MeiliSearch.
+- [MeiliSearch Go](https://github.com/meilisearch/meilisearch-go) - MeiliSearch API client written for Go.
 - [The Joy of Search](https://mitpress.mit.edu/books/joy-search) - Google Insider's Guide to Going Beyond the Basics.
 - [searX](https://searx.me/) - Metasearch engine, aggregating the results of other search engines while not storing information about its users.
 - [DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo) - Modeled Google and Bing to build a distributed search engine for the dark web.
@@ -74,3 +76,4 @@
 - [GoCrawler](https://github.com/el10savio/GoCrawler) - Distributed web crawler implemented using Go, Postgres, RabbitMQ and Docker.
 - [From Then to Now: a Curated List for Neural Search and Jina (2020)](https://hanxiao.io/2020/10/19/A-Curated-List-of-Neural-Search-and-Jina-Framework-Designs/)
 - [CodeSearch](https://github.com/colin353/universe/tree/master/tools/search) - Search engine for code, written in Rust. ([Article](https://medium.com/@colin353/code-search-74a6a0a74789))
+- [InstantSearch.js](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences with Algolia. ([Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/)) ([React InstantSearch - Lightning-fast search for React and React Native applications](https://github.com/algolia/react-instantsearch))

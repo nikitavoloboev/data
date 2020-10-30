@@ -122,3 +122,5 @@
 - [Xilinx](https://www.xilinx.com/) - Inventor of the FPGA, programmable SoCs. Develops highly flexible and adaptive processing platforms. Owned by AMD. ([HN](https://news.ycombinator.com/item?id=24906151))
 - [Have you considered buying used hardware? (2020)](https://www.0chris.com/consider-buying-used.html) ([Lobsters](https://lobste.rs/s/waupgh/have_you_considered_buying_used_hardware))
 - [Framework to understand RDMA](https://github.com/efficient/rdma_bench)
+- [Curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy)
+- [Hardware-as-a-Service (2020)](https://diff.substack.com/p/hardware-as-a-service) ([HN](https://news.ycombinator.com/item?id=24943526))

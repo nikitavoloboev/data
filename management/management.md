@@ -61,3 +61,5 @@
 - [Using NLP to enable flatter organizations](https://middle-out.io/posts/nlp_orgs) ([HN](https://news.ycombinator.com/item?id=24886936))
 - [How Apple Is Organized for Innovation (2020)](https://hbr.org/2020/11/how-apple-is-organized-for-innovation) ([HN](https://news.ycombinator.com/item?id=24903764))
 - [Manager handoffs (2017)](https://larahogan.me/blog/manager-handoffs/)
+- [Manager advice when teammate shares their grief (or other heavy topic)](https://twitter.com/lara_hogan/status/1321896143261855746)
+- [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management)
