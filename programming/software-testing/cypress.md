@@ -10,3 +10,4 @@
 - [Tricks to make cypress tests run faster (2020)](https://twitter.com/oleg008/status/1314114975783362561)
 - [Thank you, Dr. Bahmutov for Cypress (2020)](https://changelog.com/jsparty/148) - Gleb Bahmutov, PhD joins the show for a fun conversation around end-to-end testing.
 - [cypress-routines](https://github.com/maximilianschmitt/cypress-routines) - Easily write scalable Node.js setup code for Cypress. ([Article](https://maxschmitt.me/posts/cypress-routines/))
+- [Cypress Testing Library](https://github.com/testing-library/cypress-testing-library) - Simple and complete custom Cypress commands and utilities that encourage good testing practices.

@@ -175,3 +175,4 @@
 - [Getting Started with Storybook: How to Develop React Components Without an App (2020)](https://welearncode.com/storybook/)
 - [Will this React global state work in Concurrent Mode?](https://github.com/dai-shi/will-this-react-global-state-work-in-concurrent-mode)
 - [A Semantics for the Essence of React (2020)](https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/cs-2020-03.pdf)
+- [React for Design](https://react.design/) - React Course for Designers.
