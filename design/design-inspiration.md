@@ -512,6 +512,7 @@ Here are few more things I liked, design wise.
 - [Luuk de Vlieger](https://www.luuk.site/)
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 - [Karolina](https://thefox.is/)
+- [Gwern.net](https://www.gwern.net/index) ([Code](https://github.com/gwern/gwern.net))
 - [Melanie Richards](https://melanie-richards.com/)
 - [Andy Grove](https://andygrove.io/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)

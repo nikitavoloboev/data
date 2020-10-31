@@ -55,3 +55,4 @@
 - [biRISC-V](https://github.com/ultraembedded/biriscv) - 32-bit dual issue RISC-V CPU.
 - [Understanding Non-Local Jumps (setjmp/longjmp) in RISC-V Assembly (2020)](https://danielmangum.com/posts/non-local-jumps-riscv/)
 - [Tinsel](https://github.com/POETSII/tinsel) - RISC-V-based manythread message-passing architecture designed for FPGA clusters.
+- [Zip CPU](https://github.com/ZipCPU/zipcpu) - Small, light weight, RISC CPU soft core. ([Web](https://zipcpu.com/about/))
