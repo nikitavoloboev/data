@@ -20,6 +20,7 @@
 - [Blog built using TypeScript/Next.js/Tailwind CSS/MDX Remote/Next SEO](https://github.com/BartoszJarocki/web-jarocki-me)
 - [Canvas-based arrows playground](https://github.com/steveruizok/arrows-playground)
 - [Next.js Advanced Starter](https://github.com/agcty/nextjs-advanced-starter) - Use Tailwind CSS, ESLint, Prettier & absolute imports instantly.
+- [chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js.
 
 ## NextJS plugins
 

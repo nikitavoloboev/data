@@ -381,6 +381,7 @@ Here are few more things I liked, design wise.
 - [Ben Asher](https://benasher.co/) ([Code](https://github.com/benasher44/benasher.co))
 - [Simon Sarris](https://simonsarris.com/)
 - [Ramkumar Ramachandra](https://artagnon.com/) ([Code](https://github.com/artagnon/artagnon.com))
+- [Francois Best](https://francoisbest.com/) ([Code](https://github.com/franky47/francoisbest.com))
 - [Andreas Kirsch](https://www.blackhc.net/)
 - [Karan Desai](https://kdexd.github.io/)
 - [Tina Smith](http://www.tinasmithdesign.com/)

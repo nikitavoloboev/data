@@ -11,3 +11,4 @@
 - [Arduino FIDO2 Authenticator](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/) ([HN](https://news.ycombinator.com/item?id=23676006))
 - [Commanduino Library](https://github.com/croningp/commanduino) - Tools to control Arduino boards seamlessly from Python.
 - [Arduino emulator](https://github.com/ghewgill/emulino)
+- [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Adds MIDI I/O communications to an Arduino board.

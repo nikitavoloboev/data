@@ -129,3 +129,4 @@
 - [node-gyp](https://github.com/nodejs/node-gyp) - Cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS.
+- [fastify-micro](https://github.com/47ng/fastify-micro) - Opinionated Node.js microservices framework built on Fastify.
