@@ -146,3 +146,4 @@
 - [The female mathematician who changed the course of physics—but couldn’t get a job (2015)](https://arstechnica.com/science/2015/05/the-female-mathematician-who-changed-the-course-of-physics-but-couldnt-get-a-job/)
 - [Theoretical Physics Reference](https://www.theoretical-physics.com/dev/index.html) - Open source theoretical physics book. ([Web](https://www.theoretical-physics.com/)) ([Code](https://github.com/certik/theoretical-physics))
 - [A New Map of the Standard Model of Particle Physics (2020)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/) ([HN](https://news.ycombinator.com/item?id=24877612))
+- [What is Energy? Is Energy conserved? (2020)](https://www.youtube.com/watch?v=ZYM6HMLgIKA)

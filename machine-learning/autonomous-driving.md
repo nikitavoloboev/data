@@ -24,3 +24,4 @@
 - [Luminar](https://www.luminartech.com/) - Making autonomous transportation safe with long-range, high resolution lidar and perception.
 - [comma.ai](https://comma.ai/) - Open source driving agent that runs on most cars.
 - [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets.
+- [75 Minutes of Autonomous Driving with Kyle Vogt and Sam Altman (2020)](https://www.youtube.com/watch?v=sliYTyRpRB8)
