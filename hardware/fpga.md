@@ -24,3 +24,4 @@
 - [Conway's Game of Life on FPGA (2020)](https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/)
 - [Analogue Duo](https://www.analogue.co/duo/) - FPGA Based TurboGrafx-16/PC Engine Clone. ([HN](https://news.ycombinator.com/item?id=24802193))
 - [Dream Machine: MiSTer FPGA (2020)](https://felixleger.com/posts/20201018-misterfpga/)
+- [FPGAwars](https://fpgawars.github.io/) - Exploring the Open Side of the FPGAs. ([HN](https://news.ycombinator.com/item?id=24940201))

@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [Cosmological red-shift (caused by the expansion of the universe) does not conserve energy.](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
+- [Cosmological red-shift (caused by the expansion of the universe) does not conserve energy. Expanding universe is not time translation invariant, so energy is not strictly conserved.](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
 
 ## Links
 

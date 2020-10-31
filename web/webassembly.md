@@ -112,3 +112,4 @@
 - [AssemblyLift](https://github.com/akkoro/assemblylift) - Framework for building serverless applications powered by WebAssembly.
 - [WebAssembly Design Docs](https://github.com/WebAssembly/design)
 - [Speed up Python with Rust via WebAssembly](https://github.com/savarin/bridge)
+- [Go Wasm](https://go-wasm.johnstarich.com/) - In-browser IDE for Go using WebAssembly. ([Code](https://github.com/JohnStarich/go-wasm))
