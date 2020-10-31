@@ -34,3 +34,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Apple is building an operating system for health (2020)](https://divinations.substack.com/p/healthos)([HN](https://news.ycombinator.com/item?id=23507600))
 - [The Long Game by Mehdi Yacoubi](https://mehdiyacoubi.substack.com/)
 - [How to look younger & age well (2020)](https://t.me/durov/137)
+- [Why Air Quality Matters (2018)](https://www.youtube.com/watch?v=MRqh8oLY7Ik)

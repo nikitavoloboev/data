@@ -101,3 +101,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [meli](https://meli.delivery/) - Terminal mail client. ([Code](https://git.meli.delivery/meli/meli))
 - [MailerSend](https://www.mailersend.com/) - Transactional email service that delivers.
 - [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail. ([HN](https://news.ycombinator.com/item?id=24422432))
+- [Building a functional email server (2020)](https://signalsandthreads.com/building-a-functional-email-server/)
