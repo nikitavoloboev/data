@@ -472,6 +472,7 @@ Here are few more things I liked, design wise.
 - [Vaida](http://vaida.me/)
 - [Jeremy Thomas](https://jgthms.com/)
 - [Brad Frost](https://bradfrost.com/)
+- [Philip Davis](https://www.philipcdavis.com/) ([Code](https://github.com/philipcdavis/philipcdavis.github.io))
 - [Brady Joslin](https://bradyjoslin.com/)
 - [Cassidy Williams](http://cassidoo.co/)
 - [Erik](http://www.eriklindernoren.se/)

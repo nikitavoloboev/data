@@ -111,3 +111,4 @@
 - [Video Game Source Project](https://gamehistory.org/video-game-source-project/) - Video Game History Foundation. Ability to study video game source material is rare. We’re changing that.
 - [Activision Research Publications](https://research.activision.com/publications)
 - [es_core](https://github.com/TTimo/es_core) - Experimental framework for low latency, high fps multiplayer games.
+- [Game Developers Conference (GDC)](https://gdconf.com/)

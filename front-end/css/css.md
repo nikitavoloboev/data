@@ -228,3 +228,5 @@
 - [CSS for JavaScript Developers](https://css-for-js.dev/) - Online course that teaches the fundamentals of CSS for React/Vue devs.
 - [Custom CSS via Serverless Proxy (2020)](https://paco.sh/blog/custom-css-via-proxy)
 - [How to make CSS Animations (2020)](https://www.imaginarycloud.com/blog/how-to-make-css-animations/)
+- [Everything I Have Done to Make CSS Wizardry Fast](https://gumroad.com/l/yrUwX/earlybird)
+- [Simple Start to CSS variables (2020)](https://kentcdodds.com/blog/super-simple-start-to-css-variables)

@@ -27,3 +27,4 @@
 - [How to enjoy coffee](https://psyche.co/guides/good-coffee-is-like-a-fine-wine-start-with-high-quality-beans)
 - [HashiCafe Coffee Art (2020)](https://www.youtube.com/watch?v=dWNv_XDR0zg)
 - [Economics of Coffee in One Chart (2020)](https://www.visualcapitalist.com/the-economics-of-coffee-in-one-chart/)
+- [How do you decaffeinate coffee? (2018)](https://www.bbc.com/future/article/20180917-how-do-you-decaffeinate-coffee) ([HN](https://news.ycombinator.com/item?id=24941070))
