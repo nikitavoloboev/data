@@ -373,3 +373,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Trustpilot](https://www.trustpilot.com/) - Consumer review website.
 - [Wardley Maps Community Hub](https://github.com/wardley-maps-community/awesome-wardley-maps) - Wardley Mapping is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions.
 - [OnlineWardleyMaps](https://onlinewardleymaps.com/) - Draw Wardley Maps in seconds.
+- [Spotify Export](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON.

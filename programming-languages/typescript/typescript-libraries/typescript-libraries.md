@@ -64,6 +64,8 @@
 - [fluent-builder](https://github.com/develohpanda/fluent-builder) - Typed, fluent builder for generating fixtures in Typescript.
 - [xstate-codegen](https://github.com/mattpocock/xstate-codegen) - Gives you 100% type-safe usage of XState in Typescript.
 - [useFsmReducer](https://github.com/mattpocock/use-fsm-reducer) - useReducer for state machine enthusiasts.
+- [tydoc](https://github.com/jasonkuhrt/tydoc) - TypeScript documenter that meets you where you are.
+- [Setset](https://github.com/jasonkuhrt/setset) - Powerful Incremental Type-driven Settings Engine.
 
 ## Links
 

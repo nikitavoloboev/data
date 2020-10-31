@@ -7,7 +7,7 @@
 
 ## Links
 
-- [Rust language book](https://doc.rust-lang.org/book/) ([Code](https://github.com/rust-lang/book))
+- [Rust language book](https://doc.rust-lang.org/book/) ([Code](https://github.com/rust-lang/book)) ([Exercises code](https://github.com/jasonkuhrt/rust-book-exercises))
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/) ([Code](https://github.com/rust-lang/reference))
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)

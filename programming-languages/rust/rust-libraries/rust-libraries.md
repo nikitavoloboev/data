@@ -498,6 +498,7 @@
 - [Fuzzy Matcher](https://github.com/lotabout/fuzzy-matcher) - Fuzzy Matching Library for Rust.
 - [dirs-next](https://github.com/xdg-rs/dirs) - Low-level library that provides config/cache/data paths.
 - [generator-rs](https://github.com/Xudong-Huang/generator-rs) - Rust stackful generator library.
+- [image2](https://github.com/zshipko/image2-rs) - Image processing library for Rust.
 
 ## Cargo Plugins
 

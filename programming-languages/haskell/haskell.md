@@ -214,3 +214,4 @@
 - [Intro to type-level programming in Haskell (2020)](http://matija.me/2020/07/04/haskell-type-lvl-programming-intro/)
 - [Haskell Fan Site](https://crypto.stanford.edu/~blynn/haskell/)
 - [Haskell: The Bad Parts (2020)](https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1) ([Reddit](https://www.reddit.com/r/haskell/comments/jjl4hy/haskell_the_bad_parts_part_1/))
+- [Haskell exercises](https://github.com/neongreen/haskell-ex)

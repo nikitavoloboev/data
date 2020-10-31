@@ -47,6 +47,7 @@
 - [Ppxlib](https://github.com/ocaml-ppx/ppxlib) - Base library and tools for ppx rewriters.
 - [jsoo-react](https://github.com/jchavarri/jsoo-react) - Bindings to React for js_of_ocaml, including JSX ppx. Allows to use React from OCaml.
 - [OByteLib](https://github.com/bvaugon/obytelib) - OCaml bytecode library tools. Useful to read, write and evaluate OCaml bytecode files.
+- [bimage](https://github.com/zshipko/ocaml-bimage) - Composable image processing library for OCaml.
 
 ## Links
 

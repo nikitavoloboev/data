@@ -193,3 +193,4 @@
 - [eBPF Summit 2020](https://ebpf.io/summit-2020/) ([HN](https://news.ycombinator.com/item?id=24934560))
 - [What's in a Linux executable? (2020)](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) ([HN](https://news.ycombinator.com/item?id=24926925))
 - [Paru](https://github.com/Morganamilo/paru) - AUR helper and pacman wrapper.
+- [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines.
