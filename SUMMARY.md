@@ -223,7 +223,7 @@
         - [MDX](programming-languages/javascript/js-libraries/react/mdx.md)
         - [Relay](programming-languages/javascript/js-libraries/react/relay.md)
         - [Next.js](programming-languages/javascript/js-libraries/react/nextjs.md)
-        - [Blitz.js](programming-languages/javascript/js-libraries/react/nextjs.md)
+        - [Blitz.js](programming-languages/javascript/js-libraries/react/blitz.md)
       - [ESLint](programming-languages/javascript/eslint.md)
       - [Jest](programming-languages/javascript/js-libraries/jest.md)
       - [Redux](programming-languages/javascript/js-libraries/redux.md)

@@ -11,3 +11,4 @@
 - [Blitz Public Wiki](https://github.com/blitz-js/blitz/wiki)
 - [Blitz.js Jobs](https://blitz-jobs.com/)
 - [Weekly Blitz](https://weekly-blitz.com/) - Best articles, links, community updates and news related to Blitz.js.
+- [Blitz.js & The Future of Fullstack (2020)](https://www.youtube.com/watch?v=ZSD5ifGTlag) ([Notes](https://twitter.com/tlakomy/status/1322518006661058560))
