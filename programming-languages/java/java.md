@@ -34,3 +34,4 @@
 - [Modern Java/JVM Build Practices](https://github.com/binkley/modern-java-practices)
 - [A Complete Introduction to Java EE (2020)](https://www.jessym.com/articles/a-complete-introduction-to-java-ee)
 - [JDConf](https://jdconf.splashthat.com/) - Connecting Java Developers.
+- [Java Concurrency - Basics of Threads (2020)](https://turkogluc.com/java-concurrency-basics-of-threads/) ([HN](https://news.ycombinator.com/item?id=24940545))
