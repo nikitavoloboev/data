@@ -119,7 +119,7 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Archive Program & Arctic Code Vault](https://github.com/github/archive-program)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes.
 - [Awesome GitHub Profiles](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Octotree](https://www.octotree.io/) - GitHub on steroids.
+- [Octotree](https://www.octotree.io/) - GitHub on steroids. ([Code](https://github.com/ovity/octotree))
 - [GitHub ReadME Project](https://github.com/readme/) - Meet the people behind the projects you love.
 - [Scuttlebutt](https://github.com/benbjohnson/scuttlebutt) - Daemon for tracking and tweeting trending Github repositories by language.
 - [LinearSync](https://linear-sync.com/) - Sends GitHub issues to Linear. ([Code](https://github.com/jtormey/linear-sync))
@@ -140,3 +140,5 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub DMCA takedown notices](https://github.com/github/dmca)
 - [Parity GitHub Processbot](https://github.com/paritytech/parity-processbot)
 - [GitHub Pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs.
+- [Refined GitHub](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
+- [Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub.

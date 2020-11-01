@@ -56,3 +56,4 @@
 - [Understanding Non-Local Jumps (setjmp/longjmp) in RISC-V Assembly (2020)](https://danielmangum.com/posts/non-local-jumps-riscv/)
 - [Tinsel](https://github.com/POETSII/tinsel) - RISC-V-based manythread message-passing architecture designed for FPGA clusters.
 - [Zip CPU](https://github.com/ZipCPU/zipcpu) - Small, light weight, RISC CPU soft core. ([Web](https://zipcpu.com/about/))
+- [ex-ARM engineer critiques RISC-V](https://gist.github.com/erincandescent/8a10eeeea1918ee4f9d9982f7618ef68) ([HN](https://news.ycombinator.com/item?id=24958423))

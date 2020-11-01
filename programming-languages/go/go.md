@@ -368,3 +368,4 @@ Go promotes composition over inheritance.
 - [Ask HN: Go programming language is over ten years old. What do you think of it? (2020)](https://news.ycombinator.com/item?id=24887521)
 - [Awesome Go code formatters](https://github.com/life4/awesome-go-code-formatters)
 - [gofumpt](https://github.com/mvdan/gofumpt) - Stricter gofmt.
+- [Go Wasm](https://go-wasm.johnstarich.com/) - In-browser IDE for Go using WebAssembly. ([Code](https://github.com/JohnStarich/go-wasm))

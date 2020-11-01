@@ -107,3 +107,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS11 Big Sur UI Kit](https://applypixels.com/resource/big-sur-ui)
 - [Apple Platform Versions](https://github.com/phatblat/ApplePlatformVersions) - Recent history of platforms developed by Apple, including Apple-managed build tools for these platforms.
 - [Sketch — Part of your world: Why we’re proud to build a truly native Mac app (2020)](https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/) ([HN](https://news.ycombinator.com/item?id=24899391)) ([HN 2](https://news.ycombinator.com/item?id=24912325)) ([Tweet](https://twitter.com/amix3k/status/1321404287566680064?s=21))
+- [macOS 11 boot volume layout (2020)](https://eclecticlight.co/2020/09/16/boot-volume-layout/)

@@ -361,3 +361,4 @@
 - [cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - Cache the dependencies of your Rust project and speed up your Docker builds. ([Article](https://www.lpalmieri.com/posts/fast-rust-docker-builds/))
 - [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production))
 - [So you want to write object oriented Rust (2020)](https://blog.darrien.dev/posts/so-you-want-to-object/)
+- [A practical guide to async in Rust (2020)](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)

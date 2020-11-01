@@ -341,6 +341,7 @@
 - [jsii](https://github.com/aws/jsii) - Allows code in any language to naturally interact with JavaScript classes.
 - [proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap. ([Tweet](https://twitter.com/dai_shi/status/1321089602623557639))
 - [CosmJS](https://github.com/cosmos/cosmjs) - Modular library consisting of multiple packages to power web experiences.
+- [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps. ([Web](https://arwes.dev/))
 
 ## Links
 
