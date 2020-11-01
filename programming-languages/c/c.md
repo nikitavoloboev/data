@@ -92,3 +92,6 @@
 - [SheLLVM](https://github.com/SheLLVM/SheLLVM) - Collection of LLVM transform and analysis passes to write shellcode in regular C.
 - [Defining C macros the right way (2020)](https://bowero.nl/blog/2020/10/25/defining-c-macros-the-right-way/) ([Lobsters](https://lobste.rs/s/ubh34r/defining_c_macros_right_way))
 - [Hundred year mistakes (2020)](https://ericlippert.com/2020/02/27/hundred-year-mistakes/) ([Lobsters](https://lobste.rs/s/f3grxk/hundred_year_mistakes))
+- [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
+- [shecc](https://github.com/jserv/shecc) - Self-hosting and educational C compiler.
+- [AMaCC](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution.
