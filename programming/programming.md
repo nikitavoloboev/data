@@ -179,7 +179,7 @@
 - [The Wet Codebase by Dan Abramov (2019)](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
 - [Ask HN: Why isn’t visual programming a bigger thing? (2020)](https://news.ycombinator.com/item?id=23252448)
 - [The Unreasonable Effectiveness Of Declarative Programming (2020)](https://bollu.github.io/mathemagic/declarative/index.html) ([HN](https://news.ycombinator.com/item?id=23231361))
-- [7GUIs](https://eugenkiss.github.io/7guis/) - GUI Programming Benchmark.
+- [7GUIs](https://eugenkiss.github.io/7guis/) - GUI Programming Benchmark. ([HN](https://news.ycombinator.com/item?id=24958725))
 - [Lower Your Guards: A Compositional Pattern-Match Coverage Checker](https://pp.ipd.kit.edu/uploads/publikationen/graf20lyg.pdf)
 - [Software Engineering Within SpaceX (2020)](https://yasoob.me/posts/software_engineering_within_spacex_launch/) ([HN](https://news.ycombinator.com/item?id=23403800))
 - [Ask HN: Are my expectations on code quality and professionalism too high? (2020)](https://news.ycombinator.com/item?id=23426574)

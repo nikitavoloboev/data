@@ -10,3 +10,4 @@
 - [How Discord Won (2020)](https://ianvanagas.com/2020/10/19/how-discord-won/) ([HN](https://news.ycombinator.com/item?id=24829635))
 - [Discord Home](https://discordhome.com/) - Discord Server List.
 - [discord_data](https://github.com/seanbreckenridge/discord_data) - Library to parse information from the discord data export.
+- [How Discord (somewhat accidentally) invented the future of the internet (2020)](https://www.protocol.com/discord)
