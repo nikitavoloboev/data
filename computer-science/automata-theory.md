@@ -35,3 +35,4 @@
 - [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life) ([Lobsters](https://lobste.rs/s/lcgb1l/build_working_game_tetris_conway_s_game))
 - [Let’s build a computer in Conway's game of life (2020)](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
 - [Building a computer in Conway's game of life (2020)](https://www.nicolasloizeau.com/gol-computer) ([HN](https://news.ycombinator.com/item?id=24831268))
+- [Cellular Automaton in Haskell (I). Conway's Game of Life](https://herebeseaswines.net/essays/2020-10-22-conways-game-of-life-in-haskell)

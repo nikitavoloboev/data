@@ -135,6 +135,7 @@
 - [RokkinCat](https://rokkincat.com/)
 - [The Agile Monkeys](https://www.theagilemonkeys.com/) - Team of full-stack senior software engineers.
 - [QuarkWorks](https://quarkworks.co/)
+- [Jayway](https://www.jayway.com/)
 
 ## Links
 
