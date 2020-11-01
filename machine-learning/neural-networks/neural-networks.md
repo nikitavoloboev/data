@@ -156,3 +156,4 @@
 - [Demonstration of the attention mechanism with some toy experiments and explanations](https://github.com/greentfrapp/attention-primer)
 - [Augerino](https://github.com/g-benton/learning-invariances) - Codebase for Learning Invariances in Neural Networks.
 - [ELI5](https://github.com/TeamHG-Memex/eli5) - Python package which helps to debug machine learning classifiers and explain their predictions.
+- [Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://github.com/microsoft/Cream)
