@@ -12,3 +12,4 @@
 - [APALACHE](https://github.com/konnov/apalache) - Symbolic model checker for TLA+.
 - [TLA+ Model Checking Made Symbolic (2019)](https://hal.archives-ouvertes.fr/hal-02280888/document)
 - [TLA+ Examples](https://github.com/tlaplus/Examples) - Collection of TLA+ specifications of varying complexities.
+- [Using TLA+ in the Real World to Understand a Glibc Bug (2020)](https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/) ([HN](https://news.ycombinator.com/item?id=24958504))

@@ -43,3 +43,4 @@
 - [Fully](https://www.fully.com/) - Standing desks, chairs. ([Tweet](https://twitter.com/aaroniker_me/status/1301261705520050176))
 - [I built a lay-down desk (2020)](https://blog.luap.info/drafts/i-built-a-lay-down-desk.html) ([HN](https://news.ycombinator.com/item?id=24687458))
 - [Lights, Camera, Action! My Tech Setup For Recording Courses & Podcasts (2020)](https://compiled.blog/blog/my-tech-setup) ([Twitter](https://twitter.com/EmmaBostian/status/1312346692893773825))
+- [Desk Setups for Programmers in 2020 | Coding, Productivity, Creative Work (2020)](https://www.youtube.com/watch?v=dCmGBOgSjtg)

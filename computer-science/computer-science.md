@@ -79,3 +79,4 @@
 - [Princeton University CS](https://www.cs.princeton.edu/) ([GitHub](https://github.com/princeton-sns))
 - [E. Dijkstra – The Man Who Carried Computer Science on His Shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders) ([HN](https://news.ycombinator.com/item?id=24942671))
 - [The FUNARG Problem Explained (1968)](http://www.softwarepreservation.net/projects/LISP/MIT/Weizenbaum-FUNARG_Problem_Explained-1968.pdf)
+- [Weekly CS Paper](https://simon-frey.com/weeklycspaper/) - Get a computer science paper every Friday.

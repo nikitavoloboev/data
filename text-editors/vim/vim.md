@@ -81,3 +81,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim Registers: What, How, and Macros (2020)](https://www.youtube.com/watch?v=Q5eDxR7bU2k)
 - [GoNeovim](https://github.com/akiyosi/goneovim) - Neovim GUI written in Go, using a Qt binding for Go.
 - [pyvim](https://github.com/prompt-toolkit/pyvim) - Pure Python Vim clone.
+- [NeoVims built-in Language Server Client and why you should use it (2020)](https://expectationmax.github.io/2020/NeoVims-Language-Server-Client/)
