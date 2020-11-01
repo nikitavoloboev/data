@@ -18,7 +18,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [WebTTY](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC.
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
 - [Python implementation of the IPv8 layer](https://github.com/Tribler/py-ipv8)
-- [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy.
+- [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy. ([Code](https://github.com/mitmproxy/mitmproxy))
 - [CFSSL](https://github.com/cloudflare/cfssl) - CloudFlare's PKI/TLS swiss army knife.
 - [Every Linux networking tool I know](https://wizardzines.com/networking-tools-poster/)
 - [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455)) [HN 2](https://news.ycombinator.com/item?id=20410552)

@@ -10,7 +10,7 @@
 - [Text and supporting code for Think Stats, 2nd Edition](https://github.com/AllenDowney/ThinkStats2)
 - [Bayes’ Theorem Intuition (2019)](https://blog.demofox.org/2019/10/25/bayes-theorem-intuition/)
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)
-- [Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) ([Code](https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning))
 - [Notes and exercise attempts for "An Introduction to Statistical Learning"](https://github.com/asadoughi/stat-learning)
 - [BayesOpt](https://github.com/rmcantin/bayesopt) - Toolbox for bayesian optimization, experimental design and stochastic bandits.
 - [Introduction to Empirical Bayes: Examples from Baseball Statistics](http://varianceexplained.org/r/empirical-bayes-book/)
