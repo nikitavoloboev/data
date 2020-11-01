@@ -180,3 +180,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Crash Course (2020)](https://neros.dev/blog/git-crash-course-part-1/)
 - [chglog](https://github.com/goreleaser/chglog) - Changelog management library and tool.
 - [fzf powered git fixups (2017)](http://blog.railscoder.net/git/zsh/fzf/tmux/2017/10/24/fzf-powered-git-fixups.html)
+- [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/) - Use D3 to visualize simple git branching operations. ([Code](https://github.com/onlywei/explain-git-with-d3)) ([HN](https://news.ycombinator.com/item?id=24957280))

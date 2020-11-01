@@ -15,3 +15,4 @@
 - [Blender Tools](https://github.com/LeanderSilur/Blender-Tools) - Various python tools for Blender. Partially Addons.
 - [Sprytile Painter](https://github.com/Sprytile/Sprytile) - Blender addon for creating tile based low spec 3D scenes. ([Web](https://jeiel.itch.io/sprytile))
 - [Grid Modeler (blender addon)](https://gumroad.com/l/VthLyO)
+- [BCON20 – Blender Conference: Together Apart (2020)](https://www.youtube.com/watch?v=uEjmbsiflMU) ([HN](https://news.ycombinator.com/item?id=24951550))

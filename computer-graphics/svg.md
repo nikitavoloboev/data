@@ -51,3 +51,4 @@
 - [diffvg](https://people.csail.mit.edu/tzumao/diffvg/) - Differentiable Rasterizer for Vector Graphics. ([Paper](https://people.csail.mit.edu/tzumao/diffvg/))
 - [Using SVGs in asset catalogs](https://bjango.com/articles/svgassetcatalogs/)
 - [uhtml](https://github.com/WebReflection/uhtml) - Micro HTML/SVG render.
+- [Simple Image Vectorization](https://wordsandbuttons.online/simple_image_vectorization.html) ([HN](https://news.ycombinator.com/item?id=24957120))
