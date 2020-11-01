@@ -167,4 +167,4 @@
 - [SwiftDump](https://github.com/neil-wu/SwiftDump) - Command-line tool for retriving the Swift Object info from Mach-O file.
 - [Advanced Swift learning resources (2020)](https://twitter.com/drewmccormack/status/1314539109013127181)
 - [MinSwift](https://github.com/giginet/MinSwift-workshop) - Minimum Swift compiler written in Swift.
-- [Swift Concurrency Roadmap (2020)](https://forums.swift.org/t/swift-concurrency-roadmap/41611) ([HN](https://news.ycombinator.com/item?id=24944777))
+- [Swift Concurrency Roadmap (2020)](https://forums.swift.org/t/swift-concurrency-roadmap/41611) ([HN](https://news.ycombinator.com/item?id=24944777)) ([Video overview](https://www.youtube.com/watch?v=zLK30aKLANA))

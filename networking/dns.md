@@ -53,3 +53,4 @@
 - [Resolve.rs](https://resolve.rs/) - Troubleshooting website for network and DNS issues. ([Code](https://github.com/redirect2me/resolvers))
 - [DNS Trends (2020)](https://www.potaroo.net/ispcol/2020-10/trends.html)
 - [Dynroute53](https://github.com/thoeni/dynroute53) - Dynamic DNS updater for AWS Route53. Like DDNS for AWS managed domains.
+- [Handshake](https://handshake.org/) - Experimental peer-to-peer root naming system. ([Code](https://github.com/handshake-org/hsd)
