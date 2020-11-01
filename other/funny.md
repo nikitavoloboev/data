@@ -48,3 +48,5 @@
 - [Me not bothering about 2020 anymore](https://twitter.com/KarmenJ_97/status/1313210331729203203)
 - [Unifying the Technical Interview (2020)](https://aphyr.com/posts/354-unifying-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24782175))
 - [Anyone interested in investing?](https://twitter.com/EmilyKager/status/1318738958675685378)
+- [Cyberpunk 2077 Russian Version](https://www.youtube.com/watch?v=LKUbfCYIy4o)
+- [Cyberpunk 2077 Winter in Russia](https://www.youtube.com/watch?v=P0qNajA1R2c)

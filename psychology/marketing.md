@@ -90,7 +90,7 @@
 - [Keylitic](https://www.keylitic.com/) - Database of trending product keywords.
 - [Bannerbear](https://www.bannerbear.com/) - API for Automated Image and Video Generation.
 - [Facebook Ads Manual](https://superspicymedia.com/the-facebook-ads-manual) ([Tweet](https://twitter.com/jhooks/status/1321463201070899202))
-- [GrowthHunt](https://www.growthunt.com/) - Database of TL;DR business strategies/case studies.
+- [GrowthHunt](https://www.growthunt.com/) - Database of TL;DR business strategies/case studies. ([HN](https://news.ycombinator.com/item?id=24957244))
 - [Startup Growth Kit](https://startupgrow.co/) - 300+ growth hacks & tools in Notion.
 
 ## Images

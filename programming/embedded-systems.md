@@ -82,3 +82,4 @@
 - [Embedded Programming Without the IDE (2016)](http://reecestevens.me/blog/2016/07/08/embedded-programming-without-ide/) ([HN](https://news.ycombinator.com/item?id=24867643))
 - [Free CANopen Stack for Embedded Systems](https://github.com/embedded-office/canopen-stack) ([Web](https://canopen-stack.org/))
 - [Using Rust for a simple hardware project (2020)](https://blog.tonari.no/rust-simple-hardware-project)
+- [elfload](https://github.com/erincandescent/elfload) - ELF loader for embedded systems.
