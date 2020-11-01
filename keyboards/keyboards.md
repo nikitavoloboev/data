@@ -87,6 +87,6 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Planck Keyboard Layout Iterations](http://thedarnedestthing.com/planck%20constant)
 - [4x4 Macro Pad (2020)](https://0xc45.com/blog/4x4-macro-pad/) ([HN](https://news.ycombinator.com/item?id=24697624)) ([Lobsters](https://lobste.rs/s/utcopz/4x4_macro_pad_kit))
 - [Down the ergonomic keyboard rabbit hole (2020)](https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html) ([HN](https://news.ycombinator.com/item?id=24728224)) ([Lobsters](https://lobste.rs/s/xhvoke/down_ergonomic_keyboard_rabbit_hole))
-- [Monkey Type](https://monkey-type.com/) - Minimalistic typing test. ([Code](https://github.com/Miodec/monkeytype))
+- [Monkey Type](https://monkeytype.com/) - Minimalistic typing test. ([Code](https://github.com/Miodec/monkeytype))
 - [Type Fu](https://type-fu.com/) - App that will teach you how to type fast. The right way.
 - [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards. ([Code](https://github.com/crsnbrt/keysim))

@@ -4,6 +4,7 @@
 
 - [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
 - [Ash](https://github.com/ash-project/ash) - Resource based framework for building Elixir applications.
+- [SiteEncrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
 
 ## DB
 

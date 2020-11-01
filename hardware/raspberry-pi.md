@@ -38,3 +38,4 @@
 - [Use a raspberry-pi 2 as a firewall with FreeBSD (2020)](https://stafwag.github.io/blog/blog/2020/10/25/rpi2_freebsd_firewall/) ([Lobsters](https://lobste.rs/s/ixvxmi/use_raspberry_pi_2_as_firewall_with))
 - [RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices. ([Docs](https://xavierberger.github.io/RPi-Monitor-docs/index.html))
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4 (2020)](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4) ([HN](https://news.ycombinator.com/item?id=24945361))
+- [Piipcam](https://github.com/sepfy/piipcam) - 1080P IP Camera on a Raspberry Pi Zero W. ([HN](https://news.ycombinator.com/item?id=24959408))

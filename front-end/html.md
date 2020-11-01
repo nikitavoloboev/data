@@ -75,3 +75,4 @@
 - [bluemonday](https://github.com/microcosm-cc/bluemonday) - HTML sanitizer implemented in Go. It is fast and highly configurable.
 - [vanilla-colorful](https://github.com/web-padawan/vanilla-colorful) - Tiny color picker custom element for modern web apps.
 - [HTML forms, Databases, Integration tests (2020)](https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/)
+- [Tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document. ([Web](http://tscanlin.github.io/tocbot/))

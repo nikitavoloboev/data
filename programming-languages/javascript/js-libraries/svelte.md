@@ -51,3 +51,4 @@
 - [svelte-ssr-worker](https://github.com/lukeed/svelte-ssr-worker) - Quick demo for rendering Svelte server-side (SSR), but within a Cloudflare Worker.
 - [Svelte for Sites, React for Apps (2020)](https://www.swyx.io/svelte-sites-react-apps/)
 - [Notes on porting GraphQL client to Svelte from React (2020)](https://twitter.com/AdamRackis/status/1321997627110707200)
+- [Svelte Actions](https://github.com/sw-yx/svelte-actions)
