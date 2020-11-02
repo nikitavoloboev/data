@@ -5,6 +5,7 @@
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)
 - [At the end of each meeting ask if they know anyone else you can meet with. I normally tell them I’m trying to expand my network with successful folks in the area/space. Nice way to indirect compliment them.](https://twitter.com/AlwaysBeHustlin/status/1297920306900865024)
 - [Trust your people. Simplify and then simplify again. If you don’t trust your team to present complex concepts in a simple manner, the whole system breaks. Don’t use 10 words when you can use one.](https://twitter.com/Post_Market/status/1313098213625393157)
+- [Remember that almost no conversation ends with a change of mind. That happens later, if at all.](https://news.ycombinator.com/item?id=24968437)
 
 ## Links
 
@@ -57,3 +58,4 @@
 - [Forem](https://www.forem.com/) - For empowering community. Open source software which powers dev.to. ([forem.dev](https://forem.dev/))
 - [Betting Against Real-Time Team Messaging Apps Like Slack (2020)](https://blog.doist.com/betting-against-slack/)
 - [How to Build Consensus When Your Team Can't Agree (2020)](https://spin.atomicobject.com/2020/10/30/overcome-team-disagreement/)
+- [Tips on communicating clearly](https://news.ycombinator.com/item?id=24969032)

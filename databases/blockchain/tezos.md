@@ -11,3 +11,4 @@
 - [Tezos — a self-amending crypto-ledger White Paper (2014)](https://github.com/tezos/tezos-papers) ([Code](https://github.com/tezos/tezos-papers))
 - [Tezos Docs](https://assets.tqtezos.com/docs/intro/)
 - [Tezos Developer Portal](https://developers.tezos.com/)
+- [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries.

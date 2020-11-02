@@ -45,3 +45,4 @@
 - [Books in .txt format for AI training purposes](https://twitter.com/theshawwn/status/1320282149329784833) ([HN](https://news.ycombinator.com/item?id=24884789))
 - [Sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [SuperAnnotate](https://superannotate.com/) - Fastest annotation platform for training AI.
+- [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow.

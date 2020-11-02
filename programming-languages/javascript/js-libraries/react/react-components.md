@@ -123,6 +123,7 @@
 - [react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs.
 - [jsxui](https://github.com/souporserious/jsxui) - Primitive elements to build isomorphic user interfaces in React.
 - [raam](https://github.com/joe-bell/raam) - Beautifully boring cosmetic-free primitives for structure and layout. ([Web](https://raam.joebell.co.uk/))
+- [Notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other.
 
 ## Links
 

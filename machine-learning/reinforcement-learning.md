@@ -119,3 +119,5 @@
 - [PFRL](https://github.com/pfnet/pfrl) - PyTorch-based deep reinforcement learning library.
 - [Deep Reinforcement Learning Papers](https://github.com/muupan/deep-reinforcement-learning-papers)
 - [ChainerRL](https://github.com/chainer/chainerrl) - Deep reinforcement learning library built on top of Chainer.
+- [RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments](https://github.com/facebookresearch/impact-driven-exploration)
+- [Best Reinforcement Learning Tutorials, Examples, Projects, and Courses (2020)](https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses)

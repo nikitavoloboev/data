@@ -176,6 +176,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Writing to Learn: How to Write--And Think--Clearly about Any Subject at All (1993)](https://www.goodreads.com/book/show/585474.Writing_to_Learn)
 - [Reading Supply](https://reading.supply/) - Writing and discussion platform.
 - [Vale](https://github.com/errata-ai/vale) - Command-line tool that brings code-like linting to prose. ([Docs](https://docs.errata.ai/))
+- [errata.ai](https://errata.ai/) - Innovative tools for collaborative writing. ([GitHub](https://github.com/errata-ai))
 - [George Orwell: Politics and the English Language](https://www.orwell.ru/library/essays/politics/english/e_polit)
 - [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html) ([HN](https://news.ycombinator.com/item?id=24268382))
 - [Andy's Note-writing stream (2020)](https://www.youtube.com/watch?v=DGcs4tyey18)

@@ -67,3 +67,6 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Static SSL website entirely on AWS (2020)](https://mathieuhendey.com/2020/10/static-ssl-website-entirely-on-aws/)
 - [Static versus dynamic web sites (2020)](http://john.ankarstrom.se/html2/) ([Lobsters](https://lobste.rs/s/okyfet/static_versus_dynamic_web_sites))
 - [Creating a blazing fast static website without Gatsby or JavaScript (2020)](https://bennetthardwick.com/blog/creating-a-blazingly-fast-blog-without-js-or-gatsby/)
+- [Static School](https://staticschool.com/) - Compare Static Site Generators. ([Code](https://github.com/errata-ai/static-school))
+- [SSG Build Performance Comparison](https://github.com/seancdavis/ssg-build-performance-tests) - Measures the build performance at scale for static site generators.
+- [Edge Cached Static Sites on CloudFlare (2020)](https://hugotunius.se/2020/01/01/edge-cached-static-sites-on-cloudflare.html)

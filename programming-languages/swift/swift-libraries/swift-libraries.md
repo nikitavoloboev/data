@@ -466,6 +466,8 @@
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing.
 - [Burritos](https://github.com/guillermomuntaner/Burritos) - Collection of well tested Swift Property Wrappers.
 - [workflow-swift](https://github.com/square/workflow-swift) - Unidirectional data flow library for Swift and Kotlin.
+- [SwiftGraphQL](https://github.com/maticzav/swift-graphql) - GraphQL client that lets you forget about GraphQL.
+- [DictionaryCoding](https://github.com/elegantchaos/DictionaryCoding) - Swift Decoder/Encoder which converts to/from dictionaries.
 
 ## Other (not lib)
 

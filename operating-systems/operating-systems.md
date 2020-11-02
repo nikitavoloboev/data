@@ -145,3 +145,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Brief Retrospective on the Sprite Network Operating System](https://web.stanford.edu/~ouster/cgi-bin/spriteRetrospective.php)
 - [CS 140: Operating Systems course (2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
 - [Tarides](https://tarides.com/) - Building functional systems. Commercial support on MirageOS and Irmin.
+- [Return to Plan 9 (2020)](https://boxbase.org/entries/2020/nov/1/return-to-plan9/)

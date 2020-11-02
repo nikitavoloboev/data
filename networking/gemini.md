@@ -20,3 +20,4 @@
 - [A look at the Gemini protocol: a brutally simple alternative to the web (2020)](https://toffelblog.xyz/blog/gemini-overview/) ([HN](https://news.ycombinator.com/item?id=23730408))
 - [Scalar](https://sr.ht/~icefox/scalar/) - Small chat protocol, inspired by Gemini. ([Lobsters](https://lobste.rs/s/gnd8bc/scalar_small_chat_protocol_inspired_by))
 - [Amfora](https://github.com/makeworld-the-better-one/amfora) - Fancy terminal browser for the Gemini protocol.
+- [What is this Gemini thing anyway, and why am I excited about it? (2020)](https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html) ([Lobsters](https://lobste.rs/s/ivryqt/what_is_this_gemini_thing_anyway_why_am_i))

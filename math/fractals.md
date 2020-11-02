@@ -40,3 +40,4 @@
 - [The Fractal Project](https://thefractalproject.com/explore) - Trying to understand what makes an image visually appealing by analyzing feedback on our randomly generated fractal art.
 - [DeepBlue](https://github.com/micahhahn/DeepBlue) - Basic web app to make high quality renderings of the Mandelbrot Set written in Haskell.
 - [3D Julia Sets](https://www.iquilezles.org/www/articles/juliasets3d/juliasets3d.htm)
+- [Xmountains](https://spbooth.github.io/xmountains/) - Fractal terrain generator. ([About](https://spbooth.github.io/xmountains/about_xmountains.html))

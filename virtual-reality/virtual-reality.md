@@ -1,5 +1,7 @@
 # Virtual reality
 
+I enjoy playing [Pistol Whip](https://cloudheadgames.com/pistol-whip/) on [Oculus Quest 2](https://www.oculus.com/quest-2/).
+
 ## Games
 
 - [Lambda1VR](https://github.com/DrBeef/Lambda1VR) - Port of the Xash3D-FWGS Half Life Engine to Oculus Quest.

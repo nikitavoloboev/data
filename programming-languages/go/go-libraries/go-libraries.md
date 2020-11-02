@@ -130,6 +130,7 @@
 - [RamSQL](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose.
 - [goqu](https://github.com/doug-martin/goqu) - Expressive SQL builder and executor.
 - [goyesql](https://github.com/nleof/goyesql) - Go + Yesql.
+- [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - Go package to help write migrations with go-pg/pg.
 
 ## ML
 
@@ -561,6 +562,9 @@
 - [GWeb](https://github.com/life4/gweb) - Interact with browser from Go. Manually-crafted WebAPI interoperation library.
 - [govips](https://github.com/davidbyttow/govips) - Fast image processing library for Go.
 - [go-randomdata](https://github.com/Pallinder/go-randomdata) - Tiny help suite for generating random data.
+- [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
+- [Gozip](https://github.com/sanderhahn/gozip) - Create self extracting executable zip files in Go.
+- [csvutil](https://github.com/jszwec/csvutil) - Provides fast and idiomatic mapping between CSV and Go values.
 
 ## Links
 

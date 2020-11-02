@@ -81,3 +81,4 @@
 - [Histools](https://github.com/thesephist/histools) - Collection of tools for generating data visualizations from browser history data. ([Article](https://dotink.co/posts/histools/))
 - [Splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API.
 - [Re: When will browsers be complete? (2020)](https://gist.github.com/lf94/9320eb89d1b72f6649d60e6e2119fd35) ([Lobsters](https://lobste.rs/s/tjqmjy/re_when_will_browsers_be_complete))
+- [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - Web Extension starter to build "Write Once Run on Any Browser" extension.

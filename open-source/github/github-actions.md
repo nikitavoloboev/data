@@ -59,6 +59,7 @@
 - [action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [readme-scribe](https://github.com/muesli/readme-scribe) - GitHub Action that automatically generates & updates markdown content (like your readme.md).
 - [Workflow Webhook Action](https://github.com/distributhor/workflow-webhook) - GitHub workflow action to call a remote webhook endpoint with a JSON or form-urlencoded payload, and support for BASIC authentication.
+- [Image Actions](https://github.com/calibreapp/image-actions) - Automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 
 ## Go
 
@@ -153,3 +154,5 @@
 - [Create a JavaScript GitHub Action using TypeScript](https://github.com/actions/typescript-action)
 - [Docker GitHub Action Example](https://github.com/metcalfc/docker-action-examples)
 - [Tidymodels DVC Mashup (2020)](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/) - Using Github Actions and Data Version Control for ModelOps in R.
+- [GitHub Actions VS Code extension](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions) - Simple, unofficial extension to interact with GitHub Actions from within VS Code. ([Code](https://github.com/cschleiden/vscode-github-actions))
+- [Become a GitHub Actions Hero](https://github-actions-hero.now.sh/) - Small, interactive tutorial for the GitHub Actions workflow syntax with an emulated workflow parser and runner. ([Code](https://github.com/cschleiden/github-actions-hero))

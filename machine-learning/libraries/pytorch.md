@@ -160,3 +160,4 @@
 - [TRTorch](https://github.com/NVIDIA/TRTorch) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT. ([Docs](https://nvidia.github.io/TRTorch/))
 - [Mastering TorchScript: Tracing vs Scripting, Device Pinning, Direct Graph Modification (2020)](https://paulbridger.com/posts/mastering-torchscript/)
 - [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast) - Deep learning PyTorch library for time series forecasting, classification, and anomaly detection.
+- [SpykeTorch](https://github.com/miladmozafari/SpykeTorch) - High-speed simulator of convolutional spiking neural networks with at most one spike per neuron.

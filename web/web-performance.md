@@ -66,7 +66,7 @@
 - [Server-Side Rendering is a Thiel Truth (2020)](https://timr.co/server-side-rendering-is-a-thiel-truth) ([Lobsters](https://lobste.rs/s/m3oacg/server_side_rendering_is_thiel_truth)) ([HN](https://news.ycombinator.com/item?id=23016635))
 - [Lighthouse CI Diff](https://googlechrome.github.io/lighthouse-ci/viewer/)
 - [Automating Web Perf measurement with Puppeteer](https://github.com/addyosmani/puppeteer-webperf)
-- [Web Vitals](https://web.dev/vitals/) - Essential metrics for a healthy site. ([Article](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html)) ([HN](https://news.ycombinator.com/item?id=23081509)) ([Extension](https://github.com/GoogleChrome/web-vitals-extension))
+- [Web Vitals](https://web.dev/vitals/) - Essential metrics for a healthy site. ([Article](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html)) ([HN](https://news.ycombinator.com/item?id=23081509)) ([Extension](https://github.com/GoogleChrome/web-vitals-extension)) ([Code](https://github.com/GoogleChrome/web-vitals))
 - [The Cost of Javascript Frameworks (2020)](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) ([HN](https://news.ycombinator.com/item?id=23114742))
 - [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
 - [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))

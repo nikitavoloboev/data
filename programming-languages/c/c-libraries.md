@@ -37,3 +37,4 @@
 - [Criterion](https://github.com/Snaipe/Criterion) - Dead-simple, yet extensible, C and C++ unit testing framework.
 - [PortAudio](https://github.com/PortAudio/portaudio) - Cross-platform, open-source C language library for real-time audio input and output.
 - [libevent](https://github.com/libevent/libevent) - Event notification library. ([Web](https://libevent.org/))
+- [FlatCC](https://github.com/dvidelabs/flatcc) - FlatCC FlatBuffers in C for C.

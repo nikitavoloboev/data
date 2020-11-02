@@ -242,3 +242,4 @@
 - [Migrating Data When You Never Erase History (2020)](https://jorin.me/migrating-data-when-you-never-erase-history/)
 - [Thesis: Partial State in Dataflow-Based Materialized Views (2020)](https://www.youtube.com/watch?v=GctxvSPIfr8)
 - [Universal Relation Data Modelling Considered Harmful (2020)](https://www.enterprisedb.com/blog/universal-relation-data-modelling-considered-harmful) ([Lobsters](https://lobste.rs/s/xaozez/thesis_partial_state_dataflow_based))
+- [Helios: Hyperscale Indexing for the Cloud and Edge (2020)](http://www.vldb.org/pvldb/vol13/p3231-potharaju.pdf)

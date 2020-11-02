@@ -130,3 +130,5 @@
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS.
 - [fastify-micro](https://github.com/47ng/fastify-micro) - Opinionated Node.js microservices framework built on Fastify.
+- [wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.
+- [Bree](https://github.com/breejs/bree) - Best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.

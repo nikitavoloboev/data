@@ -131,3 +131,4 @@
 - [PandasGUI](https://github.com/adamerose/pandasgui) - GUI for analyzing Pandas DataFrames.
 - [Holistics](https://www.holistics.io/) - Data Modeling & Self-Service BI Platform.
 - [Numerai data science tournament](https://numer.ai/tournament)
+- [Neptune.ai](https://neptune.ai/) - Experiment tracking tool for you and your team. ([GitHub](https://github.com/neptune-ai))

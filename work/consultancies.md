@@ -28,6 +28,7 @@
 - [Exyte](https://exyte.com/) - Mobile,  Blockchain,  AR/VR development services.
 - [M Cubed Software](https://www.mcubedsw.com/)
 - [Breakpoint Studio](https://breakpointstudio.com/) - Mobile Strategy, Design, Development.
+- [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
 
 ## Node
 

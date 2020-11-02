@@ -499,6 +499,7 @@
 - [dirs-next](https://github.com/xdg-rs/dirs) - Low-level library that provides config/cache/data paths.
 - [generator-rs](https://github.com/Xudong-Huang/generator-rs) - Rust stackful generator library.
 - [image2](https://github.com/zshipko/image2-rs) - Image processing library for Rust.
+- [ZEXE](https://github.com/scipr-lab/zexe) - Rust library for decentralized private computation.
 
 ## Cargo Plugins
 

@@ -57,3 +57,4 @@
 - [duniverse](https://github.com/ocamllabs/duniverse) - Experimental vendoring system for Dune.
 - [Toy compiler for subset of OCaml written in Go](https://github.com/kkty/compiler)
 - [OCaml website code](https://github.com/ocaml/ocaml.org)
+- [Darklang: Leaving OCaml (2020)](https://blog.darklang.com/leaving-ocaml/)
