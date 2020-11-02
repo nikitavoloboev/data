@@ -82,3 +82,4 @@
 - [Splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API.
 - [Re: When will browsers be complete? (2020)](https://gist.github.com/lf94/9320eb89d1b72f6649d60e6e2119fd35) ([Lobsters](https://lobste.rs/s/tjqmjy/re_when_will_browsers_be_complete))
 - [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - Web Extension starter to build "Write Once Run on Any Browser" extension.
+- [Ask HN: How do you follow news about browsers? (2020)](https://news.ycombinator.com/item?id=24968536)

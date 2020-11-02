@@ -334,3 +334,4 @@
 - [Preferred Networks](https://preferred.jp/en/) - Develops practical applications of deep learning and other cutting-edge technologies. ([GitHub](https://github.com/pfnet))
 - [ML Art](https://mlart.co/) - Curated showcase of creative machine learning artworks and projects.
 - [Decision Making under Uncertainty course](https://web.stanford.edu/class/aa228/cgi-bin/wp/) ([Algorithms for Decision Making book](https://github.com/sisl/algorithmsbook/)) ([Concise Deep Learning Overview (2020)](https://web.stanford.edu/group/sisl/public/dm/chapter-31.pdf) ([HN](https://news.ycombinator.com/item?id=24908999)))
+- [Effective testing for machine learning systems (2020)](https://www.jeremyjordan.me/testing-ml/)

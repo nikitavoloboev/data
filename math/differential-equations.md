@@ -12,3 +12,4 @@
 - [MIT Linear Partial Differential Equations: Analysis and Numerics (2016)](https://github.com/mitmath/18303/tree/fall16)
 - [MIT Numerical Methods for Partial Differential Equations (2006)](http://math.mit.edu/~stevenj/18.336/)
 - [An intuitive look at differential forms (2020)](https://medium.com/@luca.ambrogioni/an-intuitive-look-at-differential-forms-8b405f2429f0)
+- [Learning second order coupled differential equations that are subject to non-conservative forces (2020)](https://arxiv.org/abs/2010.11270) ([HN](https://news.ycombinator.com/item?id=24968805))

@@ -36,3 +36,4 @@
 - [ProdPad](https://www.prodpad.com/) - Product Management Software.
 - [Zest](https://hellozest.io/) - Give your users an easy way to leave instant visual feedback.
 - [Secrets of the best product teams (2020)](https://st.im/secrets-of-the-best-product-teams/)
+- [Products should be “slick”, not just viable (2020)](https://herman.bearblog.dev/mvp-vs-slc/)

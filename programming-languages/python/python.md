@@ -198,3 +198,4 @@
 - [Awesome Python Code Formatters](https://github.com/life4/awesome-python-code-formatters)
 - [Austin](https://github.com/P403n1x87/austin) - Python frame stack sampler for CPython written in pure C.
 - [Pyston](https://github.com/pyston/pyston) - Performance-oriented Python implementation built using LLVM and modern JIT techniques. ([Pyston v2: 20% faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)) ([HN](https://news.ycombinator.com/item?id=24921790))
+- [The Magic of Python Context Managers (2020)](https://martinheinz.dev/blog/34)

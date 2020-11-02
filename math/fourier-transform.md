@@ -14,3 +14,4 @@
 - [The Laplace Transform: A Generalized Fourier Transform (2020)](https://www.youtube.com/watch?v=7UvtU75NXTg)
 - [New Live Fourier Transform code (2014)](https://lookingatnothing.com/index.php/archives/991) ([HN](https://news.ycombinator.com/item?id=24363271))
 - [What is a Fourier Series? (Explained by drawing circles) (2018)](https://www.youtube.com/watch?v=ds0cmAV-Yek)
+- [Quantum circuit for the fast Fourier transform (2020)](https://link.springer.com/article/10.1007/s11128-020-02776-5)

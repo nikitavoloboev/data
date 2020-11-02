@@ -41,3 +41,4 @@
 - [Empathy Prompts](https://empathyprompts.net/) - Ideas to help consider Inclusive Design principles when making things for others to use. ([Code](https://github.com/ericwbailey/empathy-prompts))
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing pal. Runs accessibility tests on your pages via the command line or Node.js, so you can automate your testing process. ([Code](https://github.com/pa11y/pa11y))
 - [Evaluatory](https://darekkay.com/evaluatory/) - Web page evaluation with a focus on accessibility. ([Code](https://github.com/darekkay/evaluatory))
+- [Bootcampers Guide to Web Accessibility](https://a11y-with-lindsey.ck.page/products/pre-order-the-bootcampers-guide-to-web)

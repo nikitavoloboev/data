@@ -84,3 +84,4 @@
 - [Portier](https://portier.github.io/) - Email-based, passwordless authentication service. ([Code](https://github.com/portier/portier.github.io))
 - [useAuth](https://github.com/Swizec/useAuth) - Simplest way to add authentication to your React app.
 - [Consent Management: What You Need to Understand (2020)](https://auth0.com/blog/what-you-need-to-understand-about-consent-management/)
+- [OAuth2: A Theatrical Introduction (2020)](https://tech.lightspeedhq.com/oauth2-a-theatrical-introduction/)
