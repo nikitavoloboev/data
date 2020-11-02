@@ -10,6 +10,7 @@
 - [kubectl flame](https://github.com/VerizonMedia/kubectl-flame) - Kubectl plugin for effortless profiling on kubernetes.
 - [kiam](https://github.com/uswitch/kiam) - Integrate AWS IAM with Kubernetes.
 - [Kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) - Kubernetes operator to sync secrets from AWS Secrets Manager. ([HN](https://news.ycombinator.com/item?id=24855569))
+- [kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin lists allocations for resources (cpu, memory, gpu,...) as defined into the manifest of nodes and running pods.
 
 ## Links
 

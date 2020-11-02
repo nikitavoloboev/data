@@ -12,3 +12,4 @@
 - [What's Wrong with Computational Notebooks? (2020)](https://www.microsoft.com/en-us/research/uploads/prod/2020/03/chi20c-sub8173-cam-i16.pdf) ([HN](https://news.ycombinator.com/item?id=24364315))
 - [Eve](http://witheve.com/) - Programming language based on years of research into building a human-first programming platform. ([Code](https://github.com/witheve/Eve))
 - [Cables](https://cables.gl/) - Tool for creating beautiful interactive content. With an easy to navigate interface and real time visuals.
+- [CS294: Building User-Centered Programming Tools (2020)](http://schasins.com/cs294-usable-programming-2020/)

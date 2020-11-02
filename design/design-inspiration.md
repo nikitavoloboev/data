@@ -58,6 +58,7 @@ Here are few more things I liked, design wise.
 - [Raycast](https://raycast.com/)
 - [Work Notes](https://worknotes.co.uk/)
 - [Logic Magazine](https://logicmag.io/)
+- [Dithering](https://dithering.fm/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
