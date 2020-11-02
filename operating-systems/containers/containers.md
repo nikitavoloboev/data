@@ -59,3 +59,4 @@
 - [AF_GRAFT](https://github.com/upa/af-graft) - Grafting sockets from containers onto host network stacks.
 - [Tracee](https://github.com/aquasecurity/tracee) - Container and system tracing using eBPF.
 - [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- [Building containers without Docker (2020)](https://blog.alexellis.io/building-containers-without-docker/) ([HN](https://news.ycombinator.com/item?id=24957887))

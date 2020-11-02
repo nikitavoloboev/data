@@ -102,3 +102,4 @@
 - [Propositions as types: some missing links (2019)](https://k-bx.github.io/articles/propositions-as-types-missing-links.html)
 - [SPRITE](https://github.com/ranjitjhala/sprite-lang) - Tutorial-style implementation of liquid/refinement types for a subset of Ocaml/Reason.
 - [Refinement Types: A Tutorial (2020)](https://arxiv.org/abs/2010.07763)
+- [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/) ([HN](https://news.ycombinator.com/item?id=24963821))

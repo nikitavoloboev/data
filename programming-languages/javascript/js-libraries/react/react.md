@@ -176,3 +176,4 @@
 - [Will this React global state work in Concurrent Mode?](https://github.com/dai-shi/will-this-react-global-state-work-in-concurrent-mode)
 - [A Semantics for the Essence of React (2020)](https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/files/cs-2020-03.pdf)
 - [React for Design](https://react.design/) - React Course for Designers. ([Code](https://github.com/philipcdavis/reactfordesign.github.io))
+- [Algebraic Effects for React Developers (2020)](https://reesew.io/posts/react-algebraic-effects) ([HN](https://news.ycombinator.com/item?id=24962842))
