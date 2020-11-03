@@ -26,3 +26,4 @@
 - [Work Notes](https://worknotes.co.uk/) - Articles, resources and community for freelancers.
 - [Freelance Guide](https://worknotes.co.uk/freelance-guide) - Helping freelancers improve their businesses.
 - [Freelance Pricing Guide](https://worknotes.co.uk/freelance-pricing-guide)
+- [Ask HN: Consultants and freelancers, how do you handle invoicing? (2020)](https://news.ycombinator.com/item?id=24972066)

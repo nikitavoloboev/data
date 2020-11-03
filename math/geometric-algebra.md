@@ -18,3 +18,4 @@
 - [Hugo Hadfield and Eric Wieser explore how Conformal Geometric Algebra can be used to simplify robot kinematics (2020)](https://www.youtube.com/watch?v=bj9JslblYPU)
 - [Comments on "Projective Geometric Algebra Done Right" (2020)](https://www.jeremyong.com/math/2020/01/24/comments-on-projective-geometric-algebra-done-right/)
 - [Symmetries in Projective Geometric Algebra (2020)](http://terathon.com/blog/symmetries-in-projective-geometric-algebra/)
+- [Projective Geometric Algebra](http://projectivegeometricalgebra.org/)
