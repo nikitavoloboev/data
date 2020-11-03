@@ -7,3 +7,4 @@
 - [What's your preferred cloud application monitoring tool? (2020)](https://www.reddit.com/r/devops/comments/ige5jr/whats_your_preferred_cloud_application_monitoring/)
 - [Dynatrace](https://www.dynatrace.com/) - Cloud Monitoring.
 - [Are we observable yet? An introduction to Rust telemetry (2020)](https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/)
+- [Suzieq](https://github.com/netenglabs/suzieq) - Framework and application for network observability. ([Docs](https://suzieq.readthedocs.io/en/latest/))

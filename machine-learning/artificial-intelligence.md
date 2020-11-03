@@ -43,3 +43,4 @@
 - [SISL (Stanford Intelligent Systems Laboratory)](http://sisl.stanford.edu/) ([GitHub](https://github.com/sisl))
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [Secondmind](https://www.secondmind.ai/) - Decisions by people, empowered by AI.
+- [Architecture For Discovering Computational Consciousness (2020)](https://matt.sh/ai-please)

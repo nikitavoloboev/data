@@ -565,6 +565,7 @@
 - [go-getter](https://github.com/hashicorp/go-getter) - Package for downloading things from a string URL using a variety of protocols.
 - [Gozip](https://github.com/sanderhahn/gozip) - Create self extracting executable zip files in Go.
 - [csvutil](https://github.com/jszwec/csvutil) - Provides fast and idiomatic mapping between CSV and Go values.
+- [go-scp](https://github.com/bramvdbogaerde/go-scp) - Makes it easy to copy files over scp in Go.
 
 ## Links
 

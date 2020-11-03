@@ -87,6 +87,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Epidemiological Modeling With Structured Cospans (2020)](https://johncarlosbaez.wordpress.com/2020/10/19/epidemiological-modeling-with-structured-cospans/)
 - [Garlandus blog](https://garlandus.co/) - Essays on some of the mathematics behind computing, from classical logic to the monads of category theory, by way of Goettingen.
 - [Logical Relations as Types: Proof-Relevant Parametricity for Program Modules (2020)](http://www.jonmsterling.com/pdfs/lrat.pdf)
+- [Category Theory Resources](https://github.com/prathyvsh/category-theory-resources)
 
 ## Images
 

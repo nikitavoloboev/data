@@ -95,3 +95,4 @@
 - [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
 - [shecc](https://github.com/jserv/shecc) - Self-hosting and educational C compiler.
 - [AMaCC](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution.
+- [How to C (as of 2016)](https://matt.sh/howto-c)

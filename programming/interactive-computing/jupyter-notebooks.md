@@ -14,6 +14,8 @@
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab.
 - [jupyterlab-cell-flash](https://github.com/jtpio/jupyterlab-cell-flash) - Show a flash effect when a notebook cell is executed.
 - [Octave kernel for Jupyter](https://github.com/Calysto/octave_kernel)
+- [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - Cookiecutter template for creating a JupyterLab extension in TypeScript with optionally a Python server extension.
+- [GitPlus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests.
 
 ## Links
 
@@ -78,3 +80,4 @@
 - [xeus-cling](https://github.com/jupyter-xeus/xeus-cling) - Jupyter kernel for C++ based on the C++ interpreter cling and the native implementation of the Jupyter protocol xeus.
 - [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for Python based on the native implementation of the Jupyter protocol xeus.
 - [Jeremy Howard: I Like Notebooks (2020)](https://www.youtube.com/watch?v=9Q6sLbz37gk) ([HN](https://news.ycombinator.com/item?id=24926214)) ([HN 2](https://news.ycombinator.com/item?id=24945671))
+- [ReviewNB](https://www.reviewnb.com/) - Visual Diff & Commenting for Jupyter Notebooks. ([GitHub](https://github.com/ReviewNB))

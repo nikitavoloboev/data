@@ -38,6 +38,8 @@
 
 ## DB
 
+- [marshmallow](https://github.com/marshmallow-code/marshmallow) - Lightweight library for converting complex objects to and from simple Python datatypes. ([Docs](https://marshmallow.readthedocs.io/en/stable/))
+- [marshmallow-dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
@@ -49,6 +51,7 @@
 
 - [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548)) ([Lobsters](https://lobste.rs/s/d7pkoi/guietta_python_module_create_simple_guis))
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.
+- [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - Simple to use (but powerful) Python GUI framework.
 
 ## Test
 
@@ -194,6 +197,7 @@
 - [swifter](https://github.com/jmcarpenter2/swifter) - Package which efficiently applies any function to a pandas dataframe or series in the fastest available manner.
 - [marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python.
 - [DAWG](https://github.com/pytries/DAWG) - DAFSA-based dictionary-like read-only objects for Python.
+- [dataclassframe](https://github.com/joshlk/dataclassframe) - Container for dataclasses with multi-indexing and bulk operations.
 
 ## Links
 

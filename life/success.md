@@ -12,6 +12,7 @@ Success comes from not giving up and doing what you love.
 - [All learning is dependent on feedback. The faster the feedback, the faster you can learn. Thus, in many domains, the individual, team, or organization with the fastest feedback cycle is the one that wins.](https://twitter.com/JamesClear/status/1084862272734937095)
 - [Explore the solution space before refining the solution. (aka 'Get the right design, then get the design right')](https://twitter.com/destraynor/status/1087398748479733760)
 - [Pessimists sound smart. Optimists make money.](https://twitter.com/patrickc/status/1263482890668503041)
+- [The single most important factor to success is the ability to make things happen. This requires determination, resourcefulness, focus, tenacity, confidence, a willingness to look like an idiot, and an ability to do the work when no one is watching.](https://twitter.com/ShaneAParrish/status/1322967152434008064)
 
 ## Links
 

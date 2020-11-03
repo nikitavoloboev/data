@@ -77,3 +77,4 @@
 - [HTML forms, Databases, Integration tests (2020)](https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/)
 - [Tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document. ([Web](http://tscanlin.github.io/tocbot/))
 - [async-htm-to-string](https://github.com/voxpelli/async-htm-to-string) - Renders a htm tagged template asyncly into a string.
+- [HTML and CSS simple tips and tricks for your website](https://thomasorus.com/html-tips.html)

@@ -8,3 +8,4 @@
 - [Systems immunology: just getting started (2017)](https://www.nature.com/articles/ni.3768)
 - [Chemogenetics and Optogenetics - Control intracellular signal transduction in living cells and organisms](https://www.sciencedirect.com/journal/journal-of-molecular-biology/special-issue/106M8R5MBLF)
 - [Immunology Is Where Intuition Goes to Die (2020)](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/) ([HN](https://news.ycombinator.com/item?id=24069662))
+- [How the Coronavirus Hacks the Immune System (2020)](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system) ([HN](https://news.ycombinator.com/item?id=24969667))

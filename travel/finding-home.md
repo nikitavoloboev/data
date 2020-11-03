@@ -24,6 +24,7 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 ## Notes
 
 - For putting the place up for rent goes through the same websites. Make nice photos, add nice description. Upload it on FB Marketplace and cross post it to all the relevant rent/sell groups. As well as post on other sites like SpareRoom for extra exposure.
+- [When choosing a living space, pick the room where light shines from two sides of the room.](https://twitter.com/david_perell/status/1322950086813429761)
 
 ## Links
 

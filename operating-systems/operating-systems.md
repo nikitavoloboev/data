@@ -10,6 +10,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [QubesOS](https://www.qubes-os.org/)
 - [Plan 9](https://9p.io/plan9/)
 - [Fuchsia](fuchsia-os.md)
+- [DahliaOS](https://dahliaos.io/) - Modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS. ([GitHub](https://github.com/dahlia-os)) ([HN](https://news.ycombinator.com/item?id=24976732))
 - [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.

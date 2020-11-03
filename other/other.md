@@ -376,3 +376,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Spotify Export](https://github.com/karlicoss/spotifyexport) - Export your personal Spotify data: playlists, saved tracks/albums/shows, etc. as JSON.
 - [Code Explorer](https://code-explorer.bypaulshen.com/) - Exploration of using space and semantics to help us read and understand code.
 - [‎ix.io](http://ix.io/) - command line pastebin.
+- [Devine's bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)

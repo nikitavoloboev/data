@@ -11,6 +11,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Anthony Fu](https://github.com/antfu) - Has nice icons.
 - [Christian Muehlhaeuser](https://github.com/muesli) - Lengthy.
 - [TJ Holowaychuk](https://github.com/tj)
+- [Ema Suriano](https://github.com/EmaSuriano) - Nice table.
 
 ## Notes
 

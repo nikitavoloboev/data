@@ -132,3 +132,4 @@
 - [fastify-micro](https://github.com/47ng/fastify-micro) - Opinionated Node.js microservices framework built on Fastify.
 - [wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.
 - [Bree](https://github.com/breejs/bree) - Best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.
+- [kevin-middleware](https://github.com/etsy/kevin-middleware) - Express middleware that makes developing javascript in a monorepo easier.

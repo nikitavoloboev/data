@@ -38,3 +38,4 @@
 - [Parsing propositional logic in 33 lines of Racket (2020)](https://micahcantor.xyz/blog/logic-racket-parser) ([HN](https://news.ycombinator.com/item?id=24764648))
 - [Racket Continuations Study Group](https://github.com/rain-1/continuations-study-group)
 - [GoLisp](https://github.com/corpix/golisp) - Racket DSL to make code-generation for Go.
+- [2048 - Racket Edition](https://github.com/danprager/racket-2048) - Clean-room, functional implementation in Racket of the game 2048.

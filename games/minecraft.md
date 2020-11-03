@@ -15,3 +15,4 @@
 - [mcview](https://github.com/kbinani/mcview) - Minecraft: top-down 2D map viewer.
 - [Minecraft Overviewer](https://github.com/overviewer/Minecraft-Overviewer) - Render high-resolution maps of a Minecraft world with a Leaflet powered interface. ([Web](https://overviewer.org/))
 - [CraftAssist](https://github.com/facebookresearch/craftassist) - Virtual assistant bot in Minecraft.
+- [Modrinth](https://modrinth.com/) - Mod distribution platform. Modern, easy to use, and built for modders. Currently supports Minecraft. ([API code](https://github.com/modrinth/labrinth))

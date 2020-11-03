@@ -58,3 +58,4 @@
 - [smartcrop](https://github.com/muesli/smartcrop) - Finds good image crops for arbitrary crop sizes.
 - [Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture (2020)](https://miglopst.github.io/files/gu_isca2020.pdf) ([HN](https://news.ycombinator.com/item?id=24905827))
 - [High throughput JPEG decoder in Verilog for FPGA](https://github.com/ultraembedded/core_jpeg)
+- [Dezoomify](https://dezoomify.ophir.dev/dezoomify/dezoomify.html) - Extracts full high-resolution images from online zoomable image interfaces. ([Code](https://github.com/lovasoa/dezoomify))

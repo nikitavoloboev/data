@@ -16,3 +16,4 @@
 - [AWS Amplify Cheat Sheet](https://twitter.com/ramonpostulart/status/1306223867652911104)
 - [Full Stack Serverless w/ Nader Dabit (2020)](https://www.youtube.com/watch?v=nzKz8kzAfbc)
 - [Build a Photo Sharing App with React and AWS Amplify](https://github.com/dabit3/amplify-photo-sharing-workshop)
+- [Building Serverless Applications with AWS Amplify (2020)](https://www.youtube.com/watch?v=egXBcNNUvDA)

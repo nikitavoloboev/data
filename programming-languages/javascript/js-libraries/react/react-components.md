@@ -124,6 +124,8 @@
 - [jsxui](https://github.com/souporserious/jsxui) - Primitive elements to build isomorphic user interfaces in React.
 - [raam](https://github.com/joe-bell/raam) - Beautifully boring cosmetic-free primitives for structure and layout. ([Web](https://raam.joebell.co.uk/))
 - [Notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other.
+- [React Hotkey Tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip) - Global Hotkey provider with built in tooltip for React.
+- [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 
 ## Links
 

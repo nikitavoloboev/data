@@ -83,3 +83,4 @@
 - [How to Build a Great Series A Pitch and Deck (2020)](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck) ([HN](https://news.ycombinator.com/item?id=24780152))
 - [How founders are finding new ways to grab investor attention (2020)](https://www.protocol.com/pitch-deck-not-yet-dead)
 - [Ulule](https://www.ulule.com/) - Crowdfunding platform empowering thousands of creators, entrepreneurs and makers all over the world.
+- [How to Pitch to Investors: Preparation & Execution](https://altar.io/how-to-pitch-to-investors/)

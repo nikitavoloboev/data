@@ -9,6 +9,7 @@
 - [Gatsby + Cosmic JS](https://github.com/DSchau/-gatsby-blog-cosmicjs-)
 - [Gatsby.js MDX Blog Starter Project](https://github.com/rwieruch/gatsby-mdx-blog-starter-project)
 - [Progression at Monzo](https://progression.monzo.com/) ([Code](https://github.com/monzo/progression-framework))
+- [Gatsby Starter: Mate](https://github.com/EmaSuriano/gatsby-starter-mate) - Accessible and fast portfolio starter for Gatsby integrated with Contentful CMS.
 
 ## Themes
 

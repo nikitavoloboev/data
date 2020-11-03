@@ -28,3 +28,5 @@
 - [AutoFPGA](https://github.com/ZipCPU/autofpga) - Utility for Composing FPGA designs from Peripherals.
 - [WB2AXIP](https://github.com/ZipCPU/wb2axip) - Bus interconnects, bridges, and other components.
 - [Gisselquist Technology](https://zipcpu.com/about/gisselquist-technology.html) - Offering services specializing in both embedded and FPGA solutions as well as digital signal processing solutions.
+- [Project Oxide](https://github.com/daveshah1/prjoxide) - Documenting Lattice's 28nm FPGA parts.
+- [FPGA Interchange](https://github.com/SymbiFlow/python-fpga-interchange) - Python interface to FPGA interchange format.

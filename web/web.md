@@ -184,3 +184,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Designing for the Web by Mark Boulton](https://designingfortheweb.co.uk/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) ([Code](https://github.com/mdn/kuma)) ([MDN Web Docs evolves! Lowdown on the upcoming new platform](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)) ([HN](https://news.ycombinator.com/item?id=24931862)) ([Content](https://github.com/mdn/content))
 - [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler. ([Web](https://parceljs.org/))
+- [Is the Internet Different? (2020)](https://stratechery.com/2020/is-the-internet-different/) ([HN](https://news.ycombinator.com/item?id=24979479))

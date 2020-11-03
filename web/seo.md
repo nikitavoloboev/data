@@ -40,3 +40,4 @@
 - [SEO mistakes I've made and how I fixed them (2020)](https://blog.maximeheckel.com/posts/seo-mistakes-i-have-made-and-how-i-fixed-them) ([HN](https://news.ycombinator.com/item?id=24766682))
 - [Understanding SEO - A Systematic Approach to Search Engine Optimization book (2020)](https://gumroad.com/l/understanding-seo/hacker-news)
 - [TypeScript playground SEO improvement (2020)](https://github.com/microsoft/TypeScript-Website/issues/130#issuecomment-712364792)
+- [Good SEO tools that aren't expensive (2020)](https://twitter.com/MicahIverson/status/1323148330910707712)

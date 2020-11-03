@@ -68,3 +68,4 @@
 - [Datadog Serverless Plugin](https://github.com/DataDog/serverless-plugin-datadog) - Serverless plugin to automagically instrument your Lambda functions with Datadog.
 - [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl))
 - [Booster](https://github.com/boostercloud/booster) - High-level framework for TypeScript to build Serverless applications with built-in business-logic-level abstractions. ([Web](https://booster.cloud/))
+- [OpenWhisk](https://github.com/apache/openwhisk) - Serverless functions platform for building cloud applications. ([Web](https://openwhisk.apache.org/))

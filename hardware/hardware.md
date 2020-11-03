@@ -125,3 +125,4 @@
 - [Curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy)
 - [Hardware-as-a-Service (2020)](https://diff.substack.com/p/hardware-as-a-service) ([HN](https://news.ycombinator.com/item?id=24943526))
 - [Is a billion-dollar worth of server lying on the ground (2020)](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground) ([HN](https://news.ycombinator.com/item?id=24966028))
+- [Lattice Semiconductor](https://www.latticesemi.com/en) - American manufacturer of high-performance programmable logic devices.

@@ -17,3 +17,4 @@
 - [GS Quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance.
 - [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 - [Cuemacro](https://www.cuemacro.com/) - On understanding macro markets from a quantitative perspective, in particular currency markets. ([GitHub](https://github.com/cuemacro))
+- [Bayesian Portfolio Optimization - A Stationary Process](http://www.stationaryprocess.com/bayesian-portfolio-optimization/#)

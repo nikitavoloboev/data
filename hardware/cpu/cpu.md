@@ -50,3 +50,4 @@
 - [LDM: My Favorite ARM Instruction (2020)](https://keleshev.com/ldm-my-favorite-arm-instruction/) ([HN](https://news.ycombinator.com/item?id=24785357))
 - [How Debuggers Work: Getting and Setting x86 Registers (2020)](https://www.moritz.systems/blog/how-debuggers-work-getting-and-setting-x86-registers-part-1/)
 - [Taiwan Semiconductor](https://www.taiwansemi.com/) - Taiwanese multinational semiconductor contract manufacturing and design company.
+- [AMD Research Instruction Based Sampling Toolkit](https://github.com/jlgreathouse/AMD_IBS_Toolkit)

@@ -67,3 +67,4 @@
 - [BioDesign Research Conference](https://www.biodesign-conference.com/index.php)
 - [Cryo–electron microscopy breaks the atomic resolution barrier at last (2020)](https://www.sciencemag.org/news/2020/10/cryo-electron-microscopy-breaks-atomic-resolution-barrier-last) ([HN](https://news.ycombinator.com/item?id=24869727))
 - [Deep Learning for Graphs in Chemistry and Biology](https://github.com/mufeili/DL4MolecularGraph)
+- [Amorphous computing](https://en.wikipedia.org/wiki/Amorphous_computing) - Refers to computational systems that use very large numbers of identical, parallel processors each having limited computational ability and local interactions.

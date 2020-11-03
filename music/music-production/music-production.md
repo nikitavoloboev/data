@@ -38,6 +38,7 @@
 - [Edyson](https://github.com/perfall/Edyson) - Tool for exploring audio quickly.
 - [AudioMass](https://audiomass.co/) - Audio Editor.
 - [Geonkick](https://github.com/iurie-sw/geonkick) - Free software percussion synthesizer for GNU/Linux.
+- [kord](https://github.com/synestematic/kord) - Music theory development framework in python.
 
 ## Inspiration
 

@@ -31,6 +31,7 @@
 - [Tower Web](https://github.com/carllerche/tower-web) - Web framework for Rust with a focus on removing boilerplate.
 - [http-types](https://github.com/http-rs/http-types) - Common types for HTTP operations.
 - [Dropshot](https://github.com/oxidecomputer/dropshot) - General-purpose crate for exposing REST APIs from a Rust program.
+- [localghost](https://github.com/mild-times/localghost) - Ergonomic Rust bindings to the Web platform.
 
 ## WASM
 
@@ -61,7 +62,7 @@
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
-- [Rusqlite](https://github.com/jgallagher/rusqlite) - Ergonomic bindings to SQLite for Rust.
+- [Rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust.
 - [Wundergraph](https://github.com/weiznich/wundergraph) - Provides a platform to easily expose your database through a GraphQL interface.
 - [bolt-rs](https://github.com/lucis-fluxum/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust.
 - [sqlparser-rs](https://github.com/ballista-compute/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust.
@@ -453,7 +454,7 @@
 - [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - Library for creating references that carry their owner with them.
 - [Nuclei](https://github.com/vertexclique/nuclei) - Proactive IO system which is runtime agnostic and can work with any runtime. ([Lobsters](https://lobste.rs/s/qzuwsl/nuclei_proactive_io_runtime_system))
 - [Autocxx](https://github.com/google/autocxx) - Tool for calling C++ from Rust in a heavily automated, but safe, fashion. ([Reddit](https://www.reddit.com/r/rust/comments/iefeum/googleautocxx_calling_c_from_rust_in_a_heavily/))
-- [Scipio](https://github.com/DataDog/scipio) - Cooperative Thread-per-Core crate for Rust & Linux based on io_uring.
+- [Scipio](https://github.com/DataDog/scipio) - Cooperative Thread-per-Core crate for Rust & Linux based on io_uring. ([Article](https://www.datadoghq.com/blog/engineering/introducing-scipio/)) ([HN](https://news.ycombinator.com/item?id=24976533))
 - [Rust command-line library](https://github.com/rust-shell-script/rust_cmd_lib) ([HN](https://news.ycombinator.com/item?id=24249646))
 - [rustcommon](https://github.com/twitter/rustcommon) - Common Twitter Rust lib.
 - [rust-dominator](https://github.com/Pauan/rust-dominator) - Zero cost declarative DOM library using FRP signals for Rust.

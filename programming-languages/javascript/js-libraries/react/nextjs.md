@@ -39,6 +39,7 @@
 - [next-unused](https://github.com/pacocoursey/next-unused) - Find unused files in your Next.js projects.
 - [next-img](https://github.com/humaans/next-img) - Next.js plugin for embedding optimized images.
 - [Next.js plugin for preact X](https://github.com/preactjs/next-plugin-preact)
+- [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered pages.
 
 ## Notes
 

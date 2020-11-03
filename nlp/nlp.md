@@ -178,3 +178,4 @@
 - [The Pile](https://github.com/EleutherAI/The-Pile) - Large, diverse, open source language modelling data set that consists of many smaller datasets combined together.
 - [Bort](https://github.com/alexa/bort) - Companion code for the paper "Optimal Subarchitecture Extraction for BERT."
 - [Vector AI](https://getvectorai.com/) - Encode And Deploy Vectors At The Edge. ([Code](https://github.com/vector-ai/vectorhub))
+- [KeyBERT](https://github.com/MaartenGr/KeyBERT/) - Minimal keyword extraction with BERT. ([Web](https://maartengr.github.io/KeyBERT/))

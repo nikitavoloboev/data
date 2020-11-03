@@ -2,6 +2,8 @@
 
 [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
 
+[CodeSandbox](https://codesandbox.io/) is a great platform for conducting live coding interviews for free.
+
 ## Notes
 
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
