@@ -58,6 +58,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Managarm](https://github.com/managarm/managarm) - Pragmatic microkernel-based OS with fully asynchronous I/O. ([Fully Asynchronous OS Based on Modern C++ - Alexander Grinten (2020)](https://github.com/managarm/managarm))
 - [EggOS](https://github.com/icexin/eggos) - Go unikernel running on x86 bare metal. ([HN](https://news.ycombinator.com/item?id=24856767))
 - [KnightOS](https://github.com/KnightOS/KnightOS) - Third-party operating system for TI calculators.
+- [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
 
 ## Notes
 

@@ -78,3 +78,4 @@
 - [Awesome learning](https://github.com/curlpipe/awesome-learning) - Teach yourself a new technology from this list.
 - [Lectures London](https://lectures.london/) - Academic lectures hosted by London universities.
 - [Opinionated Guides](https://opinionatedguide.github.io/#/) - Collection of educational un-textbooked, actually digestible pages on various topics. ([Code](https://github.com/opinionatedguide/opinionatedguide.github.io))
+- [Wikimedia](https://www.wikimedia.org/) - Global ‪movement‬ whose mission is to bring free educational content to the world. ([Phabricator](https://phabricator.wikimedia.org/))

@@ -12,9 +12,9 @@
 
 ## WM
 
-- [xmonad](http://xmonad.org/) - Tiling WM.
-- [i3](https://github.com/i3/i3) - Tiling WM.
+- [i3](https://github.com/i3/i3) - Tiling WM. [Faster than xmonad](https://twitter.com/smdiehl/status/1323935455126106114?s=21).
 - [i3-gaps](https://github.com/Airblader/i3) - Tiling window manager for X11.
+- [xmonad](http://xmonad.org/) - Tiling WM.
 - [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
 - [StumpWM](https://stumpwm.github.io/) - Tiling, keyboard driven X11 Window Manager written entirely in Common Lisp.
 

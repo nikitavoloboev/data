@@ -125,3 +125,4 @@
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/) - Curated list of resources on testing distributed systems. ([Code](https://github.com/asatarin/testing-distributed-systems))
 - [Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories (2020)](https://drkp.net/papers/pegasus-osdi20.pdf) ([Summary](https://twitter.com/danrkports/status/1322361287343525888))
 - [Notes on Paxos (2020)](https://matklad.github.io//2020/11/01/notes-on-paxos.html)
+- [This is why distributed systems are useful (and I am building one) (2020)](https://abbyssoul.github.io/engineering/2020/06/06/whys-of-distributed-system.html)

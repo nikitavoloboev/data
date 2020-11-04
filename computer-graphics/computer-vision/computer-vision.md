@@ -128,3 +128,5 @@
 - [Python Video Stabilization using OpenCV](https://github.com/AdamSpannbauer/python_video_stab)
 - [Recent Advances in Vision and Language PreTrained Models (VL-PTMs)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
 - [TorchCV](https://github.com/kuangliu/torchcv) - PyTorch vision library mimics ChainerCV.
+- [Vision Transformer in PyTorch](https://github.com/jeonsworld/ViT-pytorch)
+- [MedicalTorch](https://github.com/perone/medicaltorch) - Medical imaging framework for PyTorch. ([Docs](https://medicaltorch.readthedocs.io/en/stable/))

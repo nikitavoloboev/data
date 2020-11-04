@@ -18,7 +18,7 @@
 - [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
 - [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift.
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - Delightful networking framework for iOS, macOS, watchOS, and tvOS.
-- [Atlantis](https://github.com/ProxymanApp/atlantis) - Little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your app.
+- [Atlantis](https://github.com/ProxymanApp/atlantis) - Little and powerful iOS framework for intercepting HTTP/HTTPS Traffic from your app. ([HN](https://news.ycombinator.com/item?id=24987811))
 
 ## iOS
 

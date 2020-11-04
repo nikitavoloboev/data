@@ -155,3 +155,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [remotemoe](https://github.com/fasmide/remotemoe) - Software daemon for exposing ad-hoc services to the internet without having to deal with the regular network stuff such as configuring VPNs, changing firewalls, or adding port forwards.
 - [MOSN](https://github.com/mosn/mosn) - Cloud native proxy for edge or service mesh written in Go.
 - [File Descriptor Transfer over Unix Domain Sockets (2020)](https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec)
+- [curl](https://curl.haxx.se/) - Command line tool and library for transferring data with URLs. ([Code](https://github.com/curl/curl))

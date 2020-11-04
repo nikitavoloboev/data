@@ -38,3 +38,4 @@
 - [You Reap What You Code (2020)](https://ferd.ca/you-reap-what-you-code.html)
 - [How we use HashiCorp Nomad (2020)](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/) ([HN](https://news.ycombinator.com/item?id=23439788))
 - [Ask HN: Has anyone moved from Kubernetes to Nomad? (2020)](https://news.ycombinator.com/item?id=24865707)
+- [Qovery](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds. ([Web](https://www.qovery.com/))

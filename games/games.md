@@ -126,3 +126,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [The Making of Monkey Island (30th Anniversary Documentary) (2020)](https://www.youtube.com/watch?v=xgqEneDNQto)
 - [RetroAhoy: The Secret of Monkey Island (2018)](https://www.youtube.com/watch?v=9F9ahZQ7oP0)
 - [Path of Exile trading app for price checking](https://github.com/SnosMe/awakened-poe-trade)
+- [Games for a Plague Year (2020)](https://www.dampfkraft.com/games/games-for-a-plague-year.html)

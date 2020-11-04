@@ -64,3 +64,4 @@
 - [Waldo](https://www.waldo.io/) - Create reliable automated mobile tests with no-code testing platform.
 - [OpenFaaS Puppeteer template](https://github.com/alexellis/openfaas-puppeteer-template) - Uses docker-puppeteer by buildkite to give you access to Puppeteer.
 - [Metamorphic Testing (2019)](https://www.hillelwayne.com/post/metamorphic-testing/)
+- [Role of testing in software development life cycle (2020)](https://abbyssoul.github.io/engineering/2020/11/02/no-time-for-testing.html)

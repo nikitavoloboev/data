@@ -99,6 +99,7 @@ And these Discord servers:
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
 - [The Straight Dope](https://www.straightdope.com/)
+- [Future Crunch](https://futurecrun.ch/)
 
 ### Other
 

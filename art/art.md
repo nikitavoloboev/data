@@ -313,6 +313,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Midnight Stop](https://www.behance.net/gallery/63168473/Midnight-Stop)
 - [Todd Hido](https://www.instagram.com/toddhido_/)
 - [Baud Postma](https://www.instagram.com/baudpostma/)
+- [Richard Avedon](https://www.avedonfoundation.org/the-work)
 - [Bao Ngo's photos](https://twitter.com/coldtakesonly/status/1315838653206323200)
 
 ## Notes

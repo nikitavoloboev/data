@@ -52,3 +52,4 @@
 - [PyTorch implementation of Spectral Normalization for Generative Adversarial Networks](https://github.com/godisboy/SN-GAN)
 - [Awesome GAN Inversion papers](https://github.com/weihaox/awesome-gan-inversion)
 - [Generate High Resolution Images With Generative Variational Autoencoder](https://github.com/abhinavsagar/gvae)
+- [Simple StyleGan2 for PyTorch](https://github.com/lucidrains/stylegan2-pytorch)
