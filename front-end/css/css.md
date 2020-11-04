@@ -230,3 +230,4 @@
 - [How to make CSS Animations (2020)](https://www.imaginarycloud.com/blog/how-to-make-css-animations/)
 - [Everything I Have Done to Make CSS Wizardry Fast](https://gumroad.com/l/yrUwX/earlybird)
 - [Simple Start to CSS variables (2020)](https://kentcdodds.com/blog/super-simple-start-to-css-variables)
+- [PostCSS CSS Variables](https://github.com/MadLittleMods/postcss-css-variables) - PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation.

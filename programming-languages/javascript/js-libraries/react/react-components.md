@@ -126,6 +126,7 @@
 - [Notistack](https://github.com/iamhosseindhv/notistack) - Highly customizable notification snackbars (toasts) that can be stacked on top of each other.
 - [React Hotkey Tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip) - Global Hotkey provider with built in tooltip for React.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
+- [use-tweaks](https://github.com/pmndrs/use-tweaks) - Tweak React components with Tweakpanes.
 
 ## Links
 
