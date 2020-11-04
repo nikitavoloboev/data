@@ -29,3 +29,4 @@
 - [GBEmu](https://github.com/BlueBlazin/gbemu) - WebAssembly based Gameboy Emulator. ([Web](https://gbemu.netlify.app/))
 - [Playstation Emulation Guide: implementation of an emulator from scratch (2016)](https://svkt.org/~simias/guide.pdf)
 - [Emu68](https://github.com/michalsc/Emu68) - M68K emulation for ARM.
+- [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator. ([Web](https://yuzu-emu.org/))

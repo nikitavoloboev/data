@@ -32,3 +32,4 @@
 - [Engineering Proof by Reflection in Agda](https://github.com/toothbrush/reflection-proofs)
 - [AgdaBench](https://github.com/UlfNorell/agda-bench) - Benchmarking tool for compile-time performance of Agda programs.
 - [Unification in Agda](https://htmlpreview.github.io/?https://github.com/effectfully/unification-in-agda/blob/master/UnificationInAgda.html) ([Code](https://github.com/effectfully/unification-in-agda))
+- [Relational Algebra in Agda](https://github.com/sabauma/agda-relation-algebra)

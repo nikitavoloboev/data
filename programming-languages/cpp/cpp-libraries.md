@@ -126,6 +126,7 @@
 - [cpu_features](https://github.com/google/cpu_features) - Cross platform C99 library to get cpu features at runtime.
 - [VSTGUI](https://github.com/steinbergmedia/vstgui) - User interface toolkit mainly for audio plug-ins.
 - [libunifex](https://github.com/facebookexperimental/libunifex) - Prototype implementation of the C++ sender/receiver async programming model.
+- [random](https://github.com/effolkronium/random) - Random for modern C++ with convenient API.
 
 ## Links
 

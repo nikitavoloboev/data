@@ -117,3 +117,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Crowdsec](https://github.com/crowdsecurity/crowdsec) - Modern behavior detection system, written in Go. ([Web](https://crowdsec.net/))
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [A Researcher’s Guide to Some Legal Risks of Security Research (2020)](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)
+- [Spacehuhn Technologies](https://spacehuhn.tech/) - Open Source Hacking Tools. ([GitHub](https://github.com/SpacehuhnTech))

@@ -22,6 +22,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
 - [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
 - [telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
+- [Telegram C++](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API provides an HTTP API for creating Telegram Bots.
 
 ## Bots
 
@@ -54,3 +55,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [MTProto](https://github.com/xelaj/mtproto) - Full-native go implementation of Telegram API.
 - [Convert telegram channel to an email newsletter](https://articlius.com/home/SubscribeToTelegramChannelNewsletter)
 - [Telegram for GitHub Actions](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
+- [TDLib (Telegram Database library)](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients. It can be easily used from almost any programming language. ([Web](https://core.telegram.org/tdlib))

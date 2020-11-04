@@ -200,3 +200,4 @@
 - [Pyston](https://github.com/pyston/pyston) - Performance-oriented Python implementation built using LLVM and modern JIT techniques. ([Pyston v2: 20% faster Python](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)) ([HN](https://news.ycombinator.com/item?id=24921790))
 - [The Magic of Python Context Managers (2020)](https://martinheinz.dev/blog/34)
 - [Python for Everybody course](https://www.coursera.org/specializations/python)
+- [Caching in Python Using the LRU Cache Strategy (2020)](https://realpython.com/lru-cache-python/)

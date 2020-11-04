@@ -32,3 +32,4 @@
 - [Scientific Background: A tool for genome editing (2020)](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)
 - [Introduction to Social Science Genetics (2020)](https://silverbeach.in/courses/2020/october/social-science-genetics/)
 - [gplearn](https://github.com/trevorstephens/gplearn) - Implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.
+- [Genetic List](https://geneticlist.com/) - Browsable genetic marker lists.

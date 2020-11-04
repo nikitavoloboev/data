@@ -122,6 +122,7 @@
 - [FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS.
 - [CustomButton](https://github.com/sindresorhus/CustomButton) - Customizable button for your macOS app.
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes.
+- [FloatingFilter](https://github.com/CleanCocoa/FloatingFilter) - Display things in an app-modal floating window that users can fuzzy-filter by typing ahead.
 
 ## Web
 

@@ -33,3 +33,4 @@
 - [Mendoza](https://github.com/sanity-io/mendoza) - Differ for structured documents (JSON). ([Article](https://www.sanity.io/blog/mendoza)) ([HN](https://news.ycombinator.com/item?id=24943775))
 - [JMESPath](https://jmespath.org/) - Query language for JSON. ([go-jmespath](https://github.com/jmespath/go-jmespath))
 - [Nesting levels for JSON parsers](https://github.com/lovasoa/bad_json_parsers) - Documenting how JSON parsers of several programming languages deal with deeply nested structures.
+- [TypeBox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.

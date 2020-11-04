@@ -40,3 +40,4 @@
 - [5 Gbps Ethernet on the Raspberry Pi Compute Module 4 (2020)](https://www.jeffgeerling.com/blog/2020/5-gbps-ethernet-on-raspberry-pi-compute-module-4) ([HN](https://news.ycombinator.com/item?id=24945361))
 - [Piipcam](https://github.com/sepfy/piipcam) - 1080P IP Camera on a Raspberry Pi Zero W. ([HN](https://news.ycombinator.com/item?id=24959408))
 - [Raspberry Pi 400 Desktop PC (Computer in Keyboard) (2020)](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/) ([HN](https://news.ycombinator.com/item?id=24965614)) ([Lobsters](https://lobste.rs/s/p8e4wd/raspberry_pi_400_70_desktop_pc))
+- [Designing Raspberry Pi 400 (2020)](https://www.raspberrypi.org/blog/designing-raspberry-pi-400/) ([HN](https://news.ycombinator.com/item?id=24988681))

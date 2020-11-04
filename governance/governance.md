@@ -24,3 +24,4 @@
 - [Shuffling Public Keys (A Peer-to-peer Voting Algorithm)](http://vixra.org/pdf/1905.0239v1.pdf) ([HN](https://news.ycombinator.com/item?id=20067480))
 - [Vocdoni](https://vocdoni.io/) - Provides the necessary tools for your organization to reinvent what governance is.
 - [Emergency Site](https://emergency-site.dev/) - Template for emergency information websites.
+- [ElectionGuard](https://github.com/microsoft/electionguard) - Open source software development kit (SDK) that makes voting more secure, transparent and accessible.

@@ -146,3 +146,4 @@
 - [Nix parallelism & Import From Derivation (2020)](https://fzakaria.com/2020/10/20/nix-parallelism-import-from-derivation.html) ([Reddit](https://www.reddit.com/r/NixOS/comments/jf79zy/nix_parallelism_import_from_derivation/))
 - [macOS Nix Setup (an alternative to Homebrew) (2020)](https://wickedchicken.github.io/post/macos-nix-setup/) ([Lobsters](https://lobste.rs/s/rtluby/macos_nix_setup_alternative_homebrew))
 - [update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - Program to automatically update fetchgit values in Nix expressions.
+- [Cache install Nix packages](https://github.com/nix-actions/cache-install) - Use the GitHub Actions cache for Nix packages.

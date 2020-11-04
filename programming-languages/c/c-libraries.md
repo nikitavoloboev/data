@@ -38,3 +38,4 @@
 - [PortAudio](https://github.com/PortAudio/portaudio) - Cross-platform, open-source C language library for real-time audio input and output.
 - [libevent](https://github.com/libevent/libevent) - Event notification library. ([Web](https://libevent.org/))
 - [FlatCC](https://github.com/dvidelabs/flatcc) - FlatCC FlatBuffers in C for C.
+- [libusb](https://github.com/libusb/libusb) - Cross-platform library to access USB devices. ([Web](https://libusb.info/))

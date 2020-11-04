@@ -85,6 +85,7 @@
 
 - [npm-publish-action](https://github.com/pascalgn/npm-publish-action) - GitHub action to automatically publish packages to npm.
 - [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
+- [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
 
 ## Docker
 

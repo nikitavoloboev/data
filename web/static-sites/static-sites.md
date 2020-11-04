@@ -35,6 +35,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Blogerl](https://github.com/ferd/blogerl) - Minimalist blog engine written in Erlang. It generates only flat HTML files with an RSS entry and an index, nothing more.
 - [Abell](https://github.com/abelljs/abell) - JavaScript based static-site-generator to help you create JSON, Markdown, or static-data based websites with minimal setup. ([Web](https://abelljs.org/))
 - [Microsite](https://github.com/natemoo-re/microsite) - Tiny, opinionated SSG with automatic partial hydration.
+- [Gridsome](https://gridsome.org/) - Modern Site Generator for Vue.js. ([Code](https://github.com/gridsome/gridsome))
 
 ## Notes
 

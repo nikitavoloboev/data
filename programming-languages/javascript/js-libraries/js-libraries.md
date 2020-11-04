@@ -343,6 +343,8 @@
 - [proxy-memoize](https://github.com/dai-shi/proxy-memoize) - Intuitive magical memoization library with Proxy and WeakMap. ([Tweet](https://twitter.com/dai_shi/status/1321089602623557639))
 - [CosmJS](https://github.com/cosmos/cosmjs) - Modular library consisting of multiple packages to power web experiences.
 - [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps. ([Web](https://arwes.dev/))
+- [psl (Public Suffix List)](https://github.com/lupomontero/psl) - JavaScript domain name parser based on the Public Suffix List.
+- [invariant-packages](https://github.com/apollographql/invariant-packages) - Packages for working with invariant(condition, message) assertions.
 
 ## Links
 

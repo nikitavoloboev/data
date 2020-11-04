@@ -21,6 +21,7 @@
 - [Canvas-based arrows playground](https://github.com/steveruizok/arrows-playground)
 - [Next.js Advanced Starter](https://github.com/agcty/nextjs-advanced-starter) - Use Tailwind CSS, ESLint, Prettier & absolute imports instantly.
 - [chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js.
+- [Next FullStack Starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS + (Type-)GraphQL. Serves as nice starting point for SaaS products.
 
 ## NextJS plugins
 

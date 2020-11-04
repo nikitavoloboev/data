@@ -25,3 +25,4 @@
 - [Memory allocator showdown (2020)](https://blog.janestreet.com/memory-allocator-showdown/)
 - [Understanding memory initialization patterns](http://tasvideos.org/Nach/MemoryInit.html)
 - [Custom Allocators Demystified (2020)](https://slembcke.github.io/2020/10/12/CustomAllocators.html) ([HN](https://news.ycombinator.com/item?id=24762840))
+- [MMTk](https://github.com/mmtk/mmtk-core) - Framework for the design and implementation of memory managers. In Rust.

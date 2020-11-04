@@ -38,6 +38,6 @@ In 5 days I will send out my first newsletter. Excited. Would be curious to see 
 
 ## 27
 
-Started to build a little game using [Godot](https://godotengine.org) with my little brother and sister. It's theirs and my first game ever made. But will start small. The first task is to read through Godot docs and make a box movable with arrow keys on a 2d grid.
+Started to build a little game using [Godot](https://godotengine.org) with my little brother and sister. It's theirs and my first game ever made. Will start small. The first task is to read through Godot docs and make a box movable with arrow keys on a 2d grid.
 
 I personally want to create something like [Among Us](http://www.innersloth.com/gameAmongUs.php).
