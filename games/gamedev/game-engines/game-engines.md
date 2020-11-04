@@ -4,7 +4,7 @@
 
 - [Godot](https://github.com/godotengine/godot)
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/))
-- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283))
+- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283)) ([HN 2](https://news.ycombinator.com/item?id=24983956))
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
 - [ggez](https://github.com/ggez/ggez)

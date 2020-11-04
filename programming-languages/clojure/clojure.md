@@ -89,3 +89,4 @@
 - [Clojure graph resources](https://github.com/simongray/clj-graph-resources) - Curated list of mostly mature and/or actively developed Clojure resources for dealing with graph-like data.
 - [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) ([HN](https://news.ycombinator.com/item?id=24940838))
 - [Learning Clojure in Public](https://github.com/alaq/learning-clojure-in-public)
+- [Transducers! But can I thread?](https://telescope.ac/nobody-watching/transducers) ([Lobsters](https://lobste.rs/s/zhp280/transducers_can_i_thread))

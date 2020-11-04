@@ -84,4 +84,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Secure, Declarative Key Management with NixOps, Pass, and nix-plugins (2018)](https://elvishjerricco.github.io/2018/06/24/secure-declarative-key-management.html)
 - [nixos-install-scripts](https://github.com/nix-community/nixos-install-scripts) - Collection of one-shot scripts to install NixOS on various server hosters and other hardware.
 - [NixOS on prgmr and Failing to Learn Nix (2018)](https://push.cx/2018/nixos) ([Lobsters](https://lobste.rs/s/qpbohs/nixos_on_prgmr_failing_learn_nix_2018))
-- [Eight Months of NixOS (2020)](https://catgirl.ai/log/nixos-experience/)
+- [Eight Months of NixOS (2020)](https://catgirl.ai/log/nixos-experience/) ([Lobsters](https://lobste.rs/s/7eq5qv/eight_months_nixos))

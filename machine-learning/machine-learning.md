@@ -335,3 +335,4 @@
 - [ML Art](https://mlart.co/) - Curated showcase of creative machine learning artworks and projects.
 - [Decision Making under Uncertainty course](https://web.stanford.edu/class/aa228/cgi-bin/wp/) ([Algorithms for Decision Making book](https://github.com/sisl/algorithmsbook/)) ([Concise Deep Learning Overview (2020)](https://web.stanford.edu/group/sisl/public/dm/chapter-31.pdf) ([HN](https://news.ycombinator.com/item?id=24908999)))
 - [Effective testing for machine learning systems (2020)](https://www.jeremyjordan.me/testing-ml/)
+- [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)

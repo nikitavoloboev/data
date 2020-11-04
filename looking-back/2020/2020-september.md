@@ -28,16 +28,6 @@ Pleasantly surprised my macOS post is 31st [most favorited post on HN](https://o
 
 Came across another public company wiki, this time by [Gumroad](https://www.notion.so/Public-Wiki-72663c59ed5a432a9d52accafd8f166e). Going to improve our wiki for LA. There is a [nice thread on going async for work](https://twitter.com/shl/status/1222545212477599751) too.
 
-## 24
-
-Remembered today I once had a huge collection of songs I collected in FLAC locally. Lots of albums neatly sorted including Alt-J, Tame Impala and lots more. What is a shame is that I deleted the entire hard drive where all these songs & albums were stored as I sold the hard drive to some person. Because minimalism. 😿
-
-Extended my rules with: No Regrets. It does hurt as there were songs in there that I don't have in my Spotify collection any more and I don't think I'll ever find them again. The world of music is a big place. Feels good to write it though as it's been bugging me for 2 days now. Regret sucks.
-
-In other news, I am not writing here as much as I try to learn use Twitter more. Plus soonish the feeds of this journal & Twitter will be combined into one nice page.
-
-It's also quite interesting how obsessive I once was in collecting lossless music. I didn't even have any fancy gear to play and appreciate the lossless format. 🤦‍♂️
-
 ## 25
 
 [Every day should be a mental health day.](https://twitter.com/techgirl1908/status/1309214827030540288)
@@ -48,6 +38,6 @@ In 5 days I will send out my first newsletter. Excited. Would be curious to see 
 
 ## 27
 
-Started to work on a [little game](https://github.com/intr3st/divinity) using [Godot](https://godotengine.org) with my little brother and sister. It's theirs and my first game ever made. But will start small. The first task is to read through Godot docs and make a box movable with arrow keys on a 2d grid.
+Started to work on a little game using [Godot](https://godotengine.org) with my little brother and sister. It's theirs and my first game ever made. But will start small. The first task is to read through Godot docs and make a box movable with arrow keys on a 2d grid.
 
-I personally want to create something like Among Us.
+I personally want to create something like [Among Us](http://www.innersloth.com/gameAmongUs.php).

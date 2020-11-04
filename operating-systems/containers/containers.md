@@ -62,3 +62,5 @@
 - [Building containers without Docker (2020)](https://blog.alexellis.io/building-containers-without-docker/) ([HN](https://news.ycombinator.com/item?id=24957887))
 - [ContainerLabs](https://containerlabs.kubedaily.com/) - Learn about containers. ([Code](https://github.com/sangam14/ContainerLabs))
 - [Practical Introduction to Container Security (2020)](https://cloudberry.engineering/article/practical-introduction-container-security/)
+- [DigitalOcean Container Registry](https://www.digitalocean.com/products/container-registry/) ([HN](https://news.ycombinator.com/item?id=24982524))
+- [AWS pre-announces public container image registry (2020)](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/) ([HN](https://news.ycombinator.com/item?id=24975195))
