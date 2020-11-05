@@ -263,3 +263,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Walling](https://walling.app/) - Visual Walls to Collect Ideas & Plot out Projects.
 - [How do I work with Obsidian on Mobile? (2020)](https://forum.obsidian.md/t/how-do-i-work-with-obsidian-on-mobile/471)
 - [Introduction to the Zettelkasten Method (2020)](https://zettelkasten.de/introduction/) ([HN](https://news.ycombinator.com/item?id=24916536))
+- [How I remember everything I learn (2020)](https://dev.to/aurelio/how-i-remember-everything-i-learn-19mi)

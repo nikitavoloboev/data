@@ -4,6 +4,8 @@
 
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
 - [Every reference in Rust has a lifetime, but the compiler is usually smart enough to infer it.](https://news.ycombinator.com/item?id=24294960)
+- [Rust's key feature - the borrow-checker - relies on the idea that each value has a single "owner" at any given time. This owner can be a function, another value (a parent struct), etc. You can put these values on the heap, but if you use Box (the go-to for heap allocation), that pointer still has to have a single logical "owner". Under idiomatic Rust, each value effectively lives in one single "place". This allows the compiler to determine with 100% confidence at what point it's no longer being used and can therefore be de-allocated.](https://news.ycombinator.com/item?id=24991848)
+  - Now, these values can be lent out ("borrowing") to sub-functions and such via references (mutable or immutable). Multiple immutable references can be handed out at once, but a mutable reference to a value has to be the only reference to that value of any kind, at a given time.
 
 ## Links
 
@@ -362,3 +364,5 @@
 - [Zero To Production In Rust](https://www.zero2prod.com/) - Opinionated introduction to backend development. ([Code](https://github.com/LukeMathWalker/zero-to-production))
 - [So you want to write object oriented Rust (2020)](https://blog.darrien.dev/posts/so-you-want-to-object/)
 - [A practical guide to async in Rust (2020)](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
+- [Why Dark didn't choose Rust (2020)](https://blog.darklang.com/why-dark-didnt-choose-rust/) ([Lobsters](https://lobste.rs/s/sjclgv/why_dark_didn_t_choose_rust)) ([HN](https://news.ycombinator.com/item?id=24991848))
+- [The Fatal Flaw of Ownership Semantics (2020)](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/) ([HN](https://news.ycombinator.com/item?id=24979129))

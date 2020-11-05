@@ -195,3 +195,5 @@
 - [Paru](https://github.com/Morganamilo/paru) - AUR helper and pacman wrapper.
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines.
 - [Are we Wayland yet?](https://arewewaylandyet.com/) ([Lobsters](https://lobste.rs/s/pmqmzs/are_we_wayland_yet))
+- [The Linux Commands Handbook](https://openbootcamps.com/the-linux-commands-handbook/)
+- [Anatomy of a Binary Executable (2020)](https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/) ([HN](https://news.ycombinator.com/item?id=24994522))

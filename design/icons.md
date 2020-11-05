@@ -58,3 +58,4 @@
 - [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family for interfaces, diagrams, presentations.
 - [Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
 - [Dmitry Novikov Dribble](https://dribbble.com/Novikoff) - Does nice icons.
+- [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) ([HN](https://news.ycombinator.com/item?id=24991908))

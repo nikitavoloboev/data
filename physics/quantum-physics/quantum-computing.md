@@ -49,3 +49,4 @@
 - [Quantum Hardware: On the road to Quantum Advantage (2020)](https://www.ieee-edps.com/archives/2020/c/1.6ChristyTyberg.pdf) ([Video](https://www.ieee-edps.com/archives/2020/c/1.6ChristyTyberg.mp4))
 - [OpenQASM](https://github.com/Qiskit/openqasm) - Gate and operation specification for quantum circuits.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
+- [CERN Online introductory lectures on quantum computing (2020)](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november)

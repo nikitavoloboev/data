@@ -160,3 +160,4 @@
 - [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks. ([Web](https://briansimulator.org/))
 - [Neural Networks from Scratch in Python](https://nnfs.io/)
 - [Naszilla](https://github.com/naszilla/naszilla) - Python library for neural architecture search (NAS).
+- [The Unreasonable Syntactic Expressivity of RNNs (2020)](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
