@@ -244,3 +244,4 @@
 - [Universal Relation Data Modelling Considered Harmful (2020)](https://www.enterprisedb.com/blog/universal-relation-data-modelling-considered-harmful) ([Lobsters](https://lobste.rs/s/xaozez/thesis_partial_state_dataflow_based))
 - [Helios: Hyperscale Indexing for the Cloud and Edge (2020)](http://www.vldb.org/pvldb/vol13/p3231-potharaju.pdf)
 - [The World’s Best In-Memory Database (2020)](https://matt.sh/best-database-ever)
+- [Anonymized Cache Request Traces from Twitter Production](https://github.com/twitter/cache-trace) - Describes the traces from Twitter's in-memory caching (Twemcache/Pelikan) clusters.

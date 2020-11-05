@@ -34,6 +34,7 @@
 - [gatsby-plugin-prettier-build](https://github.com/jmsv/gatsby-plugin-prettier-build) - Prettify gatsby build output.
 - [gatsby-source-airtable](https://github.com/jbolda/gatsby-source-airtable) - Gatsby source plugin for sourcing data into your Gatsby application from your Airtable base tables.
 - [gatsby-remark-twitter-cards](https://github.com/alessbell/gatsby-remark-twitter-cards) - Gatsby remark plugin for generating Twitter card graphics.
+- [gatsby-plugin-s3](https://github.com/jariz/gatsby-plugin-s3) - Deploy your gatsby site to a S3 bucket.
 
 ## Links
 
