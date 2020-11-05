@@ -108,6 +108,7 @@
 - [MeasureTheory](https://github.com/cscherrer/MeasureTheory.jl) - Package for building and reasoning about measures.
 - [Restructured BNF](https://github.com/thautwarm/RBNF.jl) - Aims at the generating parsers without requiring redundant coding from programmers.
 - [GeneralizedGenerated](https://github.com/JuliaStaging/GeneralizedGenerated.jl) - Enables the generalized generated functions. Specifically, it supports closure constructions in generated functions.
+- [DiffEqBase.jl](https://github.com/SciML/DiffEqBase.jl) - Lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems.
 
 ## Links
 

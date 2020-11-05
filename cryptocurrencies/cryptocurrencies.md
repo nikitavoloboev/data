@@ -10,6 +10,7 @@
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices.
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
 - [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency.
+- [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
 
 ## Links
 

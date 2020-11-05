@@ -73,3 +73,4 @@
 - [An Honest Review of Gatsby (2020)](https://cra.mr/an-honest-review-of-gatsby/) ([HN](https://news.ycombinator.com/item?id=24670252))
 - [Gatsby vs. Next.js (2020)](https://jaredpalmer.com/gatsby-vs-nextjs)
 - [Gatsby Use Cases](https://www.gatsbyjs.com/use-cases/)
+- [We developed a font loader plugin for Gatsby (2020)](https://blog.prototyp.digital/we-developed-a-font-loader-plugin-for-gatsby/)

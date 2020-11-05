@@ -49,3 +49,4 @@
 - [What Happened to XPath? (2020)](https://webreflection.medium.com/what-happened-to-xpath-1409aa3dbd57) ([HN](https://news.ycombinator.com/item?id=24940676))
 - [ScrapingHub](https://www.scrapinghub.com/) - Turn web content into useful data. ([GitHub](https://github.com/scrapinghub))
 - [extruct](https://github.com/scrapinghub/extruct) - Library for extracting embedded metadata from HTML markup.
+- [Introduction to Scraping in Python (2020)](https://itnext.io/introduction-to-scraping-in-python-with-beautifulsoup-and-requests-ab7b1c9bc113)

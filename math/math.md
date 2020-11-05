@@ -207,3 +207,4 @@
 - [Theta](http://thetamath.com/) - Web app that graphs an equation and allows you to pan and zoom around the coordinate grid. ([Code](https://github.com/evanw/theta))
 - [Algebraic Stacks Project](https://stacks.math.columbia.edu/) - Collaborative web-based project writing a text book on algebraic stacks and the algebraic geometry that is needed to define them. ([Code](https://github.com/stacks/stacks-project))
 - [Why is there no equation for the perimeter of an ellipse‽ (2020)](https://www.youtube.com/watch?v=5nW3nJhBHL0)
+- [Open textbooks approved by the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)

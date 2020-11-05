@@ -18,3 +18,4 @@
 - [Kotlin Roadmap](https://kotlinlang.org/roadmap.html)
 - [For Complex Applications, Rust is as Productive as Kotlin (2020)](https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/)
 - [Kotlin Multiplatform at Netflix (2020)](https://medium.com/@NetflixTechBlog/netflix-android-and-ios-studio-apps-kotlin-multiplatform-d6d4d8d25d23) ([Lobsters](https://lobste.rs/s/hqwavk/for_complex_applications_rust_is_as)) ([HN](https://news.ycombinator.com/item?id=24958392))
+- [JetBrains Compose](https://www.jetbrains.com/lp/compose/) - Fast reactive desktop UIs for Kotlin, based on Google's modern toolkit and brought to you by JetBrains. ([Code](https://github.com/jetbrains/compose-jb)) ([HN](https://news.ycombinator.com/item?id=24997226))

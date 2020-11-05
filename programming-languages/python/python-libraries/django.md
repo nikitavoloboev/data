@@ -52,3 +52,5 @@
 - [Understand Group by in Django with SQL (2020)](https://hakibenita.com/django-group-by-sql)
 - [Running Django + React service by Cloud Run (2020)](http://djkooks.github.io/gcp-django-deploy-cloudrun)
 - [Django Doctor](https://django.doctor/) - Django GitHub PR bot that suggest the fix.
+- [Django’s Structure – A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/)
+- [Django Book](https://djangobook.com/) - Python Django Tutorials.

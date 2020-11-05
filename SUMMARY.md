@@ -825,6 +825,7 @@
   - [Puzzles](other/puzzles.md)
   - [Woodworking](other/woodworking.md)
   - [Gardening](other/gardening.md)
+  - [Real Estate](other/real-estate.md)
   - [Newsletters](other/newsletters.md)
   - [Used hotkeys](other/used-hotkeys.md)
   - [Mentions](other/mentions.md)

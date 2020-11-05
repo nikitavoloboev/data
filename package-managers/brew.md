@@ -20,3 +20,4 @@
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - Core formulae for the Homebrew package manager on Linux.
 - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
 - [Update Homebrew Formula](https://github.com/NSHipster/update-homebrew-formula-action) - GitHub Action that synchronizes a Homebrew formula with a GitHub release.
+- [Homebrew Formulae](https://formulae.brew.sh/) - Online package browser for Homebrew. ([Code](https://github.com/Homebrew/formulae.brew.sh))

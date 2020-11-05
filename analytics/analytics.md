@@ -55,3 +55,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [Frovedis](https://github.com/frovedis/frovedis) - Framework of vectorized and distributed data analytics.
 - [AWS Web Analytics](https://github.com/goatandsheep/aws-web-analytics) - Privacy-focused alternative to Google Analytics on AWS Pinpoint.
+- [Microsoft Clarity](https://clarity.microsoft.com/) - Analytics for Websites.

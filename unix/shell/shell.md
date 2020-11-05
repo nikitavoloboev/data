@@ -88,3 +88,4 @@ All active variables can be seen by running `env`.
 - [awk: BEGIN { (2020)](https://jemma.dev/blog/awk-part-1) ([HN](https://news.ycombinator.com/item?id=24940661)) ([Lobsters](https://lobste.rs/s/ntxpzv/awk_begin))
 - [Pretty CSV viewing on the Command Line (2016)](https://www.stefaanlippens.net/pretty-csv.html) ([Lobsters](https://lobste.rs/s/zvallq/pretty_csv_viewing_on_command_line))
 - [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers. ([Code](https://github.com/k4m4/terminals-are-sexy))
+- [eDEX-UI](https://github.com/GitSquared/edex-ui) - Fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.

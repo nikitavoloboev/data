@@ -176,6 +176,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michael Kozlowski](https://www.instagram.com/mpkoz/)
 - [Alice Zhang](https://www.instagram.com/alicexz/)
 - [Marko Dieckmann](https://www.instagram.com/ionlands/)
+- [Weilard](https://www.deviantart.com/weilard)
 - [Nick Archer](https://www.instagram.com/archer.nick/)
 - [Ian Spriggs](https://ianspriggs.com/) - 3D Portrait Character Artist.
 - [Charles van den Eycken](https://www.invaluable.com/artist/eycken-charles-van-den-1859-0l00jbqpg4/sold-at-auction-prices/) ([Tweet](https://twitter.com/CGdrawing/status/1276403951135453184))

@@ -227,3 +227,5 @@
 - [Understanding Modules, Import and Export in JavaScript (2020)](https://www.taniarascia.com/javascript-modules-import-export/)
 - [Intent to stop using 'null' in my JS code](https://github.com/sindresorhus/meta/issues/7) ([HN](https://news.ycombinator.com/item?id=24956156))
 - [What Makes JavaScript JavaScript? Prototypal Inheritance (2020)](https://dmitripavlutin.com/javascript-prototypal-inheritance/)
+- [ni](https://github.com/antfu/ni) - Use the right package manager. Detect whether to use npm/yarn/pnpm.
+- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/?ref=hackernews)

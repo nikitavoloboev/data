@@ -12,3 +12,6 @@
 - [Moonbeam](https://moonbeam.network/) - Polkadot Smart Contract Platform. ([Code](https://github.com/PureStake/moonbeam))
 - [Substrate Archive](https://github.com/paritytech/substrate-archive) - Blockchain Indexing Engine. Run alongside a substrate-backed chain to index all Blocks, State, and Extrinsic data into PostgreSQL.
 - [De[code] Sub[strate]](https://github.com/paritytech/desub) - Decode Substrate with Backwards-Compatible Metadata.
+- [Parity](https://www.parity.io/) - Blockchain Infrastructure for the Decentralised Web. ([GitHub](https://github.com/paritytech))
+- [Parity Zcash client](https://github.com/paritytech/parity-zcash)
+- [Parity Bitcoin client](https://github.com/paritytech/parity-bitcoin)

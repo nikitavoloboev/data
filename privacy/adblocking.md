@@ -16,3 +16,4 @@
 - [HN: uMatrix has been archived (2020)](https://news.ycombinator.com/item?id=24532973)
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Web browser extension to help bypass paywalls for selected sites.
 - [Stuff Your Pi-Hole from Anywhere (2020)](https://fly.io/blog/stuff-your-pi-hole-from-anywhere/) ([HN](https://news.ycombinator.com/item?id=24767792))
+- [How to Setup Pi-hole on a Local Computer without Raspberry Pi (2020)](https://pawelurbanek.com/pihole-local-computer)

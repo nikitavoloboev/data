@@ -90,3 +90,4 @@
 - [Naming Tokens in Design Systems. Terms, Types, and Taxonomy to Describe (2020)](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 - [storybook-addon-designs](https://github.com/pocka/storybook-addon-designs) - Storybook addon that embed Figma, websites, PDF or images in the addon panel.
 - [UI Guideline - Component Standardization](https://www.uiguideline.com/components) - Definitive guide to standardize the design/code of UI Components.
+- [Design Systems Figma (2020)](https://designsystemsforfigma.com/blog/design-to-engineering-handoff)

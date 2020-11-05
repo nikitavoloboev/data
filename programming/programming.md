@@ -78,7 +78,7 @@
 - [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary)
 - [HowProgrammingWorks courses (Russian)](https://github.com/HowProgrammingWorks/Index)
 - [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ([Code](https://github.com/olivierlacan/keep-a-changelog))
-- [Teach Yourself Programming in Ten Years (2014)](http://norvig.com/21-days.html)
+- [Teach Yourself Programming in Ten Years (2014)](https://norvig.com/21-days.html)
 - [Rich Hickey on becoming a better developer](https://gist.github.com/prakhar1989/1b0a2c9849b2e1e912fb)
 - [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
 - [Abstractions (2019)](https://giuseppegurgone.com/abstractions/)
@@ -271,3 +271,5 @@
 - [Discipline Doesn’t Scale (2020)](https://www.sicpers.info/2020/10/discipline-doesnt-scale/) ([HN](https://news.ycombinator.com/item?id=24834965))
 - [Interfaces generally belong with users (2019)](http://neugierig.org/software/blog/2019/11/interface-pattern.html)
 - [Foundations of Software Engineering course (2020)](https://cmu-313.github.io/) ([HN](https://news.ycombinator.com/item?id=24949322))
+- [The Self-Improving Developer book](https://selfimproving.dev/)
+- [All About Code Review](https://github.com/mgreiler/all-about-code-review) - Curated collection of articles, tools, checklists and other awesome resources about code reviews.

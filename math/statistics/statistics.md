@@ -67,3 +67,4 @@
 - [The Unreasonable Effectiveness of Quasirandom Sequences (2020)](http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)
 - [Think in Log Probabilities (2013)](https://moultano.wordpress.com/2013/08/09/logs-tails-long-tails/) ([HN](https://news.ycombinator.com/item?id=24862507))
 - [How to Price an Election: A Martingale Approach (2020)](https://www.youtube.com/watch?v=YRvPF__du9w)
+- [Bayes’ Theorem](https://selfimproving.dev/bayes-theorem.html)

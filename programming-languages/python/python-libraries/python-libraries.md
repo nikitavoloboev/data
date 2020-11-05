@@ -198,6 +198,7 @@
 - [marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python.
 - [DAWG](https://github.com/pytries/DAWG) - DAFSA-based dictionary-like read-only objects for Python.
 - [dataclassframe](https://github.com/joshlk/dataclassframe) - Container for dataclasses with multi-indexing and bulk operations.
+- [klio](https://github.com/spotify/klio) - Smarter data pipelines for audio. ([Docs](https://docs.klio.io/en/latest/))
 
 ## Links
 

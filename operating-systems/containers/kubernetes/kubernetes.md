@@ -244,3 +244,4 @@
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [Gardener](https://github.com/gardener/gardener) - Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service. ([Web](https://gardener.cloud/))
 - [kraan](https://github.com/fidelity/kraan) - Building platforms on top of K8s. Helps you deploy and manage 'layers' on top of kubernetes.
+- [Certified Kubernetes Security Specialist resources](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)

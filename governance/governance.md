@@ -11,6 +11,7 @@
   - Stronger and more powerful organizations.
   - Tools like smart contracts that allow interactions with reduced levels of trust.
   - Governance technologies (voting, shares, decision markets...)
+- [If there is a blockchain based mobile voting App (with proper KYC of course), we won't have to wait for results, or have any questions on its validity. Privacy can be protected using a number of encryption mechanisms.](https://twitter.com/VitalikButerin/status/1324179944558059522)
 
 ## Links
 
@@ -25,3 +26,4 @@
 - [Vocdoni](https://vocdoni.io/) - Provides the necessary tools for your organization to reinvent what governance is.
 - [Emergency Site](https://emergency-site.dev/) - Template for emergency information websites.
 - [ElectionGuard](https://github.com/microsoft/electionguard) - Open source software development kit (SDK) that makes voting more secure, transparent and accessible.
+- [Ask HN: How would you design an secure online voting system? (2020)](https://news.ycombinator.com/item?id=24994514)

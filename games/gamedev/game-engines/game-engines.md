@@ -48,6 +48,7 @@
 - [Excalibur](https://github.com/excaliburjs/Excalibur) - Simple 2D HTML5 game engine written in TypeScript.
 - [pygame](https://github.com/pygame/pygame) - Free and Open Source cross-platform library for the development of multimedia applications like video games on Python. ([Web](https://www.pygame.org/news)) ([HN](https://news.ycombinator.com/item?id=24930615))
 - [GtkRadiant](https://github.com/TTimo/GtkRadiant) - Open-source, cross-platform level editor for id Tech based games. It comes with some map compilers and data authoring tools.
+- [Rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance. In Rust. ([Web](https://rapier.rs/))
 
 ## Physics engines
 

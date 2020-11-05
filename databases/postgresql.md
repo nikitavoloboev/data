@@ -161,3 +161,4 @@
 - [Building a recommendation engine inside Postgres with Python and Pandas (2020)](https://info.crunchydata.com/blog/recommendation_engine_in_postgres_with_pandas_and_python)
 - [Protocol Buffer extension for PostgreSQL](https://github.com/mpartel/postgres-protobuf)
 - [Getting Started With Postgres 13 on Ubuntu 20.04 (2020)](https://pgdash.io/blog/postgres-13-getting-started.html?h)
+- [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Plugin for prettier to support formatting of PostgreSQL-flavour SQL.

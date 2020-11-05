@@ -47,3 +47,4 @@
 - [Esplora](https://github.com/Blockstream/electrs) - Block chain index engine and HTTP API written in Rust based on romanz/electrs.
 - [What Bitcoin’s White Paper Got Right, Wrong and What We Still Don’t Know (2018)](https://www.coindesk.com/what-bitcoins-white-paper-got-right-wrong-and-what-we-still-dont-know) ([HN](https://news.ycombinator.com/item?id=24951616))
 - [Bitbo](https://bitbo.io/) - Real-Time Bitcoin Dashboard.
+- [Bitcoin at 12 (2020)](https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb)

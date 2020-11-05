@@ -10,3 +10,4 @@ Don't use it any more as I don't write Java and love VS Code.
 ## Links
 
 - [Alabaster IDEA Color Scheme](https://github.com/tonsky/intellij-alabaster) - Simple white theme.
+- [Switching from Vim to Intellij (2020)](https://browntreelabs.com/from-vim-to-intellij/) ([HN](https://news.ycombinator.com/item?id=24998260))

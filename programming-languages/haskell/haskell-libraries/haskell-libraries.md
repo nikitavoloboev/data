@@ -19,6 +19,7 @@
 ## Test
 
 - [QuickCheck](https://github.com/nick8325/quickcheck) - Library for random testing of program properties.
+- [Validity](https://github.com/NorfairKing/validity) - Validity and validity-based testing.
 
 ## Other
 
@@ -64,6 +65,7 @@
 - [Path](https://github.com/commercialhaskell/path) - Support for well-typed paths in Haskell.
 - [Yaya](https://github.com/sellout/yaya) - Yet another yet another recursion scheme library in Haskell.
 - [Happy](https://github.com/simonmar/happy) - Parser generator for Haskell.
+- [massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation.
 
 ## Links
 

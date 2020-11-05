@@ -159,6 +159,7 @@
 
 ## Crypto
 
+- [Go Cryptography](https://github.com/golang/crypto) - Go supplementary cryptography libraries.
 - [ristretto255](https://github.com/gtank/ristretto255) - Implements ristretto255, a fast prime-order group.
 - [Secure IO](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
 
@@ -566,6 +567,7 @@
 - [Gozip](https://github.com/sanderhahn/gozip) - Create self extracting executable zip files in Go.
 - [csvutil](https://github.com/jszwec/csvutil) - Provides fast and idiomatic mapping between CSV and Go values.
 - [go-scp](https://github.com/bramvdbogaerde/go-scp) - Makes it easy to copy files over scp in Go.
+- [Go Sync](https://github.com/golang/sync) - Provides Go concurrency primitives in addition to the ones provided by the language and "sync" and "sync/atomic" packages.
 
 ## Links
 

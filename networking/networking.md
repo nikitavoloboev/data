@@ -156,3 +156,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [MOSN](https://github.com/mosn/mosn) - Cloud native proxy for edge or service mesh written in Go.
 - [File Descriptor Transfer over Unix Domain Sockets (2020)](https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec)
 - [curl](https://curl.haxx.se/) - Command line tool and library for transferring data with URLs. ([Code](https://github.com/curl/curl))
+- [IPv6 Is a Nightmare (2020)](https://teknikaldomain.me/post/ipv6-is-a-total-nightmare/) ([HN](https://news.ycombinator.com/item?id=24994587))
