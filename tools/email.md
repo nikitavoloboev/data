@@ -103,3 +103,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Mimestream](https://mimestream.com/) - Native macOS email client for Gmail. ([HN](https://news.ycombinator.com/item?id=24422432))
 - [Building a functional email server (2020)](https://signalsandthreads.com/building-a-functional-email-server/)
 - [Backing up e-mails from an IMAP server (2020)](https://www.artemix.org/blog/backing-up-e-mails-from-an-imap-server) ([Lobsters](https://lobste.rs/s/lwf7sw/backing_up_e_mails_from_imap_server))
+- [A Brief Introduction to Deniability (2020)](https://soatok.blog/2020/11/04/a-brief-introduction-to-deniability/)

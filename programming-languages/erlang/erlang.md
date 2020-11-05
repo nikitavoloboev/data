@@ -56,4 +56,4 @@
 - [The BEAM marches forward (2020)](https://underjord.io/the-beam-marches-forward.html)
 - [LFE](https://github.com/rvirding/lfe) - Lisp Flavoured Erlang. Lisp for those who want to build distributed applications. ([Web](https://lfe.io/))
 - [Erlang Ecosystem Foundation](http://www.erlef.org/) - Supporting the BEAM community.
-- [Erlang: A first look at the JIT (2020)](https://blog.erlang.org/a-first-look-at-the-jit/) ([HN](https://news.ycombinator.com/item?id=24989682))
+- [Erlang: A first look at the JIT (2020)](https://blog.erlang.org/a-first-look-at-the-jit/) ([HN](https://news.ycombinator.com/item?id=24989682)) ([Lobsters](https://lobste.rs/s/pb2vis/erlang_first_look_at_jit))

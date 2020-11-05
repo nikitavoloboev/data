@@ -43,3 +43,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Search and replace tricks with ripgrep (2020)](https://learnbyexample.github.io/substitution-with-ripgrep/) ([Lobsters](https://lobste.rs/s/tn4olb/search_replace_tricks_with_ripgrep))
 - [What are your favorite non-standard CLI utils/applications (2020)](https://lobste.rs/s/eprvjp/what_are_your_favorite_non_standard_cli)
 - [cheat.sh](https://github.com/chubin/cheat.sh) - Unified access to the best community driven cheat sheets. Available via CLI. ([Web](https://cheat.sh/))
+- [My growing list of Rust programs to use](https://gist.github.com/Phate6660/76779693f654d48c5c410be658c53f02) ([Lobsters](https://lobste.rs/s/ltd2be/my_growing_list_rust_programs_use))

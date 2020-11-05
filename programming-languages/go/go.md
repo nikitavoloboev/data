@@ -371,3 +371,4 @@ Go promotes composition over inheritance.
 - [Go Wasm](https://go-wasm.johnstarich.com/) - In-browser IDE for Go using WebAssembly. ([Code](https://github.com/JohnStarich/go-wasm))
 - [Hash Tables Implementation in Go. The inner implementation. (2020)](https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553)
 - [GopherLabs](https://gopherlabs.kubedaily.com/) - Ultimate Workshop Track for Go Developer. ([Code](https://github.com/sangam14/GopherLabs))
+- [Three Months of Go (from a Haskeller's perspective) (2016)](https://memo.barrucadu.co.uk/three-months-of-go.html) ([Lobsters](https://lobste.rs/s/zoi8gx/three_months_go_from_haskeller_s))
