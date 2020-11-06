@@ -3,6 +3,7 @@
 ## DB
 
 - [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
+- [Mammoth](https://github.com/Ff00ff/mammoth) - Type-safe Postgres query builder for TypeScript.
 
 ## Other
 

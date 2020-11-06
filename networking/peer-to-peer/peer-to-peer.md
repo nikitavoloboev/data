@@ -59,3 +59,4 @@
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p) - Rust Implementation of libp2p networking stack.
 - [Publish a Local Webserver using P2P network (2020)](https://support.diode.io/article/ss32engxlq)
 - [Toronto Mesh](https://tomesh.net/) - Help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy. ([GitHub](https://github.com/tomeshnet))
+- [Intro to P2P Indexing and Search](https://github.com/hypercore-protocol/p2p-indexing-and-search)

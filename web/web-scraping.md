@@ -50,3 +50,4 @@
 - [ScrapingHub](https://www.scrapinghub.com/) - Turn web content into useful data. ([GitHub](https://github.com/scrapinghub))
 - [extruct](https://github.com/scrapinghub/extruct) - Library for extracting embedded metadata from HTML markup.
 - [Introduction to Scraping in Python (2020)](https://itnext.io/introduction-to-scraping-in-python-with-beautifulsoup-and-requests-ab7b1c9bc113)
+- [Test driving a HackerNews scraper with Node.js (2020)](https://cri.dev/posts/2020-11-06-Test-driving-a-HackerNews-scraper-with-Nodejs/)

@@ -45,6 +45,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Titillium Web Variable Fonts](https://github.com/eliheuer/titillium-web-vf)
 - [Bungee](https://github.com/djrrb/Bungee) - Chromatic signage typeface for vertical and horizontal setting. ([Web](https://djr.com/bungee/))
 - [Quicksand](https://fonts.google.com/specimen/Quicksand)
+- [Bitmap fonts for humans](https://github.com/robhagemans/hoard-of-bitfonts)
 
 ## Links
 

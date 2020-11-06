@@ -21,6 +21,10 @@
 - [Ueno Careers](https://ueno.co/careers/)
 - [Apple Jobs](https://www.apple.com/jobs/us/)
 
+## Questions to ask
+
+- [Describe a few of the hardest problems you solved & exactly how you solved them.](https://twitter.com/elonmusk/status/1324736076800577537)
+
 ## Notes
 
 - [We’ve made an incredible innovation in hiring: Pay someone to do the work they would be doing if they get the job. If they are able to do it, they get the job.](https://twitter.com/shl/status/1260196779905052678)

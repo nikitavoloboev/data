@@ -78,3 +78,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux In Web Workers: Off-Main-Thread Redux Reducers and Middleware (2020)](https://blog.axlight.com/posts/redux-in-worker-off-main-thread-redux-reducers-and-middleware/)
 - [Refactoring a Redux app to use Recoil (2020)](https://blog.logrocket.com/refactoring-redux-app-to-use-recoil/)
 - [Repluggable](https://github.com/wix/repluggable) - Pluggable micro frontends in React+Redux apps.
+- [Redux is half of a pattern (2020)](https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7)

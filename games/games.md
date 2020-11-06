@@ -65,6 +65,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Various browser games](https://crypto.stanford.edu/~blynn/play/)
 - [Seeds Game](https://www.seedsgame.com/) - Collect seeds, save the world. ([Code](https://github.com/andrewMacmurray/seeds-game))
 - [Doom 3](https://github.com/TTimo/doom3.gpl)
+- [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) - In Lua. 2.5D perspective view.
 
 ## Awesome games (other)
 
