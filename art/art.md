@@ -84,6 +84,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
 - [Katherine Lam](https://www.behance.net/katherinelam)
 - [Guy Warley](https://www.guywarley.com/)
+- [Zaira Zarotti](https://www.instagram.com/thefreakytable/)
 - [Danila Tkachenko](http://www.danilatkachenko.com/)
 - [Sebastien Larroude](https://rainart.artstation.com/)
 - [Kim Coga](https://www.instagram.com/kimcogan/)

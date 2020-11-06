@@ -9,6 +9,7 @@
 - [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux))
 - [Liquorix](https://liquorix.net/) - Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. ([Why use it](https://github.com/zen-kernel/zen-kernel/issues/30#issuecomment-647045343))
 - [NixOS](nixos.md)
+- [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.
 
 ## WM
 
@@ -198,3 +199,6 @@
 - [The Linux Commands Handbook](https://openbootcamps.com/the-linux-commands-handbook/) ([HN](https://news.ycombinator.com/item?id=24995352))
 - [Anatomy of a Binary Executable (2020)](https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/) ([HN](https://news.ycombinator.com/item?id=24994522))
 - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)
+- [What is eBPF? | How eBPF works (2020)](https://gravitational.com/blog/what-is-ebpf/)
+- [Life and Death of a Linux Process (2020)](https://natanyellin.com/posts/life-and-death-of-a-linux-process/) ([HN](https://news.ycombinator.com/item?id=25001350))
+- [A Linux sysadmin's introduction to cgroups (2020)](https://www.redhat.com/sysadmin/cgroups-part-one) ([HN](https://news.ycombinator.com/item?id=25008941))

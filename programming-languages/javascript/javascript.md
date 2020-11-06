@@ -229,3 +229,4 @@
 - [What Makes JavaScript JavaScript? Prototypal Inheritance (2020)](https://dmitripavlutin.com/javascript-prototypal-inheritance/)
 - [ni](https://github.com/antfu/ni) - Use the right package manager. Detect whether to use npm/yarn/pnpm.
 - [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/?ref=hackernews)
+- [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)

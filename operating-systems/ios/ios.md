@@ -250,3 +250,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Thoughts on the App Store from developer of AltStore (2020)](http://rileytestut.com/blog/2020/10/14/thoughts-on-app-store/)
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) - Community additions to Apple's Human Interface Guidelines.
 - [Building a Realtime Widget (2020)](https://nathantornquist.com/blog/2020/10/building-a-realtime-widget/)
+- [KTRW](https://github.com/googleprojectzero/ktrw) - iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro.

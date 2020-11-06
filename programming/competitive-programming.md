@@ -18,3 +18,4 @@
 - [How to crack HashCode competition with some engineering skills (2020)](https://danlark.org/2020/03/13/how-to-crack-hashcode-competition-with-some-engineering-skills/)
 - [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 - [Online Judge Solutions in C++](https://github.com/marioyc/Online-Judge-Solutions)
+- [Competitive Programming Solutions in C++](https://github.com/VastoLorde95/Competitive-Programming)

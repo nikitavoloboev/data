@@ -131,6 +131,7 @@
 - [goqu](https://github.com/doug-martin/goqu) - Expressive SQL builder and executor.
 - [goyesql](https://github.com/nleof/goyesql) - Go + Yesql.
 - [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - Go package to help write migrations with go-pg/pg.
+- [gosql](https://github.com/eatonphil/gosql) - Early PostgreSQL implementation in Go.
 
 ## ML
 
@@ -568,6 +569,9 @@
 - [csvutil](https://github.com/jszwec/csvutil) - Provides fast and idiomatic mapping between CSV and Go values.
 - [go-scp](https://github.com/bramvdbogaerde/go-scp) - Makes it easy to copy files over scp in Go.
 - [Go Sync](https://github.com/golang/sync) - Provides Go concurrency primitives in addition to the ones provided by the language and "sync" and "sync/atomic" packages.
+- [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
+- [stateful](https://github.com/bykof/stateful) - Finite state machine for Go.
+- [logfmt](https://github.com/go-logfmt/logfmt) - Marshals and unmarshals logfmt messages.
 
 ## Links
 

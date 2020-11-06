@@ -52,6 +52,7 @@
 - [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548)) ([Lobsters](https://lobste.rs/s/d7pkoi/guietta_python_module_create_simple_guis))
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - Simple to use (but powerful) Python GUI framework. ([HN](https://news.ycombinator.com/item?id=24986908))
+- [wxPython Phoenix](https://github.com/wxWidgets/Phoenix) - Cross-Platform GUI Library.
 
 ## Test
 
@@ -199,6 +200,9 @@
 - [DAWG](https://github.com/pytries/DAWG) - DAFSA-based dictionary-like read-only objects for Python.
 - [dataclassframe](https://github.com/joshlk/dataclassframe) - Container for dataclasses with multi-indexing and bulk operations.
 - [klio](https://github.com/spotify/klio) - Smarter data pipelines for audio. ([Docs](https://docs.klio.io/en/latest/))
+- [lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
+- [classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python.
+- [pluggy](https://github.com/pytest-dev/pluggy) - Minimalist production ready plugin system.
 
 ## Links
 
@@ -208,3 +212,4 @@
 - [All of the python 3.9 standard library](https://gist.github.com/jph00/d5981f649a83a754946964cf22322cb2) - Organized and hyperlinked index to every module, function, and class in the Python standard library.
 - [pdocs](https://github.com/timothycrosley/pdocs) - Simple program and library to auto generate API documentation for Python modules.
 - [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages.
+- [Dry-Python](https://dry-python.org/) - Set of libraries for pluggable business logic components. ([GitHub](https://github.com/dry-python))

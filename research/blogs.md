@@ -118,3 +118,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [10 years of professional blogging. What I've learned (2020)](https://andrewchen.co/professional-blogging/)
 - [Transparency (2020)](https://www.snoyman.com/blog/2020/10/transparency)
 - [Ergo](https://github.com/insipx/Ergo) - Light, simple theme for Zola made with a focus on writing. Inspired by svbtle.
+- [Engineering Blogs](https://engineeringblogs.xyz/) ([Code](https://github.com/peterc/engblogs))

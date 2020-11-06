@@ -24,6 +24,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [arweave](https://www.arweave.org/) - New type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to store data forever.
 - [Foundation](https://withfoundation.com/) - Reclaiming the idea of the stock market to benefit creators and collectors directly.
 - [Zilliqa](https://www.zilliqa.com/)
+- [Zilliqa](https://github.com/Zilliqa/Zilliqa) - Scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
 
 ## Notes
 

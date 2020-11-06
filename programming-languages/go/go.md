@@ -372,3 +372,4 @@ Go promotes composition over inheritance.
 - [Hash Tables Implementation in Go. The inner implementation. (2020)](https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553)
 - [GopherLabs](https://gopherlabs.kubedaily.com/) - Ultimate Workshop Track for Go Developer. ([Code](https://github.com/sangam14/GopherLabs))
 - [Three Months of Go (from a Haskeller's perspective) (2016)](https://memo.barrucadu.co.uk/three-months-of-go.html) ([Lobsters](https://lobste.rs/s/zoi8gx/three_months_go_from_haskeller_s))
+- [Rust vs Go (2020)](https://bitfieldconsulting.com/golang/rust-vs-go) ([HN](https://news.ycombinator.com/item?id=25007209)) ([Reddit: Go](https://www.reddit.com/r/golang/comments/jp4kvp/rust_vs_go/)) ([Reddit: Rust](https://www.reddit.com/r/rust/comments/jp4orc/rust_vs_go/))

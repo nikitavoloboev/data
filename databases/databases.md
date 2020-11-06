@@ -105,6 +105,7 @@
 - [JavaScript Database (JSDB)](https://github.com/small-tech/jsdb) - Transparent, in-memory, streaming write-on-update JavaScript database for Small Web applications that persists to a JavaScript transaction log. ([Intro](https://ar.al/2020/10/20/introducing-jsdb/)) ([Lobsters](https://lobste.rs/s/76eboi/introducing_jsdb))
 - [Cete](https://github.com/mosuka/cete) - Distributed key value store server written in Go built on top of BadgerDB.
 - [NoisePage](https://noise.page/) - Self-Driving Database Management System. ([Code](https://github.com/cmu-db/noisepage/)) ([HN](https://news.ycombinator.com/item?id=24983872))
+- [Sir.DB](https://github.com/c9fe/sirdb) - Git-diff-able JSON database on yer filesystem. ([HN](https://news.ycombinator.com/item?id=25004554))
 
 ## Tools
 

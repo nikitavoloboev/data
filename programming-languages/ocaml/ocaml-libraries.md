@@ -50,6 +50,7 @@
 - [OByteLib](https://github.com/bvaugon/obytelib) - OCaml bytecode library tools. Useful to read, write and evaluate OCaml bytecode files.
 - [bimage](https://github.com/zshipko/ocaml-bimage) - Composable image processing library for OCaml.
 - [Lwd](https://github.com/let-def/lwd) - Lets you build values that changes over time.
+- [Digestif](https://github.com/mirage/digestif) - Hash algorithms in C and OCaml.
 
 ## Links
 

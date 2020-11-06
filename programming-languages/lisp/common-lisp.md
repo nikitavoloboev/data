@@ -29,3 +29,4 @@
 - [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code.
 - [Cl-Cuda](https://github.com/takagi/cl-cuda) - Library to use NVIDIA CUDA in Common Lisp programs.
 - [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
+- [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.

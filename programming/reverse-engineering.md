@@ -58,3 +58,5 @@
 - [Spedi](https://github.com/abenkhadra/spedi) - Speculative disassembly, CFG recovery, and call-graph recovery from stripped binaries.
 - [bcov](https://github.com/abenkhadra/bcov) - Static instrumentation tool for efficient binary-level coverage analysis.
 - [Decompetition](https://decompetition.io/) - Reverse Engineering Competition.
+- [Learning Binary Analysis for Debugging and More (2020)](https://h313.info/blog/cpp/security/binary-analysis/2020/11/06/learning-binary-analysis-for-debugging-and-more.html)
+- [Improve Software Debugging with Binary Analysis (2020)](https://h313.info/blog/cpp/security/binary-analysis/2020/11/06/improve-software-debugging-with-binary-analysis.html)

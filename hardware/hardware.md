@@ -126,3 +126,6 @@
 - [Hardware-as-a-Service (2020)](https://diff.substack.com/p/hardware-as-a-service) ([HN](https://news.ycombinator.com/item?id=24943526))
 - [Is a billion-dollar worth of server lying on the ground (2020)](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground) ([HN](https://news.ycombinator.com/item?id=24966028))
 - [Lattice Semiconductor](https://www.latticesemi.com/en) - American manufacturer of high-performance programmable logic devices.
+- [Transistor 2N2222: all you need to know (2020)](https://www.oshardware.net/2n2222/)
+- [Open Source Hardware](https://www.oshardware.net/) - Makers and STEM tutorials.
+- [Chips Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems. ([GitHub](https://github.com/chipsalliance))

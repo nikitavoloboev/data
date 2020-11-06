@@ -46,3 +46,4 @@
 - [Slightly Incremental Ray Tracing In One Weekend (2020)](https://www.peterstefek.me/incr-ray-tracer.html)
 - [SORT (Simple Open-source Ray Tracing)](https://github.com/JiayinCao/SORT) - Cross platform ray tracing renderer in C++. ([Web](https://sort-renderer.com/))
 - [redner](https://github.com/BachiLi/redner) - Differentiable Monte Carlo Ray Tracing through Edge Sampling.
+- [Vulkan Real-time Path Tracer Engine](https://github.com/Zielon/PBRVulkan)

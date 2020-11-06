@@ -1,5 +1,9 @@
 # TypeScript libraries
 
+## DB
+
+- [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
+
 ## Other
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.

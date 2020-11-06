@@ -59,6 +59,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [EggOS](https://github.com/icexin/eggos) - Go unikernel running on x86 bare metal. ([HN](https://news.ycombinator.com/item?id=24856767))
 - [KnightOS](https://github.com/KnightOS/KnightOS) - Third-party operating system for TI calculators.
 - [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
+- [Stupid Operating System](https://github.com/sos-os/kernel) - Simple, tiny toy OS implemented in Rust.
 
 ## Notes
 

@@ -127,6 +127,8 @@
 - [React Hotkey Tooltip](https://github.com/EmaSuriano/react-hotkey-tooltip) - Global Hotkey provider with built in tooltip for React.
 - [react-contenteditable](https://github.com/lovasoa/react-contenteditable) - React component for a div with editable contents.
 - [use-tweaks](https://github.com/pmndrs/use-tweaks) - Tweak React components with Tweakpanes.
+- [repng](https://github.com/jxnblk/repng) - React component to PNG converter, built with Puppeteer.
+- [react-calendly](https://github.com/tcampb/react-calendly) - Calendly integration for React apps.
 
 ## Links
 

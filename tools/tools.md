@@ -242,6 +242,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
+- [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.

@@ -201,3 +201,4 @@
 - [The Magic of Python Context Managers (2020)](https://martinheinz.dev/blog/34)
 - [Python for Everybody course](https://www.coursera.org/specializations/python)
 - [Caching in Python Using the LRU Cache Strategy (2020)](https://realpython.com/lru-cache-python/)
+- [Annotated Algorithms in Python](https://github.com/mdipierro/nlib) - With applications in Physics, Biology, and Finance.

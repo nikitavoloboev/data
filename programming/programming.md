@@ -273,3 +273,5 @@
 - [Foundations of Software Engineering course (2020)](https://cmu-313.github.io/) ([HN](https://news.ycombinator.com/item?id=24949322))
 - [The Self-Improving Developer book](https://selfimproving.dev/)
 - [All About Code Review](https://github.com/mgreiler/all-about-code-review) - Curated collection of articles, tools, checklists and other awesome resources about code reviews.
+- [Functions That Go Backwards (2020)](https://thatjdanisso.cool/functions-that-go-backwards)
+- [Technical debt as a lack of understanding (2020)](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) ([HN](https://news.ycombinator.com/item?id=25008587))

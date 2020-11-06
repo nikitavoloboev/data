@@ -33,3 +33,4 @@
 - [Introduction to Social Science Genetics (2020)](https://silverbeach.in/courses/2020/october/social-science-genetics/)
 - [gplearn](https://github.com/trevorstephens/gplearn) - Implements Genetic Programming in Python, with a scikit-learn inspired and compatible API.
 - [Genetic List](https://geneticlist.com/) - Browsable genetic marker lists.
+- [Cutevariant](https://github.com/labsquare/cutevariant) - Standalone and free application to explore genetics variations from VCF file.

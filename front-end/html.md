@@ -78,3 +78,6 @@
 - [Tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document. ([Web](http://tscanlin.github.io/tocbot/))
 - [async-htm-to-string](https://github.com/voxpelli/async-htm-to-string) - Renders a htm tagged template asyncly into a string.
 - [HTML and CSS simple tips and tricks for your website](https://thomasorus.com/html-tips.html)
+- [Headers.CSS](https://headers-css.vercel.app/) - Blueprint HTML and CSS for 17+ website headers. ([Code](https://github.com/shadeed/headers-css))
+- [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby.
+- [HTML & CSS Is Hard | Friendly web development tutorial](https://www.internetingishard.com/html-and-css/)

@@ -56,3 +56,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Convert telegram channel to an email newsletter](https://articlius.com/home/SubscribeToTelegramChannelNewsletter)
 - [Telegram for GitHub Actions](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
 - [TDLib (Telegram Database library)](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients. It can be easily used from almost any programming language. ([Web](https://core.telegram.org/tdlib))
+- [Such Chat](https://such.chat/) - Customer support via Telegram made easy.

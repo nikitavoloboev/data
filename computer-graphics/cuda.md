@@ -11,3 +11,4 @@
 - [GPGPU Programming with CUDA](https://github.com/CoffeeBeforeArch/cuda_programming)
 - [k-NN algorithm on CUDA](https://github.com/vincentfpgarcia/kNN-CUDA)
 - [KBLAS CUDA](https://github.com/ecrc/kblas-gpu) - Subset of BLAS routines optimized for NVIDIA GPUs.
+- [CudaSift](https://github.com/Celebrandil/CudaSift) - SIFT features with CUDA.

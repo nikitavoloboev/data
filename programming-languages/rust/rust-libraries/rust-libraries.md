@@ -56,6 +56,7 @@
 - [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
 - [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://www.sixtyfps.io/)) ([HN](https://news.ycombinator.com/item?id=24919571))
 - [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
+- [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
 
 ## DB
 
@@ -501,6 +502,7 @@
 - [generator-rs](https://github.com/Xudong-Huang/generator-rs) - Rust stackful generator library.
 - [image2](https://github.com/zshipko/image2-rs) - Image processing library for Rust.
 - [ZEXE](https://github.com/scipr-lab/zexe) - Rust library for decentralized private computation.
+- [cargo-flash](https://github.com/probe-rs/cargo-flash) - Cargo extension for programming microcontrollers.
 
 ## Cargo Plugins
 

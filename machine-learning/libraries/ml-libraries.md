@@ -73,3 +73,4 @@
 - [GraKeL](https://github.com/ysig/GraKeL) - Library that provides implementations of several well-established graph kernels. scikit-learn compatible.
 - [creme](https://github.com/creme-ml/creme) - Python library for online machine learning. All the tools in the library can be updated with a single observation at a time, and can therefore be used to learn from streaming data. ([Docs](https://creme-ml.github.io/))
 - [RecBole](https://github.com/RUCAIBox/RecBole) - Unified, comprehensive and efficient recommendation library.
+- [NNFusion](https://github.com/microsoft/nnfusion) - Flexible and efficient DNN compiler that can generate high-performance executables from a DNN model description.

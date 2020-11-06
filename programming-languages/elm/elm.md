@@ -44,3 +44,4 @@
 - [Elm Shared State example](https://github.com/ohanhi/elm-shared-state) - Example for organizing large Single-Page Applications (SPAs) in Elm.
 - [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code.
 - [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript declaration files for your elm ports.
+- [History and current state of Elm (2020)](https://www.youtube.com/watch?v=vHI7XlgmYCg)

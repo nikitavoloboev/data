@@ -8,3 +8,4 @@
 - [Natural Language Search for Solr and Elasticsearch (2020)](https://www.youtube.com/watch?v=vSspoJ_VkMg)
 - [How We Serverlessly Migrated 1.58 Billion Elasticsearch Documents (2020)](https://blog.streammonkey.com/how-we-serverlessly-migrated-1-58-billion-elasticsearch-documents-33ad3d0d7c4f)
 - [Experience working with 600+TB ElasticSearch cluster (2020)](https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127)
+- [Relevant Search (2016)](https://www.manning.com/books/relevant-search) - With applications for Solr and Elasticsearch.

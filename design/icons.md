@@ -59,3 +59,4 @@
 - [Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
 - [Dmitry Novikov Dribble](https://dribbble.com/Novikoff) - Does nice icons.
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) ([HN](https://news.ycombinator.com/item?id=24991908))
+- [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Minuscule SVG versions of your favorite logos.

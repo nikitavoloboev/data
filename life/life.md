@@ -31,3 +31,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Life's Small-Molecule Problem (2020)](https://www.scientificamerican.com/article/lifes-small-molecule-problem/)
 - [How to waste your career, one comfortable year at a time (2020)](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable) ([HN](https://news.ycombinator.com/item?id=24809530))
 - [I turn 27 today, here's ~27 micro-essays on life (2020)](https://www.mrdbourke.com/27/)
+- [Ask HN: What's Life All About? (2020)](https://news.ycombinator.com/item?id=25000134)

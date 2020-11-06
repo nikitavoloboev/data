@@ -59,3 +59,4 @@
 - [ex-ARM engineer critiques RISC-V](https://gist.github.com/erincandescent/8a10eeeea1918ee4f9d9982f7618ef68) ([HN](https://news.ycombinator.com/item?id=24958423))
 - [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) - Mobile, Open Hardware, RISC-V System-on-Chip (SoC) Development Kit.
 - [Dynamic Binary Translation (RISC-V -> x86)](https://github.com/ria-jit/ria-jit) - Make RISC-V code executable on the x86-64 ISA by means of dynamic binary translation.
+- [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV) ([HN](https://news.ycombinator.com/item?id=25002448))

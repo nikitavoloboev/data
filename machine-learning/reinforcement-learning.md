@@ -122,3 +122,5 @@
 - [RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments](https://github.com/facebookresearch/impact-driven-exploration)
 - [Best Reinforcement Learning Tutorials, Examples, Projects, and Courses (2020)](https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses)
 - [EvoStrat](https://github.com/rasmusbergpalm/evostrat) - Library that makes Evolutionary Strategies (ES) simple to use.
+- [Alpha Zero Boosted](https://github.com/cgreer/alpha-zero-boosted) - "build to learn" implementation of the Alpha Zero algorithm written in Python that uses LightGBM (Gradient Boosted Decision Trees) in place of a Deep Neural Network for value/policy functions.
+- [XingTian](https://github.com/huawei-noah/xingtian) - Componentized library for the development and verification of reinforcement learning algorithms.

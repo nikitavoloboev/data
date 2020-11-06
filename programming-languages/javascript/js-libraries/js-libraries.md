@@ -20,6 +20,7 @@
 - [Sinuous](https://github.com/luwes/sinuous) - Low-level UI library with a tiny footprint. ([Docs](https://sinuous.dev/docs/getting-started/))
 - [Overture](https://github.com/fastmail/overture) - Powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [Lucia](https://github.com/aidenybai/lucia) - Tiny library for tiny web apps. ([Docs](https://lucia.js.org/))
+- [Ractive.js](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 
 ## Animation
 
