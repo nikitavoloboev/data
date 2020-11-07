@@ -136,3 +136,4 @@
 - [nestjs-pgpromise](https://github.com/rubiin/nestjs-pgpromise) - Module for Utilizing Pg-promise with NestJS.
 - [byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader for node.js.
 - [PM2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. ([Web](https://pm2.io/))
+- [keytar](https://github.com/atom/node-keytar) - Native Node module to get, add, replace, and delete passwords in system's keychain.

@@ -60,6 +60,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [KnightOS](https://github.com/KnightOS/KnightOS) - Third-party operating system for TI calculators.
 - [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
 - [Stupid Operating System](https://github.com/sos-os/kernel) - Simple, tiny toy OS implemented in Rust.
+- [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler.
 
 ## Notes
 

@@ -29,3 +29,4 @@
 - [gNMI](https://github.com/openconfig/gnmi) - gRPC Network Management Interface.
 - [Ditching REST with gRPC-web and Envoy (2020)](https://medium.com/swlh/ditching-rest-with-grpc-web-and-envoy-bfaa89a39b32)
 - [Road to gRPC (2020)](https://blog.cloudflare.com/road-to-grpc/)
+- [grpclib](https://github.com/vmagamedov/grpclib) - Pure-Python gRPC implementation for asyncio.

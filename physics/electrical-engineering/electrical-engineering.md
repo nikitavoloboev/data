@@ -41,3 +41,4 @@
 - [An Intuitive Look at Moving Average and CIC Filters (2020)](https://tomverbeure.github.io/2020/09/30/Moving-Average-and-CIC-Filters.html)
 - [Elroy Lamp: A transparent LCD lamp](https://www.kylescholz.com/wp/the-elroy-lamp/)
 - [Kitspace](https://kitspace.org/) - Place to share ready-to-order electronics designs.
+- [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses.
