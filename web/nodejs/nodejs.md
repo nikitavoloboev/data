@@ -134,3 +134,5 @@
 - [Bree](https://github.com/breejs/bree) - Best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.
 - [kevin-middleware](https://github.com/etsy/kevin-middleware) - Express middleware that makes developing javascript in a monorepo easier.
 - [nestjs-pgpromise](https://github.com/rubiin/nestjs-pgpromise) - Module for Utilizing Pg-promise with NestJS.
+- [byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader for node.js.
+- [PM2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. ([Web](https://pm2.io/))

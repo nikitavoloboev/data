@@ -22,3 +22,4 @@
 - [pylo](https://github.com/sebdumancic/pylo2) - Python front-end for several Prolog engines.
 - [Implementation of Prolog in TypeScript](https://github.com/kkty/prolog)
 - [Mycroft](https://github.com/enkiv2/mycroft) - Prolog-like language with compound truth value logic.
+- [Simple Prolog implementation in Rust](https://github.com/mb64/prolog)

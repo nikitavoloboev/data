@@ -9,3 +9,4 @@
 - [BullMQ](https://github.com/taskforcesh/bullmq) - Premium Message Queue for NodeJS based on Redis.
 - [Celery](https://github.com/celery/celery) - Distributed Task Queue.
 - [Apache RocketMQ](https://github.com/apache/rocketmq) - Distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+- [Performance benchmarks for various message queues](https://github.com/tylertreat/mq-benchmarking)

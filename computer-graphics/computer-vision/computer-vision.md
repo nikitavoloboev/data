@@ -130,3 +130,4 @@
 - [TorchCV](https://github.com/kuangliu/torchcv) - PyTorch vision library mimics ChainerCV.
 - [Vision Transformer in PyTorch](https://github.com/jeonsworld/ViT-pytorch)
 - [MedicalTorch](https://github.com/perone/medicaltorch) - Medical imaging framework for PyTorch. ([Docs](https://medicaltorch.readthedocs.io/en/stable/))
+- [imagecluster](https://github.com/elcorto/imagecluster) - Cluster images based on image content using a pre-trained deep neural network, optional time distance scaling and hierarchical clustering.

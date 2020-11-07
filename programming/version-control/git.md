@@ -184,3 +184,4 @@ I love Git and version control. And I use version control over any project I do.
 - [My Thoughts On Monorepo (2020)](https://shekhargulati.com/2020/11/02/my-thoughts-on-monorepo/) ([HN](https://news.ycombinator.com/item?id=24971288))
 - [Signed git pushes (2020)](https://people.kernel.org/monsieuricon/signed-git-pushes)
 - [Towards an automated changelog workflow (2020)](https://blog.yossarian.net/2020/11/05/Towards-an-automated-changelog-workflow)
+- [commit-autosuggestions](https://github.com/graykode/commit-autosuggestions) - Tool that AI automatically recommends commit messages.
