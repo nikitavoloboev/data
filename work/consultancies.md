@@ -137,7 +137,7 @@
 - [The Agile Monkeys](https://www.theagilemonkeys.com/) - Team of full-stack senior software engineers.
 - [QuarkWorks](https://quarkworks.co/)
 - [Jayway](https://www.jayway.com/)
-- [PROTOTYP](https://prototyp.digital/)
+- [Bad Idea Factory](https://biffud.com/)
 
 ## Links
 

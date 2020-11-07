@@ -279,6 +279,7 @@ Here are few more things I liked, design wise.
 - [Daniel Gross](https://dcgross.com/)
 - [Chelsea Voss](https://csvoss.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
+- [Fabian De Smet](https://fabiandesmet.com/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
 - [Mitxela](https://mitxela.com/)
 - [Frederic Cambus](https://www.cambus.net/)

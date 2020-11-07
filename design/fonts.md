@@ -46,6 +46,9 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Bungee](https://github.com/djrrb/Bungee) - Chromatic signage typeface for vertical and horizontal setting. ([Web](https://djr.com/bungee/))
 - [Quicksand](https://fonts.google.com/specimen/Quicksand)
 - [Bitmap fonts for humans](https://github.com/robhagemans/hoard-of-bitfonts)
+- [Butler](https://fabiandesmet.com/portfolio/butler-font/) - Free serif font inspired by a mix between both Dala Floda & the amazing Bodoni family.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
 
 ## Links
 
