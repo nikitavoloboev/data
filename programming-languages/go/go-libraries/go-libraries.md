@@ -572,6 +572,7 @@
 - [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 - [stateful](https://github.com/bykof/stateful) - Finite state machine for Go.
 - [logfmt](https://github.com/go-logfmt/logfmt) - Marshals and unmarshals logfmt messages.
+- [dagger](https://github.com/autom8ter/dagger) - Fast, concurrency safe, mutable, in-memory directed graph library with zero dependencies.
 
 ## Links
 

@@ -133,3 +133,4 @@
 - [wsrun](https://github.com/hfour/wsrun) - Command runner for Yarn workspaces. Dependency aware.
 - [Bree](https://github.com/breejs/bree) - Best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.
 - [kevin-middleware](https://github.com/etsy/kevin-middleware) - Express middleware that makes developing javascript in a monorepo easier.
+- [nestjs-pgpromise](https://github.com/rubiin/nestjs-pgpromise) - Module for Utilizing Pg-promise with NestJS.
