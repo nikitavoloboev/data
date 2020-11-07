@@ -115,6 +115,7 @@
 - [Utilities for TypeScript and Bazel](https://github.com/bazelbuild/rules_typescript)
 - [End-to-End TypeScript: Database, Backend, API, and Frontend (2020)](https://www.youtube.com/watch?v=GrnBXhsr0ng)
 - [TypeScript Transformer Handbook](https://github.com/madou/typescript-transformer-handbook)
+- [How does the TypeScript team try to avoid negative effects on the JS ecosystem? (2020)](https://www.youtube.com/watch?v=8qm49TyMUPI)
 
 ## Images
 
