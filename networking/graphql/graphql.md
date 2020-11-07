@@ -148,3 +148,4 @@
 - [nestjs-query](https://github.com/doug-martin/nestjs-query) - Easy CRUD for GraphQL.
 - [GraphQL over HTTP spec](https://github.com/graphql/graphql-over-http)
 - [GraphQL website code](https://github.com/graphql/graphql.github.io)
+- [Why not use GraphQL? (2020)](https://wundergraph.com/blog/why_not_use_graphql) ([HN](https://news.ycombinator.com/item?id=25014582))
