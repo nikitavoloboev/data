@@ -55,3 +55,4 @@
 - [Dynroute53](https://github.com/thoeni/dynroute53) - Dynamic DNS updater for AWS Route53. Like DDNS for AWS managed domains.
 - [Handshake](https://handshake.org/) - Experimental peer-to-peer root naming system. ([Code](https://github.com/handshake-org/hsd)
 - [What Does It Take To Resolve A Hostname (2020)](https://venam.nixers.net/blog/unix/2020/11/01/resolving-a-hostname.html)
+- [dog](https://github.com/ogham/dog) - Command-line DNS client. ([Web](https://dns.lookup.dog/))

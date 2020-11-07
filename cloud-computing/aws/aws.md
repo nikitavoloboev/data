@@ -115,3 +115,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/) - Program offers technical resources, mentorship, and networking opportunities.
 - [AWS Secure Environment Accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - Tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis.
 - [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)
+- [Cachenator](https://github.com/adrianchifor/cachenator) - Distributed, sharded in-memory cache and proxy for S3.

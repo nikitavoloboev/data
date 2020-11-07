@@ -106,6 +106,7 @@
 - [Cete](https://github.com/mosuka/cete) - Distributed key value store server written in Go built on top of BadgerDB.
 - [NoisePage](https://noise.page/) - Self-Driving Database Management System. ([Code](https://github.com/cmu-db/noisepage/)) ([HN](https://news.ycombinator.com/item?id=24983872))
 - [Sir.DB](https://github.com/c9fe/sirdb) - Git-diff-able JSON database on yer filesystem. ([HN](https://news.ycombinator.com/item?id=25004554))
+- [Bigbucket](https://github.com/adrianchifor/Bigbucket) - Serverless NoSQL database with a focus on scalability, availability and simplicity. It has a Bigtable-style data model with storage backed by a Cloud Storage Bucket.
 
 ## Tools
 
