@@ -71,3 +71,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [spotDL](https://github.com/spotDL/spotify-downloader) - Download Spotify playlists from YouTube with albumart and metadata.
 - [Stereo](https://withstereo.com/) - Completely-free and community-driven project that lets you play & listen to music in sync with friends in public or private rooms. ([Code](https://github.com/hoangvvo/stereo-web))
 - [Bongo Cat](https://bongo.cat/) - Hit the bongos like Bongo Cat. ([HN](https://news.ycombinator.com/item?id=24866896))
+- [Endel](https://endel.io/) - Personalized environments that help you focus, relax, and sleep.
