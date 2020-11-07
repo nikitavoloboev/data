@@ -47,3 +47,4 @@
 - [SORT (Simple Open-source Ray Tracing)](https://github.com/JiayinCao/SORT) - Cross platform ray tracing renderer in C++. ([Web](https://sort-renderer.com/))
 - [redner](https://github.com/BachiLi/redner) - Differentiable Monte Carlo Ray Tracing through Edge Sampling.
 - [Vulkan Real-time Path Tracer Engine](https://github.com/Zielon/PBRVulkan)
+- [Rust Ray Tracer, an Update (and SIMD) (2020)](https://siliconsprawl.com/2020/11/06/simd-ray-tracer.html) ([Lobsters](https://lobste.rs/s/kpfbis/rust_ray_tracer_update_simd))

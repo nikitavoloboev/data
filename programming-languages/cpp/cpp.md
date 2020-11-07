@@ -155,3 +155,4 @@
 - [CRUST](https://github.com/NishanthSpShetty/crust) - C/C++ to Rust Transpiler.
 - [Orbit (Open Runtime Binary Instrumentation Tool)](https://github.com/google/orbit) - Standalone C/C++ profiler for Windows and Linux.
 - [Fluent C++ blog](https://www.fluentcpp.com/)
+- [C++ Frequently Questioned Answers](https://yosefk.com/c++fqa/index.html)

@@ -63,7 +63,7 @@
 
 ## DB
 
-- [sql.js](https://github.com/sql-js/sql.js) - SQLite compiled to JavaScript. Allows you to create a relational database and query it entirely in the browser.
+- [sql.js](https://github.com/sql-js/sql.js) - SQLite compiled to JavaScript. Allows you to create a relational database and query it entirely in the browser. ([Docs](https://sql.js.org/#/)) ([HN](https://news.ycombinator.com/item?id=25008308))
 - [SQigiL](https://github.com/twooster/sqigil) - Postgres SQL template string for Javascript.
 - [Postgrest JS](https://github.com/supabase/postgrest-js) - Isomorphic JavaScript client for PostgREST.
 

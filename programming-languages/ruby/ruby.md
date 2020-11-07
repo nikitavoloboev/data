@@ -37,3 +37,4 @@
 - [RuboCop RSpec](https://github.com/rubocop-hq/rubocop-rspec) - Code style checking for RSpec files.
 - [Shopify Ruby Style Guide](https://github.com/Shopify/ruby-style-guide)
 - [Context on STM in Ruby (2020)](https://chrisseaton.com/truffleruby/ruby-stm/) ([HN](https://news.ycombinator.com/item?id=24921657))
+- [Error handling with Monads in Ruby (2020)](http://nywkap.com/programming/either-monads-ruby.html)
