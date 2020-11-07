@@ -92,6 +92,7 @@
 - [Facebook Ads Manual](https://superspicymedia.com/the-facebook-ads-manual) ([Tweet](https://twitter.com/jhooks/status/1321463201070899202))
 - [GrowthHunt](https://www.growthunt.com/) - Database of TL;DR business strategies/case studies. ([HN](https://news.ycombinator.com/item?id=24957244))
 - [Startup Growth Kit](https://startupgrow.co/) - 300+ growth hacks & tools in Notion.
+- [SaaS Growth, Product Management, Retention, Flywheels: Behind the Paywall with Lenny Rachitsky (2020)](https://open.spotify.com/episode/7FDHrKxdnVcWMiCkaGK44q?si=YHnH5D63RVCkHm5MqHZ2Eg)
 
 ## Images
 
