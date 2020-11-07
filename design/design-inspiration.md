@@ -315,6 +315,7 @@ Here are few more things I liked, design wise.
 - [Andrew Kensler](http://eastfarthing.com/blog/index.html)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
+- [Lou Huang](https://louhuang.com/)
 - [Traf](https://tr.af/)
 - [Duncan Geere](https://www.duncangeere.com/portfolio/)
 - [Dez Beberniss](https://desiraebeberniss.com/)

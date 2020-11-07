@@ -73,4 +73,4 @@
 - [Plotter Mushroom](https://github.com/cinnamon-bun/plotter-mushroom) - Algorithm for generating SVG art.
 - [List of Generative Art and Live Coding Tools](https://opinionatedguide.github.io/#/Design/d5-gen) ([HN](https://news.ycombinator.com/item?id=24889333))
 - [Generative Book Covers](https://github.com/golanlevin/generative_covers)
-- [Tixy.Land](https://tixy.land/) - Minimalist coding environment. Control 16x16 points with a single JavaScript function. ([1](https://tixy.land/?code=Math.sin%28Math.sqrt%28x*x%2By*y%29-t%29))
+- [Tixy.Land](https://tixy.land/) - Minimalist coding environment. Control 16x16 points with a single JavaScript function. ([1](https://tixy.land/?code=Math.sin%28Math.sqrt%28x*x%2By*y%29-t%29)) ([2](https://twitter.com/v21/status/1323403680922718208)) ([Lobsters](https://lobste.rs/s/p146zr/t_i_x_y_creative_code_golfing))

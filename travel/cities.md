@@ -8,3 +8,4 @@
 - [Why Every City Feels the Same Now (2020)](https://www.theatlantic.com/technology/archive/2020/08/why-every-city-feels-same-now/615556/) ([HN](https://news.ycombinator.com/item?id=24259916))
 - [Freiburg: Germany's futuristic city set in a forest (2020)](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest) ([HN](https://news.ycombinator.com/item?id=24455406))
 - [Ask HN: As a person, what can I do to improve a city? (2020)](https://news.ycombinator.com/item?id=25007697)
+- [Streetmix](https://streetmix.net/) - Collaborative process for communities and city planners to improve public spaces. ([Code](https://github.com/streetmix/streetmix))
