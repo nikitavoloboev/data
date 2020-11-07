@@ -41,3 +41,4 @@
 - [Qovery](https://github.com/Qovery/engine) - Deploy your apps on any Cloud providers in just a few seconds. ([Web](https://www.qovery.com/))
 - [packagecloud](https://packagecloud.io/) - Private NPM registry and Maven, RPM, DEB, PyPi and RubyGem Repository.
 - [Gravitational](https://gravitational.com/) - Remote Access and Secure Deployments.
+- [DeployHQ](https://www.deployhq.com/) - Automatically build and deploy code from your repositories.

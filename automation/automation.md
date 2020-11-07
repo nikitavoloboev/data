@@ -18,6 +18,7 @@
 - [Huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool. ([Web](https://n8n.io/))
+- [Integromat](https://www.integromat.com/en/) - Advanced online automation platform.
 
 ## Images
 

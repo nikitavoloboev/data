@@ -147,3 +147,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The good line-height](https://www.thegoodlineheight.com/) - Create a type scale following an 8 point baseline grid, or any grid.
 - [Type Scale](https://type-scale.com/) - Visual Type Scale Calculator. ([Code](https://github.com/jeremychurch/type-scale))
 - [Site-Speed Topography (2020)](https://csswizardry.com/2020/11/site-speed-topography/)
+- [Monotype](https://www.monotype.com/) - Font & Technology Specialists.

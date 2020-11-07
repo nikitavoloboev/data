@@ -106,3 +106,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [A Brief Introduction to Deniability (2020)](https://soatok.blog/2020/11/04/a-brief-introduction-to-deniability/)
 - [Mailu](https://github.com/Mailu/Mailu) - Simple yet full-featured mail server as a set of Docker images. ([Docs](https://mailu.io/))
 - [Transactional email providers for indie businesses (2020)](https://nts.strzibny.name/transactional-email-providers/) ([HN](https://news.ycombinator.com/item?id=25007470))
+- [Tutanota](https://tutanota.com/) - Secure email. Free encrypted email.
+- [MailerLite](https://www.mailerlite.com/) - Create Email Marketing Your Way.

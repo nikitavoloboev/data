@@ -151,6 +151,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Tiny Letter](https://tinyletter.com)
 - [Pace](https://pace.dev/) - Minimalist project management tool.
+- [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
@@ -203,6 +204,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
 - [Pantry](https://getpantry.cloud/) - Free data storage as a service. A good resource when building personal projects, apps for hackathons, and prototypes alike. ([Code](https://github.com/imRohan/Pantry))
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
+- [updown.io](https://updown.io/) - Website monitoring, simple and inexpensive.
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 - [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
