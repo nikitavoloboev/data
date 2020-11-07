@@ -41,3 +41,4 @@
 - [Piipcam](https://github.com/sepfy/piipcam) - 1080P IP Camera on a Raspberry Pi Zero W. ([HN](https://news.ycombinator.com/item?id=24959408))
 - [Raspberry Pi 400 Desktop PC (Computer in Keyboard) (2020)](https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/) ([HN](https://news.ycombinator.com/item?id=24965614)) ([Lobsters](https://lobste.rs/s/p8e4wd/raspberry_pi_400_70_desktop_pc))
 - [Designing Raspberry Pi 400 (2020)](https://www.raspberrypi.org/blog/designing-raspberry-pi-400/) ([HN](https://news.ycombinator.com/item?id=24988681))
+- [Raspberry Pi 400 – First Impressions (2020)](https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/) ([HN](https://news.ycombinator.com/item?id=25014025))

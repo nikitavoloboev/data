@@ -83,3 +83,4 @@
 - [Free CANopen Stack for Embedded Systems](https://github.com/embedded-office/canopen-stack) ([Web](https://canopen-stack.org/))
 - [Using Rust for a simple hardware project (2020)](https://blog.tonari.no/rust-simple-hardware-project)
 - [elfload](https://github.com/erincandescent/elfload) - ELF loader for embedded systems.
+- [Introduction to Embedded Linux Security (2020)](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
