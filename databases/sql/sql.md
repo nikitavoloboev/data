@@ -71,3 +71,4 @@
 - [A Short Story About SQL’s Biggest Rival (2020)](https://www.holistics.io/blog/quel-vs-sql/?) ([HN](https://news.ycombinator.com/item?id=24730713))
 - [What ORMs Have Taught Me: Just Learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/) ([HN](https://news.ycombinator.com/item?id=24845300))
 - [SQL Formatter](https://zeroturnaround.github.io/sql-formatter/) - JavaScript library for pretty-printing SQL queries. ([Code](https://github.com/zeroturnaround/sql-formatter))
+- [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/) - Help to you build SQL JOIN between two tables by using of Venn diagrams. ([Code](https://github.com/le0pard/sql-joins-app))

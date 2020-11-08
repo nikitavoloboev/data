@@ -19,3 +19,4 @@
 - [Ask HN: What is an acceptable latency for a web load balancer? (2020)](https://news.ycombinator.com/item?id=24661903)
 - [KgLb](https://github.com/dropbox/kglb) - L4 a load balancer built on top of linux ip virtual server (ip_vs).
 - [Tyler McMullen - Load Balancing is Impossible (2016)](https://www.youtube.com/watch?v=kpvbOzHUakA)
+- [Traefik: canary deployments with weighted load balancing (2020)](https://iximiuz.com/en/posts/traefik-canary-deployments-with-weighted-load-balancing/)

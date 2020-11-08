@@ -57,3 +57,4 @@
 - [Coming to Elixir from TypeScript (2020)](https://www.papercups.io/blog/elixir-noob)
 - [Cursed Elixir (2020)](https://evuez.github.io/posts/cursed-elixir.html) ([HN](https://news.ycombinator.com/item?id=24818706))
 - [Learn Elixir: The Ultimate Guide (2020)](https://serokell.io/blog/learn-elixir)
+- [DepViz](https://github.com/axelson/dep_viz) - Visual tool to understand Elixir recompilation. ([Web](https://dep-viz.herokuapp.com/))

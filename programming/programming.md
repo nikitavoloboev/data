@@ -42,6 +42,7 @@
 - [1. You're not clever. 2. Distributed systems rule #1: Do not distribute the system! 3. Do not micro optimize. 4. Measure where your program spends time. 5. Optimization rule #1: Reduce I/O. 6. Should I use a distributed cache? No!](https://github.com/klingtnet)
 - [Top 3 motivation killers for developers: Slow environments to test. Micromanagement. Continuous legacy projects.](https://twitter.com/MattCodeJourney/status/1313486362029547528)
 - [Software should be: Robust. Reliable. Stable. Simple.](https://drewdevault.com/2020/10/09/Four-principles-of-software-engineering.html)
+- Read, analyze and write lots of code. Don't be too concerned with the latest fads.
 
 ## Links
 

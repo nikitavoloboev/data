@@ -162,3 +162,4 @@
 - [Naszilla](https://github.com/naszilla/naszilla) - Python library for neural architecture search (NAS).
 - [The Unreasonable Syntactic Expressivity of RNNs (2020)](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
 - [DeepMath Conference](https://deepmath-conference.com/) - Conference on the Mathematical Theory of DNN's. ([HN](https://news.ycombinator.com/item?id=25015941))
+- [Coding a Neural Network: A Beginner's Guide (2020)](https://www.youtube.com/watch?v=TIEKzVwS12g)

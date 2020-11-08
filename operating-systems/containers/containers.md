@@ -66,3 +66,4 @@
 - [AWS pre-announces public container image registry (2020)](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/) ([HN](https://news.ycombinator.com/item?id=24975195))
 - [Performance evaluation of containers and virtual machines (2020)](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5693)
 - [Buildah](https://github.com/containers/buildah) - Tool that facilitates building Open Container Initiative (OCI) container images.
+- [Container networking is simple (2020)](https://iximiuz.com/en/posts/container-networking-is-simple/)

@@ -162,3 +162,5 @@
 - [Protocol Buffer extension for PostgreSQL](https://github.com/mpartel/postgres-protobuf)
 - [Getting Started With Postgres 13 on Ubuntu 20.04 (2020)](https://pgdash.io/blog/postgres-13-getting-started.html?h)
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Plugin for prettier to support formatting of PostgreSQL-flavour SQL.
+- [PGTune](https://pgtune.leopard.in.ua/#/) - Tuning PostgreSQL config by your hardware. ([Code](https://github.com/le0pard/pgtune))
+- [Book about PostgreSQL: tuning and scaling (Russian)](https://postgresql.leopard.in.ua/) ([Code](https://github.com/le0pard/postgresql_book))

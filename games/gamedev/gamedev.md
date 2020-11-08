@@ -113,3 +113,4 @@
 - [es_core](https://github.com/TTimo/es_core) - Experimental framework for low latency, high fps multiplayer games.
 - [Game Developers Conference (GDC)](https://gdconf.com/)
 - [Making a small game with Gloss [Haskell] (2020)](https://herebeseaswines.net/essays/2020-11-01-making-a-small-game-with-gloss)
+- [Serious Engine – Multiplayer Explained](https://staniks.github.io/articles/serious-engine-networking-analysis.html)
