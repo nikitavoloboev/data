@@ -574,6 +574,7 @@
 - [logfmt](https://github.com/go-logfmt/logfmt) - Marshals and unmarshals logfmt messages.
 - [dagger](https://github.com/autom8ter/dagger) - Fast, concurrency safe, mutable, in-memory directed graph library with zero dependencies.
 - [go-text](https://github.com/mithrandie/go-text) - Go libraries to operate text.
+- [go-edn](https://github.com/go-edn/edn) - Go implementation of EDN.
 
 ## Links
 
