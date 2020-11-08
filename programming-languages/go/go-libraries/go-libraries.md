@@ -573,6 +573,7 @@
 - [stateful](https://github.com/bykof/stateful) - Finite state machine for Go.
 - [logfmt](https://github.com/go-logfmt/logfmt) - Marshals and unmarshals logfmt messages.
 - [dagger](https://github.com/autom8ter/dagger) - Fast, concurrency safe, mutable, in-memory directed graph library with zero dependencies.
+- [go-text](https://github.com/mithrandie/go-text) - Go libraries to operate text.
 
 ## Links
 
