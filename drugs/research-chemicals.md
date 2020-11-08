@@ -27,7 +27,6 @@
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/cf4431/what_is_your_favorite_rc_and_why/)
 - [RareChems](https://rarechems.com/) - EU based supplier of research chemicals. Best one. Vendor store by LizardLabs.
 - [RealChems](https://realchems.com/) - EU based supplier of research chemicals.
-- [LisergiaWave](https://www.lisergiawave.com/) - Research chemicals suppliers based in Spain.
 - [Chemical Collective](https://chemical-collective.com/) - US-based supplier of research chemicals.
 - [RC FAQ & Resources](https://www.reddit.com/r/researchchemicals/comments/dchpr0/faq_resources/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/ec7qwt/what_is_your_favorite_rc_and_why/)
