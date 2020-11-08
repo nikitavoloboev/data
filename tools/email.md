@@ -87,7 +87,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Sending e-mail from Cloudflare Workers (2020)](https://guido.io/posts/sending-email-from-cloudflare-workers/)
 - [Really Good Emails](https://reallygoodemails.com/) - Curated collection of emails.
 - [ETHMail](https://ethmail.cc/) - Email services for Ethereum community.
-- [Mutt](http://mutt.org/) - E-Mail Client. ([HN](https://news.ycombinator.com/item?id=24173676))
+- [Mutt](http://mutt.org/) - E-Mail Client. ([HN](https://news.ycombinator.com/item?id=24173676)) ([HN 2](https://news.ycombinator.com/item?id=25019901))
 - [Implementing 'focus and reply' for Fastmail with JMAP (2020)](https://jvns.ca/blog/2020/08/18/implementing--focus-and-reply--for-fastmail/) ([HN](https://news.ycombinator.com/item?id=24207506))
 - [tmpmail](https://github.com/sdushantha/tmpmail) - Temporary email right from your terminal.
 - [Flanker](https://github.com/mailgun/flanker) - Python email address and Mime parsing library.

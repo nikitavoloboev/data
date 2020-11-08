@@ -15,4 +15,4 @@
 - [Perl 5 code](https://github.com/Perl/perl5)
 - [Raku](https://raku.org/) - Newest member of the family of languages known as Perl.
 - [Raku GitHub projects](https://github.com/Raku)
-- [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html)
+- [Perl One-Liners Cookbook](https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html) ([HN](https://news.ycombinator.com/item?id=25006829))

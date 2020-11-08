@@ -150,3 +150,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [CS 140: Operating Systems course (2020)](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/index.php)
 - [Tarides](https://tarides.com/) - Building functional systems. Commercial support on MirageOS and Irmin.
 - [Return to Plan 9 (2020)](https://boxbase.org/entries/2020/nov/1/return-to-plan9/)
+- [Programs are a prison: Rethinking the building blocks of computing interfaces](https://djrobstep.com/posts/programs-are-a-prison) ([HN](https://news.ycombinator.com/item?id=24999103))
