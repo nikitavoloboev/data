@@ -206,3 +206,4 @@
 - [Dash Dash](https://dashdash.io/) - Linux Man Pages. Resource for linux documentation and general programming with an emphasis on design.
 - [Arch Conf 2020](https://media.ccc.de/c/arch-conf-2020) ([HN](https://news.ycombinator.com/item?id=25014421))
 - [OpenBMC](https://github.com/facebook/openbmc) - Open software framework to build a complete Linux image for a Board Management Controller (BMC).
+- [Keynote: Linus Torvalds in conversation with Dirk Hohndel (2020)](https://www.youtube.com/watch?v=H8Gd9t7FQqI)

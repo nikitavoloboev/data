@@ -38,3 +38,4 @@
 - [Pondering Amazon's Manyrepo Build System (2020)](http://beza1e1.tuxen.de/amazon_manyrepo_builds.html) ([Lobsters](https://lobste.rs/s/v6vmov/pondering_amazon_s_manyrepo_build_system))
 - [xmake](https://github.com/xmake-io/xmake) - Cross-platform build utility based on Lua. ([Docs](https://xmake.io/#/))
 - [Merkle trees and build systems](https://lwn.net/Articles/821367/)
+- [Introduction to Makefiles (2020)](https://xs-labs.com/en/blog/2020/11/07/introduction-to-makefiles/) ([HN](https://news.ycombinator.com/item?id=25026656))
