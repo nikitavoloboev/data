@@ -433,6 +433,7 @@ Here are few more things I liked, design wise.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.
 - [Ines](https://ines.io/about)
 - [Atte Juvonen](https://www.attejuvonen.fi/) ([Code](https://github.com/baobabKoodaa/blog/))
+- [Aramis Razzaghipour](https://arzg.github.io/)
 - [James Mulholland](https://jmulholland.com/) ([Code](https://github.com/mulholio/jmulholland-dot-com))
 - [Nadia Eghbal](https://nadiaeghbal.com/)
 - [Victor Laerte](http://www.victorlaerte.com/)

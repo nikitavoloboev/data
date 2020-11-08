@@ -216,7 +216,7 @@
 - [Haskell: The Bad Parts (2020)](https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1) ([Reddit](https://www.reddit.com/r/haskell/comments/jjl4hy/haskell_the_bad_parts_part_1/))
 - [Haskell exercises](https://github.com/neongreen/haskell-ex)
 - [Whole Haskell is Best Haskell (2020)](https://semantic.org/post/whole-haskell-is-best-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/jmqow4/whole_haskell_is_best_haskell/))
-- [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/))
+- [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/)) ([Reddit AMA](https://www.reddit.com/r/haskell/comments/jnwg7i/haskell_foundation_ama/))
 - [Real World Haskell](https://mmhaskell.com/real-world) ([HN](https://news.ycombinator.com/item?id=25005525))
 - [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
 - [Haskell eXchange 2020: Opening Keynote](https://www.youtube.com/watch?v=MEmRarBL9kw)

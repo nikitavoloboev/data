@@ -126,3 +126,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Chris Lattner: The Future of Computing and Programming Languages (2020)](https://www.youtube.com/watch?v=nWTvXbQHwWs) ([Web](https://lexfridman.com/chris-lattner-2/)) ([HN](https://news.ycombinator.com/item?id=24823384))
 - [History of Programming Language Topics](https://porges.github.io/programming-history/) ([Code](https://github.com/Porges/programming-history))
 - [Language Design with Leo White (2020)](https://signalsandthreads.com/language-design/) ([Lobsters](https://lobste.rs/s/udstbt/dynamically_bound_goto_considered)) ([HN](https://news.ycombinator.com/item?id=24876465))
+- [Make a Language Using Rust](https://arzg.github.io/lang/)

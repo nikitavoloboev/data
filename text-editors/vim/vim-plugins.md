@@ -115,6 +115,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Bufferline](https://github.com/bling/vim-bufferline) - Show the list of buffers in the command bar.
 - [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
 - [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Airline.
+- [vim-colors-xcode](https://github.com/arzg/vim-colors-xcode) - Xcode 11’s dark and light colourschemes, now for Vim.
 
 ## Syntax
 
