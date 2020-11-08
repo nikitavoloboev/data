@@ -30,3 +30,4 @@
 - [Cl-Cuda](https://github.com/takagi/cl-cuda) - Library to use NVIDIA CUDA in Common Lisp programs.
 - [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
 - [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.
+- [Opinionated Common Lisp Resources 2020](https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a)
