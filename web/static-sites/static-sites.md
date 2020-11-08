@@ -5,7 +5,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 ## Interesting generators
 
 - [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
-- [Zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola)) ([My Zola Workflow](https://0xc45.com/blog/my-zola-workflow/))
+- [Zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola)) ([My Zola Workflow](https://0xc45.com/blog/my-zola-workflow/)) ([Migrating my blog to Zola](https://mrkaran.dev/posts/migrating-to-zola/))
 - [Styx](https://styx-static.github.io/styx-site/) - Purely functional static site generator in Nix expression language.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator.
 - [elm-pages](https://github.com/dillonkearns/elm-pages) - Statically typed site generator for Elm.

@@ -7,3 +7,4 @@
 - [Embodied Cognition](https://plato.stanford.edu/entries/embodied-cognition/)
 - [Cognition All the Way Down (2020)](https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas) - Biology’s next great horizon is to understand cells, tissues and organisms as agents with agendas.
 - [Biology of Cognition (1970)](http://www.enolagaia.com/M70-80BoC.html)
+- [Don’t Forget About Associative Memories (2020)](https://thegradient.pub/dont-forget-about-associative-memories/) ([HN](https://news.ycombinator.com/item?id=25019797))

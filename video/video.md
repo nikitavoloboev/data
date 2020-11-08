@@ -143,3 +143,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [go-livepeer](https://github.com/livepeer/go-livepeer) - Go implementation of the Livepeer protocol.
 - [Luma](https://lu.ma/) - Host Delightful Zoom Events.
 - [Stack Videos Horizontally, Vertically, in a Grid With FFmpeg (2020)](https://ottverse.com/stack-videos-horizontally-vertically-grid-with-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25022665))
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Color correction and non-linear video editing application.

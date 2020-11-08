@@ -100,6 +100,7 @@ And these Discord servers:
 - [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
 - [The Straight Dope](https://www.straightdope.com/)
 - [Future Crunch](https://futurecrun.ch/)
+- [The Gradient](https://thegradient.pub/)
 
 ### Other
 
