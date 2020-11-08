@@ -192,3 +192,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Steps to Improve Your Writing (2020)](https://adamfaliq.wordpress.com/2020/10/28/write-well/) ([HN](https://news.ycombinator.com/item?id=24915774))
 - [The Ultimate Guide to Writing Online](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
 - [Grammarly](https://www.grammarly.com/) - Free writing app to make their online writing clear and effective.
+- [Writing for Reasons (2020)](https://blog.sulami.xyz/posts/writing-for-reasons/)

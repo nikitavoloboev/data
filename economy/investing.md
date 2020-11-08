@@ -120,3 +120,4 @@
 - [lbPy](https://github.com/blampe/IbPy) - Python API for the Interactive Brokers on-line trading system.
 - [How to Break into Startup Investing (2020)](https://eriktorenberg.substack.com/p/how-to-break-into-startup-investing)
 - [Awesome Investing](https://github.com/mr-karan/awesome-investing)
+- [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity.
