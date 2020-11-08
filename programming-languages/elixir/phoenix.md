@@ -14,3 +14,4 @@
 - [Build a Video Chat App in Phoenix LiveView (2020)](https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-phoenix-liveview)
 - [The beauty of LiveView (2020)](https://dashbit.co/blog/the-beauty-of-liveview) ([Lobsters](https://lobste.rs/s/lgfrub/beauty_phoenix_liveview))
 - [Torch](https://github.com/mojotech/torch) - Rapid admin generator for Phoenix apps.
+- [Fireweed](https://github.com/rjdestigter/fireweed) - Exploration of building full stack single page application with Elixir and Phoenix LiveView.

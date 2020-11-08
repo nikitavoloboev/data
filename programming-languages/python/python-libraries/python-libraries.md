@@ -57,6 +57,7 @@
 ## Test
 
 - [scripttest](https://github.com/pypa/scripttest) - Library to help you test your interactive command-line applications.
+- [Coverage.py](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python.
 
 ## Other
 
@@ -203,6 +204,7 @@
 - [lambdas](https://github.com/dry-python/lambdas) - Write short and fully-typed lambdas where you need them.
 - [classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python.
 - [pluggy](https://github.com/pytest-dev/pluggy) - Minimalist production ready plugin system.
+- [crocs](https://github.com/iogf/crocs) - Introduces the concept of yregex that is a mean of implementing regex patterns using pure python classes. There are python classes for regex operators, these classes are grouped together to form your desired pattern.
 
 ## Links
 

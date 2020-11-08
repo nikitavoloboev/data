@@ -347,6 +347,7 @@
 - [Arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps. ([Web](https://arwes.dev/))
 - [psl (Public Suffix List)](https://github.com/lupomontero/psl) - JavaScript domain name parser based on the Public Suffix List.
 - [invariant-packages](https://github.com/apollographql/invariant-packages) - Packages for working with invariant(condition, message) assertions.
+- [evt](https://github.com/garronej/evt) - EventEmitter's typesafe replacement.
 
 ## Links
 

@@ -148,3 +148,4 @@
 - [A New Map of the Standard Model of Particle Physics (2020)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/) ([HN](https://news.ycombinator.com/item?id=24877612))
 - [What is Energy? Is Energy conserved? (2020)](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
 - [Why no one has measured the speed of light (2020)](https://www.youtube.com/watch?v=pTn6Ewhb27k)
+- [How to Become a Good Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)

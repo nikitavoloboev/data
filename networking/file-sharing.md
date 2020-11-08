@@ -39,3 +39,4 @@
 - [Magic Wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
 - [Send Anywhere](https://send-anywhere.com/) - File transfer.
 - [FileRoom](https://fileroom.io) - Browser File Transfer. Send files to anyone on the same WiFi or network that's on fileroom.io.
+- [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go.

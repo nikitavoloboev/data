@@ -503,6 +503,7 @@
 - [image2](https://github.com/zshipko/image2-rs) - Image processing library for Rust.
 - [ZEXE](https://github.com/scipr-lab/zexe) - Rust library for decentralized private computation.
 - [cargo-flash](https://github.com/probe-rs/cargo-flash) - Cargo extension for programming microcontrollers.
+- [object](https://github.com/gimli-rs/object) - Unified interface for reading and writing object file formats.
 
 ## Cargo Plugins
 

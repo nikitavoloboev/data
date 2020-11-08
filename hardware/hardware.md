@@ -129,3 +129,4 @@
 - [Transistor 2N2222: all you need to know (2020)](https://www.oshardware.net/2n2222/)
 - [Open Source Hardware](https://www.oshardware.net/) - Makers and STEM tutorials.
 - [Chips Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems. ([GitHub](https://github.com/chipsalliance))
+- [Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)

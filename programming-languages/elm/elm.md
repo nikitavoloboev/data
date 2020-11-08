@@ -45,3 +45,4 @@
 - [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code.
 - [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript declaration files for your elm ports.
 - [History and current state of Elm (2020)](https://www.youtube.com/watch?v=vHI7XlgmYCg)
+- [How I Write Elm Applications (2020)](https://jezenthomas.com/how-i-write-elm-applications/)

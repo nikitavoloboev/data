@@ -88,6 +88,10 @@
 - [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
 - [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
 
+## TS
+
+- [ts_ci](https://github.com/garronej/ts_ci) - Continus integration setup for TypeScript projects via GitHub Actions.
+
 ## Docker
 
 - [build-push-action](https://github.com/docker/build-push-action) - Builds and pushes Docker images and will log in to a Docker registry if required.
