@@ -147,3 +147,4 @@
 - [macOS Nix Setup (an alternative to Homebrew) (2020)](https://wickedchicken.github.io/post/macos-nix-setup/) ([Lobsters](https://lobste.rs/s/rtluby/macos_nix_setup_alternative_homebrew))
 - [update-nix-fetchgit](https://github.com/expipiplus1/update-nix-fetchgit) - Program to automatically update fetchgit values in Nix expressions.
 - [Cache install Nix packages](https://github.com/nix-actions/cache-install) - Use the GitHub Actions cache for Nix packages.
+- [nixbuild.net Action](https://github.com/nixbuild/nixbuild-action) - GitHub Action for using the nixbuild.net service.

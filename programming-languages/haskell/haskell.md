@@ -219,3 +219,4 @@
 - [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/))
 - [Real World Haskell](https://mmhaskell.com/real-world) ([HN](https://news.ycombinator.com/item?id=25005525))
 - [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
+- [Haskell eXchange 2020: Opening Keynote](https://www.youtube.com/watch?v=MEmRarBL9kw)

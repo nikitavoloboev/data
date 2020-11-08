@@ -119,3 +119,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [A Researcher’s Guide to Some Legal Risks of Security Research (2020)](https://clinic.cyber.harvard.edu/files/2020/10/Security_Researchers_Guide-2.pdf)
 - [Spacehuhn Technologies](https://spacehuhn.tech/) - Open Source Hacking Tools. ([GitHub](https://github.com/SpacehuhnTech))
 - [Security features of musl](https://dustri.org/b/security-features-of-musl.html) ([Lobsters](https://lobste.rs/s/yfsbbl/security_features_musl))
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
