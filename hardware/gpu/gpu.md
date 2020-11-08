@@ -31,3 +31,4 @@
 - [Detect GPU](https://github.com/TimvanScherpenzeel/detect-gpu) - Classify GPU's based on their benchmark score in order to provide an adaptive experience.
 - [Moana Motunui Renderer on GPU (2020)](https://www.render-blog.com/2020/10/03/gpu-motunui/) ([HN](https://news.ycombinator.com/item?id=24833218)) ([Code](https://github.com/chellmuth/gpu-motunui))
 - [GPUs on a Raspberry Pi Compute Module 4 (2020)](https://www.youtube.com/watch?v=ikpgZu6kLKE)
+- [Installing the world’s worst video card (2020)](https://www.youtube.com/watch?v=2iURr3NBprc) ([Lobsters](https://lobste.rs/s/n45htv/installing_world_s_worst_video_card))

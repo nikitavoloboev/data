@@ -72,3 +72,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Stereo](https://withstereo.com/) - Completely-free and community-driven project that lets you play & listen to music in sync with friends in public or private rooms. ([Code](https://github.com/hoangvvo/stereo-web))
 - [Bongo Cat](https://bongo.cat/) - Hit the bongos like Bongo Cat. ([HN](https://news.ycombinator.com/item?id=24866896))
 - [Endel](https://endel.io/) - Personalized environments that help you focus, relax, and sleep. ([Oleg Stavitsky - CEO of Endel (2020)](https://foundation-by-true-ventures.simplecast.com/episodes/oleg-stavitsky-ceo-of-endel-YFJlLv_d))
+- [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from any Spotify playlist, album or track.
