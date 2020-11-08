@@ -164,4 +164,4 @@
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Plugin for prettier to support formatting of PostgreSQL-flavour SQL.
 - [PGTune](https://pgtune.leopard.in.ua/#/) - Tuning PostgreSQL config by your hardware. ([Code](https://github.com/le0pard/pgtune))
 - [Book about PostgreSQL: tuning and scaling (Russian)](https://postgresql.leopard.in.ua/) ([Code](https://github.com/le0pard/postgresql_book))
-- [An Immutable Blog Application in PostgreSQL (2015)](https://kevinmahoney.co.uk/articles/immutable-data/)
+- [An Immutable Blog Application in PostgreSQL (2015)](https://kevinmahoney.co.uk/articles/immutable-data/) ([Lobsters](https://lobste.rs/s/0owjgi/immutable_blog_application_postgresql))

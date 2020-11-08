@@ -151,3 +151,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Type Scale](https://type-scale.com/) - Visual Type Scale Calculator. ([Code](https://github.com/jeremychurch/type-scale))
 - [Site-Speed Topography (2020)](https://csswizardry.com/2020/11/site-speed-topography/)
 - [Monotype](https://www.monotype.com/) - Font & Technology Specialists.
+- [Black Foundry](https://black-foundry.com/) - Combining design and technology, we create fonts that perform.
+- [TypeMedia](https://typemedia.org/) - MA in Type Design at the KABK.
+- [Arrow Type](https://www.arrowtype.com/) - Design & development for modern typography.

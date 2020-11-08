@@ -180,3 +180,4 @@
 - [Vector AI](https://getvectorai.com/) - Encode And Deploy Vectors At The Edge. ([Code](https://github.com/vector-ai/vectorhub))
 - [KeyBERT](https://github.com/MaartenGr/KeyBERT/) - Minimal keyword extraction with BERT. ([Web](https://maartengr.github.io/KeyBERT/))
 - [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://github.com/yaohungt/Multimodal-Transformer) - In PyTorch.
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models) (2020)](http://jalammar.github.io/illustrated-gpt2/)
