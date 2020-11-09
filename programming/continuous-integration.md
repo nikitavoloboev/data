@@ -23,3 +23,4 @@
 - [Waypoint](https://www.waypointproject.io/) - Build, deploy, and release applications across any platform. ([Code](https://github.com/hashicorp/waypoint)) ([Article](https://www.hashicorp.com/blog/announcing-waypoint)) ([HN](https://news.ycombinator.com/item?id=24790055)) ([Waypoint Plugin SDK](https://github.com/hashicorp/waypoint-plugin-sdk)) ([Waypoint Example Apps](https://github.com/hashicorp/waypoint-examples)) ([Waypoint Horizon API](https://github.com/hashicorp/waypoint-hzn)) ([Waypoint Plugin Kustomize](https://github.com/tcnksm/waypoint-plugin-kustomize))
 - [Buddy](https://buddy.works/) - DevOps Automation Platform.
 - [CDS](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go. ([Web](https://ovh.github.io/cds/))
+- [A tiny CI system (2020)](https://www.0chris.com/tiny-ci-system.html) ([Lobsters](https://lobste.rs/s/fbc6wl/tiny_ci_system))

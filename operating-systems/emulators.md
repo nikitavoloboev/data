@@ -2,7 +2,7 @@
 
 ## Links
 
-- [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html))
+- [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html)) ([Qemu 680x0 support](https://www.youtube.com/watch?v=s_ve0bCC9q4))
 - [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine & userspace emulator and virtualizer.
 - [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.

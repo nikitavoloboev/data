@@ -8,3 +8,4 @@
 - [Redwood Tutorial](https://github.com/redwoodjs/tutorial) - Create your first Redwood app.
 - [Redwood Talk and Demo by its Co-Author Peter Pistorius (2020)](https://www.youtube.com/watch?v=rAb0H-MD-Fs)
 - [Awesome Redwood](https://github.com/redwoodjs/awesome-redwood)
+- [Tom Preston-Werner on RedwoodJS | React Podcast (2020)](https://reactpodcast.simplecast.com/episodes/117)
