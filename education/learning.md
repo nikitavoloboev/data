@@ -79,4 +79,4 @@
 - [Lectures London](https://lectures.london/) - Academic lectures hosted by London universities.
 - [Opinionated Guides](https://opinionatedguide.github.io/#/) - Collection of educational un-textbooked, actually digestible pages on various topics. ([Code](https://github.com/opinionatedguide/opinionatedguide.github.io))
 - [Wikimedia](https://www.wikimedia.org/) - Global ‪movement‬ whose mission is to bring free educational content to the world. ([Phabricator](https://phabricator.wikimedia.org/))
-- [A Theory of Universal Learning (2020)](https://web.math.princeton.edu/~rvan/tri201106.pdf)
+- [A Theory of Universal Learning (2020)](https://web.math.princeton.edu/~rvan/tri201106.pdf) ([HN](https://news.ycombinator.com/item?id=25038485))

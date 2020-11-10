@@ -130,3 +130,4 @@
 - [Open Source Hardware](https://www.oshardware.net/) - Makers and STEM tutorials.
 - [Chips Alliance](https://chipsalliance.org/) - Common Hardware for Interfaces, Processors and Systems. ([GitHub](https://github.com/chipsalliance))
 - [Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit)
+- [What is a System-on-Chip (SoC), and why do we care if they are open source? (2020)](https://www.bunniestudios.com/blog/?p=5971) ([HN](https://news.ycombinator.com/item?id=25039013))

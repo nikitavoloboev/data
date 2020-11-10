@@ -186,3 +186,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Towards an automated changelog workflow (2020)](https://blog.yossarian.net/2020/11/05/Towards-an-automated-changelog-workflow)
 - [commit-autosuggestions](https://github.com/graykode/commit-autosuggestions) - Tool that AI automatically recommends commit messages.
 - [GOMP](https://github.com/MarkForged/GOMP) - Tool for comparing branches.
+- [This is how I git (2020)](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/) ([Lobsters](https://lobste.rs/s/0k1crw/this_is_how_i_git))

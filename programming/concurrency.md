@@ -22,3 +22,4 @@ Concurrency is the composition of independently executing computations.
 - [A Concurrency Cost Hierarchy (2020)](https://travisdowns.github.io/blog/2020/07/06/concurrency-costs.html)
 - [Lockless Algorithms for Mere Mortals](https://lwn.net/SubscriberLink/827180/a1c1305686bfea67/) ([HN](https://news.ycombinator.com/item?id=23983508))
 - [Structured Concurrency (2020)](https://ericniebler.com/2020/11/08/structured-concurrency/) ([HN](https://news.ycombinator.com/item?id=25032133))
+- [Why Concurrency Is Hard (2020)](https://medium.com/oreillymedia/why-concurrency-is-hard-f93104cad54b) ([HN](https://news.ycombinator.com/item?id=25024901))
