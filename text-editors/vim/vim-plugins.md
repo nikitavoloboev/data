@@ -105,6 +105,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Defx](https://github.com/Shougo/defx.nvim) - Dark powered file explorer implementation.
 - [coc-explorer](https://github.com/weirongxu/coc-explorer) - Explorer for coc.nvim.
 - [nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim.
+- [fzf-preview.vim](https://github.comfzf-preview.vim/yuki-ycino/fzf-preview.vim) - coc extensions and Neovim plugin that provides collection of features to assist file management using fzf.
 
 ## Looks
 

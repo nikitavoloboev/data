@@ -19,3 +19,8 @@
 - [The Relevance of Classic Fuzz Testing: Have We Solved This One? (2020)](https://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz2020.pdf)
 - [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-As-A-Service platform.
 - [Let’s build a high-performance fuzzer with GPUs (2020)](https://blog.trailofbits.com/2020/10/22/lets-build-a-high-performance-fuzzer-with-gpus/) ([HN](https://news.ycombinator.com/item?id=24858766))
+- [The Fuzzing Book](https://www.fuzzingbook.org/) - Tools and Techniques for Generating Software Tests.
+- [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels (2017)](https://github.com/RUB-SysSec/kAFL)
+- [libxdc (eXtremely fast DeCoder)](https://github.com/nyx-fuzz/libxdc) - Aims to be the best Intel-PT decoding library for fuzzing purposes.
+- [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
+- [Redqueen](https://github.com/RUB-SysSec/redqueen) - Fuzzing with Input-to-State Correspondence.

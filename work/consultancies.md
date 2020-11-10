@@ -138,6 +138,7 @@
 - [QuarkWorks](https://quarkworks.co/)
 - [Jayway](https://www.jayway.com/)
 - [Bad Idea Factory](https://biffud.com/)
+- [Shakacode](https://www.shakacode.com/) - Ruby on Rails, React, Gatsby and Reason development.
 
 ## Links
 

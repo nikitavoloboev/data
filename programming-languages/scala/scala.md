@@ -56,3 +56,4 @@
 - [ScalaZONE](https://scala.zone/) - Scala 3 Programming Language Courses.
 - [HN: Scala 3.0.0-M1 (2020)](https://news.ycombinator.com/item?id=24986396)
 - [Build your own Programming Language with Scala (2019)](https://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)
+- [Explicit term inference with Scala 3 (2020)](https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html) ([HN](https://news.ycombinator.com/item?id=25031870))

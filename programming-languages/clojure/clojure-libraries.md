@@ -36,6 +36,7 @@
 - [grasp](https://github.com/borkdude/grasp) - Grep Clojure code using clojure.spec regexes.
 - [sicmutils](https://github.com/littleredcomputer/sicmutils) - Clojure(script) implementation of the Scmutils system for math and physics investigations in the Clojure language.
 - [abclj](https://github.com/lsevero/abclj) - Clojure to Common lisp interop.
+- [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding.
 
 ## Links
 

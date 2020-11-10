@@ -17,6 +17,7 @@
 - [Unknown Worlds](https://unknownworlds.com/)
 - [Hive Games](https://hivegames.io/)
 - [Lazy Bear Games](http://lazybeargames.com/)
+- [Rarebyte](https://www.rarebyte.com/)
 
 ## Notes
 

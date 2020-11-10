@@ -80,7 +80,7 @@
 - [Going faster than TensorFlow with Clojure (2020)](https://dragan.rocks/articles/20/Going-faster-than-TensorFlow-with-Clojure)
 - [Simulating Machines in Clojure](https://stopa.io/post/255) ([HN](https://news.ycombinator.com/item?id=24701737))
 - [Clojure projects with the REPL (2020)](https://www.youtube.com/watch?v=7muHVkxzZcE)
-- [Practicalli](https://practicalli.github.io/) - Practical approaches to learning Functional Programming with Clojure.
+- [Practicalli](https://practicalli.github.io/) - Practical approaches to learning Functional Programming with Clojure. ([GitHub](https://github.com/practicalli))
 - [Salza λiquid text editor](https://github.com/mogenslund/liquid) - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
 - [Clojure Rich Comment Blocks (2020)](https://betweentwoparens.com/rich-comment-blocks)
 - [Metosin GitHub projects](https://github.com/metosin) - Small house of programmers, mostly Clojure(Script).
@@ -90,3 +90,4 @@
 - [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) ([HN](https://news.ycombinator.com/item?id=24940838))
 - [Learning Clojure in Public](https://github.com/alaq/learning-clojure-in-public)
 - [Transducers! But can I thread?](https://telescope.ac/nobody-watching/transducers) ([Lobsters](https://lobste.rs/s/zhp280/transducers_can_i_thread))
+- [Practicalli Clojure deps.edn](https://github.com/practicalli/clojure-deps-edn) - Collection of useful configuration and aliases for deps.edn based projects.

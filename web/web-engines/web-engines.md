@@ -12,3 +12,4 @@
 - [Understanding Map Internals (2020)](https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df)
 - [Learning Google V8](https://github.com/danbev/learning-v8)
 - [V8 Optimized Language Features](https://github.com/thlorenz/v8-perf/blob/master/language-features.md) ([HN](https://news.ycombinator.com/item?id=25016362))
+- [Lexbor](https://github.com/lexbor/lexbor) - Development of web browser engine available as a software library. Open source HTML Renderer library. ([Web](http://lexbor.com/))

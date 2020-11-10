@@ -139,3 +139,4 @@
 - [keytar](https://github.com/atom/node-keytar) - Native Node module to get, add, replace, and delete passwords in system's keychain.
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or sequential.
 - [mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
+- [NPM Trends](https://www.npmtrends.com/) - Compare NPM package downloads. ([Code](https://github.com/johnmpotter/npm-trends))

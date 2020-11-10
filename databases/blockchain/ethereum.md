@@ -81,7 +81,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [A Closer Look at Software Canisters, an Evolution of Smart Contracts (2020)](https://medium.com/dfinity/software-canisters-an-evolution-of-smart-contracts-internet-computer-f1f92f1bfffb)
 - [Building on Ethereum Mainnet - An Opinionated Guide (2020)](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
 - [ethereum-cryptography](https://github.com/ethereum/js-ethereum-cryptography) - Every cryptographic primitive needed to work on Ethereum, for the browser and Node.
-- [Fe](https://github.com/ethereum/fe) - Emerging smart contract language for the Ethereum blockchain.
+- [Fe](https://github.com/ethereum/fe) - Emerging smart contract language for the Ethereum blockchain. ([Docs](http://fe.ethereum.org/fe/index.html))
 - [Trinity Ethereum Client](https://github.com/ethereum/trinity)
 - [Solidity](https://github.com/ethereum/solidity) - Contract-Oriented Programming Language. ([Docs](https://solidity.readthedocs.io/))
 - [EVM Opcodes](https://github.com/wolflo/evm-opcodes) - Quick reference for EVM opcodes.

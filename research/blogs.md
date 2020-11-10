@@ -52,6 +52,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Fabian Tamp](https://capnfabs.net/posts/)
 - [Vitalik Buterin](https://vitalik.ca/) ([Code](https://github.com/vbuterin/blog))
 - [NSHipster](https://nshipster.com/)
+- [Cloudflare Blog](https://blog.cloudflare.com/) ([Code samples](https://github.com/cloudflare/cloudflare-blog))
 
 ## Links
 

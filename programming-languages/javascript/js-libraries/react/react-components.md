@@ -110,7 +110,7 @@
 - [SWR + Firestore](https://github.com/nandorojo/swr-firestore) - Implement Vercel's useSWR for querying Firestore in React/React Native/Expo apps.
 - [react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - Splittable, draggable, collapsible panel layout library.
 - [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
-- [Formik](https://github.com/formium/formik) - Build forms in React, without the tears. ([Formik vs Plain React for Forms – Worth it?](https://www.bitnative.com/2020/08/19/formik-vs-plain-react-for-forms-worth-it/))
+- [Formik](https://github.com/formium/formik) - Build forms in React, without the tears. ([Formik vs Plain React for Forms – Worth it?](https://www.bitnative.com/2020/08/19/formik-vs-plain-react-for-forms-worth-it/)) ([Formik Devtools](https://github.com/petrenkoVitaliy/formik-devtools))
 - [FullCalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop JavaScript event calendar.
 - [React DnD](https://github.com/react-dnd/react-dnd/) - Drag and Drop for React. ([The secret is it’s just one flat list with pointers and css to make it look nested](https://twitter.com/peterpme/status/1314960743964512259)) ([Multi List Drag and Drop With react-beautiful-dnd, Immer, and useReducer](https://codedaily.io/tutorials/186/Multi-List-Drag-and-Drop-With-react-beautiful-dnd-Immer-and-useReducer))
 - [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) - React wrapper components for smooth-dnd.

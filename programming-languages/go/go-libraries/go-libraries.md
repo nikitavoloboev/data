@@ -577,6 +577,10 @@
 - [go-edn](https://github.com/go-edn/edn) - Go implementation of EDN.
 - [Machine](https://github.com/autom8ter/machine) - Zero dependency library for highly concurrent Go applications. It is inspired by errgroup.Group with extra bells & whistles.
 - [go-tc](https://github.com/florianl/go-tc) - Traffic control in pure go - it allows to read and alter queues, filters and classes.
+- [go-version](https://github.com/aquasecurity/go-version) - Library for parsing versions and version constraints, and verifying versions against a set of constraints.
+- [qs](https://github.com/sonh/qs) - Go module for encoding structs into URL query parameters.
+- [Enumer](https://github.com/alvaroloes/enumer) - Tool to auto generate methods for your enums.
+- [OpenTelemetry-Go Contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of 3rd-party instrumentation and exporters for OpenTelemetry-Go.
 
 ## Links
 

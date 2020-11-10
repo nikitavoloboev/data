@@ -209,6 +209,9 @@
 - [crocs](https://github.com/iogf/crocs) - Introduces the concept of yregex that is a mean of implementing regex patterns using pure python classes. There are python classes for regex operators, these classes are grouped together to form your desired pattern.
 - [pydash](https://github.com/dgilland/pydash) - Kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash JavaScript library.
 - [Googletrans](https://github.com/ssut/py-googletrans) - Free and unlimited python library that implemented Google Translate API.
+- [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for asyncio.
+- [Promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python.
+- [JSON Schema-powered type annotations](https://github.com/erickpeirson/jsonschema-typed)
 
 ## Links
 

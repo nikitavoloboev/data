@@ -9,6 +9,10 @@
 - [Sihl](https://github.com/oxidizing/sihl) - Web framework for Reason.
 - [Tenzir UI Component Library](https://github.com/tenzir/ui-component-library) - ReasonML-first UI Component Library.
 
+## Test
+
+- [ReScriptTest](https://github.com/bloodyowl/rescript-test) - Lightweight test framework for ReScript.
+
 ## Other
 
 - [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml.

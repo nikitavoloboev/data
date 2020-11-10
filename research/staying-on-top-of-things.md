@@ -124,6 +124,7 @@ And these Discord servers:
 - [Morning Brew](https://www.morningbrew.com/)
 - [dev.to](https://dev.to/) ([dev.to is now open source](https://dev.to/ben/devto-is-now-open-source-5n1)) ([Code](https://github.com/forem/forem))
 - [NPR](https://www.npr.org/)
+- [HackerDaily](https://hackerdaily.io/) - More informative and less addictive Hacker News. ([HN](https://news.ycombinator.com/item?id=25046037))
 
 ## Links
 

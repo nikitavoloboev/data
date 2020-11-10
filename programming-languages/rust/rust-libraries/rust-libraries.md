@@ -509,6 +509,10 @@
 - [fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences.
 - [rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust.
 - [scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors.
+- [rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust.
+- [anchors](https://github.com/lord/anchors) - Self adjusting computations in rust.
+- [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - Memory allocator written in pure Rust for GPU memory in Vulkan and in the future DirectX 12.
+- [rspirv-reflect](https://github.com/Traverse-Research/rspirv-reflect) - Minimal SPIR-V reflection library.
 
 ## Cargo Plugins
 
@@ -527,6 +531,7 @@
 - [cargo-lipo](https://github.com/TimNN/cargo-lipo) - Cargo subcommand to automatically create universal libraries for iOS.
 - [cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion.
 - [rust-script](https://github.com/fornwall/rust-script) - Rust files and expressions as scripts without any setup or compilation step. ([Web](https://rust-script.org/))
+- [cargo-limit](https://github.com/alopatindev/cargo-limit) - Cargo with less noise: warnings are skipped until errors are fixed, etc.
 
 ## Links
 

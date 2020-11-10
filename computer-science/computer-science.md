@@ -31,7 +31,7 @@
 - [BaseCS](https://medium.com/basecs) - Exploring the basics of computer science, every Monday, for a year.
 - [Falsehoods CS Students (Still) Believe Upon Graduating (2019)](https://www.netmeister.org/blog/cs-falsehoods.html)
 - [Simple, quick cheat sheets on CS concepts](https://github.com/aspittel/coding-cheat-sheets)
-- [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester)) ([Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)) ([HN](https://news.ycombinator.com/item?id=22226380)) ([In Russian](https://github.com/danlark1/hse_missing_cs_education))
+- [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester)) ([Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)) ([HN](https://news.ycombinator.com/item?id=22226380)) ([In Russian](https://github.com/danlark1/hse_missing_cs_education)) ([Videos Code](https://github.com/missing-semester/videos))
 - [How These Things Work - A book about CS from first principles (2016)](https://reasonablypolymorphic.com/book/preface) ([HN](https://news.ycombinator.com/item?id=22346349))
 - [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/) ([Code](https://github.com/ianw/bottomupcs))
@@ -82,3 +82,4 @@
 - [Weekly CS Paper](https://simon-frey.com/weeklycspaper/) - Get a computer science paper every Friday.
 - [Foundations of Computer Science (1992)](http://infolab.stanford.edu/~ullman/focs.html)
 - [Program and Data Representation course](https://aaronbloomfield.github.io/pdr/readme.html) ([Code](https://github.com/uva-cs/pdr))
+- [Foundations of Computer Science annual conference (2020)](https://focs2020.cs.duke.edu/program/)

@@ -67,9 +67,11 @@
 - [Happy](https://github.com/simonmar/happy) - Parser generator for Haskell.
 - [massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation.
 - [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes Haskell.
+- [unliftio](https://github.com/fpco/unliftio) - MonadUnliftIO typeclass for unlifting monads to IO.
 
 ## Links
 
 - [Hackage](https://hackage.haskell.org/) - Haskell Package Repository. ([Code](https://github.com/haskell/hackage-server))
 - [Aelve Haskell packages search](https://codesearch.aelve.com/haskell) - Grep over package repositories.
 - [Monadoc](https://github.com/tfausak/monadoc) - Better Haskell documentation.
+- [Stackage](https://www.stackage.org/) - Distribution of compatible Haskell packages from Hackage that build together. ([Code](https://github.com/commercialhaskell/stackage))

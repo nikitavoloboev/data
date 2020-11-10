@@ -62,6 +62,9 @@
 - [Image Actions](https://github.com/calibreapp/image-actions) - Automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [GitHub Actions](https://github.com/LouisBrunner/checks-action) - Allows you to create Check Runs directly from your GitHub Action workflow.
 - [Codecov](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov.
+- [Upload to Apple's TestFlight service](https://github.com/Apple-Actions/upload-testflight-build) - GitHub Action that Uploads a build to Apple TestFlight.
+- [Commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard.
+- [Release Please Action](https://github.com/google-github-actions/release-please-action) - Automate releases with Conventional Commit Messages.
 
 ## Go
 
@@ -163,3 +166,5 @@
 - [Tidymodels DVC Mashup (2020)](https://loppsided.blog/posts/2020-10-26-tidymodels-dvc-mashup/) - Using Github Actions and Data Version Control for ModelOps in R.
 - [GitHub Actions VS Code extension](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions) - Simple, unofficial extension to interact with GitHub Actions from within VS Code. ([Code](https://github.com/cschleiden/vscode-github-actions))
 - [Become a GitHub Actions Hero](https://github-actions-hero.now.sh/) - Small, interactive tutorial for the GitHub Actions workflow syntax with an emulated workflow parser and runner. ([Code](https://github.com/cschleiden/github-actions-hero))
+- [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions)
+- [Google GitHub Actions](https://github.com/google-github-actions)

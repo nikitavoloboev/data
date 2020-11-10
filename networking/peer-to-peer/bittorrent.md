@@ -39,3 +39,5 @@
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - Little app to search for torrents on popular trackers and to open them with a local or a remote client.
 - [distribyted](https://github.com/distribyted/distribyted) - Torrent client with on-demand file downloading as a filesystem.
 - [TorrentFreak](https://torrentfreak.com/) - Blog dedicated to reporting the latest news and trends on the BitTorrent protocol and file sharing.
+- [TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server.
+- [Emonoda](https://github.com/mdevaev/emonoda) - Set of tools to organize and manage your torrents.

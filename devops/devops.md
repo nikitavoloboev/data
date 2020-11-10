@@ -43,3 +43,4 @@
 - [Gravitational](https://gravitational.com/) - Remote Access and Secure Deployments.
 - [DeployHQ](https://www.deployhq.com/) - Automatically build and deploy code from your repositories.
 - [Cooking Infrastructure by Chef](http://chef.leopard.in.ua/) ([Code](https://github.com/le0pard/chef_book))
+- [Unleash](https://github.com/Unleash/unleash) - Open source feature toggle service. ([Web](https://unleash.github.io/))

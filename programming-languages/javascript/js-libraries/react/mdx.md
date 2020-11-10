@@ -12,3 +12,4 @@
 - [Using React hooks in MDX (2020)](https://dev.to/sebastienlorber/using-react-hooks-in-mdx-4ei6)
 - [MDXConf](https://mdxjs.com/conf/) - Official MDX conference.
 - [next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js.
+- [Dynamic Authoring with MDX (2020)](https://dynamicauthoring.netlify.app/slides/1) - Presentation on how developers can use MDX to supercharge their technical writing. ([Code](https://github.com/M0nica/dynamic-authoring-with-mdx))

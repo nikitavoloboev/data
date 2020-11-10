@@ -46,3 +46,5 @@
 - [Sweetviz](https://github.com/fbdesignpro/sweetviz) - Visualize and compare datasets, target values and associations, with one line of code.
 - [SuperAnnotate](https://superannotate.com/) - Fastest annotation platform for training AI.
 - [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow.
+- [Objectron Dataset](https://github.com/google-research-datasets/Objectron) - Dataset of short object centeric video clips with pose annotations.
+- [Google Research Datasets](https://github.com/google-research-datasets)

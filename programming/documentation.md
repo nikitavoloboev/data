@@ -77,3 +77,4 @@
 - [MyST](https://myst-parser.readthedocs.io/en/latest/) - Fully-functional markdown flavor and parser for Sphinx. ([Code](https://github.com/executablebooks/MyST-Parser))
 - [DocuAPI](https://github.com/bep/docuapi) - Beautiful multilingual API documentation theme for Hugo.
 - [Make a readme](https://www.makeareadme.com/) - Explains what a readme is, what the benefits are, and what makes for a good readme. ([Code](https://github.com/dguo/make-a-readme))
+- [On Apple's Piss-Poor Documentation (2020)](https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation) ([HN](https://news.ycombinator.com/item?id=25046691))

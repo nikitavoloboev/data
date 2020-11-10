@@ -33,6 +33,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 
 ## Links
 
+- [arXiv.org](https://arxiv.org/) - Free distribution service and an open-access archive of research papers. ([GitHub](https://github.com/arxiv))
 - [Arxiv Vanity](https://www.arxiv-vanity.com/) - Renders academic papers from Arxiv as responsive web pages.
 - [Fermat’s Library](https://fermatslibrary.com/) - Software to help illuminate academic papers.
 - [Fatcat](https://fatcat.wiki/) - Versioned, user-editable catalog of research publications: journal articles, conference proceedings, pre-prints, etc. [Code](https://github.com/internetarchive/fatcat).
@@ -63,3 +64,10 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Annotated Research Papers](https://github.com/AakashKumarNain/annotated_research_papers)
 - [Paper2code](https://paper2code.com/) - Explore top-rated papers, source code and set real-time alerts.
 - [scholarly](https://github.com/scholarly-python-package/scholarly) - Retrieve author and publication information from Google Scholar in a friendly, Pythonic way.
+- [arXiv Search](https://github.com/arXiv/arxiv-search) - ArXiv Search UI & APIs. ([Docs](https://arxiv.github.io/arxiv-search/))
+- [arXiv Browse](https://github.com/arXiv/arxiv-browse)
+- [arXiv Docs](https://github.com/arXiv/arxiv-docs)
+- [arXiv Blog](https://blog.arxiv.org/category/arxiv-ng/)
+- [arXiv Base](https://github.com/arXiv/arxiv-base) - Provides a base Flask application and base Docker image for arXiv-NG services.
+- [arXiv Submission UI](https://github.com/arXiv/arxiv-submission-ui) - Primary interface for arXiv users to submit e-prints to arXiv. It is comprised of a Flask application built around the submission core events package.
+- [arXiv Submission](https://github.com/arXiv/arxiv-submission-core) - Houses development related to the arXiv-NG submission system.

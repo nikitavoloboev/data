@@ -366,3 +366,5 @@
 - [A practical guide to async in Rust (2020)](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
 - [Why Dark didn't choose Rust (2020)](https://blog.darklang.com/why-dark-didnt-choose-rust/) ([Lobsters](https://lobste.rs/s/sjclgv/why_dark_didn_t_choose_rust)) ([HN](https://news.ycombinator.com/item?id=24991848))
 - [The Fatal Flaw of Ownership Semantics (2020)](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/) ([HN](https://news.ycombinator.com/item?id=24979129))
+- [Error Handling in Rust (2015)](https://blog.burntsushi.net/rust-error-handling/)
+- [Rust Forge](https://forge.rust-lang.org/#rust-forge) - Information useful to people contributing to Rust. ([Code](https://github.com/rust-lang/rust-forge))

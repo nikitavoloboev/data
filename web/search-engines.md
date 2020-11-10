@@ -10,6 +10,7 @@
 - [MeiliSearch JavaScript Client](https://github.com/meilisearch/meilisearch-js)
 - [MeiliSearch React](https://github.com/meilisearch/meilisearch-react) - Integrate a front-end search bar in your React application using MeiliSearch.
 - [MeiliSearch Go](https://github.com/meilisearch/meilisearch-go) - MeiliSearch API client written for Go.
+- [Hands on with: MeiliSearch - A next generation search engine for modern web (2020)](https://codefibershq.com/blog/hands-on-meilisearch-a-next-generation-search-engine-for-modern-web)
 - [The Joy of Search](https://mitpress.mit.edu/books/joy-search) - Google Insider's Guide to Going Beyond the Basics.
 - [searX](https://searx.me/) - Metasearch engine, aggregating the results of other search engines while not storing information about its users.
 - [DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo) - Modeled Google and Bing to build a distributed search engine for the dark web.

@@ -124,3 +124,4 @@
 - [EvoStrat](https://github.com/rasmusbergpalm/evostrat) - Library that makes Evolutionary Strategies (ES) simple to use.
 - [Alpha Zero Boosted](https://github.com/cgreer/alpha-zero-boosted) - "build to learn" implementation of the Alpha Zero algorithm written in Python that uses LightGBM (Gradient Boosted Decision Trees) in place of a Deep Neural Network for value/policy functions.
 - [XingTian](https://github.com/huawei-noah/xingtian) - Componentized library for the development and verification of reinforcement learning algorithms.
+- [Theoretical Foundations of Reinforcement Learning (2020)](https://www.youtube.com/watch?v=_-aeyeBYz1s)

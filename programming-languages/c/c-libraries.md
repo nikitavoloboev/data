@@ -40,3 +40,4 @@
 - [FlatCC](https://github.com/dvidelabs/flatcc) - FlatCC FlatBuffers in C for C.
 - [libusb](https://github.com/libusb/libusb) - Cross-platform library to access USB devices. ([Web](https://libusb.info/))
 - [GIF encoder](https://github.com/lecram/gifenc) - Small C library that can be used to create GIF animations.
+- [libnfc](https://github.com/nfc-tools/libnfc) - Library which allows userspace application access to NFC devices. ([Web](http://nfc-tools.org/index.php/Main_Page))

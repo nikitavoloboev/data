@@ -146,3 +146,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Color correction and non-linear video editing application.
 - [YouTube Downloader](https://youtubedld.com/) - Free and efficient YouTube downloader. ([HN](https://news.ycombinator.com/item?id=25024849))
 - [Gather.Town](https://gather.town/) - Spatial video chat for remote teams. ([HN](https://news.ycombinator.com/item?id=25039370))
+- [Video Renderer](https://github.com/ThreadsStyling/video-renderer) - Unified interface for expressing rendering streams for ffmpeg and canvas.
+- [Vidar](https://github.com/clabe45/vidar) - Extendable video-editing framework for the browser.

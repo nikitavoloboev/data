@@ -230,6 +230,7 @@
 - [Intent to stop using 'null' in my JS code](https://github.com/sindresorhus/meta/issues/7) ([HN](https://news.ycombinator.com/item?id=24956156))
 - [What Makes JavaScript JavaScript? Prototypal Inheritance (2020)](https://dmitripavlutin.com/javascript-prototypal-inheritance/)
 - [ni](https://github.com/antfu/ni) - Use the right package manager. Detect whether to use npm/yarn/pnpm.
-- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/?ref=hackernews)
+- [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/)
 - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
 - [JS Operator Lookup](https://joshwcomeau.com/operator-lookup/) - Search JavaScript Operators.
+- [The state of JavaScript at the end of 2020](https://www.ideamotive.co/javascript-business-guide) ([HN](https://news.ycombinator.com/item?id=25046293))

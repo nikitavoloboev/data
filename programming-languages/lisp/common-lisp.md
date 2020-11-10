@@ -31,3 +31,4 @@
 - [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
 - [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.
 - [Opinionated Common Lisp Resources 2020](https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a)
+- [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)

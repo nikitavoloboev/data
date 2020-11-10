@@ -97,3 +97,4 @@
 - [AMaCC](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable Arm architecture, supporting JIT execution.
 - [How to C (as of 2016)](https://matt.sh/howto-c)
 - [Demystifying malloc (2020)](https://river.codes/demystifying-malloc/)
+- [Past, Present and Future of Effective C (2020)](https://research.nccgroup.com/2020/11/10/past-present-and-future-of-effective-c/)

@@ -71,6 +71,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [eul](https://github.com/gao-sun/eul) - macOS status monitoring app written in SwiftUI.
 - [VirtualKVM](https://github.com/duanefields/VirtualKVM) - Automatically toggles Bluetooth and Target Display Mode when you connect a Macbook to your iMac via Thunderbolt.
 - [Keycastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.
+- [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 
 ## Other interesting apps
 

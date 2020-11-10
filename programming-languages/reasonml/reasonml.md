@@ -65,3 +65,4 @@
 - [ReScript Docs](https://rescript-lang.org/docs/latest) ([Code](https://github.com/reason-association/rescript-lang.org))
 - [Easy cross compilation using esy [Reason/OCaml] (2020)](https://discuss.ocaml.org/t/ann-easy-cross-compilation-using-esy/6612)
 - [ReScript Syntax](https://github.com/rescript-lang/syntax) - ReScript parser & printer.
+- [Rust ReScript Demo](https://github.com/shakacode/rust-rescript-demo)

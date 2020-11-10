@@ -150,3 +150,4 @@
 - [GraphQL website code](https://github.com/graphql/graphql.github.io)
 - [Why not use GraphQL? (2020)](https://wundergraph.com/blog/why_not_use_graphql) ([HN](https://news.ycombinator.com/item?id=25014582))
 - [GraphQL Helix](https://github.com/contrawork/graphql-helix) - Collection of utility functions for building your own GraphQL HTTP server.
+- [Caching Strategies in a Federated GraphQL Architecture (2020)](https://www.apollographql.com/blog/caching-strategies-in-a-federated-graphql-architecture/)

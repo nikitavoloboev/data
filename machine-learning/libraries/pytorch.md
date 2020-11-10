@@ -163,3 +163,4 @@
 - [SpykeTorch](https://github.com/miladmozafari/SpykeTorch) - High-speed simulator of convolutional spiking neural networks with at most one spike per neuron.
 - [PyTorch Loss](https://github.com/CoinCheung/pytorch-loss) - Label-smooth, amsoftmax, focal-loss, triplet-loss.
 - [Cleora](https://github.com/Synerise/cleora) - Faster alternative to PyTorch-BigGraph.
+- [The Original Transformer (PyTorch)](https://github.com/gordicaleksa/pytorch-original-transformer)

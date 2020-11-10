@@ -71,3 +71,4 @@
 - [Awesome Single Cell](https://github.com/seandavi/awesome-single-cell) - Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
 - [MacLean Lab](http://macleanlab.usc.edu/) - Stem Cell Systems Biology Research.
 - [Cahan Lab](http://www.cahanlab.org/) - Stem cell engineering, developmental biology, and cancer biology research.
+- [Tufts Uni: Levin Biology Lab](https://ase.tufts.edu/biology/labs/levin/Default.htm) - Investigating information storage and processing in biological systems.

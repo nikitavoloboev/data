@@ -112,3 +112,4 @@
 - [AssemblyLift](https://github.com/akkoro/assemblylift) - Framework for building serverless applications powered by WebAssembly.
 - [WebAssembly Design Docs](https://github.com/WebAssembly/design)
 - [Speed up Python with Rust via WebAssembly](https://github.com/savarin/bridge)
+- [V8 WASM Compilation Pipeline (2020)](https://v8.dev/docs/wasm-compilation-pipeline)

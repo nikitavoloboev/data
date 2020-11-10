@@ -50,3 +50,4 @@
 - [Anyone interested in investing?](https://twitter.com/EmilyKager/status/1318738958675685378)
 - [Cyberpunk 2077 Russian Version](https://www.youtube.com/watch?v=LKUbfCYIy4o)
 - [Cyberpunk 2077 Winter in Russia](https://www.youtube.com/watch?v=P0qNajA1R2c)
+- [Developing node.js app be like](https://twitter.com/nixcraft/status/1326077772117078018)

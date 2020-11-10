@@ -54,3 +54,5 @@
 - [Django Doctor](https://django.doctor/) - Django GitHub PR bot that suggest the fix.
 - [Django’s Structure – A Heretic’s Eye View](https://djangobook.com/mdj2-django-structure/)
 - [Django Book](https://djangobook.com/) - Python Django Tutorials.
+- [Blazing fast tests in Django (2018)](https://dizballanze.com/django-blazing-fast-tests/)
+- [Django project optimization guide (2017)](https://dizballanze.com/django-project-optimization-part-1/)

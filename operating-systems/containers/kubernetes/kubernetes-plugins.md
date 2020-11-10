@@ -12,6 +12,7 @@
 - [Kube-secret-syncer](https://github.com/contentful-labs/kube-secret-syncer) - Kubernetes operator to sync secrets from AWS Secrets Manager. ([HN](https://news.ycombinator.com/item?id=24855569))
 - [kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin lists allocations for resources (cpu, memory, gpu,...) as defined into the manifest of nodes and running pods.
 - [Helm mapkubeapis Plugin](https://github.com/hickeyma/helm-mapkubeapis) - Map deprecated or removed Kubernetes APIs in a release to supported APIs.
+- [Secret Manager](https://github.com/itscontained/secret-manager) - Kubernetes add-on to automate the creation and renewal of secrets from various external secret sources.
 
 ## Links
 
