@@ -58,6 +58,7 @@
 - [Combinatorics Algorithms for Coding Interviews (2018)](https://sahandsaba.com/combinatorial-generation-for-coding-interviews-in-python.html)
 - [Algorithms written in different programming languages](https://github.com/ZoranPandovski/al-go-rithms) ([Web](https://zoranpandovski.github.io/al-go-rithms/))
 - [Solving the Sequence Alignment problem in Python (2020)](https://johnlekberg.com/blog/2020-10-25-seq-align.html)
+- [The Sound of Sorting](https://github.com/bingmann/sound-of-sorting) - Visualization and "Audibilization" of Sorting Algorithms. ([Web](https://panthema.net/2013/sound-of-sorting/))
 
 ## Images
 

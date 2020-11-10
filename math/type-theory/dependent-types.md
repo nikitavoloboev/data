@@ -35,3 +35,4 @@
 - [dreamtt](https://github.com/jonsterling/dreamtt) - Pedagogic implementation of abstract bidirectional elaboration for dependent type theory.
 - [Metagen](https://github.com/thautwarm/Metagen) - Dependently type-safe code generator.
 - [Gradual Dependently Typed Language](https://github.com/JoeyEremondi/GDTL-artifact)
+- [Dependent types to code are what static types to data (2020)](https://www.poberezkin.com/posts/2020-09-04-dependent-types-to-code-are-what-static-types-to-data.html)

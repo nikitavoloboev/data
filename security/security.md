@@ -120,3 +120,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Spacehuhn Technologies](https://spacehuhn.tech/) - Open Source Hacking Tools. ([GitHub](https://github.com/SpacehuhnTech))
 - [Security features of musl](https://dustri.org/b/security-features-of-musl.html) ([Lobsters](https://lobste.rs/s/yfsbbl/security_features_musl))
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/)
+- [Infection Monkey](https://github.com/guardicore/monkey) - Open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection.
+- [Clean up your digital hygiene (2020)](https://luminousmen.com/post/clean-up-your-digital-hygiene)

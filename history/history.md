@@ -71,3 +71,4 @@
 - [Old Computer Podcasts](http://oldcomputerpods.com/) - Find Shows About Computing's Past.
 - [Cities of the world at the beginning of the 20th century (and end of 19th century)](https://twitter.com/JoaquimCampa/status/1251243294157348864)
 - [If Sapiens were a blog post (2019)](https://neilkakkar.com/sapiens.html)
+- [Reddit AskHistorians – Master History Book List](https://www.reddit.com/r/AskHistorians/comments/timi4/the_askhistorians_master_book_list/)

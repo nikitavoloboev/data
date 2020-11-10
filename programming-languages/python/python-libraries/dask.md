@@ -18,3 +18,5 @@
 - [Coiled: Dask for Everyone, Everywhere (2020)](https://medium.com/coiled-hq/coiled-dask-for-everyone-everywhere-376f5de0eff4)
 - [Coiled](https://coiled.io/) - Scaling Python Simply.
 - [Coiled Cloud](https://cloud.coiled.io/)
+- [Runtime vs Scheduler: Analyzing Dask's Overheads (2020)](https://arxiv.org/abs/2010.11105)
+- [Dask Helm Charts](https://github.com/dask/helm-chart) ([Web](https://helm.dask.org/))

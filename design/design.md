@@ -145,4 +145,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [PatternPad](https://patternpad.com/) - Create beautiful patterns for presentations, social media or branding.
 - [InVision](https://www.invisionapp.com/) - Digital product design, workflow & collaboration.
 - [Canva](https://www.canva.com/) - Collaborate & Create Amazing Graphic Design for Free.
-- [Chasing the Pixel-Perfect Dream (2020)](https://joshwcomeau.com/css/pixel-perfection/)
+- [Chasing the Pixel-Perfect Dream (2020)](https://joshwcomeau.com/css/pixel-perfection/) ([HN](https://news.ycombinator.com/item?id=25023282))

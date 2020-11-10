@@ -103,3 +103,4 @@
 - [Text layout is a loose hierarchy of segmentation (2020)](https://raphlinus.github.io/text/2020/10/26/text-layout.html) ([HN](https://news.ycombinator.com/item?id=24906010))
 - [Bundler](https://github.com/snavely/bundler_sfm) - Bundler Structure from Motion Toolkit.
 - [CMU Computer Graphics course (2020)](http://15462.courses.cs.cmu.edu/fall2020/) ([Exams](http://15462.courses.cs.cmu.edu/fall2020content/exams/)) ([Tweet](https://twitter.com/keenanisalive/status/1321397305514332161))
+- [Nvdiffrast](https://github.com/NVlabs/nvdiffrast) - Modular Primitives for High-Performance Differentiable Rendering.

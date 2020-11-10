@@ -130,3 +130,4 @@
 - [HexRaysDeob](https://github.com/RolfRolles/HexRaysDeob) - Hex-Rays microcode API plugin for breaking an obfuscating compiler.
 - [Compiler notes (focusing on Haskell)](https://crypto.stanford.edu/~blynn/compiler/)
 - [Minicompiler: Lexing (2020)](https://christine.website/blog/minicompiler-lexing-2020-10-29)
+- [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)

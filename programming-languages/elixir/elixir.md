@@ -58,3 +58,4 @@
 - [Cursed Elixir (2020)](https://evuez.github.io/posts/cursed-elixir.html) ([HN](https://news.ycombinator.com/item?id=24818706))
 - [Learn Elixir: The Ultimate Guide (2020)](https://serokell.io/blog/learn-elixir)
 - [DepViz](https://github.com/axelson/dep_viz) - Visual tool to understand Elixir recompilation. ([Web](https://dep-viz.herokuapp.com/))
+- [Elixir Flavoured Erlang: an Erlang to Elixir Transpiler (2020)](http://marianoguerra.org/posts/elixir-flavoured-erlang-an-erlang-to-elixir-transpiler/)

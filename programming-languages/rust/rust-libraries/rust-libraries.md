@@ -9,6 +9,7 @@
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
 - [StructOpt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [pico-args](https://github.com/RazrFalcon/pico-args) - Ultra simple CLI arguments parser.
+- [termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
 
 ## Web
 
@@ -32,6 +33,7 @@
 - [http-types](https://github.com/http-rs/http-types) - Common types for HTTP operations.
 - [Dropshot](https://github.com/oxidecomputer/dropshot) - General-purpose crate for exposing REST APIs from a Rust program.
 - [localghost](https://github.com/mild-times/localghost) - Ergonomic Rust bindings to the Web platform.
+- [hyper-rustls](https://github.com/ctz/hyper-rustls) - Integration between the rustls TLS stack and the hyper HTTP library.
 
 ## WASM
 
@@ -504,6 +506,9 @@
 - [ZEXE](https://github.com/scipr-lab/zexe) - Rust library for decentralized private computation.
 - [cargo-flash](https://github.com/probe-rs/cargo-flash) - Cargo extension for programming microcontrollers.
 - [object](https://github.com/gimli-rs/object) - Unified interface for reading and writing object file formats.
+- [fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences.
+- [rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust.
+- [scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors.
 
 ## Cargo Plugins
 

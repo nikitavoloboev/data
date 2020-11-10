@@ -10,7 +10,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [EVOlution](https://github.com/Evolution-App/iOS) - Unofficial app for Swift Evolution.
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS)
 - [Mast 2](https://github.com/ShihabMe/Mast2) - Mastodon client.
-- [AltStore](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. ([Code](https://github.com/rileytestut/AltStore)) ([History](https://www.inputmag.com/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it))
+- [AltStore](https://altstore.io/) - Alternative app store for non-jailbroken iOS devices. ([Code](https://github.com/rileytestut/AltStore)) ([History](https://www.inputmag.com/culture/this-app-could-end-apples-monopoly-and-steve-jobs-would-love-it)) ([HN](https://news.ycombinator.com/item?id=25028786))
 - [mChat](https://github.com/realpaliy/mChat) - Real-time messaging app written in Swift for iOS devices.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
 - [ProtonMail](https://github.com/ProtonMail/ios-mail)
@@ -57,6 +57,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [VJ](https://github.com/hexagons/VJ) - Minimal iPad app with interactive visuals.
 - [iOS 11 App Store clone](https://github.com/phillfarrugia/appstore-clone)
 - [Travelpayouts](https://github.com/travelpayouts/travel-app-ios) - App template for flights and hotels search.
+- [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/ish-app/ish)) ([HN](https://news.ycombinator.com/item?id=24861923)) ([HN 2](https://news.ycombinator.com/item?id=25028252))
 
 ## Other
 
@@ -153,7 +154,6 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS 13 Design Guidelines, Templates, and Downloads (2020)](https://learnui.design/blog/ios-design-guidelines-templates.html)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS. ([HN](https://news.ycombinator.com/item?id=22385370)) ([Web](https://getutm.app/))
 - [XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests.
-- [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/ish-app/ish)) ([HN](https://news.ycombinator.com/item?id=24861923))
 - [Concurrency & Multithreading in iOS](https://www.viget.com/articles/concurrency-multithreading-in-ios/)
 - [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
 - [iOS bits and pieces that you can include in your project to make your life a bit easier](https://github.com/infinum/iOS-Nuts-And-Bolts)
@@ -251,3 +251,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) - Community additions to Apple's Human Interface Guidelines.
 - [Building a Realtime Widget (2020)](https://nathantornquist.com/blog/2020/10/building-a-realtime-widget/)
 - [KTRW](https://github.com/googleprojectzero/ktrw) - iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro.
+- [My App Review Experiences (2020)](https://tbodt.com/2020/11/08/app-review-experiences.html)
+- [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG.

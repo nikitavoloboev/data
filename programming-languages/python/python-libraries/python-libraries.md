@@ -135,7 +135,8 @@
 - [dramatiq](https://github.com/Bogdanp/dramatiq) - Fast and reliable background task processing library for Python 3.
 - [More Itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools.
 - [awkward-array](https://github.com/scikit-hep/awkward-array) - Manipulate arrays of complex data structures as easily as Numpy.
-- [pydantic](https://github.com/samuelcolvin/pydantic) - Data validation and settings management using Python type hinting.
+- [pydantic](https://github.com/samuelcolvin/pydantic/) - Data parsing and validation using Python type hints. ([Docs](https://pydantic-docs.helpmanual.io/))
+- [graphene-pydantic](https://github.com/graphql-python/graphene-pydantic) - Integrate GraphQL with your Pydantic models.
 - [Python Sorted Containers](https://github.com/grantjenks/python-sortedcontainers) - Sorted List, Sorted Dict, and Sorted Set.
 - [MacroPy3](https://macropy3.readthedocs.io/en/latest/) - Provides a mechanism for user-defined functions (macros) to perform transformations on the abstract syntax tree (AST) of a Python program at import time.
 - [joblib](https://github.com/joblib/joblib) - Computing with Python functions.
@@ -206,6 +207,8 @@
 - [classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python.
 - [pluggy](https://github.com/pytest-dev/pluggy) - Minimalist production ready plugin system.
 - [crocs](https://github.com/iogf/crocs) - Introduces the concept of yregex that is a mean of implementing regex patterns using pure python classes. There are python classes for regex operators, these classes are grouped together to form your desired pattern.
+- [pydash](https://github.com/dgilland/pydash) - Kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash JavaScript library.
+- [Googletrans](https://github.com/ssut/py-googletrans) - Free and unlimited python library that implemented Google Translate API.
 
 ## Links
 

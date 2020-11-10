@@ -19,3 +19,4 @@
 - [Speech Synthesis Papers](https://github.com/xcmyz/speech-synthesis-paper)
 - [VoiceFilter](https://github.com/mindslab-ai/voicefilter) - Unofficial PyTorch implementation of Google AI's VoiceFilter system. ([Web](http://swpark.me/voicefilter/))
 - [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) - Generating speech in a single forward pass without any attention. ([Web](https://as-ideas.github.io/ForwardTacotron/))
+- [HiFi-GAN](https://github.com/jik876/hifi-gan) - Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.

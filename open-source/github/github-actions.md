@@ -61,6 +61,7 @@
 - [Workflow Webhook Action](https://github.com/distributhor/workflow-webhook) - GitHub workflow action to call a remote webhook endpoint with a JSON or form-urlencoded payload, and support for BASIC authentication.
 - [Image Actions](https://github.com/calibreapp/image-actions) - Automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
 - [GitHub Actions](https://github.com/LouisBrunner/checks-action) - Allows you to create Check Runs directly from your GitHub Action workflow.
+- [Codecov](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov.
 
 ## Go
 

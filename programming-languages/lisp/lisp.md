@@ -89,3 +89,4 @@
 - [How are Lisp REPLs different from Python or Ruby REPLs? (2020)](https://lisp-journey.gitlab.io/blog/how-are-lisp-repls-different-from-python-or-ruby-repls/)
 - [An Intuition for Lisp Syntax](https://stopa.io/post/265) ([HN](https://news.ycombinator.com/item?id=24892297)) ([Lobsters](https://lobste.rs/s/pg30t6/intuition_for_lisp_syntax))
 - [The Nature of Lisp (2006)](http://www.defmacro.org/ramblings/lisp.html)
+- [awklisp](https://github.com/darius/awklisp) - Lisp interpreter written in Awk.

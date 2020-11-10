@@ -35,3 +35,4 @@
 - [Nesting levels for JSON parsers](https://github.com/lovasoa/bad_json_parsers) - Documenting how JSON parsers of several programming languages deal with deeply nested structures.
 - [TypeBox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable. ([HN](https://news.ycombinator.com/item?id=25006277))
+- [JSON Schema \$Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, Resolve, and Dereference JSON Schema \$ref pointers.

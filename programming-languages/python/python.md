@@ -203,3 +203,4 @@
 - [Caching in Python Using the LRU Cache Strategy (2020)](https://realpython.com/lru-cache-python/)
 - [Annotated Algorithms in Python](https://github.com/mdipierro/nlib) - With applications in Physics, Biology, and Finance.
 - [Composing Programs](http://composingprograms.com/) - Free online introduction to programming and computer science using Python.
+- [Writing Performant Parallel Python Code (2020)](https://medium.com/swlh/writing-performant-parallel-python-code-7e2f0292f438)

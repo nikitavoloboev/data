@@ -132,6 +132,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable.
 - [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
+- [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))
@@ -282,6 +283,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Airbridge](https://airbridge.app/) - Calendar built for people, not companies.
 - [Transform](https://transform.tools/) - Polyglot web converter.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc.
 - [Imgur](https://imgur.com/) - Upload & browse images.
 - [ImgBB](https://imgbb.com/) - Free image hosting.
 - [put.re](https://put.re/) - Privacy focused Imgur alternative.

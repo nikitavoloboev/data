@@ -31,3 +31,4 @@
 - [Project Oxide](https://github.com/daveshah1/prjoxide) - Documenting Lattice's 28nm FPGA parts.
 - [FPGA Interchange](https://github.com/SymbiFlow/python-fpga-interchange) - Python interface to FPGA interchange format.
 - [fpga-vt52](https://github.com/AndresNavarro82/vt52-fpga) - Serial terminal implemented on a FPGA. ([HN](https://news.ycombinator.com/item?id=25014323))
+- [FPGAs could replace GPUs in many deep learning applications (2020)](https://bdtechtalks.com/2020/11/09/fpga-vs-gpu-deep-learning/)

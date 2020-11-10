@@ -44,3 +44,4 @@
 - [AI Expert Roadmap](https://i.am.ai/roadmap) ([Code](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)) ([HN](https://news.ycombinator.com/item?id=25010114))
 - [Secondmind](https://www.secondmind.ai/) - Decisions by people, empowered by AI.
 - [Architecture For Discovering Computational Consciousness (2020)](https://matt.sh/ai-please)
+- [The Institute for Ethical AI & Machine Learning](https://ethical.institute/) ([GitHub](https://github.com/EthicalML))

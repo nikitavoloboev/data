@@ -29,7 +29,7 @@
 - [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [Ingestion Data Mapping Language](http://idml.io/)
 - [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)
-- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit.
+- [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit. ([Ongoing list of pandas quirks](https://github.com/chiphuyen/just-pandas-things))
 - [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143)
 - [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data. ([datasette-graphql](https://github.com/simonw/datasette-graphql)) ([Running Datasette on DigitalOcean App Platform](https://til.simonwillison.net/til/til/digitalocean_datasette-on-digitalocean-app-platform.md)) ([Interesting ideas in Datasette](https://simonwillison.net/2018/Oct/4/datasette-ideas/))
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
@@ -132,3 +132,5 @@
 - [Holistics](https://www.holistics.io/) - Data Modeling & Self-Service BI Platform.
 - [Numerai data science tournament](https://numer.ai/tournament)
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool for you and your team. ([GitHub](https://github.com/neptune-ai))
+- [AimStack](https://aimstack.io/) - Version Control and Development Environment for AI. ([Code](https://github.com/aimhubio/aim)) ([GitHub](https://github.com/aimhubio))
+- [Synerise](https://synerise.com/) - Powerful ecosystem driven by Artificial Intelligence with real-time data orchestration created to drive business growth.

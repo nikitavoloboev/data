@@ -6,6 +6,7 @@
 - [GitHub](https://developer.github.com/v3/)
 - [GitHub Go](https://github.com/shurcooL/githubv4) - Client library for accessing GitHub GraphQL API.
 - [GitHub JS](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs.
+- [GitHub JS 2](https://github.com/jviotti/ghrequest) - GitHub API HTTP client with cache support to get the most of your rate limit.
 - [GitHub Rust](https://github.com/softprops/hubcaps)
 - [GitHub Rust 2](https://github.com/XAMPPRocky/octocrab)
 - [GitHub Swift](https://github.com/mdiep/Tentacle) - Swift framework for the GitHub API.

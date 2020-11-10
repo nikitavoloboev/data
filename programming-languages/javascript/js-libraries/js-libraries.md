@@ -34,6 +34,7 @@
 - [react-spring](https://github.com/react-spring/react-spring) - Spring physics based React animation library.
 - [FAT](https://github.com/nextapps-de/fat) - Web's fastest and most lightweight animation tool.
 - [React Easy Flip](https://github.com/jlkiri/react-easy-flip) - Lightweight React library for smooth FLIP animations.
+- [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
 
 ## CLI
 
@@ -348,6 +349,9 @@
 - [psl (Public Suffix List)](https://github.com/lupomontero/psl) - JavaScript domain name parser based on the Public Suffix List.
 - [invariant-packages](https://github.com/apollographql/invariant-packages) - Packages for working with invariant(condition, message) assertions.
 - [evt](https://github.com/garronej/evt) - EventEmitter's typesafe replacement.
+- [webscan](https://github.com/samyk/webscan) - Browser-based network scanner & local-IP detection.
+- [Pill](https://github.com/rumkin/pill) - Add dynamic content loading to static sites with only 1 KiB of JS.
+- [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - Fastest deep equal with ES6 Map, Set and Typed arrays support.
 
 ## Links
 

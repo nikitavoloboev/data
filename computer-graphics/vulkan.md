@@ -28,3 +28,4 @@
 - [Writing an efficient Vulkan renderer (2020)](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/) ([HN](https://news.ycombinator.com/item?id=24368353))
 - [vkbind](https://github.com/mackron/vkbind) - Single file Vulkan API loader.
 - [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Tools) - Provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and MacOS.
+- [Vulkan Kompute](https://github.com/EthicalML/vulkan-kompute) - Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases.

@@ -31,3 +31,5 @@
 - [Negotiating SaaS Contracts](https://www.crayika.com/blog)
 - [Build a startup financial model from scratch (2016)](https://www.mathventurepartners.com/blog/2016/9/15/startup-financial-modeling-part-1-what-is-a-financial-model) ([HN](https://news.ycombinator.com/item?id=24853787))
 - [Never Compete on Price (2020)](https://medium.com/@tylerhakes/never-compete-on-price-c7709f29280)
+- [We Pay for Software (2020)](https://adamwiggins.com/making-computers-better/pay) ([HN](https://news.ycombinator.com/item?id=25027907))
+- [How to price your SaaS product (2020)](https://www.lennyrachitsky.com/p/saas-pricing-strategy)

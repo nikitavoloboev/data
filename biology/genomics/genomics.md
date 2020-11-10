@@ -35,3 +35,4 @@
 - [Genetic List](https://geneticlist.com/) - Browsable genetic marker lists.
 - [Cutevariant](https://github.com/labsquare/cutevariant) - Standalone and free application to explore genetics variations from VCF file.
 - [A hypothesis is a liability (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w)
+- [Awesome Imaging Genetics](https://github.com/heykeetae/AwesomeImagingGenetics)

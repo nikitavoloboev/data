@@ -55,3 +55,4 @@
 - [Scala Website Code](https://github.com/scala/scala-lang)
 - [ScalaZONE](https://scala.zone/) - Scala 3 Programming Language Courses.
 - [HN: Scala 3.0.0-M1 (2020)](https://news.ycombinator.com/item?id=24986396)
+- [Build your own Programming Language with Scala (2019)](https://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)

@@ -109,3 +109,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Tutanota](https://tutanota.com/) - Secure email. Free encrypted email.
 - [MailerLite](https://www.mailerlite.com/) - Create Email Marketing Your Way.
 - [Please-unsubscribe.com](https://please-unsubscribe.com/) - Fwd emails to unsubscribe from marketing. ([HN](https://news.ycombinator.com/item?id=25013863))
+- [Simplify Gmail](https://simpl.fyi/) - Browser extension that makes Gmail more simple, capable, and respectful.

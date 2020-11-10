@@ -277,3 +277,5 @@
 - [Functions That Go Backwards (2020)](https://thatjdanisso.cool/functions-that-go-backwards)
 - [Technical debt as a lack of understanding (2020)](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/) ([HN](https://news.ycombinator.com/item?id=25008587))
 - [The State-Diff Pattern (2020)](https://kevinmahoney.co.uk/articles/state-diff/)
+- [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html) ([HN](https://news.ycombinator.com/item?id=25031486))
+- [Catalog of code worth reading](https://github.com/darius/code-canon)

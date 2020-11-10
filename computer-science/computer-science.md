@@ -81,3 +81,4 @@
 - [The FUNARG Problem Explained (1968)](http://www.softwarepreservation.net/projects/LISP/MIT/Weizenbaum-FUNARG_Problem_Explained-1968.pdf)
 - [Weekly CS Paper](https://simon-frey.com/weeklycspaper/) - Get a computer science paper every Friday.
 - [Foundations of Computer Science (1992)](http://infolab.stanford.edu/~ullman/focs.html)
+- [Program and Data Representation course](https://aaronbloomfield.github.io/pdr/readme.html) ([Code](https://github.com/uva-cs/pdr))

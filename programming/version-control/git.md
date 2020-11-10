@@ -185,3 +185,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Signed git pushes (2020)](https://people.kernel.org/monsieuricon/signed-git-pushes)
 - [Towards an automated changelog workflow (2020)](https://blog.yossarian.net/2020/11/05/Towards-an-automated-changelog-workflow)
 - [commit-autosuggestions](https://github.com/graykode/commit-autosuggestions) - Tool that AI automatically recommends commit messages.
+- [GOMP](https://github.com/MarkForged/GOMP) - Tool for comparing branches.

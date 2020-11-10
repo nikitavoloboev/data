@@ -6,6 +6,7 @@
 - [At the end of each meeting ask if they know anyone else you can meet with. I normally tell them I’m trying to expand my network with successful folks in the area/space. Nice way to indirect compliment them.](https://twitter.com/AlwaysBeHustlin/status/1297920306900865024)
 - [Trust your people. Simplify and then simplify again. If you don’t trust your team to present complex concepts in a simple manner, the whole system breaks. Don’t use 10 words when you can use one.](https://twitter.com/Post_Market/status/1313098213625393157)
 - [Remember that almost no conversation ends with a change of mind. That happens later, if at all.](https://news.ycombinator.com/item?id=24968437)
+- [Bell ran a study to find out what the most productive engineers did differently from their peers. The answer was communication. They did a lot more of it. They bounced ideas with co-workers, they validated solutions with customers, they did their own research, and so on.](https://news.ycombinator.com/item?id=25030938)
 
 ## Links
 

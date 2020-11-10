@@ -105,3 +105,4 @@
 - [SwiftUI State Management Fundamentals (2020)](https://mykola-harmash.medium.com/swiftui-state-management-fundamentals-5b28d2522e4d)
 - [SwiftUI Learning Resources](https://www.notion.so/SwiftUI-16ae61e922684ba08f870a5f22ef017b)
 - [iOS 14 Onboarding in SwiftUI](https://github.com/jordansinger/swiftui-ios-14-onboarding)
+- [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - Building a Collection For SwiftUI.

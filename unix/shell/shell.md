@@ -89,3 +89,4 @@ All active variables can be seen by running `env`.
 - [Pretty CSV viewing on the Command Line (2016)](https://www.stefaanlippens.net/pretty-csv.html) ([Lobsters](https://lobste.rs/s/zvallq/pretty_csv_viewing_on_command_line))
 - [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers. ([Code](https://github.com/k4m4/terminals-are-sexy))
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - Fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
+- [What is a shell? A TTY? A Terminal?](https://effective-shell.com/docs/part-2-core-skills/11-what-is-a-shell/)

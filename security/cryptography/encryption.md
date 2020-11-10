@@ -22,3 +22,4 @@
 - [This is how Signal protocol encrypts group messages](https://www.reddit.com/r/signal/comments/a2ogk2/this_is_how_signal_protocol_encrypts_group/)
 - [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small and portable implementation of the AES ECB, CTR and CBC encryption algorithms written in C.
 - [Charm](https://github.com/charmbracelet/charm) - Includes a simple, powerful encryption interface.
+- [EU Draft Council Declaration Against Encryption (2020)](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf) ([HN](https://news.ycombinator.com/item?id=25028411)) ([Lobsters](https://lobste.rs/s/ydeb9n/eu_draft_declaration_against_encryption))

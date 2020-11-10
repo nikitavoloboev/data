@@ -77,3 +77,4 @@
 - [Clair scanner](https://github.com/arminc/clair-scanner) - Docker containers vulnerability scan.
 - [Preparing for the Docker Hub Rate Limits (2020)](https://inlets.dev/blog/2020/10/29/preparing-docker-hub-rate-limits.html)
 - [Jobs as a Service (JaaS)](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) on Docker Swarm.
+- [pkger](https://github.com/wojciechkepka/pkger) - Package building tool utilizing Docker written in Rust.

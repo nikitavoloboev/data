@@ -35,3 +35,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [defaulter](https://github.com/horia/defaulter) - Default OpenBSD Web Server.
 - [OpenBSD Kernel Internals - The Hitchhiker's Guide (2009)](https://atmnis.com/~proger/openkyiv/openkyiv2009_proger_sys.pdf)
 - [Upgrade FreeBSD on a Raspberry Pi 2 (2020)](https://stafwag.github.io/blog/blog/2020/11/01/upgrade_freebsd_on_my_rpi2/)
+- [OpenBSD Router Guide](https://www.unixsheikh.com/tutorials/openbsd-router-guide/)

@@ -7,7 +7,7 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 - [Proper sleep](../sleep/sleep.md) - I go to sleep ~ 11/12 pm and wake up without alarm getting as much sleep as my body needs.
 - [Exercise](../fitness/fitness.md) - Start every morning with some exercise. Go on walks or do exercise throughout the day when possible.
 - Dental care - Brush my teeth daily with occasional flossing.
-- [Skin care](skin-care.md) - Clean & moisturize my skin every morning with added sunscreen. Apply occasional face masks & moisturize skin & shower in evening.
+- [Skin care](skin-care.md) - Clean & moisturize my skin every morning/evening. Apply occasional deep pore cleansing face masks. Apply sunscreen when going out for long time.
 - [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouching my back and sit for long times. Take breaks. Use good chair & desk.
 
 These health focuses are part of my [life rules](../focusing/rules.md).

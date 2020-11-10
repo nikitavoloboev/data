@@ -48,3 +48,4 @@
 - [env0](https://www.env0.com/) - Self-service Cloud Environments. Your team manage their own environments in AWS, Azure and Google.
 - [Cloud Native Landscape](https://landscape.cncf.io/) - Map of uncharted terrain of cloud native technologies. ([Code](https://github.com/cncf/landscape))
 - [How I Setup My Own Personal CDN (2020)](https://joel.net/how-i-setup-my-own-personal-cdn)
+- [Optimyze.cloud](https://optimyze.cloud/) - Hyperscaler software efficiency. For everybody.

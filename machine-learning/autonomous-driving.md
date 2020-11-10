@@ -26,3 +26,4 @@
 - [comma10k](https://github.com/commaai/comma10k) - 10k crowdsourced images for training segnets.
 - [75 Minutes of Autonomous Driving with Kyle Vogt and Sam Altman (2020)](https://www.youtube.com/watch?v=sliYTyRpRB8)
 - [Oxbotica](https://www.oxbotica.com/) - Autonomous vehicle software company located in Oxford, UK.
+- [Why Tesla's Full Self-Driving Is Such A Big Deal: 4D Data Continuity & Trajectory Projection (2020)](https://cleantechnica.com/2020/11/07/why-teslas-full-self-driving-is-such-a-big-deal-4d-data-continuity-trajectory-projection/)

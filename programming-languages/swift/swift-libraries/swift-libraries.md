@@ -112,6 +112,7 @@
 - [GPUImage](https://github.com/BradLarson/GPUImage) - Open source iOS framework for GPU-based image and video processing.
 - [Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift.
 - [Finjinon](https://github.com/finn-no/Finjinon) - Custom AVFoundation based camera UI, focused on quickly adding several photos.
+- [Colorful](https://github.com/hayashi311/Color-Picker-for-iOS) - iOS color picker built with Swift.
 
 ## macOS
 
@@ -470,6 +471,7 @@
 - [workflow-swift](https://github.com/square/workflow-swift) - Unidirectional data flow library for Swift and Kotlin.
 - [SwiftGraphQL](https://github.com/maticzav/swift-graphql) - GraphQL client that lets you forget about GraphQL.
 - [DictionaryCoding](https://github.com/elegantchaos/DictionaryCoding) - Swift Decoder/Encoder which converts to/from dictionaries.
+- [Annotated](https://github.com/jegnux/Annotated) - Small library that let you annotate your strings with semantic annotations.
 
 ## Other (not lib)
 

@@ -193,3 +193,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [The Ultimate Guide to Writing Online](https://www.perell.com/blog/the-ultimate-guide-to-writing-online)
 - [Grammarly](https://www.grammarly.com/) - Free writing app to make their online writing clear and effective.
 - [Writing for Reasons (2020)](https://blog.sulami.xyz/posts/writing-for-reasons/)
+- [The job of a writer (2020)](https://thesephist.com/posts/writer/)

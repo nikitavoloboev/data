@@ -66,6 +66,7 @@
 - [Yaya](https://github.com/sellout/yaya) - Yet another yet another recursion scheme library in Haskell.
 - [Happy](https://github.com/simonmar/happy) - Parser generator for Haskell.
 - [massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation.
+- [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes Haskell.
 
 ## Links
 

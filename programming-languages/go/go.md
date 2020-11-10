@@ -375,3 +375,4 @@ Go promotes composition over inheritance.
 - [Rust vs Go (2020)](https://bitfieldconsulting.com/golang/rust-vs-go) ([HN](https://news.ycombinator.com/item?id=25007209)) ([Reddit: Go](https://www.reddit.com/r/golang/comments/jp4kvp/rust_vs_go/)) ([Reddit: Rust](https://www.reddit.com/r/rust/comments/jp4orc/rust_vs_go/))
 - [Gochk](https://github.com/resotto/gochk) - Static Dependency Analysis Tool for Go Files.
 - [Manual Memory Management in Go using jemalloc (2020)](https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/) ([HN](https://news.ycombinator.com/item?id=25011408))
+- [go-critic](https://github.com/go-critic/go-critic) - Highly extensible Go source code linter providing checks currently missing from other linters.

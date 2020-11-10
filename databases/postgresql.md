@@ -165,3 +165,6 @@
 - [PGTune](https://pgtune.leopard.in.ua/#/) - Tuning PostgreSQL config by your hardware. ([Code](https://github.com/le0pard/pgtune))
 - [Book about PostgreSQL: tuning and scaling (Russian)](https://postgresql.leopard.in.ua/) ([Code](https://github.com/le0pard/postgresql_book))
 - [An Immutable Blog Application in PostgreSQL (2015)](https://kevinmahoney.co.uk/articles/immutable-data/) ([Lobsters](https://lobste.rs/s/0owjgi/immutable_blog_application_postgresql))
+- [Postgres Constraints (2020)](https://www.mohitkhare.com/blog/postgres-constraints/)
+- [Distributed Coordination Using Postgres (2020)](https://ffhex.xyz/posts/distributed-coordination-using-postgres/)
+- [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.

@@ -48,3 +48,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - Foreign function interface for bash. ([HN](https://news.ycombinator.com/item?id=24738814))
 - [DevHints Bash Cheat Sheet](https://devhints.io/bash)
 - [sbang](https://github.com/spack/sbang) - Run scripts with very long shebang lines. ([Lobsters](https://lobste.rs/s/rin6rc/sbang_lets_you_run_scripts_with_very_long))
+- [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - Open source, community-driven framework for managing your bash configuration.

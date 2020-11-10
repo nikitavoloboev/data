@@ -52,4 +52,5 @@
 - [Taiwan Semiconductor](https://www.taiwansemi.com/) - Taiwanese multinational semiconductor contract manufacturing and design company.
 - [AMD Research Instruction Based Sampling Toolkit](https://github.com/jlgreathouse/AMD_IBS_Toolkit)
 - [Dynarmic](https://github.com/MerryMage/dynarmic) - Dynamic recompiler for ARM.
-- [Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor (2020)](http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html)
+- [Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor (2020)](http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html) ([HN](https://news.ycombinator.com/item?id=25029484))
+- [ARM Memory Model Tool: Morello (and Some Memory Tagging) (2020)](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/memory-model-tool-morello-and-some-memory-tagging)

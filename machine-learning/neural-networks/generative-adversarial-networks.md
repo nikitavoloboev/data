@@ -54,3 +54,5 @@
 - [Generate High Resolution Images With Generative Variational Autoencoder](https://github.com/abhinavsagar/gvae)
 - [Simple StyleGan2 for PyTorch](https://github.com/lucidrains/stylegan2-pytorch)
 - [StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2) - PyTorch implementation.
+- [Self-Attention-GAN TensorFlow](https://github.com/taki0112/Self-Attention-GAN-Tensorflow)
+- [Self-Attention GAN PyTorch](https://github.com/heykeetae/Self-Attention-GAN)

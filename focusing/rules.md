@@ -28,8 +28,8 @@
 - Drink lots of water & tea. Limit coffee. No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
-- Brush/floss teeth & [clean face + sunscreen](../health/skin-care.md) daily.
-- Apply sun screen when going out. Don't frown. Don't touch face or mouth with dirty hands.
+- Brush/floss teeth & [clean face](../health/skin-care.md) daily.
+- Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
 - Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
 - [Sleep](../sleep/sleep.md) fully & well. Don't limit sleep. If need to wake up early, go to sleep early. Sleep as much as body needs (~ 8h often).
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.

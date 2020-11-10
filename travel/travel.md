@@ -36,3 +36,4 @@
 - [Duffel](https://duffel.com/) - Powerful and intuitive tools for starting and growing a travel business. Search, book, and manage flights across more than 20 airlines.
 - [Gowalla](https://go.gowalla.com/) - Social Game in the Real World.
 - [Omio](https://www.omio.com/) - Search, Compare & Buy Cheap Bus, Train & Flight Tickets.
+- [90 day Finn](https://www.helsinkibusinesshub.fi/90-day-finn/) - Helsinki Relocation Package: City as a Service. ([HN](https://news.ycombinator.com/item?id=25003999))

@@ -12,3 +12,4 @@
 - [Gleam Talk - Shayne Tremblay (2020)](https://www.youtube.com/watch?v=qC9RhcWzKdE)
 - [GleamCompile](https://github.com/praveenperera/gleam_compile) - Tiny hex package to make the development experience of using gleam in elixir (and especially phoenix projects) just a bit better.
 - [Gleam Discord](https://discord.com/invite/Fm8Pwmy)
+- [Gleam HTTP](https://github.com/gleam-lang/http) - Types and functions for HTTP clients and servers.

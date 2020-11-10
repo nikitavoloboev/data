@@ -39,3 +39,4 @@
 - [libevent](https://github.com/libevent/libevent) - Event notification library. ([Web](https://libevent.org/))
 - [FlatCC](https://github.com/dvidelabs/flatcc) - FlatCC FlatBuffers in C for C.
 - [libusb](https://github.com/libusb/libusb) - Cross-platform library to access USB devices. ([Web](https://libusb.info/))
+- [GIF encoder](https://github.com/lecram/gifenc) - Small C library that can be used to create GIF animations.

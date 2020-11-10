@@ -137,3 +137,5 @@
 - [byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader for node.js.
 - [PM2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer. ([Web](https://pm2.io/))
 - [keytar](https://github.com/atom/node-keytar) - Native Node module to get, add, replace, and delete passwords in system's keychain.
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or sequential.
+- [mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.

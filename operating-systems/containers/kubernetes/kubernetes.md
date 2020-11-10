@@ -247,3 +247,6 @@
 - [Certified Kubernetes Security Specialist resources](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [Managing my personnal servers in 2020 with K3s](https://github.com/erebe/personal-server) ([HN](https://news.ycombinator.com/item?id=25001789))
 - [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes.
+- [Kubectl Code](https://github.com/kubernetes/kubectl)
+- [Sourcegraph on Kubernetes](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence.
+- [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube)

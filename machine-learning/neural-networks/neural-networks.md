@@ -163,3 +163,5 @@
 - [The Unreasonable Syntactic Expressivity of RNNs (2020)](https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html)
 - [DeepMath Conference](https://deepmath-conference.com/) - Conference on the Mathematical Theory of DNN's. ([HN](https://news.ycombinator.com/item?id=25015941))
 - [Coding a Neural Network: A Beginner's Guide (2020)](https://www.youtube.com/watch?v=TIEKzVwS12g)
+- [Eiffel2](https://github.com/Ale9806/Eiffel2) - Neural Network architecture Visualization tool.
+- [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper)

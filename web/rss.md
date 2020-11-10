@@ -63,3 +63,5 @@
 - [Blogtrottr](https://blogtrottr.com/) - Delivers updates from all of your favourite news, feeds, and blogs directly to your email inbox.
 - [Unexpected, Useless, and Urgent, or What RSS Gets Right (2020)](https://www.charlieharrington.com/unexpected-useless-and-urgent) ([HN](https://news.ycombinator.com/item?id=24899256))
 - [reddit-rss](https://github.com/trashhalo/reddit-rss) - Improved RSS feed for Reddit.
+- [Litchan](https://litchan.com/) - Link/RSS aggregator with live commenting.
+- [Extract full news article content from any RSS feed using Extract API (2020)](https://pipfeed.com/2020/11/09/tutorial-extract-full-news-article-content-from-any-rss-feed-using-extract-api/)

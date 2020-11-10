@@ -28,7 +28,9 @@
 - [Ask HN: “Expert Level” JavaScript questions?](https://news.ycombinator.com/item?id=17324538)
 - [Benefits of prototypal inheritance over classical?](https://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical/16872315#16872315)
 - [Pax](https://github.com/nathan/pax) - Fastest JavaScript bundler in the galaxy.
-- [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Philip Roberts: What the heck is the event loop anyway? (2014)](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Jake Archibald: In The Loop (2018)](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- [Yonatan Kra - The Event Loop and your code (2020)](https://www.youtube.com/watch?v=Nqx3rtv_dko)
 - [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle. ([Code](https://github.com/pastelsky/bundlephobia)) ([Tweet](https://twitter.com/jsunderhood/status/1318204704988561409))
 - [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 - [Introduction to ES6 Promises – The Four Functions You Need To Avoid Callback Hell](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
@@ -230,3 +232,4 @@
 - [ni](https://github.com/antfu/ni) - Use the right package manager. Detect whether to use npm/yarn/pnpm.
 - [Making a modern JS library in 2020](https://pitayan.com/posts/modernest-lib-hello-world/?ref=hackernews)
 - [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+- [JS Operator Lookup](https://joshwcomeau.com/operator-lookup/) - Search JavaScript Operators.
