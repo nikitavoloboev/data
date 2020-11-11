@@ -200,7 +200,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Adaptive multiphase flow through porous media](https://harishnarayanan.org/research/porous-flow/)
 - [Academic research of Harish Narayanan](https://harishnarayanan.org/research/)
 - [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
-- [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news) ([HN](https://news.ycombinator.com/item?id=20643052))
+- [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news) ([HN](https://news.ycombinator.com/item?id=20643052)) ([HN 2](https://news.ycombinator.com/item?id=25048415))
 - [HN Dark Mode](https://jgthms.com/hacker-news-dark-mode/) ([Code](https://github.com/jgthms/hacker-news-dark-mode/)) ([HN](https://news.ycombinator.com/item?id=23203347))
 - [How we’ve evolved on-call at Monzo (2020)](https://monzo.com/blog/how-weve-evolved-on-call-at-monzo)
 - [Sci-fi interfaces](https://scifiinterfaces.com/)

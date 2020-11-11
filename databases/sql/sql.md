@@ -72,3 +72,4 @@
 - [What ORMs Have Taught Me: Just Learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/) ([HN](https://news.ycombinator.com/item?id=24845300))
 - [SQL Formatter](https://zeroturnaround.github.io/sql-formatter/) - JavaScript library for pretty-printing SQL queries. ([Code](https://github.com/zeroturnaround/sql-formatter))
 - [SQL Joins Visualizer](https://sql-joins.leopard.in.ua/) - Help to you build SQL JOIN between two tables by using of Venn diagrams. ([Code](https://github.com/le0pard/sql-joins-app))
+- [Top 10 Most Important SQL Commands to Know (2020)](https://blog.arctype.com/sql-cheat-sheet-top-10-most-important-sql-commands-to-know/)

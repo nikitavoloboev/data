@@ -128,3 +128,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Language Design with Leo White (2020)](https://signalsandthreads.com/language-design/) ([Lobsters](https://lobste.rs/s/udstbt/dynamically_bound_goto_considered)) ([HN](https://news.ycombinator.com/item?id=24876465))
 - [Make a Language Using Rust](https://arzg.github.io/lang/) ([HN](https://news.ycombinator.com/item?id=25026419))
 - [Turing Incomplete Languages (2020)](http://neilmitchell.blogspot.com/2020/11/turing-incomplete-languages.html)
+- [Semantics-Guided Synthesis (2020)](https://pages.cs.wisc.edu/~loris/papers/popl21.pdf)

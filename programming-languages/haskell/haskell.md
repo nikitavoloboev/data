@@ -214,6 +214,7 @@
 - [Intro to type-level programming in Haskell (2020)](http://matija.me/2020/07/04/haskell-type-lvl-programming-intro/)
 - [Haskell Fan Site](https://crypto.stanford.edu/~blynn/haskell/)
 - [Haskell: The Bad Parts (2020)](https://www.snoyman.com/blog/2020/10/haskell-bad-parts-1) ([Reddit](https://www.reddit.com/r/haskell/comments/jjl4hy/haskell_the_bad_parts_part_1/))
+- [Haskell: The Bad Parts, part 2 (2020)](https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2) ([Lobsters](https://lobste.rs/s/lcvfey/haskell_bad_parts_part_2))
 - [Haskell exercises](https://github.com/neongreen/haskell-ex)
 - [Whole Haskell is Best Haskell (2020)](https://semantic.org/post/whole-haskell-is-best-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/jmqow4/whole_haskell_is_best_haskell/))
 - [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/)) ([Reddit AMA](https://www.reddit.com/r/haskell/comments/jnwg7i/haskell_foundation_ama/)) ([Announcement Talk](https://www.youtube.com/watch?v=MEmRarBL9kw))

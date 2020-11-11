@@ -40,3 +40,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Vitamin D, part 2: Shannon's story (2020)](https://www.devaboone.com/post/vitamin-d-part-2-shannon-s-story?postId=5f39453f8d01fe00170023fe) ([HN](https://news.ycombinator.com/item?id=24261948))
 - [The Big Vitamin D Mistake (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/) ([HN](https://news.ycombinator.com/item?id=24768721))
 - [Do you need to take multivitamins? (2019)](https://examine.com/nutrition/do-you-need-a-multivitamin/)
+- [HN: Multivitamins' 'benefits' are all in your head: study (2020)](https://news.ycombinator.com/item?id=25053134)
