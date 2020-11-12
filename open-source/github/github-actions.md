@@ -168,3 +168,4 @@
 - [Become a GitHub Actions Hero](https://github-actions-hero.now.sh/) - Small, interactive tutorial for the GitHub Actions workflow syntax with an emulated workflow parser and runner. ([Code](https://github.com/cschleiden/github-actions-hero))
 - [Apple Github Actions (iOS & macOS)](https://github.com/Apple-Actions)
 - [Google GitHub Actions](https://github.com/google-github-actions)
+- [Custom GitHub Actions with Docker (2020)](https://sethetter.com/posts/github-actions-with-docker/)

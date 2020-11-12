@@ -168,4 +168,5 @@
 - [Postgres Constraints (2020)](https://www.mohitkhare.com/blog/postgres-constraints/)
 - [Distributed Coordination Using Postgres (2020)](https://ffhex.xyz/posts/distributed-coordination-using-postgres/)
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-- [Postgres Observability](https://pgstats.dev/) - Postgres views and functions that contain info you might want to know about a Postgres instance.
+- [Postgres Observability](https://pgstats.dev/) - Postgres views and functions that contain info you might want to know about a Postgres instance. ([HN](https://news.ycombinator.com/item?id=25058045))
+- [PostgreSQL Server Exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.

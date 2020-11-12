@@ -57,3 +57,4 @@
 - [Faster Growth, Fairer Growth: Policies for a High Road, High Performance Economy](https://www.niskanencenter.org/faster_fairer/agenda.html) ([HN](https://news.ycombinator.com/item?id=24963830))
 - [Banks, QE, and Money-Printing (2020)](https://www.lynalden.com/money-printing/) ([HN](https://news.ycombinator.com/item?id=24978567))
 - [Ask HN: Lost Economic Theories: Printing Inflation-Free Money? (2020)](https://news.ycombinator.com/item?id=24998664)
+- [Freeing Econ 101: Beyond the Grasp of the Invisible Hand (2018)](https://behavioralscientist.org/freeing-econ-101-beyond-the-grasp-of-the-invisible-hand/)

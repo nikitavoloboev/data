@@ -55,9 +55,10 @@
 - [Radical Icons](https://radicalicons.com/) - Radical, hand-drawn SVGs.
 - [Radix Icons](https://icons.modulz.app/) - Crisp set of 15×15 icons designed by the Modulz team. ([Code](https://github.com/modulz/radix-icons))
 - [System UIcons](https://systemuicons.com/) - Collection of open source icons designed for products and systems in mind. Each icon is on a 21x21 grid. ([Code](https://github.com/CoreyGinnivan/system-uicons))
-- [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family for interfaces, diagrams, presentations.
+- [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family for interfaces, diagrams, presentations. ([Code](https://github.com/phosphor-icons/phosphor-home))
 - [Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
 - [Dmitry Novikov Dribble](https://dribbble.com/Novikoff) - Does nice icons.
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) ([HN](https://news.ycombinator.com/item?id=24991908))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Minuscule SVG versions of your favorite logos.
 - [Fork Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Fork of the iconic font and CSS toolkit. ([Web](https://forkaweso.me/Fork-Awesome/))
+- [icons.land](https://icons.land/) - Search engine and API for icons from popular packs. ([Code](https://github.com/namiwang/icons-land))

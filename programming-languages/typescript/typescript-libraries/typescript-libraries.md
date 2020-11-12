@@ -72,6 +72,7 @@
 - [tydoc](https://github.com/jasonkuhrt/tydoc) - TypeScript documenter that meets you where you are.
 - [Setset](https://github.com/jasonkuhrt/setset) - Powerful Incremental Type-driven Settings Engine.
 - [Suub](https://github.com/etienne-dldc/suub) - Simple pub/sub written in TypeScript.
+- [typescript-vscode-sh-plugin](https://github.com/aeschli/typescript-vscode-sh-plugin) - TypeScript plugin that proves richer semantic highlighing.
 
 ## Links
 

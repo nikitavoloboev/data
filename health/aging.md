@@ -42,3 +42,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Calico](https://www.calicolabs.com/) - Research longevity.
 - [Who Gets to Solve Death? (2020)](https://divinations.substack.com/p/who-gets-to-solve-death)
 - [Learnings from Running a Longevity Startup (2020)](https://www.celinehh.com/year-1-learnings) ([HN](https://news.ycombinator.com/item?id=24923116))
+- [Elder Guide](https://elderguide.com/) - Nationwide Nursing Home Facts and Statistics.

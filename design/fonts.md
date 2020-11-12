@@ -49,6 +49,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Butler](https://fabiandesmet.com/portfolio/butler-font/) - Free serif font inspired by a mix between both Dala Floda & the amazing Bodoni family.
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
+- [Curves](https://philvee.blogspot.com/2020/11/free-new-font-curves-by-philippine.html) - Free font by Philippine Eevee.
 
 ## Links
 

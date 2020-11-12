@@ -37,6 +37,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Microsite](https://github.com/natemoo-re/microsite) - Tiny, opinionated SSG with automatic partial hydration.
 - [Gridsome](https://gridsome.org/) - Modern Site Generator for Vue.js. ([Code](https://github.com/gridsome/gridsome))
 - [Cobalt](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust.
+- [Elder.js](https://github.com/Elderjs/elderjs) - SEO focused, Svelte Framework & Static Site Generator.
 
 ## Notes
 

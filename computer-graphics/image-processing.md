@@ -61,3 +61,4 @@
 - [Dezoomify](https://dezoomify.ophir.dev/dezoomify/dezoomify.html) - Extracts full high-resolution images from online zoomable image interfaces. ([Code](https://github.com/lovasoa/dezoomify))
 - [libwebp (WebP codec)](https://github.com/webmproject/libwebp) - Library to encode and decode images in WebP format.
 - [WebM](https://www.webmproject.org/) - High-quality, open video format for the web that's freely available to everyone. ([GitHub](https://github.com/webmproject))
+- [Odiff](https://github.com/dmtrKovalenko/odiff) - Fastest in the world pixel-by-pixel image difference tool.

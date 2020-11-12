@@ -49,6 +49,7 @@
 - [Discord Rust 4](https://github.com/AregevDev/rustcord) - Safe wrapper around the Discord Rich Presence API.
 - [Discord Go](https://github.com/bwmarrin/discordgo)
 - [Discord Go 2](https://github.com/diamondburned/arikawa)
+- [Discord Go 3](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice.
 - [Discord C++](https://github.com/yourWaifu/sleepy-discord)
 - [Discord JS](https://github.com/discordjs/discord.js)
 - [Slack Go 2](https://github.com/slack-go/slack)

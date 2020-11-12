@@ -28,3 +28,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Muscle Wiki](https://musclewiki.com/) - Select a muscle and it provides you with exercises to workout the selected muscle. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i6fiis/select_a_muscle_and_it_provides_you_with/))
 - [Peloton](https://www.onepeloton.com/) - Workouts Streamed Live & On-Demand.
 - [How walking makes us healthier, happier and brainier (2019)](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier) ([HN](https://news.ycombinator.com/item?id=24885334))
+- [tapiriik](https://tapiriik.com/) - Sync your runs, rides & more. ([Code](https://github.com/cpfair/tapiriik))

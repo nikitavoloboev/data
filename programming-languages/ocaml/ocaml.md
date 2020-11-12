@@ -58,3 +58,4 @@
 - [Toy compiler for subset of OCaml written in Go](https://github.com/kkty/compiler)
 - [OCaml website code](https://github.com/ocaml/ocaml.org)
 - [Darklang: Leaving OCaml (2020)](https://blog.darklang.com/leaving-ocaml/) ([HN](https://news.ycombinator.com/item?id=24974907)) ([Lobsters](https://lobste.rs/s/bcwbuw/leaving_ocaml))
+- [OCamlPro](https://www.ocamlpro.com/) - Harnessing Cutting-Edge Technologies. ([GitHub](https://github.com/OCamlPro))

@@ -72,3 +72,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [The political economy of platforms (2020)](https://parametricity.com/posts/2020-platforms/)
 - [Media Manipulation Casebook](https://mediamanipulation.org/) - Digital research platform linking together theory, methods, and practice for mapping media manipulation and disinformation campaigns.
 - [Cooper](https://cooper.app/) - Private professional network. Get quality introductions from people you trust.
+- [Contra](https://contra.com/) - New professional network for your independent journey.

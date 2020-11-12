@@ -32,3 +32,7 @@
 - [FPGA Interchange](https://github.com/SymbiFlow/python-fpga-interchange) - Python interface to FPGA interchange format.
 - [fpga-vt52](https://github.com/AndresNavarro82/vt52-fpga) - Serial terminal implemented on a FPGA. ([HN](https://news.ycombinator.com/item?id=25014323))
 - [FPGAs could replace GPUs in many deep learning applications (2020)](https://bdtechtalks.com/2020/11/09/fpga-vs-gpu-deep-learning/)
+- [OrangeCrab](https://github.com/gregdavill/OrangeCrab) - ECP5 FPGA Feather development board.
+- [OrangeCrab example projects](https://github.com/gregdavill/OrangeCrab-examples)
+- [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - FPGA friendly 32 bit RISC-V CPU implementation.
+- [LiteX-Hub](https://github.com/litex-hub) - Collaborative FPGA projects around LiteX.

@@ -107,6 +107,7 @@
 - [Sir.DB](https://github.com/c9fe/sirdb) - Git-diff-able JSON database on yer filesystem. ([HN](https://news.ycombinator.com/item?id=25004554))
 - [Bigbucket](https://github.com/adrianchifor/Bigbucket) - Serverless NoSQL database with a focus on scalability, availability and simplicity. It has a Bigtable-style data model with storage backed by a Cloud Storage Bucket.
 - [AnnaBellaDB](https://github.com/hsnlab/annabellaDB) - Proof-of-concept (PoC) network latency and access-pattern aware key-value store.
+- [OpenCog AtomSpace](https://github.com/opencog/atomspace) - In-RAM knowledge representation (KR) database, an associated query engine and graph-re-writing system, and a rule-driven inferencing engine that can apply and manipulate sequences of rules to perform reasoning. ([Web](https://wiki.opencog.org/w/AtomSpace))
 
 ## Tools
 

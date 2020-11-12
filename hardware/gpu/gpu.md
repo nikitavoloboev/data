@@ -34,3 +34,4 @@
 - [Installing the world’s worst video card (2020)](https://www.youtube.com/watch?v=2iURr3NBprc) ([Lobsters](https://lobste.rs/s/n45htv/installing_world_s_worst_video_card))
 - [Let’s build a video card](https://eater.net/vga) - Video series on how VGA signals work and building a circuit that provides the correct timing of sync signals so that a monitor recognizes the signal and displays an image stored on an EEPROM.
 - [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
+- [Umpire](https://github.com/LLNL/Umpire) - Application-focused API for memory management on NUMA & GPU architectures.

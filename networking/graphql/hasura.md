@@ -15,3 +15,4 @@
 - [Moving From Django to Hasura and Next.js](https://hasura.io/blog/moving-from-django-to-hasura-and-next-js/)
 - [Nhost](https://nhost.io/) - Jamstack backend with Hasura. ([HN](https://news.ycombinator.com/item?id=24929732))
 - [Realworld Hasura](https://github.com/andrewMacmurray/realworld-hasura) - Realworld inspired blogging platform (Remake of Conduit) using Hasura + Kotlin + Elm.
+- [Rust + Hasura](https://github.com/ronanyeah/rust-hasura) - Example of a Rust server that functions as a remote schema for Hasura.

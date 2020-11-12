@@ -80,3 +80,4 @@
 - [InstantSearch.js](https://github.com/algolia/instantsearch.js) - JavaScript library for building performant and instant search experiences with Algolia. ([Docs](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/)) ([React InstantSearch - Lightning-fast search for React and React Native applications](https://github.com/algolia/react-instantsearch))
 - [Unofficial Google Advanced Search](http://jwebnet.net/advancedgooglesearch.html)
 - [Edgesearch](https://github.com/wilsonzlin/edgesearch) - Build a full text search API using Cloudflare Workers and WebAssembly.
+- [fzy-lua](https://github.com/swarn/fzy-lua) - Lua port of fzy's fuzzy string matching algorithm.

@@ -136,3 +136,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Working open source | Daniel Stenberg (2020)](https://daniel.haxx.se/blog/2020/10/26/working-open-source/)
 - [HN: No More Free Work from Marak: Pay Me or Fork This (2020)](https://news.ycombinator.com/item?id=25032105)
 - [xs:code](https://xscode.com/) - Connecting Companies with Open Source Developers.
+- [Tips for doing open source by Sindre](https://twitter.com/sindresorhus/status/1130833503740809216)

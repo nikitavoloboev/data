@@ -42,3 +42,5 @@
 - [DeepBlue](https://github.com/micahhahn/DeepBlue) - Basic web app to make high quality renderings of the Mandelbrot Set written in Haskell.
 - [3D Julia Sets](https://www.iquilezles.org/www/articles/juliasets3d/juliasets3d.htm)
 - [Xmountains](https://spbooth.github.io/xmountains/) - Fractal terrain generator. ([About](https://spbooth.github.io/xmountains/about_xmountains.html))
+- [FractalView](https://github.com/adamsol/FractalView) - 3D fractal renderer in GLSL.
+- [Fractal Explorer](https://github.com/ChrisWhealy/fractal_explorer) - Calculates Mandelbrot and Julia Set images using Rust/WASM.

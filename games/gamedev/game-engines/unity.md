@@ -13,3 +13,4 @@
 - [Unity Open Project #1: Action-adventure](https://github.com/UnityTechnologies/open-project-1)
 - [A Brief Tour of the Unity Editor (2020)](https://blog.eyas.sh/2020/10/unity-for-engineers-pt4-editor-tour/)
 - [Understanding Unity Engine Objects (2020)](https://blog.eyas.sh/2020/10/unity-for-engineers-pt5-object-component/)
+- [Scalable Architecture for Unity Games (2020)](https://blog.extrawurst.org/gamedev/unity/programming/2020/11/11/scalable-unity-architecture.html)

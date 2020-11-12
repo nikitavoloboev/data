@@ -11,6 +11,7 @@
 
 - [asami](https://github.com/threatgrid/asami) - An in memory graph store for Clojure and ClojureScript.
 - [Yesql](https://github.com/krisajenkins/yesql) - Clojure library for using SQL.
+- [suricatta](https://github.com/funcool/suricatta) - High level sql toolkit for clojure.
 
 ## Other
 

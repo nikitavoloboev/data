@@ -140,3 +140,5 @@
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or sequential.
 - [mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
 - [NPM Trends](https://www.npmtrends.com/) - Compare NPM package downloads. ([Code](https://github.com/johnmpotter/npm-trends))
+- [gh-release](https://github.com/hypermodules/gh-release) - Create a github release for a node package.
+- [Our Journey to a High-Performance Node.js Library (2020)](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)

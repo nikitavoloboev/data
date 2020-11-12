@@ -250,3 +250,5 @@
 - [Kubectl Code](https://github.com/kubernetes/kubectl)
 - [Sourcegraph on Kubernetes](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence.
 - [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube)
+- [Move2Kube](https://github.com/konveyor/move2kube) - Command-line tool that accelerates the process of re-platforming to Kubernetes/Openshift.
+- [Knatify](https://github.com/markusthoemmes/knatify) - Tool (or set of tools) that make it dead simple to migrate existing Kubernetes deployments into Knative Services.

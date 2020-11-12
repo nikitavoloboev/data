@@ -153,3 +153,8 @@
 - [Caching Strategies in a Federated GraphQL Architecture (2020)](https://www.apollographql.com/blog/caching-strategies-in-a-federated-graphql-architecture/)
 - [How Netflix Scales its API with GraphQL Federation (2020)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 - [Executing GraphQL Queries (2020)](https://jemma.dev/blog/executing-graphql-queries)
+- [Experimental GraphQL Playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground) - Demonstration of defer/stream/subscriptions/queries/mutations with `express-http`, `graphql-ws`. Test the bleeding egde with less hazzle.
+- [subZero](https://subzero.cloud/) - GraphQL & REST API for your database. ([GitHub](https://github.com/subzerocloud))
+- [apollo-cli](https://github.com/apollographql/rover) - New CLI for Apollo's suite of GraphQL developer productivity tools.
+- [Apollo Federation](https://github.com/apollographql/federation) ([Docs](https://www.apollographql.com/docs/federation/))
+- [The Evolution of GraphQL at Scale (2020)](https://www.apollographql.com/blog/the-evolution-of-graphql-at-scale/)

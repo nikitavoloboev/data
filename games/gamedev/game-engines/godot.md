@@ -19,3 +19,4 @@
 - [Godot Python](https://github.com/touilleMan/godot-python) - Python language support as a scripting module for the Godot game engine.
 - [Godot Docs](https://docs.godotengine.org/en/stable/)
 - [Godot demo projects](https://github.com/godotengine/godot-demo-projects)
+- [godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot's GDNative and NativeScript APIs.

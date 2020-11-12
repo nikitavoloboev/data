@@ -107,6 +107,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [coc-explorer](https://github.com/weirongxu/coc-explorer) - Explorer for coc.nvim.
 - [nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim.
 - [fzf-preview.vim](https://github.comfzf-preview.vim/yuki-ycino/fzf-preview.vim) - coc extensions and Neovim plugin that provides collection of features to assist file management using fzf.
+- [vimspector](https://github.com/puremourning/vimspector) - Multi language graphical debugger for Vim.
 
 ## Looks
 
@@ -118,6 +119,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
 - [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Airline.
 - [vim-colors-xcode](https://github.com/arzg/vim-colors-xcode) - Xcode 11’s dark and light colourschemes, now for Vim.
+- [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - Neovim statusline plugin written in lua.
 
 ## Syntax
 

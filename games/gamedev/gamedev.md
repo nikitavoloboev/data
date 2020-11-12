@@ -29,7 +29,7 @@
 - [Raylib](http://www.raylib.com) - Simple and easy-to-use library to learn video games programming.
 - [Diablo: A Classic Game Postmortem (2016)](https://www.youtube.com/watch?v=VscdPA6sUkc)
 - [Game Engine Architecture Book](https://www.gameenginebook.com/)
-- [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Awesome-Game-Networking)
+- [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Game-Networking-Resources)
 - [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.
 - [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy videogames programming.
 - [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)

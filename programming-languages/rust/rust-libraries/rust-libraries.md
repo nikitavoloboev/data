@@ -156,7 +156,7 @@
 - [mach](https://github.com/fitzgen/mach) - Rust interface to the Mach 3.0 kernel that underlies macOS.
 - [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS).
 
-## Macros
+# Macros
 
 - [cfg-if](https://github.com/alexcrichton/cfg-if) - If/elif-like macro for Rust #[cfg] statements.
 - [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
@@ -170,6 +170,7 @@
 - [num-derive](https://github.com/rust-num/num-derive) - Procedural macros to derive numeric traits in Rust.
 - [Horrorshow](https://github.com/Stebalien/horrorshow-rs) - Macro-based html builder for rust.
 - [pipeline.rs](https://github.com/johannhof/pipeline.rs) - Macro collection to pipe your functions calls, like in F# or Elixir.
+- [timed](https://github.com/y2kappa/timed) - Rust crate to time your function using derive annotations.
 
 ## Other
 
@@ -519,6 +520,8 @@
 - [liquid-rust](https://github.com/cobalt-org/liquid-rust) - Liquid templating for Rust.
 - [vmap-rs](https://github.com/kalamay/vmap-rs) - Cross-platform library for fast and safe memory-mapped IO in Rust.
 - [metrics](https://github.com/metrics-rs/metrics) - Metrics ecosystem for Rust.
+- [primordial](https://github.com/enarx/primordial) - Low-level CPU primitives.
+- [rkyv](https://github.com/djkoloski/rkyv) - Zero-copy deserialization framework for Rust.
 
 ## Cargo Plugins
 

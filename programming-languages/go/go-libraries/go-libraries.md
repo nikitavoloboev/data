@@ -88,6 +88,7 @@
 - [GoPacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go.
 - [goim](https://github.com/Terry-Mao/goim) - Web server in Go.
 - [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
+- [dhcp](https://github.com/insomniacslk/dhcp) - DHCPv4 and DHCPv6 decoding/encoding library with client and server code, written in Go.
 
 ## GraphQL
 
@@ -132,6 +133,7 @@
 - [goyesql](https://github.com/nleof/goyesql) - Go + Yesql.
 - [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - Go package to help write migrations with go-pg/pg.
 - [gosql](https://github.com/eatonphil/gosql) - Early PostgreSQL implementation in Go.
+- [go-storage](https://github.com/aos-dev/go-storage) - Application-oriented unified storage layer for Go. ([Docs](https://aos.dev/))
 
 ## ML
 
@@ -583,6 +585,7 @@
 - [OpenTelemetry-Go Contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of 3rd-party instrumentation and exporters for OpenTelemetry-Go.
 - [structtag](https://github.com/fatih/structtag) - Parse and modify Go struct field tags.
 - [Functions Framework for Go](https://github.com/GoogleCloudPlatform/functions-framework-go) - (Function as a service) framework for writing portable Go functions.
+- [ecs](https://github.com/ByteArena/ecs) - Go implementation of the Entity/Component/System paradigm.
 
 ## Links
 

@@ -62,3 +62,5 @@
 - [Western Digital SweRV RISC-V Core](https://github.com/chipsalliance/Cores-SweRV) ([HN](https://news.ycombinator.com/item?id=25002448))
 - [RISC-V Cores and SoC Overview](https://github.com/riscv/riscv-cores-list)
 - [Getting Graphical Output from our Custom RISC-V Operating System in Rust (2020)](https://blog.stephenmarz.com/2020/11/11/risc-v-os-using-rust-graphics/)
+- [Linux on LiteX-VexRiscv](https://github.com/litex-hub/linux-on-litex-vexriscv)
+- [rvddt](https://github.com/johnwinans/rvddt) - RISC-V Dynamic Debugging Tool.

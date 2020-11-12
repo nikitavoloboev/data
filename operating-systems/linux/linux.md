@@ -212,3 +212,4 @@
 - [Debugging Linux Kernel with QEMU (2020)](https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html)
 - [Embedded Linux Conference Europe 2020](https://www.youtube.com/playlist?list=PLZjq3una5SrDeo4RM5UZyZTisSuLd_3gb)
 - [How to get root on Ubuntu 20.04 by pretending nobody’s /home (2020)](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE) ([HN](https://news.ycombinator.com/item?id=25053238))
+- [Linux Command One-Liners](https://linuxcommandlibrary.com/basic/oneliners.html) ([HN](https://news.ycombinator.com/item?id=25069452))

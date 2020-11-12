@@ -12,3 +12,4 @@
 - [Replacing Ansible with salt-ssh (2020)](https://blog.hartwork.org/posts/replacing-ansible-with-salt-ssh-for-speed-and-for-good/) ([HN](https://news.ycombinator.com/item?id=24856502))
 - [Ansible Quick Ref](https://github.com/lorin/ansible-quickref)
 - [Ansible: Up and Running book](http://www.ansiblebook.com/) ([Code](https://github.com/ansiblebook/ansiblebook))
+- [Getting started with Ansible (2020)](https://steampunk.si/blog/getting-started-with-ansible/)

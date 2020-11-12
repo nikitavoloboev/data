@@ -129,6 +129,7 @@
 - [use-tweaks](https://github.com/pmndrs/use-tweaks) - Tweak React components with Tweakpanes.
 - [repng](https://github.com/jxnblk/repng) - React component to PNG converter, built with Puppeteer.
 - [react-calendly](https://github.com/tcampb/react-calendly) - Calendly integration for React apps.
+- [react-s3-uploader](https://github.com/odysseyscience/react-s3-uploader) - Provides a React component that automatically uploads to an S3 Bucket.
 
 ## Links
 

@@ -146,3 +146,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Source Code Leak (2020)](https://web.archive.org/web/20201104050026if_/https://github.com/github/dmca/tree/565ece486c7c1652754d7b6d2b5ed9cb4097f9d5) ([HN](https://news.ycombinator.com/item?id=24994746))
 - [GitHub Support Community](https://github.community/)
 - [GitHub Unofficial Issue Tracker](https://github.com/isaacs/github)
+- [publish-release](https://github.com/remixz/publish-release) - Create GitHub releases with assets from CLI, or from JS.

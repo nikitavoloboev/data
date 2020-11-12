@@ -221,3 +221,5 @@
 - [Haskell Foundation](https://haskell.foundation/) ([New Chapter For Haskell: The Haskell Foundation](https://haskell.foundation/whitepaper/)) ([Reddit AMA](https://www.reddit.com/r/haskell/comments/jnwg7i/haskell_foundation_ama/)) ([Announcement Talk](https://www.youtube.com/watch?v=MEmRarBL9kw))
 - [Real World Haskell](https://mmhaskell.com/real-world) ([HN](https://news.ycombinator.com/item?id=25005525))
 - [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
+- [Consider Haskell (2020)](https://gilmi.me/blog/post/2020/04/28/consider-haskell)
+- [Learning Haskell by building a simple static blog generator, one commit at a time](https://github.com/soupi/learn-haskell-blog-generator)

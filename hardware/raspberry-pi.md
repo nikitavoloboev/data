@@ -44,3 +44,5 @@
 - [Raspberry Pi 400 – First Impressions (2020)](https://martinpeck.com/blog/2020/11/06/Raspberry-Pi-400/) ([HN](https://news.ycombinator.com/item?id=25014025))
 - [Open and cheap DIY IP-KVM based on Raspberry Pi](https://github.com/pikvm/pikvm) ([Web](https://pikvm.org/))
 - [Checking if the Pi is done (2020)](https://alexanderell.is/posts/pi-cluster-monitoring/) - Basic monitoring for a Raspberry Pi cluster.
+- [Raspberry Pi Homelab with Kubernetes (2020)](https://amithm.ca/2020/10/kubernetes-raspberrypi-homelab/) ([HN](https://news.ycombinator.com/item?id=25061097))
+- [Remove ads from your life using Raspberry Pi, Docker and Docker Compose (2020)](https://burakkarakan.com/blog/pihole-on-raspberry-using-pi-docker-and-docker-compose/)

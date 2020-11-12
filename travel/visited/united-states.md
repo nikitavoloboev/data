@@ -25,3 +25,4 @@
 - [Why I Left America (2020)](https://www.theatlantic.com/ideas/archive/2020/10/american-emigre/616705/) ([HN](https://news.ycombinator.com/item?id=24777278))
 - [MTA Live Subway Map](https://map.mta.info/)
 - [Interesting history of why region in US votes democrat](https://twitter.com/latifnasser/status/1323333293467525126)
+- [You Are Not Free to Move Out of the Country (2020)](https://www.currentaffairs.org/2020/11/you-are-not-free-to-move-out-of-the-country) ([HN](https://news.ycombinator.com/item?id=25068594))

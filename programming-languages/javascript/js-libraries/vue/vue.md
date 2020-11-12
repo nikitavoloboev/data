@@ -35,3 +35,4 @@
 - [Things I Don’t Like about Vue.js (as a React engineer) (2020)](https://hswolff.com/blog/things-i-dont-like-about-vuejs-as-a-react-engineer/)
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.
 - [Equal UI](https://quatrochan.github.io/Equal/) - Vue 3 components library with 30+ components based on TypeScript and personal design system. ([Code](https://github.com/quatrochan/Equal))
+- [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3.0 UI Library.

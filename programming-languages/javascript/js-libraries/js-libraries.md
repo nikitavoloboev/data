@@ -353,6 +353,8 @@
 - [Pill](https://github.com/rumkin/pill) - Add dynamic content loading to static sites with only 1 KiB of JS.
 - [fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - Fastest deep equal with ES6 Map, Set and Typed arrays support.
 - [preview-card](https://github.com/egoist/preview-card) - Customizable social media preview image.
+- [egjs-flicking](https://github.com/naver/egjs-flicking) - Easy-to-use and performant infinite carousel.
+- [SSE-Z](https://github.com/contrawork/sse-z) - Slim, easy-to-use wrapper around EventSource.
 
 ## Links
 

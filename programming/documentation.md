@@ -11,6 +11,7 @@
 - [Formik Docs](https://formik.org/blog/new-docs) - NextJS + Notion + TailwindCSS + AlgoliaSearch.
 - [Monzo](https://docs.monzo.com/#introduction)
 - [Expo](https://docs.expo.io/)
+- [Apollo](https://www.apollographql.com/docs/) - Lovely search.
 - [Prolens nice ASCII diagrams](https://twitter.com/kowainik/status/1316297938667220992)
 
 ## Notes

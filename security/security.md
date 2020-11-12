@@ -123,3 +123,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Infection Monkey](https://github.com/guardicore/monkey) - Open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection.
 - [Clean up your digital hygiene (2020)](https://luminousmen.com/post/clean-up-your-digital-hygiene)
 - [OSS Security Scorecards](https://github.com/ossf/scorecard)
+- [Gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit. ([Web](https://getgophish.com/))

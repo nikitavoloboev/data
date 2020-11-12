@@ -25,6 +25,7 @@
 - [siuba](https://github.com/machow/siuba) - Scrappy data analysis, with seamless support for pandas and SQL.
 - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod) - Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 - [SymPy](https://github.com/sympy/sympy) - Computer algebra system written in pure Python.
+- [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 
 ## Biology
 
@@ -214,6 +215,8 @@
 - [Promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python.
 - [JSON Schema-powered type annotations](https://github.com/erickpeirson/jsonschema-typed)
 - [Awkward Array](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
+- [python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator.
+- [Pathy](https://github.com/justindujardin/pathy) - Path interface for local and cloud bucket storage.
 
 ## Links
 

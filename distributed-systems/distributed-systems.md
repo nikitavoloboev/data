@@ -129,3 +129,5 @@
 - [Distributed Systems lecture series by Martin Kleppmann (2020)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) ([Lectures Notes](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-notes.pdf))
 - [Dkron](https://github.com/distribworks/dkron) - Distributed, fault tolerant job scheduling system for cloud native environments. ([Web](https://dkron.io/))
 - [Braft](https://github.com/baidu/braft) - Industrial-grade C++ implementation of the RAFT consensus algorithm.
+- [Distributed Systems course (2020)](http://composition.al/CSE138-2020-03/index.html) ([Notes](https://github.com/ChrisWhealy/DistributedSystemNotes)G)
+- [MirBFT Library](https://github.com/IBM/mirbft) - Consensus library implementing the Mir consensus protocol.

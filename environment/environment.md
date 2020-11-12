@@ -66,3 +66,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Stripe Climate](https://stripe.com/climate) ([HN](https://news.ycombinator.com/item?id=24919006)) ([Tweet](https://twitter.com/lehrjulian/status/1321480088781815808))
 - [Climate CTO](https://climatecto.com/) - Become the CTO of a climate startup.
 - [Work on Climate](https://workonclimate.org/) - Help you find a way to contribute to climate action.
+- [HEATED](https://heated.world/) - Original reporting and analysis on the climate crisis at the top of your inbox every morning.

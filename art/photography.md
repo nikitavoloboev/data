@@ -81,3 +81,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Computational Photography course](https://www.udacity.com/course/computational-photography--ud955)
 - [ImageNet](http://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
 - [Bibliogram](https://bibliogram.art/) - Website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. ([Code](https://sr.ht/~cadence/bibliogram/))
+- [Close-up Photographer of the Year](https://www.cupoty.com/) ([2020 Winners](https://www.cupoty.com/winners-02))

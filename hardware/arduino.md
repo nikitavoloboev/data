@@ -12,3 +12,4 @@
 - [Commanduino Library](https://github.com/croningp/commanduino) - Tools to control Arduino boards seamlessly from Python.
 - [Arduino emulator](https://github.com/ghewgill/emulino)
 - [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Adds MIDI I/O communications to an Arduino board.
+- [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) - ArduinoBLE library for Arduino.

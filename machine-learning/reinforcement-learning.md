@@ -126,3 +126,4 @@
 - [XingTian](https://github.com/huawei-noah/xingtian) - Componentized library for the development and verification of reinforcement learning algorithms.
 - [Theoretical Foundations of Reinforcement Learning (2020)](https://www.youtube.com/watch?v=_-aeyeBYz1s)
 - [mazelab](https://github.com/zuoxingdong/mazelab) - Customizable framework to create maze and gridworld environments.
+- [Addressing Function Approximation Error in Actor-Critic Methods](https://github.com/sfujim/TD3) - PyTorch implementation of Twin Delayed Deep Deterministic Policy Gradients (TD3).

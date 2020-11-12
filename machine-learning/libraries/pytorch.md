@@ -164,3 +164,5 @@
 - [PyTorch Loss](https://github.com/CoinCheung/pytorch-loss) - Label-smooth, amsoftmax, focal-loss, triplet-loss.
 - [Cleora](https://github.com/Synerise/cleora) - Faster alternative to PyTorch-BigGraph.
 - [The Original Transformer (PyTorch)](https://github.com/gordicaleksa/pytorch-original-transformer)
+- [PyTorch implementation of the hamburger module from the ICLR 2020 paper "Is Attention Better Than Matrix Decomposition"](https://github.com/lucidrains/hamburger-pytorch)
+- [PyTorch Developer Day 2020](https://www.facebook.com/pytorch/videos/1001102260293556/)

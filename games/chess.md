@@ -17,3 +17,4 @@
 - [PyChess](https://github.com/pychess/pychess) - Chess client for Linux/Windows. ([Web](https://pychess.github.io/))
 - [agadmator's Chess Channel](https://www.youtube.com/c/AGADMATOR/videos)
 - [How to Get Good at Chess, Fast (2013)](https://www.gautamnarula.com/how-to-get-good-at-chess-fast/)
+- [A Grandmaster Plays a Beginner | Chess Mastery Explained (2020)](https://www.youtube.com/watch?v=XzgnlvT5-6Y)

@@ -93,6 +93,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Twenttty](https://apps.apple.com/pl/app/twenttty/id1534796314?mt=12) - Give your eyes a break.
 - [PopClip](https://pilotmoon.com/popclip/) - Appears when you select text with your mouse on your Mac. ([PopClip Extensions](https://github.com/pilotmoon/PopClip-Extensions))
 - [ClashX](https://github.com/yichengchen/clashX) - Rule based proxy For Mac base on Clash.
+- [Lacona](https://lacona.app/) - Command launcher.
 
 ## Links
 
@@ -100,7 +101,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Hyperlink and Deep Linking URLs](https://www.evernote.com/shard/s107/sh/c1c6cfa0-7558-4b17-84a0-6c7f6dce2a85/285e49afa8b122d9)
 - [Ship app open source code](https://www.realartists.com/blog/ship-is-open-source.html) - Amazing GitHub native client that was closed down.
-- [Collection of open and indie Mac, iOS, and web apps that help promote the open web](https://macopenweb.com/)
+- [Mac Open Web](https://macopenweb.com/) - Collection of open and indie Mac, iOS, and web apps that help promote the open web. ([Code](https://github.com/good/openweb))
 - [Dashing](https://github.com/technosophos/dashing) - Generate Dash documentation from HTML.
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS based on binary space partitioning.
 - [3 Advanced Workflows for "Things" Power User](https://fabriziorinaldi.io/blog/things-advanced-workflows)

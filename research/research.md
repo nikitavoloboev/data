@@ -69,3 +69,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [NobelPrize.org](https://www.nobelprize.org/) - Set of annual international awards on science.
 - [Why writing research proposals is important for any researcher](https://twitter.com/omarsar0/status/1314217743391100928)
 - [PLOS Journals](https://plos.org/#journals) - Influential Open Access journals across all areas of science and medicine.
+- [Guide to Awesome Research Proposals](https://github.com/dair-ai/awesome-research-proposals-guide)

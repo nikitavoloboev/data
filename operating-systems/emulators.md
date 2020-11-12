@@ -31,3 +31,4 @@
 - [yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator. ([Web](https://yuzu-emu.org/))
 - [We made our own x86 shellcode emulator and how it works (2020)](https://hvmi.github.io/blog/2020/11/11/bdshemu.html) ([HN](https://news.ycombinator.com/item?id=25057062))
 - [Hypervisor Memory Introspection](https://github.com/hvmi/hvmi)
+- [vAmiga](https://github.com/dirkwhoffmann/vAmiga) - Emulates a Commodore Amiga 500, 1000, or 2000 on your Mac.

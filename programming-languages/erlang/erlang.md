@@ -59,3 +59,4 @@
 - [Erlang: A first look at the JIT (2020)](https://blog.erlang.org/a-first-look-at-the-jit/) ([HN](https://news.ycombinator.com/item?id=24989682)) ([Lobsters](https://lobste.rs/s/pb2vis/erlang_first_look_at_jit))
 - [Why Typing Erlang is Hard: Standard Erlang (2020)](https://abstractmachines.dev/posts/am012-why-typing-erlang-is-hard.html)
 - [system_monitor](https://github.com/klarna-incubator/system_monitor) - BEAM VM monitoring and introspection application that helps troubleshooting live systems.
+- [Chasing a Performance Regression with Erlang/OTP 22 (2020)](https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html)

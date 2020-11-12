@@ -378,3 +378,4 @@ Go promotes composition over inheritance.
 - [go-critic](https://github.com/go-critic/go-critic) - Highly extensible Go source code linter providing checks currently missing from other linters.
 - [Eleven Years of Go (2020)](https://blog.golang.org/11years) ([HN](https://news.ycombinator.com/item?id=25048028))
 - [Go Systems Conf](https://systemsconf.io/)
+- [play-with-go.dev](https://play-with-go.dev/) - Series of hands-on, interactive, browser-based guides that introduce the tools required to work with Go .

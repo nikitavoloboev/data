@@ -23,3 +23,4 @@
 - [Telegram bot for Prometheus alerting](https://github.com/inCaller/prometheus_bot)
 - [Alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager.
 - [Prometheus client for node.js](https://github.com/siimon/prom-client)
+- [Node exporter](https://github.com/prometheus/node_exporter) - Prometheus exporter for hardware and OS metrics exposed by NIX kernels, written in Go with pluggable metric collectors.

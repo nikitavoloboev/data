@@ -78,3 +78,4 @@
 - [Preparing for the Docker Hub Rate Limits (2020)](https://inlets.dev/blog/2020/10/29/preparing-docker-hub-rate-limits.html)
 - [Jobs as a Service (JaaS)](https://github.com/alexellis/jaas) - Run jobs (tasks/one-shot containers) on Docker Swarm.
 - [pkger](https://github.com/wojciechkepka/pkger) - Package building tool utilizing Docker written in Rust.
+- [Docker App](https://github.com/docker/app) - Cloud Native application packaging framework with which developers and devops can build, share, and run a set of microservices as a single entity.

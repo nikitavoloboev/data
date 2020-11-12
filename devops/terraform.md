@@ -47,3 +47,4 @@
 - [Writing terraform with typescript (2020)](https://jkrsp.com/writing-terraform-with-typescript/)
 - [Terraform Cloud Getting Started Guide Example](https://github.com/hashicorp/tfc-guide-example)
 - [Terraform provider for libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider that lets you provision servers on a libvirt host via Terraform.
+- [Datadog to Terraform Converter](https://github.com/laurmurclar/datadog-to-terraform) - Converts Datadog monitor and dashboard JSON into Terraform alarm code.

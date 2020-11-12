@@ -136,3 +136,4 @@
 - [PyTorch Implementation of "NVAE: A Deep Hierarchical Variational Autoencoder"](https://github.com/NVlabs/NVAE)
 - [Label Decoupling Framework for Salient Object Detection](https://github.com/weijun88/LDF)
 - [MONAI](https://github.com/Project-MONAI/MONAI) - PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. ([Web](https://monai.io/))
+- [Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection](https://github.com/implus/GFocal)

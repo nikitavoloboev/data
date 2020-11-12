@@ -6,6 +6,7 @@
 - [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework. ([Tutorial](https://alan-turing-institute.github.io/MLJTutorials/))
 - [MLJTime](https://github.com/alan-turing-institute/MLJTime.jl) - MLJ compatible Julia toolbox for learning with time series.
 - [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
+- [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.
 
 ## Math
 
@@ -110,6 +111,7 @@
 - [Restructured BNF](https://github.com/thautwarm/RBNF.jl) - Aims at the generating parsers without requiring redundant coding from programmers.
 - [GeneralizedGenerated](https://github.com/JuliaStaging/GeneralizedGenerated.jl) - Enables the generalized generated functions. Specifically, it supports closure constructions in generated functions.
 - [DiffEqBase.jl](https://github.com/SciML/DiffEqBase.jl) - Lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems.
+- [LRUCache.jl](https://github.com/JuliaCollections/LRUCache.jl) - Provides a thread-safe implementation of a Least Recently Used (LRU) Cache for Julia.
 
 ## Links
 

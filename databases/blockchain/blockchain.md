@@ -91,3 +91,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [GoChain](https://gochain.io/) - Fast, sustainable web3 based blockchain protocol.
 - [Ask HN: What are real-life useful use-cases for blockchain (not currencies)? (2020)](https://news.ycombinator.com/item?id=24881140)
 - [Security and Privacy of Blockchain Protocols and Applications (2020)](https://github.com/s-tikhomirov/phd-thesis)
+- [The Future of Blockchain with Nick Szabo, Adam Back, & David Chaum (2019)](https://www.youtube.com/watch?v=LF2mQI9cTS8)

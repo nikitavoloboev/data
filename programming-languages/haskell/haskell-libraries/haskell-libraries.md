@@ -68,6 +68,8 @@
 - [massiv](https://github.com/lehins/massiv) - Efficient Haskell Arrays featuring Parallel computation.
 - [json-to-haskell](https://github.com/ChrisPenner/json-to-haskell) - In goes JSON, out comes Haskell.
 - [unliftio](https://github.com/fpco/unliftio) - MonadUnliftIO typeclass for unlifting monads to IO.
+- [json-autotype](https://github.com/migamake/json-autotype) - Takes a JSON format input, and generates automatic Haskell type declarations.
+- [domain](https://github.com/nikita-volkov/domain) - Focused domain model declaration toolkit for Haskell.
 
 ## Links
 

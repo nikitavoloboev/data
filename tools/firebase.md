@@ -18,4 +18,4 @@
 - [Python Firebase](https://github.com/ozgur/python-firebase) - Python interface to the Firebase's REST API.
 - [Firebase & GCP Examples](https://github.com/jthegedus/firebase-gcp-examples) - Firebase app architectures, languages, tools & some GCP things.
 - [Firebase Summit 2020 videos](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlRjj-mSComCq3Vd4IJese1)
-- [Etebase](https://www.etebase.com/) - End-to-end encrypted backend. Think Firebase but encrypted in a way that only your users can access their data. ([GitHub](https://github.com/etesync))
+- [Etebase](https://www.etebase.com/) - End-to-end encrypted backend. Think Firebase but encrypted in a way that only your users can access their data. ([GitHub](https://github.com/etesync)) ([HN](https://news.ycombinator.com/item?id=25059133))

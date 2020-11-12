@@ -165,3 +165,4 @@
 - [Coding a Neural Network: A Beginner's Guide (2020)](https://www.youtube.com/watch?v=TIEKzVwS12g)
 - [Eiffel2](https://github.com/Ale9806/Eiffel2) - Neural Network architecture Visualization tool.
 - [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper)
+- [Elegy](https://github.com/poets-ai/elegy) - Neural Networks framework based on Jax inspired by Keras and Haiku.
