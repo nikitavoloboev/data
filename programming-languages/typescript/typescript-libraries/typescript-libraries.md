@@ -71,6 +71,7 @@
 - [useFsmReducer](https://github.com/mattpocock/use-fsm-reducer) - useReducer for state machine enthusiasts.
 - [tydoc](https://github.com/jasonkuhrt/tydoc) - TypeScript documenter that meets you where you are.
 - [Setset](https://github.com/jasonkuhrt/setset) - Powerful Incremental Type-driven Settings Engine.
+- [Suub](https://github.com/etienne-dldc/suub) - Simple pub/sub written in TypeScript.
 
 ## Links
 

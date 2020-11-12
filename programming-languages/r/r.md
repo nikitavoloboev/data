@@ -32,3 +32,4 @@
 - [ggplot2](https://github.com/tidyverse/ggplot2) - Implementation of the Grammar of Graphics in R.
 - [Tidyverse](https://www.tidyverse.org/) - Opinionated collection of R packages designed for data science. ([GitHub](https://github.com/tidyverse))
 - [Programming R at native speed using Haskell (2020)](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/) ([HN](https://news.ycombinator.com/item?id=24981356))
+- [jqr](https://github.com/ropensci/jqr) - R interface to jq, a JSON processor.

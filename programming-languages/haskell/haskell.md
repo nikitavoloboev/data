@@ -28,6 +28,7 @@
 
 ## Links
 
+- [A Gentle Introduction to Haskell (2000)](https://www.haskell.org/tutorial/)
 - [Haskell Programming Book](https://haskellbook.com/)
 - [Learn Haskell Path](https://github.com/bitemyapp/learnhaskell)
 - [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types) ([Notes](https://abhinavsarkar.net/posts/twt-notes-1/))

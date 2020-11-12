@@ -376,3 +376,5 @@ Go promotes composition over inheritance.
 - [Gochk](https://github.com/resotto/gochk) - Static Dependency Analysis Tool for Go Files.
 - [Manual Memory Management in Go using jemalloc (2020)](https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/) ([HN](https://news.ycombinator.com/item?id=25011408))
 - [go-critic](https://github.com/go-critic/go-critic) - Highly extensible Go source code linter providing checks currently missing from other linters.
+- [Eleven Years of Go (2020)](https://blog.golang.org/11years) ([HN](https://news.ycombinator.com/item?id=25048028))
+- [Go Systems Conf](https://systemsconf.io/)

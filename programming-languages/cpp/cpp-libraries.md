@@ -20,6 +20,7 @@
 - [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI.
 - [Plywood](https://github.com/arc80/plywood) - Cross-platform framework for building all kinds of C++ software. ([HN](https://news.ycombinator.com/item?id=23310341))
 - [Elements](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. ([HN](https://news.ycombinator.com/item?id=23743376))
+- [wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library.
 
 ## Web
 

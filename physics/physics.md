@@ -149,3 +149,4 @@
 - [What is Energy? Is Energy conserved? (2020)](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
 - [Why no one has measured the speed of light (2020)](https://www.youtube.com/watch?v=pTn6Ewhb27k)
 - [How to Become a Good Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)
+- [Advance Electromagnetism Notes](https://andrealommen.github.io/PHY309/lectures)

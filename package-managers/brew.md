@@ -22,3 +22,5 @@
 - [Update Homebrew Formula](https://github.com/NSHipster/update-homebrew-formula-action) - GitHub Action that synchronizes a Homebrew formula with a GitHub release.
 - [Homebrew Formulae](https://formulae.brew.sh/) - Online package browser for Homebrew. ([Code](https://github.com/Homebrew/formulae.brew.sh))
 - [Homebrew Discussions](https://github.com/Homebrew/discussions/discussions)
+- [Brew code](https://github.com/Homebrew/brew)
+- [Homebrew (un)installer](https://github.com/Homebrew/install)

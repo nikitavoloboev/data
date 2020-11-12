@@ -39,6 +39,9 @@
 - [AudioMass](https://audiomass.co/) - Audio Editor.
 - [Geonkick](https://github.com/iurie-sw/geonkick) - Free software percussion synthesizer for GNU/Linux.
 - [kord](https://github.com/synestematic/kord) - Music theory development framework in python.
+- [DaisySP](https://github.com/electro-smith/DaisySP) - Open source DSP library written in C++ and specifically tailored to embedded audio applications.
+- [Daisy Seed](https://www.electro-smith.com/daisy/daisy) - Embedded platform for music. It features everything you need for creating high fidelity audio hardware devices. Just plug in a USB cable and start making sound.
+- [Daisy Synthesizers Shop](https://www.electro-smith.com/daisy)
 
 ## Inspiration
 

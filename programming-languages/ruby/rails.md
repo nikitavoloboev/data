@@ -25,3 +25,4 @@
 - [React on Rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React.
 - [Ruby on Rails in a Week (2020)](https://www.simplethread.com/ruby-on-rails-in-a-week/) ([HN](https://news.ycombinator.com/item?id=24934581))
 - [How to GraphQL with Ruby, Rails, Active Record, and No N+1 (2020)](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one) ([HN](https://news.ycombinator.com/item?id=25037293))
+- [Introduction to Ruby on Rails Patterns and Anti-patterns (2020)](https://pragmaticpineapple.com/introduction-to-ruby-on-rails-patterns-and-anti-patterns/)

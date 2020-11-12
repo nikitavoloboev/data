@@ -51,3 +51,5 @@
 - [extruct](https://github.com/scrapinghub/extruct) - Library for extracting embedded metadata from HTML markup.
 - [Introduction to Scraping in Python (2020)](https://itnext.io/introduction-to-scraping-in-python-with-beautifulsoup-and-requests-ab7b1c9bc113)
 - [Test driving a HackerNews scraper with Node.js (2020)](https://cri.dev/posts/2020-11-06-Test-driving-a-HackerNews-scraper-with-Nodejs/)
+- [SecretAgent](https://github.com/ulixee/secret-agent) - Web browser that's built for scraping. ([Web](https://secretagent.dev/))
+- [Ulixee](https://ulixee.org/) - Turns every website into an open API. Access any dataset on the world wide web. ([GitHub](https://github.com/ulixee))

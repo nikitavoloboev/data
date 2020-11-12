@@ -33,3 +33,4 @@
 - [Never Compete on Price (2020)](https://medium.com/@tylerhakes/never-compete-on-price-c7709f29280)
 - [We Pay for Software (2020)](https://adamwiggins.com/making-computers-better/pay) ([HN](https://news.ycombinator.com/item?id=25027907))
 - [How to price your SaaS product (2020)](https://www.lennyrachitsky.com/p/saas-pricing-strategy)
+- [Ask HN: How do you sell services, instead of a product? (2020)](https://news.ycombinator.com/item?id=25048031)

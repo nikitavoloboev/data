@@ -72,6 +72,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [VirtualKVM](https://github.com/duanefields/VirtualKVM) - Automatically toggles Bluetooth and Target Display Mode when you connect a Macbook to your iMac via Thunderbolt.
 - [Keycastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
+- [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.
 
 ## Other interesting apps
 

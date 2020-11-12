@@ -88,6 +88,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Garlandus blog](https://garlandus.co/) - Essays on some of the mathematics behind computing, from classical logic to the monads of category theory, by way of Goettingen.
 - [Logical Relations as Types: Proof-Relevant Parametricity for Program Modules (2020)](http://www.jonmsterling.com/pdfs/lrat.pdf)
 - [Category Theory Resources](https://github.com/prathyvsh/category-theory-resources)
+- [Applied Category Theory: Notes on generative effects](https://github.com/joshvera/generative-effects)
 
 ## Images
 

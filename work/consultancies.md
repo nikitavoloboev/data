@@ -56,6 +56,7 @@
 - [Z1](https://z1.digital/) - Digital Product Studio.
 - [No Service 24/7](https://www.noservice.today/) - Brand Agency.
 - [Unlikely Objects](https://unlikelyobjects.com/) - Storytelling studio.
+- [FAVO Studio](https://favostudio.com/) - Motion Design, Animation & Video.
 
 ## DB
 
@@ -139,6 +140,7 @@
 - [Jayway](https://www.jayway.com/)
 - [Bad Idea Factory](https://biffud.com/)
 - [Shakacode](https://www.shakacode.com/) - Ruby on Rails, React, Gatsby and Reason development.
+- [Nodes Agency](https://www.nodesagency.com/) - Digital product development agency.
 
 ## Links
 

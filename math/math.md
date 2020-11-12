@@ -209,3 +209,4 @@
 - [Why is there no equation for the perimeter of an ellipse‽ (2020)](https://www.youtube.com/watch?v=5nW3nJhBHL0)
 - [Open textbooks approved by the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
 - [Intellectual Mathematics](http://intellectualmathematics.com/)
+- [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes) ([HN](https://news.ycombinator.com/item?id=25055267))

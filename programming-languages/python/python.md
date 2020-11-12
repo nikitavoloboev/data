@@ -205,3 +205,4 @@
 - [Composing Programs](http://composingprograms.com/) - Free online introduction to programming and computer science using Python.
 - [Writing Performant Parallel Python Code (2020)](https://medium.com/swlh/writing-performant-parallel-python-code-7e2f0292f438)
 - [Optimizing your code is not the same as parallelizing your code (2020)](https://pythonspeed.com/articles/do-you-need-cluster-or-multiprocessing/)
+- [PyPy](https://github.com/mozillazg/pypy) - Interpreter that implements the Python programming language, based on the RPython compiler framework for dynamic language implementations. ([PyPy: Faster Python With Minimal Effort](https://realpython.com/pypy-faster-python/))

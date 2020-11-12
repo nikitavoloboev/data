@@ -121,7 +121,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [linus.zone](https://linus.zone/) - URL shortener / note sharing service. ([Code](https://github.com/thesephist/zone))
-- [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools. ([Raycast Script Commands](https://github.com/raycast/script-commands)) ([HN](https://news.ycombinator.com/item?id=24932600))
+- [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools. ([Raycast Script Commands](https://github.com/raycast/script-commands)) ([HN](https://news.ycombinator.com/item?id=24932600)) ([Write Script Commands in Swift to trigger every-day tasks from Raycast](https://raycast.com/blog/automate-your-mac-with-swift/))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends.
@@ -237,6 +237,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Otter](https://otter.ai/) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations.
 - [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
 - [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
+- [Config.ly](https://www.config.ly/) - Never hardcode your data again. Instantly update static / config data on all your apps/servers without waiting on a deploy or App Store review. ([HN](https://news.ycombinator.com/item?id=25059296))
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
 - [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)) ([HN](https://news.ycombinator.com/item?id=24882480))
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
@@ -247,6 +248,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 - [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
+- [Notifly](https://www.notifly.io/) - Let us handle your web app notifications.
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.

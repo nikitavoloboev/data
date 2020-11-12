@@ -64,3 +64,4 @@
 - [Introduction to Swift for TensorFlow (2020)](https://www.youtube.com/watch?v=YSUFcX2dTjk) ([Slides](https://brettkoonce.com/talks/introduction-to-swift-tensorflow-2020/))
 - [Convolutional Neural Networks with Swift for TensorFlow](https://convolutionalneuralnetworkswithswift.com/)
 - [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
+- [TensorFlow Model Garden](https://github.com/tensorflow/models) - Repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users.

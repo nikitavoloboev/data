@@ -45,3 +45,5 @@
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests. ([Web](https://www.infracost.io/))
 - [Introduction to Infrastructure as Code using Terraform (2020)](https://blog.manimuridi.com/2020/10/16/introduction-to-infrastructure-as-code-using-terraform/)
 - [Writing terraform with typescript (2020)](https://jkrsp.com/writing-terraform-with-typescript/)
+- [Terraform Cloud Getting Started Guide Example](https://github.com/hashicorp/tfc-guide-example)
+- [Terraform provider for libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider that lets you provision servers on a libvirt host via Terraform.

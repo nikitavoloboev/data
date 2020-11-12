@@ -581,6 +581,8 @@
 - [qs](https://github.com/sonh/qs) - Go module for encoding structs into URL query parameters.
 - [Enumer](https://github.com/alvaroloes/enumer) - Tool to auto generate methods for your enums.
 - [OpenTelemetry-Go Contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of 3rd-party instrumentation and exporters for OpenTelemetry-Go.
+- [structtag](https://github.com/fatih/structtag) - Parse and modify Go struct field tags.
+- [Functions Framework for Go](https://github.com/GoogleCloudPlatform/functions-framework-go) - (Function as a service) framework for writing portable Go functions.
 
 ## Links
 

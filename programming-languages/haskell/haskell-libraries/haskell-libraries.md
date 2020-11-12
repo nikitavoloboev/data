@@ -75,3 +75,4 @@
 - [Aelve Haskell packages search](https://codesearch.aelve.com/haskell) - Grep over package repositories.
 - [Monadoc](https://github.com/tfausak/monadoc) - Better Haskell documentation.
 - [Stackage](https://www.stackage.org/) - Distribution of compatible Haskell packages from Hackage that build together. ([Code](https://github.com/commercialhaskell/stackage))
+- [pantry](https://github.com/commercialhaskell/pantry) - Content addressable Haskell package management, providing for secure, reproducible acquisition of Haskell package contents and metadata.

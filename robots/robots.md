@@ -35,3 +35,9 @@
 - [How do you Architect your Robots? State of the Practice and Guidelines for ROS-based System](https://github.com/S2-group/icse-seip-2020-replication-package/blob/master/ICSE_SEIP_2020.pdf) ([Code](https://github.com/S2-group/icse-seip-2020-replication-package))
 - [Multiprotocol TX Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module) - 2.4GHz transmitter module which enables almost any transmitter to control many different receivers and models, including many popular helicopters, planes, quadcopters, and miniquads.
 - [Robotkernel](https://github.com/robots-from-jupyter/robotkernel) - Robot Framework IPython kernel for Jupyter Notebook and JupyterLab.
+- [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. ([Web](https://simtk.org/projects/simbody))
+- [OpenSim Core](https://github.com/opensim-org/opensim-core) - Software that lets users develop models of musculoskeletal structures and create dynamic simulations of movement.
+- [PyDy](https://github.com/pydy/pydy) - Multibody dynamics tool kit.
+- [yeadon](https://github.com/chrisdembia/yeadon) - Human inertia model developed by Fred Yeadon in 1990.
+- [Resonance](https://github.com/moorepants/resonance) - Learning Mechanical Vibration Engineering Through Computation.
+- [Hindsight Experience Replay (HER) in PyTorch](https://github.com/TianhongDai/hindsight-experience-replay)

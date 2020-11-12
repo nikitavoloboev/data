@@ -54,3 +54,4 @@
 - [Horizon Network Service](https://github.com/hashicorp/horizon) - Location Independent Routing Mesh.
 - [Autoscaling Monzo: How we optimise our platform to be just the right size (2020)](https://monzo.com/blog/2020/10/19/autoscaling-monzo)
 - [Microservices – architecture nihilism in minimalism's clothes (2020)](https://vlfig.me/posts/microservices) ([HN](https://news.ycombinator.com/item?id=24963742))
+- [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard.

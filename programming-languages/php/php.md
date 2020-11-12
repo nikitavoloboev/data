@@ -9,3 +9,5 @@
 - [Laravel beyond CRUD](https://laravel-beyond-crud.com/) - Building larger-than-average web applications.
 - [PHP 8: before and after (2020)](https://stitcher.io/blog/php-8-before-and-after) ([HN](https://news.ycombinator.com/item?id=24866190))
 - [Object Oriented PHP](https://front-line-php.com/object-oriented) ([Lobsters](https://lobste.rs/s/knkdj6/object_oriented_php))
+- [KPHP](https://github.com/VKCOM/kphp) - PHP compiler. It compiles a limited subset of PHP to a native binary running faster than PHP.
+- [PHP Language Spec](https://github.com/php/php-langspec)

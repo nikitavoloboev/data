@@ -690,6 +690,7 @@
   - [Poker](games/poker.md)
   - [Sudoku](games/sudoku.md)
   - [Minecraft](games/minecraft.md)
+  - [Golf](games/golf.md)
 - [Streaming](streaming/streaming.md)
 - [Talks](talks/talks.md)
   - [Presentations](talks/presentations.md)

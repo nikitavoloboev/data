@@ -103,7 +103,7 @@
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [Subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [nohang](https://github.com/hakavlad/nohang) - Sophisticated low memory handler for Linux.
-- [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox.
+- [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox. Sandbox Linux Applications. ([HN](https://news.ycombinator.com/item?id=25052341))
 - [rust.ko](https://github.com/tsgates/rust.ko) - Minimal Linux kernel module written in rust.
 - [What's your distro, and how did you pick it? (2020)](https://lobste.rs/s/bu3ynt/what_s_your_distro_how_did_you_pick_it)
 - [Intermediate Linux command line tutorial (2017)](https://www.jayconrod.com/posts/103/intermediate-linux-command-line-tutorial)
@@ -208,3 +208,7 @@
 - [OpenBMC](https://github.com/facebook/openbmc) - Open software framework to build a complete Linux image for a Board Management Controller (BMC).
 - [Keynote: Linus Torvalds in conversation with Dirk Hohndel (2020)](https://www.youtube.com/watch?v=H8Gd9t7FQqI)
 - [eBPF – The Future of Networking and Security (2020)](https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/) ([HN](https://news.ycombinator.com/item?id=25048097))
+- [Linux kernel user’s and administrator’s guide](https://www.kernel.org/doc/html/latest/admin-guide/index.html)
+- [Debugging Linux Kernel with QEMU (2020)](https://blog.k3170makan.com/2020/11/linux-kernel-exploitation-0x0-debugging.html)
+- [Embedded Linux Conference Europe 2020](https://www.youtube.com/playlist?list=PLZjq3una5SrDeo4RM5UZyZTisSuLd_3gb)
+- [How to get root on Ubuntu 20.04 by pretending nobody’s /home (2020)](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE) ([HN](https://news.ycombinator.com/item?id=25053238))

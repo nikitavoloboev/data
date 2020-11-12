@@ -36,3 +36,4 @@
 - [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
 - [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) ([HN](https://news.ycombinator.com/item?id=24860688))
 - [Linear Algebra book by Jim Hefferon](https://hefferon.net/linearalgebra/) ([HN](https://news.ycombinator.com/item?id=24892907))
+- [Introduction to Linear Algebra for Applied Machine Learning with Python (2020)](https://pabloinsente.github.io/intro-linear-algebra)

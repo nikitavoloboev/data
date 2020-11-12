@@ -10,3 +10,4 @@
 - [HN: Scuttlebot: Peer-to-peer database, identity provider, and messaging system (2020)](https://news.ycombinator.com/item?id=22909984)
 - [European Scuttlebutt Collective](https://scuttlebutt.eu/)
 - [Go-SSB](https://github.com/cryptoscope/ssb) - Full-stack implementation of secure-scuttlebutt using the Go programming language.
+- [kuska-ssb](https://github.com/Kuska-ssb/ssb) - Secure Scuttlebutt Rust library.

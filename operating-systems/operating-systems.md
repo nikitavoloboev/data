@@ -61,6 +61,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
 - [Stupid Operating System](https://github.com/sos-os/kernel) - Simple, tiny toy OS implemented in Rust.
 - [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler.
+- [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/))
+- [CactusOS](https://github.com/Remco123/CactusOS) - Simple operating system that is aimed to not be anything like linux.
 
 ## Notes
 

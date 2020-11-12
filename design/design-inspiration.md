@@ -329,6 +329,7 @@ Here are few more things I liked, design wise.
 - [Guillermo Garron](https://www.garron.blog/)
 - [Kabir Shah](https://kabir.sh/)
 - [Jeremy Friesen](https://takeonrules.com/)
+- [Noah fleischmann](https://noahfleischmann.com/) ([Code](https://github.com/fnoah/noahfleischmann.com))
 - [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Tomas](https://www.tomas.io/)
@@ -375,6 +376,7 @@ Here are few more things I liked, design wise.
 - [Alasdair Monk](https://alasdairmonk.com/)
 - [Steve Klabnik](https://steveklabnik.com/)
 - [Steve Losh](https://stevelosh.com/)
+- [Tibor Bodecs](https://theswiftdev.com/)
 - [David Heinemeier Hansson](https://dhh.dk/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [Jason Pamental](https://rwt.io/)
@@ -540,6 +542,7 @@ Here are few more things I liked, design wise.
 - [Rasmus Andersson](https://rsms.me/)
 - [Sean Stewart](https://spsillustration.com)
 - [Miuki Miu](https://www.miukimiu.com/)
+- [Bismuth Garden](https://bismuth.garden/)
 
 ## Analog
 

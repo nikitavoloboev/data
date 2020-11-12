@@ -102,3 +102,4 @@
 - [What to Ask as a Candidate – How to Go Deeper Than “What’s the Culture Like?” (2020)](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/)
 - [AlgoExpert](https://www.algoexpert.io/product) - Resource to prepare for coding interviews. Everything you need, in one streamlined platform.
 - [Interview Often, Fail Often (2020)](https://ffhex.xyz/posts/interview-often-fail-often/)
+- [Interviews.school](https://interviews.school/) - Complete interview preparation guide.

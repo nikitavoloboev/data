@@ -14,3 +14,4 @@
 - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - Set of functions for Windows 10 fine-tuning and automating the routine tasks.
 - [WSL2 Install Tutorial (2020)](https://l-o-o-s-e-d.net/wsl2) ([Lobsters](https://lobste.rs/s/zatvvo/wsl2_installation_tutorial_for))
 - [WinApps for Linux](https://github.com/Fmstrat/winapps) - Run Windows apps in Linux as if they were a part of the native OS. ([HN](https://news.ycombinator.com/item?id=25021261))
+- [wslu](https://github.com/wslutilities/wslu) - Collection of utilities for WSL.

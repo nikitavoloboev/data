@@ -35,6 +35,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
+- [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
 - [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
@@ -83,7 +85,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Startup Time](https://github.com/tweekmonster/startuptime.vim) - Profile startup time.
 - [Sneak](https://github.com/justinmk/vim-sneak) - Jump to any location specified by two characters.
 - [Limelight](https://github.com/junegunn/limelight.vim) - Highlight only active paragraphs.
-- [Auto pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Unimpaired](https://github.com/tpope/vim-unimpaired) - Pairs of handy bracket mappings.
 - [Multiple cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections.
 - [Table mode](https://github.com/dhruvasagar/vim-table-mode) - Instant table creation.

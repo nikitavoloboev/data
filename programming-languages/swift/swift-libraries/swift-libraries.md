@@ -113,6 +113,7 @@
 - [Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, written in Swift.
 - [Finjinon](https://github.com/finn-no/Finjinon) - Custom AVFoundation based camera UI, focused on quickly adding several photos.
 - [Colorful](https://github.com/hayashi311/Color-Picker-for-iOS) - iOS color picker built with Swift.
+- [KeyboardHelper](https://github.com/nodes-ios/KeyboardHelper) - Small tool for handling UIKeyboard appearing and disappearing in your view controllers.
 
 ## macOS
 
@@ -472,6 +473,8 @@
 - [SwiftGraphQL](https://github.com/maticzav/swift-graphql) - GraphQL client that lets you forget about GraphQL.
 - [DictionaryCoding](https://github.com/elegantchaos/DictionaryCoding) - Swift Decoder/Encoder which converts to/from dictionaries.
 - [Annotated](https://github.com/jegnux/Annotated) - Small library that let you annotate your strings with semantic annotations.
+- [Serpent](https://github.com/nodes-ios/Serpent) - Framework made for creating model objects or structs that can be easily serialized and deserialized from/to JSON.
+- [Codemine](https://github.com/nodes-ios/Codemine) - Collection of extensions containing useful functions and syntactic sugar for your Swift project.
 
 ## Other (not lib)
 

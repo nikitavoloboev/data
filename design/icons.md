@@ -60,3 +60,4 @@
 - [Dmitry Novikov Dribble](https://dribbble.com/Novikoff) - Does nice icons.
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) ([HN](https://news.ycombinator.com/item?id=24991908))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Minuscule SVG versions of your favorite logos.
+- [Fork Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Fork of the iconic font and CSS toolkit. ([Web](https://forkaweso.me/Fork-Awesome/))

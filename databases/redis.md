@@ -34,3 +34,4 @@
 - [RediSQL](https://redisql.com/) - Fastest, simplest, in-memory SQL database server.
 - [Redis Cluster: Architecture, Replication, Sharding and Failover (2019)](https://medium.com/opstree-technology/redis-cluster-architecture-replication-sharding-and-failover-86871e783ac0)
 - [ioredis-mock](https://github.com/stipsan/ioredis-mock) - Emulates ioredis by performing all operations in-memory.
+- [redismodule-rs](https://github.com/RedisLabsModules/redismodule-rs) - Idiomatic Rust API for the Redis Modules API. It allows writing Redis modules in Rust, without needing to use raw pointers or unsafe code.

@@ -27,6 +27,7 @@
 - [MappedArrays](https://github.com/JuliaArrays/MappedArrays.jl) - Lazy in-place transformations of arrays.
 - [Pingouin.jl](https://github.com/clementpoiret/Pingouin.jl) - Reimplementation of Raphaelvallat's Pingouin in Julia.
 - [StatsModels](https://github.com/JuliaStats/StatsModels.jl) - Specifying, fitting, and evaluating statistical models in Julia.
+- [MathOptInterface](https://github.com/jump-dev/MathOptInterface.jl) - Abstraction layer for mathematical optimization solvers.
 
 ## Biology
 

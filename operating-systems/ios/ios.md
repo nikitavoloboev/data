@@ -134,7 +134,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Babylon iOS Playbook](https://github.com/Babylonpartners/ios-playbook)
 - [Open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)
 - [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
-- [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Source](https://github.com/iOS-Goodies/iOS-Goodies))
+- [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Code](https://github.com/iOS-Goodies/iOS-Goodies))
 - [Who You Gonna Syscall? by Grant Douglas (2019)](https://www.youtube.com/watch?v=qFLJjByneA4)
 - [Every iOS security guide](https://github.com/0xmachos/iOS-Security-Guides)
 - [Behind the scenes of iOS and Mac Security (2019)](https://www.youtube.com/watch?v=3byNNUReyvE)

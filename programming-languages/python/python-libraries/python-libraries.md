@@ -24,6 +24,7 @@
 - [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.
 - [siuba](https://github.com/machow/siuba) - Scrappy data analysis, with seamless support for pandas and SQL.
 - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod) - Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+- [SymPy](https://github.com/sympy/sympy) - Computer algebra system written in pure Python.
 
 ## Biology
 
@@ -212,6 +213,7 @@
 - [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for asyncio.
 - [Promise](https://github.com/syrusakbary/promise) - Ultra-performant Promise implementation in Python.
 - [JSON Schema-powered type annotations](https://github.com/erickpeirson/jsonschema-typed)
+- [Awkward Array](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 
 ## Links
 

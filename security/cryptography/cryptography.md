@@ -91,3 +91,4 @@
 - [SCIPR Lab](http://www.scipr-lab.org/) - Multi-institutional academic collaboration of researchers seeking to bring to practice cryptographic proof systems that provide succinct integrity and privacy.
 - [Preventing impossible game levels using cryptography (2020)](https://robertheaton.com/preventing-impossible-game-levels-using-cryptography/)
 - [Indistinguishability Obfuscation from Well-Founded Assumptions (2020)](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/) ([HN](https://news.ycombinator.com/item?id=25046738))
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)

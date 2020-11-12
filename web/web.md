@@ -186,3 +186,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler. ([Web](https://parceljs.org/))
 - [Is the Internet Different? (2020)](https://stratechery.com/2020/is-the-internet-different/) ([HN](https://news.ycombinator.com/item?id=24979479))
 - [Solid Ecosystem Spec](https://solid.github.io/specification/) - Technology, like the Web, but a new level of standard which adds to the existing protocols with the motivation to empower individuals in an informed and interconnected society. ([Code](https://github.com/solid/specification)) ([Web](https://solidproject.org/))
+- [Using the Webmention.io API (2020)](https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/)
+- [Self-hosted offline Internet from your browsing history](https://github.com/c9fe/22120) ([HN](https://news.ycombinator.com/item?id=25059554))

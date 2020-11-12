@@ -115,3 +115,4 @@
 - [Game Developers Conference (GDC)](https://gdconf.com/)
 - [Making a small game with Gloss [Haskell] (2020)](https://herebeseaswines.net/essays/2020-11-01-making-a-small-game-with-gloss)
 - [Serious Engine – Multiplayer Explained](https://staniks.github.io/articles/serious-engine-networking-analysis.html)
+- [Leveraging Go for Game Development and Operations (2020)](https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations)

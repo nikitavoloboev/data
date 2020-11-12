@@ -111,6 +111,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) - [Stay (Live)](https://www.youtube.com/watch?v=hHNlphN76jU) | [The Situation (Live)](https://www.youtube.com/watch?v=6-seyQanuI0)
 - [Project Lazarus](https://open.spotify.com/artist/33OJLcrDP4wfgTsq250m9Y?si=K_hWsQDGTdKdDAko0F0NnQ) ([Bandcamp](https://projectlazarus.bandcamp.com/))
 - [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) ([Turiya Sings](https://www.youtube.com/watch?v=Y9HgjQvDH3A))
+- [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X?si=QYqj3rfTT5S7zmc0_mNVbA)
 
 ## Interesting artists
 

@@ -76,3 +76,4 @@
 - [Tixy.Land](https://tixy.land/) - Minimalist coding environment. Control 16x16 points with a single JavaScript function. ([1](https://tixy.land/?code=Math.sin%28Math.sqrt%28x*x%2By*y%29-t%29)) ([2](https://twitter.com/v21/status/1323403680922718208)) ([Lobsters](https://lobste.rs/s/p146zr/t_i_x_y_creative_code_golfing)) ([Code](https://github.com/aemkei/tixy))
 - [tixyz](https://doersino.github.io/tixyz/) - Minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function. ([Code](https://github.com/doersino/tixyz))
 - [Generative Collective Weekly](https://generative.substack.com/)
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.

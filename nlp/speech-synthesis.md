@@ -21,3 +21,4 @@
 - [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron) - Generating speech in a single forward pass without any attention. ([Web](https://as-ideas.github.io/ForwardTacotron/))
 - [HiFi-GAN](https://github.com/jik876/hifi-gan) - Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
 - [Parakeet](https://github.com/PaddlePaddle/Parakeet) - Text-to-speech toolKIT (supporting WaveFlow, ClariNet, WaveNet, Deep Voice 3, Transformer TTS and FastSpeech).
+- [pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python.
