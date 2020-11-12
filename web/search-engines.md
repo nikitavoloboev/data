@@ -81,3 +81,4 @@
 - [Unofficial Google Advanced Search](http://jwebnet.net/advancedgooglesearch.html)
 - [Edgesearch](https://github.com/wilsonzlin/edgesearch) - Build a full text search API using Cloudflare Workers and WebAssembly.
 - [fzy-lua](https://github.com/swarn/fzy-lua) - Lua port of fzy's fuzzy string matching algorithm.
+- [Firesearch](https://firesearch.dev/) - Serverless full-text search. For Google Cloud Platform.
