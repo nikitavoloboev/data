@@ -81,3 +81,4 @@
 - [xeus-python](https://github.com/jupyter-xeus/xeus-python) - Jupyter kernel for Python based on the native implementation of the Jupyter protocol xeus.
 - [Jeremy Howard: I Like Notebooks (2020)](https://www.youtube.com/watch?v=9Q6sLbz37gk) ([HN](https://news.ycombinator.com/item?id=24926214)) ([HN 2](https://news.ycombinator.com/item?id=24945671))
 - [ReviewNB](https://www.reviewnb.com/) - Visual Diff & Commenting for Jupyter Notebooks. ([GitHub](https://github.com/ReviewNB))
+- [Jupyter Extension for VS Code](https://github.com/microsoft/vscode-jupyter)
