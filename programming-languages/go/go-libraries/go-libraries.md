@@ -134,6 +134,7 @@
 - [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) - Go package to help write migrations with go-pg/pg.
 - [gosql](https://github.com/eatonphil/gosql) - Early PostgreSQL implementation in Go.
 - [go-storage](https://github.com/aos-dev/go-storage) - Application-oriented unified storage layer for Go. ([Docs](https://aos.dev/))
+- [Cloud SQL Proxy](https://github.com/GoogleCloudPlatform/cloudsql-proxy) - Allows a user with the appropriate permissions to connect to a Second Generation Cloud SQL database without having to deal with IP whitelisting or SSL certificates manually.
 
 ## ML
 
@@ -586,6 +587,8 @@
 - [structtag](https://github.com/fatih/structtag) - Parse and modify Go struct field tags.
 - [Functions Framework for Go](https://github.com/GoogleCloudPlatform/functions-framework-go) - (Function as a service) framework for writing portable Go functions.
 - [ecs](https://github.com/ByteArena/ecs) - Go implementation of the Entity/Component/System paradigm.
+- [otel-launcher-go](https://github.com/lightstep/otel-launcher-go) - Lightstep Distro for OpenTelemetry Go.
+- [fileglob](https://github.com/goreleaser/fileglob) - File globbing library.
 
 ## Links
 

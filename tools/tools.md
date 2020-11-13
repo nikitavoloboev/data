@@ -163,6 +163,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Taler](https://www.taler.app/) - Social design sandbox.
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
+- [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO))
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
 - [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
@@ -172,6 +173,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam.
 - [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk))
+- [Sextant](https://github.com/mattpocock/sextant) - GUI that lets you chart your application flows, then implement them with generated code.
 - [Windsor](https://windsor.io/) - Simplifying User Data.
 - [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
 - [DeepCode](https://www.deepcode.ai/) - Semantic static code analysis for better software - powered by AI.

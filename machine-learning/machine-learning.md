@@ -338,3 +338,4 @@
 - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 - [ML and DL related contests, competitions and conference challenges](https://github.com/skrish13/ml-contests-conf)
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - Contains figures and templates which you can reuse and customize to improve your scientific writing.
+- [Deep Learning with Catalyst course](https://github.com/catalyst-team/dl-course)

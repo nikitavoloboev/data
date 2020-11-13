@@ -41,3 +41,4 @@
 - [yeadon](https://github.com/chrisdembia/yeadon) - Human inertia model developed by Fred Yeadon in 1990.
 - [Resonance](https://github.com/moorepants/resonance) - Learning Mechanical Vibration Engineering Through Computation.
 - [Hindsight Experience Replay (HER) in PyTorch](https://github.com/TianhongDai/hindsight-experience-replay)
+- [How to build robots at home (2020)](https://marksaroufim.medium.com/how-to-build-robots-at-home-a9371e3b2da9)

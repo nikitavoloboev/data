@@ -65,3 +65,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Steps For Better Online Privacy (2020)](https://www.npr.org/2020/10/09/922262686/your-technology-is-tracking-you-take-these-steps-for-better-online-privacy) ([HN](https://news.ycombinator.com/item?id=24807980))
 - [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you. ([HN](https://news.ycombinator.com/item?id=24972669))
 - [Productivity vs. Privacy (2020)](https://jessems.com/productivity-vs-privacy)
+- [Your Computer Isn't Yours (2020)](https://sneak.berlin/20201112/your-computer-isnt-yours/) ([HN](https://news.ycombinator.com/item?id=25078034))

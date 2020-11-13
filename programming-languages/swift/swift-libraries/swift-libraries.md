@@ -475,6 +475,7 @@
 - [Annotated](https://github.com/jegnux/Annotated) - Small library that let you annotate your strings with semantic annotations.
 - [Serpent](https://github.com/nodes-ios/Serpent) - Framework made for creating model objects or structs that can be easily serialized and deserialized from/to JSON.
 - [Codemine](https://github.com/nodes-ios/Codemine) - Collection of extensions containing useful functions and syntactic sugar for your Swift project.
+- [Gifu](https://github.com/kaishin/Gifu) - Adds protocol-based, performance-aware animated GIF support to UIKit.
 
 ## Other (not lib)
 

@@ -52,6 +52,7 @@
 - [Lwd](https://github.com/let-def/lwd) - Lets you build values that changes over time.
 - [Digestif](https://github.com/mirage/digestif) - Hash algorithms in C and OCaml.
 - [directories](https://github.com/OCamlPro/directories) - OCaml library that provides configuration, cache and data paths.
+- [Repr](https://github.com/mirage/repr) - Run-time representations of OCaml types.
 
 ## Links
 

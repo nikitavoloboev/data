@@ -171,3 +171,4 @@
 - [Hoppscotch](https://hoppscotch.io/) - Free, fast and beautiful API request builder. ([Code](https://github.com/hoppscotch/hoppscotch))
 - [Optic](https://useoptic.com/) - APIs that Document and Test Themselves. ([Code](https://github.com/opticdev/optic))
 - [Pizzly](https://github.com/Bearer/Pizzly/) - Simplest, fastest way to integrate your app with OAuth APIs. ([Web](https://www.bearer.sh/pizzly-oauth-integration))
+- [Swell](https://github.com/open-source-labs/Swell) - API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC. ([Web](https://www.getswell.io/))

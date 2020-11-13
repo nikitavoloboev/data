@@ -73,6 +73,7 @@
 - [Setset](https://github.com/jasonkuhrt/setset) - Powerful Incremental Type-driven Settings Engine.
 - [Suub](https://github.com/etienne-dldc/suub) - Simple pub/sub written in TypeScript.
 - [typescript-vscode-sh-plugin](https://github.com/aeschli/typescript-vscode-sh-plugin) - TypeScript plugin that proves richer semantic highlighing.
+- [oazapfts](https://github.com/cellular/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers.
 
 ## Links
 

@@ -252,3 +252,4 @@
 - [Red Team KubeCTL Cheat Sheet](https://github.com/lightspin-tech/red-kube)
 - [Move2Kube](https://github.com/konveyor/move2kube) - Command-line tool that accelerates the process of re-platforming to Kubernetes/Openshift.
 - [Knatify](https://github.com/markusthoemmes/knatify) - Tool (or set of tools) that make it dead simple to migrate existing Kubernetes deployments into Knative Services.
+- [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes.

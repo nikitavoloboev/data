@@ -158,3 +158,5 @@
 - [apollo-cli](https://github.com/apollographql/rover) - New CLI for Apollo's suite of GraphQL developer productivity tools.
 - [Apollo Federation](https://github.com/apollographql/federation) ([Docs](https://www.apollographql.com/docs/federation/))
 - [The Evolution of GraphQL at Scale (2020)](https://www.apollographql.com/blog/the-evolution-of-graphql-at-scale/)
+- [graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
+- [GraphQL Resources to help you get started (2020)](https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started)

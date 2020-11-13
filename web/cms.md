@@ -18,3 +18,4 @@
 - [Grav](https://getgrav.org/) - Modern Flat-File CMS.
 - [Caasy](https://caasy.io/) - Headless CMS with a focus on efficient collaboration and maximum flexibility.
 - [Best CMS with nice PR based workflows (2020)](https://twitter.com/rauchg/status/1323053624688173056)
+- [Feather CMS](https://github.com/BinaryBirds/feather) - Modern Swift-based content management system powered by Vapor 4.

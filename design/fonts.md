@@ -155,3 +155,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Black Foundry](https://black-foundry.com/) - Combining design and technology, we create fonts that perform.
 - [TypeMedia](https://typemedia.org/) - MA in Type Design at the KABK.
 - [Arrow Type](https://www.arrowtype.com/) - Design & development for modern typography.
+- [Typographist](http://www.typographist.org/)

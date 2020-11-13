@@ -49,3 +49,5 @@
 - [Bitbo](https://bitbo.io/) - Real-Time Bitcoin Dashboard.
 - [Bitcoin at 12 (2020)](https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb)
 - [Blockstream](https://blockstream.com/) - Bitcoin and digital asset infrastructure.
+- [Awesome Lightning Network](https://github.com/bcongdon/awesome-lightning-network)
+- [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - Desktop GUI for Bitcoin Core optimised to work with hardware wallets.

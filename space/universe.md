@@ -26,3 +26,4 @@
 - [The Big and the Small (2020)](https://waitbutwhy.com/2020/09/universe.html) ([Universe in a Nutshell App](https://shop-us.kurzgesagt.org/products/universe-in-a-nutshell-app)) ([HN](https://news.ycombinator.com/item?id=24558358))
 - [HN: An earlier universe can still be observed today, says Roger Penrose (2020)](https://news.ycombinator.com/item?id=24711130)
 - [The Structure of the Universe (2020)](https://www.quantamagazine.org/the-hidden-structure-of-the-universe-20201022/)
+- [Roger Penrose: Why did the Universe begin?](https://aeon.co/videos/a-cyclical-forgetful-universe-nobel-prizewinner-roger-penrose-details-an-astonishing-origin)

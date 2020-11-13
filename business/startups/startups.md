@@ -236,6 +236,7 @@
 - [What you should know as a founder of a software company (2017)](https://qotoqot.com/blog/founder-skills/) ([HN](https://news.ycombinator.com/item?id=15512592))
 - [SaaS Manual](https://saasmanual.com/) - Learn how to build "Software as a Service" products from scratch.
 - [Founder Library](https://www.founderlibrary.com/) - Learning portal packed with hundreds of resources to help startup founders go further faster.
+- [I sold Baremetrics (2020)](https://baremetrics.com/blog/i-sold-baremetrics) ([HN](https://news.ycombinator.com/item?id=25045325)) ([Tweet](https://twitter.com/Shpigford/status/1326153473956716544))
 
 ## Images
 

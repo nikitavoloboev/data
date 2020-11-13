@@ -22,3 +22,4 @@
 - [HiFi-GAN](https://github.com/jik876/hifi-gan) - Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis.
 - [Parakeet](https://github.com/PaddlePaddle/Parakeet) - Text-to-speech toolKIT (supporting WaveFlow, ClariNet, WaveNet, Deep Voice 3, Transformer TTS and FastSpeech).
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python.
+- [SOVA TTS](https://github.com/sovaai/sova-tts) - Speech syntthesis solution based on Tacotron 2 architecture.

@@ -253,3 +253,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [KTRW](https://github.com/googleprojectzero/ktrw) - iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro.
 - [My App Review Experiences (2020)](https://tbodt.com/2020/11/08/app-review-experiences.html)
 - [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG.
+- [kernel exploit for Apple iOS 13.X](https://github.com/0x36/oob_events)

@@ -21,6 +21,7 @@
 - [Overture](https://github.com/fastmail/overture) - Powerful JS library for building really slick web applications, with performance at, or surpassing, native apps.
 - [Lucia](https://github.com/aidenybai/lucia) - Tiny library for tiny web apps. ([Docs](https://lucia.js.org/))
 - [Ractive.js](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
+- [JSX Lite](https://github.com/BuilderIO/jsx-lite) - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, and more.
 
 ## Animation
 

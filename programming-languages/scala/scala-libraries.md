@@ -46,6 +46,7 @@
 - [scodec](https://github.com/scodec/scodec) - Scala combinator library for working with binary data.
 - [circe](https://github.com/circe/circe) - JSON library for Scala.
 - [Ciris](https://github.com/vlovgr/ciris) - Functional Configurations for Scala.
+- [ScalaPy](https://github.com/shadaj/scalapy) - Allows you to use any Python library from your Scala code with an intuitive API.
 
 ## Links
 

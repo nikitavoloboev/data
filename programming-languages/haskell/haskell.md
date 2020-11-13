@@ -223,3 +223,4 @@
 - [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
 - [Consider Haskell (2020)](https://gilmi.me/blog/post/2020/04/28/consider-haskell)
 - [Learning Haskell by building a simple static blog generator, one commit at a time](https://github.com/soupi/learn-haskell-blog-generator)
+- [Haskell Proposal: Simplify Deriving (2020)](https://www.parsonsmatt.org/2020/11/10/simplifying_deriving.html)

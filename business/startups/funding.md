@@ -85,3 +85,4 @@
 - [Ulule](https://www.ulule.com/) - Crowdfunding platform empowering thousands of creators, entrepreneurs and makers all over the world.
 - [How to Pitch to Investors: Preparation & Execution](https://altar.io/how-to-pitch-to-investors/)
 - [Notion Fundraising Template for Startups](https://www.basetemplates.com/notion-fundraising-template)
+- [VenturesList](https://ventureslist.com/) - Startup Investment Library.

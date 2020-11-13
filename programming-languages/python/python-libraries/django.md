@@ -56,3 +56,4 @@
 - [Django Book](https://djangobook.com/) - Python Django Tutorials.
 - [Blazing fast tests in Django (2018)](https://dizballanze.com/django-blazing-fast-tests/)
 - [Django project optimization guide (2017)](https://dizballanze.com/django-project-optimization-part-1/)
+- [Django Ninja](https://github.com/vitalik/django-ninja) - Fast Django REST Framework.

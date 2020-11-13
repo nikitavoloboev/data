@@ -16,7 +16,7 @@
 - [Kafka-Pixy (gRPC/REST Proxy for Kafka)](https://github.com/mailgun/kafka-pixy)
 - [Mirroring from Apache Kafka to Azure Event Hub (2020)](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/)
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
-- [Redpanda](https://vectorized.io/) - Kafka replacement for mission critical systems.
+- [Redpanda](https://vectorized.io/) - Real-time engine for modern apps. 10x Faster Kafka. ([Code](https://github.com/vectorizedio/redpanda)) ([HN](https://news.ycombinator.com/item?id=25075739))
 - [rochefort](https://github.com/jackdoe/rochefort) - Poor man's kafka (plus in-place mutations and search).
 - [Why Can’t I Connect to Kafka?](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/)
 - [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka (2020)](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/) ([HN](https://news.ycombinator.com/item?id=24699534))

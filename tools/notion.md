@@ -31,3 +31,4 @@ Use it for projects as a wiki of docs, notes, todos.
 - [Notion Tools](https://www.notion.so/Notion-Tools-25d054da911344199cdf403cc04f317c)
 - [Notion Landing Pages, Ultimate Guide](https://optemization.com/notion-landing-page-guide)
 - [Notion Automations](https://notion-automations.com/) - Automate your Workflows on Notion with Zapier. ([HN](https://news.ycombinator.com/item?id=24931344))
+- [Host Notion](https://www.hostnotion.co/) - Custom domains for your Notion pages.

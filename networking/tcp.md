@@ -19,3 +19,4 @@
 - [NAT Slipstreaming](https://samy.pl/slipstream/) ([Lobsters](https://lobste.rs/s/dbzbfo/nat_slipstreaming)) ([Code](https://github.com/samyk/slipstream))
 - [ProxyChains](https://github.com/haad/proxychains) - Tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.
 - [ProxyChains-NG](https://github.com/rofl0r/proxychains-ng) - Preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
+- [Why TCP Over TCP Is A Bad Idea (2001)](http://sites.inka.de/~bigred/devel/tcp-tcp.html) ([HN](https://news.ycombinator.com/item?id=25080693))

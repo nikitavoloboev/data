@@ -89,6 +89,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Logical Relations as Types: Proof-Relevant Parametricity for Program Modules (2020)](http://www.jonmsterling.com/pdfs/lrat.pdf)
 - [Category Theory Resources](https://github.com/prathyvsh/category-theory-resources)
 - [Applied Category Theory: Notes on generative effects](https://github.com/joshvera/generative-effects)
+- [Executing Categories (2020)](https://www.philipzucker.com/i-gave-a-talk-on-executing-categories/)
 
 ## Images
 

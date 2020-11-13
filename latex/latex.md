@@ -13,6 +13,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - LaTeX code for making neural networks diagrams.
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/) ([HN](https://news.ycombinator.com/item?id=19448678))
+- [Managing LaTeX lecture notes](https://github.com/gillescastel/university-setup)
 - [Engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [LaTeX3 Development Repository](https://github.com/latex3/latex3) - Contains development material for LaTeX3.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.

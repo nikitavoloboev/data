@@ -101,3 +101,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Balancer](https://balancer.finance/) - Non-custodial portfolio manager, liquidity provider, and price sensor. ([Pool management](https://pools.balancer.exchange/#/)) ([GitHub](https://github.com/balancer-labs))
 - [Truffle Suite](https://www.trufflesuite.com/) - Sweet Tools for Smart Contracts. ([Docs](https://www.trufflesuite.com/docs/truffle/overview))
 - [Why Proof of Stake (2020)](https://vitalik.ca/general/2020/11/06/pos2020.html) ([HN](https://news.ycombinator.com/item?id=25006793))
+- [beacon-fuzz](https://github.com/sigp/beacon-fuzz) - Differential Fuzzer for Ethereum 2.0.

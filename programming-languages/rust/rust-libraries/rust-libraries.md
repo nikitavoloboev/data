@@ -10,6 +10,7 @@
 - [StructOpt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [pico-args](https://github.com/RazrFalcon/pico-args) - Ultra simple CLI arguments parser.
 - [termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
+- [Comfy-table](https://github.com/Nukesor/comfy-table) - Library for building beautiful terminal tables with automatic content wrapping.
 
 ## Web
 

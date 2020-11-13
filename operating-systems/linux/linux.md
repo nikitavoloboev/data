@@ -213,3 +213,5 @@
 - [Embedded Linux Conference Europe 2020](https://www.youtube.com/playlist?list=PLZjq3una5SrDeo4RM5UZyZTisSuLd_3gb)
 - [How to get root on Ubuntu 20.04 by pretending nobody’s /home (2020)](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE) ([HN](https://news.ycombinator.com/item?id=25053238))
 - [Linux Command One-Liners](https://linuxcommandlibrary.com/basic/oneliners.html) ([HN](https://news.ycombinator.com/item?id=25069452))
+- [Threads and fork(): think twice before mixing them (2009)](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
+- [eBPF - Rethinking the Linux Kernel (2020)](https://www.youtube.com/watch?v=f-oTe-dmfyI)

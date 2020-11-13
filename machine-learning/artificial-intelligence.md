@@ -46,3 +46,4 @@
 - [Architecture For Discovering Computational Consciousness (2020)](https://matt.sh/ai-please)
 - [The Institute for Ethical AI & Machine Learning](https://ethical.institute/) ([GitHub](https://github.com/EthicalML))
 - [dair.ai](https://dair.ai/) - Democratizing Artificial Intelligence Research, Education, and Technologies. ([GitHub](https://github.com/dair-ai))
+- [Mila](https://mila.quebec/en/) - Quebec Artificial Intelligence Institute. ([GitHub](https://github.com/mila-iqia))

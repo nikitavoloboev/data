@@ -8,10 +8,12 @@ I publish most of my work and make it open source for other people to use and re
 
 ## Interesting GitHub Bios
 
+- [Carlos Becker](https://github.com/caarlos0) - Auto updated list of activities + sponsors.
 - [Anthony Fu](https://github.com/antfu) - Has nice icons.
 - [Christian Muehlhaeuser](https://github.com/muesli) - Lengthy.
 - [TJ Holowaychuk](https://github.com/tj)
 - [Ema Suriano](https://github.com/EmaSuriano) - Nice table.
+- [Mael Nison](https://github.com/arcanis) - Nice picture on side.
 
 ## Notes
 

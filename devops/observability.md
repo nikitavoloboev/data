@@ -9,3 +9,4 @@
 - [Are we observable yet? An introduction to Rust telemetry (2020)](https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/)
 - [Suzieq](https://github.com/netenglabs/suzieq) - Framework and application for network observability. ([Docs](https://suzieq.readthedocs.io/en/latest/))
 - [Honeycomb Observability](https://www.honeycomb.io/) - Observe, Debug and Improve Production.
+- [Orijtech](https://orijtech.com/) - Observability, developer tools, cloud. ([GitHub](https://github.com/orijtech))

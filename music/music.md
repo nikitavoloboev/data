@@ -74,3 +74,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Endel](https://endel.io/) - Personalized environments that help you focus, relax, and sleep. ([Oleg Stavitsky - CEO of Endel (2020)](https://foundation-by-true-ventures.simplecast.com/episodes/oleg-stavitsky-ceo-of-endel-YFJlLv_d))
 - [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from any Spotify playlist, album or track.
 - [Supercreative Radio](https://www.supercreative.design/radio) - Nonstop music for creatives.
+- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)

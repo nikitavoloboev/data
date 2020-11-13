@@ -75,3 +75,4 @@
 - [RecBole](https://github.com/RUCAIBox/RecBole) - Unified, comprehensive and efficient recommendation library.
 - [NNFusion](https://github.com/microsoft/nnfusion) - Flexible and efficient DNN compiler that can generate high-performance executables from a DNN model description.
 - [ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference computing framework optimized for mobile platforms.
+- [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.

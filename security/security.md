@@ -124,3 +124,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Clean up your digital hygiene (2020)](https://luminousmen.com/post/clean-up-your-digital-hygiene)
 - [OSS Security Scorecards](https://github.com/ossf/scorecard)
 - [Gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit. ([Web](https://getgophish.com/))
+- [OpenEDR](https://github.com/ComodoSecurity/openedr) - Free and open source platform allows you to analyze what’s happening across your entire environment at base-security-event level.

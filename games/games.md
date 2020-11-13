@@ -109,7 +109,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Dockerfile for terraria](https://github.com/ryansheehan/terraria)
 - [GG|](https://ggapp.io/) - Video Game Collection Tracker.
 - [Factory Planner](https://github.com/ClaudeMetz/FactoryPlanner) - Mod for Factorio. It allows you to plan out your production in detail.
-- [itch.io](https://itch.io/app) - Install, update and play indie games. ([Code](https://github.com/itchio/itch))
+- [Itch.io](https://itch.io/) - Install, update and play indie games. ([Code](https://github.com/itchio/itch)) ([App](https://itch.io/app))
 - [TrueSkill](https://trueskill.org/) - Rating system among game players. ([Code](https://github.com/sublee/trueskill))
 - [How To Get Worse At StarCraft II (2020)](https://illiteracyhasdownsides.com/2020/06/13/how-to-get-worse-at-starcraft-ii/)
 - [Deus Ex at 20: The oral history of a pivotal PC game (2020)](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/) ([HN](https://news.ycombinator.com/item?id=23599411))
@@ -129,3 +129,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [RetroAhoy: The Secret of Monkey Island (2018)](https://www.youtube.com/watch?v=9F9ahZQ7oP0)
 - [Path of Exile trading app for price checking](https://github.com/SnosMe/awakened-poe-trade)
 - [Games for a Plague Year (2020)](https://www.dampfkraft.com/games/games-for-a-plague-year.html)
+- [The RuneScape Documentary - 15 Years of Adventure (2017)](https://www.youtube.com/watch?v=7RNK0YBdwko)

@@ -60,3 +60,4 @@
 - [Betting Against Real-Time Team Messaging Apps Like Slack (2020)](https://blog.doist.com/betting-against-slack/)
 - [How to Build Consensus When Your Team Can't Agree (2020)](https://spin.atomicobject.com/2020/10/30/overcome-team-disagreement/)
 - [Tips on communicating clearly](https://news.ycombinator.com/item?id=24969032)
+- [Ask HN: My boss says I over complicate things. What should I do? (2020)](https://news.ycombinator.com/item?id=25077527)

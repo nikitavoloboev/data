@@ -41,3 +41,4 @@
 - [FileRoom](https://fileroom.io) - Browser File Transfer. Send files to anyone on the same WiFi or network that's on fileroom.io.
 - [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go.
 - [Global Socket](https://github.com/hackerschoice/gsocket) - Moving data from here to there. Securely, Fast and trough NAT/Firewalls.
+- [Warp](https://github.com/minio/warp) - S3 benchmarking tool.

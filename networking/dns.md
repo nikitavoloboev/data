@@ -56,3 +56,4 @@
 - [Handshake](https://handshake.org/) - Experimental peer-to-peer root naming system. ([Code](https://github.com/handshake-org/hsd)
 - [What Does It Take To Resolve A Hostname (2020)](https://venam.nixers.net/blog/unix/2020/11/01/resolving-a-hostname.html)
 - [dog](https://github.com/ogham/dog) - Command-line DNS client. ([Web](https://dns.lookup.dog/)) ([HN](https://news.ycombinator.com/item?id=25033056))
+- [Sad DNS](https://www.cs.ucr.edu/~zhiyunq/SADDNS.html) - Revival of the classic DNS cache poisoning attack.

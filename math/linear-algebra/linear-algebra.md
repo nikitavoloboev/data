@@ -37,3 +37,4 @@
 - [A Programmer’s Intuition for Matrix Multiplication](https://betterexplained.com/articles/matrix-multiplication/) ([HN](https://news.ycombinator.com/item?id=24860688))
 - [Linear Algebra book by Jim Hefferon](https://hefferon.net/linearalgebra/) ([HN](https://news.ycombinator.com/item?id=24892907))
 - [Introduction to Linear Algebra for Applied Machine Learning with Python (2020)](https://pabloinsente.github.io/intro-linear-algebra) ([HN](https://news.ycombinator.com/item?id=25058619))
+- [How to Visualize a Matrix](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/tech-journals/how-to-visualize.pdf)

@@ -217,6 +217,9 @@
 - [Awkward Array](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator.
 - [Pathy](https://github.com/justindujardin/pathy) - Path interface for local and cloud bucket storage.
+- [MetadataParser](https://github.com/jvanasco/metadata_parser) - Python module for pulling metadata out of web documents.
+- [PyWavelets](https://github.com/PyWavelets/pywt) - Wavelet Transforms in Python.
+- [Snowflake Connector for Python](https://github.com/snowflakedb/snowflake-connector-python)
 
 ## Links
 

@@ -368,3 +368,4 @@
 - [The Fatal Flaw of Ownership Semantics (2020)](http://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/) ([HN](https://news.ycombinator.com/item?id=24979129))
 - [Error Handling in Rust (2015)](https://blog.burntsushi.net/rust-error-handling/)
 - [Rust Forge](https://forge.rust-lang.org/#rust-forge) - Information useful to people contributing to Rust. ([Code](https://github.com/rust-lang/rust-forge))
+- [Exploring PGO for the Rust compiler (2020)](https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler.html)

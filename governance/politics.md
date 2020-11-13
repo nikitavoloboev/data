@@ -16,3 +16,4 @@
 - [Reading Too Much Political News Is Bad for Your Well-Being (2020)](https://www.theatlantic.com/family/archive/2020/10/reading-too-much-political-news-bad-happiness/616651/) ([HN](https://news.ycombinator.com/item?id=24818637))
 - [The Coinbase post was 100% right. Here's what you can do about it (2020)](https://parametricity.com/posts/2020-power/)
 - [Essays on capitalism/socialism](https://github.com/dessalines/essays)
+- [Popular Information](https://popular.info/) - Newsletter about politics for people who give a damn.
