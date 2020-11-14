@@ -196,3 +196,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [The job of a writer (2020)](https://thesephist.com/posts/writer/)
 - [8 questions for writing (2020)](https://vasilishynkarenka.com/8questions/)
 - [Robert Eggers on Making The Lighthouse: Full Screenwriter's Lecture and Q&A | On Writing (2020)](https://www.youtube.com/watch?v=XrqkfWFCCIs)
+- [David Lynch: Don't fear writer's block, get a setup, and be patient (2020)](https://www.youtube.com/watch?v=uHhf76z6BkM)

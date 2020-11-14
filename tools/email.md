@@ -112,3 +112,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Simplify Gmail](https://simpl.fyi/) - Browser extension that makes Gmail more simple, capable, and respectful.
 - [Cold email templates](https://hunter.io/templates)
 - [Hunter](https://hunter.io/) - Find email addresses for any website in seconds.
+- [Stop Emailing Like A Rube (2020)](https://sneak.berlin/20201029/stop-emailing-like-a-rube/)

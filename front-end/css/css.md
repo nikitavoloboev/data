@@ -233,3 +233,4 @@
 - [PostCSS CSS Variables](https://github.com/MadLittleMods/postcss-css-variables) - PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation.
 - [no.css](https://github.com/mdipierro/no.css) - Tiny CSS framework with almost no classes and some pure CSS effects.
 - [16 CSS Secrets to improve Web Designs (2020)](https://codecoda.com/en/blog/entry/16-css-secrets-to-improve-web-designs)
+- [Hell Yes! CSS!](https://wizardzines.com/zines/css/) - CSS Zines.
