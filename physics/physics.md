@@ -151,3 +151,4 @@
 - [How to Become a Good Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)
 - [Advance Electromagnetism Notes](https://andrealommen.github.io/PHY309/lectures)
 - [Penrose diagrams](https://jila.colorado.edu/~ajsh/insidebh/penrose.html)
+- [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/) ([HN](https://news.ycombinator.com/item?id=25085286))
