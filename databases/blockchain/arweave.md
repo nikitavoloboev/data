@@ -17,3 +17,4 @@
 - [Arweave Open Web Fellowship (2020)](https://www.youtube.com/playlist?list=PL2nQaVnO6V_P5RsWGTghGH8i6YprL9a5L)
 - [ArGo](https://argoapp.live/) - Deploy with ease on Arweave Permaweb.
 - [Arweave Wiki](https://arweave.wiki/wiki/Main_Page)
+- [ArVerify](https://arverify.org/) - Trusted verification for the Arweave network. ([GitHub](https://github.com/ArVerify))
