@@ -100,3 +100,4 @@
 - [Past, Present and Future of Effective C (2020)](https://research.nccgroup.com/2020/11/10/past-present-and-future-of-effective-c/)
 - [C compiler written in Go](https://github.com/DQNEO/8cc.go)
 - [ZetZ](https://github.com/aep/zz) - Formally Verified Dialect of C. ([Article](https://www.infoq.com/news/2020/02/zz-formal-verified-c-dialect/))
+- [Editing the C Standard (2020)](https://thephd.github.io/editing-the-c-standard) ([HN](https://news.ycombinator.com/item?id=25086673))
