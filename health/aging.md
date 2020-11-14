@@ -44,3 +44,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Learnings from Running a Longevity Startup (2020)](https://www.celinehh.com/year-1-learnings) ([HN](https://news.ycombinator.com/item?id=24923116))
 - [Elder Guide](https://elderguide.com/) - Nationwide Nursing Home Facts and Statistics.
 - [Old Dogs, New Research and the Secrets of Aging (2020)](https://www.nytimes.com/2020/11/09/science/dogs-aging-behavior.html) ([HN](https://news.ycombinator.com/item?id=25083096))
+- ["The MC1R Gene and Youthful Looks", Liu et al 2016](https://www.gwern.net/docs/genetics/heritable/2016-liu.pdf)

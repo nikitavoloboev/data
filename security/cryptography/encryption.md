@@ -23,3 +23,4 @@
 - [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - Small and portable implementation of the AES ECB, CTR and CBC encryption algorithms written in C.
 - [Charm](https://github.com/charmbracelet/charm) - Includes a simple, powerful encryption interface.
 - [EU Draft Council Declaration Against Encryption (2020)](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf) ([HN](https://news.ycombinator.com/item?id=25028411)) ([Lobsters](https://lobste.rs/s/ydeb9n/eu_draft_declaration_against_encryption))
+- [A Furry’s Guide to End-to-End Encryption (2020)](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/) ([Lobsters](https://lobste.rs/s/mn1am1/going_bark_furry_s_guide_end_end))
