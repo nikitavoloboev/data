@@ -1,5 +1,9 @@
 # Birds
 
+## Lovely birds
+
+- [South Philippine Dwarf Kingfisher](https://twitter.com/StrangeFactoid/status/1326766923703586822)
+
 ## Links
 
 - [Hampshire birding and beyond](http://hampshirebirding.blogspot.com/)

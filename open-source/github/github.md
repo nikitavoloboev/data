@@ -113,7 +113,7 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings.
 - [GitHub Explore](https://github.com/explore) - Community-curated topic and collection pages on GitHub. ([Code](https://github.com/github/explore))
 - [Anonymous GitHub](https://anonymous.4open.science/) - System to anonymize GitHub repositories before referring to them in a double-blind paper submission. ([Code](https://github.com/tdurieux/anonymous_github/))
-- [GitHub Docs](https://docs.github.com/en) ([Code](https://github.com/github/docs))
+- [GitHub Docs](https://docs.github.com/en) ([Code](https://github.com/github/docs)) ([Open Sourcing GitHub Docs](https://www.youtube.com/watch?v=u_h5FZkDNgc))
 - [GitHub Stars](https://stars.github.com/) - Lift up the people who inspire and educate your communities with the GitHub Stars program.
 - [Building a self-updating profile README for GitHub (2020)](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) ([HN](https://news.ycombinator.com/item?id=23807881))
 - [GitHub public roadmap](https://github.com/github/roadmap) ([HN](https://news.ycombinator.com/item?id=23977256))

@@ -58,7 +58,7 @@
 - [Applying tech frameworks to biotech: key differences](https://www.celinehh.com/tech-vs-biotech) ([HN](https://news.ycombinator.com/item?id=24262336))
 - [Europe’s biotech renaissance (2020)](https://www.nature.com/articles/s41587-020-0483-6)
 - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio)
-- [Coming up with ideas for biotech startups (2020)](https://www.youtube.com/watch?v=MTA5LajqdIc&feature=youtu.be)
+- [Coming up with ideas for biotech startups (2020)](https://www.youtube.com/watch?v=MTA5LajqdIc)
 - [Analyzing toehold sequences for synthetic biology (2020)](https://news.harvard.edu/gazette/story/2020/10/analyzing-toehold-sequences-for-synthetic-biology/)
 - [R, Data Science, & Computational Biology (2020)](https://changelog.com/practicalai/107)
 - [Bioinformatics Algorithms book](https://www.bioinformaticsalgorithms.org/read-the-book)
