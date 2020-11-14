@@ -141,6 +141,7 @@
 - [Bad Idea Factory](https://biffud.com/)
 - [Shakacode](https://www.shakacode.com/) - Ruby on Rails, React, Gatsby and Reason development.
 - [Nodes Agency](https://www.nodesagency.com/) - Digital product development agency.
+- [Technokrat](https://technokrat.ch/)
 
 ## Links
 

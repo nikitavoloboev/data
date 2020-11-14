@@ -53,3 +53,4 @@
 - [Test driving a HackerNews scraper with Node.js (2020)](https://cri.dev/posts/2020-11-06-Test-driving-a-HackerNews-scraper-with-Nodejs/)
 - [SecretAgent](https://github.com/ulixee/secret-agent) - Web browser that's built for scraping. ([Web](https://secretagent.dev/))
 - [Ulixee](https://ulixee.org/) - Turns every website into an open API. Access any dataset on the world wide web. ([GitHub](https://github.com/ulixee))
+- [Floki](https://github.com/philss/floki) - Simple HTML parser that enables search for nodes using CSS selectors.

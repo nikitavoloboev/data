@@ -220,6 +220,7 @@
 - [MetadataParser](https://github.com/jvanasco/metadata_parser) - Python module for pulling metadata out of web documents.
 - [PyWavelets](https://github.com/PyWavelets/pywt) - Wavelet Transforms in Python.
 - [Snowflake Connector for Python](https://github.com/snowflakedb/snowflake-connector-python)
+- [nested_lookup](https://github.com/russellballestrini/nested-lookup) - Python functions for working with deeply nested documents (lists and dicts).
 
 ## Links
 

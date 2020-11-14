@@ -41,6 +41,7 @@
 - [Terratest](https://github.com/gruntwork-io/terratest) - Makes it easier to write automated tests for your infrastructure code.
 - [gomonkey](https://github.com/agiledragon/gomonkey) - Library to make monkey patching in unit tests easy.
 - [Gofight](https://github.com/appleboy/gofight) - Testing API Handler written in Go.
+- [Prettybench](https://github.com/cespare/prettybench) - Tool for transforming go test's benchmark output a bit to make it nicer for humans.
 
 ## Web
 

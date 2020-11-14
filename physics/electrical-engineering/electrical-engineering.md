@@ -42,3 +42,4 @@
 - [Elroy Lamp: A transparent LCD lamp](https://www.kylescholz.com/wp/the-elroy-lamp/)
 - [Kitspace](https://kitspace.org/) - Place to share ready-to-order electronics designs.
 - [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses.
+- [Copper](https://github.com/Yatekii/copper) - PCB EDA Tool written in Rust.

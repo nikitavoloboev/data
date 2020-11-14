@@ -24,3 +24,4 @@
 - [Alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager.
 - [Prometheus client for node.js](https://github.com/siimon/prom-client)
 - [Node exporter](https://github.com/prometheus/node_exporter) - Prometheus exporter for hardware and OS metrics exposed by NIX kernels, written in Go with pluggable metric collectors.
+- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Open standard for transmitting metrics at scale, with support for both text representation and Protocol Buffers. ([Web](https://openmetrics.io/))

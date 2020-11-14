@@ -46,3 +46,4 @@
 - [Covid vaccine: First ‘milestone’ vaccine offers 90% protection (2020)](https://www.bbc.com/news/health-54873105) ([HN](https://news.ycombinator.com/item?id=25033844))
 - [How To Become COVID Savvy In 10 Steps (2020)](https://medium.com/applied-data-science/how-to-become-covid-savvy-in-10-steps-b5942db3ac85)
 - [Are We Being Told the Truth About COVID-19? | Prof. Sucharit Bhakdi (2020)](https://www.youtube.com/watch?v=ZnpnBYgGARE)
+- [Corona, False Alarm?: Facts and Figures by Karina Reiß (2020)](https://www.goodreads.com/book/show/55370694-corona-false-alarm)
