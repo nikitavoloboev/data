@@ -169,3 +169,4 @@
 - [MLflow and PyTorch integration – autologging and TorchServe plugin (2020)](https://medium.com/pytorch/mlflow-and-pytorch-where-cutting-edge-ai-meets-mlops-1985cf8aa789)
 - [HiddenLayer](https://github.com/waleedka/hiddenlayer) - Lightweight library for neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [LabML](https://github.com/lab-ml/labml) - Monitor PyTorch & TensorFlow model training on mobile phones. ([Docs](https://lab-ml.com/))
+- [Old Photo Restoration (Official PyTorch Implementation)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)

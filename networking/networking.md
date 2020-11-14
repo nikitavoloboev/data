@@ -158,3 +158,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [curl](https://curl.haxx.se/) - Command line tool and library for transferring data with URLs. ([Code](https://github.com/curl/curl))
 - [IPv6 Is a Nightmare (2020)](https://teknikaldomain.me/post/ipv6-is-a-total-nightmare/) ([HN](https://news.ycombinator.com/item?id=24994587)) ([Lobsters](https://lobste.rs/s/vm8wei/ipv6_is_total_nightmare_this_is_why))
 - [Etherify](https://github.com/sq5bpf/etherify) - Transmit Radio Signals via Ethernet. ([HN](https://news.ycombinator.com/item?id=25025552))
+- [NetworkMananger-l2tp](https://github.com/nm-l2tp/NetworkManager-l2tp) - L2TP and L2TP/IPsec support for NetworkManager.
