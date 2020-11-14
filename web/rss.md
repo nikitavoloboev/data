@@ -66,3 +66,4 @@
 - [reddit-rss](https://github.com/trashhalo/reddit-rss) - Improved RSS feed for Reddit.
 - [Litchan](https://litchan.com/) - Link/RSS aggregator with live commenting.
 - [Extract full news article content from any RSS feed using Extract API (2020)](https://pipfeed.com/2020/11/09/tutorial-extract-full-news-article-content-from-any-rss-feed-using-extract-api/)
+- [Feeds Pub](https://feeds.pub/) - RSS aggregator & network.
