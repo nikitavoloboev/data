@@ -92,7 +92,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Gaming
 
-- [Steam](https://steamcommunity.com/id/nikivi)
+- [Steam](https://steamcommunity.com/id/nikivii/)
 
 ## Other
 

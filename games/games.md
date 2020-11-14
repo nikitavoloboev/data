@@ -72,6 +72,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 
 - [Factorio](https://factorio.com) ([HN](https://news.ycombinator.com/item?id=24155609))
 - [Tabletop Simulator](https://tabletopsimulator.com/) ([HN](https://news.ycombinator.com/item?id=24906634))
+- [Hades](https://store.steampowered.com/app/1145360/Hades/) ([Tweet](https://twitter.com/notdetails/status/1323022661698682881))
 
 ## Other
 
