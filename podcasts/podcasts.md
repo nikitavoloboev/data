@@ -102,6 +102,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [The 140 Best Podcasts to Enrich Your Mind](http://www.openculture.com/great-podcasts)
 - [Curated podcasts list](https://roadmap.sh/podcasts)
 - [Podcasts in Russian](https://russiancast.club/)
+- [Collection of Podcasts for Developers](https://devandgear.com/posts/collection-podcasts-for-developers/)
 
 ## Notes
 
