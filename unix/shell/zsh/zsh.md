@@ -26,3 +26,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Nice Zsh configs/tips](https://twitter.com/rsms/status/1304837079826747392)
 - [tabtab](https://github.com/denosaurs/tabtab) - Generate CLI completions for zsh, bash, and fish.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your zsh configuration.
+- [zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of zsh commands.
