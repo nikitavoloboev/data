@@ -48,3 +48,4 @@
 - [Which positive change in the world do you hope to see in your lifetime? (2020)](https://twitter.com/MaxCRoser/status/1310245891731750913)
 - [Audio’s opportunity and who will capture it (2020)](https://www.matthewball.vc/all/audiotech) ([HN](https://news.ycombinator.com/item?id=24815888))
 - [Progress, Stagnation, and Flying Cars (2020)](https://rootsofprogress.org/where-is-my-flying-car) ([HN](https://news.ycombinator.com/item?id=25073835))
+- [Metatrends shaping the next decade (2020)](https://peterhdiamandis.medium.com/metatrends-shaping-the-next-decade-d09718144961) ([HN](https://news.ycombinator.com/item?id=25083480))

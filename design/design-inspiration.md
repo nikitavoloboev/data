@@ -490,6 +490,7 @@ Here are few more things I liked, design wise.
 - [Erik](http://www.eriklindernoren.se/)
 - [Max Howell](http://mxcl.github.io/)
 - [Juan Cazala](http://caza.la/)
+- [Gemma O'Brien](http://www.gemmaobrien.com/)
 - [Niels Lohmann](http://nlohmann.me/)
 - [Jared Reich](https://jaredreich.com/)
 - [Joe Coleman](http://getcoleman.com/) - Funny.

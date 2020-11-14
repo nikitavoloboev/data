@@ -74,3 +74,4 @@
 - [Reddit AskHistorians – Master History Book List](https://www.reddit.com/r/AskHistorians/comments/timi4/the_askhistorians_master_book_list/)
 - [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/) ([HN](https://news.ycombinator.com/item?id=25084479))
 - [The Big Lessons from History (2020)](https://www.collaborativefund.com/blog/the-big-lessons-from-history/) ([HN](https://news.ycombinator.com/item?id=25083946))
+- [They Thought They Were Free: The Germans, 1933-45 (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html) ([HN](https://news.ycombinator.com/item?id=25083315))

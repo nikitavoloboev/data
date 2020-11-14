@@ -85,7 +85,7 @@
 - [Clojure Rich Comment Blocks (2020)](https://betweentwoparens.com/rich-comment-blocks)
 - [Metosin GitHub projects](https://github.com/metosin) - Small house of programmers, mostly Clojure(Script).
 - [Planet Clojure](http://planet.clojure.in/) - Meta blog that collects posts from the blogs of various Clojure hackers and contributors. ([Code](https://github.com/ghoseb/planet.clojure))
-- [Simulating RAM in Clojure](https://stopa.io/post/258)
+- [Simulating RAM in Clojure](https://stopa.io/post/258) ([HN](https://news.ycombinator.com/item?id=25086256))
 - [Clojure graph resources](https://github.com/simongray/clj-graph-resources) - Curated list of mostly mature and/or actively developed Clojure resources for dealing with graph-like data.
 - [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0) ([HN](https://news.ycombinator.com/item?id=24940838))
 - [Learning Clojure in Public](https://github.com/alaq/learning-clojure-in-public)

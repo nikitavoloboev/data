@@ -75,3 +75,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from any Spotify playlist, album or track.
 - [Supercreative Radio](https://www.supercreative.design/radio) - Nonstop music for creatives.
 - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+- [TildeRadio](https://tilderadio.org/) - Internet radio streamed by/for users of the tildeverse.

@@ -172,3 +172,4 @@
 - [Optic](https://useoptic.com/) - APIs that Document and Test Themselves. ([Code](https://github.com/opticdev/optic))
 - [Pizzly](https://github.com/Bearer/Pizzly/) - Simplest, fastest way to integrate your app with OAuth APIs. ([Web](https://www.bearer.sh/pizzly-oauth-integration))
 - [Swell](https://github.com/open-source-labs/Swell) - API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC. ([Web](https://www.getswell.io/))
+- [API design is stuck in the past (2020)](https://buf.build/blog/api-design-is-stuck-in-the-past) ([HN](https://news.ycombinator.com/item?id=25085276))

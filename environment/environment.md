@@ -5,6 +5,7 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 ## Notes
 
 - [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
+- [If we stop emissions tomorrow, the earth will remain around 1.2C above preindustrial temps. If we get to net-zero emissions by 2060 or so, we can still limit warming to well below 2C.](https://twitter.com/hausfath/status/1327121668851060738)
 
 ## Links
 
@@ -67,3 +68,6 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Climate CTO](https://climatecto.com/) - Become the CTO of a climate startup.
 - [Work on Climate](https://workonclimate.org/) - Help you find a way to contribute to climate action.
 - [HEATED](https://heated.world/) - Original reporting and analysis on the climate crisis at the top of your inbox every morning.
+- [Carbon Brief](https://www.carbonbrief.org/) - UK-based website designed to "improve the understanding of climate change, both in terms of the science and the policy response".
+- [Berkeley Earth](http://berkeleyearth.org/) - Source of reliable, independent, non-governmental, and unbiased scientific data and analysis of the highest quality.
+- [The Breakthrough Institute](https://thebreakthrough.org/) - Technological Solutions to Environmental Challenges.

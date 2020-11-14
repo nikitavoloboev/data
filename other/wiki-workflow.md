@@ -228,7 +228,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Digital gardens (2020)](https://schof.co/digital-garden/)
 - [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st Century. ([Why is Zettlr Open Source?](https://www.zettlr.com/post/why-zettlr-open-source))
 - [CodiMD](https://github.com/codimd/server) - Self-hosted, real-time collaborative markdown notes. ([HN](https://news.ycombinator.com/item?id=23997361))
-- [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq))
+- [logseq](https://logseq.com/) - Local-first knowledge base which syncs using Github. ([Code](https://github.com/logseq/logseq)) ([HN](https://news.ycombinator.com/item?id=25090176))
 - [Sharing knowledge in a remote team, across timezones (2020)](https://erickhun.com/posts/sharing-knowledge-in-a-remote-team/) ([HN](https://news.ycombinator.com/item?id=24021103))
 - [Foam: One Month In (2020)](https://jevakallio.github.io/notes/foam-one-month-in)
 - [Dendron](https://www.dendron.so/) - Local-first, markdown based, hierarchical note-taking application built on top of VSCode and friends. ([Code](https://github.com/dendronhq/dendron)) ([HN](https://news.ycombinator.com/item?id=24898373)) ([Hierarchical Tool for Thought](https://www.kevinslin.com/notes/127a3230-4484-433a-b97f-178679564207.html))

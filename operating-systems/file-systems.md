@@ -24,3 +24,4 @@
 - [bindfs](https://github.com/mpartel/bindfs) - FUSE filesystem for mirroring a directory to another directory, similarly to mount --bind. ([Web](https://bindfs.org/))
 - [Practical File System Design (1999)](http://www.nobius.org/dbg/practical-file-system-design.pdf)
 - [Virtual filesystem: fun and profit (2019)](https://abbyssoul.github.io/engineering/2019/11/25/vfs-for-fun-and-profit.html)
+- [Files Are Fraught with Peril (2019)](https://danluu.com/deconstruct-files/) ([HN](https://news.ycombinator.com/item?id=25090760))
