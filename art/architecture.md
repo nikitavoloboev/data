@@ -6,6 +6,10 @@
 - [Tadao Ando](https://en.wikipedia.org/wiki/Tadao_Ando)
 - [Stéphane Beel](http://www.stephanebeel.com/index.html)
 
+## Nice places
+
+- [Williamsburg open place](https://twitter.com/madelinebilis/status/1327380099147165697)
+
 ## Links
 
 - [Tiny Houses Subreddit](https://www.reddit.com/r/tinyhouses)

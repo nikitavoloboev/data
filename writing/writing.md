@@ -195,3 +195,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Writing for Reasons (2020)](https://blog.sulami.xyz/posts/writing-for-reasons/)
 - [The job of a writer (2020)](https://thesephist.com/posts/writer/)
 - [8 questions for writing (2020)](https://vasilishynkarenka.com/8questions/)
+- [Robert Eggers on Making The Lighthouse: Full Screenwriter's Lecture and Q&A | On Writing (2020)](https://www.youtube.com/watch?v=XrqkfWFCCIs)
