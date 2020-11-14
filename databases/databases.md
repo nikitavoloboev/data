@@ -249,3 +249,4 @@
 - [The World’s Best In-Memory Database (2020)](https://matt.sh/best-database-ever)
 - [Anonymized Cache Request Traces from Twitter Production](https://github.com/twitter/cache-trace) - Describes the traces from Twitter's in-memory caching (Twemcache/Pelikan) clusters.
 - [Advanced Join Patterns for the Actor Model Based on CEP Techniques (2020)](https://programming-journal.org/2021/5/10/) ([HN](https://news.ycombinator.com/item?id=25014513))
+- [Testing Database Engines via Pivoted Query Synthesis (2020)](https://www.usenix.org/system/files/osdi20-rigger.pdf) ([HN](https://news.ycombinator.com/item?id=25092203))

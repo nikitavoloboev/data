@@ -208,3 +208,4 @@
 - [PyPy](https://github.com/mozillazg/pypy) - Interpreter that implements the Python programming language, based on the RPython compiler framework for dynamic language implementations. ([PyPy: Faster Python With Minimal Effort](https://realpython.com/pypy-faster-python/))
 - [Evolution of modern python talk (2020)](https://github.com/hultner-technologies/evolution-of-modern-python)
 - [BeeWare](https://beeware.org/) - Allows you to write your app in Python and release it on multiple platforms. ([Code](https://github.com/beeware/beeware.github.io))
+- [Python: The Full Monty: A Tested Semantics for the Python Programming Language](http://cs.brown.edu/~sk/Publications/Papers/Published/pmmwplck-python-full-monty/)

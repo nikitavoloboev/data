@@ -376,6 +376,7 @@ Here are few more things I liked, design wise.
 - [Tom MacWright](https://macwright.org/)
 - [Matt Drollette](https://matt.drollette.com/)
 - [Alasdair Monk](https://alasdairmonk.com/)
+- [Idan Gazit](https://gazit.me/)
 - [Steve Klabnik](https://steveklabnik.com/)
 - [Steve Losh](https://stevelosh.com/)
 - [Tibor Bodecs](https://theswiftdev.com/)
