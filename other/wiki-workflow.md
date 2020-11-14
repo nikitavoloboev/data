@@ -186,7 +186,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks. ([Web](https://worldbrain.io/)) ([HN](https://news.ycombinator.com/item?id=23227186)) ([Interview with Oliver Sauter](https://www.youtube.com/watch?v=XH2nbgEQ78M))
 - [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
-- [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette. ([Article](https://datasette.substack.com/p/dogsheep-personal-analytics-with))
+- [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette. ([Article](https://datasette.substack.com/p/dogsheep-personal-analytics-with)) ([GitHub](https://github.com/dogsheep))
 - [Lobsters: How do you take notes and organize your knowledge? (2020)](https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your)
 - [A Short History of Bi-Directional Links (2020)](https://maggieappleton.com/bidirectionals)
 - [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.

@@ -54,3 +54,4 @@
 - [SecretAgent](https://github.com/ulixee/secret-agent) - Web browser that's built for scraping. ([Web](https://secretagent.dev/))
 - [Ulixee](https://ulixee.org/) - Turns every website into an open API. Access any dataset on the world wide web. ([GitHub](https://github.com/ulixee))
 - [Floki](https://github.com/philss/floki) - Simple HTML parser that enables search for nodes using CSS selectors.
+- [NYT Vote Scraper](https://github.com/alex/nyt-2020-election-scraper) - Scrapes the NYT Votes Remaining Page JSON and commits it back to this repo. Nice use of GitHub actions for git scraping.
