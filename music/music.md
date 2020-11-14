@@ -76,3 +76,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Supercreative Radio](https://www.supercreative.design/radio) - Nonstop music for creatives.
 - [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
 - [TildeRadio](https://tilderadio.org/) - Internet radio streamed by/for users of the tildeverse.
+- [Discover Quickly](https://discoverquickly.com/) - Your interface for music discovery, powered by Spotify.
+- [Ask HN: How do you find new music? (2020)](https://news.ycombinator.com/item?id=25085635)

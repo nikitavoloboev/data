@@ -86,3 +86,4 @@
 - [How to Pitch to Investors: Preparation & Execution](https://altar.io/how-to-pitch-to-investors/)
 - [Notion Fundraising Template for Startups](https://www.basetemplates.com/notion-fundraising-template)
 - [VenturesList](https://ventureslist.com/) - Startup Investment Library.
+- [Leave Design](https://leave.design/) - Get your Pitch Deck updated instantly by a professional designer.
