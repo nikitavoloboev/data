@@ -48,3 +48,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++17.
 - [Combating abuse in Matrix – without E2EE backdoors (2020)](https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors) ([Lobsters](https://lobste.rs/s/ntyvtw/combating_abuse_matrix_without)) ([HN](https://news.ycombinator.com/item?id=24836987))
 - [How we fixed Synapse's scalability (2020)](https://matrix.org/blog/2020/11/03/how-we-fixed-synapses-scalability) ([Lobsters](https://lobste.rs/s/gwwnei/how_we_fixed_synapse_s_scalability_matrix))
+- [Using Matrix to replace proprietary and centralized chat apps (2020)](https://jae.moe/blog/2020/11/using-matrix-to-replace-proprietary-and-centralized-chat-apps/) ([HN](https://news.ycombinator.com/item?id=25091614))

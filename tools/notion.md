@@ -1,6 +1,6 @@
 # [Notion](https://www.notion.so)
 
-Use it for projects as a wiki of docs, notes, todos.
+Use it for projects as a wiki of docs, notes, todos. I [share some boards in public](https://www.notion.so/Public-4899a884e6aa4bd394527d9a352a29dd).
 
 ## Notes
 
