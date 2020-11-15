@@ -36,3 +36,4 @@
 - [Metagen](https://github.com/thautwarm/Metagen) - Dependently type-safe code generator.
 - [Gradual Dependently Typed Language](https://github.com/JoeyEremondi/GDTL-artifact)
 - [Dependent types to code are what static types to data (2020)](https://www.poberezkin.com/posts/2020-09-04-dependent-types-to-code-are-what-static-types-to-data.html)
+- [Pie language](https://github.com/the-little-typer/pie) - Little Language with Dependent Types. Companion language for The Little Typer book.
