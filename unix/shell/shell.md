@@ -90,3 +90,4 @@ All active variables can be seen by running `env`.
 - [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers. ([Code](https://github.com/k4m4/terminals-are-sexy))
 - [eDEX-UI](https://github.com/GitSquared/edex-ui) - Fullscreen, cross-platform terminal emulator and system monitor that looks and feels like a sci-fi computer interface.
 - [What is a shell? A TTY? A Terminal?](https://effective-shell.com/docs/part-2-core-skills/11-what-is-a-shell/)
+- [Features of a Modern Terminal Emulator (2020)](https://www.youtube.com/watch?v=9DgQqDnYNyQ) ([Lobsters](https://lobste.rs/s/jfkja1/features_modern_terminal_emulator))

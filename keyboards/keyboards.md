@@ -93,3 +93,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Type Fu](https://type-fu.com/) - App that will teach you how to type fast. The right way.
 - [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards. ([Code](https://github.com/crsnbrt/keysim))
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
+- [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave.

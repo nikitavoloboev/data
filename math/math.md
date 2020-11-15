@@ -161,7 +161,7 @@
 - [The Mathematical Hacker (2012)](https://www.evanmiller.org/mathematical-hacker.html) ([Lobsters](https://lobste.rs/s/pev6ks/mathematical_hacker_2012))
 - [Ask HN: Good articles/courses for understanding mathematical notation? (2020)](https://news.ycombinator.com/item?id=23575296)
 - [Small maths projects explored with Python](https://github.com/scipython/scipython-maths)
-- [BetterExplained](https://betterexplained.com/) - Clear, intuitive lessons about imaginary numbers, exponents, and more.
+- [BetterExplained](https://betterexplained.com/) - Clear, intuitive lessons about imaginary numbers, exponents, and more. ([HN](https://news.ycombinator.com/item?id=25100241))
 - [Implementing the Exponential Function (2020)](https://www.pseudorandom.com/implementing-exp) ([HN](https://news.ycombinator.com/item?id=23671262))
 - [Feynman on Fermat's Last Theorem (2016)](http://www.lbatalha.com/blog/feynman-on-fermats-last-theorem)
 - [Ask HN: Recommend a maths book for a teenager (2020)](https://news.ycombinator.com/item?id=23711942)

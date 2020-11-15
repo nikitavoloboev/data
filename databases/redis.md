@@ -36,3 +36,4 @@
 - [ioredis-mock](https://github.com/stipsan/ioredis-mock) - Emulates ioredis by performing all operations in-memory.
 - [redismodule-rs](https://github.com/RedisLabsModules/redismodule-rs) - Idiomatic Rust API for the Redis Modules API. It allows writing Redis modules in Rust, without needing to use raw pointers or unsafe code.
 - [handy-redis](https://github.com/mmkal/handy-redis) - Wrapper around node_redis with Promise and TypeScript support.
+- [Pydis](https://github.com/boramalper/pydis) - Redis clone in 250 lines of Python, for performance comparison. ([HN](https://news.ycombinator.com/item?id=25100218))

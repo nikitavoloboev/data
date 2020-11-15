@@ -106,3 +106,4 @@
 - [Next.js Analytics](https://nextjs.org/analytics) - Provides your Real Experience Score through data from actual visitors. ([HN](https://news.ycombinator.com/item?id=24908819))
 - [Request Metrics](https://requestmetrics.com/) - Website performance monitoring.
 - [Low Hanging Fruits in Frontend Performance Optimization (2020)](https://pawelurbanek.com/frontend-performance-optimization)
+- [The Core Web Vitals hype train (2020)](https://sylormiller.com/posts/2020/core-web-vitals/) ([Tweet](https://twitter.com/ksylor/status/1327363260295897088))

@@ -28,6 +28,8 @@ Never let impostor syndrome or anything else stop you from applying to your drea
 
 My other favorite way of finding interesting work opportunities is meeting and interacting with people personally through various events and getting to know what they're building.
 
+I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f4225788b144da49a0c2ee37576507c).
+
 ## Notes
 
 - Sort by newest jobs in websites and check regularly and apply then.

@@ -21,3 +21,4 @@
 - [Wavenet For Speech Denoising](https://github.com/drethage/speech-denoising-wavenet) - Neural network for end-to-end speech denoising, as described in: "A Wavenet For Speech Denoising".
 - [Vosk](https://github.com/wzhd/vosk-rs) - Speech recognition toolkit with state-of-the-art accuracy and low latency in Rust.
 - [Voicegain](https://www.voicegain.ai/) - Speech-to-text Platform and APIs. Speech Recognition.
+- [LibreASR](https://github.com/iceychris/LibreASR) - On-Premises, Streaming Speech Recognition System. ([HN](https://news.ycombinator.com/item?id=25099847))
