@@ -43,3 +43,4 @@ I especially like the distinction of distributing content over distributing link
 - [js-ipfs-fetch](https://github.com/RangerMauve/js-ipfs-fetch) - Use the same fetch() API browsers provide for HTTP, but for IPFS.
 - [IPFS Live Streaming](https://github.com/tomeshnet/ipfs-live-streaming)
 - [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web.
+- [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Gives you all the power of IPFS in a convenient desktop app.

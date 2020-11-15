@@ -6,3 +6,4 @@
 - [Welcome to Coding in p5.js](https://happycoding.io/tutorials/p5js/welcome-to-coding)
 - [Beginner workshop using p5.js and CodeSandbox](https://github.com/mattdesl/workshop-data-artwork)
 - [Circle Morphing](https://github.com/golanlevin/circle-morphing) - Interpolations from a circle to a triangle in p5.js.
+- [Rudy the Red Dot](https://rudy.zamfi.net/) - IDE shows in-line program state, evaluation, execution.
