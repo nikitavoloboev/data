@@ -590,6 +590,7 @@
 - [ecs](https://github.com/ByteArena/ecs) - Go implementation of the Entity/Component/System paradigm.
 - [otel-launcher-go](https://github.com/lightstep/otel-launcher-go) - Lightstep Distro for OpenTelemetry Go.
 - [fileglob](https://github.com/goreleaser/fileglob) - File globbing library.
+- [Perf](https://github.com/hodgesds/perf-utils) - Go library for interacting with the perf subsystem in Linux.
 
 ## Links
 

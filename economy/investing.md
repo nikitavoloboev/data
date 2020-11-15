@@ -122,3 +122,4 @@
 - [Awesome Investing](https://github.com/mr-karan/awesome-investing)
 - [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity.
 - [Save like a pessimist, invest like an optimist (2020)](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/) ([HN](https://news.ycombinator.com/item?id=25093308))
+- [TradingView](https://www.tradingview.com/) - Free Stock Charts, Stock Quotes and Trade Ideas.
