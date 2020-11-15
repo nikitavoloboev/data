@@ -53,3 +53,4 @@
 - [denoify](https://github.com/garronej/denoify) - Node to Deno Transpiler.
 - [Deno Cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for Deno.
 - [Kopo Cli](https://github.com/littletof/kopo-cli) - Deno registry browser in the terminal.
+- [Stampede](https://github.com/bashovski/stampede) - Deno REST framework/eco-system. ([HN](https://news.ycombinator.com/item?id=25094724))

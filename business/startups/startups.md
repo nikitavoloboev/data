@@ -237,6 +237,7 @@
 - [SaaS Manual](https://saasmanual.com/) - Learn how to build "Software as a Service" products from scratch.
 - [Founder Library](https://www.founderlibrary.com/) - Learning portal packed with hundreds of resources to help startup founders go further faster.
 - [I sold Baremetrics (2020)](https://baremetrics.com/blog/i-sold-baremetrics) ([HN](https://news.ycombinator.com/item?id=25045325)) ([Tweet](https://twitter.com/Shpigford/status/1326153473956716544))
+- [Awesome YCombinator](https://github.com/PolymerSearch/awesome-ycombinator) - Resources for maximizing your startup and business success.
 
 ## Images
 

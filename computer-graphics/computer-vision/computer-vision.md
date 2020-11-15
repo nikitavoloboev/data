@@ -138,3 +138,4 @@
 - [MONAI](https://github.com/Project-MONAI/MONAI) - PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem. ([Web](https://monai.io/))
 - [Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection](https://github.com/implus/GFocal)
 - [Faster R-CNN Explained for Object Detection Tasks (2020)](https://blog.paperspace.com/faster-r-cnn-explained-object-detection/)
+- [How to Install OpenCV on a Raspberry Pi (2020)](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/)
