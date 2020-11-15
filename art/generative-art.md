@@ -77,3 +77,4 @@
 - [tixyz](https://doersino.github.io/tixyz/) - Minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function. ([Code](https://github.com/doersino/tixyz))
 - [Generative Collective Weekly](https://generative.substack.com/)
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+- [Automaton](https://github.com/FMS-Cat/automaton) - Animation engine for creative coding.
