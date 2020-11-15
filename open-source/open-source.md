@@ -139,3 +139,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Tips for doing open source by Sindre](https://twitter.com/sindresorhus/status/1130833503740809216)
 - [Qualitative research needs to be open-source (2020)](https://scholar.harvard.edu/files/cat/files/short_take_01.pdf)
 - [Open Source does not mean “Includes Free Support”](https://raccoon.onyxbits.de/blog/bugreport-free-support/) ([HN](https://news.ycombinator.com/item?id=25099862))
+- [Bountysource](https://www.bountysource.com/) - Funding platform for open-source software. ([Code](https://github.com/bountysource/core))

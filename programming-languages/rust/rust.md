@@ -369,3 +369,4 @@
 - [Error Handling in Rust (2015)](https://blog.burntsushi.net/rust-error-handling/)
 - [Rust Forge](https://forge.rust-lang.org/#rust-forge) - Information useful to people contributing to Rust. ([Code](https://github.com/rust-lang/rust-forge))
 - [Exploring PGO for the Rust compiler (2020)](https://blog.rust-lang.org/inside-rust/2020/11/11/exploring-pgo-for-the-rust-compiler.html)
+- [Managing Rust bloat with Github Actions (2020)](https://tomforb.es/managing-rust-bloat-with-github-actions/)

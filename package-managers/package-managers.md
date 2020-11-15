@@ -21,3 +21,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [pkgsrc](https://www.pkgsrc.org/) - Framework for building third-party software on NetBSD and other UNIX-like systems, currently containing over 22,500 packages.
 - [Conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem. ([Docs](https://docs.conda.io/en/latest/))
 - [Awesome Package Manager](https://github.com/damon-kwok/awesome-package-manager) - Package manager resources.
+- [ossmalware](https://github.com/jordan-wright/ossmalware) - Attempts to use dynamic analysis to find malware hosted on package managers.

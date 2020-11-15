@@ -171,3 +171,4 @@
 - [LabML](https://github.com/lab-ml/labml) - Monitor PyTorch & TensorFlow model training on mobile phones. ([Docs](https://lab-ml.com/))
 - [Old Photo Restoration (Official PyTorch Implementation)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 - [Torch-Pruning](https://github.com/VainF/Torch-Pruning) - PyTorch pruning toolkit for structured neural network pruning and layer dependency maintaining.
+- [torchac](https://github.com/fab-jul/torchac) - Fast Arithmetic Coding for PyTorch.

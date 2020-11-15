@@ -13,7 +13,7 @@ Below is a list of extensions I use.
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language. ([Code](https://github.com/golang/vscode-go))
 
-## JS
+## JS/TS
 
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 - [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - Tightly integrate with the GraphQL Ecosystem. ([Code](https://github.com/prisma-labs/vscode-graphql))
@@ -159,6 +159,7 @@ Below is a list of extensions I use.
 - [js-debug](https://github.com/microsoft/vscode-js-debug) - Upcoming VS Code JavaScript debugger.
 - [VS Code Folder Source Actions](https://github.com/mjbvz/vscode-folder-source-actions) - Adds a context menu that allows you to apply VS Code's organize imports code action to all files in a folder.
 - [Flow](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - Flow support.
+- [Abracadabra](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra) - Automated refactorings for VS Code (JS & TS). ([Code](https://github.com/nicoespeon/abracadabra))
 
 ## React
 
