@@ -55,3 +55,5 @@
 - [Reverse-engineering the carry-lookahead circuit in the Intel 8008 processor (2020)](http://www.righto.com/2020/11/reverse-engineering-carry-lookahead.html) ([HN](https://news.ycombinator.com/item?id=25029484))
 - [ARM Memory Model Tool: Morello (and Some Memory Tagging) (2020)](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/memory-model-tool-morello-and-some-memory-tagging)
 - [Graphs, Metagraphs, RAM, CPU: HyperGraphs are more memory efficient than graphs (2020)](https://github.com/opencog/atomspace/blob/master/opencog/sheaf/docs/ram-cpu.pdf)
+- [Intel's disruption is now complete (2020)](https://jamesallworth.medium.com/intels-disruption-is-now-complete-d4fa771f0f2c) ([HN](https://news.ycombinator.com/item?id=25092721))
+- [ARM processor history (2020)](https://twitter.com/kenshirriff/status/1327021630636212224)
