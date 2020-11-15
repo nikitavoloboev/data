@@ -53,3 +53,4 @@
 - [Notes on porting GraphQL client to Svelte from React (2020)](https://twitter.com/AdamRackis/status/1321997627110707200)
 - [Svelte Actions](https://github.com/sw-yx/svelte-actions)
 - [Why Svelte is Like Rust (2020)](https://hugotunius.se/2020/08/15/why-svelte-is-like-rust.html)
+- [JungleJS](https://github.com/junglejs/junglejs) - Jamstack static site framework for Svelte. ([Web](https://www.junglejs.org/))

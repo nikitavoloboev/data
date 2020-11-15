@@ -221,6 +221,7 @@
 - [PyWavelets](https://github.com/PyWavelets/pywt) - Wavelet Transforms in Python.
 - [Snowflake Connector for Python](https://github.com/snowflakedb/snowflake-connector-python)
 - [nested_lookup](https://github.com/russellballestrini/nested-lookup) - Python functions for working with deeply nested documents (lists and dicts).
+- [jsons](https://github.com/ramonhagenaars/jsons) - Python lib for (de)serializing Python objects to/from JSON.
 
 ## Links
 
@@ -231,3 +232,4 @@
 - [pdocs](https://github.com/timothycrosley/pdocs) - Simple program and library to auto generate API documentation for Python modules.
 - [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages.
 - [Dry-Python](https://dry-python.org/) - Set of libraries for pluggable business logic components. ([GitHub](https://github.com/dry-python))
+- [PePy](https://pepy.tech/) - PyPI Download Stats. ([Code](https://github.com/psincraian/pepy))

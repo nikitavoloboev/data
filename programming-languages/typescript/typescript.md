@@ -120,6 +120,7 @@
 - [Insights from Adopting TypeScript at Scale (2020)](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/) ([Tweet](https://twitter.com/robpalmer2/status/1326057162221760512)) ([HN](https://news.ycombinator.com/item?id=25043541))
 - [TypeScript splits the atom A first look at TS 4.1's new template literal types (2020)](https://effectivetypescript.com/2020/11/05/template-literal-types/)
 - [TypeScript Coverage Report](httpsn://github.com/alexcanessa/typescript-coverage-report) - Node command line tool for generating TypeScript coverage reports.
+- [ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - Finds unused exported symbols in your Typescript project.
 
 ## Images
 

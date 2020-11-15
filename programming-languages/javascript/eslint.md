@@ -11,3 +11,4 @@
 - [ESLint code](https://github.com/eslint/eslint)
 - [eslint-plugin-deprecation](https://github.com/gund/eslint-plugin-deprecation) - ESLint rule that reports usage of deprecated code.
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
+- [eslint-plugin-etc](https://github.com/cartant/eslint-plugin-etc) - More general-purpose (TypeScript-related) ESLint rules.
