@@ -116,3 +116,4 @@
 - [Making a small game with Gloss [Haskell] (2020)](https://herebeseaswines.net/essays/2020-11-01-making-a-small-game-with-gloss)
 - [Serious Engine – Multiplayer Explained](https://staniks.github.io/articles/serious-engine-networking-analysis.html)
 - [Leveraging Go for Game Development and Operations (2020)](https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations)
+- [Jupylet](https://github.com/nir/jupylet) - Python library that lets you create 2D and 3D games, graphics, music and sound synthesizers, interactively in a Jupyter notebook.

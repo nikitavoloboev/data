@@ -30,3 +30,4 @@
 - [Inigo](https://github.com/hayesgm/inigo) - Package manager for Idris 2 to help use and share Idris code.
 - [SPLV 2020](https://github.com/edwinb/SPLV20) - Course notes and supporting code for the Scottish Programming Language and Verification summer school course on "The Implementation of Idris 2".
 - [Metaprogramming in Idris (2020)](https://core.ac.uk/download/pdf/50528385.pdf)
+- [Idris, a language that will change the way you think about programming (2020)](https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming)

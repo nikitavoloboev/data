@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) ([HN](https://news.ycombinator.com/item?id=20934347))
+- [Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) ([HN](https://news.ycombinator.com/item?id=20934347)) ([HN 2](https://news.ycombinator.com/item?id=25095724))
 - [Fast Fourier Transforms (2019)](https://vitalik.ca/general/2019/05/12/fft.html)
 - [Signatory](https://github.com/patrick-kidger/signatory) - Differentiable computations of the signature and logsignature transforms, on both CPU and GPU.
 - [Speech-enhancement](https://github.com/vbelz/Speech-enhancement) - Deep learning for audio denoising.

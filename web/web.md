@@ -189,3 +189,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Using the Webmention.io API (2020)](https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/)
 - [Self-hosted offline Internet from your browsing history](https://github.com/c9fe/22120) ([HN](https://news.ycombinator.com/item?id=25059554))
 - [Web Platform Design Principles (2020)](https://www.w3.org/TR/design-principles/)
+- [Global Internet Infrastructure Map](https://live.infrapedia.com/app)

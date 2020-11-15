@@ -10,3 +10,4 @@
 - [Experience working with 600+TB ElasticSearch cluster (2020)](https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127)
 - [Relevant Search (2016)](https://www.manning.com/books/relevant-search) - With applications for Solr and Elasticsearch.
 - [setup-elasticsearch](https://github.com/ankane/setup-elasticsearch) - Missing action for Elasticsearch - no need to use containers.
+- [Searchkit](https://www.searchkit.co/) - Open source library which helps you build a great search experience with Elasticsearch. ([Code](https://github.com/searchkit/searchkit))
