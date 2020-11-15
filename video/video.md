@@ -152,3 +152,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [RemoteWorkly](https://www.remoteworkly.co/) - Async Video Messaging.
 - [Calculate PSNR, VMAF, SSIM using FFmpeg (2020)](https://ottverse.com/calculate-psnr-vmaf-ssim-using-ffmpeg/)
 - [OTTVerse](https://ottverse.com/) - OTT Tech-focused publication.
+- [Create Vintage Videos Using FFmpeg in 4 Simple Steps (2020)](https://ottverse.com/create-vintage-videos-using-ffmpeg/)

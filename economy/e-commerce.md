@@ -50,3 +50,4 @@
 - [Gatsby Shopify Starter](https://github.com/AlexanderProd/gatsby-shopify-starter)
 - [Checkout Page](https://checkoutpage.co/) - Checkout pages and forms to sell your products and services.
 - [How to Become a Shopify Developer (2020)](https://iliashaddad.com/blog/how-to-become-shopify-developer) ([HN](https://news.ycombinator.com/item?id=25067407))
+- [Zora](https://ourzora.com/) - Everything Exchange: Buy, Sell and Trade Limited Edition Goods and Art.
