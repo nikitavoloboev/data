@@ -44,3 +44,4 @@ Here are tools I use for streaming:
 - [How to Use OBS Studio to Record or Stream Live Presentations (2020)](https://eheidi.dev/_to/20200510_how-to-use-obs-studio-to-record-or-stream-live-presentations-474j)
 - [StreamLogger (2020)](https://duan.ca/2020/06/13/stream-logger/)
 - [Owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box. ([Docs](https://owncast.online/))
+- [OBS.Ninja](https://obs.ninja/) - Bring video from your smartphone, computer, or friends directly into your OBS video stream.
