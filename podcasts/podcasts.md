@@ -147,3 +147,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Brett’s 2020 Podcasting Setup](https://brettterpstra.com/2020/08/17/bretts-2020-podcasting-setup/)
 - [Artifact](https://www.heyartifact.com/) - Personal podcasts with the people in your life. ([HN](https://news.ycombinator.com/item?id=24919931))
 - [Podgrab](https://github.com/akhilrex/podgrab) - Self-hosted podcast manager to download episodes as soon as they become live.
+- [Podcast Hosting Review](https://podcasthosting.review/) - Reviews of popular podcast hosting platforms.

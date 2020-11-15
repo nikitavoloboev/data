@@ -150,3 +150,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Vidar](https://github.com/clabe45/vidar) - Extendable video-editing framework for the browser.
 - [Milk Video](https://milk.video/) - Turn webinars into engaging highlights.
 - [RemoteWorkly](https://www.remoteworkly.co/) - Async Video Messaging.
+- [Calculate PSNR, VMAF, SSIM using FFmpeg (2020)](https://ottverse.com/calculate-psnr-vmaf-ssim-using-ffmpeg/)
+- [OTTVerse](https://ottverse.com/) - OTT Tech-focused publication.

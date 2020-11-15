@@ -101,6 +101,7 @@ And these Discord servers:
 - [The Straight Dope](https://www.straightdope.com/)
 - [Future Crunch](https://futurecrun.ch/)
 - [The Gradient](https://thegradient.pub/)
+- [The Atlantic](https://www.theatlantic.com/world/)
 
 ### Other
 

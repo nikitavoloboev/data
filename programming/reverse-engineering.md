@@ -62,3 +62,4 @@
 - [Improve Software Debugging with Binary Analysis (2020)](https://h313.info/blog/cpp/security/binary-analysis/2020/11/06/improve-software-debugging-with-binary-analysis.html)
 - [PCB Reverse Engineering: Eric Schlaepfer (2020)](https://www.youtube.com/watch?v=BsftxTbs7MA)
 - [Chris Domas - Repsych: Psychological Warfare in Reverse Engineering (2015)](https://www.youtube.com/watch?v=HlUe0TUHOIc)
+- [Reverse Engineering 101 in 20 min](https://github.com/SynapticRewrite/RE101in20min)

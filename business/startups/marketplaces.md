@@ -14,3 +14,4 @@
 - [Things to look for when evaluating a marketplace startup idea](https://twitter.com/lennysan/status/1276238543132569600)
 - [The Guide To No Code Marketplaces](https://guides.everythingmarketplaces.com/)
 - [How to build a marketing plan from 0-1: beginner’s guide (2020)](https://twitter.com/AmandaMGoetz/status/1295393675481153538)
+- [The Marketplace Monetization Map: Complexity and Asymmetry (2020)](https://medium.com/breadcrumb/the-marketplace-monetization-map-complexity-and-asymmetry-529b70a830d7)
