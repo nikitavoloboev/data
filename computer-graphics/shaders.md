@@ -25,3 +25,4 @@
 - [Slang](https://github.com/shader-slang/slang) - Shading language that extends HLSL with new capabilities for building modular, extensible, and high-performance real-time shading systems.
 - [Shadershop](https://github.com/cdglabs/Shadershop) - Interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop.
 - [Circle C++ shaders](https://github.com/seanbaxter/shaders)
+- [Shading techniques and GLSL snippets](https://github.com/Rabbid76/graphics-snippets)

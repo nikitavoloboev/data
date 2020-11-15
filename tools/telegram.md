@@ -59,3 +59,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [TDLib (Telegram Database library)](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients. It can be easily used from almost any programming language. ([Web](https://core.telegram.org/tdlib))
 - [Such Chat](https://such.chat/) - Customer support via Telegram made easy.
 - [Building a Telegram Bot with Azure Functions and Node.js (2020)](https://akhromieiev.com/tutorials/telegram-bot-azure-functions-and-node-js/)
+- [TL (Type Language)](https://github.com/ernado/tl) - Parser for telegram's mtproto.

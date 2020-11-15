@@ -318,6 +318,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)
 - [Bao Ngo's photos](https://twitter.com/coldtakesonly/status/1315838653206323200)
 - [Pip](https://www.instagram.com/bypip/) ([Web](https://www.bypip.co.uk/))
+- [Nova Togatorop](https://novatogatorop.com/)
 
 ## Notes
 

@@ -344,6 +344,7 @@ Here are few more things I liked, design wise.
 - [Karan Sharma](https://mrkaran.dev/) ([Code](https://github.com/mr-karan/website))
 - [Victor Darvariu](https://victor.darvariu.me/)
 - [Rafal Tomal](https://rafaltomal.com/)
+- [Azer Koculu](https://kodfabrik.com/) ([Code](https://github.com/azer/notebook))
 - [Wesley Moore](https://www.wezm.net/v2/)
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
 - [Eric Davidson](https://www.erdavids.com/)

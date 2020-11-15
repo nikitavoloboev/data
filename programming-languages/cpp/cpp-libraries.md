@@ -5,6 +5,7 @@
 - [Catch2](https://github.com/catchorg/Catch2) - Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later.
 - [Google Test](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 - [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++.
+- [Mutate](https://github.com/nlohmann/mutate_cpp) - C++ Mutation Test Environment.
 
 ## Concurrency
 
@@ -129,6 +130,7 @@
 - [VSTGUI](https://github.com/steinbergmedia/vstgui) - User interface toolkit mainly for audio plug-ins.
 - [libunifex](https://github.com/facebookexperimental/libunifex) - Prototype implementation of the C++ sender/receiver async programming model.
 - [random](https://github.com/effolkronium/random) - Random for modern C++ with convenient API.
+- [fifo_map](https://github.com/nlohmann/fifo_map) - FIFO-ordered associative container for C++.
 
 ## Links
 

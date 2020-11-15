@@ -161,3 +161,4 @@
 - [graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
 - [GraphQL Resources to help you get started (2020)](https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started)
 - [Build a Serverless GraphQL API on AWS (2020)](https://lucas-le-ray.com/blog/build-serverless-graphql-api)
+- [graphqless](https://github.com/alloy/graphqless-js) - Statically compiled resolvers for entire queries based on a graphql-js schema.

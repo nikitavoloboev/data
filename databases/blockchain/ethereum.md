@@ -102,3 +102,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Truffle Suite](https://www.trufflesuite.com/) - Sweet Tools for Smart Contracts. ([Docs](https://www.trufflesuite.com/docs/truffle/overview))
 - [Why Proof of Stake (2020)](https://vitalik.ca/general/2020/11/06/pos2020.html) ([HN](https://news.ycombinator.com/item?id=25006793))
 - [beacon-fuzz](https://github.com/sigp/beacon-fuzz) - Differential Fuzzer for Ethereum 2.0.
+- [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
+- [Slither](https://github.com/crytic/slither) - Static Analyzer for Solidity.
+- [Crytic](https://crytic.io/) - SaaS-based GitHub application that continuously assures your Ethereum smart contracts are safe and functional. ([GitHub](https://github.com/crytic))

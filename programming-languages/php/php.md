@@ -11,3 +11,5 @@
 - [Object Oriented PHP](https://front-line-php.com/object-oriented) ([Lobsters](https://lobste.rs/s/knkdj6/object_oriented_php))
 - [KPHP](https://github.com/VKCOM/kphp) - PHP compiler. It compiles a limited subset of PHP to a native binary running faster than PHP.
 - [PHP Language Spec](https://github.com/php/php-langspec)
+- [Laravel](https://github.com/laravel/framework) - Web application framework with expressive, elegant syntax. ([Web](https://laravel.com/))
+- [Wink](https://github.com/themsaid/wink) - Laravel-based publishing platform.
