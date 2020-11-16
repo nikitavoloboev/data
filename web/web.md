@@ -190,3 +190,6 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Self-hosted offline Internet from your browsing history](https://github.com/c9fe/22120) ([HN](https://news.ycombinator.com/item?id=25059554))
 - [Web Platform Design Principles (2020)](https://www.w3.org/TR/design-principles/)
 - [Global Internet Infrastructure Map](https://live.infrapedia.com/app)
+- [File System Access API](https://github.com/WICG/file-system-access) - Expose the file system on the user’s device, so Web apps can interoperate with the user’s native applications.
+- [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade](https://github.com/mozilla/crlite)

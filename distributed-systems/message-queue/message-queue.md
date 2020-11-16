@@ -10,3 +10,4 @@
 - [Celery](https://github.com/celery/celery) - Distributed Task Queue.
 - [Apache RocketMQ](https://github.com/apache/rocketmq) - Distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 - [Performance benchmarks for various message queues](https://github.com/tylertreat/mq-benchmarking)
+- [Everything You Need To Know About Message Queues (2020)](https://sunilkumarc.in/everything-you-need-to-know-about-message-queues)

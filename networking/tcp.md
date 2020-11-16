@@ -21,3 +21,5 @@
 - [ProxyChains-NG](https://github.com/rofl0r/proxychains-ng) - Preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
 - [Why TCP Over TCP Is A Bad Idea (2001)](http://sites.inka.de/~bigred/devel/tcp-tcp.html) ([HN](https://news.ycombinator.com/item?id=25080693))
 - [tcpdump](https://github.com/the-tcpdump-group/tcpdump) - Powerful command-line packet analyzer. ([Web](https://www.tcpdump.org/)) ([Tutorial with examples](https://danielmiessler.com/study/tcpdump/))
+- [hping3](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets and to display target replies like ping do with ICMP replies.
+- [FreePort](https://github.com/phayes/freeport) - Get a free open TCP port that is ready to use.

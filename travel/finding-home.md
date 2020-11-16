@@ -37,3 +37,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Zillow](https://www.zillow.com/) - Real Estate, Apartments, Mortgages & Home Values.
 - [Nude](https://www.getnude.com/) - Savings account and financial friend for first-time home buyers.
 - [Trulia](https://www.trulia.com/) - Real Estate Listings, Homes For Sale, Housing Data.
+- [Why Staying Home This Year Has Made Me Want Less Space (2020)](https://food52.com/blog/25735-downsizing-after-covid-personal-essay)

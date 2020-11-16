@@ -23,3 +23,4 @@ I keep a [list of all board games I played](https://boardgamegeek.com/collection
 - [Go Game notes](https://tromp.github.io/go.html)
 - [You Should Play Secret Hitler (2020)](https://kristoff.it/blog/you-should-play-secret-hitler/)
 - [The Interactive Way To Go](http://playgo.to/iwtg/en/) - Learn to play Go board game.
+- [Multiplayer Go for the Web (In Rust) with KataGo AI](https://go.terkwood.farm/)

@@ -62,3 +62,4 @@
 - [libwebp (WebP codec)](https://github.com/webmproject/libwebp) - Library to encode and decode images in WebP format.
 - [WebM](https://www.webmproject.org/) - High-quality, open video format for the web that's freely available to everyone. ([GitHub](https://github.com/webmproject))
 - [Odiff](https://github.com/dmtrKovalenko/odiff) - Fastest in the world pixel-by-pixel image difference tool.
+- [Image Processing in Python: Algorithms, Tools, and Methods You Should Know (2020)](https://neptune.ai/blog/image-processing-in-python-algorithms-tools-and-methods-you-should-know)

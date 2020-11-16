@@ -39,3 +39,4 @@
 - [Racket Continuations Study Group](https://github.com/rain-1/continuations-study-group)
 - [GoLisp](https://github.com/corpix/golisp) - Racket DSL to make code-generation for Go.
 - [2048 - Racket Edition](https://github.com/danprager/racket-2048) - Clean-room, functional implementation in Racket of the game 2048.
+- [racket-package-ci-action](https://github.com/jackfirth/racket-package-ci-action) - GitHub Action for building and testing Racket packages.

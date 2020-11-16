@@ -36,3 +36,4 @@
 - [How to Set Up webpack 5 from Scratch (2020)](https://www.taniarascia.com/how-to-use-webpack/)
 - [webpack-merge](https://github.com/survivejs/webpack-merge) - Provides a merge function that concatenates arrays and merges objects creating a new object.
 - [esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Speed up your Webpack build with esbuild.
+- [ESLint plugin for webpack](https://github.com/webpack-contrib/eslint-webpack-plugin)

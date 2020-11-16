@@ -45,5 +45,5 @@
 - [The false promise of herd immunity for COVID-19 (2020)](https://www.nature.com/articles/d41586-020-02948-4)
 - [Covid vaccine: First ‘milestone’ vaccine offers 90% protection (2020)](https://www.bbc.com/news/health-54873105) ([HN](https://news.ycombinator.com/item?id=25033844))
 - [How To Become COVID Savvy In 10 Steps (2020)](https://medium.com/applied-data-science/how-to-become-covid-savvy-in-10-steps-b5942db3ac85)
-- [Are We Being Told the Truth About COVID-19? | Prof. Sucharit Bhakdi (2020)](https://www.youtube.com/watch?v=ZnpnBYgGARE)
+- [Are We Being Told the Truth About COVID-19? | Prof. Sucharit Bhakdi (2020)](https://www.youtube.com/watch?v=ZnpnBYgGARE) ([Debunked claims](https://translate.google.com/translate?hl=&sl=de&tl=en&u=https%3A%2F%2Fcorrectiv.org%2Ffaktencheck%2F2020%2F06%2F19%2Fimpfung-gegen-covid-19-sinnlos-sucharit-bhakdi-stellt-unbelegte-behauptungen-auf%2F))
 - [Corona, False Alarm?: Facts and Figures by Karina Reiß (2020)](https://www.goodreads.com/book/show/55370694-corona-false-alarm)

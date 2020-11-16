@@ -22,6 +22,7 @@
 - [Lucia](https://github.com/aidenybai/lucia) - Tiny library for tiny web apps. ([Docs](https://lucia.js.org/))
 - [Ractive.js](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 - [JSX Lite](https://github.com/BuilderIO/jsx-lite) - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, and more.
+- [Perlite](https://github.com/PaulMaly/perlite) - Hyperactiv + lit-html + extensions. Simple and declarative way to create rich client-side widgets designed with server-side apps in mind.
 
 ## Animation
 
@@ -356,6 +357,9 @@
 - [preview-card](https://github.com/egoist/preview-card) - Customizable social media preview image.
 - [egjs-flicking](https://github.com/naver/egjs-flicking) - Easy-to-use and performant infinite carousel.
 - [SSE-Z](https://github.com/contrawork/sse-z) - Slim, easy-to-use wrapper around EventSource.
+- [DefinitelyExported](https://github.com/snowpackjs/DefinitelyExported) - Community-defined export maps for popular npm packages.
+- [jsdiff](https://github.com/kpdecker/jsdiff) - JavaScript text differencing implementation.
+- [HyperFormula](https://github.com/handsontable/hyperformula) - Open source, spreadsheet-like calculation engine.
 
 ## Links
 

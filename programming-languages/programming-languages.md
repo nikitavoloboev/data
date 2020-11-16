@@ -130,3 +130,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Turing Incomplete Languages (2020)](http://neilmitchell.blogspot.com/2020/11/turing-incomplete-languages.html)
 - [Semantics-Guided Synthesis (2020)](https://pages.cs.wisc.edu/~loris/papers/popl21.pdf)
 - [We need less powerful languages (2015)](https://lukeplant.me.uk/blog/posts/less-powerful-languages/) ([HN](https://news.ycombinator.com/item?id=25090816))
+- [Learn languages that are not Java, Python and C++ (2020)](https://twitter.com/jjcarett2/status/1321110900040994822)

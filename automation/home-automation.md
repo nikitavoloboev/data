@@ -21,3 +21,4 @@
 - [Home Assistant CLI](https://github.com/home-assistant/cli)
 - [Home Assistant Operating System](https://github.com/home-assistant/operating-system) - Operating system optimized for hosting Home Assistant and its Add-ons.
 - [Home Automation with Docker and Postgres on RaspberryPI and AzureVM](https://github.com/srozemuller/hassio-config)
+- [Home Assistant Frontend](https://github.com/home-assistant/frontend) ([Web](https://demo.home-assistant.io/))

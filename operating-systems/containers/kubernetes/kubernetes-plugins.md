@@ -14,6 +14,7 @@
 - [Helm mapkubeapis Plugin](https://github.com/hickeyma/helm-mapkubeapis) - Map deprecated or removed Kubernetes APIs in a release to supported APIs.
 - [Secret Manager](https://github.com/itscontained/secret-manager) - Kubernetes add-on to automate the creation and renewal of secrets from various external secret sources.
 - [helm-cronjobs](https://github.com/bambash/helm-cronjobs) - Define an array of jobs in values.yaml helm will take care of creating all the CronJobs.
+- [Lockbox](https://github.com/cloudflare/lockbox) - Secure way to store Kubernetes Secrets offline.
 
 ## Links
 

@@ -38,6 +38,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
+- [vim-picker](https://github.com/srstevenson/vim-picker) - Vim plugin for fuzzy selection of files, buffers, tags, and more.
 - [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
 - [express.vim](https://github.com/tommcdo/vim-express) - Easily create custom Vim operators using expressions and substitutions.

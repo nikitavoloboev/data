@@ -21,3 +21,4 @@
 - [GM Hikaru Nakamura Blitz Speedrun to 3000](https://www.youtube.com/watch?v=NK0_qG2cVVQ)
 - [The Chess Website](https://www.thechesswebsite.com/) - Learn, Practice, and Play Chess.
 - [On learning chess as an adult: From 650 to 1750 in two years (2020)](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/) ([HN](https://news.ycombinator.com/item?id=25108800))
+- [Lichess Chess Bots](https://lichess.org/player/bots)

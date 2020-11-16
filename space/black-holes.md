@@ -20,3 +20,4 @@
 - [SXS - Simulating eXtreme Spacetimes](https://www.black-holes.org/)
 - [What Black Holes Bring to the Galaxy (2020)](https://www.theatlantic.com/science/archive/2020/10/what-black-holes-bring-to-the-galaxy/616631/)
 - [(Relatively) Physically Accurate Black Hole Visualization in Unreal Engine (2020)](https://twitter.com/overdrawxyz/status/1316066431684030464) ([HN](https://news.ycombinator.com/item?id=24773546))
+- [40 Years of Black Hole Imaging: Early work 1972-1988, by Jean-Pierre Luminet (2018)](https://blogs.futura-sciences.com/e-luminet/2018/03/07/45-years-black-hole-imaging-1-early-work-1972-1988/) ([Tweet](https://twitter.com/AvatarDomy/status/1328249809560547328))

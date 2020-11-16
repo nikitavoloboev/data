@@ -211,3 +211,4 @@
 - [Python: The Full Monty: A Tested Semantics for the Python Programming Language](http://cs.brown.edu/~sk/Publications/Papers/Published/pmmwplck-python-full-monty/)
 - [Getting Started With Python 3 (2020)](https://mubinsodyssey.com/getting-started-with-python-3)
 - [Python Internals Serie : Subprocess.Popen (2020)](http://ykarroum.com/2020/11/07/subprocess/)
+- [Run Python Applications Efficiently With malloc_trim (2020)](https://reliability.substack.com/p/run-python-servers-more-efficiently)

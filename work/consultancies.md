@@ -142,6 +142,7 @@
 - [Shakacode](https://www.shakacode.com/) - Ruby on Rails, React, Gatsby and Reason development.
 - [Nodes Agency](https://www.nodesagency.com/) - Digital product development agency.
 - [Technokrat](https://technokrat.ch/)
+- [Dwarves Foundation](https://dwarves.foundation/) ([GitHub](https://github.com/dwarvesf))
 
 ## Links
 

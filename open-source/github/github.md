@@ -149,3 +149,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Support Community](https://github.community/)
 - [GitHub Unofficial Issue Tracker](https://github.com/isaacs/github)
 - [publish-release](https://github.com/remixz/publish-release) - Create GitHub releases with assets from CLI, or from JS.
+- [GitHub Desktop](https://github.com/desktop/desktop) - Open source Electron-based GitHub . ([Web](https://desktop.github.com/))

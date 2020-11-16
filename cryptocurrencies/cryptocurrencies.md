@@ -37,3 +37,4 @@
 - [Crypto Market Structure 3.0 (2020)](https://arjun.af/crypto-market-structure)
 - [Linking Anonymous Transactions | Stanford Applied Crypto Group](https://crypto.stanford.edu/timings/) - Describe remote side-channel attacks on the privacy guarantees of anonymous cryptocurrencies.
 - [Mixing based privacy mechanisms are insufficient (2019)](https://mudit.blog/mixers-are-insufficient/)
+- [SignificantTrades](https://aggr.trade/) - Live cryptocurrency trades visualizer. ([Code](https://github.com/Tucsky/SignificantTrades))

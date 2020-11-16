@@ -60,6 +60,8 @@
 - [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://www.sixtyfps.io/)) ([HN](https://news.ycombinator.com/item?id=24919571))
 - [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
 - [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
+- [tiny-skia](https://github.com/RazrFalcon/tiny-skia) - Tiny Skia subset ported to Rust.
+- [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
 
 ## DB
 
@@ -523,6 +525,9 @@
 - [metrics](https://github.com/metrics-rs/metrics) - Metrics ecosystem for Rust.
 - [primordial](https://github.com/enarx/primordial) - Low-level CPU primitives.
 - [rkyv](https://github.com/djkoloski/rkyv) - Zero-copy deserialization framework for Rust.
+- [Sparse merkle tree](https://github.com/jjyr/sparse-merkle-tree) - Optimized sparse merkle tree.
+- [X.509 Parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
+- [swanky](https://github.com/GaloisInc/swanky) - Suite of rust libraries for secure multi-party computation.
 
 ## Cargo Plugins
 

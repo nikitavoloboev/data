@@ -201,6 +201,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The 100 Best Fantasy Books of All Time](https://time.com/collection/100-best-fantasy-books/)
 - [Ian Vanagas's Reading List](https://ianvanagas.com/reading-list/)
 - [Maker Reads](https://makerreads.com/) ([News](https://news.makerreads.com/))
+- [Essential Reading for Startup CTOs](https://www.karllhughes.com/posts/reading-for-startup-ctos)
+- [Book Recommendations - Limitless Curiosity](https://limitlesscuriosity.com/book-recommendations/)
 
 ## Notes
 

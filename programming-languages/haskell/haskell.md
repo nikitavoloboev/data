@@ -225,3 +225,4 @@
 - [Learning Haskell by building a simple static blog generator, one commit at a time](https://github.com/soupi/learn-haskell-blog-generator)
 - [Haskell Proposal: Simplify Deriving (2020)](https://www.parsonsmatt.org/2020/11/10/simplifying_deriving.html)
 - [Pure destination-passing style in Linear Haskell (2020)](https://www.tweag.io/blog/2020-11-11-linear-dps/) ([HN](https://news.ycombinator.com/item?id=25075718))
+- [Haskell IDE Engine for Nix](https://github.com/Infinisil/all-hies) - Provides cached Nix builds for Haskell IDE Engine.

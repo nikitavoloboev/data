@@ -62,3 +62,4 @@
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Minuscule SVG versions of your favorite logos.
 - [Fork Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Fork of the iconic font and CSS toolkit. ([Web](https://forkaweso.me/Fork-Awesome/))
 - [icons.land](https://icons.land/) - Search engine and API for icons from popular packs. ([Code](https://github.com/namiwang/icons-land))
+- [SVGBox](https://svgbox.net/) - API for Web Icons.

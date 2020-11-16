@@ -113,6 +113,7 @@
 - [DiffEqBase.jl](https://github.com/SciML/DiffEqBase.jl) - Lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems.
 - [LRUCache.jl](https://github.com/JuliaCollections/LRUCache.jl) - Provides a thread-safe implementation of a Least Recently Used (LRU) Cache for Julia.
 - [Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) - Julia C++ Interface.
+- [Cascadia](https://github.com/Algocircle/Cascadia.jl) - CSS Selector library in Julia.
 
 ## Links
 

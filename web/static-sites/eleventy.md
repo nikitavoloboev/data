@@ -20,3 +20,4 @@
 - [To Eleventy and Beyond (2020)](https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/) ([HN](https://news.ycombinator.com/item?id=24863629))
 - [How to Build an Eleventy Plugin (2020)](https://joshuaclanton.dev/blog/2020-10-06-how-to-build-an-eleventy-plugin/)
 - [11ty.dev documentation code](https://github.com/11ty/11ty-website)
+- [Vredeburg](https://github.com/dafiulh/vredeburg) - Simple starter project to create a blog using Eleventy and Tailwind CSS.

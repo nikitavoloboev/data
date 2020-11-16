@@ -47,6 +47,7 @@
 - [circe](https://github.com/circe/circe) - JSON library for Scala.
 - [Ciris](https://github.com/vlovgr/ciris) - Functional Configurations for Scala.
 - [ScalaPy](https://github.com/shadaj/scalapy) - Allows you to use any Python library from your Scala code with an intuitive API.
+- [Treadle](https://github.com/freechipsproject/treadle) - Experimental circuit simulator that executes low Firrtl IR.
 
 ## Links
 

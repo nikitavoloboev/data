@@ -44,3 +44,4 @@
 - [Coqtail](https://github.com/coq-community/coqtail-math) - Library of mathematical theorems and tools proved inside the Coq proof assistant.
 - [Interaction Trees](https://github.com/DeepSpec/InteractionTrees) - Library for Representing Recursive and Impure Programs in Coq.
 - [Coq/SSReflect Library for Elliptic Curves](https://github.com/strub/elliptic-curves-ssr)
+- [Alectryon](https://github.com/cpitclaudel/alectryon) - Library to process Coq snippets embedded in documents, showing goals and messages for each Coq sentence.

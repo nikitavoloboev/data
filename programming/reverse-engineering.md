@@ -64,3 +64,4 @@
 - [Chris Domas - Repsych: Psychological Warfare in Reverse Engineering (2015)](https://www.youtube.com/watch?v=HlUe0TUHOIc)
 - [Reverse Engineering 101 in 20 min](https://github.com/SynapticRewrite/RE101in20min)
 - [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) ([Lobsters](https://lobste.rs/s/tlzkk4/visualizing_binaries_with_space_filling))
+- [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)

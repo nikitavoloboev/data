@@ -60,6 +60,7 @@
 - [Solving the Sequence Alignment problem in Python (2020)](https://johnlekberg.com/blog/2020-10-25-seq-align.html)
 - [The Sound of Sorting](https://github.com/bingmann/sound-of-sorting) - Visualization and "Audibilization" of Sorting Algorithms. ([Web](https://panthema.net/2013/sound-of-sorting/))
 - [Miniselect: Practical and Generic Selection Algorithms (2020)](https://danlark.org/2020/11/11/miniselect-practical-and-generic-selection-algorithms/)
+- [The Slowest Quicksort (2019)](https://chasewilson.dev/blog/slowest-quicksort/)
 
 ## Images
 

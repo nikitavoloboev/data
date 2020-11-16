@@ -81,3 +81,4 @@
 - [Headers.CSS](https://headers-css.vercel.app/) - Blueprint HTML and CSS for 17+ website headers. ([Code](https://github.com/shadeed/headers-css))
 - [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby.
 - [HTML & CSS Is Hard | Friendly web development tutorial](https://www.internetingishard.com/html-and-css/)
+- [imperative-html](https://github.com/johnnesky/imperative-html) - Small JavaScript library for creating HTML (and SVG) elements in a web browser.

@@ -131,7 +131,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [FFmpeg Drawtext Filter for Overlays, Scrolling Text, Timestamps on Videos](https://ottverse.com/ffmpeg-drawtext-filter-dynamic-overlays-timecode-scrolling-text-credits/) ([HN](https://news.ycombinator.com/item?id=24865755))
 - [vdx](https://github.com/yuanqing/vdx) - Intuitive CLI for processing video, powered by FFmpeg. ([HN](https://news.ycombinator.com/item?id=24866455))
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Swiss army knife of lossless video/audio editing. ([HN](https://news.ycombinator.com/item?id=24883030))
-- [youtube-dl](https://youtube-dl.org/) - Command-line program to download videos from YouTube.com and a few more sites. ([Code](https://github.com/l1ving/youtube-dl)) ([Download YouTube Video in Go](https://github.com/kkdai/youtube)) ([Origins of the youtube-dl project](https://rg3.name/202011071352.html)) ([HN](https://news.ycombinator.com/item?id=25047818))
+- [youtube-dl](https://youtube-dl.org/) - Command-line program to download videos from YouTube.com and a few more sites. ([Code](https://github.com/ytdl-org/youtube-dl)) ([Download YouTube Video in Go](https://github.com/kkdai/youtube)) ([Origins of the youtube-dl project](https://rg3.name/202011071352.html)) ([HN](https://news.ycombinator.com/item?id=25047818))
 - [LiveGo](https://github.com/gwuhaolin/livego) - Simple and efficient live broadcast server in Go.
 - [node-ytdl-core](https://github.com/fent/node-ytdl-core) - YouTube video downloader in JavaScript.
 - [FFmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
@@ -153,3 +153,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Calculate PSNR, VMAF, SSIM using FFmpeg (2020)](https://ottverse.com/calculate-psnr-vmaf-ssim-using-ffmpeg/)
 - [OTTVerse](https://ottverse.com/) - OTT Tech-focused publication.
 - [Create Vintage Videos Using FFmpeg in 4 Simple Steps (2020)](https://ottverse.com/create-vintage-videos-using-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25102401))
+- [Auto-Editor](https://github.com/WyattBlue/auto-editor) - Command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.
+- [RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://github.com/hzwer/arXiv2020-RIFE)

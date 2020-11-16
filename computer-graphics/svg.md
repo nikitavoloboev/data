@@ -53,3 +53,4 @@
 - [uhtml](https://github.com/WebReflection/uhtml) - Micro HTML/SVG render.
 - [Simple Image Vectorization](https://wordsandbuttons.online/simple_image_vectorization.html) ([HN](https://news.ycombinator.com/item?id=24957120))
 - [Svglib](https://github.com/deeplook/svglib) - Pure-Python library for reading and converting SVG.
+- [IconPark](https://github.com/bytedance/IconPark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons, SVG icons.

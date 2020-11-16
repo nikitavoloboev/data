@@ -82,3 +82,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [ImageNet](http://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
 - [Bibliogram](https://bibliogram.art/) - Website that takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up. ([Code](https://sr.ht/~cadence/bibliogram/))
 - [Close-up Photographer of the Year](https://www.cupoty.com/) ([2020 Winners](https://www.cupoty.com/winners-02)) ([HN](https://news.ycombinator.com/item?id=25061678))
+- [InstantSave](https://instantsave.app/) - Instagram photo, video, IGTV, and Reels downloader online.
+- [Letterbox](https://github.com/tj/letterbox) - Tiny Go program to batch-process letter-boxing of photographs.

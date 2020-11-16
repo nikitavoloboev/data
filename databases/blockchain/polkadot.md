@@ -15,3 +15,4 @@
 - [Parity](https://www.parity.io/) - Blockchain Infrastructure for the Decentralised Web. ([GitHub](https://github.com/paritytech))
 - [Parity Zcash client](https://github.com/paritytech/parity-zcash)
 - [Parity Bitcoin client](https://github.com/paritytech/parity-bitcoin)
+- [Polkadot Wiki](https://github.com/w3f/polkadot-wiki) - Central source of truth for Polkadot.

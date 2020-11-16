@@ -42,3 +42,4 @@
 - [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go.
 - [Global Socket](https://github.com/hackerschoice/gsocket) - Moving data from here to there. Securely, Fast and trough NAT/Firewalls.
 - [Warp](https://github.com/minio/warp) - S3 benchmarking tool.
+- [smart_open](https://github.com/RaRe-Technologies/smart_open) - Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.

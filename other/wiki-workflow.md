@@ -126,6 +126,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [John Ohno](http://www.lord-enki.net/) ([Misc Files](https://github.com/enkiv2/misc))
+- [Allan's Digital Garden](https://publish.obsidian.md/allanmacgregor/Meta/Index)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other.

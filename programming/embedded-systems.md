@@ -86,3 +86,5 @@
 - [Introduction to Embedded Linux Security (2020)](https://embeddedbits.org/introduction-embedded-linux-security-part-1/)
 - [Handmade Seattle](https://www.handmade-seattle.com/) - Indie Systems Programming Conference. ([Lobsters](https://lobste.rs/s/uynlxo/indie_systems_programming_conference)) ([Day 1 video](https://vimeo.com/479193681))
 - [The Best and Worst Microcontroller SDKs (2020)](https://interrupt.memfault.com/blog/the-best-and-worst-mcu-sdks) ([HN](https://news.ycombinator.com/item?id=25094956))
+- [SwiftIO](https://github.com/madmachineio/SwiftIO) - Swift framework for microcontrollers.
+- [MadMachine](https://www.madmachine.io/) - Swift for microcontrollers. ([GitHub](https://github.com/madmachineio))

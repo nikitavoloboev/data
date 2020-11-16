@@ -222,6 +222,7 @@
 - [Snowflake Connector for Python](https://github.com/snowflakedb/snowflake-connector-python)
 - [nested_lookup](https://github.com/russellballestrini/nested-lookup) - Python functions for working with deeply nested documents (lists and dicts).
 - [jsons](https://github.com/ramonhagenaars/jsons) - Python lib for (de)serializing Python objects to/from JSON.
+- [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - Asyncio based SMTP server.
 
 ## Links
 

@@ -32,3 +32,4 @@
 - [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.
 - [Opinionated Common Lisp Resources 2020](https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a)
 - [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
+- [Modern CI testing and packaging for Common Lisp](https://nyxt.atlas.engineer/article/continuous-testing-and-packaging.org)

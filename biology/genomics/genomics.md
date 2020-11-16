@@ -37,3 +37,5 @@
 - [A hypothesis is a liability (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w)
 - [Awesome Imaging Genetics](https://github.com/heykeetae/AwesomeImagingGenetics)
 - [There is little chance CRISPR will ever be widely used to directly treat disease (2020)](http://www.josiahzayner.com/2020/10/crispr-is-dead.html) ([HN](https://news.ycombinator.com/item?id=25096386))
+- [misha](https://github.com/tanaylab/misha) - Genomic data analysis suite.
+- [MetaCell R](https://github.com/tanaylab/metacell) - Single-cell mRNA Analysis.

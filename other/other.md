@@ -384,3 +384,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Devine's bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
 - [mandible](https://github.com/Imgur/mandible) - Ready-to-deploy uploader that you can run on AWS EC2 or Heroku. It accepts an image via a REST interface and returns information about a file.
 - [Anya Taylor-Joy: inside my beauty bag (2020)](https://www.youtube.com/watch?v=HjniMU1IgHE)
+- [Paper Computing](https://wiki.xxiivv.com/site/paper_computing.html)
+- [ByteDance](https://www.bytedance.com/en/) ([GitHub](https://github.com/bytedance))

@@ -78,3 +78,4 @@
 - [Generative Collective Weekly](https://generative.substack.com/)
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Automaton](https://github.com/FMS-Cat/automaton) - Animation engine for creative coding.
+- [Olab's generative art](https://www.oppenlab.net/ge/)

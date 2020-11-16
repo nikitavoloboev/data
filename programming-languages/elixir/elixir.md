@@ -60,3 +60,4 @@
 - [DepViz](https://github.com/axelson/dep_viz) - Visual tool to understand Elixir recompilation. ([Web](https://dep-viz.herokuapp.com/))
 - [Elixir Flavoured Erlang: an Erlang to Elixir Transpiler (2020)](http://marianoguerra.org/posts/elixir-flavoured-erlang-an-erlang-to-elixir-transpiler/)
 - [You may not need Redis with Elixir (2020)](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
+- [Circuit Breaker Pattern in Elixir (2020)](https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir)

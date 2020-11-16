@@ -66,3 +66,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [No More Google](https://nomoregoogle.com/) - Privacy-friendly alternatives to Google that don't track you. ([HN](https://news.ycombinator.com/item?id=24972669))
 - [Productivity vs. Privacy (2020)](https://jessems.com/productivity-vs-privacy)
 - [Your Computer Isn't Yours (2020)](https://sneak.berlin/20201112/your-computer-isnt-yours/) ([HN](https://news.ycombinator.com/item?id=25078034))
+- [Electronic Frontier Foundation](https://www.eff.org/) - Defending your rights in the digital world.

@@ -232,7 +232,7 @@ Below is a list of extensions I use.
 
 ## Julia
 
-- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) - Julia Language Support.
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) - Julia Language Support. ([Code](https://github.com/julia-vscode/julia-vscode)) ([Web](https://www.julia-vscode.org/))
 
 ## Deno
 

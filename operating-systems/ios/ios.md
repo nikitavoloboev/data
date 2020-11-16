@@ -58,6 +58,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS 11 App Store clone](https://github.com/phillfarrugia/appstore-clone)
 - [Travelpayouts](https://github.com/travelpayouts/travel-app-ios) - App template for flights and hotels search.
 - [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/ish-app/ish)) ([HN](https://news.ycombinator.com/item?id=24861923)) ([HN 2](https://news.ycombinator.com/item?id=25028252))
+- [MediaBrowser](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections written in Swift.
 
 ## Other
 
@@ -254,3 +255,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [My App Review Experiences (2020)](https://tbodt.com/2020/11/08/app-review-experiences.html)
 - [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG.
 - [kernel exploit for Apple iOS 13.X](https://github.com/0x36/oob_events)
+- [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.

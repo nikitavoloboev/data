@@ -64,3 +64,5 @@
 - [Getting Graphical Output from our Custom RISC-V Operating System in Rust (2020)](https://blog.stephenmarz.com/2020/11/11/risc-v-os-using-rust-graphics/)
 - [Linux on LiteX-VexRiscv](https://github.com/litex-hub/linux-on-litex-vexriscv)
 - [rvddt](https://github.com/johnwinans/rvddt) - RISC-V Dynamic Debugging Tool.
+- [Jonesforth RISC-V](https://github.com/jjyr/jonesforth_riscv) - RISC-V implementation of Jones forth.
+- [RISCV-DV](https://github.com/google/riscv-dv) - SV/UVM based open-source instruction generator for RISC-V processor verification.

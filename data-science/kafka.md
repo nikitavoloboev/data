@@ -22,3 +22,4 @@
 - [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka (2020)](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/) ([HN](https://news.ycombinator.com/item?id=24699534))
 - [Runtime Discovery of Kafka Streams (2020)](https://www.youtube.com/watch?v=685MVJX9r5M)
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes. ([Web](https://strimzi.io/))
+- [Trubka](https://github.com/xitonix/trubka) - CLI tool for Kafka written in Go.

@@ -17,3 +17,4 @@
 - [OpenSSL](https://www.openssl.org/) - Robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.
 - [BoringSSL](https://github.com/google/boringssl) - Fork of OpenSSL that is designed to meet Google's needs.
 - [Certigo](https://github.com/square/certigo) - Utility to examine and validate certificates to help with debugging SSL/TLS issues.
+- [TLS for the Browsers of the Internet of Old Things (2020)](https://oldvcr.blogspot.com/2020/11/fun-with-crypto-ancienne-tls-for.html)

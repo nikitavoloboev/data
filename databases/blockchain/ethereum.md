@@ -105,3 +105,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
 - [Slither](https://github.com/crytic/slither) - Static Analyzer for Solidity.
 - [Crytic](https://crytic.io/) - SaaS-based GitHub application that continuously assures your Ethereum smart contracts are safe and functional. ([GitHub](https://github.com/crytic))
+- [Cryptovoxels](https://www.cryptovoxels.com/) - Ethereum Virtual World.

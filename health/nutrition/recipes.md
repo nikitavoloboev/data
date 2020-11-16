@@ -27,3 +27,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Subtle Asian Food](https://subtleasianfood.com/) - Search for yummy Asian desserts.
 - [Ask HN: Best Recipe Search Engine? (2020)](https://news.ycombinator.com/item?id=24630023)
 - [Heirloom](https://useheirloom.com/) - Small online recipe manager. ([Code](https://github.com/hrescak/useheirloom))
+- [Al Dente](https://aldente.substack.com/) - Cooking tips newsletter.

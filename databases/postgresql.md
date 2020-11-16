@@ -171,3 +171,4 @@
 - [Postgres Observability](https://pgstats.dev/) - Postgres views and functions that contain info you might want to know about a Postgres instance. ([HN](https://news.ycombinator.com/item?id=25058045))
 - [PostgreSQL Server Exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 - [How to Analyze a PostgreSQL Crash Dump File (2020)](https://www.highgo.ca/2020/11/07/how-to-analyze-a-postgresql-crash-dump-file/)
+- [PostgreSQL psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/) ([HN](https://news.ycombinator.com/item?id=25113440))

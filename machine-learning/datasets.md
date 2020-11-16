@@ -48,3 +48,4 @@
 - [Activeloop Hub](https://github.com/activeloopai/Hub) - Fastest way to access and manage datasets for PyTorch and TensorFlow.
 - [Objectron Dataset](https://github.com/google-research-datasets/Objectron) - Dataset of short object centeric video clips with pose annotations.
 - [Google Research Datasets](https://github.com/google-research-datasets)
+- [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.

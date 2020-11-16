@@ -359,6 +359,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 - [SAO](https://github.com/saojs/sao) - Futuristic scaffolding tool. ([Docs](https://saojs.org/))
 - [Perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome. ([Web](https://perfetto.dev/))
+- [GitHub Pages URL Shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages. ([HN](https://news.ycombinator.com/item?id=25110879))
 
 ## Notes
 
@@ -414,3 +415,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [When is no-code useful? (2020)](https://linus.coffee/note/no-code/) ([HN](https://news.ycombinator.com/item?id=24914062))
 - [Interesting web services](https://gist.github.com/franky47/c78b5a7303356b3855c573c44c5d4455) - Semi-curated list of SaaS, platforms and web-based tools for software development.
 - [Product Explorer](https://productexplorer.io/) - Database of 15k+ products for makers and indie investors.
+- [Tools and Services I Use to Run My SaaS (2020)](https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/)

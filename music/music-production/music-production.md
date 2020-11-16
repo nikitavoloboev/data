@@ -125,3 +125,4 @@
 - [librosa](https://github.com/librosa/librosa) - Python package for music and audio analysis.
 - [mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
 - [jams](https://github.com/marl/jams) - JSON Annotated Music Specification for Reproducible MIR Research.
+- [Piano transcription](https://github.com/bytedance/piano_transcription) - Transcribing piano recordings into MIDI files.

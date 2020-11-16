@@ -591,6 +591,7 @@
 - [otel-launcher-go](https://github.com/lightstep/otel-launcher-go) - Lightstep Distro for OpenTelemetry Go.
 - [fileglob](https://github.com/goreleaser/fileglob) - File globbing library.
 - [Perf](https://github.com/hodgesds/perf-utils) - Go library for interacting with the perf subsystem in Linux.
+- [uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation for Go.
 
 ## Links
 

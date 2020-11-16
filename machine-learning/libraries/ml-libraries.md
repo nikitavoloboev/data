@@ -76,3 +76,5 @@
 - [NNFusion](https://github.com/microsoft/nnfusion) - Flexible and efficient DNN compiler that can generate high-performance executables from a DNN model description.
 - [ncnn](https://github.com/Tencent/ncnn) - High-performance neural network inference computing framework optimized for mobile platforms.
 - [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
+- [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
+- [Fedlearner](https://github.com/bytedance/fedlearner) - Collaborative machine learning frameowork that enables joint modeling of data distributed between institutions.

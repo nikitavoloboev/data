@@ -153,3 +153,5 @@
 - [Penrose diagrams](https://jila.colorado.edu/~ajsh/insidebh/penrose.html)
 - [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/) ([HN](https://news.ycombinator.com/item?id=25085286))
 - [A Spacetime Surprise: Time Isn’t Just Another Dimension (2020)](https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/) ([HN](https://news.ycombinator.com/item?id=25109046))
+- [How Radiation Looks Like](https://twitter.com/isaboemeke/status/1328037931521437696)
+- [Visual demonstration of the power of sound to create order out of chaos](https://twitter.com/tedgioia/status/1327511170190864384)

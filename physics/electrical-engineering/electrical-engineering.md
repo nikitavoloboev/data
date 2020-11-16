@@ -43,3 +43,4 @@
 - [Kitspace](https://kitspace.org/) - Place to share ready-to-order electronics designs.
 - [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses.
 - [Copper](https://github.com/Yatekii/copper) - PCB EDA Tool written in Rust.
+- [Building Sustainable Electronics (2020)](https://gopher.mills.io/republic.circumlunar.space/0/~xkp/phlog/2020-11-08-building-sustainable-electronics.txt)

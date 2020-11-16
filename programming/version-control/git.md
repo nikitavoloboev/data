@@ -189,3 +189,4 @@ I love Git and version control. And I use version control over any project I do.
 - [GOMP](https://github.com/MarkForged/GOMP) - Tool for comparing branches.
 - [This is how I git (2020)](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git/) ([Lobsters](https://lobste.rs/s/0k1crw/this_is_how_i_git)) ([HN](https://news.ycombinator.com/item?id=25043731))
 - [Trello Android's Git Branching Strategy (2020)](https://blog.danlew.net/2020/11/11/trello-androids-git-branching-strategy/)
+- [Why Git blame sucks for understanding WTF code (and what you should use instead) (2020)](https://tekin.co.uk/2020/11/patterns-for-searching-git-revision-histories) ([Lobsters](https://lobste.rs/s/in8vp4/why_git_blame_sucks_for_understanding_wtf))

@@ -26,3 +26,4 @@
 - [MIT OpenCourseWare](https://ocw.mit.edu/) - Free Online Course Materials. ([YouTube](https://www.youtube.com/c/mitocw/playlists))
 - [LinkedIn Learning](https://www.linkedin.com/learning/me) - Online Courses for Creative, Technology, Business Skills.
 - [Free online courses from Harvard University](https://www.edx.org/school/harvardx)
+- [Automation bot for free Udemy courses](https://github.com/dimakiss/Udemy_bot)

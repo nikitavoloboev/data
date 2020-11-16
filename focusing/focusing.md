@@ -56,3 +56,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Work on What Matters](https://staffeng.com/guides/work-on-what-matters) ([HN](https://news.ycombinator.com/item?id=24581810))
 - [Ask HN: What is your trick to do deep work or study? (2020)](https://news.ycombinator.com/item?id=24675467)
 - [What some of your goals are? Where you think you want to go, where you think things should be going. (2020)](https://merveilles.town/@neauoire/105093152834494144)
+- [Jonathan Blow on Deep Work: The Shape of a Problem Doesn't Start Anywhere (2018)](https://www.youtube.com/watch?v=4Ej_3NKA3pk)

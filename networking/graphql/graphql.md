@@ -162,3 +162,5 @@
 - [GraphQL Resources to help you get started (2020)](https://www.codepedia.org/ama/graphql-resources-to-help-you-get-started)
 - [Build a Serverless GraphQL API on AWS (2020)](https://lucas-le-ray.com/blog/build-serverless-graphql-api)
 - [graphqless](https://github.com/alloy/graphqless-js) - Statically compiled resolvers for entire queries based on a graphql-js schema.
+- [Moving OkCupid from REST to GraphQL (2020)](https://tech.okcupid.com/moving-okcupid-from-rest-to-graphql/) ([HN](https://news.ycombinator.com/item?id=25109323))
+- [graphql-schema-registry](https://github.com/pipedrive/graphql-schema-registry) - Graphql schema storage as dockerized on-premise service for federated graphql gateway server (based on apollo server) as alternative to Apollo studio.

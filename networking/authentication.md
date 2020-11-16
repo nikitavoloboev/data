@@ -86,3 +86,4 @@
 - [Consent Management: What You Need to Understand (2020)](https://auth0.com/blog/what-you-need-to-understand-about-consent-management/)
 - [OAuth2: A Theatrical Introduction (2020)](https://tech.lightspeedhq.com/oauth2-a-theatrical-introduction/)
 - [JWT authorization in a microservices gateway (2020)](https://fusionauth.io/blog/2020/11/12/jwt-authorization-microservices-gateway/)
+- [ORY Kratos](https://github.com/ory/kratos) - Cloud native Identity and User Management System. No longer necessary to implement a User Login process.

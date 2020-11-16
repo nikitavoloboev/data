@@ -107,3 +107,4 @@
 - [iOS 14 Onboarding in SwiftUI](https://github.com/jordansinger/swiftui-ios-14-onboarding)
 - [SwiftUICollection](https://github.com/defagos/SwiftUICollection) - Building a Collection For SwiftUI.
 - [Example Mail app on macOS using SwiftUI](https://github.com/jordansinger/mail-swiftui-sample)
+- [Widget Examples](https://github.com/pawello2222/WidgetExamples) - Demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.

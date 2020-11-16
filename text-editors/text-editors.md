@@ -48,7 +48,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Slate](https://github.com/ianstormtaylor/slate) - Completely customizable framework for building rich text editors.
 - [TinyMCE](https://www.tiny.cloud/) - Advanced WYSIWYG HTML Editor.
 - [ReactQuill](https://github.com/zenoamaro/react-quill) - Quill component for React. ([Web](https://zenoamaro.github.io/react-quill/))
-- [Quill](https://quilljs.com/) - Powerful rich text editor. ([Code](https://github.com/quilljs/quill))
+- [Quill](https://quilljs.com/) - Powerful rich text editor. ([Code](https://github.com/quilljs/quill)) ([Awesome Quill](https://github.com/quilljs/awesome-quill))
 - [react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React.
 
 ## Links

@@ -17,3 +17,4 @@
 - [PureScript Cookbook](https://github.com/JordanMartinez/purescript-cookbook)
 - [Learn PureScript with this "clone and play" repository](https://github.com/JordanMartinez/purescript-jordans-reference)
 - [Writing a Simple REST Web Service in PureScript (2017)](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
+- [List of Companies That Use Purescript](https://github.com/ajnsit/purescript-companies)

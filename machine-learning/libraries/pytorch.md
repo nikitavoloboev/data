@@ -172,3 +172,4 @@
 - [Old Photo Restoration (Official PyTorch Implementation)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 - [Torch-Pruning](https://github.com/VainF/Torch-Pruning) - PyTorch pruning toolkit for structured neural network pruning and layer dependency maintaining.
 - [torchac](https://github.com/fab-jul/torchac) - Fast Arithmetic Coding for PyTorch.
+- [AdaHessian](https://github.com/davda54/ada-hessian) - Easy-to-use AdaHessian optimizer (PyTorch).

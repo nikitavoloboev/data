@@ -106,3 +106,4 @@
 - [Backend development best practices](https://github.com/futurice/backend-best-practices)
 - [Systems and failure reading list](https://github.com/lorin/systems-reading)
 - [Real-world SRE: What not FAANG companies are doing (2020)](https://sreteams.substack.com/p/hash) ([HN](https://news.ycombinator.com/item?id=24929710))
+- [Make Your Back End Layer as Thin as Possible (2020)](https://kartick.substack.com/p/make-your-backend-layer-as-thin-as) ([HN](https://news.ycombinator.com/item?id=25101820))
