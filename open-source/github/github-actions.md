@@ -65,6 +65,7 @@
 - [Upload to Apple's TestFlight service](https://github.com/Apple-Actions/upload-testflight-build) - GitHub Action that Uploads a build to Apple TestFlight.
 - [Commitsar](https://github.com/aevea/commitsar) - Tool to check that commits comply with conventional commit standard.
 - [Release Please Action](https://github.com/google-github-actions/release-please-action) - Automate releases with Conventional Commit Messages.
+- [Respond to Issue Based on Label](https://github.com/hramos/respond-to-issue-based-on-label) - Bot that responds with a comment whenever a particular label is applied to an issue.
 
 ## Go
 

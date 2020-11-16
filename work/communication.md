@@ -62,3 +62,4 @@
 - [Tips on communicating clearly](https://news.ycombinator.com/item?id=24969032)
 - [Ask HN: My boss says I over complicate things. What should I do? (2020)](https://news.ycombinator.com/item?id=25077527)
 - [Every thought about giving and taking advice I’ve ever had, as concisely as possible (2020)](https://guzey.com/advice/)
+- [On Taking Criticism (2020)](https://www.observationalhazard.com/2020/11/on-taking-criticism_15.html) ([HN](https://news.ycombinator.com/item?id=25098585))

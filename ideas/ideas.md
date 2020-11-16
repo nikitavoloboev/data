@@ -70,5 +70,5 @@ I try to give my full attention to any ideas I am working on.
 - [Are Ideas Getting Harder to Find? (2020)](https://web.stanford.edu/~chadj/IdeaPF.pdf)
 - [Early Work (2020)](http://paulgraham.com/early.html) ([HN](https://news.ycombinator.com/item?id=24836090))
 - [Ideonomy](http://ideonomy.mit.edu/) - The science of ideas.
-- [Billion dollar startup ideas (2020)](https://www.youtube.com/watch?v=3YKNr-LiblI)
+- [Billion dollar startup ideas (2020)](https://www.youtube.com/watch?v=3YKNr-LiblI) ([HN](https://news.ycombinator.com/item?id=25101463))
 - [How to find underrated ideas](https://twitter.com/amasad/status/1327793928746147840)

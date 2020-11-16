@@ -63,3 +63,4 @@
 - [PCB Reverse Engineering: Eric Schlaepfer (2020)](https://www.youtube.com/watch?v=BsftxTbs7MA)
 - [Chris Domas - Repsych: Psychological Warfare in Reverse Engineering (2015)](https://www.youtube.com/watch?v=HlUe0TUHOIc)
 - [Reverse Engineering 101 in 20 min](https://github.com/SynapticRewrite/RE101in20min)
+- [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) ([Lobsters](https://lobste.rs/s/tlzkk4/visualizing_binaries_with_space_filling))

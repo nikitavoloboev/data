@@ -152,3 +152,4 @@
 - [Advance Electromagnetism Notes](https://andrealommen.github.io/PHY309/lectures)
 - [Penrose diagrams](https://jila.colorado.edu/~ajsh/insidebh/penrose.html)
 - [What Is a Particle? (2020)](https://www.quantamagazine.org/what-is-a-particle-20201112/) ([HN](https://news.ycombinator.com/item?id=25085286))
+- [A Spacetime Surprise: Time Isn’t Just Another Dimension (2020)](https://www.forbes.com/sites/startswithabang/2020/08/12/a-spacetime-surprise-time-isnt-just-another-dimension/) ([HN](https://news.ycombinator.com/item?id=25109046))

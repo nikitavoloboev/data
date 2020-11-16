@@ -282,3 +282,4 @@
 - [Metaprogramming for madmen (2012)](https://fgiesen.wordpress.com/2012/04/08/metaprogramming-for-madmen/) ([HN](https://news.ycombinator.com/item?id=25043199))
 - [Exotic Programming Ideas: Part 1 (Module Systems) (2020)](https://www.stephendiehl.com/posts/exotic01.html)
 - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) ([HN](https://news.ycombinator.com/item?id=23903737))
+- [What distinguishes great software engineers? (2019)](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf) ([HN](https://news.ycombinator.com/item?id=25107285))

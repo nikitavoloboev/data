@@ -216,3 +216,4 @@
 - [Threads and fork(): think twice before mixing them (2009)](https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them)
 - [eBPF - Rethinking the Linux Kernel (2020)](https://www.youtube.com/watch?v=f-oTe-dmfyI)
 - [Linux App Summit 2020](https://www.youtube.com/watch?v=u8SI6AEwMnQ)
+- [Reasons to prefer Linux over Windows (2014)](https://github.com/nbeaver/why-linux-is-better) ([HN](https://news.ycombinator.com/item?id=25104828))
