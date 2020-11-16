@@ -60,3 +60,4 @@
 - [Implementation of an extremely 'lightweight' GAN proposed in ICLR 2021, in PyTorch](https://github.com/lucidrains/lightweight-gan)
 - [Instance Selection for GANs](https://github.com/uoguelph-mlrg/instance_selection_for_gans)
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/dvschultz/stylegan2-ada)
+- [GANs with Keras and TensorFlow (2020)](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)

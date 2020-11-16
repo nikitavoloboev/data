@@ -27,7 +27,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Puffer](https://github.com/StanfordSNR/puffer) - Stanford University research study about using machine learning to improve video-streaming algorithms.
 - [Alfalfa](https://github.com/excamera/alfalfa) - Purely functional video codec, used for ExCamera and Salsify. ([Web](https://snr.stanford.edu/salsify/))
 - [Facebook Open-Sources PySlowFast Codebase for Video Understanding (2020)](https://medium.com/syncedreview/facebook-open-sources-pyslowfast-codebase-for-video-understanding-89200ff35267)
-- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. ([Cheat sheet](https://github.com/yuanqing/ffmpeg-cheatsheet))
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. ([Cheat sheet](https://github.com/yuanqing/ffmpeg-cheatsheet)) ([Rust FFmpeg](https://github.com/zmwangx/rust-ffmpeg))
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg.
 - [IPTV](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor for Windows, macOS, and Linux.

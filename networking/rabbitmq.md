@@ -9,3 +9,4 @@
 - [RabbitMQ in Depth (2017)](https://www.manning.com/books/rabbitmq-in-depth)
 - [Rejected](https://github.com/gmr/rejected) - AMQP consumer daemon and message processing framework for RabbitMQ.
 - [PostgreSQL to AMQP bridge](https://github.com/subzerocloud/pg-amqp-bridge) - Send messages to RabbitMQ from PostgreSQL.
+- [RPC over RabbitMQ (with Elixir) (2020)](https://andrealeopardi.com/posts/rpc-over-rabbitmq-with-elixir/)

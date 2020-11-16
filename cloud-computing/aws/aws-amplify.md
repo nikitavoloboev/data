@@ -19,3 +19,4 @@
 - [Building Serverless Applications with AWS Amplify (2020)](https://www.youtube.com/watch?v=egXBcNNUvDA)
 - [Full stack with Next.js, Amplify, & CDK](https://github.com/dabit3/amplify-with-cdk)
 - [Next.js Amplify Workshop](https://github.com/dabit3/next.js-amplify-workshop)
+- [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync (2020)](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/) ([Tweet](https://twitter.com/dabit3/status/1328349979124113408))

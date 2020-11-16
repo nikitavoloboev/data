@@ -51,3 +51,4 @@
 - [Cirq](https://github.com/quantumlib/Cirq) - Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 - [CERN Online introductory lectures on quantum computing (2020)](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) ([HN](https://news.ycombinator.com/item?id=24996034))
 - [The Weirdness of Quantum Random Walks (2020)](https://limitlesscuriosity.com/the-weirdness-of-quantum-random-walks/)
+- [XACC](https://github.com/eclipse/xacc) - Extensible compilation framework for hybrid quantum-classical computing architectures.

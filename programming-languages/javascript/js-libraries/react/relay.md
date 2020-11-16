@@ -17,3 +17,4 @@
 - [relay-graphql-js](https://github.com/relay-tools/relay-graphql-js) - Relay tooling based on graphql-js.
 - [ReactRelayNetworkModern](https://github.com/relay-tools/react-relay-network-modern) - Relay Modern Network Layer with middlewares — cache, auth, retry, batch, logger, SSR.
 - [Relay Modern Boilerplate](https://github.com/enisdenjo/relay-modern-boilerplate) - PostGraphile + Relay Modern crash course.
+- [Relay Meetup](https://relaymeetup.com/) - Global, online meetup on Relay, the GraphQL client.

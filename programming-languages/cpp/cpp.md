@@ -21,7 +21,7 @@
 - [From scratch" implementations of many C++17 standard library features](https://github.com/Quuxplusone/from-scratch)
 - [dbg-macro](https://github.com/sharkdp/dbg-macro) - Macro for printf-style debugging fans.
 - [C++ Crash Course](https://ccc.codes/) ([Code](https://github.com/JLospinoso/ccc)) ([Article](https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html))
-- [C++ Standard Draft Sources](https://github.com/cplusplus/draft)
+- [C++ Standard Draft Sources](https://github.com/cplusplus/draft) ([Web](http://www.open-std.org/jtc1/sc22/wg21/))
 - [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/) ([Code](https://github.com/changkun/modern-cpp-tutorial))
 - [Cling](https://github.com/root-project/cling) - Interactive C++ Interpreter.
 - [Mesh](https://github.com/plasma-umass/Mesh) - Memory allocator that automatically reduces the memory footprint of C/C++ applications.
@@ -29,7 +29,7 @@
 - [CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions” (2019)](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [Cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code.
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
-- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) ([Code](https://github.com/isocpp/CppCoreGuidelines))
 - [CppCon 2019 talks](https://www.youtube.com/playlist?list=PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw)
 - [CppCon 2019: Bjarne Stroustrup “C++20: C++ at 40”](https://www.youtube.com/watch?v=u_ij0YNkFUs&list=PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw&index=2&t=0s)
 - [Modern Memory Safety: C/C++ Vulnerability Discovery, Exploitation, Hardening (2016)](https://github.com/struct/mms/blob/master/Modern_Memory_Safety_In_C_CPP.pdf)

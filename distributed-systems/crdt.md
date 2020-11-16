@@ -42,3 +42,5 @@
 - [A Bluffers Guide to CRDTs in Riak](https://gist.github.com/russelldb/f92f44bdfb619e089a4d)
 - [bft-crdts](https://github.com/davidrusu/bft-crdts) - Byzantine Fault Tolerant CRDT's and other Eventually Consistent Algorithms. In Rust.
 - [Large-Scale Geo-Replicated Conflict-free Replicated Data Types](https://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
+- [CRDT notes](https://github.com/pfrazee/crdt_notes)
+- [syncpad](https://github.com/Nishimura-Katsuo/syncpad) - CRDT-based collaborative source code editor (featuring the Monaco editor).

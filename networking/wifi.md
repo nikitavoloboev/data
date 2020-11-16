@@ -7,3 +7,4 @@
 - [WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with fallback web configuration portal.
 - [Understand Wi-Fi 4/5/6/6E (802.11 n/ac/ax)](https://www.duckware.com/tech/wifi-in-the-us.html)
 - [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform.
+- [EvilCrow-Keylogger](https://github.com/joelsernamoreno/EvilCrow-Keylogger) - WiFi keylogger with Micro SD slot, based on the Atmega32U4 microcontroller and the ESP32-PICO module.

@@ -9,3 +9,4 @@
 - [Freiburg: Germany's futuristic city set in a forest (2020)](http://www.bbc.com/travel/story/20200715-freiburg-germanys-futuristic-city-set-in-a-forest) ([HN](https://news.ycombinator.com/item?id=24455406))
 - [Ask HN: As a person, what can I do to improve a city? (2020)](https://news.ycombinator.com/item?id=25007697)
 - [Streetmix](https://streetmix.net/) - Collaborative process for communities and city planners to improve public spaces. ([Code](https://github.com/streetmix/streetmix))
+- [How to Be Silicon Valley (2006)](http://www.paulgraham.com/siliconvalley.html) ([HN](https://news.ycombinator.com/item?id=25115336))
