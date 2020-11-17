@@ -37,3 +37,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Upgrade FreeBSD on a Raspberry Pi 2 (2020)](https://stafwag.github.io/blog/blog/2020/11/01/upgrade_freebsd_on_my_rpi2/)
 - [OpenBSD Router Guide](https://www.unixsheikh.com/tutorials/openbsd-router-guide/) ([HN](https://news.ycombinator.com/item?id=25033925))
 - [Let’s make a FreeBSD for “mere mortals” (2020)](https://medium.com/@probonopd/hello-lets-make-a-freebsd-for-mere-mortals-41b8f93ba075)
+- [Why I use OpenBSD (2020)](https://dataswamp.org/~solene/2020-11-16-why-i-use-openbsd.html)

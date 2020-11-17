@@ -96,6 +96,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [PopClip](https://pilotmoon.com/popclip/) - Appears when you select text with your mouse on your Mac. ([PopClip Extensions](https://github.com/pilotmoon/PopClip-Extensions))
 - [ClashX](https://github.com/yichengchen/clashX) - Rule based proxy For Mac base on Clash.
 - [Lacona](https://lacona.app/) - Command launcher.
+- [Numi](https://numi.app/) - Beautiful calculator app for Mac. ([Code](https://github.com/nikolaeu/numi))
 
 ## Links
 

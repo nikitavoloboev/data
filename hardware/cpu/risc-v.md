@@ -66,3 +66,4 @@
 - [rvddt](https://github.com/johnwinans/rvddt) - RISC-V Dynamic Debugging Tool.
 - [Jonesforth RISC-V](https://github.com/jjyr/jonesforth_riscv) - RISC-V implementation of Jones forth.
 - [RISCV-DV](https://github.com/google/riscv-dv) - SV/UVM based open-source instruction generator for RISC-V processor verification.
+- [venus](https://www.kvakil.me/venus/) - RISC-V instruction set simulator built for education. ([Code](https://github.com/kvakil/venus))

@@ -29,6 +29,7 @@
 - [Goth](https://github.com/peburrows/goth) - Elixir package for Oauth authentication via Google Cloud APIs.
 - [Timber](https://github.com/timberio/timber-elixir) - Great Elixir logging made easy.
 - [Parent](https://github.com/sasa1977/parent) - Support for custom parenting of processes.
+- [Nebulex](https://github.com/cabol/nebulex) - In-Process and Distributed Cache Toolkit for Elixir.
 
 ## Links
 

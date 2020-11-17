@@ -10,6 +10,7 @@
 - Can `console.log({ myConst })` to log the variable with the value as an object so you see the variable name & the value. As opposed to doing `console.log(myConst, 'myConst')`.
 - [Periodic reminder that `await import('//dev.jspm.io/[pkg]')` allows you to import anything from npm in the browser instantly. I often use this in the console to test things out.](https://twitter.com/guybedford/status/1202022281633030145)
 - [Between typescript and prettier, there is very little justification for eslint.](https://twitter.com/mweststrate/status/1296437898330419209)
+- [JS proxy can observe a nested object for changes made to it. That means there's none of the traditional selecting or diffing.](https://twitter.com/0xca0a/status/1328756186288713730)
 
 ## Links
 

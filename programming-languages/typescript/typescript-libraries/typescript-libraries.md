@@ -86,3 +86,4 @@
 - [LiTScript](https://github.com/johtela/litscript) - Documentation generation tool that draws inspiration from literate programming.
 - [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by esbuild.
 - [Awesome Template Literal Types](https://github.com/ghoullier/awesome-template-literal-types)
+- [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.

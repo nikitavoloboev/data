@@ -79,3 +79,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [TildeRadio](https://tilderadio.org/) - Internet radio streamed by/for users of the tildeverse.
 - [Discover Quickly](https://discoverquickly.com/) - Your interface for music discovery, powered by Spotify.
 - [Ask HN: How do you find new music? (2020)](https://news.ycombinator.com/item?id=25085635)
+- [Savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art.
