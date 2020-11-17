@@ -23,3 +23,4 @@
 - [On learning chess as an adult: From 650 to 1750 in two years (2020)](https://jacobbrazeal.wordpress.com/2020/11/16/on-learning-chess-as-an-adult-from-650-to-1750-in-two-years/) ([HN](https://news.ycombinator.com/item?id=25108800))
 - [Lichess Chess Bots](https://lichess.org/player/bots)
 - [Chessvision.ai Search](https://search.chessvision.ai/) - Search YouTube chess videos by content.
+- [castling.club](https://castling.club/) - Chess over ActivityPub.

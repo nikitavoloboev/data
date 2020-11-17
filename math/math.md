@@ -212,3 +212,4 @@
 - [Notes for courses taken at Harvard (2015--2019)](https://github.com/Dongryul-Kim/harvard_notes) ([HN](https://news.ycombinator.com/item?id=25055267))
 - [Paul's Online Math Tutorials and Notes](https://tutorial.math.lamar.edu/) ([HN](https://news.ycombinator.com/item?id=25081297))
 - [Terence Tao's Career Advice for math](https://terrytao.wordpress.com/career-advice/)
+- [Alexander Grothendieck: Memories of a Great Mathematician (2014)](https://www.albany.edu/offcourse/issue59/grothendiek.html)

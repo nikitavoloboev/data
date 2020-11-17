@@ -15,3 +15,4 @@
 - [Anu](https://anu.dev/) - Sound distributed version control system. ([HN](https://news.ycombinator.com/item?id=25001539))
 - [Project Nessie](https://projectnessie.org/) - Git-Like Experience for your Data Lake. ([Code](https://github.com/projectnessie/nessie))
 - [Replicate](https://replicate.ai/) - Version control for machine learning. ([Code](https://github.com/replicate/replicate))
+- [Dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI.
