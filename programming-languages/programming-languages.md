@@ -132,3 +132,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [We need less powerful languages (2015)](https://lukeplant.me.uk/blog/posts/less-powerful-languages/) ([HN](https://news.ycombinator.com/item?id=25090816))
 - [Learn languages that are not Java, Python and C++ (2020)](https://twitter.com/jjcarett2/status/1321110900040994822)
 - [PLIERS: A Process that Integrates User-Centered Methods into Programming Language Design (2020)](https://arxiv.org/abs/1912.04719)
+- [Liquid information flow control](https://cseweb.ucsd.edu/~npolikarpova/publications/icfp20-lifty.pdf)
