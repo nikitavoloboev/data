@@ -22,3 +22,4 @@
 - [Three.js Journey](https://threejs-journey.xyz/) - Ultimate Three.js course.
 - [VueJS 3 + ViteJS + ThreeJS](https://github.com/troisjs/trois)
 - [Good looking planets in ThreeJS](https://github.com/Astrak/three-planets)
+- [Three.js Developer Tools](https://chrome.google.com/webstore/detail/threejs-developer-tools/ebpnegggocnnhleeicgljbedjkganaek) ([Code](https://github.com/threejs/three-devtools))
