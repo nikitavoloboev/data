@@ -18,3 +18,4 @@
 - [Modrinth](https://modrinth.com/) - Mod distribution platform. Modern, easy to use, and built for modders. Currently supports Minecraft. ([API code](https://github.com/modrinth/labrinth))
 - [fastnbt](https://github.com/owengage/fastnbt) - Fast parsing library for Minecraft's NBT and Anvil formats.
 - [MineRL](https://minerl.io/) - Towards AI in Minecraft.
+- [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Free, open-source modding API all of your favourite mods use.

@@ -25,4 +25,5 @@
 - [Gödel Without Tears, slowly (2020)](https://www.logicmatters.net/2020/09/01/godel-without-tears-slowly-1/)
 - [Logic, Explainability and the Future of Understanding (2018)](https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/)
 - [Finite of Sense and Infinite of Thought (2018)](https://pron.github.io/posts/computation-logic-algebra-pt1)
-- [What Godel Discovered](https://stopa.io/post/269)
+- [What Godel Discovered](https://stopa.io/post/269) ([HN](https://news.ycombinator.com/item?id=25115746))
+- [Logicomix: An Epic Search for Truth book (2009)](https://www.logicomix.com/en/index.html)

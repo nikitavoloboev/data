@@ -58,3 +58,4 @@
 - [Intel's disruption is now complete (2020)](https://jamesallworth.medium.com/intels-disruption-is-now-complete-d4fa771f0f2c) ([HN](https://news.ycombinator.com/item?id=25092721))
 - [ARM processor history (2020)](https://twitter.com/kenshirriff/status/1327021630636212224)
 - [Bitdefender disassembler](https://github.com/bitdefender/bddisasm) - Lightweight, x86/x64 only instruction decoder.
+- [Performance Analysis and Tuning on Modern CPUs book](https://book.easyperf.net/perf_book)
