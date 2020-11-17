@@ -133,6 +133,7 @@ Below is a list of extensions I use.
 ## Python
 
 - [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists. ([Code](https://github.com/neuron-team/vscode-ipe))
+- [VSCode Python Docstring Generator](https://github.com/NilsJPWerner/autoDocstring) - Quickly generate docstrings for python functions.
 
 ## Git
 

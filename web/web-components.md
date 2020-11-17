@@ -21,3 +21,4 @@
 - [Open Web Components Guide](https://open-wc.org/guide/) - Guides, tools and libraries for developing web components. ([Code](https://github.com/open-wc/open-wc))
 - [Prism Compiler](https://github.com/kaleidawave/prism) - Experimental compiler for building isomorphic web applications with web components.
 - [Hackernews Prism](https://github.com/kaleidawave/hackernews-prism) - Clone of Hackernews built with Prism, Rust and Actix-web. ([Article](https://kaleidawave.medium.com/hacker-news-clone-with-prism-rust-b4c681fe07af))
+- [Light and expressive GUI with web components](https://github.com/juliendargelos/gui)

@@ -51,3 +51,4 @@
 - [Understanding static single assignment forms (2020)](https://blog.yossarian.net/2020/10/23/Understanding-static-single-assignment-forms)
 - [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
 - [A tutorial on how to write a compiler using LLVM (2020)](https://tomassetti.me/a-tutorial-on-how-to-write-a-compiler-using-llvm/)
+- [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) - Count lines of LLVM IR per generic function.

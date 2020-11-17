@@ -6,6 +6,7 @@
 - [Luminus](https://luminusweb.com/) - Clojure micro-framework based on a set of lightweight libraries. ([HN](https://news.ycombinator.com/item?id=22852375))
 - [bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites.
 - [Biff](https://github.com/jacobobryant/biff) - Web framework + self-hosted deployment solution for Clojure. ([Migrating to Biff, a self-hosted Firebase alternative for Clojure](https://findka.com/blog/migrating-to-biff/)) ([Web](https://findka.com/biff/#introduction)) ([HN](https://news.ycombinator.com/item?id=23921220))
+- [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) - Simple asynchronous Ajax client for ClojureScript and Clojure.
 
 ## DB
 

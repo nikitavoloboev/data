@@ -78,3 +78,5 @@
 - [Scikit-Optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
 - [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Scikit-learn-compatible Python implementation of ReBATE, a suite of Relief-based feature selection algorithms for Machine Learning.
 - [Fedlearner](https://github.com/bytedance/fedlearner) - Collaborative machine learning frameowork that enables joint modeling of data distributed between institutions.
+- [SkLearn2PMML](https://github.com/jpmml/sklearn2pmml) - Python library for converting Scikit-Learn pipelines to PMML.
+- [vecstack](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique).

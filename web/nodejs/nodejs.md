@@ -143,3 +143,5 @@
 - [gh-release](https://github.com/hypermodules/gh-release) - Create a github release for a node package.
 - [Our Journey to a High-Performance Node.js Library (2020)](https://hazelcast.com/blog/our-journey-to-a-high-performance-node-js-library/)
 - [Corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers.
+- [lazynpm](https://github.com/jesseduffield/lazynpm) - Simple terminal UI for npm commands, written in Go.
+- [Retes](https://github.com/kreteshq/retes) - Typed, Declarative, Data-Driven Routing for Node.js.

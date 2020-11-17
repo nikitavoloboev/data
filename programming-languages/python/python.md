@@ -119,7 +119,7 @@
 - [Using enumerated types in Python (2020)](https://johnlekberg.com/blog/2020-06-06-enum.html) ([HN](https://news.ycombinator.com/item?id=23440541))
 - [Subpar](https://github.com/google/subpar) - Utility for creating self-contained python executables. It is designed to work well with Bazel.
 - [Python Wheels](https://pythonwheels.com/) - New standard of Python distribution. ([HN](https://news.ycombinator.com/item?id=23452365))
-- [Calm Code](https://calmcode.io/) - Learn code calmly.
+- [Calm Code](https://calmcode.io/) - Learn code calmly. ([HN](https://news.ycombinator.com/item?id=25123059))
 - [How async should have been in Python (2020)](https://sobolevn.me/2020/06/how-async-should-have-been) ([Lobsters](https://lobste.rs/s/srbshw/how_async_should_have_been_python))
 - [Pycopy](https://github.com/pfalcon/pycopy) - Minimalist and memory-efficient Python implementation. Good for desktop, cloud, constrained systems, microcontrollers, and just everything. ([HN](https://news.ycombinator.com/item?id=23446721))
 - [Packaging without setup.py (2020)](https://pgjones.dev/blog/packaging-without-setup-py-2020/)
@@ -212,3 +212,5 @@
 - [Getting Started With Python 3 (2020)](https://mubinsodyssey.com/getting-started-with-python-3)
 - [Python Internals Serie : Subprocess.Popen (2020)](http://ykarroum.com/2020/11/07/subprocess/)
 - [Run Python Applications Efficiently With malloc_trim (2020)](https://reliability.substack.com/p/run-python-servers-more-efficiently)
+- [wheelwright](https://github.com/explosion/wheelwright) - Automated build repo for Python wheels and source packages.
+- [DepHell](https://github.com/dephell/dephell) - Project management for Python.

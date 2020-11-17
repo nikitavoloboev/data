@@ -61,7 +61,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
 - [Stupid Operating System](https://github.com/sos-os/kernel) - Simple, tiny toy OS implemented in Rust.
 - [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler.
-- [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/))
+- [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/)) ([TempleOS on real hardware](https://www.youtube.com/watch?v=ygZNVbBcJ4I))
 - [CactusOS](https://github.com/Remco123/CactusOS) - Simple operating system that is aimed to not be anything like linux.
 
 ## Notes
@@ -73,7 +73,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
 - [OS: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems.
-- [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials))
+- [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials)) ([Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes))
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 - [Create OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [How to Make a Computer Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) ([Code](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System))
@@ -153,3 +153,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tarides](https://tarides.com/) - Building functional systems. Commercial support on MirageOS and Irmin.
 - [Return to Plan 9 (2020)](https://boxbase.org/entries/2020/nov/1/return-to-plan9/)
 - [Programs are a prison: Rethinking the building blocks of computing interfaces](https://djrobstep.com/posts/programs-are-a-prison) ([HN](https://news.ycombinator.com/item?id=24999103))
+- [POSIX write() is not atomic in the way that you might like (2020)](https://utcc.utoronto.ca/~cks/space/blog/unix/WriteNotVeryAtomic)

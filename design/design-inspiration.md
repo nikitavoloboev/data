@@ -60,6 +60,7 @@ Here are few more things I liked, design wise.
 - [Logic Magazine](https://logicmag.io/)
 - [Dithering](https://dithering.fm/)
 - [Glitch](https://glitch.com/)
+- [Servo](https://servo.org/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
@@ -314,6 +315,7 @@ Here are few more things I liked, design wise.
 - [Benoit Grelard](https://benoit.works/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
+- [Zach Holman](https://zachholman.com/)
 - [David Ross](https://djr.com/)
 - [Fran Perez](https://franperez.me/)
 - [Jeff Hilnbrand](https://jhil.co/) ([Code](https://github.com/jhil/jhilco-2021))
@@ -368,6 +370,7 @@ Here are few more things I liked, design wise.
 - [Jamie Wong](http://jamie-wong.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
 - [Jordan O’Connor](https://jdnoc.com/)
+- [Matt DesLauriers](https://www.mattdesl.com/)
 - [Leonora Tindall](https://nora.codes/)
 - [Sasank Chilamkurthy](https://chsasank.github.io/) ([Code](https://github.com/chsasank/chsasank.github.io))
 - [Greg Berge](https://gregberge.com/)
@@ -415,7 +418,7 @@ Here are few more things I liked, design wise.
 - [Obed Parlapiano](https://obedparla.com/)
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)
 - [Ink & Switch](https://www.inkandswitch.com/index.html)
-- [Tonsky](http://tonsky.me/about/)
+- [Tonsky](https://tonsky.me/)
 - [Isobit](https://www.isobit.io)
 - [Connor Sears](http://connor.town/) - Clean.
 - [Adam Morse](http://mrmrs.cc)

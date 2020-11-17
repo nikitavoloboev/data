@@ -33,3 +33,4 @@
 - [BloomRPC-Mock](https://github.com/uw-labs/bloomrpc-mock) - Toolset library for working with GRPC mocks.
 - [Wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client.
 - [Mortar](https://github.com/go-masonry/mortar) - Go framework/library for building gRPC (and REST) web services.
+- [gRPC microservice for dealing with users and its CLI client + Helm chart](https://github.com/maelvls/users-grpc)

@@ -132,3 +132,4 @@
 - [Minicompiler: Lexing (2020)](https://christine.website/blog/minicompiler-lexing-2020-10-29)
 - [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [Grammar-Based Testing for Little Languages: An Experience Report with Student Compilers (2020)](https://www.youtube.com/watch?v=wv6ftJNq92Q)
+- [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/entries/automatic_syntax_error_recovery.html)

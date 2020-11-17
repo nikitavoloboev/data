@@ -21,3 +21,4 @@
 - [Art of Assembly Language](https://www.cs.yale.edu/flint/cs422/doc/art-of-asm/pdf/)
 - [8086 microcode disassembled (2020)](https://www.reenigne.org/blog/8086-microcode-disassembled/) ([HN](https://news.ycombinator.com/item?id=24383648))
 - [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers in Rust (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
+- [Wrote some ARM (2019)](http://seenaburns.com/2019/04/17/wrote-some-arm/)

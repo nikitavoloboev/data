@@ -133,3 +133,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Learn languages that are not Java, Python and C++ (2020)](https://twitter.com/jjcarett2/status/1321110900040994822)
 - [PLIERS: A Process that Integrates User-Centered Methods into Programming Language Design (2020)](https://arxiv.org/abs/1912.04719)
 - [Liquid information flow control](https://cseweb.ucsd.edu/~npolikarpova/publications/icfp20-lifty.pdf)
+- [teaberry](https://github.com/JakeWheat/teaberry) - Learning project to implement a typed functional programming language/dialect of ML, which aims to be accessible and usable like Python is.
+- [Langkit](https://github.com/AdaCore/langkit) - Tool whose purpose is to make it easy to create syntactic and semantic analysis engines. Language creation framework.

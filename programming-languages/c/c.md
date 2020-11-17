@@ -102,3 +102,4 @@
 - [ZetZ](https://github.com/aep/zz) - Formally Verified Dialect of C. ([Article](https://www.infoq.com/news/2020/02/zz-formal-verified-c-dialect/))
 - [Editing the C Standard (2020)](https://thephd.github.io/editing-the-c-standard) ([HN](https://news.ycombinator.com/item?id=25086673))
 - [C Is Not Dependency Free (2020)](https://prilik.com/blog/post/c-is-not-dependency-free/)
+- [Best aspects of C language (2020)](https://blog.joren.ga/programming/best-of-c) ([HN](https://news.ycombinator.com/item?id=25124012))

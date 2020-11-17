@@ -3,6 +3,7 @@
 ## Notes
 
 - [Use Loom to provide updates on projects for clients.](https://twitter.com/johndsaunders/status/1294263930018312194)
+- [You will skip a lot of bureaucracy when you charge per hour. No issues when the business changes their scope or adds that extra feature. It very annoying to remind them every time something is out of scope. I would always pick per hour over per contract.](https://twitter.com/AdriaanvRossum/status/1328613227425636353)
 
 ## Links
 

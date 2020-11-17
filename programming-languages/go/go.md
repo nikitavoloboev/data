@@ -383,3 +383,5 @@ Go promotes composition over inheritance.
 - [A Concurrent Sudoku Solver with Channels (2020)](https://dkmccandless.github.io/2020/10/09/a-concurrent-sudoku-solver-with-channels.html)
 - [structslop](https://github.com/orijtech/structslop) - Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency.
 - [GopherCon 2020: Go Team AMA](https://www.youtube.com/watch?v=BNHwHLNLjLs)
+- [Digital Ocean App Platform sample Go application](https://github.com/digitalocean/sample-golang)
+- [GoGraph](https://github.com/tbpg/gograph) - Builds graphs out of Go source code.

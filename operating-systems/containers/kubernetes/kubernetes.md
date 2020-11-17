@@ -21,7 +21,7 @@
 - [Draft](https://github.com/azure/draft) - Streamlined Kubernetes Development.
 - [Nix Kubernetes](https://github.com/xtruder/nix-kubernetes) - Kubernetes deployment manager written in Nix.
 - [Knative Serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute.
-- [Rancher](https://rancher.com/kubernetes/)
+- [Rancher Kubernetes](https://rancher.com/kubernetes/) - Complete container management platform. Makes it easy to run Kubernetes everywhere. ([Code](https://github.com/rancher/rancher))
 - [OpenShift](https://www.openshift.com/)
 - [Portainer](https://portainer.io) - Lighter than Rancher (for Docker).
 - [Kubernetes 101 (2018)](https://www.stavros.io/posts/kubernetes-101/)
@@ -253,3 +253,6 @@
 - [Move2Kube](https://github.com/konveyor/move2kube) - Command-line tool that accelerates the process of re-platforming to Kubernetes/Openshift.
 - [Knatify](https://github.com/markusthoemmes/knatify) - Tool (or set of tools) that make it dead simple to migrate existing Kubernetes deployments into Knative Services.
 - [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes. ([HN](https://news.ycombinator.com/item?id=25117451))
+- [Headlamp](https://github.com/kinvolk/headlamp) - Easy-to-use and extensible Kubernetes web UI. ([Web](https://kinvolk.io/)) ([HN](https://news.ycombinator.com/item?id=25118870))
+- [kube-rs](https://github.com/clux/kube-rs) - Kubernetes client and futures controller runtime.
+- [Cloud Development Kit for Kubernetes](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming. ([Web](https://cdk8s.io/))

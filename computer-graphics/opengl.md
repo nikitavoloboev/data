@@ -11,3 +11,4 @@
 - [NanoGUI](https://github.com/wjakob/nanogui) - Minimalistic GUI library for OpenGL.
 - [20th Anniversary OpenGL Year Book](https://www.khronos.org/files/opengl/OpenGL-20th-Booklet.pdf)
 - [OpenGL Spec (2004)](https://www.khronos.org/registry/OpenGL/specs/gl/glspec20.pdf)
+- [cglm](https://github.com/recp/cglm) - OpenGL Mathematics (glm) for C.

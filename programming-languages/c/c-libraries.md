@@ -42,3 +42,4 @@
 - [GIF encoder](https://github.com/lecram/gifenc) - Small C library that can be used to create GIF animations.
 - [libnfc](https://github.com/nfc-tools/libnfc) - Library which allows userspace application access to NFC devices. ([Web](http://nfc-tools.org/index.php/Main_Page))
 - [C Thread Pool](https://github.com/Pithikos/C-Thread-Pool) - Minimal but advanced threadpool implementation.
+- [libhv](https://github.com/ithewei/libhv) - Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.

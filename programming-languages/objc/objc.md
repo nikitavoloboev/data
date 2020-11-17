@@ -17,3 +17,4 @@
 - [Advancements in the Objective-C runtime (2020)](https://developer.apple.com/videos/play/wwdc2020/10163/)
 - [Stop the Swift extension](https://lapcatsoftware.com/articles/StopTheSwift.html) - Turn Apple docs to use Objective-C instead of Swift.
 - [Objective-Hooker](https://github.com/LIJI32/ObjectiveHooker) - Extra light, extra simple Objective-C hooking framework.
+- [HTMLKit](https://github.com/iabudiab/HTMLKit) - Objective-C framework for your everyday HTML needs.

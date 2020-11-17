@@ -14,3 +14,4 @@
 - [Hunt](https://github.com/huntlabs/hunt) - Refined core library for D programming language.
 - [DConf 2020](https://dconf.org/2020/online/index.html)
 - [DLangKoans](https://github.com/ilmanzo/DLangKoans)
+- [Creating Tiny Executables in D (2020)](https://abqexpert.com/2020/11/16/creating-tiny-executables-in-d/)

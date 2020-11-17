@@ -54,3 +54,4 @@
 - [Svelte Actions](https://github.com/sw-yx/svelte-actions)
 - [Why Svelte is Like Rust (2020)](https://hugotunius.se/2020/08/15/why-svelte-is-like-rust.html)
 - [JungleJS](https://github.com/junglejs/junglejs) - Jamstack static site framework for Svelte. ([Web](https://www.junglejs.org/))
+- [Malina.js](https://github.com/malinajs/malinajs) - Builds your web-application to use it without framework on frontend side. Inspired by Svelte.

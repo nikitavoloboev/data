@@ -6,3 +6,4 @@
 - [Jules Hedges - compositional game theory (2020)](https://www.youtube.com/watch?v=5Qny8YmLUzk)
 - [Complexity Theory, Game Theory, and Economics: The Barbados Lectures](https://www.nowpublishers.com/article/Details/TCS-085)
 - [Brief Introduction to the Basics of Game Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1968579) ([HN](https://news.ycombinator.com/item?id=24831462))
+- [Game Theory on Networks](https://ingomarquart.github.io/TOM-GamesOnNetworks/)

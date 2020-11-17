@@ -27,3 +27,6 @@
 - [Hardly working with Cloudflare Workers (2020)](https://blog.notifly.io/2020/11/04/hardly-working-with-cloudflare-workers)
 - [Cloudflare Workers Types](https://github.com/cloudflare/workers-types) - TypeScript type definitions for authoring Cloudflare Workers.
 - [Durable Objects in Production (2020)](https://linc.sh/blog/durable-objects-in-production) ([HN](https://news.ycombinator.com/item?id=25084470))
+- [Vitedge](https://github.com/frandiox/vitedge) - Vue + Vite + SRR + Cloudflare Workers.
+- [Cloudflare Workers Boilerplate](https://github.com/frandiox/cf-workers-boilerplate) - Deploy Cloudflare Workers easily without sacrificing developer experience.
+- [Vite SSR](https://github.com/frandiox/vite-ssr) - Use Vite for server side rendering in Node or in a Cloudflare Worker.

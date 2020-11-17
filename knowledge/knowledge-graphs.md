@@ -45,3 +45,5 @@
 - [Web hub based on Wikidata](https://github.com/maxlath/hub) - Let's you craft URLs to go from an origin to a destination on the web, at the condition that you provide enough information on those points to be identified within Wikidata. ([Web](https://hub.toolforge.org/))
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Free and open knowledge base that can be read and edited by both humans and machines.
 - [Ontology Log](https://en.wikipedia.org/wiki/Olog) - Attempt to provide a rigorous mathematical framework for knowledge representation, construction of scientific models and data storage using category theory.
+- [MPqa](https://github.com/svakulenk0/KBQA) - Complex Question Answering over Knowledge Graphs.
+- [LibKGE](https://github.com/uma-pi1/kge) - PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of knowledge graph embeddings.

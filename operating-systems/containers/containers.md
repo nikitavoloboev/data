@@ -41,7 +41,7 @@
 - [Rootless Containers](https://rootlesscontaine.rs/)
 - [Linux Containers Forum](https://discuss.linuxcontainers.org/)
 - [LXD – next generation system container manager release 4.3 (2020)](https://discuss.linuxcontainers.org/t/lxd-4-3-has-been-released/8303) ([HN](https://news.ycombinator.com/item?id=23828920))
-- [AWS Containers Roadmap](https://github.com/aws/containers-roadmap)
+- [AWS Containers Roadmap](https://github.com/aws/containers-roadmap) ([Web](https://aws.amazon.com/about-aws/whats-new/containers/))
 - [Nestybox](https://www.nestybox.com/) - Run Docker and Kubernetes in Containers. ([HN](https://news.ycombinator.com/item?id=24084758))
 - [sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers.
 - [GitHub Container Registry (2020)](https://github.blog/2020-09-01-introducing-github-container-registry/) ([HN](https://news.ycombinator.com/item?id=24343937))
@@ -68,3 +68,4 @@
 - [Buildah](https://github.com/containers/buildah) - Tool that facilitates building Open Container Initiative (OCI) container images.
 - [Container networking is simple (2020)](https://iximiuz.com/en/posts/container-networking-is-simple/)
 - [Koyeb Serverless Engine: Docker Containers, Continuous Deployment of Functions (2020)](https://www.koyeb.com/blog/the-koyeb-serverless-engine-docker-containers-and-continuous-deployment-of-functions) ([HN](https://news.ycombinator.com/item?id=25070416))
+- [Linux Containers: What, Why, How](http://seenaburns.com/linux-containers-what-why-how/)

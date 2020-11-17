@@ -132,3 +132,5 @@
 - [What is a System-on-Chip (SoC), and why do we care if they are open source? (2020)](https://www.bunniestudios.com/blog/?p=5971) ([HN](https://news.ycombinator.com/item?id=25039013))
 - [Advanced System-on-Chip Design Lecture Notes (PDFs) (2016)](https://iis-people.ee.ethz.ch/~gmichi/asocd/lecturenotes/)
 - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Scala based HDL. Language to describe digital hardware. ([GitHub](https://github.com/SpinalHDL))
+- [AMD CDNA Architecture White paper (2020)](https://www.amd.com/system/files/documents/amd-cdna-whitepaper.pdf)
+- [reMarkable](https://remarkable.com/) - Next-generation paper tablet. ([Go CLI](https://github.com/juruen/rmapi)) ([HN](https://news.ycombinator.com/item?id=24295443)) ([HN 2](https://news.ycombinator.com/item?id=25124211)) ([Awesome reMarkable](https://github.com/reHackable/awesome-reMarkable))

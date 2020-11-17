@@ -23,3 +23,4 @@
 - [Python Rules for Bazel](https://github.com/bazelbuild/rules_python)
 - [LLVM Bazel BUILD files](https://github.com/google/llvm-bazel) - Bazel Build System Support for LLVM. ([HN](https://news.ycombinator.com/item?id=24925368))
 - [Bazel's Continuous Integration Setup](https://github.com/bazelbuild/continuous-integration)
+- [What happened at Bazelcon 2020](https://www.gasparevitta.com/posts/what-happened-at-bazelcon-2020/)

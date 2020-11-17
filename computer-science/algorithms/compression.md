@@ -30,3 +30,4 @@
 - [Miniz](https://github.com/richgel999/miniz) - Single C source file zlib-replacement library.
 - [Rationale for a Large Text Compression Benchmark (2009)](http://mattmahoney.net/dc/rationale.html)
 - [LZSA](https://github.com/emmanuel-marty/lzsa) - Byte-aligned, efficient lossless packer that is optimized for fast decompression on 8-bit micros.
+- [pigz](https://github.com/madler/pigz) - Parallel implementation of gzip for modern multi-processor, multi-core machines.

@@ -142,7 +142,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Few 80/20 tips for writing (2020)](https://www.indiehackers.com/post/a-few-80-20-tips-for-writing-b08941d407)
 - [Good writing is a business advantage](https://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) ([HN](https://news.ycombinator.com/item?id=23006106))
 - [How to Grow Your Business by Writing: Sahil Lavingia + David Perell (2020)](https://www.youtube.com/watch?v=grXrGaT7DLw)
-- [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear.
+- [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear. ([HN](https://news.ycombinator.com/item?id=25125302))
 - [Making sense of Design Unbound vs. prior theories of collaborative design work (2020)](https://www.twitch.tv/videos/611050187)
 - [Proselint](http://proselint.com/) - Linter for prose. ([Code](https://github.com/amperser/proselint))
 - [2020 Pulitzer Prize Winners](https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners) ([HN](https://news.ycombinator.com/item?id=23072690))
@@ -198,3 +198,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Robert Eggers on Making The Lighthouse: Full Screenwriter's Lecture and Q&A | On Writing (2020)](https://www.youtube.com/watch?v=XrqkfWFCCIs)
 - [David Lynch: Don't fear writer's block, get a setup, and be patient (2020)](https://www.youtube.com/watch?v=uHhf76z6BkM)
 - [How do you write simple explanations without sounding condescending (2020)](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) ([Lobsters](https://lobste.rs/s/qzdqit/how_do_you_write_simple_explanations))
+- [The Craft of Writing Effectively (2014)](https://www.youtube.com/watch?v=vtIzMaLkCaM)

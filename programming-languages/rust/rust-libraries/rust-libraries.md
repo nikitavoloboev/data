@@ -79,7 +79,7 @@
 
 ## Graphics
 
-- [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API.
+- [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API. ([Gfx-Rs: The Big Picture](https://gfx-rs.github.io/2020/11/16/big-picture.html))
 - [rspirv](https://github.com/gfx-rs/rspirv) - Rust implementation of SPIR-V module processing functionalities.
 - [cgmath-rs](https://github.com/rustgd/cgmath) - Linear algebra and mathematics library for computer graphics.
 - [aljabar](https://github.com/maplant/aljabar) - Extremely generic linear algebra library for Rust.
@@ -528,6 +528,8 @@
 - [Sparse merkle tree](https://github.com/jjyr/sparse-merkle-tree) - Optimized sparse merkle tree.
 - [X.509 Parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
 - [swanky](https://github.com/GaloisInc/swanky) - Suite of rust libraries for secure multi-party computation.
+- [lingua-rs](https://github.com/pemistahl/lingua-rs) - Accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike.
+- [fastrand](https://github.com/smol-rs/fastrand) - Simple and fast random number generator.
 
 ## Cargo Plugins
 

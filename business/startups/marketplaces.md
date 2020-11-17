@@ -15,3 +15,4 @@
 - [The Guide To No Code Marketplaces](https://guides.everythingmarketplaces.com/)
 - [How to build a marketing plan from 0-1: beginner’s guide (2020)](https://twitter.com/AmandaMGoetz/status/1295393675481153538)
 - [The Marketplace Monetization Map: Complexity and Asymmetry (2020)](https://medium.com/breadcrumb/the-marketplace-monetization-map-complexity-and-asymmetry-529b70a830d7)
+- [24 Marketplace Business Models (2020)](https://www.nclx.io/guide/marketplace-business-models)

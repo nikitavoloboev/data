@@ -39,3 +39,4 @@
 - [North](https://github.com/tuxmark5/north) - Experimental SEVM (Scannerless Earley Virtual Machine) parser implementation.
 - [Just write the parser](https://tiarkrompf.github.io/notes/?/just-write-the-parser/) - Whirlwind tour of writing parsers by hand. ([HN](https://news.ycombinator.com/item?id=24837898))
 - [Parsing Algorithms course](http://dmitrysoshnikov.com/courses/parsing-algorithms/) ([HN](https://news.ycombinator.com/item?id=24898210))
+- [Intro to Parsing with Parsec in Haskell](https://github.com/JakeWheat/intro_to_parsing) - Demonstrates the basics of Parsec and goes on to build a SQL query parser.

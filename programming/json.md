@@ -36,3 +36,4 @@
 - [TypeBox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript.
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable. ([HN](https://news.ycombinator.com/item?id=25006277))
 - [JSON Schema \$Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, Resolve, and Dereference JSON Schema \$ref pointers.
+- [Benchmarking JSON Parsers (OJ vs SimdJson) (2020)](https://www.mayerdan.com/ruby/2020/11/15/benchmarking-JSON-parser)

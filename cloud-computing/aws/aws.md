@@ -116,3 +116,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Secure Environment Accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - Tool designed to help deploy and operate secure multi-account AWS environments on an ongoing basis.
 - [AWS Serverless Workshops](https://github.com/aws-samples/aws-serverless-workshops)
 - [Cachenator](https://github.com/adrianchifor/cachenator) - Distributed, sharded in-memory cache and proxy for S3.
+- [Digger](https://alpha.digger.dev/Digger-7f299819b6f2415fbe67b87a0e7ca97c) - CLI to set up container environments in AWS.

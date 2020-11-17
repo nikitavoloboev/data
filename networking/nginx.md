@@ -28,3 +28,4 @@
 - [Nginx Service Mesh (2020)](https://www.nginx.com/blog/introducing-nginx-service-mesh/) ([HN](https://news.ycombinator.com/item?id=24846241))
 - [Bunkerized Nginx](https://github.com/bunkerity/bunkerized-nginx) - Nginx Docker image secure by default. ([HN](https://news.ycombinator.com/item?id=24842306))
 - [Nginx GeoIP2 module](https://github.com/leev/ngx_http_geoip2_module)
+- [Nginx Hardening Guide (2020)](https://beaglesecurity.com/blog/article/nginx-server-security.html)

@@ -74,6 +74,8 @@
 - [Suub](https://github.com/etienne-dldc/suub) - Simple pub/sub written in TypeScript.
 - [typescript-vscode-sh-plugin](https://github.com/aeschli/typescript-vscode-sh-plugin) - TypeScript plugin that proves richer semantic highlighing.
 - [oazapfts](https://github.com/cellular/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers.
+- [pattern-matching-ts](https://github.com/nrdlab/pattern-matching-ts) - Pattern matching in TypeScript.
+- [txstate](https://github.com/devanshj/txstate) - Effort to statically type xstate.
 
 ## Links
 

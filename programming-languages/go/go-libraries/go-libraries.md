@@ -42,6 +42,7 @@
 - [gomonkey](https://github.com/agiledragon/gomonkey) - Library to make monkey patching in unit tests easy.
 - [Gofight](https://github.com/appleboy/gofight) - Testing API Handler written in Go.
 - [Prettybench](https://github.com/cespare/prettybench) - Tool for transforming go test's benchmark output a bit to make it nicer for humans.
+- [goldie](https://github.com/sebdah/goldie) - Golden test utility for Go.
 
 ## Web
 
@@ -592,6 +593,7 @@
 - [fileglob](https://github.com/goreleaser/fileglob) - File globbing library.
 - [Perf](https://github.com/hodgesds/perf-utils) - Go library for interacting with the perf subsystem in Linux.
 - [uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation for Go.
+- [Gota](https://github.com/go-gota/gota) - DataFrames, Series and Data Wrangling for Go.
 
 ## Links
 
@@ -601,3 +603,4 @@
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.
 - [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects)
+- [Go web framework benchmark](https://github.com/smallnest/go-web-framework-benchmark)

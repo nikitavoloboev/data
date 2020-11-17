@@ -49,3 +49,4 @@
 - [Objectron Dataset](https://github.com/google-research-datasets/Objectron) - Dataset of short object centeric video clips with pose annotations.
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.
+- [HN Posts datasets](https://github.com/massanishi/hackernews-post-datasets) ([HN](https://news.ycombinator.com/item?id=25125458))

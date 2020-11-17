@@ -55,6 +55,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Cloudflare Blog](https://blog.cloudflare.com/) ([Code samples](https://github.com/cloudflare/cloudflare-blog))
 - [Aleksey Kladov](https://matklad.github.io/) ([Code](https://github.com/matklad/matklad.github.io))
 - [Kirill's Rust Blog](https://github.com/pretzelhammer/rust-blog)
+- [Seena Burns](http://seenaburns.com/archive/)
 
 ## Links
 

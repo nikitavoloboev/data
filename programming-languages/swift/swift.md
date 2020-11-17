@@ -170,3 +170,4 @@
 - [Swift Concurrency Roadmap (2020)](https://forums.swift.org/t/swift-concurrency-roadmap/41611) ([HN](https://news.ycombinator.com/item?id=24944777)) ([Video overview](https://www.youtube.com/watch?v=zLK30aKLANA))
 - [Slow Swift Compiler Performance (2020)](https://useyourloaf.com/blog/slow-swift-compiler-performance/)
 - [Practical Server Side Swift book](https://gumroad.com/l/practical-server-side-swift) ([Vapor 4 code samples](https://github.com/tib/practical-server-side-swift))
+- [Swift Dependency Injection by Needle (2020)](https://medium.com/joom/dependency-injection-by-needle-6d1c823893b)

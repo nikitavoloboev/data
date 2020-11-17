@@ -184,3 +184,4 @@
 - [A Primer in BERTology: What we know about how BERT works (2020)](https://arxiv.org/abs/2002.12327) ([HN](https://news.ycombinator.com/item?id=25043280))
 - [GPT Neo](https://github.com/EleutherAI/GPTNeo) - Implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.
 - [Text Synth](https://bellard.org/textsynth/) - Text completion using the GPT-2 language model.
+- [How to Go from NLP in 1 Language to NLP in N Languages in One Shot (2020)](https://x.ai/how-to-go-from-nlp-in-1-language-to-nlp-in-n-languages-in-one-shot/)

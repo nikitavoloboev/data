@@ -141,3 +141,5 @@
 - [How to Install OpenCV on a Raspberry Pi (2020)](https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/)
 - [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://github.com/alexanderkroner/saliency)
 - [PyImageSearch](https://www.pyimagesearch.com/) - Master Computer Vision, Deep Learning, and OpenCV.
+- [Natural Adversarial Examples](https://github.com/hendrycks/natural-adv-examples) - Harder ImageNet Test Set.
+- [How to upload 50 OpenCV frames into cloud storage within 1 second (2020)](https://medium.com/@venkateshpnk22/how-to-upload-50-opencv-frames-into-cloud-storage-within-1-second-653ee73d7711)

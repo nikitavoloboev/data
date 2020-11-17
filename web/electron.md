@@ -23,3 +23,5 @@
 - [Collection of apps built on Electron](https://www.electronjs.org/apps) ([Code](https://github.com/electron/apps))
 - [Desktop apps with Electron course](https://desktopappswithelectron.com/)
 - [Libraries Slack Desktop Uses](https://slack.com/libs/desktop)
+- [Debugging Electron Memory Usage](http://seenaburns.com/debugging-electron-memory-usage/)
+- [Thumbnailing in Isolate: Background workers in Electron (2019)](http://seenaburns.com/2019/01/02/thumbnailing-in-isolate/)

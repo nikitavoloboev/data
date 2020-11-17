@@ -24,3 +24,5 @@
 - [libxdc (eXtremely fast DeCoder)](https://github.com/nyx-fuzz/libxdc) - Aims to be the best Intel-PT decoding library for fuzzing purposes.
 - [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
 - [Redqueen](https://github.com/RUB-SysSec/redqueen) - Fuzzing with Input-to-State Correspondence.
+- [REST API Fuzz Testing (RAFT)](https://github.com/microsoft/rest-api-fuzz-testing) - Self hosted REST API Fuzzing-As-A-Service platform.
+- [Hyper-Cube: High-Dimensional Hypervisor Fuzzing (2020)](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23096-paper.pdf)

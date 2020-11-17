@@ -93,3 +93,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Security and Privacy of Blockchain Protocols and Applications (2020)](https://github.com/s-tikhomirov/phd-thesis)
 - [The Future of Blockchain with Nick Szabo, Adam Back, & David Chaum (2019)](https://www.youtube.com/watch?v=LF2mQI9cTS8)
 - [Going from Bad to Worse: From Internet Voting to Blockchain Voting (2020)](https://people.csail.mit.edu/rivest/pubs/PSNR20.pdf)
+- [Blockchain and Trust (2019)](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html)

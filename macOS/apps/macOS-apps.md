@@ -74,6 +74,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 - [stts](https://github.com/inket/stts) - macOS app for monitoring the status of cloud services.
 - [Auto DND](https://github.com/dwarvesf/auto-dnd) - Mac app that keeps notifications stays right where it should.
+- [Virtual](https://github.com/kendfinger/virtual) - Boot Linux VMs in a single command on macOS using the new Virtualization.framework.
 
 ## Other interesting apps
 

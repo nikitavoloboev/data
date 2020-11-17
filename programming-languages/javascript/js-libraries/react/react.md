@@ -179,3 +179,4 @@
 - [Algebraic Effects for React Developers (2020)](https://reesew.io/posts/react-algebraic-effects) ([HN](https://news.ycombinator.com/item?id=24962842))
 - [Memoization and React (2020)](https://epicreact.dev/memoization-and-react/)
 - [Building a Graphics Rendering Loop with React and TypeScript (2019)](https://river.codes/building-a-graphics-rendering-loop-with-react-and-typescript/)
+- [Concurrent React Notes](https://github.com/sw-yx/concurrent-react-notes)

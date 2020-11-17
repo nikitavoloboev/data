@@ -114,6 +114,7 @@
 - [Finjinon](https://github.com/finn-no/Finjinon) - Custom AVFoundation based camera UI, focused on quickly adding several photos.
 - [Colorful](https://github.com/hayashi311/Color-Picker-for-iOS) - iOS color picker built with Swift.
 - [KeyboardHelper](https://github.com/nodes-ios/KeyboardHelper) - Small tool for handling UIKeyboard appearing and disappearing in your view controllers.
+- [QCropper](https://github.com/qchenqizhi/QCropper) - Image cropping/rotating/straightening library for iOS in Swift.
 
 ## macOS
 
@@ -177,6 +178,7 @@
 - [SwiftUI Visual Effects](https://github.com/lucasbrown/swiftui-visual-effects) - View modifiers that wrap UIVisualEffectView, with environment integration.
 - [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - SwiftUI view for dynamically highlighting user input.
 - [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - Collection of missing SwiftUI components.
+- [SlideOverCard](https://github.com/joogps/SlideOverCard) - SwiftUI card view, made great for setup interactions.
 
 ## Test
 
@@ -477,6 +479,7 @@
 - [Codemine](https://github.com/nodes-ios/Codemine) - Collection of extensions containing useful functions and syntactic sugar for your Swift project.
 - [Gifu](https://github.com/kaishin/Gifu) - Adds protocol-based, performance-aware animated GIF support to UIKit.
 - [LifecycleKit](https://github.com/ashare80/LifecycleKit) - Framework for building lifecycle-aware architecture components.
+- [Swiftkube](https://github.com/swiftkube/client) - Swift client for Kubernetes.
 
 ## Other (not lib)
 

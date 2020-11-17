@@ -134,3 +134,4 @@
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool for you and your team. ([GitHub](https://github.com/neptune-ai))
 - [AimStack](https://aimstack.io/) - Version Control and Development Environment for AI. ([Code](https://github.com/aimhubio/aim)) ([GitHub](https://github.com/aimhubio))
 - [Synerise](https://synerise.com/) - Powerful ecosystem driven by Artificial Intelligence with real-time data orchestration created to drive business growth.
+- [Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)

@@ -4,6 +4,10 @@
 
 - [Netty](https://github.com/netty/netty) - Event-driven asynchronous network application framework.
 
+## GUI
+
+- [Skija](https://github.com/JetBrains/skija) - Skia bindings for Java. Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms.
+
 ## Other
 
 - [bifurcan](https://github.com/lacuna/bifurcan) - Impure functional data structures.

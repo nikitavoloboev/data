@@ -23,6 +23,7 @@
 - [Ractive.js](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 - [JSX Lite](https://github.com/BuilderIO/jsx-lite) - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, and more.
 - [Perlite](https://github.com/PaulMaly/perlite) - Hyperactiv + lit-html + extensions. Simple and declarative way to create rich client-side widgets designed with server-side apps in mind.
+- [Democrat](https://github.com/etienne-dldc/democrat) - Library that mimic the API of React (Components, hooks, Context...) but instead of producing DOM mutation it produces a state tree.
 
 ## Animation
 
@@ -360,6 +361,9 @@
 - [DefinitelyExported](https://github.com/snowpackjs/DefinitelyExported) - Community-defined export maps for popular npm packages.
 - [jsdiff](https://github.com/kpdecker/jsdiff) - JavaScript text differencing implementation.
 - [HyperFormula](https://github.com/handsontable/hyperformula) - Open source, spreadsheet-like calculation engine.
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - Significantly faster than JSON.stringify() for small payloads.
+- [isbot](https://github.com/omrilotan/isbot) - JavaScript module that detects bots/crawlers/spiders via the user agent.
+- [valtio](https://github.com/pmndrs/valtio) - Makes proxy-state simple.
 
 ## Links
 

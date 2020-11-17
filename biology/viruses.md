@@ -3,7 +3,6 @@
 ## Links
 
 - [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)
-- [Биофизика вирусов — Олег Батищев (2018)](https://www.youtube.com/watch?v=kNwMwaNHcv8)
 - [COVID-19 Dashboards](https://covid19dashboards.com/) - Site that displays up to date COVID-19 stats, powered by fastpages. ([Code](https://github.com/github/covid19-dashboard))
 - [SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 - [YC Companies Responding to COVID-19](https://www.ycombinator.com/covid) ([HN](https://news.ycombinator.com/item?id=22687131))
@@ -26,6 +25,7 @@
 - [Immuni's High-Level Description](https://github.com/immuni-app/immuni-documentation)
 - [fastv](https://github.com/OpenGene/fastv) - Ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data.
 - [VaxNow](https://vaxnow.org/) - Friendly Immunization App.
+- [Биофизика вирусов — Олег Батищев (2018)](https://www.youtube.com/watch?v=kNwMwaNHcv8)
 - [Corona Warn App Docs](https://github.com/corona-warn-app/cwa-documentation)
 - [Effective Reproduction Number for COVID-19](https://rt.live/) ([Code](https://github.com/rtcovidlive/covid-dash))
 - [Viruses and the Evolution of Life (2005)](https://www.asmscience.org/content/book/10.1128/9781555817626)
@@ -47,3 +47,6 @@
 - [How To Become COVID Savvy In 10 Steps (2020)](https://medium.com/applied-data-science/how-to-become-covid-savvy-in-10-steps-b5942db3ac85)
 - [Are We Being Told the Truth About COVID-19? | Prof. Sucharit Bhakdi (2020)](https://www.youtube.com/watch?v=ZnpnBYgGARE) ([Debunked claims](https://translate.google.com/translate?hl=&sl=de&tl=en&u=https%3A%2F%2Fcorrectiv.org%2Ffaktencheck%2F2020%2F06%2F19%2Fimpfung-gegen-covid-19-sinnlos-sucharit-bhakdi-stellt-unbelegte-behauptungen-auf%2F))
 - [Corona, False Alarm?: Facts and Figures by Karina Reiß (2020)](https://www.goodreads.com/book/show/55370694-corona-false-alarm)
+- [Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics (2020)](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v3)
+- [SARS-CoV-2 waves in Europe: A 2-stratum SEIRS model solution (2020)](https://www.medrxiv.org/content/10.1101/2020.10.09.20210146v2) ([Tweet](https://twitter.com/federicolois/status/1316127717331480578))
+- [MakAir](https://github.com/makers-for-life/makair) - Covid-19 Open Source Ventilator.

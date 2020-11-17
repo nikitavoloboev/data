@@ -117,3 +117,4 @@
 - [Serious Engine – Multiplayer Explained](https://staniks.github.io/articles/serious-engine-networking-analysis.html)
 - [Leveraging Go for Game Development and Operations (2020)](https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations)
 - [Jupylet](https://github.com/nir/jupylet) - Python library that lets you create 2D and 3D games, graphics, music and sound synthesizers, interactively in a Jupyter notebook.
+- [Designing The Witcher 3's Most Famous Quest (2020)](https://www.youtube.com/watch?v=5gvVp9cP8xc)

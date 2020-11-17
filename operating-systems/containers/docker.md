@@ -81,3 +81,5 @@
 - [pkger](https://github.com/wojciechkepka/pkger) - Package building tool utilizing Docker written in Rust.
 - [Docker App](https://github.com/docker/app) - Cloud Native application packaging framework with which developers and devops can build, share, and run a set of microservices as a single entity.
 - [Dockter](https://github.com/oslabs-beta/Dockter) - Low-overhead, open-source Docker log management tool. ([HN](https://news.ycombinator.com/item?id=25115210))
+- [Docker Compose CLI](https://github.com/docker/compose-cli) - Makes it easy to run Docker containers and Docker Compose applications in the cloud.
+- [Reusable development containers with Docker Compose and Dip (2020)](https://evilmartians.com/chronicles/reusable-development-containers-with-docker-compose-and-dip) ([HN](https://news.ycombinator.com/item?id=25124542))

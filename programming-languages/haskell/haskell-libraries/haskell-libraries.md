@@ -15,6 +15,7 @@
 - [PostgreSQL ORM](https://github.com/alevy/postgresql-orm) - Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
 - [Squeal](https://github.com/morphismtech/squeal) - Deep embedding of SQL in Haskell.
 - [persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.
+- [hssqlppp](https://github.com/JakeWheat/hssqlppp) - SQL parser and type checker in haskell.
 
 ## Test
 
@@ -71,6 +72,7 @@
 - [json-autotype](https://github.com/migamake/json-autotype) - Takes a JSON format input, and generates automatic Haskell type declarations.
 - [domain](https://github.com/nikita-volkov/domain) - Focused domain model declaration toolkit for Haskell.
 - [Synchron](https://github.com/pkamenarsky/synchron) - Synchronous reactive concurrent programming DSL for Haskell.
+- [microlens](https://github.com/monadfix/microlens) - Tiny part of the lens library with no dependencies.
 
 ## Links
 

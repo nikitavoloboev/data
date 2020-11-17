@@ -155,3 +155,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Create Vintage Videos Using FFmpeg in 4 Simple Steps (2020)](https://ottverse.com/create-vintage-videos-using-ffmpeg/) ([HN](https://news.ycombinator.com/item?id=25102401))
 - [Auto-Editor](https://github.com/WyattBlue/auto-editor) - Command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.
 - [RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://github.com/hzwer/arXiv2020-RIFE)
+- [FastoTV](https://github.com/fastogt/fastotv) - Open source IPTV player.

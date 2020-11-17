@@ -61,6 +61,8 @@
 
 - [scripttest](https://github.com/pypa/scripttest) - Library to help you test your interactive command-line applications.
 - [Coverage.py](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python.
+- [pytest](https://github.com/pytest-dev/pytest) - Makes it easy to write small tests, yet scales to support complex functional testing.
+- [pytest-cookies](https://github.com/hackebrot/pytest-cookies) - Pytest plugin for your Cookiecutter templates.
 
 ## Other
 

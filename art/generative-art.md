@@ -79,3 +79,5 @@
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Automaton](https://github.com/FMS-Cat/automaton) - Animation engine for creative coding.
 - [Olab's generative art](https://www.oppenlab.net/ge/)
+- [Recreating the OFFF by Night opening shot in Houdini (2019)](http://seenaburns.com/2019/06/20/recreating-offf-opening-shot/)
+- [yyz](https://github.com/mattdesl/yyz) - Experimental generative art toolkit based on JSX and esbuild.

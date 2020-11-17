@@ -173,3 +173,5 @@
 - [Torch-Pruning](https://github.com/VainF/Torch-Pruning) - PyTorch pruning toolkit for structured neural network pruning and layer dependency maintaining.
 - [torchac](https://github.com/fab-jul/torchac) - Fast Arithmetic Coding for PyTorch.
 - [AdaHessian](https://github.com/davda54/ada-hessian) - Easy-to-use AdaHessian optimizer (PyTorch).
+- [PyTorch Dynamic Quantization (2020)](https://leimao.github.io/blog/PyTorch-Dynamic-Quantization/)
+- [Performer in PyTorch](https://github.com/lucidrains/performer-pytorch) - Implementation of Performer, a linear attention-based transformer, in PyTorch.

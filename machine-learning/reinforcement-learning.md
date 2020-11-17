@@ -129,4 +129,4 @@
 - [Addressing Function Approximation Error in Actor-Critic Methods](https://github.com/sfujim/TD3) - PyTorch implementation of Twin Delayed Deep Deterministic Policy Gradients (TD3).
 - [Discovering Reinforcement Learning Algorithms (2020)](https://arxiv.org/abs/2007.08794)
 - [Data-Efficient Reinforcement Learning with Self-Predictive Representations](https://github.com/mila-iqia/spr)
-- [DeepMind Lab2D](https://github.com/deepmind/lab2d) - Flexible and fast engine for rapidly creating 2D environments. Built for RL, and well suited for the needs of multi-agent research. ([Paper](https://arxiv.org/abs/2011.07027))
+- [DeepMind Lab2D](https://github.com/deepmind/lab2d) - Flexible and fast engine for rapidly creating 2D environments. Built for RL, and well suited for the needs of multi-agent research. ([Paper](https://arxiv.org/abs/2011.07027)) ([HN](https://news.ycombinator.com/item?id=25122080))

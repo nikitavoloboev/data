@@ -64,3 +64,4 @@
 - [Manager advice when teammate shares their grief (or other heavy topic)](https://twitter.com/lara_hogan/status/1321896143261855746)
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management)
 - [Engineering Manager Event Loop (2018)](https://www.chriseigner.com/engineering-manager-event-loop/)
+- [Use decision records already](http://beza1e1.tuxen.de/decision_records.html) ([Lobsters](https://lobste.rs/s/h4ced9/use_decision_records_already))

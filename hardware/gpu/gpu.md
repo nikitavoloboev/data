@@ -35,3 +35,4 @@
 - [Let’s build a video card](https://eater.net/vga) - Video series on how VGA signals work and building a circuit that provides the correct timing of sync signals so that a monitor recognizes the signal and displays an image stored on an EEPROM.
 - [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
 - [Umpire](https://github.com/LLNL/Umpire) - Application-focused API for memory management on NUMA & GPU architectures.
+- [GPUVis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer.

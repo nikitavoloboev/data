@@ -85,3 +85,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Getting started using Lua in Neovim](https://github.com/nanotee/nvim-lua-guide)
 - [Firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [Why I teach vim (2020)](https://blog.ceos.io/2020/11/14/why-i-teach-vim/) ([HN](https://news.ycombinator.com/item?id=25097788))
+- [Improving Vim Workflow With fzf (2020)](https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/)

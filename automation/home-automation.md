@@ -22,3 +22,4 @@
 - [Home Assistant Operating System](https://github.com/home-assistant/operating-system) - Operating system optimized for hosting Home Assistant and its Add-ons.
 - [Home Automation with Docker and Postgres on RaspberryPI and AzureVM](https://github.com/srozemuller/hassio-config)
 - [Home Assistant Frontend](https://github.com/home-assistant/frontend) ([Web](https://demo.home-assistant.io/))
+- [HAP](https://github.com/mtrudel/hap) - Framework for building DIY HomeKit accessories based on Apple's HomeKit Accessory Protocol Specification.

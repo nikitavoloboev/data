@@ -148,3 +148,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Artifact](https://www.heyartifact.com/) - Personal podcasts with the people in your life. ([HN](https://news.ycombinator.com/item?id=24919931))
 - [Podgrab](https://github.com/akhilrex/podgrab) - Self-hosted podcast manager to download episodes as soon as they become live.
 - [Podcast Hosting Review](https://podcasthosting.review/) - Reviews of popular podcast hosting platforms.
+- [Poise](https://www.narratedbypoise.com/) - Text-to-podcast: Repurpose any content into podcasts. ([HN](https://news.ycombinator.com/item?id=25117894))

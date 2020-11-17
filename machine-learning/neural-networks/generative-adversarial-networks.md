@@ -61,3 +61,4 @@
 - [Instance Selection for GANs](https://github.com/uoguelph-mlrg/instance_selection_for_gans)
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/dvschultz/stylegan2-ada)
 - [GANs with Keras and TensorFlow (2020)](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
+- [RCF-GAN](https://github.com/ShengxiLi/rcf_gan) - Implementation of RCF-GAN proposed in the paper "Reciprocal Adversarial Learning via Characteristic Functions".

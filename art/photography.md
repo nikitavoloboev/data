@@ -84,3 +84,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Close-up Photographer of the Year](https://www.cupoty.com/) ([2020 Winners](https://www.cupoty.com/winners-02)) ([HN](https://news.ycombinator.com/item?id=25061678))
 - [InstantSave](https://instantsave.app/) - Instagram photo, video, IGTV, and Reels downloader online.
 - [Letterbox](https://github.com/tj/letterbox) - Tiny Go program to batch-process letter-boxing of photographs.
+- [Isolate](https://github.com/seenaburns/isolate) - Lightweight tool for viewing and organizing your art reference and inspiration with ease.

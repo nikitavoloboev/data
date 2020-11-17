@@ -52,3 +52,4 @@
 - [Awesome Lightning Network](https://github.com/bcongdon/awesome-lightning-network)
 - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - Desktop GUI for Bitcoin Core optimised to work with hardware wallets.
 - [Merkle trees in Git and Bitcoin (2020)](https://initialcommit.com/blog/git-bitcoin-merkle-tree)
+- [Chaincode Labs](https://chaincode.com/) - Exists to support Bitcoin.

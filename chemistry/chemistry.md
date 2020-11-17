@@ -18,3 +18,4 @@
 - [The Nobel Prize in Chemistry 2020: Genetic Scissors](https://www.nobelprize.org/prizes/chemistry/2020/press-release/) ([HN](https://news.ycombinator.com/item?id=24706670))
 - [Zhang Lab](https://zlab.bio/) - Studies biological diversity to discover systems and processes that may be harnessed for the improvement of human health.
 - [Machine Learning in Chemistry 101 course](https://github.com/BingqingCheng/ML-in-chemistry-101)
+- [Highly Opinionated List of Open Source Cheminformatics Resources](https://github.com/PatWalters/resources/blob/main/cheminformatics_resources.md)

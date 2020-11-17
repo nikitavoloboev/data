@@ -88,3 +88,4 @@
 - [The Best and Worst Microcontroller SDKs (2020)](https://interrupt.memfault.com/blog/the-best-and-worst-mcu-sdks) ([HN](https://news.ycombinator.com/item?id=25094956))
 - [SwiftIO](https://github.com/madmachineio/SwiftIO) - Swift framework for microcontrollers.
 - [MadMachine](https://www.madmachine.io/) - Swift for microcontrollers. ([GitHub](https://github.com/madmachineio))
+- [stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F4 family.

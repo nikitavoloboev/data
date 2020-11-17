@@ -31,3 +31,5 @@
 - [SPLV 2020](https://github.com/edwinb/SPLV20) - Course notes and supporting code for the Scottish Programming Language and Verification summer school course on "The Implementation of Idris 2".
 - [Metaprogramming in Idris (2020)](https://core.ac.uk/download/pdf/50528385.pdf)
 - [Idris, a language that will change the way you think about programming (2020)](https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming)
+- [idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util) - Utilities and documentation for exploring idirs2's new elaborator reflection.
+- [idris2-sop](https://github.com/stefan-hoeck/idris2-sop) - Idris port of Haskell's sop-core and generic-sop libraries.

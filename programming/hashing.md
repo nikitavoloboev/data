@@ -26,3 +26,4 @@
 - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
 - [Looks Like It [Perceptual hash algorithms]](http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html)
 - [Ask HN: Is There a Known Recursive Hash? (2020)](https://news.ycombinator.com/item?id=24915731)
+- [aHash](https://github.com/tkaitchuck/aHash) - Fastest, DOS resistant hash currently available in Rust.

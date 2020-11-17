@@ -341,3 +341,4 @@
 - [Deep Learning with Catalyst course](https://github.com/catalyst-team/dl-course)
 - [OpenMined Courses](https://courses.openmined.org/) - Learn how privacy technology is changing our world and how you can lead the charge.
 - [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
+- [DeepMind Educational Resources](https://github.com/deepmind/educational)

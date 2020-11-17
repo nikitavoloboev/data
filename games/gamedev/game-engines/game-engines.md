@@ -4,7 +4,7 @@
 
 - [Godot](https://github.com/godotengine/godot)
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/))
-- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283)) ([HN 2](https://news.ycombinator.com/item?id=24983956))
+- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283)) ([HN 2](https://news.ycombinator.com/item?id=24983956)) ([WebGL2 renderer plugin for Bevy game engine](https://github.com/mrk-its/bevy_webgl2))
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
 - [ggez](https://github.com/ggez/ggez)
@@ -49,6 +49,7 @@
 - [pygame](https://github.com/pygame/pygame) - Free and Open Source cross-platform library for the development of multimedia applications like video games on Python. ([Web](https://www.pygame.org/news)) ([HN](https://news.ycombinator.com/item?id=24930615))
 - [GtkRadiant](https://github.com/TTimo/GtkRadiant) - Open-source, cross-platform level editor for id Tech based games. It comes with some map compilers and data authoring tools.
 - [Rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance. In Rust. ([Web](https://rapier.rs/))
+- [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Complete 3D game development suite written purely in Java. ([Web](https://jmonkeyengine.org/))
 
 ## Physics engines
 

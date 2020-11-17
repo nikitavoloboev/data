@@ -38,3 +38,4 @@
 - [Linking Anonymous Transactions | Stanford Applied Crypto Group](https://crypto.stanford.edu/timings/) - Describe remote side-channel attacks on the privacy guarantees of anonymous cryptocurrencies.
 - [Mixing based privacy mechanisms are insufficient (2019)](https://mudit.blog/mixers-are-insufficient/)
 - [SignificantTrades](https://aggr.trade/) - Live cryptocurrency trades visualizer. ([Code](https://github.com/Tucsky/SignificantTrades))
+- [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Prices, Charts And Market Capitalizations.
