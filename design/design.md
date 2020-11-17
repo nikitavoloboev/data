@@ -147,3 +147,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Canva](https://www.canva.com/) - Collaborate & Create Amazing Graphic Design for Free.
 - [Chasing the Pixel-Perfect Dream (2020)](https://joshwcomeau.com/css/pixel-perfection/) ([HN](https://news.ycombinator.com/item?id=25023282))
 - [Summary of My Work at Figma](https://rsms.me/work/figma/)
+- [The Merveilles Sensibility (2020)](https://wileywiggins.com/merveilles.html) - Solutioning for technological resilience.

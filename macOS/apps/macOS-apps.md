@@ -97,6 +97,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [ClashX](https://github.com/yichengchen/clashX) - Rule based proxy For Mac base on Clash.
 - [Lacona](https://lacona.app/) - Command launcher.
 - [Numi](https://numi.app/) - Beautiful calculator app for Mac. ([Code](https://github.com/nikolaeu/numi))
+- [ViDL](https://omz-software.com/vidl/) - Download videos from YouTube and hundreds of other websites for offline viewing.
 
 ## Links
 

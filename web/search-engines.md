@@ -84,3 +84,4 @@
 - [Firesearch](https://firesearch.dev/) - Serverless full-text search. For Google Cloud Platform.
 - [Qwant](https://www.qwant.com/) - Search engine that respects your privacy. ([HN](https://news.ycombinator.com/item?id=25074053))
 - [YaCy](https://yacy.net/) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance. ([Code](https://github.com/yacy/yacy_search_server))
+- [We can do better than DuckDuckGo (2020)](https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html) ([HN](https://news.ycombinator.com/item?id=25127371))

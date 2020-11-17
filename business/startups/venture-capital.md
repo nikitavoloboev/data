@@ -80,3 +80,4 @@
 - [Mythos Capital](https://mythos.capital/) - Invest in crypto networks.
 - [Breaking into VC](https://breakinto.vc/)
 - [Pear VC](https://www.pear.vc/) - 0 to 1 Venture Capital partner.
+- [True Ventures](https://trueventures.com/)

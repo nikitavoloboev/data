@@ -82,3 +82,4 @@
 - [A Theory of Universal Learning (2020)](https://web.math.princeton.edu/~rvan/tri201106.pdf) ([HN](https://news.ycombinator.com/item?id=25038485))
 - [Richard Feynman and How to Learn Anything Well](https://www.butwhatfor.com/feynman-technique/)
 - [Principles for Better Teaching (2020)](https://reflexio.debec.eu/principles-for-better-teaching)
+- [MyW3schools](http://www.myw3schools.com/) - Find resources for topics.
