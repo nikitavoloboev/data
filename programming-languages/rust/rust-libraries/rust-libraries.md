@@ -530,6 +530,7 @@
 - [swanky](https://github.com/GaloisInc/swanky) - Suite of rust libraries for secure multi-party computation.
 - [lingua-rs](https://github.com/pemistahl/lingua-rs) - Accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike.
 - [fastrand](https://github.com/smol-rs/fastrand) - Simple and fast random number generator.
+- [Kompact](https://github.com/kompics/kompact) - Component System in Rust.
 
 ## Cargo Plugins
 
