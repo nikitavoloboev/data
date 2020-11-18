@@ -3,7 +3,7 @@
 ## Links
 
 - [Web engines in Haskell (2019)](https://chrisdone.com/posts/web-engines/)
-- [Servo](https://github.com/servo/servo) - Parallel Browser Engine written in Rust. ([Web](https://servo.org/)) ([Servo’s new home](https://blog.servo.org/2020/11/17/servo-home/)) ([HN](https://news.ycombinator.com/item?id=25125325))
+- [Servo](https://github.com/servo/servo) - Parallel Browser Engine written in Rust. ([Web](https://servo.org/)) ([Servo’s new home](https://blog.servo.org/2020/11/17/servo-home/)) ([HN](https://news.ycombinator.com/item?id=25125325)) ([Lobsters](https://lobste.rs/s/ajqre2/servo_s_new_home))
 - [WebRender](https://github.com/servo/webrender) - GPU renderer for the Web content, used by Servo.
 - [Michael Saboff — JavaScriptCore, many compilers make this engine perform (2019)](https://www.youtube.com/watch?v=mtVBAcy7AKA)
 - [JavaScript engine fundamentals: Shapes and Inline Caches (2018)](https://mathiasbynens.be/notes/shapes-ics)

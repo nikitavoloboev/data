@@ -36,3 +36,4 @@
 - [JDConf](https://jdconf.splashthat.com/) - Connecting Java Developers.
 - [Java Concurrency - Basics of Threads (2020)](https://turkogluc.com/java-concurrency-basics-of-threads/) ([HN](https://news.ycombinator.com/item?id=24940545))
 - [Graphics for JVM (2020)](https://tonsky.me/blog/skija/) ([HN](https://news.ycombinator.com/item?id=25121705))
+- [Useful Java links](https://github.com/Vedenin/useful-java-links)

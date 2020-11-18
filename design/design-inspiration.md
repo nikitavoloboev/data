@@ -378,6 +378,8 @@ Here are few more things I liked, design wise.
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
 - [Colin Dunn](http://colindunn.com/)
+- [Neven Mrgan](https://mrgan.com/)
+- [Chris Dzombak](https://www.dzombak.com/)
 - [Tom MacWright](https://macwright.org/)
 - [Matt Drollette](https://matt.drollette.com/)
 - [Alasdair Monk](https://alasdairmonk.com/)

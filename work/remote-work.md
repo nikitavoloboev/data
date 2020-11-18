@@ -87,3 +87,4 @@
 - [onsite.fun](https://onsite.fun/) - Online activities for remote teams.
 - [Remote Clan](https://remoteclan.com/) - Connect with remote workers to shape the future of work. ([News Feed](https://remoteclan.com/news-feed))
 - [Building Team Culture, Gitlab-Style (2020)](https://aboutsnack.com/blog/informal-communication-in-remote-work)
+- [To find great remote employees, prioritize candidates with strong writing skills (2020)](https://youteam.io/blog/3-remote-productivity-hacks-we-wish-we-knew-from-day-one/) ([HN](https://news.ycombinator.com/item?id=25120207))

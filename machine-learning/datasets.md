@@ -50,3 +50,4 @@
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.
 - [HN Posts datasets](https://github.com/massanishi/hackernews-post-datasets) ([HN](https://news.ycombinator.com/item?id=25125458))
+- [Hypersim Toolkit](https://github.com/apple/ml-hypersim) - Set of tools for generating photorealistic synthetic datasets from V-Ray scenes.
