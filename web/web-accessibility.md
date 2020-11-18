@@ -42,3 +42,4 @@
 - [Pa11y](https://pa11y.org/) - Automated accessibility testing pal. Runs accessibility tests on your pages via the command line or Node.js, so you can automate your testing process. ([Code](https://github.com/pa11y/pa11y))
 - [Evaluatory](https://darekkay.com/evaluatory/) - Web page evaluation with a focus on accessibility. ([Code](https://github.com/darekkay/evaluatory))
 - [Bootcampers Guide to Web Accessibility](https://a11y-with-lindsey.ck.page/products/pre-order-the-bootcampers-guide-to-web)
+- [screen-reader-reader](https://github.com/phenomnomnominal/screen-reader-reader) - General purpose screen reader reader, with the aim of enabling more realistic end-to-end accessibility tests.

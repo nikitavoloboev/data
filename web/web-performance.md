@@ -107,3 +107,4 @@
 - [Request Metrics](https://requestmetrics.com/) - Website performance monitoring.
 - [Low Hanging Fruits in Frontend Performance Optimization (2020)](https://pawelurbanek.com/frontend-performance-optimization)
 - [The Core Web Vitals hype train (2020)](https://sylormiller.com/posts/2020/core-web-vitals/) ([Tweet](https://twitter.com/ksylor/status/1327363260295897088))
+- [How we improved the Lighthouse score of our landing page to 96 (2020)](https://blog.checklyhq.com/how-we-improved-the-lighthouse-score-of-our-landing-page-to-96/)

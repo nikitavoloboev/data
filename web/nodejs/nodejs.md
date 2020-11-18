@@ -145,3 +145,4 @@
 - [Corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers.
 - [lazynpm](https://github.com/jesseduffield/lazynpm) - Simple terminal UI for npm commands, written in Go.
 - [Retes](https://github.com/kreteshq/retes) - Typed, Declarative, Data-Driven Routing for Node.js.
+- [node-glob](https://github.com/isaacs/node-glob) - Match files using the patterns the shell uses.

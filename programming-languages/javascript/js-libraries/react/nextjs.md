@@ -43,6 +43,7 @@
 - [next-img](https://github.com/humaans/next-img) - Next.js plugin for embedding optimized images.
 - [Next.js plugin for preact X](https://github.com/preactjs/next-plugin-preact)
 - [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered pages.
+- [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in Netlify builds.
 
 ## Notes
 

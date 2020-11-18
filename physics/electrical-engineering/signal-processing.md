@@ -12,3 +12,4 @@
 - [How Google Meet's noise cancellation works (2020)](https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/) ([HN](https://news.ycombinator.com/item?id=23468052))
 - [Digital sound processing tutorial for the braindead](http://yehar.com/blog/?p=121)
 - [DSPFilters](https://github.com/vinniefalco/DSPFilters) - Collection of Useful C++ Classes for Digital Signal Processing.
+- [Radio I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ) ([HN](https://news.ycombinator.com/item?id=25134698))

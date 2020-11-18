@@ -386,3 +386,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Paper Computing](https://wiki.xxiivv.com/site/paper_computing.html)
 - [ByteDance](https://www.bytedance.com/en/) ([GitHub](https://github.com/bytedance))
 - [How do Spotify Codes work? (2020)](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)
+- [Sharkle](https://showus.netlify.app/) - Generator of random awesomeness.

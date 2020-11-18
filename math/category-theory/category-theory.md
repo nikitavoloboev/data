@@ -92,6 +92,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Executing Categories (2020)](https://www.philipzucker.com/i-gave-a-talk-on-executing-categories/)
 - [App for interactive category theory diagrams and notebooks](https://github.com/AviCraimer/category-theory-diagrams)
 - [Yoneda lemma](https://ncatlab.org/nlab/show/Yoneda+lemma)
+- [Category Theory introduction lectures](https://www.youtube.com/playlist?list=PLRadJIh6Wu9m60eT0tXjngv7nebUgraaA)
 
 ## Images
 

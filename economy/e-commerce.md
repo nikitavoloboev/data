@@ -52,3 +52,4 @@
 - [How to Become a Shopify Developer (2020)](https://iliashaddad.com/blog/how-to-become-shopify-developer) ([HN](https://news.ycombinator.com/item?id=25067407))
 - [Zora](https://ourzora.com/) - Everything Exchange: Buy, Sell and Trade Limited Edition Goods and Art.
 - [Store theme powered by VTEX and Gatsby](https://github.com/vtex-sites/storecomponents.store)
+- [Next.js SY Store Commerce](https://github.com/rangigo/systore-commerce)

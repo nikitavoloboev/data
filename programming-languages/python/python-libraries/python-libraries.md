@@ -80,7 +80,7 @@
 - [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines.
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
-- [POT: Python Optimal Transport](https://github.com/rflamary/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
+- [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
 - [Pampy](https://github.com/santinic/pampy) - Pattern Matching for Python you always dreamed of.
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming. ([Web](http://coconut-lang.org/)) ([HN](https://news.ycombinator.com/item?id=23759721))
@@ -225,6 +225,7 @@
 - [nested_lookup](https://github.com/russellballestrini/nested-lookup) - Python functions for working with deeply nested documents (lists and dicts).
 - [jsons](https://github.com/ramonhagenaars/jsons) - Python lib for (de)serializing Python objects to/from JSON.
 - [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - Asyncio based SMTP server.
+- [Faker](https://github.com/joke2k/faker) - Python package that generates fake data for you.
 
 ## Links
 

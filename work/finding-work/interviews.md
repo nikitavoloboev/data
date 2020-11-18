@@ -103,3 +103,4 @@
 - [AlgoExpert](https://www.algoexpert.io/product) - Resource to prepare for coding interviews. Everything you need, in one streamlined platform.
 - [Interview Often, Fail Often (2020)](https://ffhex.xyz/posts/interview-often-fail-often/)
 - [Interviews.school](https://interviews.school/) - Complete interview preparation guide.
+- [What I Learned From Bombing My Technical Interview (2020)](https://dev.to/ceeoreo/what-i-learned-from-bombing-my-technical-interview-22b5)

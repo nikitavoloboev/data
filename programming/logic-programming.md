@@ -11,3 +11,4 @@
 - [Ceptre](https://github.com/chrisamaphone/interactive-lp) - Tiny logic programming language for prototyping rulesets that you can run, interact with, and analyze.
 - [TouIST](https://github.com/touist/touist) - Language for propositional logic. ([Web](https://www.irit.fr/TouIST/))
 - [Why Logic Programming Matters (2020)](https://cxlabs.sap.com/2020/11/16/why-logic-programming-matters/)
+- [Mercury](https://github.com/Mercury-Language/mercury) - Logic/functional programming language which combines the clarity and the expressiveness of declarative programming with advanced static analysis and error detection features. ([Web](http://www.mercurylang.org/))

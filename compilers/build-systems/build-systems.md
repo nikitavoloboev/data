@@ -40,3 +40,4 @@
 - [Merkle trees and build systems](https://lwn.net/Articles/821367/)
 - [Introduction to Makefiles (2020)](https://xs-labs.com/en/blog/2020/11/07/introduction-to-makefiles/) ([HN](https://news.ycombinator.com/item?id=25026656))
 - [engage](https://github.com/breuleux/engage) - Incremental build tool with automatic dependency tracking.
+- [remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more.

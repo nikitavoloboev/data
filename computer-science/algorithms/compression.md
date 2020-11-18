@@ -31,3 +31,5 @@
 - [Rationale for a Large Text Compression Benchmark (2009)](http://mattmahoney.net/dc/rationale.html)
 - [LZSA](https://github.com/emmanuel-marty/lzsa) - Byte-aligned, efficient lossless packer that is optimized for fast decompression on 8-bit micros.
 - [pigz](https://github.com/madler/pigz) - Parallel implementation of gzip for modern multi-processor, multi-core machines.
+- [Precomp](https://github.com/schnaader/precomp-cpp) - Command line precompressor that can be used to further compress files that are already compressed.
+- [pako](https://github.com/nodeca/pako) - High speed zlib port to javascript, works in browser & node.js.

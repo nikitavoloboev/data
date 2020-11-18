@@ -73,6 +73,7 @@
 - [domain](https://github.com/nikita-volkov/domain) - Focused domain model declaration toolkit for Haskell.
 - [Synchron](https://github.com/pkamenarsky/synchron) - Synchronous reactive concurrent programming DSL for Haskell.
 - [microlens](https://github.com/monadfix/microlens) - Tiny part of the lens library with no dependencies.
+- [Yoda](https://github.com/zenzike/yoda) - Small parser combinator library.
 
 ## Links
 

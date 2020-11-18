@@ -34,3 +34,6 @@
 - [Programming R at native speed using Haskell (2020)](https://www.tweag.io/blog/2015-09-08-programming-r-at-native-speed-in-haskell/) ([HN](https://news.ycombinator.com/item?id=24981356))
 - [jqr](https://github.com/ropensci/jqr) - R interface to jq, a JSON processor.
 - [Plotly](https://github.com/ropensci/plotly) - Interactive graphing library for R.
+- [remotes](https://github.com/r-lib/remotes) - Install R Packages from remote or local repositories.
+- [Shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R. ([Web](https://shiny.rstudio.com/))
+- [Mastering Shiny book](https://mastering-shiny.org/) ([Code](https://github.com/hadley/mastering-shiny))

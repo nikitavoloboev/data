@@ -156,3 +156,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Auto-Editor](https://github.com/WyattBlue/auto-editor) - Command line application for automatically editing video and audio by analyzing where sections are silent and cutting them up.
 - [RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://github.com/hzwer/arXiv2020-RIFE)
 - [FastoTV](https://github.com/fastogt/fastotv) - Open source IPTV player.
+- [libheif](https://github.com/strukturag/libheif) - HEIF and AVIF file format decoder and encoder. ([Web](https://www.libde265.org/))
+- [FFsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.

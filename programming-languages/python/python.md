@@ -214,3 +214,4 @@
 - [Run Python Applications Efficiently With malloc_trim (2020)](https://reliability.substack.com/p/run-python-servers-more-efficiently)
 - [wheelwright](https://github.com/explosion/wheelwright) - Automated build repo for Python wheels and source packages.
 - [DepHell](https://github.com/dephell/dephell) - Project management for Python.
+- [Minimal web server demo in Python](https://gist.github.com/jph00/c3db65d2fdb75d8c369c45b688630e98) ([Tweet](https://twitter.com/jeremyphoward/status/1328780892769120256))

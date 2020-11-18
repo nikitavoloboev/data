@@ -256,3 +256,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG.
 - [kernel exploit for Apple iOS 13.X](https://github.com/0x36/oob_events)
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
+- [Basics of App Store Optimization](https://quality-wolves.com/what-is-aso)

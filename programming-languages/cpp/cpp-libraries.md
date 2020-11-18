@@ -131,6 +131,7 @@
 - [libunifex](https://github.com/facebookexperimental/libunifex) - Prototype implementation of the C++ sender/receiver async programming model.
 - [random](https://github.com/effolkronium/random) - Random for modern C++ with convenient API.
 - [fifo_map](https://github.com/nlohmann/fifo_map) - FIFO-ordered associative container for C++.
+- [TensorRT](https://github.com/NVIDIA/TensorRT) - C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 
 ## Links
 

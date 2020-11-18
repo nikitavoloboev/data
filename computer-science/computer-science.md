@@ -84,3 +84,4 @@
 - [Program and Data Representation course](https://aaronbloomfield.github.io/pdr/readme.html) ([Code](https://github.com/uva-cs/pdr))
 - [Foundations of Computer Science annual conference (2020)](https://focs2020.cs.duke.edu/program/)
 - [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA)
+- [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Computation explained with screencasts.

@@ -364,6 +364,7 @@
 - [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - Significantly faster than JSON.stringify() for small payloads.
 - [isbot](https://github.com/omrilotan/isbot) - JavaScript module that detects bots/crawlers/spiders via the user agent.
 - [valtio](https://github.com/pmndrs/valtio) - Makes proxy-state simple.
+- [pica](https://github.com/nodeca/pica) - High quality image resize in browser.
 
 ## Links
 

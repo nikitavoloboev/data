@@ -161,3 +161,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [NetworkMananger-l2tp](https://github.com/nm-l2tp/NetworkManager-l2tp) - L2TP and L2TP/IPsec support for NetworkManager.
 - [GNUnet](https://gnunet.org/en/index.html) - Network protocol stack for building secure, distributed, and privacy-preserving applications. ([Code](https://github.com/equalitie/gnunet))
 - [Secure Reliable Transport (SRT) Protocol](https://github.com/Haivision/srt) - Open source transport technology that optimizes streaming performance across unpredictable networks, such as the Internet.
+- [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)

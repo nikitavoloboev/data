@@ -47,3 +47,4 @@
 - [Raspberry Pi Homelab with Kubernetes (2020)](https://amithm.ca/2020/10/kubernetes-raspberrypi-homelab/) ([HN](https://news.ycombinator.com/item?id=25061097))
 - [Remove ads from your life using Raspberry Pi, Docker and Docker Compose (2020)](https://burakkarakan.com/blog/pihole-on-raspberry-using-pi-docker-and-docker-compose/)
 - [Raspberry Pi OS](https://www.raspberrypi.org/software/)
+- [Raspberry Pi Audio Receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Simple, light weight audio receiver with Bluetooth (A2DP), AirPlay, Spotify Connect and UPnP.

@@ -33,6 +33,7 @@
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
 - [TypeScript](https://github.com/enricopolanski/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+- [LeetCode Solutions Explained](https://beizhedenglong.github.io/leetcode-solutions/docs/two-sum) ([Code](https://github.com/beizhedenglong/leetcode-site-generator))
 
 ## Project Euler solutions
 

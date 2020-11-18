@@ -87,3 +87,4 @@
 - [Notion Fundraising Template for Startups](https://www.basetemplates.com/notion-fundraising-template)
 - [VenturesList](https://ventureslist.com/) - Startup Investment Library.
 - [Leave Design](https://leave.design/) - Get your Pitch Deck updated instantly by a professional designer.
+- [Floodgate](https://floodgate.com/) - Backs the top .1% founders.

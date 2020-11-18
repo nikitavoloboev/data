@@ -56,6 +56,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
+- [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Next generation library for creating floating pickers with advanced features.
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.

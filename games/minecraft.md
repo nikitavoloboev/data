@@ -19,3 +19,4 @@
 - [fastnbt](https://github.com/owengage/fastnbt) - Fast parsing library for Minecraft's NBT and Anvil formats.
 - [MineRL](https://minerl.io/) - Towards AI in Minecraft.
 - [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Free, open-source modding API all of your favourite mods use.
+- [Containerized Minecraft Bedrock Dedicated Server with selectable version](https://github.com/itzg/docker-minecraft-bedrock-server)

@@ -132,3 +132,4 @@
 - [Distributed Systems course (2020)](http://composition.al/CSE138-2020-03/index.html) ([Notes](https://github.com/ChrisWhealy/DistributedSystemNotes)G)
 - [MirBFT Library](https://github.com/IBM/mirbft) - Consensus library implementing the Mir consensus protocol.
 - [Fairness in multi-tenant systems (2020)](https://aws.amazon.com/builders-library/fairness-in-multi-tenant-systems/)
+- [Advanced Distributed Systems Design course](https://particular.net/adsd)

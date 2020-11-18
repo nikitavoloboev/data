@@ -234,7 +234,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [JSTOR Open Content Books](https://www.jstor.org/open/)
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
-- [Standard Ebooks](https://standardebooks.org/ebooks/)
+- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534))
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
 - [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
 - [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.

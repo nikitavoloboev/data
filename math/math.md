@@ -213,3 +213,6 @@
 - [Paul's Online Math Tutorials and Notes](https://tutorial.math.lamar.edu/) ([HN](https://news.ycombinator.com/item?id=25081297))
 - [Terence Tao's Career Advice for math](https://terrytao.wordpress.com/career-advice/)
 - [Alexander Grothendieck: Memories of a Great Mathematician (2014)](https://www.albany.edu/offcourse/issue59/grothendiek.html)
+- [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning)
+- [Fematika Video playlists on Math](https://www.youtube.com/c/Fematika/playlists)
+- [The Most Common Errors in Undergraduate Mathematics](https://math.vanderbilt.edu/schectex/commerrs/)

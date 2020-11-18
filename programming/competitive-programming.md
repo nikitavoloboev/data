@@ -19,3 +19,4 @@
 - [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
 - [Online Judge Solutions in C++](https://github.com/marioyc/Online-Judge-Solutions)
 - [Competitive Programming Solutions in C++](https://github.com/VastoLorde95/Competitive-Programming)
+- [Competitive Programming Snippets in Rust](https://github.com/kenkoooo/competitive-programming-rs)

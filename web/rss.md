@@ -69,3 +69,4 @@
 - [Feeds Pub](https://feeds.pub/) - RSS aggregator & network.
 - [The Webpage](https://news.russellsaw.io/) - RSS reader styled after print newspapers. ([Code](https://github.com/arussellsaw/news)) ([Lobsters](https://lobste.rs/s/crkcf1/webpage_rss_reader_styled_after_print))
 - [Audiocasts](https://github.com/fnoah/audiocasts) - Platform to host RSS podcast feeds for your audiobooks.
+- [RSSMonster](https://github.com/pietheinstrengholt/rssmonster) - Easy to use web-based RSS aggregator, created as an alternative for Google Reader.

@@ -93,6 +93,7 @@
 - [GrowthHunt](https://www.growthunt.com/) - Database of TL;DR business strategies/case studies. ([HN](https://news.ycombinator.com/item?id=24957244))
 - [Startup Growth Kit](https://startupgrow.co/) - 300+ growth hacks & tools in Notion.
 - [SaaS Growth, Product Management, Retention, Flywheels: Behind the Paywall with Lenny Rachitsky (2020)](https://open.spotify.com/episode/7FDHrKxdnVcWMiCkaGK44q?si=YHnH5D63RVCkHm5MqHZ2Eg)
+- [Magical growth loops: loops where most of your growth comes from existing users (2020)](https://twitter.com/lennysan/status/1328739791567872001)
 
 ## Images
 

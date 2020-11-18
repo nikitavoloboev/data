@@ -37,7 +37,7 @@
 - [AutoGluon](https://github.com/awslabs/autogluon) - AutoML Toolkit for Deep Learning.
 - [DeepLearning.scala](https://github.com/ThoughtWorksInc/DeepLearning.scala) - Simple library for creating complex neural networks from object-oriented and functional programming constructs.
 - [Optuna](https://github.com/optuna/optuna) - Hyperparameter optimization framework.
-- [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+- [Vowpal Wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. ([Web](https://vowpalwabbit.org/)) ([Article](https://andraztori.medium.com/speed-is-a-feature-introducing-fwumious-wabbit-1cc9573ea7be))
 - [Brancher](https://github.com/AI-DI/Brancher) - User-centered Python package for differentiable probabilistic inference.
 - [Karate Club](https://github.com/benedekrozemberczki/karateclub) - General purpose community detection and network embedding library for research built on NetworkX.
 - [FlexFlow](https://github.com/flexflow/FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.

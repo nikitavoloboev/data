@@ -132,3 +132,4 @@
 - [Data-Efficient Reinforcement Learning with Self-Predictive Representations](https://github.com/mila-iqia/spr)
 - [DeepMind Lab2D](https://github.com/deepmind/lab2d) - Flexible and fast engine for rapidly creating 2D environments. Built for RL, and well suited for the needs of multi-agent research. ([Paper](https://arxiv.org/abs/2011.07027)) ([HN](https://news.ycombinator.com/item?id=25122080))
 - [Understanding RL Vision (2020)](https://distill.pub/2020/understanding-rl-vision/)
+- [PettingZoo](https://github.com/PettingZoo-Team/PettingZoo) - Python library for conducting research in multi-agent reinforcement learning. It's akin to a multi-agent version of OpenAI's Gym library.

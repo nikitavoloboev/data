@@ -61,6 +61,7 @@ Here are few more things I liked, design wise.
 - [Dithering](https://dithering.fm/)
 - [Glitch](https://glitch.com/)
 - [Servo](https://servo.org/)
+- [Hand Mirror](https://handmirror.app/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
@@ -266,6 +267,7 @@ Here are few more things I liked, design wise.
 - [Jason Lengstorf](https://www.jason.af/)
 - [Colin Shum](https://colinshum.com/)
 - [Paul Glushak](https://0xff.nu/)
+- [Sarun](https://sarunw.com/)
 - [Gianluca Brindisi](https://cloudberry.engineering/)
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))

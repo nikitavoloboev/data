@@ -480,6 +480,7 @@
 - [Gifu](https://github.com/kaishin/Gifu) - Adds protocol-based, performance-aware animated GIF support to UIKit.
 - [LifecycleKit](https://github.com/ashare80/LifecycleKit) - Framework for building lifecycle-aware architecture components.
 - [Swiftkube](https://github.com/swiftkube/client) - Swift client for Kubernetes.
+- [LogDog](https://github.com/luoxiu/LogDog) - User-friendly logging.
 
 ## Other (not lib)
 

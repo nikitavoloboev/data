@@ -16,3 +16,4 @@
 - [Raku](https://raku.org/) - Newest member of the family of languages known as Perl.
 - [Raku GitHub projects](https://github.com/Raku)
 - [Perl One-Liners Cookbook](https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html) ([HN](https://news.ycombinator.com/item?id=25006829))
+- [Learn Perl in about 2 hours 30 minutes (2011)](https://qntm.org/perl_en)

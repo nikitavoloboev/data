@@ -158,3 +158,4 @@
 - [C++ Frequently Questioned Answers](https://yosefk.com/c++fqa/index.html)
 - [Jonathan Boccara “105 STL Algorithms in Less Than an Hour” (2018)](https://www.youtube.com/watch?v=2olsGf6JIkU)
 - [Programming Data Parallel C++ (2020)](https://techdecoded.intel.io/resources/programming-data-parallel-c/)
+- [WG21: C++ Standards Committee Papers](https://github.com/mpark/wg21)

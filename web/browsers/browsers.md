@@ -85,3 +85,4 @@
 - [web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - Web Extension starter to build "Write Once Run on Any Browser" extension.
 - [Ask HN: How do you follow news about browsers? (2020)](https://news.ycombinator.com/item?id=24968536)
 - [Browsh](https://www.brow.sh/) - Fully-modern text-based browser. ([HN](https://news.ycombinator.com/item?id=25129747))
+- [Browser compatibility data](https://github.com/mdn/browser-compat-data) - Describes which platforms particular Web APIs.

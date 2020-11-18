@@ -143,6 +143,7 @@
 - [Nodes Agency](https://www.nodesagency.com/) - Digital product development agency.
 - [Technokrat](https://technokrat.ch/)
 - [Dwarves Foundation](https://dwarves.foundation/) ([GitHub](https://github.com/dwarvesf))
+- [Beautiful Interactions](https://beautifulinteractions.com/) - Tailored digital solutions, made beautifully.
 
 ## Links
 

@@ -50,6 +50,10 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Libre Franklin](https://fonts.google.com/specimen/Libre+Franklin)
 - [Curves](https://philvee.blogspot.com/2020/11/free-new-font-curves-by-philippine.html) - Free font by Philippine Eevee.
+- [Roboto VF](https://github.com/TypeNetwork/Roboto) - Variable version of Roboto intended to be a 1:1 match with the official non-variable release from Google.
+- [Roboto Flex](https://github.com/TypeNetwork/Roboto-Flex) - Upgrades Roboto to become a more powerful Variable Font, allowing youu to do more to express and finesse your text.
+- [Barlow](https://github.com/jpt/barlow) - Slightly rounded, low-contrast, grotesk type family.
+- [IBM Plex typeface](https://github.com/IBM/plex)
 
 ## Links
 
@@ -70,7 +74,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The Raster Tragegy and Low Resolution](http://rastertragedy.com/)
 - [FontGoggles](http://fontgoggles.org/) - Font viewer for various font formats. It is a desktop application for macOS. ([Code](https://github.com/justvanrossum/fontgoggles))
 - [I Pressed ⌘B. You Wouldn't Believe What Happened Next - Marcin Wichary (2020)](https://www.youtube.com/watch?v=kVD-sjtFoEI)
-- [Variable Fonts Primer](https://variablefonts.io/)
+- [Variable Fonts Primer](https://variablefonts.io/) ([Code](https://github.com/jpamental/variable-fonts))
 - [sfsymbols](https://github.com/davedelong/sfsymbols) - Export the shapes in the SF Symbols font.
 - [Fonts In Use](https://fontsinuse.com/) - Independent archive of typography.
 - [Awesome Typography](https://github.com/Jolg42/awesome-typography)
@@ -156,3 +160,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [TypeMedia](https://typemedia.org/) - MA in Type Design at the KABK.
 - [Arrow Type](https://www.arrowtype.com/) - Design & development for modern typography.
 - [Typographist](http://www.typographist.org/)
+- [Fontello](https://fontello.com/) - Icon fonts generator. ([Code](https://github.com/fontello/fontello))
+- [lv_font_conv](https://github.com/lvgl/lv_font_conv) - Converts TTF/WOFF fonts to compact bitmap format.
+- [Typogram](https://typogram.vercel.app/) - Create nice-looking, minimalistic graphics that focus on a short snippet of text for sharing on the web. ([Code](https://github.com/thesephist/typogram))
+- [Tips for making variable fonts](https://github.com/scribbletone/i-can-variable-font)
+- [Scaling custom fonts automatically with Dynamic Type (2020)](https://sarunw.com/posts/scaling-custom-fonts-automatically-with-dynamic-type/)

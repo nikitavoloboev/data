@@ -172,3 +172,4 @@
 - [Google GitHub Actions](https://github.com/google-github-actions)
 - [Custom GitHub Actions with Docker (2020)](https://sethetter.com/posts/github-actions-with-docker/)
 - [GitHub Actions Virtual Environments](https://github.com/actions/virtual-environments) - Contains the source used to create the virtual environments for GitHub Actions hosted runners, as well as the VM images of Microsoft-hosted agents used for Azure Pipelines.
+- [ghat](https://github.com/fregante/ghat) - Reuse GitHub Actions workflows across repositories.

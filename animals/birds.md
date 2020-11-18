@@ -11,3 +11,4 @@
 - [BirdNET](https://birdnet.cornell.edu/) - Easiest way to identify birds by sound.
 - [Jocelyn Anderson Photography](https://jocelynandersonphotographyshop.com/) - Photographs birds.
 - [The origin of birds](https://evolution.berkeley.edu/evolibrary/article/evograms_06)
+- [Birds of a feather do flock together (2020)](https://phys.org/news/2020-11-birds-feather-flock.html)

@@ -123,7 +123,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
 - [Podcast Notes](https://podcastnotes.org/)
 - [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.
-- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine.
+- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine. ([API](https://www.listennotes.com/api/)) ([HN](https://news.ycombinator.com/item?id=25139833))
 - [Podcast Search](https://atshpthmkhc-app.azurewebsites.net/) - Full Text Search on Podcasts. ([HN](https://news.ycombinator.com/item?id=23036016))
 - [Winds](https://getstream.io/winds/) - Beautiful Open Source Podcast & RSS Reader created by Stream. ([Code](https://github.com/GetStream/Winds))
 - [Mixtape](https://mixtape.preslav.me/) - Search engine for podcasts. Discover and subscribe to topics you like.

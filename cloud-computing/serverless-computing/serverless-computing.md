@@ -70,3 +70,4 @@
 - [Booster](https://github.com/boostercloud/booster) - High-level framework for TypeScript to build Serverless applications with built-in business-logic-level abstractions. ([Web](https://booster.cloud/))
 - [OpenWhisk](https://github.com/apache/openwhisk) - Serverless functions platform for building cloud applications. ([Web](https://openwhisk.apache.org/))
 - [faasd](https://github.com/openfaas/faasd) - OpenFaaS reimagined, but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage.
+- [Announcing Netlify Background Functions (2020)](https://www.netlify.com/blog/2020/10/29/announcing-background-functions/)

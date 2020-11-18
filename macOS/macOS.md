@@ -111,3 +111,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Booting a macOS Apple Silicon Kernel in QEMU (2020)](https://worthdoingbadly.com/xnuqemu3/) ([HN](https://news.ycombinator.com/item?id=25064593))
 - [macOS defaults](https://macos-defaults.com/) - List of macOS defaults commands with demos. ([Code](https://github.com/yannbertrand/macos-defaults))
 - [Does Apple really log every app you run? A technical look (2020)](https://blog.jacopo.io/en/post/apple-ocsp/) ([HN](https://news.ycombinator.com/item?id=25095438)) ([Reddit](https://www.reddit.com/r/apple/comments/juajrb/does_apple_really_log_every_app_you_run_a/))
+- [Does it ARM](https://doesitarm.com/) - Apps that are reported to support Apple Silicon. ([Code](https://github.com/ThatGuySam/doesitarm))

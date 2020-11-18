@@ -50,6 +50,7 @@
 - [GtkRadiant](https://github.com/TTimo/GtkRadiant) - Open-source, cross-platform level editor for id Tech based games. It comes with some map compilers and data authoring tools.
 - [Rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance. In Rust. ([Web](https://rapier.rs/))
 - [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Complete 3D game development suite written purely in Java. ([Web](https://jmonkeyengine.org/))
+- [Dotrix](https://github.com/lowenware/dotrix) - 3D Game Engine written in Rust.
 
 ## Physics engines
 

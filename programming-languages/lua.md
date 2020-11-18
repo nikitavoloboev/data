@@ -43,3 +43,5 @@
 - [Raymarching with Fennel and LÖVE (2020)](https://andreyorst.gitlab.io/posts/2020-10-15-raymarching-with-fennel-and-love/)
 - [Moonshine](https://github.com/gamesys/moonshine) - Lightweight Lua VM for the browser.
 - [A Look at the Design of Lua (2018)](https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext) ([HN](https://news.ycombinator.com/item?id=18327661))
+- [lua-fsm](https://github.com/unindented/lua-fsm) - Simple finite-state machine implementation for Lua.
+- [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - All the lua functions I don't want to write twice.

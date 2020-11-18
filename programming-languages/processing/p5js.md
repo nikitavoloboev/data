@@ -7,3 +7,4 @@
 - [Beginner workshop using p5.js and CodeSandbox](https://github.com/mattdesl/workshop-data-artwork)
 - [Circle Morphing](https://github.com/golanlevin/circle-morphing) - Interpolations from a circle to a triangle in p5.js.
 - [Rudy the Red Dot](https://rudy.zamfi.net/) - IDE shows in-line program state, evaluation, execution.
+- [post5](https://github.com/bandaloo/post5) - Library for p5 that enables you to do interesting post-processing effects with the power of WebGL2.

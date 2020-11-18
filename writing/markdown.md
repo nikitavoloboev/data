@@ -40,3 +40,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [ByteMD](https://github.com/bytedance/bytemd) - Hackable Markdown editor component built with Svelte. ([Web](https://bytedance.github.io/bytemd/))
 - [koino](https://github.com/kivikakk/koino) - CommonMark + GFM compatible Markdown parser and renderer.
 - [The Story Behind Markdown (2020)](https://capiche.com/e/markdown-history) - How plain text got formatting, styled like classic emails. ([HN](https://news.ycombinator.com/item?id=24860615))
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser done right. Fast and easy to extend.

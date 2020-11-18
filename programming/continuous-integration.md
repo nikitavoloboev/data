@@ -4,7 +4,9 @@
 
 - [Concourse CI](https://github.com/concourse/concourse) - Automation system written in Go. It is most commonly used for CI/CD, and is built to scale to any kind of automation pipeline, from simple to complex. ([Web](https://concourse-ci.org/))
 - [HN: Jenkins Is Getting Old (2019)](https://news.ycombinator.com/item?id=19781251)
+- [Buildkite](https://buildkite.com/) - Platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. ([CLI](https://github.com/buildkite/cli))
 - [Buildkite Agent](https://github.com/buildkite/agent) - Open-source toolkit written in Golang for securely running build jobs on any device or network.
+- [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit.
 - [Lobsters: What CI platforms do you use? (2019)](https://lobste.rs/s/5j4vij/what_ci_platforms_do_you_use)
 - [huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI.
 - [Strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server. ([Web](http://strider-cd.github.io/))
@@ -15,7 +17,6 @@
 - [Netlify Build Plugins](https://github.com/netlify/plugins)
 - [GitOps Engine](https://github.com/argoproj/gitops-engine) - Reusable library that implements core GitOps features.
 - [Automating safe, hands-off deployments (2020)](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
-- [Buildkite](https://buildkite.com/) - Platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. ([CLI](https://github.com/buildkite/cli))
 - [Platform.sh](https://platform.sh/) - End-to-end cloud PaaS for hosting, development, and deployment. ([Docs](https://docs.platform.sh/))
 - [Drone CI](https://drone.io/) - Automate Software Testing and Delivery.
 - [PipeCD](https://github.com/pipe-cd/pipe) - Continuous Delivery for Declarative Kubernetes, Serverless and Infrastructure Applications. ([Web](https://pipecd.dev/))

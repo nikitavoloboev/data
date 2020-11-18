@@ -23,3 +23,4 @@
 - [Home Automation with Docker and Postgres on RaspberryPI and AzureVM](https://github.com/srozemuller/hassio-config)
 - [Home Assistant Frontend](https://github.com/home-assistant/frontend) ([Web](https://demo.home-assistant.io/))
 - [HAP](https://github.com/mtrudel/hap) - Framework for building DIY HomeKit accessories based on Apple's HomeKit Accessory Protocol Specification.
+- [Circadian Lighting Home Assistant Component](https://github.com/claytonjn/hass-circadian_lighting) - Stay healthier and sleep better by syncing your lights with natural daylight to maintain your circadian rhythm.

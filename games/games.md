@@ -67,6 +67,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Doom 3](https://github.com/TTimo/doom3.gpl)
 - [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) - In Lua. 2.5D perspective view.
 - [Unix ASCII games](https://ligurio.github.io/awesome-ttygames/) ([Code](https://github.com/ligurio/awesome-ttygames))
+- [Micro Racing](https://github.com/Mati365/micro-racing) - Multiplayer 3D isometric racing game written in WebGL.
 
 ## Awesome games (other)
 

@@ -32,3 +32,4 @@
 - [AsyncIO DynamoDB](https://github.com/HENNGE/aiodynamo) - Asynchronous, fast, pythonic DynamoDB Client. ([Docs](https://aiodynamo.readthedocs.io/en/latest/))
 - [Best Practices for Designing and Architecting with DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
 - [Rotary](https://github.com/akkoro/rotary) - ORM-like query library for DynamoDB.
+- [dynein](https://github.com/awslabs/dynein) - DynamoDB CLI written in Rust.

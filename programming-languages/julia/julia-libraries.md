@@ -114,6 +114,7 @@
 - [LRUCache.jl](https://github.com/JuliaCollections/LRUCache.jl) - Provides a thread-safe implementation of a Least Recently Used (LRU) Cache for Julia.
 - [Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) - Julia C++ Interface.
 - [Cascadia](https://github.com/Algocircle/Cascadia.jl) - CSS Selector library in Julia.
+- [JSON3](https://github.com/quinnj/JSON3.jl) - JSON package for Julia. Focused on speed and slick struct mapping.
 
 ## Links
 

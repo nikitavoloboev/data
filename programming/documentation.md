@@ -13,6 +13,7 @@
 - [Expo](https://docs.expo.io/)
 - [Apollo](https://www.apollographql.com/docs/) - Lovely search.
 - [Prolens nice ASCII diagrams](https://twitter.com/kowainik/status/1316297938667220992)
+- [Rome Toolchain](https://rome.tools/) - Nice sidebar with table of contents + search.
 
 ## Notes
 
