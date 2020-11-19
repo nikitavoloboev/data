@@ -19,3 +19,4 @@
 - [Comments on "Projective Geometric Algebra Done Right" (2020)](https://www.jeremyong.com/math/2020/01/24/comments-on-projective-geometric-algebra-done-right/)
 - [Symmetries in Projective Geometric Algebra (2020)](http://terathon.com/blog/symmetries-in-projective-geometric-algebra/)
 - [Projective Geometric Algebra](http://projectivegeometricalgebra.org/)
+- [All Hail Geometric Algebra](https://crypto.stanford.edu/~blynn/haskell/ga.html) ([HN](https://news.ycombinator.com/item?id=25142528))

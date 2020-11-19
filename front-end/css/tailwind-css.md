@@ -41,3 +41,4 @@
 - [Prettier Plugin Tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) - Sort tailwind classes in HTML with Prettier.
 - [UI Devtools for Tailwind CSS](https://ui-devtools.com/)
 - [Tailwind versus BEM (2020)](https://thoughtbot.com/blog/tailwind-versus-bem)
+- [TailwindCSS v2.0 (2020)](https://blog.tailwindcss.com/tailwindcss-v2) ([HN](https://news.ycombinator.com/item?id=25140604))

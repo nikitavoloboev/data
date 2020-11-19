@@ -149,3 +149,4 @@
 - [Cache install Nix packages](https://github.com/nix-actions/cache-install) - Use the GitHub Actions cache for Nix packages.
 - [nixbuild.net Action](https://github.com/nixbuild/nixbuild-action) - GitHub Action for using the nixbuild.net service.
 - [fromElisp](https://github.com/talyz/fromElisp) - Emacs Lisp reader in Nix.
+- [On-demand linked libraries for Nix (2020)](https://fzakaria.com/2020/11/17/on-demand-linked-libraries-for-nix.html) ([Lobsters](https://lobste.rs/s/nawo6d/on_demand_linked_libraries_for_nix))

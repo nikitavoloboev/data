@@ -164,3 +164,4 @@
 - [graphqless](https://github.com/alloy/graphqless-js) - Statically compiled resolvers for entire queries based on a graphql-js schema.
 - [Moving OkCupid from REST to GraphQL (2020)](https://tech.okcupid.com/moving-okcupid-from-rest-to-graphql/) ([HN](https://news.ycombinator.com/item?id=25109323))
 - [graphql-schema-registry](https://github.com/pipedrive/graphql-schema-registry) - Graphql schema storage as dockerized on-premise service for federated graphql gateway server (based on apollo server) as alternative to Apollo studio.
+- [Incremental Rewrites with GraphQL (2020)](https://blog.khanacademy.org/incremental-rewrites-with-graphql/)

@@ -298,4 +298,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Pollen](https://github.com/mbutterick/pollen) - Book-publishing system written in Racket. ([Docs](https://docs.racket-lang.org/pollen/))
 - [How I read (2020)](https://www.spakhm.com/p/how-i-read)
 - [ibis](https://github.com/themsaid/ibis) - PHP tool that helps you write eBooks in markdown and convert to PDF.
-- [Writing a technical book: from idea to print (2020)](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
+- [Writing a technical book: from idea to print (2020)](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html) ([HN](https://news.ycombinator.com/item?id=25138216))

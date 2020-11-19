@@ -62,4 +62,4 @@
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) in TensorFlow](https://github.com/dvschultz/stylegan2-ada)
 - [GANs with Keras and TensorFlow (2020)](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
 - [RCF-GAN](https://github.com/ShengxiLi/rcf_gan) - Implementation of RCF-GAN proposed in the paper "Reciprocal Adversarial Learning via Characteristic Functions".
-- [Using GANs to Create Fantastical Creatures (2020)](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html)
+- [Using GANs to Create Fantastical Creatures (2020)](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html) ([HN](https://news.ycombinator.com/item?id=25146610))
