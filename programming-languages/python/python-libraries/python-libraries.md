@@ -9,6 +9,7 @@
 - [baseplate.py](https://github.com/reddit/baseplate.py) - Reddit's python service framework. ([Docs](https://baseplate.readthedocs.io/en/stable/))
 - [Nameko](https://github.com/nameko/nameko) - Microservices framework for Python that lets service developers concentrate on application logic and encourages testability.
 - [Kore](https://kore.io/) - Easy to use web platform for C and Python.
+- [uvicorn](https://github.com/encode/uvicorn) - Lightning-fast ASGI server. ([Docs](https://www.uvicorn.org/))
 
 ## ML
 

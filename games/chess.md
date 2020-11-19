@@ -24,3 +24,4 @@
 - [Lichess Chess Bots](https://lichess.org/player/bots)
 - [Chessvision.ai Search](https://search.chessvision.ai/) - Search YouTube chess videos by content.
 - [castling.club](https://castling.club/) - Chess over ActivityPub.
+- [SwiftChess](https://github.com/SteveBarnegren/SwiftChess) - Chess engine written in Swift.
