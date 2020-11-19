@@ -26,3 +26,4 @@
 - [CSS to JS](https://github.com/SaraVieira/css-to-js) - Transform between CSS, JS Objects and JSX props.
 - [cxs](https://github.com/cxs-css/cxs) - Fast af css-in-js in 0.7kb.
 - [Stiches](https://github.com/modulz/stitches) - Near-zero runtime, server-side rendering, multi-variant support, and best-in-class developer experience. ([Web](https://stitches.dev/))
+- [Fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript. ([Docs](https://github.com/robinweser/fela))

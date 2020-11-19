@@ -172,3 +172,4 @@
 - [Practical Server Side Swift book](https://gumroad.com/l/practical-server-side-swift) ([Vapor 4 code samples](https://github.com/tib/practical-server-side-swift))
 - [Swift Dependency Injection by Needle (2020)](https://medium.com/joom/dependency-injection-by-needle-6d1c823893b)
 - [Core Data Best Practices by Antoine van der Lee](https://github.com/AvdLee/CoreDataBestPractices)
+- [Differentiable programming for gradient-based machine learning in Swift](https://forums.swift.org/t/differentiable-programming-for-gradient-based-machine-learning/42147)
