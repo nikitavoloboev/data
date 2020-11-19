@@ -7,6 +7,7 @@
 - [MLJTime](https://github.com/alan-turing-institute/MLJTime.jl) - MLJ compatible Julia toolbox for learning with time series.
 - [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.
+- [SDDP.jl](https://github.com/odow/SDDP.jl) - Stochastic Dual Dynamic Programming in Julia.
 
 ## Math
 
@@ -115,6 +116,7 @@
 - [Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) - Julia C++ Interface.
 - [Cascadia](https://github.com/Algocircle/Cascadia.jl) - CSS Selector library in Julia.
 - [JSON3](https://github.com/quinnj/JSON3.jl) - JSON package for Julia. Focused on speed and slick struct mapping.
+- [TableIO](https://github.com/lungben/TableIO.jl) - Glue package for reading and writing tabular data.
 
 ## Links
 

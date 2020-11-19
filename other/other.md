@@ -387,3 +387,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [ByteDance](https://www.bytedance.com/en/) ([GitHub](https://github.com/bytedance))
 - [How do Spotify Codes work? (2020)](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)
 - [Sharkle](https://showus.netlify.app/) - Generator of random awesomeness.
+- [Vas3k Club](https://vas3k.club/) - No bullshit IT community with private membership. ([Code](https://github.com/vas3k/vas3k.club))
+- [Gossip’s Web](https://gossipsweb.net/) - Link collection. Costs 1\$ to submit link.

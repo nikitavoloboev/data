@@ -192,3 +192,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Why Git blame sucks for understanding WTF code (and what you should use instead) (2020)](https://tekin.co.uk/2020/11/patterns-for-searching-git-revision-histories) ([Lobsters](https://lobste.rs/s/in8vp4/why_git_blame_sucks_for_understanding_wtf))
 - [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard) ([HN](https://news.ycombinator.com/item?id=25121416))
 - [gfold](https://github.com/nickgerace/gfold) - CLI application that helps you keep track of multiple Git repositories.
+- [git-ignore](https://github.com/janniks/git-ignore) - Interactive CLI to generate .gitignore files.

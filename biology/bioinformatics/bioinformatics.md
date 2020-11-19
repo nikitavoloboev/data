@@ -72,3 +72,4 @@
 - [MacLean Lab](http://macleanlab.usc.edu/) - Stem Cell Systems Biology Research.
 - [Cahan Lab](http://www.cahanlab.org/) - Stem cell engineering, developmental biology, and cancer biology research.
 - [Tufts Uni: Levin Biology Lab](https://ase.tufts.edu/biology/labs/levin/Default.htm) - Investigating information storage and processing in biological systems.
+- [Nextflow](https://github.com/nextflow-io/nextflow) - Bioinformatics workflow manager that enables the development of portable and reproducible workflows. ([Web](https://nf-co.re/)) ([GitHub](https://github.com/nf-core))

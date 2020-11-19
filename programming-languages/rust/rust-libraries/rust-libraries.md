@@ -35,6 +35,7 @@
 - [Dropshot](https://github.com/oxidecomputer/dropshot) - General-purpose crate for exposing REST APIs from a Rust program.
 - [localghost](https://github.com/mild-times/localghost) - Ergonomic Rust bindings to the Web platform.
 - [hyper-rustls](https://github.com/ctz/hyper-rustls) - Integration between the rustls TLS stack and the hyper HTTP library.
+- [biscuit-rust](https://github.com/CleverCloud/biscuit-rust) - Rust implementation of the Biscuit authorization token.
 
 ## WASM
 
@@ -122,6 +123,7 @@
 - [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
 - [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
 - [SNAFU](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context.
+- [some-error](https://github.com/jam1garner/some-error) - Library for creating and using anonymous sum types as errors.
 
 ## IO
 
@@ -153,6 +155,7 @@
 
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
 - [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.
+- [Fwumious Wabbit](https://github.com/outbrain/fwumious_wabbit) - Fast on-line machine learning toolkit written in Rust.
 
 ## macOS
 
@@ -531,6 +534,9 @@
 - [lingua-rs](https://github.com/pemistahl/lingua-rs) - Accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike.
 - [fastrand](https://github.com/smol-rs/fastrand) - Simple and fast random number generator.
 - [Kompact](https://github.com/kompics/kompact) - Component System in Rust.
+- [faerie](https://github.com/m4b/faerie) - Magical ELF and Mach-o object file writer backend.
+- [extendr](https://github.com/extendr/extendr) - Low-level R library bindings.
+- [bumpalo](https://github.com/fitzgen/bumpalo) - Fast bump allocation arena for Rust.
 
 ## Cargo Plugins
 

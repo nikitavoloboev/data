@@ -132,6 +132,7 @@
 - [Holistics](https://www.holistics.io/) - Data Modeling & Self-Service BI Platform.
 - [Numerai data science tournament](https://numer.ai/tournament)
 - [Neptune.ai](https://neptune.ai/) - Experiment tracking tool for you and your team. ([GitHub](https://github.com/neptune-ai))
+- [Neptune Python Client](https://github.com/neptune-ai/neptune-client) - Integrate your Python scripts with Neptune.
 - [AimStack](https://aimstack.io/) - Version Control and Development Environment for AI. ([Code](https://github.com/aimhubio/aim)) ([GitHub](https://github.com/aimhubio))
 - [Synerise](https://synerise.com/) - Powerful ecosystem driven by Artificial Intelligence with real-time data orchestration created to drive business growth.
 - [Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis)

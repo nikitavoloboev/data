@@ -90,3 +90,5 @@
 - [An Intuition for Lisp Syntax](https://stopa.io/post/265) ([HN](https://news.ycombinator.com/item?id=24892297)) ([Lobsters](https://lobste.rs/s/pg30t6/intuition_for_lisp_syntax))
 - [The Nature of Lisp (2006)](http://www.defmacro.org/ramblings/lisp.html)
 - [awklisp](https://github.com/darius/awklisp) - Lisp interpreter written in Awk.
+- [Pixie](https://github.com/pixie-lang/pixie) - Lightweight lisp suitable for both general use as well as shell scripting.
+- [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies) - Curated lisp for companies that use Lisp Extensively in their stack.

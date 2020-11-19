@@ -10,3 +10,4 @@
 - [Immunology Is Where Intuition Goes to Die (2020)](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/) ([HN](https://news.ycombinator.com/item?id=24069662))
 - [How the Coronavirus Hacks the Immune System (2020)](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system) ([HN](https://news.ycombinator.com/item?id=24969667))
 - [John Ioannidis research](https://profiles.stanford.edu/john-ioannidis) - Professor of medicine and epidemiology.
+- [Our amazing immune system (2020)](https://berthub.eu/articles/posts/immune-system/)

@@ -8,3 +8,4 @@
 - [Simple, basic, formally verified UART controller](https://github.com/ZipCPU/wbuart32)
 - [SymbiFlow](https://symbiflow.github.io/) - Open source toolchain for the development of FPGAs of multiple vendors. ([GitHub](https://github.com/SymbiFlow))
 - [Verilog PCI Express Components](https://github.com/alexforencich/verilog-pcie)
+- [Verilog AXI Components](https://github.com/alexforencich/verilog-axi)

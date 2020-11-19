@@ -84,3 +84,5 @@
 - [Jupyter Extension for VS Code](https://github.com/microsoft/vscode-jupyter)
 - [Jupyter Notebook Format](https://github.com/jupyter/nbformat) - Reference implementation of the Jupyter Notebook format. ([Docs](https://nbformat.readthedocs.io/en/latest/))
 - [nbsafety](https://github.com/nbsafety-project/nbsafety) - Fearless interactivity for Jupyter notebooks.
+- [notebooker](https://github.com/man-group/notebooker) - Productionise your Jupyter Notebooks, just as interactively as you wrote them.
+- [NBClient](https://github.com/jupyter/nbclient) - Client library for programmatic notebook execution, is a tool for running Jupyter Notebooks in different execution contexts.

@@ -90,3 +90,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nixops Services on Your Home Network (2020)](https://christine.website/blog/nixops-services-2020-11-09) ([Lobsters](https://lobste.rs/s/kzforn/nixops_services_on_your_home_network))
 - [sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops.
 - [NixOS infrastructure configurations](https://github.com/NixOS/nixos-org-configurations)
+- [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS.

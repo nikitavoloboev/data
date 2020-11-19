@@ -166,3 +166,5 @@
 - [Eiffel2](https://github.com/Ale9806/Eiffel2) - Neural Network architecture Visualization tool.
 - [Graph Convolutional Neural Networks (GCNN) models](https://github.com/google/gcnn-survey-paper)
 - [Elegy](https://github.com/poets-ai/elegy) - Neural Networks framework based on Jax inspired by Keras and Haiku.
+- [SpinalNet](https://github.com/dipuk0506/SpinalNet) - Deep Neural Network with Gradual Input.
+- [Deeply-supervised Nets](https://github.com/s9xie/DSN)

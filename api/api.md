@@ -52,6 +52,7 @@
 - [Discord Go 3](https://github.com/andersfylling/disgord) - Go module for interacting with the documented Discord's bot interface; Gateway, REST requests and voice.
 - [Discord C++](https://github.com/yourWaifu/sleepy-discord)
 - [Discord JS](https://github.com/discordjs/discord.js)
+- [Discord Swift](https://github.com/Azoy/Sword)
 - [Slack Go 2](https://github.com/slack-go/slack)
 - [Slack Go 3](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.

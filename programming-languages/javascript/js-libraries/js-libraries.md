@@ -365,6 +365,10 @@
 - [isbot](https://github.com/omrilotan/isbot) - JavaScript module that detects bots/crawlers/spiders via the user agent.
 - [valtio](https://github.com/pmndrs/valtio) - Makes proxy-state simple.
 - [pica](https://github.com/nodeca/pica) - High quality image resize in browser.
+- [Planton](https://github.com/gajus/planton) - Database-agnostic task scheduler.
+- [mime-types](https://github.com/jshttp/mime-types) - JavaScript content-type utility.
+- [match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript.
+- [Fetch Event Source](https://github.com/Azure/fetch-event-source) - Better API for making Event Source requests, with all the features of fetch().
 
 ## Links
 

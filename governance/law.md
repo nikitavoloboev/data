@@ -12,3 +12,4 @@
 - [What Color are your bits? (2004)](https://ansuz.sooke.bc.ca/entry/23)
 - [Software licensing and my opposition to copyleft (2020)](https://github.com/BurntSushi/notes/blob/master/2020-10-29_licensing-and-copyleft.md) ([Lobsters](https://lobste.rs/s/i7c0a6/software_licensing_my_opposition)) ([HN](https://news.ycombinator.com/item?id=24939162))
 - [Catala](https://github.com/CatalaLang/catala) - Domain-specific language for deriving faithful-by-construction algorithms from legislative texts. ([Web](https://catala-lang.org/)) ([HN](https://news.ycombinator.com/item?id=24948342))
+- [judyrecords](https://www.judyrecords.com/) - Free. 439 million+ federal, state, and county court cases from throughout the United States.

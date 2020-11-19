@@ -162,3 +162,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [GNUnet](https://gnunet.org/en/index.html) - Network protocol stack for building secure, distributed, and privacy-preserving applications. ([Code](https://github.com/equalitie/gnunet))
 - [Secure Reliable Transport (SRT) Protocol](https://github.com/Haivision/srt) - Open source transport technology that optimizes streaming performance across unpredictable networks, such as the Internet.
 - [Awesome Optimal Transport](https://github.com/kilianFatras/awesome-optimal-transport)
+- [Build VNF](https://github.com/stevelorenz/build-vnf) - Collection of utilities to build fast and green virtualized network functions.
+- [Argo Tunnel client](https://github.com/cloudflare/cloudflared) - Tunneling daemon that proxies any local webserver through the Cloudflare network. ([Docs](https://developers.cloudflare.com/argo-tunnel/))
+- [Many services, one cloudflared (2020)](https://blog.cloudflare.com/many-services-one-cloudflared/)

@@ -154,3 +154,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Return to Plan 9 (2020)](https://boxbase.org/entries/2020/nov/1/return-to-plan9/)
 - [Programs are a prison: Rethinking the building blocks of computing interfaces](https://djrobstep.com/posts/programs-are-a-prison) ([HN](https://news.ycombinator.com/item?id=24999103))
 - [POSIX write() is not atomic in the way that you might like (2020)](https://utcc.utoronto.ca/~cks/space/blog/unix/WriteNotVeryAtomic)
+- [Guided linking: dynamic linking without the costs (2020)](https://dl.acm.org/doi/abs/10.1145/3428213)

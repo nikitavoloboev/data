@@ -59,6 +59,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Travelpayouts](https://github.com/travelpayouts/travel-app-ios) - App template for flights and hotels search.
 - [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/ish-app/ish)) ([HN](https://news.ycombinator.com/item?id=24861923)) ([HN 2](https://news.ycombinator.com/item?id=25028252))
 - [MediaBrowser](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections written in Swift.
+- [DEV iOS](https://github.com/forem/DEV-ios) - DEV Community iOS App.
 
 ## Other
 
@@ -110,7 +111,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Nailing Your iOS Interview in Silicon Valley (2019)](https://medium.com/@bayareabelletrist/how-to-prepare-for-an-ios-interview-in-silicon-valley-85a009cf8a4)
 - [KIF iOS Integration Testing Framework](https://github.com/kif-framework/KIF) - iOS integration test framework.
 - [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools)
-- [isign](https://github.com/saucelabs/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
+- [isign](https://github.com/isignpy/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
 - [Rome](https://github.com/blender/Rome) - Cache tool for Carthage.
 - [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 - [iOS Project Template](https://github.com/pgorzelany/iOS-project-template) - Template to jumpstart your next iOS project integrating best practices and tools.
@@ -257,3 +258,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [kernel exploit for Apple iOS 13.X](https://github.com/0x36/oob_events)
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
 - [Basics of App Store Optimization](https://quality-wolves.com/what-is-aso)
+- [Emcee](https://github.com/avito-tech/Emcee) - Tool that runs iOS tests in parallel using multiple simulators across many Macs.

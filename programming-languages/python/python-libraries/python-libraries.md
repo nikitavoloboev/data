@@ -55,6 +55,7 @@
 - [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548)) ([Lobsters](https://lobste.rs/s/d7pkoi/guietta_python_module_create_simple_guis))
 - [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Transforms the tkinter, Qt, WxPython, and Remi (browser-based) GUI frameworks into a simpler interface.
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - Simple to use (but powerful) Python GUI framework. ([HN](https://news.ycombinator.com/item?id=24986908))
+- [pyimgui](https://github.com/swistakm/pyimgui) - Cython-based Python bindings for dear imgui.
 - [wxPython Phoenix](https://github.com/wxWidgets/Phoenix) - Cross-Platform GUI Library.
 
 ## Test
@@ -63,6 +64,7 @@
 - [Coverage.py](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python.
 - [pytest](https://github.com/pytest-dev/pytest) - Makes it easy to write small tests, yet scales to support complex functional testing.
 - [pytest-cookies](https://github.com/hackebrot/pytest-cookies) - Pytest plugin for your Cookiecutter templates.
+- [pytest-plugins](https://github.com/man-group/pytest-plugins) - Grab-bag of nifty pytest plugins.
 
 ## Other
 

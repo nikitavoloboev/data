@@ -106,3 +106,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Slither](https://github.com/crytic/slither) - Static Analyzer for Solidity.
 - [Crytic](https://crytic.io/) - SaaS-based GitHub application that continuously assures your Ethereum smart contracts are safe and functional. ([GitHub](https://github.com/crytic))
 - [Cryptovoxels](https://www.cryptovoxels.com/) - Ethereum Virtual World.
+- [Slingshot](https://slingshot.finance/) - Next Generation Decentralized Trading.
+- [K Semantics of the Ethereum Virtual Machine (EVM)](https://github.com/kframework/evm-semantics)
+- [beaconcha.in](https://beaconcha.in/) - Open Source Ethereum 2.0 Beacon Chain Explorer. ([Code](https://github.com/gobitfly/eth2-beaconchain-explorer))

@@ -21,7 +21,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [Sandy Maguire](http://sandymaguire.me/blog/archives/)
 - [Guillermo Rauch](https://rauchg.com/essays)
-- [Andrej Karpathy](http://karpathy.github.io/)
+- [Andrej Karpathy](https://karpathy.github.io/)
 - [Andre Weissflog](http://floooh.github.io/archive/)
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
 - [Cindy Sridharan](https://medium.com/@copyconstruct)

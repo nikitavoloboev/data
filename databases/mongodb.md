@@ -8,3 +8,4 @@
 - [Ask HN: Do you still use MongoDB? (2020)](https://news.ycombinator.com/item?id=23270429)
 - [MongoDB Specifications](https://github.com/mongodb/specifications)
 - [MongoDB for VS Code](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment.
+- [Everything You Know About MongoDB is Wrong (2020)](https://developer.mongodb.com/article/everything-you-know-is-wrong)

@@ -48,3 +48,5 @@
 - [MPqa](https://github.com/svakulenk0/KBQA) - Complex Question Answering over Knowledge Graphs.
 - [LibKGE](https://github.com/uma-pi1/kge) - PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of knowledge graph embeddings.
 - [Get psyched about mapping knowledge](https://github.com/synchrony/smsn-why)
+- [CoDEx](https://github.com/tsafavi/codex) - Set of knowledge graph Completion Datasets Extracted from Wikidata and Wikipedia.
+- [PyKEEN (Python KnowlEdge EmbeddiNgs)](https://github.com/pykeen/pykeen) - Python package designed to train and evaluate knowledge graph embedding models (incorporating multi-modal information).

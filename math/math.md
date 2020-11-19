@@ -215,4 +215,5 @@
 - [Alexander Grothendieck: Memories of a Great Mathematician (2014)](https://www.albany.edu/offcourse/issue59/grothendiek.html)
 - [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning)
 - [Fematika Video playlists on Math](https://www.youtube.com/c/Fematika/playlists)
-- [The Most Common Errors in Undergraduate Mathematics](https://math.vanderbilt.edu/schectex/commerrs/)
+- [The Most Common Errors in Undergraduate Mathematics](https://math.vanderbilt.edu/schectex/commerrs/) ([HN](https://news.ycombinator.com/item?id=25135418))
+- [A History of Mathematical Notations by Florian Cajori](https://archive.org/details/in.ernet.dli.2015.200372)

@@ -33,3 +33,5 @@
 - [Opinionated Common Lisp Resources 2020](https://gist.github.com/digikar99/a1925ad3249a431c9eecf09af2fdef8a)
 - [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 - [Modern CI testing and packaging for Common Lisp](https://nyxt.atlas.engineer/article/continuous-testing-and-packaging.org)
+- [Archive of Lisp Machine](https://github.com/jrm-code-project/LISP-Machine) ([HN](https://news.ycombinator.com/item?id=25147970))
+- [Common LISP Parser & AST Viewer](https://github.com/littledivy/lisp-ast)

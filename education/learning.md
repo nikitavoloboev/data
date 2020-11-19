@@ -83,3 +83,4 @@
 - [Richard Feynman and How to Learn Anything Well](https://www.butwhatfor.com/feynman-technique/)
 - [Principles for Better Teaching (2020)](https://reflexio.debec.eu/principles-for-better-teaching)
 - [MyW3schools](http://www.myw3schools.com/) - Find resources for topics.
+- [Logic School](https://school.logicmag.io/) - Online, experimental school for tech workers produced by Logic Magazine.

@@ -24,3 +24,4 @@
 - [Homebrew Discussions](https://github.com/Homebrew/discussions/discussions)
 - [Brew code](https://github.com/Homebrew/brew)
 - [Homebrew (un)installer](https://github.com/Homebrew/install)
+- [Homebrew tap with bottles uploaded to GitHub Releases](https://brew.sh/2020/11/18/homebrew-tap-with-bottles-uploaded-to-github-releases/)

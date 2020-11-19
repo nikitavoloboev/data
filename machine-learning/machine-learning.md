@@ -342,3 +342,6 @@
 - [OpenMined Courses](https://courses.openmined.org/) - Learn how privacy technology is changing our world and how you can lead the charge.
 - [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)
 - [DeepMind Educational Resources](https://github.com/deepmind/educational)
+- [Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf) ([Code](https://github.com/musikalkemist/DeepLearningForAudioWithPython))
+- [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers)
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for Machine Learning Security.

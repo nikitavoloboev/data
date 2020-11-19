@@ -80,3 +80,5 @@
 - [Fedlearner](https://github.com/bytedance/fedlearner) - Collaborative machine learning frameowork that enables joint modeling of data distributed between institutions.
 - [SkLearn2PMML](https://github.com/jpmml/sklearn2pmml) - Python library for converting Scikit-Learn pipelines to PMML.
 - [vecstack](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique).
+- [LightSeq](https://github.com/bytedance/lightseq) - High Performance Inference Library for Sequence Processing and Generation.
+- [modestpy](https://github.com/sdu-cfei/modest-py) - Facilitates parameter estimation in models compliant with Functional Mock-up Interface.

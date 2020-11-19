@@ -3,7 +3,7 @@
 ## Examples of nice docs
 
 - [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))
-- [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page.
+- [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page. ([Code](https://github.com/cloudflare/cloudflare-docs))
 - [TSDX](https://tsdx.io)
 - [Parcel 2 docs](https://v2.parceljs.org/) ([Code](https://github.com/parcel-bundler/website))
 - [Shields.io readme](https://github.com/badges/shields) - Clear instructions on how to start working on the project, contributing guidelines pointing to a tutorial, coding guidelines and even a high-level code walkthrough.

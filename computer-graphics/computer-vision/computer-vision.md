@@ -144,3 +144,7 @@
 - [Natural Adversarial Examples](https://github.com/hendrycks/natural-adv-examples) - Harder ImageNet Test Set.
 - [How to upload 50 OpenCV frames into cloud storage within 1 second (2020)](https://medium.com/@venkateshpnk22/how-to-upload-50-opencv-frames-into-cloud-storage-within-1-second-653ee73d7711)
 - [Egocentric Videoconferencing (2020)](http://gvv.mpi-inf.mpg.de/projects/EgoChat/) - Method for egocentric videoconferencing that enables handsfree video calls, for instance by people wearing smart glasses or other mixedreality devices. ([Video overview](https://www.youtube.com/watch?v=atzPvW95ahQ))
+- [gradslam](https://github.com/gradslam/gradslam) - Open source differentiable dense SLAM library for PyTorch.
+- [High-Resolution Daytime Translation Without Domain Labels](https://github.com/saic-mdal/HiDT)
+- [Holistically-Nested Edge Detection](https://github.com/s9xie/hed)
+- [pycls](https://github.com/facebookresearch/pycls) - Image classification codebase, written in PyTorch.

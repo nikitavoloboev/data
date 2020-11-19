@@ -22,3 +22,7 @@
 - [Introduction to Graph Neural Networks (2020)](https://heartbeat.fritz.ai/introduction-to-graph-neural-networks-c5a9f4aa9e99)
 - [PyDGN](https://github.com/diningphil/PyDGN) - Python library for Deep Graph Networks.
 - [A gentle introduction to deep learning for graphs (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0893608020302197)
+- [Graph Structure of Neural Networks](https://github.com/facebookresearch/graph2nn) - PyTorch implementation.
+- [GraphGym](https://github.com/snap-stanford/GraphGym) - Platform for designing and evaluating Graph Neural Networks.
+- [GraphRNN](https://github.com/JiaxuanYou/graph-generation) - Generating Realistic Graphs with Deep Auto-regressive Model.
+- [Position-aware Graph Neural Networks](https://github.com/JiaxuanYou/P-GNN)

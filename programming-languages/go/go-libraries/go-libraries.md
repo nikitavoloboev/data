@@ -175,6 +175,7 @@
 - [rtnetlink](https://github.com/jsimonetti/rtnetlink) - Provides low-level access to the Linux rtnetlink API.
 - [go-fuse](https://github.com/hanwen/go-fuse) - Go native bindings for the FUSE kernel module.
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
+- [gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs.
 
 ## Other
 
@@ -594,6 +595,7 @@
 - [Perf](https://github.com/hodgesds/perf-utils) - Go library for interacting with the perf subsystem in Linux.
 - [uniseg](https://github.com/rivo/uniseg) - Unicode Text Segmentation for Go.
 - [Gota](https://github.com/go-gota/gota) - DataFrames, Series and Data Wrangling for Go.
+- [vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go.
 
 ## Links
 

@@ -12,6 +12,7 @@
 - [skdata](https://github.com/jaberg/skdata) - Data sets for machine learning in Python.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [Awesome Public Datasets Core](https://github.com/awesomedata/apd-core) - Next iteration of APD project.
 - [LORIS](https://github.com/aces/Loris) - Web-accessible database solution for longitudinal multi-site studies.
 - [ProteinNet](https://github.com/aqlaboratory/proteinnet) - Standardized data set for machine learning of protein structure.
 - [Registry of Open Data on AWS](https://registry.opendata.aws/) ([Code](https://github.com/awslabs/open-data-registry))
@@ -51,3 +52,5 @@
 - [matorage](https://github.com/graykode/matorage) - Efficient way to store/load and manage dataset, model and optimizer for deep learning.
 - [HN Posts datasets](https://github.com/massanishi/hackernews-post-datasets) ([HN](https://news.ycombinator.com/item?id=25125458))
 - [Hypersim Toolkit](https://github.com/apple/ml-hypersim) - Set of tools for generating photorealistic synthetic datasets from V-Ray scenes.
+- [mirdata](https://github.com/mir-dataset-loaders/mirdata) - Interoperable Dataset Loaders for Music Information Retrieval (MIR).
+- [MetFaces Dataset](https://github.com/NVlabs/metfaces-dataset) - Image dataset of human faces extracted from works of art.

@@ -48,3 +48,5 @@
 - [Remove ads from your life using Raspberry Pi, Docker and Docker Compose (2020)](https://burakkarakan.com/blog/pihole-on-raspberry-using-pi-docker-and-docker-compose/)
 - [Raspberry Pi OS](https://www.raspberrypi.org/software/)
 - [Raspberry Pi Audio Receiver](https://github.com/nicokaiser/rpi-audio-receiver) - Simple, light weight audio receiver with Bluetooth (A2DP), AirPlay, Spotify Connect and UPnP.
+- [Raspberry Pi 4 UEFI Firmware Images](https://github.com/pftf/RPi4)
+- [Making Pi ServerReady](https://rpi4-uefi.dev/) - SBBR-compliant (UEFI+ACPI) AArch64 firmware for the Raspberry Pi 4.

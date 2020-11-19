@@ -22,3 +22,4 @@
 - [SBV](https://github.com/LeventErkok/sbv) - SMT Based Verification in Haskell. ([Changes](https://github.com/LeventErkok/sbv/blob/master/CHANGES.md))
 - [A Time Leap Challenge for Sat Solving (2020)](https://arxiv.org/abs/2008.02215) ([HN](https://arxiv.org/abs/2008.02215))
 - [Yin-Yang](https://testsmt.github.io/) - Tool for stress-testing SMT solvers. ([HN](https://news.ycombinator.com/item?id=25123138)) ([Code](https://github.com/testsmt/yinyang))
+- [G2SAT: Learning to Generate SAT Formulas](https://github.com/JiaxuanYou/G2SAT)

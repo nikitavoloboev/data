@@ -80,3 +80,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Discover Quickly](https://discoverquickly.com/) - Your interface for music discovery, powered by Spotify.
 - [Ask HN: How do you find new music? (2020)](https://news.ycombinator.com/item?id=25085635)
 - [Savify](https://github.com/LaurenceRawlings/savify) - Download Spotify songs to mp3 with full metadata and cover art.
+- [Erased Tapes](https://www.erasedtapes.com/) - London-based independent record label focusing on releasing avant-garde and experimental electronic music.
+- [Rough Trade](https://www.roughtrade.com/) - Independent purveyors of great music.
+- [XLR8R](https://xlr8r.com/) - Accelerating Music and Culture.
+- [Resident Advisor](https://www.residentadvisor.net/) - Electronic music online.

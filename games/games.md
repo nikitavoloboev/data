@@ -68,6 +68,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) - In Lua. 2.5D perspective view.
 - [Unix ASCII games](https://ligurio.github.io/awesome-ttygames/) ([Code](https://github.com/ligurio/awesome-ttygames))
 - [Micro Racing](https://github.com/Mati365/micro-racing) - Multiplayer 3D isometric racing game written in WebGL.
+- [Ordinary Puzzles](https://www.ordinarypuzzles.com/) - Minimalistic puzzle game built using React Native. ([Code](https://github.com/mmazzarolo/ordinary-puzzles-app))
 
 ## Awesome games (other)
 

@@ -29,3 +29,4 @@ And here are Chrome extensions I use:
 - [25 Google Chrome Flags You Should Use](https://beebom.com/google-chrome-flags/) ([Tweet](https://twitter.com/koehrsen_will/status/1300197822315278338))
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. ([Docs](https://pptr.dev/))
 - [Chrome Dev Summit](https://developer.chrome.com/devsummit/) ([Code](https://github.com/GoogleChrome/devsummit))
+- [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) - Screen Recorder & Annotation Tool. ([Code](https://github.com/alyssaxuu/screenity))

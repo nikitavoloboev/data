@@ -26,3 +26,4 @@
 - [Shrugs.app](https://shrugs.app/) - Integrate macOS into your Slack experience.
 - [How Riot Games Uses Slack (2020)](https://technology.riotgames.com/news/how-riot-games-uses-slack)
 - [How Unstack is running their Slack community (2020)](https://buildwithusers.substack.com/p/a-peek-into-how-unstack-is-running)
+- [Snack](https://aboutsnack.com/) - Video Chat Roulette for Slack.

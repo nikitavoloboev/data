@@ -256,3 +256,4 @@
 - [Headlamp](https://github.com/kinvolk/headlamp) - Easy-to-use and extensible Kubernetes web UI. ([Web](https://kinvolk.io/)) ([HN](https://news.ycombinator.com/item?id=25118870))
 - [kube-rs](https://github.com/clux/kube-rs) - Kubernetes client and futures controller runtime.
 - [Cloud Development Kit for Kubernetes](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming. ([Web](https://cdk8s.io/))
+- [How to get started contributing to Kubernetes (2020)](https://twitter.com/dims/status/1329400522890219520)

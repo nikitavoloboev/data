@@ -481,6 +481,7 @@
 - [LifecycleKit](https://github.com/ashare80/LifecycleKit) - Framework for building lifecycle-aware architecture components.
 - [Swiftkube](https://github.com/swiftkube/client) - Swift client for Kubernetes.
 - [LogDog](https://github.com/luoxiu/LogDog) - User-friendly logging.
+- [KeychainItem](https://github.com/objcio/keychain-item) - Keychain Item Property Wrapper.
 
 ## Other (not lib)
 

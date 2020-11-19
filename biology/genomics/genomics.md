@@ -39,3 +39,4 @@
 - [There is little chance CRISPR will ever be widely used to directly treat disease (2020)](http://www.josiahzayner.com/2020/10/crispr-is-dead.html) ([HN](https://news.ycombinator.com/item?id=25096386))
 - [misha](https://github.com/tanaylab/misha) - Genomic data analysis suite.
 - [MetaCell R](https://github.com/tanaylab/metacell) - Single-cell mRNA Analysis.
+- [nf-core/eager](https://github.com/nf-core/eager) - Bioinformatics best-practice analysis pipeline for NGS sequencing based ancient DNA (aDNA) data analysis.

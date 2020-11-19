@@ -28,7 +28,6 @@
 - [Kitten Tricks](https://github.com/akveo/kittenTricks) - Starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [Nars](https://github.com/nars-dev/nars) - Server rendered React Native.
 - [react-native-dark-mode](https://github.com/codemotionapps/react-native-dark-mode) - Detect dark mode in React Native.
-- [Ordinary Puzzles](https://github.com/mmazzarolo/ordinary-puzzles-app) - Mobile puzzle game built with React-Native.
 - [React Native Tab View](https://github.com/react-native-community/react-native-tab-view) - Cross-platform Tab View component for React Native.
 - [React Native — Monorepos & Code Sharing (2020)](https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417)
 - [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules)

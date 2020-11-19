@@ -89,3 +89,4 @@
 - [SwiftIO](https://github.com/madmachineio/SwiftIO) - Swift framework for microcontrollers.
 - [MadMachine](https://www.madmachine.io/) - Swift for microcontrollers. ([GitHub](https://github.com/madmachineio))
 - [stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F4 family.
+- [Cubesat Space Protocol](https://github.com/libcsp/libcsp) - Small protocol stack written in C. CSP is designed to ease communication between distributed embedded systems in smaller networks, such as Cubesats.

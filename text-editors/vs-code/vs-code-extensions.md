@@ -43,6 +43,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
 - [Adobe XD](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) - Design systems in VS Code.
 - [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view) - Display documentation in the sidebar or panel. ([Code](https://github.com/mattbierner/vscode-docs-view))
 - [MetaGo](https://github.com/metaseed/metaGo) - Provides fast cursor movement/selection for keyboard focused users in vscode.

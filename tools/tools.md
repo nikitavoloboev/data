@@ -224,6 +224,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
 - [Slite](https://slite.com/) - Bring clarity to your team.
+- [Mugshot Bot](https://www.mugshotbot.com/) - Automated link previews - no design tools needed.
 - [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
 - [Lattice](https://lattice.com/) - Performance management and employee engagement.
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.

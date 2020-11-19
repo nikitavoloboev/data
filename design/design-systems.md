@@ -92,3 +92,4 @@
 - [UI Guideline - Component Standardization](https://www.uiguideline.com/components) - Definitive guide to standardize the design/code of UI Components.
 - [Design Systems Figma (2020)](https://designsystemsforfigma.com/blog/design-to-engineering-handoff)
 - [Introduction to Design Systems for UX/UI Designers (2020)](https://hackernoon.com/introduction-to-design-systems-for-uxui-designers-f1223z7x)
+- [Design Systems Benchmark](https://github.com/turolopezsanabria/Design-Systems)

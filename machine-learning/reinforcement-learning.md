@@ -133,3 +133,6 @@
 - [DeepMind Lab2D](https://github.com/deepmind/lab2d) - Flexible and fast engine for rapidly creating 2D environments. Built for RL, and well suited for the needs of multi-agent research. ([Paper](https://arxiv.org/abs/2011.07027)) ([HN](https://news.ycombinator.com/item?id=25122080))
 - [Understanding RL Vision (2020)](https://distill.pub/2020/understanding-rl-vision/)
 - [PettingZoo](https://github.com/PettingZoo-Team/PettingZoo) - Python library for conducting research in multi-agent reinforcement learning. It's akin to a multi-agent version of OpenAI's Gym library.
+- [DeepMind Hard Eight Tasks](https://github.com/deepmind/dm_hard_eight) - Set of 8 diverse machine-learning tasks that require exploration in partially observable environments to solve.
+- [TetrisRL](https://github.com/jaybutera/tetrisRL) - Tetris environment to train machine learning agents.
+- [Deep Reinforcement Learning: Pong from Pixels (2016)](https://karpathy.github.io/2016/05/31/rl/)

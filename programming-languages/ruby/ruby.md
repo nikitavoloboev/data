@@ -41,3 +41,4 @@
 - [Why's (Poignant) Guide to Ruby (2004)](https://poignant.guide/book/chapter-2.html) ([HN](https://news.ycombinator.com/item?id=25043544))
 - [Ruby Refinements Have One Good Use Case (2020)](http://www.soulcutter.com/articles/ruby-refinements-have-one-good-use-case.html)
 - [rspec-core](https://github.com/rspec/rspec-core) - RSpec runner and formatters.
+- [My Beef With RuboCop (2020)](https://www.rubypigeon.com/posts/my-beef-with-rubocop/)
