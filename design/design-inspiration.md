@@ -302,6 +302,7 @@ Here are few more things I liked, design wise.
 - [Steve Ruiz](https://steveruiz.me/) ([Code](https://github.com/steveruizok/personal-blog))
 - [Tinnei](https://tinnei.today/index.html)
 - [Stéphanie Walter](https://stephaniewalter.design/)
+- [Alyssa X](https://alyssax.com/)
 - [Carlos Becker](https://carlosbecker.com/) ([Code](https://github.com/caarlos0/carlosbecker.com))
 - [Nienke Dekker](https://nienke.dev/)
 - [Stefan Baumgartner](https://fettblog.eu/)

@@ -28,3 +28,4 @@
 - [Oxbotica](https://www.oxbotica.com/) - Autonomous vehicle software company located in Oxford, UK.
 - [Why Tesla's Full Self-Driving Is Such A Big Deal: 4D Data Continuity & Trajectory Projection (2020)](https://cleantechnica.com/2020/11/07/why-teslas-full-self-driving-is-such-a-big-deal-4d-data-continuity-trajectory-projection/)
 - [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
+- [Neural Network Cars and Genetic Algorithms (2020)](https://www.youtube.com/watch?v=-sg-GgoFCP0)

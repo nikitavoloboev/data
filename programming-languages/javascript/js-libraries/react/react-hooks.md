@@ -99,3 +99,4 @@
 - [proper useState use](https://twitter.com/0xca0a/status/1314326386555924480)
 - [A Simple Explanation of React.useEffect() (2020)](https://dmitripavlutin.com/react-useeffect-explanation/)
 - [Polling in React using the useInterval Custom Hook (2020)](https://blog.asayer.io/polling-in-react-using-the-useinterval-custom-hook)
+- [Deep dive: How do React hooks really work? (2019)](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)

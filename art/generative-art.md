@@ -81,3 +81,4 @@
 - [Olab's generative art](https://www.oppenlab.net/ge/)
 - [Recreating the OFFF by Night opening shot in Houdini (2019)](http://seenaburns.com/2019/06/20/recreating-offf-opening-shot/)
 - [yyz](https://github.com/mattdesl/yyz) - Experimental generative art toolkit based on JSX and esbuild.
+- [Vodka](https://github.com/eeeeaaii/vodka) - Creative Coding Environment. ([HN](https://news.ycombinator.com/item?id=25152882))

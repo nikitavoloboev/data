@@ -195,3 +195,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade](https://github.com/mozilla/crlite)
 - [Doca (Russian)](https://y-doka.site/) - HTML/CSS/JS documentation. ([Code](https://github.com/Y-Doka/y-doka.site))
 - [Moon Highway](https://moonhighway.com/) - Professional web development trainings. ([GitHub](https://github.com/MoonHighway))
+- [Exploiting dynamic rendering engines to take control of web apps (2020)](https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/)

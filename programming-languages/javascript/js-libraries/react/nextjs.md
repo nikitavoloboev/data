@@ -134,3 +134,4 @@
 - [Next Apollo](https://github.com/adamsoffer/next-apollo) - Package for using Apollo within a Next.js application.
 - [next-google-fonts](https://github.com/joe-bell/next-google-fonts) - Tiny next/head helper for loading Google Fonts fast and asynchronously.
 - [Automatically optimize images on a Next.js MDX Blog (2020)](https://noahfleischmann.com/blog/next-image-optimization)
+- [Build a site from scratch with Next.js, TypeScript, Emotion and Netlify](https://egghead.io/playlists/build-a-blog-with-next-js-typescript-emotion-and-netlify-adcc)
