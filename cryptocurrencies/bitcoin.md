@@ -1,5 +1,9 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
+## Notes
+
+- [Bitcoin is both trust-minimized (even more than gold) yet quite unlike gold digital & easily transferable in its trust-minimized form. It's an unprecedentedly superior form of money, but like anything else new traded in a free market, its historical journey starts off volatile.](https://twitter.com/NickSzabo4/status/1328759197769502722)
+
 ## Links
 
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers.

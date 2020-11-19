@@ -21,3 +21,4 @@
 - [3d portrait of Erica](https://twitter.com/SpriggsIan/status/1313692911339368450)
 - [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) - 3D software suite.
 - [Livox LiDAR 3D scanner](https://github.com/Livox-SDK/livox_scanner)
+- [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - Command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
