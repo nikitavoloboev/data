@@ -50,3 +50,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [sbang](https://github.com/spack/sbang) - Run scripts with very long shebang lines. ([Lobsters](https://lobste.rs/s/rin6rc/sbang_lets_you_run_scripts_with_very_long))
 - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - Open source, community-driven framework for managing your bash configuration.
 - [An Awful Edge Case in Bash's set -e (2020)](http://jbrot.com/blog/dash_e_problems.html)
+- [Variant](https://github.com/mumoshu/variant2) - Turn your bash scripts into a modern, single-executable CLI app.

@@ -227,7 +227,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Explore Apple's new Swift logging API for iOS 14 (2020)](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/)
 - [WWDC By Topics](https://airtable.com/shrBnfnUp4DpC6ktO/tblG1cvawBxvA6wUS)
 - [checkra1n](https://checkra.in/) - Jailbreak for iPhone 5s though iPhone X, iOS 12.3 and up.
-- [CALayer Tutorial for iOS](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started?utm_content=buffer27a4b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [CALayer Tutorial for iOS](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started)
 - [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/)
 - [A Multithreading Saga (2020)](https://cashapp.github.io/2020-07-07/a-multithreading-saga-part-1) - Three part series discussing recent performance improvements we made in our iOS app.
 - [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/) ([HN](https://news.ycombinator.com/item?id=23919175))

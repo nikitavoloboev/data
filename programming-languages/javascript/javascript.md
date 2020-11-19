@@ -220,7 +220,7 @@
 - [npmview](https://npmview.now.sh/) - Web application to view npm package files. ([Code](https://github.com/pd4d10/npmview))
 - [Metadata Reflection API for JS](https://github.com/rbuckton/reflect-metadata)
 - [SurviveJS](https://survivejs.com/) - Learn JavaScript. From apprentice to master.
-- [Composing Closures and Callbacks in JavaScript (2020)](https://egghead.io/playlists/composing-closures-and-callbacks-in-javascript-1223?utm_source=twitter&utm_campaign=javascript&utm_content=announce)
+- [Composing Closures and Callbacks in JavaScript (2020)](https://egghead.io/playlists/composing-closures-and-callbacks-in-javascript-1223)
 - [CJS Module Lexer](https://github.com/guybedford/cjs-module-lexer) - Fast lexer to extract named exports via analysis from CommonJS modules.
 - [JavaScript minification (2019)](http://neugierig.org/software/blog/2019/04/js-minifiers.html)
 - [export-size](https://github.com/antfu/export-size) - Analysis bundle cost for each export of an ESM package.

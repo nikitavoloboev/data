@@ -21,6 +21,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [`defaults write NSGlobalDomain KeyRepeat -int 1` setup keyboard repeat.](https://twitter.com/jordwalke/status/1230582824224165888)
 - [Can select text from middle of link's text by holding down alt while you drag and select with the mouse](https://twitter.com/MBoffin/status/1218668903586394112)
 - [plutil tool support the generation of Swift or Objective-C code directly from plists. For example: plutil -convert swift.](https://twitter.com/dmartincy/status/1295029196503351298)
+- [To code sign binaries ad hoc, run `codesign -s - <path_to_binary>`.](https://github.com/golang/go/issues/42684) This will give users a gatekeeper warning but they could still run the binary. To sign so users can run binary without warning, you need Apple developer account.
 
 ## Links
 

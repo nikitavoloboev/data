@@ -50,7 +50,7 @@
 - [SpawnFest](https://spawnfest.github.io/) - Annual free online BEAM-related development competition.
 - [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/titles/fhproper/property-based-testing-with-proper-erlang-and-elixir/)
 - [A Pipeline Made of Airbags (2020)](https://ferd.ca/a-pipeline-made-of-airbags.html) ([Lobsters](https://lobste.rs/s/uuex13/pipeline_made_airbags))
-- [Caramel](https://github.com/AbstractMachinesLab/caramel) - Erlang backend to the OCaml compiler.
+- [Caramel](https://github.com/AbstractMachinesLab/caramel) - Erlang backend to the OCaml compiler. ([Introducing Caramel](https://www.erlang-solutions.com/blog/introducing-caramel-an-erlang-backend-for-the-ocaml-compiler-that-provides-a-fast-type-checker-for-beam-based-technologies.html))
 - [Elli](https://github.com/elli-lib/elli) - Erlang web server for HTTP APIs.
 - [A brief introduction to BEAM (2020)](https://blog.erlang.org/a-brief-BEAM-primer/) ([HN](https://news.ycombinator.com/item?id=24837640))
 - [The BEAM marches forward (2020)](https://underjord.io/the-beam-marches-forward.html)
@@ -61,3 +61,4 @@
 - [system_monitor](https://github.com/klarna-incubator/system_monitor) - BEAM VM monitoring and introspection application that helps troubleshooting live systems.
 - [Chasing a Performance Regression with Erlang/OTP 22 (2020)](https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html)
 - [Pyrlang](https://github.com/Pyrlang/Pyrlang) - Drop-in Erlang node implementation in Python 3.5, implementing a network Erlang node protocol.
+- [Planet Erlang](http://www.planeterlang.com/) - Meta blog that collects posts from the blogs of various Erlang developers and contributors. ([Code](https://github.com/stevenproctor/planet-erlang))
