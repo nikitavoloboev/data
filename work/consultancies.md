@@ -144,6 +144,7 @@
 - [Technokrat](https://technokrat.ch/)
 - [Dwarves Foundation](https://dwarves.foundation/) ([GitHub](https://github.com/dwarvesf))
 - [Beautiful Interactions](https://beautifulinteractions.com/) - Tailored digital solutions, made beautifully.
+- [Jantcu](https://jantcu.com/) - Web design & tech consulting. ([GitHub](https://github.com/Jantcu))
 
 ## Links
 

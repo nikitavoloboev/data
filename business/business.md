@@ -50,3 +50,4 @@ Learning to build [startups](startups/startups.md).
 - [Gumroad Public Wiki](https://www.notion.so/Public-Wiki-72663c59ed5a432a9d52accafd8f166e)
 - [Buttondown Running Costs](https://www.notion.so/Running-Costs-f29729ded5494272947f656440967cbf)
 - [What is Amazon? (2019)](https://zackkanter.com/2019/03/13/what-is-amazon/) ([HN](https://news.ycombinator.com/item?id=24878422))
+- [Complete List Of Unicorn Companies](https://www.cbinsights.com/research-unicorn-companies)

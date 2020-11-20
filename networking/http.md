@@ -91,3 +91,4 @@
 - [nuster](https://github.com/jiangwenyuan/nuster) - High-performance HTTP proxy cache server and RESTful NoSQL cache server based on HAProxy.
 - [bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go.
 - [H20](https://github.com/h2o/h2o) - Optimized HTTP/1, HTTP/2, HTTP/3 server. ([Web](https://h2o.examp1e.net/))
+- [Hoppscotch CLI](https://github.com/hoppscotch/hopp-cli) - Send HTTP requests from terminal. An alternative to cURL, httpie.

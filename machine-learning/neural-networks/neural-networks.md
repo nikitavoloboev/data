@@ -168,3 +168,5 @@
 - [Elegy](https://github.com/poets-ai/elegy) - Neural Networks framework based on Jax inspired by Keras and Haiku.
 - [SpinalNet](https://github.com/dipuk0506/SpinalNet) - Deep Neural Network with Gradual Input.
 - [Deeply-supervised Nets](https://github.com/s9xie/DSN)
+- [diagNNose](https://github.com/i-machine-think/diagNNose) - Python library that facilitates a broad set of tools for analysing hidden activations of neural models.
+- [MiniSom](https://github.com/JustGlowing/minisom) - Minimalistic implementation of the Self Organizing Maps.

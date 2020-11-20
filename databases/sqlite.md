@@ -26,3 +26,4 @@
 - [Making SQLite Upserts Snappy (with Python and SQLAlchemy) (2020)](https://flightaware.engineering/making-sqlite-upserts-snappy-with-python-and-sqlalchemy/)
 - [pgsqlite](https://github.com/sanderhahn/pgsqlite) - PostgreSQL extension that embeds SQLite3 and uses large objects as storage.
 - [sqlite-diffable](https://github.com/simonw/sqlite-diffable) - Tools for dumping/loading a SQLite database to diffable directory structure.
+- [hybrid-disk-cache](https://github.com/rjyo/hybrid-disk-cache) - Hybrid disk cache library that utilized both the solid SQLite3 and file system.

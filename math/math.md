@@ -217,3 +217,4 @@
 - [Fematika Video playlists on Math](https://www.youtube.com/c/Fematika/playlists)
 - [The Most Common Errors in Undergraduate Mathematics](https://math.vanderbilt.edu/schectex/commerrs/) ([HN](https://news.ycombinator.com/item?id=25135418))
 - [A History of Mathematical Notations by Florian Cajori](https://archive.org/details/in.ernet.dli.2015.200372)
+- [Visualizing Algebraic Numbers](https://im.icerm.brown.edu/portfolio/visualizing-algebraic-numbers/)

@@ -18,3 +18,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Speeding up drug discovery with advanced machine learning (2020)](https://medium.com/pytorch/speeding-up-drug-discovery-with-advanced-machine-learning-b17d59e0daa6)
 - [Relay Therapeutics](https://relaytx.com/) - Clinical-stage precision medicine company transforming the drug discovery process.
 - [Drug Repurposing Knowledge Graph (DRKG)](https://github.com/gnn4dr/DRKG) - Comprehensive biological knowledge graph relating genes, compounds, diseases, biological processes, side effects and symptoms.
+- [Debunking Crystal Meth Myths | The War on Drugs (2020)](https://www.youtube.com/watch?v=D-VkWkPs1aw)

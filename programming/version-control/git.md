@@ -164,7 +164,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Gerrit Code Review](https://www.gerritcodereview.com/)
 - [Dulwich](https://github.com/dulwich/dulwich) - Pure-Python Git implementation. ([Web](https://www.dulwich.io/))
 - [Ask HN: What are the pros / cons of using monorepos? (2020)](https://news.ycombinator.com/item?id=24719525)
-- [bit](https://github.com/chriswalz/bit) - Modern Git CLI. ([HN](https://news.ycombinator.com/item?id=24751212))
+- [bit](https://github.com/chriswalz/bit) - Modern Git CLI. ([HN](https://news.ycombinator.com/item?id=24751212)) ([Interview With Chris Walz of bit](https://chriswalz.com/posts/an-interview-with-chris-walz-of-bit/))
 - [Copybara Action](https://github.com/olivr/copybara-action) - Transform and move code between repositories. Start with ZERO config and 100% customizable.
 - [Git scraping: track changes over time by scraping to a Git repository (2020)](https://simonwillison.net/2020/Oct/9/git-scraping/) ([HN](https://news.ycombinator.com/item?id=24732943))
 - [Branch Agnostic Git Aliases (2020)](https://aj.codes/post/branch-agnostic-git-aliases/) ([Lobsters](https://lobste.rs/s/z0spf3/branch_agnostic_git_aliases))
@@ -193,3 +193,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git is simply too hard (2020)](https://changelog.com/posts/git-is-simply-too-hard) ([HN](https://news.ycombinator.com/item?id=25121416))
 - [gfold](https://github.com/nickgerace/gfold) - CLI application that helps you keep track of multiple Git repositories.
 - [git-ignore](https://github.com/janniks/git-ignore) - Interactive CLI to generate .gitignore files.
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of git for node and browsers. ([Web](https://isomorphic-git.org/))

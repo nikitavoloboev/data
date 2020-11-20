@@ -16,3 +16,5 @@
 - [Parity Zcash client](https://github.com/paritytech/parity-zcash)
 - [Parity Bitcoin client](https://github.com/paritytech/parity-bitcoin)
 - [Polkadot Wiki](https://github.com/w3f/polkadot-wiki) - Central source of truth for Polkadot.
+- [Polkadot Cross-Consensus Message (XCM) Format](https://github.com/paritytech/xcm-format)
+- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.

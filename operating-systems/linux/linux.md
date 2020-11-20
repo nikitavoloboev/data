@@ -10,6 +10,7 @@
 - [Liquorix](https://liquorix.net/) - Distro kernel replacement built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. ([Why use it](https://github.com/zen-kernel/zen-kernel/issues/30#issuecomment-647045343))
 - [NixOS](nixos.md)
 - [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.
+- [Tiny Core Linux](http://tinycorelinux.net/) - Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable.
 
 ## WM
 
@@ -217,3 +218,4 @@
 - [eBPF - Rethinking the Linux Kernel (2020)](https://www.youtube.com/watch?v=f-oTe-dmfyI)
 - [Linux App Summit 2020](https://www.youtube.com/watch?v=u8SI6AEwMnQ)
 - [Reasons to prefer Linux over Windows (2014)](https://github.com/nbeaver/why-linux-is-better) ([HN](https://news.ycombinator.com/item?id=25104828))
+- [My First Kernel Module: A Debugging Nightmare (2020)](https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html) ([HN](https://news.ycombinator.com/item?id=25153388))

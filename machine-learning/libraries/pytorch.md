@@ -177,3 +177,5 @@
 - [Performer in PyTorch](https://github.com/lucidrains/performer-pytorch) - Implementation of Performer, a linear attention-based transformer, in PyTorch.
 - [GoTch](https://github.com/sugarme/gotch) - Go binding for Pytorch C++ API (libtorch).
 - [auraloss](https://github.com/csteinmetz1/auraloss) - Collection of audio-focused loss functions in PyTorch.
+- [Normalizing flows with PyTorch](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module.
+- [PyTorch Lightning Snippets](https://github.com/awaelchli/pytorch-lightning-snippets)

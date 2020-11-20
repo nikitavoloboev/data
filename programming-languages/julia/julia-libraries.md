@@ -8,6 +8,7 @@
 - [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.
 - [SDDP.jl](https://github.com/odow/SDDP.jl) - Stochastic Dual Dynamic Programming in Julia.
+- [ONNX](https://github.com/FluxML/ONNX.jl) - Read ONNX graphs in Julia.
 
 ## Math
 
@@ -30,6 +31,7 @@
 - [Pingouin.jl](https://github.com/clementpoiret/Pingouin.jl) - Reimplementation of Raphaelvallat's Pingouin in Julia.
 - [StatsModels](https://github.com/JuliaStats/StatsModels.jl) - Specifying, fitting, and evaluating statistical models in Julia.
 - [MathOptInterface](https://github.com/jump-dev/MathOptInterface.jl) - Abstraction layer for mathematical optimization solvers.
+- [TemporalGPs](https://github.com/willtebbutt/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time.
 
 ## Biology
 

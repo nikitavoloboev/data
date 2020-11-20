@@ -136,3 +136,4 @@
 - [DeepMind Hard Eight Tasks](https://github.com/deepmind/dm_hard_eight) - Set of 8 diverse machine-learning tasks that require exploration in partially observable environments to solve.
 - [TetrisRL](https://github.com/jaybutera/tetrisRL) - Tetris environment to train machine learning agents.
 - [Deep Reinforcement Learning: Pong from Pixels (2016)](https://karpathy.github.io/2016/05/31/rl/)
+- [dm_env_rpc](https://github.com/deepmind/dm_env_rpc) - Networking protocol for agent-environment communication.

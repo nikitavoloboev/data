@@ -25,3 +25,4 @@
 - [Cylon](https://github.com/cylondata/cylon) - Fast, scalable distributed memory data parallel library for processing structured data. ([Web](https://cylondata.org/))
 - [cuGraph](https://github.com/rapidsai/cugraph) - GPU Graph Analytics.
 - [Opaque](https://github.com/mc2-project/opaque) - Secure Apache Spark SQL.
+- [Apache Beam](https://github.com/apache/beam) - Unified programming model for Batch and Streaming. ([Web](https://beam.apache.org/))

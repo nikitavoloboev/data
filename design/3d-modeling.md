@@ -22,3 +22,5 @@
 - [Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/) - 3D software suite.
 - [Livox LiDAR 3D scanner](https://github.com/Livox-SDK/livox_scanner)
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - Command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
+- [CadQuery](https://github.com/CadQuery/cadquery) - Intuitive, easy-to-use Python module for building parametric 3D CAD models.
+- [sdfx](https://github.com/deadsy/sdfx) - Simple CAD package using signed distance functions.

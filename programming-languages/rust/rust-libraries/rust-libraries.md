@@ -538,6 +538,8 @@
 - [faerie](https://github.com/m4b/faerie) - Magical ELF and Mach-o object file writer backend.
 - [extendr](https://github.com/extendr/extendr) - Low-level R library bindings.
 - [bumpalo](https://github.com/fitzgen/bumpalo) - Fast bump allocation arena for Rust.
+- [r0](https://github.com/rust-embedded/r0) - Memory initialization code written in Rust.
+- [Lunatic](https://github.com/lunatic-lang/lunatic) - Platform for building actor systems that use WebAssembly instances as actors.
 
 ## Cargo Plugins
 

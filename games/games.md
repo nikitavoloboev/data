@@ -23,6 +23,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [PiAwk](https://www.hiwarp.com/piawk/)
 - [NAiAD](https://www.hiwarp.com/naiad/)
 - [Pure Skill Minesweeper](https://github.andrewt.net/mines/) ([HN](https://news.ycombinator.com/item?id=24181772))
+- [Hanabi](https://hanabi.cards/) - Cooperative card game. ([Code](https://github.com/bstnfrmry/hanabi))
 
 ## Awesome OSS games
 
@@ -69,6 +70,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Unix ASCII games](https://ligurio.github.io/awesome-ttygames/) ([Code](https://github.com/ligurio/awesome-ttygames))
 - [Micro Racing](https://github.com/Mati365/micro-racing) - Multiplayer 3D isometric racing game written in WebGL.
 - [Ordinary Puzzles](https://www.ordinarypuzzles.com/) - Minimalistic puzzle game built using React Native. ([Code](https://github.com/mmazzarolo/ordinary-puzzles-app))
+- [Word Guess](https://j-m-word-guess.herokuapp.com/) - Hangman without the hanging man. ([Code](https://github.com/j-m/word-guess))
 
 ## Awesome games (other)
 

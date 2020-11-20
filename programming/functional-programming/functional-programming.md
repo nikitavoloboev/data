@@ -100,6 +100,7 @@
 - [CS316 “Functional Programming” course (2020)](https://github.com/bobatkey/CS316-2020)
 - [Of Groups and Monads](https://garlandus.co/OfGroupsAndMonads.html) ([Lobsters](https://lobste.rs/s/zzcjr9/groups_monads))
 - [Compositional Podcast](https://www.compositional.fm/) - All about functional programming in practice.
+- [Understanding Combinators using Elm](https://discourse.elm-lang.org/t/understanding-combinators/6425)
 
 ## Images
 

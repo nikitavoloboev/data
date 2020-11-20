@@ -102,3 +102,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Open Food Facts](https://world.openfoodfacts.org/) - Gathers information and data on food products from around the world.
 - [Falling Fruit](http://fallingfruit.org/) - Massive, collaborative map of the urban harvest.
 - [Grapefruit Is One of the Weirdest Fruits on the Planet](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)
+- [OneSoil](https://onesoil.ai/en/) - Free precision farming apps.

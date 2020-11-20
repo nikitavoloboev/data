@@ -257,3 +257,8 @@
 - [kube-rs](https://github.com/clux/kube-rs) - Kubernetes client and futures controller runtime.
 - [Cloud Development Kit for Kubernetes](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming. ([Web](https://cdk8s.io/))
 - [How to get started contributing to Kubernetes (2020)](https://twitter.com/dims/status/1329400522890219520)
+- [BuildKit CLI for kubectl](https://github.com/vmware-tanzu/buildkit-cli-for-kubectl) - Tool for building container images with your Kubernetes cluster.
+- [KubeVela](https://github.com/oam-dev/kubevela) - Easy-to-use tool that enables them to describe and ship their applications to Kubernetes with minimal effort. ([Docs](https://kubevela.io/#/en/quick-start))
+- [Swoll](https://github.com/criticalstack/swoll) - Suite of applications and APIs for monitoring kernel-level activity on a live Kubernetes cluster.
+- [illuminatio](https://github.com/inovex/illuminatio) - Tool for automatically testing kubernetes network policies.
+- [Metacontroller](https://github.com/metacontroller/metacontroller) - Add-on for Kubernetes that makes it easy to write and deploy custom controllers in the form of simple scripts.

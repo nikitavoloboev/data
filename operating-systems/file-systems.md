@@ -25,3 +25,4 @@
 - [Practical File System Design (1999)](http://www.nobius.org/dbg/practical-file-system-design.pdf)
 - [Virtual filesystem: fun and profit (2019)](https://abbyssoul.github.io/engineering/2019/11/25/vfs-for-fun-and-profit.html)
 - [Files Are Fraught with Peril (2019)](https://danluu.com/deconstruct-files/) ([HN](https://news.ycombinator.com/item?id=25090760))
+- [An Introduction to ZFS (2020)](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/) ([HN](https://news.ycombinator.com/item?id=25157491))

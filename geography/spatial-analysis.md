@@ -34,3 +34,4 @@
 - [Solaris](https://github.com/CosmiQ/solaris) - Geospatial Machine Learning Analysis Toolkit.
 - [GeoJSON Vector Tiles](https://github.com/mapbox/geojson-vt) - Slice GeoJSON into vector tiles on the fly in the browser.
 - [I Hate Coordinate Systems](https://ihatecoordinatesystems.com/) ([HN](https://news.ycombinator.com/item?id=24917394))
+- [contextily](https://github.com/geopandas/contextily) - Context geo tiles in Python.

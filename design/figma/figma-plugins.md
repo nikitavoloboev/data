@@ -40,3 +40,4 @@
 - [Figma Plugin React Template](https://github.com/mattpocock/figma-xstate-plugin)
 - [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) - Making design tokens a single source of truth for designers and developers using Figma. ([Code](https://github.com/six7/figma-tokens))
 - [Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens) - Export Figma styles and custom tokens to a style dictionary ready json or sync to github.
+- [Looper](https://github.com/kuldar/figma-looper) - Figma plugin for creating trippy generated graphics. Works with any Vector, Shape or Text layer.

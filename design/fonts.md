@@ -54,6 +54,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Roboto Flex](https://github.com/TypeNetwork/Roboto-Flex) - Upgrades Roboto to become a more powerful Variable Font, allowing youu to do more to express and finesse your text.
 - [Barlow](https://github.com/jpt/barlow) - Slightly rounded, low-contrast, grotesk type family.
 - [IBM Plex typeface](https://github.com/IBM/plex)
+- [Monoid](https://larsenwork.com/monoid/) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. ([Code](https://github.com/larsenwork/monoid))
 
 ## Links
 
@@ -165,3 +166,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typogram](https://typogram.vercel.app/) - Create nice-looking, minimalistic graphics that focus on a short snippet of text for sharing on the web. ([Code](https://github.com/thesephist/typogram))
 - [Tips for making variable fonts](https://github.com/scribbletone/i-can-variable-font)
 - [Scaling custom fonts automatically with Dynamic Type (2020)](https://sarunw.com/posts/scaling-custom-fonts-automatically-with-dynamic-type/)
+- [Dev Fonts](https://devfonts.gafi.dev/) - List of fonts for coding. ([Code](https://github.com/Gaafar/dev-fonts)) ([HN](https://news.ycombinator.com/item?id=25159038))

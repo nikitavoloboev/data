@@ -17,3 +17,5 @@
 - [Grid Modeler (blender addon)](https://gumroad.com/l/VthLyO)
 - [BCON20 – Blender Conference: Together Apart (2020)](https://www.youtube.com/watch?v=uEjmbsiflMU) ([HN](https://news.ycombinator.com/item?id=24951550))
 - [Point Cloud Visualizer](https://github.com/uhlik/bpy) - Blender python scripts.
+- [Blender 2.8 Beginner Tutorial Series (2019)](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
+- [Introduction to blender scripting](https://github.com/njanakiev/blender-scripting)

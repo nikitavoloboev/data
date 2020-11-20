@@ -38,6 +38,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Gridsome](https://gridsome.org/) - Modern Site Generator for Vue.js. ([Code](https://github.com/gridsome/gridsome))
 - [Cobalt](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust.
 - [Elder.js](https://github.com/Elderjs/elderjs) - SEO focused, Svelte Framework & Static Site Generator.
+- [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
 
 ## Notes
 
@@ -74,3 +75,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Static School](https://staticschool.com/) - Compare Static Site Generators. ([Code](https://github.com/errata-ai/static-school))
 - [SSG Build Performance Comparison](https://github.com/seancdavis/ssg-build-performance-tests) - Measures the build performance at scale for static site generators.
 - [Edge Cached Static Sites on CloudFlare (2020)](https://hugotunius.se/2020/01/01/edge-cached-static-sites-on-cloudflare.html)
+- [Surge](https://surge.sh/) - Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.

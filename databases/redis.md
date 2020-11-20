@@ -37,3 +37,4 @@
 - [redismodule-rs](https://github.com/RedisLabsModules/redismodule-rs) - Idiomatic Rust API for the Redis Modules API. It allows writing Redis modules in Rust, without needing to use raw pointers or unsafe code.
 - [handy-redis](https://github.com/mmkal/handy-redis) - Wrapper around node_redis with Promise and TypeScript support.
 - [Pydis](https://github.com/boramalper/pydis) - Redis clone in 250 lines of Python, for performance comparison. ([HN](https://news.ycombinator.com/item?id=25100218))
+- [Building a Scalable ML Feature Store with Redis (2020)](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)

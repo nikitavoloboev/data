@@ -107,3 +107,4 @@
 - [Mesa](https://github.com/mesa3d/mesa) - 3D Graphics Library. ([Web](https://mesa3d.org/))
 - [A Comparison of Modern Graphics APIs (2020)](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 - [Fluid Engine Dev - Jet](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine SDK for computer graphics applications. ([Web](https://fluidenginedevelopment.org/))
+- [meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render.

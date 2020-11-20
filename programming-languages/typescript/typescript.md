@@ -122,6 +122,7 @@
 - [TypeScript Coverage Report](httpsn://github.com/alexcanessa/typescript-coverage-report) - Node command line tool for generating TypeScript coverage reports.
 - [ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - Finds unused exported symbols in your Typescript project.
 - [Learn TypeScript: A Pocketguide Tutorial (2020)](https://www.prisma.io/blog/learn-typescript-a-pocketguide-tutorial-q329XmXQHUjz)
+- [TypeScript 4.1 (2020)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/) ([HN](https://news.ycombinator.com/item?id=25155627))
 
 ## Images
 

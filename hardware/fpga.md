@@ -37,3 +37,4 @@
 - [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - FPGA friendly 32 bit RISC-V CPU implementation.
 - [LiteX-Hub](https://github.com/litex-hub) - Collaborative FPGA projects around LiteX.
 - [FPGA 101 lessons/labs](https://github.com/litex-hub/fpga_101)
+- [FPGA Hackathon & Conference](https://fpgahackathon.com/)

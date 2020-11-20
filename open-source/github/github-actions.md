@@ -67,6 +67,8 @@
 - [Release Please Action](https://github.com/google-github-actions/release-please-action) - Automate releases with Conventional Commit Messages.
 - [Respond to Issue Based on Label](https://github.com/hramos/respond-to-issue-based-on-label) - Bot that responds with a comment whenever a particular label is applied to an issue.
 - [Create or Update Comment](https://github.com/peter-evans/create-or-update-comment) - GitHub action to create or update an issue or pull request comment.
+- [pre-commit/action](https://github.com/pre-commit/action) - GitHub action to run pre-commit.
+- [CodeQL Action](https://github.com/github/codeql-action) - Runs GitHub's industry-leading static analysis engine, CodeQL, against a repository's source code to find security vulnerabilities.
 
 ## Go
 

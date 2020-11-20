@@ -149,3 +149,4 @@
 - [Holistically-Nested Edge Detection](https://github.com/s9xie/hed)
 - [pycls](https://github.com/facebookresearch/pycls) - Image classification codebase, written in PyTorch.
 - [PyTorch implementation of High-Fidelity Generative Image Compression + Routines for neural image compression](https://github.com/Justin-Tan/high-fidelity-generative-compression)
+- [How Useful is Self-Supervised Pretraining for Visual Tasks?](https://github.com/princeton-vl/selfstudy)

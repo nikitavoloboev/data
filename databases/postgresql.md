@@ -175,3 +175,4 @@
 - [Viva the NoSQL Postgres - Alexande Korotkov (2019)](https://www.youtube.com/watch?v=70dBszaO67A)
 - [The Basics of Views and Materialized Views in PostgreSQL](https://supabase.io/blog/2020/11/18/postgresql-views/)
 - [Writing a Postgres Foreign Data Wrapper for Clickhouse in Go (2020)](https://arunsori.me/posts/postgres-clickhouse-fdw-in-go/) ([HN](https://news.ycombinator.com/item?id=25153782))
+- [RUM access method](https://github.com/postgrespro/rum) - Provides access method to work with RUM index. It is based on the GIN access methods code. Can be used for full text search.

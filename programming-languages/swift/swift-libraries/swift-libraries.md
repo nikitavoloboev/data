@@ -482,6 +482,7 @@
 - [Swiftkube](https://github.com/swiftkube/client) - Swift client for Kubernetes.
 - [LogDog](https://github.com/luoxiu/LogDog) - User-friendly logging.
 - [KeychainItem](https://github.com/objcio/keychain-item) - Keychain Item Property Wrapper.
+- [SwiftNIO SSH](https://github.com/apple/swift-nio-ssh) - Programmatic implementation of SSH using SwiftNIO. ([Article](https://swift.org/blog/swiftnio-ssh/)) ([HN](https://news.ycombinator.com/item?id=25157942))
 
 ## Other (not lib)
 

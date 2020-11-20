@@ -44,6 +44,7 @@
 - [Next.js plugin for preact X](https://github.com/preactjs/next-plugin-preact)
 - [next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered pages.
 - [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in Netlify builds.
+- [next-boost](https://github.com/rjyo/next-boost) - Middleware which adds a disk cache layer to your SSR applications. Was built originally for Next.js SSR applications and can be used in any node.js http.Server based application.
 
 ## Notes
 

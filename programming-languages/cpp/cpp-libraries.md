@@ -134,6 +134,7 @@
 - [TensorRT](https://github.com/NVIDIA/TensorRT) - C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 - [Hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors.
 - [Non-Metric Space Library (NMSLIB)](https://github.com/nmslib/nmslib) - Efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
+- [Dyno](https://github.com/ldionne/dyno) - Runtime polymorphism done right.
 
 ## Links
 

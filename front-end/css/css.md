@@ -234,3 +234,4 @@
 - [no.css](https://github.com/mdipierro/no.css) - Tiny CSS framework with almost no classes and some pure CSS effects.
 - [16 CSS Secrets to improve Web Designs (2020)](https://codecoda.com/en/blog/entry/16-css-secrets-to-improve-web-designs)
 - [Hell Yes! CSS!](https://wizardzines.com/zines/css/) - CSS Zines.
+- [Easing Gradients](https://larsenwork.com/easing-gradients/) - Create and preview your own easing gradients in CSS. ([Code](https://github.com/larsenwork/postcss-easing-gradients))

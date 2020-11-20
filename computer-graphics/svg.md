@@ -55,3 +55,4 @@
 - [Svglib](https://github.com/deeplook/svglib) - Pure-Python library for reading and converting SVG.
 - [IconPark](https://github.com/bytedance/IconPark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons, SVG icons.
 - [PSVG](https://github.com/LingDong-/psvg) - Programmable SVG. Introduces programming language features like functions, control flows, and variables.
+- [Loaf](https://getloaf.io/) - Animated SVG icon library.

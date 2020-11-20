@@ -60,3 +60,4 @@
 - [JungleJS](https://github.com/junglejs/junglejs) - Jamstack static site framework for Svelte. ([Web](https://www.junglejs.org/))
 - [Malina.js](https://github.com/malinajs/malinajs) - Builds your web-application to use it without framework on frontend side. Inspired by Svelte.
 - [Svelte-Awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons.
+- [Svelte + TailwindCSS 2.0 + RollupJS starter](https://github.com/breadthe/svelte-tailwind2-starter)

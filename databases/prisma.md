@@ -24,3 +24,4 @@
 - [Prisma's Data Guide](https://dataguide.prisma.io/) - Educational articles to make databases more approachable. ([Code](https://github.com/prisma/dataguide))
 - [Prisma Client Go](https://github.com/prisma/prisma-client-go) - Typesafe database access for Go.
 - [TypeGraphQL & Prisma 2 integration](https://github.com/MichalLytek/typegraphql-prisma) - Prisma 2 generator to emit TypeGraphQL types and CRUD resolvers from your Prisma 2 schema.
+- [Nexus Shield](https://github.com/Sytten/nexus-shield) - Nexus plugin to ease the creation of the authorization layer.

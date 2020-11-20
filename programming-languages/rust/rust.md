@@ -375,3 +375,4 @@
 - [40 Ms Bug (2020)](https://vorner.github.io/2020/11/06/40-ms-bug.html) - Small story about tracking down a production bug in a Rust application. ([Lobsters](https://lobste.rs/s/u9oi5p/40_millisecond_bug))
 - [Demystifying Asynchronous Rust](https://teh-cmc.github.io/rust-async/html/) ([Code](https://github.com/teh-cmc/rust-async))
 - [Rust Language Design Team](https://lang-team.rust-lang.org/) - Language design team is generally responsible for decisions involving the design of the Rust language itself, such as its syntax, semantics, or specification. ([Code](https://github.com/rust-lang/lang-team))
+- [The Usability of Ownership in Rust (2020)](https://arxiv.org/abs/2011.06171)

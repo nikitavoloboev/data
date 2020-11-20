@@ -3,6 +3,7 @@
 ## Notes
 
 - [Bitcoin is both trust-minimized (even more than gold) yet quite unlike gold digital & easily transferable in its trust-minimized form. It's an unprecedentedly superior form of money, but like anything else new traded in a free market, its historical journey starts off volatile.](https://twitter.com/NickSzabo4/status/1328759197769502722)
+- [At this point, of all the things Bitcoin can do that other financial assets can't (pseudo-anonymous, extremely hard to confiscate, can be moved quasi instantaneously across borders, demonstrably finite supply, can be use as a settlement layer for large players, etc ...) the one aspect that I believe attracts people is "store of value". Many people contest that last property citing high volatility, and they're correct if your window is less than 4 years. But for folks who play the long game, supply and demand tells a very compelling story for Bitcoin.](https://news.ycombinator.com/item?id=25157946)
 
 ## Links
 
@@ -57,3 +58,4 @@
 - [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) - Desktop GUI for Bitcoin Core optimised to work with hardware wallets.
 - [Merkle trees in Git and Bitcoin (2020)](https://initialcommit.com/blog/git-bitcoin-merkle-tree)
 - [Chaincode Labs](https://chaincode.com/) - Exists to support Bitcoin.
+- [Notes and ideas for development work on Bitcoin Core](https://github.com/jonatack/bitcoin-development)

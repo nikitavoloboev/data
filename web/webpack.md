@@ -38,3 +38,4 @@
 - [esbuild-loader](https://github.com/privatenumber/esbuild-loader) - Speed up your Webpack build with esbuild.
 - [ESLint plugin for webpack](https://github.com/webpack-contrib/eslint-webpack-plugin)
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - Chaining API to generate and simplify the modification of Webpack configurations.
+- [Webpack site code](https://github.com/webpack/webpack.js.org)

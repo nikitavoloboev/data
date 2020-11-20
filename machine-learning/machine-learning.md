@@ -345,3 +345,5 @@
 - [Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf) ([Code](https://github.com/musikalkemist/DeepLearningForAudioWithPython))
 - [Awesome Tensor Compilers](https://github.com/merrymercy/awesome-tensor-compilers)
 - [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for Machine Learning Security.
+- [How Attention works in Deep Learning (2020)](https://theaisummer.com/attention/)
+- [Brain Tokyo Workshop](https://github.com/google/brain-tokyo-workshop) - Research materials released by members of the Google Brain team in Tokyo.

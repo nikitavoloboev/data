@@ -166,3 +166,4 @@
 - [graphql-schema-registry](https://github.com/pipedrive/graphql-schema-registry) - Graphql schema storage as dockerized on-premise service for federated graphql gateway server (based on apollo server) as alternative to Apollo studio.
 - [Incremental Rewrites with GraphQL (2020)](https://blog.khanacademy.org/incremental-rewrites-with-graphql/)
 - [GraphQL Onboarding](https://github.com/MoonHighway/graphql-onboarding) - Course materials for an onboarding to GraphQL program.
+- [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client written in Python.

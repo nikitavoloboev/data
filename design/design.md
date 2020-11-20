@@ -148,3 +148,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Chasing the Pixel-Perfect Dream (2020)](https://joshwcomeau.com/css/pixel-perfection/) ([HN](https://news.ycombinator.com/item?id=25023282))
 - [Summary of My Work at Figma](https://rsms.me/work/figma/)
 - [The Merveilles Sensibility (2020)](https://wileywiggins.com/merveilles.html) - Solutioning for technological resilience.
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Free & open-source 2D sprite editor, made with the Godot Engine. ([Web](https://orama-interactive.itch.io/pixelorama))

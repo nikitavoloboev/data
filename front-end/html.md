@@ -82,3 +82,4 @@
 - [minify-html](https://github.com/wilsonzlin/minify-html) - Fast and smart HTML + JS minifier, available for Rust, Node.js, Python, Java, and Ruby.
 - [HTML & CSS Is Hard | Friendly web development tutorial](https://www.internetingishard.com/html-and-css/)
 - [imperative-html](https://github.com/johnnesky/imperative-html) - Small JavaScript library for creating HTML (and SVG) elements in a web browser.
+- [lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as strings or streams (and in the browser too).

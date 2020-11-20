@@ -76,6 +76,7 @@
 - [oazapfts](https://github.com/cellular/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers.
 - [pattern-matching-ts](https://github.com/nrdlab/pattern-matching-ts) - Pattern matching in TypeScript.
 - [txstate](https://github.com/devanshj/txstate) - Effort to statically type xstate.
+- [RemoteData type](https://github.com/devexperts/remote-data-ts) - ADT (algebraic data type) for typing remote data.
 
 ## Links
 

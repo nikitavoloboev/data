@@ -229,6 +229,8 @@
 - [jsons](https://github.com/ramonhagenaars/jsons) - Python lib for (de)serializing Python objects to/from JSON.
 - [aiosmtpd](https://github.com/aio-libs/aiosmtpd) - Asyncio based SMTP server.
 - [Faker](https://github.com/joke2k/faker) - Python package that generates fake data for you.
+- [Autoimport](https://github.com/lyz-code/autoimport) - Automatically fixes wrong import statements.
+- [Lcapy](https://github.com/mph-/lcapy) - Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
 ## Links
 

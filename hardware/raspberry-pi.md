@@ -51,3 +51,4 @@
 - [Raspberry Pi 4 UEFI Firmware Images](https://github.com/pftf/RPi4)
 - [Making Pi ServerReady](https://rpi4-uefi.dev/) - SBBR-compliant (UEFI+ACPI) AArch64 firmware for the Raspberry Pi 4.
 - [Source code for ARM side libraries for interfacing to Raspberry Pi GPU](https://github.com/raspberrypi/userland)
+- [Shaking Down the Raspberry Pi 400 (2020)](https://www.pluralsight.com/blog/software-development/raspberry-pi-400)

@@ -33,7 +33,7 @@
 - [qu3e](https://github.com/RandyGaul/qu3e) - Lightweight and Simple 3D Open Source Physics Engine in C++.
 - [Falltergeist](https://github.com/falltergeist/falltergeist) - Open source cross platform Fallout 2™ game engine written in C++ and SDL.
 - [Vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine in Rust.
-- [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation.
+- [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation. ([Web](https://www.minetest.net/))
 - [Crow](https://github.com/lcnr/crow) - Simple pixel perfect 2D rendering engine in Rust. ([Akari - game built with Crow](https://github.com/lcnr/akari))
 - [Defold](https://defold.com/) - Ultimate game engine for web and mobile. ([Code](https://github.com/defold/defold)) ([HN](https://news.ycombinator.com/item?id=23232648))
 - [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences. ([Web](https://www.planimeter.org/grid-sdk/)) ([HN](https://news.ycombinator.com/item?id=23449224))
@@ -51,6 +51,7 @@
 - [Rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance. In Rust. ([Web](https://rapier.rs/))
 - [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Complete 3D game development suite written purely in Java. ([Web](https://jmonkeyengine.org/))
 - [Dotrix](https://github.com/lowenware/dotrix) - 3D Game Engine written in Rust.
+- [Physics3D](https://github.com/ThePhysicsGuys/Physics3D) - 3D physics engine, written in C++.
 
 ## Physics engines
 

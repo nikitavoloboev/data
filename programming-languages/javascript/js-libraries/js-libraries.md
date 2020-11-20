@@ -24,6 +24,7 @@
 - [JSX Lite](https://github.com/BuilderIO/jsx-lite) - Write components once, run everywhere. Compiles to Vue, React, Solid, Liquid, and more.
 - [Perlite](https://github.com/PaulMaly/perlite) - Hyperactiv + lit-html + extensions. Simple and declarative way to create rich client-side widgets designed with server-side apps in mind.
 - [Democrat](https://github.com/etienne-dldc/democrat) - Library that mimic the API of React (Components, hooks, Context...) but instead of producing DOM mutation it produces a state tree.
+- [Raj](https://github.com/andrejewski/raj) - Elm Architecture for JavaScript.
 
 ## Animation
 
@@ -369,6 +370,7 @@
 - [mime-types](https://github.com/jshttp/mime-types) - JavaScript content-type utility.
 - [match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript.
 - [Fetch Event Source](https://github.com/Azure/fetch-event-source) - Better API for making Event Source requests, with all the features of fetch().
+- [rafz](https://github.com/pmndrs/rafz) - Coordinate requestAnimationFrame calls across your app and/or libraries.
 
 ## Links
 

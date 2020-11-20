@@ -133,3 +133,4 @@
 - [MirBFT Library](https://github.com/IBM/mirbft) - Consensus library implementing the Mir consensus protocol.
 - [Fairness in multi-tenant systems (2020)](https://aws.amazon.com/builders-library/fairness-in-multi-tenant-systems/)
 - [Advanced Distributed Systems Design course](https://particular.net/adsd)
+- [Raft implementation in Go](https://github.com/eliben/raft)

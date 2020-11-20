@@ -24,3 +24,4 @@
 - [Home Assistant Frontend](https://github.com/home-assistant/frontend) ([Web](https://demo.home-assistant.io/))
 - [HAP](https://github.com/mtrudel/hap) - Framework for building DIY HomeKit accessories based on Apple's HomeKit Accessory Protocol Specification.
 - [Circadian Lighting Home Assistant Component](https://github.com/claytonjn/hass-circadian_lighting) - Stay healthier and sleep better by syncing your lights with natural daylight to maintain your circadian rhythm.
+- [room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level. ([Web](https://www.room-assistant.io/))

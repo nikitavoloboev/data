@@ -29,3 +29,4 @@
 - [vkbind](https://github.com/mackron/vkbind) - Single file Vulkan API loader.
 - [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Tools) - Provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and MacOS.
 - [Vulkan Kompute](https://github.com/EthicalML/vulkan-kompute) - Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases.
+- [renderer_prototype](https://github.com/aclysma/renderer_prototype) - Vulkan renderer built on top of atelier-assets. The objective of this repo is to build a scalable, flexible, data driven renderer.

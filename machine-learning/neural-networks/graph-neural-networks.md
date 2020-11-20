@@ -26,3 +26,4 @@
 - [GraphGym](https://github.com/snap-stanford/GraphGym) - Platform for designing and evaluating Graph Neural Networks.
 - [GraphRNN](https://github.com/JiaxuanYou/graph-generation) - Generating Realistic Graphs with Deep Auto-regressive Model.
 - [Position-aware Graph Neural Networks](https://github.com/JiaxuanYou/P-GNN)
+- [SEAL - Learning from Subgraphs, Embeddings, and Attributes for Link prediction](https://github.com/muhanzhang/SEAL)
