@@ -869,3 +869,4 @@
     - [2020 July](looking-back/2020/2020-july.md)
     - [2020 August](looking-back/2020/2020-august.md)
     - [2020 September](looking-back/2020/2020-september.md)
+    - [2020 October](looking-back/2020/2020-october.md)
