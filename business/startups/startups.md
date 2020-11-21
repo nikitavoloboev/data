@@ -242,6 +242,7 @@
 - [How to Name Startups (2020)](https://atay.me/posts/how-to-name-startups/)
 - [MicroConf](https://microconf.com/) - Trusted Community for Non-Venture Track SaaS Founders.
 - [Awesome Startup Deals](https://github.com/startupdeals/startupdeals)
+- [Practical Tips for IndieHackers (2020)](https://twitter.com/PierreDeWulf/status/1329765202095575041)
 
 ## Images
 
