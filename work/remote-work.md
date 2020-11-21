@@ -88,3 +88,4 @@
 - [Remote Clan](https://remoteclan.com/) - Connect with remote workers to shape the future of work. ([News Feed](https://remoteclan.com/news-feed))
 - [Building Team Culture, Gitlab-Style (2020)](https://aboutsnack.com/blog/informal-communication-in-remote-work)
 - [To find great remote employees, prioritize candidates with strong writing skills (2020)](https://youteam.io/blog/3-remote-productivity-hacks-we-wish-we-knew-from-day-one/) ([HN](https://news.ycombinator.com/item?id=25120207))
+- [The guide on 1-on-1 meetings for remote teams (2020)](https://nohq.co/blog/guide-to-1-on-1-meetings-in-remote-teams/)

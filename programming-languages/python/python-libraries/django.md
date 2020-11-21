@@ -58,3 +58,4 @@
 - [Django project optimization guide (2017)](https://dizballanze.com/django-project-optimization-part-1/)
 - [Django Ninja](https://github.com/vitalik/django-ninja) - Fast Django REST Framework.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django.
+- [Docker-Compose for Django and React with Nginx Reverse-Proxy and Let's Encrypt (2020)](https://saasitive.com/tutorial/docker-compose-django-react-nginx-let-s-encrypt/) ([HN](https://news.ycombinator.com/item?id=25169155))

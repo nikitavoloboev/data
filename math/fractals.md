@@ -45,3 +45,4 @@
 - [FractalView](https://github.com/adamsol/FractalView) - 3D fractal renderer in GLSL.
 - [Fractal Explorer](https://github.com/ChrisWhealy/fractal_explorer) - Calculates Mandelbrot and Julia Set images using Rust/WASM.
 - [Pixel Play](https://anvaka.github.io/pplay/) - Like Google Maps for fractals.
+- [Render Fractals in Go Without External Packages](https://github.com/kochampsy/fractal) ([Reddit](https://www.reddit.com/r/golang/comments/jy9kq6/a_fractal_i_rendered_in_go_without_any_external/))

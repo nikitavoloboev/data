@@ -75,3 +75,4 @@
 - [Top 10 Most Important SQL Commands to Know (2020)](https://blog.arctype.com/sql-cheat-sheet-top-10-most-important-sql-commands-to-know/)
 - [Automate Business Logic With Logic Bank](https://dzone.com/articles/automate-business-logic-with-logic-bank) - Rule engine automates SQLAlchemy update logic for remarkable agility - 40X more concise. Scalable. Extensible and manageable using Python. ([Tweet](https://twitter.com/zzzeek/status/1328041618931408898))
 - [SQL overview](http://jakewheat.github.io/sql-overview/) ([Code](https://github.com/JakeWheat/sql-overview))
+- [cloudquery](https://cloudquery.run/) - Transform your cloud config and metadata to SQL. ([Code](https://github.com/cloudquery/cloudquery))

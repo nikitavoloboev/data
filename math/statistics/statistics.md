@@ -71,3 +71,4 @@
 - [Understanding Statistical Power and Significance Testing](https://rpsychologist.com/d3/nhst/) ([HN](https://news.ycombinator.com/item?id=25014901))
 - [Statistical Rethinking: A Bayesian Course (with Code Examples in R/Stan/Python/Julia)](https://github.com/rmcelreath/stat_rethinking_2020)
 - [Primer to Probability Theory and Its Philosophy (2020)](http://zhat.io/articles/primer-probability-theory)
+- [Interpretation of confidence intervals and Bayesian credible intervals (2020)](https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/) ([HN](https://news.ycombinator.com/item?id=25169595))
