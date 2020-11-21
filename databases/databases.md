@@ -131,6 +131,7 @@
 - [Liquibase](https://www.liquibase.org/) - Open Source Version Control for Your Database.
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL.
 - [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
+- [ShardingSphere](https://github.com/apache/shardingsphere) - Distributed Database Middleware Ecosphere.
 
 ## Links
 

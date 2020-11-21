@@ -43,4 +43,3 @@ I prefer reading wiki with [Dictionary app](https://wokabulary.com/blog/the-buil
 ## Links
 
 - [Awesome Dark Themes for websites](https://github.com/JJGO/awesome-dark-themes)
-- [Collection of Solarized user-stylesheets](https://github.com/alphapapa/solarized-everything-css)

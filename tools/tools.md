@@ -231,6 +231,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 - [Fixmie](https://fixmie.com/) - Automated code fixes.
+- [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page. ([Code](https://github.com/upptime/upptime))
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
 - [Mathigon](https://mathigon.org/) - Smartest textbook in the world.
