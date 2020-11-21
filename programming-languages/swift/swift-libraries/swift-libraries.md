@@ -483,6 +483,7 @@
 - [LogDog](https://github.com/luoxiu/LogDog) - User-friendly logging.
 - [KeychainItem](https://github.com/objcio/keychain-item) - Keychain Item Property Wrapper.
 - [SwiftNIO SSH](https://github.com/apple/swift-nio-ssh) - Programmatic implementation of SSH using SwiftNIO. ([Article](https://swift.org/blog/swiftnio-ssh/)) ([HN](https://news.ycombinator.com/item?id=25157942))
+- [PredicateKit](https://github.com/ftchirou/PredicateKit) - Allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.
 
 ## Other (not lib)
 

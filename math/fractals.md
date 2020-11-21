@@ -44,3 +44,4 @@
 - [Xmountains](https://spbooth.github.io/xmountains/) - Fractal terrain generator. ([About](https://spbooth.github.io/xmountains/about_xmountains.html))
 - [FractalView](https://github.com/adamsol/FractalView) - 3D fractal renderer in GLSL.
 - [Fractal Explorer](https://github.com/ChrisWhealy/fractal_explorer) - Calculates Mandelbrot and Julia Set images using Rust/WASM.
+- [Pixel Play](https://anvaka.github.io/pplay/) - Like Google Maps for fractals.
