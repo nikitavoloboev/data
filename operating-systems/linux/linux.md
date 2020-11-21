@@ -219,3 +219,4 @@
 - [Linux App Summit 2020](https://www.youtube.com/watch?v=u8SI6AEwMnQ)
 - [Reasons to prefer Linux over Windows (2014)](https://github.com/nbeaver/why-linux-is-better) ([HN](https://news.ycombinator.com/item?id=25104828))
 - [My First Kernel Module: A Debugging Nightmare (2020)](https://reberhardt.com/blog/2020/11/18/my-first-kernel-module.html) ([HN](https://news.ycombinator.com/item?id=25153388))
+- [Moving from Macbook to Linux (2020)](https://monadical.com/posts/moving-to-linux-desktop.html) ([HN](https://news.ycombinator.com/item?id=25163685))

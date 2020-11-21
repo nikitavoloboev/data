@@ -65,3 +65,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Books on puppy training](https://twitter.com/dburka/status/1319784375521783809)
 - [Stopping some fishing would increase overall catches (2020)](https://www.economist.com/science-and-technology/2020/10/31/stopping-some-fishing-would-increase-overall-catches) ([HN](https://news.ycombinator.com/item?id=25020597))
 - [Edinburgh Samoyed Rescue](https://www.edinburghsamoyedrescue.com/) - Private Dog Charity.
+- [Why are there so many cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/) ([HN](https://news.ycombinator.com/item?id=25163312))

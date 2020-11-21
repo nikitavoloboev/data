@@ -60,3 +60,4 @@
 - [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects.
 - [ImPlot](https://github.com/epezent/implot) - Immediate mode, GPU accelerated plotting library for Dear ImGui.
 - [Edward Tufte: Seeing with Fresh book (2020)](https://www.edwardtufte.com/tufte/seeing-with-fresh-eyes)
+- [Why We're Building Observable (2020)](https://observablehq.com/@observablehq/why-were-building-observable) ([HN](https://news.ycombinator.com/item?id=25161409))
