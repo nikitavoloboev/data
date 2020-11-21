@@ -16,3 +16,4 @@
 - [Tezos Agora](https://www.tezosagora.org/) - Place to discuss and learn about the long-term direction of the Tezos project.
 - [Interview Arthur Breitman - CTO and Founder of Tezos (2019)](https://www.youtube.com/watch?v=TxF59TGT7bg)
 - [TezTalks Radio - A Conversation with Tezos Co-Founder Arthur Breitman (2020)](https://www.youtube.com/watch?v=nSdnUK5WVSQ)
+- [Nomadic Labs](https://www.nomadic-labs.com/) - Research and development on distributed, decentralized, and formally verified software.
