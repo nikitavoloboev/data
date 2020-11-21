@@ -368,6 +368,7 @@ Here are few more things I liked, design wise.
 - [Kentaro Wada](https://www.wkentaro.com/)
 - [Gal Shir](https://galshir.com/)
 - [Patricia Mou](https://patriciamou.com/)
+- [Michael Stapelberg](https://michael.stapelberg.ch/)
 - [Phil Hedayatnia](http://hedayatnia.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Marcos Alonso](http://marcosalonso.com/)

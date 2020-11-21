@@ -390,3 +390,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Vas3k Club](https://vas3k.club/) - No bullshit IT community with private membership. ([Code](https://github.com/vas3k/vas3k.club))
 - [Gossip’s Web](https://gossipsweb.net/) - Link collection. Costs 1\$ to submit link.
 - [Beth Harmon - Alone (2020)](https://www.youtube.com/watch?v=YzeRik5yEBY)
+- [Ask HN: How do you stimulate your creativity on a day like today? (2020)](https://news.ycombinator.com/item?id=25170661)

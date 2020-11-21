@@ -196,3 +196,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Doca (Russian)](https://y-doka.site/) - HTML/CSS/JS documentation. ([Code](https://github.com/Y-Doka/y-doka.site))
 - [Moon Highway](https://moonhighway.com/) - Professional web development trainings. ([GitHub](https://github.com/MoonHighway))
 - [Exploiting dynamic rendering engines to take control of web apps (2020)](https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/)
+- [Starlink team AMA (2020)](https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/) ([HN](https://news.ycombinator.com/item?id=25170780))
