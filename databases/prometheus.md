@@ -26,3 +26,4 @@
 - [Node exporter](https://github.com/prometheus/node_exporter) - Prometheus exporter for hardware and OS metrics exposed by NIX kernels, written in Go with pluggable metric collectors.
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics) - Open standard for transmitting metrics at scale, with support for both text representation and Protocol Buffers. ([Web](https://openmetrics.io/))
 - [Kvass](https://github.com/tkestack/kvass) - Provides a solution for Prometheus sharding.
+- [How to Setup Prometheus, Grafana and Loki on NixOS (2020)](https://christine.website/blog/prometheus-grafana-loki-nixos-2020-11-20) ([Lobsters](https://lobste.rs/s/cyufgo/how_setup_prometheus_grafana_loki_on))
