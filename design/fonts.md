@@ -55,6 +55,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Barlow](https://github.com/jpt/barlow) - Slightly rounded, low-contrast, grotesk type family.
 - [IBM Plex typeface](https://github.com/IBM/plex)
 - [Monoid](https://larsenwork.com/monoid/) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. ([Code](https://github.com/larsenwork/monoid))
+- [League Mono](https://github.com/theleagueof/league-mono) - Monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier. ([Web](https://www.theleagueofmoveabletype.com/league-mono))
 
 ## Links
 
@@ -167,3 +168,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Tips for making variable fonts](https://github.com/scribbletone/i-can-variable-font)
 - [Scaling custom fonts automatically with Dynamic Type (2020)](https://sarunw.com/posts/scaling-custom-fonts-automatically-with-dynamic-type/)
 - [Dev Fonts](https://devfonts.gafi.dev/) - List of fonts for coding. ([Code](https://github.com/Gaafar/dev-fonts)) ([HN](https://news.ycombinator.com/item?id=25159038))
+- [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - First open-source font foundry. ([GitHub](https://github.com/theleagueof))
+- [Learn Typography](https://www.theleagueofmoveabletype.com/learn)
+- [Fontship](https://github.com/theleagueof/fontship) - Toolkit for generating fonts and tooling for a collaborative workflow.
