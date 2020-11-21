@@ -48,3 +48,4 @@
 - [dair.ai](https://dair.ai/) - Democratizing Artificial Intelligence Research, Education, and Technologies. ([GitHub](https://github.com/dair-ai))
 - [Mila](https://mila.quebec/en/) - Quebec Artificial Intelligence Institute. ([GitHub](https://github.com/mila-iqia))
 - [EleutherAI](https://www.eleuther.ai/) - Grassroots AI research group aimed at democratizing and open sourcing AI research.
+- [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
