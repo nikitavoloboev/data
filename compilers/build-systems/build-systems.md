@@ -41,3 +41,4 @@
 - [Introduction to Makefiles (2020)](https://xs-labs.com/en/blog/2020/11/07/introduction-to-makefiles/) ([HN](https://news.ycombinator.com/item?id=25026656))
 - [engage](https://github.com/breuleux/engage) - Incremental build tool with automatic dependency tracking.
 - [remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more.
+- [Goma](https://chromium.googlesource.com/infra/goma/client/) - Distributed compiler service for open-source project such as Chromium and Android. It's some kind of replacement of distcc+ccache.

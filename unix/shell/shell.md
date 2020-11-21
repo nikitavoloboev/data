@@ -93,3 +93,4 @@ All active variables can be seen by running `env`.
 - [Features of a Modern Terminal Emulator (2020)](https://www.youtube.com/watch?v=9DgQqDnYNyQ) ([Lobsters](https://lobste.rs/s/jfkja1/features_modern_terminal_emulator))
 - [vte](https://github.com/alacritty/vte) - Parser for implementing virtual terminal emulators in Rust.
 - [getoptions](https://github.com/ko1nksm/getoptions) - Elegant option parser for shell scripts (sh, bash and all POSIX shells).
+- [McFly](https://github.com/cantino/mcfly) - Fly through your shell history.
