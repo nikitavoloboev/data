@@ -158,3 +158,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [FastoTV](https://github.com/fastogt/fastotv) - Open source IPTV player.
 - [libheif](https://github.com/strukturag/libheif) - HEIF and AVIF file format decoder and encoder. ([Web](https://www.libde265.org/))
 - [FFsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+- [TSDuck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit. ([Web](https://tsduck.io/))

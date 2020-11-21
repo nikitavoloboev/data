@@ -126,3 +126,5 @@
 - [mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
 - [jams](https://github.com/marl/jams) - JSON Annotated Music Specification for Reproducible MIR Research.
 - [Piano transcription](https://github.com/bytedance/piano_transcription) - Transcribing piano recordings into MIDI files.
+- [SquinkyVCV](https://github.com/squinkylabs/SquinkyVCV) - Collection of modules for the VCV Rack virtual modular synthesizer.
+- [VCV Rack](https://vcvrack.com/) - Free and open-source cross-platform software modular synthesizer. ([GitHub](https://github.com/VCVRack))

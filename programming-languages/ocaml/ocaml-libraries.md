@@ -54,6 +54,7 @@
 - [directories](https://github.com/OCamlPro/directories) - OCaml library that provides configuration, cache and data paths.
 - [Repr](https://github.com/mirage/repr) - Run-time representations of OCaml types.
 - [OCaml-MPST](https://github.com/keigoi/ocaml-mpst) - Communication library powered by Multiparty Session Types (abbreviated as MPST) in OCaml.
+- [eqaf](https://github.com/mirage/eqaf) - Constant time equal function.
 
 ## Links
 
