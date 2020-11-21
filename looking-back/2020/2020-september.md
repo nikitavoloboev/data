@@ -1,6 +1,58 @@
 # 2020 September
 
-> [First newsletter, new beginnings 💛](https://buttondown.email/nikitavoloboev/archive/first-newsletter-new-beginnings/)
+Sent out my [first newsletter](https://buttondown.email/nikitavoloboev/archive/first-newsletter-new-beginnings/). 🌿
+
+## First newsletter, new beginnings 💛
+
+Hey there stranger 👋
+
+![](https://i.imgur.com/r2FLh6Z.png)
+
+I had an idea to start writing monthly reflections as part of a newsletter and here is the first one.
+
+## September 2020
+
+The last article I ever wrote was December 2018 and it was on how to [use/abuse Karabiner](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6). Specifically how to use it with combination with [Goku](https://github.com/yqrashawn/GokuRakuJoudo) to map keys effortlessly on your keyboard.
+
+Since then I haven't stopped writing. Well, I haven't done a proper post, like this one, but I did write many many short notes in my wiki. Also known by the more cooler name, Digital Garden 🌿.
+
+Few reasons for it but mostly I hate Medium too much to write another post there and I still haven't gotten around to rebuilding my personal website. So using [Buttondown Email](https://buttondown.email/) as a way to get myself to write long form again. In form of these reflections on the past month. Things I've done & thought about. Things I want to tackle next.
+
+[Looking back](https://wiki.nikitavoloboev.xyz/looking-back) is my personal journal I conduct publicly. I try to be quite open with my struggles and the few successes I get in life. Writing for me is a process of healing. I write it down so I clean up my mind from past baggage. I want to live now and in the moment but I also want to respect the past and learn from it.
+
+This first look back is partly inspired by [Gwern's newsletter](https://www.gwern.net/tags/newsletter) & few other newsletters I follow that I did get the time to read. Speaking of newsletters, here is what's inside my Spark email client right now.
+
+![](https://i.imgur.com/AdEJSZz.png)
+
+Spark nicely organizes emails into 3 categories: `people`, `notifications` and `newsletters`. The first 2 I actually manage to get to 0 often enough. But newsletters, it's crazy. I actually want to build a dedicated native email client focusing specifically around newsletter consumption. There are some newsletters I value more than others, those will go into `1.` folder. The rest will go into `2.`. I do the same for RSS feeds I subscribe too and Twitter. And Reddit. This priority system is amazing. I might actually do this already with emails by adding certain newsletters into `1.` folder and consuming that. 🤔 Some thoughts aloud.
+
+There's lots of things I have optimized over the years and it's truly incredible getting to experience all the mental models & tools working in unison. It's something I want to focus on in the coming month, probably even next one if I get time. But I want to finally release my personal site, start a proper blog with nice design. Start making courses, YouTube videos as there is lots I want to teach. My goals are actually [public](https://wiki.nikitavoloboev.xyz/focusing/goals). Separated into 2 sections: Action & Theme. The theme part is [nicely described by CGP Grey](https://www.youtube.com/watch?v=NVGuFdX5guE).
+
+## What actually happened in September
+
+I've been working in [CodeYellow](https://www.codeyellow.nl) since August building a web app in Django for smart factories. It's a nice apartment. I also moved properly to Eindhoven into a nice place. Life has been quite hectic but it's getting better, slowly.
+
+One nice thing that did happen though. As I do everything in the open at no cost (not the smartest 🍪), I've often contemplated what will happen when money runs out and I won't have money for food and groceries. Dying of hunger in first world country like Netherlands seems extreme but it probably happens to many. Given all this, I tweeted how happy I was that I was at least [getting 20\$ for all the things I made](https://twitter.com/nikitavoloboev/status/1306655713176027136). And lo an behold that number is now 80\$ thanks to [8 kind people](https://github.com/sponsors/nikitavoloboev). It's still not enough to actually sustain a human life but it's still beautiful.
+
+The other thing that happened is that [Karabiner Elements](https://github.com/pqrs-org/Karabiner-Elements) finally works on Big Sur. It's actually crazy. I lowered [my karabiner config settings](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) to low values and typing feels amazing. And I get the power of hyper keys for every single key. It's 🤯. Again, it's super sad I am literally the only person who modifies all keys on the keyboard with Karabiner (at least publicly), and my goal is make a lot of educational material to finally change that. Inspired partly by [Epic React](https://epicreact.dev/), course I am actually doing now with my girlfriend. The format of it is amazing. The [GitHub repos are free](https://github.com/topics/epicreact-dev), the course has a hefty price tag but I think it's worth it as it's well made content.
+
+And that kind of content exists for every topic, most of it is free, just not easily discoverable, which is why I also hope to rebuild LA. [John](https://github.com/johnletey) and I have finally resurrected the project. It's now using [Blitz](https://github.com/blitz-js/blitz) with [Prisma](https://www.prisma.io) and the experience is very smooth. Some things to wrap your head around of course but the Developer Experience and the final build optimized by next.js is very nice. Lots to learn, lots to build, lots to ship.
+
+## Songs
+
+Can't really pick a single song for this month but my [Likes Spotify playlist](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=et--uAlaSCiLAT4s8U0-dQ) has gotten a bit bigger. Can sort by recent and probably find something you like. I also just today came across [this channel](https://www.youtube.com/channel/UCWlhyyYBiD67Aju1CXUgaug/videos), who does these cool playlists that have a story behind it. Like this one, [Japanese jazz when driving on a warm night](https://www.youtube.com/watch?v=G68Q4lCM5pQ).
+
+The song I am listening to now as I write this is [Lina](https://open.spotify.com/track/2fYcpbTFptY9uRcaY56NRu?si=5Ns7dIsvQmWqrHIG6dbxUA). 🎼
+
+## Shows / Movies
+
+Loved [Ted Lasso](https://trakt.tv/shows/ted-lasso), [Logan Lucky](https://letterboxd.com/film/logan-lucky/) & [Knives Out](https://letterboxd.com/film/knives-out-2019/).
+
+## ❤️💛💚
+
+Don't want to keep these look backs long, we all have things to do. If you want to dive deeper, there's some [raw notes in wiki I had for this month](https://wiki.nikitavoloboev.xyz/looking-back/2020/2020-september) and more generally my wiki has gotten **a lot** larger. 32,062 lines of markdown as of this day. Can't wait to finally move the links from it to LA.
+
+## Logs
 
 ## 1
 
