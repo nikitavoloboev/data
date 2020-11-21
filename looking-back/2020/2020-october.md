@@ -12,7 +12,7 @@ I didn't get much time this month to work on personal projects as I am quite bus
 
 I started to like the setup of external monitor above the Macbook. Like this:
 
-https://i.imgur.com/TnwJ1lJ.jpg
+![](https://i.imgur.com/TnwJ1lJ.jpg)
 
 I tried out external keyboard + trackpad with Macbook on a stand but the trackpad will always be further than I like it to be compared to typing out on the Macbook keyboard. This way, the Macbook does heat up after some time especially when doing heavy coding projects but hopefully new ARM macs solve this. Rather excited about it.
 
