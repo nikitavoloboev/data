@@ -410,6 +410,7 @@ Here are few more things I liked, design wise.
 - [Lizbeth Poirier](https://ritualdust.com/) ([Code](https://github.com/oilandsugar/ritual-dust))
 - [Andreas Kirsch](https://www.blackhc.net/)
 - [Karan Desai](https://kdexd.github.io/)
+- [Molly Mielke](https://mollymielke.com/)
 - [Tina Smith](http://www.tinasmithdesign.com/)
 - [Ryan Haskell-Glatz](https://rhg.dev/)
 - [Erin](https://www.erinmcg.com/)
