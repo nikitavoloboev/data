@@ -179,3 +179,4 @@
 - [auraloss](https://github.com/csteinmetz1/auraloss) - Collection of audio-focused loss functions in PyTorch.
 - [Normalizing flows with PyTorch](https://github.com/acids-ircam/pytorch_flows) - Implementation and tutorials of normalizing flows with the novel distributions module.
 - [PyTorch Lightning Snippets](https://github.com/awaelchli/pytorch-lightning-snippets)
+- [Stylized Neural Painting](https://github.com/jiupinjia/stylized-neural-painting) - In PyTorch.
