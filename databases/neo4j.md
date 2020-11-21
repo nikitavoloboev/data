@@ -8,3 +8,4 @@
 - [Connecting your React app to Neo4j with React Hooks (2020)](https://medium.com/neo4j/connecting-to-react-app-to-neo4j-148881d838b8)
 - [NODES 2020](https://neo4j.com/nodes-2020/) - Neo4j Online Developer Expo and Summit.
 - [relate](https://github.com/neo4j-devtools/relate) - Framework to manage Neo4j resources (databases, graph apps, backups, extensions).
+- [Building A Location Aware Endpoint Using Neo4j And Cloudflare Workers (2020)](https://lyonwj.com/blog/neo4j-http-api-edge-workers)

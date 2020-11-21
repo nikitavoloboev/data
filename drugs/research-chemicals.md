@@ -37,3 +37,4 @@
 - [Synex Synthetics](https://www.synexsynthetics.com/) - Chemical manufacturer providing specialist synthesis solutions to the global life science and chemical industries. Supply to [LizardLabs](https://lizardlabs.eu/).
 - [Lizard Labs](https://lizardlabs.eu/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds.
 - [Trusted RC Vendors](https://buy.research-chemicals.online/)
+- [David Nichols - Random Selections: From Research Tools to Research Chemicals (2015)](https://www.youtube.com/watch?v=iiYaFP6iQGg)
