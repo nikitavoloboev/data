@@ -43,6 +43,7 @@
 - [Top 3 motivation killers for developers: Slow environments to test. Micromanagement. Continuous legacy projects.](https://twitter.com/MattCodeJourney/status/1313486362029547528)
 - [Software should be: Robust. Reliable. Stable. Simple.](https://drewdevault.com/2020/10/09/Four-principles-of-software-engineering.html)
 - Read, analyze and write lots of code. Don't be too concerned with the latest fads.
+- [When I update dependencies, I generally try to check each update to see what has changed. This is where using a lot of dependencies becomes expensive, because it takes more work to update them. I don’t really see this process bring automated, unless a web-of-trust like thing got popular. But I’m not holding my breath.](https://lobste.rs/s/vgtkw4/automate_dependency_updates_anyone)
 
 ## Links
 

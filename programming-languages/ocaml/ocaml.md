@@ -61,3 +61,4 @@
 - [OCamlPro](https://www.ocamlpro.com/) - Harnessing Cutting-Edge Technologies. ([GitHub](https://github.com/OCamlPro))
 - [OCaml Cheat Sheets](https://ocamlpro.github.io/ocaml-cheat-sheets/) - OCaml Documentations as one-pagers, easy to keep useful commands in mind. ([Code](https://github.com/OCamlPro/ocaml-cheat-sheets))
 - [Overview of the main OCaml CI services](https://github.com/ocurrent/overview)
+- [A Taste of OCaml's Predictable Performance (2020)](https://devpoga.org/post/2020-11-21-a-taste-of-ocaml-predictable-performance/)

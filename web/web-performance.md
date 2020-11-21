@@ -109,3 +109,4 @@
 - [The Core Web Vitals hype train (2020)](https://sylormiller.com/posts/2020/core-web-vitals/) ([Tweet](https://twitter.com/ksylor/status/1327363260295897088))
 - [How we improved the Lighthouse score of our landing page to 96 (2020)](https://blog.checklyhq.com/how-we-improved-the-lighthouse-score-of-our-landing-page-to-96/)
 - [1MB Club](https://1mb.club/) - Collection of performance-focused web pages found across the internet. ([HN](https://news.ycombinator.com/item?id=25151773)) ([Code](https://github.com/bradleytaunt/1mb-club))
+- [Optimizing Your Web App 100x is Like Adding 99 Servers (2020)](https://lukerissacher.com/blog/optimizing_your_web_app)
