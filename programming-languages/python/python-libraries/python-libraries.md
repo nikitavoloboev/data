@@ -231,6 +231,8 @@
 - [Faker](https://github.com/joke2k/faker) - Python package that generates fake data for you.
 - [Autoimport](https://github.com/lyz-code/autoimport) - Automatically fixes wrong import statements.
 - [Lcapy](https://github.com/mph-/lcapy) - Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
+- [Opytimizer](https://github.com/gugarosa/opytimizer) - Nature-Inspired Python Optimizer.
+- [Futureproof](https://github.com/yeraydiazdiaz/futureproof) - Bulletproof concurrent.futures.
 
 ## Links
 

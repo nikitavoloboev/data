@@ -171,3 +171,4 @@
 - [diagNNose](https://github.com/i-machine-think/diagNNose) - Python library that facilitates a broad set of tools for analysing hidden activations of neural models.
 - [MiniSom](https://github.com/JustGlowing/minisom) - Minimalistic implementation of the Self Organizing Maps.
 - [Basics of Convolution (2020)](https://ashwinsharma.tech/basics-of-convolution)
+- [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/lightaime/deep_gcns_torch)

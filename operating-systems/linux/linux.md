@@ -222,3 +222,4 @@
 - [Moving from Macbook to Linux (2020)](https://monadical.com/posts/moving-to-linux-desktop.html) ([HN](https://news.ycombinator.com/item?id=25163685))
 - [Linux Observability with BPF Book (2019)](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/) ([Code](https://github.com/bpftools/linux-observability-with-bpf))
 - [Winding down my Debian involvement (2019)](https://michael.stapelberg.ch/posts/2019-03-10-debian-winding-down/) ([HN](https://news.ycombinator.com/item?id=25170312))
+- [High System Load with Low CPU Utilization on Linux? (2020)](https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/)

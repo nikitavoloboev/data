@@ -1,5 +1,9 @@
 # Immunology
 
+## Notes
+
+- [B cells (along with T cells and a recently-discovered neurological cell) are one of only three types of cells which can edit their own DNA. Which is a weird privilege - they are allowed to be different to the rest of us.](https://news.ycombinator.com/item?id=25168744)
+
 ## Links
 
 - [Nobel Prize awarded for discovery of cancer therapy by inhibition of negative immune regulation (2018)](https://www.nobelprize.org/uploads/2018/10/press-medicine2018.pdf)

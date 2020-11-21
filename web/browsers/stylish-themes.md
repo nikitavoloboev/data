@@ -1,14 +1,10 @@
 # [Stylish](https://userstyles.org) themes
 
-I prefer to use dark interfaces on websites where it's available. Previously I used [Cascadea](https://cascadea.app) Safari Extension to change the looks of sites to have darker colors. The extension lets you import any of [Stylish themes](https://userstyles.org). Here is a [download of all the Cascadea styles I used](https://www.dropbox.com/s/dcnhujryt0ydft5/Cascadea%20Styles.sdb?dl=1). For sites I didn't modify with Cascadea, I ran [Dark Reader](https://darkreader.org/) extension which automatically turns all websites dark although with some performance overhead.
+I once used [Cascadea](https://cascadea.app) Safari Extension to change the looks of sites to have darker colors. The extension lets you import any of [Stylish themes](https://userstyles.org). Here is a [download of all the Cascadea styles I used](https://www.dropbox.com/s/dcnhujryt0ydft5/Cascadea%20Styles.sdb?dl=1). For sites I didn't modify with Cascadea, I ran [Dark Reader](https://darkreader.org/) extension which automatically turns all websites dark although with some performance overhead.
 
-I don't use either of those extensions now (due to performance issues) and am waiting for official releases of dark modes for all websites (ideally triggered automatically based off my OS theme appearance).
+I don't use either of those extensions now (due to performance issues + I prefer light themes often for readability during the day). I dream of the future where all sites switch automatically between light & dark themes based of OS theme setting.
 
 Below are some Stylish themes I used:
-
-## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
-
-![](https://i.imgur.com/ValUboK.png)
 
 ## [Hacker News Dark](https://userstyles.org/styles/113994/hacker-news-dark)
 
@@ -21,10 +17,6 @@ Below are some Stylish themes I used:
 ## [Quora Dark](https://userstyles.org/styles/104706/quora-dark)
 
 ![](https://i.imgur.com/VFAXqU1.png)
-
-## [Stack Overflow Dark](https://userstyles.org/styles/35345)
-
-![](https://i.imgur.com/NKI5yj2.png)
 
 ## [SoundCloud Dark](https://userstyles.org/styles/90894/soundcloud-pitch-black)
 

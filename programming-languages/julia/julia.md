@@ -63,3 +63,4 @@
 - [Guide to distributed computing in Julia](https://github.com/juliohm/julia-distributed-computing)
 - [Julia: Dynamism and Performance Reconciled by Design (2018)](https://dl.acm.org/doi/pdf/10.1145/3276490) ([HN](https://news.ycombinator.com/item?id=24864087))
 - [Julia REPL tips and tricks (2019)](https://www.youtube.com/watch?v=EkgCENBFrAY)
+- [A review of the Julia language](https://danluu.com/julialang/)

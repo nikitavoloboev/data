@@ -151,3 +151,4 @@
 - [fromElisp](https://github.com/talyz/fromElisp) - Emacs Lisp reader in Nix.
 - [On-demand linked libraries for Nix (2020)](https://fzakaria.com/2020/11/17/on-demand-linked-libraries-for-nix.html) ([Lobsters](https://lobste.rs/s/nawo6d/on_demand_linked_libraries_for_nix))
 - [Towards a content-addressed model for Nix (2020)](https://www.tweag.io/blog/2020-09-10-nix-cas/)
+- [deploy-rs](https://github.com/serokell/deploy-rs) - Simple, multi-profile Nix-flake deploy tool.

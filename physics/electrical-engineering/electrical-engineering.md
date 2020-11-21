@@ -44,3 +44,4 @@
 - [WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses.
 - [Copper](https://github.com/Yatekii/copper) - PCB EDA Tool written in Rust.
 - [Building Sustainable Electronics (2020)](https://gopher.mills.io/republic.circumlunar.space/0/~xkp/phlog/2020-11-08-building-sustainable-electronics.txt)
+- [Ask HN: Most efficient way for the inexperienced to learn PCB design? (2020)](https://news.ycombinator.com/item?id=25164660)

@@ -42,3 +42,4 @@
 - [Ruby Refinements Have One Good Use Case (2020)](http://www.soulcutter.com/articles/ruby-refinements-have-one-good-use-case.html)
 - [rspec-core](https://github.com/rspec/rspec-core) - RSpec runner and formatters.
 - [My Beef With RuboCop (2020)](https://www.rubypigeon.com/posts/my-beef-with-rubocop/) ([Lobsters](https://lobste.rs/s/wgi0rn/my_beef_with_rubocop)) ([HN](https://news.ycombinator.com/item?id=25147990))
+- [RubyConf 2020](https://www.alchemists.io/articles/ruby_conf_2020/)

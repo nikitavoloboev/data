@@ -34,7 +34,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [10 Year Challenge: How Popular Websites Have Changed (2019)](https://www.arun.is/blog/10-year-challenge/)
 - [Design Systems Repo](https://designsystemsrepo.com/) - Frequently updated collection of Design System examples, articles, tools and talks.
 - [Mike Bostock - Design is a Search Problem (2014)](https://www.youtube.com/watch?v=fThhbt23SGM)
-- [Little Big Details](http://littlebigdetails.com/)
+- [Little Big Details](http://littlebigdetails.com/) - Delightful UX Design.
 - [Whimsical](https://whimsical.com/) - Visual Workspace. Collaborate visually. Fast and delightful.
 - [Apply Pixels](https://applypixels.com/) - Industry Standard Design Resources.
 - [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)

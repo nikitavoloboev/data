@@ -27,4 +27,4 @@
 - [pgsqlite](https://github.com/sanderhahn/pgsqlite) - PostgreSQL extension that embeds SQLite3 and uses large objects as storage.
 - [sqlite-diffable](https://github.com/simonw/sqlite-diffable) - Tools for dumping/loading a SQLite database to diffable directory structure.
 - [hybrid-disk-cache](https://github.com/rjyo/hybrid-disk-cache) - Hybrid disk cache library that utilized both the solid SQLite3 and file system.
-- [SQLite briefing for Linux kernel hackers](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
+- [SQLite briefing for Linux kernel hackers](https://sqlite.org/lpc2019/doc/trunk/briefing.md) ([HN](https://news.ycombinator.com/item?id=25167423))

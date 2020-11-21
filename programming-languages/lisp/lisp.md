@@ -92,3 +92,4 @@
 - [awklisp](https://github.com/darius/awklisp) - Lisp interpreter written in Awk.
 - [Pixie](https://github.com/pixie-lang/pixie) - Lightweight lisp suitable for both general use as well as shell scripting.
 - [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies) - Curated lisp for companies that use Lisp Extensively in their stack.
+- [LISP – Notes on its past and future, by John McCarthy (1980)](http://jmc.stanford.edu/articles/lisp20th/lisp20th.pdf)
