@@ -29,3 +29,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Heirloom](https://useheirloom.com/) - Small online recipe manager. ([Code](https://github.com/hrescak/useheirloom))
 - [Al Dente](https://aldente.substack.com/) - Cooking tips newsletter.
 - [RecipeMD](https://github.com/tstehr/RecipeMD) - Standard format for recipes as Markdown files and a python reference implementation. ([Docs](https://recipemd.org/))
+- [Favorite breakfast recipes](https://www.instagram.com/susannawurz.cooking/guide/my-favorite-breakfast-recipes/17908740661558387/)
