@@ -28,4 +28,4 @@
 - [MMTk](https://github.com/mmtk/mmtk-core) - Framework for the design and implementation of memory managers. In Rust.
 - [Quantifying the Performance of Garbage Collection vs. Explicit Memory Management (2005)](https://people.cs.umass.edu/~emery/pubs/gcvsmalloc.pdf)
 - [The Lost Art of Structure Packing](http://catb.org/esr/structure-packing/) - Technique for reducing the memory footprint of programs in compiled languages with C-like structures - manually repacking these declarations for reduced size.
-- [klox](https://github.com/dkopko/klox) - Proof-of-concept demonstration of O(1) garbage collection. ([HN](https://news.ycombinator.com/item?id=25161666))
+- [klox](https://github.com/dkopko/klox) - Proof-of-concept demonstration of O(1) garbage collection. ([HN](https://news.ycombinator.com/item?id=25161666)) ([Lobsters](https://lobste.rs/s/z96jmk/experimental_o_1_garbage_collector))
