@@ -12,3 +12,5 @@
 - [Tezos Docs](https://assets.tqtezos.com/docs/intro/)
 - [Tezos Developer Portal](https://developers.tezos.com/)
 - [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries.
+- [Virtual Discussion with Emin Gün Sirer and Kathleen Breitman on Tezos (2020)](https://www.youtube.com/watch?v=5pvniYzV5hc)
+- [Tezos Agora](https://www.tezosagora.org/) - Place to discuss and learn about the long-term direction of the Tezos project.
