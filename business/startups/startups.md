@@ -241,6 +241,7 @@
 - [Finances needed to indie (2020)](https://twitter.com/yongfook/status/1328158466645475328) ([Tweet 2](https://twitter.com/shpigford/status/1328162960586452992?s=21))
 - [How to Name Startups (2020)](https://atay.me/posts/how-to-name-startups/)
 - [MicroConf](https://microconf.com/) - Trusted Community for Non-Venture Track SaaS Founders.
+- [Awesome Startup Deals](https://github.com/startupdeals/startupdeals)
 
 ## Images
 
