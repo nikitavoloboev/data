@@ -5,6 +5,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 ## Favorite artists
 
 - [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp?si=i1mTFkg7SoiFNGwbkz1RNw) - [My Friend the Forest](https://open.spotify.com/track/7B0ofCHeQu2FoX7P28ZaPp?si=4DtqB8PfRAGecWdoqP1L1A) | [La](https://open.spotify.com/track/3OjWbbavamAsikThpDy2oP?si=eLa9dHH6TCaOvylRnp84fg) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8) | ["Berduxa"](https://www.youtube.com/watch?v=QWcTgkjANmc) | [Boiler Room x Dimensions Opening Concert Live Set](https://www.youtube.com/watch?v=xih8aiacRSk)
+- [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM?si=dOIi6tVhRuq8dBOqsIP1ow) - [Love Songs For Robots](https://www.youtube.com/watch?v=EgPV9lhYPoA)
 - [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ?si=ae1wF-F0QralkmBLnKKnOg) - [UFOF Live](https://www.youtube.com/watch?v=rpnZtNTtuvU)
 - [Vermont](https://open.spotify.com/artist/4g1pqB36gtNg1XBQ5iGFIV) - [Rückzug](https://open.spotify.com/track/7hbDg7brpECQeFwtrNiy8z)
 - [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11?si=HEMfDbBgRnW08VqYOvPr5Q) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
@@ -206,8 +207,3 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 ## Mixes
 
 - [Nils Frahm xmas mix 2019](https://www.mixcloud.com/nilsoliver5/nils-frahm-xmas-mix-2019/)
-
-## Check out
-
-- Patrick Watson
-- Martin Kohlstedt
