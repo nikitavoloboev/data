@@ -188,3 +188,4 @@
 - [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) - Family of topic models that use pre-trained representations of language (e.g., BERT) to support topic modeling.
 - [Language Style Transfer](https://github.com/shentianxiao/language-style-transfer) - Code for [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/abs/1705.09655) paper.
 - [NLU](https://github.com/JohnSnowLabs/nlu) - Power of Spark NLP, the Simplicity of Python. 1 line for hundreds of NLP models and algorithms.
+- [PyTorch Implementation of Google BERT](https://github.com/dhlee347/pytorchic-bert)
