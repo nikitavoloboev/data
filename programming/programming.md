@@ -285,4 +285,4 @@
 - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) ([HN](https://news.ycombinator.com/item?id=23903737))
 - [What distinguishes great software engineers? (2019)](https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf) ([HN](https://news.ycombinator.com/item?id=25107285))
 - [Exotic Programming Ideas: Part 2 (Term Rewriting) (2020)](https://www.stephendiehl.com/posts/exotic02.html) ([HN](https://news.ycombinator.com/item?id=25112907))
-- [Production Oriented Development (2019)](https://paulosman.me/2019/12/30/production-oriented-development.html)
+- [Production Oriented Development (2019)](https://paulosman.me/2019/12/30/production-oriented-development.html) ([HN](https://news.ycombinator.com/item?id=25170547))

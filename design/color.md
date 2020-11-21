@@ -50,3 +50,4 @@
 - [Cascading Colors](https://cascading-colors.netlify.app/) - Generate dynamic and themable color palettes using CSS custom properties, and allow (persistent) user-adjustments with a bit of light-weight JS. ([Code](https://github.com/oddbird/cascading-color-system))
 - [Basic Color Science For Graphics Engineer (2018)](https://agraphicsguynotes.com/posts/basic_color_science_for_graphcis_engineer/)
 - [Bjango Color Creator Templates](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
+- [Palettte App](https://palettte.app/) ([Explanation](https://gabrieladorf.com/palettteapp/))

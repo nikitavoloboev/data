@@ -116,6 +116,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Calendly](https://calendly.com/) - Schedule meetings.
 - [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
 - [Bit](https://bit.dev/) - The shared component cloud.
+- [Balerter](https://github.com/balerter/balerter) - Scripts based alerting system.
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
@@ -211,6 +212,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [updown.io](https://updown.io/) - Website monitoring, simple and inexpensive.
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 - [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
+- [Namechk](https://namechk.com/) - Username, Domain, and Trademark Search.
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
