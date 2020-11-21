@@ -56,3 +56,4 @@
 - [Microservices – architecture nihilism in minimalism's clothes (2020)](https://vlfig.me/posts/microservices) ([HN](https://news.ycombinator.com/item?id=24963742))
 - [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
 - [cote](https://github.com/dashersw/cote) - Node.js library for building zero-configuration microservices.
+- [Go-Chassis](https://github.com/go-chassis/go-chassis) - Microservice framework for rapid development of microservices in Go.
