@@ -71,3 +71,4 @@
 - [OpenWhisk](https://github.com/apache/openwhisk) - Serverless functions platform for building cloud applications. ([Web](https://openwhisk.apache.org/))
 - [faasd](https://github.com/openfaas/faasd) - OpenFaaS reimagined, but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage.
 - [Announcing Netlify Background Functions (2020)](https://www.netlify.com/blog/2020/10/29/announcing-background-functions/)
+- [How to build a tool like Zapier using Lambda, SQS & DynamoDB (2020)](https://www.learnaws.org/2020/11/19/build-zapier-alternative/)

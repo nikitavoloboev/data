@@ -119,3 +119,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Digger](https://alpha.digger.dev/Digger-7f299819b6f2415fbe67b87a0e7ca97c) - CLI to set up container environments in AWS.
 - [Grafana dashboards for AWS CloudWatch](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
 - [7777](https://port7777.com/) - Your remote AWS database on your local port 7777. ([Docs](https://github.com/whilenull/7777-support))
+- [Learn AWS Blog](https://www.learnaws.org/)
