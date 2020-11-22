@@ -18,6 +18,7 @@ I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) wit
 - [August](2020/2020-august.md)
 - [September](2020/2020-september.md)
 - [October](2020/2020-october.md)
+- [November](2020/2020-november.md)
 
 ## [2019](2019/2019.md)
 
