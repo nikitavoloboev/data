@@ -146,3 +146,4 @@
 - [lazynpm](https://github.com/jesseduffield/lazynpm) - Simple terminal UI for npm commands, written in Go.
 - [Retes](https://github.com/kreteshq/retes) - Typed, Declarative, Data-Driven Routing for Node.js.
 - [node-glob](https://github.com/isaacs/node-glob) - Match files using the patterns the shell uses.
+- [Yarn Build](https://github.com/ojkelly/yarn.build) - Build and bundle your local packages like Bazel and Buck but for Yarn v2. ([Web](https://yarn.build/)) ([Introduction](https://www.owenkelly.com.au/posts/2020/yarn-build))

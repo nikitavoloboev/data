@@ -60,3 +60,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Such Chat](https://such.chat/) - Customer support via Telegram made easy.
 - [Building a Telegram Bot with Azure Functions and Node.js (2020)](https://akhromieiev.com/tutorials/telegram-bot-azure-functions-and-node-js/)
 - [TL (Type Language)](https://github.com/ernado/tl) - Parser for telegram's mtproto.
+- [td](https://github.com/ernado/td) - MTProto encoder/decoder.

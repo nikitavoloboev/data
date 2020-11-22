@@ -543,6 +543,7 @@
 - [Lunatic](https://github.com/lunatic-lang/lunatic) - Platform for building actor systems that use WebAssembly instances as actors.
 - [Kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
+- [infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature.
 
 ## Cargo Plugins
 

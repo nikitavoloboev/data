@@ -316,6 +316,7 @@ Here are few more things I liked, design wise.
 - [Ema Suriano](https://emasuriano.com/)
 - [Adrien Griveau](https://adriengriveau.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
+- [Owen Kelly](https://www.owenkelly.com.au/)
 - [Ben Kuhn](https://www.benkuhn.net/)
 - [Benoit Grelard](https://benoit.works/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)
