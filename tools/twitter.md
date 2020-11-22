@@ -38,7 +38,7 @@
 - [toptweets.by](https://toptweets.by/) - Use toptweets.by / <user> to see the top tweets by that user. ([Code](https://github.com/michaelrbock/besttweets)) ([Tweet](https://twitter.com/michaelrbock/status/1316952215354048513))
 - [Awesome Twitter Data](https://github.com/shaypal5/awesome-twitter-data) - List of Twitter datasets and related resources.
 - [Gardening Your Twitter: Growing Your Followers (2020)](https://steipete.com/posts/growing-your-twitter-followers/)
-- [twitter-text](https://github.com/twitter/twitter-text) - Collection of libraries and conformance tests to standardize parsing of Tweet text.
+- [twitter-text](https://github.com/twitter/twitter-text) - Collection of libraries and conformance tests to standardize parsing of Tweet text. ([In Rust](https://github.com/egg-mode-rs/egg-mode-text))
 - [The Art of Twitter: A Guide To Building Your Twitter Account](https://gumroad.com/l/TwitterGuide)
 - [Bookmarklet that redirects you to original tweet of video that someone else used in their tweet](https://twitter.com/wongmjane/status/1202293089395568640)
 - [Gramtion](https://github.com/lRomul/gramtion) - Twitter bot for generating photo descriptions (alt text).

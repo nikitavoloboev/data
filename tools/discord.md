@@ -11,3 +11,4 @@
 - [Discord Home](https://discordhome.com/) - Discord Server List.
 - [discord_data](https://github.com/seanbreckenridge/discord_data) - Library to parse information from the discord data export.
 - [How Discord (somewhat accidentally) invented the future of the internet (2020)](https://www.protocol.com/discord)
+- [Lightcord](https://github.com/Lightcord/Lightcord) - Simple and customizable client for Discord.

@@ -9,3 +9,4 @@
 - [Koka: Programming with Row-polymorphic Effect Type](https://arxiv.org/pdf/1406.2061.pdf)
 - [libhandler](https://github.com/koka-lang/libhandler) - Implements algebraic effect handlers in C.
 - [Eff](https://github.com/orsinium-labs/eff) - Python library to work with algebraic effects.
+- [Exotic Programming Ideas: Part 3 (Effect Systems) (2020)](https://www.stephendiehl.com/posts/exotic03.html) ([HN](https://news.ycombinator.com/item?id=25178437))
