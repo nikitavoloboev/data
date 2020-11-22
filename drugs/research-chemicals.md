@@ -19,6 +19,7 @@
 ## Notes
 
 - Use tracking to make sure the order is received. Otherwise can't get refund.
+- [Scales tend to be most accurate in the middle of their range. So if a scale measures up to 10g, put a 5g weight on before weighing and do not tare.](https://www.reddit.com/r/researchchemicals/comments/jysobq/handy_tip_for_cheap_scales/)
 
 ## Links
 

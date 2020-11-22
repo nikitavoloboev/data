@@ -186,6 +186,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Phil Dragash](https://www.phildragash.com/)
 - [Miki Takahashi](https://www.behance.net/miki_takahashi)
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
+- [Thomas Kobayashi](https://www.artstation.com/thorcx)
 - [Reuben Wu](https://www.instagram.com/itsreuben/)
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [100 Rabbits](https://100r.co/site/home.html)
