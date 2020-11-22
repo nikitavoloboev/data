@@ -94,3 +94,4 @@ All active variables can be seen by running `env`.
 - [vte](https://github.com/alacritty/vte) - Parser for implementing virtual terminal emulators in Rust.
 - [getoptions](https://github.com/ko1nksm/getoptions) - Elegant option parser for shell scripts (sh, bash and all POSIX shells).
 - [McFly](https://github.com/cantino/mcfly) - Fly through your shell history.
+- [Hull](https://250bpm.com/blog:153/) - Shell where every piece of its state is stored in the filesystem.

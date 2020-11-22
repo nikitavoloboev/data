@@ -57,3 +57,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [kaobook](https://github.com/fmarotta/kaobook) - LaTeX class for books, reports or theses.
 - [Tectonic](https://github.com/tectonic-typesetting/tectonic) - Modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. ([Web](https://tectonic-typesetting.github.io/en-US/))
 - [XymosTeX](https://github.com/xymostech/XymosTeX) - Attempt to build an implementation of TeX in Rust.
+- [InstaTeX](https://instatex.vercel.app/) - Minimal TeX equation editor in the browser.
