@@ -39,6 +39,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - React and Prosemirror based editor that powers Outline and can also be used for displaying content in a read-only fashion.
 - [Remirror](https://github.com/ifiokjr/remirror) - Universal react text editor built with prosemirror.
 - [draft.js](https://github.com/facebook/draft-js) - React framework for building text editors.
+- [Draftail](https://github.com/springload/draftail) - Configurable rich text editor built with Draft.js.
 - [Eclipse Theia](http://theia-ide.org) - Extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. ([Code](https://github.com/eclipse-theia/theia)) ([HN](https://news.ycombinator.com/item?id=22792258))
 - [Typewriter](https://github.com/typewriter-editor/typewriter) - Rich text editor based off of Quill.js and Ultradom, and using Svelte for UI.
 - [CodeJar](https://github.com/antonmedv/codejar) - Micro code editor.

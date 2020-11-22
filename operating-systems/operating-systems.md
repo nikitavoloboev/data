@@ -64,6 +64,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/)) ([TempleOS on real hardware](https://www.youtube.com/watch?v=ygZNVbBcJ4I))
 - [CactusOS](https://github.com/Remco123/CactusOS) - Simple operating system that is aimed to not be anything like linux.
 - [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures. ([Docs](https://docs.zephyrproject.org/latest/))
+- [Cosmos](https://github.com/CosmosOS/Cosmos) - Operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more. ([Web](https://www.gocosmos.org/))
+- [MollenOS](https://github.com/Meulengracht/MollenOS) - Modern operating system that is built with focus on abstraction and a modular design.
 
 ## Notes
 
