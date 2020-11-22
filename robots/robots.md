@@ -43,3 +43,4 @@
 - [Hindsight Experience Replay (HER) in PyTorch](https://github.com/TianhongDai/hindsight-experience-replay)
 - [How to build robots at home (2020)](https://marksaroufim.medium.com/how-to-build-robots-at-home-a9371e3b2da9)
 - [Stanford AI Lab Papers and Talks at CoRL 2020](https://ai.stanford.edu/blog/corl-2020/)
+- [droidlet](https://github.com/facebookresearch/droidlet) - High-level robotics-agent and platform.
