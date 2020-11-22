@@ -47,3 +47,5 @@
 - [How we made our SaaS homepage cookie-free (2020)](https://blog.leavemealone.app/no-more-cookies/) ([HN](https://news.ycombinator.com/item?id=24979167))
 - [Best UX resources for 2021](https://blog.uxtweak.com/best-ux-resources-2021/)
 - [Reducing Cognitive Overload for a Better User Experience (2016)](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
+- [Free UX crash course](https://www.kickassux.com/free-crash-course)
+- [Kickass UX](https://www.kickassux.com/) - Learn UX/UI design.

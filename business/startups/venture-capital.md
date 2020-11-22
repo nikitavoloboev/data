@@ -81,3 +81,5 @@
 - [Breaking into VC](https://breakinto.vc/)
 - [Pear VC](https://www.pear.vc/) - 0 to 1 Venture Capital partner.
 - [True Ventures](https://trueventures.com/)
+- [ARK Invest](https://ark-invest.com/)
+- [Placeholder](https://www.placeholder.vc/) - Venture capital firm that invests in open blockchain networks and Web3 services.
