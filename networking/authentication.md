@@ -87,3 +87,4 @@
 - [OAuth2: A Theatrical Introduction (2020)](https://tech.lightspeedhq.com/oauth2-a-theatrical-introduction/)
 - [JWT authorization in a microservices gateway (2020)](https://fusionauth.io/blog/2020/11/12/jwt-authorization-microservices-gateway/)
 - [ORY Kratos](https://github.com/ory/kratos) - Cloud native Identity and User Management System. No longer necessary to implement a User Login process.
+- [SSSD](https://github.com/SSSD/sssd) - Daemon to manage identity, authentication and authorization for centrally-managed systems. ([Docs](https://sssd.io/))

@@ -39,3 +39,4 @@
 - [ESLint plugin for webpack](https://github.com/webpack-contrib/eslint-webpack-plugin)
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - Chaining API to generate and simplify the modification of Webpack configurations.
 - [Webpack site code](https://github.com/webpack/webpack.js.org)
+- [Advanced React and Webpack configuration (2020)](https://marlom.dev/advanced-react-and-webpack-configuration)

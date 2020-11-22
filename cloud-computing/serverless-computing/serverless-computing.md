@@ -72,3 +72,4 @@
 - [faasd](https://github.com/openfaas/faasd) - OpenFaaS reimagined, but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage.
 - [Announcing Netlify Background Functions (2020)](https://www.netlify.com/blog/2020/10/29/announcing-background-functions/)
 - [How to build a tool like Zapier using Lambda, SQS & DynamoDB (2020)](https://www.learnaws.org/2020/11/19/build-zapier-alternative/)
+- [Serverless-artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery for instant, cheap, and easy performance testing at scale.
