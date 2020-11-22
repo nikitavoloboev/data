@@ -102,6 +102,7 @@ And these Discord servers:
 - [Future Crunch](https://futurecrun.ch/)
 - [The Gradient](https://thegradient.pub/)
 - [The Atlantic](https://www.theatlantic.com/world/)
+- [The MIT Press](https://mitpress.mit.edu/)
 
 ### Other
 

@@ -94,6 +94,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Yoneda lemma](https://ncatlab.org/nlab/show/Yoneda+lemma)
 - [Category Theory introduction lectures](https://www.youtube.com/playlist?list=PLRadJIh6Wu9m60eT0tXjngv7nebUgraaA)
 - [The significance of the Curry-Howard isomorphism (2019)](https://richardzach.org/2019/11/01/the-significance-of-the-curry-howard-isomorphism/)
+- [Basic Category Theory for Computer Scientists](https://mitpress.mit.edu/books/basic-category-theory-computer-scientists)
 
 ## Images
 

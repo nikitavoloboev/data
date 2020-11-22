@@ -57,3 +57,4 @@
 - [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
 - [cote](https://github.com/dashersw/cote) - Node.js library for building zero-configuration microservices.
 - [Go-Chassis](https://github.com/go-chassis/go-chassis) - Microservice framework for rapid development of microservices in Go.
+- [Goa](https://github.com/goadesign/goa) - Framework for building micro-services and APIs in Go using a unique design-first approach. ([Web](https://goa.design/))
