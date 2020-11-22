@@ -63,6 +63,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler.
 - [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/)) ([TempleOS on real hardware](https://www.youtube.com/watch?v=ygZNVbBcJ4I))
 - [CactusOS](https://github.com/Remco123/CactusOS) - Simple operating system that is aimed to not be anything like linux.
+- [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures. ([Docs](https://docs.zephyrproject.org/latest/))
 
 ## Notes
 

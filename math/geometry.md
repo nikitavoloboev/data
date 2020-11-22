@@ -17,3 +17,4 @@
 - [Impossible shapes library](https://im-possible.info/english/library/index.html)
 - [An Elementary Introduction to Information Geometry (2018)](https://arxiv.org/abs/1808.08271) ([HN](https://news.ycombinator.com/item?id=24645530))
 - [A hidden gem in sound symmetry](https://soundshader.github.io/hn/acf/index.html) ([HN](https://news.ycombinator.com/item?id=25037784))
+- [Algorithmic Geometry](https://www.personal.kent.edu/~rmuhamma/Compgeometry/compgeom.html)
