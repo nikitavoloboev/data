@@ -15,3 +15,4 @@
 - [Cypress Recorder](https://github.com/KabaLabs/Cypress-Recorder) - Chrome developer tool that records user interaction within a web application and generates Cypress scripts to allow the developer to replicate that particular session.
 - [cypress-wait-until](https://github.com/NoriSte/cypress-wait-until) - Add the Cypress waiting power to virtually everything.
 - [Mastering UI Testing with Cypress](https://github.com/NoriSte/working-software-mastering-ui-testing)
+- [Cypress Real Events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.

@@ -20,3 +20,4 @@
 - [Why Complexity is Different (2017)](https://mystudentvoices.com/why-complexity-is-different-ecd498e0eccb)
 - [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [System Design Preparation](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions.

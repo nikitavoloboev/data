@@ -110,6 +110,7 @@
 - [OpenCog AtomSpace](https://github.com/opencog/atomspace) - In-RAM knowledge representation (KR) database, an associated query engine and graph-re-writing system, and a rule-driven inferencing engine that can apply and manipulate sequences of rules to perform reasoning. ([Web](https://wiki.opencog.org/w/AtomSpace))
 - [Sybil](https://github.com/logv/sybil) - Append only analytics datastore with no up front table schema requirements. Just log JSON records to a table and run queries.
 - [Comdb2](https://github.com/bloomberg/comdb2) - Clustered RDBMS built on Optimistic Concurrency Control techniques.
+- [Arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data.
 
 ## Tools
 
@@ -132,6 +133,7 @@
 - [gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema Migrations for MySQL.
 - [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
 - [ShardingSphere](https://github.com/apache/shardingsphere) - Distributed Database Middleware Ecosphere.
+- [ln2sql](https://github.com/FerreroJeremy/ln2sql) - NLP tool to query a database in natural language.
 
 ## Links
 
