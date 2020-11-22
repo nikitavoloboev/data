@@ -107,3 +107,4 @@
 - [Coccinelle](https://github.com/coccinelle/coccinelle) - Allows programmers to easily write some complex style-preserving source-to-source transformations on C source code, like for instance to perform some refactorings.
 - [rcc](https://github.com/wbowling/rcc) - Basic c compiler written in rust.
 - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+- [What is your favorite C programming trick?](https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick) ([HN](https://news.ycombinator.com/item?id=25176531))
