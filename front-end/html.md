@@ -83,3 +83,4 @@
 - [HTML & CSS Is Hard | Friendly web development tutorial](https://www.internetingishard.com/html-and-css/)
 - [imperative-html](https://github.com/johnnesky/imperative-html) - Small JavaScript library for creating HTML (and SVG) elements in a web browser.
 - [lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as strings or streams (and in the browser too).
+- [hypertag](https://github.com/AndreasPizsa/hypertag) - HTML tag parser built for speed.
