@@ -562,6 +562,7 @@
 - [cargo-limit](https://github.com/alopatindev/cargo-limit) - Cargo with less noise: warnings are skipped until errors are fixed, etc.
 - [cargo-deadlinks](https://github.com/deadlinks/cargo-deadlinks) - Check your cargo doc documentation for broken links.
 - [cargo-osha](https://github.com/icefoxen/cargo-osha) - Cargo plugin to list unsafe code in a Rust project.
+- [Cargo Wipe](https://github.com/mihai-dinculescu/cargo-wipe) - Recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path.
 
 ## Links
 

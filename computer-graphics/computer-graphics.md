@@ -108,3 +108,6 @@
 - [A Comparison of Modern Graphics APIs (2020)](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 - [Fluid Engine Dev - Jet](https://github.com/doyubkim/fluid-engine-dev) - Fluid simulation engine SDK for computer graphics applications. ([Web](https://fluidenginedevelopment.org/))
 - [meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render.
+- [Mitsuba 2: Retargetable Forward and Inverse Renderer (Differentiable Renderer)](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) ([HN](https://news.ycombinator.com/item?id=25159154))
+- [RGL: Realistic Graphics Lab](http://rgl.epfl.ch/)
+- [Eight Years at Roblox (2020)](https://zeux.io/2020/08/02/eight-years-at-roblox/) ([HN](https://news.ycombinator.com/item?id=25158904))

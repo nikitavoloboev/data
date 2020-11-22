@@ -24,3 +24,4 @@ I enjoy playing [Pistol Whip](https://cloudheadgames.com/pistol-whip/) on [Oculu
 - [Facebook Connect: John Carmack Unscripted Live (2020)](https://www.youtube.com/watch?v=sXmY26pOE-Y)
 - [Venture Reality Fund](https://www.thevrfund.com/)
 - [Oculus Quest Mixed Reality app for iOS](https://github.com/fabio914/OculusQuestMixedRealityForiOS)
+- [Sega VR Revived: Emulating an Unreleased Genesis Accessory](https://gamehistory.org/segavr/) ([HN](https://news.ycombinator.com/item?id=25161494))

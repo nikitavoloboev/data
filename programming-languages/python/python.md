@@ -216,3 +216,4 @@
 - [DepHell](https://github.com/dephell/dephell) - Project management for Python.
 - [Minimal web server demo in Python](https://gist.github.com/jph00/c3db65d2fdb75d8c369c45b688630e98) ([Tweet](https://twitter.com/jeremyphoward/status/1328780892769120256))
 - [Build a Flask microservice with OpenFaaS (2020)](https://www.openfaas.com/blog/openfaas-flask/)
+- [IPython for Web Devs](https://ipythonbook.com/)

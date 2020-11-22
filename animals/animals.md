@@ -66,3 +66,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Stopping some fishing would increase overall catches (2020)](https://www.economist.com/science-and-technology/2020/10/31/stopping-some-fishing-would-increase-overall-catches) ([HN](https://news.ycombinator.com/item?id=25020597))
 - [Edinburgh Samoyed Rescue](https://www.edinburghsamoyedrescue.com/) - Private Dog Charity.
 - [Why are there so many cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/) ([HN](https://news.ycombinator.com/item?id=25163312))
+- [The Uniqueness of Mammals (2020)](https://areomagazine.com/2020/11/19/the-uniqueness-of-mammals/) ([HN](https://news.ycombinator.com/item?id=25172101))

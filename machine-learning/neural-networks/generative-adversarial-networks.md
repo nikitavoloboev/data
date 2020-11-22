@@ -63,3 +63,5 @@
 - [GANs with Keras and TensorFlow (2020)](https://www.pyimagesearch.com/2020/11/16/gans-with-keras-and-tensorflow/)
 - [RCF-GAN](https://github.com/ShengxiLi/rcf_gan) - Implementation of RCF-GAN proposed in the paper "Reciprocal Adversarial Learning via Characteristic Functions".
 - [Using GANs to Create Fantastical Creatures (2020)](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html) ([HN](https://news.ycombinator.com/item?id=25146610))
+- [This X Does Not Exist](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything.
+- [Style-based GANs – Generating and Tuning Realistic Artificial Faces (2018)](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)

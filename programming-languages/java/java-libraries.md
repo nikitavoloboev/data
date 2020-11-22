@@ -8,6 +8,10 @@
 
 - [Skija](https://github.com/JetBrains/skija) - Skia bindings for Java. Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms.
 
+## DB
+
+- [jOOQ](https://github.com/jOOQ/jOOQ) - Fluent API for typesafe SQL query construction and execution. ([Web](https://www.jooq.org/))
+
 ## Other
 
 - [bifurcan](https://github.com/lacuna/bifurcan) - Impure functional data structures.

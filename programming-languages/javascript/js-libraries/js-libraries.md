@@ -371,6 +371,8 @@
 - [match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript.
 - [Fetch Event Source](https://github.com/Azure/fetch-event-source) - Better API for making Event Source requests, with all the features of fetch().
 - [rafz](https://github.com/pmndrs/rafz) - Coordinate requestAnimationFrame calls across your app and/or libraries.
+- [p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise.
+- [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. ([Web](https://copy.sh/v86/))
 
 ## Links
 

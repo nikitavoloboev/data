@@ -34,3 +34,4 @@
 - [Quantum Mechanics For Mathematicians (video playlist) (2020)](https://www.youtube.com/playlist?list=PLqX5gFCSJtMBA62lNda_l5jRV09LklQ0s)
 - [Quantum Tunnel Shows Particles Can Break the Speed of Light (2020)](https://www.quantamagazine.org/quantum-tunnel-shows-particles-can-break-the-speed-of-light-20201020/) ([HN](https://news.ycombinator.com/item?id=24876598))
 - [Beyond Weird: Decoherence, Quantum Weirdness, and Schrödinger's Cat (2020)](https://www.theatlantic.com/science/archive/2018/10/beyond-weird-decoherence-quantum-weirdness-schrodingers-cat/573448/)
+- [A Stochastic Derivation of Classical and Quantum Mechanics (2020)](https://arxiv.org/abs/2011.09181)

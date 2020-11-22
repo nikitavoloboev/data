@@ -76,3 +76,5 @@
 - [The Big Lessons from History (2020)](https://www.collaborativefund.com/blog/the-big-lessons-from-history/) ([HN](https://news.ycombinator.com/item?id=25083946))
 - [They Thought They Were Free: The Germans, 1933-45 (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html) ([HN](https://news.ycombinator.com/item?id=25083315))
 - [Why Military History? (2020)](https://acoup.blog/2020/11/13/collections-why-military-history/) ([HN](https://news.ycombinator.com/item?id=25092118))
+- [The Best of NeXT Collection](http://www.kevra.org/TheBestOfNext/index.html) ([HN](https://news.ycombinator.com/item?id=25172693))
+- [Native Intelligence (2005)](https://www.smithsonianmag.com/history/native-intelligence-109314481/) ([HN](https://news.ycombinator.com/item?id=25171303))

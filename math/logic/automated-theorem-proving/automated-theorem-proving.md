@@ -15,3 +15,4 @@
 - [Posts in the category "Every proof assistant"](http://math.andrej.com/category/every-proof-assistant/)
 - [Graph Representations for Higher-Order Logic and Theorem Proving (2019)](https://arxiv.org/abs/1905.10006) ([HN](https://news.ycombinator.com/item?id=24389058))
 - [Generative Language Modeling for Automated Theorem Proving (2020)](https://arxiv.org/abs/2009.03393) ([HN](https://news.ycombinator.com/item?id=24420874))
+- [Untangling Mechanized Proofs (2020)](https://plv.csail.mit.edu/blog/alectryon.html) ([HN](https://news.ycombinator.com/item?id=25148370))
