@@ -115,3 +115,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Stop Emailing Like A Rube (2020)](https://sneak.berlin/20201029/stop-emailing-like-a-rube/)
 - [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) - One-click, easy-to-deploy SMTP+everything else server: a mail server in a box. ([Web](https://mailinabox.email/))
 - [docker-mailserver](https://github.com/tomav/docker-mailserver) - Full stack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+- [go-smtp](https://github.com/emersion/go-smtp) - ESMTP client and server library written in Go.

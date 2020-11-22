@@ -61,3 +61,4 @@
 - [Performance Analysis and Tuning on Modern CPUs book](https://book.easyperf.net/perf_book)
 - [Under the hood of a CPU: Reverse Engineering the P6 microcode | Peter Bosch (2020)](https://www.youtube.com/watch?v=4oFOpDflJMA)
 - [2020 Wheeler Lecture: The Future of Microprocessors](https://www.youtube.com/watch?v=R2SdSLCMKEA)
+- [c8c](https://github.com/glouw/c8c) - Aims to be a small typeless programming language for the CHIP-8 virtual machine.

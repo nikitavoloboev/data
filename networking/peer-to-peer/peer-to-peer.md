@@ -60,3 +60,4 @@
 - [Publish a Local Webserver using P2P network (2020)](https://support.diode.io/article/ss32engxlq)
 - [Toronto Mesh](https://tomesh.net/) - Help communities create better networks with open source and peer-to-peer technologies that promote digital literacy and privacy. ([GitHub](https://github.com/tomeshnet))
 - [Intro to P2P Indexing and Search](https://github.com/hypercore-protocol/p2p-indexing-and-search)
+- [p2p Git Portal](https://github.com/happybeing/p2p-git-portal-poc) - GitHub like portal which can be hosted on peer-to-peer or static storage, initially targeting Safe Network.

@@ -64,6 +64,7 @@
 - [react-adaptive-hooks](https://github.com/GoogleChromeLabs/react-adaptive-hooks) - Deliver experiences best suited to a user's device and network constraints.
 - [React UseGesture](https://github.com/pmndrs/react-use-gesture) - Hook that lets you bind richer mouse and touch events to any component or view.
 - [react-hook](https://github.com/jaredLunde/react-hook) - Strongly typed React hooks for function components.
+- [Hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the HTML head.
 
 ## Notes
 

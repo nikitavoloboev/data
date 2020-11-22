@@ -172,3 +172,4 @@
 - [MiniSom](https://github.com/JustGlowing/minisom) - Minimalistic implementation of the Self Organizing Maps.
 - [Basics of Convolution (2020)](https://ashwinsharma.tech/basics-of-convolution)
 - [DeepGCNs: Can GCNs Go as Deep as CNNs?](https://github.com/lightaime/deep_gcns_torch)
+- [Tinn](https://github.com/glouw/tinn) - 200 line dependency free neural network library written in C99.
