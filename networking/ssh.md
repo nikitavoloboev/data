@@ -44,3 +44,4 @@
 - [LazySSH](https://github.com/stephank/lazyssh) - SSH server that acts as a jump host only, and dynamically starts temporary virtual machines. ([HN](https://news.ycombinator.com/item?id=25081472))
 - [Passive SSH](https://github.com/D4-project/passive-ssh) - Open source framework composed of a scanner and server to store and lookup the SSH keys and fingerprints per host (IPv4/IPv6/onion). ([Presentation](https://github.com/D4-project/passive-ssh/blob/main/doc/slides/passive-ssh-presentation.pdf))
 - [Paramiko](https://github.com/paramiko/paramiko) - Leading native Python SSHv2 protocol library.
+- [boxssh](https://github.com/prologic/sshbox) - Server that boxes you into a container.
