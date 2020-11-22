@@ -11,6 +11,7 @@
 ## DB
 
 - [jOOQ](https://github.com/jOOQ/jOOQ) - Fluent API for typesafe SQL query construction and execution. ([Web](https://www.jooq.org/))
+- [ObjectiveSQL](https://github.com/braisdom/ObjectiveSql) - ORM framework in Java based on ActiveRecord pattern. ([HN](https://news.ycombinator.com/item?id=25170053))
 
 ## Other
 

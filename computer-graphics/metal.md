@@ -22,3 +22,4 @@
 - [MaLiang](https://github.com/Harley-xk/MaLiang) - iOS painting and drawing library based on Metal.
 - [mtlpp](https://github.com/naleksiev/mtlpp) - C++ wrapper around Metal.
 - [SirMetal](https://github.com/giordi91/SirMetal) - Metal-based game editor.
+- [Tailor your Metal apps for Apple M1 (2020)](https://developer.apple.com/videos/play/tech-talks/10859)

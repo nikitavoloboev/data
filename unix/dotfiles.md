@@ -48,3 +48,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [rcm](https://github.com/thoughtbot/rcm) - Management suite for dotfiles.
 - [Dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. ([Web](https://deadc0de.re/dotdrop/))
 - [Dotter](https://github.com/SuperCuber/dotter) - Dotfile manager and templater written in Rust. ([HN](https://news.ycombinator.com/item?id=25035276))
+- [Dotfile](https://github.com/knoebber/dotfile) - Version control system designed for dotfiles.

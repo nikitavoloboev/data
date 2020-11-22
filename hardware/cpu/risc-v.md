@@ -69,3 +69,4 @@
 - [venus](https://www.kvakil.me/venus/) - RISC-V instruction set simulator built for education. ([Code](https://github.com/kvakil/venus))
 - [RISC-V Reference Card](https://github.com/jameslzhu/riscv-card) ([PDF](https://github.com/jameslzhu/riscv-card/blob/master/riscv-card.pdf))
 - [What do RISC and CISC mean in 2020?](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de) ([HN](https://news.ycombinator.com/item?id=25159704))
+- [SERV](https://github.com/olofk/serv) - SErial RISC-V CPU.
