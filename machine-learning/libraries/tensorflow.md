@@ -66,3 +66,4 @@
 - [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
 - [TensorFlow Model Garden](https://github.com/tensorflow/models) - Repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users.
 - [Mac-optimized TensorFlow and TensorFlow Addons](https://github.com/apple/tensorflow_macos)
+- [TensorFlow binaries supporting AVX, FMA, SSE](https://github.com/lakshayg/tensorflow-build)

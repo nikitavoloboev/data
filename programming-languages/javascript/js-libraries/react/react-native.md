@@ -94,3 +94,4 @@
 - [Speed up heavy React Native screens](https://github.com/nandorojo/react-navigation-heavy-screen)
 - [React Native Restyled](https://github.com/z0al/react-native-restyled) - Utility-first Styling Library for React Native.
 - [SnackUI](https://github.com/natew/snackui) - Fast UI kit for React Native (+ web) with SwiftUI stacks.
+- [react-native-svg-app-icon](https://github.com/aeirola/react-native-svg-app-icon) - Generate all app icons for you React Native apps from a single SVG file.

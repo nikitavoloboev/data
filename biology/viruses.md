@@ -50,3 +50,4 @@
 - [Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics (2020)](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v3)
 - [SARS-CoV-2 waves in Europe: A 2-stratum SEIRS model solution (2020)](https://www.medrxiv.org/content/10.1101/2020.10.09.20210146v2) ([Tweet](https://twitter.com/federicolois/status/1316127717331480578))
 - [MakAir](https://github.com/makers-for-life/makair) - Covid-19 Open Source Ventilator.
+- [COVID Tracking Project](https://covidtracking.com/)

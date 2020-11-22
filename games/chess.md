@@ -26,3 +26,4 @@
 - [castling.club](https://castling.club/) - Chess over ActivityPub.
 - [SwiftChess](https://github.com/SteveBarnegren/SwiftChess) - Chess engine written in Swift.
 - [Play Magnus](https://www.playmagnus.com/no) - Chess Training by Magnus Carlsen. ([Lessons](https://www.playmagnus.com/no/magnus-trainer/lessons))
+- [Chessvision.ai](https://chessvision.ai/) - Analyze chess position from websites, ebooks, and videos. ([Blog](https://blog.chessvision.ai/))
