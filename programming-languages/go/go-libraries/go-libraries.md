@@ -91,6 +91,7 @@
 - [goim](https://github.com/Terry-Mao/goim) - Web server in Go.
 - [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 - [dhcp](https://github.com/insomniacslk/dhcp) - DHCPv4 and DHCPv6 decoding/encoding library with client and server code, written in Go.
+- [go-zero](https://github.com/tal-tech/go-zero) - Web and rpc framework that with lots of engineering practices builtin.
 
 ## GraphQL
 

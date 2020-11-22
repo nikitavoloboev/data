@@ -253,6 +253,7 @@ Here are few more things I liked, design wise.
 - [Timmy O'Mahony](https://timmyomahony.com/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Nick Reese](https://nicholasreese.com/)
+- [Nick Bostrom](https://www.nickbostrom.com/)
 - [Derek Sivers](https://sivers.org/)
 - [Camille Fassett](https://www.sempervirens.io/)
 - [Matthias Endler](https://endler.dev/) ([Code](https://github.com/mre/endler.dev))

@@ -391,3 +391,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Gossip’s Web](https://gossipsweb.net/) - Link collection. Costs 1\$ to submit link.
 - [Beth Harmon - Alone (2020)](https://www.youtube.com/watch?v=YzeRik5yEBY)
 - [Ask HN: How do you stimulate your creativity on a day like today? (2020)](https://news.ycombinator.com/item?id=25170661)
+- [The Fable of the Dragon-Tyrant story](https://www.nickbostrom.com/fable/dragon.html)

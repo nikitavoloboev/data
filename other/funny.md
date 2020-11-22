@@ -54,3 +54,4 @@
 - [Me buying chips on acid at 711](https://twitter.com/JacobWysocki/status/1326712798882140160)
 - [Working in toxic environments because at least it will help you get a “seat at the table”](https://twitter.com/DewaynePerkins/status/1326959219145207808)
 - [Bill O'Reilly - "We'll do it live!"](https://www.youtube.com/watch?v=-Gh1lTcwdGY)
+- [What it’s like trying to argue with 90% of the people in my mentions](https://twitter.com/MalwareTechBlog/status/1330273227185262592)
