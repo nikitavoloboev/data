@@ -83,5 +83,5 @@
 - [Foundations of Computer Science (1992)](http://infolab.stanford.edu/~ullman/focs.html)
 - [Program and Data Representation course](https://aaronbloomfield.github.io/pdr/readme.html) ([Code](https://github.com/uva-cs/pdr))
 - [Foundations of Computer Science annual conference (2020)](https://focs2020.cs.duke.edu/program/)
-- [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA)
+- [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA) ([Reddit](https://www.reddit.com/r/programming/comments/jybwv0/exploring_how_computers_work/))
 - [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Computation explained with screencasts.

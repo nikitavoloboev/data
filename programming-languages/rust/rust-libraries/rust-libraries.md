@@ -125,6 +125,7 @@
 - [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
 - [SNAFU](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context.
 - [some-error](https://github.com/jam1garner/some-error) - Library for creating and using anonymous sum types as errors.
+- [Srcerr](https://github.com/azriel91/srcerr) - User friendly errors from source data.
 
 ## IO
 
@@ -541,6 +542,7 @@
 - [r0](https://github.com/rust-embedded/r0) - Memory initialization code written in Rust.
 - [Lunatic](https://github.com/lunatic-lang/lunatic) - Platform for building actor systems that use WebAssembly instances as actors.
 - [Kira](https://github.com/tesselode/kira) - Library for expressive game audio.
+- [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 
 ## Cargo Plugins
 
