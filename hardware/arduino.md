@@ -13,3 +13,4 @@
 - [Arduino emulator](https://github.com/ghewgill/emulino)
 - [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Adds MIDI I/O communications to an Arduino board.
 - [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) - ArduinoBLE library for Arduino.
+- [Arduino video tutorials](https://arduino-tutorials.net/) ([Code](https://github.com/BasOnTech/Arduino-Beginners-EN))

@@ -74,6 +74,7 @@
 - [Synchron](https://github.com/pkamenarsky/synchron) - Synchronous reactive concurrent programming DSL for Haskell.
 - [microlens](https://github.com/monadfix/microlens) - Tiny part of the lens library with no dependencies.
 - [Yoda](https://github.com/zenzike/yoda) - Small parser combinator library.
+- [Conduit](https://github.com/snoyberg/conduit) - Framework for dealing with streaming data.
 
 ## Links
 

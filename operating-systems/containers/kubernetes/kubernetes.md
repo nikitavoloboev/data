@@ -262,3 +262,4 @@
 - [Swoll](https://github.com/criticalstack/swoll) - Suite of applications and APIs for monitoring kernel-level activity on a live Kubernetes cluster.
 - [illuminatio](https://github.com/inovex/illuminatio) - Tool for automatically testing kubernetes network policies.
 - [Metacontroller](https://github.com/metacontroller/metacontroller) - Add-on for Kubernetes that makes it easy to write and deploy custom controllers in the form of simple scripts.
+- [Karpenter](https://github.com/awslabs/karpenter) - Metrics-driven autoscaler built for Kubernetes and can run in any Kubernetes cluster anywhere.
