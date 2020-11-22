@@ -34,3 +34,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share some boards in pub
 - [Host Notion](https://www.hostnotion.co/) - Custom domains for your Notion pages.
 - [Documentation for Dummies](https://air.inc/blog/documentation-for-dummies-notion-templates-for-early-stage-startups) - Notion templates based on real docs.
 - [Collection of Notion-based products and services](https://www.notion.so/Ultimate-Notion-collection-27cf98d2ed1c42f9a188990d0e36bf0a)
+- [Nishan](https://github.com/Nishan-Open-Source/Nishan) - Unofficial Notion api for node.js with all crud functionalities for Space, User, Block, Page and many more.
