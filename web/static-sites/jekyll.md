@@ -8,6 +8,7 @@
 - [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 - [Lagrange](https://github.com/LeNPaul/Lagrange) - Minimalist Jekyll theme for running a personal blog.
 - [whiteglass](https://github.com/yous/whiteglass) - Minimal, responsive Jekyll theme for hackers.
+- [Tale](https://github.com/chesterhow/tale) - Minimal Jekyll theme for storytellers.
 
 ## Plugins
 

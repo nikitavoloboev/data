@@ -144,6 +144,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Fran Rodríguez](https://www.instagram.com/lacabezaenlasnubes/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
+- [Nicholas Kole](https://www.instagram.com/nicholaskole/) ([Web](https://www.nicholaskole.art/))
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
 - [Milton Glaser](https://www.miltonglaser.com/the-work/)
 - [Daniel Riise](https://www.instagram.com/nostalgictree/)

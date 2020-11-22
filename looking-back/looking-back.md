@@ -10,7 +10,7 @@ I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) wit
 
 - [January](2020/2020-january.md) - Joined Rekki.
 - [February](2020/2020-february.md) - React, RN, Go.
-- [March](2020/2020-march.md) - Left Rekki, all restaurants closed due to Corona.
+- [March](2020/2020-march.md) - Left Rekki.
 - [April](2020/2020-april.md) - Learning.
 - [May](2020/2020-may.md) - Learning.
 - [June](2020/2020-june.md) - Surviving.
