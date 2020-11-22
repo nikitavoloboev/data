@@ -109,3 +109,4 @@
 - [Example Mail app on macOS using SwiftUI](https://github.com/jordansinger/mail-swiftui-sample)
 - [Widget Examples](https://github.com/pawello2222/WidgetExamples) - Demo project showcasing different types of Widgets created with SwiftUI and WidgetKit.
 - [MVVM in iOS with SwiftUI (Detailed Example + Pitfalls) (2020)](https://matteomanferdini.com/mvvm-pattern-ios-swift/)
+- [Should I use SwiftUI in production? A code-to-code comparison to help you decide (2020)](https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost) ([HN](https://news.ycombinator.com/item?id=25171532))

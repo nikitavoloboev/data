@@ -597,6 +597,7 @@
 - [Gota](https://github.com/go-gota/gota) - DataFrames, Series and Data Wrangling for Go.
 - [vfs](https://github.com/C2FO/vfs) - Pluggable, extensible virtual file system for Go.
 - [Deepcopier](https://github.com/ulule/deepcopier) - Meant to make copying of structs to/from others structs a bit easier.
+- [webauthn](https://github.com/koesie10/webauthn) - Web Authentication API in Go.
 
 ## Links
 
