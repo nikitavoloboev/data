@@ -91,3 +91,4 @@
 - [Learning Clojure in Public](https://github.com/alaq/learning-clojure-in-public)
 - [Transducers! But can I thread?](https://telescope.ac/nobody-watching/transducers) ([Lobsters](https://lobste.rs/s/zhp280/transducers_can_i_thread))
 - [Practicalli Clojure deps.edn](https://github.com/practicalli/clojure-deps-edn) - Collection of useful configuration and aliases for deps.edn based projects.
+- [re:Clojure 2020](https://reclojure.org/) - Community-driven effort to bring together knowledgeable speakers to present new and exciting topics on all things Clojure and Clojurescript.

@@ -109,3 +109,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Slingshot](https://slingshot.finance/) - Next Generation Decentralized Trading.
 - [K Semantics of the Ethereum Virtual Machine (EVM)](https://github.com/kframework/evm-semantics)
 - [beaconcha.in](https://beaconcha.in/) - Open Source Ethereum 2.0 Beacon Chain Explorer. ([Code](https://github.com/gobitfly/eth2-beaconchain-explorer))
+- [Coinbase Speaker Series: Vitalik Buterin (2020)](https://www.youtube.com/watch?v=shEeqqPqF50)

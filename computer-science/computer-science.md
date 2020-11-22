@@ -2,7 +2,7 @@
 
 ## Notes
 
-- Turing machines however are not the only theoretical model that can be used to define computation.
+- Turing machines are not the only theoretical model that can be used to define computation.
 
 ## Links
 
