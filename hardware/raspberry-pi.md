@@ -52,3 +52,4 @@
 - [Making Pi ServerReady](https://rpi4-uefi.dev/) - SBBR-compliant (UEFI+ACPI) AArch64 firmware for the Raspberry Pi 4.
 - [Source code for ARM side libraries for interfacing to Raspberry Pi GPU](https://github.com/raspberrypi/userland)
 - [Shaking Down the Raspberry Pi 400 (2020)](https://www.pluralsight.com/blog/software-development/raspberry-pi-400)
+- [Getting started with Firecracker on Raspberry Pi (2020)](https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/) ([Lobsters](https://lobste.rs/s/b6tsce/getting_started_with_firecracker_on))

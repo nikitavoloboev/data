@@ -85,3 +85,4 @@
 - [Foundations of Computer Science annual conference (2020)](https://focs2020.cs.duke.edu/program/)
 - [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA) ([Reddit](https://www.reddit.com/r/programming/comments/jybwv0/exploring_how_computers_work/))
 - [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Computation explained with screencasts.
+- [Map of Computer Science (2017)](https://www.youtube.com/watch?v=SzJ46YA_RaA)

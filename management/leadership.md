@@ -9,3 +9,4 @@
 - [Don't Create Chaos (2020)](https://staysaasy.com/management/2020/07/07/dont-create-chaos.html) ([HN](https://news.ycombinator.com/item?id=23906172))
 - [The surprising traits of good remote leaders (2020)](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) ([HN](https://news.ycombinator.com/item?id=24431169))
 - [Open Leadership Framework](https://github.com/mozilla/open-leadership-framework)
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)

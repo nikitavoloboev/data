@@ -35,3 +35,4 @@
 - [How to price your SaaS product (2020)](https://www.lennyrachitsky.com/p/saas-pricing-strategy)
 - [Ask HN: How do you sell services, instead of a product? (2020)](https://news.ycombinator.com/item?id=25048031)
 - [SaaS Needs a Single Point of Purchase (2020)](https://landshark.io/2020/11/13/saas-needs-a-single-point-of-purchase.html) ([HN](https://news.ycombinator.com/item?id=25081711))
+- [How to Monetize Data Networks: Focus on Acquisition and Usage (2020)](https://medium.com/breadcrumb/how-to-monetize-data-networks-focus-on-acquisition-and-usage-1c822aa67b3e)

@@ -129,3 +129,4 @@
 - [SquinkyVCV](https://github.com/squinkylabs/SquinkyVCV) - Collection of modules for the VCV Rack virtual modular synthesizer.
 - [VCV Rack](https://vcvrack.com/) - Free and open-source cross-platform software modular synthesizer. ([GitHub](https://github.com/VCVRack))
 - [Pianists for Alternatively Sized Keyboards](http://paskpiano.org/about/) ([HN](https://news.ycombinator.com/item?id=25173522))
+- [AudioGridder](https://github.com/apohl79/audiogridder) - DSP servers using general purpose networks and computers. ([Web](https://audiogridder.com/))

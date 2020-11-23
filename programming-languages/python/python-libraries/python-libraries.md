@@ -233,6 +233,9 @@
 - [Lcapy](https://github.com/mph-/lcapy) - Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 - [Opytimizer](https://github.com/gugarosa/opytimizer) - Nature-Inspired Python Optimizer.
 - [Futureproof](https://github.com/yeraydiazdiaz/futureproof) - Bulletproof concurrent.futures.
+- [Delocate](https://github.com/matthew-brett/delocate) - Find and copy needed dynamic libraries into python wheels.
+- [Result](https://github.com/dbrgn/result) - Simple Rust like Result type for Python 3. Fully type annotated.
+- [cu2qu](https://github.com/googlefonts/cu2qu) - Cubic-to-quadratic bezier curve conversion.
 
 ## Links
 

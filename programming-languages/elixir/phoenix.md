@@ -16,3 +16,4 @@
 - [Torch](https://github.com/mojotech/torch) - Rapid admin generator for Phoenix apps.
 - [Fireweed](https://github.com/rjdestigter/fireweed) - Exploration of building full stack single page application with Elixir and Phoenix LiveView.
 - [Translating Phoenix Applications With Gettext (2020)](https://phrase.com/blog/posts/i18n-for-phoenix-applications-with-gettext/)
+- [Phoenix Igniter](https://phoenixigniter.com/) - Base from which to build your Phoenix apps.

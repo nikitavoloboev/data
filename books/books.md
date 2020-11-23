@@ -203,6 +203,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Maker Reads](https://makerreads.com/) ([News](https://news.makerreads.com/))
 - [Essential Reading for Startup CTOs](https://www.karllhughes.com/posts/reading-for-startup-ctos)
 - [Book Recommendations - Limitless Curiosity](https://limitlesscuriosity.com/book-recommendations/)
+- [Lex Fridman Library](https://lexfridmanlibrary.com/) - Library of book recommendations of all guests of the Lex Fridman Podcast.
 
 ## Notes
 

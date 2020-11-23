@@ -237,3 +237,5 @@
 - [The state of JavaScript at the end of 2020](https://www.ideamotive.co/javascript-business-guide) ([HN](https://news.ycombinator.com/item?id=25046293))
 - [What the fuck JavaScript](https://github.com/denysdovhan/wtfjs) - List of funny and tricky JavaScript examples.
 - [1loc](https://1loc.dev/) - JavaScript Utilities in 1 LOC.
+- [Component Driven User Interfaces](https://www.componentdriven.org/) - Open standard for UI component examples based on JavaScript ES6 modules. ([Code](https://github.com/ComponentDriven/csf))
+- [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)

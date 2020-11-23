@@ -112,7 +112,7 @@ Go promotes composition over inheritance.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)
 - [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
-- [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go) ([HN](https://news.ycombinator.com/item?id=20701671))
+- [Ultimate Go study guide](https://github.com/ardanlabs/gotraining-studyguide) ([HN](https://news.ycombinator.com/item?id=20701671))
 - [Redress](https://github.com/goretk/redress) - Tool for analyzing stripped binaries.
 - [Ask HN: Is there a project based book or course on Go for writing web APIs? (2019)](https://news.ycombinator.com/item?id=20704993)
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
@@ -351,6 +351,7 @@ Go promotes composition over inheritance.
 - [Statsviz](https://github.com/arl/statsviz) - Instant live visualization of your Go application runtime statistics (GC, MemStats, etc.).
 - [Minimal go webapp (2020)](https://www.tomas.io/articles/go-webapp)
 - [Test with Go](https://testwithgo.com/) - Learn how to test real, complex software written in Go.
+- [Web Development with Go](https://www.usegolang.com/) - Learn to Create Real Web Apps in Go.
 - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
 - [go-module-knobs](https://github.com/thepudds/go-module-knobs) - List of go module knobs for controlling CI, vendoring, and when go commands access the network.
 - [Go day on Google Open Source Live](https://opensourcelive.withgoogle.com/events/go) - Go experts will share updates on everything from Go basics to Package Discovery and Editor Tooling.

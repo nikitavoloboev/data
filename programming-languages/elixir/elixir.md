@@ -62,3 +62,5 @@
 - [You may not need Redis with Elixir (2020)](https://dashbit.co/blog/you-may-not-need-redis-with-elixir)
 - [Circuit Breaker Pattern in Elixir (2020)](https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir)
 - [TypeCheck](https://github.com/Qqwy/elixir-type_check) - Fast and flexible runtime type-checking for your Elixir projects.
+- [Learn Elixir by making 5 small games](https://alchemist.camp/little-potions/hello-world.html)
+- [Sand](https://sand.rty.party/) - Language-level sandbox for Elixir.

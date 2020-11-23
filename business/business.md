@@ -51,3 +51,4 @@ Learning to build [startups](startups/startups.md).
 - [Buttondown Running Costs](https://www.notion.so/Running-Costs-f29729ded5494272947f656440967cbf)
 - [What is Amazon? (2019)](https://zackkanter.com/2019/03/13/what-is-amazon/) ([HN](https://news.ycombinator.com/item?id=24878422))
 - [Complete List Of Unicorn Companies](https://www.cbinsights.com/research-unicorn-companies)
+- [Europe’s startup unicorns](https://sifted.eu/rankings/european-unicorn-startups) ([HN](https://news.ycombinator.com/item?id=25185528))

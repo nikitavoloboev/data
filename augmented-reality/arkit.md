@@ -13,3 +13,4 @@
 - [ArKit smoothedSceneDepth API](https://twitter.com/nobbis/status/1295816678169890816)
 - [Advanced Scene Understanding in AR (2020)](https://developer.apple.com/videos/play/tech-talks/609/)
 - [Facemoji Kit](https://github.com/facemoji/facemoji-kit) - Face tracker with blend shapes coefficients, 3D head pose and dense mesh in real-time on iOS, Android, Mac, PC and Linux.
+- [SceneKit PortalMask](https://github.com/maxxfrazer/SceneKit-PortalMask) - Clean class to create a portal in SceneKit for use in ARKit.

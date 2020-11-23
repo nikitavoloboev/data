@@ -10,3 +10,4 @@
 - [Johns Hopkins Poker Course](https://hopkinspokercourse.com/) ([HN](https://news.ycombinator.com/item?id=24744928))
 - [JustPoker.games](https://justpoker.games/) - No-sign-up in-browser poker app for friendly games. ([HN](https://news.ycombinator.com/item?id=25083418))
 - [Secrets of the MIT Poker Course](https://mentalfloss.atavist.com/secrets-of-the-mit-poker-course)
+- [joker](https://github.com/notnil/joker) - Poker library written in go.

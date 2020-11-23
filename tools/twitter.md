@@ -47,3 +47,4 @@
 - [Twit Thread](https://github.com/adblanc/twit-thread) - Utility module for twitter bots based on Twit, Twitter API client for node.
 - [Twistory](https://twistory.ml/) - Shows you "On This Day" Tweets. ([Article](https://shkspr.mobi/blog/2020/11/introducing-on-this-day-in-twistory/))
 - [Twitter Inspiration Handbook](https://marketingexamples.com/handbook/twitter-inspiration)
+- [Use Netlify Functions and the Twitter API v2 as a CMS for Your Gatsby Blog (2020)](https://paulie.dev/posts/2020/11/gatsby-netlify-twitter/) ([HN](https://news.ycombinator.com/item?id=25186006))

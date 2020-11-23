@@ -27,3 +27,4 @@
 - [Understand 3D in Javascript (ThreeJS) in 5 minutes (2020)](https://www.jesuisundev.com/en/understand-threejs/)
 - [Procedural GL JS](https://github.com/felixpalmer/procedural-gl-js) - Open-source 3D mapping library built with Three.js. ([HN](https://news.ycombinator.com/item?id=25160959)) ([Lobsters](https://lobste.rs/s/tvk0q4/procedural_gl_js_open_source_3d_mapping))
 - [React Three Editable](https://github.com/AndrewPrifer/react-three-editable) - Edit your react-three-fiber scene with a visual editor without giving up control over your code.
+- [Taichi THREE](https://github.com/taichi-dev/taichi_three) - Node-based soft renderer based on the Taichi Programming Language to render 3D scenes into nice-looking 2D images in real-time.

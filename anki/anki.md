@@ -44,3 +44,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Why I Switched to SuperMemo After Using Anki 5 Years, 50k Cards and 420k Reviews (2018)](https://www.masterhowtolearn.com/2018-10-28-why-i-switched-to-supermemo/)
 - [Anki as Learning Superpower: Computer Science Edition (2020)](https://www.gresearch.co.uk/article/anki-as-learning-superpower-computer-science-edition/) ([HN](https://news.ycombinator.com/item?id=24878171))
 - [Memorai](https://memorai.humanloop.ml/) - AI memory assistant – remember everything you read. ([Code](https://github.com/humanloop/memorai))
+- [How to Learn to Code I: Use SRS and Anki (2020)](https://www.youtube.com/watch?v=kshXDo8psj8)

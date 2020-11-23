@@ -19,3 +19,6 @@
 - [Point Cloud Visualizer](https://github.com/uhlik/bpy) - Blender python scripts.
 - [Blender 2.8 Beginner Tutorial Series (2019)](https://www.youtube.com/playlist?list=PL3UWN2F2M2C8-zUjbFlbgtWPQa0NXBsp0)
 - [Introduction to blender scripting](https://github.com/njanakiev/blender-scripting)
+- [EasyBPY](https://github.com/curtisjamesholt/EasyBPY) - Module to simplify the use of the Blender Python API.
+- [BY-GEN](https://github.com/curtibsjamesholt/BY-GEN-public) - Generative Modeling Toolkit for Blender.
+- [Curtis Holt YouTube](https://www.youtube.com/curtisholt) - Does videos on 3D modelling / Blender.

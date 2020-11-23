@@ -235,3 +235,4 @@
 - [16 CSS Secrets to improve Web Designs (2020)](https://codecoda.com/en/blog/entry/16-css-secrets-to-improve-web-designs)
 - [Hell Yes! CSS!](https://wizardzines.com/zines/css/) - CSS Zines.
 - [Easing Gradients](https://larsenwork.com/easing-gradients/) - Create and preview your own easing gradients in CSS. ([Code](https://github.com/larsenwork/postcss-easing-gradients))
+- [CSSTree](https://github.com/csstree/csstree) - Tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations.

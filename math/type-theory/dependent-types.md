@@ -38,3 +38,6 @@
 - [Dependent types to code are what static types to data (2020)](https://www.poberezkin.com/posts/2020-09-04-dependent-types-to-code-are-what-static-types-to-data.html)
 - [Pie language](https://github.com/the-little-typer/pie) - Little Language with Dependent Types. Companion language for The Little Typer book.
 - [What makes dependent type theory more suitable than set theory for proof assistants?](https://mathoverflow.net/questions/376839/what-makes-dependent-type-theory-more-suitable-than-set-theory-for-proof-assista) ([HN](https://news.ycombinator.com/item?id=25167468))
+- [Dependent types at work (2009)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.386.2624) ([Code](https://github.com/conal/DependentTypesAtWork-exercises))
+- [curnelo](https://github.com/webyrd/curnelo) - Cur dependently-typed programming language, implemented in miniKanren.
+- [cur](https://github.com/wilbowma/cur) - Language with static dependent-types and dynamic types, type annotations and parentheses, theorem proving and meta-programming.

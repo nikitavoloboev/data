@@ -27,3 +27,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [tabtab](https://github.com/denosaurs/tabtab) - Generate CLI completions for zsh, bash, and fish.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your zsh configuration.
 - [zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of zsh commands.
+- [Zsh Compinit ... RTFM (2018)](https://www.danielmoch.com/posts/2018/11/zsh-compinit-rtfm/) - Optimizing Zsh startup time.

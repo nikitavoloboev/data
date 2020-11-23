@@ -32,6 +32,7 @@
 - [StatsModels](https://github.com/JuliaStats/StatsModels.jl) - Specifying, fitting, and evaluating statistical models in Julia.
 - [MathOptInterface](https://github.com/jump-dev/MathOptInterface.jl) - Abstraction layer for mathematical optimization solvers.
 - [TemporalGPs](https://github.com/willtebbutt/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time.
+- [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - Estimates derivatives with finite differences.
 
 ## Biology
 
@@ -119,6 +120,7 @@
 - [Cxx.jl](https://github.com/JuliaInterop/Cxx.jl) - Julia C++ Interface.
 - [Cascadia](https://github.com/Algocircle/Cascadia.jl) - CSS Selector library in Julia.
 - [JSON3](https://github.com/quinnj/JSON3.jl) - JSON package for Julia. Focused on speed and slick struct mapping.
+- [JSON.jl](https://github.com/JuliaIO/JSON.jl) - JSON parsing and printing.
 - [TableIO](https://github.com/lungben/TableIO.jl) - Glue package for reading and writing tabular data.
 
 ## Links

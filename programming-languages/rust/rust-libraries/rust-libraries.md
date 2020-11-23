@@ -544,6 +544,9 @@
 - [Kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 - [infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature.
+- [pretty-env-logger](https://github.com/seanmonstar/pretty-env-logger) - Pretty, easy-to-use logger for Rust.
+- [grmtools](https://github.com/softdevteam/grmtools) - Suite of Rust libraries and binaries for parsing text, both at compile-time, and run-time.
+- [HashRing](https://github.com/jeromefroe/hashring-rs) - Minimal implementation of consistent hashing.
 
 ## Cargo Plugins
 

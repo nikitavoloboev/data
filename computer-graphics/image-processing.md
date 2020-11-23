@@ -64,3 +64,4 @@
 - [Odiff](https://github.com/dmtrKovalenko/odiff) - Fastest in the world pixel-by-pixel image difference tool.
 - [Image Processing in Python: Algorithms, Tools, and Methods You Should Know (2020)](https://neptune.ai/blog/image-processing-in-python-algorithms-tools-and-methods-you-should-know)
 - [Image Super-Resolution](https://github.com/idealo/image-super-resolution) - Upscale and improve the quality of low resolution images.
+- [Primitive Pictures](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. ([Primitive for macOS](https://primitive.lol/))

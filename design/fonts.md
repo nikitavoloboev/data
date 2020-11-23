@@ -171,3 +171,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - First open-source font foundry. ([GitHub](https://github.com/theleagueof))
 - [Learn Typography](https://www.theleagueofmoveabletype.com/learn)
 - [Fontship](https://github.com/theleagueof/fontship) - Toolkit for generating fonts and tooling for a collaborative workflow.
+- [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.

@@ -27,3 +27,5 @@
 - [SwiftChess](https://github.com/SteveBarnegren/SwiftChess) - Chess engine written in Swift.
 - [Play Magnus](https://www.playmagnus.com/no) - Chess Training by Magnus Carlsen. ([Lessons](https://www.playmagnus.com/no/magnus-trainer/lessons))
 - [Chessvision.ai](https://chessvision.ai/) - Analyze chess position from websites, ebooks, and videos. ([Blog](https://blog.chessvision.ai/))
+- [The Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)
+- [go-chess](https://github.com/notnil/chess) - Go library which provides common chess utilities such as move generation, turn management, checkmate detection, PGN encoding, and others.

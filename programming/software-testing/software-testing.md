@@ -66,3 +66,4 @@
 - [Metamorphic Testing (2019)](https://www.hillelwayne.com/post/metamorphic-testing/)
 - [Role of testing in software development life cycle (2020)](https://abbyssoul.github.io/engineering/2020/11/02/no-time-for-testing.html)
 - [UI Testing Best Practices](https://github.com/NoriSte/ui-testing-best-practices)
+- [Mugshot](https://github.com/NiGhTTraX/mugshot) - Node library for doing visual regression testing.

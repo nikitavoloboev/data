@@ -32,3 +32,4 @@
 - [s7 Scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html) - Scheme implementation intended as extension language for other applications. ([HN](https://news.ycombinator.com/item?id=24687031))
 - [Cyclone Scheme](https://github.com/justinethier/cyclone) - Brand-new compiler that allows practical application development using R7RS Scheme. ([Web](https://justinethier.github.io/cyclone/)) ([HN](https://news.ycombinator.com/item?id=24696939))
 - [SRFIs for Chez Scheme](https://github.com/arcfide/chez-srfi)
+- [Compiling Scheme to C with flat closure conversion](http://matt.might.net/articles/compiling-scheme-to-c/)

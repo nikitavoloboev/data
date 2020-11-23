@@ -65,3 +65,4 @@
 - [Reverse Engineering 101 in 20 min](https://github.com/SynapticRewrite/RE101in20min)
 - [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) ([Lobsters](https://lobste.rs/s/tlzkk4/visualizing_binaries_with_space_filling))
 - [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
+- [Reverse Engineering Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - Comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.

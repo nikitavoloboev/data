@@ -15,3 +15,4 @@
 - [Dynamic Authoring with MDX (2020)](https://dynamicauthoring.netlify.app/slides/1) - Presentation on how developers can use MDX to supercharge their technical writing. ([Code](https://github.com/M0nica/dynamic-authoring-with-mdx))
 - [mdx OCaml](https://github.com/realworldocaml/mdx) - Executable code blocks inside markdown files.
 - [Markdown/MDX with Next.js (2020)](https://nextjs.org/blog/markdown)
+- [micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm) - Micromark extension to support MDX JS import/exports.

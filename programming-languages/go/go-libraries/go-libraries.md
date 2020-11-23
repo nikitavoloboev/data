@@ -600,6 +600,8 @@
 - [Deepcopier](https://github.com/ulule/deepcopier) - Meant to make copying of structs to/from others structs a bit easier.
 - [webauthn](https://github.com/koesie10/webauthn) - Web Authentication API in Go.
 - [Beep](https://github.com/faiface/beep) - Package that brings sound to any Go application. Suitable for playback and audio-processing.
+- [strcase](https://github.com/iancoleman/strcase) - Go package for converting string case to various cases.
+- [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard.
 
 ## Links
 

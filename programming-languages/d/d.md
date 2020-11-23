@@ -15,3 +15,4 @@
 - [DConf 2020](https://dconf.org/2020/online/index.html)
 - [DLangKoans](https://github.com/ilmanzo/DLangKoans)
 - [Creating Tiny Executables in D (2020)](https://abqexpert.com/2020/11/16/creating-tiny-executables-in-d/)
+- [D: The Functional Programming Language Nobody is Talking About - Robert Schadek (2020)](https://www.youtube.com/watch?v=MgcYKqiEpqQ)

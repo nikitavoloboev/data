@@ -191,3 +191,4 @@
 - [PyTorch Implementation of Google BERT](https://github.com/dhlee347/pytorchic-bert)
 - [High Performance Natural Language Processing (2020)](http://gabrielilharco.com/publications/EMNLP_2020_Tutorial__High_Performance_NLP.pdf)
 - [duoBERT](https://github.com/castorini/duobert) - Multi-stage passage ranking: monoBERT + duoBERT.
+- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3)

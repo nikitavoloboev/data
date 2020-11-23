@@ -165,7 +165,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Taler](https://www.taler.app/) - Social design sandbox.
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
-- [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO))
+- [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
 - [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
@@ -422,3 +422,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Product Explorer](https://productexplorer.io/) - Database of 15k+ products for makers and indie investors.
 - [Tools and Services I Use to Run My SaaS (2020)](https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/) ([HN](https://news.ycombinator.com/item?id=25112954))
 - [NoCode Portal](https://www.nocodeportal.com/) - List of no code tools.
+- [The Tech Stack of a One-Man SaaS (2020)](https://panelbear.com/blog/tech-stack/) ([HN](https://news.ycombinator.com/item?id=25186342))

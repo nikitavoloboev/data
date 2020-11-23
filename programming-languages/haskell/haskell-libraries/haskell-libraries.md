@@ -75,6 +75,7 @@
 - [microlens](https://github.com/monadfix/microlens) - Tiny part of the lens library with no dependencies.
 - [Yoda](https://github.com/zenzike/yoda) - Small parser combinator library.
 - [Conduit](https://github.com/snoyberg/conduit) - Framework for dealing with streaming data.
+- [store](https://github.com/mgsloan/store) - Fast binary serialization in Haskell.
 
 ## Links
 

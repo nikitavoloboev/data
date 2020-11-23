@@ -65,3 +65,4 @@
 - [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management)
 - [Engineering Manager Event Loop (2018)](https://www.chriseigner.com/engineering-manager-event-loop/)
 - [Use decision records already](http://beza1e1.tuxen.de/decision_records.html) ([Lobsters](https://lobste.rs/s/h4ced9/use_decision_records_already))
+- [Why aren’t Lean and Agile Collaborating? (2019)](https://medium.com/humanorganisingco/why-arent-lean-and-agile-collaborating-60146847edf2) ([Tweet](https://twitter.com/ergestx/status/1330500607413772294))

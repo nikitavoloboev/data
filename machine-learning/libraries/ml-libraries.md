@@ -82,3 +82,4 @@
 - [vecstack](https://github.com/vecxoz/vecstack) - Python package for stacking (machine learning technique).
 - [LightSeq](https://github.com/bytedance/lightseq) - High Performance Inference Library for Sequence Processing and Generation.
 - [modestpy](https://github.com/sdu-cfei/modest-py) - Facilitates parameter estimation in models compliant with Functional Mock-up Interface.
+- [Distiller](https://github.com/IntelLabs/distiller) - Open-source Python package for neural network compression research.

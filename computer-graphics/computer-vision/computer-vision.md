@@ -152,3 +152,4 @@
 - [How Useful is Self-Supervised Pretraining for Visual Tasks?](https://github.com/princeton-vl/selfstudy)
 - [PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models](https://github.com/adamian98/pulse)
 - [InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image](https://github.com/facebookresearch/InterHand2.6M)
+- [Multi-object trackers in Python](https://github.com/adipandas/multi-object-tracker) - Easy to use implementation of various multi-object tracking algorithms.

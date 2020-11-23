@@ -49,3 +49,4 @@
 - [Building a chemical blueprint for human blood (2020)](https://www.nature.com/articles/d41586-020-03122-6)
 - [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) ([HN](https://news.ycombinator.com/item?id=25136422))
 - [Biochemical Pathways](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm) - Provide an overview of the chemical reactions of cells in various species and organs.
+- [Dr. Najeeb Medical Lectures](https://www.drnajeeblectures.com/)
