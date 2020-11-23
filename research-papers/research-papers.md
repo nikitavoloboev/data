@@ -72,3 +72,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arXiv Submission UI](https://github.com/arXiv/arxiv-submission-ui) - Primary interface for arXiv users to submit e-prints to arXiv. It is comprised of a Flask application built around the submission core events package.
 - [arXiv Submission](https://github.com/arXiv/arxiv-submission-core) - Houses development related to the arXiv-NG submission system.
 - [paperhunt](https://github.com/VasudevGupta7/paperhunt) - Simple script for hunting trending papers everyday.
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - Web interface for browsing, search and filtering recent arxiv submissions. ([Code](https://github.com/karpathy/arxiv-sanity-preserver))

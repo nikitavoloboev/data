@@ -265,3 +265,4 @@
 - [Karpenter](https://github.com/awslabs/karpenter) - Metrics-driven autoscaler built for Kubernetes and can run in any Kubernetes cluster anywhere.
 - [Kubectl Tricks](https://kuber.host/docs/kubectl_tricks)
 - [Kuber](https://kuber.host/) - Managed Kubernetes Cloud.
+- [Kubernetes Website Code](https://github.com/kubernetes/website)

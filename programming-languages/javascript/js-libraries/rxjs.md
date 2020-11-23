@@ -12,3 +12,4 @@
 - [Paris](https://github.com/microsoft/paris) - Data management library for webapps, using TypeScript and RxJS to implement Domain-Driven Design.
 - [react-rxjs-elements](https://github.com/kosich/react-rxjs-elements) - React component for RxJS content.
 - [rxjs-proxify](https://github.com/kosich/rxjs-proxify) - Turn a Stream of Objects into an Object of Streams.
+- [Build Reactive Websites with RxJS: Master Observables and Wrangle Events](https://pragprog.com/titles/rkrxjs/build-reactive-websites-with-rxjs/)

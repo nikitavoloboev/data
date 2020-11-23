@@ -272,7 +272,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Future Text Publishing](https://futuretextpublishing.com/) - Collection of dreams for how we want text to evolve as well as how we understand our current textual infrastructures, how we view the history of writing, and much more.
 - [Literature Map](https://www.literature-map.com/) - Tourist Map of Literature.
 - [Making a modern ebook with Standard Ebooks](https://awarm.space/fast/standard-ebooks)
-- [Readng](https://readng.co/) - Global community of book lovers & readers.
+- [Readng](https://readng.co/) - Global community of book lovers & readers. ([Beta](https://beta.readng.co/))
 - [GITenberg](https://www.gitenberg.org/) - Open source community for publishing ebooks in the public domain. ([HN](https://news.ycombinator.com/item?id=24028510))
 - [Highlights from books and articles](https://highlights.melanie-richards.com/)
 - [The Book is a Program](https://hyperlink.academy/courses/the-book-is-a-program/21) - Practical exploration in dual-publishing websites and printed books, using Pollen, LaTeX, and the Racket programming language.
