@@ -137,3 +137,4 @@
 - [Branch Prediction Is Not a Solved Problem: Measurements, Opportunities, and Future Directions (2019)](https://arxiv.org/abs/1906.08170)
 - [Hardware Debugging for Reverse Engineers (2020)](https://wrongbaud.github.io/posts/jtag-hdd/)
 - [Uniquely Identifying PCBs, Subassemblies, And Packaging (2020)](https://semiengineering.com/uniquely-identifying-pcbs-subassemblies-and-packaging/)
+- [Semiconductors: The Ultimate Bargaining Chip (2020)](https://www.youtube.com/watch?v=r6NUO_bymuA)

@@ -348,3 +348,4 @@
 - [How Attention works in Deep Learning (2020)](https://theaisummer.com/attention/)
 - [Brain Tokyo Workshop](https://github.com/google/brain-tokyo-workshop) - Research materials released by members of the Google Brain team in Tokyo.
 - [A Novel Framework for Explaining Machine Learning Using Shapley Values (2020)](https://arxiv.org/abs/1909.08128) ([HN](https://news.ycombinator.com/item?id=25180778))
+- [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.

@@ -83,3 +83,4 @@
 - [True Ventures](https://trueventures.com/)
 - [ARK Invest](https://ark-invest.com/)
 - [Placeholder](https://www.placeholder.vc/) - Venture capital firm that invests in open blockchain networks and Web3 services.
+- [Greylock Partners](https://greylock.com/) - Early partners of remarkable teams building companies that matter.

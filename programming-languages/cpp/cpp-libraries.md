@@ -136,6 +136,7 @@
 - [Non-Metric Space Library (NMSLIB)](https://github.com/nmslib/nmslib) - Efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 - [Dyno](https://github.com/ldionne/dyno) - Runtime polymorphism done right.
 - [Geometry Central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes. ([Docs](https://geometry-central.net/))
+- [Bullet Physics SDK](https://github.com/StanfordVL/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 
 ## Links
 
