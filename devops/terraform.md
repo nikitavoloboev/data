@@ -49,3 +49,4 @@
 - [Terraform provider for libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider that lets you provision servers on a libvirt host via Terraform.
 - [Datadog to Terraform Converter](https://github.com/laurmurclar/datadog-to-terraform) - Converts Datadog monitor and dashboard JSON into Terraform alarm code.
 - [hclq](https://github.com/mattolenik/hclq) - Command line tool for querying and manipulating HashiCorp HCL files.
+- [A Month of Terraform (2020)](https://jeremywsherman.com/blog/2020/11/21/a-month-of-terraform/) ([HN](https://news.ycombinator.com/item?id=25180355))

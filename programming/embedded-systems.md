@@ -91,3 +91,4 @@
 - [stm32f4xx-hal](https://github.com/stm32-rs/stm32f4xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F4 family.
 - [Cubesat Space Protocol](https://github.com/libcsp/libcsp) - Small protocol stack written in C. CSP is designed to ease communication between distributed embedded systems in smaller networks, such as Cubesats.
 - [LPC55 HAL](https://github.com/nickray/lpc55-hal) - Hardware Abstraction Layer (HAL) for NXP LPC55S6x (Cortex-M33) microcontrollers.
+- [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) - JavaScript for Microcontrollers. ([HN](https://news.ycombinator.com/item?id=25169395)) ([Web](https://www.moddable.com/))
