@@ -60,6 +60,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/ish-app/ish)) ([HN](https://news.ycombinator.com/item?id=24861923)) ([HN 2](https://news.ycombinator.com/item?id=25028252))
 - [MediaBrowser](https://github.com/younatics/MediaBrowser) - Simple iOS photo and video browser with optional grid view, captions and selections written in Swift.
 - [DEV iOS](https://github.com/forem/DEV-ios) - DEV Community iOS App.
+- [LibTerm](https://libterm.app/) - iOS sandboxed terminal with Python, Lua and Clang. ([Code](https://github.com/ColdGrub1384/LibTerm))
 
 ## Other
 

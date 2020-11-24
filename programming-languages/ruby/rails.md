@@ -30,3 +30,4 @@
 - [Data pipelines in Ruby on Rails (2020)](https://coreym.info/data-pipelines-in-ruby-on-rails/)
 - [Matestack](https://matestack.io/) - Reactive UIs in pure Ruby. ([HN](https://news.ycombinator.com/item?id=25175172)) ([GitHub](https://github.com/matestack))
 - [Will Johnson Blog](https://williamjohnson.dev/) - Covers Rails development.
+- [Ruby on Rails: Still the Best Web App Framework for Most Teams (2020)](https://naildrivin5.com/blog/2020/11/23/rails-is-the-best-choice-for-most-teams.html) ([Lobsters](https://lobste.rs/s/unafsx/ruby_on_rails_still_best_web_app_framework))
