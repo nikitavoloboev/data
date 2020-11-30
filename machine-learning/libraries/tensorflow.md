@@ -68,3 +68,4 @@
 - [Mac-optimized TensorFlow and TensorFlow Addons](https://github.com/apple/tensorflow_macos)
 - [TensorFlow binaries supporting AVX, FMA, SSE](https://github.com/lakshayg/tensorflow-build)
 - [Swift4TF](https://github.com/zaidalyafeai/Swift4TF) - Set of notebooks explaining swift for tensorflow optimized to run in Google Collaboratory.
+- [Siamese networks with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/)

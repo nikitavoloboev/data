@@ -1,10 +1,11 @@
 # Board games
 
-I keep a [list of all board games I played](https://boardgamegeek.com/collection/user/nikivi?subtype=boardgame&ff=1).
+I keep a [list of all board games I played & want to play](https://boardgamegeek.com/collection/user/nikivi?subtype=boardgame).
 
 ## Interesting
 
 - [Liberty or Death: The American Insurrection](https://boardgamegeek.com/boardgame/165872/liberty-or-death-american-insurrection)
+- [Articulate](https://boardgamegeek.com/boardgame/6541/articulate)
 
 ## Links
 
