@@ -29,3 +29,4 @@
 - [Chessvision.ai](https://chessvision.ai/) - Analyze chess position from websites, ebooks, and videos. ([Blog](https://blog.chessvision.ai/))
 - [The Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)
 - [go-chess](https://github.com/notnil/chess) - Go library which provides common chess utilities such as move generation, turn management, checkmate detection, PGN encoding, and others.
+- [Chess tactics explained](https://www.chesstactics.org/) ([HN](https://news.ycombinator.com/item?id=25236094))

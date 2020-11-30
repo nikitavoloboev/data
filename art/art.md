@@ -293,6 +293,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [LS Martin](https://www.instagram.com/lsmartphoto/)
 - [Andy Lee](http://www.andylee.co/)
 - [Toto Tvalavadze](https://photos.codedesigncoffee.net/)
+- [Daniel Cuthbert](https://dcuthbert.exposure.co/)
 - [Alex Robertson](https://www.behance.net/alexr)
 - [Simon Sarris](https://www.instagram.com/simonsarris/)
 - [Jack Sharp](https://www.jacksharp.co.uk/)

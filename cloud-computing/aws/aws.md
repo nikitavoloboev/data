@@ -120,3 +120,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Grafana dashboards for AWS CloudWatch](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
 - [7777](https://port7777.com/) - Your remote AWS database on your local port 7777. ([Docs](https://github.com/whilenull/7777-support))
 - [Learn AWS Blog](https://www.learnaws.org/)
+- [CloudNews](https://www.cloudnews.dev/) - Never miss important AWS news. Newsletter.
