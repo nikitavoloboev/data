@@ -37,3 +37,4 @@
 - [Java Concurrency - Basics of Threads (2020)](https://turkogluc.com/java-concurrency-basics-of-threads/) ([HN](https://news.ycombinator.com/item?id=24940545))
 - [Graphics for JVM (2020)](https://tonsky.me/blog/skija/) ([HN](https://news.ycombinator.com/item?id=25121705))
 - [Useful Java links](https://github.com/Vedenin/useful-java-links)
+- [Java is better than C++ for high speed trading systems (2020)](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems) ([HN](https://news.ycombinator.com/item?id=25217270))

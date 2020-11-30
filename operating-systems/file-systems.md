@@ -27,3 +27,4 @@
 - [Files Are Fraught with Peril (2019)](https://danluu.com/deconstruct-files/) ([HN](https://news.ycombinator.com/item?id=25090760))
 - [An Introduction to ZFS (2020)](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/) ([HN](https://news.ycombinator.com/item?id=25157491))
 - [vmtouch](https://hoytech.com/vmtouch/) - Portable file system cache diagnostics and control. ([Code](https://github.com/hoytech/vmtouch))
+- [Modern storage is plenty fast. It is the APIs that are bad (2020)](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a) ([HN](https://news.ycombinator.com/item?id=25217323))

@@ -193,3 +193,4 @@
 - [duoBERT](https://github.com/castorini/duobert) - Multi-stage passage ranking: monoBERT + duoBERT.
 - [Awesome GPT-3](https://github.com/elyase/awesome-gpt3)
 - [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
+- [Semantic Experiences by Google](https://research.google.com/semanticexperiences/) - Experiments in understanding language.

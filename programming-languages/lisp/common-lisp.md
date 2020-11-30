@@ -26,7 +26,7 @@
 - [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525)) ([HN 2](https://news.ycombinator.com/item?id=24867548))
 - [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) ([Lobsters](https://lobste.rs/s/gb566t/lisp_quickstart))
 - [Creating a Common Lisp implementation (2020)](https://www.youtube.com/watch?v=Wa81OJnlsoI) ([HN](https://news.ycombinator.com/item?id=24276881))
-- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code.
+- [Clasp](https://github.com/clasp-developers/clasp) - Common Lisp implementation that seamlessly interoperates with C++ libraries and programs using LLVM for compilation to native code. ([Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming (2015)](https://www.youtube.com/watch?v=8X69_42Mj-g))
 - [Cl-Cuda](https://github.com/takagi/cl-cuda) - Library to use NVIDIA CUDA in Common Lisp programs.
 - [iterate](https://common-lisp.net/project/iterate/) - Extensible iteration construct for Common Lisp.
 - [HexstreamSoft](https://www.hexstreamsoft.com/) - Public Domain Common Lisp R&D.

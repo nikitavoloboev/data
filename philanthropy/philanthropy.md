@@ -8,3 +8,4 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 
 - [Sublime Fund](https://sublimefund.org/) - Charity that makes philanthropy easy. Donate monthly to multiple charities from one place.
 - [In Support of Super-Rich Philanthropy (2020)](https://followtheargument.org/in-support-of-super-rich-philanthropy)
+- [The Giving Pledge](https://givingpledge.org/Home.aspx) - Commitment by the world's wealthiest individuals and families to dedicate the majority of their wealth to giving back.

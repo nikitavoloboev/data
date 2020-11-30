@@ -260,7 +260,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Posters, drawings on programming](https://github.com/corkami/pics)
 - [Louis Pilfold's learning repo](https://github.com/lpil/learning)
 - [List of online communities to find programming partners](https://twitter.com/jsjoeio/status/1276911919845310465)
-- [clasp](https://github.com/google/clasp) - Develop Apps Script projects locally using clasp (Command Line Apps Script Projects)..
+- [clasp](https://github.com/google/clasp) - Develop Apps Script projects locally using clasp (Command Line Apps Script Projects).
 - [Unim.Press](https://unim.press/) - Reddit front-page reader in the style of The New York Times. ([HN](https://news.ycombinator.com/item?id=23658721)) ([Code](https://github.com/thesephist/unim.press))
 - [Tiny Apps](https://tinyapps.org/) - Aging catalog of tiny, well-made software.
 - [Learn to Create and Flex Flexagons](http://loki3.com/flex/explore/) ([HN](https://news.ycombinator.com/item?id=23730865))

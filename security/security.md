@@ -127,3 +127,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [OpenEDR](https://github.com/ComodoSecurity/openedr) - Free and open source platform allows you to analyze what’s happening across your entire environment at base-security-event level.
 - [MITRE open source](http://mitre.github.io/) ([GitHub](https://github.com/mitre))
 - [r2c](https://r2c.dev/) - Enforcing code guardrails on every commit. ([GitHub](https://github.com/returntocorp/))
+- [Awesome Security Feeds](https://github.com/mrtouch93/awesome-security-feed)
