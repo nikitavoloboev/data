@@ -15,7 +15,7 @@
 - [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
 - [Vault Docs](https://github.com/hashicorp/vault/tree/master/website) ([Web](https://www.vaultproject.io/))
 - [MDNEXT](https://github.com/domitriusclark/mdnext) - Opinionated starter for your MDX + Next.js needs.
-- [Egghead new NextJS front end](https://github.com/eggheadio/egghead-io-nextjs)
+- [Egghead new NextJS front end](https://github.com/eggheadio/egghead-io-nextjs) ([Why move to Next.js](https://www.loom.com/share/26a31965cd6940f7a094d8210058b37f))
 - [Opinionated Next.js Starter with TypeScript, Tailwind, MDX, and decent SEO](https://github.com/joelhooks/next-typescript-tailwind-mdx-starter)
 - [Blog built using TypeScript/Next.js/Tailwind CSS/MDX Remote/Next SEO](https://github.com/BartoszJarocki/web-jarocki-me)
 - [Canvas-based arrows playground](https://github.com/steveruizok/arrows-playground)

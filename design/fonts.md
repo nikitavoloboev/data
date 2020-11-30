@@ -173,3 +173,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontship](https://github.com/theleagueof/fontship) - Toolkit for generating fonts and tooling for a collaborative workflow.
 - [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
 - [font-line](https://githkub.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool.
+- [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Add ligatures to any coding font.

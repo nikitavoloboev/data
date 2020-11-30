@@ -54,3 +54,4 @@
 - [Hypersim Toolkit](https://github.com/apple/ml-hypersim) - Set of tools for generating photorealistic synthetic datasets from V-Ray scenes.
 - [mirdata](https://github.com/mir-dataset-loaders/mirdata) - Interoperable Dataset Loaders for Music Information Retrieval (MIR).
 - [MetFaces Dataset](https://github.com/NVlabs/metfaces-dataset) - Image dataset of human faces extracted from works of art.
+- [Lionbridge AI](https://lionbridge.ai/) - Provides human-labeled data for hundreds of use cases.

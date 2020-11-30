@@ -156,3 +156,4 @@
 - [Stanford Vision and Learning Lab](http://svl.stanford.edu/) ([GitHub](https://github.com/StanfordVL))
 - [Learning computer vision. Overview of methods and software (2018)](https://towardsdatascience.com/learning-computer-vision-41398ad9941f)
 - [Image embeddings. Image similarity and building (2020)](https://medium.com/@rom1504/image-embeddings-ed1b194d113e) ([Code](https://github.com/rom1504/image_embeddings))
+- [All You Need to Know About Object Detection Systems (2020)](https://lionbridge.ai/articles/everything-you-need-to-know-about-object-detection-systems/)

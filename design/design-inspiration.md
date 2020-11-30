@@ -62,6 +62,7 @@ Here are few more things I liked, design wise.
 - [Glitch](https://glitch.com/)
 - [Servo](https://servo.org/)
 - [Readng](https://readng.co/)
+- [CleanShot X](https://cleanshot.com/)
 - [Hand Mirror](https://handmirror.app/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
@@ -117,6 +118,7 @@ Here are few more things I liked, design wise.
 ## Personal pages
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))
+- [Phil Pluckthun](https://kitten.sh/)
 - [Joel Hooks](https://joelhooks.com/) ([Code](https://github.com/joelhooks/joelhooks-com))
 - [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))

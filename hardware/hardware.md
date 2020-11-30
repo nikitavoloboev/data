@@ -138,3 +138,4 @@
 - [Hardware Debugging for Reverse Engineers (2020)](https://wrongbaud.github.io/posts/jtag-hdd/)
 - [Uniquely Identifying PCBs, Subassemblies, And Packaging (2020)](https://semiengineering.com/uniquely-identifying-pcbs-subassemblies-and-packaging/)
 - [Semiconductors: The Ultimate Bargaining Chip (2020)](https://www.youtube.com/watch?v=r6NUO_bymuA)
+- [DIY NAS: 2020 Edition](https://blog.briancmoses.com/2020/11/diy-nas-2020-edition.html)

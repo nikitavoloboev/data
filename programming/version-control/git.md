@@ -195,3 +195,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-ignore](https://github.com/janniks/git-ignore) - Interactive CLI to generate .gitignore files.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of git for node and browsers. ([Web](https://isomorphic-git.org/))
 - [git-machete](https://github.com/VirtusLab/git-machete) - Makes merges/rebases/push/pulls hassle-free even when multiple branches are present in the repository.
+- [Smithy](https://github.com/honza/smithy) - Tiny git forge written in Go.

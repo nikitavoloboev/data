@@ -134,3 +134,4 @@
 - [Fairness in multi-tenant systems (2020)](https://aws.amazon.com/builders-library/fairness-in-multi-tenant-systems/)
 - [Advanced Distributed Systems Design course](https://particular.net/adsd)
 - [Raft implementation in Go](https://github.com/eliben/raft)
+- [Loading Shedding Strategies](https://github.com/thmsmlr/load-shedding) - Demonstration of load shedding and how it can make your services more resilient in outages and come back online quicker.
