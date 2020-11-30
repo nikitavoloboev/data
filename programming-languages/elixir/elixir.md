@@ -19,6 +19,7 @@
 - [GOTO 2019 • The Soul of Erlang and Elixir • Saša Jurić](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition?a_aid=sjuric) ([Code](https://github.com/sasa1977/elixir-in-action))
 - [Elixir Companies](https://github.com/beam-community/elixir-companies) - List of companies currently using Elixir in production.
+- [Thinking Elixir](https://thinkingelixir.com/)
 - [Elixir in VS Code](https://thinkingelixir.com/elixir-in-vs-code/) ([Reddit](https://www.reddit.com/r/elixir/comments/dq3k7v/elixir_in_vs_code_extensions_and_recommendations/))
 - [Comparing Elixir and Go (2018)](https://blog.codeship.com/comparing-elixir-go/)
 - [New to Elixir. Where to start? (2019)](https://www.reddit.com/r/elixir/comments/du1hvp/new_to_elixir/)
@@ -63,4 +64,5 @@
 - [Circuit Breaker Pattern in Elixir (2020)](https://allanmacgregor.com/posts/circuit-breaker-pattern-in-elixir)
 - [TypeCheck](https://github.com/Qqwy/elixir-type_check) - Fast and flexible runtime type-checking for your Elixir projects.
 - [Learn Elixir by making 5 small games](https://alchemist.camp/little-potions/hello-world.html)
-- [Sand](https://sand.rty.party/) - Language-level sandbox for Elixir.
+- [Sand](https://sand.rty.party/) - Sandbox for Elixir. ([Code](https://github.com/bopjesvla/sand))
+- [Elixir Community of Practice](https://github.com/adolfont/elixir_cop) - Resources on learning Elixir.

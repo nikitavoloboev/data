@@ -27,3 +27,4 @@
 - [D3 Discovery](https://d3-discovery.net/) - Find D3 plugins with ease.
 - [How D3 Selections Work (2013)](https://bost.ocks.org/mike/selection/)
 - [Plottable](https://github.com/palantir/plottable) - Library of modular chart components built on D3. ([Web](http://plottablejs.org/))
+- [d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration. ([How to use](https://wattenberger.com/blog/d3-force))

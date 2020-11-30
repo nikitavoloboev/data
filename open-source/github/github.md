@@ -15,6 +15,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Ema Suriano](https://github.com/EmaSuriano) - Nice table.
 - [Mael Nison](https://github.com/arcanis) - Nice picture on side.
 - [Martin Sandsmark](https://github.com/sandsmark) - Nice organized list of projects.
+- [Alex Ellis](https://github.com/alexellis) - Minimal & clear calls to action.
 
 ## Notes
 
@@ -153,3 +154,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Desktop](https://github.com/desktop/desktop) - Open source Electron-based GitHub . ([Web](https://desktop.github.com/))
 - [GitHub social preview images for your repos](https://www.mugshotbot.com/github) ([HN](https://news.ycombinator.com/item?id=25151272))
 - [sponsorsme](https://github.com/maticzav/sponsorsme) - Lightweight utility to check whether a user sponsors you.
+- [Github Repository Timeline](https://reposlib.vercel.app/) ([Code](https://github.com/okandavut/reposlib))

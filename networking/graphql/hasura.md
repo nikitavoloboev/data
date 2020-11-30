@@ -16,3 +16,4 @@
 - [Nhost](https://nhost.io/) - Jamstack backend with Hasura. ([HN](https://news.ycombinator.com/item?id=24929732))
 - [Realworld Hasura](https://github.com/andrewMacmurray/realworld-hasura) - Realworld inspired blogging platform (Remake of Conduit) using Hasura + Kotlin + Elm.
 - [Rust + Hasura](https://github.com/ronanyeah/rust-hasura) - Example of a Rust server that functions as a remote schema for Hasura.
+- [Hasura Data Dictionary](https://github.com/hasura/data-dictionary) - Understand your data graph - which includes your database relationships, and GraphQL schemas. ([Introduction](https://hasura.io/blog/hasura-data-dictionary/))

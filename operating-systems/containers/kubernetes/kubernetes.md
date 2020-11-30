@@ -266,3 +266,4 @@
 - [Kubectl Tricks](https://kuber.host/docs/kubectl_tricks)
 - [Kuber](https://kuber.host/) - Managed Kubernetes Cloud.
 - [Kubernetes Website Code](https://github.com/kubernetes/website)
+- [Open Service Mesh (OSM)](https://github.com/openservicemesh/osm) - Lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. ([Web](https://openservicemesh.io/))

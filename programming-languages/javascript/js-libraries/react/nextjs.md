@@ -24,6 +24,7 @@
 - [Next FullStack Starter](https://github.com/egoist/next-fullstack-starter) - Next.js + Prisma + TailwindCSS + (Type-)GraphQL. Serves as nice starting point for SaaS products.
 - [Next Starter Kit](https://github.com/kripod/next-starter-strict) - Strict Next.js starter with Tailwind CSS, TypeScript, ESLint and Prettier.
 - [Simple NextJS PWA boilerplate](https://github.com/ooade/NextSimpleStarter)
+- [Hasura NextJS Boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate)
 
 ## NextJS plugins
 

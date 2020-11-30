@@ -35,3 +35,4 @@
 - [Modern CI testing and packaging for Common Lisp](https://nyxt.atlas.engineer/article/continuous-testing-and-packaging.org)
 - [Archive of Lisp Machine](https://github.com/jrm-code-project/LISP-Machine) ([HN](https://news.ycombinator.com/item?id=25147970))
 - [Common LISP Parser & AST Viewer](https://github.com/littledivy/lisp-ast)
+- [Common Lisp Iteration (2020)](https://tailrecursion.com/~alan/Lisp/CommonLispIteration.html)

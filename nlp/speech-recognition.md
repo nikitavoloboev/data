@@ -22,3 +22,4 @@
 - [Vosk](https://github.com/wzhd/vosk-rs) - Speech recognition toolkit with state-of-the-art accuracy and low latency in Rust.
 - [Voicegain](https://www.voicegain.ai/) - Speech-to-text Platform and APIs. Speech Recognition.
 - [LibreASR](https://github.com/iceychris/LibreASR) - On-Premises, Streaming Speech Recognition System. ([HN](https://news.ycombinator.com/item?id=25099847))
+- [WORLD](https://github.com/mmorise/World) - High-quality speech analysis, manipulation and synthesis system. ([Web](http://www.isc.meiji.ac.jp/~mmorise/world/english/))

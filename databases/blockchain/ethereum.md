@@ -111,3 +111,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [beaconcha.in](https://beaconcha.in/) - Open Source Ethereum 2.0 Beacon Chain Explorer. ([Code](https://github.com/gobitfly/eth2-beaconchain-explorer))
 - [Coinbase Speaker Series: Vitalik Buterin (2020)](https://www.youtube.com/watch?v=shEeqqPqF50)
 - [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine. ([Docs](https://eth-brownie.readthedocs.io/en/stable/))
+- [ZoKrates](https://github.com/Zokrates/ZoKrates) - Toolbox for zkSNARKs on Ethereum.
+- [Swarm](https://swarm.ethereum.org/) - Decentralised storage and communication system for a sovereign digital society. ([GitHub](https://github.com/ethersphere)) ([Ethereum Swarm Bee Client](https://github.com/ethersphere/bee))
+- [What is Ethereum 2.0 and Why Does It Matter? (2020)](https://decrypt.co/resources/what-is-ethereum-2-0)

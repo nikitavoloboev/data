@@ -20,3 +20,5 @@
 - [KgLb](https://github.com/dropbox/kglb) - L4 a load balancer built on top of linux ip virtual server (ip_vs).
 - [Tyler McMullen - Load Balancing is Impossible (2016)](https://www.youtube.com/watch?v=kpvbOzHUakA)
 - [Traefik: canary deployments with weighted load balancing (2020)](https://iximiuz.com/en/posts/traefik-canary-deployments-with-weighted-load-balancing/)
+- [Weaver](https://github.com/gojek/weaver) - Layer-7 Load Balancer with Dynamic Sharding Strategies. It is a modern HTTP reverse proxy with advanced features.
+- [Making applications scalable with Load Balancing (2006)](https://wtarreau.blogspot.com/2006/11/making-applications-scalable-with-load.html)

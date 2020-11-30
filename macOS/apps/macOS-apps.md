@@ -76,6 +76,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Auto DND](https://github.com/dwarvesf/auto-dnd) - Mac app that keeps notifications stays right where it should.
 - [Virtual](https://github.com/kendfinger/virtual) - Boot Linux VMs in a single command on macOS using the new Virtualization.framework.
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Menu bar application that lists your iCloud Tabs and Reading List.
+- [BitBar](https://github.com/matryer/bitbar) - Lets you put the output from any script/program in your macOS Menu Bar.
 
 ## Other interesting apps
 
@@ -99,6 +100,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Lacona](https://lacona.app/) - Command launcher.
 - [Numi](https://numi.app/) - Beautiful calculator app for Mac. ([Code](https://github.com/nikolaeu/numi))
 - [ViDL](https://omz-software.com/vidl/) - Download videos from YouTube and hundreds of other websites for offline viewing.
+- [FSMonitor](https://fsmonitor.com/) - macOS app that monitors all changes to the file system.
 
 ## Links
 

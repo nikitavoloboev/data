@@ -22,7 +22,7 @@
 - [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
 - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
 - [An Introduction to Godel's Theorems](https://www.logicmatters.net/resources/pdfs/godelbook/GodelBookLM.pdf) ([HN](https://news.ycombinator.com/item?id=24081858))
-- [Gödel Without Tears, slowly (2020)](https://www.logicmatters.net/2020/09/01/godel-without-tears-slowly-1/)
+- [Gödel Without Tears, slowly (2020)](https://www.logicmatters.net/2020/09/01/godel-without-tears-slowly-1/) ([Published book](https://www.logicmatters.net/2020/11/04/godel-without-too-many-tears-published/))
 - [Logic, Explainability and the Future of Understanding (2018)](https://writings.stephenwolfram.com/2018/11/logic-explainability-and-the-future-of-understanding/)
 - [Finite of Sense and Infinite of Thought (2018)](https://pron.github.io/posts/computation-logic-algebra-pt1)
 - [What Godel Discovered](https://stopa.io/post/269) ([HN](https://news.ycombinator.com/item?id=25115746))

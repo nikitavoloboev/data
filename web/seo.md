@@ -42,3 +42,4 @@
 - [TypeScript playground SEO improvement (2020)](https://github.com/microsoft/TypeScript-Website/issues/130#issuecomment-712364792)
 - [Good SEO tools that aren't expensive (2020)](https://twitter.com/MicahIverson/status/1323148330910707712)
 - [Improving Performance and Search Rankings with Cloudflare for Fun and Profit (2020)](https://blog.cloudflare.com/improving-performance-and-search-rankings-with-cloudflare-for-fun-and-profit/)
+- [Effortless SEO Testing](https://seotesting.com/) - Track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.

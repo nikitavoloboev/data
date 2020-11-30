@@ -377,3 +377,4 @@
 - [Rust Language Design Team](https://lang-team.rust-lang.org/) - Language design team is generally responsible for decisions involving the design of the Rust language itself, such as its syntax, semantics, or specification. ([Code](https://github.com/rust-lang/lang-team))
 - [The Usability of Ownership in Rust (2020)](https://arxiv.org/abs/2011.06171)
 - [A Cool Generic Concurrency Primitive in Rust (2020)](https://www.youtube.com/watch?v=eLNAMEoKAAc)
+- [Rust Error Handling Project Group](https://github.com/rust-lang/project-error-handling)

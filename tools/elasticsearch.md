@@ -12,3 +12,4 @@
 - [setup-elasticsearch](https://github.com/ankane/setup-elasticsearch) - Missing action for Elasticsearch - no need to use containers.
 - [Searchkit](https://www.searchkit.co/) - Open source library which helps you build a great search experience with Elasticsearch. ([Code](https://github.com/searchkit/searchkit))
 - [Bloodhound](https://github.com/bitemyapp/bloodhound) - Elasticsearch client and query DSL for Haskell.
+- [Lighting fast search with Elasticsearch (2020)](https://www.webiny.com/blog/lighting-fast-search-with-elasticsearch)

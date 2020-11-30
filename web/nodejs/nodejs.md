@@ -149,3 +149,4 @@
 - [Yarn Build](https://github.com/ojkelly/yarn.build) - Build and bundle your local packages like Bazel and Buck but for Yarn v2. ([Web](https://yarn.build/)) ([Introduction](https://www.owenkelly.com.au/posts/2020/yarn-build))
 - [yarn-deduplicate](https://github.com/atlassian/yarn-deduplicate) - Deduplication tool for yarn.lock files.
 - [The Node Experiment](https://cfsamson.github.io/book-exploring-async-basics/) - Exploring Async Basics with Rust. Aims to take a look at the why and how of concurrent programming. ([Code](https://github.com/cfsamson/book-exploring-async-basics))
+- [nbin](https://github.com/cdr/nbin) - Fast and robust node.js binary compiler.

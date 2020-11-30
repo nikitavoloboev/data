@@ -32,3 +32,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Best Books on Philosophical Wonder (2020)](https://fivebooks.com/best-books/philosophical-wonder-eric-schwitzgebel/)
 - [The imagination gap (2018)](https://ansuz.sooke.bc.ca/entry/350)
 - [Theories of Reference: What Was the Question?](https://philpapers.org/archive/RAATOR-2.pdf)
+- [My intellectual influences (2020)](https://www.lesswrong.com/posts/k6NkvAcRaKBMAzqEF/my-intellectual-influences)

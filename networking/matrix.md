@@ -50,3 +50,5 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [How we fixed Synapse's scalability (2020)](https://matrix.org/blog/2020/11/03/how-we-fixed-synapses-scalability) ([Lobsters](https://lobste.rs/s/gwwnei/how_we_fixed_synapse_s_scalability_matrix))
 - [Using Matrix to replace proprietary and centralized chat apps (2020)](https://jae.moe/blog/2020/11/using-matrix-to-replace-proprietary-and-centralized-chat-apps/) ([HN](https://news.ycombinator.com/item?id=25091614))
 - [Free Small Matrix Server](https://github.com/ptman/matrix-docs/tree/master/free-matrix-server)
+- [libQuotient](https://github.com/quotient-im/libQuotient/) - Qt5 library to write cross-platform clients for Matrix.
+- [Quaternion](https://github.com/quotient-im/Quaternion/) - Qt5-based IM client for Matrix.

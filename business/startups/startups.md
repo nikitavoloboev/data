@@ -244,6 +244,7 @@
 - [Awesome Startup Deals](https://github.com/startupdeals/startupdeals)
 - [Practical Tips for IndieHackers (2020)](https://twitter.com/PierreDeWulf/status/1329765202095575041)
 - [Thread of successful founder stories](https://twitter.com/Mat_Sherman/status/1269439154284191744)
+- [That Startup Book](https://thatstartupbook.com/)
 
 ## Images
 

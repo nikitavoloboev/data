@@ -1,5 +1,10 @@
 # [Discord](https://discord.com)
 
+## Bots
+
+- [TypeScript Community Bot](https://github.com/typescript-community/community-bot) - Utility bot built for the TypeScript Community Discord Server.
+- [KCD Community Bot](https://github.com/kentcdodds/kcd-discord-bot) - Automating onboarding and other things.
+
 ## Links
 
 - [rsPhate](https://github.com/Phate6660/rsPhate) - Discord bot written in Rust.

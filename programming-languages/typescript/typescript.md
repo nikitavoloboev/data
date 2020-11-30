@@ -124,6 +124,7 @@
 - [Learn TypeScript: A Pocketguide Tutorial (2020)](https://www.prisma.io/blog/learn-typescript-a-pocketguide-tutorial-q329XmXQHUjz)
 - [TypeScript 4.1 (2020)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/) ([HN](https://news.ycombinator.com/item?id=25155627))
 - [ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo.
+- [Tips for Performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ([HN](https://news.ycombinator.com/item?id=25199070))
 
 ## Images
 

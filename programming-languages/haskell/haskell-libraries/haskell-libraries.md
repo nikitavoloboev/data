@@ -76,6 +76,7 @@
 - [Yoda](https://github.com/zenzike/yoda) - Small parser combinator library.
 - [Conduit](https://github.com/snoyberg/conduit) - Framework for dealing with streaming data.
 - [store](https://github.com/mgsloan/store) - Fast binary serialization in Haskell.
+- [Earley](https://github.com/ollef/Earley) - Parsing all context-free grammars using Earley's algorithm in Haskell.
 
 ## Links
 

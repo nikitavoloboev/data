@@ -44,3 +44,4 @@
 - [TailwindCSS v2.0 (2020)](https://blog.tailwindcss.com/tailwindcss-v2) ([HN](https://news.ycombinator.com/item?id=25140604))
 - [tailwindcssinjs](https://github.com/Arthie/tailwindcssinjs) - Packages for using Tailwind CSS with CSS-in-JS.
 - [emotion-tailwind-preflight](https://github.com/flogy/emotion-tailwind-preflight) - Merge the shiny TailwindCSS base styles into your CSS-in-JS project.
+- [Tailwind Builder](https://tailwind.build/) - Create Tailwind templates in minutes.

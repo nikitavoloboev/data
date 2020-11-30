@@ -111,3 +111,4 @@
 - [Mitsuba 2: Retargetable Forward and Inverse Renderer (Differentiable Renderer)](http://rgl.epfl.ch/publications/NimierDavidVicini2019Mitsuba2) ([HN](https://news.ycombinator.com/item?id=25159154))
 - [RGL: Realistic Graphics Lab](http://rgl.epfl.ch/)
 - [Eight Years at Roblox (2020)](https://zeux.io/2020/08/02/eight-years-at-roblox/) ([HN](https://news.ycombinator.com/item?id=25158904))
+- [Mitsuba Renderer 2](https://github.com/mitsuba-renderer/mitsuba2) - Research-oriented rendering system written in portable C++17.

@@ -138,6 +138,7 @@
 - [gosql](https://github.com/eatonphil/gosql) - Early PostgreSQL implementation in Go.
 - [go-storage](https://github.com/aos-dev/go-storage) - Application-oriented unified storage layer for Go. ([Docs](https://aos.dev/))
 - [Cloud SQL Proxy](https://github.com/GoogleCloudPlatform/cloudsql-proxy) - Allows a user with the appropriate permissions to connect to a Second Generation Cloud SQL database without having to deal with IP whitelisting or SSL certificates manually.
+- [SQLDB-Logger](https://github.com/simukti/sqldb-logger) - Logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 
 ## ML
 
@@ -602,6 +603,7 @@
 - [Beep](https://github.com/faiface/beep) - Package that brings sound to any Go application. Suitable for playback and audio-processing.
 - [strcase](https://github.com/iancoleman/strcase) - Go package for converting string case to various cases.
 - [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard.
+- [go-lock](https://github.com/viney-shih/go-lock) - Lock library implementing read-write mutex and read-write trylock without starvation.
 
 ## Links
 

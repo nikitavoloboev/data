@@ -152,6 +152,7 @@
 ## Linux
 
 - [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
+- [libkrun](https://github.com/containers/libkrun) - Dynamic library providing KVM-based process isolation capabilities.
 
 ## ML
 
