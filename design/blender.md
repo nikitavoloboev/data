@@ -22,3 +22,4 @@
 - [EasyBPY](https://github.com/curtisjamesholt/EasyBPY) - Module to simplify the use of the Blender Python API.
 - [BY-GEN](https://github.com/curtibsjamesholt/BY-GEN-public) - Generative Modeling Toolkit for Blender.
 - [Curtis Holt YouTube](https://www.youtube.com/curtisholt) - Does videos on 3D modelling / Blender.
+- [Blender in Docker](https://github.com/nytimes/rd-blender-docker) - Collection of Docker containers for running Blender headless or distributed.

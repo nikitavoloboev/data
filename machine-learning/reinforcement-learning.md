@@ -137,3 +137,4 @@
 - [TetrisRL](https://github.com/jaybutera/tetrisRL) - Tetris environment to train machine learning agents.
 - [Deep Reinforcement Learning: Pong from Pixels (2016)](https://karpathy.github.io/2016/05/31/rl/)
 - [dm_env_rpc](https://github.com/deepmind/dm_env_rpc) - Networking protocol for agent-environment communication.
+- [PHYRE](https://github.com/facebookresearch/phyre) - Benchmark for physical reasoning. ([Web](https://phyre.ai/))
