@@ -93,6 +93,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Josh James](https://www.artstation.com/stokens)
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
+- [Mo Elkholti](https://www.instagram.com/numosis/)
 - [James Jean](https://www.artsy.net/artist/james-jean)
 - [Miguel Membreno](https://www.artstation.com/miguelmembre)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
@@ -107,6 +108,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nikolai Lockertsen](https://www.artstation.com/nikolailockertsen)
 - [Kevin Hong](https://www.instagram.com/taijuey/) ([Web](https://www.kevinhong.com/))
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
+- [Lossapardo](https://www.instagram.com/lossapardo/)
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Marcin Sacha](http://marcinsacha.arte.usermd.net/en/home-2/) ([Instagram](https://www.instagram.com/sachamarcin/))
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)

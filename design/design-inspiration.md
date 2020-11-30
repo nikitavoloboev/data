@@ -87,6 +87,7 @@ Here are few more things I liked, design wise.
 - [Pixel Envy](https://pxlnv.com/)
 - [Pseudo Random](https://www.pseudorandom.com/)
 - [the Webb](https://blog.webb.page/)
+- [Quill](https://quill.chat/) - Both nice mobile & desktop view.
 - [Dark Forest Blog](https://blog.zkga.me/)
 - [Well-Ironed](https://well-ironed.com/)
 - [Blog Title](https://blogtitle.github.io/)
