@@ -22,3 +22,4 @@
 - [Prism Compiler](https://github.com/kaleidawave/prism) - Experimental compiler for building isomorphic web applications with web components.
 - [Hackernews Prism](https://github.com/kaleidawave/hackernews-prism) - Clone of Hackernews built with Prism, Rust and Actix-web. ([Article](https://kaleidawave.medium.com/hacker-news-clone-with-prism-rust-b4c681fe07af))
 - [Light and expressive GUI with web components](https://github.com/juliendargelos/gui)
+- [web.dev: How we build the site and use Web Components (2020)](https://web.dev/how-we-build-webdev-and-use-web-components/)
