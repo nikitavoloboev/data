@@ -8,7 +8,7 @@ Here are few more things I liked, design wise.
 
 - [Stripe](https://stripe.com/)
 - [Framer](https://www.framer.com/)
-- [Linear](https://linear.app/)
+- [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370))
 - [Apple](https://www.apple.com/)
 - [Primer](https://www.withprimer.com/)
 - [Supernotes](https://supernotes.app/)

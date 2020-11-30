@@ -76,3 +76,4 @@
 - [Quantum deep field for molecule](https://github.com/masashitsubaki/QuantumDeepField_molecule)
 - [AlQuraishi Lab at Columbia University](https://www.aqlab.io/) - Machine Learning, Molecules, Systems Biology research.
 - [AlphaFold: a solution to a 50-year-old grand challenge in biology, protein folding (2020)](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) ([HN](https://news.ycombinator.com/item?id=25254772)) ([Explained](https://twitter.com/AdamRutherford/status/1333449928316743683))
+- [ProSPr: Protein Structure Prediction](https://github.com/dellacortelab/prospr)
