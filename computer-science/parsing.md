@@ -40,3 +40,4 @@
 - [Just write the parser](https://tiarkrompf.github.io/notes/?/just-write-the-parser/) - Whirlwind tour of writing parsers by hand. ([HN](https://news.ycombinator.com/item?id=24837898))
 - [Parsing Algorithms course](http://dmitrysoshnikov.com/courses/parsing-algorithms/) ([HN](https://news.ycombinator.com/item?id=24898210)) ([Code](https://github.com/DmitrySoshnikov/letter-source))
 - [Intro to Parsing with Parsec in Haskell](https://github.com/JakeWheat/intro_to_parsing) - Demonstrates the basics of Parsec and goes on to build a SQL query parser.
+- [Parser Generator DSLs (2020)](https://kitten.sh/parser-generator-dsl)
