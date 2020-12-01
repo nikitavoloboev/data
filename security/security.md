@@ -128,3 +128,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [MITRE open source](http://mitre.github.io/) ([GitHub](https://github.com/mitre))
 - [r2c](https://r2c.dev/) - Enforcing code guardrails on every commit. ([GitHub](https://github.com/returntocorp/))
 - [Awesome Security Feeds](https://github.com/mrtouch93/awesome-security-feed)
+- [Neurax](https://github.com/redcode-labs/Neurax) - Library for constructing self-spreading binaries.

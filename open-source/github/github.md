@@ -155,3 +155,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub social preview images for your repos](https://www.mugshotbot.com/github) ([HN](https://news.ycombinator.com/item?id=25151272))
 - [sponsorsme](https://github.com/maticzav/sponsorsme) - Lightweight utility to check whether a user sponsors you.
 - [Github Repository Timeline](https://reposlib.vercel.app/) ([Code](https://github.com/okandavut/reposlib))
+- [Highfive](https://github.com/servo/highfive) - GitHub hooks to provide an encouraging atmosphere for new contributors.

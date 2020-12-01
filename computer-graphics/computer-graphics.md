@@ -112,3 +112,4 @@
 - [RGL: Realistic Graphics Lab](http://rgl.epfl.ch/)
 - [Eight Years at Roblox (2020)](https://zeux.io/2020/08/02/eight-years-at-roblox/) ([HN](https://news.ycombinator.com/item?id=25158904))
 - [Mitsuba Renderer 2](https://github.com/mitsuba-renderer/mitsuba2) - Research-oriented rendering system written in portable C++17.
+- [Painting a Selfie Girl, with Maths (2020)](https://www.youtube.com/watch?v=8--5LwHRhjk)

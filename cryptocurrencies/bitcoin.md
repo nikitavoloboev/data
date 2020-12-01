@@ -59,3 +59,4 @@
 - [Merkle trees in Git and Bitcoin (2020)](https://initialcommit.com/blog/git-bitcoin-merkle-tree)
 - [Chaincode Labs](https://chaincode.com/) - Exists to support Bitcoin.
 - [Notes and ideas for development work on Bitcoin Core](https://github.com/jonatack/bitcoin-development)
+- [HN: Bitcoin Price Hits All-Time High of $19,786, Topping 2017 Record (2020)](https://news.ycombinator.com/item?id=25255606)

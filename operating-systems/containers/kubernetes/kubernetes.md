@@ -267,3 +267,4 @@
 - [Kuber](https://kuber.host/) - Managed Kubernetes Cloud.
 - [Kubernetes Website Code](https://github.com/kubernetes/website)
 - [Open Service Mesh (OSM)](https://github.com/openservicemesh/osm) - Lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. ([Web](https://openservicemesh.io/))
+- [A better Kubernetes from the ground up (2020)](https://blog.dave.tf/post/new-kubernetes/) ([HN](https://news.ycombinator.com/item?id=25243159))

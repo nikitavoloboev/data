@@ -393,3 +393,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: How do you stimulate your creativity on a day like today? (2020)](https://news.ycombinator.com/item?id=25170661)
 - [The Fable of the Dragon-Tyrant story](https://www.nickbostrom.com/fable/dragon.html)
 - [Stack Exchange Data Explorer](https://data.stackexchange.com/)
+- [Desktop environment in the browser](https://x.dustinbrett.com/) ([Code](https://github.com/DustinBrett/x))
