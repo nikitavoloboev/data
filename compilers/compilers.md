@@ -133,3 +133,4 @@
 - [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
 - [Grammar-Based Testing for Little Languages: An Experience Report with Student Compilers (2020)](https://www.youtube.com/watch?v=wv6ftJNq92Q)
 - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/entries/automatic_syntax_error_recovery.html)
+- [What to read to learn compilers (RU)](https://github.com/true-grue/Compiler-Development)

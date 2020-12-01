@@ -18,3 +18,4 @@
 - [Cloudflare support for gRPC (2020)](https://blog.cloudflare.com/announcing-grpc/)
 - [qtalk](https://github.com/manifold/qtalk) - Minimal set of packages for several languages that achieve an opinionated but expressive way for programmers to get their programs to interact.
 - [libqi](https://github.com/aldebaran/libqi) - NAOqi core framework. Middle-ware framework that provides RPC, type-erasure, cross-language interoperability, OS abstractions.
+- [smf](https://github.com/smfrpc/smf) - RPC system and code generation like gRPC, Cap n Proto, Apache Thrift, etc, but designed for microsecond tail latency.

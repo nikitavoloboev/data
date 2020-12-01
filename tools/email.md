@@ -118,3 +118,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [go-smtp](https://github.com/emersion/go-smtp) - ESMTP client and server library written in Go.
 - [Reacher](https://reacher.email/) - Open-Source Email Verification API.
 - [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
+- [Bamboo](https://github.com/thoughtbot/bamboo) - Testable, composable, and adapter based Elixir email library for devs that love piping.

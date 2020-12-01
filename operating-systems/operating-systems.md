@@ -8,7 +8,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5))
 - [QubesOS](https://www.qubes-os.org/)
-- [Plan 9](https://9p.io/plan9/)
+- [Plan 9](https://9p.io/plan9/) ([Plan 9 C Compiler for RISC-V](https://www.youtube.com/watch?v=LHJqdXGb0uc))
 - [Fuchsia](fuchsia-os.md)
 - [DahliaOS](https://dahliaos.io/) - Modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS. ([GitHub](https://github.com/dahlia-os)) ([HN](https://news.ycombinator.com/item?id=24976732))
 - [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/))

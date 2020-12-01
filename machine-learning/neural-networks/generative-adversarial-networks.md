@@ -65,3 +65,4 @@
 - [Using GANs to Create Fantastical Creatures (2020)](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html) ([HN](https://news.ycombinator.com/item?id=25146610))
 - [This X Does Not Exist](https://thisxdoesnotexist.com/) - Using generative adversarial networks (GAN), we can learn how to create realistic-looking fake versions of almost anything. ([HN](https://news.ycombinator.com/item?id=25176101))
 - [Style-based GANs – Generating and Tuning Realistic Artificial Faces (2018)](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
+- [Navigating the GAN Parameter Space for Semantic Image Editing](https://github.com/yandex-research/navigan)

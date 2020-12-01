@@ -129,6 +129,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Allan's Digital Garden](https://publish.obsidian.md/allanmacgregor/Meta/Index)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Aurelio](https://github.com/nobitagit/knowledge)
+- [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other.
 - [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain)

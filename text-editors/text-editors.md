@@ -33,6 +33,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Trix](https://github.com/basecamp/trix) - Compose beautifully formatted text in your web application. ([Web](https://trix-editor.org/))
 - [Ox](https://github.com/curlpipe/ox) - Fast text editor that runs in your terminal. ([HN](https://news.ycombinator.com/item?id=24975988))
 - [Barliman](https://github.com/webyrd/Barliman) - Prototype "smart editor" that performs real-time program synthesis.
+- [Sapling](https://github.com/kneasle/sapling) - Highly experimental code editor where you edit code, not text.
 
 ## Web
 

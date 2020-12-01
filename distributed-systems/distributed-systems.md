@@ -135,3 +135,5 @@
 - [Advanced Distributed Systems Design course](https://particular.net/adsd)
 - [Raft implementation in Go](https://github.com/eliben/raft)
 - [Loading Shedding Strategies](https://github.com/thmsmlr/load-shedding) - Demonstration of load shedding and how it can make your services more resilient in outages and come back online quicker.
+- [A Byzantine failure in the real world (2020)](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
+- [Byzantine Eventual Consistency](https://github.com/ept/byzantine-eventual)

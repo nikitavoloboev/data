@@ -1,6 +1,6 @@
 # Virtual reality
 
-I enjoy playing [Pistol Whip](https://cloudheadgames.com/pistol-whip/) on [Oculus Quest 2](https://www.oculus.com/quest-2/).
+I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/).
 
 ## Games
 
@@ -26,3 +26,4 @@ I enjoy playing [Pistol Whip](https://cloudheadgames.com/pistol-whip/) on [Oculu
 - [Oculus Quest Mixed Reality app for iOS](https://github.com/fabio914/OculusQuestMixedRealityForiOS)
 - [Sega VR Revived: Emulating an Unreleased Genesis Accessory](https://gamehistory.org/segavr/) ([HN](https://news.ycombinator.com/item?id=25161494))
 - [ALVR](https://github.com/JackD83/ALVR) - Stream VR games from your PC to your Oculus Quest via Wi-FI.
+- [Varjo](https://varjo.com/) - Advanced virtual and mixed reality devices.

@@ -10,7 +10,7 @@
 - [What are Microservices? (2019)](https://www.netlify.com/blog/2019/11/18/what-are-microservices/)
 - [StdLib](https://github.com/stdlib/lib) - Service Creation, Deployment, and Management Tools.
 - [Hipster Shop: Cloud-Native Microservices Demo Application](https://github.com/GoogleCloudPlatform/microservices-demo) - Contains a 10-tier microservices application.
-- [Micro](https://github.com/micro/micro) - Runtime for microservice development.
+- [Micro](https://github.com/micro/micro) - Runtime for microservice development. ([Web](https://micro.mu/))
 - [Nitro](https://github.com/asim/nitro) - Fast framework for distributed app development, IoT, edge and p2p. ([Web](https://go-nitro.dev/)) ([HN](https://news.ycombinator.com/item?id=21491378)) ([HN 2](https://news.ycombinator.com/item?id=23368451))
 - [Banking on Go - Matt Heath (2017)](https://www.youtube.com/watch?v=iRNwLjKeVRE)
 - [Envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy. ([Web](https://www.envoyproxy.io/))

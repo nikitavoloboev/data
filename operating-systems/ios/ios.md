@@ -260,3 +260,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
 - [Basics of App Store Optimization](https://quality-wolves.com/what-is-aso)
 - [Emcee](https://github.com/avito-tech/Emcee) - Tool that runs iOS tests in parallel using multiple simulators across many Macs.
+- [GraphifySwiftCMD](https://github.com/kristiinara/GraphifySwift) - Command line tool that makes it possible to analyze a lot of iOS applications at once.

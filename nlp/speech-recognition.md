@@ -23,3 +23,4 @@
 - [Voicegain](https://www.voicegain.ai/) - Speech-to-text Platform and APIs. Speech Recognition.
 - [LibreASR](https://github.com/iceychris/LibreASR) - On-Premises, Streaming Speech Recognition System. ([HN](https://news.ycombinator.com/item?id=25099847))
 - [WORLD](https://github.com/mmorise/World) - High-quality speech analysis, manipulation and synthesis system. ([Web](http://www.isc.meiji.ac.jp/~mmorise/world/english/))
+- [ESPnet](https://github.com/espnet/espnet) - End-to-end speech processing toolkit. ([Docs](https://espnet.github.io/espnet/))

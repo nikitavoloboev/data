@@ -20,3 +20,4 @@
 - [PyMC3](https://github.com/pymc-devs/pymc3) - Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms.
 - [PyMC3 Resources](https://github.com/pymc-devs/resources)
 - [Ranked Programming](https://github.com/tjitze/ranked-programming) - Ranked Programming Extension for Racket. Ranked programming is similar to probabilistic programming, except that the underlying uncertainty formalism is replaced with ranking theory.
+- [Foundations of Probabilistic Programming (2020)](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)

@@ -28,3 +28,4 @@
 - [Hyper-Cube: High-Dimensional Hypervisor Fuzzing (2020)](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23096-paper.pdf)
 - [Atheris](https://github.com/google/atheris) - Coverage-Guided, Native Python Fuzzer.
 - [FuzzGen](https://github.com/HexHive/FuzzGen) - Tool for automatically synthesizing fuzzers for complex libraries in a given environment.
+- [jdam](https://gitlab.com/michenriksen/jdam) - Structure-aware JSON fuzzing.

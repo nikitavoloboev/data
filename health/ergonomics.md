@@ -46,3 +46,4 @@
 - [Lights, Camera, Action! My Tech Setup For Recording Courses & Podcasts (2020)](https://compiled.blog/blog/my-tech-setup) ([Twitter](https://twitter.com/EmmaBostian/status/1312346692893773825))
 - [Desk Setups for Programmers in 2020 | Coding, Productivity, Creative Work (2020)](https://www.youtube.com/watch?v=dCmGBOgSjtg)
 - [The Dream Desk Setup - Workspace + Desk Tour 2020](https://www.youtube.com/watch?v=aRgqQe-8zYk)
+- [How I made my chair smart with 10$ (2020)](https://thewindev.net/how-i-made-my-chair-smart-with-10dollar)

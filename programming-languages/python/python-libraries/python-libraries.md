@@ -247,3 +247,4 @@
 - [wemake-python-package](https://github.com/wemake-services/wemake-python-package) - Bleeding edge cookiecutter template to create new python packages.
 - [Dry-Python](https://dry-python.org/) - Set of libraries for pluggable business logic components. ([GitHub](https://github.com/dry-python))
 - [PePy](https://pepy.tech/) - PyPI Download Stats. ([Code](https://github.com/psincraian/pepy))
+- [pipdeptree](https://github.com/naiquevin/pipdeptree) - Command line utility to display dependency tree of the installed Python packages.

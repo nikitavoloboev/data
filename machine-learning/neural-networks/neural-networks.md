@@ -175,3 +175,5 @@
 - [Tinn](https://github.com/glouw/tinn) - 200 line dependency free neural network library written in C99.
 - [musicnn](https://github.com/jordipons/musicnn) - Set of pre-trained musically motivated convolutional neural networks for music audio tagging.
 - [Convolution Is Fancy Multiplication](https://betterexplained.com/articles/intuitive-convolution/) ([HN](https://news.ycombinator.com/item?id=25190770))
+- [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+- [ENNUI](https://math.mit.edu/ennui/) - Elegant Neural Network User Interface. ([Code](https://github.com/martinjm97/ENNUI))

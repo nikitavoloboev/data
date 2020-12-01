@@ -8,6 +8,7 @@
 - [Remember that almost no conversation ends with a change of mind. That happens later, if at all.](https://news.ycombinator.com/item?id=24968437)
 - [Bell ran a study to find out what the most productive engineers did differently from their peers. The answer was communication. They did a lot more of it. They bounced ideas with co-workers, they validated solutions with customers, they did their own research, and so on.](https://news.ycombinator.com/item?id=25030938)
 - [The key to success is overcommunicating.](https://news.ycombinator.com/item?id=25120207)
+- [Pay attention to who you have the highest-bandwidth conversations with (i.e., important ideas are exchanged quickly and clearly). Work with those people any way you can.](https://twitter.com/sama/status/1333491951249760256)
 
 ## Links
 

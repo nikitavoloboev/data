@@ -44,7 +44,7 @@
 - [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
 - [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
 - [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
-- [PlayCanvas](https://playcanvas.com/) - WebGL Game Engine. ([HN](https://news.ycombinator.com/item?id=24018097))
+- [PlayCanvas](https://playcanvas.com/) - Fast and lightweight JavaScript game engine built on WebGL and glTF. ([Code](https://github.com/playcanvas/engine)) ([HN](https://news.ycombinator.com/item?id=24018097))
 - [Excalibur](https://github.com/excaliburjs/Excalibur) - Simple 2D HTML5 game engine written in TypeScript.
 - [pygame](https://github.com/pygame/pygame) - Free and Open Source cross-platform library for the development of multimedia applications like video games on Python. ([Web](https://www.pygame.org/news)) ([HN](https://news.ycombinator.com/item?id=24930615))
 - [GtkRadiant](https://github.com/TTimo/GtkRadiant) - Open-source, cross-platform level editor for id Tech based games. It comes with some map compilers and data authoring tools.

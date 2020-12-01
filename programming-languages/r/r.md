@@ -39,3 +39,4 @@
 - [Mastering Shiny book](https://mastering-shiny.org/) ([Code](https://github.com/hadley/mastering-shiny))
 - [insight](https://github.com/easystats/insight) - Easy access to model information for various model objects.
 - [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
+- [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python.

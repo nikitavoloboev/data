@@ -29,3 +29,4 @@
 - [MicroKanren in J: an Embedding of the Relational Paradigm in an Array Language with Rank-Polymorphic Unification (2020)](http://minikanren.org/workshop/2020/minikanren-2020-paper2.pdf) ([Lobsters](https://lobste.rs/s/qcrdly/microkanren_j_embedding_relational))
 - [April, an APL Compiler for Common Lisp](https://www.youtube.com/watch?v=AUEIgfj9koc) ([HN](https://news.ycombinator.com/item?id=24434717))
 - [Co-dfns](https://github.com/Co-dfns/Co-dfns) - High-performance, Reliable, and Parallel APL.
+- [Notation as a Tool of Thought - Kenneth E. Iverson (1979)](https://www.jsoftware.com/papers/tot.htm)

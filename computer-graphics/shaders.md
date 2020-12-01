@@ -26,3 +26,4 @@
 - [Shadershop](https://github.com/cdglabs/Shadershop) - Interface for programming GPU shaders in the mode of a direct manipulation image editor like Photoshop.
 - [Circle C++ shaders](https://github.com/seanbaxter/shaders)
 - [Shading techniques and GLSL snippets](https://github.com/Rabbid76/graphics-snippets)
+- [Rasen](https://github.com/leops/rasen) - Generate SPIR-V bytecode from an operation graph.

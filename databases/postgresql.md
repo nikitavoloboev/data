@@ -176,3 +176,4 @@
 - [The Basics of Views and Materialized Views in PostgreSQL](https://supabase.io/blog/2020/11/18/postgresql-views/)
 - [Writing a Postgres Foreign Data Wrapper for Clickhouse in Go (2020)](https://arunsori.me/posts/postgres-clickhouse-fdw-in-go/) ([HN](https://news.ycombinator.com/item?id=25153782))
 - [RUM access method](https://github.com/postgrespro/rum) - Provides access method to work with RUM index. It is based on the GIN access methods code. Can be used for full text search.
+- [Hypershield](https://github.com/ankane/hypershield) - Shield sensitive data in Postgres and MySQL.

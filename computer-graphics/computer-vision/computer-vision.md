@@ -159,3 +159,4 @@
 - [All You Need to Know About Object Detection Systems (2020)](https://lionbridge.ai/articles/everything-you-need-to-know-about-object-detection-systems/)
 - [Lightly](https://github.com/lightly-ai/lightly) - Computer vision framework for self-supervised learning.
 - [DISK: Learning local features with policy gradient (2020)](https://arxiv.org/abs/2006.13566) ([Code](https://github.com/cvlab-epfl/disk))
+- [Caer](https://github.com/jasmcaus/caer) - Lightweight Computer Vision library for high-performance AI research. ([Intro](https://towardsdatascience.com/introducing-caer-modern-computer-vision-on-the-fly-1619d7155c15))

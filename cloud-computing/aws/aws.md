@@ -121,3 +121,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [7777](https://port7777.com/) - Your remote AWS database on your local port 7777. ([Docs](https://github.com/whilenull/7777-support))
 - [Learn AWS Blog](https://www.learnaws.org/)
 - [CloudNews](https://www.cloudnews.dev/) - Never miss important AWS news. Newsletter.
+- [AWS List All](https://github.com/JohannesEbke/aws_list_all) - List all your AWS resources, all regions, all services.

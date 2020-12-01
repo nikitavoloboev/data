@@ -5,6 +5,7 @@
 - [Alexander Nerovnya](https://www.instagram.com/alex_nerovnya/)
 - [Tadao Ando](https://en.wikipedia.org/wiki/Tadao_Ando)
 - [Stéphane Beel](http://www.stephanebeel.com/index.html)
+- [George Nakashima](https://nakashimawoodworkers.com/)
 
 ## Nice places
 

@@ -548,6 +548,7 @@
 - [pretty-env-logger](https://github.com/seanmonstar/pretty-env-logger) - Pretty, easy-to-use logger for Rust.
 - [grmtools](https://github.com/softdevteam/grmtools) - Suite of Rust libraries and binaries for parsing text, both at compile-time, and run-time.
 - [HashRing](https://github.com/jeromefroe/hashring-rs) - Minimal implementation of consistent hashing.
+- [inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope.
 
 ## Cargo Plugins
 

@@ -17,3 +17,4 @@
 - [The Marketplace Monetization Map: Complexity and Asymmetry (2020)](https://medium.com/breadcrumb/the-marketplace-monetization-map-complexity-and-asymmetry-529b70a830d7)
 - [24 Marketplace Business Models (2020)](https://www.nclx.io/guide/marketplace-business-models)
 - [Building and Investing in Marketplaces (2020)](https://eriktorenberg.substack.com/p/building-and-investing-in-marketplaces)
+- [How OnlyFans grew faster than any other creator platform (2020)](https://twitter.com/petergyang/status/1333088904296026119)

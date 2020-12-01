@@ -123,6 +123,7 @@
 - [JSON.jl](https://github.com/JuliaIO/JSON.jl) - JSON parsing and printing.
 - [TableIO](https://github.com/lungben/TableIO.jl) - Glue package for reading and writing tabular data.
 - [JET.jl](https://github.com/aviatesk/JET.jl) - Experimental type checker for Julia, no need for additional type annotations.
+- [LoopVectorization](https://github.com/chriselrod/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 
 ## Links
 

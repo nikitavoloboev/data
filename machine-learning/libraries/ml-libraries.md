@@ -84,3 +84,4 @@
 - [modestpy](https://github.com/sdu-cfei/modest-py) - Facilitates parameter estimation in models compliant with Functional Mock-up Interface.
 - [Distiller](https://github.com/IntelLabs/distiller) - Open-source Python package for neural network compression research.
 - [modAL](https://github.com/modAL-python/modAL) - Modular active learning framework for Python.
+- [Bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface in Python.

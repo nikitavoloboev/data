@@ -94,3 +94,4 @@
 - [Design Systems Figma (2020)](https://designsystemsforfigma.com/blog/design-to-engineering-handoff)
 - [Introduction to Design Systems for UX/UI Designers (2020)](https://hackernoon.com/introduction-to-design-systems-for-uxui-designers-f1223z7x)
 - [Design Systems Benchmark](https://github.com/turolopezsanabria/Design-Systems)
+- [Storybook Playroom Addon](https://github.com/rbardini/storybook-addon-playroom) - Design with Playroom inside Storybook, using each story source as a starting point.

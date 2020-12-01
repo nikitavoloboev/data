@@ -116,6 +116,7 @@
 - [KeyboardHelper](https://github.com/nodes-ios/KeyboardHelper) - Small tool for handling UIKeyboard appearing and disappearing in your view controllers.
 - [QCropper](https://github.com/qchenqizhi/QCropper) - Image cropping/rotating/straightening library for iOS in Swift.
 - [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
+- [Swift Validators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS.
 
 ## macOS
 
