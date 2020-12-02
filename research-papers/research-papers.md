@@ -73,3 +73,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arXiv Submission](https://github.com/arXiv/arxiv-submission-core) - Houses development related to the arXiv-NG submission system.
 - [paperhunt](https://github.com/VasudevGupta7/paperhunt) - Simple script for hunting trending papers everyday.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - Web interface for browsing, search and filtering recent arxiv submissions. ([Code](https://github.com/karpathy/arxiv-sanity-preserver))
+- [twXiv](https://github.com/so-okada/twXiv) - Gives arXiv daily new submissions by tweets, abstracts by replies, and cross-lists and replacements by retweets.

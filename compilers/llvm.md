@@ -52,3 +52,4 @@
 - [LLVM tutorial in Rust language](https://github.com/jauhien/iron-kaleidoscope)
 - [A tutorial on how to write a compiler using LLVM (2020)](https://tomassetti.me/a-tutorial-on-how-to-write-a-compiler-using-llvm/)
 - [cargo-llvm-lines](https://github.com/dtolnay/cargo-llvm-lines) - Count lines of LLVM IR per generic function.
+- [QBE vs. LLVM](https://c9x.me/compile/doc/llvm.html) ([HN](https://news.ycombinator.com/item?id=25273907))

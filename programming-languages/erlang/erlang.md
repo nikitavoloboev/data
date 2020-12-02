@@ -62,3 +62,4 @@
 - [Chasing a Performance Regression with Erlang/OTP 22 (2020)](https://tech.nextroll.com/blog/dev/2020/11/03/chasing-a-perf-regression-erlang.html)
 - [Pyrlang](https://github.com/Pyrlang/Pyrlang) - Drop-in Erlang node implementation in Python 3.5, implementing a network Erlang node protocol.
 - [Planet Erlang](http://www.planeterlang.com/) - Meta blog that collects posts from the blogs of various Erlang developers and contributors. ([Code](https://github.com/stevenproctor/planet-erlang))
+- [erlfmt](https://github.com/WhatsApp/erlfmt) - Automated code formatter for Erlang.

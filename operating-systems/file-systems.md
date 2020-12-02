@@ -29,3 +29,4 @@
 - [vmtouch](https://hoytech.com/vmtouch/) - Portable file system cache diagnostics and control. ([Code](https://github.com/hoytech/vmtouch))
 - [Modern storage is plenty fast. It is the APIs that are bad (2020)](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a) ([HN](https://news.ycombinator.com/item?id=25217323))
 - [Supertag](https://github.com/amoffat/supertag) - Tag-based filesystem, written in Rust, for Linux and MacOS. ([Docs](https://amoffat.github.io/supertag/))
+- [DwarFS](https://github.com/mhx/dwarfs) - Fast high compression read-only file system.

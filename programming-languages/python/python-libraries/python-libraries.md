@@ -236,6 +236,9 @@
 - [Delocate](https://github.com/matthew-brett/delocate) - Find and copy needed dynamic libraries into python wheels.
 - [Result](https://github.com/dbrgn/result) - Simple Rust like Result type for Python 3. Fully type annotated.
 - [cu2qu](https://github.com/googlefonts/cu2qu) - Cubic-to-quadratic bezier curve conversion.
+- [Microdict](https://github.com/touqir14/Microdict) - High performance python hash table library that is generally faster and consumes significantly less memory than Python Dictionaries.
+- [Zarr](https://github.com/zarr-developers/zarr-python) - Implementation of chunked, compressed, N-dimensional arrays for Python.
+- [particles](https://github.com/nchopin/particles) - Sequential Monte Carlo in python.
 
 ## Links
 

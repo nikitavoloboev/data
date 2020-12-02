@@ -16,6 +16,8 @@ I publish most of my work and make it open source for other people to use and re
 - [Mael Nison](https://github.com/arcanis) - Nice picture on side.
 - [Martin Sandsmark](https://github.com/sandsmark) - Nice organized list of projects.
 - [Alex Ellis](https://github.com/alexellis) - Minimal & clear calls to action.
+- [egoist](https://github.com/egoist) - Showing sponsors is nice.
+- [Phil Pluckthun](https://github.com/kitten)
 
 ## Notes
 

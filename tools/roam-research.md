@@ -58,3 +58,4 @@
 - [Roam Digest](https://roamdigest.com/) - Fresh dose of #roamcult from around the web.
 - [Recovering Lost Roam Notes (2020)](https://jeffchen.dev/posts/Recovering-Lost-Roam-Notes/) ([HN](https://news.ycombinator.com/item?id=24944574))
 - [Building a roam-like, networked, heavily-customized realtime editor (2020)](https://namiwang.github.io/2020/11/12/building-a-roam-like-networked-heavily-customized-realtime-editor-part-1.html) ([HN](https://news.ycombinator.com/item?id=25177290))
+- [Automatic RoamResearch backup](https://github.com/MatthieuBizien/roam-to-git)

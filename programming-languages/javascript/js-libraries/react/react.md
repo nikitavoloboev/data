@@ -184,3 +184,4 @@
 - [Rockpack](https://github.com/AlexSergey/rockpack) - Simple solution for creating React Application with Server Side Rendering, bundling, linting, testing, logging, localizing within 5 minutes.
 - [React hover animation effect with React Spring (2020)](https://www.joshwcomeau.com/react/boop/)
 - [Advanced React Security Patterns](https://reactsecurity.io/advanced-react-security-patterns/) - Learn how to Secure your React Apps for the Real World.
+- [react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass) - Custom partial React SSR renderer for prefetching and suspense.

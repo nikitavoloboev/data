@@ -50,3 +50,4 @@
 - [Use Netlify Functions and the Twitter API v2 as a CMS for Your Gatsby Blog (2020)](https://paulie.dev/posts/2020/11/gatsby-netlify-twitter/) ([HN](https://news.ycombinator.com/item?id=25186006))
 - [Twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API.
 - [I Made a Self-Quoting Tweet (2020)](https://oisinmoran.com/quinetweet) ([HN](https://news.ycombinator.com/item?id=25244872))
+- [Tools for fighting abuse on Twitter](https://github.com/travisbrown/cancel-culture) - Contains some low-tech tools designed to help you make Twitter a nicer place for yourself.

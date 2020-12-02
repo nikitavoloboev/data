@@ -18,3 +18,4 @@
 - [Training Keras models with TensorFlow Cloud](https://keras.io/guides/training_keras_models_on_cloud/)
 - [Keras Idiomatic Programmer](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
 - [Scikit-Learn Wrapper for Keras](https://github.com/adriangb/scikeras)
+- [aXeleRate](https://github.com/AIWintermuteAI/aXeleRate) - Keras-based framework for AI on the Edge.

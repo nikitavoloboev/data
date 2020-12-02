@@ -200,3 +200,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [How do you write simple explanations without sounding condescending (2020)](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) ([Lobsters](https://lobste.rs/s/qzdqit/how_do_you_write_simple_explanations))
 - [The Craft of Writing Effectively (2014)](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442))
+- [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.

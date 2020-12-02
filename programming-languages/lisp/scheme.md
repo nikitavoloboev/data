@@ -33,3 +33,4 @@
 - [Cyclone Scheme](https://github.com/justinethier/cyclone) - Brand-new compiler that allows practical application development using R7RS Scheme. ([Web](https://justinethier.github.io/cyclone/)) ([HN](https://news.ycombinator.com/item?id=24696939))
 - [SRFIs for Chez Scheme](https://github.com/arcfide/chez-srfi)
 - [Compiling Scheme to C with flat closure conversion](http://matt.might.net/articles/compiling-scheme-to-c/)
+- [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)

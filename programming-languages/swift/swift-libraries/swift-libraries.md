@@ -117,6 +117,7 @@
 - [QCropper](https://github.com/qchenqizhi/QCropper) - Image cropping/rotating/straightening library for iOS in Swift.
 - [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 - [Swift Validators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS.
+- [Kanvas](https://github.com/tumblr/kanvas-ios) - iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 
 ## macOS
 
@@ -487,6 +488,7 @@
 - [SwiftNIO SSH](https://github.com/apple/swift-nio-ssh) - Programmatic implementation of SSH using SwiftNIO. ([Article](https://swift.org/blog/swiftnio-ssh/)) ([HN](https://news.ycombinator.com/item?id=25157942))
 - [PredicateKit](https://github.com/ftchirou/PredicateKit) - Allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.
 - [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer for Swift.
+- [SwiftOTP](https://github.com/lachlanbell/SwiftOTP) - Swift library for generating One Time Passwords (OTP).
 
 ## Other (not lib)
 

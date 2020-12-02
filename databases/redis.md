@@ -38,3 +38,6 @@
 - [handy-redis](https://github.com/mmkal/handy-redis) - Wrapper around node_redis with Promise and TypeScript support.
 - [Pydis](https://github.com/boramalper/pydis) - Redis clone in 250 lines of Python, for performance comparison. ([HN](https://news.ycombinator.com/item?id=25100218))
 - [Building a Scalable ML Feature Store with Redis (2020)](https://doordash.engineering/2020/11/19/building-a-gigascale-ml-feature-store-with-redis/)
+- [Redis Website Code](https://github.com/redis/redis-io)
+- [RedisJSON](https://github.com/RedisJSON/RedisJSON) - JSON data type for Redis. ([Docs](https://oss.redislabs.com/redisjson/))
+- [Redis Docs](https://redis.io/documentation) ([Code](https://github.com/redis/redis-doc))

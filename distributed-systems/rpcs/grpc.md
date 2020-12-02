@@ -36,3 +36,4 @@
 - [gRPC microservice for dealing with users and its CLI client + Helm chart](https://github.com/maelvls/users-grpc)
 - [ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC.
+- [grpcbin](https://github.com/moul/grpcbin) - httpbin like for gRPC.

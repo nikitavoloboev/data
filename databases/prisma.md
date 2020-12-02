@@ -25,3 +25,5 @@
 - [Prisma Client Go](https://github.com/prisma/prisma-client-go) - Typesafe database access for Go.
 - [TypeGraphQL & Prisma 2 integration](https://github.com/MichalLytek/typegraphql-prisma) - Prisma 2 generator to emit TypeGraphQL types and CRUD resolvers from your Prisma 2 schema.
 - [Nexus Shield](https://github.com/Sytten/nexus-shield) - Nexus plugin to ease the creation of the authorization layer.
+- [JavaScript interface for Prisma Schema DSL](https://github.com/amplication/prisma-schema-dsl)
+- [Prisma Codemods](https://github.com/prisma/codemods) - Collection of Codemods for Prisma.

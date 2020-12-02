@@ -148,6 +148,7 @@
 - [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
 - [poly-commit](https://github.com/scipr-lab/poly-commit) - Rust library for polynomial commitments.
 - [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
+- [STHash](https://github.com/jedisct1/rust-sthash) - Fast, keyed, cryptographic hash function designed to process large, possibly untrusted data.
 
 ## Linux
 

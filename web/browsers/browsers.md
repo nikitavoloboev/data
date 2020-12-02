@@ -9,7 +9,7 @@
 
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [Wexond](https://github.com/wexond/wexond) - Extensible and privacy-focused web browser with a totally different user experience.
-- [Web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test web extensions.
+- [Web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test web extensions. ([HN](https://news.ycombinator.com/item?id=25217857))
 - [Facebook’s open source browser contributions (2019)](https://code.fb.com/web/browser-contributions/)
 - [WebKit](https://github.com/WebKit/webkit) - Open source cross-platform web browser engine.
 - [Browserless](https://www.browserless.io/) - Fast, scalable, and reliable browser automation built for businesses and developers.
@@ -88,3 +88,4 @@
 - [Browsh](https://www.brow.sh/) - Fully-modern text-based browser. ([HN](https://news.ycombinator.com/item?id=25129747))
 - [Browser compatibility data](https://github.com/mdn/browser-compat-data) - Describes which platforms particular Web APIs.
 - [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy.
+- [Brave Core](https://github.com/brave/brave-core) - Set of changes, APIs, and scripts used for customizing Chromium to make Brave.

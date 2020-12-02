@@ -55,3 +55,4 @@
 - [mirdata](https://github.com/mir-dataset-loaders/mirdata) - Interoperable Dataset Loaders for Music Information Retrieval (MIR).
 - [MetFaces Dataset](https://github.com/NVlabs/metfaces-dataset) - Image dataset of human faces extracted from works of art.
 - [Lionbridge AI](https://lionbridge.ai/) - Provides human-labeled data for hundreds of use cases.
+- [Traditional Chinese Landscape Painting Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset)

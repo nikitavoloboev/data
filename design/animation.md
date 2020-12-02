@@ -22,3 +22,5 @@
 - [WeightShift](https://weightshift.io/) - Maya plugin for animator friendly, physically-based character animation.
 - [FlowBetween](https://github.com/Logicalshift/flowbetween) - Tool for creating animations. ([Web](https://flowbetween.app/))
 - [History of animation](https://history-of-animation.webflow.io/)
+- [Filmstrip](https://filmstrip.berryscript.com/) - Animate keyframes and get CSS. ([Code](https://github.com/barhatsor/filmstrip))
+- [Pencil2D Animation](https://github.com/pencil2d/pencil) - Easy, intuitive tool to make 2D hand-drawn animations. ([Web](https://www.pencil2d.org/))

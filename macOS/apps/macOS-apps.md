@@ -78,6 +78,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Menu bar application that lists your iCloud Tabs and Reading List.
 - [BitBar](https://github.com/matryer/bitbar) - Lets you put the output from any script/program in your macOS Menu Bar.
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
+- [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me) - macOS system analyzer and cleaner.
 
 ## Other interesting apps
 

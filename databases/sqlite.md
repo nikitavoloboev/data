@@ -29,3 +29,4 @@
 - [hybrid-disk-cache](https://github.com/rjyo/hybrid-disk-cache) - Hybrid disk cache library that utilized both the solid SQLite3 and file system.
 - [SQLite briefing for Linux kernel hackers](https://sqlite.org/lpc2019/doc/trunk/briefing.md) ([HN](https://news.ycombinator.com/item?id=25167423))
 - [Richard Hipp - SQLite lecture (2015)](https://www.youtube.com/watch?v=gpxnbly9bz4)
+- [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) ([HN](https://news.ycombinator.com/item?id=25226260))

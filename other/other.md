@@ -396,3 +396,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Templatemaker](https://www.templatemaker.nl/en/) - Create and download custom sized papercraft and packaging templates.
 - [How to carve spoons](https://oppenlab.net/cr/spoons/)
 - [Inferno](https://github.com/jonhoo/inferno) - Rust port of FlameGraph.
+- [Mirage](https://github.com/RCayre/mirage) - Powerful and modular framework dedicated to the security analysis of wireless communications.

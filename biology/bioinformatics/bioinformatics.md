@@ -78,5 +78,6 @@
 - [AlphaFold: a solution to a 50-year-old grand challenge in biology, protein folding (2020)](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) ([HN](https://news.ycombinator.com/item?id=25253488)) ([Explained](https://twitter.com/AdamRutherford/status/1333449928316743683))
 - [ProSPr: Protein Structure Prediction](https://github.com/dellacortelab/prospr)
 - [MiniFold](https://github.com/EricAlcaide/MiniFold) - Deep Learning for Protein Structure Prediction inspired by DeepMind AlphaFold algorithm.
+- [What is protein folding? A brief explanation (2020)](https://rootsofprogress.org/alphafold-protein-folding-explainer) ([HN](https://news.ycombinator.com/item?id=25261591))
 - [HH-suite3 for sensitive sequence searching](https://github.com/soedinglab/hh-suite) - Software package for sensitive protein sequence searching based on the pairwise alignment of hidden Markov models (HMMs).
 - [Soding Lab](https://www.mpibpc.mpg.de/soeding) - Quantitative and Computational Biology Research. ([GitHub](https://github.com/soedinglab))

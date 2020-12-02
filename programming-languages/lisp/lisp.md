@@ -93,5 +93,5 @@
 - [Pixie](https://github.com/pixie-lang/pixie) - Lightweight lisp suitable for both general use as well as shell scripting.
 - [Awesome Lisp Companies](https://github.com/azzamsa/awesome-lisp-companies) - Curated lisp for companies that use Lisp Extensively in their stack.
 - [LISP – Notes on its past and future, by John McCarthy (1980)](http://jmc.stanford.edu/articles/lisp20th/lisp20th.pdf)
-- [Klisp](https://github.com/thesephist/klisp) - Minimal LISP written in about 200 lines of Ink.
+- [Klisp](https://github.com/thesephist/klisp) - Minimal LISP written in about 200 lines of Ink. ([Article](https://dotink.co/posts/klisp/))
 - [baremetalisp](https://github.com/ytakano/baremetalisp)

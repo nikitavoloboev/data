@@ -137,6 +137,8 @@
 - [Dyno](https://github.com/ldionne/dyno) - Runtime polymorphism done right.
 - [Geometry Central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes. ([Docs](https://geometry-central.net/))
 - [Bullet Physics SDK](https://github.com/StanfordVL/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [lexy](https://github.com/foonathan/lexy) - C++ parser combinator library.
+- [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library. Zero-dependency C++ header-only parser combinator library for creating parsers according to a Parsing Expression Grammar (PEG).
 
 ## Links
 
@@ -145,3 +147,4 @@
 - [How to export C++ library](https://github.com/robotology/how-to-export-cpp-library) - OS-agnostic C++ library template in plain CMake.
 - [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))
 - [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically.
+- [The Art of C++](https://github.com/taocpp) - Collection of high-quality C++ libraries. ([Web](https://taocpp.github.io/))

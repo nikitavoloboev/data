@@ -93,4 +93,4 @@
 - [H20](https://github.com/h2o/h2o) - Optimized HTTP/1, HTTP/2, HTTP/3 server. ([Web](https://h2o.examp1e.net/))
 - [Hoppscotch CLI](https://github.com/hoppscotch/hopp-cli) - Send HTTP requests from terminal. An alternative to cURL, httpie.
 - [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. ([Web](https://locust.io/))
-- [k6](https://github.com/loadimpact/k6) - Modern load testing tool, using Go and JavaScript. ([Web](https://k6.io/))
+- [k6](https://github.com/loadimpact/k6) - Modern load testing tool, using Go and JavaScript. ([Web](https://k6.io/)) ([Docs](https://k6.io/docs/)) ([Docs Code](https://github.com/loadimpact/k6-docs))

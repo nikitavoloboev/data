@@ -228,3 +228,4 @@
 - [Haskell IDE Engine for Nix](https://github.com/Infinisil/all-hies) - Provides cached Nix builds for Haskell IDE Engine.
 - [How I learned Haskell (2017)](https://kseo.github.io/posts/2017-01-27-how-i-learned-haskell.html)
 - [Haskell Weekly](https://haskellweekly.news/) - Publishes curated news about the Haskell programming language. ([Code](https://github.com/haskellweekly/haskellweekly))
+- [Haddock](https://www.haskell.org/haddock/) - Haskell Documentation Tool. ([Code](https://github.com/haskell/haddock))

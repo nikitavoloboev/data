@@ -86,3 +86,4 @@
 - [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA) ([Reddit](https://www.reddit.com/r/programming/comments/jybwv0/exploring_how_computers_work/))
 - [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Computation explained with screencasts.
 - [Map of Computer Science (2017)](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- [Ask HN: What are the best advanced computer science courses online? (2020)](https://news.ycombinator.com/item?id=25271676)

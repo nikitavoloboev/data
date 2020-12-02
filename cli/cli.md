@@ -6,6 +6,10 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches your current directory for a regex pattern. ([Andrew Gallant, creator of ripgrep - Sourcegraph Podcast (2020)](https://open.spotify.com/episode/1F6oqtDiBuyeYokEAm3dXx?si=YcYYd-NnTGa6XQcNGrFGbw)) ([Lobsters](https://lobste.rs/s/vunje1/burntsushi_talks_about_creating_ripgrep))
 
+## Interesting
+
+- [rga](https://github.com/phiresky/ripgrep-all) - Ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. ([Article](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)) ([HN](https://news.ycombinator.com/item?id=25277280))
+
 ## Notes
 
 - Look into [gh cli](https://github.com/cli/cli) for example of a well designed CLI. The `-h` is amazing.

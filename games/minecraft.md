@@ -23,3 +23,4 @@
 - [Minecraft HDL](https://github.com/itsFrank/MinecraftHDL) - Verilog synthesis flow for Minecraft redstone circuits.
 - [minecraft-data](https://github.com/PrismarineJS/minecraft-data) - Language independent module providing minecraft data for minecraft clients, servers and libraries. ([Docs](https://minecraft-data.prismarine.js.org/))
 - [Mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [Dragonfly](https://github.com/df-mc/dragonfly) - Minecraft (Bedrock Edition) server software written in Go.

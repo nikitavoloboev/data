@@ -261,3 +261,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Basics of App Store Optimization](https://quality-wolves.com/what-is-aso)
 - [Emcee](https://github.com/avito-tech/Emcee) - Tool that runs iOS tests in parallel using multiple simulators across many Macs.
 - [GraphifySwiftCMD](https://github.com/kristiinara/GraphifySwift) - Command line tool that makes it possible to analyze a lot of iOS applications at once.
+- [Building a smooth Stories experience on iOS (2020)](https://engineering.linkedin.com/blog/2020/building-stories-on-ios)
+- [Project Zero: An iOS zero-click radio proximity exploit odyssey (2020)](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html) ([HN](https://news.ycombinator.com/item?id=25270184))

@@ -39,3 +39,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Let’s make a FreeBSD for “mere mortals” (2020)](https://medium.com/@probonopd/hello-lets-make-a-freebsd-for-mere-mortals-41b8f93ba075)
 - [Why I use OpenBSD (2020)](https://dataswamp.org/~solene/2020-11-16-why-i-use-openbsd.html)
 - [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults.html)
+- [macOS to FreeBSD migration a.k.a. why I left macOS (2020)](https://antranigv.am/weblog_en/posts/macos_to_freebsd/) ([HN](https://news.ycombinator.com/item?id=25266435))

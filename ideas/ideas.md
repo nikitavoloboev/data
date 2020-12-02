@@ -73,3 +73,4 @@ I try to give my full attention to any ideas I am working on.
 - [Billion dollar startup ideas (2020)](https://www.youtube.com/watch?v=3YKNr-LiblI) ([HN](https://news.ycombinator.com/item?id=25101463))
 - [How to find underrated ideas](https://twitter.com/amasad/status/1327793928746147840)
 - [Ask HN: How do you work through large ideas? (2020)](https://news.ycombinator.com/item?id=25217436)
+- [IdeasAI](https://ideasai.net/) - GPT-3-powered business idea generator.

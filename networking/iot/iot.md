@@ -46,3 +46,4 @@
 - [IoT Pentesting](https://www.iotpentest.com/)
 - [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 - [Universal Radio Hacker (URH)](https://github.com/jopohl/urh) - Investigate Wireless Protocols Like A Boss.
+- [Automated irrigation system](https://github.com/PatrickHallek/automated-irrigation-system) - Open source application to water plants automatically.

@@ -160,3 +160,9 @@
 - [Lightly](https://github.com/lightly-ai/lightly) - Computer vision framework for self-supervised learning.
 - [DISK: Learning local features with policy gradient (2020)](https://arxiv.org/abs/2006.13566) ([Code](https://github.com/cvlab-epfl/disk))
 - [Caer](https://github.com/jasmcaus/caer) - Lightweight Computer Vision library for high-performance AI research. ([Intro](https://towardsdatascience.com/introducing-caer-modern-computer-vision-on-the-fly-1619d7155c15))
+- [Awesome Image to Image Translation Papers](https://github.com/weihaox/awesome-image-translation)
+- [EfficientDet: Scalable and Efficient Object Detection, in PyTorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+- [UNet: semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
+- [Exploring Simple Siamese Representation Learning (2020)](https://arxiv.org/abs/2011.10566) ([Code](https://github.com/PatrickHua/SimSiam))
+- [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://github.com/aimagelab/show-control-and-tell)
+- [Deformable Neural Radiance Fields](https://nerfies.github.io/)

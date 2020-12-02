@@ -268,3 +268,7 @@
 - [Kubernetes Website Code](https://github.com/kubernetes/website)
 - [Open Service Mesh (OSM)](https://github.com/openservicemesh/osm) - Lightweight, extensible, Cloud Native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments. ([Web](https://openservicemesh.io/))
 - [A better Kubernetes from the ground up (2020)](https://blog.dave.tf/post/new-kubernetes/) ([HN](https://news.ycombinator.com/item?id=25243159))
+- [Bootstrap OpenFaaS Cloud for your team](https://github.com/openfaas/ofc-bootstrap)
+- [Kubernetes Examples](https://github.com/kubernetes/examples) - Contains a number of examples of how to run real applications with Kubernetes.
+- [k8s-openapi](https://github.com/Arnavion/k8s-openapi) - Rust bindings for the Kubernetes client API.
+- [Helm Chart Testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts.

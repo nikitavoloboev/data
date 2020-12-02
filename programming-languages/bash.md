@@ -20,7 +20,7 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 - [How To Automate Basic Development Tasks with Bash](https://jmulholland.com/how-to-automate-basic-development-tasks-with-bash)
 - [Mini Gitbook for a presentation about BASH](https://erkanerol.github.io/bash-lingua-non-grata/#/) ([Code](https://github.com/erkanerol/bash-lingua-non-grata))
-- [Bash $* and $@ (2017)](https://eklitzke.org/bash-$%2A-and-$@) ([HN](https://news.ycombinator.com/item?id=22027809))
+- [Bash $\* and $@ (2017)](https://eklitzke.org/bash-$%2A-and-$@) ([HN](https://news.ycombinator.com/item?id=22027809))
 - [Understanding Bash: Elements of Programming (2018)](https://www.linuxjournal.com/content/understanding-bash-elements-programming) ([HN](https://news.ycombinator.com/item?id=22052890))
 - [Bash tricks](https://github.com/SimonBaeumer/bash-tricks) - Simple bash tricks which will make your life easier. ([Reddit](https://www.reddit.com/r/bash/comments/eokp46/some_simple_bash_tipps/))
 - [Anybody can write good bash (with a little effort) (2020)](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort) ([Lobsters](https://lobste.rs/s/y0nx8o/anybody_can_write_good_bash_with_little))
@@ -52,3 +52,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [An Awful Edge Case in Bash's set -e (2020)](http://jbrot.com/blog/dash_e_problems.html)
 - [Variant](https://github.com/mumoshu/variant2) - Turn your bash scripts into a modern, single-executable CLI app.
 - [Even faster bash startup (2020)](https://work.lisk.in/2020/11/20/even-faster-bash-startup.html)
+- [How To Use Bash Parameter Substitution Like A Pro (2020)](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)

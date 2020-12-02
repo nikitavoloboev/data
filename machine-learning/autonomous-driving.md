@@ -30,3 +30,4 @@
 - [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
 - [Neural Network Cars and Genetic Algorithms (2020)](https://www.youtube.com/watch?v=-sg-GgoFCP0)
 - [Scalability in Autonomus Driving Workshop - Andrej Karpathy (2020)](https://www.youtube.com/watch?v=X2CpuabzRaY)
+- [Social Driving](https://github.com/fidler-lab/social-driving) - Design multi-agent environments and simple reward functions such that social driving behavior emerges.

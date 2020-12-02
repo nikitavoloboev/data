@@ -300,3 +300,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How I read (2020)](https://www.spakhm.com/p/how-i-read)
 - [ibis](https://github.com/themsaid/ibis) - PHP tool that helps you write eBooks in markdown and convert to PDF.
 - [Writing a technical book: from idea to print (2020)](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html) ([HN](https://news.ycombinator.com/item?id=25138216))
+- [Bit Better Book Club](https://books.bitbetter.club/)
+- [No Starch Press](https://nostarch.com/) - Publishing company, specializing in technical literature often geared towards the geek, hacker, and DIY subcultures.

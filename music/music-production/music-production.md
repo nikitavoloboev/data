@@ -42,6 +42,8 @@
 - [DaisySP](https://github.com/electro-smith/DaisySP) - Open source DSP library written in C++ and specifically tailored to embedded audio applications.
 - [Daisy Seed](https://www.electro-smith.com/daisy/daisy) - Embedded platform for music. It features everything you need for creating high fidelity audio hardware devices. Just plug in a USB cable and start making sound.
 - [Daisy Synthesizers Shop](https://www.electro-smith.com/daisy)
+- [Ofelia](https://github.com/cuinjune/Ofelia) - Cross-platform real-time visual programming environment for creating audiovisual artwork or multimedia applications.
+- [dasp](https://github.com/RustAudio/dasp) - Digital Audio Signal Processing in Rust.
 
 ## Inspiration
 

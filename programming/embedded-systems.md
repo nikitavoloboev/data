@@ -38,7 +38,7 @@
 - [Awesome Bare Metal](https://github.com/alexellis/awesome-baremetal)
 - [usbarmory.rs](https://github.com/iqlusioninc/usbarmory.rs) - Bare metal Rust support for USB armory MkII devices.
 - [cortex-a](https://github.com/rust-embedded/cortex-a) - Low level access to Cortex-A processors.
-- [Tinkerbell](https://github.com/tinkerbell/tink) - Bare metal provisioning and workflow engine.
+- [Tinkerbell](https://github.com/tinkerbell/tink) - Bare metal provisioning and workflow engine. ([GitHub](https://github.com/tinkerbell/)) ([Web](https://tinkerbell.org/))
 - [CMSIS](https://github.com/ARM-software/CMSIS_5) - Vendor-independent hardware abstraction layer for microcontrollers that are based on Arm® Cortex® processors.
 - [Rust on a Beaglebone Blue (2020)](http://afking.github.io/rustc)
 - [Embedded graphics](https://github.com/jamwaffles/embedded-graphics) - 2D graphics library that is focused on memory constrained embedded devices.

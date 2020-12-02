@@ -100,6 +100,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Elvin Aliyev](https://www.behance.net/surferdude)
 - [Ben Nicholas](https://www.artstation.com/belgianboolean)
+- [Benjamin Guedj](https://www.instagram.com/oursroux/)
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Mocaran](https://mocaran.com/)
@@ -328,6 +329,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Pip](https://www.instagram.com/bypip/) ([Web](https://www.bypip.co.uk/))
 - [Nova Togatorop](https://novatogatorop.com/)
 - [Beautiful photography prints (2020)](https://twitter.com/LukesBeard/status/1332384624186683394)
+- [Accidental Renaissance Photos](https://twitter.com/tsukkiskys/status/1333480519447818244)
 
 ## Notes
 
