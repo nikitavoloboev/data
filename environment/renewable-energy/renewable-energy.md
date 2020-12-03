@@ -17,3 +17,4 @@
 - [ElectricityMap](https://www.electricitymap.org/map) - Live CO₂ emissions of electricity production and consumption. ([HN](https://news.ycombinator.com/item?id=24747927))
 - [Facebook and Carnegie Mellon launch the Open Catalyst Project to find new ways to store renewable energy (2020)](https://ai.facebook.com/blog/facebook-and-carnegie-mellon-launch-the-open-catalyst-project-to-find-new-ways-to-store-renewable-energy)
 - [NextEra Analytics](https://www.nexteraanalytics.com/) - Provide innovative design and optimization solutions that enable low cost, reliable and sustainable power systems.
+- [Why did renewables become so cheap so fast? (2020)](https://ourworldindata.org/cheap-renewables-growth) ([HN](https://news.ycombinator.com/item?id=25265819))

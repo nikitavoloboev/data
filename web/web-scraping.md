@@ -57,3 +57,4 @@
 - [NYT Vote Scraper](https://github.com/alex/nyt-2020-election-scraper) - Scrapes the NYT Votes Remaining Page JSON and commits it back to this repo. Nice use of GitHub actions for git scraping.
 - [Instagram Scraper](https://github.com/arc298/instagram-scraper) - Scrapes an instagram user's photos and videos.
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
+- [Guide on preventing Website Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping)

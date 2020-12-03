@@ -78,3 +78,4 @@
 - [cloudquery](https://cloudquery.run/) - Transform your cloud config and metadata to SQL. ([Code](https://github.com/cloudquery/cloudquery))
 - [mfsqlchecker](https://github.com/MedFlyt/mfsqlchecker) - Statically validate correctness of all your SQL queries. TypeScript, PostgreSQL.
 - [SQLiterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder.
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool. ([Web](http://sqlmap.org/))

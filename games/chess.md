@@ -30,4 +30,4 @@
 - [The Chess Programming Wiki](https://www.chessprogramming.org/Main_Page)
 - [go-chess](https://github.com/notnil/chess) - Go library which provides common chess utilities such as move generation, turn management, checkmate detection, PGN encoding, and others.
 - [Chess tactics explained](https://www.chesstactics.org/) ([HN](https://news.ycombinator.com/item?id=25236094))
-- [Aligning Superhuman AI with Human Behavior: Chess as a Model System](https://github.com/CSSLab/maia-chess) - Collection of chess engines that play like humans, from ELO 1100 to 1900.
+- [Maia Chess](https://maiachess.com/) - Human-like neural network chess engine. ([Code](https://github.com/CSSLab/maia-chess))
