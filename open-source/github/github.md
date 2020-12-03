@@ -20,6 +20,10 @@ I publish most of my work and make it open source for other people to use and re
 - [Phil Pluckthun](https://github.com/kitten)
 - [Brandon Bayer](https://github.com/flybayer) - Nice & clear calls to action.
 
+## Great GitHub readme
+
+- [lichess](https://github.com/ornicar/lila/) - Clean & to the point.
+
 ## Notes
 
 - Can append `#readme` to GitHub repo URL to jump to README of the repo.
