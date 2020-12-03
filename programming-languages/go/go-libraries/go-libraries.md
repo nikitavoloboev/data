@@ -606,6 +606,7 @@
 - [keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard.
 - [go-lock](https://github.com/viney-shih/go-lock) - Lock library implementing read-write mutex and read-write trylock without starvation.
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go.
+- [graph](https://github.com/yourbasic/graph) - Graph algorithms and data structures.
 
 ## Links
 
