@@ -77,6 +77,8 @@
 - [pattern-matching-ts](https://github.com/nrdlab/pattern-matching-ts) - Pattern matching in TypeScript.
 - [txstate](https://github.com/devanshj/txstate) - Effort to statically type xstate.
 - [RemoteData type](https://github.com/devexperts/remote-data-ts) - ADT (algebraic data type) for typing remote data.
+- [Predicate Domain Specific Language](https://github.com/ryardley/pdsl) - Expressive declarative toolkit for composing predicates in TypeScript or JavaScript. ([Docs](https://pdsl.dev/))
+- [True Myth](https://github.com/true-myth/true-myth) - Library for safer and smarter error- and "nothing"-handling in TypeScript.
 
 ## Links
 
@@ -88,3 +90,4 @@
 - [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by esbuild.
 - [Awesome Template Literal Types](https://github.com/ghoullier/awesome-template-literal-types)
 - [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.
+- [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.

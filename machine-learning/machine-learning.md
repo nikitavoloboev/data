@@ -351,3 +351,5 @@
 - [create-ml-app](https://github.com/shreyashankar/create-ml-app) - Template Makefile for ML projects in Python.
 - [telesto.ai](https://telesto.ai/) - Competitive marketplace, where you can work on real-life machine learning challenges.
 - [ML from the Fundamentals](https://rickwierenga.com/blog/ml-fundamentals) - Machine learning in a "from the first principles" style. ([Code](https://github.com/rickwierenga/MLFundamentals))
+- [Interpretability in Machine Learning: An Overview (2020)](https://thegradient.pub/interpretability-in-ml-a-broad-overview/)
+- [Implicit Rank-Minimizing Autoencoder (2020)](https://arxiv.org/abs/2010.00679) ([Code](https://github.com/facebookresearch/irmae))

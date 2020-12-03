@@ -63,3 +63,6 @@
 - [Svelte + TailwindCSS 2.0 + RollupJS starter](https://github.com/breadthe/svelte-tailwind2-starter)
 - [Store-based router for Svelte](https://github.com/zyxd/svelte-store-router)
 - [Svelte Stories](https://github.com/geoffrich/svelte-stories) - Svelte implementation of an Instagram Stories-like component.
+- [svelthree](https://github.com/vatro/svelthree) - Svelte powered three.js development. ([Web](https://svelthree.dev/)) ([Tweet](https://twitter.com/vatro_vrbanic/status/1287052921591529475))
+- [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020) ([HN](https://news.ycombinator.com/item?id=25288043))
+- [How Does Svelte Actually Work? (2019)](https://dev.to/zev/how-does-svelte-actually-work-part-1-j9m)

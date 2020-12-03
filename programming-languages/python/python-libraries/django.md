@@ -59,3 +59,5 @@
 - [Django Ninja](https://github.com/vitalik/django-ninja) - Fast Django REST Framework.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions for Django.
 - [Docker-Compose for Django and React with Nginx Reverse-Proxy and Let's Encrypt (2020)](https://saasitive.com/tutorial/docker-compose-django-react-nginx-let-s-encrypt/) ([HN](https://news.ycombinator.com/item?id=25169155))
+- [Django Smartmin](https://github.com/nyaruka/smartmin) - Admin-like utility for users.
+- [Deploying Django to AWS ECS with Terraform](https://github.com/testdrivenio/django-ecs-terraform)

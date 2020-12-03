@@ -166,3 +166,4 @@
 - [Exploring Simple Siamese Representation Learning (2020)](https://arxiv.org/abs/2011.10566) ([Code](https://github.com/PatrickHua/SimSiam))
 - [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://github.com/aimagelab/show-control-and-tell)
 - [Deformable Neural Radiance Fields](https://nerfies.github.io/)
+- [Timeception for Complex Action Recognition (2019)](https://arxiv.org/abs/1812.01289) ([Code](https://github.com/noureldien/timeception))

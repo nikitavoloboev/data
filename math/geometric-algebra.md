@@ -21,3 +21,4 @@
 - [Projective Geometric Algebra](http://projectivegeometricalgebra.org/)
 - [All Hail Geometric Algebra](https://crypto.stanford.edu/~blynn/haskell/ga.html) ([HN](https://news.ycombinator.com/item?id=25142528))
 - [A Swift Introduction to Geometric Algebra (2020)](https://www.youtube.com/watch?v=60z_hpEAtD8)
+- [GBD.jl](https://github.com/Orbots/GBD.jl) - Geometric algebra Based Dynamics.

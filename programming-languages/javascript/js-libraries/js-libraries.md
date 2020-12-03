@@ -374,6 +374,7 @@
 - [rafz](https://github.com/pmndrs/rafz) - Coordinate requestAnimationFrame calls across your app and/or libraries.
 - [p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise.
 - [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. ([Web](https://copy.sh/v86/))
+- [Notyf](https://github.com/caroso1222/notyf) - Minimalistic, responsive, vanilla JavaScript library to show toast notifications.
 
 ## Links
 

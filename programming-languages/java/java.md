@@ -38,3 +38,4 @@
 - [Graphics for JVM (2020)](https://tonsky.me/blog/skija/) ([HN](https://news.ycombinator.com/item?id=25121705))
 - [Useful Java links](https://github.com/Vedenin/useful-java-links)
 - [Java is better than C++ for high speed trading systems (2020)](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems) ([HN](https://news.ycombinator.com/item?id=25217270))
+- [sbt-assembly](https://github.com/sbt/sbt-assembly) - sbt plugin to deploy fat JARs with all of its dependencies. Restart processes.

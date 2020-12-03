@@ -1,5 +1,9 @@
 # Newsletters
 
+## Interesting
+
+- [A Byte of Coding](https://abyteofcoding.com/)
+
 ## Notes
 
 - [Treat your email list like your friends and community members.](https://twitter.com/jhooks/status/1310418061451603968)

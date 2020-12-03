@@ -167,3 +167,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Many services, one cloudflared (2020)](https://blog.cloudflare.com/many-services-one-cloudflared/)
 - [Transport Protocols: TCP and UDP](https://www.youtube.com/watch?v=37AFBZv4_6Y)
 - [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - Multiplatform C++ library for capturing, parsing and crafting of network packets.
+- [LibreSpeed](https://librespeed.org/) - Free and Open Source Speedtest. ([LibreSpeed CLI](https://github.com/librespeed/speedtest-cli))

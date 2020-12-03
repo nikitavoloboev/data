@@ -95,3 +95,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Going from Bad to Worse: From Internet Voting to Blockchain Voting (2020)](https://people.csail.mit.edu/rivest/pubs/PSNR20.pdf)
 - [It's not that bad: Open letter to MIT Digital Currency Initiative on anonymous voting (2020)](https://blog.vocdoni.io/zk-openletter-digital-currency/) ([Lobsters](https://lobste.rs/s/ixcm95/it_s_not_bad_open_letter_mit_digital))
 - [Blockchain and Trust (2019)](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html)
+- [Elements Project blockchain platform](https://elementsproject.org/) - Open Source implementation of advanced blockchain features extending the Bitcoin protocol. ([Code](https://github.com/ElementsProject/elements))
+- [IRISHub](https://github.com/irisnet/irishub) - BPoS blockchain that enables cross-chain interoperability through a unified service model. Built with Cosmos-SDK.

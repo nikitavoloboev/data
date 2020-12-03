@@ -204,6 +204,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Essential Reading for Startup CTOs](https://www.karllhughes.com/posts/reading-for-startup-ctos)
 - [Book Recommendations - Limitless Curiosity](https://limitlesscuriosity.com/book-recommendations/)
 - [Lex Fridman Library](https://lexfridmanlibrary.com/) - Library of book recommendations of all guests of the Lex Fridman Podcast.
+- [NPR's Best Books](https://apps.npr.org/best-books/) ([2020](https://apps.npr.org/best-books/#view=covers&year=2020))
 
 ## Notes
 
@@ -302,3 +303,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Writing a technical book: from idea to print (2020)](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html) ([HN](https://news.ycombinator.com/item?id=25138216))
 - [Bit Better Book Club](https://books.bitbetter.club/)
 - [No Starch Press](https://nostarch.com/) - Publishing company, specializing in technical literature often geared towards the geek, hacker, and DIY subcultures.
+- [Fable](https://fable.co/) - Social reading club app.

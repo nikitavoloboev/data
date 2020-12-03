@@ -10,4 +10,4 @@ I add `del` as part of the name contacts that are temporary. I then cleanup thes
 
 ## Links
 
-- [Monica](https://www.monicahq.com/) - Personal CRM done right.
+- [Monica](https://www.monicahq.com/) - Personal CRM. Remember everything about your friends, family and business relationships. ([Code](https://github.com/monicahq/monica))

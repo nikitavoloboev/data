@@ -195,3 +195,5 @@
 - [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.
 - [Semantic Experiences by Google](https://research.google.com/semanticexperiences/) - Experiments in understanding language.
 - [Long-Range Arena](https://github.com/google-research/long-range-arena) - Systematic evaluation of efficient transformer models.
+- [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.
+- [DeepSPIN (Deep Structured Prediction in Natural Language Processing)](https://deep-spin.github.io/) ([GitHub](https://github.com/deep-spin))

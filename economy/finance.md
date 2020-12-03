@@ -77,3 +77,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [TrueLayer](https://truelayer.com/) - Simple Open Banking APIs. Build applications that securely access data and initiate payments in real time. ([GitHub](https://github.com/TrueLayer))
 - [11FS](https://11fs.com/) - Creating digital financial services for banks.
 - [Interview Primer for Quantitative Finance](https://github.com/dwcoder/QuantitativePrimer) ([PDF](https://github.com/dwcoder/QuantitativePrimer/blob/master/src/QuantitativePrimer.pdf))
+- [Stripe Treasury](https://stripe.com/treasury) - Banking-as-a-service for platforms. ([Tweet](https://twitter.com/patio11/status/1334518202886328320)) ([HN](https://news.ycombinator.com/item?id=25289626))

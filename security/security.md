@@ -129,3 +129,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [r2c](https://r2c.dev/) - Enforcing code guardrails on every commit. ([GitHub](https://github.com/returntocorp/))
 - [Awesome Security Feeds](https://github.com/mrtouch93/awesome-security-feed)
 - [Neurax](https://github.com/redcode-labs/Neurax) - Library for constructing self-spreading binaries.
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. ([Web](https://cloudcustodian.io/))

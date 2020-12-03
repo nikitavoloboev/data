@@ -6,6 +6,7 @@
 - [HN: Jenkins Is Getting Old (2019)](https://news.ycombinator.com/item?id=19781251)
 - [Buildkite](https://buildkite.com/) - Platform for running fast, secure, and scalable continuous integration pipelines on your own infrastructure. ([CLI](https://github.com/buildkite/cli)) ([Docs](https://buildkite.com/docs)) ([Docs Code](https://github.com/buildkite/docs))
 - [Buildkite Agent](https://github.com/buildkite/agent) - Open-source toolkit written in Golang for securely running build jobs on any device or network.
+- [Buildkite Builder](https://github.com/Gusto/buildkite-builder) - Ruby gem for programmatically creating Buildkite pipeline YML.
 - [buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit.
 - [Lobsters: What CI platforms do you use? (2019)](https://lobste.rs/s/5j4vij/what_ci_platforms_do_you_use)
 - [huskyCI](https://github.com/globocom/huskyCI) - Performing security tests inside your CI.

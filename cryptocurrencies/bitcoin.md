@@ -60,3 +60,7 @@
 - [Chaincode Labs](https://chaincode.com/) - Exists to support Bitcoin.
 - [Notes and ideas for development work on Bitcoin Core](https://github.com/jonatack/bitcoin-development)
 - [HN: Bitcoin Price Hits All-Time High of $19,786, Topping 2017 Record (2020)](https://news.ycombinator.com/item?id=25255606)
+- [Scripts, tools & info for doing Bitcoin Core development and code review](https://github.com/fanquake/core-review)
+- [hal](https://github.com/stevenroose/hal) - Bitcoin companion. Command line tool that provides all kinds of Bitcoin-related utilities.
+- [btcd](https://github.com/btcsuite/btcd) - Alternative full node bitcoin implementation written in Go.
+- [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.

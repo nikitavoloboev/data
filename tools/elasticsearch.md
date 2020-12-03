@@ -13,3 +13,5 @@
 - [Searchkit](https://www.searchkit.co/) - Open source library which helps you build a great search experience with Elasticsearch. ([Code](https://github.com/searchkit/searchkit))
 - [Bloodhound](https://github.com/bitemyapp/bloodhound) - Elasticsearch client and query DSL for Haskell.
 - [Lighting fast search with Elasticsearch (2020)](https://www.webiny.com/blog/lighting-fast-search-with-elasticsearch)
+- [ECS Logging resources](https://github.com/elastic/ecs-logging)
+- [Kibana](https://www.elastic.co/kibana) - Free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack. ([Code](https://github.com/elastic/kibana))

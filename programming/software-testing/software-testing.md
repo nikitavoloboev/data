@@ -54,7 +54,7 @@
 - [Functional Programming and Property-Based Testing](http://janmidtgaard.dk/quickcheck/)
 - [How They Test](https://abhivaikar.github.io/howtheytest/#/) - Collection of public resources about how software companies test their software. ([Code](https://github.com/abhivaikar/howtheytest))
 - [Test smarter, not harder (2020)](https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/)
-- [TestDriven Courses](https://testdriven.io/)
+- [TestDriven Courses](https://testdriven.io/) ([GitHub](https://github.com/testdrivenio))
 - [Anatomy of a Good Test (2020)](https://www.innoq.com/en/blog/anatomy-of-a-good-test/)
 - [Assertion Injection : Unit Test Design Pattern](http://redsymbol.net/articles/assertion-injection/)
 - [High-level Language Features and Testing](http://redsymbol.net/articles/high-level-lang-features-and-testing/)

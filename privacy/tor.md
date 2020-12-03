@@ -17,3 +17,4 @@
 - [Operating a Tor Relay (2020)](https://birb007.github.io/blog/2020/06/06/operating-a-tor-relay.html) ([Lobsters](https://lobste.rs/s/is2li1/operating_tor_relay)) ([HN](https://news.ycombinator.com/item?id=23536949))
 - [MoreOnionsPorfavor: Onionize your website and take back the internet (2020)](https://blog.torproject.org/more-onions-porfavor) ([HN](https://news.ycombinator.com/item?id=23775704))
 - [Snowflake Proxy on Mobile (2020)](https://blog.torproject.org/gsoc-2020-snowflake-proxy-mobile)
+- [OnionSearch](https://github.com/megadose/OnionSearch) - Script that scrapes urls on different .onion search engines.

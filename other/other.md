@@ -397,3 +397,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How to carve spoons](https://oppenlab.net/cr/spoons/)
 - [Inferno](https://github.com/jonhoo/inferno) - Rust port of FlameGraph.
 - [Mirage](https://github.com/RCayre/mirage) - Powerful and modular framework dedicated to the security analysis of wireless communications.
+- [Bytepack](https://github.com/dashbitco/bytepack_archive) - Helps you package and deliver software products to developers and enterprises. ([Shut down announcement](https://twitter.com/josevalim/status/1334549051296112641))

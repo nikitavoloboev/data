@@ -86,3 +86,4 @@
 - [modAL](https://github.com/modAL-python/modAL) - Modular active learning framework for Python.
 - [Bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface in Python.
 - [Bolt](https://github.com/huawei-noah/bolt) - Deep learning library with high performance and heterogeneous flexibility.
+- [hypothesis](https://github.com/montefiore-ai/hypothesis) - Python toolkit for (simulation-based) inference and the mechanization of science.

@@ -26,3 +26,5 @@
 - [cuGraph](https://github.com/rapidsai/cugraph) - GPU Graph Analytics.
 - [Opaque](https://github.com/mc2-project/opaque) - Secure Apache Spark SQL.
 - [Apache Beam](https://github.com/apache/beam) - Unified programming model for Batch and Streaming. ([Web](https://beam.apache.org/))
+- [Stitch](https://www.stitchdata.com/) - Simple, extensible ETL built for data teams.
+- [Databricks](https://databricks.com/) - Unified Data Analytics. ([GitHub](https://github.com/databricks)) ([CLI](https://github.com/databricks/databricks-cli))

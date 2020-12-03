@@ -225,3 +225,4 @@
 - [High System Load with Low CPU Utilization on Linux? (2020)](https://tanelpoder.com/posts/high-system-load-low-cpu-utilization-on-linux/)
 - [LinuxBoot](https://www.linuxboot.org/) - Replace specific firmware functionality with a Linux kernel and runtime. ([GitHub](https://github.com/linuxboot))
 - [LinuxBoot Book](https://github.com/linuxboot/book)
+- [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.

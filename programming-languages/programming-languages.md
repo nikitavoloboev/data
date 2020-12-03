@@ -138,3 +138,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [remark-prism](https://github.com/sergioramos/remark-prism) - Syntax highlighter for markdown code blocks using Prism.
 - [JIT compiler and runtime for a toy language, using Cranelift](https://github.com/bytecodealliance/simplejit-demo)
 - [PhD Thesis: Greybox Automatic Exploit Generation for Heap Overflows (2020)](https://sean.heelan.io/2020/11/18/phd-thesis-greybox-automatic-exploit-generation-for-heap-overflows-in-language-interpreters/)
+- [Programming languages genealogical tree](https://github.com/stereobooster/programming-languages-genealogical-tree)

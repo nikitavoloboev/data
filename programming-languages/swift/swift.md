@@ -174,3 +174,4 @@
 - [Core Data Best Practices by Antoine van der Lee](https://github.com/AvdLee/CoreDataBestPractices)
 - [Differentiable programming for gradient-based machine learning in Swift](https://forums.swift.org/t/differentiable-programming-for-gradient-based-machine-learning/42147)
 - [CompileSwift Blog/Podcast](https://www.compileswift.com/)
+- [Shwifty](https://github.com/chessai/shwifty) - Generate Swift types from Haskell types.

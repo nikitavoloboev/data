@@ -27,3 +27,4 @@
 - [Nexus Shield](https://github.com/Sytten/nexus-shield) - Nexus plugin to ease the creation of the authorization layer.
 - [JavaScript interface for Prisma Schema DSL](https://github.com/amplication/prisma-schema-dsl)
 - [Prisma Codemods](https://github.com/prisma/codemods) - Collection of Codemods for Prisma.
+- [How to Run Prisma Studio in Production on Render.com](https://github.com/blitz-js/blitz/wiki/How-to-Run-Prisma-Studio-in-Production-on-Render.com)

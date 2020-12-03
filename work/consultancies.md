@@ -146,6 +146,7 @@
 - [Beautiful Interactions](https://beautifulinteractions.com/) - Tailored digital solutions, made beautifully.
 - [Jantcu](https://jantcu.com/) - Web design & tech consulting. ([GitHub](https://github.com/Jantcu))
 - [Mwie Ltd](http://www.mwie.com/)
+- [STRV](https://www.strv.com/) - Software Design & Engineering.
 
 ## Links
 

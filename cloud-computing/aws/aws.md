@@ -122,3 +122,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Learn AWS Blog](https://www.learnaws.org/)
 - [CloudNews](https://www.cloudnews.dev/) - Never miss important AWS news. Newsletter.
 - [AWS List All](https://github.com/JohannesEbke/aws_list_all) - List all your AWS resources, all regions, all services.
+- [AWS Perspective](https://github.com/awslabs/aws-perspective) - Tool that quickly visualizes AWS Cloud workloads as architecture diagrams. ([Web](https://aws.amazon.com/solutions/implementations/aws-perspective/))

@@ -94,3 +94,4 @@
 - [Hoppscotch CLI](https://github.com/hoppscotch/hopp-cli) - Send HTTP requests from terminal. An alternative to cURL, httpie.
 - [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python. ([Web](https://locust.io/))
 - [k6](https://github.com/loadimpact/k6) - Modern load testing tool, using Go and JavaScript. ([Web](https://k6.io/)) ([Docs](https://k6.io/docs/)) ([Docs Code](https://github.com/loadimpact/k6-docs))
+- [HTTP/2 Push is dead (2020)](https://evertpot.com/http-2-push-is-dead/) ([HN](https://news.ycombinator.com/item?id=25283971))

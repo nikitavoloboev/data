@@ -151,3 +151,8 @@
 - [The Node Experiment](https://cfsamson.github.io/book-exploring-async-basics/) - Exploring Async Basics with Rust. Aims to take a look at the why and how of concurrent programming. ([Code](https://github.com/cfsamson/book-exploring-async-basics))
 - [nbin](https://github.com/cdr/nbin) - Fast and robust node.js binary compiler.
 - [Similar NPM Packages](https://github.com/pastelsky/similar-npm-packages) - Similar packages suggestions for the NPM ecosystem.
+- [Roarr](https://github.com/gajus/roarr) - JSON logger for Node.js and browser.
+- [npm-upgrade](https://github.com/th0r/npm-upgrade) - Interactive CLI utility to easily update outdated NPM dependencies.
+- [Curveball](https://github.com/curveball/core) - Framework for building web services in Node.js. It fullfills a similar role to Express and it's heavily inspired by Koa.
+- [a12n-server](https://github.com/curveball/a12n-server) - Ready-to-go OAuth2 server for Node.js.
+- [pure-http](https://github.com/htdangkhoa/pure-http) - Simple web framework for Node.js with zero dependencies.

@@ -95,3 +95,4 @@
 - [React Native Restyled](https://github.com/z0al/react-native-restyled) - Utility-first Styling Library for React Native.
 - [SnackUI](https://github.com/natew/snackui) - Fast UI kit for React Native (+ web) with SwiftUI stacks.
 - [react-native-svg-app-icon](https://github.com/aeirola/react-native-svg-app-icon) - Generate all app icons for you React Native apps from a single SVG file.
+- [React Native Samples and Templates](https://github.com/microsoft/react-native-windows-samples) - Repository showcasing React Native samples and templates for Windows, macOS, and Surface Duo.

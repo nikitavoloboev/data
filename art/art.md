@@ -113,7 +113,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Marcin Sacha](http://marcinsacha.arte.usermd.net/en/home-2/) ([Instagram](https://www.instagram.com/sachamarcin/))
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
-- [u29dc](https://www.instagram.com/u29dc/)
+- [u29dc](https://www.instagram.com/u29dc/) ([Twitter](https://twitter.com/u29dc/))
 - [Zach Lieberman](https://zachlieberman.tictail.com/) ([Art for sale](https://zachlieberman.myshopify.com/))
 - [Matthew Lyons](https://www.instagram.com/matthewjohnlyons/)
 - [Mari K](https://www.artstation.com/madmaraca)

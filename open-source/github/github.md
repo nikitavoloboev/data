@@ -18,6 +18,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Alex Ellis](https://github.com/alexellis) - Minimal & clear calls to action.
 - [egoist](https://github.com/egoist) - Showing sponsors is nice.
 - [Phil Pluckthun](https://github.com/kitten)
+- [Brandon Bayer](https://github.com/flybayer) - Nice & clear calls to action.
 
 ## Notes
 

@@ -30,3 +30,4 @@
 - [Vitedge](https://github.com/frandiox/vitedge) - Vue + Vite + SRR + Cloudflare Workers.
 - [Cloudflare Workers Boilerplate](https://github.com/frandiox/cf-workers-boilerplate) - Deploy Cloudflare Workers easily without sacrificing developer experience.
 - [Vite SSR](https://github.com/frandiox/vite-ssr) - Use Vite for server side rendering in Node or in a Cloudflare Worker.
+- [lilredirector](https://github.com/signalnerve/lilredirector) - Redirector engine built for Cloudflare Workers.

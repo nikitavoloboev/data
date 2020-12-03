@@ -19,8 +19,11 @@
 
 ## Test
 
+- [Hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Modern property-based testing system, in the spirit of QuickCheck. ([Web](https://hedgehog.qa/))
+- [Hedgehog Classes](https://github.com/hedgehogqa/haskell-hedgehog-classes) - API for testing common typeclass laws quickly.
 - [QuickCheck](https://github.com/nick8325/quickcheck) - Library for random testing of program properties.
 - [Validity](https://github.com/NorfairKing/validity) - Validity and validity-based testing.
+- [sydtest](https://github.com/NorfairKing/sydtest) - Experimental testing framework for Haskell with great defaults advanced testing features.
 
 ## Other
 
@@ -78,6 +81,8 @@
 - [store](https://github.com/mgsloan/store) - Fast binary serialization in Haskell.
 - [Earley](https://github.com/ollef/Earley) - Parsing all context-free grammars using Earley's algorithm in Haskell.
 - [algebra](https://github.com/ekmett/algebra) - Constructive abstract algebra in Haskell.
+- [primitive](https://github.com/haskell/primitive) - Provides various primitive memory-related operations for Haskell.
+- [refined](https://github.com/nikita-volkov/refined) - Refinement types with static and runtime checking.
 
 ## Links
 

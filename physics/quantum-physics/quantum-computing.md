@@ -54,3 +54,4 @@
 - [XACC](https://github.com/eclipse/xacc) - Extensible compilation framework for hybrid quantum-classical computing architectures.
 - [Emulating Quantum Computing with Python (2020)](https://www.activestate.com/blog/emulating-quantum-computing-with-python/)
 - [Quantum Winter School: Introduction to Quantum Computing and Materials (2020)](https://sites.dartmouth.edu/quantum-spin-lab/quantum-winter-school-2020/)
+- [Unitary Fund](https://unitary.fund/) - Non-profit working to create a quantum technology ecosystem that benefits the most people.

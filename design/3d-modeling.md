@@ -24,3 +24,5 @@
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF) - Command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.
 - [CadQuery](https://github.com/CadQuery/cadquery) - Intuitive, easy-to-use Python module for building parametric 3D CAD models.
 - [sdfx](https://github.com/deadsy/sdfx) - Simple CAD package using signed distance functions.
+- [Spline](https://spline.design/) - Design tool for 3D web experiences.
+- [CAD-Deform: Deformable Fitting of CAD Models to 3D Scans](https://github.com/alexeybokhovkin/CAD-Deform)

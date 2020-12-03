@@ -10,3 +10,4 @@
 - [Suzieq](https://github.com/netenglabs/suzieq) - Framework and application for network observability. ([Docs](https://suzieq.readthedocs.io/en/latest/))
 - [Honeycomb Observability](https://www.honeycomb.io/) - Observe, Debug and Improve Production.
 - [Orijtech](https://orijtech.com/) - Observability, developer tools, cloud. ([GitHub](https://github.com/orijtech))
+- [Opstrace](https://opstrace.com/) - Secure Observability Deployed in your Network. ([Code](https://github.com/opstrace/opstrace))

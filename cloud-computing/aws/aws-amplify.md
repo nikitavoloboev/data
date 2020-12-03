@@ -20,3 +20,5 @@
 - [Full stack with Next.js, Amplify, & CDK](https://github.com/dabit3/amplify-with-cdk)
 - [Next.js Amplify Workshop](https://github.com/dabit3/next.js-amplify-workshop)
 - [Building Real-time Serverless APIs with PostgreSQL, CDK, TypeScript, and AWS AppSync (2020)](https://aws.amazon.com/blogs/mobile/building-real-time-serverless-apis-with-postgres-cdk-typescript-and-aws-appsync/) ([Tweet](https://twitter.com/dabit3/status/1328349979124113408))
+- [AWS Amplify Admin UI](https://github.com/aws-amplify/amplify-adminui) - Helps You Develop App Backends, No Cloud Experience Required. ([Issues](https://github.com/aws-amplify/amplify-adminui))
+- [Next.js with Amplify DataStore](https://github.com/dabit3/next.js-amplify-datastore) - Example app using Amplify DataStore with Next.js for static site generation, pre-rendering, and SSR.

@@ -272,3 +272,6 @@
 - [Kubernetes Examples](https://github.com/kubernetes/examples) - Contains a number of examples of how to run real applications with Kubernetes.
 - [k8s-openapi](https://github.com/Arnavion/k8s-openapi) - Rust bindings for the Kubernetes client API.
 - [Helm Chart Testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts.
+- [Amazon EKS Distro](https://github.com/aws/eks-distro) - Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
+- [Virtual Kubelet Provider for Systemd](https://github.com/miekg/vks)
+- [Isovalent](https://isovalent.com/) - eBPF-powered Cloud Native Networking & Security.

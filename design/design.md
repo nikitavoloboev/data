@@ -150,3 +150,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Merveilles Sensibility (2020)](https://wileywiggins.com/merveilles.html) - Solutioning for technological resilience.
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Free & open-source 2D sprite editor, made with the Godot Engine. ([Web](https://orama-interactive.itch.io/pixelorama))
 - [Designing User Interfaces Book](https://designingui.com/)
+- [Overlay](https://overlay-tech.com/) - Transform your design components into clean React, Vue and HTML components. Supports Figma & Sketch.

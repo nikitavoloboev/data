@@ -24,3 +24,4 @@
 - [hping3](https://github.com/antirez/hping) - Network tool able to send custom TCP/IP packets and to display target replies like ping do with ICMP replies.
 - [FreePort](https://github.com/phayes/freeport) - Get a free open TCP port that is ready to use.
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port.
+- [TCPProbe](https://github.com/mehrdadrad/tcpprobe) - TCP tool for network performance and path monitoring, including socket statistics.

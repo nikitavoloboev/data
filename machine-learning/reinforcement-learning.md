@@ -138,3 +138,4 @@
 - [Deep Reinforcement Learning: Pong from Pixels (2016)](https://karpathy.github.io/2016/05/31/rl/)
 - [dm_env_rpc](https://github.com/deepmind/dm_env_rpc) - Networking protocol for agent-environment communication.
 - [PHYRE](https://github.com/facebookresearch/phyre) - Benchmark for physical reasoning. ([Web](https://phyre.ai/))
+- [SuperSuit](https://github.com/PettingZoo-Team/SuperSuit) - Easy-to-use micro-wrappers for Gym and PettingZoo based RL Environments.

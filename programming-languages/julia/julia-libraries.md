@@ -9,6 +9,8 @@
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.
 - [SDDP.jl](https://github.com/odow/SDDP.jl) - Stochastic Dual Dynamic Programming in Julia.
 - [ONNX](https://github.com/FluxML/ONNX.jl) - Read ONNX graphs in Julia.
+- [ReversePropagation.jl](https://github.com/dpsanders/ReversePropagation.jl) - Julia package for reverse propagation along a syntax tree, using source-to-source transformation via ModelingToolkit.jl.
+- [Metalhead](https://github.com/FluxML/Metalhead.jl) - Computer vision models for Flux.
 
 ## Math
 
@@ -124,6 +126,7 @@
 - [TableIO](https://github.com/lungben/TableIO.jl) - Glue package for reading and writing tabular data.
 - [JET.jl](https://github.com/aviatesk/JET.jl) - Experimental type checker for Julia, no need for additional type annotations.
 - [LoopVectorization](https://github.com/chriselrod/LoopVectorization.jl) - Macro(s) for vectorizing loops.
+- [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) - Linear Operators for Julia.
 
 ## Links
 

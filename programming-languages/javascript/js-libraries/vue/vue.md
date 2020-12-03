@@ -13,7 +13,7 @@
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
-- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production.
+- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production. ([Tweet](https://twitter.com/HerrBertling/status/1334433014038847488)) ([Tweet 2](https://twitter.com/AdamRackis/status/1334494401440206849))
 - [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
@@ -38,3 +38,4 @@
 - [Element Plus](https://github.com/element-plus/element-plus) - Vue.js 3.0 UI Library.
 - [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue.
 - [Vue Telemetry](https://vuetelemetry.com/) - Discover websites made with Nuxt.js.
+- [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template.

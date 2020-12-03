@@ -65,6 +65,8 @@
 - [React UseGesture](https://github.com/pmndrs/react-use-gesture) - Hook that lets you bind richer mouse and touch events to any component or view.
 - [react-hook](https://github.com/jaredLunde/react-hook) - Strongly typed React hooks for function components.
 - [Hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the HTML head.
+- [useQueryString](https://github.com/trevorblades/use-query-string) - React hook that serializes state into the URL query string.
+- [history-reducer](https://github.com/marcolink/history-reducer) - Simple react hook to create state history based on react useReducer.
 
 ## Notes
 

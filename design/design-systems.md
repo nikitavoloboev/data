@@ -50,6 +50,7 @@
 - [Geist](https://github.com/geist-org/react) - Modern and minimalist React UI library, originating from Vercel's design. ([Docs](https://react.geist-ui.dev/en-us/guide/introduction))
 - [Arcade Design](https://arcade.design/) - React components you need in all your projects to focus on solving the problems and launch faster.
 - [ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
+- [Forma 36](https://f36.contentful.com/) - Contentful Design System. ([Code](https://github.com/contentful/forma-36))
 
 ## Links
 

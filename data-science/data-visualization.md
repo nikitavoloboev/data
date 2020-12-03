@@ -6,6 +6,7 @@
 - [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. Provides a concise JSON syntax for rapidly generating visualizations to support analysis. ([Code](https://github.com/vega/vega-lite)) ([HN](https://news.ycombinator.com/item?id=24937954))
 - [Vega-Lite API](https://github.com/vega/vega-lite-api) - JavaScript API for Vega-Lite.
 - [Vega Editor](https://vega.github.io/editor/#/)
+- [XVega](https://github.com/QuantStack/xvega) - C++ API to Vega-Lite.
 - [Fundamentals of Data Visualization book (2019)](https://serialmentor.com/dataviz/)
 - [Most cited scientific papers within data visualization (2019)](https://www.reddit.com/r/dataisbeautiful/comments/am2xk4/most_cited_scientific_papers_within_data/)
 - [Visualization of related subreddits](https://github.com/anvaka/sayit)

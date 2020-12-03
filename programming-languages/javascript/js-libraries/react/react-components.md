@@ -133,6 +133,7 @@
 - [beautiful-react-diagrams](https://github.com/antonioru/beautiful-react-diagrams) - Tiny collection of lightweight React components for building diagrams with ease.
 - [Rough Charts](https://github.com/beizhedenglong/rough-charts) - Responsive, composable react charting library with a hand-drawn style.
 - [React iOS Corners](https://github.com/pie6k/react-ios-corners) - iOS like border-radius corners react component.
+- [React Insta Stories](https://github.com/mohitk05/react-insta-stories) - React component for Instagram like stories.
 
 ## Links
 

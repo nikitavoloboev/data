@@ -103,6 +103,7 @@ And these Discord servers:
 - [The Gradient](https://thegradient.pub/)
 - [The Atlantic](https://www.theatlantic.com/world/)
 - [The MIT Press](https://mitpress.mit.edu/)
+- [Nature Research Analysis](https://www.nature.com/research-analysis)
 
 ### Other
 

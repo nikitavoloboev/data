@@ -198,3 +198,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Smithy](https://github.com/honza/smithy) - Tiny git forge written in Go.
 - [Git Commands You Should Never Use (2020)](https://mquettan.medium.com/3-git-commands-you-should-never-use-99f6ec910989) ([HN](https://news.ycombinator.com/item?id=25217812))
 - [Gitsight](https://www.gitsight.com/) - Derive insights from open source repositories and their contributors.
+- [Gitopia](https://gitopia.org/#/) - Decentralized Source Code Collaboration Platform.

@@ -92,6 +92,7 @@
 - [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 - [dhcp](https://github.com/insomniacslk/dhcp) - DHCPv4 and DHCPv6 decoding/encoding library with client and server code, written in Go.
 - [go-zero](https://github.com/tal-tech/go-zero) - Web and rpc framework that with lots of engineering practices builtin.
+- [libchan](https://github.com/docker/libchan) - Like Go channels over the network.
 
 ## GraphQL
 
@@ -607,6 +608,8 @@
 - [go-lock](https://github.com/viney-shih/go-lock) - Lock library implementing read-write mutex and read-write trylock without starvation.
 - [go.uuid](https://github.com/satori/go.uuid) - UUID package for Go.
 - [graph](https://github.com/yourbasic/graph) - Graph algorithms and data structures.
+- [phonenumbers](https://github.com/nyaruka/phonenumbers) - Parsing, formatting, and validating international phone numbers.
+- [gonfig](https://github.com/stevenroose/gonfig) - Go package for program configuration.
 
 ## Links
 

@@ -38,3 +38,4 @@
 - [LiteX-Hub](https://github.com/litex-hub) - Collaborative FPGA projects around LiteX.
 - [FPGA 101 lessons/labs](https://github.com/litex-hub/fpga_101)
 - [FPGA Hackathon & Conference](https://fpgahackathon.com/)
+- [FPGA Tomu workshop](https://workshop.fomu.im/en/latest/) ([Code](https://github.com/im-tomu/fomu-workshop))

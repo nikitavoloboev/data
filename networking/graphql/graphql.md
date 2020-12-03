@@ -168,3 +168,5 @@
 - [GraphQL Onboarding](https://github.com/MoonHighway/graphql-onboarding) - Course materials for an onboarding to GraphQL program.
 - [sgqlc](https://github.com/profusion/sgqlc) - Simple GraphQL Client written in Python.
 - [Caching Relational GraphQL Data (2020)](https://kitten.sh/graphql-normalized-caching)
+- [GraphQL Resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
+- [GraphQL Galaxy](https://graphqlgalaxy.com/) - Biggest GraphQL conference in the cloud.

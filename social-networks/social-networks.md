@@ -63,7 +63,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How TikTok's design makes the algorithm work (2020)](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) ([HN](https://news.ycombinator.com/item?id=24550113))
 - [Is this real life? (2020)](https://julian.digital/2020/09/25/is-this-real-life/)
 - [Social Cooling](https://www.socialcooling.com/) - Big Data's unintended side effect. ([HN](https://news.ycombinator.com/item?id=24627363))
-- [Gurlic](https://gurlic.com/) - Free and Open Communities. ([HN](https://news.ycombinator.com/item?id=24680418))
+- [Gurlic](https://gurlic.com/) - Free and Open Communities. ([HN](https://news.ycombinator.com/item?id=24680418)) ([Web tech used](https://news.ycombinator.com/item?id=25288755))
 - [Twt](https://jointwt.org/) - New way to social media.
 - [Going Viral as a Woman in Tech (2020)](https://www.emilykager.com/writing/2020/10/08/virality.html) ([HN](https://news.ycombinator.com/item?id=24743439))
 - [Why Social Media Is So Good at Polarizing Us (2020)](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) ([Tweet](https://twitter.com/mims/status/1318177521318461447))

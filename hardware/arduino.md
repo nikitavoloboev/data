@@ -14,3 +14,5 @@
 - [Arduino MIDI Library](https://github.com/FortySevenEffects/arduino_midi_library) - Adds MIDI I/O communications to an Arduino board.
 - [ArduinoBLE](https://github.com/arduino-libraries/ArduinoBLE) - ArduinoBLE library for Arduino.
 - [Arduino video tutorials](https://arduino-tutorials.net/) ([Code](https://github.com/BasOnTech/Arduino-Beginners-EN))
+- [8x8x8 LED cube powered by an arduino](https://github.com/itsharryle/LED_CUBE)
+- [Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide) - Arduino IDE for advanced users and developers.

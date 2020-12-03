@@ -49,3 +49,4 @@
 - [Reducing Cognitive Overload for a Better User Experience (2016)](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 - [Free UX crash course](https://www.kickassux.com/free-crash-course)
 - [Kickass UX](https://www.kickassux.com/) - Learn UX/UI design.
+- [User Experience Database](https://www.uxdatabase.io/) - Biggest free curated product design resources & tools.

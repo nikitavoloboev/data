@@ -52,6 +52,7 @@
 - [jMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) - Complete 3D game development suite written purely in Java. ([Web](https://jmonkeyengine.org/))
 - [Dotrix](https://github.com/lowenware/dotrix) - 3D Game Engine written in Rust.
 - [Physics3D](https://github.com/ThePhysicsGuys/Physics3D) - 3D physics engine, written in C++.
+- [macroquad](https://github.com/not-fl3/macroquad) - Simple and easy to use game library for Rust programming language, heavily inspired by raylib.
 
 ## Physics engines
 

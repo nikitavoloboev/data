@@ -44,3 +44,4 @@
 - [C Thread Pool](https://github.com/Pithikos/C-Thread-Pool) - Minimal but advanced threadpool implementation.
 - [libhv](https://github.com/ithewei/libhv) - Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.
 - [C macros for hash tables and more](https://github.com/troydhanson/uthash)
+- [LambdaPP](https://github.com/graphitemaster/lambdapp) - Anonymous functions in C.

@@ -51,3 +51,5 @@
 - [CoDEx](https://github.com/tsafavi/codex) - Set of knowledge graph Completion Datasets Extracted from Wikidata and Wikipedia.
 - [PyKEEN (Python KnowlEdge EmbeddiNgs)](https://github.com/pykeen/pykeen) - Python package designed to train and evaluate knowledge graph embedding models (incorporating multi-modal information).
 - [mediKanren](https://github.com/webyrd/mediKanren) - Proof-of-concept for reasoning over the SemMedDB knowledge base, using miniKanren + heuristics + indexing.
+- [Atomic Search](https://atomicsearchinc.com/) - Using NLP to create self-evolving, searchable knowledge graphs. ([Twitter](https://twitter.com/atomicsearchinc))
+- [Awesome Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)

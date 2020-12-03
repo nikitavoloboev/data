@@ -64,3 +64,4 @@
 - [A Taste of OCaml's Predictable Performance (2020)](https://devpoga.org/post/2020-11-21-a-taste-of-ocaml-predictable-performance/)
 - [ocamlearlybird](https://github.com/hackwaly/ocamlearlybird) - Debug adapter purely written in OCaml.
 - [OCaml-LSP](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation.
+- [drom](https://github.com/OCamlPro/drom) - Wrapper over opam/dune in an attempt to provide a cargo-like user experience.

@@ -26,3 +26,4 @@
 - [Circadian Lighting Home Assistant Component](https://github.com/claytonjn/hass-circadian_lighting) - Stay healthier and sleep better by syncing your lights with natural daylight to maintain your circadian rhythm.
 - [room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level. ([Web](https://www.room-assistant.io/))
 - [IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant (2020)](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/) ([HN](https://news.ycombinator.com/item?id=25184763))
+- [Home Assistant on Steroids Config](https://github.com/UbhiTS/ha-config-ataraxis)

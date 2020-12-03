@@ -40,3 +40,4 @@
 - [CellNet](https://github.com/pcahan1/CellNet) - Network biology applied to stem cell engineering.
 - [Molecular lithography: Making 3D nanosuperconductors with DNA (2020)](https://phys.org/news/2020-11-d-nanosuperconductors-dna.html)
 - [cube3d.dna](https://github.com/pallada-92/dna-3d-engine) - 3D engine implementation in DNA code. ([Tweet](https://twitter.com/pallada92/status/1332855023479484417))
+- [clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.

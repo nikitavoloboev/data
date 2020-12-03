@@ -198,3 +198,6 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Exploiting dynamic rendering engines to take control of web apps (2020)](https://r2c.dev/blog/2020/exploiting-dynamic-rendering-engines-to-take-control-of-web-apps/)
 - [Starlink team AMA (2020)](https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/) ([HN](https://news.ycombinator.com/item?id=25170780))
 - [Low Tech Webring Directory](https://emreed.net/LowTech_Directory.html)
+- [WMR](https://github.com/preactjs/wmr) - Tiny all-in-one development tool for modern web apps, in a single 2mb file with no dependencies.
+- [this vs that](https://thisthat.dev/) - What is the difference between this & that. ([Code](https://github.com/phuoc-ng/this-vs-that))
+- [Safe Network](https://safenetwork.tech/) - Replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. ([GitHub](https://github.com/maidsafe/))

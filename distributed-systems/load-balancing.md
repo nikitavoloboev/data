@@ -23,3 +23,4 @@
 - [Weaver](https://github.com/gojek/weaver) - Layer-7 Load Balancer with Dynamic Sharding Strategies. It is a modern HTTP reverse proxy with advanced features.
 - [Making applications scalable with Load Balancing (2006)](https://wtarreau.blogspot.com/2006/11/making-applications-scalable-with-load.html)
 - [MetalLB](https://github.com/metallb/metallb) - Load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols. ([Docs](https://www.metallb.org/))
+- [One Year of Load Balancing (2020)](https://www.algolia.com/blog/one-year-load-balancing/) ([HN](https://news.ycombinator.com/item?id=25289751))

@@ -11,3 +11,4 @@
 - [Verta](https://www.verta.ai/) - MLOps software supports model development, deployment, operations, monitoring.
 - [Guild AI](https://guild.ai/) - Experiment tracking, ML developer tools. ([Code](https://github.com/guildai/guildai))
 - [Neuralet](https://neuralet.com/) - Open-source platform for edge deep learning models on GPU, TPU, and more. ([Code](https://github.com/neuralet/neuralet))
+- [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.

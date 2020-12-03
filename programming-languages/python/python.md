@@ -219,3 +219,4 @@
 - [IPython for Web Devs](https://ipythonbook.com/)
 - [Cyberbrain](https://github.com/laike9m/Cyberbrain) - Python debugging, redefined.
 - [mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments.
+- [The History of Python: From List Comprehensions to Generator Expressions (2010)](http://python-history.blogspot.com/2010/06/from-list-comprehensions-to-generator.html)

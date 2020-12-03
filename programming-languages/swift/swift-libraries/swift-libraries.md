@@ -118,6 +118,8 @@
 - [Interpolate](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations.
 - [Swift Validators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS.
 - [Kanvas](https://github.com/tumblr/kanvas-ios) - iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
+- [ComponentKit](https://github.com/facebook/componentkit) - View framework for iOS that is heavily inspired by React. ([Web](https://componentkit.org/))
+- [ColorKit](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 
 ## macOS
 

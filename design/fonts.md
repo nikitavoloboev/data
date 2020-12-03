@@ -56,6 +56,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [IBM Plex typeface](https://github.com/IBM/plex)
 - [Monoid](https://larsenwork.com/monoid/) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. ([Code](https://github.com/larsenwork/monoid))
 - [League Mono](https://github.com/theleagueof/league-mono) - Monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier. ([Web](https://www.theleagueofmoveabletype.com/league-mono))
+- [LiebeHeide](https://liebefonts.com/fonts/liebeheide) - Amazingly real looking handwritten messages with LiebeHeide color font.
 
 ## Links
 
@@ -99,8 +100,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__) - Website for playing with OpenType Variable Fonts
 - [TinySDF](https://mapbox.github.io/tiny-sdf/) - Browser-side SDF font generator. ([Code](https://github.com/mapbox/tiny-sdf))
 - [From boiling lead and black art: An essay on the history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
-- [The Future of Text Book: 2020 Vision Book](http://futureoftext.org/2020-vision-book.html)
-- [Future Of Text](http://futureoftext.org/)
+- [The Future of Text: 2020 Vision Book](https://www.thefutureoftext.org/2020-vision-book.html) ([PDF](https://futuretextpublishing.com/future-of-text-2020-download/))
+- [Future Of Text Initiative](http://futureoftext.org/)
 - [How to pick different font sizes that look good together](https://twitter.com/siddharthkp/status/1262038126794551296?s=20)
 - [Font Picker](https://github.com/samuelmeuli/font-picker) - Font selector component for Google Fonts.
 - [Advice on improving typesetting on websites](https://twitter.com/rsms/status/1262450475669975040)
@@ -174,3 +175,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [fontTools](https://github.com/fonttools/fonttools) - Library for manipulating fonts, written in Python.
 - [font-line](https://githkub.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool.
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Add ligatures to any coding font.
+- [LiebeFonts](https://liebefonts.com/) - Hand-Made Fonts With Lots of Love.

@@ -239,6 +239,8 @@
 - [Microdict](https://github.com/touqir14/Microdict) - High performance python hash table library that is generally faster and consumes significantly less memory than Python Dictionaries.
 - [Zarr](https://github.com/zarr-developers/zarr-python) - Implementation of chunked, compressed, N-dimensional arrays for Python.
 - [particles](https://github.com/nchopin/particles) - Sequential Monte Carlo in python.
+- [entmax](https://github.com/deep-spin/entmax) - PyTorch implementation of entmax and entmax losses: a sparse family of probability mappings and corresponding loss functions, generalizing softmax / cross-entropy.
+- [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python. ([Docs](https://rxpy.readthedocs.io/en/latest/))
 
 ## Links
 

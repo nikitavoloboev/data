@@ -11,6 +11,7 @@
 - [pico-args](https://github.com/RazrFalcon/pico-args) - Ultra simple CLI arguments parser.
 - [termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
 - [Comfy-table](https://github.com/Nukesor/comfy-table) - Library for building beautiful terminal tables with automatic content wrapping.
+- [owo-colors](https://github.com/jam1garner/owo-colors) - Zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal.
 
 ## Web
 
@@ -81,6 +82,7 @@
 
 ## Graphics
 
+- [Miniquad](https://github.com/not-fl3/miniquad) - Safe and cross-platform rendering library focused on portability and low-end platforms support.
 - [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API. ([Gfx-Rs: The Big Picture](https://gfx-rs.github.io/2020/11/16/big-picture.html))
 - [rspirv](https://github.com/gfx-rs/rspirv) - Rust implementation of SPIR-V module processing functionalities.
 - [cgmath-rs](https://github.com/rustgd/cgmath) - Linear algebra and mathematics library for computer graphics.
@@ -119,6 +121,7 @@
 
 ## Error
 
+- [eyre](https://github.com/yaahc/eyre) - Trait object based error handling type for easy idiomatic error handling and reporting in Rust applications.
 - [derive(Error)](https://github.com/dtolnay/thiserror) - Provides a convenient derive macro for the standard library's std::error::Error trait.
 - [Fehler](https://github.com/withoutboats/fehler) - Library to add support for "throwing functions" to Rust through procedural macros.
 - [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
@@ -550,6 +553,7 @@
 - [grmtools](https://github.com/softdevteam/grmtools) - Suite of Rust libraries and binaries for parsing text, both at compile-time, and run-time.
 - [HashRing](https://github.com/jeromefroe/hashring-rs) - Minimal implementation of consistent hashing.
 - [inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope.
+- [nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies.
 
 ## Cargo Plugins
 

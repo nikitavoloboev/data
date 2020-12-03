@@ -7,7 +7,7 @@
 
 ## Links
 
-- [Luacheck](https://github.com/mpeterv/luacheck) - Tool for linting and static analysis of Lua code.
+- [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
 - [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language. ([HN](https://news.ycombinator.com/item?id=24390904))
 - [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.
 - [How to Lua and C - a short novel (2018)](https://sepisoad.com/blog/how%20to%20lua%20and%20c%20-%20a%20short%20novel.html)

@@ -85,3 +85,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [XLR8R](https://xlr8r.com/) - Accelerating Music and Culture.
 - [Resident Advisor](https://www.residentadvisor.net/) - Electronic music online.
 - [Stereogum](https://www.stereogum.com/) - Music blog.
+- [Bliss music analyzer](https://github.com/Polochon-street/bliss) - Open-source library that evaluates distance between songs. ([Web](https://lelele.io/bliss.html))
+- [Resonate](https://resonate.is/) - Community-owned music network.
+- [Socialfy](https://www.socialfy.app/) - Your Spotify listening, more socially. Share what you're currently listening too, your top artists, and more. ([Code](https://github.com/rdrnt/socialfy-frontend))

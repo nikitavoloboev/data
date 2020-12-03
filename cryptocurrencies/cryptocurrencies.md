@@ -39,3 +39,5 @@
 - [Mixing based privacy mechanisms are insufficient (2019)](https://mudit.blog/mixers-are-insufficient/)
 - [SignificantTrades](https://aggr.trade/) - Live cryptocurrency trades visualizer. ([Code](https://github.com/Tucsky/SignificantTrades))
 - [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Prices, Charts And Market Capitalizations.
+- [Crypto Ecosystems](https://github.com/electric-capital/crypto-ecosystems) - Taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems.
+- [Crytic-compile](https://github.com/crytic/crytic-compile) - Abstraction layer for smart contract build systems.

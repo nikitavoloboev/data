@@ -139,3 +139,4 @@
 - [Data Science Learning Resources](https://github.com/bradleyboehmke/data-science-learning-resources)
 - [Dataquest](https://www.dataquest.io/) - Learn R, Python and SQL for Data Science.
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Carpentries](https://carpentries.org/) - Teach foundational coding and data science skills to researchers worldwide.
