@@ -264,3 +264,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [GraphifySwiftCMD](https://github.com/kristiinara/GraphifySwift) - Command line tool that makes it possible to analyze a lot of iOS applications at once.
 - [Building a smooth Stories experience on iOS (2020)](https://engineering.linkedin.com/blog/2020/building-stories-on-ios)
 - [Project Zero: An iOS zero-click radio proximity exploit odyssey (2020)](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html) ([HN](https://news.ycombinator.com/item?id=25270184))
+- [App Launch Time: 7 tips to increase performance](https://www.avanderlee.com/optimization/launch-time-performance-optimization/)

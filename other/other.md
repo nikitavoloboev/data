@@ -398,3 +398,8 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Inferno](https://github.com/jonhoo/inferno) - Rust port of FlameGraph.
 - [Mirage](https://github.com/RCayre/mirage) - Powerful and modular framework dedicated to the security analysis of wireless communications.
 - [Bytepack](https://github.com/dashbitco/bytepack_archive) - Helps you package and deliver software products to developers and enterprises. ([Shut down announcement](https://twitter.com/josevalim/status/1334549051296112641))
+- [drgn](https://github.com/osandov/drgn) - Scriptable debugger library.
+- [wtf_wikipedia](https://github.com/spencermountain/wtf_wikipedia) - Parse data from wikipedia.
+- [Wikipedia is in some trouble (2019)](http://blog.spencermounta.in/2019/wikipedias-in-trouble/index.html)
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
+- [STORROR](https://www.storror.com/) - Pro parkour team. ([Twitter](https://twitter.com/StorrorParkour))

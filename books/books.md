@@ -205,6 +205,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Book Recommendations - Limitless Curiosity](https://limitlesscuriosity.com/book-recommendations/)
 - [Lex Fridman Library](https://lexfridmanlibrary.com/) - Library of book recommendations of all guests of the Lex Fridman Podcast.
 - [NPR's Best Books](https://apps.npr.org/best-books/) ([2020](https://apps.npr.org/best-books/#view=covers&year=2020))
+- [Founder Library Bookshelf](https://www.founderlibrary.com/bookshelf)
 
 ## Notes
 
@@ -304,3 +305,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Bit Better Book Club](https://books.bitbetter.club/)
 - [No Starch Press](https://nostarch.com/) - Publishing company, specializing in technical literature often geared towards the geek, hacker, and DIY subcultures.
 - [Fable](https://fable.co/) - Social reading club app.
+- [How I read books: a guide on how to learn (2020)](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb) ([HN](https://news.ycombinator.com/item?id=25286870))

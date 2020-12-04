@@ -55,6 +55,9 @@
 - [Repr](https://github.com/mirage/repr) - Run-time representations of OCaml types.
 - [OCaml-MPST](https://github.com/keigoi/ocaml-mpst) - Communication library powered by Multiparty Session Types (abbreviated as MPST) in OCaml.
 - [eqaf](https://github.com/mirage/eqaf) - Constant time equal function.
+- [Pp](https://github.com/ocaml-dune/pp) - Pretty printing library.
+- [capnp-ocaml](https://github.com/capnproto/capnp-ocaml) - OCaml code generator plugin for the Cap'n Proto serialization framework.
+- [TyXML](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents.
 
 ## Links
 

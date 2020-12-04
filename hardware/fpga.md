@@ -39,3 +39,8 @@
 - [FPGA 101 lessons/labs](https://github.com/litex-hub/fpga_101)
 - [FPGA Hackathon & Conference](https://fpgahackathon.com/)
 - [FPGA Tomu workshop](https://workshop.fomu.im/en/latest/) ([Code](https://github.com/im-tomu/fomu-workshop))
+- [FPGA as a service](https://github.com/Xilinx/FPGA_as_a_Service)
+- [Xilinx Run Time for FPGA](https://github.com/Xilinx/XRT)
+- [Finn](https://github.com/Xilinx/finn) - Fast, Scalable Quantized Neural Network Inference on FPGAs.
+- [Project F - FPGA Development Blog](https://projectf.io/) ([SystemVerilog designs](https://github.com/projf/projf-explore))
+- [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA.

@@ -67,6 +67,7 @@
 - [Hoofd](https://github.com/JoviDeCroock/hoofd) - Hooks to populate the HTML head.
 - [useQueryString](https://github.com/trevorblades/use-query-string) - React hook that serializes state into the URL query string.
 - [history-reducer](https://github.com/marcolink/history-reducer) - Simple react hook to create state history based on react useReducer.
+- [Object Hooks](https://github.com/shiftyp/objects) - React Hooks for Mutable State.
 
 ## Notes
 

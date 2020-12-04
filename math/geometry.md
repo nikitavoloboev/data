@@ -19,3 +19,4 @@
 - [A hidden gem in sound symmetry](https://soundshader.github.io/hn/acf/index.html) ([HN](https://news.ycombinator.com/item?id=25037784))
 - [Algorithmic Geometry](https://www.personal.kent.edu/~rmuhamma/Compgeometry/compgeom.html)
 - [Mathematical Art by Henry Segerman](https://www.shapeways.com/shops/henryseg)
+- [Synthetic Differential Geometry](https://ncatlab.org/nlab/show/synthetic+differential+geometry)

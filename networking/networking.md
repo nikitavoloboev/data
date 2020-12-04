@@ -168,3 +168,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Transport Protocols: TCP and UDP](https://www.youtube.com/watch?v=37AFBZv4_6Y)
 - [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - Multiplatform C++ library for capturing, parsing and crafting of network packets.
 - [LibreSpeed](https://librespeed.org/) - Free and Open Source Speedtest. ([LibreSpeed CLI](https://github.com/librespeed/speedtest-cli))
+- [CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution.

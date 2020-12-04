@@ -108,7 +108,7 @@
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads.
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
-- [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
+- [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL. ([Code](https://github.com/pgbouncer/pgbouncer))
 - [Indexing JSONB columns in PostgreSQL (2020)](https://vsevolod.net/postgresql-jsonb-index/) ([Lobsters](https://lobste.rs/s/if87cc/how_not_use_jsonb_fields_their_indexes))
 - [Splitgraph](https://www.splitgraph.com/) - Build and share data with Postgres, inspired by Docker/Git. ([HN](https://news.ycombinator.com/item?id=23627066))
 - [Running Postgres in Kubernetes](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf) ([HN](https://news.ycombinator.com/item?id=23682450))
@@ -178,3 +178,6 @@
 - [RUM access method](https://github.com/postgrespro/rum) - Provides access method to work with RUM index. It is based on the GIN access methods code. Can be used for full text search.
 - [Hypershield](https://github.com/ankane/hypershield) - Shield sensitive data in Postgres and MySQL.
 - [PostgreSQL to PostgreSQL in minutes](https://www.stitchdata.com/integrations/postgresql/postgresql/) - Stitch PostgreSQL integration enables you to ETL data from one PostgreSQL database to another PostgreSQL you'd like to use as a data warehouse.
+- [Serverless-postgres](https://github.com/MatteoGioioso/serverless-pg) - Package for managing PostgreSQL connections at serverless scale.
+- [pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys. ([HN](https://news.ycombinator.com/item?id=25288188))
+- [pg-mem](https://github.com/oguimbal/pg-mem) - Experimental in-memory emulation of a postgres database. Useful for unit tests.

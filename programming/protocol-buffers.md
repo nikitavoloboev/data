@@ -27,3 +27,4 @@
 - [protoc-gen-gotemplate](https://github.com/moul/protoc-gen-gotemplate) - Generic protocol generator based on golang's text/template.
 - [ts-proto](https://github.com/stephenh/ts-proto) - Idiomatic protobuf generator for TypeScript.
 - [BinExport](https://github.com/google/binexport) - Export disassemblies into Protocol Buffers.
+- [Protobuf to JSON-Schema compiler](https://github.com/chrusty/protoc-gen-jsonschema)

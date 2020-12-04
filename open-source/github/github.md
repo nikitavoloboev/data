@@ -163,3 +163,5 @@ I publish most of my work and make it open source for other people to use and re
 - [sponsorsme](https://github.com/maticzav/sponsorsme) - Lightweight utility to check whether a user sponsors you.
 - [Github Repository Timeline](https://reposlib.vercel.app/) ([Code](https://github.com/okandavut/reposlib))
 - [Highfive](https://github.com/servo/highfive) - GitHub hooks to provide an encouraging atmosphere for new contributors.
+- [recent](https://github.com/yoshuawuyts/recent) - Get the recent issues and pull-requests on github.
+- [github auth.js](https://github.com/octokit/auth.js) - GitHub API authentication library for JavaScript and Node.js.

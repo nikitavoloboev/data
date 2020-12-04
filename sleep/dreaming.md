@@ -25,3 +25,4 @@ In order to have lucid dreams you need two do three things consistently:
 - I usually just write a bunch of bullet points of distinct things I remember from the dream instead of telling the whole story.
 - [Dream Journal for Lucid Dreaming](https://oneironotes.com/)
 - [Deconstructing Dreams](https://hyperlink.academy/courses/covid-19-and-dreams/20)
+- [Scientists Engineer Dreams to Understand the Sleeping Brain (2020)](https://www.the-scientist.com/features/scientists-engineer-dreams-to-understand-the-sleeping-brain-68170)

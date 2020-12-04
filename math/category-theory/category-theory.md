@@ -95,6 +95,13 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory introduction lectures](https://www.youtube.com/playlist?list=PLRadJIh6Wu9m60eT0tXjngv7nebUgraaA)
 - [The significance of the Curry-Howard isomorphism (2019)](https://richardzach.org/2019/11/01/the-significance-of-the-curry-howard-isomorphism/)
 - [Basic Category Theory for Computer Scientists](https://mitpress.mit.edu/books/basic-category-theory-computer-scientists)
+- [Categorical Systems Theory Book (2020)](https://github.com/DavidJaz/DynamicalSystemsBook/blob/master/book/DynamicalBook.pdf)
+- [Emily Riehl Research](http://www.math.jhu.edu/~eriehl/) - Associate professor in the department of mathematics at Johns Hopkins University working on a variety of topics in category theory related to homotopy theory.
+- [David Jaz Myers](http://davidjaz.com/) - Interested in (higher) category theory, homotopy type theory, and cohesion.
+- [P-Func: Math for the Mothership (2020)](https://github.com/dspivak/poly/blob/main/Book-Poly.pdf)
+- [David Jaz Myers: Paradigms of composition (2020)](https://www.youtube.com/watch?v=50s62D5Ah-M)
+- [ACT 2020 Recordings](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYot9VNdLlZqGajHyZUywdI)
+- [David Jaz Myers: Open dynamical systems, trajectories and hierarchical planning (2020)](https://www.youtube.com/watch?v=3FxeY5DbPn0)
 
 ## Images
 

@@ -39,3 +39,4 @@
 - [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue.
 - [Vue Telemetry](https://vuetelemetry.com/) - Discover websites made with Nuxt.js.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template.
+- [Vuejs Amsterdam](https://vuejs.amsterdam/) - Online Conference.

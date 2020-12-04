@@ -20,7 +20,7 @@
 - [Deno 1.0 (2020)](https://deno.land/v1) ([HN](https://news.ycombinator.com/item?id=23172483)) ([Lobsters](https://lobste.rs/s/ukfvp3/deno_1_0))
 - [Deno Weekly](https://denoweekly.com/) - Weekly roundup of news, tutorials and projects from the land of Deno.
 - [DenoX](https://github.com/BentoumiTech/denox) - Script runner and workspace configuration for Deno.
-- [PostgreSQL driver for Deno](https://github.com/buildondata/deno-postgres)
+- [deno-postgres](https://github.com/denodrivers/postgres) - PostgreSQL driver for Deno.
 - [Deno Third Party Modules](https://deno.land/x) ([Code](https://github.com/denoland/deno_registry2))
 - [AutoPilot](https://github.com/divy-work/autopilot-deno) - Cross-platform desktop automation library for Deno.
 - [Alosaur](https://github.com/alosaur/alosaur) - Deno web framework with many decorators.
@@ -54,3 +54,4 @@
 - [Deno Cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for Deno.
 - [Kopo Cli](https://github.com/littletof/kopo-cli) - Deno registry browser in the terminal.
 - [Stampede](https://github.com/bashovski/stampede) - Deno REST framework/eco-system. ([HN](https://news.ycombinator.com/item?id=25094724))
+- [deno-redis](https://github.com/denodrivers/redis) - Redis client for Deno.

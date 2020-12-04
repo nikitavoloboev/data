@@ -64,3 +64,4 @@
 - [hal](https://github.com/stevenroose/hal) - Bitcoin companion. Command line tool that provides all kinds of Bitcoin-related utilities.
 - [btcd](https://github.com/btcsuite/btcd) - Alternative full node bitcoin implementation written in Go.
 - [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
+- [Michael Flaxman Research](https://www.michaelflaxman.com/)

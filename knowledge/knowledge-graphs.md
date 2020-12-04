@@ -53,3 +53,4 @@
 - [mediKanren](https://github.com/webyrd/mediKanren) - Proof-of-concept for reasoning over the SemMedDB knowledge base, using miniKanren + heuristics + indexing.
 - [Atomic Search](https://atomicsearchinc.com/) - Using NLP to create self-evolving, searchable knowledge graphs. ([Twitter](https://twitter.com/atomicsearchinc))
 - [Awesome Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)
+- [Awesome Knowledge Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning)

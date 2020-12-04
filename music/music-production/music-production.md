@@ -44,6 +44,7 @@
 - [Daisy Synthesizers Shop](https://www.electro-smith.com/daisy)
 - [Ofelia](https://github.com/cuinjune/Ofelia) - Cross-platform real-time visual programming environment for creating audiovisual artwork or multimedia applications.
 - [dasp](https://github.com/RustAudio/dasp) - Digital Audio Signal Processing in Rust.
+- [Orac](https://github.com/TheTechnobear/Orac) - Virtual modular synth.
 
 ## Inspiration
 

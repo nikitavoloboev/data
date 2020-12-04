@@ -17,7 +17,7 @@
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) ([HN](https://news.ycombinator.com/item?id=22286340)) ([HN 2](https://news.ycombinator.com/item?id=23588896))
 - [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
-- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546))
+- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546)) ([Video Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/))
 - [Ask HN: What are the most fundamental books on computer science? (2019)](https://news.ycombinator.com/item?id=21311302)
 - [Code by Charles Petzold (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [CS/ML notes](https://tlienart.github.io/pub/csml.html)

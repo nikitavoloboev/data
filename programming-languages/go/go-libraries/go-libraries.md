@@ -27,6 +27,8 @@
 - [Echelon](https://github.com/cirruslabs/echelon) - Hierarchical progress in terminals.
 - [go-glint](https://github.com/mitchellh/go-glint) - Component-based UI framework specifically targeted towards command-line interfaces.
 - [PTerm](https://github.com/pterm/pterm) - Modern go module to beautify console output.
+- [Box CLI Maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
+- [Env](https://github.com/xyproto/env) - Provide default values when fetching environment variables.
 
 ## Test
 
@@ -93,6 +95,7 @@
 - [dhcp](https://github.com/insomniacslk/dhcp) - DHCPv4 and DHCPv6 decoding/encoding library with client and server code, written in Go.
 - [go-zero](https://github.com/tal-tech/go-zero) - Web and rpc framework that with lots of engineering practices builtin.
 - [libchan](https://github.com/docker/libchan) - Like Go channels over the network.
+- [Uhaha](https://github.com/tidwall/uhaha) - High Availabilty Framework for Happy Data.
 
 ## GraphQL
 
@@ -105,6 +108,7 @@
 
 ## DB
 
+- [reform](https://github.com/go-reform/reform) - Better ORM for Go and database/sql.
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [Gorm](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance.
@@ -610,6 +614,8 @@
 - [graph](https://github.com/yourbasic/graph) - Graph algorithms and data structures.
 - [phonenumbers](https://github.com/nyaruka/phonenumbers) - Parsing, formatting, and validating international phone numbers.
 - [gonfig](https://github.com/stevenroose/gonfig) - Go package for program configuration.
+- [ghw](https://github.com/jaypipes/ghw) - Go hardware discovery/inspection library.
+- [jwt](https://github.com/cristalhq/jwt) - JSON Web Token for Go.
 
 ## Links
 

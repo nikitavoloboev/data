@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Utility
 
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
+- [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
 - [Vista.vim](https://github.com/liuchengxu/vista.vim) - View and search LSP symbols, tags in Vim/NeoVim.
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - Modern generic interactive finder and dispatcher.
 - [vim-picker](https://github.com/srstevenson/vim-picker) - Vim plugin for fuzzy selection of files, buffers, tags, and more.
@@ -43,7 +44,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
 - [express.vim](https://github.com/tommcdo/vim-express) - Easily create custom Vim operators using expressions and substitutions.
 - [completion-nvim](https://github.com/haorenW1025/completion-nvim) - Async completion framework aims to provide completion to neovim's built in LSP written in Lua.
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - Play with nvim/vim's builtin terminal.
+- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - Use nvim/vim's builtin terminal in the floating/popup window.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - Plugin designed to make you better at vim by creating a game to practice basic movements in.

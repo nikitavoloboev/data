@@ -113,6 +113,8 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Project Lazarus](https://open.spotify.com/artist/33OJLcrDP4wfgTsq250m9Y?si=K_hWsQDGTdKdDAko0F0NnQ) ([Bandcamp](https://projectlazarus.bandcamp.com/))
 - [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) ([Turiya Sings](https://www.youtube.com/watch?v=Y9HgjQvDH3A))
 - [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X?si=QYqj3rfTT5S7zmc0_mNVbA)
+- [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF?si=c4fmmO4jRWiuoqx6NAEG5A) ([Thom Yorke, Burial & Four Tet - Her Revolution](https://www.youtube.com/watch?v=qdrmRoCMWC4)) ([Thom Yorke, Burial & Four Tet - His Rope](https://www.youtube.com/watch?v=dCrAMw57ATI))
+- [Four Tet](http://www.fourtet.net/)
 
 ## Interesting artists
 

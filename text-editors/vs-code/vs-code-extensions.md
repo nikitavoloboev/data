@@ -223,6 +223,7 @@ Below is a list of extensions I use.
 ## Lua
 
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
+- [VSCode Lua Format](https://github.com/Koihik/vscode-lua-format)
 
 ## Elm
 

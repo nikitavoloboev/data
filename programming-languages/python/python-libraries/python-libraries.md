@@ -241,6 +241,7 @@
 - [particles](https://github.com/nchopin/particles) - Sequential Monte Carlo in python.
 - [entmax](https://github.com/deep-spin/entmax) - PyTorch implementation of entmax and entmax losses: a sparse family of probability mappings and corresponding loss functions, generalizing softmax / cross-entropy.
 - [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python. ([Docs](https://rxpy.readthedocs.io/en/latest/))
+- [Frictionless](https://github.com/frictionlessdata/frictionless-py) - Framework to describe, extract, validate, and transform tabular data. ([Web](https://frictionlessdata.io/))
 
 ## Links
 

@@ -219,3 +219,4 @@
 - [A History of Mathematical Notations by Florian Cajori](https://archive.org/details/in.ernet.dli.2015.200372)
 - [Visualizing Algebraic Numbers](https://im.icerm.brown.edu/portfolio/visualizing-algebraic-numbers/)
 - [The Simple Yet Powerful Math We Don't Talk About - Freya Holmer (2020)](https://www.youtube.com/watch?v=NzjF1pdlK7Y)
+- [Math | Johns Hopkins University | Course Descriptions & Syllabus](https://mathematics.jhu.edu/undergraduate/courses/course-descriptions/)

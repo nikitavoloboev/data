@@ -197,3 +197,5 @@
 - [Long-Range Arena](https://github.com/google-research/long-range-arena) - Systematic evaluation of efficient transformer models.
 - [PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle.
 - [DeepSPIN (Deep Structured Prediction in Natural Language Processing)](https://deep-spin.github.io/) ([GitHub](https://github.com/deep-spin))
+- [Multi-Task Learning in NLP](https://github.com/jg8610/multi-task-learning)
+- [FastSeq](https://github.com/microsoft/fastseq) - Provides efficient implementation of popular sequence models (e.g. Bart, ProphetNet) for text generation, summarization, translation tasks etc.

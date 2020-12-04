@@ -115,3 +115,5 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Does it ARM](https://doesitarm.com/) - Apps that are reported to support Apple Silicon. ([Code](https://github.com/ThatGuySam/doesitarm))
 - [Black Friday Deals macOS/iOS dev](https://github.com/mRs-/Black-Friday-Deals)
 - [create-dmg](https://github.com/create-dmg/create-dmg) - Shell script to build fancy DMGs.
+- [Mach-O learning tool](https://github.com/nico/lssym) - Toy program to learn more about the mach-o file format.
+- [Popover](https://github.com/iSapozhnik/Popover) - Custom macOS Popover.

@@ -122,3 +122,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Eth2 Upgrades](https://ethereum.org/en/eth2/) ([Summary of changes](https://news.ycombinator.com/item?id=25264814))
 - [HN: Ethereum 2.0 Launches Successfully (2020)](https://news.ycombinator.com/item?id=25264694)
 - [OpenEthereum](https://github.com/openethereum/openethereum) - Fast and feature-rich multi-network Ethereum client.
+- [Opyn Protection](https://opyn.co/#/) - Securing Decentralized Finance. Allows you to protect your DeFi deposits and hedge ETH risk.

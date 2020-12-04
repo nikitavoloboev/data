@@ -56,3 +56,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Frovedis](https://github.com/frovedis/frovedis) - Framework of vectorized and distributed data analytics.
 - [AWS Web Analytics](https://github.com/goatandsheep/aws-web-analytics) - Privacy-focused alternative to Google Analytics on AWS Pinpoint.
 - [Microsoft Clarity](https://clarity.microsoft.com/) - Analytics for Websites.
+- [Splitbee](https://splitbee.io/) - Friendly all-in-one analytics & conversion tool.

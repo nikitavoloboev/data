@@ -184,3 +184,4 @@
 - [PyTorch Tools, Best Practices & Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
 - [NeuralProphet](https://github.com/ourownstory/neural_prophet) - Neural Network based Time-Series model, inspired by Facebook Prophet and AR-Net, built on PyTorch.
 - [Pytorch-Lightning Implementation of Self-Supervised algorithms](https://github.com/untitled-ai/self_supervised)
+- [Reimplementation of LiteFlowNet using PyTorch](https://github.com/sniklaus/pytorch-liteflownet)

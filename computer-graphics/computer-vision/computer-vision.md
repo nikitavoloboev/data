@@ -167,3 +167,7 @@
 - [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://github.com/aimagelab/show-control-and-tell)
 - [Deformable Neural Radiance Fields](https://nerfies.github.io/)
 - [Timeception for Complex Action Recognition (2019)](https://arxiv.org/abs/1812.01289) ([Code](https://github.com/noureldien/timeception))
+- [Programming Computer Vision with Python (2014)](http://programmingcomputervision.com/) ([Code](https://github.com/jesolem/PCV)) ([Notes](https://github.com/nico/cvbook))
+- [Fast and Accurate One-Stage Space-Time Video Super-Resolution (2020)](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
+- [pixelNeRF: Neural Radiance Fields from One or Few Images (2020)](https://alexyu.net/pixelnerf/) ([Code](https://github.com/sxyu/pixel-nerf))
+- [vedadet](https://github.com/Media-Smart/vedadet) - Single stage object detector toolbox based on PyTorch.

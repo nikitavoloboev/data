@@ -127,6 +127,8 @@
 - [JET.jl](https://github.com/aviatesk/JET.jl) - Experimental type checker for Julia, no need for additional type annotations.
 - [LoopVectorization](https://github.com/chriselrod/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) - Linear Operators for Julia.
+- [Images.jl](https://github.com/JuliaImages/Images.jl) - Image library for Julia.
+- [Match.jl](https://github.com/kmsquire/Match.jl) - Advanced Pattern Matching for Julia.
 
 ## Links
 

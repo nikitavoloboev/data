@@ -27,3 +27,4 @@
 - [GraphRNN](https://github.com/JiaxuanYou/graph-generation) - Generating Realistic Graphs with Deep Auto-regressive Model.
 - [Position-aware Graph Neural Networks](https://github.com/JiaxuanYou/P-GNN)
 - [SEAL - Learning from Subgraphs, Embeddings, and Attributes for Link prediction](https://github.com/muhanzhang/SEAL)
+- [Jraph](https://github.com/deepmind/jraph) - Lightweight library for working with graph neural networks in jax.

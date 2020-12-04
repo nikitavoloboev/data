@@ -275,3 +275,5 @@
 - [Amazon EKS Distro](https://github.com/aws/eks-distro) - Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [Virtual Kubelet Provider for Systemd](https://github.com/miekg/vks)
 - [Isovalent](https://isovalent.com/) - eBPF-powered Cloud Native Networking & Security.
+- [Kubernetes Python Client](https://github.com/kubernetes-client/python)
+- [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s) - Lets you define and use AWS service resources directly from Kubernetes.

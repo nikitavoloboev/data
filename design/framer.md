@@ -9,3 +9,4 @@
 - [API Docs](https://www.framer.com/api) - Complete API reference for the Framer Library & Framer Motion packages. ([Code](https://github.com/framer/api-docs))
 - [Awesome Framer Tips](https://awesomeframertips.xyz/)
 - [Framer Motion in a tweet](https://twitter.com/lintonye/status/1322297495129477120)
+- [Coding in Framer (2020)](https://www.youtube.com/playlist?list=PLRG1hGYAPvla9Gu9GEdNSjRAu7ay7Q9eP) ([Tweet](https://twitter.com/Darth_Knoppix/status/1334554774100914182))

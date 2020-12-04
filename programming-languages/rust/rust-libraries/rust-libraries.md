@@ -12,6 +12,7 @@
 - [termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
 - [Comfy-table](https://github.com/Nukesor/comfy-table) - Library for building beautiful terminal tables with automatic content wrapping.
 - [owo-colors](https://github.com/jam1garner/owo-colors) - Zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal.
+- [Console Engine](https://github.com/VincentFoulon80/console_engine) - Simple terminal framework to draw things and manage user input.
 
 ## Web
 
@@ -554,6 +555,10 @@
 - [HashRing](https://github.com/jeromefroe/hashring-rs) - Minimal implementation of consistent hashing.
 - [inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope.
 - [nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies.
+- [coca](https://github.com/teryror/coca) - Allocation-free data structures that make do with the memory they're given.
+- [typed-index-collections](https://github.com/zheland/typed-index-collections) - Typed index version of Rust slice and Vec containers.
+- [slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust.
+- [Erased Serde](https://github.com/dtolnay/erased-serde) - Type-erased Serialize, Serializer and Deserializer traits.
 
 ## Cargo Plugins
 

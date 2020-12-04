@@ -118,7 +118,7 @@
 - [Home Made Standing Desk Raspberry Pi Controller (2020)](https://timmyomahony.com/blog/home-made-standing-desk-raspberry-pi-controller)
 - [AMD](https://www.amd.com/en) - High-Performance Processors and Graphics. ([GitHub](https://github.com/amd))
 - [NVIDIA](https://www.nvidia.com/) - Designs graphics processing units.
-- [Xilinx](https://www.xilinx.com/) - Inventor of the FPGA, programmable SoCs. Develops highly flexible and adaptive processing platforms. Owned by AMD. ([HN](https://news.ycombinator.com/item?id=24906151))
+- [Xilinx](https://www.xilinx.com/) - Inventor of the FPGA, programmable SoCs. Develops highly flexible and adaptive processing platforms. Owned by AMD. ([HN](https://news.ycombinator.com/item?id=24906151)) ([GitHub](https://github.com/Xilinx))
 - [Have you considered buying used hardware? (2020)](https://www.0chris.com/consider-buying-used.html) ([Lobsters](https://lobste.rs/s/waupgh/have_you_considered_buying_used_hardware))
 - [Framework to understand RDMA](https://github.com/efficient/rdma_bench)
 - [Curated list of available fantasy consoles/computers](https://github.com/paladin-t/fantasy)
@@ -140,3 +140,4 @@
 - [Semiconductors: The Ultimate Bargaining Chip (2020)](https://www.youtube.com/watch?v=r6NUO_bymuA)
 - [DIY NAS: 2020 Edition](https://blog.briancmoses.com/2020/11/diy-nas-2020-edition.html)
 - [These are called opportunities (2020)](https://fabiensanglard.net/silicone/) ([HN](https://news.ycombinator.com/item?id=25285862))
+- [ChipWhisperer](https://github.com/newaetech/chipwhisperer) - Complete open-source toolchain for side-channel power analysis and glitching attacks. ([Docs](https://rtfm.newae.com/))

@@ -491,6 +491,7 @@
 - [PredicateKit](https://github.com/ftchirou/PredicateKit) - Allows Swift developers to write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions.
 - [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer for Swift.
 - [SwiftOTP](https://github.com/lachlanbell/SwiftOTP) - Swift library for generating One Time Passwords (OTP).
+- [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - Simple wrapper for the iOS / tvOS Keychain to allow you to use it in a similar fashion to User Defaults.
 
 ## Other (not lib)
 

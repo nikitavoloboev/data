@@ -57,6 +57,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Monoid](https://larsenwork.com/monoid/) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. ([Code](https://github.com/larsenwork/monoid))
 - [League Mono](https://github.com/theleagueof/league-mono) - Monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier. ([Web](https://www.theleagueofmoveabletype.com/league-mono))
 - [LiebeHeide](https://liebefonts.com/fonts/liebeheide) - Amazingly real looking handwritten messages with LiebeHeide color font.
+- [Piazzolla font family](https://piazzolla.huertatipografica.com/) ([Code](https://github.com/huertatipografica/piazzolla))
 
 ## Links
 
@@ -176,3 +177,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [font-line](https://githkub.com/source-foundry/font-line) - OpenType vertical metrics reporting and font line spacing adjustment tool.
 - [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Add ligatures to any coding font.
 - [LiebeFonts](https://liebefonts.com/) - Hand-Made Fonts With Lots of Love.
+- [Time to Say Goodbye to Google Fonts (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/) ([HN](https://news.ycombinator.com/item?id=25300396))
+- [Huerta Tipografica](https://www.huertatipografica.com/en) - Independent Type foundry. ([GitHub](https://github.com/huertatipografica))

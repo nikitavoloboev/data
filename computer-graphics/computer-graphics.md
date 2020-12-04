@@ -8,7 +8,7 @@
 
 ## Links
 
-- [Physically Based Rendering Book](http://www.pbr-book.org) ([Web](https://www.pbrt.org/))
+- [Physically Based Rendering Book](http://www.pbr-book.org) ([Web](https://www.pbrt.org/)) ([V3](https://github.com/mmp/pbrt-v3)) ([V4](https://github.com/mmp/pbrt-v4))
 - [NVIDIA GeForce RTX - Official Launch Event (2018)](https://www.youtube.com/watch?v=Mrixi27G9yM)
 - [Writing to framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [GUI Development is broken (2018)](http://www.charlesetc.com/gui-development-is-broken/)
@@ -114,3 +114,7 @@
 - [Mitsuba Renderer 2](https://github.com/mitsuba-renderer/mitsuba2) - Research-oriented rendering system written in portable C++17.
 - [Painting a Selfie Girl, with Maths (2020)](https://www.youtube.com/watch?v=8--5LwHRhjk)
 - [Building an artificial sun that looks unbelievably realistic (2020)](https://www.youtube.com/watch?v=6bqBsHSwPgw)
+- [Computer Graphics at Stanford University](https://graphics.stanford.edu/)
+- [Wojciech Jarosz Bibliography](https://github.com/wkjarosz/rendering-bib) - Publications mostly in computer graphics, rendering, transport theory, and statistics.
+- [OpenImageIO](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+- [Deep Learning Medical Decathlon Demos for Python](https://github.com/IntelAI/unet)
