@@ -16,7 +16,6 @@
 - In general, you should only install things with nix, and not use any other package managers.
 - The main idea of the Nix approach is to store software components in isolation from each other in a central component store, under path names that contain cryptographic hashes of all inputs involved in building the component, such as `/nix/store/rwmfbhb2znwp...-ﬁrefox1.0.4`.
 - Don't install libraries with Nix.
-- Can put ``in`sha256`initially. Before getting the real SHA256 with`nix-prefetch-url`.
 - Derivations are variables + build script.
 - Docs are in `.xml` files in `/docs`
 - To build derivation in nixpkgs, at root of `nixpkgs`, run `nix build -f . <pkg-name>` (ie `nix build -f . wifi-password`)

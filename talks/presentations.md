@@ -33,3 +33,4 @@
 - [present](https://github.com/vinayak-mehta/present) - Terminal-based presentation tool with colors and effects. ([HN](https://news.ycombinator.com/item?id=24324099))
 - [Static to Animated](https://gazit.me/writing/static-to-animated/) - Nice example of slides coupled with transcript.
 - [DeckDeckGo](https://deckdeckgo.com/) - Open source web editor for presentations. ([Code](https://github.com/deckgo/deckdeckgo))
+- [PRESENTA Lib](https://github.com/presenta-software/presenta-lib) - JavaScript library that generates web presentations from config objects. ([Docs](https://lib.presenta.cc/guide/))
