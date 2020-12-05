@@ -75,3 +75,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Preston-Werner Ventures](https://prestonwernerventures.com/) - Working on social justice, climate change, and technology.
 - [Global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)
 - [Rewiring America](https://www.rewiringamerica.org/handbook) - Handbook for winning the climate fight.
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Open technology projects sustaining stable climate, energy supply and vital natural resources. ([Web](https://opensustain.tech/))

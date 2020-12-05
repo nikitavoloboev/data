@@ -559,6 +559,7 @@
 - [typed-index-collections](https://github.com/zheland/typed-index-collections) - Typed index version of Rust slice and Vec containers.
 - [slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust.
 - [Erased Serde](https://github.com/dtolnay/erased-serde) - Type-erased Serialize, Serializer and Deserializer traits.
+- [hyphenation](https://github.com/tapeinosyne/hyphenation) - Text hyphenation for Rust.
 
 ## Cargo Plugins
 

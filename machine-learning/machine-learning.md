@@ -354,3 +354,4 @@
 - [Interpretability in Machine Learning: An Overview (2020)](https://thegradient.pub/interpretability-in-ml-a-broad-overview/)
 - [Implicit Rank-Minimizing Autoencoder (2020)](https://arxiv.org/abs/2010.00679) ([Code](https://github.com/facebookresearch/irmae))
 - [ML/CV/NLP study resources](https://github.com/mileistone/study_resources)
+- [MIT Mądry Lab](http://madry-lab.ml/) - Towards a Principled Science of Deep Learning. ([GitHub](https://github.com/MadryLab))
