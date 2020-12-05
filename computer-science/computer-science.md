@@ -87,3 +87,4 @@
 - [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Computation explained with screencasts.
 - [Map of Computer Science (2017)](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - [Ask HN: What are the best advanced computer science courses online? (2020)](https://news.ycombinator.com/item?id=25271676)
+- [Lobsters: Advice on advanced degrees in computer science? (2020)](https://lobste.rs/s/6ucycu/advice_on_advanced_degrees_computer)

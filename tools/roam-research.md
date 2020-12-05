@@ -60,3 +60,4 @@
 - [Building a roam-like, networked, heavily-customized realtime editor (2020)](https://namiwang.github.io/2020/11/12/building-a-roam-like-networked-heavily-customized-realtime-editor-part-1.html) ([HN](https://news.ycombinator.com/item?id=25177290))
 - [Automatic RoamResearch backup](https://github.com/MatthieuBizien/roam-to-git)
 - [RoamNERd](https://roamnerd.com/) - Automatically tag named entities in text for direct entry into Roam Research.
+- [Roam Research Plugins list (2020)](https://twitter.com/wirtzdan/status/1334976199253237762)

@@ -161,3 +161,4 @@
 - [WG21: C++ Standards Committee Papers](https://github.com/mpark/wg21)
 - [clangd](https://github.com/clangd/clangd) - C++ Language server. Provides C++ IDE features to editors. ([Web](https://clangd.llvm.org/))
 - [30 Seconds Of Standard Template Library in C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+- [Core C++ 2020](https://corecpp.org/)

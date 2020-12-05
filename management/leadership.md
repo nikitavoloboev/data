@@ -10,3 +10,4 @@
 - [The surprising traits of good remote leaders (2020)](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones) ([HN](https://news.ycombinator.com/item?id=24431169))
 - [Open Leadership Framework](https://github.com/mozilla/open-leadership-framework)
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
+- [Daniel Ek, CEO of Spotify — The Art of Seeing Around Corners, Two-Year Missions, Top Books, and the Essence of Fire Soul (2020)](https://overcast.fm/+KebsaWsl0)

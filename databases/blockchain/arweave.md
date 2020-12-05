@@ -18,3 +18,4 @@
 - [ArGo](https://argoapp.live/) - Deploy with ease on Arweave Permaweb.
 - [Arweave Wiki](https://arweave.wiki/wiki/Main_Page)
 - [ArVerify](https://arverify.org/) - Trusted verification for the Arweave network. ([GitHub](https://github.com/ArVerify))
+- [Weve](https://weve.email/) - Decentralized mail system, running on the Arweave network. ([Code](https://github.com/anish-agnihotri/weve))
