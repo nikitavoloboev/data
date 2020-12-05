@@ -179,3 +179,5 @@
 - [ENNUI](https://math.mit.edu/ennui/) - Elegant Neural Network User Interface. ([Code](https://github.com/martinjm97/ENNUI))
 - [Dynamic Graph CNN for Learning on Point Clouds](https://github.com/WangYueFt/dgcnn)
 - [robustness](https://github.com/MadryLab/robustness) - Library for experimenting with, training and evaluating neural networks, with a focus on adversarial robustness.
+- [JAX, M.D.](https://github.com/google/jax-md) - Accelerated, Differentiable, Molecular Dynamics. ([Paper](https://arxiv.org/abs/1912.04232))
+- [Neural Reverse Engineering of Stripped Binaries using Augmented Control Flow Graphs](https://github.com/tech-srl/Nero)

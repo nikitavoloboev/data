@@ -389,3 +389,4 @@ Go promotes composition over inheritance.
 - [rf](https://github.com/rsc/rf) - Refactoring tool for Go.
 - [Statsview](https://github.com/go-echarts/statsview) - Real-time Go runtime stats visualization profiler.
 - [Awesome Go Interview Questions and Answers](https://goquiz.github.io/) ([Code](https://github.com/goquiz/goquiz.github.io))
+- [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard.

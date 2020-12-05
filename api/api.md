@@ -177,3 +177,4 @@
 - [Swell](https://github.com/open-source-labs/Swell) - API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC. ([Web](https://www.getswell.io/))
 - [API design is stuck in the past (2020)](https://buf.build/blog/api-design-is-stuck-in-the-past) ([HN](https://news.ycombinator.com/item?id=25085276))
 - [APISprout](https://github.com/danielgtaylor/apisprout) - Lightweight, blazing fast, cross-platform OpenAPI 3 mock server with validation.
+- [List of Great Product API Docs (2020)](https://twitter.com/steipete/status/1335135761197375491)
