@@ -560,6 +560,7 @@
 - [slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust.
 - [Erased Serde](https://github.com/dtolnay/erased-serde) - Type-erased Serialize, Serializer and Deserializer traits.
 - [hyphenation](https://github.com/tapeinosyne/hyphenation) - Text hyphenation for Rust.
+- [genovo](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 
 ## Cargo Plugins
 

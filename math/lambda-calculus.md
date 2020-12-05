@@ -43,3 +43,4 @@ Is logical theory of computable functions.
 - [Binary Lambda Calculus](https://tromp.github.io/cl/Binary_lambda_calculus.html)
 - [Algorithmic Information Theory, using Binary Lambda Calculus](https://github.com/tromp/AIT)
 - [Lambda calculus Notes](https://crypto.stanford.edu/~blynn/lambda/)
+- [Lamcal](https://github.com/haraldmaida/lamcal) - Lambda Calculus parser and evaluator and a separate command line REPL application to play around with lambda expressions interactively.
