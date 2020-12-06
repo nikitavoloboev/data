@@ -9,3 +9,6 @@
 - [Building a DIY Pen Plotter (2020)](https://benjamincongdon.me/blog/2020/07/12/Building-a-DIY-Pen-Plotter-midTbot/)
 - [Plottervision](https://www.youtube.com/c/Plottervision/videos) - Generative art, maps and data visualization, drawn with a pen plotter.
 - [svg5.js](https://github.com/MAKIO135/svg5.js) - Tiny JS library to generate static SVGs for plotters, lasercutting, embroidery and more, based on Processing/p5js syntax.
+- [lines](https://github.com/abey79/lines) - Plotter-friendly 3D engine.
+- [vsketch](https://github.com/abey79/vsketch) - Generative plotter art environment for Python.
+- [vpype-pixelart](https://github.com/abey79/vpype-pixelart) - Pixel art plotting in vpype.

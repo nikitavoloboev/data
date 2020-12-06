@@ -56,3 +56,4 @@
 - [IconPark](https://github.com/bytedance/IconPark) - Transform an SVG icon into multiple themes, and generate React icons，Vue icons, SVG icons.
 - [PSVG](https://github.com/LingDong-/psvg) - Programmable SVG. Introduces programming language features like functions, control flows, and variables.
 - [Loaf](https://getloaf.io/) - Animated SVG icon library.
+- [vpype](https://github.com/abey79/vpype) - Swiss-Army-knife command-line tool for plotter vector graphics.
