@@ -91,7 +91,7 @@
 - [Learning Clojure in Public](https://github.com/alaq/learning-clojure-in-public)
 - [Transducers! But can I thread?](https://telescope.ac/nobody-watching/transducers) ([Lobsters](https://lobste.rs/s/zhp280/transducers_can_i_thread))
 - [Practicalli Clojure deps.edn](https://github.com/practicalli/clojure-deps-edn) - Collection of useful configuration and aliases for deps.edn based projects.
-- [re:Clojure 2020](https://reclojure.org/) - Community-driven effort to bring together knowledgeable speakers to present new and exciting topics on all things Clojure and Clojurescript.
+- [re:Clojure 2020](https://reclojure.org/) - Community-driven effort to bring together knowledgeable speakers to present new and exciting topics on all things Clojure and Clojurescript. ([Video](https://www.youtube.com/watch?v=qRI1Ved0SfE))
 - [Towards Awesome Clojure Documentation (2017)](https://www.youtube.com/watch?v=nrpsMB2gYI0)
 - [How to be a REPL Sorcerer (2020)](https://www.youtube.com/watch?v=AcWnGKGqFZA)
 - [Semantic Clojure Formatting (2020)](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html)
