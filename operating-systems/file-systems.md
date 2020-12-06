@@ -30,3 +30,5 @@
 - [Modern storage is plenty fast. It is the APIs that are bad (2020)](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a) ([HN](https://news.ycombinator.com/item?id=25217323))
 - [Supertag](https://github.com/amoffat/supertag) - Tag-based filesystem, written in Rust, for Linux and MacOS. ([Docs](https://amoffat.github.io/supertag/))
 - [DwarFS](https://github.com/mhx/dwarfs) - Fast high compression read-only file system.
+- [ID mapping for mounted filesystems](https://lwn.net/SubscriberLink/837566/33dbf767adaf9bd4/)
+- [Filesystem and Database are not cutting the problem space right (2020)](https://boomla.com/blog/filesystem-and-database-are-not-cutting-the-problem-space-right) ([Lobsters](https://lobste.rs/s/7vebdc/filesystem_database_are_not_cutting))

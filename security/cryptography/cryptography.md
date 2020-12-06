@@ -97,3 +97,4 @@
 - [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
 - [wasm-crypto](https://github.com/jedisct1/wasm-crypto) - WebAssembly (via AssemblyScript) set of cryptographic primitives for building authentication and key exchange protocols.
 - [Everything Crypto](https://github.com/zademn/EverythingCrypto) - Collection of notebooks covering different algorithms and concepts from cryptography.
+- [How Rainbow Tables work](http://kestas.kuliukas.com/RainbowTables/)

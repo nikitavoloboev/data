@@ -31,7 +31,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
 - [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing. ([HN](https://news.ycombinator.com/item?id=23469209))
 - [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
-- [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864))
+- [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864)) ([Web](https://sel4.systems/))
 - [Barebones amd64 kernel built using 9front](https://github.com/majiru/barebones9)
 - [RustyHermit](https://github.com/hermitcore/libhermit-rs) - Rust-based, lightweight unikernel.
 - [Distaff](https://github.com/GuildOfWeavers/distaff) - Zero-knowledge virtual machine written in Rust.
@@ -159,3 +159,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [POSIX write() is not atomic in the way that you might like (2020)](https://utcc.utoronto.ca/~cks/space/blog/unix/WriteNotVeryAtomic)
 - [Guided linking: dynamic linking without the costs (2020)](https://dl.acm.org/doi/abs/10.1145/3428213)
 - [Awesome Operating System Stuff](https://github.com/jubalh/awesome-os)
+- [Lobsters: What should a new OS have? (2020)](https://lobste.rs/s/jr4crd/what_should_new_os_have)

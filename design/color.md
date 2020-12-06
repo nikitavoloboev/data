@@ -51,3 +51,5 @@
 - [Basic Color Science For Graphics Engineer (2018)](https://agraphicsguynotes.com/posts/basic_color_science_for_graphcis_engineer/)
 - [Bjango Color Creator Templates](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
 - [Palettte App](https://palettte.app/) ([Explanation](https://gabrieladorf.com/palettteapp/))
+- [Reasoning about colors (2020)](https://notes.neeasade.net/color-spaces.html) ([Lobsters](https://lobste.rs/s/ezppla/reasoning_about_colors))
+- [How do humans perceive color? (2020)](https://www.wired.com/story/a-new-study-about-color-tries-to-decode-the-brains-pantone/)

@@ -77,3 +77,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [SSG Build Performance Comparison](https://github.com/seancdavis/ssg-build-performance-tests) - Measures the build performance at scale for static site generators.
 - [Edge Cached Static Sites on CloudFlare (2020)](https://hugotunius.se/2020/01/01/edge-cached-static-sites-on-cloudflare.html)
 - [Surge](https://surge.sh/) - Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+- [Why I Built My Own Shitty Static Site Generator (2020)](https://erikwinter.nl/articles/2020/why-i-built-my-own-shitty-static-site-generator/) ([Lobsters](https://lobste.rs/s/uacznf/why_i_built_my_own_shitty_static_site))
