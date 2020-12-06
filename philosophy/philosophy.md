@@ -33,3 +33,4 @@ In any way, it is an interesting subject I don't know much about.
 - [The imagination gap (2018)](https://ansuz.sooke.bc.ca/entry/350)
 - [Theories of Reference: What Was the Question?](https://philpapers.org/archive/RAATOR-2.pdf)
 - [My intellectual influences (2020)](https://www.lesswrong.com/posts/k6NkvAcRaKBMAzqEF/my-intellectual-influences)
+- [Ask HN: Learning about philosophy (2020)](https://news.ycombinator.com/item?id=25312681)

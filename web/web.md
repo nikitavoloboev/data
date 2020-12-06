@@ -202,3 +202,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [this vs that](https://thisthat.dev/) - What is the difference between this & that. ([Code](https://github.com/phuoc-ng/this-vs-that))
 - [Safe Network](https://safenetwork.tech/) - Replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. ([GitHub](https://github.com/maidsafe/))
 - [WebMention Support (2020)](https://christine.website/blog/webmention-support-2020-12-02) ([Lobsters](https://lobste.rs/s/lqxlyr/webmention_support))
+- [Porting a 100% local app to the web (2020)](https://actualbudget.com/blog/porting-local-app-web) ([HN](https://news.ycombinator.com/item?id=25304100))

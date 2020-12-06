@@ -307,3 +307,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [No Starch Press](https://nostarch.com/) - Publishing company, specializing in technical literature often geared towards the geek, hacker, and DIY subcultures.
 - [Fable](https://fable.co/) - Social reading club app.
 - [How I read books: a guide on how to learn (2020)](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb) ([HN](https://news.ycombinator.com/item?id=25286870))
+- [Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/) ([HN](https://news.ycombinator.com/item?id=25302132))
