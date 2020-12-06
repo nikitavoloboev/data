@@ -125,7 +125,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Text-Only Websites](https://sjmulder.nl/en/textonly.html) ([HN](https://news.ycombinator.com/item?id=23626929))
 - [WebTransport API](https://wicg.github.io/web-transport/) ([HN](https://news.ycombinator.com/item?id=23666364))
 - [In Defense of a Fussy Website (2020)](https://css-tricks.com/in-defense-of-a-fussy-website/)
-- [ArchiveBox](https://github.com/pirate/ArchiveBox) - Open-source self-hosted web archive.
+- [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - Open-source self-hosted web archive. ([Web](https://archivebox.io/))
 - [web.dev LIVE](https://web.dev/live/) - Bringing web developers together, from home.
 - [Weird Wide Webring](https://weirdwidewebring.net/) - The web needs a little more weird. These sites are helping. ([Code](https://github.com/jackmcdade/weird-wide-webring))
 - [The Whimsical Web](https://whimsical.club/) - Curated list of sites with an extra bit of fun. ([Code](https://github.com/maxboeck/whimsical)) ([HN](https://news.ycombinator.com/item?id=23704270))
@@ -201,3 +201,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [WMR](https://github.com/preactjs/wmr) - Tiny all-in-one development tool for modern web apps, in a single 2mb file with no dependencies.
 - [this vs that](https://thisthat.dev/) - What is the difference between this & that. ([Code](https://github.com/phuoc-ng/this-vs-that))
 - [Safe Network](https://safenetwork.tech/) - Replaces the vulnerable structure of the existing Web with a decentralised, autonomous network. ([GitHub](https://github.com/maidsafe/))
+- [WebMention Support (2020)](https://christine.website/blog/webmention-support-2020-12-02) ([Lobsters](https://lobste.rs/s/lqxlyr/webmention_support))

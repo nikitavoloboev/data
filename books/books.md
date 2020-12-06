@@ -206,6 +206,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Lex Fridman Library](https://lexfridmanlibrary.com/) - Library of book recommendations of all guests of the Lex Fridman Podcast.
 - [NPR's Best Books](https://apps.npr.org/best-books/) ([2020](https://apps.npr.org/best-books/#view=covers&year=2020))
 - [Founder Library Bookshelf](https://www.founderlibrary.com/bookshelf)
+- [Ask HN: Recommend books that give you insight into other professions (2020)](https://news.ycombinator.com/item?id=25317963)
 
 ## Notes
 

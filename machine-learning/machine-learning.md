@@ -355,3 +355,4 @@
 - [Implicit Rank-Minimizing Autoencoder (2020)](https://arxiv.org/abs/2010.00679) ([Code](https://github.com/facebookresearch/irmae))
 - [ML/CV/NLP study resources](https://github.com/mileistone/study_resources)
 - [MIT Mądry Lab](http://madry-lab.ml/) - Towards a Principled Science of Deep Learning. ([GitHub](https://github.com/MadryLab))
+- [Scaling Down Deep Learning (2020)](https://greydanus.github.io/2020/12/01/scaling-down/) ([HN](https://news.ycombinator.com/item?id=25314066))

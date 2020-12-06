@@ -50,3 +50,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [SEO for Hugo blogs (2020)](https://mathieuhendey.com/2020/10/seo-for-hugo-blogs/)
 - [Minifying CSS With Hugo Pipelines (2020)](https://mathieuhendey.com/2020/10/minifying-css-with-hugo-pipelines/)
 - [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo)
+- [Using Github Issues as a Hugo frontend with Github Actions and Netlify (2020)](https://shazow.net/posts/github-issues-as-a-hugo-frontend/) ([Lobsters](https://lobste.rs/s/oeelem/using_github_issues_as_hugo_frontend_with))

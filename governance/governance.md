@@ -28,3 +28,4 @@
 - [ElectionGuard](https://github.com/microsoft/electionguard) - Open source software development kit (SDK) that makes voting more secure, transparent and accessible.
 - [Ask HN: How would you design an secure online voting system? (2020)](https://news.ycombinator.com/item?id=24994514)
 - [Ask HN: Instead of picking a party, why can’t we vote on issues (2020)](https://news.ycombinator.com/item?id=25021503)
+- [Why a land-value tax is inevitable (2020)](https://www.progress.org/articles/why-a-land-value-tax-is-inevitable) ([HN](https://news.ycombinator.com/item?id=25317896))

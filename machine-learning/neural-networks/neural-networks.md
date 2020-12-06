@@ -181,3 +181,4 @@
 - [robustness](https://github.com/MadryLab/robustness) - Library for experimenting with, training and evaluating neural networks, with a focus on adversarial robustness.
 - [JAX, M.D.](https://github.com/google/jax-md) - Accelerated, Differentiable, Molecular Dynamics. ([Paper](https://arxiv.org/abs/1912.04232))
 - [Neural Reverse Engineering of Stripped Binaries using Augmented Control Flow Graphs](https://github.com/tech-srl/Nero)
+- [NN SVG](https://alexlenail.me/NN-SVG/AlexNet.html) - Generate publication-ready NN-architecture schematics. ([HN](https://news.ycombinator.com/item?id=25272360))

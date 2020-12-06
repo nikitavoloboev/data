@@ -53,3 +53,4 @@
 - [Morphisms of Computational Constructs](https://github.com/prathyvsh/morphisms-of-computational-structures) - Visual catalogue + story of morphisms displayed across computational structures.
 - [What is key-value store? (build-your-own-x) (2020)](http://djkooks.github.io/build-your-own-kv-store)
 - [Lesser Known but Useful Data Structures](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+- [Using Bloom filters to efficiently synchronize hash graphs (2020)](https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html)

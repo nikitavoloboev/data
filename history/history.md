@@ -72,7 +72,7 @@
 - [Cities of the world at the beginning of the 20th century (and end of 19th century)](https://twitter.com/JoaquimCampa/status/1251243294157348864)
 - [If Sapiens were a blog post (2019)](https://neilkakkar.com/sapiens.html)
 - [Reddit AskHistorians – Master History Book List](https://www.reddit.com/r/AskHistorians/comments/timi4/the_askhistorians_master_book_list/)
-- [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/) ([HN](https://news.ycombinator.com/item?id=25084479))
+- [Optimizing things in the USSR (2016)](https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/) ([HN](https://news.ycombinator.com/item?id=25084479)) ([Lobsters](https://lobste.rs/s/maracn/optimizing_things_ussr_2016))
 - [The Big Lessons from History (2020)](https://www.collaborativefund.com/blog/the-big-lessons-from-history/) ([HN](https://news.ycombinator.com/item?id=25083946))
 - [They Thought They Were Free: The Germans, 1933-45 (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html) ([HN](https://news.ycombinator.com/item?id=25083315))
 - [Why Military History? (2020)](https://acoup.blog/2020/11/13/collections-why-military-history/) ([HN](https://news.ycombinator.com/item?id=25092118))

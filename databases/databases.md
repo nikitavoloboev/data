@@ -260,3 +260,4 @@
 - [If All You Have Is a Database, Everything Looks Like a Nail (2020)](https://pathelland.substack.com/p/if-all-you-have-is-a-database-everything)
 - [In-Database Machine Learning (2020)](https://btw.informatik.uni-rostock.de/download/tagungsband/B6-1.pdf) ([HN](https://news.ycombinator.com/item?id=25285983))
 - [Feature Casualties of Large Databases (2020)](https://brandur.org/large-database-casualties) ([Lobsters](https://lobste.rs/s/regno1/feature_casualties_large_databases))
+- [Seeing is Believing: A Client-Centric Specification of Database Isolation](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf)

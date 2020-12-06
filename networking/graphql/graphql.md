@@ -104,7 +104,7 @@
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - Light and simple utility for adding GraphQL to React components. Ships with an extensible, composable cache invalidation mechanism.
 - [GraphQL directives are underrated (2020)](https://blog.logrocket.com/graphql-directives-are-underrated/)
 - [Genql](https://genql.now.sh/) - Type safe GraphQL query builder. ([Code](https://github.com/remorses/genql))
-- [Slash GraphQL](https://dgraph.io/slash-graphql) - Provides GraphQL Backend for Your Application on the Internet.
+- [Slash GraphQL](https://dgraph.io/slash-graphql) - Fully managed GraphQL backend service. Fastest way to build GraphQL apps. ([HN](https://news.ycombinator.com/item?id=25315698))
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps.
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use. ([Example of use](https://github.com/jeffwillette/graphql-go-pets-example))
 - [A Principled Approach to GraphQL Query Cost Analysis (2020)](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
