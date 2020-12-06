@@ -39,3 +39,4 @@
 - [Useful Java links](https://github.com/Vedenin/useful-java-links)
 - [Java is better than C++ for high speed trading systems (2020)](https://news.efinancialcareers.com/uk-en/3004875/low-latency-java-trading-systems) ([HN](https://news.ycombinator.com/item?id=25217270))
 - [sbt-assembly](https://github.com/sbt/sbt-assembly) - sbt plugin to deploy fat JARs with all of its dependencies. Restart processes.
+- [Jib](https://github.com/GoogleContainerTools/jib/) - Build container images for your Java applications. ([Article](https://www.infoq.com/news/2020/08/containerize-java-app-with-jib/))

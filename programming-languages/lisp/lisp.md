@@ -95,3 +95,4 @@
 - [LISP – Notes on its past and future, by John McCarthy (1980)](http://jmc.stanford.edu/articles/lisp20th/lisp20th.pdf)
 - [Klisp](https://github.com/thesephist/klisp) - Minimal LISP written in about 200 lines of Ink. ([Article](https://dotink.co/posts/klisp/))
 - [baremetalisp](https://github.com/ytakano/baremetalisp)
+- [Between two Lisps (2020)](https://ane.github.io/2020/10/05/between-two-lisps.html)

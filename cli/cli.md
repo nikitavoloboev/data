@@ -50,4 +50,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [My growing list of Rust programs to use](https://gist.github.com/Phate6660/76779693f654d48c5c410be658c53f02) ([Lobsters](https://lobste.rs/s/ltd2be/my_growing_list_rust_programs_use))
 - [dasel](https://github.com/TomWright/dasel) - Allows you to query and modify data structures using selector strings.
 - [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI commands as alternatives to GUI.
-- [CLI Guidelines](https://clig.dev/) - Guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. ([Code](https://github.com/cli-guidelines/cli-guidelines)) ([HN](https://news.ycombinator.com/item?id=25304257))
+- [CLI Guidelines](https://clig.dev/) - Guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. ([Code](https://github.com/cli-guidelines/cli-guidelines)) ([HN](https://news.ycombinator.com/item?id=25304257)) ([Lobsters](https://lobste.rs/s/bsgtju/cli_guidelines))

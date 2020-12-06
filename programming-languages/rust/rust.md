@@ -379,3 +379,4 @@
 - [A Cool Generic Concurrency Primitive in Rust (2020)](https://www.youtube.com/watch?v=eLNAMEoKAAc)
 - [Rust Error Handling Project Group](https://github.com/rust-lang/project-error-handling)
 - [Rust Website Code](https://github.com/rust-lang/www.rust-lang.org)
+- [Writing Rust the Elixir way (2020)](https://dev.to/bkolobara/writing-rust-the-elixir-way-2lm8) ([Lobsters](https://lobste.rs/s/kmwh7g/writing_rust_elixir_way))

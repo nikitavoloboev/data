@@ -277,3 +277,4 @@
 - [Isovalent](https://isovalent.com/) - eBPF-powered Cloud Native Networking & Security.
 - [Kubernetes Python Client](https://github.com/kubernetes-client/python)
 - [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s) - Lets you define and use AWS service resources directly from Kubernetes.
+- [Learnings From Two Years of Kubernetes in Production (2020)](https://lambda.grofers.com/learnings-from-two-years-of-kubernetes-in-production-b0ec21aa2814)

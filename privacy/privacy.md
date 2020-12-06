@@ -69,3 +69,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Electronic Frontier Foundation](https://www.eff.org/) - Defending your rights in the digital world.
 - [The magic of Gaussian noise (2020)](https://desfontain.es/privacy/gaussian-noise.html) - Part of a series on differential privacy.
 - [Amnesia](https://amnesia.openaire.eu/) - Data anonymization made easy.
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.github.io/thgtoa/guide.html) ([Code](https://github.com/AnonymousPlanet/thgtoa))

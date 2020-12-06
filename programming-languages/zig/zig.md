@@ -30,3 +30,4 @@
 - [Is Zig the Long Awaited C Replacement? (2020)](https://erik-engheim.medium.com/is-zig-the-long-awaited-c-replacement-c8eeace1e692) ([Lobsters](https://lobste.rs/s/nrabd5/is_zig_long_awaited_c_replacement))
 - [zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [Zig Spec](https://github.com/ziglang/zig-spec)
+- [Pirates of Apple Silicon - Jakub Konka, Frank Denis, Andrew Kelley (2020)](https://www.youtube.com/watch?v=t1pdnQRPAZo)

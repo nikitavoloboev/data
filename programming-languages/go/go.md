@@ -386,7 +386,7 @@ Go promotes composition over inheritance.
 - [GopherCon 2020: Go Team AMA](https://www.youtube.com/watch?v=BNHwHLNLjLs)
 - [Digital Ocean App Platform sample Go application](https://github.com/digitalocean/sample-golang)
 - [GoGraph](https://github.com/tbpg/gograph) - Builds graphs out of Go source code.
-- [rf](https://github.com/rsc/rf) - Refactoring tool for Go.
+- [rf](https://github.com/rsc/rf) - Refactoring tool for Go. ([Docs](https://godoc.org/github.com/rsc/rf))
 - [Statsview](https://github.com/go-echarts/statsview) - Real-time Go runtime stats visualization profiler.
 - [Awesome Go Interview Questions and Answers](https://goquiz.github.io/) ([Code](https://github.com/goquiz/goquiz.github.io))
 - [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard.
