@@ -13,6 +13,7 @@
 - [which-key](https://github.com/justbur/emacs-which-key) - Emacs package that displays available keybindings in popup.
 - [reformatter.el](https://github.com/purcell/reformatter.el) - Define commands which run reformatters on the current Emacs buffer.
 - [Emacs X Window Manager](https://github.com/ch11ng/exwm) - Tiling X window manager for Emacs. ([HN](https://news.ycombinator.com/item?id=25157452))
+- [s.el](https://github.com/magnars/s.el) - Emacs string manipulation library.
 
 ## Elm
 

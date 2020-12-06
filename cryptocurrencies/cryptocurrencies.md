@@ -41,3 +41,4 @@
 - [CoinMarketCap](https://coinmarketcap.com/) - Cryptocurrency Prices, Charts And Market Capitalizations.
 - [Crypto Ecosystems](https://github.com/electric-capital/crypto-ecosystems) - Taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems.
 - [Crytic-compile](https://github.com/crytic/crytic-compile) - Abstraction layer for smart contract build systems.
+- [Introduction to Cryptocurrencies (2020)](https://etherplan.com/2020/11/16/introduction-to-cryptocurrencies/13648/)

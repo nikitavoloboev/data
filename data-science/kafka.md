@@ -23,3 +23,4 @@
 - [Runtime Discovery of Kafka Streams (2020)](https://www.youtube.com/watch?v=685MVJX9r5M)
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes. ([Web](https://strimzi.io/))
 - [Trubka](https://github.com/xitonix/trubka) - CLI tool for Kafka written in Go.
+- [franz-go](https://github.com/twmb/franz-go) - High performance, pure Go library for interacting with Kafka.
