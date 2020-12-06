@@ -67,3 +67,4 @@
 - [On Taking Criticism (2020)](https://www.observationalhazard.com/2020/11/on-taking-criticism_15.html) ([HN](https://news.ycombinator.com/item?id=25098585))
 - [How to have a difficult conversation (2020)](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
 - [Ask HN: How to effectively communicate results of my work to non-engineers? (2020)](https://news.ycombinator.com/item?id=25185619)
+- [Date-Night Questions](https://datenightquestions.com/) - Questions to help you know your friends & loved ones better.

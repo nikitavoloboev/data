@@ -171,3 +171,4 @@
 - [Fast and Accurate One-Stage Space-Time Video Super-Resolution (2020)](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
 - [pixelNeRF: Neural Radiance Fields from One or Few Images (2020)](https://alexyu.net/pixelnerf/) ([Code](https://github.com/sxyu/pixel-nerf))
 - [vedadet](https://github.com/Media-Smart/vedadet) - Single stage object detector toolbox based on PyTorch.
+- [OneNet: End-to-End One-Stage Object Detection by Classification Cost](https://github.com/PeizeSun/OneNet)

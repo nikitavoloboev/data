@@ -199,3 +199,4 @@
 - [DeepSPIN (Deep Structured Prediction in Natural Language Processing)](https://deep-spin.github.io/) ([GitHub](https://github.com/deep-spin))
 - [Multi-Task Learning in NLP](https://github.com/jg8610/multi-task-learning)
 - [FastSeq](https://github.com/microsoft/fastseq) - Provides efficient implementation of popular sequence models (e.g. Bart, ProphetNet) for text generation, summarization, translation tasks etc.
+- [Sentence Embeddings with BERT & XLNet](https://github.com/UKPLab/sentence-transformers)

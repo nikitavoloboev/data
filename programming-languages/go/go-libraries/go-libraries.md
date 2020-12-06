@@ -616,6 +616,7 @@
 - [gonfig](https://github.com/stevenroose/gonfig) - Go package for program configuration.
 - [ghw](https://github.com/jaypipes/ghw) - Go hardware discovery/inspection library.
 - [jwt](https://github.com/cristalhq/jwt) - JSON Web Token for Go.
+- [go-set](https://github.com/scylladb/go-set) - Type-safe, zero-allocation sets for Go.
 
 ## Links
 
