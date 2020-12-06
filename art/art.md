@@ -205,6 +205,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Bee Grandinetti](http://www.beegrandinetti.com/)
 - [Miena A.R.](https://mienar.com/original-artworks)
 - [Tom White](https://www.instagram.com/dribnet/)
+- [Thomas Cole](https://www.metmuseum.org/toah/hd/cole/hd_cole.htm)
 - [Victor Mosquera](https://www.instagram.com/victormosquera/)
 - [Mike Winkelmann](https://www.instagram.com/beeple_crap/)
 - [Steve Ruiz](https://steveruizart.com/archive)
@@ -375,3 +376,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Art Grab](https://artgrab.co/) - Exclusively license and download images created by world-renowned artists.
 - [Savee](https://savee.it/) - Browse and save curated inspiration from designers over all around the world.
 - [Experimental Capture course](https://github.com/golanlevin/ExperimentalCapture) - Concerned with the creation of systems to enable new ways of seeing.
+- [Metropolitan Museum of Art](https://www.metmuseum.org/)

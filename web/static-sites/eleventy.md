@@ -21,3 +21,4 @@
 - [How to Build an Eleventy Plugin (2020)](https://joshuaclanton.dev/blog/2020-10-06-how-to-build-an-eleventy-plugin/)
 - [11ty.dev documentation code](https://github.com/11ty/11ty-website)
 - [Vredeburg](https://github.com/dafiulh/vredeburg) - Simple starter project to create a blog using Eleventy and Tailwind CSS.
+- [JAMStack Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Static website workflow utilising Eleventy, Tailwind CSS, Webpack and PostCSS.

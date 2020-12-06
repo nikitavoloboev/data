@@ -32,3 +32,4 @@
 - [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support) ([HN](https://news.ycombinator.com/item?id=25226260))
 - [Dqlite](https://dqlite.io/) - High-Availability SQLite. ([Code](https://github.com/canonical/dqlite))
 - [LiteTree](https://github.com/aergoio/litetree) - SQLite with Branches.
+- [Working with SQLite using Go and Python (2020)](https://www.ardanlabs.com/blog/2020/11/working-with-sqlite-using-go-python.html)
