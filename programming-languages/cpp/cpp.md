@@ -162,3 +162,4 @@
 - [clangd](https://github.com/clangd/clangd) - C++ Language server. Provides C++ IDE features to editors. ([Web](https://clangd.llvm.org/))
 - [30 Seconds Of Standard Template Library in C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 - [Core C++ 2020](https://corecpp.org/)
+- [xrepo](https://github.com/xmake-io/xrepo/) - Cross-platform C/C++ package manager based on Xmake. ([Lobsters](https://lobste.rs/s/8kiuad/modern_c_c_package_manager))

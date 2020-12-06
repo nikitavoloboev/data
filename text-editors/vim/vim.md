@@ -87,3 +87,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Why I teach vim (2020)](https://blog.ceos.io/2020/11/14/why-i-teach-vim/) ([HN](https://news.ycombinator.com/item?id=25097788))
 - [Improving Vim Workflow With fzf (2020)](https://pragmaticpineapple.com/improving-vim-workflow-with-fzf/) ([Lobsters](https://lobste.rs/s/buaxj3/improving_vim_workflow_with_fzf))
 - [Vim Script Parser written in Go](https://github.com/haya14busa/go-vimlparser)
+- [glrnvim](https://github.com/beeender/glrnvim) - Fast & stable neovim GUI could be accelated by GPU.

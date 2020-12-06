@@ -87,3 +87,4 @@
 - [Ask HN: Have you picked any new skill from scratch, in your 40s or later? (2020)](https://news.ycombinator.com/item?id=25169621)
 - [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers)
 - [Chet](https://chet.social/) - Share, discover, and discuss meaningful content tailored to your profession, interests, and aspirations.
+- [Learn Difficult Concepts with the ADEPT Method (2014)](https://betterexplained.com/articles/adept-method/)

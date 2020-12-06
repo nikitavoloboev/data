@@ -93,3 +93,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops.
 - [NixOS infrastructure configurations](https://github.com/NixOS/nixos-org-configurations)
 - [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS.
+- [Nix(OS) Thoughts (2020)](https://blog.knightsofthelambdacalcul.us/posts/2020-06-20-nix-nixos-thoughts/) ([Lobsters](https://lobste.rs/s/m3j4yn/nix_os_thoughts))

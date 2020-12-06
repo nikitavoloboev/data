@@ -156,3 +156,4 @@
 - [Curveball](https://github.com/curveball/core) - Framework for building web services in Node.js. It fullfills a similar role to Express and it's heavily inspired by Koa.
 - [a12n-server](https://github.com/curveball/a12n-server) - Ready-to-go OAuth2 server for Node.js.
 - [pure-http](https://github.com/htdangkhoa/pure-http) - Simple web framework for Node.js with zero dependencies.
+- [Distributed Systems with Node.js: Building Enterprise-Ready Backend Services (2020)](https://lobste.rs/s/2gvhvd/distributed_systems_with_node_js)
