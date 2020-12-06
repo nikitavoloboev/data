@@ -29,3 +29,4 @@
 - [aHash](https://github.com/tkaitchuck/aHash) - Fastest, DOS resistant hash currently available in Rust.
 - [HashSearch](https://github.com/bee-san/HashSearch) - Searches Hash APIs and Google to crack your hash quickly.
 - [Rust library for homomorphic hashing](https://github.com/benwr/bromberg_sl2) ([Lobsters](https://lobste.rs/s/phm3v2/rust_library_for_homomorphic_hashing))
+- [SRI Hash Generator](https://www.srihash.org/)

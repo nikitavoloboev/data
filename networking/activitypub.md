@@ -13,3 +13,4 @@
 - [Lemmy](https://dev.lemmy.ml/) - Federated alternative to reddit in rust. ([Code](https://github.com/LemmyNet/lemmy)) ([HN](https://news.ycombinator.com/item?id=23664067)) ([Communities](https://dev.lemmy.ml/communities)) ([Lemmy UI code](https://github.com/LemmyNet/lemmy-ui))
 - [ForgeFed](https://github.com/forgefed/forgefed) - Extension to ActivityPub for web-based Git services federation.
 - [ActivityPub spec](https://w3c.github.io/activitypub/) ([Code](https://github.com/w3c/activitypub))
+- [Issues with ActivityPub (2020)](https://lobste.rs/s/ig0vsd/ask_does_lobster_have_any_plan_join#c_p6gfj9)
