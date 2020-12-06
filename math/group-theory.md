@@ -10,3 +10,4 @@
 - [ELI5: The Monster Group](https://www.reddit.com/r/math/comments/43gcyh/eli5_the_monster_group/)
 - [The ‘Useless’ Perspective That Transformed Mathematics (2020)](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/) ([HN](https://news.ycombinator.com/item?id=23473919))
 - [Cube Games and Group Theory](https://prideout.net/blog/group_theory/)
+- [group-theory](https://github.com/emilypi/group-theory) - Package for exploring constructive group theory in Haskell.

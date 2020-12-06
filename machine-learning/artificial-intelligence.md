@@ -49,3 +49,4 @@
 - [Mila](https://mila.quebec/en/) - Quebec Artificial Intelligence Institute. ([GitHub](https://github.com/mila-iqia))
 - [EleutherAI](https://www.eleuther.ai/) - Grassroots AI research group aimed at democratizing and open sourcing AI research.
 - [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
+- [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
