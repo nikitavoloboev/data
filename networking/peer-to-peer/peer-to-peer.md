@@ -12,7 +12,7 @@
 - [DTN Conf sketch notes from 2019 event](https://twitter.com/_lrlna/status/1129361644134567936)
 - [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
-- [Radicle](http://radicle.xyz/) - Peer-to-peer stack for code collaboration. ([Code](https://github.com/radicle-dev/radicle))
+- [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010))
 - [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
 - [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html) ([HN](https://news.ycombinator.com/item?id=24382589))
 - [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)
@@ -25,7 +25,6 @@
 - [Educating the next generation of the peer-to-peer community](https://accessp2p.xyz/)
 - [P2P Peer Discovery (2020)](https://jsantell.com/p2p-peer-discovery)
 - [Ouroboros](https://ouroboros.rocks/) - Decentralized packet networking rebuilt from the ground up. ([HN](https://news.ycombinator.com/item?id=22052416))
-- [Radicle](https://radicle.xyz/) - Secure peer-to-peer code collaboration without intermediaries.
 - [Monadic](https://monadic.xyz/) - Group of technologists who in 2017, set out to re-imagine free and open source software collaboration.
 - [Hypermerge](https://github.com/automerge/hypermerge) - Node.js library for building p2p collaborative applications without any server infrastructure.
 - [Equilibrium](https://equilibrium.co/) - Build core infrastructure for the new distributed web.

@@ -73,3 +73,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Media Manipulation Casebook](https://mediamanipulation.org/) - Digital research platform linking together theory, methods, and practice for mapping media manipulation and disinformation campaigns.
 - [Cooper](https://cooper.app/) - Private professional network. Get quality introductions from people you trust.
 - [Contra](https://contra.com/) - New professional network for your independent journey.
+- [LinkedIn’s Alternate Universe (2020)](https://divinations.substack.com/p/linkedins-alternate-universe##) - How the professional platform makes networking weird. ([HN](https://news.ycombinator.com/item?id=25320536))
