@@ -34,3 +34,4 @@
 - [Precomp](https://github.com/schnaader/precomp-cpp) - Command line precompressor that can be used to further compress files that are already compressed.
 - [pako](https://github.com/nodeca/pako) - High speed zlib port to javascript, works in browser & node.js.
 - [A System to Transparently Compress Hundreds of Petabytes of Image](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/horn)
+- [Kanzi](https://github.com/flanglet/kanzi-go) - Modern, modular, expendable and efficient lossless data compressor implemented in Go.

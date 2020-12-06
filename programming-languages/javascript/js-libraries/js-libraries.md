@@ -375,6 +375,7 @@
 - [p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise.
 - [v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS. ([Web](https://copy.sh/v86/))
 - [Notyf](https://github.com/caroso1222/notyf) - Minimalistic, responsive, vanilla JavaScript library to show toast notifications.
+- [Moveable](https://github.com/daybrush/moveable) - Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable.
 
 ## Links
 
