@@ -45,6 +45,10 @@
 
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 
+## Test
+
+- [Unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit. ([Docs](https://unexpected.js.org/))
+
 ## State management
 
 - [Mutik](https://github.com/jaredpalmer/mutik) - Tiny (495B) immutable state management library based on Immer.

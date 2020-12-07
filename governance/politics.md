@@ -17,3 +17,4 @@
 - [The Coinbase post was 100% right. Here's what you can do about it (2020)](https://parametricity.com/posts/2020-power/)
 - [Essays on capitalism/socialism](https://github.com/dessalines/essays)
 - [Popular Information](https://popular.info/) - Newsletter about politics for people who give a damn.
+- [Issues with Marxism (2020)](https://twitter.com/PsychRabble/status/1335792815461294087)

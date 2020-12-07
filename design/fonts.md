@@ -179,3 +179,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [LiebeFonts](https://liebefonts.com/) - Hand-Made Fonts With Lots of Love.
 - [Time to Say Goodbye to Google Fonts (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/) ([HN](https://news.ycombinator.com/item?id=25300396))
 - [Huerta Tipografica](https://www.huertatipografica.com/en) - Independent Type foundry. ([GitHub](https://github.com/huertatipografica))
+- [ufo2ft](https://github.com/googlefonts/ufo2ft) - Generate OpenType font binaries from UFOs without the FDK dependency.
+- [fontmake](https://github.com/googlefonts/fontmake) - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
+- [OpenType Sanitizer](https://github.com/khaledhosny/ots) - Parses and serializes OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitizing them as it goes.

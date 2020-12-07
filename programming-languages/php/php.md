@@ -13,3 +13,4 @@
 - [PHP Language Spec](https://github.com/php/php-langspec)
 - [Laravel](https://github.com/laravel/framework) - Web application framework with expressive, elegant syntax. ([Web](https://laravel.com/))
 - [Wink](https://github.com/themsaid/wink) - Laravel-based publishing platform.
+- [Serverless Laravel](https://serverlesslaravelcourse.com/) - Laravel Vapor masterclass.

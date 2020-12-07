@@ -141,3 +141,4 @@
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [Carpentries](https://carpentries.org/) - Teach foundational coding and data science skills to researchers worldwide.
 - [Orchest](https://www.orchest.io/) - Web based tool for creating data science pipelines. ([Code](https://github.com/orchest/orchest))
+- [Data Engineering Book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering.

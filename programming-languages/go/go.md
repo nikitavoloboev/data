@@ -390,3 +390,5 @@ Go promotes composition over inheritance.
 - [Statsview](https://github.com/go-echarts/statsview) - Real-time Go runtime stats visualization profiler.
 - [Awesome Go Interview Questions and Answers](https://goquiz.github.io/) ([Code](https://github.com/goquiz/goquiz.github.io))
 - [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard.
+- [gocov](https://github.com/axw/gocov) - Coverage testing tool for Go.
+- [Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC](https://github.com/vardius/go-api-boilerplate)

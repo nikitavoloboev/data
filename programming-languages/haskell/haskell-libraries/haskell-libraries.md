@@ -84,6 +84,7 @@
 - [primitive](https://github.com/haskell/primitive) - Provides various primitive memory-related operations for Haskell.
 - [refined](https://github.com/nikita-volkov/refined) - Refinement types with static and runtime checking.
 - [Row-Types](https://github.com/target/row-types) - Haskell library for open records and variants using closed type families and type literals.
+- [distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
 
 ## Links
 

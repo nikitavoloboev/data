@@ -169,3 +169,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - Multiplatform C++ library for capturing, parsing and crafting of network packets.
 - [LibreSpeed](https://librespeed.org/) - Free and Open Source Speedtest. ([LibreSpeed CLI](https://github.com/librespeed/speedtest-cli))
 - [CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution.
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - Allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them.

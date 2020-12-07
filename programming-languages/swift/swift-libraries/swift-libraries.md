@@ -492,6 +492,8 @@
 - [Umbrella](https://github.com/devxoul/Umbrella) - Analytics abstraction layer for Swift.
 - [SwiftOTP](https://github.com/lachlanbell/SwiftOTP) - Swift library for generating One Time Passwords (OTP).
 - [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - Simple wrapper for the iOS / tvOS Keychain to allow you to use it in a similar fashion to User Defaults.
+- [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for a set of powerful Objective C runtime functions.
+- [Soto for AWS](https://github.com/soto-project/soto) - Swift language SDK for Amazon Web Services (AWS), working on Linux, macOS and iOS.
 
 ## Other (not lib)
 

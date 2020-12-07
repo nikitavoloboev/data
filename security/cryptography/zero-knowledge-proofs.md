@@ -18,3 +18,4 @@
 - [Zero-Knowledge Proofs for Engineers: Introduction (2020)](https://blog.zkga.me/intro-to-zksnarks)
 - [Why and How zk-Snark Works (2019)](https://arxiv.org/abs/1906.07221) ([HN](https://news.ycombinator.com/item?id=24815649))
 - [SCIPR Lab](http://www.scipr-lab.org/) - Succinct Computational Integrity and Privacy Research. ([GitHub](https://github.com/scipr-lab))
+- [gnark](https://github.com/ConsenSys/gnark) - Fast, open-source library for zero-knowledge proof protocols written in Go.

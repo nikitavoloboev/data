@@ -120,3 +120,4 @@
 - [Jupylet](https://github.com/nir/jupylet) - Python library that lets you create 2D and 3D games, graphics, music and sound synthesizers, interactively in a Jupyter notebook.
 - [Designing The Witcher 3's Most Famous Quest (2020)](https://www.youtube.com/watch?v=5gvVp9cP8xc)
 - [Quake’s 3-D Engine: The Big Picture](https://www.bluesnews.com/abrash/chap70.shtml)
+- [Game UI Database](https://www.gameuidatabase.com/) - Reference tool for interface designers.

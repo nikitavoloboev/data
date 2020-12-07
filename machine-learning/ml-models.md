@@ -13,3 +13,4 @@
 - [Neuralet](https://neuralet.com/) - Open-source platform for edge deep learning models on GPU, TPU, and more. ([Code](https://github.com/neuralet/neuralet))
 - [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [What-If Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding. ([Code](https://github.com/PAIR-code/what-if-tool))
+- [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - Automatic model creation framework.

@@ -43,3 +43,5 @@
 - [Using AWS Lambda to sync an Elastic Load Balancer's Target Groups (2020)](https://emilenijssen.nl/6-aws-lambda-sync-elastic-load-balancer-target-groups/)
 - [AWS Lambda Runtime Interface Emulator](https://github.com/aws/aws-lambda-runtime-interface-emulator)
 - [Integration testing for AWS Lambda in Go with Docker-compose (2020)](https://buddy.works/tutorials/integration-testing-for-aws-lambda-in-go-with-docker-compose)
+- [Optimizing Lambda Cost with Multi-Threading (2020)](https://www.sentiatechblog.com/aws-re-invent-2020-day-3-optimizing-lambda-cost-with-multi-threading)
+- [AWS Lambda Extensions](https://github.com/aws-samples/aws-lambda-extensions) - Collection of sample extensions to help you get started with AWS Lambda Extensions.

@@ -197,7 +197,7 @@
 - [What's in a Linux executable? (2020)](https://fasterthanli.me/series/making-our-own-executable-packer/part-1) ([HN](https://news.ycombinator.com/item?id=24926925))
 - [Paru](https://github.com/Morganamilo/paru) - AUR helper and pacman wrapper.
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines.
-- [Are we Wayland yet?](https://arewewaylandyet.com/) ([Lobsters](https://lobste.rs/s/pmqmzs/are_we_wayland_yet))
+- [Are we Wayland yet?](https://arewewaylandyet.com/) ([Lobsters](https://lobste.rs/s/pmqmzs/are_we_wayland_yet)) ([Code](https://github.com/mpsq/arewewaylandyet))
 - [The Linux Commands Handbook](https://openbootcamps.com/the-linux-commands-handbook/) ([HN](https://news.ycombinator.com/item?id=24995352))
 - [Anatomy of a Binary Executable (2020)](https://oswalt.dev/2020/11/anatomy-of-a-binary-executable/) ([HN](https://news.ycombinator.com/item?id=24994522))
 - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)

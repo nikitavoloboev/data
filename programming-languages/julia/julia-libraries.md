@@ -11,6 +11,8 @@
 - [ONNX](https://github.com/FluxML/ONNX.jl) - Read ONNX graphs in Julia.
 - [ReversePropagation.jl](https://github.com/dpsanders/ReversePropagation.jl) - Julia package for reverse propagation along a syntax tree, using source-to-source transformation via ModelingToolkit.jl.
 - [Metalhead](https://github.com/FluxML/Metalhead.jl) - Computer vision models for Flux.
+- [ChainRules](https://github.com/JuliaDiff/ChainRules.jl) - Forward and reverse mode automatic differentiation primitives for Julia Base + StdLibs.
+- [MiniFastai](https://github.com/mlelarge/MiniFastai.jl) - Mini-version of fast.ai in Julia.
 
 ## Math
 

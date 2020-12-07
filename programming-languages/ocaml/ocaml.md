@@ -66,3 +66,4 @@
 - [OCaml-LSP](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation.
 - [drom](https://github.com/OCamlPro/drom) - Wrapper over opam/dune in an attempt to provide a cargo-like user experience.
 - [On Effectiveness of Exceptions in OCaml](https://lemaetech.co.uk/articles/exceptions.html) ([Reddit](https://www.reddit.com/r/ocaml/comments/k62l15/on_effectiveness_of_exceptions_in_ocaml/))
+- [Memthol](https://github.com/OCamlPro/memthol) - Visualizer for memory profiling data generated from OCaml programs.

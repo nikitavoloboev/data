@@ -51,3 +51,4 @@
 - [Path Tracing with Babylon, Background and Implementation](https://forum.babylonjs.com/t/path-tracing-with-babylon-background-and-implementation/12832)
 - [Lentil](https://www.lentil.xyz/) - Advanced camera toolkit for the Arnold renderer. Ray tracing through real lenses. ([HN](https://news.ycombinator.com/item?id=25045034))
 - [Factorio Raytracer](https://twitter.com/notch/status/1328335971176370181)
+- [rpt](https://github.com/ekzhang/rpt) - Physically-based path tracer in Rust.

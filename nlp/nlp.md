@@ -200,3 +200,5 @@
 - [Multi-Task Learning in NLP](https://github.com/jg8610/multi-task-learning)
 - [FastSeq](https://github.com/microsoft/fastseq) - Provides efficient implementation of popular sequence models (e.g. Bart, ProphetNet) for text generation, summarization, translation tasks etc.
 - [Sentence Embeddings with BERT & XLNet](https://github.com/UKPLab/sentence-transformers)
+- [FastFormers](https://github.com/microsoft/fastformers) - Provides a set of recipes and methods to achieve highly efficient inference of Transformer models for Natural Language Understanding (NLU).
+- [Adversarial NLI](https://github.com/facebookresearch/anli) - Adversarial Natural Language Inference Benchmark.

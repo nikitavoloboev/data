@@ -42,3 +42,4 @@
 - [TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server.
 - [Emonoda](https://github.com/mdevaev/emonoda) - Set of tools to organize and manage your torrents.
 - [Torrent Parts](https://torrent.parts/) - Inspect and edit what's in your Torrent file or Magnet link. ([Code](https://github.com/leoherzog/TorrentParts))
+- [PrivTracker](https://privtracker.tk/) - Private BitTorrent tracker for everyone. ([Code](https://github.com/meehow/privtracker))

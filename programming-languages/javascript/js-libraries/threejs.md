@@ -29,3 +29,4 @@
 - [React Three Editable](https://github.com/AndrewPrifer/react-three-editable) - Edit your react-three-fiber scene with a visual editor without giving up control over your code.
 - [Taichi THREE](https://github.com/taichi-dev/taichi_three) - Node-based soft renderer based on the Taichi Programming Language to render 3D scenes into nice-looking 2D images in real-time.
 - [Scroll, Refraction and Shader Effects in Three.js and React](https://github.com/drcmda/the-substance)
+- [Mannequin.js](https://boytchev.github.io/mannequin.js/) - Articulated Mannequin Figure Library. ([HN](https://news.ycombinator.com/item?id=25302602))

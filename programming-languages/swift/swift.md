@@ -176,3 +176,4 @@
 - [CompileSwift Blog/Podcast](https://www.compileswift.com/)
 - [Shwifty](https://github.com/chessai/shwifty) - Generate Swift types from Haskell types.
 - [Practical Core Data](https://gumroad.com/l/practical-core-data) - Modern guide to the Core Data framework.
+- [Swift Version](https://swiftversion.net/) - Which Swift shipped with which Xcode?

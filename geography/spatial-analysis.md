@@ -38,3 +38,4 @@
 - [FlatGeobuf](https://github.com/bjornharrtell/flatgeobuf) - Performant binary encoding for geographic data based on flatbuffers.
 - [Spatial computing could be the next big thing (2020)](https://www.scientificamerican.com/article/spatial-computing-could-be-the-next-big-thing/) ([HN](https://news.ycombinator.com/item?id=25216621))
 - [Best practices with cloud-optimized-geotiffs (COGs)](https://github.com/pangeo-data/cog-best-practices)
+- [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)

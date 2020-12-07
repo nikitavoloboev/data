@@ -8,3 +8,4 @@
 - [Arrival](https://arrival.com/) - Integrated Transportation Ecosystem. Zero-emission solutions for cities.
 - [Maersk](https://www.maersk.com/) - Integrated Container Logistics & Supply Chain Services.
 - [Blaise Transit](https://www.blaisetransit.com/) - AI-based software platform that allows transit operators to run on-demand bus services using their existing vehicles.
+- [Boundary Layer Technologies](https://www.boundarylayer.tech/) - Building the future of ocean transport.

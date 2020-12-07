@@ -18,3 +18,5 @@
 - [Perl One-Liners Cookbook](https://learnbyexample.github.io/learn_perl_oneliners/one-liner-introduction.html) ([HN](https://news.ycombinator.com/item?id=25006829))
 - [Learn Perl in about 2 hours 30 minutes (2011)](https://qntm.org/perl_en)
 - [Porting from Go to Raku (2020)](https://pinguinorodriguez.cl/blog/porting-from-go/)
+- [Sparrow](https://github.com/melezhik/Sparrow6) - Raku Automation Framework.
+- [SparrowHub](https://sparrowhub.io/) - Sparrow Plugins Repository.

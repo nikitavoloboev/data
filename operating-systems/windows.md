@@ -16,3 +16,4 @@
 - [WinApps for Linux](https://github.com/Fmstrat/winapps) - Run Windows apps in Linux as if they were a part of the native OS. ([HN](https://news.ycombinator.com/item?id=25021261))
 - [wslu](https://github.com/wslutilities/wslu) - Collection of utilities for WSL.
 - [Windows Subsystem for Linux: The lost potential (2020)](https://jmmv.dev/2020/11/wsl-lost-potential.html) ([HN](https://news.ycombinator.com/item?id=25154300))
+- [Fibratus](https://github.com/rabbitstack/fibratus) - Modern tool for the Windows kernel exploration and tracing. ([Web](https://www.fibratus.io/#/))

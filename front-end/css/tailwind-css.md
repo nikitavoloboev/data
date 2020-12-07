@@ -46,3 +46,6 @@
 - [emotion-tailwind-preflight](https://github.com/flogy/emotion-tailwind-preflight) - Merge the shiny TailwindCSS base styles into your CSS-in-JS project.
 - [Tailwind Builder](https://tailwind.build/) - Create Tailwind templates in minutes.
 - [Tailwind Classes Sorter](https://github.com/Acidic9/tailwind-classes-sorter) - Sort tailwind classes in order of default plugins.
+- [I Love Tailwind (2020)](https://mxstbr.com/thoughts/tailwind/) ([HN](https://news.ycombinator.com/item?id=25332101))
+- [Windy](https://usewindy.com/) - Transform every element on any website to Tailwind CSS.
+- [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.

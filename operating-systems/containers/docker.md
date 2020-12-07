@@ -86,3 +86,4 @@
 - [DIP](https://github.com/bibendi/dip) - Docker Interaction Process. Command-line utility that gives the "native" interaction with applications configured with Docker Compose.
 - [Transitioning from Docker to Podman (2020)](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/) ([HN](https://news.ycombinator.com/item?id=25165195))
 - [duct](https://github.com/erikh/duct) - Docker-compose alike functionality directly from Go, for integration testing.
+- [Please Contain Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - Docker tutorial written for people who don't actually know Docker already.

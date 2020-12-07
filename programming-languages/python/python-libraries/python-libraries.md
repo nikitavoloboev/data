@@ -10,6 +10,7 @@
 - [Nameko](https://github.com/nameko/nameko) - Microservices framework for Python that lets service developers concentrate on application logic and encourages testability.
 - [Kore](https://kore.io/) - Easy to use web platform for C and Python.
 - [uvicorn](https://github.com/encode/uvicorn) - Lightning-fast ASGI server. ([Docs](https://www.uvicorn.org/))
+- [Flask](https://github.com/pallets/flask) - Python micro framework for building web applications. ([Docs](https://palletsprojects.com/p/flask/)) ([Flask Admin](https://github.com/flask-admin/flask-admin))
 
 ## ML
 
@@ -242,6 +243,7 @@
 - [entmax](https://github.com/deep-spin/entmax) - PyTorch implementation of entmax and entmax losses: a sparse family of probability mappings and corresponding loss functions, generalizing softmax / cross-entropy.
 - [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python. ([Docs](https://rxpy.readthedocs.io/en/latest/))
 - [Frictionless](https://github.com/frictionlessdata/frictionless-py) - Framework to describe, extract, validate, and transform tabular data. ([Web](https://frictionlessdata.io/))
+- [huey](https://github.com/coleifer/huey) - Little task queue for python.
 
 ## Links
 

@@ -404,3 +404,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [STORROR](https://www.storror.com/) - Pro parkour team. ([Twitter](https://twitter.com/StorrorParkour))
 - [Billionaires Build (2020)](http://paulgraham.com/ace.html) ([HN](https://news.ycombinator.com/item?id=25302527))
+- [Are we yet?](https://wiki.mozilla.org/Areweyet) ([HN](https://news.ycombinator.com/item?id=25326401))
+- [ShapeWorks](https://github.com/SCIInstitute/ShapeWorks) - Open-source software that learns population-specific shape parameterization directly from user data. ([Docs](http://sciinstitute.github.io/ShapeWorks/))
+- [Gum Spy](https://gumspy.com/) - Analyze bestselling Gumroad products in seconds.
+- [Lagstack](https://lagstack.com/) - Modern way to sell your expertise, research, and data. Landing page + Airtable + Gumroad = 💜.

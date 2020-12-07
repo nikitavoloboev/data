@@ -357,3 +357,6 @@
 - [MIT Mądry Lab](http://madry-lab.ml/) - Towards a Principled Science of Deep Learning. ([GitHub](https://github.com/MadryLab))
 - [Scaling Down Deep Learning (2020)](https://greydanus.github.io/2020/12/01/scaling-down/) ([HN](https://news.ycombinator.com/item?id=25314066))
 - [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine (2020)](https://arxiv.org/abs/2012.00152) ([HN](https://news.ycombinator.com/item?id=25314830))
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Leading software for creating deepfakes.
+- [Deep Learning DIY](https://dataflowr.github.io/website/) ([Code](https://github.com/dataflowr/notebooks)) ([GitHub](https://github.com/dataflowr))
+- [Using JAX to accelerate our research (2020)](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) ([HN](https://news.ycombinator.com/item?id=25332526))

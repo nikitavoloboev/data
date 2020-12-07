@@ -186,3 +186,4 @@
 - [Advanced React Security Patterns](https://reactsecurity.io/advanced-react-security-patterns/) - Learn how to Secure your React Apps for the Real World.
 - [react-ssr-prepass](https://github.com/FormidableLabs/react-ssr-prepass) - Custom partial React SSR renderer for prefetching and suspense.
 - [What React refs really are (2020)](https://huth.me/what-react-refs-really-are) ([Lobsters](https://lobste.rs/s/rmlymj/what_react_refs_really_are))
+- [Brahmos](https://github.com/brahmosjs/brahmos) - Supercharged JavaScript library to build user interfaces with modern React API and native templates.

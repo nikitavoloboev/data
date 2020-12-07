@@ -68,7 +68,7 @@
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache) - Require hook for automatic V8 compile cache persistence.
 - [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
 - [node-cpp-skel](https://github.com/mapbox/node-cpp-skel) - Skeleton for bindings to C++ libraries for Node.js using node-addon-api.
-- [Domain-Driven Design w/ TypeScript & Node.js](https://khalilstemmler.com/courses/domain-driven-design-typescript/)
+- [Domain-Driven Design w/ TypeScript & Node.js](https://khalilstemmler.com/courses/domain-driven-design-typescript/) ([Vinyl-Trading enterprise app built with Node.js + TypeScript using Domain-Driven Design](https://github.com/stemmlerjs/white-label))
 - [Official Docker Image for Node.js](https://github.com/nodejs/docker-node)
 - [Learn ES Modules in Node with Myles Borins (2020)](https://www.youtube.com/watch?v=qeCncjPWD1A)
 - [Node File Trace](https://github.com/vercel/nft) - Determine exactly which files (including node_modules) are necessary for the application runtime.

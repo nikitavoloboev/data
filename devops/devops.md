@@ -45,3 +45,4 @@
 - [Cooking Infrastructure by Chef](http://chef.leopard.in.ua/) ([Code](https://github.com/le0pard/chef_book))
 - [Unleash](https://github.com/Unleash/unleash) - Open source feature toggle service. ([Web](https://unleash.github.io/))
 - [The golden age of configuration languages (2020)](https://cosminilie.ro/posts/evolution-of-configuration-languages/) ([HN](https://news.ycombinator.com/item?id=25160461))
+- [School of SRE](https://linkedin.github.io/school-of-sre/) ([Code](https://github.com/linkedin/school-of-sre))

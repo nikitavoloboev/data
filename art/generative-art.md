@@ -84,3 +84,7 @@
 - [Vodka](https://github.com/eeeeaaii/vodka) - Creative Coding Environment. ([HN](https://news.ycombinator.com/item?id=25152882))
 - [Observable & creative coding (2020)](https://observablehq.com/@makio135/creative-coding)
 - [Callum's Sketchbook](https://sketchbook.macr.ae/) ([Code](https://github.com/callumacrae/sketchbook))
+- [Models of Interaction](https://github.com/prathyvsh/models-of-interaction) - Catalogue of models of interaction. Part of the trilogy on models of computers/interaction/computation.
+- [Etienne Jacob's Animations](https://bleuje.github.io/animations/) ([Code](https://github.com/Bleuje/bleuje.github.io))
+- [Interview with Etienne Jacob (2020)](https://www.generativehut.com/post/interview-with-etienne-jacob)
+- [wavegrower's animations](https://wavegrower.tumblr.com/) ([Code](https://www.openprocessing.org/user/44137))

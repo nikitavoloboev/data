@@ -65,3 +65,6 @@
 - [btcd](https://github.com/btcsuite/btcd) - Alternative full node bitcoin implementation written in Go.
 - [Rust Bitcoin Library](https://github.com/rust-bitcoin/rust-bitcoin) - Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
 - [Michael Flaxman Research](https://www.michaelflaxman.com/)
+- [Lightning Node Management](https://openoms.gitbook.io/lightning-node-management/) - Beginner friendly resources to manage a routing node on the Lightning Network. ([Code](https://github.com/openoms/lightning-node-management))
+- [Bitcoin Tutorials](https://openoms.github.io/bitcoin-tutorials/) - Guides for the RaspiBlitz and Linux desktop. ([Code](https://github.com/openoms/bitcoin-tutorials))
+- [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind.

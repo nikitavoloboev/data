@@ -40,3 +40,6 @@
 - [misha](https://github.com/tanaylab/misha) - Genomic data analysis suite.
 - [MetaCell R](https://github.com/tanaylab/metacell) - Single-cell mRNA Analysis.
 - [nf-core/eager](https://github.com/nf-core/eager) - Bioinformatics best-practice analysis pipeline for NGS sequencing based ancient DNA (aDNA) data analysis.
+- [GenomicSQLite](https://github.com/mlin/GenomicSQLite) - Genomics Extension for SQLite.
+- [gfabase](https://github.com/mlin/gfabase) - Command-line utility for random-access storage of Graphical Fragment Assembly (GFA) data.
+- [GenomeSpy](https://genomespy.app/) - Genome visualization tool with a grammar of graphics and WebGL-powered fluid interactions. ([Code](https://github.com/tuner/genome-spy))

@@ -51,3 +51,4 @@
 - [Twurl](https://github.com/twitter/twurl) - OAuth-enabled curl for the Twitter API.
 - [I Made a Self-Quoting Tweet (2020)](https://oisinmoran.com/quinetweet) ([HN](https://news.ycombinator.com/item?id=25244872))
 - [Tools for fighting abuse on Twitter](https://github.com/travisbrown/cancel-culture) - Contains some low-tech tools designed to help you make Twitter a nicer place for yourself.
+- [DownloadThisVideo](https://thisvid.space/) - Download videos and GIFs off Twitter. ([Code](https://github.com/shalvah/DownloadThisVideo))

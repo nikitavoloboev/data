@@ -55,6 +55,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Quill](https://quilljs.com/) - Powerful rich text editor. ([Code](https://github.com/quilljs/quill)) ([Awesome Quill](https://github.com/quilljs/awesome-quill))
 - [react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React.
 - [react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting.
+- [React SimpleMDE](https://github.com/RIP21/react-simplemde-editor) - React wrapper for SimpleMDE markdown editor.
 
 ## Links
 

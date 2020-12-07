@@ -52,6 +52,9 @@
 
 ## GUI
 
+- [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM.
+- [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
+- [skulpin](https://github.com/aclysma/skulpin) - Easy option for drawing hardware-accelerated 2D by combining vulkan and skia.
 - [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
@@ -133,7 +136,7 @@
 
 ## IO
 
-- [Mio](https://github.com/carllerche/mio) - Metal IO library.
+- [Mio](https://github.com/tokio-rs/mio) - Metal IO library.
 
 ## UI
 
@@ -169,6 +172,7 @@
 
 - [mach](https://github.com/fitzgen/mach) - Rust interface to the Mach 3.0 kernel that underlies macOS.
 - [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS).
+- [Fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries.
 
 ## Macros
 

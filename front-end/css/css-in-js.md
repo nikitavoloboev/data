@@ -29,3 +29,4 @@
 - [Fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript. ([Docs](https://github.com/robinweser/fela))
 - [Reverse Engineering Styled Components (2020)](https://makersden.io/blog/reverse-engineering-styled-components)
 - [clsx](https://github.com/lukeed/clsx) - Tiny utility for constructing `className` strings conditionally.
+- [Stylewars](https://github.com/sunesimonsen/stylewars) - Tiny CSS in JS library that requires no tooling.

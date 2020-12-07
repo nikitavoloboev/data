@@ -140,6 +140,7 @@
 - [lexy](https://github.com/foonathan/lexy) - C++ parser combinator library.
 - [PEGTL](https://github.com/taocpp/PEGTL) - Parsing Expression Grammar Template Library. Zero-dependency C++ header-only parser combinator library for creating parsers according to a Parsing Expression Grammar (PEG).
 - [incbin](https://github.com/graphitemaster/incbin) - Include binary files in C/C++.
+- [uDepot](https://github.com/IBM/uDepot) - Multi-threaded, scalable, persistent store that is flash optimized by using a log-structured space allocation and GC framework.
 
 ## Links
 

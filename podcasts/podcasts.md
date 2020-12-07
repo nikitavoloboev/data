@@ -123,7 +123,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
 - [Podcast Notes](https://podcastnotes.org/)
 - [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.
-- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine. ([API](https://www.listennotes.com/api/)) ([HN](https://news.ycombinator.com/item?id=25139833))
+- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine. ([API](https://www.listennotes.com/api/)) ([HN](https://news.ycombinator.com/item?id=25139833)) ([How I accidentally built an API business](https://www.listennotes.com/blog/how-i-accidentally-built-an-api-business-46/))
 - [Podcast Search](https://atshpthmkhc-app.azurewebsites.net/) - Full Text Search on Podcasts. ([HN](https://news.ycombinator.com/item?id=23036016))
 - [Winds](https://getstream.io/winds/) - Beautiful Open Source Podcast & RSS Reader created by Stream. ([Code](https://github.com/GetStream/Winds))
 - [Mixtape](https://mixtape.preslav.me/) - Search engine for podcasts. Discover and subscribe to topics you like.
@@ -150,3 +150,6 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcast Hosting Review](https://podcasthosting.review/) - Reviews of popular podcast hosting platforms.
 - [Poise](https://www.narratedbypoise.com/) - Text-to-podcast: Repurpose any content into podcasts. ([HN](https://news.ycombinator.com/item?id=25117894))
 - [Capiche FM](https://capiche.fm/) - Turn phone calls into livestreamed radio shows.
+- [Fame](https://www.fame.so/) - Grow Your B2B Business With A Profitable Podcast.
+- [An Ode to Podcasting (2020)](https://eriktorenberg.substack.com/p/an-ode-to-podcasting) - Lessons learned from recording 500 podcasts.
+- [On Deck Podcaster Fellowship](https://www.beondeck.com/podcasters)

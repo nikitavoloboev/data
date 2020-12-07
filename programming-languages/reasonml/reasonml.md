@@ -67,3 +67,4 @@
 - [ReScript Syntax](https://github.com/rescript-lang/syntax) - ReScript parser & printer.
 - [Rust ReScript Demo](https://github.com/shakacode/rust-rescript-demo)
 - [bsconfig.json](https://github.com/idkjs/bsconfig.json) - Quickly create an opinionated bsconfig.json.
+- [Rescript Editor Support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.

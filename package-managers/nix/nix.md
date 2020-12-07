@@ -62,7 +62,7 @@
 - [Nix for devs](https://github.com/uniphil/nix-for-devs) - Collection of recipes focused on nix-shell to make setting up project environments easy.
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 - [Nix builder for Kubernetes](https://gist.github.com/tazjin/08f3d37073b3590aacac424303e6f745)
-- [Nixery](http://nixery.dev/nixery.html) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server. ([Code](https://github.com/google/nixery))
+- [Nixery](http://nixery.dev/nixery.html) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server. ([Code](https://github.com/google/nixery)) ([Talk](https://www.youtube.com/watch?v=pOI9H4oeXqA))
 - [Nixery: Improved Layering Design (2019)](https://tazj.in/blog/nixery-layers)
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
 - [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore.nix)
@@ -152,3 +152,4 @@
 - [On-demand linked libraries for Nix (2020)](https://fzakaria.com/2020/11/17/on-demand-linked-libraries-for-nix.html) ([Lobsters](https://lobste.rs/s/nawo6d/on_demand_linked_libraries_for_nix))
 - [Towards a content-addressed model for Nix (2020)](https://www.tweag.io/blog/2020-09-10-nix-cas/)
 - [deploy-rs](https://github.com/serokell/deploy-rs) - Simple, multi-profile Nix-flake deploy tool.
+- [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix) - One-stop reference to build TodoMVC application inside the Nix world.

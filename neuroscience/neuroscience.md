@@ -46,6 +46,7 @@
 - [Deep Neural Networks Help to Explain Living Brains (2020)](https://www.quantamagazine.org/deep-neural-networks-help-to-explain-living-brains-20201028/)
 - [It takes two neurons to ride a bicycle – Matthew Cook](http://paradise.caltech.edu/~cook/papers/TwoNeurons.pdf)
 - [Tracking the temporal dynamics of cultural perceptual diversity in visual information processing (2014)](http://theses.gla.ac.uk/5055/2/2014LaoPhD.pdf)
+- [Is neuroscience the key to protecting AI from adversarial attacks? (2020)](https://bdtechtalks.com/2020/12/07/vonenet-neurscience-inspired-deep-learning/)
 
 ## Images
 

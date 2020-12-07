@@ -66,3 +66,4 @@
 - [Learn Elixir by making 5 small games](https://alchemist.camp/little-potions/hello-world.html)
 - [Sand](https://sand.rty.party/) - Sandbox for Elixir. ([Code](https://github.com/bopjesvla/sand))
 - [Elixir Community of Practice](https://github.com/adolfont/elixir_cop) - Resources on learning Elixir.
+- [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)

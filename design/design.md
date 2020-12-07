@@ -151,3 +151,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Free & open-source 2D sprite editor, made with the Godot Engine. ([Web](https://orama-interactive.itch.io/pixelorama))
 - [Designing User Interfaces Book](https://designingui.com/)
 - [Overlay](https://overlay-tech.com/) - Transform your design components into clean React, Vue and HTML components. Supports Figma & Sketch.
+- [Staff Design](https://staff.design/) - Conversations with high-impact individual contributors in product design.

@@ -104,3 +104,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Grapefruit Is One of the Weirdest Fruits on the Planet](https://www.atlasobscura.com/articles/grapefruit-history-and-drug-interactions)
 - [OneSoil](https://onesoil.ai/en/) - Free precision farming apps.
 - [Hectare](https://hectare.ag/) - Simple tools for precision agriculture.
+- [Yeti Cheese](https://yeticheese.com/) - Real cheese, made from plants.

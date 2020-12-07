@@ -182,3 +182,5 @@
 - [JAX, M.D.](https://github.com/google/jax-md) - Accelerated, Differentiable, Molecular Dynamics. ([Paper](https://arxiv.org/abs/1912.04232))
 - [Neural Reverse Engineering of Stripped Binaries using Augmented Control Flow Graphs](https://github.com/tech-srl/Nero)
 - [NN SVG](https://alexlenail.me/NN-SVG/AlexNet.html) - Generate publication-ready NN-architecture schematics. ([HN](https://news.ycombinator.com/item?id=25272360))
+- [e3nn](https://github.com/e3nn/e3nn) - Modular framework for neural networks with Euclidean symmetry.
+- [Delve](https://github.com/delve-team/delve) - Python package for visualizing deep learning model training.

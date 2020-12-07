@@ -68,3 +68,4 @@
 - [How to have a difficult conversation (2020)](https://psyche.co/guides/use-mediation-techniques-to-overcome-the-muck-of-blame-and-anger)
 - [Ask HN: How to effectively communicate results of my work to non-engineers? (2020)](https://news.ycombinator.com/item?id=25185619)
 - [Date-Night Questions](https://datenightquestions.com/) - Questions to help you know your friends & loved ones better.
+- [Ask HN: How to figure out if someone is smart during a casual conversation? (2020)](https://news.ycombinator.com/item?id=25326961)

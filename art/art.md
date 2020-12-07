@@ -125,6 +125,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tega Brain](http://www.tegabrain.com/)
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)
+- [Nekro](https://www.artstation.com/nekro)
 - [Sabina Lewis](https://www.instagram.com/sabina_lewis/)
 - [Edward Hopper](https://www.wikiart.org/en/edward-hopper) ([Shirley: Visions of Reality](https://www.youtube.com/watch?v=rcQ4JKxxukY)) ([Exhibition](https://www.fondationbeyeler.ch/en/exhibitions/edward-hopper))
 - [Ariel González Losada](https://www.flickr.com/people/99778654@N05/)
@@ -187,6 +188,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Weilard](https://www.deviantart.com/weilard)
 - [Nick Archer](https://www.instagram.com/archer.nick/)
 - [Ian Spriggs](https://ianspriggs.com/) - 3D Portrait Character Artist.
+- [Sara Kipin](https://www.instagram.com/sara_kipin/) ([Web](http://www.sarakipin.com/))
 - [Charles van den Eycken](https://www.invaluable.com/artist/eycken-charles-van-den-1859-0l00jbqpg4/sold-at-auction-prices/) ([Tweet](https://twitter.com/CGdrawing/status/1276403951135453184))
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)

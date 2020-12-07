@@ -9,3 +9,4 @@
 - [What You Always Wanted to Know About Datalog (1989)](https://personal.utdallas.edu/~gupta/courses/acl/papers/datalog-paper.pdf)
 - [Intro to DDlog (2020)](https://chasewilson.dev/blog/intro-to-ddlog/)
 - [hsdatalog](https://github.com/chessai/hsdatalog) - Compiler from Datalog to relational algebra, as well as an interpreter for relational algebra that uses binary decision diagrams (BDDs).
+- [Crepe](https://github.com/ekzhang/crepe) - Datalog compiler in Rust as a procedural macro.

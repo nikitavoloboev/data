@@ -86,3 +86,5 @@
 - [YaCy](https://yacy.net/) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance. ([Code](https://github.com/yacy/yacy_search_server))
 - [We can do better than DuckDuckGo (2020)](https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html) ([HN](https://news.ycombinator.com/item?id=25127371))
 - [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation.
+- [Xapiand](https://github.com/Kronuz/Xapiand) - Modern Highly Available Distributed RESTful Search and Storage Engine built for the Cloud and with Data Locality in mind. ([Web](https://kronuz.io/Xapiand/))
+- [NZBHydra](https://github.com/theotherp/nzbhydra2) - Meta search for newznab indexers and torznab trackers.

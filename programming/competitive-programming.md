@@ -20,3 +20,8 @@
 - [Online Judge Solutions in C++](https://github.com/marioyc/Online-Judge-Solutions)
 - [Competitive Programming Solutions in C++](https://github.com/VastoLorde95/Competitive-Programming)
 - [Competitive Programming Snippets in Rust](https://github.com/kenkoooo/competitive-programming-rs)
+- [USA Computing Olympiad](http://usaco.org/)
+- [Prepare for competitive programming](https://noi.ph/prepare/)
+- [C++ implementations of useful algorithms and data structures for competitive programming](https://ekzlib.herokuapp.com/home)
+- [Algorithmic Problem Solving](https://github.com/jilljenn/tryalgo) - Algorithms and data structures for preparing programming competitions: basic and advanced.
+- [Competitive programming solutions in Rust](https://github.com/Vicfred/kyopro)

@@ -64,3 +64,4 @@
 - [icons.land](https://icons.land/) - Search engine and API for icons from popular packs. ([Code](https://github.com/namiwang/icons-land))
 - [SVGBox](https://svgbox.net/) - API for Web Icons.
 - [Remix Icon](https://remixicon.com/) - Open source icon library. ([Code](https://github.com/Remix-Design/RemixIcon))
+- [Fantasticon](https://github.com/tancredi/fantasticon) - Easy-to-use, pre-configured cli tool to generate web-font icon kits from .svg files.

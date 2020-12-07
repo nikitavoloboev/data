@@ -19,3 +19,4 @@
 - [SmartGuitarAmp](https://github.com/keyth72/SmartGuitarAmp) - Guitar plugin made with deep learning. ([HN](https://news.ycombinator.com/item?id=24740266))
 - [PedalNetRT](https://github.com/keyth72/PedalNetRT) - Deep Learning Networks for Real Time Guitar Effect Emulation.
 - [Fretboard Trainer](https://fretboard-trainer.netlify.app/) - Memorize the guitar fretboard quickly.
+- [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras. ([Web](https://guitarml.com/))

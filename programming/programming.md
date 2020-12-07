@@ -288,3 +288,4 @@
 - [Production Oriented Development (2019)](https://paulosman.me/2019/12/30/production-oriented-development.html) ([HN](https://news.ycombinator.com/item?id=25170547))
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) ([HN](https://news.ycombinator.com/item?id=25300310))
 - [Programiz](https://www.programiz.com/) - Learn to Code for Free.
+- [How to Make Your Code Reviewer Fall in Love with You (2020)](https://mtlynch.io/code-review-love/) ([HN](https://news.ycombinator.com/item?id=25330182))

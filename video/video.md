@@ -164,3 +164,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [minih264](https://github.com/lieff/minih264) - Minimalistic H264/SVC encoder single header library.
 - [Cast All The Things](https://github.com/skorokithakis/catt) - Allows you to send videos from many, many online sources to your Chromecast.
 - [Boltstream](https://github.com/benwilber/boltstream) - Self-hosted full end-to-end live video streaming platform. ([HN](https://news.ycombinator.com/item?id=25328622))
+- [AviSynth](https://avs-plus.net/) - Powerful tool for video post-production. It provides ways of editing and processing videos. ([Code](https://github.com/AviSynth/AviSynthPlus))
