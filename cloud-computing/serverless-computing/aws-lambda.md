@@ -42,3 +42,4 @@
 - [Determine prominent colors in a picture, your first AWS Lambda in Go (2020)](https://buddy.works/tutorials/determine-prominent-colors-in-a-picture-your-first-aws-lambda-in-go)
 - [Using AWS Lambda to sync an Elastic Load Balancer's Target Groups (2020)](https://emilenijssen.nl/6-aws-lambda-sync-elastic-load-balancer-target-groups/)
 - [AWS Lambda Runtime Interface Emulator](https://github.com/aws/aws-lambda-runtime-interface-emulator)
+- [Integration testing for AWS Lambda in Go with Docker-compose (2020)](https://buddy.works/tutorials/integration-testing-for-aws-lambda-in-go-with-docker-compose)

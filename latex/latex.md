@@ -55,7 +55,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Research Logbook](https://github.com/JJGO/research-logbook) - Simple yet powerful LaTeX template for research notebook with modular components and a wide variety of tools.
 - [LyX](https://www.lyx.org/) - Document Processor. ([HN](https://news.ycombinator.com/item?id=24820428)) ([Code](https://github.com/cburschka/lyx))
 - [kaobook](https://github.com/fmarotta/kaobook) - LaTeX class for books, reports or theses.
-- [Tectonic](https://github.com/tectonic-typesetting/tectonic) - Modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. ([Web](https://tectonic-typesetting.github.io/en-US/))
+- [Tectonic](https://github.com/tectonic-typesetting/tectonic) - Modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. ([Web](https://tectonic-typesetting.github.io/en-US/)) ([HN](https://news.ycombinator.com/item?id=25328874))
 - [XymosTeX](https://github.com/xymostech/XymosTeX) - Attempt to build an implementation of TeX in Rust.
 - [InstaTeX](https://instatex.vercel.app/) - Minimal TeX equation editor in the browser.
 - [SpanDeX](https://github.com/rust-spandex/spandex) - Modern alternative to LaTeX written in Rust. ([Docs](https://rust-spandex.github.io/))

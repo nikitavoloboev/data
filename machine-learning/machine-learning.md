@@ -356,3 +356,4 @@
 - [ML/CV/NLP study resources](https://github.com/mileistone/study_resources)
 - [MIT Mądry Lab](http://madry-lab.ml/) - Towards a Principled Science of Deep Learning. ([GitHub](https://github.com/MadryLab))
 - [Scaling Down Deep Learning (2020)](https://greydanus.github.io/2020/12/01/scaling-down/) ([HN](https://news.ycombinator.com/item?id=25314066))
+- [Every Model Learned by Gradient Descent Is Approximately a Kernel Machine (2020)](https://arxiv.org/abs/2012.00152) ([HN](https://news.ycombinator.com/item?id=25314830))

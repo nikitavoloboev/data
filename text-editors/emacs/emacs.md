@@ -37,8 +37,8 @@ Might give it a go sometime.
 - [Modern Emacs](http://www.modernemacs.com/) - Details a journey learning and hacking on Emacs.
 - [Lobsters: Whats your emacs setup like? (2019)](https://lobste.rs/s/754vk6/whats_your_emacs_setup_like)
 - [EmacsConf](https://emacsconf.org/) - Conference about the joy of Emacs, Emacs Lisp, and memorizing key sequences.
-- [EmacsConf 2019 videos](https://lists.gnu.org/archive/html/emacsconf-discuss/2019-11/msg00002.html)
-- [EmacsConf 2020 videos](https://lists.gnu.org/archive/html/emacsconf-discuss/2020-12/msg00000.html)
+- [EmacsConf 2019 Talks](https://lists.gnu.org/archive/html/emacsconf-discuss/2019-11/msg00002.html)
+- [EmacsConf 2020 Talks](https://lists.gnu.org/archive/html/emacsconf-discuss/2020-12/msg00000.html) ([HN](https://news.ycombinator.com/item?id=25324311))
 - [Consistent Technical Documents Using Emacs and Org Mode (2019)](https://www.youtube.com/watch?v=0g9BcZvQbXU)
 - [Emacs: The Editor for the Next Forty Years](https://media.emacsconf.org/2019/26.html) ([HN](https://news.ycombinator.com/item?id=21638197)) ([Lobsters](https://lobste.rs/s/qzu97s/emacs_editor_for_next_forty_years))
 - [Emacs - Productivity Tricks/Hacks](http://www.mycpu.org/emacs-productivity-setup/) ([HN](https://news.ycombinator.com/item?id=22129636))
