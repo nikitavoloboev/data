@@ -426,3 +426,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [NoCode Portal](https://www.nocodeportal.com/) - List of no code tools.
 - [The Tech Stack of a One-Man SaaS (2020)](https://panelbear.com/blog/tech-stack/) ([HN](https://news.ycombinator.com/item?id=25186342))
 - [An ex-Googler’s guide to dev tools (2020)](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/) ([HN](https://news.ycombinator.com/item?id=25217291))
+- [10 Awesome Github Repos Every Web Developer Should Know](https://thesmartcoder.dev/10-awesome-github-repos-every-web-developer-should-know/)
