@@ -8,3 +8,4 @@
 - [Bumaga](https://paperpaper.ru/)
 - [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians) - Curating the best projects that were made and mainly contributed by Russian developers.
 - [Про страхи Путина, психа Лукашенко и геев в армии (2020)](https://www.youtube.com/watch?v=pMWyzudWioY)
+- [Russian Urban Exploration](https://rusue.com/)

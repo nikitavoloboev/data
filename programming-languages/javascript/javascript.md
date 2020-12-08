@@ -15,7 +15,7 @@
 ## Links
 
 - [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
-- [Modern Javascript Tutorial](https://javascript.info/)
+- [Modern JavaScript Tutorial](https://javascript.info/) ([HN](https://news.ycombinator.com/item?id=25333350))
 - [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
 - [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)

@@ -137,4 +137,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Games for a Plague Year (2020)](https://www.dampfkraft.com/games/games-for-a-plague-year.html)
 - [The RuneScape Documentary - 15 Years of Adventure (2017)](https://www.youtube.com/watch?v=7RNK0YBdwko)
 - [On Small Games](https://lorenzo.itch.io/on-small-games) ([HN](https://news.ycombinator.com/item?id=25188542))
-- [Apple Silicon Games](https://applesilicongames.com/)
+- [Apple Silicon Games](https://applesilicongames.com/) ([HN](https://news.ycombinator.com/item?id=25342385))

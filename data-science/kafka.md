@@ -24,3 +24,4 @@
 - [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka running on Kubernetes. ([Web](https://strimzi.io/))
 - [Trubka](https://github.com/xitonix/trubka) - CLI tool for Kafka written in Go.
 - [franz-go](https://github.com/twmb/franz-go) - High performance, pure Go library for interacting with Kafka.
+- [Kafka is not a Database (2020)](https://materialize.com/kafka-is-not-a-database/) ([HN](https://news.ycombinator.com/item?id=25346851)) ([Tweet](https://twitter.com/martinkl/status/1336336852890963977))

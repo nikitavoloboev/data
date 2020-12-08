@@ -17,3 +17,4 @@
 - [Quantum circuit for the fast Fourier transform (2020)](https://link.springer.com/article/10.1007/s11128-020-02776-5)
 - [Fourier Transforms With scipy.fft: Python Signal Processing (2020)](https://realpython.com/python-scipy-fft/)
 - [VkFFT](https://github.com/dtolm/VkFFT) - Vulkan Fast Fourier Transform library. ([HN](https://news.ycombinator.com/item?id=25156956))
+- [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? (2020)](https://www.youtube.com/watch?v=h7apO7q16V0)

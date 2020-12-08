@@ -227,3 +227,4 @@
 - [LinuxBoot Book](https://github.com/linuxboot/book)
 - [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
 - [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+- [Welder](https://github.com/pch/welder) - Set up your Linux server with plain shell scripts.

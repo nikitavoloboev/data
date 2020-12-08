@@ -289,3 +289,5 @@
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html) ([HN](https://news.ycombinator.com/item?id=25300310))
 - [Programiz](https://www.programiz.com/) - Learn to Code for Free.
 - [How to Make Your Code Reviewer Fall in Love with You (2020)](https://mtlynch.io/code-review-love/) ([HN](https://news.ycombinator.com/item?id=25330182))
+- [Software Design for Flexibility](https://mitpress.mit.edu/books/software-design-flexibility) ([HN](https://news.ycombinator.com/item?id=25322938))
+- [Adventures in Advanced Symbolic Programming (2020)](http://groups.csail.mit.edu/mac/users/gjs/6.945/)

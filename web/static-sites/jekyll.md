@@ -17,3 +17,4 @@
 ## Links
 
 - [How to use Simply Jekyll features on your website](https://simply-jekyll.netlify.app/posts/how-to-use-simply-jekyll-features-on-your-website)
+- [Goodbye WordPress, I've Switched To Jekyll (2020)](https://kevq.uk/goodbye-wordpress-switched-to-jekyll/)

@@ -49,6 +49,7 @@
 - [ScalaPy](https://github.com/shadaj/scalapy) - Allows you to use any Python library from your Scala code with an intuitive API.
 - [Treadle](https://github.com/freechipsproject/treadle) - Experimental circuit simulator that executes low Firrtl IR.
 - [graalnative4s](https://github.com/usommerl/graalnative4s) - Employ Scala for serverless applications.
+- [Cats Effect](https://github.com/typelevel/cats-effect) - Purely functional runtime system for Scala.
 
 ## Links
 

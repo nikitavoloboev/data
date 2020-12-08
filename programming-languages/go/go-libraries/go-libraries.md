@@ -30,6 +30,7 @@
 - [Box CLI Maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 - [Env](https://github.com/xyproto/env) - Provide default values when fetching environment variables.
 - [Multi Progress Bar](https://github.com/vbauerster/mpb) - Go lib for rendering progress bars in terminal applications.
+- [color](https://github.com/fatih/color) - Color package for Go.
 
 ## Test
 
@@ -97,6 +98,8 @@
 - [go-zero](https://github.com/tal-tech/go-zero) - Web and rpc framework that with lots of engineering practices builtin.
 - [libchan](https://github.com/docker/libchan) - Like Go channels over the network.
 - [Uhaha](https://github.com/tidwall/uhaha) - High Availabilty Framework for Happy Data.
+- [httpcache](https://github.com/gregjones/httpcache) - Transport for http.Client that will cache responses according to the HTTP RFC.
+- [daz](https://github.com/stevelacy/daz) - Composable HTML components in Go.
 
 ## GraphQL
 
@@ -186,6 +189,7 @@
 - [go-fuse](https://github.com/hanwen/go-fuse) - Go native bindings for the FUSE kernel module.
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs.
+- [go-eBPF](https://github.com/cilium/ebpf) - Pure Go library that provides utilities for loading, compiling, and debugging eBPF programs.
 
 ## Other
 
@@ -620,6 +624,8 @@
 - [jwt](https://github.com/cristalhq/jwt) - JSON Web Token for Go.
 - [go-set](https://github.com/scylladb/go-set) - Type-safe, zero-allocation sets for Go.
 - [slice](https://github.com/go-dash/slice) - Functional utilities from Lodash for working with slices in Go.
+- [go-yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
+- [Feature flags API in Go](https://github.com/AntoineAugusti/feature-flags)
 
 ## Links
 

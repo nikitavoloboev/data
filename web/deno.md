@@ -55,3 +55,4 @@
 - [Kopo Cli](https://github.com/littletof/kopo-cli) - Deno registry browser in the terminal.
 - [Stampede](https://github.com/bashovski/stampede) - Deno REST framework/eco-system. ([HN](https://news.ycombinator.com/item?id=25094724))
 - [deno-redis](https://github.com/denodrivers/redis) - Redis client for Deno.
+- [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS.

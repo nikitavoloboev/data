@@ -19,10 +19,13 @@ I publish most of my work and make it open source for other people to use and re
 - [egoist](https://github.com/egoist) - Showing sponsors is nice.
 - [Phil Pluckthun](https://github.com/kitten)
 - [Brandon Bayer](https://github.com/flybayer) - Nice & clear calls to action.
+- [Piotr Chmolowski](https://github.com/pch) - Clean.
 
 ## Great GitHub readme
 
 - [lichess](https://github.com/ornicar/lila/) - Clean & to the point.
+- [Siren](https://github.com/vsitzmann/siren) - Like the Project Page | Paper | Data links links + no extra things in readme.
+- [next.js](https://github.com/vercel/next.js/) - Clean, nice logo.
 
 ## Notes
 
@@ -165,3 +168,5 @@ I publish most of my work and make it open source for other people to use and re
 - [Highfive](https://github.com/servo/highfive) - GitHub hooks to provide an encouraging atmosphere for new contributors.
 - [recent](https://github.com/yoshuawuyts/recent) - Get the recent issues and pull-requests on github.
 - [github auth.js](https://github.com/octokit/auth.js) - GitHub API authentication library for JavaScript and Node.js.
+- [GitHub Universe](https://githubuniverse.com/) ([Code](https://github.com/githubevents/universe2020))
+- [Style your readme using CSS](https://github.com/sindresorhus/css-in-readme-like-wat)

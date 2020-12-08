@@ -28,6 +28,7 @@
 - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod) - Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 - [SymPy](https://github.com/sympy/sympy) - Computer algebra system written in pure Python.
 - [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
+- [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - Mobility analysis in Python.
 
 ## Biology
 
@@ -244,6 +245,7 @@
 - [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python. ([Docs](https://rxpy.readthedocs.io/en/latest/))
 - [Frictionless](https://github.com/frictionlessdata/frictionless-py) - Framework to describe, extract, validate, and transform tabular data. ([Web](https://frictionlessdata.io/))
 - [huey](https://github.com/coleifer/huey) - Little task queue for python.
+- [Tree](https://github.com/deepmind/tree) - Library for working with nested data structures.
 
 ## Links
 

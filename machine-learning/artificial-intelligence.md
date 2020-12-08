@@ -50,3 +50,4 @@
 - [EleutherAI](https://www.eleuther.ai/) - Grassroots AI research group aimed at democratizing and open sourcing AI research.
 - [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+- [State of the Art AI](https://www.stateoftheart.ai/) - Open-data and free platform built by the research community to facilitate the collaborative development of AI.

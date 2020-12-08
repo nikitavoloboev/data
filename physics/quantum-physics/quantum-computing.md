@@ -56,3 +56,4 @@
 - [Quantum Winter School: Introduction to Quantum Computing and Materials (2020)](https://sites.dartmouth.edu/quantum-spin-lab/quantum-winter-school-2020/)
 - [Unitary Fund](https://unitary.fund/) - Non-profit working to create a quantum technology ecosystem that benefits the most people.
 - [Xanadu Quantum Cloud](https://www.xanadu.ai/) - Start building quantum applications today. ([GitHub](https://github.com/XanaduAI))
+- [Google Quantum AI](https://quantumai.google/) - Advancing the state of the art of quantum computing and developing the tools for researchers to operate beyond classical capabilities.

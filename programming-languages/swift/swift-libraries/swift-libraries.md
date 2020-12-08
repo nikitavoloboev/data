@@ -120,6 +120,7 @@
 - [Kanvas](https://github.com/tumblr/kanvas-ios) - iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 - [ComponentKit](https://github.com/facebook/componentkit) - View framework for iOS that is heavily inspired by React. ([Web](https://componentkit.org/))
 - [ColorKit](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
+- [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection for iOS (Swift).
 
 ## macOS
 
@@ -207,6 +208,10 @@
 ## DB
 
 - [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
+
+## Graphics
+
+- [Swift Graphics](https://github.com/fwcd/swift-graphics) - Cross-platform 2D graphics library for Swift.
 
 ## Other
 
@@ -494,6 +499,8 @@
 - [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - Simple wrapper for the iOS / tvOS Keychain to allow you to use it in a similar fashion to User Defaults.
 - [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for a set of powerful Objective C runtime functions.
 - [Soto for AWS](https://github.com/soto-project/soto) - Swift language SDK for Amazon Web Services (AWS), working on Linux, macOS and iOS.
+- [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - Tool to convert Swift code to Kotlin.
+- [Swift Distributed Tracing](https://github.com/apple/swifnt-distributed-tracing) - Collection of Swift libraries enabling the instrumentation of server side applications using tools such as tracers.
 
 ## Other (not lib)
 

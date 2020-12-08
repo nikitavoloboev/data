@@ -131,6 +131,8 @@
 - [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) - Linear Operators for Julia.
 - [Images.jl](https://github.com/JuliaImages/Images.jl) - Image library for Julia.
 - [Match.jl](https://github.com/kmsquire/Match.jl) - Advanced Pattern Matching for Julia.
+- [PlutoUI.jl](https://github.com/fonsp/PlutoUI.jl) - Tiny package to make HTML input tag a bit more Julian.
+- [Fermionic](https://github.com/Marco-Di-Tullio/Fermionic.jl) - Toolkit for fermonic quantum computation in Julia.
 
 ## Links
 

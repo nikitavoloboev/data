@@ -65,3 +65,4 @@
 - [Why We're Building Observable (2020)](https://observablehq.com/@observablehq/why-were-building-observable) ([HN](https://news.ycombinator.com/item?id=25161409))
 - [Global population density graphic (2020)](https://twitter.com/undertheraedar/status/1332733136715780096)
 - [Lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery.
+- [ETE (Environment for Tree Exploration)](https://github.com/etetoolkit/ete) - Python programming toolkit that assists in the automated manipulation, analysis and visualization of phylogenetic trees. ([Web](http://etetoolkit.org/))

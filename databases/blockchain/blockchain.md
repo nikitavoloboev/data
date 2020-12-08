@@ -99,3 +99,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [IRISHub](https://github.com/irisnet/irishub) - BPoS blockchain that enables cross-chain interoperability through a unified service model. Built with Cosmos-SDK.
 - [AergoLite](https://github.com/aergoio/aergolite) - Replicated SQLite database secured by a private and lightweight blockchain.
 - [Secret Network](https://github.com/enigmampc/SecretNetwork) - Blockchain-based, open-source protocol that lets anyone perform computations on encrypted data, bringing privacy to smart contracts and public blockchains. ([Web](https://www.enigma.co/))
+- [Blockchain Technology and Applications | Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/)

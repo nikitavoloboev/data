@@ -29,3 +29,4 @@
 - [Roger Penrose: Why did the Universe begin?](https://aeon.co/videos/a-cyclical-forgetful-universe-nobel-prizewinner-roger-penrose-details-an-astonishing-origin)
 - [The Birth of a Galaxy (2020)](https://www.shawenyao.com/The-Birth-of-a-Galaxy/)
 - [The Origin Of The Universe Just Got Way Weirder (2020)](https://www.youtube.com/watch?v=__0Y5SyEVUI)
+- [Ask HN: What evidence would convince you of intelligent extra-terrestrial life? (2020)](https://news.ycombinator.com/item?id=25340674)

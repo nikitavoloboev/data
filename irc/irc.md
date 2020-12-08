@@ -42,3 +42,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [BitlBee](https://github.com/bitlbee/bitlbee) - IRC to other chat networks gateway. ([Web](https://www.bitlbee.org/main.php/news.r.html))
 - [Kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client written in POSIX C99. ([HN](https://news.ycombinator.com/item?id=24491839))
 - [InspIRCd](https://github.com/inspircd/inspircd) - Modular C++ IRC server. ([Web](https://www.inspircd.org/))
+- [IRC Browse](https://ircbrowse.tomsmeding.com/) - Web service for browsing IRC logs. ([Code](https://github.com/tomsmeding/ircbrowse))

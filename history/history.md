@@ -78,3 +78,4 @@
 - [Why Military History? (2020)](https://acoup.blog/2020/11/13/collections-why-military-history/) ([HN](https://news.ycombinator.com/item?id=25092118))
 - [The Best of NeXT Collection](http://www.kevra.org/TheBestOfNext/index.html) ([HN](https://news.ycombinator.com/item?id=25172693))
 - [Native Intelligence (2005)](https://www.smithsonianmag.com/history/native-intelligence-109314481/) ([HN](https://news.ycombinator.com/item?id=25171303))
+- [Cemetery of Soviet computers](https://rusue.com/cemetery-of-soviet-computers/)

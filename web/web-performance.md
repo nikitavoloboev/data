@@ -111,3 +111,5 @@
 - [1MB Club](https://1mb.club/) - Collection of performance-focused web pages found across the internet. ([HN](https://news.ycombinator.com/item?id=25151773)) ([Code](https://github.com/bradleytaunt/1mb-club))
 - [250kb Club](https://250kb.club/) ([Code](https://github.com/nkoehring/250kb-club)) ([HN](https://news.ycombinator.com/item?id=25176663))
 - [Optimizing Your Web App 100x is Like Adding 99 Servers (2020)](https://lukerissacher.com/blog/optimizing_your_web_app) ([HN](https://news.ycombinator.com/item?id=25165752))
+- [require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
+- [Awesome web performance list](https://github.com/geldmacher/awesome-performance)

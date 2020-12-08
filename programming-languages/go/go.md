@@ -43,7 +43,7 @@ Go promotes composition over inheritance.
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Go proverbs](https://go-proverbs.github.io/)
 - [Go internals](https://github.com/teh-cmc/go-internals)
-- [Go 101](https://go101.org/article/101.html) - Great book.
+- [Go 101](https://go101.org/article/101.html) - Book focusing on Go syntax/semantics and all kinds of runtime related things.
 - [Notes on Go](https://brandur.org/go)
 - [Avoiding complexity in Go](https://bradgignac.com/2014/09/24/avoiding-complexity-with-go.html)
 - [Gopher reading list](https://github.com/enocom/gopher-reading-list)
@@ -392,3 +392,5 @@ Go promotes composition over inheritance.
 - [semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard.
 - [gocov](https://github.com/axw/gocov) - Coverage testing tool for Go.
 - [Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC](https://github.com/vardius/go-api-boilerplate)
+- [Golds](https://github.com/go101/golds) - Experimental Go local docs server/generator and code reader.
+- [generate](https://github.com/a-h/generate) - Generates Go Structs from JSON schema.

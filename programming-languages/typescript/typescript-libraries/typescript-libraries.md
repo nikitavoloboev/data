@@ -80,6 +80,7 @@
 - [Predicate Domain Specific Language](https://github.com/ryardley/pdsl) - Expressive declarative toolkit for composing predicates in TypeScript or JavaScript. ([Docs](https://pdsl.dev/))
 - [True Myth](https://github.com/true-myth/true-myth) - Library for safer and smarter error- and "nothing"-handling in TypeScript.
 - [appy](https://github.com/contactlab/appy) - Functional wrapper around Fetch API.
+- [Barrels](https://github.com/bencoveney/barrelsby) - Automatic TypeScript barrels (index.ts files) for your entire code base.
 
 ## Links
 

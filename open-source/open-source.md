@@ -141,3 +141,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source does not mean “Includes Free Support”](https://raccoon.onyxbits.de/blog/bugreport-free-support/) ([HN](https://news.ycombinator.com/item?id=25099862))
 - [Bountysource](https://www.bountysource.com/) - Funding platform for open-source software. ([Code](https://github.com/bountysource/core))
 - [A few ways to make money in FOSS (2020)](https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html)
+- [Tribute](https://github.com/nicklockwood/Tribute) - Command-line tool to simplify the process of generating, checking and maintaining open source licenses in your projects.

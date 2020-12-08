@@ -33,3 +33,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [go-chess](https://github.com/notnil/chess) - Go library which provides common chess utilities such as move generation, turn management, checkmate detection, PGN encoding, and others.
 - [Chess tactics explained](https://www.chesstactics.org/) ([HN](https://news.ycombinator.com/item?id=25236094))
 - [Maia Chess](https://maiachess.com/) - Human-like neural network chess engine. ([Code](https://github.com/CSSLab/maia-chess))
+- [OpeningRepertoire](https://github.com/zcesur/opening-repertoire) - Command line tool that generates opening repertoires from chess games in PGN format. ([HN](https://news.ycombinator.com/item?id=25338955))

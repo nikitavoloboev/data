@@ -7,7 +7,7 @@
 - [iPad Pro 11 64GB](https://www.apple.com/ipad-pro/) & [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation)
 - [Apple Watch 6](https://www.apple.com/watch/)
 - [AirPods Pro](https://www.apple.com/airpods-pro/)
-- [Sony XM4 Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm4)
+- [AirPods Max](https://www.apple.com/airpods-max/)
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)
 - [PS5](https://www.playstation.com/en-us/ps5/) & [Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/) & [Headset](https://www.playstation.com/en-us/accessories/pulse-3d-wireless-headset/)
 - [OP-1 synthesizer](https://teenage.engineering/products/op-1)

@@ -29,3 +29,4 @@
 - [How to Setup Prometheus, Grafana and Loki on NixOS (2020)](https://christine.website/blog/prometheus-grafana-loki-nixos-2020-11-20) ([Lobsters](https://lobste.rs/s/cyufgo/how_setup_prometheus_grafana_loki_on))
 - [Promscale](https://github.com/timescale/promscale) - Open-source long-term store for Prometheus data designed for analytics.
 - [Prometheus Docs](https://prometheus.io/docs/introduction/overview/) ([Code](https://github.com/prometheus/docs))
+- [Awesome Prometheus Alerts](https://github.com/samber/awesome-prometheus-alerts)

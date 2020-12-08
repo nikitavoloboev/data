@@ -173,3 +173,6 @@
 - [vedadet](https://github.com/Media-Smart/vedadet) - Single stage object detector toolbox based on PyTorch.
 - [OneNet: End-to-End One-Stage Object Detection by Classification Cost](https://github.com/PeizeSun/OneNet)
 - [Consistent Video Depth Estimation](https://github.com/facebookresearch/consistent_depth) - Estimate dense, flicker-free, geometrically consistent depth from monocular video, for example hand-held cell phone video.
+- [Implicit Neural Representations with Periodic Activation Functions](https://github.com/vsitzmann/siren)
+- [Computational Imaging Stanford Lab](http://www.computationalimaging.org/)
+- [Trimap-Free Solution for Portrait Matting in Real Time](https://github.com/ZHKKKe/MODNet)

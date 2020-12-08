@@ -49,3 +49,4 @@
 - [I Love Tailwind (2020)](https://mxstbr.com/thoughts/tailwind/) ([HN](https://news.ycombinator.com/item?id=25332101))
 - [Windy](https://usewindy.com/) - Transform every element on any website to Tailwind CSS.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
+- [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography) - Plugin that provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don't control.

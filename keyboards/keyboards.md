@@ -94,3 +94,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards. ([Code](https://github.com/crsnbrt/keysim))
 - [Kaleidoscope](https://github.com/keyboardio/Kaleidoscope) - Flexible firmware for Arduino-powered keyboards.
 - [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave. ([HN](https://news.ycombinator.com/item?id=25093704))
+- [Guide to Building a Let's Split Keyboard](https://github.com/nicinabox/lets-split-guide)

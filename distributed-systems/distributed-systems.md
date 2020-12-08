@@ -138,5 +138,5 @@
 - [A Byzantine failure in the real world (2020)](https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/)
 - [Byzantine Eventual Consistency](https://github.com/ept/byzantine-eventual)
 - [Interval Tree Clocks (2020)](https://ferd.ca/interval-tree-clocks.html)
-- [Distributed Systems Reading List](https://dancres.github.io/Pages/)
-- [Raft Visualization](http://thesecretlivesofdata.com/raft/)
+- [Distributed Systems Reading List](https://dancres.github.io/Pages/) ([HN](https://news.ycombinator.com/item?id=25327077))
+- [Raft Visualization](http://thesecretlivesofdata.com/raft/) ([HN](https://news.ycombinator.com/item?id=25326645))

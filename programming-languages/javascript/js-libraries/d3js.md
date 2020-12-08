@@ -28,3 +28,5 @@
 - [How D3 Selections Work (2013)](https://bost.ocks.org/mike/selection/)
 - [Plottable](https://github.com/palantir/plottable) - Library of modular chart components built on D3. ([Web](http://plottablejs.org/))
 - [d3-force](https://github.com/d3/d3-force) - Force-directed graph layout using velocity Verlet integration. ([How to use](https://wattenberger.com/blog/d3-force))
+- [React D3 Tree](https://github.com/bkrem/react-d3-tree) - React component to create interactive D3 tree graphs.
+- [Statosio](https://github.com/a6b8/statosio.js) - Add-on function for d3 to generate simple charts, in a fast and reliable way. ([Docs](https://d3.statosio.com/))

@@ -56,3 +56,4 @@
 - [Bill O'Reilly - "We'll do it live!"](https://www.youtube.com/watch?v=-Gh1lTcwdGY)
 - [What it’s like trying to argue with 90% of the people in my mentions](https://twitter.com/MalwareTechBlog/status/1330273227185262592)
 - [When you need to confirm you're not a robot](https://twitter.com/5tevieM/status/1333115413291552769)
+- [Galactic Federation interviews Earth for membership](https://twitter.com/vinn_ayy/status/1336178629450018817)

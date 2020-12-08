@@ -50,3 +50,4 @@
 - [Free UX crash course](https://www.kickassux.com/free-crash-course)
 - [Kickass UX](https://www.kickassux.com/) - Learn UX/UI design.
 - [User Experience Database](https://www.uxdatabase.io/) - Biggest free curated product design resources & tools.
+- [Interaction Design in a Nutshell](https://github.com/SSoelvsten/interaction-design-in-a-nutshell) - Dense, clearly defined, and small guide to interaction design.

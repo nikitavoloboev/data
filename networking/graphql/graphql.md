@@ -170,3 +170,4 @@
 - [Caching Relational GraphQL Data (2020)](https://kitten.sh/graphql-normalized-caching)
 - [GraphQL Resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
 - [GraphQL Galaxy](https://graphqlgalaxy.com/) - Biggest GraphQL conference in the cloud.
+- [graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.

@@ -9,3 +9,5 @@
 - [Understanding null safety in Dart](https://dart.dev/null-safety/understanding-null-safety) ([HN](https://news.ycombinator.com/item?id=23935967))
 - [pub.dev](https://pub.dev/) - Search Dart packages.
 - [10 years of Dart (2020)](https://www.youtube.com/watch?v=e-58C8aGBM4) ([Slides](https://mrale.ph/talks/vmil2020/))
+- [Why nullable types? (2020)](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a) ([Lobsters](https://lobste.rs/s/hek0ym/why_nullable_types)) ([HN](https://news.ycombinator.com/item?id=25340629))
+- [Dart Code](https://github.com/dart-lang/sdk) - Dart SDK, including the VM, dart2js, core libraries, and more.

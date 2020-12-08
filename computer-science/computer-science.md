@@ -88,3 +88,7 @@
 - [Map of Computer Science (2017)](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - [Ask HN: What are the best advanced computer science courses online? (2020)](https://news.ycombinator.com/item?id=25271676)
 - [Lobsters: Advice on advanced degrees in computer science? (2020)](https://lobste.rs/s/6ucycu/advice_on_advanced_degrees_computer)
+- [Combinators and the Story of Computation (2020)](https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/)
+- [NandGame](http://nandgame.com/) - Build a computer from scratch.
+- [Theory of Computation in 4 Videos](https://www.youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn) ([HN](https://news.ycombinator.com/item?id=25338641))
+- [Easy Theory](https://www.easytheory.org/) - YouTube lectures on computer science theory.

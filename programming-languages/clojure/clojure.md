@@ -94,4 +94,4 @@
 - [re:Clojure 2020](https://reclojure.org/) - Community-driven effort to bring together knowledgeable speakers to present new and exciting topics on all things Clojure and Clojurescript. ([Video](https://www.youtube.com/watch?v=qRI1Ved0SfE))
 - [Towards Awesome Clojure Documentation (2017)](https://www.youtube.com/watch?v=nrpsMB2gYI0)
 - [How to be a REPL Sorcerer (2020)](https://www.youtube.com/watch?v=AcWnGKGqFZA)
-- [Semantic Clojure Formatting (2020)](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html)
+- [Semantic Clojure Formatting (2020)](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html) ([HN](https://news.ycombinator.com/item?id=25322836))

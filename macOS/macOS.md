@@ -117,3 +117,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [create-dmg](https://github.com/create-dmg/create-dmg) - Shell script to build fancy DMGs.
 - [Mach-O learning tool](https://github.com/nico/lssym) - Toy program to learn more about the mach-o file format.
 - [Popover](https://github.com/iSapozhnik/Popover) - Custom macOS Popover.
+- [Reverse Engineering on macOS](https://github.com/steven-michaud/reverse-engineering-on-osx)

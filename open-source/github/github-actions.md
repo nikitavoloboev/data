@@ -86,6 +86,7 @@
 - [clippy-check](https://github.com/actions-rs/clippy-check) - GitHub Action for PR annotations with clippy warnings.
 - [Rust tarpaulin Action](https://github.com/actions-rs/tarpaulin) - GitHub Action for code coverage reporting with tarpaulin.
 - [@actions-rs example](https://github.com/actions-rs/example) - Rust application example which is using GitHub Actions for CI.
+- [Rust Cache Action](https://github.com/Swatinem/rust-cache) - GitHub Action that implements smart caching for rust/cargo projects with sensible defaults.
 
 ## Python
 
@@ -98,6 +99,7 @@
 - [npm-publish-action](https://github.com/pascalgn/npm-publish-action) - GitHub action to automatically publish packages to npm.
 - [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
 - [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
+- [Jest Github Action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments.
 
 ## TS
 
@@ -112,6 +114,10 @@
 
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
+
+## Haskell
+
+- [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
 
 ## Java
 
@@ -179,3 +185,4 @@
 - [GitHub Actions Virtual Environments](https://github.com/actions/virtual-environments) - Contains the source used to create the virtual environments for GitHub Actions hosted runners, as well as the VM images of Microsoft-hosted agents used for Azure Pipelines.
 - [ghat](https://github.com/fregante/ghat) - Reuse GitHub Actions workflows across repositories.
 - [go-actions-toolkit](https://github.com/haya14busa/go-actions-toolkit) - GitHub Actions Toolkit in Go.
+- [RepoKitteh](https://www.repokitteh.io/) - Easily write and deploy functions to automate your workflow.

@@ -9,3 +9,4 @@
 - [HKCam](https://github.com/brutella/hkcam) - Open-Source HomeKit Camera With a 3D-Printed Enclosure. ([Web](https://hochgatterer.me/hkcam/))
 - [Home+](https://hochgatterer.me/home/) - Advanced iOS app to control and automate your HomeKit accessories.
 - [Building a Custom Minimal HomeKit Lamp (2020)](https://patrickbalestra.com/blog/2020/05/31/building-a-custom-minimal-homekit-lamp.html)
+- [Creating a HomeKit Accessory (2020)](https://sampo3k.github.io/2020/12/08/pcb.html)

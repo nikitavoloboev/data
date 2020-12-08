@@ -73,3 +73,4 @@
 - [Facts About Real-World Container Use – Datadog (2020)](https://www.datadoghq.com/container-report/)
 - [Containers the hard way: Gocker: A mini Docker written in Go](https://github.com/shuveb/containers-the-hard-way)
 - [nerdctl](https://github.com/AkihiroSuda/nerdctl) - Docker-compatible CLI for containerd.
+- [Trident](https://github.com/NetApp/trident) - Storage orchestrator for containers.

@@ -56,6 +56,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Aleksey Kladov](https://matklad.github.io/) ([Code](https://github.com/matklad/matklad.github.io))
 - [Kirill's Rust Blog](https://github.com/pretzelhammer/rust-blog)
 - [Seena Burns](http://seenaburns.com/archive/)
+- [Excalidraw Blog](https://blog.excalidraw.com/) ([Code](https://github.com/excalidraw/excalidraw-blog))
 
 ## Links
 

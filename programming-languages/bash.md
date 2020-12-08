@@ -53,3 +53,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Variant](https://github.com/mumoshu/variant2) - Turn your bash scripts into a modern, single-executable CLI app.
 - [Even faster bash startup (2020)](https://work.lisk.in/2020/11/20/even-faster-bash-startup.html)
 - [How To Use Bash Parameter Substitution Like A Pro (2020)](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
+- [Introduction to Bash Scripting Book](https://github.com/bobbyiliev/introduction-to-bash-scripting)

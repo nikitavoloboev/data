@@ -102,6 +102,7 @@
 - [Compositional Podcast](https://www.compositional.fm/) - All about functional programming in practice.
 - [Understanding Combinators using Elm](https://discourse.elm-lang.org/t/understanding-combinators/6425)
 - [Objects in Functional Languages](https://journal.infinitenegativeutility.com/objects-in-functional-languages) ([Lobsters](https://lobste.rs/s/wa5vbs/objects_functional_languages)) ([HN](https://news.ycombinator.com/item?id=25258354))
+- [Functional Christmas](https://functional.christmas/)
 
 ## Images
 

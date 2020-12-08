@@ -156,3 +156,4 @@
 - [How Radiation Looks Like](https://twitter.com/isaboemeke/status/1328037931521437696)
 - [Visual demonstration of the power of sound to create order out of chaos](https://twitter.com/tedgioia/status/1327511170190864384)
 - [I’m a pure mathematician who knows no physics. What should I read?](https://twitter.com/algeom/status/1335642248797536256)
+- [2020 Nobel Lectures in Physics](https://www.youtube.com/watch?v=DWF1uNb9Q1Q)

@@ -153,3 +153,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Fame](https://www.fame.so/) - Grow Your B2B Business With A Profitable Podcast.
 - [An Ode to Podcasting (2020)](https://eriktorenberg.substack.com/p/an-ode-to-podcasting) - Lessons learned from recording 500 podcasts.
 - [On Deck Podcaster Fellowship](https://www.beondeck.com/podcasters)
+- [Spotifeed](https://spotifeed.timdorr.com/) - Spotify Podcast RSS Feed Generator. ([Code](https://github.com/timdorr/spotifeed))

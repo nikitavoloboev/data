@@ -62,6 +62,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [DEV iOS](https://github.com/forem/DEV-ios) - DEV Community iOS App.
 - [LibTerm](https://libterm.app/) - iOS sandboxed terminal with Python, Lua and Clang. ([Code](https://github.com/ColdGrub1384/LibTerm))
 - [Lichess Mobile](https://github.com/veloce/lichobile/)
+- [Mixin iOS messenger](https://github.com/MixinNetwork/ios-app)
 
 ## Other
 

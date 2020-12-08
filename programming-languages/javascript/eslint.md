@@ -13,3 +13,4 @@
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
 - [eslint-plugin-etc](https://github.com/cartant/eslint-plugin-etc) - More general-purpose (TypeScript-related) ESLint rules.
 - [lint-diff](https://github.com/grvcoelho/lint-diff) - Run eslint only in the changed parts of the code.
+- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.

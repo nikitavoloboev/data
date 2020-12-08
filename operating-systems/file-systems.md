@@ -33,3 +33,4 @@
 - [ID mapping for mounted filesystems](https://lwn.net/SubscriberLink/837566/33dbf767adaf9bd4/)
 - [Filesystem and Database are not cutting the problem space right (2020)](https://boomla.com/blog/filesystem-and-database-are-not-cutting-the-problem-space-right) ([Lobsters](https://lobste.rs/s/7vebdc/filesystem_database_are_not_cutting))
 - [The Perils of File Typing](https://invisibleup.com/articles/34/) ([HN](https://news.ycombinator.com/item?id=25322288))
+- [vfs](https://github.com/blang/vfs) - Virtual filesystem library written in Go.

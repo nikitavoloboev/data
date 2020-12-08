@@ -170,3 +170,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [LibreSpeed](https://librespeed.org/) - Free and Open Source Speedtest. ([LibreSpeed CLI](https://github.com/librespeed/speedtest-cli))
 - [CppServer](https://github.com/chronoxor/CppServer) - Ultra fast and low latency asynchronous socket server & client C++ library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution.
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - Allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them.
+- [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications.

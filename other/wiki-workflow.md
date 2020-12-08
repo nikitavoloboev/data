@@ -130,6 +130,8 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Allan's Digital Garden](https://publish.obsidian.md/allanmacgregor/Meta/Index)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Aurelio](https://github.com/nobitagit/knowledge)
+- [Yenly Ma TIL](https://til.yenly.wtf/)
+- [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
@@ -274,3 +276,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Standard Notes](https://app.standardnotes.org/) - Free, open-source, and completely encrypted notes app. ([Code](https://github.com/standardnotes/web))
 - [Linked knowledge greatest links](https://scrapbox.io/benfoden/Linked_knowledge_greatest_links)
 - [Information Storage and Archiving strategies (2020)](https://strikingloo.github.io/wiki-articles/information-storage/archiving)
+- [zettel](https://github.com/hackstream/zettel) - Notes organizer - based on Zettelkasten methodology. Written in Go.
+- [Foamy NextJS Starter](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden.

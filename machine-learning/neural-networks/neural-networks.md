@@ -82,7 +82,7 @@
 - [Haiku](https://github.com/deepmind/haiku) - JAX-based neural network library.
 - [Convolution in one dimension for neural networks (2020)](https://e2eml.school/convolution_one_d.html)
 - [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
-- [Minkowski Engine](https://github.com/StanfordVL/MinkowskiEngine) - Auto-diff convolutional neural network library for high-dimensional sparse tensors.
+- [Minkowski Engine](https://github.com/NVIDIA/MinkowskiEngine) - Auto-diff neural network library for high-dimensional sparse tensors.
 - [Generating MIDI melody from lyrics using LSTM-GANs](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) ([HN](https://news.ycombinator.com/item?id=22524176))
 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
 - [Lagrangian Neural Networks (2020)](https://greydanus.github.io/2020/03/10/lagrangian-nns/) ([HN](https://news.ycombinator.com/item?id=22552790))
@@ -184,3 +184,5 @@
 - [NN SVG](https://alexlenail.me/NN-SVG/AlexNet.html) - Generate publication-ready NN-architecture schematics. ([HN](https://news.ycombinator.com/item?id=25272360))
 - [e3nn](https://github.com/e3nn/e3nn) - Modular framework for neural networks with Euclidean symmetry.
 - [Delve](https://github.com/delve-team/delve) - Python package for visualizing deep learning model training.
+- [Graph Mining @ NeurIPS 2020](https://gm-neurips-2020.github.io/) ([Talks](https://www.youtube.com/playlist?list=PLY5kjoYG4AfHQWhYB7cNS5X2QlMg5WIpV))
+- [jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX.

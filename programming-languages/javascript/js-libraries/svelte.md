@@ -16,6 +16,7 @@
 - [10-tweet Svelte crash course](https://twitter.com/hexrcs/status/1185186492982943744)
 - [react-svelte](https://github.com/Rich-Harris/react-svelte) - Use Svelte components inside a React app.
 - [Svelte RFCs](https://github.com/sveltejs/rfcs)
+- [Svelte Code](https://github.com/sveltejs/svelte)
 - [The Return of 'Write Less, Do More' by Rich Harris (2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
 - [Let’s Learn Svelte (with Rich Harris) — Learn With Jason (2019)](https://www.youtube.com/watch?v=ogXETl_I0Dg)
 - [SSG](https://github.com/sw-yx/ssg) - Svelte Site Generator. why try this? because sapper has a lot of setup, and isn't great at pipelining data.

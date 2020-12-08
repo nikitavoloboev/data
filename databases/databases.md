@@ -72,7 +72,7 @@
 - [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
-- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb))
+- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb)) ([FaunaDB JavaScript Driver](https://github.com/fauna/faunadb-js))
 - [immudb](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go.
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
@@ -136,6 +136,7 @@
 - [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
 - [ShardingSphere](https://github.com/apache/shardingsphere) - Distributed Database Middleware Ecosphere.
 - [ln2sql](https://github.com/FerreroJeremy/ln2sql) - NLP tool to query a database in natural language.
+- [Hue](https://gethue.com/) - Open source SQL Assistant for Data Warehouses. ([Code](https://github.com/cloudera/hue))
 
 ## Links
 
@@ -257,8 +258,9 @@
 - [Anonymized Cache Request Traces from Twitter Production](https://github.com/twitter/cache-trace) - Describes the traces from Twitter's in-memory caching (Twemcache/Pelikan) clusters.
 - [Advanced Join Patterns for the Actor Model Based on CEP Techniques (2020)](https://programming-journal.org/2021/5/10/) ([HN](https://news.ycombinator.com/item?id=25014513))
 - [Testing Database Engines via Pivoted Query Synthesis (2020)](https://www.usenix.org/system/files/osdi20-rigger.pdf) ([HN](https://news.ycombinator.com/item?id=25092203))
-- [If All You Have Is a Database, Everything Looks Like a Nail (2020)](https://pathelland.substack.com/p/if-all-you-have-is-a-database-everything)
+- [If All You Have Is a Database, Everything Looks Like a Nail (2020)](https://pathelland.substack.com/p/if-all-you-have-is-a-database-everything) ([HN](https://news.ycombinator.com/item?id=25330223))
 - [In-Database Machine Learning (2020)](https://btw.informatik.uni-rostock.de/download/tagungsband/B6-1.pdf) ([HN](https://news.ycombinator.com/item?id=25285983))
 - [Feature Casualties of Large Databases (2020)](https://brandur.org/large-database-casualties) ([Lobsters](https://lobste.rs/s/regno1/feature_casualties_large_databases))
 - [Seeing is Believing: A Client-Centric Specification of Database Isolation](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf)
 - [Scaling Datastores at Slack with Vitess (2020)](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
+- [dbdocs](https://dbdocs.io/) - Database Documentation and Catalog Tool.

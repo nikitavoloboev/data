@@ -67,3 +67,4 @@
 - [Style-based GANs – Generating and Tuning Realistic Artificial Faces (2018)](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
 - [Navigating the GAN Parameter Space for Semantic Image Editing](https://github.com/yandex-research/navigan)
 - [Data-Efficient GANs with DiffAugment](https://github.com/mit-han-lab/data-efficient-gans)
+- [Adversarial Generation of Continuous Images (2020)](https://arxiv.org/abs/2011.12026) ([Code](https://github.com/universome/inr-gan))

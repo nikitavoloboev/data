@@ -182,3 +182,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [ufo2ft](https://github.com/googlefonts/ufo2ft) - Generate OpenType font binaries from UFOs without the FDK dependency.
 - [fontmake](https://github.com/googlefonts/fontmake) - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 - [OpenType Sanitizer](https://github.com/khaledhosny/ots) - Parses and serializes OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitizing them as it goes.
+- [Fontkit](https://github.com/foliojs/fontkit) - Advanced font engine for Node and the browser, used by PDFKit.

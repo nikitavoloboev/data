@@ -7,9 +7,10 @@
 - [Home Assistant Supervisor](https://github.com/home-assistant/supervisor) - Container-based system for managing your Home Assistant Core installation and related applications.
 - [TileBoard](https://github.com/resoai/TileBoard) - Simple yet highly configurable Dashboard for HomeAssistant.
 - [python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances.
-- [Home Assistant configuration](https://github.com/teich/homeassistant)
+- [Home Assistant Configuration](https://github.com/teich/homeassistant)
+- [Home Assistant Configuration 2](https://github.com/arsaboo/homeassistant-config)
+- [Home Assistant Configuration 3](https://github.com/soffes/home) - Includes ESPHome device configurations.
 - [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to hack smart home devices.
-- [Home Assistant Configuration](https://github.com/arsaboo/homeassistant-config)
 - [Bear Stone Smart Home Documentation](https://github.com/CCOSTAN/Home-AssistantConfig)
 - [Roborock](https://en.roborock.com/) - Automatic vacuum cleaner robot.
 - [AppDaemon](https://github.com/home-assistant/appdaemon) - Loosely coupled, multi-threaded, sandboxed python execution environment for writing automation apps for various types of Home Automation Software.

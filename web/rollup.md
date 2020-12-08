@@ -9,3 +9,4 @@
 - [rollup-plugin-typescript2](https://github.com/ezolenko/rollup-plugin-typescript2) - Rollup plugin for typescript with compiler errors.
 - [packd](https://github.com/Rich-Harris/packd) - Rollup as a service.
 - [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser) - Rollup plugin to minify generated es bundle.
+- [rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts) - Rollup plugin to generate .d.ts rollup files for your typescript project.

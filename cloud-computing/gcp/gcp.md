@@ -8,3 +8,4 @@
 - [How to find and delete idle GCP Projects (2020)](https://cloudberry.engineering/article/find-and-delete-idle-gcp-projects/)
 - [Stricter Access Control to Google Cloud Registry (2020)](https://cloudberry.engineering/article/stricter-access-control-to-gcr/)
 - [Introduction to Google Cloud Functions (2020)](https://ncona.com/2020/11/introduction-to-google-cloud-functions/) ([HN](https://news.ycombinator.com/item?id=24987197))
+- [Terraform module for configuring GKE clusters](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine)

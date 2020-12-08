@@ -26,3 +26,4 @@
 - [sdfx](https://github.com/deadsy/sdfx) - Simple CAD package using signed distance functions.
 - [Spline](https://spline.design/) - Design tool for 3D web experiences. ([Introduction to Spline](https://www.youtube.com/watch?v=BNbVyzhuN3g))
 - [CAD-Deform: Deformable Fitting of CAD Models to 3D Scans](https://github.com/alexeybokhovkin/CAD-Deform)
+- [modeler](https://github.com/szymonkaliski/modeler) - CSG modeling with React.

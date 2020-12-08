@@ -61,3 +61,4 @@
 - [Automatic RoamResearch backup](https://github.com/MatthieuBizien/roam-to-git)
 - [RoamNERd](https://roamnerd.com/) - Automatically tag named entities in text for direct entry into Roam Research.
 - [Roam Research Plugins list (2020)](https://twitter.com/wirtzdan/status/1334976199253237762)
+- [Application of Graph Theory to Roam link network (2020)](https://org-roam.discourse.group/t/application-of-graph-theory-to-roam-link-network/61)

@@ -61,6 +61,7 @@
 - [CURL: Contrastive Unsupervised Representations for Reinforcement Learning (2020)](https://arxiv.org/abs/2004.04136) ([Code](https://github.com/MishaLaskin/curl))
 - [Maria-Florina Balcan's publications](http://www.cs.cmu.edu/%7Eninamf/pubs-by-year.html)
 - [An Optimistic Perspective on Offline Reinforcement Learning (2020)](https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html)
+- [Offline Reinforcement Learning: How Conservative Algorithms Can Enable New Applications (2020)](https://bair.berkeley.edu/blog/2020/12/07/offline/)
 - [TensorSwarm](https://github.com/TensorSwarm/TensorSwarm) - Framework for reinforcement learning of robot swarms.
 - [Learning with Random Learning Rates in PyTorch](https://github.com/leonardblier/alrao)
 - [Continual Learning Literature](https://github.com/optimass/continual_learning_papers)
@@ -140,3 +141,5 @@
 - [PHYRE](https://github.com/facebookresearch/phyre) - Benchmark for physical reasoning. ([Web](https://phyre.ai/))
 - [SuperSuit](https://github.com/PettingZoo-Team/SuperSuit) - Easy-to-use micro-wrappers for Gym and PettingZoo based RL Environments.
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom) - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information. ([Web](http://vizdoom.cs.put.edu.pl/))
+- [Reinforcement Learning at Microsoft](https://www.microsoft.com/en-us/research/blog/research-collection-reinforcement-learning-at-microsoft/)
+- [banditml](https://github.com/banditml/banditml) - Lightweight contextual bandit & reinforcement learning library designed to be used in production Python services.

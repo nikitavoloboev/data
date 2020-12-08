@@ -47,3 +47,5 @@
 - [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
 - [Universal Radio Hacker (URH)](https://github.com/jopohl/urh) - Investigate Wireless Protocols Like A Boss.
 - [Automated irrigation system](https://github.com/PatrickHallek/automated-irrigation-system) - Open source application to water plants automatically.
+- [EMQ X Broker](https://www.emqx.io/) - Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era.
+- [EMQ X Kuiper](https://www.emqx.io/products/kuiper) - SQL based IoT rule engine running at resource constrained edge devices. ([Code](https://github.com/emqx/kuiper))

@@ -142,3 +142,5 @@
 - [Carpentries](https://carpentries.org/) - Teach foundational coding and data science skills to researchers worldwide.
 - [Orchest](https://www.orchest.io/) - Web based tool for creating data science pipelines. ([Code](https://github.com/orchest/orchest))
 - [Data Engineering Book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering.
+- [Data Science Lifecycle Process](https://github.com/dslp/dslp) - Set of prescriptive steps and best practices to enable data science teams to consistently deliver value.
+- [Data Science Lifecycle Base Repo](https://github.com/dslp/dslp-repo-template) - Template repository for data science projects using the Data Science Life Cycle Process.

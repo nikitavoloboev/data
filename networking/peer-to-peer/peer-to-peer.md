@@ -13,6 +13,7 @@
 - [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010)) ([Lobsters](https://lobste.rs/s/6tbq79/radicle_peer_peer_stack_for_code))
+- [Radicle Link](https://github.com/radicle-dev/radicle-link) - Working repo for the second iteration of the Radicle code collaboration protocol and stack.
 - [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
 - [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html) ([HN](https://news.ycombinator.com/item?id=24382589))
 - [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)

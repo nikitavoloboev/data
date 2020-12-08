@@ -42,3 +42,4 @@
 - [Crypto Ecosystems](https://github.com/electric-capital/crypto-ecosystems) - Taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems.
 - [Crytic-compile](https://github.com/crytic/crytic-compile) - Abstraction layer for smart contract build systems.
 - [Introduction to Cryptocurrencies (2020)](https://etherplan.com/2020/11/16/introduction-to-cryptocurrencies/13648/)
+- [Jesse](https://github.com/jesse-ai/jesse) - Advanced crypto trading framework which aims to simplify researching and defining trading strategies. ([Web](https://jesse.trade/))

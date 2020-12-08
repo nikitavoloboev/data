@@ -47,6 +47,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Juliette Pretot](https://jul.sh/career)
 - [Benoit Grelard](https://benoit.works/cv) - Pretty.
 - [Kathy Simpson](http://www.kathy.pm/cv) - Pretty.
+- [Steffan Sølvsten](https://ssoelvsten.github.io/) ([Code](https://github.com/SSoelvsten/SSoelvsten.github.io))
 
 ## Notes
 

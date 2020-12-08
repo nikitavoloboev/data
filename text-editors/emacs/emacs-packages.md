@@ -7,7 +7,7 @@
 - [Lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing.
 - [Eglot](https://github.com/joaotavora/eglot) - Client for Language Server Protocol servers.
 - [use-package](https://github.com/jwiegley/use-package) - Macro allows you to isolate package configuration in your .emacs file .
-- [Org-Roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode. ([HN](https://news.ycombinator.com/item?id=22767658)) ([Web](https://www.orgroam.com/))
+- [Org-Roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode. ([HN](https://news.ycombinator.com/item?id=22767658)) ([Web](https://www.orgroam.com/)) ([Forum](https://org-roam.discourse.group/latest))
 - [org-journal](https://github.com/bastibe/org-journal) - Simple org-mode based journaling mode.
 - [dumb-jump](https://github.com/jacktasia/dumb-jump) - Emacs "jump to definition" package for 40+ languages.
 - [which-key](https://github.com/justbur/emacs-which-key) - Emacs package that displays available keybindings in popup.

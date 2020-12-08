@@ -68,6 +68,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MollenOS](https://github.com/Meulengracht/MollenOS) - Modern operating system that is built with focus on abstraction and a modular design.
 - [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications.
 - [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/))
+- [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
 
 ## Notes
 

@@ -57,6 +57,7 @@
 - [No Service 24/7](https://www.noservice.today/) - Brand Agency.
 - [Unlikely Objects](https://unlikelyobjects.com/) - Storytelling studio.
 - [FAVO Studio](https://favostudio.com/) - Motion Design, Animation & Video.
+- [Websmyth](https://websmyth.co/) - Custom Websites For Small Businesses.
 
 ## DB
 
@@ -85,6 +86,14 @@
 ## Elm
 
 - [Incremental Elm Consulting](https://incrementalelm.com/)
+
+## ML
+
+- [Principia Labs](https://principialabs.co.uk/) ([GitHub](https://github.com/principia-labs))
+
+## Embedded
+
+- [Vertigo Designs](https://vertigo-designs.com/)
 
 ## Other
 

@@ -20,3 +20,4 @@
 - [Algorithmic Geometry](https://www.personal.kent.edu/~rmuhamma/Compgeometry/compgeom.html)
 - [Mathematical Art by Henry Segerman](https://www.shapeways.com/shops/henryseg)
 - [Synthetic Differential Geometry](https://ncatlab.org/nlab/show/synthetic+differential+geometry)
+- [Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/) ([HN](https://news.ycombinator.com/item?id=25340425))

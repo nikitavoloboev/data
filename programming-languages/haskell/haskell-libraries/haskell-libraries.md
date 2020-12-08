@@ -85,6 +85,7 @@
 - [refined](https://github.com/nikita-volkov/refined) - Refinement types with static and runtime checking.
 - [Row-Types](https://github.com/target/row-types) - Haskell library for open records and variants using closed type families and type literals.
 - [distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
+- [hindent](https://github.com/mihaimaruseac/hindent) - Haskell pretty printer.
 
 ## Links
 

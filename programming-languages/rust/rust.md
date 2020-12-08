@@ -12,6 +12,7 @@
 - [Rust language book](https://doc.rust-lang.org/book/) ([Code](https://github.com/rust-lang/book)) ([Exercises code](https://github.com/jasonkuhrt/rust-book-exercises))
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/) ([Code](https://github.com/rust-lang/reference))
+- [Rust Code](https://github.com/rust-lang/rust)
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)
 - [Rust patterns](https://github.com/rust-unofficial/patterns)
 - [Reflections on Rust, and the Sand Castle Metaphor](https://brandur.org/fragments/rust-reflections)
@@ -381,3 +382,4 @@
 - [Rust Website Code](https://github.com/rust-lang/www.rust-lang.org)
 - [Writing Rust the Elixir way (2020)](https://dev.to/bkolobara/writing-rust-the-elixir-way-2lm8) ([Lobsters](https://lobste.rs/s/kmwh7g/writing_rust_elixir_way))
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) ([Code](https://github.com/cfsamson/books-futures-explained))
+- [bacon](https://github.com/Canop/bacon) - Background rust code check.
