@@ -228,3 +228,5 @@
 - [Jailhouse](https://github.com/siemens/jailhouse) - Linux-based partitioning hypervisor.
 - [perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 - [Welder](https://github.com/pch/welder) - Set up your Linux server with plain shell scripts.
+- [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
+- [Linux Kernel Management Style](https://www.kernel.org/doc/html/latest/process/management-style.html)

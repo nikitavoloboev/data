@@ -37,3 +37,4 @@ My always open tabs are:
 - [Custom iTerm Applescripts for Alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
 - [Little known features of iTerm2 (2020)](https://banga.github.io/blog/2020/03/02/little-known-features-of-iterm2.html) ([HN](https://news.ycombinator.com/item?id=22461605))
 - [iTomate](https://github.com/kamranahmedse/itomate) - Automate your iTerm layouts and session setup.
+- [Useful notifications in iTerm2 (2020)](https://cgamesplay.com/post/2020/12/09/iterm-notifications/)

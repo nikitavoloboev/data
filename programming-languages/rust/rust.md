@@ -383,3 +383,4 @@
 - [Writing Rust the Elixir way (2020)](https://dev.to/bkolobara/writing-rust-the-elixir-way-2lm8) ([Lobsters](https://lobste.rs/s/kmwh7g/writing_rust_elixir_way))
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) ([Code](https://github.com/cfsamson/books-futures-explained))
 - [bacon](https://github.com/Canop/bacon) - Background rust code check.
+- [Inside Rust at Embark (2019)](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)

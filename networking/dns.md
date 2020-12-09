@@ -59,3 +59,4 @@
 - [Sad DNS](https://www.cs.ucr.edu/~zhiyunq/SADDNS.html) - Revival of the classic DNS cache poisoning attack.
 - [SAD DNS Explained (2020)](https://blog.cloudflare.com/sad-dns-explained/)
 - [DNS Resolution: Optimization Tools and Opportunities (2020)](https://ashu.online/blogs/optimize-dns-resolution-for-fast-website)
+- [Improving DNS Privacy with Oblivious DoH (2020)](https://blog.cloudflare.com/oblivious-dns/) ([HN](https://news.ycombinator.com/item?id=25344358))

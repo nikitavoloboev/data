@@ -57,3 +57,4 @@
 - [PSVG](https://github.com/LingDong-/psvg) - Programmable SVG. Introduces programming language features like functions, control flows, and variables.
 - [Loaf](https://getloaf.io/) - Animated SVG icon library.
 - [vpype](https://github.com/abey79/vpype) - Swiss-Army-knife command-line tool for plotter vector graphics.
+- [svg-path-properties](https://github.com/rveciana/svg-path-properties) - JavaScript alternative to getPointAtLength(t) and getTotalLength() functions. Works with Canvas objects and when Node.

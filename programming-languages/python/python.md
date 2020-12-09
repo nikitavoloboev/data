@@ -222,3 +222,4 @@
 - [The History of Python: From List Comprehensions to Generator Expressions (2010)](http://python-history.blogspot.com/2010/06/from-list-comprehensions-to-generator.html)
 - [blackdoc](https://github.com/keewis/blackdoc) - Tool that applies black to code in documentation.
 - [Exhaustiveness Checking with Mypy (2020)](https://hakibenita.com/python-mypy-exhaustive-checking)
+- [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python.

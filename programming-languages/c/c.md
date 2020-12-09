@@ -111,3 +111,4 @@
 - [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste) ([HN](https://news.ycombinator.com/item?id=25326552))
 - [DragonFFI](https://github.com/aguinet/dragonffi) - C Foreign Function Interface (FFI) library written in C++ and based on Clang/LLV.
 - [PureCTypes](https://github.com/aguinet/purectypes) - Pure-python package to describe portable C structures.
+- [Now you C me, now you don't, part two: exploiting the in-between (2020)](https://securitylab.github.com/research/now-you-c-me-part-two)

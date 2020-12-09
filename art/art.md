@@ -165,7 +165,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Kilian Eng](https://www.instagram.com/kilianeng/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Betty Jiang](https://www.instagram.com/kawaiibettyjiang/)
-- [Liang Mark](https://www.instagram.com/liangmark/?hl=en)
+- [Liang Mark](https://www.instagram.com/liangmark/)
 - [Jim](https://jimllpaintit.tumblr.com/)
 - [Azlen Elza](https://www.instagram.com/azlenelza/)
 - [Jie Ma](https://www.behance.net/jiema37?)
@@ -267,6 +267,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
+- [Maley](https://www.instagram.com/maleyphoto/)
 - [Daniel Casson](https://www.instagram.com/dpc_photography_/)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
 - [Craig Mod](https://www.instagram.com/craigmod/)

@@ -117,3 +117,4 @@
 - [Wojciech Jarosz Bibliography](https://github.com/wkjarosz/rendering-bib) - Publications mostly in computer graphics, rendering, transport theory, and statistics.
 - [OpenImageIO](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 - [Deep Learning Medical Decathlon Demos for Python](https://github.com/IntelAI/unet)
+- [Computer Animation and Simulation (2020)](http://www-scf.usc.edu/~csci520/)

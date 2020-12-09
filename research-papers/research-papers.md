@@ -26,6 +26,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Get started with computer science papers](https://developer.sh/posts/computer-science-papers)
 - [Scientific papers I haven't been able to find](http://trettel.org/papers-to-find.html)
 - [List of favorite papers read](https://twitter.com/EbisuyaMiki/status/1294878974821138434)
+- [Ask HN: What's the best paper you've read in 2020?](https://news.ycombinator.com/item?id=25346456)
 
 ## Notes
 

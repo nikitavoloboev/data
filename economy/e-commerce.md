@@ -54,3 +54,4 @@
 - [Store theme powered by VTEX and Gatsby](https://github.com/vtex-sites/storecomponents.store)
 - [Next.js SY Store Commerce](https://github.com/rangigo/systore-commerce)
 - [Build an E-commerce Website with Webiny Serverless Headless CMS, Next.js, and Stripe (2020)](https://www.webiny.com/blog/tutorial-e-commerce-nextjs-stripe)
+- [Building a scalable e-commerce data model (2020)](https://resources.fabric.inc/blog/ecommerce-data-model) ([HN](https://news.ycombinator.com/item?id=25353148))

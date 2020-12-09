@@ -40,3 +40,4 @@
 - [Best practices with cloud-optimized-geotiffs (COGs)](https://github.com/pangeo-data/cog-best-practices)
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)
 - [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ([Docs](https://docs.mapbox.com/mapbox-gl-js/api/))
+- [Zood](https://www.zood.xyz/) - End encrypted location sharing service like Google Latitude. ([HN](https://news.ycombinator.com/item?id=25347915))

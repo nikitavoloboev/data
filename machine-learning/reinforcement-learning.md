@@ -143,3 +143,4 @@
 - [ViZDoom](https://github.com/mwydmuch/ViZDoom) - Doom-based AI Research Platform for Reinforcement Learning from Raw Visual Information. ([Web](http://vizdoom.cs.put.edu.pl/))
 - [Reinforcement Learning at Microsoft](https://www.microsoft.com/en-us/research/blog/research-collection-reinforcement-learning-at-microsoft/)
 - [banditml](https://github.com/banditml/banditml) - Lightweight contextual bandit & reinforcement learning library designed to be used in production Python services.
+- [SUMO-RL](https://github.com/LucasAlegre/sumo-rl) - Provides a simple interface to instantiate Reinforcement Learning environments with SUMO for Traffic Signal Control.

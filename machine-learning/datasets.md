@@ -58,3 +58,4 @@
 - [Traditional Chinese Landscape Painting Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset)
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 - [Wikimedia Downloads](https://dumps.wikimedia.org/) - Download all of Wikipedia free.
+- [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/) ([Reddit](https://www.reddit.com/r/gwern/comments/k9iqd3/how_to_shuffle_a_big_dataset/))

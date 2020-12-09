@@ -187,3 +187,6 @@
 - [Reimplementation of LiteFlowNet using PyTorch](https://github.com/sniklaus/pytorch-liteflownet)
 - [Julius](https://github.com/adefossez/julius) - Fast PyTorch based DSP for audio and 1D signals.
 - [PyTorch Points 3D](https://github.com/nicolas-chaulet/torch-points3d) - PyTorch framework for doing deep learning on point clouds.
+- [PyTorch Lightning project template](https://github.com/PyTorchLightning/deep-learning-project-template)
+- [TorchData](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like).
+- [pytorch_memlab](https://github.com/Stonesjtu/pytorch_memlab) - Profiling and inspecting memory in PyTorch.

@@ -169,4 +169,4 @@ I publish most of my work and make it open source for other people to use and re
 - [recent](https://github.com/yoshuawuyts/recent) - Get the recent issues and pull-requests on github.
 - [github auth.js](https://github.com/octokit/auth.js) - GitHub API authentication library for JavaScript and Node.js.
 - [GitHub Universe](https://githubuniverse.com/) ([Code](https://github.com/githubevents/universe2020))
-- [Style your readme using CSS](https://github.com/sindresorhus/css-in-readme-like-wat)
+- [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat) ([HN](https://news.ycombinator.com/item?id=25349068))

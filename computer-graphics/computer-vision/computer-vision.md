@@ -176,3 +176,5 @@
 - [Implicit Neural Representations with Periodic Activation Functions](https://github.com/vsitzmann/siren)
 - [Computational Imaging Stanford Lab](http://www.computationalimaging.org/)
 - [Trimap-Free Solution for Portrait Matting in Real Time](https://github.com/ZHKKKe/MODNet)
+- [Local Light Field Fusion](https://github.com/Fyusion/LLFF)
+- [Awesome Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)

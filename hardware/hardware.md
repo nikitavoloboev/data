@@ -141,3 +141,5 @@
 - [DIY NAS: 2020 Edition](https://blog.briancmoses.com/2020/11/diy-nas-2020-edition.html)
 - [These are called opportunities (2020)](https://fabiensanglard.net/silicone/) ([HN](https://news.ycombinator.com/item?id=25285862))
 - [ChipWhisperer](https://github.com/newaetech/chipwhisperer) - Complete open-source toolchain for side-channel power analysis and glitching attacks. ([Docs](https://rtfm.newae.com/))
+- [Building a new C64 in 2020](https://www.youtube.com/watch?v=ZtpRdVTuHQw)
+- [A Modern Primer on Processing in Memory (2020)](https://arxiv.org/abs/2012.03112)

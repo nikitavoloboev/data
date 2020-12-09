@@ -157,3 +157,5 @@
 - [a12n-server](https://github.com/curveball/a12n-server) - Ready-to-go OAuth2 server for Node.js.
 - [pure-http](https://github.com/htdangkhoa/pure-http) - Simple web framework for Node.js with zero dependencies.
 - [Distributed Systems with Node.js: Building Enterprise-Ready Backend Services (2020)](https://lobste.rs/s/2gvhvd/distributed_systems_with_node_js)
+- [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc) - Build your Typescript Node.js projects using blazing fast esbuild.
+- [esbuild-runner](https://github.com/folke/esbuild-runner) - Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild.

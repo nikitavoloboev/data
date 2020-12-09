@@ -360,3 +360,4 @@
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Leading software for creating deepfakes.
 - [Deep Learning DIY](https://dataflowr.github.io/website/) ([Code](https://github.com/dataflowr/notebooks)) ([GitHub](https://github.com/dataflowr))
 - [Using JAX to accelerate our research (2020)](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) ([HN](https://news.ycombinator.com/item?id=25332526))
+- [Stanford MLSys Seminar Series (2020)](https://mlsys.stanford.edu/)

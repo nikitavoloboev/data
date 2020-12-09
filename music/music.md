@@ -88,3 +88,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Bliss music analyzer](https://github.com/Polochon-street/bliss) - Open-source library that evaluates distance between songs. ([Web](https://lelele.io/bliss.html))
 - [Resonate](https://resonate.is/) - Community-owned music network.
 - [Socialfy](https://www.socialfy.app/) - Your Spotify listening, more socially. Share what you're currently listening too, your top artists, and more. ([Code](https://github.com/rdrnt/socialfy-frontend))
+- [80% of musicians earn less than £200 a year from streaming (2020)](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510) ([HN](https://news.ycombinator.com/item?id=25352088))

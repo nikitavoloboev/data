@@ -394,3 +394,4 @@ Go promotes composition over inheritance.
 - [Go Server/API boilerplate using best practices, DDD, CQRS, ES, gRPC](https://github.com/vardius/go-api-boilerplate)
 - [Golds](https://github.com/go101/golds) - Experimental Go local docs server/generator and code reader.
 - [generate](https://github.com/a-h/generate) - Generates Go Structs from JSON schema.
+- [Go: A Documentary](https://golang.design/history/) - Collects many interesting (publicly observable) issues, discussions, proposals, CLs, and talks from the Go development process. ([Code](https://github.com/golang-design/history))
