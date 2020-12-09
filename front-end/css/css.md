@@ -237,3 +237,4 @@
 - [CSSTree](https://github.com/csstree/csstree) - Tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations.
 - [CSS Scan Pro](https://cssscanpro.com/) - Re-imagined Devtools for web design.
 - [The Rules of Margin Collapse (2020)](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [CSS Scroll Snap (2020)](https://ishadeed.com/article/css-scroll-snap/)

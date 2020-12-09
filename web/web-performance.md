@@ -113,3 +113,4 @@
 - [Optimizing Your Web App 100x is Like Adding 99 Servers (2020)](https://lukerissacher.com/blog/optimizing_your_web_app) ([HN](https://news.ycombinator.com/item?id=25165752))
 - [require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
 - [Awesome web performance list](https://github.com/geldmacher/awesome-performance)
+- [Why is the Google Cloud UI so slow? (2020)](https://www.debugbear.com/blog/slow-google-cloud-ui) ([HN](https://news.ycombinator.com/item?id=25357409))

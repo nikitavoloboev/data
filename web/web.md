@@ -204,3 +204,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [WebMention Support (2020)](https://christine.website/blog/webmention-support-2020-12-02) ([Lobsters](https://lobste.rs/s/lqxlyr/webmention_support))
 - [Porting a 100% local app to the web (2020)](https://actualbudget.com/blog/porting-local-app-web) ([HN](https://news.ycombinator.com/item?id=25304100))
 - [Periodic Table of the Web](https://wwwperiodictable.surge.sh/) ([Code](https://github.com/CrazyPython/wwwpreiodictable))
+- [24 ways](https://24ways.org/) - Web design and development articles and tutorials for advent.
+- [dvlp](https://github.com/popeindustries/dvlp) - No-configuration, no-conditionals, no-middleware, no-nonsense dev server toolkit to help you develop quickly and easily for the web.

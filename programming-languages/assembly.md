@@ -23,3 +23,4 @@
 - [Learn Assembly by Writing Entirely Too Many Brainfuck Compilers in Rust (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/too-many-brainfuck-compilers.md)
 - [Wrote some ARM (2019)](http://seenaburns.com/2019/04/17/wrote-some-arm/)
 - [Assembly Tutorials](https://www.assemblytutorial.com/) - Learn Z80 Assembly Programming.
+- [ARM and Thumb-2 Instruction Set Quick Reference](http://users.ece.utexas.edu/~valvano/Volume1/QuickReferenceCard.pdf)

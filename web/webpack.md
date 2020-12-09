@@ -41,3 +41,4 @@
 - [webpack-chain](https://github.com/neutrinojs/webpack-chain) - Chaining API to generate and simplify the modification of Webpack configurations.
 - [Webpack site code](https://github.com/webpack/webpack.js.org)
 - [Advanced React and Webpack configuration (2020)](https://marlom.dev/advanced-react-and-webpack-configuration)
+- [Tips to Optimize Webpack (2020)](https://www.ginkonote.com/users/flo/articles/tips-for-wepack-optimizations@javascript)

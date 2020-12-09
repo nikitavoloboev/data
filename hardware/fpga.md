@@ -44,3 +44,4 @@
 - [Finn](https://github.com/Xilinx/finn) - Fast, Scalable Quantized Neural Network Inference on FPGAs.
 - [Project F - FPGA Development Blog](https://projectf.io/) ([SystemVerilog designs](https://github.com/projf/projf-explore))
 - [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGA.
+- [Learning FPGA, yosys, nextpnr, and RISC-V](https://github.com/BrunoLevy/learn-fpga)

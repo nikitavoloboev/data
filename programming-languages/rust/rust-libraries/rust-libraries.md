@@ -191,6 +191,7 @@
 - [Horrorshow](https://github.com/Stebalien/horrorshow-rs) - Macro-based html builder for rust.
 - [pipeline.rs](https://github.com/johannhof/pipeline.rs) - Macro collection to pipe your functions calls, like in F# or Elixir.
 - [timed](https://github.com/y2kappa/timed) - Rust crate to time your function using derive annotations.
+- [paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs.
 
 ## Other
 
@@ -569,6 +570,10 @@
 - [genovo](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
 - [dhat](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
 - [Polonius](https://github.com/rust-lang/polonius) - Core library that models the borrow check.
+- [Thermite SIMD](https://github.com/raygon-renderer/thermite) - SIMD library focused on providing portable SIMD acceleration of SoA (Structure of Arrays) algorithms.
+- [generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust.
+- [numeric-array](https://github.com/novacrazy/numeric-array) - Wrapper around generic-array that adds efficient numeric trait implementations.
+- [par-stream](https://github.com/jerry73204/par-stream) - Asynchronous Parallel Stream for Rust.
 
 ## Cargo Plugins
 

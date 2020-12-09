@@ -13,3 +13,4 @@
 - [gomarkov](https://github.com/mb-14/gomarkov) - Go implementation of markov chains for textual data.
 - [Hidden Markov models in PyMC3](https://github.com/AmpersandTV/pymc3-hmm)
 - [Wayeb](https://github.com/ElAlev/Wayeb) - Complex Event Processing and Forecasting (CEP/F) engine written in Scala.
+- [Mici](https://github.com/matt-graham/mici) - Manifold Markov chain Monte Carlo methods in Python.

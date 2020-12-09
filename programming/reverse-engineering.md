@@ -8,6 +8,7 @@
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 - [Binary Analysis Next Generation (BANG)](https://github.com/armijnhemel/binaryanalysis-ng) - Framework for unpacking files (like firmware) recursively and running checks on the unpacked files.
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
+- [Rizin](https://github.com/rizinorg/rizin) - Fork of the radare2 reverse engineering framework with a focus on usability, working features and code cleanliness. ([Web](https://rizin.re/))
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
 - [Reverse Engineering For Beginners (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
 - [Reverse engineering course (Focuses on x64 Windows)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ([HN](https://news.ycombinator.com/item?id=22061842))

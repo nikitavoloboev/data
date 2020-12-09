@@ -44,3 +44,4 @@
 - [My Beef With RuboCop (2020)](https://www.rubypigeon.com/posts/my-beef-with-rubocop/) ([Lobsters](https://lobste.rs/s/wgi0rn/my_beef_with_rubocop)) ([HN](https://news.ycombinator.com/item?id=25147990))
 - [RubyConf 2020](https://www.alchemists.io/articles/ruby_conf_2020/)
 - [Bazel Ruby Rules](https://github.com/coinbase/rules_ruby)
+- [TypeProf](https://github.com/ruby/typeprof) - Experimental type-level Ruby interpreter for testing and understanding Ruby code.

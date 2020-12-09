@@ -131,3 +131,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Neurax](https://github.com/redcode-labs/Neurax) - Library for constructing self-spreading binaries.
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources. ([Web](https://cloudcustodian.io/))
 - [Depix](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots. ([HN](https://news.ycombinator.com/item?id=25326450))
+- [Honest Security](https://honest.security/) - Guide to endpoint security and device management that doesn't erode your values. ([Code](https://github.com/kolide/honest.security))

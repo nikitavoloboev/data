@@ -52,3 +52,4 @@
 - [Lentil](https://www.lentil.xyz/) - Advanced camera toolkit for the Arnold renderer. Ray tracing through real lenses. ([HN](https://news.ycombinator.com/item?id=25045034))
 - [Factorio Raytracer](https://twitter.com/notch/status/1328335971176370181)
 - [rpt](https://github.com/ekzhang/rpt) - Physically-based path tracer in Rust.
+- [Raygon](https://github.com/raygon-renderer/readme) - High-performance proprietary CPU path tracer written in the Rust programming language.

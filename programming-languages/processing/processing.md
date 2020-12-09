@@ -7,3 +7,4 @@
 - [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](http://learningprocessing.com/)
 - [Perfect loops in Processing](https://bjango.com/articles/processingperfectloops/)
 - [OpenProcessing](https://www.openprocessing.org/) - Creative Coding for the Curious Mind.
+- [Codecember](https://github.com/johhnry/codecember) - One Processing sketch a day during december.

@@ -149,6 +149,7 @@
 - [Cloud SQL Proxy](https://github.com/GoogleCloudPlatform/cloudsql-proxy) - Allows a user with the appropriate permissions to connect to a Second Generation Cloud SQL database without having to deal with IP whitelisting or SSL certificates manually.
 - [SQLDB-Logger](https://github.com/simukti/sqldb-logger) - Logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 - [Kallax](https://github.com/src-d/go-kallax) - PostgreSQL typesafe ORM for the Go language.
+- [Gonudb](https://github.com/iand/gonudb) - Append-only key/value datastore written in Go.
 
 ## ML
 
@@ -626,6 +627,8 @@
 - [slice](https://github.com/go-dash/slice) - Functional utilities from Lodash for working with slices in Go.
 - [go-yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [Feature flags API in Go](https://github.com/AntoineAugusti/feature-flags)
+- [wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go.
+- [Gotcha](https://github.com/1pkg/gotcha) - Seamlessly patches go runtime to provide a convenient way to track amount of heap allocated bytes, objects, calls per goroutine.
 
 ## Links
 

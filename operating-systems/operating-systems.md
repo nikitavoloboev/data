@@ -69,6 +69,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications.
 - [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/))
 - [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
+- [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
+- [Contiki](https://github.com/contiki-os/contiki) - Open source operating system that runs on tiny low-power microcontrollers.
 
 ## Notes
 

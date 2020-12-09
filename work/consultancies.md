@@ -156,6 +156,7 @@
 - [Jantcu](https://jantcu.com/) - Web design & tech consulting. ([GitHub](https://github.com/Jantcu))
 - [Mwie Ltd](http://www.mwie.com/)
 - [STRV](https://www.strv.com/) - Software Design & Engineering.
+- [Typeable](https://typeable.io/) - Haskell, FP, software development and consulting. ([GitHub](https://github.com/typeable))
 
 ## Links
 

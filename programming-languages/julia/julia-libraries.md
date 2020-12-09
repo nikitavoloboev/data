@@ -133,6 +133,7 @@
 - [Match.jl](https://github.com/kmsquire/Match.jl) - Advanced Pattern Matching for Julia.
 - [PlutoUI.jl](https://github.com/fonsp/PlutoUI.jl) - Tiny package to make HTML input tag a bit more Julian.
 - [Fermionic](https://github.com/Marco-Di-Tullio/Fermionic.jl) - Toolkit for fermonic quantum computation in Julia.
+- [FileTrees.jl](https://github.com/shashi/FileTrees.jl) - Parallel file processing made easy.
 
 ## Links
 

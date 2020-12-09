@@ -143,3 +143,4 @@
 - [ChipWhisperer](https://github.com/newaetech/chipwhisperer) - Complete open-source toolchain for side-channel power analysis and glitching attacks. ([Docs](https://rtfm.newae.com/))
 - [Building a new C64 in 2020](https://www.youtube.com/watch?v=ZtpRdVTuHQw)
 - [A Modern Primer on Processing in Memory (2020)](https://arxiv.org/abs/2012.03112)
+- [Fast14 Technology: Design Technology for the Automation of Multi-Gigahertz Digital Logic](https://en.wikichip.org/w/images/d/d4/Fast14_Technology.pdf)

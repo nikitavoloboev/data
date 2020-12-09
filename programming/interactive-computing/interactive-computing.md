@@ -14,3 +14,5 @@
 - [Cables](https://cables.gl/) - Tool for creating beautiful interactive content. With an easy to navigate interface and real time visuals.
 - [CS294: Building User-Centered Programming Tools (2020)](http://schasins.com/cs294-usable-programming-2020/)
 - [Learnable Programming (2012)](http://worrydream.com/#!/LearnableProgramming)
+- [How Observable Runs (2018)](https://observablehq.com/@observablehq/how-observable-runs)
+- [observablehq/runtime](https://github.com/observablehq/runtime) - Observable dataflow runtime.

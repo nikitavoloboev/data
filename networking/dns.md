@@ -60,3 +60,5 @@
 - [SAD DNS Explained (2020)](https://blog.cloudflare.com/sad-dns-explained/)
 - [DNS Resolution: Optimization Tools and Opportunities (2020)](https://ashu.online/blogs/optimize-dns-resolution-for-fast-website)
 - [Improving DNS Privacy with Oblivious DoH (2020)](https://blog.cloudflare.com/oblivious-dns/) ([HN](https://news.ycombinator.com/item?id=25344358))
+- [odoh-go](https://github.com/cloudflare/odoh-go) - Oblivious DoH library in Go.
+- [DNSTools](https://dnstools.ws/) - Perform DNS lookups, pings, traceroutes, and other utilities, from 24 locations around the world. ([Code](https://github.com/Daniel15/dnstools))

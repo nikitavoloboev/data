@@ -58,3 +58,4 @@
 - [Xanadu Quantum Cloud](https://www.xanadu.ai/) - Start building quantum applications today. ([GitHub](https://github.com/XanaduAI))
 - [Google Quantum AI](https://quantumai.google/) - Advancing the state of the art of quantum computing and developing the tools for researchers to operate beyond classical capabilities.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - Library for hybrid quantum-classical machine learning.
+- [Braket Tutorials GitHub](https://github.com/aws/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.

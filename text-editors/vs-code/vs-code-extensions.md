@@ -325,6 +325,10 @@ Below is a list of extensions I use.
 
 - [Agda Mode](https://marketplace.visualstudio.com/items?itemName=banacorn.agda-mode) ([Code](https://github.com/banacorn/agda-mode-vscode))
 
+## Fun
+
+- [VSinder](https://github.com/benawad/vsinder) - Dating app for programmers where you swipe on code. ([Tweet](https://twitter.com/benawad/status/1336691028473090050)) ([API](https://github.com/benawad/vsinder-api))
+
 ## Theme
 
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) ([Code](https://github.com/sdras/night-owl-vscode-theme)) ([Web](https://night-owl-swag.netlify.app/))

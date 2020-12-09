@@ -171,3 +171,4 @@
 - [GraphQL Resolvers](https://github.com/lucasconstantino/graphql-resolvers) - Resolver composition library for GraphQL.
 - [GraphQL Galaxy](https://graphqlgalaxy.com/) - Biggest GraphQL conference in the cloud.
 - [graphql-compiler](https://github.com/kensho-technologies/graphql-compiler) - Turn complex GraphQL queries into optimized database queries.
+- [Unpopular opinion: SQL is better than GraphQL (2020)](https://twitter.com/rakyll/status/1336528841481674752) ([HN](https://news.ycombinator.com/item?id=25358005))

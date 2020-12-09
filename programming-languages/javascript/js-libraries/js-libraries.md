@@ -381,6 +381,7 @@
 - [Notyf](https://github.com/caroso1222/notyf) - Minimalistic, responsive, vanilla JavaScript library to show toast notifications.
 - [Moveable](https://github.com/daybrush/moveable) - Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable.
 - [Execa](https://github.com/sindresorhus/execa) - Process execution for humans.
+- [quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache.
 
 ## Links
 

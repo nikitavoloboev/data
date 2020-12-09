@@ -190,3 +190,4 @@
 - [PyTorch Lightning project template](https://github.com/PyTorchLightning/deep-learning-project-template)
 - [TorchData](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like).
 - [pytorch_memlab](https://github.com/Stonesjtu/pytorch_memlab) - Profiling and inspecting memory in PyTorch.
+- [NeRF (Neural Radiance Fields) using PyTorch (PyTorch Lightning)](https://github.com/kwea123/nerf_pl)

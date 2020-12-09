@@ -278,3 +278,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Information Storage and Archiving strategies (2020)](https://strikingloo.github.io/wiki-articles/information-storage/archiving)
 - [zettel](https://github.com/hackstream/zettel) - Notes organizer - based on Zettelkasten methodology. Written in Go.
 - [Foamy NextJS Starter](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden.
+- [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)

@@ -51,7 +51,7 @@
 - [How VC works - A Beginner's Guide (2020)](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide) ([HN](https://news.ycombinator.com/item?id=23306572))
 - [A.Capital Ventures](https://acapital.com/)
 - [Founder Collective](https://www.foundercollective.com/)
-- [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds.
+- [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds. ([Links](https://linktr.ee/airtreevc))
 - [Examples of cold emails to VCs](https://twitter.com/paulbz/status/1271416616455192584)
 - [Cantos Ventures](http://cantos.vc/)
 - [Raising Money in Today's World (2020)](https://www.youtube.com/watch?v=SPpDJAo0n8g)

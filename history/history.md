@@ -79,3 +79,4 @@
 - [The Best of NeXT Collection](http://www.kevra.org/TheBestOfNext/index.html) ([HN](https://news.ycombinator.com/item?id=25172693))
 - [Native Intelligence (2005)](https://www.smithsonianmag.com/history/native-intelligence-109314481/) ([HN](https://news.ycombinator.com/item?id=25171303))
 - [Cemetery of Soviet computers](https://rusue.com/cemetery-of-soviet-computers/)
+- [2020 In Photos: A Year Like No Other](https://www.nytimes.com/interactive/2020/world/year-in-pictures.html)

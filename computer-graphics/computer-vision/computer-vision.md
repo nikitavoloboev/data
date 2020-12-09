@@ -178,3 +178,5 @@
 - [Trimap-Free Solution for Portrait Matting in Real Time](https://github.com/ZHKKKe/MODNet)
 - [Local Light Field Fusion](https://github.com/Fyusion/LLFF)
 - [Awesome Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+- [Neural Sparse Voxel Fields (NSVF)](https://github.com/facebookresearch/NSVF)
+- [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (2020)](https://arxiv.org/abs/2011.15126) ([Tweet](https://twitter.com/goodfellow_ian/status/1333845997697388544))

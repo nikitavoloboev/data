@@ -194,6 +194,7 @@
 - [swift-create-xcframework](https://github.com/unsignedapps/swift-create-xcframework) - Command Line Tool to create XCFrameworks by wrapping xcodebuild.
 - [xcframework](https://github.com/jeffctown/xcframework) - Simple tool to create an XCFramework.
 - [DVR](https://github.com/venmo/DVR) - Network testing for Swift.
+- [XCResultKit](https://github.com/davidahouse/XCResultKit) - Swift interface for finding and parsing xcresult files that Xcode generates when running tests.
 
 ## API
 

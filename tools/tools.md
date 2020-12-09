@@ -348,7 +348,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-Text you can count on.
 - [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - Lightning-fast linter for .env files. Written in Rust.
-- [Coral](https://coralproject.net/) - Better commenting experience.
+- [Coral](https://coralproject.net/) - Better commenting experience. ([Code](https://github.com/coralproject/talk))
 - [projen](https://github.com/eladb/projen) - Define and maintain complex project configuration through code.
 - [Pory](https://pory.io/) - Create websites using Airtable in minutes.
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.

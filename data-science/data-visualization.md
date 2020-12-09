@@ -37,7 +37,7 @@
 - [Facette](https://github.com/facette/facette) - Time series data visualization software.
 - [Experimental 3D axis for matplotlib](https://github.com/rougier/matplotlib-3d)
 - [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
-- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface.
+- [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface. ([Web](https://plotjuggler.io/)) ([HN](https://news.ycombinator.com/item?id=25357714))
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas.
 - [Glue](https://github.com/glue-viz/glue) - Python project to link visualizations of scientific datasets across many files. ([Web](http://glueviz.org/index.html)) ([Multi Dimensional Linked Data Exploration with Glue](https://www.youtube.com/watch?v=TkMZ9gZ8xtk))
 - [Learning Observable](https://www.youtube.com/playlist?list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e)

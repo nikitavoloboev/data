@@ -88,3 +88,5 @@
 - [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation.
 - [Xapiand](https://github.com/Kronuz/Xapiand) - Modern Highly Available Distributed RESTful Search and Storage Engine built for the Cloud and with Data Locality in mind. ([Web](https://kronuz.io/Xapiand/))
 - [NZBHydra](https://github.com/theotherp/nzbhydra2) - Meta search for newznab indexers and torznab trackers.
+- [Fast Autocomplete Search for Your Website (2018)](https://24ways.org/2018/fast-autocomplete-search-for-your-website/)
+- [Whoogle Search](https://benbusby.com/projects/whoogle-search/) - Self hosted, ad-free, privacy-respecting Google metasearch engine. ([Code](https://github.com/benbusby/whoogle-search))

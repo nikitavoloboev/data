@@ -88,3 +88,4 @@
 - [Bolt](https://github.com/huawei-noah/bolt) - Deep learning library with high performance and heterogeneous flexibility.
 - [hypothesis](https://github.com/montefiore-ai/hypothesis) - Python toolkit for (simulation-based) inference and the mechanization of science.
 - [MMFeat](https://github.com/douwekiela/mmfeat) - Multi-modal features toolkit in Python.
+- [Flower](https://github.com/adap/flower) - Friendly Federated Learning Framework. ([Web](https://flower.dev/))

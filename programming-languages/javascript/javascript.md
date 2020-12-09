@@ -240,3 +240,4 @@
 - [Component Driven User Interfaces](https://www.componentdriven.org/) - Open standard for UI component examples based on JavaScript ES6 modules. ([Code](https://github.com/ComponentDriven/csf))
 - [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [Building a Promise from Scratch (2020)](https://www.youtube.com/watch?v=CVzx-6fu0d8)
+- [Tips and tricks for working with types in JavaScript](https://github.com/voxpelli/types-in-js)

@@ -56,7 +56,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Concordium](https://www.concordium.com/) - Improved smart contract platform and ecosystem for real-world businesses.
 - [NEAR Protocol](https://github.com/nearprotocol/nearcore) - Scalable and usable blockchain.
 - [Harmony](https://github.com/harmony-one/harmony) - Core protocol of harmony.
-- [DAML smart contract language](https://github.com/digital-asset/daml)
+- [DAML](https://daml.com/) - Build full-stack, distributed applications for DLT, Blockchain, or databases in days. ([Code](https://github.com/digital-asset/daml)) ([Article](https://serokell.io/blog/daml-interview))
 - [Solana](https://github.com/solana-labs/solana) - New blockchain architecture built from the ground up for scale. The architecture supports up to 710 thousand transactions per second on a gigabit network.
 - [go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 - [MIT: Blockchain and Money (2018)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) ([Lectures](https://www.youtube.com/watch?v=EH6vE97qIP4))

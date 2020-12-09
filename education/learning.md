@@ -88,3 +88,4 @@
 - [Evergreen Skills for Software Developers](https://github.com/romenrg/evergreen-skills-developers)
 - [Chet](https://chet.social/) - Share, discover, and discuss meaningful content tailored to your profession, interests, and aspirations.
 - [Learn Difficult Concepts with the ADEPT Method (2014)](https://betterexplained.com/articles/adept-method/)
+- [Preserve Knowledge YouTube](https://www.youtube.com/c/PreserveKnowledge/featured) - Canada higher education media organization that focuses on advances in mathematics, computer science, and artificial intelligence.

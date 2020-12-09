@@ -281,3 +281,5 @@
 - [localizer](https://github.com/jaredallard/localizer) - No-frills local development tool for service developers working in Kubernetes.
 - [Velero](https://velero.io/) - Backup and migrate Kubernetes resources and persistent volumes. ([Code](https://github.com/vmware-tanzu/velero))
 - [kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon.
+- [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for observing the current versions of images running in the cluster, as well as the latest available upstream.
+- [Octopod](https://github.com/typeable/octopod) - Open-source self-hosted solution for managing multiple deployments in a Kubernetes cluster in a user-friendly web interface.

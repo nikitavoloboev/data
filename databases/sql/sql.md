@@ -16,7 +16,7 @@
 - [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
 - [BlazingSQL](https://github.com/BlazingDB/pyBlazing) - Lightweight, GPU accelerated, SQL engine built on RAPIDS.
 - [Ways to Tweak Slow SQL Queries](https://www.databasestar.com/slow-sql) ([HN](https://news.ycombinator.com/item?id=20855441))
-- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+- [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. ([Web](https://osquery.io/)) ([osquery launcher](https://github.com/kolide/launcher))
 - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. ([HN](https://news.ycombinator.com/item?id=21799988))
@@ -79,3 +79,4 @@
 - [mfsqlchecker](https://github.com/MedFlyt/mfsqlchecker) - Statically validate correctness of all your SQL queries. TypeScript, PostgreSQL.
 - [SQLiterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool. ([Web](http://sqlmap.org/))
+- [SQL Conventions](https://github.com/FGRibreau/sql-convention)

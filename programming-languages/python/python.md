@@ -223,3 +223,5 @@
 - [blackdoc](https://github.com/keewis/blackdoc) - Tool that applies black to code in documentation.
 - [Exhaustiveness Checking with Mypy (2020)](https://hakibenita.com/python-mypy-exhaustive-checking)
 - [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python.
+- [Python behind the scenes (2020)](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
+- [Python behind the scenes: a list of resources](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)

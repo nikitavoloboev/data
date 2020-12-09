@@ -186,3 +186,4 @@
 - [Delve](https://github.com/delve-team/delve) - Python package for visualizing deep learning model training.
 - [Graph Mining @ NeurIPS 2020](https://gm-neurips-2020.github.io/) ([Talks](https://www.youtube.com/playlist?list=PLY5kjoYG4AfHQWhYB7cNS5X2QlMg5WIpV))
 - [jax_verify](https://github.com/deepmind/jax_verify) - Neural network verification in JAX.
+- [Self-supervised learning through the eyes of a child (2020)](https://arxiv.org/abs/2007.16189) ([Code](https://github.com/eminorhan/baby-vision))

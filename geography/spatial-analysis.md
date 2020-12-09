@@ -39,5 +39,7 @@
 - [Spatial computing could be the next big thing (2020)](https://www.scientificamerican.com/article/spatial-computing-could-be-the-next-big-thing/) ([HN](https://news.ycombinator.com/item?id=25216621))
 - [Best practices with cloud-optimized-geotiffs (COGs)](https://github.com/pangeo-data/cog-best-practices)
 - [Awesome Geospatial Companies](https://github.com/chrieke/awesome-geospatial-companies)
-- [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ([Docs](https://docs.mapbox.com/mapbox-gl-js/api/))
+- [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL. ([Docs](https://docs.mapbox.com/mapbox-gl-js/api/)) ([OSS Fork](https://github.com/openmaptiles/gl-js))
 - [Zood](https://www.zood.xyz/) - End encrypted location sharing service like Google Latitude. ([HN](https://news.ycombinator.com/item?id=25347915))
+- [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles))
+- [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))

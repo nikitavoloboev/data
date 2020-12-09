@@ -164,3 +164,4 @@
 - [Core C++ 2020](https://corecpp.org/)
 - [xrepo](https://github.com/xmake-io/xrepo/) - Cross-platform C/C++ package manager based on Xmake. ([Lobsters](https://lobste.rs/s/8kiuad/modern_c_c_package_manager))
 - [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/) ([HN](https://news.ycombinator.com/item?id=25322891))
+- [C++ is not cross platform anymore (2019)](https://blog.noctua-software.com/cpp-is-not-cross-platform-anymore.html)

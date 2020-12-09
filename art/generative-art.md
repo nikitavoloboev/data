@@ -88,3 +88,4 @@
 - [Etienne Jacob's Animations](https://bleuje.github.io/animations/) ([Code](https://github.com/Bleuje/bleuje.github.io))
 - [Interview with Etienne Jacob (2020)](https://www.generativehut.com/post/interview-with-etienne-jacob)
 - [wavegrower's animations](https://wavegrower.tumblr.com/) ([Code](https://www.openprocessing.org/user/44137))
+- [Codecember](https://codecember.ink/) - Create compform (computation form), one sketch a day. ([Code](https://github.com/codecember-ink/codecember))

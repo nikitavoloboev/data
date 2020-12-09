@@ -11,6 +11,7 @@
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
 - [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency.
 - [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
+- [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
 
 ## Links
 
@@ -43,3 +44,4 @@
 - [Crytic-compile](https://github.com/crytic/crytic-compile) - Abstraction layer for smart contract build systems.
 - [Introduction to Cryptocurrencies (2020)](https://etherplan.com/2020/11/16/introduction-to-cryptocurrencies/13648/)
 - [Jesse](https://github.com/jesse-ai/jesse) - Advanced crypto trading framework which aims to simplify researching and defining trading strategies. ([Web](https://jesse.trade/))
+- [Valora](https://valoraapp.com/) - Mobile payments app that works worldwide. ([Code](https://github.com/celo-org/celo-monorepo/tree/master/packages/mobile))

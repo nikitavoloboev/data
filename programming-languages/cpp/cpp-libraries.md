@@ -33,6 +33,7 @@
 
 - [Cinder](https://github.com/cinder/Cinder) - Peer-reviewed, free, open source C++ library for creative coding. ([Web](https://libcinder.org/)) ([Docs](https://libcinder.org/docs/index.html))
 - [Terathon Math Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library containing classes for vectors, matrices, quaternions, and elements of projective geometric algebra.
+- [VGC](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation. ([Web](https://www.vgc.io/))
 
 ## DB
 
@@ -147,6 +148,7 @@
 - [incbin](https://github.com/graphitemaster/incbin) - Include binary files in C/C++.
 - [uDepot](https://github.com/IBM/uDepot) - Multi-threaded, scalable, persistent store that is flash optimized by using a log-structured space allocation and GC framework.
 - [PDAL](https://github.com/PDAL/PDAL) - Point Data Abstraction Library. GDAL for point cloud data. ([Docs](https://pdal.io/))
+- [painless](https://github.com/sharkdp/painless) - Header-only C++ library that provides an easy way to use interactive parameters in your program.
 
 ## Links
 
