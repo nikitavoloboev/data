@@ -171,3 +171,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Universe](https://githubuniverse.com/) ([Code](https://github.com/githubevents/universe2020))
 - [CSS in GitHub Readmes](https://github.com/sindresorhus/css-in-readme-like-wat) ([HN](https://news.ycombinator.com/item?id=25349068))
 - [GitHub Archive Program](https://archiveprogram.github.com/) - Preserving open source software for future generations.
+- [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/) ([HN](https://news.ycombinator.com/item?id=25364000))
