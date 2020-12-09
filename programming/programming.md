@@ -292,3 +292,4 @@
 - [Software Design for Flexibility](https://mitpress.mit.edu/books/software-design-flexibility) ([HN](https://news.ycombinator.com/item?id=25322938))
 - [Adventures in Advanced Symbolic Programming (2020)](http://groups.csail.mit.edu/mac/users/gjs/6.945/)
 - [State Machines resources](https://github.com/achou11/state-machines)
+- [Code Review Best Practices – Lessons from the Trenches (2020)](https://blogboard.io/blog/code-review-best-practices) ([HN](https://news.ycombinator.com/item?id=25362375))

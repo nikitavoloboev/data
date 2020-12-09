@@ -79,3 +79,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Interview Primer for Quantitative Finance](https://github.com/dwcoder/QuantitativePrimer) ([PDF](https://github.com/dwcoder/QuantitativePrimer/blob/master/src/QuantitativePrimer.pdf))
 - [Stripe Treasury](https://stripe.com/treasury) - Banking-as-a-service for platforms. ([Tweet](https://twitter.com/patio11/status/1334518202886328320)) ([HN](https://news.ycombinator.com/item?id=25289626))
 - [Mercury Treasury](https://mercury.com/treasury) - Automatic cash management for high-growth startups.
+- [The Games People Play with Cash Flow (2020)](https://commoncog.com/blog/cash-flow-games/) ([HN](https://news.ycombinator.com/item?id=25357669))

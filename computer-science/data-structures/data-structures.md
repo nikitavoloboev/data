@@ -54,5 +54,5 @@
 - [What is key-value store? (build-your-own-x) (2020)](http://djkooks.github.io/build-your-own-kv-store)
 - [Lesser Known but Useful Data Structures](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
 - [Using Bloom filters to efficiently synchronize hash graphs (2020)](https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html)
-- [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/)
+- [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/) ([HN](https://news.ycombinator.com/item?id=25342922))
 - [3 Steps to Designing Better Data Structures (2020)](https://mochromatic.com/3-steps-to-designing-better-data-structures-in-elixir/)

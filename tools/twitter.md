@@ -52,5 +52,5 @@
 - [I Made a Self-Quoting Tweet (2020)](https://oisinmoran.com/quinetweet) ([HN](https://news.ycombinator.com/item?id=25244872))
 - [Tools for fighting abuse on Twitter](https://github.com/travisbrown/cancel-culture) - Contains some low-tech tools designed to help you make Twitter a nicer place for yourself.
 - [DownloadThisVideo](https://thisvid.space/) - Download videos and GIFs off Twitter. ([Code](https://github.com/shalvah/DownloadThisVideo))
-- [Typefully](https://typefully.app/) - Write & publish great tweets, without distractions.
+- [Typefully](https://typefully.app/) - Write & publish great tweets, without distractions. ([HN](https://news.ycombinator.com/item?id=25358108))
 - [Twitter Monitor](https://github.com/ezolla/Twitter-Monitor) - Monitor Twitter Accounts w/ Discord Webhooks.

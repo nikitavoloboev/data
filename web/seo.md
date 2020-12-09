@@ -44,3 +44,4 @@
 - [Improving Performance and Search Rankings with Cloudflare for Fun and Profit (2020)](https://blog.cloudflare.com/improving-performance-and-search-rankings-with-cloudflare-for-fun-and-profit/)
 - [Effortless SEO Testing](https://seotesting.com/) - Track the changes you make to pages and websites, to see if they have an effect on Google rankings and clicks.
 - [Lean SEO](https://www.starterstory.com/lean-seo) - Our Framework For SEO Traction.
+- [Getting started with SEO 101 (2020)](https://twitter.com/jdnoc/status/1336699825325268993)

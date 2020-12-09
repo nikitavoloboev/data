@@ -121,6 +121,7 @@
 - [ComponentKit](https://github.com/facebook/componentkit) - View framework for iOS that is heavily inspired by React. ([Web](https://componentkit.org/))
 - [ColorKit](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 - [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection for iOS (Swift).
+- [Typist](https://github.com/totocaster/Typist) - Swift UIKit keyboard manager for iOS apps.
 
 ## macOS
 
