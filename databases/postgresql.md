@@ -182,3 +182,4 @@
 - [pg-shortkey](https://github.com/turbo/pg-shortkey) - YouTube-like Short IDs as Postgres Primary Keys. ([HN](https://news.ycombinator.com/item?id=25288188))
 - [pg-mem](https://github.com/oguimbal/pg-mem) - Experimental in-memory emulation of a postgres database. Useful for unit tests.
 - [pg-listen](https://github.com/andywer/pg-listen) - Postgres LISTEN & NOTIFY that works.
+- [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users.

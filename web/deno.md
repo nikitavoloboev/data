@@ -58,3 +58,4 @@
 - [Opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS.
 - [deno_doc](https://github.com/denoland/deno_doc) - Rust crate to generate documentation for JavaScript and TypeScript modules.
 - [PostCSS for Deno](https://github.com/postcss/postcss-deno)
+- [HN: Deno 1.6 supports compiling TypeScript to a single executable (2020)](https://news.ycombinator.com/item?id=25366484)

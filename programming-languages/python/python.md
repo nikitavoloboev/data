@@ -225,3 +225,4 @@
 - [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python.
 - [Python behind the scenes (2020)](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
 - [Python behind the scenes: a list of resources](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)
+- [Darker](https://github.com/akaihola/darker) - Reformat and lint modified Python code.
