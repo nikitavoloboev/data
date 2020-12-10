@@ -574,6 +574,8 @@
 - [generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust.
 - [numeric-array](https://github.com/novacrazy/numeric-array) - Wrapper around generic-array that adds efficient numeric trait implementations.
 - [par-stream](https://github.com/jerry73204/par-stream) - Asynchronous Parallel Stream for Rust.
+- [triple-buffer](https://github.com/HadrienG2/triple-buffer) - Implementation of triple buffering written in Rust.
+- [linked-list-allocator](https://github.com/phil-opp/linked-list-allocator) - Create a static allocator.
 
 ## Cargo Plugins
 

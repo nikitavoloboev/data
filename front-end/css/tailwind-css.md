@@ -50,3 +50,4 @@
 - [Windy](https://usewindy.com/) - Transform every element on any website to Tailwind CSS.
 - [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) - Local UI tool for visualizing your Tailwind CSS configuration file.
 - [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography) - Plugin that provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don't control.
+- [Beamwind](https://github.com/kenoxa/beamwind) - Collection of packages to compile Tailwind CSS like shorthand syntax into CSS at runtime.

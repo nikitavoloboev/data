@@ -52,6 +52,10 @@
 - [ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
 - [Forma 36](https://f36.contentful.com/) - Contentful Design System. ([Code](https://github.com/contentful/forma-36))
 
+## Notes
+
+- [If you have 10 teams working independently, you're already maintaining 10 design systems—or even more. It's cheaper to do it once.](https://twitter.com/markdalgleish/status/1336954195400802308)
+
 ## Links
 
 - [Playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.

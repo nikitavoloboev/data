@@ -15,3 +15,4 @@
 - [Facemoji Kit](https://github.com/facemoji/facemoji-kit) - Face tracker with blend shapes coefficients, 3D head pose and dense mesh in real-time on iOS, Android, Mac, PC and Linux.
 - [SceneKit PortalMask](https://github.com/maxxfrazer/SceneKit-PortalMask) - Clean class to create a portal in SceneKit for use in ARKit.
 - [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - Bringing the scanning box from SceneKit to RealityKit.
+- [AR with SceneKit and Metal (2020)](https://emillindfors.com/blog/2020-12/ar-with-scenekit-and-metal/)

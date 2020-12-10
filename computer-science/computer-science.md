@@ -23,7 +23,7 @@
 - [CS/ML notes](https://tlienart.github.io/pub/csml.html)
 - [Computer Science Roadmap (AI Track)](https://github.com/yngz/cs-roadmap)
 - [Computer Science for The Busy Developer](https://learn.codexpanse.com/courses/computer-science-for-the-busy-developer) - High speed overview of fundamental areas and concepts of computer science.
-- [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all) ([Reason to reject the ranking](https://twitter.com/yy/status/1317934065144782853))
+- [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all) ([Reason to reject the ranking](https://twitter.com/yy/status/1317934065144782853)) ([Code](https://github.com/emeryberger/CSrankings))
 - [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources)
 - [Our Thoughts on P=NP (2020)](https://rjlipton.wordpress.com/2020/01/12/our-thoughts-on-pnp/)
 - [List of Cornell Computer Science Course Offerings](https://www.cs.cornell.edu/courseinfo/listofcscourses)

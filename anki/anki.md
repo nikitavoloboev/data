@@ -45,3 +45,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki as Learning Superpower: Computer Science Edition (2020)](https://www.gresearch.co.uk/article/anki-as-learning-superpower-computer-science-edition/) ([HN](https://news.ycombinator.com/item?id=24878171))
 - [Memorai](https://memorai.humanloop.ml/) - AI memory assistant – remember everything you read. ([Code](https://github.com/humanloop/memorai))
 - [How to Learn to Code I: Use SRS and Anki (2020)](https://www.youtube.com/watch?v=kshXDo8psj8)
+- [mu](https://github.com/ticki/mu) - Advanced Unix-style Spaced Repetition System.

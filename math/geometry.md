@@ -21,3 +21,4 @@
 - [Mathematical Art by Henry Segerman](https://www.shapeways.com/shops/henryseg)
 - [Synthetic Differential Geometry](https://ncatlab.org/nlab/show/synthetic+differential+geometry)
 - [Hexagonal Grids (2013)](https://www.redblobgames.com/grids/hexagons/) ([HN](https://news.ycombinator.com/item?id=25340425))
+- [Higher-Dimensional Categories: an illustrated guide book (2004)](http://eugeniacheng.com/wp-content/uploads/2017/02/cheng-lauda-guidebook.pdf)

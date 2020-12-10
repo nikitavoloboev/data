@@ -20,7 +20,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Composing better emails (2019)](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for composing effective emails avoiding misunderstandings. ([Lobsters](https://lobste.rs/s/3vfgoc/composing_better_emails))
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - Tool to sync Gmail filters from a config file to your account.
 - [Rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
-- [JMAP](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification.
+- [JMAP](https://github.com/jmapio/jmap) - Developer-friendly, open API standard for modern mail clients and applications to manage email faster. ([Web](https://jmap.io/))
 - [Postmark](https://postmarkapp.com/) - Delivers your transactional email to customers on time, every time.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates)
 - [Postmark Node.js Library](https://github.com/wildbit/postmark.js)
@@ -78,7 +78,6 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Abstract's Expired Trial Email](https://www.swipefiles.co/latest/file) ([Tweet](https://twitter.com/coreyhainesco/status/1275569632523350016))
 - [Advice on writing effective emails](https://rosiecampbell.me/on-writing-effective-emails)
 - [ImprovMX](https://improvmx.com/) - Free email forwarding. Email aliases for your domain name.
-- [JMAP](https://jmap.io/) - JSON Meta Application Protocol Specification.
 - [Email Isn’t Broken, Email Clients Are (2020)](https://medium.com/@alnewkirk/email-isnt-broken-email-clients-are-8badaa14af61) ([Lobsters](https://lobste.rs/s/jhixrm/email_isn_t_broken_email_clients_are))
 - [How to self host your email server (2020)](https://www.garron.blog/posts/host-your-email-server.html) ([Lobsters](https://lobste.rs/s/iatbst/how_self_host_your_email_server))
 - [Why I no longer host my emails myself (2020)](https://jlelse.blog/thoughts/2020/07/no-email-selfhosting/) ([Lobsters](https://lobste.rs/s/wz3px4/why_i_no_longer_host_my_emails_myself))
@@ -119,3 +118,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Reacher](https://reacher.email/) - Open-Source Email Verification API.
 - [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [Bamboo](https://github.com/thoughtbot/bamboo) - Testable, composable, and adapter based Elixir email library for devs that love piping.
+- [IMAP API](https://imapapi.com/) - Self hosted daemon to access IMAP and SMTP accounts via HTTP API. ([Code](https://github.com/andris9/imapapi)) ([HN](https://news.ycombinator.com/item?id=25372987))

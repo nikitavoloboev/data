@@ -382,3 +382,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Savee](https://savee.it/) - Browse and save curated inspiration from designers over all around the world.
 - [Experimental Capture course](https://github.com/golanlevin/ExperimentalCapture) - Concerned with the creation of systems to enable new ways of seeing.
 - [Metropolitan Museum of Art](https://www.metmuseum.org/)
+- [openArtBrowser](https://openartbrowser.org/en/) - Exploring the world of arts using open data. ([Code](https://github.com/hochschule-darmstadt/openartbrowser))

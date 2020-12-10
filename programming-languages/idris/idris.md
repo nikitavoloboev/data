@@ -33,3 +33,4 @@
 - [Idris, a language that will change the way you think about programming (2020)](https://crufter.com/idris-a-language-that-will-change-the-way-you-think-about-programming)
 - [idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util) - Utilities and documentation for exploring idirs2's new elaborator reflection.
 - [idris2-sop](https://github.com/stefan-hoeck/idris2-sop) - Idris port of Haskell's sop-core and generic-sop libraries.
+- [Session types in Idris2](https://github.com/wenkokke/idris-sesh)

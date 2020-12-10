@@ -191,3 +191,5 @@
 - [TorchData](https://github.com/szymonmaszke/torchdata) - PyTorch dataset extended with map, cache etc. (tensorflow.data like).
 - [pytorch_memlab](https://github.com/Stonesjtu/pytorch_memlab) - Profiling and inspecting memory in PyTorch.
 - [NeRF (Neural Radiance Fields) using PyTorch (PyTorch Lightning)](https://github.com/kwea123/nerf_pl)
+- [Faster PyTorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
+- [Axial Attention in PyTorch](https://github.com/lucidrains/axial-attention) - Implementation of Axial Attention - attending to multi-dimensional data efficiently.

@@ -116,3 +116,6 @@
 - [V8 WASM Compilation Pipeline (2020)](https://v8.dev/docs/wasm-compilation-pipeline)
 - [ws_stream_wasm](https://github.com/najamelan/ws_stream_wasm) - Convenience library for using web sockets in WASM.
 - [Orthogonal Persistence, Webassembly, and Rust (2020)](https://charted.space/orthogonal-persistence.html) ([Lobsters](https://lobste.rs/s/kdea1p/orthogonal_persistence_webassembly))
+- [acot](https://github.com/acot-a11y/acot) - Open-source Accessibility Testing Framework.
+- [Debugging WebAssembly with modern tools (2020)](https://developers.google.com/web/updates/2020/12/webassembly)
+- [WebAssembly as Meta-Language (2020)](https://docs.google.com/document/d/14T8RPgQKztURiHmzyP_Ju2S9nrIZWDaAb8eSx3NiiYw/mobilebasic)

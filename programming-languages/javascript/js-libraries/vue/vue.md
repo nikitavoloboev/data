@@ -40,3 +40,4 @@
 - [Vue Telemetry](https://vuetelemetry.com/) - Discover websites made with Nuxt.js.
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template.
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - Online Conference.
+- [Volar](https://github.com/johnsoncodehk/volar) - Faster and more accurate TypeScript support of Vue 3.

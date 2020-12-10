@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
+- [Thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [Prometheus & Grafana docker-compose stack](https://github.com/vegasbrianc/prometheus)
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - High-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus. ([Web](https://victoriametrics.com/)) ([First look at performance comparison between InfluxDB IOx and VictoriaMetrics](https://medium.com/@VictoriaMetrics/first-look-at-perfomance-comparassion-between-influxdb-iox-and-victoriametrics-e590f847935b))
 - [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.

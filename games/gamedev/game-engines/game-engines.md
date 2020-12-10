@@ -54,6 +54,7 @@
 - [Physics3D](https://github.com/ThePhysicsGuys/Physics3D) - 3D physics engine, written in C++.
 - [macroquad](https://github.com/not-fl3/macroquad) - Simple and easy to use game library for Rust programming language, heavily inspired by raylib.
 - [Skynet](https://github.com/cloudwu/skynet) - Lightweight online game framework which can be used in many other fields.
+- [Nazara Engine](https://github.com/DigitalPulseSoftware/NazaraEngine) - Fast, complete, cross-platform, object-oriented API which can help you in your daily developer life.
 
 ## Physics engines
 

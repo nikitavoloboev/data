@@ -283,3 +283,4 @@
 - [kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon.
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for observing the current versions of images running in the cluster, as well as the latest available upstream.
 - [Octopod](https://github.com/typeable/octopod) - Open-source self-hosted solution for managing multiple deployments in a Kubernetes cluster in a user-friendly web interface.
+- [Argo Events](https://github.com/argoproj/argo-events) - Event-driven Workflow Automation Framework. ([Docs](https://argoproj.github.io/argo-events/))

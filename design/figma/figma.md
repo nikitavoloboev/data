@@ -45,3 +45,4 @@
 - [Figma Config Europe 2020 videos](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7kSHHiltBqo3FK__aB5HZi)
 - [10 tips to work 10x faster in Figma (2020)](https://www.youtube.com/watch?v=i-9mgOL3mHw)
 - [FigmaCourses](https://www.figmacourses.com/) - Learn everything on Figma.
+- [Figside](https://figside.com/) - Ship Websites with Figma.

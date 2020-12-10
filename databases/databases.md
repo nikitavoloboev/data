@@ -138,6 +138,7 @@
 - [ShardingSphere](https://github.com/apache/shardingsphere) - Distributed Database Middleware Ecosphere.
 - [ln2sql](https://github.com/FerreroJeremy/ln2sql) - NLP tool to query a database in natural language.
 - [Hue](https://gethue.com/) - Open source SQL Assistant for Data Warehouses. ([Code](https://github.com/cloudera/hue))
+- [ley](https://github.com/lukeed/ley) - Driver-agnostic database migrations.
 
 ## Links
 
@@ -265,3 +266,4 @@
 - [Seeing is Believing: A Client-Centric Specification of Database Isolation](http://www.cs.cornell.edu/lorenzo/papers/Crooks17Seeing.pdf)
 - [Scaling Datastores at Slack with Vitess (2020)](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
 - [dbdocs](https://dbdocs.io/) - Database Documentation and Catalog Tool.
+- [Fast database UPDATE/DELETE operations (2020)](https://www.spinellis.gr/blog/20201210/)

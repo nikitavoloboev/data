@@ -23,3 +23,6 @@
 - [BY-GEN](https://github.com/curtibsjamesholt/BY-GEN-public) - Generative Modeling Toolkit for Blender.
 - [Curtis Holt YouTube](https://www.youtube.com/curtisholt) - Does videos on 3D modelling / Blender.
 - [Blender in Docker](https://github.com/nytimes/rd-blender-docker) - Collection of Docker containers for running Blender headless or distributed.
+- [Blender Add-on: Screencast Keys](https://github.com/nutti/Screencast-Keys) - Display the Keyboard/Mouse and Operation status.
+- [fake-bpy-module](https://github.com/nutti/fake-bpy-module) - Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
+- [Blender Add-on: Magic UV](https://github.com/nutti/Magic-UV) - Many UV manipulation features which Blender lack of.

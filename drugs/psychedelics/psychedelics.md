@@ -42,6 +42,7 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
   - I have no experience with breathwork but having been on a couple meditation retreats I can certainly tell you the experiences can become very similar.
 - [Dissociatives and psychedelics remove the conflict of interest when it comes to working on yourself. We get in the way normally, but then these drugs remove us from ourselves so we can look at ourselves without “ourselves.”](https://www.reddit.com/r/RationalPsychonaut/comments/j0uv2q/dissociatives_and_psychedelics_remove_the/)
 - [I kept tripping expecting every trip to show me or teach me a killer valuable lesson and that never happened. Instead I learned over all those years that I don’t own the truth, and that my reality (or rather my perception of it) is truly given by my context, my education, social life, opportunities and so on. So I can’t play judge and be judgmental about people and their situations because context is everything. I’ve learned to be aware and try and be less biased towards life. It took about 6 years to finally realize I was learning this the whole time.](https://www.reddit.com/r/RationalPsychonaut/comments/jpfsxk/after_having_not_taken_psychedelics_in_a_year_and/)
+- [Psychedelic assisted therapy is the product here - not psychedelics. Also you are completely missing the opportunity now presents through decriminalization for research into making even better drugs. Less side effects, less duration, more precise results. There’s now a run for companies to patent a drug that will be time release inside of your therapeutic lsd capsule so it stops the trip at a designated interval.](https://www.reddit.com/r/investing/comments/k9tkww/psychedelic_substances_may_be_the_next_cannabis/)
 
 ## Links
 
@@ -88,3 +89,6 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Serotonin Receptor 2A Activation Promotes Evolutionarily Relevant Basal Progenitor Proliferation in the Developing Neocortex (2020)](<https://www.cell.com/neuron/fulltext/S0896-6273(20)30758-3>)
 - [Pivotal mental states (2020)](https://journals.sagepub.com/doi/pdf/10.1177/0269881120959637) - Introduces a new construct, the ‘pivotal mental state’, which is defined as a hyper-plastic state aiding rapid and deep learning that can mediate psychological transformation.
 - [Within](https://trywithin.com/) - In-Home Psychedelic Therapy.
+- [MindMed](https://mindmed.co/) - Psychedelic Medicine & Therapies.
+- [COMPASS Pathways](https://compasspathways.com/) - Researching how psilocybin therapy could help people with treatment-resistant depression.
+- [Numinus](https://numinus.ca/) - Addressing the universal desire to heal and be well.

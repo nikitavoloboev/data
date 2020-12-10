@@ -44,3 +44,4 @@
 - [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles))
 - [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))
 - [We Built Scalable Spatial Indexing in CockroachDB (2020)](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
+- [Leaflet.glify](https://github.com/robertleeplummerjr/Leaflet.glify) - Functional, ridiculously fast web gl renderer plugin for leaflet.

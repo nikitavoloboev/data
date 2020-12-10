@@ -99,6 +99,7 @@
 - [Standing Out in 2020: Doing Content Right (2020)](https://gumroad.com/l/doing-content-right) ([Resources Directory](https://www.notion.so/The-Doing-Content-Right-Directory-b170d7682d9f48aca2d946479fd27809)) ([Videos](https://www.youtube.com/playlist?app=desktop&list=PLDJ41lE0dRgopf_3Et1zJMzYYXAL8eYPL))
 - [GrowthList](https://www.thegrowthlist.co/) - Browse +120 proven tactics to boost your growth.
 - [Autopilot](https://www.autopilothq.com/) - Marketing automation software made visual.
+- [Getting our first 1000 users in one day (2020)](https://francescodilorenzo.com/typefully-launch) ([HN](https://news.ycombinator.com/item?id=25374319))
 
 ## Images
 

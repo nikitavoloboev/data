@@ -8,3 +8,4 @@
 - [lsp-server](https://github.com/rust-analyzer/lsp-server) - Language server scaffold exposing a crossbeam-channel API.
 - [LSIF development and testing utilities](https://github.com/sourcegraph/lsif-test)
 - [LSIF protocol utilities for Go](https://github.com/sourcegraph/lsif-protocol)
+- [lsp-test](https://github.com/bubba/lsp-test) - Functional testing framework for Language Server Protocol servers.

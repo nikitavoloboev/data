@@ -26,6 +26,7 @@
 - [Democrat](https://github.com/etienne-dldc/democrat) - Library that mimic the API of React (Components, hooks, Context...) but instead of producing DOM mutation it produces a state tree.
 - [Raj](https://github.com/andrejewski/raj) - Elm Architecture for JavaScript.
 - [Reframe](https://github.com/reframejs/reframe) - New kind of web framework.
+- [observablehq/stdlib](https://github.com/observablehq/stdlib) - Observable standard library.
 
 ## Animation
 
@@ -40,6 +41,7 @@
 - [FAT](https://github.com/nextapps-de/fat) - Web's fastest and most lightweight animation tool.
 - [React Easy Flip](https://github.com/jlkiri/react-easy-flip) - Lightweight React library for smooth FLIP animations.
 - [AOS](https://github.com/michalsnik/aos) - Animate on scroll library.
+- [flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
 
 ## CLI
 
@@ -48,6 +50,7 @@
 ## Test
 
 - [Unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit. ([Docs](https://unexpected.js.org/))
+- [Fishery](https://github.com/thoughtbot/fishery) - Library for setting up JavaScript objects as test data.
 
 ## State management
 
@@ -382,6 +385,9 @@
 - [Moveable](https://github.com/daybrush/moveable) - Draggable, Resizable, Scalable, Rotatable, Warpable, Pinchable, Groupable, Snappable.
 - [Execa](https://github.com/sindresorhus/execa) - Process execution for humans.
 - [quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache.
+- [Deepdash](https://github.com/YuriGor/deepdash) - Tree traversal library written in Underscore/Lodash fashion. ([Docs](https://deepdash.io/))
+- [Nano Delay](https://github.com/ai/nanodelay) - Tiny (25 bytes) Promise wrapper around setTimeout.
+- [ES Module Lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis.
 
 ## Links
 

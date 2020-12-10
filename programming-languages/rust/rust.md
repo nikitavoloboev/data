@@ -384,3 +384,4 @@
 - [Futures Explained in 200 Lines of Rust](https://cfsamson.github.io/books-futures-explained/) ([Code](https://github.com/cfsamson/books-futures-explained))
 - [bacon](https://github.com/Canop/bacon) - Background rust code check.
 - [Inside Rust at Embark (2019)](https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4)
+- [Deploy Rust lambda functions on Netlify](https://github.com/netlify/rust-functions-example)

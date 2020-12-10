@@ -56,3 +56,4 @@
 - [Build an E-commerce Website with Webiny Serverless Headless CMS, Next.js, and Stripe (2020)](https://www.webiny.com/blog/tutorial-e-commerce-nextjs-stripe)
 - [Building a scalable e-commerce data model (2020)](https://resources.fabric.inc/blog/ecommerce-data-model) ([HN](https://news.ycombinator.com/item?id=25353148))
 - [Shopify Storefront API](https://shopify.dev/docs/storefront-api) - Allows you to build custom ecommerce experiences. ([Examples](https://github.com/Shopify/storefront-api-examples))
+- [Sanity.io and Next.js Ecommerce Starter](https://github.com/kmelve/next-js-e-commerce)

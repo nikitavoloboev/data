@@ -70,3 +70,4 @@
 - [Navigating the GAN Parameter Space for Semantic Image Editing](https://github.com/yandex-research/navigan)
 - [Data-Efficient GANs with DiffAugment](https://github.com/mit-han-lab/data-efficient-gans)
 - [Adversarial Generation of Continuous Images (2020)](https://arxiv.org/abs/2011.12026) ([Code](https://github.com/universome/inr-gan))
+- [Unsupervised image-to-image translation method via pre-trained StyleGAN2 network](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)

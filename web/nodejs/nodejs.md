@@ -160,3 +160,4 @@
 - [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc) - Build your Typescript Node.js projects using blazing fast esbuild.
 - [esbuild-runner](https://github.com/folke/esbuild-runner) - Super-fast on-the-fly transpilation of modern JS, TypeScript and JSX using esbuild.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
+- [Node Package Maintenance Team](https://github.com/nodejs/package-maintenance) - Discussion of helping with maintenance of key packages in the ecosystem.

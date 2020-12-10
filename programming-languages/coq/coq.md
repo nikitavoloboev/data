@@ -3,7 +3,7 @@
 ## Links
 
 - [UniMath](https://github.com/UniMath/UniMath) - Coq library aims to formalize a substantial body of mathematics using the univalent point of view.
-- [Mathematical Components](https://math-comp.github.io/) - Libraries of formalized mathematics developed using the Coq proof assistant.
+- [Mathematical Components](https://math-comp.github.io/) - Libraries of formalized mathematics developed using the Coq proof assistant. ([GitHub](https://github.com/math-comp))
 - [Mathematical Components book](https://math-comp.github.io/mcb/)
 - [Mathematical Components compliant Analysis Library](https://github.com/math-comp/analysis)
 - [QuickChick](https://github.com/QuickChick/QuickChick) - Randomized Property-Based Testing Plugin for Coq.
@@ -47,3 +47,4 @@
 - [Alectryon](https://github.com/cpitclaudel/alectryon) - Library to process Coq snippets embedded in documents, showing goals and messages for each Coq sentence.
 - [Cerise](https://github.com/logsem/cerise) - Formalisation of a capability machine and principles for reasoning about security properties.
 - [coq-procrastination](https://github.com/Armael/coq-procrastination) - Small Coq library for collecting side conditions and deferring their proof.
+- [Finite maps](https://github.com/math-comp/finmap) - Finite sets, finite maps, multisets and generic sets.

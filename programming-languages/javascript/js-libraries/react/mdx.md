@@ -16,3 +16,5 @@
 - [mdx OCaml](https://github.com/realworldocaml/mdx) - Executable code blocks inside markdown files.
 - [Markdown/MDX with Next.js (2020)](https://nextjs.org/blog/markdown)
 - [micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm) - Micromark extension to support MDX JS import/exports.
+- [remark-mdx-filter-imports](https://github.com/jknoxville/remark-mdx-filter-imports) - Strip mdx imports that match a given pattern.
+- [remark-code-snippets](https://github.com/jknoxville/remark-code-snippets) - Remark plugin for importing snippets of source files, as code blocks, based on markers found in the file.

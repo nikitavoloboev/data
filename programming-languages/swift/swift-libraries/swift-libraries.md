@@ -122,6 +122,8 @@
 - [ColorKit](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 - [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection for iOS (Swift).
 - [Typist](https://github.com/totocaster/Typist) - Swift UIKit keyboard manager for iOS apps.
+- [OneTimePassword](https://github.com/mattrubin/OneTimePassword) - TOTP and HOTP one-time passwords for iOS.
+- [BadgeHub](https://github.com/jogendra/BadgeHub) - Quickly add a notification badge icon to any view.
 
 ## macOS
 
@@ -186,6 +188,7 @@
 - [HighlightedTextEditor](https://github.com/kyle-n/HighlightedTextEditor) - SwiftUI view for dynamically highlighting user input.
 - [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - Collection of missing SwiftUI components.
 - [SlideOverCard](https://github.com/joogps/SlideOverCard) - SwiftUI card view, made great for setup interactions.
+- [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - Swift package for displaying configurable confetti animation.
 
 ## Test
 

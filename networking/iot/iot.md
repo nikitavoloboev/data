@@ -49,3 +49,4 @@
 - [Automated irrigation system](https://github.com/PatrickHallek/automated-irrigation-system) - Open source application to water plants automatically.
 - [EMQ X Broker](https://www.emqx.io/) - Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era.
 - [EMQ X Kuiper](https://www.emqx.io/products/kuiper) - SQL based IoT rule engine running at resource constrained edge devices. ([Code](https://github.com/emqx/kuiper))
+- [IoTGoat](https://github.com/OWASP/IoTGoat) - Deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. ([Web](https://owasp.org/www-project-internet-of-things/))

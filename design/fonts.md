@@ -58,6 +58,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [League Mono](https://github.com/theleagueof/league-mono) - Monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier. ([Web](https://www.theleagueofmoveabletype.com/league-mono))
 - [LiebeHeide](https://liebefonts.com/fonts/liebeheide) - Amazingly real looking handwritten messages with LiebeHeide color font.
 - [Piazzolla font family](https://piazzolla.huertatipografica.com/) ([Code](https://github.com/huertatipografica/piazzolla))
+- [Ellograph](https://connary.com/ellograph.html) - Friendly monospaced typeface with a soft, rounded construction and striking cursive italics.
 
 ## Links
 
@@ -183,3 +184,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [fontmake](https://github.com/googlefonts/fontmake) - Compile fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
 - [OpenType Sanitizer](https://github.com/khaledhosny/ots) - Parses and serializes OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitizing them as it goes.
 - [Fontkit](https://github.com/foliojs/fontkit) - Advanced font engine for Node and the browser, used by PDFKit.
+- [Connary Fagen](https://connary.com/index.html) - Type design studio and foundry.

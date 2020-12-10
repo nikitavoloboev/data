@@ -81,7 +81,7 @@
 - [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries)
 - [Advanced NLP with spaCy](https://course.spacy.io/)
 - [Myle Ott's research](https://myleott.com/)
-- [Natural Language Processing with Python](https://www.nltk.org/book/) - Analyzing Text with the Natural Language Toolkit.
+- [Natural Language Toolkit (NLTK)](https://github.com/nltk/nltk) - Suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. ([Web](http://www.nltk.org/)) ([Book](https://www.nltk.org/book/))
 - [NLP 100 Exercise](https://nlp100.github.io/en/) - Bootcamp designed for learning skills for programming, data analysis, and research activities. ([Code](https://github.com/nlp100/nlp100.github.io))
 - [The Transformer Family (2020)](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)

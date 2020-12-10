@@ -59,3 +59,4 @@
 - [Go-Chassis](https://github.com/go-chassis/go-chassis) - Microservice framework for rapid development of microservices in Go.
 - [Goa](https://github.com/goadesign/goa) - Framework for building micro-services and APIs in Go using a unique design-first approach. ([Web](https://goa.design/))
 - [Lab: Using GCP services to execute transactional workflows in microservices architecture](https://github.com/GoogleCloudPlatform/transactional-microservice-examples)
+- [Confidential Consortium Framework (CCF)](https://github.com/microsoft/CCF) - Open-source framework for building a new category of secure, highly available, and performant applications that focus on multi-party compute and data. ([Docs](https://microsoft.github.io/CCF/master/))

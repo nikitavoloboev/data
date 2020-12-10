@@ -89,3 +89,4 @@
 - [Browser compatibility data](https://github.com/mdn/browser-compat-data) - Describes which platforms particular Web APIs.
 - [Min](https://minbrowser.org/) - Fast, minimal browser that protects your privacy.
 - [Brave Core](https://github.com/brave/brave-core) - Set of changes, APIs, and scripts used for customizing Chromium to make Brave.
+- [SVG Screenshots](https://github.com/felixfbecker/svg-screenshots) - Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.

@@ -67,3 +67,4 @@
 - [Use decision records already](http://beza1e1.tuxen.de/decision_records.html) ([Lobsters](https://lobste.rs/s/h4ced9/use_decision_records_already))
 - [Why aren’t Lean and Agile Collaborating? (2019)](https://medium.com/humanorganisingco/why-arent-lean-and-agile-collaborating-60146847edf2) ([Tweet](https://twitter.com/ergestx/status/1330500607413772294))
 - [5 second feedback (2020)](https://critter.blog/2020/11/26/5-second-feedback/)
+- [Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)

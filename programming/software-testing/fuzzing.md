@@ -31,3 +31,4 @@
 - [jdam](https://gitlab.com/michenriksen/jdam) - Structure-aware JSON fuzzing.
 - [RESTler](https://github.com/microsoft/restler-fuzzer) - First stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 - [FuzzOS (2020)](https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html) - Operating system which is designed specifically for fuzzing.
+- [GUSTAVE](https://github.com/airbus-seclab/gustave) - Embedded OS kernel fuzzer.

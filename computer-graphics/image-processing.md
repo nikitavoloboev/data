@@ -67,3 +67,4 @@
 - [Primitive Pictures](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. ([Primitive for macOS](https://primitive.lol/))
 - [picfit](https://github.com/thoas/picfit) - Reusable Go server to manipulate images (resize, thumbnail, etc.).
 - [dify](https://github.com/jihchi/dify) - Pixel-by-pixel image diffs tool.
+- [imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly.

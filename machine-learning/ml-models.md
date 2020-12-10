@@ -14,3 +14,5 @@
 - [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [What-If Tool](https://pair-code.github.io/what-if-tool/) - Visually probe the behavior of trained machine learning models, with minimal coding. ([Code](https://github.com/PAIR-code/what-if-tool))
 - [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML) - Automatic model creation framework.
+- [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring. ([Web](https://evidentlyai.com/))
+- [MLCube](https://github.com/mlcommons/mlcube) - Project that reduces friction for machine learning by ensuring that models are easily portable and reproducible. ([Docs](https://mlcommons.github.io/mlcube/))

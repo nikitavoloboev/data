@@ -31,6 +31,7 @@
 - [Env](https://github.com/xyproto/env) - Provide default values when fetching environment variables.
 - [Multi Progress Bar](https://github.com/vbauerster/mpb) - Go lib for rendering progress bars in terminal applications.
 - [color](https://github.com/fatih/color) - Color package for Go.
+- [zli](https://github.com/zgoat/zli) - Go library for writing CLI programs. It includes flag parsing, colour escape codes, and various helpful utility functions, and makes testing fairly easy.
 
 ## Test
 
@@ -182,6 +183,7 @@
 - [ristretto255](https://github.com/gtank/ristretto255) - Implements ristretto255, a fast prime-order group.
 - [Secure IO](https://github.com/minio/sio) - Go implementation of the Data At Rest Encryption (DARE) format.
 - [Secure Bytes](https://github.com/meehow/securebytes) - Take any Go data type, serialize it to JSON or GOB and encrypt it with AES.
+- [ec3](https://github.com/mmcloughlin/ec3) - Elliptic Curve Cryptography Compiler.
 
 ## Linux
 

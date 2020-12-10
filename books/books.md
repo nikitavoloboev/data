@@ -207,7 +207,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [NPR's Best Books](https://apps.npr.org/best-books/) ([2020](https://apps.npr.org/best-books/#view=covers&year=2020))
 - [Founder Library Bookshelf](https://www.founderlibrary.com/bookshelf)
 - [Ask HN: Recommend books that give you insight into other professions (2020)](https://news.ycombinator.com/item?id=25317963)
-- [The best books of 2020](https://www.theguardian.com/books/2020/dec/06/the-best-books-of-2020-picked-by-our-acclaimed-guest-authors)
+- [The Best Books of 2020](https://www.theguardian.com/books/2020/dec/06/the-best-books-of-2020-picked-by-our-acclaimed-guest-authors)
+- [The Best Books of 2020 2](https://kottke.org/20/12/the-best-books-of-2020)
 
 ## Notes
 

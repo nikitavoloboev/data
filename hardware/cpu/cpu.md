@@ -65,3 +65,4 @@
 - [vrCPU](https://github.com/visrealm/vrcpu) - Code, documentation, schematics, notes for my Ben Eater inspired breadboard computer and emulator.
 - [ARM and Lock-Free Programming (2020)](https://randomascii.wordpress.com/2020/11/29/arm-and-lock-free-programming/)
 - [Why Is Apple’s M1 Chip So Fast? (2020)](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2) ([HN](https://news.ycombinator.com/item?id=25328292))
+- [Collection of information about ARM cortex-M](https://github.com/rgujju/STM32-projects)

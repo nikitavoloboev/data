@@ -137,3 +137,4 @@
 - [next-google-fonts](https://github.com/joe-bell/next-google-fonts) - Tiny next/head helper for loading Google Fonts fast and asynchronously.
 - [Automatically optimize images on a Next.js MDX Blog (2020)](https://noahfleischmann.com/blog/next-image-optimization)
 - [Build a site from scratch with Next.js, TypeScript, Emotion and Netlify](https://egghead.io/playlists/build-a-blog-with-next-js-typescript-emotion-and-netlify-adcc)
+- [next-client-script](https://github.com/amannn/next-client-script) - Supercharge the performance of your Next.js apps by using a minimal client runtime.

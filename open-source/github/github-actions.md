@@ -71,6 +71,7 @@
 - [CodeQL Action](https://github.com/github/codeql-action) - Runs GitHub's industry-leading static analysis engine, CodeQL, against a repository's source code to find security vulnerabilities.
 - [Login Action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry.
 - [Amazon ECR Login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
+- [PR Merge Bot](https://github.com/squalrus/merge-bot) - GitHub action that manages pull request integrations.
 
 ## Go
 

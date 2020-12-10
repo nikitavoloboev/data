@@ -38,3 +38,4 @@
 - [JSON Schema \$Ref Parser](https://github.com/APIDevTools/json-schema-ref-parser) - Parse, Resolve, and Dereference JSON Schema \$ref pointers.
 - [Benchmarking JSON Parsers (OJ vs SimdJson) (2020)](https://www.mayerdan.com/ruby/2020/11/15/benchmarking-JSON-parser)
 - [jose](https://github.com/panva/jose) - Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies.
+- [JSON Schema Viewer](http://jlblcc.github.io/json-schema-viewer/) - JavaScript tool for visualizing json-schemas. ([Code](https://github.com/jlblcc/json-schema-viewer))

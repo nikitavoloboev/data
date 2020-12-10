@@ -85,3 +85,4 @@
 - [lit-html-server](https://github.com/popeindustries/lit-html-server) - Render lit-html templates on the server as strings or streams (and in the browser too).
 - [hypertag](https://github.com/AndreasPizsa/hypertag) - HTML tag parser built for speed.
 - [DomStorm](https://domstorm.skepticfx.com/) - Dashboard for interesting DOM tricks/techniques. ([Code](https://github.com/skepticfx/domstorm))
+- [Alt vs Figcaption (2020)](https://thoughtbot.com/blog/alt-vs-figcaption)

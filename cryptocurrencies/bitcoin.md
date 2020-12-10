@@ -68,3 +68,7 @@
 - [Lightning Node Management](https://openoms.gitbook.io/lightning-node-management/) - Beginner friendly resources to manage a routing node on the Lightning Network. ([Code](https://github.com/openoms/lightning-node-management))
 - [Bitcoin Tutorials](https://openoms.github.io/bitcoin-tutorials/) - Guides for the RaspiBlitz and Linux desktop. ([Code](https://github.com/openoms/bitcoin-tutorials))
 - [Bitcoin RPC Proxy](https://github.com/Kixunil/btc-rpc-proxy) - Finer-grained permission management for bitcoind.
+- [Brink](https://brink.dev/) - Exists to strengthen the Bitcoin protocol and network through fundamental research and development.
+- [Study Groups for bitcoin protocol developers](https://github.com/chaincodelabs/study-groups)
+- [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
+- [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
