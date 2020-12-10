@@ -113,6 +113,7 @@
 - [Arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data.
 - [Warp 10](https://github.com/senx/warp10-platform) - Open Source Geo Time Series Platform designed to handle data coming from sensors, monitoring systems and the Internet of Things. ([Web](https://warp10.io/))
 - [Eva](https://github.com/Workiva/eva) - Distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
+- [Firestore](https://cloud.google.com/firestore) - Develop rich applications using a fully managed, scalable, and serverless document database. ([Intro](https://ncona.com/2020/12/introduction-to-google-firestore/)) ([Running Google Firestore locally](https://ncona.com/2020/12/running-google-firestore-locally/))
 
 ## Tools
 

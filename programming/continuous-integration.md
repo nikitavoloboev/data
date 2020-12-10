@@ -26,3 +26,4 @@
 - [Buddy](https://buddy.works/) - DevOps Automation Platform.
 - [CDS](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go. ([Web](https://ovh.github.io/cds/))
 - [A tiny CI system (2020)](https://www.0chris.com/tiny-ci-system.html) ([Lobsters](https://lobste.rs/s/fbc6wl/tiny_ci_system))
+- [CI for performance: Reliable benchmarking in noisy environments (2020)](https://pythonspeed.com/articles/consistent-benchmarking-in-ci/) ([Lobsters](https://lobste.rs/s/33xrng/ci_for_performance_reliable))

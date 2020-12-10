@@ -17,7 +17,7 @@
 - [How is search so bad? A case study (2020)](https://svilentodorov.xyz/blog/bad-search/) ([HN](https://news.ycombinator.com/item?id=22091944))
 - [Lobsters: How would one build a search engine today? (2020)](https://lobste.rs/s/n8g3sj/how_would_one_build_search_engine_today)
 - [Building a search engine from scratch (2019)](https://0x65.dev/blog/2019-12-06/building-a-search-engine-from-scratch.html) - Whirlwind tour of the big ideas powering our web search.
-- [Typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences. ([HN](https://news.ycombinator.com/item?id=22181437))
+- [Typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences. ([HN](https://news.ycombinator.com/item?id=22181437)) ([Web](https://typesense.org/))
 - [go-query](https://github.com/rekki/go-query) - Blazingly fast query engine.
 - [Blast](https://github.com/mosuka/blast) - Full text search and indexing server, written in Go, built on top of Bleve.
 - [Riot search](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient full text search engine.

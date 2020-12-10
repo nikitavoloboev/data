@@ -3,7 +3,7 @@
 ## Links
 
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
-- [Homebridge](https://homebridge.io/) - Lightweight NodeJS server that emulates the iOS HomeKit API.
+- [Homebridge](https://homebridge.io/) - Lightweight NodeJS server that emulates the iOS HomeKit API. ([Code](https://github.com/homebridge/homebridge))
 - [hc](https://github.com/brutella/hc) - Lightweight framework to develop HomeKit accessories in Go.
 - [HomeKit Accessory Development Kit (ADK)](https://github.com/apple/HomeKitADK) - Used by silicon vendors and accessory manufacturers to build HomeKit compatible devices.
 - [HKCam](https://github.com/brutella/hkcam) - Open-Source HomeKit Camera With a 3D-Printed Enclosure. ([Web](https://hochgatterer.me/hkcam/))

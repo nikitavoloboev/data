@@ -34,3 +34,4 @@
 - [LiteTree](https://github.com/aergoio/litetree) - SQLite with Branches.
 - [Working with SQLite using Go and Python (2020)](https://www.ardanlabs.com/blog/2020/11/working-with-sqlite-using-go-python.html)
 - [sandman2](https://github.com/jeffknupp/sandman2) - Generates a RESTful API service from your existing database, without requiring you to write a line of code. Works with SQLite.
+- [node-sqlite](https://github.com/kriasoft/node-sqlite) - SQLite client for Node.js applications with SQL-based migrations API written in TypeScript.

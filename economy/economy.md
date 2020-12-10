@@ -63,3 +63,4 @@
 - [EconML](https://github.com/microsoft/EconML) - Python Package for ML-Based Heterogeneous Treatment Effects Estimation. ([Web](https://www.microsoft.com/en-us/research/group/alice/))
 - [Best Economics Books of 2020](https://fivebooks.com/best-books/economics-2020-diane-coyle/)
 - [The Enlightened Economist](http://enlightenmenteconomics.com/) - Economics and business books.
+- [The Great Reset | World Economic Forum](https://www.weforum.org/great-reset/)

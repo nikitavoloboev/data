@@ -42,3 +42,4 @@
 - [Runtime Verification](https://runtimeverification.com/) - Startup company aimed at using runtime verification-based techniques to improve the safety, reliability, and correctness of software systems.
 - [Crucible](https://github.com/GaloisInc/crucible) - Language-agnostic library for performing forward symbolic execution of imperative programs. It provides a collection of data-structures and APIs for expressing programs as control-flow graphs. ([Web](https://crux.galois.com/)) ([Intro](https://galois.com/blog/2020/10/crux-introducing-our-new-open-source-tool-for-software-verification/))
 - [snarky](https://github.com/o1-labs/snarky) - OCaml DSL for verifiable computation.
+- [Proofs Should Repair Themselves (2020)](https://galois.com/blog/2020/12/proofs-should-repair-themselves/) ([Lobsters](https://lobste.rs/s/vh1edq/proofs_should_repair_themselves))

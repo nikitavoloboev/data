@@ -11,3 +11,4 @@
 - [VitaPLUR](http://www.vitaplur.io/) - Harm Prevention gum. Grapefruit and Magnesium-Infused.
 - [How to Use MDMA Safely](https://www.youtube.com/watch?v=hLxNlxsVmZE)
 - [How to “safely” take MDMA](http://matznerd.com/how-to-safely-take-mdma/)
+- [HN: MDMA-assisted couples therapy investigated in pilot trial (2020)](https://news.ycombinator.com/item?id=25363777)

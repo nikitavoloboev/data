@@ -3,7 +3,7 @@
 ## React Native
 
 - [CallStack](https://callstack.com/) - React Native community-trusted, extremely skilled Javascript developers.
-- [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable.
+- [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable. ([GitHub](https://github.com/GaloisInc/))
 - [Akveo](https://www.akveo.com/) - Delivering Web & Mobile Solutions.
 - [Spaceship Studio](https://spaceship.studio/) - Web & mobile development, strategy, and training.
 

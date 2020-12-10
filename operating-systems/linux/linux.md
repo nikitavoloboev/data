@@ -11,6 +11,7 @@
 - [NixOS](nixos.md)
 - [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.
 - [TinyCore Linux](http://tinycorelinux.net/) - Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable. ([HN](https://news.ycombinator.com/item?id=25158736))
+- [HiFiBerryOS](https://github.com/hifiberry/hifiberry-os) - Minimal Linux distribution optimized for audio playback.
 
 ## WM
 

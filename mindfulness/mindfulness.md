@@ -28,3 +28,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Wellness Wisdom](https://wellnesswisdom.substack.com/)
 - [Wellness Wisdom Essay Club - Week 1](https://docs.google.com/document/d/1W5m2qVAvrmodXv10ATWhfwSLZNNtysFyygtZes3-xH0/edit)
 - [Ask HN: What helps you improve your mood and keep your sanity? (2020)](https://news.ycombinator.com/item?id=25099731)
+- [The Future of Breathing | James Nestor (2020)](https://www.youtube.com/watch?v=5vQ0PM7A764)

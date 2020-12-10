@@ -310,3 +310,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How I read books: a guide on how to learn (2020)](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb) ([HN](https://news.ycombinator.com/item?id=25286870))
 - [Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/) ([HN](https://news.ycombinator.com/item?id=25302132))
 - [Nat Eliason's Roam books notes](https://roamresearch.com/#/app/NatsBrain/page/oCtf5BOXi)
+- [Ask HN: How do you decide what books to read? (2020)](https://news.ycombinator.com/item?id=25367016)

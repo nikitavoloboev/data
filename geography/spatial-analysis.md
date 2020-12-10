@@ -43,3 +43,4 @@
 - [Zood](https://www.zood.xyz/) - End encrypted location sharing service like Google Latitude. ([HN](https://news.ycombinator.com/item?id=25347915))
 - [OpenMapTiles](https://openmaptiles.org/) - World maps you can self-host. ([GitHub](https://github.com/openmaptiles))
 - [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))
+- [We Built Scalable Spatial Indexing in CockroachDB (2020)](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)

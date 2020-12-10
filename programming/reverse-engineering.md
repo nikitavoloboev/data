@@ -13,7 +13,7 @@
 - [Reverse Engineering For Beginners (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
 - [Reverse engineering course (Focuses on x64 Windows)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ([HN](https://news.ycombinator.com/item?id=22061842))
 - [Great reverse engineering courses list](https://news.ycombinator.com/item?id=22063610)
-- [Open Security Training Info](http://opensecuritytraining.info/)
+- [Open Security Training Info](http://opensecuritytraining.info/) ([HN](https://news.ycombinator.com/item?id=25369208))
 - [RPISEC RE/VR Courses](https://github.com/JeremyBlackthorne/RPISEC-Courses)
 - [pixd](https://github.com/FireyFly/pixd) - Colourful visualization tool for binary files.
 - [Datalog Disassembly](https://github.com/GrammaTech/ddisasm) - Fast disassembler which is accurate enough for the resulting assembly code to be reassembled.
