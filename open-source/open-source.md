@@ -142,3 +142,6 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Bountysource](https://www.bountysource.com/) - Funding platform for open-source software. ([Code](https://github.com/bountysource/core))
 - [A few ways to make money in FOSS (2020)](https://drewdevault.com/2020/11/20/A-few-ways-to-make-money-in-FOSS.html)
 - [Tribute](https://github.com/nicklockwood/Tribute) - Command-line tool to simplify the process of generating, checking and maintaining open source licenses in your projects.
+- [Open Source Project Criticality Score](https://github.com/ossf/criticality_score)
+- [WG Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on.
+- [Finding Critical Open Source Projects (2020)](https://opensource.googleblog.com/) ([HN](https://news.ycombinator.com/item?id=25381397))

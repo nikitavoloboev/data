@@ -192,6 +192,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Rasa](https://rasa.com/) - Open source conversational AI.
 - [Data Fetcher for Airtable](https://datafetcher.io/)
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
+- [Wix.com](https://www.wix.com/) - Free Website Builder.
 - [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.

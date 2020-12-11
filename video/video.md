@@ -166,3 +166,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Boltstream](https://github.com/benwilber/boltstream) - Self-hosted full end-to-end live video streaming platform. ([HN](https://news.ycombinator.com/item?id=25328622))
 - [AviSynth](https://avs-plus.net/) - Powerful tool for video post-production. It provides ways of editing and processing videos. ([Code](https://github.com/AviSynth/AviSynthPlus))
 - [VEED](https://www.veed.io/) - Create, Edit & Share Videos Online for free. ([API](https://www.veed.io/api))
+- [Along](https://along.video/) - Lets you make your best videos ever - with superpowers.
+- [DTube](https://d.tube/) - Full-featured video sharing website, decentralized. ([Code](https://github.com/dtube/dtube))

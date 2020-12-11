@@ -124,3 +124,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS List All](https://github.com/JohannesEbke/aws_list_all) - List all your AWS resources, all regions, all services.
 - [AWS Perspective](https://github.com/awslabs/aws-perspective) - Tool that quickly visualizes AWS Cloud workloads as architecture diagrams. ([Web](https://aws.amazon.com/solutions/implementations/aws-perspective/))
 - [AWS Proton sample templates](https://github.com/aws-samples/aws-proton-sample-templates)
+- [ConsoleMe](https://github.com/Netflix/consoleme) - Consolidates the management of multiple AWS accounts into a single interface.

@@ -92,3 +92,6 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [MindMed](https://mindmed.co/) - Psychedelic Medicine & Therapies.
 - [COMPASS Pathways](https://compasspathways.com/) - Researching how psilocybin therapy could help people with treatment-resistant depression.
 - [Numinus](https://numinus.ca/) - Addressing the universal desire to heal and be well.
+- [MAPS](https://maps.org/) - Multidisciplinary Association for Psychedelic Studies.
+- [Johns Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
+- [Erowid](https://www.erowid.org/) - Documenting the complex relationship between humans & psychoactives.

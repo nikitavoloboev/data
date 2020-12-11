@@ -267,3 +267,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Project Zero: An iOS zero-click radio proximity exploit odyssey (2020)](https://googleprojectzero.blogspot.com/2020/12/an-ios-zero-click-radio-proximity.html) ([HN](https://news.ycombinator.com/item?id=25270184))
 - [App Launch Time: 7 tips to increase performance](https://www.avanderlee.com/optimization/launch-time-performance-optimization/)
 - [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
+- [A former Uber engineer's disaster story (2020)](https://twitter.com/stantwinb/status/1336890442768547845) ([HN](https://news.ycombinator.com/item?id=25373462)) ([Lobsters](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story))

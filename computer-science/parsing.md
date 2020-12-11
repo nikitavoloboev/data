@@ -12,7 +12,7 @@
 - [Parsing 18 billion JSON lines with Go (2019)](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
 - [Parsing JSON Really Quickly: Lessons Learned (2019)](https://www.youtube.com/watch?v=wlvKAT7SZIQ) ([Article](https://blog.metaobject.com/2020/04/somewhat-less-lethargic-json-support.html))
 - [Functional Parsing - Computerphile (2020)](https://www.youtube.com/watch?v=dDtZLm7HIJs)
-- [Common Expression Language](https://github.com/google/cel-spec) - Implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
+- [Common Expression Language](https://github.com/google/cel-spec) - Implements common semantics for expression evaluation, enabling different applications to more easily interoperate. ([HN](https://news.ycombinator.com/item?id=25377620))
 - [Awesome Unified](https://github.com/unifiedjs/awesome-unified)
 - [Essentials of Interpretation (2020)](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/) ([HN](https://news.ycombinator.com/item?id=22549265))
 - [pest](https://github.com/pest-parser/pest) - General purpose parser written in Rust with a focus on accessibility, correctness, and performance. ([Web](https://pest.rs/))

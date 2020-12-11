@@ -41,3 +41,4 @@
 - [Redis Website Code](https://github.com/redis/redis-io)
 - [RedisJSON](https://github.com/RedisJSON/RedisJSON) - JSON data type for Redis. ([Docs](https://oss.redislabs.com/redisjson/))
 - [Redis Docs](https://redis.io/documentation) ([Code](https://github.com/redis/redis-doc))
+- [Titan](https://github.com/distributedio/titan) - Distributed implementation of Redis compatible layer based on TiKV.

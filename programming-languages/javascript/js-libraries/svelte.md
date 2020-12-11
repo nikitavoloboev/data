@@ -22,7 +22,7 @@
 - [SSG](https://github.com/sw-yx/ssg) - Svelte Site Generator. why try this? because sapper has a lot of setup, and isn't great at pipelining data.
 - [svelvet](https://github.com/jakedeichert/svelvet) - CLI svelte compiler & watcher that works with snowpack.
 - [Optimistic, Offline-First Apps with Svelte and Amplify DataStore (2020)](https://www.swyx.io/writing/svelte-amplify-datastore)
-- [Svelte Preprocess](https://github.com/kaisermann/svelte-preprocess) - Svelte preprocessor with baked in support for common used preprocessors.
+- [Svelte Preprocess](https://github.com/sveltejs/svelte-preprocess) - Svelte preprocessor with baked in support for common used preprocessors.
 - [Lobsters: Svelte is unappealing (2020)](https://lobste.rs/s/d6yta7/svelte_is_unappealing)
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
 - [Svelte DevTools](https://github.com/RedHatter/svelte-devtools) - Extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
@@ -67,3 +67,4 @@
 - [svelthree](https://github.com/vatro/svelthree) - Svelte powered three.js development. ([Web](https://svelthree.dev/)) ([Tweet](https://twitter.com/vatro_vrbanic/status/1287052921591529475))
 - [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020) ([HN](https://news.ycombinator.com/item?id=25288043))
 - [How Does Svelte Actually Work? (2019)](https://dev.to/zev/how-does-svelte-actually-work-part-1-j9m)
+- [svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component.

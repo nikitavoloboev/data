@@ -60,3 +60,4 @@
 - [Guide on preventing Website Scraping](https://github.com/JonasCz/How-To-Prevent-Scraping)
 - [Bibliographies of the Bibliometric-enhanced Information Retrieval workshops and related other workshops](https://github.com/PhilippMayr/Bibliometric-enhanced-IR_Bibliography)
 - [news-please](https://github.com/fhamborg/news-please) - Open source, easy-to-use news crawler that extracts structured information from almost any news website.
+- [Web crawling with Python (2020)](https://www.scrapingbee.com/blog/crawling-python/)

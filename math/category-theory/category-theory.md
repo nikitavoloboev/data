@@ -102,6 +102,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [David Jaz Myers: Paradigms of composition (2020)](https://www.youtube.com/watch?v=50s62D5Ah-M)
 - [ACT 2020 Recordings](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYot9VNdLlZqGajHyZUywdI)
 - [David Jaz Myers: Open dynamical systems, trajectories and hierarchical planning (2020)](https://www.youtube.com/watch?v=3FxeY5DbPn0)
+- [Quiver](https://q.uiver.app/) - Modern commutative diagram editor. ([Code](https://github.com/varkor/quiver)) ([HN](https://news.ycombinator.com/item?id=25213201))
 
 ## Images
 

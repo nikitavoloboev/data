@@ -41,6 +41,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
 - [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. ([Code](https://github.com/middleman/middleman))
 - [Bagatto](https://sr.ht/~subsetpark/bagatto/) - Extensible, transparent static site generator. ([Lobsters](https://lobste.rs/s/7ibntu/bagatto_extensible_transparent_static)) ([Getting Started](https://bagatto.co/guides/getting-started-with-bagatto.html))
+- [meli](https://github.com/getmeli/meli) - Open source platform for deploying static sites and frontend applications.
 
 ## Notes
 

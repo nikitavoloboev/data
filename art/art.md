@@ -48,6 +48,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Cheryl Young](https://cysketch.com/)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
+- [Lee kyutae](https://www.instagram.com/kokooma_/)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Lindsey Leigh](https://www.lindseyleighart.com/)
 - [Daniel Castro Maia](https://www.dcmaia.art/)

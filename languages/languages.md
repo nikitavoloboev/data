@@ -17,3 +17,4 @@
 - [European Language Grid](https://www.european-language-grid.eu/) - European Languages Datasets.
 - [Habits of Successful Language Learners (2019)](https://learnjapanesebest.wordpress.com/2019/10/10/habits-of-successful-language-learners/)
 - [Ask HN: Can someone talk me out of learning new languages (2020)](https://news.ycombinator.com/item?id=25108739)
+- [Inuttitut, a language shaped by humility, poetry, and the land (2020)](https://beside.media/new-narratives/nuna/) ([HN](https://news.ycombinator.com/item?id=25378558))

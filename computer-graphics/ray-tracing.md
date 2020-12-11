@@ -53,3 +53,4 @@
 - [Factorio Raytracer](https://twitter.com/notch/status/1328335971176370181)
 - [rpt](https://github.com/ekzhang/rpt) - Physically-based path tracer in Rust.
 - [Raygon](https://github.com/raygon-renderer/readme) - High-performance proprietary CPU path tracer written in the Rust programming language.
+- [Jaeger](https://www.jaegertracing.io/) - Open source, end-to-end distributed tracing. ([Code](https://github.com/jaegertracing/jaeger))

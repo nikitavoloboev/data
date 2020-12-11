@@ -1,8 +1,6 @@
 # Research
 
-Research is an interesting topic and something that plays a big role in my life. I like to think that I do research every day.
-
-## How I do research
+## How I research
 
 The most useful thing that has helped me be more productive in uncovering new and interesting things is to do things with a purpose. Research included.
 
@@ -73,3 +71,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [PLOS Journals](https://plos.org/#journals) - Influential Open Access journals across all areas of science and medicine.
 - [Guide to Awesome Research Proposals](https://github.com/dair-ai/awesome-research-proposals-guide)
 - [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
+- [Crossminds](https://crossminds.ai/) - Latest Tech Research Videos. ([Explore](https://crossminds.ai/explore/))

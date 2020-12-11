@@ -33,3 +33,4 @@
 - [Hypervisor Memory Introspection](https://github.com/hvmi/hvmi)
 - [vAmiga](https://github.com/dirkwhoffmann/vAmiga) - Emulates a Commodore Amiga 500, 1000, or 2000 on your Mac.
 - [Butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine.
+- [Awesome Open Source Emulators](https://github.com/alnacle/awesome-emulators)

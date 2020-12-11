@@ -19,6 +19,8 @@
 - [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool. ([Web](https://n8n.io/))
 - [Integromat](https://www.integromat.com/en/) - Advanced online automation platform.
+- [Ask HN: What's are your personal automations? (2020)](https://news.ycombinator.com/item?id=25381191)
+- [Robocorp](https://robocorp.com/) - Open source stack for simplifying automation. ([GitHub](https://github.com/robocorp))
 
 ## Images
 

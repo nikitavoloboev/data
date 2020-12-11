@@ -93,8 +93,10 @@
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 - [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
+- [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) - Instagram Private API Swift.
 - [Instagram Private API in Python](https://github.com/ping/instagram_private_api)
 - [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
+- [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.

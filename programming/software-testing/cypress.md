@@ -16,3 +16,4 @@
 - [cypress-wait-until](https://github.com/NoriSte/cypress-wait-until) - Add the Cypress waiting power to virtually everything.
 - [Mastering UI Testing with Cypress](https://github.com/NoriSte/working-software-mastering-ui-testing)
 - [Cypress Real Events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
+- [HN: Cypress (2020)](https://news.ycombinator.com/item?id=25381242)

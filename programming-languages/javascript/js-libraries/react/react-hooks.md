@@ -71,6 +71,7 @@
 - [useDebouncy](https://github.com/eavam/use-debouncy) - Small (180 bytes) debounce effect hook for React with TypeScript support.
 - [useComments](https://github.com/beerose/use-comments) - React hook to effortlessly add a comment section to your website, and start the discussion on your content.
 - [react-delta](https://github.com/malerba118/react-delta) - Experimental effects API for react.
+- [Compose react refs](https://github.com/seznam/compose-react-refs) - Small utility that composes two or more react refs into a ref callback.
 
 ## Notes
 

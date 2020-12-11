@@ -42,3 +42,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [The Story Behind Markdown (2020)](https://capiche.com/e/markdown-history) - How plain text got formatting, styled like classic emails. ([HN](https://news.ycombinator.com/item?id=24860615))
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser done right. Fast and easy to extend.
 - [lezer-markdown](https://github.com/lezer-parser/markdown) - Incremental Markdown (CommonMark, in fact) parser that integrates well with the Lezer parser system.
+- [Madoko](https://github.com/koka-lang/madoko) - Fast Scholarly Markdown Processor.

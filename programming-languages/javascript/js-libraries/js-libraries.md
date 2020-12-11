@@ -27,6 +27,7 @@
 - [Raj](https://github.com/andrejewski/raj) - Elm Architecture for JavaScript.
 - [Reframe](https://github.com/reframejs/reframe) - New kind of web framework.
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - Observable standard library.
+- [Choo](https://github.com/choojs/choo) - Sturdy 4kb frontend framework. ([Web](https://www.choo.io/))
 
 ## Animation
 

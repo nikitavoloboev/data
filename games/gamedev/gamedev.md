@@ -121,3 +121,4 @@
 - [Designing The Witcher 3's Most Famous Quest (2020)](https://www.youtube.com/watch?v=5gvVp9cP8xc)
 - [Quake’s 3-D Engine: The Big Picture](https://www.bluesnews.com/abrash/chap70.shtml)
 - [Game UI Database](https://www.gameuidatabase.com/) - Reference tool for interface designers.
+- [Ask HN: I'm quitting my job, will create a game – any advice? (2020)](https://news.ycombinator.com/item?id=25376714)

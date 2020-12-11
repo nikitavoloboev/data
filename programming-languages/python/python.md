@@ -153,6 +153,7 @@
 - [Mypyc](https://github.com/python/mypy/tree/master/mypyc) - Mypy to Python C Extension Compiler. ([Lobsters](https://lobste.rs/s/3c1oog/mypyc_mypy_python_c_extension_compiler))
 - [Developing Python with Poetry & Poetry2nix: Reproducible flexible Python environments (2020)](https://www.tweag.io/blog/2020-08-12-poetry2nix/)
 - [Structural pattern matching for Python (2020)](https://lwn.net/Articles/827179/)
+- [Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [Python Data model](https://docs.python.org/3/reference/datamodel.html)
 - [Python Documentation](https://docs.python.org/3/)
 - [Building FunctionTrace, a graphical Python profiler (2020)](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
@@ -223,6 +224,7 @@
 - [blackdoc](https://github.com/keewis/blackdoc) - Tool that applies black to code in documentation.
 - [Exhaustiveness Checking with Mypy (2020)](https://hakibenita.com/python-mypy-exhaustive-checking)
 - [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python.
-- [Python behind the scenes (2020)](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
+- [Python behind the scenes (2020)](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
 - [Python behind the scenes: a list of resources](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)
 - [Darker](https://github.com/akaihola/darker) - Reformat and lint modified Python code.
+- [Implementing Rust's dbg! in Python (2020)](https://rtpg.co/2020/12/11/dbg-in-python.html) ([Lobsters](https://lobste.rs/s/9ubykl/implementing_rust_s_dbg_python)) ([HN](https://news.ycombinator.com/item?id=25386358))

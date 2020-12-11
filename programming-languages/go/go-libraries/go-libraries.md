@@ -631,6 +631,9 @@
 - [Feature flags API in Go](https://github.com/AntoineAugusti/feature-flags)
 - [wego](https://github.com/ynqa/wego) - Word Embeddings (e.g. Word2Vec) in Go.
 - [Gotcha](https://github.com/1pkg/gotcha) - Seamlessly patches go runtime to provide a convenient way to track amount of heap allocated bytes, objects, calls per goroutine.
+- [go-shellwords](https://github.com/mattn/go-shellwords) - Parse line as shell words.
+- [deephash](https://github.com/davegardnerisme/deephash) - Library for calculating a deterministic hash for simple or nested data structures in Go.
+- [mangos](https://github.com/nanomsg/mangos) - Go implementation of nanomsg's "Scalablilty Protocols".
 
 ## Links
 

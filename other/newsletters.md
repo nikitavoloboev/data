@@ -43,3 +43,4 @@
 - [Substack Became Milquetoast (2020)](https://nintil.com/substack-milquetoast) ([HN](https://news.ycombinator.com/item?id=24812887))
 - [Learn By Building An Email Newsletter (2020)](https://www.lpalmieri.com/posts/2020-06-21-zero-to-production-2-learn-by-building-an-email-newsletter/)
 - [Newsletter Spy](https://newsletterspy.io/) - Database of 20,000+ Substack newsletters.
+- [Newsletter Crew](https://newslettercrew.com/) - Podcast, blog, and community for newsletter creators.

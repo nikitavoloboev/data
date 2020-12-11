@@ -124,6 +124,7 @@
 - [Typist](https://github.com/totocaster/Typist) - Swift UIKit keyboard manager for iOS apps.
 - [OneTimePassword](https://github.com/mattrubin/OneTimePassword) - TOTP and HOTP one-time passwords for iOS.
 - [BadgeHub](https://github.com/jogendra/BadgeHub) - Quickly add a notification badge icon to any view.
+- [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight pure Swift implementation for visualizing touches on the screen.
 
 ## macOS
 

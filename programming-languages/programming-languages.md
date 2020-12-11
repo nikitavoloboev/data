@@ -116,7 +116,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Things that are not strings (2020)](https://frantic.im/no-strings) ([Lobsters](https://lobste.rs/s/wjpj6n/things_are_not_strings))
 - [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)
 - [Essentials of Programming Languages](http://eopl3.com/) ([Code](https://github.com/mwand/eopl3)) ([HN](https://news.ycombinator.com/item?id=24324653))
-- [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([Code](https://github.com/uwplse))
+- [UW PLSE](http://uwplse.org/) - University of Washington Programming Languages and Software Engineering. ([GitHub](https://github.com/uwplse))
 - [Your Language Sucks, It Doesn’t Matter (2020)](https://matklad.github.io//2020/09/13/your-language-sucks.html) ([Lobsters](https://lobste.rs/s/zp2pqd/your_language_sucks_it_doesn_t_matter))
 - [Energy Efficiency across Programming Languages (2017)](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf) ([HN](https://news.ycombinator.com/item?id=24642134))
 - [Deep learning to translate between programming languages (2020)](https://ai.facebook.com/blog/deep-learning-to-translate-between-programming-languages/)
@@ -140,3 +140,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [PhD Thesis: Greybox Automatic Exploit Generation for Heap Overflows (2020)](https://sean.heelan.io/2020/11/18/phd-thesis-greybox-automatic-exploit-generation-for-heap-overflows-in-language-interpreters/)
 - [Programming languages genealogical tree](https://github.com/stereobooster/programming-languages-genealogical-tree)
 - [Q&A with Programming Language Beta Users (2020)](https://www.youtube.com/watch?v=Wp9XD5FKZ2c)
+- [Write You a Programming Language](https://dannypsnl.github.io/write-a-programming-language/) ([Code](https://github.com/dannypsnl/write-a-programming-language))
+- [PLT research](https://github.com/dannypsnl/plt-research) - Collection of PLT researching.

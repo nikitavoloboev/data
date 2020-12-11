@@ -34,3 +34,5 @@
 - [Rotary](https://github.com/akkoro/rotary) - ORM-like query library for DynamoDB.
 - [dynein](https://github.com/awslabs/dynein) - DynamoDB CLI written in Rust.
 - [graphql-ttl-transformer](https://github.com/flogy/graphql-ttl-transformer) - Enable DynamoDB's time-to-live feature to auto-delete old entries in your AWS Amplify API.
+- [Comparing Fauna and DynamoDB: Architecture and Pricing (2020)](https://fauna.com/blog/comparing-fauna-and-dynamodb) ([HN](https://news.ycombinator.com/item?id=25363056))
+- [Next.js + AWS DynamoDB](https://github.com/leerob/nextjs-aws-dynamodb)

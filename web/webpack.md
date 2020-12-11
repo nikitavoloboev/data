@@ -13,6 +13,7 @@
 - [Configs Webpack Plugin](https://github.com/maraisr/configs-webpack-plugin) - Simplified AoT runtime config solution for your webpack builds.
 - [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - Automatically bundle & compile Web Workers within Webpack.
 - [Critters](https://github.com/GoogleChromeLabs/critters) - Webpack plugin to inline your critical CSS and lazy-load the rest.
+- [Optimize Plugin](https://github.com/developit/optimize-plugin) - Optimize your code for modern browsers.
 
 ## Links
 

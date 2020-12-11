@@ -229,3 +229,4 @@
 - [Haskell Weekly](https://haskellweekly.news/) - Publishes curated news about the Haskell programming language. ([Code](https://github.com/haskellweekly/haskellweekly))
 - [Haddock](https://www.haskell.org/haddock/) - Haskell Documentation Tool. ([Code](https://github.com/haskell/haddock))
 - [Haskell Learning Resources](https://github.com/sassela/haskell-learning) - Opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
+- [Haskell memoization and evaluation model (2020)](https://bor0.wordpress.com/2020/12/11/haskell-memoization-and-evaluation-model/)

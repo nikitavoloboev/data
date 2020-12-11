@@ -67,3 +67,5 @@
 - [Sand](https://sand.rty.party/) - Sandbox for Elixir. ([Code](https://github.com/bopjesvla/sand))
 - [Elixir Community of Practice](https://github.com/adolfont/elixir_cop) - Resources on learning Elixir.
 - [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs)
+- [Elixir Findings: Asynchronous Task Streams (2019)](https://medium.com/@dinojoaocosta/elixir-findings-asynchronous-task-streams-7f6336227ea)
+- [My Journey With Elixir and Flow-Based Programming (2020)](https://preslav.me/2020/12/10/elixir-community-voices-allan-macgregor/)

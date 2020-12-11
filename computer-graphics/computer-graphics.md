@@ -118,3 +118,4 @@
 - [OpenImageIO](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 - [Deep Learning Medical Decathlon Demos for Python](https://github.com/IntelAI/unet)
 - [Computer Animation and Simulation (2020)](http://www-scf.usc.edu/~csci520/)
+- [Blend2D](https://github.com/blend2d/blend2d) - 2D Vector Graphics Powered by a JIT Compiler. ([Web](https://blend2d.com/))

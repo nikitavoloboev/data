@@ -576,6 +576,7 @@
 - [par-stream](https://github.com/jerry73204/par-stream) - Asynchronous Parallel Stream for Rust.
 - [triple-buffer](https://github.com/HadrienG2/triple-buffer) - Implementation of triple buffering written in Rust.
 - [linked-list-allocator](https://github.com/phil-opp/linked-list-allocator) - Create a static allocator.
+- [claim](https://github.com/svartalf/rust-claim) - Assertion macros toolkit for Rust.
 
 ## Cargo Plugins
 

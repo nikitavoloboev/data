@@ -112,3 +112,4 @@
 - [DragonFFI](https://github.com/aguinet/dragonffi) - C Foreign Function Interface (FFI) library written in C++ and based on Clang/LLV.
 - [PureCTypes](https://github.com/aguinet/purectypes) - Pure-python package to describe portable C structures.
 - [Now you C me, now you don't, part two: exploiting the in-between (2020)](https://securitylab.github.com/research/now-you-c-me-part-two)
+- [Data Structures and Algorithms in C (implementations and notes)](https://github.com/f0lg0/c-ds-algos)

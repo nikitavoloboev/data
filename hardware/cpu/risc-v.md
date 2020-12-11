@@ -71,3 +71,4 @@
 - [What do RISC and CISC mean in 2020?](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de) ([HN](https://news.ycombinator.com/item?id=25159704))
 - [SERV](https://github.com/olofk/serv) - SErial RISC-V CPU.
 - [RISC-V Educational Materials](https://github.com/riscv/educational-materials)
+- [Do Some ARM (2018)](https://medium.com/@simonhallam/do-some-arm-c7ddc2d59202)

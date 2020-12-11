@@ -139,6 +139,7 @@
 - [ln2sql](https://github.com/FerreroJeremy/ln2sql) - NLP tool to query a database in natural language.
 - [Hue](https://gethue.com/) - Open source SQL Assistant for Data Warehouses. ([Code](https://github.com/cloudera/hue))
 - [ley](https://github.com/lukeed/ley) - Driver-agnostic database migrations.
+- [DBeaver](https://dbeaver.io/) - Free Universal Database Tool. ([Code](https://github.com/dbeaver/dbeaver))
 
 ## Links
 

@@ -14,6 +14,7 @@
 
 ## Links
 
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s) ([HN](https://news.ycombinator.com/item?id=22785652))
 - [Helm](https://helm.sh/) - Kubernetes package manager.
 - [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
@@ -284,3 +285,4 @@
 - [version-checker](https://github.com/jetstack/version-checker) - Kubernetes utility for observing the current versions of images running in the cluster, as well as the latest available upstream.
 - [Octopod](https://github.com/typeable/octopod) - Open-source self-hosted solution for managing multiple deployments in a Kubernetes cluster in a user-friendly web interface.
 - [Argo Events](https://github.com/argoproj/argo-events) - Event-driven Workflow Automation Framework. ([Docs](https://argoproj.github.io/argo-events/))
+- [Pixie](https://pixielabs.ai/) - Kubernetes Monitoring, Application Debug Platform. ([Code](https://github.com/pixie-labs/pixie))

@@ -241,3 +241,6 @@
 - [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [Building a Promise from Scratch (2020)](https://www.youtube.com/watch?v=CVzx-6fu0d8)
 - [Tips and tricks for working with types in JavaScript](https://github.com/voxpelli/types-in-js)
+- [Astring](https://github.com/davidbonnet/astring) - Tiny and fast JavaScript code generator from an ESTree-compliant AST.
+- [EStimator.dev](https://estimator.dev/) - Calculate the size and performance impact of switching to modern JavaScript syntax. ([Code](https://github.com/GoogleChromeLabs/estimator.dev))
+- [Publish, ship, and install modern JavaScript for faster applications (2020)](https://web.dev/publish-modern-javascript/)

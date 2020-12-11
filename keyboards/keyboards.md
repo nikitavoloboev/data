@@ -96,3 +96,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Pimp My Microwave](https://github.com/dekuNukem/pimp_my_microwave) - Installing a RGB mechanical keypad on my microwave. ([HN](https://news.ycombinator.com/item?id=25093704))
 - [Guide to Building a Let's Split Keyboard](https://github.com/nicinabox/lets-split-guide)
 - [Keebfol.io](https://keebfol.io/) - Curated list of Open Source Mechanical Keyboard resources. ([Code](https://github.com/BenRoe/awesome-mechanical-keyboard))
+- [Interception Tools](https://gitlab.com/interception/linux/tools) - Minimal composable infrastructure on top of libudev and libevdev. ([Tweet](https://twitter.com/wincent/status/1337212128336470017))

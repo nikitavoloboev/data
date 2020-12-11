@@ -90,5 +90,5 @@
 - [NZBHydra](https://github.com/theotherp/nzbhydra2) - Meta search for newznab indexers and torznab trackers.
 - [Fast Autocomplete Search for Your Website (2018)](https://24ways.org/2018/fast-autocomplete-search-for-your-website/)
 - [Whoogle Search](https://benbusby.com/projects/whoogle-search/) - Self hosted, ad-free, privacy-respecting Google metasearch engine. ([Code](https://github.com/benbusby/whoogle-search))
-- [Mojeek](https://www.mojeek.com/) - Alternative search engine that puts the people who use it first. Uses independent web spider.
+- [Mojeek](https://www.mojeek.com/) - Alternative search engine that puts the people who use it first. Uses independent web spider. ([HN](https://news.ycombinator.com/item?id=25372401))
 - [You.com](https://you.com/) - Trusted Search.

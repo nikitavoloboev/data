@@ -105,6 +105,7 @@ And these Discord servers:
 - [The MIT Press](https://mitpress.mit.edu/)
 - [Nature Research Analysis](https://www.nature.com/research-analysis)
 - [Branch](https://branch.climateaction.tech/) - Online magazine written by and for people who dream of a sustainable and just internet. ([Lobsters](https://lobste.rs/s/ws6usl/branch_online_magazine_written_by_for))
+- [BESIDE](https://beside.media/) - Bridging the gap between humans and nature.
 
 ### Other
 
