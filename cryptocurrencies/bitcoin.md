@@ -72,3 +72,4 @@
 - [Study Groups for bitcoin protocol developers](https://github.com/chaincodelabs/study-groups)
 - [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 - [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
+- [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) ([Forum Posts](https://satoshi.nakamotoinstitute.org/posts/))

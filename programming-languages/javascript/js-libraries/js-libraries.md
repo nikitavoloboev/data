@@ -389,6 +389,7 @@
 - [Deepdash](https://github.com/YuriGor/deepdash) - Tree traversal library written in Underscore/Lodash fashion. ([Docs](https://deepdash.io/))
 - [Nano Delay](https://github.com/ai/nanodelay) - Tiny (25 bytes) Promise wrapper around setTimeout.
 - [ES Module Lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis.
+- [keez](https://github.com/kripod/keez) - Frictionless hotkey handling for browsers.
 
 ## Links
 
