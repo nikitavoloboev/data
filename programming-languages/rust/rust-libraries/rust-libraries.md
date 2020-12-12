@@ -577,6 +577,7 @@
 - [triple-buffer](https://github.com/HadrienG2/triple-buffer) - Implementation of triple buffering written in Rust.
 - [linked-list-allocator](https://github.com/phil-opp/linked-list-allocator) - Create a static allocator.
 - [claim](https://github.com/svartalf/rust-claim) - Assertion macros toolkit for Rust.
+- [reformation](https://github.com/hukumka/reformation) - Parsing via regular expressions using format syntax.
 
 ## Cargo Plugins
 

@@ -44,3 +44,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Gives you all the power of IPFS in a convenient desktop app.
 - [Offchain IPFS](https://rs-ipfs.github.io/offchain-ipfs-manual/) - IPFS node embedded within Substrate.
+- [galacteek](https://galacteek.github.io/) - Multi-platform Qt5-based browser/toolbox for the IPFS peer-to-peer network.

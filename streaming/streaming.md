@@ -45,3 +45,4 @@ Here are tools I use for streaming:
 - [StreamLogger (2020)](https://duan.ca/2020/06/13/stream-logger/)
 - [Owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself. Streaming + chat out of the box. ([Docs](https://owncast.online/))
 - [OBS.Ninja](https://obs.ninja/) - Bring video from your smartphone, computer, or friends directly into your OBS video stream.
+- [Streamwall](https://github.com/streamwall/streamwall) - Makes it easy to compose multiple livestreams into a mosaic, with source attributions and audio control.

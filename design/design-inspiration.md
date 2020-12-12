@@ -250,6 +250,7 @@ Here are few more things I liked, design wise.
 - [Simon Wicki](https://wicki.io/)
 - [P—DPA](http://p-dpa.net/)
 - [Fatih Arslan](https://arslan.io/)
+- [Alessia Bellisario](https://aless.co/) ([Code](https://github.com/alessbell/aless.co))
 - [Peter Steinberger](https://steipete.wtf/)
 - [Ben Mingo](https://benmingo.cargo.site/)
 - [Charlotte Dann](https://charlottedann.com/)

@@ -11,6 +11,7 @@
 - [Kore](https://kore.io/) - Easy to use web platform for C and Python.
 - [uvicorn](https://github.com/encode/uvicorn) - Lightning-fast ASGI server. ([Docs](https://www.uvicorn.org/))
 - [Flask](https://github.com/pallets/flask) - Python micro framework for building web applications. ([Docs](https://palletsprojects.com/p/flask/)) ([Flask Admin](https://github.com/flask-admin/flask-admin))
+- [Impacket](https://github.com/SecureAuthCorp/impacket) - Collection of Python classes for working with network protocols.
 
 ## ML
 

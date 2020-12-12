@@ -133,3 +133,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Depix](https://github.com/beurtschipper/Depix) - Tool for recovering passwords from pixelized screenshots. ([HN](https://news.ycombinator.com/item?id=25326450))
 - [Honest Security](https://honest.security/) - Guide to endpoint security and device management that doesn't erode your values. ([Code](https://github.com/kolide/honest.security))
 - [Metasploit](https://metasploit.com/) - Penetration testing framework. ([Code](https://github.com/rapid7/metasploit-framework))
+- [Awesome CTF (Capture The Flag)](https://github.com/apsdehal/awesome-ctf)
