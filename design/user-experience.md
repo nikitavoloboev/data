@@ -52,3 +52,4 @@
 - [Kickass UX](https://www.kickassux.com/) - Learn UX/UI design.
 - [User Experience Database](https://www.uxdatabase.io/) - Biggest free curated product design resources & tools.
 - [Interaction Design in a Nutshell](https://github.com/SSoelvsten/interaction-design-in-a-nutshell) - Dense, clearly defined, and small guide to interaction design.
+- [List of worst UX (2020)](https://twitter.com/iamdevloper/status/1337538974789865473)

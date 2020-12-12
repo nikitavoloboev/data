@@ -26,3 +26,4 @@
 - [Issue #25: Smalltalk (2020)](https://deprogrammaticaipsum.com/issue-25-smalltalk/)
 - [Design patterns, Smalltalk, and the lost art of reading code (2020)](https://medium.com/swlh/design-patterns-smalltalk-and-the-lost-art-of-reading-code-1727d93fd7fa) ([HN](https://news.ycombinator.com/item?id=24842298))
 - [Squeak/Smalltalk Website code](https://github.com/squeak-smalltalk/squeak.org)
+- [Domains](https://github.com/len/Domains) - Computational algebra system in Smalltalk.

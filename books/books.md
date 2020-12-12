@@ -313,3 +313,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/) ([HN](https://news.ycombinator.com/item?id=25302132))
 - [Nat Eliason's Roam books notes](https://roamresearch.com/#/app/NatsBrain/page/oCtf5BOXi)
 - [Ask HN: How do you decide what books to read? (2020)](https://news.ycombinator.com/item?id=25367016)
+- [BookDark](https://bookdark.com/) - Read over 56000 Free Books Online.

@@ -92,7 +92,7 @@
 - [Preventing impossible game levels using cryptography (2020)](https://robertheaton.com/preventing-impossible-game-levels-using-cryptography/)
 - [Indistinguishability Obfuscation from Well-Founded Assumptions (2020)](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/) ([HN](https://news.ycombinator.com/item?id=25046738))
 - [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)
-- [Cryptol](https://github.com/GaloisInc/cryptol) - Language of Cryptography. Was designed by Galois for the NSA Laboratory for Advanced Cybersecurity Research as a public standard for specifying cryptographic algorithms.
+- [Cryptol](https://github.com/GaloisInc/cryptol) - Language of Cryptography. Was designed by Galois for the NSA Laboratory for Advanced Cybersecurity Research as a public standard for specifying cryptographic algorithms. ([Web](https://cryptol.net/index.html))
 - [Courses on distributed systems and elliptic curve cryptography (2020)](https://martin.kleppmann.com/2020/11/18/distributed-systems-and-elliptic-curves.html)
 - [Implementing Curve25519/X25519: A Tutorial on Elliptic Curve Cryptography](https://martin.kleppmann.com/papers/curve25519.pdf)
 - [wasm-crypto](https://github.com/jedisct1/wasm-crypto) - WebAssembly (via AssemblyScript) set of cryptographic primitives for building authentication and key exchange protocols.

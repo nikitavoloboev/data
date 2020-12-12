@@ -71,6 +71,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
 - [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
 - [Contiki](https://github.com/contiki-os/contiki) - Open source operating system that runs on tiny low-power microcontrollers.
+- [OSv](http://osv.io/) - Modular unikernel designed to run applications securely on micro-VMs . ([Code](https://github.com/cloudius-systems/osv)) ([HN](https://news.ycombinator.com/item?id=25397525))
 
 ## Notes
 

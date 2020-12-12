@@ -108,3 +108,4 @@
 - [Real-world SRE: What not FAANG companies are doing (2020)](https://sreteams.substack.com/p/hash) ([HN](https://news.ycombinator.com/item?id=24929710))
 - [Make Your Back End Layer as Thin as Possible (2020)](https://kartick.substack.com/p/make-your-backend-layer-as-thin-as) ([HN](https://news.ycombinator.com/item?id=25101820))
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+- [Solutions Architecture Patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) - Contains solution architecture patterns which can be reused to build enterprise software systems. ([Web](https://chanakaudaya.github.io/solutions-architecture-patterns/))

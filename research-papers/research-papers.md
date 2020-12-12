@@ -79,3 +79,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Pandoc conference paper templates](https://github.com/martisak/pandoc_conference_templates)
 - [Papiers](https://github.com/Armael/papiers) - Tool to index your pdf files/research papers/… and quickly search through them.
 - [paperai](https://github.com/neuml/paperai) - AI-powered literature discovery and review engine for medical/scientific papers.
+- [arXivist](https://github.com/njhofmann/arXivist) - Search and store papers from a command line.
