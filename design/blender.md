@@ -26,3 +26,4 @@
 - [Blender Add-on: Screencast Keys](https://github.com/nutti/Screencast-Keys) - Display the Keyboard/Mouse and Operation status.
 - [fake-bpy-module](https://github.com/nutti/fake-bpy-module) - Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
 - [Blender Add-on: Magic UV](https://github.com/nutti/Magic-UV) - Many UV manipulation features which Blender lack of.
+- [Blender Resources](https://blenderresources.com/) - Curated list of resources to help your blender journey. ([Code](https://github.com/SaraVieira/blender-resources))

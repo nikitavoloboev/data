@@ -388,3 +388,4 @@
 - [Understanding Partial Moves in Rust (2020)](https://whileydave.com/2020/11/30/understanding-partial-moves-in-rust/) ([Lobsters](https://lobste.rs/s/fyxjrh/understanding_partial_moves_rust))
 - [rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc.
 - [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
+- [Aiming for correctness with types (2020)](https://fasterthanli.me/articles/aiming-for-correctness-with-types)

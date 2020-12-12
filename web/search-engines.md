@@ -92,3 +92,4 @@
 - [Whoogle Search](https://benbusby.com/projects/whoogle-search/) - Self hosted, ad-free, privacy-respecting Google metasearch engine. ([Code](https://github.com/benbusby/whoogle-search))
 - [Mojeek](https://www.mojeek.com/) - Alternative search engine that puts the people who use it first. Uses independent web spider. ([HN](https://news.ycombinator.com/item?id=25372401))
 - [You.com](https://you.com/) - Trusted Search.
+- [Devbook](https://usedevbook.com/) - Search Engine for Developers. ([HN](https://news.ycombinator.com/item?id=25394567))

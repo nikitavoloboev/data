@@ -76,3 +76,4 @@ Might give it a go sometime.
 - [Org mode Almanac](https://alphapapa.github.io/org-almanac/) ([Code](https://github.com/alphapapa/org-almanac))
 - [Batteries included with Emacs (2020)](https://karthinks.com/software/batteries-included-with-emacs/)
 - [Emacs Should Be Emacs Lisp - Thoughts on the Future of Emacs (2020)](https://archive.fosdem.org/2020/schedule/event/emacsthoughts/)
+- [Emacs Survey 2020 Results](https://emacssurvey.org/2020/) ([HN](https://news.ycombinator.com/item?id=25388353))

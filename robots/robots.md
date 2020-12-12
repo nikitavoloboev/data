@@ -46,3 +46,4 @@
 - [droidlet](https://github.com/facebookresearch/droidlet) - High-level robotics-agent and platform.
 - [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
 - [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for test automation and robotic process automation (RPA). ([Code](https://github.com/robotframework/robotframework))
+- [$100 robot kit running ROS2 and Navigation2 (2020)](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html) ([HN](https://news.ycombinator.com/item?id=25389266))
