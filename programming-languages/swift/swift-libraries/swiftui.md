@@ -111,3 +111,4 @@
 - [MVVM in iOS with SwiftUI (Detailed Example + Pitfalls) (2020)](https://matteomanferdini.com/mvvm-pattern-ios-swift/)
 - [Should I use SwiftUI in production? A code-to-code comparison to help you decide (2020)](https://triplebyte.com/blog/should-i-use-swiftui-in-production-heres-how-to-decide?ref=hnpost) ([HN](https://news.ycombinator.com/item?id=25171532))
 - [SwiftUI Code Examples](https://github.com/LostMoa/SwiftUI-Code-Examples) - Solutions to interesting SwiftUI problems.
+- [SwiftUI Discussions](https://github.com/sindresorhus/swiftui/discussions) - Place to discuss SwiftUI things.

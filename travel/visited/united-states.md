@@ -29,3 +29,4 @@
 - [Peter Roberts, immigration attorney who does work for YC and startups. AMA (2020)](https://news.ycombinator.com/item?id=23940345)
 - [Pros and cons of living in SF (2020)](https://twitter.com/wongmjane/status/1330894344228749314)
 - [MainStreet](https://mainstreet.us/) - For startups. You're owed over $50,000. We'll get it back for you.
+- [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
