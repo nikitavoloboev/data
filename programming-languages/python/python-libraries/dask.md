@@ -22,3 +22,4 @@
 - [Dask Helm Charts](https://github.com/dask/helm-chart) ([Web](https://helm.dask.org/))
 - [Dask CUDA](https://github.com/rapidsai/dask-cuda) - Utilities for Dask and CUDA interactions.
 - [Dask Web Code](https://github.com/dask/dask.github.io)
+- [Dask Example Notebooks](https://github.com/dask/dask-examples) - Includes easy-to-run example notebooks for Dask. ([Docs](https://examples.dask.org/))

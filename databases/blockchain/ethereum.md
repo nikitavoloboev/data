@@ -126,3 +126,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Optimism](https://optimism.io/) - New Scalability Stack for Ethereum. Instant transactions and scalable smart contracts on Ethereum. ([Code](https://github.com/ethereum-optimism/optimism-monorepo))
 - [Enclave EVM](https://github.com/microsoft/eEVM) - Open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine.
 - [Scribble](https://github.com/ConsenSys/scribble) - Solidity runtime verification tool for property based testing.
+- [Ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript). ([Docs](https://docs.ethers.io/))

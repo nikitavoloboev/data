@@ -86,3 +86,4 @@
 - [hypertag](https://github.com/AndreasPizsa/hypertag) - HTML tag parser built for speed.
 - [DomStorm](https://domstorm.skepticfx.com/) - Dashboard for interesting DOM tricks/techniques. ([Code](https://github.com/skepticfx/domstorm))
 - [Alt vs Figcaption (2020)](https://thoughtbot.com/blog/alt-vs-figcaption)
+- [Ultralight](https://ultralig.ht/) - Next-Generation HTML Renderer for Desktop Apps and Games. ([Code](https://github.com/ultralight-ux/Ultralight))

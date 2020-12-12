@@ -73,3 +73,5 @@
 - [Bitcoin Protocol Development Curriculum](https://github.com/chaincodelabs/bitcoin-curriculum)
 - [Lightning Network Curriculum](https://github.com/chaincodelabs/lightning-curriculum)
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) ([Forum Posts](https://satoshi.nakamotoinstitute.org/posts/))
+- [Bitcoin.org Website Code](https://github.com/bitcoin-dot-org/Bitcoin.org)
+- [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
