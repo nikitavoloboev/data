@@ -9,3 +9,4 @@
 - [Network forth](http://www.sandelman.ca/People/Michael_Richardson/network-forth.html) ([Lobsters](https://lobste.rs/s/nemayk/network_forth))
 - [CFM](https://github.com/cbiffle/cfm) - Forth-inspired processor targeting the Lattice ICE40 FPGA series, primarily targeting the Icoboard.
 - [StoneKnifeForth](https://github.com/kragen/stoneknifeforth) - Tiny self-hosted Forth implementation.
+- [My history with Forth & stack machines (2010)](http://yosefk.com/blog/my-history-with-forth-stack-machines.html)
