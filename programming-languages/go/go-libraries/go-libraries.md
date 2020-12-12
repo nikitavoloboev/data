@@ -413,7 +413,7 @@
 - [go-streams](https://github.com/reugn/go-streams) - Go stream processing library.
 - [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second.
 - [Collection of compression libraries for Go](https://github.com/dsnet/compress)
-- [monkey](https://github.com/bouk/monkey) - Monkey patching in Go.
+- [monkey](https://github.com/bouk/monkey) - Monkey patching in Go. ([Fork](https://github.com/1pkg/gomonkey))
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang.
 - [schedgroup](https://github.com/mdlayher/schedgroup) - Provides a goroutine worker pool which schedules tasks to be performed at or after a specified time.
 - [clog](https://github.com/go-clog/clog) - Channel-based logging package for Go.

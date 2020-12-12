@@ -72,6 +72,8 @@
 - [Login Action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry.
 - [Amazon ECR Login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
 - [PR Merge Bot](https://github.com/squalrus/merge-bot) - GitHub action that manages pull request integrations.
+- [Open Collective Bot](https://github.com/opencollective/opencollective-bot) - Will comment on issues based on whether the author is already a backer of your Open Collective.
+- [Is Sponsor Label](https://github.com/JasonEtco/is-sponsor-label-action) - GitHub Action that labels issues/PRs if the creator is a sponsor of the owner.
 
 ## Go
 
@@ -106,6 +108,10 @@
 ## TS
 
 - [ts_ci](https://github.com/garronej/ts_ci) - Continus integration setup for TypeScript projects via GitHub Actions.
+
+## Julia
+
+- [setup-julia](https://github.com/julia-actions/setup-julia) - Sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.
 
 ## Docker
 

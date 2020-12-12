@@ -89,3 +89,5 @@
 - [Interview with Etienne Jacob (2020)](https://www.generativehut.com/post/interview-with-etienne-jacob)
 - [wavegrower's animations](https://wavegrower.tumblr.com/) ([Code](https://www.openprocessing.org/user/44137))
 - [Codecember](https://codecember.ink/) - Create compform (computation form), one sketch a day. ([Code](https://github.com/codecember-ink/codecember))
+- [na5 art](https://a-na5.tumblr.com/) ([Twitter](https://twitter.com/yuruyurau/))
+- [Sighack](https://sighack.com/) - Explorations with generative art.
