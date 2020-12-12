@@ -149,6 +149,7 @@
 - [uDepot](https://github.com/IBM/uDepot) - Multi-threaded, scalable, persistent store that is flash optimized by using a log-structured space allocation and GC framework.
 - [PDAL](https://github.com/PDAL/PDAL) - Point Data Abstraction Library. GDAL for point cloud data. ([Docs](https://pdal.io/))
 - [painless](https://github.com/sharkdp/painless) - Header-only C++ library that provides an easy way to use interactive parameters in your program.
+- [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl) ([Web](https://www.etlcpp.com/))
 
 ## Links
 

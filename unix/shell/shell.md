@@ -97,3 +97,4 @@ All active variables can be seen by running `env`.
 - [Hull](https://250bpm.com/blog:153/) - Shell where every piece of its state is stored in the filesystem.
 - [Sockets in Your Shell (2020)](https://who23.github.io/2020/12/03/sockets-in-your-shell.html) ([HN](https://news.ycombinator.com/item?id=25287144))
 - [Shellac](https://github.com/geelen/shellac) - Tool to make invoking a series of shell commands safer & better-looking.
+- [Become Shell Literate (2020)](https://drewdevault.com/2020/12/12/Shell-literacy.html) ([HN](https://news.ycombinator.com/item?id=25399058))

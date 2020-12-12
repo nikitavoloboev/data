@@ -9,3 +9,5 @@
 - [OpenProcessing](https://www.openprocessing.org/) - Creative Coding for the Curious Mind.
 - [Codecember](https://github.com/johhnry/codecember) - One Processing sketch a day during december.
 - [Generative Watercolor in Processing](https://sighack.com//post/generative-watercolor-in-processing) ([Code](https://github.com/sighack/watercolor-simulation))
+- [Processing Boilerplate for Generative Artists](https://github.com/sighack/processing-boilerplate)
+- [Fifteen Ways to Draw a Line](https://sighack.com/post/fifteen-ways-to-draw-a-line) ([Code](https://github.com/sighack/fifteen-lines))

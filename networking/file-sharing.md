@@ -44,3 +44,4 @@
 - [Warp](https://github.com/minio/warp) - S3 benchmarking tool.
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Python 3 library for efficient streaming of very large files from/to storages such as S3, GCS, Azure Blob Storage, HDFS, WebHDFS, HTTP, HTTPS, SFTP, or local filesystem.
 - [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. ([Code](https://github.com/kern/filepizza))
+- [tus](https://tus.io/) - Resumable file uploads. ([GitHub](https://github.com/tus))

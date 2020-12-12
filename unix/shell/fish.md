@@ -9,3 +9,4 @@
 - [New Features in the Fish Shell (2020)](https://lwn.net/SubscriberLink/832429/5a786cc0fed26353/) ([HN](https://news.ycombinator.com/item?id=24631138))
 - [Fzf Fish Bindings](https://github.com/jethrokuan/fzf)
 - [Tide](https://github.com/IlanCosman/tide) - Modern prompt manager for the Fish shell.
+- [Rust, Python and Fish (2020)](https://benjamin.computer/posts/2020-12-12-rust-python.html)

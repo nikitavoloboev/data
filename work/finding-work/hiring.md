@@ -20,6 +20,7 @@
 - [Gumroad](https://www.notion.so/Open-positions-f43f816013b2405aa41ddefb663a4a38)
 - [Ueno Careers](https://ueno.co/careers/)
 - [Apple Jobs](https://www.apple.com/jobs/us/)
+- [Transloadit](https://transloadit.com/jobs/)
 
 ## Questions to ask
 

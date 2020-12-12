@@ -12,7 +12,7 @@
 - [Bedrock Linux](https://bedrocklinux.org/) - Meta Linux distribution which allows users to mix-and-match components from other, typically incompatible distributions.
 - [TinyCore Linux](http://tinycorelinux.net/) - Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable. ([HN](https://news.ycombinator.com/item?id=25158736))
 - [HiFiBerryOS](https://github.com/hifiberry/hifiberry-os) - Minimal Linux distribution optimized for audio playback.
-- [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org))
+- [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org)) ([Infrastructure](https://github.com/rocky-linux/infrastructure))
 - [Debian](https://www.debian.org/)
 - [Fedora](https://getfedora.org/)
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)

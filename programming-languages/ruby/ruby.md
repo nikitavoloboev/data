@@ -45,3 +45,4 @@
 - [RubyConf 2020](https://www.alchemists.io/articles/ruby_conf_2020/)
 - [Bazel Ruby Rules](https://github.com/coinbase/rules_ruby)
 - [TypeProf](https://github.com/ruby/typeprof) - Experimental type-level Ruby interpreter for testing and understanding Ruby code.
+- [Ruby Code Examples Vs. Python Code Examples (2020)](https://www.connerjensen.com/blog/ruby-code-examples)

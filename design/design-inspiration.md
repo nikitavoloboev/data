@@ -234,6 +234,7 @@ Here are few more things I liked, design wise.
 - [Kitze](https://kitze.io/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)
 - [Bradley Taunt](https://uglyduck.ca/)
+- [Aladin Bensassi](https://aladinbs.com/)
 - [Malte Ubl](https://www.industrialempathy.com/)
 - [Roman Komarov](https://www.kizu.ru/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
