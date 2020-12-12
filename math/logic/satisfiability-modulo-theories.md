@@ -24,3 +24,5 @@
 - [Yin-Yang](https://testsmt.github.io/) - Tool for stress-testing SMT solvers. ([HN](https://news.ycombinator.com/item?id=25123138)) ([Code](https://github.com/testsmt/yinyang))
 - [G2SAT: Learning to Generate SAT Formulas](https://github.com/JiaxuanYou/G2SAT)
 - [PySAT](https://github.com/pysathq/pysat) - Toolkit for SAT-based prototyping in Python. ([Docs](https://pysathq.github.io/))
+- [ipasir.h](https://github.com/biotomas/ipasir) - Standard Interface for Incremental Satisfiability Solving.
+- [microsat](https://github.com/marijnheule/microsat)
