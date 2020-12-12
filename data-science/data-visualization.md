@@ -67,3 +67,5 @@
 - [Lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery.
 - [ETE (Environment for Tree Exploration)](https://github.com/etetoolkit/ete) - Python programming toolkit that assists in the automated manipulation, analysis and visualization of phylogenetic trees. ([Web](http://etetoolkit.org/))
 - [From data to Viz](https://www.data-to-viz.com/) - Find the graphic you need. ([Code](https://github.com/holtzy/data_to_viz))
+- [hvPlot](https://github.com/holoviz/hvplot) - High-level plotting API for pandas, dask, xarray, and networkx built on HoloViews. ([Docs](https://hvplot.holoviz.org/))
+- [HoloViz](https://holoviz.org/) - High-level tools to simplify visualization in Python. ([GitHub](https://github.com/holoviz))
