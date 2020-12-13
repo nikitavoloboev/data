@@ -89,3 +89,4 @@
 - [Chet](https://chet.social/) - Share, discover, and discuss meaningful content tailored to your profession, interests, and aspirations.
 - [Learn Difficult Concepts with the ADEPT Method (2014)](https://betterexplained.com/articles/adept-method/)
 - [Preserve Knowledge YouTube](https://www.youtube.com/c/PreserveKnowledge/featured) - Canada higher education media organization that focuses on advances in mathematics, computer science, and artificial intelligence.
+- [Learning Theory from First Principles (2020)](https://www.di.ens.fr/~fbach/learning_theory_class/)
