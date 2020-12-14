@@ -43,3 +43,4 @@
 - [Crucible](https://github.com/GaloisInc/crucible) - Language-agnostic library for performing forward symbolic execution of imperative programs. It provides a collection of data-structures and APIs for expressing programs as control-flow graphs. ([Web](https://crux.galois.com/)) ([Intro](https://galois.com/blog/2020/10/crux-introducing-our-new-open-source-tool-for-software-verification/))
 - [snarky](https://github.com/o1-labs/snarky) - OCaml DSL for verifiable computation.
 - [Proofs Should Repair Themselves (2020)](https://galois.com/blog/2020/12/proofs-should-repair-themselves/) ([Lobsters](https://lobste.rs/s/vh1edq/proofs_should_repair_themselves))
+- [Use polling for resiliency (2020)](https://blog.gchinis.com/posts/use-polling-for-resiliency/) ([Lobsters](https://lobste.rs/s/7vpobg/use_polling_for_resiliency))

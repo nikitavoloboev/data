@@ -105,3 +105,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [OneSoil](https://onesoil.ai/en/) - Free precision farming apps.
 - [Hectare](https://hectare.ag/) - Simple tools for precision agriculture.
 - [Yeti Cheese](https://yeticheese.com/) - Real cheese, made from plants.
+- [Europe's Biggest Vertical Farm Will Be Powered by Wind and Planted by Robots (2020)](https://singularityhub.com/2020/12/11/europes-biggest-vertical-farm-will-be-powered-by-wind-and-planted-by-robots/) ([HN](https://news.ycombinator.com/item?id=25414741))

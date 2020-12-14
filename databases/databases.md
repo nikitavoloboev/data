@@ -268,3 +268,4 @@
 - [Scaling Datastores at Slack with Vitess (2020)](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
 - [dbdocs](https://dbdocs.io/) - Database Documentation and Catalog Tool.
 - [Fast database UPDATE/DELETE operations (2020)](https://www.spinellis.gr/blog/20201210/)
+- [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)

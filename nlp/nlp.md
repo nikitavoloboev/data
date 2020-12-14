@@ -204,3 +204,4 @@
 - [Adversarial NLI](https://github.com/facebookresearch/anli) - Adversarial Natural Language Inference Benchmark.
 - [textract](https://github.com/deanmalmgren/textract) - Extract text from any document. No muss. No fuss. ([Docs](https://textract.readthedocs.io/en/stable/))
 - [NLP e Named Entity Recognition (2020)](https://techblog.smc.it/en/2020-12-11/nlp-ner)
+- [Big Bird: Transformers for Longer Sequences](https://github.com/google-research/bigbird)

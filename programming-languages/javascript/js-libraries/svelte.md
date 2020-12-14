@@ -68,3 +68,4 @@
 - [What's new in Svelte (Dec 2020)](https://svelte.dev/blog/whats-new-in-svelte-december-2020) ([HN](https://news.ycombinator.com/item?id=25288043))
 - [How Does Svelte Actually Work? (2019)](https://dev.to/zev/how-does-svelte-actually-work-part-1-j9m)
 - [svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component.
+- [svite](https://github.com/dominikg/svite) - Svelte integration for vite.

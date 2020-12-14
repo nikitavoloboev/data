@@ -30,3 +30,5 @@ And here are Chrome extensions I use:
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. ([Docs](https://pptr.dev/))
 - [Chrome Dev Summit](https://developer.chrome.com/devsummit/) ([Code](https://github.com/GoogleChrome/devsummit)) ([Schedule](https://developer.chrome.com/devsummit/schedule/))
 - [Screenity](https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji) - Screen Recorder & Annotation Tool. ([Code](https://github.com/alyssaxuu/screenity))
+- [Chrome Is Bad (2020)](https://chromeisbad.com/) ([HN](https://news.ycombinator.com/item?id=25400618)) ([Lobsters](https://lobste.rs/s/5xcv2h/chrome_keystone_impact_on_performance))
+- [chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API.

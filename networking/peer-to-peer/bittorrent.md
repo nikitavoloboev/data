@@ -44,3 +44,5 @@
 - [Torrent Parts](https://torrent.parts/) - Inspect and edit what's in your Torrent file or Magnet link. ([Code](https://github.com/leoherzog/TorrentParts))
 - [PrivTracker](https://privtracker.tk/) - Private BitTorrent tracker for everyone. ([Code](https://github.com/meehow/privtracker))
 - [Cloud Torrent](https://github.com/jpillora/cloud-torrent) - Self-hosted remote torrent client.
+- [bencode-go](https://github.com/jackpal/bencode-go) - Go language binding for encoding and decoding data in the bencode format that is used by the BitTorrent peer-to-peer file sharing protocol.
+- [Taipei Torrent](https://github.com/jackpal/Taipei-Torrent) - Simple command-line-interface BitTorrent client coded in the go programming language.

@@ -28,3 +28,4 @@
 - [room-assistant](https://github.com/mKeRix/room-assistant) - Presence tracking and more for automation on the room-level. ([Web](https://www.room-assistant.io/))
 - [IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant (2020)](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/) ([HN](https://news.ycombinator.com/item?id=25184763))
 - [Home Assistant on Steroids Config](https://github.com/UbhiTS/ha-config-ataraxis)
+- [Home Assistant Conference (2020)](https://www.youtube.com/watch?v=xSB_MuKkgxE) ([Web](https://www.home-assistant.io/conference/))

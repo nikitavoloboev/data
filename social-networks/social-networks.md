@@ -75,3 +75,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Contra](https://contra.com/) - New professional network for your independent journey.
 - [LinkedIn’s Alternate Universe (2020)](https://divinations.substack.com/p/linkedins-alternate-universe##) - How the professional platform makes networking weird. ([HN](https://news.ycombinator.com/item?id=25320536))
 - [Hiven](https://hiven.io/) - Chat platform from the future. ([Themes](https://hiven-design-git-main.ezolla.vercel.app/))
+- [Hive Index](https://thehiveindex.com/) - Discover Online Communities. ([HN](https://news.ycombinator.com/item?id=25417624))

@@ -40,3 +40,4 @@
 - [jose](https://github.com/panva/jose) - Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK with no dependencies.
 - [JSON Schema Viewer](http://jlblcc.github.io/json-schema-viewer/) - JavaScript tool for visualizing json-schemas. ([Code](https://github.com/jlblcc/json-schema-viewer))
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool.
+- [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.

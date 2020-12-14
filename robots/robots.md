@@ -47,3 +47,8 @@
 - [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python)
 - [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for test automation and robotic process automation (RPA). ([Code](https://github.com/robotframework/robotframework))
 - [$100 robot kit running ROS2 and Navigation2 (2020)](https://blog.hadabot.com/ros2-nav2-go-to-goal-low-cost-robot-kit.html) ([HN](https://news.ycombinator.com/item?id=25389266))
+- [Probabilistic Robotics](https://github.com/liulinbo/slam/blob/master/Probabilistic%20Robotics%20_Sebastian%20Thrun%20et%20al..pdf)
+- [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-319-32552-1)
+- [Planning Algorithms / Motion Planning by Steve Lavalle](http://lavalle.pl/planning/)
+- [Robotics - Modelling, Planning and Control by Bruno Siciliano](https://www.springer.com/gp/book/9781846286414)
+- [Robotic Manipulation (2020)](http://manipulation.csail.mit.edu/)

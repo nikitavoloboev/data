@@ -294,3 +294,4 @@
 - [State Machines resources](https://github.com/achou11/state-machines)
 - [Code Review Best Practices – Lessons from the Trenches (2020)](https://blogboard.io/blog/code-review-best-practices) ([HN](https://news.ycombinator.com/item?id=25362375))
 - [Frontiers of Performance with Daniel Lemire (2020)](https://overcast.fm/+LfVO9vQsc)
+- [Metaprogramming (2020)](https://missing.csail.mit.edu/2020/metaprogramming/)

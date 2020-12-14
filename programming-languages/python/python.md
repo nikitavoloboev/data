@@ -228,3 +228,4 @@
 - [Python behind the scenes: a list of resources](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)
 - [Darker](https://github.com/akaihola/darker) - Reformat and lint modified Python code.
 - [Implementing Rust's dbg! in Python (2020)](https://rtpg.co/2020/12/11/dbg-in-python.html) ([Lobsters](https://lobste.rs/s/9ubykl/implementing_rust_s_dbg_python)) ([HN](https://news.ycombinator.com/item?id=25386358))
+- [line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python.

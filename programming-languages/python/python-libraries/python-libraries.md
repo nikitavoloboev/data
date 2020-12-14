@@ -247,6 +247,7 @@
 - [Frictionless](https://github.com/frictionlessdata/frictionless-py) - Framework to describe, extract, validate, and transform tabular data. ([Web](https://frictionlessdata.io/))
 - [huey](https://github.com/coleifer/huey) - Little task queue for python.
 - [Tree](https://github.com/deepmind/tree) - Library for working with nested data structures.
+- [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Links
 

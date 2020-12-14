@@ -42,6 +42,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. ([Code](https://github.com/middleman/middleman))
 - [Bagatto](https://sr.ht/~subsetpark/bagatto/) - Extensible, transparent static site generator. ([Lobsters](https://lobste.rs/s/7ibntu/bagatto_extensible_transparent_static)) ([Getting Started](https://bagatto.co/guides/getting-started-with-bagatto.html))
 - [Meli](https://github.com/getmeli/meli) - Open source platform for deploying static sites and frontend applications. ([HN](https://news.ycombinator.com/item?id=25387157)) ([Lobsters](https://lobste.rs/s/sut9hu/meli_netlify_like_platform_for_deploying))
+- [Ness](https://github.com/nessjs/ness) - No-effort static sites deployed to your AWS account.
 
 ## Notes
 

@@ -67,3 +67,4 @@
 - [Why Is Apple’s M1 Chip So Fast? (2020)](https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2) ([HN](https://news.ycombinator.com/item?id=25328292))
 - [Collection of information about ARM cortex-M](https://github.com/rgujju/STM32-projects)
 - [Ask HN: How did Apple manage to create such a better chip than Intel? (2020)](https://news.ycombinator.com/item?id=25381537)
+- [ARM Cortex-A72 fetch and branch processing (2020)](http://sandsoftwaresound.net/arm-cortex-a72-fetch-and-branch-processing/)

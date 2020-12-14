@@ -9,7 +9,7 @@
 - [Memory Bandwidth Napkin Math (2020)](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Isolation Alloc](https://github.com/struct/isoalloc) - New general purpose secure memory allocator that implements an isolation security strategy to mitigate memory safety issues.
 - [Broom](https://github.com/zesterer/broom) - Ergonomic tracing garbage collector that supports mark 'n sweep garbage collection.
-- [Writing a Memory Allocator (2019)](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
+- [Writing a Memory Allocator (2019)](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/) ([HN](https://news.ycombinator.com/item?id=25402841))
 - [Writing a Pool Allocator (2019)](http://dmitrysoshnikov.com/compilers/writing-a-pool-allocator/)
 - [Writing a Mark-Sweep Garbage Collector (2020)](http://dmitrysoshnikov.com/compilers/writing-a-mark-sweep-garbage-collector/)
 - [rpmalloc](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C.

@@ -270,6 +270,7 @@ Here are few more things I liked, design wise.
 - [Sarah Lim](https://slim.computer/)
 - [Timmy O'Mahony](https://timmyomahony.com/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
+- [Alex Bainter](https://alexbainter.com/)
 - [Nick Reese](https://nicholasreese.com/)
 - [Nick Bostrom](https://www.nickbostrom.com/)
 - [Derek Sivers](https://sivers.org/)

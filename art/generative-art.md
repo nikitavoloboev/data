@@ -91,3 +91,4 @@
 - [Codecember](https://codecember.ink/) - Create compform (computation form), one sketch a day. ([Code](https://github.com/codecember-ink/codecember))
 - [na5 art](https://a-na5.tumblr.com/) ([Twitter](https://twitter.com/yuruyurau/))
 - [Sighack](https://sighack.com/) - Explorations with generative art.
+- [Generative.fm](https://generative.fm/) - Platform for playing generative music in the browser. ([Code](https://github.com/generative-music/generative.fm))

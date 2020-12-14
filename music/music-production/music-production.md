@@ -45,6 +45,8 @@
 - [Ofelia](https://github.com/cuinjune/Ofelia) - Cross-platform real-time visual programming environment for creating audiovisual artwork or multimedia applications.
 - [dasp](https://github.com/RustAudio/dasp) - Digital Audio Signal Processing in Rust.
 - [Orac](https://github.com/TheTechnobear/Orac) - Virtual modular synth.
+- [aiotone](https://github.com/ambv/aiotone) - Audio synthesis and MIDI processing tools in AsyncIO.
+- [Linnstrument](https://www.rogerlinndesign.com/linnstrument) - Expressive MIDI controller for musical performance. ([Firmware of LinnStrument](https://github.com/rogerlinndesign/linnstrument-firmware))
 
 ## Inspiration
 

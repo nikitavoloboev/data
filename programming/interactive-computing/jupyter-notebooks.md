@@ -87,3 +87,5 @@
 - [notebooker](https://github.com/man-group/notebooker) - Productionise your Jupyter Notebooks, just as interactively as you wrote them.
 - [NBClient](https://github.com/jupyter/nbclient) - Client library for programmatic notebook execution, is a tool for running Jupyter Notebooks in different execution contexts.
 - [transforms](https://github.com/nteract/outputs) - Collection of React components for displaying rich Jupyter display objects.
+- [jupyterlab server](https://github.com/jupyterlab/jvomupyterlab_server) - Set of server components for JupyterLab and JupyterLab like applications.
+- [Setup Anaconda, Jupyter, and Rust (2020)](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)

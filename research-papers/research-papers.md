@@ -55,7 +55,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Reading Research: A Guide for Software Engineers (2020)](https://brooker.co.za/blog/2020/05/25/reading.html)
 - [ICFP 2020 papers](https://github.com/llelf/icfp2020-papers)
 - [Connected Papers](https://www.connectedpapers.com/) - Explore connected papers in a visual graph. ([Article](https://www.lesswrong.com/posts/kjQXzkTGuixoJtQnq/we-ve-built-connected-papers-a-visual-tool-for-researchers))
-- [Sci-Hub](https://sci-hub.tw/) - Removing barriers in the way of science. ([Alternative working domains](https://twitter.com/scihub_love)) ([Sci-Hub archive as torrent](https://news.ycombinator.com/item?id=23646228)) ([HN](https://news.ycombinator.com/item?id=23645305))
+- [Sci-Hub](https://sci-hub.do/) - Removing barriers in the way of science. ([Alternative working domains](https://twitter.com/scihub_love)) ([Sci-Hub archive as torrent](https://news.ycombinator.com/item?id=23646228)) ([HN](https://news.ycombinator.com/item?id=23645305))
 - [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.
 - [Scholar With Code](https://chrome.google.com/webstore/detail/scholar-with-code/nlnjigejpgngahmoainkakaafabijeki/related) - Chrome extension to present the number of available code implementations (via Papers With Code) for articles listed on Google Scholar.
 - [Google Scholar](https://scholar.google.com/)
@@ -80,3 +80,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Papiers](https://github.com/Armael/papiers) - Tool to index your pdf files/research papers/… and quickly search through them.
 - [paperai](https://github.com/neuml/paperai) - AI-powered literature discovery and review engine for medical/scientific papers.
 - [arXivist](https://github.com/njhofmann/arXivist) - Search and store papers from a command line.
+- [NeurIPS 2020 Best Paper Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
+- [Inciteful](https://inciteful.xyz/) - Using Citations to Explore Academic Literature.

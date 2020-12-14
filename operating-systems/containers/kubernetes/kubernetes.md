@@ -286,3 +286,5 @@
 - [Octopod](https://github.com/typeable/octopod) - Open-source self-hosted solution for managing multiple deployments in a Kubernetes cluster in a user-friendly web interface.
 - [Argo Events](https://github.com/argoproj/argo-events) - Event-driven Workflow Automation Framework. ([Docs](https://argoproj.github.io/argo-events/))
 - [Pixie](https://pixielabs.ai/) - Kubernetes Monitoring, Application Debug Platform. ([Code](https://github.com/pixie-labs/pixie))
+- [Kubermatic](https://www.kubermatic.com/) - Enterprise Kubernetes Platform & Automated Multi-cloud Operations. ([Code](https://github.com/kubermatic/kubermatic))
+- [Kubelet Deep Dive: Writing a Kubelet in Rust (2020)](https://www.youtube.com/watch?v=idMf865wwD8)

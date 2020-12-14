@@ -38,3 +38,4 @@
 - [Secrets of the best product teams (2020)](https://st.im/secrets-of-the-best-product-teams/)
 - [Products should be “slick”, not just viable (2020)](https://herman.bearblog.dev/mvp-vs-slc/)
 - [Productboard](https://www.productboard.com/) - Customer-driven product management tool. ([API](https://developer.productboard.com/))
+- [Understand users, have a strategy, take the time to build an amazing & delightful product VS Just build, ship quick & often, experiment, assess user reactions, learn, repeat (2020)](https://twitter.com/shreyas/status/1337852929101815808)

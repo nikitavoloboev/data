@@ -28,6 +28,7 @@
 - [Reframe](https://github.com/reframejs/reframe) - New kind of web framework.
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - Observable standard library.
 - [Choo](https://github.com/choojs/choo) - Sturdy 4kb frontend framework. ([Web](https://www.choo.io/))
+- [Typera](https://github.com/akheron/typera) - Type-safe routes for Express and Koa.
 
 ## Animation
 
@@ -66,7 +67,7 @@
 - [Hooksy](https://github.com/pie6k/hooksy) - State management solution based on react hooks.
 - [React Easy State](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [wana](https://github.com/alloc/wana) - Easy observable state for React.
-- [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/)) ([Rewriting from scratch](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/))
+- [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/)) ([Rewriting from scratch](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/)) ([Recoilize - Recoil developer tool](https://github.com/open-source-labs/Recoilize))
 - [State Designer](https://github.com/steveruizok/state-designer) - JavaScript and TypeScript library for managing the state of a user interface.
 - [Fluxible](https://github.com/yahoo/fluxible) - Pluggable container for universal flux applications.
 - [Logux State](https://github.com/logux/state) - Tiny state manager with CRDT, cross-tab, and Logux support.

@@ -27,3 +27,4 @@
 - [Wslay](https://github.com/tatsuhiro-t/wslay) - WebSocket library written in C.
 - [Tungstenite](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
 - [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Asynchronous WebSockets for Tokio stack.
+- [GoLive](https://github.com/brendonferreira/golive) - Reactive HTML Server Side over WebSockets.

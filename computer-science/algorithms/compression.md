@@ -35,3 +35,4 @@
 - [pako](https://github.com/nodeca/pako) - High speed zlib port to javascript, works in browser & node.js.
 - [A System to Transparently Compress Hundreds of Petabytes of Image](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/horn)
 - [Kanzi](https://github.com/flanglet/kanzi-go) - Modern, modular, expendable and efficient lossless data compressor implemented in Go.
+- [Data Compression With Arithmetic Coding (2014)](https://marknelson.us/posts/2014/10/19/data-compression-with-arithmetic-coding.html)

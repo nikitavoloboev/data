@@ -99,3 +99,4 @@
 - [Sugar – a typed lispy language targeting webasm/wat (2020)](https://ph1lter.bitbucket.io/blog/2020-12-06-sugar-compiler.html) ([HN](https://news.ycombinator.com/item?id=25322596))
 - [Ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp.
 - [Zuko](https://github.com/ravern/zuko) - Basic Lisp-like programming language.
+- [Lisp Books](https://www.pinterest.co.uk/vseloved/lisp-books/)

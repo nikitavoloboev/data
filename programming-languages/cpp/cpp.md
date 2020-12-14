@@ -165,3 +165,5 @@
 - [xrepo](https://github.com/xmake-io/xrepo/) - Cross-platform C/C++ package manager based on Xmake. ([Lobsters](https://lobste.rs/s/8kiuad/modern_c_c_package_manager))
 - [Is the preprocessor still needed in C++? (2017)](https://foonathan.net/2017/05/preprocessor/) ([HN](https://news.ycombinator.com/item?id=25322891))
 - [C++ is not cross platform anymore (2019)](https://blog.noctua-software.com/cpp-is-not-cross-platform-anymore.html)
+- [Is C++ type-safe? (There’s two right answers) (2020)](https://davmac.wordpress.com/2020/12/13/is-c-type-safe-theres-two-right-answers/) ([Lobsters](https://lobste.rs/s/esfr31/is_c_type_safe_there_s_two_right_answers))
+- [Unwinding a Bug - How C++ Exceptions Work (2020)](https://stffrdhrn.github.io/software/toolchain/openrisc/2020/12/13/cxx-exception-unwinding.html)

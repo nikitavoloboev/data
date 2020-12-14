@@ -247,6 +247,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Otter](https://otter.ai/) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations.
 - [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
 - [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
+- [NoteCalc](https://bbodi.github.io/notecalc3/) - Handy calculator trying to bring the advantages of Soulver to the web. ([Code](https://github.com/bbodi/notecalc3))
 - [Config.ly](https://www.config.ly/) - Never hardcode your data again. Instantly update static / config data on all your apps/servers without waiting on a deploy or App Store review. ([HN](https://news.ycombinator.com/item?id=25059296))
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
 - [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)) ([HN](https://news.ycombinator.com/item?id=24882480))

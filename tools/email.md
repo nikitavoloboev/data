@@ -119,3 +119,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [Bamboo](https://github.com/thoughtbot/bamboo) - Testable, composable, and adapter based Elixir email library for devs that love piping.
 - [IMAP API](https://imapapi.com/) - Self hosted daemon to access IMAP and SMTP accounts via HTTP API. ([Code](https://github.com/andris9/imapapi)) ([HN](https://news.ycombinator.com/item?id=25372987))
+- [smtpd](https://github.com/mhale/smtpd) - SMTP server package written in Go, in the style of the built-in HTTP server.

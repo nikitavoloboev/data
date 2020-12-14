@@ -158,6 +158,7 @@
 - [poly-commit](https://github.com/scipr-lab/poly-commit) - Rust library for polynomial commitments.
 - [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
 - [STHash](https://github.com/jedisct1/rust-sthash) - Fast, keyed, cryptographic hash function designed to process large, possibly untrusted data.
+- [arkworks::algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic.
 
 ## Linux
 
@@ -192,6 +193,7 @@
 - [pipeline.rs](https://github.com/johannhof/pipeline.rs) - Macro collection to pipe your functions calls, like in F# or Elixir.
 - [timed](https://github.com/y2kappa/timed) - Rust crate to time your function using derive annotations.
 - [paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs.
+- [Darling](https://github.com/TedDriggs/darling) - Rust proc-macro attribute parser.
 
 ## Other
 
@@ -239,7 +241,7 @@
 - [Svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG.
 - [cbindgen](https://github.com/eqrion/cbindgen) - Project for generating C bindings from Rust code.
 - [Bincode](https://github.com/TyOverby/bincode) - Binary encoder / decoder implementation in Rust.
-- [hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log.
+- [Hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log. ([Web](https://hypercore-protocol.org/)) ([HN](https://news.ycombinator.com/item?id=25407193))
 - [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - Rust wrapper for rocksdb.
 - [futures-rs](https://github.com/rust-lang-nursery/futures-rs) - Zero-cost asynchronous programming in Rust.
 - [hashbrown](https://github.com/Amanieu/hashbrown) - Rust port of Google's high-performance SwissTable hash map, adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
@@ -578,6 +580,8 @@
 - [linked-list-allocator](https://github.com/phil-opp/linked-list-allocator) - Create a static allocator.
 - [claim](https://github.com/svartalf/rust-claim) - Assertion macros toolkit for Rust.
 - [reformation](https://github.com/hukumka/reformation) - Parsing via regular expressions using format syntax.
+- [rust-fasthash](https://github.com/flier/rust-fasthash) - Suite of non-cryptographic hash functions for Rust.
+- [GilRs](https://github.com/Arvamer/gilrs) - Game Input Library for Rust.
 
 ## Cargo Plugins
 

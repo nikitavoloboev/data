@@ -135,3 +135,4 @@
 - [What to read to learn compilers (RU)](https://github.com/true-grue/Compiler-Development)
 - [HN: Best Resources for Compiler Construction (2020)](https://news.ycombinator.com/item?id=25275675)
 - [Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) ([HN](https://news.ycombinator.com/item?id=25386756))
+- [Advice on how to best approach learning compilers (2020)](https://www.reddit.com/r/Compilers/comments/kcpy3b/favorite_textbooks_for_students_taking_their/gfsk6kz/?utm_source=reddit&utm_medium=web2x&context=3)

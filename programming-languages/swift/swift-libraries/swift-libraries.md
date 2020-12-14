@@ -10,6 +10,7 @@
 
 ## Animation
 
+- [Motion](https://github.com/b3ll/Motion) - Animation engine for gesturally-driven user interfaces, animations, and interactions on iOS, macOS, and tvOS. ([Tweet](https://twitter.com/b3ll/status/1338520523001778177))
 - [Anim](https://github.com/onurersel/anim) - Swift animation library for iOS, tvOS and macOS.
 
 ## Networking
@@ -125,6 +126,7 @@
 - [OneTimePassword](https://github.com/mattrubin/OneTimePassword) - TOTP and HOTP one-time passwords for iOS.
 - [BadgeHub](https://github.com/jogendra/BadgeHub) - Quickly add a notification badge icon to any view.
 - [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight pure Swift implementation for visualizing touches on the screen.
+- [FrameLayoutKit](https://github.com/kennic/FrameLayoutKit) - Super fast and easy to use autolayout kit.
 
 ## macOS
 
@@ -507,6 +509,7 @@
 - [Soto for AWS](https://github.com/soto-project/soto) - Swift language SDK for Amazon Web Services (AWS), working on Linux, macOS and iOS.
 - [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - Tool to convert Swift code to Kotlin.
 - [Swift Distributed Tracing](https://github.com/apple/swifnt-distributed-tracing) - Collection of Swift libraries enabling the instrumentation of server side applications using tools such as tracers.
+- [CloudStorage](https://github.com/tomlokhorst/CloudStorage) - Sync settings through iCloud key-value storage.
 
 ## Other (not lib)
 
@@ -523,3 +526,4 @@
 - [DocTest](https://github.com/SwiftDocOrg/DocTest) - Experimental tool for testing Swift example code in documentation.
 - [swift-docker](https://github.com/iainsmith/swift-docker) - Build & test your swift packages using docker - `swift docker test`.
 - [My experience replacing CocoaPods with SwiftPM (2020)](https://www.jessesquires.com/blog/2020/02/24/replacing-cocoapods-with-swiftpm/)
+- [Swift Package Collection Generator](https://github.com/apple/swift-package-collection-generator) - Collection of packages and tooling for generating and consuming package feeds.

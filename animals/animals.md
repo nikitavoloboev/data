@@ -29,6 +29,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Raccoons: Me when I retire](https://twitter.com/yashar/status/1326347886083239937)
 - [Wild cats](https://twitter.com/soapachu/status/1327319479722897409)
 - [Surfing cat](https://twitter.com/dodo/status/1329908125655134208)
+- [Leaf sheep](https://twitter.com/stephsmithio/status/1327356193581395969)
 
 ## Links
 

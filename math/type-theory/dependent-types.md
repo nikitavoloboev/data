@@ -41,3 +41,4 @@
 - [Dependent types at work (2009)](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.386.2624) ([Code](https://github.com/conal/DependentTypesAtWork-exercises))
 - [curnelo](https://github.com/webyrd/curnelo) - Cur dependently-typed programming language, implemented in miniKanren.
 - [cur](https://github.com/wilbowma/cur) - Language with static dependent-types and dynamic types, type annotations and parentheses, theorem proving and meta-programming.
+- [Daniel Gratzer Research](https://jozefg.github.io/)

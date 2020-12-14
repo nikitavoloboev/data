@@ -46,3 +46,4 @@
 - [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. ([Code](https://github.com/kern/filepizza))
 - [tus](https://tus.io/) - Resumable file uploads. ([GitHub](https://github.com/tus))
 - [Hyp](https://github.com/hypercore-protocol/cli/) - CLI for peer-to-peer file sharing (and more) using the Hypercore Protocol. ([Demo](https://www.youtube.com/watch?v=SVk1uIQxOO8))
+- [Snapdrop](https://snapdrop.net/) - Local file sharing in your browser. Inspired by Apple's Airdrop. ([Code](https://github.com/RobinLinus/snapdrop))

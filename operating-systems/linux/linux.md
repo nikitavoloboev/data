@@ -235,3 +235,5 @@
 - [Welder](https://github.com/pch/welder) - Set up your Linux server with plain shell scripts.
 - [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
 - [Linux Kernel Management Style](https://www.kernel.org/doc/html/latest/process/management-style.html)
+- [The State of Linux Debuggers](https://scattered-thoughts.net/writing/looking-for-debugger/) ([HN](https://news.ycombinator.com/item?id=25406541)) ([Lobsters](https://lobste.rs/s/g7ohej/state_linux_debuggers))
+- [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch)

@@ -413,3 +413,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Tiny](https://github.com/nijaru/awesome-tiny) - Awesome list for tiny implementations.
 - [No CS Degree](https://www.nocsdegree.com/) - Inspiring stories from developers without CS degrees. ([HN](https://news.ycombinator.com/item?id=25375206))
 - [Herbie](https://herbie.uwplse.org/) - Automatically Improving Floating Point Accuracy. ([Code](https://github.com/uwplse/herbie))
+- [perf-load](https://github.com/dvyukov/perf-load) - What do traditional profilers (like perf and pprof) sample: real time or CPU time?

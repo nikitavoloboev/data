@@ -109,3 +109,5 @@
 - [Make Your Back End Layer as Thin as Possible (2020)](https://kartick.substack.com/p/make-your-backend-layer-as-thin-as) ([HN](https://news.ycombinator.com/item?id=25101820))
 - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 - [Solutions Architecture Patterns](https://github.com/chanakaudaya/solutions-architecture-patterns) - Contains solution architecture patterns which can be reused to build enterprise software systems. ([Web](https://chanakaudaya.github.io/solutions-architecture-patterns/))
+- [Scaling Cache Infrastructure at Pinterest (2020)](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
+- [Clean architecture: Domain-driven design (2020)](https://ddimitrov.dev/2020/12/13/domain-driven-design-and-clean-architecture/)

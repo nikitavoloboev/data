@@ -143,7 +143,7 @@
 - [Rust: Unlocking Systems Programming (2016)](https://www.infoq.com/presentations/rust-thread-safety/)
 - [Hello Rust](https://hello-rust.show/) - Lighthearted live-programming channel about my journey to become a fearless, more effective Rust programmer.
 - [Introduction to Rust (for people who have never used a compiler)" - Tim McNamara (2020)](https://www.youtube.com/watch?v=jiBYfpf_M4c)
-- [Rust in Action book (2020)](https://www.manning.com/books/rust-in-action)
+- [Rust in Action book (2020)](https://www.manning.com/books/rust-in-action) ([Code](https://github.com/rust-in-action/code))
 - [How To Write Fast Rust Code (2020)](http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html) ([Reddit](https://www.reddit.com/r/rust/comments/eq168d/how_to_write_fast_rust_code/))
 - [The Soundness Pledge (2020)](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html) ([Reddit](https://www.reddit.com/r/rust/comments/eqcefv/the_soundness_pledge/))
 - [What is Rust and why is it so popular? (2020)](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/) ([HN](https://news.ycombinator.com/item?id=22106501))
@@ -336,7 +336,7 @@
 - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/) ([HN](https://news.ycombinator.com/item?id=24687685))
 - [Dancing Links In Rust (2020)](https://ferrous-systems.com/blog/dlx-in-rust/)
 - [Designing a New Rust Class at Stanford: Safety in Systems Programming (2020)](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html) ([HN](https://news.ycombinator.com/item?id=24711314))
-- [CS 110L: Safety in Systems Programming (2020)](https://reberhardt.com/cs110l/spring-2020/)
+- [CS 110L: Safety in Systems Programming (2020)](https://reberhardt.com/cs110l/spring-2020/) ([Code](https://github.com/jeffzh4ng/stanford-cs110L))
 - [Rust async execution (2019)](http://jblog.andbit.net/2019/11/10/rust-async-execution/)
 - [Rust Async Benchmark](https://github.com/jkarneges/rust-async-bench) - Attempts to compare the performance of a manually written poll loop vs async/await.
 - [Constant Evaluation Rust Proposals](https://github.com/rust-lang/const-eval)
@@ -388,4 +388,4 @@
 - [Understanding Partial Moves in Rust (2020)](https://whileydave.com/2020/11/30/understanding-partial-moves-in-rust/) ([Lobsters](https://lobste.rs/s/fyxjrh/understanding_partial_moves_rust))
 - [rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc.
 - [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
-- [Aiming for correctness with types (2020)](https://fasterthanli.me/articles/aiming-for-correctness-with-types)
+- [Aiming for correctness with types (2020)](https://fasterthanli.me/articles/aiming-for-correctness-with-types) ([Lobsters](https://lobste.rs/s/6gp4ki/aiming_for_correctness_with_types))

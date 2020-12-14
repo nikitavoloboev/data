@@ -231,3 +231,4 @@
 - [Haskell Learning Resources](https://github.com/sassela/haskell-learning) - Opinionated list of resources for learning Haskell, from absolute (programming) beginner level to advanced.
 - [Haskell memoization and evaluation model (2020)](https://bor0.wordpress.com/2020/12/11/haskell-memoization-and-evaluation-model/)
 - [izuna](https://github.com/matsumonkie/izuna) - Enhances Haskell code review for Github.
+- [Foo to Bar: Naming Conventions in Haskell (2020)](https://kowainik.github.io/posts/naming-conventions)

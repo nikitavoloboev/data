@@ -132,6 +132,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Aurelio](https://github.com/nobitagit/knowledge)
 - [Yenly Ma TIL](https://til.yenly.wtf/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
+- [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
@@ -261,6 +262,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Kb](https://github.com/gnebbia/kb) - Text-oriented minimalist command line knowledge base manager. ([HN](https://news.ycombinator.com/item?id=24506280))
 - [List of Zettelkasten software (2020)](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/)
 - [What {note taking|team wiki|personal wiki|external brain} tool do you use? (2020)](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki)
+- [TiddlyWiki](https://tiddlywiki.com/) - Non-linear personal web notebook. ([Code](https://github.com/Jermolene/TiddlyDesktop))
 - [Notes with TiddlyWiki](http://beza1e1.tuxen.de/tiddlywiki_notes.html)
 - [Rekowl](https://rekowl.com/) - You personal knowledge library.
 - [nb](https://github.com/xwmx/nb) - CLI plain-text notes & bookmarks with Git, sync, encryption, and more. ([HN](https://news.ycombinator.com/item?id=24709393)) ([Docs](https://xwmx.github.io/nb/))
@@ -279,3 +281,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [zettel](https://github.com/hackstream/zettel) - Notes organizer - based on Zettelkasten methodology. Written in Go.
 - [Foamy NextJS Starter](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden.
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
+- [Memex](https://github.com/kormyen/memex) - Simple bookmarks and notes.
+- [POC on how a Memex could potentially work](https://github.com/steve-1820/memex)
