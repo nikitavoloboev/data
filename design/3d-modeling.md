@@ -27,3 +27,4 @@
 - [Spline](https://spline.design/) - Design tool for 3D web experiences. ([Introduction to Spline](https://www.youtube.com/watch?v=BNbVyzhuN3g))
 - [CAD-Deform: Deformable Fitting of CAD Models to 3D Scans](https://github.com/alexeybokhovkin/CAD-Deform)
 - [modeler](https://github.com/szymonkaliski/modeler) - CSG modeling with React.
+- [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - Supports reading, editing, and writing 3D models in glTF 2.0 format.

@@ -395,3 +395,5 @@ Go promotes composition over inheritance.
 - [Golds](https://github.com/go101/golds) - Experimental Go local docs server/generator and code reader.
 - [generate](https://github.com/a-h/generate) - Generates Go Structs from JSON schema.
 - [Go: A Documentary](https://golang.design/history/) - Collects many interesting (publicly observable) issues, discussions, proposals, CLs, and talks from the Go development process. ([Code](https://github.com/golang-design/history))
+- [gotesplit](https://github.com/Songmu/gotesplit) - Splits the testing in Go into a subset and run it. It is useful for the CI environment.
+- [Go Resources](https://golangresources.com/) - Find the best Go learning materials on the web.

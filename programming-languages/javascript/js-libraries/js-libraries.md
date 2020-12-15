@@ -29,6 +29,7 @@
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - Observable standard library.
 - [Choo](https://github.com/choojs/choo) - Sturdy 4kb frontend framework. ([Web](https://www.choo.io/))
 - [Typera](https://github.com/akheron/typera) - Type-safe routes for Express and Koa.
+- [Frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript. ([Web](https://frourio.io/))
 
 ## Animation
 
@@ -391,6 +392,8 @@
 - [Nano Delay](https://github.com/ai/nanodelay) - Tiny (25 bytes) Promise wrapper around setTimeout.
 - [ES Module Lexer](https://github.com/guybedford/es-module-lexer) - Low-overhead lexer dedicated to ES module parsing for fast analysis.
 - [keez](https://github.com/kripod/keez) - Frictionless hotkey handling for browsers.
+- [Zet](https://github.com/terkelg/zet) - Set() as it should be.
+- [Ketting](https://github.com/badgateway/ketting) - Hypermedia client for JavaScript.
 
 ## Links
 

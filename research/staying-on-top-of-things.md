@@ -97,7 +97,7 @@ And these Discord servers:
 - [Axios](https://www.axios.com/)
 - [Financial Times](https://www.ft.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
-- [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories.
+- [Rest of World](https://restofworld.org/) - Reporting Global Tech Stories. ([Why I started Rest of World](https://restofworld.org/2020/letter-from-the-founder/))
 - [The Straight Dope](https://www.straightdope.com/)
 - [Future Crunch](https://futurecrun.ch/)
 - [The Gradient](https://thegradient.pub/)
@@ -116,7 +116,6 @@ And these Discord servers:
 - [Original contents on HN](http://hn.luap.info/) ([HN](https://news.ycombinator.com/item?id=23093990))
 - [Ness Labs](https://nesslabs.com/) - Provides content, coaching, courses and community to help makers put their minds at work.
 - [LessWrong](https://www.lesswrong.com/) - Community dedicated to improving our reasoning and decision-making.
-- [Rest of World](https://restofworld.org/) - International nonprofit journalism organization. We document what happens when technology, culture and the human experience collide.
 - [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random) - Open a random wikipedia page.
 - [Personal RSS feed](https://news.routley.io/)
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.

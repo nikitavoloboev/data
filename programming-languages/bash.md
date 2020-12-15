@@ -55,4 +55,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [How To Use Bash Parameter Substitution Like A Pro (2020)](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 - [Introduction to Bash Scripting Book](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 - [Bash Snippets](https://github.com/alexanderepstein/Bash-Snippets) - Collection of small bash scripts for heavy terminal users with no dependencies.
-- [Minimal safe Bash script template (2020)](https://betterdev.blog/minimal-safe-bash-script-template/)
+- [Minimal safe Bash script template (2020)](https://betterdev.blog/minimal-safe-bash-script-template/) ([Lobsters](https://lobste.rs/s/yeloyn/minimal_safe_bash_script_template)) ([HN](https://news.ycombinator.com/item?id=25428621))

@@ -30,3 +30,4 @@
 - [Computation graphs and graph computation (2020)](http://breandan.net/2020/06/30/graph-computation/)
 - [GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - Graph algorithms in the language of linear algebra.
 - [GraphBLAS: A linear algebraic approach for portable graph algorithms (2020)](https://zenodo.org/record/4318870)
+- [GEMS Lab](https://gemslab.github.io/) - Graph Exploration and Mining at Scale. ([GitHub](https://github.com/GemsLab))

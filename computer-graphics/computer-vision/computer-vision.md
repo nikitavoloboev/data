@@ -182,3 +182,4 @@
 - [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing (2020)](https://arxiv.org/abs/2011.15126) ([Tweet](https://twitter.com/goodfellow_ian/status/1333845997697388544))
 - [SharpAI DeepCamera](https://github.com/SharpAI/DeepCamera) - Source stack for machine learning engineering with private deployment and AutoML for edge computing. ([HN](https://news.ycombinator.com/item?id=25368272))
 - [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://github.com/krishnabits001/domain_specific_cl)
+- [Real-Time High-Resolution Background Matting (2020)](https://arxiv.org/abs/2012.07810) ([Code](https://github.com/PeterL1n/BackgroundMattingV2))

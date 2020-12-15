@@ -54,3 +54,4 @@
 - [Atomic Search](https://atomicsearchinc.com/) - Using NLP to create self-evolving, searchable knowledge graphs. ([Twitter](https://twitter.com/atomicsearchinc))
 - [Awesome Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)
 - [Awesome Knowledge Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning)
+- [REGAL: Representation Learning-based Graph Alignment (2018)](https://github.com/GemsLab/REGAL)

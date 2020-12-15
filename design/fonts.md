@@ -186,3 +186,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [OpenType Sanitizer](https://github.com/khaledhosny/ots) - Parses and serializes OpenType files (OTF, TTF) and WOFF and WOFF2 font files, validating them and sanitizing them as it goes.
 - [Fontkit](https://github.com/foliojs/fontkit) - Advanced font engine for Node and the browser, used by PDFKit.
 - [Connary Fagen](https://connary.com/index.html) - Type design studio and foundry.
+- [OpenType shaping documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior.
+- [Kerning and letterspacing research](https://github.com/n8willis/kernall)

@@ -44,3 +44,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Working at Stripe experience](https://twitter.com/jzipdamonsta/status/1313860094438846464)
 - [What Working At Stripe Has Been Like (2020)](https://kalzumeus.com/2020/10/09/four-years-at-stripe/) ([HN](https://news.ycombinator.com/item?id=24721118))
 - [Mission Protocol](https://missionprotocol.org/) ([HN](https://news.ycombinator.com/item?id=24832404)) ([Ostrich Protocol](https://ostrichprotocol.org/))
+- [My Engineering Values (2020)](https://mikemcquaid.com/2020/12/15/my-engineering-values/)

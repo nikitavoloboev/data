@@ -19,3 +19,4 @@
 - [Objective-Hooker](https://github.com/LIJI32/ObjectiveHooker) - Extra light, extra simple Objective-C hooking framework.
 - [HTMLKit](https://github.com/iabudiab/HTMLKit) - Objective-C framework for your everyday HTML needs.
 - [Resources for learning Objective-C and AppKit (2020)](https://lapcatsoftware.com/articles/learning.html)
+- [BlockHook](https://github.com/yulingtianxia/BlockHook) - Hook Objective-C blocks. A powerful AOP tool.

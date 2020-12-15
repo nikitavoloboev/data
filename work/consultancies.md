@@ -157,6 +157,8 @@
 - [Mwie Ltd](http://www.mwie.com/)
 - [STRV](https://www.strv.com/) - Software Design & Engineering.
 - [Typeable](https://typeable.io/) - Haskell, FP, software development and consulting. ([GitHub](https://github.com/typeable))
+- [wearereasonablepeople](https://wearereasonablepeople.com/) ([GitHub](https://github.com/wearereasonablepeople))
+- [Lucina & Associates](https://lucina.net/) - Small consulting group specializing in bespoke software development and system integration.
 
 ## Links
 

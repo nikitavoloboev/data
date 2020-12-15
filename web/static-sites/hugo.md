@@ -26,6 +26,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Tale](https://github.com/EmielH/tale-hugo/) - Minimal theme curated for storytellers.
 - [Ink](https://github.com/knadh/hugo-ink) - Crisp, minimal personal website and blog theme Hugo.
 - [Hugo Book Theme](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book.
+- [Terminal](https://github.com/panr/hugo-theme-terminal) - Simple, retro theme for Hugo.
 
 ## Examples
 

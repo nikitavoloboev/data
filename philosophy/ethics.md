@@ -6,3 +6,4 @@
 - [Useful Values / Guiding Principles from Ethics (2020)](https://lowercaseopinions.com/useful-values)
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Humane Tech Community](https://community.humanetech.com/)
+- [Ethical Programming - Is It Worth It? (2020)](https://pragmaticpineapple.com/ethical-programming-is-it-worth-it/) ([Lobsters](https://lobste.rs/s/lr8mgr/ethical_programming_is_it_worth_it))

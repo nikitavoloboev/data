@@ -295,3 +295,6 @@
 - [Code Review Best Practices – Lessons from the Trenches (2020)](https://blogboard.io/blog/code-review-best-practices) ([HN](https://news.ycombinator.com/item?id=25362375))
 - [Frontiers of Performance with Daniel Lemire (2020)](https://overcast.fm/+LfVO9vQsc)
 - [Metaprogramming (2020)](https://missing.csail.mit.edu/2020/metaprogramming/)
+- ["What The Hardware Does" is not What Your Program Does: Uninitialized Memory (2019)](https://www.ralfj.de/blog/2019/07/14/uninit.html)
+- [Awesome Live Coding](https://github.com/toplap/awesome-livecoding) - Curated list of live coding languages and tools.
+- [Shitlist Driven Development (2016)](https://sirupsen.com/shitlists/)

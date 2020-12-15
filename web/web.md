@@ -206,3 +206,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Periodic Table of the Web](https://wwwperiodictable.surge.sh/) ([Code](https://github.com/CrazyPython/wwwpreiodictable)) ([HN](https://news.ycombinator.com/item?id=25399294))
 - [24 ways](https://24ways.org/) - Web design and development articles and tutorials for advent.
 - [dvlp](https://github.com/popeindustries/dvlp) - No-configuration, no-conditionals, no-middleware, no-nonsense dev server toolkit to help you develop quickly and easily for the web.
+- [mdn.dev](https://mdn.dev/) - Resources for developers, by developers. ([Code](https://github.com/mdn/yari)) ([Article](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)) ([HN](https://news.ycombinator.com/item?id=25429518))

@@ -5,7 +5,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 ## Interesting generators
 
 - [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
-- [Zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola)) ([My Zola Workflow](https://0xc45.com/blog/my-zola-workflow/)) ([Migrating my blog to Zola](https://mrkaran.dev/posts/migrating-to-zola/)) ([Lobsters 2](https://lobste.rs/s/byh0mf/migrating_my_blog_zola))
+- [Zola](https://github.com/getzola/zola) - Fast static site generator in a single binary with everything built-in. ([Going Full Static with Zola](https://figbert.com/posts/going-full-static/)) ([Lobsters](https://lobste.rs/s/vqvzm9/going_full_static_with_zola)) ([My Zola Workflow](https://0xc45.com/blog/my-zola-workflow/)) ([Migrating my blog to Zola](https://mrkaran.dev/posts/migrating-to-zola/)) ([Lobsters 2](https://lobste.rs/s/byh0mf/migrating_my_blog_zola)) ([Terminimal theme](https://github.com/pawroman/zola-theme-terminimal/))
 - [Styx](https://styx-static.github.io/styx-site/) - Purely functional static site generator in Nix expression language.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator.
 - [elm-pages](https://github.com/dillonkearns/elm-pages) - Statically typed site generator for Elm.
@@ -40,9 +40,10 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Elder.js](https://github.com/Elderjs/elderjs) - SEO focused, Svelte Framework & Static Site Generator.
 - [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
 - [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. ([Code](https://github.com/middleman/middleman))
-- [Bagatto](https://sr.ht/~subsetpark/bagatto/) - Extensible, transparent static site generator. ([Lobsters](https://lobste.rs/s/7ibntu/bagatto_extensible_transparent_static)) ([Getting Started](https://bagatto.co/guides/getting-started-with-bagatto.html))
+- [Bagatto](https://sr.ht/~subsetpark/bagatto/) - Extensible, transparent static site generator. ([Lobsters](https://lobste.rs/s/7ibntu/bagatto_extensible_transparent_static)) ([Getting Started](https://bagatto.co/guides/getting-started-with-bagatto.html)) ([Bagatto, a New Static Site Generator](https://blog.zdsmith.com/posts/bagatto-a-new-static-site-generator.html))
 - [Meli](https://github.com/getmeli/meli) - Open source platform for deploying static sites and frontend applications. ([HN](https://news.ycombinator.com/item?id=25387157)) ([Lobsters](https://lobste.rs/s/sut9hu/meli_netlify_like_platform_for_deploying))
 - [Ness](https://github.com/nessjs/ness) - No-effort static sites deployed to your AWS account.
+- [Pagic](https://github.com/xcatliu/pagic) - Static site generator powered by Deno + React.
 
 ## Notes
 

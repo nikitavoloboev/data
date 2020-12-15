@@ -20,7 +20,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [ProcessKit](https://processkit.com/) - Streamlines repeatable client work, makes your team more efficient, and sets your business up for predictable growth.
 - [HASH](https://hash.ai/) - Complex Systems Simulation. ([Mission](https://hash.ai/about/mission)) ([HN](https://news.ycombinator.com/item?id=21728776))
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
-- [Frame.io](https://frame.io/) - Video review and collaboration software.
 - [Generated Photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.
 - [faktory](https://github.com/contribsys/faktory) - At a high level, Faktory is a work server. It is the repository for background jobs within your application.
 - [Tray](https://tray.io/) - Quickly integrate your software applications using powerful automated workflows.

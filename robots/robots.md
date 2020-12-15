@@ -52,3 +52,4 @@
 - [Planning Algorithms / Motion Planning by Steve Lavalle](http://lavalle.pl/planning/)
 - [Robotics - Modelling, Planning and Control by Bruno Siciliano](https://www.springer.com/gp/book/9781846286414)
 - [Robotic Manipulation (2020)](http://manipulation.csail.mit.edu/)
+- [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) - Physics-based simulation framework for physical human-robot interaction and robotic assistance.

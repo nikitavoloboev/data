@@ -174,3 +174,4 @@
 - [Unpopular opinion: SQL is better than GraphQL (2020)](https://twitter.com/rakyll/status/1336528841481674752) ([HN](https://news.ycombinator.com/item?id=25358005))
 - [GraphQL multipart request specification](https://github.com/jaydenseric/graphql-multipart-request-spec)
 - [Under-the-hood of GraphQL (2020)](https://craigtaub.dev/under-the-hood-of-graphql) ([HN](https://news.ycombinator.com/item?id=25407553))
+- [GraphQL Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - The definitive guide to express your GraphQL schema succinctly.

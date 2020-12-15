@@ -82,6 +82,7 @@
 - [appy](https://github.com/contactlab/appy) - Functional wrapper around Fetch API.
 - [Barrels](https://github.com/bencoveney/barrelsby) - Automatic TypeScript barrels (index.ts files) for your entire code base.
 - [optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript.
+- [set-fns](https://github.com/haydn/set-fns) - Utility library for working with sets.
 
 ## Links
 

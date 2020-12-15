@@ -17,3 +17,4 @@
 - [Learn Reagent Free](https://www.jacekschae.com/courses/learn-reagent-free/)
 - [Lambda Island](https://lambdaisland.com/) - Screencast series about ClojureScript and Clojure.
 - [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) - Open source book about ClojureScript. ([Code](https://github.com/funcool/clojurescript-unraveled))
+- [Piggieback](https://github.com/nrepl/piggieback) - nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.

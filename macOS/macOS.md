@@ -119,3 +119,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Popover](https://github.com/iSapozhnik/Popover) - Custom macOS Popover.
 - [Reverse Engineering on macOS](https://github.com/steven-michaud/reverse-engineering-on-osx)
 - [Virtualization.framework tool (vftool)](https://github.com/evansm7/vftool) - Runs Linux virtual machines in macOS. ([HN](https://news.ycombinator.com/item?id=25382529))
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) ([Code](https://github.com/sb2nov/mac-setup))

@@ -61,3 +61,5 @@
 - [Bibliographies of the Bibliometric-enhanced Information Retrieval workshops and related other workshops](https://github.com/PhilippMayr/Bibliometric-enhanced-IR_Bibliography)
 - [news-please](https://github.com/fhamborg/news-please) - Open source, easy-to-use news crawler that extracts structured information from almost any news website.
 - [Web crawling with Python (2020)](https://www.scrapingbee.com/blog/crawling-python/)
+- [Metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks. ([Docs](https://metascraper.js.org/#/))
+- [Instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram. ([Docs](https://instaloader.github.io/))

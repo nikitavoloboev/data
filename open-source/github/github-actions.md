@@ -75,6 +75,7 @@
 - [Open Collective Bot](https://github.com/opencollective/opencollective-bot) - Will comment on issues based on whether the author is already a backer of your Open Collective.
 - [Is Sponsor Label](https://github.com/JasonEtco/is-sponsor-label-action) - GitHub Action that labels issues/PRs if the creator is a sponsor of the owner.
 - [Linkrot](https://github.com/tmcw/linkrot) - GitHub Action that helps you automatically maintain the correctness of your website's outgoing links.
+- [lychee link checking action](https://github.com/lycheeverse/lychee-action) - Quickly check links in Markdown, HTML, and text files.
 
 ## Go
 

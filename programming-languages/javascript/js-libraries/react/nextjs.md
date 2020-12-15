@@ -25,6 +25,7 @@
 - [Next Starter Kit](https://github.com/kripod/next-starter-strict) - Strict Next.js starter with Tailwind CSS, TypeScript, ESLint and Prettier.
 - [Simple NextJS PWA boilerplate](https://github.com/ooade/NextSimpleStarter)
 - [Hasura NextJS Boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate)
+- [Next.js blog starter](https://github.com/JoseRFelix/nextjs-starter-blog)
 
 ## NextJS plugins
 
@@ -138,3 +139,4 @@
 - [Automatically optimize images on a Next.js MDX Blog (2020)](https://noahfleischmann.com/blog/next-image-optimization)
 - [Build a site from scratch with Next.js, TypeScript, Emotion and Netlify](https://egghead.io/playlists/build-a-blog-with-next-js-typescript-emotion-and-netlify-adcc)
 - [next-client-script](https://github.com/amannn/next-client-script) - Supercharge the performance of your Next.js apps by using a minimal client runtime.
+- [Next Crud](https://github.com/premieroctet/next-crud) - Helper library that creates CRUD API routes with one simple function based on a Prisma model for Next.js.

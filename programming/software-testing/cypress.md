@@ -17,3 +17,4 @@
 - [Mastering UI Testing with Cypress](https://github.com/NoriSte/working-software-mastering-ui-testing)
 - [Cypress Real Events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
 - [HN: Cypress (2020)](https://news.ycombinator.com/item?id=25381242)
+- [Cypress Image Snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress.

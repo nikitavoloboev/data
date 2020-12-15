@@ -88,3 +88,4 @@
 - [duct](https://github.com/erikh/duct) - Docker-compose alike functionality directly from Go, for integration testing.
 - [Please Contain Yourself](https://github.com/dylanlrrb/Please-Contain-Yourself) - Docker tutorial written for people who don't actually know Docker already.
 - [Towards a Strong Mental Model of Docker (2020)](https://blog.andrewray.me/towards-a-strong-mental-model-of-docker/)
+- [Dockerfile best practices](https://github.com/hexops/dockerfile)

@@ -14,6 +14,7 @@
 - [ChainRules](https://github.com/JuliaDiff/ChainRules.jl) - Forward and reverse mode automatic differentiation primitives for Julia Base + StdLibs.
 - [MiniFastai](https://github.com/mlelarge/MiniFastai.jl) - Mini-version of fast.ai in Julia.
 - [ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl) - Reservoir computing utilities for scientific machine learning (SciML).
+- [GeometricFlux.jl](https://github.com/yuehhua/GeometricFlux.jl) - Geometric deep learning library for Flux.
 
 ## Math
 

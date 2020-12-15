@@ -23,3 +23,5 @@
 - [Hackernews Prism](https://github.com/kaleidawave/hackernews-prism) - Clone of Hackernews built with Prism, Rust and Actix-web. ([Article](https://kaleidawave.medium.com/hacker-news-clone-with-prism-rust-b4c681fe07af))
 - [Light and expressive GUI with web components](https://github.com/juliendargelos/gui)
 - [web.dev: How we build the site and use Web Components (2020)](https://web.dev/how-we-build-webdev-and-use-web-components/)
+- [Awesome Standalones](https://github.com/davatron5000/awesome-standalones) - Curated list of awesome framework-agnostic standalone web components.
+- [Catalyst](https://github.com/github/catalyst) - Set of patterns and techniques for developing components within a complex application. ([Web](https://github.github.io/catalyst/))

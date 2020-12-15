@@ -87,3 +87,4 @@
 - [DomStorm](https://domstorm.skepticfx.com/) - Dashboard for interesting DOM tricks/techniques. ([Code](https://github.com/skepticfx/domstorm))
 - [Alt vs Figcaption (2020)](https://thoughtbot.com/blog/alt-vs-figcaption)
 - [Ultralight](https://ultralig.ht/) - Next-Generation HTML Renderer for Desktop Apps and Games. ([Code](https://github.com/ultralight-ux/Ultralight))
+- [The Zen of index.html (2020)](https://hugodaniel.com/posts/using-just-an-index-to-develop-a-web-app/)

@@ -363,3 +363,5 @@
 - [Stanford MLSys Seminar Series (2020)](https://mlsys.stanford.edu/)
 - [MLCommons](https://mlcommons.org/en/) - Machine learning innovation to benefit everyone.
 - [Automated discovery of machine learning optimizations (2020)](https://searchworks.stanford.edu/view/13680855)
+- [A Visual Tour of Backpropagation (2020)](https://blog.jinay.dev/posts/backprop/)
+- [Deep Learning GPU Benchmarks](https://lambdalabs.com/gpu-benchmarks) ([Code](https://github.com/lambdal/lambda-tensorflow-benchmark))

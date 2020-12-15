@@ -268,3 +268,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [App Launch Time: 7 tips to increase performance](https://www.avanderlee.com/optimization/launch-time-performance-optimization/)
 - [iOS Learning Materials](https://github.com/jVirus/ios-learning-materials)
 - [A former Uber engineer's disaster story (2020)](https://twitter.com/stantwinb/status/1336890442768547845) ([HN](https://news.ycombinator.com/item?id=25373462)) ([Lobsters](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story))
+- [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) - App for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.

@@ -144,3 +144,4 @@
 - [Data Engineering Book](https://github.com/oleg-agapov/data-engineering-book) - Accumulated knowledge and experience in the field of Data Engineering.
 - [Data Science Lifecycle Process](https://github.com/dslp/dslp) - Set of prescriptive steps and best practices to enable data science teams to consistently deliver value.
 - [Data Science Lifecycle Base Repo](https://github.com/dslp/dslp-repo-template) - Template repository for data science projects using the Data Science Life Cycle Process.
+- [5th International Summer School on Data Science (2020)](https://sites.google.com/view/ssdatascience2020) ([Code](https://github.com/SSDS-Croatia/SSDS-2020))

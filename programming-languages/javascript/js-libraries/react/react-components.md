@@ -137,6 +137,7 @@
 - [Reapop](https://github.com/LouisBarranqueiro/reapop) - Simple and customizable React notifications system.
 - [react-responsive-modal](https://github.com/pradel/react-responsive-modal) - Simple responsive react modal.
 - [Graph editor](https://github.com/lochbrunner/react-flow-editor) - React component which enables creating flow editors with ease.
+- [React Lite YouTube Embed](https://github.com/kylemocode/react-lite-yt-embed)
 
 ## Links
 

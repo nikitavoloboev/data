@@ -57,3 +57,4 @@ If analytics are used, it's best to implement them server side with something li
 - [AWS Web Analytics](https://github.com/goatandsheep/aws-web-analytics) - Privacy-focused alternative to Google Analytics on AWS Pinpoint.
 - [Microsoft Clarity](https://clarity.microsoft.com/) - Analytics for Websites.
 - [Splitbee](https://splitbee.io/) - Friendly all-in-one analytics & conversion tool.
+- [Real-time Security Insights: Apache Pinot at Confluera (2020)](https://medium.com/confluera-engineering/real-time-security-insights-apache-pinot-at-confluera-a6e5f401ff02)

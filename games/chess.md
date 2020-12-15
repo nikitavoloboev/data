@@ -34,3 +34,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Chess tactics explained](https://www.chesstactics.org/) ([HN](https://news.ycombinator.com/item?id=25236094))
 - [Maia Chess](https://maiachess.com/) - Human-like neural network chess engine. ([Code](https://github.com/CSSLab/maia-chess))
 - [OpeningRepertoire](https://github.com/zcesur/opening-repertoire) - Command line tool that generates opening repertoires from chess games in PGN format. ([HN](https://news.ycombinator.com/item?id=25338955))
+- [Quantum Chess (2016)](https://quantumfrontiers.com/2016/02/15/quantum-chess/)

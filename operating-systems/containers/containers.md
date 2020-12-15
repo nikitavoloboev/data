@@ -77,3 +77,5 @@
 - [PRoot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux. ([Web](https://proot-me.github.io/))
 - [Automation to run VMs based on vanilla Cloud Images on Firecracker (2020)](https://www.ongres.com/blog/automation-to-run-vms-based-on-vanilla-cloud-images-on-firecracker/)
 - [Toolbox](https://github.com/containers/toolbox) - Tool for Linux operating systems, which allows the use of containerized command line environments.
+- [Supercronic](https://github.com/aptible/supercronic) - Crontab-compatible job runner, designed specifically to run in containers.
+- [secrets-init](https://github.com/doitintl/secrets-init) - Minimalistic init system for containers with AWS/GCP secrets support.

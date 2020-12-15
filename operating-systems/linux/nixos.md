@@ -33,6 +33,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Bastian Kocher](https://github.com/bkchr/nixos-config)
 - [Structured flake-based NixOS configuration by Tony O](https://github.com/bqv/nixrc)
 - [chessai](https://github.com/chessai/nixos-configs)
+- [Bruno Bigras](https://github.com/bbigras/nix-config)
 
 ## Nix configs (macOS)
 
@@ -95,3 +96,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nix-ld](https://github.com/Mic92/nix-ld) - Run unpatched dynamic binaries on NixOS.
 - [Nix(OS) Thoughts (2020)](https://blog.knightsofthelambdacalcul.us/posts/2020-06-20-nix-nixos-thoughts/) ([Lobsters](https://lobste.rs/s/m3j4yn/nix_os_thoughts))
 - [NixOps AWS Plugin](https://github.com/NixOS/nixops-aws) - Tool for deploying NixOS machines in a network or cloud.
+- [nixflk](https://github.com/nrdxp/nixflk) - Highly structured NixOS configuration database.
+- [NixOS Pre Installer](https://github.com/alexandergall/nixos-pxe-installer) - Set of modules to perform a fully automated installation of a customized NixOS system.

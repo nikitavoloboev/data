@@ -74,6 +74,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Rosetta](https://www.rosetta-api.org/) - Open standard designed to simplify blockchain deployment and interaction.
 - [Band Protocol](https://bandprotocol.com/) - Cross-Chain Data Oracle. ([Code](https://github.com/bandprotocol/bandchain))
 - [Tendermint Core](https://github.com/tendermint/tendermint) - Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine - written in any programming language - and securely replicates it on many machines. ([Web](https://tendermint.com/))
+- [Orga](https://github.com/nomic-io/orga) - Stack for building blockchain applications powered by Tendermint consensus.
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - Framework for building blockchain applications in Golang.
 - [Gaia](https://github.com/cosmos/gaia) - Implementation of Cosmos Hub, built using the Cosmos SDK.
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - Library for secure smart contract development.

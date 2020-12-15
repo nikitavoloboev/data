@@ -634,6 +634,9 @@
 - [go-shellwords](https://github.com/mattn/go-shellwords) - Parse line as shell words.
 - [deephash](https://github.com/davegardnerisme/deephash) - Library for calculating a deterministic hash for simple or nested data structures in Go.
 - [mangos](https://github.com/nanomsg/mangos) - Go implementation of nanomsg's "Scalablilty Protocols".
+- [exp](https://github.com/golang/exp) - Experimental and deprecated packages.
+- [mmap-go](https://github.com/edsrzf/mmap-go) - Portable mmap package for Go.
+- [flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go.
 
 ## Links
 

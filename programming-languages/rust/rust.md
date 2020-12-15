@@ -389,3 +389,4 @@
 - [rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc.
 - [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 - [Aiming for correctness with types (2020)](https://fasterthanli.me/articles/aiming-for-correctness-with-types) ([Lobsters](https://lobste.rs/s/6gp4ki/aiming_for_correctness_with_types))
+- [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html) ([HN](https://news.ycombinator.com/item?id=25419740))

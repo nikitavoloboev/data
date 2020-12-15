@@ -9,3 +9,4 @@
 - [Biology of Cognition (1970)](http://www.enolagaia.com/M70-80BoC.html)
 - [Don’t Forget About Associative Memories (2020)](https://thegradient.pub/dont-forget-about-associative-memories/) ([HN](https://news.ycombinator.com/item?id=25019797))
 - [The Thoughts of a Spiderweb](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/) - Spiders appear to offload cognitive tasks to their webs, making them one of a number of species with a mind that isn’t fully confined within the head.
+- [Quantum approaches to music cognition (2020)](https://arxiv.org/abs/1712.07417)

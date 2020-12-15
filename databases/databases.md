@@ -114,6 +114,7 @@
 - [Warp 10](https://github.com/senx/warp10-platform) - Open Source Geo Time Series Platform designed to handle data coming from sensors, monitoring systems and the Internet of Things. ([Web](https://warp10.io/))
 - [Eva](https://github.com/Workiva/eva) - Distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 - [Firestore](https://cloud.google.com/firestore) - Develop rich applications using a fully managed, scalable, and serverless document database. ([Intro](https://ncona.com/2020/12/introduction-to-google-firestore/)) ([Running Google Firestore locally](https://ncona.com/2020/12/running-google-firestore-locally/))
+- [Graphik](https://github.com/graphikDB/graphik) - Identity-aware, permissioned, persistant document/graph database & pubsub server written in Go.
 
 ## Tools
 
@@ -140,6 +141,7 @@
 - [Hue](https://gethue.com/) - Open source SQL Assistant for Data Warehouses. ([Code](https://github.com/cloudera/hue))
 - [ley](https://github.com/lukeed/ley) - Driver-agnostic database migrations.
 - [DBeaver](https://dbeaver.io/) - Free Universal Database Tool. ([Code](https://github.com/dbeaver/dbeaver))
+- [Skeema](https://github.com/skeema/skeema) - Schema management CLI for MySQL.
 
 ## Links
 

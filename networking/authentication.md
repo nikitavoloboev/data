@@ -89,3 +89,4 @@
 - [ORY Kratos](https://github.com/ory/kratos) - Cloud native Identity and User Management System. No longer necessary to implement a User Login process.
 - [SSSD](https://github.com/SSSD/sssd) - Daemon to manage identity, authentication and authorization for centrally-managed systems. ([Docs](https://sssd.io/))
 - [OAuth is Not User Authorization (2020)](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
+- [otplib](https://github.com/yeojz/otplib) - Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library. ([Web](https://otplib.yeojz.dev/))

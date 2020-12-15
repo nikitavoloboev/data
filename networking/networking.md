@@ -173,3 +173,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [uSockets](https://github.com/uNetworking/uSockets) - Miniscule cross-platform eventing, networking & crypto for async applications.
 - [Nanomsg](https://nanomsg.org/) - Socket library that provides several common communication patterns. It aims to make the networking layer fast, scalable, and easy to use. ([GitHub](https://github.com/nanomsg))
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
+- [Messaging Layer Security (MLS) Protocol](https://messaginglayersecurity.rocks/) ([Code](https://github.com/mlswg/mls-protocol))
+- [Messaging Layer Security (MLS) Architecture](https://github.com/mlswg/mls-architecture)

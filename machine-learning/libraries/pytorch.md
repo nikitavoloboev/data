@@ -194,3 +194,5 @@
 - [Faster PyTorch Implementation of Faster R-CNN](https://github.com/jwyang/faster-rcnn.pytorch)
 - [Axial Attention in PyTorch](https://github.com/lucidrains/axial-attention) - Implementation of Axial Attention - attending to multi-dimensional data efficiently.
 - [torchaudio](https://github.com/pytorch/audio) - Audio library for PyTorch.
+- [Benchmark Suite for Deep Learning](https://github.com/lambdal/deeplearning-benchmark) - Provides a wrapper to run PyTorch benchmarks using NVidia's Deep Learning Examples repo.
+- [Fast Transformers](https://github.com/idiap/fast-transformers) - PyTorch library for fast transformer implementations.

@@ -30,6 +30,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Wild cats](https://twitter.com/soapachu/status/1327319479722897409)
 - [Surfing cat](https://twitter.com/dodo/status/1329908125655134208)
 - [Leaf sheep](https://twitter.com/stephsmithio/status/1327356193581395969)
+- [Lil floof jumping](https://twitter.com/jonjones/status/1214324526928089088)
 
 ## Links
 

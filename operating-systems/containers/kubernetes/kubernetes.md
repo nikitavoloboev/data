@@ -288,3 +288,5 @@
 - [Pixie](https://pixielabs.ai/) - Kubernetes Monitoring, Application Debug Platform. ([Code](https://github.com/pixie-labs/pixie))
 - [Kubermatic](https://www.kubermatic.com/) - Enterprise Kubernetes Platform & Automated Multi-cloud Operations. ([Code](https://github.com/kubermatic/kubermatic))
 - [Kubelet Deep Dive: Writing a Kubelet in Rust (2020)](https://www.youtube.com/watch?v=idMf865wwD8)
+- [Image Builder](https://github.com/kubernetes-sigs/image-builder) - Cross provider Kubernetes image building utility.
+- [Kubernetes Template Project](https://github.com/kubernetes/kubernetes-template-project)

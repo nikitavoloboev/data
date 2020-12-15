@@ -222,10 +222,12 @@
 - [mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments.
 - [The History of Python: From List Comprehensions to Generator Expressions (2010)](http://python-history.blogspot.com/2010/06/from-list-comprehensions-to-generator.html)
 - [blackdoc](https://github.com/keewis/blackdoc) - Tool that applies black to code in documentation.
-- [Exhaustiveness Checking with Mypy (2020)](https://hakibenita.com/python-mypy-exhaustive-checking)
+- [Exhaustiveness Checking with Mypy (2020)](https://hakibenita.com/python-mypy-exhaustive-checking) ([HN](https://news.ycombinator.com/item?id=25428583))
 - [Beartype](https://github.com/beartype/beartype) - Fast O(1) runtime type-checking in pure Python.
 - [Python behind the scenes (2020)](https://tenthousandmeters.com/tag/python-behind-the-scenes/)
 - [Python behind the scenes: a list of resources](https://tenthousandmeters.com/materials/python-behind-the-scenes-a-list-of-resources/)
 - [Darker](https://github.com/akaihola/darker) - Reformat and lint modified Python code.
 - [Implementing Rust's dbg! in Python (2020)](https://rtpg.co/2020/12/11/dbg-in-python.html) ([Lobsters](https://lobste.rs/s/9ubykl/implementing_rust_s_dbg_python)) ([HN](https://news.ycombinator.com/item?id=25386358))
 - [line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python.
+- [How not to be slow using Python: Functions (2020)](https://pawroman.dev/how-not-to-be-slow-using-python-functions/)
+- [Basic Python testing setup with pytest (2018)](https://pawroman.dev/pytest-basic-setup/)

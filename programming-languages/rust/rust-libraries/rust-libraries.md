@@ -41,6 +41,7 @@
 - [localghost](https://github.com/mild-times/localghost) - Ergonomic Rust bindings to the Web platform.
 - [hyper-rustls](https://github.com/ctz/hyper-rustls) - Integration between the rustls TLS stack and the hyper HTTP library.
 - [biscuit-rust](https://github.com/CleverCloud/biscuit-rust) - Rust implementation of the Biscuit authorization token.
+- [OpenMLS](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol.
 
 ## WASM
 

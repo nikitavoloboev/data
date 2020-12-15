@@ -7,6 +7,7 @@
 - [bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites.
 - [Biff](https://github.com/jacobobryant/biff) - Web framework + self-hosted deployment solution for Clojure. ([Migrating to Biff, a self-hosted Firebase alternative for Clojure](https://findka.com/blog/migrating-to-biff/)) ([Web](https://findka.com/biff/#introduction)) ([HN](https://news.ycombinator.com/item?id=23921220))
 - [cljs-ajax](https://github.com/JulianBirch/cljs-ajax) - Simple asynchronous Ajax client for ClojureScript and Clojure.
+- [Ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction.
 
 ## DB
 

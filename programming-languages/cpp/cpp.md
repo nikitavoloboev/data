@@ -167,3 +167,5 @@
 - [C++ is not cross platform anymore (2019)](https://blog.noctua-software.com/cpp-is-not-cross-platform-anymore.html)
 - [Is C++ type-safe? (There’s two right answers) (2020)](https://davmac.wordpress.com/2020/12/13/is-c-type-safe-theres-two-right-answers/) ([Lobsters](https://lobste.rs/s/esfr31/is_c_type_safe_there_s_two_right_answers))
 - [Unwinding a Bug - How C++ Exceptions Work (2020)](https://stffrdhrn.github.io/software/toolchain/openrisc/2020/12/13/cxx-exception-unwinding.html)
+- [Runtime Compiled C++ sample code](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Way to reliably make major changes to your C++ code at runtime and see the results immediately.
+- [Doxygen](https://github.com/doxygen/doxygen) - De facto standard tool for generating documentation from annotated C++ sources. ([Web](https://www.doxygen.nl/index.html))

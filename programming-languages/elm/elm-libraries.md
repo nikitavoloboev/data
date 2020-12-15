@@ -8,7 +8,7 @@
 ## Style
 
 - [elm-css](https://github.com/rtfeldman/elm-css) - Typed CSS in Elm.
-- [elm-ui](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again.
+- [Elm UI](https://github.com/mdgriffith/elm-ui) - What if you never had to write CSS again. ([Elm UI Cookbook](https://github.com/rofrol/elm-ui-cookbook))
 
 ## Other
 

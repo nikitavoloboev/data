@@ -78,3 +78,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology) - Open technology projects sustaining stable climate, energy supply and vital natural resources. ([Web](https://opensustain.tech/))
 - [The Social Life of Forests (2020)](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html) ([HN](https://news.ycombinator.com/item?id=25330549))
 - [Watershed](https://www.watershedclimate.com/) - Helping companies cut carbon.
+- [Johannes Ackva: An update to our thinking on climate change (2020)](https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change/)

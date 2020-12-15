@@ -127,6 +127,7 @@
 - [BadgeHub](https://github.com/jogendra/BadgeHub) - Quickly add a notification badge icon to any view.
 - [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight pure Swift implementation for visualizing touches on the screen.
 - [FrameLayoutKit](https://github.com/kennic/FrameLayoutKit) - Super fast and easy to use autolayout kit.
+- [Coordinator](https://github.com/radianttap/Coordinator) - Implementation of Coordinator design pattern. It is the application architecture pattern for iOS, carefully designed to fit into UIKit.
 
 ## macOS
 
@@ -143,6 +144,7 @@
 
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
 - [TinyNetworking](https://github.com/objcio/tiny-networking) - Contains a tiny networking library. It provides a struct Endpoint, which combines a URL request and a way to parse responses for that request.
+- [AsyncKit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library.
 
 ## SwiftUI
 
@@ -510,6 +512,7 @@
 - [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - Tool to convert Swift code to Kotlin.
 - [Swift Distributed Tracing](https://github.com/apple/swifnt-distributed-tracing) - Collection of Swift libraries enabling the instrumentation of server side applications using tools such as tracers.
 - [CloudStorage](https://github.com/tomlokhorst/CloudStorage) - Sync settings through iCloud key-value storage.
+- [OpenGraph](https://github.com/satoshi-takano/OpenGraph) - Swift wrapper for the Open Graph protocol (OGP).
 
 ## Other (not lib)
 

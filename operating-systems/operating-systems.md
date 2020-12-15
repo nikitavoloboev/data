@@ -72,6 +72,9 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
 - [Contiki](https://github.com/contiki-os/contiki) - Open source operating system that runs on tiny low-power microcontrollers.
 - [OSv](http://osv.io/) - Modular unikernel designed to run applications securely on micro-VMs . ([Code](https://github.com/cloudius-systems/osv)) ([HN](https://news.ycombinator.com/item?id=25397525)) ([HN 2](https://news.ycombinator.com/item?id=25405672))
+- [Rumprun](https://github.com/rumpkernel/rumprun) - Uses rump kernels to provide the Rumprun unikernel. Rumprun works on not only on hypervisors such as KVM and Xen, but also on bare metal.
+- [Rump Kernels](http://rumpkernel.org/) - Enable you to build the software stack you need without forcing you to reinvent the wheels.
+- [mOS](https://github.com/MQuy/mos) - Unix-like operating system developed from scratch and aims to POSIX compliant.
 
 ## Notes
 
@@ -166,3 +169,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Guided linking: dynamic linking without the costs (2020)](https://dl.acm.org/doi/abs/10.1145/3428213)
 - [Awesome Operating System Stuff](https://github.com/jubalh/awesome-os)
 - [Lobsters: What should a new OS have? (2020)](https://lobste.rs/s/jr4crd/what_should_new_os_have)
+- [16-Bit Virtual Machine in JavaScript (2020)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b) ([Code](https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine))

@@ -96,3 +96,4 @@
 - [Crust](https://github.com/crust-firmware/crust) - SCP firmware for sunxi SoCs.
 - [emba](https://github.com/e-m-b-a/emba) - Analyzer for Linux-based firmware of embedded devices.
 - [FIRMADYNE](https://github.com/firmadyne/firmadyne) - Automated and scalable system for performing emulation and dynamic analysis of Linux-based embedded firmware.
+- [OpenWrt](https://openwrt.org/) - Linux operating system targeting embedded devices. ([Code](https://github.com/openwrt/openwrt))
