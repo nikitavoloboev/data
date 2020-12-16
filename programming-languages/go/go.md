@@ -397,3 +397,4 @@ Go promotes composition over inheritance.
 - [Go: A Documentary](https://golang.design/history/) - Collects many interesting (publicly observable) issues, discussions, proposals, CLs, and talks from the Go development process. ([Code](https://github.com/golang-design/history))
 - [gotesplit](https://github.com/Songmu/gotesplit) - Splits the testing in Go into a subset and run it. It is useful for the CI environment.
 - [Go Resources](https://golangresources.com/) - Find the best Go learning materials on the web.
+- [go-gin-starter](https://github.com/udaya2899/go-gin-starter) - Opinionated Go starter with gin for REST API, logrus for logging, viper for config with added graceful shutdown. ([Reddit](https://www.reddit.com/r/golang/comments/ke5xuw/made_a_gin_starter_for_go/))

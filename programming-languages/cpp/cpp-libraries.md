@@ -150,6 +150,7 @@
 - [PDAL](https://github.com/PDAL/PDAL) - Point Data Abstraction Library. GDAL for point cloud data. ([Docs](https://pdal.io/))
 - [painless](https://github.com/sharkdp/painless) - Header-only C++ library that provides an easy way to use interactive parameters in your program.
 - [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl) ([Web](https://www.etlcpp.com/))
+- [C++ B-tree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers.
 
 ## Links
 

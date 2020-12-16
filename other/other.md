@@ -417,3 +417,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Programming links](https://github.com/pawroman/links)
 - [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)
 - [Carnegie Mellon Textiles Lab](https://textiles-lab.github.io/) ([GitHub](https://github.com/textiles-lab))
+- [Product Wars](https://productwars.phantombuster.com/) - Follow your launch on Product Hunt.

@@ -128,6 +128,9 @@
 - [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - Lightweight pure Swift implementation for visualizing touches on the screen.
 - [FrameLayoutKit](https://github.com/kennic/FrameLayoutKit) - Super fast and easy to use autolayout kit.
 - [Coordinator](https://github.com/radianttap/Coordinator) - Implementation of Coordinator design pattern. It is the application architecture pattern for iOS, carefully designed to fit into UIKit.
+- [Shuffle](https://github.com/mac-gallagher/Shuffle) - Multi-directional card swiping library inspired by Tinder.
+- [Pageboy](https://github.com/uias/Pageboy) - Simple, highly informative page view controller.
+- [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - Easy to use, customizable replacement for UISegmentedControl & UISwitch.
 
 ## macOS
 
@@ -146,6 +149,8 @@
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
 - [TinyNetworking](https://github.com/objcio/tiny-networking) - Contains a tiny networking library. It provides a struct Endpoint, which combines a URL request and a way to parse responses for that request.
 - [AsyncKit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library.
+- [NIOExtras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
+- [SwiftNIO SSL](https://github.com/apple/swift-nio-ssl) - Swift package that contains an implementation of TLS based on BoringSSL.
 
 ## SwiftUI
 
@@ -514,6 +519,7 @@
 - [Swift Distributed Tracing](https://github.com/apple/swifnt-distributed-tracing) - Collection of Swift libraries enabling the instrumentation of server side applications using tools such as tracers.
 - [CloudStorage](https://github.com/tomlokhorst/CloudStorage) - Sync settings through iCloud key-value storage.
 - [OpenGraph](https://github.com/satoshi-takano/OpenGraph) - Swift wrapper for the Open Graph protocol (OGP).
+- [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - Animatable view that depicts multiple progresses over time. Modeled after UIProgressView.
 
 ## Other (not lib)
 

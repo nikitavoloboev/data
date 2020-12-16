@@ -12,3 +12,4 @@
 - [Sketch Elements](https://www.sketch.com/elements) - Free iOS UI kit, brought to you by Sketch.
 - [Automate Sketch](https://github.com/Ashung/Automate-Sketch) - Make your workflow more efficient.
 - [story2sketch](https://github.com/chrisvxd/story2sketch) - Convert Storybook stories into Sketch symbols.
+- [Sketch Real-time collaboration](https://www.sketch.com/collab/)

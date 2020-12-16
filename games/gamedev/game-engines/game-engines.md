@@ -56,6 +56,7 @@
 - [Skynet](https://github.com/cloudwu/skynet) - Lightweight online game framework which can be used in many other fields.
 - [Nazara Engine](https://github.com/DigitalPulseSoftware/NazaraEngine) - Fast, complete, cross-platform, object-oriented API which can help you in your daily developer life.
 - [Edyn](https://github.com/xissburg/edyn) - Real-time physics engine organized as an ECS.
+- [Frostbite Engine](https://www.ea.com/frostbite) - Most adopted platform for game development by EA.
 
 ## Physics engines
 

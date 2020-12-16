@@ -95,7 +95,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Matter Labs](https://matter-labs.io/) - Unchaining Ethereum with Zero-Knowledge Proofs.
 - [zkSync](https://zksync.io/) - Secure, scalable crypto payments. Fully trustless, secure, user-centric protocol for scaling payments and smart contracts on Ethereum. ([Code](https://github.com/matter-labs/zksync))
 - [Ethereum wallet application for Ledger Blue and Nano S](https://github.com/LedgerHQ/app-ethereum)
-- [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs) ([Web](https://eips.ethereum.org/))
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/) ([Code](https://github.com/ethereum/EIPs))
 - [@eth-optimisim/smock](https://github.com/ethereum-optimism/smock/) - Utility package that can generate mock Solidity contracts (for testing).
 - [Looking at ownership in the EVM (2018)](https://medium.com/@kelvinfichter/looking-at-ownership-in-the-evm-6e6914d341d)
 - [What’s a Sparse Merkle Tree? (2018)](https://medium.com/@kelvinfichter/whats-a-sparse-merkle-tree-acda70aeb837)
@@ -128,3 +128,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Scribble](https://github.com/ConsenSys/scribble) - Solidity runtime verification tool for property based testing.
 - [Ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript). ([Docs](https://docs.ethers.io/))
 - [Radspec](https://github.com/aragon/radspec) - Safe interpreter for dynamic expressions in Ethereum's NatSpec.
+- [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - Ethereum evm bytecode disassembler and static/dynamic analysis tool.

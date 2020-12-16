@@ -75,3 +75,4 @@
 - [A self-hosted RSS setup (2020)](https://www.stevegattuso.me/2020/11/30/self-host-rss.html) ([Lobsters](https://lobste.rs/s/iocucx/self_hosted_rss_setup))
 - [A New Take on RSS (2020)](https://findka.com/blog/new-take-on-rss/) ([HN](https://news.ycombinator.com/item?id=25376849))
 - [Aggr](https://aggr.md/) - Feed aggregator which aims at being lean and fast. ([GitHub](https://github.com/aggr))
+- [RSS Mailer](https://github.com/victoriadrake/rss-mailer) - Lambda function for turning your RSS feed items into emails.

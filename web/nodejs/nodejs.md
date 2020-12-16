@@ -162,3 +162,4 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
 - [Node Package Maintenance Team](https://github.com/nodejs/package-maintenance) - Discussion of helping with maintenance of key packages in the ecosystem.
 - [Minimal Node.js Docker Images built on Alpine Linux](https://github.com/mhart/alpine-node)
+- [got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js.

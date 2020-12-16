@@ -290,3 +290,6 @@
 - [Kubelet Deep Dive: Writing a Kubelet in Rust (2020)](https://www.youtube.com/watch?v=idMf865wwD8)
 - [Image Builder](https://github.com/kubernetes-sigs/image-builder) - Cross provider Kubernetes image building utility.
 - [Kubernetes Template Project](https://github.com/kubernetes/kubernetes-template-project)
+- [kube-vip](https://github.com/plunder-app/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer.
+- [Akri](https://github.com/deislabs/akri) - Kubernetes Resource Interface for the Edge.
+- [KubeEdge](https://kubeedge.io/en/) - Kubernetes Native Edge Computing Framework. ([Code](https://github.com/kubeedge/kubeedge))

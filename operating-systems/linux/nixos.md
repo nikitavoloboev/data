@@ -98,3 +98,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOps AWS Plugin](https://github.com/NixOS/nixops-aws) - Tool for deploying NixOS machines in a network or cloud.
 - [nixflk](https://github.com/nrdxp/nixflk) - Highly structured NixOS configuration database.
 - [NixOS Pre Installer](https://github.com/alexandergall/nixos-pxe-installer) - Set of modules to perform a fully automated installation of a customized NixOS system.
+- [krops](https://github.com/krebs/krops) - Lightweight toolkit to deploy NixOS systems, remotely or locally.

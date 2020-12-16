@@ -89,3 +89,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/) ([HN](https://news.ycombinator.com/item?id=25357315))
 - [Дима Малей про фотографию, веру и искушение творческих натур (2020)](https://www.youtube.com/watch?v=fDeq422sXJc)
 - [Understanding ProRAW (2020)](https://blog.halide.cam/understanding-proraw-4eed556d4c54) ([HN](https://news.ycombinator.com/item?id=25433047))
+- [Ultra High Resolution Photos of Snowflakes](https://smosa.com/cool-ultra-high-resolution-photos-of-snowflakes-because-science/) ([HN](https://news.ycombinator.com/item?id=25414579))
+- [The best science images of 2020](https://www.nature.com/immersive/d41586-020-03436-5/index.html)

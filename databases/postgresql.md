@@ -184,3 +184,4 @@
 - [pg-listen](https://github.com/andywer/pg-listen) - Postgres LISTEN & NOTIFY that works.
 - [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users.
 - [PGCon 2020](https://www.youtube.com/playlist?list=PLuJmmKtsV1dP8IGGH6Z_sYQKxfDqtoSLj) ([HN](https://news.ycombinator.com/item?id=25397088))
+- [Mastering Postgres indexes in 10 minutes (2020)](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)

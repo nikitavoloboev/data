@@ -119,3 +119,4 @@
 - [Deep Learning Medical Decathlon Demos for Python](https://github.com/IntelAI/unet)
 - [Computer Animation and Simulation (2020)](http://www-scf.usc.edu/~csci520/)
 - [Blend2D](https://github.com/blend2d/blend2d) - 2D Vector Graphics Powered by a JIT Compiler. ([Web](https://blend2d.com/))
+- [GLFW](https://www.glfw.org/) - Multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input. ([Code](https://github.com/glfw/glfw))

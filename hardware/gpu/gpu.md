@@ -37,3 +37,4 @@
 - [Umpire](https://github.com/LLNL/Umpire) - Application-focused API for memory management on NUMA & GPU architectures.
 - [GPUVis](https://github.com/mikesart/gpuvis) - GPU Trace Visualizer.
 - [Cloud GPU Vendors](https://github.com/binga/cloud-gpus) - Compares on-demand GPU vendors to help Machine Learning practitioners pick their preferred platform.
+- [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution) - Provides a detailed simulation model of contemporary NVIDIA GPUs running CUDA and/or OpenCL workloads.

@@ -26,6 +26,7 @@
 - [Simple NextJS PWA boilerplate](https://github.com/ooade/NextSimpleStarter)
 - [Hasura NextJS Boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate)
 - [Next.js blog starter](https://github.com/JoseRFelix/nextjs-starter-blog)
+- [Virtual Event Starter Kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 
 ## NextJS plugins
 

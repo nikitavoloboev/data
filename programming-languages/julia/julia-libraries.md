@@ -16,6 +16,7 @@
 - [ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl) - Reservoir computing utilities for scientific machine learning (SciML).
 - [GeometricFlux.jl](https://github.com/yuehhua/GeometricFlux.jl) - Geometric deep learning library for Flux.
 - [FluxTraining.jl](https://github.com/lorenzoh/FluxTraining.jl) - Flexible neural net training library inspired by fast.ai. ([Docs](https://lorenzoh.github.io/FluxTraining.jl/dev/README.html))
+- [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) - Local, global, and beyond optimization for scientific machine learning (SciML).
 
 ## Math
 
@@ -138,6 +139,10 @@
 - [PlutoUI.jl](https://github.com/fonsp/PlutoUI.jl) - Tiny package to make HTML input tag a bit more Julian.
 - [Fermionic](https://github.com/Marco-Di-Tullio/Fermionic.jl) - Toolkit for fermonic quantum computation in Julia.
 - [FileTrees.jl](https://github.com/shashi/FileTrees.jl) - Parallel file processing made easy.
+- [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames.jl objects.
+- [Documenter](https://github.com/JuliaDocs/Documenter.jl) - Documentation generator for Julia.
+- [Memoization.jl](https://github.com/marius311/Memoization.jl) - Easily and efficiently memoize any function in Julia.
+- [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification.
 
 ## Links
 

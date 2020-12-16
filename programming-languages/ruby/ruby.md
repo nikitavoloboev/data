@@ -46,3 +46,4 @@
 - [Bazel Ruby Rules](https://github.com/coinbase/rules_ruby)
 - [TypeProf](https://github.com/ruby/typeprof) - Experimental type-level Ruby interpreter for testing and understanding Ruby code.
 - [Ruby Code Examples Vs. Python Code Examples (2020)](https://www.connerjensen.com/blog/ruby-code-examples)
+- [Inspecting the Contents of a Ruby Gem (2020)](https://batsov.com/articles/2020/12/16/inspecting-the-contents-of-a-ruby-gem/)

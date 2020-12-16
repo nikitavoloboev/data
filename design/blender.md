@@ -27,3 +27,4 @@
 - [fake-bpy-module](https://github.com/nutti/fake-bpy-module) - Collections of the fake Blender Python API modules for the code completion in commonly used IDEs.
 - [Blender Add-on: Magic UV](https://github.com/nutti/Magic-UV) - Many UV manipulation features which Blender lack of.
 - [Blender Resources](https://blenderresources.com/) - Curated list of resources to help your blender journey. ([Code](https://github.com/SaraVieira/blender-resources))
+- [Blender for Beginners: A Tutorial That’ll Help You Get Started (2020)](https://www.ego-cms.com/post/blender-for-beginners-a-tutorial-thatll-help-you-get-started)

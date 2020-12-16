@@ -51,3 +51,5 @@
 - [EMQ X Kuiper](https://www.emqx.io/products/kuiper) - SQL based IoT rule engine running at resource constrained edge devices. ([Code](https://github.com/emqx/kuiper))
 - [IoTGoat](https://github.com/OWASP/IoTGoat) - Deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. ([Web](https://owasp.org/www-project-internet-of-things/))
 - [MCUNet: Tiny Deep Learning on IoT Devices (2020)](https://hanlab.mit.edu/projects/tinyml/mcunet/) ([Code](https://github.com/mit-han-lab/mcunet))
+- [Zigbee Alliance](https://zigbeealliance.org/) - Standard-bearer of the open IoT.
+- [Zigbee-lua](https://github.com/hwhw/zigbee-lua) - Zigbee coordinator and tools for LuaJIT.

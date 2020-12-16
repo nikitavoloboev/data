@@ -93,3 +93,4 @@
 - [Theory of Computation in 4 Videos](https://www.youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn) ([HN](https://news.ycombinator.com/item?id=25338641))
 - [Easy Theory](https://www.easytheory.org/) - YouTube lectures on computer science theory.
 - [CS 61A: Structure and Interpretation of Computer Programs (2020)](https://cs61a.org/)
+- [Dijkstra: On the cruelty of teaching computing science](https://www.psy.gla.ac.uk/~steve/educ/dijk/EWD1036.v4.pdf)

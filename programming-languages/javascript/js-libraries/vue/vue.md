@@ -41,3 +41,5 @@
 - [Vitesse](https://github.com/antfu/vitesse) - Opinionated Vite Starter Template.
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - Online Conference.
 - [Volar](https://github.com/johnsoncodehk/volar) - Faster and more accurate TypeScript support of Vue 3.
+- [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+- [Vue Mastery](https://www.vuemastery.com/) - Ultimate Learning Resource for Vue.js Developers.

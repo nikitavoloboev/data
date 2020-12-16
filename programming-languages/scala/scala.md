@@ -58,3 +58,4 @@
 - [Build your own Programming Language with Scala (2019)](https://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)
 - [Explicit term inference with Scala 3 (2020)](https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html) ([HN](https://news.ycombinator.com/item?id=25031870))
 - [Scala Docs](https://docs.scala-lang.org/) ([Code](https://github.com/scala/docs.scala-lang))
+- [Scala Monthly](https://scalamonthly.com/) - High-quality coding challenge delivered to your inbox monthly.

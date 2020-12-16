@@ -48,3 +48,4 @@
 - [School of SRE](https://linkedin.github.io/school-of-sre/) ([Code](https://github.com/linkedin/school-of-sre))
 - [Christine Dodrill: ex-SRE, Lightspeed (2020)](https://reliability.substack.com/p/software-at-scale-002-christine-dodrill)
 - [driftctl](https://driftctl.com/) - Detect, track and alert on infrastructure drift. ([Code](https://github.com/cloudskiff/driftctl))
+- [Shipyard](https://github.com/shipyard-run/shipyard) - Modern cloud native development environments. ([Web](https://shipyard.run/))

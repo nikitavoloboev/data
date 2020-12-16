@@ -120,3 +120,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Bamboo](https://github.com/thoughtbot/bamboo) - Testable, composable, and adapter based Elixir email library for devs that love piping.
 - [IMAP API](https://imapapi.com/) - Self hosted daemon to access IMAP and SMTP accounts via HTTP API. ([Code](https://github.com/andris9/imapapi)) ([HN](https://news.ycombinator.com/item?id=25372987))
 - [smtpd](https://github.com/mhale/smtpd) - SMTP server package written in Go, in the style of the built-in HTTP server.
+- [Email Validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp.

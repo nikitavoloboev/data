@@ -210,6 +210,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Best Books of 2020](https://www.theguardian.com/books/2020/dec/06/the-best-books-of-2020-picked-by-our-acclaimed-guest-authors)
 - [The Best Books of 2020 2](https://kottke.org/20/12/the-best-books-of-2020)
 - [Great Books Program](https://tommycollison.com/greatbooks)
+- [A Map that Reflects the Territory](https://www.lesswrong.com/books) - Essays by the LessWrong community.
 
 ## Notes
 

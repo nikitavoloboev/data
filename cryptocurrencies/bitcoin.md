@@ -75,3 +75,4 @@
 - [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/) ([Forum Posts](https://satoshi.nakamotoinstitute.org/posts/))
 - [Bitcoin.org Website Code](https://github.com/bitcoin-dot-org/Bitcoin.org)
 - [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
+- [CLIFlix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.

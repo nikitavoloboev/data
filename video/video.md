@@ -169,3 +169,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Along](https://along.video/) - Lets you make your best videos ever - with superpowers.
 - [DTube](https://d.tube/) - Full-featured video sharing website, decentralized. ([Code](https://github.com/dtube/dtube))
 - [How Video Works](https://howvideo.works/) ([HN](https://news.ycombinator.com/item?id=25422003))
+- [Life of a Pixel (2020)](https://www.youtube.com/watch?v=PwYxv-43iM4)
+- [JustWatch](https://www.justwatch.com/) - All your streaming services in one app.

@@ -30,6 +30,7 @@
 - [Choo](https://github.com/choojs/choo) - Sturdy 4kb frontend framework. ([Web](https://www.choo.io/))
 - [Typera](https://github.com/akheron/typera) - Type-safe routes for Express and Koa.
 - [Frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript. ([Web](https://frourio.io/))
+- [Svelto](https://github.com/svelto/svelto) - Modular front end framework for modern browsers, with battery included: 100+ widgets and tools.
 
 ## Animation
 
@@ -394,6 +395,8 @@
 - [keez](https://github.com/kripod/keez) - Frictionless hotkey handling for browsers.
 - [Zet](https://github.com/terkelg/zet) - Set() as it should be.
 - [Ketting](https://github.com/badgateway/ketting) - Hypermedia client for JavaScript.
+- [yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure.
+- [Nano JSX](https://github.com/nanojsx/nano) - Lightweight 1kB JSX library. ([Web](https://nanojsx.github.io/))
 
 ## Links
 

@@ -53,6 +53,7 @@
 
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework.
+- [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
@@ -115,7 +116,7 @@
 
 - [reform](https://github.com/go-reform/reform) - Better ORM for Go and database/sql.
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
-- [Gorm](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
+- [Gorm](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly. ([Web](https://gorm.io/))
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance.
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
@@ -639,6 +640,7 @@
 - [flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go.
 - [Nero](https://github.com/sf9v/nero) - Library for generating the repository layer code.
 - [jsondiff](https://github.com/wI2L/jsondiff) - Go package for computing the diff between two JSON documents.
+- [GoDotEnv](https://github.com/joho/godotenv) - Load environment variables from `.env`.
 
 ## Links
 

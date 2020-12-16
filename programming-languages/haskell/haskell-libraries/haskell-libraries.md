@@ -87,6 +87,7 @@
 - [distributed-closure](https://github.com/tweag/distributed-closure) - Serializable closures for distributed programming.
 - [hindent](https://github.com/mihaimaruseac/hindent) - Haskell pretty printer.
 - [Katip](https://github.com/Soostone/katip) - Structured logging framework for Haskell.
+- [Linear base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
 
 ## Links
 

@@ -22,7 +22,7 @@
 ## Web
 
 - [Netlify](https://www.netlify.com/) - Build, test, and deploy globally with Netlify’s all-in-one platform for modern web projects. ([CLI](https://github.com/netlify/cli))
-- [Vercel](https://vercel.com) - Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN.
+- [Vercel](https://vercel.com) - Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN. ([HN](https://news.ycombinator.com/item?id=25442072))
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
 - [Mutable](https://mutable.io/) - Public Edge Cloud.
 

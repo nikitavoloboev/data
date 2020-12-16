@@ -160,6 +160,7 @@
 - [Typeable](https://typeable.io/) - Haskell, FP, software development and consulting. ([GitHub](https://github.com/typeable))
 - [wearereasonablepeople](https://wearereasonablepeople.com/) ([GitHub](https://github.com/wearereasonablepeople))
 - [Lucina & Associates](https://lucina.net/) - Small consulting group specializing in bespoke software development and system integration.
+- [EGO Creative Innovations](https://www.ego-cms.com/) - Develop Mobile Apps for Businesses.
 
 ## Links
 

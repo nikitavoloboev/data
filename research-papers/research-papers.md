@@ -83,3 +83,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [NeurIPS 2020 Best Paper Awards](https://neuripsconf.medium.com/announcing-the-neurips-2020-award-recipients-73e4d3101537)
 - [Inciteful](https://inciteful.xyz/) - Using Citations to Explore Academic Literature.
 - [42 Papers](https://42papers.com/) - Trending Papers in AI and Computer Science.
+- [Fatcat](https://fatcat.wiki/) - Versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets. ([Code](https://github.com/internetarchive/sandcrawler))

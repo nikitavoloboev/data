@@ -88,3 +88,4 @@
 - [Alt vs Figcaption (2020)](https://thoughtbot.com/blog/alt-vs-figcaption)
 - [Ultralight](https://ultralig.ht/) - Next-Generation HTML Renderer for Desktop Apps and Games. ([Code](https://github.com/ultralight-ux/Ultralight))
 - [The Zen of index.html (2020)](https://hugodaniel.com/posts/using-just-an-index-to-develop-a-web-app/)
+- [PostHTML](https://github.com/posthtml/posthtml-expressions) - Use variables, JS-like expressions, and even markup-powered logic in your HTML. ([Web](https://posthtml.org/#/))

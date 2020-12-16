@@ -100,3 +100,4 @@
 - [Ebisp](https://github.com/tsoding/ebisp) - Embedded Lisp.
 - [Zuko](https://github.com/ravern/zuko) - Basic Lisp-like programming language.
 - [Lisp Books](https://www.pinterest.co.uk/vseloved/lisp-books/)
+- [Ask HN: I want to start learning Lisp. Where do I begin? (2020)](https://news.ycombinator.com/item?id=25441664)

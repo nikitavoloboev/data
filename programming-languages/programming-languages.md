@@ -41,6 +41,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - ["All the Languages Together" by Amal Ahmed (2018)](https://www.youtube.com/watch?v=3yVc5t-g-VU)
 - [Co](https://github.com/rsms/co) - Programming language and optimizing compiler written in TypeScript. ([Doc](https://rsms.me/co/doc/))
 - [User Interfaces for Programming Languages course (2019)](http://web.eecs.umich.edu/~comar/courses/ui-for-pl/)
+- [User Interfaces for Programming Languages: The Compendium](https://github.com/fplab/ui-for-pl)
 - [Advanced Programming Languages Cornell Course (2018)](http://www.cs.cornell.edu/courses/cs6110/2018sp/)
 - [A Programmable Programming Language (2018)](https://cs.brown.edu/~sk/Publications/Papers/Published/fffkbmt-programmable-prog-lang/paper.pdf) ([HN](https://news.ycombinator.com/item?id=21763407))
 - [Panel: the Future of Languages (2019)](https://www.infoq.com/presentations/panel-future-languages/)
@@ -142,3 +143,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Q&A with Programming Language Beta Users (2020)](https://www.youtube.com/watch?v=Wp9XD5FKZ2c)
 - [Write You a Programming Language](https://dannypsnl.github.io/write-a-programming-language/) ([Code](https://github.com/dannypsnl/write-a-programming-language))
 - [PLT research](https://github.com/dannypsnl/plt-research) - Collection of PLT researching.
+- [History of programming languages concepts](http://rigaux.org/language-study/concepts-history.html)
+- [Programming Languages Study](http://rigaux.org/language-study/index.html)

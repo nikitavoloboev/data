@@ -68,3 +68,4 @@
 - [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
 - [Reverse Engineering Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - Comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor for Reverse Engineers. ([HN](https://news.ycombinator.com/item?id=25353965))
+- [Triton](https://github.com/JonathanSalwan/Triton) - Dynamic Binary Analysis (DBA) framework.

@@ -47,3 +47,4 @@
 - [AWS Lambda Extensions](https://github.com/aws-samples/aws-lambda-extensions) - Collection of sample extensions to help you get started with AWS Lambda Extensions.
 - [AWS Lambda Python Runtime Interface Client](https://github.com/aws/aws-lambda-python-runtime-interface-client)
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - AWS CDK Construct to build Node.js AWS lambdas using esbuild.
+- [aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - Collection of sample tools to enable canary deployments of AWS Lambda functions.

@@ -169,7 +169,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Hyperlog](https://hyperlog.app/) - Search web logs of small personal websites & indie publications.
 - [The Odin Project](https://www.theodinproject.com/) - Full stack curriculum.
 - [CS50's Web Programming with Python and JavaScript (2020)](https://cs50.harvard.edu/web/2020/)
-- [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.
+- [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine. ([GitHub](https://github.com/internetarchive))
 - [How The URL Was Built (2020)](https://www.welcometothejungle.com/en/articles/btc-url-internet) ([HN](https://news.ycombinator.com/item?id=24718227))
 - [Developing For The Semantic Web (2020)](https://www.smashingmagazine.com/2020/10/developing-semantic-web/)
 - [Reffy](https://github.com/tidoust/reffy) - Web spec dependencies exploration companion. It features a short set of tools to study spec references as well as WebIDL term definitions and references found in Web specifications.
@@ -207,3 +207,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [24 ways](https://24ways.org/) - Web design and development articles and tutorials for advent.
 - [dvlp](https://github.com/popeindustries/dvlp) - No-configuration, no-conditionals, no-middleware, no-nonsense dev server toolkit to help you develop quickly and easily for the web.
 - [mdn.dev](https://mdn.dev/) - Resources for developers, by developers. ([Code](https://github.com/mdn/yari)) ([Article](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)) ([HN](https://news.ycombinator.com/item?id=25429518))
+- [Modern Web](https://modern-web.dev/) - Guides, tools and libraries for modern web development. ([Code](https://github.com/modernweb-dev/web))

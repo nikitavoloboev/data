@@ -32,3 +32,4 @@
 - [renderer_prototype](https://github.com/aclysma/renderer_prototype) - Vulkan renderer built on top of atelier-assets. The objective of this repo is to build a scalable, flexible, data driven renderer.
 - [Vulkan Diagrams](https://github.com/David-DiGioia/vulkan-diagrams) - Diagrams showing relationships between Vulkan objects and how they're used.
 - [TAA-STAR](https://github.com/cg-tuwien/TAA-STAR) - C++/Vulkan Implementations of State of the Art Temporal Anti-Aliasing Techniques.
+- [vkvg](https://github.com/jpbruyere/vkvg) - Vulkan 2D graphics library.

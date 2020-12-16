@@ -175,3 +175,4 @@
 - [GraphQL multipart request specification](https://github.com/jaydenseric/graphql-multipart-request-spec)
 - [Under-the-hood of GraphQL (2020)](https://craigtaub.dev/under-the-hood-of-graphql) ([HN](https://news.ycombinator.com/item?id=25407553))
 - [GraphQL Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - The definitive guide to express your GraphQL schema succinctly.
+- [GraphQL Middleware](https://github.com/maticzav/graphql-middleware) - Schema wrapper which allows you to manage additional functionality across multiple resolvers efficiently.

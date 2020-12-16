@@ -134,3 +134,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Honest Security](https://honest.security/) - Guide to endpoint security and device management that doesn't erode your values. ([Code](https://github.com/kolide/honest.security))
 - [Metasploit](https://metasploit.com/) - Penetration testing framework. ([Code](https://github.com/rapid7/metasploit-framework))
 - [Awesome CTF (Capture The Flag)](https://github.com/apsdehal/awesome-ctf)
+- [Quarkslab](https://quarkslab.com/) - Software and security services.

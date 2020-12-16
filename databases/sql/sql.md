@@ -80,3 +80,4 @@
 - [SQLiterally](https://github.com/terkelg/sqliterally) - Lightweight SQL query builder.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool. ([Web](http://sqlmap.org/))
 - [SQL Conventions](https://github.com/FGRibreau/sql-convention)
+- [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together. ([Web](https://sql-machine-learning.github.io/))

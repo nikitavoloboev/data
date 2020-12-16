@@ -63,3 +63,11 @@
 - [Web crawling with Python (2020)](https://www.scrapingbee.com/blog/crawling-python/)
 - [Metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks. ([Docs](https://metascraper.js.org/#/))
 - [Instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram. ([Docs](https://instaloader.github.io/))
+- [trafilatura](https://github.com/adbar/trafilatura) - Manage URLs and scrape main text and metadata.
+- [htmldate](https://github.com/adbar/htmldate) - Find the publication date of web pages.
+- [Filtering links to gather texts on the web (2020)](http://adrien.barbaresi.eu/blog/link-filtering-courlan-python.html)
+- [Evaluating scraping and text extraction tools for Python (2020)](http://adrien.barbaresi.eu/blog/evaluating-text-extraction-python.html)
+- [Using sitemaps to crawl websites (2019)](http://adrien.barbaresi.eu/blog/using-sitemaps-crawl-websites.html)
+- [Evaluation of date extraction tools for Python (2020)](http://adrien.barbaresi.eu/blog/evaluation-date-extraction-python.html)
+- [jusText](https://github.com/miso-belica/jusText) - Tool for removing boilerplate content, such as navigation links, headers, and footers from HTML pages.
+- [sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
