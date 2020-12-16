@@ -16,6 +16,10 @@
 - [suricatta](https://github.com/funcool/suricatta) - High level sql toolkit for clojure.
 - [Walkable](https://github.com/walkable-server/walkable) - SQL library for building APIs.
 
+## ML
+
+- [deep-diamond](https://github.com/uncomplicate/deep-diamond) - Fast Clojure Tensor & Deep Learning library.
+
 ## Other
 
 - [nippy](https://github.com/ptaoussanis/nippy) - High-performance serialization library for Clojure.

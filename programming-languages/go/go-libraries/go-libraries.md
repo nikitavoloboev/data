@@ -637,6 +637,8 @@
 - [exp](https://github.com/golang/exp) - Experimental and deprecated packages.
 - [mmap-go](https://github.com/edsrzf/mmap-go) - Portable mmap package for Go.
 - [flock](https://github.com/gofrs/flock) - Thread-safe file locking library in Go.
+- [Nero](https://github.com/sf9v/nero) - Library for generating the repository layer code.
+- [jsondiff](https://github.com/wI2L/jsondiff) - Go package for computing the diff between two JSON documents.
 
 ## Links
 

@@ -37,3 +37,4 @@
 - [geckos.io](https://github.com/geckosio/geckos.io) - Offers real-time client/server communication over UDP using WebRTC and Node.js. ([Web](https://geckosio.github.io/))
 - [Peer Calls](https://github.com/peer-calls/peer-calls) - Group WebRTC peer to peer video calls for everyone written in Go and TypeScript. ([Web](https://peercalls.com/))
 - [RingRTC](https://github.com/signalapp/ringrtc) - Middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC.
+- [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio.

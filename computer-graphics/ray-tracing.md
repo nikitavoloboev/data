@@ -55,3 +55,4 @@
 - [Raygon](https://github.com/raygon-renderer/readme) - High-performance proprietary CPU path tracer written in the Rust programming language.
 - [Jaeger](https://www.jaegertracing.io/) - Open source, end-to-end distributed tracing. ([Code](https://github.com/jaegertracing/jaeger))
 - [SuperRT - Realtime raytracing on the SNES (2020)](https://www.shironekolabs.com/posts/superrt/) ([HN](https://news.ycombinator.com/item?id=25431203))
+- [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) - Beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.

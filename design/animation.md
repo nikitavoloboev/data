@@ -25,3 +25,4 @@
 - [Filmstrip](https://filmstrip.berryscript.com/) - Animate keyframes and get CSS. ([Code](https://github.com/barhatsor/filmstrip))
 - [Pencil2D Animation](https://github.com/pencil2d/pencil) - Easy, intuitive tool to make 2D hand-drawn animations. ([Web](https://www.pencil2d.org/))
 - [VPaint](https://www.vpaint.org/) - Experimental vector graphics and 2D animation editor. ([Code](https://github.com/dalboris/vpaint))
+- [AnimXYZ](https://github.com/ingram-projects/animxyz) - Composable CSS animation toolkit. ([Web](https://animxyz.com/))

@@ -45,3 +45,5 @@
 - [OpenStreetMap](https://www.openstreetmap.org/) - Provides map data for thousands of web sites, mobile apps, and hardware devices. ([GitHub](https://github.com/openstreetmap))
 - [We Built Scalable Spatial Indexing in CockroachDB (2020)](https://www.cockroachlabs.com/blog/how-we-built-spatial-indexing/)
 - [Leaflet.glify](https://github.com/robertleeplummerjr/Leaflet.glify) - Functional, ridiculously fast web gl renderer plugin for leaflet.
+- [Satpy](hnttps://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing.
+- [Pytroll](http://pytroll.github.io/) - Easy to use, modular, free and open source python framework for the processing of earth observation satellite data. ([GitHub](https://github.com/pytroll))

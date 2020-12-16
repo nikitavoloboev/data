@@ -231,3 +231,4 @@
 - [line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python.
 - [How not to be slow using Python: Functions (2020)](https://pawroman.dev/how-not-to-be-slow-using-python-functions/)
 - [Basic Python testing setup with pytest (2018)](https://pawroman.dev/pytest-basic-setup/)
+- [Legally Free Python Books List (2020)](https://www.pythonkitchen.com/legally-free-python-books-list/)

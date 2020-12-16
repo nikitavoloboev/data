@@ -33,3 +33,4 @@
 - [Ruby on Rails: Still the Best Web App Framework for Most Teams (2020)](https://naildrivin5.com/blog/2020/11/23/rails-is-the-best-choice-for-most-teams.html) ([Lobsters](https://lobste.rs/s/unafsx/ruby_on_rails_still_best_web_app_framework))
 - [Rails & Next.js Project Skeleton](https://github.com/pch/rails-nextjs-docker-skeleton)
 - [Rails 6.1.0 (2020)](https://github.com/rails/rails/releases/tag/v6.1.0) ([HN](https://news.ycombinator.com/item?id=25364234))
+- [Encapsulating Ruby on Rails views (2020)](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)

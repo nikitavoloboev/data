@@ -106,7 +106,7 @@
 - [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust.
 - [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust.
 - [glow](https://github.com/grovesNL/glow) - Set of bindings to run GL anywhere and avoid target-specific code.
-- [Rust GPU](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code. ([HN](https://news.ycombinator.com/item?id=24858172)) ([HN 2](https://news.ycombinator.com/item?id=24870039))
+- [Rust GPU](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code. ([HN](https://news.ycombinator.com/item?id=24858172)) ([HN 2](https://news.ycombinator.com/item?id=24870039)) ([Example Shaders](https://github.com/LykenSol/rust-gpu-shadertoys))
 
 ## Games
 
@@ -154,7 +154,7 @@
 
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
 - [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
-- [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
+- [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order). ([HN](https://news.ycombinator.com/item?id=25434349))
 - [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
 - [poly-commit](https://github.com/scipr-lab/poly-commit) - Rust library for polynomial commitments.
 - [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
@@ -583,6 +583,7 @@
 - [reformation](https://github.com/hukumka/reformation) - Parsing via regular expressions using format syntax.
 - [rust-fasthash](https://github.com/flier/rust-fasthash) - Suite of non-cryptographic hash functions for Rust.
 - [GilRs](https://github.com/Arvamer/gilrs) - Game Input Library for Rust.
+- [rendezvous_hash](https://github.com/sile/rendezvous_hash) - Rust implementation of Rendezvous hashing algorithm.
 
 ## Cargo Plugins
 

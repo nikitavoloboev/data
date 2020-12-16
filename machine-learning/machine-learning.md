@@ -365,3 +365,4 @@
 - [Automated discovery of machine learning optimizations (2020)](https://searchworks.stanford.edu/view/13680855)
 - [A Visual Tour of Backpropagation (2020)](https://blog.jinay.dev/posts/backprop/)
 - [Deep Learning GPU Benchmarks](https://lambdalabs.com/gpu-benchmarks) ([Code](https://github.com/lambdal/lambda-tensorflow-benchmark))
+- [What I wish someone had told me about tensor computation libraries (2020)](https://eigenfoo.xyz/tensor-computation-libraries/) ([HN](https://news.ycombinator.com/item?id=25435028))

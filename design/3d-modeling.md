@@ -28,3 +28,4 @@
 - [CAD-Deform: Deformable Fitting of CAD Models to 3D Scans](https://github.com/alexeybokhovkin/CAD-Deform)
 - [modeler](https://github.com/szymonkaliski/modeler) - CSG modeling with React.
 - [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - Supports reading, editing, and writing 3D models in glTF 2.0 format.
+- [Automatic Machine Knitting of 3D Meshes (2018)](https://textiles-lab.github.io/publications/2018-autoknit/) ([Code](https://github.com/textiles-lab/autoknit))

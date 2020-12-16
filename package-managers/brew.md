@@ -26,3 +26,4 @@
 - [Homebrew (un)installer](https://github.com/Homebrew/install)
 - [Homebrew tap with bottles uploaded to GitHub Releases](https://brew.sh/2020/11/18/homebrew-tap-with-bottles-uploaded-to-github-releases/)
 - [Run Homebrew Natively on Apple Silicon Arm M1](https://github.com/mikelxc/Workarounds-for-ARM-mac) ([HN](https://news.ycombinator.com/item?id=25183120))
+- [Homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - Easy, convenient way to automatically update Homebrew.

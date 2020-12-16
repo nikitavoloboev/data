@@ -79,3 +79,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The Social Life of Forests (2020)](https://www.nytimes.com/interactive/2020/12/02/magazine/tree-communication-mycorrhiza.html) ([HN](https://news.ycombinator.com/item?id=25330549))
 - [Watershed](https://www.watershedclimate.com/) - Helping companies cut carbon.
 - [Johannes Ackva: An update to our thinking on climate change (2020)](https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change/)
+- [Climate Change AI](https://www.climatechange.ai/) - Tackling Climate Change with Machine Learning.

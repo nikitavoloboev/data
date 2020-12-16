@@ -18,3 +18,4 @@
 - [Fast UTF-8 validation (2020)](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/) ([HN](https://news.ycombinator.com/item?id=24839113)) ([Code](https://github.com/lemire/validateutf8-experiments))
 - [UTF-8 Illustrator](https://utf-8-illustrator.com/)
 - [Coded Character Sets, History and Development (1980)](https://textfiles.meulie.net/bitsaved/Books/Mackenzie_CodedCharSets.pdf)
+- [Awesome Code Points](https://github.com/Codepoints/awesome-codepoints) - Curated list of characters in Unicode, that have interesting (and maybe not widely known) features or are awesome in some other way.

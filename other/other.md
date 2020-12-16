@@ -415,3 +415,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Herbie](https://herbie.uwplse.org/) - Automatically Improving Floating Point Accuracy. ([Code](https://github.com/uwplse/herbie))
 - [perf-load](https://github.com/dvyukov/perf-load) - What do traditional profilers (like perf and pprof) sample: real time or CPU time?
 - [Programming links](https://github.com/pawroman/links)
+- [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)
+- [Carnegie Mellon Textiles Lab](https://textiles-lab.github.io/) ([GitHub](https://github.com/textiles-lab))

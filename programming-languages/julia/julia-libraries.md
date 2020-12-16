@@ -15,6 +15,7 @@
 - [MiniFastai](https://github.com/mlelarge/MiniFastai.jl) - Mini-version of fast.ai in Julia.
 - [ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl) - Reservoir computing utilities for scientific machine learning (SciML).
 - [GeometricFlux.jl](https://github.com/yuehhua/GeometricFlux.jl) - Geometric deep learning library for Flux.
+- [FluxTraining.jl](https://github.com/lorenzoh/FluxTraining.jl) - Flexible neural net training library inspired by fast.ai. ([Docs](https://lorenzoh.github.io/FluxTraining.jl/dev/README.html))
 
 ## Math
 
@@ -39,6 +40,7 @@
 - [MathOptInterface](https://github.com/jump-dev/MathOptInterface.jl) - Abstraction layer for mathematical optimization solvers.
 - [TemporalGPs](https://github.com/willtebbutt/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time.
 - [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - Estimates derivatives with finite differences.
+- [IncrementalInference.jl](https://github.com/JuliaRobotics/IncrementalInference.jl) - Incremental non-parametric (and parametric) solution to factor graphs.
 
 ## Biology
 

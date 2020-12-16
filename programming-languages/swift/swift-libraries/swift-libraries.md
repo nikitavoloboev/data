@@ -139,6 +139,7 @@
 - [CustomButton](https://github.com/sindresorhus/CustomButton) - Customizable button for your macOS app.
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes.
 - [FloatingFilter](https://github.com/CleanCocoa/FloatingFilter) - Display things in an app-modal floating window that users can fuzzy-filter by typing ahead.
+- [mac-open-with](https://github.com/karaggeorge/mac-open-with) - Open a file with an installed app on macOS.
 
 ## Web
 

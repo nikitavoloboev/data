@@ -58,3 +58,4 @@
 - [Loaf](https://getloaf.io/) - Animated SVG icon library.
 - [vpype](https://github.com/abey79/vpype) - Swiss-Army-knife command-line tool for plotter vector graphics.
 - [svg-path-properties](https://github.com/rveciana/svg-path-properties) - JavaScript alternative to getPointAtLength(t) and getTotalLength() functions. Works with Canvas objects and when Node.
+- [Learn SVG through 24 examples (2020)](https://www.youtube.com/watch?v=kBT90nwUb_o)

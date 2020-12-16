@@ -53,3 +53,5 @@
 - [Robotics - Modelling, Planning and Control by Bruno Siciliano](https://www.springer.com/gp/book/9781846286414)
 - [Robotic Manipulation (2020)](http://manipulation.csail.mit.edu/)
 - [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) - Physics-based simulation framework for physical human-robot interaction and robotic assistance.
+- [Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) - Robot toolkit: Towards non-parametric and parametric navigation solutions.
+- [JuliaRobotics](https://juliarobotics.org/) - Robotics powered by Julia. ([GitHub](https://github.com/JuliaRobotics))

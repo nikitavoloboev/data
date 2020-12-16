@@ -176,3 +176,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/) ([HN](https://news.ycombinator.com/item?id=25364000))
 - [GH Archive](https://www.gharchive.org/) - Project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [GitHub Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed.
+- [ghtopdep](https://github.com/github-tooling/ghtopdep) - CLI tool for sorting dependents repo by stars.

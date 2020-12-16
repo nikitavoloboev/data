@@ -15,6 +15,7 @@
 - [Rocky Linux](https://rockylinux.org/) - Community-driven, enterprise-ready OS. ([Code](https://github.com/rocky-linux/rocky)) ([Website Code](https://github.com/rocky-linux/rockylinux.org)) ([Infrastructure](https://github.com/rocky-linux/infrastructure))
 - [Debian](https://www.debian.org/)
 - [Fedora](https://getfedora.org/)
+- [Manjaro](https://manjaro.org/)
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 
 ## WM
@@ -237,3 +238,4 @@
 - [Linux Kernel Management Style](https://www.kernel.org/doc/html/latest/process/management-style.html)
 - [The State of Linux Debuggers](https://scattered-thoughts.net/writing/looking-for-debugger/) ([HN](https://news.ycombinator.com/item?id=25406541)) ([Lobsters](https://lobste.rs/s/g7ohej/state_linux_debuggers))
 - [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch)
+- [Entry-level Linux Ricing](https://aptrinh.js.org/manjaro-rice.html)

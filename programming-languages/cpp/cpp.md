@@ -169,3 +169,4 @@
 - [Unwinding a Bug - How C++ Exceptions Work (2020)](https://stffrdhrn.github.io/software/toolchain/openrisc/2020/12/13/cxx-exception-unwinding.html)
 - [Runtime Compiled C++ sample code](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Way to reliably make major changes to your C++ code at runtime and see the results immediately.
 - [Doxygen](https://github.com/doxygen/doxygen) - De facto standard tool for generating documentation from annotated C++ sources. ([Web](https://www.doxygen.nl/index.html))
+- [C++ Standard Published (2020)](https://www.iso.org/standard/79358.html)

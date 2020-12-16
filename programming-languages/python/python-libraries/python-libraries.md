@@ -12,6 +12,7 @@
 - [uvicorn](https://github.com/encode/uvicorn) - Lightning-fast ASGI server. ([Docs](https://www.uvicorn.org/))
 - [Flask](https://github.com/pallets/flask) - Python micro framework for building web applications. ([Docs](https://palletsprojects.com/p/flask/)) ([Flask Admin](https://github.com/flask-admin/flask-admin))
 - [Impacket](https://github.com/SecureAuthCorp/impacket) - Collection of Python classes for working with network protocols.
+- [instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods.
 
 ## ML
 
@@ -248,6 +249,7 @@
 - [huey](https://github.com/coleifer/huey) - Little task queue for python.
 - [Tree](https://github.com/deepmind/tree) - Library for working with nested data structures.
 - [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
 
 ## Links
 

@@ -14,3 +14,4 @@
 - [DSPFilters](https://github.com/vinniefalco/DSPFilters) - Collection of Useful C++ Classes for Digital Signal Processing.
 - [Radio I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ) ([HN](https://news.ycombinator.com/item?id=25134698))
 - [Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0) ([Code](https://github.com/musikalkemist/AudioSignalProcessingForML))
+- [absorptions](http://www.windytan.com/) - Blog about signals, random hacks, & assorted infodumps.

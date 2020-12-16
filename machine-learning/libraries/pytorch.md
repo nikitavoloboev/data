@@ -196,3 +196,4 @@
 - [torchaudio](https://github.com/pytorch/audio) - Audio library for PyTorch.
 - [Benchmark Suite for Deep Learning](https://github.com/lambdal/deeplearning-benchmark) - Provides a wrapper to run PyTorch benchmarks using NVidia's Deep Learning Examples repo.
 - [Fast Transformers](https://github.com/idiap/fast-transformers) - PyTorch library for fast transformer implementations.
+- [PyTorch Quantization Aware Training (2020)](https://leimao.github.io/blog/PyTorch-Quantization-Aware-Training/)

@@ -58,3 +58,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Microsoft Clarity](https://clarity.microsoft.com/) - Analytics for Websites.
 - [Splitbee](https://splitbee.io/) - Friendly all-in-one analytics & conversion tool.
 - [Real-time Security Insights: Apache Pinot at Confluera (2020)](https://medium.com/confluera-engineering/real-time-security-insights-apache-pinot-at-confluera-a6e5f401ff02)
+- [Ask HN: How to run analytics on data without access to the data? (2020)](https://news.ycombinator.com/item?id=25429749)

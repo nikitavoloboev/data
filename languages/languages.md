@@ -19,3 +19,4 @@
 - [Ask HN: Can someone talk me out of learning new languages (2020)](https://news.ycombinator.com/item?id=25108739)
 - [Inuttitut, a language shaped by humility, poetry, and the land (2020)](https://beside.media/new-narratives/nuna/) ([HN](https://news.ycombinator.com/item?id=25378558))
 - [Notes on Learning Languages](https://lukesmith.xyz/articles/learning-languages) ([HN](https://news.ycombinator.com/item?id=25407175))
+- [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215) ([HN](https://news.ycombinator.com/item?id=25434854))

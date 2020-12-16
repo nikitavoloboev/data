@@ -22,6 +22,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Unison](https://github.com/bcpierce00/unison) - File-synchronization tool for OSX, Unix, and Windows. ([Web](https://www.cis.upenn.edu/~bcpierce/unison/))
 - [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid. ([HN](https://news.ycombinator.com/item?id=24535046))
 - [Bupstash](https://bupstash.io/) - Encrypted backups made easy. ([Code](https://github.com/andrewchambers/bupstash)) ([Introducing Bupstash](https://acha.ninja/blog/introducing_bupstash/)) ([Lobsters](https://lobste.rs/s/k5opww/introducing_bupstash))
+- [BlobBackup](https://blobbackup.com/) - Simple Backups to Any Storage.
 
 ## Cloud Storage
 
@@ -47,3 +48,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Setting up your backup service (2020)](https://www.williamjbowman.com/blog/2020/06/30/setting-up-your-backup-service/)
 - [Organizing Data Through the Lens of Deduplication (2020)](https://www.anishathalye.com/2020/08/03/periscope/) ([Lobsters](https://lobste.rs/s/udqu02/organizing_data_through_lens))
 - [Backing up data like the adult I supposedly am (2020)](https://magnusson.io/post/backups/) ([Lobsters](https://lobste.rs/s/bmqi6l/backing_up_data_like_adult_i_supposedly_am)) ([HN](https://news.ycombinator.com/item?id=24526706))
+- [Automatic restic backups using systemd services and timers](https://github.com/erikw/restic-systemd-automatic-backup)

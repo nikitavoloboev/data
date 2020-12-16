@@ -28,3 +28,4 @@
 - [ts-proto](https://github.com/stephenh/ts-proto) - Idiomatic protobuf generator for TypeScript.
 - [BinExport](https://github.com/google/binexport) - Export disassemblies into Protocol Buffers.
 - [Protobuf to JSON-Schema compiler](https://github.com/chrusty/protoc-gen-jsonschema)
+- [NoProto](https://github.com/only-cliches/NoProto) - Performance of Protocol Buffers with flexibility of JSON.

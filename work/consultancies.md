@@ -15,6 +15,7 @@
 ## Rust
 
 - [Asquera](https://asquera.de/) - Specialise on the things below the covers: databases, queues, caches, APIs and the tiny details that make them all work together.
+- [Lyken Software Solutions](https://lyken.rs/) ([GitHub](https://github.com/LykenSol))
 
 ## Data Science
 
