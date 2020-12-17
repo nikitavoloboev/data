@@ -37,3 +37,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Quantum Chess (2016)](https://quantumfrontiers.com/2016/02/15/quantum-chess/)
 - [python-chess](https://github.com/niklasf/python-chess) - Pure Python chess library with move generation, move validation and support for common formats.
 - [gym-chess](https://github.com/genyrosk/gym-chess) - Simple chess environment for openai/gym.
+- [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/) ([HN](https://news.ycombinator.com/item?id=25446399))

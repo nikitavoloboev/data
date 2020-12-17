@@ -92,3 +92,4 @@
 - [na5 art](https://a-na5.tumblr.com/) ([Twitter](https://twitter.com/yuruyurau/))
 - [Sighack](https://sighack.com/) - Explorations with generative art.
 - [Generative.fm](https://generative.fm/) - Platform for playing generative music in the browser. ([Code](https://github.com/generative-music/generative.fm))
+- [Creative Code-Generated Art](https://www.editorx.com/shaping-design/article/creative-coding)

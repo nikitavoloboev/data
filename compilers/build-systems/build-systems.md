@@ -43,3 +43,4 @@
 - [remake](https://github.com/rocky/remake) - Enhanced GNU Make - tracing, error reporting, debugging, profiling and more.
 - [Goma](https://chromium.googlesource.com/infra/goma/client/) - Distributed compiler service for open-source project such as Chromium and Android. It's some kind of replacement of distcc+ccache.
 - [musl-cross-make](https://github.com/richfelker/musl-cross-make) - Fast, simple, but advanced makefile-based approach for producing musl-targeting cross compilers.
+- [Reducing flaky builds by 18x (2020)](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/)

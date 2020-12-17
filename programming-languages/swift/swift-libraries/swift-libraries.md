@@ -147,10 +147,13 @@
 ## Web
 
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
+- [LeafKit](https://github.com/vapor/leaf-kit)
 - [TinyNetworking](https://github.com/objcio/tiny-networking) - Contains a tiny networking library. It provides a struct Endpoint, which combines a URL request and a way to parse responses for that request.
 - [AsyncKit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library.
 - [NIOExtras](https://github.com/apple/swift-nio-extras) - Useful code around SwiftNIO.
 - [SwiftNIO SSL](https://github.com/apple/swift-nio-ssl) - Swift package that contains an implementation of TLS based on BoringSSL.
+- [WebSocketKit](https://github.com/vapor/websocket-kit) - WebSocket client library built on SwiftNIO.
+- [NIO Transport Services](https://github.com/apple/swift-nio-transport-services) - Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 
 ## SwiftUI
 
@@ -224,6 +227,8 @@
 ## DB
 
 - [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
+- [PostgresKit](https://github.com/vapor/postgres-kit) - Non-blocking, event-driven Swift client for PostgreSQL.
+- [SqlKit](https://github.com/vapor/sql-kit) - Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 
 ## Graphics
 

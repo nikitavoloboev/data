@@ -37,3 +37,4 @@
 - [Kanzi](https://github.com/flanglet/kanzi-go) - Modern, modular, expendable and efficient lossless data compressor implemented in Go.
 - [Data Compression With Arithmetic Coding (2014)](https://marknelson.us/posts/2014/10/19/data-compression-with-arithmetic-coding.html)
 - [Snappy](https://github.com/golang/snappy) - Snappy compression format in the Go programming language.
+- [Semantic Compression (2014)](https://caseymuratori.com/blog_0015)

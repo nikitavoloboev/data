@@ -26,7 +26,7 @@
 - [LeetCode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
 - [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
 - [Developer questions](https://github.com/ggomaeng/better-developer-quotes)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer. ([HN](https://news.ycombinator.com/item?id=25445493))
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
