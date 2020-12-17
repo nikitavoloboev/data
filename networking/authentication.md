@@ -78,7 +78,7 @@
 - [Kerbrute](https://github.com/ropnop/kerbrute) - Quickly bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication.
 - [OAuth 2.0 Simplified](https://oauth2simplified.com/) - Guide to building OAuth 2.0 servers.
 - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Generates 2-Step Verification codes in your browser.
-- [WebAuthn.io](https://webauthn.io/) - Demo of the WebAuthn specification.
+- [WebAuthn.io](https://webauthn.io/) - Demo of the WebAuthn specification. ([Code](https://github.com/duo-labs/webauthn.io))
 - [Face ID and Touch ID for the Web (2020)]https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/() ([HN](https://news.ycombinator.com/item?id=24829565))
 - [OAuth 3](https://oauth.net/3/) - In-progress effort to redesign OAuth from the ground up. ([HN](https://news.ycombinator.com/item?id=24855750))
 - [Portier](https://portier.github.io/) - Email-based, passwordless authentication service. ([Code](https://github.com/portier/portier.github.io))

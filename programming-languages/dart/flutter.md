@@ -27,3 +27,4 @@
 - [Flutter Web: A Fractal of Bad Design (2020)](https://hugotunius.se/2020/10/31/flutter-web-a-fractal-of-bad-design.html) ([HN](https://news.ycombinator.com/item?id=24962504)) ([Lobsters](https://lobste.rs/s/cqxbm8/flutter_web_fractal_bad_design))
 - [Flutter Pi](https://github.com/ardera/flutter-pi) - Light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
 - [Zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications.
+- [Dart DevTools](https://github.com/flutter/devtools) - Performance tools for Flutter.

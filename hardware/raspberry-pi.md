@@ -54,3 +54,4 @@
 - [Shaking Down the Raspberry Pi 400 (2020)](https://www.pluralsight.com/blog/software-development/raspberry-pi-400)
 - [Getting started with Firecracker on Raspberry Pi (2020)](https://dev.l1x.be/posts/2020/11/22/getting-started-with-firecracker-on-raspberry-pi/) ([Lobsters](https://lobste.rs/s/b6tsce/getting_started_with_firecracker_on))
 - [Raspberry Pi Webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam. ([Article](https://www.jeffgeerling.com/blog/2020/raspberry-pi-makes-great-usb-webcam-100)) ([HN](https://news.ycombinator.com/item?id=25191646)) ([Video](https://www.youtube.com/watch?v=8fcbP7lEdzY)) ([Lobsters](https://lobste.rs/s/rgpc8m/raspberry_pi_makes_great_usb_webcam_for))
+- [Rpitx](https://github.com/F5OEO/rpitx) - General radio frequency transmitter for Raspberry Pi.

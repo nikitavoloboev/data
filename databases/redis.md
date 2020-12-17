@@ -42,3 +42,4 @@
 - [RedisJSON](https://github.com/RedisJSON/RedisJSON) - JSON data type for Redis. ([Docs](https://oss.redislabs.com/redisjson/))
 - [Redis Docs](https://redis.io/documentation) ([Code](https://github.com/redis/redis-doc))
 - [Titan](https://github.com/distributedio/titan) - Distributed implementation of Redis compatible layer based on TiKV.
+- [fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes.

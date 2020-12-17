@@ -74,3 +74,4 @@
 - [Interpretation of confidence intervals and Bayesian credible intervals (2020)](https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/) ([HN](https://news.ycombinator.com/item?id=25169595))
 - [Bayesian Analysis with Python book](https://github.com/aloctavodia/BAP)
 - [What are the most important statistical ideas of the past 50 years? (2020)](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/)
+- [Probability Distribution Toolbox](https://github.com/ccanonne/probabilitydistributiontoolbox) - Folklore facts on probability distribution learning, testing, and whatever-ing.

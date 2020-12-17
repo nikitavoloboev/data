@@ -76,3 +76,7 @@
 - [Bitcoin.org Website Code](https://github.com/bitcoin-dot-org/Bitcoin.org)
 - [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
 - [CLIFlix](https://github.com/fabiospampinato/cliflix) - Watch anything instantaneously, just write its name.
+- [Bitcoin Cash](https://www.bitcoincash.org/) - Experimental digital currency that enables instant payments to anyone, anywhere in the world. ([Code](https://github.com/Bitcoin-ABC/bitcoin-abc))
+- [What does BCH offer that Ethereum don't already offer? (2020)](https://www.reddit.com/r/btc/comments/keu3nw/what_does_bch_offer_that_ethereum_dont_already/)
+- [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions) - Software aiming to improve the privacy of bitcoin.
+- [Bitcoin Archive](http://towardsliberty.com/bitcoin)

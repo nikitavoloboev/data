@@ -11,3 +11,4 @@
 - [Streetmix](https://streetmix.net/) - Collaborative process for communities and city planners to improve public spaces. ([Code](https://github.com/streetmix/streetmix))
 - [How to Be Silicon Valley (2006)](http://www.paulgraham.com/siliconvalley.html) ([HN](https://news.ycombinator.com/item?id=25115336))
 - [Cities are living entities always changing and adapting to new environments (2020)](https://thinkthinkthink.substack.com/p/resilience)
+- [Platocracy: An Experimental City Wiki](https://www.notion.so/Platocracy-An-Experimental-City-Wiki-4faf1beae8454aa19d3649afa7f5b59e)

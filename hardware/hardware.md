@@ -145,3 +145,4 @@
 - [A Modern Primer on Processing in Memory (2020)](https://arxiv.org/abs/2012.03112)
 - [Fast14 Technology: Design Technology for the Automation of Multi-Gigahertz Digital Logic](https://en.wikichip.org/w/images/d/d4/Fast14_Technology.pdf)
 - [Inside the Apple II (2020)](https://www.youtube.com/watch?v=r1VlrJboDMw)
+- [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware. ([HN](https://news.ycombinator.com/item?id=25452435))

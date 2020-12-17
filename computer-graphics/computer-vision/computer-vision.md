@@ -184,3 +184,4 @@
 - [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://github.com/krishnabits001/domain_specific_cl)
 - [Real-Time High-Resolution Background Matting (2020)](https://arxiv.org/abs/2012.07810) ([Code](https://github.com/PeterL1n/BackgroundMattingV2))
 - [Torchreid](https://github.com/KaiyangZhou/deep-person-reid) - Deep learning person re-identification in PyTorch.
+- [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)

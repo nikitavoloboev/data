@@ -188,3 +188,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Connary Fagen](https://connary.com/index.html) - Type design studio and foundry.
 - [OpenType shaping documents](https://github.com/n8willis/opentype-shaping-documents) - Documentation of OpenType shaping behavior.
 - [Kerning and letterspacing research](https://github.com/n8willis/kernall)
+- [Allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter for OpenType, WOFF, and WOFF2 implemented in Rust.
+- [Allsorts Tools](https://github.com/yeslogic/allsorts-tools) - Example tools for the Allsorts font parser, shaping engine, and subsetter.

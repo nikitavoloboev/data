@@ -69,3 +69,4 @@
 - [dify](https://github.com/jihchi/dify) - Pixel-by-pixel image diffs tool.
 - [imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly.
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool. ([HN](https://news.ycombinator.com/item?id=25401100))
+- [Triangler](https://github.com/tdh8316/triangler) - Images to Low-Poly art using Python and Delaunay triangulation.

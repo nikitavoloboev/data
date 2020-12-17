@@ -98,3 +98,4 @@
 - [wasm-crypto](https://github.com/jedisct1/wasm-crypto) - WebAssembly (via AssemblyScript) set of cryptographic primitives for building authentication and key exchange protocols.
 - [Everything Crypto](https://github.com/zademn/EverythingCrypto) - Collection of notebooks covering different algorithms and concepts from cryptography.
 - [How Rainbow Tables work](http://kestas.kuliukas.com/RainbowTables/)
+- [Cryptography in Layman's Terms (2020)](https://portabella.io/blog/2020-11-16-crypto-in-laymans-terms/)

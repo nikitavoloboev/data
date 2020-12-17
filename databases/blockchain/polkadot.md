@@ -18,3 +18,4 @@
 - [Polkadot Wiki](https://github.com/w3f/polkadot-wiki) - Central source of truth for Polkadot.
 - [Polkadot Cross-Consensus Message (XCM) Format](https://github.com/paritytech/xcm-format)
 - [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
+- [polkadot-launch](https://github.com/paritytech/polkadot-launch) - Simple CLI tool to launch a local Polkadot test network.

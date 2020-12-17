@@ -418,3 +418,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw) ([HN](https://news.ycombinator.com/item?id=25441592))
 - [Carnegie Mellon Textiles Lab](https://textiles-lab.github.io/) ([GitHub](https://github.com/textiles-lab))
 - [Product Wars](https://productwars.phantombuster.com/) - Follow your launch on Product Hunt.
+- [Field of Memes](https://fieldofmemes.com/)
+- [Fathom](https://github.com/yeslogic/fathom) - Declarative data definition language for formally specifying binary data formats.

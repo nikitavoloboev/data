@@ -181,6 +181,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [DeepCode](https://www.deepcode.ai/) - Semantic static code analysis for better software - powered by AI.
 - [Pastel](https://usepastel.com/copy-changes) - Fastest way to suggest copy changes on any website.
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
+- [Unicorn Platform](https://unicornplatform.com/) - Landing page builder for startups.
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Front](https://frontapp.com/) - Inbox for teams.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.

@@ -55,3 +55,5 @@
 - [Assistive Gym](https://github.com/Healthcare-Robotics/assistive-gym) - Physics-based simulation framework for physical human-robot interaction and robotic assistance.
 - [Caesar.jl](https://github.com/JuliaRobotics/Caesar.jl) - Robot toolkit: Towards non-parametric and parametric navigation solutions.
 - [JuliaRobotics](https://juliarobotics.org/) - Robotics powered by Julia. ([GitHub](https://github.com/JuliaRobotics))
+- [Robogym](https://github.com/openai/robogym) - Robotics Gym Environments.
+- [Mathematics Behind Robotics (2020)](https://medium.com/datadriveninvestor/mathematics-behind-robotics-9d1790b33828)

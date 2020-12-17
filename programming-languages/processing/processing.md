@@ -11,3 +11,4 @@
 - [Generative Watercolor in Processing](https://sighack.com//post/generative-watercolor-in-processing) ([Code](https://github.com/sighack/watercolor-simulation))
 - [Processing Boilerplate for Generative Artists](https://github.com/sighack/processing-boilerplate)
 - [Fifteen Ways to Draw a Line](https://sighack.com/post/fifteen-ways-to-draw-a-line) ([Code](https://github.com/sighack/fifteen-lines))
+- [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing.

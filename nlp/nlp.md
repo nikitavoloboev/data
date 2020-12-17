@@ -205,3 +205,5 @@
 - [textract](https://github.com/deanmalmgren/textract) - Extract text from any document. No muss. No fuss. ([Docs](https://textract.readthedocs.io/en/stable/))
 - [NLP e Named Entity Recognition (2020)](https://techblog.smc.it/en/2020-12-11/nlp-ner)
 - [Big Bird: Transformers for Longer Sequences](https://github.com/google-research/bigbird)
+- [NLP PyTorch Tutorial](https://github.com/will-thompson-k/deeplearning-nlp-models)
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://github.com/jasonwei20/eda_nlp)

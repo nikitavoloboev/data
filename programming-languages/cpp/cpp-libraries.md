@@ -151,6 +151,8 @@
 - [painless](https://github.com/sharkdp/painless) - Header-only C++ library that provides an easy way to use interactive parameters in your program.
 - [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl) ([Web](https://www.etlcpp.com/))
 - [C++ B-tree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers.
+- [Blitz++](https://github.com/blitzpp/blitz) - Multi-Dimensional Array Library for C++.
+- [ATen](https://github.com/zdevito/ATen) - TENsor library for C++11.
 
 ## Links
 

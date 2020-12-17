@@ -31,6 +31,7 @@
 - [SymPy](https://github.com/sympy/sympy) - Computer algebra system written in pure Python.
 - [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 - [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - Mobility analysis in Python.
+- [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib.
 
 ## Biology
 
@@ -250,6 +251,8 @@
 - [Tree](https://github.com/deepmind/tree) - Library for working with nested data structures.
 - [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
+- [structlog](https://github.com/hynek/structlog) - Structured Logging for Python.
+- [JMESPath.py](https://github.com/jmespath/jmespath.py) - Declaratively specify how to extract elements from a JSON document.
 
 ## Links
 

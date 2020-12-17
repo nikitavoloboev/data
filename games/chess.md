@@ -1,6 +1,6 @@
 # Chess
 
-Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching chess game commentary. [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal)'s games are [joy to watch](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx).
+Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching chess game commentary. [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx) & [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) games are joy to watch.
 
 ## Links
 
@@ -38,3 +38,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [python-chess](https://github.com/niklasf/python-chess) - Pure Python chess library with move generation, move validation and support for common formats.
 - [gym-chess](https://github.com/genyrosk/gym-chess) - Simple chess environment for openai/gym.
 - [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/) ([HN](https://news.ycombinator.com/item?id=25446399))
+- [Chess Tempo](https://chesstempo.com/) - Online Chess Training.

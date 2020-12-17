@@ -83,3 +83,5 @@
 - [HH-suite3 for sensitive sequence searching](https://github.com/soedinglab/hh-suite) - Software package for sensitive protein sequence searching based on the pairwise alignment of hidden Markov models (HMMs).
 - [Soding Lab](https://www.mpibpc.mpg.de/soeding) - Quantitative and Computational Biology Research. ([GitHub](https://github.com/soedinglab))
 - [Protein folding explained (2020)](https://www.youtube.com/watch?v=KpedmJdrTpY)
+- [sfaira](https://github.com/theislab/sfaira) - Data and model repository for single-cell data.
+- [Theis Lab](https://www.helmholtz-muenchen.de/icb/) - Institute of Computational Biology. ([GitHub](https://github.com/theislab))

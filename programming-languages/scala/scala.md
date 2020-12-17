@@ -59,3 +59,4 @@
 - [Explicit term inference with Scala 3 (2020)](https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html) ([HN](https://news.ycombinator.com/item?id=25031870))
 - [Scala Docs](https://docs.scala-lang.org/) ([Code](https://github.com/scala/docs.scala-lang))
 - [Scala Monthly](https://scalamonthly.com/) - High-quality coding challenge delivered to your inbox monthly.
+- [Scala 3 - Crossing the finish line (2020)](https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html) ([Reddit](https://www.reddit.com/r/scala/comments/ke9p82/scala_3_crossing_the_finish_line/gg2woqv/))

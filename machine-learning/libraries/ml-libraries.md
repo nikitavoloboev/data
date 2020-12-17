@@ -93,3 +93,4 @@
 - [Buffalo](https://github.com/kakao/buffalo) - Fast and scalable production-ready open source project for recommender systems.
 - [EvalML](https://github.com/alteryx/evalml) - AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
 - [MindSpore](https://github.com/mindspore-ai/mindspore) - New open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.
+- [Flashlight](https://github.com/facebookresearch/flashlight) - Fast, Flexible Machine Learning in C++.

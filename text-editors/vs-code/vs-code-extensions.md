@@ -288,6 +288,10 @@ Below is a list of extensions I use.
 
 - [Nim](https://github.com/pragmagic/vscode-nim) - Provides support for the Nim language.
 
+## Flutter
+
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) ([Code](https://github.com/Dart-Code/Flutter))
+
 ## Erlang
 
 - [Erlang](https://github.com/erlang-ls/vscode) - Uses Erlang LSP.

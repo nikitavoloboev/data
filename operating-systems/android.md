@@ -25,3 +25,4 @@
 - [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 - [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
 - [Android GPU Inspector](https://gpuinspector.dev/) - Single tool that will help you profile graphics on Android across several GPUs. ([Code](https://github.com/google/agi))
+- [Accompanist](https://github.com/chrisbanes/accompanist) - Collection of extension libraries for Jetpack Compose.

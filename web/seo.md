@@ -46,3 +46,4 @@
 - [Lean SEO](https://www.starterstory.com/lean-seo) - Our Framework For SEO Traction.
 - [Getting started with SEO 101 (2020)](https://twitter.com/jdnoc/status/1336699825325268993)
 - [Greenflare SEO Web Crawler](https://github.com/beb7/gflare-tk) - Open-Source Python Based SEO Web Crawler. ([Web](https://greenflare.io/))
+- [Top SEO myths to kiss goodbye in 2020](https://tabtimize.com/top-10-seo-myths-to-kiss-goodbye-in-2020/)

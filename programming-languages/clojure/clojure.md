@@ -96,3 +96,4 @@
 - [How to be a REPL Sorcerer (2020)](https://www.youtube.com/watch?v=AcWnGKGqFZA)
 - [Semantic Clojure Formatting (2020)](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html) ([HN](https://news.ycombinator.com/item?id=25322836))
 - [The Future of Clojure (2020)](https://www.thoughtworks.com/podcasts/future-clojure) ([HN](https://news.ycombinator.com/item?id=25373831))
+- [CLJ Commons](https://clj-commons.org/) - Community-led project to build up the supporting infrastructure around Clojure. ([Discussion](https://github.com/clj-commons/meta))

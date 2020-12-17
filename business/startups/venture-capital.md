@@ -86,3 +86,4 @@
 - [Greylock Partners](https://greylock.com/) - Early partners of remarkable teams building companies that matter.
 - [Outlander Labs](https://www.outlanderlabs.com/) - Earliest investors in the best startups across the Southeast.
 - [Vista Equity Partners](https://www.vistaequitypartners.com/) - Market-Leading Investment Firm.
+- [Third Point](https://www.thirdpoint.com/)

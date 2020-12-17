@@ -140,3 +140,4 @@
 - [Interval Tree Clocks (2020)](https://ferd.ca/interval-tree-clocks.html)
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/) ([HN](https://news.ycombinator.com/item?id=25327077))
 - [Raft Visualization](http://thesecretlivesofdata.com/raft/) ([HN](https://news.ycombinator.com/item?id=25326645))
+- [Meld](https://m-ld.org/) - Decentralized shared state.

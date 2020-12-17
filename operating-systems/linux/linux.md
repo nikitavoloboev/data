@@ -3,7 +3,7 @@
 ## Distributions
 
 - [Ubuntu](https://ubuntu.com/) - Enterprise Open Source and Linux.
-- [Arch Linux](https://www.archlinux.org/) - Simple, lightweight distribution.
+- [Arch Linux](https://www.archlinux.org/) - Simple, lightweight distribution. ([Arch Linux Install Script](https://github.com/picodotdev/alis))
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
 - [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
 - [Oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system. ([Lobsters](https://lobste.rs/s/n6ehna/oasis_small_statically_linked_linux))

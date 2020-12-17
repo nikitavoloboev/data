@@ -308,6 +308,7 @@ Here are few more things I liked, design wise.
 - [Matt Keeter](https://www.mattkeeter.com/)
 - [Daniel Gross](https://dcgross.com/)
 - [Chelsea Voss](https://csvoss.com/)
+- [Neil Sainsbury](https://www.neilwithdata.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Fabian De Smet](https://fabiandesmet.com/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)

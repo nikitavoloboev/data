@@ -3,7 +3,7 @@
 ## Interesting Engines
 
 - [Godot](https://github.com/godotengine/godot)
-- [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/))
+- [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/)) ([Ebiten in 2020](https://ebiten.org/blog/2020.html)) ([HN](https://news.ycombinator.com/item?id=25429375))
 - [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283)) ([HN 2](https://news.ycombinator.com/item?id=24983956)) ([WebGL2 renderer plugin for Bevy game engine](https://github.com/mrk-its/bevy_webgl2)) ([Awesome Bevy](https://github.com/bevyengine/awesome-bevy))
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
@@ -57,6 +57,9 @@
 - [Nazara Engine](https://github.com/DigitalPulseSoftware/NazaraEngine) - Fast, complete, cross-platform, object-oriented API which can help you in your daily developer life.
 - [Edyn](https://github.com/xissburg/edyn) - Real-time physics engine organized as an ECS.
 - [Frostbite Engine](https://www.ea.com/frostbite) - Most adopted platform for game development by EA.
+- [Halley](https://github.com/amzeratul/halley) - Lightweight game engine written in modern C++.
+- [Goodluck](https://github.com/piesku/goodluck) - Hackable template for creating small and fast browser games. ([Web](https://gdlck.com/))
+- [SuperTux](https://www.supertux.org/) - Open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games. ([Code](https://github.com/SuperTux/supertux))
 
 ## Physics engines
 

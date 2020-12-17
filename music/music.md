@@ -89,3 +89,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [80% of musicians earn less than £200 a year from streaming (2020)](https://www.nme.com/news/music/82-per-cent-of-musicians-earn-less-than-200-a-year-from-streaming-2833510) ([HN](https://news.ycombinator.com/item?id=25352088))
 - [TIDAL](https://tidal.com/) - High Fidelity Music Streaming.
 - [Plotting patterns in music with a fantasy record player (2020)](http://www.windytan.com/2020/12/plotting-patterns-in-music-with-fantasy.html) ([HN](https://news.ycombinator.com/item?id=25414742))
+- [JQBX](https://jqbx.fm/) - Lets you play & listen to music in sync with friends or public groups.

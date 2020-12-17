@@ -143,6 +143,7 @@
 - [Documenter](https://github.com/JuliaDocs/Documenter.jl) - Documentation generator for Julia.
 - [Memoization.jl](https://github.com/marius311/Memoization.jl) - Easily and efficiently memoize any function in Julia.
 - [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification.
+- [Gridap](https://github.com/gridap/Gridap.jl) - Grid-based approximation of partial differential equations in Julia.
 
 ## Links
 

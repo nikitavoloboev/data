@@ -62,3 +62,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [SpanDeX](https://github.com/rust-spandex/spandex) - Modern alternative to LaTeX written in Rust. ([Docs](https://rust-spandex.github.io/))
 - [PyLaTeX](https://github.com/JelteF/PyLaTeX) - Python library for creating and compiling LaTeX files or snippets. ([Docs](https://jeltef.github.io/PyLaTeX/current/))
 - [Examples for the usage of LaTeX](https://github.com/MartinThoma/LaTeX-examples)
+- [TeX: A Branch in Desktop Publishing Evolution (2018-2019)](https://www.walden-family.com/ieee/texhistory.html)

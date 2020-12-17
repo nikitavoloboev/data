@@ -86,6 +86,7 @@
 - [TQL](https://github.com/antoyo/tql) - Compile-time ORM, inspired by Django ORM, written in Rust.
 - [postgrest-rs](https://github.com/supabase/postgrest-rs) - PostgREST client-side library.
 - [RustRocks](https://github.com/bh1xuw/rust-rocks) - RocksDB binding for Rust.
+- [Cask](https://github.com/andresilva/cask) - Fast key-value store written in Rust.
 
 ## Graphics
 
@@ -584,6 +585,8 @@
 - [rust-fasthash](https://github.com/flier/rust-fasthash) - Suite of non-cryptographic hash functions for Rust.
 - [GilRs](https://github.com/Arvamer/gilrs) - Game Input Library for Rust.
 - [rendezvous_hash](https://github.com/sile/rendezvous_hash) - Rust implementation of Rendezvous hashing algorithm.
+- [quanta](https://github.com/metrics-rs/quanta) - Speed timing library, useful for getting the current time very quickly.
+- [JMESPath Rust](https://github.com/jmespath/jmespath.rs) - Rust implementation of JMESPath, a query language for JSON.
 
 ## Cargo Plugins
 
