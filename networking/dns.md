@@ -65,3 +65,4 @@
 - [DNSTools](https://dnstools.ws/) - Perform DNS lookups, pings, traceroutes, and other utilities, from 24 locations around the world. ([Code](https://github.com/Daniel15/dnstools))
 - [DIY Dynamic DNS Using Netlify API (2020)](https://blog.skylerlewis.io/2020/12/diy-dynamic-dns-using-netlify-api.html)
 - [dcompass](https://github.com/LEXUGE/dcompass) - High-performance DNS server with rule matching/DoT/DoH functionality built-in.
+- [doggo](https://github.com/mr-karan/doggo) - Command-line DNS Client for Humans. Written in Go. ([Lobsters](https://lobste.rs/s/6ey5mv/doggo_command_line_dns_client))

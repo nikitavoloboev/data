@@ -69,3 +69,4 @@
 - [How Does Svelte Actually Work? (2019)](https://dev.to/zev/how-does-svelte-actually-work-part-1-j9m)
 - [svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component.
 - [svite](https://github.com/dominikg/svite) - Svelte integration for vite.
+- [Prettier for Svelte 3 components](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.

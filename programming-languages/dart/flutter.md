@@ -10,7 +10,7 @@
 - [Why Flutter uses Dart (2018)](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 - [Desktop Embedding for Flutter](https://github.com/google/flutter-desktop-embedding) - Purpose of this project is to support building applications that use Flutter on Windows, macOS, and Linux.
-- [Go Flutter desktop embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) - Go (golang) Custom Flutter Engine Embedder for desktop.
+- [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Allows you to build beautiful native apps on iOS and Android from a single codebase.
 - [Fish Redux](https://github.com/alibaba/fish-redux) - Assembled flutter application framework based on Redux state management.
 - [Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop (2019)](https://developers.googleblog.com/2019/05/Flutter-io19.html) ([HN](https://news.ycombinator.com/item?id=19853247))
 - [How Flutter renders Widgets (2019)](https://www.youtube.com/watch?v=996ZgFRENMs)
@@ -28,3 +28,4 @@
 - [Flutter Pi](https://github.com/ardera/flutter-pi) - Light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.
 - [Zefyr](https://github.com/memspace/zefyr) - Soft and gentle rich text editing for Flutter applications.
 - [Dart DevTools](https://github.com/flutter/devtools) - Performance tools for Flutter.
+- [Flutter Widget Livebook](https://flutter-widget.live/basics/introduction) - Live preview example for flutter widgets. ([Code](https://github.com/leanflutter/flutter-widget-livebook))

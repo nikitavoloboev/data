@@ -34,3 +34,5 @@
 - [idris2-elab-util](https://github.com/stefan-hoeck/idris2-elab-util) - Utilities and documentation for exploring idirs2's new elaborator reflection.
 - [idris2-sop](https://github.com/stefan-hoeck/idris2-sop) - Idris port of Haskell's sop-core and generic-sop libraries.
 - [Session types in Idris2](https://github.com/wenkokke/idris-sesh)
+- [Effectful Streaming For Idris](https://github.com/MarcelineVQ/idris2-streaming)
+- [Idris AOC (2020)](https://github.com/JoeyEremondi/aoc-2020-idris)

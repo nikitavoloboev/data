@@ -587,6 +587,8 @@
 - [rendezvous_hash](https://github.com/sile/rendezvous_hash) - Rust implementation of Rendezvous hashing algorithm.
 - [quanta](https://github.com/metrics-rs/quanta) - Speed timing library, useful for getting the current time very quickly.
 - [JMESPath Rust](https://github.com/jmespath/jmespath.rs) - Rust implementation of JMESPath, a query language for JSON.
+- [stream-cancel](https://github.com/jonhoo/stream-cancel) - Rust library for interrupting asynchronous streams.
+- [Mutation](https://github.com/zesterer/mutation) - Unleash the power of nightly Rust to write code that's generic over mutation.
 
 ## Cargo Plugins
 

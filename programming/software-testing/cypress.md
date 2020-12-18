@@ -19,3 +19,5 @@
 - [HN: Cypress (2020)](https://news.ycombinator.com/item?id=25381242)
 - [Cypress Image Snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress.
 - [sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - Open-source, on-premise, self-hosted alternative to Cypress dashboard. ([Docs](https://sorry-cypress.dev/))
+- [Knapsack Pro for Cypress.io](https://github.com/KnapsackPro/knapsack-pro-cypress) - Runs your E2E tests with Cypress.io test runner and does dynamic tests allocation across parallel CI nodes using KnapsackPro.com Queue Mode to provide the fastest CI build time (optimal test suite timing)..
+  .

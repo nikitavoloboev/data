@@ -45,3 +45,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Madoko](https://github.com/koka-lang/madoko) - Fast Scholarly Markdown Processor.
 - [Paste Markdown objects](https://github.com/github/paste-markdown) - Paste spreadsheet cells as a Markdown table.
 - [bibtex-markdown](https://github.com/kyledewey/bibtex-markdown) - Hack to integrate BibTeX into markdown in a way that is independent of the markdown parser.
+- [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc.go) - Easy TOC creation for GitHub README.md.

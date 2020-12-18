@@ -208,3 +208,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [dvlp](https://github.com/popeindustries/dvlp) - No-configuration, no-conditionals, no-middleware, no-nonsense dev server toolkit to help you develop quickly and easily for the web.
 - [mdn.dev](https://mdn.dev/) - Resources for developers, by developers. ([Code](https://github.com/mdn/yari)) ([Article](https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/)) ([HN](https://news.ycombinator.com/item?id=25429518))
 - [Modern Web](https://modern-web.dev/) - Guides, tools and libraries for modern web development. ([Code](https://github.com/modernweb-dev/web))
+- [StumblingOn](https://stumblingon.com/) - Randomly find indie websites. ([HN](https://news.ycombinator.com/item?id=25461367))
+- [Web Dev Server](https://modern-web.dev/docs/dev-server/overview/) - Helps developing for the web, using native browser features like es modules.

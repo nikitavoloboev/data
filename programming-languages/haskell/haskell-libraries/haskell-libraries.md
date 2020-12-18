@@ -88,6 +88,7 @@
 - [hindent](https://github.com/mihaimaruseac/hindent) - Haskell pretty printer.
 - [Katip](https://github.com/Soostone/katip) - Structured logging framework for Haskell.
 - [Linear base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
+- [bifunctors](https://github.com/ekmett/bifunctors) - Haskell 98 bifunctors, bifoldables and bitraversables.
 
 ## Links
 

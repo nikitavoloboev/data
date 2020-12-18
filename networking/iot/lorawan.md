@@ -54,3 +54,4 @@
 - [Experiments with LoRa radios](https://ds0.me/lora/index.html)
 - [Connecting Your LoRaWAN Devices from The Things Stack to AWS IoT Core (2020)](https://aws.amazon.com/blogs/apn/connecting-your-lorawan-devices-from-the-things-stack-to-aws-iot-core/)
 - [LORIOT](https://www.loriot.io/) - LoRaWAN Network Server Provider.
+- [CellSol](https://github.com/RbtsEvrwhr-Riley/CellSol/) - Long Range Solar Powered Communications Network. LoRa based mesh. ([Docs](https://www.f3.to/cellsol/))

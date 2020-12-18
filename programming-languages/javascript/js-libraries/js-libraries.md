@@ -397,6 +397,7 @@
 - [Ketting](https://github.com/badgateway/ketting) - Hypermedia client for JavaScript.
 - [yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure.
 - [Nano JSX](https://github.com/nanojsx/nano) - Lightweight 1kB JSX library. ([Web](https://nanojsx.github.io/))
+- [Effects.js](https://github.com/nythrox/effects.js) - Algebraic effects in javascript with scoped handlers, multishot delimited continuations, stack safety and do notation.
 
 ## Links
 

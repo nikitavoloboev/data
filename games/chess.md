@@ -1,6 +1,6 @@
 # Chess
 
-Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching chess game commentary. [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx) & [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) games are joy to watch.
+Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to game analysis. [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx) & [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) games are joy to watch.
 
 ## Links
 
@@ -11,7 +11,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Pauli chess](https://blog.plover.com/games/double-chess.html) ([HN](https://news.ycombinator.com/item?id=22709850))
 - [Chess With Friends](https://rootshirechess.glitch.me/) - Play chess and video chat with your friends at the same time, no login required. ([HN](https://news.ycombinator.com/item?id=22790728))
 - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
-- [Stockfish](https://github.com/official-stockfish/Stockfish) - Strong open source chess engine. ([Web](https://stockfishchess.org/)) ([macOS app](https://github.com/daylen/stockfish-mac))
+- [Stockfish](https://github.com/official-stockfish/Stockfish) - Strong open source chess engine. ([Web](https://stockfishchess.org/)) ([macOS app](https://github.com/daylen/stockfish-mac)) ([Changelog](https://abrok.eu/stockfish/)) ([Stockfish 12 on Lichess](https://lichess.org/blog/X9uXyxUAANCqN1OF/stockfish-12-on-lichess))
 - [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
 - [What is 5D chess? (2020)](https://en.chessbase.com/post/what-on-earth-is-5d-chess) ([HN](https://news.ycombinator.com/item?id=24054313))
 - [Chess Board HTML Element](https://justinfagnani.github.io/chessboard-element/) ([Code](https://github.com/justinfagnani/chessboard-element/))

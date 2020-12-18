@@ -43,3 +43,4 @@
 - [Awesome distributed, decentralized, p2p apps or tools](https://github.com/croqaz/awesome-decentralized)
 - [Maybe we shouldn't want a fully decentralized web (2020)](https://withblue.ink/2020/11/12/maybe-we-shouldnt-want-a-fully-decentralized-web.html) ([HN](https://news.ycombinator.com/item?id=25312854))
 - [Thinking About Decentralized Communities (2020)](https://gurlic.com/root/thinking-about-decentralized-communities) ([HN](https://news.ycombinator.com/item?id=25409715))
+- [Awesome anti-censorship](https://github.com/danoctavian/awesome-anti-censorship)

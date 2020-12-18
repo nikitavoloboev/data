@@ -16,3 +16,4 @@
 - [Learnable Programming (2012)](http://worrydream.com/#!/LearnableProgramming)
 - [How Observable Runs (2018)](https://observablehq.com/@observablehq/how-observable-runs)
 - [observablehq/runtime](https://github.com/observablehq/runtime) - Observable dataflow runtime.
+- [Programmable space](https://github.com/jhaip/programmable-space) - Bringing computing to the scale of a room makes it a communal and social experience.

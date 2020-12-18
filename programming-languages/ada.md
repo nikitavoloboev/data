@@ -10,3 +10,4 @@
 - [HN: Airbus Chooses GNAT Pro Ada for Development of Unmanned Aerial System (2020)](https://news.ycombinator.com/item?id=24488986)
 - [Alire](https://alire.ada.dev/) - Catalog of ready-to-use Ada libraries plus a command-line tool. ([Code](https://github.com/alire-project/alire)) ([Article](https://blog.adacore.com/first-beta-release-of-alire-the-package-manager-for-ada-spark)) ([HN](https://news.ycombinator.com/item?id=24956835))
 - [Cowgol](https://github.com/davidgiven/cowgol) - Self-hosted Ada-inspired programming language for very small systems.
+- [Ada Improvements Ideas](https://github.com/Entomy/Ada-Improvements)

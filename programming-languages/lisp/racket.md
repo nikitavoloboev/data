@@ -41,3 +41,4 @@
 - [2048 - Racket Edition](https://github.com/danprager/racket-2048) - Clean-room, functional implementation in Racket of the game 2048.
 - [racket-package-ci-action](https://github.com/jackfirth/racket-package-ci-action) - GitHub Action for building and testing Racket packages.
 - [Sauron](https://github.com/racket-tw/sauron) - IDE for Racket language.
+- [Typed Racket](https://github.com/racket/typed-racket) - Racket's gradually-typed sister language which lets you add statically-checked type annotations to your programs.

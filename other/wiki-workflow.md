@@ -130,6 +130,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Allan's Digital Garden](https://publish.obsidian.md/allanmacgregor/Meta/Index)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Aurelio](https://github.com/nobitagit/knowledge)
+- [Thomasorus's Garden](https://thomasorus.com/home.html)
 - [Yenly Ma TIL](https://til.yenly.wtf/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
@@ -283,3 +284,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [Memex](https://github.com/kormyen/memex) - Simple bookmarks and notes.
 - [POC on how a Memex could potentially work](https://github.com/steve-1820/memex)
+- [Agora](https://anagora.org/) - Distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph.

@@ -175,3 +175,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [Messaging Layer Security (MLS) Protocol](https://messaginglayersecurity.rocks/) ([Code](https://github.com/mlswg/mls-protocol))
 - [Messaging Layer Security (MLS) Architecture](https://github.com/mlswg/mls-architecture)
+- [rosen: censorship-resistant proxy tunnel (2020)](https://spacetime.dev/rosen-censorship-resistant-proxy-tunnel) ([Lobsters](https://lobste.rs/s/gkwrk2/rosen_censorship_resistant_proxy_tunnel))

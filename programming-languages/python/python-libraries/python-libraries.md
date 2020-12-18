@@ -13,6 +13,7 @@
 - [Flask](https://github.com/pallets/flask) - Python micro framework for building web applications. ([Docs](https://palletsprojects.com/p/flask/)) ([Flask Admin](https://github.com/flask-admin/flask-admin))
 - [Impacket](https://github.com/SecureAuthCorp/impacket) - Collection of Python classes for working with network protocols.
 - [instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods.
+- [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
 
 ## ML
 

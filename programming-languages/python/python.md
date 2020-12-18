@@ -234,3 +234,4 @@
 - [Legally Free Python Books List (2020)](https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [VizTracer](https://github.com/gaogaotiantian/viztracer) - Low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [PyCG](https://github.com/vitsalis/pycg) - Practical Python Call Graphs.
+- [Python at Scale: Strict Modules (2019)](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834) ([HN](https://news.ycombinator.com/item?id=25462168))

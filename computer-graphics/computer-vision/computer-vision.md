@@ -185,3 +185,5 @@
 - [Real-Time High-Resolution Background Matting (2020)](https://arxiv.org/abs/2012.07810) ([Code](https://github.com/PeterL1n/BackgroundMattingV2))
 - [Torchreid](https://github.com/KaiyangZhou/deep-person-reid) - Deep learning person re-identification in PyTorch.
 - [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
+- [img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation](https://github.com/vitoralbiero/img2pose)
+- [SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)

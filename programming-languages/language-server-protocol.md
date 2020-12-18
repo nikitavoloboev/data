@@ -10,3 +10,4 @@
 - [LSIF protocol utilities for Go](https://github.com/sourcegraph/lsif-protocol)
 - [lsp-test](https://github.com/bubba/lsp-test) - Functional testing framework for Language Server Protocol servers.
 - [algocodesearch](https://github.com/adrienjoly/algocodesearch) - Index symbols from a language server (LSP), for code search.
+- [LSIF.dev](https://lsif.dev/) - Community-driven source of knowledge for Language Server Index Format implementations.

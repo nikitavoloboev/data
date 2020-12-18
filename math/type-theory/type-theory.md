@@ -105,3 +105,4 @@
 - [Names are not type safety (2020)](https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/) ([HN](https://news.ycombinator.com/item?id=24963821))
 - [A Conversation on FRP, Databases, and Types (2020)](https://blog.wesleyac.com/posts/frp-databases-types)
 - [An extended type system with lambda-typed lambda-expressions (2020)](https://arxiv.org/abs/1803.10143)
+- [lambda-dti](https://github.com/ymyzk/lambda-dti) - Interpreter of the ITGL with dynamic type inference.

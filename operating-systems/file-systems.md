@@ -35,3 +35,4 @@
 - [The Perils of File Typing](https://invisibleup.com/articles/34/) ([HN](https://news.ycombinator.com/item?id=25322288))
 - [vfs](https://github.com/blang/vfs) - Virtual filesystem library written in Go.
 - [dino](https://github.com/nicolagi/dino) - Distributed FUSE filesystem for small volumes.
+- [Exploring the IBM Graphical Filesystem](https://casadevall.pro/articles/2020/12/exploring-the-ibm-graphical-filesystem/) ([Lobsters](https://lobste.rs/s/dsn99n/exploring_ibm_graphical_filesystem))

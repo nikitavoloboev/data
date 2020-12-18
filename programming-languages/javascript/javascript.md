@@ -245,3 +245,4 @@
 - [EStimator.dev](https://estimator.dev/) - Calculate the size and performance impact of switching to modern JavaScript syntax. ([Code](https://github.com/GoogleChromeLabs/estimator.dev))
 - [Publish, ship, and install modern JavaScript for faster applications (2020)](https://web.dev/publish-modern-javascript/)
 - [Universal JavaScript Build and Packaging](https://github.com/mikeal/ipjs)
+- [Maybe you don't need Rust and WASM to speed up your JS (2018)](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)

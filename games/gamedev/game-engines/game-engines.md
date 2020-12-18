@@ -60,6 +60,7 @@
 - [Halley](https://github.com/amzeratul/halley) - Lightweight game engine written in modern C++.
 - [Goodluck](https://github.com/piesku/goodluck) - Hackable template for creating small and fast browser games. ([Web](https://gdlck.com/))
 - [SuperTux](https://www.supertux.org/) - Open-source classic 2D jump'n run sidescroller game in a style similar to the original Super Mario games. ([Code](https://github.com/SuperTux/supertux))
+- [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) - Multi-platform 3D game engine. ([Web](https://flaxengine.com/))
 
 ## Physics engines
 

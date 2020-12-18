@@ -80,3 +80,5 @@
 - [Native Intelligence (2005)](https://www.smithsonianmag.com/history/native-intelligence-109314481/) ([HN](https://news.ycombinator.com/item?id=25171303))
 - [Cemetery of Soviet computers](https://rusue.com/cemetery-of-soviet-computers/)
 - [2020 In Photos: A Year Like No Other](https://www.nytimes.com/interactive/2020/world/year-in-pictures.html)
+- [CHM (Computer History Museum)](https://computerhistory.org/)
+- [The 100 Year Computer (2020)](https://thedorkweb.substack.com/p/the-100-year-computer) ([Lobsters](https://lobste.rs/s/feaa3d/100_year_computer))
