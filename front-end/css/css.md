@@ -240,4 +240,4 @@
 - [CSS Scroll Snap (2020)](https://ishadeed.com/article/css-scroll-snap/)
 - [Houdini.how](https://houdini.how/) ([HN](https://news.ycombinator.com/item?id=25361438))
 - [Panzoom](https://github.com/timmywil/panzoom) - Library for panning and zooming elements using CSS transforms.
-- [Centering in CSS (2020)](https://web.dev/centering-in-css/)
+- [Centering in CSS (2020)](https://web.dev/centering-in-css/) ([HN](https://news.ycombinator.com/item?id=25447511))

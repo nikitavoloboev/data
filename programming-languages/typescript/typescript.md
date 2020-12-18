@@ -125,6 +125,7 @@
 - [TypeScript 4.1 (2020)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/) ([HN](https://news.ycombinator.com/item?id=25155627))
 - [ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo.
 - [Tips for Performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ([HN](https://news.ycombinator.com/item?id=25199070))
+- [A case study on strict null checks (2020)](https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/) ([HN](https://news.ycombinator.com/item?id=25458777))
 
 ## Images
 

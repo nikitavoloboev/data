@@ -195,6 +195,10 @@
 - [gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs.
 - [go-eBPF](https://github.com/cilium/ebpf) - Pure Go library that provides utilities for loading, compiling, and debugging eBPF programs.
 
+## Error
+
+- [errors](https://github.com/juju/errors) - Provides an easy way to annotate errors without losing the original error context.
+
 ## Other
 
 - [go-funk](https://github.com/thoas/go-funk) - Modern Go utility library which provides helpers (map, find, contains, filter, ...).

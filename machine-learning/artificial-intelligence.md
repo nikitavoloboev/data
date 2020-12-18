@@ -51,3 +51,4 @@
 - [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
 - [State of the Art AI](https://www.stateoftheart.ai/) - Open-data and free platform built by the research community to facilitate the collaborative development of AI.
+- [OpenCog](https://github.com/opencog/opencog) - Framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI). In Scheme.

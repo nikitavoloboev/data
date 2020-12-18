@@ -79,3 +79,4 @@
 - [Toolbox](https://github.com/containers/toolbox) - Tool for Linux operating systems, which allows the use of containerized command line environments.
 - [Supercronic](https://github.com/aptible/supercronic) - Crontab-compatible job runner, designed specifically to run in containers.
 - [secrets-init](https://github.com/doitintl/secrets-init) - Minimalistic init system for containers with AWS/GCP secrets support.
+- [Understanding containers](https://www.redhat.com/en/topics/containers)

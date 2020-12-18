@@ -39,3 +39,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [gym-chess](https://github.com/genyrosk/gym-chess) - Simple chess environment for openai/gym.
 - [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/) ([HN](https://news.ycombinator.com/item?id=25446399))
 - [Chess Tempo](https://chesstempo.com/) - Online Chess Training.
+- [Playing chess is a life lesson in concentration (2020)](https://aeon.co/essays/playing-chess-is-an-essential-life-lesson-in-concentration) ([HN](https://news.ycombinator.com/item?id=25459731))

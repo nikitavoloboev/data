@@ -100,3 +100,4 @@ All active variables can be seen by running `env`.
 - [Become Shell Literate (2020)](https://drewdevault.com/2020/12/12/Shell-literacy.html) ([HN](https://news.ycombinator.com/item?id=25399058)) ([Lobsters](https://lobste.rs/s/qa2xyd/become_shell_literate))
 - [Ask HN: How do I become a shell god? (2020)](https://news.ycombinator.com/item?id=25403393)
 - [POSIX Shell and Utilities Quick Reference](http://shellhaters.org/)
+- [tab](https://github.com/austinjones/tab-rs) - Intuitive, config-driven terminal multiplexer designed for software & systems engineers.
