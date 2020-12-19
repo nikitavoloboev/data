@@ -73,6 +73,7 @@
 - [react-delta](https://github.com/malerba118/react-delta) - Experimental effects API for react.
 - [Compose react refs](https://github.com/seznam/compose-react-refs) - Small utility that composes two or more react refs into a ref callback.
 - [react-laag](https://github.com/everweij/react-laag) - Hooks to build things like tooltips, dropdown menu's and popovers in React. ([Web](https://www.react-laag.com/))
+- [React Hot Toast](https://github.com/timolins/react-hot-toast) - Lightweight, customizable and beautiful by default. ([Web](https://react-hot-toast.com/))
 
 ## Notes
 
