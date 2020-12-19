@@ -30,6 +30,7 @@
 
 ## Other
 
+- [Burberry London for Men cologne](https://www.fragrantica.com/perfume/Burberry/London-for-Men-804.html)
 - Chargers
   - Socket <-> USB
   - Socket <-> USB
