@@ -40,3 +40,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/) ([HN](https://news.ycombinator.com/item?id=25446399))
 - [Chess Tempo](https://chesstempo.com/) - Online Chess Training.
 - [Playing chess is a life lesson in concentration (2020)](https://aeon.co/essays/playing-chess-is-an-essential-life-lesson-in-concentration) ([HN](https://news.ycombinator.com/item?id=25459731))
+- [Ideal Chess – drop chess perfected? (2020)](https://www.lesswrong.com/posts/gXLqCxELLKZRTWoMc/ideal-chess-drop-chess-perfected) ([HN](https://news.ycombinator.com/item?id=25473355))
+- [Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess (2020)](https://arxiv.org/abs/2009.04374)

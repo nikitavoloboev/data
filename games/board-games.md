@@ -6,6 +6,7 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 
 - [Liberty or Death: The American Insurrection](https://boardgamegeek.com/boardgame/165872/liberty-or-death-american-insurrection)
 - [Articulate](https://boardgamegeek.com/boardgame/6541/articulate)
+- [Secret Hitler](https://www.secrethitler.com/)
 
 ## Links
 

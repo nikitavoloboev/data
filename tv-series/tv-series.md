@@ -13,3 +13,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [Subify](https://github.com/matcornic/subify) - Tool to download subtitles for your favorite TV shows and movies.
 - [Netflix shows that will make you think](https://nesslabs.com/netflix)
+- [FlixPatrol](https://flixpatrol.com/) - TOP 10 on Streaming in the World Today.

@@ -347,6 +347,7 @@ Here are few more things I liked, design wise.
 - [Michael McLoughlin](https://mmcloughlin.com/)
 - [Christopher Wood](https://chris-wood.github.io/)
 - [Benoit Grelard](https://benoit.works/)
+- [Timo Lins](https://timo.sh/) ([Code](https://github.com/timolins/timo-sh))
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
 - [Zach Holman](https://zachholman.com/)
