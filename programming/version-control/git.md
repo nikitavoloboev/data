@@ -204,3 +204,5 @@ I love Git and version control. And I use version control over any project I do.
 - [mob](https://github.com/remotemobprogramming/mob) - Tool for swift git handover. ([Web](https://mob.sh/))
 - [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control.
 - [Organise your commits (2020)](https://www.ncameron.org/blog/organise-your-commits/)
+- [Experimenting with git storage (2020)](https://nedbatchelder.com//blog/202012/experimenting_with_git_storage.html) ([Lobsters](https://lobste.rs/s/pqlm33/experimenting_with_git_storage))
+- [Fornalder](https://github.comn/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.

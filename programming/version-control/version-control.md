@@ -17,3 +17,4 @@
 - [Replicate](https://replicate.ai/) - Version control for machine learning. ([Code](https://github.com/replicate/replicate)) ([HN](https://news.ycombinator.com/item?id=25150638))
 - [Dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI.
 - [copernic](https://github.com/amirouche/copernic) - Versioned structured data, with change-request mechanic, at scale.
+- [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)

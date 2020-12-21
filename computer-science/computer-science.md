@@ -96,3 +96,4 @@
 - [Dijkstra: On the cruelty of teaching computing science](https://www.psy.gla.ac.uk/~steve/educ/dijk/EWD1036.v4.pdf) ([HN](https://news.ycombinator.com/item?id=25442016))
 - [Curated list of articles, resources and links on programming, math and computer science (2020)](https://www.reddit.com/r/compsci/comments/kczkk1/my_2020_curated_list_of_articles_resources_and/)
 - [Statecharts: A Visual Formalism for Complex Systems (1987)](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
+- [Counting Complexity](https://jellypbc.com/posts/ezmntq-counting-complexity) ([Lobsters](https://lobste.rs/s/lnszhq/counting_complexity))

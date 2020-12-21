@@ -102,6 +102,7 @@
 - [Uhaha](https://github.com/tidwall/uhaha) - High Availabilty Framework for Happy Data.
 - [httpcache](https://github.com/gregjones/httpcache) - Transport for http.Client that will cache responses according to the HTTP RFC.
 - [daz](https://github.com/stevelacy/daz) - Composable HTML components in Go.
+- [Alice](https://github.com/justinas/alice) - Painless middleware chaining for Go.
 
 ## GraphQL
 

@@ -74,3 +74,4 @@
 - [How to build a tool like Zapier using Lambda, SQS & DynamoDB (2020)](https://www.learnaws.org/2020/11/19/build-zapier-alternative/)
 - [Serverless-artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery for instant, cheap, and easy performance testing at scale.
 - [Cloudash](https://github.com/cloudashdev/cloudash) - Monitoring and troubleshooting app for serverless architectures.
+- [Back to the '70s with Serverless (2020)](http://evrl.com/devops/cloud/2020/12/18/serverless.html) ([HN](https://news.ycombinator.com/item?id=25482410)) ([Lobsters](https://lobste.rs/s/9o4zsx/back_70s_with_serverless))
