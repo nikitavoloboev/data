@@ -28,6 +28,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Hugo Book Theme](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book.
 - [Terminal](https://github.com/panr/hugo-theme-terminal) - Simple, retro theme for Hugo.
 - [Call me Sam](https://github.com/victoriadrake/hugo-theme-sam) - Simple and Minimalist theme for Hugo with a focus on typography and content.
+- [Ezhil](https://github.com/vividvilla/ezhil) - Clean and minimal personal blog and portfolio theme for Hugo.
 
 ## Examples
 

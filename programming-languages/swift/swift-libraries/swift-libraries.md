@@ -143,6 +143,7 @@
 - [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes.
 - [FloatingFilter](https://github.com/CleanCocoa/FloatingFilter) - Display things in an app-modal floating window that users can fuzzy-filter by typing ahead.
 - [mac-open-with](https://github.com/karaggeorge/mac-open-with) - Open a file with an installed app on macOS.
+- [Uberabout](https://github.com/martinlexow/Uberabout) - Replaces the default “About” window in your macOS app with an aesthetically pleasing one.
 
 ## Web
 
@@ -525,6 +526,8 @@
 - [CloudStorage](https://github.com/tomlokhorst/CloudStorage) - Sync settings through iCloud key-value storage.
 - [OpenGraph](https://github.com/satoshi-takano/OpenGraph) - Swift wrapper for the Open Graph protocol (OGP).
 - [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - Animatable view that depicts multiple progresses over time. Modeled after UIProgressView.
+- [swift-parsing](https://github.com/pointfreeco/swift-parsing) - Library for turning nebulous data into well-structured data, with a focus on composition, performance, and generality.
+- [OpenTelemetry Swift](https://github.com/slashmo/opentelemetry-swift) - OpenTelemetry Tracer built for Swift Distributed Tracing.
 
 ## Other (not lib)
 

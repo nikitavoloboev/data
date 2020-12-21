@@ -101,3 +101,5 @@
 - [Zuko](https://github.com/ravern/zuko) - Basic Lisp-like programming language.
 - [Lisp Books](https://www.pinterest.co.uk/vseloved/lisp-books/)
 - [Ask HN: I want to start learning Lisp. Where do I begin? (2020)](https://news.ycombinator.com/item?id=25441664)
+- [Getting started with Lisp in 2019](https://smalldata.tech/blog/2019/08/16/getting-started-with-lisp-in-2019) ([HN](https://news.ycombinator.com/item?id=25493495))
+- [Lisp Hackers](https://leanpub.com/lisphackers/read) - Interviews with 100x More Productive Programmers.

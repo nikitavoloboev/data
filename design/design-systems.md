@@ -52,6 +52,7 @@
 - [Arcade Design](https://arcade.design/) - React components you need in all your projects to focus on solving the problems and launch faster.
 - [ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
 - [Forma 36](https://f36.contentful.com/) - Contentful Design System. ([Code](https://github.com/contentful/forma-36))
+- [Blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web. ([Code](https://github.com/palantir/blueprint))
 
 ## Notes
 

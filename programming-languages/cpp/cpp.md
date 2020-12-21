@@ -172,3 +172,4 @@
 - [C++20 Standard Published (2020)](https://www.iso.org/standard/79358.html) ([Reddit](https://www.reddit.com/r/cpp/comments/kdrwya/c20_published_isoiec_148822020/))
 - [CPPINCLUDE](https://github.com/cppinclude/cppinclude) - Tool for analyzing includes in C++.
 - [C/C++ Compiler Cheatsheet](http://www.dmulholl.com/notes/c-compiler-cheatsheet.html)
+- [Data Parallel C++](https://link.springer.com/book/10.1007%2F978-1-4842-5574-2)

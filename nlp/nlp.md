@@ -6,7 +6,7 @@
 - [Adding voice control to your projects](https://medium.com/hackers-at-cambridge/adding-voice-control-to-your-projects-7096fdee7c45)
 - [Increasing data science productivity; founders of spaCy & Prodigy](https://www.youtube.com/watch?v=jB1-NukGZm0)
 - [Course materials for "Natural Language" course](https://github.com/jacobeisenstein/gt-nlp-class)
-- [NLP progress](https://github.com/sebastianruder/NLP-progress) - Track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art across the most common NLP tasks and their corresponding datasets.
+- [NLP progress](https://github.com/sebastianruder/NLP-progress) - Track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art across the most common NLP tasks and their corresponding datasets. ([Web](https://nlpprogress.com/))
 - [Natural](https://github.com/NaturalNode/natural) - General natural language facilities for Node.
 - [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course)
 - [PyText](https://github.com/facebookresearch/pytext) - Natural language modeling framework based on PyTorch.
@@ -207,3 +207,4 @@
 - [Big Bird: Transformers for Longer Sequences](https://github.com/google-research/bigbird)
 - [NLP PyTorch Tutorial](https://github.com/will-thompson-k/deeplearning-nlp-models)
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://github.com/jasonwei20/eda_nlp)
+- [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations (2019)](https://arxiv.org/abs/1909.01441) ([Code](https://github.com/ZihanWangKi/CrossWeigh))

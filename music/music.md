@@ -90,3 +90,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [TIDAL](https://tidal.com/) - High Fidelity Music Streaming.
 - [Plotting patterns in music with a fantasy record player (2020)](http://www.windytan.com/2020/12/plotting-patterns-in-music-with-fantasy.html) ([HN](https://news.ycombinator.com/item?id=25414742))
 - [JQBX](https://jqbx.fm/) - Lets you play & listen to music in sync with friends or public groups.
+- [Rainy vibes](https://vaporwaver.netlify.app/)

@@ -80,3 +80,4 @@
 - [What does BCH offer that Ethereum don't already offer? (2020)](https://www.reddit.com/r/btc/comments/keu3nw/what_does_bch_offer_that_ethereum_dont_already/)
 - [Teleport Transactions](https://github.com/bitcoin-teleport/teleport-transactions) - Software aiming to improve the privacy of bitcoin.
 - [Bitcoin Archive](http://towardsliberty.com/bitcoin)
+- [Data on how people rely on Bitcoin to escape high inflation, extortionate remittances, frozen accounts, sanctions, financial isolation (2020)](https://twitter.com/gladstein/status/1340835463620259841)

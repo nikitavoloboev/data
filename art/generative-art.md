@@ -94,3 +94,4 @@
 - [Generative.fm](https://generative.fm/) - Platform for playing generative music in the browser. ([Code](https://github.com/generative-music/generative.fm))
 - [Creative Code-Generated Art](https://www.editorx.com/shaping-design/article/creative-coding) ([HN](https://news.ycombinator.com/item?id=25453252))
 - [Texture, from Nothing](https://austinjones.onfabrik.com/portfolio/texture-from-nothing)
+- [Generative Art in Go (2020)](https://gumroad.com/l/generative-art-in-golang) ([Pre Order](https://www.notion.so/Thank-you-for-pre-ordering-dd509d927f854da09d96982d2d425462))

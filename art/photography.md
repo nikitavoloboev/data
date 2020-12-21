@@ -88,6 +88,8 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Isolate](https://github.com/seenaburns/isolate) - Lightweight tool for viewing and organizing your art reference and inspiration with ease.
 - [Cameras and Lenses (2020)](https://ciechanow.ski/cameras-and-lenses/) ([HN](https://news.ycombinator.com/item?id=25357315))
 - [Дима Малей про фотографию, веру и искушение творческих натур (2020)](https://www.youtube.com/watch?v=fDeq422sXJc)
-- [Understanding ProRAW (2020)](https://blog.halide.cam/understanding-proraw-4eed556d4c54) ([HN](https://news.ycombinator.com/item?id=25433047))
+- [Understanding ProRAW (2020)](https://blog.halide.cam/understanding-proraw-4eed556d4c54) ([HN](https://news.ycombinator.com/item?id=25433047)) ([Tweet](https://twitter.com/gerudes/status/1339835569883504640))
 - [Ultra High Resolution Photos of Snowflakes](https://smosa.com/cool-ultra-high-resolution-photos-of-snowflakes-because-science/) ([HN](https://news.ycombinator.com/item?id=25414579))
 - [The best science images of 2020](https://www.nature.com/immersive/d41586-020-03436-5/index.html)
+- [Вычислительная фотография 2.0 (2020)](https://jejeya.pictures/future_of_photography)
+- [George Jejeya Photography Blog](https://jejeya.pictures/blog)

@@ -31,6 +31,7 @@
 - [Typera](https://github.com/akheron/typera) - Type-safe routes for Express and Koa.
 - [Frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript. ([Web](https://frourio.io/))
 - [Svelto](https://github.com/svelto/svelto) - Modular front end framework for modern browsers, with battery included: 100+ widgets and tools.
+- [modular](https://github.com/jpmorganchase/modular) - Collection of tools and guidance to enable UI development at scale. ([Tweet](https://twitter.com/threepointone/status/1340620223993540608))
 
 ## Animation
 
@@ -398,6 +399,7 @@
 - [yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure.
 - [Nano JSX](https://github.com/nanojsx/nano) - Lightweight 1kB JSX library. ([Web](https://nanojsx.github.io/))
 - [Effects.js](https://github.com/nythrox/effects.js) - Algebraic effects in javascript with scoped handlers, multishot delimited continuations, stack safety and do notation.
+- [flatten-js](https://github.com/alexbol99/flatten-js) - JavaScript library for 2d geometry.
 
 ## Links
 

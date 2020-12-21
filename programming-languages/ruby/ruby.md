@@ -48,3 +48,5 @@
 - [Ruby Code Examples Vs. Python Code Examples (2020)](https://www.connerjensen.com/blog/ruby-code-examples)
 - [Inspecting the Contents of a Ruby Gem (2020)](https://batsov.com/articles/2020/12/16/inspecting-the-contents-of-a-ruby-gem/)
 - [Learn Sorbet in Y minutes (2020)](https://jdkaplan.dev/blog/learn-sorbet-in-y-minutes/)
+- [Polished Ruby Programming book](https://github.com/PacktPublishing/Polished-Ruby-Programming)
+- [Ruby 3.0.0 RC1 Released (2020)](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/) ([HN](https://news.ycombinator.com/item?id=25494789))

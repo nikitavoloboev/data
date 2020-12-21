@@ -299,3 +299,4 @@
 - [Awesome Live Coding](https://github.com/toplap/awesome-livecoding) - Curated list of live coding languages and tools.
 - [Shitlist Driven Development (2016)](https://sirupsen.com/shitlists/)
 - [How Tail Call Optimization Works (2020)](https://eklitzke.org/how-tail-call-optimization-works)
+- [On developer metrics - Time to debug (2020)](https://samsaccone.com/posts/time-to-debug.html) ([Tweet](https://twitter.com/samccone/status/1340745781096054784))

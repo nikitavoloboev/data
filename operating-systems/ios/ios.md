@@ -270,3 +270,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [A former Uber engineer's disaster story (2020)](https://twitter.com/stantwinb/status/1336890442768547845) ([HN](https://news.ycombinator.com/item?id=25373462)) ([Lobsters](https://lobste.rs/s/fzvd1v/former_uber_engineer_s_disaster_story))
 - [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) - App for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 - [iOS Rules for Bazel](https://github.com/bazel-ios/rules_ios)
+- [Device and Data Access when Personal Safety is At Risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
+- [iOS Safari UI Kit](https://www.figma.com/community/file/922738986195002030)

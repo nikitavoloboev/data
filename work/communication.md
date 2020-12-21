@@ -9,6 +9,7 @@
 - [Bell ran a study to find out what the most productive engineers did differently from their peers. The answer was communication. They did a lot more of it. They bounced ideas with co-workers, they validated solutions with customers, they did their own research, and so on.](https://news.ycombinator.com/item?id=25030938)
 - [The key to success is overcommunicating.](https://news.ycombinator.com/item?id=25120207)
 - [Pay attention to who you have the highest-bandwidth conversations with (i.e., important ideas are exchanged quickly and clearly). Work with those people any way you can.](https://twitter.com/sama/status/1333491951249760256)
+- [Respect and honesty are the foundation layer that all human contact is built upon. Whatever the situation and whoever we're talking to, let's offer respect, and let's be deserving of people's trust. Offline or online, it doesn't matter.](https://twitter.com/fchollet/status/1340859937782697986)
 
 ## Links
 

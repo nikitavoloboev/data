@@ -16,3 +16,4 @@
 - [Safety and Liveness Properties (2020)](https://buttondown.email/hillelwayne/archive/safety-and-liveness-properties/)
 - [TLA+ at Microsoft to build planetary-scale systems (2020)](https://www.youtube.com/watch?v=UVHnuxWZkvk) ([HN](https://news.ycombinator.com/item?id=25426030))
 - [TLA+ Community Event & Conference](http://conf.tlapl.us/home/)
+- [Modeling TLA+ in Z3Py (2020)](https://www.philipzucker.com/Modelling_TLA_in_z3py/)

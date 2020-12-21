@@ -249,6 +249,7 @@
 - [My First Micro-SaaS, From 0–10 Customers (2018)](https://blog.rchase.com/my-first-saas-from-0-10-customers/) ([Tweet](https://twitter.com/_rchase_/status/1334647419003412484))
 - [Lessons for Early Stage Founders (2020)](https://calv.info/early-stage-lessons) ([HN](https://news.ycombinator.com/item?id=25321667))
 - [The Hardest Lessons for Startups to Learn (2006)](http://www.paulgraham.com/startuplessons.html)
+- [Startup Stock Options – Why A Good Deal Has Gone Bad (2019)](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
 
 ## Images
 

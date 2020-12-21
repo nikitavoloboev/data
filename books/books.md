@@ -318,3 +318,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books Search with Typesense](https://books-search.typesense.org/) - Instantly search 28M books from OpenLibrary (by Internet Archive). ([HN](https://news.ycombinator.com/item?id=25414389)) ([Code](https://github.com/typesense/showcase-books-search))
 - [A Book Like Foo](https://abooklikefoo.com/escape/) - Powerful Book Recommendations. ([HN](https://news.ycombinator.com/item?id=25405259))
 - [Open Library](https://openlibrary.org/) - Open, editable library catalog, building towards a web page for every book ever published. ([Code](https://github.com/internetarchive/openlibrary))
+- [Packt](https://www.packtpub.com/eu/) - Programming Books, eBooks & Videos for Developers.

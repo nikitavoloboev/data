@@ -100,3 +100,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Pre Installer](https://github.com/alexandergall/nixos-pxe-installer) - Set of modules to perform a fully automated installation of a customized NixOS system.
 - [krops](https://github.com/krebs/krops) - Lightweight toolkit to deploy NixOS systems, remotely or locally.
 - [TangeriNixOS](https://github.com/Pamplemousse/tangerinixos) - NixOS tailored for pentesting.
+- [Methods for building custom NixOS AMIs](https://github.com/nh2/nixos-ami-building)

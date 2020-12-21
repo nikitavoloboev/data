@@ -4,11 +4,12 @@
 
 ## Accelerators
 
-- [Techstars](http://www.techstars.com)
+- [Techstars](https://www.techstars.com/)
 - [Entrepreneur First Berlin](https://www.joinef.com/)
 - [Plug & Play](https://www.plugandplaytechcenter.com/)
 - [500 startups](https://500.co/)
 - [Antler](https://www.antler.co/)
+- [Disney Accelerator](https://disneyaccelerator.com/)
 
 ## Nice rewards
 
@@ -88,3 +89,4 @@
 - [VenturesList](https://ventureslist.com/) - Startup Investment Library.
 - [Leave Design](https://leave.design/) - Get your Pitch Deck updated instantly by a professional designer.
 - [Floodgate](https://floodgate.com/) - Backs the top .1% founders.
+- [How to raise a seed round (2020)](https://twitter.com/yoheinakajima/status/1340774204019359744)

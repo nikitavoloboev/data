@@ -364,6 +364,7 @@ Here are few more things I liked, design wise.
 - [Robert Squires](https://robertsquires.co.uk/)
 - [Mathias Schäfer](https://molily.de/)
 - [Marvin Schwaibold](https://www.marvinschwaibold.com/)
+- [Martin Lexow](https://martinlexow.de/)
 - [Paul Shen](https://bypaulshen.com/)
 - [Ian Jones](https://www.ianjones.us/) ([Code](https://github.com/theianjones/blog))
 - [Kuldar Kalvik](https://kuldar.com/) ([Code](https://github.com/kuldar/kuldar-2020))

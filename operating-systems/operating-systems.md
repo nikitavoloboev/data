@@ -75,6 +75,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Rumprun](https://github.com/rumpkernel/rumprun) - Uses rump kernels to provide the Rumprun unikernel. Rumprun works on not only on hypervisors such as KVM and Xen, but also on bare metal.
 - [Rump Kernels](http://rumpkernel.org/) - Enable you to build the software stack you need without forcing you to reinvent the wheels.
 - [mOS](https://github.com/MQuy/mos) - Unix-like operating system developed from scratch and aims to POSIX compliant.
+- [pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) - Project to resurrect Unix on the PDP-7 from a scan of the original assembly code.
 
 ## Notes
 

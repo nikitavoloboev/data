@@ -67,3 +67,4 @@ Success comes from not giving up and doing what you love.
 - [Getting Big Things Done (2020)](http://brooker.co.za/blog/2020/10/19/big-changes.html)
 - [From McDonald’s to Google: How Kelsey Hightower became one of the most respected people in cloud computing (2020)](https://www.protocol.com/kelsey-hightower-google-cloud) ([HN](https://news.ycombinator.com/item?id=24942908))
 - [Consume Less. Create More. It’s More Fun. (2020)](https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04)
+- [Lessons from Ted Lasso Show (2020)](https://twitter.com/Bosefina/status/1340753804808040448)

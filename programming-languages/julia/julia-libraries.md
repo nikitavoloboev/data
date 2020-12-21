@@ -17,6 +17,7 @@
 - [GeometricFlux.jl](https://github.com/yuehhua/GeometricFlux.jl) - Geometric deep learning library for Flux.
 - [FluxTraining.jl](https://github.com/lorenzoh/FluxTraining.jl) - Flexible neural net training library inspired by fast.ai. ([Docs](https://lorenzoh.github.io/FluxTraining.jl/dev/README.html))
 - [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) - Local, global, and beyond optimization for scientific machine learning (SciML).
+- [DiffEqGPU](https://github.com/SciML/DiffEqGPU.jl) - GPU-acceleration routines for DifferentialEquations.jl and the broader SciML scientific machine learning ecosystem.
 
 ## Math
 

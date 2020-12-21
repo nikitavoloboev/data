@@ -26,3 +26,5 @@
 - [Dragonfly](https://github.com/df-mc/dragonfly) - Minecraft (Bedrock Edition) server software written in Go.
 - [Mojang API Documentation](https://mojang-api-docs.netlify.app/) ([Code](https://github.com/88/mojang-api-docs))
 - [Understanding Minecraft Performance (2011)](http://optifog.blogspot.com/2011/08/understanding-minecraft-performance.html)
+- [SniffCraft](https://github.com/adepierre/SniffCraft) - Simple C++ program to capture and display all traffic between a client and a server in minecraft.
+- [LiquidBounce](https://liquidbounce.net/) - Free Minecraft Forge Hacked Client. ([Code](https://github.com/CCBlueX/LiquidBounce))

@@ -4,6 +4,7 @@
 
 - [Pijul](https://nest.pijul.com/pijul_org/pijul) - Version control system based on patches. Its fundamental promise is that two patches producible in parallel always commute. ([HN](https://news.ycombinator.com/item?id=22021309)) ([Article](https://initialcommit.com/blog/pijul-version-control-system)) ([Lobsters](https://lobste.rs/s/sikahv/pijul_mathematically_sound_version))
 - [Pijul: Towards 1.0 (2020)](https://pijul.org/posts/2020-11-07-towards-1.0/) ([Lobsters](https://lobste.rs/s/ml1n24/pijul_towards_1_0)) ([HN](https://news.ycombinator.com/item?id=25032956))
+- [Commutation and scalability (2020)](https://pijul.org/posts/2020-12-19-partials/)
 - [Mercurial's Journey to and Reflections on Python 3 (2020)](https://gregoryszorc.com/blog/2020/01/13/mercurial%27s-journey-to-and-reflections-on-python-3/) ([Lobsters](https://lobste.rs/s/pnuak4/mercurial_s_journey_reflections_on))
 - [changesets](https://github.com/atlassian/changesets) - Way to manage your versioning and changelogs with a focus on multi-package repositories.
 - [Ask HN: Do you ever truly use your revision history? (2020)](https://news.ycombinator.com/item?id=22516414)
@@ -18,3 +19,4 @@
 - [Dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI.
 - [copernic](https://github.com/amirouche/copernic) - Versioned structured data, with change-request mechanic, at scale.
 - [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
+- [Gource](https://gource.io/) - Software version control visualization tool. ([Code](https://github.com/acaudwell/Gource))

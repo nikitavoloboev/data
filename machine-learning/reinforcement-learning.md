@@ -145,3 +145,5 @@
 - [banditml](https://github.com/banditml/banditml) - Lightweight contextual bandit & reinforcement learning library designed to be used in production Python services.
 - [SUMO-RL](https://github.com/LucasAlegre/sumo-rl) - Provides a simple interface to instantiate Reinforcement Learning environments with SUMO for Traffic Signal Control.
 - [PyGeneses](https://github.com/Project-DC/pygeneses) - PyTorch based DeepRL framework to train and study artificial species in bio-inspired environments. ([Docs](https://project-dc.github.io/docs/doc.html)) ([Article](https://medium.com/pytorch/pygeneses-a-deep-reinforcement-learning-framework-to-understand-complex-behaviour-b53aed0181f9))
+- [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)](http://amid.fish/reproducing-deep-rl)
+- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning toolkit for compiler optimizations.

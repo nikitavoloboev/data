@@ -12,7 +12,7 @@
 - [TorchCV](https://github.com/donnyyou/torchcv) - PyTorch-Based Framework for Deep Learning in Computer Vision.
 - [AI Habitat](https://github.com/facebookresearch/habitat-sim) - Flexible, high-performance 3D simulator for Embodied AI research.
 - [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
-- [Roboflow](https://roboflow.ai/) - Accelerates computer vision development.
+- [Roboflow](https://roboflow.com/) - Raw images to trained computer vision model.
 - [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.
 - [How to Convert a Picture to Numbers](https://brohrer.github.io/images_to_numbers.html)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -187,3 +187,4 @@
 - [Unsupervised Embedding Learning via Invariant and Spreading Instance Feature](https://github.com/mangye16/Unsupervised_Embedding_Learning)
 - [img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation](https://github.com/vitoralbiero/img2pose)
 - [SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
+- [PCT: Point Cloud Transformer (2020)](https://arxiv.org/pdf/2012.09688.pdf) ([Code](https://github.com/MenghaoGuo/PCT))

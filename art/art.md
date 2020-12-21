@@ -336,6 +336,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Baud Postma](https://www.instagram.com/baudpostma/)
 - [Om Malik](https://www.instagram.com/om/)
 - [Richard Avedon](https://www.avedonfoundation.org/the-work)
+- [George Jejeya](https://www.instagram.com/gerudes/)
 - [Eva Milkonskaya](https://www.instagram.com/evamilkonskaya/)
 - [Bao Ngo's photos](https://twitter.com/coldtakesonly/status/1315838653206323200)
 - [Pip](https://www.instagram.com/bypip/) ([Web](https://www.bypip.co.uk/))
@@ -386,3 +387,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Metropolitan Museum of Art](https://www.metmuseum.org/)
 - [openArtBrowser](https://openartbrowser.org/en/) - Exploring the world of arts using open data. ([Code](https://github.com/hochschule-darmstadt/openartbrowser))
 - [Noguchi Museum](https://www.noguchi.org/)
+- [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Deep Learning based project for creating line art portraits.

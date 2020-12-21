@@ -589,6 +589,8 @@
 - [JMESPath Rust](https://github.com/jmespath/jmespath.rs) - Rust implementation of JMESPath, a query language for JSON.
 - [stream-cancel](https://github.com/jonhoo/stream-cancel) - Rust library for interrupting asynchronous streams.
 - [Mutation](https://github.com/zesterer/mutation) - Unleash the power of nightly Rust to write code that's generic over mutation.
+- [evmap](https://github.com/jonhoo/evmap) - Lock-free, eventually consistent, concurrent multi-value map.
+- [RustFFT](https://github.com/ejmahler/RustFFT) - Mixed-radix FFT library written in pure Rust.
 
 ## Cargo Plugins
 

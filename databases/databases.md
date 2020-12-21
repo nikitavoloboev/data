@@ -5,6 +5,7 @@
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
+- [TerarkDB](https://github.com/bytedance/terarkdb) - RocksDB compatible KV storage engine with better performance.
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GoLevelDB](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome))
@@ -115,6 +116,7 @@
 - [Eva](https://github.com/Workiva/eva) - Distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 - [Firestore](https://cloud.google.com/firestore) - Develop rich applications using a fully managed, scalable, and serverless document database. ([Intro](https://ncona.com/2020/12/introduction-to-google-firestore/)) ([Running Google Firestore locally](https://ncona.com/2020/12/running-google-firestore-locally/))
 - [Graphik](https://github.com/graphikDB/graphik) - Identity-aware, permissioned, persistant document/graph database & pubsub server written in Go.
+- [AIStore](https://github.com/NVIDIA/aistore) - Lightweight object storage system with the capability to linearly scale-out with each added storage node and a special focus on petascale deep learning. ([Web](https://nvidia.github.io/aistore/))
 
 ## Tools
 

@@ -368,3 +368,6 @@
 - [What I wish someone had told me about tensor computation libraries (2020)](https://eigenfoo.xyz/tensor-computation-libraries/) ([HN](https://news.ycombinator.com/item?id=25435028))
 - [Machine learning could be fundamentally unexplainable (2020)](https://cerebralab.com/Machine_learning_could_be_fundamentally_unexplainable)
 - [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Awesome JAX](https://github.com/n2cholas/awesome-jax)
+- [Machine Learning Productivity Hacks (2019)](http://amid.fish/ml-productivity)
+- [Learn Deep Learning: Powerful Mental Models to Accelerate Your Journey (2020)](https://gumroad.com/l/learn_deep_learning) ([Tweet](https://twitter.com/radekosmulski/status/1340705699521769474))

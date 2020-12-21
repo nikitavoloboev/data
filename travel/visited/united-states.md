@@ -30,3 +30,4 @@
 - [Pros and cons of living in SF (2020)](https://twitter.com/wongmjane/status/1330894344228749314)
 - [MainStreet](https://mainstreet.us/) - For startups. You're owed over $50,000. We'll get it back for you.
 - [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
+- [Why I left the U.S. (2020)](https://arslan.io/2020/12/20/why-i-left-the-us/) ([Tweet](https://twitter.com/fatih/status/1340662798175580163))

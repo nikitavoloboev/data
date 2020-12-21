@@ -127,6 +127,7 @@
 - [Tips for Performant TypeScript](https://github.com/microsoft/TypeScript/wiki/Performance) ([HN](https://news.ycombinator.com/item?id=25199070))
 - [A case study on strict null checks (2020)](https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/) ([HN](https://news.ycombinator.com/item?id=25458777))
 - [TypeScript LSIF indexer](https://github.com/sourcegraph/lsif-node)
+- [ttypescript (Transformer TypeScript)](https://github.com/cevek/ttypescript) - TypeScript tool to use custom transformers in the tsconfig.json.
 
 ## Images
 

@@ -20,3 +20,4 @@
 - [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - Community maintained collection of Substrate runtime modules.
 - [polkadot-launch](https://github.com/paritytech/polkadot-launch) - Simple CLI tool to launch a local Polkadot test network.
 - [Acala Network](https://github.com/AcalaNetwork/Acala) - Cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. ([Web](https://acala.network/))
+- [Polkassembly](https://kusama.polkassembly.io/) - Place to discuss and vote on Kusama and Polkadot governance. ([Code](https://github.com/paritytech/polkassembly))

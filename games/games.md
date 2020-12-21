@@ -140,3 +140,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [On Small Games](https://lorenzo.itch.io/on-small-games) ([HN](https://news.ycombinator.com/item?id=25188542))
 - [Apple Silicon Games](https://applesilicongames.com/) ([HN](https://news.ycombinator.com/item?id=25342385))
 - [The Card Player's Guide To Lockdown (2020)](https://blog.zdsmith.com/posts/the-card-players-guide-to-lockdown.html)
+- [SimulationCraft](https://github.com/simulationcraft/simc) - Tool to explore combat mechanics in the popular MMO RPG World of Warcraft.

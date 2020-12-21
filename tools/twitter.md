@@ -3,6 +3,7 @@
 ## Notes
 
 - Can search over my own Twitter profile with Nitter [like so](https://nitter.net/nikitavoloboev/search?f=tweets&q=pretty&since=&until=&near=).
+- [To prevent usernames and URLs from being converted to links, interrupt them with a zero-width space.](https://twitter.com/markdalgleish/status/1340897088486273034)
 
 ## Links
 

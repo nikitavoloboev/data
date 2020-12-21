@@ -97,3 +97,4 @@
 - [HTTP/2 Push is dead (2020)](https://evertpot.com/http-2-push-is-dead/) ([HN](https://news.ycombinator.com/item?id=25283971)) ([Lobsters](https://lobste.rs/s/zmnxza/http_2_push_is_dead))
 - [serve-http](https://github.com/rsms/serve-http) - Simple single-file local web server.
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working http and https servers.
+- [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.

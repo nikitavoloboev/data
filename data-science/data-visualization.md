@@ -69,3 +69,4 @@
 - [From data to Viz](https://www.data-to-viz.com/) - Find the graphic you need. ([Code](https://github.com/holtzy/data_to_viz))
 - [hvPlot](https://github.com/holoviz/hvplot) - High-level plotting API for pandas, dask, xarray, and networkx built on HoloViews. ([Docs](https://hvplot.holoviz.org/))
 - [HoloViz](https://holoviz.org/) - High-level tools to simplify visualization in Python. ([GitHub](https://github.com/holoviz))
+- [tikzplotlib](https://github.com/nschloe/tikzplotlib) - Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.

@@ -75,3 +75,4 @@
 - [Bayesian Analysis with Python book](https://github.com/aloctavodia/BAP)
 - [What are the most important statistical ideas of the past 50 years? (2020)](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/)
 - [Probability Distribution Toolbox](https://github.com/ccanonne/probabilitydistributiontoolbox) - Folklore facts on probability distribution learning, testing, and whatever-ing.
+- [Uncertainty Baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.

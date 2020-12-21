@@ -60,6 +60,7 @@
 - [capnp-ocaml](https://github.com/capnproto/capnp-ocaml) - OCaml code generator plugin for the Cap'n Proto serialization framework.
 - [TyXML](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents.
 - [parany](https://github.com/UnixJunkie/parany) - Parallelize any kind of computation.
+- [Metrics](https://github.com/mirage/metrics) - Infrastructure to collect metrics from OCaml applications.
 
 ## Links
 
