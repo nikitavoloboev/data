@@ -241,3 +241,4 @@
 - [Turn a $30 USB switch into a full-featured KVM](https://github.com/haimgel/display-switch)
 - [Entry-level Linux Ricing](https://aptrinh.js.org/manjaro-rice.html)
 - [Static calls in Linux 5.10 (2020)](https://blog.yossarian.net/2020/12/16/Static-calls-in-Linux-5-10) ([HN](https://news.ycombinator.com/item?id=25453663))
+- [eBPF is awesome (2020)](https://filipnikolovski.com/posts/ebpf/) ([HN](https://news.ycombinator.com/item?id=25490138))
