@@ -10,3 +10,5 @@
 - [Про страхи Путина, психа Лукашенко и геев в армии (2020)](https://www.youtube.com/watch?v=pMWyzudWioY)
 - [Russian Urban Exploration](https://rusue.com/)
 - [Дмитрий Марков и Поля из деревки там, куда редко ездят по своей воле (2020)](https://www.youtube.com/watch?v=9Bv2zltQKQA)
+- [Медиазона](https://zona.media/)
+- [KGB Files YouTube](https://www.youtube.com/channel/UCZqIDYYURLSDJLTsw58u24w/videos)

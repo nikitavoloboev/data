@@ -60,6 +60,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Piazzolla font family](https://piazzolla.huertatipografica.com/) ([Code](https://github.com/huertatipografica/piazzolla))
 - [Ellograph](https://connary.com/ellograph.html) - Friendly monospaced typeface with a soft, rounded construction and striking cursive italics.
 - [Source Sans Pro](https://adobe-fonts.github.io/source-sans-pro/) - Set of OpenType fonts that have been designed to work well in user interface (UI) environments. ([Code](https://github.com/adobe-fonts/source-sans-pro))
+- [Operator](https://www.typography.com/fonts/operator/overview)
+- [Consolas](https://www.lucasfonts.com/custom/consolas-overview)
 
 ## Links
 

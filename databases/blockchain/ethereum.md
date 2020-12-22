@@ -130,3 +130,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Radspec](https://github.com/aragon/radspec) - Safe interpreter for dynamic expressions in Ethereum's NatSpec.
 - [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm) - Ethereum evm bytecode disassembler and static/dynamic analysis tool.
 - [ethers.rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust.
+- [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics.

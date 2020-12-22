@@ -14,6 +14,7 @@
 - [Impacket](https://github.com/SecureAuthCorp/impacket) - Collection of Python classes for working with network protocols.
 - [instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods.
 - [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
+- [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
 
 ## ML
 
@@ -254,6 +255,7 @@
 - [cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
 - [structlog](https://github.com/hynek/structlog) - Structured Logging for Python.
 - [JMESPath.py](https://github.com/jmespath/jmespath.py) - Declaratively specify how to extract elements from a JSON document.
+- [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettifies Python exception output to make it legible.
 
 ## Links
 

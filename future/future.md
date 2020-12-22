@@ -15,6 +15,7 @@
 - Ability to control computers with thoughts at high bandwidth.
 - Smarter cities that are friendly to humans, not cars.
 - A lot of designated areas across the globe given back to wildlife to flourish.
+- No dictators. Every country has proper democratic process with fairly elected leaders. Countries/cities compete for best talent.
 
 ## Links
 

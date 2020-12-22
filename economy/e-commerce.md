@@ -59,3 +59,4 @@
 - [Sanity.io and Next.js Ecommerce Starter](https://github.com/kmelve/next-js-e-commerce)
 - [Spree Commerce](https://github.com/spree/spree) - Open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL. ([Web](https://spreecommerce.org/))
 - [Ecommerce Site Search Best Practices for 2021](https://searchnode.com/blog/ecommerce-site-search-best-practices/)
+- [RetentionX](https://www.retentionx.com/) - AI for Shopify.

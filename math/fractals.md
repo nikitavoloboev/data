@@ -46,3 +46,4 @@
 - [Fractal Explorer](https://github.com/ChrisWhealy/fractal_explorer) - Calculates Mandelbrot and Julia Set images using Rust/WASM.
 - [Pixel Play](https://anvaka.github.io/pplay/) - Like Google Maps for fractals.
 - [Render Fractals in Go Without External Packages](https://github.com/kochampsy/fractal) ([Reddit](https://www.reddit.com/r/golang/comments/jy9kq6/a_fractal_i_rendered_in_go_without_any_external/))
+- [An almost one-liner to construct the Mandelbrot set with Mathematica (2020)](https://ekamperi.github.io/math/2020/12/01/mandelbrot-set-one-liner.html)

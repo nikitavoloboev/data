@@ -70,3 +70,5 @@
 - [svelte-loadable](https://github.com/kaisermann/svelte-loadable) - Dynamically load a svelte component.
 - [svite](https://github.com/dominikg/svite) - Svelte integration for vite.
 - [Prettier for Svelte 3 components](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte) - Plugin to compile svelte components for bundling with esbuild.
+- [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)

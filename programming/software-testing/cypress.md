@@ -20,4 +20,4 @@
 - [Cypress Image Snapshot](https://github.com/jaredpalmer/cypress-image-snapshot) - Catch visual regressions in Cypress.
 - [sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - Open-source, on-premise, self-hosted alternative to Cypress dashboard. ([Docs](https://sorry-cypress.dev/))
 - [Knapsack Pro for Cypress.io](https://github.com/KnapsackPro/knapsack-pro-cypress) - Runs your E2E tests with Cypress.io test runner and does dynamic tests allocation across parallel CI nodes using KnapsackPro.com Queue Mode to provide the fastest CI build time (optimal test suite timing)..
-  .
+- [cypress-graphql-mock](https://github.com/tgriesser/cypress-graphql-mock) - Adds commands for executing a mocked GraphQL server using only the client.

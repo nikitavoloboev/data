@@ -80,3 +80,5 @@
 - [Supercronic](https://github.com/aptible/supercronic) - Crontab-compatible job runner, designed specifically to run in containers.
 - [secrets-init](https://github.com/doitintl/secrets-init) - Minimalistic init system for containers with AWS/GCP secrets support.
 - [Understanding containers](https://www.redhat.com/en/topics/containers)
+- [Open Container Initiative](https://opencontainers.org/) - Open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
+- [OCI Image Format Specification](https://github.com/opencontainers/image-spec)

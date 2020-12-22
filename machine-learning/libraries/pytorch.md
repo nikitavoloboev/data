@@ -199,3 +199,4 @@
 - [PyTorch Quantization Aware Training (2020)](https://leimao.github.io/blog/PyTorch-Quantization-Aware-Training/)
 - [Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering](https://github.com/kanezaki/pytorch-unsupervised-segmentation-tip)
 - [WebDataset](https://github.com/tmbdev/webdataset) - PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives and uses only sequential/streaming data access.
+- [Semantic Segmentation in PyTorch](https://github.com/yassouali/pytorch_segmentation)

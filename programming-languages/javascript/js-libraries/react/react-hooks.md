@@ -75,6 +75,7 @@
 - [react-laag](https://github.com/everweij/react-laag) - Hooks to build things like tooltips, dropdown menu's and popovers in React. ([Web](https://www.react-laag.com/))
 - [React Hot Toast](https://github.com/timolins/react-hot-toast) - Lightweight, customizable and beautiful by default. ([Web](https://react-hot-toast.com/))
 - [use-subsequent-effect](https://github.com/bouchenoiremarc/use-subsequent-effect) - use(Layout)Effect variant hook that skips the initial render.
+- [Focus Rings](https://github.com/discord/focus-rings) - Centralized system for displaying and stylizing focus indicators anywhere on a webpage.
 
 ## Notes
 

@@ -34,3 +34,4 @@
 - [Rails & Next.js Project Skeleton](https://github.com/pch/rails-nextjs-docker-skeleton)
 - [Rails 6.1.0 (2020)](https://github.com/rails/rails/releases/tag/v6.1.0) ([HN](https://news.ycombinator.com/item?id=25364234))
 - [Encapsulating Ruby on Rails views (2020)](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
+- [How I Upgrade Ruby on Rails (2020)](https://t27duck.com/posts/8-how-i-upgrade-ruby-on-rails) ([Lobsters](https://lobste.rs/s/ut2i1t/how_i_upgrade_ruby_on_rails))

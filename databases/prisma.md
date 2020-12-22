@@ -30,3 +30,4 @@
 - [How to Run Prisma Studio in Production on Render.com](https://github.com/blitz-js/blitz/wiki/How-to-Run-Prisma-Studio-in-Production-on-Render.com)
 - [Prisma Migrate Preview - Database Migrations Simplified (2020)](https://www.prisma.io/blog/prisma-migrate-preview-b5eno5g08d0b)
 - [CDK API with GraphQL and Aurora Serverless PostgreSQL and Prisma](https://github.com/ryands17/graphql-api-cdk-serverless-postgres)
+- [prisma-schema-transformer](https://github.com/IBM/prisma-schema-transformer) - Prisma schema post-processor.

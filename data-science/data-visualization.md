@@ -70,3 +70,4 @@
 - [hvPlot](https://github.com/holoviz/hvplot) - High-level plotting API for pandas, dask, xarray, and networkx built on HoloViews. ([Docs](https://hvplot.holoviz.org/))
 - [HoloViz](https://holoviz.org/) - High-level tools to simplify visualization in Python. ([GitHub](https://github.com/holoviz))
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib) - Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
+- [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.

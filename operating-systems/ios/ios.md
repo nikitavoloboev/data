@@ -272,3 +272,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Rules for Bazel](https://github.com/bazel-ios/rules_ios)
 - [Device and Data Access when Personal Safety is At Risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
 - [iOS Safari UI Kit](https://www.figma.com/community/file/922738986195002030)
+- [iblessing](https://github.com/Soulghost/iblessing) - Security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis.

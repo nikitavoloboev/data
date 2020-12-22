@@ -172,3 +172,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Life of a Pixel (2020)](https://www.youtube.com/watch?v=PwYxv-43iM4)
 - [JustWatch](https://www.justwatch.com/) - All your streaming services in one app.
 - [Overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem.
+- [Why can’t you buy a good webcam? (2020)](https://vsevolod.net/good-webcams/) ([HN](https://news.ycombinator.com/item?id=25504771)) ([Lobsters](https://lobste.rs/s/hmwpil/why_can_t_you_buy_good_webcam))
+- [Galene](https://galene.org/) - Videoconferencing server that is easy to deploy (just copy a few files and run the binary) and that requires moderate server resources. ([Code](https://github.com/jech/galene))

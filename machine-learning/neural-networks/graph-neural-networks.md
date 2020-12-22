@@ -29,3 +29,4 @@
 - [SEAL - Learning from Subgraphs, Embeddings, and Attributes for Link prediction](https://github.com/muhanzhang/SEAL)
 - [Jraph](https://github.com/deepmind/jraph) - Lightweight library for working with graph neural networks in jax.
 - [Benchmarking Graph Neural Networks (2020)](https://arxiv.org/abs/2003.00982) ([Code](https://github.com/graphdeeplearning/benchmarking-gnns))
+- [Pro-GNN](https://github.com/ChandlerBang/Pro-GNN) - PyTorch implementation of "Graph Structure Learning for Robust Graph Neural Networks".

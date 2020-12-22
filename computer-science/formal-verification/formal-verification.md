@@ -45,3 +45,4 @@
 - [Proofs Should Repair Themselves (2020)](https://galois.com/blog/2020/12/proofs-should-repair-themselves/) ([Lobsters](https://lobste.rs/s/vh1edq/proofs_should_repair_themselves))
 - [Use polling for resiliency (2020)](https://blog.gchinis.com/posts/use-polling-for-resiliency/) ([Lobsters](https://lobste.rs/s/7vpobg/use_polling_for_resiliency))
 - [The 2020 Expert Survey on Formal Methods](http://www.fmeurope.org/documents/Garavel-terBeek-vandePol-20.pdf)
+- [Formal Methods for the Informal Engineer (2020)](https://fmie2021.github.io/)

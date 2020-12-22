@@ -62,3 +62,4 @@
 - [Django Smartmin](https://github.com/nyaruka/smartmin) - Admin-like utility for users.
 - [Deploying Django to AWS ECS with Terraform](https://github.com/testdrivenio/django-ecs-terraform)
 - [Django Slick Reporting](https://github.com/ra-systems/django-slick-reporting) - Powerful and Efficient reporting engine with Charting capabilities.
+- [Dataclasses serializer](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework.

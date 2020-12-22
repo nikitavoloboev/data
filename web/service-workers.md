@@ -8,3 +8,4 @@
 - [Workbox API](https://developers.google.com/web/tools/workbox/) - JavaScript Libraries for adding offline support to web apps.
 - [How to Fix the Refresh Button When Using Service Workers (2017)](https://redfin.engineering/how-to-fix-the-refresh-button-when-using-service-workers-a8e27af6df68)
 - [WASI Worker](https://github.com/dunnock/wasi-worker) - WASM / WASI interface for browser service workers.
+- [uhtml-ssr](https://github.com/WebReflection/uhtml-ssr) - Uhtml for Service Worker, Web Worker, NodeJS, and other SSR cases.

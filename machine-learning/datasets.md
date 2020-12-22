@@ -62,3 +62,4 @@
 - [ESC-50: Dataset for Environmental Sound Classification](https://github.com/karolpiczak/ESC-50)
 - [Booking.com WSDM challenge](https://www.bookingchallenge.com/) - Training dataset consists of over a million of anonymized hotel reservations, based on real data.
 - [Computer Vision Datasets](https://public.roboflow.com/)
+- [Voicebook Datasets](https://github.com/jim-schwoebel/voice_datasets) - Comprehensive list of open-source datasets for voice and sound computing (50+ datasets).

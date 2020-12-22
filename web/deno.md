@@ -59,3 +59,4 @@
 - [deno_doc](https://github.com/denoland/deno_doc) - Rust crate to generate documentation for JavaScript and TypeScript modules.
 - [PostCSS for Deno](https://github.com/postcss/postcss-deno)
 - [HN: Deno 1.6 supports compiling TypeScript to a single executable (2020)](https://news.ycombinator.com/item?id=25366484)
+- [djwt](https://github.com/timonson/djwt) - Create and verify JSON Web Tokens (JWT) with deno.

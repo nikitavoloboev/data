@@ -371,3 +371,5 @@
 - [Awesome JAX](https://github.com/n2cholas/awesome-jax)
 - [Machine Learning Productivity Hacks (2019)](http://amid.fish/ml-productivity)
 - [Learn Deep Learning: Powerful Mental Models to Accelerate Your Journey (2020)](https://gumroad.com/l/learn_deep_learning) ([Tweet](https://twitter.com/radekosmulski/status/1340705699521769474))
+- [OpenNMT](https://opennmt.net/) - Open source ecosystem for neural machine translation and neural sequence learning. ([GitHub](https://github.com/OpenNMT))
+- [How much hyperparameter tuning do you typically end up doing? (2020)](https://www.reddit.com/r/MachineLearning/comments/khyk9r/d_for_those_in_the_industry_how_much/)

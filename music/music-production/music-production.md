@@ -137,3 +137,4 @@
 - [AudioGridder](https://github.com/apohl79/audiogridder) - DSP servers using general purpose networks and computers. ([Web](https://audiogridder.com/))
 - [Tabula Rasa Record Company](https://www.tabularasarecords.com/) ([Tweet](https://twitter.com/TabulaRasaRcrds/status/1334194281041387520))
 - [MuseTree](https://stevenwaterman.uk/musetree/) - Custom front-end for OpenAi's MuseNet, the AI music generator. ([Code](https://github.com/stevenwaterman/musetree))
+- [Voicebook](https://www.neurolex.ai/voicebook/) - Learn how to build voice applications in Python.

@@ -591,6 +591,8 @@
 - [Mutation](https://github.com/zesterer/mutation) - Unleash the power of nightly Rust to write code that's generic over mutation.
 - [evmap](https://github.com/jonhoo/evmap) - Lock-free, eventually consistent, concurrent multi-value map.
 - [RustFFT](https://github.com/ejmahler/RustFFT) - Mixed-radix FFT library written in pure Rust.
+- [RIPP (Rust Inner Pairing Products)](https://github.com/arkworks-rs/ripp) - Rust library for proofs about inner pairing products, and applications built atop these.
+- [fake-rs](https://github.com/cksac/fake-rs) - Rust library for generating fake data.
 
 ## Cargo Plugins
 

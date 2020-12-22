@@ -44,6 +44,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Meli](https://github.com/getmeli/meli) - Open source platform for deploying static sites and frontend applications. ([HN](https://news.ycombinator.com/item?id=25387157)) ([Lobsters](https://lobste.rs/s/sut9hu/meli_netlify_like_platform_for_deploying))
 - [Ness](https://github.com/nessjs/ness) - No-effort static sites deployed to your AWS account.
 - [Pagic](https://github.com/xcatliu/pagic) - Static site generator powered by Deno + React.
+- [Toto](https://github.com/metasoarous/toto) - Static site generation in Clojure (with live code reloading!).
 
 ## Notes
 
@@ -82,3 +83,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Edge Cached Static Sites on CloudFlare (2020)](https://hugotunius.se/2020/01/01/edge-cached-static-sites-on-cloudflare.html)
 - [Surge](https://surge.sh/) - Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
 - [Why I Built My Own Shitty Static Site Generator (2020)](https://erikwinter.nl/articles/2020/why-i-built-my-own-shitty-static-site-generator/) ([Lobsters](https://lobste.rs/s/uacznf/why_i_built_my_own_shitty_static_site))
+- [sitemap-static](https://github.com/tmcw/sitemap-static) - Make a sitemap for a static website based on files on disk.

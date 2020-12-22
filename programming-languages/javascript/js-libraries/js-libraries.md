@@ -32,6 +32,7 @@
 - [Frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript. ([Web](https://frourio.io/))
 - [Svelto](https://github.com/svelto/svelto) - Modular front end framework for modern browsers, with battery included: 100+ widgets and tools.
 - [modular](https://github.com/jpmorganchase/modular) - Collection of tools and guidance to enable UI development at scale. ([Tweet](https://twitter.com/threepointone/status/1340620223993540608))
+- [Turbo](https://github.com/hotwired/turbo) - Speed of a single-page web application without having to write any JavaScript. ([Web](https://turbo.hotwire.dev/))
 
 ## Animation
 
@@ -306,7 +307,7 @@
 - [fit-curve](https://github.com/soswow/fit-curve) - JavaScript implementation of Philip J. Schneider's "Algorithm for Automatically Fitting Digitized Curves" from the book "Graphics Gems".
 - [clean-deep](https://github.com/nunofgs/clean-deep) - Remove falsy, empty or nullable values from objects.
 - [regular-table](https://github.com/jpmorganchase/regular-table) - Regular <table> library, for async and virtual data models.
-- [Stimulus](https://github.com/stimulusjs/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulusjs.org/))
+- [Stimulus](https://github.com/hotwired/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulus.hotwire.dev/))
 - [bigpicture.js](https://github.com/josephernest/bigpicture.js/) - Library that allows infinite panning and infinite zooming in HTML pages. ([Web](https://josephernest.github.io/bigpicture.js/index.html))
 - [Tragopan](https://github.com/team-video/tragopan) - Minimal dependency-free pan/zoom library. ([HN](https://news.ycombinator.com/item?id=23579102))
 - [Deakins](https://github.com/terkelg/deakins) - Small Canvas 2D Camera.
@@ -400,6 +401,7 @@
 - [Nano JSX](https://github.com/nanojsx/nano) - Lightweight 1kB JSX library. ([Web](https://nanojsx.github.io/))
 - [Effects.js](https://github.com/nythrox/effects.js) - Algebraic effects in javascript with scoped handlers, multishot delimited continuations, stack safety and do notation.
 - [flatten-js](https://github.com/alexbol99/flatten-js) - JavaScript library for 2d geometry.
+- [is-retry-allowed](https://github.com/sindresorhus/is-retry-allowed) - Check whether a request can be retried based on the error.code.
 
 ## Links
 

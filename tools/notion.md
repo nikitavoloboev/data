@@ -36,3 +36,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share some boards in pub
 - [Collection of Notion-based products and services](https://www.notion.so/Ultimate-Notion-collection-27cf98d2ed1c42f9a188990d0e36bf0a)
 - [Nishan](https://github.com/Nishan-Open-Source/Nishan) - Unofficial Notion api for node.js with all crud functionalities for Space, User, Block, Page and many more.
 - [notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from a Notion.so table.
+- [Vue Notion](https://github.com/janniks/vue-notion) - Fast Vue renderer for Notion pages. ([HN](https://news.ycombinator.com/item?id=25505604))

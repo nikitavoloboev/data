@@ -131,6 +131,7 @@
 - [Shuffle](https://github.com/mac-gallagher/Shuffle) - Multi-directional card swiping library inspired by Tinder.
 - [Pageboy](https://github.com/uias/Pageboy) - Simple, highly informative page view controller.
 - [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - Easy to use, customizable replacement for UISegmentedControl & UISwitch.
+- [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 
 ## macOS
 

@@ -188,3 +188,4 @@
 - [img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation](https://github.com/vitoralbiero/img2pose)
 - [SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)
 - [PCT: Point Cloud Transformer (2020)](https://arxiv.org/pdf/2012.09688.pdf) ([Code](https://github.com/MenghaoGuo/PCT))
+- [Learning Continuous Image Representation with Local Implicit Image Function (2020)](https://arxiv.org/abs/2012.09161) ([Code](https://github.com/yinboc/liif))

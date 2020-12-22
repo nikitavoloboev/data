@@ -8,3 +8,7 @@
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)
 - [Upaya](https://github.com/prime31/zig-upaya) - Zig-based framework for creating game tools and helper apps.
+
+## Links
+
+- [zigmod](https://github.com/nektro/zigmod) - Package manager for the Zig programming language.

@@ -90,3 +90,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [glrnvim](https://github.com/beeender/glrnvim) - Fast & stable neovim GUI could be accelated by GPU.
 - [Five lines I put in a blank .vimrc (2020)](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html) ([HN](https://news.ycombinator.com/item?id=25410390)) ([Lobsters](https://lobste.rs/s/du8i6z/5_lines_i_put_blank_vimrc))
 - [neovim-editor](https://github.com/rhysd/neovim-component) - WebComponent to embed Neovim to your app with great ease.
+- [How do you index code in your projects? (2020)](https://lobste.rs/s/ujr9mg/how_do_you_index_code_your_projects)

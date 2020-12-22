@@ -15,7 +15,8 @@
 
 ## UI
 
-- [imgui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
+- [ImGui](https://github.com/ocornut/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
+- [giu](https://github.com/AllenDang/giu) - Cross platform rapid GUI framework for golang based on Dear ImGui.
 - [GuiLite](https://github.com/idea4good/GuiLite) - Smallest UI framework for all platform -- 5K lines code.
 - [Yue](https://github.com/yue/yue) - Library for creating native cross-platform GUI apps.
 - [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI.
