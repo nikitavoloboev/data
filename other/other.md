@@ -420,3 +420,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Product Wars](https://productwars.phantombuster.com/) - Follow your launch on Product Hunt.
 - [Field of Memes](https://fieldofmemes.com/)
 - [Fathom](https://github.com/yeslogic/fathom) - Declarative data definition language for formally specifying binary data formats.
+- [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) ([HN](https://news.ycombinator.com/item?id=25513713))

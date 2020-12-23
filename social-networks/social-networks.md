@@ -77,3 +77,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Hiven](https://hiven.io/) - Chat platform from the future. ([Themes](https://hiven-design-git-main.ezolla.vercel.app/))
 - [Hive Index](https://thehiveindex.com/) - Discover Online Communities. ([HN](https://news.ycombinator.com/item?id=25417624))
 - [Orbit Model](https://github.com/orbit-love/orbit-model) - Framework for building high gravity communities. A high gravity community is one that excels at attracting and retaining members by providing an outstanding member experience. ([Why Orbit is Better Than Funnel for Developer Relations](https://orbit.love/blog/why-orbit-is-better-than-funnel-for-developer-relations))
+- [Why your Instagram Engagement Kinda Sucks Right Now (2020)](https://rainylune.com/blogs/blog/why-your-instagram-engagement-kinda-sucks-right-now)

@@ -187,6 +187,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com) play live, do
 
 ## Live
 
+- [Ólafur Arnalds - A Sunrise Session with JFDR (some kind of peace)](https://www.youtube.com/watch?v=KrQV8nTCwqg)
 - [Ólafur Arnalds: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=TpO_8tk6yNQ)
 - [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
 - [Ishome at Krasnaya Polyana @37tunes](https://www.youtube.com/watch?v=yo2zLZkWmhE)
