@@ -31,3 +31,4 @@
 - [klox](https://github.com/dkopko/klox) - Proof-of-concept demonstration of O(1) garbage collection. ([HN](https://news.ycombinator.com/item?id=25161666)) ([Lobsters](https://lobste.rs/s/z96jmk/experimental_o_1_garbage_collector))
 - [herdtools7](https://github.com/herd/herdtools7) - Tool suite to test weak memory models.
 - [Sound Garbage Collection for C using Pointer Provenance (2020)](https://2020.splashcon.org/details/splash-2020-oopsla/52/Sound-Garbage-Collection-for-C-using-Pointer-Provenance)
+- [Memory Management in Lobster](http://aardappel.github.io/lobster/memory_management.html)
