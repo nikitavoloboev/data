@@ -222,3 +222,4 @@
 - [Math | Johns Hopkins University | Course Descriptions & Syllabus](https://mathematics.jhu.edu/undergraduate/courses/course-descriptions/)
 - [A Course of Pure Mathematics (1921)](https://avidemia.com/pure-mathematics/)
 - [Learn Mathematics from start to finish (2020)](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
+- [MIT Mathematics](https://math.mit.edu/) ([GitHub](https://github.com/mitmath))

@@ -146,3 +146,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source Project Criticality Score](https://github.com/ossf/criticality_score)
 - [WG Securing Critical Projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on.
 - [Finding Critical Open Source Projects (2020)](https://opensource.googleblog.com/) ([HN](https://news.ycombinator.com/item?id=25381397))
+- [Open Source Stash](https://opensourcestash.com/) - Privacy-focused, powerful, secure open-source alternatives. ([HN](https://news.ycombinator.com/item?id=25516672))

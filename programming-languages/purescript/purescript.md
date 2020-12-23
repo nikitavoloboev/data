@@ -18,3 +18,4 @@
 - [Learn PureScript with this "clone and play" repository](https://github.com/JordanMartinez/purescript-jordans-reference)
 - [Writing a Simple REST Web Service in PureScript (2017)](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
 - [List of Companies That Use Purescript](https://github.com/ajnsit/purescript-companies)
+- [Experiments with comonads for modelling React UIs](https://github.com/paf31/purescript-react-explore)

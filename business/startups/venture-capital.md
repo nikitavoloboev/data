@@ -89,3 +89,5 @@
 - [Third Point](https://www.thirdpoint.com/)
 - [SV Angel](https://www.svangel.com/)
 - [Scrum Ventures](https://scrum.vc/)
+- [Baillie Gifford](https://www.bailliegifford.com/)
+- [Good Soil Investment](https://goodsoilinvestment.com/)

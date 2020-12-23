@@ -82,3 +82,4 @@
 - [2020 In Photos: A Year Like No Other](https://www.nytimes.com/interactive/2020/world/year-in-pictures.html)
 - [CHM (Computer History Museum)](https://computerhistory.org/)
 - [The 100 Year Computer (2020)](https://thedorkweb.substack.com/p/the-100-year-computer) ([Lobsters](https://lobste.rs/s/feaa3d/100_year_computer))
+- [Historical facts I consistently forget (2020)](https://milan.cvitkovic.net/writing/historical_facts/)

@@ -63,6 +63,7 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Google Research](https://research.google/) ([GitHub](https://github.com/google-research))
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
 - [Yandex Research](https://research.yandex.com/) ([GitHub](https://github.com/yandex-research))
+- [Adobe Research](https://research.adobe.com/)
 - [The Book of Why: The New Science of Cause and Effect (2018)](http://cdar.berkeley.edu/wp-content/uploads/2017/04/Lisa-Goldberg-reviews-The-Book-of-Why.pdf) ([HN](https://news.ycombinator.com/item?id=24487135))
 - [Lecture Notes on Design & Analysis of Experiments](https://github.com/fcampelo/Design-and-Analysis-of-Experiments)
 - [Nature Scientific Reports](https://www.nature.com/srep/)

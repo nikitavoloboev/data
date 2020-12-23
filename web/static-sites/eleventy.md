@@ -22,3 +22,4 @@
 - [11ty.dev documentation code](https://github.com/11ty/11ty-website)
 - [Vredeburg](https://github.com/dafiulh/vredeburg) - Simple starter project to create a blog using Eleventy and Tailwind CSS.
 - [JAMStack Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Static website workflow utilising Eleventy, Tailwind CSS, Webpack and PostCSS.
+- [eleventy-img](https://github.com/11ty/eleventy-img) - Utility to perform build-time image transformations.

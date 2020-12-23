@@ -17,6 +17,7 @@
 - [Squeal](https://github.com/morphismtech/squeal) - Deep embedding of SQL in Haskell.
 - [persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.
 - [hssqlppp](https://github.com/JakeWheat/hssqlppp) - SQL parser and type checker in haskell.
+- [Beam](https://github.com/haskell-beam/beam) - Type-safe, non-TH Haskell relational database library and ORM.
 
 ## Test
 

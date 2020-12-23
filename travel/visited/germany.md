@@ -1,5 +1,9 @@
 # Germany
 
+## Notes
+
+- [I've never met anyone how wants to start his second company in Germany after having started his first one there.](https://twitter.com/thefrankbraun/status/1341199262852538369)
+
 ## Links
 
 - [How to Berlin](https://howtoberlin.de/en/) - Your relocation friend.

@@ -16,3 +16,4 @@
 - [Introduction to ARC/ORC in Nim (2020)](https://nim-lang.org/blog/2020/10/15/introduction-to-arc-orc-in-nim.html) ([HN](https://news.ycombinator.com/item?id=24786649)) ([Lobsters](https://lobste.rs/s/lxkqrz/introduction_arc_orc_nim))
 - [Nim 1.4](https://nim-lang.org/blog/2020/10/16/version-140-released.html) ([HN](https://news.ycombinator.com/item?id=24800161))
 - [nimtemplate](https://github.com/treeform/nimtemplate) - Nim template to jump start your Nim library or project.
+- [Nim Apocrypha](https://blog.johnnovak.net/2020/12/21/nim-apocrypha-vol1/) - Collection of Nim tips.

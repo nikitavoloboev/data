@@ -76,6 +76,7 @@
 - [React Hot Toast](https://github.com/timolins/react-hot-toast) - Lightweight, customizable and beautiful by default. ([Web](https://react-hot-toast.com/))
 - [use-subsequent-effect](https://github.com/bouchenoiremarc/use-subsequent-effect) - use(Layout)Effect variant hook that skips the initial render.
 - [Focus Rings](https://github.com/discord/focus-rings) - Centralized system for displaying and stylizing focus indicators anywhere on a webpage.
+- [react-collapsed (useCollapse)](https://github.com/roginfarrer/react-collapsed) - React custom-hook for creating flexible and accessible expand/collapse components.
 
 ## Notes
 

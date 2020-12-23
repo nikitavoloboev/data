@@ -91,3 +91,8 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Plotting patterns in music with a fantasy record player (2020)](http://www.windytan.com/2020/12/plotting-patterns-in-music-with-fantasy.html) ([HN](https://news.ycombinator.com/item?id=25414742))
 - [JQBX](https://jqbx.fm/) - Lets you play & listen to music in sync with friends or public groups.
 - [Rainy vibes](https://vaporwaver.netlify.app/)
+- [MedleyDB](https://medleydb.weebly.com/) - Dataset of Multitrack Audio for Music Research. ([Code](https://github.com/marl/medleydb))
+- [Music and Audio Research Laboratory](https://steinhardt.nyu.edu/marl)
+- [Rachel Bittner Research](https://rachelbittner.weebly.com/)
+- [How Bad Is Your Spotify?](https://pudding.cool/2020/12/judge-my-spotify/) ([HN](https://news.ycombinator.com/item?id=25517868))
+- [BOUNCE](https://bounce.town/) - Make music with friends. ([Tweet](https://twitter.com/vidythatte/status/1341575228774871041))

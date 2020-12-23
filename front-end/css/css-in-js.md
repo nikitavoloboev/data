@@ -31,3 +31,4 @@
 - [clsx](https://github.com/lukeed/clsx) - Tiny utility for constructing `className` strings conditionally.
 - [Stylewars](https://github.com/sunesimonsen/stylewars) - Tiny CSS in JS library that requires no tooling.
 - [Rosebox](https://github.com/rosebox/rosebox) - CSS in Typescript. ([Web](https://www.rosebox.dev/))
+- [System Props](https://github.com/roginfarrer/system-props) - Inspired by styled-system, a responsive, theme-based style props for building design systems with React. ([Web](https://system-props.com/))

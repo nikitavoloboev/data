@@ -104,3 +104,5 @@
 - [Storybook Playroom Addon](https://github.com/rbardini/storybook-addon-playroom) - Design with Playroom inside Storybook, using each story source as a starting point.
 - [React Component Library](https://github.com/HarveyD/react-component-library) - Project skeleton to get your very own React Component Library up and running using Rollup, Typescript, SASS + Storybook.
 - [Design Systems Are Bullsh\*t (2020)](https://www.blogofpascal.com/post/design-systems-are-bullsh-t)
+- [Where to start with design tokens (2020)](https://maecapozzi.com/where-to-start-with-design-tokens/)
+- [Design Systems Checklist](https://maecapozzi.com/getting-started-with-design-systems-checklist)

@@ -132,6 +132,8 @@
 - [Pageboy](https://github.com/uias/Pageboy) - Simple, highly informative page view controller.
 - [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - Easy to use, customizable replacement for UISegmentedControl & UISwitch.
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+- [Jukebox](https://github.com/teodorpatras/Jukebox) - iOS audio player written in Swift.
+- [Turbo Native for iOS](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps.
 
 ## macOS
 
@@ -529,6 +531,7 @@
 - [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - Animatable view that depicts multiple progresses over time. Modeled after UIProgressView.
 - [swift-parsing](https://github.com/pointfreeco/swift-parsing) - Library for turning nebulous data into well-structured data, with a focus on composition, performance, and generality.
 - [OpenTelemetry Swift](https://github.com/slashmo/opentelemetry-swift) - OpenTelemetry Tracer built for Swift Distributed Tracing.
+- [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine.
 
 ## Other (not lib)
 

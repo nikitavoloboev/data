@@ -91,3 +91,4 @@
 - [OAuth is Not User Authorization (2020)](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
 - [otplib](https://github.com/yeojz/otplib) - Time-based (TOTP) and HMAC-based (HOTP) One-Time Password library. ([Web](https://otplib.yeojz.dev/))
 - [SuperTokens](https://github.com/supertokens/supertokens-core) - Open core alternative to proprietary login providers like Auth0 or AWS Cognito. ([Web](https://supertokens.io/))
+- [FastAuth](https://github.com/flatfeestack/fastauth) - Simple authentication server that can also be used for local development with reasonable defaults to kickstart the local development.

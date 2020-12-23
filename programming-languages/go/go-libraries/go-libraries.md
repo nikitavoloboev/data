@@ -103,6 +103,7 @@
 - [httpcache](https://github.com/gregjones/httpcache) - Transport for http.Client that will cache responses according to the HTTP RFC.
 - [daz](https://github.com/stevelacy/daz) - Composable HTML components in Go.
 - [Alice](https://github.com/justinas/alice) - Painless middleware chaining for Go.
+- [tinynet](https://github.com/pojntfx/tinynet) - `net` implementation for Go and TinyGo based on unisockets, targeting both WebAssembly and native platforms.
 
 ## GraphQL
 
@@ -646,6 +647,8 @@
 - [Nero](https://github.com/sf9v/nero) - Library for generating the repository layer code.
 - [jsondiff](https://github.com/wI2L/jsondiff) - Go package for computing the diff between two JSON documents.
 - [GoDotEnv](https://github.com/joho/godotenv) - Load environment variables from `.env`.
+- [json-lossless](https://github.com/joeshaw/json-lossless) - Lossless JSON encoding/decoding package in Go.
+- [gocelery](https://github.com/gocelery/gocelery) - Go Client/Server for Celery Distributed Task Queue.
 
 ## Links
 

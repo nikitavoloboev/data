@@ -55,3 +55,4 @@
 - [Awesome Knowledge Graph Question Answering](https://github.com/BshoterJ/awesome-kgqa)
 - [Awesome Knowledge Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning)
 - [REGAL: Representation Learning-based Graph Alignment (2018)](https://github.com/GemsLab/REGAL)
+- [Query2box](https://github.com/hyren/query2box) - Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings.

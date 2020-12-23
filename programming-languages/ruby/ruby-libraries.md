@@ -1,5 +1,9 @@
 # Ruby libraries
 
+## CLI
+
+- [TTY::Prompt](https://github.com/piotrmurach/tty-prompt) - Beautiful and powerful interactive command line prompt.
+
 ## DB
 
 - [Sequel](https://github.com/jeremyevans/sequel) - Database Toolkit for Ruby.

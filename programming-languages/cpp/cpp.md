@@ -173,3 +173,4 @@
 - [CPPINCLUDE](https://github.com/cppinclude/cppinclude) - Tool for analyzing includes in C++.
 - [C/C++ Compiler Cheatsheet](http://www.dmulholl.com/notes/c-compiler-cheatsheet.html)
 - [Data Parallel C++](https://link.springer.com/book/10.1007%2F978-1-4842-5574-2)
+- [Interactive C++ for Data Science (2020)](https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/)

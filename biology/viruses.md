@@ -54,3 +54,4 @@
 - [Overview of how mRNA vaccines work (2020)](https://twitter.com/scientistswanda/status/1335988328362090500?s=21)
 - [mRNA vaccines – a new era in vaccinology (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5906799/pdf/nihms955599.pdf)
 - [The Machine That Made the Vaccine: Company, Platform, Innovation (2020)](https://overcast.fm/+BlzGsJabc)
+- [How mRNA vaccines (Pfizer and Moderna) work (2020)](https://twitter.com/WheatNOil/status/1339624815137722368)

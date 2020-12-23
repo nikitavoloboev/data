@@ -63,6 +63,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [LibTerm](https://libterm.app/) - iOS sandboxed terminal with Python, Lua and Clang. ([Code](https://github.com/ColdGrub1384/LibTerm))
 - [Lichess Mobile](https://github.com/veloce/lichobile/)
 - [Mixin iOS messenger](https://github.com/MixinNetwork/ios-app)
+- [MortyUI](https://github.com/Dimillian/MortyUI) - Simple Rick & Morty app to demo GraphQL + SwiftUI.
 
 ## Other
 
@@ -273,3 +274,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Device and Data Access when Personal Safety is At Risk](https://manuals.info.apple.com/MANUALS/1000/MA1976/en_US/device-and-data-access-when-personal-safety-is-at-risk.pdf)
 - [iOS Safari UI Kit](https://www.figma.com/community/file/922738986195002030)
 - [iblessing](https://github.com/Soulghost/iblessing) - Security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis.
+- [Stringz](https://github.com/mohakapt/Stringz) - Lightweight and powerful tool for localizing iOS, macOS, tvOS and watchOS applications.
+- [Dynamically Generated iOS Headers](https://github.com/nst/iOS-Runtime-Headers) - iOS Objective-C headers as derived from runtime introspection.

@@ -15,3 +15,4 @@
 - [Lighting fast search with Elasticsearch (2020)](https://www.webiny.com/blog/lighting-fast-search-with-elasticsearch)
 - [ECS Logging resources](https://github.com/elastic/ecs-logging)
 - [Kibana](https://www.elastic.co/kibana) - Free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack. ([Code](https://github.com/elastic/kibana))
+- [Searchgoose](https://github.com/actumn/searchgoose) - Elasticsearch-like simple, lightweight, distributed RESTful search-engine using bleve written in go.

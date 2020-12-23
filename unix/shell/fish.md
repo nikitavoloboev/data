@@ -10,3 +10,4 @@
 - [Fzf Fish Bindings](https://github.com/jethrokuan/fzf)
 - [Tide](https://github.com/IlanCosman/tide) - Modern prompt manager for the Fish shell.
 - [Rust, Python and Fish (2020)](https://benjamin.computer/posts/2020-12-12-rust-python.html)
+- [Fish Shell Code](https://github.com/fish-shell/fish-shell)

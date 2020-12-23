@@ -15,3 +15,5 @@
 - [Radio I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ) ([HN](https://news.ycombinator.com/item?id=25134698))
 - [Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0) ([Code](https://github.com/musikalkemist/AudioSignalProcessingForML))
 - [absorptions](http://www.windytan.com/) - Blog about signals, random hacks, & assorted infodumps.
+- [PYSOX: Leveraging the audio signal processing power of SoX in python (2016)](https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/bittner-pysox.pdf)
+- [pysox](https://github.com/rabitt/pysox) - Python wrapper around SoX.

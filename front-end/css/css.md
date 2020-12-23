@@ -238,6 +238,7 @@
 - [CSS Scan Pro](https://cssscanpro.com/) - Re-imagined Devtools for web design.
 - [The Rules of Margin Collapse (2020)](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 - [CSS Scroll Snap (2020)](https://ishadeed.com/article/css-scroll-snap/)
-- [Houdini.how](https://houdini.how/) ([HN](https://news.ycombinator.com/item?id=25361438))
+- [Houdini.how](https://houdini.how/) ([HN](https://news.ycombinator.com/item?id=25361438)) ([Code](https://github.com/GoogleChromeLabs/houdini.how))
 - [Panzoom](https://github.com/timmywil/panzoom) - Library for panning and zooming elements using CSS transforms.
 - [Centering in CSS (2020)](https://web.dev/centering-in-css/) ([HN](https://news.ycombinator.com/item?id=25447511))
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.

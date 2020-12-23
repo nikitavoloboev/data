@@ -57,3 +57,4 @@
 - [Twitter Monitor](https://github.com/ezolla/Twitter-Monitor) - Monitor Twitter Accounts w/ Discord Webhooks.
 - [Twemex Beta](https://www.notion.so/Twemex-Beta-8a33819331cc41c4970bc73ea242f0d2)
 - [Valuables](https://v.cent.co/) - Buy tweets. Autographed by your favorite creators.
+- [GraphQL Tweetletter](https://tweets.dgraph.io/) - Collection of the most interesting and popular tweets, delivered to your inbox every week.

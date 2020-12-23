@@ -63,3 +63,5 @@
 - [Deploying Django to AWS ECS with Terraform](https://github.com/testdrivenio/django-ecs-terraform)
 - [Django Slick Reporting](https://github.com/ra-systems/django-slick-reporting) - Powerful and Efficient reporting engine with Charting capabilities.
 - [Dataclasses serializer](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework.
+- [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering in the templates.
+- [DIY Django and React Boilerplate for SaaS](https://github.com/saasitive/django-react-boilerplate) ([Web](https://saasitive.com/)) ([HN](https://news.ycombinator.com/item?id=25517226))

@@ -47,3 +47,4 @@
 - [bencode-go](https://github.com/jackpal/bencode-go) - Go language binding for encoding and decoding data in the bencode format that is used by the BitTorrent peer-to-peer file sharing protocol.
 - [Taipei Torrent](https://github.com/jackpal/Taipei-Torrent) - Simple command-line-interface BitTorrent client coded in the go programming language.
 - [BitTorrent DHT library](https://github.com/jech/dht)
+- [cratetorrent](https://github.com/mandreyel/cratetorrent) - Rust crate implementing the BitTorrent version 1 protocol.

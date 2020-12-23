@@ -48,7 +48,7 @@
 - [System UIcons](https://systemuicons.com/) - Icons designed for products, no attribution. ([HN](https://news.ycombinator.com/item?id=24037853))
 - [Bootstrap Icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [Teenyicons](https://teenyicons.com/) - Tiny minimal 1px icons. ([Code](https://github.com/teenyicons/teenyicons))
-- [Material Design Icons](https://material.io/resources/icons/?style=baseline) ([Guide](http://google.github.io/material-design-icons/)) ([Code](https://github.com/google/material-design-icons))
+- [Material Design Icons](https://material.io/resources/icons/?style=baseline) ([Guide](http://google.github.io/material-design-icons/)) ([Code](https://github.com/google/material-design-icons)) ([Code Updated](https://github.com/material-icons/material-icons))
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Mono Icons](https://icons.mono.company/) - Simple, consistent open-source icon set designed to be used in a wide variety of digital products. ([Code](https://github.com/mono-company/mono-icons)) ([HN](https://news.ycombinator.com/item?id=24564684))
 - [3D Icons](https://www.iconshock.com/3d-icons/)
@@ -65,3 +65,4 @@
 - [SVGBox](https://svgbox.net/) - API for Web Icons.
 - [Remix Icon](https://remixicon.com/) - Open source icon library. ([Code](https://github.com/Remix-Design/RemixIcon))
 - [Fantasticon](https://github.com/tancredi/fantasticon) - Easy-to-use, pre-configured cli tool to generate web-font icon kits from .svg files.
+- [BoxIcons](https://boxicons.com/) - High Quality web friendly icons. ([Code](https://github.com/atisawd/boxicons))

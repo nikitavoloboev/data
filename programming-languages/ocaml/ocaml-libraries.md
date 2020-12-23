@@ -61,8 +61,11 @@
 - [TyXML](https://github.com/ocsigen/tyxml) - Build valid HTML and SVG documents.
 - [parany](https://github.com/UnixJunkie/parany) - Parallelize any kind of computation.
 - [Metrics](https://github.com/mirage/metrics) - Infrastructure to collect metrics from OCaml applications.
+- [ocaml-mustache](https://github.com/rgrinberg/ocaml-mustache) - Mustache.js logic-less templates in OCaml.
+- [ppx_optcomp](https://github.com/janestreet/ppx_optcomp) - Optional compilation for OCaml.
 
 ## Links
 
 - [OPAM packages](http://opam.ocaml.org/packages/)
 - [dune-deps](https://github.com/mjambon/dune-deps) - Show the internal dependencies in your OCaml/Reason/Dune project.
+- [dune-release](https://github.com/ocamllabs/dune-release) - Tool to streamline the release of Dune packages in opam.

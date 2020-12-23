@@ -179,3 +179,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
 - [Networking Tools Every Developer Needs to Know (2020)](https://martinheinz.dev/blog/38)
 - [Babel](https://www.irif.fr/~jch/software/babel/) - Loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. ([Code](https://github.com/jech/babeld))
+- [Network UPS Tools](https://github.com/networkupstools/nut) - Collection of programs which provide a common interface for monitoring and administering UPS, PDU and SCD hardware. ([Web](https://networkupstools.org/))

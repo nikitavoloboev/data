@@ -179,3 +179,4 @@
 - [Swift Version](https://swiftversion.net/) - Which Swift shipped with which Xcode?
 - [200 weeks of Swift (2020)](https://www.swiftbysundell.com/articles/200-weeks-of-swift/)
 - [Framework Inspector](https://github.com/carson-katri/FrameworkInspector) - View the internals of Swift frameworks.
+- [Swift Stress Tester](https://github.com/apple/swift-stress-tester) - Stress testing utilities for Swift's tooling.

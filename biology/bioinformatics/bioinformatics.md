@@ -85,3 +85,5 @@
 - [Protein folding explained (2020)](https://www.youtube.com/watch?v=KpedmJdrTpY)
 - [sfaira](https://github.com/theislab/sfaira) - Data and model repository for single-cell data.
 - [Theis Lab](https://www.helmholtz-muenchen.de/icb/) - Institute of Computational Biology. ([GitHub](https://github.com/theislab))
+- [PostEra](https://postera.ai/) - Medicinal Chemistry Powered by Machine Learning.
+- [Bioregistry](https://github.com/cthoyt/bioregistry) - Integrative registry of biological databases, ontologies, and nomenclatures.

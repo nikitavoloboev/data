@@ -12,3 +12,5 @@
 - [Array programming with NumPy (2020)](https://www.nature.com/articles/s41586-020-2649-2) ([HN](https://news.ycombinator.com/item?id=24501511))
 - [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 - [nptyping](https://github.com/ramonhagenaars/nptyping) - Type hints for Numpy.
+- [NumPy Illustrated: The Visual Guide to NumPy (2020)](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)

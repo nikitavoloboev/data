@@ -19,3 +19,4 @@
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Modern tool for the Windows kernel exploration and tracing. ([Web](https://www.fibratus.io/#/))
 - [ReactOS](https://reactos.org/) - Free Windows-compatible Operating System. ([Code](https://github.com/reactos/reactos))
 - [My Journey to Finally Ditching Windows for Good (2020)](https://news.ycombinator.com/item?id=25424225) ([HN](https://news.ycombinator.com/item?id=25424225))
+- [WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows.

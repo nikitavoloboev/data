@@ -165,3 +165,4 @@
 - [got](https://github.com/sindresorhus/got) - Human-friendly and powerful HTTP request library for Node.js.
 - [NPM RFCs](https://github.com/npm/rfcs)
 - [Farrow](https://github.com/Lucifier129/farrow) - Functional-style web framework for node.js written by TypeScript.
+- [Celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs.

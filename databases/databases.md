@@ -5,7 +5,7 @@
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
-- [TerarkDB](https://github.com/bytedance/terarkdb) - RocksDB compatible KV storage engine with better performance.
+- [TerarkDB](https://github.com/bytedance/terarkdb) - RocksDB compatible KV storage engine with better performance. ([HN](https://news.ycombinator.com/item?id=25514419))
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GoLevelDB](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome))
@@ -24,7 +24,7 @@
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085)) ([Playing With DuckDB](https://www.turtle-techies.com/playing-with-duck-db/)) ([5 minute intro](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/))
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
-- [Genji](https://github.com/asdine/genji) - Multi engine embedded database.
+- [Genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database, works with Bolt, Badger and memory. ([Web](https://genji.dev/))
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [Pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go. ([Intro article](https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/)) ([HN](https://news.ycombinator.com/item?id=24484320)) ([Pebble vs RocksDB: Implementation Differences](https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md))
 - [LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data.
@@ -144,6 +144,8 @@
 - [ley](https://github.com/lukeed/ley) - Driver-agnostic database migrations.
 - [DBeaver](https://dbeaver.io/) - Free Universal Database Tool. ([Code](https://github.com/dbeaver/dbeaver))
 - [Skeema](https://github.com/skeema/skeema) - Schema management CLI for MySQL.
+- [noisepage-test](https://github.com/cmu-db/noisepage-stats) - DBMS Performance & Correctness Testing Framework.
+- [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 
 ## Links
 
