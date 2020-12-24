@@ -25,6 +25,7 @@
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
+- [Tide WebSockets](https://github.com/http-rs/tide-websockets) - Experimental websockets handler for tide based on async-tungstenite.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
 - [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
 - [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.

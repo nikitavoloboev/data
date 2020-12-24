@@ -237,3 +237,4 @@
 - [Python at Scale: Strict Modules (2019)](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834) ([HN](https://news.ycombinator.com/item?id=25462168))
 - [Python Patterns](https://github.com/faif/python-patterns) - Collection of design patterns/idioms in Python.
 - [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/) - Book on basic to intermediate level Python projects.
+- [pyastinterp](https://github.com/pfalcon/pyastinterp) - Python AST interpreter (aka tree-walking interpreter) in Python. Aka meta-circular interpreter.

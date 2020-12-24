@@ -96,3 +96,4 @@
 - [Flashlight](https://github.com/facebookresearch/flashlight) - Fast, Flexible Machine Learning in C++.
 - [raster-deep-learning](https://github.com/Esri/raster-deep-learning) - ArcGIS built-in python raster functions for deep learning to get you started fast.
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for OpenNMT models.
+- [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Algorithms for graph structure recovery (including algorithms from the bnlearn, pcalg packages), mainly based out of observational data.

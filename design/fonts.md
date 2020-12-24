@@ -62,7 +62,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Source Sans Pro](https://adobe-fonts.github.io/source-sans-pro/) - Set of OpenType fonts that have been designed to work well in user interface (UI) environments. ([Code](https://github.com/adobe-fonts/source-sans-pro))
 - [Operator](https://www.typography.com/fonts/operator/overview)
 - [Consolas](https://www.lucasfonts.com/custom/consolas-overview)
-- [Comic Mono](https://github.com/dtinth/comic-mono-font) - Legible monospace font. ([Web](https://dtinth.github.io/comic-mono-font/))
+- [Comic Mono](https://dtinth.github.io/comic-mono-font/) - Legible monospace font. ([Code](https://github.com/dtinth/comic-mono-font)) ([HN](https://news.ycombinator.com/item?id=25520510))
 
 ## Links
 

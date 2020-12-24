@@ -138,3 +138,6 @@
 - [Tabula Rasa Record Company](https://www.tabularasarecords.com/) ([Tweet](https://twitter.com/TabulaRasaRcrds/status/1334194281041387520))
 - [MuseTree](https://stevenwaterman.uk/musetree/) - Custom front-end for OpenAi's MuseNet, the AI music generator. ([Code](https://github.com/stevenwaterman/musetree))
 - [Voicebook](https://www.neurolex.ai/voicebook/) - Learn how to build voice applications in Python.
+- [Burial's Untrue: The making of a masterpiece (2017)](https://www.youtube.com/watch?v=Et5B-zfAIIo)
+- [MuseGAN](https://github.com/salu133445/musegan) - AI for Music Generation.
+- [MusPy](https://github.com/salu133445/muspy) - Toolkit for symbolic music generation.

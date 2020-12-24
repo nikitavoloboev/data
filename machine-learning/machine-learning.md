@@ -375,3 +375,4 @@
 - [How much hyperparameter tuning do you typically end up doing? (2020)](https://www.reddit.com/r/MachineLearning/comments/khyk9r/d_for_those_in_the_industry_how_much/)
 - [ZenML](https://github.com/maiot-io/zenml) - Extensible, open-source MLOps framework for using production-ready Machine Learning pipelines.
 - [MIT Parallel Computing and Scientific Machine Learning course (2020)](https://github.com/mitmath/18337)
+- [Invariant Risk Minimization (2019)](https://arxiv.org/abs/1907.02893v1) ([Code](https://github.com/facebookresearch/InvariantRiskMinimization))

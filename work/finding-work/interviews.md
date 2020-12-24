@@ -105,3 +105,4 @@
 - [Interviews.school](https://interviews.school/) - Complete interview preparation guide.
 - [What I Learned From Bombing My Technical Interview (2020)](https://dev.to/ceeoreo/what-i-learned-from-bombing-my-technical-interview-22b5)
 - [Technical Interviewer's Checklist (2020)](https://jeffchen.dev/posts/Technical-Interview-Checklist/)
+- [Interview advice that got me offers](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) ([HN](https://news.ycombinator.com/item?id=25519718))

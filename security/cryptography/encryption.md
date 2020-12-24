@@ -25,3 +25,4 @@
 - [EU Draft Council Declaration Against Encryption (2020)](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf) ([HN](https://news.ycombinator.com/item?id=25028411)) ([Lobsters](https://lobste.rs/s/ydeb9n/eu_draft_declaration_against_encryption))
 - [A Furry’s Guide to End-to-End Encryption (2020)](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/) ([Lobsters](https://lobste.rs/s/mn1am1/going_bark_furry_s_guide_end_end))
 - [Keeping encryption elitist (2020)](https://blog.cerebralab.com/Keeping_encryption_elitist)
+- [Tomb](https://github.com/dyne/Tomb) - Open source system for easy encryption and backup of personal files.
