@@ -257,6 +257,7 @@ Here are few more things I liked, design wise.
 - [Charlotte Dann](https://charlottedann.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Zach Bruggeman](https://bruggie.com/)
+- [Sequoia McDowell](https://sequoia.makes.software/)
 - [Femke van Schoonhoven](https://www.femke.co.nz/)
 - [Matías Martínez](https://matias.ma/)
 - [Matt D. Smith](http://mds.is/)

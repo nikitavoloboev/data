@@ -12,3 +12,4 @@
 - [Дмитрий Марков и Поля из деревки там, куда редко ездят по своей воле (2020)](https://www.youtube.com/watch?v=9Bv2zltQKQA)
 - [Медиазона](https://zona.media/)
 - [KGB Files YouTube](https://www.youtube.com/channel/UCZqIDYYURLSDJLTsw58u24w/videos)
+- ["If it Hadn't Been for the Prompt Work of the Medics": FSB Officer Inadvertently Confesses Murder Plot to Navalny (2020)](https://www.bellingcat.com/news/uk-and-europe/2020/12/21/if-it-hadnt-been-for-the-prompt-work-of-the-medics-fsb-officer-inadvertently-confesses-murder-plot-to-navalny/)

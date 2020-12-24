@@ -43,3 +43,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Ideal Chess – drop chess perfected? (2020)](https://www.lesswrong.com/posts/gXLqCxELLKZRTWoMc/ideal-chess-drop-chess-perfected) ([HN](https://news.ycombinator.com/item?id=25473355))
 - [Assessing Game Balance with AlphaZero: Exploring Alternative Rule Sets in Chess (2020)](https://arxiv.org/abs/2009.04374)
 - [Building My Own Chess Engine (2020)](https://healeycodes.com/building-my-own-chess-engine/) ([Lobsters](https://lobste.rs/s/6z2fqa/building_my_own_chess_engine)) ([HN](https://news.ycombinator.com/item?id=25516430))
+- [Apple's chess engine code](https://opensource.apple.com/source/Chess/) ([Reddit](https://www.reddit.com/r/apple/comments/kjakan/til_apple_open_sourced_their_chess_engine/))
+- [Sjeng](https://www.sjeng.org/indexold.html) - Chess-and-variants playing program.

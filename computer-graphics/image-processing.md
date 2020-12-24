@@ -70,3 +70,4 @@
 - [imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly.
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool. ([HN](https://news.ycombinator.com/item?id=25401100))
 - [Triangler](https://github.com/tdh8316/triangler) - Images to Low-Poly art using Python and Delaunay triangulation.
+- [Geometrize](https://www.geometrize.co.uk/) - Transform images into geometric primitives. ([Code](https://github.com/Tw1ddle/geometrize))
