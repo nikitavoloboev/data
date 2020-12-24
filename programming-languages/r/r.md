@@ -41,3 +41,4 @@
 - [Awesome R Learning Resources](https://github.com/iamericfletcher/awesome-r-learning-resources)
 - [reticulate](https://github.com/rstudio/reticulate) - R Interface to Python.
 - [JuliaCall](https://github.com/Non-Contradiction/JuliaCall) - Embed Julia in R.
+- [docopt](https://github.com/docopt/docopt.R) - Command-line interface description language for R. ([Web](http://docopt.org/))

@@ -127,6 +127,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-colors-xcode](https://github.com/arzg/vim-colors-xcode) - Xcode 11’s dark and light colourschemes, now for Vim.
 - [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - Neovim statusline plugin written in lua.
 - [Lush](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
+- [neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance.
 
 ## Syntax
 
