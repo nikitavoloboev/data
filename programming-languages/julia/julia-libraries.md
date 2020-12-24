@@ -148,6 +148,7 @@
 - [BlockArrays.jl](https://github.com/JuliaArrays/BlockArrays.jl) - BlockArrays for Julia.
 - [InteractiveAudio](https://github.com/cduck/InteractiveAudio.jl) - Julia package to generate and play audio while dynamically changing the underlying code in real time.
 - [GFlops.jl](https://github.com/triscale-innov/GFlops.jl) - Estimate the absolute performance of a piece of Julia code.
+- [VectorizationBase](https://github.com/chriselrod/VectorizationBase.jl) - Library providing basic SIMD support in Julia.
 
 ## Links
 

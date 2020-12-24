@@ -28,3 +28,4 @@
 - [Blender Add-on: Magic UV](https://github.com/nutti/Magic-UV) - Many UV manipulation features which Blender lack of.
 - [Blender Resources](https://blenderresources.com/) - Curated list of resources to help your blender journey. ([Code](https://github.com/SaraVieira/blender-resources))
 - [Blender for Beginners: A Tutorial That’ll Help You Get Started (2020)](https://www.ego-cms.com/post/blender-for-beginners-a-tutorial-thatll-help-you-get-started)
+- [Sketchfab Blender Addon](https://github.com/sketchfab/blender-plugin) - Directly import and export models from and to Sketchfab in Blender.
