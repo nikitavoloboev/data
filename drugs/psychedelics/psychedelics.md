@@ -96,3 +96,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Johns Hopkins Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/)
 - [Erowid](https://www.erowid.org/) - Documenting the complex relationship between humans & psychoactives.
 - [Matthew Johnson: Psychedelics (2020)](https://overcast.fm/+eZyDSt_hI)
+- [Psychedelic receptor signalling](https://www.reddit.com/r/RationalPsychonaut/comments/kiyynj/a_diagram_i_made_about_psychedelic_receptor/)

@@ -65,3 +65,4 @@
 - [Dataclasses serializer](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework.
 - [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering in the templates.
 - [DIY Django and React Boilerplate for SaaS](https://github.com/saasitive/django-react-boilerplate) ([Web](https://saasitive.com/)) ([HN](https://news.ycombinator.com/item?id=25517226))
+- [django-unicorn](https://github.com/adamghill/django-unicorn) - Provides a way to use backend Django code and regular Django templates to create interactive experiences without investing in a separate frontend framework. ([Web](https://www.django-unicorn.com/))

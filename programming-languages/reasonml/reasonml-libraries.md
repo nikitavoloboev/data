@@ -8,6 +8,7 @@
 - [Reprocessing](https://github.com/Schmavery/reprocessing) - ReasonML graphics library inspired by Processing.
 - [Sihl](https://github.com/oxidizing/sihl) - Web framework for Reason.
 - [Tenzir UI Component Library](https://github.com/tenzir/ui-component-library) - ReasonML-first UI Component Library.
+- [reason-urql](https://github.com/FormidableLabs/reason-urql) - Reason bindings for Formidable's Universal React Query Library, urql.
 
 ## Test
 

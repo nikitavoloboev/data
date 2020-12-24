@@ -176,3 +176,4 @@
 - [GraphQL Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - The definitive guide to express your GraphQL schema succinctly.
 - [GraphQL Middleware](https://github.com/maticzav/graphql-middleware) - Schema wrapper which allows you to manage additional functionality across multiple resolvers efficiently.
 - [@magiql/ide](https://github.com/nksaraf/magiql-ide) - Web-based IDE for GraphQL, based on monaco-editor.
+- [Dockerize Graphql Rust](https://github.com/jayy-lmao/rust-graphql-docker) - Scratch-Containerised Rust GraphQL-API using Dataloaders.
