@@ -80,3 +80,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Watershed](https://www.watershedclimate.com/) - Helping companies cut carbon.
 - [Johannes Ackva: An update to our thinking on climate change (2020)](https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change/)
 - [Climate Change AI](https://www.climatechange.ai/) - Tackling Climate Change with Machine Learning.
+- [Climate Modeling Alliance](https://clima.caltech.edu/) - Alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling. ([GitHub](https://github.com/CliMA))

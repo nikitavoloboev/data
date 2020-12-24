@@ -77,6 +77,8 @@
 - [use-subsequent-effect](https://github.com/bouchenoiremarc/use-subsequent-effect) - use(Layout)Effect variant hook that skips the initial render.
 - [Focus Rings](https://github.com/discord/focus-rings) - Centralized system for displaying and stylizing focus indicators anywhere on a webpage.
 - [react-collapsed (useCollapse)](https://github.com/roginfarrer/react-collapsed) - React custom-hook for creating flexible and accessible expand/collapse components.
+- [uhooks](https://github.com/WebReflection/uhooks) - Micro hooks: a minimalistic client/server hooks' implementation.
+- [uhooks-nofx](https://github.com/WebReflection/uhooks-nofx) - Hooks without any side-effect, to provide the exact same uhooks API but doing pretty much nothing, except returning the right initial value for SSR components.
 
 ## Notes
 

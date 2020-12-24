@@ -34,3 +34,4 @@
 - [SRFIs for Chez Scheme](https://github.com/arcfide/chez-srfi)
 - [Compiling Scheme to C with flat closure conversion](http://matt.might.net/articles/compiling-scheme-to-c/)
 - [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)
+- [scheme.rs](https://github.com/isamert/scheme.rs) - Simple yet comprehensive scheme interpreter in rust.

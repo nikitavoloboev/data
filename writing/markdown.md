@@ -47,3 +47,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [bibtex-markdown](https://github.com/kyledewey/bibtex-markdown) - Hack to integrate BibTeX into markdown in a way that is independent of the markdown parser.
 - [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc.go) - Easy TOC creation for GitHub README.md.
 - [godown](https://github.com/mattn/godown) - Convert HTML into Markdown.
+- [marks](https://github.com/isamert/marks) - Simple and fast search-engine like tool for org/markdown files.
