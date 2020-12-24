@@ -48,6 +48,7 @@
 - [Gofight](https://github.com/appleboy/gofight) - Testing API Handler written in Go.
 - [Prettybench](https://github.com/cespare/prettybench) - Tool for transforming go test's benchmark output a bit to make it nicer for humans.
 - [goldie](https://github.com/sebdah/goldie) - Golden test utility for Go.
+- [gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
 
 ## Web
 

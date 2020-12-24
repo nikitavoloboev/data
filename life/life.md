@@ -33,3 +33,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [I turn 27 today, here's ~27 micro-essays on life (2020)](https://www.mrdbourke.com/27/)
 - [Ask HN: What's Life All About? (2020)](https://news.ycombinator.com/item?id=25000134)
 - [Tibor Gánti's ideas about the origins of life (2020)](https://www.nationalgeographic.com/science/2020/12/he-may-have-found-the-key-to-origins-of-life-tibor-ganti-chemoton/) ([HN](https://news.ycombinator.com/item?id=25508394))
+- [Tips for a Better Life (2020)](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) ([HN](https://news.ycombinator.com/item?id=25518730))
