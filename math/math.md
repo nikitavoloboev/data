@@ -223,3 +223,4 @@
 - [A Course of Pure Mathematics (1921)](https://avidemia.com/pure-mathematics/)
 - [Learn Mathematics from start to finish (2020)](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 - [MIT Mathematics](https://math.mit.edu/) ([GitHub](https://github.com/mitmath))
+- [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
