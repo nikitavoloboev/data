@@ -190,3 +190,4 @@
 - [PCT: Point Cloud Transformer (2020)](https://arxiv.org/pdf/2012.09688.pdf) ([Code](https://github.com/MenghaoGuo/PCT))
 - [Learning Continuous Image Representation with Local Implicit Image Function (2020)](https://arxiv.org/abs/2012.09161) ([Code](https://github.com/yinboc/liif))
 - [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat)
+- [DeiT: Data-efficient Image Transformers](https://github.com/facebookresearch/deit)

@@ -128,3 +128,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [CDK Patterns](https://github.com/cdk-patterns/serverless) - AWS Serverless architecture patterns built with CDK for developers to use. ([Web](https://cdkpatterns.com/))
 - [AWS Deployment Framework](https://github.com/awslabs/aws-deployment-framework) - Extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions within an AWS Organization.
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
+- [AWS CLI Cheat Sheet](https://github.com/eon01/AWS-CheatSheet)

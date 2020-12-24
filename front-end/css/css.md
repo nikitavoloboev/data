@@ -242,3 +242,4 @@
 - [Panzoom](https://github.com/timmywil/panzoom) - Library for panning and zooming elements using CSS transforms.
 - [Centering in CSS (2020)](https://web.dev/centering-in-css/) ([HN](https://news.ycombinator.com/item?id=25447511))
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.
+- [PostHTML Inline CSS](https://github.com/posthtml/posthtml-inline-css) - PostHTML plugin for inlining CSS to style attrs.

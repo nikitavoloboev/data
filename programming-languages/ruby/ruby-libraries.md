@@ -18,3 +18,7 @@
 - [Shoryuken](https://github.com/phstc/shoryuken) - Super-efficient Amazon SQS thread-based message processor.
 - [Tapioca](https://github.com/Shopify/tapioca) - Generate RBI files for your project's gem dependencies.
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
+
+## Links
+
+- [RubyGems](https://rubygems.org/) - Library packaging and distribution for Ruby. ([Code](https://github.com/rubygems/rubygems))

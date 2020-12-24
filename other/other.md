@@ -423,3 +423,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) ([HN](https://news.ycombinator.com/item?id=25513713))
 - [Flask-State](https://github.com/yoobool/flask-state) - Display machine state using Python 3 with Flask.
 - [I wired my tree with 500 LED lights and calculated their 3D coordinates (2020)](https://www.youtube.com/watch?v=TvlpIojusBE)
+- [TechStack](https://techstack-logos.web.app/) - Easy way to visualize your tech stack as logos. ([Code](https://github.com/erangeles/techstack))

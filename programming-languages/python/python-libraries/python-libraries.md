@@ -258,6 +258,7 @@
 - [structlog](https://github.com/hynek/structlog) - Structured Logging for Python.
 - [JMESPath.py](https://github.com/jmespath/jmespath.py) - Declaratively specify how to extract elements from a JSON document.
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettifies Python exception output to make it legible.
+- [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier and adversarial instance detection, concept drift and metrics.
 
 ## Links
 

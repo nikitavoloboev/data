@@ -294,3 +294,6 @@
 - [Akri](https://github.com/deislabs/akri) - Kubernetes Resource Interface for the Edge.
 - [KubeEdge](https://kubeedge.io/en/) - Kubernetes Native Edge Computing Framework. ([Code](https://github.com/kubeedge/kubeedge))
 - [Picking a Kubernetes Orchestrator: Airflow, Argo, and Prefect (2020)](https://medium.com/arthur-engineering/picking-a-kubernetes-orchestrator-airflow-argo-and-prefect-83539ecc69b) ([HN](https://news.ycombinator.com/item?id=25455896))
+- [Operator SDK](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. ([Web](https://sdk.operatorframework.io/))
+- [Kubectl Sheetcheat](https://github.com/eon01/kubectl-SheetCheat)
+- [Gentle introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
