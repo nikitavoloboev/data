@@ -422,7 +422,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Fathom](https://github.com/yeslogic/fathom) - Declarative data definition language for formally specifying binary data formats.
 - [Things You're Allowed to Do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) ([HN](https://news.ycombinator.com/item?id=25513713))
 - [Flask-State](https://github.com/yoobool/flask-state) - Display machine state using Python 3 with Flask.
-- [I wired my tree with 500 LED lights and calculated their 3D coordinates (2020)](https://www.youtube.com/watch?v=TvlpIojusBE) ([HN](https://news.ycombinator.com/item?id=25528260))
+- [I wired my tree with 500 LED lights and calculated their 3D coordinates (2020)](https://www.youtube.com/watch?v=TvlpIojusBE) ([HN](https://news.ycombinator.com/item?id=25528260)) ([Code](https://github.com/standupmaths/xmastree2020))
 - [TechStack](https://techstack-logos.web.app/) - Easy way to visualize your tech stack as logos. ([Code](https://github.com/erangeles/techstack))
 - [Ask HN: What Lived Up to the Hype? (2020)](https://news.ycombinator.com/item?id=25525457)
 - [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)

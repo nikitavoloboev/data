@@ -206,3 +206,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Organise your commits (2020)](https://www.ncameron.org/blog/organise-your-commits/)
 - [Experimenting with git storage (2020)](https://nedbatchelder.com//blog/202012/experimenting_with_git_storage.html) ([Lobsters](https://lobste.rs/s/pqlm33/experimenting_with_git_storage))
 - [Fornalder](https://github.comn/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
+- [What comes after Git? (2020)](https://twitter.com/jasoncwarner/status/1342172372061749248) ([HN](https://news.ycombinator.com/item?id=25535844))
