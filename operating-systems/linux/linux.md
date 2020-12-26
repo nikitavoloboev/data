@@ -243,3 +243,4 @@
 - [Static calls in Linux 5.10 (2020)](https://blog.yossarian.net/2020/12/16/Static-calls-in-Linux-5-10) ([HN](https://news.ycombinator.com/item?id=25453663))
 - [eBPF is awesome (2020)](https://filipnikolovski.com/posts/ebpf/) ([HN](https://news.ycombinator.com/item?id=25490138))
 - [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline)
+- [Asahi Linux](https://github.com/AsahiLinux) - Porting Linux to Apple Silicon macs. ([Twitter](https://twitter.com/AsahiLinux))

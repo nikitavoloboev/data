@@ -123,3 +123,4 @@
 - [Game UI Database](https://www.gameuidatabase.com/) - Reference tool for interface designers.
 - [Ask HN: I'm quitting my job, will create a game – any advice? (2020)](https://news.ycombinator.com/item?id=25376714)
 - [The Lighting of Need for Speed Heat in Frostbite (2020)](https://www.youtube.com/watch?v=K-CIiBpOI0o)
+- [ink](https://www.inklestudios.com/ink/) - Narrative scripting language. ([Code](https://github.com/inkle/ink))

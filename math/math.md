@@ -224,3 +224,4 @@
 - [Learn Mathematics from start to finish (2020)](https://www.youtube.com/watch?v=pTnEG_WGd2Q)
 - [MIT Mathematics](https://math.mit.edu/) ([GitHub](https://github.com/mitmath))
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
+- [Mathematics and Computation (2018)](https://www.math.ias.edu/files/mathandcomp.pdf#page=1)
