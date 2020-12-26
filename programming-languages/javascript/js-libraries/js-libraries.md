@@ -33,6 +33,7 @@
 - [Svelto](https://github.com/svelto/svelto) - Modular front end framework for modern browsers, with battery included: 100+ widgets and tools.
 - [modular](https://github.com/jpmorganchase/modular) - Collection of tools and guidance to enable UI development at scale. ([Tweet](https://twitter.com/threepointone/status/1340620223993540608))
 - [Turbo](https://github.com/hotwired/turbo) - Speed of a single-page web application without having to write any JavaScript. ([Web](https://turbo.hotwire.dev/))
+- [Fre](https://github.com/yisar/fre) - Tiny Coroutine framework with Fiber.
 
 ## Animation
 
