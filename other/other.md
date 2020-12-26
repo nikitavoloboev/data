@@ -426,3 +426,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [TechStack](https://techstack-logos.web.app/) - Easy way to visualize your tech stack as logos. ([Code](https://github.com/erangeles/techstack))
 - [Ask HN: What Lived Up to the Hype? (2020)](https://news.ycombinator.com/item?id=25525457)
 - [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
+- [Looking Glass Factory](https://lookingglassfactory.com/) - World's Leading Holographic Display.
