@@ -38,3 +38,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share some boards in pub
 - [notablog](https://github.com/dragonman225/notablog) - Generate a minimalistic blog from a Notion.so table.
 - [Vue Notion](https://github.com/janniks/vue-notion) - Fast Vue renderer for Notion pages. ([HN](https://news.ycombinator.com/item?id=25505604))
 - [UX Issues with Notion (2020)](https://telegra.ph/Notion-is-a-UX-Disaster-12-23) ([HN](https://news.ycombinator.com/item?id=25521487))
+- [React Notion X](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included.

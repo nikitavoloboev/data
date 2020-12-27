@@ -10,3 +10,4 @@
 - [Introduction to Google Cloud Functions (2020)](https://ncona.com/2020/11/introduction-to-google-cloud-functions/) ([HN](https://news.ycombinator.com/item?id=24987197))
 - [Terraform module for configuring GKE clusters](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine)
 - [google-cloud-rs](https://github.com/google-apis-rs/google-cloud-rs) - Asynchronous Rust bindings for Google Cloud Platform gRPC APIs.
+- [2020: The year in databases at Google Cloud](https://cloud.google.com/blog/products/databases/managed-cloud-database-services-what-was-new-in-2020)
