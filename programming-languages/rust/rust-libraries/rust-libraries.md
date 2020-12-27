@@ -43,6 +43,7 @@
 - [hyper-rustls](https://github.com/ctz/hyper-rustls) - Integration between the rustls TLS stack and the hyper HTTP library.
 - [biscuit-rust](https://github.com/CleverCloud/biscuit-rust) - Rust implementation of the Biscuit authorization token.
 - [OpenMLS](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol.
+- [Tower](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
 
 ## WASM
 
@@ -595,6 +596,7 @@
 - [RIPP (Rust Inner Pairing Products)](https://github.com/arkworks-rs/ripp) - Rust library for proofs about inner pairing products, and applications built atop these.
 - [fake-rs](https://github.com/cksac/fake-rs) - Rust library for generating fake data.
 - [Xactor](https://github.com/sunli829/xactor) - Rust actors framework based on async-std.
+- [Failsafe](https://github.com/dmexe/failsafe-rs) - Circuit breaker implementation for rust.
 
 ## Cargo Plugins
 

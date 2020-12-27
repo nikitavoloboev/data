@@ -73,3 +73,4 @@
 - [Unsupervised image-to-image translation method via pre-trained StyleGAN2 network](https://github.com/HideUnderBush/UI2I_via_StyleGAN2)
 - [Experiments with StyleGAN2](https://github.com/JCBrouwer/maua-stylegan2)
 - [Awesome Pretrained StyleGAN2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
+- [Training Generative Adversarial Networks by Solving Ordinary Differential Equations (2020)](https://arxiv.org/abs/2010.15040) ([Code](https://github.com/nshepperd/ode-gan-pytorch))

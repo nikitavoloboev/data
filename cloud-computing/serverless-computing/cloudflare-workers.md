@@ -33,3 +33,4 @@
 - [Vite SSR](https://github.com/frandiox/vite-ssr) - Use Vite for server side rendering in Node or in a Cloudflare Worker.
 - [lilredirector](https://github.com/signalnerve/lilredirector) - Redirector engine built for Cloudflare Workers.
 - [Cloudflare working on Cloudflare Pages, for deploying and hosting JAMstack (2020)](https://twitter.com/wongmjane/status/1335198021131194370) ([HN](https://news.ycombinator.com/item?id=25326232))
+- [saffron](https://github.com/cloudflare/saffron) - Cron parser powering Cron Triggers on Cloudflare Workers.
