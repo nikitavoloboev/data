@@ -19,5 +19,6 @@
 - [Orbit](https://github.com/uber/orbit) - Python package for time series modeling and inference using Bayesian sampling methods for model estimation. ([Docs](https://uber.github.io/orbit/))
 - [PyMC3](https://github.com/pymc-devs/pymc3) - Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms.
 - [PyMC3 Resources](https://github.com/pymc-devs/resources)
+- [PyMC3 Examples](https://github.com/pymc-devs/pymc-examples) - Examples of PyMC3 models, including a library of Jupyter notebooks.
 - [Ranked Programming](https://github.com/tjitze/ranked-programming) - Ranked Programming Extension for Racket. Ranked programming is similar to probabilistic programming, except that the underlying uncertainty formalism is replaced with ranking theory.
 - [Foundations of Probabilistic Programming (2020)](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
