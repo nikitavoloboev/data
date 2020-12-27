@@ -1,5 +1,9 @@
 # Travel
 
+## Notes
+
+- Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
+
 ## Links
 
 - [These photos are why I’m trapped in Tokyo forever now](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)

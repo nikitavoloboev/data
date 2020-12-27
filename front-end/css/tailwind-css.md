@@ -52,3 +52,4 @@
 - [tailwindcss/typography](https://github.com/tailwindlabs/tailwindcss-typography) - Plugin that provides a set of prose classes you can use to add beautiful typographic defaults to any vanilla HTML you don't control.
 - [Beamwind](https://github.com/kenoxa/beamwind) - Collection of packages to compile Tailwind CSS like shorthand syntax into CSS at runtime.
 - [Twind](https://github.com/tw-in-js/twind) - Smallest, fastest, most feature complete Tailwind-in-JS solution in existence. ([Web](https://twind.dev/))
+- [Blog – Tailwind CSS](https://blog.tailwindcss.com/) ([Code](https://github.com/tailwindlabs/blog.tailwindcss.com))

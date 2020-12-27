@@ -134,6 +134,7 @@
 - [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 - [Jukebox](https://github.com/teodorpatras/Jukebox) - iOS audio player written in Swift.
 - [Turbo Native for iOS](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps.
+- [UserDefaultsSnapshot](https://github.com/VergeGroup/UserDefaultsSnapshot) - Library that enables us to create a snapshot of the values which UserDefaults manages.
 
 ## macOS
 

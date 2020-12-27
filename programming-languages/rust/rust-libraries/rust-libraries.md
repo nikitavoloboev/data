@@ -597,6 +597,7 @@
 - [fake-rs](https://github.com/cksac/fake-rs) - Rust library for generating fake data.
 - [Xactor](https://github.com/sunli829/xactor) - Rust actors framework based on async-std.
 - [Failsafe](https://github.com/dmexe/failsafe-rs) - Circuit breaker implementation for rust.
+- [rust-ascii](https://github.com/tomprogrammer/rust-ascii) - ASCII-only equivalents to `char`, `str` and `String`.
 
 ## Cargo Plugins
 

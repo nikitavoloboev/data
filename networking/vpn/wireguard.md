@@ -25,3 +25,4 @@
 - [dsnet](https://github.com/naggie/dsnet) - Simple command to manage a centralised wireguard VPN.
 - [Wireguard Bounce Server](https://gitlab.com/ncmncm/wireguard-bounce-server/) ([HN](https://news.ycombinator.com/item?id=25447805))
 - [IPv6 WireGuard Peering (2020)](https://fly.io/blog/ipv6-wireguard-peering/) ([HN](https://news.ycombinator.com/item?id=25513828))
+- [wireguard-manager](https://github.com/edomora97/wireguard-manager) - Build and manage a network of servers that provides a distributed VPN using wireguard.

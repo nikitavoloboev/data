@@ -132,3 +132,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [ethers.rs](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation in Rust.
 - [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics.
 - [Solidity Koans](https://soliditykoans.org/) - Learn Ethereum Solidity programming through test driven development. ([Code](https://github.com/nczhu/solidity-koans))
+- [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ([Web](https://manojpramesh.github.io/solidity-cheatsheet/))
