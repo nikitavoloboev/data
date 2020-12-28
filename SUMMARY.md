@@ -871,4 +871,4 @@
     - [2020 September](looking-back/2020/2020-september.md)
     - [2020 October](looking-back/2020/2020-october.md)
     - [2020 November](looking-back/2020/2020-november.md)
-    - [2020 December](looking-back/2020/2020-november.md)
+    - [2020 December](looking-back/2020/2020-december.md)
