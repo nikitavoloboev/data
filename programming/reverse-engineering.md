@@ -6,6 +6,7 @@
 - [Reverse Engineering for Beginners](https://beginners.re/)
 - [Binary Analysis Platform](https://github.com/BinaryAnalysisPlatform/bap) - Reverse engineering and program analysis platform that works with binary code and doesn't require the source code.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+- [A first look at Ghidra's Debugger - Game Boy Advance Edition (2020)](https://wrongbaud.github.io/posts/ghidra-debugger/)
 - [Binary Analysis Next Generation (BANG)](https://github.com/armijnhemel/binaryanalysis-ng) - Framework for unpacking files (like firmware) recursively and running checks on the unpacked files.
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
 - [Rizin](https://github.com/rizinorg/rizin) - Fork of the radare2 reverse engineering framework with a focus on usability, working features and code cleanliness. ([Web](https://rizin.re/)) ([HN](https://news.ycombinator.com/item?id=25402690))
@@ -69,3 +70,6 @@
 - [Reverse Engineering Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - Comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor for Reverse Engineers. ([HN](https://news.ycombinator.com/item?id=25353965))
 - [Triton](https://github.com/JonathanSalwan/Triton) - Dynamic Binary Analysis (DBA) framework.
+- [How I reverse-engineered Google Docs to play back any document's keystrokes (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/) ([HN](https://news.ycombinator.com/item?id=8562483))
+- [Reverse-engineering an early calculator chip with four-phase logic (2020)](http://www.righto.com/2020/12/reverse-engineering-early-calculator.html)
+- [Qiling Framework](https://www.qiling.io/) - Advanced Binary Emulation Framework. ([Code](https://github.com/qilingframework/qiling))

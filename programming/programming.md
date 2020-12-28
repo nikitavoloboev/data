@@ -301,3 +301,5 @@
 - [How Tail Call Optimization Works (2020)](https://eklitzke.org/how-tail-call-optimization-works)
 - [On developer metrics - Time to debug (2020)](https://samsaccone.com/posts/time-to-debug.html) ([Tweet](https://twitter.com/samccone/status/1340745781096054784))
 - [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/) ([HN](https://news.ycombinator.com/item?id=25500815)) ([Lobsters](https://lobste.rs/s/yasguo/my_engineering_axioms))
+- [What is a Pedagogic IDE?](https://parentheticallyspeaking.org/articles/pedagogic-ide/)
+- [Coding as a tool of thought (2020)](https://surfingcomplexity.blog/2020/12/21/coding-as-a-tool-of-thought/) ([Lobsters](https://lobste.rs/s/4wjvfy/coding_as_tool_thought))

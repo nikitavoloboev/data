@@ -8,7 +8,7 @@
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge. Build in public.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
-- Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think slow & deep (fundamental based). Move in right direction. Move fast. No regrets.
+- Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. Move fast. No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
@@ -37,7 +37,7 @@
 
 ## Focus
 
-- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal. Think from first principles.
+- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.

@@ -13,3 +13,4 @@
 - [Project Conncept](https://github.com/mholt/conncept) - Layer 4 app for Caddy that multiplexes raw TCP/UDP streams.
 - [Setting up a custom 404 page with Caddy v2 (2020)](https://vivekseth.com/caddy-custom-404/)
 - [Caddy site code](https://github.com/caddyserver/website)
+- [caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0, SAML Authentication.

@@ -859,7 +859,7 @@
     - [2019 October](looking-back/2019/2019-october.md)
     - [2019 November](looking-back/2019/2019-november.md)
     - [2019 December](looking-back/2019/2019-december.md)
-  - 2020
+  - [2020](looking-back/2020/2020.md)
     - [2020 January](looking-back/2020/2020-january.md)
     - [2020 February](looking-back/2020/2020-february.md)
     - [2020 March](looking-back/2020/2020-march.md)
@@ -871,3 +871,4 @@
     - [2020 September](looking-back/2020/2020-september.md)
     - [2020 October](looking-back/2020/2020-october.md)
     - [2020 November](looking-back/2020/2020-november.md)
+    - [2020 December](looking-back/2020/2020-november.md)

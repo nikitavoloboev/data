@@ -181,3 +181,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Babel](https://www.irif.fr/~jch/software/babel/) - Loop-avoiding distance-vector routing protocol for IPv6 and IPv4 with fast convergence properties. ([Code](https://github.com/jech/babeld))
 - [Network UPS Tools](https://github.com/networkupstools/nut) - Collection of programs which provide a common interface for monitoring and administering UPS, PDU and SCD hardware. ([Web](https://networkupstools.org/))
 - [ESP-Hosted solution](https://github.com/espressif/esp-hosted) - Provides a way to use ESP32 or ESP32-S2 (termed as ESP peripheral) as a communication processor for Wi-Fi and Bluetooth/BLE connectivity.
+- [Fun with IP address parsing (2020)](https://blog.dave.tf/post/ip-addr-parsing/) ([HN](https://news.ycombinator.com/item?id=25545967)) ([Lobsters](https://lobste.rs/s/fcgrjt/fun_with_ip_address_parsing))

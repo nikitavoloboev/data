@@ -60,3 +60,5 @@
 - [Spree Commerce](https://github.com/spree/spree) - Open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL. ([Web](https://spreecommerce.org/))
 - [Ecommerce Site Search Best Practices for 2021](https://searchnode.com/blog/ecommerce-site-search-best-practices/)
 - [RetentionX](https://www.retentionx.com/) - AI for Shopify.
+- [Accept payments with Stripe Checkout](https://github.com/stripe-samples/checkout-one-time-payments) - Shows you how to integrate with Stripe Checkout.
+- [Stripe](https://stripe.com/) - Online payment processing for internet businesses. ([Stripe Samples](https://github.com/stripe-samples))

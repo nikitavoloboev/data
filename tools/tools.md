@@ -236,7 +236,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 - [Fixmie](https://fixmie.com/) - Automated code fixes.
-- [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page. ([Code](https://github.com/upptime/upptime))
+- [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page. ([Code](https://github.com/upptime/upptime)) ([HN](https://news.ycombinator.com/item?id=25553445))
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
 - [QAReplay](https://qareplay.com/) - Record steps to reproduce effortlessly.
@@ -258,6 +258,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
+- [Dialup](https://dialup.com/) - Serendipitous voice chat.
 - [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
 - [Notifly](https://www.notifly.io/) - Let us handle your web app notifications.

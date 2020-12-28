@@ -47,3 +47,4 @@
 - [Getting started with SEO 101 (2020)](https://twitter.com/jdnoc/status/1336699825325268993)
 - [Greenflare SEO Web Crawler](https://github.com/beb7/gflare-tk) - Open-Source Python Based SEO Web Crawler. ([Web](https://greenflare.io/))
 - [Top SEO myths to kiss goodbye in 2020](https://tabtimize.com/top-10-seo-myths-to-kiss-goodbye-in-2020/)
+- [Demystifying SEO with experiments (2015)](https://medium.com/pinterest-engineering/demystifying-seo-with-experiments-a183b325cf4c)

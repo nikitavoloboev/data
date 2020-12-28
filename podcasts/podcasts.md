@@ -103,6 +103,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Curated podcasts list](https://roadmap.sh/podcasts)
 - [Podcasts in Russian](https://russiancast.club/)
 - [Collection of Podcasts for Developers](https://devandgear.com/posts/collection-podcasts-for-developers/)
+- [The 50 Best Podcasts of 2020](https://www.theatlantic.com/culture/archive/2020/12/50-best-podcasts-2020/617486/)
 
 ## Notes
 

@@ -15,3 +15,4 @@
 - [Firmware Analysis and Comparison Tool (FACT)](https://github.com/fkie-cad/FACT_core)
 - [Tasmota](https://github.com/arendst/tasmota/) - Cloud-free open source smart home firmware for ESP8266 devices. ([Docs](https://tasmota.github.io/docs/About/)) ([HN](https://news.ycombinator.com/item?id=24785175))
 - [Recovering Firmware Through U-boot (2020)](https://cybergibbons.com/hardware-hacking/recovering-firmware-through-u-boot/)
+- [Marlin Firmware](https://marlinfw.org/) - Fused Deposition Engine. ([Configurations for Marlin Firmware](https://github.com/MarlinFirmware/Configurations))

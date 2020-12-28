@@ -10,6 +10,7 @@
 - [The key to success is overcommunicating.](https://news.ycombinator.com/item?id=25120207)
 - [Pay attention to who you have the highest-bandwidth conversations with (i.e., important ideas are exchanged quickly and clearly). Work with those people any way you can.](https://twitter.com/sama/status/1333491951249760256)
 - [Respect and honesty are the foundation layer that all human contact is built upon. Whatever the situation and whoever we're talking to, let's offer respect, and let's be deserving of people's trust. Offline or online, it doesn't matter.](https://twitter.com/fchollet/status/1340859937782697986)
+- [I’ve learned that when I have a positive thought about someone, it’s generally worth communicating it. If I think a coworker saved me on some project, I tell them. If my partner is making me feel warm and fuzzy, I tell her. If someone impresses me, I say so. I don’t think people express these things nearly as often as they feel them, and I expect that many of the positive things that do end up communicated have another motive behind them. Simple earnest positive comments are very much worthwhile.](https://news.ycombinator.com/item?id=25551487)
 
 ## Links
 
@@ -70,3 +71,4 @@
 - [Ask HN: How to effectively communicate results of my work to non-engineers? (2020)](https://news.ycombinator.com/item?id=25185619)
 - [Date-Night Questions](https://datenightquestions.com/) - Questions to help you know your friends & loved ones better.
 - [Ask HN: How to figure out if someone is smart during a casual conversation? (2020)](https://news.ycombinator.com/item?id=25326961)
+- [neurodiverse.team](https://neurodiverse.team/) - Building neurodiverse team culture.

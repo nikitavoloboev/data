@@ -6,7 +6,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
 
-## 2020
+## [2020](2020/2020.md)
 
 - [January](2020/2020-january.md) - Joined Rekki.
 - [February](2020/2020-february.md) - React, RN, Go.
@@ -19,6 +19,7 @@ I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) wit
 - [September](2020/2020-september.md)
 - [October](2020/2020-october.md)
 - [November](2020/2020-november.md)
+- [December](2020/2020-december.md)
 
 ## [2019](2019/2019.md)
 

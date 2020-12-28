@@ -18,3 +18,5 @@
 - [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 - [Cuemacro](https://www.cuemacro.com/) - On understanding macro markets from a quantitative perspective, in particular currency markets. ([GitHub](https://github.com/cuemacro))
 - [Bayesian Portfolio Optimization - A Stationary Process](http://www.stationaryprocess.com/bayesian-portfolio-optimization/#)
+- [OpenTrade](https://github.com/opentradesolutions/opentrade) - Open source OEMS, and algorithmic trading platform, designed for simplicity, flexibility and performance.
+- [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Library for making quantitative strategic asset allocation or portfolio optimization in Python.

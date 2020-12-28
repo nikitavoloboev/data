@@ -101,3 +101,4 @@ All active variables can be seen by running `env`.
 - [Ask HN: How do I become a shell god? (2020)](https://news.ycombinator.com/item?id=25403393)
 - [POSIX Shell and Utilities Quick Reference](http://shellhaters.org/)
 - [tab](https://github.com/austinjones/tab-rs) - Intuitive, config-driven terminal multiplexer designed for software & systems engineers.
+- [Waiting for jobs, and the concept of the shell (2020)](https://qmacro.org/autodidactics/2020/12/28/waiting-for-jobs/)

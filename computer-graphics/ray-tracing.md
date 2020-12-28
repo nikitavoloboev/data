@@ -58,3 +58,4 @@
 - [vk_mini_path_tracer](https://github.com/nvpro-samples/vk_mini_path_tracer) - Beginner-friendly Vulkan path tracing tutorial in under 300 lines of C++.
 - [OptixPathTracer](https://github.com/knightcrawler25/Optix-PathTracer) - Simple physically based path tracer based on Nvidia's Optix Ray Tracing Engine.
 - [RtRs](https://github.com/universome/rtrs) - Simple ray tracing & rasterization engine written in rust.
+- [Why Raytracing won't simplify AAA real-time rendering (2020)](http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html) ([HN](https://news.ycombinator.com/item?id=25557354))

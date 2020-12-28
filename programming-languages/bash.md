@@ -58,3 +58,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Minimal safe Bash script template (2020)](https://betterdev.blog/minimal-safe-bash-script-template/) ([Lobsters](https://lobste.rs/s/yeloyn/minimal_safe_bash_script_template)) ([HN](https://news.ycombinator.com/item?id=25428621))
 - [Bash 5.1](https://lists.gnu.org/archive/html/info-gnu/2020-12/msg00003.html) ([HN](https://news.ycombinator.com/item?id=25492551))
 - [Batsh](https://batsh.org/) - Language that compiles to Bash and Windows Batch. ([Code](https://github.com/batsh-dev-team/Batsh))
+- [Bash HTTP monitoring dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)

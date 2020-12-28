@@ -89,7 +89,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome CSV](https://github.com/secretGeek/AwesomeCSV)
 - [Guide To Using Reverse Image Search For Investigations (2019)](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)
 - [The “No Code” Delusion (2020)](https://www.alexhudson.com/2020/01/13/the-no-code-delusion/) ([HN](https://news.ycombinator.com/item?id=22033827))
-- [The Hacker Classics](http://jsomers.net/hn/) ([HN](https://news.ycombinator.com/item?id=22004066))
+- [The Hacker Classics](http://jsomers.net/hn/) ([HN](https://news.ycombinator.com/item?id=22004066)) ([Code](https://github.com/jsomers/hacker-classics))
 - [Products I Wish Existed, 2020 Edition](http://blog.eladgil.com/2020/01/products-i-wish-existed-2020-edition.html) ([HN](https://news.ycombinator.com/item?id=21969774))
 - [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList)
 - [Unofficial Apple Archive](https://www.applearchive.org/) ([HN](https://news.ycombinator.com/item?id=22066177))
@@ -427,3 +427,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What Lived Up to the Hype? (2020)](https://news.ycombinator.com/item?id=25525457)
 - [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
 - [Looking Glass Factory](https://lookingglassfactory.com/) - World's Leading Holographic Display.
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685))

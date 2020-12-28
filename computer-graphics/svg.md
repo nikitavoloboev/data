@@ -59,3 +59,5 @@
 - [vpype](https://github.com/abey79/vpype) - Swiss-Army-knife command-line tool for plotter vector graphics.
 - [svg-path-properties](https://github.com/rveciana/svg-path-properties) - JavaScript alternative to getPointAtLength(t) and getTotalLength() functions. Works with Canvas objects and when Node.
 - [Learn SVG through 24 examples (2020)](https://www.youtube.com/watch?v=kBT90nwUb_o)
+- [flowchart.js](http://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram. ([Code](https://github.com/adrai/flowchart.js))
+- [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/) - Draws simple SVG sequence diagrams from textual representation of the diagram. ([Code](https://github.com/bramp/js-sequence-diagrams))

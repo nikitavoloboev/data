@@ -132,6 +132,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Aurelio](https://github.com/nobitagit/knowledge)
 - [Thomasorus's Garden](https://thomasorus.com/home.html)
 - [Yenly Ma TIL](https://til.yenly.wtf/)
+- [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)

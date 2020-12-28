@@ -61,7 +61,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [StaticKit](https://statickit.com/) - Hassle-Free Forms For Static Sites.
 - [Netlify Search Index Plugin](https://github.com/sw-yx/netlify-plugin-search-index) - Generate a Search Index you can query via a static JSON blob or a Netlify Function.
 - [What static site generator and theme do you use for your blog (2020)](https://lobste.rs/s/h491m8/what_static_site_generator_theme_do_you)
-- [Stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
+- [Stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites. ([Web](https://stork-search.net/)) ([1.0 release](https://jameslittle.me/blog/2020/one-year-of-stork/)) ([Lobsters](https://lobste.rs/s/fagsxa/stork_turns_one_building_search_tool_for))
 - [Blazing fast math rendering on the web](http://bollu.github.io/#blazing-fast-math-rendering-on-the-web) ([Lobsters](https://lobste.rs/s/bhykd6/blazing_fast_math_rendering_on_web))
 - [Static Hoisting (2020)](https://rauchg.com/2020/static-hoisting)
 - [Shrinking my static site (2020)](https://hampton.pw/posts/shrinking-this-sites-docker-image/) ([HN](https://news.ycombinator.com/item?id=23058289))

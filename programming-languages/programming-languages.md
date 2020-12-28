@@ -146,3 +146,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [History of programming languages concepts](http://rigaux.org/language-study/concepts-history.html)
 - [Programming Languages Study](http://rigaux.org/language-study/index.html)
 - [ALGT](https://github.com/pietervdvn/ALGT) - Abstract Language Generation Tool.
+- [Stack Based Virtual Machines (2015)](https://andreabergia.com/stack-based-virtual-machines/) ([Lobsters](https://lobste.rs/s/1acll7/stack_based_virtual_machines_2015))
+- [How to design a new programming language from scratch (2020)](https://drewdevault.com/2020/12/25/How-to-design-a-new-programming-language.html) ([Lobsters](https://lobste.rs/s/vs08dv/how_design_new_programming_language_from))
+- [Automatic Language Bindings (2020)](https://floooh.github.io/2020/08/23/sokol-bindgen.html) ([Lobsters](https://lobste.rs/s/5l0ntj/automatic_language_bindings))
+- [Language resources](https://alexhumphreys.github.io/language-resources.html) - Links on how to learn how to create programming languages.

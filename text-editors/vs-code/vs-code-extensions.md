@@ -44,6 +44,7 @@ Below is a list of extensions I use.
 ## Utility
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
+- [CodeSwing](https://marketplace.visualstudio.com/items?itemName=codespaces-Contrib.codeswing) - Interactive coding environment for building web applications (aka swings). ([Code](https://github.com/codespaces-contrib/codeswing))
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Autocomplete AI. ([Code](https://github.com/codota/tabnine-vscode))
 - [Adobe XD](https://marketplace.visualstudio.com/items?itemName=Adobe.xd) - Design systems in VS Code.
 - [Docs View](https://marketplace.visualstudio.com/items?itemName=bierner.docs-view) - Display documentation in the sidebar or panel. ([Code](https://github.com/mattbierner/vscode-docs-view))

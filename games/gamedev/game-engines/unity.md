@@ -14,3 +14,4 @@
 - [A Brief Tour of the Unity Editor (2020)](https://blog.eyas.sh/2020/10/unity-for-engineers-pt4-editor-tour/)
 - [Understanding Unity Engine Objects (2020)](https://blog.eyas.sh/2020/10/unity-for-engineers-pt5-object-component/)
 - [Scalable Architecture for Unity Games (2020)](https://blog.extrawurst.org/gamedev/unity/programming/2020/11/11/scalable-unity-architecture.html)
+- [Flatbuffers in Unity - a 40x gain (2020)](https://blog.extrawurst.org/gamedev/unity/programming/rust/2020/12/26/unity-flatbuffers.html) ([Lobsters](https://lobste.rs/s/vvu3kl/flatbuffers_unity_40x_gain))

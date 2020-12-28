@@ -194,3 +194,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter for OpenType, WOFF, and WOFF2 implemented in Rust.
 - [Allsorts Tools](https://github.com/yeslogic/allsorts-tools) - Example tools for the Allsorts font parser, shaping engine, and subsetter.
 - [Transfonter](https://transfonter.org/) - Online @font-face generator.
+- [The hyperbezier pen tool](http://www.cmyr.net/blog/hyperbezier.html) - Introduces a new model for a path drawing (pen) tool, with a particular focus on font design.

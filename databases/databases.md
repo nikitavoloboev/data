@@ -117,6 +117,7 @@
 - [Firestore](https://cloud.google.com/firestore) - Develop rich applications using a fully managed, scalable, and serverless document database. ([Intro](https://ncona.com/2020/12/introduction-to-google-firestore/)) ([Running Google Firestore locally](https://ncona.com/2020/12/running-google-firestore-locally/))
 - [Graphik](https://github.com/graphikDB/graphik) - Identity-aware, permissioned, persistant document/graph database & pubsub server written in Go.
 - [AIStore](https://github.com/NVIDIA/aistore) - Lightweight object storage system with the capability to linearly scale-out with each added storage node and a special focus on petascale deep learning. ([Web](https://nvidia.github.io/aistore/))
+- [DatenLord](https://github.com/datenlord/datenlord) - Computing Defined Storage, an application-orientated, cloud-native distributed storage system.
 
 ## Tools
 
@@ -275,3 +276,4 @@
 - [dbdocs](https://dbdocs.io/) - Database Documentation and Catalog Tool.
 - [Fast database UPDATE/DELETE operations (2020)](https://www.spinellis.gr/blog/20201210/)
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+- [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics (2020)](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)

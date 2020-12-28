@@ -147,3 +147,4 @@
 - [Inside the Apple II (2020)](https://www.youtube.com/watch?v=r1VlrJboDMw)
 - [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware. ([HN](https://news.ycombinator.com/item?id=25452435))
 - [ChampSim](https://github.com/ChampSim/ChampSim) - Trace-based simulator for a microarchitecture study.
+- [Clockwork](https://github.com/dillonhuff/clockwork) - Polyhedral Analysis for Hardware Accelerators.

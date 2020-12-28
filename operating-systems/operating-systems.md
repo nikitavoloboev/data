@@ -172,3 +172,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Lobsters: What should a new OS have? (2020)](https://lobste.rs/s/jr4crd/what_should_new_os_have)
 - [16-Bit Virtual Machine in JavaScript (2020)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b) ([Code](https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine))
 - [Jonathan Blow on how an operating system should work (2020)](https://www.youtube.com/watch?v=k0uE_chSnV8)
+- [Systems with JT - YouTube](https://www.youtube.com/user/giard321) - YouTube channel doing first impression reviews of amateur operating systems.

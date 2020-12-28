@@ -91,7 +91,7 @@
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
 - [React Flow](https://github.com/wbkd/react-flow) - Library for Rendering Interactive Graphs. ([HN](https://news.ycombinator.com/item?id=23080346)) ([Article](https://webkid.io/blog/react-flow-node-based-graph-library/))
 - [React Flow Chart](https://github.com/MrBlenny/react-flow-chart) - Flexible, stateless, declarative flow chart library for react.
-- [react-polymorphic-box](https://github.com/kripod/react-polymorphic-box) - Building blocks for strongly typed polymorphic components in React.
+- [react-polymorphic-types](https://github.com/kripod/react-polymorphic-types) - Zero-runtime polymorphic component definitions for React.
 - [react-scroll-percentage](https://github.com/thebuilder/react-scroll-percentage) - Monitor the scroll percentage of a component inside the viewport, using the IntersectionObserver API.
 - [react-magnifier](https://github.com/samuelmeuli/react-magnifier) - React image zoom component.
 - [ReactReparenting](https://github.com/paol-imi/react-reparenting) - Reparenting tools for React. ([Web](https://paol-imi.github.io/react-reparenting/)) ([Article](https://medium.com/swlh/reparenting-with-react-426d12fb6d0d))
@@ -139,6 +139,7 @@
 - [Graph editor](https://github.com/lochbrunner/react-flow-editor) - React component which enables creating flow editors with ease.
 - [React Lite YouTube Embed](https://github.com/kylemocode/react-lite-yt-embed)
 - [Lioness](https://github.com/alexanderwallin/lioness) - React library for efficiently implementing Gettext localization.
+- [React Command Palette](https://github.com/asabaylus/react-command-palette) - Accessible browser compatible javascript command palette.
 
 ## Links
 

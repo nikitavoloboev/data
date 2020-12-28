@@ -25,3 +25,4 @@
 - [Certigrad](https://github.com/dselsam/certigrad) - Bug-free machine learning on stochastic computation graphs.
 - [Ellen's dots and boxes project](https://github.com/ImperialCollegeLondon/dots_and_boxes) - Contains all the code written for my final year research project in Mathematics, "Optimal gameplay in Dots and Boxes in Lean".
 - [Building the Mathematical Library of the Future (2020)](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
+- [A Review of the Lean Theorem Prover (2018)](https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/)

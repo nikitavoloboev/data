@@ -297,3 +297,4 @@
 - [Operator SDK](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding. ([Web](https://sdk.operatorframework.io/))
 - [Kubectl Sheetcheat](https://github.com/eon01/kubectl-SheetCheat)
 - [Gentle introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
+- [Kubernetes is a container orchestration system, but that's not the point (2020)](https://nikhiljha.com/posts/kubernetes-intro/) ([Lobsters](https://lobste.rs/s/xdcrsa/kubernetes_is_container_orchestration))

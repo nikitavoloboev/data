@@ -71,3 +71,5 @@
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool. ([HN](https://news.ycombinator.com/item?id=25401100))
 - [Triangler](https://github.com/tdh8316/triangler) - Images to Low-Poly art using Python and Delaunay triangulation.
 - [Geometrize](https://www.geometrize.co.uk/) - Transform images into geometric primitives. ([Code](https://github.com/Tw1ddle/geometrize))
+- [A perceptual color space for image processing (2020)](https://bottosson.github.io/posts/oklab/)
+- [fSpy](https://fspy.io/) - Cross platform app for quick and easy still image camera matching. ([Code](https://github.com/stuffmatic/fSpy))

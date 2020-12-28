@@ -238,3 +238,5 @@
 - [Python Patterns](https://github.com/faif/python-patterns) - Collection of design patterns/idioms in Python.
 - [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/) - Book on basic to intermediate level Python projects.
 - [pyastinterp](https://github.com/pfalcon/pyastinterp) - Python AST interpreter (aka tree-walking interpreter) in Python. Aka meta-circular interpreter.
+- [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
+- [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education)

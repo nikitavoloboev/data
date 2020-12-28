@@ -20,3 +20,5 @@
 - [Porting from Go to Raku (2020)](https://pinguinorodriguez.cl/blog/porting-from-go/)
 - [Sparrow](https://github.com/melezhik/Sparrow6) - Raku Automation Framework.
 - [SparrowHub](https://sparrowhub.io/) - Sparrow Plugins Repository.
+- [Functional Perl: Programming with Recursion Schemes in Python](https://www.cs.cmu.edu/~rjsimmon/random/bovik2010case.pdf)
+- [What’s the point of pointfree programming? (2020)](https://raku-advent.blog/2020/12/22/draft-whats-the-point-of-point-free-programming/) ([Lobsters](https://lobste.rs/s/okiapp/what_s_point_pointfree_programming))

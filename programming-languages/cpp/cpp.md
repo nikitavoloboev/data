@@ -174,3 +174,4 @@
 - [C/C++ Compiler Cheatsheet](http://www.dmulholl.com/notes/c-compiler-cheatsheet.html)
 - [Data Parallel C++](https://link.springer.com/book/10.1007%2F978-1-4842-5574-2)
 - [Interactive C++ for Data Science (2020)](https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/) ([HN](https://news.ycombinator.com/item?id=25517050))
+- [Accelerating Standard C++ with GPUs Using stdpar](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/) ([Lobsters](https://lobste.rs/s/vpdoo2/accelerating_standard_c_with_gpus_using))

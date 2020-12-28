@@ -83,3 +83,4 @@
 - [CHM (Computer History Museum)](https://computerhistory.org/)
 - [The 100 Year Computer (2020)](https://thedorkweb.substack.com/p/the-100-year-computer) ([Lobsters](https://lobste.rs/s/feaa3d/100_year_computer))
 - [Historical facts I consistently forget (2020)](https://milan.cvitkovic.net/writing/historical_facts/)
+- [WTF Happened In 1971?](https://wtfhappenedin1971.com/) ([HN](https://news.ycombinator.com/item?id=25188457))

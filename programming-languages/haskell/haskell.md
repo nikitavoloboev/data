@@ -233,3 +233,4 @@
 - [izuna](https://github.com/matsumonkie/izuna) - Enhances Haskell code review for Github.
 - [Foo to Bar: Naming Conventions in Haskell (2020)](https://kowainik.github.io/posts/naming-conventions)
 - [Try.do for recoverable errors in Haskell (2020)](https://chrisdone.com/posts/try-do/)
+- [Learnings from Solving Advent of Code 2020 in Haskell](https://notes.abhinavsarkar.net/2020/aoc-learnings)

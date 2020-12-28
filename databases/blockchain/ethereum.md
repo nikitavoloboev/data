@@ -133,3 +133,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [parsec](https://parsec.finance/) - DeFi Pro Trading and Analytics.
 - [Solidity Koans](https://soliditykoans.org/) - Learn Ethereum Solidity programming through test driven development. ([Code](https://github.com/nczhu/solidity-koans))
 - [Solidity Cheatsheet and Best practices](https://github.com/manojpramesh/solidity-cheatsheet) ([Web](https://manojpramesh.github.io/solidity-cheatsheet/))
+- [Mirror Protocol](https://mirror.finance/) - Synthetics protocol for on-chain price exposure to real world assets. ([GitHub](https://github.com/Mirror-Protocol))
+- [Mirror App](https://terra.mirror.finance/) - Mirror Protocol App for web browsers. ([Code](https://github.com/Mirror-Protocol/terra-web-app))
+- [swapr](https://github.com/psq/swapr) - Exploration on how to implement an automated token exchange modeled after Uniswap in Clarity for Stacks 2.0.

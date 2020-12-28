@@ -45,3 +45,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Building My Own Chess Engine (2020)](https://healeycodes.com/building-my-own-chess-engine/) ([Lobsters](https://lobste.rs/s/6z2fqa/building_my_own_chess_engine)) ([HN](https://news.ycombinator.com/item?id=25516430))
 - [Apple's chess engine code](https://opensource.apple.com/source/Chess/) ([Reddit](https://www.reddit.com/r/apple/comments/kjakan/til_apple_open_sourced_their_chess_engine/))
 - [Sjeng](https://www.sjeng.org/indexold.html) - Chess-and-variants playing program.
+- [Daniel Naroditsky's Speed Runs](https://www.youtube.com/watch?v=HiCeU8tIh0U&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit)
+- [Blindfold chess training (2020)](https://www.youtube.com/watch?v=Sjj32JpdBD8)

@@ -18,3 +18,4 @@
 - [Translating Phoenix Applications With Gettext (2020)](https://phrase.com/blog/posts/i18n-for-phoenix-applications-with-gettext/)
 - [Phoenix Igniter](https://phoenixigniter.com/) - Base from which to build your Phoenix apps.
 - [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix)
+- [Introducing Phoenix LiveSessions (2020)](https://pentacent.com/blog/phoenix-live-sessions/)

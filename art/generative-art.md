@@ -96,3 +96,4 @@
 - [Texture, from Nothing](https://austinjones.onfabrik.com/portfolio/texture-from-nothing)
 - [Generative Art in Go (2020)](https://gumroad.com/l/generative-art-in-golang) ([Pre Order](https://www.notion.so/Thank-you-for-pre-ordering-dd509d927f854da09d96982d2d425462))
 - [Tabbied](https://tabbied.com/) - Doodle with generated patterns.
+- [Pattern Generator](https://doodad.dev/pattern-generator/)

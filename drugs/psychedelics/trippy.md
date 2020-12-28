@@ -13,3 +13,4 @@
 - [Akiyoshi's illusion pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 - [Staircase movement optical illusion](https://twitter.com/blader/status/1330631848842588161) ([Explanation](https://www.reddit.com/r/interestingasfuck/comments/jzfmr9/this_might_be_the_strongest_optical_illusion_i/gdbm14s/?context=3))
 - [Reverse Phi Illusion](https://michaelbach.de/ot/mot-reversePhi/)
+- [Zoomquilt 2](http://zoomquilt2.com/) ([HN](https://news.ycombinator.com/item?id=25557627))

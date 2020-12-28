@@ -58,3 +58,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [List of best talks (2020)](https://twitter.com/ashleymcnamara/status/1278537744352862208)
 - [Badass Conference Talks](https://github.com/emmabostian/badass-conference-talks)
 - [workshopctl](https://github.com/cloud-native-nordics/workshopctl) - Tool for running workshops easily in the cloud.
+- [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)

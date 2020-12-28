@@ -148,3 +148,5 @@
 - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (2018)](http://amid.fish/reproducing-deep-rl)
 - [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning toolkit for compiler optimizations.
 - [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+- [MuZero General](https://github.com/werner-duvaud/muzero-general) - Commented and documented implementation of MuZero based on the Google DeepMind paper (Nov 2019) and the associated pseudocode.
+- [Deep Reinforcement Learning Hands-On (2020)](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on-second-edition/9781838826994) ([Code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On))

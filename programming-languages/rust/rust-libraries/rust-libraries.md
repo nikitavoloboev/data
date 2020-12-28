@@ -63,7 +63,7 @@
 - [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
-- [Piet](https://github.com/linebender/piet) - Abstraction for 2D graphics.
+- [Piet](https://github.com/linebender/piet) - Abstraction for 2D graphics. ([Piet text layout API](http://www.cmyr.net/blog/piet-text-work.html))
 - [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
 - [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
@@ -148,7 +148,7 @@
 
 - [Iced](https://github.com/hecrj/iced) - Cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
-- [Druid](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit.
+- [Druid](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit. ([Some reflections on the Druid architecture](http://www.cmyr.net/blog/druid-architecture.html)) ([Dynamic widget sketches](http://www.cmyr.net/blog/druid-dynamism.html))
 - [flutter-rs](https://github.com/gliheng/flutter-rs) - Build flutter desktop app in dart & rust.
 - [Moxie](https://github.com/anp/moxie) - Lightweight platform-agnostic tools for declarative UI.
 - [OrbTk](https://github.com/redox-os/orbtk) - Rust UI-Toolkit.
@@ -598,6 +598,9 @@
 - [Xactor](https://github.com/sunli829/xactor) - Rust actors framework based on async-std.
 - [Failsafe](https://github.com/dmexe/failsafe-rs) - Circuit breaker implementation for rust.
 - [rust-ascii](https://github.com/tomprogrammer/rust-ascii) - ASCII-only equivalents to `char`, `str` and `String`.
+- [varint-simd](https://github.com/as-com/varint-simd) - SIMD-accelerated varint encoder and decoder in Rust.
+- [ndarray-linalg](https://github.com/rust-ndarray/ndarray-linalg) - Linear algebra package for rust-ndarray using LAPACK binding.
+- [Merkle Storage](https://github.com/fafk/merkle_storage) - Key-value git-like storage with full history backed by RocksDB.
 
 ## Cargo Plugins
 
@@ -610,7 +613,6 @@
 - [cargo-modules](https://github.com/regexident/cargo-modules) - Cargo plugin for showing a tree-like overview of a crate's modules.
 - [cargo-tree](https://github.com/sfackler/cargo-tree) - Cargo subcommand that visualizes a crate's dependency graph in a tree-like format.
 - [cargo cache](https://github.com/matthiaskrgr/cargo-cache) - Manage cargo cache (\${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively.
-- [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 - [stack-sizes](https://github.com/japaric/stack-sizes) - Tools to print stack usage information emitted by LLVM in human readable format.
 - [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling mistakes.
 - [cargo-lipo](https://github.com/TimNN/cargo-lipo) - Cargo subcommand to automatically create universal libraries for iOS.

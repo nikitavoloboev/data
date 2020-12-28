@@ -141,3 +141,4 @@
 - [Burial's Untrue: The making of a masterpiece (2017)](https://www.youtube.com/watch?v=Et5B-zfAIIo)
 - [MuseGAN](https://github.com/salu133445/musegan) - AI for Music Generation.
 - [MusPy](https://github.com/salu133445/muspy) - Toolkit for symbolic music generation.
+- [Free Piano Method](https://www.freepianomethod.com/)

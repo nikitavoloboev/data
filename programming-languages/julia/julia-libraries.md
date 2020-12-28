@@ -43,6 +43,11 @@
 - [TemporalGPs](https://github.com/willtebbutt/TemporalGPs.jl) - Fast inference for Gaussian processes in problems involving time.
 - [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - Estimates derivatives with finite differences.
 - [IncrementalInference.jl](https://github.com/JuliaRobotics/IncrementalInference.jl) - Incremental non-parametric (and parametric) solution to factor graphs.
+- [FiniteDiff](https://github.com/JuliaDiff/FiniteDiff.jl) - Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support.
+
+## NLP
+
+- [NLPModelsJuMP](https://github.com/JuliaSmoothOptimizers/NLPModelsJuMP.jl) - Create NLPModels with JuMP.
 
 ## Biology
 
@@ -150,6 +155,7 @@
 - [GFlops.jl](https://github.com/triscale-innov/GFlops.jl) - Estimate the absolute performance of a piece of Julia code.
 - [VectorizationBase](https://github.com/chriselrod/VectorizationBase.jl) - Library providing basic SIMD support in Julia.
 - [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) - Convenient macros for in-place matrix operations in Julia.
+- [PGFPlotsX](https://github.com/KristofferC/PGFPlotsX.jl) - Julia package to generate publication quality figures using the LaTeX library PGFPlots.
 
 ## Links
 

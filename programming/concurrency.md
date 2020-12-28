@@ -24,3 +24,4 @@ Concurrency is the composition of independently executing computations.
 - [Structured Concurrency (2020)](https://ericniebler.com/2020/11/08/structured-concurrency/) ([HN](https://news.ycombinator.com/item?id=25032133))
 - [Why Concurrency Is Hard (2020)](https://medium.com/oreillymedia/why-concurrency-is-hard-f93104cad54b) ([HN](https://news.ycombinator.com/item?id=25024901))
 - [SOMns](https://github.com/smarr/SOMns) - Dynamic, class-based, object-oriented language in the tradition of Smalltalk and Self. Newspeak for Concurrency Research.
+- [Concurrency Kit](http://concurrencykit.org/) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems. ([Code](https://github.com/concurrencykit/ck))

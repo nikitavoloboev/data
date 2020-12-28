@@ -46,3 +46,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Memorai](https://memorai.humanloop.ml/) - AI memory assistant – remember everything you read. ([Code](https://github.com/humanloop/memorai))
 - [How to Learn to Code I: Use SRS and Anki (2020)](https://www.youtube.com/watch?v=kshXDo8psj8)
 - [mu](https://github.com/ticki/mu) - Advanced Unix-style Spaced Repetition System.
+- [memordo](https://memordo.com/) - Flashcard platform that supports latex and code highlighting. ([HN](https://news.ycombinator.com/item?id=25558420))

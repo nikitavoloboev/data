@@ -11,8 +11,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Awesome Online IDE](https://github.com/styfle/awesome-online-ide)
 - [Iota](https://github.com/gchp/iota) - Terminal-based text editor written in Rust.
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
-- [Kakoune](https://github.com/mawww/kakoune) - Code editor that implements Vi’s "keystrokes as a text editing language" model. ([HN](https://news.ycombinator.com/item?id=19313794))
-  - [kak-lsp](https://github.com/ul/kak-lsp) - Kakoune Language Server Protocol Client.
+- [Kakoune](https://github.com/mawww/kakoune) - Code editor that implements Vi’s "keystrokes as a text editing language" model. ([HN](https://news.ycombinator.com/item?id=19313794)) ([kak-lsp - Kakoune Language Server Protocol Client.](https://github.com/kak-lsp/kak-lsp)) ([plug.kak - Plugin manager for Kakoune](https://github.com/robertmeta/plug.kak))
 - [Lamdu](https://github.com/lamdu/lamdu) - Aims to create a next-generation, live programming environment that radically improves the programming experience.
 - [Kibi](https://github.com/ilai-deutel/kibi) - Text editor in ≤1024 lines of code, written in Rust.
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor that powers VS Code. ([Code](https://github.com/microsoft/monaco-editor))

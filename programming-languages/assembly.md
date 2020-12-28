@@ -25,3 +25,4 @@
 - [Assembly Tutorials](https://www.assemblytutorial.com/) - Learn Z80 Assembly Programming.
 - [ARM and Thumb-2 Instruction Set Quick Reference](http://users.ece.utexas.edu/~valvano/Volume1/QuickReferenceCard.pdf)
 - [Advanced 6502 Assembly Programming for the Apple II (2020)](https://www.youtube.com/watch?v=WEliEAc3ZyA) ([Web](http://www.cs.columbia.edu/~sedwards/2020-vcfw-6502/))
+- [ARM Cortex-M33 Instruction Tracing Without a Debugger (2020)](https://interrupt.memfault.com/blog/instruction-tracing-mtb-m33)

@@ -83,3 +83,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [How Payment Transaction Processing Works (2020)](https://blog.privacy.com/how-payment-transactions-work/) ([HN](https://news.ycombinator.com/item?id=25332516))
 - [Stripe’s payments APIs: the first ten years (2020)](https://stripe.com/blog/payment-api-design) ([HN](https://news.ycombinator.com/item?id=25455638))
 - [Ask HN: About Financial Inequity (2020)](https://news.ycombinator.com/item?id=25504017)
+- [hledger](https://github.com/simonmichael/hledger) - Cross-platform accounting software for both power users and folks new to accounting. ([Docs](https://hledger.org/))

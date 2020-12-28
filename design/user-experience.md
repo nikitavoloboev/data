@@ -54,3 +54,4 @@
 - [Interaction Design in a Nutshell](https://github.com/SSoelvsten/interaction-design-in-a-nutshell) - Dense, clearly defined, and small guide to interaction design.
 - [List of worst UX (2020)](https://twitter.com/iamdevloper/status/1337538974789865473)
 - [UX Christmas](https://ux.christmas/)
+- [Types of Dark Pattern](https://darkpatterns.org/types-of-dark-pattern.html)
