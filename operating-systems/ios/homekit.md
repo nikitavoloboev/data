@@ -10,3 +10,4 @@
 - [Home+](https://hochgatterer.me/home/) - Advanced iOS app to control and automate your HomeKit accessories.
 - [Building a Custom Minimal HomeKit Lamp (2020)](https://patrickbalestra.com/blog/2020/05/31/building-a-custom-minimal-homekit-lamp.html)
 - [Creating a HomeKit Accessory (2020)](https://sampo3k.github.io/2020/12/08/pcb.html)
+- [Building my own HomeKit Thermostat (2020)](https://www.staycaffeinated.com/2020/12/27/building-my-own-homekit-thermostat-v1) ([HN](https://news.ycombinator.com/item?id=25552889))
