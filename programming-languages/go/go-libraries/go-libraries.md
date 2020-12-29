@@ -650,6 +650,7 @@
 - [GoDotEnv](https://github.com/joho/godotenv) - Load environment variables from `.env`.
 - [json-lossless](https://github.com/joeshaw/json-lossless) - Lossless JSON encoding/decoding package in Go.
 - [gocelery](https://github.com/gocelery/gocelery) - Go Client/Server for Celery Distributed Task Queue.
+- [go-concise-encoding](https://github.com/kstenerud/go-concise-encoding) - Go implementation of Concise Binary and Text Encoding.
 
 ## Links
 

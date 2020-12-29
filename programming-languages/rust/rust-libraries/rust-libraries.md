@@ -601,6 +601,7 @@
 - [varint-simd](https://github.com/as-com/varint-simd) - SIMD-accelerated varint encoder and decoder in Rust.
 - [ndarray-linalg](https://github.com/rust-ndarray/ndarray-linalg) - Linear algebra package for rust-ndarray using LAPACK binding.
 - [Merkle Storage](https://github.com/fafk/merkle_storage) - Key-value git-like storage with full history backed by RocksDB.
+- [arcode-rs](https://github.com/cgburgess/arcode-rs) - Arithmetic coder for Rust.
 
 ## Cargo Plugins
 

@@ -8,7 +8,7 @@
 ## Links
 
 - [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
-- [Fennel](https://github.com/bakpakin/Fennel) - Lua Lisp Language. ([HN](https://news.ycombinator.com/item?id=24390904))
+- [Fennel](https://fennel-lang.org/) - Programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Code](https://github.com/bakpakin/Fennel)) ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale)) ([HN](https://news.ycombinator.com/item?id=24390904)) ([FennelConf](https://conf.fennel-lang.org/))
 - [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.
 - [How to Lua and C - a short novel (2018)](https://sepisoad.com/blog/how%20to%20lua%20and%20c%20-%20a%20short%20novel.html)
 - [Code Formatter for Lua](https://github.com/trixnz/lua-fmt) - Pretty-printer for Lua code, written in TypeScript and deeply inspired by prettier.
@@ -32,7 +32,6 @@
 - [HN: Lua 5.4.0 (2020)](https://news.ycombinator.com/item?id=23686297)
 - [Languages that compile to Lua](https://github.com/hengestone/lua-languages)
 - [Making the Fennel compiler self-hosting with another compiler (2020)](https://technomancy.us/192)
-- [Fennel](https://fennel-lang.org/) - Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale))
 - [How to Plan a Luau: Augmenting Lua’s Syntax With Types (2020)](https://medium.com/roblox-tech-blog/how-to-plan-a-luau-augmenting-luas-syntax-with-types-7751a790f0d8) ([HN](https://news.ycombinator.com/item?id=24448364))
 - [Croissant](https://github.com/giann/croissant) - Lua REPL and debugger implemented in Lua.
 - [Fengari](https://github.com/fengari-lua/fengari) - Lua VM written in JS ES6 for Node and the browser. ([Web](https://fengari.io/))

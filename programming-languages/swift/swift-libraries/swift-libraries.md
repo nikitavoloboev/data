@@ -533,6 +533,7 @@
 - [swift-parsing](https://github.com/pointfreeco/swift-parsing) - Library for turning nebulous data into well-structured data, with a focus on composition, performance, and generality.
 - [OpenTelemetry Swift](https://github.com/slashmo/opentelemetry-swift) - OpenTelemetry Tracer built for Swift Distributed Tracing.
 - [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine.
+- [RBBJSON](https://github.com/robb/RBBJSON) - Enables flexible JSON traversal at runtime and JSONPath-like querying for rapid prototyping.
 
 ## Other (not lib)
 

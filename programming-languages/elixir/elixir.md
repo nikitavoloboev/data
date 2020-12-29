@@ -70,3 +70,4 @@
 - [Elixir Findings: Asynchronous Task Streams (2019)](https://medium.com/@dinojoaocosta/elixir-findings-asynchronous-task-streams-7f6336227ea)
 - [My Journey With Elixir and Flow-Based Programming (2020)](https://preslav.me/2020/12/10/elixir-community-voices-allan-macgregor/)
 - [nix-elixir](https://github.com/hauleth/nix-elixir) - Nix derivations for Mix projects.
+- [Niex](https://github.com/jonklein/niex) - Interactive Elixir code notebook built with Phoenix LiveView.

@@ -121,3 +121,4 @@
 - [Blend2D](https://github.com/blend2d/blend2d) - 2D Vector Graphics Powered by a JIT Compiler. ([Web](https://blend2d.com/))
 - [GLFW](https://www.glfw.org/) - Multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input. ([Code](https://github.com/glfw/glfw))
 - [Hallucinations re: the rendering of Cyberpunk 2077 (2020)](http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html) ([HN](https://news.ycombinator.com/item?id=25460220))
+- [Why are video games graphics challenging? Productionizing rendering algorithms (2020)](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/) ([HN](https://news.ycombinator.com/item?id=25557431))

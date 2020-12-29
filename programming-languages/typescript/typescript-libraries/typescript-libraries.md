@@ -84,6 +84,7 @@
 - [optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript.
 - [set-fns](https://github.com/haydn/set-fns) - Utility library for working with sets.
 - [logging-ts](https://github.com/gcanti/logging-ts) - Composable loggers for TypeScript.
+- [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 
 ## Links
 

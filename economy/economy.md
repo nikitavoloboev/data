@@ -65,4 +65,4 @@
 - [Best Economics Books of 2020](https://fivebooks.com/best-books/economics-2020-diane-coyle/)
 - [The Enlightened Economist](http://enlightenmenteconomics.com/) - Economics and business books.
 - [The Great Reset | World Economic Forum](https://www.weforum.org/great-reset/)
-- [The Fraying of the US Global Currency Reserve System (2020)](https://www.lynalden.com/fraying-petrodollar-system/) ([HN](https://news.ycombinator.com/item?id=25407583))
+- [The Fraying of the US Global Currency Reserve System (2020)](https://www.lynalden.com/fraying-petrodollar-system/) ([HN](https://news.ycombinator.com/item?id=25407583)) ([HN 2](https://news.ycombinator.com/item?id=25558573))

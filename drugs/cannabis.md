@@ -10,6 +10,7 @@
 - [Best Temperature to Vape Weed](https://www.dankvapes.co.uk/blogs/talk-to-dank/what-is-the-best-temperature-to-set-my-weed-vaporizer)
 - [Eaze](https://www.eaze.com/) - Weed Delivery.
 - [Гид по марихуане](https://docs.google.com/document/d/1MIKhxdIrnqSIGa3TqHOdVrpT2l8L7z8F2GYYTjMeFEo/edit)
+- [A Brief Global History of the War on Cannabis (2020)](https://thereader.mitpress.mit.edu/a-brief-global-history-of-the-war-on-cannabis/) ([HN](https://news.ycombinator.com/item?id=25565069))
 
 ## Images
 

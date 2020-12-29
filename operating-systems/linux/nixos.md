@@ -101,3 +101,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [krops](https://github.com/krebs/krops) - Lightweight toolkit to deploy NixOS systems, remotely or locally.
 - [TangeriNixOS](https://github.com/Pamplemousse/tangerinixos) - NixOS tailored for pentesting.
 - [Methods for building custom NixOS AMIs](https://github.com/nh2/nixos-ami-building)
+- [Colmena](https://github.com/zhaofengli/colmena) - Simple, stateless NixOS deployment tool modeled after NixOps and Morph, written in Rust.

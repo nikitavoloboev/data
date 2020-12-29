@@ -258,7 +258,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
-- [Dialup](https://dialup.com/) - Serendipitous voice chat.
+- [Dialup](https://dialup.com/) - Serendipitous voice chat. ([HN](https://news.ycombinator.com/item?id=25557779))
 - [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
 - [Notifly](https://www.notifly.io/) - Let us handle your web app notifications.
