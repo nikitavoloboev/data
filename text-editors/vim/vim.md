@@ -93,3 +93,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [How do you index code in your projects? (2020)](https://lobste.rs/s/ujr9mg/how_do_you_index_code_your_projects)
 - [At least one Vim trick you might not know (2019)](https://www.hillelwayne.com/post/intermediate-vim/) ([HN](https://news.ycombinator.com/item?id=20077580))
 - [A Vim Guide for Intermediate Users (2020)](https://thevaluable.dev/vim-intermediate/) ([Lobsters](https://lobste.rs/s/mr8ynv/vim_guide_for_intermediate_users))
+- [The ABCs of vim (2020)](https://www.kovach.me/The_ABCs_of_vim.html)

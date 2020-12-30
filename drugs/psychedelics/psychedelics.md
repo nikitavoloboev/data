@@ -97,3 +97,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Erowid](https://www.erowid.org/) - Documenting the complex relationship between humans & psychoactives.
 - [Matthew Johnson: Psychedelics (2020)](https://overcast.fm/+eZyDSt_hI)
 - [Psychedelic receptor signalling](https://www.reddit.com/r/RationalPsychonaut/comments/kiyynj/a_diagram_i_made_about_psychedelic_receptor/)
+- [Unifying Theories of Psychedelic Drug Effects (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5853825/) ([HN](https://news.ycombinator.com/item?id=17167063))

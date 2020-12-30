@@ -201,3 +201,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [The Craft of Writing Effectively (2014)](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442))
 - [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.
+- [Resources for Writers](https://substack.com/resources)

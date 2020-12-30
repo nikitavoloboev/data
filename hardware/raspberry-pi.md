@@ -56,3 +56,4 @@
 - [Raspberry Pi Webcam](https://github.com/geerlingguy/pi-webcam) - Automation to configure a Raspberry Pi as a USB OTG webcam. ([Article](https://www.jeffgeerling.com/blog/2020/raspberry-pi-makes-great-usb-webcam-100)) ([HN](https://news.ycombinator.com/item?id=25191646)) ([Video](https://www.youtube.com/watch?v=8fcbP7lEdzY)) ([Lobsters](https://lobste.rs/s/rgpc8m/raspberry_pi_makes_great_usb_webcam_for))
 - [Rpitx](https://github.com/F5OEO/rpitx) - General radio frequency transmitter for Raspberry Pi.
 - [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com/) - Raspberry Pi PCI Express device compatibility database. ([Code](https://github.com/geerlingguy/raspberry-pi-pcie-devices)) ([HN](https://news.ycombinator.com/item?id=25556650))
+- [Micro Displays for Raspberry Pi](https://github.com/igbit/micro-displays)

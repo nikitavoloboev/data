@@ -17,3 +17,4 @@
 - [Nim 1.4](https://nim-lang.org/blog/2020/10/16/version-140-released.html) ([HN](https://news.ycombinator.com/item?id=24800161))
 - [nimtemplate](https://github.com/treeform/nimtemplate) - Nim template to jump start your Nim library or project.
 - [Nim Apocrypha](https://blog.johnnovak.net/2020/12/21/nim-apocrypha-vol1/) - Collection of Nim tips.
+- [NodeJS Standard Library for Nim](https://github.com/juancarlospaco/nodejs)

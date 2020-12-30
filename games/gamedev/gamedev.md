@@ -19,6 +19,7 @@
 - [Lazy Bear Games](http://lazybeargames.com/)
 - [Rarebyte](https://www.rarebyte.com/)
 - [Supergiant Games](https://www.supergiantgames.com/)
+- [Gameroasters](https://www.gameroasters.com/) - Bring cross-platform competitive gaming experiences to the masses.
 
 ## Notes
 
@@ -124,3 +125,5 @@
 - [Ask HN: I'm quitting my job, will create a game – any advice? (2020)](https://news.ycombinator.com/item?id=25376714)
 - [The Lighting of Need for Speed Heat in Frostbite (2020)](https://www.youtube.com/watch?v=K-CIiBpOI0o)
 - [ink](https://www.inklestudios.com/ink/) - Narrative scripting language. ([Code](https://github.com/inkle/ink))
+- [TIC-80](https://github.com/nesbox/TIC-80) - Fantasy computer for making, playing and sharing tiny games. ([Web](https://tic80.com/))
+- [Making a Game in 48 hours with Rust and WebAssembly (2020)](https://ianjk.com/rust-gamejam/)

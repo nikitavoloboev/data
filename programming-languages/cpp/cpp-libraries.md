@@ -154,6 +154,7 @@
 - [C++ B-tree](https://github.com/Kronuz/cpp-btree) - Modern C++ B-tree containers.
 - [Blitz++](https://github.com/blitzpp/blitz) - Multi-Dimensional Array Library for C++.
 - [ATen](https://github.com/zdevito/ATen) - TENsor library for C++11.
+- [AsyncFuture](https://github.com/benlau/asyncfuture) - Use QFuture like a Promise object.
 
 ## Links
 

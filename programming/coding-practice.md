@@ -63,6 +63,7 @@
 - [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
 - [Julia](https://github.com/tsoding/aoc-2020)
 - [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
+- [aoc](https://github.com/jakzo/aoc) - CLI for reading, running and submitting Advent of Code challenges.
 
 ## Exercism exercise solutions
 

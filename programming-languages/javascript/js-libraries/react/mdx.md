@@ -19,3 +19,4 @@
 - [remark-mdx-filter-imports](https://github.com/jknoxville/remark-mdx-filter-imports) - Strip mdx imports that match a given pattern.
 - [remark-code-snippets](https://github.com/jknoxville/remark-code-snippets) - Remark plugin for importing snippets of source files, as code blocks, based on markers found in the file.
 - [mdx-go](https://github.com/jxnblk/mdx-go) - Lightning fast MDX-based dev server for progressive documentation.
+- [snowpack-plugin-mdx](https://github.com/jaredLunde/snowpack-plugin-mdx) - Use the MDX compiler to build .mdx and .md files in Snowpack.

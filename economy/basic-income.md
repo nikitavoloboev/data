@@ -14,3 +14,4 @@ Technology and automation will not stop and more things will be automated with e
 - [Universal Basic Income is Capitalism 2.0 (2020)](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/) ([HN](https://news.ycombinator.com/item?id=23993259))
 - [South Korea’s Universal Basic Income Experiment to Boost the Economy (2020)](https://www.youtube.com/watch?v=EbWv_1NbWyw)
 - [Circles UBI](https://joincircles.net/) - Basic Income on the Blockchain.
+- [Universal Basic Income Token](https://github.com/DemocracyEarth/ubi) - Set of smart contracts designed to provide a sustainable income for market participants.

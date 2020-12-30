@@ -90,3 +90,4 @@
 - [Leave Design](https://leave.design/) - Get your Pitch Deck updated instantly by a professional designer.
 - [Floodgate](https://floodgate.com/) - Backs the top .1% founders.
 - [How to raise a seed round (2020)](https://twitter.com/yoheinakajima/status/1340774204019359744)
+- [Open Collective](https://opencollective.com/) - Make your community sustainable. Collect and spend money transparently. ([Issues](https://github.com/opencollective/opencollective))

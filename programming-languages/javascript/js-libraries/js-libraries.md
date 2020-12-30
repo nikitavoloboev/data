@@ -34,6 +34,8 @@
 - [modular](https://github.com/jpmorganchase/modular) - Collection of tools and guidance to enable UI development at scale. ([Tweet](https://twitter.com/threepointone/status/1340620223993540608))
 - [Turbo](https://github.com/hotwired/turbo) - Speed of a single-page web application without having to write any JavaScript. ([Web](https://turbo.hotwire.dev/))
 - [Fre](https://github.com/yisar/fre) - Tiny Coroutine framework with Fiber.
+- [Glimmer](https://glimmerjs.com/) - Fast and light-weight UI components for the web. ([Code](https://github.com/glimmerjs/glimmer.js))
+- [Glimmer VM](https://github.com/glimmerjs/glimmer-vm) - Flexible, low-level rendering pipeline for building a "live" DOM from Handlebars templates that can subsequently be updated cheaply when data changes.
 
 ## Animation
 
@@ -403,6 +405,7 @@
 - [Effects.js](https://github.com/nythrox/effects.js) - Algebraic effects in javascript with scoped handlers, multishot delimited continuations, stack safety and do notation.
 - [flatten-js](https://github.com/alexbol99/flatten-js) - JavaScript library for 2d geometry.
 - [is-retry-allowed](https://github.com/sindresorhus/is-retry-allowed) - Check whether a request can be retried based on the error.code.
+- [backfill](https://github.com/microsoft/backfill) - JavaScript caching library for reducing build time.
 
 ## Links
 

@@ -64,3 +64,4 @@
 - [Planet Erlang](http://www.planeterlang.com/) - Meta blog that collects posts from the blogs of various Erlang developers and contributors. ([Code](https://github.com/stevenproctor/planet-erlang))
 - [erlfmt](https://github.com/WhatsApp/erlfmt) - Automated code formatter for Erlang.
 - [erlang-systemd](https://github.com/hauleth/erlang-systemd) - Simple library for notifying systemd about process state.
+- [The Erlangelist](https://www.theerlangelist.com/) - Erlang related musings. ([Code](https://github.com/sasa1977/erlangelist))

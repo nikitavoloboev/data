@@ -233,4 +233,7 @@
 - [izuna](https://github.com/matsumonkie/izuna) - Enhances Haskell code review for Github.
 - [Foo to Bar: Naming Conventions in Haskell (2020)](https://kowainik.github.io/posts/naming-conventions)
 - [Try.do for recoverable errors in Haskell (2020)](https://chrisdone.com/posts/try-do/)
-- [Learnings from Solving Advent of Code 2020 in Haskell](https://notes.abhinavsarkar.net/2020/aoc-learnings)
+- [Learnings from Solving Advent of Code 2020 in Haskell](https://notes.abhinavsarkar.net/2020/aoc-learnings) ([Reddit](https://www.reddit.com/r/haskell/comments/klspv9/learnings_from_solving_advent_of_code_2020_in/))
+- [Superpowered keyword args in Haskell (2020)](https://www.kovach.me/Superpowered_keyword_args_in_Haskell.html)
+- [Haskell doesn't have macros (2020)](https://chrisdone.com/posts/haskell-doesnt-have-macros/)
+- [Haskell Tips Twitter](https://twitter.com/HaskellTips) - Tips, tricks and hacks.

@@ -8,12 +8,14 @@
 - [Awesome Tezos](https://github.com/jnaulty/awesome-tezos)
 - [Arthur Breitman's blog](https://ex.rs/) - Creator of tezos.
 - [Tezos code](https://gitlab.com/tezos/tezos)
-- [Tezos — a self-amending crypto-ledger White Paper (2014)](https://github.com/tezos/tezos-papers) ([Code](https://github.com/tezos/tezos-papers))
+- [Tezos — a self-amending crypto-ledger White Paper (2014)](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf) ([Code](https://github.com/tezos/tezos-papers))
 - [Tezos Docs](https://assets.tqtezos.com/docs/intro/)
 - [Tezos Developer Portal](https://developers.tezos.com/)
 - [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries.
 - [Virtual Discussion with Emin Gün Sirer and Kathleen Breitman on Tezos (2020)](https://www.youtube.com/watch?v=5pvniYzV5hc)
 - [Tezos Agora](https://www.tezosagora.org/) - Place to discuss and learn about the long-term direction of the Tezos project.
+- [Tezos Agora Forum](https://forum.tezosagora.org/)
 - [Interview Arthur Breitman - CTO and Founder of Tezos (2019)](https://www.youtube.com/watch?v=TxF59TGT7bg)
 - [TezTalks Radio - A Conversation with Tezos Co-Founder Arthur Breitman (2020)](https://www.youtube.com/watch?v=nSdnUK5WVSQ)
 - [Nomadic Labs](https://www.nomadic-labs.com/) - Research and development on distributed, decentralized, and formally verified software.
+- [Tezos December dev update (2020)](https://www.youtube.com/watch?v=23BhRSbE46I)

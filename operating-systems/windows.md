@@ -21,3 +21,5 @@
 - [My Journey to Finally Ditching Windows for Good (2020)](https://news.ycombinator.com/item?id=25424225) ([HN](https://news.ycombinator.com/item?id=25424225))
 - [WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows.
 - [Developer and Power Users Tool List for Windows (2020)](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows) ([HN](https://news.ycombinator.com/item?id=25534258)) ([Lobsters](https://lobste.rs/s/mv3s2z/scott_hanselman_s_2021_ultimate))
+- [DirectX Headers](https://github.com/microsoft/DirectX-Headers) - Official DirectX headers available under an open source license.
+- [DirectX Developer Blog](https://devblogs.microsoft.com/directx/)

@@ -73,3 +73,5 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Guide to Awesome Research Proposals](https://github.com/dair-ai/awesome-research-proposals-guide)
 - [NVIDIA Research](https://www.nvidia.com/en-us/research/) ([GitHub](https://github.com/NVlabs))
 - [Crossminds](https://crossminds.ai/) - Latest Tech Research Videos. ([Explore](https://crossminds.ai/explore/))
+- [Highly Cited Researchers (h>100)](http://www.webometrics.info/en/hlargerthan100)
+- [The structure and interpretation of scientific models (2020)](https://blog.khinsen.net/posts/2020/12/10/the-structure-and-interpretation-of-scientific-models/)

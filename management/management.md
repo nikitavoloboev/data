@@ -69,3 +69,4 @@
 - [5 second feedback (2020)](https://critter.blog/2020/11/26/5-second-feedback/)
 - [Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
 - [30 tactical tips for managing up (2020)](https://firstround.com/review/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
+- [Staying organized while executing agile sprints (2020)](https://www.kovach.me/Staying_organized_while_executing_agile_sprints.html)

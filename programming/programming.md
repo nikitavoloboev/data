@@ -303,3 +303,5 @@
 - [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/) ([HN](https://news.ycombinator.com/item?id=25500815)) ([Lobsters](https://lobste.rs/s/yasguo/my_engineering_axioms))
 - [What is a Pedagogic IDE?](https://parentheticallyspeaking.org/articles/pedagogic-ide/)
 - [Coding as a tool of thought (2020)](https://surfingcomplexity.blog/2020/12/21/coding-as-a-tool-of-thought/) ([Lobsters](https://lobste.rs/s/4wjvfy/coding_as_tool_thought))
+- [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/) ([HN](https://news.ycombinator.com/item?id=25569148))
+- [Compiling Refactors - Benjamin Kovach (2017)](https://www.youtube.com/watch?v=bs3zY9ZIZv0)

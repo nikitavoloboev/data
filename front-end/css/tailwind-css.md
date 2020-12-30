@@ -53,3 +53,4 @@
 - [Beamwind](https://github.com/kenoxa/beamwind) - Collection of packages to compile Tailwind CSS like shorthand syntax into CSS at runtime.
 - [Twind](https://github.com/tw-in-js/twind) - Smallest, fastest, most feature complete Tailwind-in-JS solution in existence. ([Web](https://twind.dev/))
 - [Blog – Tailwind CSS](https://blog.tailwindcss.com/) ([Code](https://github.com/tailwindlabs/blog.tailwindcss.com))
+- [Tailwind UI Kit](https://www.tailwind-kit.com/) - Beautiful and large components kit for TailwindCSS. ([Code](https://github.com/Charlie85270/fastUI))

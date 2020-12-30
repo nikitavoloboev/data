@@ -246,3 +246,4 @@
 - [Publish, ship, and install modern JavaScript for faster applications (2020)](https://web.dev/publish-modern-javascript/)
 - [Universal JavaScript Build and Packaging](https://github.com/mikeal/ipjs)
 - [Maybe you don't need Rust and WASM to speed up your JS (2018)](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
+- [lage](https://github.com/microsoft/lage) - Task runner in JS monorepos. ([Web](https://microsoft.github.io/lage/))

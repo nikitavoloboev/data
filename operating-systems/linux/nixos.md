@@ -102,3 +102,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [TangeriNixOS](https://github.com/Pamplemousse/tangerinixos) - NixOS tailored for pentesting.
 - [Methods for building custom NixOS AMIs](https://github.com/nh2/nixos-ami-building)
 - [Colmena](https://github.com/zhaofengli/colmena) - Simple, stateless NixOS deployment tool modeled after NixOps and Morph, written in Rust.
+- [NixOS in the Cloud, step-by-step (2020)](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1)
+- [Mayflower Nix Consulting](https://nixos.mayflower.consulting/)

@@ -13,3 +13,4 @@
 - [Learning Google V8](https://github.com/danbev/learning-v8)
 - [V8 Optimized Language Features](https://github.com/thlorenz/v8-perf/blob/master/language-features.md) ([HN](https://news.ycombinator.com/item?id=25016362))
 - [Lexbor](https://github.com/lexbor/lexbor) - Development of web browser engine available as a software library. Open source HTML Renderer library. ([Web](http://lexbor.com/))
+- [V8 JavaScript engine Blog](https://v8.dev/) ([Code](https://github.com/v8/v8.dev))

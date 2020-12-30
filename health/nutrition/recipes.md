@@ -31,3 +31,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [RecipeMD](https://github.com/tstehr/RecipeMD) - Standard format for recipes as Markdown files and a python reference implementation. ([Docs](https://recipemd.org/))
 - [Favorite breakfast recipes](https://www.instagram.com/susannawurz.cooking/guide/my-favorite-breakfast-recipes/17908740661558387/)
 - [Instantly search 2M recipes](https://recipe-search.typesense.org/) ([HN](https://news.ycombinator.com/item?id=25365397)) ([Code](https://github.com/typesense/showcase-recipe-search))
+- [recipes-parser](https://github.com/Charlie85270/recipes-parser) - Parse recipes instructions (string text entry) and extract ingredients, units and quantity.

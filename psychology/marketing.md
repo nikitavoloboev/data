@@ -100,6 +100,7 @@
 - [GrowthList](https://www.thegrowthlist.co/) - Browse +120 proven tactics to boost your growth.
 - [Autopilot](https://www.autopilothq.com/) - Marketing automation software made visual.
 - [Getting our first 1000 users in one day (2020)](https://francescodilorenzo.com/typefully-launch) ([HN](https://news.ycombinator.com/item?id=25374319))
+- [Acquisition Channel Opportunities: Instagram Keyword Search, FB Ads Targeting, Pinterest Ranking on Google (2020)](https://www.indiehackers.com/post/acquisition-channel-opportunities-instagram-keyword-search-fb-ads-targeting-pinterest-ranking-on-google-3bec0075db)
 
 ## Images
 

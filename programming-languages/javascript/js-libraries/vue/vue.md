@@ -44,3 +44,4 @@
 - [Vue Essentials Cheatsheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
 - [Vue Mastery](https://www.vuemastery.com/) - Ultimate Learning Resource for Vue.js Developers.
 - [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
+- [VueDX](https://github.com/znck/vue-developer-experience) - Collection of tools for Vue ecosystem.

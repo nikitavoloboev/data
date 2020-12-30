@@ -39,3 +39,4 @@
 - [Cloud GPU Vendors](https://github.com/binga/cloud-gpus) - Compares on-demand GPU vendors to help Machine Learning practitioners pick their preferred platform.
 - [GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim_distribution) - Provides a detailed simulation model of contemporary NVIDIA GPUs running CUDA and/or OpenCL workloads.
 - [ArrayFire](https://github.com/arrayfire/arrayfire) - General purpose GPU library. ([Web](https://arrayfire.com/))
+- [AMD ROCm Platform Docs](https://rocmdocs.amd.com/en/latest/) - Open-source software development platform for HPC/Hyperscale-class GPU computing. ([Code](https://github.com/RadeonOpenCompute/ROCm))

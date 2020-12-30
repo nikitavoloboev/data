@@ -74,6 +74,8 @@
 - [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
 - [tiny-skia](https://github.com/RazrFalcon/tiny-skia) - Tiny Skia subset ported to Rust.
 - [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
+- [RAUI](https://github.com/PsichiX/raui) - Rust implementation of Renderer Agnostic User Interface.
+- [Spline](https://github.com/linebender/spline) - Implements a new spline designed and optimized for interactive design of 2D curves.
 
 ## DB
 
@@ -198,6 +200,7 @@
 - [timed](https://github.com/y2kappa/timed) - Rust crate to time your function using derive annotations.
 - [paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs.
 - [Darling](https://github.com/TedDriggs/darling) - Rust proc-macro attribute parser.
+- [unseemly](https://github.com/paulstansifer/unseemly) - Macros have types. ([Web](https://unseemly.github.io/))
 
 ## Other
 
@@ -602,6 +605,8 @@
 - [ndarray-linalg](https://github.com/rust-ndarray/ndarray-linalg) - Linear algebra package for rust-ndarray using LAPACK binding.
 - [Merkle Storage](https://github.com/fafk/merkle_storage) - Key-value git-like storage with full history backed by RocksDB.
 - [arcode-rs](https://github.com/cgburgess/arcode-rs) - Arithmetic coder for Rust.
+- [heck](https://github.com/withoutboats/heck) - Case conversion library.
+- [kApp](https://github.com/kettle11/kapp) - Pure Rust window and input library for Windows, Mac, and Web.
 
 ## Cargo Plugins
 

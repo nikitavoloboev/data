@@ -97,3 +97,6 @@
 - [Generative Art in Go (2020)](https://gumroad.com/l/generative-art-in-golang) ([Pre Order](https://www.notion.so/Thank-you-for-pre-ordering-dd509d927f854da09d96982d2d425462))
 - [Tabbied](https://tabbied.com/) - Doodle with generated patterns.
 - [Pattern Generator](https://doodad.dev/pattern-generator/)
+- [chaosbox](https://github.com/5outh/chaosbox) - Generative art framework in Haskell.
+- [Tips for Generative Infrastructure and Tooling (2018)](https://www.kovach.me/Infrastructure_of_art.html)
+- ["A Box of Chaos: The Generative Artist's Toolkit" by Benjamin Kovach (2018)](https://www.youtube.com/watch?v=kZNTozzsNqk)

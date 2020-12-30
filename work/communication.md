@@ -72,3 +72,4 @@
 - [Date-Night Questions](https://datenightquestions.com/) - Questions to help you know your friends & loved ones better.
 - [Ask HN: How to figure out if someone is smart during a casual conversation? (2020)](https://news.ycombinator.com/item?id=25326961)
 - [neurodiverse.team](https://neurodiverse.team/) - Building neurodiverse team culture.
+- [10 thought-provoking questions guaranteed to spark an interesting dinner conversation](https://twitter.com/polina_marinova/status/1342213858795118592)

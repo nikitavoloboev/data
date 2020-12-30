@@ -63,6 +63,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [LibTerm](https://libterm.app/) - iOS sandboxed terminal with Python, Lua and Clang. ([Code](https://github.com/ColdGrub1384/LibTerm))
 - [Lichess Mobile](https://github.com/veloce/lichobile/)
 - [Mixin iOS messenger](https://github.com/MixinNetwork/ios-app)
+- [Nextcloud iOS app](https://github.com/nextcloud/ios)
 - [MortyUI](https://github.com/Dimillian/MortyUI) - Simple Rick & Morty app to demo GraphQL + SwiftUI.
 
 ## Other

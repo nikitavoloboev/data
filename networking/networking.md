@@ -30,7 +30,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [stun](https://github.com/isundaylee/stun) - Simple layer-3 network tunnel written in C++.
 - [devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy.
 - [Open Screen Protocol](https://github.com/webscreens/openscreenprotocol) - Suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion.
-- [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
+- [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810) ([HN](https://news.ycombinator.com/item?id=25568766))
 - [A free Argo Tunnel for your next project (2019)](https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/)
 - [HoneyBadger](https://github.com/david415/HoneyBadger) - Quantum Insert detector/recorder.
 - [SFTPGo](https://github.com/drakkan/sftpgo) - Full featured and highly configurable SFTP server software.

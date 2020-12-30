@@ -33,6 +33,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Oliver Caldwell](https://github.com/Olical/dotfiles)
 - [Hylke Visser](https://github.com/htdvisser/dotfiles)
 - [Zach Holman](https://github.com/holman/dotfiles)
+- [Thibault Duplessis](https://github.com/ornicar/dotfiles)
 
 ## Links
 
@@ -49,3 +50,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere. ([Web](https://deadc0de.re/dotdrop/))
 - [Dotter](https://github.com/SuperCuber/dotter) - Dotfile manager and templater written in Rust. ([HN](https://news.ycombinator.com/item?id=25035276))
 - [Dotfile](https://github.com/knoebber/dotfile) - Version control system designed for dotfiles.
+- [Using GNU Stow to manage your dotfiles (2012)](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html) ([HN](https://news.ycombinator.com/item?id=25549462))

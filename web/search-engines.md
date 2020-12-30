@@ -35,7 +35,8 @@
 - [sonar](https://github.com/arso-project/sonar-tantivy) - Search engine based on tantivy with a Node.js frontend.
 - [How to make PageRank faster (with lots of math and a hint of Python) (2020)](https://dev.to/karjudev/how-to-make-pagerank-faster-with-lots-of-math-and-a-hint-of-python-2e92)
 - [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/) ([HN](https://news.ycombinator.com/item?id=23473365))
-- [tinysearch](https://github.com/mre/tinysearch) - Tiny, full-text search engine for static websites built with Rust and WASM. ([Article](https://endler.dev/2019/tinysearch/)) ([HN](https://news.ycombinator.com/item?id=23473303))
+- [Tinysearch](https://github.com/mre/tinysearch) - Tiny, full-text search engine for static websites built with Rust and WASM. ([Article](https://endler.dev/2019/tinysearch/)) ([HN](https://news.ycombinator.com/item?id=23473303))
+- [Tinysearch-Go](https://github.com/bradstimpson/tinysearch-go) - Go based WASM Tiny Search inspired by Endler.dev.
 - [Elasticlunr.js](http://elasticlunr.com/) - Lightweight full-text search engine in JavaScript for browser search and offline search. ([Code](https://github.com/weixsong/elasticlunr.js))
 - [Zola](https://www.getzola.org/documentation/content/search/) - Can build a search index from the sections and pages content to be used by a JavaScript library such as elasticlunr.
 - [Creating a full-text search engine in Apache Pinot (2020)](https://medium.com/apache-pinot-developer-blog/text-analytics-on-apache-pinot-cbf5c45d282c) ([HN](https://news.ycombinator.com/item?id=23480941))

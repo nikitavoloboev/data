@@ -69,3 +69,5 @@
 - [Ask HN: How did Apple manage to create such a better chip than Intel? (2020)](https://news.ycombinator.com/item?id=25381537)
 - [ARM Cortex-A72 fetch and branch processing (2020)](http://sandsoftwaresound.net/arm-cortex-a72-fetch-and-branch-processing/)
 - [The Secret History of the First Microprocessor, the F-14, and Me (2020)](https://www.wired.com/story/secret-history-of-the-first-microprocessor-f-14/)
+- [sandsifter](https://github.com/xoreaxeaxeax/sandsifter) - x86 processor fuzzer.
+- [Undocumented arm64 ISA extension present on the Apple M1](https://gist.github.com/dougallj/7a75a3be1ec69ca550e7c36dc75e0d6f) ([Reddit](https://www.reddit.com/r/programming/comments/km76pz/undocumented_arm64_isa_extension_present_on_the/))

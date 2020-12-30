@@ -46,5 +46,5 @@
 - [Jesse](https://github.com/jesse-ai/jesse) - Advanced crypto trading framework which aims to simplify researching and defining trading strategies. ([Web](https://jesse.trade/))
 - [Valora](https://valoraapp.com/) - Mobile payments app that works worldwide. ([Code](https://github.com/celo-org/celo-monorepo/tree/master/packages/mobile))
 - [Coinbase Prime](https://primebroker.coinbase.com/) - Crypto solution for institutions.
-- [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html) ([Tweet](https://twitter.com/VitalikButerin/status/1343366729427079169))
+- [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html) ([Tweet](https://twitter.com/VitalikButerin/status/1343366729427079169)) ([HN](https://news.ycombinator.com/item?id=25566963))
 - [CCXT](https://github.com/ccxt/ccxt) - CryptoCurrency eXchange Trading Library.

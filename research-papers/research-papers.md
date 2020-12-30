@@ -84,3 +84,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Inciteful](https://inciteful.xyz/) - Using Citations to Explore Academic Literature.
 - [42 Papers](https://42papers.com/) - Trending Papers in AI and Computer Science.
 - [Fatcat](https://fatcat.wiki/) - Versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets. ([Code](https://github.com/internetarchive/sandcrawler))
+- [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and understandable. ([ActivePapers Pharo edition](https://github.com/activepapers/activepapers-pharo))

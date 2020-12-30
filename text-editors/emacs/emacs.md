@@ -79,3 +79,4 @@ Might give it a go sometime.
 - [Emacs Survey 2020 Results](https://emacssurvey.org/2020/) ([HN](https://news.ycombinator.com/item?id=25388353))
 - [Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text (2017)](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/)
 - [Emacs is the 2D Command-line Interface](http://hongchao.me/cli-and-emacs/) ([Lobsters](https://lobste.rs/s/iliflm/emacs_is_2d_command_line_interface))
+- [Turn your .emacs.d Into an Emacs Distribution (with Straight.el) (2020)](https://countvajhula.com/2020/12/27/turn-your-emacs-d-into-an-emacs-distribution-with-straight-el/) ([Reddit](https://www.reddit.com/r/emacs/comments/kkzyht/turn_your_emacsd_into_an_emacs_distribution_with/))

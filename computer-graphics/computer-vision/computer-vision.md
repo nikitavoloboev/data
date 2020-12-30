@@ -192,3 +192,5 @@
 - [Computer Vision Annotation Tool (CVAT)](https://github.com/openvinotoolkit/cvat)
 - [DeiT: Data-efficient Image Transformers](https://github.com/facebookresearch/deit)
 - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations)
+- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - Python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities. ([Web](http://imageai.org/))
+- [RAIVN Lab](https://raivn.cs.washington.edu/) - Reasoning, AI and VisioN (RAIVN) Lab. ([GitHub](https://github.com/RAIVNLab))

@@ -428,3 +428,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Inside the Whale: An Interview with an Anonymous Amazonian (2020)](https://logicmag.io/commons/inside-the-whale-an-interview-with-an-anonymous-amazonian/)
 - [Looking Glass Factory](https://lookingglassfactory.com/) - World's Leading Holographic Display.
 - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) ([HN](https://news.ycombinator.com/item?id=25550685))
+- [Dark Mountain Manifesto](https://dark-mountain.net/)

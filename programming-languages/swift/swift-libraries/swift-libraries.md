@@ -208,6 +208,10 @@
 - [SwiftUIKit](https://github.com/youjinp/SwiftUIKit) - Collection of missing SwiftUI components.
 - [SlideOverCard](https://github.com/joogps/SlideOverCard) - SwiftUI card view, made great for setup interactions.
 - [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - Swift package for displaying configurable confetti animation.
+- [SwiftUI BottomSheet](https://github.com/weitieda/bottom-sheet) - SwiftUI view component sliding in from bottom.
+- [AttributedText](https://github.com/gonzalezreal/AttributedText) - Render attributed strings in SwiftUI.
+- [SetNeedsDisplay](https://github.com/b3ll/SetNeedsDisplay) - Swift Property Wrapper to invalidate your view's layout or display based on property changes.
+- [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown formatted text in SwiftUI.
 
 ## Test
 

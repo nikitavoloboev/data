@@ -73,3 +73,5 @@
 - [RISC-V Educational Materials](https://github.com/riscv/educational-materials)
 - [Do Some ARM (2018)](https://medium.com/@simonhallam/do-some-arm-c7ddc2d59202)
 - [The Genius of RISC-V Microprocessors (2020)](https://erik-engheim.medium.com/the-genius-of-risc-v-microprocessors-b19d735abaa6) ([Lobsters](https://lobste.rs/s/ar3phv/genius_risc_v_microprocessors))
+- [Swimmer-RISCV](https://github.com/msyksphinz-self/swimmer_riscv) - Instruction set simulator for RISC-V.
+- [Dydra](https://github.com/msyksphinz-self/dydra) - Instruction set emulator written in Rust, now supports RISC-V as guest ISA, x86-64 as host ISA.

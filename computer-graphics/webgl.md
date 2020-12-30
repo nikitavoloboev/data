@@ -38,3 +38,4 @@
 - [TWGL](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library.
 - [w-gl](https://github.com/anvaka/w-gl) - Simple WebGL renderer.
 - [Moonbridge](https://moonbridge.app/) - Simple and fun way to create your own WebGL experiment.
+- [gl-bench](https://github.com/munsocket/gl-bench) - WebGL performance monitor that showing percentage of GPU/CPU load.

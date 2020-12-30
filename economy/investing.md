@@ -1,5 +1,7 @@
 # Investing
 
+I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
+
 ## Notes
 
 - Don't try to time the market. Time in the market is better than timing the market.
@@ -131,3 +133,4 @@
 - [What are your current undervalued stock picks? What are your stock picks for 2021?](https://www.reddit.com/r/investing/comments/kj20bp/what_are_your_current_undervalued_stock_picks/)
 - [Lyn Alden – Investment Strategy](https://www.lynalden.com/)
 - [The Grant Williams Podcast](https://ttmygh.podbean.com/)
+- [Trading 212](https://www.trading212.com/) - Invest in Stocks and ETFs for free. ([Community](https://community.trading212.com/))

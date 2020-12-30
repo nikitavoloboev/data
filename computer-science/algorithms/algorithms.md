@@ -62,6 +62,7 @@
 - [Miniselect: Practical and Generic Selection Algorithms (2020)](https://danlark.org/2020/11/11/miniselect-practical-and-generic-selection-algorithms/)
 - [The Slowest Quicksort (2019)](https://chasewilson.dev/blog/slowest-quicksort/)
 - [Functional Algorithm Design (2020)](https://blog.sigplan.org/2020/11/17/functional-algorithm-design-part-0/)
+- [Algorithms To Live By - Book Notes](https://milofultz.com/2020/12/27/atlb-notes)
 
 ## Images
 

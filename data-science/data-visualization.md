@@ -6,6 +6,7 @@
 - [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. Provides a concise JSON syntax for rapidly generating visualizations to support analysis. ([Code](https://github.com/vega/vega-lite)) ([HN](https://news.ycombinator.com/item?id=24937954))
 - [Vega-Lite API](https://github.com/vega/vega-lite-api) - JavaScript API for Vega-Lite.
 - [Vega Editor](https://vega.github.io/editor/#/)
+- [altair_recipes](https://github.com/piccolbo/altair_recipes) - Collection of ready-made statistical graphics for vega.
 - [XVega](https://github.com/QuantStack/xvega) - C++ API to Vega-Lite.
 - [Fundamentals of Data Visualization book (2019)](https://serialmentor.com/dataviz/)
 - [Most cited scientific papers within data visualization (2019)](https://www.reddit.com/r/dataisbeautiful/comments/am2xk4/most_cited_scientific_papers_within_data/)
@@ -71,3 +72,4 @@
 - [HoloViz](https://holoviz.org/) - High-level tools to simplify visualization in Python. ([GitHub](https://github.com/holoviz))
 - [tikzplotlib](https://github.com/nschloe/tikzplotlib) - Convert matplotlib figures to TikZ/PGFplots for smooth integration into LaTeX.
 - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
+- [G6](https://github.com/antvis/G6) - Graph Visualization Framework in TypeScript.

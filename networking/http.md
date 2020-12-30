@@ -98,3 +98,4 @@
 - [serve-http](https://github.com/rsms/serve-http) - Simple single-file local web server.
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working http and https servers.
 - [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.
+- [devserver](https://github.com/kettle11/devserver) - Simple HTTPS server for local development. Implemented in Rust. ([Building devserver: An Ultra-Tiny Rust Server](https://ianjk.com/devserver/))

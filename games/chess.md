@@ -47,3 +47,9 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Sjeng](https://www.sjeng.org/indexold.html) - Chess-and-variants playing program.
 - [Daniel Naroditsky's Speed Runs](https://www.youtube.com/watch?v=HiCeU8tIh0U&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit)
 - [Blindfold chess training (2020)](https://www.youtube.com/watch?v=Sjj32JpdBD8)
+- [lichess puzzler](https://github.com/ornicar/lichess-puzzler) - Use stockfish and database.lichess.org to produce puzzle candidates.
+- [ChessBase](https://database.chessbase.com/) - Chess database with eight million games. Openings, players, tournaments.
+- [lichess.org open database](https://database.lichess.org/) ([Code](https://github.com/ornicar/lichess-db))
+- [Lichess.org API](https://lichess.org/api) ([Code](https://github.com/lichess-org/api))
+- [Lichess Opening Explorer](https://lichess.org/analysis#explorer) - Opening explorer for lichess.org that can handle all the variants and billions of unique positions. ([Code](https://github.com/niklasf/lila-openingexplorer))
+- [Chessground](https://github.com/ornicar/chessground) - Mobile/Web chess UI for lichess.org.

@@ -9,6 +9,7 @@
 - [Lagrange](https://github.com/LeNPaul/Lagrange) - Minimalist Jekyll theme for running a personal blog.
 - [whiteglass](https://github.com/yous/whiteglass) - Minimal, responsive Jekyll theme for hackers.
 - [Tale](https://github.com/chesterhow/tale) - Minimal Jekyll theme for storytellers.
+- [Klise](https://github.com/piharpi/jekyll-klise) - Minimalist Jekyll theme for running a personal site or blog, light & dark mode support.
 
 ## Plugins
 

@@ -105,6 +105,7 @@
 - [daz](https://github.com/stevelacy/daz) - Composable HTML components in Go.
 - [Alice](https://github.com/justinas/alice) - Painless middleware chaining for Go.
 - [tinynet](https://github.com/pojntfx/tinynet) - `net` implementation for Go and TinyGo based on unisockets, targeting both WebAssembly and native platforms.
+- [go-app](https://github.com/maxence-charriere/go-app) - Package to build progressive web apps with Go programming language and WebAssembly. ([Docs](https://go-app.dev/))
 
 ## GraphQL
 

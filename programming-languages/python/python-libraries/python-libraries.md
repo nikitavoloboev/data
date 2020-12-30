@@ -260,6 +260,8 @@
 - [PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettifies Python exception output to make it legible.
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Algorithms for outlier and adversarial instance detection, concept drift and metrics.
 - [Shellingham](https://github.com/sarugaku/shellingham) - Tool to Detect Surrounding Shell.
+- [Nested-Diff.py](https://github.com/mr-mixas/Nested-Diff.py) - Recursive diff for nested python structures.
+- [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming.
 
 ## Links
 

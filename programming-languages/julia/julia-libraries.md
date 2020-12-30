@@ -44,6 +44,7 @@
 - [FiniteDifferences.jl](https://github.com/JuliaDiff/FiniteDifferences.jl) - Estimates derivatives with finite differences.
 - [IncrementalInference.jl](https://github.com/JuliaRobotics/IncrementalInference.jl) - Incremental non-parametric (and parametric) solution to factor graphs.
 - [FiniteDiff](https://github.com/JuliaDiff/FiniteDiff.jl) - Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support.
+- [LazySets.jl](https://github.com/JuliaReach/LazySets.jl) - Julia package for calculus with convex sets.
 
 ## NLP
 
@@ -156,6 +157,7 @@
 - [VectorizationBase](https://github.com/chriselrod/VectorizationBase.jl) - Library providing basic SIMD support in Julia.
 - [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) - Convenient macros for in-place matrix operations in Julia.
 - [PGFPlotsX](https://github.com/KristofferC/PGFPlotsX.jl) - Julia package to generate publication quality figures using the LaTeX library PGFPlots.
+- [AcceleratedArrays.jl](https://github.com/andyferris/AcceleratedArrays.jl) - Arrays with acceleration indices.
 
 ## Links
 
@@ -163,3 +165,4 @@
 - [Curated decibans of Julia programming language](https://github.com/svaksha/Julia.jl)
 - [Some State of the Art Packages in Julia v1.0 (2018)](http://www.stochasticlifestyle.com/some-state-of-the-art-packages-in-julia-v1-0/)
 - [PackagePage.jl](https://github.com/tlienart/PackagePage.jl) - Create a webpage for your package in minutes.
+- [JuliaReach](https://juliareach.github.io/JuliaReach-website/) - Toolbox for set-based reachability analysis and safety verification of dynamical systems. ([GitHub](https://github.com/JuliaReach))

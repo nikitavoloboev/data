@@ -28,3 +28,4 @@
 - [Shading techniques and GLSL snippets](https://github.com/Rabbid76/graphics-snippets)
 - [Rasen](https://github.com/leops/rasen) - Generate SPIR-V bytecode from an operation graph.
 - [smol-compute](https://github.com/aras-p/smol-compute) - Tiny library for launching compute shaders on D3D11 and Metal.
+- [Futureproof](https://github.com/mkeeter/futureproof) - Live editor for GPU shaders, built on Zig, Neovim, and WebGPU. ([Web](https://www.mattkeeter.com/projects/futureproof/))

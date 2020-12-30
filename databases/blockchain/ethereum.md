@@ -136,3 +136,6 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Mirror Protocol](https://mirror.finance/) - Synthetics protocol for on-chain price exposure to real world assets. ([GitHub](https://github.com/Mirror-Protocol))
 - [Mirror App](https://terra.mirror.finance/) - Mirror Protocol App for web browsers. ([Code](https://github.com/Mirror-Protocol/terra-web-app))
 - [swapr](https://github.com/psq/swapr) - Exploration on how to implement an automated token exchange modeled after Uniswap in Clarity for Stacks 2.0.
+- [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log. ([Code](https://github.com/nomiclabs/hardhat))
+- [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for Solidity.
+- [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) - Concats solidity files from Truffle and Buidler projects with all of their dependencies.

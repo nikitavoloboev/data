@@ -184,3 +184,6 @@
 - [APISprout](https://github.com/danielgtaylor/apisprout) - Lightweight, blazing fast, cross-platform OpenAPI 3 mock server with validation.
 - [List of Great Product API Docs (2020)](https://twitter.com/steipete/status/1335135761197375491)
 - [Bitmasks for nicer APIs (2020)](https://www.arp242.net/bitmask.html)
+- [Apache APISIX](https://github.com/apache/apisix) - Dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd. ([Web](https://apisix.apache.org/))
+- [APIsFinder](https://www.apisfinder.com/) - Find Over 680 public and open REST APIs for developers. ([Code](https://github.com/Charlie85270/APIFinder))
+- [APIs All the Way Down (2020)](https://notboring.substack.com/p/apis-all-the-way-down)

@@ -9,3 +9,4 @@
 - [SymbiFlow](https://symbiflow.github.io/) - Open source toolchain for the development of FPGAs of multiple vendors. ([GitHub](https://github.com/SymbiFlow))
 - [Verilog PCI Express Components](https://github.com/alexforencich/verilog-pcie)
 - [Verilog AXI Components](https://github.com/alexforencich/verilog-axi)
+- [Verilator](https://github.com/verilator/verilator) - Fastest Verilog/SystemVerilog simulator. ([Web](https://www.veripool.org/wiki/verilator))

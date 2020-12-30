@@ -73,3 +73,4 @@
 - [How I reverse-engineered Google Docs to play back any document's keystrokes (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/) ([HN](https://news.ycombinator.com/item?id=8562483))
 - [Reverse-engineering an early calculator chip with four-phase logic (2020)](http://www.righto.com/2020/12/reverse-engineering-early-calculator.html)
 - [Qiling Framework](https://www.qiling.io/) - Advanced Binary Emulation Framework. ([Code](https://github.com/qilingframework/qiling))
+- [Reverse Engineering my Christmas Tree (2020)](https://kc3nwj.com/christmas/) ([HN](https://news.ycombinator.com/item?id=25550017))

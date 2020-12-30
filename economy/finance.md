@@ -1,20 +1,14 @@
 # Finance
 
-For my own personal finance, I budget all my money with my online bank app, [Monzo](https://monzo.com) and its Pots feature.
+For my own personal finance, I budget & manage my money with [Monzo](https://monzo.com) (UK/US) & [N26](https://n26.com/en-gb/) (EU).
 
-I have a `Save` pot that has a goal of 5000 pounds. The 5000 pound is the minimum amount I need to hold in order to be safe from any emergency spending.
+I try to keep a minimum of 5,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and my business. I also try to support open source projects/people I love.
 
-![](https://i.imgur.com/YeXC4bl.jpg)
-
-I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances. Monzo provides nice tools to budget money I want to spend by category.
-
-Each transaction made with Monzo is automatically sorted into a category by the app.
-
-I also use [N26](https://n26.com/en-gb/) bank in cases where I need Maestro card as Monzo only has MasterCard.
+I use [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat manage my spending but not proactively. I try to be mindful with my spending at all times and try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
 
 ## Ongoing subscriptions
 
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life.
 
 ![](https://i.imgur.com/jqrRhJe.jpg)
 

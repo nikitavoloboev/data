@@ -116,6 +116,10 @@
 
 - [setup-julia](https://github.com/julia-actions/setup-julia) - Sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.
 
+## OCaml
+
+- [Set up OCaml](https://github.com/actions-ml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
+
 ## Docker
 
 - [build-push-action](https://github.com/docker/build-push-action) - Builds and pushes Docker images and will log in to a Docker registry if required.

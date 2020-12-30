@@ -19,3 +19,4 @@
 - [Phoenix Igniter](https://phoenixigniter.com/) - Base from which to build your Phoenix apps.
 - [Elixir/Phoenix on Alpine Linux](https://github.com/bitwalker/alpine-elixir-phoenix)
 - [Introducing Phoenix LiveSessions (2020)](https://pentacent.com/blog/phoenix-live-sessions/)
+- [ReactPhoenix](https://github.com/geolessel/react-phoenix) - Functions to make rendering React.js components easy in Phoenix.

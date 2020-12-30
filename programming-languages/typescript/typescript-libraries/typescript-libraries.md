@@ -85,6 +85,7 @@
 - [set-fns](https://github.com/haydn/set-fns) - Utility library for working with sets.
 - [logging-ts](https://github.com/gcanti/logging-ts) - Composable loggers for TypeScript.
 - [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
+- [typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
 
 ## Links
 
