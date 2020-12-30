@@ -102,3 +102,4 @@ All active variables can be seen by running `env`.
 - [POSIX Shell and Utilities Quick Reference](http://shellhaters.org/)
 - [tab](https://github.com/austinjones/tab-rs) - Intuitive, config-driven terminal multiplexer designed for software & systems engineers.
 - [Waiting for jobs, and the concept of the shell (2020)](https://qmacro.org/autodidactics/2020/12/28/waiting-for-jobs/)
+- [Terminal Recorder](https://github.com/sassman/t-rec-rs) - Fast terminal recorder that generates animated gif images for the web written in rust.

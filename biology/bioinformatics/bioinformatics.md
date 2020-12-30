@@ -87,3 +87,4 @@
 - [Theis Lab](https://www.helmholtz-muenchen.de/icb/) - Institute of Computational Biology. ([GitHub](https://github.com/theislab))
 - [PostEra](https://postera.ai/) - Medicinal Chemistry Powered by Machine Learning.
 - [Bioregistry](https://github.com/cthoyt/bioregistry) - Integrative registry of biological databases, ontologies, and nomenclatures.
+- [Nature Biotechnology](https://www.nature.com/nbt/)

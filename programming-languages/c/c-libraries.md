@@ -5,6 +5,7 @@
 - [facil.io](https://github.com/boazsegev/facil.io) - C micro-framework for web applications.
 - [libart](https://github.com/armon/libart) - Adaptive Radix Trees implemented in C.
 - [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C. ([HN](https://news.ycombinator.com/item?id=21777401))
+- [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C.
 
 ## GUI
 
@@ -46,3 +47,4 @@
 - [C macros for hash tables and more](https://github.com/troydhanson/uthash)
 - [LambdaPP](https://github.com/graphitemaster/lambdapp) - Anonymous functions in C.
 - [Metacall](https://github.com/metacall/core) - Library for providing inter-language foreign function interface calls. ([Web](https://metacall.io/))
+- [CTL](https://github.com/glouw/ctl) - C Template Library. ([Lobsters](https://lobste.rs/s/9gc2ku/c_template_library)) ([HN](https://news.ycombinator.com/item?id=25576466))

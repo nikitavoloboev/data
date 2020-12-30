@@ -71,3 +71,4 @@
 - [Evaluation of date extraction tools for Python (2020)](http://adrien.barbaresi.eu/blog/evaluation-date-extraction-python.html)
 - [jusText](https://github.com/miso-belica/jusText) - Tool for removing boilerplate content, such as navigation links, headers, and footers from HTML pages.
 - [sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+- [Voyager](https://github.com/mattsse/voyager) - Write your own web crawler/scraper as a state machine in rust.

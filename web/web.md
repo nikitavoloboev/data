@@ -212,3 +212,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Dev Server](https://modern-web.dev/docs/dev-server/overview/) - Helps developing for the web, using native browser features like es modules.
 - [The birth of the Web](https://home.cern/science/computing/birth-web) ([HN](https://news.ycombinator.com/item?id=25485651))
 - [How to Favicon in 2021: Six files that fit most needs (2020)](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) ([HN](https://news.ycombinator.com/item?id=25520655))
+- [CSS & HTML vocabulary](http://apps.workflower.fi/vocabs/) ([Code](https://github.com/sakamies/vocabs))

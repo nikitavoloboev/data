@@ -32,6 +32,7 @@
 - [Multi Progress Bar](https://github.com/vbauerster/mpb) - Go lib for rendering progress bars in terminal applications.
 - [color](https://github.com/fatih/color) - Color package for Go.
 - [zli](https://github.com/zgoat/zli) - Go library for writing CLI programs. It includes flag parsing, colour escape codes, and various helpful utility functions, and makes testing fairly easy.
+- [Gosh](https://github.com/vladimirvivien/gosh) - Pluggable framework for building command shell programs.
 
 ## Test
 
@@ -106,6 +107,7 @@
 - [Alice](https://github.com/justinas/alice) - Painless middleware chaining for Go.
 - [tinynet](https://github.com/pojntfx/tinynet) - `net` implementation for Go and TinyGo based on unisockets, targeting both WebAssembly and native platforms.
 - [go-app](https://github.com/maxence-charriere/go-app) - Package to build progressive web apps with Go programming language and WebAssembly. ([Docs](https://go-app.dev/))
+- [Revel](https://github.com/revel/revel) - High productivity, full-stack web framework for the Go language.
 
 ## GraphQL
 
@@ -652,6 +654,7 @@
 - [json-lossless](https://github.com/joeshaw/json-lossless) - Lossless JSON encoding/decoding package in Go.
 - [gocelery](https://github.com/gocelery/gocelery) - Go Client/Server for Celery Distributed Task Queue.
 - [go-concise-encoding](https://github.com/kstenerud/go-concise-encoding) - Go implementation of Concise Binary and Text Encoding.
+- [fswatch](https://github.com/andreaskoch/go-fswatch) - Go library for monitoring filesystem changes that does not depend on inotify.
 
 ## Links
 

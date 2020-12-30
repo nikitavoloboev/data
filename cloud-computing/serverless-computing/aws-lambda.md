@@ -48,3 +48,4 @@
 - [AWS Lambda Python Runtime Interface Client](https://github.com/aws/aws-lambda-python-runtime-interface-client)
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - AWS CDK Construct to build Node.js AWS lambdas using esbuild.
 - [aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - Collection of sample tools to enable canary deployments of AWS Lambda functions.
+- [Mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda & API Gateway support for ASGI.

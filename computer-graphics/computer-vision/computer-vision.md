@@ -194,3 +194,6 @@
 - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations)
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - Python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities. ([Web](http://imageai.org/))
 - [RAIVN Lab](https://raivn.cs.washington.edu/) - Reasoning, AI and VisioN (RAIVN) Lab. ([GitHub](https://github.com/RAIVNLab))
+- [Norfair](https://github.com/tryolabs/norfair) - Customizable lightweight Python library for real-time 2D object tracking.
+- [Universal Style Transfer in PyTorch](https://github.com/sunshineatnoon/PytorchWCT)
+- [NVIDIA Deep learning Dataset Synthesizer (NDDS)](https://github.com/NVIDIA/Dataset_Synthesizer)

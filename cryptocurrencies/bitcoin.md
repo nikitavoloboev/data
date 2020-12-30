@@ -85,3 +85,4 @@
 - [BlueWallet](https://bluewallet.io/) - Bitcoin wallet and Lightning wallet for iOS and Android. ([Code](https://github.com/BlueWallet/BlueWallet))
 - [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon. It provides separate accounts with minimum trust for end users. ([Web](http://lndhub.io/))
 - [Umbrel](https://github.com/getumbrel/umbrel) - Personal Bitcoin and Lightning node designed for everyone. ([Web](https://getumbrel.com/))
+- [Bisq](https://bisq.network/) - Safe, private and decentralized way to exchange bitcoin for national currencies and other digital assets. ([Code](https://github.com/bisq-network/bisq))

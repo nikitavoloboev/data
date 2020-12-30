@@ -148,3 +148,5 @@
 - [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware. ([HN](https://news.ycombinator.com/item?id=25452435))
 - [ChampSim](https://github.com/ChampSim/ChampSim) - Trace-based simulator for a microarchitecture study.
 - [Clockwork](https://github.com/dillonhuff/clockwork) - Polyhedral Analysis for Hardware Accelerators.
+- [ACE: Apple Type-C Port Controller Secrets (2020)](https://blog.t8012.dev/ace-part-1/) ([HN](https://news.ycombinator.com/item?id=25579286))
+- [MyHDL](https://github.com/myhdl/myhdl) - Design hardware with Python. ([Web](http://www.myhdl.org/))

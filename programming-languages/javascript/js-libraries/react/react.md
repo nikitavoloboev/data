@@ -192,3 +192,4 @@
 - [Zero-Bundle-Size React Server Components (2020)](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html) ([Code](https://github.com/reactjs/server-components-demo)) ([HN](https://news.ycombinator.com/item?id=25497065)) ([Tweet](https://twitter.com/sugarpirate_/status/1341141198258524163)) ([Tweet 2](https://twitter.com/devongovett/status/1341203108207226880)) ([Tweet 3](https://twitter.com/swyx/status/1341535594543910912))
 - [Sosse](https://github.com/sossejs/sosse) - Composable toolkit for (p)react full-stack node web servers.
 - [react-worker-components](https://github.com/dai-shi/react-worker-components) - React Worker Components simplify using Web Workers.
+- [React Dev Inspector](https://github.com/zthxxx/react-dev-inspector) - Click react component then jump to component's source code in your local IDE.

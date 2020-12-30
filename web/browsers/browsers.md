@@ -23,6 +23,7 @@
 - [n.eko](https://github.com/nurdism/neko) - Self hosted virtual browser (rabb.it clone) that runs in docker.
 - [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda))
 - [Playwright for Python](https://github.com/microsoft/playwright-python) - Python library to automate Chromium, Firefox and WebKit browsers with a single API.
+- [Playwright for Go](https://github.com/mxschmitt/playwright-go) - Go library to automate Chromium, Firefox and WebKit with a single API.
 - [Robot Framework](https://github.com/MarketSquare/robotframework-browser) - Browser library powered by Playwright.
 - [browser-extension-template](https://github.com/notlmn/browser-extension-template) - Barebones boilerplate with webpack, options handler and auto-publishing.
 - [WebExtension browser API Polyfill](https://github.com/mozilla/webextension-polyfill) - Allows extensions that use the Promise-based WebExtension/BrowserExt API.

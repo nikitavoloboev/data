@@ -61,3 +61,4 @@
 - [HN: Deno 1.6 supports compiling TypeScript to a single executable (2020)](https://news.ycombinator.com/item?id=25366484)
 - [djwt](https://github.com/timonson/djwt) - Create and verify JSON Web Tokens (JWT) with deno.
 - [NPM compatibility list and declaration files for Deno](https://github.com/Soremwar/deno_types)
+- [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - Port of puppeteer running on Deno.

@@ -66,3 +66,4 @@
 - [Fermi paradox: why haven’t we found aliens yet? (2018)](https://www.vox.com/science-and-health/2018/7/3/17522810/aliens-fermi-paradox-drake-equation) - New paper on the Fermi paradox convincingly shows why we will probably never find aliens.
 - [NASA Asteroid Sample Return Mission](https://www.asteroidmission.org/)
 - [Big Trouble in a Deep Void (2020)](https://tritonstation.com/2020/10/23/big-trouble-in-a-deep-void/) ([HN](https://news.ycombinator.com/item?id=24877075))
+- [AstroWright](https://sites.psu.edu/astrowright/) - Astronomy and meta-Astronomy by Jason Wright.

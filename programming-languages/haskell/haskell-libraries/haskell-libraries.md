@@ -92,6 +92,7 @@
 - [Linear base](https://github.com/tweag/linear-base) - Standard library for linear types in Haskell.
 - [bifunctors](https://github.com/ekmett/bifunctors) - Haskell 98 bifunctors, bifoldables and bitraversables.
 - [directory-contents](https://github.com/obsidiansystems/directory-contents) - Recursively build a tree of directory contents, avoiding symlink cycles.
+- [Foundation](https://github.com/haskell-foundation/foundation) - Base foundational Haskell modules.
 
 ## Links
 

@@ -19,3 +19,4 @@
 - [TezTalks Radio - A Conversation with Tezos Co-Founder Arthur Breitman (2020)](https://www.youtube.com/watch?v=nSdnUK5WVSQ)
 - [Nomadic Labs](https://www.nomadic-labs.com/) - Research and development on distributed, decentralized, and formally verified software.
 - [Tezos December dev update (2020)](https://www.youtube.com/watch?v=23BhRSbE46I)
+- [Fireside Chat with Arthur and Kathleen Breitman (2020)](https://www.youtube.com/watch?v=JaC4yDcQWQI)

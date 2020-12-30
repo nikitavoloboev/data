@@ -208,3 +208,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Fornalder](https://github.comn/hpjansson/fornalder) - Visualize long-term trends in collections of Git repositories.
 - [What comes after Git? (2020)](https://twitter.com/jasoncwarner/status/1342172372061749248) ([HN](https://news.ycombinator.com/item?id=25535844))
 - [Some of git internals](https://yurichev.com/news/20201220_git/)
+- [Git email flow vs Github flow (2020)](https://blog.brixit.nl/git-email-flow-versus-github-flow/) ([Lobsters](https://lobste.rs/s/kevlgd/git_email_flow_vs_github_flow))
+- [Git Commands to Live By (2020)](https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139) ([Reddit](https://www.reddit.com/r/programming/comments/kmxz65/git_commands_to_live_by_the_cheat_sheet_that_goes/))

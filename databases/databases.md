@@ -277,3 +277,4 @@
 - [Fast database UPDATE/DELETE operations (2020)](https://www.spinellis.gr/blog/20201210/)
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 - [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics (2020)](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+- [clepsydra](https://github.com/graydon/clepsydra) - Implementation of a core protocol for a minimalist distributed database.

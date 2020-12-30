@@ -174,3 +174,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Overseerr](https://github.com/sct/overseerr) - Request management and media discovery tool for the Plex ecosystem.
 - [Why can’t you buy a good webcam? (2020)](https://vsevolod.net/good-webcams/) ([HN](https://news.ycombinator.com/item?id=25504771)) ([Lobsters](https://lobste.rs/s/hmwpil/why_can_t_you_buy_good_webcam))
 - [Galene](https://galene.org/) - Videoconferencing server that is easy to deploy (just copy a few files and run the binary) and that requires moderate server resources. ([Code](https://github.com/jech/galene))
+- [Kodi](https://kodi.tv/) - Open Source Home Theater Software. ([Code](https://github.com/xbmc/xbmc))

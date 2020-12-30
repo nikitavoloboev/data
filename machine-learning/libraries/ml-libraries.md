@@ -98,3 +98,4 @@
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for OpenNMT models.
 - [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Algorithms for graph structure recovery (including algorithms from the bnlearn, pcalg packages), mainly based out of observational data.
 - [FedML](https://github.com/FedML-AI/FedML) - Research Library and Benchmark for Federated Machine Learning.
+- [Auto_TS](https://github.com/AutoViML/Auto_TS) - Automatically build multiple Time Series models using a Single Line of Code.

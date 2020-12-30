@@ -189,3 +189,4 @@
 - [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - PostgreSQL Statistics Collector.
 - [hasql-queue](https://github.com/jfischoff/hasql-queue) - Module that utilizes PostgreSQL to implement a durable queue for efficently processing payloads. ([Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html))
 - [tmp-postgres](https://github.com/jfischoff/tmp-postgres) - Create temporary postgres instances. ([Keeping Database Tests Fast with `tmp-postgres`](http://jfischoff.github.io/blog/keeping-database-tests-fast.html)) ([Faster Database Testing with the New `tmp-postgres`](http://jfischoff.github.io/blog/faster-database-testing.html))
+- [DbSchema](https://github.com/db-schema/core) - Opinionated database schema management tool that lets you maintain your DB schema with a single ruby file.

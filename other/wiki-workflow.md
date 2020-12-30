@@ -34,7 +34,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 ## Similar wikis I liked
 
-- [Devine Lu Linvega](https://wiki.xxiivv.com) ([Code](https://github.com/XXIIVV/Oscean)) ([Index](https://wiki.xxiivv.com/site/index.html))
+- [Devine Lu Linvega](https://wiki.xxiivv.com/site/home.html) ([Code](https://github.com/XXIIVV/Oscean)) ([Index](https://wiki.xxiivv.com/site/index.html))
 - [100 Rabbits](https://100r.co/site/home.html) ([Code](https://github.com/hundredrabbits/100r.co))
 - [Gwern](https://www.gwern.net/) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
 - [Paul Copplestone](https://paul.copplest.one/knowledge/) ([Code](https://github.com/kiwicopple/paul.copplest.one))
@@ -285,4 +285,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [Memex](https://github.com/kormyen/memex) - Simple bookmarks and notes.
 - [POC on how a Memex could potentially work](https://github.com/steve-1820/memex)
-- [Agora](https://anagora.org/) - Distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph.
+- [Agora](https://anagora.org/) - Distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph. ([HN](https://news.ycombinator.com/item?id=25573523))

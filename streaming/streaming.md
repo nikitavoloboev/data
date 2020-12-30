@@ -47,3 +47,4 @@ Here are tools I use for streaming:
 - [OBS.Ninja](https://obs.ninja/) - Bring video from your smartphone, computer, or friends directly into your OBS video stream.
 - [Streamwall](https://github.com/streamwall/streamwall) - Makes it easy to compose multiple livestreams into a mosaic, with source attributions and audio control.
 - [Character Overlay](https://character-overlay.n1ru4l.cloud/) - Web App for adding an OBS overlay with character information such as name, picture, and health for your favorite role-playing game. ([Code](https://github.com/n1ru4l/obs-character-info))
+- [OBSWebSocket.JS](https://github.com/haganbmj/obs-websocket-js) - Allows JavaScript-based connections to the Open Broadcaster plugin obs-websocket.

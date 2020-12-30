@@ -98,3 +98,4 @@
 - [Statecharts: A Visual Formalism for Complex Systems (1987)](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
 - [Counting Complexity](https://jellypbc.com/posts/ezmntq-counting-complexity) ([Lobsters](https://lobste.rs/s/lnszhq/counting_complexity))
 - [Computability Theory and Complexity Theory Cheat Sheets](https://github.com/0x0f0f0f/computability-complexity-cheat-sheets/blob/master/cplx-cheat.pdf)
+- [Colin S. Gordon CS reading list](https://csgordon.github.io/books.html)

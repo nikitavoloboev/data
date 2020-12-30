@@ -66,3 +66,4 @@
 - [Remix Icon](https://remixicon.com/) - Open source icon library. ([Code](https://github.com/Remix-Design/RemixIcon))
 - [Fantasticon](https://github.com/tancredi/fantasticon) - Easy-to-use, pre-configured cli tool to generate web-font icon kits from .svg files.
 - [BoxIcons](https://boxicons.com/) - High Quality web friendly icons. ([Code](https://github.com/atisawd/boxicons))
+- [Lucide](https://lucide.netlify.app/) - Community-run fork of Feather Icons, open for anyone to contribute icons. ([Code](https://github.com/lucide-icons/lucide))

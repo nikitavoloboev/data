@@ -20,3 +20,4 @@
 - [HTMLKit](https://github.com/iabudiab/HTMLKit) - Objective-C framework for your everyday HTML needs.
 - [Resources for learning Objective-C and AppKit (2020)](https://lapcatsoftware.com/articles/learning.html)
 - [BlockHook](https://github.com/yulingtianxia/BlockHook) - Hook Objective-C blocks. A powerful AOP tool.
+- [PyObjC](https://github.com/ronaldoussoren/pyobjc) - Python <-> Objective-C Bridge with bindings for macOS frameworks.

@@ -21,6 +21,7 @@
 - [Integromat](https://www.integromat.com/en/) - Advanced online automation platform.
 - [Ask HN: What's are your personal automations? (2020)](https://news.ycombinator.com/item?id=25381191)
 - [Robocorp](https://robocorp.com/) - Open source stack for simplifying automation. ([GitHub](https://github.com/robocorp))
+- [Automation and the Future of Work by Aaron Benanav](https://www.versobooks.com/books/3717-automation-and-the-future-of-work)
 
 ## Images
 

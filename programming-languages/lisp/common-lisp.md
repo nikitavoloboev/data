@@ -41,3 +41,5 @@
 - [Emacs For Common Lisp](https://github.com/susam/emacs4cl) - Tiny ~/.emacs for Common Lisp programming explained line-by-line.
 - [Portacle](https://portacle.github.io/) - Portable Common Lisp Development Environment.
 - [Cakelisp](https://github.com/makuto/cakelisp) - Performance-oriented Lisp-like language where I can have my cake, and eat it too. The goal is a metaprogrammable, hot-reloadable, non-garbage-collected language ideal for high performance, iteratively-developed programs (especially games).
+- [Trivia](https://github.com/guicho271828/trivia) - Pattern Matcher Compatible with Optima.
+- [Nile](https://github.com/damelang/nile) - Programming Language for Declarative Stream Processing in Media Applications.

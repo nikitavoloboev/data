@@ -28,3 +28,4 @@
 - [Understanding Minecraft Performance (2011)](http://optifog.blogspot.com/2011/08/understanding-minecraft-performance.html)
 - [SniffCraft](https://github.com/adepierre/SniffCraft) - Simple C++ program to capture and display all traffic between a client and a server in minecraft.
 - [LiquidBounce](https://liquidbounce.net/) - Free Minecraft Forge Hacked Client. ([Code](https://github.com/CCBlueX/LiquidBounce))
+- [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL (shaders). ([Web](https://www.michaelfogleman.com/projects/craft/))

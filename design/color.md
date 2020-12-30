@@ -20,6 +20,7 @@
 - [The Weird World in RGB (2019)](https://www.youtube.com/watch?v=uYbdx4I7STg)
 - [Pywal](https://github.com/dylanaraps/pywal) - Tool that generates a color palette from the dominant colors in an image.
 - [HSLuv, a developer friendly perceptual color space (2020)](https://www.kuon.ch/post/2020-03-08-hsluv/)
+- [HSLuv](https://www.hsluv.org/) - Human-friendly HSL. ([Code](https://github.com/hsluv/hsluv))
 - [colors.lol](https://colors.lol/) - Overly descriptive color palettes. ([Code](https://github.com/adamfuhrer/colors.lol))
 - [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
 - [Building dark mode on Stack Overflow (2020)](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/) ([HN](https://news.ycombinator.com/item?id=22776651))

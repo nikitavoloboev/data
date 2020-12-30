@@ -406,6 +406,9 @@
 - [flatten-js](https://github.com/alexbol99/flatten-js) - JavaScript library for 2d geometry.
 - [is-retry-allowed](https://github.com/sindresorhus/is-retry-allowed) - Check whether a request can be retried based on the error.code.
 - [backfill](https://github.com/microsoft/backfill) - JavaScript caching library for reducing build time.
+- [S-Libs](https://github.com/simontonsoftware/s-libs) - Collection of libraries for any of JS, RxJS, or Angular.
+- [watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
+- [async-tag](https://github.com/WebReflection/async-tag) - Resolves template literals tag values before applying a generic tag.
 
 ## Links
 

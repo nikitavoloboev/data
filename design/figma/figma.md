@@ -47,3 +47,4 @@
 - [FigmaCourses](https://www.figmacourses.com/) - Learn everything on Figma.
 - [Figside](https://figside.com/) - Ship Websites with Figma. ([Tweet](https://twitter.com/shinework/status/1337048663365988356))
 - [FigmaExport](https://github.com/RedMadRobot/figma-export) - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
+- [Figma Assets Fetch](https://github.com/movch/figma-asset-fetch) - macOS command-line utility for template-based code generation from Figma assets.

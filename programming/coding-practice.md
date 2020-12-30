@@ -1,6 +1,6 @@
 # Coding practice
 
-## Pracice sites
+## Practice sites
 
 - [LeetCode](https://leetcode.com)
 - [Exercism](http://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))

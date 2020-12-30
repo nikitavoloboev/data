@@ -56,3 +56,5 @@
 - [Awesome Knowledge Graph Learning](https://github.com/BrambleXu/knowledge-graph-learning)
 - [REGAL: Representation Learning-based Graph Alignment (2018)](https://github.com/GemsLab/REGAL)
 - [Query2box](https://github.com/hyren/query2box) - Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings.
+- [Underlay](https://www.underlay.org/) - World’s distributed knowledge graph. ([Code](https://github.com/underlay/overview)) ([GitHub](https://github.com/underlay))
+- [Styx](https://github.com/underlay/styx) - Experimental graph store. Key/value store, where the keys are RDF IRI terms and the values are RDF datasets.

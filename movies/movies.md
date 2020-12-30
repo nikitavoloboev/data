@@ -30,3 +30,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Film at Lincoln Center](https://www.filmlinc.org/) - Dedicated to supporting the art and elevating the craft of cinema and enriching film culture.
 - [Recently watched movie you cannot stop thinking about (2020)](https://twitter.com/letterboxd/status/1334708381261565953)
 - [Mind-bending movies (2020)](https://www.reddit.com/r/MovieSuggestions/comments/kkdrj4/mindbending_movies_similar_to/)
+- [Film School Rejects](https://filmschoolrejects.com/) - Movies, TV, Culture.

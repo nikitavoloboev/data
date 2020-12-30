@@ -13,3 +13,4 @@
 - [KBLAS CUDA](https://github.com/ecrc/kblas-gpu) - Subset of BLAS routines optimized for NVIDIA GPUs.
 - [CudaSift](https://github.com/Celebrandil/CudaSift) - SIFT features with CUDA.
 - [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs.
+- [CUDA Library Samples](https://github.com/NVIDIA/CUDALibrarySamples)

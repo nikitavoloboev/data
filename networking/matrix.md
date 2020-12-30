@@ -53,3 +53,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [libQuotient](https://github.com/quotient-im/libQuotient/) - Qt5 library to write cross-platform clients for Matrix.
 - [Quaternion](https://github.com/quotient-im/Quaternion/) - Qt5-based IM client for Matrix.
 - [The Matrix Holiday Special 2020](https://matrix.org/blog/2020/12/25/the-matrix-holiday-special-2020) ([Lobsters](https://lobste.rs/s/sxt5zc/matrix_holiday_special_2020))
+- [Cerulean](https://github.com/matrix-org/cerulean) - Experimental Matrix client intended to demonstrate the viability of freestyle public threaded conversations a la Twitter.

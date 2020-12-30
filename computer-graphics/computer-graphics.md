@@ -122,3 +122,6 @@
 - [GLFW](https://www.glfw.org/) - Multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input. ([Code](https://github.com/glfw/glfw))
 - [Hallucinations re: the rendering of Cyberpunk 2077 (2020)](http://c0de517e.blogspot.com/2020/12/hallucinations-re-rendering-of.html) ([HN](https://news.ycombinator.com/item?id=25460220))
 - [Why are video games graphics challenging? Productionizing rendering algorithms (2020)](https://bartwronski.com/2020/12/27/why-are-video-games-graphics-still-a-challenge-productionizing-rendering-algorithms/) ([HN](https://news.ycombinator.com/item?id=25557431))
+- [Universal Scene Description (USD)](https://graphics.pixar.com/usd/docs/index.html) - Efficient, scalable system for authoring, reading, and streaming time-sampled scene description for interchange between graphics applications. ([Code](https://github.com/PixarAnimationStudios/USD))
+- [Pixar Graphics Technologies](http://graphics.pixar.com/) ([GitHub](https://github.com/PixarAnimationStudios))
+- [Introduction to Computer Graphics (2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh) ([Assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/assignments/)) ([Tweet](https://mobile.twitter.com/JustinMSolomon/status/1344023249496268803))

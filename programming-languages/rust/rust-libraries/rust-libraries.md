@@ -607,6 +607,11 @@
 - [arcode-rs](https://github.com/cgburgess/arcode-rs) - Arithmetic coder for Rust.
 - [heck](https://github.com/withoutboats/heck) - Case conversion library.
 - [kApp](https://github.com/kettle11/kapp) - Pure Rust window and input library for Windows, Mac, and Web.
+- [predicates-rs](https://github.com/assert-rs/predicates-rs) - Implementation of boolean-valued predicate functions in Rust.
+- [assert_cmd](https://github.com/assert-rs/assert_cmd) - Assert process::Command - Easy command initialization and assertions.
+- [toml-rs](https://github.com/alexcrichton/toml-rs) - TOML encoding/decoding library for Rust.
+- [Real-Time Ring Buffer](https://github.com/mgeier/rtrb) - Wait-free single-producer single-consumer ring buffer for Rust.
+- [daggy](https://github.com/mitchmindtree/daggy) - Directed acyclic graph data structure for Rust.
 
 ## Cargo Plugins
 

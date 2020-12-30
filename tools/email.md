@@ -121,3 +121,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [IMAP API](https://imapapi.com/) - Self hosted daemon to access IMAP and SMTP accounts via HTTP API. ([Code](https://github.com/andris9/imapapi)) ([HN](https://news.ycombinator.com/item?id=25372987))
 - [smtpd](https://github.com/mhale/smtpd) - SMTP server package written in Go, in the style of the built-in HTTP server.
 - [Email Validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp.
+- [Candymail](https://github.com/bdcorps/candymail) - Email Automation for Node.js. ([HN](https://news.ycombinator.com/item?id=25578834))

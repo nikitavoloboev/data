@@ -12,3 +12,5 @@
 - [lines](https://github.com/abey79/lines) - Plotter-friendly 3D engine.
 - [vsketch](https://github.com/abey79/vsketch) - Generative plotter art environment for Python.
 - [vpype-pixelart](https://github.com/abey79/vpype-pixelart) - Pixel art plotting in vpype.
+- [PenPlots.jl](https://github.com/paulgb/PenPlots.jl) - Simple Julia library for generating SVGs suitable for AxiDraw and similar pen plotters.
+- [Inktober 2020](https://github.com/andymasteroffish/inktober_2020) - Plotter drawings and source code by Andy Wallace for Inktober 2020.

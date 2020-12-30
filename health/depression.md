@@ -27,3 +27,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: Are you depressed? (2020)](https://news.ycombinator.com/item?id=25096877)
 - [Stephen Colbert and Anderson Cooper's beautiful conversation about grief (2019)](https://www.youtube.com/watch?v=YB46h1koicQ)
 - [Ask HN: Losing all interest in programming, what now? (2020)](https://news.ycombinator.com/item?id=25374140)
+- [Techniques for dealing with lack of motivation, malaise, depression (2017)](https://www.youtube.com/watch?v=i7kh8pNRWOo)

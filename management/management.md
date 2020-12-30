@@ -70,3 +70,4 @@
 - [Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
 - [30 tactical tips for managing up (2020)](https://firstround.com/review/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know/)
 - [Staying organized while executing agile sprints (2020)](https://www.kovach.me/Staying_organized_while_executing_agile_sprints.html)
+- [Recommended Engineering Management Books (2020)](https://caitiem.com/2020/12/28/recommended-engineering-management-books/) ([Tweet](https://twitter.com/caitie/status/1343692445536591873))

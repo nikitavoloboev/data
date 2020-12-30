@@ -202,3 +202,4 @@
 - [Semantic Segmentation in PyTorch](https://github.com/yassouali/pytorch_segmentation)
 - [torchlambda](https://github.com/szymonmaszke/torchlambda) - Lightweight tool to deploy PyTorch models to AWS Lambda.
 - [torchfunc](https://github.com/szymonmaszke/torchfunc) - PyTorch functions and utilities to make your life easier.
+- [PyTorch-Reparam-Module](https://github.com/SsnL/PyTorch-Reparam-Module) - Reparameterize your PyTorch modules.

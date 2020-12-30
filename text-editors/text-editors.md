@@ -34,6 +34,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Ox](https://github.com/curlpipe/ox) - Fast text editor that runs in your terminal. ([HN](https://news.ycombinator.com/item?id=24975988))
 - [Barliman](https://github.com/webyrd/Barliman) - Prototype "smart editor" that performs real-time program synthesis.
 - [Sapling](https://github.com/kneasle/sapling) - Highly experimental code editor where you edit code, not text.
+- [Code Browser](https://tibleiz.net/code-browser/) - Folding Text Editor. ([HN](https://news.ycombinator.com/item?id=25561688))
 
 ## Web
 
@@ -81,3 +82,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Auto Base16 Theme](https://github.com/makuto/auto-base16-theme) - Automatically generate a base16 color set for syntax highlighting based on the colors in an image.
 - [Monaco Languages](https://github.com/microsoft/monaco-languages) - Colorization and configuration supports for multiple languages for the Monaco Editor.
 - [Why an IDE? (2020)](https://matklad.github.io//2020/11/11/yde.html)
+- [SyntaxEnvy](https://www.syntaxenvy.com/0782664) - Procedurally generated syntax highlighting themes.

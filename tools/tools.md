@@ -1,6 +1,6 @@
 # Tools
 
-I love software and non software tools that help me in some way. Most tools I use & like are mentioned appropriately in other parts of the wiki.
+Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 
 ## Other
 

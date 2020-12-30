@@ -59,3 +59,5 @@
 - [OptixPathTracer](https://github.com/knightcrawler25/Optix-PathTracer) - Simple physically based path tracer based on Nvidia's Optix Ray Tracing Engine.
 - [RtRs](https://github.com/universome/rtrs) - Simple ray tracing & rasterization engine written in rust.
 - [Why Raytracing won't simplify AAA real-time rendering (2020)](http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html) ([HN](https://news.ycombinator.com/item?id=25557354))
+- [Psychopath](https://github.com/cessen/psychopath) - Slightly psychotic path tracer.
+- [Helios](https://github.com/diharaw/Helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.

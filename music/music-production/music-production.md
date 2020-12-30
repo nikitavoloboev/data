@@ -143,3 +143,4 @@
 - [MuseGAN](https://github.com/salu133445/musegan) - AI for Music Generation.
 - [MusPy](https://github.com/salu133445/muspy) - Toolkit for symbolic music generation.
 - [Free Piano Method](https://www.freepianomethod.com/)
+- [Ambient Music Generator](https://github.com/pachyderm/ambient-music-generation)

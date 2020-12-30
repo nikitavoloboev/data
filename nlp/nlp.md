@@ -210,3 +210,5 @@
 - [CrossWeigh: Training Named Entity Tagger from Imperfect Annotations (2019)](https://arxiv.org/abs/1909.01441) ([Code](https://github.com/ZihanWangKi/CrossWeigh))
 - [Does GPT-2 Know Your Phone Number? (2020)](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
 - [Towards Fully Automated Manga Translation (2020)](https://arxiv.org/abs/2012.14271)
+- [Text Classification Models](https://github.com/brightmart/text_classification) - All kinds of text classification models and more with deep learning.
+- [Awesome Text Summarization](https://github.com/mathsyouth/awesome-text-summarization)

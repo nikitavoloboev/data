@@ -102,6 +102,9 @@
 - [Understanding Combinators using Elm](https://discourse.elm-lang.org/t/understanding-combinators/6425)
 - [Objects in Functional Languages](https://journal.infinitenegativeutility.com/objects-in-functional-languages) ([Lobsters](https://lobste.rs/s/wa5vbs/objects_functional_languages)) ([HN](https://news.ycombinator.com/item?id=25258354))
 - [Functional Christmas](https://functional.christmas/)
+- [Lambda the Ultimate Pattern Factory](https://github.com/thma/LtuPatternFactory) - FP, Haskell, Typeclassopedia vs Software Design Patterns.
+- [Reconciling concepts from FP and OOP (2020)](https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html)
+- [Book of Monads](https://www.goodreads.com/book/show/42449863-the-book-of-monads) ([Code](https://github.com/JonathanLorimer/book-of-monads))
 
 ## Images
 

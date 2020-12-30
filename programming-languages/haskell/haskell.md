@@ -237,3 +237,4 @@
 - [Superpowered keyword args in Haskell (2020)](https://www.kovach.me/Superpowered_keyword_args_in_Haskell.html)
 - [Haskell doesn't have macros (2020)](https://chrisdone.com/posts/haskell-doesnt-have-macros/)
 - [Haskell Tips Twitter](https://twitter.com/HaskellTips) - Tips, tricks and hacks.
+- [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables.

@@ -55,7 +55,8 @@
 - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 - [Ricing Resources](https://rizonrice.github.io/resources)
 - [HN: Linux: IO without entering the kernel (2018)](https://news.ycombinator.com/item?id=18692376)
-- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+- [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ([Web](https://blkcipher.pl/the-practical-linux-hardening-guide/))
 - [libfuse](https://github.com/libfuse/libfuse) - Reference implementation of the Linux FUSE (Filesystem in Userspace) interface.
 - [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux. ([Web](https://www.darlinghq.org/)) ([HN](https://news.ycombinator.com/item?id=22700365)) ([HN 2](https://news.ycombinator.com/item?id=24683669))
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)

@@ -94,3 +94,5 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [At least one Vim trick you might not know (2019)](https://www.hillelwayne.com/post/intermediate-vim/) ([HN](https://news.ycombinator.com/item?id=20077580))
 - [A Vim Guide for Intermediate Users (2020)](https://thevaluable.dev/vim-intermediate/) ([Lobsters](https://lobste.rs/s/mr8ynv/vim_guide_for_intermediate_users))
 - [The ABCs of vim (2020)](https://www.kovach.me/The_ABCs_of_vim.html)
+- [Customizing Neovim LSP (nvim-lsp) (2020)](https://rishabhrd.github.io/jekyll/update/2020/09/19/nvim_lsp_config.html)
+- [popfix](https://github.com/RishabhRD/popfix) - Neovim lua API for highly extensible quickfix window.

@@ -75,3 +75,6 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Crossminds](https://crossminds.ai/) - Latest Tech Research Videos. ([Explore](https://crossminds.ai/explore/))
 - [Highly Cited Researchers (h>100)](http://www.webometrics.info/en/hlargerthan100)
 - [The structure and interpretation of scientific models (2020)](https://blog.khinsen.net/posts/2020/12/10/the-structure-and-interpretation-of-scientific-models/)
+- [PubPub](https://www.pubpub.org/) - Collaborative Community Publishing. ([Code](https://github.com/pubpub/pubpub))
+- [Collaborative scientific publishing (2017)](https://dspace.mit.edu/handle/1721.1/112531)
+- [MIT DSpace](https://dspace.mit.edu/) - Digital repository for MIT's research, including peer-reviewed articles, technical reports, working papers, theses, and more.

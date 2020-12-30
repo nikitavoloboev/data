@@ -63,6 +63,7 @@
 - [The Slowest Quicksort (2019)](https://chasewilson.dev/blog/slowest-quicksort/)
 - [Functional Algorithm Design (2020)](https://blog.sigplan.org/2020/11/17/functional-algorithm-design-part-0/)
 - [Algorithms To Live By - Book Notes](https://milofultz.com/2020/12/27/atlb-notes)
+- [Numerical Algorithms (2015)](http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
 
 ## Images
 

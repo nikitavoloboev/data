@@ -26,3 +26,4 @@
 - [PySAT](https://github.com/pysathq/pysat) - Toolkit for SAT-based prototyping in Python. ([Docs](https://pysathq.github.io/))
 - [ipasir.h](https://github.com/biotomas/ipasir) - Standard Interface for Incremental Satisfiability Solving.
 - [microsat](https://github.com/marijnheule/microsat)
+- [Saturday](https://github.com/cespare/saturday) - Small SAT solver in Go.

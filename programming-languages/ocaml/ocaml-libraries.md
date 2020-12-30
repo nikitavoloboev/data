@@ -63,6 +63,7 @@
 - [Metrics](https://github.com/mirage/metrics) - Infrastructure to collect metrics from OCaml applications.
 - [ocaml-mustache](https://github.com/rgrinberg/ocaml-mustache) - Mustache.js logic-less templates in OCaml.
 - [ppx_optcomp](https://github.com/janestreet/ppx_optcomp) - Optional compilation for OCaml.
+- [Session-ocaml](https://github.com/keigoi/session-ocaml) - Implementation of binary session types in OCaml.
 
 ## Links
 

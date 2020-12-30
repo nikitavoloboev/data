@@ -36,3 +36,4 @@
 - [Beyond Weird: Decoherence, Quantum Weirdness, and Schrödinger's Cat (2020)](https://www.theatlantic.com/science/archive/2018/10/beyond-weird-decoherence-quantum-weirdness-schrodingers-cat/573448/)
 - [A Stochastic Derivation of Classical and Quantum Mechanics (2020)](https://arxiv.org/abs/2011.09181)
 - [Quantum nanodiamonds may help detect disease earlier (2020)](https://phys.org/news/2020-11-quantum-nanodiamonds-disease-earlier.html) ([HN](https://news.ycombinator.com/item?id=25216529))
+- [How do we know there is any distinction between particles and waves? (2020)](https://www.reddit.com/r/quantum/comments/kmwjid/how_do_we_know_there_is_any_distinction_between/)

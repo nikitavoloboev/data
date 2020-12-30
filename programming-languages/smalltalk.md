@@ -28,3 +28,4 @@
 - [Squeak/Smalltalk Website code](https://github.com/squeak-smalltalk/squeak.org)
 - [Domains](https://github.com/len/Domains) - Computational algebra system in Smalltalk.
 - [The Smalltalk Zoo (2020)](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/) ([HN](https://news.ycombinator.com/item?id=25461760))
+- [SOM (Simple Object Machine)](https://github.com/rochus-keller/Som) - Smalltalk dialect which is file-based and independent of the Bluebook bytecode and interpreter.

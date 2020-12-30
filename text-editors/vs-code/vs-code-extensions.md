@@ -365,3 +365,4 @@ Below is a list of extensions I use.
 - [Hot Reload for VS Code Extension Development (2029)](https://blog.hediet.de/post/hot_reload_for_vs_code_extension_development)
 - [VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)
 - [VSCodeVim Tips (2020)](https://bypaulshen.com/posts/vscode-vim-tips/)
+- [How to Code a VSCode Extension (2020)](https://www.youtube.com/watch?v=a5DX5pQ9p5M)

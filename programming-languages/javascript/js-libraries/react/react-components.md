@@ -140,6 +140,8 @@
 - [React Lite YouTube Embed](https://github.com/kylemocode/react-lite-yt-embed)
 - [Lioness](https://github.com/alexanderwallin/lioness) - React library for efficiently implementing Gettext localization.
 - [React Command Palette](https://github.com/asabaylus/react-command-palette) - Accessible browser compatible javascript command palette.
+- [React Leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
+- [React ApexCharts](https://github.com/apexcharts/react-apexcharts) - React.js wrapper for ApexCharts to build interactive visualizations in react.
 
 ## Links
 

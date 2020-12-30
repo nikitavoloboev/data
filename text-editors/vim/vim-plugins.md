@@ -56,6 +56,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors project for vim/neovim.
 - [move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down.
 - [Coc](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode.
+- [nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way.
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing.
 - [NCM2](https://github.com/ncm2/ncm2) - Slim, Fast and Hackable Completion Framework for Neovim.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
@@ -114,6 +115,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion plugin for nvim.
 - [fzf-preview.vim](https://github.comfzf-preview.vim/yuki-ycino/fzf-preview.vim) - coc extensions and Neovim plugin that provides collection of features to assist file management using fzf.
 - [vimspector](https://github.com/puremourning/vimspector) - Multi language graphical debugger for Vim.
+- [nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
 
 ## Looks
 

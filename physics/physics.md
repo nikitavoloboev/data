@@ -158,3 +158,6 @@
 - [I’m a pure mathematician who knows no physics. What should I read?](https://twitter.com/algeom/status/1335642248797536256)
 - [2020 Nobel Lectures in Physics](https://www.youtube.com/watch?v=DWF1uNb9Q1Q)
 - [Crystallography](https://www.xtal.iqfr.csic.es/Cristalografia/index-en.html)
+- [Peter Woit's Research](https://www.math.columbia.edu/~woit/)
+- [Why The Speed Of Light Can't Be Measured (2020)](https://www.youtube.com/watch?v=pTn6Ewhb27k)
+- [One-way speed of light](https://en.wikipedia.org/wiki/One-way_speed_of_light)

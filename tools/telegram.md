@@ -31,6 +31,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 - [TgDev](https://tgdev.io/) - Telegram bots development.
 - [Funda new house alerts on Telegram](https://github.com/dstotijn/funda-alert)
+- [tghbot](https://github.com/tdakkota/tghbot) - Simple Github events notification bot written using gotd.
 
 ## Links
 
@@ -62,4 +63,5 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Building a Telegram Bot with Azure Functions and Node.js (2020)](https://akhromieiev.com/tutorials/telegram-bot-azure-functions-and-node-js/)
 - [TL (Type Language)](https://github.com/ernado/tl) - Parser for telegram's mtproto.
 - [td](https://github.com/ernado/td) - MTProto encoder/decoder.
+- [td](https://github.com/gotd/td) - Telegram client in go.
 - [TGStore](https://github.com/golang-design/tgstore) - Encrypted object storage system with unlimited space backed by Telegram.

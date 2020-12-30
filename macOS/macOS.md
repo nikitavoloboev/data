@@ -124,3 +124,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Some Differences between macOS and Common Unix Systems (2020)](https://www.dyx.name/posts/macunix.html)
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/) ([HN](https://news.ycombinator.com/item?id=25566642))
 - [macOS app in plain C](https://github.com/jimon/osx_app_in_plain_c)
+- [Reverse-Engineering Apple Dictionary (2020)](https://fmentzer.github.io/posts/2020/dictionary/)

@@ -14,3 +14,4 @@
 - [PRPL Pattern (2020)](https://addyosmani.com/blog/prpl-pattern/) - Pattern for structuring and serving web applications and Progressive Web Apps (PWAs) with an emphasis on improved app delivery and launch performance.
 - [Zero-config PWA for Vite](https://github.com/antfu/vite-plugin-pwa)
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web. ([Web](https://capacitorjs.com/))
+- [a2hs.js](https://github.com/koddr/a2hs.js) - Add progressive web application (PWA) to Home Screen on iOS.

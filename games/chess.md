@@ -53,3 +53,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Lichess.org API](https://lichess.org/api) ([Code](https://github.com/lichess-org/api))
 - [Lichess Opening Explorer](https://lichess.org/analysis#explorer) - Opening explorer for lichess.org that can handle all the variants and billions of unique positions. ([Code](https://github.com/niklasf/lila-openingexplorer))
 - [Chessground](https://github.com/ornicar/chessground) - Mobile/Web chess UI for lichess.org.
+- [Climbing the Rating Ladder](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV) ([Reddit](https://www.reddit.com/r/chess/comments/kmos5d/climbing_the_rating_ladder_where_are_they_now/))

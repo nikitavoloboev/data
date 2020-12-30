@@ -104,3 +104,4 @@
 - [Getting started with Lisp in 2019](https://smalldata.tech/blog/2019/08/16/getting-started-with-lisp-in-2019) ([HN](https://news.ycombinator.com/item?id=25493495))
 - [Lisp Hackers](https://leanpub.com/lisphackers/read) - Interviews with 100x More Productive Programmers.
 - [Wisp](https://github.com/adam-mcdaniel/wisp) - Light lisp written in C++. ([HN](https://news.ycombinator.com/item?id=25559291))
+- [Maru](https://github.com/attila-lendvai/maru) - Tiny self-hosting lisp dialect. ([Web](https://www.piumarta.com/software/maru/))
