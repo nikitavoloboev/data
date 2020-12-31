@@ -12,3 +12,4 @@
 - [Performance benchmarks for various message queues](https://github.com/tylertreat/mq-benchmarking)
 - [Everything You Need To Know About Message Queues (2020)](https://sunilkumarc.in/everything-you-need-to-know-about-message-queues)
 - [How do I design a system to process messages sequentially (2020)](https://lobste.rs/s/w1bk6l/how_do_i_design_system_process_messages)
+- [The Big Little Guide to Message Queues (2020)](https://sudhir.io/the-big-little-guide-to-message-queues/)

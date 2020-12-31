@@ -91,3 +91,4 @@
 - [PostHTML](https://github.com/posthtml/posthtml-expressions) - Use variables, JS-like expressions, and even markup-powered logic in your HTML. ([Web](https://posthtml.org/#/))
 - [Hotwire](https://hotwire.dev/) - Alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. ([Tweet](https://twitter.com/dhh/status/1341420143239450624)) ([HN](https://news.ycombinator.com/item?id=25507942)) ([Lobsters](https://lobste.rs/s/nyxq4o/hotwire_html_over_wire))
 - [entities](https://github.com/fb55/entities) - Encode & decode HTML & XML entities with ease & speed.
+- [HTML5 still doesn't replicate what mattered about Flash (2020)](https://twitter.com/larsiusprime/status/1344404336252768257) ([HN](https://news.ycombinator.com/item?id=25587765))

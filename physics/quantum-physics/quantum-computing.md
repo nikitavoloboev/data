@@ -60,3 +60,4 @@
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - Library for hybrid quantum-classical machine learning.
 - [Braket Tutorials GitHub](https://github.com/aws/amazon-braket-examples) - Example notebooks that show how to apply quantum computing in Amazon Braket.
 - [Two pictures of quantum computation (2020)](https://ahelwer.ca/post/2020-12-06-sum-over-paths/)
+- [Learn Quantum Computation](https://qiskit.org/textbook/preface.html) ([HN](https://news.ycombinator.com/item?id=25586565))

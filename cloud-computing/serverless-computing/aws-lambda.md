@@ -49,3 +49,4 @@
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - AWS CDK Construct to build Node.js AWS lambdas using esbuild.
 - [aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - Collection of sample tools to enable canary deployments of AWS Lambda functions.
 - [Mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda & API Gateway support for ASGI.
+- [AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way) ([HN](https://news.ycombinator.com/item?id=25588898))

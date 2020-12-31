@@ -212,3 +212,4 @@
 - [Towards Fully Automated Manga Translation (2020)](https://arxiv.org/abs/2012.14271)
 - [Text Classification Models](https://github.com/brightmart/text_classification) - All kinds of text classification models and more with deep learning.
 - [Awesome Text Summarization](https://github.com/mathsyouth/awesome-text-summarization)
+- [Shortformer: Better Language Modeling using Shorter Inputs (2020)](https://ofir.io/shortformer.pdf) ([HN](https://news.ycombinator.com/item?id=25588675))

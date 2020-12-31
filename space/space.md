@@ -67,3 +67,4 @@
 - [NASA Asteroid Sample Return Mission](https://www.asteroidmission.org/)
 - [Big Trouble in a Deep Void (2020)](https://tritonstation.com/2020/10/23/big-trouble-in-a-deep-void/) ([HN](https://news.ycombinator.com/item?id=24877075))
 - [AstroWright](https://sites.psu.edu/astrowright/) - Astronomy and meta-Astronomy by Jason Wright.
+- [How to survive in spacecraft (2020)](https://media.ccc.de/v/rc3-158638-how_to_survive_in_spacecraft) ([HN](https://news.ycombinator.com/item?id=25590724))

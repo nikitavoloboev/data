@@ -95,3 +95,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Вычислительная фотография 2.0 (2020)](https://jejeya.pictures/future_of_photography)
 - [George Jejeya Photography Blog](https://jejeya.pictures/blog)
 - [darktable](https://www.darktable.org/) - Open source photography workflow application and raw developer. ([Code](https://github.com/darktable-org/darktable))
+- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self-Hosted Google Photos Alternative. ([HN](https://news.ycombinator.com/item?id=25588712))

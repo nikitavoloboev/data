@@ -18,3 +18,4 @@
 - [nimtemplate](https://github.com/treeform/nimtemplate) - Nim template to jump start your Nim library or project.
 - [Nim Apocrypha](https://blog.johnnovak.net/2020/12/21/nim-apocrypha-vol1/) - Collection of Nim tips.
 - [NodeJS Standard Library for Nim](https://github.com/juancarlospaco/nodejs)
+- [Nim in 2020: A Short Recap](https://nim-lang.org/blog/2020/12/28/nim-in-2020-a-short-recap.html) ([HN](https://news.ycombinator.com/item?id=25590962))

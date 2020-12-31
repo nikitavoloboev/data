@@ -161,3 +161,4 @@
 - [Peter Woit's Research](https://www.math.columbia.edu/~woit/)
 - [Why The Speed Of Light Can't Be Measured (2020)](https://www.youtube.com/watch?v=pTn6Ewhb27k)
 - [One-way speed of light](https://en.wikipedia.org/wiki/One-way_speed_of_light)
+- [Well, Actually – Physics Answers](http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html) ([HN](https://news.ycombinator.com/item?id=25588888))
