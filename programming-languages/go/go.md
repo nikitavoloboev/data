@@ -401,3 +401,4 @@ Go promotes composition over inheritance.
 - [go-gin-starter](https://github.com/udaya2899/go-gin-starter) - Opinionated Go starter with gin for REST API, logrus for logging, viper for config with added graceful shutdown. ([Reddit](https://www.reddit.com/r/golang/comments/ke5xuw/made_a_gin_starter_for_go/))
 - [Gval](https://github.com/PaesslerAG/gval) - Provides support for evaluating arbitrary expressions, in particular Go-like expressions.
 - [Athens](https://github.com/gomods/athens) - Go module datastore and proxy.
+- [Unsafe string interning in Go (2020)](https://mdlayher.com/blog/unsafe-string-interning-in-go/)
