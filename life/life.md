@@ -35,3 +35,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Tibor Gánti's ideas about the origins of life (2020)](https://www.nationalgeographic.com/science/2020/12/he-may-have-found-the-key-to-origins-of-life-tibor-ganti-chemoton/) ([HN](https://news.ycombinator.com/item?id=25508394))
 - [Tips for a Better Life (2020)](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) ([HN](https://news.ycombinator.com/item?id=25518730))
 - [What If You Could Do It All Over? (2020)](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over) ([HN](https://news.ycombinator.com/item?id=25547448))
+- [What Is Life? (2019)](https://berthub.eu/articles/posts/what-is-life/) ([HN](https://news.ycombinator.com/item?id=25592916))

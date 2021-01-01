@@ -29,3 +29,4 @@
 - [BinExport](https://github.com/google/binexport) - Export disassemblies into Protocol Buffers.
 - [Protobuf to JSON-Schema compiler](https://github.com/chrusty/protoc-gen-jsonschema)
 - [NoProto](https://github.com/only-cliches/NoProto) - Performance of Protocol Buffers with flexibility of JSON.
+- [Don't Use Protobuf for Telemetry (2020)](https://richardstartin.github.io/posts/dont-use-protobuf-for-telemetry) ([HN](https://news.ycombinator.com/item?id=25582962))

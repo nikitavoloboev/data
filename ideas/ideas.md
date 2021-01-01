@@ -75,3 +75,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: How do you work through large ideas? (2020)](https://news.ycombinator.com/item?id=25217436)
 - [IdeasAI](https://ideasai.net/) - GPT-3-powered business idea generator.
 - [More challenging projects every programmer should try (2020)](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html) ([HN](https://news.ycombinator.com/item?id=25489879))
+- [Ask HN: What's a side project you built to make money that hasn't? (2021)](https://news.ycombinator.com/item?id=25580637)

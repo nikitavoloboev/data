@@ -55,3 +55,4 @@
 - [List of worst UX (2020)](https://twitter.com/iamdevloper/status/1337538974789865473)
 - [UX Christmas](https://ux.christmas/)
 - [Types of Dark Pattern](https://darkpatterns.org/types-of-dark-pattern.html)
+- [Why Jira Sucks](https://whyjirasucks.com/) ([HN](https://news.ycombinator.com/item?id=25590846))

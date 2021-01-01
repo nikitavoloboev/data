@@ -226,3 +226,4 @@
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Mathematics and Computation (2018)](https://www.math.ias.edu/files/mathandcomp.pdf#page=1)
 - [Graph Toy](http://memorystomp.com/graphtoy/) - Interactive graph visualizer using mathematical functions. ([HN](https://news.ycombinator.com/item?id=25574661))
+- [The Map of Mathematics](https://mathmap.quantamagazine.org/)

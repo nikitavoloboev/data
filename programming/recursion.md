@@ -16,3 +16,4 @@
 - [Thinking About Recursion](https://www.solipsys.co.uk/new/ThinkingAboutRecursion.html?tj10hn) ([HN](https://news.ycombinator.com/item?id=24737724))
 - [Recursion Revisited](https://www.solipsys.co.uk/new/RecursionRevisited.html)
 - [Grokking recursion (2020)](https://0xd34df00d.me/posts/2020/09/agda-wf-rec.html)
+- [Spirals, Snowflakes and Trees: Recursion in Pictures](http://learn.hfm.io/fractals.html) ([HN](https://news.ycombinator.com/item?id=25583631))
