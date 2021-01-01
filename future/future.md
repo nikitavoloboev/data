@@ -53,3 +53,4 @@
 - [Ask HN: What underestimated technologies will dominate within 5 years? (2020)](https://news.ycombinator.com/item?id=25096973)
 - [Ask HN: What startup/technology is on your 'to watch' list? (2020)](https://news.ycombinator.com/item?id=25540583)
 - [Ask HN: What are you surprised isn’t being worked on more? (2020)](https://news.ycombinator.com/item?id=25559571)
+- [Ask HN: Predictions for 2021?](https://news.ycombinator.com/item?id=25594068)

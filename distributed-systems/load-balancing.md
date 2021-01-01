@@ -26,3 +26,4 @@
 - [One Year of Load Balancing (2020)](https://www.algolia.com/blog/one-year-load-balancing/) ([HN](https://news.ycombinator.com/item?id=25289751))
 - [Katran](https://github.com/facebookincubator/katran) - High performance layer 4 load balancer.
 - [Traefik Ondemand Plugin](https://github.com/acouvreur/traefik-ondemand-plugin) - Traefik plugin to scale containers on demand.
+- [Deterministic Aperture: A distributed, load balancing algorithm (2019)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html) ([HN](https://news.ycombinator.com/item?id=25596645))

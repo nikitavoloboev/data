@@ -378,3 +378,4 @@
 - [Invariant Risk Minimization (2019)](https://arxiv.org/abs/1907.02893v1) ([Code](https://github.com/facebookresearch/InvariantRiskMinimization))
 - [Awesome Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
 - [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) ([HN](https://news.ycombinator.com/item?id=25593262))

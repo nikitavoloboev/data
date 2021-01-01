@@ -121,3 +121,4 @@
 - [WebAssembly as Meta-Language (2020)](https://docs.google.com/document/d/14T8RPgQKztURiHmzyP_Ju2S9nrIZWDaAb8eSx3NiiYw/mobilebasic)
 - [Yo WASM – The Easy Way to WebAssembly (2020)](https://deislabs.io/posts/introducing-yo-wasm/)
 - [as-wasi](https://github.com/jedisct1/as-wasi) - High-level AssemblyScript layer for the WebAssembly System Interface (WASI).
+- [WebAssembly Studio](https://webassembly.studio/) ([HN](https://news.ycombinator.com/item?id=25592481))
