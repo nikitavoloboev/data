@@ -108,6 +108,7 @@
 - [tinynet](https://github.com/pojntfx/tinynet) - `net` implementation for Go and TinyGo based on unisockets, targeting both WebAssembly and native platforms.
 - [go-app](https://github.com/maxence-charriere/go-app) - Package to build progressive web apps with Go programming language and WebAssembly. ([Docs](https://go-app.dev/))
 - [Revel](https://github.com/revel/revel) - High productivity, full-stack web framework for the Go language.
+- [Live](https://github.com/jfyne/live) - net/http compatible Phoenix LiveView implementation in Go.
 
 ## GraphQL
 

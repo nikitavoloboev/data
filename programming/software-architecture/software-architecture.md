@@ -112,3 +112,4 @@
 - [Scaling Cache Infrastructure at Pinterest (2020)](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
 - [Clean architecture: Domain-driven design (2020)](https://ddimitrov.dev/2020/12/13/domain-driven-design-and-clean-architecture/)
 - [BrainBoard](https://www.brainboard.co/) - Design, Deploy and Depict powerful architectures.
+- [Uber’s Real-Time Push Platform (2020)](https://eng.uber.com/real-time-push-platform/) ([HN](https://news.ycombinator.com/item?id=25592127))

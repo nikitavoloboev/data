@@ -50,3 +50,4 @@
 - [Learn Sorbet in Y minutes (2020)](https://jdkaplan.dev/blog/learn-sorbet-in-y-minutes/)
 - [Polished Ruby Programming book](https://github.com/PacktPublishing/Polished-Ruby-Programming)
 - [Ruby 3.0.0 RC1 Released (2020)](https://www.ruby-lang.org/en/news/2020/12/20/ruby-3-0-0-rc1-released/) ([HN](https://news.ycombinator.com/item?id=25494789))
+- [Ruby 3.0 and the new FiberScheduler interface (2020)](http://www.wjwh.eu/posts/2020-12-28-ruby-fiber-scheduler-c-extension.html) ([HN](https://news.ycombinator.com/item?id=25560894))

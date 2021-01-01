@@ -14,3 +14,4 @@
 - [Hidden Markov models in PyMC3](https://github.com/AmpersandTV/pymc3-hmm)
 - [Wayeb](https://github.com/ElAlev/Wayeb) - Complex Event Processing and Forecasting (CEP/F) engine written in Scala.
 - [Mici](https://github.com/matt-graham/mici) - Manifold Markov chain Monte Carlo methods in Python.
+- [Efficient Search with Markov Chains (2020)](https://www.daniellowengrub.com/blog/2020/04/16/efficient-search)

@@ -246,7 +246,7 @@
 - [Gardener](https://github.com/gardener/gardener) - Deliver fully-managed clusters at scale everywhere with your own Kubernetes-as-a-Service. ([Web](https://gardener.cloud/))
 - [kraan](https://github.com/fidelity/kraan) - Building platforms on top of K8s. Helps you deploy and manage 'layers' on top of kubernetes.
 - [Certified Kubernetes Security Specialist resources](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
-- [Managing my personnal servers in 2020 with K3s](https://github.com/erebe/personal-server) ([HN](https://news.ycombinator.com/item?id=25001789))
+- [Managing my personnal servers in 2020 with K3s](https://github.com/erebe/personal-server) ([HN](https://news.ycombinator.com/item?id=25001789)) ([Lobsters](https://lobste.rs/s/zopjay/managing_my_personal_server_2020))
 - [stern](https://github.com/stern/stern) - Multi pod and container log tailing for Kubernetes.
 - [Kubectl Code](https://github.com/kubernetes/kubectl)
 - [Sourcegraph on Kubernetes](https://github.com/sourcegraph/deploy-sourcegraph) - Deploy Sourcegraph to a Kubernetes cluster for large-scale code search and intelligence.
