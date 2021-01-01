@@ -32,3 +32,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Speedify](https://speedify.com/) - Fast, Secure, Reliable VPN for Individuals, Families & Teams.
 - [FreePN](https://www.freepn.org/) - Open-source peer-to-peer VPN service. ([Code](https://github.com/freepn/fpnd)) ([HN](https://news.ycombinator.com/item?id=24796999))
 - [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29/) ([HN](https://news.ycombinator.com/item?id=24867295))
+- [Zetamesh](https://github.com/zetamesh/zetamesh) - P2P VPN: Build a security layer-three local area network on the WAN.
