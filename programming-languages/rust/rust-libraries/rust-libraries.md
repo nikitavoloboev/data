@@ -612,6 +612,7 @@
 - [toml-rs](https://github.com/alexcrichton/toml-rs) - TOML encoding/decoding library for Rust.
 - [Real-Time Ring Buffer](https://github.com/mgeier/rtrb) - Wait-free single-producer single-consumer ring buffer for Rust.
 - [daggy](https://github.com/mitchmindtree/daggy) - Directed acyclic graph data structure for Rust.
+- [LibHoare](https://github.com/nrc/libhoare) - Design by contract style assertions for Rust.
 
 ## Cargo Plugins
 

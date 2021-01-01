@@ -68,3 +68,4 @@
 - [Rust ReScript Demo](https://github.com/shakacode/rust-rescript-demo)
 - [bsconfig.json](https://github.com/idkjs/bsconfig.json) - Quickly create an opinionated bsconfig.json.
 - [Rescript Editor Support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.
+- [Reason on multicore OCaml](https://github.com/ManasJayanth/reason-on-multicore)

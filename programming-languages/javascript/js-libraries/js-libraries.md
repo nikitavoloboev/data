@@ -36,6 +36,7 @@
 - [Fre](https://github.com/yisar/fre) - Tiny Coroutine framework with Fiber.
 - [Glimmer](https://glimmerjs.com/) - Fast and light-weight UI components for the web. ([Code](https://github.com/glimmerjs/glimmer.js))
 - [Glimmer VM](https://github.com/glimmerjs/glimmer-vm) - Flexible, low-level rendering pipeline for building a "live" DOM from Handlebars templates that can subsequently be updated cheaply when data changes.
+- [frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications.
 
 ## Animation
 

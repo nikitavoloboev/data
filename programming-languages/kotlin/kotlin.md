@@ -21,3 +21,5 @@
 - [JetBrains Compose](https://www.jetbrains.com/lp/compose/) - Fast reactive desktop UIs for Kotlin, based on Google's modern toolkit and brought to you by JetBrains. ([Code](https://github.com/jetbrains/compose-jb)) ([HN](https://news.ycombinator.com/item?id=24997226))
 - [Paving the way for Software 2.0 with Kotlin (2020)](https://ai.facebook.com/blog/paving-the-way-for-software-20-with-kotlin/)
 - [DiKTat](https://github.com/cqfn/diKTat) - Strict coding standard for Kotlin and a custom set of rules for detecting code smells, code style issues and bugs. ([Web](https://www.cqfn.org/diKTat/))
+- [Compose browser demos](https://github.com/ShikaSD/compose-browser-demo)
+- [Jetpack Compose Demo Web Demos](https://github.com/JetBrains/compose-for-web-demos)
