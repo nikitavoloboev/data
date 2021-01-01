@@ -144,3 +144,4 @@
 - [MusPy](https://github.com/salu133445/muspy) - Toolkit for symbolic music generation.
 - [Free Piano Method](https://www.freepianomethod.com/)
 - [Ambient Music Generator](https://github.com/pachyderm/ambient-music-generation)
+- [The Design of the Roland Juno Syntheziser's Oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/) ([HN](https://news.ycombinator.com/item?id=25598656))

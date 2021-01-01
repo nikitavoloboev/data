@@ -92,3 +92,4 @@
 - [Brave Core](https://github.com/brave/brave-core) - Set of changes, APIs, and scripts used for customizing Chromium to make Brave.
 - [SVG Screenshots](https://github.com/felixfbecker/svg-screenshots) - Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.
 - [uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results.
+- [TabFS](https://omar.website/tabfs/) - Mount your Browser Tabs as a Filesystem. ([HN](https://news.ycombinator.com/item?id=25600338))

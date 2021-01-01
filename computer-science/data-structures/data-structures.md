@@ -56,3 +56,4 @@
 - [Using Bloom filters to efficiently synchronize hash graphs (2020)](https://martin.kleppmann.com/2020/12/02/bloom-filter-hash-graph-sync.html)
 - [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/) ([HN](https://news.ycombinator.com/item?id=25342922))
 - [3 Steps to Designing Better Data Structures (2020)](https://mochromatic.com/3-steps-to-designing-better-data-structures-in-elixir/)
+- [Sparse Matrices (2019)](https://matteding.github.io/2019/04/25/sparse-matrices/) ([HN](https://news.ycombinator.com/item?id=25601288))

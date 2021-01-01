@@ -202,3 +202,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442))
 - [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.
 - [Resources for Writers](https://substack.com/resources)
+- [How to write good prompts: using spaced repetition to create understanding (2020)](https://andymatuschak.org/prompts/) ([HN](https://news.ycombinator.com/item?id=25600108))

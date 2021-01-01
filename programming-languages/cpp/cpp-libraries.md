@@ -155,6 +155,7 @@
 - [Blitz++](https://github.com/blitzpp/blitz) - Multi-Dimensional Array Library for C++.
 - [ATen](https://github.com/zdevito/ATen) - TENsor library for C++11.
 - [AsyncFuture](https://github.com/benlau/asyncfuture) - Use QFuture like a Promise object.
+- [concurrencpp](https://github.com/David-Haim/concurrencpp) - C++ concurrency library.
 
 ## Links
 
