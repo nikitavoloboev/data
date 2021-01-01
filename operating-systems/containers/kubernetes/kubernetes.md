@@ -300,3 +300,4 @@
 - [Kubernetes is a container orchestration system, but that's not the point (2020)](https://nikhiljha.com/posts/kubernetes-intro/) ([Lobsters](https://lobste.rs/s/xdcrsa/kubernetes_is_container_orchestration))
 - [helm-docs](https://github.com/norwoodj/helm-docs) - Tool for automatically generating markdown documentation for helm charts.
 - [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes. ([Web](https://kubecost.com/))
+- [Kubernetes Pondering (2020)](https://christine.website/blog/k8s-pondering-2020-12-31) ([Lobsters](https://lobste.rs/s/avqtvh/kubernetes_pondering))

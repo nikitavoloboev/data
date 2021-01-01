@@ -18,3 +18,4 @@
 - [MoreOnionsPorfavor: Onionize your website and take back the internet (2020)](https://blog.torproject.org/more-onions-porfavor) ([HN](https://news.ycombinator.com/item?id=23775704))
 - [Snowflake Proxy on Mobile (2020)](https://blog.torproject.org/gsoc-2020-snowflake-proxy-mobile)
 - [OnionSearch](https://github.com/megadose/OnionSearch) - Script that scrapes urls on different .onion search engines.
+- [tor-controller](https://github.com/kragniz/tor-controller) - Run Tor onion services on Kubernetes.
