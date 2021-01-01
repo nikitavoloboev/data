@@ -116,3 +116,4 @@
 - [Why is the Google Cloud UI so slow? (2020)](https://www.debugbear.com/blog/slow-google-cloud-ui) ([HN](https://news.ycombinator.com/item?id=25357409))
 - [Measuring page performance with Puppeteer & Playwright](https://theheadless.dev/posts/basics-performance/)
 - [Third-Party Web](https://www.thirdpartyweb.today/) - Data on third party entities and their impact on the web. ([Code](https://github.com/patrickhulce/third-party-web))
+- [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)

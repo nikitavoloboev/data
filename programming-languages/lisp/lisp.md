@@ -105,3 +105,4 @@
 - [Lisp Hackers](https://leanpub.com/lisphackers/read) - Interviews with 100x More Productive Programmers.
 - [Wisp](https://github.com/adam-mcdaniel/wisp) - Light lisp written in C++. ([HN](https://news.ycombinator.com/item?id=25559291))
 - [Maru](https://github.com/attila-lendvai/maru) - Tiny self-hosting lisp dialect. ([Web](https://www.piumarta.com/software/maru/))
+- [ToriLisp – an ersatz Lisp for tiny birds (2020)](http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/)

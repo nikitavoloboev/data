@@ -67,3 +67,5 @@
 - [Fantasticon](https://github.com/tancredi/fantasticon) - Easy-to-use, pre-configured cli tool to generate web-font icon kits from .svg files.
 - [BoxIcons](https://boxicons.com/) - High Quality web friendly icons. ([Code](https://github.com/atisawd/boxicons))
 - [Lucide](https://lucide.netlify.app/) - Community-run fork of Feather Icons, open for anyone to contribute icons. ([Code](https://github.com/lucide-icons/lucide))
+- [Line Awesome](https://icons8.com/line-awesome) - Replace Font Awesome with modern line icons. ([Code](https://github.com/icons8/line-awesome))
+- [Icons8](https://icons8.com/) - Download design elements for free.

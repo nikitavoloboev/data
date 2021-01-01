@@ -41,7 +41,7 @@
 - [Brancher](https://github.com/AI-DI/Brancher) - User-centered Python package for differentiable probabilistic inference.
 - [Karate Club](https://github.com/benedekrozemberczki/karateclub) - General purpose community detection and network embedding library for research built on NetworkX.
 - [FlexFlow](https://github.com/flexflow/FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
-- [DeltaPy⁠⁠](https://github.com/firmai/deltapy) - Tabular Data Augmentation & Feature Engineering.
+- [DeltaPy](https://github.com/firmai/deltapy) - Tabular Data Augmentation & Feature Engineering.
 - [TensorStore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 - [FATE](https://github.com/FederatedAI/FATE) - Industrial Level Federated Learning Framework.
 - [Deepkit](https://github.com/deepkit/deepkit) - Collaborative and real-time machine learning training suite: Experiment execution, tracking, and debugging.
@@ -99,3 +99,4 @@
 - [Causal Discovery Toolbox](https://github.com/FenTechSolutions/CausalDiscoveryToolbox) - Algorithms for graph structure recovery (including algorithms from the bnlearn, pcalg packages), mainly based out of observational data.
 - [FedML](https://github.com/FedML-AI/FedML) - Research Library and Benchmark for Federated Machine Learning.
 - [Auto_TS](https://github.com/AutoViML/Auto_TS) - Automatically build multiple Time Series models using a Single Line of Code.
+- [AutoGL (Auto Graph Learning)](https://github.com/THUMNLab/AutoGL) - AutoML framework & toolkit for machine learning on graphs.
