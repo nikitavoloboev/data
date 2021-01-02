@@ -12,3 +12,4 @@
 - [Processing Boilerplate for Generative Artists](https://github.com/sighack/processing-boilerplate)
 - [Fifteen Ways to Draw a Line](https://sighack.com/post/fifteen-ways-to-draw-a-line) ([Code](https://github.com/sighack/fifteen-lines))
 - [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing.
+- [Chroma](https://github.com/neilpanchal/Chroma) - Color conversion library for Processing.

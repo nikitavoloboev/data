@@ -380,3 +380,4 @@
 - [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) ([HN](https://news.ycombinator.com/item?id=25593262))
 - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [Reflections on my (Machine Learning) PhD Journey (2020)](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)

@@ -90,3 +90,4 @@
 - [jupyterlab server](https://github.com/jupyterlab/jvomupyterlab_server) - Set of server components for JupyterLab and JupyterLab like applications.
 - [Setup Anaconda, Jupyter, and Rust (2020)](https://datacrayon.com/posts/programming/rust-notebooks/setup-anaconda-jupyter-and-rust/)
 - [NBSite](https://github.com/pyviz-dev/nbsite) - Build a tested, sphinx-based website from notebooks.
+- [Spinzero](https://github.com/neilpanchal/spinzero-jupyter-theme) - Minimal Jupyter Notebook theme.
