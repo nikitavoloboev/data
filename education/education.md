@@ -60,3 +60,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Why I Left My Tenured Academic Job (2020)](https://reyammer.io/blog/2020/10/03/the-good-the-bad-and-the-bye-bye-why-i-left-my-tenured-academic-job/) ([HN](https://news.ycombinator.com/item?id=24677171))
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Ranking Web of Universities](http://www.webometrics.info/en)
+- [Canvas LMS](https://github.com/instructure/canvas-lms) - Modern, open-source LMS. ([Web](https://www.instructure.com/canvas/en-gb))
