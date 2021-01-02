@@ -99,3 +99,4 @@
 - [Counting Complexity](https://jellypbc.com/posts/ezmntq-counting-complexity) ([Lobsters](https://lobste.rs/s/lnszhq/counting_complexity))
 - [Computability Theory and Complexity Theory Cheat Sheets](https://github.com/0x0f0f0f/computability-complexity-cheat-sheets/blob/master/cplx-cheat.pdf)
 - [Colin S. Gordon CS reading list](https://csgordon.github.io/books.html)
+- [Best Paper Awards in Computer Science in the Past 25 Years (1996-2020)](https://jeffhuang.com/best_paper_awards/)

@@ -53,3 +53,4 @@
 - [Terraform Google Bootstrap](https://github.com/terraform-google-modules/terraform-google-bootstrap) - Help bootstrap a GCP organization, creating all the required GCP resources & permissions to start using the Cloud Foundation Toolkit (CFT).
 - [Terraform Provider Scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider.
 - [Terraform Plugin Docs](https://github.com/hashicorp/terraform-plugin-docs) - Generate and validate Terraform plugin/provider documentation.
+- [python-terrascript](https://github.com/mjuenema/python-terrascript) - Create Terraform files using Python scripts. ([HN](https://news.ycombinator.com/item?id=25611259))

@@ -240,3 +240,4 @@
 - [pyastinterp](https://github.com/pfalcon/pyastinterp) - Python AST interpreter (aka tree-walking interpreter) in Python. Aka meta-circular interpreter.
 - [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio)
 - [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education)
+- [Virtual Environments Demystified (2018)](https://meribold.org/python/2018/02/13/virtual-environments-9487/) ([HN](https://news.ycombinator.com/item?id=25611307))

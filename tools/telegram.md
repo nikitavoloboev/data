@@ -65,3 +65,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [td](https://github.com/ernado/td) - MTProto encoder/decoder.
 - [td](https://github.com/gotd/td) - Telegram client in go.
 - [TGStore](https://github.com/golang-design/tgstore) - Encrypted object storage system with unlimited space backed by Telegram.
+- [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger. ([Web](https://www.intergram.xyz/))

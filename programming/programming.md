@@ -306,3 +306,4 @@
 - [Against Essential and Accidental Complexity](https://danluu.com/essential-complexity/) ([HN](https://news.ycombinator.com/item?id=25569148))
 - [Compiling Refactors - Benjamin Kovach (2017)](https://www.youtube.com/watch?v=bs3zY9ZIZv0)
 - [State machines are wonderful tools (2020)](https://nullprogram.com/blog/2020/12/31/) ([HN](https://news.ycombinator.com/item?id=25601821))
+- [Some of my favorite systems research reads from 2020](https://twitter.com/MarcJBrooker/status/1344779967276597249)

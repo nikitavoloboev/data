@@ -39,7 +39,7 @@ If analytics are used, it's best to implement them server side with something li
 - [Deep Dive Into My Stats Page (2020)](https://sld.codes/articles/Deep-Dive-Into-My-Stats-Page)
 - [Using event naming conventions to keep analytics data clean](https://davidwells.io/blog/clean-analytics)
 - [Goodhart's Law and how systems are shaped by the metrics you chase (2020)](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts) ([HN](https://news.ycombinator.com/item?id=23762526))
-- [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and privacy-friendly analytics.
+- [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and privacy-friendly analytics. ([Telegram Widget](https://github.com/simpleanalytics/chat))
 - [GoAccess](https://goaccess.io/) - Visual Web Log Analyzer.
 - [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD (2020)](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/) ([HN](https://news.ycombinator.com/item?id=23906165))
 - [kSense](https://ksense.io/) - Insanely Fast Analytics.

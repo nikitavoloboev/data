@@ -20,3 +20,4 @@
 - [Пришло письмо из Хогвартса 🇬🇧](https://arturpaikin.com/ru/uk-ok/)
 - [London streets in photos (2020)](https://twitter.com/danbarker/status/1272634582941171713)
 - [Ask HN: Relocating to London After Brexit (2020)](https://news.ycombinator.com/item?id=25550782)
+- [Brexit Deal Visualization & Exploration tool](https://brexit.bald.archi/#infobox)
