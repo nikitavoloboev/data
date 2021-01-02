@@ -176,3 +176,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Jonathan Blow on how an operating system should work (2020)](https://www.youtube.com/watch?v=k0uE_chSnV8)
 - [Systems with JT - YouTube](https://www.youtube.com/user/giard321) - YouTube channel doing first impression reviews of amateur operating systems.
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - WIP "Vulnerable by Design" kext for iOS/macOS to play & learn OS kernel exploitation. ([Web](https://fuzzing.science/vulnerable-kext/))
+- [RVM 1.5](https://github.com/rcore-os/RVM1.5) - Type-1.5 hypervisor written in Rust.
