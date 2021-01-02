@@ -50,3 +50,5 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [marks](https://github.com/isamert/marks) - Simple and fast search-engine like tool for org/markdown files.
 - [kramdown](https://github.com/gettalong/kramdown) - Fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
 - [Openleaf](https://github.com/werner-duvaud/openleaf-markdown-pdf) - Markdown editor for generating PDF.
+- [cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
+- [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.

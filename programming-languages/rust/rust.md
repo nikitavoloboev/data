@@ -393,3 +393,4 @@
 - [Embark Rust Ecosystem](https://github.com/EmbarkStudios/rust-ecosystem) - High-level tracking and discussions about improving Rust and the Rust ecosystem for our game development use cases at Embark.
 - [Problems with building backend app in Rust in 2020](https://blog.0xfa.be/building-a-backend-app-in-rust/)
 - [Build your own async primitive (2020)](https://tweedegolf.nl/blog/50/build-your-own-async-primitive) ([HN](https://news.ycombinator.com/item?id=25549549))
+- [Rust Prehistory Repo](https://github.com/graydon/rust-prehistory)
