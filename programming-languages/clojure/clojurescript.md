@@ -18,3 +18,4 @@
 - [Lambda Island](https://lambdaisland.com/) - Screencast series about ClojureScript and Clojure.
 - [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled/) - Open source book about ClojureScript. ([Code](https://github.com/funcool/clojurescript-unraveled))
 - [Piggieback](https://github.com/nrepl/piggieback) - nREPL middleware that enables the use of a ClojureScript REPL on top of an nREPL session.
+- [figwheel.main template](https://github.com/bhauman/figwheel-main-template) - Template generator that will produce a minimal ClojureScript project that includes figwheel.main tooling.

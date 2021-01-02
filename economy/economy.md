@@ -67,3 +67,4 @@
 - [The Great Reset | World Economic Forum](https://www.weforum.org/great-reset/)
 - [The Fraying of the US Global Currency Reserve System (2020)](https://www.lynalden.com/fraying-petrodollar-system/) ([HN](https://news.ycombinator.com/item?id=25407583)) ([HN 2](https://news.ycombinator.com/item?id=25558573))
 - [Why Do People Stay Poor? (2020)](https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/why-do-people-stay-poor-evidence-on-poverty-traps-from-rural-bangladesh-revision-V4-32.pdf) ([HN](https://news.ycombinator.com/item?id=25568800))
+- [What recent economics book did you really like? (2021)](https://www.reddit.com/r/AskEconomics/comments/konc5w/what_recent_economics_book_did_you_really_like/)
