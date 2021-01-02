@@ -239,3 +239,4 @@
 - [Haskell Tips Twitter](https://twitter.com/HaskellTips) - Tips, tricks and hacks.
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables.
 - [GHC 9.0, supporting linear types (2020)](https://discourse.haskell.org/t/glasgow-haskell-compiler-9-0-1-rc1-now-available/1706) ([HN](https://news.ycombinator.com/item?id=25582746))
+- [Verifying the Titular Properties of a Leftist Heap (2019)](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)

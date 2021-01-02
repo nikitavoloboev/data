@@ -10,3 +10,7 @@
 - [Intro to DDlog (2020)](https://chasewilson.dev/blog/intro-to-ddlog/)
 - [hsdatalog](https://github.com/chessai/hsdatalog) - Compiler from Datalog to relational algebra, as well as an interpreter for relational algebra that uses binary decision diagrams (BDDs).
 - [Crepe](https://github.com/ekzhang/crepe) - Datalog compiler in Rust as a procedural macro.
+- [Temporalog](https://github.com/madgen/temporalog) - Datalog extension to reason about time with CTL operators.
+- [Exalog](https://github.com/madgen/exalog) - Datalog backend as a library written in Haskell.
+- [The Essence of Datalog (2018)](https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html)
+- [Automatic Subgoal Scheduling for Datalog (2018)](https://dodisturb.me/posts/2018-10-08-Automatic-Subgoal-Scheduling-for-Datalog.html)

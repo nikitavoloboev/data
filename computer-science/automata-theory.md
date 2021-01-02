@@ -36,3 +36,4 @@
 - [Let’s build a computer in Conway's game of life (2020)](https://www.youtube.com/watch?v=Kk2MH9O4pXY)
 - [Building a computer in Conway's game of life (2020)](https://www.nicolasloizeau.com/gol-computer) ([HN](https://news.ycombinator.com/item?id=24831268))
 - [Cellular Automaton in Haskell (I). Conway's Game of Life](https://herebeseaswines.net/essays/2020-10-22-conways-game-of-life-in-haskell)
+- [Cellular Christmas Tree (2018)](https://dodisturb.me/posts/2018-01-28-Cellular-Christmas-Tree.html)
