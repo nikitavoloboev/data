@@ -47,3 +47,5 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - ["The MC1R Gene and Youthful Looks", Liu et al 2016](https://www.gwern.net/docs/genetics/heritable/2016-liu.pdf)
 - [I Hope to Die at 75 (2014)](https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/) ([HN](https://news.ycombinator.com/item?id=25094593))
 - [(How) should we pursue human longevity? (2020)](https://milan.cvitkovic.net/writing/longevity/)
+- [Rewinding the biological clock: How to reverse ageing (2020)](https://www.youtube.com/watch?v=ArICnh2Q9EI) ([HN](https://news.ycombinator.com/item?id=25605034))
+- [Anti-Aging: State of the Art (2020)](https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art) ([HN](https://news.ycombinator.com/item?id=25607664))
