@@ -6,6 +6,10 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
 
+## 2021
+
+- [January](2021/2021-january.md)
+
 ## [2020](2020/2020.md)
 
 - [January](2020/2020-january.md) - Joined Rekki.
