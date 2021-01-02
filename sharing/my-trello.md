@@ -12,3 +12,4 @@
 - [Learn](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509)
 - [Papers / Courses](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431)
 - [Jobs](https://www.notion.so/Jobs-8f4225788b144da49a0c2ee37576507c)
+- [Plan](https://www.notion.so/pukis/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198)

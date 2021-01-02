@@ -86,4 +86,4 @@
 - [LndHub](https://github.com/BlueWallet/LndHub) - Wrapper for Lightning Network Daemon. It provides separate accounts with minimum trust for end users. ([Web](http://lndhub.io/))
 - [Umbrel](https://github.com/getumbrel/umbrel) - Personal Bitcoin and Lightning node designed for everyone. ([Web](https://getumbrel.com/))
 - [Bisq](https://bisq.network/) - Safe, private and decentralized way to exchange bitcoin for national currencies and other digital assets. ([Code](https://github.com/bisq-network/bisq))
-- [Bitcoin is a disaster (2020)](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html) ([HN](https://news.ycombinator.com/item?id=25597891))
+- [Bitcoin is a disaster (2020)](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html) ([HN](https://news.ycombinator.com/item?id=25597891)) ([Lobsters](https://lobste.rs/s/egqq29/bitcoin_is_disaster))
