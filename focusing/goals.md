@@ -1,6 +1,6 @@
 # Goals
 
-Doing the active [life plan in Notion](https://www.notion.so/pukis/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198) now.
+Concrete step by step planning is in [Notion](https://www.notion.so/pukis/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198).
 
 ## Action
 
