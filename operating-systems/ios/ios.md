@@ -65,6 +65,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Mixin iOS messenger](https://github.com/MixinNetwork/ios-app)
 - [Nextcloud iOS app](https://github.com/nextcloud/ios)
 - [MortyUI](https://github.com/Dimillian/MortyUI) - Simple Rick & Morty app to demo GraphQL + SwiftUI.
+- [Brave for iOS](https://github.com/brave/brave-ios)
 
 ## Other
 

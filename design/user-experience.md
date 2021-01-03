@@ -56,3 +56,4 @@
 - [UX Christmas](https://ux.christmas/)
 - [Types of Dark Pattern](https://darkpatterns.org/types-of-dark-pattern.html)
 - [Why Jira Sucks](https://whyjirasucks.com/) ([HN](https://news.ycombinator.com/item?id=25590846))
+- [Grumpy Website](https://grumpy.website/) - Blog about design fails / gripes / anitpatterns.

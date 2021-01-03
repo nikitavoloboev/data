@@ -14,6 +14,7 @@
 ## Plugins
 
 - [Jekyll Feed plugin](https://github.com/jekyll/jekyll-feed) - Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts.
+- [Jekyll Sitemap Generator Plugin](https://github.com/jekyll/jekyll-sitemap)
 
 ## Links
 

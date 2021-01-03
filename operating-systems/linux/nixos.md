@@ -104,3 +104,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Colmena](https://github.com/zhaofengli/colmena) - Simple, stateless NixOS deployment tool modeled after NixOps and Morph, written in Rust.
 - [NixOS in the Cloud, step-by-step (2020)](https://justinas.org/nixos-in-the-cloud-step-by-step-part-1)
 - [Mayflower Nix Consulting](https://nixos.mayflower.consulting/)
+- [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS.
