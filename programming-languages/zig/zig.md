@@ -31,3 +31,4 @@
 - [zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 - [Zig Spec](https://github.com/ziglang/zig-spec)
 - [Pirates of Apple Silicon - Jakub Konka, Frank Denis, Andrew Kelley (2020)](https://www.youtube.com/watch?v=t1pdnQRPAZo)
+- [Zig in 30 Minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) ([HN](https://news.ycombinator.com/item?id=25618302))

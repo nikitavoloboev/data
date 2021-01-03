@@ -245,3 +245,4 @@
 - [eBPF is awesome (2020)](https://filipnikolovski.com/posts/ebpf/) ([HN](https://news.ycombinator.com/item?id=25490138))
 - [Linux Distribution Timeline](https://github.com/FabioLolix/LinuxTimeline)
 - [Asahi Linux](https://github.com/AsahiLinux) - Porting Linux to Apple Silicon macs. ([Twitter](https://twitter.com/AsahiLinux))
+- [Running Debian on a 32MB RAM Single Core ARM SBC (2021)](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/) ([Lobsters](https://lobste.rs/s/u6jote/lichee_nano_pi_32mb_ram_will_it_run_debian)) ([HN](https://news.ycombinator.com/item?id=25603254))
