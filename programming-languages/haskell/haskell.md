@@ -240,3 +240,4 @@
 - [ghc-musl](https://github.com/utdemir/ghc-musl) - Docker image with GHC+musl for static executables.
 - [GHC 9.0, supporting linear types (2020)](https://discourse.haskell.org/t/glasgow-haskell-compiler-9-0-1-rc1-now-available/1706) ([HN](https://news.ycombinator.com/item?id=25582746))
 - [Verifying the Titular Properties of a Leftist Heap (2019)](https://dodisturb.me/posts/2019-10-03-Verifying-the-Titular-Properties-of-a-Leftist-Heap.html)
+- [Artyom's Haskell toolbox — a long list of tools/libraries I use](https://tek.brick.do/2f53d74a-1538-421a-b017-0155b1e164c6) ([Reddit](https://www.reddit.com/r/haskell/comments/kp9pg0/artyoms_haskell_toolbox_a_long_list_of/))

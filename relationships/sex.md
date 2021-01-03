@@ -11,3 +11,4 @@
 - [The ungentle joy of spider sex (2020)](https://knowablemagazine.org/article/living-world/2020/the-ungentle-joy-spider-sex) ([HN](https://news.ycombinator.com/item?id=24932342))
 - [Sexual Health Wiki](https://www.reddit.com/r/sexover30/wiki/sexual_health)
 - [Sex Over 30 Wiki](https://www.reddit.com/r/sexover30/wiki/index)
+- [Porn Really Screwed My Perception of Sex (2021)](https://www.reddit.com/r/sexover30/comments/kp44ld/porn_really_screwed_my_perception_of_sex/)

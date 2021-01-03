@@ -12,3 +12,4 @@
 - [How to Use MDMA Safely](https://www.youtube.com/watch?v=hLxNlxsVmZE)
 - [How to “safely” take MDMA](http://matznerd.com/how-to-safely-take-mdma/)
 - [HN: MDMA-assisted couples therapy investigated in pilot trial (2020)](https://news.ycombinator.com/item?id=25363777)
+- [Can I ever roll on MDMA like the first time? (2021)](https://www.reddit.com/r/askdrugs/comments/kp54bq/can_i_ever_roll_on_mdma_like_the_first_time/)
