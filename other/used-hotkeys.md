@@ -80,6 +80,5 @@ Order: `CMD > OPT > CTRL > SHIFT`
 
 ## CMD+OPT+CTRL+SHIFT
 
-- t - Open Trello
 - g - Loom recording
 - Space - Alfred

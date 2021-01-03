@@ -2,7 +2,7 @@
 
 I don't know many things. And as the saying goes: _"The more you know, the more you don't know."_
 
-I list things I am learning and want to learn in a [Trello board](https://trello.com/b/cu32qF3q).
+I list things I am learning and want to learn in [Notion](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509).
 
 I also visualize some topics and their relations as an [interactive mind map](https://my.mindnode.com/fFxApNMuV2GmAzkBYxcD5quSFBM5wevdSMcRTz7H#1464.4,-1059.5,0).
 

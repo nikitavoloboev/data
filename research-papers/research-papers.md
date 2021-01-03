@@ -1,6 +1,6 @@
 # Research papers
 
-I keep a [Trello board](https://trello.com/b/EKl1Ie3q) of research papers I am reading and want to read.
+I keep a [Notion page](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431) of research papers I am reading and want to read.
 
 Below is a list of research papers I read with a link to my own notes of the paper.
 

@@ -7,7 +7,7 @@
   - [My Workflow](sharing/my-workflow.md)
   - [My GitHub](sharing/my-github.md)
   - [My Articles](sharing/my-articles.md)
-  - [My Trello](sharing/my-trello.md)
+  - [My Notion](sharing/my-notion.md)
   - [Tracking](sharing/tracking.md)
   - [Things](sharing/things.md)
 - [Ideas](ideas/ideas.md)
