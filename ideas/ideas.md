@@ -77,3 +77,4 @@ I try to give my full attention to any ideas I am working on.
 - [More challenging projects every programmer should try (2020)](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html) ([HN](https://news.ycombinator.com/item?id=25489879))
 - [Ask HN: What's a side project you built to make money that hasn't? (2021)](https://news.ycombinator.com/item?id=25580637)
 - [Ask HN: Successful one-person online businesses in 2021?](https://news.ycombinator.com/item?id=25614966)
+- [Findnlink](https://www.findnlink.com/) - Find people to work with on your ideas.
