@@ -8,7 +8,7 @@
 
 I use Notion mainly now. Trello boards will be moved to Notion soon.
 
-- [Plan](https://www.notion.so/pukis/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198)
+- [Plan](https://www.notion.so/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198)
 - [Ideas](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332)
 - [Learn](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509)
 - [Papers / Courses](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431)
