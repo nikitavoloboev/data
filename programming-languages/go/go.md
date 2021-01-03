@@ -402,3 +402,4 @@ Go promotes composition over inheritance.
 - [Gval](https://github.com/PaesslerAG/gval) - Provides support for evaluating arbitrary expressions, in particular Go-like expressions.
 - [Athens](https://github.com/gomods/athens) - Go module datastore and proxy.
 - [Unsafe string interning in Go (2020)](https://mdlayher.com/blog/unsafe-string-interning-in-go/)
+- [go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write Go using clean architecture.

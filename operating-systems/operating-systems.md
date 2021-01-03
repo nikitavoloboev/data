@@ -78,6 +78,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [pdp7-unix](https://github.com/DoctorWkt/pdp7-unix) - Project to resurrect Unix on the PDP-7 from a scan of the original assembly code.
 - [core-os-riscv](https://github.com/skyzh/core-os-riscv) - xv6-like operating system on RISC-V with multi-core support.
 - [rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
+- [dgOS](https://github.com/doug65536/dgos)
 
 ## Notes
 
