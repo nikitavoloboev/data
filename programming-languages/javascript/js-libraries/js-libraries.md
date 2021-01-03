@@ -411,6 +411,7 @@
 - [watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
 - [async-tag](https://github.com/WebReflection/async-tag) - Resolves template literals tag values before applying a generic tag.
 - [serialize-error](https://github.com/sindresorhus/serialize-error) - Serialize/deserialize an error into a plain object.
+- [errorstacks](https://github.com/marvinhagemeister/errorstacks) - Tiny library to parse error stack traces.
 
 ## Links
 

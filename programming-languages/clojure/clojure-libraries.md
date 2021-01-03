@@ -48,6 +48,7 @@
 - [Cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding.
 - [Membrane](https://github.com/phronmophobic/membrane) - Platform agnostic clojure library for creating user interfaces.
 - [jme-clj](https://github.com/ertugrulcetin/jme-clj) - Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine.
+- [aws-api](https://github.com/cognitect-labs/aws-api) - Clojure library which provides programmatic access to AWS services from your Clojure program.
 
 ## Links
 
