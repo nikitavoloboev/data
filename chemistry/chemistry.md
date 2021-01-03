@@ -19,3 +19,4 @@
 - [Zhang Lab](https://zlab.bio/) - Studies biological diversity to discover systems and processes that may be harnessed for the improvement of human health.
 - [Machine Learning in Chemistry 101 course](https://github.com/BingqingCheng/ML-in-chemistry-101)
 - [Highly Opinionated List of Open Source Cheminformatics Resources](https://github.com/PatWalters/resources/blob/main/cheminformatics_resources.md)
+- [Beginners Guide to Understanding Chemistry (2021)](https://www.youtube.com/playlist?list=PLgJIUWVTPrnXLrP25h_UteuawBgb0SyVR)

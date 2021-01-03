@@ -50,3 +50,4 @@
 - [aws-lambda-deploy](https://github.com/aws-samples/aws-lambda-deploy) - Collection of sample tools to enable canary deployments of AWS Lambda functions.
 - [Mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda & API Gateway support for ASGI.
 - [AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way) ([HN](https://news.ycombinator.com/item?id=25588898))
+- [lambda_decorators](https://github.com/dschep/lambda-decorators) - Collection of useful decorators for making AWS Lambda handlers.

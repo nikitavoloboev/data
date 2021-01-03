@@ -30,3 +30,4 @@
 - [Townscaper](https://store.steampowered.com/app/1291340/Townscaper/) - Building game inspired by the design of Scandinavian cities. ([HN](https://news.ycombinator.com/item?id=23937551)) ([Article](https://www.bloomberg.com/news/articles/2020-07-24/the-video-game-where-you-build-an-empty-town))
 - [ShapeWright.com](https://ship.shapewright.com/) - Procedurally generated space ships.
 - [1D Procedural Terrain Generation (2020)](https://arpitbhayani.me/blogs/1d-terrain)
+- [enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI.
