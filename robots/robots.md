@@ -59,3 +59,4 @@
 - [Mathematics Behind Robotics (2020)](https://medium.com/datadriveninvestor/mathematics-behind-robotics-9d1790b33828)
 - [GraspNet](https://graspnet.net/) - Large-Scale Benchmark for General Object Grasping. ([Code](https://github.com/graspnet/graspnet-baseline))
 - [Getting Started in Robotics (2021)](https://allshire.org/getting-started-robotics/) ([HN](https://news.ycombinator.com/item?id=25608932))
+- [FERM: A Framework for Efficient Robotic Manipulation](https://github.com/PhilipZRH/ferm)

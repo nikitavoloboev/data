@@ -97,3 +97,4 @@
 - [react-native-svg-app-icon](https://github.com/aeirola/react-native-svg-app-icon) - Generate all app icons for you React Native apps from a single SVG file.
 - [React Native Samples and Templates](https://github.com/microsoft/react-native-windows-samples) - Repository showcasing React Native samples and templates for Windows, macOS, and Surface Duo.
 - [Bonsai](https://github.com/bonsaijs/bonsai) - Opinionated zero-config CLI for React Native.
+- [formidable-webview/webshell](https://github.com/formidable-webview/webshell) - Craft Robust React Native WebView-based components with ease.

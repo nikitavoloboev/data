@@ -176,3 +176,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Galene](https://galene.org/) - Videoconferencing server that is easy to deploy (just copy a few files and run the binary) and that requires moderate server resources. ([Code](https://github.com/jech/galene))
 - [Kodi](https://kodi.tv/) - Open Source Home Theater Software. ([Code](https://github.com/xbmc/xbmc))
 - [Starting Your Own YouTube Channel in 2021](https://www.youtube.com/watch?v=ml7Vme_aPn4)
+- [Perfect Media Server](https://perfectmediaserver.com/) - Knowledge and information about building an open-source media server. ([Code](https://github.com/IronicBadger/pms-wiki/)) ([HN](https://news.ycombinator.com/item?id=25619137))
