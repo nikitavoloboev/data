@@ -134,6 +134,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Yenly Ma TIL](https://til.yenly.wtf/)
 - [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
+- [Rosano Garden](https://rosano.hmm.garden/)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))

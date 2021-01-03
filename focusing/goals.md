@@ -1,6 +1,6 @@
 # Goals
 
-Concrete step by step plan is in [Notion](https://www.notion.so/pukis/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198).
+Step by step plan is in [Notion](https://www.notion.so/pukis/e462537d8f3d40c095ea67091ca91f45?v=1006717e984a4243b198bcad5bf05198).
 
 ## Action
 
