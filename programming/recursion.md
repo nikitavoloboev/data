@@ -17,3 +17,4 @@
 - [Recursion Revisited](https://www.solipsys.co.uk/new/RecursionRevisited.html)
 - [Grokking recursion (2020)](https://0xd34df00d.me/posts/2020/09/agda-wf-rec.html)
 - [Spirals, Snowflakes and Trees: Recursion in Pictures](http://learn.hfm.io/fractals.html) ([HN](https://news.ycombinator.com/item?id=25583631))
+- [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/) ([Lobsters](https://lobste.rs/s/kwebam/how_not_teach_recursion))

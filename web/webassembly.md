@@ -122,3 +122,4 @@
 - [Yo WASM – The Easy Way to WebAssembly (2020)](https://deislabs.io/posts/introducing-yo-wasm/)
 - [as-wasi](https://github.com/jedisct1/as-wasi) - High-level AssemblyScript layer for the WebAssembly System Interface (WASI).
 - [WebAssembly Studio](https://webassembly.studio/) ([HN](https://news.ycombinator.com/item?id=25592481))
+- [Metallic](https://github.com/jdh8/metallic) - C runtime library (libc) for WebAssembly.

@@ -20,3 +20,4 @@
 - [copernic](https://github.com/amirouche/copernic) - Versioned structured data, with change-request mechanic, at scale.
 - [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 - [Gource](https://gource.io/) - Software version control visualization tool. ([Code](https://github.com/acaudwell/Gource))
+- [Let's Build a Version Control System (2021)](https://shatterealm.netlify.app/programming/2021_01_02_shiv_lets_build_a_vcs)

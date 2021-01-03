@@ -154,3 +154,4 @@
 - [deploy-rs](https://github.com/serokell/deploy-rs) - Simple, multi-profile Nix-flake deploy tool.
 - [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix) - One-stop reference to build TodoMVC application inside the Nix world.
 - [Trustix: Distributed trust and reproducibility tracking for binary caches (2020)](https://www.tweag.io/blog/2020-12-16-trustix-announcement/)
+- [Building with Nix Flakes for, eh .. reasons (2021)](https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/)
