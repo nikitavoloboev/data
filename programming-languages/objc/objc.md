@@ -21,3 +21,4 @@
 - [Resources for learning Objective-C and AppKit (2020)](https://lapcatsoftware.com/articles/learning.html)
 - [BlockHook](https://github.com/yulingtianxia/BlockHook) - Hook Objective-C blocks. A powerful AOP tool.
 - [PyObjC](https://github.com/ronaldoussoren/pyobjc) - Python <-> Objective-C Bridge with bindings for macOS frameworks.
+- [Effective Objective-C 2.0 Book](https://www.effectiveobjectivec.com/) ([Code](https://github.com/effectiveobjc/code))
