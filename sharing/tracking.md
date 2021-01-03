@@ -48,3 +48,4 @@ Here is a list of various things I track for my own use and reference.
 - [My Quantified Self Setup (2020)](https://julian.digital/2020/02/23/my-quantified-self-setup/)
 - [Developer industry stats and where to find them](https://github.com/sw-yx/tracking)
 - [Personal Data Warehouses: Reclaiming Your Data (2020)](https://simonwillison.net/2020/Nov/14/personal-data-warehouses/) ([HN](https://news.ycombinator.com/item?id=25090218))
+- [Heedy](https://github.com/heedy/heedy) - Open-source database built for storage and analysis of your personal data. ([Docs](https://heedy.org/))
