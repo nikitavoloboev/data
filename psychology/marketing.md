@@ -17,6 +17,7 @@
   3. Write simply. Easy-to-understand ideas win.
   4. Data = your friend. Use Junglescout, Redditlist to gain intelligence.
 - [5 ways to monetize your open source project as an individual: 1. Ads 2. Licensing 3. Consulting 4. Sponsors 5. Premium Code](https://twitter.com/zenorocha/status/1313140411699920899)
+- [No one can actually prove ads any any ROI at all. No one is willing to run the experiments necessary. In the few cases of natural experiments, where ads got turned off for some people by accident, there was no change in buying behavior.](https://news.ycombinator.com/item?id=25623858)
 
 ## Links
 
@@ -101,6 +102,7 @@
 - [Autopilot](https://www.autopilothq.com/) - Marketing automation software made visual.
 - [Getting our first 1000 users in one day (2020)](https://francescodilorenzo.com/typefully-launch) ([HN](https://news.ycombinator.com/item?id=25374319))
 - [Acquisition Channel Opportunities: Instagram Keyword Search, FB Ads Targeting, Pinterest Ranking on Google (2020)](https://www.indiehackers.com/post/acquisition-channel-opportunities-instagram-keyword-search-fb-ads-targeting-pinterest-ranking-on-google-3bec0075db)
+- [Does Advertising Actually Work? (2020)](https://freakonomics.com/podcast/advertising-part-1/) ([Part 2](https://freakonomics.com/podcast/advertising-part-2/))
 
 ## Images
 
