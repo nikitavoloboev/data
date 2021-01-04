@@ -73,3 +73,4 @@
 - [Geometrize](https://www.geometrize.co.uk/) - Transform images into geometric primitives. ([Code](https://github.com/Tw1ddle/geometrize))
 - [A perceptual color space for image processing (2020)](https://bottosson.github.io/posts/oklab/)
 - [fSpy](https://fspy.io/) - Cross platform app for quick and easy still image camera matching. ([Code](https://github.com/stuffmatic/fSpy))
+- [Ditherpunk — The article I wish I had about monochrome image dithering (2021)](https://surma.dev/things/ditherpunk/)
