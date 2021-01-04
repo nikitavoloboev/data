@@ -22,6 +22,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Piotr Chmolowski](https://github.com/pch) - Clean.
 - [Brian Lovin](https://github.com/brianlovin) - Detailed.
 - [Matthias](https://github.com/mre)
+- [Brandur](https://github.com/brandur/brandur) - Clean & self updating.
 
 ## Great GitHub readme
 
@@ -180,3 +181,4 @@ I publish most of my work and make it open source for other people to use and re
 - [ghtopdep](https://github.com/github-tooling/ghtopdep) - CLI tool for sorting dependents repo by stars.
 - [GitHub's REST API OpenAPI Description](https://github.com/github/rest-api-description)
 - [watch-rss](https://github.com/azu/watch-rss) - Subscribe your watched GitHub Repository's releases as RSS feeds on Inoreader.
+- [Building a self-updating GitHub README](https://brandur.org/fragments/self-updating-github-readme)

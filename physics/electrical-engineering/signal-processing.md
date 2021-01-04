@@ -17,3 +17,4 @@
 - [absorptions](http://www.windytan.com/) - Blog about signals, random hacks, & assorted infodumps.
 - [PYSOX: Leveraging the audio signal processing power of SoX in python (2016)](https://wp.nyu.edu/ismir2016/wp-content/uploads/sites/2294/2016/08/bittner-pysox.pdf)
 - [pysox](https://github.com/rabitt/pysox) - Python wrapper around SoX.
+- [Digital signal processing theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.

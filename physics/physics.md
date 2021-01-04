@@ -163,3 +163,4 @@
 - [One-way speed of light](https://en.wikipedia.org/wiki/One-way_speed_of_light)
 - [Well, Actually – Physics Answers](http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html) ([HN](https://news.ycombinator.com/item?id=25588888))
 - [Heat Capacity and the Speed of Sound (2020)](https://www.daniellowengrub.com/blog/2020/12/19/heat-capacity-sound)
+- [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm) ([HN](https://news.ycombinator.com/item?id=25626532))

@@ -129,3 +129,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Deployment Framework](https://github.com/awslabs/aws-deployment-framework) - Extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions within an AWS Organization.
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [AWS CLI Cheat Sheet](https://github.com/eon01/AWS-CheatSheet)
+- [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency.

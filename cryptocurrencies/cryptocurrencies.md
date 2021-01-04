@@ -48,3 +48,4 @@
 - [Coinbase Prime](https://primebroker.coinbase.com/) - Crypto solution for institutions.
 - [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html) ([Tweet](https://twitter.com/VitalikButerin/status/1343366729427079169)) ([HN](https://news.ycombinator.com/item?id=25566963))
 - [CCXT](https://github.com/ccxt/ccxt) - CryptoCurrency eXchange Trading Library.
+- [Trezor Hardware Wallet](https://trezor.io/) - Safe place for your coins. ([Code](https://github.com/trezor/trezor-firmware))

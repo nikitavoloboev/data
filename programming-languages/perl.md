@@ -22,3 +22,4 @@
 - [SparrowHub](https://sparrowhub.io/) - Sparrow Plugins Repository.
 - [Functional Perl: Programming with Recursion Schemes in Python](https://www.cs.cmu.edu/~rjsimmon/random/bovik2010case.pdf)
 - [What’s the point of pointfree programming? (2020)](https://raku-advent.blog/2020/12/22/draft-whats-the-point-of-point-free-programming/) ([Lobsters](https://lobste.rs/s/okiapp/what_s_point_pointfree_programming))
+- [Why Perl Didn't Win (2020)](https://outspeaking.com/words-of-technology/why-perl-didnt-win.html)

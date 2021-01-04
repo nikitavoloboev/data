@@ -176,3 +176,4 @@
 - [Interactive C++ for Data Science (2020)](https://blog.llvm.org/posts/2020-12-21-interactive-cpp-for-data-science/) ([HN](https://news.ycombinator.com/item?id=25517050))
 - [Accelerating Standard C++ with GPUs Using stdpar](https://developer.nvidia.com/blog/accelerating-standard-c-with-gpus-using-stdpar/) ([Lobsters](https://lobste.rs/s/vpdoo2/accelerating_standard_c_with_gpus_using))
 - [Immediate mode GUI performance (2020)](https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance) ([HN](https://news.ycombinator.com/item?id=25624044))
+- [C++ for Swift developers (2021)](https://whackylabs.com/swift/cpp/languages/2021/01/03/cpp-for-swift-devs/)

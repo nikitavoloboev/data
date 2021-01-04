@@ -263,6 +263,7 @@ Below is a list of extensions I use.
 ## Lean
 
 - [Lean for VS Code](https://github.com/leanprover/vscode-lean) - Adds support for Lean.
+- [Lean 4 VSCode](https://github.com/mhuisi/vscode-lean4) - Provides VSCode editor support for the Lean 4 programming language.
 
 ## Coq
 

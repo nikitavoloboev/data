@@ -28,3 +28,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [ALVR](https://github.com/JackD83/ALVR) - Stream VR games from your PC to your Oculus Quest via Wi-FI.
 - [Varjo](https://varjo.com/) - Advanced virtual and mixed reality devices.
 - [When will virtual reality take off? The $100 bet (2020)](https://glinden.blogspot.com/2020/12/when-will-virtual-reality-take-off-100.html) ([HN](https://news.ycombinator.com/item?id=25439490))
+- [Why the liquids in Half-Life Alyx look so dang good (2021)](https://www.youtube.com/watch?v=9XWxsJKpYYI)

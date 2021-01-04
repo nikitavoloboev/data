@@ -67,3 +67,5 @@
 - [dcompass](https://github.com/LEXUGE/dcompass) - High-performance DNS server with rule matching/DoT/DoH functionality built-in.
 - [doggo](https://github.com/mr-karan/doggo) - Command-line DNS Client for Humans. Written in Go. ([Lobsters](https://lobste.rs/s/6ey5mv/doggo_command_line_dns_client))
 - [Update your DNS records when abandoning servers (2021)](https://news.ycombinator.com/item?id=25621519)
+- [nonymous + bore(1): DNS toys for Rust (2021)](https://www.azabani.com/2021/01/03/nonymous-bore.html)
+- [DNS Key Value Storage](https://dnskv.com/) ([HN](https://news.ycombinator.com/item?id=25620411))

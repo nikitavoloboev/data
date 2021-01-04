@@ -126,3 +126,4 @@
 - [Pixar Graphics Technologies](http://graphics.pixar.com/) ([GitHub](https://github.com/PixarAnimationStudios))
 - [Introduction to Computer Graphics (2020)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNuBjzJ-KEWmG1yjiRMXYKhh) ([Assignments](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/assignments/)) ([Tweet](https://mobile.twitter.com/JustinMSolomon/status/1344023249496268803))
 - [Pixar's Render Farm (2021)](https://twitter.com/pixprin/status/1345146328058269696) ([HN](https://news.ycombinator.com/item?id=25615888))
+- [Graphics Studies Compilation (2020)](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)

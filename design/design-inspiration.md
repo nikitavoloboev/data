@@ -356,6 +356,7 @@ Here are few more things I liked, design wise.
 - [David Ross](https://djr.com/)
 - [Fran Perez](https://franperez.me/)
 - [Jeff Hilnbrand](https://jhil.co/) ([Code](https://github.com/jhil/jhilco-2021))
+- [Delan Azabani](https://www.azabani.com/)
 - [Andrew Kensler](http://eastfarthing.com/blog/index.html)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
@@ -450,6 +451,7 @@ Here are few more things I liked, design wise.
 - [Ryan Haskell-Glatz](https://rhg.dev/)
 - [Erin](https://www.erinmcg.com/)
 - [Kohei Asai](https://axross.dev/)
+- [Inigo Quilez](https://www.iquilezles.org/)
 - [Sasha Greif](http://sachagreif.com/)
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)

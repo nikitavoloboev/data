@@ -31,3 +31,4 @@
 - [Benchmarking Graph Neural Networks (2020)](https://arxiv.org/abs/2003.00982) ([Code](https://github.com/graphdeeplearning/benchmarking-gnns))
 - [Pro-GNN](https://github.com/ChandlerBang/Pro-GNN) - PyTorch implementation of "Graph Structure Learning for Robust Graph Neural Networks".
 - [Supervised Learning on Relational Databases with Graph Neural Networks](https://github.com/mwcvitkovic/Supervised-Learning-on-Relational-Databases-with-GNNs)
+- [Why I’m lukewarm on graph neural networks (2020)](https://www.singlelunch.com/2020/12/28/why-im-lukewarm-on-graph-neural-networks/) ([HN](https://news.ycombinator.com/item?id=25632592))

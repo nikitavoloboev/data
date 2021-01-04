@@ -142,6 +142,7 @@
 - [React Command Palette](https://github.com/asabaylus/react-command-palette) - Accessible browser compatible javascript command palette.
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [React ApexCharts](https://github.com/apexcharts/react-apexcharts) - React.js wrapper for ApexCharts to build interactive visualizations in react.
+- [dnd kit](https://github.com/clauderic/dnd-kit) - Modern drag and drop toolkit for React. ([Web](https://dndkit.com/))
 
 ## Links
 

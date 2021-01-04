@@ -196,3 +196,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Transfonter](https://transfonter.org/) - Online @font-face generator.
 - [The hyperbezier pen tool](http://www.cmyr.net/blog/hyperbezier.html) - Introduces a new model for a path drawing (pen) tool, with a particular focus on font design.
 - [Fontdue](https://github.com/mooman219/fontdue) - Fastest font renderer in the world, written in pure rust.
+- [fontpreview](https://github.com/MatteoGuadrini/fontpreview) - Python library for font previews.

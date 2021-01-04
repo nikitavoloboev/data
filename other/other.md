@@ -363,7 +363,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What did you purchase that measurably improved your quality of life? (2020)](https://news.ycombinator.com/item?id=24819254)
 - [critcmp](https://github.com/BurntSushi/critcmp) - Command line tool for comparing benchmarks run by Criterion.
 - [Best of Show HN](https://bestofshowhn.com/)
-- [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees.
+- [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees. ([HN](https://news.ycombinator.com/item?id=25621401))
 - [Moderating a 220k Developer Community (2020)](https://dev.to/swyx/moderating-a-220k-developer-community-3doj)
 - [mold](https://github.com/rui314/mold) - Modern Linker.
 - [Stedi](https://stedi.com/) - Structured messaging platform for B2B trade.

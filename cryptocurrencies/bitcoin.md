@@ -87,3 +87,6 @@
 - [Umbrel](https://github.com/getumbrel/umbrel) - Personal Bitcoin and Lightning node designed for everyone. ([Web](https://getumbrel.com/))
 - [Bisq](https://bisq.network/) - Safe, private and decentralized way to exchange bitcoin for national currencies and other digital assets. ([Code](https://github.com/bisq-network/bisq))
 - [Bitcoin is a disaster (2020)](https://www.metzdowd.com/pipermail/cryptography/2020-December/036510.html) ([HN](https://news.ycombinator.com/item?id=25597891)) ([Lobsters](https://lobste.rs/s/egqq29/bitcoin_is_disaster))
+- [Putting $400M of Bitcoin on your company balance sheet (2020)](https://www.singlelunch.com/2020/10/21/badeconomics-putting-400m-of-bitcoin-on-your-company-balance-sheet/) ([HN](https://news.ycombinator.com/item?id=25632757))
+- [Modeling Bitcoin Value with Scarcity (2019)](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
+- [Bitcoin Stock-to-Flow Cross Asset Model (2020)](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)

@@ -614,6 +614,8 @@
 - [daggy](https://github.com/mitchmindtree/daggy) - Directed acyclic graph data structure for Rust.
 - [LibHoare](https://github.com/nrc/libhoare) - Design by contract style assertions for Rust.
 - [crc32fast](https://github.com/srijs/rust-crc32fast) - Fast, SIMD-accelerated CRC32 (IEEE) checksum computation in Rust.
+- [Ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
+- [Gazebo](https://github.com/facebookincubator/gazebo) - Rust library containing a collection of small well-tested primitives.
 
 ## Cargo Plugins
 
@@ -653,3 +655,4 @@
 - [cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - Tool for managing cargo workspaces and their packages, inspired by lerna.
 - [cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
 - [Ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry.
+- [RustSec](https://rustsec.org/) - Security advisory database for Rust crates published through crates.io. ([Code](https://github.com/RustSec/advisory-db))

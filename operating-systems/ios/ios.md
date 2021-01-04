@@ -279,3 +279,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Stringz](https://github.com/mohakapt/Stringz) - Lightweight and powerful tool for localizing iOS, macOS, tvOS and watchOS applications.
 - [Dynamically Generated iOS Headers](https://github.com/nst/iOS-Runtime-Headers) - iOS Objective-C headers as derived from runtime introspection.
 - [AppTalk](https://app-talk.com/) - User contributable directory of iOS apps with x-callback-urls. ([Code](https://github.com/pietropizzi/app-talk))
+- [Building UI without AutoLayout (2020)](https://whackylabs.com/objc/ui/2020/09/15/simple-manual-layout/)

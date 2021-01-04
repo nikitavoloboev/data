@@ -48,3 +48,4 @@ Here are tools I use for streaming:
 - [Streamwall](https://github.com/streamwall/streamwall) - Makes it easy to compose multiple livestreams into a mosaic, with source attributions and audio control.
 - [Character Overlay](https://character-overlay.n1ru4l.cloud/) - Web App for adding an OBS overlay with character information such as name, picture, and health for your favorite role-playing game. ([Code](https://github.com/n1ru4l/obs-character-info))
 - [OBSWebSocket.JS](https://github.com/haganbmj/obs-websocket-js) - Allows JavaScript-based connections to the Open Broadcaster plugin obs-websocket.
+- [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - Self contained OBS -> FTL -> WebRTC live streaming server. ([HN](https://news.ycombinator.com/item?id=25627673)) ([Reddit](https://www.reddit.com/r/golang/comments/kq02da/project_lightspeed_a_selfcontained_subsecond_open/))

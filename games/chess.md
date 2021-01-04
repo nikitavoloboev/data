@@ -36,6 +36,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Maia Chess](https://maiachess.com/) - Human-like neural network chess engine. ([Code](https://github.com/CSSLab/maia-chess))
 - [OpeningRepertoire](https://github.com/zcesur/opening-repertoire) - Command line tool that generates opening repertoires from chess games in PGN format. ([HN](https://news.ycombinator.com/item?id=25338955))
 - [Quantum Chess (2016)](https://quantumfrontiers.com/2016/02/15/quantum-chess/)
+- [Quantum Chess Implemented in Rust](https://github.com/gmorenz/qc)
 - [python-chess](https://github.com/niklasf/python-chess) - Pure Python chess library with move generation, move validation and support for common formats.
 - [gym-chess](https://github.com/genyrosk/gym-chess) - Simple chess environment for openai/gym.
 - [A Beginner's Garden of Chess Openings (2002)](https://dwheeler.com/chess-openings/) ([HN](https://news.ycombinator.com/item?id=25446399))

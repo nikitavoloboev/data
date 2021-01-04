@@ -22,3 +22,6 @@
 - [BlockHook](https://github.com/yulingtianxia/BlockHook) - Hook Objective-C blocks. A powerful AOP tool.
 - [PyObjC](https://github.com/ronaldoussoren/pyobjc) - Python <-> Objective-C Bridge with bindings for macOS frameworks.
 - [Effective Objective-C 2.0 Book](https://www.effectiveobjectivec.com/) ([Code](https://github.com/effectiveobjc/code))
+- [Understanding Manual Retain Release in Objective-C (2020)](https://whackylabs.com/objc/2020/08/24/mrr-objc/)
+- [Objective-C Properties Problems (2020)](https://whackylabs.com/objc/2020/03/12/objc-properties/)
+- [Lost art of manual memory management (2019)](https://whackylabs.com/objc/mrr/arc/2019/12/27/manual-memory-objc/)

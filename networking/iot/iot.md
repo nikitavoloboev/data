@@ -54,3 +54,4 @@
 - [Zigbee Alliance](https://zigbeealliance.org/) - Standard-bearer of the open IoT.
 - [Zigbee-lua](https://github.com/hwhw/zigbee-lua) - Zigbee coordinator and tools for LuaJIT.
 - [IoT Security at home (2020)](https://security.christmas/2020/16)
+- [IoT: Internet-Optional Things (2021)](https://seancoates.com/blogs/internet-optional-things)

@@ -125,3 +125,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ergo](https://github.com/insipx/Ergo) - Light, simple theme for Zola made with a focus on writing. Inspired by svbtle.
 - [Engineering Blogs](https://engineeringblogs.xyz/) ([Code](https://github.com/peterc/engblogs))
 - [blogboard](https://blogboard.io/) - Engineering blogs from top tech companies. Search, discover, follow.
+- [Ghost](https://ghost.org/) - Turn your audience into a business.

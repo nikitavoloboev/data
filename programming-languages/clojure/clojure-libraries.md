@@ -20,6 +20,7 @@
 ## ML
 
 - [deep-diamond](https://github.com/uncomplicate/deep-diamond) - Fast Clojure Tensor & Deep Learning library.
+- [DataLinguist](https://github.com/simongray/datalinguist) - Stanford CoreNLP in idiomatic Clojure.
 
 ## Other
 
@@ -49,6 +50,7 @@
 - [Membrane](https://github.com/phronmophobic/membrane) - Platform agnostic clojure library for creating user interfaces.
 - [jme-clj](https://github.com/ertugrulcetin/jme-clj) - Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine.
 - [aws-api](https://github.com/cognitect-labs/aws-api) - Clojure library which provides programmatic access to AWS services from your Clojure program.
+- [alpha.spec](https://github.com/clojure/spec-alpha2) - Clojure library to describe the structure of data and functions.
 
 ## Links
 

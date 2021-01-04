@@ -156,3 +156,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [On Deck Podcaster Fellowship](https://www.beondeck.com/podcasters)
 - [Spotifeed](https://spotifeed.timdorr.com/) - Spotify Podcast RSS Feed Generator. ([Code](https://github.com/timdorr/spotifeed))
 - [Ask HN: Favorite Podcast Episode of 2020?](https://news.ycombinator.com/item?id=25553818)
+- [My audio-visual setup](https://danromero.org/av-setup/)

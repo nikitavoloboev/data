@@ -58,3 +58,5 @@
 - [Query2box](https://github.com/hyren/query2box) - Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings.
 - [Underlay](https://www.underlay.org/) - World’s distributed knowledge graph. ([Code](https://github.com/underlay/overview)) ([GitHub](https://github.com/underlay))
 - [Styx](https://github.com/underlay/styx) - Experimental graph store. Key/value store, where the keys are RDF IRI terms and the values are RDF datasets.
+- [Knowledge Graphs in NLP Emnlp 2020](https://mgalkin.medium.com/knowledge-graphs-in-nlp-emnlp-2020-2f98ec527738)
+- [StarE](https://github.com/migalkin/StarE) - Message Passing for Hyper-Relational Knowledge Graphs.

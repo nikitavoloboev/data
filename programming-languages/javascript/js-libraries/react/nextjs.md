@@ -141,3 +141,4 @@
 - [Build a site from scratch with Next.js, TypeScript, Emotion and Netlify](https://egghead.io/playlists/build-a-blog-with-next-js-typescript-emotion-and-netlify-adcc)
 - [next-client-script](https://github.com/amannn/next-client-script) - Supercharge the performance of your Next.js apps by using a minimal client runtime.
 - [Next Crud](https://github.com/premieroctet/next-crud) - Helper library that creates CRUD API routes with one simple function based on a Prisma model for Next.js.
+- [React Server Components in Next.js](https://github.com/vercel/next-server-components)

@@ -45,6 +45,8 @@
 - [IncrementalInference.jl](https://github.com/JuliaRobotics/IncrementalInference.jl) - Incremental non-parametric (and parametric) solution to factor graphs.
 - [FiniteDiff](https://github.com/JuliaDiff/FiniteDiff.jl) - Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support.
 - [LazySets.jl](https://github.com/JuliaReach/LazySets.jl) - Julia package for calculus with convex sets.
+- [Tullio.jl](https://github.com/mcabbott/Tullio.jl) - Flexible einsum macro. Understands many array operations written in index notation.
+- [Stheno](https://github.com/willtebbutt/Stheno.jl) - Probabilistic Programming with Gaussian processes in Julia.
 
 ## NLP
 
@@ -158,6 +160,8 @@
 - [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) - Convenient macros for in-place matrix operations in Julia.
 - [PGFPlotsX](https://github.com/KristofferC/PGFPlotsX.jl) - Julia package to generate publication quality figures using the LaTeX library PGFPlots.
 - [AcceleratedArrays.jl](https://github.com/andyferris/AcceleratedArrays.jl) - Arrays with acceleration indices.
+- [FLoops](https://github.com/JuliaFolds/FLoops.jl) - Fast sequential, threaded, and distributed for-loops for Julia—fold for humans.
+- [ParallelStencil](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs.
 
 ## Links
 

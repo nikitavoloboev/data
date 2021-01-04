@@ -22,6 +22,7 @@
 - [Ask HN: What's are your personal automations? (2020)](https://news.ycombinator.com/item?id=25381191)
 - [Robocorp](https://robocorp.com/) - Open source stack for simplifying automation. ([GitHub](https://github.com/robocorp))
 - [Automation and the Future of Work by Aaron Benanav](https://www.versobooks.com/books/3717-automation-and-the-future-of-work)
+- [The economic effects of automation aren’t what you think they are (2019)](https://www.singlelunch.com/2019/10/21/the-economic-effects-of-automation-arent-what-you-think-they-are/)
 
 ## Images
 

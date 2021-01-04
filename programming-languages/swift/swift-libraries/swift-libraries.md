@@ -135,6 +135,7 @@
 - [Jukebox](https://github.com/teodorpatras/Jukebox) - iOS audio player written in Swift.
 - [Turbo Native for iOS](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps.
 - [UserDefaultsSnapshot](https://github.com/VergeGroup/UserDefaultsSnapshot) - Library that enables us to create a snapshot of the values which UserDefaults manages.
+- [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces.
 
 ## macOS
 
@@ -538,6 +539,7 @@
 - [OpenTelemetry Swift](https://github.com/slashmo/opentelemetry-swift) - OpenTelemetry Tracer built for Swift Distributed Tracing.
 - [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine.
 - [RBBJSON](https://github.com/robb/RBBJSON) - Enables flexible JSON traversal at runtime and JSONPath-like querying for rapid prototyping.
+- [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy.
 
 ## Other (not lib)
 

@@ -396,3 +396,4 @@
 - [Build your own async primitive (2020)](https://tweedegolf.nl/blog/50/build-your-own-async-primitive) ([HN](https://news.ycombinator.com/item?id=25549549))
 - [Rust Prehistory Repo](https://github.com/graydon/rust-prehistory)
 - [Rust is now overall faster than C in benchmarks (2021)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html) ([HN](https://news.ycombinator.com/item?id=25623634))
+- [The Rust module system for Python users (2021)](https://blog.waleedkhan.name/rust-modules-for-python-users/)

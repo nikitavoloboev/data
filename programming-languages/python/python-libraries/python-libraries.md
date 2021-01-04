@@ -262,6 +262,8 @@
 - [Shellingham](https://github.com/sarugaku/shellingham) - Tool to Detect Surrounding Shell.
 - [Nested-Diff.py](https://github.com/mr-mixas/Nested-Diff.py) - Recursive diff for nested python structures.
 - [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming.
+- [awesome-pattern-matching](https://github.com/scravy/awesome-pattern-matching) - Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner.
+- [OSlash](https://github.com/dbrattli/OSlash) - Functors, Applicatives, And Monads in Python.
 
 ## Links
 

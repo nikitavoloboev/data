@@ -13,7 +13,7 @@
 - [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to hack smart home devices.
 - [Bear Stone Smart Home Documentation](https://github.com/CCOSTAN/Home-AssistantConfig)
 - [Roborock](https://en.roborock.com/) - Automatic vacuum cleaner robot.
-- [AppDaemon](https://github.com/home-assistant/appdaemon) - Loosely coupled, multi-threaded, sandboxed python execution environment for writing automation apps for various types of Home Automation Software.
+- [AppDaemon](https://github.com/AppDaemon/appdaemon) - Python Apps for Home Automation.
 - [ESPHome](https://esphome.io/) - System to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. ([Code](https://github.com/esphome/esphome))
 - [Home Assistant with Google Auth and Assistant (2020)](https://mwitkow.me/posts/2020-04-25_homeassistant_google/)
 - [My IoT](https://github.com/eigenein/my-iot-rs) - Yet another home automation. Written in Rust. ([Docs](https://eigenein.com/my-iot-rs/html/))
@@ -29,3 +29,4 @@
 - [IoT Unravelled Part 1: It's a Mess but Then There's Home Assistant (2020)](https://www.troyhunt.com/iot-unravelled-part-1-its-a-mess-but-then-theres-home-assistant/) ([HN](https://news.ycombinator.com/item?id=25184763))
 - [Home Assistant on Steroids Config](https://github.com/UbhiTS/ha-config-ataraxis)
 - [Home Assistant Conference (2020)](https://www.youtube.com/watch?v=xSB_MuKkgxE) ([Web](https://www.home-assistant.io/conference/))
+- [Keeper](https://github.com/nragon/keeper) - Service to monitor and maintain MQTT and HomeAssistant.

@@ -11,7 +11,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Awesome Online IDE](https://github.com/styfle/awesome-online-ide)
 - [Iota](https://github.com/gchp/iota) - Terminal-based text editor written in Rust.
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
-- [Kakoune](https://github.com/mawww/kakoune) - Code editor that implements Vi’s "keystrokes as a text editing language" model. ([HN](https://news.ycombinator.com/item?id=19313794)) ([kak-lsp - Kakoune Language Server Protocol Client.](https://github.com/kak-lsp/kak-lsp)) ([plug.kak - Plugin manager for Kakoune](https://github.com/robertmeta/plug.kak))
+- [Kakoune](https://github.com/mawww/kakoune) - Code editor that implements Vi’s "keystrokes as a text editing language" model. ([HN](https://news.ycombinator.com/item?id=19313794)) ([kak-lsp - Kakoune Language Server Protocol Client.](https://github.com/kak-lsp/kak-lsp)) ([plug.kak - Plugin manager for Kakoune](https://github.com/robertmeta/plug.kak)) ([The first two hours of Kakoune in two minutes](https://kakoune-editor.github.io/community-articles/2021/01/01/first_two_hours_in_two_minutes.html))
 - [Lamdu](https://github.com/lamdu/lamdu) - Aims to create a next-generation, live programming environment that radically improves the programming experience.
 - [Kibi](https://github.com/ilai-deutel/kibi) - Text editor in ≤1024 lines of code, written in Rust.
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor that powers VS Code. ([Code](https://github.com/microsoft/monaco-editor))
@@ -35,6 +35,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Barliman](https://github.com/webyrd/Barliman) - Prototype "smart editor" that performs real-time program synthesis.
 - [Sapling](https://github.com/kneasle/sapling) - Highly experimental code editor where you edit code, not text.
 - [Code Browser](https://tibleiz.net/code-browser/) - Folding Text Editor. ([HN](https://news.ycombinator.com/item?id=25561688))
+- [Scribble](https://github.com/ryangjchandler/scribble) - Experimental terminal text-editor written in Rust.
 
 ## Web
 

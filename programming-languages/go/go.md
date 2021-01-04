@@ -403,3 +403,4 @@ Go promotes composition over inheritance.
 - [Athens](https://github.com/gomods/athens) - Go module datastore and proxy.
 - [Unsafe string interning in Go (2020)](https://mdlayher.com/blog/unsafe-string-interning-in-go/)
 - [go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write Go using clean architecture.
+- [Learn Go in 5 mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)

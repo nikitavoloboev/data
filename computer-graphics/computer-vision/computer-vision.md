@@ -197,3 +197,6 @@
 - [Norfair](https://github.com/tryolabs/norfair) - Customizable lightweight Python library for real-time 2D object tracking.
 - [Universal Style Transfer in PyTorch](https://github.com/sunshineatnoon/PytorchWCT)
 - [NVIDIA Deep learning Dataset Synthesizer (NDDS)](https://github.com/NVIDIA/Dataset_Synthesizer)
+- [Object Detection at 2530 FPS with TensorRT and 8-Bit Quantization (2020)](https://paulbridger.com/posts/tensorrt-object-detection-quantized/)
+- [HTML4Vision](https://github.com/mtli/HTML4Vision) - Simple HTML visualization tool for computer vision research.
+- [Soft-IntroVAE: Analyzing and Improving Introspective Variational Autoencoders](https://github.com/taldatech/soft-intro-vae-pytorch)

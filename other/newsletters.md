@@ -14,6 +14,7 @@
 - [Listmonk](https://listmonk.app/) - Self-hosted newsletter + mailing list manager. ([Code](https://github.com/knadh/listmonk))
 - [news-api](https://github.com/tj/news-api) - Go newsletter API backed by DynamoDB.
 - [Mailbrew](https://mailbrew.com/) - Receive the best content from the sites and apps you love in beautiful, automated, newsletters. ([Tech stack](https://twitter.com/frankdilo/status/1318206157006176258))
+- [Paisley](https://github.com/uduakabaci/Paisley) - Open-source alternative to Mailbrew built with freedom in mind.
 - [Unreadit](https://unreadit.com/) - Curated weekly newsletters.
 - [Substack](https://substack.com/) - Start a newsletter. Build your community. Make money from subscriptions. Publishing is free, with no limits. We only make money when you do. ([HN](https://news.ycombinator.com/item?id=16326411))
 - [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/) - Notes and tips on how not to be a newsletter.

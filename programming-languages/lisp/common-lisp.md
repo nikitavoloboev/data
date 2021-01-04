@@ -43,3 +43,4 @@
 - [Cakelisp](https://github.com/makuto/cakelisp) - Performance-oriented Lisp-like language where I can have my cake, and eat it too. The goal is a metaprogrammable, hot-reloadable, non-garbage-collected language ideal for high performance, iteratively-developed programs (especially games).
 - [Trivia](https://github.com/guicho271828/trivia) - Pattern Matcher Compatible with Optima.
 - [Nile](https://github.com/damelang/nile) - Programming Language for Declarative Stream Processing in Media Applications.
+- [Common Lisp implementation of Google's protocol buffers](https://github.com/brown/protobuf)

@@ -412,6 +412,9 @@
 - [async-tag](https://github.com/WebReflection/async-tag) - Resolves template literals tag values before applying a generic tag.
 - [serialize-error](https://github.com/sindresorhus/serialize-error) - Serialize/deserialize an error into a plain object.
 - [errorstacks](https://github.com/marvinhagemeister/errorstacks) - Tiny library to parse error stack traces.
+- [Ape-ECS](https://github.com/fritzy/ape-ecs) - Entity-Component-System library for JavaScript.
+- [rrule.js](https://github.com/jakubroztocil/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. ([Demo](https://jakubroztocil.github.io/rrule/))
+- [scroller](https://github.com/rdmurphy/scroller) - Super-tiny library for your scrollytelling needs.
 
 ## Links
 

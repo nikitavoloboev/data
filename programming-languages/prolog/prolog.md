@@ -23,3 +23,4 @@
 - [Implementation of Prolog in TypeScript](https://github.com/kkty/prolog)
 - [Mycroft](https://github.com/enkiv2/mycroft) - Prolog-like language with compound truth value logic.
 - [Simple Prolog implementation in Rust](https://github.com/mb64/prolog)
+- [Markus Triska on constraints and the power of Prolog (2021)](https://thesearch.space/episodes/4-markus-triska-on-constraints-and-the-power-of-prolog)

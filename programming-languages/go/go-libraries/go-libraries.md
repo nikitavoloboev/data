@@ -36,6 +36,7 @@
 
 ## Test
 
+- [is](https://github.com/matryer/is) - Professional lightweight testing mini-framework for Go.
 - [go-cmp](https://github.com/google/go-cmp) - Package for equality of Go values.
 - [check](https://github.com/go-check/check) - Rich testing for the Go language.
 - [go-mutetesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
@@ -656,6 +657,8 @@
 - [gocelery](https://github.com/gocelery/gocelery) - Go Client/Server for Celery Distributed Task Queue.
 - [go-concise-encoding](https://github.com/kstenerud/go-concise-encoding) - Go implementation of Concise Binary and Text Encoding.
 - [fswatch](https://github.com/andreaskoch/go-fswatch) - Go library for monitoring filesystem changes that does not depend on inotify.
+- [GoJay](https://github.com/francoispqt/gojay) - Performant JSON encoder/decoder for Go.
+- [gg-git](https://github.com/gg-scm/gg-git) - High-level interface for interacting with a Git subprocess in Go.
 
 ## Links
 

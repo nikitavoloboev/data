@@ -22,3 +22,4 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [Skin Care routine rec](https://twitter.com/abbyfuller/status/1264619300054134784)
 - [Lily Collins's Day-to-Night French Girl Look (2020)](https://www.youtube.com/watch?v=zpDuNzO_rwA)
 - [Liah Yoo YouTube](https://www.youtube.com/c/LiahYoo/videos) - Videos to make taking care of yourself more approachable by offering skincare, self-care, and lifestyle tips.
+- [What are some small changes you made to your routine that had an impact on your skin? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/kpobqa/miscellaneous_what_are_some_small_changes_you/)

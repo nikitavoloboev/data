@@ -11,5 +11,5 @@
 - [Apollo Client 3 State Management Examples](https://github.com/apollographql/ac3-state-management-examples)
 - [workers-graphql-server](https://github.com/signalnerve/workers-graphql-server) - Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers.
 - [Announcing the Release of Apollo Client 3.0 (2020)](https://www.apollographql.com/blog/announcing-the-release-of-apollo-client-3-0/)
-- [Apollo platform tutorial app](https://www.apollographql.com/docs/tutorial/introduction/) ([Code](https://github.com/apollographql/fullstack-tutorial))
+- [Apollo platform tutorial app](https://www.apollographql.com/docs/tutorial/introduction/) ([Code](https://github.com/apollographql/fullstack-tutorial)) ([Code 2](https://github.com/nikolasburk/apollo-server-livestream))
 - [Apollo Studio: A GraphQL IDE for every environment (2020)](https://www.apollographql.com/blog/apollo-studio-a-graphql-ide-for-every-environment/)

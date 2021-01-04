@@ -26,3 +26,4 @@
 - [wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port.
 - [TCPProbe](https://github.com/mehrdadrad/tcpprobe) - TCP tool for network performance and path monitoring, including socket statistics.
 - [BerthaD](https://github.com/bertha/berthad) - Simple, fast, no-nonsense TCP server to store blobs of data by its SHA256 hash.
+- [Chisel](https://github.com/jpillora/chisel) - Fast TCP/UDP Tunnel, Transported over HTTP, Secured via SSH.

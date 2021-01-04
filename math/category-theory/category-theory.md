@@ -103,6 +103,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [ACT 2020 Recordings](https://www.youtube.com/playlist?list=PLCOXjXDLt3pYot9VNdLlZqGajHyZUywdI)
 - [David Jaz Myers: Open dynamical systems, trajectories and hierarchical planning (2020)](https://www.youtube.com/watch?v=3FxeY5DbPn0)
 - [Quiver](https://q.uiver.app/) - Modern commutative diagram editor. ([Code](https://github.com/varkor/quiver)) ([HN](https://news.ycombinator.com/item?id=25213201))
+- [Applied Category Theory 2021](https://johncarlosbaez.wordpress.com/2021/01/02/applied-category-theory-2021-adjoint-school/)
 
 ## Images
 

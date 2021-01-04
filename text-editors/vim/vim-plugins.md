@@ -130,6 +130,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - Neovim statusline plugin written in lua.
 - [Lush](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 - [neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance.
+- [Gruvbox 8](https://github.com/lifepillar/vim-gruvbox8) - Simplified and optimized Gruvbox colorscheme for Vim.
 
 ## Syntax
 

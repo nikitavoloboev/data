@@ -89,6 +89,7 @@
 - [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 - [Spotify Rust 2](https://github.com/plietar/librespot)
 - [Spotiy iOS SDK](https://github.com/spotify/ios-sdk)
+- [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Google News Python](https://github.com/kotartemiy/pygooglenews)
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
@@ -110,6 +111,7 @@
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
+- [Typeform JS SDK](https://github.com/Typeform/js-api-client)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
 - [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.
 - [Vonage API](https://developer.nexmo.com/) - Everything you need to build connected applications. ([Code](https://github.com/Nexmo/nexmo-developer))
@@ -187,3 +189,5 @@
 - [Apache APISIX](https://github.com/apache/apisix) - Dynamic, real-time, high-performance API gateway, based on the Nginx library and etcd. ([Web](https://apisix.apache.org/))
 - [APIsFinder](https://www.apisfinder.com/) - Find Over 680 public and open REST APIs for developers. ([Code](https://github.com/Charlie85270/APIFinder))
 - [APIs All the Way Down (2020)](https://notboring.substack.com/p/apis-all-the-way-down)
+- [What's good about offset pagination; designing parallel cursor-based web APIs](https://brandur.org/fragments/offset-pagination) ([HN](https://news.ycombinator.com/item?id=25623125))
+- [The API Book](https://twirl.github.io/The-API-Book/docs/API.en.html) ([Code](https://github.com/twirl/The-API-Book))

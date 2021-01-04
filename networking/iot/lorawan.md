@@ -55,3 +55,7 @@
 - [Connecting Your LoRaWAN Devices from The Things Stack to AWS IoT Core (2020)](https://aws.amazon.com/blogs/apn/connecting-your-lorawan-devices-from-the-things-stack-to-aws-iot-core/)
 - [LORIOT](https://www.loriot.io/) - LoRaWAN Network Server Provider.
 - [CellSol](https://github.com/RbtsEvrwhr-Riley/CellSol/) - Long Range Solar Powered Communications Network. LoRa based mesh. ([Docs](https://www.f3.to/cellsol/))
+- [BastWAN](https://github.com/ElectronicCats/BastWAN) - Best in the world format Feather and LoRa with a RAK4260 and LoRaWAN.
+- [Schema for modeling LoRaWAN devices](https://github.com/lorawan-schema/draft-devices)
+- [TTN Mapper](https://ttnmapper.org/) ([Code](https://github.com/ttnmapper/ttnmapper-web))
+- [LoFence](https://github.com/kiu/lofence) - LoRaWAN capable IoT electric fence monitoring system running on the The Things Network.

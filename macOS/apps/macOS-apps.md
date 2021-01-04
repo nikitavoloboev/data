@@ -105,6 +105,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [ViDL](https://omz-software.com/vidl/) - Download videos from YouTube and hundreds of other websites for offline viewing.
 - [FSMonitor](https://fsmonitor.com/) - macOS app that monitors all changes to the file system.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Application launcher for macOS. ([Assimilated Theme](https://github.com/benjaminwil/assimilated))
+- [Irradiated Software macOS apps](https://www.irradiatedsoftware.com/labs/)
 
 ## Links
 

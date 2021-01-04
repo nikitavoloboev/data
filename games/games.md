@@ -95,6 +95,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What were the five most important video games to you throughout your youth/teen years? (2020)](https://twitter.com/jakeregal/status/1260449257821216768)
 - [PS story game recs](https://twitter.com/dan_abramov/status/1263968919494238215)
 - [Ask HN: What's that Game that predicts your choices? (2020)](https://news.ycombinator.com/item?id=25332641)
+- [A comparison of city building games (2021)](https://twitter.com/alfred_twu/status/1345955063353597954) ([HN](https://news.ycombinator.com/item?id=25632642))
 
 ## Links
 

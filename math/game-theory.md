@@ -8,3 +8,4 @@
 - [Brief Introduction to the Basics of Game Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1968579) ([HN](https://news.ycombinator.com/item?id=24831462))
 - [Game Theory on Networks](https://ingomarquart.github.io/TOM-GamesOnNetworks/)
 - [Mathematical Game Theory (2020)](https://arxiv.org/abs/2012.01850)
+- [In Game Theory, No Clear Path to Equilibrium (2017)](https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/07/in-game-theory-no-clear-path-to-equilibrium-20170718.pdf)

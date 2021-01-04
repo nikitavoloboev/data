@@ -36,3 +36,5 @@
 - [Encapsulating Ruby on Rails views (2020)](https://github.blog/2020-12-15-encapsulating-ruby-on-rails-views/)
 - [How I Upgrade Ruby on Rails (2020)](https://t27duck.com/posts/8-how-i-upgrade-ruby-on-rails) ([Lobsters](https://lobste.rs/s/ut2i1t/how_i_upgrade_ruby_on_rails))
 - [Rails Tutorial](https://www.railstutorial.org/)
+- [Rails Settings Cached](https://github.com/huacnlee/rails-settings-cached) - Global settings for your Rails application.
+- [Fie](https://github.com/raen79/fie) - Rails-centric frontend framework running over a permanent WebSocket connection.

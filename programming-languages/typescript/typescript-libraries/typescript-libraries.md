@@ -12,7 +12,7 @@
 - [morphic-ts](https://github.com/sledorze/morphic-ts) - Adresses the pain of writing and maintaining derived code for business logic.
 - [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
 - [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
-- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12))
+- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts))
 - [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
 - [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding. ([Web](https://gcanti.github.io/io-ts/))
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.

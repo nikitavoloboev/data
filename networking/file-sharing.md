@@ -48,3 +48,4 @@
 - [Hyp](https://github.com/hypercore-protocol/cli/) - CLI for peer-to-peer file sharing (and more) using the Hypercore Protocol. ([Demo](https://www.youtube.com/watch?v=SVk1uIQxOO8))
 - [Snapdrop](https://snapdrop.net/) - Local file sharing in your browser. Inspired by Apple's Airdrop. ([Code](https://github.com/RobinLinus/snapdrop))
 - [Shary](https://github.com/wilk/shary) - Share your files effortlessly with QRCodes.
+- [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone.

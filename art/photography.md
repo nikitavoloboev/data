@@ -96,3 +96,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [George Jejeya Photography Blog](https://jejeya.pictures/blog)
 - [darktable](https://www.darktable.org/) - Open source photography workflow application and raw developer. ([Code](https://github.com/darktable-org/darktable))
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self-Hosted Google Photos Alternative. ([HN](https://news.ycombinator.com/item?id=25588712))
+- [Awesome Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)

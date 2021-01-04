@@ -53,3 +53,4 @@
 - [State of the Art AI](https://www.stateoftheart.ai/) - Open-data and free platform built by the research community to facilitate the collaborative development of AI.
 - [OpenCog](https://github.com/opencog/opencog) - Framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI). In Scheme.
 - [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
+- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM) ([Code](https://github.com/abhshkdz/ai-deadlines))

@@ -36,3 +36,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Tips for a Better Life (2020)](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) ([HN](https://news.ycombinator.com/item?id=25518730))
 - [What If You Could Do It All Over? (2020)](https://www.newyorker.com/magazine/2020/12/21/what-if-you-could-do-it-all-over) ([HN](https://news.ycombinator.com/item?id=25547448))
 - [What Is Life? (2019)](https://berthub.eu/articles/posts/what-is-life/) ([HN](https://news.ycombinator.com/item?id=25592916))
+- [Powerful Life Skills (2021)](https://neilkakkar.com/powerful-life-skills.html)

@@ -38,3 +38,4 @@
 - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 - [The Use Of assert() In SQLite](https://sqlite.org/assert.html)
 - [simple-graph](https://github.com/dpapathanasiou/simple-graph) - Graph database in SQLite. ([Lobsters](https://lobste.rs/s/x0fk0a/simple_graph_graph_database_sqlite)) ([HN](https://news.ycombinator.com/item?id=25544397))
+- [SQLite is 35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)

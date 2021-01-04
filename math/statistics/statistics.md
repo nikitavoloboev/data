@@ -78,3 +78,4 @@
 - [Uncertainty Baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
 - [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization. ([Tweet](https://twitter.com/YoungseogC/status/1341446222545100801))
 - [The medical test paradox: Can redesigning Bayes rule help? (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
+- [Probabilistic Machine Learning](https://github.com/probml/pml-book) - Book series by Kevin Murphy.

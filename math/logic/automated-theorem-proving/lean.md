@@ -26,3 +26,4 @@
 - [Ellen's dots and boxes project](https://github.com/ImperialCollegeLondon/dots_and_boxes) - Contains all the code written for my final year research project in Mathematics, "Optimal gameplay in Dots and Boxes in Lean".
 - [Building the Mathematical Library of the Future (2020)](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
 - [A Review of the Lean Theorem Prover (2018)](https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/) ([HN](https://news.ycombinator.com/item?id=25550240))
+- [Lean Together 2021](https://leanprover-community.github.io/lt2021/) - Meeting for Lean users and other formalizers. ([Code](https://github.com/leanprover-community/lt2021))

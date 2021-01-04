@@ -18,3 +18,4 @@
 - [dgel](https://github.com/dmnsgn/dgel) - WebGPU engine.
 - [WebGPU Experiments](https://github.com/Twinklebear/webgpu-experiments)
 - [YUE](https://github.com/maierfelix/YUE) - Personal WebGPU based 3D renderer.
+- [WebGPU Clustered Shading](https://github.com/toji/webgpu-clustered-shading)

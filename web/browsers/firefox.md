@@ -19,3 +19,4 @@
 - [Firefox CSS Overflow Debugger](https://twitter.com/violasong/status/1314406711696912386)
 - [Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/) ([Code](https://github.com/mozilla/addons-server))
 - [Firefox Was Always Enough (2020)](https://www.ianbicking.org/blog/2020/11/firefox-was-always-enough.html) ([HN](https://news.ycombinator.com/item?id=25443152))
+- [addons-linter](https://github.com/mozilla/addons-linter) - Firefox Add-ons linter, written in JavaScript.
