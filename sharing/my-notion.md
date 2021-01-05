@@ -6,7 +6,7 @@
 - [Papers / Courses](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431) - [Research papers](../research-papers/research-papers.md) & [courses](../courses/courses.md) I am learning or want to learn.
 - [Jobs](https://www.notion.so/Jobs-8f4225788b144da49a0c2ee37576507c) - Interesting job offers.
 
-# My [Trello](https://trello.com/nikivi) boards
+## My [Trello](https://trello.com/nikivi) boards
 
 - [Ideas](https://trello.com/b/alB1ryRP)
 - [Learn](https://trello.com/b/cu32qF3q)

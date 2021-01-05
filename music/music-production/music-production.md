@@ -48,6 +48,7 @@
 - [aiotone](https://github.com/ambv/aiotone) - Audio synthesis and MIDI processing tools in AsyncIO.
 - [Linnstrument](https://www.rogerlinndesign.com/linnstrument) - Expressive MIDI controller for musical performance. ([Firmware of LinnStrument](https://github.com/rogerlinndesign/linnstrument-firmware))
 - [MusE](https://github.com/muse-sequencer/muse) - Digital audio workstation with support for both Audio and MIDI. ([Web](https://muse-sequencer.github.io/))
+- [Handel](https://handel-pl.github.io/) - Procedural programming language for writing songs in browser. ([HN](https://news.ycombinator.com/item?id=25641420))
 
 ## Inspiration
 
