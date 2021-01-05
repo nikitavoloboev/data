@@ -69,7 +69,7 @@
 - [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system.
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
-- [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines.
+- [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines. ([HN](https://news.ycombinator.com/item?id=25642062))
 - [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.

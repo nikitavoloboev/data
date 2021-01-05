@@ -48,3 +48,4 @@
 - [Greenflare SEO Web Crawler](https://github.com/beb7/gflare-tk) - Open-Source Python Based SEO Web Crawler. ([Web](https://greenflare.io/))
 - [Top SEO myths to kiss goodbye in 2020](https://tabtimize.com/top-10-seo-myths-to-kiss-goodbye-in-2020/)
 - [Demystifying SEO with experiments (2015)](https://medium.com/pinterest-engineering/demystifying-seo-with-experiments-a183b325cf4c)
+- [My Google Traffic Has Fallen to Zero (2020)](https://www.goodcheapandfast.com/2020) ([HN](https://news.ycombinator.com/item?id=25640217))

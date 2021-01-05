@@ -14,6 +14,10 @@ I take this idea further and define these kind of hyper keys but for **every sin
 
 I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with [Goku](https://github.com/yqrashawn/GokuRakuJoudo).
 
+## Interesting configs
+
+- [Nikolai](https://gist.github.com/nikolai-cc/02f6b070972840323ae355ef847e91a6)
+
 ## Notes
 
 - I can embed simultaneous key mappings inside sticky key definitions.

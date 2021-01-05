@@ -44,3 +44,4 @@
 - [Titan](https://github.com/distributedio/titan) - Distributed implementation of Redis compatible layer based on TiKV.
 - [fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes.
 - [Tendis](https://github.com/Tencent/Tendis) - High-performance distributed storage system which is fully compatible with the Redis protocol.
+- [First version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
