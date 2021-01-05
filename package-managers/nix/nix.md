@@ -155,3 +155,4 @@
 - [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix) - One-stop reference to build TodoMVC application inside the Nix world.
 - [Trustix: Distributed trust and reproducibility tracking for binary caches (2020)](https://www.tweag.io/blog/2020-12-16-trustix-announcement/)
 - [Building with Nix Flakes for, eh .. reasons (2021)](https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/)
+- [What is the right approach to handling binary, non-executable data dependencies of packages? (2021)](https://www.reddit.com/r/NixOS/comments/kqe57g/what_is_the_right_approach_to_handling_binary/)

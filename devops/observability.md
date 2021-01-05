@@ -14,3 +14,4 @@
 - [Adaptive Request Concurrency. Resilient observability at scale. (2020)](https://vector.dev/blog/adaptive-request-concurrency/)
 - [Observability, Getting Started - 50 Free Access and Open-Source Solutions (2020)](https://haydenjames.io/observability-getting-started-free-access-and-open-source-solutions/)
 - [tobs](https://github.com/timescale/tobs) - Observability Stack for Kubernetes.
+- [Sensu](https://sensu.io/) - Observability Pipeline that delivers monitoring as code on any cloud. ([Code](https://github.com/sensu/sensu-go))

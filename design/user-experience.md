@@ -57,3 +57,4 @@
 - [Types of Dark Pattern](https://darkpatterns.org/types-of-dark-pattern.html)
 - [Why Jira Sucks](https://whyjirasucks.com/) ([HN](https://news.ycombinator.com/item?id=25590846))
 - [Grumpy Website](https://grumpy.website/) - Blog about design fails / gripes / anitpatterns.
+- [Built for Mars](https://builtformars.com/) - UX matters. On a mission to help the world build better user experiences by demystifying UX.

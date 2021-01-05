@@ -143,6 +143,8 @@
 - [React Leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [React ApexCharts](https://github.com/apexcharts/react-apexcharts) - React.js wrapper for ApexCharts to build interactive visualizations in react.
 - [dnd kit](https://github.com/clauderic/dnd-kit) - Modern drag and drop toolkit for React. ([Web](https://dndkit.com/))
+- [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between DOM elements in React.
+- [React Layout Components](https://github.com/kripod/react-layout-components) - Layout components for React, primarily inspired by Every Layout.
 
 ## Links
 

@@ -101,3 +101,4 @@
 - [Cider 1.0 (2020)](https://metaredux.com/posts/2020/12/28/cider-1-0.html) ([HN](https://news.ycombinator.com/item?id=25568181))
 - [Why Clojure? (2018)](https://briansunter.com/blog/why-clojure/) ([HN](https://news.ycombinator.com/item?id=25622528))
 - [Clojure DSL resources](https://github.com/simongray/clojure-dsl-resources)
+- [nREPL](https://github.com/nrepl/nrepl) - Clojure network REPL that provides a server and client, along with some common APIs.

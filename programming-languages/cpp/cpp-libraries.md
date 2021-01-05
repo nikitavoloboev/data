@@ -165,3 +165,4 @@
 - [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs) ([HN](https://news.ycombinator.com/item?id=24892400))
 - [Sandboxed API](https://github.com/google/sandboxed-api) - Generates sandboxes for C/C++ libraries automatically.
 - [The Art of C++](https://github.com/taocpp) - Collection of high-quality C++ libraries. ([Web](https://taocpp.github.io/))
+- [Conan](https://github.com/conan-io/conan) - Decentralized, open-source, C/C++ package manager. ([Web](https://conan.io/))

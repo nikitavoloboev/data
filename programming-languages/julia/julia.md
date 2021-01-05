@@ -66,3 +66,4 @@
 - [A review of the Julia language](https://danluu.com/julialang/)
 - [Thoughts on Julia after 2 weeks (2020)](https://liorsinai.github.io/coding/2020/12/15/julia-review.html)
 - [Julia2Nix](https://github.com/thomasjm/julia2nix) - Generate Nix expressions for building a Julia depot with a set of packages.
+- [Tutorial on Precompilation for Julia (2021)](https://julialang.org/blog/2021/01/precompile_tutorial/)

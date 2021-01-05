@@ -264,6 +264,7 @@
 - [greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming.
 - [awesome-pattern-matching](https://github.com/scravy/awesome-pattern-matching) - Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner.
 - [OSlash](https://github.com/dbrattli/OSlash) - Functors, Applicatives, And Monads in Python.
+- [nodevectors](https://github.com/VHRanger/nodevectors) - Implements fast/scalable node embedding algorithms.
 
 ## Links
 

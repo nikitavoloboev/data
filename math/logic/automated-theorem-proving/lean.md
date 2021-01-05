@@ -27,3 +27,4 @@
 - [Building the Mathematical Library of the Future (2020)](https://www.quantamagazine.org/building-the-mathematical-library-of-the-future-20201001/)
 - [A Review of the Lean Theorem Prover (2018)](https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/) ([HN](https://news.ycombinator.com/item?id=25550240))
 - [Lean Together 2021](https://leanprover-community.github.io/lt2021/) - Meeting for Lean users and other formalizers. ([Code](https://github.com/leanprover-community/lt2021))
+- [Advent of Code 2020 puzzles in Lean 4](https://github.com/rwbarton/advent-of-lean-4)

@@ -126,3 +126,5 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Engineering Blogs](https://engineeringblogs.xyz/) ([Code](https://github.com/peterc/engblogs))
 - [blogboard](https://blogboard.io/) - Engineering blogs from top tech companies. Search, discover, follow.
 - [Ghost](https://ghost.org/) - Turn your audience into a business.
+- [How to Create a Distill Article](https://distill.pub/guide/) ([Code](https://github.com/distillpub/template))
+- [Distill Post Example](https://github.com/distillpub/post--example) - Example Distill article repository. clone, rename, start writing.

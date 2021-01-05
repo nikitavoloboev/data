@@ -119,6 +119,7 @@
 - [AIStore](https://github.com/NVIDIA/aistore) - Lightweight object storage system with the capability to linearly scale-out with each added storage node and a special focus on petascale deep learning. ([Web](https://nvidia.github.io/aistore/))
 - [DatenLord](https://github.com/datenlord/datenlord) - Computing Defined Storage, an application-orientated, cloud-native distributed storage system.
 - [AgateDB](https://github.com/tikv/agatedb) - Embeddable, persistent and fast key-value (KV) database written in pure Rust.
+- [TensorBase](https://github.com/tensorbase/tensorbase) - Modern big data warehouse with performance in its core mind. ([Web](https://tensorbase.io/))
 
 ## Tools
 

@@ -2,17 +2,15 @@
 
 For my own personal finance, I budget & manage my money with [Monzo](https://monzo.com) (UK/US) & [N26](https://n26.com/en-gb/) (EU).
 
-I try to keep a minimum of 5,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and my business. I also try to support open source projects & people I love.
+I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and ideas that interest me. I also support open source projects & people I love.
 
 I use [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat manage my spending but not proactively. I try to be mindful with my spending at all times and try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
 
 ## Ongoing subscriptions
 
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up.
 
-![](https://i.imgur.com/jqrRhJe.jpg)
-
-![](https://i.imgur.com/Gz7jCjA.png)
+![](https://i.imgur.com/bnSKuB0.png)
 
 ## Tracking what to buy next
 
@@ -78,3 +76,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Stripe’s payments APIs: the first ten years (2020)](https://stripe.com/blog/payment-api-design) ([HN](https://news.ycombinator.com/item?id=25455638))
 - [Ask HN: About Financial Inequity (2020)](https://news.ycombinator.com/item?id=25504017)
 - [hledger](https://github.com/simonmichael/hledger) - Cross-platform accounting software for both power users and folks new to accounting. ([Docs](https://hledger.org/))
+- [Mintable](https://github.com/kevinschaich/mintable) - Automate your personal finances – for free, with no ads, and no data collection.

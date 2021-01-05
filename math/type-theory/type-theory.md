@@ -107,3 +107,4 @@
 - [An extended type system with lambda-typed lambda-expressions (2020)](https://arxiv.org/abs/1803.10143)
 - [lambda-dti](https://github.com/ymyzk/lambda-dti) - Interpreter of the ITGL with dynamic type inference.
 - [Session Types without Sophistry](http://okmij.org/ftp/meta-programming/sessions/description.pdf)
+- [Finiteness in Cubical Type Theory (2020)](https://oisdk.github.io/masters-thesis/paper.pdf) ([Code](https://github.com/oisdk/masters-thesis))

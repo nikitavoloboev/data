@@ -182,3 +182,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub's REST API OpenAPI Description](https://github.com/github/rest-api-description)
 - [watch-rss](https://github.com/azu/watch-rss) - Subscribe your watched GitHub Repository's releases as RSS feeds on Inoreader.
 - [Building a self-updating GitHub README](https://brandur.org/fragments/self-updating-github-readme)
+- [Relnotes](https://github.com/EmbarkStudios/relnotes) - Automatic GitHub Release Notes.

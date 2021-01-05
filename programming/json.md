@@ -43,3 +43,4 @@
 - [JQL](https://github.com/yamafaktory/jql) - JSON Query Language CLI tool.
 - [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
 - [Parsing JSON at the CLI: A Practical Introduction to jq and more (2020)](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/) ([HN](https://news.ycombinator.com/item?id=25498364))
+- [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - Rules engine expressed in JSON.

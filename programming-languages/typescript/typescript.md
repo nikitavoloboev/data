@@ -128,6 +128,7 @@
 - [A case study on strict null checks (2020)](https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/) ([HN](https://news.ycombinator.com/item?id=25458777))
 - [TypeScript LSIF indexer](https://github.com/sourcegraph/lsif-node)
 - [ttypescript (Transformer TypeScript)](https://github.com/cevek/ttypescript) - TypeScript tool to use custom transformers in the tsconfig.json.
+- [json2ts](http://json2ts.com/) - Generate TypeScript interfaces from JSON.
 
 ## Images
 

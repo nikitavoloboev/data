@@ -18,6 +18,7 @@
 - [FluxTraining.jl](https://github.com/lorenzoh/FluxTraining.jl) - Flexible neural net training library inspired by fast.ai. ([Docs](https://lorenzoh.github.io/FluxTraining.jl/dev/README.html))
 - [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) - Local, global, and beyond optimization for scientific machine learning (SciML).
 - [DiffEqGPU](https://github.com/SciML/DiffEqGPU.jl) - GPU-acceleration routines for DifferentialEquations.jl and the broader SciML scientific machine learning ecosystem.
+- [Avalon](https://github.com/dfdx/Avalon.jl) - Deep learning library in Julia with focus on high performance and interoperability with existing DL frameworks.
 
 ## Math
 
@@ -162,6 +163,8 @@
 - [AcceleratedArrays.jl](https://github.com/andyferris/AcceleratedArrays.jl) - Arrays with acceleration indices.
 - [FLoops](https://github.com/JuliaFolds/FLoops.jl) - Fast sequential, threaded, and distributed for-loops for Julia—fold for humans.
 - [ParallelStencil](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs.
+- [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Algorithms from circuit theory to predict connectivity in heterogeneous landscapes. ([Web](https://circuitscape.org/))
+- [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) - Arrays for working with categorical data (both nominal and ordinal).
 
 ## Links
 

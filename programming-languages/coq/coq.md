@@ -49,3 +49,4 @@
 - [coq-procrastination](https://github.com/Armael/coq-procrastination) - Small Coq library for collecting side conditions and deferring their proof.
 - [Finite maps](https://github.com/math-comp/finmap) - Finite sets, finite maps, multisets and generic sets.
 - [Alectryon](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+- [Certified semantics for relational programming workout](https://github.com/dboulytchev/miniKanren-coq)

@@ -88,7 +88,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Extract the system libraries on macOS Big Sur (2020)](https://lapcatsoftware.com/articles/bigsur.html)
 - [Apple Technologies Search](https://developer.apple.com/documentation/technologies)
 - [AquaticPrime](https://github.com/bdrister/AquaticPrime) - Mac software licensing code using cryptographically signed license files.
-- [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework.
+- [SimpleVM](https://github.com/KhaosT/SimpleVM) - Sample code for Virtualization framework. ([Fork](https://github.com/danczar/SimpleVM))
 - [macOS 11 Big Sur UI Kit](https://products.ls.graphics/macos/)
 - [The Art Of Mac Malware](https://taomm.org/)
 - [Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities](https://github.com/sslab-gatech/pwn2own2020)
@@ -125,3 +125,5 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [The Mac that saved Apple](https://sixcolors.com/post/2020/12/20-macs-for-2020-1-imac-g3/) ([HN](https://news.ycombinator.com/item?id=25566642))
 - [macOS app in plain C](https://github.com/jimon/osx_app_in_plain_c)
 - [Reverse-Engineering Apple Dictionary (2020)](https://fmentzer.github.io/posts/2020/dictionary/)
+- [Project Mendacius](https://github.com/PraneetNeuro/Project-Mendacius) - GUI based virtualization tool for running Linux on macOS Big Sur.
+- [dmgdist](https://github.com/insidegui/dmgdist) - Automate the process of creating, uploading and notarizing the DMG of a Mac app.

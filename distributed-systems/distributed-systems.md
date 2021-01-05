@@ -83,7 +83,7 @@
 - [Temporal](https://temporal.io/) - Open source microservices orchestration engine for running mission critical code at any scale. ([Code](https://github.com/temporalio/temporal)) ([Docs](https://docs.temporal.io/docs/get-started/)) ([Why I joined Temporal](https://docs.temporal.io/blog/sergey-why-i-joined-temporal/)) ([Go SDK](https://github.com/temporalio/sdk-go))
 - [Model checker for implementing distributed systems](https://github.com/stateright/stateright)
 - [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)
-- [Distributed Services with Go](https://pragprog.com/book/tjgo/distributed-services-with-go)
+- [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/)
 - [Fully asynchronous C implementation of the Raft consensus protocol](https://github.com/canonical/raft)
 - [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) ([HN](https://news.ycombinator.com/item?id=23365402))
 - [Paxakos](https://github.com/benschulz/paxakos) - Rust implementation of a distributed consensus algorithm based on Leslie Lamport's Paxos.
@@ -141,3 +141,5 @@
 - [Distributed Systems Reading List](https://dancres.github.io/Pages/) ([HN](https://news.ycombinator.com/item?id=25327077))
 - [Raft Visualization](http://thesecretlivesofdata.com/raft/) ([HN](https://news.ycombinator.com/item?id=25326645))
 - [Meld](https://m-ld.org/) - Decentralized shared state.
+- [Understanding Connections & Pools (2021)](https://sudhir.io/understanding-connections-pools/) ([HN](https://news.ycombinator.com/item?id=25644656))
+- [Fission Whitepaper](https://whitepaper.fission.codes/) ([Code](https://github.com/fission-suite/whitepaper))

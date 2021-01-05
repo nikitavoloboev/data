@@ -91,3 +91,4 @@
 - [Dockerfile best practices](https://github.com/hexops/dockerfile) ([HN](https://news.ycombinator.com/item?id=25619319))
 - [Docker Getting Started Tutorial](https://github.com/docker/getting-started)
 - [Run More Stuff in Docker (2020)](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
+- [Docker Compose: a nice way to set up a dev environment (2021)](https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/)

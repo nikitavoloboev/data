@@ -422,6 +422,7 @@ Here are few more things I liked, design wise.
 - [Colin Dunn](http://colindunn.com/)
 - [Neven Mrgan](https://mrgan.com/)
 - [Chris Dzombak](https://www.dzombak.com/)
+- [Gergely Orosz](https://blog.pragmaticengineer.com/)
 - [Tom MacWright](https://macwright.org/)
 - [Matt Drollette](https://matt.drollette.com/)
 - [Alasdair Monk](https://alasdairmonk.com/)
@@ -430,6 +431,7 @@ Here are few more things I liked, design wise.
 - [Steve Losh](https://stevelosh.com/)
 - [Tibor Bodecs](https://theswiftdev.com/)
 - [David Heinemeier Hansson](https://dhh.dk/)
+- [Kevin Schaich](https://kevinschaich.io/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [Jason Pamental](https://rwt.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.

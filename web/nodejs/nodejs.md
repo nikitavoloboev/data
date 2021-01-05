@@ -166,3 +166,4 @@
 - [NPM RFCs](https://github.com/npm/rfcs)
 - [Farrow](https://github.com/Lucifier129/farrow) - Functional-style web framework for node.js written by TypeScript.
 - [Celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs.
+- [Pipe Streams in Node in the Right Way (2020)](https://komelin.com/articles/pipe-streams-node-right-way/)

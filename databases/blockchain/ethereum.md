@@ -43,6 +43,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Lighthouse](https://github.com/sigp/lighthouse) - Rust Ethereum 2.0 Client.
 - [Utilities for handling Ethereum keys](https://github.com/ethereumjs/ethereumjs-wallet)
 - [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum)
+- [Awesome Ethereum 2](https://github.com/bekatom/awesome-ethereum)
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 - [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)
@@ -139,3 +140,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log. ([Code](https://github.com/nomiclabs/hardhat))
 - [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for Solidity.
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) - Concats solidity files from Truffle and Buidler projects with all of their dependencies.
+- [Incomplete Guide to Scaling Ethereum with Rollups (2021)](https://vitalik.ca/general/2021/01/05/rollup.html)

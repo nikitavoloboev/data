@@ -58,3 +58,5 @@
 - [Twemex Beta](https://www.notion.so/Twemex-Beta-8a33819331cc41c4970bc73ea242f0d2)
 - [Valuables](https://v.cent.co/) - Buy tweets. Autographed by your favorite creators.
 - [GraphQL Tweetletter](https://tweets.dgraph.io/) - Collection of the most interesting and popular tweets, delivered to your inbox every week.
+- [Building Lucerne, a Twitter experience tailored to me (2020)](https://thesephist.com/posts/lucerne/)
+- [twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite) - Save data from Twitter to a SQLite database.

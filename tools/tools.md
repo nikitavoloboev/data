@@ -52,6 +52,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [paste.sr.ht](https://paste.sr.ht/) - Sourcehut paste hosting service. ([Docs](https://man.sr.ht/paste.sr.ht/))
 - [Nekobin](https://nekobin.com/) - Elegant and open-source pastebin service. ([Code](https://github.com/nekobin/nekobin))
+- [pastebin.run](https://pastebin.run/) - Pastebin with code execution functionality. ([Code](https://gitlab.com/pastebinrun/pastebinrun))
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Kala](https://github.com/ajvb/kala) - Modern Job Scheduler.
 - [Principle](https://principleformac.com/) - Makes it easy to design animated and interactive user interfaces.
@@ -434,3 +435,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Lobsters: Do You Have Any Offline Programming Techniques or Tools? (2020)](https://lobste.rs/s/ik1apx/do_you_have_any_offline_programming)
 - [No-Code Resources](https://www.notion.so/No-Code-Resources-1c9a074f65f2419292558a7023cd97ef)
 - [SaaS we happily pay for (2020)](https://francescodilorenzo.com/saas-we-pay-for) ([HN](https://news.ycombinator.com/item?id=25552342))
+- [NoCode Tech](https://www.nocode.tech/) - Curated directory of resources and tools for non-techs.

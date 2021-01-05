@@ -30,3 +30,5 @@
 - [Promscale](https://github.com/timescale/promscale) - Open-source long-term store for Prometheus data designed for analytics.
 - [Prometheus Docs](https://prometheus.io/docs/introduction/overview/) ([Code](https://github.com/prometheus/docs))
 - [Awesome Prometheus Alerts](https://github.com/samber/awesome-prometheus-alerts)
+- [Understanding Prometheus Range Vectors (2021)](https://satyanash.net/software/2021/01/04/understanding-prometheus-range-vectors.html)
+- [Prometheus Exporter Toolkit](https://github.com/prometheus/exporter-toolkit) - Go library for Prometheus exporters.

@@ -32,3 +32,4 @@
 - [Mannequin.js](https://boytchev.github.io/mannequin.js/) - Articulated Mannequin Figure Library. ([HN](https://news.ycombinator.com/item?id=25302602))
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for threejs on the web and react-native.
 - [Component Material](https://github.com/pmndrs/component-material) - Compose modular materials in React.
+- [Three.js Sandbox](https://github.com/gkjohnson/threejs-sandbox) - Set of experiments and extensions to Three.js.

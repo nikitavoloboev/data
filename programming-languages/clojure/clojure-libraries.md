@@ -51,6 +51,8 @@
 - [jme-clj](https://github.com/ertugrulcetin/jme-clj) - Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine.
 - [aws-api](https://github.com/cognitect-labs/aws-api) - Clojure library which provides programmatic access to AWS services from your Clojure program.
 - [alpha.spec](https://github.com/clojure/spec-alpha2) - Clojure library to describe the structure of data and functions.
+- [clojure.math.combinatorics](https://github.com/clojure/math.combinatorics) - Efficient, functional algorithms for generating lazy sequences for common combinatorial functions.
+- [Fipp](https://github.com/brandonbloom/fipp) - Fast Idiomatic Pretty Printer for Clojure.
 
 ## Links
 

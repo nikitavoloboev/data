@@ -77,6 +77,7 @@
 - [Linkrot](https://github.com/tmcw/linkrot) - GitHub Action that helps you automatically maintain the correctness of your website's outgoing links.
 - [lychee link checking action](https://github.com/lycheeverse/lychee-action) - Quickly check links in Markdown, HTML, and text files.
 - [GitHub Action PR Helper](https://github.com/technote-space/github-action-pr-helper)
+- [Delete older releases](https://github.com/dev-drprasad/delete-older-releases) - Github Action to delete older releases.
 
 ## Go
 

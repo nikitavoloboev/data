@@ -228,3 +228,6 @@
 - [Graph Toy](http://memorystomp.com/graphtoy/) - Interactive graph visualizer using mathematical functions. ([HN](https://news.ycombinator.com/item?id=25574661))
 - [The Map of Mathematics](https://mathmap.quantamagazine.org/)
 - [Graphtoy](https://graphtoy.com/) ([HN](https://news.ycombinator.com/item?id=25612132))
+- [Principle of Maximum Entropy (2020)](https://leimao.github.io/blog/Maximum-Entropy/) ([HN](https://news.ycombinator.com/item?id=25641459))
+- [The Riemann Hypothesis, Explained (2021)](https://www.youtube.com/watch?v=zlm1aajH6gY) ([Article](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/))
+- [Math & Stats Uni Notes](https://github.com/yuchenWYC/Yuchen-UofT-notes)

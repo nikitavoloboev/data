@@ -189,3 +189,4 @@
 - [Self-supervised learning through the eyes of a child (2020)](https://arxiv.org/abs/2007.16189) ([Code](https://github.com/eminorhan/baby-vision))
 - [Object-based attention for spatio-temporal reasoning: Outperforming neuro-symbolic models with flexible distributed architectures (2020)](https://arxiv.org/pdf/2012.08508.pdf)
 - [Soft Threshold Weight Reparameterization for Learnable Sparsity (2020)](https://arxiv.org/abs/2002.03231) ([Code](https://github.com/RAIVNLab/STR))
+- [Understanding the Difficulty of Training Transformers (2020)](https://arxiv.org/abs/2004.08249) ([Code](https://github.com/LiyuanLucasLiu/Transformer-Clinic))

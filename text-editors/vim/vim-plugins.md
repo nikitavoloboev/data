@@ -116,6 +116,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [fzf-preview.vim](https://github.comfzf-preview.vim/yuki-ycino/fzf-preview.vim) - coc extensions and Neovim plugin that provides collection of features to assist file management using fzf.
 - [vimspector](https://github.com/puremourning/vimspector) - Multi language graphical debugger for Vim.
 - [nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
+- [test.vim](https://github.com/vim-test/vim-test) - Vim wrapper for running tests on different granularities.
 
 ## Looks
 

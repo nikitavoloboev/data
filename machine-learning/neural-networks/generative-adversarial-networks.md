@@ -75,3 +75,4 @@
 - [Awesome Pretrained StyleGAN2](https://github.com/justinpinkney/awesome-pretrained-stylegan2)
 - [Training Generative Adversarial Networks by Solving Ordinary Differential Equations (2020)](https://arxiv.org/abs/2010.15040) ([Code](https://github.com/nshepperd/ode-gan-pytorch))
 - [gan-mosaics](https://github.com/zaidalyafeai/gan-mosaics) - Models were trained using a Stylegan2-Ada model.
+- [DAGs with no tears: Continuous Optimization for Structure Learning (2018)](https://arxiv.org/abs/1803.01422) ([Code](https://github.com/xunzheng/notears))

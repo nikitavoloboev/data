@@ -302,3 +302,4 @@
 - [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes. ([Web](https://kubecost.com/))
 - [Kubernetes Pondering (2020)](https://christine.website/blog/k8s-pondering-2020-12-31) ([Lobsters](https://lobste.rs/s/avqtvh/kubernetes_pondering))
 - [Accelerated Feedback Loops when Developing for Kubernetes with Conftest (2020)](https://reese.dev/accelerated-feedback-loops-when/)
+- [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.

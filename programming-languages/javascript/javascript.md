@@ -141,6 +141,7 @@
 - [Renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [The ECMAScript Ecosystem (2020)](https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13)
 - [esbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md)) ([serverless-esbuild](https://github.com/floydspace/serverless-esbuild)) ([Awesome](https://github.com/egoist/awesome-esbuild)) ([Web](https://esbuild.github.io/)) ([Esbuild plugins](https://github.com/remorses/esbuild-plugins))
+- [esbuild-register](https://github.com/egoist/esbuild-register) - Transpile JSX, TypeScript and esnext features on the fly with esbuild.
 - [JavaScript: Understanding the Weird Parts course (2015)](https://www.udemy.com/course/understand-javascript/)
 - [Fastpack](https://github.com/fastpack/fastpack) - Pack JS code into a single bundle fast & easy.
 - [guijs](https://github.com/Akryum/guijs) - App that helps you manage JS projects with a Graphical User Interface.
@@ -248,3 +249,5 @@
 - [Maybe you don't need Rust and WASM to speed up your JS (2018)](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
 - [lage](https://github.com/microsoft/lage) - Task runner in JS monorepos. ([Web](https://microsoft.github.io/lage/))
 - [Module Server](https://github.com/google/module-server) - System for efficient serving of CommonJS modules to web browsers.
+- [How JavaScript works: exceptions + best practices for synchronous and asynchronous code (2021)](https://blog.sessionstack.com/how-javascript-works-exceptions-best-practices-for-synchronous-and-asynchronous-environments-39f66b59f012)
+- [Source Map Visualization](http://evanw.github.io/source-map-visualization/) - Visualization of JavaScript source map data, which is useful for debugging problems with generated source maps. ([Code](https://github.com/evanw/source-map-visualization))

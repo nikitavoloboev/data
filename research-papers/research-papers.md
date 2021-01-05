@@ -86,3 +86,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Fatcat](https://fatcat.wiki/) - Versioned, user-editable catalog of research publications including journal articles, conference proceedings, and datasets. ([Code](https://github.com/internetarchive/sandcrawler))
 - [ActivePapers](http://www.activepapers.org/) - Computational science made reproducible and understandable. ([ActivePapers Pharo edition](https://github.com/activepapers/activepapers-pharo))
 - [Peer-reviewed papers are getting increasingly boring (2021)](https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/) ([HN](https://news.ycombinator.com/item?id=25605156))
+- [Auto Sci-Hub](https://github.com/RoiArthurB/Side-Auto_Sci-Hub) - Cross-Browser Plugin to open Sci-Hub of the page with the article from your current tab.

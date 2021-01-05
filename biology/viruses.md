@@ -59,3 +59,4 @@
 - [Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2 (2020)](https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/) ([HN](https://news.ycombinator.com/item?id=25598270)) ([Reddit](https://www.reddit.com/r/programming/comments/ko5esy/reverse_engineering_source_code_of_the_biontech/))
 - [Where is the evidence for lockdowns? (2020)](https://www.reddit.com/r/LockdownSkepticism/comments/kmc1wl/where_is_the_evidence_for_lockdowns/)
 - [Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology (2020)](https://www.nature.com/articles/s41587-020-00807-1) ([HN](https://news.ycombinator.com/item?id=25577215))
+- [The Lab Leak Hypothesis (2021)](https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html) ([HN](https://news.ycombinator.com/item?id=25640323))

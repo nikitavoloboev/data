@@ -50,3 +50,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Cronie](https://github.com/cronie-crond/cronie) - Standard UNIX daemon crond that runs specified programs at scheduled times and related tools.
 - [Unix Recovery Legend (1986)](https://www.ee.ryerson.ca/~elf/hack/recovery.html) ([HN](https://news.ycombinator.com/item?id=25491790))
 - [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today.
+- [Chain loading, not preloading: the dynamic linker as a virtualization vector (2021)](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2021/01/04/)

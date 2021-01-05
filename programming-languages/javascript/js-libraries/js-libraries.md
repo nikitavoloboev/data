@@ -15,6 +15,7 @@
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 - [Torus](https://github.com/thesephist/torus) - Event-driven model-view UI framework for the web, focused on being tiny, efficient, and free of dependencies. ([Web](https://thesephist.github.io/torus/))
 - [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798))
+- [Hyperapp FX](https://github.com/okwolf/hyperapp-fx) - Effects for use with Hyperapp.
 - [Phenomic](https://github.com/phenomic/phenomic) - Modular website compiler (React, Webpack, Reason and whatever you want).
 - [Halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools. ([Docs](https://www.gethalfmoon.com/docs/introduction/))
 - [Sinuous](https://github.com/luwes/sinuous) - Low-level UI library with a tiny footprint. ([Docs](https://sinuous.dev/docs/getting-started/))
@@ -37,6 +38,7 @@
 - [Glimmer](https://glimmerjs.com/) - Fast and light-weight UI components for the web. ([Code](https://github.com/glimmerjs/glimmer.js))
 - [Glimmer VM](https://github.com/glimmerjs/glimmer-vm) - Flexible, low-level rendering pipeline for building a "live" DOM from Handlebars templates that can subsequently be updated cheaply when data changes.
 - [frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications.
+- [Nano Router](https://github.com/sunesimonsen/nano-router) - Framework agnostic minimalistic router with a focus on named routes.
 
 ## Animation
 
@@ -61,6 +63,7 @@
 
 - [Unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit. ([Docs](https://unexpected.js.org/))
 - [Fishery](https://github.com/thoughtbot/fishery) - Library for setting up JavaScript objects as test data.
+- [pentf](https://github.com/boxine/pentf) - Parallel end-to-end test framework.
 
 ## State management
 
@@ -415,6 +418,9 @@
 - [Ape-ECS](https://github.com/fritzy/ape-ecs) - Entity-Component-System library for JavaScript.
 - [rrule.js](https://github.com/jakubroztocil/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. ([Demo](https://jakubroztocil.github.io/rrule/))
 - [scroller](https://github.com/rdmurphy/scroller) - Super-tiny library for your scrollytelling needs.
+- [Isomorphic DOMPurify](https://github.com/kkomelin/isomorphic-dompurify) - Makes it possible to use DOMPurify on server and client in the same way.
+- [navaid](https://github.com/lukeed/navaid) - Navigation aid (aka, router) for the browser in 850 bytes.
+- [glob-to-regexp](https://github.com/fitzgen/glob-to-regexp) - Convert a glob to a regular expression.
 
 ## Links
 

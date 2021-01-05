@@ -98,3 +98,4 @@
 - [React Native Samples and Templates](https://github.com/microsoft/react-native-windows-samples) - Repository showcasing React Native samples and templates for Windows, macOS, and Surface Duo.
 - [Bonsai](https://github.com/bonsaijs/bonsai) - Opinionated zero-config CLI for React Native.
 - [formidable-webview/webshell](https://github.com/formidable-webview/webshell) - Craft Robust React Native WebView-based components with ease.
+- [Magnus UI](https://github.com/jsartisan/react-native-magnus) - Utility-First React Native UI Framework. ([Web](https://magnus-ui.com/))

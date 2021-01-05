@@ -243,3 +243,4 @@
 - [Artyom's Haskell toolbox — a long list of tools/libraries I use](https://tek.brick.do/2f53d74a-1538-421a-b017-0155b1e164c6) ([Reddit](https://www.reddit.com/r/haskell/comments/kp9pg0/artyoms_haskell_toolbox_a_long_list_of/))
 - [Lessons Learned From A Year Of Writing Haskell (2021)](https://wespiser.com/posts/2021-01-03-Lessons-Learned-From-A-Year-Of-Haskell.html)
 - [The Evolution of a Haskell Programmer (2001)](http://willamette.edu/~fruehr/haskell/evolution.html) ([HN](https://news.ycombinator.com/item?id=25639717))
+- [graphmod](https://github.com/yav/graphmod) - Utility for displaying the module dependencies of Haskell programs.

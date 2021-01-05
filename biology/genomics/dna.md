@@ -43,3 +43,4 @@
 - [clinker](https://github.com/gamcil/clinker) - Gene cluster comparison figure generator.
 - [Codex DNA](https://codexdna.com/products/bioxp-system/) - Automated gene synthesis. DNA Printer.
 - [DNA seen through the eyes of a coder](https://berthub.eu/amazing-dna/)
+- [30 years since the Human Genome Project began – what's next? (2020)](https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/) ([HN](https://news.ycombinator.com/item?id=25630318))

@@ -1,13 +1,16 @@
 # Cryptocurrencies
 
+I think [Nano](https://nano.org) is the future of money if compared to any other coin based off its features. Whilst [Ethereum](../databases/blockchain/ethereum.md)/[Tezos](../databases/blockchain/tezos.md) is great for building out more complex decentralized apps.
+
+It's a matter of time that Bitcoin with its horrible PoW consensus that wastes electricity and its slow & expensive transactions will no longer be used (even as a store of value).
+
 ## Interesting
 
+- [Nano](https://nano.org) - Peer-to-peer digital currency with fast & cheap transactions. ([Code](https://github.com/nanocurrency/nano-node)) ([What are things that make nano superior to bitcoin?](https://www.reddit.com/r/nanocurrency/comments/kpbsin/what_are_things_that_make_nano_superior_to_bitcoin/)) ([Why Nano isn't more popular](https://www.reddit.com/r/nanocurrency/comments/btm4yk/how_the_hell_is_nano_not_a_top_10_cryptocurrency/ep000vh/)) ([GitHub](https://github.com/nanocurrency))
 - [Cardano SL](https://cardanodocs.com/introduction/)
-- [Mobilecoin](https://www.mobilecoin.com)
-- [Nano](https://nano.org) - Peer-to-peer digital currency with fast & cheap transactions. ([Code](https://github.com/nanocurrency/nano-node)) ([What are things that make nano superior to bitcoin?](https://www.reddit.com/r/nanocurrency/comments/kpbsin/what_are_things_that_make_nano_superior_to_bitcoin/))
 - [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance. ([Forum](https://forum.makerdao.com/))
 - [Libra](libra.md)
-- [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices.
+- [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
 - [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency.
 - [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
@@ -49,3 +52,4 @@
 - [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html) ([Tweet](https://twitter.com/VitalikButerin/status/1343366729427079169)) ([HN](https://news.ycombinator.com/item?id=25566963))
 - [CCXT](https://github.com/ccxt/ccxt) - CryptoCurrency eXchange Trading Library.
 - [Trezor Hardware Wallet](https://trezor.io/) - Safe place for your coins. ([Code](https://github.com/trezor/trezor-firmware))
+- [Bitcoin Suisse](https://www.bitcoinsuisse.com/) - Buy, sell and earn crypto assets with a regulated Swiss company.

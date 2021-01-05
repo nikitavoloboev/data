@@ -26,6 +26,7 @@
 - [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
 - [Tide WebSockets](https://github.com/http-rs/tide-websockets) - Experimental websockets handler for tide based on async-tungstenite.
+- [websocket-lite](https://github.com/1tgr/rust-websocket-lite) - Fast, low-overhead WebSocket client.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
 - [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
 - [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
@@ -76,6 +77,7 @@
 - [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
 - [RAUI](https://github.com/PsichiX/raui) - Rust implementation of Renderer Agnostic User Interface.
 - [Spline](https://github.com/linebender/spline) - Implements a new spline designed and optimized for interactive design of 2D curves.
+- [Terra](https://github.com/fintelia/terra) - Large scale terrain rendering library written in Rust.
 
 ## DB
 
@@ -205,7 +207,9 @@
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
-- [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust.
+- [Serde](https://github.com/serde-rs/serde) - Serialization framework for Rust. ([Docs](https://serde.rs/))
+- [Miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde.
+- [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
 - [pyo3](https://github.com/PyO3/pyo3)
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
@@ -616,6 +620,7 @@
 - [crc32fast](https://github.com/srijs/rust-crc32fast) - Fast, SIMD-accelerated CRC32 (IEEE) checksum computation in Rust.
 - [Ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
 - [Gazebo](https://github.com/facebookincubator/gazebo) - Rust library containing a collection of small well-tested primitives.
+- [Arcon](https://github.com/cda-group/arcon) - Runtime for Writing Streaming Applications in Rust.
 
 ## Cargo Plugins
 
@@ -656,3 +661,4 @@
 - [cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
 - [Ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry.
 - [RustSec](https://rustsec.org/) - Security advisory database for Rust crates published through crates.io. ([Code](https://github.com/RustSec/advisory-db))
+- [Language development libraries for Rust](https://github.com/Kixiron/rust-langdev)

@@ -381,3 +381,5 @@
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) ([HN](https://news.ycombinator.com/item?id=25593262))
 - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Reflections on my (Machine Learning) PhD Journey (2020)](https://maithraraghu.com/blog/2020/Reflections_on_my_Machine_Learning_PhD_Journey/)
+- [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus (2018)](https://www.inference.vc/untitled/) ([HN](https://news.ycombinator.com/item?id=25645205))
+- [Distributed deep learning and inference without sharing raw data](https://splitlearning.github.io/) ([Code](https://github.com/splitlearning/splitlearning.github.io))

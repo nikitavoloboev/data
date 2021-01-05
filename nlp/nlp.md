@@ -215,3 +215,4 @@
 - [Shortformer: Better Language Modeling using Shorter Inputs (2020)](https://ofir.io/shortformer.pdf) ([HN](https://news.ycombinator.com/item?id=25588675))
 - [huggingface_hub](https://github.com/huggingface/huggingface_hub) - Client library to download and publish models and other files on the huggingface.co hub.
 - [Embeddings from the Ground Up (2020)](https://www.singlelunch.com/2020/02/16/embeddings-from-the-ground-up/)
+- [Ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models.

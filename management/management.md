@@ -72,3 +72,4 @@
 - [Staying organized while executing agile sprints (2020)](https://www.kovach.me/Staying_organized_while_executing_agile_sprints.html)
 - [Recommended Engineering Management Books (2020)](https://caitiem.com/2020/12/28/recommended-engineering-management-books/) ([Tweet](https://twitter.com/caitie/status/1343692445536591873))
 - [A Strengths Assessment Review (2020)](https://reese.dev/a-strengths-assessment-review/)
+- [Engineering Ladders](http://www.engineeringladders.com/) - Framework for Engineering Managers.

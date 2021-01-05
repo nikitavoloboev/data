@@ -49,3 +49,5 @@ Here are tools I use for streaming:
 - [Character Overlay](https://character-overlay.n1ru4l.cloud/) - Web App for adding an OBS overlay with character information such as name, picture, and health for your favorite role-playing game. ([Code](https://github.com/n1ru4l/obs-character-info))
 - [OBSWebSocket.JS](https://github.com/haganbmj/obs-websocket-js) - Allows JavaScript-based connections to the Open Broadcaster plugin obs-websocket.
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed) - Self contained OBS -> FTL -> WebRTC live streaming server. ([HN](https://news.ycombinator.com/item?id=25627673)) ([Reddit](https://www.reddit.com/r/golang/comments/kq02da/project_lightspeed_a_selfcontained_subsecond_open/))
+- [Infrastructure for rendering and streaming movies (Kubecon 2019)](https://www.youtube.com/watch?v=VtedIghTPzI)
+- [OBS.Ninja](https://github.com/steveseguin/obsninja) - Lets you bring remote video feeds into OBS via WebRTC. ([Web](https://obs.ninja/))

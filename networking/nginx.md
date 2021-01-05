@@ -29,3 +29,4 @@
 - [Bunkerized Nginx](https://github.com/bunkerity/bunkerized-nginx) - Nginx Docker image secure by default. ([HN](https://news.ycombinator.com/item?id=24842306))
 - [Nginx GeoIP2 module](https://github.com/leev/ngx_http_geoip2_module)
 - [Nginx Hardening Guide (2020)](https://beaglesecurity.com/blog/article/nginx-server-security.html)
+- [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)

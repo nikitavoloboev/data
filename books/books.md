@@ -222,6 +222,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 ## Links
 
 - [Awesome books](https://github.com/learn-anything/books)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ([Code](https://github.com/EbookFoundation/free-programming-books))
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)
 - [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
 - [Thinking with Types LaTeX source](https://github.com/isovector/thinking-with-types) - Original source material for Thinking with Types: Type-Level Programming in Haskell book.
