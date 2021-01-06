@@ -90,3 +90,4 @@
 - [Putting $400M of Bitcoin on your company balance sheet (2020)](https://www.singlelunch.com/2020/10/21/badeconomics-putting-400m-of-bitcoin-on-your-company-balance-sheet/) ([HN](https://news.ycombinator.com/item?id=25632757))
 - [Modeling Bitcoin Value with Scarcity (2019)](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
 - [Bitcoin Stock-to-Flow Cross Asset Model (2020)](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
+- [Bitcoin Disrupting Payment Clearing Houses w/ Jack Mallers (2021)](https://overcast.fm/+I6zHE4hug)
