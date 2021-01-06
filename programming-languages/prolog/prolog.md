@@ -24,3 +24,4 @@
 - [Mycroft](https://github.com/enkiv2/mycroft) - Prolog-like language with compound truth value logic.
 - [Simple Prolog implementation in Rust](https://github.com/mb64/prolog)
 - [Markus Triska on constraints and the power of Prolog (2021)](https://thesearch.space/episodes/4-markus-triska-on-constraints-and-the-power-of-prolog)
+- [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/) ([HN](https://news.ycombinator.com/item?id=25652369))

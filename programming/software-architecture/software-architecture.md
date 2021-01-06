@@ -114,4 +114,4 @@
 - [BrainBoard](https://www.brainboard.co/) - Design, Deploy and Depict powerful architectures.
 - [Uber’s Real-Time Push Platform (2020)](https://eng.uber.com/real-time-push-platform/) ([HN](https://news.ycombinator.com/item?id=25592127))
 - [Defold engine code overview (2020)](https://defold.com/2020/12/27/engine-overview-pt1/) ([HN](https://news.ycombinator.com/item?id=25569224))
-- [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/))
+- [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)) ([HN](https://news.ycombinator.com/item?id=25647025))
