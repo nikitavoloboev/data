@@ -290,3 +290,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [POC on how a Memex could potentially work](https://github.com/steve-1820/memex)
 - [Agora](https://anagora.org/) - Distributed, goal-oriented social network centered around a cooperatively built and maintained knowledge graph. ([HN](https://news.ycombinator.com/item?id=25573523))
 - [Wiki setup with mdBook](https://news.ycombinator.com/item?id=23363574)
+- [Exomind](https://github.com/appaquet/exomind) - Personal knowledge management tool hosted on your own personal cloud.
+- [Miraheze](https://miraheze.org/) - Community-centric, ad free, and locally controlled wiki hosting platform funded 100% by donations.

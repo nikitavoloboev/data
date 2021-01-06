@@ -156,6 +156,8 @@
 - [ATen](https://github.com/zdevito/ATen) - TENsor library for C++11.
 - [AsyncFuture](https://github.com/benlau/asyncfuture) - Use QFuture like a Promise object.
 - [concurrencpp](https://github.com/David-Haim/concurrencpp) - C++ concurrency library.
+- [Build→It](https://github.com/AjayBrahmakshatriya/buildit) - Type based library framework for multi-stage imperative programming. ([Web](https://build-it.intimeand.space/))
+- [FLANN](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors.
 
 ## Links
 

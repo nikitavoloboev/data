@@ -73,3 +73,4 @@
 - [Undocumented arm64 ISA extension present on the Apple M1](https://gist.github.com/dougallj/7a75a3be1ec69ca550e7c36dc75e0d6f) ([Reddit](https://www.reddit.com/r/programming/comments/km76pz/undocumented_arm64_isa_extension_present_on_the/))
 - [MIPS-Simulator](https://github.com/skyzh/mips-simulator) - Functional MIPS CPU simulator implemented in Haskell.
 - [From microops to abstract resources: constructing simpler CPU performance models (2020)](https://arxiv.org/abs/2012.11473)
+- [Let's Build a Microprocessor!](https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/) - From NAND to RISC, using JavaScript as a HDL.

@@ -2,7 +2,7 @@
 
 ## Links
 
-- [PeerJS](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
+- [PeerJS](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC. ([Web](https://peerjs.com/)) ([HN](https://news.ycombinator.com/item?id=25658704))
 - [WebRTC / PeerJS Audio Chat Demo](https://github.com/nwah/peerjs-audio-chat)
 - [Server for PeerJS](https://github.com/peers/peerjs-server)
 - [Pion WebRTC](https://github.com/pions/webrtc) - Pure Go implementation of the WebRTC API.

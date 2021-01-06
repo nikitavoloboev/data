@@ -325,3 +325,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Packt](https://www.packtpub.com/) - Programming Books, eBooks & Videos for Developers. ([GitHub](https://github.com/PacktPublishing))
 - [Paged.js](https://github.com/pagedjs/pagedjs) - Open-source library to display paginated content in the browser and to generate print books using web technology.
 - [Verso Books](https://www.versobooks.com/) - Largest independent, radical publishing house in the English-speaking world, publishing one hundred books a year.
+- [BookWyrm](https://bookwyrm.social/) - Social Reading and Reviewing. ([Code](https://github.com/mouse-reeve/bookwyrm))

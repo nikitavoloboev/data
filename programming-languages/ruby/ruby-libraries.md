@@ -19,6 +19,7 @@
 - [Tapioca](https://github.com/Shopify/tapioca) - Generate RBI files for your project's gem dependencies.
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [HexaPDF](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby.
+- [Scientist](https://github.com/github/scientist) - Ruby library for carefully refactoring critical paths.
 
 ## Links
 

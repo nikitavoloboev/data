@@ -19,6 +19,7 @@
 - [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) - Local, global, and beyond optimization for scientific machine learning (SciML).
 - [DiffEqGPU](https://github.com/SciML/DiffEqGPU.jl) - GPU-acceleration routines for DifferentialEquations.jl and the broader SciML scientific machine learning ecosystem.
 - [Avalon](https://github.com/dfdx/Avalon.jl) - Deep learning library in Julia with focus on high performance and interoperability with existing DL frameworks.
+- [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
 
 ## Math
 
@@ -48,6 +49,7 @@
 - [LazySets.jl](https://github.com/JuliaReach/LazySets.jl) - Julia package for calculus with convex sets.
 - [Tullio.jl](https://github.com/mcabbott/Tullio.jl) - Flexible einsum macro. Understands many array operations written in index notation.
 - [Stheno](https://github.com/willtebbutt/Stheno.jl) - Probabilistic Programming with Gaussian processes in Julia.
+- [MultiFloats.jl](https://github.com/dzhang314/MultiFloats.jl) - Fast extended-precision floating-point arithmetic for Julia.
 
 ## NLP
 
@@ -165,6 +167,7 @@
 - [ParallelStencil](https://github.com/omlins/ParallelStencil.jl) - Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs.
 - [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Algorithms from circuit theory to predict connectivity in heterogeneous landscapes. ([Web](https://circuitscape.org/))
 - [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) - Arrays for working with categorical data (both nominal and ordinal).
+- [Infiltrator.jl](https://github.com/JuliaDebug/Infiltrator.jl) - Provides a macro called @infiltrate, which sets a "breakpoint" in a local context.
 
 ## Links
 

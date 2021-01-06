@@ -2,7 +2,7 @@
 
 ## Notes
 
-- Can search over my own Twitter profile with Nitter [like so](https://nitter.net/nikitavoloboev/search?f=tweets&q=pretty&since=&until=&near=).
+- Can search over my own Twitter profile with Nitter [here](https://nitter.net/nikitavoloboev/search?f=tweets).
 - [To prevent usernames and URLs from being converted to links, interrupt them with a zero-width space.](https://twitter.com/markdalgleish/status/1340897088486273034)
 
 ## Links
@@ -60,3 +60,6 @@
 - [GraphQL Tweetletter](https://tweets.dgraph.io/) - Collection of the most interesting and popular tweets, delivered to your inbox every week.
 - [Building Lucerne, a Twitter experience tailored to me (2020)](https://thesephist.com/posts/lucerne/)
 - [twitter-to-sqlite](https://github.com/dogsheep/twitter-to-sqlite) - Save data from Twitter to a SQLite database.
+- [How to Gradually Exit Twitter (2020)](https://balajis.com/how-to-gradually-exit-twitter/)
+- [Twitter CLI](https://github.com/sferik/t) - Command-line power tool for Twitter.
+- [Simple and unlimited twitter scraper with python and without authentication](https://github.com/Altimis/Scweet)

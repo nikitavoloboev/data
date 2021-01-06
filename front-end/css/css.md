@@ -244,3 +244,4 @@
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize) - Normalize browsers' default style.
 - [PostHTML Inline CSS](https://github.com/posthtml/posthtml-inline-css) - PostHTML plugin for inlining CSS to style attrs.
 - [Simple.css](https://simplecss.org/) - Classless CSS framework. ([Code](https://github.com/kevquirk/simple.css))
+- [css-what](https://github.com/fb55/css-what) - CSS selector parser.

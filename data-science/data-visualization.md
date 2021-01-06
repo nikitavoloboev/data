@@ -28,7 +28,7 @@
 - [owid-grapher](https://github.com/owid/owid-grapher) - Interactive data visualizations done quickly.
 - [HoloViz](http://holoviz.org/) - High-level tools to simplify visualization in Python.
 - [Datashader](https://datashader.org/) - Graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.
-- [Perception in Visualization](https://www.csc2.ncsu.edu/faculty/healey/PP/)
+- [Perception in Visualization](https://www.csc2.ncsu.edu/faculty/healey/PP/index.html)
 - [Prize winning JS solution for the Telegram April 2019 coding contest](https://github.com/Finesse/telegram-chart)
 - [New technique for making responsive, JavaScript-free charts (2020)](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp)
 - [HiPlot](https://github.com/facebookresearch/hiplot) - Lightweight interactive visualization tool to help AI researchers discover correlations and patterns in high-dimensional data. ([Article](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/)) ([HN](https://news.ycombinator.com/item?id=22270727))

@@ -13,3 +13,4 @@
 - [The origin of birds](https://evolution.berkeley.edu/evolibrary/article/evograms_06)
 - [Birds of a feather do flock together (2020)](https://phys.org/news/2020-11-birds-feather-flock.html)
 - [A bird feeder that accepts bottle caps for food](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/) ([HN](https://news.ycombinator.com/item?id=25180662))
+- [Bird Buddy](https://mybirdbuddy.com/) - Smart Bird Feeder.

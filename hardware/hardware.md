@@ -152,3 +152,5 @@
 - [MyHDL](https://github.com/myhdl/myhdl) - Design hardware with Python. ([Web](http://www.myhdl.org/))
 - [Morris Chang, Taiwan Semiconductor Manufacturing, Engineering Hero Lecture (2014)](https://www.youtube.com/watch?v=wEh3ZgbvBrE)
 - [Memory-Centric Computing Systems (2020)](https://www.youtube.com/watch?v=H3sEaINPBOE)
+- [Tenstorrent](https://www.tenstorrent.com/) - Scalable and Efficient Hardware for Deep Learning.
+- [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) - List of ICs and IPs for AI, Machine Learning and Deep Learning.

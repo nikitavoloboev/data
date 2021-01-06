@@ -82,3 +82,4 @@ Might give it a go sometime.
 - [Turn your .emacs.d Into an Emacs Distribution (with Straight.el) (2020)](https://countvajhula.com/2020/12/27/turn-your-emacs-d-into-an-emacs-distribution-with-straight-el/) ([Reddit](https://www.reddit.com/r/emacs/comments/kkzyht/turn_your_emacsd_into_an_emacs_distribution_with/))
 - [How to open a file in Emacs (2021)](https://www.murilopereira.com/how-to-open-a-file-in-emacs/) ([HN](https://news.ycombinator.com/item?id=25622756))
 - [Reasons to Learn Emacs in 2021](https://www.youtube.com/watch?v=bEfYm8sAaQg)
+- [Emacs Manuals Online](https://www.gnu.org/software/emacs/manual/)

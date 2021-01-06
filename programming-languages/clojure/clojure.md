@@ -102,3 +102,7 @@
 - [Why Clojure? (2018)](https://briansunter.com/blog/why-clojure/) ([HN](https://news.ycombinator.com/item?id=25622528))
 - [Clojure DSL resources](https://github.com/simongray/clojure-dsl-resources)
 - [nREPL](https://github.com/nrepl/nrepl) - Clojure network REPL that provides a server and client, along with some common APIs.
+- [Clojure, Faster (2020)](https://tech.redplanetlabs.com/2020/09/02/clojure-faster/)
+- [State of Clojure 2021](https://news.ycombinator.com/item?id=25656075)
+- [The Clojure Style Guide](https://guide.clojure.style/) ([Code](https://github.com/bbatsov/clojure-style-guide))
+- [Rich Already Answered That](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f) - List of commonly asked questions, design decisions, reasons why Clojure is the way it is as they were answered directly by Rich.

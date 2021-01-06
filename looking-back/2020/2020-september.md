@@ -1,6 +1,6 @@
 # 2020 September
 
-## [First newsletter, new beginnings 💛](https://buttondown.email/nikitavoloboev/archive/first-newsletter-new-beginnings/)
+## First newsletter, new beginnings 💛
 
 Hey there stranger 👋
 

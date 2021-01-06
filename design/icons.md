@@ -69,3 +69,4 @@
 - [Lucide](https://lucide.netlify.app/) - Community-run fork of Feather Icons, open for anyone to contribute icons. ([Code](https://github.com/lucide-icons/lucide))
 - [Line Awesome](https://icons8.com/line-awesome) - Replace Font Awesome with modern line icons. ([Code](https://github.com/icons8/line-awesome))
 - [Icons8](https://icons8.com/) - Download design elements for free.
+- [Public Icons](https://publicicons.lllllllllllllllll.com/) - Free icons in the public domain.

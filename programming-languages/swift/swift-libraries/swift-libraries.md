@@ -136,6 +136,7 @@
 - [Turbo Native for iOS](https://github.com/hotwired/turbo-ios) - iOS framework for making Turbo native apps.
 - [UserDefaultsSnapshot](https://github.com/VergeGroup/UserDefaultsSnapshot) - Library that enables us to create a snapshot of the values which UserDefaults manages.
 - [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces.
+- [NotificationToast](https://github.com/immortal79/NotificationToast) - View that tries to replicate iOS default toast message view.
 
 ## macOS
 
@@ -149,6 +150,7 @@
 - [FloatingFilter](https://github.com/CleanCocoa/FloatingFilter) - Display things in an app-modal floating window that users can fuzzy-filter by typing ahead.
 - [mac-open-with](https://github.com/karaggeorge/mac-open-with) - Open a file with an installed app on macOS.
 - [Uberabout](https://github.com/martinlexow/Uberabout) - Replaces the default “About” window in your macOS app with an aesthetically pleasing one.
+- [StackNavigationView](https://github.com/lbrndnr/StackNavigationView) - SwiftUI component for macOS that makes complex view hierarchies possible.
 
 ## Web
 
@@ -540,6 +542,7 @@
 - [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine.
 - [RBBJSON](https://github.com/robb/RBBJSON) - Enables flexible JSON traversal at runtime and JSONPath-like querying for rapid prototyping.
 - [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy.
+- [SwiftImage](https://github.com/koher/swift-image) - Image library in Swift with Swifty APIs and value semantics.
 
 ## Other (not lib)
 

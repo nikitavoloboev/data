@@ -107,3 +107,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS.
 - [nix-autobahn](https://github.com/Lassulus/nix-autobahn) - Allows you to download ELF binaries and use them right away in NixOS.
 - [Why isn't NixOS more popular (2021)](https://www.reddit.com/r/NixOS/comments/kpntby/why_isnt_nixos_more_popular/)
+- [Server-optimized NixOS](https://github.com/arianvp/server-optimised-nixos) - Distribution inspired by NixOS, ChromeOS, Container Optimised Linux and Container Linux. Opinionated, server-first distribution.

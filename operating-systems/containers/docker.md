@@ -92,3 +92,4 @@
 - [Docker Getting Started Tutorial](https://github.com/docker/getting-started)
 - [Run More Stuff in Docker (2020)](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
 - [Docker Compose: a nice way to set up a dev environment (2021)](https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/)
+- [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyzer for docker images.

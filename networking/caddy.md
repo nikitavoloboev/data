@@ -15,3 +15,4 @@
 - [Caddy site code](https://github.com/caddyserver/website)
 - [caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0, SAML Authentication.
 - [Caddy Ingress Controller](https://github.com/caddyserver/ingress)
+- [caddy-git](https://github.com/abiosoft/caddy-git) - git clones a git repository into the site. This makes it possible to deploy your site with a simple git push.

@@ -12,3 +12,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Why The Queen’s Gambit Cinematography Looks So Good (2020)](https://www.vulture.com/article/the-queens-gambit-cinematography-steven-meizler.html)
 - [What lens & camera were used to shoot Queen's Gambit? (2020)](https://www.reddit.com/r/cinematography/comments/jo1zhs/the_queens_gambit_shot_on_what_camera_and_lenses/)
 - [The Impossible Mirror Scene in 'Contact' (2020)](https://filmschoolrejects.com/contact-mirror-scene/)
+- [The Cinematography That Changed Cinema (2020)](https://www.youtube.com/watch?v=_XiqTYvq-W0)

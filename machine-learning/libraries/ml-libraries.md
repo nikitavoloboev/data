@@ -100,3 +100,5 @@
 - [FedML](https://github.com/FedML-AI/FedML) - Research Library and Benchmark for Federated Machine Learning.
 - [Auto_TS](https://github.com/AutoViML/Auto_TS) - Automatically build multiple Time Series models using a Single Line of Code.
 - [AutoGL (Auto Graph Learning)](https://github.com/THUMNLab/AutoGL) - AutoML framework & toolkit for machine learning on graphs.
+- [tsalib](https://github.com/ofnote/tsalib) - Tensor Shape Annotation Library (numpy, tensorflow, pytorch, ...).
+- [MMClassification](https://github.com/open-mmlab/mmclassification) - Open source image classification toolbox based on PyTorch.

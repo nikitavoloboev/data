@@ -421,6 +421,9 @@
 - [Isomorphic DOMPurify](https://github.com/kkomelin/isomorphic-dompurify) - Makes it possible to use DOMPurify on server and client in the same way.
 - [navaid](https://github.com/lukeed/navaid) - Navigation aid (aka, router) for the browser in 850 bytes.
 - [glob-to-regexp](https://github.com/fitzgen/glob-to-regexp) - Convert a glob to a regular expression.
+- [cmap](https://github.com/ionstage/cmap) - Interactive visualization library for concept map.
+- [lezer-tree](https://github.com/lezer-parser/lezer-tree) - Incremental GLR parser intended for use in an editor or similar system.
+- [matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs.
 
 ## Links
 

@@ -49,3 +49,4 @@
 - [Snapdrop](https://snapdrop.net/) - Local file sharing in your browser. Inspired by Apple's Airdrop. ([Code](https://github.com/RobinLinus/snapdrop))
 - [Shary](https://github.com/wilk/shary) - Share your files effortlessly with QRCodes.
 - [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone.
+- [WebDrop](https://webdrop.space/#/) - Group P2P File & Message transfer in browser with WebRTC. ([Code](https://github.com/subins2000/WebDrop))

@@ -152,3 +152,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Language resources](https://alexhumphreys.github.io/language-resources.html) - Links on how to learn how to create programming languages.
 - [Reflections on the Lack of Adoption of Domain Specific Languages](http://grammarware.net/text/2020/dsl-adoption.pdf) ([HN](https://news.ycombinator.com/item?id=25568703))
 - [Lobsters: What "glue" lanugages do you use/like? (2021)](https://lobste.rs/s/ritbgc/what_glue_lanugages_do_you_use_like)
+- [Build your own programming language in C++](https://github.com/codr7/alang) ([HN](https://news.ycombinator.com/item?id=25652865))

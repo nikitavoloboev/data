@@ -23,3 +23,4 @@
 - [Ask HN: Teaching Kids How to Think? (2020)](https://news.ycombinator.com/item?id=24638756)
 - [I got married and had kids so you don't have to (2020)](https://robertheaton.com/married-with-kids/)
 - [Ask HN: Best programmable robot for a child with SDK? (2020)](https://news.ycombinator.com/item?id=24919475)
+- [Ask HN: Please share your experience teaching your kids to program (2021)](https://news.ycombinator.com/item?id=25650224)

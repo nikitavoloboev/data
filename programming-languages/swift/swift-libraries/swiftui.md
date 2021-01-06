@@ -116,3 +116,4 @@
 - [iOS App Dev with SwiftUI Tutorials](https://developer.apple.com/tutorials/app-dev-training) ([HN](https://news.ycombinator.com/item?id=25424126)) ([Code](https://github.com/atrinh0/scrumdinger))
 - [The Strategic SwiftUI Data Flow Guide](https://matteomanferdini.com/swiftui-data-flow/)
 - [A Designer’s Guide to SwiftUI](https://swiftui.design/guide) ([Code](https://github.com/philipcdavis/swiftuifordesigners.github.io)) ([Tweet](https://twitter.com/philipcdavis/status/1346141422039281664))
+- [SwiftUI + GraphQL (2021)](https://quintero.io/blog/Graphaello/)

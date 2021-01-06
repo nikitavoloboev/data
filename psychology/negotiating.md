@@ -22,3 +22,4 @@
 - [Otta: Explore salaries at London's most innovative companies](https://app.otta.com/salaries/)
 - [Advice on negotiating (2020)](https://twitter.com/jomayra_herrera/status/1283244902772387840)
 - [Tough Qs to ask your remote employer who gives Cost Of Living based compensation (2020)](https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/) ([HN](https://news.ycombinator.com/item?id=25134220))
+- [Ask HN: Any luck negotiating better terms for on-call? (2021)](https://news.ycombinator.com/item?id=25650905)

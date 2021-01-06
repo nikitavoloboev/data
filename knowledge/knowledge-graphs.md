@@ -60,3 +60,4 @@
 - [Styx](https://github.com/underlay/styx) - Experimental graph store. Key/value store, where the keys are RDF IRI terms and the values are RDF datasets.
 - [Knowledge Graphs in NLP Emnlp 2020](https://mgalkin.medium.com/knowledge-graphs-in-nlp-emnlp-2020-2f98ec527738)
 - [StarE](https://github.com/migalkin/StarE) - Message Passing for Hyper-Relational Knowledge Graphs.
+- [Sci-Map.org](https://sci-map.org/) - Open and collaborative learning map.

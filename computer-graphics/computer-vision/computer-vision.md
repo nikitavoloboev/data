@@ -200,3 +200,4 @@
 - [Object Detection at 2530 FPS with TensorRT and 8-Bit Quantization (2020)](https://paulbridger.com/posts/tensorrt-object-detection-quantized/)
 - [HTML4Vision](https://github.com/mtli/HTML4Vision) - Simple HTML visualization tool for computer vision research.
 - [Soft-IntroVAE: Analyzing and Improving Introspective Variational Autoencoders](https://github.com/taldatech/soft-intro-vae-pytorch)
+- [Taming Transformers for High-Resolution Image Synthesis](https://github.com/CompVis/taming-transformers)

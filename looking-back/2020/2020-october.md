@@ -1,4 +1,4 @@
-# [2020 October](https://buttondown.email/nikitavoloboev/archive/9fa0825f-48d2-4c33-97a5-cc6d4ece45f9)
+# 2020 October
 
 Writing this on what seems to be the most joyous day world experienced in 2020, the news of Biden winning. 🌿
 

@@ -76,3 +76,6 @@
 - [Training Generative Adversarial Networks by Solving Ordinary Differential Equations (2020)](https://arxiv.org/abs/2010.15040) ([Code](https://github.com/nshepperd/ode-gan-pytorch))
 - [gan-mosaics](https://github.com/zaidalyafeai/gan-mosaics) - Models were trained using a Stylegan2-Ada model.
 - [DAGs with no tears: Continuous Optimization for Structure Learning (2018)](https://arxiv.org/abs/1803.01422) ([Code](https://github.com/xunzheng/notears))
+- [StyleFlow | StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows (2020)](https://rameenabdal.github.io/StyleFlow/) ([Code](https://github.com/RameenAbdal/StyleFlow))
+- [Audio inpainting with generative adversarial network](https://github.com/nperraud/gan_audio_inpainting)
+- [Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks (2018)](https://arxiv.org/abs/1810.02851) ([Code](https://github.com/yaushian/Unparalleled-Text-Summarization-using-GAN))

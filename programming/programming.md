@@ -309,3 +309,4 @@
 - [Some of my favorite systems research reads from 2020](https://twitter.com/MarcJBrooker/status/1344779967276597249)
 - [Two Kinds of Code Review (2021)](https://matklad.github.io//2021/01/03/two-kinds-of-code-review.html) ([Lobsters](https://lobste.rs/s/nng0yd/two_kinds_code_review))
 - [Pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous profiling platform — find bottlenecks in your code. ([Web](https://pyroscope.io/))
+- [What I’ve Learned in 45 Years in the Software Industry (2021)](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/) ([HN](https://news.ycombinator.com/item?id=25658216))

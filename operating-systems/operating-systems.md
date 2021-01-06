@@ -79,6 +79,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [core-os-riscv](https://github.com/skyzh/core-os-riscv) - xv6-like operating system on RISC-V with multi-core support.
 - [rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [dgOS](https://github.com/doug65536/dgos)
+- [Eltanin](https://eltan.in.net/) - Free, simple, and complete general-purpose operating system.
 
 ## Notes
 
@@ -178,3 +179,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Systems with JT - YouTube](https://www.youtube.com/user/giard321) - YouTube channel doing first impression reviews of amateur operating systems.
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - WIP "Vulnerable by Design" kext for iOS/macOS to play & learn OS kernel exploitation. ([Web](https://fuzzing.science/vulnerable-kext/))
 - [RVM 1.5](https://github.com/rcore-os/RVM1.5) - Type-1.5 hypervisor written in Rust.
+- [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program, normally /sbin/init.

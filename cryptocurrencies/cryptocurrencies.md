@@ -53,3 +53,4 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that wastes e
 - [CCXT](https://github.com/ccxt/ccxt) - CryptoCurrency eXchange Trading Library.
 - [Trezor Hardware Wallet](https://trezor.io/) - Safe place for your coins. ([Code](https://github.com/trezor/trezor-firmware))
 - [Bitcoin Suisse](https://www.bitcoinsuisse.com/) - Buy, sell and earn crypto assets with a regulated Swiss company.
+- [Cryptocurrency Investor Tools](https://github.com/f13end/Crypto-Investor-Tools)

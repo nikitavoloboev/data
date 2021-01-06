@@ -203,3 +203,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.
 - [Resources for Writers](https://substack.com/resources)
 - [How to write good prompts: using spaced repetition to create understanding (2020)](https://andymatuschak.org/prompts/) ([HN](https://news.ycombinator.com/item?id=25600108))
+- [Sci-fi writers on how they build their worlds (2021)](https://www.theguardian.com/books/2021/jan/05/if-the-aliens-lay-eggs-how-does-that-affect-architecture-sci-fi-writers-on-how-they-build-their-worlds)

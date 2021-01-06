@@ -73,3 +73,4 @@
 - [Recommended Engineering Management Books (2020)](https://caitiem.com/2020/12/28/recommended-engineering-management-books/) ([Tweet](https://twitter.com/caitie/status/1343692445536591873))
 - [A Strengths Assessment Review (2020)](https://reese.dev/a-strengths-assessment-review/)
 - [Engineering Ladders](http://www.engineeringladders.com/) - Framework for Engineering Managers.
+- [Building On-Call Culture at GitHub (2021)](https://github.blog/2021-01-06-building-on-call-culture-at-github/)

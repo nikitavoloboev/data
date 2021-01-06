@@ -59,3 +59,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Hiding messages in chess games (2020)](https://incoherency.co.uk/blog/stories/chess-steg.html) ([Lobsters](https://lobste.rs/s/ikxxhw/hiding_messages_chess_games))
 - [Tip for getting from 600 to 1000 Chess Rating (2021)](https://www.reddit.com/r/chess/comments/kqqezx/i_know_this_isnt_even_an_achievement_but_i_just/)
 - [Resource Limited Chess](https://rlc-chess.com/) - Creating small/efficient/fun chess bots and let them compete. ([Code](https://github.com/void4/relich))
+- [Chess notes](https://github.com/remigiusz-suwalski/theory-of-chess) - Collection of loosely related notes I prepared during my chess self-study.

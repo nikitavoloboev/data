@@ -54,3 +54,5 @@
 - [Terraform Provider Scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider.
 - [Terraform Plugin Docs](https://github.com/hashicorp/terraform-plugin-docs) - Generate and validate Terraform plugin/provider documentation.
 - [python-terrascript](https://github.com/mjuenema/python-terrascript) - Create Terraform files using Python scripts. ([HN](https://news.ycombinator.com/item?id=25611259))
+- [Terraform Provider for kind (Kubernetes IN Docker)](https://github.com/kyma-incubator/terraform-provider-kind)
+- [CircleCI Terraform provider](https://github.com/mrolla/terraform-provider-circleci)

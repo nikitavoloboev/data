@@ -35,3 +35,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Safari is adopting an extensions API similar to Firefox’s WebExtensions (2020)](https://hacks.mozilla.org/2020/06/welcoming-safari-to-the-webextensions-community/) ([HN](https://news.ycombinator.com/item?id=23614754))
 - [Should I use WKWebView or SFSafariViewController for web views in my app?](https://developer.apple.com/news/?id=trjs0tcd)
 - [go-safari](https://github.com/deanishe/go-safari) - Access Safari bookmarks, reading list, history and tabs.
+- [How to convert existing web extensions for Safari (2021)](https://developer.apple.com/news/?id=qiz0arxc) ([HN](https://news.ycombinator.com/item?id=25649509))

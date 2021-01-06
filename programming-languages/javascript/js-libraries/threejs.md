@@ -33,3 +33,4 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for threejs on the web and react-native.
 - [Component Material](https://github.com/pmndrs/component-material) - Compose modular materials in React.
 - [Three.js Sandbox](https://github.com/gkjohnson/threejs-sandbox) - Set of experiments and extensions to Three.js.
+- [Next & React three fiber starter](https://github.com/pmndrs/react-three-next)

@@ -71,3 +71,4 @@
 - [Knapsack Pro](https://knapsackpro.com/) - Speed up your tests with optimal test suite parallelization. ([GitHub](https://github.com/KnapsackPro))
 - [Cross-Branch Testing (2020)](https://buttondown.email/hillelwayne/archive/cross-branch-testing/) ([Lobsters](https://lobste.rs/s/jd2giu/cross_branch_testing))
 - [Load testing is hard, and the tools are not great. But why? (2021)](https://ntietz.com/tech-blog/load-testing-is-hard-but-why/) ([HN](https://news.ycombinator.com/item?id=25641234))
+- [Ask HN: How should I test all potential combinations of user actions? (2021)](https://news.ycombinator.com/item?id=25647143)

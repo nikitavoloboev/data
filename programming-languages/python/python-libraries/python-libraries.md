@@ -48,6 +48,7 @@
 - [questionary](https://github.com/tmbo/questionary) - Easy to use python library to build pretty command line user prompts.
 - [Cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification.
 - [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple.
+- [alive-progress](https://github.com/rsalmei/alive-progress) - New kind of Progress Bar, with real time throughput, eta and cool animations.
 
 ## DB
 
@@ -75,6 +76,7 @@
 - [pytest](https://github.com/pytest-dev/pytest) - Makes it easy to write small tests, yet scales to support complex functional testing.
 - [pytest-cookies](https://github.com/hackebrot/pytest-cookies) - Pytest plugin for your Cookiecutter templates.
 - [pytest-plugins](https://github.com/man-group/pytest-plugins) - Grab-bag of nifty pytest plugins.
+- [mutmut](https://github.com/boxed/mutmut) - Mutation testing system for Python, with a strong focus on ease of use.
 
 ## Other
 
@@ -265,6 +267,9 @@
 - [awesome-pattern-matching](https://github.com/scravy/awesome-pattern-matching) - Pattern Matching for Python 3.8+ in a simple, yet powerful, extensible manner.
 - [OSlash](https://github.com/dbrattli/OSlash) - Functors, Applicatives, And Monads in Python.
 - [nodevectors](https://github.com/VHRanger/nodevectors) - Implements fast/scalable node embedding algorithms.
+- [libpysal](https://github.com/pysal/libpysal) - Python Spatial Analysis Library.
+- [pandera](https://github.com/pandera-dev/pandera) - Light-weight, flexible, and expressive pandas data validation library.
+- [Dynamics and Control](https://github.com/alchemyst/Dynamics-and-Control) - Python library for solving textbook control problems.
 
 ## Links
 

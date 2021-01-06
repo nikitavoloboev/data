@@ -20,3 +20,6 @@
 - [Nomadic Labs](https://www.nomadic-labs.com/) - Research and development on distributed, decentralized, and formally verified software.
 - [Tezos December dev update (2020)](https://www.youtube.com/watch?v=23BhRSbE46I)
 - [Fireside Chat with Arthur and Kathleen Breitman (2020)](https://www.youtube.com/watch?v=JaC4yDcQWQI)
+- [Tezos vs Cardano vs Ethereum. What makes Tezos a good alternative? (2020)](https://www.reddit.com/r/tezos/comments/keh72t/tezos_vs_cardano_vs_ethereum_what_makes_tezos_a/)
+- [Reasons why Tezos is undervalued (2020)](https://www.reddit.com/r/tezos/comments/k9bevl/compared_to_the_top_ten_projects_such_as_cardano/gf4h7sy/)
+- [A deep dive into the Tezos storage — How the blockchain state is stored in the TezEdge node through Merkle trees and Git-like semantics (2021)](https://medium.com/simplestaking/a-deep-dive-into-the-tezos-storage-how-the-blockchain-state-is-stored-in-the-tezedge-node-3166cbd06ca2)

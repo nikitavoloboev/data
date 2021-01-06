@@ -95,6 +95,7 @@
 - [Foundation](https://github.com/haskell-foundation/foundation) - Base foundational Haskell modules.
 - [early](https://github.com/inflex-io/early) - Add early return to any monad.
 - [discrimination](https://github.com/ekmett/discrimination) - Fast linear time sorting and discrimination for a large class of data types.
+- [haskell-src](https://github.com/haskell-pkg-janitors/haskell-src) - Library for manipulating Haskell source code.
 
 ## Links
 

@@ -72,3 +72,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.github.io/thgtoa/guide.html) ([Code](https://github.com/AnonymousPlanet/thgtoa))
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services.
 - [WhoTracks.me](https://whotracks.me/) - Bringing Transparency to Online Tracking. ([Code](https://github.com/ghostery/whotracks.me))
+- [What I Use Now Instead of Google (2021)](https://kiramclean.com/blog/what-i-use-now-instead-of-google/) ([HN](https://news.ycombinator.com/item?id=25654222))

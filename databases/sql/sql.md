@@ -84,3 +84,4 @@
 - [Practical SQL (2018)](https://nostarch.com/practicalSQL) - Beginner’s Guide to Storytelling with Data.
 - [Recursion in SQL Explained Visually (2020)](https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b)
 - [FuseQuery](https://github.com/datafusedev/fuse-query) - Distributed SQL Query Engine at scale. ([Web](https://datafuse.dev/))
+- [Introduction to Window Functions in SQL (2020)](https://khashtamov.com/en/sql-window-functions/) ([HN](https://news.ycombinator.com/item?id=25656583))

@@ -110,6 +110,7 @@
 - [go-app](https://github.com/maxence-charriere/go-app) - Package to build progressive web apps with Go programming language and WebAssembly. ([Docs](https://go-app.dev/))
 - [Revel](https://github.com/revel/revel) - High productivity, full-stack web framework for the Go language.
 - [Live](https://github.com/jfyne/live) - net/http compatible Phoenix LiveView implementation in Go.
+- [http-cache](https://github.com/victorspringer/http-cache) - High performance Go HTTP middleware for server-side application layer caching, ideal for REST APIs.
 
 ## GraphQL
 
@@ -659,6 +660,9 @@
 - [fswatch](https://github.com/andreaskoch/go-fswatch) - Go library for monitoring filesystem changes that does not depend on inotify.
 - [GoJay](https://github.com/francoispqt/gojay) - Performant JSON encoder/decoder for Go.
 - [gg-git](https://github.com/gg-scm/gg-git) - High-level interface for interacting with a Git subprocess in Go.
+- [goimagehash](https://github.com/corona10/goimagehash) - Go Perceptual image hashing package.
+- [ember](https://github.com/maja42/ember) - Embed arbitrary resources into a go executable at runtime, after the executable has been built.
+- [deque](https://github.com/ef-ds/deque) - Implements a very fast and efficient general purpose queue/stack/deque data structure.
 
 ## Links
 

@@ -26,6 +26,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Hanabi](https://hanabi.cards/) - Cooperative card game. ([Code](https://github.com/bstnfrmry/hanabi))
 - [skribbl](https://skribbl.io/) - Free Multiplayer Drawing & Guessing Game.
 - [PSX Party](https://psxparty.kosmi.io/) - Online Multiplayer Playstation 1 Emulator Using WebRTC. ([HN](https://news.ycombinator.com/item?id=25582187))
+- [generals.io](http://generals.io/) - Protect your general. Capture enemy generals.
 
 ## Awesome OSS games
 
@@ -73,6 +74,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Micro Racing](https://github.com/Mati365/micro-racing) - Multiplayer 3D isometric racing game written in WebGL.
 - [Ordinary Puzzles](https://www.ordinarypuzzles.com/) - Minimalistic puzzle game built using React Native. ([Code](https://github.com/mmazzarolo/ordinary-puzzles-app))
 - [Word Guess](https://j-m-word-guess.herokuapp.com/) - Hangman without the hanging man. ([Code](https://github.com/j-m/word-guess))
+- [osu!](https://github.com/ppy/osu) - Free-to-win rhythm game. ([Web](https://osu.ppy.sh/home))
 
 ## Awesome games (other)
 
