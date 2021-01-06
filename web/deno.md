@@ -62,4 +62,4 @@
 - [djwt](https://github.com/timonson/djwt) - Create and verify JSON Web Tokens (JWT) with deno.
 - [NPM compatibility list and declaration files for Deno](https://github.com/Soremwar/deno_types)
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - Port of puppeteer running on Deno.
-- [The Deno Tag (2021)](https://hugodaniel.com/posts/introducing-deno-tag/)
+- [The Deno Tag (2021)](https://hugodaniel.com/posts/introducing-deno-tag/) ([Lobsters](https://lobste.rs/s/kxvskq/introducing_deno_tag))
