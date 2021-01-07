@@ -16,6 +16,7 @@
 - [Octave kernel for Jupyter](https://github.com/Calysto/octave_kernel)
 - [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - Cookiecutter template for creating a JupyterLab extension in TypeScript with optionally a Python server extension.
 - [GitPlus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests.
+- [Elyra](https://github.com/elyra-ai/elyra) - Set of AI-centric extensions to JupyterLab Notebooks. ([Docs](https://elyra.readthedocs.io/))
 
 ## Links
 

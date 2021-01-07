@@ -110,6 +110,7 @@
 - [OpenAI API](https://beta.openai.com/) ([HN](https://news.ycombinator.com/item?id=23489653))
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
 - [Medium API](https://github.com/Medium/medium-api-docs)
+- [Backblaze Go](https://github.com/kurin/blazer)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Typeform JS SDK](https://github.com/Typeform/js-api-client)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)

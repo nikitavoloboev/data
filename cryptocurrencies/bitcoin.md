@@ -91,3 +91,4 @@
 - [Modeling Bitcoin Value with Scarcity (2019)](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
 - [Bitcoin Stock-to-Flow Cross Asset Model (2020)](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
 - [Bitcoin Disrupting Payment Clearing Houses w/ Jack Mallers (2021)](https://overcast.fm/+I6zHE4hug)
+- [Strike](https://beta.strike.me/) - Send money instantly, with no fees, anywhere in the world.

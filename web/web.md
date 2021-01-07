@@ -215,3 +215,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [CSS & HTML vocabulary](http://apps.workflower.fi/vocabs/) ([Code](https://github.com/sakamies/vocabs))
 - [How We Built the GitHub Globe (2020)](https://github.blog/2020-12-21-how-we-built-the-github-globe/) ([HN](https://news.ycombinator.com/item?id=25584720))
 - [MDN live code editor interactive examples](https://github.com/mdn/interactive-examples)
+- [MinWiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites. ([Web](https://minwiz.com/))

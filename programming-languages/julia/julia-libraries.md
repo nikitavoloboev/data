@@ -168,6 +168,7 @@
 - [Circuitscape](https://github.com/Circuitscape/Circuitscape.jl) - Algorithms from circuit theory to predict connectivity in heterogeneous landscapes. ([Web](https://circuitscape.org/))
 - [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) - Arrays for working with categorical data (both nominal and ordinal).
 - [Infiltrator.jl](https://github.com/JuliaDebug/Infiltrator.jl) - Provides a macro called @infiltrate, which sets a "breakpoint" in a local context.
+- [Luxor](https://github.com/JuliaGraphics/Luxor.jl) - Julia package for drawing simple static vector graphics.
 
 ## Links
 

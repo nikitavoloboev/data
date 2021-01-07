@@ -137,6 +137,7 @@
 - [UserDefaultsSnapshot](https://github.com/VergeGroup/UserDefaultsSnapshot) - Library that enables us to create a snapshot of the values which UserDefaults manages.
 - [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces.
 - [NotificationToast](https://github.com/immortal79/NotificationToast) - View that tries to replicate iOS default toast message view.
+- [AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
 
 ## macOS
 

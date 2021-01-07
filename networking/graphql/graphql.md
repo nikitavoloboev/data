@@ -179,3 +179,4 @@
 - [Dockerize Graphql Rust](https://github.com/jayy-lmao/rust-graphql-docker) - Scratch-Containerised Rust GraphQL-API using Dataloaders.
 - [grepQL](https://grepql.netlify.app/) - GraphQL IDE that generates every queries from schema.
 - [Fire-GraphQL](https://firecamp.io/graphql/) - Intuitive, Slick & Fastest GraphQL playground.
+- [Kayu](https://github.com/maticzav/kayu) - TypeScript GraphQL client that lets you forget about GraphQL.

@@ -39,6 +39,7 @@
 - [Glimmer VM](https://github.com/glimmerjs/glimmer-vm) - Flexible, low-level rendering pipeline for building a "live" DOM from Handlebars templates that can subsequently be updated cheaply when data changes.
 - [frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications.
 - [Nano Router](https://github.com/sunesimonsen/nano-router) - Framework agnostic minimalistic router with a focus on named routes.
+- [tiny-request-router](https://github.com/berstend/tiny-request-router) - Fast, generic and type safe router (match request method and path).
 
 ## Animation
 
