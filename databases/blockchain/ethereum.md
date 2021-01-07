@@ -141,3 +141,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for Solidity.
 - [Truffle Flattener](https://github.com/nomiclabs/truffle-flattener) - Concats solidity files from Truffle and Buidler projects with all of their dependencies.
 - [Incomplete Guide to Scaling Ethereum with Rollups (2021)](https://vitalik.ca/general/2021/01/05/rollup.html)
+- [Synthetix](https://synthetix.io/) - Backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets. ([Code](https://github.com/Synthetixio/synthetix))

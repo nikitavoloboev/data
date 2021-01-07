@@ -54,6 +54,7 @@
 - [alpha.spec](https://github.com/clojure/spec-alpha2) - Clojure library to describe the structure of data and functions.
 - [clojure.math.combinatorics](https://github.com/clojure/math.combinatorics) - Efficient, functional algorithms for generating lazy sequences for common combinatorial functions.
 - [Fipp](https://github.com/brandonbloom/fipp) - Fast Idiomatic Pretty Printer for Clojure.
+- [core.logic](https://github.com/clojure/core.logic) - Logic programming library for Clojure & ClojureScript.
 
 ## Links
 

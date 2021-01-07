@@ -22,3 +22,4 @@
 - [ReactPhoenix](https://github.com/geolessel/react-phoenix) - Functions to make rendering React.js components easy in Phoenix.
 - [Drab](https://github.com/grych/drab) - Remote controlled frontend framework for Phoenix. ([Web](https://tg.pl/drab))
 - [Phoenix.PubSub.PostgreSQL](https://github.com/jvantuyl/phoenix_pubsub_postgresql) - Phoenix PubSub adapter based on PostgreSQL LISTEN / NOTIFY.
+- [Phoenix LiveView Tips](https://github.com/nshoes/phoenix-live-view-tips)

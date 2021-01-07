@@ -92,3 +92,4 @@
 - [Bitcoin Stock-to-Flow Cross Asset Model (2020)](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
 - [Bitcoin Disrupting Payment Clearing Houses w/ Jack Mallers (2021)](https://overcast.fm/+I6zHE4hug)
 - [Strike](https://beta.strike.me/) - Send money instantly, with no fees, anywhere in the world.
+- [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.

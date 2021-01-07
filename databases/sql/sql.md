@@ -85,3 +85,4 @@
 - [Recursion in SQL Explained Visually (2020)](https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b)
 - [FuseQuery](https://github.com/datafusedev/fuse-query) - Distributed SQL Query Engine at scale. ([Web](https://datafuse.dev/))
 - [Introduction to Window Functions in SQL (2020)](https://khashtamov.com/en/sql-window-functions/) ([HN](https://news.ycombinator.com/item?id=25656583))
+- [Preql](https://github.com/erezsh/Preql) - Interpreted relational query language that compiles to SQL.

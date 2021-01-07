@@ -45,3 +45,4 @@
 - [Vue Mastery](https://www.vuemastery.com/) - Ultimate Learning Resource for Vue.js Developers.
 - [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
 - [VueDX](https://github.com/znck/vue-developer-experience) - Collection of tools for Vue ecosystem.
+- [Vue Chemistry](https://github.com/antfu/vue-chemistry) - Reactified JavaScript functions for Vue.
