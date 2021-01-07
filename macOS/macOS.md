@@ -126,3 +126,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Reverse-Engineering Apple Dictionary (2020)](https://fmentzer.github.io/posts/2020/dictionary/)
 - [Project Mendacius](https://github.com/PraneetNeuro/Project-Mendacius) - GUI based virtualization tool for running Linux on macOS Big Sur.
 - [dmgdist](https://github.com/insidegui/dmgdist) - Automate the process of creating, uploading and notarizing the DMG of a Mac app.
+- [Apple Open Source Modules of Big Sur](https://opensource.apple.com/release/macos-1101.html) ([HN](https://news.ycombinator.com/item?id=25675763))
