@@ -20,7 +20,7 @@ The 6 habits were an essential subset of more general [rules](rules.md).
 
 `Activity rings` is autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals.
 
-`Nutritious Plants | Water` is marked as done when I drank only water/tea/coffee (no added sugar) & ate only [nutritious whole foods (nuts/veggies/fruits)](../health/nutrition/foods.md) with focus on completing my micro & macro nutrient goals. It includes consuming my [daily supplements](../health/nutrition/supplements.md).
+`Nutritious Plants | Water` is marked as done when I drank only water/tea/coffee (no added sugar) & ate only [nutritious whole foods (nuts/veggies/fruits)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md).
 
 `Impact | Simplify | Calm` is marked as done when I felt my work was impactful towards my goals. All of my values and rules were held. I further simplified things and cut out noise from my life to focus on creating and capturing value. It also means I was calm and mindful throughout the day. No anxieties and no inhibitions.
 

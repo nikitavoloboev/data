@@ -41,3 +41,4 @@
 - [ArrayFire](https://github.com/arrayfire/arrayfire) - General purpose GPU library. ([Web](https://arrayfire.com/))
 - [AMD ROCm Platform Docs](https://rocmdocs.amd.com/en/latest/) - Open-source software development platform for HPC/Hyperscale-class GPU computing. ([Code](https://github.com/RadeonOpenCompute/ROCm))
 - [Dissecting the Apple M1 GPU (2021)](https://rosenzweig.io/blog/asahi-gpu-part-1.html) ([HN](https://news.ycombinator.com/item?id=25673631))
+- [Asahi GPU](https://github.com/AsahiLinux/gpu) - Research for an open source graphics stack fo Apple M1.

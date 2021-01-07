@@ -58,3 +58,4 @@
 - [Why Jira Sucks](https://whyjirasucks.com/) ([HN](https://news.ycombinator.com/item?id=25590846))
 - [Grumpy Website](https://grumpy.website/) - Blog about design fails / gripes / anitpatterns.
 - [Built for Mars](https://builtformars.com/) - UX matters. On a mission to help the world build better user experiences by demystifying UX.
+- [Pocket UX List](https://github.com/rubymorillo/pocket-ux-list) - Small, but formidable, list of UX-related resources for people interested in learning more about various UX concepts.
