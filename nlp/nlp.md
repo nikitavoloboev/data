@@ -223,3 +223,4 @@
 - [Must-read papers on neural relation extraction (NRE)](https://github.com/thunlp/NREPapers)
 - [FewRel Dataset, Toolkits and Baseline Models](https://github.com/thunlp/FewRel)
 - [Tree Transformer: Integrating Tree Structures into Self-Attention (2019)](https://arxiv.org/abs/1909.06639) ([Code](https://github.com/yaushian/Tree-Transformer))
+- [SentEval: evaluation toolkit for sentence embeddings](https://github.com/facebookresearch/SentEval)

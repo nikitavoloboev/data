@@ -77,3 +77,4 @@
 - [Gatsby Use Cases](https://www.gatsbyjs.com/use-cases/)
 - [We developed a font loader plugin for Gatsby (2020)](https://blog.prototyp.digital/we-developed-a-font-loader-plugin-for-gatsby/)
 - [Gatsby Docs](https://www.gatsbyjs.com/docs/)
+- [GatsbyConf](https://www.gatsbyconf.com/)

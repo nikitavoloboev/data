@@ -621,6 +621,8 @@
 - [Ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
 - [Gazebo](https://github.com/facebookincubator/gazebo) - Rust library containing a collection of small well-tested primitives.
 - [Arcon](https://github.com/cda-group/arcon) - Runtime for Writing Streaming Applications in Rust.
+- [joinery](https://github.com/Lucretiel/joinery) - Rust library for generically joining iterables with a separator.
+- [rpmalloc-rs](https://github.com/EmbarkStudios/rpmalloc-rs) - Cross-platform Rust global memory allocator using rpmalloc.
 
 ## Cargo Plugins
 

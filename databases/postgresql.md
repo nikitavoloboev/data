@@ -191,3 +191,4 @@
 - [tmp-postgres](https://github.com/jfischoff/tmp-postgres) - Create temporary postgres instances. ([Keeping Database Tests Fast with `tmp-postgres`](http://jfischoff.github.io/blog/keeping-database-tests-fast.html)) ([Faster Database Testing with the New `tmp-postgres`](http://jfischoff.github.io/blog/faster-database-testing.html))
 - [DbSchema](https://github.com/db-schema/core) - Opinionated database schema management tool that lets you maintain your DB schema with a single ruby file.
 - [Apache AGE](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph database extension for PostgreSQL.
+- [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.

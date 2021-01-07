@@ -146,3 +146,4 @@
 - [Data Science Lifecycle Base Repo](https://github.com/dslp/dslp-repo-template) - Template repository for data science projects using the Data Science Life Cycle Process.
 - [5th International Summer School on Data Science (2020)](https://sites.google.com/view/ssdatascience2020) ([Code](https://github.com/SSDS-Croatia/SSDS-2020))
 - [Scalable Data Science](https://lamastex.github.io/scalable-data-science/) - Course sets in big data Using Apache Spark over databricks and their mathematical, statistical and computational foundations using SageMath. ([Code](https://github.com/lamastex/scalable-data-science))
+- [Datatap](https://datatap.dev/) - Free user-friendly platform for visual data management. ([Code](https://github.com/zensors/datatap-python))

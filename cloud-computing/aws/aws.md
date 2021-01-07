@@ -132,3 +132,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency.
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Remove all resources from an AWS account.
+- [superwerker](https://github.com/superwerker/superwerker) - Automates the setup of an AWS Cloud environment with prescriptive best practices.

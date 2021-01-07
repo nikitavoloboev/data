@@ -135,3 +135,4 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [The Grant Williams Podcast](https://ttmygh.podbean.com/)
 - [Trading 212](https://www.trading212.com/) - Invest in Stocks and ETFs for free. ([Community](https://community.trading212.com/))
 - [streetmerchant](https://github.com/jef/streetmerchant) - World's easiest, most powerful stock checker. ([Docs](https://jef.codes/streetmerchant/))
+- [Investing in Public: Non-Obvious Lessons from 100 Angel Investments (2021)](https://sacerdoti.substack.com/p/investing-in-public-non-obvious-lessons)

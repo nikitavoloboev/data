@@ -204,3 +204,4 @@
 - [torchfunc](https://github.com/szymonmaszke/torchfunc) - PyTorch functions and utilities to make your life easier.
 - [PyTorch-Reparam-Module](https://github.com/SsnL/PyTorch-Reparam-Module) - Reparameterize your PyTorch modules.
 - [Pytorch Forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch.
+- [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in PyTorch.

@@ -49,6 +49,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Kathy Simpson](http://www.kathy.pm/cv) - Pretty.
 - [Steffan Sølvsten](https://ssoelvsten.github.io/) ([Code](https://github.com/SSoelvsten/SSoelvsten.github.io))
 - [Martin Lucina](https://lucina.net/cv:lucina)
+- [Craig Ferguson](https://www.craigfe.io/cv.pdf) ([Code](https://github.com/CraigFe/fancv))
 
 ## Notes
 

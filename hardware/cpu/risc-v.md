@@ -76,3 +76,4 @@
 - [Swimmer-RISCV](https://github.com/msyksphinz-self/swimmer_riscv) - Instruction set simulator for RISC-V.
 - [Dydra](https://github.com/msyksphinz-self/dydra) - Instruction set emulator written in Rust, now supports RISC-V as guest ISA, x86-64 as host ISA.
 - [RSD](https://github.com/rsd-devel/rsd) - RISC-V Out-of-Order Superscalar Processor. ([HN](https://news.ycombinator.com/item?id=25644678))
+- [v8-riscv](https://github.com/v8-riscv/v8) - Port of JavaScript V8 engine to RISC-V. ([HN](https://news.ycombinator.com/item?id=25663403))

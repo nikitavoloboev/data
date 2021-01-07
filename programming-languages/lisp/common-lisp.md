@@ -44,3 +44,4 @@
 - [Trivia](https://github.com/guicho271828/trivia) - Pattern Matcher Compatible with Optima.
 - [Nile](https://github.com/damelang/nile) - Programming Language for Declarative Stream Processing in Media Applications.
 - [Common Lisp implementation of Google's protocol buffers](https://github.com/brown/protobuf)
+- [Debugging Lisp (2015)](https://malisper.me/category/debugging-common-lisp/) ([HN](https://news.ycombinator.com/item?id=25661701))

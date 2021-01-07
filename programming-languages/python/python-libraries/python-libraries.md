@@ -15,6 +15,7 @@
 - [instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods.
 - [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
+- [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/))
 
 ## ML
 
@@ -34,6 +35,7 @@
 - [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 - [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - Mobility analysis in Python.
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib.
+- [Tigramite](https://github.com/jakobrunge/tigramite) - Time series analysis python module for causal discovery.
 
 ## Biology
 

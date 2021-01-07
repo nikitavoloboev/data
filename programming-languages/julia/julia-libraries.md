@@ -50,6 +50,7 @@
 - [Tullio.jl](https://github.com/mcabbott/Tullio.jl) - Flexible einsum macro. Understands many array operations written in index notation.
 - [Stheno](https://github.com/willtebbutt/Stheno.jl) - Probabilistic Programming with Gaussian processes in Julia.
 - [MultiFloats.jl](https://github.com/dzhang314/MultiFloats.jl) - Fast extended-precision floating-point arithmetic for Julia.
+- [RecursiveFactorization](https://github.com/YingboMa/RecursiveFactorization.jl) - Package that collects various recursive matrix factorization algorithms.
 
 ## NLP
 

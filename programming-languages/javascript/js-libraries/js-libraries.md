@@ -425,6 +425,7 @@
 - [cmap](https://github.com/ionstage/cmap) - Interactive visualization library for concept map.
 - [lezer-tree](https://github.com/lezer-parser/lezer-tree) - Incremental GLR parser intended for use in an editor or similar system.
 - [matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs.
+- [acorn](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser, written completely in JavaScript.
 
 ## Links
 

@@ -201,3 +201,4 @@
 - [HTML4Vision](https://github.com/mtli/HTML4Vision) - Simple HTML visualization tool for computer vision research.
 - [Soft-IntroVAE: Analyzing and Improving Introspective Variational Autoencoders](https://github.com/taldatech/soft-intro-vae-pytorch)
 - [Taming Transformers for High-Resolution Image Synthesis](https://github.com/CompVis/taming-transformers)
+- [X-Temporal](https://github.com/Sense-X/X-Temporal) - Easily implement SOTA video understanding methods with PyTorch on multiple machines and GPUs.

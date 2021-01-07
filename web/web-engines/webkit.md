@@ -11,3 +11,4 @@
 - [Filip Pizlo's Papers](http://www.filpizlo.com/papers.html) - Core maintainer of WebKit.
 - [Using const/let instead of var can make JavaScript code run 10× slower in Webkit (2020)](https://github.com/evanw/esbuild/issues/478) ([HN](https://news.ycombinator.com/item?id=24844353))
 - [WebKit Explainers](https://github.com/WebKit/explainers) - Explainers from WebKit contributors.
+- [WebKit Code](https://github.com/WebKit/WebKit)

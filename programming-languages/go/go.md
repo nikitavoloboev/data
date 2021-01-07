@@ -407,3 +407,4 @@ Go promotes composition over inheritance.
 - [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool.
 - [Go as a dynamic plugin language for Go](https://skuz.xyz/go-in-go.html) ([Lobsters](https://lobste.rs/s/lqr8yr/go_as_dynamic_plugin_language_for_go))
 - [GolangWeekly Searcher](http://golangweeklysearch.com/)
+- [Go Cheat Sheet](https://devhints.io/go)

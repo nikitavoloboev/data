@@ -97,3 +97,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Customizing Neovim LSP (nvim-lsp) (2020)](https://rishabhrd.github.io/jekyll/update/2020/09/19/nvim_lsp_config.html)
 - [popfix](https://github.com/RishabhRD/popfix) - Neovim lua API for highly extensible quickfix window.
 - [vim9jit](https://github.com/tjdevries/vim9jit) - Vimscript but in Lua and fast.
+- [sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim.

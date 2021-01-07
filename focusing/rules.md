@@ -18,7 +18,7 @@
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Create & update rules based on new experience. Build, enforce & learn existing rules.
+- Create & update rules based on new experience. Build, enforce & learn existing rules. Turn rules into [habits](habits.md).
 - [Take it easy](../life/happiness.md). Be playful. You only live now.
 
 ## Health

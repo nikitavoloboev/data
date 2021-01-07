@@ -25,7 +25,7 @@
 - [Typed Racket Guide](https://docs.racket-lang.org/ts-guide/index.html)
 - [Racket is 25 years old (2020)](https://blog.racket-lang.org/2020/05/racket-is-25.html) ([HN](https://news.ycombinator.com/item?id=23132621))
 - [Racket Stories](https://racket-stories.com/)
-- [Racket News](https://racket-news.com/)
+- [Racket News](https://racket-news.com/) ([Code](https://github.com/pmatos/racket-news))
 - [sham](https://github.com/rjnw/sham) - DSL for runtime code generation in racket.
 - [PasteRack](http://www.pasterack.org/) - Evaluating pastebin for Racket. ([Code](https://github.com/stchang/pasterack))
 - [cKanren](https://github.com/calvis/cKanren) - Constraint programming language embedded in Racket.

@@ -384,3 +384,4 @@
 - [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus (2018)](https://www.inference.vc/untitled/) ([HN](https://news.ycombinator.com/item?id=25645205))
 - [Distributed deep learning and inference without sharing raw data](https://splitlearning.github.io/) ([Code](https://github.com/splitlearning/splitlearning.github.io))
 - [Famous ML papers/concepts that are hard to understand (2021)](https://www.reddit.com/r/MachineLearning/comments/krkxog/d_lets_start_2021_by_confessing_to_which_famous/)
+- [MLJAR Automated Machine Learning](https://github.com/mljar/mljar-supervised) - Automates Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning. ([Web](https://mljar.com/)) ([HN](https://news.ycombinator.com/item?id=25644733))

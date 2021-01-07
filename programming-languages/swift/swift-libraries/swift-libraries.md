@@ -544,6 +544,7 @@
 - [RBBJSON](https://github.com/robb/RBBJSON) - Enables flexible JSON traversal at runtime and JSONPath-like querying for rapid prototyping.
 - [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy.
 - [SwiftImage](https://github.com/koher/swift-image) - Image library in Swift with Swifty APIs and value semantics.
+- [SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio) - Audio player written in Swift, making it simpler to work with audio playback from streams and files.
 
 ## Other (not lib)
 

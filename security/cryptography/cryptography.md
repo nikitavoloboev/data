@@ -100,3 +100,4 @@
 - [How Rainbow Tables work](http://kestas.kuliukas.com/RainbowTables/)
 - [Cryptography in Layman's Terms (2020)](https://portabella.io/blog/2020-11-16-crypto-in-laymans-terms/)
 - [Cryptographic Wear-Out for Symmetric Encryption (2020)](https://soatok.blog/2020/12/24/cryptographic-wear-out-for-symmetric-encryption/) ([Lobsters](https://lobste.rs/s/2m20u4/cryptographic_wear_out_for_symmetric))
+- [A Decade of Lattice Cryptography (2016)](http://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)

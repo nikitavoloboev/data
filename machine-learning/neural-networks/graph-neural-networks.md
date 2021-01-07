@@ -33,3 +33,4 @@
 - [Supervised Learning on Relational Databases with Graph Neural Networks](https://github.com/mwcvitkovic/Supervised-Learning-on-Relational-Databases-with-GNNs)
 - [Why I’m lukewarm on graph neural networks (2020)](https://www.singlelunch.com/2020/12/28/why-im-lukewarm-on-graph-neural-networks/) ([HN](https://news.ycombinator.com/item?id=25632592))
 - [Simplicial Neural Networks](https://github.com/stefaniaebli/paper-snn-neurips2020tda) - Generalization of graph neural networks to data that live on a class of topological spaces called [simplicial complexes].
+- [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://github.com/devnkong/FLAG)

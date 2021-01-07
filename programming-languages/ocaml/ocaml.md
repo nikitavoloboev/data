@@ -68,3 +68,5 @@
 - [On Effectiveness of Exceptions in OCaml](https://lemaetech.co.uk/articles/exceptions.html) ([Reddit](https://www.reddit.com/r/ocaml/comments/k62l15/on_effectiveness_of_exceptions_in_ocaml/))
 - [Memthol](https://github.com/OCamlPro/memthol) - Visualizer for memory profiling data generated from OCaml programs.
 - [Modular implicits in OCaml](http://www.lpw25.net/papers/ml2014.pdf) ([Code](https://github.com/ocamllabs/ocaml-modular-implicits))
+- [The \_intf trick (2020)](https://www.craigfe.io/posts/the-intf-trick) - Trick for avoiding duplication of types between .ml and .mli files.
+- [OCaml Operator Lookup](https://www.craigfe.io/operator-lookup/) - Enter an OCaml operator to learn more about it.

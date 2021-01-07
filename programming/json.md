@@ -44,3 +44,4 @@
 - [Jansson](https://github.com/akheron/jansson) - C library for encoding, decoding and manipulating JSON data.
 - [Parsing JSON at the CLI: A Practical Introduction to jq and more (2020)](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/) ([HN](https://news.ycombinator.com/item?id=25498364))
 - [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - Rules engine expressed in JSON.
+- [JSON Editor](https://json-editor.github.io/json-editor/) - JSON Schema Based Editor. ([Code](https://github.com/json-editor/json-editor))

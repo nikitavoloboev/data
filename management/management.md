@@ -74,3 +74,6 @@
 - [A Strengths Assessment Review (2020)](https://reese.dev/a-strengths-assessment-review/)
 - [Engineering Ladders](http://www.engineeringladders.com/) - Framework for Engineering Managers.
 - [Building On-Call Culture at GitHub (2021)](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
+- [Designing Engineering Organizations (2021)](https://jacobian.org/2021/jan/5/designing-engineering-organizations/) ([HN](https://news.ycombinator.com/item?id=25649095))
+- [Team Topologies](https://teamtopologies.com/) - Organizing Business and Technology Teams for Fast Flow. ([Book](https://teamtopologies.com/book))
+- [No Meetings, No Deadlines, No Full-Time Employees (2021)](https://sahillavingia.com/work) ([HN](https://news.ycombinator.com/item?id=25673275))

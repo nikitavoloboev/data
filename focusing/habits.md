@@ -1,10 +1,16 @@
 # Habits
 
-I once used [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
+I use [Streaks](https://streaksapp.com) iOS app to ensure I complete & learn new habits.
+
+![](https://i.imgur.com/IikMEuj.png)
+
+## Previous habits
+
+I took a break from using Streaks for a while but before the break, my habits looked like:
 
 ![](https://i.imgur.com/SvGbgFs.jpg)
 
-The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life. I don't use the app any more as these habits are fully ingrained into my lifestyle.
+The 6 habits were an essential subset of more general [rules](rules.md).
 
 ## Habits described
 
@@ -22,7 +28,9 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 ## Building new habits (rules)
 
-Nowadays I learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/goals.md) I want to go. Everything is built around refined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
+I try learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/goals.md) I want to go. Everything is built around refined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
+
+Streaks is a nice app that lets me keep track of the 6 main things I want to keep track in life. I get a notification in the evening where I review the habits.
 
 ## Notes
 
@@ -37,3 +45,4 @@ Nowadays I learn new habits proactively by building systems and thought processe
 - [Ask HN: What’s your daily/weekly routine? (2020)](https://news.ycombinator.com/item?id=24029286)
 - [The Proof](https://www.theproofwellness.com/) - Wellness Advice from World-Class Founders.
 - [Make your habits zero-effort](https://www.benkuhn.net/zero/)
+- [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results.

@@ -31,3 +31,4 @@
 - [Rust library for homomorphic hashing](https://github.com/benwr/bromberg_sl2) ([Lobsters](https://lobste.rs/s/phm3v2/rust_library_for_homomorphic_hashing))
 - [SRI Hash Generator](https://www.srihash.org/)
 - [Hash, displace, and compress](http://cmph.sourceforge.net/papers/esa09.pdf) ([Code](https://gist.github.com/pervognsen/b21f6dd13f4bcb4ff2123f0d78fcfd17))
+- [Hashids](https://hashids.org/) - Generate short unique ids from integers. ([JS Code](https://github.com/niieani/hashids.js)) ([Go Code](https://github.com/speps/go-hashids))

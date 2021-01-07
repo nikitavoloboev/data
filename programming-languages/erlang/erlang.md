@@ -30,6 +30,7 @@
 - [Advent of Code 2019 done in Erlang videos](https://www.youtube.com/watch?v=TqzBchjZw4Q)
 - [Erlang Programming Language - Computerphile (2019)](https://www.youtube.com/watch?v=SOqQVoVai6s)
 - [History of Erlang](https://dl.acm.org/doi/abs/10.1145/1238844.1238850)
+- [A History of the Erlang VM (2011)](http://www.erlang-factory.com/upload/presentations/389/EFSF11-ErlangVM.pdf)
 - [Matching binary patterns with Erlang](https://dev.to/l1x/matching-binary-patterns-11kh) ([Lobsters](https://lobste.rs/s/3a9e2a/matching_binary_patterns_with_erlang))
 - [Erlang/OTP 23](https://www.erlang.org/news/140) ([HN](https://news.ycombinator.com/item?id=23166554))
 - [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines (2020)](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html) ([HN](https://news.ycombinator.com/item?id=23168119))
