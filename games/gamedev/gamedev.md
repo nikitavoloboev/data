@@ -128,3 +128,4 @@
 - [ink](https://www.inklestudios.com/ink/) - Narrative scripting language. ([Code](https://github.com/inkle/ink))
 - [TIC-80](https://github.com/nesbox/TIC-80) - Fantasy computer for making, playing and sharing tiny games. ([Web](https://tic80.com/))
 - [Making a Game in 48 hours with Rust and WebAssembly (2020)](https://ianjk.com/rust-gamejam/)
+- [Build tools for a multiplayer browser game (2021)](https://jeffanddom.com/devlog/2021-01-07-how-jeff-and-dom-make-the-game/)
