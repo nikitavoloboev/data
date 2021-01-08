@@ -60,3 +60,4 @@
 - [GraspNet](https://graspnet.net/) - Large-Scale Benchmark for General Object Grasping. ([Code](https://github.com/graspnet/graspnet-baseline))
 - [Getting Started in Robotics (2021)](https://allshire.org/getting-started-robotics/) ([HN](https://news.ycombinator.com/item?id=25608932))
 - [FERM: A Framework for Efficient Robotic Manipulation](https://github.com/PhilipZRH/ferm)
+- [The Way Boston Dynamics Taught Its Robots to Dance (2021)](https://spectrum.ieee.org/automaton/robotics/humanoids/how-boston-dynamics-taught-its-robots-to-dance) ([HN](https://news.ycombinator.com/item?id=25671452))

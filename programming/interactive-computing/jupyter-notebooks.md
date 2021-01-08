@@ -93,3 +93,4 @@
 - [NBSite](https://github.com/pyviz-dev/nbsite) - Build a tested, sphinx-based website from notebooks.
 - [Spinzero](https://github.com/neilpanchal/spinzero-jupyter-theme) - Minimal Jupyter Notebook theme.
 - [JupyterLab 3.0 (2021)](https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb?gi=c83e8e8a577a) ([HN](https://news.ycombinator.com/item?id=25647034))
+- [JupyterLab Extension written in Rust and compiled to WebAssembly](https://github.com/jtpio/jupyterlab-wasm-example)

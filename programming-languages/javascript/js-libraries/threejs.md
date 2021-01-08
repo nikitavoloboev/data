@@ -35,3 +35,4 @@
 - [Three.js Sandbox](https://github.com/gkjohnson/threejs-sandbox) - Set of experiments and extensions to Three.js.
 - [Next & React three fiber starter](https://github.com/pmndrs/react-three-next)
 - [ThreeJS starter](https://github.com/kekkorider/threejs-starter) - General template for ThreeJS applications. It uses Parcel to create the bundle and Tweakpane for live updates.
+- [three-projected-material](https://github.com/marcofugaro/three-projected-material) - Three.js Material which lets you do Texture Projection on a 3d Model.

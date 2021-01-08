@@ -51,6 +51,8 @@
 - [Stheno](https://github.com/willtebbutt/Stheno.jl) - Probabilistic Programming with Gaussian processes in Julia.
 - [MultiFloats.jl](https://github.com/dzhang314/MultiFloats.jl) - Fast extended-precision floating-point arithmetic for Julia.
 - [RecursiveFactorization](https://github.com/YingboMa/RecursiveFactorization.jl) - Package that collects various recursive matrix factorization algorithms.
+- [Nemo](https://github.com/Nemocas/Nemo.jl) - Computer algebra package for the Julia programming language. It aims to cover commutative algebra, number theory and group theory.
+- [AbstractAlgebra](https://github.com/Nemocas/AbstractAlgebra.jl) - Pure Julia package for computational abstract algebra.
 
 ## NLP
 

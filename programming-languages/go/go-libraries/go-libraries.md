@@ -562,7 +562,7 @@
 - [Golang Network File Server](https://github.com/willscott/go-nfs/) - NFSv3 protocol implementation in pure Go. ([HN](https://news.ycombinator.com/item?id=24287381))
 - [Dump](https://github.com/storozhukBM/dump) - One function library to simplify local print debug.
 - [Go-Diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go. ([HN](https://news.ycombinator.com/item?id=24603926))
-- [Bluge](https://github.com/blugelabs/bluge) - Modern text indexing in go.
+- [Bluge](https://github.com/blugelabs/bluge/) - Modern text indexing in go.
 - [Typed](https://github.com/karlseguin/typed) - Wrapper around map[string]interface{} to provide some strong typing.
 - [Purell](https://github.com/PuerkitoBio/purell) - Go library to normalize URLs.
 - [Vasto](https://github.com/chrislusf/vasto) - Distributed key-value store. On Disk. Able to grow or shrink without service interruption.
@@ -663,6 +663,7 @@
 - [goimagehash](https://github.com/corona10/goimagehash) - Go Perceptual image hashing package.
 - [ember](https://github.com/maja42/ember) - Embed arbitrary resources into a go executable at runtime, after the executable has been built.
 - [deque](https://github.com/ef-ds/deque) - Implements a very fast and efficient general purpose queue/stack/deque data structure.
+- [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go.
 
 ## Links
 

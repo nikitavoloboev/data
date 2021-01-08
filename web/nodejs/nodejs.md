@@ -168,3 +168,4 @@
 - [Celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs.
 - [Pipe Streams in Node in the Right Way (2020)](https://komelin.com/articles/pipe-streams-node-right-way/)
 - [shargs (shell args)](https://github.com/Yord/shargs) - Library for building command-line argument parsers.
+- [NodeGui](https://github.com/nodegui/nodegui) - Build performant, native and cross-platform desktop applications with Node.js and CSS like styling. Powered by Qt. ([Web](https://docs.nodegui.org/))

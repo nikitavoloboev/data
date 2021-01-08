@@ -18,3 +18,4 @@
 - [Get Started With Tmux (2020)](https://sunainapai.in/blog/get-started-with-tmux/) ([Lobsters](https://lobste.rs/s/mqwfhu/get_started_with_tmux))
 - [Smug](https://github.com/ivaaaan/smug) - Session manager for tmux written in Go.
 - [tmux-panes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider.
+- [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.

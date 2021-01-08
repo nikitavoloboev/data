@@ -408,3 +408,6 @@ Go promotes composition over inheritance.
 - [Go as a dynamic plugin language for Go](https://skuz.xyz/go-in-go.html) ([Lobsters](https://lobste.rs/s/lqr8yr/go_as_dynamic_plugin_language_for_go))
 - [GolangWeekly Searcher](http://golangweeklysearch.com/)
 - [Go Cheat Sheet](https://devhints.io/go)
+- [Elegancy of Go's error handling (2021)](https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/) ([Lobsters](https://lobste.rs/s/hvcwvx/elegancy_go_s_error_handling))
+- [holmes](https://github.com/mosn/holmes) - Self-aware Go profile dumper.
+- [Go Repository Template](https://github.com/golang-templates/seed) - GitHub repository template for Go. It has been created for ease-of-use.

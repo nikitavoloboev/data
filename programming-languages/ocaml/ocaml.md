@@ -70,3 +70,4 @@
 - [Modular implicits in OCaml](http://www.lpw25.net/papers/ml2014.pdf) ([Code](https://github.com/ocamllabs/ocaml-modular-implicits))
 - [The \_intf trick (2020)](https://www.craigfe.io/posts/the-intf-trick) - Trick for avoiding duplication of types between .ml and .mli files.
 - [OCaml Operator Lookup](https://www.craigfe.io/operator-lookup/) - Enter an OCaml operator to learn more about it.
+- [Friendship ended with Monads: Testing out Algebraic effects in OCaml for Animations (2021)](https://gopiandcode.uk/logs/log-bye-bye-monads-algebraic-effects.html)

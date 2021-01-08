@@ -98,3 +98,5 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [popfix](https://github.com/RishabhRD/popfix) - Neovim lua API for highly extensible quickfix window.
 - [vim9jit](https://github.com/tjdevries/vim9jit) - Vimscript but in Lua and fast.
 - [sql.nvim](https://github.com/tami5/sql.nvim) - SQLite/LuaJIT binding for lua and neovim.
+- [Neovim client for Julia](https://github.com/bfredl/Neovim.jl)
+- [neovim-lib](https://github.com/daa84/neovim-lib) - Rust library for Neovim clients.

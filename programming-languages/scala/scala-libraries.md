@@ -50,6 +50,8 @@
 - [Treadle](https://github.com/freechipsproject/treadle) - Experimental circuit simulator that executes low Firrtl IR.
 - [graalnative4s](https://github.com/usommerl/graalnative4s) - Employ Scala for serverless applications.
 - [Cats Effect](https://github.com/typelevel/cats-effect) - Purely functional runtime system for Scala.
+- [NewType](https://github.com/estatico/scala-newtype) - Scala with no runtime overhead.
+- [Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala. ([Docs](https://www.optics.dev/Monocle/))
 
 ## Links
 

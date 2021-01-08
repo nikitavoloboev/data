@@ -65,14 +65,14 @@
 - [TTAch](https://github.com/qubvel/ttach) - Image Test Time Augmentation with PyTorch.
 - [Hyperspherical Variational Auto-Encoders in PyTorch](https://github.com/nicola-decao/s-vae-pytorch)
 - [Hyperbolic Graph Convolutional Networks in PyTorch](https://github.com/HazyResearch/hgcn)
-- [Deep Learning with PyTorch book](https://pytorch.org/deep-learning-with-pytorch) - Provides a detailed, hands-on introduction to building and training neural networks with PyTorch. ([HN](https://news.ycombinator.com/item?id=21601774))
+- [Deep Learning with PyTorch Book (2020)](https://www.manning.com/books/deep-learning-with-pytorch) - Provides a detailed, hands-on introduction to building and training neural networks with PyTorch. ([HN](https://news.ycombinator.com/item?id=21601774)) ([Code](https://github.com/deep-learning-with-pytorch/dlwpt-code))
 - [OpenProtein](https://github.com/biolib/openprotein) - PyTorch framework for tertiary protein structure prediction.
 - [GPyTorch](https://github.com/cornellius-gp/gpytorch) - Highly efficient and modular implementation of Gaussian Processes in PyTorch. ([Docs](https://gpytorch.readthedocs.io/en/latest/index.html))
 - [Memory-efficient implementation of DenseNets](https://github.com/gpleiss/efficient_densenet_pytorch)
 - [PyTorch Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming.
 - [Reformer](https://github.com/lucidrains/reformer-pytorch) - Efficient Transformer, in PyTorch.
 - [Which PyTorch-compatible training abstraction libraries do you use and why? (2020)](https://www.reddit.com/r/MachineLearning/comments/esrtxu/d_which_pytorchcompatible_training_abstraction/)
-- [Deep Learning with PyTorch course](https://atcold.github.io/pytorch-Deep-Learning-Minicourse/) ([Code](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse))
+- [Deep Learning with PyTorch Course](https://atcold.github.io/pytorch-Deep-Learning-Minicourse/) ([Code](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse))
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library (2019)](https://arxiv.org/abs/1912.01703)
 - [Open Graph Benchmark (OGB)](https://github.com/snap-stanford/ogb) - Collection of benchmark datasets, data-loaders and evaluators for graph machine learning in PyTorch.
 - [Ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.

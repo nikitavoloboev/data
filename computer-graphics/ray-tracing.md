@@ -61,3 +61,4 @@
 - [Why Raytracing won't simplify AAA real-time rendering (2020)](http://c0de517e.blogspot.com/2020/12/why-raytracing-wont-simplify-aaa-real.html) ([HN](https://news.ycombinator.com/item?id=25557354))
 - [Psychopath](https://github.com/cessen/psychopath) - Slightly psychotic path tracer.
 - [Helios](https://github.com/diharaw/Helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
+- [retrace.gl](https://github.com/stasilo/retrace.gl) - Create, ray trace & export programmatically defined Signed Distance Function CSG geometries with an API suited for generative art - in your browser.

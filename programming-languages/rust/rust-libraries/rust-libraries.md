@@ -15,6 +15,7 @@
 - [Console Engine](https://github.com/VincentFoulon80/console_engine) - Simple terminal framework to draw things and manage user input.
 - [console](https://github.com/mitsuhiko/console) - Library for Rust that provides access to various terminal features so you can build nicer looking command line interfaces.
 - [termimad](https://github.com/Canop/termimad) - Library to display rich (Markdown) snippets and texts in a rust terminal application.
+- [indicatif](https://github.com/mitsuhiko/indicatif) - Rust library for indicating progress in command line applications to users.
 
 ## Web
 

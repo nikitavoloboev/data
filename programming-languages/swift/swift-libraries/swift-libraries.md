@@ -216,6 +216,7 @@
 - [AttributedText](https://github.com/gonzalezreal/AttributedText) - Render attributed strings in SwiftUI.
 - [SetNeedsDisplay](https://github.com/b3ll/SetNeedsDisplay) - Swift Property Wrapper to invalidate your view's layout or display based on property changes.
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown formatted text in SwiftUI.
+- [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - Efficient and customizable full screen calendar written in SwiftUI.
 
 ## Test
 
@@ -545,6 +546,7 @@
 - [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) - Collection of PropertyWrappers to make custom Serialization of Swift Codable Types easy.
 - [SwiftImage](https://github.com/koher/swift-image) - Image library in Swift with Swifty APIs and value semantics.
 - [SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio) - Audio player written in Swift, making it simpler to work with audio playback from streams and files.
+- [AudioKitUI](https://github.com/AudioKit/AudioKitUI) - User Interfaces for AudioKit.
 
 ## Other (not lib)
 

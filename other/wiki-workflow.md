@@ -138,6 +138,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Uncertainty Mindset Wiki](https://uncertaintymindset.org/UM1/index.html)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
+- [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)
 - [Artyom's tech notes](https://tek.brick.do/)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))

@@ -40,6 +40,7 @@
 - [frint](https://github.com/frintjs/frint) - Modular JavaScript framework for building scalable and reactive applications.
 - [Nano Router](https://github.com/sunesimonsen/nano-router) - Framework agnostic minimalistic router with a focus on named routes.
 - [tiny-request-router](https://github.com/berstend/tiny-request-router) - Fast, generic and type safe router (match request method and path).
+- [Synergy](https://github.com/defx/synergy) - Tiny runtime library for building web user interfaces. ([HN](https://news.ycombinator.com/item?id=25677272))
 
 ## Animation
 

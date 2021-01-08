@@ -28,7 +28,7 @@ Be aware of pacing between words and sentences. The sentences ideally should flo
 
 Replace words like `really like` with `love` or other more appropriate words that save space writing and are more relevant to what I am trying to say.
 
-## My process in writing
+## My writing process
 
 I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
 
@@ -39,12 +39,6 @@ I then start writing the article and try to touch on one or all of these points 
 I write all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use an [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through this wiki & my blog.
 
 ![](https://i.imgur.com/J7vMVjA.png)
-
-## Publishing the article
-
-Once I wrote the article that I am quite happy with. I export the article straight to Medium with [MarkdownToMedium](https://markdowntomedium.com/). I then reread the article again in Medium's editor and fix any styling issues/mistakes that happened. After that I publish the article and share it on Twitter and other internet places.
-
-In future I plan to move my writing off Medium as I prefer to keep the source of all articles in the open on GitHub so anyone can edit them. Plus it would let me be more creative in the kinds of things I can include in the articles.
 
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 
@@ -90,6 +84,18 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - sort of
 - kind of
 - rather
+
+## Improving my writing
+
+I try to take notice of things I like when reading. The main issue I find that authors make is writing to impress. Writing as everything else in life has to be and feel genuine.
+
+There is no point in trying to impress someone with flashy words. Focus on the message you want to deliver and do it succinctly and with impact. Most readers remember the start and end of the articles most.
+
+Having 0 frictions in starting to write & publishing is incredibly empowering too. [Linus's site](https://thesephist.com/) is great inspiration for that. Alongside many of the wikis people have made and published.
+
+Quick notes interlinked are amazing. But when combined with proper researched and well done articles such as ones by [Bartosz Ciechanowski](https://ciechanow.ski/cameras-and-lenses/) backed by visualizations and data. It's even more incredible.
+
+I personally have been focusing on growing this wiki for way too long, I want to write more long term pieces, properly researched and well done. Web canvas is so powerful in the kinds of stories you can tell. Or maybe make more photographical stories like ones seen on [Exposure](https://www.exposure.co/publications).
 
 ## Notes
 

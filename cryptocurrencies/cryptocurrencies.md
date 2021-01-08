@@ -7,7 +7,7 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that wastes e
 ## Interesting
 
 - [Nano](https://nano.org) - Peer-to-peer digital currency with fast & cheap transactions. ([Code](https://github.com/nanocurrency/nano-node)) ([What are things that make nano superior to bitcoin?](https://www.reddit.com/r/nanocurrency/comments/kpbsin/what_are_things_that_make_nano_superior_to_bitcoin/)) ([Why Nano isn't more popular](https://www.reddit.com/r/nanocurrency/comments/btm4yk/how_the_hell_is_nano_not_a_top_10_cryptocurrency/ep000vh/)) ([GitHub](https://github.com/nanocurrency))
-- [Cardano SL](https://cardanodocs.com/introduction/)
+- [Cardano SL](https://cardanodocs.com/introduction/) ([Benefits of Nano](https://www.reddit.com/r/nanocurrency/comments/ksz0hi/all_the_benefits_of_nano_summarized/))
 - [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance. ([Forum](https://forum.makerdao.com/))
 - [Libra](libra.md)
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))

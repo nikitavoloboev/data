@@ -1,5 +1,9 @@
 # Ethics
 
+## Notes
+
+- [The function of a system is its output. If you have dog grooming machine that sometimes smashes puppies and you keep running it, you're in the dog smashing business. If you work for a mass surveillance company that keeps enabling genocide and undermining democracy...](https://twitter.com/jesslynnrose/status/1347170900706263041)
+
 ## Links
 
 - [Good Intentions, Bad Inventions: Myths of Healthy Tech](https://datasociety.net/wp-content/uploads/2020/10/Healthy-Tech-Myths-DataSociety-20201007.pdf) ([HN](https://news.ycombinator.com/item?id=24744029))

@@ -303,3 +303,4 @@
 - [Kubernetes Pondering (2020)](https://christine.website/blog/k8s-pondering-2020-12-31) ([Lobsters](https://lobste.rs/s/avqtvh/kubernetes_pondering))
 - [Accelerated Feedback Loops when Developing for Kubernetes with Conftest (2020)](https://reese.dev/accelerated-feedback-loops-when/)
 - [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+- [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output to make it readable.

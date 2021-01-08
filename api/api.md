@@ -120,6 +120,7 @@
 - [TalkJS](https://talkjs.com/) - Chat API and Javascript SDK for websites and apps.
 - [Exchangerate.host](https://exchangerate.host/#/) - Free API service for crypto and foreign exchange rates. ([HN](https://news.ycombinator.com/item?id=23917210))
 - [Rick and Morty API](https://github.com/afuh/rick-and-morty-api) - RESTful and GraphQL API based on the television show Rick and Morty.
+- [Square Node](https://github.com/square/square-nodejs-sdk) ([Release](https://developer.squareup.com/blog/announcing-the-new-square-node-js-sdk/))
 
 ## Links
 

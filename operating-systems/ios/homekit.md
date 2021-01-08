@@ -12,3 +12,4 @@
 - [Creating a HomeKit Accessory (2020)](https://sampo3k.github.io/2020/12/08/pcb.html)
 - [Building my own HomeKit Thermostat (2020)](https://www.staycaffeinated.com/2020/12/27/building-my-own-homekit-thermostat-v1) ([HN](https://news.ycombinator.com/item?id=25552889))
 - [Apple HomeKit firmware for Shelly switches](https://github.com/mongoose-os-apps/shelly-homekit)
+- [Why Thread is a game-changer for Apple's HomeKit (2021)](https://appleinsider.com/articles/20/11/13/why-thread-is-a-game-changer-for-apples-homekit)

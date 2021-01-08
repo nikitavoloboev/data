@@ -48,3 +48,4 @@
 - [Formal Methods for the Informal Engineer (2020)](https://fmie2021.github.io/)
 - [Finding Software Bugs Using Symbolic Execution (2020)](https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/)
 - [MiniZinc](https://www.minizinc.org/) - High-level constraint modelling language that allows you to easily express and solve discrete optimization problems. ([Code](https://github.com/MiniZinc/libminizinc)) ([Solving River Crossing Puzzles With MiniZinc](https://sasnauskas.eu/solving-river-crossing-puzzles-with-minizinc/))
+- [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html) - Formal Mathematical Language.

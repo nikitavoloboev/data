@@ -80,6 +80,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [rCore](https://github.com/rcore-os/rCore) - Rust version of THU uCore OS. Linux compatible.
 - [dgOS](https://github.com/doug65536/dgos)
 - [Eltanin](https://eltan.in.net/) - Free, simple, and complete general-purpose operating system.
+- [skiftOS](https://github.com/skiftOS/skift) - Simple, handmade, operating system with a graphical user interface. ([Web](https://skiftos.org/))
 
 ## Notes
 

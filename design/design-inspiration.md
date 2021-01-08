@@ -292,6 +292,7 @@ Here are few more things I liked, design wise.
 - [Jason Lengstorf](https://www.jason.af/)
 - [Colin Shum](https://colinshum.com/)
 - [Paul Glushak](https://0xff.nu/)
+- [Shawn Wang](https://www.swyx.io/) ([Code](https://github.com/sw-yx/swyxdotio))
 - [Sarun](https://sarunw.com/)
 - [Gianluca Brindisi](https://cloudberry.engineering/)
 - [Shihab Mehboob](https://www.pnguin.app/)

@@ -50,6 +50,7 @@
 - [MusE](https://github.com/muse-sequencer/muse) - Digital audio workstation with support for both Audio and MIDI. ([Web](https://muse-sequencer.github.io/))
 - [Handel](https://handel-pl.github.io/) - Procedural programming language for writing songs in browser. ([HN](https://news.ycombinator.com/item?id=25641420)) ([Code](https://github.com/ddj231/Handel))
 - [Crypt](https://github.com/DavW/crypt) - Software synthesiser plugin designed for creating spacious cold hyper-unisoned synth sounds.
+- [Fourhands](https://fourhands.jminjie.com/) - P2P MIDI jam room for pianists. ([Code](https://github.com/jminjie/fourhands)) ([HN](https://news.ycombinator.com/item?id=25685903))
 
 ## Inspiration
 

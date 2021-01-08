@@ -204,3 +204,4 @@
 - [go-actions-toolkit](https://github.com/haya14busa/go-actions-toolkit) - GitHub Actions Toolkit in Go.
 - [RepoKitteh](https://www.repokitteh.io/) - Easily write and deploy functions to automate your workflow.
 - [cdkactions](https://github.com/ArmaanT/cdkactions) - CDK for GitHub Actions.
+- [Terraform module for scalable self hosted GitHub action runners](https://github.com/philips-labs/terraform-aws-github-runner)

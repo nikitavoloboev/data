@@ -67,3 +67,4 @@
 - [DIY Django and React Boilerplate for SaaS](https://github.com/saasitive/django-react-boilerplate) ([Web](https://saasitive.com/)) ([HN](https://news.ycombinator.com/item?id=25517226))
 - [django-unicorn](https://github.com/adamghill/django-unicorn) - Provides a way to use backend Django code and regular Django templates to create interactive experiences without investing in a separate frontend framework. ([Web](https://www.django-unicorn.com/))
 - [Hotwire + Django](https://github.com/hotwire-django/hotwire-django) - Meta package to combine turbo-django and stimulus-django.
+- [Django migrations without downtimes (2015)](http://pankrat.github.io/2015/django-migrations-without-downtimes/)

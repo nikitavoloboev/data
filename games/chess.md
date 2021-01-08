@@ -60,3 +60,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Tip for getting from 600 to 1000 Chess Rating (2021)](https://www.reddit.com/r/chess/comments/kqqezx/i_know_this_isnt_even_an_achievement_but_i_just/)
 - [Resource Limited Chess](https://rlc-chess.com/) - Creating small/efficient/fun chess bots and let them compete. ([Code](https://github.com/void4/relich))
 - [Theory of Chess](https://github.com/remigiusz-suwalski/theory-of-chess) - Open-source cheat sheet for most common openings to teach myself what can transpose into what. ([Reddit](https://www.reddit.com/r/chess/comments/krpd16/i_made_an_opensource_cheat_sheet_for_most_common/))
+- [The neural network of the Stockfish chess engine (2021)](https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/)

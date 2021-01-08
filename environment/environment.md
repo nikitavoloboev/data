@@ -81,3 +81,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Johannes Ackva: An update to our thinking on climate change (2020)](https://www.effectivealtruism.org/articles/johannes-ackva-an-update-to-our-thinking-on-climate-change/)
 - [Climate Change AI](https://www.climatechange.ai/) - Tackling Climate Change with Machine Learning.
 - [Climate Modeling Alliance](https://clima.caltech.edu/) - Alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling. ([GitHub](https://github.com/CliMA))
+- [Pale Blue Dot](https://www.paleblue.vc/) - Climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.

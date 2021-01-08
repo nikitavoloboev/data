@@ -215,7 +215,8 @@
 - [Shortformer: Better Language Modeling using Shorter Inputs (2020)](https://ofir.io/shortformer.pdf) ([HN](https://news.ycombinator.com/item?id=25588675))
 - [huggingface_hub](https://github.com/huggingface/huggingface_hub) - Client library to download and publish models and other files on the huggingface.co hub.
 - [Embeddings from the Ground Up (2020)](https://www.singlelunch.com/2020/02/16/embeddings-from-the-ground-up/)
-- [Ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models.
+- [Ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models. ([Web](https://www.eccox.io/)) ([HN](https://news.ycombinator.com/item?id=25683808))
+- [Interfaces for Explaining Transformer Language Models (2020)](https://jalammar.github.io/explaining-transformers/)
 - [DALL·E: Creating Images from Text (2021)](https://openai.com/blog/dall-e/) ([HN](https://news.ycombinator.com/item?id=25649557)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/kr63ot/r_new_paper_from_openai_dalle_creating_images/))
 - [CLIP: Connecting Text and Images (2021)](https://openai.com/blog/clip/) ([HN](https://news.ycombinator.com/item?id=25649740))
 - [OpenNRE](https://github.com/thunlp/OpenNRE) - Open-Source Package for Neural Relation Extraction (NRE).

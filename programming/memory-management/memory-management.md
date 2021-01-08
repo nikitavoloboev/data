@@ -32,3 +32,4 @@
 - [herdtools7](https://github.com/herd/herdtools7) - Tool suite to test weak memory models.
 - [Sound Garbage Collection for C using Pointer Provenance (2020)](https://2020.splashcon.org/details/splash-2020-oopsla/52/Sound-Garbage-Collection-for-C-using-Pointer-Provenance)
 - [Memory Management in Lobster](http://aardappel.github.io/lobster/memory_management.html)
+- [Generational references faster than reference counting (2021)](https://vale.dev/blog/generational-references) ([Lobsters](https://lobste.rs/s/sglvcc/generational_references_2_3x_faster_than))

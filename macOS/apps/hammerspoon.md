@@ -9,3 +9,4 @@
 - [Spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs.
 - [Using Fennel to configure Hammerspon](https://lobste.rs/s/tkm8nh/using_fennel_configure_hammerspon)
 - [Akinori's HS modules](https://github.com/knu/hs-knu) - Mainly for keyboard customization.
+- [VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all macOS inputs.

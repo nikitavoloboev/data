@@ -38,3 +38,4 @@
 - [Rails Tutorial](https://www.railstutorial.org/)
 - [Rails Settings Cached](https://github.com/huacnlee/rails-settings-cached) - Global settings for your Rails application.
 - [Fie](https://github.com/raen79/fie) - Rails-centric frontend framework running over a permanent WebSocket connection.
+- [Kuby](https://getkuby.io/) - Convention over configuration approach for deploying Rails apps. ([Code](https://github.com/getkuby/kuby-core))

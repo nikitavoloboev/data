@@ -1,10 +1,16 @@
 # Staying on top of things
 
-There is so much out there in the world. It's often hard to stay on top of things and many times not being able to understand something is frustrating so is feeling as if you are _missing out_.
+There is a lot happening in the world every single minute. It's hard to not feel like you are constantly _missing out_ on things.
 
-Of course, it is all in my head and [mindfulness](../mindfulness/mindfulness.md) is the answer. But I still want to do my best and try and understand as many things as I can because knowing a broad range of things helps me connect the dots and pieces together faster.
+The truth is that it's a battle you can't win, you have limited time and your ability to focus the time on things that truly matter to you. [Mindfulness](../mindfulness/mindfulness.md) is what helps me keep my focus.
 
-I use [Pocket](https://app.getpocket.com) to send links I can't read right now from my phone/mac. It's an inbox of links I want to read through. High priority links/notes are sent as messages to myself on Telegram.
+Here are things I do/use to keep my self up to date on things I care about efficiently.
+
+## Links
+
+I use [custom script](https://github.com/nikitavoloboev/go/blob/main/cmd/savelink/main.go) to quickly save links to check later. In future I hope to use Learn Anything to handle this.
+
+High priority links/notes are sent as messages to myself on Telegram. I also have bindings to save snapshots of my current tabs on mac into a session I can come back later to.
 
 ## What I use
 
@@ -12,7 +18,7 @@ I try to stay in touch using these few things:
 
 ### Twitter with [Tweetbot](../macOS/apps/tweetbot.md)
 
-Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md) on mac.
+Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md) on mac. And I use official Twitter iOS app.
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
 
@@ -26,13 +32,13 @@ Here is [multireddit](https://old.reddit.com/r/2DoApp+AdvancedFitness+AlanWatts+
 
 There is also nice [list of Reddit subs](https://github.com/learn-anything/reddit). I access all these subreddits using [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit).
 
-### RSS with [Reeder](http://reederapp.com/mac/)
+### RSS with [Inoreader](https://www.inoreader.com/)
 
-I follow [blogs I like](blogs.md) and read them through them with Reeder.
+I follow [many blogs](blogs.md).
 
 ### IRC
 
-I love using IRC with [Textual client](../macOS/apps/textual.md) and hanging out in various channels of Freenode. Mostly as a way to get help with an issue that I can't solve on my own after searching for everything.
+I love using IRC via [Matrix](../networking/matrix.md) and hanging out in various channels of Freenode. Mostly as a way to get help with an issue that I can't solve on my own after searching for everything.
 
 ### [Pinboard (popular)](https://pinboard.in/popular/)
 

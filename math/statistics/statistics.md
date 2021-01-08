@@ -79,3 +79,4 @@
 - [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization. ([Tweet](https://twitter.com/YoungseogC/status/1341446222545100801))
 - [The medical test paradox: Can redesigning Bayes rule help? (2020)](https://www.youtube.com/watch?v=lG4VkPoG3ko)
 - [Probabilistic Machine Learning](https://github.com/probml/pml-book) - Book series by Kevin Murphy.
+- [Predictive Modeling: A Retrospective (2021)](https://www.shreya-shankar.com/8d5c6ec070babe7c23d3d5b68384a8bd/retrospective.pdf)

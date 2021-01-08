@@ -64,6 +64,8 @@
 - [Julia](https://github.com/tsoding/aoc-2020)
 - [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
 - [aoc](https://github.com/jakzo/aoc) - CLI for reading, running and submitting Advent of Code challenges.
+- [Peter Norvig's Pytudes: Advent of Code 2020](https://lobste.rs/s/aryngm/peter_norvig_s_pytudes_advent_code_2020) ([HN](https://news.ycombinator.com/item?id=25654955))
+- [Advent of Code walkthroughs by Marco Bonelli](https://github.com/mebeim/aoc)
 
 ## Exercism exercise solutions
 

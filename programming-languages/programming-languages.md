@@ -92,6 +92,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [All about Modelica: An equation-based language for modeling physical systems (2020)](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) ([HN](https://news.ycombinator.com/item?id=23690788))
 - [Writing a VM for a Small Stack-Base Language in Pointless](https://ptls.dev/tutorials/factorsVM.html) ([Lobsters](https://lobste.rs/s/sdsr2y/writing_vm_for_small_stack_base_language))
 - [Principles of Programming Languages – Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
+- [Principles of Programming Languages (POPL) 2021 Videos](https://app.clowdr.org/conference/popl2021)
 - [Dijkstra: On the foolishness of "natural language programming"](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html) ([Tweet](https://twitter.com/GabrielG439/status/1279178769949798400))
 - [Semantics with Applications: A Formal Introduction](http://www.dis.uniroma1.it/~degiacom/CogRobCourse01/NielsonNielson.ps)
 - [The Formal Semantics of Programming Languages: An Introduction (1993)](https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf)
@@ -153,3 +154,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Reflections on the Lack of Adoption of Domain Specific Languages](http://grammarware.net/text/2020/dsl-adoption.pdf) ([HN](https://news.ycombinator.com/item?id=25568703))
 - [Lobsters: What "glue" lanugages do you use/like? (2021)](https://lobste.rs/s/ritbgc/what_glue_lanugages_do_you_use_like)
 - [Build your own programming language in C++](https://github.com/codr7/alang) ([HN](https://news.ycombinator.com/item?id=25652865))
+- [Interactive Tutorials for programming languages](https://github.com/ronreiter/interactive-tutorials)
+- [Pygments](https://pygments.org/) - Generic syntax highlighter written in Python. ([Code](https://github.com/pygments/pygments))

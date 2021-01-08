@@ -27,3 +27,4 @@
 - [Thumbnailing in Isolate: Background workers in Electron (2019)](http://seenaburns.com/2019/01/02/thumbnailing-in-isolate/)
 - [Why I chose Electron.js for my side business (2020)](https://getloaf.io/blog/why-i-chose-electronjs/) ([HN](https://news.ycombinator.com/item?id=25136406))
 - [Nuxtron](https://github.com/saltyshiomix/nuxtron) - Nuxt.js + Electron.
+- [hyperupdate](https://github.com/hyperdivision/hyperupdate) - P2P Electron updater with binary diffing built in.

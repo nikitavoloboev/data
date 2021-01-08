@@ -16,6 +16,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Kibi](https://github.com/ilai-deutel/kibi) - Text editor in ≤1024 lines of code, written in Rust.
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor that powers VS Code. ([Code](https://github.com/microsoft/monaco-editor))
 - [Monaco Editor React](https://github.com/suren-atoyan/monaco-react) ([Web](https://monaco-react.surenatoyan.com/))
+- [Monaco Editor React 2](https://github.com/react-monaco-editor/react-monaco-editor)
 - [Loop](https://github.com/faraazahmad/loop) - Text editor built in Rust.
 - [o](https://github.com/xyproto/o) - Small, fast and limited text editor.
 - [RichEditorView](https://github.com/YoomamaFTW/RichEditorView) - Rich Text Editor in Swift.
@@ -36,6 +37,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Sapling](https://github.com/kneasle/sapling) - Highly experimental code editor where you edit code, not text.
 - [Code Browser](https://tibleiz.net/code-browser/) - Folding Text Editor. ([HN](https://news.ycombinator.com/item?id=25561688))
 - [Scribble](https://github.com/ryangjchandler/scribble) - Experimental terminal text-editor written in Rust.
+- [Uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI.
 
 ## Web
 
@@ -85,3 +87,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Monaco Languages](https://github.com/microsoft/monaco-languages) - Colorization and configuration supports for multiple languages for the Monaco Editor.
 - [Why an IDE? (2020)](https://matklad.github.io//2020/11/11/yde.html)
 - [SyntaxEnvy](https://www.syntaxenvy.com/0782664) - Procedurally generated syntax highlighting themes.
+- [Universal Ctags](https://github.com/universal-ctags/ctags) - Generates an index (or tag) file of language objects found in source files for many popular programming languages.

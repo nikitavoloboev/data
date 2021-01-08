@@ -1,5 +1,9 @@
 # [Android](https://www.android.com/)
 
+## Nice OSS iOS Android apps
+
+- [Signal Android](https://github.com/signalapp/Signal-Android)
+
 ## Links
 
 - [Magisk](https://github.com/topjohnwu/Magisk) - Magic Mask to Alter Android System Systemless-ly.
