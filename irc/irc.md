@@ -43,3 +43,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client written in POSIX C99. ([HN](https://news.ycombinator.com/item?id=24491839))
 - [InspIRCd](https://github.com/inspircd/inspircd) - Modular C++ IRC server. ([Web](https://www.inspircd.org/))
 - [IRC Browse](https://ircbrowse.tomsmeding.com/) - Web service for browsing IRC logs. ([Code](https://github.com/tomsmeding/ircbrowse))
+- [DarkScience](https://www.darkscience.net/) - Group of enthusiasts with a shared interest in computer science. IRC server.

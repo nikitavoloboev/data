@@ -71,3 +71,4 @@
 - [My Journey With Elixir and Flow-Based Programming (2020)](https://preslav.me/2020/12/10/elixir-community-voices-allan-macgregor/)
 - [nix-elixir](https://github.com/hauleth/nix-elixir) - Nix derivations for Mix projects.
 - [Niex](https://github.com/jonklein/niex) - Interactive Elixir code notebook built with Phoenix LiveView. ([HN](https://news.ycombinator.com/item?id=25563935))
+- [Learning Elixir's `GenServer` with a real-world example (2020)](https://papercups.io/blog/genserver)

@@ -275,6 +275,7 @@
 - [pandera](https://github.com/pandera-dev/pandera) - Light-weight, flexible, and expressive pandas data validation library.
 - [Dynamics and Control](https://github.com/alchemyst/Dynamics-and-Control) - Python library for solving textbook control problems.
 - [Plumbum](https://github.com/tomerfiliba/plumbum) - Shell Combinators.
+- [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers) - Optimize any Python function with modern algorithms in numerical search spaces.
 
 ## Links
 
