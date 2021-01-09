@@ -59,3 +59,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash 5.1](https://lists.gnu.org/archive/html/info-gnu/2020-12/msg00003.html) ([HN](https://news.ycombinator.com/item?id=25492551))
 - [Batsh](https://batsh.org/) - Language that compiles to Bash and Windows Batch. ([Code](https://github.com/batsh-dev-team/Batsh))
 - [Bash HTTP monitoring dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)
+- [Parallel bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.

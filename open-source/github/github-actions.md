@@ -79,6 +79,7 @@
 - [GitHub Action PR Helper](https://github.com/technote-space/github-action-pr-helper)
 - [Delete older releases](https://github.com/dev-drprasad/delete-older-releases) - Github Action to delete older releases.
 - [Dynamic Badges Action](https://github.com/Schneegans/dynamic-badges-action) - Allows you to create badges for your readme.md with shields.io which may change with every commit.
+- [Upload files to a GitHub release](https://github.com/svenstaro/upload-release-action)
 
 ## Go
 

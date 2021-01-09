@@ -172,6 +172,7 @@
 - [CategoricalArrays.jl](https://github.com/JuliaData/CategoricalArrays.jl) - Arrays for working with categorical data (both nominal and ordinal).
 - [Infiltrator.jl](https://github.com/JuliaDebug/Infiltrator.jl) - Provides a macro called @infiltrate, which sets a "breakpoint" in a local context.
 - [Luxor](https://github.com/JuliaGraphics/Luxor.jl) - Julia package for drawing simple static vector graphics.
+- [SnoopCompile](https://github.com/timholy/SnoopCompile.jl) - Making packages work faster with more extensive precompilation.
 
 ## Links
 

@@ -99,3 +99,4 @@
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working http and https servers.
 - [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.
 - [devserver](https://github.com/kettle11/devserver) - Simple HTTPS server for local development. Implemented in Rust. ([Building devserver: An Ultra-Tiny Rust Server](https://ianjk.com/devserver/))
+- [Hurl](https://github.com/Orange-OpenSource/hurl) - Command line tool that performs HTTP requests defined in a simple plain text format. ([Docs](https://hurl.dev/))

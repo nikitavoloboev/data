@@ -181,3 +181,4 @@
 - [Kayu](https://github.com/maticzav/kayu) - TypeScript GraphQL client that lets you forget about GraphQL.
 - [GraphJin](https://github.com/dosco/graphjin) - GraphQL to SQL Compiler in Go (Postgres and MySQL). ([Web](https://graphjin.com/)) ([Docs](https://graphjin.com/docs/home/))
 - [graphql-subscriptions-client](https://github.com/lunchboxer/graphql-subscriptions-client) - Websocket client for graphql-ws protocol based on subscriptions-transport-ws.
+- [Pragma](https://pragmalang.com/) - Build Beautiful GraphQL APIs In No Time. ([Code](https://github.com/pragmalang/pragma))

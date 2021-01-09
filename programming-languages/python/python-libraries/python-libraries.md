@@ -37,6 +37,7 @@
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib.
 - [Tigramite](https://github.com/jakobrunge/tigramite) - Time series analysis python module for causal discovery.
 - [SciPy](https://github.com/scipy/scipy) - Provides many user-friendly and efficient numerical routines, such as routines for numerical integration, interpolation, optimization, linear algebra, and statistics. ([Web](https://scipy.org/scipylib/)) ([SciPy Lecture Notes](http://scipy-lectures.org/index.html)) ([HN](https://news.ycombinator.com/item?id=25682103))
+- [whylogs](https://github.com/whylabs/whylogs-python) - Profile and monitor your ML data pipeline end-to-end.
 
 ## Biology
 
@@ -273,6 +274,7 @@
 - [libpysal](https://github.com/pysal/libpysal) - Python Spatial Analysis Library.
 - [pandera](https://github.com/pandera-dev/pandera) - Light-weight, flexible, and expressive pandas data validation library.
 - [Dynamics and Control](https://github.com/alchemyst/Dynamics-and-Control) - Python library for solving textbook control problems.
+- [Plumbum](https://github.com/tomerfiliba/plumbum) - Shell Combinators.
 
 ## Links
 
