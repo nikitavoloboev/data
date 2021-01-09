@@ -77,3 +77,4 @@
 - [Designing Engineering Organizations (2021)](https://jacobian.org/2021/jan/5/designing-engineering-organizations/) ([HN](https://news.ycombinator.com/item?id=25649095))
 - [Team Topologies](https://teamtopologies.com/) - Organizing Business and Technology Teams for Fast Flow. ([Book](https://teamtopologies.com/book))
 - [No Meetings, No Deadlines, No Full-Time Employees (2021)](https://sahillavingia.com/work) ([HN](https://news.ycombinator.com/item?id=25673275))
+- [Ask HN: Which companies work like Gumroad? (2021)](https://news.ycombinator.com/item?id=25686678)

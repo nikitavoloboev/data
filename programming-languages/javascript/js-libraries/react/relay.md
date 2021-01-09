@@ -19,3 +19,4 @@
 - [Relay Modern Boilerplate](https://github.com/enisdenjo/relay-modern-boilerplate) - PostGraphile + Relay Modern crash course.
 - [Relay Meetup](https://relaymeetup.com/) - Global, online meetup on Relay, the GraphQL client.
 - [relay-compiler-language-typescript](https://github.com/relay-tools/relay-compiler-language-typescript) - Language plugin for Relay that adds TypeScript support, including emitting type definitions.
+- [vscode-apollo-relay](https://github.com/relay-tools/vscode-apollo-relay) - Simple configuration of vscode-apollo for Relay projects.
