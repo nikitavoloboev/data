@@ -28,3 +28,4 @@
 - [A Review of the Lean Theorem Prover (2018)](https://jiggerwit.wordpress.com/2018/09/18/a-review-of-the-lean-theorem-prover/) ([HN](https://news.ycombinator.com/item?id=25550240))
 - [Lean Together 2021](https://leanprover-community.github.io/lt2021/) - Meeting for Lean users and other formalizers. ([Code](https://github.com/leanprover-community/lt2021))
 - [Advent of Code 2020 puzzles in Lean 4](https://github.com/rwbarton/advent-of-lean-4)
+- [Schemes in Lean (2021)](https://arxiv.org/abs/2101.02602)

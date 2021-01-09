@@ -143,3 +143,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Incomplete Guide to Scaling Ethereum with Rollups (2021)](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [Synthetix](https://synthetix.io/) - Backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets. ([Code](https://github.com/Synthetixio/synthetix))
 - [Ethereum Wiki](https://eth.wiki/) ([Code](https://github.com/ethereum/eth-wiki))
+- [3Box](https://3box.io/) - Shared backend for Web3. Easiest way for Ethereum apps to manage user data. ([Code](https://github.com/3box/3box))
