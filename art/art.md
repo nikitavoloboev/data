@@ -127,6 +127,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tega Brain](http://www.tegabrain.com/)
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)
+- [Eris Soares](https://www.artstation.com/erisdraw)
 - [Nekro](https://www.artstation.com/nekro)
 - [Sabina Lewis](https://www.instagram.com/sabina_lewis/)
 - [Edward Hopper](https://www.wikiart.org/en/edward-hopper) ([Shirley: Visions of Reality](https://www.youtube.com/watch?v=rcQ4JKxxukY)) ([Exhibition](https://www.fondationbeyeler.ch/en/exhibitions/edward-hopper))

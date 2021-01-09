@@ -16,3 +16,4 @@
 - [SceneKit PortalMask](https://github.com/maxxfrazer/SceneKit-PortalMask) - Clean class to create a portal in SceneKit for use in ARKit.
 - [FocusEntity](https://github.com/maxxfrazer/FocusEntity) - Bringing the scanning box from SceneKit to RealityKit.
 - [AR with SceneKit and Metal (2020)](https://emillindfors.com/blog/2020-12/ar-with-scenekit-and-metal/) ([HN](https://news.ycombinator.com/item?id=25373105))
+- [ARImageTracking](https://github.com/riccqi/ARImageTracking) - Augmented Reality image tracking with SwiftUI and RealityKit and ARKit 4. ([Tweet](https://twitter.com/riccqi/status/1347562930078826498))
