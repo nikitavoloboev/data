@@ -388,3 +388,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [openArtBrowser](https://openartbrowser.org/en/) - Exploring the world of arts using open data. ([Code](https://github.com/hochschule-darmstadt/openartbrowser))
 - [Noguchi Museum](https://www.noguchi.org/)
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Deep Learning based project for creating line art portraits.
+- [2020 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition) ([HN](https://news.ycombinator.com/item?id=25687129))

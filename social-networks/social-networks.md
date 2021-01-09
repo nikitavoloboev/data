@@ -80,3 +80,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Why your Instagram Engagement Kinda Sucks Right Now (2020)](https://rainylune.com/blogs/blog/why-your-instagram-engagement-kinda-sucks-right-now)
 - [Most of what you read on the internet is written by insane people (2018)](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) ([HN](https://news.ycombinator.com/item?id=25600274))
 - [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - API and Web App for analyzing & finding a person profile across 300+ social media websites.
+- [Ask HN: What are decentralized Twitter alternatives? (2021)](https://news.ycombinator.com/item?id=25695682)
