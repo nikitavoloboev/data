@@ -211,3 +211,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git email flow vs Github flow (2020)](https://blog.brixit.nl/git-email-flow-versus-github-flow/) ([Lobsters](https://lobste.rs/s/kevlgd/git_email_flow_vs_github_flow))
 - [Git Commands to Live By (2020)](https://medium.com/better-programming/git-commands-to-live-by-349ab1fe3139) ([Reddit](https://www.reddit.com/r/programming/comments/kmxz65/git_commands_to_live_by_the_cheat_sheet_that_goes/))
 - [git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go.
+- [GitRows](https://github.com/gitrows/gitrows) - Makes it easy to use and store data in GitHub and GitLab repos. ([Web](https://gitrows.com/))

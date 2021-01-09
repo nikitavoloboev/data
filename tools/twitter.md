@@ -63,3 +63,4 @@
 - [How to Gradually Exit Twitter (2020)](https://balajis.com/how-to-gradually-exit-twitter/)
 - [Twitter CLI](https://github.com/sferik/t) - Command-line power tool for Twitter.
 - [Simple and unlimited twitter scraper with python and without authentication](https://github.com/Altimis/Scweet)
+- [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.

@@ -31,3 +31,4 @@
 - [Dart DevTools](https://github.com/flutter/devtools) - Performance tools for Flutter.
 - [Flutter Widget Livebook](https://flutter-widget.live/basics/introduction) - Live preview example for flutter widgets. ([Code](https://github.com/leanflutter/flutter-widget-livebook))
 - [Riverpod](https://github.com/rrousselGit/river_pod) - Simple way to access state while robust and testable. ([Web](https://riverpod.dev/))
+- [Flutter Starter](https://github.com/GeekyAnts/flutter-starter) - Flutter starter-kit for production-level apps. ([Docs](https://flutter-starter.github.io/docs/getting-started.html))

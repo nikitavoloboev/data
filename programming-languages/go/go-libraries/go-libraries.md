@@ -161,6 +161,7 @@
 - [SQLDB-Logger](https://github.com/simukti/sqldb-logger) - Logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 - [Kallax](https://github.com/src-d/go-kallax) - PostgreSQL typesafe ORM for the Go language.
 - [Gonudb](https://github.com/iand/gonudb) - Append-only key/value datastore written in Go.
+- [go-memdb](https://github.com/hashicorp/go-memdb) - Go in-memory database built on immutable radix trees.
 
 ## ML
 

@@ -156,3 +156,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Build your own programming language in C++](https://github.com/codr7/alang) ([HN](https://news.ycombinator.com/item?id=25652865))
 - [Interactive Tutorials for programming languages](https://github.com/ronreiter/interactive-tutorials)
 - [Pygments](https://pygments.org/) - Generic syntax highlighter written in Python. ([Code](https://github.com/pygments/pygments))
+- [Models of Programming Languages](https://github.com/pamellies/models-of-programming-languages)

@@ -29,6 +29,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Terminal](https://github.com/panr/hugo-theme-terminal) - Simple, retro theme for Hugo.
 - [Call me Sam](https://github.com/victoriadrake/hugo-theme-sam) - Simple and Minimalist theme for Hugo with a focus on typography and content.
 - [Ezhil](https://github.com/vividvilla/ezhil) - Clean and minimal personal blog and portfolio theme for Hugo.
+- [owl space](https://github.com/JoogsWasTaken/owlspace) - Hugo theme made for owls.
 
 ## Examples
 

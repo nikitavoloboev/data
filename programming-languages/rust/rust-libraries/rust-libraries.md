@@ -16,6 +16,8 @@
 - [console](https://github.com/mitsuhiko/console) - Library for Rust that provides access to various terminal features so you can build nicer looking command line interfaces.
 - [termimad](https://github.com/Canop/termimad) - Library to display rich (Markdown) snippets and texts in a rust terminal application.
 - [indicatif](https://github.com/mitsuhiko/indicatif) - Rust library for indicating progress in command line applications to users.
+- [xshell](https://github.com/matklad/xshell) - Provides a set of cross-platform utilities for writing ergonomic "bash" scripts.
+- [devx](https://github.com/elastio/devx) - Collection of utilities for writing your own dev scripts.
 
 ## Web
 
@@ -645,6 +647,7 @@
 - [cargo-deadlinks](https://github.com/deadlinks/cargo-deadlinks) - Check your cargo doc documentation for broken links.
 - [cargo-osha](https://github.com/icefoxen/cargo-osha) - Cargo plugin to list unsafe code in a Rust project.
 - [Cargo Wipe](https://github.com/mihai-dinculescu/cargo-wipe) - Recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path.
+- [cargo xtask](https://github.com/matklad/cargo-xtask) - Way to add free-form automation to a Rust project, a-la make, npm run or bespoke bash scripts.
 
 ## Links
 
