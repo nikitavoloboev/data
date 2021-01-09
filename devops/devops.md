@@ -51,3 +51,5 @@
 - [Shipyard](https://github.com/shipyard-run/shipyard) - Modern cloud native development environments. ([Web](https://shipyard.run/))
 - [FAUN](https://faun.dev/) - DevOps community.
 - [DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework)
+- [Bitnami](https://bitnami.com/) - Packaged Applications for Any Platform - Cloud, Container, Virtual Machine. ([GitHub](https://github.com/bitnami))
+- [Bitnami Library for Kubernetes](https://github.com/bitnami/charts)

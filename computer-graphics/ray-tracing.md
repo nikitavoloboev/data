@@ -62,3 +62,4 @@
 - [Psychopath](https://github.com/cessen/psychopath) - Slightly psychotic path tracer.
 - [Helios](https://github.com/diharaw/Helios) - Real-time unidirectional GPU path tracer using the cross-vendor Vulkan ray-tracing extensions.
 - [retrace.gl](https://github.com/stasilo/retrace.gl) - Create, ray trace & export programmatically defined Signed Distance Function CSG geometries with an API suited for generative art - in your browser.
+- [Ray Tracing in pure CMake (2020)](https://64.github.io/cmake-raytracer/)

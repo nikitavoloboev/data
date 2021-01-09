@@ -250,3 +250,4 @@
 - [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html) - Introduction into design and creation of graphical user interfaces using the GTK widget tool kit and the Nim programming language. ([HN](https://news.ycombinator.com/item?id=25621700))
 - [systemd user services (2021)](https://notes.neeasade.net/systemd-user-services.html) ([Lobsters](https://lobste.rs/s/sy8ulu/systemd_user_services))
 - [libseccomp](https://github.com/seccomp/libseccomp) - C library that provides an easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
+- [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944) ([HN](https://news.ycombinator.com/item?id=25693618))

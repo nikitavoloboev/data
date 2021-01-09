@@ -245,3 +245,4 @@
 - [PostHTML Inline CSS](https://github.com/posthtml/posthtml-inline-css) - PostHTML plugin for inlining CSS to style attrs.
 - [Simple.css](https://simplecss.org/) - Classless CSS framework. ([Code](https://github.com/kevquirk/simple.css))
 - [css-what](https://github.com/fb55/css-what) - CSS selector parser.
+- [PostCSS Language Support](https://github.com/csstools/postcss-language) - Support for modern and experimental CSS within Visual Studio Code.
