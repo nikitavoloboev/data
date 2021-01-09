@@ -52,6 +52,7 @@
 - [Cats Effect](https://github.com/typelevel/cats-effect) - Purely functional runtime system for Scala.
 - [NewType](https://github.com/estatico/scala-newtype) - Scala with no runtime overhead.
 - [Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala. ([Docs](https://www.optics.dev/Monocle/))
+- [refined](https://github.com/fthomas/refined) - Simple refinement types for Scala.
 
 ## Links
 
