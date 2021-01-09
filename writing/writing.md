@@ -211,3 +211,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [How to write good prompts: using spaced repetition to create understanding (2020)](https://andymatuschak.org/prompts/) ([HN](https://news.ycombinator.com/item?id=25600108))
 - [Sci-fi writers on how they build their worlds (2021)](https://www.theguardian.com/books/2021/jan/05/if-the-aliens-lay-eggs-how-does-that-affect-architecture-sci-fi-writers-on-how-they-build-their-worlds)
 - [Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list) - Small but formidable list of technical writing resources for software developers.
+- [What Writers and Editors Do (2021)](https://www.theparisreview.org/blog/2021/01/05/what-writers-and-editors-do/) ([HN](https://news.ycombinator.com/item?id=25681037))

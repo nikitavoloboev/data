@@ -246,3 +246,4 @@
 - [Simple.css](https://simplecss.org/) - Classless CSS framework. ([Code](https://github.com/kevquirk/simple.css))
 - [css-what](https://github.com/fb55/css-what) - CSS selector parser.
 - [PostCSS Language Support](https://github.com/csstools/postcss-language) - Support for modern and experimental CSS within Visual Studio Code.
+- [Custom Properties as State (2021)](https://css-tricks.com/custom-properties-as-state/) ([HN](https://news.ycombinator.com/item?id=25682751))
