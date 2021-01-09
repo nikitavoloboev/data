@@ -311,3 +311,4 @@
 - [Pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous profiling platform — find bottlenecks in your code. ([Web](https://pyroscope.io/))
 - [What I’ve Learned in 45 Years in the Software Industry (2021)](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/) ([HN](https://news.ycombinator.com/item?id=25658216))
 - [Ask HN: What does mastery look like in software engineering? (2021)](https://news.ycombinator.com/item?id=25643940)
+- ["How does this software work?" by Adrian Cochrane](https://adrian.geek.nz/docs.html)
