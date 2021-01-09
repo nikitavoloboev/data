@@ -244,4 +244,4 @@
 - [Lessons Learned From A Year Of Writing Haskell (2021)](https://wespiser.com/posts/2021-01-03-Lessons-Learned-From-A-Year-Of-Haskell.html)
 - [The Evolution of a Haskell Programmer (2001)](http://willamette.edu/~fruehr/haskell/evolution.html) ([HN](https://news.ycombinator.com/item?id=25639717))
 - [graphmod](https://github.com/yav/graphmod) - Utility for displaying the module dependencies of Haskell programs.
-- [Haskell is a Bad Programming Language (2020)](https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/) ([HN](https://news.ycombinator.com/item?id=25699574))
+- [Haskell is a Bad Programming Language (2020)](https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/) ([HN](https://news.ycombinator.com/item?id=25699574)) ([Lobsters](https://lobste.rs/s/ny9at0/haskell_is_bad_programming_language))

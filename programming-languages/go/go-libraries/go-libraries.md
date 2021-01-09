@@ -664,6 +664,7 @@
 - [ember](https://github.com/maja42/ember) - Embed arbitrary resources into a go executable at runtime, after the executable has been built.
 - [deque](https://github.com/ef-ds/deque) - Implements a very fast and efficient general purpose queue/stack/deque data structure.
 - [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go.
+- [Diff](https://github.com/r3labs/diff) - Library for diffing go structures.
 
 ## Links
 

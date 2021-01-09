@@ -154,3 +154,4 @@
 - [Memory-Centric Computing Systems (2020)](https://www.youtube.com/watch?v=H3sEaINPBOE)
 - [Tenstorrent](https://www.tenstorrent.com/) - Scalable and Efficient Hardware for Deep Learning.
 - [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) - List of ICs and IPs for AI, Machine Learning and Deep Learning.
+- [embedded-hal](https://github.com/rust-embedded/embedded-hal) - Hardware Abstraction Layer (HAL) for embedded systems.

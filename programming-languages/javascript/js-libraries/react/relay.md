@@ -20,3 +20,4 @@
 - [Relay Meetup](https://relaymeetup.com/) - Global, online meetup on Relay, the GraphQL client.
 - [relay-compiler-language-typescript](https://github.com/relay-tools/relay-compiler-language-typescript) - Language plugin for Relay that adds TypeScript support, including emitting type definitions.
 - [vscode-apollo-relay](https://github.com/relay-tools/vscode-apollo-relay) - Simple configuration of vscode-apollo for Relay projects.
+- [Relay.swift](https://github.com/relay-tools/Relay.swift) - Relay GraphQL framework, ported to Swift and SwiftUI. ([Docs](https://www.notion.so/Relay-swift-e6e1c35b170a4149940ff9c18c0b6875))

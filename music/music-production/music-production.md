@@ -148,3 +148,4 @@
 - [Free Piano Method](https://www.freepianomethod.com/)
 - [Ambient Music Generator](https://github.com/pachyderm/ambient-music-generation)
 - [The Design of the Roland Juno Syntheziser's Oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/) ([HN](https://news.ycombinator.com/item?id=25598656))
+- [Awesome Music DSP](https://github.com/olilarkin/awesome-musicdsp) - Curated list of my favourite music DSP and audio programming resources.

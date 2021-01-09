@@ -1,5 +1,9 @@
 # Funny
 
+## Reactions
+
+- [crabs dancing](https://twitter.com/TaylorLorenz/status/1347693967446429698) ([Full Clip](https://www.youtube.com/watch?v=LDU_Txk06tM))
+
 ## Links
 
 - [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ) ([HN](https://news.ycombinator.com/item?id=22796017))

@@ -26,3 +26,4 @@
 - [ESPnet](https://github.com/espnet/espnet) - End-to-end speech processing toolkit. ([Docs](https://espnet.github.io/espnet/))
 - [Speaker Diarization](https://github.com/sehgal-simran/Spk-Dzn) - Process to answer the question of 'who spoke when?' in an audio file.
 - [SpeechRecognition](https://github.com/OAID/SpeechRecognition) - Local auto speech recognition project based on Kaldi and ALSA.
+- [Athena](https://github.com/athena-team/athena) - Open-source implementation of sequence-to-sequence based speech processing engine.
