@@ -12,6 +12,7 @@
 - [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) - Experiments in weaponizing Nim.
 - [iface](https://github.com/yglukhov/iface) - Dynamic dispatch on steroids.
 - [nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
+- [Itertools](https://github.com/narimiran/itertools) - Nim rewrite of a very popular Python module of the same name.
 
 ## Links
 

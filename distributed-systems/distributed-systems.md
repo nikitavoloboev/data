@@ -146,3 +146,6 @@
 - [Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions)
 - [Rystsov's Blog on distributed systems](http://rystsov.info/)
 - [Compartmentalized Paxos](https://mwhittaker.github.io/publications/compartmentalized_paxos.html) - Scaling Replicated State Machines with Compartmentalization. ([Tweet](https://twitter.com/heidiann360/status/1347961797882621953))
+- [DistSys Reading Group](https://www.youtube.com/channel/UCMKIroHVXvMQRIBhENE6RhQ/videos)
+- [CASPaxos: Replicated State Machines without logs (2018)](https://arxiv.org/abs/1802.07000) ([Code](https://github.com/gryadka/js))
+- [Consensus: Bridging Theory and Practice](https://github.com/ongardie/dissertation) - PhD dissertation on the Raft consensus algorithm.
