@@ -209,6 +209,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com) play live, do
 - [Sylvan Esso: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=1ZJ9ynWJY78)
 - [Alicia Keys: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=uwUt1fVLb3E)
 - [Dave Matthews: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=ieoiAeL-uow)
+- [Glass Animals - Heat Waves (Stripped back)](https://www.youtube.com/watch?v=EFVNzgKRHak)
 
 ## Mixes
 
