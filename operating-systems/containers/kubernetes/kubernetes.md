@@ -304,3 +304,4 @@
 - [Accelerated Feedback Loops when Developing for Kubernetes with Conftest (2020)](https://reese.dev/accelerated-feedback-loops-when/)
 - [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output to make it readable.
+- [Writing a Kubernetes CRD Controller in Rust (2019)](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html) ([HN](https://news.ycombinator.com/item?id=25704250))

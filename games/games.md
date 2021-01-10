@@ -103,7 +103,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 ## Links
 
 - [Awesome games](https://github.com/learn-anything/games)
-- [Games on GitHub](https://github.com/leereilly/games) - List of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [Games on GitHub](https://github.com/leereilly/games) - List of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. ([HN](https://news.ycombinator.com/item?id=25705584))
 - [Patient gamers subreddit](https://www.reddit.com/r/patientgamers/)
 - [Awesome educational games](https://github.com/yrgo/awesome-eg)
 - [If you had to recommend someone play 5 games to really get a feel for you/your tastes, what five would you pick?](https://twitter.com/jasonthinks/status/1036687671043579905)

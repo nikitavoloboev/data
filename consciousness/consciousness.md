@@ -48,3 +48,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [A Theoretical Computer Science Perspective on Consciousness (2020)](https://arxiv.org/ftp/arxiv/papers/2011/2011.09850.pdf)
 - [Book Review: Consciousness Explained (2020)](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained)
 - [Electrons May Very Well Be Conscious (2020)](http://nautil.us/issue/94/evolving/electrons-may-very-well-be-conscious)
+- [The Mathematics of Consciousness (2021)](https://www.youtube.com/watch?v=efVBUDnD_no) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/ku2v56/the_mathematics_of_consciousness_with_physicist/))

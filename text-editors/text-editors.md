@@ -88,3 +88,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Why an IDE? (2020)](https://matklad.github.io//2020/11/11/yde.html)
 - [SyntaxEnvy](https://www.syntaxenvy.com/0782664) - Procedurally generated syntax highlighting themes.
 - [Universal Ctags](https://github.com/universal-ctags/ctags) - Generates an index (or tag) file of language objects found in source files for many popular programming languages.
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)

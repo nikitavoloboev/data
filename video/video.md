@@ -127,7 +127,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Stream](https://www.stream.club/) - Virtual Class Platform.
 - [BigMarker](https://www.bigmarker.com/) - Modern, No-Download Webinar Software.
 - [Vowel](https://www.vowel.com/) - Plan, host, transcribe, search, and share your meetings.
-- [PeerTube](https://joinpeertube.org/) - Free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent. ([Code](https://github.com/Chocobozzz/PeerTube)) ([Roadmap](https://joinpeertube.org/roadmap/)) ([HN](https://news.ycombinator.com/item?id=24856243))
+- [PeerTube](https://joinpeertube.org/) - Free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent. ([Code](https://github.com/Chocobozzz/PeerTube)) ([Roadmap](https://joinpeertube.org/roadmap/)) ([HN](https://news.ycombinator.com/item?id=24856243)) ([HN 2](https://news.ycombinator.com/item?id=25707059))
 - [FFmpeg Drawtext Filter for Overlays, Scrolling Text, Timestamps on Videos](https://ottverse.com/ffmpeg-drawtext-filter-dynamic-overlays-timecode-scrolling-text-credits/) ([HN](https://news.ycombinator.com/item?id=24865755))
 - [vdx](https://github.com/yuanqing/vdx) - Intuitive CLI for processing video, powered by FFmpeg. ([HN](https://news.ycombinator.com/item?id=24866455))
 - [LosslessCut](https://github.com/mifi/lossless-cut) - Swiss army knife of lossless video/audio editing. ([HN](https://news.ycombinator.com/item?id=24883030))
