@@ -16,3 +16,4 @@
 - [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Augmented Reality with JavaScript.
 - [AR.js](https://github.com/AR-js-org/AR.js) - Tracking, Location Based AR, Marker tracking. All on the Web.
 - [iOS AR app to distort real world surfaces based off music](https://twitter.com/mattbierner/status/1333918742116397056)
+- [A WebAssembly Powered Augmented Reality Sudoku Solver (2020)](https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html)

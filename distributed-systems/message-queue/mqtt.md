@@ -9,3 +9,4 @@
 - [Writing an aysnchronous MQTT Broker in Rust (2020)](https://hassamuddin.com/blog/rust-mqtt/overview/)
 - [What's Wrong with MQTT? (2018)](https://www.rtautomation.com/mqtt/whats-wrong-with-mqtt/) ([Lobsters](https://lobste.rs/s/lwofpb/what_s_wrong_with_mqtt))
 - [deskmate](https://github.com/rbaron/deskmate) - Hackable & portable MQTT-powered mini dashboard and control center.
+- [A quick introduction to MQTT for IOT (2021)](https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/)
