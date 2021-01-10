@@ -26,3 +26,4 @@
 - [NativShark](https://www.nativshark.com/) - Comprehensive all-in-one system for learning Japanese.
 - [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s) ([HN](https://news.ycombinator.com/item?id=25344354))
 - [Tagaini Jisho](https://www.tagaini.net/) - Free, open-source Japanese dictionary and kanji lookup tool. ([Code](https://github.com/Gnurou/tagainijisho))
+- [Research-Based Methods for Learning Japanese (2021)](https://japanesecomplete.com/articles/?p=1282)

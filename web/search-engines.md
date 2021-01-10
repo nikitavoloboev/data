@@ -100,3 +100,4 @@
 - [Txtai](https://github.com/neuml/txtai) - AI-powered search engine in Rust.
 - [Jina](https://github.com/jina-ai/jina) - Deep learning-powered search framework for building cross-/multi-modal search systems (e.g. text, images, video, audio) in the cloud.
 - [Okeano](https://okeano.com/) - Search engine that cleans the ocean and respects your privacy.
+- [Private.sh](https://private.sh/) - Search engine that cryptographically protects your privacy.
