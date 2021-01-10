@@ -29,3 +29,4 @@
 - [A tiny CI system (2020)](https://www.0chris.com/tiny-ci-system.html) ([Lobsters](https://lobste.rs/s/fbc6wl/tiny_ci_system))
 - [CI for performance: Reliable benchmarking in noisy environments (2020)](https://pythonspeed.com/articles/consistent-benchmarking-in-ci/) ([Lobsters](https://lobste.rs/s/33xrng/ci_for_performance_reliable))
 - [Quad CI](https://github.com/alpacaaa/quad-ci) - CI server written in Simple Haskell.
+- [CI/CD Workflow for AWS ECS via Terragrunt and GitHub Actions (2020)](https://camillovisini.com/article/terragrunt-github-actions-aws-ecs/)

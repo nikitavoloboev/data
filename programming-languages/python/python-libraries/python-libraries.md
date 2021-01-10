@@ -277,6 +277,7 @@
 - [Plumbum](https://github.com/tomerfiliba/plumbum) - Shell Combinators.
 - [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers) - Optimize any Python function with modern algorithms in numerical search spaces.
 - [demandimport](https://github.com/bwesterb/py-demandimport) - Lazy import python modules for low start-up time.
+- [Array](https://github.com/Lauriat/funct) - Better Python List. ([HN](https://news.ycombinator.com/item?id=25713915))
 
 ## Links
 

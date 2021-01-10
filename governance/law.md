@@ -15,3 +15,4 @@
 - [judyrecords](https://www.judyrecords.com/) - Full text search on 400M US court cases. ([HN](https://news.ycombinator.com/item?id=25150702))
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [CS50 for Lawyers](https://online-learning.harvard.edu/course/cs50-lawyers)
+- [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage) ([HN](https://news.ycombinator.com/item?id=25714093))

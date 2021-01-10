@@ -71,3 +71,4 @@
 - [The \_intf trick (2020)](https://www.craigfe.io/posts/the-intf-trick) - Trick for avoiding duplication of types between .ml and .mli files.
 - [OCaml Operator Lookup](https://www.craigfe.io/operator-lookup/) - Enter an OCaml operator to learn more about it.
 - [Friendship ended with Monads: Testing out Algebraic effects in OCaml for Animations (2021)](https://gopiandcode.uk/logs/log-bye-bye-monads-algebraic-effects.html)
+- [Solving the Jane Street puzzle of Dec 2020 - Backtracking with OCaml (2021)](https://willemhoek.com/b/howto-solve-jane-street-puzzle-dec-2020-backtracking-with-ocaml)

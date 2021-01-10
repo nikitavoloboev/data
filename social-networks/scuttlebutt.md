@@ -11,3 +11,4 @@
 - [European Scuttlebutt Collective](https://scuttlebutt.eu/)
 - [Go-SSB](https://github.com/cryptoscope/ssb) - Full-stack implementation of secure-scuttlebutt using the Go programming language.
 - [kuska-ssb](https://github.com/Kuska-ssb/ssb) - Secure Scuttlebutt Rust library.
+- [HN: Scuttlebutt (2021)](https://news.ycombinator.com/item?id=25713830)
