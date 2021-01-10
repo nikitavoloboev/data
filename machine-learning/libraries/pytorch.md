@@ -205,3 +205,4 @@
 - [PyTorch-Reparam-Module](https://github.com/SsnL/PyTorch-Reparam-Module) - Reparameterize your PyTorch modules.
 - [Pytorch Forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch.
 - [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in PyTorch.
+- [PyTorch Architectures](https://github.com/addisonklinke/pytorch-architectures) - PyTorch implementations of research paper model architectures.

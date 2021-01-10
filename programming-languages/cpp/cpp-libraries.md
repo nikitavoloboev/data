@@ -160,6 +160,7 @@
 - [FLANN](https://github.com/mariusmuja/flann) - Fast Library for Approximate Nearest Neighbors.
 - [TVLLib](https://github.com/MorphStore/TVLLib) - Template Vector Library.
 - [Ceres Solver](https://github.com/ceres-solver/ceres-solver) - Open source C++ library for modeling and solving large, complicated optimization problems. ([Docs](http://ceres-solver.org/))
+- [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp) - High-level C++ D-Bus library for Linux designed to provide expressive, easy-to-use API in modern C++.
 
 ## Links
 

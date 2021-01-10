@@ -143,3 +143,4 @@
 - [Meld](https://m-ld.org/) - Decentralized shared state.
 - [Understanding Connections & Pools (2021)](https://sudhir.io/understanding-connections-pools/) ([HN](https://news.ycombinator.com/item?id=25644656))
 - [Fission Whitepaper](https://whitepaper.fission.codes/) ([Code](https://github.com/fission-suite/whitepaper))
+- [Awesome distributed transactions](https://github.com/rystsov/awesome-distributed-transactions)

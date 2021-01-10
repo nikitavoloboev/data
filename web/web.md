@@ -161,7 +161,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [On Modern Web Applications Stability (2020)](https://www.emadelsaid.com/on-modern-web-applications-stability/) ([HN](https://news.ycombinator.com/item?id=24493865))
 - [Cloudflare and the Wayback Machine, joining forces for a more reliable Web (2020)](http://blog.archive.org/2020/09/17/internet-archive-partners-with-cloudflare-to-help-make-the-web-more-useful-and-reliable/) ([HN](https://news.ycombinator.com/item?id=24504080))
 - [Web Development for Everyone book](https://webdevelopmentforeveryone.com/)
-- [Skynet](https://siasky.net/) - Decentralized CDN and file sharing platform for devs.
+- [Skynet](https://siasky.net/) - Decentralized CDN and file sharing platform for devs. ([Code](https://github.com/NebulousLabs/skynet-webportal))
 - [Apache ZooKeeper](https://zookeeper.apache.org/) - Centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ([Code](https://github.com/apache/zookeeper))
 - [Grant for the Web](https://www.grantfortheweb.org/) - 100M fund to boost open, fair, and inclusive standards and innovation in Web Monetization.
 - [Nerds of the 90s Web Ring](https://webringdemo.netlify.app/) ([Code](https://github.com/maxboeck/webring))
