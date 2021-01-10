@@ -46,3 +46,4 @@ I especially like the distinction of distributing content over distributing link
 - [Offchain IPFS](https://rs-ipfs.github.io/offchain-ipfs-manual/) - IPFS node embedded within Substrate.
 - [galacteek](https://galacteek.github.io/) - Multi-platform Qt5-based browser/toolbox for the IPFS peer-to-peer network.
 - [IPFS Web UI](https://github.com/ipfs-shipyard/ipfs-webui) - Web interface to IPFS. ([Web](https://webui.ipfs.io/))
+- [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.

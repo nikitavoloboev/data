@@ -227,3 +227,4 @@
 - [SentEval: evaluation toolkit for sentence embeddings](https://github.com/facebookresearch/SentEval)
 - [gpt-scrolls](https://github.com/maraoz/gpt-scrolls) - Collaborative collection of open-source safe GPT-3 prompts that work well.
 - [SLING - A natural language frame semantics parser](https://github.com/ringgaard/sling) - Built to learn to read and understand Wikipedia articles in many languages for the purpose of knowledge base completion.
+- [Awesome Neural Adaptation in NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP)

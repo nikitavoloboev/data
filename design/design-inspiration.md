@@ -254,6 +254,7 @@ Here are few more things I liked, design wise.
 - [Alessia Bellisario](https://aless.co/) ([Code](https://github.com/alessbell/aless.co))
 - [Peter Steinberger](https://steipete.wtf/)
 - [Ben Mingo](https://benmingo.cargo.site/)
+- [Stephen Coakley](https://stephencoakley.com/)
 - [Charlotte Dann](https://charlottedann.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Zach Bruggeman](https://bruggie.com/)
