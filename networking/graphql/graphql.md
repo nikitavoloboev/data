@@ -182,3 +182,4 @@
 - [GraphJin](https://github.com/dosco/graphjin) - GraphQL to SQL Compiler in Go (Postgres and MySQL). ([Web](https://graphjin.com/)) ([Docs](https://graphjin.com/docs/home/))
 - [graphql-subscriptions-client](https://github.com/lunchboxer/graphql-subscriptions-client) - Websocket client for graphql-ws protocol based on subscriptions-transport-ws.
 - [Pragma](https://pragmalang.com/) - Build Beautiful GraphQL APIs In No Time. ([Code](https://github.com/pragmalang/pragma))
+- [Lucid](https://github.com/Gossamer-React/Lucid) - Chrome Developer Tool designed to help engineers debug their React-GraphQL applications.

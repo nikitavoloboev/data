@@ -30,3 +30,5 @@
 - [LiquidBounce](https://liquidbounce.net/) - Free Minecraft Forge Hacked Client. ([Code](https://github.com/CCBlueX/LiquidBounce))
 - [Craft](https://github.com/fogleman/Craft) - Simple Minecraft clone written in C using modern OpenGL (shaders). ([Web](https://www.michaelfogleman.com/projects/craft/))
 - [Minecraft Realms API in Node](https://github.com/revzim/mc-realms)
+- [Tuinity](https://github.com/Spottedleaf/Tuinity) - Fork of Paper Minecraft Server aimed at improving server performance at high playercounts.
+- [PaperMC](https://papermc.io/) - Next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance. ([GitHub](https://github.com/PaperMC))

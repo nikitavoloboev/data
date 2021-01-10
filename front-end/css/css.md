@@ -248,3 +248,4 @@
 - [PostCSS Language Support](https://github.com/csstools/postcss-language) - Support for modern and experimental CSS within Visual Studio Code.
 - [Custom Properties as State (2021)](https://css-tricks.com/custom-properties-as-state/) ([HN](https://news.ycombinator.com/item?id=25682751))
 - [CSS-Tricks Conferences](https://conferences.css-tricks.com/) ([Code](https://github.com/CSS-Tricks/conferences))
+- [Natural Selection](https://github.com/frontaid/natural-selection) - Collection of best-practice CSS selectors.
