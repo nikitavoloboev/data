@@ -668,3 +668,4 @@
 - [Ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry.
 - [RustSec](https://rustsec.org/) - Security advisory database for Rust crates published through crates.io. ([Code](https://github.com/RustSec/advisory-db))
 - [Language development libraries for Rust](https://github.com/Kixiron/rust-langdev)
+- [cargo-cacher](https://github.com/ChrisMacNaughton/cargo-cacher) - Caching server for crates + cargo.
