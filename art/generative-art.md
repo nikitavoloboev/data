@@ -101,3 +101,4 @@
 - [Tips for Generative Infrastructure and Tooling (2018)](https://www.kovach.me/Infrastructure_of_art.html)
 - ["A Box of Chaos: The Generative Artist's Toolkit" by Benjamin Kovach (2018)](https://www.youtube.com/watch?v=kZNTozzsNqk)
 - [Noise Planets (Generative Art) (2021)](https://avinayak.github.io/art/2021/01/09/noise-planets.html)
+- [Automatically Generating Algorithmic Art](https://grgv.xyz/creative_code_synthesis/)
