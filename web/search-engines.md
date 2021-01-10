@@ -45,7 +45,7 @@
 - [Search Commons](https://searchcommons.org/) - Open source project that maintains a directory of websites you can restrict your search to. ([Code](https://github.com/antontarasenko/searchcommons))
 - [Ego Graphs – the Google ‘vs’ trick (2020)](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f) ([HN](https://news.ycombinator.com/item?id=23599177))
 - [Reducing search indexing latency to one second (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second.html) ([HN](https://news.ycombinator.com/item?id=23652097))
-- [Ecosia](https://www.ecosia.org/?c=en) - Search engine that plants trees.
+- [Ecosia](https://www.ecosia.org/?c=en) - Search engine that plants trees. ([HN](https://news.ycombinator.com/item?id=25713050))
 - [paxx](https://github.com/jackdoe/paxx) - Simple inverted index search engine.
 - [Sajari](https://www.sajari.com/) - AI-driven Search Solutions.
 - [Runnaroo](https://www.runnaroo.com/) - A Better Private Search Engine. ([HN](https://news.ycombinator.com/item?id=23771131))

@@ -51,3 +51,4 @@
 - [How I Setup My Own Personal CDN (2020)](https://joel.net/how-i-setup-my-own-personal-cdn)
 - [Optimyze.cloud](https://optimyze.cloud/) - Hyperscaler software efficiency. For everybody.
 - [The Cloud Christmas](https://thecloud.christmas/)
+- [Ask HN: Where to get cheap VPS with big storage? (2021)](https://news.ycombinator.com/item?id=25713160)

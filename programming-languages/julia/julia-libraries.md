@@ -173,6 +173,7 @@
 - [Infiltrator.jl](https://github.com/JuliaDebug/Infiltrator.jl) - Provides a macro called @infiltrate, which sets a "breakpoint" in a local context.
 - [Luxor](https://github.com/JuliaGraphics/Luxor.jl) - Julia package for drawing simple static vector graphics.
 - [SnoopCompile](https://github.com/timholy/SnoopCompile.jl) - Making packages work faster with more extensive precompilation.
+- [StaticCompiler](https://github.com/tshort/StaticCompiler.jl) - Compiles Julia code to a standalone library.
 
 ## Links
 

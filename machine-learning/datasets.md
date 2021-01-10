@@ -64,3 +64,4 @@
 - [Computer Vision Datasets](https://public.roboflow.com/)
 - [Voicebook Datasets](https://github.com/jim-schwoebel/voice_datasets) - Comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
 - [The Pile](https://pile.eleuther.ai/) - 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.
+- [doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner. ([Web](https://doccano.herokuapp.com/))
