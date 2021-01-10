@@ -344,6 +344,7 @@
 - [Tea](https://github.com/tj/go-tea) - Provides an Elm inspired functional framework for interactive command-line programs.
 - [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based cryptographic library in Go.
 - [orderedmap](https://github.com/elliotchance/orderedmap) - Ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
+- [orderedmap](https://github.com/iancoleman/orderedmap) - Go data type equivalent to python's collections.OrderedDict.
 - [validator](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 - [cast](https://github.com/spf13/cast) - Safe and easy casting from one type to another in Go.
 - [go-reuseport](https://github.com/libp2p/go-reuseport) - Reuse tcp/udp ports in golang.
