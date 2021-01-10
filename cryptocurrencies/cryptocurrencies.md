@@ -55,3 +55,4 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that wastes e
 - [Bitcoin Suisse](https://www.bitcoinsuisse.com/) - Buy, sell and earn crypto assets with a regulated Swiss company.
 - [Cryptocurrency Investor Tools](https://github.com/f13end/Crypto-Investor-Tools)
 - [Know the difference! Inflation in fiat currency, proof-of-work, and proof-of-stake cryptocurrencies. (2021)](https://www.youtube.com/watch?v=ZW_DyWgGJV8)
+- [Bitcoin, Blockchain, and Cryptocurrency for Investment Professionals (2021)](https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-cryptoassets.ashx)
