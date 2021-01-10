@@ -14,3 +14,4 @@
 - [Catala](https://github.com/CatalaLang/catala) - Domain-specific language for deriving faithful-by-construction algorithms from legislative texts. ([Web](https://catala-lang.org/)) ([HN](https://news.ycombinator.com/item?id=24948342))
 - [judyrecords](https://www.judyrecords.com/) - Full text search on 400M US court cases. ([HN](https://news.ycombinator.com/item?id=25150702))
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
+- [CS50 for Lawyers](https://online-learning.harvard.edu/course/cs50-lawyers)

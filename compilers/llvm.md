@@ -56,3 +56,4 @@
 - [Infrastructure for ML - Driven Optimizations in LLVM](https://github.com/google/ml-compiler-opt)
 - [LLVM Project Blog](https://blog.llvm.org/)
 - [A Complete Guide to LLVM for Programming Language Creators (2020)](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/) ([HN](https://news.ycombinator.com/item?id=25539797))
+- [The Architecture of Open Source Applications: LLVM](http://www.aosabook.org/en/llvm.html) ([Reddit](https://www.reddit.com/r/programming/comments/ku9xza/the_architecture_of_open_source_applications_llvm/))
