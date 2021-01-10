@@ -276,6 +276,7 @@
 - [Dynamics and Control](https://github.com/alchemyst/Dynamics-and-Control) - Python library for solving textbook control problems.
 - [Plumbum](https://github.com/tomerfiliba/plumbum) - Shell Combinators.
 - [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers) - Optimize any Python function with modern algorithms in numerical search spaces.
+- [demandimport](https://github.com/bwesterb/py-demandimport) - Lazy import python modules for low start-up time.
 
 ## Links
 

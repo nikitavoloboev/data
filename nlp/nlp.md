@@ -225,3 +225,4 @@
 - [FewRel Dataset, Toolkits and Baseline Models](https://github.com/thunlp/FewRel)
 - [Tree Transformer: Integrating Tree Structures into Self-Attention (2019)](https://arxiv.org/abs/1909.06639) ([Code](https://github.com/yaushian/Tree-Transformer))
 - [SentEval: evaluation toolkit for sentence embeddings](https://github.com/facebookresearch/SentEval)
+- [gpt-scrolls](https://github.com/maraoz/gpt-scrolls) - Collaborative collection of open-source safe GPT-3 prompts that work well.

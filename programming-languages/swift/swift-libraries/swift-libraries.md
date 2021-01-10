@@ -547,6 +547,7 @@
 - [SwiftImage](https://github.com/koher/swift-image) - Image library in Swift with Swifty APIs and value semantics.
 - [SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio) - Audio player written in Swift, making it simpler to work with audio playback from streams and files.
 - [AudioKitUI](https://github.com/AudioKit/AudioKitUI) - User Interfaces for AudioKit.
+- [Continuations](https://github.com/bscothern/Continuations) - Simple library for efficient continuations including ones that are guaranteed to be executed.
 
 ## Other (not lib)
 

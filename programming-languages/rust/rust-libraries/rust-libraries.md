@@ -648,6 +648,7 @@
 - [cargo-osha](https://github.com/icefoxen/cargo-osha) - Cargo plugin to list unsafe code in a Rust project.
 - [Cargo Wipe](https://github.com/mihai-dinculescu/cargo-wipe) - Recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path.
 - [cargo xtask](https://github.com/matklad/cargo-xtask) - Way to add free-form automation to a Rust project, a-la make, npm run or bespoke bash scripts.
+- [cargo-binutils](https://github.com/rust-embedded/cargo-binutils) - Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain.
 
 ## Links
 
