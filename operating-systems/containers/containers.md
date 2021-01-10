@@ -84,3 +84,4 @@
 - [OCI Image Format Specification](https://github.com/opencontainers/image-spec)
 - [vas-quod](https://github.com/flouthoc/vas-quod) - Tiny minimal Linux container runtime written in Rust. ([HN](https://news.ycombinator.com/item?id=25550003))
 - [Testing Containers with Container Structure Test (2020)](https://reese.dev/testing-containers-with-container-structure-test/)
+- [Container Registry](https://container-registry.com/) - Dedicated Container Registry as a Service.
