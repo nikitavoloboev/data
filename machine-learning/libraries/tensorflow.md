@@ -71,3 +71,4 @@
 - [Siamese networks with Keras, TensorFlow, and Deep Learning (2020)](https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/)
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [checkmate](https://github.com/parasj/checkmate) - Training neural networks in TensorFlow 2.0 with 5x less memory.
+- [TensorFlow in Swift Handbook](https://github.com/huan/tensorflow-handbook-swift)

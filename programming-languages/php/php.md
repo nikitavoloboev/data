@@ -14,3 +14,4 @@
 - [Laravel](https://github.com/laravel/framework) - Web application framework with expressive, elegant syntax. ([Web](https://laravel.com/))
 - [Wink](https://github.com/themsaid/wink) - Laravel-based publishing platform.
 - [Serverless Laravel](https://serverlesslaravelcourse.com/) - Laravel Vapor masterclass.
+- [PHP Internals](https://phpinternals.net/) - Dedicated to providing resources on PHP's internals.
