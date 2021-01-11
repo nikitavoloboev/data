@@ -68,3 +68,4 @@
 - [django-unicorn](https://github.com/adamghill/django-unicorn) - Provides a way to use backend Django code and regular Django templates to create interactive experiences without investing in a separate frontend framework. ([Web](https://www.django-unicorn.com/))
 - [Hotwire + Django](https://github.com/hotwire-django/hotwire-django) - Meta package to combine turbo-django and stimulus-django.
 - [Django migrations without downtimes (2015)](http://pankrat.github.io/2015/django-migrations-without-downtimes/)
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.

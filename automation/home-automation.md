@@ -30,3 +30,4 @@
 - [Home Assistant on Steroids Config](https://github.com/UbhiTS/ha-config-ataraxis)
 - [Home Assistant Conference (2020)](https://www.youtube.com/watch?v=xSB_MuKkgxE) ([Web](https://www.home-assistant.io/conference/))
 - [Keeper](https://github.com/nragon/keeper) - Service to monitor and maintain MQTT and HomeAssistant.
+- [node-hue-api](https://github.com/peter-murray/node-hue-api) - Node.js Library for interacting with the Philips Hue Bridge and Lights.

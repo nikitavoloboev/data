@@ -47,6 +47,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Lessons I've Learned After Gaining 100,000 Twitter Followers (2020)](https://compiled.blog/blog/lessons-ive-learned-after-gaining-100000-twitter-followers)
 - [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.
 - [A Genocide Incited on Facebook, With Posts From Myanmar’s Military (2018)](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html) ([Reddit](https://www.reddit.com/r/technology/comments/gvd6fk/a_facebook_software_engineer_publicly_resigned_in/))
+- [How Facebook Is Complicit in Myanmar’s Attacks on Minorities (2020)](https://thediplomat.com/2020/08/how-facebook-is-complicit-in-myanmars-attacks-on-minorities/) ([HN](https://news.ycombinator.com/item?id=25730388))
 - [Auralite](https://auralite.io/) - New social network for the future. ([Tweet](https://twitter.com/m1guelpf/status/1275815147248979968))
 - [De-Escalating Social Media (2020)](https://nickpunt.com/blog/deescalating-social-media/) ([HN](https://news.ycombinator.com/item?id=23734535))
 - [PG: The biggest source of stress for me at YC was running HN (2020)](https://news.ycombinator.com/item?id=23806426)
@@ -81,3 +82,5 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Most of what you read on the internet is written by insane people (2018)](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/) ([HN](https://news.ycombinator.com/item?id=25600274))
 - [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - API and Web App for analyzing & finding a person profile across 300+ social media websites.
 - [Ask HN: What are decentralized Twitter alternatives? (2021)](https://news.ycombinator.com/item?id=25695682)
+- [Ask HN: Who is working on fully decentralized social networking? (2021)](https://news.ycombinator.com/item?id=25730485)
+- [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/) ([HN](https://news.ycombinator.com/item?id=25731419))

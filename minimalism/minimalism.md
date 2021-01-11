@@ -32,3 +32,5 @@ I [budget & invest my money](../economy/finance.md).
 - [mnmllist](https://mnmll.ist/) - Listing all things minimal.
 - [Living with less. Everything I own now fits into a single carry-on bag](https://www.wernervanrooyen.com/living-with-less-one-bag/)
 - [Minimally Minimal](http://www.minimallyminimal.com/)
+- [Working Off-Grid Efficiently](https://100r.co/site/working_offgrid_efficiently.html) ([HN](https://news.ycombinator.com/item?id=25723819))
+- [offgrid house](https://joeyh.name/offgrid/)

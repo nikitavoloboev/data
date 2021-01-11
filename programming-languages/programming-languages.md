@@ -157,3 +157,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Interactive Tutorials for programming languages](https://github.com/ronreiter/interactive-tutorials)
 - [Pygments](https://pygments.org/) - Generic syntax highlighter written in Python. ([Code](https://github.com/pygments/pygments))
 - [Models of Programming Languages](https://github.com/pamellies/models-of-programming-languages)
+- [Designing an actor-based programming language (2020)](https://quizzical-dijkstra-2acb9c.netlify.app/ferrum/)

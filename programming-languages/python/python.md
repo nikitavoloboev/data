@@ -245,3 +245,4 @@
 - [Pyflakes](https://github.com/PyCQA/pyflakes) - Simple program which checks Python source files for errors.
 - [Modern Python Environments - dependency and workspace management (2020)](https://testdriven.io/blog/python-environments/)
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills by Peter Norvig.
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns (2020)](https://camillovisini.com/article/abstracting-fastapi-services/)

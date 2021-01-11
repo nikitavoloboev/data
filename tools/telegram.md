@@ -66,5 +66,5 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [td](https://github.com/gotd/td) - Telegram client in go.
 - [TGStore](https://github.com/golang-design/tgstore) - Encrypted object storage system with unlimited space backed by Telegram.
 - [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger. ([Web](https://www.intergram.xyz/))
-- [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/) - Story of a bug that was discovered and fixed in Telegram’s self-rolled cryptographic protocol. ([Lobsters](https://lobste.rs/s/ypillu/most_backdoor_looking_bug_i_ve_ever_seen))
-- [Automated Symbolic Verification of Telegram's MTProto 2.0 (2020)](https://arxiv.org/abs/2012.03141) ([HN](https://news.ycombinator.com/item?id=25722076))
+- [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/) - Story of a bug that was discovered and fixed in Telegram’s self-rolled cryptographic protocol. ([Lobsters](https://lobste.rs/s/ypillu/most_backdoor_looking_bug_i_ve_ever_seen)) ([HN](https://news.ycombinator.com/item?id=25726068))
+- [Automated Symbolic Verification of Telegram's MTProto 2.0 (2020)](https://arxiv.org/abs/2012.03141) ([HN](https://news.ycombinator.com/item?id=25722076)) ([Code](https://github.com/miculan/telegram-mtproto2-verification))

@@ -162,6 +162,8 @@
 - [Lucina & Associates](https://lucina.net/) - Small consulting group specializing in bespoke software development and system integration.
 - [EGO Creative Innovations](https://www.ego-cms.com/) - Develop Mobile Apps for Businesses.
 - [Scott Logic](https://www.scottlogic.com/)
+- [wemake.services](https://wemake.services/) ([GitHub](https://github.com/wemake-services))
+- [Foxhound Systems](https://www.foxhound.systems/)
 
 ## Links
 

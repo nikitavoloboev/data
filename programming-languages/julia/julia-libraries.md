@@ -174,6 +174,7 @@
 - [Luxor](https://github.com/JuliaGraphics/Luxor.jl) - Julia package for drawing simple static vector graphics.
 - [SnoopCompile](https://github.com/timholy/SnoopCompile.jl) - Making packages work faster with more extensive precompilation.
 - [StaticCompiler](https://github.com/tshort/StaticCompiler.jl) - Compiles Julia code to a standalone library.
+- [Stipple](https://github.com/GenieFramework/Stipple.jl) - Reactive UI library for interactive data applications with pure Julia.
 
 ## Links
 

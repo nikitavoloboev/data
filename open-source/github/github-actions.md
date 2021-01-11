@@ -136,6 +136,7 @@
 ## Haskell
 
 - [Haskell Github Actions](https://github.com/haskell/actions) - Github actions for Haskell CI.
+- [hackage-publish](https://github.com/haskell-actions/hackage-publish) - GitHub action for publishing packages and documentation to Hackage.
 
 ## Java
 

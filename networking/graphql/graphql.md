@@ -183,3 +183,4 @@
 - [graphql-subscriptions-client](https://github.com/lunchboxer/graphql-subscriptions-client) - Websocket client for graphql-ws protocol based on subscriptions-transport-ws.
 - [Pragma](https://pragmalang.com/) - Build Beautiful GraphQL APIs In No Time. ([Code](https://github.com/pragmalang/pragma))
 - [Lucid](https://github.com/Gossamer-React/Lucid) - Chrome Developer Tool designed to help engineers debug their React-GraphQL applications.
+- [TQL](https://github.com/timkendall/tql) - Write type-safe GraphQL queries with TypeScript.

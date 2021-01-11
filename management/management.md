@@ -78,4 +78,5 @@
 - [Team Topologies](https://teamtopologies.com/) - Organizing Business and Technology Teams for Fast Flow. ([Book](https://teamtopologies.com/book))
 - [No Meetings, No Deadlines, No Full-Time Employees (2021)](https://sahillavingia.com/work) ([HN](https://news.ycombinator.com/item?id=25673275))
 - [Ask HN: Which companies work like Gumroad? (2021)](https://news.ycombinator.com/item?id=25686678)
-- [What Silicon Valley gets about engineers that traditional companies do not (2020)](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) ([HN](https://news.ycombinator.com/item?id=25717390))
+- [What Silicon Valley gets about engineers that traditional companies do not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) ([HN](https://news.ycombinator.com/item?id=25717390))
+- [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)

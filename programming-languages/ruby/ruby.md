@@ -53,3 +53,4 @@
 - [Ruby 3.0 and the new FiberScheduler interface (2020)](http://www.wjwh.eu/posts/2020-12-28-ruby-fiber-scheduler-c-extension.html) ([HN](https://news.ycombinator.com/item?id=25560894))
 - [Ruby Books](https://planetruby.github.io/books/)
 - [Ruby 3, Concurrency and the Ecosystem (2021)](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/) ([HN](https://news.ycombinator.com/item?id=25690212))
+- [lib-ruby-parser](https://github.com/lib-ruby-parser/lib-ruby-parser) - Ruby parser written in Rust.

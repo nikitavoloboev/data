@@ -25,3 +25,4 @@
 - [Trubka](https://github.com/xitonix/trubka) - CLI tool for Kafka written in Go.
 - [franz-go](https://github.com/twmb/franz-go) - High performance, pure Go library for interacting with Kafka.
 - [Kafka is not a Database (2020)](https://materialize.com/kafka-is-not-a-database/) ([HN](https://news.ycombinator.com/item?id=25346851)) ([Tweet](https://twitter.com/martinkl/status/1336336852890963977))
+- [Kafka As A Database? Yes Or No (2021)](https://davidxiang.com/2021/01/10/kafka-as-a-database/)

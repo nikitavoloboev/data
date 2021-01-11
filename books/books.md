@@ -214,6 +214,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [My Favorite Books 2020](https://oleb.net/2020/favorite-books-2020/) ([HN](https://news.ycombinator.com/item?id=25595971))
 - [2020 booklist](https://danromero.org/2020-booklist.html)
 - [Lobsters: What books are you reading? (2021)](https://lobste.rs/s/yuwwrf/what_books_are_you_reading)
+- [Best Books I read in 2020](https://eriktorenberg.substack.com/p/best-books-i-read-in-2020)
 
 ## Notes
 

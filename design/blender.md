@@ -30,3 +30,4 @@
 - [Blender for Beginners: A Tutorial That’ll Help You Get Started (2020)](https://www.ego-cms.com/post/blender-for-beginners-a-tutorial-thatll-help-you-get-started)
 - [Sketchfab Blender Addon](https://github.com/sketchfab/blender-plugin) - Directly import and export models from and to Sketchfab in Blender.
 - [Nice python scripts and add-ons for Blender](https://github.com/Tlousky/blender_scripts)
+- [DreamUV](https://github.com/leukbaars/DreamUV) - Collection of tools that allow you to manipulate UVs in the 3D viewport.

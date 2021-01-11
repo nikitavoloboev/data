@@ -149,3 +149,6 @@
 - [Ambient Music Generator](https://github.com/pachyderm/ambient-music-generation)
 - [The Design of the Roland Juno Syntheziser's Oscillators](https://blog.thea.codes/the-design-of-the-juno-dco/) ([HN](https://news.ycombinator.com/item?id=25598656))
 - [Awesome Music DSP](https://github.com/olilarkin/awesome-musicdsp) - Curated list of my favourite music DSP and audio programming resources.
+- [Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs (2021)](https://arxiv.org/abs/2101.02402) ([Code](https://github.com/YatingMusic/compound-word-transformer))
+- [ReaRender](https://github.com/YatingMusic/ReaRender) - Python toolkit for automatic audio/MIDI rendering using REAPER.
+- [Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions (2020)](https://arxiv.org/abs/2002.00212) ([Code](https://github.com/YatingMusic/remi))

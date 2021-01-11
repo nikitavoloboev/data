@@ -20,7 +20,7 @@
 - [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
 - [tui go](https://github.com/marcusolsson/tui-go) - UI lib for terminal applications.
 - [Survey](https://github.com/AlecAivazis/survey) - Library for building interactive prompts.
-- [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [GOCUI](https://github.com/awesome-gocui/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 - [Spinner](https://github.com/briandowns/spinner) - Simple package to add a spinner / progress indicator to any terminal application.
 - [Viper](https://github.com/spf13/viper) - Go configuration with fangs.
@@ -51,6 +51,7 @@
 - [Prettybench](https://github.com/cespare/prettybench) - Tool for transforming go test's benchmark output a bit to make it nicer for humans.
 - [goldie](https://github.com/sebdah/goldie) - Golden test utility for Go.
 - [gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
+- [autogold](https://github.com/hexops/autogold) - Automatically update your Go tests.
 
 ## Web
 
@@ -68,7 +69,7 @@
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
 - [Coco](https://github.com/mrmiguu/coco) - Golang WebAssembly Framework.
 - [Wasmer](https://github.com/wasmerio/go-ext-wasm) - Go library to run WebAssembly binaries at native speed.
-- [Vecty](https://github.com/gopherjs/vecty) - Library for building responsive and dynamic web frontends in Go instead of in JavaScript, HTML & CSS.
+- [Vecty](https://github.com/hexops/vecty) - Build responsive and dynamic web frontends in Go using WebAssembly, competing with modern web frameworks like React & VueJS.
 - [Heimdall](https://github.com/gojek/heimdall) - Enhanced HTTP client for Go.
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
@@ -667,6 +668,8 @@
 - [deque](https://github.com/ef-ds/deque) - Implements a very fast and efficient general purpose queue/stack/deque data structure.
 - [taskflow](https://github.com/pellared/taskflow) - Create build pipelines in Go.
 - [Diff](https://github.com/r3labs/diff) - Library for diffing go structures.
+- [valast](https://github.com/hexops/valast) - Convert Go values to their AST.
+- [nanoQ](https://github.com/Aigent/nq) - High-performance brokerless Pub/Sub for streaming real-time data.
 
 ## Links
 

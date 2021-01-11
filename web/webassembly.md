@@ -124,3 +124,5 @@
 - [WebAssembly Studio](https://webassembly.studio/) ([HN](https://news.ycombinator.com/item?id=25592481))
 - [Metallic](https://github.com/jdh8/metallic) - C runtime library (libc) for WebAssembly.
 - [Wizer](https://github.com/bytecodealliance/wizer) - WebAssembly Pre-Initializer.
+- [Hosting WebAssembly in Swift (2021)](http://www.alwaysrightinstitute.com//swifty-wasmer/)
+- [Rust and WebAssembly Book](https://rustwasm.github.io/docs/book/) - Small book describes how to use Rust and WebAssembly together. ([Code](https://github.com/rustwasm/book))

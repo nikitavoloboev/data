@@ -2,7 +2,7 @@
 
 Best to not ever take opiates if you can avoid it.
 
-[Feeling something is better than the numbness and feeling nothing that you start to get use to and need in order to cope with emotional distress.](https://www.reddit.com/r/opiates/comments/7nxrrd/to_the_opiate_curious/)
+[Feeling something is better than the numbness and feeling nothing that you start to get used to and need in order to cope with emotional distress.](https://www.reddit.com/r/opiates/comments/7nxrrd/to_the_opiate_curious/)
 
 ## Notes
 

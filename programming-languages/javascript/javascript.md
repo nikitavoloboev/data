@@ -254,3 +254,5 @@
 - [Manypkg](https://github.com/Thinkmill/manypkg) - Linter for package.json files in Yarn, Bolt or pnpm monorepos.
 - [Putout](https://github.com/coderaiser/putout) - Pluggable and configurable code transformer with built-in eslint, babel plugins and jscodeshift codemods support. ([Editor](https://putout.cloudcmd.io/))
 - [Prettier Plugin: Organize Imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports)
+- [A mostly complete guide to error handling in JavaScript (2020)](https://www.valentinog.com/blog/error/)
+- [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)

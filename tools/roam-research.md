@@ -51,7 +51,7 @@
 - [Roam Research Forum](https://forum.roamresearch.com/latest)
 - [Let the kids Roam (2020)](https://www.roambrain.com/let-the-kids-roam/)
 - [Library of Roam](https://roamlibrary.com/library)
-- [Roam42](https://roamresearch.com/#/app/roamhacker/page/UeoxCm8rm)
+- [Roam42](https://roamresearch.com/#/app/roamhacker/page/UeoxCm8rm) ([Code](https://github.com/roamhacker/roam42))
 - [Roam’s road ahead (2020)](https://divinations.substack.com/p/roams-road-ahead)
 - [How Roam knows how pages and blocks are related to each other](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/ueY7f9Adm)
 - [Academic roaming](https://www.academicroaming.com/)

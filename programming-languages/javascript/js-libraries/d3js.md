@@ -32,3 +32,4 @@
 - [Statosio](https://github.com/a6b8/statosio.js) - Add-on function for d3 to generate simple charts, in a fast and reliable way. ([Docs](https://d3.statosio.com/))
 - [force-graph](https://github.com/vasturiano/force-graph) - Force-directed graph rendered on HTML5 canvas.
 - [d3-shape](https://github.com/d3/d3-shape) - Graphical primitives for visualization, such as lines and areas.
+- [How to learn D3.js with no coding experience (2021)](https://www.heshameissa.com/blog/learn-d3)

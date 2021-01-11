@@ -46,3 +46,4 @@
 - [Advanced React and Webpack configuration (2020)](https://marlom.dev/advanced-react-and-webpack-configuration)
 - [Tips to Optimize Webpack (2020)](https://www.ginkonote.com/users/flo/articles/tips-for-wepack-optimizations@javascript)
 - [Statoscope](https://github.com/smelukov/statoscope) - Analyzes webpack stats and supplies the UI to display. ([Web](https://statoscope.tech/))
+- [webpack-nano](https://github.com/shellscape/webpack-nano) - Tiny Webpack CLI.

@@ -548,6 +548,7 @@
 - [SwiftAudio](https://github.com/jorgenhenrichsen/SwiftAudio) - Audio player written in Swift, making it simpler to work with audio playback from streams and files.
 - [AudioKitUI](https://github.com/AudioKit/AudioKitUI) - User Interfaces for AudioKit.
 - [Continuations](https://github.com/bscothern/Continuations) - Simple library for efficient continuations including ones that are guaranteed to be executed.
+- [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) - Swift API for the Wasmer WebAssembly Runtime.
 
 ## Other (not lib)
 

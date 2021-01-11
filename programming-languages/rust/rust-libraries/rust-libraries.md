@@ -627,6 +627,8 @@
 - [Arcon](https://github.com/cda-group/arcon) - Runtime for Writing Streaming Applications in Rust.
 - [joinery](https://github.com/Lucretiel/joinery) - Rust library for generically joining iterables with a separator.
 - [rpmalloc-rs](https://github.com/EmbarkStudios/rpmalloc-rs) - Cross-platform Rust global memory allocator using rpmalloc.
+- [shadow-rs](https://github.com/baoyachi/shadow-rs) - Build-time information stored in your binary.
+- [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the Java Native Interface.
 
 ## Cargo Plugins
 

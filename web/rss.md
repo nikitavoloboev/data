@@ -77,3 +77,4 @@
 - [Aggr](https://aggr.md/) - Feed aggregator which aims at being lean and fast. ([GitHub](https://github.com/aggr))
 - [RSS Mailer](https://github.com/victoriadrake/rss-mailer) - Lambda function for turning your RSS feed items into emails.
 - [What RSS reader/aggregator do you use? (2021)](https://lobste.rs/s/k0bmip/what_rss_reader_aggregator_do_you_use)
+- [FastRSS](https://github.com/avencera/fast_rss) - Parse RSS feeds very quickly.

@@ -183,3 +183,5 @@ I publish most of my work and make it open source for other people to use and re
 - [watch-rss](https://github.com/azu/watch-rss) - Subscribe your watched GitHub Repository's releases as RSS feeds on Inoreader.
 - [Building a self-updating GitHub README](https://brandur.org/fragments/self-updating-github-readme)
 - [Relnotes](https://github.com/EmbarkStudios/relnotes) - Automatic GitHub Release Notes.
+- [Only Sponsors](https://onlysponsors.dev/) - Platform to hide content behind GitHub Sponsors.
+- [Badgen](https://badgen.net/) - Fast badge generating service. ([Code](https://github.com/badgen/badgen))

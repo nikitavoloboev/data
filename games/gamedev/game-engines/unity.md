@@ -16,3 +16,4 @@
 - [Scalable Architecture for Unity Games (2020)](https://blog.extrawurst.org/gamedev/unity/programming/2020/11/11/scalable-unity-architecture.html)
 - [Flatbuffers in Unity - a 40x gain (2020)](https://blog.extrawurst.org/gamedev/unity/programming/rust/2020/12/26/unity-flatbuffers.html) ([Lobsters](https://lobste.rs/s/vvu3kl/flatbuffers_unity_40x_gain))
 - [MeshSync](https://github.com/unity3d-jp/MeshSync) - Package for synchronizing meshes/models editing in DCC tools into Unity in real time.
+- [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.

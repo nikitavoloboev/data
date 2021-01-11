@@ -217,3 +217,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [MDN live code editor interactive examples](https://github.com/mdn/interactive-examples)
 - [MinWiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites. ([Web](https://minwiz.com/))
 - [How URLs work?](https://howurls.work/) - Learn how URLs work by visually inspecting their structure. ([Code](https://github.com/Redd-Developer/howurls.work))
+- [Herodotus](https://github.com/alaskanpuffin/herodotus-core) - Content Archival Software.

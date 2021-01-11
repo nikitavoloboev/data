@@ -145,6 +145,7 @@
 - [dnd kit](https://github.com/clauderic/dnd-kit) - Modern drag and drop toolkit for React. ([Web](https://dndkit.com/))
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between DOM elements in React.
 - [React Layout Components](https://github.com/kripod/react-layout-components) - Layout components for React, primarily inspired by Every Layout.
+- [React Popper](https://github.com/popperjs/react-popper) - React wrapper around Popper tooltip library.
 
 ## Links
 

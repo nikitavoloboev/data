@@ -247,3 +247,4 @@
 - [Haskell is a Bad Programming Language (2020)](https://blog.shitiomatic.tech/post/haskell-is-a-bad-programming-language/) ([HN](https://news.ycombinator.com/item?id=25699574)) ([Lobsters](https://lobste.rs/s/ny9at0/haskell_is_bad_programming_language))
 - [Next-gen Haskell Compilation Techniques with Csaba Hruska (2021)](https://www.youtube.com/watch?v=jyaR8E325ok)
 - [Haskell In Haskell](https://github.com/cronokirby/haskell-in-haskell) - Trying to write an understandable implementation of Haskell, in Haskell.
+- [Why Haskell is our first choice for building production software systems (2021)](https://www.foxhound.systems/blog/why-haskell-for-production/) ([HN](https://news.ycombinator.com/item?id=25726588))

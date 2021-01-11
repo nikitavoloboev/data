@@ -431,3 +431,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Dark Mountain Manifesto](https://dark-mountain.net/)
 - [10 significant lies you're told about the world: On startups, writing, and your career (2021)](https://twitter.com/Julian/status/1348001394104537089)
 - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
+- [Library of Babel](https://libraryofbabel.info/) - Project towards a universal library.
+- [DevDojo](https://devdojo.com/) - Dev Community.

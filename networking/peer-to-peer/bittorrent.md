@@ -49,3 +49,4 @@
 - [BitTorrent DHT library](https://github.com/jech/dht)
 - [cratetorrent](https://github.com/mandreyel/cratetorrent) - Rust crate implementing the BitTorrent version 1 protocol.
 - [Flood](https://flood.js.org/) - Modern web UI for rTorrent, Transmission and qBittorrent. ([Code](https://github.com/jesec/flood))
+- [rustorrent](https://github.com/sebastiencs/rustorrent) - BitTorrent library implemented in Rust.

@@ -37,3 +37,4 @@
 - [dino](https://github.com/nicolagi/dino) - Distributed FUSE filesystem for small volumes.
 - [Exploring the IBM Graphical Filesystem](https://casadevall.pro/articles/2020/12/exploring-the-ibm-graphical-filesystem/) ([Lobsters](https://lobste.rs/s/dsn99n/exploring_ibm_graphical_filesystem))
 - [organize](https://github.com/tfeldmann/organize) - File management automation tool.
+- [JuiceFS](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and S3.

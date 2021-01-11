@@ -387,3 +387,4 @@
 - [MLJAR Automated Machine Learning](https://github.com/mljar/mljar-supervised) - Automates Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning. ([Web](https://mljar.com/)) ([HN](https://news.ycombinator.com/item?id=25644733))
 - [Best of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python)
 - [Deep Learning's Most Important Ideas - A Brief Historical Review (2020)](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+- [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)

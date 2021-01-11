@@ -203,3 +203,4 @@
 - [Taming Transformers for High-Resolution Image Synthesis](https://github.com/CompVis/taming-transformers)
 - [X-Temporal](https://github.com/Sense-X/X-Temporal) - Easily implement SOTA video understanding methods with PyTorch on multiple machines and GPUs.
 - [NanoDet](https://github.com/RangiLyu/nanodet) - Super fast and lightweight anchor-free object detection model. Real-time on mobile devices.
+- [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models)

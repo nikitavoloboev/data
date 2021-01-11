@@ -106,6 +106,7 @@
 - [Reconciling concepts from FP and OOP (2020)](https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html)
 - [Book of Monads](https://www.goodreads.com/book/show/42449863-the-book-of-monads) ([Code](https://github.com/JonathanLorimer/book-of-monads))
 - [Functional Pearl: It’s Easy As 1,2,3 (2021)](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
+- [Fool's scriptum on functional programming](https://github.com/kongware/scriptum) - Course about purely functional programming in JavaScript based on the scriptum library.
 
 ## Images
 

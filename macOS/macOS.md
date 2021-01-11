@@ -128,3 +128,5 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [dmgdist](https://github.com/insidegui/dmgdist) - Automate the process of creating, uploading and notarizing the DMG of a Mac app.
 - [Apple Open Source Modules of Big Sur](https://opensource.apple.com/release/macos-1101.html) ([HN](https://news.ycombinator.com/item?id=25675763))
 - [Apple ld64 Linker](https://opensource.apple.com/source/ld64/ld64-136/doc/design/linker.html)
+- [jolk](https://github.com/kendfinger/jolk) - macOS System Executable Analyzer. ([Analyzing a new release of macOS with jolk](https://blog.endfinger.io/apple/macos/technical/jolk/2021/01/10/jolk.html))
+- [MacHack](https://github.com/kendfinger/MacHack) - List of built-in tools in macOS that you probably didn't know about.

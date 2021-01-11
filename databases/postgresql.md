@@ -192,3 +192,4 @@
 - [DbSchema](https://github.com/db-schema/core) - Opinionated database schema management tool that lets you maintain your DB schema with a single ruby file.
 - [Apache AGE](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph database extension for PostgreSQL.
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
+- [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)

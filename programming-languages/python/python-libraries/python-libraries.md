@@ -81,6 +81,7 @@
 - [pytest-cookies](https://github.com/hackebrot/pytest-cookies) - Pytest plugin for your Cookiecutter templates.
 - [pytest-plugins](https://github.com/man-group/pytest-plugins) - Grab-bag of nifty pytest plugins.
 - [mutmut](https://github.com/boxed/mutmut) - Mutation testing system for Python, with a strong focus on ease of use.
+- [FreezeGun](https://github.com/spulec/freezegun) - Allows your Python tests to travel through time by mocking the datetime module.
 
 ## Other
 
@@ -278,6 +279,9 @@
 - [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers) - Optimize any Python function with modern algorithms in numerical search spaces.
 - [demandimport](https://github.com/bwesterb/py-demandimport) - Lazy import python modules for low start-up time.
 - [Array](https://github.com/Lauriat/funct) - Better Python List. ([HN](https://news.ycombinator.com/item?id=25713915))
+- [miditoolkit](https://github.com/YatingMusic/miditoolkit) - Python package for working with MIDI data.
+- [bidict](https://github.com/jab/bidict) - Bidirectional mapping library for Python.
+- [Time Series Distances](https://github.com/wannesm/dtaidistance) - Library for time series distances (e.g. Dynamic Time Warping).
 
 ## Links
 

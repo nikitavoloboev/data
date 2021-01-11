@@ -119,3 +119,4 @@
 - [Cosmopolitan Libc](https://justine.lol/cosmopolitan/index.html) - Build-once run-anywhere C library. ([Code](https://github.com/jart/cosmopolitan)) ([HN](https://news.ycombinator.com/item?id=25556286)) ([Actually Portable Executable](https://justine.storage.googleapis.com/ape.html)) ([Lobsters](https://lobste.rs/s/xnqpyp/cosmopolitan_c_library))
 - [Learn C](https://www.learn-c.org/) - Free Interactive C Tutorial.
 - [Why mmap is faster than system calls (2019)](https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37) ([HN](https://news.ycombinator.com/item?id=25701959))
+- [CxGo](https://github.com/gotranspile/cxgo) - Tool for translating C source code to Go.

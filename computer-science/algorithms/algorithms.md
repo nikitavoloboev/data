@@ -65,6 +65,7 @@
 - [Algorithms To Live By - Book Notes](https://milofultz.com/2020/12/27/atlb-notes)
 - [Numerical Algorithms (2015)](http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
 - [Using approximate nearest neighbor search in real world applications (2020)](https://blog.vespa.ai/using-approximate-nearest-neighbor-search-in-real-world-applications/)
+- [In search of the fastest concurrent Union-Find algorithm (2019)](https://arxiv.org/pdf/1911.06347.pdf)
 
 ## Images
 

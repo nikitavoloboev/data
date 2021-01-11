@@ -36,3 +36,4 @@
 - [Next & React three fiber starter](https://github.com/pmndrs/react-three-next)
 - [ThreeJS starter](https://github.com/kekkorider/threejs-starter) - General template for ThreeJS applications. It uses Parcel to create the bundle and Tweakpane for live updates.
 - [three-projected-material](https://github.com/marcofugaro/three-projected-material) - Three.js Material which lets you do Texture Projection on a 3d Model.
+- [react-three/a11y](https://github.com/pmndrs/react-three-a11y) - Accessibility tools for React Three Fiber.

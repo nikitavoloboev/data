@@ -65,3 +65,5 @@
 - [Voicebook Datasets](https://github.com/jim-schwoebel/voice_datasets) - Comprehensive list of open-source datasets for voice and sound computing (50+ datasets).
 - [The Pile](https://pile.eleuther.ai/) - 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.
 - [doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner. ([Web](https://doccano.herokuapp.com/))
+- [Weather and Climate Datasets for AI Research](http://mldata.pangeo.io/) ([Code](https://github.com/pangeo-data/mldata))
+- [NLP Datasets](https://github.com/niderhoff/nlp-datasets)

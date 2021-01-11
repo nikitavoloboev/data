@@ -55,3 +55,5 @@
 - [Blog – Tailwind CSS](https://blog.tailwindcss.com/) ([Code](https://github.com/tailwindlabs/blog.tailwindcss.com))
 - [Tailwind UI Kit](https://www.tailwind-kit.com/) - Beautiful and large components kit for TailwindCSS. ([Code](https://github.com/Charlie85270/fastUI))
 - [Tailwind Tools](https://www.tailwind-tools.com/) - Tailwind CSS Tools For Developers.
+- [RustyWind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes.
+- [Tails](https://devdojo.com/tails) - TailwindCSS Page Creator.

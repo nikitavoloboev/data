@@ -77,3 +77,4 @@
 - [Back to the '70s with Serverless (2020)](http://evrl.com/devops/cloud/2020/12/18/serverless.html) ([HN](https://news.ycombinator.com/item?id=25482410)) ([Lobsters](https://lobste.rs/s/9o4zsx/back_70s_with_serverless))
 - [Serverless Stack](https://serverless-stack.com/) - Building a Full-Stack App with Serverless and React. ([Code](https://github.com/AnomalyInnovations/serverless-stack-com))
 - [Serverless Workflow Specification](https://serverlessworkflow.io/) - Specification that defines a declarative and domain-specific workflow language for orchestrating events and services. ([Code](https://github.com/serverlessworkflow/specification))
+- [Serverless Express](https://github.com/vendia/serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway.

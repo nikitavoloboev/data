@@ -31,3 +31,4 @@
 - [Nginx Hardening Guide (2020)](https://beaglesecurity.com/blog/article/nginx-server-security.html)
 - [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)
 - [Nginx forward proxy](https://github.com/reiz/nginx_proxy)
+- [NJS Learning Materials](https://github.com/soulteary/njs-learning-materials)

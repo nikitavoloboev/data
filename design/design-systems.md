@@ -106,3 +106,4 @@
 - [Design Systems Are Bullsh\*t (2020)](https://www.blogofpascal.com/post/design-systems-are-bullsh-t)
 - [Where to start with design tokens (2020)](https://maecapozzi.com/where-to-start-with-design-tokens/)
 - [Design Systems Checklist](https://maecapozzi.com/getting-started-with-design-systems-checklist)
+- [Creating a Style System (2020)](https://jonquach.com/posts/creating-a-style-system)

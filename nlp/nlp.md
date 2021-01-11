@@ -228,3 +228,4 @@
 - [gpt-scrolls](https://github.com/maraoz/gpt-scrolls) - Collaborative collection of open-source safe GPT-3 prompts that work well.
 - [SLING - A natural language frame semantics parser](https://github.com/ringgaard/sling) - Built to learn to read and understand Wikipedia articles in many languages for the purpose of knowledge base completion.
 - [Awesome Neural Adaptation in NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP)
+- [Natural language generation: The commercial state of the art in 2020](https://www.cambridge.org/core/journals/natural-language-engineering/article/natural-language-generation-the-commercial-state-of-the-art-in-2020/BA2417D73AF29F8073FF5B611CDEB97F) ([HN](https://news.ycombinator.com/item?id=25711669))

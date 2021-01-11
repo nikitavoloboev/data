@@ -251,3 +251,4 @@
 - [systemd user services (2021)](https://notes.neeasade.net/systemd-user-services.html) ([Lobsters](https://lobste.rs/s/sy8ulu/systemd_user_services))
 - [libseccomp](https://github.com/seccomp/libseccomp) - C library that provides an easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
 - [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944) ([HN](https://news.ycombinator.com/item?id=25693618))
+- [Arch manual pages](https://man.archlinux.org/) ([Code](https://gitlab.archlinux.org/archlinux/archmanweb))
