@@ -98,4 +98,4 @@
 - [FIRMADYNE](https://github.com/firmadyne/firmadyne) - Automated and scalable system for performing emulation and dynamic analysis of Linux-based embedded firmware.
 - [OpenWrt](https://openwrt.org/) - Linux operating system targeting embedded devices. ([Code](https://github.com/openwrt/openwrt))
 - [Embedded Virtual Machine](https://github.com/embvm/embvm-core)
-- [Foundations of Embedded Systems](https://f-of-e.org/)
+- [Foundations of Embedded Systems](https://f-of-e.org/) ([HN](https://news.ycombinator.com/item?id=25717717))

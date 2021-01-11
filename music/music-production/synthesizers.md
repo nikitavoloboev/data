@@ -14,3 +14,4 @@
 - [PLANTYFLUTESIZER being explored by Pico and Verdi](https://twitter.com/_bichopalo_/status/1248919043161182209)
 - [M8](https://dirtywave.com/) - Portable synthesizer and sequencer. ([Demo](https://www.youtube.com/watch?v=DCFJ-3QfqZA))
 - [Helm](https://tytel.org/helm/) - Free polyphonic synth with lots of modulation. ([Code](https://github.com/mtytel/helm))
+- [DIY SYNTH VCO: How to build an analog oscillator core from scratch (2020)](https://www.youtube.com/watch?v=QBatvo8bCa4)
