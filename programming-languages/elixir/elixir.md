@@ -72,3 +72,4 @@
 - [nix-elixir](https://github.com/hauleth/nix-elixir) - Nix derivations for Mix projects.
 - [Niex](https://github.com/jonklein/niex) - Interactive Elixir code notebook built with Phoenix LiveView. ([HN](https://news.ycombinator.com/item?id=25563935))
 - [Learning Elixir's `GenServer` with a real-world example (2020)](https://papercups.io/blog/genserver)
+- [Elixir for Beginners: From Pipes to Pattern Matching and Beyond (2021)](https://serokell.io/blog/elixir-for-beginners)

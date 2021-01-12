@@ -57,3 +57,4 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that wastes e
 - [Know the difference! Inflation in fiat currency, proof-of-work, and proof-of-stake cryptocurrencies. (2021)](https://www.youtube.com/watch?v=ZW_DyWgGJV8)
 - [Bitcoin, Blockchain, and Cryptocurrency for Investment Professionals (2021)](https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-cryptoassets.ashx)
 - [Why we need wide adoption of social recovery wallets (2021)](https://vitalik.ca/general/2021/01/11/recovery.html) ([HN](https://news.ycombinator.com/item?id=25722131))
+- [What is Stablecoin? (2021)](https://medium.com/fleta-first-chain/what-is-stablecoin-a557e38da74)

@@ -41,6 +41,7 @@
 - [Nano Router](https://github.com/sunesimonsen/nano-router) - Framework agnostic minimalistic router with a focus on named routes.
 - [tiny-request-router](https://github.com/berstend/tiny-request-router) - Fast, generic and type safe router (match request method and path).
 - [Synergy](https://github.com/defx/synergy) - Tiny runtime library for building web user interfaces. ([HN](https://news.ycombinator.com/item?id=25677272))
+- [dflex](https://github.com/jalal246/dflex) - JavaScript Project to Manipulate DOM Elements.
 
 ## Animation
 
@@ -428,6 +429,7 @@
 - [matchit](https://github.com/lukeed/matchit) - Quickly parse & match URLs.
 - [acorn](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser, written completely in JavaScript.
 - [jsesc](https://github.com/mathiasbynens/jsesc) - Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data.
+- [fastjson](https://github.com/qntm/fastjson) - Single-tweet, standards-compliant, high-performance JSON stack.
 
 ## Links
 

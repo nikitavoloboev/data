@@ -60,3 +60,4 @@
 - [Where is the evidence for lockdowns? (2020)](https://www.reddit.com/r/LockdownSkepticism/comments/kmc1wl/where_is_the_evidence_for_lockdowns/)
 - [Messengers of hope: two mRNA Covid-19 vaccines herald a new era for vaccinology (2020)](https://www.nature.com/articles/s41587-020-00807-1) ([HN](https://news.ycombinator.com/item?id=25577215))
 - [The Lab Leak Hypothesis (2021)](https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html) ([HN](https://news.ycombinator.com/item?id=25640323))
+- [The Genetic Code of various COVID-19 Vaccines (2021)](https://berthub.eu/articles/posts/genetic-code-of-covid-19-vaccines/)

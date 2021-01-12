@@ -83,3 +83,4 @@ Might give it a go sometime.
 - [How to open a file in Emacs (2021)](https://www.murilopereira.com/how-to-open-a-file-in-emacs/) ([HN](https://news.ycombinator.com/item?id=25622756))
 - [Reasons to Learn Emacs in 2021](https://www.youtube.com/watch?v=bEfYm8sAaQg)
 - [Emacs Manuals Online](https://www.gnu.org/software/emacs/manual/)
+- [Emacs-ng](https://github.com/emacs-ng/emacs-ng) - Emacs with Deno runtime and TypeScript.

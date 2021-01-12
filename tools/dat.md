@@ -14,3 +14,4 @@
 - [HN: Dat: A P2P hypermedia protocol with public-key-addressed file archives (2020)](https://news.ycombinator.com/item?id=22909998)
 - [How do dat:// sites interact with servers? (2018)](https://pfrazee.hashbase.io/blog/dat-and-servers) ([HN](https://news.ycombinator.com/item?id=22917396))
 - [Sonar](https://github.com/arso-project/sonar) - p2p database and search engine running on top of the dat stack.
+- [Dat Enhancement Proposals](https://github.com/datprotocol/DEPs) ([Web](https://www.datprotocol.com/deps/))

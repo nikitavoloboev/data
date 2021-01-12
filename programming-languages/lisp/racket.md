@@ -42,3 +42,6 @@
 - [racket-package-ci-action](https://github.com/jackfirth/racket-package-ci-action) - GitHub Action for building and testing Racket packages.
 - [Sauron](https://github.com/racket-tw/sauron) - IDE for Racket language.
 - [Typed Racket](https://github.com/racket/typed-racket) - Racket's gradually-typed sister language which lets you add statically-checked type annotations to your programs.
+- [datatype](https://github.com/pnwamk/datatype) - Algebraic(-like) Data Types for Racket.
+- [Rosette](https://emina.github.io/rosette/) - Solver-aided programming language that extends Racket with language constructs for program synthesis, verification, and more. ([Code](https://github.com/emina/rosette))
+- [Typed Rosette](https://github.com/stchang/typed-rosette) - Experimental typed version of the Rosette language.

@@ -128,3 +128,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ghost](https://ghost.org/) - Turn your audience into a business.
 - [How to Create a Distill Article](https://distill.pub/guide/) ([Code](https://github.com/distillpub/template))
 - [Distill Post Example](https://github.com/distillpub/post--example) - Example Distill article repository. clone, rename, start writing.
+- [Personal Blog Template](https://github.com/frankdilo/personal-blog-template) - Static blog powered by Next.js and Dropbox, to be deployed on Vercel.

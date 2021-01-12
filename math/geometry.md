@@ -25,3 +25,4 @@
 - [Keller's conjecture](https://en.wikipedia.org/wiki/Keller%27s_conjecture) ([Code](https://github.com/marijnheule/Keller-encode))
 - [Geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures. ([Docs](https://geomstats.github.io/))
 - [The many ways of splitting a rectangle in many](https://www.alfonsobeato.net/math/the-many-ways-of-splitting-a-rectangle-in-many/) ([HN](https://news.ycombinator.com/item?id=25633447))
+- [Metric Spaces and How To Compare Them (2021)](https://bastian.rieck.me/blog/posts/2021/hausdorff/)

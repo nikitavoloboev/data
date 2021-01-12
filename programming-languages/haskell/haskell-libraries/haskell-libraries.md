@@ -26,6 +26,7 @@
 - [QuickCheck](https://github.com/nick8325/quickcheck) - Library for random testing of program properties.
 - [Validity](https://github.com/NorfairKing/validity) - Validity and validity-based testing.
 - [sydtest](https://github.com/NorfairKing/sydtest) - Experimental testing framework for Haskell with great defaults advanced testing features.
+- [Tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell.
 
 ## Other
 

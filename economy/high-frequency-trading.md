@@ -20,3 +20,4 @@
 - [Bayesian Portfolio Optimization - A Stationary Process](http://www.stationaryprocess.com/bayesian-portfolio-optimization/#)
 - [OpenTrade](https://github.com/opentradesolutions/opentrade) - Open source OEMS, and algorithmic trading platform, designed for simplicity, flexibility and performance.
 - [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Library for making quantitative strategic asset allocation or portfolio optimization in Python.
+- [Lean Engine](https://www.quantconnect.com/lean/) - Open-source algorithmic trading engine built for easy strategy research, backtesting and live trading.

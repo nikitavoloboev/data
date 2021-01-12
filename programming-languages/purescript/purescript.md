@@ -19,3 +19,4 @@
 - [Writing a Simple REST Web Service in PureScript (2017)](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
 - [List of Companies That Use Purescript](https://github.com/ajnsit/purescript-companies)
 - [Experiments with comonads for modelling React UIs](https://github.com/paf31/purescript-react-explore)
+- [Easy PureScript Nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix.

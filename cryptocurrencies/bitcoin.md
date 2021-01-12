@@ -93,3 +93,5 @@
 - [Bitcoin Disrupting Payment Clearing Houses w/ Jack Mallers (2021)](https://overcast.fm/+I6zHE4hug)
 - [Strike](https://beta.strike.me/) - Send money instantly, with no fees, anywhere in the world.
 - [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.
+- [Lightning Bitcoin Core](https://github.com/lbtcio/lbtc-core) - Fully decentralized Internet-of-value protocol for global payments.
+- [BRD](https://brd.com/) - Bitcoin wallet. ([Code](https://github.com/breadwallet/breadwallet-ios))

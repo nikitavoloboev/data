@@ -15,3 +15,4 @@
 - [Zero-config PWA for Vite](https://github.com/antfu/vite-plugin-pwa)
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web. ([Web](https://capacitorjs.com/))
 - [a2hs.js](https://github.com/koddr/a2hs.js) - Add progressive web application (PWA) to Home Screen on iOS.
+- [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)

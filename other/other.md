@@ -141,7 +141,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Eric Wastl - Advent of Code: Behind The Scenes (2019)](https://www.youtube.com/watch?v=gibVyxpi-qA)
 - [MapFilterFold](https://mapfilterfold.com/) - Meta book recommendations from Ask Hacker News threads.
 - [Within](https://gowithin.co/) - Leadership community for women in design.
-- [Invenia Labs](https://www.invenia.ca/labs/)
+- [Invenia Labs](https://www.invenia.ca/labs/) ([GitHub](https://github.com/invenia))
 - [WAPI Radio](https://wapi.fm/) - Ephemeral live radio station that will air for only 24 hours.
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification)
 - [gray-matter](https://github.com/jonschlinkert/gray-matter) - Parse front-matter from a string or file.

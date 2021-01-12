@@ -175,6 +175,9 @@
 - [SnoopCompile](https://github.com/timholy/SnoopCompile.jl) - Making packages work faster with more extensive precompilation.
 - [StaticCompiler](https://github.com/tshort/StaticCompiler.jl) - Compiles Julia code to a standalone library.
 - [Stipple](https://github.com/GenieFramework/Stipple.jl) - Reactive UI library for interactive data applications with pure Julia.
+- [PkgEval.jl](https://github.com/JuliaCI/PkgEval.jl) - Evaluate Julia packages.
+- [DataDeps](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+- [TreeView](https://github.com/JuliaTeX/TreeView.jl) - Draw Julia syntax trees as a graph.
 
 ## Links
 

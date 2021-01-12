@@ -32,3 +32,4 @@
 - [CDK API with GraphQL and Aurora Serverless PostgreSQL and Prisma](https://github.com/ryands17/graphql-api-cdk-serverless-postgres)
 - [prisma-schema-transformer](https://github.com/IBM/prisma-schema-transformer) - Prisma schema post-processor.
 - [Prisma fixtures CLI](https://github.com/getbigger-io/prisma-fixtures) - Prisma 2 Fixtures Management Tool.
+- [Prisma Studio](https://prisma.studio/) - IDE for your database.

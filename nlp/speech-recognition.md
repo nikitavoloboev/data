@@ -27,3 +27,4 @@
 - [Speaker Diarization](https://github.com/sehgal-simran/Spk-Dzn) - Process to answer the question of 'who spoke when?' in an audio file.
 - [SpeechRecognition](https://github.com/OAID/SpeechRecognition) - Local auto speech recognition project based on Kaldi and ALSA.
 - [Athena](https://github.com/athena-team/athena) - Open-source implementation of sequence-to-sequence based speech processing engine.
+- [PyTorch end-to-end speech recognition](https://github.com/1ytic/open_stt_e2e)

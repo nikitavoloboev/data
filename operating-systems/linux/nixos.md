@@ -110,3 +110,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Server-optimized NixOS](https://github.com/arianvp/server-optimised-nixos) - Distribution inspired by NixOS, ChromeOS, Container Optimised Linux and Container Linux. Opinionated, server-first distribution.
 - [HN: NixOS Linux (2021)](https://news.ycombinator.com/item?id=25718098)
 - [NixOps backend for Google Cloud](https://github.com/nix-community/nixops-gce) - Tool for deploying NixOS machines in a network or cloud.
+- [Nixus](https://github.com/Infinisil/nixus) - Experimental deployment tool for multiple NixOS systems.
+- [nixos.org website code](https://github.com/NixOS/nixos-homepage)

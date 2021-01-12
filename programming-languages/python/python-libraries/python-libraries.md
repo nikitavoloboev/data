@@ -73,6 +73,10 @@
 - [pyimgui](https://github.com/swistakm/pyimgui) - Cython-based Python bindings for dear imgui.
 - [wxPython Phoenix](https://github.com/wxWidgets/Phoenix) - Cross-Platform GUI Library.
 
+## Crypto
+
+- [fastecdsa](https://github.com/AntonKueltz/fastecdsa) - Python library for fast elliptic curve crypto.
+
 ## Test
 
 - [scripttest](https://github.com/pypa/scripttest) - Library to help you test your interactive command-line applications.

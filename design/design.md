@@ -156,3 +156,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [UI Flowchart Cards](https://flowcards.io/) - Construct web pages with ease, using UI Flow Cards ―for website builders, designers and developers. ([HN](https://news.ycombinator.com/item?id=25384582))
 - [Fantasy UIs](https://www.pushing-pixels.org/fui/)
 - [Pixel Art to CSS](https://www.pixelartcss.com/) - Pixel art animation and drawing web app powered by React. ([Code](https://github.com/jvalen/pixel-art-react))
+- [Land Your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job) - Guide for product designers, from portfolio to interview to job offer.

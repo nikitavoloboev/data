@@ -33,6 +33,7 @@
 - [color](https://github.com/fatih/color) - Color package for Go.
 - [zli](https://github.com/zgoat/zli) - Go library for writing CLI programs. It includes flag parsing, colour escape codes, and various helpful utility functions, and makes testing fairly easy.
 - [Gosh](https://github.com/vladimirvivien/gosh) - Pluggable framework for building command shell programs.
+- [cmder](https://github.com/hexops/cmder) - Lightweight Go pattern for writing CLIs with subcommands.
 
 ## Test
 
@@ -52,6 +53,7 @@
 - [goldie](https://github.com/sebdah/goldie) - Golden test utility for Go.
 - [gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
 - [autogold](https://github.com/hexops/autogold) - Automatically update your Go tests.
+- [Gomega](https://github.com/onsi/gomega) - Matcher/assertion library. It is best paired with the Ginkgo BDD test framework.
 
 ## Web
 
@@ -112,6 +114,7 @@
 - [Revel](https://github.com/revel/revel) - High productivity, full-stack web framework for the Go language.
 - [Live](https://github.com/jfyne/live) - net/http compatible Phoenix LiveView implementation in Go.
 - [http-cache](https://github.com/victorspringer/http-cache) - High performance Go HTTP middleware for server-side application layer caching, ideal for REST APIs.
+- [kcp-go](https://github.com/xtaci/kcp-go) - Production-Grade Reliable-UDP library for Go.
 
 ## GraphQL
 
@@ -205,6 +208,7 @@
 - [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs.
 - [go-eBPF](https://github.com/cilium/ebpf) - Pure Go library that provides utilities for loading, compiling, and debugging eBPF programs.
+- [zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific.
 
 ## Error
 
@@ -670,6 +674,10 @@
 - [Diff](https://github.com/r3labs/diff) - Library for diffing go structures.
 - [valast](https://github.com/hexops/valast) - Convert Go values to their AST.
 - [nanoQ](https://github.com/Aigent/nq) - High-performance brokerless Pub/Sub for streaming real-time data.
+- [prettyjson](https://github.com/hokaccha/go-prettyjson) - JSON pretty print for Go.
+- [regroup](https://github.com/oriser/regroup) - Simple library to match regex expression named groups into go struct using struct tags and automatic parsing.
+- [quacktors](https://github.com/Azer0s/quacktors) - Go framework that brings Erlang/Elixir style concurrency to Go.
+- [Smux](https://github.com/xtaci/smux) - Stream Multiplexing Library for go with least memory usage.
 
 ## Links
 

@@ -281,3 +281,4 @@
 - [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics (2020)](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 - [clepsydra](https://github.com/graydon/clepsydra) - Implementation of a core protocol for a minimalist distributed database.
 - [A shared database is still an anti-pattern, no matter what the justification (2013)](https://www.ben-morris.com/a-shared-database-is-still-an-anti-pattern-no-matter-what-the-justification/) ([Tweet](https://twitter.com/ColinLeMahieu/status/1344293170159505408))
+- [Your legacy database is outgrowing itself (2021)](https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/) ([HN](https://news.ycombinator.com/item?id=25730778))

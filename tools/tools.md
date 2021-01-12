@@ -143,7 +143,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Code to Image Monochromatic](https://code-to-image.now.sh/)
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
-- [Remove Image Background](https://www.remove.bg/)
+- [Remove Image Background](https://www.remove.bg/) ([Node API](https://github.com/EddyVerbruggen/remove.bg))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.

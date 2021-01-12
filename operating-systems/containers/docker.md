@@ -93,3 +93,4 @@
 - [Run More Stuff in Docker (2020)](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
 - [Docker Compose: a nice way to set up a dev environment (2021)](https://jvns.ca/blog/2021/01/04/docker-compose-is-nice/)
 - [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyzer for docker images.
+- [It’s time to switch to Docker BuildKit (2021)](https://pythonspeed.com/articles/docker-buildkit/) ([Lobsters](https://lobste.rs/s/zh18id/it_s_time_switch_docker_buildkit))

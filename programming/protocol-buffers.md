@@ -31,3 +31,4 @@
 - [NoProto](https://github.com/only-cliches/NoProto) - Performance of Protocol Buffers with flexibility of JSON.
 - [Don't Use Protobuf for Telemetry (2020)](https://richardstartin.github.io/posts/dont-use-protobuf-for-telemetry) ([HN](https://news.ycombinator.com/item?id=25582962))
 - [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protoc plugins for generating graphql schema and quickly create servers.
+- [Protocol Puffers](https://github.com/PragmaTwice/protopuf) - Little, highly templated, and protobuf-compatible serialization/deserialization library written in C++20.

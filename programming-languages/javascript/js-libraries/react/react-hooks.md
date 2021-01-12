@@ -81,6 +81,7 @@
 - [uhooks-nofx](https://github.com/WebReflection/uhooks-nofx) - Hooks without any side-effect, to provide the exact same uhooks API but doing pretty much nothing, except returning the right initial value for SSR components.
 - [useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
 - [React Cool Form](https://github.com/wellyshen/react-cool-form) - React hooks for forms state and validation, less code more performant.
+- [use-less](https://github.com/pveyes/use-less) - React hooks that help you do what you already did, with more indirection.
 
 ## Notes
 

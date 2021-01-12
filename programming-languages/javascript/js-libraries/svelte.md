@@ -72,3 +72,4 @@
 - [Prettier for Svelte 3 components](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
 - [esbuild-svelte](https://github.com/EMH333/esbuild-svelte) - Plugin to compile svelte components for bundling with esbuild.
 - [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)
+- [Svelte DND Action](https://github.com/isaacHagoel/svelte-dnd-action) - Action based drag and drop container for Svelte.

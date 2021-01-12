@@ -73,3 +73,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services.
 - [WhoTracks.me](https://whotracks.me/) - Bringing Transparency to Online Tracking. ([Code](https://github.com/ghostery/whotracks.me))
 - [What I Use Now Instead of Google (2021)](https://kiramclean.com/blog/what-i-use-now-instead-of-google/) ([HN](https://news.ycombinator.com/item?id=25654222))
+- [Ask HN: Is it technically possible to evade big-tech censorship? (2021)](https://news.ycombinator.com/item?id=25731697)

@@ -252,3 +252,4 @@
 - [libseccomp](https://github.com/seccomp/libseccomp) - C library that provides an easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
 - [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944) ([HN](https://news.ycombinator.com/item?id=25693618))
 - [Arch manual pages](https://man.archlinux.org/) ([Code](https://gitlab.archlinux.org/archlinux/archmanweb))
+- [XTerm: It's Better Than You Thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/) ([Lobsters](https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought)) ([HN](https://news.ycombinator.com/item?id=25732862))

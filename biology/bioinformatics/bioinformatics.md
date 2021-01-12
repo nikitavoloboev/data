@@ -89,3 +89,4 @@
 - [Bioregistry](https://github.com/cthoyt/bioregistry) - Integrative registry of biological databases, ontologies, and nomenclatures.
 - [Nature Biotechnology](https://www.nature.com/nbt/)
 - [PyMOL](https://pymol.org/) - Molecular visualization system. ([Code](https://github.com/schrodinger/pymol-open-source))
+- [Bioinformatics Chat](https://bioinformatics.chat/) - Podcast about computational biology, bioinformatics, and next generation sequencing.

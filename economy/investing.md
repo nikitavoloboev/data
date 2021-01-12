@@ -137,3 +137,4 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [streetmerchant](https://github.com/jef/streetmerchant) - World's easiest, most powerful stock checker. ([Docs](https://jef.codes/streetmerchant/))
 - [Investing in Public: Non-Obvious Lessons from 100 Angel Investments (2021)](https://sacerdoti.substack.com/p/investing-in-public-non-obvious-lessons)
 - [How to Get Started with Investing (2020)](https://www.youtube.com/watch?v=gFQNPmLKj1k)
+- [What Is a Gamma Squeeze in the Context of Stock Trading? (2020)](https://www.swfinstitute.org/news/83341/what-is-a-gamma-squeeze-in-the-context-of-stock-trading) ([HN](https://news.ycombinator.com/item?id=25736025))

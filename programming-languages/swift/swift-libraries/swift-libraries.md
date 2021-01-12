@@ -138,6 +138,8 @@
 - [OverlayContainer](https://github.com/applidium/OverlayContainer) - Non-intrusive iOS UI library to implement overlay based interfaces.
 - [NotificationToast](https://github.com/immortal79/NotificationToast) - View that tries to replicate iOS default toast message view.
 - [AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
+- [ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) - Better version of iOS 13 Context Menu.
+- [Katana](https://github.com/BendingSpoons/katana-swift) - Modern framework for creating iOS apps, inspired by Redux.
 
 ## macOS
 
@@ -152,6 +154,7 @@
 - [mac-open-with](https://github.com/karaggeorge/mac-open-with) - Open a file with an installed app on macOS.
 - [Uberabout](https://github.com/martinlexow/Uberabout) - Replaces the default “About” window in your macOS app with an aesthetically pleasing one.
 - [StackNavigationView](https://github.com/lbrndnr/StackNavigationView) - SwiftUI component for macOS that makes complex view hierarchies possible.
+- [LoginServiceKit](https://github.com/Clipy/LoginServiceKit) - Easy manage login items in macOS.
 
 ## Web
 
@@ -217,6 +220,7 @@
 - [SetNeedsDisplay](https://github.com/b3ll/SetNeedsDisplay) - Swift Property Wrapper to invalidate your view's layout or display based on property changes.
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown formatted text in SwiftUI.
 - [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - Efficient and customizable full screen calendar written in SwiftUI.
+- [BBSwiftUIKit](https://github.com/Silence-GitHub/BBSwiftUIKit) - SwiftUI library with powerful UIKit features.
 
 ## Test
 
@@ -549,6 +553,9 @@
 - [AudioKitUI](https://github.com/AudioKit/AudioKitUI) - User Interfaces for AudioKit.
 - [Continuations](https://github.com/bscothern/Continuations) - Simple library for efficient continuations including ones that are guaranteed to be executed.
 - [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) - Swift API for the Wasmer WebAssembly Runtime.
+- [Bluetooth](https://github.com/PureSwift/Bluetooth) - Pure Swift Bluetooth library.
+- [Delicious.swift](https://github.com/drkameleon/delicious) - Swift language extensions and Cocoa utilities for macOS/iOS.
+- [BBMetalImage](https://github.com/Silence-GitHub/BBMetalImage) - High performance Swift library for GPU-accelerated image/video processing based on Metal.
 
 ## Other (not lib)
 
@@ -566,3 +573,4 @@
 - [swift-docker](https://github.com/iainsmith/swift-docker) - Build & test your swift packages using docker - `swift docker test`.
 - [My experience replacing CocoaPods with SwiftPM (2020)](https://www.jessesquires.com/blog/2020/02/24/replacing-cocoapods-with-swiftpm/)
 - [Swift Package Collection Generator](https://github.com/apple/swift-package-collection-generator) - Collection of packages and tooling for generating and consuming package feeds.
+- [PureSwift packages](https://github.com/PureSwift)

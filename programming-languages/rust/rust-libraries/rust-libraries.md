@@ -136,6 +136,7 @@
 - [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - Cargo subcommand to build and test all feature flag combinations.
 - [Fuzzcheck](https://github.com/loiclec/fuzzcheck-rs) - Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions.
 - [k9](https://github.com/aaronabramov/k9) - Rust Testing Library.
+- [expect-test](https://github.com/rust-analyzer/expect-test) - Minimalistic snapshot testing for Rust.
 
 ## Error
 
@@ -629,6 +630,7 @@
 - [rpmalloc-rs](https://github.com/EmbarkStudios/rpmalloc-rs) - Cross-platform Rust global memory allocator using rpmalloc.
 - [shadow-rs](https://github.com/baoyachi/shadow-rs) - Build-time information stored in your binary.
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the Java Native Interface.
+- [Plotly](https://github.com/igiagkiozis/plotly) - Plotting library for Rust powered by Plotly.js
 
 ## Cargo Plugins
 

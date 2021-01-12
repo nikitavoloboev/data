@@ -57,3 +57,4 @@
 - [Binary Decision Diagrams](https://crypto.stanford.edu/pbc/notes/zdd/) ([HN](https://news.ycombinator.com/item?id=25342922))
 - [3 Steps to Designing Better Data Structures (2020)](https://mochromatic.com/3-steps-to-designing-better-data-structures-in-elixir/)
 - [Sparse Matrices (2019)](https://matteding.github.io/2019/04/25/sparse-matrices/) ([HN](https://news.ycombinator.com/item?id=25601288))
+- [Algorithms & Data Structures in C++](https://github.com/xtaci/algorithms)

@@ -184,3 +184,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Fun with IP address parsing (2020)](https://blog.dave.tf/post/ip-addr-parsing/) ([HN](https://news.ycombinator.com/item?id=25545967)) ([Lobsters](https://lobste.rs/s/fcgrjt/fun_with_ip_address_parsing))
 - [Syntropy Stack](https://www.syntropystack.com/) - The Future of Programmable Networking.
 - [The Atlas for the Aspiring Network Scientist (2021)](https://arxiv.org/abs/2101.00863) ([HN](https://news.ycombinator.com/item?id=25657191))
+- [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Ngrok alternatives and other ngrok-like tunneling software and services.

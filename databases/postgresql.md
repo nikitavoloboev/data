@@ -105,7 +105,7 @@
 - [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973) ([HN](https://news.ycombinator.com/item?id=23529954)) ([Notes](https://brandur.org/nanoglyphs/013-remote))
 - [The Postgres and Illustra Codelines](https://dl.acm.org/doi/pdf/10.1145/3226595.3226623)
 - [Don't Do This - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
-- [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads.
+- [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads. ([Web](https://www.citusdata.com/)) ([GitHub](https://github.com/citusdata))
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
 - [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL. ([Code](https://github.com/pgbouncer/pgbouncer))
@@ -193,3 +193,4 @@
 - [Apache AGE](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph database extension for PostgreSQL.
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
+- [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.

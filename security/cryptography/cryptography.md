@@ -102,3 +102,4 @@
 - [Cryptographic Wear-Out for Symmetric Encryption (2020)](https://soatok.blog/2020/12/24/cryptographic-wear-out-for-symmetric-encryption/) ([Lobsters](https://lobste.rs/s/2m20u4/cryptographic_wear_out_for_symmetric))
 - [A Decade of Lattice Cryptography (2016)](http://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
 - [Session Protocol: Technical implementation details (2020)](https://getsession.org/session-protocol-technical-information/) ([HN](https://news.ycombinator.com/item?id=25690036))
+- [Streaming Merkle Proofs in Binary Numeral Trees (2021)](https://eprint.iacr.org/2021/038)

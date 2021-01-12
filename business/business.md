@@ -53,3 +53,4 @@ Learning to build [startups](startups/startups.md).
 - [Complete List Of Unicorn Companies](https://www.cbinsights.com/research-unicorn-companies)
 - [Europe’s startup unicorns](https://sifted.eu/rankings/european-unicorn-startups) ([HN](https://news.ycombinator.com/item?id=25185528))
 - [Awesome Social Enterprise](https://github.com/RayBB/awesome-social-enterprise) - Resources to dive into the world of social enterprises.
+- [Largest tech companies by market cap](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/)

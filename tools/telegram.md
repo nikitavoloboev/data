@@ -32,6 +32,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [TgDev](https://tgdev.io/) - Telegram bots development.
 - [Funda new house alerts on Telegram](https://github.com/dstotijn/funda-alert)
 - [tghbot](https://github.com/tdakkota/tghbot) - Simple Github events notification bot written using gotd.
+- [Telegram Captcha Bot](https://github.com/mxssl/tg-captcha-bot) - Validates new users that enter supergroup. Validation works like a simple captcha. Bot written in Go.
 
 ## Links
 
@@ -68,3 +69,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Intergram](https://github.com/idoco/intergram) - Free live chat widget linked to your Telegram messenger. ([Web](https://www.intergram.xyz/))
 - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-the-most-backdoor-looking/) - Story of a bug that was discovered and fixed in Telegram’s self-rolled cryptographic protocol. ([Lobsters](https://lobste.rs/s/ypillu/most_backdoor_looking_bug_i_ve_ever_seen)) ([HN](https://news.ycombinator.com/item?id=25726068))
 - [Automated Symbolic Verification of Telegram's MTProto 2.0 (2020)](https://arxiv.org/abs/2012.03141) ([HN](https://news.ycombinator.com/item?id=25722076)) ([Code](https://github.com/miculan/telegram-mtproto2-verification))
+- [Why Isn’t Telegram End-to-End Encrypted by Default (2017)](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14) ([HN](https://news.ycombinator.com/item?id=25735792))

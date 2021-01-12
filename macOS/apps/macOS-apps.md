@@ -10,7 +10,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
 - [Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
-- [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall.
+- [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall. ([Web](https://objective-see.com/products/lulu.html)) ([HN](https://news.ycombinator.com/item?id=25743546))
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac.
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac.
 - [Sourceful](https://github.com/twostraws/Sourceful) - Native source editor for iOS and macOS.
@@ -121,3 +121,4 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [List of most "well-crafted" piece of macOS software you use? (2020)(https://twitter.com/craigmod/status/1268788533990289409)
 - [Awesome macOS Software](https://github.com/phmullins/awesome-macos)
 - [Distributing Mac apps outside the App Store, a quick start guide (2021)](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Premium software sorted by category.

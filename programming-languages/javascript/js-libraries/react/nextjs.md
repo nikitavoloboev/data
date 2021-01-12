@@ -49,6 +49,7 @@
 - [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in Netlify builds.
 - [next-boost](https://github.com/rjyo/next-boost) - Middleware which adds a disk cache layer to your SSR applications. Was built originally for Next.js SSR applications and can be used in any node.js http.Server based application.
 - [next-router-scroll](https://github.com/moxystudio/next-router-scroll) - Take control of when scroll is updated and restored in your Next.js projects.
+- [babel-plugin-superjson-next](https://github.com/blitz-js/babel-plugin-superjson-next) - Automatically transform your Next.js Pages to use SuperJSON.
 
 ## Notes
 

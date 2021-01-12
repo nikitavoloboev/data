@@ -29,7 +29,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 - [Prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum Serenity protocol.
-- [Compound](https://compound.finance/) - Open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.
+- [Compound Protocol](https://compound.finance/) - Ethereum smart contract for supplying or borrowing assets. ([Code](https://github.com/compound-finance/compound-protocol))
 - [SputnikVM](https://github.com/ETCDEVTeam/sputnikvm) - Pure Rust implementation of Ethereum Virtual Machine.
 - [Ethereum: The Money-Game Landscape (2020)](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 - [0x](https://0x.org/) - Open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain. ([Code](https://github.com/0xProject/0x-monorepo))

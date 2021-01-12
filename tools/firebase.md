@@ -20,3 +20,5 @@
 - [Firebase Summit 2020 videos](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlRjj-mSComCq3Vd4IJese1)
 - [Etebase](https://www.etebase.com/) - End-to-end encrypted backend. Think Firebase but encrypted in a way that only your users can access their data. ([GitHub](https://github.com/etesync)) ([HN](https://news.ycombinator.com/item?id=25059133))
 - [Firestorter](https://github.com/IjzerenHein/firestorter) - Use Google Firestore in React with zero effort, using MobX. ([Docs](https://ijzerenhein.github.io/firestorter/#/))
+- [fuego](https://github.com/sgarciac/fuego) - Command-line firestore client.
+- [Foundry](https://github.com/FoundryApp/foundry-cli) - Fastest way to build Firebase CloudFunctions.

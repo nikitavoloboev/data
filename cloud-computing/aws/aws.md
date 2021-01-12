@@ -129,9 +129,10 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Deployment Framework](https://github.com/awslabs/aws-deployment-framework) - Extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions within an AWS Organization.
 - [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [AWS CLI Cheat Sheet](https://github.com/eon01/AWS-CheatSheet)
-- [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency.
+- [Vantage](https://www.vantage.sh/) - Alternative AWS console, focused on user experience and cost transparency. ([HN](https://news.ycombinator.com/item?id=25750807))
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu) - AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 - [aws-nuke](https://github.com/rebuy-de/aws-nuke) - Remove all resources from an AWS account.
 - [superwerker](https://github.com/superwerker/superwerker) - Automates the setup of an AWS Cloud environment with prescriptive best practices.
 - [AWS as a Framework (2021)](https://medium.com/galvanize/aws-as-a-framework-9abd2b1f6dc1)
 - [Moto](https://github.com/spulec/moto) - Mock AWS Services.
+- [Amazon EC2 Metadata Mock](https://github.com/aws/namazon-ec2-metadata-mock) - Tool to simulate Amazon EC2 instance metadata.

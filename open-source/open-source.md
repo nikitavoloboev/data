@@ -151,3 +151,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [The aftermath of "No, 'Open Source' does not mean 'Includes Free Support'" (2020)](https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/) ([Lobsters](https://lobste.rs/s/nohfr6/aftermath_no_open_source_does_not_mean)) ([HN](https://news.ycombinator.com/item?id=25534492))
 - [General Guide For Exploring Large Open Source Codebases](https://pncnmnp.github.io/blogs/oss-guide.html)
 - [Open Source Challenges](https://github.com/bzg/opensource-challenges) - Resources to think about free software and open source current challenges.
+- [Monetizing Open-Source - How Tailwind CSS has grown into a $2m+ business (2021)](https://www.smalltechbusiness.com/monetizing-open-source-tailwind/)

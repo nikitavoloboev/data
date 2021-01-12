@@ -76,3 +76,4 @@
 - [G6](https://github.com/antvis/G6) - Graph Visualization Framework in TypeScript.
 - [Ask HN: What low-code “dashboarding“ SaaS would you recommend in 2021?](https://news.ycombinator.com/item?id=25579379)
 - [Datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data. ([Docs](https://datashader.org/))
+- [VisPy](https://github.com/vispy/vispy) - Interactive scientific visualization in Python. ([Web](http://vispy.org/))

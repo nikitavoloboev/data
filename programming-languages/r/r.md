@@ -44,3 +44,4 @@
 - [docopt](https://github.com/docopt/docopt.R) - Command-line interface description language for R. ([Web](http://docopt.org/))
 - [parameters](https://github.com/easystats/parameters) - Utilities for processing the parameters of various statistical models.
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R.
+- [recipes](https://github.com/tidymodels/recipes) - Preprocessing engine to generate design matrices.

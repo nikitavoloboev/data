@@ -101,3 +101,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [KeyCombiner](https://keycombiner.com/) - Organize, learn, and practice keyboard shortcuts.
 - [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) - Open-source RGB lighting control for keyboards, fans, etc. ([HN](https://news.ycombinator.com/item?id=25632847))
 - [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console).
+- [The Quietest Mechanical Keyboard (2021)](https://y.tsutsumi.io/quiet-keyboard/) ([Lobsters](https://lobste.rs/s/iwkhbr/quietest_mechanical_keyboard))

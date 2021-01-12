@@ -31,7 +31,7 @@
 - [Jon Gjengset YouTube channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ) - Does many awesome Rust streams.
 - [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
 - [Introducing Rust crash course (2018)](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
-- [Rust Language Cheat Sheet](https://cheats.rs/) ([HN](https://news.ycombinator.com/item?id=20611390))
+- [Rust Language Cheat Sheet](https://cheats.rs/) ([HN](https://news.ycombinator.com/item?id=20611390)) ([Code](https://github.com/ralfbiedert/cheats.rs/))
 - [Rerast](https://github.com/google/rerast) - Tool for transforming Rust code using rules.
 - [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime) - Makes it easy to run AWS Lambda Functions written in Rust.
 - [cargo-inspect](https://github.com/mre/cargo-inspect/) - What is Rust doing behind the scenes?
@@ -397,3 +397,4 @@
 - [Rust Prehistory Repo](https://github.com/graydon/rust-prehistory)
 - [Rust is now overall faster than C in benchmarks (2021)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html) ([HN](https://news.ycombinator.com/item?id=25623634))
 - [The Rust module system for Python users (2021)](https://blog.waleedkhan.name/rust-modules-for-python-users/)
+- [GCC Rust](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust. ([Web](https://rust-gcc.github.io/)) ([HN](https://news.ycombinator.com/item?id=25715431))

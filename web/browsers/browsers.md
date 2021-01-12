@@ -93,3 +93,4 @@
 - [SVG Screenshots](https://github.com/felixfbecker/svg-screenshots) - Browser extension to take scalable, semantic, accessible screenshots of websites in SVG format.
 - [uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results.
 - [TabFS](https://omar.website/tabfs/) - Mount your Browser Tabs as a Filesystem. ([HN](https://news.ycombinator.com/item?id=25600338)) ([Code](https://github.com/osnr/TabFS))
+- [browserless](https://github.com/microlinkhq/browserless) - Browser driver on top of puppeteer, ready for production scenarios. ([Docs](https://browserless.js.org/#/))

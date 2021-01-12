@@ -34,6 +34,8 @@
 - [Nebulex](https://github.com/cabol/nebulex) - In-Process and Distributed Cache Toolkit for Elixir.
 - [FunWithFlags](https://github.com/tompave/fun_with_flags) - Elixir feature flag library.
 - [Scientist](https://github.com/cwbriones/scientist) - Library for carefully refactoring critical paths in your elixir application.
+- [libgraph](https://github.com/bitwalker/libgraph) - Graph data structure library for Elixir projects.
+- [GenStage](https://github.com/elixir-lang/gen_stage) - Producer and consumer actors with back-pressure for Elixir.
 
 ## Links
 

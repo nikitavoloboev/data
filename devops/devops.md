@@ -54,3 +54,4 @@
 - [Bitnami](https://bitnami.com/) - Packaged Applications for Any Platform - Cloud, Container, Virtual Machine. ([GitHub](https://github.com/bitnami))
 - [Bitnami Library for Kubernetes](https://github.com/bitnami/charts)
 - [Kira](https://github.com/wemake-services/kira) - Project management framework with deep philosophy underneath.
+- [Site Reliability Engineer Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)

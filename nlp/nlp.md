@@ -218,7 +218,7 @@
 - [Ecco](https://github.com/jalammar/ecco) - Tools to visuals and explore NLP language models. ([Web](https://www.eccox.io/)) ([HN](https://news.ycombinator.com/item?id=25683808))
 - [Interfaces for Explaining Transformer Language Models (2020)](https://jalammar.github.io/explaining-transformers/)
 - [DALL·E: Creating Images from Text (2021)](https://openai.com/blog/dall-e/) ([HN](https://news.ycombinator.com/item?id=25649557)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/kr63ot/r_new_paper_from_openai_dalle_creating_images/))
-- [CLIP: Connecting Text and Images (2021)](https://openai.com/blog/clip/) ([HN](https://news.ycombinator.com/item?id=25649740))
+- [CLIP: Connecting Text and Images (2021)](https://openai.com/blog/clip/) ([HN](https://news.ycombinator.com/item?id=25649740)) ([Paper](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf)) ([Code](https://openai.com/blog/clip/))
 - [OpenNRE](https://github.com/thunlp/OpenNRE) - Open-Source Package for Neural Relation Extraction (NRE).
 - [Princeton NLP Group](https://princeton-nlp.github.io/) ([GitHub](https://github.com/princeton-nlp))
 - [Must-read papers on neural relation extraction (NRE)](https://github.com/thunlp/NREPapers)
@@ -229,3 +229,4 @@
 - [SLING - A natural language frame semantics parser](https://github.com/ringgaard/sling) - Built to learn to read and understand Wikipedia articles in many languages for the purpose of knowledge base completion.
 - [Awesome Neural Adaptation in NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP)
 - [Natural language generation: The commercial state of the art in 2020](https://www.cambridge.org/core/journals/natural-language-engineering/article/natural-language-generation-the-commercial-state-of-the-art-in-2020/BA2417D73AF29F8073FF5B611CDEB97F) ([HN](https://news.ycombinator.com/item?id=25711669))
+- [Non-Autoregressive Generation Progress](https://github.com/kahne/NonAutoregGenProgress)

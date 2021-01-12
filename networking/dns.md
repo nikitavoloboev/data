@@ -69,3 +69,4 @@
 - [Update your DNS records when abandoning servers (2021)](https://news.ycombinator.com/item?id=25621519)
 - [nonymous + bore(1): DNS toys for Rust (2021)](https://www.azabani.com/2021/01/03/nonymous-bore.html)
 - [DNS Key Value Storage](https://dnskv.com/) ([HN](https://news.ycombinator.com/item?id=25620411))
+- [DNS-LG](http://www.dns-lg.com/) - REST API allowing to perform DNS queries over HTTP from multiple locations worldwide. ([CLI](https://github.com/mxssl/dns))

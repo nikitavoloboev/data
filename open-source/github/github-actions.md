@@ -80,6 +80,8 @@
 - [Delete older releases](https://github.com/dev-drprasad/delete-older-releases) - Github Action to delete older releases.
 - [Dynamic Badges Action](https://github.com/Schneegans/dynamic-badges-action) - Allows you to create badges for your readme.md with shields.io which may change with every commit.
 - [Upload files to a GitHub release](https://github.com/svenstaro/upload-release-action)
+- [Playwright GitHub Action](https://github.com/microsoft/playwright-github-action) - Set up GitHub Actions to run cross-browser tests on Chromium, WebKit and Firefox with Playwright.
+- [setup-graalvm](https://github.com/DeLaGuardo/setup-graalvm) - Sets up GraalVM environment for using in GitHub Actions.
 
 ## Go
 
