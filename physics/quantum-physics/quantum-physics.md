@@ -37,3 +37,5 @@
 - [A Stochastic Derivation of Classical and Quantum Mechanics (2020)](https://arxiv.org/abs/2011.09181)
 - [Quantum nanodiamonds may help detect disease earlier (2020)](https://phys.org/news/2020-11-quantum-nanodiamonds-disease-earlier.html) ([HN](https://news.ycombinator.com/item?id=25216529))
 - [How do we know there is any distinction between particles and waves? (2020)](https://www.reddit.com/r/quantum/comments/kmwjid/how_do_we_know_there_is_any_distinction_between/)
+- [Is the Schrödinger Equation True? (2021)](https://www.scientificamerican.com/article/is-the-schroedinger-equation-true/) ([HN](https://news.ycombinator.com/item?id=25695384))
+- [Basics of Quantum Mechanics Summarized](https://news.ycombinator.com/item?id=25742619)

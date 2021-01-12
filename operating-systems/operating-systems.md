@@ -60,7 +60,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [KnightOS](https://github.com/KnightOS/KnightOS) - Third-party operating system for TI calculators.
 - [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - Teaching operating system written in Rust. ([Web](https://rwth-os.github.io/eduOS-rs/))
 - [Stupid Operating System](https://github.com/sos-os/kernel) - Simple, tiny toy OS implemented in Rust.
-- [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler.
+- [Theseus OS](https://github.com/theseus-os/Theseus) - New OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to shift OS responsibilities like resource management into the compiler. ([HN](https://news.ycombinator.com/item?id=25741729))
 - [TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. ([Web](https://templeos.org/)) ([TempleOS on real hardware](https://www.youtube.com/watch?v=ygZNVbBcJ4I))
 - [CactusOS](https://github.com/Remco123/CactusOS) - Simple operating system that is aimed to not be anything like linux.
 - [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - New generation, scalable, optimized, secure RTOS for multiple hardware architectures. ([Docs](https://docs.zephyrproject.org/latest/))
