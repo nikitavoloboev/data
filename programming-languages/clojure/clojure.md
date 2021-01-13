@@ -107,3 +107,4 @@
 - [The Clojure Style Guide](https://guide.clojure.style/) ([Code](https://github.com/bbatsov/clojure-style-guide))
 - [Rich Already Answered That](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f) - List of commonly asked questions, design decisions, reasons why Clojure is the way it is as they were answered directly by Rich.
 - [Clojure: Dark Cider (2020)](https://www.youtube.com/watch?v=IvTDzKVL58Y)
+- [Setup tests with Cider & deps.edn in 5 steps (2021)](https://thomas-sojka.tech/setup-tests-with-cider-and-depsedn-in-5-steps.html)

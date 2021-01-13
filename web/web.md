@@ -218,3 +218,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [MinWiz](https://github.com/zeplia/minwiz) - Minimal starter kit for under 2 KB sites. ([Web](https://minwiz.com/))
 - [How URLs work?](https://howurls.work/) - Learn how URLs work by visually inspecting their structure. ([Code](https://github.com/Redd-Developer/howurls.work))
 - [Herodotus](https://github.com/alaskanpuffin/herodotus-core) - Content Archival Software.
+- [W3C Immersive Web Working Group](https://www.w3.org/immersive-web/) - Help bring high-performance Virtual Reality (VR) and Augmented Reality (AR) to the open Web.
+- [Web Dev Without Tools (2021)](https://danthedev.com/web-dev-without-tools/)

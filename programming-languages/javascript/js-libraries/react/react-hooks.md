@@ -82,6 +82,7 @@
 - [useFilePicker](https://github.com/Jaaneek/useFilePicker) - Simple react hook to open browser file selector.
 - [React Cool Form](https://github.com/wellyshen/react-cool-form) - React hooks for forms state and validation, less code more performant.
 - [use-less](https://github.com/pveyes/use-less) - React hooks that help you do what you already did, with more indirection.
+- [Hookstate](https://github.com/avkonst/hookstate) - Simple but very powerful and incredibly fast state management for React that is based on hooks. ([Web](https://hookstate.js.org/))
 
 ## Notes
 

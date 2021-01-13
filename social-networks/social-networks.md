@@ -64,6 +64,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How TikTok's design makes the algorithm work (2020)](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm) ([HN](https://news.ycombinator.com/item?id=24550113))
 - [Is this real life? (2020)](https://julian.digital/2020/09/25/is-this-real-life/)
 - [Social Cooling](https://www.socialcooling.com/) - Big Data's unintended side effect. ([HN](https://news.ycombinator.com/item?id=24627363))
+- [What Is Social Cooling? (2017)](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/) ([HN](https://news.ycombinator.com/item?id=25746131))
 - [Gurlic](https://gurlic.com/) - Free and Open Communities. ([HN](https://news.ycombinator.com/item?id=24680418)) ([Web tech used](https://news.ycombinator.com/item?id=25288755))
 - [Twt](https://jointwt.org/) - New way to social media.
 - [Going Viral as a Woman in Tech (2020)](https://www.emilykager.com/writing/2020/10/08/virality.html) ([HN](https://news.ycombinator.com/item?id=24743439))
@@ -84,3 +85,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Ask HN: What are decentralized Twitter alternatives? (2021)](https://news.ycombinator.com/item?id=25695682)
 - [Ask HN: Who is working on fully decentralized social networking? (2021)](https://news.ycombinator.com/item?id=25730485)
 - [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/) ([HN](https://news.ycombinator.com/item?id=25731419))
+- [Myrme](https://getmyrme.com/) - Prosocial network. ([Article](https://www.spakhm.com/p/a-prosocial-social-network))

@@ -2,7 +2,7 @@
 
 I think [Nano](https://nano.org) is the future of money if compared to any other coin based off its features. Whilst [Ethereum](../databases/blockchain/ethereum.md)/[Tezos](../databases/blockchain/tezos.md) are great for building out more complex decentralized apps.
 
-It's a matter of time that Bitcoin with its horrible PoW consensus that wastes electricity and its slow & expensive transactions will no longer be used (even as a store of value).
+It's a matter of time that Bitcoin with its horrible PoW consensus that [wastes electricity](https://www.youtube.com/watch?v=f0HC1Udk6-E) and its slow & expensive transactions will no longer be used (even as a store of value).
 
 ## Interesting
 

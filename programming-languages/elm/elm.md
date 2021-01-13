@@ -49,3 +49,5 @@
 - [Finish with Elm Book, where too now? (2020)](https://discourse.elm-lang.org/t/finish-with-elm-book-where-too-now/6540)
 - [Can Elm compiler skip virtual DOM?](https://discourse.elm-lang.org/t/can-the-compiler-skip-virtual-dom/6300/)
 - [Combinators - Inverting Top-Down Transforms (2020)](https://functional.christmas/2020/10)
+- [elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
+- [Test-only values (2020)](https://jfmengels.net/test-only-values/)

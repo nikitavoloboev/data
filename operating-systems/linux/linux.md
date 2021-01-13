@@ -18,6 +18,7 @@
 - [Manjaro](https://manjaro.org/)
 - [Gentoo](https://www.gentoo.org/) - Highly flexible, source-based Linux distribution. ([Gentoo Packages](https://github.com/gentoo/gentoo))
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+- [Glacies](https://eltan.in.net/blog/2021/01/13/0/) - Linux distribution using Eltanin userspace.
 
 ## WM
 
@@ -253,3 +254,4 @@
 - [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944) ([HN](https://news.ycombinator.com/item?id=25693618))
 - [Arch manual pages](https://man.archlinux.org/) ([Code](https://gitlab.archlinux.org/archlinux/archmanweb))
 - [XTerm: It's Better Than You Thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/) ([Lobsters](https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought)) ([HN](https://news.ycombinator.com/item?id=25732862))
+- [Linux kernel modules in safe Rust](https://github.com/fishinabarrel/linux-kernel-module-rust)

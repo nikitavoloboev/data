@@ -23,7 +23,7 @@
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [Code](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System. ([HN](https://news.ycombinator.com/item?id=24531085)) ([Playing With DuckDB](https://www.turtle-techies.com/playing-with-duck-db/)) ([5 minute intro](https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/))
-- [sled](https://github.com/spacejam/sled) - Modern embedded database.
+- [sled](https://github.com/spacejam/sled) - Modern embedded database. ([sledtool - CLI tool to work with Sled key-value databases](https://github.com/vi/sledtool))
 - [Genji](https://github.com/genjidb/genji) - Document-oriented, embedded SQL database, works with Bolt, Badger and memory. ([Web](https://genji.dev/))
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [Pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go. ([Intro article](https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/)) ([HN](https://news.ycombinator.com/item?id=24484320)) ([Pebble vs RocksDB: Implementation Differences](https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md))
@@ -282,3 +282,4 @@
 - [clepsydra](https://github.com/graydon/clepsydra) - Implementation of a core protocol for a minimalist distributed database.
 - [A shared database is still an anti-pattern, no matter what the justification (2013)](https://www.ben-morris.com/a-shared-database-is-still-an-anti-pattern-no-matter-what-the-justification/) ([Tweet](https://twitter.com/ColinLeMahieu/status/1344293170159505408))
 - [Your legacy database is outgrowing itself (2021)](https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/) ([HN](https://news.ycombinator.com/item?id=25730778))
+- [An unlikely database migration (2021)](https://tailscale.com/blog/an-unlikely-database-migration/) ([HN](https://news.ycombinator.com/item?id=25767128))

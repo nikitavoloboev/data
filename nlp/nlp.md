@@ -230,3 +230,4 @@
 - [Awesome Neural Adaptation in NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP)
 - [Natural language generation: The commercial state of the art in 2020](https://www.cambridge.org/core/journals/natural-language-engineering/article/natural-language-generation-the-commercial-state-of-the-art-in-2020/BA2417D73AF29F8073FF5B611CDEB97F) ([HN](https://news.ycombinator.com/item?id=25711669))
 - [Non-Autoregressive Generation Progress](https://github.com/kahne/NonAutoregGenProgress)
+- [Trankit: A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing](https://github.com/nlp-uoregon/trankit)

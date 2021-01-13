@@ -14,3 +14,4 @@
 - [Competitive Ethics (2020)](https://milan.cvitkovic.net/writing/ethics/)
 - [Ethical Design Guide](https://ethicaldesign.guide/)
 - [Moral Competence (2021)](https://evanjconrad.com/posts/moral-competence) ([HN](https://news.ycombinator.com/item?id=25648186))
+- [Toward ethical, transparent and fair AI/ML](https://github.com/rockita/criticalML) - Critical reading list for engineers, designers, and policy makers.

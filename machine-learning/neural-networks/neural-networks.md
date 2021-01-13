@@ -192,3 +192,4 @@
 - [Understanding the Difficulty of Training Transformers (2020)](https://arxiv.org/abs/2004.08249) ([Code](https://github.com/LiyuanLucasLiu/Transformer-Clinic))
 - [Awesome Implicit Neural Models](https://github.com/massastrello/awesome-implicit-neural-models)
 - [Edit-distance as objective function papers](https://github.com/1ytic/edit-distance-papers) - Curated list of papers dedicated to edit-distance as objective function.
+- [SuPar](https://github.com/yzhangcs/parser) - Collection of state-of-the-art models for Dependency Parsing, Constituency Parsing and Semantic Dependency Parsing.

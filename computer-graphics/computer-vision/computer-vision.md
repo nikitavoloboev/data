@@ -204,3 +204,4 @@
 - [X-Temporal](https://github.com/Sense-X/X-Temporal) - Easily implement SOTA video understanding methods with PyTorch on multiple machines and GPUs.
 - [NanoDet](https://github.com/RangiLyu/nanodet) - Super fast and lightweight anchor-free object detection model. Real-time on mobile devices.
 - [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models)
+- [Awesome Vision and Language](https://github.com/sangminwoo/awesome-vision-and-language) - Curated list of awesome vision and language resources.

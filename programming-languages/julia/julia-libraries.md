@@ -53,6 +53,7 @@
 - [RecursiveFactorization](https://github.com/YingboMa/RecursiveFactorization.jl) - Package that collects various recursive matrix factorization algorithms.
 - [Nemo](https://github.com/Nemocas/Nemo.jl) - Computer algebra package for the Julia programming language. It aims to cover commutative algebra, number theory and group theory.
 - [AbstractAlgebra](https://github.com/Nemocas/AbstractAlgebra.jl) - Pure Julia package for computational abstract algebra.
+- [Hecke](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory.
 
 ## NLP
 
@@ -63,6 +64,7 @@
 - [GeneticVariation](https://github.com/BioJulia/GeneticVariation.jl) - Data structures and algorithms for working with genetic variation.
 - [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - Julia package to read, write and manipulate macromolecular structures (particularly proteins).
 - [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - Graph-based molecule modeling toolkit for cheminformatics.
+- [FASTX](https://github.com/BioJulia/FASTX.jl) - Parse and process FASTA and FASTQ formatted files of biological sequences.
 
 ## Computer Vision
 
@@ -186,3 +188,4 @@
 - [Some State of the Art Packages in Julia v1.0 (2018)](http://www.stochasticlifestyle.com/some-state-of-the-art-packages-in-julia-v1-0/)
 - [PackagePage.jl](https://github.com/tlienart/PackagePage.jl) - Create a webpage for your package in minutes.
 - [JuliaReach](https://juliareach.github.io/JuliaReach-website/) - Toolbox for set-based reachability analysis and safety verification of dynamical systems. ([GitHub](https://github.com/JuliaReach))
+- [JuliaGraphs](https://juliagraphs.org/) - Graph packages for the Julia language. ([GitHub](https://github.com/JuliaGraphs))

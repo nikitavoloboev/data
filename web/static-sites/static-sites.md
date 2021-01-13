@@ -45,6 +45,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Ness](https://github.com/nessjs/ness) - No-effort static sites deployed to your AWS account.
 - [Pagic](https://github.com/xcatliu/pagic) - Static site generator powered by Deno + React.
 - [Toto](https://github.com/metasoarous/toto) - Static site generation in Clojure (with live code reloading!).
+- [Slick](https://github.com/ChrisPenner/Slick) - Static site generator built on Shake configured in Haskell.
 
 ## Notes
 

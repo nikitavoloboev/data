@@ -104,3 +104,5 @@
 - [MMClassification](https://github.com/open-mmlab/mmclassification) - Open source image classification toolbox based on PyTorch.
 - [Nimble](https://github.com/snuspl/nimble) - Lightweight and Parallel GPU Task Scheduling for Deep Learning.
 - [Dannjs](https://github.com/matiasvlevi/Dann) - Neural Network library for JavaScript. ([Web](https://dannjs.org/))
+- [Shapley](https://github.com/benedekrozemberczki/shapley) - Python library for evaluating binary classifiers in a machine learning ensemble.
+- [Orion](https://github.com/signals-dev/Orion) - Machine learning library built for unsupervised time series anomaly detection.

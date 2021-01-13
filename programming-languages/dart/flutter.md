@@ -33,3 +33,4 @@
 - [Riverpod](https://github.com/rrousselGit/river_pod) - Simple way to access state while robust and testable. ([Web](https://riverpod.dev/))
 - [Flutter Starter](https://github.com/GeekyAnts/flutter-starter) - Flutter starter-kit for production-level apps. ([Docs](https://flutter-starter.github.io/docs/getting-started.html))
 - [Flutterust](https://github.com/shekohex/flutterust) - Using Rust libs from Flutter.
+- [Hydro-SDK](https://github.com/hydro-sdk/hydro-sdk) - Author native Flutter experiences in Typescript and deliver updates directly to users over the air and out of band.

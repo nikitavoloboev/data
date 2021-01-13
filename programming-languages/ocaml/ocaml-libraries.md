@@ -20,6 +20,10 @@
 
 - [zeta](https://github.com/liaopeiyuan/zeta) - Functional neural networks in ocaml. ([HN](https://news.ycombinator.com/item?id=22020287))
 
+## DB
+
+- [PostgreSQL-OCaml](https://github.com/mmottl/postgresql-ocaml) - PostgreSQL Bindings for OCaml.
+
 ## Bindings
 
 - [Python 3.5+ bindings for OCaml](https://github.com/zshipko/ocaml-py)

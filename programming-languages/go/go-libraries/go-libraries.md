@@ -679,6 +679,10 @@
 - [quacktors](https://github.com/Azer0s/quacktors) - Go framework that brings Erlang/Elixir style concurrency to Go.
 - [Smux](https://github.com/xtaci/smux) - Stream Multiplexing Library for go with least memory usage.
 - [Fuzzy Search](https://github.com/lithammer/fuzzysearch) - Tiny and fast fuzzy search in Go.
+- [msgp](https://github.com/tinylib/msgp) - Go code generator for MessagePack.
+- [SipHash](https://github.com/dchest/siphash) - Go implementation of SipHash-2-4, a fast short-input PRF.
+- [Gobls](https://github.com/karrick/gobls) - Buffered line scanner for Go.
+- [goswarm](https://github.com/karrick/goswarm) - Go Stale While Asynchronously Revalidate Memoization.
 
 ## Links
 

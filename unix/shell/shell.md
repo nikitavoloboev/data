@@ -106,3 +106,4 @@ All active variables can be seen by running `env`.
 - [Unix shell pipelines have two usage patterns (2021)](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellPipesTwoUsages) ([Lobsters](https://lobste.rs/s/sfovod/unix_shell_pipelines_have_two_usage))
 - [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off.
 - [sh](https://github.com/mvdan/sh) - Shell parser, formatter, and interpreter with bash support; includes shfmt.
+- [Compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.

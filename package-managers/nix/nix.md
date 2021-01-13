@@ -92,6 +92,7 @@
 - [Built with Nix](https://builtwithnix.org/) - Build software only once. ([Code](https://github.com/nix-community/builtwithnix.org))
 - [How I Start: Nix (2020)](https://christine.website/blog/how-i-start-nix-2020-03-08) ([Lobsters](https://lobste.rs/s/lktf6u/how_i_start_nix))
 - [rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix.
+- [Language server for Nix language](https://github.com/ebkalderon/nix-language-server)
 - [Eelco Dolstra's talks/papers](https://edolstra.github.io/) ([Code](https://github.com/edolstra/edolstra.github.io))
 - [Nix Haskell Monorepo Tutorial](https://github.com/fghibellini/nix-haskell-monorepo)
 - [The journey of packaging a .NET app on Nix (2020)](https://sgt.hootr.club/molten-matter/dotnet-on-nix/)
@@ -156,3 +157,4 @@
 - [Trustix: Distributed trust and reproducibility tracking for binary caches (2020)](https://www.tweag.io/blog/2020-12-16-trustix-announcement/) ([Code](https://github.com/tweag/trustix))
 - [Building with Nix Flakes for, eh .. reasons (2021)](https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/)
 - [What is the right approach to handling binary, non-executable data dependencies of packages? (2021)](https://www.reddit.com/r/NixOS/comments/kqe57g/what_is_the_right_approach_to_handling_binary/)
+- [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/) ([Code](https://github.com/scrive/nix-workshop))

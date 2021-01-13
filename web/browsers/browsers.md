@@ -94,3 +94,5 @@
 - [uBlacklist](https://github.com/iorate/uBlacklist) - Blocks specific sites from appearing in Google search results.
 - [TabFS](https://omar.website/tabfs/) - Mount your Browser Tabs as a Filesystem. ([HN](https://news.ycombinator.com/item?id=25600338)) ([Code](https://github.com/osnr/TabFS))
 - [browserless](https://github.com/microlinkhq/browserless) - Browser driver on top of puppeteer, ready for production scenarios. ([Docs](https://browserless.js.org/#/))
+- [Let's build a browser engine (2014)](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- [Robinson](https://github.com/mbrubeck/robinson) - Toy web rendering engine written in Rust.

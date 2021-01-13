@@ -2,7 +2,7 @@
 
 There is a lot happening in the world every single minute. It's hard to not feel like you are constantly _missing out_ on things.
 
-The truth is that it's a battle you can't win, you have limited time and your ability to focus the time on things that truly matter to you. [Mindfulness](../mindfulness/mindfulness.md) is what helps me keep my focus.
+The truth is that it's a battle you can't win as your time is limited. Thus you should focus on things that truly matter to you. [Mindfulness](../mindfulness/mindfulness.md) is what helps me keep my focus.
 
 Here are things I do/use to keep my self up to date on things I care about efficiently.
 

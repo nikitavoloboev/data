@@ -281,3 +281,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [AppTalk](https://app-talk.com/) - User contributable directory of iOS apps with x-callback-urls. ([Code](https://github.com/pietropizzi/app-talk))
 - [Building UI without AutoLayout (2020)](https://whackylabs.com/objc/ui/2020/09/15/simple-manual-layout/)
 - [How to make Auto Layout more convenient in iOS (2021)](https://onmyway133.com/blog/how-to-make-auto-layout-more-convenient-in-ios/)
+- [Detox Instruments](https://github.com/wix/DetoxInstruments) - Performance–analysis and testing framework, designed to help developers profile their mobile apps in order to better understand and optimize their app's behavior and performance.

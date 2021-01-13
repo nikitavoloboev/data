@@ -152,3 +152,4 @@
 - [Deep Reinforcement Learning Hands-On (2020)](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on-second-edition/9781838826994) ([Code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On))
 - [ReBeL](https://github.com/facebookresearch/rebel) - Algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.
 - [NEAT Gym](https://github.com/simondlevy/neat-gym) - Learn OpenAI Gym environments using NEAT.
+- [RLStructures](https://github.com/facebookresearch/rlstructures) - Library to facilitate the implementation of new reinforcement learning algorithms.

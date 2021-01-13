@@ -72,3 +72,4 @@
 - [Cross-Branch Testing (2020)](https://buttondown.email/hillelwayne/archive/cross-branch-testing/) ([Lobsters](https://lobste.rs/s/jd2giu/cross_branch_testing))
 - [Load testing is hard, and the tools are not great. But why? (2021)](https://ntietz.com/tech-blog/load-testing-is-hard-but-why/) ([HN](https://news.ycombinator.com/item?id=25641234))
 - [Ask HN: How should I test all potential combinations of user actions? (2021)](https://news.ycombinator.com/item?id=25647143)
+- [Teaching and Assessing Property-Based Testing (2021)](https://blog.brownplt.org/2021/01/10/property-based-testing.html)

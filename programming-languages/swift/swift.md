@@ -180,3 +180,4 @@
 - [200 weeks of Swift (2020)](https://www.swiftbysundell.com/articles/200-weeks-of-swift/)
 - [Framework Inspector](https://github.com/carson-katri/FrameworkInspector) - View the internals of Swift frameworks.
 - [Swift Stress Tester](https://github.com/apple/swift-stress-tester) - Stress testing utilities for Swift's tooling.
+- [Swift Concurrency Example](https://github.com/MaxDesiatov/SwiftConcurrencyExample) - SwiftPM CLI package experimenting with Swift async/await and structured concurrency.

@@ -209,3 +209,4 @@
 - [RepoKitteh](https://www.repokitteh.io/) - Easily write and deploy functions to automate your workflow.
 - [cdkactions](https://github.com/ArmaanT/cdkactions) - CDK for GitHub Actions.
 - [Terraform module for scalable self hosted GitHub action runners](https://github.com/philips-labs/terraform-aws-github-runner)
+- [Go crazy with GitHub Actions (2021)](https://sanderknape.com/2021/01/go-crazy-github-actions/)

@@ -306,3 +306,4 @@
 - [kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kuberntes yaml and json output to make it readable.
 - [Writing a Kubernetes CRD Controller in Rust (2019)](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html) ([HN](https://news.ycombinator.com/item?id=25704250))
 - [Lifting Developers’ Productivity with BuildKit CLI for kubectl (2021)](https://container-registry.com/posts/productivity-lift-buildkit-cli-for-kubectl/)
+- [ekz](https://github.com/chanwit/ekz) - EKS-D Kubernetes distribution for desktop.

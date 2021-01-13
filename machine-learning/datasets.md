@@ -58,6 +58,7 @@
 - [Traditional Chinese Landscape Painting Dataset](https://github.com/alicex2020/Chinese-Landscape-Painting-Dataset)
 - [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 - [Wikimedia Downloads](https://dumps.wikimedia.org/) - Download all of Wikipedia free.
+- [Wikipedia: Database download](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
 - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/) ([Reddit](https://www.reddit.com/r/gwern/comments/k9iqd3/how_to_shuffle_a_big_dataset/))
 - [ESC-50: Dataset for Environmental Sound Classification](https://github.com/karolpiczak/ESC-50)
 - [Booking.com WSDM challenge](https://www.bookingchallenge.com/) - Training dataset consists of over a million of anonymized hotel reservations, based on real data.
@@ -67,3 +68,4 @@
 - [doccano](https://github.com/doccano/doccano) - Open source text annotation tool for machine learning practitioner. ([Web](https://doccano.herokuapp.com/))
 - [Weather and Climate Datasets for AI Research](http://mldata.pangeo.io/) ([Code](https://github.com/pangeo-data/mldata))
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
+- [Total Text Dataset](https://github.com/cs-chan/Total-Text-Dataset) - Consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.

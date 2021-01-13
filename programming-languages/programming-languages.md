@@ -113,7 +113,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Kicking Off the Repl.it Programming Language Jam (2020)](https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105) ([HN](https://news.ycombinator.com/item?id=24113863))
 - [Structure and Interpretation of Computer Programs with Hal Abelson (2019)](https://overcast.fm/+LfVPfUqoc)
 - [Collection of papers on modules](https://github.com/ak3n/modules-papers)
-- [Analysis Tools](https://analysis-tools.dev/) - Most Popular Analysis Tools by Programming Language.
+- [Analysis Tools](https://analysis-tools.dev/) - Most Popular Analysis Tools by Programming Language. ([Code](https://github.com/analysis-tools-dev/dynamic-analysis))
 - [What's the Deal with Message Passing, Anyway (2020)](https://buttondown.email/hillelwayne/archive/whats-the-deal-with-message-passing-anyway/) ([Lobsters](https://lobste.rs/s/k0lx87/what_s_deal_with_message_passing_anyway))
 - [Things that are not strings (2020)](https://frantic.im/no-strings) ([Lobsters](https://lobste.rs/s/wjpj6n/things_are_not_strings))
 - [ICFP 2020](https://www.youtube.com/playlist?list=PLyrlk8Xaylp4fOgwO5RUTrpgSA_HRjDMW)

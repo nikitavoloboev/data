@@ -79,7 +79,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo) - Curated list of awesome Monorepo tools, software and architectures.
 - [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
 - [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
-- [GitUp](https://gitup.co/) - Git client with nice interface.
+- [GitUp](https://gitup.co/) - Git client with nice interface. ([Code](https://github.com/git-up/GitUp))
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) ([HN](https://news.ycombinator.com/item?id=21755090))
 - [Stacked Diffs Versus Pull Requests (2018)](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
 - [Barebones git (2019)](https://artemix.org/blog/barebones-git.html) ([Lobsters](https://lobste.rs/s/7khgtp/barebones_git))
@@ -214,3 +214,5 @@ I love Git and version control. And I use version control over any project I do.
 - [GitRows](https://github.com/gitrows/gitrows) - Makes it easy to use and store data in GitHub and GitLab repos. ([Web](https://gitrows.com/))
 - [How to keep your Git history clean with interactive rebase (2020)](https://about.gitlab.com/blog/2020/11/23/keep-git-history-clean-with-interactive-rebase/) ([Lobsters](https://lobste.rs/s/wp4ctv/how_keep_your_git_history_clean_with))
 - [git-annex](https://git-annex.branchable.com/) - Allows managing files with git, without checking the file contents into git. ([Code](https://github.com/peti/git-annex))
+- [gittup](http://gittup.org/gittup/) - Entire(-ish) linux distribution in git.
+- [Git Extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.

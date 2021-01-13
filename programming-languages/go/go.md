@@ -412,4 +412,5 @@ Go promotes composition over inheritance.
 - [holmes](https://github.com/mosn/holmes) - Self-aware Go profile dumper.
 - [Go Repository Template](https://github.com/golang-templates/seed) - GitHub repository template for Go. It has been created for ease-of-use.
 - [GopherCon Europe 2020](https://gophercon.berlin/)
-- [A Proposal for Adding Generics to Go (2021)](https://blog.golang.org/generics-proposal) ([HN](https://news.ycombinator.com/item?id=25750582))
+- [A Proposal for Adding Generics to Go (2021)](https://blog.golang.org/generics-proposal) ([HN](https://news.ycombinator.com/item?id=25750582)) ([Reddit](https://www.reddit.com/r/golang/comments/kvwub9/go_generics_proposal/))
+- [Gomod2nix](https://github.com/tweag/gomod2nix) - Convert applications using Go modules -> Nix.

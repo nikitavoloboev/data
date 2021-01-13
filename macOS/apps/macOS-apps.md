@@ -2,7 +2,7 @@
 
 I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac-os) together with why and how I use them.
 
-And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full list of the apps I have inside my `/Applications` folder.
+And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) is a full list of the apps I have inside my `/Applications` folder.
 
 ## Nice OSS macOS Swift/ObjC apps
 
@@ -80,6 +80,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
 - [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me) - macOS system analyzer and cleaner.
 - [ImageOptim](https://imageoptim.com/mac) - GUI image optimizer for Mac. ([Code](https://github.com/ImageOptim/ImageOptim))
+- [Pika](https://github.com/superhighfives/pika) - Open-source colour picker app for macOS. ([Web](https://superhighfives.com/pika))
 
 ## Other interesting apps
 

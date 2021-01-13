@@ -55,6 +55,7 @@
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)
 - [Haskell 2](https://github.com/dustin/aoc2019)
+- [Haskell 3](https://github.com/ChrisPenner/advent-of-code-haskell)
 - [Swift](https://github.com/evilmint/AdventOfCode)
 - [Go](https://github.com/neutralinsomniac/advent2019)
 - [Go 2](https://github.com/vtambourine/leetcode-go)

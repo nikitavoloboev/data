@@ -62,3 +62,5 @@
 - [Two pictures of quantum computation (2020)](https://ahelwer.ca/post/2020-12-06-sum-over-paths/)
 - [Learn Quantum Computation](https://qiskit.org/textbook/preface.html) ([HN](https://news.ycombinator.com/item?id=25586565))
 - [Quantum machine learning](https://pennylane.ai/qml/) - Introductions to key concepts in quantum machine learning, as well as tutorials and implementations from cutting-edge QML research. ([Code](https://github.com/PennyLaneAI/qml))
+- [Advanced Rust quantum computer simulator](https://github.com/beneills/quantum)
+- [QCGPU](https://github.com/libtangle/qcgpu) - High Performance & Hardware Accelerated, Quantum Computer Simulator.

@@ -108,3 +108,4 @@
 - [ToriLisp – an ersatz Lisp for tiny birds (2020)](http://blog.fogus.me/2020/12/22/torilisp-an-ersatz-lisp-for-tiny-birds/) ([Code](https://github.com/fogus/tori-lisp))
 - [On repl-driven programming (2020)](http://mikelevins.github.io/posts/2020-12-18-repl-driven/) ([Lobsters](https://lobste.rs/s/0dvrpg/on_repl_driven_programming)) ([HN](https://news.ycombinator.com/item?id=25620256))
 - [Fleck](https://github.com/chr15m/flk) - Clojure-like LISP that runs wherever Bash is.
+- [A rabbit hole full of Lisp (2021)](https://www.murilopereira.com/a-rabbit-hole-full-of-lisp/)

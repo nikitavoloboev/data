@@ -70,3 +70,4 @@
 - [Line Awesome](https://icons8.com/line-awesome) - Replace Font Awesome with modern line icons. ([Code](https://github.com/icons8/line-awesome))
 - [Icons8](https://icons8.com/) - Download design elements for free.
 - [Public Icons](https://publicicons.lllllllllllllllll.com/) - Free icons in the public domain.
+- [Glyphs](https://glyphs.fyi/) - Complete icons design system from Figma to web components. ([Code](https://github.com/gorango/glyphs))

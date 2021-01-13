@@ -26,3 +26,4 @@
 - [Awesome Standalones](https://github.com/davatron5000/awesome-standalones) - Curated list of awesome framework-agnostic standalone web components.
 - [Catalyst](https://github.com/github/catalyst) - Set of patterns and techniques for developing components within a complex application. ([Web](https://github.github.io/catalyst/))
 - [Options for styling web components (2021)](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
+- [Hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating web components with unique declarative and functional approach based on plain objects and pure functions.

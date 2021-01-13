@@ -83,3 +83,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Climate Modeling Alliance](https://clima.caltech.edu/) - Alliance of scientists, engineers and applied mathematicians, dedicated to pioneering a new, data-informed approach to climate modeling. ([GitHub](https://github.com/CliMA))
 - [Pale Blue Dot](https://www.paleblue.vc/) - Climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.
 - [The Ocean Cleanup](https://theoceancleanup.com/) - Developing technologies to rid the oceans of plastic.
+- [Data for Environmental Intelligence](https://github.com/rockita/Environmental_Intelligence)

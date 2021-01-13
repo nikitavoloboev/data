@@ -6,6 +6,7 @@
 - [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. Provides a concise JSON syntax for rapidly generating visualizations to support analysis. ([Code](https://github.com/vega/vega-lite)) ([HN](https://news.ycombinator.com/item?id=24937954))
 - [Vega-Lite API](https://github.com/vega/vega-lite-api) - JavaScript API for Vega-Lite.
 - [Vega Editor](https://vega.github.io/editor/#/)
+- [VegaGraphs](https://github.com/JuliaGraphs/VegaGraphs.jl) - Implements graph visualization with Vega-Lite.
 - [react-vega](https://github.com/vega/react-vega) - Convert Vega spec into React class conveniently.
 - [altair_recipes](https://github.com/piccolbo/altair_recipes) - Collection of ready-made statistical graphics for vega.
 - [XVega](https://github.com/QuantStack/xvega) - C++ API to Vega-Lite.

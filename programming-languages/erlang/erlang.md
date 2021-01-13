@@ -67,3 +67,5 @@
 - [erlang-systemd](https://github.com/hauleth/erlang-systemd) - Simple library for notifying systemd about process state.
 - [The Erlangelist](https://www.theerlangelist.com/) - Erlang related musings. ([Code](https://github.com/sasa1977/erlangelist))
 - [erlang-questions](http://erlang.org/mailman/listinfo/erlang-questions) - General Erlang/OTP discussions.
+- [eflame](https://github.com/proger/eflame) - Flame Graphs for Erlang.
+- [Gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, HTTP/2 and Websocket.

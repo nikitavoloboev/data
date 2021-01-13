@@ -172,3 +172,4 @@
 - [Profiling Node.js](https://github.com/StarpTech/profiling-nodejs) - Collection of articles and tools to efficiently profile Node.js.
 - [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for NodeJS microservices.
 - [Amplication](https://github.com/amplication/amplication) - Instantly Generate Node.js Apps with GraphQL and REST API. ([Web](https://app.amplication.com/)) ([HN](https://news.ycombinator.com/item?id=25749492))
+- [canarist](https://github.com/xing/canarist) - Like npm link, but for workspaces / monorepos.

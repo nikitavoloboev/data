@@ -86,6 +86,7 @@
 - [pytest-plugins](https://github.com/man-group/pytest-plugins) - Grab-bag of nifty pytest plugins.
 - [mutmut](https://github.com/boxed/mutmut) - Mutation testing system for Python, with a strong focus on ease of use.
 - [FreezeGun](https://github.com/spulec/freezegun) - Allows your Python tests to travel through time by mocking the datetime module.
+- [datatest](https://github.com/shawnbrown/datatest) - Test driven data-wrangling and data validation.
 
 ## Other
 
@@ -182,7 +183,7 @@
 - [hyperjson](https://github.com/mre/hyperjson) - Hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
 - [Invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - [Invocations](https://github.com/pyinvoke/invocations) - Reusable Invoke tasks.
-- [Texthero](https://github.com/jbesomi/texthero) - Python toolkit to work with text-based dataset quickly and effortlessly.
+- [Texthero](https://github.com/jbesomi/texthero) - Python toolkit to work with text-based dataset quickly and effortlessly. ([Web](https://texthero.org/))
 - [Pymanopt](https://www.pymanopt.org/) - Python toolbox for optimization on manifolds, that computes gradients and Hessians automatically.
 - [Wily](https://github.com/tonybaloney/wily) - Python application for tracking, reporting on timing and complexity in Python code.
 - [PyNaCl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.

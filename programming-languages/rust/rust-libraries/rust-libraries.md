@@ -632,6 +632,10 @@
 - [shadow-rs](https://github.com/baoyachi/shadow-rs) - Build-time information stored in your binary.
 - [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the Java Native Interface.
 - [Plotly](https://github.com/igiagkiozis/plotly) - Plotting library for Rust powered by Plotly.js
+- [Spiril](https://github.com/Jeffail/spiril) - Rust library for genetic algorithms.
+- [cstree](https://github.com/domenicquirl/cstree) - Library for creating and working with concrete syntax trees (CSTs).
+- [Cocoon](https://github.com/fadeevab/cocoon) - Simple and relyable secure storage with strong encryption and format validation.
+- [BitReader](https://github.com/irauta/bitreader) - Helper type to extract strings of bits from a slice of bytes.
 
 ## Cargo Plugins
 

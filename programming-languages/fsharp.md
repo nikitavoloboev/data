@@ -9,3 +9,4 @@
 - [Verified Programming in F\*: A Tutorial](http://fstar-lang.org/tutorial/) ([HN](https://news.ycombinator.com/item?id=25629058))
 - [Why I'm Learning F# in 2021](https://markjames.dev/2021-01-04-why-learning-fsharp-2021/)
 - [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler. ([Web](https://fable.io/))
+- [WebSharper](https://github.com/dotnet-websharper/core) - F#-based web programming platform including a compiler from F# code to JavaScript.

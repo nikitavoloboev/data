@@ -31,3 +31,4 @@
 - [ShapeWright.com](https://ship.shapewright.com/) - Procedurally generated space ships.
 - [1D Procedural Terrain Generation (2020)](https://arpitbhayani.me/blogs/1d-terrain)
 - [enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI.
+- [Game Map Generator](https://github.com/klangner/mapgen.rs) - Generate procedural maps for games.
