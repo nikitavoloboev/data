@@ -678,6 +678,7 @@
 - [regroup](https://github.com/oriser/regroup) - Simple library to match regex expression named groups into go struct using struct tags and automatic parsing.
 - [quacktors](https://github.com/Azer0s/quacktors) - Go framework that brings Erlang/Elixir style concurrency to Go.
 - [Smux](https://github.com/xtaci/smux) - Stream Multiplexing Library for go with least memory usage.
+- [Fuzzy Search](https://github.com/lithammer/fuzzysearch) - Tiny and fast fuzzy search in Go.
 
 ## Links
 

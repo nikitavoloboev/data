@@ -21,3 +21,4 @@
 - [Notes on Learning Languages](https://lukesmith.xyz/articles/learning-languages) ([HN](https://news.ycombinator.com/item?id=25407175))
 - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215) ([HN](https://news.ycombinator.com/item?id=25434854))
 - [Rebuilding the most popular spellchecker (2021)](https://zverok.github.io/blog/2021-01-05-spellchecker-1.html)
+- [Who Invented the Alphabet? (2021)](https://www.smithsonianmag.com/history/inventing-alphabet-180976520/) ([HN](https://news.ycombinator.com/item?id=25735348))

@@ -43,7 +43,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Upspin](https://github.com/upspin/upspin)
   - [The Upspin manifesto: On the ownership and sharing of data](https://commandcenter.blogspot.nl/2017/10/the-upspin-manifesto-on-ownership-and.html)
   - [Rob Pike's talk on it](https://www.youtube.com/watch?v=H74R1eNsAHY)
-- [Beaker browser](https://beakerbrowser.com/)
 - [Casper](https://casper.com/) - Seems like a good mattress.
 - [What are your hobbies?](https://lobste.rs/s/fx3enz/what_are_your_hobbies)
 - [Ask HN: What did you learn the hard way?](https://news.ycombinator.com/item?id=18132736)

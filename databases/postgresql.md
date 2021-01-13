@@ -194,3 +194,4 @@
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
 - [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.
+- [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.

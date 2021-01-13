@@ -38,7 +38,7 @@
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web.
 - [orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-only log with traversable history. Useful for "latest N" use cases or as a message queue.
 - [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
-- [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572))
+- [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572)) ([Code](https://github.com/hypercore-protocol/hyperdrive))
 - [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.
 - [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale. ([Docs](https://docs.testground.ai/))
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
@@ -65,3 +65,4 @@
 - [Hyperbeam](https://github.com/mafintosh/hyperbeam) - 1-1 end-to-end encrypted internet pipe powered by Hyperswarm. ([HN](https://news.ycombinator.com/item?id=25407174))
 - [nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by))
 - [QuantumGate](https://github.com/kareldonk/QuantumGate) - Peer-to-peer (P2P) communications protocol, library and API written in C++. ([Web](http://www.quantumgate.org/))
+- [Beaker browser](https://beakerbrowser.com/) - Experimental peer to peer web browser. ([HN](https://news.ycombinator.com/item?id=25753908))

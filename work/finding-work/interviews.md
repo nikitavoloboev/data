@@ -108,3 +108,4 @@
 - [Interview advice that got me offers](https://www.zainrizvi.io/blog/the-interviewing-advice-no-one-shares/) ([HN](https://news.ycombinator.com/item?id=25519718))
 - [Facebook senior software engineer interview: the only post you’ll need to read (2021)](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d) ([HN](https://news.ycombinator.com/item?id=25658098))
 - [Important criterias and what do you expect to see during interviews (2021)](https://www.reddit.com/r/reactjs/comments/kuden7/those_of_you_who_interview_and_hire_developers/)
+- [Technical Interviews at ReadMe (2021)](https://twitter.com/gkoberger/status/1349142084511436801) ([Thread its based off](https://news.ycombinator.com/item?id=24457170))

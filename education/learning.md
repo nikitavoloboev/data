@@ -92,3 +92,4 @@
 - [Learning Theory from First Principles (2020)](https://www.di.ens.fr/~fbach/learning_theory_class/)
 - [Things I Learnt in 2020](https://drobinin.com/posts/things-i-learnt-in-2020/) ([HN](https://news.ycombinator.com/item?id=25582269))
 - [100 Tweets on Better Internet Learning (2020)](https://hyperlink.academy/library/100-tweets-on-internet-learning)
+- [Learn X by Doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) - Project-based learning search engine. ([HN](https://news.ycombinator.com/item?id=25754437))

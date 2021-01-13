@@ -136,3 +136,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS as a Framework (2021)](https://medium.com/galvanize/aws-as-a-framework-9abd2b1f6dc1)
 - [Moto](https://github.com/spulec/moto) - Mock AWS Services.
 - [Amazon EC2 Metadata Mock](https://github.com/aws/namazon-ec2-metadata-mock) - Tool to simulate Amazon EC2 instance metadata.
+- [Remote Debugging in AWS (2021)](https://thenewstack.io/remote-debugging-in-aws-the-missing-link-in-your-debugging-toolset/)

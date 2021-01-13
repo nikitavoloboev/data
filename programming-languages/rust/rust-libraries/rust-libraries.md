@@ -137,6 +137,7 @@
 - [Fuzzcheck](https://github.com/loiclec/fuzzcheck-rs) - Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions.
 - [k9](https://github.com/aaronabramov/k9) - Rust Testing Library.
 - [expect-test](https://github.com/rust-analyzer/expect-test) - Minimalistic snapshot testing for Rust.
+- [QuickCheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
 
 ## Error
 

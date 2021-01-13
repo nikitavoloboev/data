@@ -10,3 +10,4 @@
 - [CFM](https://github.com/cbiffle/cfm) - Forth-inspired processor targeting the Lattice ICE40 FPGA series, primarily targeting the Icoboard.
 - [StoneKnifeForth](https://github.com/kragen/stoneknifeforth) - Tiny self-hosted Forth implementation.
 - [My history with Forth & stack machines (2010)](http://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+- [J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html) ([HN](https://news.ycombinator.com/item?id=25759576))

@@ -100,3 +100,4 @@
 - [Piping Server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over HTTP/HTTPS.
 - [devserver](https://github.com/kettle11/devserver) - Simple HTTPS server for local development. Implemented in Rust. ([Building devserver: An Ultra-Tiny Rust Server](https://ianjk.com/devserver/))
 - [Hurl](https://github.com/Orange-OpenSource/hurl) - Command line tool that performs HTTP requests defined in a simple plain text format. ([Docs](https://hurl.dev/))
+- [GoReplay](https://github.com/buger/goreplay) - Capture your existing users activity and re-use it for testing your application. With GoReplay you can perform shadowing, load testing, or detailed analysis and monitoring. ([Web](https://goreplay.org/))

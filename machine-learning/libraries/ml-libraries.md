@@ -103,3 +103,4 @@
 - [tsalib](https://github.com/ofnote/tsalib) - Tensor Shape Annotation Library (numpy, tensorflow, pytorch, ...).
 - [MMClassification](https://github.com/open-mmlab/mmclassification) - Open source image classification toolbox based on PyTorch.
 - [Nimble](https://github.com/snuspl/nimble) - Lightweight and Parallel GPU Task Scheduling for Deep Learning.
+- [Dannjs](https://github.com/matiasvlevi/Dann) - Neural Network library for JavaScript. ([Web](https://dannjs.org/))

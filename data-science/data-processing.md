@@ -29,3 +29,4 @@
 - [Stitch](https://www.stitchdata.com/) - Simple, extensible ETL built for data teams.
 - [Databricks](https://databricks.com/) - Unified Data Analytics. ([GitHub](https://github.com/databricks)) ([CLI](https://github.com/databricks/databricks-cli))
 - [AugMix](https://github.com/google-research/augmix) - Simple Data Processing Method to Improve Robustness and Uncertainty.
+- [Snapflow](https://github.com/kvh/snapflow) - Framework for building end-to-end functional data pipelines from modular components.

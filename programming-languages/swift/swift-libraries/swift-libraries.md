@@ -166,6 +166,7 @@
 - [SwiftNIO SSL](https://github.com/apple/swift-nio-ssl) - Swift package that contains an implementation of TLS based on BoringSSL.
 - [WebSocketKit](https://github.com/vapor/websocket-kit) - WebSocket client library built on SwiftNIO.
 - [NIO Transport Services](https://github.com/apple/swift-nio-transport-services) - Extensions for SwiftNIO to support Apple platforms as first-class citizens.
+- [TermiNetwork](https://github.com/billp/TermiNetwork) - Zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 
 ## SwiftUI
 

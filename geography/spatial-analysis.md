@@ -48,3 +48,4 @@
 - [Satpy](hnttps://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing.
 - [Pytroll](http://pytroll.github.io/) - Easy to use, modular, free and open source python framework for the processing of earth observation satellite data. ([GitHub](https://github.com/pytroll))
 - [maps.me code](https://github.com/mapsme/omim) - Offline OpenStreetMap maps for iOS and Android. ([HN](https://news.ycombinator.com/item?id=25515004))
+- [Unfolded](https://www.unfolded.ai/) - Geospatial analytics platform for data unification, enrichment, and visualization. ([Introduction](https://www.unfolded.ai/blog/2021-01-12-introducing-studio/))

@@ -41,3 +41,4 @@
 - [SQLite is 35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
 - [SQLiteC++](https://github.com/SRombauts/SQLiteCpp) - Smart and easy to use C++ SQLite3 wrapper.
 - [sqlite-worker](https://github.com/WebReflection/sqlite-worker) - Simple, and persistent, SQLite database for Web and Workers.
+- [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database.
