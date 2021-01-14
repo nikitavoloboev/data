@@ -66,6 +66,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Nextcloud iOS app](https://github.com/nextcloud/ios)
 - [MortyUI](https://github.com/Dimillian/MortyUI) - Simple Rick & Morty app to demo GraphQL + SwiftUI.
 - [Brave for iOS](https://github.com/brave/brave-ios)
+- [Element iOS](https://github.com/vector-im/element-ios) - Matrix client provided by Element.
 
 ## Other
 

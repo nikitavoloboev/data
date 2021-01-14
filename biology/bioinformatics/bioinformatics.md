@@ -90,3 +90,4 @@
 - [Nature Biotechnology](https://www.nature.com/nbt/)
 - [PyMOL](https://pymol.org/) - Molecular visualization system. ([Code](https://github.com/schrodinger/pymol-open-source))
 - [Bioinformatics Chat](https://bioinformatics.chat/) - Podcast about computational biology, bioinformatics, and next generation sequencing.
+- [OpenCADD](https://github.com/volkamerlab/opencadd) - Python library for structural cheminformatics.

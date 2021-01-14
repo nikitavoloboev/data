@@ -430,6 +430,9 @@
 - [acorn](https://github.com/acornjs/acorn) - Tiny, fast JavaScript parser, written completely in JavaScript.
 - [jsesc](https://github.com/mathiasbynens/jsesc) - Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data.
 - [fastjson](https://github.com/qntm/fastjson) - Single-tweet, standards-compliant, high-performance JSON stack.
+- [grfn](https://github.com/TomerAberbach/grfn) - Tiny (~400B) utility that executes a dependency graph of async functions as concurrently as possible.
+- [Nunjucks](https://github.com/mozilla/nunjucks) - Powerful templating engine with inheritance, asynchronous control, and more. ([Web](https://mozilla.github.io/nunjucks/))
+- [Behavior3JS](https://github.com/behavior3/behavior3js) - Structures and algorithms that assist you in the task of creating intelligent agents for your game or application.
 
 ## Links
 

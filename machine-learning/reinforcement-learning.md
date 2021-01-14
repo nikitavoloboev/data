@@ -153,3 +153,6 @@
 - [ReBeL](https://github.com/facebookresearch/rebel) - Algorithm that generalizes the paradigm of self-play reinforcement learning and search to imperfect-information games.
 - [NEAT Gym](https://github.com/simondlevy/neat-gym) - Learn OpenAI Gym environments using NEAT.
 - [RLStructures](https://github.com/facebookresearch/rlstructures) - Library to facilitate the implementation of new reinforcement learning algorithms.
+- [FinRL](https://github.com/AI4Finance-LLC/FinRL-Library) - Deep Reinforcement Learning Library for Quantitative Finance.
+- [ReAgent](https://github.com/facebookresearch/ReAgent) - Platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.). ([Docs](https://reagent.ai/))
+- [Deep Reinforcement Learning Algorithms](https://github.com/RITCHIEHuang/DeepRL_Algorithms)

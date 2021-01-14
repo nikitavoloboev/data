@@ -140,6 +140,7 @@
 - [AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation.
 - [ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) - Better version of iOS 13 Context Menu.
 - [Katana](https://github.com/BendingSpoons/katana-swift) - Modern framework for creating iOS apps, inspired by Redux.
+- [Align](https://github.com/kean/Align) - Intuitive and powerful Auto Layout library.
 
 ## macOS
 
@@ -557,6 +558,7 @@
 - [Bluetooth](https://github.com/PureSwift/Bluetooth) - Pure Swift Bluetooth library.
 - [Delicious.swift](https://github.com/drkameleon/delicious) - Swift language extensions and Cocoa utilities for macOS/iOS.
 - [BBMetalImage](https://github.com/Silence-GitHub/BBMetalImage) - High performance Swift library for GPU-accelerated image/video processing based on Metal.
+- [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework.
 
 ## Other (not lib)
 

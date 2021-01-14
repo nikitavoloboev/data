@@ -121,6 +121,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Looks
 
 - [GitHub Colors](https://github.com/cormacrelf/vim-colors-github)
+- [Embark Vim Theme](https://github.com/embark-theme/vim)
 - [Dracula](https://github.com/dracula/vim)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.

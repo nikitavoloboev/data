@@ -20,6 +20,7 @@
 - [DiffEqGPU](https://github.com/SciML/DiffEqGPU.jl) - GPU-acceleration routines for DifferentialEquations.jl and the broader SciML scientific machine learning ecosystem.
 - [Avalon](https://github.com/dfdx/Avalon.jl) - Deep learning library in Julia with focus on high performance and interoperability with existing DL frameworks.
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
+- [Reinforce](https://github.com/JuliaML/Reinforce.jl) - Abstractions, algorithms, and utilities for reinforcement learning in Julia.
 
 ## Math
 
@@ -54,6 +55,7 @@
 - [Nemo](https://github.com/Nemocas/Nemo.jl) - Computer algebra package for the Julia programming language. It aims to cover commutative algebra, number theory and group theory.
 - [AbstractAlgebra](https://github.com/Nemocas/AbstractAlgebra.jl) - Pure Julia package for computational abstract algebra.
 - [Hecke](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory.
+- [ChainRulesCore](https://github.com/JuliaDiff/ChainRulesCore.jl) - Provides a light-weight dependency for defining sensitivities for functions in your packages.
 
 ## NLP
 

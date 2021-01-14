@@ -231,3 +231,8 @@
 - [Natural language generation: The commercial state of the art in 2020](https://www.cambridge.org/core/journals/natural-language-engineering/article/natural-language-generation-the-commercial-state-of-the-art-in-2020/BA2417D73AF29F8073FF5B611CDEB97F) ([HN](https://news.ycombinator.com/item?id=25711669))
 - [Non-Autoregressive Generation Progress](https://github.com/kahne/NonAutoregGenProgress)
 - [Trankit: A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing](https://github.com/nlp-uoregon/trankit)
+- [VecMap](https://github.com/artetxem/vecmap) - Framework to learn cross-lingual word embedding mappings.
+- [Kiri](https://github.com/kiri-ai/kiri) - Natural Language Engine. ([Web](https://kiri.ai/))
+- [GPT3 List](https://github.com/sw-yx/gpt3-list) - List of things that people are claiming is enabled by GPT3.
+- [DeBERTa](https://github.com/microsoft/DeBERTa) - Decoding-enhanced BERT with Disentangled Attention.
+- [Sockeye](https://github.com/awslabs/sockeye) - Open-source sequence-to-sequence framework for Neural Machine Translation based on Apache MXNet. ([Docs](https://awslabs.github.io/sockeye/))

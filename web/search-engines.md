@@ -102,3 +102,4 @@
 - [Okeano](https://okeano.com/) - Search engine that cleans the ocean and respects your privacy.
 - [Private.sh](https://private.sh/) - Search engine that cryptographically protects your privacy.
 - [Wade](https://github.com/kbrsh/wade) - Blazing fast 1kb search library.
+- [Aves API](https://avesapi.com/) - Insanely Fast Google Search API.

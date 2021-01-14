@@ -196,3 +196,4 @@
 - [React Dev Inspector](https://github.com/zthxxx/react-dev-inspector) - Click react component then jump to component's source code in your local IDE.
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - ["Just Use Props": An opinionated guide to React and XState (2021)](https://dev.to/mpocock1/just-use-props-an-opinionated-guide-to-react-and-xstate-fc9) ([Tweet](https://twitter.com/mpocock1/status/1348753468740300800))
+- [react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs.

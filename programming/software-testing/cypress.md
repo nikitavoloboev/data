@@ -23,3 +23,4 @@
 - [cypress-graphql-mock](https://github.com/tgriesser/cypress-graphql-mock) - Adds commands for executing a mocked GraphQL server using only the client.
 - [Backend Code Coverage from Cypress API tests (2021)](https://glebbahmutov.com/blog/backend-coverage/)
 - [Gleb Bahmutov's articles on Cypress](https://glebbahmutov.com/blog/tags/cypress/)
+- [CI and End to End Testing: Cypress Percy CircleCI (2021)](https://medium.com/diffgram/implementing-a-ci-system-with-e2e-testing-using-cypress-percy-and-circleci-246b50be466c)

@@ -307,3 +307,6 @@
 - [Writing a Kubernetes CRD Controller in Rust (2019)](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html) ([HN](https://news.ycombinator.com/item?id=25704250))
 - [Lifting Developers’ Productivity with BuildKit CLI for kubectl (2021)](https://container-registry.com/posts/productivity-lift-buildkit-cli-for-kubectl/)
 - [ekz](https://github.com/chanwit/ekz) - EKS-D Kubernetes distribution for desktop.
+- [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - Kubernetes operator, specialized in running continuous delivery pipelines for infrastructure and workloads defined with Kubernetes manifests and assembled with Kustomize.
+- [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS.
+- [Weave Scope](https://github.com/weaveworks/scope) - Troubleshooting & Monitoring for Docker & Kubernetes. ([Web](https://www.weave.works/oss/scope/))

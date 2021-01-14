@@ -162,6 +162,9 @@
 - [Ceres Solver](https://github.com/ceres-solver/ceres-solver) - Open source C++ library for modeling and solving large, complicated optimization problems. ([Docs](http://ceres-solver.org/))
 - [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp) - High-level C++ D-Bus library for Linux designed to provide expressive, easy-to-use API in modern C++.
 - [DGtal](https://github.com/DGtal-team/DGtal) - Digital Geometry Tools and Algorithm Library. ([Web](https://dgtal.org/))
+- [libpy](https://github.com/quantopian/libpy) - Library to help you write amazing Python extensions in C++.
+- [cppcoro](https://github.com/andreasbuhr/cppcoro) - Library of C++ coroutine abstractions for the coroutines TS.
+- [DynaMix (Dynamic Mixins)](https://github.com/iboB/dynamix) - New take on polymorphism. It lets the user compose and modify polymorphic objects at run time in C++.
 
 ## Links
 

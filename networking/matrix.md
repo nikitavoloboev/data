@@ -1,6 +1,6 @@
 # [Matrix](https://matrix.org)
 
-Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) is a web and mobile interface to the Matrix system.
+Matrix is kind of like a federated IRC system and [Element](https://element.io) is a web and mobile interface to the Matrix system.
 
 [Dendrite](https://github.com/matrix-org/dendrite) is Matrix homeserver written in Go. It is a rewrite of [synapse](https://github.com/matrix-org/synapse) that was written in Python which could not scale.
 
@@ -56,3 +56,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Cerulean](https://github.com/matrix-org/cerulean) - Experimental Matrix client intended to demonstrate the viability of freestyle public threaded conversations a la Twitter.
 - [retrix](https://github.com/agraven/retrix) - Lightweight matrix client.
 - [Building a virtual coffee bot for Mattermost and Matrix (2021)](https://n8n.io/blog/how-to-host-virtual-coffee-breaks-with-n8n/)
+- [Element Matrix Client Code](https://github.com/vector-im/element-web)

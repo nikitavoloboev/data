@@ -103,3 +103,4 @@
 - [Noise Planets (Generative Art) (2021)](https://avinayak.github.io/art/2021/01/09/noise-planets.html) ([HN](https://news.ycombinator.com/item?id=25712767))
 - [Automatically Generating Algorithmic Art](https://grgv.xyz/creative_code_synthesis/)
 - [JetBrains Animation Generator](https://code2art.jetbrains.com/) ([Code](https://github.com/JetBrains/open-radiant))
+- [Chris Shier's Generative Art](https://www.csh.bz/)

@@ -72,3 +72,4 @@
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [checkmate](https://github.com/parasj/checkmate) - Training neural networks in TensorFlow 2.0 with 5x less memory.
 - [TensorFlow in Swift Handbook](https://github.com/huan/tensorflow-handbook-swift)
+- [Recursive custom gradients in TensorFlow (2020)](https://iza.ac/posts/2020/12/recursive-custom-gradients-in-tensorflow/)

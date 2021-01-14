@@ -178,3 +178,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Starting Your Own YouTube Channel in 2021](https://www.youtube.com/watch?v=ml7Vme_aPn4)
 - [Perfect Media Server](https://perfectmediaserver.com/) - Knowledge and information about building an open-source media server. ([Code](https://github.com/IronicBadger/pms-wiki/)) ([HN](https://news.ycombinator.com/item?id=25619137))
 - [MiniVideo](https://github.com/emericg/MiniVideo) - Multimedia framework developed from scratch in C/C++, bundled with test programs and a neat media analyzer.
+- [OpenPlayerJS](https://www.openplayerjs.com/) - Lightweight Media Player for Web. ([Code](https://github.com/openplayerjs/openplayerjs))

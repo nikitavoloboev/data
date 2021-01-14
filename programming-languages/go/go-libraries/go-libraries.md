@@ -60,6 +60,7 @@
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
 - [gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin Framework.
 - [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
+- [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
@@ -166,6 +167,7 @@
 - [Kallax](https://github.com/src-d/go-kallax) - PostgreSQL typesafe ORM for the Go language.
 - [Gonudb](https://github.com/iand/gonudb) - Append-only key/value datastore written in Go.
 - [go-memdb](https://github.com/hashicorp/go-memdb) - Go in-memory database built on immutable radix trees.
+- [tailetc](https://github.com/tailscale/tailetc) - total-memory-cache etcd v3 client.
 
 ## ML
 
@@ -443,6 +445,7 @@
 - [Generic and Fast Binary Serializer for Go](https://github.com/kelindar/binary)
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
 - [Clipboard](https://github.com/atotto/clipboard) - Provide copying and pasting to the Clipboard for Go.
+- [clipboard](https://github.com/d-tsuji/clipboard) - Go library for multi-platform clipboard.
 - [protobuild](https://github.com/stevvooe/protobuild) - Build protobufs in Go, easily.
 - [wal](https://github.com/tidwall/wal) - Write ahead log for Go.
 - [protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct.
@@ -683,6 +686,8 @@
 - [SipHash](https://github.com/dchest/siphash) - Go implementation of SipHash-2-4, a fast short-input PRF.
 - [Gobls](https://github.com/karrick/gobls) - Buffered line scanner for Go.
 - [goswarm](https://github.com/karrick/goswarm) - Go Stale While Asynchronously Revalidate Memoization.
+- [tachymeter](https://github.com/jamiealquiza/tachymeter) - Go library for timing things and yielding rates, percentiles, and histograms.
+- [reflow](https://github.com/muesli/reflow) - Collection of (ANSI-sequence aware) text reflow operations & algorithms.
 
 ## Links
 
@@ -693,3 +698,4 @@
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.
 - [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects)
 - [Go web framework benchmark](https://github.com/smallnest/go-web-framework-benchmark)
+- [Modu](https://github.com/KimMachineGun/modu) - Deadly simple terminal UI tool to update Go Modules.

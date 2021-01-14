@@ -252,6 +252,8 @@
 - [systemd user services (2021)](https://notes.neeasade.net/systemd-user-services.html) ([Lobsters](https://lobste.rs/s/sy8ulu/systemd_user_services))
 - [libseccomp](https://github.com/seccomp/libseccomp) - C library that provides an easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
 - [When Amazon Switched from Sun to Linux](https://twitter.com/DanRose999/status/1347677573900242944) ([HN](https://news.ycombinator.com/item?id=25693618))
-- [Arch manual pages](https://man.archlinux.org/) ([Code](https://gitlab.archlinux.org/archlinux/archmanweb))
+- [Arch manual pages](https://man.archlinux.org/) ([Code](https://gitlab.archlinux.org/archlinux/archmanweb)) ([Search](https://man.archlinux.org/search)) ([Browse](https://man.archlinux.org/listing))
 - [XTerm: It's Better Than You Thought (2021)](https://aduros.com/blog/xterm-its-better-than-you-thought/) ([Lobsters](https://lobste.rs/s/pxsgmt/xterm_it_s_better_than_you_thought)) ([HN](https://news.ycombinator.com/item?id=25732862))
 - [Linux kernel modules in safe Rust](https://github.com/fishinabarrel/linux-kernel-module-rust)
+- [Rust KVM firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - Designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.
+- [RUA](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options.

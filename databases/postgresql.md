@@ -195,3 +195,5 @@
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
 - [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.
 - [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
+- [temBoard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control. ([Web](https://temboard.io/))
+- [Postgres Guide](http://postgresguide.com/) ([Code](https://github.com/craigkerstiens/postgresguide.com))

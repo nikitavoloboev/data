@@ -4,7 +4,7 @@
 
 - [Macbook Pro 16" 64GB RAM, 1TB SSD](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
 - [iPhone 12 Pro 128GB](https://www.apple.com/iphone-12-pro/)
-- [iPad Pro 11 64GB](https://www.apple.com/ipad-pro/) & [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation)
+- [iPad Pro 11" 64GB](https://www.apple.com/ipad-pro/) & [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation)
 - [Apple Watch 6](https://www.apple.com/watch/)
 - [AirPods Pro](https://www.apple.com/airpods-pro/)
 - [AirPods Max](https://www.apple.com/airpods-max/)

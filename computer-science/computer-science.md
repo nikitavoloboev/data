@@ -102,3 +102,4 @@
 - [Best Paper Awards in Computer Science in the Past 25 Years (1996-2020)](https://jeffhuang.com/best_paper_awards/)
 - [Stanford Computer Science](https://cs.stanford.edu/)
 - [Computer Science Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
+- [Introduction to Computing: Explorations in Language, Logic, and Machines](http://computingbook.org/)

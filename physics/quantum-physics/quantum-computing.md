@@ -64,3 +64,5 @@
 - [Quantum machine learning](https://pennylane.ai/qml/) - Introductions to key concepts in quantum machine learning, as well as tutorials and implementations from cutting-edge QML research. ([Code](https://github.com/PennyLaneAI/qml))
 - [Advanced Rust quantum computer simulator](https://github.com/beneills/quantum)
 - [QCGPU](https://github.com/libtangle/qcgpu) - High Performance & Hardware Accelerated, Quantum Computer Simulator.
+- [PennyLane](https://github.com/PennyLaneAI/pennylane) - Cross-platform Python library for differentiable programming of quantum computers. ([Web](https://pennylane.ai/))
+- [Awesome Quantum Software](https://github.com/qosf/awesome-quantum-software)

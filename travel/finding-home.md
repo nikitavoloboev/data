@@ -10,7 +10,7 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Gumtree](https://gumtree.com/)
 - [OpenRent](https://www.openrent.co.uk/)
 - [RightMove](https://www.rightmove.co.uk/)
-- [Wayhome](https://www.wayhome.co.uk/) - Homeownership with a 5% deposit.
+- [Wayhome](https://www.wayhome.co.uk/) - Home ownership with a 5% deposit.
 
 ### NL rent
 

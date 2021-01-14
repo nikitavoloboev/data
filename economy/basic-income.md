@@ -16,3 +16,4 @@ Technology and automation will not stop and more things will be automated with e
 - [Circles UBI](https://joincircles.net/) - Basic Income on the Blockchain.
 - [Universal Basic Income Token](https://github.com/DemocracyEarth/ubi) - Set of smart contracts designed to provide a sustainable income for market participants.
 - [European Citizen's Initiative for Unconditional Basic Income](https://eci.ec.europa.eu/014/public/#/screen/home) ([HN](https://news.ycombinator.com/item?id=25579529))
+- [Jain Family Institute](https://www.jainfamilyinstitute.org/) - Applied research organization in the social sciences.

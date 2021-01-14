@@ -636,6 +636,12 @@
 - [cstree](https://github.com/domenicquirl/cstree) - Library for creating and working with concrete syntax trees (CSTs).
 - [Cocoon](https://github.com/fadeevab/cocoon) - Simple and relyable secure storage with strong encryption and format validation.
 - [BitReader](https://github.com/irauta/bitreader) - Helper type to extract strings of bits from a slice of bytes.
+- [Rust FUSE](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE).
+- [bpfs](https://github.com/bparli/bpfs) - Rust In-Memory Filesystem.
+- [flize](https://github.com/xacrimon/flize) - Non global, configurable and fast concurrent resource reclamation.
+- [num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust.
+- [mlua](https://github.com/khvzak/mlua) - High level Lua bindings to Rust with async/await support..
+- [victoria-dom](https://github.com/khvzak/victoria-dom) - Minimalistic HTML parser with CSS selectors.
 
 ## Cargo Plugins
 
@@ -659,6 +665,7 @@
 - [Cargo Wipe](https://github.com/mihai-dinculescu/cargo-wipe) - Recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path.
 - [cargo xtask](https://github.com/matklad/cargo-xtask) - Way to add free-form automation to a Rust project, a-la make, npm run or bespoke bash scripts.
 - [cargo-binutils](https://github.com/rust-embedded/cargo-binutils) - Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain.
+- [cargo-embed](https://github.com/probe-rs/cargo-embed) - Cargo extension for working with microcontrollers.
 
 ## Links
 

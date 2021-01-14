@@ -68,3 +68,4 @@
 - [Jeff Bezos’ 1st job posting for Amazon in August 1994](https://twitter.com/TrungTPhan/status/1329837146249650177)
 - [Asking a tech recruiter (2020)](https://underjord.io/asking-a-tech-recruiter.html)
 - [Measuring Hiring Manager Effectiveness (2020)](https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/)
+- [Reducing Time-to-Hire and Finding Niche Candidates via Text Mining and NLP (2021)](https://joinphase.com/talent-acquisition-nlp)

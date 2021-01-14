@@ -152,3 +152,4 @@
 - [Compound Word Transformer: Learning to Compose Full-Song Music over Dynamic Directed Hypergraphs (2021)](https://arxiv.org/abs/2101.02402) ([Code](https://github.com/YatingMusic/compound-word-transformer))
 - [ReaRender](https://github.com/YatingMusic/ReaRender) - Python toolkit for automatic audio/MIDI rendering using REAPER.
 - [Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions (2020)](https://arxiv.org/abs/2002.00212) ([Code](https://github.com/YatingMusic/remi))
+- [Sound Semiconductor](http://www.soundsemiconductor.com/index.html) - IC's for Music Creation.

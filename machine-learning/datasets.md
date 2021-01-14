@@ -69,3 +69,5 @@
 - [Weather and Climate Datasets for AI Research](http://mldata.pangeo.io/) ([Code](https://github.com/pangeo-data/mldata))
 - [NLP Datasets](https://github.com/niderhoff/nlp-datasets)
 - [Total Text Dataset](https://github.com/cs-chan/Total-Text-Dataset) - Consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.
+- [Datasets collected for network science, deep learning and general machine learning research](https://github.com/benedekrozemberczki/datasets)
+- [MER and SER Data sets](https://github.com/juansgomez87/datasets_emotion) - Data sets for Music Emotion Recognition and Speech Emotion Recognition.

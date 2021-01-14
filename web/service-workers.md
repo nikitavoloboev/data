@@ -9,3 +9,4 @@
 - [How to Fix the Refresh Button When Using Service Workers (2017)](https://redfin.engineering/how-to-fix-the-refresh-button-when-using-service-workers-a8e27af6df68)
 - [WASI Worker](https://github.com/dunnock/wasi-worker) - WASM / WASI interface for browser service workers.
 - [uhtml-ssr](https://github.com/WebReflection/uhtml-ssr) - Uhtml for Service Worker, Web Worker, NodeJS, and other SSR cases.
+- [Stealing web browser history with Service Workers](https://www.cs.uic.edu/~skarami/files/sw21/preprint-sw-ndss21.pdf)

@@ -26,3 +26,4 @@
 - [A Furry’s Guide to End-to-End Encryption (2020)](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/) ([Lobsters](https://lobste.rs/s/mn1am1/going_bark_furry_s_guide_end_end))
 - [Keeping encryption elitist (2020)](https://blog.cerebralab.com/Keeping_encryption_elitist)
 - [Tomb](https://github.com/dyne/Tomb) - Open source system for easy encryption and backup of personal files.
+- [TinyMCE’s real-time collaboration solution is end-to-end encrypted (2021)](https://www.tiny.cloud/blog/real-time-collaboration-end-to-end-encryption/)

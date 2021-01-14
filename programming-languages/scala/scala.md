@@ -61,3 +61,4 @@
 - [Scala Monthly](https://scalamonthly.com/) - High-quality coding challenge delivered to your inbox monthly.
 - [Scala 3 - Crossing the finish line (2020)](https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html) ([Reddit](https://www.reddit.com/r/scala/comments/ke9p82/scala_3_crossing_the_finish_line/gg2woqv/))
 - [scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala. ([Docs](https://scalameta.org/scalafmt/docs/installation.html))
+- [ScalaJobs.dev](https://scalajobs.dev/) - Scala Developer Jobs.

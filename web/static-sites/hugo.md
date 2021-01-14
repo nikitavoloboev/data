@@ -56,3 +56,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo)
 - [Using Github Issues as a Hugo frontend with Github Actions and Netlify (2020)](https://shazow.net/posts/github-issues-as-a-hugo-frontend/) ([Lobsters](https://lobste.rs/s/oeelem/using_github_issues_as_hugo_frontend_with))
 - [Hugo Code](https://github.com/gohugoio/hugo)
+- [Wowchemy](https://wowchemy.com/) - Website Builder for Hugo. ([Code](https://github.com/wowchemy/wowchemy-hugo-modules))

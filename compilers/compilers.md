@@ -22,7 +22,6 @@
 - [The C-- Language Specification](https://www.cs.tufts.edu/~nr/c--/extern/man2.pdf)
 - [How to become an expert in compilers the long way? (2019)](https://forums.swift.org/t/how-to-become-an-expert-in-compilers-the-long-way/22175)
 - [So You Want to Be a (Compiler) Wizard (2016)](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/) ([HN](https://news.ycombinator.com/item?id=22848450))
-- [I Built a Lisp Compiler (2019)](https://mpov.timmorgan.org/i-built-a-lisp-compiler/)
 - [tal](https://github.com/sweirich/tal) - Implementation of Typed Assembly Language (Morrisett, Walker, Crary, Glew).
 - [microml](https://github.com/hellerve/microml) - Minimal ML, type-inferred, compiled, and/or interpreted in less than 800 lines.
 - [libffi](https://github.com/libffi/libffi) - Portable foreign-function interface library.
@@ -137,3 +136,4 @@
 - [Advanced Compilers: The Self-Guided Online Course (2020)](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) ([HN](https://news.ycombinator.com/item?id=25386756))
 - [Advice on how to best approach learning compilers (2020)](https://www.reddit.com/r/Compilers/comments/kcpy3b/favorite_textbooks_for_students_taking_their/gfsk6kz/?utm_source=reddit&utm_medium=web2x&context=3)
 - [Post-Modern Compiler Design (2019)](https://www.cs.purdue.edu/homes/rompf/pmca/vol1/index.html)
+- [Inline caching (2021)](https://bernsteinbear.com/blog/inline-caching/)

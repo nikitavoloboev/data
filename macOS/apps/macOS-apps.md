@@ -81,6 +81,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me) - macOS system analyzer and cleaner.
 - [ImageOptim](https://imageoptim.com/mac) - GUI image optimizer for Mac. ([Code](https://github.com/ImageOptim/ImageOptim))
 - [Pika](https://github.com/superhighfives/pika) - Open-source colour picker app for macOS. ([Web](https://superhighfives.com/pika))
+- [Syncthing macOS](https://github.com/syncthing/syncthing-macos) - Native macOS Syncthing tray application bundle.
 
 ## Other interesting apps
 

@@ -45,3 +45,5 @@
 - [Nile](https://github.com/damelang/nile) - Programming Language for Declarative Stream Processing in Media Applications.
 - [Common Lisp implementation of Google's protocol buffers](https://github.com/brown/protobuf)
 - [Debugging Lisp (2015)](https://malisper.me/category/debugging-common-lisp/) ([HN](https://news.ycombinator.com/item?id=25661701))
+- [data-lens](https://github.com/fiddlerwoaroof/data-lens) - Functional utilities for Common Lisp.
+- [docker-cl-example](https://github.com/fukamachi/docker-cl-example/) - Example projects to run/develop Common Lisp web application on Docker container.

@@ -22,3 +22,4 @@
 - [Firestorter](https://github.com/IjzerenHein/firestorter) - Use Google Firestore in React with zero effort, using MobX. ([Docs](https://ijzerenhein.github.io/firestorter/#/))
 - [fuego](https://github.com/sgarciac/fuego) - Command-line firestore client.
 - [Foundry](https://github.com/FoundryApp/foundry-cli) - Fastest way to build Firebase CloudFunctions.
+- [Firebase storage lite](https://github.com/samuelgozi/firebase-storage-lite) - Lightweight and performant alternative to Firebase storage. JS library for modern browsers.

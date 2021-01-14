@@ -207,3 +207,4 @@
 - [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) - Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in PyTorch.
 - [PyTorch Architectures](https://github.com/addisonklinke/pytorch-architectures) - PyTorch implementations of research paper model architectures.
 - [Ways of making PyTorch training faster (2021)](https://www.reddit.com/r/MachineLearning/comments/kvs1ex/d_here_are_17_ways_of_making_pytorch_training/)
+- [RepVGG: Making VGG-style ConvNets Great Again (PyTorch)](https://github.com/DingXiaoH/RepVGG)

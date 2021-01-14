@@ -18,6 +18,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
 - [AWS practical guide](https://github.com/open-guides/og-aws)
 - [AWS CDK (Cloud Development Kit)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code. ([Web](https://aws.amazon.com/cdk/)) ([AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples))
+- [Serverless Stack Toolkit (SST)](https://github.com/serverless-stack/serverless-stack) - Extension of AWS CDK that allows you to build serverless apps.
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
@@ -137,3 +138,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Moto](https://github.com/spulec/moto) - Mock AWS Services.
 - [Amazon EC2 Metadata Mock](https://github.com/aws/namazon-ec2-metadata-mock) - Tool to simulate Amazon EC2 instance metadata.
 - [Remote Debugging in AWS (2021)](https://thenewstack.io/remote-debugging-in-aws-the-missing-link-in-your-debugging-toolset/)
+- [AWS Workshops](https://workshops.aws/)

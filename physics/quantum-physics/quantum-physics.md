@@ -39,3 +39,5 @@
 - [How do we know there is any distinction between particles and waves? (2020)](https://www.reddit.com/r/quantum/comments/kmwjid/how_do_we_know_there_is_any_distinction_between/)
 - [Is the Schrödinger Equation True? (2021)](https://www.scientificamerican.com/article/is-the-schroedinger-equation-true/) ([HN](https://news.ycombinator.com/item?id=25695384))
 - [Basics of Quantum Mechanics Summarized](https://news.ycombinator.com/item?id=25742619)
+- [The Quantum Physics Sequence (2008)](https://www.lesswrong.com/posts/hc9Eg6erp6hk9bWhn/the-quantum-physics-sequence)
+- [Is light fundamentally a wave or a particle? (2021)](https://www.forbes.com/sites/startswithabang/2021/01/08/ask-ethan-is-light-fundamentally-a-wave-or-a-particle/?sh=cd4afa479a0e) ([HN](https://news.ycombinator.com/item?id=25772323))

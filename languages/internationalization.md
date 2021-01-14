@@ -13,3 +13,4 @@
 - [ICU4X](https://github.com/unicode-org/icu4x) - Solving i18n for client-side and resource-constrained environments.
 - [JavaScript Internationalization in 2020](https://diary.braniecki.net/2020/02/14/js-intl-in-2020/)
 - [i18next-http-middleware](https://github.com/i18next/i18next-http-middleware) - Middleware to be used with Node.js web frameworks like express or Fastify and also for Deno.
+- [Localizely](https://localizely.com/) - Localization Platform for Web and Mobile Apps.

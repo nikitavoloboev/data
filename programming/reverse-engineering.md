@@ -74,3 +74,4 @@
 - [Reverse-engineering an early calculator chip with four-phase logic (2020)](http://www.righto.com/2020/12/reverse-engineering-early-calculator.html)
 - [Qiling Framework](https://www.qiling.io/) - Advanced Binary Emulation Framework. ([Code](https://github.com/qilingframework/qiling))
 - [Reverse Engineering my Christmas Tree (2020)](https://kc3nwj.com/christmas/) ([HN](https://news.ycombinator.com/item?id=25550017))
+- [Injection techniques](https://github.com/theevilbit/injection) - Notes on various process injection techniques.

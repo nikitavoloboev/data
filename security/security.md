@@ -136,3 +136,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Awesome CTF (Capture The Flag)](https://github.com/apsdehal/awesome-ctf)
 - [Quarkslab](https://quarkslab.com/) - Software and security services.
 - [Security Christmas](https://security.christmas/)
+- [HackTricks](https://book.hacktricks.xyz/) - Penetration testing hacks/tricks. ([Code](https://github.com/carlospolop/hacktricks))
+- [Machine Learning for Security Course](https://security.kiwi/docs/introduction/)

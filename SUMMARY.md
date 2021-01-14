@@ -570,6 +570,7 @@
     - [Ukraine](travel/visited/ukraine.md)
     - [Austria](travel/visited/austria.md)
     - [Korea](travel/visited/korea.md)
+    - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)
 - [Geography](geography/geography.md)
   - [Spatial analysis](geography/spatial-analysis.md)

@@ -72,6 +72,7 @@
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui) - Simple to use (but powerful) Python GUI framework. ([HN](https://news.ycombinator.com/item?id=24986908))
 - [pyimgui](https://github.com/swistakm/pyimgui) - Cython-based Python bindings for dear imgui.
 - [wxPython Phoenix](https://github.com/wxWidgets/Phoenix) - Cross-Platform GUI Library.
+- [pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS. ([Web](https://pywebview.flowrl.com/))
 
 ## Crypto
 
@@ -90,7 +91,7 @@
 
 ## Other
 
-- [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary. ([click-man - Create man pages for click applications](https://github.com/click-contrib/click-man))
+- [Click](https://click.palletsprojects.com/en/) - Create beautiful command line interfaces in a composable way with as little code as necessary. ([click-man - Create man pages for click applications](https://github.com/click-contrib/click-man)) ([Code](https://github.com/pallets/click))
 - [Hypertools](https://github.com/ContextLab/hypertools) - Python toolbox for gaining geometric insights into high-dimensional data.
 - [Flit](http://flit.readthedocs.io/en/latest/) - Simple way to put Python packages and modules on PyPI.
 - [Photon](https://github.com/s0md3v/Photon) - Lightning fast web crawler which extracts URLs, files, intel & endpoints from a target.
@@ -287,6 +288,9 @@
 - [miditoolkit](https://github.com/YatingMusic/miditoolkit) - Python package for working with MIDI data.
 - [bidict](https://github.com/jab/bidict) - Bidirectional mapping library for Python.
 - [Time Series Distances](https://github.com/wannesm/dtaidistance) - Library for time series distances (e.g. Dynamic Time Warping).
+- [pyamgx](https://github.com/shwina/pyamgx) - Python interface to NVIDIA's AMGX library.
+- [Finite State Machine](https://github.com/alysivji/finite-state-machine) - Lightweight, decorator-based Python implementation of a Finite State Machine.
+- [Spatial Maths](https://github.com/petercorke/spatialmath-python) - Create, manipulate and convert representations of position and orientation in 2D or 3D using Python.
 
 ## Links
 
@@ -299,3 +303,4 @@
 - [Dry-Python](https://dry-python.org/) - Set of libraries for pluggable business logic components. ([GitHub](https://github.com/dry-python))
 - [PePy](https://pepy.tech/) - PyPI Download Stats. ([Code](https://github.com/psincraian/pepy))
 - [pipdeptree](https://github.com/naiquevin/pipdeptree) - Command line utility to display dependency tree of the installed Python packages.
+- [pip](https://github.com/pypa/pip) - Python Package Installer. ([Docs](https://pip.pypa.io/en/stable/))

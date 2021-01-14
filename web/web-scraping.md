@@ -74,3 +74,4 @@
 - [Voyager](https://github.com/mattsse/voyager) - Write your own web crawler/scraper as a state machine in rust.
 - [Trandoshan](https://github.com/creekorful/trandoshan) - Fast, highly configurable, cloud native dark web crawler.
 - [ralger](https://github.com/feddelegrand7/ralger) - Makes it easy to scrape a website with R.
+- [Scraping HN content with declarative programming](https://pathom3.wsscode.com/docs/tutorials/hacker-news-scraper/)

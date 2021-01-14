@@ -53,3 +53,4 @@
 - [The Cloud Christmas](https://thecloud.christmas/)
 - [Ask HN: Where to get cheap VPS with big storage? (2021)](https://news.ycombinator.com/item?id=25713160)
 - [New Directions in Cloud Programming (2021)](https://arxiv.org/abs/2101.01159)
+- [The Big Little Guide to Running Code in the Cloud(s) (2021)](https://sudhir.io/the-big-little-guide-to-running-code-in-the-clouds/)

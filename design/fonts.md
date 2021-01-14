@@ -198,3 +198,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontdue](https://github.com/mooman219/fontdue) - Fastest font renderer in the world, written in pure rust.
 - [fontpreview](https://github.com/MatteoGuadrini/fontpreview) - Python library for font previews.
 - [Typeset](https://typeset.lllllllllllllllll.com/) - HTML pre-processor for web typography.
+- [glyphhanger](https://github.com/filamentgroup/glyphhanger) - Web font utility belt. It can subset web fonts. It can show you what unicode-ranges are used on a web site (optionally per font-family.
+- [Web Fonts in 2021](https://leerob.io/blog/fonts)

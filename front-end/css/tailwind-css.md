@@ -57,3 +57,5 @@
 - [Tailwind Tools](https://www.tailwind-tools.com/) - Tailwind CSS Tools For Developers.
 - [RustyWind](https://github.com/avencera/rustywind) - CLI for organizing Tailwind CSS classes.
 - [Tails](https://devdojo.com/tails) - TailwindCSS Page Creator.
+- [Tailwind CSS for Rails](https://github.com/rails/tailwindcss-rails) - Makes it easy to use this CSS framework with the asset pipeline.
+- [tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) - Plugin that provides a basic reset for form styles that makes form elements easy to override with utilities. ([Web](https://tailwindcss-forms.vercel.app/))

@@ -313,3 +313,4 @@
 - [Ask HN: What does mastery look like in software engineering? (2021)](https://news.ycombinator.com/item?id=25643940)
 - ["How does this software work?" by Adrian Cochrane](https://adrian.geek.nz/docs.html)
 - [Code Review Checklist](https://github.com/mgreiler/code-review-checklist)
+- [Composition is interpretation (2021)](https://ideolalia.com/essays/composition-is-interpretation.html)

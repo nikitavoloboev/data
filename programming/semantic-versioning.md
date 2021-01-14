@@ -11,6 +11,7 @@
 - [Compatible Versioning](https://gitlab.com/staltz/comver)
 - [The Semantics of Semantic Versioning? (2020)](https://whileydave.com/2020/09/24/the-semantics-of-semantic-versioning/) ([Lobsters](https://lobste.rs/s/doow46/semantics_semantic_versioning))
 - [VersioningRight](https://versioningright.com/) - Rabbit hole of research on version numbering.
+- [beachball](https://github.com/microsoft/beachball) - Sunniest Semantic Version Bumper. Run all your npm scripts in topological order incrementally with cloud cache. ([Web](https://microsoft.github.io/beachball/))
 
 ## Images
 

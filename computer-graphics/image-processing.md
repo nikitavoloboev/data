@@ -77,3 +77,4 @@
 - [Ditherpunk — The article I wish I had about monochrome image dithering (2021)](https://surma.dev/things/ditherpunk/) ([HN](https://news.ycombinator.com/item?id=25633483))
 - [Jimp](https://github.com/oliver-moran/jimp) - JavaScript Image Manipulation Program.
 - [Resemble.js](https://github.com/rsmbl/Resemble.js) - Analyze and compare images with JavaScript and HTML5.
+- [Image Analyze Workers](https://github.com/w-okada/image-analyze-workers) - Zoo of image processing Web Workers for JavaScript or TypeScript.

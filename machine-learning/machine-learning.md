@@ -239,7 +239,7 @@
 - [Nicholas Carlini: Making and Measuring Progress in Adversarial Machine Learning (2019)](https://www.youtube.com/watch?v=jD3L6HiH4ls)
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) - Notes and references about deploying deep learning-based models in production.
 - [Stanford Class on Deep Multi-Task and Meta-Learning (2019)](https://cs330.stanford.edu/) ([HN](https://news.ycombinator.com/item?id=23474846))
-- [Weights & Biases](https://github.com/wandb/client) - Tool for visualizing and tracking your machine learning experiments. ([Web](https://www.wandb.com/)) ([Docs](https://docs.wandb.com/))
+- [Weights & Biases](https://wandb.ai/site) - Developer tools for ML. Experiment tracking, hyperparameter optimization, model and dataset versioning. ([Code](https://github.com/wandb/client)) ([Docs](https://docs.wandb.ai/)) ([Examples](https://github.com/wandb/examples))
 - [Protocols and Structures for Inference (PSI) spec](http://psi.cecs.anu.edu.au/spec/) - Aims to develop an architecture for presenting machine learning algorithms, their inputs (data) and outputs (predictors) as resource-oriented RESTful web services.
 - [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
 - [Machine Learning for Everyone - In simple words. With real-world examples.](https://vas3k.com/blog/machine_learning/)
@@ -389,3 +389,7 @@
 - [Deep Learning's Most Important Ideas - A Brief Historical Review (2020)](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
 - [Extending JAX with custom C++ and CUDA code](https://github.com/dfm/extending-jax)
+- [Mathematical Engineering of Deep Learning Course (2021)](https://deeplearningmath.org/)
+- [Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text)
+- [Machine learning with large-scale graphs course](https://snap-stanford.github.io/cs224w-notes/) ([Notes](https://github.com/snap-stanford/cs224w-notes))
+- [Single-Machine Simulation of Federated Learning Systems (2021)](https://flower.dev/blog/2021-01-14-single-machine-simulation-of-federated-learning-systems)

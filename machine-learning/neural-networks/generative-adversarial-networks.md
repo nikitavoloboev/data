@@ -81,3 +81,4 @@
 - [Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks (2018)](https://arxiv.org/abs/1810.02851) ([Code](https://github.com/yaushian/Unparalleled-Text-Summarization-using-GAN))
 - [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://github.com/EvgenyKashin/stylegan2-distillation)
 - [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (2020)](https://arxiv.org/abs/2001.06937)
+- [Adversarial Grammatical Error Correction (2020)](https://arxiv.org/abs/2010.02407)

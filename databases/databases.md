@@ -120,6 +120,7 @@
 - [DatenLord](https://github.com/datenlord/datenlord) - Computing Defined Storage, an application-orientated, cloud-native distributed storage system.
 - [AgateDB](https://github.com/tikv/agatedb) - Embeddable, persistent and fast key-value (KV) database written in pure Rust.
 - [TensorBase](https://github.com/tensorbase/tensorbase) - Modern big data warehouse with performance in its core mind. ([Web](https://tensorbase.io/))
+- [Redwood](https://github.com/brynbellomy/redwood) - Highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
 
 ## Tools
 

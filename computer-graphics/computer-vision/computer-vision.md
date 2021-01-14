@@ -205,3 +205,4 @@
 - [NanoDet](https://github.com/RangiLyu/nanodet) - Super fast and lightweight anchor-free object detection model. Real-time on mobile devices.
 - [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models)
 - [Awesome Vision and Language](https://github.com/sangminwoo/awesome-vision-and-language) - Curated list of awesome vision and language resources.
+- [DropBlock: A regularization method for convolutional networks (2018)](https://arxiv.org/abs/1810.12890v1) ([Code](https://github.com/miguelvr/dropblock))

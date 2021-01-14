@@ -31,3 +31,5 @@
 - [GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS) - Graph algorithms in the language of linear algebra.
 - [GraphBLAS: A linear algebraic approach for portable graph algorithms (2020)](https://zenodo.org/record/4318870)
 - [GEMS Lab](https://gemslab.github.io/) - Graph Exploration and Mining at Scale. ([GitHub](https://github.com/GemsLab))
+- [SNAP](https://github.com/snap-stanford/snap) - Stanford Network Analysis Platform. ([Web](http://snap.stanford.edu/))
+- [DeepSNAP](httpsn://github.com/snap-stanford/deepsnap) - Python library assists deep learning on graphs.

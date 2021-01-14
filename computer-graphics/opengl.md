@@ -15,3 +15,4 @@
 - [Glitter](https://github.com/Polytonic/Glitter) - Dead Simple OpenGL.
 - [Running OpenGL without a GPU – case study (2020)](https://www.youtube.com/watch?v=NbYRNmjxoR8) ([HN](https://news.ycombinator.com/item?id=25684065))
 - [ModernGL](https://github.com/moderngl/moderngl) - Modern OpenGL binding for python.
+- [ANGLE](https://github.com/google/angle) - Almost Native Graphics Layer Engine. Conformant OpenGL ES implementation.

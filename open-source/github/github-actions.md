@@ -82,6 +82,7 @@
 - [Upload files to a GitHub release](https://github.com/svenstaro/upload-release-action)
 - [Playwright GitHub Action](https://github.com/microsoft/playwright-github-action) - Set up GitHub Actions to run cross-browser tests on Chromium, WebKit and Firefox with Playwright.
 - [setup-graalvm](https://github.com/DeLaGuardo/setup-graalvm) - Sets up GraalVM environment for using in GitHub Actions.
+- [GitHub Repo Stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action to periodically inspect a target repository and generate a report for it.
 
 ## Go
 

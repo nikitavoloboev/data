@@ -78,3 +78,4 @@
 - [Ask HN: What low-code “dashboarding“ SaaS would you recommend in 2021?](https://news.ycombinator.com/item?id=25579379)
 - [Datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data. ([Docs](https://datashader.org/))
 - [VisPy](https://github.com/vispy/vispy) - Interactive scientific visualization in Python. ([Web](http://vispy.org/))
+- [ChartSeer](https://github.com/jeffjianzhao/ChartSeer) - Visualization tool that helps analysts steer their exploratory visual analysis (EVA) through dynamic visualization and recommendation of charts.

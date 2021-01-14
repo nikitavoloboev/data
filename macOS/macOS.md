@@ -130,3 +130,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Apple ld64 Linker](https://opensource.apple.com/source/ld64/ld64-136/doc/design/linker.html)
 - [jolk](https://github.com/kendfinger/jolk) - macOS System Executable Analyzer. ([Analyzing a new release of macOS with jolk](https://blog.endfinger.io/apple/macos/technical/jolk/2021/01/10/jolk.html))
 - [MacHack](https://github.com/kendfinger/MacHack) - List of built-in tools in macOS that you probably didn't know about.
+- [Shield](https://github.com/theevilbit/Shield) - App to protect against process injection on macOS. ([Article](https://theevilbit.github.io/shield/))

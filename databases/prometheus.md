@@ -32,3 +32,4 @@
 - [Awesome Prometheus Alerts](https://github.com/samber/awesome-prometheus-alerts)
 - [Understanding Prometheus Range Vectors (2021)](https://satyanash.net/software/2021/01/04/understanding-prometheus-range-vectors.html)
 - [Prometheus Exporter Toolkit](https://github.com/prometheus/exporter-toolkit) - Go library for Prometheus exporters.
+- [Get started with Prometheus with these three easy projects (2021)](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)

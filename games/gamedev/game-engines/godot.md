@@ -20,3 +20,4 @@
 - [Godot Docs](https://docs.godotengine.org/en/stable/)
 - [Godot demo projects](https://github.com/godotengine/godot-demo-projects)
 - [godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot's GDNative and NativeScript APIs.
+- [Godot Improvement Proposals](https://github.com/godotengine/godot-proposals)

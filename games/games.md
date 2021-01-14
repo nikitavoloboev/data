@@ -76,6 +76,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Ordinary Puzzles](https://www.ordinarypuzzles.com/) - Minimalistic puzzle game built using React Native. ([Code](https://github.com/mmazzarolo/ordinary-puzzles-app))
 - [Word Guess](https://j-m-word-guess.herokuapp.com/) - Hangman without the hanging man. ([Code](https://github.com/j-m/word-guess))
 - [osu!](https://github.com/ppy/osu) - Free-to-win rhythm game. ([Web](https://osu.ppy.sh/home))
+- [MoonShot](https://lallassu.itch.io/moonshot) - Written in Go and using its own game engine. ([Code](https://github.com/lallassu/moonshot))
 
 ## Awesome games (other)
 

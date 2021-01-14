@@ -39,3 +39,4 @@
 - [Front End Developer Resources](https://github.com/developer-resources/frontend-development)
 - [Frontend Unicorn](https://www.frontendunicorn.com/) - Learn Front End Development.
 - [Awesome Front End Security](https://github.com/rustcohlnikov/awesome-frontend-security)
+- [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) - Testing your knowledge using real job challenges.

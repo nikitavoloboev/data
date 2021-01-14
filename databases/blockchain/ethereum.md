@@ -146,3 +146,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [3Box](https://3box.io/) - Shared backend for Web3. Easiest way for Ethereum apps to manage user data. ([Code](https://github.com/3box/3box))
 - [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Lets you convert blockchain data into convenient formats like CSVs and relational databases.
 - [Gnosis Safe](https://gnosis-safe.io/) - Most trusted platform to store digital assets on Ethereum. ([Code](https://github.com/gnosis/safe-react))
+- [Eth Proof](https://github.com/zmitton/eth-proof) - Get a merkle-proof from the blockchain. Verify it locally.
+- [The Stateless Ethereum Client Concept](https://ethresear.ch/t/the-stateless-client-concept/172/)
+- [Solidity Bytes Arrays Utils](https://github.com/GNSPS/solidity-bytes-utils) - Bytes tightly packed arrays utility library for ethereum contracts written in Solidity.
+- [Minimal Anti-Collusion Infrastructure](https://github.com/appliedzkp/maci)

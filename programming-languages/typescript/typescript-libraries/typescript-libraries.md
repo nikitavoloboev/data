@@ -86,6 +86,11 @@
 - [logging-ts](https://github.com/gcanti/logging-ts) - Composable loggers for TypeScript.
 - [typescript-is](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 - [typed-query-selector](https://github.com/g-plane/typed-query-selector) - Better typed `querySelector` and `querySelectorAll`.
+- [typeofweb/schema](https://github.com/typeofweb/schema) - Lightweight and extensible library for data validation with full support for TypeScript.
+- [Typical](https://github.com/KiaraGrouwstra/typical) - Playground for type-level primitives in TypeScript.
+- [typelevel-ts](https://github.com/gcanti/typelevel-ts) - Type level programming in TypeScript.
+- [Type Zoo](https://github.com/pelotom/type-zoo) - Menagerie of useful type operators for TypeScript.
+- [REST Services for Typescript](https://github.com/thiagobustamante/typescript-rest) - Lightweight annotation-based expressjs extension for typescript.
 
 ## Links
 

@@ -73,3 +73,4 @@
 - [Niex](https://github.com/jonklein/niex) - Interactive Elixir code notebook built with Phoenix LiveView. ([HN](https://news.ycombinator.com/item?id=25563935))
 - [Learning Elixir's `GenServer` with a real-world example (2020)](https://papercups.io/blog/genserver)
 - [Elixir for Beginners: From Pipes to Pattern Matching and Beyond (2021)](https://serokell.io/blog/elixir-for-beginners)
+- [10 years-ish of Elixir (2021)](https://dashbit.co/blog/ten-years-ish-of-elixir) ([HN](https://news.ycombinator.com/item?id=25776525))

@@ -73,3 +73,4 @@
 - [esbuild-svelte](https://github.com/EMH333/esbuild-svelte) - Plugin to compile svelte components for bundling with esbuild.
 - [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)
 - [Svelte DND Action](https://github.com/isaacHagoel/svelte-dnd-action) - Action based drag and drop container for Svelte.
+- [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components.

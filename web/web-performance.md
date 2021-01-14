@@ -117,3 +117,4 @@
 - [Measuring page performance with Puppeteer & Playwright](https://theheadless.dev/posts/basics-performance/)
 - [Third-Party Web](https://www.thirdpartyweb.today/) - Data on third party entities and their impact on the web. ([Code](https://github.com/patrickhulce/third-party-web))
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
+- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)

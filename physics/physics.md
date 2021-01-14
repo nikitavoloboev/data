@@ -164,3 +164,7 @@
 - [Well, Actually – Physics Answers](http://backreaction.blogspot.com/2020/12/well-actually-10-physics-answers.html) ([HN](https://news.ycombinator.com/item?id=25588888))
 - [Heat Capacity and the Speed of Sound (2020)](https://www.daniellowengrub.com/blog/2020/12/19/heat-capacity-sound)
 - [Britney Spears' Guide to Semiconductor Physics](http://britneyspears.ac/lasers.htm) ([HN](https://news.ycombinator.com/item?id=25626532))
+- [PhysURLs](https://physurls.com/) - Physics news aggregator.
+- [The Physics Hub](https://physicshub.herokuapp.com/) - One place to view all the simulations in physics.
+- [Quanta Magazine: Physics](https://www.quantamagazine.org/physics/)
+- [ParticleBites](https://www.particlebites.com/) - High energy physics reader's digest.

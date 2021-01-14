@@ -246,3 +246,5 @@
 - [Modern Python Environments - dependency and workspace management (2020)](https://testdriven.io/blog/python-environments/)
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills by Peter Norvig.
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns (2020)](https://camillovisini.com/article/abstracting-fastapi-services/)
+- [Tracing and visualizing the Python GIL with perf and VizTracer (2021)](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html)
+- [Best of Python](https://github.com/ml-tooling/best-of-python) - Ranked list of awesome Python open-source libraries & tools.

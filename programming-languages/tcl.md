@@ -11,3 +11,4 @@
 - [Calling NumPy from Tcl (2020)](https://wiki.tcl-lang.org/page/Experimenting+with+numPy)
 - [Tcler's Wiki](https://wiki.tcl-lang.org/welcome)
 - [Wapp](https://wapp.tcl.tk/home/doc/trunk/README.md) - Web-Application Framework for TCL.
+- [History of Tcl](https://web.stanford.edu/~ouster/cgi-bin/tclHistory.php) ([HN](https://news.ycombinator.com/item?id=25779347))

@@ -31,3 +31,4 @@
 - [Sketchfab Blender Addon](https://github.com/sketchfab/blender-plugin) - Directly import and export models from and to Sketchfab in Blender.
 - [Nice python scripts and add-ons for Blender](https://github.com/Tlousky/blender_scripts)
 - [DreamUV](https://github.com/leukbaars/DreamUV) - Collection of tools that allow you to manipulate UVs in the 3D viewport.
+- [Vertex Color Master for Blender](https://github.com/andyp123/blender_vertex_color_master) - Add-on for Blender that adds numerous features to assist working with vertex colors.

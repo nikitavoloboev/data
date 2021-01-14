@@ -25,6 +25,7 @@
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.
 - [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Website](https://nestjs.com/)) ([Awesome](https://github.com/juliandavidmr/awesome-nestjs))
+- [Nest CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications.
 - [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
 - [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs)
 - [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.
@@ -173,3 +174,4 @@
 - [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for NodeJS microservices.
 - [Amplication](https://github.com/amplication/amplication) - Instantly Generate Node.js Apps with GraphQL and REST API. ([Web](https://app.amplication.com/)) ([HN](https://news.ycombinator.com/item?id=25749492))
 - [canarist](https://github.com/xing/canarist) - Like npm link, but for workspaces / monorepos.
+- [Concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.

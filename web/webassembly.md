@@ -126,3 +126,4 @@
 - [Wizer](https://github.com/bytecodealliance/wizer) - WebAssembly Pre-Initializer.
 - [Hosting WebAssembly in Swift (2021)](http://www.alwaysrightinstitute.com//swifty-wasmer/)
 - [Rust and WebAssembly Book](https://rustwasm.github.io/docs/book/) - Small book describes how to use Rust and WebAssembly together. ([Code](https://github.com/rustwasm/book))
+- [Property-Based Testing of WebAssembly](https://github.com/jmid/wasm-prop-tester) - Implements a stack-driven generator of arbitrary WebAssembly programs.

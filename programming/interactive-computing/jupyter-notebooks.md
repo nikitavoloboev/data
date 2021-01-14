@@ -17,6 +17,8 @@
 - [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - Cookiecutter template for creating a JupyterLab extension in TypeScript with optionally a Python server extension.
 - [GitPlus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests.
 - [Elyra](https://github.com/elyra-ai/elyra) - Set of AI-centric extensions to JupyterLab Notebooks. ([Docs](https://elyra.readthedocs.io/))
+- [jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - JupyterLab extension for standalone integration of drawio / mxgraph into jupyterlab.
+- [pigeon](https://github.com/agermanidis/pigeon) - Quickly annotate data on Jupyter.
 
 ## Links
 
@@ -96,3 +98,4 @@
 - [JupyterLab Extension written in Rust and compiled to WebAssembly](https://github.com/jtpio/jupyterlab-wasm-example)
 - [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter)
 - [Jupyter Notebooks covering various subjects](https://github.com/Naereen/notebooks)
+- [lolviz](https://github.com/parrt/lolviz) - Simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations.

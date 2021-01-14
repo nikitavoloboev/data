@@ -103,6 +103,7 @@
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
+- [GitLab Node](https://github.com/jdalrymple/gitbeaker) - GitLab API NodeJS library with full support of all the Gitlab API services.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
 - [GitLab Go 2](https://github.com/profclems/glab)
 - [GCP Haskell](https://github.com/brendanhay/gogol) - Comprehensive Google Services SDK for Haskell.
@@ -194,3 +195,4 @@
 - [What's good about offset pagination; designing parallel cursor-based web APIs](https://brandur.org/fragments/offset-pagination) ([HN](https://news.ycombinator.com/item?id=25623125))
 - [The API Book](https://twirl.github.io/The-API-Book/docs/API.en.html) ([Code](https://github.com/twirl/The-API-Book))
 - [API-Less Architecture](https://github.com/apilessdev/apiless)
+- [Mocker API](https://github.com/jaywcjlove/mocker-api) - Creates mocks for REST APIs. It will be helpful when you try to test your application without the actual REST API server.

@@ -91,3 +91,4 @@
 - [Floodgate](https://floodgate.com/) - Backs the top .1% founders.
 - [How to raise a seed round (2020)](https://twitter.com/yoheinakajima/status/1340774204019359744)
 - [Open Collective](https://opencollective.com/) - Make your community sustainable. Collect and spend money transparently. ([Issues](https://github.com/opencollective/opencollective))
+- [Investor Pitch Training](https://www.basetemplates.com/investor-pitch-training) - Nail your next investor pitch! Just answer the questions for yourself.

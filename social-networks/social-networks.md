@@ -86,3 +86,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Ask HN: Who is working on fully decentralized social networking? (2021)](https://news.ycombinator.com/item?id=25730485)
 - [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/) ([HN](https://news.ycombinator.com/item?id=25731419))
 - [Myrme](https://getmyrme.com/) - Prosocial network. ([Article](https://www.spakhm.com/p/a-prosocial-social-network))
+- [Martin Kleppman: Decentralized content moderation (2021)](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)

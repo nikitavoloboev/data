@@ -116,6 +116,7 @@ Below is a list of extensions I use.
 - [VSpaceCode](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.vspacecode) - Spacemacs' like keybindings. ([Code](https://github.com/VSpaceCode/VSpacecode))
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support, with built-in Kubernetes syntax support. ([Code](https://github.com/redhat-developer/vscode-yaml))
 - [Wardley Maps](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Display and edit Wardley Maps. ([Code](https://github.com/damonsk/vscode-wardley-maps)) ([Tweet](https://twitter.com/owardleymaps/status/1321215623813357568))
+- [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) ([Code](https://github.com/vscode-icons/vscode-icons))
 
 ## Shell
 
@@ -330,6 +331,10 @@ Below is a list of extensions I use.
 ## Agda
 
 - [Agda Mode](https://marketplace.visualstudio.com/items?itemName=banacorn.agda-mode) ([Code](https://github.com/banacorn/agda-mode-vscode))
+
+## Idris
+
+- [Idris VSCode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code.
 
 ## Fun
 

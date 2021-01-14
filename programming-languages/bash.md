@@ -60,3 +60,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Batsh](https://batsh.org/) - Language that compiles to Bash and Windows Batch. ([Code](https://github.com/batsh-dev-team/Batsh))
 - [Bash HTTP monitoring dashboard](https://raymii.org/s/software/Bash_HTTP_Monitoring_Dashboard.html)
 - [Parallel bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
+- [Learn Bash in 27 minutes](https://github.com/pforret/LearnBashQuickly)

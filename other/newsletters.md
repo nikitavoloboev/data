@@ -47,3 +47,4 @@
 - [Newsletter Spy](https://newsletterspy.io/) - Database of 20,000+ Substack newsletters.
 - [Newsletter Crew](https://newslettercrew.com/) - Podcast, blog, and community for newsletter creators.
 - [NewsletterOS](https://newsletteros.com/) - Master the art of creating & running a newsletter.
+- [Dawn](https://github.com/TryGhost/Dawn) - Minimal newsletter theme for Ghost.

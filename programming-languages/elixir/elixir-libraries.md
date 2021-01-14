@@ -36,6 +36,8 @@
 - [Scientist](https://github.com/cwbriones/scientist) - Library for carefully refactoring critical paths in your elixir application.
 - [libgraph](https://github.com/bitwalker/libgraph) - Graph data structure library for Elixir projects.
 - [GenStage](https://github.com/elixir-lang/gen_stage) - Producer and consumer actors with back-pressure for Elixir.
+- [Elixir RakNet](https://github.com/X-Plane/elixir-raknet) - Elixir implementation of the RakNet/RakLib networking communication protocol.
+- [CI](https://github.com/sasa1977/ci) - CI/CD toolkit as an Elixir library.
 
 ## Links
 
