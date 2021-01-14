@@ -290,7 +290,8 @@
 - [Time Series Distances](https://github.com/wannesm/dtaidistance) - Library for time series distances (e.g. Dynamic Time Warping).
 - [pyamgx](https://github.com/shwina/pyamgx) - Python interface to NVIDIA's AMGX library.
 - [Finite State Machine](https://github.com/alysivji/finite-state-machine) - Lightweight, decorator-based Python implementation of a Finite State Machine.
-- [Spatial Maths](https://github.com/petercorke/spatialmath-python) - Create, manipulate and convert representations of position and orientation in 2D or 3D using Python.
+- [Spatial Math](https://github.com/petercorke/spatialmath-python) - Create, manipulate and convert representations of position and orientation in 2D or 3D using Python.
+- [Fugue](https://github.com/fugue-project/fugue) - Abstraction layer for distributed computation.
 
 ## Links
 

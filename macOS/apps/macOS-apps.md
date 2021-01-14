@@ -82,6 +82,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [ImageOptim](https://imageoptim.com/mac) - GUI image optimizer for Mac. ([Code](https://github.com/ImageOptim/ImageOptim))
 - [Pika](https://github.com/superhighfives/pika) - Open-source colour picker app for macOS. ([Web](https://superhighfives.com/pika))
 - [Syncthing macOS](https://github.com/syncthing/syncthing-macos) - Native macOS Syncthing tray application bundle.
+- [FSNotes](https://github.com/glushchenko/fsnotes) - Modern notes manager for macOS and iOS. ([Web](https://fsnot.es/))
 
 ## Other interesting apps
 

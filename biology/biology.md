@@ -51,3 +51,4 @@
 - [Biochemical Pathways](https://www.roche.com/sustainability/philanthropy/science_education/pathways.htm) - Provide an overview of the chemical reactions of cells in various species and organs.
 - [Dr. Najeeb Medical Lectures](https://www.drnajeeblectures.com/)
 - [Fungi’s Lessons for Adapting to Life on a Damaged Planet (2020)](https://lithub.com/fungis-lessons-for-adapting-to-life-on-a-damaged-planet/)
+- [Handbook of Biological Statistics](http://www.biostathandbook.com/)

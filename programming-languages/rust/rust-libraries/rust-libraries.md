@@ -166,6 +166,7 @@
 ## Crypto
 
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
+- [Spartan](https://github.com/microsoft/Spartan) - High-speed zkSNARKs without trusted setup.
 - [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
 - [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order). ([HN](https://news.ycombinator.com/item?id=25434349))
 - [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
