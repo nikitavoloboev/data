@@ -26,4 +26,4 @@
 - [Wireguard Bounce Server](https://gitlab.com/ncmncm/wireguard-bounce-server/) ([HN](https://news.ycombinator.com/item?id=25447805))
 - [IPv6 WireGuard Peering (2020)](https://fly.io/blog/ipv6-wireguard-peering/) ([HN](https://news.ycombinator.com/item?id=25513828))
 - [wireguard-manager](https://github.com/edomora97/wireguard-manager) - Build and manage a network of servers that provides a distributed VPN using wireguard.
-- [WireGuard: great protocol, but skip the Mac app (2020)](https://rachelbythebay.com/w/2020/12/24/wg/) ([HN](https://news.ycombinator.com/item?id=25533263)) ([Lobsters](https://lobste.rs/s/ns7pdp/wireguard_great_protocol_skip_mac_app)) ([Response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html))
+- [WireGuard: great protocol, but skip the Mac app (2020)](https://rachelbythebay.com/w/2020/12/24/wg/) ([Lobsters](https://lobste.rs/s/ns7pdp/wireguard_great_protocol_skip_mac_app)) ([Response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html)) ([HN](https://news.ycombinator.com/item?id=25533263)) ([HN 2](https://news.ycombinator.com/item?id=25759477))

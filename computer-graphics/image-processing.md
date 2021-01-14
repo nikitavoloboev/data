@@ -59,6 +59,7 @@
 - [Programmable In-Memory Image Processing Accelerator Using Near-Bank Architecture (2020)](https://miglopst.github.io/files/gu_isca2020.pdf) ([HN](https://news.ycombinator.com/item?id=24905827))
 - [High throughput JPEG decoder in Verilog for FPGA](https://github.com/ultraembedded/core_jpeg)
 - [Dezoomify](https://dezoomify.ophir.dev/dezoomify/dezoomify.html) - Extracts full high-resolution images from online zoomable image interfaces. ([Code](https://github.com/lovasoa/dezoomify))
+- [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Tiled image downloader.
 - [libwebp (WebP codec)](https://github.com/webmproject/libwebp) - Library to encode and decode images in WebP format.
 - [WebM](https://www.webmproject.org/) - High-quality, open video format for the web that's freely available to everyone. ([GitHub](https://github.com/webmproject))
 - [Odiff](https://github.com/dmtrKovalenko/odiff) - Fastest in the world pixel-by-pixel image difference tool.

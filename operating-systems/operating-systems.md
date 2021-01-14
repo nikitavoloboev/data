@@ -181,3 +181,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Vulnerable Kext](https://github.com/ant4g0nist/Vulnerable-Kext) - WIP "Vulnerable by Design" kext for iOS/macOS to play & learn OS kernel exploitation. ([Web](https://fuzzing.science/vulnerable-kext/))
 - [RVM 1.5](https://github.com/rcore-os/RVM1.5) - Type-1.5 hypervisor written in Rust.
 - [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program, normally /sbin/init.
+- [Examples of OS / system limits](https://github.com/lorin/awesome-limits)

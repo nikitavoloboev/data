@@ -37,3 +37,4 @@
 - [Building a computer in Conway's game of life (2020)](https://www.nicolasloizeau.com/gol-computer) ([HN](https://news.ycombinator.com/item?id=24831268))
 - [Cellular Automaton in Haskell (I). Conway's Game of Life](https://herebeseaswines.net/essays/2020-10-22-conways-game-of-life-in-haskell)
 - [Cellular Christmas Tree (2018)](https://dodisturb.me/posts/2018-01-28-Cellular-Christmas-Tree.html)
+- [Simulating Fluid Dynamics with Cellular Automata (1986)](https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automaton-fluids-theory.pdf) ([HN](https://news.ycombinator.com/item?id=25756813))
