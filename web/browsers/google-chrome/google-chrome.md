@@ -16,6 +16,7 @@ And here are Chrome extensions I use:
 - [Some chrome extensions to use](https://news.ycombinator.com/item?id=15696056)
 - [Rendertron](https://github.com/GoogleChrome/rendertron) - Headless Chrome rendering solution.
 - [Chrome Launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
+- [Chrome Flags for Tooling](https://github.com/GoogleChrome/chrome-launcher/blob/master/docs/chrome-flags-for-tools.md)
 - [HN: Extensions to manage tabs (2020)](https://news.ycombinator.com/item?id=22841708)
 - [Build a Chrome Extension in React (2020)](https://www.youtube.com/watch?v=4x0lQu1TOCQ)
 - [HitchHiker](https://toddwords.com/hitchhiker/) - Chrome extension for doing live performances inside other people’s web browsers.

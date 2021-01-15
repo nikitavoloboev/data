@@ -55,3 +55,4 @@
 - [Bitnami Library for Kubernetes](https://github.com/bitnami/charts)
 - [Kira](https://github.com/wemake-services/kira) - Project management framework with deep philosophy underneath.
 - [Site Reliability Engineer Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
+- [fastlane](https://fastlane.tools/) - App automation done right. ([Code](https://github.com/fastlane/fastlane))

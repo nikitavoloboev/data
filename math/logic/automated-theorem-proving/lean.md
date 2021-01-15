@@ -29,3 +29,4 @@
 - [Lean Together 2021](https://leanprover-community.github.io/lt2021/) - Meeting for Lean users and other formalizers. ([Code](https://github.com/leanprover-community/lt2021))
 - [Advent of Code 2020 puzzles in Lean 4](https://github.com/rwbarton/advent-of-lean-4)
 - [Schemes in Lean (2021)](https://arxiv.org/abs/2101.02602)
+- [Quantum Computing in Lean](https://github.com/duckki/lean-quantum) - Formalized quantum computing in Lean theorem prover.

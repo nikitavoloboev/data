@@ -71,3 +71,4 @@
 - [DNS Key Value Storage](https://dnskv.com/) ([HN](https://news.ycombinator.com/item?id=25620411))
 - [DNS-LG](http://www.dns-lg.com/) - REST API allowing to perform DNS queries over HTTP from multiple locations worldwide. ([CLI](https://github.com/mxssl/dns))
 - [A Name Resolver for the Distributed Web (2021)](https://blog.cloudflare.com/cloudflare-distributed-web-resolver/)
+- [Dns.Watch](https://dns.watch/) - Public DNS Servers. ([HN](https://news.ycombinator.com/item?id=25792345))

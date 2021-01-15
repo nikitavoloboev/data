@@ -185,3 +185,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Relnotes](https://github.com/EmbarkStudios/relnotes) - Automatic GitHub Release Notes.
 - [Only Sponsors](https://onlysponsors.dev/) - Platform to hide content behind GitHub Sponsors.
 - [Badgen](https://badgen.net/) - Fast badge generating service. ([Code](https://github.com/badgen/badgen))
+- [Renaming the default branch on GitHub](https://github.com/github/renaming)

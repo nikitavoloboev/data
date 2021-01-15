@@ -104,3 +104,4 @@
 - [Session Protocol: Technical implementation details (2020)](https://getsession.org/session-protocol-technical-information/) ([HN](https://news.ycombinator.com/item?id=25690036))
 - [Streaming Merkle Proofs in Binary Numeral Trees (2021)](https://eprint.iacr.org/2021/038)
 - [Mercurial Signatures](https://github.com/burkh4rt/Mercurial-Signatures)
+- [Crypto Dictionary Book](https://nostarch.com/crypto-dictionary) ([Code](https://github.com/cryptodictionary/newstuff))

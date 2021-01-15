@@ -11,7 +11,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Play variations of chess games](https://pippinbarr.github.io/chesses/)
 - [Pauli chess](https://blog.plover.com/games/double-chess.html) ([HN](https://news.ycombinator.com/item?id=22709850))
 - [Chess With Friends](https://rootshirechess.glitch.me/) - Play chess and video chat with your friends at the same time, no login required. ([HN](https://news.ycombinator.com/item?id=22790728))
-- [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/)
+- [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/) ([Code](https://github.com/zserge/carnatus))
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - Strong open source chess engine. ([Web](https://stockfishchess.org/)) ([macOS app](https://github.com/daylen/stockfish-mac)) ([Changelog](https://abrok.eu/stockfish/)) ([Stockfish 12 on Lichess](https://lichess.org/blog/X9uXyxUAANCqN1OF/stockfish-12-on-lichess))
 - [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
 - [What is 5D chess? (2020)](https://en.chessbase.com/post/what-on-earth-is-5d-chess) ([HN](https://news.ycombinator.com/item?id=24054313))
@@ -47,7 +47,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Building My Own Chess Engine (2020)](https://healeycodes.com/building-my-own-chess-engine/) ([Lobsters](https://lobste.rs/s/6z2fqa/building_my_own_chess_engine)) ([HN](https://news.ycombinator.com/item?id=25516430))
 - [Apple's chess engine code](https://opensource.apple.com/source/Chess/) ([Reddit](https://www.reddit.com/r/apple/comments/kjakan/til_apple_open_sourced_their_chess_engine/))
 - [Sjeng](https://www.sjeng.org/indexold.html) - Chess-and-variants playing program.
-- [Daniel Naroditsky's Speed Runs](https://www.youtube.com/watch?v=HiCeU8tIh0U&list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit)
+- [Daniel Naroditsky's Speed Runs](https://www.youtube.com/playlist?list=PLT1F2nOxLHOcmi_qi1BbY6axf5xLFEcit)
 - [Blindfold chess training (2020)](https://www.youtube.com/watch?v=Sjj32JpdBD8)
 - [lichess puzzler](https://github.com/ornicar/lichess-puzzler) - Use stockfish and database.lichess.org to produce puzzle candidates.
 - [ChessBase](https://database.chessbase.com/) - Chess database with eight million games. Openings, players, tournaments.

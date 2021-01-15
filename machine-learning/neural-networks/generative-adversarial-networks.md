@@ -82,3 +82,4 @@
 - [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://github.com/EvgenyKashin/stylegan2-distillation)
 - [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (2020)](https://arxiv.org/abs/2001.06937)
 - [Adversarial Grammatical Error Correction (2020)](https://arxiv.org/abs/2010.02407)
+- [You Only Need Adversarial Supervision for Semantic Image Synthesis (2020)](https://arxiv.org/abs/2012.04781) ([Code](https://github.com/boschresearch/OASIS))

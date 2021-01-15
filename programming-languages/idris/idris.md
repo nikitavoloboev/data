@@ -39,3 +39,4 @@
 - [Idrall](https://github.com/alexhumphreys/idrall) - Dhall bindings for Idris.
 - [What Is A Package Set (2020)](https://alexhumphreys.github.io/2020/12/03/what-is-a-package-set.html)
 - [idris-ide-client](https://github.com/meraymond2/idris-ide-client) - TypeScript library for communicating with an Idris IDE process.
+- [Interacting with Idris from Racket](https://github.com/david-christiansen/idris-interaction.rkt) - Racket library for interacting with Idris over the IDE protocol.

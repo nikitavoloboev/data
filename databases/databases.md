@@ -121,6 +121,8 @@
 - [AgateDB](https://github.com/tikv/agatedb) - Embeddable, persistent and fast key-value (KV) database written in pure Rust.
 - [TensorBase](https://github.com/tensorbase/tensorbase) - Modern big data warehouse with performance in its core mind. ([Web](https://tensorbase.io/))
 - [Redwood](https://github.com/brynbellomy/redwood) - Highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
+- [Drivine](https://drivine.org/) - Best and fastest graph database client (Neo4j & AgensGraph) for Node.js & TypeScript. ([Code](https://github.com/liberation-data/drivine)) ([Starter Template](https://github.com/liberation-data/drivine-inspiration))
+- [InfiniCache](https://github.com/mason-leap-lab/infinicache) - In-memory cache that is built atop ephemeral serverless functions. ([HN](https://news.ycombinator.com/item?id=25788893))
 
 ## Tools
 
@@ -284,3 +286,4 @@
 - [A shared database is still an anti-pattern, no matter what the justification (2013)](https://www.ben-morris.com/a-shared-database-is-still-an-anti-pattern-no-matter-what-the-justification/) ([Tweet](https://twitter.com/ColinLeMahieu/status/1344293170159505408))
 - [Your legacy database is outgrowing itself (2021)](https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/) ([HN](https://news.ycombinator.com/item?id=25730778))
 - [An unlikely database migration (2021)](https://tailscale.com/blog/an-unlikely-database-migration/) ([HN](https://news.ycombinator.com/item?id=25767128))
+- [Kalavar](https://kalavar.cf/) - Project attempting to bring a fast, efficient, secure, and asynchronous query model to the modern database system. ([GitHub](https://github.com/KalavarDB))

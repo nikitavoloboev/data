@@ -165,6 +165,7 @@
 - [libpy](https://github.com/quantopian/libpy) - Library to help you write amazing Python extensions in C++.
 - [cppcoro](https://github.com/andreasbuhr/cppcoro) - Library of C++ coroutine abstractions for the coroutines TS.
 - [DynaMix (Dynamic Mixins)](https://github.com/iboB/dynamix) - New take on polymorphism. It lets the user compose and modify polymorphic objects at run time in C++.
+- [maths](https://github.com/polymonster/maths) - Linear algebra library with vector swizzling, intersection tests and useful functions for games and graphics dev.
 
 ## Links
 

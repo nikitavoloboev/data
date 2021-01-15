@@ -12,7 +12,7 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that [wastes 
 - [Libra](libra.md)
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
-- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency.
+- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency. ([Mastering Monero](https://masteringmonero.com/))
 - [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
 - [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
 
@@ -58,3 +58,4 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that [wastes 
 - [Bitcoin, Blockchain, and Cryptocurrency for Investment Professionals (2021)](https://www.cfainstitute.org/-/media/documents/article/rf-brief/rfbr-cryptoassets.ashx)
 - [Why we need wide adoption of social recovery wallets (2021)](https://vitalik.ca/general/2021/01/11/recovery.html) ([HN](https://news.ycombinator.com/item?id=25722131))
 - [What is Stablecoin? (2021)](https://medium.com/fleta-first-chain/what-is-stablecoin-a557e38da74)
+- [The Bit Short: Inside Crypto’s Doomsday Machine (2021)](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) ([HN](https://news.ycombinator.com/item?id=25788409))

@@ -643,6 +643,11 @@
 - [num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust.
 - [mlua](https://github.com/khvzak/mlua) - High level Lua bindings to Rust with async/await support..
 - [victoria-dom](https://github.com/khvzak/victoria-dom) - Minimalistic HTML parser with CSS selectors.
+- [MultiQueue2](https://github.com/abbychau/multiqueue2) - Fast MPMC Broadcast Queue.
+- [Linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans.
+- [hold_my_beer](https://github.com/Jake-Shadle/hold_my_beer) - Don't let unsafe get you down.
+- [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) - Sandboxing library for Rust.
+- [etcd-client](https://github.com/etcdv3/etcd-client) - etcd v3 API client for Rust. It provides asynchronous client backed by tokio and tonic.
 
 ## Cargo Plugins
 
@@ -667,6 +672,7 @@
 - [cargo xtask](https://github.com/matklad/cargo-xtask) - Way to add free-form automation to a Rust project, a-la make, npm run or bespoke bash scripts.
 - [cargo-binutils](https://github.com/rust-embedded/cargo-binutils) - Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain.
 - [cargo-embed](https://github.com/probe-rs/cargo-embed) - Cargo extension for working with microcontrollers.
+- [cargo makedocs](https://github.com/Bunogi/cargo-makedocs) - Cargo subcommand to build documentation for development easier.
 
 ## Links
 

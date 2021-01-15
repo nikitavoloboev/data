@@ -53,3 +53,6 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
 - [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
 - [lmt](https://github.com/driusan/lmt) - Literate markdown tangle.
+- [Markdown to Google Doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive.
+- [remark-vdom](https://github.com/remarkjs/remark-vdom) - Plugin to compile Markdown to Virtual DOM.
+- [remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs))

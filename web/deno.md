@@ -64,3 +64,4 @@
 - [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - Port of puppeteer running on Deno.
 - [The Deno Tag (2021)](https://hugodaniel.com/posts/introducing-deno-tag/) ([Lobsters](https://lobste.rs/s/kxvskq/introducing_deno_tag))
 - [lexy](https://github.com/littledivy/lexy) - Fast & Non-regex based lexical analysis for Deno.
+- [Deno in 2020](https://deno.land/posts/deno-in-2020)

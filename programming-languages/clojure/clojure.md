@@ -109,3 +109,4 @@
 - [Clojure: Dark Cider (2020)](https://www.youtube.com/watch?v=IvTDzKVL58Y)
 - [Setup tests with Cider & deps.edn in 5 steps (2021)](https://thomas-sojka.tech/setup-tests-with-cider-and-depsedn-in-5-steps.html)
 - [REPL Driven Development, Clojure's Superpower (2021)](https://www.youtube.com/watch?v=gIoadGfm5T8)
+- [Clojure Rust GraalVM](https://github.com/borkdude/clojure-rust-graalvm) - Example of Clojure program calling a Rust library, all combined into one executable using GraalVM.

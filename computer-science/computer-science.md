@@ -103,3 +103,4 @@
 - [Stanford Computer Science](https://cs.stanford.edu/)
 - [Computer Science Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 - [Introduction to Computing: Explorations in Language, Logic, and Machines](http://computingbook.org/)
+- [Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) ([HN](https://news.ycombinator.com/item?id=25753166))

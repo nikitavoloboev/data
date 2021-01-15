@@ -63,3 +63,4 @@
 - [Roam Research Plugins list (2020)](https://twitter.com/wirtzdan/status/1334976199253237762)
 - [Application of Graph Theory to Roam link network (2020)](https://org-roam.discourse.group/t/application-of-graph-theory-to-roam-link-network/61)
 - [Datalog Queries for Roam Research (2020)](https://davidbieber.com/snippets/2020-12-22-datalog-queries-for-roam-research/)
+- [Better Roam Research](https://github.com/linuz90/better-roam-research) - Minimal theme for Roam Research with system-level Dark Mode support. ([Web](https://fabriziorinaldi.com/better-roam-research/))

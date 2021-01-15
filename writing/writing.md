@@ -213,3 +213,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list) - Small but formidable list of technical writing resources for software developers.
 - [What Writers and Editors Do (2021)](https://www.theparisreview.org/blog/2021/01/05/what-writers-and-editors-do/) ([HN](https://news.ycombinator.com/item?id=25681037))
 - [Writing tips](https://thomasorus.com/writing-tips.html)
+- [English Style Guide](https://github.com/raywenderlich/english-style-guide)

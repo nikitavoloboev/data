@@ -110,3 +110,4 @@
 - [Finiteness in Cubical Type Theory (2020)](https://oisdk.github.io/masters-thesis/paper.pdf) ([Code](https://github.com/oisdk/masters-thesis))
 - [Homemade Bidirectional Typing](https://github.com/samuela/bidirectional-typing)
 - [BiRelCost](https://github.com/ezgicicek/BiRelCost) - Bidirectional Type Checking for Relational Properties.
+- [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.co.uk/create-your-own-programming-language/intro-to-type-checking/)

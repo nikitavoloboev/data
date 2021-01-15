@@ -61,3 +61,5 @@ If analytics are used, it's best to implement them server side with something li
 - [Ask HN: How to run analytics on data without access to the data? (2020)](https://news.ycombinator.com/item?id=25429749)
 - [Analytics Zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray.
 - [How I replaced google analytics on my website (2020)](https://tnickel.de/2020/12/24/2020-12-How-I-replaced-google-analytics-on-my-website/)
+- [Datadog](https://www.datadoghq.com/) - Cloud Monitoring as a Service. ([GitHub](https://github.com/DataDog))
+- [Datadog Agent](https://github.com/DataDog/datadog-agent)

@@ -120,3 +120,4 @@
 - [Learn C](https://www.learn-c.org/) - Free Interactive C Tutorial.
 - [Why mmap is faster than system calls (2019)](https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37) ([HN](https://news.ycombinator.com/item?id=25701959))
 - [CxGo](https://github.com/gotranspile/cxgo) - Tool for translating C source code to Go.
+- [Wanager](https://github.com/Wafelack/wng) - Package manager and project manager for the C & C++ programming languages.

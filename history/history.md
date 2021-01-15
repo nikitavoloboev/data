@@ -84,3 +84,4 @@
 - [The 100 Year Computer (2020)](https://thedorkweb.substack.com/p/the-100-year-computer) ([Lobsters](https://lobste.rs/s/feaa3d/100_year_computer))
 - [Historical facts I consistently forget (2020)](https://milan.cvitkovic.net/writing/historical_facts/)
 - [WTF Happened In 1971?](https://wtfhappenedin1971.com/) ([HN](https://news.ycombinator.com/item?id=25188457))
+- [Jonathan Blow - Preventing the Collapse of Civilization (2019)](https://www.youtube.com/watch?v=pW-SOdj4Kkk) ([HN](https://news.ycombinator.com/item?id=25788317))

@@ -83,6 +83,7 @@
 - [Playwright GitHub Action](https://github.com/microsoft/playwright-github-action) - Set up GitHub Actions to run cross-browser tests on Chromium, WebKit and Firefox with Playwright.
 - [setup-graalvm](https://github.com/DeLaGuardo/setup-graalvm) - Sets up GraalVM environment for using in GitHub Actions.
 - [GitHub Repo Stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action to periodically inspect a target repository and generate a report for it.
+- [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) - Synchronize your GitHub labels with as few destructive operations as possible.
 
 ## Go
 
@@ -130,6 +131,7 @@
 
 - [build-push-action](https://github.com/docker/build-push-action) - Builds and pushes Docker images and will log in to a Docker registry if required.
 - [Code for all Docker's github actions](https://github.com/docker/github-actions)
+- [setup-kind](https://github.com/engineerd/setup-kind) - Setup KinD (Kubernetes in Docker) with a single GitHub Action.
 
 ## Nix
 
@@ -211,3 +213,4 @@
 - [cdkactions](https://github.com/ArmaanT/cdkactions) - CDK for GitHub Actions.
 - [Terraform module for scalable self hosted GitHub action runners](https://github.com/philips-labs/terraform-aws-github-runner)
 - [Go crazy with GitHub Actions (2021)](https://sanderknape.com/2021/01/go-crazy-github-actions/)
+- [Arduino GitHub Actions](https://github.com/arduino/actions)

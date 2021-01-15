@@ -107,3 +107,4 @@ All active variables can be seen by running `env`.
 - [atom](https://github.com/adam-mcdaniel/atom) - Shell scripting that will knock your socks off.
 - [sh](https://github.com/mvdan/sh) - Shell parser, formatter, and interpreter with bash support; includes shfmt.
 - [Compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
+- [The terminal, the console and the shell - what are they? (2021)](https://www.unixsheikh.com/articles/the-terminal-the-console-and-the-shell-what-are-they.html)

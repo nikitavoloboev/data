@@ -398,3 +398,4 @@
 - [Rust is now overall faster than C in benchmarks (2021)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html) ([HN](https://news.ycombinator.com/item?id=25623634))
 - [The Rust module system for Python users (2021)](https://blog.waleedkhan.name/rust-modules-for-python-users/)
 - [GCC Rust](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust. ([Web](https://rust-gcc.github.io/)) ([HN](https://news.ycombinator.com/item?id=25715431))
+- [Oxide: The Essence of Rust](https://aaronweiss.us/pubs/draft20-oxide.pdf) ([Code](https://github.com/aatxe/oxide))

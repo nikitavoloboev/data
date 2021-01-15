@@ -432,3 +432,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
 - [Library of Babel](https://libraryofbabel.info/) - Project towards a universal library.
 - [DevDojo](https://devdojo.com/) - Dev Community.
+- [Listen to Wikipedia](http://listen.hatnote.com/) - Live, generative music from Wikipedia edits. ([Code](https://github.com/hatnote/listen-to-wikipedia))

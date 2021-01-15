@@ -62,3 +62,4 @@
 - [flowchart.js](http://flowchart.js.org/) - Draws simple SVG flow chart diagrams from textual representation of the diagram. ([Code](https://github.com/adrai/flowchart.js))
 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/) - Draws simple SVG sequence diagrams from textual representation of the diagram. ([Code](https://github.com/bramp/js-sequence-diagrams))
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web GUI for SVGO. ([Code](https://github.com/jakearchibald/svgomg))
+- [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes. ([Web](http://andreaferretti.github.io/paths-js-react-demo/))

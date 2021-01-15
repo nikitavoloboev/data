@@ -28,3 +28,4 @@
 - [Tungstenite](https://github.com/snapview/tungstenite-rs) - Lightweight stream-based WebSocket implementation for Rust.
 - [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Asynchronous WebSockets for Tokio stack.
 - [GoLive](https://github.com/brendonferreira/golive) - Reactive HTML Server Side over WebSockets.
+- [Reconnecting WebSocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js).

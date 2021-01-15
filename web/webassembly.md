@@ -127,3 +127,7 @@
 - [Hosting WebAssembly in Swift (2021)](http://www.alwaysrightinstitute.com//swifty-wasmer/)
 - [Rust and WebAssembly Book](https://rustwasm.github.io/docs/book/) - Small book describes how to use Rust and WebAssembly together. ([Code](https://github.com/rustwasm/book))
 - [Property-Based Testing of WebAssembly](https://github.com/jmid/wasm-prop-tester) - Implements a stack-driven generator of arbitrary WebAssembly programs.
+- [WASM to OCI](https://github.com/engineerd/wasm-to-oci) - Use OCI registries to distribute WASM modules.
+- [A practical guide to WebAssembly memory (2021)](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
+- [A simple WebAssembly linker in JavaScript (2021)](https://radu-matei.com/blog/a-simple-wasm-linker-js/)
+- [Towards sockets and networking in WebAssembly and WASI (2020)](https://radu-matei.com/blog/towards-sockets-networking-wasi/)

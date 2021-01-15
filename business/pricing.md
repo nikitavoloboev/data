@@ -39,3 +39,4 @@
 - [How to Monetize Data Networks: Focus on Acquisition and Usage (2020)](https://medium.com/breadcrumb/how-to-monetize-data-networks-focus-on-acquisition-and-usage-1c822aa67b3e)
 - [The Black Arts of SaaS Pricing](https://training.kalzumeus.com/newsletters/archive/saas_pricing)
 - [Pricing strategy for a developer tool with 400000 users (2021)](https://news.ycombinator.com/item?id=25622558)
+- [Pricing pages for inspiration](https://inspyr.io/pricing)

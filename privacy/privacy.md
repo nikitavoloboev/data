@@ -75,3 +75,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [What I Use Now Instead of Google (2021)](https://kiramclean.com/blog/what-i-use-now-instead-of-google/) ([HN](https://news.ycombinator.com/item?id=25654222))
 - [Ask HN: Is it technically possible to evade big-tech censorship? (2021)](https://news.ycombinator.com/item?id=25731697)
 - [Data Security on Mobile Devices](https://securephones.io/)
+- [The Hairdresser Analogy (2021)](https://jessems.com/hairdresser-analogy) ([HN](https://news.ycombinator.com/item?id=25791684))

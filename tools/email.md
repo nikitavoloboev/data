@@ -123,3 +123,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email Validator](https://github.com/mfbx9da4/deep-email-validator) - Validates regex, typos, disposable, dns and smtp.
 - [Candymail](https://github.com/bdcorps/candymail) - Email Automation for Node.js. ([HN](https://news.ycombinator.com/item?id=25578834))
 - [Imapsync](https://imapsync.lamiral.info/) - IMAP transfers tool. ([Code](https://github.com/imapsync/imapsync))
+- [rust-imap](https://github.com/jonhoo/rust-imap) - IMAP client library for Rust.

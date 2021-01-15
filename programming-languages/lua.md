@@ -46,3 +46,4 @@
 - [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - All the lua functions I don't want to write twice.
 - [LuaUnit](https://github.com/bluebird75/luaunit) - Popular unit-testing framework for Lua, with an interface typical of xUnit libraries.
 - [LuaFormatter](https://github.com/Koihik/LuaFormatter) - Reformats your Lua source code.
+- [Heart](https://github.com/Hyperspace-Logistics/heart) - High performance Lua web server with a simple, powerful API.

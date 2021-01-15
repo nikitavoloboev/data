@@ -54,3 +54,5 @@
 - [Ruby Books](https://planetruby.github.io/books/)
 - [Ruby 3, Concurrency and the Ecosystem (2021)](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/) ([HN](https://news.ycombinator.com/item?id=25690212))
 - [lib-ruby-parser](https://github.com/lib-ruby-parser/lib-ruby-parser) - Ruby parser written in Rust.
+- [Ruby Reference](https://rubyreferences.github.io/rubyref/) - Ruby Programming Language Reference. ([Code](https://github.com/rubyreferences/rubyref))
+- [Ractors (2021)](https://brandur.org/nanoglyphs/018-ractors)

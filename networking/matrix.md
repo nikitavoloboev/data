@@ -2,7 +2,7 @@
 
 Matrix is kind of like a federated IRC system and [Element](https://element.io) is a web and mobile interface to the Matrix system.
 
-[Dendrite](https://github.com/matrix-org/dendrite) is Matrix homeserver written in Go. It is a rewrite of [synapse](https://github.com/matrix-org/synapse) that was written in Python which could not scale.
+[Dendrite](https://github.com/matrix-org/dendrite) is Matrix homeserver written in Go. It is a rewrite of [synapse](https://github.com/matrix-org/synapse) that is written in Python that has issues scaling.
 
 ## Bridges
 

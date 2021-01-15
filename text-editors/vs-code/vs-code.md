@@ -50,3 +50,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VS Code Tips](https://twitter.com/vscodetips)
 - [VS Code Wiki](https://github.com/Microsoft/vscode/wiki) ([Code](https://github.com/microsoft/vscode-wiki))
 - [Learning all VSCode shortcuts evolved my developing habits (2020)](https://tkainrad.dev/posts/learning-all-vscode-shortcuts-evolved-my-developing-habits/)
+- [VSCode Dev Containers](https://github.com/microsoft/vscode-dev-containers) - VS Code Remote / GitHub Codespaces Container Definitions.

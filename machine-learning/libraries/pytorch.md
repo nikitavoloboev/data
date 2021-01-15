@@ -208,3 +208,7 @@
 - [PyTorch Architectures](https://github.com/addisonklinke/pytorch-architectures) - PyTorch implementations of research paper model architectures.
 - [Ways of making PyTorch training faster (2021)](https://www.reddit.com/r/MachineLearning/comments/kvs1ex/d_here_are_17_ways_of_making_pytorch_training/)
 - [RepVGG: Making VGG-style ConvNets Great Again (PyTorch)](https://github.com/DingXiaoH/RepVGG)
+- [PyTorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
+- [PyTorch Memory optimizations via gradient checkpointing](https://github.com/prigoyal/pytorch_memonger)
+- [Efficient PyTorch](https://github.com/Lyken17/Efficient-PyTorch) - Best practices of training large datasets using PyTorch.
+- [SAM: Sharpness-Aware Minimization (PyTorch)](https://github.com/davda54/sam)

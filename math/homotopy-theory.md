@@ -23,3 +23,4 @@
 - [A Guide for Computing Stable Homotopy Groups (2018)](https://arxiv.org/abs/1801.07530)
 - [Homotopy Type Theory by Egbert Rijke (2012)](https://hottheory.files.wordpress.com/2012/08/hott2.pdf) ([HN](https://news.ycombinator.com/item?id=24902852))
 - [Egbert Rijke nLab research](https://ncatlab.org/nlab/show/Egbert+Rijke)
+- [Agda formalisation of the Introduction to Homotopy Type Theory](https://github.com/HoTT-Intro/Agda)

@@ -25,3 +25,4 @@
 - [Phoenix LiveView Tips](https://github.com/nshoes/phoenix-live-view-tips)
 - [A hook for handling very large lists with Phoenix Live View (2021)](https://alex-min.fr/phoenix-live-view-very-large-list-hook/)
 - [The Sublime Developer Efficiency of Elixir, Phoenix and LiveView (2021)](https://amattn.com/p/the_sublime_developer_efficiency_of_elixir_phoenix_and_liveview_part_1.html)
+- [PETAL – the end-to-end web stack (2021)](https://changelog.com/posts/petal-the-end-to-end-web-stack)

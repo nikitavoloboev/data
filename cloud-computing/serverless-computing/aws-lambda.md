@@ -51,3 +51,4 @@
 - [Mangum](https://github.com/jordaneremieff/mangum) - AWS Lambda & API Gateway support for ASGI.
 - [AWS Lambda Terraform Cookbook with working examples](https://github.com/nsriram/lambda-the-terraform-way) ([HN](https://news.ycombinator.com/item?id=25588898))
 - [lambda_decorators](https://github.com/dschep/lambda-decorators) - Collection of useful decorators for making AWS Lambda handlers.
+- [Optimizing Lambda functions packaged as container images (2021)](https://aws.amazon.com/blogs/compute/optimizing-lambda-functions-packaged-as-container-images/)

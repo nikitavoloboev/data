@@ -139,3 +139,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon EC2 Metadata Mock](https://github.com/aws/namazon-ec2-metadata-mock) - Tool to simulate Amazon EC2 instance metadata.
 - [Remote Debugging in AWS (2021)](https://thenewstack.io/remote-debugging-in-aws-the-missing-link-in-your-debugging-toolset/)
 - [AWS Workshops](https://workshops.aws/)
+- [AWS Compute Blog](https://aws.amazon.com/blogs/compute/)

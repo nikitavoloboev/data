@@ -16,6 +16,7 @@
 - [Timely Dataflow and Total Order (2020)](http://justinjaffray.com/timely-dataflow-and-total-order/)
 - [Nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform.
 - [Apache Spark](https://github.com/apache/spark) - Unified analytics engine for large-scale data processing. ([PySpark](https://github.com/apache/spark/tree/master/python/pyspark)) ([PySpark Style Guide](https://github.com/palantir/pyspark-style-guide)) ([Article](https://medium.com/palantir/a-pyspark-style-guide-for-real-world-data-scientists-1727fda397e9))
+- [Spark: The Definitive Guide Book (2018)](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/) ([Code](https://github.com/databricks/Spark-The-Definitive-Guide))
 - [Batch](https://batch.sh/) - Event replay platform. Version control for data passing through your messaging systems. ([HN](https://news.ycombinator.com/item?id=24188214))
 - [A log/event processing pipeline you can't have (2019)](https://apenwarr.ca/log/20190216) ([HN](https://news.ycombinator.com/item?id=24275683))
 - [mm-ADT](http://www.mm-adt.org/) - Multi-Model Abstract Data Type. Distributed virtual machine capable of integrating a diverse collection of data processing technologies. ([Code](https://github.com/mm-adt/vm))

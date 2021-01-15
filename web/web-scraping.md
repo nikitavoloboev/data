@@ -75,3 +75,5 @@
 - [Trandoshan](https://github.com/creekorful/trandoshan) - Fast, highly configurable, cloud native dark web crawler.
 - [ralger](https://github.com/feddelegrand7/ralger) - Makes it easy to scrape a website with R.
 - [Scraping HN content with declarative programming](https://pathom3.wsscode.com/docs/tutorials/hacker-news-scraper/)
+- [snscrape](https://github.com/JustAnotherArchivist/snscrape) - Social networking service scraper in Python.
+- [qwarc](https://github.com/JustAnotherArchivist/qwarc) - Framework for rapidly archiving a large number of URLs with little overhead.

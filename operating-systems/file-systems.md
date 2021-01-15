@@ -38,3 +38,6 @@
 - [Exploring the IBM Graphical Filesystem](https://casadevall.pro/articles/2020/12/exploring-the-ibm-graphical-filesystem/) ([Lobsters](https://lobste.rs/s/dsn99n/exploring_ibm_graphical_filesystem))
 - [organize](https://github.com/tfeldmann/organize) - File management automation tool.
 - [JuiceFS](https://github.com/juicedata/juicefs) - Distributed POSIX file system built on top of Redis and S3.
+- [GoDFS](https://github.com/rounakdatta/GoDFS) - Simple Distributed FileSystem written in Go. ([Article](https://rounakdatta.github.io/posts/godfs/))
+- [TiFS](https://github.com/Hexilee/tifs) - Distributed file system based on TiKV.
+- [HyperTag](https://github.com/SeanPedersen/HyperTag) - Helps humans intuitively express how they think about their files using tags and machine learning.

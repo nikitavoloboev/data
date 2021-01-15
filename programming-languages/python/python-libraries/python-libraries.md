@@ -31,13 +31,16 @@
 - [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.
 - [siuba](https://github.com/machow/siuba) - Scrappy data analysis, with seamless support for pandas and SQL.
 - [Python Outlier Detection (PyOD)](https://github.com/yzhao062/pyod) - Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
-- [SymPy](https://github.com/sympy/sympy) - Computer algebra system written in pure Python.
+- [SymPy](https://github.com/sympy/sympy) - Computer algebra system written in pure Python. ([Web](https://www.sympy.org/en/index.html)) ([Web Code](https://github.com/sympy/sympy.github.com))
 - [many_requests](https://github.com/joshlk/many_requests) - Dead easy interface for executing many HTTP requests asynchronously. Also provides helper functions for executing embarrassingly parallel async coroutines.
 - [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - Mobility analysis in Python.
 - [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) - Mypy stubs, i.e., type information, for numpy, pandas and matplotlib.
 - [Tigramite](https://github.com/jakobrunge/tigramite) - Time series analysis python module for causal discovery.
 - [SciPy](https://github.com/scipy/scipy) - Provides many user-friendly and efficient numerical routines, such as routines for numerical integration, interpolation, optimization, linear algebra, and statistics. ([Web](https://scipy.org/scipylib/)) ([SciPy Lecture Notes](http://scipy-lectures.org/index.html)) ([HN](https://news.ycombinator.com/item?id=25682103))
 - [whylogs](https://github.com/whylabs/whylogs-python) - Profile and monitor your ML data pipeline end-to-end.
+- [jaxlie](https://github.com/brentyi/jaxlie) - Lie groups for rigid transformations & optimization in JAX.
+- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Sampling library designed for ease of use, speed and modularity.
+- [Time Series Feature Extraction](https://github.com/fraunhoferportugal/tsfel) - Intuitive library to extract features from time series.
 
 ## Biology
 
@@ -292,6 +295,8 @@
 - [Finite State Machine](https://github.com/alysivji/finite-state-machine) - Lightweight, decorator-based Python implementation of a Finite State Machine.
 - [Spatial Math](https://github.com/petercorke/spatialmath-python) - Create, manipulate and convert representations of position and orientation in 2D or 3D using Python.
 - [Fugue](https://github.com/fugue-project/fugue) - Abstraction layer for distributed computation.
+- [PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python.
+- [Spylls](https://github.com/zverok/spylls) - Pure Python spell-checker.
 
 ## Links
 

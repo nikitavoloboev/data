@@ -10,3 +10,4 @@
 - [relate](https://github.com/neo4j-devtools/relate) - Framework to manage Neo4j resources (databases, graph apps, backups, extensions).
 - [Building A Location Aware Endpoint Using Neo4j And Cloudflare Workers (2020)](https://lyonwj.com/blog/neo4j-http-api-edge-workers)
 - [LEANstack](https://github.com/michaeldgraham/lean-stack) - Lit-Element Apollo Neo4j.
+- [Neo4j Connector for Apache Spark](https://github.com/neo4j-contrib/neo4j-spark-connector)

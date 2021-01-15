@@ -71,3 +71,4 @@
 - [Icons8](https://icons8.com/) - Download design elements for free.
 - [Public Icons](https://publicicons.lllllllllllllllll.com/) - Free icons in the public domain.
 - [Glyphs](https://glyphs.fyi/) - Complete icons design system from Figma to web components. ([Code](https://github.com/gorango/glyphs))
+- [Inspyr](https://inspyr.io/) - Handpicked set of beautifully designed SVG icons.

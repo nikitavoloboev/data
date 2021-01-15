@@ -73,3 +73,5 @@
 - [checkmate](https://github.com/parasj/checkmate) - Training neural networks in TensorFlow 2.0 with 5x less memory.
 - [TensorFlow in Swift Handbook](https://github.com/huan/tensorflow-handbook-swift)
 - [Recursive custom gradients in TensorFlow (2020)](https://iza.ac/posts/2020/12/recursive-custom-gradients-in-tensorflow/)
+- [TensorFlow inferencing using WebAssembly and WASI (2020)](https://radu-matei.com/blog/tensorflow-inferencing-wasi/)
+- [React-Tensorflow](https://github.com/joshuaellis/react-tensorflow) - Tensorflow hooks for React.

@@ -175,3 +175,4 @@
 - [Amplication](https://github.com/amplication/amplication) - Instantly Generate Node.js Apps with GraphQL and REST API. ([Web](https://app.amplication.com/)) ([HN](https://news.ycombinator.com/item?id=25749492))
 - [canarist](https://github.com/xing/canarist) - Like npm link, but for workspaces / monorepos.
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
+- [node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write native Node.js module using idiomatic Rust.

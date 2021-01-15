@@ -69,3 +69,4 @@
 - [Asking a tech recruiter (2020)](https://underjord.io/asking-a-tech-recruiter.html)
 - [Measuring Hiring Manager Effectiveness (2020)](https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/)
 - [Reducing Time-to-Hire and Finding Niche Candidates via Text Mining and NLP (2021)](https://joinphase.com/talent-acquisition-nlp)
+- [DevScreen](https://www.devscreen.io/) - Interview problems that are authentic for what your next hire will be doing on your team.

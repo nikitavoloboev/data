@@ -41,3 +41,4 @@
 - [Understand users, have a strategy, take the time to build an amazing & delightful product VS Just build, ship quick & often, experiment, assess user reactions, learn, repeat (2020)](https://twitter.com/shreyas/status/1337852929101815808)
 - [Giving design or product feedback advice (2020)](https://twitter.com/joulee/status/1338575853609861121)
 - [The Beautiful Mess 2020](https://johnpcutler.github.io/tbm2020/) - Weekly posts on product management.
+- [The Product Manager’s Guide to the Strategy (2020)](https://nfng.pro/2020/05/08/strategy/)

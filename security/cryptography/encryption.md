@@ -27,3 +27,4 @@
 - [Keeping encryption elitist (2020)](https://blog.cerebralab.com/Keeping_encryption_elitist)
 - [Tomb](https://github.com/dyne/Tomb) - Open source system for easy encryption and backup of personal files.
 - [TinyMCE’s real-time collaboration solution is end-to-end encrypted (2021)](https://www.tiny.cloud/blog/real-time-collaboration-end-to-end-encryption/)
+- [libsignal-client](https://github.com/signalapp/libsignal-client) - Implementation of the Signal client protocol in Rust.

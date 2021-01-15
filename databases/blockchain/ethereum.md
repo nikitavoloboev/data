@@ -150,3 +150,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [The Stateless Ethereum Client Concept](https://ethresear.ch/t/the-stateless-client-concept/172/)
 - [Solidity Bytes Arrays Utils](https://github.com/GNSPS/solidity-bytes-utils) - Bytes tightly packed arrays utility library for ethereum contracts written in Solidity.
 - [Minimal Anti-Collusion Infrastructure](https://github.com/appliedzkp/maci)
+- [eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity.

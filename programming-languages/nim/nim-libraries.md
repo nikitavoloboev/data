@@ -3,6 +3,11 @@
 ## Web
 
 - [Prologue](https://github.com/planety/prologue) - Full-Stack Web Framework which is ideal for building elegant and high performance web services. ([HN](https://news.ycombinator.com/item?id=24846828))
+- [Rosencrantz](https://github.com/andreaferretti/rosencrantz) - DSL to write web servers.
+
+## Math
+
+- [Neo](https://github.com/unicredit/neo) - Provides basic linear algebra operations for Nim applications.
 
 ## Other
 
@@ -13,6 +18,7 @@
 - [iface](https://github.com/yglukhov/iface) - Dynamic dispatch on steroids.
 - [nimx](https://github.com/yglukhov/nimx) - Cross-platform GUI framework in Nim.
 - [Itertools](https://github.com/narimiran/itertools) - Nim rewrite of a very popular Python module of the same name.
+- [Patty](https://github.com/andreaferretti/patty) - Pattern matching library for Nim.
 
 ## Links
 

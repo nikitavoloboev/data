@@ -42,6 +42,7 @@
 - [tiny-request-router](https://github.com/berstend/tiny-request-router) - Fast, generic and type safe router (match request method and path).
 - [Synergy](https://github.com/defx/synergy) - Tiny runtime library for building web user interfaces. ([HN](https://news.ycombinator.com/item?id=25677272))
 - [dflex](https://github.com/jalal246/dflex) - JavaScript Project to Manipulate DOM Elements.
+- [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed).
 
 ## Animation
 
@@ -433,6 +434,9 @@
 - [grfn](https://github.com/TomerAberbach/grfn) - Tiny (~400B) utility that executes a dependency graph of async functions as concurrently as possible.
 - [Nunjucks](https://github.com/mozilla/nunjucks) - Powerful templating engine with inheritance, asynchronous control, and more. ([Web](https://mozilla.github.io/nunjucks/))
 - [Behavior3JS](https://github.com/behavior3/behavior3js) - Structures and algorithms that assist you in the task of creating intelligent agents for your game or application.
+- [qs](https://github.com/ljharb/qs) - Querystring parser with nesting support.
+- [Exifer](https://github.com/terkelg/exifer) - Small module that read JPEG/TIFF meta-data.
+- [jsVideoUrlParser](https://github.com/Zod-/jsVideoUrlParser) - JavaScript parser to extract information like provider, channel, id, start time from YouTube, Vimeo, Dailymotion, Twitch,... urls.
 
 ## Links
 

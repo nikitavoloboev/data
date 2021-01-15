@@ -141,6 +141,7 @@
 - [ContextMenuSwift](https://github.com/umerjabbar/ContextMenuSwift) - Better version of iOS 13 Context Menu.
 - [Katana](https://github.com/BendingSpoons/katana-swift) - Modern framework for creating iOS apps, inspired by Redux.
 - [Align](https://github.com/kean/Align) - Intuitive and powerful Auto Layout library.
+- [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - Simple view for building card like interface inspired by Tinder and Potluck.
 
 ## macOS
 
@@ -223,6 +224,8 @@
 - [MarkdownUI](https://github.com/gonzalezreal/MarkdownUI) - Render Markdown formatted text in SwiftUI.
 - [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - Efficient and customizable full screen calendar written in SwiftUI.
 - [BBSwiftUIKit](https://github.com/Silence-GitHub/BBSwiftUIKit) - SwiftUI library with powerful UIKit features.
+- [SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - Small, lightweight UISearchController wrapper for SwiftUI.
+- [GCProgressView](https://github.com/graycampbell/GCProgressView) - Simple SwiftUI progress view.
 
 ## Test
 
@@ -559,6 +562,7 @@
 - [Delicious.swift](https://github.com/drkameleon/delicious) - Swift language extensions and Cocoa utilities for macOS/iOS.
 - [BBMetalImage](https://github.com/Silence-GitHub/BBMetalImage) - High performance Swift library for GPU-accelerated image/video processing based on Metal.
 - [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework.
+- [Swift Declarative Configuration](https://github.com/MakeupStudio/swift-declarative-configuration) - Tiny library, that enables you to configure your objects in a declarative, consistent and understandable way, with ergonomics in mind.
 
 ## Other (not lib)
 
@@ -577,3 +581,4 @@
 - [My experience replacing CocoaPods with SwiftPM (2020)](https://www.jessesquires.com/blog/2020/02/24/replacing-cocoapods-with-swiftpm/)
 - [Swift Package Collection Generator](https://github.com/apple/swift-package-collection-generator) - Collection of packages and tooling for generating and consuming package feeds.
 - [PureSwift packages](https://github.com/PureSwift)
+- [xcframeworks](https://github.com/bielikb/xcframeworks) - Demonstration of creating and integrating xcframeworks and their co-op with static libraries and Swift packages.
