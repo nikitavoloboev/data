@@ -96,3 +96,4 @@
 - [browserless](https://github.com/microlinkhq/browserless) - Browser driver on top of puppeteer, ready for production scenarios. ([Docs](https://browserless.js.org/#/))
 - [Let's build a browser engine (2014)](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 - [Robinson](https://github.com/mbrubeck/robinson) - Toy web rendering engine written in Rust.
+- [Why can't I write code inside my browser? (2021)](https://tomcritchlow.com/2021/01/14/new-browsers/) ([HN](https://news.ycombinator.com/item?id=25787107))

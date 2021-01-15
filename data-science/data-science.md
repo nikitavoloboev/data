@@ -151,3 +151,4 @@
 - [Data Carpentry Lessons](https://datacarpentry.org/lessons/)
 - [Doing Symbolic Math with SymPy (2020)](https://lwn.net/Articles/840986/) ([HN](https://news.ycombinator.com/item?id=25683420))
 - [How To Become a Data Engineer (2021)](https://khashtamov.com/en/how-to-become-a-data-engineer/) ([HN](https://news.ycombinator.com/item?id=25728198))
+- [We don't need data scientists, we need data engineers (2021)](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) ([HN](https://news.ycombinator.com/item?id=25775872))

@@ -98,3 +98,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Matthew Johnson: Psychedelics (2020)](https://overcast.fm/+eZyDSt_hI)
 - [Psychedelic receptor signalling](https://www.reddit.com/r/RationalPsychonaut/comments/kiyynj/a_diagram_i_made_about_psychedelic_receptor/)
 - [Unifying Theories of Psychedelic Drug Effects (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5853825/) ([HN](https://news.ycombinator.com/item?id=17167063))
+- [Hamilton Morris and Eric Andre discuss mostly research chemicals for an hour (2021)](https://www.youtube.com/watch?v=oXRcly_jDoM) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/kwyv2f/hamilton_morris_and_eric_andre_discuss_mostly/))

@@ -14,7 +14,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
-- [Serenity](https://github.com/awesomekling/serenity) - X86 Unix-like operating system for IBM PC-compatibles.
+- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/))
 - [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
@@ -81,6 +81,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [dgOS](https://github.com/doug65536/dgos)
 - [Eltanin](https://eltan.in.net/) - Free, simple, and complete general-purpose operating system.
 - [skiftOS](https://github.com/skiftOS/skift) - Simple, handmade, operating system with a graphical user interface. ([Web](https://skiftos.org/))
+- [ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more. ([HN](https://news.ycombinator.com/item?id=25779930))
 
 ## Notes
 
