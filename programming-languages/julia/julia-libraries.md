@@ -56,6 +56,7 @@
 - [AbstractAlgebra](https://github.com/Nemocas/AbstractAlgebra.jl) - Pure Julia package for computational abstract algebra.
 - [Hecke](https://github.com/thofma/Hecke.jl) - Computational algebraic number theory.
 - [ChainRulesCore](https://github.com/JuliaDiff/ChainRulesCore.jl) - Provides a light-weight dependency for defining sensitivities for functions in your packages.
+- [Calculus.jl](https://github.com/JuliaMath/Calculus.jl) - Calculus functions in Julia.
 
 ## NLP
 
