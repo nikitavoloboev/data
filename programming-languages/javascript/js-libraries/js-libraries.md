@@ -87,6 +87,7 @@
 - [State Designer](https://github.com/steveruizok/state-designer) - JavaScript and TypeScript library for managing the state of a user interface.
 - [Fluxible](https://github.com/yahoo/fluxible) - Pluggable container for universal flux applications.
 - [Logux State](https://github.com/logux/state) - Tiny state manager with CRDT, cross-tab, and Logux support.
+- [Statery](https://github.com/hmans/statery) - Surprise-Free State Management. Designed for React with functional components.
 
 ## API bindings
 

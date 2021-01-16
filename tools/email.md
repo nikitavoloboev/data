@@ -124,3 +124,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Candymail](https://github.com/bdcorps/candymail) - Email Automation for Node.js. ([HN](https://news.ycombinator.com/item?id=25578834))
 - [Imapsync](https://imapsync.lamiral.info/) - IMAP transfers tool. ([Code](https://github.com/imapsync/imapsync))
 - [rust-imap](https://github.com/jonhoo/rust-imap) - IMAP client library for Rust.
+- [mnm](https://mnmnotmail.org/) - Open source project to replace email & SMTP. ([HN](https://news.ycombinator.com/item?id=25804869)) ([Code](https://github.com/networkimprov/mnm))

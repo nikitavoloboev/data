@@ -89,6 +89,7 @@
 - [We can do better than DuckDuckGo (2020)](https://drewdevault.com/2020/11/17/Better-than-DuckDuckGo.html) ([HN](https://news.ycombinator.com/item?id=25127371))
 - [PolyFuzz](https://github.com/MaartenGr/PolyFuzz) - Fuzzy string matching, grouping, and evaluation.
 - [Xapiand](https://github.com/Kronuz/Xapiand) - Modern Highly Available Distributed RESTful Search and Storage Engine built for the Cloud and with Data Locality in mind. ([Web](https://kronuz.io/Xapiand/))
+- [Xapian](https://github.com/xapian/xapian) - Open Source Search Engine Library. Written in C++. ([Web](https://xapian.org/))
 - [NZBHydra](https://github.com/theotherp/nzbhydra2) - Meta search for newznab indexers and torznab trackers.
 - [Fast Autocomplete Search for Your Website (2018)](https://24ways.org/2018/fast-autocomplete-search-for-your-website/)
 - [Whoogle Search](https://benbusby.com/projects/whoogle-search/) - Self hosted, ad-free, privacy-respecting Google metasearch engine. ([Code](https://github.com/benbusby/whoogle-search))
