@@ -20,6 +20,7 @@
 - [Variational Methods for Computer Vision lectures (2013)](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
 - [Classy Vision](https://github.com/facebookresearch/ClassyVision) - New end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models.
 - [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
+- [AliceVision](https://alicevision.org/) - Photogrammetric Computer Vision Framework. ([Code](https://github.com/alicevision/AliceVision)) ([GitHub](https://github.com/alicevision))
 - [PyTorch3d](https://github.com/facebookresearch/pytorch3d) - Provides efficient, reusable components for 3D Computer Vision research with PyTorch.
 - [Face Recognition](https://github.com/ageitgey/face_recognition) - World's simplest facial recognition api for Python and the command line.
 - [Deep Hough Voting for 3D Object Detection in Point Clouds](https://github.com/facebookresearch/votenet)
