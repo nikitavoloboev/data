@@ -197,3 +197,4 @@
 - [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 - [temBoard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control. ([Web](https://temboard.io/))
 - [Postgres Guide](http://postgresguide.com/) ([Code](https://github.com/craigkerstiens/postgresguide.com))
+- [Postgres Book Collection](https://github.com/faisalbasra/postgres_books)

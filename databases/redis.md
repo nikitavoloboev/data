@@ -46,3 +46,4 @@
 - [Tendis](https://github.com/Tencent/Tendis) - High-performance distributed storage system which is fully compatible with the Redis protocol.
 - [First version of Redis written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 - [Redis Streams and the Unified Log (2017)](https://brandur.org/redis-streams)
+- [Spark-Redis](https://github.com/RedisLabs/spark-redis) - Library for reading and writing data in Redis using Apache Spark.
