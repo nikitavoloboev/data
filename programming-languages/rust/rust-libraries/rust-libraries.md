@@ -649,6 +649,7 @@
 - [hold_my_beer](https://github.com/Jake-Shadle/hold_my_beer) - Don't let unsafe get you down.
 - [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) - Sandboxing library for Rust.
 - [etcd-client](https://github.com/etcdv3/etcd-client) - etcd v3 API client for Rust. It provides asynchronous client backed by tokio and tonic.
+- [alga](https://github.com/dimforge/alga) - Abstract algebra for Rust.
 
 ## Cargo Plugins
 

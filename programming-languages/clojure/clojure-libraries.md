@@ -18,6 +18,8 @@
 - [suricatta](https://github.com/funcool/suricatta) - High level sql toolkit for clojure.
 - [Walkable](https://github.com/walkable-server/walkable) - SQL library for building APIs.
 - [Gungnir](https://github.com/kwrooijen/gungnir) - High level, data driven database library for Clojure data mapping.
+- [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
+- [honeysql-postgres](https://github.com/nilenso/honeysql-postgres) - PostgreSQL extension for honeysql.
 
 ## ML
 
@@ -35,7 +37,6 @@
 - [Hickory](https://github.com/davidsantiago/hickory) - HTML as data.
 - [Specter](https://github.com/redplanetlabs/specter) - Elegant API to allow any sort of manipulation imaginable. ([Article](http://nathanmarz.com/blog/clojures-missing-piece.html))
 - [Hashp](https://github.com/weavejester/hashp) - Better prn for debugging Clojure code.
-- [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
 - [Vizns](https://github.com/SevereOverfl0w/vizns) - Visualize the relationships between your namespaces and dependencies.
 - [Clip](https://github.com/juxt/clip) - Light structure and support for dependency injection.
 - [Spyscope](https://github.com/dgrnbrg/spyscope) - Trace-oriented debugging tools for Clojure.
