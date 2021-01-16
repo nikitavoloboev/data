@@ -74,3 +74,4 @@
 - [MIPS-Simulator](https://github.com/skyzh/mips-simulator) - Functional MIPS CPU simulator implemented in Haskell.
 - [From microops to abstract resources: constructing simpler CPU performance models (2020)](https://arxiv.org/abs/2012.11473)
 - [Let's Build a Microprocessor!](https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/) - From NAND to RISC, using JavaScript as a HDL.
+- [ARM NEON intrinsics guide](https://github.com/thenifty/neon-guide)

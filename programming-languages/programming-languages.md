@@ -159,3 +159,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Models of Programming Languages](https://github.com/pamellies/models-of-programming-languages)
 - [Designing an actor-based programming language (2020)](https://quizzical-dijkstra-2acb9c.netlify.app/ferrum/)
 - [CodeIntellify](https://github.com/sourcegraph/codeintellify) - Adds code intelligence to code views on the web.
+- [go-enry](https://github.com/go-enry/go-enry) - Faster file programming language detector.
