@@ -46,6 +46,7 @@ Here are few more things I liked, design wise.
 - [Dropbase](https://www.dropbase.io/)
 - [Failory](https://www.failory.com/)
 - [iA](https://ia.net/)
+- [Bevy](https://bevyengine.org/)
 - [Stedi](https://stedi.com/)
 - [Hex](https://hex.tech/)
 - [Uniswap](https://uniswap.org/)

@@ -438,6 +438,7 @@
 - [qs](https://github.com/ljharb/qs) - Querystring parser with nesting support.
 - [Exifer](https://github.com/terkelg/exifer) - Small module that read JPEG/TIFF meta-data.
 - [jsVideoUrlParser](https://github.com/Zod-/jsVideoUrlParser) - JavaScript parser to extract information like provider, channel, id, start time from YouTube, Vimeo, Dailymotion, Twitch,... urls.
+- [TypeDI](https://github.com/typestack/typedi) - Dependency injection tool for TypeScript and JavaScript.
 
 ## Links
 
