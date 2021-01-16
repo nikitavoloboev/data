@@ -28,3 +28,4 @@
 - [Free online courses from Harvard University](https://www.edx.org/school/harvardx)
 - [Automation bot for free Udemy courses](https://github.com/dimakiss/Udemy_bot)
 - [Ask HN: Top Coursera Courses? (2020)](https://news.ycombinator.com/item?id=25245125)
+- [Skillshare](https://www.skillshare.com/) - Online Classes.

@@ -21,6 +21,7 @@
 - [Avalon](https://github.com/dfdx/Avalon.jl) - Deep learning library in Julia with focus on high performance and interoperability with existing DL frameworks.
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
 - [Reinforce](https://github.com/JuliaML/Reinforce.jl) - Abstractions, algorithms, and utilities for reinforcement learning in Julia.
+- [Augmentor](https://github.com/Evizero/Augmentor.jl) - Fast image augmentation library in Julia for machine learning.
 
 ## Math
 
@@ -183,6 +184,7 @@
 - [PkgEval.jl](https://github.com/JuliaCI/PkgEval.jl) - Evaluate Julia packages.
 - [DataDeps](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 - [TreeView](https://github.com/JuliaTeX/TreeView.jl) - Draw Julia syntax trees as a graph.
+- [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) - Control Systems Toolbox for Julia.
 
 ## Links
 

@@ -563,6 +563,7 @@ Here are few more things I liked, design wise.
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Sarah Dayan](https://sarahdayan.dev/)
 - [Adam Wiggins](https://adamwiggins.com/)
+- [Scott Spence](https://scottspence.com/)
 - [Matthew Conlen](https://mathisonian.com/) - Clean.
 - [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
 - [Fuzzy Notepad](https://eev.ee/blog/)

@@ -435,3 +435,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Listen to Wikipedia](http://listen.hatnote.com/) - Live, generative music from Wikipedia edits. ([Code](https://github.com/hatnote/listen-to-wikipedia))
 - [We’re All Preppers Now (2021)](http://www.liveliketheworldisdying.com/2021/01/11/were-all-preppers-now/) ([Tweet](https://merveilles.town/web/statuses/105556647630728276))
 - [Be My Eyes](https://www.bemyeyes.com/) - See the world together. ([HN](https://news.ycombinator.com/item?id=25793163))
+- [Cheat Sheets](https://cheatsheets.xyz/) - Searchable site of hints and tips. ([Code](https://github.com/spences10/cheat-sheets))

@@ -135,6 +135,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Abhinav's Notes](https://notes.abhinavsarkar.net/)
 - [Hugo Cisneros](https://hugocisneros.com/notes/)
 - [Rosano Garden](https://rosano.hmm.garden/)
+- [Scott Spence's Garden](https://scottspence.com/garden)
 - [Uncertainty Mindset Wiki](https://uncertaintymindset.org/UM1/index.html)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
