@@ -38,3 +38,4 @@
 - [Peer Calls](https://github.com/peer-calls/peer-calls) - Group WebRTC peer to peer video calls for everyone written in Go and TypeScript. ([Web](https://peercalls.com/))
 - [RingRTC](https://github.com/signalapp/ringrtc) - Middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC.
 - [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio.
+- [WebRTC.rs](https://github.com/webrtc-rs/webrtc) - Pure Rust implementation of WebRTC API.

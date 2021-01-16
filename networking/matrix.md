@@ -57,3 +57,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [retrix](https://github.com/agraven/retrix) - Lightweight matrix client.
 - [Building a virtual coffee bot for Mattermost and Matrix (2021)](https://n8n.io/blog/how-to-host-virtual-coffee-breaks-with-n8n/)
 - [Element Matrix Client Code](https://github.com/vector-im/element-web)
+- [Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker](https://github.com/spantaleev/matrix-docker-ansible-deploy)

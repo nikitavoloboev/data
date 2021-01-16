@@ -84,6 +84,7 @@
 - [setup-graalvm](https://github.com/DeLaGuardo/setup-graalvm) - Sets up GraalVM environment for using in GitHub Actions.
 - [GitHub Repo Stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action to periodically inspect a target repository and generate a report for it.
 - [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) - Synchronize your GitHub labels with as few destructive operations as possible.
+- [release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 
 ## Go
 

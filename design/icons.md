@@ -72,3 +72,4 @@
 - [Public Icons](https://publicicons.lllllllllllllllll.com/) - Free icons in the public domain.
 - [Glyphs](https://glyphs.fyi/) - Complete icons design system from Figma to web components. ([Code](https://github.com/gorango/glyphs))
 - [Inspyr](https://inspyr.io/) - Handpicked set of beautifully designed SVG icons.
+- [Ionicons](https://ionicons.com/) - Premium designed icons for use in web, iOS, Android, and desktop apps. ([Code](https://github.com/ionic-team/ionicons))

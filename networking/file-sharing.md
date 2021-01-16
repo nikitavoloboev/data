@@ -51,3 +51,4 @@
 - [myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone.
 - [WebDrop](https://webdrop.space/#/) - Group P2P File & Message transfer in browser with WebRTC. ([Code](https://github.com/subins2000/WebDrop))
 - [Juicesync](https://github.com/juicedata/juicesync) - Tool to move your data between any clouds or regions.
+- [goploader](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant.

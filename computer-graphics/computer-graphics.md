@@ -128,3 +128,4 @@
 - [Pixar's Render Farm (2021)](https://twitter.com/pixprin/status/1345146328058269696) ([HN](https://news.ycombinator.com/item?id=25615888))
 - [Graphics Studies Compilation (2020)](http://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 - [Smooth Voxel Terrain (2012)](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/) ([HN](https://news.ycombinator.com/item?id=25690189))
+- [Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
