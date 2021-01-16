@@ -105,3 +105,5 @@
 - [Streaming Merkle Proofs in Binary Numeral Trees (2021)](https://eprint.iacr.org/2021/038)
 - [Mercurial Signatures](https://github.com/burkh4rt/Mercurial-Signatures)
 - [Crypto Dictionary Book](https://nostarch.com/crypto-dictionary) ([Code](https://github.com/cryptodictionary/newstuff))
+- [Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab)
+- [Cryptography Resources](https://tjerandsilde.no/resources/)

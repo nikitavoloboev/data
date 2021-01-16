@@ -76,3 +76,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Ask HN: Is it technically possible to evade big-tech censorship? (2021)](https://news.ycombinator.com/item?id=25731697)
 - [Data Security on Mobile Devices](https://securephones.io/)
 - [The Hairdresser Analogy (2021)](https://jessems.com/hairdresser-analogy) ([HN](https://news.ycombinator.com/item?id=25791684))
+- [Moxie Marlinspike Has a Plan to Reclaim Our Privacy (2020)](https://www.newyorker.com/magazine/2020/10/26/taking-back-our-privacy)

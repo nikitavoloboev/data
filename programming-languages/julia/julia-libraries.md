@@ -185,6 +185,7 @@
 - [DataDeps](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 - [TreeView](https://github.com/JuliaTeX/TreeView.jl) - Draw Julia syntax trees as a graph.
 - [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) - Control Systems Toolbox for Julia.
+- [MatchCore](https://github.com/thautwarm/MatchCore.jl) - Minimal implementation of optimized pattern matching.
 
 ## Links
 

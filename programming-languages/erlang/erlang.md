@@ -71,3 +71,4 @@
 - [Gun](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, HTTP/2 and Websocket.
 - [Sesterl](https://github.com/gfngfn/Sesterl) - ML-inspired typed Erlang.
 - [Quartz](https://github.com/OhadRau/Quartz) - Statically typed, concurrent programming language for the BEAM VM based on the actor model.
+- [kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances.
