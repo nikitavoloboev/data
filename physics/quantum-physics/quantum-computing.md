@@ -67,3 +67,4 @@
 - [PennyLane](https://github.com/PennyLaneAI/pennylane) - Cross-platform Python library for differentiable programming of quantum computers. ([Web](https://pennylane.ai/))
 - [Awesome Quantum Software](https://github.com/qosf/awesome-quantum-software)
 - [Quantum Computing’s Internals Demystified (2021)](https://whiteheadsoftware.dev/quantum-computings-internals-demystified/)
+- [FunQy](https://github.com/rvanasa/funqy) - High-level hybrid quantum programming language.

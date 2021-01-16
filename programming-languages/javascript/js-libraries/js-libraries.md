@@ -43,6 +43,7 @@
 - [Synergy](https://github.com/defx/synergy) - Tiny runtime library for building web user interfaces. ([HN](https://news.ycombinator.com/item?id=25677272))
 - [dflex](https://github.com/jalal246/dflex) - JavaScript Project to Manipulate DOM Elements.
 - [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed).
+- [Forgo](https://github.com/forgojs/forgo) - Ultra-light UI runtime. Makes it super easy to create modern web apps using JSX (like React).
 
 ## Animation
 

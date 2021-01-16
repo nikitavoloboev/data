@@ -393,3 +393,4 @@
 - [Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 - [Machine learning with large-scale graphs course](https://snap-stanford.github.io/cs224w-notes/) ([Notes](https://github.com/snap-stanford/cs224w-notes))
 - [Single-Machine Simulation of Federated Learning Systems (2021)](https://flower.dev/blog/2021-01-14-single-machine-simulation-of-federated-learning-systems)
+- [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)

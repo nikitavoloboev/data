@@ -237,3 +237,4 @@
 - [DeBERTa](https://github.com/microsoft/DeBERTa) - Decoding-enhanced BERT with Disentangled Attention.
 - [Sockeye](https://github.com/awslabs/sockeye) - Open-source sequence-to-sequence framework for Neural Machine Translation based on Apache MXNet. ([Docs](https://awslabs.github.io/sockeye/))
 - [Robustness Gym](https://github.com/robustness-gym/robustness-gym) - Python evaluation toolkit for natural language processing.
+- [State-of-the-Art Conversational AI with Transfer Learning](https://github.com/huggingface/transfer-learning-conv-ai)
