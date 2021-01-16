@@ -390,3 +390,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Noguchi Museum](https://www.noguchi.org/)
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Deep Learning based project for creating line art portraits.
 - [2020 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition) ([HN](https://news.ycombinator.com/item?id=25687129))
+- [Code as Creative Medium (2021)](https://mitpress.mit.edu/books/code-creative-medium) - Handbook for Computational Art and Design.

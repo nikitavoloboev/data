@@ -314,3 +314,4 @@
 - ["How does this software work?" by Adrian Cochrane](https://adrian.geek.nz/docs.html)
 - [Code Review Checklist](https://github.com/mgreiler/code-review-checklist)
 - [Composition is interpretation (2021)](https://ideolalia.com/essays/composition-is-interpretation.html) ([Lobsters](https://lobste.rs/s/h6upnu/composition_is_interpretation))
+- [How to join a team and learn a codebase (2020)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html) ([HN](https://news.ycombinator.com/item?id=25789336))

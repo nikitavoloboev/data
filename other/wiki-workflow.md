@@ -295,3 +295,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Exomind](https://github.com/appaquet/exomind) - Personal knowledge management tool hosted on your own personal cloud.
 - [Miraheze](https://miraheze.org/) - Community-centric, ad free, and locally controlled wiki hosting platform funded 100% by donations.
 - [North Notes](https://northnotes.app/) - Native, infinitely nest-able notes with multi-dimensional tagging.
+- [The difference between note-taking and note-making](https://nesslabs.com/from-note-taking-to-note-making) ([HN](https://news.ycombinator.com/item?id=25789073))
