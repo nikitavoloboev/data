@@ -564,6 +564,7 @@
 - [BBMetalImage](https://github.com/Silence-GitHub/BBMetalImage) - High performance Swift library for GPU-accelerated image/video processing based on Metal.
 - [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework.
 - [Swift Declarative Configuration](https://github.com/MakeupStudio/swift-declarative-configuration) - Tiny library, that enables you to configure your objects in a declarative, consistent and understandable way, with ergonomics in mind.
+- [Inflection](https://github.com/SwiftDocOrg/Inflection) - Swift port of the string inflection functionality from Rails ActiveSupport.
 
 ## Other (not lib)
 

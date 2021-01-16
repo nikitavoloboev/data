@@ -200,3 +200,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typeset](https://typeset.lllllllllllllllll.com/) - HTML pre-processor for web typography.
 - [glyphhanger](https://github.com/filamentgroup/glyphhanger) - Web font utility belt. It can subset web fonts. It can show you what unicode-ranges are used on a web site (optionally per font-family.
 - [Web Fonts in 2021](https://leerob.io/blog/fonts)
+- [My favorite typefaces of 2020](https://ilovetypography.com/2021/01/12/my-favorite-fonts-of-2020/)
+- [I love Typography](https://ilovetypography.com/)

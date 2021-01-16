@@ -83,3 +83,4 @@
 - [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications (2020)](https://arxiv.org/abs/2001.06937)
 - [Adversarial Grammatical Error Correction (2020)](https://arxiv.org/abs/2010.02407)
 - [You Only Need Adversarial Supervision for Semantic Image Synthesis (2020)](https://arxiv.org/abs/2012.04781) ([Code](https://github.com/boschresearch/OASIS))
+- [GAN Inversion: A Survey (2021)](https://arxiv.org/abs/2101.05278) - GAN inversion aims to invert a given image back into the latent space of a pretrained GAN model, for the image to be faithfully reconstructed from the inverted code by the generator.

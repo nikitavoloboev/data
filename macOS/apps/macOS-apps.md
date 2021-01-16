@@ -84,6 +84,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Syncthing macOS](https://github.com/syncthing/syncthing-macos) - Native macOS Syncthing tray application bundle.
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Modern notes manager for macOS and iOS. ([Web](https://fsnot.es/))
 - [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Application for Inspecting macOS Installer Packages.
+- [CleanShot X](https://cleanshot.com/) - Capture your Mac’s screen like a pro.
 
 ## Other interesting apps
 

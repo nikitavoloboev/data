@@ -146,6 +146,7 @@
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between DOM elements in React.
 - [React Layout Components](https://github.com/kripod/react-layout-components) - Layout components for React, primarily inspired by Every Layout.
 - [React Popper](https://github.com/popperjs/react-popper) - React wrapper around Popper tooltip library.
+- [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
 
 ## Links
 

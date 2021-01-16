@@ -87,3 +87,4 @@
 - [Container Registry](https://container-registry.com/) - Dedicated Container Registry as a Service.
 - [NVIDIA container runtime](https://github.com/NVIDIA/nvidia-container-runtime)
 - [Minict](https://github.com/Ripolak/minict) - Minimal container runtime written in Go. Written for learning purposes.
+- [minicon](https://github.com/grycap/minicon) - Minimization of the filesystem for containers.

@@ -174,6 +174,7 @@
 - [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
 - [STHash](https://github.com/jedisct1/rust-sthash) - Fast, keyed, cryptographic hash function designed to process large, possibly untrusted data.
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic.
+- [pairing](https://github.com/zkcrypto/pairing) - Crate for using pairing-friendly elliptic curves.
 
 ## Linux
 
