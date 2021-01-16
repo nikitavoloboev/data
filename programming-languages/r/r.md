@@ -45,3 +45,4 @@
 - [parameters](https://github.com/easystats/parameters) - Utilities for processing the parameters of various statistical models.
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R.
 - [recipes](https://github.com/tidymodels/recipes) - Preprocessing engine to generate design matrices.
+- [golgotha](https://github.com/bnosac/golgotha) - Contextualised Embeddings and Language Modelling using BERT and Friends using R.

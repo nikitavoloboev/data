@@ -178,3 +178,4 @@
 - [Immediate mode GUI performance (2020)](https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance) ([HN](https://news.ycombinator.com/item?id=25624044))
 - [C++ for Swift developers (2021)](https://whackylabs.com/swift/cpp/languages/2021/01/03/cpp-for-swift-devs/)
 - [C++ std::async with a concurrency limit (via semaphores) (2021)](https://raymii.org/s/tutorials/Cpp_std_async_with_a_concurrency_limit.html)
+- [C++ Performance Trap #1: Constant-size std::vector (2021)](https://wolchok.org/posts/cxx-trap-1-constant-size-vector/)

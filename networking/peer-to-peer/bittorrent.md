@@ -50,3 +50,4 @@
 - [cratetorrent](https://github.com/mandreyel/cratetorrent) - Rust crate implementing the BitTorrent version 1 protocol.
 - [Flood](https://flood.js.org/) - Modern web UI for rTorrent, Transmission and qBittorrent. ([Code](https://github.com/jesec/flood))
 - [rustorrent](https://github.com/sebastiencs/rustorrent) - BitTorrent library implemented in Rust.
+- [Defeating Vanish with Low-Cost Sybil Attacks Against Large DHTs (2010)](https://jhalderm.com/pub/papers/unvanish-ndss10-web.pdf)
