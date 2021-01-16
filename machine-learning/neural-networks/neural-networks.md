@@ -196,3 +196,4 @@
 - [Drawing early-bird tickets: Towards more efficient training of deep networks (2020)](https://arxiv.org/abs/1909.11957) ([Code](https://github.com/RICE-EIC/Early-Bird-Tickets))
 - [CountNet: Speaker Count Estimation using Deep Neural Networks](https://github.com/faroit/CountNet)
 - [Applications of Deep Neural Networks Course (2021)](https://sites.wustl.edu/jeffheaton/t81-558/) ([Code](https://github.com/jeffheaton/t81_558_deep_learning))
+- [DDSL: Deep Differential Simplex Layer for Neural Networks](https://github.com/maxjiang93/DDSL)

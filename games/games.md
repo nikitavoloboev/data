@@ -150,3 +150,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [SimulationCraft](https://github.com/simulationcraft/simc) - Tool to explore combat mechanics in the popular MMO RPG World of Warcraft.
 - [Puzzles](http://nikoli.co.jp/en/puzzles/)
 - [playit.gg](https://playit.gg/) - Making it easy to play games with friends.
+- [Proton Custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
