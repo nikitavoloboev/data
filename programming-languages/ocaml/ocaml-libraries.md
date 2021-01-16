@@ -69,6 +69,7 @@
 - [ppx_optcomp](https://github.com/janestreet/ppx_optcomp) - Optional compilation for OCaml.
 - [Session-ocaml](https://github.com/keigoi/session-ocaml) - Implementation of binary session types in OCaml.
 - [brr](https://github.com/dbuenzli/brr) - Browser programming toolkit for OCaml.
+- [Dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml.
 
 ## Links
 

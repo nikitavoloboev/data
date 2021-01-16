@@ -96,3 +96,4 @@
 - [whaler](https://github.com/treebeardtech/whaler) - Visual disk-usage analyzer for docker images.
 - [It’s time to switch to Docker BuildKit (2021)](https://pythonspeed.com/articles/docker-buildkit/) ([Lobsters](https://lobste.rs/s/zh18id/it_s_time_switch_docker_buildkit))
 - [Envase](https://envase-website.vercel.app/) - Removes the pain from running apps using docker by providing an amazing developer experience. ([Code](https://github.com/ameerthehacker/envase))
+- [Doko](https://github.com/egoist/doko) - Docker-based development dependency manager.

@@ -310,3 +310,4 @@
 - [kustomize-controller](https://github.com/fluxcd/kustomize-controller) - Kubernetes operator, specialized in running continuous delivery pipelines for infrastructure and workloads defined with Kubernetes manifests and assembled with Kustomize.
 - [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS.
 - [Weave Scope](https://github.com/weaveworks/scope) - Troubleshooting & Monitoring for Docker & Kubernetes. ([Web](https://www.weave.works/oss/scope/))
+- [Kubernetes on Rails](https://kubernetesonrails.com/) - Premium training course to get you up-to-speed on deploying web applications using Kubernetes.

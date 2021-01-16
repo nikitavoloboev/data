@@ -692,6 +692,7 @@
 - [kube-exec](https://github.com/engineerd/kube-exec) - Lightweight Go package for executing commands in remote Kubernetes pods.
 - [fuse](https://github.com/bazil/fuse) - Go library for writing FUSE userspace filesystems.
 - [Gocache](https://github.com/eko/gocache) - Complete Go cache library that brings you multiple ways of managing your caches.
+- [Configor](https://github.com/jinzhu/configor) - Go Configuration tool that support YAML, JSON, TOML, Shell Environment.
 
 ## Links
 
