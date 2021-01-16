@@ -83,6 +83,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Pika](https://github.com/superhighfives/pika) - Open-source colour picker app for macOS. ([Web](https://superhighfives.com/pika))
 - [Syncthing macOS](https://github.com/syncthing/syncthing-macos) - Native macOS Syncthing tray application bundle.
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Modern notes manager for macOS and iOS. ([Web](https://fsnot.es/))
+- [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/) - Application for Inspecting macOS Installer Packages.
 
 ## Other interesting apps
 

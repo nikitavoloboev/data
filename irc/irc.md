@@ -44,3 +44,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [InspIRCd](https://github.com/inspircd/inspircd) - Modular C++ IRC server. ([Web](https://www.inspircd.org/))
 - [IRC Browse](https://ircbrowse.tomsmeding.com/) - Web service for browsing IRC logs. ([Code](https://github.com/tomsmeding/ircbrowse))
 - [DarkScience](https://www.darkscience.net/) - Group of enthusiasts with a shared interest in computer science. IRC server.
+- [Freenode](https://freenode.net/) - IRC network used to discuss peer-directed projects. ([GitHub](https://github.com/freenode)) ([Contributing to Freenode IRC Network](https://freenode.net/contributing))

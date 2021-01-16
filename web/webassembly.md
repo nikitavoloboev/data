@@ -131,3 +131,4 @@
 - [A practical guide to WebAssembly memory (2021)](https://radu-matei.com/blog/practical-guide-to-wasm-memory/)
 - [A simple WebAssembly linker in JavaScript (2021)](https://radu-matei.com/blog/a-simple-wasm-linker-js/)
 - [Towards sockets and networking in WebAssembly and WASI (2020)](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
+- [box2d-wasm](https://github.com/Birch-san/box2d-wasm) - Box2D physics engine compiled to WebAssembly. Supports TypeScript and ES modules.

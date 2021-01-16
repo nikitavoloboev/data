@@ -91,3 +91,4 @@
 - [PyMOL](https://pymol.org/) - Molecular visualization system. ([Code](https://github.com/schrodinger/pymol-open-source))
 - [Bioinformatics Chat](https://bioinformatics.chat/) - Podcast about computational biology, bioinformatics, and next generation sequencing.
 - [OpenCADD](https://github.com/volkamerlab/opencadd) - Python library for structural cheminformatics.
+- [Ask HN: Best way to learn computational biology/immunology? (2021)](https://news.ycombinator.com/item?id=25801821)

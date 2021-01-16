@@ -197,3 +197,4 @@
 - [CountNet: Speaker Count Estimation using Deep Neural Networks](https://github.com/faroit/CountNet)
 - [Applications of Deep Neural Networks Course (2021)](https://sites.wustl.edu/jeffheaton/t81-558/) ([Code](https://github.com/jeffheaton/t81_558_deep_learning))
 - [DDSL: Deep Differential Simplex Layer for Neural Networks](https://github.com/maxjiang93/DDSL)
+- [Making sense of sensory input (2021)](https://www.sciencedirect.com/science/article/pii/S0004370220301855)

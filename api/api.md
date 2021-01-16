@@ -196,3 +196,4 @@
 - [The API Book](https://twirl.github.io/The-API-Book/docs/API.en.html) ([Code](https://github.com/twirl/The-API-Book))
 - [API-Less Architecture](https://github.com/apilessdev/apiless)
 - [Mocker API](https://github.com/jaywcjlove/mocker-api) - Creates mocks for REST APIs. It will be helpful when you try to test your application without the actual REST API server.
+- [Building DigitalOcean's API Gateway (2021)](https://mauricio.github.io/2021/01/14/building-digitaloceans-api-gateway.html) ([HN](https://news.ycombinator.com/item?id=25800237))

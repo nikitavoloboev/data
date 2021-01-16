@@ -46,3 +46,4 @@
 - [Reducing flaky builds by 18x (2020)](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/)
 - [Reproducible Builds](https://reproducible-builds.org/)
 - [Tup](https://github.com/gittup/tup) - File-based build system. It takes as input a list of file changes and a directed acyclic graph (DAG). ([Web](http://gittup.org/tup/))
+- [The Problem with Gradle (2021)](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/) ([HN](https://news.ycombinator.com/item?id=25801986))

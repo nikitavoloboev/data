@@ -8,7 +8,7 @@
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework.
-- [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications.
+- [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications. ([HN](https://news.ycombinator.com/item?id=25800754))
 - [Solid](https://github.com/ryansolid/solid) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 - [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup. ([Awesome Alpine](https://github.com/alpine-collective/awesome))
