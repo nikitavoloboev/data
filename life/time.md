@@ -19,3 +19,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Ask HN: What are some good methods to prove current time? (2020)](https://news.ycombinator.com/item?id=24744531)
 - [Clock Synchronization (2020)](https://signalsandthreads.com/clock-synchronization/)
 - [Notes on time and causality](https://boris-marinov.github.io/time/) - Collection of philosophical essays on the subject of causality, determinism and time in general.
+- [Illusions of Time (2021)](https://www.youtube.com/watch?v=zHL9GP_B30E)

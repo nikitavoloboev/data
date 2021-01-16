@@ -35,3 +35,4 @@
 - [Flutterust](https://github.com/shekohex/flutterust) - Using Rust libs from Flutter.
 - [Hydro-SDK](https://github.com/hydro-sdk/hydro-sdk) - Author native Flutter experiences in Typescript and deliver updates directly to users over the air and out of band.
 - [GraphX](https://github.com/roipeker/graphx) - Making drawings and animations in Flutter extremely simple.
+- [Flutter samples](https://github.com/flutter/samples) - Collection of open source samples that illustrate best practices for Flutter.

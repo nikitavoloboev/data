@@ -41,6 +41,7 @@
 - [jaxlie](https://github.com/brentyi/jaxlie) - Lie groups for rigid transformations & optimization in JAX.
 - [BlackJAX](https://github.com/blackjax-devs/blackjax) - Sampling library designed for ease of use, speed and modularity.
 - [Time Series Feature Extraction](https://github.com/fraunhoferportugal/tsfel) - Intuitive library to extract features from time series.
+- [Kalepy](https://github.com/lzkelley/kalepy) - Kernel Density Estimation and (re)sampling.
 
 ## Biology
 
