@@ -61,3 +61,4 @@
 - [Getting Started in Robotics (2021)](https://allshire.org/getting-started-robotics/) ([HN](https://news.ycombinator.com/item?id=25608932))
 - [FERM: A Framework for Efficient Robotic Manipulation](https://github.com/PhilipZRH/ferm)
 - [The Way Boston Dynamics Taught Its Robots to Dance (2021)](https://spectrum.ieee.org/automaton/robotics/humanoids/how-boston-dynamics-taught-its-robots-to-dance) ([HN](https://news.ycombinator.com/item?id=25671452))
+- [HKU MaRS Lab](http://web.hku.hk/~fuzhang/index.html) - Focuses on general mechatronic systems and robotics, with emphasis on their practical use in real human life and industry. ([GitHub](https://github.com/hku-mars))

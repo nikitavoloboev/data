@@ -672,6 +672,7 @@
   - [QMK](keyboards/qmk.md)
 - [Future](future/future.md)
 - [Cryptocurrencies](cryptocurrencies/cryptocurrencies.md)
+  - [Nano](cryptocurrencies/nano.md)
   - [Bitcoin](cryptocurrencies/bitcoin.md)
   - [Stellar](cryptocurrencies/stellar.md)
   - [Libra](cryptocurrencies/libra.md)

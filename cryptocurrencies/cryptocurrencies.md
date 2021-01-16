@@ -1,20 +1,24 @@
 # Cryptocurrencies
 
-I think [Nano](https://nano.org) is the future of money if compared to any other coin based off its features. Whilst [Ethereum](../databases/blockchain/ethereum.md)/[Tezos](../databases/blockchain/tezos.md) are great for building out more complex decentralized apps.
+I think [Nano](nano.md) is the future of money if compared to any other coin based off its features. Whilst [Ethereum](../databases/blockchain/ethereum.md)/[Tezos](../databases/blockchain/tezos.md) are great for building out more complex decentralized apps.
 
 It's a matter of time that Bitcoin with its horrible PoW consensus that [wastes electricity](https://www.youtube.com/watch?v=f0HC1Udk6-E) and its slow & expensive transactions will no longer be used (even as a store of value).
 
 ## Interesting
 
-- [Nano](https://nano.org) - Peer-to-peer digital currency with fast & cheap transactions. ([Code](https://github.com/nanocurrency/nano-node)) ([What are things that make nano superior to bitcoin?](https://www.reddit.com/r/nanocurrency/comments/kpbsin/what_are_things_that_make_nano_superior_to_bitcoin/)) ([Why Nano isn't more popular](https://www.reddit.com/r/nanocurrency/comments/btm4yk/how_the_hell_is_nano_not_a_top_10_cryptocurrency/ep000vh/)) ([GitHub](https://github.com/nanocurrency))
+- [Nano](nano.md) - Peer-to-peer digital currency with fast & cheap transactions.
 - [Cardano SL](https://cardanodocs.com/introduction/) ([Benefits of Nano](https://www.reddit.com/r/nanocurrency/comments/ksz0hi/all_the_benefits_of_nano_summarized/))
-- [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance. ([Forum](https://forum.makerdao.com/))
+- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency. ([Mastering Monero](https://masteringmonero.com/))
 - [Libra](libra.md)
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
-- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency. ([Mastering Monero](https://masteringmonero.com/))
 - [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
+- [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance. ([Forum](https://forum.makerdao.com/))
 - [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
+
+## Notes
+
+- [The thing we call money is just an information system for labor allocation. What actually matters is making goods & providing services. We should look at currencies from an information theory standpoint. Whichever has least error & latency will win.](https://twitter.com/elonmusk/status/1349977642708168704)
 
 ## Links
 
