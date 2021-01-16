@@ -79,3 +79,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: Successful one-person online businesses in 2021?](https://news.ycombinator.com/item?id=25614966)
 - [Findnlink](https://www.findnlink.com/) - Find people to work with on your ideas.
 - [Ask HN: Show me your half baked project (2021)](https://news.ycombinator.com/item?id=25700135)
+- [Ideas Grab](https://www.ideasgrab.com/) - List of +3400 ideas that you can use for your own projects.

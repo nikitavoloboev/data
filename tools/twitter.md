@@ -64,3 +64,4 @@
 - [Twitter CLI](https://github.com/sferik/t) - Command-line power tool for Twitter.
 - [Simple and unlimited twitter scraper with python and without authentication](https://github.com/Altimis/Scweet)
 - [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
+- [Block Party](https://www.blockpartyapp.com/) - Filter out unwanted @mentions from Twitter, and continue to use Twitter as normal.

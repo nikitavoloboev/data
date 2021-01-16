@@ -7,3 +7,5 @@
 - [Blender For Unreal Engine](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) - Allows you to export content created with Blender to Unreal Engine 4.
 - [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython) - Embed Python in Unreal Engine 4.
 - [Unreal Engine for Next-Gen Games (2020)](https://www.youtube.com/watch?v=roMYi7BU1YY)
+- [Stanford CS193u: Video Game Development in C++ and Unreal Engine (2020)](https://www.tomlooman.com/stanford-cs193u/)
+- [Create Multiplayer Games with C++: Unreal Engine Mastery](https://www.udemy.com/course/unrealengine-cpp/)
