@@ -652,6 +652,8 @@
 - [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) - Sandboxing library for Rust.
 - [etcd-client](https://github.com/etcdv3/etcd-client) - etcd v3 API client for Rust. It provides asynchronous client backed by tokio and tonic.
 - [alga](https://github.com/dimforge/alga) - Abstract algebra for Rust.
+- [Postcard](https://github.com/jamesmunns/postcard) - no_std + serde compatible message library for Rust.
+- [soa-derive](https://github.com/lumol-org/soa-derive) - Array of Struct to Struct of Array helpers in Rust.
 
 ## Cargo Plugins
 

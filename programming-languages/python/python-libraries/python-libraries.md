@@ -298,6 +298,7 @@
 - [Fugue](https://github.com/fugue-project/fugue) - Abstraction layer for distributed computation.
 - [PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python.
 - [Spylls](https://github.com/zverok/spylls) - Pure Python spell-checker.
+- [Ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support.
 
 ## Links
 

@@ -92,3 +92,4 @@
 - [Bioinformatics Chat](https://bioinformatics.chat/) - Podcast about computational biology, bioinformatics, and next generation sequencing.
 - [OpenCADD](https://github.com/volkamerlab/opencadd) - Python library for structural cheminformatics.
 - [Ask HN: Best way to learn computational biology/immunology? (2021)](https://news.ycombinator.com/item?id=25801821)
+- [Lumol](https://github.com/lumol-org/lumol) - Classical molecular simulation engine that provides a solid base for developing new algorithms and methods. ([Web](https://lumol.org/))

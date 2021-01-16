@@ -399,3 +399,4 @@
 - [The Rust module system for Python users (2021)](https://blog.waleedkhan.name/rust-modules-for-python-users/)
 - [GCC Rust](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust. ([Web](https://rust-gcc.github.io/)) ([HN](https://news.ycombinator.com/item?id=25715431))
 - [Oxide: The Essence of Rust](https://aaronweiss.us/pubs/draft20-oxide.pdf) ([Code](https://github.com/aatxe/oxide))
+- [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) ([HN](https://news.ycombinator.com/item?id=25805340))
