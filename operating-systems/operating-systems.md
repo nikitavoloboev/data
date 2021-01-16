@@ -82,6 +82,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Eltanin](https://eltan.in.net/) - Free, simple, and complete general-purpose operating system.
 - [skiftOS](https://github.com/skiftOS/skift) - Simple, handmade, operating system with a graphical user interface. ([Web](https://skiftos.org/))
 - [ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more. ([HN](https://news.ycombinator.com/item?id=25779930))
+- [Pluto](https://github.com/ZystemOS/pluto) - x86 kernel written in Zig.
 
 ## Notes
 

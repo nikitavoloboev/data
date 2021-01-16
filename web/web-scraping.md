@@ -77,3 +77,4 @@
 - [Scraping HN content with declarative programming](https://pathom3.wsscode.com/docs/tutorials/hacker-news-scraper/)
 - [snscrape](https://github.com/JustAnotherArchivist/snscrape) - Social networking service scraper in Python.
 - [qwarc](https://github.com/JustAnotherArchivist/qwarc) - Framework for rapidly archiving a large number of URLs with little overhead.
+- [select.rs](https://github.com/utkarshkukreti/select.rs) - Rust library to extract useful data from HTML documents, suitable for web scraping.
