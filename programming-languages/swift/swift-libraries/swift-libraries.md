@@ -161,6 +161,7 @@
 ## Web
 
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
+- [Alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
 - [LeafKit](https://github.com/vapor/leaf-kit)
 - [TinyNetworking](https://github.com/objcio/tiny-networking) - Contains a tiny networking library. It provides a struct Endpoint, which combines a URL request and a way to parse responses for that request.
 - [AsyncKit](https://github.com/vapor/async-kit) - Sugary extensions for the SwiftNIO library.

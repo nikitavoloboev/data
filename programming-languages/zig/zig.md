@@ -33,3 +33,4 @@
 - [Pirates of Apple Silicon - Jakub Konka, Frank Denis, Andrew Kelley (2020)](https://www.youtube.com/watch?v=t1pdnQRPAZo)
 - [Zig in 30 Minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) ([HN](https://news.ycombinator.com/item?id=25618302))
 - [Extending C with Zig](https://www.nmichaels.org/zig/c-library.html)
+- [Why Zig when there is already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/) ([HN](https://news.ycombinator.com/item?id=25797025))
