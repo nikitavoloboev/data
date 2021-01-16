@@ -212,6 +212,7 @@
 - [paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs.
 - [Darling](https://github.com/TedDriggs/darling) - Rust proc-macro attribute parser.
 - [unseemly](https://github.com/paulstansifer/unseemly) - Macros have types. ([Web](https://unseemly.github.io/))
+- [seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code.
 
 ## Other
 
