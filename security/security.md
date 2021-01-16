@@ -140,3 +140,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Machine Learning for Security Course](https://security.kiwi/docs/introduction/)
 - [Drata](https://drata.com/) - Put SOC 2 Compliance On Autopilot.
 - [Escaping VirtualBox 6.1 (2021)](https://secret.club/2021/01/14/vbox-escape.html) ([HN](https://news.ycombinator.com/item?id=25795731))
+- [Our Dumb Security Questionnaire (2021)](https://hangar.tech/posts/our-dsq/) ([HN](https://news.ycombinator.com/item?id=25793230))
