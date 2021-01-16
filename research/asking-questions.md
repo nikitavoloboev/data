@@ -33,3 +33,4 @@ In short, it can be summed down to this:
 - [How to answer questions in a helpful way (2017)](https://jvns.ca/blog/answer-questions-well/)
 - [How to ask senior devs for help? (2020)](https://dev.to/sloan/how-to-ask-senior-devs-for-help-17ji)
 - [Oblique Questions (2020)](http://neugierig.org/software/blog/2020/04/oblique-questions.html)
+- [40 questions to ask yourself every year](http://stephanango.com/40-questions) ([Code](https://github.com/kepano/40-questions))

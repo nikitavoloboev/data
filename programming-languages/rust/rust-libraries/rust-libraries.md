@@ -3,7 +3,7 @@
 ## CLI
 
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
-- [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
+- [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
@@ -149,6 +149,7 @@
 - [SNAFU](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context.
 - [some-error](https://github.com/jam1garner/some-error) - Library for creating and using anonymous sum types as errors.
 - [Srcerr](https://github.com/azriel91/srcerr) - User friendly errors from source data.
+- [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
 
 ## IO
 

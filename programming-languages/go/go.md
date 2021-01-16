@@ -415,3 +415,4 @@ Go promotes composition over inheritance.
 - [A Proposal for Adding Generics to Go (2021)](https://blog.golang.org/generics-proposal) ([HN](https://news.ycombinator.com/item?id=25750582)) ([Reddit](https://www.reddit.com/r/golang/comments/kvwub9/go_generics_proposal/))
 - [Gomod2nix](https://github.com/tweag/gomod2nix) - Convert applications using Go modules -> Nix.
 - [So just how fast are channels anyway? (2017)](https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45)
+- [Go Slice Tricks Cheat Sheet](https://ueokande.github.io/go-slice-tricks/)
