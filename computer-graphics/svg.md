@@ -63,3 +63,4 @@
 - [js-sequence-diagrams](https://bramp.github.io/js-sequence-diagrams/) - Draws simple SVG sequence diagrams from textual representation of the diagram. ([Code](https://github.com/bramp/js-sequence-diagrams))
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web GUI for SVGO. ([Code](https://github.com/jakearchibald/svgomg))
 - [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes. ([Web](http://andreaferretti.github.io/paths-js-react-demo/))
+- [CairoSVG](https://github.com/Kozea/CairoSVG) - SVG converter based on Cairo. It can export SVG files to PDF, EPS, PS, and PNG files. ([Web](https://www.courtbouillon.org/cairosvg))

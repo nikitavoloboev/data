@@ -98,3 +98,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self-Hosted Google Photos Alternative. ([HN](https://news.ycombinator.com/item?id=25588712))
 - [Awesome Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - Command-line tool to download photos from iCloud.
+- [The Cult of Leica (2021)](http://leicaphilia.com/the-cult-of-leica/)
+- [Leicaphilia](http://leicaphilia.com/)
