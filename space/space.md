@@ -69,3 +69,5 @@
 - [AstroWright](https://sites.psu.edu/astrowright/) - Astronomy and meta-Astronomy by Jason Wright.
 - [How to survive in spacecraft (2020)](https://media.ccc.de/v/rc3-158638-how_to_survive_in_spacecraft) ([HN](https://news.ycombinator.com/item?id=25590724))
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) ([HN](https://news.ycombinator.com/item?id=25698990))
+- [Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua (2021)](https://overcast.fm/+eZyAFuMjA)
+- [Professor Abraham (Avi) Loeb Research](https://www.cfa.harvard.edu/~loeb/)
