@@ -27,3 +27,4 @@
 - [Kafka is not a Database (2020)](https://materialize.com/kafka-is-not-a-database/) ([HN](https://news.ycombinator.com/item?id=25346851)) ([Tweet](https://twitter.com/martinkl/status/1336336852890963977))
 - [Kafka As A Database? Yes Or No (2021)](https://davidxiang.com/2021/01/10/kafka-as-a-database/)
 - [Kafka Kit](https://github.com/DataDog/kafka-kit) - Tools for Scaling Kafka. ([Article](https://www.datadoghq.com/blog/engineering/introducing-kafka-kit-tools-for-scaling-kafka/))
+- [Estimating when a message will be consumed in Kafka (2020)](https://techblog.cdiscount.com/estimating-when-a-message-will-be-consumed-in-kafka/)

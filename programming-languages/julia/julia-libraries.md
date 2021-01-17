@@ -22,6 +22,7 @@
 - [KernelDensity.jl](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for Julia.
 - [Reinforce](https://github.com/JuliaML/Reinforce.jl) - Abstractions, algorithms, and utilities for reinforcement learning in Julia.
 - [Augmentor](https://github.com/Evizero/Augmentor.jl) - Fast image augmentation library in Julia for machine learning.
+- [DiffEqSensitivity.jl](https://github.com/SciML/DiffEqSensitivity.jl) - Sensitivity analysis for scientific machine learning (SciML).
 
 ## Math
 

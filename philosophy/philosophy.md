@@ -37,3 +37,5 @@ In any way, it is an interesting subject I don't know much about.
 - [Two Concepts of Legibility (2020)](https://ideolalia.com/essays/two-concepts-of-legibility.html) ([Lobsters](https://lobste.rs/s/0mel38/two_concepts_legibility))
 - [Science in a High-Dimensional World (2021)](https://www.lesswrong.com/posts/4XRjPocTprL4L8tmB/science-in-a-high-dimensional-world)
 - [Freedom of Speech (2019)](https://plato.stanford.edu/entries/freedom-speech/) ([HN](https://news.ycombinator.com/item?id=25775003))
+- [Perspectivism | Beyond Good and Evil](https://www.youtube.com/watch?v=xPLq4NgHM48)
+- [Christopher Anadale - YouTube](https://www.youtube.com/c/ChristopherAnadale/featured) - Teaches philosophy.
