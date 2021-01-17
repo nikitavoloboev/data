@@ -300,6 +300,7 @@
 - [PyMesh](https://github.com/PyMesh/PyMesh) - Geometry Processing Library for Python.
 - [Spylls](https://github.com/zverok/spylls) - Pure Python spell-checker.
 - [Ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support.
+- [CSRGraphs](https://github.com/VHRanger/CSRGraph) - Fast and memory efficient library for large read-only graphs.
 
 ## Links
 

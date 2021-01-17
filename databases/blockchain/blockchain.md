@@ -102,3 +102,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Secret Network](https://github.com/enigmampc/SecretNetwork) - Blockchain-based, open-source protocol that lets anyone perform computations on encrypted data, bringing privacy to smart contracts and public blockchains. ([Web](https://www.enigma.co/))
 - [Blockchain Technology and Applications | Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/)
 - [Indy Node](https://github.com/hyperledger/indy-node) - Distributed ledger purpose-built for decentralized identity.
+- [Reach](https://github.com/reach-sh/reach-lang) - Safest and Easiest DApp Programming Language. ([Web](https://reach.sh/))

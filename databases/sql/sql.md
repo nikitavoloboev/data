@@ -87,3 +87,4 @@
 - [Introduction to Window Functions in SQL (2020)](https://khashtamov.com/en/sql-window-functions/) ([HN](https://news.ycombinator.com/item?id=25656583))
 - [Preql](https://github.com/erezsh/Preql) - Interpreted relational query language that compiles to SQL. ([Lobsters](https://lobste.rs/s/r5qaap/introducing_preql_new_relational))
 - [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards (2021)](https://blog.arctype.com/sql-50-years/) ([Lobsters](https://lobste.rs/s/jqf8z1/what_can_we_learn_from_sql_s_50_year_reign))
+- [SQL Next Steps: Optimization](https://www.oreilly.com/live-training/courses/sql-next-steps-optimization/0636920452904/) ([Code](https://github.com/hakib/oreilly-sql-next-steps))

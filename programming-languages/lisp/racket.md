@@ -45,3 +45,5 @@
 - [datatype](https://github.com/pnwamk/datatype) - Algebraic(-like) Data Types for Racket.
 - [Rosette](https://emina.github.io/rosette/) - Solver-aided programming language that extends Racket with language constructs for program synthesis, verification, and more. ([Code](https://github.com/emina/rosette))
 - [Typed Rosette](https://github.com/stchang/typed-rosette) - Experimental typed version of the Rosette language.
+- [Racket GitHub](https://github.com/racket)
+- [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/) ([Code](https://github.com/jeapostrophe/racket-cheat))
