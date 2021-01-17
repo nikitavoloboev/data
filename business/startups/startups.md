@@ -252,6 +252,7 @@
 - [The Hardest Lessons for Startups to Learn (2006)](http://www.paulgraham.com/startuplessons.html)
 - [Startup Stock Options – Why A Good Deal Has Gone Bad (2019)](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
 - [Founders of VC backed startups, are you genuinely happy? (2020)](https://www.reddit.com/r/startups/comments/khng2j/founders_of_vc_backed_startups_are_you_genuinely/)
+- [Ask HN: Is frugality underrated in startups? (2021)](https://news.ycombinator.com/item?id=25809852)
 
 ## Images
 
