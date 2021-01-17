@@ -248,3 +248,4 @@
 - [Next-gen Haskell Compilation Techniques with Csaba Hruska (2021)](https://www.youtube.com/watch?v=jyaR8E325ok)
 - [Haskell In Haskell](https://github.com/cronokirby/haskell-in-haskell) - Trying to write an understandable implementation of Haskell, in Haskell.
 - [Why Haskell is our first choice for building production software systems (2021)](https://www.foxhound.systems/blog/why-haskell-for-production/) ([HN](https://news.ycombinator.com/item?id=25726588))
+- [Maybe Considered Harmful (2021)](https://rpeszek.github.io/posts/2021-01-16-maybe-harmful.html)

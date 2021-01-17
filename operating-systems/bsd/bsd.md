@@ -41,3 +41,5 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD – A Lesson in Poor Defaults](https://vez.mrsk.me/freebsd-defaults.html)
 - [macOS to FreeBSD migration a.k.a. why I left macOS (2020)](https://antranigv.am/weblog_en/posts/macos_to_freebsd/) ([HN](https://news.ycombinator.com/item?id=25266435))
 - [Starting with FreeBSD jails (2020)](https://rubenerd.com/starting-with-freebsd-jails/) ([Lobsters](https://lobste.rs/s/og13z5/starting_with_freebsd_jails))
+- [Exploring Swap on FreeBSD (2021)](https://klarasystems.com/articles/exploring-swap-on-freebsd/)
+- [Klara](https://klarasystems.com/) - Next Generation in FreeBSD Development.

@@ -31,6 +31,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Ezhil](https://github.com/vividvilla/ezhil) - Clean and minimal personal blog and portfolio theme for Hugo.
 - [owl space](https://github.com/JoogsWasTaken/owlspace) - Hugo theme made for owls.
 - [Er](https://github.com/lingxz/er) - Configurable blog theme for Hugo.
+- [TeXify](https://github.com/queensferryme/hugo-theme-texify) - Minimal, latex-style hugo theme for personal blogging.
 
 ## Examples
 
