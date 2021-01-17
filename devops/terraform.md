@@ -57,3 +57,4 @@
 - [Terraform Provider for kind (Kubernetes IN Docker)](https://github.com/kyma-incubator/terraform-provider-kind)
 - [CircleCI Terraform provider](https://github.com/mrolla/terraform-provider-circleci)
 - [Terraform Landscape](https://github.com/coinbase/terraform-landscape) - Reformat output of `terraform plan` to be easier to read and understand.
+- [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision.
