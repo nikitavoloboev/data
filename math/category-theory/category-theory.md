@@ -31,7 +31,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Functional Programming and Category Theory [Part 1] - Categories and Functors](http://nikgrozev.com/2016/03/14/functional-programming-and-category-theory-part-1-categories-and-functors/)
 - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) ([PDF](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf))
 - [Category Theory for Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([Notes](https://github.com/rpeszek/notes-milewski-ctfp-hs))
 - [Learn You Some Category Theory](https://jozefg.bitbucket.io/posts/2013-10-22-category-theory-in-haskell.html)
 - [The Catsters YouTube channel](https://www.youtube.com/user/TheCatsters) - Videos on category theory.
 - [ELI 5: Category Theory](https://www.reddit.com/r/explainlikeimfive/comments/8rsvqw/eli5_what_is_category_theory/)
