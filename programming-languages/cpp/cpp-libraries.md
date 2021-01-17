@@ -167,6 +167,7 @@
 - [DynaMix (Dynamic Mixins)](https://github.com/iboB/dynamix) - New take on polymorphism. It lets the user compose and modify polymorphic objects at run time in C++.
 - [maths](https://github.com/polymonster/maths) - Linear algebra library with vector swizzling, intersection tests and useful functions for games and graphics dev.
 - [Edlib](https://github.com/Martinsos/edlib) - Lightweight, super fast C/C++ (& Python) library for sequence alignment using edit (Levenshtein) distance.
+- [Corrade](https://github.com/mosra/corrade) - C++11/C++14 multiplatform utility library. ([Web](https://magnum.graphics/corrade/))
 
 ## Links
 

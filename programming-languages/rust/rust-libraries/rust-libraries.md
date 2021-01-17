@@ -656,6 +656,7 @@
 - [soa-derive](https://github.com/lumol-org/soa-derive) - Array of Struct to Struct of Array helpers in Rust.
 - [bacon](https://github.com/aftix/bacon) - Scientific Computing in Rust. ([Article](https://aftix.xyz/home/bacon/))
 - [slab](https://github.com/carllerche/slab) - Pre-allocated storage for a uniform data type.
+- [Cuckoo Filter](https://github.com/axiomhq/rust-cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
 
 ## Cargo Plugins
 

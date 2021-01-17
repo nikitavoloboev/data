@@ -40,3 +40,4 @@
 - [Three.bas](https://github.com/zadvorsky/three.bas) - Three.js Buffer Animation System.
 - [Post Processing](https://github.com/vanruesc/postprocessing) - Post processing library that provides the means to implement image filter effects for three.js.
 - [three-elements](https://github.com/hmans/three-elements) - Web Components-powered custom HTML elements for building Three.js-powered games and interactive experiences.
+- [three-bmfont-text](https://github.com/Jam3/three-bmfont-text) - Bitmap font rendering for ThreeJS, batching glyphs into a single BufferGeometry.

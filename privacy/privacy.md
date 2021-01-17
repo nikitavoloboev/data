@@ -77,3 +77,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Data Security on Mobile Devices](https://securephones.io/)
 - [The Hairdresser Analogy (2021)](https://jessems.com/hairdresser-analogy) ([HN](https://news.ycombinator.com/item?id=25791684))
 - [Moxie Marlinspike Has a Plan to Reclaim Our Privacy (2020)](https://www.newyorker.com/magazine/2020/10/26/taking-back-our-privacy)
+- [We can do better than Signal (2021)](https://icyphox.sh/blog/signal/) ([HN](https://news.ycombinator.com/item?id=25811696)) ([Lobsters](https://lobste.rs/s/ypzg4z/we_can_do_better_than_signal))

@@ -164,6 +164,7 @@
 - [Scott Logic](https://www.scottlogic.com/)
 - [wemake.services](https://wemake.services/) ([GitHub](https://github.com/wemake-services))
 - [Foxhound Systems](https://www.foxhound.systems/)
+- [Jam3 Developers](https://jam3.dev/) ([GitHub](https://github.com/Jam3))
 
 ## Links
 
