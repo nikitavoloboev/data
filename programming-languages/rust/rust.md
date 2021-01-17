@@ -400,3 +400,4 @@
 - [GCC Rust](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust. ([Web](https://rust-gcc.github.io/)) ([HN](https://news.ycombinator.com/item?id=25715431))
 - [Oxide: The Essence of Rust](https://aaronweiss.us/pubs/draft20-oxide.pdf) ([Code](https://github.com/aatxe/oxide))
 - [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) ([HN](https://news.ycombinator.com/item?id=25805340))
+- [Rust is a hard way to make a web API (2021)](https://macwright.com/2021/01/15/rust.html) ([HN](https://news.ycombinator.com/item?id=25798008)) ([Lobsters](https://lobste.rs/s/275ihk/rust_is_hard_way_make_web_api))

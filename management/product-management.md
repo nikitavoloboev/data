@@ -42,3 +42,4 @@
 - [Giving design or product feedback advice (2020)](https://twitter.com/joulee/status/1338575853609861121)
 - [The Beautiful Mess 2020](https://johnpcutler.github.io/tbm2020/) - Weekly posts on product management.
 - [The Product Manager’s Guide to the Strategy (2020)](https://nfng.pro/2020/05/08/strategy/)
+- [Product Notion](https://productnotion.co/) - Product Management Templates library in Notion.

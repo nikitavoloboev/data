@@ -28,6 +28,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [PSX Party](https://psxparty.kosmi.io/) - Online Multiplayer Playstation 1 Emulator Using WebRTC. ([HN](https://news.ycombinator.com/item?id=25582187))
 - [generals.io](http://generals.io/) - Protect your general. Capture enemy generals.
 - [Play Cards With Me](https://playcardswith.me/) - Play card games online together with your rules. ([Code](https://github.com/raatmarien/playcardswith.me))
+- [Draw Battle](https://drawbattle.io/) - Competitive team drawing game.
 
 ## Awesome OSS games
 

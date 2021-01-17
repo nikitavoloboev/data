@@ -71,3 +71,4 @@
 - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) ([HN](https://news.ycombinator.com/item?id=25698990))
 - [Avi Loeb: Aliens, Black Holes, and the Mystery of the Oumuamua (2021)](https://overcast.fm/+eZyAFuMjA)
 - [Professor Abraham (Avi) Loeb Research](https://www.cfa.harvard.edu/~loeb/)
+- [ARK Space Exploration ETF (ARKX) (2021)](https://www.sec.gov/Archives/edgar/data/1579982/000110465921003837/tm212832d1_485apos.htm)

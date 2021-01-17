@@ -61,3 +61,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Ranking Web of Universities](http://www.webometrics.info/en)
 - [Canvas LMS](https://github.com/instructure/canvas-lms) - Modern, open-source LMS. ([Web](https://www.instructure.com/canvas/en-gb))
+- [CS50's Zoom Setup for Live Classes (2021)](https://www.youtube.com/watch?v=Slsc3tkoS_I)
