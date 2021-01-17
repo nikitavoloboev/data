@@ -89,3 +89,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Auto Sci-Hub](https://github.com/RoiArthurB/Side-Auto_Sci-Hub) - Cross-Browser Plugin to open Sci-Hub of the page with the article from your current tab.
 - [Sci-Hub Telegram Bot](https://telegram.me/scihubot)
 - [Papers with Video Extension](https://github.com/amitness/papers-with-video) - Chrome extension that adds video explanations to research papers on arxiv.org.
+- [Microsoft Academic](https://academic.microsoft.com/home) - Free public web search engine for academic publications and literature.
+- [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/Search/Advanced)
