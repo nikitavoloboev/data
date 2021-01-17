@@ -57,3 +57,4 @@
 - [Site Reliability Engineer Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
 - [fastlane](https://fastlane.tools/) - App automation done right. ([Code](https://github.com/fastlane/fastlane))
 - [List of Devops Resources](https://jrott.com/posts/devops-links/)
+- [werf](https://github.com/werf/werf) - Git as a single source of truth. Build. Deploy to Kubernetes. Stay in sync. ([Web](https://werf.io/))

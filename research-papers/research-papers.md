@@ -88,3 +88,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Peer-reviewed papers are getting increasingly boring (2021)](https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/) ([HN](https://news.ycombinator.com/item?id=25605156))
 - [Auto Sci-Hub](https://github.com/RoiArthurB/Side-Auto_Sci-Hub) - Cross-Browser Plugin to open Sci-Hub of the page with the article from your current tab.
 - [Sci-Hub Telegram Bot](https://telegram.me/scihubot)
+- [Papers with Video Extension](https://github.com/amitness/papers-with-video) - Chrome extension that adds video explanations to research papers on arxiv.org.
