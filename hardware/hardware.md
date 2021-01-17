@@ -156,3 +156,4 @@
 - [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) - List of ICs and IPs for AI, Machine Learning and Deep Learning.
 - [embedded-hal](https://github.com/rust-embedded/embedded-hal) - Hardware Abstraction Layer (HAL) for embedded systems.
 - [The Confusing World of USB (2020)](https://fabiensanglard.net/nousb/index.html) ([HN](https://news.ycombinator.com/item?id=25724014))
+- [ARM](https://www.arm.com/) - Architecting a Smarter World. ([GitHub](https://github.com/ARM-software))
