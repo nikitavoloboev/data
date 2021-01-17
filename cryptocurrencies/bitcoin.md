@@ -100,3 +100,4 @@
 - [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 - [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))
 - [Revault](https://github.com/re-vault/revault-demo) - Multi-party Bitcoin vault architecture.
+- [Environmental cost of bitcoin (2021)](https://twitter.com/smdiehl/status/1350869944888664064)
