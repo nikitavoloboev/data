@@ -42,6 +42,7 @@
 - [BlackJAX](https://github.com/blackjax-devs/blackjax) - Sampling library designed for ease of use, speed and modularity.
 - [Time Series Feature Extraction](https://github.com/fraunhoferportugal/tsfel) - Intuitive library to extract features from time series.
 - [Kalepy](https://github.com/lzkelley/kalepy) - Kernel Density Estimation and (re)sampling.
+- [Bodywork](https://github.com/bodywork-ml/bodywork-core) - Python framework that helps machine learning engineers run batch jobs, serve models and deploy machine learning pipelines, in containers on Kubernetes.
 
 ## Biology
 

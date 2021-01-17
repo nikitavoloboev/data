@@ -125,3 +125,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Imapsync](https://imapsync.lamiral.info/) - IMAP transfers tool. ([Code](https://github.com/imapsync/imapsync))
 - [rust-imap](https://github.com/jonhoo/rust-imap) - IMAP client library for Rust.
 - [mnm](https://mnmnotmail.org/) - Open source project to replace email & SMTP. ([HN](https://news.ycombinator.com/item?id=25804869)) ([Code](https://github.com/networkimprov/mnm))
+- [Umbriel](https://github.com/diego3g/umbriel) - Email marketing platform built with Node.js, TypeScript and DDD concepts.
