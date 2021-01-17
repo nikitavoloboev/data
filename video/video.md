@@ -179,3 +179,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Perfect Media Server](https://perfectmediaserver.com/) - Knowledge and information about building an open-source media server. ([Code](https://github.com/IronicBadger/pms-wiki/)) ([HN](https://news.ycombinator.com/item?id=25619137))
 - [MiniVideo](https://github.com/emericg/MiniVideo) - Multimedia framework developed from scratch in C/C++, bundled with test programs and a neat media analyzer.
 - [OpenPlayerJS](https://www.openplayerjs.com/) - Lightweight Media Player for Web. ([Code](https://github.com/openplayerjs/openplayerjs))
+- [Netflix Open Content](https://opencontent.netflix.com/)
+- [Clowdr](https://clowdr.org/) - Virtual conferences for social good. ([GitHub](https://github.com/clowdr-app)) ([Code](https://github.com/clowdr-app/clowdr))

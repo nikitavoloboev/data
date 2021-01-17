@@ -65,3 +65,4 @@
 - [The Deno Tag (2021)](https://hugodaniel.com/posts/introducing-deno-tag/) ([Lobsters](https://lobste.rs/s/kxvskq/introducing_deno_tag))
 - [lexy](https://github.com/littledivy/lexy) - Fast & Non-regex based lexical analysis for Deno.
 - [Deno in 2020](https://deno.land/posts/deno-in-2020)
+- [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
