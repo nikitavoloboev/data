@@ -89,4 +89,5 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [SyntaxEnvy](https://www.syntaxenvy.com/0782664) - Procedurally generated syntax highlighting themes.
 - [Universal Ctags](https://github.com/universal-ctags/ctags) - Generates an index (or tag) file of language objects found in source files for many popular programming languages.
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) ([Code](https://github.com/snaptoken/kilo-tutorial))
-- [The values of Emacs, the Neovim revolution, and the VSCode gorilla (2021)](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/)
+- [The values of Emacs, the Neovim revolution, and the VSCode gorilla (2021)](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/) ([HN](https://news.ycombinator.com/item?id=25810427))
+- [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - Tool to verify that your files are in harmony with your .editorconfig. ([Web](https://editorconfig-checker.github.io/))

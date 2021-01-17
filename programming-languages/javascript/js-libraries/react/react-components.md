@@ -147,6 +147,7 @@
 - [React Layout Components](https://github.com/kripod/react-layout-components) - Layout components for React, primarily inspired by Every Layout.
 - [React Popper](https://github.com/popperjs/react-popper) - React wrapper around Popper tooltip library.
 - [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
+- [suspendable](https://github.com/kyarik/suspendable) - Utilities to create resources that can suspend in React.
 
 ## Links
 
