@@ -46,3 +46,4 @@
 - [Building Sustainable Electronics (2020)](https://gopher.mills.io/republic.circumlunar.space/0/~xkp/phlog/2020-11-08-building-sustainable-electronics.txt)
 - [Ask HN: Most efficient way for the inexperienced to learn PCB design? (2020)](https://news.ycombinator.com/item?id=25164660)
 - [logicsim](https://github.com/raycar5/logicsim) - Create and simulate digital circuits with Rust abstractions.
+- [Electronics Notes](https://www.electronics-notes.com/) - Reference site for electronics, radio & wireless.

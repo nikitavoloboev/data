@@ -187,3 +187,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Ngrok alternatives and other ngrok-like tunneling software and services.
 - [Server-sent events: a simple way to stream events from a server (2021)](https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/)
 - [Mesh Network Lab](https://github.com/mwarning/meshnet-lab) - Emulate mobile ad-hoc mesh networks of hundreds of nodes on a computer.
+- [Connectivity: Wireless & Wired](https://www.electronics-notes.com/articles/connectivity/)
