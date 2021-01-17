@@ -19,3 +19,4 @@
 - [MegaFavNumbers](https://www.youtube.com/playlist?list=PLar4u0v66vIodqt3KSZPsYyuULD5meoAo) ([Tweet](https://twitter.com/jamesgrime/status/1296822902327775233))
 - [Lecture notes for Geometry, Algebra, and Number Theory](https://github.com/Multramate/GANT)
 - [Do we have negative prime numbers?](https://math.stackexchange.com/questions/1002459/do-we-have-negative-prime-numbers) ([HN](https://news.ycombinator.com/item?id=25802413))
+- [Dave’s Short Course on Complex Numbers (2013)](https://www2.clarku.edu/faculty/djoyce/complex/) ([HN](https://news.ycombinator.com/item?id=25801063))

@@ -71,3 +71,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Why are there so many cats in Istanbul?](https://www.legalnomads.com/istanbul-cats/) ([HN](https://news.ycombinator.com/item?id=25163312))
 - [The Uniqueness of Mammals (2020)](https://areomagazine.com/2020/11/19/the-uniqueness-of-mammals/) ([HN](https://news.ycombinator.com/item?id=25172101))
 - [All I have ever wanted from a yogurt is to know who the cows are.](https://twitter.com/_Jen_Silverman/status/1340367210578108417)
+- [The Summer of Larry (2020)](https://www.youtube.com/watch?v=0OjcqJolKzI)

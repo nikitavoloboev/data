@@ -416,3 +416,4 @@ Go promotes composition over inheritance.
 - [Gomod2nix](https://github.com/tweag/gomod2nix) - Convert applications using Go modules -> Nix.
 - [So just how fast are channels anyway? (2017)](https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45)
 - [Go Slice Tricks Cheat Sheet](https://ueokande.github.io/go-slice-tricks/)
+- [REST Servers in Go (2021)](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) ([HN](https://news.ycombinator.com/item?id=25805158))
