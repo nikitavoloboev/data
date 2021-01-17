@@ -154,3 +154,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum transaction to UML sequence diagram generator](https://github.com/naddison36/tx2uml)
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - Compilation of patterns and best practices for the smart contract programming language Solidity. ([Web](https://fravoll.github.io/solidity-patterns/))
 - [An Economic Analysis of Ethereum (2021)](https://www.lynalden.com/ethereum-analysis/) ([HN](https://news.ycombinator.com/item?id=25811356))
+- [Ethermint](https://github.com/cosmos/ethermint) - Scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK. ([Docs](https://docs.ethermint.zone/))

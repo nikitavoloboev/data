@@ -63,3 +63,4 @@
 - [Accept payments with Stripe Checkout](https://github.com/stripe-samples/checkout-one-time-payments) - Shows you how to integrate with Stripe Checkout.
 - [Stripe](https://stripe.com/) - Online payment processing for internet businesses. ([Stripe Samples](https://github.com/stripe-samples))
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Easy Way to Sell Digital Products.
+- [Sane Shopify](https://github.com/good-idea/sane-shopify) - Connect Sanity and the Shopify Storefront API.

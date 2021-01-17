@@ -303,6 +303,7 @@
 - [CSRGraphs](https://github.com/VHRanger/CSRGraph) - Fast and memory efficient library for large read-only graphs.
 - [python-soundfile](https://github.com/bastibe/python-soundfile) - Audio library based on libsndfile, CFFI, and NumPy.
 - [Luigi](https://github.com/spotify/luigi) - Build complex pipelines of batch jobs in Python.
+- [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 
 ## Links
 

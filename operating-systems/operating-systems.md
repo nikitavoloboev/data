@@ -184,3 +184,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RVM 1.5](https://github.com/rcore-os/RVM1.5) - Type-1.5 hypervisor written in Rust.
 - [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program, normally /sbin/init.
 - [Examples of OS / system limits](https://github.com/lorin/awesome-limits)
+- [Think OS](http://greenteapress.com/thinkos/) - Brief Introduction to Operating Systems. ([Code](https://github.com/AllenDowney/ThinkOS))

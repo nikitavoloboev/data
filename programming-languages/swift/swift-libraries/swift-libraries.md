@@ -143,6 +143,7 @@
 - [Align](https://github.com/kean/Align) - Intuitive and powerful Auto Layout library.
 - [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - Simple view for building card like interface inspired by Tinder and Potluck.
 - [SVPinView](https://github.com/xornorik/SVPinView) - Light-weight customisable library used for accepting pin numbers or one-time passwords.
+- [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - Beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.
 
 ## macOS
 
