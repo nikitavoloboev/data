@@ -99,3 +99,4 @@
 - [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter)
 - [Jupyter Notebooks covering various subjects](https://github.com/Naereen/notebooks)
 - [lolviz](https://github.com/parrt/lolviz) - Simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations.
+- [Falsifiable](https://falsifiable.com/) - One-command publishing for Jupyter notebooks.

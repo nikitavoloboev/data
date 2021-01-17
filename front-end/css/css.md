@@ -153,7 +153,7 @@
 - [stylis.js](https://github.com/thysultan/stylis.js) - Light–weight CSS Preprocessor.
 - [An Overview of CSS: An Art, a Science, a Nightmare (2019)](https://www.taniarascia.com/overview-of-css-concepts/)
 - [Basic.css](https://vladocar.github.io/Basic.css/) - Classless CSS Starter File. ([HN](https://news.ycombinator.com/item?id=23402134)) ([Code](https://github.com/vladocar/Basic.css))
-- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/) - Simple, with well-set typography, extensive sidenotes, and tight integration of graphics and charts. ([Code](https://github.com/edwardtufte/tufte-css))
 - [PurifyCSS](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [Adding dark mode support (2020)](https://www.garrensmith.com/blogs/adding-dark-mode)
 - [SelectorGadget](https://selectorgadget.com/) - Point and click CSS selectors. ([Code](https://github.com/cantino/selectorgadget))

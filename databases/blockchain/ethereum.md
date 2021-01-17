@@ -152,3 +152,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Minimal Anti-Collusion Infrastructure](https://github.com/appliedzkp/maci)
 - [eth-crypto](https://github.com/pubkey/eth-crypto) - Cryptographic javascript-functions for ethereum and tutorials to use them with web3js and solidity.
 - [Ethereum transaction to UML sequence diagram generator](https://github.com/naddison36/tx2uml)
+- [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - Compilation of patterns and best practices for the smart contract programming language Solidity. ([Web](https://fravoll.github.io/solidity-patterns/))
