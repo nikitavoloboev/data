@@ -71,6 +71,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Various browser games](https://crypto.stanford.edu/~blynn/play/)
 - [Seeds Game](https://www.seedsgame.com/) - Collect seeds, save the world. ([Code](https://github.com/andrewMacmurray/seeds-game))
 - [Doom 3](https://github.com/TTimo/doom3.gpl)
+- [Dhewm3](https://dhewm3.org/) - Doom 3 Source Port. ([HN](https://news.ycombinator.com/item?id=25800581)) ([Code](https://github.com/dhewm/dhewm3))
 - [Slasher Prototype](https://github.com/Dragosha/slasher-prototype) - In Lua. 2.5D perspective view.
 - [Unix ASCII games](https://ligurio.github.io/awesome-ttygames/) ([Code](https://github.com/ligurio/awesome-ttygames))
 - [Micro Racing](https://github.com/Mati365/micro-racing) - Multiplayer 3D isometric racing game written in WebGL.

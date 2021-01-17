@@ -141,3 +141,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Drata](https://drata.com/) - Put SOC 2 Compliance On Autopilot.
 - [Escaping VirtualBox 6.1 (2021)](https://secret.club/2021/01/14/vbox-escape.html) ([HN](https://news.ycombinator.com/item?id=25795731))
 - [Our Dumb Security Questionnaire (2021)](https://hangar.tech/posts/our-dsq/) ([HN](https://news.ycombinator.com/item?id=25793230))
+- [The SOC2 Starting Seven (2020)](https://latacora.micro.blog/2020/03/12/the-soc-starting.html) ([HN](https://news.ycombinator.com/item?id=25800791))

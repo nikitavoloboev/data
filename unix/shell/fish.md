@@ -12,3 +12,4 @@
 - [Rust, Python and Fish (2020)](https://benjamin.computer/posts/2020-12-12-rust-python.html)
 - [Fish Shell Code](https://github.com/fish-shell/fish-shell)
 - [Why I migrated to the Fish Shell (2020)](https://caarlos0.dev/posts/fish/)
+- [lucid.fish](https://github.com/mattgreen/lucid.fish) - Minimalist, high-performance fish prompt.
