@@ -657,6 +657,7 @@
 - [bacon](https://github.com/aftix/bacon) - Scientific Computing in Rust. ([Article](https://aftix.xyz/home/bacon/))
 - [slab](https://github.com/carllerche/slab) - Pre-allocated storage for a uniform data type.
 - [Cuckoo Filter](https://github.com/axiomhq/rust-cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
+- [QuantMath](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk.
 
 ## Cargo Plugins
 

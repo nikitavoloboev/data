@@ -100,3 +100,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [iCloud Photos Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - Command-line tool to download photos from iCloud.
 - [The Cult of Leica (2021)](http://leicaphilia.com/the-cult-of-leica/)
 - [Leicaphilia](http://leicaphilia.com/)
+- [Lychee](https://lycheeorg.github.io/) - Self-hosted photo-management done right. ([Code](https://github.com/LycheeOrg/Lychee))
