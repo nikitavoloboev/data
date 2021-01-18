@@ -14,7 +14,7 @@
 - [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup. ([Awesome Alpine](https://github.com/alpine-collective/awesome))
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 - [Torus](https://github.com/thesephist/torus) - Event-driven model-view UI framework for the web, focused on being tiny, efficient, and free of dependencies. ([Web](https://thesephist.github.io/torus/))
-- [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798))
+- [Hyperapp](https://github.com/jorgebucaran/hyperapp) - Tiny framework for building web interfaces. ([Web](https://hyperapp.dev/)) ([HN](https://news.ycombinator.com/item?id=23688798)) ([Hyperawesome](https://github.com/jorgebucaran/hyperawesome))
 - [Hyperapp FX](https://github.com/okwolf/hyperapp-fx) - Effects for use with Hyperapp.
 - [Phenomic](https://github.com/phenomic/phenomic) - Modular website compiler (React, Webpack, Reason and whatever you want).
 - [Halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools. ([Docs](https://www.gethalfmoon.com/docs/introduction/))
@@ -44,6 +44,7 @@
 - [dflex](https://github.com/jalal246/dflex) - JavaScript Project to Manipulate DOM Elements.
 - [morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed).
 - [Forgo](https://github.com/forgojs/forgo) - Ultra-light UI runtime. Makes it super easy to create modern web apps using JSX (like React).
+- [Whats Up](https://github.com/whatsup/whatsup) - Front-end framework based on ideas of streams and fractals.
 
 ## Animation
 
@@ -69,6 +70,7 @@
 - [Unexpected](https://github.com/unexpectedjs/unexpected) - Extensible BDD assertion toolkit. ([Docs](https://unexpected.js.org/))
 - [Fishery](https://github.com/thoughtbot/fishery) - Library for setting up JavaScript objects as test data.
 - [pentf](https://github.com/boxine/pentf) - Parallel end-to-end test framework.
+- [test-flat](https://github.com/kettanaito/test-flat) - Test framework extension to support resources teardown and cleanup in flat tests.
 
 ## State management
 
@@ -98,6 +100,7 @@
 - [sql.js](https://github.com/sql-js/sql.js) - SQLite compiled to JavaScript. Allows you to create a relational database and query it entirely in the browser. ([Docs](https://sql.js.org/#/)) ([HN](https://news.ycombinator.com/item?id=25008308))
 - [SQigiL](https://github.com/twooster/sqigil) - Postgres SQL template string for Javascript.
 - [Postgrest JS](https://github.com/supabase/postgrest-js) - Isomorphic JavaScript client for PostgREST.
+- [Connect PG Simple](https://github.com/voxpelli/node-connect-pg-simple) - Simple, minimal PostgreSQL session store for Express/Connect.
 
 ## React
 

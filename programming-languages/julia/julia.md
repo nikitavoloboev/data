@@ -38,7 +38,7 @@
 - [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) - Contains recipes for building binaries for Julia packages using BinaryBuilder.jl.
 - [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl (2020)](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala) ([HN](https://news.ycombinator.com/item?id=23529016))
 - [JuliaAcademy courses](https://juliaacademy.com/courses)
-- [JuliaCon](https://live.juliacon.org/) - Conference dedicated to the Julia programming language.
+- [JuliaCon](https://juliacon.org/) - Conference dedicated to the Julia programming language. ([Live](https://live.juliacon.org/)) ([Code](https://github.com/JuliaCon/www.juliacon.org))
 - [Julia for teaching optimization](https://michielstock.github.io/juliateaching/)
 - [Interactive notebooks ~ Pluto.jl | Fons van der Plas (2020)](https://www.youtube.com/watch?v=IAF8DjrQSSk)
 - [Julia 1.5 (2020)](https://julialang.org/blog/2020/08/julia-1.5-highlights/) ([HN](https://news.ycombinator.com/item?id=24039559))
@@ -68,3 +68,4 @@
 - [Julia2Nix](https://github.com/thomasjm/julia2nix) - Generate Nix expressions for building a Julia depot with a set of packages.
 - [Tutorial on Precompilation for Julia (2021)](https://julialang.org/blog/2021/01/precompile_tutorial/)
 - [Quick Overview of Julia language (2021)](https://algorithmsbook.com/files/appendix-g.pdf) ([HN](https://news.ycombinator.com/item?id=25719454))
+- [Julia adoption keeps climbing (2021)](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/) ([HN](https://news.ycombinator.com/item?id=25820457))

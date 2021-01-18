@@ -85,3 +85,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The Ocean Cleanup](https://theoceancleanup.com/) - Developing technologies to rid the oceans of plastic.
 - [Data for Environmental Intelligence](https://github.com/rockita/Environmental_Intelligence)
 - [Carbon Dioxide Removal Primer](https://cdrprimer.org/) - Resource on the fundamentals of carbon dioxide removal and its role in addressing the climate crisis.
+- [Air Pollution Primer (2021)](https://www.babyfriendlyair.com/en/guides/air-pollution-primer/)

@@ -8,6 +8,7 @@
 - [Articles on hashing implementations](http://codecapsule.com/tag/hash-table/)
 - [Fast and Scalable Minimal Perfect Hash Functions in Rust](https://github.com/10XGenomics/rust-boomphf)
 - [Robin Map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing.
+- [Robin Hood Hashing](https://programming.guide/robin-hood-hashing.html)
 - [Auto-Encoding Twin-Bottleneck Hashing](https://github.com/ymcidence/TBH)
 - [Shenanigans With Hash Tables (2019)](https://thume.ca/2019/07/29/shenanigans-with-hash-tables/)
 - [SMhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests.

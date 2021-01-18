@@ -93,3 +93,6 @@
 - [OpenCADD](https://github.com/volkamerlab/opencadd) - Python library for structural cheminformatics.
 - [Ask HN: Best way to learn computational biology/immunology? (2021)](https://news.ycombinator.com/item?id=25801821)
 - [Lumol](https://github.com/lumol-org/lumol) - Classical molecular simulation engine that provides a solid base for developing new algorithms and methods. ([Web](https://lumol.org/))
+- [Tasks Assessing Protein Embeddings (TAPE)](https://github.com/songlab-cal/tape) - Set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.
+- [Center for Computational Biology](https://ccb.berkeley.edu/)
+- [Yun S. Song Research](https://people.eecs.berkeley.edu/~yss/) ([Song Lab](https://people.eecs.berkeley.edu/~yss/group.html)) ([GitHub](https://github.com/songlab-cal))

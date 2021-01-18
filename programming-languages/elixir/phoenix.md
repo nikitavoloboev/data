@@ -27,3 +27,4 @@
 - [The Sublime Developer Efficiency of Elixir, Phoenix and LiveView (2021)](https://amattn.com/p/the_sublime_developer_efficiency_of_elixir_phoenix_and_liveview_part_1.html)
 - [PETAL – the end-to-end web stack (2021)](https://changelog.com/posts/petal-the-end-to-end-web-stack)
 - [PETAL Stack in Elixir (2021)](https://thinkingelixir.com/petal-stack-in-elixir/)
+- [Getting started with PETAL (2021)](https://underjord.io/getting-started-with-petal.html)

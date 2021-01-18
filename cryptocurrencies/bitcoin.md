@@ -1,5 +1,7 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
+Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064). [Nano](nano.md) is the future of decentralized currency.
+
 ## Notes
 
 - [Bitcoin is both trust-minimized (even more than gold) yet quite unlike gold digital & easily transferable in its trust-minimized form. It's an unprecedentedly superior form of money, but like anything else new traded in a free market, its historical journey starts off volatile.](https://twitter.com/NickSzabo4/status/1328759197769502722)
@@ -100,4 +102,5 @@
 - [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 - [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))
 - [Revault](https://github.com/re-vault/revault-demo) - Multi-party Bitcoin vault architecture.
-- [Environmental cost of bitcoin (2021)](https://twitter.com/smdiehl/status/1350869944888664064) ([HN](https://news.ycombinator.com/item?id=25814795))
+- [Environmental cost of bitcoin (2021)](https://twitter.com/smdiehl/status/1350869944888664064) ([HN](https://news.ycombinator.com/item?id=25814795)) ([Reddit](https://www.reddit.com/r/nanocurrency/comments/kzr9ef/the_nano_community_will_enjoy_this_twitter_thread/))
+- [Bitcoin Treasuries](https://bitcointreasuries.org/)

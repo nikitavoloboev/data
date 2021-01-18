@@ -394,3 +394,4 @@
 - [Machine learning with large-scale graphs course](https://snap-stanford.github.io/cs224w-notes/) ([Notes](https://github.com/snap-stanford/cs224w-notes))
 - [Single-Machine Simulation of Federated Learning Systems (2021)](https://flower.dev/blog/2021-01-14-single-machine-simulation-of-federated-learning-systems)
 - [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
+- [Optimization Methods for Machine Learning and Engineering (2021)](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5)

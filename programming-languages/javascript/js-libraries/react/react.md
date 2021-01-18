@@ -197,3 +197,4 @@
 - [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)
 - ["Just Use Props": An opinionated guide to React and XState (2021)](https://dev.to/mpocock1/just-use-props-an-opinionated-guide-to-react-and-xstate-fc9) ([Tweet](https://twitter.com/mpocock1/status/1348753468740300800))
 - [react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs.
+- [Why React Context Is Not “State Management”(and Why It Doesn't Replace Redux) (2021)](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)

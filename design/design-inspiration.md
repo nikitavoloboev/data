@@ -350,6 +350,7 @@ Here are few more things I liked, design wise.
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
 - [Owen Kelly](https://www.owenkelly.com.au/)
 - [Marcelo Cardoso](https://marcelovicentegc.github.io/)
+- [Dylan Stein](https://dylanstein.dev/)
 - [Ben Kuhn](https://www.benkuhn.net/)
 - [Michael McLoughlin](https://mmcloughlin.com/)
 - [Christopher Wood](https://chris-wood.github.io/)

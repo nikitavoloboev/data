@@ -186,3 +186,5 @@ I publish most of my work and make it open source for other people to use and re
 - [Only Sponsors](https://onlysponsors.dev/) - Platform to hide content behind GitHub Sponsors.
 - [Badgen](https://badgen.net/) - Fast badge generating service. ([Code](https://github.com/badgen/badgen))
 - [Renaming the default branch on GitHub](https://github.com/github/renaming)
+- [GitHub Stale Bots – A False Economy (2021)](https://blog.benwinding.com/github-stale-bots/) ([HN](https://news.ycombinator.com/item?id=25821092))
+- [GitHub Socialify](https://socialify.git.ci/) - Generate a nice image for a GitHub repo. ([Code](https://github.com/wei/socialify))

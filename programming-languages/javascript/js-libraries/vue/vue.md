@@ -17,7 +17,7 @@
 - [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
-- [VueUse](https://github.com/antfu/vueuse) - Collection of Composition API utils for Vue 2 and 3. ([Docs](https://vueuse.js.org/?path=/story/docs--readme))
+- [VueUse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities. ([Web](https://vueuse.js.org/)) ([GitHub](https://github.com/vueuse))
 - [Starter for Vite + VueUse + TypeScript](https://github.com/antfu/vite-vueuse-starter)
 - [The process: Making Vue 3 (2020)](https://increment.com/frontend/making-vue-3/)
 - [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
@@ -46,3 +46,4 @@
 - [vite-ssg](https://github.com/antfu/vite-ssg) - Server-side generation for Vite.
 - [VueDX](https://github.com/znck/vue-developer-experience) - Collection of tools for Vue ecosystem.
 - [Vue Chemistry](https://github.com/antfu/vue-chemistry) - Reactified JavaScript functions for Vue.
+- [vueuse/head](https://github.com/vueuse/head) - Document head manager for Vue 3. SSR ready.

@@ -177,7 +177,7 @@ Below is a list of extensions I use.
 
 ## Java
 
-- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) ([Code](https://github.com/redhat-developer/vscode-java))
 
 ## R
 

@@ -42,3 +42,4 @@
 - [Jib](https://github.com/GoogleContainerTools/jib/) - Build container images for your Java applications. ([Article](https://www.infoq.com/news/2020/08/containerize-java-app-with-jib/))
 - [Live Programming with the GraalVM, the LSP, and VS Code (2020)](https://www.javaadvent.com/2020/12/live-programming-with-the-graalvm-the-lsp-and-vs-code.html)
 - [Recaf](https://www.coley.software/Recaf/) - Modern Java bytecode editor. ([Code](https://github.com/Col-E/Recaf))
+- [Java Concurrency in Practice](https://jcip.net/)

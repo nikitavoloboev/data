@@ -78,3 +78,4 @@
 - [Jimp](https://github.com/oliver-moran/jimp) - JavaScript Image Manipulation Program.
 - [Resemble.js](https://github.com/rsmbl/Resemble.js) - Analyze and compare images with JavaScript and HTML5.
 - [Image Analyze Workers](https://github.com/w-okada/image-analyze-workers) - Zoo of image processing Web Workers for JavaScript or TypeScript.
+- [ImagePy](https://github.com/Image-Py/imagepy) - Open source image processing framework written in Python.

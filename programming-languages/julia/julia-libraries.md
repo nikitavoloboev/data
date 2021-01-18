@@ -23,6 +23,7 @@
 - [Reinforce](https://github.com/JuliaML/Reinforce.jl) - Abstractions, algorithms, and utilities for reinforcement learning in Julia.
 - [Augmentor](https://github.com/Evizero/Augmentor.jl) - Fast image augmentation library in Julia for machine learning.
 - [DiffEqSensitivity.jl](https://github.com/SciML/DiffEqSensitivity.jl) - Sensitivity analysis for scientific machine learning (SciML).
+- [TensorCore.jl](https://github.com/JuliaMath/TensorCore.jl) - Lightweight package for sharing tensor-algebra definitions.
 
 ## Math
 
@@ -70,6 +71,8 @@
 - [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - Julia package to read, write and manipulate macromolecular structures (particularly proteins).
 - [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - Graph-based molecule modeling toolkit for cheminformatics.
 - [FASTX](https://github.com/BioJulia/FASTX.jl) - Parse and process FASTA and FASTQ formatted files of biological sequences.
+- [Molly.jl](https://github.com/JuliaMolSim/Molly.jl) - Molecular simulation in Julia.
+- [DFTK](https://github.com/JuliaMolSim/DFTK.jl) - Density-functional toolkit.
 
 ## Computer Vision
 

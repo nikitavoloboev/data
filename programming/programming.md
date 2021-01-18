@@ -316,3 +316,7 @@
 - [Composition is interpretation (2021)](https://ideolalia.com/essays/composition-is-interpretation.html) ([Lobsters](https://lobste.rs/s/h6upnu/composition_is_interpretation))
 - [How to join a team and learn a codebase (2020)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html) ([HN](https://news.ycombinator.com/item?id=25789336))
 - [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming.
+- [Programming.Guide](https://programming.guide/) - Articles on Programming.
+- [Exploiting Mixed Binaries](https://www.cs.ucy.ac.cy/~eliasathan/papers/tops20.pdf)
+- [That XOR Trick (2020)](https://florian.github.io/xor-trick/) ([HN](https://news.ycombinator.com/item?id=25821718)) ([Reddit](https://www.reddit.com/r/programming/comments/kzrz7f/that_xor_trick/))
+- [Diffing (2020)](https://florian.github.io/diffing/)

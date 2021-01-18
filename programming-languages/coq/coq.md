@@ -51,3 +51,4 @@
 - [Alectryon](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
 - [Certified semantics for relational programming workout](https://github.com/dboulytchev/miniKanren-coq)
 - [100 famous theorems proved using Coq](https://madiot.fr/coq100/) ([Code](https://github.com/coq-community/coq100))
+- [codegen plugin for Coq](https://github.com/akr/codegen)

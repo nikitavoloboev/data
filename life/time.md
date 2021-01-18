@@ -20,3 +20,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Clock Synchronization (2020)](https://signalsandthreads.com/clock-synchronization/)
 - [Notes on time and causality](https://boris-marinov.github.io/time/) - Collection of philosophical essays on the subject of causality, determinism and time in general.
 - [Illusions of Time (2021)](https://www.youtube.com/watch?v=zHL9GP_B30E)
+- [Einstein and Hume’s philosophy of time](https://aeon.co/essays/what-albert-einstein-owes-to-david-humes-notion-of-time) ([HN](https://news.ycombinator.com/item?id=25810015))

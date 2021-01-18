@@ -69,6 +69,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Azure RTOS ThreadX](https://github.com/azure-rtos/threadx) - Advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications.
 - [HelenOS](https://github.com/HelenOS/helenos) - Portable microkernel-based multiserver operating system written from scratch. ([Web](http://www.helenos.org/))
 - [Pure Rust x86_64 bootloader and kernel](https://github.com/gamozolabs/chocolate_milk)
+- [bootloader](https://github.com/rust-osdev/bootloader) - Experimental x86 bootloader written in Rust and inline assembly.
 - [Cyjon](https://github.com/Blackend/Cyjon) - Simple, clean, multi-tasking operating system written in pure assembly language for 64-bit processors from the AMD64 family.
 - [Contiki](https://github.com/contiki-os/contiki) - Open source operating system that runs on tiny low-power microcontrollers.
 - [OSv](http://osv.io/) - Modular unikernel designed to run applications securely on micro-VMs . ([Code](https://github.com/cloudius-systems/osv)) ([HN](https://news.ycombinator.com/item?id=25397525)) ([HN 2](https://news.ycombinator.com/item?id=25405672))
@@ -185,3 +186,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OpenRC](https://github.com/OpenRC/openrc) - Dependency-based init system that works with the system-provided init program, normally /sbin/init.
 - [Examples of OS / system limits](https://github.com/lorin/awesome-limits)
 - [Think OS](http://greenteapress.com/thinkos/) - Brief Introduction to Operating Systems. ([Code](https://github.com/AllenDowney/ThinkOS))
+- [Rust OSDev](https://rust-osdev.com/) - Operating System Development in Rust. ([GitHub](https://github.com/rust-osdev))
+- [Martian Computing Course](https://davis68.github.io/martian-computing/) - Explain and navigate the technical layout of Urbit OS. ([Code](https://github.com/davis68/martian-computing)) ([Lobsters](https://lobste.rs/s/6fddwp/cs_498mc_martian_computing))

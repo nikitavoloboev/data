@@ -311,3 +311,8 @@
 - [faas-netes](https://github.com/openfaas/faas-netes) - Kubernetes controller for OpenFaaS.
 - [Weave Scope](https://github.com/weaveworks/scope) - Troubleshooting & Monitoring for Docker & Kubernetes. ([Web](https://www.weave.works/oss/scope/))
 - [Kubernetes on Rails](https://kubernetesonrails.com/) - Premium training course to get you up-to-speed on deploying web applications using Kubernetes.
+- [apimachinery](https://github.com/kubernetes/apimachinery) - Scheme, typing, encoding, decoding, and conversion packages for Kubernetes and Kubernetes-like API objects.
+- [Marblerun](https://github.com/edgelesssys/marblerun) - Service mesh for confidential computing. Deploy, scale, and verify your confidential microservices on vanilla Kubernetes. 100% Go, 100% cloud native. ([Web](https://marblerun.sh/))
+- [Awesome Kubernetes Operators](https://github.com/operator-framework/awesome-operators)
+- [Suspicious pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly.
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Intentionally vulnerable cluster environment to learn and practice Kubernetes security. ([Web](https://madhuakula.com/kubernetes-goat/about.html))

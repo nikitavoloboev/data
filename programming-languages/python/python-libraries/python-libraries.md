@@ -304,6 +304,8 @@
 - [python-soundfile](https://github.com/bastibe/python-soundfile) - Audio library based on libsndfile, CFFI, and NumPy.
 - [Luigi](https://github.com/spotify/luigi) - Build complex pipelines of batch jobs in Python.
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
+- [msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python.
+- [Fastmap](https://github.com/fastmap-io/fastmap) - Drop-in replacement for map that makes arbitrary Python code run faster locally and in the cloud. ([Web](https://fastmap.io/))
 
 ## Links
 
@@ -317,3 +319,6 @@
 - [PePy](https://pepy.tech/) - PyPI Download Stats. ([Code](https://github.com/psincraian/pepy))
 - [pipdeptree](https://github.com/naiquevin/pipdeptree) - Command line utility to display dependency tree of the installed Python packages.
 - [pip](https://github.com/pypa/pip) - Python Package Installer. ([Docs](https://pip.pypa.io/en/stable/))
+- [Best of Python](https://github.com/ml-tooling/best-of-python) - Ranked list of awesome Python open-source libraries & tools.
+- [Best of Web Development with Python](https://github.com/ml-tooling/best-of-web-python) - Ranked list of awesome python libraries for web development.
+- [Serverless Python Requirements](https://github.com/UnitedIncome/serverless-python-requirements) - Serverless plugin to bundle Python packages.

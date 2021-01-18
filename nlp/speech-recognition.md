@@ -29,3 +29,4 @@
 - [Athena](https://github.com/athena-team/athena) - Open-source implementation of sequence-to-sequence based speech processing engine.
 - [PyTorch end-to-end speech recognition](https://github.com/1ytic/open_stt_e2e)
 - [Cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning.
+- [WaveRNN](https://github.com/fatchord/WaveRNN) - PyTorch implementation of Deepmind's WaveRNN model from Efficient Neural Audio Synthesis.

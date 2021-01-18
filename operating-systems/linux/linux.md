@@ -258,3 +258,4 @@
 - [Linux kernel modules in safe Rust](https://github.com/fishinabarrel/linux-kernel-module-rust)
 - [Rust KVM firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - Designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.
 - [RUA](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options.
+- [BPF and Go: Modern forms of introspection in Linux (2020)](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)

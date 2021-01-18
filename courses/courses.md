@@ -29,3 +29,4 @@
 - [Automation bot for free Udemy courses](https://github.com/dimakiss/Udemy_bot)
 - [Ask HN: Top Coursera Courses? (2020)](https://news.ycombinator.com/item?id=25245125)
 - [Skillshare](https://www.skillshare.com/) - Online Classes.
+- [Instil](https://instil.live/) - Platform for creating and monetising live classes.

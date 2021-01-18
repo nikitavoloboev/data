@@ -156,3 +156,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [An Economic Analysis of Ethereum (2021)](https://www.lynalden.com/ethereum-analysis/) ([HN](https://news.ycombinator.com/item?id=25811356))
 - [Ethermint](https://github.com/cosmos/ethermint) - Scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK. ([Docs](https://docs.ethermint.zone/))
 - [Frontier](https://github.com/paritytech/frontier) - Substrate's Ethereum compatibility layer. It allows you to run unmodified Ethereum dapps.
+- [Solang](https://github.com/hyperledger-labs/solang) - Solidity to wasm compiler written in rust. ([Docs](https://solang.readthedocs.io/en/latest/))

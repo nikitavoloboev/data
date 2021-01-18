@@ -198,3 +198,4 @@
 - [temBoard](https://github.com/dalibo/temboard) - PostgreSQL Remote Control. ([Web](https://temboard.io/))
 - [Postgres Guide](http://postgresguide.com/) ([Code](https://github.com/craigkerstiens/postgresguide.com))
 - [Postgres Book Collection](https://github.com/faisalbasra/postgres_books)
+- [Embedded Postgres Binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes.

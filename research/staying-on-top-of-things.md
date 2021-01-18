@@ -117,6 +117,7 @@ And these Discord servers:
 - [The Cut](https://www.thecut.com/) - Fashion, Beauty, Politics, Sex and Celebrity.
 - [New York Magazine](https://nymag.com/)
 - [The New Yorker](https://www.newyorker.com/)
+- [The Economist](https://www.economist.com/)
 
 ### Other
 

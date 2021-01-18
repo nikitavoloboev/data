@@ -51,6 +51,7 @@
 - [Handel](https://handel-pl.github.io/) - Procedural programming language for writing songs in browser. ([HN](https://news.ycombinator.com/item?id=25641420)) ([Code](https://github.com/ddj231/Handel))
 - [Crypt](https://github.com/DavW/crypt) - Software synthesiser plugin designed for creating spacious cold hyper-unisoned synth sounds.
 - [Fourhands](https://fourhands.jminjie.com/) - P2P MIDI jam room for pianists. ([Code](https://github.com/jminjie/fourhands)) ([HN](https://news.ycombinator.com/item?id=25685903))
+- [FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding. ([Web](https://foxdot.org/))
 
 ## Inspiration
 
@@ -154,3 +155,4 @@
 - [Pop Music Transformer: Beat-based Modeling and Generation of Expressive Pop Piano Compositions (2020)](https://arxiv.org/abs/2002.00212) ([Code](https://github.com/YatingMusic/remi))
 - [Sound Semiconductor](http://www.soundsemiconductor.com/index.html) - IC's for Music Creation.
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.
+- [Tonara](https://tonara.com/) - Music Education Happens Here.

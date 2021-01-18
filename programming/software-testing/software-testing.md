@@ -74,3 +74,4 @@
 - [Ask HN: How should I test all potential combinations of user actions? (2021)](https://news.ycombinator.com/item?id=25647143)
 - [Teaching and Assessing Property-Based Testing (2021)](https://blog.brownplt.org/2021/01/10/property-based-testing.html)
 - [Does It Matter to Test-First or toTest-Last?](https://arxiv.org/pdf/1611.05994.pdf) ([Lobsters](https://lobste.rs/s/o9ozwn/does_it_matter_test_first_totest_last))
+- [Writing Environment-Agnostic Functional Acceptance Tests (2021)](https://www.jvt.me/posts/2021/01/18/agnostic-acceptance-tests/)

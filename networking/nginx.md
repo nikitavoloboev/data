@@ -32,3 +32,4 @@
 - [Guide to Nginx Module Development](https://www.evanmiller.org/nginx-modules-guide.html)
 - [Nginx forward proxy](https://github.com/reiz/nginx_proxy)
 - [NJS Learning Materials](https://github.com/soulteary/njs-learning-materials)
+- [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.

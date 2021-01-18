@@ -103,3 +103,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockchain Technology and Applications | Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/)
 - [Indy Node](https://github.com/hyperledger/indy-node) - Distributed ledger purpose-built for decentralized identity.
 - [Reach](https://github.com/reach-sh/reach-lang) - Safest and Easiest DApp Programming Language. ([Web](https://reach.sh/))
+- [Elrond](https://elrond.com/) - Highly scalable, fast and secure blockchain platform for distributed apps, enterprise use cases and the new internet economy. ([GitHub](https://github.com/ElrondNetwork)) ([Code](https://github.com/ElrondNetwork/elrond-go))
+- [Maiar](https://maiar.com/) - Digital wallet and global payments app that allows you to exchange and securely store money on your mobile phone. Built with Elrond.
+- [Hyperledger](https://www.hyperledger.org/) - Open Source Blockchain Technologies. ([GitHub](https://github.com/hyperledger/))

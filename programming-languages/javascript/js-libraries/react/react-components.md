@@ -148,6 +148,7 @@
 - [React Popper](https://github.com/popperjs/react-popper) - React wrapper around Popper tooltip library.
 - [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
 - [suspendable](https://github.com/kyarik/suspendable) - Utilities to create resources that can suspend in React.
+- [Procedural GL React](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library. ([HN](https://news.ycombinator.com/item?id=25821535))
 
 ## Links
 

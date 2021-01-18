@@ -156,3 +156,4 @@
 - [FinRL](https://github.com/AI4Finance-LLC/FinRL-Library) - Deep Reinforcement Learning Library for Quantitative Finance.
 - [ReAgent](https://github.com/facebookresearch/ReAgent) - Platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.). ([Docs](https://reagent.ai/))
 - [Deep Reinforcement Learning Algorithms](https://github.com/RITCHIEHuang/DeepRL_Algorithms)
+- [CURL: Contrastive Unsupervised Representation Learning for Sample-Efficient Reinforcement Learning](https://github.com/MishaLaskin/curl)

@@ -199,3 +199,4 @@
 - [DDSL: Deep Differential Simplex Layer for Neural Networks](https://github.com/maxjiang93/DDSL)
 - [Making sense of sensory input (2021)](https://www.sciencedirect.com/science/article/pii/S0004370220301855)
 - [char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch.
+- [Awesome Equivariant Networks](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)

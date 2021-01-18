@@ -27,3 +27,4 @@
 - [The many ways of splitting a rectangle in many](https://www.alfonsobeato.net/math/the-many-ways-of-splitting-a-rectangle-in-many/) ([HN](https://news.ycombinator.com/item?id=25633447))
 - [Metric Spaces and How To Compare Them (2021)](https://bastian.rieck.me/blog/posts/2021/hausdorff/)
 - [Knot Theory and its Applications](https://www.maths.ed.ac.uk/~v1ranick/papers/murasug3.pdf)
+- [The Crooked Geometry of Round Trips (2021)](https://www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/)

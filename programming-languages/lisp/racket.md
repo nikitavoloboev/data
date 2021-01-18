@@ -47,3 +47,6 @@
 - [Typed Rosette](https://github.com/stchang/typed-rosette) - Experimental typed version of the Rosette language.
 - [Racket GitHub](https://github.com/racket)
 - [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/) ([Code](https://github.com/jeapostrophe/racket-cheat))
+- [Demonstration of implementing a language in Racket](https://github.com/mflatt/scratchy)
+- [racket-format](https://github.com/russellw/racket-format) - Format Racket source code.
+- [Racket for Visual Studio Code](https://github.com/pouyakary/vscode-racket)

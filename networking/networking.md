@@ -127,7 +127,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ask HN: How Belarus can keep connected despite internet blackout? (2020)](https://news.ycombinator.com/item?id=24129059)
 - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works))
 - [Peer-to-Peer Communication Across Network Address Translators](https://bford.info/pub/net/p2pnat/)
-- [25 Best CDN Providers 2020](https://haydenjames.io/best-cdn-providers/)
+- [25 Best CDN Providers](https://haydenjames.io/best-cdn-providers/)
 - [How do Routers Work, Really? (2020)](https://kamila.is//teaching/how-routers-work/) ([HN](https://news.ycombinator.com/item?id=24435454))
 - [Building a better home network (2020)](https://kevin.burke.dev/kevin/building-a-better-home-network/) ([Lobsters](https://lobste.rs/s/cjpeek/building_better_home_network))
 - [socat (2018)](https://medium.com/@copyconstruct/socat-29453e9fc8a6) - Socat stands for SOcket CAT. It is a utility for data transfer between two addresses.
@@ -188,3 +188,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Server-sent events: a simple way to stream events from a server (2021)](https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/)
 - [Mesh Network Lab](https://github.com/mwarning/meshnet-lab) - Emulate mobile ad-hoc mesh networks of hundreds of nodes on a computer.
 - [Connectivity: Wireless & Wired](https://www.electronics-notes.com/articles/connectivity/)
+- [IPv6 ULA (Unique Local Address) registry](https://ula.ungleich.ch/) - Contains all of the prefixes that were in the sixxs database.

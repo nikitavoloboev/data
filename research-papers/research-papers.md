@@ -91,3 +91,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Papers with Video Extension](https://github.com/amitness/papers-with-video) - Chrome extension that adds video explanations to research papers on arxiv.org.
 - [Microsoft Academic](https://academic.microsoft.com/home) - Free public web search engine for academic publications and literature.
 - [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/Search/Advanced)
+- [PapersLikeThisOne](https://paperslikethisone.herokuapp.com/) - Find relevant scientific articles.

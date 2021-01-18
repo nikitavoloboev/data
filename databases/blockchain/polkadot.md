@@ -22,3 +22,5 @@
 - [Acala Network](https://github.com/AcalaNetwork/Acala) - Cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama. ([Web](https://acala.network/))
 - [Polkassembly](https://kusama.polkassembly.io/) - Place to discuss and vote on Kusama and Polkadot governance. ([Code](https://github.com/paritytech/polkassembly))
 - [Nuxt.js + Vue.js + TypeScript + PolkadotJS](https://github.com/Colm3na/vue-typescript-polkadotjs)
+- [Polkadot Protocol Specification and Conformance Tests](https://github.com/w3f/polkadot-spec)
+- [Substrate Contracts Workshop](https://github.com/substrate-developer-hub/substrate-contracts-workshop) - Self-guided tutorial which will teach you how to build Wasm smart contracts on Parity Substrate using Parity ink. ([Web](https://substrate.dev/substrate-contracts-workshop/#/))

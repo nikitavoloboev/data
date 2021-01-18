@@ -208,3 +208,4 @@
 - [Awesome Vision and Language](https://github.com/sangminwoo/awesome-vision-and-language) - Curated list of awesome vision and language resources.
 - [DropBlock: A regularization method for convolutional networks (2018)](https://arxiv.org/abs/1810.12890v1) ([Code](https://github.com/miguelvr/dropblock))
 - [Glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - Compact, concise and customizable deep learning computer vision library. ([Web](https://francescosaveriozuppichini.github.io/glasses-webapp/))
+- [Explorable Super Resolution (2019)](https://github.com/YuvalBahat/Explorable-Super-Resolution)

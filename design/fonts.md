@@ -203,3 +203,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [My favorite typefaces of 2020](https://ilovetypography.com/2021/01/12/my-favorite-fonts-of-2020/)
 - [I love Typography](https://ilovetypography.com/)
 - [VE Font Cache](https://github.com/hypernewbie/VEFontCache) - Single header-only GPU font rendering library designed for game engines.
+- [System Font CSS](https://github.com/jonathantneal/system-font-css) - Use the native system font of the OS running the browser. ([Web](https://jonneal.dev/system-font-css/))

@@ -138,6 +138,7 @@
 - [k9](https://github.com/aaronabramov/k9) - Rust Testing Library.
 - [expect-test](https://github.com/rust-analyzer/expect-test) - Minimalistic snapshot testing for Rust.
 - [QuickCheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
+- [httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
 
 ## Error
 
@@ -150,6 +151,7 @@
 - [some-error](https://github.com/jam1garner/some-error) - Library for creating and using anonymous sum types as errors.
 - [Srcerr](https://github.com/azriel91/srcerr) - User friendly errors from source data.
 - [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
+- [panic-persist](https://github.com/jamesmunns/panic-persist) - Writes panic messages to a section of RAM.
 
 ## IO
 
@@ -213,6 +215,7 @@
 - [Darling](https://github.com/TedDriggs/darling) - Rust proc-macro attribute parser.
 - [unseemly](https://github.com/paulstansifer/unseemly) - Macros have types. ([Web](https://unseemly.github.io/))
 - [seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code.
+- [Automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module.
 
 ## Other
 
@@ -220,6 +223,7 @@
 - [Serde](https://github.com/serde-rs/serde) - Serialization framework for Rust. ([Docs](https://serde.rs/))
 - [Miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde.
 - [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
+- [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
 - [pyo3](https://github.com/PyO3/pyo3)
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
@@ -659,6 +663,10 @@
 - [Cuckoo Filter](https://github.com/axiomhq/rust-cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
 - [QuantMath](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk. ([HN](https://news.ycombinator.com/item?id=25814113))
 - [egg](https://github.com/egraphs-good/egg) - Flexible, high-performance e-graph library.
+- [Codegen](https://github.com/carllerche/codegen) - Provides an builder API to assist in generating Rust code.
+- [similar](https://github.com/mitsuhiko/similar) - High level diffing library for rust based on diffs.
+- [x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
+- [lz4_flex](https://github.com/PSeitz/lz4_flex) - Pure Rust implementation of raw LZ4 compression/decompression.
 
 ## Cargo Plugins
 

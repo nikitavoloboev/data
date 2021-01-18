@@ -106,3 +106,5 @@
 - [Dannjs](https://github.com/matiasvlevi/Dann) - Neural Network library for JavaScript. ([Web](https://dannjs.org/))
 - [Shapley](https://github.com/benedekrozemberczki/shapley) - Python library for evaluating binary classifiers in a machine learning ensemble.
 - [Orion](https://github.com/signals-dev/Orion) - Machine learning library built for unsupervised time series anomaly detection.
+- [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning on Apache Spark. ([Docs](https://bigdl-project.github.io/))
+- [MNN](https://github.com/alibaba/MNN) - Blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.

@@ -116,6 +116,8 @@
 - [Live](https://github.com/jfyne/live) - net/http compatible Phoenix LiveView implementation in Go.
 - [http-cache](https://github.com/victorspringer/http-cache) - High performance Go HTTP middleware for server-side application layer caching, ideal for REST APIs.
 - [kcp-go](https://github.com/xtaci/kcp-go) - Production-Grade Reliable-UDP library for Go.
+- [CNI network plugins](https://github.com/containernetworking/plugins)
+- [go-ipset](https://github.com/janeczku/go-ipset) - Go wrapper to the IPtables ipset userspace utility.
 
 ## GraphQL
 
@@ -693,6 +695,9 @@
 - [fuse](https://github.com/bazil/fuse) - Go library for writing FUSE userspace filesystems.
 - [Gocache](https://github.com/eko/gocache) - Complete Go cache library that brings you multiple ways of managing your caches.
 - [Configor](https://github.com/jinzhu/configor) - Go Configuration tool that support YAML, JSON, TOML, Shell Environment.
+- [TTLCache](https://github.com/ReneKroon/ttlcache) - In-memory cache with expiration.
+- [metric](https://github.com/zserge/metric) - Minimal metrics for Go (counter/gauge/histogram). No dependencies. Compatible with expvar. Web UI included..
+- [pie](https://github.com/natefinch/pie) - Toolkit for creating plugins for Go applications.
 
 ## Links
 

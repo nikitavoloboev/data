@@ -139,3 +139,4 @@
 - [Inline caching (2021)](https://bernsteinbear.com/blog/inline-caching/)
 - [Bril: A Compiler Intermediate Representation for Learning](https://capra.cs.cornell.edu/bril/) ([Code](https://github.com/sampsyo/bril))
 - [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
+- [Compiler Series Video Series](https://github.com/bisqwit/compiler_series)

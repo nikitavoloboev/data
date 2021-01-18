@@ -8,12 +8,13 @@ I visualize topics and their relations as an [interactive mind map](https://my.m
 
 ![](https://i.imgur.com/3UXdzco.png)
 
-## Links
-
-- [Mind map everything](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.
-
 ## Notes
 
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch.
 - I can label connection arrows.
 - I can embed links in notes.
+
+## Links
+
+- [Mind map everything](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.
+- [IOctopus](https://ioctopus.online/) - Online Mind mapping.

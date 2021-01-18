@@ -30,3 +30,6 @@
 - [Advent of Code 2020 puzzles in Lean 4](https://github.com/rwbarton/advent-of-lean-4)
 - [Schemes in Lean (2021)](https://arxiv.org/abs/2101.02602)
 - [Quantum Computing in Lean](https://github.com/duckki/lean-quantum) - Formalized quantum computing in Lean theorem prover.
+- [lean-gptf](https://github.com/jesse-michael-han/lean-gptf) - Interactive neural theorem proving in Lean.
+- [Flypitch](https://github.com/flypitch/flypitch) - Formal proof of the independence of the continuum hypothesis. ([Web](https://flypitch.github.io/))
+- [Monadic parser combinators, in Lean](https://github.com/jesse-michael-han/lean-parser-combinators)
