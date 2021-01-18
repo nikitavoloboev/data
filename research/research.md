@@ -81,3 +81,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [MIT DSpace](https://dspace.mit.edu/) - Digital repository for MIT's research, including peer-reviewed articles, technical reports, working papers, theses, and more.
 - [Zenodo](https://zenodo.org/) - Research. Shared.
 - [Research Taste Exercises (2021)](http://colah.github.io/notes/taste/)
+- [Reflections on 2020 as an independent researcher](https://andymatuschak.org/2020/)
