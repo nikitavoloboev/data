@@ -25,7 +25,7 @@
 - [Routerify](https://github.com/routerify/routerify) - Provides a lightweight, idiomatic, composable and modular router implementation with middleware support for the Rust HTTP library hyper.rs.
 - [H2](https://github.com/hyperium/h2) - Tokio aware, HTTP/2.0 client & server implementation for Rust.
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
-- [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework
+- [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter))
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
@@ -667,6 +667,7 @@
 - [similar](https://github.com/mitsuhiko/similar) - High level diffing library for rust based on diffs.
 - [x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
 - [lz4_flex](https://github.com/PSeitz/lz4_flex) - Pure Rust implementation of raw LZ4 compression/decompression.
+- [Stakker](https://github.com/uazu/stakker) - Lightweight low-level single-threaded actor runtime.
 
 ## Cargo Plugins
 

@@ -61,3 +61,4 @@
 - [LoFence](https://github.com/kiu/lofence) - LoRaWAN capable IoT electric fence monitoring system running on the The Things Network.
 - [Rust LoRaWAN](https://github.com/ivajloip/rust-lorawan) - Fast, zero-copy and lightweight LoRaWAN parsing library in Rust.
 - [LoRaWAN (Go)](https://github.com/brocaar/lorawan) - Provides structures and tools to read and write LoraWAN messages from and to a slice of bytes.
+- [PaperiNode](https://github.com/RobPo/PaperiNode) - Self powered E-Paper Node for LoRaWAN.

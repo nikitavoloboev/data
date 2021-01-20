@@ -316,3 +316,5 @@
 - [Awesome Kubernetes Operators](https://github.com/operator-framework/awesome-operators)
 - [Suspicious pods](https://github.com/edrevo/suspicious-pods) - Prints a list of k8s pods that might not be working correctly.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Intentionally vulnerable cluster environment to learn and practice Kubernetes security. ([Web](https://madhuakula.com/kubernetes-goat/about.html))
+- [Carvel](https://carvel.dev/) - Provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
+- [Kube-router](https://github.com/cloudnativelabs/kube-router) - Turnkey solution for Kubernetes networking with aim to provide operational simplicity and high performance. ([Web](https://www.kube-router.io/))

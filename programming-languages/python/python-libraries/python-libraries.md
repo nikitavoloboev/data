@@ -16,6 +16,7 @@
 - [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/))
+- [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## ML
 
@@ -43,6 +44,7 @@
 - [Time Series Feature Extraction](https://github.com/fraunhoferportugal/tsfel) - Intuitive library to extract features from time series.
 - [Kalepy](https://github.com/lzkelley/kalepy) - Kernel Density Estimation and (re)sampling.
 - [Bodywork](https://github.com/bodywork-ml/bodywork-core) - Python framework that helps machine learning engineers run batch jobs, serve models and deploy machine learning pipelines, in containers on Kubernetes.
+- [Stheno](https://github.com/wesselb/stheno) - Gaussian process modelling in Python.
 
 ## Biology
 
@@ -306,6 +308,8 @@
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python.
 - [msgpack-python](https://github.com/msgpack/msgpack-python) - MessagePack serializer implementation for Python.
 - [Fastmap](https://github.com/fastmap-io/fastmap) - Drop-in replacement for map that makes arbitrary Python code run faster locally and in the cloud. ([Web](https://fastmap.io/))
+- [OrderedSet](https://github.com/LuminosoInsight/ordered-set) - Mutable data structure that is a hybrid of a list and a set.
+- [gusty](https://github.com/chriscardillo/gusty) - Making DAG construction easier.
 
 ## Links
 

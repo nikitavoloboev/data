@@ -56,3 +56,4 @@
 - [IoT Security at home (2020)](https://security.christmas/2020/16)
 - [IoT: Internet-Optional Things (2021)](https://seancoates.com/blogs/internet-optional-things)
 - [PagerDuty for Things - An interesting IoT project (2019)](https://rounakdatta.github.io/posts/pagerduty-for-iot/)
+- [IoT Exploitation Learning Kit](https://www.attify-store.com/products/iot-exploitation-learning-kit)

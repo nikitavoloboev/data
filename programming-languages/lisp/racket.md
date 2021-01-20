@@ -50,3 +50,4 @@
 - [Demonstration of implementing a language in Racket](https://github.com/mflatt/scratchy)
 - [racket-format](https://github.com/russellw/racket-format) - Format Racket source code.
 - [Racket for Visual Studio Code](https://github.com/pouyakary/vscode-racket)
+- [Running Racket CS on iOS (2021)](https://defn.io/2021/01/19/racket-cs-on-ios/)

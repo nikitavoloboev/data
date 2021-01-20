@@ -21,3 +21,4 @@
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy for the local network written in Go.
 - [Unbound Pi-hole without scripts (2020)](https://jimh.dev/unbound/)
 - [PI-Hole Prometheus Exporter](https://github.com/eko/pihole-exporter) - Prometheus exporter for PI-Hole's Raspberry PI ad blocker.
+- [Update Pi-hole's lists from remote sources](https://github.com/jacklul/pihole-updatelists)

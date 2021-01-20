@@ -330,3 +330,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [BookWyrm](https://bookwyrm.social/) - Social Reading and Reviewing. ([Code](https://github.com/mouse-reeve/bookwyrm))
 - [The Most Popular College Books](https://www.degreequery.com/the-most-popular-college-books/) ([HN](https://news.ycombinator.com/item?id=25771181))
 - [Downpour](https://www.downpour.com/) - DRM Free Audiobooks. ([HN](https://news.ycombinator.com/item?id=25810675))
+- [Free Science Books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md)
+- [Free Ebook Foundation](https://ebookfoundation.org/) - Making the world safe for free ebooks. ([GitHub](https://github.com/EbookFoundation))

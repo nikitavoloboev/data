@@ -166,6 +166,8 @@
 - [Foxhound Systems](https://www.foxhound.systems/)
 - [Jam3 Developers](https://jam3.dev/) ([GitHub](https://github.com/Jam3))
 - [TechAscent](https://techascent.com/) ([GitHub](https://github.com/techascent))
+- [Together](https://www.togethercreative.co.uk/) - Multidisciplinary creative & technology agency, spanning brand, communication, development and strategy.
+- [SecretKeys](https://secretkeys.io/) - Privacy Tech & Consulting. ([GitHub](https://github.com/secretkeysio))
 
 ## Links
 

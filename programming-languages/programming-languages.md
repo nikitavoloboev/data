@@ -160,3 +160,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Designing an actor-based programming language (2020)](https://quizzical-dijkstra-2acb9c.netlify.app/ferrum/)
 - [CodeIntellify](https://github.com/sourcegraph/codeintellify) - Adds code intelligence to code views on the web.
 - [go-enry](https://github.com/go-enry/go-enry) - Faster file programming language detector.
+- [Scriptometer](http://rigaux.org/language-study/scripting-language/) - Measuring the ease of SOP (Script-Oriented Programming) of programming languages.
+- [FeOFu - Compiler Seminar](https://github.com/u235axe/FeOFu) - Ideas that would lead to better compilers for existing languages, better future programming languages, better APIs and better performance software solutions in the future.

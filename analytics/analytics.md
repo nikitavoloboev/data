@@ -63,3 +63,4 @@ If analytics are used, it's best to implement them server side with something li
 - [How I replaced google analytics on my website (2020)](https://tnickel.de/2020/12/24/2020-12-How-I-replaced-google-analytics-on-my-website/)
 - [Datadog](https://www.datadoghq.com/) - Cloud Monitoring as a Service. ([GitHub](https://github.com/DataDog))
 - [Datadog Agent](https://github.com/DataDog/datadog-agent)
+- [Awesome Analytics](https://github.com/onurakpolat/awesome-analytics)

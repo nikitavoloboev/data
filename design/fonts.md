@@ -63,6 +63,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Operator](https://www.typography.com/fonts/operator/overview)
 - [Consolas](https://www.lucasfonts.com/custom/consolas-overview)
 - [Comic Mono](https://dtinth.github.io/comic-mono-font/) - Legible monospace font. ([Code](https://github.com/dtinth/comic-mono-font)) ([HN](https://news.ycombinator.com/item?id=25520510))
+- [Datalegreya](http://www.datalegreya.com/?lang=en) - Typeface which can interweave data curves with text.
 
 ## Links
 

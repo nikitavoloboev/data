@@ -29,3 +29,5 @@
 - [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite) - Asynchronous WebSockets for Tokio stack.
 - [GoLive](https://github.com/brendonferreira/golive) - Reactive HTML Server Side over WebSockets.
 - [Reconnecting WebSocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js).
+- [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for python.
+- [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python.

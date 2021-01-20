@@ -133,3 +133,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Shield](https://github.com/theevilbit/Shield) - App to protect against process injection on macOS. ([Article](https://theevilbit.github.io/shield/))
 - [VMCLI](https://github.com/gyf304/vmcli) - Set of utilities to help you manage VMs with Virtualization.framework. ([HN](https://news.ycombinator.com/item?id=25786640))
 - [m1n1: Experimentation playground for Apple Silicon](https://github.com/AsahiLinux/m1n1)
+- [SplitConfigurations](https://github.com/KevinGutowski/SplitConfigurations) - Up the basics of a Big Sur app layout. Includes splitview and toolbarItems.

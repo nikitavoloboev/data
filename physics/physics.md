@@ -16,7 +16,7 @@
 - [So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) ([HN](https://news.ycombinator.com/item?id=24088985))
 - [The Astonishing Simplicity of Everything](https://www.youtube.com/watch?v=f1x9lgX8GaE)
 - [The Map of Physics](https://www.youtube.com/watch?v=ZihywtixUYo)
-- [The theoretical minimum](http://theoreticalminimum.com/courses) - Has pretty amazing courses.
+- [The Theoretical Minimum Courses](https://theoreticalminimum.com/courses) - Theoretical Physics Education.
 - [Fun to Imagine](https://www.youtube.com/watch?v=eqtuNXWT0mo)
 - [Stephen Hawking had pinned his hopes on 'M-theory' to fully explain the universe—here's what it is](https://phys.org/news/2018-03-stephen-hawking-pinned-m-theory-fully.html)
 - [Ask HN: How to self-learn electronics?](https://news.ycombinator.com/item?id=16775744)

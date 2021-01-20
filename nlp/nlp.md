@@ -239,3 +239,6 @@
 - [Robustness Gym](https://github.com/robustness-gym/robustness-gym) - Python evaluation toolkit for natural language processing.
 - [State-of-the-Art Conversational AI with Transfer Learning](https://github.com/huggingface/transfer-learning-conv-ai)
 - [GPT-Neo](https://www.eleuther.ai/gpt-neo) - GPT-3-sized model, open source and free. ([HN](https://news.ycombinator.com/item?id=25819803)) ([Code](https://github.com/EleutherAI/gpt-neo))
+- [Deep Daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network).
+- [Notebooks using the Hugging Face libraries](https://github.com/huggingface/notebooks)
+- [NLP Cloud](https://nlpcloud.io/) - Serve spaCy pre-trained models, and your own custom models, through a RESTful API.

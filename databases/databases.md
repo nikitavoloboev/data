@@ -123,6 +123,7 @@
 - [Redwood](https://github.com/brynbellomy/redwood) - Highly-configurable, distributed, realtime database that manages a state tree shared among many peers.
 - [Drivine](https://drivine.org/) - Best and fastest graph database client (Neo4j & AgensGraph) for Node.js & TypeScript. ([Code](https://github.com/liberation-data/drivine)) ([Starter Template](https://github.com/liberation-data/drivine-inspiration))
 - [InfiniCache](https://github.com/mason-leap-lab/infinicache) - In-memory cache that is built atop ephemeral serverless functions. ([HN](https://news.ycombinator.com/item?id=25788893))
+- [Blazegraph](https://github.com/blazegraph/database) - Ultra high-performance graph database supporting Blueprints and RDF/SPARQL APIs.
 
 ## Tools
 

@@ -84,6 +84,8 @@
 - [use-less](https://github.com/pveyes/use-less) - React hooks that help you do what you already did, with more indirection.
 - [Hookstate](https://github.com/avkonst/hookstate) - Simple but very powerful and incredibly fast state management for React that is based on hooks. ([Web](https://hookstate.js.org/))
 - [react-use-wizard](https://github.com/devrnt/react-use-wizard) - React wizard (stepper) builder without the hassle, powered by hooks.
+- [pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like.
+- [use-between](https://github.com/betula/use-between) - Sharing state between React components.
 
 ## Notes
 

@@ -72,3 +72,4 @@
 - [Datasets collected for network science, deep learning and general machine learning research](https://github.com/benedekrozemberczki/datasets)
 - [MER and SER Data sets](https://github.com/juansgomez87/datasets_emotion) - Data sets for Music Emotion Recognition and Speech Emotion Recognition.
 - [Common Voice Datasets](https://commonvoice.mozilla.org/en/datasets) - Multi-language dataset of voices that anyone can use to train speech-enabled applications. ([Code](https://github.com/common-voice/cv-dataset))
+- [Label a Dataset with a Few Lines of Code (2021)](https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d) ([HN](https://news.ycombinator.com/item?id=25826775))

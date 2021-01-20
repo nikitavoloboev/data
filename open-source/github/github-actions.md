@@ -149,6 +149,10 @@
 
 - [setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java.
 
+## Racket
+
+- [Setup Racket](https://github.com/Bogdanp/setup-racket) - GH action for installing Racket.
+
 ## Templates
 
 - [JS action template](https://github.com/actions/javascript-action)

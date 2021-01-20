@@ -99,3 +99,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [BOUNCE](https://bounce.town/) - Make music with friends. ([Tweet](https://twitter.com/vidythatte/status/1341575228774871041))
 - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
 - [Night.fm](https://night.fm/) - Cyberpunk-inspired online radio station. ([HN](https://news.ycombinator.com/item?id=25791618))
+- [Uppbeat](https://uppbeat.io/) - Free Music For YouTube Videos & Creators.

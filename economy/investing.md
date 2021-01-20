@@ -24,6 +24,7 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 
 - [Bogleheads](https://www.bogleheads.org/) - Investing Advice and Info. ([HN](https://news.ycombinator.com/item?id=24023604))
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page) - Great resource.
+- [Bogleheads investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy)
 - [Lazy portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
 - [Keith Rabois' investment criteria](https://twitter.com/rabois/status/934099022603747329)
 - [Seeking Alpha](https://seekingalpha.com/) - Crowd-sourced content service for financial markets.

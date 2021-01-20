@@ -698,6 +698,8 @@
 - [TTLCache](https://github.com/ReneKroon/ttlcache) - In-memory cache with expiration.
 - [metric](https://github.com/zserge/metric) - Minimal metrics for Go (counter/gauge/histogram). No dependencies. Compatible with expvar. Web UI included..
 - [pie](https://github.com/natefinch/pie) - Toolkit for creating plugins for Go applications.
+- [lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go.
+- [run](https://github.com/oklog/run) - Universal mechanism to manage goroutine lifecycles.
 
 ## Links
 

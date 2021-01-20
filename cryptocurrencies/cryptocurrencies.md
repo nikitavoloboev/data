@@ -2,7 +2,7 @@
 
 I think [Nano](nano.md) is the future of money if compared to any other coin based off its features. Whilst [Ethereum](../databases/blockchain/ethereum.md)/[Tezos](../databases/blockchain/tezos.md) are great for building out more complex decentralized apps.
 
-It's a matter of time that Bitcoin with its horrible PoW consensus that [wastes electricity](https://www.youtube.com/watch?v=f0HC1Udk6-E) and its slow & expensive transactions will no longer be used (even as a store of value).
+It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus that [wastes electricity](https://www.youtube.com/watch?v=f0HC1Udk6-E) and its slow & expensive transactions will no longer be used (even as a store of value).
 
 ## Interesting
 
@@ -63,3 +63,4 @@ It's a matter of time that Bitcoin with its horrible PoW consensus that [wastes 
 - [Why we need wide adoption of social recovery wallets (2021)](https://vitalik.ca/general/2021/01/11/recovery.html) ([HN](https://news.ycombinator.com/item?id=25722131))
 - [What is Stablecoin? (2021)](https://medium.com/fleta-first-chain/what-is-stablecoin-a557e38da74)
 - [The Bit Short: Inside Crypto’s Doomsday Machine (2021)](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) ([HN](https://news.ycombinator.com/item?id=25788409))
+- [Elrond and the New Crypto Spaces (2021)](https://marginalrevolution.com/marginalrevolution/2021/01/elrond-and-the-new-crypto-spaces.html) ([HN](https://news.ycombinator.com/item?id=25835871))

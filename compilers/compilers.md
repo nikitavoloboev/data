@@ -59,7 +59,7 @@
 - [Compiler Design course by Frank Pfenning (2014)](http://www.cs.cmu.edu/~fp/courses/15411-f14/)
 - [HOT Compilation course (2015)](https://www.cs.cmu.edu/~crary/hotc-f15/)
 - [Compiler Design course (2020)](https://courses.ccs.neu.edu/cs4410/)
-- [CMSC430: Introduction to Compilers (2017)](http://www.cs.umd.edu/class/fall2017/cmsc430/)
+- [CMSC430: Introduction to Compilers (2017)](https://www.cs.umd.edu/class/fall2017/cmsc430/)
 - [Book about compiling Racket to x86-64 assembly](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 - [Principles of Compiler Design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/)
 - [Essentials of Interpretation (2019)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k) - Course on implementing an interpreter for a programming language similar to Python or JavaScript, from scratch.
@@ -139,4 +139,4 @@
 - [Inline caching (2021)](https://bernsteinbear.com/blog/inline-caching/)
 - [Bril: A Compiler Intermediate Representation for Learning](https://capra.cs.cornell.edu/bril/) ([Code](https://github.com/sampsyo/bril))
 - [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
-- [Compiler Series Video Series](https://github.com/bisqwit/compiler_series)
+- [Compiler Video Series](https://github.com/bisqwit/compiler_series)

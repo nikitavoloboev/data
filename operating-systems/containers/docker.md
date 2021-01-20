@@ -97,3 +97,4 @@
 - [It’s time to switch to Docker BuildKit (2021)](https://pythonspeed.com/articles/docker-buildkit/) ([Lobsters](https://lobste.rs/s/zh18id/it_s_time_switch_docker_buildkit))
 - [Envase](https://envase-website.vercel.app/) - Removes the pain from running apps using docker by providing an amazing developer experience. ([Code](https://github.com/ameerthehacker/envase))
 - [Doko](https://github.com/egoist/doko) - Docker-based development dependency manager.
+- [zapp](https://github.com/cpuguy83/zapp) - Tool to interact with Docker registry objects.

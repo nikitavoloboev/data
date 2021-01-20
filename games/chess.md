@@ -65,3 +65,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [fishnet](https://github.com/niklasf/fishnet) - Distributed Stockfish analysis for lichess.org.
 - [shakmaty](https://github.com/niklasf/shakmaty) - Rust library for chess move generation.
 - [Lichess End of Year Update 2020](https://lichess.org/blog/X-2TABUAANCqhnH5/lichess-end-of-year-update-2020)
+- [Notes on Chess](https://github.com/pepellou/knowledge/blob/master/chess/README.md)

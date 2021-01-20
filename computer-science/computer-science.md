@@ -106,3 +106,5 @@
 - [Introduction to Computing: Explorations in Language, Logic, and Machines](http://computingbook.org/)
 - [Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) ([HN](https://news.ycombinator.com/item?id=25753166))
 - [MIT Computer System Engineering (2018)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/) ([HN](https://news.ycombinator.com/item?id=25800858))
+- [Abstract Machines: Interpreters for Computer Scientists (2020)](https://drs.is/post/abstract-machines/) ([Code](https://github.com/sinistersnare/aams))
+- [Crafting Semantics (2021)](https://drs.is/post/crafting-semantics-0/) - Series about creating semantics for a programming language.

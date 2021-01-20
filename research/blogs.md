@@ -131,3 +131,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Personal Blog Template](https://github.com/frankdilo/personal-blog-template) - Static blog powered by Next.js and Dropbox, to be deployed on Vercel.
 - [NextJS CMS Ghost](https://github.com/styxlab/next-cms-ghost) - Publish fast blogs with Next.js and Ghost CMS.
 - [Tech Blog Recommendations](https://wolchok.org/reading/)
+- [Interesting Blogs List](https://github.com/xplosionmind/tommi.space/blob/main/_notes/public/Blogroll.md)

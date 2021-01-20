@@ -212,3 +212,4 @@
 - [PyTorch Memory optimizations via gradient checkpointing](https://github.com/prigoyal/pytorch_memonger)
 - [Efficient PyTorch](https://github.com/Lyken17/Efficient-PyTorch) - Best practices of training large datasets using PyTorch.
 - [SAM: Sharpness-Aware Minimization (PyTorch)](https://github.com/davda54/sam)
+- [Factorization Machine models in PyTorch](https://github.com/rixwew/pytorch-fm)

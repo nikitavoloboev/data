@@ -144,6 +144,8 @@
 - [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) - Simple view for building card like interface inspired by Tinder and Potluck.
 - [SVPinView](https://github.com/xornorik/SVPinView) - Light-weight customisable library used for accepting pin numbers or one-time passwords.
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - Beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.
+- [Synth](https://github.com/CRED-CLUB/synth-ios) - Library for using Neumorphic components in your app.
+- [Pinnable](https://github.com/kylebshr/Pinnable) - Convenient Auto Layout.
 
 ## macOS
 
@@ -568,6 +570,9 @@
 - [Resolver](https://github.com/hmlongco/Resolver) - Swift Ultralight Dependency Injection / Service Locator framework.
 - [Swift Declarative Configuration](https://github.com/MakeupStudio/swift-declarative-configuration) - Tiny library, that enables you to configure your objects in a declarative, consistent and understandable way, with ergonomics in mind.
 - [Inflection](https://github.com/SwiftDocOrg/Inflection) - Swift port of the string inflection functionality from Rails ActiveSupport.
+- [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - Convert your model objects (classes and structs) to and from JSON.
+- [Swift Dhall](https://github.com/MaxDesiatov/swift-dhall) - Swift implementation of the Dhall configuration language.
+- [SwiftOSC](https://github.com/ExistentialAudio/SwiftOSC) - Open Sound Control client and server framework written in Swift.
 
 ## Other (not lib)
 

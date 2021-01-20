@@ -9,7 +9,7 @@
 - [Surpriver](https://github.com/tradytics/surpriver) - Find High Moving Stocks before they Move.
 - [TA-Lib](https://ta-lib.org/) - Technical Analysis Library. ([Python wrapper](https://github.com/mrjbq7/ta-lib))
 - [Timekeeping in Financial Exchanges (2020)](https://www.lucaspauker.ml/articles/20) ([HN](https://news.ycombinator.com/item?id=24746836))
-- [TF Quant Finance](https://github.com/google/tf-quant-finance) - TensorFlow based Quant Finance Library.
+- [TF Quant Finance](https://github.com/google/tf-quant-finance) - TensorFlow based Quant Finance Library. ([HN](https://news.ycombinator.com/item?id=25829757))
 - [Quantopian](https://www.quantopian.com/home) - Place For Learning Quant Finance. ([GitHub](https://github.com/quantopian))
 - [We chose Java for our High-Frequency Trading application (2020)](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) ([HN](https://news.ycombinator.com/item?id=24895395))
 - [Tradytics](https://www.tradytics.com/) - Artificial Intelligence Driven Trading.

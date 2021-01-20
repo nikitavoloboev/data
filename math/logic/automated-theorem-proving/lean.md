@@ -33,3 +33,4 @@
 - [lean-gptf](https://github.com/jesse-michael-han/lean-gptf) - Interactive neural theorem proving in Lean.
 - [Flypitch](https://github.com/flypitch/flypitch) - Formal proof of the independence of the continuum hypothesis. ([Web](https://flypitch.github.io/))
 - [Monadic parser combinators, in Lean](https://github.com/jesse-michael-han/lean-parser-combinators)
+- [elan](https://github.com/Kha/elan) - Lean version manager.

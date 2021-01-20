@@ -41,7 +41,7 @@
 - [TFRT: A New TensorFlow Runtime](https://github.com/tensorflow/runtime)
 - [Farewell, TensorFlow (2020)](https://mrry.github.io/2020/05/10/farewell-tensorflow.html) ([Twitter](https://twitter.com/ericjang11/status/1259882911282556928))
 - [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
-- [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308))
+- [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308)) ([Examples](https://github.com/tensorflow/tfjs-examples))
 - [TensorFlow benchmarks](https://github.com/tensorflow/benchmarks) - Contains various TensorFlow benchmarks.
 - [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)
 - [TensorFlow vs PyTorch (2020)](https://www.reddit.com/r/datascience/comments/h8smv7/tensorflow_vs_tensorflow_20_vs_pytorch/)

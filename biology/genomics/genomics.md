@@ -45,3 +45,4 @@
 - [GenomeSpy](https://genomespy.app/) - Genome visualization tool with a grammar of graphics and WebGL-powered fluid interactions. ([Code](https://github.com/tuner/genome-spy))
 - [Decoding the Language of Genomes (2020)](https://caltechletters.org/science/decoding-the-language-of-genomes) ([HN](https://news.ycombinator.com/item?id=25384412))
 - [GREIN](http://www.ilincs.org/apps/grein/?gse=) - GEO RNA-seq Experiments Interactive Navigator. ([Code](https://github.com/uc-bd2k/GREIN))
+- [FUMA: Functional mapping and annotation of genetic associations](https://fuma.ctglab.nl/) ([Code](https://github.com/Kyoko-wtnb/FUMA-webapp))

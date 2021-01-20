@@ -81,6 +81,7 @@
 ## Web
 
 - [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/))
+- [Elixir for AWS Lambda](https://github.com/amolenaar/elixir_lambda)
 
 ## Other
 
@@ -190,6 +191,7 @@
 - [TreeView](https://github.com/JuliaTeX/TreeView.jl) - Draw Julia syntax trees as a graph.
 - [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) - Control Systems Toolbox for Julia.
 - [MatchCore](https://github.com/thautwarm/MatchCore.jl) - Minimal implementation of optimized pattern matching.
+- [ManualDispatch](https://github.com/jlapeyre/ManualDispatch.jl) - Avoid method dispatch at runtime.
 
 ## Links
 

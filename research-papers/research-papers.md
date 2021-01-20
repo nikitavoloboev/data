@@ -92,3 +92,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Microsoft Academic](https://academic.microsoft.com/home) - Free public web search engine for academic publications and literature.
 - [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/Search/Advanced)
 - [PapersLikeThisOne](https://paperslikethisone.herokuapp.com/) - Find relevant scientific articles.
+- [The Evolution of a Research Paper (2021)](https://tratt.net/laurie/blog/entries/the_evolution_of_a_research_paper.html)

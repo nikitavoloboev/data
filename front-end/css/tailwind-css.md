@@ -60,3 +60,4 @@
 - [Tailwind CSS for Rails](https://github.com/rails/tailwindcss-rails) - Makes it easy to use this CSS framework with the asset pipeline.
 - [tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) - Plugin that provides a basic reset for form styles that makes form elements easy to override with utilities. ([Web](https://tailwindcss-forms.vercel.app/))
 - [DaisyUI](https://daisyui.netlify.app/) - UI Components for Tailwind CSS. Themeable, Scalable and Designer-Friendly. ([Code](https://github.com/saadeghi/daisyui))
+- [Tailwind Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/) ([Code](https://github.com/javisperez/tailwindcolorshades))

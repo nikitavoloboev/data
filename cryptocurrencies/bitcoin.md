@@ -104,3 +104,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Revault](https://github.com/re-vault/revault-demo) - Multi-party Bitcoin vault architecture.
 - [Environmental cost of bitcoin (2021)](https://twitter.com/smdiehl/status/1350869944888664064) ([HN](https://news.ycombinator.com/item?id=25814795)) ([Reddit](https://www.reddit.com/r/nanocurrency/comments/kzr9ef/the_nano_community_will_enjoy_this_twitter_thread/))
 - [Bitcoin Treasuries](https://bitcointreasuries.org/)
+- [Is Bitcoin a Scam? (2021)](https://www.theguardian.com/news/audio/2021/jan/19/is-bitcoin-a-scam) ([HN](https://news.ycombinator.com/item?id=25831562))

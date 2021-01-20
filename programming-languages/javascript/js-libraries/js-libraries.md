@@ -443,9 +443,12 @@
 - [Exifer](https://github.com/terkelg/exifer) - Small module that read JPEG/TIFF meta-data.
 - [jsVideoUrlParser](https://github.com/Zod-/jsVideoUrlParser) - JavaScript parser to extract information like provider, channel, id, start time from YouTube, Vimeo, Dailymotion, Twitch,... urls.
 - [TypeDI](https://github.com/typestack/typedi) - Dependency injection tool for TypeScript and JavaScript.
+- [ibridge](https://github.com/franleplant/ibridge) - Tiny, promise based, type safe library for easy, bidirectional and secure iframe communication.
+- [Monio](https://github.com/getify/monio) - Async-capable IO monad for JS.
 
 ## Links
 
 - [NPM](https://www.npmjs.com) - Node package manager registry.
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
 - [Awesome XState](https://github.com/darrylhebbes/awesome_xstate)
+- [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side.

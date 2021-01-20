@@ -10,6 +10,7 @@
 - [Prisma Client](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement).
 - [Prisma Docs](https://www.prisma.io/docs/) ([Code](https://github.com/prisma/prisma2-docs))
 - [nexus-schema-prisma](https://github.com/AhmedElywa/nexus-schema-prisma) - Prisma CRUD schema generator for database-backed GraphQL servers.
+- [nexus-plugin-prisma](https://github.com/graphql-nexus/nexus-plugin-prisma) - Plugin for Nexus that integrates Prisma.
 - [Kitze & Nikolas from Prisma discuss the future of Prisma and GraphQL](https://www.youtube.com/watch?v=SbPCWpb3-eA)
 - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-starter) - Includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
 - [Prisma 2.0 Demo by Nikolas Burk (2020)](https://www.youtube.com/watch?v=AnJxKWQG_fM)

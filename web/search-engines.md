@@ -104,3 +104,4 @@
 - [Private.sh](https://private.sh/) - Search engine that cryptographically protects your privacy.
 - [Wade](https://github.com/kbrsh/wade) - Blazing fast 1kb search library.
 - [Aves API](https://avesapi.com/) - Insanely Fast Google Search API.
+- [Vespa](https://vespa.ai/) - Engine for low-latency computation over large data sets. ([Code](https://github.com/vespa-engine/vespa))

@@ -55,7 +55,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Allen](https://allenleein.github.io/1930/01/01/knowledge-base.html) ([Code](https://github.com/allenleein/knowledge-base))
 - [Full-stack web development notes](https://github.com/8483/notes)
 - [Max Masnick](https://maxmasnick.com/kb/)
-- [Leon Bambrick](https://til.secretgeek.net/)
+- [Leon Bambrick](https://til.secretgeek.net/) ([Code](https://github.com/secretGeek/today-i-learned))
 - [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
 - [Harrison's Wiki](https://wiki.harrison.dev/)
 - [Greg's wiki](https://mywiki.wooledge.org/EnglishFrontPage)
@@ -142,7 +142,12 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)
 - [Artyom's tech notes](https://tek.brick.do/)
 - [neeasade's notes](https://notes.neeasade.net/)
+- [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
+- [Jacob Chvatal](https://github.com/jakeisnt/wiki)
+- [masayume](https://github.com/masayume/DigitalGarden)
+- [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
+- [List of Exobrain Blogs and Digital Gardens](https://irosyadi.gitbook.io/irosyadi/app/exobrain-digital-garden)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other. ([Code](https://github.com/XXIIVV/webring))
 - [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain)
@@ -297,3 +302,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Miraheze](https://miraheze.org/) - Community-centric, ad free, and locally controlled wiki hosting platform funded 100% by donations.
 - [North Notes](https://northnotes.app/) - Native, infinitely nest-able notes with multi-dimensional tagging.
 - [The difference between note-taking and note-making](https://nesslabs.com/from-note-taking-to-note-making) ([HN](https://news.ycombinator.com/item?id=25789073))
+- [Notes on wikis](https://github.com/jakeisnt/wiki/blob/master/pages/wiki.org)

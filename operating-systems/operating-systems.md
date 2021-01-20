@@ -151,6 +151,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language (2019)](https://pdos.csail.mit.edu/papers/biscuit:thesis.pdf)
 - [Sol — a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine) ([HN](https://news.ycombinator.com/item?id=23437511))
 - [OS Development Tutorials](http://www.osdever.net/tutorials/)
+- [Bran's Kernel Development Tutorial](http://www.osdever.net/bkerndev/Docs/intro.htm)
 - [Modern Operating Systems 3rd edition book](http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf) - 4th edition available too.
 - [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/) ([HN](https://news.ycombinator.com/item?id=23611081))
 - [The OS Classics (2020)](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
@@ -188,3 +189,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Think OS](http://greenteapress.com/thinkos/) - Brief Introduction to Operating Systems. ([Code](https://github.com/AllenDowney/ThinkOS))
 - [Rust OSDev](https://rust-osdev.com/) - Operating System Development in Rust. ([GitHub](https://github.com/rust-osdev))
 - [Martian Computing Course](https://davis68.github.io/martian-computing/) - Explain and navigate the technical layout of Urbit OS. ([Code](https://github.com/davis68/martian-computing)) ([Lobsters](https://lobste.rs/s/6fddwp/cs_498mc_martian_computing))
+- [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/) ([Known Bugs](https://wiki.osdev.org/James_Molloy's_Tutorial_Known_Bugs))

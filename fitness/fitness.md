@@ -18,6 +18,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 
 ## Links
 
+- [How to Build Muscle](https://www.julian.com/guide/muscle/intro)
 - [Workout Prep](https://www.julian.com/guide/muscle/prep)
 - [Strength Training](http://macournoyer.com/blog/2013/08/22/strength/)
 - [r/Fitness Basic Beginner Routine](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)

@@ -78,3 +78,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [hledger](https://github.com/simonmichael/hledger) - Cross-platform accounting software for both power users and folks new to accounting. ([Docs](https://hledger.org/))
 - [Mintable](https://github.com/kevinschaich/mintable) - Automate your personal finances – for free, with no ads, and no data collection.
 - [Awesome Financial Networks](https://github.com/gautier-marti/awesome-financial-networks)
+- [Avera](https://avera.area120.com/) - Financial computation for the future.

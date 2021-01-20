@@ -61,3 +61,4 @@
 - [Knowledge Graphs in NLP Emnlp 2020](https://mgalkin.medium.com/knowledge-graphs-in-nlp-emnlp-2020-2f98ec527738)
 - [StarE](https://github.com/migalkin/StarE) - Message Passing for Hyper-Relational Knowledge Graphs.
 - [Sci-Map.org](https://sci-map.org/) - Open and collaborative learning map.
+- [ConceptNet](http://www.conceptnet.io/) - Open, multilingual knowledge graph. ([Code](https://github.com/commonsense/conceptnet5)) ([Blog](https://blog.conceptnet.io/))

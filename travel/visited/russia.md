@@ -4,7 +4,7 @@ The number of crimes against humanity committed by China and Russia is horrific.
 
 It's [hard thing to do](https://twitter.com/nikitavoloboev/status/1351169746587295745) considering the military budgets of both the countries and the depths in which they go to try and control all the information.
 
-I hope to do my part in crushing these systems by building the best tools available for educating. Everyone should be able to think critically and know how to be effective and not be abused by their environment.
+I hope to do my part in crushing these systems by building the best tools available for learning. Everyone should be able to think critically and know how to be effective and not be abused by their environment.
 
 No one should be paying taxes in these countries as that money is being used to only strengthen the dictatorship with the remainder going to few private hands. The biggest abuse of human rights.
 

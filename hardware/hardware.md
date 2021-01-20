@@ -157,3 +157,5 @@
 - [embedded-hal](https://github.com/rust-embedded/embedded-hal) - Hardware Abstraction Layer (HAL) for embedded systems.
 - [The Confusing World of USB (2020)](https://fabiensanglard.net/nousb/index.html) ([HN](https://news.ycombinator.com/item?id=25724014))
 - [ARM](https://www.arm.com/) - Architecting a Smarter World. ([GitHub](https://github.com/ARM-software))
+- [HwURLs](https://hwurls.com/) - Simple hardware news aggregator.
+- [Anatomy of a CNC Router (2020)](https://mattferraro.dev/posts/cnc-router) - Everything you need to know to design your own CNC router. ([HN](https://news.ycombinator.com/item?id=25829337))

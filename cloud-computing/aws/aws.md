@@ -140,3 +140,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Remote Debugging in AWS (2021)](https://thenewstack.io/remote-debugging-in-aws-the-missing-link-in-your-debugging-toolset/)
 - [AWS Workshops](https://workshops.aws/)
 - [AWS Compute Blog](https://aws.amazon.com/blogs/compute/)
+- [AWS CloudFormation Sample Templates](https://github.com/awslabs/aws-cloudformation-templates)
+- [GitHub Action to Deploys AWS CloudFormation Stacks](https://github.com/aws-actions/aws-cloudformation-github-deploy)
+- [VS Code CloudFormation Linter](https://github.com/aws-cloudformation/aws-cfn-lint-visual-studio-code) - Uses cfn-lint to lint your CloudFormation templates.
+- [Awesome CloudFormation](https://github.com/aws-cloudformation/awesome-cloudformation)

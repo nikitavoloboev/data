@@ -52,3 +52,4 @@
 - [Certified semantics for relational programming workout](https://github.com/dboulytchev/miniKanren-coq)
 - [100 famous theorems proved using Coq](https://madiot.fr/coq100/) ([Code](https://github.com/coq-community/coq100))
 - [codegen plugin for Coq](https://github.com/akr/codegen)
+- [Coq record update library](https://github.com/tchajed/coq-record-update) - Automatically provides a generic way to update record fields.

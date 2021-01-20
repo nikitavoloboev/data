@@ -30,3 +30,4 @@
 - [What Godel Discovered](https://stopa.io/post/269) ([HN](https://news.ycombinator.com/item?id=25115746))
 - [Logicomix: An Epic Search for Truth book (2009)](https://www.logicomix.com/en/index.html)
 - [Logic and Semantics @ Aarhus University](https://cs.au.dk/research/logic-and-semantics/) ([GitHub](https://github.com/logsem))
+- [Propositional Dynamic Logic](https://plato.stanford.edu/entries/logic-dynamic/)

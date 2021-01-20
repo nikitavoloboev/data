@@ -52,3 +52,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Unix History Repository](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today.
 - [Chain loading, not preloading: the dynamic linker as a virtualization vector (2021)](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2021/01/04/)
 - [USENIX](https://www.usenix.org/) - Advanced Computing Systems Association.
+- [Supervisor](https://github.com/Supervisor/supervisor) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems. ([Docs](http://supervisord.org/))

@@ -35,3 +35,4 @@
 - [Ranked voting systems (2021)](https://www.elzear.de/posts/2021-01-10-polls)
 - [Vitalik Buterin on free speech and deplatforming (2021)](https://twitter.com/VitalikButerin/status/1348894400919703552)
 - [Change.org](https://www.change.org/) - World’s platform for change.
+- [Centralisation Is a Danger to Democracy (2021)](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy) ([HN](https://news.ycombinator.com/item?id=25828081))

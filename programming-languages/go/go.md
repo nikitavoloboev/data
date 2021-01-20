@@ -417,3 +417,5 @@ Go promotes composition over inheritance.
 - [So just how fast are channels anyway? (2017)](https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45)
 - [Go Slice Tricks Cheat Sheet](https://ueokande.github.io/go-slice-tricks/)
 - [REST Servers in Go (2021)](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) ([HN](https://news.ycombinator.com/item?id=25805158))
+- [Non-blocking I/O in Go (2019)](https://container42.com/2019/02/18/non-blocking-io-in-go/)
+- [Go Profiler Notes](https://github.com/felixge/go-profiler-notes) - Notes on the various go profiling methods that are available.

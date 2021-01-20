@@ -123,3 +123,4 @@
 - [Wanager](https://github.com/Wafelack/wng) - Package manager and project manager for the C & C++ programming languages.
 - [B. Harvey's Intro to C (2007)](https://inst.eecs.berkeley.edu//~cs61c/resources/HarveyNotesC1-3.pdf)
 - [lcc](https://github.com/drh/lcc) - Retargetable Compiler for ANSI C. ([Web](https://drh.github.io/lcc/))
+- [C Compiler/Parser written in Rust](https://github.com/thepowersgang/rust-cc)

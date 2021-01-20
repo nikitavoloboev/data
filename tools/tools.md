@@ -167,7 +167,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
-- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. ([Web](https://grafana.com/oss/loki/))
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
 - [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
 - [Appstitch](https://appstitch.dev/) - Low-code alternative for Stripe/Twilio Integrations. ([HN](https://news.ycombinator.com/item?id=25821898))
@@ -263,6 +263,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Appsmith](https://www.appsmith.com/) - Open source admin panel, CRUD, and workflow builder. ([Code](https://github.com/appsmithorg/appsmith))
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
+- [Shuffle](https://shuffle.dev/) - Online editor for busy developers. ([HN](https://news.ycombinator.com/item?id=25822636))
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 - [Dialup](https://dialup.com/) - Serendipitous voice chat. ([HN](https://news.ycombinator.com/item?id=25557779))
 - [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.

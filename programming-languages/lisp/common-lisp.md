@@ -47,3 +47,4 @@
 - [Debugging Lisp (2015)](https://malisper.me/category/debugging-common-lisp/) ([HN](https://news.ycombinator.com/item?id=25661701))
 - [data-lens](https://github.com/fiddlerwoaroof/data-lens) - Functional utilities for Common Lisp.
 - [docker-cl-example](https://github.com/fukamachi/docker-cl-example/) - Example projects to run/develop Common Lisp web application on Docker container.
+- [CLOG](https://github.com/rabbibotton/clog) - Common Lisp Omnificent GUI.

@@ -30,3 +30,4 @@
 - [Backend logging options (2020)](https://twitter.com/frankdilo/status/1339485218881748992)
 - [Glean SDK](https://github.com/mozilla/glean) - Modern cross-platform telemetry. ([Docs](https://mozilla.github.io/glean/book/index.html))
 - [Logflare](https://logflare.app/) - Cloudflare, Vercel & Elixir Logging. ([Code](https://github.com/Logflare/logflare))
+- [Flog](https://github.com/mingrammer/flog) - Fake log generator for common log formats.

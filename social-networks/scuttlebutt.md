@@ -12,3 +12,4 @@
 - [Go-SSB](https://github.com/cryptoscope/ssb) - Full-stack implementation of secure-scuttlebutt using the Go programming language.
 - [kuska-ssb](https://github.com/Kuska-ssb/ssb) - Secure Scuttlebutt Rust library.
 - [HN: Scuttlebutt (2021)](https://news.ycombinator.com/item?id=25713830)
+- [SSB Drive](https://github.com/cn-uofbasel/ssbdrv) - Decentralized file system over Secure Scuttlebutt.

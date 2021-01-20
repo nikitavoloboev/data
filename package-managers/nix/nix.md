@@ -67,6 +67,7 @@
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
 - [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore.nix)
 - [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.
+- [wharfix](https://github.com/google/nixery) - Minimal stateless+readonly docker registry based on nix expressions. Heavily inspired by Nixery.
 - [Nix - A One Pager](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [yants](https://github.com/tazjin/yants) - Tiny type-checker for data in Nix, written in Nix.
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - Collection of short notes about Nix, down to what is immediately needed for users.

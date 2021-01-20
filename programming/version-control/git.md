@@ -216,3 +216,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-annex](https://git-annex.branchable.com/) - Allows managing files with git, without checking the file contents into git. ([Code](https://github.com/peti/git-annex))
 - [gittup](http://gittup.org/gittup/) - Entire(-ish) linux distribution in git.
 - [Git Extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
+- [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. ([Web](https://gogs.io/))

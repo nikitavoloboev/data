@@ -28,6 +28,10 @@
 - [sydtest](https://github.com/NorfairKing/sydtest) - Experimental testing framework for Haskell with great defaults advanced testing features.
 - [Tasty](https://github.com/feuerbach/tasty) - Modern and extensible testing framework for Haskell.
 
+## CLI
+
+- [Haskeline](https://github.com/judah/haskeline) - Haskell library for line input in command-line programs.
+
 ## Other
 
 - [generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
@@ -98,6 +102,7 @@
 - [discrimination](https://github.com/ekmett/discrimination) - Fast linear time sorting and discrimination for a large class of data types.
 - [haskell-src](https://github.com/haskell-pkg-janitors/haskell-src) - Library for manipulating Haskell source code.
 - [Profunctors](https://github.com/ekmett/profunctors) - Haskell 98 Profunctors.
+- [MemoTrie](https://github.com/conal/MemoTrie) - Functional library for creating efficient memo functions, using tries.
 
 ## Links
 

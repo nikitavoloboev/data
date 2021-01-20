@@ -26,4 +26,5 @@
 - [Algorithmic Problem Solving](https://github.com/jilljenn/tryalgo) - Algorithms and data structures for preparing programming competitions: basic and advanced.
 - [Competitive programming solutions in Rust](https://github.com/Vicfred/kyopro)
 - [Competitive programming solutions in C++](https://github.com/omonimus1/competitive-programming)
+- [Solutions to Competitive Programming problems](https://github.com/abeaumont/competitive-programming)
 - [Programming Challenges](https://github.com/michelbernardods/programming-challenges) - Data structures and algorithms. Programming challenges and competitions to improve knowledge.

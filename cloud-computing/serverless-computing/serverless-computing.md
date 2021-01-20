@@ -79,3 +79,5 @@
 - [Serverless Workflow Specification](https://serverlessworkflow.io/) - Specification that defines a declarative and domain-specific workflow language for orchestrating events and services. ([Code](https://github.com/serverlessworkflow/specification))
 - [Serverless Express](https://github.com/vendia/serverless-express) - Run serverless applications and REST APIs using your existing Node.js application framework, on top of AWS Lambda and Amazon API Gateway.
 - [Serverless for Everyone Else (2021)](https://gumroad.com/l/serverless-for-everyone-else) ([HN](https://news.ycombinator.com/item?id=25792665))
+- [rusty-workers](https://github.com/losfair/rusty-workers) - Cloud-native distributed serverless workers platform.
+- [Seed](https://seed.run/) - Fully-Managed CI/CD Pipeline for Serverless. ([HN](https://news.ycombinator.com/item?id=25835280))

@@ -38,6 +38,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Code Browser](https://tibleiz.net/code-browser/) - Folding Text Editor. ([HN](https://news.ycombinator.com/item?id=25561688))
 - [Scribble](https://github.com/ryangjchandler/scribble) - Experimental terminal text-editor written in Rust.
 - [Uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI.
+- [novelWriter](https://github.com/vkbo/novelWriter) - Markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents. ([Web](https://novelwriter.io/)) ([HN](https://news.ycombinator.com/item?id=25833328))
 
 ## Web
 
@@ -66,7 +67,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [ycmd](https://github.com/Valloric/ycmd) - Code-completion & comprehension server.
 - [Open source collaborative text editors (2019)](https://juretriglav.si/open-source-collaborative-text-editors/) ([HN](https://news.ycombinator.com/item?id=19845776))
 - [Vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend.
-- [Hecto: Build your own text editor in Rust (2019)](https://www.philippflenker.com/hecto/)
+- [Hecto: Build your own text editor in Rust (2019)](https://www.philippflenker.com/hecto/) ([HN](https://news.ycombinator.com/item?id=25809288))
 - [Kite](https://www.kite.com/) - AI assistant giving developers superpowers. ([VS Code plugin](https://github.com/kiteco/vscode-plugin))
 - [Diff Match and Patch libraries](https://github.com/google/diff-match-patch) - Offer robust algorithms to perform the operations required for synchronizing plain text.
 - [Debug Adapter Protocol](https://microsoft.github.io/debug-adapter-protocol/) - Defines a common protocol for debug adapters. ([Code](https://github.com/microsoft/debug-adapter-protocol))
@@ -91,3 +92,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) ([Code](https://github.com/snaptoken/kilo-tutorial))
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla (2021)](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/) ([HN](https://news.ycombinator.com/item?id=25810427))
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - Tool to verify that your files are in harmony with your .editorconfig. ([Web](https://editorconfig-checker.github.io/))
+- [dprint](https://dprint.dev/) - Pluggable and configurable code formatting platform written in Rust. ([Code](https://github.com/dprint/dprint))

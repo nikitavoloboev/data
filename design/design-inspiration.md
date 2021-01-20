@@ -68,6 +68,7 @@ Here are few more things I liked, design wise.
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
 - [Numinus](https://numinus.ca/)
+- [Staff Design](https://staff.design/) - Amazing mobile view too.
 - [CleanShot X](https://cleanshot.com/)
 - [Hand Mirror](https://handmirror.app/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
@@ -372,6 +373,7 @@ Here are few more things I liked, design wise.
 - [Duncan Geere](https://www.duncangeere.com/portfolio/)
 - [Dez Beberniss](https://desiraebeberniss.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
+- [Wilson Miner](https://wilsonminer.com/)
 - [Mathias Schäfer](https://molily.de/)
 - [Marvin Schwaibold](https://www.marvinschwaibold.com/)
 - [Martin Lexow](https://martinlexow.de/)

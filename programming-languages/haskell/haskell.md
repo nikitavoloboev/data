@@ -250,3 +250,6 @@
 - [Why Haskell is our first choice for building production software systems (2021)](https://www.foxhound.systems/blog/why-haskell-for-production/) ([HN](https://news.ycombinator.com/item?id=25726588))
 - [Maybe Considered Harmful (2021)](https://rpeszek.github.io/posts/2021-01-16-maybe-harmful.html)
 - [Teaching Haskell means teaching important concepts (2021)](http://www.lambdabytes.io/posts/teachinghaskell/)
+- [Haskell Code Spot](https://github.com/grin-compiler/haskell-code-spot) - Visual tool to spot odd runtime behavior of Haskell programs.
+- [ghc.nix](https://github.com/alpmestan/ghc.nix) - Nix (shell) expression for working on GHC.
+- [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/) - State-of-the-art, open source, compiler and interactive environment for the functional language Haskell. ([Code](https://github.com/ghc/ghc))

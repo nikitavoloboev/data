@@ -6,14 +6,14 @@
 - No fossil fuels used. Only sustainable & environmentally energy sources used. Each country's grid is ran off renewable clean energy.
 - All vehicles are electrical. Autonomous driving fully realized.
 - Cure for all cancers & diseases (cheap immunotherapies, medicine).
-- Psychedelics legalized. Both possession, purchase and manufacturing.
+- Psychedelics legalized. Possession, purchase and manufacturing. Psychotherapy is available everywhere.
 - NLP lets machines understand knowledge & language at deep level.
 - Universal basic income allows each person to work on problems they deeply care about. Novel ideas can be explored by each person according to their interest & skill.
 - Learn Anything is the best tool for learning and finding ideas. AI is able to craft personal optimized learning paths & connecting users to interesting novel ideas.
 - No more Electron. All apps are native and use optimal amount of resources.
 - No more UX dark patterns. Each app/tool experience optimizes for user joy & empowerment.
 - Ability to control computers with thoughts at high bandwidth.
-- Smarter cities that are friendly to humans, not cars.
+- Smarter cities that are friendly to humans & wildlife, not cars.
 - A lot of designated areas across the globe given back to wildlife to flourish.
 - No dictators (China/Russia/..). Every country has proper democratic process with fairly elected leaders. Countries/cities compete for best talent.
 

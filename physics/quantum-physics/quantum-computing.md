@@ -68,3 +68,4 @@
 - [Awesome Quantum Software](https://github.com/qosf/awesome-quantum-software)
 - [Quantum Computing’s Internals Demystified (2021)](https://whiteheadsoftware.dev/quantum-computings-internals-demystified/)
 - [FunQy](https://github.com/rvanasa/funqy) - High-level hybrid quantum programming language.
+- [quantum](https://github.com/littledivy/quantum) - Quantum Circuit Simulator in Go.

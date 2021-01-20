@@ -58,3 +58,4 @@
 - [Raspberry Pi PCIe Devices](https://pipci.jeffgeerling.com/) - Raspberry Pi PCI Express device compatibility database. ([Code](https://github.com/geerlingguy/raspberry-pi-pcie-devices)) ([HN](https://news.ycombinator.com/item?id=25556650))
 - [Micro Displays for Raspberry Pi](https://github.com/igbit/micro-displays)
 - [PiSugar2](https://github.com/PiSugar/PiSugar) - Battery module for Raspberry Pi zero / zero W / zero WH.
+- [Raspberry Pi LEGO sorter (2021)](https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/)
