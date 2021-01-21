@@ -125,7 +125,7 @@
 - [SwiftStatsDClient](https://github.com/apple/swift-statsd-client) - Metrics backend for swift-metrics that uses the statsd protocol.
 - [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax (2020)](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html) ([HN](https://news.ycombinator.com/item?id=23517269))
 - [Delightful Interactive Animations with Swift (2020)](https://www.onswiftwings.com/posts/interactive-animations/)
-- [Advanced Swift](https://www.objc.io/books/advanced-swift/) - Deep dive into Swift’s features, from low-level programming to high-level abstractions.
+- [Advanced Swift](https://www.objc.io/books/advanced-swift/) - Deep dive into Swift’s features, from low-level programming to high-level abstractions.
 - [Swift notes](https://app.milanote.com/1JMJuo1BH9mmcm?p=e4n1rBq3PKM)
 - [Embrace Swift type inference (2020)](https://developer.apple.com/videos/play/wwdc2020/10165/) - Great talk for understanding how to make APIs as concise as the ones in SwiftUI.
 - [100 Days of Swift](https://www.hackingwithswift.com/100)

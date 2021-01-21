@@ -157,3 +157,7 @@
 - [ReAgent](https://github.com/facebookresearch/ReAgent) - Platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.). ([Docs](https://reagent.ai/))
 - [Deep Reinforcement Learning Algorithms](https://github.com/RITCHIEHuang/DeepRL_Algorithms)
 - [CURL: Contrastive Unsupervised Representation Learning for Sample-Efficient Reinforcement Learning](https://github.com/MishaLaskin/curl)
+- [minimalRL PyTorch](https://github.com/seungeunrho/minimalRL) - Implementations of basic RL algorithms with minimal lines of code.
+- [Awesome RL Competitions](https://github.com/seungjaeryanlee/awesome-rl-competitions)
+- [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
+- [OpenAI PLE environment](https://github.com/lusob/gym-ple) - Learning environment, mimicking the Arcade Learning Environment interface.

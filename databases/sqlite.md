@@ -43,3 +43,4 @@
 - [sqlite-worker](https://github.com/WebReflection/sqlite-worker) - Simple, and persistent, SQLite database for Web and Workers.
 - [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database.
 - [GRDB.swift](https://github.com/groue/GRDB.swift) - Toolkit for SQLite databases, with a focus on application development. ([Web](http://groue.github.io/GRDB.swift/))
+- [edge-sql](https://sql.lspgn.workers.dev/) - Serverless edge worker embedding SQLite using Cloudflare Workers and WASM. ([Code](https://github.com/lspgn/edge-sql)) ([HN](https://news.ycombinator.com/item?id=25842999))

@@ -96,3 +96,5 @@
 - [Tasks Assessing Protein Embeddings (TAPE)](https://github.com/songlab-cal/tape) - Set of five biologically relevant semi-supervised learning tasks spread across different domains of protein biology.
 - [Center for Computational Biology](https://ccb.berkeley.edu/)
 - [Yun S. Song Research](https://people.eecs.berkeley.edu/~yss/) ([Song Lab](https://people.eecs.berkeley.edu/~yss/group.html)) ([GitHub](https://github.com/songlab-cal))
+- [MolStar](https://github.com/molstar/molstar) - Comprehensive macromolecular library. ([Web](https://molstar.org/))
+- [How to Start a Biotech Company on a Budget (2021)](https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/)

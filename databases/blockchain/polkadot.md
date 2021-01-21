@@ -24,3 +24,4 @@
 - [Nuxt.js + Vue.js + TypeScript + PolkadotJS](https://github.com/Colm3na/vue-typescript-polkadotjs)
 - [Polkadot Protocol Specification and Conformance Tests](https://github.com/w3f/polkadot-spec)
 - [Substrate Contracts Workshop](https://github.com/substrate-developer-hub/substrate-contracts-workshop) - Self-guided tutorial which will teach you how to build Wasm smart contracts on Parity Substrate using Parity ink. ([Web](https://substrate.dev/substrate-contracts-workshop/#/))
+- [Bandot](https://www.bandot.io/) - Polkadot stable coin credit system. ([Code](https://github.com/bandotorg/Bandot))

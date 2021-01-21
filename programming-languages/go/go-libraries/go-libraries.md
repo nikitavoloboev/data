@@ -182,6 +182,7 @@
 
 - [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.
 - [orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang.
+- [Canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to SVG, PDF, EPS, raster, HTML Canvas, etc.
 
 ## GUI
 
@@ -700,11 +701,13 @@
 - [pie](https://github.com/natefinch/pie) - Toolkit for creating plugins for Go applications.
 - [lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go.
 - [run](https://github.com/oklog/run) - Universal mechanism to manage goroutine lifecycles.
+- [go-concurrency-limits](https://github.com/platinummonkey/go-concurrency-limits) - Go implementation of Netflix/concurrency-limits.
 
 ## Links
 
 - [pkg.go.dev](https://pkg.go.dev/) - Website for discovering and evaluating Go packages and modules. ([Code](https://github.com/golang/pkgsite))
-- [GoDoc](https://godoc.org/) - Hosts documentation for Go packages. ([Code](https://github.com/golang/gddo))
+- [GoDoc.org](https://godoc.org/) - Hosts documentation for Go packages. Not maintained. ([Code](https://github.com/golang/gddo))
+- [GoDocs.io](https://godocs.io/) - Hosts documentation for Go packages. Maintained. ([Code](https://sr.ht/~sircmpwn/godocs.io/))
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.

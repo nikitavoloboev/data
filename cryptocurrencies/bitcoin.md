@@ -17,7 +17,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcore Node](https://github.com/bitpay/bitcore) - Full stack for bitcoin and blockchain-based applications.
 - [nix-bitcoin](https://github.com/jonasnick/nix-bitcoin) - Nix packages and nixos modules with profiles for easily installing Bitcoin nodes and higher layer protocols.
 - [The History and Future of Bitcoin with Dan Held (2019)](https://overcast.fm/+LDKfCTO4U)
-- [Introducing SOPR: spent outputs to predict bitcoin lows and tops (2019)](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)
+- [Introducing SOPR: spent outputs to predict bitcoin lows and tops (2019)](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)
 - [Tokenized](https://tokenized.com/) - Easiest and safest way to issue, manage and trade security and utility tokens on the Bitcoin SV network.
 - [Bitcoin Resources](https://dergigi.com/bitcoin/resources/)
 - [Mastering the Lightning Network book](https://github.com/lnbook/lnbook)
@@ -105,3 +105,10 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Environmental cost of bitcoin (2021)](https://twitter.com/smdiehl/status/1350869944888664064) ([HN](https://news.ycombinator.com/item?id=25814795)) ([Reddit](https://www.reddit.com/r/nanocurrency/comments/kzr9ef/the_nano_community_will_enjoy_this_twitter_thread/))
 - [Bitcoin Treasuries](https://bitcointreasuries.org/)
 - [Is Bitcoin a Scam? (2021)](https://www.theguardian.com/news/audio/2021/jan/19/is-bitcoin-a-scam) ([HN](https://news.ycombinator.com/item?id=25831562))
+- [LNP/BP Standards Association](https://www.lnp-bp.org/) - Specifications, proposals and libraries for things which are not a part of Bitcoin Core / BIPs. ([GitHub](https://github.com/LNP-BP)) ([Intro](https://www.alzashop.com/lnp-bp-lightning-netowrk-and-bitcoin-protocols)) ([FAQ](https://github.com/LNP-BP/FAQ))
+- [LNP/BP Common Standards](https://github.com/LNP-BP/LNPBPs)
+- [RGB Con 0 - Day 1 (2020)](https://www.youtube.com/watch?v=BjFZuF_ZPMg)
+- [Bitcoin Pro](https://github.com/pandoracore/bitcoin-pro) - Professional bitcoin accounts & assets management.
+- [Pandora Core](https://pandoracore.com/) - Building Layer 2 and 3 technologies enabling scalable smart contracts and AI for Internet of value on top of Lightning Network and Bitcoin protocol. ([GitHub](https://github.com/pandoracore))
+- [lnp-node](https://github.com/LNP-BP/lnp-node) - Lightning Network Protocol Node.
+- [Descriptor wallet library](https://github.com/LNP-BP/descriptor-wallet) - Library for building descriptor-based bitcoin wallets.

@@ -52,6 +52,8 @@
 - [Crypt](https://github.com/DavW/crypt) - Software synthesiser plugin designed for creating spacious cold hyper-unisoned synth sounds.
 - [Fourhands](https://fourhands.jminjie.com/) - P2P MIDI jam room for pianists. ([Code](https://github.com/jminjie/fourhands)) ([HN](https://news.ycombinator.com/item?id=25685903))
 - [FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding. ([Web](https://foxdot.org/))
+- [SOUL (SOUnd Language)](https://github.com/soul-lang/SOUL) - Attempt to modernise and optimise the way high-performance, low-latency audio code is written and executed.
+- [RaveForce](https://github.com/chaosprint/RaveForce) - Environment that allows you to define your musical task in SuperCollider, and train an agent to do the task in Python with APIs similar to the OpenAI Gym.
 
 ## Inspiration
 

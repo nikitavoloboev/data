@@ -98,3 +98,4 @@
 - [passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 - [node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 server in Node.js.
 - [Learn JWT by reverse engineering](https://github.com/gitcommitshow/auth-jwt)
+- [SAML vs. OAuth (2021)](https://ossoapp.com/blog/saml-vs-oauth/) - Engineer’s Guide to Enterprise-grade Single Sign-on.

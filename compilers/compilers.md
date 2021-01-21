@@ -140,3 +140,4 @@
 - [Bril: A Compiler Intermediate Representation for Learning](https://capra.cs.cornell.edu/bril/) ([Code](https://github.com/sampsyo/bril))
 - [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
 - [Compiler Video Series](https://github.com/bisqwit/compiler_series)
+- [SymQEMU](https://github.com/eurecom-s3/symqemu) - Compilation-based symbolic execution for binaries. ([Web](http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html))

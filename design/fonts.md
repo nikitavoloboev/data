@@ -64,6 +64,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Consolas](https://www.lucasfonts.com/custom/consolas-overview)
 - [Comic Mono](https://dtinth.github.io/comic-mono-font/) - Legible monospace font. ([Code](https://github.com/dtinth/comic-mono-font)) ([HN](https://news.ycombinator.com/item?id=25520510))
 - [Datalegreya](http://www.datalegreya.com/?lang=en) - Typeface which can interweave data curves with text.
+- [Leland](https://github.com/MuseScoreFonts/Leland) - SMuFL-compliant OpenType music font.
 
 ## Links
 

@@ -181,3 +181,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [OpenPlayerJS](https://www.openplayerjs.com/) - Lightweight Media Player for Web. ([Code](https://github.com/openplayerjs/openplayerjs))
 - [Netflix Open Content](https://opencontent.netflix.com/)
 - [Clowdr](https://clowdr.org/) - Virtual conferences for social good. ([GitHub](https://github.com/clowdr-app)) ([Code](https://github.com/clowdr-app/clowdr))
+- [Chatmosphere](https://chatmosphere.cc/) - Make informal video calls more fun and dynamic. ([HN](https://news.ycombinator.com/item?id=25847871))
+- [mebm](https://bwasti.github.io/mebm/) - Browser based video editor that supports animation of images and text overlays. ([Code](https://github.com/bwasti/mebm))

@@ -256,3 +256,4 @@
 - [Prettier Plugin: Organize Imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports)
 - [A mostly complete guide to error handling in JavaScript (2020)](https://www.valentinog.com/blog/error/)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
+- [Perflink](https://perf.link/) - JS Benchmarks.

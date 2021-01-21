@@ -200,7 +200,7 @@
 - [MediaPipe](https://github.com/google/mediapipe) - Cross-platform framework for building multimodal applied machine learning pipelines.
 - [ML courses by Zico Kolter](http://zicokolter.com/courses/)
 - [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
-- [MIT Introduction to Deep Learning course (2020)](http://introtodeeplearning.com/)
+- [MIT Introduction to Deep Learning course (2020)](http://introtodeeplearning.com/) ([Code](https://github.com/aamini/introtodeeplearning))
 - [Stanford Deep Multi-Task and Meta Learning course (2019)](http://cs330.stanford.edu/)
 - [FastAI book draft (2020)](https://github.com/fastai/fastbook) ([HN](https://news.ycombinator.com/item?id=22449562)) ([Notebooks](https://github.com/fastai/book_nbs))
 - [Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"](https://github.com/ctgk/PRML)
@@ -395,3 +395,4 @@
 - [Single-Machine Simulation of Federated Learning Systems (2021)](https://flower.dev/blog/2021-01-14-single-machine-simulation-of-federated-learning-systems)
 - [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
 - [Optimization Methods for Machine Learning and Engineering (2021)](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5)
+- [Three mysteries in deep learning: Ensemble, knowledge distillation, and self-distillation (2021)](https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/)

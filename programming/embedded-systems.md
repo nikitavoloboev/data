@@ -78,7 +78,7 @@
 - [So you want to build an embedded Linux system? (2020)](https://jaycarlson.net/embedded-linux/) ([HN](https://news.ycombinator.com/item?id=24800037))
 - [How I Teach Embedded Systems (2019)](https://jaycarlson.net/2019/07/26/how-i-teach-embedded-systems/)
 - [eRPC (Embedded RPC)](https://github.com/EmbeddedRPC/erpc) - Open source Remote Procedure Call (RPC) system for multichip embedded systems and heterogeneous multicore SoCs.
-- [Bela](https://bela.io/) - Create beautiful interaction with sensors and sound. ([Code](https://github.com/BelaPlatform/Bela))
+- [Bela](https://bela.io/) - Create beautiful interaction with sensors and sound. ([Code](https://github.com/BelaPlatform/Bela)) ([bela-sys - Rust bindings for the Bela platform](https://github.com/padenot/bela-sys))
 - [Embedded Programming Without the IDE (2016)](http://reecestevens.me/blog/2016/07/08/embedded-programming-without-ide/) ([HN](https://news.ycombinator.com/item?id=24867643))
 - [Free CANopen Stack for Embedded Systems](https://github.com/embedded-office/canopen-stack) ([Web](https://canopen-stack.org/))
 - [Using Rust for a simple hardware project (2020)](https://blog.tonari.no/rust-simple-hardware-project)

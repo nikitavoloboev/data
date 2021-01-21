@@ -13,3 +13,4 @@
 - [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html) ([Lobsters](https://lobste.rs/s/rbom5a/roy_fielding_s_misappropriated_rest)) ([HN](https://news.ycombinator.com/item?id=23670238))
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping. Powered by JSON Server + LowDB.
+- [Steps for Designing REST API](https://www.wutsi.com/read/246/5-steps-for-designing-your-rest-apis)

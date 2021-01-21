@@ -1,5 +1,11 @@
 # Drinks
 
-I don't drink any sugary drinks and drink only water, tea & coffee.
+I avoid drinking sugary drinks and try drink mostly water, tea & occasional coffee.
 
-I love green tea with lemon & ginger the most. And I limit amount of coffee I drink to max 1 cup.
+## Interesting drinks
+
+- [Club-Mate](https://www.club-mate.de/en/)
+
+## Links
+
+- [Soft drink recipes](https://github.com/blinry/soft-drink-recipes)

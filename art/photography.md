@@ -101,3 +101,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [The Cult of Leica (2021)](http://leicaphilia.com/the-cult-of-leica/)
 - [Leicaphilia](http://leicaphilia.com/)
 - [Lychee](https://lycheeorg.github.io/) - Self-hosted photo-management done right. ([Code](https://github.com/LycheeOrg/Lychee))
+- [Definitive DIY Guide to Beautiful Product Photography (2020)](https://www.shopify.ca/blog/12206313-the-ultimate-diy-guide-to-beautiful-product-photography)

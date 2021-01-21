@@ -387,6 +387,7 @@ Here are few more things I liked, design wise.
 - [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Tomas](https://www.tomas.io/)
+- [Neef Rehman](https://neef.co/)
 - [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/)
 - [Loris Cro](https://kristoff.it/) ([Code](https://github.com/kristoff-it/kristoff-it.github.io))
 - [Sébastien Chopin](https://atinux.com/)

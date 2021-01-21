@@ -668,6 +668,9 @@
 - [x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
 - [lz4_flex](https://github.com/PSeitz/lz4_flex) - Pure Rust implementation of raw LZ4 compression/decompression.
 - [Stakker](https://github.com/uazu/stakker) - Lightweight low-level single-threaded actor runtime.
+- [Vicis](https://github.com/maekawatoshiki/vicis) - Manipulate LLVM-IR in Pure Rust.
+- [tryhard](https://github.com/EmbarkStudios/tryhard) - Easily retry futures.
+- [visualizer2](https://github.com/Rahix/visualizer2) - Audio Visualization in Rust.
 
 ## Cargo Plugins
 

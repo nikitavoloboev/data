@@ -318,3 +318,4 @@
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Intentionally vulnerable cluster environment to learn and practice Kubernetes security. ([Web](https://madhuakula.com/kubernetes-goat/about.html))
 - [Carvel](https://carvel.dev/) - Provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
 - [Kube-router](https://github.com/cloudnativelabs/kube-router) - Turnkey solution for Kubernetes networking with aim to provide operational simplicity and high performance. ([Web](https://www.kube-router.io/))
+- [cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang.

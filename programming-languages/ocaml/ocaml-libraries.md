@@ -70,6 +70,8 @@
 - [Session-ocaml](https://github.com/keigoi/session-ocaml) - Implementation of binary session types in OCaml.
 - [brr](https://github.com/dbuenzli/brr) - Browser programming toolkit for OCaml.
 - [Dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml.
+- [RML](https://github.com/dannywillems/RML) - ML modules and functors as first-class citizens.
+- [VOCaL](https://github.com/vocal-project/vocal) - Verified OCaml Library.
 
 ## Links
 

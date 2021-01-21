@@ -37,3 +37,4 @@
 - [GraphX](https://github.com/roipeker/graphx) - Making drawings and animations in Flutter extremely simple.
 - [Flutter samples](https://github.com/flutter/samples) - Collection of open source samples that illustrate best practices for Flutter.
 - [Flutter cheat sheet](https://howtodothisinflutter.com/) ([Code](https://github.com/lesnitsky/howtodothisinflutter))
+- [Hover](https://github.com/go-flutter-desktop/hover) - Run Flutter apps on the desktop with hot-reload.

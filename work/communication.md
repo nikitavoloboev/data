@@ -74,3 +74,5 @@
 - [neurodiverse.team](https://neurodiverse.team/) - Building neurodiverse team culture.
 - [10 thought-provoking questions guaranteed to spark an interesting dinner conversation](https://twitter.com/polina_marinova/status/1342213858795118592)
 - [Signal](https://signal.org/) - Cross-platform encrypted messaging app. ([GitHub](https://github.com/signalapp))
+- [Programming Is Collaboration](https://programming-is-collaboration.com/) - Software Book.
+- [Try Feedforward Instead of Feedback (2015)](https://www.marshallgoldsmith.com/articles/try-feedforward-instead-feedback/)

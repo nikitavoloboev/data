@@ -145,6 +145,8 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki)
 - [masayume](https://github.com/masayume/DigitalGarden)
+- [Kate Bowie](https://katebowies-garden.netlify.app/)
+- [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
 - [List of Exobrain Blogs and Digital Gardens](https://irosyadi.gitbook.io/irosyadi/app/exobrain-digital-garden)
@@ -230,7 +232,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Networked Notebooks Catalogue](https://github.com/prathyvsh/networked-notebooks) - Collection of networked notebooks that is slowly taking shape on the Internet.
 - [Building a Second Brain: The Illustrated Notes (2020)](https://maggieappleton.com/basb) ([HN](https://news.ycombinator.com/item?id=23514371))
 - [Collected Notes](https://collectednotes.com/) - Simplest, and most powerful note-taking blogging platform. ([Code](https://news.ycombinator.com/item?id=23514682))
-- [Kumu](https://kumu.io/) - Makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.
+- [Kumu](https://kumu.io/) - Makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.
 - [Relanote](https://relanote.com/) - Connect your notes into a knowledge graph.
 - [Milanote](https://milanote.com/) - Tool for organizing creative projects.
 - [mymind](https://mymind.com/) - Extension for your mind.
@@ -303,3 +305,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [North Notes](https://northnotes.app/) - Native, infinitely nest-able notes with multi-dimensional tagging.
 - [The difference between note-taking and note-making](https://nesslabs.com/from-note-taking-to-note-making) ([HN](https://news.ycombinator.com/item?id=25789073))
 - [Notes on wikis](https://github.com/jakeisnt/wiki/blob/master/pages/wiki.org)
+- [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.

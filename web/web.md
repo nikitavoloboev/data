@@ -134,7 +134,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
 - [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops) ([HN](https://news.ycombinator.com/item?id=23734093))
 - [No Cookies, No Problem — Using ETags For User Tracking (2020)](https://levelup.gitconnected.com/no-cookies-no-problem-using-etags-for-user-tracking-3e745544176b) ([Lobsters](https://lobste.rs/s/anzcwy/no_cookies_no_problem_using_etags_for_user))
-- [Your SPA doesn’t need a router (2020)](https://forweb.dev/en/blog/drop-the-router/)
+- [Your SPA doesn’t need a router (2020)](https://forweb.dev/en/blog/drop-the-router/)
 - [Build Times](https://eduardoboucas.com/) - Musings on building (and breaking) websites.
 - [Come for the Network, Pay for the Tool (2020)](https://subpixel.space/entries/come-for-the-network-pay-for-the-tool/)
 - [Web Development Resources](https://github.com/mtdvio/web-development-resources)
@@ -224,3 +224,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Ask HN: What's the lowest churn web stack? (2021)](https://news.ycombinator.com/item?id=25798186)
 - [Awesome HTML/CSS/JS Tips](https://github.com/MarkoDenic/awesome-html-css-js-tips)
 - [List of software / services that (almost) every web application needs (2020)](https://dylanstein.dev/blog/everything-everybody-needs)
+- [sorvor](https://github.com/osdevisnot/sorvor) - Extremely fast, zero config server for modern web applications.

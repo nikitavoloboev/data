@@ -55,7 +55,7 @@
 - [DownloadThisVideo](https://thisvid.space/) - Download videos and GIFs off Twitter. ([Code](https://github.com/shalvah/DownloadThisVideo))
 - [Typefully](https://typefully.app/) - Write & publish great tweets, without distractions. ([HN](https://news.ycombinator.com/item?id=25358108))
 - [Twitter Monitor](https://github.com/ezolla/Twitter-Monitor) - Monitor Twitter Accounts w/ Discord Webhooks.
-- [Twemex Beta](https://www.notion.so/Twemex-Beta-8a33819331cc41c4970bc73ea242f0d2)
+- [Twemex](https://twemex.app/) - Sidebar for Twitter. ([Beta](https://www.notion.so/Twemex-Beta-8a33819331cc41c4970bc73ea242f0d2))
 - [Valuables](https://v.cent.co/) - Buy tweets. Autographed by your favorite creators.
 - [GraphQL Tweetletter](https://tweets.dgraph.io/) - Collection of the most interesting and popular tweets, delivered to your inbox every week.
 - [Building Lucerne, a Twitter experience tailored to me (2020)](https://thesephist.com/posts/lucerne/)
@@ -65,3 +65,5 @@
 - [Simple and unlimited twitter scraper with python and without authentication](https://github.com/Altimis/Scweet)
 - [fleets](https://github.com/karan/fleets) - Automatically delete tweets, retweets, and favorites.
 - [Block Party](https://www.blockpartyapp.com/) - Filter out unwanted @mentions from Twitter, and continue to use Twitter as normal.
+- [Trendsmap](https://www.trendsmap.com/) - Twitter Trending Hashtags and Topics.
+- [Tweetpik](https://tweetpik.vercel.app/) - Convert Tweets to Images.

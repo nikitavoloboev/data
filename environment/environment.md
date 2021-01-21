@@ -24,12 +24,12 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [How to Stop Freaking Out and Tackle Climate Change (2020)](https://www.nytimes.com/2020/01/10/opinion/how-to-help-climate-change.html) ([Tweet](https://twitter.com/ayanaeliza/status/1216021205049839618))
 - [Personal list of interesting climate change & sustainability links](https://github.com/timothyclifford/planet-earth)
 - [Climatescape](https://climatescape.org/) - Open database of organizations leading the fight against climate change. ([Code](https://github.com/climatescape/climatescape.org))
-- [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate.  Be a part of the solution.
+- [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate. Be a part of the solution.
 - [Stripe’s first negative emissions purchases (2020)](https://stripe.com/blog/first-negative-emissions-purchases)
 - [Source materials supporting Stripe's 2020 negative emissions purchases](https://github.com/stripe/negative-emissions-source-materials)
 - [electricityMap](https://www.electricitymap.org/map) - Real-time visualisation of the CO2 emissions of electricity consumption.
 - [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
-- [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
+- [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
 - [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
 - [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction.
 - [The rise and rise of Climate-tech (2020)](https://medium.com/@himanshu_99557/the-rise-and-rise-of-climate-tech-1c8e95da7c7b)
@@ -84,5 +84,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Pale Blue Dot](https://www.paleblue.vc/) - Climate-tech venture fund investing in companies that reduce and reverse the effects of climate change and prepare for a new world.
 - [The Ocean Cleanup](https://theoceancleanup.com/) - Developing technologies to rid the oceans of plastic.
 - [Data for Environmental Intelligence](https://github.com/rockita/Environmental_Intelligence)
-- [Carbon Dioxide Removal Primer](https://cdrprimer.org/) - Resource on the fundamentals of carbon dioxide removal and its role in addressing the climate crisis.
+- [Carbon Dioxide Removal Primer](https://cdrprimer.org/) - Resource on the fundamentals of carbon dioxide removal and its role in addressing the climate crisis.
 - [Air Pollution Primer (2021)](https://www.babyfriendlyair.com/en/guides/air-pollution-primer/)

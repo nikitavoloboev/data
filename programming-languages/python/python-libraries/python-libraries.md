@@ -310,6 +310,11 @@
 - [Fastmap](https://github.com/fastmap-io/fastmap) - Drop-in replacement for map that makes arbitrary Python code run faster locally and in the cloud. ([Web](https://fastmap.io/))
 - [OrderedSet](https://github.com/LuminosoInsight/ordered-set) - Mutable data structure that is a hybrid of a list and a set.
 - [gusty](https://github.com/chriscardillo/gusty) - Making DAG construction easier.
+- [IceCream](https://github.com/gruns/icecream) - Never use print() to debug again.
+- [furl](https://github.com/gruns/furl) - Small Python library that makes parsing and manipulating URLs easy.
+- [DiskCache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
+- [hitherdither](https://github.com/hbldh/hitherdither) - Dithering algorithms for arbitrary palettes in PIL.
+- [cache.py](https://github.com/bwasti/cache.py) - Python memoization across program runs.
 
 ## Links
 

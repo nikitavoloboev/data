@@ -26,7 +26,7 @@
 ## iOS
 
 - [Oak Snow Consulting](http://oaksnow.com/) - Based in Vermont, builds iOS and Web apps for early stage startups and small businesses.
-- [Exyte](https://exyte.com/) - Mobile,  Blockchain,  AR/VR development services.
+- [Exyte](https://exyte.com/) - Mobile, Blockchain, AR/VR development services.
 - [M Cubed Software](https://www.mcubedsw.com/)
 - [Breakpoint Studio](https://breakpointstudio.com/) - Mobile Strategy, Design, Development.
 - [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
@@ -41,7 +41,7 @@
 - [Filament Group](https://www.filamentgroup.com/) - Design and front-end development studio.
 - [MOXY](https://moxy.studio/about) - Interdisciplinary studio, we specialise in designing and developing.
 - [wirefr.am](http://wirefr.am/) - Tiny studio, focusing on beautifully crafted visual design.
-- [kadjax](https://www.kajdax.de/) - Create Designs & Illustrations for digital products.
+- [kadjax](https://www.kajdax.de/) - Create Designs & Illustrations for digital products.
 - [Green Chameleon](https://www.craftedbygc.com/) - Bristol based Design Agency.
 - [Tubik Studio](https://tubikstudio.com/) - Digital agency creating mobile and web products.
 - [Red Collar digital agency](https://redcollar.digital/)
@@ -168,6 +168,7 @@
 - [TechAscent](https://techascent.com/) ([GitHub](https://github.com/techascent))
 - [Together](https://www.togethercreative.co.uk/) - Multidisciplinary creative & technology agency, spanning brand, communication, development and strategy.
 - [SecretKeys](https://secretkeys.io/) - Privacy Tech & Consulting. ([GitHub](https://github.com/secretkeysio))
+- [ustwo](https://www.ustwo.com/) - Digital product studio.
 
 ## Links
 

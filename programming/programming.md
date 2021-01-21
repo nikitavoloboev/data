@@ -320,3 +320,4 @@
 - [Exploiting Mixed Binaries](https://www.cs.ucy.ac.cy/~eliasathan/papers/tops20.pdf)
 - [That XOR Trick (2020)](https://florian.github.io/xor-trick/) ([HN](https://news.ycombinator.com/item?id=25821718)) ([Reddit](https://www.reddit.com/r/programming/comments/kzrz7f/that_xor_trick/))
 - [Diffing (2020)](https://florian.github.io/diffing/)
+- [Flow-based Programming](https://jpaulm.github.io/fbp/index.html) - Programming paradigm that uses a "data processing factory" metaphor for designing and building applications.

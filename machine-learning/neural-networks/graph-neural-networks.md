@@ -35,3 +35,4 @@
 - [Simplicial Neural Networks](https://github.com/stefaniaebli/paper-snn-neurips2020tda) - Generalization of graph neural networks to data that live on a class of topological spaces called [simplicial complexes].
 - [FLAG: Adversarial Data Augmentation for Graph Neural Networks](https://github.com/devnkong/FLAG)
 - [Distilling Knowledge From Graph Convolutional Networks (2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.html) ([Code](https://github.com/ihollywhy/DistillGCN.PyTorch))
+- [GN-Transformer AST](https://github.com/chengjunyan1/GN-Transformer-AST) - Code for "GN-Transformer: Fusing AST and Source Code information in Graph Networks" paper.

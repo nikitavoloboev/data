@@ -98,3 +98,4 @@
 - [Envase](https://envase-website.vercel.app/) - Removes the pain from running apps using docker by providing an amazing developer experience. ([Code](https://github.com/ameerthehacker/envase))
 - [Doko](https://github.com/egoist/doko) - Docker-based development dependency manager.
 - [zapp](https://github.com/cpuguy83/zapp) - Tool to interact with Docker registry objects.
+- [Hardening Docker and Kubernetes with seccomp (2021)](https://martinheinz.dev/blog/41)

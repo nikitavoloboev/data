@@ -44,7 +44,7 @@
 - [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
 - [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [Code](https://github.com/integer32llc/rust-playground). ([HN](https://news.ycombinator.com/item?id=23779659))
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for [crates.io](https://crates.io/)
-- [Read Rust](https://readrust.net/) - Collects interesting posts related to the Rust programming language.
+- [Read Rust](https://readrust.net/) - Collects interesting posts related to the Rust programming language.
 - [A Quick Look at Trait Objects in Rust (2019)](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
 - [Teach Rust (2019)](https://github.com/ferrous-systems/rust-three-days-course) - Free workshop material to use to give a course introducing the Rust programming language.
 - [Moving from Ruby to Rust (2019)](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) ([HN](https://news.ycombinator.com/item?id=19166020))
@@ -401,3 +401,4 @@
 - [Oxide: The Essence of Rust](https://aaronweiss.us/pubs/draft20-oxide.pdf) ([Code](https://github.com/aatxe/oxide))
 - [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) ([HN](https://news.ycombinator.com/item?id=25805340))
 - [Rust is a hard way to make a web API (2021)](https://macwright.com/2021/01/15/rust.html) ([HN](https://news.ycombinator.com/item?id=25798008)) ([Lobsters](https://lobste.rs/s/275ihk/rust_is_hard_way_make_web_api))
+- [Rust GUI: Introduction, a.k.a. the state of Rust GUI libraries (2021)](https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl)

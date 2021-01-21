@@ -232,6 +232,7 @@
 - [SwiftlySearch](https://github.com/thislooksfun/SwiftlySearch) - Small, lightweight UISearchController wrapper for SwiftUI.
 - [GCProgressView](https://github.com/graycampbell/GCProgressView) - Simple SwiftUI progress view.
 - [Router](https://github.com/1amageek/Router) - Library that assists with SwiftUI view transitions.
+- [SwiftUIWindowStyles](https://github.com/martinlexow/SwiftUIWindowStyles) - Showcase of window and toolbar style combinations possible with SwiftUI on macOS.
 
 ## Test
 
@@ -573,6 +574,7 @@
 - [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) - Convert your model objects (classes and structs) to and from JSON.
 - [Swift Dhall](https://github.com/MaxDesiatov/swift-dhall) - Swift implementation of the Dhall configuration language.
 - [SwiftOSC](https://github.com/ExistentialAudio/SwiftOSC) - Open Sound Control client and server framework written in Swift.
+- [AudioStreamer](https://github.com/syedhali/AudioStreamer) - Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine.
 
 ## Other (not lib)
 

@@ -73,3 +73,5 @@
 - [MER and SER Data sets](https://github.com/juansgomez87/datasets_emotion) - Data sets for Music Emotion Recognition and Speech Emotion Recognition.
 - [Common Voice Datasets](https://commonvoice.mozilla.org/en/datasets) - Multi-language dataset of voices that anyone can use to train speech-enabled applications. ([Code](https://github.com/common-voice/cv-dataset))
 - [Label a Dataset with a Few Lines of Code (2021)](https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d) ([HN](https://news.ycombinator.com/item?id=25826775))
+- [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples (2020)](https://arxiv.org/abs/1903.03096) ([Code](https://github.com/google-research/meta-dataset))
+- [Datasets should behave like git repositories (2021)](https://dagshub.com/blog/datasets-should-behave-like-git-repositories/)

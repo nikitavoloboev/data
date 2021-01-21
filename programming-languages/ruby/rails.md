@@ -41,3 +41,4 @@
 - [Kuby](https://getkuby.io/) - Convention over configuration approach for deploying Rails apps. ([Code](https://github.com/getkuby/kuby-core))
 - [Forest Admin in Rails](https://www.forestadmin.com/) - Provides an off-the-shelf administration panel based on a highly-extensible API plugged into your application.
 - [testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database.
+- [FastRuby.io](https://www.fastruby.io/) - Rails Upgrade Service.

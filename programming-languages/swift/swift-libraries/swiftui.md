@@ -68,7 +68,7 @@
 - [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
 - [State and Data Flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
 - [What’s the difference between @StateObject and @ObservedObject? (2020)](https://www.donnywals.com/whats-the-difference-between-stateobject-and-observedobject/) ([Tweet](https://twitter.com/DonnyWals/status/1275451776586506242))
-- [What's new in SwiftUI for iOS 14 – Extended Edition (2020)](https://www.youtube.com/watch?v=-h8pk2pe7Xo)
+- [What's new in SwiftUI for iOS 14 – Extended Edition (2020)](https://www.youtube.com/watch?v=-h8pk2pe7Xo)
 - [Inline wrapping of UIKit or AppKit views within SwiftUI (2020)](https://www.swiftbysundell.com/tips/inline-wrapping-of-uikit-or-appkit-views-within-swiftui/)
 - [SwiftUI mix and match (2020)](https://www.swiftbysundell.com/tips/swiftui-mix-and-match/)
 - [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)

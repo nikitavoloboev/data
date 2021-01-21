@@ -67,6 +67,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [MortyUI](https://github.com/Dimillian/MortyUI) - Simple Rick & Morty app to demo GraphQL + SwiftUI.
 - [Brave for iOS](https://github.com/brave/brave-ios)
 - [Element iOS](https://github.com/vector-im/element-ios) - Matrix client provided by Element.
+- [Zen Tuner](https://github.com/jpsim/ZenTuner) - Minimal chromatic tuner.
 
 ## Other
 
@@ -149,7 +150,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Behind the scenes of iOS and Mac Security (2019)](https://www.youtube.com/watch?v=3byNNUReyvE)
 - [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - iOS framework to help with accessibility development and testing.
 - [native-run](https://github.com/ionic-team/native-run) - Cross-platform command-line utility for running native binaries on devices and simulators/emulators.
-- [Makeovr](http://www.makeovr.io/) - Cut "invisible icons" right out of your background, use them to push your other icons around, and do amazing things with your homescreen.
+- [Makeovr](http://www.makeovr.io/) - Cut "invisible icons" right out of your background, use them to push your other icons around, and do amazing things with your homescreen.
 - [Guilherme Rambo - Fluid animations and interactions on iOS apps (2020)](https://www.youtube.com/watch?v=89QkikrQvQE)
 - [Advanced debugging skills used in the iOS project development process](https://github.com/aozhimin/iOS-Debug-Hacks)
 - [Testing Remote Push Notification in iOS simulator (2020)](https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/)
@@ -164,7 +165,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS. ([HN](https://news.ycombinator.com/item?id=22385370)) ([Web](https://getutm.app/))
 - [XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests.
 - [Concurrency & Multithreading in iOS](https://www.viget.com/articles/concurrency-multithreading-in-ios/)
-- [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
+- [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
 - [iOS bits and pieces that you can include in your project to make your life a bit easier](https://github.com/infinum/iOS-Nuts-And-Bolts)
 - [Poes](https://github.com/AvdLee/Poes) - Swift command-line tool to easily send push notifications to the iOS simulator.
 - [Better ways to structure iOS apps](https://github.com/onmyway133/fantastic-ios-architecture)

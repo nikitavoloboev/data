@@ -42,7 +42,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Formalization of category theory in cubical Agda](https://github.com/fredefox/cat)
 - [Applied Category Theory Course: Databases](https://johncarlosbaez.wordpress.com/2018/06/06/applied-category-theory-course-databases/)
 - [Category theory library for Agda](https://github.com/jmchapman/categories)
-- [Conexus Act](https://conexus.ai/ventures) - Looking for promising ventures that want to utilize category theory to pursue the latest breakthroughs in Logistics, Pharma, Aerospace, Manufacturing, Transportation and more.
+- [Conexus Act](https://conexus.ai/ventures) - Looking for promising ventures that want to utilize category theory to pursue the latest breakthroughs in Logistics, Pharma, Aerospace, Manufacturing, Transportation and more.
 - [From design patterns to category theory (2017)](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) ([HN](https://news.ycombinator.com/item?id=20151055))
 - [Fully formal ETCS](https://ncatlab.org/nlab/show/fully+formal+ETCS)
 - [The Yoneda Perspective: an object is completely determined by its relationships to other objects (2017)](https://www.math3ma.com/blog/the-yoneda-lemma)

@@ -9,7 +9,7 @@
 - [TinyFPGA](https://tinyfpga.com/) - New series of low-cost, open-source FPGA boards in a tiny form factor.
 - [IOT + Sensors (with security)](https://www.youtube.com/watch?v=MM2AxeACt9Q)
 - [Lacuna](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
-- [Tock](https://github.com/tock/tock) - Secure embedded operating system for Cortex-M based microcontrollers.
+- [Tock](https://github.com/tock/tock) - Secure embedded operating system for Cortex-M based microcontrollers. ([Web](https://www.tockos.org/))
 - [Arm Mbed Command Line Interface](https://github.com/ARMmbed/mbed-cli)
 - [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
 - [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices. ([Learning Shodan through katas](https://github.com/ninoseki/shodan-dojo))
@@ -23,7 +23,7 @@
 - [Web of Things (WoT) Thing Description](https://w3c.github.io/wot-thing-description/) ([Code](https://github.com/w3c/wot-thing-description))
 - [NATS](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [Liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
-- [Arm Mbed OS](https://www.mbed.com/en/platform/mbed-os/) - Free, open-source embedded operating system designed specifically for the "things" in the Internet of Things.
+- [Arm Mbed OS](https://www.mbed.com/en/platform/mbed-os/) - Free, open-source embedded operating system designed specifically for the "things" in the Internet of Things.
 - [Edge Impulse](https://www.edgeimpulse.com/) - Enables developers to create the next generation of intelligent device solutions with embedded Machine Learning.
 - [ESP8266 series chips](http://esp8266.net/) - system-on-chip (SoC) which integrates a 32-bit Tensilica microcontroller, standard digital peripheral interfaces, antenna switches, RF balun & more.
 - [Packet Broker](https://www.packetbroker.org/) - Neutral and open Internet of Things packet broker allowing IoT operators to interoperate according to the open principles of the internet. ([Client](https://github.com/packetbroker/pb)) ([Go API](https://github.com/packetbroker/go-api)) ([API](https://github.com/packetbroker/api))

@@ -25,7 +25,7 @@
 - [Awesome Figma Tips](https://awesomefigmatips.com/)
 - [Figma profile](https://www.figma.com/@figma)
 - [Figma Design Principles](https://www.figma.com/community/file/817913152610525667)
-- [Figmalion](https://figmalion.com/) - Curated newsletter collecting interesting links about Figma.
+- [Figmalion](https://figmalion.com/) - Curated newsletter collecting interesting links about Figma.
 - [Cabana](https://cabanaforfigma.com/) - Design Starter Kit for Figma.
 - [Organizing and creating libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/organizing-and-creating-libraries/)
 - [How Spotify organises work in Figma to improve collaboration (2020)](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)

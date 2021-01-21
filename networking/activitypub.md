@@ -14,3 +14,5 @@
 - [ForgeFed](https://github.com/forgefed/forgefed) - Extension to ActivityPub for web-based Git services federation.
 - [ActivityPub spec](https://w3c.github.io/activitypub/) ([Code](https://github.com/w3c/activitypub))
 - [Issues with ActivityPub (2020)](https://lobste.rs/s/ig0vsd/ask_does_lobster_have_any_plan_join#c_p6gfj9)
+- [Fediverse in 2020](https://fediverse.party/en/post/fediverse-in-2020)
+- [Fediverse.Party](https://fediverse.party/) - Explore federated networks.

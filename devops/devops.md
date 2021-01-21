@@ -12,7 +12,7 @@
 - [Deploy your side-projects at scale for basically nothing - Google Cloud Run (2020)](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless) ([HN](https://news.ycombinator.com/item?id=22027459))
 - [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises)
 - [Ops Lessons We All Learn The Hard Way (2020)](https://www.netmeister.org/blog/ops-lessons.html)
-- [Juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
+- [Juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software. ([Web](https://juju.is/))
 - [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books)
 - [Ask HN: How do you make sure your servers are up as a single founder? (2020)](https://news.ycombinator.com/item?id=21461617)
 - [CTO.ai](https://cto.ai/) - Allows you and your software development team to implement DevOps automations in minutes rather than days.

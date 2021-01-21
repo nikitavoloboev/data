@@ -73,7 +73,7 @@
 - [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
-- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb)) ([FaunaDB JavaScript Driver](https://github.com/fauna/faunadb-js))
+- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb)) ([FaunaDB JavaScript Driver](https://github.com/fauna/faunadb-js))
 - [immudb](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go.
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
@@ -124,6 +124,7 @@
 - [Drivine](https://drivine.org/) - Best and fastest graph database client (Neo4j & AgensGraph) for Node.js & TypeScript. ([Code](https://github.com/liberation-data/drivine)) ([Starter Template](https://github.com/liberation-data/drivine-inspiration))
 - [InfiniCache](https://github.com/mason-leap-lab/infinicache) - In-memory cache that is built atop ephemeral serverless functions. ([HN](https://news.ycombinator.com/item?id=25788893))
 - [Blazegraph](https://github.com/blazegraph/database) - Ultra high-performance graph database supporting Blueprints and RDF/SPARQL APIs.
+- [Escanor](https://github.com/mambisi/escanor) - High performance key value database with useful json document indexing and manipulations.
 
 ## Tools
 

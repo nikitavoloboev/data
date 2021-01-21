@@ -85,7 +85,7 @@
 - [Does the speed of production matter?](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
 - [Carta](https://carta.com/) - Helps private companies, public companies, and investors manage their cap tables, valuations, investments, and equity plans.
 - [Establishing a company in Estonia](https://investinestonia.com/business-in-estonia/establishing-company/)
-- [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit..
+- [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit.
 - [Why startups are hard — the math of venture capital returns tells the story](https://andrewchen.co/venture-capital-returns/)
 - [Ask HN: Starting Your Own LLC? (2019)](https://news.ycombinator.com/item?id=20009534)
 - [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
@@ -253,6 +253,7 @@
 - [Startup Stock Options – Why A Good Deal Has Gone Bad (2019)](https://steveblank.com/2019/04/10/startup-stock-options-why-a-good-deal-has-gone-bad/)
 - [Founders of VC backed startups, are you genuinely happy? (2020)](https://www.reddit.com/r/startups/comments/khng2j/founders_of_vc_backed_startups_are_you_genuinely/)
 - [Ask HN: Is frugality underrated in startups? (2021)](https://news.ycombinator.com/item?id=25809852)
+- [The Minimalist Entrepreneur](https://sahillavingia.com/course) - Four-week cohort-based course.
 
 ## Images
 

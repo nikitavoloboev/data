@@ -63,6 +63,7 @@
 - [Flax Engine](https://github.com/FlaxEngine/FlaxEngine) - Multi-platform 3D game engine. ([Web](https://flaxengine.com/))
 - [Dragonglass](https://github.com/matthewjberger/dragonglass) - 3D game engine written in Rust and using Vulkan primarily for rendering.
 - [pmtech](https://github.com/polymonster/pmtech) - Lightweight, multi-platform, data-oriented game engine.
+- [3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL.
 
 ## Physics engines
 

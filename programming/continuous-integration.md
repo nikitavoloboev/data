@@ -30,3 +30,4 @@
 - [CI for performance: Reliable benchmarking in noisy environments (2020)](https://pythonspeed.com/articles/consistent-benchmarking-in-ci/) ([Lobsters](https://lobste.rs/s/33xrng/ci_for_performance_reliable))
 - [Quad CI](https://github.com/alpacaaa/quad-ci) - CI server written in Simple Haskell.
 - [CI/CD Workflow for AWS ECS via Terragrunt and GitHub Actions (2020)](https://camillovisini.com/article/terragrunt-github-actions-aws-ecs/)
+- [CI/CD for ARM Development (2021)](https://turingpi.com/case-study-turing-pi-gitlab-ci-ansible/)

@@ -43,7 +43,7 @@
 - [React (without the buzzwords) course](https://frontarm.com/courses/learn-raw-react)
 - [Conditional Rendering with React: The Complete Guide](https://frontarm.com/articles/react-conditional-rendering/)
 - [React Events Live Cheatsheet](https://frontarm.com/toolbox/react-events-cheatsheet/)
-- [Complete guide to default props in React](https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d)
+- [Complete guide to default props in React](https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Introduction to React Book](https://survivejs.com/react/introduction/)
 - [React Today and Tomorrow and 90% Cleaner React (2018)](https://www.youtube.com/watch?v=dpw9EHDh2bM)
@@ -199,3 +199,4 @@
 - [react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs.
 - [Why React Context Is Not “State Management”(and Why It Doesn't Replace Redux) (2021)](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
 - [issr](https://github.com/AlexSergey/issr) - Easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
+- [Why Did You Render? (2020)](https://haspar.us/why-did-you-render)

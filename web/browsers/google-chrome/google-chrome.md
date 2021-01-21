@@ -34,3 +34,4 @@ And here are Chrome extensions I use:
 - [Chrome Is Bad (2020)](https://chromeisbad.com/) ([HN](https://news.ycombinator.com/item?id=25400618)) ([Lobsters](https://lobste.rs/s/5xcv2h/chrome_keystone_impact_on_performance))
 - [chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API.
 - [My Favourite Chrome Devtool Features](https://emergent.systems/posts/devtools/)
+- [CRX Viewer](https://robwu.nl/crxviewer/) - See the source code of Chrome extensions.

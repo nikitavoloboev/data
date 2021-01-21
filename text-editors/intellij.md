@@ -4,9 +4,13 @@ Don't use it any more as I don't write Java/Kotlin and love VS Code.
 
 ## Nice plugins
 
-- [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Vim mode.
-- [Monokai Theme](https://darekkay.com/blog/monokai-theme-intellij/)
-- [Alabaster Theme](https://github.com/tonsky/intellij-alabaster) - Simple white theme.
+- [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Vim mode. ([Code](https://github.com/JetBrains/ideavim))
+- [IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim.
+
+## Nice themes
+
+- [Monokai](https://darekkay.com/blog/monokai-theme-intellij/)
+- [Alabaster](https://github.com/tonsky/intellij-alabaster) - Simple white theme.
 
 ## Links
 

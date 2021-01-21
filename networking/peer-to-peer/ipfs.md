@@ -11,7 +11,7 @@ I especially like the distinction of distributing content over distributing link
 ## Links
 
 - [Go IPFS](https://github.com/ipfs/go-ipfs)
-- [JS IPFS](https://github.com/ipfs/js-ipfs)
+- [JS IPFS](https://github.com/ipfs/js-ipfs) ([Web](https://js.ipfs.io/))
 - [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)
 - [IPFS Collaborative Notebook for Research](https://github.com/ipfs/notes)
 - [gx](https://github.com/whyrusleeping/gx) - Packaging tool built around the distributed, content addressed filesystem IPFS.
@@ -23,7 +23,7 @@ I especially like the distinction of distributing content over distributing link
 - [WebFS](https://github.com/brendoncarroll/webfs) - File system Built On Top of the Web.
 - [Awesome IPFS](https://awesome.ipfs.io/) - Useful resources for using IPFS and building things on top of it. ([Code](https://github.com/ipfs/awesome-ipfs))
 - [Rust IPFS](https://github.com/ipfs-rust/rust-ipfs) - Interplanetary File System (IPFS), implemented in Rust.
-- [Terminal](https://terminal.co/) - Everything you need to build fast modern websites hosted on IPFS.
+- [Terminal](https://terminal.co/) - Everything you need to build fast modern websites hosted on IPFS.
 - [Anytype](https://anytype.io/) - Operating environment for the new internet.
 - [IPFS Protocol docs](https://github.com/ipfs/ipfs)
 - [IPFS 0.5.0](https://blog.ipfs.io/2020-04-28-go-ipfs-0-5-0/) ([HN](https://news.ycombinator.com/item?id=23010245))
@@ -48,3 +48,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Web UI](https://github.com/ipfs-shipyard/ipfs-webui) - Web interface to IPFS. ([Web](https://webui.ipfs.io/))
 - [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
 - [Forest](https://github.com/forestpm/forest) - IPFS-backed package manager proxy cache.
+- [IPFS Support in Brave (2021)](https://brave.com/ipfs-support/) ([HN](https://news.ycombinator.com/item?id=25836886))

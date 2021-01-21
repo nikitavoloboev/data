@@ -25,7 +25,7 @@
 
 - [Go](https://github.com/austingebauer/go-leetcode) - Collection of 100+ popular LeetCode problems that I've solved in Go.
 - [Go 2](https://github.com/halfrost/LeetCode-Go)
-- [Python / C++ 11](https://github.com/kamyu104/LeetCode) - Many solutions.
+- [Python / Modern C++](https://github.com/kamyu104/LeetCode-Solutions) - Many solutions.
 - [Python](https://github.com/davidnsun/leetcode-py)
 - [Python & Java](https://github.com/qiyuangong/leetcode)
 - [C](https://github.com/begeekmyfriend/leetCode)

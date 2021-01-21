@@ -18,7 +18,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
 - [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
-- [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
+- [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
 - [Purple Protocol](https://purpleprotocol.org/) - Global Decentralized Ledger Infrastructure.
 - [Slingshot](https://github.com/stellar/slingshot) - New blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 - [arweave](https://www.arweave.org/) - New type of storage that backs data with sustainable and perpetual endowments, allowing users and developers to store data forever.

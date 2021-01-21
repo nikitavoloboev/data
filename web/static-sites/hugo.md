@@ -53,7 +53,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Grouse](https://github.com/capnfabs/grouse) - Diff tool for Hugo static sites.
 - [Nice articles on Hugo](https://www.ronaldsvilcins.com/tags/hugo/)
 - [Hugo: a static-site generator explained (2020)](https://lwn.net/SubscriberLink/825507/77df07d41cec68c4/)
-- [Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/)
+- [Themeless & Gitless Introduction to Hugo](https://www.ii.com/themeless-gitless-intro-hugo/)
 - [SEO for Hugo blogs (2020)](https://mathieuhendey.com/2020/10/seo-for-hugo-blogs/)
 - [Minifying CSS With Hugo Pipelines (2020)](https://mathieuhendey.com/2020/10/minifying-css-with-hugo-pipelines/)
 - [Awesome Hugo](https://github.com/theNewDynamic/awesome-hugo)

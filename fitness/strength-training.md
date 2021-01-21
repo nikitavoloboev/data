@@ -12,4 +12,4 @@
 - [To Delay Death, Lift Weights (2017)](https://www.outsideonline.com/2263346/delay-death-lift-weights) ([HN](https://news.ycombinator.com/item?id=23855564))
 - [Freeletics](https://www.freeletics.com/en/) - Intensive workouts & individual training plans.
 - [DAREBEE](https://darebee.com/) - Fitness blueprints: no-equipment visual workouts, fitness programs and challenges, training and running tips, recipes and nutrition advice.
-- [Foundation Light](https://darebee.com/programs/foundation-light-program.html) - Low impact 100% bodyweight based fitness program perfect for anyone with joint issues, recovering from an injury or is heavily overweight.
+- [Foundation Light](https://darebee.com/programs/foundation-light-program.html) - Low impact 100% bodyweight based fitness program perfect for anyone with joint issues, recovering from an injury or is heavily overweight.

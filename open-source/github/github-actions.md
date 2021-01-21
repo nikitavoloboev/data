@@ -10,7 +10,7 @@
 - [Upload to Release](https://github.com/JasonEtco/upload-to-release) - GitHub Action that uploads a file to a new release.
 - [Deploy Now](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
-- [Lighthouse Auditing](https://github.com/jakejarvis/lighthouse-action) - Integrates Google's helpful Lighthouse audits for webpages — specifically testing for Performance, Accessibility, Best Practices, SEO, and Progressive Web Apps.
+- [Lighthouse Auditing](https://github.com/jakejarvis/lighthouse-action) - Integrates Google's helpful Lighthouse audits for webpages — specifically testing for Performance, Accessibility, Best Practices, SEO, and Progressive Web Apps.
 - [merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merge Pull Requests created from a GitHub account.
 - [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
 - [download-artifact](https://github.com/actions/download-artifact) - Downloads artifacts from your build.
@@ -85,6 +85,7 @@
 - [GitHub Repo Stats](https://github.com/jgehrcke/github-repo-stats) - GitHub Action to periodically inspect a target repository and generate a report for it.
 - [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) - Synchronize your GitHub labels with as few destructive operations as possible.
 - [release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [Comment on PR via GitHub Action](https://github.com/unsplash/comment-on-pr) - GitHub action to comment on the relevant open PR when a commit is pushed.
 
 ## Go
 

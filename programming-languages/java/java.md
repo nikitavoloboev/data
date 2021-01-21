@@ -43,3 +43,4 @@
 - [Live Programming with the GraalVM, the LSP, and VS Code (2020)](https://www.javaadvent.com/2020/12/live-programming-with-the-graalvm-the-lsp-and-vs-code.html)
 - [Recaf](https://www.coley.software/Recaf/) - Modern Java bytecode editor. ([Code](https://github.com/Col-E/Recaf))
 - [Java Concurrency in Practice](https://jcip.net/)
+- [Java on Truffle – Going Fully Metacircular (2021)](https://medium.com/graalvm/java-on-truffle-going-fully-metacircular-215531e3f840) ([HN](https://news.ycombinator.com/item?id=25838364))

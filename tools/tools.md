@@ -145,7 +145,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/) ([Node API](https://github.com/EddyVerbruggen/remove.bg))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
-- [Canny](https://canny.io) - Track feedback to build better products.
+- [Canny](https://canny.io) - Track feedback to build better products.
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
 - [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries. ([How it works](https://github.com/google/bloaty/blob/master/doc/how-bloaty-works.md))
@@ -208,7 +208,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Vendia](https://vendia.net/) - Share data and code with partners in real time.
 - [Branch](https://branch.io/) - Mobile linking platform powering deep links and mobile attribution. ([iOS SDK](https://github.com/BranchMetrics/ios-branch-deep-linking-attribution))
 - [Google Cloud Search](https://cloudsearch.google.com) - Helps your employees quickly, easily, and securely find information across the business, whether integrated with G Suite.
-- [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
+- [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
 - [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Lookback](https://lookback.io/) - Talk to your users. See how they’re using your app or website. ([GitHub](https://github.com/lookback))
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
@@ -235,6 +235,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
+- [Flick](https://www.flick.tech/) - Find, manage and analyze Instagram hashtags.
 - [Slite](https://slite.com/) - Bring clarity to your team.
 - [Mugshot Bot](https://www.mugshotbot.com/) - Automated link previews - no design tools needed.
 - [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
@@ -296,7 +297,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal written in Rust.
 - [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
-- [Findka](https://findka.com/) - Recommends content you might like based on data from other users with similar preferences. ([HN](https://news.ycombinator.com/item?id=23541840))
+- [Findka](https://essays.findka.com/) - Great essays delivered to your inbox. Chosen specifically for you with machine learning. ([HN](https://news.ycombinator.com/item?id=23541840))
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
 - [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.

@@ -22,7 +22,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Ultra-light MacOS utility that helps hide menu bar icons. ([HN](https://news.ycombinator.com/item?id=21794858))
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [macos-key-cast](https://github.com/karaggeorge/macos-key-cast) - Log keys pressed on macOS. Useful for screen recordings and presentations.
-- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
+- [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas. ([Web](https://rectangleapp.com/))
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your Mac desktop wallpaper.
 - [Swindler](https://github.com/tmandry/Swindler) - Swift window management library for macOS.
 - [Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external display.
@@ -87,6 +87,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [CleanShot X](https://cleanshot.com/) - Capture your Mac’s screen like a pro.
 - [Contexts](https://contexts.co/) - Simple & fast window switcher for Mac.
 - [DevDocs macOS](https://github.com/dteoh/devdocs-macos) - DevDocs API Documentation viewer for macOS.
+- [Finder built in SwiftUI for macOS](https://github.com/jordansinger/finder-macos-swiftui)
 
 ## Other interesting apps
 

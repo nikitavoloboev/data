@@ -10,7 +10,7 @@
 - [ƒun](https://github.com/vercel/fun) - Local serverless function λ development runtime.
 - [faast.js](https://faastjs.org/) - Serverless batch computing made simple.
 - [Introducing Serverless Pre-Rendering (SPR) (2019)](https://zeit.co/blog/serverless-pre-rendering)
-- [Netlify Functions](https://www.netlify.com/products/functions/) - Modern, scalable backend built into every Netlify account. No setup, servers, or ops required.
+- [Netlify Functions](https://www.netlify.com/products/functions/) - Modern, scalable backend built into every Netlify account. No setup, servers, or ops required.
 - [Begin](https://begin.com/) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD. In ten seconds.
 - [Serverless components](https://github.com/serverless/components) - Easier way to build and share serverless applications w/ the Serverless Framework. ([HN](https://news.ycombinator.com/item?id=20600519))
 - [Fly runtime](https://github.com/superfly/fly) - Open source Javascript environment built to run Edge Applications. It gives developers powerful caching, content modification, and routing tools.
@@ -31,7 +31,7 @@
 - [Jexia](https://www.jexia.com/en/) - Developer platform that helps you to build serverless API-driven applications in a fast and simple way.
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
-- [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
+- [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
 - [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes. ([Code](https://github.com/openfaas/faas))
 - [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - Managed OpenFaaS for teams.
 - [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless))

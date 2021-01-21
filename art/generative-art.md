@@ -104,3 +104,6 @@
 - [Automatically Generating Algorithmic Art](https://grgv.xyz/creative_code_synthesis/)
 - [JetBrains Animation Generator](https://code2art.jetbrains.com/) ([Code](https://github.com/JetBrains/open-radiant))
 - [Chris Shier's Generative Art](https://www.csh.bz/)
+- [Starting point for your creative code journey](https://github.com/CreativeCodeBerlin/creative-coding-minilist)
+- [Creative Code Berlin](https://creativecodeberlin.github.io/Stammtisch/) - Community for anyone interested in the use of computing skills for artistic expression. ([GitHub](https://github.com/CreativeCodeBerlin))
+- [Fun Programming](https://funprogramming.org/) - Video tutorials to learn creative coding.

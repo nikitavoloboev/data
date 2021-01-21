@@ -37,3 +37,4 @@
 - [Comparing Fauna and DynamoDB: Architecture and Pricing (2020)](https://fauna.com/blog/comparing-fauna-and-dynamodb) ([HN](https://news.ycombinator.com/item?id=25363056))
 - [Next.js + AWS DynamoDB](https://github.com/leerob/nextjs-aws-dynamodb)
 - [jest-dynalite](https://github.com/freshollie/jest-dynalite) - Jest preset to run Dynalite (DynamoDB local) per test runner.
+- [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable) - Access and management for one table designs with NodeJS.

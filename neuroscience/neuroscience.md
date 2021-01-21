@@ -26,7 +26,7 @@
 - [What are some good books for someone getting into neuroscience? (2020)](https://www.reddit.com/r/neuroscience/comments/gm83qa/what_are_some_good_books_for_someone_getting_into/)
 - [Warden Lab](http://www.wardenlab.org/) - Investigates the neural circuits that underlie the regulation of behavior by cognition and emotion.
 - [“You want to know something about how bullshit insane our brains are?” (2018)](https://twitter.com/Foone/status/1014267515696922624) ([HN](https://news.ycombinator.com/item?id=23591535))
-- [Human Factory Lab](https://www.humanfactorylab.com/) - World-class expertise in human brains. Building tech that interacts with human brains.
+- [Human Factory Lab](https://www.humanfactorylab.com/) - World-class expertise in human brains. Building tech that interacts with human brains.
 - [Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/)
 - [NeuroAILab](http://neuroailab.stanford.edu/) - Stanford Neuroscience and Artificial Intelligence Laboratory.
 - [Synaptic specificity is collectively determined by partner identity, location and activity (2019)](https://www.biorxiv.org/content/10.1101/697763v1)

@@ -14,3 +14,4 @@
 - [CudaSift](https://github.com/Celebrandil/CudaSift) - SIFT features with CUDA.
 - [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs.
 - [CUDA Library Samples](https://github.com/NVIDIA/CUDALibrarySamples)
+- [PyCUDA](https://github.com/inducer/pycuda) - Access Nvidia's CUDA parallel computation API from Python.

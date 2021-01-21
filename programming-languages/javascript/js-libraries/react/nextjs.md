@@ -145,3 +145,5 @@
 - [next-client-script](https://github.com/amannn/next-client-script) - Supercharge the performance of your Next.js apps by using a minimal client runtime.
 - [Next Crud](https://github.com/premieroctet/next-crud) - Helper library that creates CRUD API routes with one simple function based on a Prisma model for Next.js.
 - [React Server Components in Next.js](https://github.com/vercel/next-server-components)
+- [Next.js Incremental Static Regeneration with SWR](https://github.com/joe-bell/example-next-isr-with-swr) - Lightning fast static pages with ISR, instantly updated with SWR.
+- [Updating Static Next.js Pages Instantly (2021)](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)

@@ -20,8 +20,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ask HN: Any ICO that actually delivers what it promises? (2018)](https://news.ycombinator.com/item?id=18459664)
 - [Week in Ethereum News](http://www.weekinethereum.com/)
 - [evm-tools](https://github.com/CoinCulture/evm-tools) - Collection of tools for working with the evm.
-- [Augur](https://www.augur.net/) - Prediction market protocol owned and operated by the people that use it.
-  - [Augur Today](http://www.augur.today/)
+- [Augur](https://www.augur.net/) - Prediction market protocol owned and operated by the people that use it. ([Code](https://github.com/AugurProject/augur)) ([Augur Today](http://www.augur.today/))
 - [Drizzle](https://github.com/trufflesuite/drizzle) - Reactive Ethereum datastore for dapp UIs.
 - [Status](https://status.im/) - Secure messaging app, crypto wallet, and Web3 browser built with state of the art technology. ([Code](https://github.com/status-im/status-react))
 - [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information. ([Code](https://github.com/ethhub-io/ethhub))

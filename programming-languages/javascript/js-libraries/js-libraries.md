@@ -445,6 +445,7 @@
 - [TypeDI](https://github.com/typestack/typedi) - Dependency injection tool for TypeScript and JavaScript.
 - [ibridge](https://github.com/franleplant/ibridge) - Tiny, promise based, type safe library for easy, bidirectional and secure iframe communication.
 - [Monio](https://github.com/getify/monio) - Async-capable IO monad for JS.
+- [Total.js](https://www.totaljs.com/) - Excellent and stable server-side Node.js framework, client-side library for creating web applications with more than 230 UI components for free.
 
 ## Links
 
