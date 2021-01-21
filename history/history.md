@@ -87,3 +87,4 @@
 - [Jonathan Blow - Preventing the Collapse of Civilization (2019)](https://www.youtube.com/watch?v=pW-SOdj4Kkk) ([HN](https://news.ycombinator.com/item?id=25788317))
 - [Inequality Killed the Roman Republic (2021)](https://www.themetasophist.com/notes/how-inequality-killed-the-roman-republic) ([HN](https://news.ycombinator.com/item?id=25822132))
 - [Computer History Wiki](https://gunkies.org/wiki/Main_Page)
+- [Europe / History WWII - Holocaust, wedding rings found in Death Camp](https://www.reddit.com/r/europe/comments/l1hurc/europe_history_wwii_holocaust_wedding_rings_found/)

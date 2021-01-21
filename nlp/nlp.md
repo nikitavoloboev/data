@@ -242,3 +242,6 @@
 - [Deep Daze](https://github.com/lucidrains/deep-daze) - Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network).
 - [Notebooks using the Hugging Face libraries](https://github.com/huggingface/notebooks)
 - [NLP Cloud](https://nlpcloud.io/) - Serve spaCy pre-trained models, and your own custom models, through a RESTful API.
+- [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters (2020)](https://arxiv.org/abs/2010.10392) ([Code](https://github.com/helboukkouri/character-bert))
+- [jiant](https://github.com/nyu-mll/jiant) - Multitask and transfer learning toolkit for NLP. ([Web](https://jiant.info/))
+- [Must-read Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)

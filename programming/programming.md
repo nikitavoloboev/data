@@ -320,4 +320,5 @@
 - [Exploiting Mixed Binaries](https://www.cs.ucy.ac.cy/~eliasathan/papers/tops20.pdf)
 - [That XOR Trick (2020)](https://florian.github.io/xor-trick/) ([HN](https://news.ycombinator.com/item?id=25821718)) ([Reddit](https://www.reddit.com/r/programming/comments/kzrz7f/that_xor_trick/))
 - [Diffing (2020)](https://florian.github.io/diffing/)
-- [Flow-based Programming](https://jpaulm.github.io/fbp/index.html) - Programming paradigm that uses a "data processing factory" metaphor for designing and building applications.
+- [Flow-based Programming](https://jpaulm.github.io/fbp/index.html) - Programming paradigm that uses a "data processing factory" metaphor for designing and building applications. ([HN](https://news.ycombinator.com/item?id=25848542))
+- [Paradigms of Programming (OCaml + Prolog) (2020)](https://kcsrk.info/cs3100_m20/) ([Videos](https://www.youtube.com/playlist?list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D)) ([Code](https://github.com/kayceesrk/cs3100_m20))

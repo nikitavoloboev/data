@@ -306,3 +306,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The difference between note-taking and note-making](https://nesslabs.com/from-note-taking-to-note-making) ([HN](https://news.ycombinator.com/item?id=25789073))
 - [Notes on wikis](https://github.com/jakeisnt/wiki/blob/master/pages/wiki.org)
 - [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
+- [Memo App](https://usememo.com/) - Take Smarter notes with GitHub Gists. ([Code](https://github.com/btk/memo))

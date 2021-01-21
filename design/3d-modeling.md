@@ -30,3 +30,5 @@
 - [glTF-Transform](https://github.com/donmccurdy/glTF-Transform) - Supports reading, editing, and writing 3D models in glTF 2.0 format.
 - [Automatic Machine Knitting of 3D Meshes (2018)](https://textiles-lab.github.io/publications/2018-autoknit/) ([Code](https://github.com/textiles-lab/autoknit))
 - [Draco](https://github.com/google/draco) - Library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. ([Web](https://google.github.io/draco/))
+- [Cascade Studio](https://zalo.github.io/CascadeStudio/) - Full Live-Scripted CAD Kernel and IDE in the Browser. ([Code](https://github.com/zalo/CascadeStudio))
+- [Learning 3D Modeling in 14 Weeks (2021)](https://samanthaz.me/writing/learning-3d-modeling-in-14-weeks)

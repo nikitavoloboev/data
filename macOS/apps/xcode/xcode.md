@@ -63,3 +63,4 @@
 - [Xcode Color Assets](https://github.com/nesium/xcode-color-assets) - Create (dark mode compatible) color assets for Xcode programmatically from a CSS-like textfile.
 - [XCBBuildServiceProxy](https://github.com/target/XCBBuildServiceProxy) - Framework to create proxies for XCBBuildService, which allows for custom Xcode build integrations.
 - [XcodeUpdates](https://github.com/art-divin/XcodeUpdates) - SwiftUI implementation of xcodes.
+- [XCMetrics](https://github.com/spotify/XCMetrics) - Easiest way to collect Xcode builds metrics and improve your developer productivity. ([Web](https://xcmetrics.io/))

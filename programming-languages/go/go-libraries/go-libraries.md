@@ -702,6 +702,8 @@
 - [lz4](https://github.com/pierrec/lz4) - LZ4 compression and decompression in pure Go.
 - [run](https://github.com/oklog/run) - Universal mechanism to manage goroutine lifecycles.
 - [go-concurrency-limits](https://github.com/platinummonkey/go-concurrency-limits) - Go implementation of Netflix/concurrency-limits.
+- [go-query](https://github.com/rekki/go-query) - Blazingly fast query engine.
+- [AQL](https://github.com/flowchartsman/aql) - Lucene-inspired query language for Go.
 
 ## Links
 

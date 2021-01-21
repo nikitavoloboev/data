@@ -64,3 +64,4 @@
 - [Stripe](https://stripe.com/) - Online payment processing for internet businesses. ([Stripe Samples](https://github.com/stripe-samples))
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Easy Way to Sell Digital Products.
 - [Sane Shopify](https://github.com/good-idea/sane-shopify) - Connect Sanity and the Shopify Storefront API.
+- [How curation is reinventing e-commerce (2021)](https://maried.substack.com/p/how-curation-is-reinventing-e-commerce)

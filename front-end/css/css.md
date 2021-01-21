@@ -40,6 +40,7 @@
 - [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
 - [CSStype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data.
 - [normalize.css](https://github.com/necolas/normalize.css) - Modern alternative to CSS resets.
+- [app-reset.css](https://github.com/benfrain/app-reset) - Minimal set of reset CSS specifically for web applications.
 - [Julia Muzafarova CSS Pens](https://codepen.io/miocene/)
 - [CSS Modules](https://github.com/css-modules/css-modules) - Documentation about css-modules.
 - [nano-css](https://github.com/streamich/nano-css) - CSS-in-JS library that you can actually use in production. Motto of nano-css is simple: create the smallest possible CSS-in-JS library and provide all features of any other library through addons.
@@ -253,3 +254,5 @@
 - [State of CSS 2020](https://2020.stateofcss.com/en-US/)
 - [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [RFS](https://github.com/twbs/rfs) - Unit resizing engine which was initially developed to resize font sizes.
+- [Understanding Clip Path in CSS (2021)](https://ishadeed.com/article/clip-path/)
+- [Inactive CSS](https://github.com/captainbrosset/inactive-css) - List of rules for when CSS properties have no effect.

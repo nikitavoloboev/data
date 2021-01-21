@@ -40,7 +40,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Screen](https://videovillage.co/screen/) - Video player for video people.
 - [How Productivity Star Thomas Frank Reaches Millions on YouTube](https://superorganizers.substack.com/p/how-productivity-star-thomas-frank)
 - [Zoom](https://zoom.us/) - Video conferencing.
-- [Jitsi](https://meet.jit.si/) - Secure, Simple and Scalable Video Conferences. ([Code](https://github.com/jitsi/jitsi-meet)) ([Jibri - JItsi BRoadcasting Infrastructure](https://github.com/jitsi/jibri))
+- [Jitsi](https://meet.jit.si/) - Secure, Simple and Scalable Video Conferences. ([Code](https://github.com/jitsi/jitsi-meet)) ([Jibri - JItsi BRoadcasting Infrastructure](https://github.com/jitsi/jibri)) ([Jitsi Meet on Docker](https://github.com/jitsi/docker-jitsi-meet))
 - [Film Grain Synthesis for AV1 Video Codec (2018)](https://norkin.org/pdf/DCC_2018_AV1_film_grain.pdf) ([Lobsters](https://lobste.rs/s/zkakuj/film_grain_synthesis_for_av1_video_codec))
 - [video-summarizer](https://github.com/SoptikHa2/video-summarizer) - Summarizes videos into much shorter videos. Ideal for long lecture videos.
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
@@ -183,3 +183,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Clowdr](https://clowdr.org/) - Virtual conferences for social good. ([GitHub](https://github.com/clowdr-app)) ([Code](https://github.com/clowdr-app/clowdr))
 - [Chatmosphere](https://chatmosphere.cc/) - Make informal video calls more fun and dynamic. ([HN](https://news.ycombinator.com/item?id=25847871))
 - [mebm](https://bwasti.github.io/mebm/) - Browser based video editor that supports animation of images and text overlays. ([Code](https://github.com/bwasti/mebm))
+- [How to build a video editor (2020)](https://www.veed.io/blog/how-to-build-a-video-editor/)
+- [Mibo](https://getmibo.com/) - Video chat that feels like real life. ([HN](https://news.ycombinator.com/item?id=25858814))

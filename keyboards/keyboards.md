@@ -29,6 +29,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Custom keyboard](https://twitter.com/_philpl/status/1297952549505466369) ([Specs](https://twitter.com/_philpl/status/1297955234795474946))
 - [Ergonomic Ultimate Hacking Keyboard 60](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2) ([HN](https://news.ycombinator.com/item?id=25016438))
 - [Keyboardio Atreus](https://shop.keyboard.io/products/keyboardio-atreus) ([Keyboardio Atreus: yeah or meh? (review)](https://no-kill-switch.ghost.io/keyboardio-atreus-yeah-or-meh-review/))
+- [duckyPad](https://github.com/dekuNukem/duckyPad) - Do-It-All Mechanical Macropad.
 
 ## Interesting keycaps
 

@@ -70,8 +70,10 @@ Here are few more things I liked, design wise.
 - [Numinus](https://numinus.ca/)
 - [Staff Design](https://staff.design/) - Amazing mobile view too.
 - [CleanShot X](https://cleanshot.com/)
+- [Wasmer](https://wasmer.io/) ([Code](https://github.com/wasmerio/wasmer.io))
 - [Hand Mirror](https://handmirror.app/)
 - [Blogging For Devs](https://bloggingfordevs.com/)
+- [Duffel](https://duffel.com/)
 - [Tokio](https://tokio.rs/) ([Code](https://github.com/tokio-rs/website))
 - [Cloudflare Workers](https://workers.cloudflare.com/) - Simple page.
 
@@ -443,6 +445,7 @@ Here are few more things I liked, design wise.
 - [David Heinemeier Hansson](https://dhh.dk/)
 - [Kevin Schaich](https://kevinschaich.io/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
+- [Thomas Honeyman](https://thomashoneyman.com/)
 - [Jason Pamental](https://rwt.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Sam Bleckley](https://sambleckley.com/)

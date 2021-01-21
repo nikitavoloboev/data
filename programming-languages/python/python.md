@@ -249,3 +249,4 @@
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns (2020)](https://camillovisini.com/article/abstracting-fastapi-services/) ([HN](https://news.ycombinator.com/item?id=25797140))
 - [Tracing and visualizing the Python GIL with perf and VizTracer (2021)](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html)
 - [MesaPy](https://github.com/mesalock-linux/mesapy) - Memory-Safe Python Implementation based on PyPy.
+- [Makefile.venv](https://github.com/sio/Makefile.venv) - Seamlessly manage Python virtual environment with a Makefile.

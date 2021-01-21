@@ -198,7 +198,7 @@ Go promotes composition over inheritance.
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively.
 - [go: observing stack grow and shrink (2020)](https://ops.tips/notes/go-observing-stack-grow-and-shrink/)
 - [Readiness notifications in Go (2020)](https://michael.stapelberg.ch/posts/2020-02-02-readiness-notifications-in-golang/)
-- [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
+- [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible. ([Example](https://github.com/goreleaser/example))
 - [Zen of Go](https://the-zen-of-go.netlify.com/) - Ten engineering values for writing simple, readable, maintainable Go code. ([Code](https://github.com/davecheney/the-zen-of-go)) ([HN](https://news.ycombinator.com/item?id=22396405))
 - [go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go Clean Architecture based on Reading Uncle Bob's Clean Architecture.
 - [Why Discord is switching from Go to Rust (2020)](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) ([HN](https://news.ycombinator.com/item?id=22238335)) ([Reddit](https://www.reddit.com/r/programming/comments/eyuebc/why_discord_is_switching_from_go_to_rust/)) ([Lobsters](https://lobste.rs/s/34sse3/why_discord_is_switching_from_go_rust))
@@ -419,3 +419,4 @@ Go promotes composition over inheritance.
 - [REST Servers in Go (2021)](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/) ([HN](https://news.ycombinator.com/item?id=25805158))
 - [Non-blocking I/O in Go (2019)](https://container42.com/2019/02/18/non-blocking-io-in-go/)
 - [Go Profiler Notes](https://github.com/felixge/go-profiler-notes) - Notes on the various go profiling methods that are available.
+- [A Tour of Go 1.16's io/fs package (2021)](https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/) ([Lobsters](https://lobste.rs/s/kixqgi/tour_go_1_16_s_io_fs_package))

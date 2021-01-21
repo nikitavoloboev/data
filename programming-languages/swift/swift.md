@@ -183,3 +183,4 @@
 - [Swift Concurrency Example](https://github.com/MaxDesiatov/SwiftConcurrencyExample) - SwiftPM CLI package experimenting with Swift async/await and structured concurrency.
 - [Introduction to structured concurrency in Swift: continuations, tasks, and cancellation (2021)](https://desiatov.com/swift-structured-concurrency-introduction/)
 - [Rendering Moana with Swift (2021)](https://gonsoloblog.wordpress.com/2021/01/14/rendering-moana-with-swift/) ([HN](https://news.ycombinator.com/item?id=25779611)) ([Code](https://github.com/gonsolo/gonzales))
+- [Advanced Codable](https://github.com/subdigital/advanced-codable-talk) - Demonstrating customizing Codable for different scenarios.

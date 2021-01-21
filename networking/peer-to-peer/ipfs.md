@@ -48,4 +48,5 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Web UI](https://github.com/ipfs-shipyard/ipfs-webui) - Web interface to IPFS. ([Web](https://webui.ipfs.io/))
 - [IPDR](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
 - [Forest](https://github.com/forestpm/forest) - IPFS-backed package manager proxy cache.
-- [IPFS Support in Brave (2021)](https://brave.com/ipfs-support/) ([HN](https://news.ycombinator.com/item?id=25836886))
+- [IPFS Support in Brave (2021)](https://brave.com/ipfs-support/) ([HN](https://news.ycombinator.com/item?id=25836886)) ([GitHub Issue](https://github.com/brave/brave-browser/issues/10220))
+- [IPSQL](https://github.com/mikeal/IPSQL) - Decentralized database that can run in IPFS. It implements the SQL schema, data model, and query language.

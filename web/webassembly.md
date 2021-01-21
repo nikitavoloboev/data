@@ -17,12 +17,13 @@
 - [Twiggy](https://github.com/rustwasm/twiggy) - Code size profiler.
 - [Olin](https://github.com/Xe/olin) - Environment to run and operate functions as a service projects using event sourcing and webassembly under the hood.
 - [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT.
+- [wasmtime-py](https://github.com/bytecodealliance/wasmtime-py) - Python WebAssembly runtime powered by Wasmtime. ([Docs](https://bytecodealliance.github.io/wasmtime-py/))
 - [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
 - [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI](https://wasi.dev/) - WebAssembly System Interface. ([Code](https://github.com/WebAssembly/WASI)).
 - [wasi-rust](https://github.com/bytecodealliance/wasi) - WASI API Bindings for Rust.
 - [Lucet](https://github.com/fastly/lucet) - Sandboxing WebAssembly Compiler.
-- [Wasmer](https://github.com/wasmerio/wasmer) - Standalone JIT WebAssembly runtime, aiming to be fully compatible with WASI and Emscripten.
+- [Wasmer](https://github.com/wasmerio/wasmer) - Leading WebAssembly Runtime supporting WASI and JavaScript. ([Web](https://wasmer.io/))
 - [WebAssembly Playground](http://ast.run/)
 - [Wasmer is taking WebAssembly beyond the browser (2019)](https://overcast.fm/+HZUfSYn4E)
 - [Wasmer](https://github.com/wasmerio/python-ext-wasm) - Python extension to run WebAssembly binaries.

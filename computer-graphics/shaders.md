@@ -31,3 +31,4 @@
 - [Futureproof](https://github.com/mkeeter/futureproof) - Live editor for GPU shaders, built on Zig, Neovim, and WebGPU. ([Web](https://www.mattkeeter.com/projects/futureproof/))
 - [CineShader](https://cineshader.com/) - Real-time 3D shader visualizer.
 - [pmfx-shader](https://github.com/polymonster/pmfx-shader) - Cross platform shader system for HLSL, GLSL, Metal and SPIR-V.
+- [GLSLX](https://github.com/evanw/glslx) - GLSL type checker, code formatter, and minifier for WebGL. ([Web](http://evanw.github.io/glslx/))

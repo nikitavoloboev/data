@@ -27,9 +27,10 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [BodyWeightStrength](https://bodyweightstrength.fit/) - Series of videos designed to take anyone form absolute beginner to a strong, functional physique with minimal equipment.
 - [What is the Most Brutal Training Program?](https://www.reddit.com/r/Fitness/comments/fm3cp7/what_is_the_most_brutal_training_program/)
 - [50 Ironmans, 50 Days, 50 States | James Lawrence (2019)](https://www.youtube.com/watch?v=dhcuSwkGCjE)
-- [Muscle Wiki](https://musclewiki.com/) - Select a muscle and it provides you with exercises to workout the selected muscle. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i6fiis/select_a_muscle_and_it_provides_you_with/))
+- [Muscle Wiki](https://musclewiki.com/) - Select a muscle and it provides you with exercises to workout the selected muscle. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/i6fiis/select_a_muscle_and_it_provides_you_with/)) ([HN](https://news.ycombinator.com/item?id=25854523))
 - [Peloton](https://www.onepeloton.com/) - Workouts Streamed Live & On-Demand.
 - [How walking makes us healthier, happier and brainier (2019)](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier) ([HN](https://news.ycombinator.com/item?id=24885334))
 - [tapiriik](https://tapiriik.com/) - Sync your runs, rides & more. ([Code](https://github.com/cpfair/tapiriik))
 - [Effect of exercise training for five years on all cause mortality (2020)](https://www.bmj.com/content/371/bmj.m3485) ([HN](https://news.ycombinator.com/item?id=25071676))
 - [Concept2 indoor rowing machines](https://www.concept2.com/indoor-rowers)
+- [Melissa Wood Health](https://melissawoodhealth.com/)

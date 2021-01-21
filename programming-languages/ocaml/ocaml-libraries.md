@@ -72,6 +72,7 @@
 - [Dyntype](https://github.com/samoht/dyntype) - Dynamic types for OCaml.
 - [RML](https://github.com/dannywillems/RML) - ML modules and functors as first-class citizens.
 - [VOCaL](https://github.com/vocal-project/vocal) - Verified OCaml Library.
+- [Fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators.
 
 ## Links
 

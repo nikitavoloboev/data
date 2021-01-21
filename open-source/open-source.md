@@ -152,3 +152,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [General Guide For Exploring Large Open Source Codebases](https://pncnmnp.github.io/blogs/oss-guide.html)
 - [Open Source Challenges](https://github.com/bzg/opensource-challenges) - Resources to think about free software and open source current challenges.
 - [Monetizing Open-Source - How Tailwind CSS has grown into a $2m+ business (2021)](https://www.smalltechbusiness.com/monetizing-open-source-tailwind/)
+- [Awesome Alternatives](https://gitlab.com/linuxcafefederation/awesome-alternatives/) - List of mostly free and open source alternatives to proprietary software and services.

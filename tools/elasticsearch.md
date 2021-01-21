@@ -18,3 +18,4 @@
 - [Searchgoose](https://github.com/actumn/searchgoose) - Elasticsearch-like simple, lightweight, distributed RESTful search-engine using bleve written in go.
 - [Elasticsearch Code](https://github.com/elastic/elasticsearch)
 - [Elasticsearch meets BERT](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
+- [Chewy](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.

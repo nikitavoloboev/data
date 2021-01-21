@@ -75,3 +75,4 @@
 - [Label a Dataset with a Few Lines of Code (2021)](https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d) ([HN](https://news.ycombinator.com/item?id=25826775))
 - [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples (2020)](https://arxiv.org/abs/1903.03096) ([Code](https://github.com/google-research/meta-dataset))
 - [Datasets should behave like git repositories (2021)](https://dagshub.com/blog/datasets-should-behave-like-git-repositories/)
+- [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) ([Visual Explorer](https://github.com/rajpurkar/SQuAD-explorer))

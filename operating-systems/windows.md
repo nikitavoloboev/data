@@ -24,3 +24,4 @@
 - [DirectX Headers](https://github.com/microsoft/DirectX-Headers) - Official DirectX headers available under an open source license.
 - [DirectX Developer Blog](https://devblogs.microsoft.com/directx/)
 - [Speakeasy](https://github.com/fireeye/speakeasy) - Windows kernel and user mode emulation.
+- [Rust for Windows](https://github.com/microsoft/windows-rs) - Lets you call any Windows API past, present, and future using code generated on the fly. ([HN](https://news.ycombinator.com/item?id=25862291))

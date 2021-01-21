@@ -117,7 +117,7 @@
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming. ([Web](http://coconut-lang.org/)) ([HN](https://news.ycombinator.com/item?id=23759721))
 - [Hydra](https://github.com/facebookresearch/hydra) - Framework for elegantly configuring complex applications.
-- [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries.
+- [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries. ([HN](https://news.ycombinator.com/item?id=25856633))
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 - [Peewee](https://github.com/coleifer/peewee) - Small, expressive orm -- supports postgresql, mysql and sqlite.
 - [Curio](https://github.com/dabeaz/curio) - Library for Python systems programming involving concurrent I/O with network sockets, files, subprocesses, and similar constructs.
@@ -315,6 +315,7 @@
 - [DiskCache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [hitherdither](https://github.com/hbldh/hitherdither) - Dithering algorithms for arbitrary palettes in PIL.
 - [cache.py](https://github.com/bwasti/cache.py) - Python memoization across program runs.
+- [nfcpy](https://github.com/nfcpy/nfcpy) - Python module to read/write NFC tags or communicate with another NFC device.
 
 ## Links
 

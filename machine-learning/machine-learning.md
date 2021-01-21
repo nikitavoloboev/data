@@ -40,6 +40,7 @@
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
 - [RAAIS 2018 - François Chollet (Creator of Keras)](https://www.youtube.com/watch?v=2L2u303FAs8)
 - [KubeFlow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes. ([Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/))
+- [KALE (Kubeflow Automated pipeLines Engine)](https://github.com/kubeflow-kale/kale) - Aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
 - [MIT AGI: Deep Learning (Yoshua Bengio) (2018)](https://www.youtube.com/watch?v=azOmzumh0vQ)
 - [TL-GAN: transparent latent-space GAN](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit.
 - [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Repository accompanying "Grokking Deep Learning" book.
@@ -396,3 +397,5 @@
 - [Awesome AutoML](https://github.com/windmaple/awesome-AutoML)
 - [Optimization Methods for Machine Learning and Engineering (2021)](https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5)
 - [Three mysteries in deep learning: Ensemble, knowledge distillation, and self-distillation (2021)](https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/)
+- [Awesome Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
+- [Noah ML Research](https://github.com/huawei-noah/noah-research) - Research related code released by Huawei Noah's Ark Lab.

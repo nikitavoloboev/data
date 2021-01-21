@@ -31,7 +31,7 @@
 - [Ethernut Project](http://www.ethernut.de/index.html) - Open Source Hardware and Software Project for building tiny Embedded Ethernet Devices.
 - [OpenTitan](https://github.com/lowRISC/opentitan) - Open source silicon root of trust. ([Web](https://opentitan.org/))
 - [bare-metal](https://github.com/rust-embedded/bare-metal) - Abstractions common to bare metal systems.
-- [Embench](https://github.com/embecosm/embench-beebs) - Open Benchmarks for Embedded Platforms.
+- [Embench](https://www.embench.org/) - Modern Embedded Benchmark Suite. ([Code](https://github.com/embench/embench-iot))
 - [Fresh look at embedded Rust development](https://github.com/japaric/embedded2020)
 - [Talks at Meeting Embedded 2019](https://meetingembedded.com/2019/Talks/#talk10)
 - [probe-rs](https://github.com/probe-rs/probe-rs) - Modern, embedded debugging toolkit, written in Rust. ([Web](http://probe.rs/))

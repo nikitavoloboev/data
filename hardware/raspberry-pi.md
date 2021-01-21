@@ -59,3 +59,4 @@
 - [Micro Displays for Raspberry Pi](https://github.com/igbit/micro-displays)
 - [PiSugar2](https://github.com/PiSugar/PiSugar) - Battery module for Raspberry Pi zero / zero W / zero WH.
 - [Raspberry Pi LEGO sorter (2021)](https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/)
+- [pitop](https://github.com/PierreKieffer/pitop) - Raspberry Pi 4 terminal based activity monitor.

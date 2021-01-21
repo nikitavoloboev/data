@@ -85,3 +85,5 @@
 - [You Only Need Adversarial Supervision for Semantic Image Synthesis (2020)](https://arxiv.org/abs/2012.04781) ([Code](https://github.com/boschresearch/OASIS))
 - [GAN Inversion: A Survey (2021)](https://arxiv.org/abs/2101.05278) - GAN inversion aims to invert a given image back into the latent space of a pretrained GAN model, for the image to be faithfully reconstructed from the inverted code by the generator.
 - [KernelGAN](https://github.com/sefibk/KernelGAN) - Blind Super-Resolution Kernel Estimation using an Internal-GAN.
+- [Mimicry](https://github.com/kwotsin/mimicry) - Lightweight PyTorch library aimed towards the reproducibility of GAN research.
+- [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (2017)](https://arxiv.org/abs/1703.05921) ([Code](https://github.com/xtarx/Unsupervised-Anomaly-Detection-with-Generative-Adversarial-Networks))

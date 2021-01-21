@@ -42,7 +42,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 
 ## Web
 
-- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view))
+- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils))
 - [rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - React and Prosemirror based editor that powers Outline and can also be used for displaying content in a read-only fashion.
 - [Remirror](https://github.com/ifiokjr/remirror) - Universal react text editor built with prosemirror.
 - [draft.js](https://github.com/facebook/draft-js) - React framework for building text editors.
@@ -89,7 +89,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Why an IDE? (2020)](https://matklad.github.io//2020/11/11/yde.html)
 - [SyntaxEnvy](https://www.syntaxenvy.com/0782664) - Procedurally generated syntax highlighting themes.
 - [Universal Ctags](https://github.com/universal-ctags/ctags) - Generates an index (or tag) file of language objects found in source files for many popular programming languages.
-- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) ([Code](https://github.com/snaptoken/kilo-tutorial))
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/index.html) ([Code](https://github.com/snaptoken/kilo-tutorial))
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla (2021)](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/) ([HN](https://news.ycombinator.com/item?id=25810427))
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - Tool to verify that your files are in harmony with your .editorconfig. ([Web](https://editorconfig-checker.github.io/))
 - [dprint](https://dprint.dev/) - Pluggable and configurable code formatting platform written in Rust. ([Code](https://github.com/dprint/dprint))

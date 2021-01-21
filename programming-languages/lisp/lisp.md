@@ -109,3 +109,4 @@
 - [On repl-driven programming (2020)](http://mikelevins.github.io/posts/2020-12-18-repl-driven/) ([Lobsters](https://lobste.rs/s/0dvrpg/on_repl_driven_programming)) ([HN](https://news.ycombinator.com/item?id=25620256))
 - [Fleck](https://github.com/chr15m/flk) - Clojure-like LISP that runs wherever Bash is.
 - [A rabbit hole full of Lisp (2021)](https://www.murilopereira.com/a-rabbit-hole-full-of-lisp/) ([HN](https://news.ycombinator.com/item?id=25760381))
+- [lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer.

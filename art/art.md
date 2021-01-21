@@ -264,6 +264,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Polaroids by Andrei Tarkovsky](https://twitter.com/ddoniolvalcroze/status/1292117732230434818)
 - [Julien Gauthier's dystopian, post–global-warming Bangkok](https://twitter.com/FedeItaliano76/status/1296827295806758912)
 - [Anna Niess Tumblr](https://glerpie.tumblr.com/)
+- [3D pic of paint 'Girl with Pearl Earring' with 10Bs of pixels](https://www.micro-pano.com/pearl/)
 
 ## Photography
 
@@ -391,3 +392,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Deep Learning based project for creating line art portraits.
 - [2020 Mathematical Art Exhibition](http://www.ams.org/publicoutreach/math-imagery/2020-Exhibition) ([HN](https://news.ycombinator.com/item?id=25687129))
 - [Code as Creative Medium (2021)](https://mitpress.mit.edu/books/code-creative-medium) - Handbook for Computational Art and Design.
+- [The Unreasonable Ecological Cost of Crypto Art (2020)](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)

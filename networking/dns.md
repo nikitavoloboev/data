@@ -74,3 +74,5 @@
 - [Dns.Watch](https://dns.watch/) - Public DNS Servers. ([HN](https://news.ycombinator.com/item?id=25792345))
 - [ZeroConf](https://github.com/grandcat/zeroconf) - MDNS / DNS-SD Service Discovery in pure Go.
 - [KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
+- [Container to update DNS records periodically with WebUI for many DNS providers](https://github.com/qdm12/ddns-updater)
+- [Docker DNS server on steroids to access DNS-over-TLS](https://github.com/qdm12/dns)

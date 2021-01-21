@@ -45,3 +45,5 @@
 - [Cohabs](https://cohabs.com/) - Private Room Rentals in Beautiful Shared Houses.
 - [Thruhikes](https://thruhikes.net/) - Growing list of long distance hikes around the world. ([HN](https://news.ycombinator.com/item?id=25568856))
 - [Slow TV Map](https://slowtvmap.com/) - Take a relaxing virtual trip.
+- [Random Street View](https://randomstreetview.com/) - Images from all over the world.
+- [Duffel](https://duffel.com/) - API to sell flights online. Search, book, and sell flights on a developer-friendly platform complete with the extras you need — from seat selection to checked bags.

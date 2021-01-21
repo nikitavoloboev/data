@@ -91,3 +91,4 @@
 - [Scrum Ventures](https://scrum.vc/)
 - [Baillie Gifford](https://www.bailliegifford.com/)
 - [Good Soil Investment](https://goodsoilinvestment.com/)
+- [Expa](https://expa.com/) - Network of entrepreneurs supporting founders through expertise, access & funding.

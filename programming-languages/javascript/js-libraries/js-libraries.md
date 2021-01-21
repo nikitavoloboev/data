@@ -197,6 +197,7 @@
 - [Path-to-RegExp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as /user/:name into a regular expression.
 - [Bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript.
 - [GGEditor](https://github.com/alibaba/GGEditor) - Visual graph editor based on G6 and React.
+- [Arbor](https://github.com/samizdatco/arbor) - Graph visualization library using web workers and jQuery. ([Web](http://arborjs.org/))
 - [fsm-as-promised](https://github.com/vstirbu/fsm-as-promised) - Finite state machine library using ES6 promises.
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - Web-based JavaScript（canvas）spreadsheet.
 - [IsoCity](https://github.com/victorqribeiro/isocity) - Isometric city builder in JavaScript.
@@ -334,6 +335,7 @@
 - [vnopts](https://github.com/ikatyang/vnopts) - Validate and normalize options.
 - [canvas confetti](https://github.com/catdad/canvas-confetti) - On-demand confetti gun. ([Docs](https://www.kirilv.com/canvas-confetti/))
 - [Graphlib](https://github.com/dagrejs/graphlib) - JavaScript library that provides data structures for undirected and directed multi-graphs along with algorithms that can be used with them.
+- [Dagre](https://github.com/dagrejs/dagre) - JavaScript library that makes it easy to lay out directed graphs on the client-side.
 - [ecsy](https://github.com/MozillaReality/ecsy) - Highly experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance. ([Docs](https://ecsy.io/docs/#/))
 - [Object Visualizer](https://github.com/iendeavor/object-visualizer) - Visualize the JSON object to the DOM. ([HN](https://news.ycombinator.com/item?id=23860568))
 - [Reach Schema](https://github.com/open-draft/reach-schema) - Functional schema-driven JavaScript object validation library.
@@ -446,6 +448,8 @@
 - [ibridge](https://github.com/franleplant/ibridge) - Tiny, promise based, type safe library for easy, bidirectional and secure iframe communication.
 - [Monio](https://github.com/getify/monio) - Async-capable IO monad for JS.
 - [Total.js](https://www.totaljs.com/) - Excellent and stable server-side Node.js framework, client-side library for creating web applications with more than 230 UI components for free.
+- [memoize-one](https://github.com/alexreardon/memoize-one) - Memoization library which only remembers the latest invocation.
+- [pjson](https://github.com/tidwall/pjson) - JSON stream parser for Go.
 
 ## Links
 

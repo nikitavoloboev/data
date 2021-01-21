@@ -43,3 +43,4 @@
 - [Lume](https://github.com/lume/lume) - Create CSS3D/WebGL applications declaratively with HTML. Give regular DOM elements shadow and lighting. ([Web](https://lume.io/))
 - [WebGL Fluid Dynamics: Reintegration Tracking (2020)](https://michaelmoroz.github.io/Reintegration-Tracking/)
 - [manyworlds](https://github.com/neefrehman/manyworlds) - Scifi-inspired study of signed distanced functions and noise fields in WebGL.
+- [WebGL Path Tracing](https://github.com/evanw/webgl-path-tracing) - Path tracing in GLSL using WebGL. ([Web](http://madebyevan.com/webgl-path-tracing/))

@@ -86,11 +86,13 @@
 - [GitHub Label Sync](https://github.com/Financial-Times/github-label-sync) - Synchronize your GitHub labels with as few destructive operations as possible.
 - [release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [Comment on PR via GitHub Action](https://github.com/unsplash/comment-on-pr) - GitHub action to comment on the relevant open PR when a commit is pushed.
+- [GitHub Actions for deploying to Azure Functions](https://github.com/Azure/functions-action)
+- [GitHub Action for Azure CLI](https://github.com/Azure/cli)
 
 ## Go
 
 - [gobenchdata](https://github.com/bobheadxi/gobenchdata) - Tool for inspecting go test -bench data, and a GitHub Action for continuous benchmarking.
-- [golangci-lint](https://github.com/actions-contrib/golangci-lint) - GitHub Action for interacting with GolangCI-Lint.
+- [golangci-lint](https://github.com/golangci/golangci-lint-action) - Runs golangci-lint and reports issues from linters.
 - [action-update-go](https://github.com/thepwagner/action-update-go) - GitHub Action to open PRs proposing dependency updates.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go.
 

@@ -332,3 +332,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Downpour](https://www.downpour.com/) - DRM Free Audiobooks. ([HN](https://news.ycombinator.com/item?id=25810675))
 - [Free Science Books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md)
 - [Free Ebook Foundation](https://ebookfoundation.org/) - Making the world safe for free ebooks. ([GitHub](https://github.com/EbookFoundation))
+- [Approaching (Almost) Any Machine Learning Problem (2020)](https://www.goodreads.com/book/show/53928375-approaching-almost-any-machine-learning-problem) ([Article](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur/)) ([Code](https://github.com/abhishekkrthakur/approachingalmost))

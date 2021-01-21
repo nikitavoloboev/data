@@ -45,4 +45,4 @@ Streaks is a nice app that lets me keep track of the 6 main things I want to kee
 - [Ask HN: What’s your daily/weekly routine? (2020)](https://news.ycombinator.com/item?id=24029286)
 - [The Proof](https://www.theproofwellness.com/) - Wellness Advice from World-Class Founders.
 - [Make your habits zero-effort](https://www.benkuhn.net/zero/)
-- [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results.
+- [Atomic Habits](https://jamesclear.com/atomic-habits) - Tiny Changes, Remarkable Results. ([Summary](https://twitter.com/justinkan/status/1352040558198329344))

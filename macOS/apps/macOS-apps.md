@@ -88,6 +88,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Contexts](https://contexts.co/) - Simple & fast window switcher for Mac.
 - [DevDocs macOS](https://github.com/dteoh/devdocs-macos) - DevDocs API Documentation viewer for macOS.
 - [Finder built in SwiftUI for macOS](https://github.com/jordansinger/finder-macos-swiftui)
+- [Spotter](https://github.com/spotter-application/spotter) - Productivity tool to launch everything. Alfred alternative.
 
 ## Other interesting apps
 

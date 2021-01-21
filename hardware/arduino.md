@@ -18,3 +18,4 @@
 - [Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide) - Arduino IDE for advanced users and developers.
 - [ATtiny Core](https://github.com/SpenceKonde/ATTinyCore) - Arduino core for ATtiny 1634, 828, x313, x4, x41, x5, x61, x7 and x8.
 - [Wasmino = WASM and Arduino – Running Arduino Code in Browser (2020)](https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser/) ([HN](https://news.ycombinator.com/item?id=25581081))
+- [Sinter](https://github.com/source-academy/sinter) - Implementation of the Source Virtual Machine Language intended for microcontroller platforms like an Arduino.

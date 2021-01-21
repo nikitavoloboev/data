@@ -111,3 +111,5 @@
 - [Homemade Bidirectional Typing](https://github.com/samuela/bidirectional-typing)
 - [BiRelCost](https://github.com/ezgicicek/BiRelCost) - Bidirectional Type Checking for Relational Properties.
 - [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.co.uk/create-your-own-programming-language/intro-to-type-checking/)
+- [Linear ML](https://github.com/neel-krishnaswami/linearml) - Small implementation of a linear type theory in the style of the Benton-Wadler adjoint calculus.
+- [Implementing Inverse Bidirectional Typechecking](https://github.com/neel-krishnaswami/inverse-bidirectional-typechecking)

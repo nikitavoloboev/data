@@ -23,3 +23,4 @@
 ## Links
 
 - [Nimble](https://github.com/nim-lang/nimble) - Package manager for the Nim programming language.
+- [Nim packages collection](https://github.com/nim-lang/packages) - Central listing of all packages for Nimble.

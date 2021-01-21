@@ -64,6 +64,7 @@
 - [Dragonglass](https://github.com/matthewjberger/dragonglass) - 3D game engine written in Rust and using Vulkan primarily for rendering.
 - [pmtech](https://github.com/polymonster/pmtech) - Lightweight, multi-platform, data-oriented game engine.
 - [3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL.
+- [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. ([Web](https://www.cocos.com/en/))
 
 ## Physics engines
 

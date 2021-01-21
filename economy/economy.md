@@ -70,3 +70,4 @@
 - [What recent economics book did you really like? (2021)](https://www.reddit.com/r/AskEconomics/comments/konc5w/what_recent_economics_book_did_you_really_like/)
 - [How Money Works (2021)](https://twitter.com/paraschopra/status/1346688696599252993)
 - [Economic Research - St. Louis Fed](https://research.stlouisfed.org/)
+- [How religion shaped modern economics (2021)](https://www.wsj.com/articles/how-religion-shaped-modern-economics-11610643698) ([HN](https://news.ycombinator.com/item?id=25836454))

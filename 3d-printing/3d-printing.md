@@ -16,3 +16,4 @@
 - [Marlin 3D Printer Firmware](https://github.com/MarlinFirmware/Marlin)
 - [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - Takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers.
 - [3D printing boats is becoming standard practice (2020)](https://www.3dprintingmedia.network/3d-printing-boats-is-becoming-standard-practice/) ([HN](https://news.ycombinator.com/item?id=25492406))
+- [OctoPrint](https://octoprint.org/) - Snappy web interface for your 3D printer. ([Code](https://github.com/OctoPrint/OctoPrint))

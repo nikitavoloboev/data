@@ -21,7 +21,7 @@
 - [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix))
 - [Radix UI](https://radix-ui.com/primitives/docs/overview/introduction) - Open-source UI component library for building high-quality, accessible design systems and web apps. ([Code](https://github.com/radix-ui/primitives)) ([Docs Code](https://github.com/radix-ui/website))
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))
-- [Carbon](https://github.com/carbon-design-system/carbon) - Design system built by IBM.
+- [Carbon](https://github.com/carbon-design-system/carbon) - Design system built by IBM. ([Web](https://www.carbondesignsystem.com/))
 - [React Zeit Design](https://github.com/zeit-ui/react)
 - [Fluent UI React](https://github.com/microsoft/fluentui) - Set of React components for building Microsoft web experiences. ([Figma](https://www.figma.com/@microsoft)) ([Web](https://www.microsoft.com/design/fluent/#/))
 - [Operational UI Components](https://github.com/contiamo/operational-ui) - Contains simple, stateless UI building blocks - your typical input fields, buttons, cards, grids, and so on.

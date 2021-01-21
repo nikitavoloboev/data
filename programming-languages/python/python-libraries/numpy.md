@@ -14,3 +14,4 @@
 - [nptyping](https://github.com/ramonhagenaars/nptyping) - Type hints for Numpy.
 - [NumPy Illustrated: The Visual Guide to NumPy (2020)](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [RipTable](https://github.com/rtosholdings/riptable) - All in one, high performance 64 bit python analytics engine for numpy arrays with multithreaded support.

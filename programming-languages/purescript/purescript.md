@@ -6,7 +6,8 @@
 - [vidtracker](https://github.com/justinwoo/vidtracker) - Small, "full-stack" Purescript "video tracker" for me to track what shows I've watched locally.
 - [vt](https://github.com/justinwoo/vt) - Vidtracker but with a Rust backend. PureScript frontend.
 - [Asynchronous PureScript (2019)](https://blog.drewolson.org/asynchronous-purescript)
-- [purescript-halogen](https://github.com/purescript-halogen/purescript-halogen) - Declarative, type-safe UI library for PureScript.
+- [Halogen](https://github.com/purescript-halogen/purescript-halogen) - Declarative, type-safe UI library for PureScript.
+- [Real World Halogen](https://github.com/thomashoneyman/purescript-halogen-realworld) - Exemplary real world application built with PureScript + Halogen. ([Web](https://thomashoneyman.com/guides/real-world-halogen/))
 - [spago](https://github.com/spacchetti/spago) - PureScript package manager and build tool powered by Dhall and package-sets.
 - [PUX](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [Functional Programming for the Web: PureScript Foreign Import and DOM Events (2020)](https://medium.com/@KevinBGreene/functional-programming-for-the-web-purescript-foreign-import-and-dom-events-8c76f6f5a16e)
@@ -20,3 +21,9 @@
 - [List of Companies That Use Purescript](https://github.com/ajnsit/purescript-companies)
 - [Experiments with comonads for modelling React UIs](https://github.com/paf31/purescript-react-explore)
 - [Easy PureScript Nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix.
+- [Try PureScript](https://try.purescript.org/) - Online PureScript code editor for quickly experimenting with PureScript code snippets and ideas. ([Code](https://github.com/purescript/trypurescript))
+- [PureScript Language Forum](https://discourse.purescript.org/)
+- [Pursuit](https://pursuit.purescript.org/) - Hosts API documentation for PureScript packages. ([Code](https://github.com/purescript/pursuit))
+- [Introducing Halogen Hooks (2020)](https://thomashoneyman.com/articles/introducing-halogen-hooks/)
+- [Practical Profunctor Lenses & Optics In PureScript (2019)](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
+- [How to Write PureScript React Components to Replace JavaScript (2019)](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)

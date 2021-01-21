@@ -1,14 +1,16 @@
 # Russia
 
-The number of crimes against humanity committed by China and Russia is horrific. Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
+The number of crimes against humanity committed by [China, Russia & Turkey](https://worldpopulationreview.com/country-rankings/dictatorship-countries) is horrific. Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
 
 It's a travesty that citizen's taxes are are being used to only strengthen the dictatorship with the [remainder going to few private hands](https://palace.navalny.com). And nearly none to help the people. The biggest abuse of human rights.
 
 As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are so brainwashed that they are ok with being abused. Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
 
-My current plan/hope to do my part in crushing these systems is by building the best tools available for all things learning. Everyone should be able to think critically and know how to be effective and how to stop from being abused by their environment. I am hopeful that the change comes soon and am trying my best to make that happen.
+My current plan/hope to do my part in crushing these systems is by building the best tools available for all things learning. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment. I am hopeful that the change comes soon and am trying my best to make that happen.
 
-It may be [hard to do](https://twitter.com/nikitavoloboev/status/1351169746587295745) given the military budgets of both the countries and the depths in which they go to try and control all the information as well as lack of any kind of ethics.
+It may be [hard to do](https://twitter.com/nikitavoloboev/status/1351169746587295745) given the amount of money being spent on police & military by these countries and the depths in which they go to try and control all the information.
+
+The people in charge lack any kind of ethics and will go to any lengths to stop the protests including killing/jailing everyone involved. The police should grow conscience and stop committing further crimes on behalf of the government.
 
 Change comes gradually, then suddenly.
 

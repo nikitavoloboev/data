@@ -34,6 +34,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Structured flake-based NixOS configuration by Tony O](https://github.com/bqv/nixrc)
 - [chessai](https://github.com/chessai/nixos-configs)
 - [Bruno Bigras](https://github.com/bbigras/nix-config)
+- [Thomas Honeyman](https://github.com/thomashoneyman/.dotfiles)
 
 ## Nix configs (macOS)
 

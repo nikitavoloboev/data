@@ -146,6 +146,7 @@
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField) - Beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.
 - [Synth](https://github.com/CRED-CLUB/synth-ios) - Library for using Neumorphic components in your app.
 - [Pinnable](https://github.com/kylebshr/Pinnable) - Convenient Auto Layout.
+- [MTSlideToOpen](https://github.com/lemanhtien/MTSlideToOpen) - Simple SlideToUnlock iOS UI component.
 
 ## macOS
 

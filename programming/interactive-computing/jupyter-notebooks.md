@@ -20,6 +20,7 @@
 - [jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - JupyterLab extension for standalone integration of drawio / mxgraph into jupyterlab.
 - [pigeon](https://github.com/agermanidis/pigeon) - Quickly annotate data on Jupyter.
 - [JupyterLab Commenting and Annotation](https://github.com/jupyterlab/jupyterlab-commenting)
+- [JupyterLab File Tree](https://github.com/youngthejames/jupyterlab_filetree)
 
 ## Links
 

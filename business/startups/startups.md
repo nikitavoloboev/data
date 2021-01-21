@@ -254,6 +254,7 @@
 - [Founders of VC backed startups, are you genuinely happy? (2020)](https://www.reddit.com/r/startups/comments/khng2j/founders_of_vc_backed_startups_are_you_genuinely/)
 - [Ask HN: Is frugality underrated in startups? (2021)](https://news.ycombinator.com/item?id=25809852)
 - [The Minimalist Entrepreneur](https://sahillavingia.com/course) - Four-week cohort-based course.
+- [Startups with Extended Exercise Windows](https://github.com/holman/extended-exercise-windows)
 
 ## Images
 

@@ -42,3 +42,4 @@
 - [three-elements](https://github.com/hmans/three-elements) - Web Components-powered custom HTML elements for building Three.js-powered games and interactive experiences. ([Intro](https://hmans.co/posts/2021-01-18-three-elements/))
 - [three-bmfont-text](https://github.com/Jam3/three-bmfont-text) - Bitmap font rendering for ThreeJS, batching glyphs into a single BufferGeometry.
 - [3D Force-Directed Graph](https://github.com/vasturiano/3d-force-graph) - 3D force-directed graph component using ThreeJS/WebGL.
+- [three-mesh-ui](https://github.com/felixmariotto/three-mesh-ui) - Make VR user interfaces for Three.js.

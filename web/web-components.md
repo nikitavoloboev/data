@@ -28,3 +28,4 @@
 - [Options for styling web components (2021)](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 - [Hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating web components with unique declarative and functional approach based on plain objects and pure functions.
 - [fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
+- [customLibraries](https://github.com/WebReflection/custom-libraries) - CustomElements like registry for user-land libraries.

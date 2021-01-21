@@ -61,3 +61,5 @@
 - [Algorithms & Data Structures in C++](https://github.com/xtaci/algorithms)
 - [Fancy Tree Traversals (2019)](https://drs.is/post/fancy-tree-traversals/)
 - [The Robson Tree Traversal (2019)](https://drs.is/post/robson-traversal/)
+- [Data structures and program structures](http://cr.yp.to/data.html)
+- [cdb](http://cr.yp.to/cdb.html) - Fast, reliable, simple package for creating and reading constant databases.

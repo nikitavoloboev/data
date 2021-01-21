@@ -33,3 +33,5 @@
 - [GEMS Lab](https://gemslab.github.io/) - Graph Exploration and Mining at Scale. ([GitHub](https://github.com/GemsLab))
 - [SNAP](https://github.com/snap-stanford/snap) - Stanford Network Analysis Platform. ([Web](http://snap.stanford.edu/))
 - [DeepSNAP](httpsn://github.com/snap-stanford/deepsnap) - Python library assists deep learning on graphs.
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis. ([Web](https://js.cytoscape.org/))
+- [React Cytoscape](https://github.com/plotly/react-cytoscapejs) - React component for Cytoscape.js network visualisations.

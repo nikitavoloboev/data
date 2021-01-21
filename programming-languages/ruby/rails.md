@@ -42,3 +42,4 @@
 - [Forest Admin in Rails](https://www.forestadmin.com/) - Provides an off-the-shelf administration panel based on a highly-extensible API plugged into your application.
 - [testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database.
 - [FastRuby.io](https://www.fastruby.io/) - Rails Upgrade Service.
+- [Engems](https://github.com/palkan/engems) - Rails component-based architecture on top of engines and gems.

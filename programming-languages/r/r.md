@@ -46,3 +46,4 @@
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - Easy interactive dashboards for R.
 - [recipes](https://github.com/tidymodels/recipes) - Preprocessing engine to generate design matrices.
 - [golgotha](https://github.com/bnosac/golgotha) - Contextualised Embeddings and Language Modelling using BERT and Friends using R.
+- [modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.

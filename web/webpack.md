@@ -16,6 +16,7 @@
 - [Optimize Plugin](https://github.com/developit/optimize-plugin) - Optimize your code for modern browsers.
 - [esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin) - Use esbuild as minifier for webpack.
 - [SVG sprite loader](https://github.com/JetBrains/svg-sprite-loader) - Webpack loader for creating SVG sprites.
+- [Webpack Virtual Modules](https://github.com/sysgears/webpack-virtual-modules) - Plugin that allows for dynamical generation of in-memory virtual modules for JavaScript builds created with webpack.
 
 ## Links
 

@@ -214,3 +214,4 @@
 - [SAM: Sharpness-Aware Minimization (PyTorch)](https://github.com/davda54/sam)
 - [Factorization Machine models in PyTorch](https://github.com/rixwew/pytorch-fm)
 - [graftr](https://github.com/lmnt-com/graftr) - Interactive shell to view and edit PyTorch checkpoints.
+- [EagerPy](https://github.com/jonasrauber/eagerpy) - Writing Code That Works Natively with PyTorch, TensorFlow, JAX, and NumPy. ([Web](https://eagerpy.jonasrauber.de/))

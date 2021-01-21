@@ -209,3 +209,5 @@
 - [DropBlock: A regularization method for convolutional networks (2018)](https://arxiv.org/abs/1810.12890v1) ([Code](https://github.com/miguelvr/dropblock))
 - [Glasses](https://github.com/FrancescoSaverioZuppichini/glasses) - Compact, concise and customizable deep learning computer vision library. ([Web](https://francescosaveriozuppichini.github.io/glasses-webapp/))
 - [Explorable Super Resolution (2019)](https://github.com/YuvalBahat/Explorable-Super-Resolution)
+- [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python and OpenCV-based scene cut/transition detection program & library.
+- [Best Practices for Building Computer Vision Models (2021)](https://phaseai.com/resources/computer-vision-best-practices)

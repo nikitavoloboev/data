@@ -49,3 +49,4 @@
 - [Are your Anchor Links Accessible? (2020)](https://amberwilson.co.uk/blog/are-your-anchor-links-accessible/)
 - [ButtonBuddy](https://buttonbuddy.dev/) - Accessible button contrast generator. ([Code](https://github.com/5t3ph/buttonbuddy))
 - [axe](https://www.deque.com/axe/) - Accessibility Testing Tools and Software. ([Code](https://github.com/dequelabs/axe-core))
+- [Accessibility Guidelines "Silver"](https://w3c.github.io/silver/) ([Code](https://github.com/w3c/silver))

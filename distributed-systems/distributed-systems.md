@@ -21,7 +21,7 @@
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ([HN](https://news.ycombinator.com/item?id=23113419))
 - [libp2p specification](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack.
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class)
-- [Raft Consensus Algorithm](https://raft.github.io/)
+- [Raft Consensus Algorithm](https://raft.github.io/) ([Code](https://github.com/raft/raft.github.io))
 - [Qri](https://github.com/qri-io/qri) - Global dataset version control system (GDVCS) built on the distributed web.
 - [Project Oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems.
 - [mudb](https://github.com/mikolalysenko/mudb) - Collection of modules for building realtime client-server networked applications.

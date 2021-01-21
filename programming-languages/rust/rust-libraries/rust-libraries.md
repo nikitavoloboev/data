@@ -82,6 +82,7 @@
 - [RAUI](https://github.com/PsichiX/raui) - Rust implementation of Renderer Agnostic User Interface.
 - [Spline](https://github.com/linebender/spline) - Implements a new spline designed and optimized for interactive design of 2D curves.
 - [Terra](https://github.com/fintelia/terra) - Large scale terrain rendering library written in Rust.
+- [Ochre](https://github.com/glowcoil/ochre) - Highly portable GPU-accelerated vector graphics. ([Talk](https://rustfest.global/session/23-ochre-highly-portable-gpu-accelerated-vector-graphics/))
 
 ## DB
 
@@ -216,6 +217,7 @@
 - [unseemly](https://github.com/paulstansifer/unseemly) - Macros have types. ([Web](https://unseemly.github.io/))
 - [seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code.
 - [Automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module.
+- [Aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js.
 
 ## Other
 
@@ -671,6 +673,9 @@
 - [Vicis](https://github.com/maekawatoshiki/vicis) - Manipulate LLVM-IR in Pure Rust.
 - [tryhard](https://github.com/EmbarkStudios/tryhard) - Easily retry futures.
 - [visualizer2](https://github.com/Rahix/visualizer2) - Audio Visualization in Rust.
+- [rtt-target](https://github.com/mvirkkunen/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol.
+- [shuffling-allocator](https://github.com/fitzgen/shuffling-allocator)
+- [governor](https://github.com/antifuchs/governor) - Library for regulating the flow of data.
 
 ## Cargo Plugins
 

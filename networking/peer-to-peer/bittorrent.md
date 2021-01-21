@@ -12,6 +12,7 @@
 ## Links
 
 - [Transmission](https://transmissionbt.com/) - Fast, easy, and free BitTorrent client. ([Code](https://github.com/transmission/transmission))
+- [qBittorrent](https://www.qbittorrent.org/) - BitTorrent client. ([Code](https://github.com/qbittorrent/qBittorrent))
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
 - [transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot.
 - [Updated list of public BitTorrent trackers (2019)](https://github.com/ngosang/trackerslist)
@@ -51,3 +52,4 @@
 - [Flood](https://flood.js.org/) - Modern web UI for rTorrent, Transmission and qBittorrent. ([Code](https://github.com/jesec/flood))
 - [rustorrent](https://github.com/sebastiencs/rustorrent) - BitTorrent library implemented in Rust.
 - [Defeating Vanish with Low-Cost Sybil Attacks Against Large DHTs (2010)](https://jhalderm.com/pub/papers/unvanish-ndss10-web.pdf)
+- [TorrentNet](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite. ([HN](https://news.ycombinator.com/item?id=25850181))

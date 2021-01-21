@@ -73,3 +73,4 @@
 - [Glyphs](https://glyphs.fyi/) - Complete icons design system from Figma to web components. ([Code](https://github.com/gorango/glyphs))
 - [Inspyr](https://inspyr.io/) - Handpicked set of beautifully designed SVG icons.
 - [Ionicons](https://ionicons.com/) - Premium designed icons for use in web, iOS, Android, and desktop apps. ([Code](https://github.com/ionic-team/ionicons))
+- [Flagpack](https://flagpack.xyz/) - 260+ flag icons to easily use within your code project. ([Code](https://github.com/Yummygum/react-flagpack))

@@ -257,3 +257,5 @@
 - [A mostly complete guide to error handling in JavaScript (2020)](https://www.valentinog.com/blog/error/)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 - [Perflink](https://perf.link/) - JS Benchmarks.
+- [Element Worklet (2021)](https://jasonformat.com/element-worklet/)
+- [MDN JS Code Examples](https://github.com/mdn/js-examples)

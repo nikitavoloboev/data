@@ -36,7 +36,7 @@
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another. ([HN](https://news.ycombinator.com/item?id=24503077))
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound. ([HN](https://news.ycombinator.com/item?id=24586390))
 - [JustBeamIt](https://justbeamit.com/) - File transfer made easy. ([CLI](https://github.com/justbeamit/beam))
-- [Magic Wormhole](https://github.com/warner/magic-wormhole) - Get things from one computer to another, safely.
+- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 - [Send Anywhere](https://send-anywhere.com/) - File transfer.
 - [FileRoom](https://fileroom.io) - Browser File Transfer. Send files to anyone on the same WiFi or network that's on fileroom.io.
 - [wormhole-william](https://github.com/psanford/wormhole-william) - End-to-end encrypted file transfer. A magic wormhole CLI and API in Go.
