@@ -138,6 +138,6 @@
 - [Post-Modern Compiler Design (2019)](https://www.cs.purdue.edu/homes/rompf/pmca/vol1/index.html)
 - [Inline caching (2021)](https://bernsteinbear.com/blog/inline-caching/)
 - [Bril: A Compiler Intermediate Representation for Learning](https://capra.cs.cornell.edu/bril/) ([Code](https://github.com/sampsyo/bril))
-- [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard)
+- [Compilers are hard](https://blog.shipreq.com/post/compilers_are_hard) ([HN](https://news.ycombinator.com/item?id=25831911))
 - [Compiler Video Series](https://github.com/bisqwit/compiler_series)
 - [SymQEMU](https://github.com/eurecom-s3/symqemu) - Compilation-based symbolic execution for binaries. ([Web](http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html))
