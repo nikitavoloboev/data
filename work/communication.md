@@ -76,3 +76,4 @@
 - [Signal](https://signal.org/) - Cross-platform encrypted messaging app. ([GitHub](https://github.com/signalapp))
 - [Threema](https://threema.ch/en) - Secure and Private Messenger. ([HN](https://news.ycombinator.com/item?id=25858463))
 - [Try Feedforward Instead of Feedback (2015)](https://www.marshallgoldsmith.com/articles/try-feedforward-instead-feedback/)
+- [Programming Is Collaboration](https://programming-is-collaboration.com/) - Software Book.

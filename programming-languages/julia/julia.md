@@ -69,3 +69,4 @@
 - [Tutorial on Precompilation for Julia (2021)](https://julialang.org/blog/2021/01/precompile_tutorial/)
 - [Quick Overview of Julia language (2021)](https://algorithmsbook.com/files/appendix-g.pdf) ([HN](https://news.ycombinator.com/item?id=25719454))
 - [Julia adoption keeps climbing (2021)](https://www.hpcwire.com/2021/01/13/julia-update-adoption-keeps-climbing-is-it-a-python-challenger/) ([HN](https://news.ycombinator.com/item?id=25820457))
+- [JuliaFormatter](https://github.com/domluna/JuliaFormatter.jl) - Opinionated code formatter for Julia. ([Docs](https://domluna.github.io/JuliaFormatter.jl/dev/))
