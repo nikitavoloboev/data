@@ -19,3 +19,4 @@
 - [Elasticsearch Code](https://github.com/elastic/elasticsearch)
 - [Elasticsearch meets BERT](https://github.com/Hironsan/bertsearch) - Elasticsearch with BERT for advanced document search.
 - [Chewy](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
+- [AWS announces forks of Elasticsearch and Kibana (2021)](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/) ([HN](https://news.ycombinator.com/item?id=25865094))

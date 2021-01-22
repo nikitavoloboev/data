@@ -450,6 +450,7 @@
 - [Total.js](https://www.totaljs.com/) - Excellent and stable server-side Node.js framework, client-side library for creating web applications with more than 230 UI components for free.
 - [memoize-one](https://github.com/alexreardon/memoize-one) - Memoization library which only remembers the latest invocation.
 - [pjson](https://github.com/tidwall/pjson) - JSON stream parser for Go.
+- [InternMap](https://github.com/mbostock/internmap) - Map and Set with automatic key interning.
 
 ## Links
 
