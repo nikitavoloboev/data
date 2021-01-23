@@ -112,3 +112,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Pandora Core](https://pandoracore.com/) - Building Layer 2 and 3 technologies enabling scalable smart contracts and AI for Internet of value on top of Lightning Network and Bitcoin protocol. ([GitHub](https://github.com/pandoracore))
 - [lnp-node](https://github.com/LNP-BP/lnp-node) - Lightning Network Protocol Node.
 - [Descriptor wallet library](https://github.com/LNP-BP/descriptor-wallet) - Library for building descriptor-based bitcoin wallets.
+- [The widening gyre (2021)](https://laanwj.github.io/2021/01/21/decentralize.html) ([HN](https://news.ycombinator.com/item?id=25880727))
