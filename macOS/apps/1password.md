@@ -9,3 +9,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Ask HN: How do you share password simply and securely? (2020)](https://news.ycombinator.com/item?id=23020183)
 - [1pass](https://github.com/dcreemer/1pass) - Caching wrapper for the 1Passworld CLI.
 - [Terraform provider for 1Password](https://github.com/anasinnyk/terraform-provider-onepassword)
+- [Lobsters: What do you use for password management? (2021)](https://lobste.rs/s/emqfkc/what_do_you_use_for_password_management)

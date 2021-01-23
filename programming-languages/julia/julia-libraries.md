@@ -87,6 +87,10 @@
 
 - [XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - Unit-testing framework for Julia.
 
+## Error
+
+- [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
+
 ## Other
 
 - [TimeSeries](https://github.com/JuliaStats/TimeSeries.jl) - Aims to provide a lightweight framework for working with time series data in Julia.
