@@ -45,6 +45,6 @@
 - [Passive SSH](https://github.com/D4-project/passive-ssh) - Open source framework composed of a scanner and server to store and lookup the SSH keys and fingerprints per host (IPv4/IPv6/onion). ([Presentation](https://github.com/D4-project/passive-ssh/blob/main/doc/slides/passive-ssh-presentation.pdf))
 - [Paramiko](https://github.com/paramiko/paramiko) - Leading native Python SSHv2 protocol library.
 - [boxssh](https://github.com/prologic/sshbox) - Server that boxes you into a container.
-- [boringproxy](https://github.com/boringproxy/boringproxy) - No-frills HTTPS/SSH tunneling solution with as much automation as possible. Designed for self-hosters.
+- [boringproxy](https://github.com/boringproxy/boringproxy) - No-frills HTTPS/SSH tunneling solution with as much automation as possible. Designed for self-hosters. ([Web](https://boringproxy.io/))
 - [kr](https://github.com/kryptco/kr) - Dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [SSH Access for Supercomputers (2021)](https://goteleport.com/blog/secure-access-supercomputers/)

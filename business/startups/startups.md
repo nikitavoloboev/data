@@ -255,6 +255,7 @@
 - [Ask HN: Is frugality underrated in startups? (2021)](https://news.ycombinator.com/item?id=25809852)
 - [The Minimalist Entrepreneur](https://sahillavingia.com/course) - Four-week cohort-based course.
 - [Startups with Extended Exercise Windows](https://github.com/holman/extended-exercise-windows)
+- [Linear: Building at the early stage. (2021)](https://medium.com/linear-app/building-at-the-early-stage-e79e696341db)
 
 ## Images
 

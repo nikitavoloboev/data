@@ -12,3 +12,5 @@
 - [Why nullable types? (2020)](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a) ([Lobsters](https://lobste.rs/s/hek0ym/why_nullable_types)) ([HN](https://news.ycombinator.com/item?id=25340629))
 - [Dart Code](https://github.com/dart-lang/sdk) - Dart SDK, including the VM, dart2js, core libraries, and more.
 - [Awesome Dart](https://github.com/yissachar/awesome-dart)
+- [web_socket_channel](https://github.com/dart-lang/web_socket_channel) - StreamChannel wrappers for WebSockets.
+- [Quiver](https://github.com/google/quiver-dart) - Set of utility libraries for Dart.

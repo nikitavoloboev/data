@@ -3,6 +3,7 @@
 ## Nice OSS iOS Android apps
 
 - [Signal Android](https://github.com/signalapp/Signal-Android)
+- [Dawn](https://github.com/Tunous/Dawn) - Reddit client.
 
 ## Links
 

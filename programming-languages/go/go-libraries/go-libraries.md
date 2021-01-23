@@ -215,6 +215,7 @@
 - [gobpf](https://github.com/iovisor/gobpf) - Go bindings for creating BPF programs.
 - [go-eBPF](https://github.com/cilium/ebpf) - Pure Go library that provides utilities for loading, compiling, and debugging eBPF programs.
 - [zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific.
+- [nftables](https://github.com/google/nftables) - Manipulates Linux nftables (the iptables successor).
 
 ## Error
 
@@ -704,6 +705,8 @@
 - [go-concurrency-limits](https://github.com/platinummonkey/go-concurrency-limits) - Go implementation of Netflix/concurrency-limits.
 - [go-query](https://github.com/rekki/go-query) - Blazingly fast query engine.
 - [AQL](https://github.com/flowchartsman/aql) - Lucene-inspired query language for Go.
+- [raft](https://github.com/hashicorp/raft) - Go implementation of the Raft consensus protocol.
+- [sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go.
 
 ## Links
 

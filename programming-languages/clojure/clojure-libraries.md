@@ -10,6 +10,7 @@
 - [Ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction.
 - [clj-http](https://github.com/dakrone/clj-http) - Idiomatic clojure http client wrapping the apache client.
 - [Gniazdo](https://github.com/stalefruits/gniazdo) - WebSocket client for Clojure.
+- [Oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite.
 
 ## DB
 

@@ -437,3 +437,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Be My Eyes](https://www.bemyeyes.com/) - See the world together. ([HN](https://news.ycombinator.com/item?id=25793163))
 - [Cheat Sheets](https://cheatsheets.xyz/) - Searchable site of hints and tips. ([Code](https://github.com/spences10/cheat-sheets))
 - [Paul Stamatiou: Stuff I use](https://paulstamatiou.com/stuff-i-use/)
+- [checksec.py](https://github.com/Wenzel/checksec.py) - Simple tool to verify the security properties of your binaries. Based on LIEF.
+- [Gnod](https://www.gnod.com/) - Global Network Of Discovery.

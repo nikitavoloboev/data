@@ -451,6 +451,7 @@
 - [memoize-one](https://github.com/alexreardon/memoize-one) - Memoization library which only remembers the latest invocation.
 - [pjson](https://github.com/tidwall/pjson) - JSON stream parser for Go.
 - [InternMap](https://github.com/mbostock/internmap) - Map and Set with automatic key interning.
+- [geometry-processing-js](https://github.com/GeometryCollective/geometry-processing-js) - Fast, general-purpose framework for geometry processing on the web.
 
 ## Links
 

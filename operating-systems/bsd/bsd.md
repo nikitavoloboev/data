@@ -46,3 +46,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Creating Comfy FreeBSD Jails Using Standard Tools (2021)](https://kettunen.io/post/standard-freebsd-jails/) ([HN](https://news.ycombinator.com/item?id=25813800))
 - [FreeBSD Journal 2020/11-12 – Workflows/CI](https://freebsdfoundation.org/past-issues/workflows-ci/)
 - [FreeBSD Foundation](https://freebsdfoundation.org/)
+- [Run GitHub CI in FreeBSD](https://github.com/vmactions/freebsd-vm)

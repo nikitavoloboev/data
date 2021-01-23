@@ -319,3 +319,4 @@
 - [Carvel](https://carvel.dev/) - Provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes.
 - [Kube-router](https://github.com/cloudnativelabs/kube-router) - Turnkey solution for Kubernetes networking with aim to provide operational simplicity and high performance. ([Web](https://www.kube-router.io/))
 - [cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang.
+- [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)

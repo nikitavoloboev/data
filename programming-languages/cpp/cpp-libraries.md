@@ -30,6 +30,7 @@
 - [NFHTTP](https://github.com/spotify/NFHTTP) - Cross platform C++ HTTP framework.
 - [Drogon](https://github.com/an-tao/drogon) - C++14/17-based rapid HTTP and web application framework.
 - [Asio](http://think-async.com/Asio/) - Cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. ([Code](https://github.com/chriskohlhoff/asio))
+- [Pistache](https://github.com/pistacheio/pistache) - High-performance REST Toolkit written in C++.
 
 ## Graphics
 

@@ -60,3 +60,5 @@
 - [Built for Mars](https://builtformars.com/) - UX matters. On a mission to help the world build better user experiences by demystifying UX.
 - [Pocket UX List](https://github.com/rubymorillo/pocket-ux-list) - Small, but formidable, list of UX-related resources for people interested in learning more about various UX concepts.
 - [User power, not power users: htop and its design philosophy (2020)](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/) ([HN](https://news.ycombinator.com/item?id=25831154))
+- [Page Flows](https://pageflows.com/) - User flow design inspiration.
+- [A comprehensive list of UX design methods & deliverables (2021)](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)

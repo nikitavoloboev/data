@@ -99,3 +99,5 @@
 - [OpenWrt](https://openwrt.org/) - Linux operating system targeting embedded devices. ([Code](https://github.com/openwrt/openwrt))
 - [Embedded Virtual Machine](https://github.com/embvm/embvm-core)
 - [Foundations of Embedded Systems](https://f-of-e.org/) ([HN](https://news.ycombinator.com/item?id=25717717))
+- [Knurling-rs](https://knurling.ferrous-systems.com/) - Get a handle on bare-metal Rust. ([GitHub](https://github.com/knurling-rs)) ([What's Knurling all about?](https://github.com/knurling-rs/meta))
+- [Creating Embedded Microcontrollers](https://abdullahyildiz.github.io/files/Creating_Embedded_Microcontrollers.pdf)

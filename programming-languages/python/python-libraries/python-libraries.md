@@ -17,6 +17,7 @@
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/))
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+- [Frappe](https://github.com/frappe/frappe) - Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library.
 
 ## ML
 
@@ -71,6 +72,7 @@
 - [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.
 - [ormar](https://github.com/collerek/ormar) - Async mini ORM for Python, with support for Postgres, MySQL, and SQLite.
 - [yoyo-migrations](https://pypi.org/project/yoyo-migrations/) - Database schema migration tool. Database migrations can be written as SQL files or Python scripts.
+- [PyPika](https://github.com/kayak/pypika) - Python API for building SQL queries. Excels at all sorts of SQL queries but is especially useful for data analysis.
 
 ## GUI
 
@@ -316,6 +318,8 @@
 - [hitherdither](https://github.com/hbldh/hitherdither) - Dithering algorithms for arbitrary palettes in PIL.
 - [cache.py](https://github.com/bwasti/cache.py) - Python memoization across program runs.
 - [nfcpy](https://github.com/nfcpy/nfcpy) - Python module to read/write NFC tags or communicate with another NFC device.
+- [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python. ([Web](https://ryven.org/))
+- [Timeflake](https://github.com/anthonynsimon/timeflake) - 128-bit, roughly-ordered, URL-safe UUID.
 
 ## Links
 
@@ -332,3 +336,4 @@
 - [Best of Python](https://github.com/ml-tooling/best-of-python) - Ranked list of awesome Python open-source libraries & tools.
 - [Best of Web Development with Python](https://github.com/ml-tooling/best-of-web-python) - Ranked list of awesome python libraries for web development.
 - [Serverless Python Requirements](https://github.com/UnitedIncome/serverless-python-requirements) - Serverless plugin to bundle Python packages.
+- [pydeps](https://github.com/thebjorn/pydeps) - Python module dependency visualization.

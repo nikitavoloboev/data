@@ -80,3 +80,4 @@
 - [VisPy](https://github.com/vispy/vispy) - Interactive scientific visualization in Python. ([Web](http://vispy.org/))
 - [ChartSeer](https://github.com/jeffjianzhao/ChartSeer) - Visualization tool that helps analysts steer their exploratory visual analysis (EVA) through dynamic visualization and recommendation of charts.
 - [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag. ([Web](https://dygraphs.com/))
+- [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots) - Code and tutorials to visualise your data that is both beautiful _and_ statistically valid.

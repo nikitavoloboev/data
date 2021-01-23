@@ -65,6 +65,7 @@
 - [pmtech](https://github.com/polymonster/pmtech) - Lightweight, multi-platform, data-oriented game engine.
 - [3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL.
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. ([Web](https://www.cocos.com/en/))
+- [ETEngine](https://github.com/Illation/ETEngine) - Real time 3D Game-Engine with a focus on space sim. Written in C++.
 
 ## Physics engines
 

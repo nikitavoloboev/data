@@ -89,3 +89,4 @@
 - [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards (2021)](https://blog.arctype.com/sql-50-years/) ([Lobsters](https://lobste.rs/s/jqf8z1/what_can_we_learn_from_sql_s_50_year_reign))
 - [SQL Next Steps: Optimization](https://www.oreilly.com/live-training/courses/sql-next-steps-optimization/0636920452904/) ([Code](https://github.com/hakib/oreilly-sql-next-steps))
 - [The surprisingly difficult problem of user-defined order in SQL (2018)](https://begriffs.com/posts/2018-03-20-user-defined-order.html) ([HN](https://news.ycombinator.com/item?id=25797674))
+- [Why SELECT \* is bad for SQL performance (2020)](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)

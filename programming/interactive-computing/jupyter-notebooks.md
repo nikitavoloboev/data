@@ -21,6 +21,7 @@
 - [pigeon](https://github.com/agermanidis/pigeon) - Quickly annotate data on Jupyter.
 - [JupyterLab Commenting and Annotation](https://github.com/jupyterlab/jupyterlab-commenting)
 - [JupyterLab File Tree](https://github.com/youngthejames/jupyterlab_filetree)
+- [ILua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter.
 
 ## Links
 

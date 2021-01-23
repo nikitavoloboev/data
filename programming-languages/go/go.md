@@ -138,6 +138,7 @@ Go promotes composition over inheritance.
 - [Google OAuth Go Sample Project - Web application](https://github.com/Skarlso/google-oauth-go-sample)
 - [Go’s features of last resort (2019)](https://www.arp242.net/go-last-resort.html) ([Lobsters](https://lobste.rs/s/bq4nxd/go_s_features_last_resort)) ([HN](https://news.ycombinator.com/item?id=21603483))
 - [Minigo](https://github.com/DQNEO/minigo) - Small Go compiler made from scratch. It can compile itself. The goal is to be the most easy-to-understand Go compiler.
+- [Babygo](https://github.com/DQNEO/babygo) - Go compiler made from scratch, which can compile itself. Smallest and simplest in the world.
 - [Writing An Interpreter In Go](https://interpreterbook.com/) ([HN](https://news.ycombinator.com/item?id=21626972)) ([Notes](https://joeprevite.com/book-review-writing-an-interpreter-in-go))
 - [Source Code for Go In Action](https://github.com/goinaction/code)
 - [garble](https://github.com/mvdan/garble) - Obfuscate Go builds.
@@ -420,3 +421,4 @@ Go promotes composition over inheritance.
 - [Non-blocking I/O in Go (2019)](https://container42.com/2019/02/18/non-blocking-io-in-go/)
 - [Go Profiler Notes](https://github.com/felixge/go-profiler-notes) - Notes on the various go profiling methods that are available.
 - [A Tour of Go 1.16's io/fs package (2021)](https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/) ([Lobsters](https://lobste.rs/s/kixqgi/tour_go_1_16_s_io_fs_package))
+- [Packages as layers, not groups (2021)](https://www.gobeyond.dev/packages-as-layers/)

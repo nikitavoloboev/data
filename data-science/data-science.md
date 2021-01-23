@@ -153,3 +153,5 @@
 - [How To Become a Data Engineer (2021)](https://khashtamov.com/en/how-to-become-a-data-engineer/) ([HN](https://news.ycombinator.com/item?id=25728198))
 - [We don't need data scientists, we need data engineers (2021)](https://www.mihaileric.com/posts/we-need-data-engineers-not-data-scientists/) ([HN](https://news.ycombinator.com/item?id=25775872))
 - [Airbyte](https://airbyte.io/) - Open-Source Data Integration Pipelines To Your Warehouses. ([Code](https://github.com/airbytehq/airbyte)) ([HN](https://news.ycombinator.com/item?id=25800766))
+- [Data Together](https://datatogether.org/) - Exploring Community-Driven Data Stewardship. ([GitHub](https://github.com/datatogether))
+- [Data Together Research](https://github.com/datatogether/research) - Research for tackling the general problem of data resilience & interactivity in all its forms.

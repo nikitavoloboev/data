@@ -211,3 +211,5 @@
 - [Explorable Super Resolution (2019)](https://github.com/YuvalBahat/Explorable-Super-Resolution)
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python and OpenCV-based scene cut/transition detection program & library.
 - [Best Practices for Building Computer Vision Models (2021)](https://phaseai.com/resources/computer-vision-best-practices)
+- [TIDE](https://github.com/dbolya/tide) - General Toolbox for Identifying Object Detection Errors.
+- [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals (2020)](https://arxiv.org/abs/2011.12450) ([Code](https://github.com/PeizeSun/SparseR-CNN))

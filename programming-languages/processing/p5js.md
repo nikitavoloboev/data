@@ -9,3 +9,4 @@
 - [Rudy the Red Dot](https://rudy.zamfi.net/) - IDE shows in-line program state, evaluation, execution.
 - [post5](https://github.com/bandaloo/post5) - Library for p5 that enables you to do interesting post-processing effects with the power of WebGL2.
 - [p5i](https://github.com/antfu/p5i) - p5.js, but with more friendly instance mode APIs.
+- [q5.js](https://github.com/LingDong-/q5xjs) - Small and fast alternative (experimental) implementation of p5.js.

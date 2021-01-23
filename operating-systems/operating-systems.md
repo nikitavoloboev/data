@@ -84,6 +84,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [skiftOS](https://github.com/skiftOS/skift) - Simple, handmade, operating system with a graphical user interface. ([Web](https://skiftos.org/))
 - [ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more. ([HN](https://news.ycombinator.com/item?id=25779930))
 - [Pluto](https://github.com/ZystemOS/pluto) - x86 kernel written in Zig.
+- [LeOS Kernel](https://github.com/lowenware/leos-kernel) - Kernel project for operating system for ARM 64bit (AArch64) written in Rust. ([Web](https://lowenware.com/leos/))
 
 ## Notes
 
@@ -190,3 +191,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Rust OSDev](https://rust-osdev.com/) - Operating System Development in Rust. ([GitHub](https://github.com/rust-osdev))
 - [Martian Computing Course](https://davis68.github.io/martian-computing/) - Explain and navigate the technical layout of Urbit OS. ([Code](https://github.com/davis68/martian-computing)) ([Lobsters](https://lobste.rs/s/6fddwp/cs_498mc_martian_computing))
 - [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/) ([Known Bugs](https://wiki.osdev.org/James_Molloy's_Tutorial_Known_Bugs))
+- [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization) - Curated list of awesome resources about virtualization.
+- [pyvmidbg](https://github.com/Wenzel/pyvmidbg) - LibVMI-based GDB server, implemented in Python.
+- [libmicrovmi](https://github.com/Wenzel/libmicrovmi) - Cross-platform unified interface on top of hypervisor's VMI APIs.

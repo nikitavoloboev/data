@@ -172,6 +172,7 @@
 - [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames.jl objects.
 - [Documenter](https://github.com/JuliaDocs/Documenter.jl) - Documentation generator for Julia.
 - [Memoization.jl](https://github.com/marius311/Memoization.jl) - Easily and efficiently memoize any function in Julia.
+- [Memoize.jl](https://github.com/JuliaCollections/Memoize.jl) - Easy memoization for Julia.
 - [SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification.
 - [Gridap](https://github.com/gridap/Gridap.jl) - Grid-based approximation of partial differential equations in Julia.
 - [BlockArrays.jl](https://github.com/JuliaArrays/BlockArrays.jl) - BlockArrays for Julia.
@@ -196,6 +197,7 @@
 - [ControlSystems.jl](https://github.com/JuliaControl/ControlSystems.jl) - Control Systems Toolbox for Julia.
 - [MatchCore](https://github.com/thautwarm/MatchCore.jl) - Minimal implementation of optimized pattern matching.
 - [ManualDispatch](https://github.com/jlapeyre/ManualDispatch.jl) - Avoid method dispatch at runtime.
+- [ExprTools](https://github.com/invenia/ExprTools.jl) - Light-weight expression manipulation tools.
 
 ## Links
 

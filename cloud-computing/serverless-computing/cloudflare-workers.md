@@ -35,3 +35,6 @@
 - [Cloudflare working on Cloudflare Pages, for deploying and hosting JAMstack (2020)](https://twitter.com/wongmjane/status/1335198021131194370) ([HN](https://news.ycombinator.com/item?id=25326232))
 - [saffron](https://github.com/cloudflare/saffron) - Cron parser powering Cron Triggers on Cloudflare Workers.
 - [Introduction to Cloudflare Workers Course](https://egghead.io/playlists/introduction-to-cloudflare-workers-5aa3)
+- [Cloudflare Workers Catalog](https://workers-catalog.pages.dev/) - Explore the existing Workers projects or just look for the right tooling for your next one. ([Code](https://github.com/eidam/cf-workers-catalog))
+- [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites.
+- [workers-pubsub](https://github.com/sagi/workers-pubsub) - Google Pub/Sub API for Cloudflare Workers (and Node.js).

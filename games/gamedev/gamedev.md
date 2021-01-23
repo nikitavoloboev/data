@@ -133,3 +133,4 @@
 - [Doom 3 Network Architecture (2006)](https://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)
 - [John Carmack on Quake, Internet Play and Latency](https://fabiensanglard.net/quakeSource/johnc-log.aug.htm)
 - [OpenGameArt.org](https://opengameart.org/) - Open content assets for games.
+- [Thoughts on making small games (2021)](https://a327ex.github.io/blog/small-games)

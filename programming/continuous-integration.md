@@ -31,3 +31,5 @@
 - [Quad CI](https://github.com/alpacaaa/quad-ci) - CI server written in Simple Haskell.
 - [CI/CD Workflow for AWS ECS via Terragrunt and GitHub Actions (2020)](https://camillovisini.com/article/terragrunt-github-actions-aws-ecs/)
 - [CI/CD for ARM Development (2021)](https://turingpi.com/case-study-turing-pi-gitlab-ci-ansible/)
+- [Abstruse CI](https://github.com/bleenco/abstruse) - Free and open-source CI/CD platform for companies and individuals who value independence and simplicity. Written in Go. ([Web](https://www.abstruse.cc/))
+- [Fulfilling the promise of CI/CD (2021)](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd/) ([HN](https://news.ycombinator.com/item?id=25843210))

@@ -86,3 +86,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Data for Environmental Intelligence](https://github.com/rockita/Environmental_Intelligence)
 - [Carbon Dioxide Removal Primer](https://cdrprimer.org/) - Resource on the fundamentals of carbon dioxide removal and its role in addressing the climate crisis.
 - [Air Pollution Primer (2021)](https://www.babyfriendlyair.com/en/guides/air-pollution-primer/)
+- [Project Vesta](https://www.projectvesta.org/) - Help reverse climate change by turning a trillion tonnes of CO2 into rock.
+- [The Extinction Clock](https://extinctionclock.org/) - Internet's authoritative source for end of world climate and extinction predictions.

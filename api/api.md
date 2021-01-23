@@ -199,3 +199,4 @@
 - [Building DigitalOcean's API Gateway (2021)](https://mauricio.github.io/2021/01/14/building-digitaloceans-api-gateway.html) ([HN](https://news.ycombinator.com/item?id=25800237))
 - [AWS Smithy](https://awslabs.github.io/smithy/) - Language for defining services and SDKs. ([Code](https://github.com/awslabs/smithy))
 - [DevDocs](https://devdocs.io/) - API Documentation Search. ([Code](https://github.com/freeCodeCamp/devdocs))
+- [Metapine](https://metapine.com/) - Discover new & interesting APIs.

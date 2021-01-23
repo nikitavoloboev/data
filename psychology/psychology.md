@@ -13,3 +13,4 @@
 - [Dopamine is not addictive (2017)](https://www.psychologytoday.com/us/blog/women-who-stray/201701/no-dopamine-is-not-addictive) ([HN](https://news.ycombinator.com/item?id=23747880))
 - [The mechanics and psychology behind The Social Dilemma (2020)](https://medium.com/@jeff_seibert/the-mechanics-and-psychology-behind-the-social-dilemma-719d618aa8ce)
 - [Talking out loud to yourself is a technology for thinking (2020)](https://psyche.co/ideas/talking-out-loud-to-yourself-is-a-technology-for-thinking)
+- [Lorien Psychiatry](https://lorienpsych.com/) - Psychiatry practice by Scott Siskind.

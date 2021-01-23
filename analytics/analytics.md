@@ -64,3 +64,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Datadog](https://www.datadoghq.com/) - Cloud Monitoring as a Service. ([GitHub](https://github.com/DataDog))
 - [Datadog Agent](https://github.com/DataDog/datadog-agent)
 - [Awesome Analytics](https://github.com/onurakpolat/awesome-analytics)
+- [Panelbear](https://panelbear.com/) - Fast and privacy-friendly website analytics.

@@ -74,3 +74,4 @@
 - [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte)
 - [Svelte DND Action](https://github.com/isaacHagoel/svelte-dnd-action) - Action based drag and drop container for Svelte.
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components.
+- [Svelte Hooks](https://github.com/devongovett/svelte-hooks) - Experiment to shim the React Hooks API in Svelte.

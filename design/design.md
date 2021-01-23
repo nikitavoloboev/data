@@ -157,3 +157,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Fantasy UIs](https://www.pushing-pixels.org/fui/)
 - [Pixel Art to CSS](https://www.pixelartcss.com/) - Pixel art animation and drawing web app powered by React. ([Code](https://github.com/jvalen/pixel-art-react))
 - [Land Your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job) - Guide for product designers, from portfolio to interview to job offer.
+- [Screenlane](https://screenlane.com/) - Web & mobile UI design inspiration.
+- [State of Design in 2021](https://www.abstract.design/state-of-design)

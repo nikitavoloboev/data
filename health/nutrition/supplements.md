@@ -42,3 +42,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Do you need to take multivitamins? (2019)](https://examine.com/nutrition/do-you-need-a-multivitamin/)
 - [HN: Multivitamins' 'benefits' are all in your head: study (2020)](https://news.ycombinator.com/item?id=25053134)
 - [Vitamin D Supplementation Improves Cognitive Function: 12-month RCT (2020)](https://pubmed.ncbi.nlm.nih.gov/33164936/) ([HN](https://news.ycombinator.com/item?id=25077519))
+- [General Notes On Supplements (2020)](https://lorienpsych.com/2020/12/03/general-notes-on-supplements/)

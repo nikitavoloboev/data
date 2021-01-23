@@ -150,6 +150,8 @@
 - [suspendable](https://github.com/kyarik/suspendable) - Utilities to create resources that can suspend in React.
 - [Procedural GL React](https://github.com/felixpalmer/procedural-gl-react) - React component for the Procedural GL JS library. ([HN](https://news.ycombinator.com/item?id=25821535))
 - [Renderlesskit React](https://github.com/timelessco/renderlesskit-react) - Headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System.
+- [react-virtualized-tree](https://github.com/diogofcunha/react-virtualized-tree) - Virtualized tree view component making use of react.
+- [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support.
 
 ## Links
 

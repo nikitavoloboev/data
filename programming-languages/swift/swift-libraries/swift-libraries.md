@@ -147,6 +147,8 @@
 - [Synth](https://github.com/CRED-CLUB/synth-ios) - Library for using Neumorphic components in your app.
 - [Pinnable](https://github.com/kylebshr/Pinnable) - Convenient Auto Layout.
 - [MTSlideToOpen](https://github.com/lemanhtien/MTSlideToOpen) - Simple SlideToUnlock iOS UI component.
+- [Scroll Mechanics](https://github.com/super-ultra/ScrollMechanics) - Scroll mechanics implementation.
+- [UltraDrawerView](https://github.com/super-ultra/UltraDrawerView)
 
 ## macOS
 
@@ -175,6 +177,8 @@
 - [WebSocketKit](https://github.com/vapor/websocket-kit) - WebSocket client library built on SwiftNIO.
 - [NIO Transport Services](https://github.com/apple/swift-nio-transport-services) - Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [TermiNetwork](https://github.com/billp/TermiNetwork) - Zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
+- [swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) - Swift implementation of the HTTP Structured Header Field specification.
+- [SwiftNIO HTTP/2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO.
 
 ## SwiftUI
 

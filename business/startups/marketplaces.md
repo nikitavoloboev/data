@@ -19,3 +19,4 @@
 - [Building and Investing in Marketplaces (2020)](https://eriktorenberg.substack.com/p/building-and-investing-in-marketplaces)
 - [How OnlyFans grew faster than any other creator platform (2020)](https://twitter.com/petergyang/status/1333088904296026119)
 - [Experimenting with Pricing as a Marketplace (2020)](https://twosided.io/p/experimenting-with-pricing-as-a-marketplace)
+- [B2B SaaS marketplaces with opportunities for indie hackers](https://rocketgems.com/blog/saas-marketplaces/) ([HN](https://news.ycombinator.com/item?id=25870899))

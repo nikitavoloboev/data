@@ -61,3 +61,5 @@
 - [tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms) - Plugin that provides a basic reset for form styles that makes form elements easy to override with utilities. ([Web](https://tailwindcss-forms.vercel.app/))
 - [DaisyUI](https://daisyui.netlify.app/) - UI Components for Tailwind CSS. Themeable, Scalable and Designer-Friendly. ([Code](https://github.com/saadeghi/daisyui))
 - [Tailwind Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/) ([Code](https://github.com/javisperez/tailwindcolorshades))
+- [Wicked Blocks](https://blocks.wickedtemplates.com/) - Tailwind Blocks ready to copy-paste. ([HN](https://news.ycombinator.com/item?id=25866949))
+- [Why Tailwind Isn't for Me (2021)](https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90)

@@ -143,7 +143,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Artyom's tech notes](https://tek.brick.do/)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
-- [Jacob Chvatal](https://github.com/jakeisnt/wiki)
+- [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))

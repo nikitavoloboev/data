@@ -105,3 +105,5 @@
 - [Wade](https://github.com/kbrsh/wade) - Blazing fast 1kb search library.
 - [Aves API](https://avesapi.com/) - Insanely Fast Google Search API.
 - [Vespa](https://vespa.ai/) - Engine for low-latency computation over large data sets. ([Code](https://github.com/vespa-engine/vespa))
+- [Google Search API](https://github.com/abenassi/Google-Search-API) - Python based API for searching google web, images, calc, and currency conversion.
+- [Knuth-Morris-Pratt string-searching algorithm: DFA-less version](https://yurichev.com/news/20210121_Knuth_Morris_Pratt_1/) ([HN](https://news.ycombinator.com/item?id=25856558))

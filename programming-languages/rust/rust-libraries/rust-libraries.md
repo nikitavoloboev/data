@@ -676,6 +676,7 @@
 - [rtt-target](https://github.com/mvirkkunen/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol.
 - [shuffling-allocator](https://github.com/fitzgen/shuffling-allocator)
 - [governor](https://github.com/antifuchs/governor) - Library for regulating the flow of data.
+- [flurry](https://github.com/jonhoo/flurry) - Port of Java's ConcurrentHashMap to Rust.
 
 ## Cargo Plugins
 

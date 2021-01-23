@@ -33,3 +33,4 @@
 - [SRI Hash Generator](https://www.srihash.org/)
 - [Hash, displace, and compress](http://cmph.sourceforge.net/papers/esa09.pdf) ([Code](https://gist.github.com/pervognsen/b21f6dd13f4bcb4ff2123f0d78fcfd17))
 - [Hashids](https://hashids.org/) - Generate short unique ids from integers. ([JS Code](https://github.com/niieani/hashids.js)) ([Go Code](https://github.com/speps/go-hashids))
+- [Simhashing (hopefully) made simple (2012)](https://ferd.ca/simhashing-hopefully-made-simple.html)

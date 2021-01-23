@@ -62,3 +62,4 @@
 - [The Lab Leak Hypothesis (2021)](https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html) ([HN](https://news.ycombinator.com/item?id=25640323))
 - [The Genetic Code of various COVID-19 Vaccines (2021)](https://berthub.eu/articles/posts/genetic-code-of-covid-19-vaccines/)
 - [Evidence SARS-CoV-2 Emerged From a Biological Laboratory in Wuhan, China (2020)](https://project-evidence.github.io/)
+- [mRNA Vaccines: What Happens (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/01/21/mrna-vaccines-what-happens)

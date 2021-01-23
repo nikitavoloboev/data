@@ -20,3 +20,4 @@
 - [PedalNetRT](https://github.com/keyth72/PedalNetRT) - Deep Learning Networks for Real Time Guitar Effect Emulation.
 - [Fretboard Trainer](https://fretboard-trainer.netlify.app/) - Memorize the guitar fretboard quickly.
 - [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras. ([Web](https://guitarml.com/))
+- [go-dsp-guitar](https://github.com/andrepxx/go-dsp-guitar) - Cross-platform multichannel multi-effects processor for electric guitars and other instruments.

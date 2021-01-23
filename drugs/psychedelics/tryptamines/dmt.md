@@ -67,3 +67,5 @@
 - ["Entity" Contact on DMT (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/hrhmh0/entity_contact_on_dmt/)
 - [Ayahuasca sends neuroscientist to DMT world | Dr. James Cooke [trip report] (2020)](https://www.youtube.com/watch?v=wSr0MteWM2g)
 - [I can’t find any evidence that DMT is produced in the human body (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/j4g5ef/i_cant_find_any_evidence_that_dmt_is_produced_in/)
+- [My theory of DMT after many trips and lots of research (2021)](https://www.reddit.com/r/DMT/comments/l1w69f/my_theory_of_dmt_after_many_trips_and_lots_of/)
+- [Alien Insect](http://www.buildingalienworlds.com/) - Building Alien Worlds. DMT, the brain, and the Structure of Reality.

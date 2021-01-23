@@ -254,3 +254,4 @@
 - [ghc.nix](https://github.com/alpmestan/ghc.nix) - Nix (shell) expression for working on GHC.
 - [Glasgow Haskell Compiler (GHC)](https://www.haskell.org/ghc/) - State-of-the-art, open source, compiler and interactive environment for the functional language Haskell. ([Code](https://github.com/ghc/ghc))
 - [A Tour of Go in Haskell](https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html) - How to write the concurrency section of A Tour of Go in Haskell. ([Code](https://github.com/syocy/a-tour-of-go-in-haskell))
+- [Building DSLs in Haskell](https://github.com/stoeffel/haskell-simple-dsl-examples) - Simple playground for DSLs in Haskell.

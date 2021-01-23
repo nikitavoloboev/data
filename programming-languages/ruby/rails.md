@@ -43,3 +43,4 @@
 - [testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database.
 - [FastRuby.io](https://www.fastruby.io/) - Rails Upgrade Service.
 - [Engems](https://github.com/palkan/engems) - Rails component-based architecture on top of engines and gems.
+- [Tokenable](https://github.com/tokenable/tokenable-ruby) - Rails gem that allows API-only applications a way to authenticate users.

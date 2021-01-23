@@ -10,3 +10,4 @@
 - [MongoDB for VS Code](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment.
 - [Everything You Know About MongoDB is Wrong (2020)](https://developer.mongodb.com/article/everything-you-know-is-wrong)
 - [lungo](https://github.com/256dpi/lungo) - MongoDB compatible embeddable database and toolkit for Go.
+- [AMA with Mark Porter, CTO at MongoDB (2021)](https://www.reddit.com/r/IAmA/comments/l23dxl/i_am_mark_porter_cto_at_mongodb_i_love_tech_and/)

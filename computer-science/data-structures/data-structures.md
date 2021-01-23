@@ -32,6 +32,7 @@
 - [Anna](https://github.com/hydro-project/anna) - Low-latency, cloud-native KVS.
 - [Persistent data structures thanks to recursive type aliases (2019)](https://www.aleksandra.codes/persistent-data-structures)
 - [Log-Structured Merge-Trees (2020)](https://yetanotherdevblog.com/lsm/)
+- [Bloom Filters for the Perplexed (2017)](https://sagi.io/bloom-filters-for-the-perplexed/)
 - [Understanding Bloom Filters (2020)](https://yetanotherdevblog.com/bloom-filters/)
 - [Dense vs. Sparse Indexes (2020)](https://yetanotherdevblog.com/dense-vs-sparse-indexes/)
 - [Data Structures and Algorithms Problems](https://www.techiedelight.com/list-of-problems/)

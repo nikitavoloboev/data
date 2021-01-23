@@ -108,3 +108,4 @@ All active variables can be seen by running `env`.
 - [sh](https://github.com/mvdan/sh) - Shell parser, formatter, and interpreter with bash support; includes shfmt.
 - [Compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 - [The terminal, the console and the shell - what are they? (2021)](https://www.unixsheikh.com/articles/the-terminal-the-console-and-the-shell-what-are-they.html)
+- [tio](https://github.com/tio/tio) - Simple TTY terminal I/O application. ([Web](https://tio.github.io/))

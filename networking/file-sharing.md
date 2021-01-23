@@ -52,3 +52,5 @@
 - [WebDrop](https://webdrop.space/#/) - Group P2P File & Message transfer in browser with WebRTC. ([Code](https://github.com/subins2000/WebDrop))
 - [Juicesync](https://github.com/juicedata/juicesync) - Tool to move your data between any clouds or regions.
 - [goploader](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant.
+- [ownCloud Infinite Scale](https://github.com/owncloud/ocis) - Modern file-sync and share platform. ([Docs](https://owncloud.github.io/ocis/))
+- [Nextcloud](https://nextcloud.com/) - On-premises file share and collaboration platform. ([Server Code](https://github.com/nextcloud/server))

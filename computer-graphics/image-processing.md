@@ -7,7 +7,8 @@
 - [Tiler](https://github.com/nuno-faria/tiler) - Tool to create an image using all kinds of other smaller images (tiles).
 - [Fiji](https://fiji.sc/) - Image processing package — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.
 - [Create Social Images](https://createsocialimages.com/) ([Code](https://github.com/pshihn/csi))
-- [libvips](https://github.com/libvips/libvips) - Fast image processing library with low memory needs.
+- [libvips](https://github.com/libvips/libvips) - Fast image processing library with low memory needs. ([Web](https://libvips.github.io/libvips/))
+- [wasm-vips](https://github.com/kleisauke/wasm-vips) - libvips compiled to WebAssembly with Emscripten.
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 - [Oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded lossless PNG compression optimizer. It can be used via a command-line interface or as a library in other Rust programs.
 - [Glitch This](https://github.com/TotallyNotChase/glitch-this) - Glitchify static images to glitched images and GIFs.
@@ -80,3 +81,4 @@
 - [Resemble.js](https://github.com/rsmbl/Resemble.js) - Analyze and compare images with JavaScript and HTML5.
 - [Image Analyze Workers](https://github.com/w-okada/image-analyze-workers) - Zoo of image processing Web Workers for JavaScript or TypeScript.
 - [ImagePy](https://github.com/Image-Py/imagepy) - Open source image processing framework written in Python.
+- [Creating image reveal videos with ffmpeg and primitive (2021)](https://blog.forret.com/2021/01/21/creating-image-reveal-videos-with-ffmpeg-and-primitive/)

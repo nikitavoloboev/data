@@ -76,3 +76,4 @@
 - [KadNode](https://github.com/mwarning/KadNode) - P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
 - [Container to update DNS records periodically with WebUI for many DNS providers](https://github.com/qdm12/ddns-updater)
 - [Docker DNS server on steroids to access DNS-over-TLS](https://github.com/qdm12/dns)
+- [DNS over TLS - Thoughts and Implementation (2018)](https://sagi.io/dns-over-tls-thoughts-and-implementation/)

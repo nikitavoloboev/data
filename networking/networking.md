@@ -190,3 +190,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Connectivity: Wireless & Wired](https://www.electronics-notes.com/articles/connectivity/)
 - [IPv6 ULA (Unique Local Address) registry](https://ula.ungleich.ch/) - Contains all of the prefixes that were in the sixxs database.
 - [Timing web requests with cURL and Chrome (2018)](https://blog.cloudflare.com/a-question-of-timing/)
+- [CoreRAD](https://github.com/mdlayher/corerad) - Extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. ([Web](https://corerad.net/))
+- [Intro to securing communication protocols with Noise (2021)](https://grund.me/posts/securing-custom-protocols-with-noise/)

@@ -12,3 +12,7 @@
 - [New nuclear engine concept could help realize 3-month trips to Mars (2020)](https://newatlas.com/space/nuclear-thermal-propulsion-ntp-nasa-unsc-tech-deep-space-travel/) ([HN](https://news.ycombinator.com/item?id=24890988))
 - [Ask HN: Why can't nuclear waste be launched into the sun? (2020)](https://news.ycombinator.com/item?id=24892097)
 - [The world needs nuclear power and we shouldn’t be afraid of it (2020)](https://www.forbes.com/sites/startswithabang/2020/10/21/the-world-needs-nuclear-power-and-we-shouldnt-be-afraid-of-it/#59d658b56576) ([HN](https://news.ycombinator.com/item?id=24874421))
+- [Advanced Reactor Modeling Interface](https://github.com/terrapower/armi) - Open-source tool that streamlines your nuclear reactor design/analysis needs by providing a software reactor at your fingertips. ([Docs](https://terrapower.github.io/armi/))
+- [Awesome Nuclear](https://github.com/paulromano/awesome-nuclear) - Curated list of open source projects used in nuclear science and engineering.
+- [TerraPower](https://www.terrapower.com/) - Nuclear Innovation Company. ([GitHub](https://github.com/terrapower))
+- [MOCC](https://github.com/youngmit/mocc) - Method of characteristics-based nuclear reactor physics simulator.

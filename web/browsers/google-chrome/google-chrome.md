@@ -36,3 +36,4 @@ And here are Chrome extensions I use:
 - [My Favourite Chrome Devtool Features](https://emergent.systems/posts/devtools/)
 - [CRX Viewer](https://robwu.nl/crxviewer/) - See the source code of Chrome extensions.
 - [71 Lines](https://71lines.com/) - Build Chrome Extensions with No-Code Tools.
+- [Placeholdifier](https://chrome.google.com/webstore/detail/placeholdifier/iinkgkmmblamljaklibgclblomobdbha) - Turn any website into a live wireframe. ([Code](https://github.com/pomber/placeholdifier))

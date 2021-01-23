@@ -62,3 +62,4 @@
 - [Rust LoRaWAN](https://github.com/ivajloip/rust-lorawan) - Fast, zero-copy and lightweight LoRaWAN parsing library in Rust.
 - [LoRaWAN (Go)](https://github.com/brocaar/lorawan) - Provides structures and tools to read and write LoraWAN messages from and to a slice of bytes.
 - [PaperiNode](https://github.com/RobPo/PaperiNode) - Self powered E-Paper Node for LoRaWAN.
+- [Build and configure your own LoraWAN Gateway with The Things Network](https://github.com/IRNAS/ttn-irnas-gw)

@@ -100,3 +100,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Unifying Theories of Psychedelic Drug Effects (2018)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5853825/) ([HN](https://news.ycombinator.com/item?id=17167063))
 - [Hamilton Morris and Eric Andre discuss mostly research chemicals for an hour (2021)](https://www.youtube.com/watch?v=oXRcly_jDoM) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/kwyv2f/hamilton_morris_and_eric_andre_discuss_mostly/))
 - [Psychedelics are a waste of life (2021)](https://scottlocklin.wordpress.com/2021/01/17/psychedelics-are-a-waste-of-life/)
+- [Alien Information Theory: Psychedelic Drug Technologies and the Cosmic Game (2019)](https://ru.b-ok2.org/book/5008504/e64f0a)

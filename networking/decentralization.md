@@ -45,3 +45,4 @@
 - [Maybe we shouldn't want a fully decentralized web (2020)](https://withblue.ink/2020/11/12/maybe-we-shouldnt-want-a-fully-decentralized-web.html) ([HN](https://news.ycombinator.com/item?id=25312854))
 - [Thinking About Decentralized Communities (2020)](https://gurlic.com/root/thinking-about-decentralized-communities) ([HN](https://news.ycombinator.com/item?id=25409715))
 - [Awesome anti-censorship](https://github.com/danoctavian/awesome-anti-censorship)
+- [Decentralized Social Networking Ecosystem Review by Twitter (2021)](https://ipfs.io/ipfs/QmdFrru4PyHzXGZztEPnYToBR3QovD7fkC1HSyty22LzfD) ([HN](https://news.ycombinator.com/item?id=25861436))

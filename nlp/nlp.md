@@ -245,3 +245,6 @@
 - [CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters (2020)](https://arxiv.org/abs/2010.10392) ([Code](https://github.com/helboukkouri/character-bert))
 - [jiant](https://github.com/nyu-mll/jiant) - Multitask and transfer learning toolkit for NLP. ([Web](https://jiant.info/))
 - [Must-read Papers on Textual Adversarial Attack and Defense](https://github.com/thunlp/TAADpapers)
+- [Reranker](https://github.com/luyug/Reranker) - Build Text Rerankers with Deep Language Models.
+- [rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...).
+- [rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Offers high-performance tokenizers for modern language models.

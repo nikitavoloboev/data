@@ -130,7 +130,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
 - [Axiom](https://axiom.co/) - Store and query unlimited machine data. ([GitHub](https://github.com/axiomhq))
-- [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together.
+- [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli))
 - [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
@@ -258,6 +258,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [NoteCalc](https://bbodi.github.io/notecalc3/) - Handy calculator trying to bring the advantages of Soulver to the web. ([Code](https://github.com/bbodi/notecalc3))
 - [Config.ly](https://www.config.ly/) - Never hardcode your data again. Instantly update static / config data on all your apps/servers without waiting on a deploy or App Store review. ([HN](https://news.ycombinator.com/item?id=25059296))
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
+- [Gist.cafe](https://gist.cafe/) - Execute Gists of code. ([HN](https://news.ycombinator.com/item?id=25871598))
 - [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter. ([Web](https://pandoc.org/)) ([Manual](https://pandoc.org/MANUAL.html)) ([Pandoc Scholar](https://github.com/pandoc-scholar/pandoc-scholar)) ([HN](https://news.ycombinator.com/item?id=24882480))
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
@@ -356,6 +357,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [paste.in.ua](https://paste.in.ua/) - Code paste bin. ([Article](https://solovyov.net/blog/2020/clojure-graalvm-polyglotvm-paste-in-ua/))
 - [Tandem](https://tandem.chat/) - Virtual office for remote teams.
 - [UXBOX](https://github.com/uxbox/uxbox) - Open-Source prototyping tool. ([Web](https://uxbox.io/))
+- [ERPNext](https://erpnext.com/) - Free and Open Source Cloud ERP Software. ([Code](https://github.com/frappe/erpnext))
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
 - [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).
@@ -382,6 +384,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [SAO](https://github.com/saojs/sao) - Futuristic scaffolding tool. ([Docs](https://saojs.org/))
 - [Perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome. ([Web](https://perfetto.dev/))
 - [GitHub Pages URL Shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages. ([HN](https://news.ycombinator.com/item?id=25110879))
+- [projen](https://github.com/projen/projen) - Project generator. Define and maintain complex project configuration through code.
 
 ## Notes
 

@@ -99,3 +99,5 @@
 - [node-oauth2-server](https://github.com/oauthjs/node-oauth2-server) - Complete, compliant and well tested module for implementing an OAuth2 server in Node.js.
 - [Learn JWT by reverse engineering](https://github.com/gitcommitshow/auth-jwt)
 - [SAML vs. OAuth (2021)](https://ossoapp.com/blog/saml-vs-oauth/) - Engineer’s Guide to Enterprise-grade Single Sign-on.
+- [Userbase](https://userbase.com/) - Auth and E2E encrypted storage in a few lines of code. ([HN](https://news.ycombinator.com/item?id=22145168)) ([HN 2](https://news.ycombinator.com/item?id=25869472)) ([Code](https://github.com/encrypted-dev/userbase))
+- [Authentication and Authorisation 101 (2021)](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)

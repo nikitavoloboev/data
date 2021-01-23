@@ -20,6 +20,7 @@
 - [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 - [Glacies](https://eltan.in.net/blog/2021/01/13/0/) - Linux distribution using Eltanin userspace.
 - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lightweight Linux distribution that transforms a small computer into a full blown game console. ([Web](http://www.lakka.tv/))
+- [LibreELEC](https://github.com/LibreELEC/LibreELEC.tv) - Linux distribution for the award-winning Kodi software on popular mediacentre hardware. ([Web](https://libreelec.tv/))
 
 ## WM
 
@@ -260,3 +261,4 @@
 - [Rust KVM firmware](https://github.com/cloud-hypervisor/rust-hypervisor-firmware) - Designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.
 - [RUA](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options.
 - [BPF and Go: Modern forms of introspection in Linux (2020)](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
+- [KVM-VMI](https://github.com/KVM-VMI/kvm-vmi) - KVM-based Virtual Machine Introspection. ([Docs](https://kvm-vmi.github.io/kvm-vmi/master/))
