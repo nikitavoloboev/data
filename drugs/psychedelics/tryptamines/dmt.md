@@ -40,7 +40,7 @@
 - [Your number ONE most profound realization after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
 - [Stillpoint](https://vimeo.com/171672516)
 - [Mario in hyperspace](https://www.youtube.com/watch?v=uFqE0uyD2H4)
-- [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/)
+- [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/) ([Video](https://www.youtube.com/watch?v=loCBvaj4eSg))
 - [The Machine vaporizer](https://wiki.dmt-nexus.me/The_Machine)
 - [Guidelines for 5-MeO-DMT use](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75496)
 - [Hyperspace lexicon](https://wiki.dmt-nexus.me/Hyperspace_lexicon)

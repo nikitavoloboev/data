@@ -11,3 +11,4 @@
 
 - [What's the current state of string theory? (2020)](https://www.reddit.com/r/AskPhysics/comments/gxwowd/whats_the_current_state_of_string_theory/)
 - [20 Years Later (2020)](https://www.math.columbia.edu/~woit/wordpress/?p=12069) ([HN](https://news.ycombinator.com/item?id=25573989))
+- [String theory pros and cons (2018)](https://www.youtube.com/watch?v=6RQ6ugMWZ0c)
