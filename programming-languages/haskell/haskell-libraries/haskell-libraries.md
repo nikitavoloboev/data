@@ -103,6 +103,7 @@
 - [haskell-src](https://github.com/haskell-pkg-janitors/haskell-src) - Library for manipulating Haskell source code.
 - [Profunctors](https://github.com/ekmett/profunctors) - Haskell 98 Profunctors.
 - [MemoTrie](https://github.com/conal/MemoTrie) - Functional library for creating efficient memo functions, using tries.
+- [Kernmantle](https://github.com/tweag/kernmantle) - Braiding extensible effects together in a pipeline/workflow of tasks.
 
 ## Links
 
