@@ -202,6 +202,7 @@
 - [MatchCore](https://github.com/thautwarm/MatchCore.jl) - Minimal implementation of optimized pattern matching.
 - [ManualDispatch](https://github.com/jlapeyre/ManualDispatch.jl) - Avoid method dispatch at runtime.
 - [ExprTools](https://github.com/invenia/ExprTools.jl) - Light-weight expression manipulation tools.
+- [ConfParser](https://github.com/JuliaIO/ConfParser.jl) - Julia package for parsing configuration files.
 
 ## Links
 

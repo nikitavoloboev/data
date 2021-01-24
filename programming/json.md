@@ -11,6 +11,7 @@
 - [Verify JSON](https://github.com/yusufnb/verify-json) - Library to verify JSON structure easily using a lightweight JSON schema syntax. ([HN](https://news.ycombinator.com/item?id=22885527))
 - [How (not) to sign a JSON object (2019)](https://latacora.micro.blog/2019/07/24/how-not-to.html)
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [ijq](https://sr.ht/~gpanders/ijq/) - Interactive jq tool. ([Lobsters](https://lobste.rs/s/grp58v/ijq_interactive_jq))
 - [jq-repl](https://github.com/ashb/jqrepl) - REPL to make exploring data with JQ easier.
 - [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.
 - [Type Safety with JSON Subschema (2019)](https://arxiv.org/pdf/1911.12651.pdf)
