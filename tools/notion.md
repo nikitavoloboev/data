@@ -40,3 +40,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [UX Issues with Notion (2020)](https://telegra.ph/Notion-is-a-UX-Disaster-12-23) ([HN](https://news.ycombinator.com/item?id=25521487))
 - [React Notion X](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included.
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Perfect starter kit for building beautiful Next.js websites that are backed by Notion content.
+- [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - Enhancer/customiser for the all-in-one productivity workspace Notion.

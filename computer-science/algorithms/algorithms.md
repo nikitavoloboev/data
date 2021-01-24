@@ -66,6 +66,7 @@
 - [Numerical Algorithms (2015)](http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf)
 - [Using approximate nearest neighbor search in real world applications (2020)](https://blog.vespa.ai/using-approximate-nearest-neighbor-search-in-real-world-applications/)
 - [In search of the fastest concurrent Union-Find algorithm (2019)](https://arxiv.org/pdf/1911.06347.pdf)
+- [Computer Science 521 Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 
 ## Images
 
