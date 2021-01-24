@@ -8,6 +8,7 @@
 - [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([Code](https://github.com/sorbet/sorbet))
 - [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
 - [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.
+- [Artichoke Ruby Playground](https://artichoke.run/) ([Code](https://github.com/artichoke/playground))
 - [rubyfmt](https://github.com/penelopezone/rubyfmt) - Ruby Autoformatter.
 - [Ruby Next](https://github.com/ruby-next/ruby-next) - Transpiler for Ruby. ([HN](https://news.ycombinator.com/item?id=23078609))
 - [Rutie](https://github.com/danielpclark/rutie) - Integrate Ruby with your Rust application. Or integrate Rust with your Ruby application.

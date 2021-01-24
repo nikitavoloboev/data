@@ -185,3 +185,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [mebm](https://bwasti.github.io/mebm/) - Browser based video editor that supports animation of images and text overlays. ([Code](https://github.com/bwasti/mebm))
 - [How to build a video editor (2020)](https://www.veed.io/blog/how-to-build-a-video-editor/)
 - [Mibo](https://getmibo.com/) - Video chat that feels like real life. ([HN](https://news.ycombinator.com/item?id=25858814))
+- [CrowdNotifier - Decentralized Privacy-Preserving Presence Tracing](https://github.com/CrowdNotifier/documents)

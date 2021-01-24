@@ -65,3 +65,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Datadog Agent](https://github.com/DataDog/datadog-agent)
 - [Awesome Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Panelbear](https://panelbear.com/) - Fast and privacy-friendly website analytics.
+- [Squzy](https://github.com/squzy/squzy) - High-performance open-source monitoring, incident and alert system written in Go with Bazel.

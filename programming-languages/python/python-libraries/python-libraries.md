@@ -324,6 +324,7 @@
 - [AnyIO](https://github.com/agronholm/anyio) - High level compatibility layer for multiple asynchronous event loop implementations on Python.
 - [PySyncObj](https://github.com/bakwc/PySyncObj) - Library for replicating your python class between multiple servers, based on raft protocol.
 - [tractor](https://github.com/goodboy/tractor) - Structured concurrent, async-native "actor model" built on trio and multiprocessing.
+- [Synr](https://github.com/octoml/synr) - Library that provides a stable Abstract Syntax Tree for Python.
 
 ## Links
 
