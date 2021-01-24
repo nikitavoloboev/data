@@ -26,3 +26,5 @@
 - [Objective-C Properties Problems (2020)](https://whackylabs.com/objc/2020/03/12/objc-properties/)
 - [Lost art of manual memory management (2019)](https://whackylabs.com/objc/mrr/arc/2019/12/27/manual-memory-objc/)
 - [Objective-C Implementation and Performance Details for C and C++ Programmers (2017)](https://swolchok.github.io/objcperf/)
+- [Oral History of Brad Cox (2016)](https://www.youtube.com/watch?v=1xrL2d5omuA)
+- [Brad Cox has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225) ([HN](https://news.ycombinator.com/item?id=25876767))

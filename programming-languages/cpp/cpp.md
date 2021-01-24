@@ -180,3 +180,4 @@
 - [C++ std::async with a concurrency limit (via semaphores) (2021)](https://raymii.org/s/tutorials/Cpp_std_async_with_a_concurrency_limit.html)
 - [C++ Performance Trap #1: Constant-size std::vector (2021)](https://wolchok.org/posts/cxx-trap-1-constant-size-vector/)
 - [atJIT](https://github.com/kavon/atJIT) - Just-in-time autotuning compiler for C++.
+- [How to Pass a Variadic Pack as a First Argument of a Function in C++ (2021)](https://www.fluentcpp.com/2021/01/22/how-to-pass-a-variadic-pack-as-a-first-argument-of-a-function-in-cpp/) ([Lobsters](https://lobste.rs/s/2lxeln/how_pass_variadic_pack_as_first_argument))

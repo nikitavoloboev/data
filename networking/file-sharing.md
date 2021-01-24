@@ -54,3 +54,4 @@
 - [goploader](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant.
 - [ownCloud Infinite Scale](https://github.com/owncloud/ocis) - Modern file-sync and share platform. ([Docs](https://owncloud.github.io/ocis/))
 - [Nextcloud](https://nextcloud.com/) - On-premises file share and collaboration platform. ([Server Code](https://github.com/nextcloud/server))
+- [S3P - Massively Parallel S3 Copying (2021)](https://www.genui.com/open-source/s3p-massively-parallel-s3-copying)

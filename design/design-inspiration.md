@@ -314,6 +314,7 @@ Here are few more things I liked, design wise.
 - [Juanito Fatas](https://juanitofatas.com/)
 - [Damien Seguin](https://dmnsgn.me/)
 - [Heydon Pickering](https://heydonworks.com/)
+- [Ashley Blewer](https://ashleyblewer.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)
 - [Daniel Gross](https://dcgross.com/)
 - [Chelsea Voss](https://csvoss.com/)

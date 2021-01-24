@@ -134,6 +134,7 @@
 - [SpinalHDL](https://github.com/SpinalHDL/SpinalHDL) - Scala based HDL. Language to describe digital hardware. ([GitHub](https://github.com/SpinalHDL))
 - [AMD CDNA Architecture White paper (2020)](https://www.amd.com/system/files/documents/amd-cdna-whitepaper.pdf)
 - [reMarkable](https://remarkable.com/) - Next-generation paper tablet. ([Go CLI](https://github.com/juruen/rmapi)) ([HN](https://news.ycombinator.com/item?id=24295443)) ([HN 2](https://news.ycombinator.com/item?id=25124211)) ([Awesome reMarkable](https://github.com/reHackable/awesome-reMarkable))
+- [Quite the reMarkable Device (2021)](https://figbert.com/posts/remarkable-tablet/) ([Lobsters](https://lobste.rs/s/cdhgjg/quite_remarkable_device))
 - [Branch Prediction Is Not a Solved Problem: Measurements, Opportunities, and Future Directions (2019)](https://arxiv.org/abs/1906.08170)
 - [Hardware Debugging for Reverse Engineers (2020)](https://wrongbaud.github.io/posts/jtag-hdd/)
 - [Uniquely Identifying PCBs, Subassemblies, And Packaging (2020)](https://semiengineering.com/uniquely-identifying-pcbs-subassemblies-and-packaging/)

@@ -288,3 +288,4 @@
 - [Your legacy database is outgrowing itself (2021)](https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/) ([HN](https://news.ycombinator.com/item?id=25730778))
 - [An unlikely database migration (2021)](https://tailscale.com/blog/an-unlikely-database-migration/) ([HN](https://news.ycombinator.com/item?id=25767128))
 - [Kalavar](https://kalavar.cf/) - Project attempting to bring a fast, efficient, secure, and asynchronous query model to the modern database system. ([GitHub](https://github.com/KalavarDB))
+- [But how, exactly, databases use mmap? (2021)](https://brunocalza.me/but-how-exactly-databases-use-mmap/) ([Lobsters](https://lobste.rs/s/9ukket/how_exactly_databases_use_mmap))

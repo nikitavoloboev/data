@@ -130,3 +130,4 @@
 - [Smooth Voxel Terrain (2012)](https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/) ([HN](https://news.ycombinator.com/item?id=25690189))
 - [Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)
 - [Instant Meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator.
+- [Graphics in Overlapping Bitmap Layers (1983)](https://www.cs.tufts.edu/~nr/cs257/archive/rob-pike/pike-bitmap.pdf)

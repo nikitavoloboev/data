@@ -149,3 +149,4 @@
 - [DistSys Reading Group](https://www.youtube.com/channel/UCMKIroHVXvMQRIBhENE6RhQ/videos)
 - [CASPaxos: Replicated State Machines without logs (2018)](https://arxiv.org/abs/1802.07000) ([Code](https://github.com/gryadka/js))
 - [Consensus: Bridging Theory and Practice](https://github.com/ongardie/dissertation) - PhD dissertation on the Raft consensus algorithm.
+- [The Fundamental Mechanism of Scaling (2021)](http://brooker.co.za/blog/2021/01/22/cloud-scale.html)

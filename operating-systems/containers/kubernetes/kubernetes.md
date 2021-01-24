@@ -320,3 +320,4 @@
 - [Kube-router](https://github.com/cloudnativelabs/kube-router) - Turnkey solution for Kubernetes networking with aim to provide operational simplicity and high performance. ([Web](https://www.kube-router.io/))
 - [cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang.
 - [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
+- [K3s Private Cluster](https://github.com/sagittaros/terraform-k3s-private-cloud) - Deploy full fledged K3s private clusters with Terraform.
