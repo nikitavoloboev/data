@@ -323,3 +323,4 @@
 - [Flow-based Programming](https://jpaulm.github.io/fbp/index.html) - Programming paradigm that uses a "data processing factory" metaphor for designing and building applications. ([HN](https://news.ycombinator.com/item?id=25848542))
 - [Paradigms of Programming (OCaml + Prolog) (2020)](https://kcsrk.info/cs3100_m20/) ([Videos](https://www.youtube.com/playlist?list=PLt0HgEXFOHdkE-NTs87s7QjwYwqeihb-D)) ([Code](https://github.com/kayceesrk/cs3100_m20))
 - [Why isn't differential dataflow more popular?](https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/) ([Lobsters](https://lobste.rs/s/7zeb3x/why_isn_t_differential_dataflow_more)) ([HN](https://news.ycombinator.com/item?id=25867693))
+- [Software engineering topics I changed my mind on (2021)](https://chriskiehl.com/article/thoughts-after-6-years) ([HN](https://news.ycombinator.com/item?id=25887373))
