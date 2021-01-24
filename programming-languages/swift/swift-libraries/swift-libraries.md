@@ -149,6 +149,7 @@
 - [MTSlideToOpen](https://github.com/lemanhtien/MTSlideToOpen) - Simple SlideToUnlock iOS UI component.
 - [Scroll Mechanics](https://github.com/super-ultra/ScrollMechanics) - Scroll mechanics implementation.
 - [UltraDrawerView](https://github.com/super-ultra/UltraDrawerView)
+- [PagedLists](https://github.com/rootstrap/PagedLists) - Paginated UITableView and UICollectionViews for iOS.
 
 ## macOS
 
