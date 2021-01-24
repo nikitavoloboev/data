@@ -422,3 +422,4 @@ Go promotes composition over inheritance.
 - [Go Profiler Notes](https://github.com/felixge/go-profiler-notes) - Notes on the various go profiling methods that are available.
 - [A Tour of Go 1.16's io/fs package (2021)](https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/) ([Lobsters](https://lobste.rs/s/kixqgi/tour_go_1_16_s_io_fs_package))
 - [Packages as layers, not groups (2021)](https://www.gobeyond.dev/packages-as-layers/)
+- [gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics.

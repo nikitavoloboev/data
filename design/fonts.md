@@ -206,3 +206,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [I love Typography](https://ilovetypography.com/)
 - [VE Font Cache](https://github.com/hypernewbie/VEFontCache) - Single header-only GPU font rendering library designed for game engines.
 - [System Font CSS](https://github.com/jonathantneal/system-font-css) - Use the native system font of the OS running the browser. ([Web](https://jonneal.dev/system-font-css/))
+- [ab-glyph](https://github.com/alexheretic/ab-glyph) - Rust API for loading, scaling, positioning and rasterizing OpenType font glyphs.

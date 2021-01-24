@@ -185,3 +185,4 @@
 - [Lucid](https://github.com/Gossamer-React/Lucid) - Chrome Developer Tool designed to help engineers debug their React-GraphQL applications.
 - [TQL](https://github.com/timkendall/tql) - Write type-safe GraphQL queries with TypeScript.
 - [Supporting opt-in nested mutations in GraphQL (2021)](https://blog.logrocket.com/supporting-opt-in-nested-mutations-in-graphql/)
+- [FilamentQL](https://github.com/oslabs-beta/FilamentQL) - GraphQL query and caching solution.

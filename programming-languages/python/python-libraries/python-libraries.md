@@ -320,6 +320,7 @@
 - [nfcpy](https://github.com/nfcpy/nfcpy) - Python module to read/write NFC tags or communicate with another NFC device.
 - [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python. ([Web](https://ryven.org/))
 - [Timeflake](https://github.com/anthonynsimon/timeflake) - 128-bit, roughly-ordered, URL-safe UUID.
+- [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - Python regular expressions made easy.
 
 ## Links
 
