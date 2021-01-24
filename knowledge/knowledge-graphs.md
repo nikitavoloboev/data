@@ -63,3 +63,4 @@
 - [Sci-Map.org](https://sci-map.org/) - Open and collaborative learning map.
 - [ConceptNet](http://www.conceptnet.io/) - Open, multilingual knowledge graph. ([Code](https://github.com/commonsense/conceptnet5)) ([Blog](https://blog.conceptnet.io/))
 - [Knowledge Graphs Research](https://github.com/shaoxiongji/knowledge-graphs) - Collection of knowledge graph papers, codes, and reading notes.
+- [TorchKGE](https://github.com/torchkge-team/torchkge) - Knowledge Graph embedding in Python and PyTorch.

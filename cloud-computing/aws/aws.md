@@ -147,3 +147,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [SenseDeep](https://www.sensedeep.com/) - Serverless Monitoring and Troubleshooting. ([GitHub](https://github.com/sensedeep))
 - [Amazon EC2 Instance Selector](https://github.com/aws/amazon-ec2-instance-selector) - CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory.
 - [AWS Pricing Calculator](https://calculator.aws/#/) - Estimate the cost for your architecture solution.
+- [AWS Certified Cloud Practitioner Essentials - E-Learning Notes](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes)

@@ -173,6 +173,7 @@
 - [Vineyard](https://github.com/alibaba/libvineyard) - In-memory immutable data manager. ([Docs](https://v6d.io/)) ([HN](https://news.ycombinator.com/item?id=25832831))
 - [Dionysus](https://github.com/mrzv/dionysus) - Library for computing persistent homology.
 - [Parallel Hashmap](https://github.com/greg7mdp/parallel-hashmap) - Family of header-only, very fast and memory-friendly hashmap and btree containers.
+- [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping.
 
 ## Links
 

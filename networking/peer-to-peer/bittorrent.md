@@ -53,3 +53,4 @@
 - [rustorrent](https://github.com/sebastiencs/rustorrent) - BitTorrent library implemented in Rust.
 - [Defeating Vanish with Low-Cost Sybil Attacks Against Large DHTs (2010)](https://jhalderm.com/pub/papers/unvanish-ndss10-web.pdf)
 - [TorrentNet](https://github.com/lmatteis/torrent-net) - Distributed search engines using BitTorrent and SQLite. ([HN](https://news.ycombinator.com/item?id=25850181))
+- [sn_routing](https://github.com/maidsafe/sn_routing) - Specialised storage DHT.

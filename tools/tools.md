@@ -359,6 +359,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [UXBOX](https://github.com/uxbox/uxbox) - Open-Source prototyping tool. ([Web](https://uxbox.io/))
 - [ERPNext](https://erpnext.com/) - Free and Open Source Cloud ERP Software. ([Code](https://github.com/frappe/erpnext))
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+- [Deskreen](https://deskreen.com/) - Turns any device with a web browser to a second screen for your computer. ([Code](https://github.com/pavlobu/deskreen)) ([HN](https://news.ycombinator.com/item?id=25891464))
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
 - [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).
 - [Klarity](https://www.klaritylaw.com/) - Automatic review and mark-up of third party contracts.
