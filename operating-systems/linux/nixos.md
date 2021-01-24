@@ -114,3 +114,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nixus](https://github.com/Infinisil/nixus) - Experimental deployment tool for multiple NixOS systems.
 - [nixos.org website code](https://github.com/NixOS/nixos-homepage)
 - [Encrypted Secrets with NixOS (2021)](https://christine.website/blog/nixos-encrypted-secrets-2021-01-20) ([Lobsters](https://lobste.rs/s/gur8yy/encrypted_secrets_with_nixos))
+- [Offloading NixOS builds to a faster machine (2021)](https://sgt.hootr.club/molten-matter/nix-distributed-builds/)

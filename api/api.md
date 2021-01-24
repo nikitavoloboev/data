@@ -200,3 +200,4 @@
 - [AWS Smithy](https://awslabs.github.io/smithy/) - Language for defining services and SDKs. ([Code](https://github.com/awslabs/smithy))
 - [DevDocs](https://devdocs.io/) - API Documentation Search. ([Code](https://github.com/freeCodeCamp/devdocs))
 - [Metapine](https://metapine.com/) - Discover new & interesting APIs.
+- [Hydra: Hypermedia-Driven Web APIs](https://github.com/HydraCG/Specifications)

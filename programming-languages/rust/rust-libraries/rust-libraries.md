@@ -140,6 +140,7 @@
 - [expect-test](https://github.com/rust-analyzer/expect-test) - Minimalistic snapshot testing for Rust.
 - [QuickCheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
 - [httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
+- [iai](https://github.com/bheisler/iai) - Experimental One-shot Benchmark Framework in Rust.
 
 ## Error
 

@@ -321,6 +321,9 @@
 - [Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python. ([Web](https://ryven.org/))
 - [Timeflake](https://github.com/anthonynsimon/timeflake) - 128-bit, roughly-ordered, URL-safe UUID.
 - [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) - Python regular expressions made easy.
+- [AnyIO](https://github.com/agronholm/anyio) - High level compatibility layer for multiple asynchronous event loop implementations on Python.
+- [PySyncObj](https://github.com/bakwc/PySyncObj) - Library for replicating your python class between multiple servers, based on raft protocol.
+- [tractor](https://github.com/goodboy/tractor) - Structured concurrent, async-native "actor model" built on trio and multiprocessing.
 
 ## Links
 

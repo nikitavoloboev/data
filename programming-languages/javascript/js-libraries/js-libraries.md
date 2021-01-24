@@ -71,6 +71,7 @@
 - [Fishery](https://github.com/thoughtbot/fishery) - Library for setting up JavaScript objects as test data.
 - [pentf](https://github.com/boxine/pentf) - Parallel end-to-end test framework.
 - [test-flat](https://github.com/kettanaito/test-flat) - Test framework extension to support resources teardown and cleanup in flat tests.
+- [zora](https://github.com/lorenzofox3/zora) - Lightest, yet Fastest JavaScript test runner for nodejs and browsers.
 
 ## State management
 
@@ -459,3 +460,4 @@
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
 - [Awesome XState](https://github.com/darrylhebbes/awesome_xstate)
 - [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side.
+- [Scarf](https://about.scarf.sh/) - Installation analytics for your npm package. ([Code](https://github.com/scarf-sh/scarf-js))

@@ -47,3 +47,4 @@
 - [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - Rules engine expressed in JSON.
 - [JSON Editor](https://json-editor.github.io/json-editor/) - JSON Schema Based Editor. ([Code](https://github.com/json-editor/json-editor))
 - [On the complexity of JSON serialization (2020)](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/)
+- [JSON-LD Schema](https://github.com/mulesoft-labs/json-ld-schema) - Simple schema validation for linked data.

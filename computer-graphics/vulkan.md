@@ -37,3 +37,4 @@
 - [Vulkan Ecosystem Tools](https://github.com/LunarG/VulkanTools) - Tools to aid in Vulkan development including useful layers, trace and replay, and tests.
 - [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph) - Modern, cross platform, high performance scene graph library built upon Vulkan graphics/compute API. ([Web](https://vsg-dev.github.io/VulkanSceneGraph/))
 - [Vulkan-Headers](https://github.com/KhronosGroup/Vulkan-Headers) - Vulkan Header files and API registry.
+- [vulkan-renderer](https://github.com/inexorgame/vulkan-renderer) - New 3D game engine using modern C++ and Vulkan API.

@@ -262,3 +262,4 @@
 - [RUA](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options.
 - [BPF and Go: Modern forms of introspection in Linux (2020)](https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223)
 - [KVM-VMI](https://github.com/KVM-VMI/kvm-vmi) - KVM-based Virtual Machine Introspection. ([Docs](https://kvm-vmi.github.io/kvm-vmi/master/))
+- [Network Performance in the Linux Kernel (2021)](https://fosdem.org/2021/schedule/event/network_performance_in_kernel/attachments/slides/4433/export/events/attachments/network_performance_in_kernel/slides/4433/chevallier_network_performance_in_the_linux_kernel.pdf)
