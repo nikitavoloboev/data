@@ -2,6 +2,10 @@
 
 > Distributed consensus platform with meta-consensus capability
 
+## Applications
+
+- [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
+
 ## Links
 
 - [TezEdge](https://tezedge.com) - Tezos Explorer. ([Code](https://github.com/simplestaking/tezedge))

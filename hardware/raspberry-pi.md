@@ -60,3 +60,4 @@
 - [PiSugar2](https://github.com/PiSugar/PiSugar) - Battery module for Raspberry Pi zero / zero W / zero WH.
 - [Raspberry Pi LEGO sorter (2021)](https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/)
 - [pitop](https://github.com/PierreKieffer/pitop) - Raspberry Pi 4 terminal based activity monitor.
+- [Getting Started with Raspberry Pi Pico using MicroPython and C (2021)](https://www.cnx-software.com/2021/01/24/getting-started-with-raspberry-pi-pico-using-micropython-and-c/)
