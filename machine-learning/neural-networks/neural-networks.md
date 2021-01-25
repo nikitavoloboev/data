@@ -201,3 +201,4 @@
 - [char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch.
 - [Awesome Equivariant Networks](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
 - [Named Tensor Notation](https://namedtensor.github.io/) ([Code](https://github.com/namedtensor/notation))
+- [Applications of Deep Neural Networks v2 (2020)](https://arxiv.org/abs/2009.05673) ([HN](https://news.ycombinator.com/item?id=25898628))

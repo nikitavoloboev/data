@@ -64,3 +64,4 @@
 - [The Robson Tree Traversal (2019)](https://drs.is/post/robson-traversal/)
 - [Data structures and program structures](http://cr.yp.to/data.html)
 - [cdb](http://cr.yp.to/cdb.html) - Fast, reliable, simple package for creating and reading constant databases.
+- [PGM-index](https://pgm.di.unipi.it/) - Learned indexes that match B-tree performance with 83x less space. ([HN](https://news.ycombinator.com/item?id=25899286))

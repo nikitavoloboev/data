@@ -119,3 +119,4 @@
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
 - [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [Lighthouse Parade](https://github.com/cloudfour/lighthouse-parade) - Node.js command line tool that crawls a domain and gathers lighthouse performance data for every page.
+- [How we improved our website's performance (2021)](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/) ([HN](https://news.ycombinator.com/item?id=25874595))
