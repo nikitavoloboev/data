@@ -28,3 +28,4 @@
 - [Run Homebrew Natively on Apple Silicon Arm M1](https://github.com/mikelxc/Workarounds-for-ARM-mac) ([HN](https://news.ycombinator.com/item?id=25183120))
 - [Homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - Easy, convenient way to automatically update Homebrew.
 - [Using Homebrew on Apple Silicon M1 (MacOS Big Sur)](https://github.com/pforret/m1_homebrew)
+- [Brewlet](https://github.com/zkokaja/Brewlet) - Missing menulet for brew.sh: keeping your packages up-to-date, and your system secure.

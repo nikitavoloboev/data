@@ -150,6 +150,7 @@
 - [Scroll Mechanics](https://github.com/super-ultra/ScrollMechanics) - Scroll mechanics implementation.
 - [UltraDrawerView](https://github.com/super-ultra/UltraDrawerView)
 - [PagedLists](https://github.com/rootstrap/PagedLists) - Paginated UITableView and UICollectionViews for iOS.
+- [uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit) - Set of custom layouts for UICollectionView with examples.
 
 ## macOS
 

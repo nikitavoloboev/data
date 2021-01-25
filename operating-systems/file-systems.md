@@ -41,3 +41,4 @@
 - [GoDFS](https://github.com/rounakdatta/GoDFS) - Simple Distributed FileSystem written in Go. ([Article](https://rounakdatta.github.io/posts/godfs/))
 - [TiFS](https://github.com/Hexilee/tifs) - Distributed file system based on TiKV.
 - [HyperTag](https://github.com/SeanPedersen/HyperTag) - Helps humans intuitively express how they think about their files using tags and machine learning.
+- [sandboxfs](https://github.com/bazelbuild/sandboxfs) - Virtual file system for sandboxing.

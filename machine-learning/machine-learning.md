@@ -399,3 +399,4 @@
 - [Three mysteries in deep learning: Ensemble, knowledge distillation, and self-distillation (2021)](https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/)
 - [Awesome Federated Computing](https://github.com/tushar-semwal/awesome-federated-computing)
 - [Noah ML Research](https://github.com/huawei-noah/noah-research) - Research related code released by Huawei Noah's Ark Lab.
+- [Prototypical Networks for Few-shot Learning (2017)](https://arxiv.org/abs/1703.05175) ([Code](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch))
