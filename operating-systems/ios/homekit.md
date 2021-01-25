@@ -15,3 +15,4 @@
 - [Apple HomeKit firmware for Shelly switches](https://github.com/mongoose-os-apps/shelly-homekit)
 - [Why Thread is a game-changer for Apple's HomeKit (2021)](https://appleinsider.com/articles/20/11/13/why-thread-is-a-game-changer-for-apples-homekit)
 - [Scenecuts](https://github.com/nehayward/Scenecuts) - Simple menu bar app to trigger HomeKit scenes.
+- [esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Bring native Apple HomeKit support to any device based on an ESP8266/ESP8285 microcontroller.

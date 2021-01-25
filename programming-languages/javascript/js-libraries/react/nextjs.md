@@ -51,6 +51,7 @@
 - [next-router-scroll](https://github.com/moxystudio/next-router-scroll) - Take control of when scroll is updated and restored in your Next.js projects.
 - [babel-plugin-superjson-next](https://github.com/blitz-js/babel-plugin-superjson-next) - Automatically transform your Next.js Pages to use SuperJSON.
 - [next-csrf](https://github.com/j0lv3r4/next-csrf) - CSRF mitigation for Next.js.
+- [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules.
 
 ## Notes
 

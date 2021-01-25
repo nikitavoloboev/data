@@ -110,3 +110,4 @@
 - [MNN](https://github.com/alibaba/MNN) - Blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 - [Haste](https://github.com/lmnt-com/haste) - CUDA implementation of fused RNN layers with built-in DropConnect and Zoneout regularization.
 - [sklearn-xarray](https://github.com/phausamann/sklearn-xarray) - Metadata-aware machine learning.
+- [dabnn](https://github.com/JDAI-CV/dabnn) - Accelerated binary neural networks inference framework for mobile platform.

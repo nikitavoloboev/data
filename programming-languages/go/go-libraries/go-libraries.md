@@ -708,6 +708,7 @@
 - [AQL](https://github.com/flowchartsman/aql) - Lucene-inspired query language for Go.
 - [raft](https://github.com/hashicorp/raft) - Go implementation of the Raft consensus protocol.
 - [sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go.
+- [go-ordered-map](https://github.com/wk8/go-ordered-map) - Same as regular maps, but also remembers the order in which keys were inserted.
 
 ## Links
 

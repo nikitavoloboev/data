@@ -141,6 +141,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
 - [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)
 - [Artyom's tech notes](https://tek.brick.do/)
+- [Albert Zeyer](https://github.com/albertz/wiki)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))

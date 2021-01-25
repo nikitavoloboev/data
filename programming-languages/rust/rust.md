@@ -404,3 +404,4 @@
 - [Rust GUI: Introduction, a.k.a. the state of Rust GUI libraries (2021)](https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl)
 - [rust-starter](https://github.com/rust-starter/rust-starter) - Simple framework to build Rust CLI Applications. ([Web](https://rust-starter.github.io/)) ([GitHub](https://github.com/rust-starter)) ([HN](https://news.ycombinator.com/item?id=25903278))
 - [Rust Companies](https://github.com/omarabid/rust-companies) - Curated list of companies using Rust in production, organized by industry.
+- [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build / dev files for Rust projects.
