@@ -239,6 +239,7 @@
 - [GCProgressView](https://github.com/graycampbell/GCProgressView) - Simple SwiftUI progress view.
 - [Router](https://github.com/1amageek/Router) - Library that assists with SwiftUI view transitions.
 - [SwiftUIWindowStyles](https://github.com/martinlexow/SwiftUIWindowStyles) - Showcase of window and toolbar style combinations possible with SwiftUI on macOS.
+- [BetterSheet](https://github.com/egeniq/BetterSheet) - Powerful SwiftUI sheet replacement.
 
 ## Test
 

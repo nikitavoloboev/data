@@ -453,6 +453,7 @@
 - [pjson](https://github.com/tidwall/pjson) - JSON stream parser for Go.
 - [InternMap](https://github.com/mbostock/internmap) - Map and Set with automatic key interning.
 - [geometry-processing-js](https://github.com/GeometryCollective/geometry-processing-js) - Fast, general-purpose framework for geometry processing on the web.
+- [Iterplus](https://github.com/Aplet123/iterplus) - Best of Rust/Haskell/Python iterators in JavaScript.
 
 ## Links
 

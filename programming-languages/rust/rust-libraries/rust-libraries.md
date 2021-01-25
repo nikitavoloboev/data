@@ -141,6 +141,7 @@
 - [QuickCheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
 - [httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
 - [iai](https://github.com/bheisler/iai) - Experimental One-shot Benchmark Framework in Rust.
+- [Test Case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily.
 
 ## Error
 

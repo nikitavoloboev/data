@@ -199,3 +199,4 @@
 - [Postgres Guide](http://postgresguide.com/) ([Code](https://github.com/craigkerstiens/postgresguide.com))
 - [Postgres Book Collection](https://github.com/faisalbasra/postgres_books)
 - [Embedded Postgres Binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes.
+- [pg_activity](https://github.com/dalibo/pg_activity) - Command line tool for PostgreSQL server activity monitoring.
