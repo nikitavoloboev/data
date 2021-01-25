@@ -43,3 +43,5 @@
 - [The Beautiful Mess 2020](https://johnpcutler.github.io/tbm2020/) - Weekly posts on product management.
 - [The Product Manager’s Guide to the Strategy (2020)](https://nfng.pro/2020/05/08/strategy/)
 - [Product Notion](https://productnotion.co/) - Product Management Templates library in Notion.
+- [Escaping the Roadmap Trap (2021)](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
+- [Decisions, Decisions or Why Baskets of Options Dominate (2019)](https://medium.com/@kentbeck_7670/decisions-decisions-or-why-baskets-of-options-dominate-9ac63658b593)

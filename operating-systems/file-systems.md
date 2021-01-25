@@ -42,3 +42,4 @@
 - [TiFS](https://github.com/Hexilee/tifs) - Distributed file system based on TiKV.
 - [HyperTag](https://github.com/SeanPedersen/HyperTag) - Helps humans intuitively express how they think about their files using tags and machine learning.
 - [sandboxfs](https://github.com/bazelbuild/sandboxfs) - Virtual file system for sandboxing.
+- [GitHub File System](https://github.com/sirnewton01/ghfs) - With this filesystem you can use GitHub from your favorite shell and text editor.

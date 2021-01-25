@@ -88,3 +88,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Air Pollution Primer (2021)](https://www.babyfriendlyair.com/en/guides/air-pollution-primer/)
 - [Project Vesta](https://www.projectvesta.org/) - Help reverse climate change by turning a trillion tonnes of CO2 into rock.
 - [The Extinction Clock](https://extinctionclock.org/) - Internet's authoritative source for end of world climate and extinction predictions.
+- [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)

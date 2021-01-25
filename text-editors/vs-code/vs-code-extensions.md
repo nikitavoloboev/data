@@ -8,6 +8,7 @@ Below is a list of extensions I use.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.
+- [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron) - Hierarchal note taking tool that grows as you do.
 
 ## Go
 
@@ -117,7 +118,8 @@ Below is a list of extensions I use.
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support, with built-in Kubernetes syntax support. ([Code](https://github.com/redhat-developer/vscode-yaml))
 - [Wardley Maps](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Display and edit Wardley Maps. ([Code](https://github.com/damonsk/vscode-wardley-maps)) ([Tweet](https://twitter.com/owardleymaps/status/1321215623813357568))
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) ([Code](https://github.com/vscode-icons/vscode-icons))
-- [Stripe](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) ([Web](https://stripe.com/docs/stripe-vscode)) ([Tweet](https://twitter.com/auchenberg/status/1349772997993910272))
+- [Stripe](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) ([Web](https://stripe.com/docs/stripe-vscode)) ([Tweet](https://twitter.com/auchenberg/status/1349772997993910272)) ([Code](https://github.com/stripe/vscode-stripe))
+- [VSCode Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 
 ## Shell
 

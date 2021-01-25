@@ -59,3 +59,4 @@
 - [Terraform Landscape](https://github.com/coinbase/terraform-landscape) - Reformat output of `terraform plan` to be easier to read and understand.
 - [CDK for Terraform](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision.
 - [Terraform - The Missing Manual](https://gist.github.com/xirkus/e57cc20fe7fc95694e302887948e9b12)
+- [terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats.

@@ -218,3 +218,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more.
 - [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. ([Web](https://gogs.io/))
 - [git-big-picture](https://github.com/git-big-picture/git-big-picture) - Visualization tool for Git repositories.
+- [Mango](https://github.com/axic/mango) - Git, completely decentralised. Using Ethereum and P2P content addressable networks (Swarm, IPFS, SSB) as a backend to Git.

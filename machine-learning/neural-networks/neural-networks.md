@@ -202,3 +202,5 @@
 - [Awesome Equivariant Networks](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
 - [Named Tensor Notation](https://namedtensor.github.io/) ([Code](https://github.com/namedtensor/notation))
 - [Applications of Deep Neural Networks v2 (2020)](https://arxiv.org/abs/2009.05673) ([HN](https://news.ycombinator.com/item?id=25898628))
+- [Make Your Own Neural Network Blog](https://makeyourownneuralnetwork.blogspot.com/)
+- [Make Your Own Neural Network Book](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/) ([Code](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork))

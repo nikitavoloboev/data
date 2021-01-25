@@ -67,3 +67,5 @@
 - [Block Party](https://www.blockpartyapp.com/) - Filter out unwanted @mentions from Twitter, and continue to use Twitter as normal.
 - [Trendsmap](https://www.trendsmap.com/) - Twitter Trending Hashtags and Topics.
 - [Tweetpik](https://tweetpik.vercel.app/) - Convert Tweets to Images.
+- [TwitRSS.me](https://github.com/ciderpunx/twitrssme) - Tool to make Twitter timelines and searches into RSS feeds.
+- [Twitter Account Data Analysis](https://github.com/engali94/Twitter-Account-Analyzer) - Using various Python libraries such as Pandas, tweetPy, JSON ans matplotLib to take a sneak peek on your Twitter account using Google Colab.

@@ -21,3 +21,4 @@
 - [gnark](https://github.com/ConsenSys/gnark) - Fast, open-source library for zero-knowledge proof protocols written in Go.
 - [Reverie: An optimized zero-knowledge proof system (2020)](https://blog.trailofbits.com/2020/12/14/reverie-an-optimized-zero-knowledge-proof-system/)
 - [Tau Prolog](http://tau-prolog.org/) - Prolog interpreter in JavaScript. ([Code](https://github.com/tau-prolog/tau-prolog))
+- [Zero Knowledge Paillier](https://github.com/ZenGo-X/zk-paillier) - Collection of Paillier cryptosystem zero knowledge proofs written in Rust.

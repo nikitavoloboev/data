@@ -177,3 +177,5 @@
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
 - [node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write native Node.js module using idiomatic Rust.
 - [tasksfile](https://github.com/pawelgalazka/tasksfile) - Minimalistic task runner for node.js.
+- [Node.js race conditions (2021)](https://www.nodejsdesignpatterns.com/blog/node-js-race-conditions/)
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs().

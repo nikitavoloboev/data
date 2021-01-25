@@ -39,3 +39,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Freedom of Speech (2019)](https://plato.stanford.edu/entries/freedom-speech/) ([HN](https://news.ycombinator.com/item?id=25775003))
 - [Perspectivism | Beyond Good and Evil](https://www.youtube.com/watch?v=xPLq4NgHM48)
 - [Christopher Anadale - YouTube](https://www.youtube.com/c/ChristopherAnadale/featured) - Teaches philosophy.
+- [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)

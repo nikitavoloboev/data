@@ -134,3 +134,4 @@
 - [Towards sockets and networking in WebAssembly and WASI (2020)](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
 - [box2d-wasm](https://github.com/Birch-san/box2d-wasm) - Box2D physics engine compiled to WebAssembly. Supports TypeScript and ES modules.
 - [wasm-tool/wasi](https://github.com/wasm-tool/wasi) - Import WebAssembly modules that expose the WebAssembly System Interface (WASI).
+- [Fizzy](https://github.com/wasmx/fizzy) - Fast, deterministic, and pedantic WebAssembly interpreter written in C++.

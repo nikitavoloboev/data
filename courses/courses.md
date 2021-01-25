@@ -30,3 +30,4 @@
 - [Ask HN: Top Coursera Courses? (2020)](https://news.ycombinator.com/item?id=25245125)
 - [Skillshare](https://www.skillshare.com/) - Online Classes.
 - [Instil](https://instil.live/) - Platform for creating and monetising live classes.
+- [Gatsby Course Starter](https://github.com/btholt/gatsby-course-starter) - Gatsby starter project to help you create educational materials.

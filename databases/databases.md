@@ -124,6 +124,8 @@
 - [InfiniCache](https://github.com/mason-leap-lab/infinicache) - In-memory cache that is built atop ephemeral serverless functions. ([HN](https://news.ycombinator.com/item?id=25788893))
 - [Blazegraph](https://github.com/blazegraph/database) - Ultra high-performance graph database supporting Blueprints and RDF/SPARQL APIs.
 - [Escanor](https://github.com/mambisi/escanor) - High performance key value database with useful json document indexing and manipulations.
+- [Condensation](https://condensation.io/) - General-purpose distributed data system with conflict-free synchronization, and inherent end-to-end security. ([GitHub](https://github.com/CondensationDB))
+- [ZenoDB](https://github.com/getlantern/zenodb) - Go-based embeddable time series database optimized for performing aggregated analytical SQL queries on dimensional data.
 
 ## Tools
 

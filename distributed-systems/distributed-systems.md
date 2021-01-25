@@ -150,3 +150,4 @@
 - [CASPaxos: Replicated State Machines without logs (2018)](https://arxiv.org/abs/1802.07000) ([Code](https://github.com/gryadka/js))
 - [Consensus: Bridging Theory and Practice](https://github.com/ongardie/dissertation) - PhD dissertation on the Raft consensus algorithm.
 - [The Fundamental Mechanism of Scaling (2021)](http://brooker.co.za/blog/2021/01/22/cloud-scale.html)
+- [Ray](https://ray.io/) - Simple, universal API for building distributed applications. Accelerating machine learning workloads. ([Code](https://github.com/ray-project/ray)) ([Docs](https://docs.ray.io/en/master/index.html))

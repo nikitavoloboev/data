@@ -162,7 +162,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Refined GitHub](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features.
 - [Gitako](https://github.com/EnixCoda/Gitako) - File tree extension for GitHub.
 - [GitHub Source Code Leak (2020)](https://web.archive.org/web/20201104050026if_/https://github.com/github/dmca/tree/565ece486c7c1652754d7b6d2b5ed9cb4097f9d5) ([HN](https://news.ycombinator.com/item?id=24994746))
-- [GitHub Support Community](https://github.community/)
+- [GitHub Support Community](https://github.community/) ([Latest](https://github.community/latest))
 - [GitHub Unofficial Issue Tracker](https://github.com/isaacs/github)
 - [publish-release](https://github.com/remixz/publish-release) - Create GitHub releases with assets from CLI, or from JS.
 - [GitHub Desktop](https://github.com/desktop/desktop) - Open source Electron-based GitHub . ([Web](https://desktop.github.com/))
@@ -188,3 +188,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Renaming the default branch on GitHub](https://github.com/github/renaming)
 - [GitHub Stale Bots – A False Economy (2021)](https://blog.benwinding.com/github-stale-bots/) ([HN](https://news.ycombinator.com/item?id=25821092))
 - [GitHub Socialify](https://socialify.git.ci/) - Generate a nice image for a GitHub repo. ([Code](https://github.com/wei/socialify))
+- [Get notified when a file on GitHub has changed (2021)](https://blog.mastykarz.nl/get-notified-file-github-changed/)

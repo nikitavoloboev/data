@@ -81,3 +81,4 @@
 - [Probabilistic Machine Learning](https://github.com/probml/pml-book) - Book series by Kevin Murphy.
 - [Predictive Modeling: A Retrospective (2021)](https://www.shreya-shankar.com/8d5c6ec070babe7c23d3d5b68384a8bd/retrospective.pdf)
 - [Categories of Nets (2021)](https://johncarlosbaez.wordpress.com/2021/01/17/categories-of-nets/) ([HN](https://news.ycombinator.com/item?id=25820741))
+- [Statistical Typing: A Runtime Type System for Data Science and Machine Learning (2020)](https://blog.pandera.ci/statistical%20typing/unit%20testing/2020/12/26/statistical-typing.html)

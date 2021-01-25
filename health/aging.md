@@ -51,3 +51,5 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Anti-Aging: State of the Art (2020)](https://www.lesswrong.com/posts/RcifQCKkRc9XTjxC2/anti-aging-state-of-the-art) ([HN](https://news.ycombinator.com/item?id=25607664))
 - [Japanese people may have gained longevity by balancing their diets (2021)](https://www.economist.com/graphic-detail/2021/01/16/japanese-people-may-have-gained-longevity-by-balancing-their-diets) ([HN](https://news.ycombinator.com/item?id=25817684))
 - [Anti-ageing effects of protein restriction unpacked (2021)](https://www.nature.com/articles/d41586-020-03662-x)
+- [Request for Startups in the Rejuvenation Biotechnology Space (2021)](https://www.fightaging.org/archives/2021/01/request-for-startups-in-the-rejuvenation-biotechnology-space-2021-edition/)
+- [Fight Aging](https://www.fightaging.org/) - Science of rejuvenation biotechnology.

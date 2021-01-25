@@ -11,3 +11,5 @@
 - [The Thoughts of a Spiderweb](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/) - Spiders appear to offload cognitive tasks to their webs, making them one of a number of species with a mind that isn’t fully confined within the head.
 - [Quantum approaches to music cognition (2020)](https://arxiv.org/abs/1712.07417)
 - [Great reads to learn cognitive sciences (2021)](https://www.reddit.com/r/cogsci/comments/kuz4h7/i_want_to_study_cognitive_sciences_in_the_future/)
+- [Brainiac](https://kickstartsidehustle.com/brainiac/) - Database of 150 cognitive biases that control our decisions.
+- [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) ([Tweet](https://twitter.com/hunterwalk/status/1353109998713229317))

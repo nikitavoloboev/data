@@ -128,3 +128,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mnm](https://mnmnotmail.org/) - Open source project to replace email & SMTP. ([HN](https://news.ycombinator.com/item?id=25804869)) ([Code](https://github.com/networkimprov/mnm))
 - [Umbriel](https://github.com/diego3g/umbriel) - Email marketing platform built with Node.js, TypeScript and DDD concepts.
 - [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. ([ProtonMail Bridge](https://github.com/ProtonMail/proton-bridge)) ([GitHub](https://github.com/ProtonMail))
+- [Mailgun.js](https://github.com/mailgun/mailgun-js) - JavaScript SDK for Mailgun.

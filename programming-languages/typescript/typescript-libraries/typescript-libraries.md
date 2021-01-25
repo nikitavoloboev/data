@@ -95,6 +95,7 @@
 - [typelevel-ts](https://github.com/gcanti/typelevel-ts) - Type level programming in TypeScript.
 - [Type Zoo](https://github.com/pelotom/type-zoo) - Menagerie of useful type operators for TypeScript.
 - [REST Services for Typescript](https://github.com/thiagobustamante/typescript-rest) - Lightweight annotation-based expressjs extension for typescript.
+- [elm-ts](https://github.com/gcanti/elm-ts) - Porting of The Elm Architecture to TypeScript featuring fp-ts, RxJS and React.
 
 ## Links
 

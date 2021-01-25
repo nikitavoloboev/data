@@ -55,6 +55,8 @@
 - [SOUL (SOUnd Language)](https://github.com/soul-lang/SOUL) - Attempt to modernise and optimise the way high-performance, low-latency audio code is written and executed.
 - [RaveForce](https://github.com/chaosprint/RaveForce) - Environment that allows you to define your musical task in SuperCollider, and train an agent to do the task in Python with APIs similar to the OpenAI Gym.
 - [libsamplerate](https://github.com/libsndfile/libsamplerate) - Library for performing sample rate conversion of audio data. ([Web](http://libsndfile.github.io/libsamplerate/))
+- [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator) - JavaScript MIDI Music Pattern Generator.
+- [Zrythm](https://www.zrythm.org/en/) - Highly automated and intuitive digital audio workstation. ([Code](https://github.com/zrythm/zrythm))
 
 ## Inspiration
 

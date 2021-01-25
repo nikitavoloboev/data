@@ -6,7 +6,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 ## Interesting OSes
 
-- [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5))
+- [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI))
 - [QubesOS](https://www.qubes-os.org/)
 - [Plan 9](https://9p.io/plan9/) ([Plan 9 C Compiler for RISC-V](https://www.youtube.com/watch?v=LHJqdXGb0uc))
 - [Fuchsia](fuchsia-os.md)

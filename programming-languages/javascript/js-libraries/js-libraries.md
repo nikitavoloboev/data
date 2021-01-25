@@ -72,6 +72,7 @@
 - [pentf](https://github.com/boxine/pentf) - Parallel end-to-end test framework.
 - [test-flat](https://github.com/kettanaito/test-flat) - Test framework extension to support resources teardown and cleanup in flat tests.
 - [zora](https://github.com/lorenzofox3/zora) - Lightest, yet Fastest JavaScript test runner for nodejs and browsers.
+- [Vest](https://github.com/ealush/vest) - Declarative Validation Testing.
 
 ## State management
 
@@ -454,6 +455,8 @@
 - [InternMap](https://github.com/mbostock/internmap) - Map and Set with automatic key interning.
 - [geometry-processing-js](https://github.com/GeometryCollective/geometry-processing-js) - Fast, general-purpose framework for geometry processing on the web.
 - [Iterplus](https://github.com/Aplet123/iterplus) - Best of Rust/Haskell/Python iterators in JavaScript.
+- [SmolScroll](https://github.com/smolscrolljs/smolscroll) - Tiny, flexible scroll listener with React support.
+- [Observable parser](https://github.com/observablehq/parser)
 
 ## Links
 

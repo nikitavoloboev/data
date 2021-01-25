@@ -17,6 +17,7 @@
 - [python-proxy](https://github.com/qwj/python-proxy) - HTTP/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python3 asyncio.
 - [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) - Python GraphQL library based on dataclasses. ([Web](https://strawberry.rocks/))
 - [FastAPI Cloud Auth](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+- [FastAPI Users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI.
 - [Frappe](https://github.com/frappe/frappe) - Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library.
 
 ## ML
@@ -73,6 +74,7 @@
 - [ormar](https://github.com/collerek/ormar) - Async mini ORM for Python, with support for Postgres, MySQL, and SQLite.
 - [yoyo-migrations](https://pypi.org/project/yoyo-migrations/) - Database schema migration tool. Database migrations can be written as SQL files or Python scripts.
 - [PyPika](https://github.com/kayak/pypika) - Python API for building SQL queries. Excels at all sorts of SQL queries but is especially useful for data analysis.
+- [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - Easy-to-use asyncio ORM inspired by Django.
 
 ## GUI
 
@@ -274,7 +276,7 @@
 - [RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python. ([Docs](https://rxpy.readthedocs.io/en/latest/))
 - [Frictionless](https://github.com/frictionlessdata/frictionless-py) - Framework to describe, extract, validate, and transform tabular data. ([Web](https://frictionlessdata.io/))
 - [huey](https://github.com/coleifer/huey) - Little task queue for python.
-- [Tree](https://github.com/deepmind/tree) - Library for working with nested data structures.
+- [Tree](https://github.com/deepmind/tree) - Library for working with nested data structures. ([HN](https://news.ycombinator.com/item?id=25886682))
 - [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 - [cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators.
 - [structlog](https://github.com/hynek/structlog) - Structured Logging for Python.
@@ -325,6 +327,9 @@
 - [PySyncObj](https://github.com/bakwc/PySyncObj) - Library for replicating your python class between multiple servers, based on raft protocol.
 - [tractor](https://github.com/goodboy/tractor) - Structured concurrent, async-native "actor model" built on trio and multiprocessing.
 - [Synr](https://github.com/octoml/synr) - Library that provides a stable Abstract Syntax Tree for Python.
+- [Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
+- [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - Collection of links and notes on forced alignment tools.
+- [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python.
 
 ## Links
 
@@ -342,3 +347,4 @@
 - [Best of Web Development with Python](https://github.com/ml-tooling/best-of-web-python) - Ranked list of awesome python libraries for web development.
 - [Serverless Python Requirements](https://github.com/UnitedIncome/serverless-python-requirements) - Serverless plugin to bundle Python packages.
 - [pydeps](https://github.com/thebjorn/pydeps) - Python module dependency visualization.
+- [pdoc](https://pdoc.dev/) - Auto-generate API documentation for Python projects. ([Code](https://github.com/mitmproxy/pdoc))

@@ -186,3 +186,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [How to build a video editor (2020)](https://www.veed.io/blog/how-to-build-a-video-editor/)
 - [Mibo](https://getmibo.com/) - Video chat that feels like real life. ([HN](https://news.ycombinator.com/item?id=25858814))
 - [CrowdNotifier - Decentralized Privacy-Preserving Presence Tracing](https://github.com/CrowdNotifier/documents)
+- [Visualization tool for live music performances](https://github.com/bartjoyce/video-app) - Built with C++.

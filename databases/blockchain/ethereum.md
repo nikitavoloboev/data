@@ -157,3 +157,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Frontier](https://github.com/paritytech/frontier) - Substrate's Ethereum compatibility layer. It allows you to run unmodified Ethereum dapps.
 - [Solang](https://github.com/hyperledger-labs/solang) - Solidity to wasm compiler written in rust. ([Docs](https://solang.readthedocs.io/en/latest/))
 - [Aave](https://aave.com/) - Open Source DeFi Protocol. ([Code](https://github.com/aave/protocol-v2))
+- [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM).

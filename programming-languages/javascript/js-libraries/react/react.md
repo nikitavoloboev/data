@@ -200,3 +200,4 @@
 - [Why React Context Is Not “State Management”(and Why It Doesn't Replace Redux) (2021)](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
 - [issr](https://github.com/AlexSergey/issr) - Easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 - [Why Did You Render? (2020)](https://haspar.us/why-did-you-render)
+- [Tao of React - Software Design, Architecture & Best Practices (2021)](https://alexkondov.com/tao-of-react/)

@@ -17,3 +17,4 @@
 - [CoMind](https://comind.io/) - Next generation non-invasive brain-computer interfaces.
 - [Classifying brain activity using low-cost biosensors and automated time tracking](https://github.com/ErikBjare/thesis)
 - [No Implants Needed for Precise Control Deep into the Brain (2020)](https://spectrum.ieee.org/the-human-os/biomedical/devices/deep-brain-control-without-implants) ([HN](https://news.ycombinator.com/item?id=24898772))
+- [Development of optically controlled “living electrodes” with long-projecting axon tracts for a synaptic brain-machine interface (2021)](https://advances.sciencemag.org/content/7/4/eaay5347)

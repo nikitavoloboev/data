@@ -13,3 +13,5 @@
 - [kuska-ssb](https://github.com/Kuska-ssb/ssb) - Secure Scuttlebutt Rust library.
 - [HN: Scuttlebutt (2021)](https://news.ycombinator.com/item?id=25713830)
 - [SSB Drive](https://github.com/cn-uofbasel/ssbdrv) - Decentralized file system over Secure Scuttlebutt.
+- [kuska handshake](https://github.com/Kuska-ssb/handshake) - Secure Scuttlebutt handshake + boxstream library.
+- [SSB-DB2](https://github.com/ssb-ngi-pointer/ssb-db2) - New database for secure-scuttlebutt.

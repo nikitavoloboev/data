@@ -160,6 +160,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
+- [MediaEdits.io](https://mediaedits.io/) - Remove unwanted background noise from audio files. Built with WebAssembly.
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
 - [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
 - [Causal](https://www.causal.app/) - Clearer way to work with numbers.
@@ -337,6 +338,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Excalidraw](https://www.excalidraw.com) - Sketch hand-drawn like diagrams. ([Code](https://github.com/excalidraw/excalidraw)) ([Excalidraw Embed](https://github.com/excalidraw/excalidraw-embed))
 - [SketchViz](https://sketchviz.com/new) - Create Graphviz graphs.
 - [OverAPI](http://overapi.com/) - Collecting All Cheat Sheets.
+- [Curabase](https://www.curabase.com/) - Modern browser bookmarking tool for teams, research, or just yourself.
 - [Mix](https://mix.com/) - Personalized discovery platform that unlocks more of the internet you care about.
 - [QR Menu Creator](https://qrmenucreator.com/) - Make Your Restaurant or Bar Menu in a QR Code. ([Tweet](https://twitter.com/levelsio/status/1318890523743182851))
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.

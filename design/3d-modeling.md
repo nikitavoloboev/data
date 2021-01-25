@@ -32,3 +32,4 @@
 - [Draco](https://github.com/google/draco) - Library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. ([Web](https://google.github.io/draco/))
 - [Cascade Studio](https://zalo.github.io/CascadeStudio/) - Full Live-Scripted CAD Kernel and IDE in the Browser. ([Code](https://github.com/zalo/CascadeStudio))
 - [Learning 3D Modeling in 14 Weeks (2021)](https://samanthaz.me/writing/learning-3d-modeling-in-14-weeks)
+- [Anim8or](https://www.anim8or.com/) - 3D modelling and character animation.

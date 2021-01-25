@@ -151,6 +151,7 @@
 - [UltraDrawerView](https://github.com/super-ultra/UltraDrawerView)
 - [PagedLists](https://github.com/rootstrap/PagedLists) - Paginated UITableView and UICollectionViews for iOS.
 - [uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit) - Set of custom layouts for UICollectionView with examples.
+- [Loading Buttons](https://github.com/twho/loading-buttons-ios) - Collection of loading buttons and their stylings written in Swift.
 
 ## macOS
 
@@ -241,6 +242,7 @@
 - [Router](https://github.com/1amageek/Router) - Library that assists with SwiftUI view transitions.
 - [SwiftUIWindowStyles](https://github.com/martinlexow/SwiftUIWindowStyles) - Showcase of window and toolbar style combinations possible with SwiftUI on macOS.
 - [BetterSheet](https://github.com/egeniq/BetterSheet) - Powerful SwiftUI sheet replacement.
+- [swiftui-navigation-stack](https://github.com/matteopuc/swiftui-navigation-stack) - Alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 
 ## Test
 
@@ -583,6 +585,7 @@
 - [Swift Dhall](https://github.com/MaxDesiatov/swift-dhall) - Swift implementation of the Dhall configuration language.
 - [SwiftOSC](https://github.com/ExistentialAudio/SwiftOSC) - Open Sound Control client and server framework written in Swift.
 - [AudioStreamer](https://github.com/syedhali/AudioStreamer) - Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine.
+- [BezierKit](https://github.com/hfutrell/BezierKit) - Comprehensive Bezier Path library written in Swift.
 
 ## Other (not lib)
 

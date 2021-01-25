@@ -30,3 +30,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Krita](https://krita.org/en) - Professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone. ([HN](https://news.ycombinator.com/item?id=24775216))
 - [Dimensions](https://www.dimensions.com/) - Database of Dimensioned Drawings.
 - [Paint.wtf](https://paint.wtf/) - Convince an AI that you're the best artist. ([HN](https://news.ycombinator.com/item?id=25822610)) ([HN 2](https://news.ycombinator.com/item?id=25830087))
+- [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/) ([HN](https://news.ycombinator.com/item?id=25882377))

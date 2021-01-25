@@ -32,7 +32,6 @@
 - [KataGo](https://github.com/lightvector/KataGo) - Research and experimentation with self-play training in Go.
 - [Catalyst](https://github.com/catalyst-team/catalyst) - Reproducible and fast DL & RL.
 - [The Mathematics of AlphaGo (2019)](https://www.youtube.com/watch?v=rOiaZ1hVb-A)
-- [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 - [Value Prediction Network (2017)](https://arxiv.org/abs/1707.03497)
 - [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (2019)](https://arxiv.org/abs/1911.08265) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/dzakrs/r_191108265_mastering_atari_go_chess_and_shogi_by/)) ([Article](https://venturebeat.com/2019/11/20/deepminds-muzero-teaches-itself-how-to-win-at-atari-chess-shogi-and-go/))
 - [BCQ](https://github.com/sfujim/BCQ) - PyTorch implementation of BCQ for "Off-Policy Deep Reinforcement Learning without Exploration".
@@ -161,3 +160,4 @@
 - [Awesome RL Competitions](https://github.com/seungjaeryanlee/awesome-rl-competitions)
 - [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
 - [OpenAI PLE environment](https://github.com/lusob/gym-ple) - Learning environment, mimicking the Arcade Learning Environment interface.
+- [h-baselines](https://github.com/AboudyKreidieh/h-baselines) - High-performing hierarchical reinforcement learning models and algorithms.

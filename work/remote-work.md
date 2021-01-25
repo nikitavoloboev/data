@@ -91,3 +91,4 @@
 - [The guide on 1-on-1 meetings for remote teams (2020)](https://nohq.co/blog/guide-to-1-on-1-meetings-in-remote-teams/)
 - [Teamflow](https://www.teamflowhq.com/) - Feel like a team again. Virtual office for your team to hang out in.
 - [Ask HN: Anyone else burnt out due to extended lockdown and work-from-home? (2021)](https://news.ycombinator.com/item?id=25833639)
+- [Why Working from Home Will Stick](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf) ([HN](https://news.ycombinator.com/item?id=25882704))

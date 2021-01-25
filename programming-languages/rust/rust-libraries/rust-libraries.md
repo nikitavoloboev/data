@@ -186,6 +186,7 @@
 
 - [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
 - [libkrun](https://github.com/containers/libkrun) - Dynamic library providing KVM-based process isolation capabilities.
+- [io-uring](https://github.com/tokio-rs/io-uring) - Linux IO Uring.
 
 ## ML
 
@@ -679,6 +680,12 @@
 - [shuffling-allocator](https://github.com/fitzgen/shuffling-allocator)
 - [governor](https://github.com/antifuchs/governor) - Library for regulating the flow of data.
 - [flurry](https://github.com/jonhoo/flurry) - Port of Java's ConcurrentHashMap to Rust.
+- [fast-float](https://github.com/aldanor/fast-float-rust) - Super-fast decimal number parser from strings into floats.
+- [saifish](https://github.com/Kogia-sima/sailfish) - Simple, small, and extremely fast template engine for Rust. ([Docs](https://sailfish.netlify.app/en/))
+- [async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors.
+- [Minitrace](https://github.com/tikv/minitrace-rust) - High-performance timeline tracing library for Rust, used by TiKV.
+- [freeverb-rs](https://github.com/irh/freeverb-rs) - Rust implementation of the Freeverb algorithm.
+- [Trie](https://github.com/paritytech/trie) - Generic implementation of the Base-16 Modified Merkle Tree ("Trie") data structure.
 
 ## Cargo Plugins
 
@@ -726,3 +733,4 @@
 - [Language development libraries for Rust](https://github.com/Kixiron/rust-langdev)
 - [cargo-cacher](https://github.com/ChrisMacNaughton/cargo-cacher) - Caching server for crates + cargo.
 - [Expose a Rust Library to Other Languages (2021)](https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html)
+- [rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates.

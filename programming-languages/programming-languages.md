@@ -165,3 +165,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Theory and Practice of Programming Languages](https://research.cs.queensu.ca/home/jana/PL/) ([Racket implementation](https://github.com/lexi-lambda/racket-higher-rank))
 - [Quine Relay](https://github.com/mame/quine-relay) - Ruby program that generates Rust program that generates Scala program that generates.
 - [Language Graph](https://akr.am/languages/) - Shows a graph where the nodes are programming languages and the edges are compilers. ([Code](https://github.com/mohd-akram/languages))
+- [GumTree](https://github.com/GumTreeDiff/gumtree) - Complete framework to deal with source code as trees and compute differences between them.

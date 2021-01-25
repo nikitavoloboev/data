@@ -33,3 +33,4 @@ Change comes gradually, then suddenly.
 - [Остановить всё, чтобы задержать Навального (2021)](https://www.youtube.com/watch?v=V8TfOHbl5k8)
 - [Novichok nerve agent poisoning (2020)](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32644-1/fulltext>) ([HN](https://news.ycombinator.com/item?id=25866393))
 - [Сергей Гуриев о протестах/ Навальном/ санкциях/дворце Путина/ вариантах Кремля (2021)](https://www.youtube.com/watch?v=EOIP_icM0Js)
+- [Вася Обломов - В очереди](https://www.youtube.com/watch?v=ruBJnshPfOI)

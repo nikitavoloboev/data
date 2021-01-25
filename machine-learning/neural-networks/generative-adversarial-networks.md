@@ -87,3 +87,7 @@
 - [KernelGAN](https://github.com/sefibk/KernelGAN) - Blind Super-Resolution Kernel Estimation using an Internal-GAN.
 - [Mimicry](https://github.com/kwotsin/mimicry) - Lightweight PyTorch library aimed towards the reproducibility of GAN research.
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (2017)](https://arxiv.org/abs/1703.05921) ([Code](https://github.com/xtarx/Unsupervised-Anomaly-Detection-with-Generative-Adversarial-Networks))
+- [Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains](https://github.com/justinpinkney/toonify)
+- [Scaling up StyleGAN2](https://github.com/l4rz/scaling-up-stylegan2) - Achieving photorealistic quality by scaling up StyleGAN2.
+- [StyleGAN2-Surgery](https://github.com/aydao/stylegan2-surgery) - StyleGAN2 fork with scripts and convenience modifications for creative media synthesis.
+- [Practical aspects of StyleGAN2 training](https://github.com/l4rz/practical-aspects-of-stylegan2-training)

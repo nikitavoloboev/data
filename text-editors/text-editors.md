@@ -39,6 +39,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Scribble](https://github.com/ryangjchandler/scribble) - Experimental terminal text-editor written in Rust.
 - [Uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI.
 - [novelWriter](https://github.com/vkbo/novelWriter) - Markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents. ([Web](https://novelwriter.io/)) ([HN](https://news.ycombinator.com/item?id=25833328))
+- [AX Editor](https://github.com/engali94/ax-editor) - Code editor with syntax highlighting that runs in your terminal written completely in Swift.
 
 ## Web
 

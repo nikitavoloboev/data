@@ -402,3 +402,5 @@
 - [Rust: Structuring and handling errors in 2020](https://nick.groenen.me/posts/rust-error-handling/) ([HN](https://news.ycombinator.com/item?id=25805340))
 - [Rust is a hard way to make a web API (2021)](https://macwright.com/2021/01/15/rust.html) ([HN](https://news.ycombinator.com/item?id=25798008)) ([Lobsters](https://lobste.rs/s/275ihk/rust_is_hard_way_make_web_api))
 - [Rust GUI: Introduction, a.k.a. the state of Rust GUI libraries (2021)](https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl)
+- [rust-starter](https://github.com/rust-starter/rust-starter) - Simple framework to build Rust CLI Applications. ([Web](https://rust-starter.github.io/)) ([GitHub](https://github.com/rust-starter)) ([HN](https://news.ycombinator.com/item?id=25903278))
+- [Rust Companies](https://github.com/omarabid/rust-companies) - Curated list of companies using Rust in production, organized by industry.
