@@ -9,3 +9,4 @@
 - [Introduction to numerical analysis course](https://github.com/mitmath/18330)
 - [What topics in real analysis are most important to review before a Statistics PhD? (2020)](https://www.reddit.com/r/statistics/comments/flmo8z/e_what_topics_in_real_analysis_are_most_important/)
 - [Mark Schmidt of UBC, giving an animated guest lecture on fast optimization algorithms for deep learning (2020)](https://www.youtube.com/watch?v=nk4M-kYvaNU)
+- [Principles of Mathematical Analysis by Walter Rudin](https://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis) ([Review](https://hampuswessman.se/2021/01/principles-of-mathematical-analysis/))

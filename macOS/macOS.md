@@ -135,3 +135,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [m1n1: Experimentation playground for Apple Silicon](https://github.com/AsahiLinux/m1n1)
 - [SplitConfigurations](https://github.com/KevinGutowski/SplitConfigurations) - Up the basics of a Big Sur app layout. Includes splitview and toolbarItems.
 - [Preloader for Linux on M1](https://github.com/corellium/preloader-m1)
+- [TinyLinux](https://github.com/niw/TinyLinux) - Tiny minimum implementation of Virtualization framework to boot Linux.

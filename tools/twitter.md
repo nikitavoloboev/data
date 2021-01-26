@@ -70,3 +70,4 @@
 - [TwitRSS.me](https://github.com/ciderpunx/twitrssme) - Tool to make Twitter timelines and searches into RSS feeds.
 - [Twitter Account Data Analysis](https://github.com/engali94/Twitter-Account-Analyzer) - Using various Python libraries such as Pandas, tweetPy, JSON ans matplotLib to take a sneak peek on your Twitter account using Google Colab.
 - [Twitter Birdwatch Guide](https://twitter.github.io/birdwatch/) ([Code](https://github.com/twitter/birdwatch))
+- [Enabling the future of academic research with the Twitter API (2021)](https://blog.twitter.com/developer/en_us/topics/tips/2021/enabling-the-future-of-academic-research-with-the-twitter-api.html)

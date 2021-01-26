@@ -15,3 +15,4 @@
 - [lint-diff](https://github.com/grvcoelho/lint-diff) - Run eslint only in the changed parts of the code.
 - [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
+- [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - ESLint plugin to disable all mutation in JavaScript.

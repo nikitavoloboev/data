@@ -457,7 +457,8 @@
 - [Iterplus](https://github.com/Aplet123/iterplus) - Best of Rust/Haskell/Python iterators in JavaScript.
 - [SmolScroll](https://github.com/smolscrolljs/smolscroll) - Tiny, flexible scroll listener with React support.
 - [Observable parser](https://github.com/observablehq/parser)
-- [Robot](https://github.com/matthewp/robot) - Functional, immutable Finite State Machine library.
+- [Robot](https://github.com/matthewp/robot) - Functional, immutable Finite State Machine library. ([Docs](https://thisrobot.life/))
+- [Enmap](https://github.com/eslachance/enmap) - Enhanced Map structure with additional utility methods.
 
 ## Links
 

@@ -586,7 +586,7 @@
 - [extendr](https://github.com/extendr/extendr) - Low-level R library bindings.
 - [bumpalo](https://github.com/fitzgen/bumpalo) - Fast bump allocation arena for Rust.
 - [r0](https://github.com/rust-embedded/r0) - Memory initialization code written in Rust.
-- [Lunatic](https://github.com/lunatic-lang/lunatic) - Platform for building actor systems that use WebAssembly instances as actors.
+- [Lunatic](https://github.com/lunatic-solutions/lunatic) - Universal runtime for fast, robust and scalable server-side applications. It's inspired by Erlang and can be used from any language that compiles to WebAssembly.
 - [Kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 - [infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature.
@@ -719,6 +719,7 @@
 - [cargo-binutils](https://github.com/rust-embedded/cargo-binutils) - Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain.
 - [cargo-embed](https://github.com/probe-rs/cargo-embed) - Cargo extension for working with microcontrollers.
 - [cargo makedocs](https://github.com/Bunogi/cargo-makedocs) - Cargo subcommand to build documentation for development easier.
+- [cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide some options useful for testing and continuous integration.
 
 ## Links
 

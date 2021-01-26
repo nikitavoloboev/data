@@ -213,3 +213,6 @@
 - [Best Practices for Building Computer Vision Models (2021)](https://phaseai.com/resources/computer-vision-best-practices)
 - [TIDE](https://github.com/dbolya/tide) - General Toolbox for Identifying Object Detection Errors.
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals (2020)](https://arxiv.org/abs/2011.12450) ([Code](https://github.com/PeizeSun/SparseR-CNN))
+- [Unsplash Image Search](https://github.com/haltakov/natural-language-image-search) - Search photos on Unsplash using natural language.
+- [Kimera Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data.
+- [Voxblox++](https://github.com/ethz-asl/voxblox-plusplus) - Volumetric object-level semantic mapping framework.
