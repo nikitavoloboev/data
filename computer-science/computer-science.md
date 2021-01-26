@@ -110,3 +110,4 @@
 - [Crafting Semantics (2021)](https://drs.is/post/crafting-semantics-0/) - Series about creating semantics for a programming language.
 - [Syllabus for Classics of Computer Science](https://canvas.harvard.edu/courses/34992/assignments/syllabus) ([HN](https://news.ycombinator.com/item?id=25842249))
 - [Princeton Network Systems (SNS) group](https://sns.cs.princeton.edu/) ([GitHub](https://github.com/princeton-sns))
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)

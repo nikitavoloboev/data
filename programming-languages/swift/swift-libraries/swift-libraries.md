@@ -152,7 +152,8 @@
 - [PagedLists](https://github.com/rootstrap/PagedLists) - Paginated UITableView and UICollectionViews for iOS.
 - [uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit) - Set of custom layouts for UICollectionView with examples.
 - [Loading Buttons](https://github.com/twho/loading-buttons-ios) - Collection of loading buttons and their stylings written in Swift.
-- [Twitter Text Editor](https://github.com/twitter/TwitterTextEditor) - Standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [Twitter Text Editor](https://github.com/twitter/TwitterTextEditor) - Standalone, flexible API that provides a full-featured rich text editor for iOS applications. ([Intro](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/introducing-twitter-text-editor.html))
+- [SheetPresentation](https://github.com/detroit-labs/SheetPresentation) - UIPresentationController and attendant classes for iOS to present a view controller pinned to an edge of the screen like an action sheet.
 
 ## macOS
 
@@ -254,6 +255,7 @@
 - [xcframework](https://github.com/jeffctown/xcframework) - Simple tool to create an XCFramework.
 - [DVR](https://github.com/venmo/DVR) - Network testing for Swift.
 - [XCResultKit](https://github.com/davidahouse/XCResultKit) - Swift interface for finding and parsing xcresult files that Xcode generates when running tests.
+- [simpreboot](https://github.com/drewcrawford/simpreboot) - Accelerate iOS simulator testing.
 
 ## API
 
@@ -587,6 +589,7 @@
 - [SwiftOSC](https://github.com/ExistentialAudio/SwiftOSC) - Open Sound Control client and server framework written in Swift.
 - [AudioStreamer](https://github.com/syedhali/AudioStreamer) - Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine.
 - [BezierKit](https://github.com/hfutrell/BezierKit) - Comprehensive Bezier Path library written in Swift.
+- [GraphQL Language](https://github.com/niw/GraphQLLanguage) - Simple GraphQL language parser library for Swift.
 
 ## Other (not lib)
 

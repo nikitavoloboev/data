@@ -331,6 +331,7 @@ Here are few more things I liked, design wise.
 - [Christine Dodrill](https://christine.website/)
 - [Gregory Schier](https://schier.co/) ([Code](https://github.com/gschier/schier.co))
 - [Sophia Dominguez](http://sophiaedm.com/)
+- [Valentin Peretroukhin](https://valentinp.com/)
 - [Owen Williams](https://owenwillia.ms/)
 - [Nicole Orchard](https://nicoleorchard.com/)
 - [Andy Bell](https://hankchizljaw.com/)

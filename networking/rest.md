@@ -14,3 +14,4 @@
 - [JSON Server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping. Powered by JSON Server + LowDB.
 - [Steps for Designing REST API](https://www.wutsi.com/read/246/5-steps-for-designing-your-rest-apis)
+- [REST API response – Should you envelope or not?](https://news.ycombinator.com/item?id=25913429)

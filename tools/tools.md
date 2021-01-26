@@ -69,7 +69,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
 - [Feedback Fish](https://feedback.fish/) - Collect feedback. Make your customers happy.
 - [Hypothesis](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere. ([HN](https://news.ycombinator.com/item?id=23573852))
-- [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
+- [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter. ([Concurrent prettier runner](https://github.com/microsoft/parallel-prettier))
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [klobie](https://klobie.com/) - Bookmarking tool designed to help synthesize your web research . ([HN](https://news.ycombinator.com/item?id=24004588))
 - [MessageBird](https://messagebird.com/en/) - Zero friction, omnichannel communication. ([HN](https://news.ycombinator.com/item?id=23624854))

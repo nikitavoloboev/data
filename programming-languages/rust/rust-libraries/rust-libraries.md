@@ -687,6 +687,7 @@
 - [freeverb-rs](https://github.com/irh/freeverb-rs) - Rust implementation of the Freeverb algorithm.
 - [Trie](https://github.com/paritytech/trie) - Generic implementation of the Base-16 Modified Merkle Tree ("Trie") data structure.
 - [config-rs](https://github.com/mehcode/config-rs) - Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [countme](https://github.com/matklad/countme) - Library to quickly get the live/total/max counts of allocated instances.
 
 ## Cargo Plugins
 

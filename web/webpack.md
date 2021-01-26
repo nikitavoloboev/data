@@ -48,3 +48,4 @@
 - [Tips to Optimize Webpack (2020)](https://www.ginkonote.com/users/flo/articles/tips-for-wepack-optimizations@javascript)
 - [Statoscope](https://github.com/smelukov/statoscope) - Analyzes webpack stats and supplies the UI to display. ([Web](https://statoscope.tech/))
 - [webpack-nano](https://github.com/shellscape/webpack-nano) - Tiny Webpack CLI.
+- [How to Migrate an App From Webpack to Snowpack (2021)](https://primalskill.blog/how-to-migrate-an-app-from-webpack-to-snowpack)

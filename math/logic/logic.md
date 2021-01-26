@@ -31,3 +31,5 @@
 - [Logicomix: An Epic Search for Truth book (2009)](https://www.logicomix.com/en/index.html)
 - [Logic and Semantics @ Aarhus University](https://cs.au.dk/research/logic-and-semantics/) ([GitHub](https://github.com/logsem))
 - [Propositional Dynamic Logic](https://plato.stanford.edu/entries/logic-dynamic/)
+- [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/~dale/lProlog/)
+- [Dale Miller Research](http://www.lix.polytechnique.fr/~dale/) - Focuses on Computational Logic.

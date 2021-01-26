@@ -200,3 +200,4 @@
 - [Postgres Book Collection](https://github.com/faisalbasra/postgres_books)
 - [Embedded Postgres Binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes.
 - [pg_activity](https://github.com/dalibo/pg_activity) - Command line tool for PostgreSQL server activity monitoring.
+- [Our Journey to PostgreSQL 12 (2021)](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a) ([HN](https://news.ycombinator.com/item?id=25910277))

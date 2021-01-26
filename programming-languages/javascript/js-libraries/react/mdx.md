@@ -21,3 +21,4 @@
 - [mdx-go](https://github.com/jxnblk/mdx-go) - Lightning fast MDX-based dev server for progressive documentation.
 - [snowpack-plugin-mdx](https://github.com/jaredLunde/snowpack-plugin-mdx) - Use the MDX compiler to build .mdx and .md files in Snowpack.
 - [MDX Embed](https://github.com/PaulieScanlon/mdx-embed) - Embed 3rd party media content in MDX - no import required.
+- [Remote MDX with Next.js (2021)](https://www.kevinpeters.net/remote-mdx-next-js)
