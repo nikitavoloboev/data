@@ -177,6 +177,7 @@
 - [libtensor](https://github.com/epifanovsky/libtensor) - C++ library for tensor computations.
 - [RadixSpline](https://github.com/learnedsystems/RadixSpline) - Read-only learned index structure that can be built in a single pass over sorted data.
 - [Minisketch](https://github.com/sipa/minisketch) - Optimized library for BCH-based set reconciliation.
+- [TiledArray](https://github.com/ValeevGroup/tiledarray) - Massively-parallel, block-sparse tensor framework written in C++.
 
 ## Links
 

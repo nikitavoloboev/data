@@ -48,3 +48,4 @@
 - [golgotha](https://github.com/bnosac/golgotha) - Contextualised Embeddings and Language Modelling using BERT and Friends using R.
 - [modelsummary](https://github.com/vincentarelbundock/modelsummary) - Beautiful and customizable model summaries in R.
 - [r-cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces using R.
+- [pod](https://github.com/klmr/pod) - Write Reusable, Composable and Modular R Code.

@@ -46,3 +46,4 @@
 - [Thinking About Decentralized Communities (2020)](https://gurlic.com/root/thinking-about-decentralized-communities) ([HN](https://news.ycombinator.com/item?id=25409715))
 - [Awesome anti-censorship](https://github.com/danoctavian/awesome-anti-censorship)
 - [Decentralized Social Networking Ecosystem Review by Twitter (2021)](https://ipfs.io/ipfs/QmdFrru4PyHzXGZztEPnYToBR3QovD7fkC1HSyty22LzfD) ([HN](https://news.ycombinator.com/item?id=25861436))
+- [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites) - Resources on building decentralized websites.
