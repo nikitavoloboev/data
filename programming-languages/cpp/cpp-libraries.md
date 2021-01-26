@@ -176,6 +176,7 @@
 - [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping.
 - [libtensor](https://github.com/epifanovsky/libtensor) - C++ library for tensor computations.
 - [RadixSpline](https://github.com/learnedsystems/RadixSpline) - Read-only learned index structure that can be built in a single pass over sorted data.
+- [Minisketch](https://github.com/sipa/minisketch) - Optimized library for BCH-based set reconciliation.
 
 ## Links
 

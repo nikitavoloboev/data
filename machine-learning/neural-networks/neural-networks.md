@@ -204,3 +204,4 @@
 - [Applications of Deep Neural Networks v2 (2020)](https://arxiv.org/abs/2009.05673) ([HN](https://news.ycombinator.com/item?id=25898628))
 - [Make Your Own Neural Network Blog](https://makeyourownneuralnetwork.blogspot.com/)
 - [Make Your Own Neural Network Book](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/) ([Code](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork))
+- [Representation Learning for Attributed Multiplex Heterogeneous Network (2019)](https://arxiv.org/abs/1905.01669) ([Code](https://github.com/THUDM/GATNE))

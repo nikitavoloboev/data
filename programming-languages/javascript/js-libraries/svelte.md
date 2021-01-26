@@ -76,3 +76,4 @@
 - [rollup-plugin-svelte](https://github.com/sveltejs/rollup-plugin-svelte) - Compile Svelte components.
 - [Svelte Hooks](https://github.com/devongovett/svelte-hooks) - Experiment to shim the React Hooks API in Svelte.
 - [sveltejs/gl](https://github.com/sveltejs/gl) - Declarative WebGL scene graphs inside Svelte.
+- [Why are React component libraries so complicated compared to Svelte? (2021)](https://gradientdescent.de/sharing-components/)

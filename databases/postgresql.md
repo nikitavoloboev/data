@@ -201,3 +201,5 @@
 - [Embedded Postgres Binaries](https://github.com/zonkyio/embedded-postgres-binaries) - Lightweight bundles of PostgreSQL binaries with reduced size intended for testing purposes.
 - [pg_activity](https://github.com/dalibo/pg_activity) - Command line tool for PostgreSQL server activity monitoring.
 - [Our Journey to PostgreSQL 12 (2021)](https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a) ([HN](https://news.ycombinator.com/item?id=25910277))
+- [Postgres Scaling Advice for 2021](https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/) ([HN](https://news.ycombinator.com/item?id=25915023))
+- [Deploy PostgreSQL With TLS in Kubernetes (2021)](https://info.crunchydata.com/blog/set-up-tls-for-postgresql-in-kubernetes)

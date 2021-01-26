@@ -71,7 +71,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [VeoLuz](https://github.com/jaredly/veoluz) - Visualize the paths of millions of light rays through reflection, refraction and diffusion.
 - [Historical Memos](https://sriramk.com/memos)
 - [A letter from your future colleague, Alex](https://www.reaktor.com/blog/a-letter-from-your-future-colleague-alex/)
-- [Killed by Google](https://killedbygoogle.com/)
+- [Killed by Google](https://killedbygoogle.com/) ([Code](https://github.com/codyogden/killedbygoogle))
 - [Dominik's moving dots animation-generator](https://dominik.ws/art/movingdots/)
 - [My Personal Linklog (2019)](http://msaavedra.com/posts/my-personal-linklog/)
 - [Lobsters: What's your notebook setup like? (2019)](https://lobste.rs/s/rcaj6p/what_s_your_notebook_setup_like)

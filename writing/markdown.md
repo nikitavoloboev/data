@@ -57,3 +57,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [remark-vdom](https://github.com/remarkjs/remark-vdom) - Plugin to compile Markdown to Virtual DOM.
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs))
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [CommonMark](https://github.com/MichaelHatherly/CommonMark.jl) - CommonMark-compliant parser for Julia.

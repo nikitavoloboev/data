@@ -107,3 +107,4 @@
 - [Crypto Dictionary Book](https://nostarch.com/crypto-dictionary) ([Code](https://github.com/cryptodictionary/newstuff))
 - [Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab)
 - [Cryptography Resources](https://tjerandsilde.no/resources/)
+- [NuCypher](https://www.nucypher.com/) - Cryptographic Infrastructure for Privacy-Preserving Applications. ([Code](https://github.com/nucypher/nucypher)) ([GitHub](https://github.com/nucypher/))

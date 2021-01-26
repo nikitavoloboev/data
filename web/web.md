@@ -225,3 +225,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Awesome HTML/CSS/JS Tips](https://github.com/MarkoDenic/awesome-html-css-js-tips)
 - [List of software / services that (almost) every web application needs (2020)](https://dylanstein.dev/blog/everything-everybody-needs)
 - [sorvor](https://github.com/osdevisnot/sorvor) - Extremely fast, zero config server for modern web applications.
+- [Webbed Briefs](https://briefs.video/) - Brief videos about the web, its technologies, and how to make the most of them.
+- [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)

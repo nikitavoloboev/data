@@ -83,6 +83,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [osu!](https://github.com/ppy/osu) - Free-to-win rhythm game. ([Web](https://osu.ppy.sh/home))
 - [MoonShot](https://lallassu.itch.io/moonshot) - Written in Go and using its own game engine. ([Code](https://github.com/lallassu/moonshot))
 - [StripCode](https://stripcode.dev/) - Guess which GitHub repo a code snippet came from. ([Code](https://github.com/benawad/stripcode))
+- [Shotcaller](https://github.com/amethyst/shotcaller) - RTS / MOBA game with multiple front ends: ASCII-rendered or tiles-rendered.
 
 ## Awesome games (other)
 

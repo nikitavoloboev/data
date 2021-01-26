@@ -142,7 +142,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))
 - [Awesome Plan9](https://github.com/henesy/awesome-plan9)
 - [Albatross](https://github.com/hannesm/albatross) - Orchestrate and manage MirageOS unikernels with Solo5.
-- [Labs for RustOS](https://tc.gts3.org/cs3210/2020/spring/lab.html)
+- [Design of Operating Systems Course (2020)](https://tc.gts3.org/cs3210/2020/spring/info.html) - Using RustOS. ([Lab](https://tc.gts3.org/cs3210/2020/spring/lab.html)) ([Code](https://github.com/sslab-gatech/cs3210-rustos-public))
 - [Little book about OS development](https://littleosbook.github.io/) ([Code](https://github.com/cstack/osdev))
 - [Green Threads Explained](https://c9x.me/articles/gthreads/intro.html) ([HN](https://news.ycombinator.com/item?id=14439615))
 - [Fibers under the magnifying glass (2018)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)

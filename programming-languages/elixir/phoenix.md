@@ -29,3 +29,4 @@
 - [PETAL Stack in Elixir (2021)](https://thinkingelixir.com/petal-stack-in-elixir/)
 - [Getting started with PETAL (2021)](https://underjord.io/getting-started-with-petal.html)
 - [Revisiting a Video Chat Application with Phoenix and WebRTC (2021)](https://hashrocket.com/blog/posts/revisiting-a-video-chat-application-with-phoenix-and-webrtc)
+- [Phx.Gen.Auth](https://github.com/aaronrenner/phx_gen_auth) - Authentication system generator for Phoenix 1.5+ applications.

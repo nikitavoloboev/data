@@ -91,3 +91,4 @@
 - [Scaling up StyleGAN2](https://github.com/l4rz/scaling-up-stylegan2) - Achieving photorealistic quality by scaling up StyleGAN2.
 - [StyleGAN2-Surgery](https://github.com/aydao/stylegan2-surgery) - StyleGAN2 fork with scripts and convenience modifications for creative media synthesis.
 - [Practical aspects of StyleGAN2 training](https://github.com/l4rz/practical-aspects-of-stylegan2-training)
+- [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.pdf) ([Code](https://github.com/svip-lab/impersonator))

@@ -34,3 +34,4 @@
 - [GUSTAVE](https://github.com/airbus-seclab/gustave) - Embedded OS kernel fuzzer.
 - [Jackalope](https://github.com/googleprojectzero/Jackalope) - Customizable, distributed, coverage-guided fuzzer that is able to work with black-box binaries.
 - [kAFL](https://github.com/IntelLabs/kAFL) - Fuzzer for full VM kernel/driver targets.
+- [Snapandgo](https://github.com/geeksonsecurity/snapandgo) - {golang, ptrace, snapshot}-based fuzzer.

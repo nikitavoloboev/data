@@ -14,6 +14,7 @@ Success comes from not giving up and doing what you love.
 - [Pessimists sound smart. Optimists make money.](https://twitter.com/patrickc/status/1263482890668503041)
 - [The single most important factor to success is the ability to make things happen. This requires determination, resourcefulness, focus, tenacity, confidence, a willingness to look like an idiot, and an ability to do the work when no one is watching.](https://twitter.com/ShaneAParrish/status/1322967152434008064)
 - [Don't be impressed by money, followers, degrees, and titles. Be impressed by kindness, integrity, humility, and generosity.](https://twitter.com/ProfFeynman/status/1330178700424458243)
+- [Success is when reality catches up to your imagination.](https://twitter.com/katgleason/status/1353843174398156801)
 
 ## Links
 

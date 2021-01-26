@@ -116,3 +116,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Encrypted Secrets with NixOS (2021)](https://christine.website/blog/nixos-encrypted-secrets-2021-01-20) ([Lobsters](https://lobste.rs/s/gur8yy/encrypted_secrets_with_nixos))
 - [Offloading NixOS builds to a faster machine (2021)](https://sgt.hootr.club/molten-matter/nix-distributed-builds/)
 - [Why you should never ever use NixOS (2021)](https://hands-on.cloud/why-you-should-never-ever-use-nixos/) ([Lobsters](https://lobste.rs/s/f6i7g0/why_you_should_never_ever_use_nixos)) ([HN](https://news.ycombinator.com/item?id=25881654))
+- [NixOS on Raspberry Pi](https://github.com/lucernae/nixos-pi)

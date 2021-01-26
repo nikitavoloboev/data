@@ -63,3 +63,7 @@
 - [LoRaWAN (Go)](https://github.com/brocaar/lorawan) - Provides structures and tools to read and write LoraWAN messages from and to a slice of bytes.
 - [PaperiNode](https://github.com/RobPo/PaperiNode) - Self powered E-Paper Node for LoRaWAN.
 - [Build and configure your own LoraWAN Gateway with The Things Network](https://github.com/IRNAS/ttn-irnas-gw)
+- [LoRaWAN computer vision with Edge Impulse & Portenta H7](https://github.com/edgeimpulse/example-portenta-lorawan)
+- [LoRa Basics Station](https://github.com/balenalabs/basicstation) - Deploys a LoRaWAN gateway with Basics Station Packet Forward protocol with balena.
+- [lorawan-node-simulator](https://github.com/kartben/lorawan-node-simulator) - Simulates LoRaWAN gateways, and endpoints regularly emitting LoRaWAN radio packets.
+- [Deploying a LoRaWAN network server on Azure (2021)](https://blog.benjamin-cabe.com/2020/12/01/deploying-a-lorawan-network-server-on-azure)

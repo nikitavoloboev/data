@@ -79,3 +79,4 @@
 - [qwarc](https://github.com/JustAnotherArchivist/qwarc) - Framework for rapidly archiving a large number of URLs with little overhead.
 - [select.rs](https://github.com/utkarshkukreti/select.rs) - Rust library to extract useful data from HTML documents, suitable for web scraping.
 - [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - Provides access to a variety of scraper scripts for most commonly used machine learning and data science domains.
+- [Visual scraping with Elixir and Crawly (2021)](https://oltarasenko.medium.com/visual-scraping-with-elixir-and-crawly-or-how-to-get-data-without-programming-540222750135)

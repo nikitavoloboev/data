@@ -245,6 +245,7 @@
 - [SwiftUIWindowStyles](https://github.com/martinlexow/SwiftUIWindowStyles) - Showcase of window and toolbar style combinations possible with SwiftUI on macOS.
 - [BetterSheet](https://github.com/egeniq/BetterSheet) - Powerful SwiftUI sheet replacement.
 - [swiftui-navigation-stack](https://github.com/matteopuc/swiftui-navigation-stack) - Alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
+- [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
 
 ## Test
 
@@ -272,6 +273,7 @@
 - [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
 - [PostgresKit](https://github.com/vapor/postgres-kit) - Non-blocking, event-driven Swift client for PostgreSQL.
 - [SqlKit](https://github.com/vapor/sql-kit) - Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
+- [SwiftDB](https://github.com/vmanot/SwiftDB) - Type-safe, SwiftUI-inspired wrapper around CoreData.
 
 ## Graphics
 
@@ -590,6 +592,8 @@
 - [AudioStreamer](https://github.com/syedhali/AudioStreamer) - Swift 4 framework for streaming remote audio with real-time effects using AVAudioEngine.
 - [BezierKit](https://github.com/hfutrell/BezierKit) - Comprehensive Bezier Path library written in Swift.
 - [GraphQL Language](https://github.com/niw/GraphQLLanguage) - Simple GraphQL language parser library for Swift.
+- [NativeMarkKit](https://github.com/andyfinnell/NativeMarkKit) - Flavor of Markdown designed to be rendered by native apps.
+- [SwiftGestalt](https://github.com/swift-gestalt/SwiftGestalt) - Native Swift (Metadata) Runtime Introspection Libraries.
 
 ## Other (not lib)
 

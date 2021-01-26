@@ -15,3 +15,4 @@
 - [Wink](https://github.com/themsaid/wink) - Laravel-based publishing platform.
 - [Serverless Laravel](https://serverlesslaravelcourse.com/) - Laravel Vapor masterclass.
 - [PHP Internals](https://phpinternals.net/) - Dedicated to providing resources on PHP's internals.
+- [Static analysis tools for PHP](https://github.com/exakat/php-static-analysis-tools)

@@ -162,3 +162,4 @@
 - [Anatomy of a CNC Router (2020)](https://mattferraro.dev/posts/cnc-router) - Everything you need to know to design your own CNC router. ([HN](https://news.ycombinator.com/item?id=25829337))
 - [Bitbanged DVI on the RP2040 Microcontroller](https://github.com/Wren6991/picodvi)
 - [Examining a technology sample kit: IBM components from 1948 to 1986 (2021)](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
+- [Principles of Semiconductor Devices](https://ecee.colorado.edu/~bart/book/book/contents.htm)

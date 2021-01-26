@@ -307,3 +307,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Notes on wikis](https://github.com/jakeisnt/wiki/blob/master/pages/wiki.org)
 - [cadmus](https://github.com/RyanGreenup/cadmus) - Shell Scripts to Facilitate Effective Note Taking.
 - [Memo App](https://usememo.com/) - Take Smarter notes with GitHub Gists. ([Code](https://github.com/btk/memo))
+- [Totallib](https://totallib.com/) - Note-taking for better thinking, augmented by AI.

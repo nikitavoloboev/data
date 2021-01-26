@@ -82,3 +82,4 @@
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - Self-hosted RSS feed aggregator.
 - [Combine RSS feeds](https://github.com/awocallaghan/node-rss-combiner)
 - [Node RSS](https://github.com/jpmonette/feed) - RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive.
+- [Github Action for building static feed aggregator site](https://github.com/llun/feeds)

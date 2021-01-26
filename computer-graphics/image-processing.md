@@ -82,3 +82,4 @@
 - [Image Analyze Workers](https://github.com/w-okada/image-analyze-workers) - Zoo of image processing Web Workers for JavaScript or TypeScript.
 - [ImagePy](https://github.com/Image-Py/imagepy) - Open source image processing framework written in Python.
 - [Creating image reveal videos with ffmpeg and primitive (2021)](https://blog.forret.com/2021/01/21/creating-image-reveal-videos-with-ffmpeg-and-primitive/)
+- [Upscaler](https://www.upscaler.ai/) - Increase image resolution up to 4x using JavaScript and Tensorflow.js ([Code](https://github.com/thekevinscott/UpscalerJS))

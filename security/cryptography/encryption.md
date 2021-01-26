@@ -30,3 +30,4 @@
 - [libsignal-client](https://github.com/signalapp/libsignal-client) - Implementation of the Signal client protocol in Rust.
 - [How the Signal Protocol Works](https://livebook.manning.com/book/real-world-cryptography/chapter-10/v-10/1)
 - [Real-World Cryptography Book](https://livebook.manning.com/book/real-world-cryptography/welcome/v-10/)
+- [Hybrid Public Key Encryption](https://github.com/cfrg/draft-irtf-cfrg-hpke)

@@ -171,6 +171,7 @@
 - [Gonudb](https://github.com/iand/gonudb) - Append-only key/value datastore written in Go.
 - [go-memdb](https://github.com/hashicorp/go-memdb) - Go in-memory database built on immutable radix trees.
 - [tailetc](https://github.com/tailscale/tailetc) - total-memory-cache etcd v3 client.
+- [query](https://github.com/andrewpillar/query) - Simple PostgreSQL query builder for Go.
 
 ## ML
 
@@ -710,6 +711,9 @@
 - [raft](https://github.com/hashicorp/raft) - Go implementation of the Raft consensus protocol.
 - [sha256-simd](https://github.com/minio/sha256-simd) - Accelerate SHA256 computations in pure Go.
 - [go-ordered-map](https://github.com/wk8/go-ordered-map) - Same as regular maps, but also remembers the order in which keys were inserted.
+- [GoAudio](https://github.com/DylanMeeus/GoAudio) - Go tools for audio processing & creation.
+- [stripeutil](https://github.com/andrewpillar/stripeutil) - Utility functions and data structures for working with the Stripe API for builing a SaaS application.
+- [vmtest](https://github.com/anatol/vmtest) - Go framework for integration testing with Virtual machines (e.g. QEMU).
 
 ## Links
 

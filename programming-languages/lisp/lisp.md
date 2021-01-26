@@ -110,3 +110,4 @@
 - [Fleck](https://github.com/chr15m/flk) - Clojure-like LISP that runs wherever Bash is.
 - [A rabbit hole full of Lisp (2021)](https://www.murilopereira.com/a-rabbit-hole-full-of-lisp/) ([HN](https://news.ycombinator.com/item?id=25760381))
 - [lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer.
+- [Lisp, Jazz, Aikido – Three Expressions of a Single Essence (2018)](https://arxiv.org/ftp/arxiv/papers/1804/1804.00485.pdf)

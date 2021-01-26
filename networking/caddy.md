@@ -18,3 +18,4 @@
 - [caddy-git](https://github.com/abiosoft/caddy-git) - git clones a git repository into the site. This makes it possible to deploy your site with a simple git push.
 - [Route53 module for Caddy](https://github.com/caddy-dns/route53) - Can be used to manage DNS records in Route53 Hosted zones.
 - [Caddy your Serverless Functions (2020)](https://www.briangershon.com/blog/caddy-your-serverless-functions/)
+- [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker.

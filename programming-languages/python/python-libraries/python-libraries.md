@@ -330,6 +330,7 @@
 - [Classical Aerodynamics with Python](https://github.com/barbagroup/AeroPython)
 - [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools) - Collection of links and notes on forced alignment tools.
 - [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python.
+- [cattrs](https://github.com/Tinche/cattrs) - Complex custom class converters for attrs.
 
 ## Links
 

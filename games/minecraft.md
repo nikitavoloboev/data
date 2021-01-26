@@ -34,3 +34,4 @@
 - [PaperMC](https://papermc.io/) - Next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance. ([GitHub](https://github.com/PaperMC))
 - [Tailscale on NixOS: A New Minecraft Server in Ten Minutes (2021)](https://tailscale.com/blog/nixos-minecraft/) ([Lobsters](https://lobste.rs/s/yppnts/tailscale_on_nixos_new_minecraft_server)) ([HN](https://news.ycombinator.com/item?id=25843609))
 - [Worker Biomes](https://github.com/lspgn/worker-biomes) - Minecraft biomes map generator using Cloudflare Workers.
+- [GlobalWarming](https://github.com/nsporillo/GlobalWarming) - Server side global warming mechanics in Minecraft.

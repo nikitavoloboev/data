@@ -4,7 +4,7 @@
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
-- [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
+- [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage. ([Rocksplicator - RocksDB Replication](https://github.com/pinterest/rocksplicator))
 - [TerarkDB](https://github.com/bytedance/terarkdb) - RocksDB compatible KV storage engine with better performance. ([HN](https://news.ycombinator.com/item?id=25514419))
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GoLevelDB](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
@@ -228,7 +228,7 @@
 - [DB Weekly](https://dbweekly.com/) - Weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 - [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595) ([HN](https://news.ycombinator.com/item?id=23531649))
 - [SOSD: A Benchmark for Learned Indexes](https://learned.systems/papers/sosd.pdf) ([Code](https://github.com/learnedsystems/SOSD))
-- [RMI](https://github.com/learnedsystems/RMI) - Recursive model index, a learned index structure.
+- [RMI](https://github.com/learnedsystems/RMI) - Recursive model index, a learned index structure. ([Go implementation](https://github.com/BenJoyenConseil/rmi))
 - [SchemaHero](https://github.com/schemahero/schemahero) - Kubernetes operator for declarative database schema management. ([Web](https://schemahero.io/))
 - [TablaM](https://github.com/Tablam/TablaM) - Practical general language but tailored for data-manipulation and database (in the broad sense of the word) coding. ([Comment](https://news.ycombinator.com/item?id=23741945))
 - [What are databases? (2020)](https://dataguide.prisma.io/intro/what-are-databases)

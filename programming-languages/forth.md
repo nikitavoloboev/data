@@ -12,3 +12,4 @@
 - [My history with Forth & stack machines (2010)](http://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 - [J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html) ([HN](https://news.ycombinator.com/item?id=25759576))
 - [zForth](https://github.com/zevv/zForth) - Tiny, embeddable, flexible, compact Forth scripting language for embedded systems. ([HN](https://news.ycombinator.com/item?id=25772483))
+- [Modern C64 Forth](https://github.com/jkotlinski/durexforth)

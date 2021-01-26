@@ -333,6 +333,7 @@ Here are few more things I liked, design wise.
 - [Sophia Dominguez](http://sophiaedm.com/)
 - [Valentin Peretroukhin](https://valentinp.com/)
 - [Owen Williams](https://owenwillia.ms/)
+- [Laura Beatris](https://laurabeatris.com/)
 - [Nicole Orchard](https://nicoleorchard.com/)
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)

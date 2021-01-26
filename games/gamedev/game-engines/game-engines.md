@@ -8,7 +8,7 @@
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
 - [ggez](https://github.com/ggez/ggez)
-- [Amethyst](https://github.com/amethyst/amethyst)
+- [Amethyst](https://github.com/amethyst/amethyst) - Data-driven game engine written in Rust. ([Web](https://amethyst.rs/))
 - [boardgame.io](https://boardgame.io/) - State Management for Turn-Based Games. ([Code](https://github.com/boardgameio/boardgame.io))
 - [Xash3D FWGS Engine](https://github.com/FWGS/xash3d) - Custom Gold Source engine rewritten from scratch.
 - [Newton](https://github.com/hunterloftis/newton) - Playful, particle-based physics engine designed from the ground up for JavaScript.
@@ -66,6 +66,7 @@
 - [3DWorld](https://github.com/fegennari/3DWorld) - 3D Procedural Game Engine Using OpenGL.
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. ([Web](https://www.cocos.com/en/))
 - [ETEngine](https://github.com/Illation/ETEngine) - Real time 3D Game-Engine with a focus on space sim. Written in C++.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ([Web](https://www.babylonjs.com/)) ([React Babylon.js](https://github.com/brianzinn/react-babylonjs))
 
 ## Physics engines
 

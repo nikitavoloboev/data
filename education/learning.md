@@ -94,3 +94,4 @@
 - [100 Tweets on Better Internet Learning (2020)](https://hyperlink.academy/library/100-tweets-on-internet-learning)
 - [Learn X by Doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) - Project-based learning search engine. ([HN](https://news.ycombinator.com/item?id=25754437)) ([Code](https://github.com/aquadzn/learn-x-by-doing-y))
 - [On Deck](https://www.beondeck.com/) - Where top talent comes to accelerate their ideas and careers, surrounded by a world-class community.
+- [MIT Handbook of Collective Intelligence](http://scripts.mit.edu/~cci/HCI/index.php?title=Main_Page#What_is_collective_intelligence.3F)

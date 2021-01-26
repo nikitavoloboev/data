@@ -43,3 +43,4 @@
 - [HyperTag](https://github.com/SeanPedersen/HyperTag) - Helps humans intuitively express how they think about their files using tags and machine learning.
 - [sandboxfs](https://github.com/bazelbuild/sandboxfs) - Virtual file system for sandboxing.
 - [GitHub File System](https://github.com/sirnewton01/ghfs) - With this filesystem you can use GitHub from your favorite shell and text editor.
+- [Dirhash Standard](https://github.com/andhus/dirhash) - Formal procedure for hashing of a filesystem directory.

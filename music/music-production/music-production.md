@@ -161,3 +161,5 @@
 - [Sound Semiconductor](http://www.soundsemiconductor.com/index.html) - IC's for Music Creation.
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.
 - [Tonara](https://tonara.com/) - Music Education Happens Here.
+- [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music from musescore.com for free.
+- [Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data](https://github.com/cifkao/groove2groove)

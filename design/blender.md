@@ -32,3 +32,4 @@
 - [Nice python scripts and add-ons for Blender](https://github.com/Tlousky/blender_scripts)
 - [DreamUV](https://github.com/leukbaars/DreamUV) - Collection of tools that allow you to manipulate UVs in the 3D viewport.
 - [Vertex Color Master for Blender](https://github.com/andyp123/blender_vertex_color_master) - Add-on for Blender that adds numerous features to assist working with vertex colors.
+- [Blender VSCode Extension](https://github.com/JacquesLucke/blender_vscode)

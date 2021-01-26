@@ -32,3 +32,4 @@
 - [1D Procedural Terrain Generation (2020)](https://arpitbhayani.me/blogs/1d-terrain)
 - [enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI.
 - [Game Map Generator](https://github.com/klangner/mapgen.rs) - Generate procedural maps for games.
+- [Speech Generation in a Procedurally Generated World (2019)](https://www.youtube.com/watch?v=qh9vyoMviJI)

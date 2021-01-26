@@ -12,7 +12,7 @@
 - [wasm-flate](https://github.com/drbh/wasm-flate) - Fastest compression and decompression in the browser.
 - [zlib](https://github.com/madler/zlib) - General purpose data compression library.
 - [zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib data compression library for the next generation systems.
-- [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm.
+- [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. ([Web](https://lz4.github.io/lz4/))
 - [Handbook of Data Compression (2010)](https://www.springer.com/gp/book/9781848829022)
 - [Faster integer compression in Go with SIMD using StreamVByte codec](https://github.com/rleiwang/svb)
 - [fast_rsync](https://github.com/dropbox/fast_rsync) - Optimized implementation of librsync in pure Rust.

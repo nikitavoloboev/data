@@ -40,3 +40,4 @@
 - [The Black Arts of SaaS Pricing](https://training.kalzumeus.com/newsletters/archive/saas_pricing)
 - [Pricing strategy for a developer tool with 400000 users (2021)](https://news.ycombinator.com/item?id=25622558)
 - [Pricing pages for inspiration](https://inspyr.io/pricing)
+- [The World of Pricing: Uber, Trulia, Etsy, Superhuman and More (2021)](https://www.nfx.com/post/the-hidden-world-of-pricing/)

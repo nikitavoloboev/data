@@ -11,6 +11,7 @@
 
 - [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
+- [Hierarch](https://github.com/Byzanteam-Labs/hierarch) - Tree structure & hierarchy for ecto models with ltree (Postgres).
 
 ## Test
 
