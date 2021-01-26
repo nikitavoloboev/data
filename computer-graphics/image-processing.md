@@ -83,3 +83,4 @@
 - [ImagePy](https://github.com/Image-Py/imagepy) - Open source image processing framework written in Python.
 - [Creating image reveal videos with ffmpeg and primitive (2021)](https://blog.forret.com/2021/01/21/creating-image-reveal-videos-with-ffmpeg-and-primitive/)
 - [Upscaler](https://www.upscaler.ai/) - Increase image resolution up to 4x using JavaScript and Tensorflow.js ([Code](https://github.com/thekevinscott/UpscalerJS))
+- [RemoveBackground.app](https://removebackground.app/) - Remove the background from your images using ML.

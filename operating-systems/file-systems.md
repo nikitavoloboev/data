@@ -44,3 +44,4 @@
 - [sandboxfs](https://github.com/bazelbuild/sandboxfs) - Virtual file system for sandboxing.
 - [GitHub File System](https://github.com/sirnewton01/ghfs) - With this filesystem you can use GitHub from your favorite shell and text editor.
 - [Dirhash Standard](https://github.com/andhus/dirhash) - Formal procedure for hashing of a filesystem directory.
+- [The No-Order File System (2012)](http://pages.cs.wisc.edu/~vijayc/nofs.htm) ([HN](https://news.ycombinator.com/item?id=25900461))

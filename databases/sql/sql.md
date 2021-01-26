@@ -91,3 +91,4 @@
 - [The surprisingly difficult problem of user-defined order in SQL (2018)](https://begriffs.com/posts/2018-03-20-user-defined-order.html) ([HN](https://news.ycombinator.com/item?id=25797674))
 - [Why SELECT \* is bad for SQL performance (2020)](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 - [Use The Index, Luke](https://use-the-index-luke.com/) - SQL indexing and tuning tutorial for developers.
+- [SQL and aggregated data: is there a better way?](https://github.com/zsvoboda/gooddata-jdbc/wiki/SQL-and-aggregated-data:-is-there-a-better-way%3F)

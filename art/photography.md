@@ -4,10 +4,10 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 
 ## Interesting cameras
 
+- [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
 - [Leica Q2](https://us.leica-camera.com/Photography/Leica-Q/Leica-Q2)
 - [Leica M10P](https://www.nivo-schweitzer.nl/leica-20021-m10-p-body-black-chrome-finish/p23608)
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
-- [Sony Alpha a7 III Mirrorless](https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)
 
 ## Presets

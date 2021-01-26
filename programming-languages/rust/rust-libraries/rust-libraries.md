@@ -692,6 +692,8 @@
 - [btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library.
 - [sysinfo](https://github.com/GuillaumeGomez/sysinfo) - System handler to interact with processes.
 - [Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library contains linear algebra, numerical analysis, statistics and machine learning tools with R, MATLAB, Python like macros.
+- [Embassy](https://github.com/akiles/embassy) - Rust embedded async tools.
+- [uniffi](https://github.com/mozilla/uniffi-rs) - Multi-language bindings generator for rust.
 
 ## Cargo Plugins
 
