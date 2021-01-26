@@ -144,3 +144,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [The SOC2 Starting Seven (2020)](https://latacora.micro.blog/2020/03/12/the-soc-starting.html) ([HN](https://news.ycombinator.com/item?id=25800791))
 - [Ask HN: Where can I start learning about hacking? (2021)](https://news.ycombinator.com/item?id=25793969)
 - [Awesome Open Policy Agent](https://github.com/anderseknert/awesome-opa)
+- [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - Beginner pen-testing start guide.

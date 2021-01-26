@@ -73,6 +73,7 @@
 - [RML](https://github.com/dannywillems/RML) - ML modules and functors as first-class citizens.
 - [VOCaL](https://github.com/vocal-project/vocal) - Verified OCaml Library.
 - [Fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators.
+- [awa-ssh](https://github.com/mirage/awa-ssh) - Purely functional SSH library in OCaml.
 
 ## Links
 

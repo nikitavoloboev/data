@@ -321,3 +321,4 @@
 - [cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang.
 - [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
 - [K3s Private Cluster](https://github.com/sagittaros/terraform-k3s-private-cloud) - Deploy full fledged K3s private clusters with Terraform.
+- [Scaling Kubernetes to 7,500 Nodes (2021)](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) ([HN](https://news.ycombinator.com/item?id=25907312))

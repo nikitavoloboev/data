@@ -49,3 +49,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [memordo](https://memordo.com/) - Flashcard platform that supports latex and code highlighting. ([HN](https://news.ycombinator.com/item?id=25558420))
 - [Anki Code](https://github.com/ankitects/anki)
 - [Obsidian to Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki.
+- [go-anki](https://github.com/flimzy/anki) - Go library to read Anki \*.apkg files.

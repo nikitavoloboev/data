@@ -13,3 +13,7 @@ For sharing files temporarily I use [transfer.sh](https://transfer.sh) and [Vito
 I also use Dropbox for sharing configuration of various apps.
 
 ![](https://i.imgur.com/F9nsqBn.png)
+
+## Links
+
+- [Replacing Dropbox in favor of DigitalOcean spaces (2021)](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html) ([HN](https://news.ycombinator.com/item?id=25909336))

@@ -76,3 +76,4 @@
 - [TensorFlow inferencing using WebAssembly and WASI (2020)](https://radu-matei.com/blog/tensorflow-inferencing-wasi/)
 - [React-Tensorflow](https://github.com/joshuaellis/react-tensorflow) - Tensorflow hooks for React.
 - [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.
+- [TensorFlow 101: Introduction to Deep Learning](https://github.com/serengil/tensorflow-101)

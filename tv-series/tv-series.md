@@ -14,3 +14,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Subify](https://github.com/matcornic/subify) - Tool to download subtitles for your favorite TV shows and movies.
 - [Netflix shows that will make you think](https://nesslabs.com/netflix)
 - [FlixPatrol](https://flixpatrol.com/) - TOP 10 on Streaming in the World Today.
+- [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/) ([HN](https://news.ycombinator.com/item?id=25912241)) ([Code](https://github.com/ablwr/halt-and-catch-fire-syllabus))

@@ -76,3 +76,4 @@
 - [10 years-ish of Elixir (2021)](https://dashbit.co/blog/ten-years-ish-of-elixir) ([HN](https://news.ycombinator.com/item?id=25776525))
 - [kiex](https://github.com/taylor/kiex) - Elixir version manager. ([Web](http://taylor.github.io/kiex/))
 - [What Is Elixir Genserver (2020)](https://www.papercups.io/blog/genserver)
+- [Building Terminal Apps with Elixir (2019)](https://ndreynolds.com/posts/2019-01-27-terminal-apps-with-elixir.html)

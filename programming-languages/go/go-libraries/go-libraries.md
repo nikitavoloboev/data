@@ -118,6 +118,7 @@
 - [kcp-go](https://github.com/xtaci/kcp-go) - Production-Grade Reliable-UDP library for Go.
 - [CNI network plugins](https://github.com/containernetworking/plugins)
 - [go-ipset](https://github.com/janeczku/go-ipset) - Go wrapper to the IPtables ipset userspace utility.
+- [Kite](https://github.com/koding/kite) - Micro-service framework in Go.
 
 ## GraphQL
 

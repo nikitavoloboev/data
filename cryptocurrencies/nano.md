@@ -16,3 +16,4 @@
 - [Nano Reddit](https://www.reddit.com/r/nanocurrency/)
 - [Nano Developer Tools](https://nano.org/en/tools)
 - [Nano Whitepaper – Digital money for the modern world (2017)](https://docs.nano.org/whitepaper/english/)
+- [Thread on why Nano is a great cryptocurrency (2021)](https://twitter.com/keyzersoze03/status/1353082563821260800)

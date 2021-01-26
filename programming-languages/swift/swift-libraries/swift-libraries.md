@@ -152,6 +152,7 @@
 - [PagedLists](https://github.com/rootstrap/PagedLists) - Paginated UITableView and UICollectionViews for iOS.
 - [uicollectionview-layouts-kit](https://github.com/jVirus/uicollectionview-layouts-kit) - Set of custom layouts for UICollectionView with examples.
 - [Loading Buttons](https://github.com/twho/loading-buttons-ios) - Collection of loading buttons and their stylings written in Swift.
+- [Twitter Text Editor](https://github.com/twitter/TwitterTextEditor) - Standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## macOS
 

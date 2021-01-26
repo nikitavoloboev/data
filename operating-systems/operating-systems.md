@@ -85,6 +85,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more. ([HN](https://news.ycombinator.com/item?id=25779930))
 - [Pluto](https://github.com/ZystemOS/pluto) - x86 kernel written in Zig.
 - [LeOS Kernel](https://github.com/lowenware/leos-kernel) - Kernel project for operating system for ARM 64bit (AArch64) written in Rust. ([Web](https://lowenware.com/leos/))
+- [RustyHermit](https://github.com/hermitcore/rusty-hermit) - Rust-based, lightweight unikernel.
 
 ## Notes
 

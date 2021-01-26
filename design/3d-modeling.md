@@ -33,3 +33,4 @@
 - [Cascade Studio](https://zalo.github.io/CascadeStudio/) - Full Live-Scripted CAD Kernel and IDE in the Browser. ([Code](https://github.com/zalo/CascadeStudio))
 - [Learning 3D Modeling in 14 Weeks (2021)](https://samanthaz.me/writing/learning-3d-modeling-in-14-weeks)
 - [Anim8or](https://www.anim8or.com/) - 3D modelling and character animation.
+- [3dfier](https://github.com/tudelft3d/3dfier) - Open-source tool for creating of 3D models. ([Docs](http://tudelft3d.github.io/3dfier/))

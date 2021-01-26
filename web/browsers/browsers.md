@@ -100,3 +100,4 @@
 - [Tales of Favicons and Caches – Persistent Tracking in Modern Browsers (2021)](https://www.cs.uic.edu/%7Epolakis/papers/solomos-ndss21.pdf)
 - [Browser rendering performance resources](https://github.com/ufocoder/browser-rendering-performance) ([HN](https://news.ycombinator.com/item?id=25868742))
 - [Screenjar](https://screenjar.com/) - Make it super easy for customers to send you videos of their screen.
+- [Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)

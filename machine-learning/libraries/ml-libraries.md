@@ -111,3 +111,4 @@
 - [Haste](https://github.com/lmnt-com/haste) - CUDA implementation of fused RNN layers with built-in DropConnect and Zoneout regularization.
 - [sklearn-xarray](https://github.com/phausamann/sklearn-xarray) - Metadata-aware machine learning.
 - [dabnn](https://github.com/JDAI-CV/dabnn) - Accelerated binary neural networks inference framework for mobile platform.
+- [OneFlow](https://github.com/Oneflow-Inc/oneflow) - Performance-centered and open-source deep learning framework.
