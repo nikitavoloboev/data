@@ -54,6 +54,7 @@
 - [gcassert](https://github.com/jordanlewis/gcassert) - Assert your Go code is inlined and bounds-check eliminated.
 - [autogold](https://github.com/hexops/autogold) - Automatically update your Go tests.
 - [Gomega](https://github.com/onsi/gomega) - Matcher/assertion library. It is best paired with the Ginkgo BDD test framework.
+- [go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
 
 ## Web
 

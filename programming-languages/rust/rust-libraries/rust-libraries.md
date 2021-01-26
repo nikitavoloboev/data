@@ -98,6 +98,7 @@
 - [postgrest-rs](https://github.com/supabase/postgrest-rs) - PostgREST client-side library.
 - [RustRocks](https://github.com/bh1xuw/rust-rocks) - RocksDB binding for Rust.
 - [Cask](https://github.com/andresilva/cask) - Fast key-value store written in Rust.
+- [Buzz Rust](https://github.com/cloudfuse-io/buzz-rust) - Serverless query engine.
 
 ## Graphics
 

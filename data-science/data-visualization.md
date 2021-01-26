@@ -81,4 +81,4 @@
 - [ChartSeer](https://github.com/jeffjianzhao/ChartSeer) - Visualization tool that helps analysts steer their exploratory visual analysis (EVA) through dynamic visualization and recommendation of charts.
 - [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag. ([Web](https://dygraphs.com/))
 - [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots) - Code and tutorials to visualise your data that is both beautiful _and_ statistically valid.
-- [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/)
+- [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/) ([HN](https://news.ycombinator.com/item?id=25916646))

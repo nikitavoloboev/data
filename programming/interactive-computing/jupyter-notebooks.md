@@ -22,6 +22,7 @@
 - [JupyterLab Commenting and Annotation](https://github.com/jupyterlab/jupyterlab-commenting)
 - [JupyterLab File Tree](https://github.com/youngthejames/jupyterlab_filetree)
 - [ILua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter.
+- [Cell toolbar for JupyterLab](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
 
 ## Links
 
