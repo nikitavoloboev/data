@@ -322,3 +322,6 @@
 - [Certified Kubernetes Security Specialist Study Guide](https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide)
 - [K3s Private Cluster](https://github.com/sagittaros/terraform-k3s-private-cloud) - Deploy full fledged K3s private clusters with Terraform.
 - [Scaling Kubernetes to 7,500 Nodes (2021)](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) ([HN](https://news.ycombinator.com/item?id=25907312))
+- [Kubernetes API Visualized (2021)](https://twitter.com/iximiuz/status/1353045442087571456)
+- [Swift K8s Service Discovery](https://github.com/tuplestream/swift-k8s-service-discovery) - Discover pods of interest in a Kubernetes cluster as they become available.
+- [k8dash](https://github.com/indeedeng/k8dash) - Simple Kubernetes real time dashboard and management.

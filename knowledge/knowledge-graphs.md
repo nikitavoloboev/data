@@ -65,3 +65,4 @@
 - [Knowledge Graphs Research](https://github.com/shaoxiongji/knowledge-graphs) - Collection of knowledge graph papers, codes, and reading notes.
 - [TorchKGE](https://github.com/torchkge-team/torchkge) - Knowledge Graph embedding in Python and PyTorch.
 - [kgextension](https://github.com/om-hb/kgextension) - Knowledge Graph Extension for Python. ([Docs](https://kgextension.readthedocs.io/en/latest/))
+- [Top-conference Papers on Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications)

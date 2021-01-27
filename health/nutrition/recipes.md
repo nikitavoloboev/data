@@ -33,3 +33,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Instantly search 2M recipes](https://recipe-search.typesense.org/) ([HN](https://news.ycombinator.com/item?id=25365397)) ([Code](https://github.com/typesense/showcase-recipe-search))
 - [recipes-parser](https://github.com/Charlie85270/recipes-parser) - Parse recipes instructions (string text entry) and extract ingredients, units and quantity.
 - [Kalester](https://kalester.com/) - Vegan recipes. Updated daily.
+- [The 20 best curry recipes (2021)](https://www.theguardian.com/food/2021/jan/25/the-20-best-curry-recipes)

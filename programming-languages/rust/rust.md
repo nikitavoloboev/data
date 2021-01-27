@@ -121,7 +121,7 @@
 - [Polonius (the future Rust borrow checker) talk at Rust-Belt-Rust 2019 - Nicholas Matsakis](https://nikomatsakis.github.io/rust-belt-rust-2019/) ([Reddit](https://www.reddit.com/r/rust/comments/e0aq6y/polonius_the_future_rust_borrow_checker_talk_at/))
 - [Rust Performance Pitfalls (2017)](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
 - [This Week in Rust Newsletter](https://this-week-in-rust.org/) ([Code](https://github.com/cmr/this-week-in-rust))
-- [Are we learning yet?](https://www.arewelearningyet.com/) - Work-in-progress to catalog the state of machine learning in Rust.
+- [Are we learning yet?](https://www.arewelearningyet.com/) - Work-in-progress to catalog the state of machine learning in Rust. ([Code](https://github.com/anowell/are-we-learning-yet))
 - [Neat Rust Tricks: Passing Rust Closures to C (2019)](https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c) ([HN](https://news.ycombinator.com/item?id=21631946))
 - [now-rust](https://github.com/mike-engel/now-rust) - Community based builder for using rust on the now/zeit platform.
 - [Sean Grove: Rust in the Browser for JavaScripters:New Frontiers,New Possibilities (2019)](https://www.youtube.com/watch?v=teDOE7zcf_g)

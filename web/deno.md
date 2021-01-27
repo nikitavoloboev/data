@@ -68,3 +68,4 @@
 - [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno.
 - [oak](https://github.com/oakserver/oak) - Middleware framework for Deno’s http server, including a router middleware.
 - [ssgo](https://github.com/mdubourg001/ssgo) - Minimalistic but flexible static site generator for Deno.
+- [Template for new Deno projects](https://github.com/starts-with/deno)

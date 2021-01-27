@@ -21,3 +21,4 @@
 - [Fretboard Trainer](https://fretboard-trainer.netlify.app/) - Memorize the guitar fretboard quickly.
 - [GuitarLSTM](https://github.com/GuitarML/GuitarLSTM) - Deep learning models for guitar amp/pedal emulation using LSTM with Keras. ([Web](https://guitarml.com/))
 - [go-dsp-guitar](https://github.com/andrepxx/go-dsp-guitar) - Cross-platform multichannel multi-effects processor for electric guitars and other instruments.
+- [GuitarML (2021)](https://blog.zakjost.com/post/guitarml/) ([Code](https://github.com/GuitarML/SmartGuitarAmp))

@@ -63,3 +63,4 @@
 - [Page Flows](https://pageflows.com/) - User flow design inspiration.
 - [A comprehensive list of UX design methods & deliverables (2021)](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
 - [UI & UX Design Resources](https://www.basetemplates.com/ui-ux-design-resources)
+- [Designing with Data: Improving the User Experience with User Flows (2021)](https://blog.useberry.com/designing-with-data-improving-the-user-experience-with-user-flows/)

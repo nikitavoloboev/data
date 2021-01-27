@@ -73,3 +73,4 @@
 - [Quartz](https://github.com/OhadRau/Quartz) - Statically typed, concurrent programming language for the BEAM VM based on the actor model.
 - [kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances.
 - [Erlang Dead Code Cleaner](https://github.com/AdRoll/rebar3_hank) ([Article](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html))
+- [Poolboy](https://github.com/devinus/poolboy) - Hunky Erlang worker pool factory.

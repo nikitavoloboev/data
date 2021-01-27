@@ -64,3 +64,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Examples for the usage of LaTeX](https://github.com/MartinThoma/LaTeX-examples)
 - [TeX: A Branch in Desktop Publishing Evolution (2018-2019)](https://www.walden-family.com/ieee/texhistory.html)
 - [Python2LaTeX](https://github.com/jsleb333/python2latex) - Python to LaTeX converter.
+- [MiKTeX](https://miktex.org/) - Modern C/C++ implementation of TeX & Friends. ([Code](https://github.com/MiKTeX/miktex))

@@ -109,7 +109,7 @@
 - [Linux Kernel Lectures and Labs](https://linux-kernel-labs.github.io/refs/heads/master/index.html) ([HN](https://news.ycombinator.com/item?id=22564665))
 - [Pretty and functional linux/unix desktop for former Mac users/Design freaks](https://github.com/milgra/tutorials/blob/master/pretty-and-functional-linux-destkop.md)
 - [Ask HN: How can a intermediate-beginner learn Unix/Linux and programming? (2020)](https://news.ycombinator.com/item?id=22649291)
-- [systemd](https://github.com/systemd/systemd) - System and Service Manager.
+- [systemd](https://github.com/systemd/systemd) - System and Service Manager. ([Web](https://systemd.io/))
 - [Speeding up Linux disk encryption (2020)](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/) ([HN](https://news.ycombinator.com/item?id=22683750))
 - [Multipass](https://github.com/canonical/multipass) - Lightweight VM manager for Linux, Windows and macOS. It's designed for developers who want a fresh Ubuntu environment with a single command.
 - [A "living" Linux process with no memory](https://github.com/izabera/zeromaps) ([HN](https://news.ycombinator.com/item?id=22693805))

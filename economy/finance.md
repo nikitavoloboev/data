@@ -79,3 +79,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Mintable](https://github.com/kevinschaich/mintable) - Automate your personal finances – for free, with no ads, and no data collection.
 - [Awesome Financial Networks](https://github.com/gautier-marti/awesome-financial-networks)
 - [Avera](https://avera.area120.com/) - Financial computation for the future.
+- [Matt Levine: Money Stuff and Life Stuff Interview (2019)](https://www.youtube.com/watch?v=Knni2SjQvUs)

@@ -30,6 +30,7 @@
 
 - [We’ve made an incredible innovation in hiring: Pay someone to do the work they would be doing if they get the job. If they are able to do it, they get the job.](https://twitter.com/shl/status/1260196779905052678)
 - [Do pilot projects for hiring instead of traditional interview with questions](https://overcast.fm/+Y-HUXijTI).
+- [Your job post should be an expression of your culture and values. If you value transparency, your job post should be as transparent as possible.](https://twitter.com/davidvfurlong/status/1354088604826558465)
 
 ## Links
 
@@ -70,3 +71,5 @@
 - [Measuring Hiring Manager Effectiveness (2020)](https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/)
 - [Reducing Time-to-Hire and Finding Niche Candidates via Text Mining and NLP (2021)](https://joinphase.com/talent-acquisition-nlp)
 - [DevScreen](https://www.devscreen.io/) - Interview problems that are authentic for what your next hire will be doing on your team.
+- [What is Asynchronous Hiring](https://asynchr.com/blog/tpost/x56zmg1e31-what-the-hell-is-asynchronous-hiring)
+- [Asynchr](https://asynchr.com/) - Asynchronous hiring for remote teams.

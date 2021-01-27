@@ -45,3 +45,5 @@
 - [Engems](https://github.com/palkan/engems) - Rails component-based architecture on top of engines and gems.
 - [Tokenable](https://github.com/tokenable/tokenable-ruby) - Rails gem that allows API-only applications a way to authenticate users.
 - [Rails: Postgres Partial Indexing (2021)](https://www.johnnunemaker.com/rails-postgres-partial-indexing/)
+- [Active Record, Postgres, Rails, and time travel (2021)](https://evilmartians.com/chronicles/logidze-1-0-active-record-postgresql-rails-and-time-travel)
+- [Rails PG Extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.

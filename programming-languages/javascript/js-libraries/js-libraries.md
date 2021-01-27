@@ -459,6 +459,8 @@
 - [Observable parser](https://github.com/observablehq/parser)
 - [Robot](https://github.com/matthewp/robot) - Functional, immutable Finite State Machine library. ([Docs](https://thisrobot.life/))
 - [Enmap](https://github.com/eslachance/enmap) - Enhanced Map structure with additional utility methods.
+- [Honeycomb](https://github.com/flauwekeul/honeycomb) - Create hex grids easily, in node or the browser.
+- [chunkify](https://github.com/sindresorhus/chunkify) - Split an iterable into evenly sized chunks.
 
 ## Links
 

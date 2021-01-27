@@ -45,3 +45,4 @@
 - [Product Notion](https://productnotion.co/) - Product Management Templates library in Notion.
 - [Escaping the Roadmap Trap (2021)](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
 - [Decisions, Decisions or Why Baskets of Options Dominate (2019)](https://medium.com/@kentbeck_7670/decisions-decisions-or-why-baskets-of-options-dominate-9ac63658b593)
+- [Miro's Product Alignment Approach (2021)](https://farbod.substack.com/p/miros-product-alignment-approach)

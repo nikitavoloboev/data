@@ -216,3 +216,5 @@
 - [graftr](https://github.com/lmnt-com/graftr) - Interactive shell to view and edit PyTorch checkpoints.
 - [EagerPy](https://github.com/jonasrauber/eagerpy) - Writing Code That Works Natively with PyTorch, TensorFlow, JAX, and NumPy. ([Web](https://eagerpy.jonasrauber.de/))
 - [Evidential Deep Learning to Quantify Classification Uncertainty (2018)](https://arxiv.org/abs/1806.01768) ([Code](https://github.com/dougbrion/pytorch-classification-uncertainty))
+- [PyProf](https://github.com/NVIDIA/PyProf) - GPU performance profiling tool for PyTorch models.
+- [ctcdecode](https://github.com/parlance/ctcdecode) - Implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch.

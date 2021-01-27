@@ -33,3 +33,4 @@
 - [go-proto-gql](https://github.com/danielvladco/go-proto-gql) - Protoc plugins for generating graphql schema and quickly create servers.
 - [Protocol Puffers](https://github.com/PragmaTwice/protopuf) - Little, highly templated, and protobuf-compatible serialization/deserialization library written in C++20.
 - [Pyrobuf](https://github.com/appnexus/pyrobuf) - Alternative to Google's Python Protobuf library.
+- [Protobuf Rules for Bazel](https://github.com/bazelbuild/rules_proto)

@@ -216,3 +216,7 @@
 - [Unsplash Image Search](https://github.com/haltakov/natural-language-image-search) - Search photos on Unsplash using natural language.
 - [Kimera Semantics](https://github.com/MIT-SPARK/Kimera-Semantics) - Real-Time 3D Semantic Reconstruction from 2D data.
 - [Voxblox++](https://github.com/ethz-asl/voxblox-plusplus) - Volumetric object-level semantic mapping framework.
+- [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces](https://nv-tlabs.github.io/nglod/) ([Code](https://github.com/nv-tlabs/nglod))
+- [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video (2020)](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/) ([Code](https://github.com/facebookresearch/nonrigid_nerf))
+- [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation (2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) ([Code](https://github.com/facebookresearch/DeepSDF))
+- [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)

@@ -110,3 +110,4 @@ All active variables can be seen by running `env`.
 - [The terminal, the console and the shell - what are they? (2021)](https://www.unixsheikh.com/articles/the-terminal-the-console-and-the-shell-what-are-they.html)
 - [tio](https://github.com/tio/tio) - Simple TTY terminal I/O application. ([Web](https://tio.github.io/))
 - [rwsh](https://github.com/tudurom/rwsh) - UNIX shell based around Structural Regular Expressions and the usam experiment.
+- [Why Create a New Unix Shell? (2021)](http://www.oilshell.org/blog/2021/01/why-a-new-shell.html) ([HN](https://news.ycombinator.com/item?id=25924647))

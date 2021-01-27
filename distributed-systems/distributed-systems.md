@@ -18,6 +18,7 @@
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.
 - [Raft](https://github.com/pingcap/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
+- [hraftd](https://github.com/otoolep/hraftd) - Hashicorp's Raft implementation.
 - [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ([HN](https://news.ycombinator.com/item?id=23113419))
 - [libp2p specification](https://github.com/libp2p/specs) - Technical specifications for the libp2p networking stack.
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class)
@@ -152,3 +153,4 @@
 - [The Fundamental Mechanism of Scaling (2021)](http://brooker.co.za/blog/2021/01/22/cloud-scale.html)
 - [Ray](https://ray.io/) - Simple, universal API for building distributed applications. Accelerating machine learning workloads. ([Code](https://github.com/ray-project/ray)) ([Docs](https://docs.ray.io/en/master/index.html))
 - [Jepsen](https://github.com/jepsen-io/jepsen) - Framework for distributed systems verification, with fault injection. Clojure library.
+- [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh (2019)](https://martinfowler.com/articles/data-monolith-to-mesh.html)

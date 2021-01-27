@@ -48,3 +48,5 @@
 - [Newsletter Crew](https://newslettercrew.com/) - Podcast, blog, and community for newsletter creators.
 - [NewsletterOS](https://newsletteros.com/) - Master the art of creating & running a newsletter.
 - [Dawn](https://github.com/TryGhost/Dawn) - Minimal newsletter theme for Ghost.
+- [Every](https://every.to/) - Bundle of newsletters and podcasts trusted by 25,000+ curious business people.
+- [Newsletters: rant about writing on the web (2021)](https://www.robinrendle.com/essays/newsletters)

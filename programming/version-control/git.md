@@ -219,3 +219,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Gogs](https://github.com/gogs/gogs) - Painless self-hosted Git service. ([Web](https://gogs.io/))
 - [git-big-picture](https://github.com/git-big-picture/git-big-picture) - Visualization tool for Git repositories.
 - [Mango](https://github.com/axic/mango) - Git, completely decentralised. Using Ethereum and P2P content addressable networks (Swarm, IPFS, SSB) as a backend to Git.
+- [git-url-parse](https://github.com/IonicaBizau/git-url-parse) - High level git url parser for common git providers.
+- [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit.

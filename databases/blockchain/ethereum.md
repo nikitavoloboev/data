@@ -160,3 +160,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM).
 - [A Developer's Guide to Ethereum](https://snakecharmers.ethereum.org/a-developers-guide-to-ethereum-pt-1/)
 - [indexed.wtf](https://indexed.wtf/) - Collectively built hub for indexing scaling solutions for Ethereum.
+- [EthBlock.art](https://ethblock.art/) - Paint Ethereum, mint NFTs, earn as a creative coder.
+- [Hedgehog](https://hedgehog.audius.co/) - Open-source, client-side Ethereum wallet that uses a username and password. ([Code](https://github.com/AudiusProject/hedgehog))

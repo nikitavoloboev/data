@@ -256,6 +256,7 @@
 - [The Minimalist Entrepreneur](https://sahillavingia.com/course) - Four-week cohort-based course.
 - [Startups with Extended Exercise Windows](https://github.com/holman/extended-exercise-windows)
 - [Linear: Building at the early stage. (2021)](https://medium.com/linear-app/building-at-the-early-stage-e79e696341db)
+- [My 2 Year Journey to $10K MRR (2021)](https://www.bannerbear.com/journey-to-10k-mrr/) ([HN](https://news.ycombinator.com/item?id=25929259))
 
 ## Images
 

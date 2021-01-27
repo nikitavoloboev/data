@@ -92,3 +92,5 @@
 - [syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
 - [kbld](https://github.com/vmware-tanzu/carvel-kbld) - Seamlessly incorporates image building and image pushing into your development and deployment workflows. ([Web](https://carvel.dev/kbld/))
 - [MayaStor](https://github.com/openebs/Mayastor) - Cloud native declarative data plane in containers for containers.
+- [SkiffOS](https://github.com/skiffos/SkiffOS) - Lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
+- [contained.af](https://contained.af/) - Game for learning about containers, capabilities, and syscalls. ([Code](https://github.com/genuinetools/contained.af))

@@ -19,3 +19,4 @@
 - [Qt Desktop Days 2020](https://www.youtube.com/playlist?list=PL6CJYn40gN6gK8l5VXdt7WNRPmhbt0VoQ)
 - [Qt Widgets and more (2020)](https://www.youtube.com/playlist?list=PL6CJYn40gN6gf-G-o6syFwGrtq3kItEqI)
 - [install-qt-action](https://github.com/jurplel/install-qt-action) - Install Qt on your Github Actions workflows.
+- [Qt and CMake: The Past, the Present and the Future (2021)](https://www.qt.io/blog/qt-and-cmake-the-past-the-present-and-the-future)

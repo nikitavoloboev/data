@@ -50,3 +50,4 @@
 - [MiniZinc](https://www.minizinc.org/) - High-level constraint modelling language that allows you to easily express and solve discrete optimization problems. ([Code](https://github.com/MiniZinc/libminizinc)) ([Solving River Crossing Puzzles With MiniZinc](https://sasnauskas.eu/solving-river-crossing-puzzles-with-minizinc/))
 - [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html) - Formal Mathematical Language.
 - [Dafny](https://github.com/dafny-lang/dafny) - Verification-aware programming language. ([Docs](https://dafny-lang.github.io/dafny/))
+- [Formal Methods Research Group - University of Glasgow](http://www.dcs.gla.ac.uk/research/formalmethods/)

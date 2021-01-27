@@ -24,3 +24,4 @@
 - [pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python.
 - [SOVA TTS](https://github.com/sovaai/sova-tts) - Speech syntthesis solution based on Tacotron 2 architecture.
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.
+- [PRiSM SampleRNN](https://github.com/rncm-prism/prism-samplernn) - Neural sound synthesis with TensorFlow 2.

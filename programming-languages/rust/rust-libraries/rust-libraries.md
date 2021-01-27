@@ -143,6 +143,7 @@
 - [httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
 - [iai](https://github.com/bheisler/iai) - Experimental One-shot Benchmark Framework in Rust.
 - [Test Case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily.
+- [rutenspitz](https://github.com/jakubadamw/rutenspitz) - Procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation.
 
 ## Error
 
@@ -330,7 +331,7 @@
 - [Amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
 - [Constellation](https://github.com/constellation-rs/constellation) - Distributed programming for Rust.
 - [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations.
-- [Evcxr](https://github.com/google/evcxr) - Evaluation context for Rust.
+- [Evcxr](https://github.com/google/evcxr) - Rust REPL and Jupyter Kernel. ([HN](https://news.ycombinator.com/item?id=25921894))
 - [Declarative Dataflow](https://github.com/comnik/declarative-dataflow) - Reactive query engine built on differential dataflow.
 - [refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [Juggernaut](https://github.com/afshinm/juggernaut) - Experimental Neural Network written in Rust.
@@ -694,6 +695,9 @@
 - [Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library contains linear algebra, numerical analysis, statistics and machine learning tools with R, MATLAB, Python like macros.
 - [Embassy](https://github.com/akiles/embassy) - Rust embedded async tools.
 - [uniffi](https://github.com/mozilla/uniffi-rs) - Multi-language bindings generator for rust.
+- [gaol](https://github.com/servo/gaol) - Cross-platform application sandboxing for Rust.
+- [auto_enums](https://github.com/taiki-e/auto_enums) - Library for to allow multiple return types by automatically generated enum.
+- [pin-project](https://github.com/taiki-e/pin-project) - Crate for safe and ergonomic pin-projection.
 
 ## Cargo Plugins
 

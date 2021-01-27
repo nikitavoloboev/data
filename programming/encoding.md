@@ -21,3 +21,4 @@
 - [Awesome Code Points](https://github.com/Codepoints/awesome-codepoints) - Curated list of characters in Unicode, that have interesting (and maybe not widely known) features or are awesome in some other way.
 - [Text rendering tests](https://github.com/unicode-org/text-rendering-tests) - Unicode’s test suite for text rendering engines.
 - [Executable PNGs (2020)](https://djharper.dev/post/2020/12/26/executable-pngs/) ([Lobsters](https://lobste.rs/s/npswqw/executable_pngs)) ([HN](https://news.ycombinator.com/item?id=25543191))
+- [Unicode Proposal to Encode Subscripts/Superscripts for Mathematical Programming](https://github.com/stevengj/subsuper-proposal)

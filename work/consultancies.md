@@ -59,6 +59,7 @@
 - [Unlikely Objects](https://unlikelyobjects.com/) - Storytelling studio.
 - [FAVO Studio](https://favostudio.com/) - Motion Design, Animation & Video.
 - [Websmyth](https://websmyth.co/) - Custom Websites For Small Businesses.
+- [PHYGITALISM](https://phygitalism.com/) - Moscow based design studio.
 
 ## DB
 
@@ -169,6 +170,7 @@
 - [Together](https://www.togethercreative.co.uk/) - Multidisciplinary creative & technology agency, spanning brand, communication, development and strategy.
 - [SecretKeys](https://secretkeys.io/) - Privacy Tech & Consulting. ([GitHub](https://github.com/secretkeysio))
 - [ustwo](https://www.ustwo.com/) - Digital product studio.
+- [Provectus](https://provectus.com/) - AI-First Consultancy and Solutions Provider.
 
 ## Links
 

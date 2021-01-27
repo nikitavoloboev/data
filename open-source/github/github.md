@@ -189,3 +189,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Stale Bots – A False Economy (2021)](https://blog.benwinding.com/github-stale-bots/) ([HN](https://news.ycombinator.com/item?id=25821092))
 - [GitHub Socialify](https://socialify.git.ci/) - Generate a nice image for a GitHub repo. ([Code](https://github.com/wei/socialify))
 - [Get notified when a file on GitHub has changed (2021)](https://blog.mastykarz.nl/get-notified-file-github-changed/)
+- [Awesome READMEs](https://github.com/leogdion/AWESOME-AWESOME-README)

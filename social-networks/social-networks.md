@@ -87,3 +87,5 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [My personal wishlist for a decentralized social network](https://carter.sande.duodecima.technology/decentralized-wishlist/) ([HN](https://news.ycombinator.com/item?id=25731419))
 - [Myrme](https://getmyrme.com/) - Prosocial network. ([Article](https://www.spakhm.com/p/a-prosocial-social-network))
 - [Martin Kleppman: Decentralized content moderation (2021)](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
+- [Hypergrowth Network](https://www.basisset.ventures/hypergrowth-network) - Get advice from the best go-to-market leaders in tech.
+- [CTZN](https://github.com/pfrazee/ctzn) - Distributed social network. Twitter-style feed and posts.

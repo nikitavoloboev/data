@@ -33,3 +33,4 @@
 - [Rosebox](https://github.com/rosebox/rosebox) - CSS in Typescript. ([Web](https://www.rosebox.dev/))
 - [System Props](https://github.com/roginfarrer/system-props) - Inspired by styled-system, a responsive, theme-based style props for building design systems with React. ([Web](https://system-props.com/))
 - [The styled-components happy path (2021)](https://www.joshwcomeau.com/css/styled-components/)
+- [CSS-in-TS research analysis](https://github.com/andreipfeiffer/css-in-js)

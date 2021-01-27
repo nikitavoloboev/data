@@ -44,6 +44,7 @@
     - [Synthesizers](music/music-production/synthesizers.md)
     - [Guitar](music/music-production/guitar.md)
   - [Singing](music/singing.md)
+  - [Ambient Sounds](music/ambient.md)
 - [Life](life/life.md)
   - [Happiness](life/happiness.md)
   - [Time](life/time.md)

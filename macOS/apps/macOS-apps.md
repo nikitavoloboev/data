@@ -131,3 +131,4 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Awesome macOS Software](https://github.com/phmullins/awesome-macos)
 - [Distributing Mac apps outside the App Store, a quick start guide (2021)](https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store) ([HN](https://news.ycombinator.com/item?id=25757228))
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Premium software sorted by category.
+- [Releasecast](https://github.com/superhighfives/releasecast) - Tool to help you get from app to release.

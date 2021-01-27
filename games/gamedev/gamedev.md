@@ -134,3 +134,4 @@
 - [John Carmack on Quake, Internet Play and Latency](https://fabiensanglard.net/quakeSource/johnc-log.aug.htm)
 - [OpenGameArt.org](https://opengameart.org/) - Open content assets for games.
 - [Thoughts on making small games (2021)](https://a327ex.github.io/blog/small-games)
+- [Gamedev from scratch 1: Scaffolding (2021)](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)

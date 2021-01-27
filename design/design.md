@@ -159,3 +159,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Land Your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job) - Guide for product designers, from portfolio to interview to job offer.
 - [Screenlane](https://screenlane.com/) - Web & mobile UI design inspiration.
 - [State of Design in 2021](https://www.abstract.design/state-of-design)
+- [The Design Squiggle](https://thedesignsquiggle.com/) - Design process illustrated.

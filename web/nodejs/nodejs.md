@@ -1,5 +1,7 @@
 # [Node.js](https://nodejs.org/en/)
 
+I use [np](https://github.com/sindresorhus/np) to publish packages.
+
 ## Links
 
 - [Introduction to Node.js](https://nodejs.dev/)
@@ -179,3 +181,4 @@
 - [tasksfile](https://github.com/pawelgalazka/tasksfile) - Minimalistic task runner for node.js.
 - [Node.js race conditions (2021)](https://www.nodejsdesignpatterns.com/blog/node-js-race-conditions/)
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
+- [Gluegun](https://github.com/infinitered/gluegun) - Delightful toolkit for building TypeScript-powered command-line apps.

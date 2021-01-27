@@ -67,3 +67,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Lichess End of Year Update 2020](https://lichess.org/blog/X-2TABUAANCqhnH5/lichess-end-of-year-update-2020)
 - [Notes on Chess](https://github.com/pepellou/knowledge/blob/master/chess/README.md)
 - [chess-pipeline](https://github.com/charlesoblack/chess-pipeline) - Pulling games from the Lichess API into a PostgreSQL database for data analysis.
+- [chess-engine](https://github.com/adam-mcdaniel/chess-engine) - Pure Rust, dependency-free chess engine that doesn't require a runtime.

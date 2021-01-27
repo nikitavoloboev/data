@@ -48,3 +48,4 @@
 - [logicsim](https://github.com/raycar5/logicsim) - Create and simulate digital circuits with Rust abstractions.
 - [Electronics Notes](https://www.electronics-notes.com/) - Reference site for electronics, radio & wireless.
 - [JITX](https://www.jitx.com/) - Software-defined electronics.
+- [CircuitJS1](https://github.com/sharpie7/circuitjs1) - Electronic circuit simulator that runs in the browser.

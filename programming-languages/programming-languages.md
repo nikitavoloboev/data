@@ -166,3 +166,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Quine Relay](https://github.com/mame/quine-relay) - Ruby program that generates Rust program that generates Scala program that generates.
 - [Language Graph](https://akr.am/languages/) - Shows a graph where the nodes are programming languages and the edges are compilers. ([Code](https://github.com/mohd-akram/languages))
 - [GumTree](https://github.com/GumTreeDiff/gumtree) - Complete framework to deal with source code as trees and compute differences between them.
+- [Linguist](https://github.com/github/linguist) - Library is used on GitHub.com to create languages used breakdowns.

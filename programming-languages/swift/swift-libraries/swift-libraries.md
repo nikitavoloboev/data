@@ -247,6 +247,7 @@
 - [BetterSheet](https://github.com/egeniq/BetterSheet) - Powerful SwiftUI sheet replacement.
 - [swiftui-navigation-stack](https://github.com/matteopuc/swiftui-navigation-stack) - Alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
+- [AVPlayer-SwiftUI](https://github.com/ChrisMash/AVPlayer-SwiftUI) - Using AVPlayer in SwiftUI.
 
 ## Test
 
@@ -595,6 +596,7 @@
 - [GraphQL Language](https://github.com/niw/GraphQLLanguage) - Simple GraphQL language parser library for Swift.
 - [NativeMarkKit](https://github.com/andyfinnell/NativeMarkKit) - Flavor of Markdown designed to be rendered by native apps.
 - [SwiftGestalt](https://github.com/swift-gestalt/SwiftGestalt) - Native Swift (Metadata) Runtime Introspection Libraries.
+- [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout.
 
 ## Other (not lib)
 

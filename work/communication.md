@@ -80,3 +80,4 @@
 - [Programming Is Collaboration](https://programming-is-collaboration.com/) - Software Book.
 - [Beeper](https://www.beeperhq.com/) - All Your Chats In One App. ([HN](https://news.ycombinator.com/item?id=25848278))
 - [The high price of mistrust (2021)](https://fs.blog/2021/01/mistrust/) ([HN](https://news.ycombinator.com/item?id=25903576))
+- [Importance of asking questions and not worrying about messing up (2021)](https://twitter.com/EvyKassirer/status/1220556930675904516) ([HN](https://news.ycombinator.com/item?id=25922975))

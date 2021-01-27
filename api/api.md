@@ -87,10 +87,12 @@
 - [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
+- [Spotify GraphQL](https://github.com/wittydeveloper/spotify-graphql) - GraphQL schema for Spotify WebAPI.
 - [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 - [Spotify Rust 2](https://github.com/plietar/librespot)
-- [Spotiy iOS SDK](https://github.com/spotify/ios-sdk)
+- [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
+- [TikTok Python](https://github.com/davidteather/TikTok-Api) - Unofficial API.
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Google News Python](https://github.com/kotartemiy/pygooglenews)
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.

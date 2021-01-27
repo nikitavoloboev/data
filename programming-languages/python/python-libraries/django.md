@@ -73,3 +73,4 @@
 - [Django antipatterns](https://www.django-antipatterns.com/) ([Code](https://github.com/hapytex/django-antipatterns))
 - [Turbo for Django](https://github.com/hotwire-django/turbo-django) - Integration of Hotwire Turbo with Django.
 - [Modern Django: A Guide on How to Deploy Django-based Web Applications](https://github.com/djstein/modern-django)
+- [Django Algolia Integration](https://github.com/algolia/algoliasearch-django)

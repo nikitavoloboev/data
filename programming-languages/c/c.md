@@ -124,3 +124,5 @@
 - [B. Harvey's Intro to C (2007)](https://inst.eecs.berkeley.edu//~cs61c/resources/HarveyNotesC1-3.pdf)
 - [lcc](https://github.com/drh/lcc) - Retargetable Compiler for ANSI C. ([Web](https://drh.github.io/lcc/))
 - [C Compiler/Parser written in Rust](https://github.com/thepowersgang/rust-cc)
+- [c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly.
+- [List of C static analysis tools](https://github.com/csvitlik/static_analysis_tools)

@@ -349,3 +349,4 @@
 - [Serverless Python Requirements](https://github.com/UnitedIncome/serverless-python-requirements) - Serverless plugin to bundle Python packages.
 - [pydeps](https://github.com/thebjorn/pydeps) - Python module dependency visualization.
 - [pdoc](https://pdoc.dev/) - Auto-generate API documentation for Python projects. ([Code](https://github.com/mitmproxy/pdoc)) ([HN](https://news.ycombinator.com/item?id=25903595))
+- [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - Curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.

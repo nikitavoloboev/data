@@ -8,7 +8,7 @@ If analytics are used, it's best to implement them server side with something li
 
 ## Links
 
-- [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Golang & Preact. ([Code](https://github.com/usefathom/fathom))
+- [Fathom](https://usefathom.com/) - Simple, trustworthy website analytics. Built with Go & Preact. ([Code](https://github.com/usefathom/fathom))
 - [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More. ([Grafana Backup Tool](https://github.com/ysde/grafana-backup-tool))
@@ -24,7 +24,7 @@ If analytics are used, it's best to implement them server side with something li
 - [What is your preferred web traffic analytics platform? (2020)](https://lobste.rs/s/gzkue1/what_is_your_preferred_web_traffic)
 - [blackrock](https://github.com/rekki/blackrock) - Events & Analytics.
 - [RudderStack](https://rudderstack.com/) - Platform for collecting, storing and routing customer event data to dozens of tools. ([Code](https://github.com/rudderlabs/rudder-server))
-- [OpenTelemetry API for Javascript](https://github.com/open-telemetry/opentelemetry-js) - Framework for collecting traces and metrics from applications.
+- [OpenTelemetry API for JavaScript](https://github.com/open-telemetry/opentelemetry-js) - Framework for collecting traces and metrics from applications.
 - [PostHog](https://posthog.com/) - Developer-friendly, open-source product analytics. ([Code](https://github.com/PostHog/posthog))
 - [We ditched Google Analytics for good (2020)](https://missiveapp.com/blog/privacy-first-analytics)
 - [A simple way to get more value from metrics](https://danluu.com/metrics-analytics/)

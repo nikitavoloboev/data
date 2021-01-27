@@ -47,3 +47,4 @@
 - [VueDX](https://github.com/znck/vue-developer-experience) - Collection of tools for Vue ecosystem.
 - [Vue Chemistry](https://github.com/antfu/vue-chemistry) - Reactified JavaScript functions for Vue.
 - [vueuse/head](https://github.com/vueuse/head) - Document head manager for Vue 3. SSR ready.
+- [Vue Native](https://vue-native.io/) - Framework to build cross platform native mobile apps using JavaScript. ([Code](https://github.com/GeekyAnts/vue-native-core)) ([HN](https://news.ycombinator.com/item?id=25927184))

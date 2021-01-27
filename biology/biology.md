@@ -53,3 +53,4 @@
 - [Fungi’s Lessons for Adapting to Life on a Damaged Planet (2020)](https://lithub.com/fungis-lessons-for-adapting-to-life-on-a-damaged-planet/)
 - [Handbook of Biological Statistics](http://www.biostathandbook.com/)
 - [American Society for Microbiology](https://asm.org/)
+- [Mushrooms, Russia and History Book (1957)](https://github.com/squidsoup/mushrooms-russia-history-ebook)

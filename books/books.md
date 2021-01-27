@@ -335,3 +335,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Free Ebook Foundation](https://ebookfoundation.org/) - Making the world safe for free ebooks. ([GitHub](https://github.com/EbookFoundation))
 - [Approaching (Almost) Any Machine Learning Problem (2020)](https://www.goodreads.com/book/show/53928375-approaching-almost-any-machine-learning-problem) ([Article](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur/)) ([Code](https://github.com/abhishekkrthakur/approachingalmost))
 - [ePubViewer](https://pgaskin.net/ePubViewer/) - ePub viewer with dictionary, themes, search, offline support, and more. ([Code](https://github.com/pgaskin/ePubViewer))
+- [Historical Dictionary of Science Fiction](https://sfdictionary.com/)

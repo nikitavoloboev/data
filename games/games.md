@@ -159,3 +159,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Puzzles](http://nikoli.co.jp/en/puzzles/)
 - [playit.gg](https://playit.gg/) - Making it easy to play games with friends.
 - [Proton Custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
+- [FACEIT](https://www.faceit.com/en) - Competitive gaming platform for online multiplayer games. ([GitHub](https://github.com/faceit))

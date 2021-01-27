@@ -17,3 +17,4 @@
 - [DIY SYNTH VCO: How to build an analog oscillator core from scratch (2020)](https://www.youtube.com/watch?v=QBatvo8bCa4)
 - [Patchcab](https://github.com/spectrome/patchcab) - Modular Eurorack style synthesizer made with Web Audio. ([Web](https://patch.cab/))
 - [Synth Kitchen](https://synth.kitchen/) - In-browser modular synthesis with Web Audio and Web MIDI. ([Code](https://github.com/spencerudnick/synth.kitchen))
+- [WASM Synth](https://timdaub.github.io/wasm-synth/) - Synthesizer built from scratch in C++ and made available on the web through WebAssembly.

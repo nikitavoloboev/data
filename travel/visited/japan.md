@@ -28,3 +28,5 @@
 - [Tagaini Jisho](https://www.tagaini.net/) - Free, open-source Japanese dictionary and kanji lookup tool. ([Code](https://github.com/Gnurou/tagainijisho))
 - [Research-Based Methods for Learning Japanese (2021)](https://japanesecomplete.com/articles/?p=1282)
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/) - Exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese. ([Code](https://github.com/SethClydesdale/genki-study-resources))
+- [Tokyo.dev](https://www.tokyodev.com/) - Software Developer Jobs in Japan.
+- [Kyoto, Japan (2020)](https://www.arun.is/blog/kyoto/)

@@ -161,3 +161,5 @@
 - [PyGame Learning Environment](https://github.com/ntasfi/PyGame-Learning-Environment) - Reinforcement Learning Environment in Python.
 - [OpenAI PLE environment](https://github.com/lusob/gym-ple) - Learning environment, mimicking the Arcade Learning Environment interface.
 - [h-baselines](https://github.com/AboudyKreidieh/h-baselines) - High-performing hierarchical reinforcement learning models and algorithms.
+- [AI Habitat](https://aihabitat.org/) - Simulation platform for research in Embodied AI. ([Habitat Challenge 2020 Code](https://github.com/facebookresearch/habitat-challenge))
+- [Fundamentals of Multiagent Systems (2010)](http://jmvidal.cse.sc.edu/papers/mas.pdf)

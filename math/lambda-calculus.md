@@ -45,3 +45,4 @@ Is logical theory of computable functions.
 - [Lambda calculus Notes](https://crypto.stanford.edu/~blynn/lambda/)
 - [Lamcal](https://github.com/haraldmaida/lamcal) - Lambda Calculus parser and evaluator and a separate command line REPL application to play around with lambda expressions interactively.
 - [Lambda Calculus and Categories](https://github.com/pamellies/lambda-calculus-and-categories)
+- [LambdaPiPlus](https://github.com/lambda-pi-plus/lambda-pi-plus) - Simple Dependently-Typed Language for Research and Learning.

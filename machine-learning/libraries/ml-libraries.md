@@ -113,3 +113,5 @@
 - [dabnn](https://github.com/JDAI-CV/dabnn) - Accelerated binary neural networks inference framework for mobile platform.
 - [OneFlow](https://github.com/Oneflow-Inc/oneflow) - Performance-centered and open-source deep learning framework.
 - [DeepWalk](https://github.com/phanein/deepwalk) - Deep Learning for Graphs. ([Web](http://www.perozzi.net/projects/deepwalk/))
+- [sequitur](https://github.com/shobrook/sequitur) - Autoencoders for sequence data.
+- [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Machine learning python package for learning with noisy labels and finding label errors in datasets.

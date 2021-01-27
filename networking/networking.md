@@ -193,3 +193,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [CoreRAD](https://github.com/mdlayher/corerad) - Extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. ([Web](https://corerad.net/))
 - [Intro to securing communication protocols with Noise (2021)](https://grund.me/posts/securing-custom-protocols-with-noise/)
 - [GoBGP](https://github.com/osrg/gobgp) - BGP implementation in Go. ([Web](https://osrg.github.io/gobgp/))
+- [DPDK](https://github.com/DPDK/dpdk) - Set of libraries and drivers for fast packet processing.

@@ -63,3 +63,4 @@
 - [State of Microservices 2020 Report](https://tsh.io/state-of-microservices/)
 - [Podinfo](https://github.com/stefanprodan/podinfo) - Tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 - [Building Go Web Applications and Microservices Using Gin (2020)](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) ([Code](https://github.com/gitpod-io/go-gin-app))
+- [Microservices on cloud-based Kubernetes](https://github.com/didier-durand/microservices-on-cloud-kubernetes)

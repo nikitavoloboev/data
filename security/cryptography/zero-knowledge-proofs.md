@@ -23,3 +23,5 @@
 - [Tau Prolog](http://tau-prolog.org/) - Prolog interpreter in JavaScript. ([Code](https://github.com/tau-prolog/tau-prolog))
 - [Zero Knowledge Paillier](https://github.com/ZenGo-X/zk-paillier) - Collection of Paillier cryptosystem zero knowledge proofs written in Rust.
 - [rapidsnark](https://github.com/iden3/rapidsnark) - zkSnark proof generation.
+- [An approximate introduction to how zk-SNARKs are possible (2021)](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [OpenZKP](https://github.com/0xProject/OpenZKP) - Pure Rust implementations of Zero-Knowledge Proof systems.

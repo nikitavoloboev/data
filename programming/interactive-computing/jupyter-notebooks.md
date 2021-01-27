@@ -23,6 +23,7 @@
 - [JupyterLab File Tree](https://github.com/youngthejames/jupyterlab_filetree)
 - [ILua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter.
 - [Cell toolbar for JupyterLab](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
+- [xeus-octave](https://github.com/rapgenic/xeus-octave) - Native Octave kernel for jupyter with advanced visualization.
 
 ## Links
 

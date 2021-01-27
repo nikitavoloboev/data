@@ -59,3 +59,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [‘Success Addicts’ Choose Being Special over Being Happy (2020)](https://www.theatlantic.com/family/archive/2020/07/why-success-wont-make-you-happy/614731/) ([HN](https://news.ycombinator.com/item?id=24007274))
 - [How to be happy (without getting lucky)](https://twitter.com/dvassallo/status/1300306727963828226)
 - [What small change(s) has made a large impact on your life? (2020)](https://lobste.rs/s/4oiijk/what_small_change_s_has_made_large_impact)
+- [100+ Hacks for Boosting Your Happiness Chemicals](https://www.theemotionmachine.com/100-hacks-for-boosting-your-happiness-chemicals/)
