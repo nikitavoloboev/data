@@ -9,3 +9,4 @@
 - [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform.
 - [EvilCrow-Keylogger](https://github.com/joelsernamoreno/EvilCrow-Keylogger) - WiFi keylogger with Micro SD slot, based on the Atmega32U4 microcontroller and the ESP32-PICO module.
 - [DAWN](https://github.com/berlin-open-wireless-lab/DAWN) - Decentralized WiFi Controller.
+- [OpenWifiPass](https://github.com/seemoo-lab/openwifipass) - Open source implementation of Apple's Wi-Fi Password Sharing protocol in Python. ([HN](https://news.ycombinator.com/item?id=25928068))

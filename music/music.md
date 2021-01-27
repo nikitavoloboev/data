@@ -8,7 +8,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 
 - [How to Science [Part 1: Music]](https://www.youtube.com/watch?v=d3mHfqd0VZY)
 - [Coding music](https://gist.github.com/staltz/99d70c8ae57bdc71a53b83e74a51d096)
-- [Leaf Music](https://www.leafmusic.com/)
 - [Platlist Detective](https://www.playlistdetective.com/) - Search Spotify playlists.
 - [Every Noise at Once](http://everynoise.com/engenremap.html)
 - [How to shuffle songs? (2014)](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/)

@@ -194,3 +194,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Intro to securing communication protocols with Noise (2021)](https://grund.me/posts/securing-custom-protocols-with-noise/)
 - [GoBGP](https://github.com/osrg/gobgp) - BGP implementation in Go. ([Web](https://osrg.github.io/gobgp/))
 - [DPDK](https://github.com/DPDK/dpdk) - Set of libraries and drivers for fast packet processing.
+- [Open Wireless Link](https://github.com/seemoo-lab/owl) - Open Apple Wireless Direct Link (AWDL) implementation written in C. ([Web](https://owlink.org/))

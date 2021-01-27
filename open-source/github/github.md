@@ -30,6 +30,7 @@ I publish most of my work and make it open source for other people to use and re
 - [Siren](https://github.com/vsitzmann/siren) - Like the Project Page | Paper | Data links links + no extra things in readme.
 - [next.js](https://github.com/vercel/next.js/) - Clean, nice logo.
 - [Notable](https://github.com/notable/notable) - Like the icons after the heading & nice screenshots.
+- [Contributing template by Sindre](https://github.com/sindresorhus/.github/blob/main/contributing.md)
 
 ## Notes
 

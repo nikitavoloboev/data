@@ -31,3 +31,4 @@
 - [Cheetah](https://github.com/Picovoice/cheetah) - On-device streaming speech-to-text engine powered by deep learning.
 - [WaveRNN](https://github.com/fatchord/WaveRNN) - PyTorch implementation of Deepmind's WaveRNN model from Efficient Neural Audio Synthesis.
 - [Conformer](https://github.com/sooftware/conformer) - PyTorch implementation of Conformer: Convolution-augmented Transformer for Speech Recognition.
+- [A Review of End-to-End Architectures for Speech Recognition (2021)](https://www.assemblyai.com/blog/a-survey-on-end-to-end-speech-recognition-architectures-in-2021)

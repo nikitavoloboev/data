@@ -94,3 +94,4 @@
 - [Expa](https://expa.com/) - Network of entrepreneurs supporting founders through expertise, access & funding.
 - [Basis Set Ventures](https://www.basisset.ventures/) - Invests in early-stage technology companies.
 - [The Production Board](https://www.theproductionboard.com/) - Investment foundry focused on improving technologies in agriculture, food, and life sciences.
+- [Social Capital](https://www.socialcapital.com/)
