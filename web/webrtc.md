@@ -39,3 +39,4 @@
 - [RingRTC](https://github.com/signalapp/ringrtc) - Middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC.
 - [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio.
 - [WebRTC.rs](https://github.com/webrtc-rs/webrtc) - Pure Rust implementation of WebRTC API.
+- [WebRTC is now a W3C and IETF standard (2021)](https://web.dev/webrtc-standard-announcement/) ([HN](https://news.ycombinator.com/item?id=25933016))

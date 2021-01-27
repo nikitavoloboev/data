@@ -14,3 +14,4 @@
 - [story2sketch](https://github.com/chrisvxd/story2sketch) - Convert Storybook stories into Sketch symbols.
 - [Sketch Real-time collaboration](https://www.sketch.com/collab/)
 - [macOS UI Kit for Sketch](https://github.com/alexkaessner/macOS-UI-Kit) - Incredibly detailed and most accurate macOS UI Kit for Sketch.
+- [Auto Layout for Sketch](https://github.com/AnimaApp/Auto-Layout) - Enables designers to design fully responsive artboards.

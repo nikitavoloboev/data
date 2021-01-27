@@ -218,3 +218,4 @@
 - [Evidential Deep Learning to Quantify Classification Uncertainty (2018)](https://arxiv.org/abs/1806.01768) ([Code](https://github.com/dougbrion/pytorch-classification-uncertainty))
 - [PyProf](https://github.com/NVIDIA/PyProf) - GPU performance profiling tool for PyTorch models.
 - [ctcdecode](https://github.com/parlance/ctcdecode) - Implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch.
+- [OpenMM PyTorch Plugin](https://github.com/openmm/openmm-torch) - OpenMM plugin to define forces with neural networks.

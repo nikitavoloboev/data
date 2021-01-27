@@ -17,3 +17,4 @@
 - [The local timeline is the key to enjoying Mastodon (2020)](https://cfenollosa.com/blog/you-may-be-using-mastodon-wrong.html) ([HN](https://news.ycombinator.com/item?id=24819387))
 - [Adding comments to your static blog with Mastodon (2020)](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/) ([HN](https://news.ycombinator.com/item?id=25570268))
 - [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon, Pleroma and Misskey API client library for node.js and browser.
+- [Hyperspace Desktop](https://github.com/hyperspacedev/hyperspace) - Beautiful, fluffy client for Mastodon in React + TypeScript.

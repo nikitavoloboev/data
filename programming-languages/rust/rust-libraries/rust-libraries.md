@@ -99,6 +99,7 @@
 - [RustRocks](https://github.com/bh1xuw/rust-rocks) - RocksDB binding for Rust.
 - [Cask](https://github.com/andresilva/cask) - Fast key-value store written in Rust.
 - [Buzz Rust](https://github.com/cloudfuse-io/buzz-rust) - Serverless query engine.
+- [wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine.
 
 ## Graphics
 

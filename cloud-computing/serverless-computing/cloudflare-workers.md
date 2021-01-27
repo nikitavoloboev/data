@@ -38,3 +38,4 @@
 - [Cloudflare Workers Catalog](https://workers-catalog.pages.dev/) - Explore the existing Workers projects or just look for the right tooling for your next one. ([Code](https://github.com/eidam/cf-workers-catalog))
 - [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites.
 - [workers-pubsub](https://github.com/sagi/workers-pubsub) - Google Pub/Sub API for Cloudflare Workers (and Node.js).
+- [db-connect](https://github.com/cloudflare/db-connect) - Connect your SQL database to Cloudflare Workers.

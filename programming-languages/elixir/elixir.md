@@ -77,3 +77,4 @@
 - [kiex](https://github.com/taylor/kiex) - Elixir version manager. ([Web](http://taylor.github.io/kiex/))
 - [What Is Elixir Genserver (2020)](https://www.papercups.io/blog/genserver)
 - [Building Terminal Apps with Elixir (2019)](https://ndreynolds.com/posts/2019-01-27-terminal-apps-with-elixir.html)
+- [Towards Maintainable Elixir: The Development Process (2021)](https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109)

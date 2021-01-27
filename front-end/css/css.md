@@ -256,3 +256,5 @@
 - [RFS](https://github.com/twbs/rfs) - Unit resizing engine which was initially developed to resize font sizes.
 - [Understanding Clip Path in CSS (2021)](https://ishadeed.com/article/clip-path/)
 - [Inactive CSS](https://github.com/captainbrosset/inactive-css) - List of rules for when CSS properties have no effect.
+- [Classcat](https://github.com/jorgebucaran/classcat) - Build a space-separated class attribute quickly.
+- [CSS: prefers-color-scheme (2021)](https://3fx.ch/blog/2021/01/27/css-prefers-color-scheme/)
