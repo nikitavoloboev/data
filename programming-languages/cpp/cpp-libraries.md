@@ -178,6 +178,7 @@
 - [RadixSpline](https://github.com/learnedsystems/RadixSpline) - Read-only learned index structure that can be built in a single pass over sorted data.
 - [Minisketch](https://github.com/sipa/minisketch) - Optimized library for BCH-based set reconciliation.
 - [TiledArray](https://github.com/ValeevGroup/tiledarray) - Massively-parallel, block-sparse tensor framework written in C++.
+- [FBGEMM](https://github.com/pytorch/FBGEMM) - Low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference.
 
 ## Links
 

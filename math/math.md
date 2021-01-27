@@ -226,7 +226,7 @@
 - [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
 - [Mathematics and Computation (2018)](https://www.math.ias.edu/files/mathandcomp.pdf#page=1)
 - [Graph Toy](http://memorystomp.com/graphtoy/) - Interactive graph visualizer using mathematical functions. ([HN](https://news.ycombinator.com/item?id=25574661))
-- [The Map of Mathematics](https://mathmap.quantamagazine.org/)
+- [The Map of Mathematics](https://mathmap.quantamagazine.org/) ([HN](https://news.ycombinator.com/item?id=25920822))
 - [Graphtoy](https://graphtoy.com/) ([HN](https://news.ycombinator.com/item?id=25612132))
 - [Principle of Maximum Entropy (2020)](https://leimao.github.io/blog/Maximum-Entropy/) ([HN](https://news.ycombinator.com/item?id=25641459))
 - [The Riemann Hypothesis, Explained (2021)](https://www.youtube.com/watch?v=zlm1aajH6gY) ([Article](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/))

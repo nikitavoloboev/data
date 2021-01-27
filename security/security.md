@@ -145,3 +145,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Ask HN: Where can I start learning about hacking? (2021)](https://news.ycombinator.com/item?id=25793969)
 - [Awesome Open Policy Agent](https://github.com/anderseknert/awesome-opa)
 - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - Beginner pen-testing start guide.
+- [Heap-based buffer overflow in Sudo (2021)](https://www.openwall.com/lists/oss-security/2021/01/26/3) ([Lobsters](https://lobste.rs/s/efsvqu/heap_based_buffer_overflow_sudo_cve_2021))

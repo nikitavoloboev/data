@@ -160,3 +160,4 @@
 - [What is the right approach to handling binary, non-executable data dependencies of packages? (2021)](https://www.reddit.com/r/NixOS/comments/kqe57g/what_is_the_right_approach_to_handling_binary/)
 - [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/) ([Code](https://github.com/scrive/nix-workshop))
 - [nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn.
+- [dev-env](https://github.com/digital-asset/dev-env) - Nix with training wheels.

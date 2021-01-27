@@ -41,3 +41,4 @@
 - [pfds](https://github.com/ijp/pfds) - Set of purely functional data structures written in R6RS Scheme.
 - [Sin's Scheme Compiler](https://github.com/sinistersnare/SinScheme) - Mostly working compiler from some non-standards compliant Scheme to LLVM IR. Written for a compilers class.
 - [QSCM - A tiny bootstrapped Scheme](https://c9x.me/qscm/)
+- [Tehila](https://github.com/sgrove/tehila) - 3D engine for Scheme.

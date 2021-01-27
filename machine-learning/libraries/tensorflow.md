@@ -77,3 +77,4 @@
 - [React-Tensorflow](https://github.com/joshuaellis/react-tensorflow) - Tensorflow hooks for React.
 - [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.
 - [TensorFlow 101: Introduction to Deep Learning](https://github.com/serengil/tensorflow-101)
+- [TensorFlow Lite Support](https://github.com/tensorflow/tflite-support) - Toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
