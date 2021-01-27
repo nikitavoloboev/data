@@ -2,6 +2,7 @@
 
 ## Nice shops
 
+- [Sneak in Peace](https://www.sneakinpeace.com/)
 - [Joycraft Handmade](https://joycrafthandmade.com/) - Polymer Clay Earrings. ([IG](https://www.instagram.com/joycrafthandmade/?igshid=ohv58u0xnoxk)) ([Tweet](https://twitter.com/coreyhainesco/status/1294721370589245440))
 - [Recess](https://takearecess.com/)
 - [Magic Mind](https://magicmind.co/)
@@ -66,3 +67,4 @@
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Easy Way to Sell Digital Products.
 - [Sane Shopify](https://github.com/good-idea/sane-shopify) - Connect Sanity and the Shopify Storefront API.
 - [How curation is reinventing e-commerce (2021)](https://maried.substack.com/p/how-curation-is-reinventing-e-commerce)
+- [Easol](https://easol.com/) - Sell travel and experiences online.

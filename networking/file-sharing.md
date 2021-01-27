@@ -56,3 +56,4 @@
 - [Nextcloud](https://nextcloud.com/) - On-premises file share and collaboration platform. ([Server Code](https://github.com/nextcloud/server))
 - [S3P - Massively Parallel S3 Copying (2021)](https://www.genui.com/open-source/s3p-massively-parallel-s3-copying)
 - [filite](https://github.com/raftario/filite) - Simple, light and standalone pastebin, URL shortener and file-sharing service.
+- [Sync](https://www.sync.com/) - Secure Cloud Storage.

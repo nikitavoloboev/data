@@ -95,3 +95,4 @@
 - [Basis Set Ventures](https://www.basisset.ventures/) - Invests in early-stage technology companies.
 - [The Production Board](https://www.theproductionboard.com/) - Investment foundry focused on improving technologies in agriculture, food, and life sciences.
 - [Social Capital](https://www.socialcapital.com/)
+- [Spero Ventures](https://spero.vc/)

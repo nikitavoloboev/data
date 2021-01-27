@@ -8,6 +8,7 @@ Here are few more things I liked, design wise.
 
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)
+- [Arrival](https://arrival.com/)
 - [Framer](https://www.framer.com/)
 - [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370))
 - [Apple](https://www.apple.com/)
@@ -65,6 +66,8 @@ Here are few more things I liked, design wise.
 - [Servo](https://servo.org/)
 - [Readng](https://readng.co/)
 - [OpenAI](https://openai.com/)
+- [Zoox](https://zoox.com/)
+- [Endel](https://endel.io/)
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
 - [Numinus](https://numinus.ca/)

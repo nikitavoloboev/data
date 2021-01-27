@@ -77,3 +77,4 @@
 - [Svelte Hooks](https://github.com/devongovett/svelte-hooks) - Experiment to shim the React Hooks API in Svelte.
 - [sveltejs/gl](https://github.com/sveltejs/gl) - Declarative WebGL scene graphs inside Svelte.
 - [Why are React component libraries so complicated compared to Svelte? (2021)](https://gradientdescent.de/sharing-components/)
+- [Pancake](https://pancake-charts.surge.sh/) - Charts for Svelte apps. ([Code](https://github.com/Rich-Harris/pancake))
