@@ -248,6 +248,7 @@
 - [swiftui-navigation-stack](https://github.com/matteopuc/swiftui-navigation-stack) - Alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
 - [AVPlayer-SwiftUI](https://github.com/ChrisMash/AVPlayer-SwiftUI) - Using AVPlayer in SwiftUI.
+- [SwiftUIKitView](https://github.com/AvdLee/SwiftUIKitView) - Easily use UIKit views in your SwiftUI applications. Create Xcode Previews for UIView elements.
 
 ## Test
 

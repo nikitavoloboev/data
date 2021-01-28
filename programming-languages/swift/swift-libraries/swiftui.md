@@ -120,3 +120,4 @@
 - [SwiftUI Animation Examples](https://github.com/Inncoder/SwiftUI-Animations)
 - [Banana Docs](https://bananadocs.org/) - Community SwiftUI Docs with Examples. ([Code](https://github.com/BananaDocs/BananaDocs))
 - [Creating iOS Application Icons with SwiftUI (2021)](https://www.enekoalonso.com/articles/creating-ios-application-icons-with-swiftui)
+- [SwiftUI App Icon Creator](https://github.com/darrarski/swiftui-app-icon-creator) - Create iOS and macOS application icon in Xcode with SwiftUI.

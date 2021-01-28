@@ -332,6 +332,8 @@
 - [psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python.
 - [cattrs](https://github.com/Tinche/cattrs) - Complex custom class converters for attrs.
 - [pdoc](https://github.com/pdoc3/pdoc) - Auto-generate API documentation for Python projects.
+- [arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [Import Linter](https://github.com/seddonym/import-linter) - Allows you to define and enforce rules for the internal and external imports within your Python project.
 
 ## Links
 

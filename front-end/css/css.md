@@ -258,3 +258,4 @@
 - [Inactive CSS](https://github.com/captainbrosset/inactive-css) - List of rules for when CSS properties have no effect.
 - [Classcat](https://github.com/jorgebucaran/classcat) - Build a space-separated class attribute quickly.
 - [CSS: prefers-color-scheme (2021)](https://3fx.ch/blog/2021/01/27/css-prefers-color-scheme/)
+- [How to select elements that are not children of other elements in CSS (2021)](https://www.stefanjudis.com/snippets/how-to-select-elements-that-are-not-children-of-other-elements-in-css/)

@@ -95,3 +95,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [The Evolution of a Research Paper (2021)](https://tratt.net/laurie/blog/entries/the_evolution_of_a_research_paper.html)
 - [arXiv Reference Management using Bear.app](https://github.com/jonasrauber/arxiv-bear-app)
 - [Rebiber](https://github.com/yuchenlin/rebiber) - Tool for normalizing bibtex with official info.
+- [How to write a great research paper - Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)

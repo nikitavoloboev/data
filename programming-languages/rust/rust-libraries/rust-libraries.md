@@ -49,6 +49,7 @@
 - [biscuit-rust](https://github.com/CleverCloud/biscuit-rust) - Rust implementation of the Biscuit authorization token.
 - [OpenMLS](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol.
 - [Tower](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
+- [gql_client](https://github.com/arthurkhlghatyan/gql-client-rs) - Minimal GraphQL client for Rust.
 
 ## WASM
 
@@ -229,6 +230,7 @@
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
 - [Serde](https://github.com/serde-rs/serde) - Serialization framework for Rust. ([Docs](https://serde.rs/))
+- [serde-reflection](https://github.com/novifinancial/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
 - [Miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde.
 - [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
 - [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
@@ -699,6 +701,8 @@
 - [gaol](https://github.com/servo/gaol) - Cross-platform application sandboxing for Rust.
 - [auto_enums](https://github.com/taiki-e/auto_enums) - Library for to allow multiple return types by automatically generated enum.
 - [pin-project](https://github.com/taiki-e/pin-project) - Crate for safe and ergonomic pin-projection.
+- [deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings of Mozilla's DeepSpeech library.
+- [alloca-rs](https://github.com/playXE/alloca-rs) - Mostly safe no_std wrapper for alloca in Rust.
 
 ## Cargo Plugins
 

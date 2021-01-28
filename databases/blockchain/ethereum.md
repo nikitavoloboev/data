@@ -162,3 +162,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [indexed.wtf](https://indexed.wtf/) - Collectively built hub for indexing scaling solutions for Ethereum.
 - [EthBlock.art](https://ethblock.art/) - Paint Ethereum, mint NFTs, earn as a creative coder.
 - [Hedgehog](https://hedgehog.audius.co/) - Open-source, client-side Ethereum wallet that uses a username and password. ([Code](https://github.com/AudiusProject/hedgehog))
+- [NFTE](https://nfte.app/) - Embed NFT's in your site. ([Code](https://github.com/sammdec/nfte))

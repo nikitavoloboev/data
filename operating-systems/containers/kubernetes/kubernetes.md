@@ -325,3 +325,4 @@
 - [Kubernetes API Visualized (2021)](https://twitter.com/iximiuz/status/1353045442087571456)
 - [Swift K8s Service Discovery](https://github.com/tuplestream/swift-k8s-service-discovery) - Discover pods of interest in a Kubernetes cluster as they become available.
 - [k8dash](https://github.com/indeedeng/k8dash) - Simple Kubernetes real time dashboard and management.
+- [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
