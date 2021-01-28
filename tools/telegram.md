@@ -73,3 +73,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Automated Symbolic Verification of Telegram's MTProto 2.0 (2020)](https://arxiv.org/abs/2012.03141) ([HN](https://news.ycombinator.com/item?id=25722076)) ([Code](https://github.com/miculan/telegram-mtproto2-verification))
 - [Why Isn’t Telegram End-to-End Encrypted by Default (2017)](https://telegra.ph/Why-Isnt-Telegram-End-to-End-Encrypted-by-Default-08-14) ([HN](https://news.ycombinator.com/item?id=25735792))
 - [Write yourself a Telegram bookstore bot in Haskell (2017)](http://mylifeecho.com/dev/telegram-bot-tutorial/)
+- [Telegram Bugs and Suggestions](https://bugs.telegram.org/)
