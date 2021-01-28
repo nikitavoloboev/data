@@ -58,6 +58,7 @@
 - [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator) - JavaScript MIDI Music Pattern Generator.
 - [Zrythm](https://www.zrythm.org/en/) - Highly automated and intuitive digital audio workstation. ([Code](https://github.com/zrythm/zrythm))
 - [Wavepot](https://wavepot.com/) - Code Music In-Browser.
+- [LiveCore](https://github.com/ul/livecore) - Hardcore livecoding system for realtime audio synth.
 
 ## Inspiration
 

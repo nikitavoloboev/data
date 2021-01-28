@@ -323,6 +323,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 - [Caleb Zulawski](https://portfolio.calebzulawski.com/)
 - [Mark Del Mar](https://www.markdelmar.com/)
+- [Evgeny Feldman](https://www.feldmanphotography.com/) ([IG](https://www.instagram.com/evgenyfeldman/))
 - [Tyler Mitchell](https://www.instagram.com/tylersphotos/)
 - [Petros Koublis](http://petroskoublis.com/main.html)
 - [Briscoe Park](https://www.instagram.com/briscoepark/)

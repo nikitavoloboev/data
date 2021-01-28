@@ -52,3 +52,4 @@
 - [elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
 - [Test-only values (2020)](https://jfmengels.net/test-only-values/)
 - [Elm at Rakuten (2021)](https://dev.to/lucamug/elm-6m8)
+- [Safe dead code removal in a pure functional language (2021)](https://jfmengels.net/safe-dead-code-removal/)
