@@ -16,3 +16,4 @@
 - [tobs](https://github.com/timescale/tobs) - Observability Stack for Kubernetes.
 - [Sensu](https://sensu.io/) - Observability Pipeline that delivers monitoring as code on any cloud. ([Code](https://github.com/sensu/sensu-go))
 - [SigNoz](https://signoz.io/) - Open source Observability platform. ([Code](https://github.com/SigNoz/signoz))
+- [Data Observability: Building Your Own Data Quality Monitors Using SQL (2021)](https://ryanothnielkearns.medium.com/data-observability-building-your-own-data-quality-monitors-using-sql-a4c848b6882d)

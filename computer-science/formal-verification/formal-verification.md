@@ -51,3 +51,4 @@
 - [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html) - Formal Mathematical Language.
 - [Dafny](https://github.com/dafny-lang/dafny) - Verification-aware programming language. ([Docs](https://dafny-lang.github.io/dafny/))
 - [Formal Methods Research Group - University of Glasgow](http://www.dcs.gla.ac.uk/research/formalmethods/)
+- [Formal Methods: An Appetizer (2019)](https://www.springer.com/gp/book/9783030051556)

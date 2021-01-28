@@ -12,3 +12,4 @@
 - [Rivian](https://rivian.com/) - Electric Adventure Vehicles.
 - [Tesla](https://www.tesla.com/) - Electric Cars, Solar & Clean Energy.
 - [ARK-Invest-Tesla-Valuation-Model (2020)](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model)
+- [Hauling Buddies](https://hauling.market/) - Connecting clients and haulers together.

@@ -99,3 +99,4 @@
 - [Doko](https://github.com/egoist/doko) - Docker-based development dependency manager.
 - [zapp](https://github.com/cpuguy83/zapp) - Tool to interact with Docker registry objects.
 - [Hardening Docker and Kubernetes with seccomp (2021)](https://martinheinz.dev/blog/41)
+- [Speed up pip downloads in Docker with BuildKit’s new caching (2021)](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
