@@ -78,3 +78,4 @@
 - [We developed a font loader plugin for Gatsby (2020)](https://blog.prototyp.digital/we-developed-a-font-loader-plugin-for-gatsby/)
 - [Gatsby Docs](https://www.gatsbyjs.com/docs/)
 - [GatsbyConf](https://www.gatsbyconf.com/)
+- [Gatsby GraphQL Source Toolkit](https://github.com/gatsbyjs/gatsby-graphql-toolkit) - Designed to simplify data sourcing from the remote GraphQL API into Gatsby.

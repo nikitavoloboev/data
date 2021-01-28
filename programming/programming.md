@@ -326,3 +326,4 @@
 - [Software engineering topics I changed my mind on (2021)](https://chriskiehl.com/article/thoughts-after-6-years) ([HN](https://news.ycombinator.com/item?id=25887373)) ([Lobsters](https://lobste.rs/s/bzkqpc/software_development_topics_i_ve_changed))
 - [Patterns and Software: Essential Concepts and Terminology (2000)](https://www.bradapp.com/docs/patterns-intro.html)
 - [Microsoft Customer/Partner Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
+- [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/) ([HN](https://news.ycombinator.com/item?id=25939122))

@@ -425,3 +425,4 @@ Go promotes composition over inheritance.
 - [gosivy](https://github.com/nakabonne/gosivy) - Real-time visualization tool for Go process metrics.
 - [Working with SQL Relations in Go (2020)](https://andrewpillar.com/programming/2020/04/07/working-with-sql-relations-in-go-part-1/)
 - [Real-world SQL in Go (2021)](https://www.gobeyond.dev/real-world-sql-part-one/) ([Reddit](https://www.reddit.com/r/golang/comments/l5kqkp/realworld_sql_in_go_part_i/))
+- [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)

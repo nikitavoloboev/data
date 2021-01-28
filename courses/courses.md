@@ -32,3 +32,4 @@
 - [Instil](https://instil.live/) - Platform for creating and monetising live classes.
 - [Gatsby Course Starter](https://github.com/btholt/gatsby-course-starter) - Gatsby starter project to help you create educational materials.
 - [Most of the time, we don’t really need another MOOC (2021)](https://eugeneyan.com/writing/you-dont-need-another-mooc/) ([HN](https://news.ycombinator.com/item?id=25931498))
+- [Classpert](https://classpert.com/) - Find and compare courses from multiple providers.

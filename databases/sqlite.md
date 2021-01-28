@@ -46,3 +46,4 @@
 - [edge-sql](https://sql.lspgn.workers.dev/) - Serverless edge worker embedding SQLite using Cloudflare Workers and WASM. ([Code](https://github.com/lspgn/edge-sql)) ([HN](https://news.ycombinator.com/item?id=25842999))
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [Rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite. ([HN](https://news.ycombinator.com/item?id=25871605))
+- [SQLite CREATE TABLE Parser](https://github.com/marcobambini/sqlite-createtable-parser)

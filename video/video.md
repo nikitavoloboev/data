@@ -41,6 +41,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [How Productivity Star Thomas Frank Reaches Millions on YouTube](https://superorganizers.substack.com/p/how-productivity-star-thomas-frank)
 - [Zoom](https://zoom.us/) - Video conferencing.
 - [Jitsi](https://meet.jit.si/) - Secure, Simple and Scalable Video Conferences. ([Code](https://github.com/jitsi/jitsi-meet)) ([Jibri - JItsi BRoadcasting Infrastructure](https://github.com/jitsi/jibri)) ([Jitsi Meet on Docker](https://github.com/jitsi/docker-jitsi-meet))
+- [JaaS](https://jaas.8x8.vc/) - Jitsi as a Service. ([HN](https://news.ycombinator.com/item?id=25938999))
 - [Film Grain Synthesis for AV1 Video Codec (2018)](https://norkin.org/pdf/DCC_2018_AV1_film_grain.pdf) ([Lobsters](https://lobste.rs/s/zkakuj/film_grain_synthesis_for_av1_video_codec))
 - [video-summarizer](https://github.com/SoptikHa2/video-summarizer) - Summarizes videos into much shorter videos. Ideal for long lecture videos.
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
