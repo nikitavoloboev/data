@@ -26,3 +26,5 @@
 - [Substrate Contracts Workshop](https://github.com/substrate-developer-hub/substrate-contracts-workshop) - Self-guided tutorial which will teach you how to build Wasm smart contracts on Parity Substrate using Parity ink. ([Web](https://substrate.dev/substrate-contracts-workshop/#/))
 - [Bandot](https://www.bandot.io/) - Polkadot stable coin credit system. ([Code](https://github.com/bandotorg/Bandot))
 - [substrate-api-client](https://github.com/scs/substrate-api-client) - Library for connecting to substrate API over WebSockets.
+- [polkadot/api](https://github.com/polkadot-js/api) - Promise and RxJS APIs around Polkadot and any Substrate-based chain RPC calls.
+- [Parity Signer](https://github.com/paritytech/parity-signer) - Air-gapped crypto wallet. ([Web](https://www.parity.io/signer/))

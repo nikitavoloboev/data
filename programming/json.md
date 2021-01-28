@@ -49,3 +49,4 @@
 - [On the complexity of JSON serialization (2020)](https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/) ([HN](https://news.ycombinator.com/item?id=25870793))
 - [JSON-LD Schema](https://github.com/mulesoft-labs/json-ld-schema) - Simple schema validation for linked data.
 - [Build a JSON Schema with functions](https://github.com/wittydeveloper/functional-json-schema)
+- [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C.

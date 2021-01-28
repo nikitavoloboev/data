@@ -251,4 +251,4 @@
 - [MesaPy](https://github.com/mesalock-linux/mesapy) - Memory-Safe Python Implementation based on PyPy.
 - [Makefile.venv](https://github.com/sio/Makefile.venv) - Seamlessly manage Python virtual environment with a Makefile.
 - [Research Software Engineering with Python Course](https://alan-turing-institute.github.io/rsd-engineeringcourse/) ([Code](https://github.com/alan-turing-institute/rsd-engineeringcourse))
-- [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html) ([HN](https://news.ycombinator.com/item?id=25933121))
+- [OO in Python is mostly pointless](https://leontrolski.github.io/mostly-pointless.html) ([HN](https://news.ycombinator.com/item?id=25933121)) ([Lobsters](https://lobste.rs/s/ldzfsw/oo_python_is_mostly_pointless))
