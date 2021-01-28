@@ -57,3 +57,4 @@
 - [lib-ruby-parser](https://github.com/lib-ruby-parser/lib-ruby-parser) - Ruby parser written in Rust.
 - [Ruby Reference](https://rubyreferences.github.io/rubyref/) - Ruby Programming Language Reference. ([Code](https://github.com/rubyreferences/rubyref))
 - [Ractors (2021)](https://brandur.org/nanoglyphs/018-ractors)
+- [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.

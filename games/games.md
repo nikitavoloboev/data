@@ -86,6 +86,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [MoonShot](https://lallassu.itch.io/moonshot) - Written in Go and using its own game engine. ([Code](https://github.com/lallassu/moonshot))
 - [StripCode](https://stripcode.dev/) - Guess which GitHub repo a code snippet came from. ([Code](https://github.com/benawad/stripcode))
 - [Shotcaller](https://github.com/amethyst/shotcaller) - RTS / MOBA game with multiple front ends: ASCII-rendered or tiles-rendered.
+- [Station Iapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase. Written in Rust.
 
 ## Awesome games (other)
 

@@ -82,5 +82,3 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Zenodo](https://zenodo.org/) - Research. Shared.
 - [Research Taste Exercises (2021)](http://colah.github.io/notes/taste/)
 - [Reflections on 2020 as an independent researcher](https://andymatuschak.org/2020/)
-- [Inna Zakharevich](http://pi.math.cornell.edu/~zakh/) - Focuses on algebraic topology, with a focus on developing a theory of scissors congruence as K-theory.
-- [Interview with Inna Zakharevich (2021)](https://www.youtube.com/watch?v=E4SYGwd22iM)

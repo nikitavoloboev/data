@@ -34,3 +34,4 @@
 - [prisma-schema-transformer](https://github.com/IBM/prisma-schema-transformer) - Prisma schema post-processor.
 - [Prisma fixtures CLI](https://github.com/getbigger-io/prisma-fixtures) - Prisma 2 Fixtures Management Tool.
 - [Prisma Studio](https://prisma.studio/) - IDE for your database.
+- [Nest Prisma CRUD](https://github.com/johannesschobel/nest-prisma-crud) - Example on how to create a CRUD Service for Prisma.

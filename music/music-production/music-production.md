@@ -59,6 +59,7 @@
 - [Zrythm](https://www.zrythm.org/en/) - Highly automated and intuitive digital audio workstation. ([Code](https://github.com/zrythm/zrythm))
 - [Wavepot](https://wavepot.com/) - Code Music In-Browser.
 - [LiveCore](https://github.com/ul/livecore) - Hardcore livecoding system for realtime audio synth.
+- [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the Web Audio API.
 
 ## Inspiration
 

@@ -35,6 +35,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [chessai](https://github.com/chessai/nixos-configs)
 - [Bruno Bigras](https://github.com/bbigras/nix-config)
 - [Thomas Honeyman](https://github.com/thomashoneyman/.dotfiles)
+- [Jorg Thalheim](https://github.com/Mic92/dotfiles)
 
 ## Nix configs (macOS)
 
@@ -117,3 +118,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Offloading NixOS builds to a faster machine (2021)](https://sgt.hootr.club/molten-matter/nix-distributed-builds/)
 - [Why you should never ever use NixOS (2021)](https://hands-on.cloud/why-you-should-never-ever-use-nixos/) ([Lobsters](https://lobste.rs/s/f6i7g0/why_you_should_never_ever_use_nixos)) ([HN](https://news.ycombinator.com/item?id=25881654))
 - [NixOS on Raspberry Pi](https://github.com/lucernae/nixos-pi)
+- [Learning nix workshop](https://github.com/spacekookie/nixos-workshops)
