@@ -8,6 +8,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
 - [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
 - [Texture](https://github.com/texturegroup/texture/blob/master/CONTRIBUTING.md)
+- [Sindre's contributing template](https://github.com/sindresorhus/.github/blob/main/contributing.md)
 
 ## Notes
 

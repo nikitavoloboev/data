@@ -41,3 +41,4 @@
 - [Basics of Quantum Mechanics Summarized](https://news.ycombinator.com/item?id=25742619)
 - [The Quantum Physics Sequence (2008)](https://www.lesswrong.com/posts/hc9Eg6erp6hk9bWhn/the-quantum-physics-sequence)
 - [Is light fundamentally a wave or a particle? (2021)](https://www.forbes.com/sites/startswithabang/2021/01/08/ask-ethan-is-light-fundamentally-a-wave-or-a-particle/?sh=cd4afa479a0e) ([HN](https://news.ycombinator.com/item?id=25772323))
+- [Theory of Strongly Correlated Quantum Matter](https://www.fkf.mpg.de/schaefer#)

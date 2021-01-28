@@ -185,6 +185,7 @@
 - [TermiNetwork](https://github.com/billp/TermiNetwork) - Zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.
 - [swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) - Swift implementation of the HTTP Structured Header Field specification.
 - [SwiftNIO HTTP/2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO.
+- [Meridian](https://github.com/khanlou/Meridian) - Web server written in Swift that lets you write your endpoints in a declarative way.
 
 ## SwiftUI
 

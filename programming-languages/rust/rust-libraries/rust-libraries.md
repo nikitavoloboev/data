@@ -703,6 +703,7 @@
 - [pin-project](https://github.com/taiki-e/pin-project) - Crate for safe and ergonomic pin-projection.
 - [deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings of Mozilla's DeepSpeech library.
 - [alloca-rs](https://github.com/playXE/alloca-rs) - Mostly safe no_std wrapper for alloca in Rust.
+- [CPAL](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust.
 
 ## Cargo Plugins
 

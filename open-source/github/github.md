@@ -30,7 +30,6 @@ I publish most of my work and make it open source for other people to use and re
 - [Siren](https://github.com/vsitzmann/siren) - Like the Project Page | Paper | Data links links + no extra things in readme.
 - [next.js](https://github.com/vercel/next.js/) - Clean, nice logo.
 - [Notable](https://github.com/notable/notable) - Like the icons after the heading & nice screenshots.
-- [Contributing template by Sindre](https://github.com/sindresorhus/.github/blob/main/contributing.md)
 
 ## Notes
 
@@ -191,3 +190,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Socialify](https://socialify.git.ci/) - Generate a nice image for a GitHub repo. ([Code](https://github.com/wei/socialify))
 - [Get notified when a file on GitHub has changed (2021)](https://blog.mastykarz.nl/get-notified-file-github-changed/)
 - [Awesome READMEs](https://github.com/leogdion/AWESOME-AWESOME-README)
+- [HN: Open-source, not open-contribution (2021)](https://news.ycombinator.com/item?id=25940195)
