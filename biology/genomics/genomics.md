@@ -47,3 +47,4 @@
 - [GREIN](http://www.ilincs.org/apps/grein/?gse=) - GEO RNA-seq Experiments Interactive Navigator. ([Code](https://github.com/uc-bd2k/GREIN))
 - [FUMA: Functional mapping and annotation of genetic associations](https://fuma.ctglab.nl/) ([Code](https://github.com/Kyoko-wtnb/FUMA-webapp))
 - [GenePattern Notebook](https://github.com/genepattern/genepattern-notebook) - Platform for integrating genomic analysis with Jupyter Notebooks.
+- [SCDE](https://github.com/hms-dbmi/scde) - R package for analyzing single-cell RNA-seq data.

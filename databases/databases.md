@@ -127,6 +127,7 @@
 - [Condensation](https://condensation.io/) - General-purpose distributed data system with conflict-free synchronization, and inherent end-to-end security. ([GitHub](https://github.com/CondensationDB))
 - [ZenoDB](https://github.com/getlantern/zenodb) - Go-based embeddable time series database optimized for performing aggregated analytical SQL queries on dimensional data.
 - [Pinecone](https://www.pinecone.io/) - Vector Database for Machine Learning.
+- [IndraDB](https://github.com/indradb/indradb) - Graph database written in rust.
 
 ## Tools
 

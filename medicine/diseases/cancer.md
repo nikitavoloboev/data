@@ -17,3 +17,4 @@
 - [Rutherford Cancer Centres](https://www.therutherford.com/) - Cancer Care Transformed.
 - [Why cancer cells waste so much energy (2021)](https://news.mit.edu/2021/cancer-cells-waste-energy-0115) ([HN](https://news.ycombinator.com/item?id=25790530))
 - [Chemotherapy with light; only one injection required (2021)](https://www.eurekalert.org/pub_releases/2021-01/nrco-cwl011121.php) ([HN](https://news.ycombinator.com/item?id=25881602))
+- [JEFworks Lab](https://jef.works/) - Work on computational software and statistical approaches to address questions in developmental and cancer biology.
