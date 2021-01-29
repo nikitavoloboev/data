@@ -37,3 +37,4 @@ I am hopeful that this change comes soon and am trying my best to make that happ
 - [Сергей Гуриев о протестах/ Навальном/ санкциях/дворце Путина/ вариантах Кремля (2021)](https://www.youtube.com/watch?v=EOIP_icM0Js)
 - [Вася Обломов - В очереди](https://www.youtube.com/watch?v=ruBJnshPfOI)
 - [Цена геополитических игр Путина (2021)](https://www.youtube.com/watch?v=BGTiS_9JFuo)
+- [Если не Путин, то кто? Отвечаем на главный вопрос (2021)](https://www.youtube.com/watch?v=OgCP8wG229A)

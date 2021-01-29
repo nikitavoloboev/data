@@ -66,3 +66,4 @@
 - [XCMetrics](https://github.com/spotify/XCMetrics) - Easiest way to collect Xcode builds metrics and improve your developer productivity. ([Web](https://xcmetrics.io/))
 - [XcodeSurgery](https://github.com/depoon/XcodeSurgery) - Swift XCode build phase CLI tool for copying compiled binaries between iOS app targets.
 - [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) - Easiest way to install and switch between multiple versions of Xcode.
+- [InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift.
