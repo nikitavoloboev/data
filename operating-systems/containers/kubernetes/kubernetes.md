@@ -327,3 +327,4 @@
 - [k8dash](https://github.com/indeedeng/k8dash) - Simple Kubernetes real time dashboard and management.
 - [Flux](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [How to get to speak at KubeCon (2020)](https://blog.alexellis.io/how-to-speak-at-kubecon/)
+- [EdgeNet](https://edge-net.org/) - Kubernetes adapted for the network edge. It allows you to deploy applications to hundreds of nodes that are scattered across the internet. ([Code](https://github.com/EdgeNet-project/edgenet))

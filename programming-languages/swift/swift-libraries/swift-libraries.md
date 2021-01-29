@@ -156,6 +156,7 @@
 - [SheetPresentation](https://github.com/detroit-labs/SheetPresentation) - UIPresentationController and attendant classes for iOS to present a view controller pinned to an edge of the screen like an action sheet.
 - [Twitter Image Pipeline](https://github.com/twitter/ios-twitter-image-pipeline) - Robust and performant image loading and caching framework for iOS clients.
 - [ScreenCorners](https://github.com/kylebshr/ScreenCorners) - Check the display corner radius of an iOS device.
+- [ScheduledNotificationsViewController](https://github.com/nicephoton/ScheduledNotificationsViewController) - Shows you all of your pending local notifications in one place, with all the information you need.
 
 ## macOS
 
