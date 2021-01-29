@@ -154,3 +154,4 @@
 - [Ray](https://ray.io/) - Simple, universal API for building distributed applications. Accelerating machine learning workloads. ([Code](https://github.com/ray-project/ray)) ([Docs](https://docs.ray.io/en/master/index.html))
 - [Jepsen](https://github.com/jepsen-io/jepsen) - Framework for distributed systems verification, with fault injection. Clojure library.
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh (2019)](https://martinfowler.com/articles/data-monolith-to-mesh.html)
+- [Distributed Systems in Rust](https://github.com/skyzh/raft-kvs) - Training course about the distributed systems in Rust.

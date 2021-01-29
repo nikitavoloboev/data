@@ -105,6 +105,7 @@
 - [MemoTrie](https://github.com/conal/MemoTrie) - Functional library for creating efficient memo functions, using tries.
 - [Kernmantle](https://github.com/tweag/kernmantle) - Braiding extensible effects together in a pipeline/workflow of tasks.
 - [essence-of-live-coding](https://github.com/turion/essence-of-live-coding) - General purpose and type safe live coding framework in Haskell. ([Tutorial](https://github.com/turion/essence-of-live-coding-tutorial))
+- [Higgledy](https://github.com/i-am-tom/higgledy) - Higher-kinded data via generics.
 
 ## Links
 

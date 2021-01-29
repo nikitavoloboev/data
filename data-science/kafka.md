@@ -29,3 +29,4 @@
 - [Kafka Kit](https://github.com/DataDog/kafka-kit) - Tools for Scaling Kafka. ([Article](https://www.datadoghq.com/blog/engineering/introducing-kafka-kit-tools-for-scaling-kafka/))
 - [Estimating when a message will be consumed in Kafka (2020)](https://techblog.cdiscount.com/estimating-when-a-message-will-be-consumed-in-kafka/)
 - [Kafka message scheduler](https://github.com/etf1/kafka-message-scheduler) - Allows you to send message to a target topic on a specific time with a particular payload.
+- [librdkafka](https://github.com/edenhill/librdkafka) - Apache Kafka C/C++ client library.

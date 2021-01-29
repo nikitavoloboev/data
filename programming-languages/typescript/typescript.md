@@ -130,6 +130,7 @@
 - [ttypescript (Transformer TypeScript)](https://github.com/cevek/ttypescript) - TypeScript tool to use custom transformers in the tsconfig.json.
 - [json2ts](http://json2ts.com/) - Generate TypeScript interfaces from JSON.
 - [Go JSON to TypeScript model converter](https://github.com/tkrajina/typescriptify-golang-structs)
+- [Using fetch with TypeScript (2021)](https://kentcdodds.com/blog/using-fetch-with-type-script)
 
 ## Images
 
