@@ -336,6 +336,7 @@
 - [arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [Import Linter](https://github.com/seddonym/import-linter) - Allows you to define and enforce rules for the internal and external imports within your Python project.
 - [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
+- [DataPrep](https://github.com/sfu-db/dataprep) - Lets you prepare your data using a single library with a few lines of code.
 
 ## Links
 

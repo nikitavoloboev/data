@@ -34,3 +34,4 @@
 - [Stuff your logs (2021)](https://engineering.backtrace.io/2021-01-11-stuff-your-logs/)
 - [Logsuck](https://github.com/JackBister/logsuck) - Easy log aggregation, indexing and searching.
 - [Ekanite](https://github.com/ekanite/ekanite) - High-performance syslog server with built-in text search.
+- [The Ultimate Guide To Python Logging (2021)](https://khashtamov.com/en/ultimate-guide-to-python-logging/)

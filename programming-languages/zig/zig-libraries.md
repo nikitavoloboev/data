@@ -14,3 +14,4 @@
 ## Links
 
 - [zigmod](https://github.com/nektro/zigmod) - Package manager for the Zig programming language.
+- [gyro](https://github.com/mattnite/gyro) - Zig package manager with an index, build runner, and build dependencies.

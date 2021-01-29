@@ -14,3 +14,4 @@
 - [Awesome Dart](https://github.com/yissachar/awesome-dart)
 - [web_socket_channel](https://github.com/dart-lang/web_socket_channel) - StreamChannel wrappers for WebSockets.
 - [Quiver](https://github.com/google/quiver-dart) - Set of utility libraries for Dart.
+- [Effective Dart](https://dart.dev/guides/language/effective-dart)
