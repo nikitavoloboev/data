@@ -126,3 +126,4 @@
 - [C Compiler/Parser written in Rust](https://github.com/thepowersgang/rust-cc)
 - [c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly.
 - [List of C static analysis tools](https://github.com/csvitlik/static_analysis_tools)
+- [Q3VM](https://github.com/jnz/q3vm) - Single file (vm.c) bytecode virtual machine/interpreter for C-language input.

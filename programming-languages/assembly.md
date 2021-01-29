@@ -28,3 +28,4 @@
 - [ARM Cortex-M33 Instruction Tracing Without a Debugger (2020)](https://interrupt.memfault.com/blog/instruction-tracing-mtb-m33)
 - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/) ([HN](https://news.ycombinator.com/item?id=25786236))
 - [AMIE](https://github.com/NeatMonster/AMIE) - Minimalist Instruction Extender for the ARM architecture and IDA Pro.
+- [PLASMA](https://github.com/dschmenk/PLASMA) - Medium level programming language targeting the 8-bit 6502 processor.

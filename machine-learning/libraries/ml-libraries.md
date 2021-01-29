@@ -116,3 +116,4 @@
 - [sequitur](https://github.com/shobrook/sequitur) - Autoencoders for sequence data.
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Machine learning python package for learning with noisy labels and finding label errors in datasets.
 - [deeptime](https://github.com/deeptime-ml/deeptime) - Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
+- [Jelly Bean World](https://github.com/eaplatanios/jelly-bean-world) - Framework for experimenting with never-ending learning.

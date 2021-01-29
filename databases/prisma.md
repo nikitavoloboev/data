@@ -36,3 +36,4 @@
 - [Prisma Studio](https://prisma.studio/) - IDE for your database.
 - [Nest Prisma CRUD](https://github.com/johannesschobel/nest-prisma-crud) - Example on how to create a CRUD Service for Prisma.
 - [Seeding Databases with Prisma (2021)](https://www.youtube.com/watch?v=2LwTUIqjbPo)
+- [Prisma ERD](https://prisma-erd.simonknott.de/) - Small tool to visualize Prisma schemas as Entity-Relationship Diagrams. ([Code](https://github.com/Skn0tt/prisma-erd))

@@ -28,3 +28,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - Open source, community-driven framework for managing your zsh configuration.
 - [zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of zsh commands.
 - [Zsh Compinit ... RTFM (2018)](https://www.danielmoch.com/posts/2018/11/zsh-compinit-rtfm/) - Optimizing Zsh startup time.
+- [Mastering Zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh.

@@ -38,3 +38,4 @@
 - [Next.js + AWS DynamoDB](https://github.com/leerob/nextjs-aws-dynamodb)
 - [jest-dynalite](https://github.com/freshollie/jest-dynalite) - Jest preset to run Dynalite (DynamoDB local) per test runner.
 - [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable) - Access and management for one table designs with NodeJS.
+- [DynamoDB JavaScript DocumentClient cheat sheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet)
