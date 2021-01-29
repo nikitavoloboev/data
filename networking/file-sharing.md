@@ -57,3 +57,4 @@
 - [S3P - Massively Parallel S3 Copying (2021)](https://www.genui.com/open-source/s3p-massively-parallel-s3-copying)
 - [filite](https://github.com/raftario/filite) - Simple, light and standalone pastebin, URL shortener and file-sharing service.
 - [Sync](https://www.sync.com/) - Secure Cloud Storage.
+- [Pydio](https://pydio.com/) - Enterprise File Sharing & Sync Platform. ([Code](https://github.com/pydio/cells))

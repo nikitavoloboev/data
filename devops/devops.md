@@ -58,3 +58,4 @@
 - [fastlane](https://fastlane.tools/) - App automation done right. ([Code](https://github.com/fastlane/fastlane))
 - [List of Devops Resources](https://jrott.com/posts/devops-links/)
 - [werf](https://github.com/werf/werf) - Git as a single source of truth. Build. Deploy to Kubernetes. Stay in sync. ([Web](https://werf.io/))
+- [Zero-downtime deploys with DigitalOcean, GitHub, and Docker (2021)](https://blog.logrocket.com/zero-downtime-deploys-with-digitalocean-github-and-docker/)

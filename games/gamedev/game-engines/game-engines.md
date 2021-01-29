@@ -67,6 +67,7 @@
 - [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. ([Web](https://www.cocos.com/en/))
 - [ETEngine](https://github.com/Illation/ETEngine) - Real time 3D Game-Engine with a focus on space sim. Written in C++.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ([Web](https://www.babylonjs.com/)) ([React Babylon.js](https://github.com/brianzinn/react-babylonjs))
+- [PursuedPyBear](https://github.com/ppb/pursuedpybear) - Python game engine. Exists to be an educational resource.
 
 ## Physics engines
 
