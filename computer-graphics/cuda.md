@@ -15,3 +15,4 @@
 - [ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on Intel GPUs.
 - [CUDA Library Samples](https://github.com/NVIDIA/CUDALibrarySamples)
 - [PyCUDA](https://github.com/inducer/pycuda) - Access Nvidia's CUDA parallel computation API from Python.
+- [CUTLASS](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines.
