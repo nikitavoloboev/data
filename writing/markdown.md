@@ -60,3 +60,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [CommonMark](https://github.com/MichaelHatherly/CommonMark.jl) - CommonMark-compliant parser for Julia.
 - [Blackfriday](https://github.com/russross/blackfriday) - Markdown processor implemented in Go.
 - [StrictMark: Markdown Refactored](http://doc.replicated.cc/^Wiki/strictmark.sm)
+- [MD4C](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.

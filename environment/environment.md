@@ -89,3 +89,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Project Vesta](https://www.projectvesta.org/) - Help reverse climate change by turning a trillion tonnes of CO2 into rock.
 - [The Extinction Clock](https://extinctionclock.org/) - Internet's authoritative source for end of world climate and extinction predictions.
 - [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)
+- [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try. (2021)](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)

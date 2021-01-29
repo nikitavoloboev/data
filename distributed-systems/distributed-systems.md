@@ -155,3 +155,5 @@
 - [Jepsen](https://github.com/jepsen-io/jepsen) - Framework for distributed systems verification, with fault injection. Clojure library.
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh (2019)](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Distributed Systems in Rust](https://github.com/skyzh/raft-kvs) - Training course about the distributed systems in Rust.
+- [rsraft](https://github.com/laurocaetano/rsraft) - Raft implementation in Rust.
+- [Implementing Raft's Leader Election in Rust (2021)](http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/)

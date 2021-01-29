@@ -102,3 +102,4 @@
 - [Userbase](https://userbase.com/) - Auth and E2E encrypted storage in a few lines of code. ([HN](https://news.ycombinator.com/item?id=22145168)) ([HN 2](https://news.ycombinator.com/item?id=25869472)) ([Code](https://github.com/encrypted-dev/userbase))
 - [Authentication and Authorisation 101 (2021)](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
 - [oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified OAuth 2.0 Authorization Server implementation for Node.
+- [A Primer on JSON Web Tokens (2021)](https://pspdfkit.com/blog/2021/a-primer-on-json-web-tokens/)
