@@ -427,3 +427,4 @@ Go promotes composition over inheritance.
 - [Real-world SQL in Go (2021)](https://www.gobeyond.dev/real-world-sql-part-one/) ([Reddit](https://www.reddit.com/r/golang/comments/l5kqkp/realworld_sql_in_go_part_i/))
 - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 - [List of Go best practices](https://github.com/golovers/effective-go)
+- [Coming in Go 1.16: ReadDir and DirEntry (2021)](https://benhoyt.com/writings/go-readdir/)
