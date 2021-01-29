@@ -64,3 +64,4 @@
 - [A comprehensive list of UX design methods & deliverables (2021)](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
 - [UI & UX Design Resources](https://www.basetemplates.com/ui-ux-design-resources)
 - [Designing with Data: Improving the User Experience with User Flows (2021)](https://blog.useberry.com/designing-with-data-improving-the-user-experience-with-user-flows/)
+- [Losing faith in UX (2021)](https://creativegood.com/blog/21/losing-faith-in-ux.html) ([HN](https://news.ycombinator.com/item?id=25950351))

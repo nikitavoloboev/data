@@ -452,4 +452,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [No-Code Resources](https://www.notion.so/No-Code-Resources-1c9a074f65f2419292558a7023cd97ef)
 - [SaaS we happily pay for (2020)](https://francescodilorenzo.com/saas-we-pay-for) ([HN](https://news.ycombinator.com/item?id=25552342))
 - [NoCode Tech](https://www.nocode.tech/) - Curated directory of resources and tools for non-techs.
-- [The Top 100 Developer Tools of 2020](https://stackshare.io/posts/top-developer-tools-2020)
+- [Top 100 Developer Tools of 2020](https://stackshare.io/posts/top-developer-tools-2020)

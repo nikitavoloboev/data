@@ -716,6 +716,7 @@
 - [stripeutil](https://github.com/andrewpillar/stripeutil) - Utility functions and data structures for working with the Stripe API for builing a SaaS application.
 - [vmtest](https://github.com/anatol/vmtest) - Go framework for integration testing with Virtual machines (e.g. QEMU).
 - [genny](https://github.com/cheekybits/genny) - Elegant generics for Go.
+- [faktory_worker_go](https://github.com/contribsys/faktory_worker_go) - Faktory workers for Go.
 
 ## Links
 

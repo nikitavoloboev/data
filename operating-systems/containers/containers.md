@@ -94,3 +94,4 @@
 - [MayaStor](https://github.com/openebs/Mayastor) - Cloud native declarative data plane in containers for containers.
 - [SkiffOS](https://github.com/skiffos/SkiffOS) - Lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
 - [contained.af](https://contained.af/) - Game for learning about containers, capabilities, and syscalls. ([Code](https://github.com/genuinetools/contained.af))
+- [krunvm](https://github.com/slp/krunvm) - Manage lightweight VMs created from OCI images.
