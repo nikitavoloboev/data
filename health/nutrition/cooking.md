@@ -25,4 +25,4 @@ I share some [recipes I like](recipes.md).
 - [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking (2017)](https://www.goodreads.com/book/show/30753841-salt-fat-acid-heat)
 - [Cooking with rocket stove](https://merveilles.town/web/statuses/104854765889908463)
 - [Cooking for Founders (2021)](https://tylertringas.com/cooking-for-founders/) ([HN](https://news.ycombinator.com/item?id=25719188))
-- [Baking with machine learning (2020)](https://sararobinson.dev/2020/04/30/baking-machine-learning.html)
+- [Baking with machine learning (2020)](https://sararobinson.dev/2020/04/30/baking-machine-learning.html) ([HN](https://news.ycombinator.com/item?id=25963556))

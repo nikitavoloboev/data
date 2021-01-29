@@ -99,3 +99,4 @@
 - [MolStar](https://github.com/molstar/molstar) - Comprehensive macromolecular library. ([Web](https://molstar.org/))
 - [How to Start a Biotech Company on a Budget (2021)](https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/)
 - [BioGraPy](https://github.com/apierleoni/BioGraPy) - Biological Graphic tool in Python.
+- [FPbase](https://www.fpbase.org/) - The Fluorescent Protein Database. ([Code](https://github.com/tlambert03/FPbase))
