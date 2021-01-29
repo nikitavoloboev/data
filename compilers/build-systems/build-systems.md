@@ -48,3 +48,4 @@
 - [Tup](https://github.com/gittup/tup) - File-based build system. It takes as input a list of file changes and a directed acyclic graph (DAG). ([Web](http://gittup.org/tup/))
 - [The Problem with Gradle (2021)](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/) ([HN](https://news.ycombinator.com/item?id=25801986))
 - [distcc](https://github.com/distcc/distcc) - Distributed builds for C, C++ and Objective C.
+- [CMake Examples](https://github.com/ttroy50/cmake-examples) ([Web](http://ttroy50.github.io/cmake-examples/))
