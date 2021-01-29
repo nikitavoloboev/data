@@ -23,3 +23,4 @@
 - [iguanaTLS](https://github.com/alexnask/iguanaTLS) - Minimal, experimental TLS 1.2 implementation in Zig.
 - [Auditing for TLS certificates (Go code)](https://github.com/google/certificate-transparency-go)
 - [KEMTLS: Post-quantum TLS without signatures (2021)](https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/)
+- [Simple Go HTTPS/TLS Examples](https://github.com/denji/golang-tls)

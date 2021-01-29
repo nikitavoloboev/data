@@ -54,6 +54,7 @@
 - [Forma 36](https://f36.contentful.com/) - Contentful Design System. ([Code](https://github.com/contentful/forma-36))
 - [Blueprint](https://blueprintjs.com/) - React-based UI toolkit for the web. ([Code](https://github.com/palantir/blueprint))
 - [Qui](https://github.com/Qvant-lab/qui) - Vue.js design-system for Web.
+- [React Suite](https://rsuitejs.com/) - Suite of React components, sensible UI design, and a friendly development experience. ([Code](https://github.com/rsuite/rsuite))
 
 ## Notes
 
