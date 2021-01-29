@@ -25,3 +25,4 @@
 - [How LSD Almost Became the 13th Step (2019)](https://prohbtd.com/read/alcoholics-anonymous-how-lsd-almost-became-the-13th-step/) ([HN](https://news.ycombinator.com/item?id=23952390))
 - [Story of LSD](https://twitter.com/PulpLibrarian/status/1294322294408515584)
 - [Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers (2020)](https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099) ([HN](https://news.ycombinator.com/item?id=24391387))
+- [David Nichols - From ergot to LSD and beyond (2020)](https://www.youtube.com/watch?v=iu0EZFz0-KQ)

@@ -461,6 +461,7 @@
 - [Enmap](https://github.com/eslachance/enmap) - Enhanced Map structure with additional utility methods.
 - [Honeycomb](https://github.com/flauwekeul/honeycomb) - Create hex grids easily, in node or the browser.
 - [chunkify](https://github.com/sindresorhus/chunkify) - Split an iterable into evenly sized chunks.
+- [wobble](https://github.com/skevy/wobble) - Tiny spring physics micro-library that models a damped harmonic oscillator.
 
 ## Links
 

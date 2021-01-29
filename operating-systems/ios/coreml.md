@@ -13,3 +13,4 @@
 - [From PyTorch to CoreML](https://github.com/vincentfpgarcia/from-pytorch-to-coreml)
 - [YOLOv3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > iOS.
 - [Creating an Image Classifier Model with CoreML](https://developer.apple.com/documentation/createml/creating_an_image_classifier_model)
+- [Core ML Survival Guide](https://leanpub.com/coreml-survival-guide) ([Code](https://github.com/hollance/coreml-survival-guide))

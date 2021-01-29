@@ -112,4 +112,4 @@
 - [lexpr-rs](https://github.com/rotty/lexpr-rs) - Rust Lisp expression parser and serializer.
 - [Lisp, Jazz, Aikido – Three Expressions of a Single Essence (2018)](https://arxiv.org/ftp/arxiv/papers/1804/1804.00485.pdf)
 - [REPL as a Service (2021)](https://speechcode.com/blog/repl-as-service)
-- [LispE](https://github.com/naver/lispe) - Version of Lisp that is ultra-minimal but contains all the basic instructions of the language.
+- [LispE](https://github.com/naver/lispe) - Version of Lisp that is ultra-minimal but contains all the basic instructions of the language. ([HN](https://news.ycombinator.com/item?id=25940439))

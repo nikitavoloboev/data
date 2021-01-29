@@ -287,6 +287,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. ([Docs](https://plopjs.com/documentation/))
 - [Sentry](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you. ([Learn Webflow](https://flowmingo.co/))
+- [Personium](https://personium.io/en/index.html) - Personal data store server. ([HN](https://news.ycombinator.com/item?id=25926033))
 - [Quip](https://quip.com/) - Real-time document collaboration.
 - [Percy](https://percy.io/) - All-in-one visual review platform.
 - [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
