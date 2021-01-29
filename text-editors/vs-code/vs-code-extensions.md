@@ -380,3 +380,4 @@ Below is a list of extensions I use.
 - [VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)
 - [VSCodeVim Tips (2020)](https://bypaulshen.com/posts/vscode-vim-tips/)
 - [How to Code a VSCode Extension (2020)](https://www.youtube.com/watch?v=a5DX5pQ9p5M)
+- [Open VSX Registry](https://open-vsx.org/) - Open-source registry for VS Code extensions. ([Code](https://github.com/EclipseFdn/open-vsx.org))

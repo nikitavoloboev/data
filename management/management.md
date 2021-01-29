@@ -81,3 +81,5 @@
 - [What Silicon Valley gets about engineers that traditional companies do not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/) ([HN](https://news.ycombinator.com/item?id=25717390)) ([Lobsters](https://lobste.rs/s/tzjjmr/what_silicon_valley_gets_about_software))
 - [How to Lead a Project - as a Software Engineer](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
 - [Improve Team Performance and Turn Around Underachieving Engineering Teams (2021)](https://codingsans.com/blog/improve-team-performance)
+- [Staff Engineer: Leadership beyond the management track](https://gumroad.com/l/staff-engineer)
+- [An Elegant Puzzle Book Review: an Overdue Read for Software Engineering Leads](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/)
