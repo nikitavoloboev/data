@@ -206,3 +206,4 @@
 - [The Image of Postgres (2021)](https://blog.jonudell.net/2021/01/24/the-image-of-postgres/)
 - [Avoiding, Identifying, and dealing with PostgreSQL database corruption (2021)](https://www.highgo.ca/2021/01/27/avoiding-identifying-and-dealing-with-postgresql-database-corruption-part-1/)
 - [Planet PostgreSQL](https://planet.postgresql.org/) - Aggregator for Postgres blog posts from across the web.
+- [pllua](https://github.com/RhodiumToad/pllua-ng) - Embeds Lua into PostgreSQL as a procedural language module.

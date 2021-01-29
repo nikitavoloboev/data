@@ -41,3 +41,4 @@
 - [Pricing strategy for a developer tool with 400000 users (2021)](https://news.ycombinator.com/item?id=25622558)
 - [Pricing pages for inspiration](https://inspyr.io/pricing)
 - [The World of Pricing: Uber, Trulia, Etsy, Superhuman and More (2021)](https://www.nfx.com/post/the-hidden-world-of-pricing/)
+- [Pricing a SaaS product (2019)](https://www.bannerbear.com/blog/don-t-charge-a-month-for-your-product/) ([HN](https://news.ycombinator.com/item?id=25941412))

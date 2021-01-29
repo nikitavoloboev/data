@@ -24,6 +24,7 @@
 - [Augmentor](https://github.com/Evizero/Augmentor.jl) - Fast image augmentation library in Julia for machine learning.
 - [DiffEqSensitivity.jl](https://github.com/SciML/DiffEqSensitivity.jl) - Sensitivity analysis for scientific machine learning (SciML).
 - [TensorCore.jl](https://github.com/JuliaMath/TensorCore.jl) - Lightweight package for sharing tensor-algebra definitions.
+- [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) - Julia package for modeling and fitting generalized low rank models.
 
 ## Math
 
