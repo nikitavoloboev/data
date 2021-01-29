@@ -143,3 +143,4 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [Short squeeze explained (2021)](https://www.reddit.com/r/investing/comments/l3otq5/all_right_wtf_is_going_on_with_gme/)
 - [Fidelity Investments](https://www.fidelity.com/)
 - [Ask HN: What Are the Alternatives to Robinhood? (2021)](https://news.ycombinator.com/item?id=25946366)
+- [High Short Interest Stocks](https://www.highshortinterest.com/all/) ([HN](https://news.ycombinator.com/item?id=25950838))

@@ -58,3 +58,5 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs))
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [CommonMark](https://github.com/MichaelHatherly/CommonMark.jl) - CommonMark-compliant parser for Julia.
+- [Blackfriday](https://github.com/russross/blackfriday) - Markdown processor implemented in Go.
+- [StrictMark: Markdown Refactored](http://doc.replicated.cc/^Wiki/strictmark.sm)

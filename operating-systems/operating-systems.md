@@ -86,6 +86,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Pluto](https://github.com/ZystemOS/pluto) - x86 kernel written in Zig.
 - [LeOS Kernel](https://github.com/lowenware/leos-kernel) - Kernel project for operating system for ARM 64bit (AArch64) written in Rust. ([Web](https://lowenware.com/leos/))
 - [RustyHermit](https://github.com/hermitcore/rusty-hermit) - Rust-based, lightweight unikernel.
+- [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system. ([Web](http://jehanne.io/pages/overview.html))
 
 ## Notes
 
@@ -102,7 +103,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [How to Make a Computer Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) ([Code](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System))
 - [Plan 9 from User Space](https://github.com/9fans/plan9port) - Port of many Plan 9 libraries and programs to Unix.
 - [Plan 9 from Bell Labs (1995)](https://css.csail.mit.edu/6.824/2014/papers/plan9.pdf)
-- [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system.
 - [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.
 - [SPDK](https://spdk.io/) - Storage Performance Development Kit Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
 - [Writing an OS in Rust](https://os.phil-opp.com/) ([Code](https://github.com/phil-opp/blog_os))
