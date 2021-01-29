@@ -7,3 +7,4 @@
 - [Azure CLI](https://github.com/Azure/azure-cli)
 - [Azure Rust SDK](https://github.com/Azure/azure-sdk-for-rust)
 - [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ([Web](https://azure.microsoft.com/en-us/resources/templates/))
+- [MLOps on Azure](https://github.com/microsoft/MLOps)
