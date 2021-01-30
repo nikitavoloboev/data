@@ -33,3 +33,4 @@
 - [Propositional Dynamic Logic](https://plato.stanford.edu/entries/logic-dynamic/)
 - [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/~dale/lProlog/)
 - [Dale Miller Research](http://www.lix.polytechnique.fr/~dale/) - Focuses on Computational Logic.
+- [Logical Fallacies](https://www.logicalfallacies.org/) - List of Logical Fallacies with Examples. ([HN](https://news.ycombinator.com/item?id=25967160))
