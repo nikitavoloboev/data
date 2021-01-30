@@ -15,3 +15,4 @@
 - [PenPlots.jl](https://github.com/paulgb/PenPlots.jl) - Simple Julia library for generating SVGs suitable for AxiDraw and similar pen plotters.
 - [Inktober 2020](https://github.com/andymasteroffish/inktober_2020) - Plotter drawings and source code by Andy Wallace for Inktober 2020.
 - [Pen Plotter Art and Algorithms (2017)](https://mattdesl.svbtle.com/pen-plotter-1)
+- [linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.

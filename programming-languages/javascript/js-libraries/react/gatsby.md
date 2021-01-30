@@ -79,3 +79,4 @@
 - [Gatsby Docs](https://www.gatsbyjs.com/docs/)
 - [GatsbyConf](https://www.gatsbyconf.com/)
 - [Gatsby GraphQL Source Toolkit](https://github.com/gatsbyjs/gatsby-graphql-toolkit) - Designed to simplify data sourcing from the remote GraphQL API into Gatsby.
+- [Build a coding blog from scratch with Gatsby and MDX (2019)](https://scottspence.com/2019/10/31/build-an-mdx-blog/)

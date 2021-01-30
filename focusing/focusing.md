@@ -59,3 +59,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Jonathan Blow on Deep Work: The Shape of a Problem Doesn't Start Anywhere (2018)](https://www.youtube.com/watch?v=4Ej_3NKA3pk)
 - [The Rise and Fall of Getting Things Done (2020)](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done) ([HN](https://news.ycombinator.com/item?id=25131848))
 - [How do you document and track your personal goals? (2021)](https://lobste.rs/s/vorh7a/how_do_you_document_track_your_personal)
+- [9 tips on how to spend time effectively & efficiently (2021)](https://twitter.com/m_franceschetti/status/1355202318803861504)
