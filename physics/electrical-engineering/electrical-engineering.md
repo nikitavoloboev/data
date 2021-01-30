@@ -49,3 +49,4 @@
 - [Electronics Notes](https://www.electronics-notes.com/) - Reference site for electronics, radio & wireless.
 - [JITX](https://www.jitx.com/) - Software-defined electronics.
 - [CircuitJS1](https://github.com/sharpie7/circuitjs1) - Electronic circuit simulator that runs in the browser.
+- [SimcirJS](https://kazuhikoarase.github.io/simcirjs/) - Circuit simulator in HTML5 and JavaScript. ([Code](https://github.com/kazuhikoarase/simcirjs))

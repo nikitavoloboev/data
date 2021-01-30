@@ -185,3 +185,4 @@
 - [Rendering Moana with Swift (2021)](https://gonsoloblog.wordpress.com/2021/01/14/rendering-moana-with-swift/) ([HN](https://news.ycombinator.com/item?id=25779611)) ([Code](https://github.com/gonsolo/gonzales))
 - [Advanced Codable](https://github.com/subdigital/advanced-codable-talk) - Demonstrating customizing Codable for different scenarios.
 - [Swift Secrets Book (2021)](https://books.apple.com/us/book/id1551005489) - The Secret life of Swift at runtime.
+- [Swift Arcade - YouTube](https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg/videos) ([Code for Demos](https://github.com/jrasmusson/swift-arcade))

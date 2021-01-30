@@ -121,6 +121,7 @@ Below is a list of extensions I use.
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) ([Code](https://github.com/vscode-icons/vscode-icons))
 - [Stripe](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) ([Web](https://stripe.com/docs/stripe-vscode)) ([Tweet](https://twitter.com/auchenberg/status/1349772997993910272)) ([Code](https://github.com/stripe/vscode-stripe))
 - [VSCode Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
+- [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly) - Grammar checking. ([Code](https://github.com/znck/grammarly))
 
 ## Shell
 

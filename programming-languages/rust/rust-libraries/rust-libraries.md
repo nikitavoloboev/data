@@ -707,6 +707,7 @@
 - [CPAL](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust.
 - [Tokenizer](https://github.com/meilisearch/Tokenizer) - Library used by Meilisearch to tokenize queries and documents.
 - [dtoa](https://github.com/dtolnay/dtoa) - Fast functions for printing floating-point primitives to an io::Write.
+- [Symphonia](https://github.com/pdeljanov/Symphonia) - Rust audio decoding and media demuxing library supporting OGG, FLAC, MP3, and WAV.
 
 ## Cargo Plugins
 
