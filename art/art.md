@@ -175,6 +175,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Jie Ma](https://www.behance.net/jiema37?)
 - [Cole Peters](https://colepeters.com/)
 - [Mattis Dovier](https://mattisdovier.tumblr.com/) ([YouTube](https://www.youtube.com/channel/UCKhi8wL3aIlRCUkHWC-aHHg))
+- [Helvetica Blanc](https://www.instagram.com/helveticablanc_/)
 - [Oliver Johnson](https://www.instagram.com/olivervjohnson/) ([Web](https://www.oliver-j.com/))
 - [Aron Wiesenfeld](https://www.instagram.com/aronwiesenfeld/)
 - [David Altrath](https://davidaltrath.com/)

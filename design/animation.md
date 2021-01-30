@@ -27,3 +27,5 @@
 - [VPaint](https://www.vpaint.org/) - Experimental vector graphics and 2D animation editor. ([Code](https://github.com/dalboris/vpaint))
 - [AnimXYZ](https://github.com/ingram-projects/animxyz) - Composable CSS animation toolkit. ([Web](https://animxyz.com/))
 - [Shingo Tamagawa - Three Minutes, Three Years: Making Puparia (2021)](https://www.youtube.com/watch?v=VKsG3E7TLl4)
+- [Watch 20+ Oscar-Qualified Animation Shorts For Free (2021)](https://www.cartoonbrew.com/awards/watch-at-least-15-oscar-qualified-animation-shorts-for-free-online-201173.html)
+- [Cartoon Brew](https://www.cartoonbrew.com/) - Animation News, Animated Cartoons.
