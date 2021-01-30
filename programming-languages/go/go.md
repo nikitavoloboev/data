@@ -428,3 +428,4 @@ Go promotes composition over inheritance.
 - [Go internals: invariance and memory layout of slices (2021)](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/)
 - [List of Go best practices](https://github.com/golovers/effective-go)
 - [Coming in Go 1.16: ReadDir and DirEntry (2021)](https://benhoyt.com/writings/go-readdir/)
+- [On Go 2 Generics (2021)](https://benburkert.com/posts/on-go2-generics/) ([Lobsters](https://lobste.rs/s/udqdru/on_go_2_generics))

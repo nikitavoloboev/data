@@ -43,3 +43,4 @@
 - [cur](https://github.com/wilbowma/cur) - Language with static dependent-types and dynamic types, type annotations and parentheses, theorem proving and meta-programming.
 - [Daniel Gratzer Research](https://jozefg.github.io/)
 - [Improving Error Messages for Dependent Types with Constraint-based Unification (2016)](http://dspace.library.uu.nl/handle/1874/337692) ([Code](https://github.com/JoeyEremondi/lambda-pi-constraint))
+- [Dependently Typed Linear π-Calculus in Agda](https://github.com/5HT/DependentLinearPi)
