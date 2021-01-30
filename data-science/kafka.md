@@ -30,3 +30,4 @@
 - [Estimating when a message will be consumed in Kafka (2020)](https://techblog.cdiscount.com/estimating-when-a-message-will-be-consumed-in-kafka/)
 - [Kafka message scheduler](https://github.com/etf1/kafka-message-scheduler) - Allows you to send message to a target topic on a specific time with a particular payload.
 - [librdkafka](https://github.com/edenhill/librdkafka) - Apache Kafka C/C++ client library.
+- [A review of Kafka books and tutorials (2021)](https://stambros.medium.com/the-ultimate-knowledge-trove-2bed285dc23e)

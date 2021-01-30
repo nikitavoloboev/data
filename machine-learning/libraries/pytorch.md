@@ -133,7 +133,7 @@
 - [Hivemind](https://github.com/learning-at-home/hivemind) - Library to train large neural networks across the internet. Imagine training one huge transformer on thousands of computers from universities, companies, and volunteers.
 - [Prediction and Policy-learning Under Uncertainty (PPUU)](https://github.com/Atcold/pytorch-PPUU)
 - [PyTorch Lightning Bolts](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-- [LabML Neural Networks](http://lab-ml.com/labml_nn/index.html) - Collection of simple PyTorch implementation of various neural network architectures and layers. ([Code](https://github.com/lab-ml/nn))
+- [LabML Neural Networks](https://nn.labml.ai/) - Collection of simple PyTorch implementation of various neural network architectures and layers. ([Code](https://github.com/lab-ml/nn)) ([HN](https://news.ycombinator.com/item?id=25967641))
 - [PyTorch Interpret](https://github.com/ttumiel/interpret) - PyTorch library for interpreting your deep learning results, using both visualisations and attributions.
 - [Lambda Networks - PyTorch](https://github.com/lucidrains/lambda-networks) - Implementation of Lambda Networks, an attention-based solution for image recognition that reaches SOTA.
 - [PyTorch image data augmentation](https://github.com/anguelos/tormentor)
