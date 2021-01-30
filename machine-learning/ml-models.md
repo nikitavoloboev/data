@@ -17,3 +17,4 @@
 - [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring. ([Web](https://evidentlyai.com/))
 - [MLCube](https://github.com/mlcommons/mlcube) - Project that reduces friction for machine learning by ensuring that models are easily portable and reproducible. ([Docs](https://mlcommons.github.io/mlcube/))
 - [Service Streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
+- [Shapash](https://github.com/MAIF/shapash) - Makes Machine Learning models transparent and understandable by everyone. ([Web](https://maif.github.io/shapash/))

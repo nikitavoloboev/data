@@ -136,7 +136,7 @@ Here are few more things I liked, design wise.
 - [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
 - [Alistair Shepherd](https://alistairshepherd.uk/)
-- [Surma](https://surma.dev/)
+- [Surma](https://surma.dev/) ([Code](https://github.com/surma/surma.dev))
 - [Alain](https://alain.xyz/)
 - [Nick Jones](https://narrowdesign.com/)
 - [Julia Miocene](https://miocene.io/) ([Code](https://github.com/Miocene/web-miocene))

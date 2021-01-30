@@ -52,3 +52,4 @@
 - [Racket for Visual Studio Code](https://github.com/pouyakary/vscode-racket)
 - [Running Racket CS on iOS (2021)](https://defn.io/2021/01/19/racket-cs-on-ios/)
 - [RacketScript](https://github.com/vishesh/racketscript) - Racket to JavaScript Compiler.
+- [racket-http-easy](https://github.com/Bogdanp/racket-http-easy) - High-level HTTP client for Racket.
