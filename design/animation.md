@@ -26,3 +26,4 @@
 - [Pencil2D Animation](https://github.com/pencil2d/pencil) - Easy, intuitive tool to make 2D hand-drawn animations. ([Web](https://www.pencil2d.org/))
 - [VPaint](https://www.vpaint.org/) - Experimental vector graphics and 2D animation editor. ([Code](https://github.com/dalboris/vpaint))
 - [AnimXYZ](https://github.com/ingram-projects/animxyz) - Composable CSS animation toolkit. ([Web](https://animxyz.com/))
+- [Shingo Tamagawa - Three Minutes, Three Years: Making Puparia (2021)](https://www.youtube.com/watch?v=VKsG3E7TLl4)
