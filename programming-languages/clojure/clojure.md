@@ -111,3 +111,4 @@
 - [REPL Driven Development, Clojure's Superpower (2021)](https://www.youtube.com/watch?v=gIoadGfm5T8)
 - [Clojure Rust GraalVM](https://github.com/borkdude/clojure-rust-graalvm) - Example of Clojure program calling a Rust library, all combined into one executable using GraalVM.
 - [Minimum Viable Clojure Developer (2021)](https://www.reddit.com/r/Clojure/comments/l61ib4/minimum_viable_clojure_developer/)
+- [PurelyFunctional.tv](https://purelyfunctional.tv/) - Comprehensive Clojure Training Online.
