@@ -33,3 +33,6 @@
 - [enginesound](https://github.com/DasEtwas/enginesound) - Procedural engine sound generator controlled via GUI or CLI.
 - [Game Map Generator](https://github.com/klangner/mapgen.rs) - Generate procedural maps for games.
 - [Speech Generation in a Procedurally Generated World (2019)](https://www.youtube.com/watch?v=qh9vyoMviJI)
+- [The Secret Behind Unexplored: Cyclic Dungeon Generation (2021)](https://www.youtube.com/watch?v=LRp9vLk7amg)
+- [Level Generation in Unexplored 2 (2019)](https://www.ludomotion.com/blogs/level-generation/index.html)
+- [Tiles to Curves Or, Fun with Voronoi Graphs (2019)](https://www.ludomotion.com/blogs/tiles-to-curves/index.html)
