@@ -50,6 +50,7 @@
 - [OpenMLS](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol.
 - [Tower](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
 - [gql_client](https://github.com/arthurkhlghatyan/gql-client-rs) - Minimal GraphQL client for Rust.
+- [Cynic](https://github.com/obmarg/cynic) - Bring your own types GraphQL client library for Rust. ([Docs](https://cynic-rs.dev/))
 
 ## WASM
 

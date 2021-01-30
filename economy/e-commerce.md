@@ -68,3 +68,4 @@
 - [Sane Shopify](https://github.com/good-idea/sane-shopify) - Connect Sanity and the Shopify Storefront API.
 - [How curation is reinventing e-commerce (2021)](https://maried.substack.com/p/how-curation-is-reinventing-e-commerce)
 - [Easol](https://easol.com/) - Sell travel and experiences online.
+- [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites (2019)](https://webtransparency.cs.princeton.edu/dark-patterns/)

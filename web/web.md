@@ -227,3 +227,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [sorvor](https://github.com/osdevisnot/sorvor) - Extremely fast, zero config server for modern web applications.
 - [Webbed Briefs](https://briefs.video/) - Brief videos about the web, its technologies, and how to make the most of them.
 - [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
+- [Princeton Web Transparency & Accountability Project](https://webtap.princeton.edu/)

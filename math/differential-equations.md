@@ -15,3 +15,4 @@
 - [Learning second order coupled differential equations that are subject to non-conservative forces (2020)](https://arxiv.org/abs/2010.11270) ([HN](https://news.ycombinator.com/item?id=24968805))
 - [Smooth](https://github.com/psg-mit/smooth) - Arbitrary-precision differentiable programming language.
 - [odin](https://github.com/mrc-ide/odin) - DSL for describing and solving differential equations in R.
+- [Learning Differential Equations that are Easy to Solve (2020)](https://arxiv.org/abs/2007.04504) ([Code](https://github.com/jacobjinkelly/easy-neural-ode))

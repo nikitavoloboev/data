@@ -60,3 +60,4 @@
 - [libavif](https://github.com/AOMediaCodec/libavif) - Library for encoding and decoding .avif files.
 - [libusual](https://github.com/libusual/libusual) - Modern C Environment. ([Web](https://libusual.github.io/))
 - [bsdiff/bspatch](https://github.com/mendsley/bsdiff) - Libraries for building and applying patches to binary files.
+- [libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - C library that may be linked into a C/C++ program to produce symbolic backtraces.
