@@ -96,3 +96,5 @@
 - [The Production Board](https://www.theproductionboard.com/) - Investment foundry focused on improving technologies in agriculture, food, and life sciences.
 - [Social Capital](https://www.socialcapital.com/)
 - [Spero Ventures](https://spero.vc/)
+- [Pace Capital](https://www.pacecapital.com/)
+- [Venture Capital Frameworks (2021)](https://docs.google.com/document/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/edit#) - Lessons learned, pattern matching, aphorisms, theories, and general worldview with respect to venture capital. ([Tweet](https://twitter.com/cpaik/status/1355641034726891521))
