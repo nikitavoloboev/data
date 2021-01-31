@@ -34,6 +34,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - Adds real-time type-ahead autocompletion to Zsh, plus many more completion features.
 - [zsh-history](https://github.com/b4b4r07/zsh-history) - Plugin for zsh history extended by golang, dealing it like SQL.
 - [Zsh Vi Mode](https://github.com/jeffreytse/zsh-vi-mode) - Better and friendly vi(vim) mode plugin for ZSH.
+- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf.
 
 ## Prompt
 

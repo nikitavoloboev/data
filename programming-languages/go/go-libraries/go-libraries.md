@@ -719,6 +719,7 @@
 - [faktory_worker_go](https://github.com/contribsys/faktory_worker_go) - Faktory workers for Go.
 - [go-financial](https://github.com/razorpay/go-financial) - Go port of numpy-financial functions and more.
 - [Arista Go library](https://github.com/aristanetworks/goarista) - Helper functions to work with the reflect package.
+- [Fusion](https://github.com/spy16/fusion) - Tiny stream processing library written in Go.
 
 ## Links
 

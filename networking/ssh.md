@@ -48,3 +48,4 @@
 - [boringproxy](https://github.com/boringproxy/boringproxy) - No-frills HTTPS/SSH tunneling solution with as much automation as possible. Designed for self-hosters. ([Web](https://boringproxy.io/))
 - [kr](https://github.com/kryptco/kr) - Dev tool for SSH auth + Git commit/tag signing using a key stored in Krypton.
 - [SSH Access for Supercomputers (2021)](https://goteleport.com/blog/secure-access-supercomputers/)
+- [sshh](https://github.com/daniellockyer/sshh) - Quickly SSH into hosts.
