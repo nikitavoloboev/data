@@ -16,6 +16,8 @@
 - Smarter cities that are friendly to humans & wildlife, not cars.
 - A lot of designated areas across the globe given back to wildlife to flourish.
 - No dictators (China/Russia/..). Every country has proper democratic process with fairly elected leaders. Countries/cities compete for best talent & do best by their citizens.
+- There are efficient tools to grow food at home so more people can live off the grid without government intervention and need to pay tax.
+- Government conducts itself in transparent and open manner. Any change to constitution or law is done in the open. Every tax dollar should be accounted for without ability to mismanage the budget (steal).
 
 ## Links
 

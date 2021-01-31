@@ -6,15 +6,17 @@ It's a travesty that citizen's taxes are are being stolen to strengthen ongoing 
 
 As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are so brainwashed that they are ok with being abused. Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
 
-My current plan/hope to do my part in crushing these systems is by building the best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
+My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
 
-It is a hard problem that requires courage and coordination given the amount of money being spent on police & military by these dictators and the depths in which they go to try and control information flow.
+Beyond this, every citizen should have ability to live off the grid without having to pay any tax if he/she wants to. There should be tools available to grow your own food with ease in any environment. Purchases should be conducted in a global decentralized untraceable cryptocurrency. Beyond it, there should be systems built where fraud (stealing) cannot happen from the government budget.
+
+Overthrowing oppressive regimes such as Russia and China is a hard problem that requires courage and coordination given the amount of money being spent on police & military by these dictators and the depths in which they go to try and jail even for thinking the wrong thing.
 
 The people in charge lack any kind of ethics and will go to any lengths to stop the protests including killing/jailing everyone involved. The police should grow conscience and stop committing further crimes on behalf of the government. For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
 Change comes gradually, then suddenly.
 
-I am hopeful that this change comes soon and am trying my best to make that happen.
+I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
 
 ## Links
 
