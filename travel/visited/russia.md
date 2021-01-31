@@ -43,3 +43,5 @@ I am hopeful that this [change comes soon](../../future/future.md) and am trying
 - [Цена геополитических игр Путина (2021)](https://www.youtube.com/watch?v=BGTiS_9JFuo)
 - [Если не Путин, то кто? Отвечаем на главный вопрос (2021)](https://www.youtube.com/watch?v=OgCP8wG229A)
 - [Плющев и Наки: Ремонт во дворце Путина, Навальный в СИЗО, протесты в России, отравители из ФСБ (2021)](https://www.youtube.com/watch?v=3tR325XWh0k)
+- [Руслан Белый. "Почему я отрастил усы". Стендап 2021](https://www.youtube.com/watch?v=fd3bCRZl6ps)
+- [Московская паника (2021)](https://www.youtube.com/watch?v=ANwZz9gUsus)
