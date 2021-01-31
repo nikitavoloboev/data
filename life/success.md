@@ -70,3 +70,4 @@ Success comes from not giving up and doing what you love.
 - [Consume Less. Create More. It’s More Fun. (2020)](https://telegra.ph/Consume-Less-Create-More-Its-More-Fun-12-04)
 - [Lessons from Ted Lasso Show (2020)](https://twitter.com/Bosefina/status/1340753804808040448)
 - [How Much I Earned in 2020 - My Best Year Ever](https://www.youtube.com/watch?v=VTTp5A-rSdc)
+- [How to increase your luck surface area (2010)](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area) ([HN](https://news.ycombinator.com/item?id=25968751))
