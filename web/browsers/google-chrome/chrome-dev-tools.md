@@ -19,3 +19,4 @@
 - [Hidden Features of Chrome DevTools (2020)](https://martinheinz.dev/blog/33)
 - [How to Debug JavaScript Apps with Chrome DevTools (2020)](https://blog.asayer.io/how-to-debug-javascript-apps-with-chrome-devtools)
 - [Emulate vision deficiencies in DevTools (2020)](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)
+- [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
