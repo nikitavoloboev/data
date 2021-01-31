@@ -10,7 +10,7 @@ My current plan/hope to do my part in crushing these systems is by helping to bu
 
 Beyond this, every citizen should have ability to live off the grid without having to pay any tax if he/she wants to. There should be tools available to grow your own food with ease in any environment. Purchases should be conducted in a global decentralized untraceable cryptocurrency. Beyond it, there should be systems built where fraud (stealing) cannot happen from the government budget.
 
-Overthrowing oppressive regimes such as Russia and China is a hard problem that requires courage and coordination given the amount of money being spent on police & military by these dictators and the depths in which they go to try and jail even for thinking the wrong thing.
+Overthrowing oppressive regimes such as Russia and China is a hard problem that requires courage and coordination given the amount of money being spent on police & military by these dictators and the depths in which they go to try and jail for even thinking the wrong thing.
 
 The people in charge lack any kind of ethics and will go to any lengths to stop the protests including killing/jailing everyone involved. The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
