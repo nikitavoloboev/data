@@ -2,7 +2,7 @@
 
 The number of crimes against humanity committed by [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) is horrific. Need to do everything possible to turn these countries into functional democracies & jail existing dictators with all their helpers.
 
-It's a travesty that citizen's taxes are are being stolen only to strengthen ongoing dictatorship with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
+It's a travesty that citizen's taxes are are being stolen only to [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
 As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are so brainwashed that they are ok with being abused. Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
 
@@ -12,7 +12,7 @@ Beyond this, every citizen should have ability to live off the grid without havi
 
 Overthrowing oppressive regimes such as Russia and China is a hard problem that requires courage and coordination given the amount of money being spent on police & military by these dictators and the depths in which they go to try and jail even for thinking the wrong thing.
 
-The people in charge lack any kind of ethics and will go to any lengths to stop the protests including killing/jailing everyone involved. The police should grow conscience and stop committing further crimes on behalf of the government. For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
+The people in charge lack any kind of ethics and will go to any lengths to stop the protests including killing/jailing everyone involved. The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
 Change comes gradually, then suddenly.
 
