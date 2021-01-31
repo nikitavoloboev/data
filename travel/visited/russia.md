@@ -14,6 +14,8 @@ Overthrowing oppressive regimes such as Russia and China is a hard problem that 
 
 The people in charge lack any kind of ethics and will go to any lengths to stop the protests including killing/jailing everyone involved. The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
+It would be great if all countries cut ties with these oppressive regimes and go beyond just sanctions.
+
 Change comes gradually, then suddenly.
 
 I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
