@@ -47,3 +47,4 @@ Is logical theory of computable functions.
 - [Lambda Calculus and Categories](https://github.com/pamellies/lambda-calculus-and-categories)
 - [LambdaPiPlus](https://github.com/lambda-pi-plus/lambda-pi-plus) - Simple Dependently-Typed Language for Research and Learning.
 - [Lambda-Calculus cooked n-ways](https://github.com/sweirich/lennart-lambda)
+- [lambs](https://github.com/RaasAhsan/lambs) - Enriched typed lambda calculus.
