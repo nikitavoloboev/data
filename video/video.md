@@ -188,3 +188,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Mibo](https://getmibo.com/) - Video chat that feels like real life. ([HN](https://news.ycombinator.com/item?id=25858814))
 - [CrowdNotifier - Decentralized Privacy-Preserving Presence Tracing](https://github.com/CrowdNotifier/documents)
 - [Visualization tool for live music performances](https://github.com/bartjoyce/video-app) - Built with C++.
+- [Gilfoyle](https://github.com/dreamvo/gilfoyle) - Cloud-native solution to embed media streaming in any application at any scale.
+- [Dreamvo](https://www.dreamvo.com/) - Free and open source video sharing for the 21th century. ([GitHub](https://github.com/dreamvo/))

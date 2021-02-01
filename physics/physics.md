@@ -171,3 +171,4 @@
 - [Why is light always moving?](https://www.reddit.com/r/explainlikeimfive/comments/l0q82z/eli5_what_propels_light_why_is_light_always_moving/)
 - [Max Planck Institute for Solid State Research](https://www.fkf.mpg.de/en)
 - [What does "Entropy" mean? (2021)](https://www.reddit.com/r/askscience/comments/l6g1nb/what_does_entropy_mean/)
+- [What makes a physicist, a great physicist? (2021)](https://www.reddit.com/r/Physics/comments/l9dqnp/what_makes_a_physicist_a_great_physicist/)
