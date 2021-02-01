@@ -4,6 +4,7 @@
 
 - [http](https://github.com/elm/http) - Make HTTP requests in Elm.
 - [elm-graphql](https://github.com/dillonkearns/elm-graphql/) - Autogenerate type-safe GraphQL queries in Elm.
+- [Elm Animator](https://github.com/mdgriffith/elm-animator) - Timeline-based animation engine for Elm.
 
 ## Style
 

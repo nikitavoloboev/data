@@ -708,6 +708,7 @@
 - [Tokenizer](https://github.com/meilisearch/Tokenizer) - Library used by Meilisearch to tokenize queries and documents.
 - [dtoa](https://github.com/dtolnay/dtoa) - Fast functions for printing floating-point primitives to an io::Write.
 - [Symphonia](https://github.com/pdeljanov/Symphonia) - Rust audio decoding and media demuxing library supporting OGG, FLAC, MP3, and WAV.
+- [treediff-rs](httops://github.com/Byron/treediff-rs) - Library to compare arbitrary structured data of the same type, efficiently.
 
 ## Cargo Plugins
 

@@ -161,3 +161,5 @@
 - [Scrive Nix Workshop](https://scrive.github.io/nix-workshop/) ([Code](https://github.com/scrive/nix-workshop))
 - [nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn.
 - [dev-env](https://github.com/digital-asset/dev-env) - Nix with training wheels.
+- [Basinix](https://github.com/jonringer/basinix) - Pull request reviewing tool for nixpkgs.
+- [Nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy. Provide a nice way to create largely boilerplate nix-expressions.

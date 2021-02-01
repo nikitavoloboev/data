@@ -61,3 +61,4 @@
 - [Raspberry Pi LEGO sorter (2021)](https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/)
 - [pitop](https://github.com/PierreKieffer/pitop) - Raspberry Pi 4 terminal based activity monitor.
 - [Getting Started with Raspberry Pi Pico using MicroPython and C (2021)](https://www.cnx-software.com/2021/01/24/getting-started-with-raspberry-pi-pico-using-micropython-and-c/)
+- [TinyPilot](https://github.com/mtlynch/tinypilot) - Turn your Raspberry Pi into a browser-based KVM. Easy-to-use, low-cost device to manage your servers. ([Web](https://tinypilotkvm.com/))
