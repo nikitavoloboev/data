@@ -34,3 +34,4 @@
 - [Prometheus Exporter Toolkit](https://github.com/prometheus/exporter-toolkit) - Go library for Prometheus exporters.
 - [Get started with Prometheus with these three easy projects (2021)](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)
 - [Prometheus SQL](https://github.com/chop-dbhi/prometheus-sql) - Service that generates basic metrics for SQL result sets and exposing them as Prometheus metrics.
+- [promremote](https://github.com/m3dbx/prometheus_remote_client_golang) - Prometheus remote write client written in Go.
