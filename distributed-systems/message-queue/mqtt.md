@@ -10,3 +10,4 @@
 - [What's Wrong with MQTT? (2018)](https://www.rtautomation.com/mqtt/whats-wrong-with-mqtt/) ([Lobsters](https://lobste.rs/s/lwofpb/what_s_wrong_with_mqtt))
 - [deskmate](https://github.com/rbaron/deskmate) - Hackable & portable MQTT-powered mini dashboard and control center.
 - [A quick introduction to MQTT for IOT (2021)](https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/)
+- [Secure your MQTT server with authentication and encryption (2021)](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
