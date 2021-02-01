@@ -720,6 +720,7 @@
 - [go-financial](https://github.com/razorpay/go-financial) - Go port of numpy-financial functions and more.
 - [Arista Go library](https://github.com/aristanetworks/goarista) - Helper functions to work with the reflect package.
 - [Fusion](https://github.com/spy16/fusion) - Tiny stream processing library written in Go.
+- [Go Fluent FFmpeg](https://github.com/modfy/go-fluent-ffmpeg) - Bindings to FFmpeg.
 
 ## Links
 
