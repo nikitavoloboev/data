@@ -35,4 +35,4 @@
 - [Monadic parser combinators, in Lean](https://github.com/jesse-michael-han/lean-parser-combinators)
 - [elan](https://github.com/Kha/elan) - Lean version manager.
 - [Lean Community](https://leanprover-community.github.io/)
-- [Simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer)
+- [Simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer) ([HN](https://news.ycombinator.com/item?id=25987949))
