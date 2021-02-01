@@ -67,3 +67,4 @@
 - [LoRa Basics Station](https://github.com/balenalabs/basicstation) - Deploys a LoRaWAN gateway with Basics Station Packet Forward protocol with balena.
 - [lorawan-node-simulator](https://github.com/kartben/lorawan-node-simulator) - Simulates LoRaWAN gateways, and endpoints regularly emitting LoRaWAN radio packets.
 - [Deploying a LoRaWAN network server on Azure (2021)](https://blog.benjamin-cabe.com/2020/12/01/deploying-a-lorawan-network-server-on-azure)
+- [Eveything you need to know about LoRaWAN in 60 minutes - Johan Stokking (2021)](https://www.youtube.com/watch?v=ZsVhYiX4_6o)

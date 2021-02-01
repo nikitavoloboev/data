@@ -10,4 +10,4 @@
 - [Why I'm Learning F# in 2021](https://markjames.dev/2021-01-04-why-learning-fsharp-2021/)
 - [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler. ([Web](https://fable.io/))
 - [WebSharper](https://github.com/dotnet-websharper/core) - F#-based web programming platform including a compiler from F# code to JavaScript.
-- [What the F# (2021)](https://onurgumus.github.io/2021/01/31/What-the-F.html) ([HN](https://news.ycombinator.com/item?id=25986316))
+- [F# is gaining independence from .NET (2021)](https://onurgumus.github.io/2021/01/31/What-the-F.html) ([HN](https://news.ycombinator.com/item?id=25986316))

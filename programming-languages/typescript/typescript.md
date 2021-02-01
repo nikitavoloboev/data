@@ -90,7 +90,7 @@
 - [Dependent Types in Typescript](https://www.javiercasas.com/articles/typescript-dependent-types)
 - [Type Puzzles](https://type-puzzles.uhyohyo.net/) - Learn TypeScript with Type Puzzles. ([Code](https://github.com/uhyo/typescript-puzzle))
 - [Introduction to Functional Programming using TypeScript and fp-ts](https://github.com/enricopolanski/functional-programming)
-- [TypeScript website code](https://github.com/microsoft/TypeScript-Website) - Website and web infrastructure for learning TypeScript.
+- [TypeScript Website Code](https://github.com/microsoft/TypeScript-Website) - Website and web infrastructure for learning TypeScript. ([Updates Issue](https://github.com/microsoft/TypeScript-Website/issues/130))
 - [Functional TypeScript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [TSJS-lib-generator](https://github.com/microsoft/TSJS-lib-generator) - TypeScript and JavaScript lib generator.
 - [TypeScript exercises](https://github.com/mdevils/typescript-exercises) - Collection of challenging TypeScript exercises.
