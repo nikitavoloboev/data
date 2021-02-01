@@ -36,4 +36,4 @@
 - [Vitalik Buterin on free speech and deplatforming (2021)](https://twitter.com/VitalikButerin/status/1348894400919703552)
 - [Change.org](https://www.change.org/) - World’s platform for change.
 - [Centralisation Is a Danger to Democracy (2021)](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy) ([HN](https://news.ycombinator.com/item?id=25828081))
-- [What is Socialism? (2020)](https://learn.robinhood.com/articles/7ugOBaabou2fY0bzAls2pP/what-is-socialism/) ([HN](https://news.ycombinator.com/item?id=25961455))
+- [HN: What is Socialism? (2020)](https://news.ycombinator.com/item?id=25961455)

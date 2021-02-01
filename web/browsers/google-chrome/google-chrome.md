@@ -37,3 +37,4 @@ And here are Chrome extensions I use:
 - [CRX Viewer](https://robwu.nl/crxviewer/) - See the source code of Chrome extensions.
 - [71 Lines](https://71lines.com/) - Build Chrome Extensions with No-Code Tools.
 - [Placeholdifier](https://chrome.google.com/webstore/detail/placeholdifier/iinkgkmmblamljaklibgclblomobdbha) - Turn any website into a live wireframe. ([Code](https://github.com/pomber/placeholdifier))
+- [Chrome 89 Beta: advanced hardware interactions, web sharing on desktop (2021)](https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html) ([HN](https://news.ycombinator.com/item?id=25982542))
