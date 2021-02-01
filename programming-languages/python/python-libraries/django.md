@@ -74,3 +74,4 @@
 - [Turbo for Django](https://github.com/hotwire-django/turbo-django) - Integration of Hotwire Turbo with Django.
 - [Modern Django: A Guide on How to Deploy Django-based Web Applications](https://github.com/djstein/modern-django)
 - [Django Algolia Integration](https://github.com/algolia/algoliasearch-django)
+- [Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS (2021)](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/) ([HN](https://news.ycombinator.com/item?id=25973242))

@@ -127,3 +127,4 @@
 - [c2goasm](https://github.com/minio/c2goasm) - C to Go Assembly.
 - [List of C static analysis tools](https://github.com/csvitlik/static_analysis_tools)
 - [Q3VM](https://github.com/jnz/q3vm) - Single file (vm.c) bytecode virtual machine/interpreter for C-language input.
+- [How does Clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6) ([HN](https://news.ycombinator.com/item?id=25976855))

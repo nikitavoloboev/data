@@ -17,3 +17,4 @@ I prefer tea to coffee.
 - [Matcha Tea](https://matcha.com/) - Quality matcha tea.
 - [Floating Leaves](https://floatingleaves.com/) - Taiwan Oolong Tea Specialist – Floating Leaves Tea.
 - [Favorite cozy evening tea](https://merveilles.town/@dualhammers/104827337713174479)
+- [Chronicles of a Bubble Tea Addict (2021)](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict) ([HN](https://news.ycombinator.com/item?id=25975428))
