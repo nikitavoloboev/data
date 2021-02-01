@@ -28,7 +28,7 @@ There's lots of things I have optimized over the years and it's truly incredible
 
 ## What actually happened in September
 
-I've been working in [CodeYellow](https://www.codeyellow.nl) since August building a web app in Django for smart factories. It's a nice apartment. I also moved properly to Eindhoven into a nice place. Life has been quite hectic but it's getting better, slowly.
+I've been working in [CodeYellow](https://www.codeyellow.nl) since August building a web app in Django for smart factories. I also moved properly to Eindhoven into a nice place. Life has been quite hectic but it's getting better, slowly.
 
 One nice thing that did happen though. As I do everything in the open at no cost (not the smartest 🍪), I've often contemplated what will happen when money runs out and I won't have money for food and groceries. Dying of hunger in first world country like Netherlands seems extreme but it probably happens to many. Given all this, I tweeted how happy I was that I was at least [getting 20\$ for all the things I made](https://twitter.com/nikitavoloboev/status/1306655713176027136). And lo an behold that number is now 80\$ thanks to [8 kind people](https://github.com/sponsors/nikitavoloboev). It's still not enough to actually sustain a human life but it's still beautiful.
 

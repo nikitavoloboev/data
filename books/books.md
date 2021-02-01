@@ -337,3 +337,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [ePubViewer](https://pgaskin.net/ePubViewer/) - ePub viewer with dictionary, themes, search, offline support, and more. ([Code](https://github.com/pgaskin/ePubViewer))
 - [Historical Dictionary of Science Fiction](https://sfdictionary.com/) ([HN](https://news.ycombinator.com/item?id=25934170))
 - [Old Book Illustrations](https://www.oldbookillustrations.com/)
+- [Shortform](https://www.shortform.com/) - World's Best Book Summaries.
