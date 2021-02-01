@@ -12,6 +12,7 @@
   - Tools like smart contracts that allow interactions with reduced levels of trust.
   - Governance technologies (voting, shares, decision markets...)
 - [If there is a blockchain based mobile voting App (with proper KYC of course), we won't have to wait for results, or have any questions on its validity. Privacy can be protected using a number of encryption mechanisms.](https://twitter.com/VitalikButerin/status/1324179944558059522)
+- [The "capitalism <-> socialism" opposition seems outdated. I prefer to think in terms of "centralization vs decentralization". Humans have evolved to perform best in small groups of less than 150 people. That's why wherever there's centralization and excessive heirarchy, there's inefficiency and underutilized human potential. Capitalist monopolies and socialist dictatorships are equally bad.](https://t.me/durov/151)
 
 ## Links
 

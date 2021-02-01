@@ -188,6 +188,7 @@
 - [swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) - Swift implementation of the HTTP Structured Header Field specification.
 - [SwiftNIO HTTP/2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO.
 - [Meridian](https://github.com/khanlou/Meridian) - Web server written in Swift that lets you write your endpoints in a declarative way.
+- [GraphQLKit](https://github.com/alexsteinerde/graphql-kit) - Easy setup of a GraphQL server with Vapor. It uses the GraphQL implementation of Graphiti.
 
 ## SwiftUI
 

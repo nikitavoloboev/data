@@ -28,6 +28,10 @@
 
 - [Python 3.5+ bindings for OCaml](https://github.com/zshipko/ocaml-py)
 
+## CLI
+
+- [Cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml. ([Web](https://erratique.ch/software/cmdliner)) ([Cmdliner cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet))
+
 ## Other
 
 - [OCamlbuild](https://github.com/ocaml/ocamlbuild) - Generic build tool, that has built-in rules for building OCaml library and programs.

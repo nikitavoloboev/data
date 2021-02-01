@@ -147,6 +147,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
+- [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
 - [Mineral Existence](https://mineralexistence.com/wiki.html) ([Code](https://github.com/flber/Mineral-Existence))
