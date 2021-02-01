@@ -90,3 +90,5 @@
 - [Europe / History WWII - Holocaust, wedding rings found in Death Camp](https://www.reddit.com/r/europe/comments/l1hurc/europe_history_wwii_holocaust_wedding_rings_found/)
 - [TSMC History](https://twitter.com/sahilbloom/status/1353369463190560773)
 - [I Love Reading 1980s Computer Magazines, and So Should You (2021)](https://www.wired.com/story/i-love-reading-1980s-computer-magazines-and-so-should-you/)
+- [The Sámi on Camera (2021)](https://www.historytoday.com/miscellanies/sami-camera)
+- [History Today](https://www.historytoday.com/) - Illustrated history magazine.

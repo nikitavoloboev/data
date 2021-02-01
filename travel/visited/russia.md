@@ -45,3 +45,4 @@ I am hopeful that this [change comes soon](../../future/future.md) and am trying
 - [Плющев и Наки: Ремонт во дворце Путина, Навальный в СИЗО, протесты в России, отравители из ФСБ (2021)](https://www.youtube.com/watch?v=3tR325XWh0k)
 - [Руслан Белый. "Почему я отрастил усы". Стендап 2021](https://www.youtube.com/watch?v=fd3bCRZl6ps)
 - [Московская паника (2021)](https://www.youtube.com/watch?v=ANwZz9gUsus)
+- [Леонид Парфёнов | Вино, "Намедни", журналистика в СССР и изменят ли что-то протесты. (2021)](https://www.youtube.com/watch?v=k9LRqytY9Ao)

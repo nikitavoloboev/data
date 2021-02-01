@@ -219,3 +219,4 @@
 - [PyProf](https://github.com/NVIDIA/PyProf) - GPU performance profiling tool for PyTorch models.
 - [ctcdecode](https://github.com/parlance/ctcdecode) - Implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch.
 - [OpenMM PyTorch Plugin](https://github.com/openmm/openmm-torch) - OpenMM plugin to define forces with neural networks.
+- [Totally Versatile Miscellania for PyTorch](https://github.com/t-vi/pytorch-tvmisc)

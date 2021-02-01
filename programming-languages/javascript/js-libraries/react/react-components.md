@@ -152,6 +152,7 @@
 - [Renderlesskit React](https://github.com/timelessco/renderlesskit-react) - Headless components/hooks that are accessible, composable, customizable from low level to build your own UI & Design System.
 - [react-virtualized-tree](https://github.com/diogofcunha/react-virtualized-tree) - Virtualized tree view component making use of react.
 - [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support.
+- [React Colorful](https://github.com/omgovich/react-colorful) - Tiny color picker component for React and Preact apps.
 
 ## Links
 
