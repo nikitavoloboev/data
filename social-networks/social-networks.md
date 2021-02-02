@@ -89,3 +89,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Martin Kleppman: Decentralized content moderation (2021)](https://martin.kleppmann.com/2021/01/13/decentralised-content-moderation.html)
 - [Hypergrowth Network](https://www.basisset.ventures/hypergrowth-network) - Get advice from the best go-to-market leaders in tech.
 - [CTZN](https://github.com/pfrazee/ctzn) - Distributed social network. Twitter-style feed and posts.
+- [FeoBlog](https://github.com/NfNitLoop/feoblog) - Distributed blogging platform. It takes a lot of its inspiration from Mastodon and Scuttlebutt.
