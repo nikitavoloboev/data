@@ -48,3 +48,4 @@ Is logical theory of computable functions.
 - [LambdaPiPlus](https://github.com/lambda-pi-plus/lambda-pi-plus) - Simple Dependently-Typed Language for Research and Learning.
 - [Lambda-Calculus cooked n-ways](https://github.com/sweirich/lennart-lambda)
 - [lambs](https://github.com/RaasAhsan/lambs) - Enriched typed lambda calculus.
+- [Lambda Calculus (2020)](https://afnan.io/posts/lambda-calculus/)
