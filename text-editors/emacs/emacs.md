@@ -84,3 +84,4 @@ Might give it a go sometime.
 - [Reasons to Learn Emacs in 2021](https://www.youtube.com/watch?v=bEfYm8sAaQg)
 - [Emacs Manuals Online](https://www.gnu.org/software/emacs/manual/)
 - [Emacs-ng](https://github.com/emacs-ng/emacs-ng) - Emacs with Deno runtime and TypeScript.
+- [Emacs: from catching up to getting ahead (2021)](https://www.murilopereira.com/emacs-from-catching-up-to-getting-ahead/)
