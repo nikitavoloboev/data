@@ -48,3 +48,4 @@
 - [Corundum](https://github.com/corundum/corundum) - Open-source, high-performance FPGA-based NIC.
 - [UPduino 3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0) - FPGA dev board that's cheap, simple and supported by OSS toolchain. ([HN](https://news.ycombinator.com/item?id=25720531))
 - [Cheap FPGA Development Boards](https://www.joelw.id.au/FPGA/CheapFPGADevelopmentBoards)
+- [Exploring FPGA Graphics (2020)](https://projectf.io/posts/fpga-graphics/) ([HN](https://news.ycombinator.com/item?id=25998154))

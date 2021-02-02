@@ -25,3 +25,4 @@
 - [rapidsnark](https://github.com/iden3/rapidsnark) - zkSnark proof generation.
 - [An approximate introduction to how zk-SNARKs are possible (2021)](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [OpenZKP](https://github.com/0xProject/OpenZKP) - Pure Rust implementations of Zero-Knowledge Proof systems.
+- [zkp](https://github.com/dalek-cryptography/zkp) - Experimental zero-knowledge proof compiler in Rust macros.

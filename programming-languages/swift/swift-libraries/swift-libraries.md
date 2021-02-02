@@ -602,6 +602,7 @@
 - [NativeMarkKit](https://github.com/andyfinnell/NativeMarkKit) - Flavor of Markdown designed to be rendered by native apps.
 - [SwiftGestalt](https://github.com/swift-gestalt/SwiftGestalt) - Native Swift (Metadata) Runtime Introspection Libraries.
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout.
+- [SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
 
 ## Other (not lib)
 

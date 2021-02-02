@@ -118,6 +118,8 @@ And these Discord servers:
 - [New York Magazine](https://nymag.com/)
 - [The New Yorker](https://www.newyorker.com/)
 - [The Economist](https://www.economist.com/)
+- [Reuters](https://www.reuters.com/)
+- [Bloomberg](https://www.bloomberg.com/)
 
 ### Other
 

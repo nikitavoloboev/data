@@ -10,7 +10,7 @@
 - [Suzieq](https://github.com/netenglabs/suzieq) - Framework and application for network observability. ([Docs](https://suzieq.readthedocs.io/en/latest/))
 - [Honeycomb Observability](https://www.honeycomb.io/) - Observe, Debug and Improve Production.
 - [Orijtech](https://orijtech.com/) - Observability, developer tools, cloud. ([GitHub](https://github.com/orijtech))
-- [Opstrace](https://opstrace.com/) - Secure Observability Deployed in your Network. ([Code](https://github.com/opstrace/opstrace))
+- [Opstrace](https://opstrace.com/) - Secure Observability Deployed in your Network. ([Code](https://github.com/opstrace/opstrace)) ([HN](https://news.ycombinator.com/item?id=25991485))
 - [Adaptive Request Concurrency. Resilient observability at scale. (2020)](https://vector.dev/blog/adaptive-request-concurrency/)
 - [Observability, Getting Started - 50 Free Access and Open-Source Solutions (2020)](https://haydenjames.io/observability-getting-started-free-access-and-open-source-solutions/)
 - [tobs](https://github.com/timescale/tobs) - Observability Stack for Kubernetes.
