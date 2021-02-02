@@ -16,9 +16,9 @@ The people in charge lack any kind of ethics and will go to any lengths to stop 
 
 It would be great if all countries cut ties with these oppressive regimes and go beyond just sanctions.
 
-Change comes gradually, then suddenly.
+Alexey Navalny says: [It is impossible to jail millions and hundreds of thousands, and I very much hope that people will become more and more aware of this, and when they realize this, such a moment will come, you will not jail the whole country.](https://twitter.com/teamnavalny_mos/status/1356594998603616256)
 
-I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
+Change comes gradually, then suddenly. I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
 
 ## Links
 
