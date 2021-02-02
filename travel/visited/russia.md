@@ -20,6 +20,10 @@ Alexey Navalny says: [It is impossible to jail millions and hundreds of thousand
 
 Change comes gradually, then suddenly. I am hopeful that this [change comes soon](../../future/future.md) and am trying my best to make that happen.
 
+## Notes
+
+- [Когда беззаконие и произвол — суть политической системы и это ужасно, но бывает хуже. Когда беззаконие и произвол надевают мундир прокурора или судейскую мантию. И в этом случае долг каждого человека — не подчиняться законам, которые в это облачены](https://twitter.com/StalinGulag/status/1356595455120076804)
+
 ## Links
 
 - [Meduza](https://meduza.io/) - Riga-based online newspaper and news aggregator in the Russian language.
