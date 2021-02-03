@@ -4,9 +4,13 @@ Goal plan is in [Notion](https://www.notion.so/e462537d8f3d40c095ea67091ca91f45?
 
 ## Action
 
-### Build Learn Anything
+### Learn Anything
 
 Make the best tool for learning anything and sharing ideas. Release website, mobile app, API. Build up community.
+
+### Dendron
+
+Make the most flexible and powerful note taking tool allowing for querying and sharing snapshots of knowledge with ease.
 
 ### Expand personal site
 
@@ -16,7 +20,7 @@ Blog, wiki, art, projects, photos. Look backs as nice newsletters + rich derived
 
 ### Read books / papers
 
-Take time to read relevant books & papers.
+Read relevant books & papers.
 
 ### Build better tools for everything
 
