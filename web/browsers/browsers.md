@@ -101,3 +101,4 @@
 - [Browser rendering performance resources](https://github.com/ufocoder/browser-rendering-performance) ([HN](https://news.ycombinator.com/item?id=25868742))
 - [Screenjar](https://screenjar.com/) - Make it super easy for customers to send you videos of their screen.
 - [Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)
+- [Zap](https://github.com/issmirnov/zap) - Powerful tool that allows you to define universal web shortcuts in a simple config file.

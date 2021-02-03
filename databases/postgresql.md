@@ -207,3 +207,4 @@
 - [Avoiding, Identifying, and dealing with PostgreSQL database corruption (2021)](https://www.highgo.ca/2021/01/27/avoiding-identifying-and-dealing-with-postgresql-database-corruption-part-1/)
 - [Planet PostgreSQL](https://planet.postgresql.org/) - Aggregator for Postgres blog posts from across the web.
 - [pllua](https://github.com/RhodiumToad/pllua-ng) - Embeds Lua into PostgreSQL as a procedural language module.
+- [An unexpected find that freed 20GB of unused index space in PostgreSQL (2021)](https://hakibenita.com/postgresql-unused-index-size) ([HN](https://news.ycombinator.com/item?id=25988871))

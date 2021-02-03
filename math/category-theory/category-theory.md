@@ -25,7 +25,7 @@ Anything that can be represented by the above list can be analyzed as a category
 ## Links
 
 - [An invitation to category theory (2018)](http://chalkdustmagazine.com/features/an-invitation-to-category-theory/) - Just what is category theory? Tai-Danae Bradley explains.
-- [What is Applied Category Theory? (2018)](https://arxiv.org/abs/1809.05923)
+- [What is Applied Category Theory? (2018)](https://arxiv.org/abs/1809.05923) ([HN](https://news.ycombinator.com/item?id=26011025))
 - [Category Theory nLab](https://ncatlab.org/nlab/show/category+theory)
 - [Applied Category Theory – Online Course](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
 - [Functional Programming and Category Theory [Part 1] - Categories and Functors](http://nikgrozev.com/2016/03/14/functional-programming-and-category-theory-part-1-categories-and-functors/)

@@ -36,3 +36,4 @@
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis. ([Web](https://js.cytoscape.org/))
 - [React Cytoscape](https://github.com/plotly/react-cytoscapejs) - React component for Cytoscape.js network visualisations.
 - [Awesome Dynamic Graphs](https://github.com/domargan/awesome-dynamic-graphs)
+- [GraphScope](https://github.com/alibaba/GraphScope) - One-Stop Large-Scale Graph Computing System from Alibaba. ([Web](https://graphscope.io/))

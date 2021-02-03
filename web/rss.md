@@ -83,3 +83,4 @@
 - [Combine RSS feeds](https://github.com/awocallaghan/node-rss-combiner)
 - [Node RSS](https://github.com/jpmonette/feed) - RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive.
 - [Github Action for building static feed aggregator site](https://github.com/llun/feeds)
+- [I Still Use RSS (2021)](https://atthis.link/blog/2021/rss.html) ([HN](https://news.ycombinator.com/item?id=26014344))

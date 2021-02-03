@@ -146,3 +146,4 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [High Short Interest Stocks](https://www.highshortinterest.com/all/) ([HN](https://news.ycombinator.com/item?id=25950838))
 - [Robinhood Learn](https://learn.robinhood.com/library/) - Investing basics—in plain English.
 - [Why Robinhood disabled buys but not sells (2021)](https://stu2b50.dev/posts/why-robinhood-d3580b) ([HN](https://news.ycombinator.com/item?id=25979673))
+- [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
