@@ -51,3 +51,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Руслан Белый. "Почему я отрастил усы". Стендап 2021](https://www.youtube.com/watch?v=fd3bCRZl6ps)
 - [Московская паника (2021)](https://www.youtube.com/watch?v=ANwZz9gUsus)
 - [Речь Алексея Навального в суде 2 февраля (2021)](https://www.youtube.com/watch?v=uWU21qJlQd0)
+- [Twelve reasons why Russia sucks (2018)](https://medium.com/@meohoh/twelve-reasons-why-russia-sucks-9ceb0feddcd6)
