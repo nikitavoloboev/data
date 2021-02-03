@@ -85,3 +85,4 @@
 - [Upscaler](https://www.upscaler.ai/) - Increase image resolution up to 4x using JavaScript and Tensorflow.js ([Code](https://github.com/thekevinscott/UpscalerJS))
 - [RemoveBackground.app](https://removebackground.app/) - Remove the background from your images using ML.
 - [z.lib](https://github.com/sekrit-twc/zimg) - Scaling, colorspace conversion, and dithering library.
+- [pierogis](https://github.com/pierogis/pierogis) - Framework for image processing.
