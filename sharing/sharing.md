@@ -52,7 +52,7 @@ Lists my current location & [events](https://calendar.google.com/calendar/embed?
 
 I share and reflect on my life in this wiki. Acts as a little personal journal I love to look back on.
 
-I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
+Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev).
 
 ## Everything else
 

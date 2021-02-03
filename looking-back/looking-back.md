@@ -2,9 +2,9 @@
 
 ![](https://preview.redd.it/u6yumuzr80941.jpg?width=960&crop=smart&auto=webp&s=658444db643243036c3d71ecb035d143b6dbdbb4)
 
-I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
+I share most things on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
-I also write a [monthly newsletter](https://buttondown.email/nikitavoloboev) with updates on things I built & thought about.
+I do monthly reflections on life here. Comes as part of [my newsletter](https://buttondown.email/nikitavoloboev).
 
 ## 2021
 
