@@ -1,5 +1,7 @@
 # Decision making
 
+Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles) as a framework of making better decisions.
+
 ## Links
 
 - [What Really Drives Our Decision-Making? (2019)](https://ritholtz.com/2019/05/what-really-drives-our-decision-making/)
