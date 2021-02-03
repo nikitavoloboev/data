@@ -86,3 +86,4 @@
 - [How to write good documentation (2020)](https://victoria.dev/blog/how-to-write-good-documentation/)
 - [The career-changing art of reading the docs (2021)](https://acloudguru.com/blog/engineering/the-career-changing-art-of-reading-the-docs)
 - [DocSearch](https://docsearch.algolia.com/) - Search made for documentation by Algolia. ([Code](https://github.com/algolia/docsearch))
+- [A Framework for Writing Better Documentation](https://documentation.divio.com/) ([HN](https://news.ycombinator.com/item?id=26002656))
