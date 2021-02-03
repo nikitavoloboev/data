@@ -599,7 +599,7 @@ Here are few more things I liked, design wise.
 - [John Morris](http://johnmorris.io/) - Simple. [Code](https://github.com/johnpmorris/johnpmorris.github.io).
 - [Alex Carpenter](https://alexcarpenter.me/)
 - [Nuno Leites](https://nunoleites.com/)
-- [Alexey Taktarov](https://molefrog.com/) - Simple.
+- [Alexey Taktarov](https://molefrog.com/) - Simple. ([Code](https://github.com/molefrog/molefrog.github.io))
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
 - [Sarah Drasner](https://sarah.dev/)
 - [Brandon Weiss](https://brandonweiss.me/)

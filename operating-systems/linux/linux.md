@@ -265,3 +265,4 @@
 - [Network Performance in the Linux Kernel (2021)](https://fosdem.org/2021/schedule/event/network_performance_in_kernel/attachments/slides/4433/export/events/attachments/network_performance_in_kernel/slides/4433/chevallier_network_performance_in_the_linux_kernel.pdf)
 - [Should You Write a Wayland Compositor? (2021)](https://tudorr.ro/blog/technical/2021/01/26/the-wayland-experience/)
 - [wlroots](https://github.com/swaywm/wlroots) - Modular Wayland compositor library.
+- [Getting better at Linux with mini-projects (2020)](https://carltheperson.com/posts/10-things-linux) ([HN](https://news.ycombinator.com/item?id=26002335))
