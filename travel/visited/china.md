@@ -10,3 +10,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [I created a webapp to help me learn simplified Chinese characters (2020)](https://www.thomasvanderberg.nl/blog/cn-hanzi/)
 - [Tiananmen Square images that China does not want you to see](https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/tiananmen-square?phrase=tiananmen%20square&sort=mostpopular) ([HN](https://news.ycombinator.com/item?id=25454830))
 - [Demystifying the Great Firewall of China (2020)](https://medium.com/mobile-asia/demystifying-the-great-firewall-of-china-22f4a97550cc)
+- [Uighur camp detainees allege systematic rape](https://www.bbc.com/news/world-asia-china-55794071) ([HN](https://news.ycombinator.com/item?id=26009586))
