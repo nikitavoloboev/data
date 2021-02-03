@@ -85,6 +85,7 @@ Here are few more things I liked, design wise.
 - [Majid](https://swiftwithmajid.com/) ([Code](https://github.com/mecid/mecid.github.io))
 - [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)
+- [Auxon](https://blog.auxon.io/)
 - [Seph](https://josephg.com/blog/)
 - [defn.io](https://defn.io/)
 - [Naval](https://nav.al/)

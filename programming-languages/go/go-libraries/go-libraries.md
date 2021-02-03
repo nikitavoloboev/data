@@ -196,6 +196,7 @@
 
 ## macOS
 
+- [MacDriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go.
 - [apfs](https://github.com/go-darwin/apfs) - Package apfs implements an Apple File System(apfs) bindings for Go.
 
 ## Docker

@@ -13,3 +13,4 @@
 - [Cities are living entities always changing and adapting to new environments (2020)](https://thinkthinkthink.substack.com/p/resilience)
 - [Platocracy: An Experimental City Wiki](https://www.notion.so/Platocracy-An-Experimental-City-Wiki-4faf1beae8454aa19d3649afa7f5b59e)
 - [Letting Go of Nostalgia Urbanism](https://www.granolashotgun.com/granolashotguncom/2mvygaw3y67fx5bqrvno2lp452zifc) ([HN](https://news.ycombinator.com/item?id=25626389))
+- [Unfinished Metropolis: once and future Berlin (2020)](https://www.degradedorbit.com/articles/unfinished-metropolis-once-and-future-berlin)

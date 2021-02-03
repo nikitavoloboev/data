@@ -117,3 +117,4 @@
 - [System Design Interview - An Insider's Guide](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35) ([Review](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)) ([HN](https://news.ycombinator.com/item?id=25647025))
 - [Great Ideas in Computer Architecture (Machine Structures) Course (2020)](https://cs61c.org/fa20/)
 - [A Simple and Efficient Real Time Application Powered by Materialize’s TAIL Command (2021)](https://materialize.com/a-simple-and-efficient-real-time-application-powered-by-materializes-tail-command/)
+- [Behaviors to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/) ([HN](https://news.ycombinator.com/item?id=26002543))

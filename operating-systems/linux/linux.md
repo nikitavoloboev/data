@@ -21,6 +21,8 @@
 - [Glacies](https://eltan.in.net/blog/2021/01/13/0/) - Linux distribution using Eltanin userspace.
 - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lightweight Linux distribution that transforms a small computer into a full blown game console. ([Web](http://www.lakka.tv/))
 - [LibreELEC](https://github.com/LibreELEC/LibreELEC.tv) - Linux distribution for the award-winning Kodi software on popular mediacentre hardware. ([Web](https://libreelec.tv/))
+- [GoboLinux](https://www.gobolinux.org/) - Alternative Linux distribution which redefines the entire filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=26002251))
+- [Garuda Linux](https://garudalinux.org/) ([HN](https://news.ycombinator.com/item?id=26001738))
 
 ## WM
 

@@ -77,4 +77,4 @@
 - [Dydra](https://github.com/msyksphinz-self/dydra) - Instruction set emulator written in Rust, now supports RISC-V as guest ISA, x86-64 as host ISA.
 - [RSD](https://github.com/rsd-devel/rsd) - RISC-V Out-of-Order Superscalar Processor. ([HN](https://news.ycombinator.com/item?id=25644678))
 - [v8-riscv](https://github.com/v8-riscv/v8) - Port of JavaScript V8 engine to RISC-V. ([HN](https://news.ycombinator.com/item?id=25663403))
-- [RISC-V isn't as interesting as you think (2021)](https://sporks.space/2021/02/01/risc-v-isnt-as-interesting-as-you-think/) ([Lobsters](https://lobste.rs/s/wzdymn/risc_v_isn_t_as_interesting_as_you_think))
+- [RISC-V isn't as interesting as you think (2021)](https://sporks.space/2021/02/01/risc-v-isnt-as-interesting-as-you-think/) ([Lobsters](https://lobste.rs/s/wzdymn/risc_v_isn_t_as_interesting_as_you_think)) ([HN](https://news.ycombinator.com/item?id=26001972))

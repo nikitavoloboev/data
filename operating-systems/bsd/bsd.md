@@ -48,3 +48,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD Foundation](https://freebsdfoundation.org/)
 - [Run GitHub CI in FreeBSD](https://github.com/vmactions/freebsd-vm)
 - [OpenBSD relayd](https://bsd.plumbing/) - Secure and open source web engine.
+- [Refactoring the FreeBSD Kernel with Checked C](https://cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf) ([HN](https://news.ycombinator.com/item?id=25989115))

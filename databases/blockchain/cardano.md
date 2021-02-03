@@ -1,5 +1,9 @@
 # [Cardano](https://cardano.org/)
 
+## Notes
+
+- [Cardano appears to be a trap for moderately smart people who don’t have time to read cryptocurrency whitepapers all day. Staking is nothing new, smart contracts are nothing new.](https://news.ycombinator.com/item?id=26005048)
+
 ## Links
 
 - [Charles Hoskinson | A Year in Review for Cardano in 2018](https://www.youtube.com/watch?v=EJQKSTcL5pI)
