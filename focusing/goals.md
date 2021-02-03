@@ -50,6 +50,6 @@ Be inspired & improve myself. Reach out to people I admire.
 
 Create [amazing things](../ideas/ideas.md) for a [better future](../future/future.md).
 
-Focus on solving real global problems like reversing climate change ([electrically powered everything](https://blog.jessfraz.com/post/battery-day/), fully renewable energy) & [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed).
+Focus on solving real global problems like reversing climate change ([electrically powered everything](https://blog.jessfraz.com/post/battery-day/), fully renewable energy), [saving animals](https://www.reddit.com/r/worldnews/comments/iwujp5/humans_wiped_out_twothirds_of_the_worlds_wildlife/) (animal rights same as humans, can't be eaten, can't be harmed) and [overthrowing oppressive regimes](../travel/visited/russia.md).
 
-Earth is for everyone, not just humans. Be goal & [value](../business/startups/values.md) driven.
+Earth is for everyone, not just humans. Be kind. Be goal & [value](../business/startups/values.md) driven.
