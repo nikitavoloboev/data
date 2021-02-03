@@ -1,6 +1,6 @@
 # Decision making
 
-Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles) as a framework of making better decisions.
+Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles) as a framework for making better decisions.
 
 ## Links
 
