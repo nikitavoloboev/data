@@ -130,7 +130,7 @@
 - [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl) - Adaptive 1d numerical Gauss–Kronrod integration in Julia.
 - [ClearStacktrace](https://github.com/jkrumbiegel/ClearStacktrace.jl) - Visually clarified stack traces for Julia.
 - [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers.
-- [Weave](https://github.com/JunoLab/Weave.jl) - Scientific report generator/literate programming tool for Julia.
+- [Weave](https://github.com/JunoLab/Weave.jl) - Scientific report generator/literate programming tool for Julia. ([Docs](https://weavejl.mpastell.com/stable/)) ([HN](https://news.ycombinator.com/item?id=26025265))
 - [Latexify.jl](https://github.com/korsbo/Latexify.jl) - Convert julia objects to LaTeX equations, arrays or other environments.
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) - Julia bindings to the FFTW library for fast Fourier transforms.
 - [InteractiveViz.jl](https://github.com/org-arl/InteractiveViz.jl) - Interactive visualization tools for Julia.

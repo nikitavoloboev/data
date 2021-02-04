@@ -39,7 +39,7 @@
 - [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis.
 - [Rust in 2022 (2018)](https://www.ncameron.org/blog/rust-in-2022/)
 - [Rust 2019: Think Bigger (2018)](http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html)
-- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Web](https://rust-analyzer.github.io/))
+- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Web](https://rust-analyzer.github.io/)) ([Architecture](https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md))
 - [Rust at speed — building a fast concurrent database (2018)](https://www.youtube.com/watch?v=s19G6n0UjsM&t=0s)
 - [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
 - [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [Code](https://github.com/integer32llc/rust-playground). ([HN](https://news.ycombinator.com/item?id=23779659))
