@@ -36,3 +36,4 @@
 - [elan](https://github.com/Kha/elan) - Lean version manager.
 - [Lean Community](https://leanprover-community.github.io/)
 - [Simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer) ([HN](https://news.ycombinator.com/item?id=25987949))
+- [Ground Zero](https://github.com/groupoid/lean) - Provides computable HITs, variation of Cubical Type Theory using them, and some other math.

@@ -187,3 +187,4 @@
 - [Supporting opt-in nested mutations in GraphQL (2021)](https://blog.logrocket.com/supporting-opt-in-nested-mutations-in-graphql/)
 - [FilamentQL](https://github.com/oslabs-beta/FilamentQL) - GraphQL query and caching solution.
 - [Using GraphQL for High-Performing Mobile Applications (2021)](https://shopify.engineering/using-graphql-for-high-performing-mobile-applications)
+- [GraphQL Portal Gateway](https://github.com/GraphQL-Portal/graphql-portal) - Converge all your data sources into One Graph with a configurable, distributed and open source GraphQL Gateway.

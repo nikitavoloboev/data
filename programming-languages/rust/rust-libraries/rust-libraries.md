@@ -709,6 +709,7 @@
 - [dtoa](https://github.com/dtolnay/dtoa) - Fast functions for printing floating-point primitives to an io::Write.
 - [Symphonia](https://github.com/pdeljanov/Symphonia) - Rust audio decoding and media demuxing library supporting OGG, FLAC, MP3, and WAV.
 - [treediff-rs](httops://github.com/Byron/treediff-rs) - Library to compare arbitrary structured data of the same type, efficiently.
+- [replace_with](https://github.com/alecmocatta/replace_with) - Temporarily take ownership of a value at a mutable location, and replace it with a new value based on the old one.
 
 ## Cargo Plugins
 

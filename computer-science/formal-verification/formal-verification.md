@@ -52,3 +52,4 @@
 - [Dafny](https://github.com/dafny-lang/dafny) - Verification-aware programming language. ([Docs](https://dafny-lang.github.io/dafny/))
 - [Formal Methods Research Group - University of Glasgow](http://www.dcs.gla.ac.uk/research/formalmethods/)
 - [Formal Methods: An Appetizer (2019)](https://www.springer.com/gp/book/9783030051556)
+- [Software Verification and Analysis Using Z3 (2021)](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
