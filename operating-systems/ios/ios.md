@@ -287,3 +287,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [xnuspy](https://github.com/jsherman212/xnuspy) - iOS kernel function hooking framework for checkra1n'able devices.
 - [libimobiledevice](https://libimobiledevice.org/) - Cross-platform FOSS library written in C to communicate with iOS devices natively. ([GitHub](https://github.com/libimobiledevice))
 - [usbmuxd](https://github.com/libimobiledevice/usbmuxd) - Socket daemon to multiplex connections from and to iOS devices.
+- [Emerge](https://www.emergetools.com/) - Monitor and reduce iOS app size. ([HN](https://news.ycombinator.com/item?id=26014180))

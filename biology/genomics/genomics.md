@@ -49,3 +49,4 @@
 - [GenePattern Notebook](https://github.com/genepattern/genepattern-notebook) - Platform for integrating genomic analysis with Jupyter Notebooks.
 - [SCDE](https://github.com/hms-dbmi/scde) - R package for analyzing single-cell RNA-seq data.
 - [Human Genome Idiogram Vector Art Library](https://github.com/RCollins13/HumanIdiogramLibrary) - Contains image files for each of the 24 primary human chromosomes, as well as one for the entire genome lined up.
+- [RNA Memory Hypothesis (2021)](https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/) ([HN](https://news.ycombinator.com/item?id=26013217))

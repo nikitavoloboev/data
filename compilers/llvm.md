@@ -5,7 +5,7 @@
 - [Vellvm](https://www.cis.upenn.edu/~stevez/vellvm/) - Verifying the LLVM.
 - [Vellvm: Verifying the LLVM - Steve Zdancewic (2018)](https://www.youtube.com/watch?v=q6gSC3OxB_8) - Great intro to LLVM.
 - [Code Generation with llvm-hs by Stephen Diehl (2018)](https://www.youtube.com/watch?v=wn-xW3g8jXY)
-- [Souper](https://github.com/google/souper) - Superoptimizer for LLVM IR.
+- [Souper](https://github.com/google/souper) - Superoptimizer for LLVM IR. ([HN](https://news.ycombinator.com/item?id=26020879))
 - [Mull](https://github.com/mull-project/mull) - Mutation testing system built on top of LLVM.
 - [LLVM Tutorial: Table of Contents](https://llvm.org/docs/tutorial/)
 - [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)

@@ -100,3 +100,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Night.fm](https://night.fm/) - Cyberpunk-inspired online radio station. ([HN](https://news.ycombinator.com/item?id=25791618))
 - [Uppbeat](https://uppbeat.io/) - Free Music For YouTube Videos & Creators.
 - [Funkwhale](https://funkwhale.audio/en_US/) - Community-driven project that lets you listen and share music and audio within a decentralized, open network.
+- [Audiak](https://www.audiak.com/) - Free Music for Your Videos. ([HN](https://news.ycombinator.com/item?id=26022635))

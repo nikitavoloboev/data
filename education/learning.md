@@ -96,3 +96,4 @@
 - [On Deck](https://www.beondeck.com/) - Where top talent comes to accelerate their ideas and careers, surrounded by a world-class community.
 - [MIT Handbook of Collective Intelligence](http://scripts.mit.edu/~cci/HCI/index.php?title=Main_Page#What_is_collective_intelligence.3F)
 - [YTT Tech](https://ytt-tech.com/) - Curated database of instructional YouTube Videos.
+- [Howtopedia](http://en.howtopedia.org/wiki/Main_Page) - Collaborative platform for practical knowledge and simple technologies.

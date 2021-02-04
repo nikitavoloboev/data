@@ -22,6 +22,7 @@
 - [Gameroasters](https://www.gameroasters.com/) - Bring cross-platform competitive gaming experiences to the masses.
 - [Darewise](https://www.darewise.com/) ([GitHub](https://github.com/Darewise))
 - [Ludomotion](https://www.ludomotion.com/) - Amsterdam based, indie game studio.
+- [Team Cherry](https://teamcherry.com.au/)
 
 ## Notes
 

@@ -208,3 +208,4 @@
 - [Planet PostgreSQL](https://planet.postgresql.org/) - Aggregator for Postgres blog posts from across the web.
 - [pllua](https://github.com/RhodiumToad/pllua-ng) - Embeds Lua into PostgreSQL as a procedural language module.
 - [An unexpected find that freed 20GB of unused index space in PostgreSQL (2021)](https://hakibenita.com/postgresql-unused-index-size) ([HN](https://news.ycombinator.com/item?id=25988871))
+- [Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses (2021)](https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/) ([HN](https://news.ycombinator.com/item?id=26024719))

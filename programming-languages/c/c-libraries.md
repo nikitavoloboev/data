@@ -62,3 +62,4 @@
 - [libusual](https://github.com/libusual/libusual) - Modern C Environment. ([Web](https://libusual.github.io/))
 - [bsdiff/bspatch](https://github.com/mendsley/bsdiff) - Libraries for building and applying patches to binary files.
 - [libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - C library that may be linked into a C/C++ program to produce symbolic backtraces.
+- [Datatype99](https://github.com/Hirrolot/datatype99) - C99 with sum types. ([HN](https://news.ycombinator.com/item?id=26024482))

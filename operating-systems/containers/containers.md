@@ -95,3 +95,4 @@
 - [SkiffOS](https://github.com/skiffos/SkiffOS) - Lightweight & robust cross-compiled Linux distribution optimized for hosting containers.
 - [contained.af](https://contained.af/) - Game for learning about containers, capabilities, and syscalls. ([Code](https://github.com/genuinetools/contained.af))
 - [krunvm](https://github.com/slp/krunvm) - Manage lightweight VMs created from OCI images.
+- [Killing Containers at Scale (2021)](https://blog.repl.it/killing-containers-at-scale) ([HN](https://news.ycombinator.com/item?id=26007428))
