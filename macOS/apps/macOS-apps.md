@@ -133,3 +133,4 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) - Premium software sorted by category.
 - [Releasecast](https://github.com/superhighfives/releasecast) - Tool to help you get from app to release.
 - [Use Mac APIs and build Mac apps with Go (2021)](https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6)
+- [The Best Mac Duplicate Finders (2021)](https://thesweetbits.com/best-duplicate-file-finder-remover-mac/)

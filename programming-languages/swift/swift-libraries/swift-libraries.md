@@ -159,6 +159,7 @@
 - [ScheduledNotificationsViewController](https://github.com/nicephoton/ScheduledNotificationsViewController) - Shows you all of your pending local notifications in one place, with all the information you need.
 - [Epoxy](https://github.com/airbnb/epoxy-ios) - Suite of declarative UI APIs for building UIKit applications in Swift.
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
+- [KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - Most fully customization calendar and timeline library.
 
 ## macOS
 

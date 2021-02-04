@@ -52,3 +52,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [Learning all VSCode shortcuts evolved my developing habits (2020)](https://tkainrad.dev/posts/learning-all-vscode-shortcuts-evolved-my-developing-habits/)
 - [VSCode Dev Containers](https://github.com/microsoft/vscode-dev-containers) - VS Code Remote / GitHub Codespaces Container Definitions.
 - [VS Code Day Event](https://code.visualstudio.com/vscode-day) ([2021 Talks](https://www.youtube.com/playlist?list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq))
+- [VS Code JavaScript snippets](https://github.com/xabikos/vscode-javascript)
