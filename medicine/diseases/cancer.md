@@ -19,3 +19,4 @@
 - [Chemotherapy with light; only one injection required (2021)](https://www.eurekalert.org/pub_releases/2021-01/nrco-cwl011121.php) ([HN](https://news.ycombinator.com/item?id=25881602))
 - [JEFworks Lab](https://jef.works/) - Work on computational software and statistical approaches to address questions in developmental and cancer biology.
 - [How a Cancer Drug Carrier's Structure Can Help Selectively Target Cancer Cells (2021)](https://www.tus.ac.jp/en/mediarelations/archive/20210126_1212.html) ([HN](https://news.ycombinator.com/item?id=25966275))
+- [Notes on My Chemotherapy (2021)](https://www.charlieharrington.com/chemotherapy) ([HN](https://news.ycombinator.com/item?id=26041001))

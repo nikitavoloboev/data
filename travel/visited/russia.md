@@ -52,3 +52,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Twelve reasons why Russia sucks (2018)](https://medium.com/@meohoh/twelve-reasons-why-russia-sucks-9ceb0feddcd6)
 - [Сплотимся во вторник. Дмитрий Быков (2021)](https://www.youtube.com/watch?v=KmVPwc787s0)
 - [Путин посадил Навального. Что дальше? (2021)](https://www.youtube.com/watch?v=9WXhojrkGOI)
+- [Алексей Навальный — главный оппозиционный политик России (2021)](https://meduza.io/feature/2021/02/05/aleksey-navalnyy-glavnyy-oppozitsionnyy-politik-rossii-i-glavnyy-politzaklyuchennyy-posmotrite-kak-on-k-etomu-shel-fotografii)

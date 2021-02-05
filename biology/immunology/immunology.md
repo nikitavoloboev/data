@@ -15,3 +15,4 @@
 - [How the Coronavirus Hacks the Immune System (2020)](https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system) ([HN](https://news.ycombinator.com/item?id=24969667))
 - [John Ioannidis research](https://profiles.stanford.edu/john-ioannidis) - Professor of medicine and epidemiology.
 - [Our amazing immune system (2020)](https://berthub.eu/articles/posts/immune-system/) ([HN](https://news.ycombinator.com/item?id=25168744))
+- [Making Vaccine (2021)](https://www.lesswrong.com/posts/niQ3heWwF6SydhS7R/making-vaccine) ([HN](https://news.ycombinator.com/item?id=26022750))

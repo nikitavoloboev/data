@@ -31,3 +31,4 @@
 - [Reconnecting WebSocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js).
 - [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for python.
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python.
+- [Implementer's Guide to WebSockets](https://cookie.engineer/weblog/articles/implementers-guide-to-websockets.html)

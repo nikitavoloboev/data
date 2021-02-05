@@ -22,3 +22,4 @@
 - [Ask HN: Relocating to London After Brexit (2020)](https://news.ycombinator.com/item?id=25550782)
 - [Brexit Deal Visualization & Exploration tool](https://brexit.bald.archi/#infobox)
 - [Brexit Reality (2021)](https://twitter.com/rdanielkelemen/status/1348964732104007680)
+- [Weird things about living in UK (2021)](https://twitter.com/jesslynnrose/status/1357329669981413376)

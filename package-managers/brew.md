@@ -29,3 +29,4 @@
 - [Homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - Easy, convenient way to automatically update Homebrew.
 - [Using Homebrew on Apple Silicon M1 (MacOS Big Sur)](https://github.com/pforret/m1_homebrew)
 - [Brewlet](https://github.com/zkokaja/Brewlet) - Missing menulet for brew.sh: keeping your packages up-to-date, and your system secure.
+- [Homebrew 3.0 (2021)](https://brew.sh/2021/02/05/homebrew-3.0.0/) ([HN](https://news.ycombinator.com/item?id=26035787))

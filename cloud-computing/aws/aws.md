@@ -149,3 +149,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Pricing Calculator](https://calculator.aws/#/) - Estimate the cost for your architecture solution.
 - [AWS Certified Cloud Practitioner Essentials - E-Learning Notes](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes)
 - [Alternatives to AWS](https://www.curabase.com/org/curabase/alternatives-to-aws)
+- [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)

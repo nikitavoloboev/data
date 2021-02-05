@@ -35,3 +35,4 @@
 - [Static to Animated](https://gazit.me/writing/static-to-animated/) - Nice example of slides coupled with transcript.
 - [DeckDeckGo](https://deckdeckgo.com/) - Open source web editor for presentations. ([Code](https://github.com/deckgo/deckdeckgo))
 - [PRESENTA Lib](https://github.com/presenta-software/presenta-lib) - JavaScript library that generates web presentations from config objects. ([Docs](https://lib.presenta.cc/guide/))
+- [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years) ([HN](https://news.ycombinator.com/item?id=26033689))
