@@ -606,6 +606,7 @@
 - [SwiftGestalt](https://github.com/swift-gestalt/SwiftGestalt) - Native Swift (Metadata) Runtime Introspection Libraries.
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout.
 - [SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
+- [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Swift Geometry Engine.
 
 ## Other (not lib)
 

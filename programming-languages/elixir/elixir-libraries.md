@@ -40,6 +40,7 @@
 - [Elixir RakNet](https://github.com/X-Plane/elixir-raknet) - Elixir implementation of the RakNet/RakLib networking communication protocol.
 - [CI](https://github.com/sasa1977/ci) - CI/CD toolkit as an Elixir library.
 - [Waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+- [Oban](https://github.com/sorentwo/oban) - Robust job processing in Elixir, backed by modern PostgreSQL. ([Web](https://getoban.pro/))
 
 ## Links
 

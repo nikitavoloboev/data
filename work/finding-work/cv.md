@@ -89,3 +89,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [The Tech Resume Inside Out](https://thetechresume.com/) - Practical guide written by the people who do the resume screening: engineering managers and technical recruiters working at tech companies. ([HN](https://news.ycombinator.com/item?id=24777640))
 - [Academic Template for Hugo](https://github.com/wowchemy/starter-academic) - Create online resume and showcase your academic publications.
 - [read.cv](https://read.cv/) - CV. Mindful professional profiles. ([HN](https://news.ycombinator.com/item?id=25634192))
+- [What Google recruiters look for in a technical resume (2021)](https://leetresumes.com/blog/what-google-recruiters-look-for-in-a-technical-resume) ([HN](https://news.ycombinator.com/item?id=26030737))

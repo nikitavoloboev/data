@@ -62,3 +62,4 @@
 - [Scala 3 - Crossing the finish line (2020)](https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html) ([Reddit](https://www.reddit.com/r/scala/comments/ke9p82/scala_3_crossing_the_finish_line/gg2woqv/))
 - [scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala. ([Docs](https://scalameta.org/scalafmt/docs/installation.html))
 - [ScalaJobs.dev](https://scalajobs.dev/) - Scala Developer Jobs.
+- [Introduction to Metals with Scala 3 (2021)](https://medium.com/virtuslab/introduction-to-metals-with-scala-3-79ebf3120a95) ([HN](https://news.ycombinator.com/item?id=26012593))

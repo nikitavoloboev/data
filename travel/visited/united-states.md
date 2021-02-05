@@ -34,3 +34,4 @@
 - [What would be the economic effect of cancelling all student loans in the US? (2021)](https://www.reddit.com/r/AskEconomics/comments/kwqu5c/what_would_be_the_economic_effect_of_cancelling/)
 - [Jonathan Haidt: What makes someone a Republican or a Democrat? | Andrew Yang (2021)](https://www.youtube.com/watch?v=gjufYwIbITw)
 - [The White House](https://www.whitehouse.gov/) ([Built with Wordpress](https://ma.tt/2021/01/new-whitehouse-gov/))
+- [Говорим с американским адвокатом о том, как правильно переехать в США (2020)](https://www.youtube.com/watch?v=Ke8I541K2QY)

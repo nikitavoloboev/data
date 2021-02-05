@@ -74,3 +74,4 @@
 - [kerl](https://github.com/kerl/kerl) - Easy building and installing of Erlang/OTP instances.
 - [Erlang Dead Code Cleaner](https://github.com/AdRoll/rebar3_hank) ([Article](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html))
 - [Poolboy](https://github.com/devinus/poolboy) - Hunky Erlang worker pool factory.
+- [Gproc](https://github.com/uwiger/gproc) - Extended process registry for Erlang.

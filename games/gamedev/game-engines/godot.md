@@ -21,3 +21,4 @@
 - [Godot demo projects](https://github.com/godotengine/godot-demo-projects)
 - [godot-go](https://github.com/godot-go/godot-go) - Go bindings for Godot's GDNative and NativeScript APIs.
 - [Godot Improvement Proposals](https://github.com/godotengine/godot-proposals)
+- [Godot Shaders](https://godotshaders.com/) - View and Share Shaders for Godot. ([HN](https://news.ycombinator.com/item?id=26025742))
