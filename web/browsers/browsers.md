@@ -102,3 +102,4 @@
 - [Screenjar](https://screenjar.com/) - Make it super easy for customers to send you videos of their screen.
 - [Microsoft Edge Explainers](https://github.com/MicrosoftEdge/MSEdgeExplainers)
 - [Zap](https://github.com/issmirnov/zap) - Powerful tool that allows you to define universal web shortcuts in a simple config file.
+- [devtools-ds](https://github.com/intuit/devtools-ds) - Components and tools for building browser devtools extensions.
