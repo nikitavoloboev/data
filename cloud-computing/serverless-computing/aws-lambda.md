@@ -53,3 +53,4 @@
 - [lambda_decorators](https://github.com/dschep/lambda-decorators) - Collection of useful decorators for making AWS Lambda handlers.
 - [Optimizing Lambda functions packaged as container images (2021)](https://aws.amazon.com/blogs/compute/optimizing-lambda-functions-packaged-as-container-images/)
 - [AWS Lambda Power tools (Python)](https://github.com/awslabs/aws-lambda-powertools-python)
+- [Rust Runtime for AWS Lambda](https://github.com/lamedh-dev/aws-lambda-rust-runtime)
