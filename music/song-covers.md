@@ -9,3 +9,4 @@
 - [Ultraviolence - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=Lxg58bMfgDQ)
 - [Blue Jeans - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=ZOjw1y25h-U)
 - [Born to Die - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=uy53wVs0u6U)
+- [Serial Killer - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=tNUzrI9iEZM)

@@ -22,3 +22,4 @@
 - [Rebuilding the most popular spellchecker (2021)](https://zverok.github.io/blog/2021-01-05-spellchecker-1.html)
 - [Who Invented the Alphabet? (2021)](https://www.smithsonianmag.com/history/inventing-alphabet-180976520/) ([HN](https://news.ycombinator.com/item?id=25735348))
 - [How to Teach Yourself a Foreign Language](https://github.com/SAJForbes/HowtoTeachYourselfaForeignLanguage/blob/master/How%20to%20Teach%20Yourself%20a%20Foreign%20Language.pdf)
+- [LibreTranslate](https://libretranslate.com/) - Free and Open Source Machine Translation API. ([Code](https://github.com/uav4geo/LibreTranslate)) ([HN](https://news.ycombinator.com/item?id=26048800))
