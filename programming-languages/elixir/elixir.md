@@ -79,3 +79,4 @@
 - [Building Terminal Apps with Elixir (2019)](https://ndreynolds.com/posts/2019-01-27-terminal-apps-with-elixir.html)
 - [Towards Maintainable Elixir: The Development Process (2021)](https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109)
 - [ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
+- [Learning Elixir: It’s All Reduce (2021)](https://redrapids.medium.com/learning-elixir-its-all-reduce-204d05f52ee7)

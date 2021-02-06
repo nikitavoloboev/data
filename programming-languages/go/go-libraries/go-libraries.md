@@ -101,6 +101,7 @@
 - [gorilla/handlers](https://github.com/gorilla/handlers) - Collection of useful middleware for Go HTTP services & web applications.
 - [gorilla/schema](https://github.com/gorilla/schema) - Converts structs to and from form values.
 - [Iris](https://github.com/kataras/iris) - Fastest HTTP/2 Go Web Framework. ([Web](https://www.iris-go.com/))
+- [Muxie](https://github.com/kataras/muxie) - Modern, fast and light HTTP multiplexer for Go. Fully compatible with the http.Handler interface.
 - [GoPacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go.
 - [goim](https://github.com/Terry-Mao/goim) - Web server in Go.
 - [Limiter](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.

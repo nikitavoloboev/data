@@ -48,6 +48,7 @@
 - [Tracking the temporal dynamics of cultural perceptual diversity in visual information processing (2014)](http://theses.gla.ac.uk/5055/2/2014LaoPhD.pdf)
 - [Is neuroscience the key to protecting AI from adversarial attacks? (2020)](https://bdtechtalks.com/2020/12/07/vonenet-neurscience-inspired-deep-learning/)
 - [What is a current debate in neuroscience? (2021)](https://www.reddit.com/r/neuroscience/comments/l2eiro/what_is_a_current_debate_in_neuroscience/)
+- [NeuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 
 ## Images
 

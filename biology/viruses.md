@@ -64,3 +64,4 @@
 - [Evidence SARS-CoV-2 Emerged From a Biological Laboratory in Wuhan, China (2020)](https://project-evidence.github.io/)
 - [mRNA Vaccines: What Happens (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/01/21/mrna-vaccines-what-happens)
 - [Covid-19: The Great Reset (2020)](http://reparti.free.fr/schwab2020.pdf)
+- [How Gamaleya’s Sputnik V Vaccine Works (2021)](https://www.nytimes.com/interactive/2021/health/gamaleya-covid-19-vaccine.html)

@@ -256,3 +256,5 @@
 - [A Tour of Go in Haskell](https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html) - How to write the concurrency section of A Tour of Go in Haskell. ([Code](https://github.com/syocy/a-tour-of-go-in-haskell))
 - [Building DSLs in Haskell](https://github.com/stoeffel/haskell-simple-dsl-examples) - Simple playground for DSLs in Haskell.
 - [Parsing With Haskell Parser Combinators](https://lettier.github.io/parsing-with-haskell-parser-combinators/) ([Code](https://github.com/lettier/parsing-with-haskell-parser-combinators))
+- [GHC 9.0 Reading Guide](https://takenobu-hs.github.io/downloads/haskell_ghc_reading_guide.pdf)
+- [Haskell for all: Folds are constructor substitution (2021)](https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html)

@@ -147,3 +147,4 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [Robinhood Learn](https://learn.robinhood.com/library/) - Investing basics—in plain English.
 - [Why Robinhood disabled buys but not sells (2021)](https://stu2b50.dev/posts/why-robinhood-d3580b) ([HN](https://news.ycombinator.com/item?id=25979673))
 - [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
+- [People Are Worried About Payment for Order Flow (2021)](https://www.bloomberg.com/opinion/articles/2021-02-05/robinhood-gamestop-saga-pressures-payment-for-order-flow)

@@ -216,6 +216,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Lobsters: What books are you reading? (2021)](https://lobste.rs/s/yuwwrf/what_books_are_you_reading)
 - [Best Books I read in 2020](https://eriktorenberg.substack.com/p/best-books-i-read-in-2020)
 - [The Greatest Books of All Time](https://thegreatestbooks.org/) ([HN](https://news.ycombinator.com/item?id=25786569))
+- [Ask HN: What are some books where the reader learns by building projects? (2021)](https://news.ycombinator.com/item?id=26039706)
 
 ## Notes
 

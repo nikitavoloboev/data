@@ -28,3 +28,4 @@
 - [wireguard-manager](https://github.com/edomora97/wireguard-manager) - Build and manage a network of servers that provides a distributed VPN using wireguard.
 - [WireGuard: great protocol, but skip the Mac app (2020)](https://rachelbythebay.com/w/2020/12/24/wg/) ([Lobsters](https://lobste.rs/s/ns7pdp/wireguard_great_protocol_skip_mac_app)) ([Response](https://lists.zx2c4.com/pipermail/wireguard/2020-December/006226.html)) ([HN](https://news.ycombinator.com/item?id=25533263)) ([HN 2](https://news.ycombinator.com/item?id=25759477))
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - Basic, self-contained management service for WireGuard with a self-serve web UI.
+- [My Automagic NixOS Wireguard Setup (2021)](https://christine.website/blog/my-wireguard-setup-2021-02-06)
