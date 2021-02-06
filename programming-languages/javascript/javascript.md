@@ -262,3 +262,4 @@
 - [MDN JS Code Examples](https://github.com/mdn/js-examples)
 - [Understanding Hoisting in JavaScript (2021)](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
 - [JavaScript, the Good Parts Notes](https://github.com/ahmaazouzi/js_good_parts)
+- [A Model for Reasoning About JavaScript Promises (2017)](http://www.franktip.org/pubs/oopsla2017promises.pdf)
