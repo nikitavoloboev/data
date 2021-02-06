@@ -185,7 +185,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [What tools do you use to maintain a personal log/journal? (2020)](https://lobste.rs/s/peevtw/what_tools_do_you_use_maintain_personal)
 - [Managing my personal knowledge base (2020)](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/) ([HN](https://news.ycombinator.com/item?id=22000791))
 - [my](https://github.com/karlicoss/my) - Python interface into my life.
-- [What data on myself I collect and why? (2020)](https://beepb00p.xyz/my-data.html)
+- [What data on myself I collect and why? (2020)](https://beepb00p.xyz/my-data.html) ([HN](https://news.ycombinator.com/item?id=26045797))
 - [Zettelkästen? (2019)](https://clerestory.netlify.com/zk/)
 - [Nototo](https://www.nototo.app/) - All your notes. On one map. ([HN](https://news.ycombinator.com/item?id=22087780))
 - [BookStack](https://www.bookstackapp.com/) - Simple, self-hosted, easy-to-use platform for organising and storing information.

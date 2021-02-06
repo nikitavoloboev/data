@@ -206,6 +206,7 @@
 - [ConfParser](https://github.com/JuliaIO/ConfParser.jl) - Julia package for parsing configuration files.
 - [TimerOutputs](https://github.com/KristofferC/TimerOutputs.jl) - Formatted output of timed sections in Julia.
 - [Actors.jl](https://github.com/JuliaActors/Actors.jl) - Concurrent computing in Julia with actors.
+- [DaemonMode](https://github.com/dmolina/DaemonMode.jl) - Client-Daemon workflow to run faster scripts in Julia.
 
 ## Links
 

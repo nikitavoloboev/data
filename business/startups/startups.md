@@ -258,6 +258,7 @@
 - [Linear: Building at the early stage. (2021)](https://medium.com/linear-app/building-at-the-early-stage-e79e696341db)
 - [My 2 Year Journey to $10K MRR (2021)](https://www.bannerbear.com/journey-to-10k-mrr/) ([HN](https://news.ycombinator.com/item?id=25929259))
 - [50 Questions to Find a Co-Founder and a Startup Idea](https://firstround.com/review/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
+- [The Relentless Jeff Bezos (2021)](https://stratechery.com/2021/the-relentless-jeff-bezos/) ([HN](https://news.ycombinator.com/item?id=26013953))
 
 ## Images
 

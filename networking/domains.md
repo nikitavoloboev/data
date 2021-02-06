@@ -15,3 +15,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [Ask HN: Which domain registrar do you recommend? (2020)](https://news.ycombinator.com/item?id=24513514)
 - [Product Names](https://twitter.com/ProductNames) - Available domains for product inspiration.
 - [Guidelines to help you avoid losing your domain](https://onlineornot.com/articles/guidelines-to-help-avoid-losing-your-domain)
+- [TLD List](https://tld-list.com/) - Compare Prices of All Top-Level Domains.
