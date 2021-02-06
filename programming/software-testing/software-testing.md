@@ -77,3 +77,4 @@
 - [Writing Environment-Agnostic Functional Acceptance Tests (2021)](https://www.jvt.me/posts/2021/01/18/agnostic-acceptance-tests/)
 - [Ruby Conf 12 - Boundaries by Gary Bernhardt](https://www.youtube.com/watch?v=yTkzNHF6rMs)
 - [Effective Property-Based Testing (2021)](https://blog.auxon.io/2021/02/01/effective-property-based-testing/) ([Lobsters](https://lobste.rs/s/2c3tnr/effective_property_based_testing)) ([HN](https://news.ycombinator.com/item?id=26017341))
+- [Mutation Driven Testing: When TDD Just Isn’t Good Enough (2021)](https://software.rajivprab.com/2021/02/04/mutation-driven-testing-when-tdd-just-isnt-good-enough/) ([HN](https://news.ycombinator.com/item?id=26024915))

@@ -327,3 +327,4 @@
 - [Patterns and Software: Essential Concepts and Terminology (2000)](https://www.bradapp.com/docs/patterns-intro.html)
 - [Microsoft Customer/Partner Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
 - [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/) ([HN](https://news.ycombinator.com/item?id=25939122))
+- [The Elements of Computing Systems, Second Edition (2021)](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) ([HN](https://news.ycombinator.com/item?id=26036790))

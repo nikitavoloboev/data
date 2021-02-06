@@ -338,3 +338,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Historical Dictionary of Science Fiction](https://sfdictionary.com/) ([HN](https://news.ycombinator.com/item?id=25934170))
 - [Old Book Illustrations](https://www.oldbookillustrations.com/)
 - [Shortform](https://www.shortform.com/) - World's Best Book Summaries.
+- [Book Marks Reviews](https://bookmarks.reviews/) - Book review aggregator.
+- [Literary Hub](https://lithub.com/) - Daily literary website highlighting the best in contemporary fiction, nonfiction, and criticism.
