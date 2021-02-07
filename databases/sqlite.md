@@ -47,3 +47,4 @@
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [Rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite. ([HN](https://news.ycombinator.com/item?id=25871605))
 - [SQLite CREATE TABLE Parser](https://github.com/marcobambini/sqlite-createtable-parser)
+- [sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database.
