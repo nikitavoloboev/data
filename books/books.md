@@ -341,3 +341,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Shortform](https://www.shortform.com/) - World's Best Book Summaries.
 - [Book Marks Reviews](https://bookmarks.reviews/) - Book review aggregator.
 - [Literary Hub](https://lithub.com/) - Daily literary website highlighting the best in contemporary fiction, nonfiction, and criticism.
+- [The new reading stack (2020)](https://macwright.com/2020/12/24/the-new-reading-stack.html) ([HN](https://news.ycombinator.com/item?id=26035740))

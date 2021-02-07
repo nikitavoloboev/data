@@ -41,7 +41,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Genode](https://genode.org/index) - Operating System Framework.
 - [Shrine](https://github.com/minexew/Shrine) - TempleOS distro for heretics.
 - [Subgraph OS](https://subgraph.com/) - Desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. ([Handbook](https://github.com/subgraph/sgos_handbook))
-- [Mezzano](https://github.com/froggey/Mezzano) - Operating system written in Common Lisp.
+- [Mezzano](https://github.com/froggey/Mezzano) - Operating system written in Common Lisp. ([HN](https://news.ycombinator.com/item?id=26051255))
 - [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
 - [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
 - [CuBitOS](https://github.com/docandrew/CuBit) - General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64.
@@ -95,7 +95,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 ## Links
 
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
-- [OS: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) ([HN](https://news.ycombinator.com/item?id=26051386))
 - [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems.
 - [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials)) ([Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes))
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.

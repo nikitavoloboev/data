@@ -25,8 +25,8 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 
 ## Links
 
-- [Meduza](https://meduza.io/) - Riga-based online newspaper and news aggregator in the Russian language.
 - [Russian News Twitter List](https://twitter.com/i/lists/1351120526220152839)
+- [Meduza](https://meduza.io/) - Riga-based online newspaper and news aggregator in the Russian language.
 - [English Russia](https://englishrussia.com/) - Daily selected things from Russia and ex USSR countries.
 - [The Village](https://www.the-village.ru/) - Новости, люди, места, события.
 - [Bumaga](https://paperpaper.ru/)
@@ -53,3 +53,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Сплотимся во вторник. Дмитрий Быков (2021)](https://www.youtube.com/watch?v=KmVPwc787s0)
 - [Путин посадил Навального. Что дальше? (2021)](https://www.youtube.com/watch?v=9WXhojrkGOI)
 - [Алексей Навальный — главный оппозиционный политик России (2021)](https://meduza.io/feature/2021/02/05/aleksey-navalnyy-glavnyy-oppozitsionnyy-politik-rossii-i-glavnyy-politzaklyuchennyy-posmotrite-kak-on-k-etomu-shel-fotografii)
+- [Как при Путине хорошее стало плохим (2021)](https://www.youtube.com/watch?v=kg5e3wt5p70)
