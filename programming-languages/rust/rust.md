@@ -406,3 +406,4 @@
 - [Rust Companies](https://github.com/omarabid/rust-companies) - Curated list of companies using Rust in production, organized by industry.
 - [rust-nix-templater](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build / dev files for Rust projects.
 - [How to Read Rust Functions (2021)](https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1)
+- [Async Rust: Futures, Tasks, Wakers; Oh My! (2021)](https://msarmi9.github.io/posts/async-rust/)
