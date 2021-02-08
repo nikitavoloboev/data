@@ -20,3 +20,4 @@
 - [WASM Synth](https://timdaub.github.io/wasm-synth/) - Synthesizer built from scratch in C++ and made available on the web through WebAssembly.
 - [NTS-1](https://www.korg.com/us/products/dj/nts_1/) - Programmable Synthesizer Kit. ([HN](https://news.ycombinator.com/item?id=25950502))
 - [Web Synth and Digial Audio Workstation](https://notes.ameo.design/) ([Code](https://github.com/Ameobea/web-synth))
+- [How to synthesise electronic noise into musical sound](https://twitter.com/BBCArchive/status/1358788928505933824)

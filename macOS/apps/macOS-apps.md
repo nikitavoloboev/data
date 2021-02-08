@@ -115,6 +115,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [FSMonitor](https://fsmonitor.com/) - macOS app that monitors all changes to the file system.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Application launcher for macOS. ([Assimilated Theme](https://github.com/benjaminwil/assimilated))
 - [Irradiated Software macOS apps](https://www.irradiatedsoftware.com/labs/)
+- [Freeze](https://freeze.app/) - Save your open windows and tabs for later.
 
 ## Links
 

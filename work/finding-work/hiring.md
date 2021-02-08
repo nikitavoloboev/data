@@ -21,6 +21,7 @@
 - [Ueno Careers](https://ueno.co/careers/)
 - [Apple Jobs](https://www.apple.com/jobs/us/)
 - [Transloadit](https://transloadit.com/jobs/)
+- [Apple Xcode Quality Engineer](https://twitter.com/bugKrusha/status/1358864506516959233)
 
 ## Questions to ask
 
