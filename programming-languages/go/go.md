@@ -429,3 +429,4 @@ Go promotes composition over inheritance.
 - [List of Go best practices](https://github.com/golovers/effective-go)
 - [Coming in Go 1.16: ReadDir and DirEntry (2021)](https://benhoyt.com/writings/go-readdir/)
 - [On Go 2 Generics (2021)](https://benburkert.com/posts/on-go2-generics/) ([Lobsters](https://lobste.rs/s/udqdru/on_go_2_generics))
+- [Practical Go](https://dave.cheney.net/practical-go) - Collection of real world advice for writing maintainable Go programs.
