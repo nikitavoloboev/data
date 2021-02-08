@@ -92,3 +92,4 @@
 - [Why SELECT \* is bad for SQL performance (2020)](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 - [Use The Index, Luke](https://use-the-index-luke.com/) - SQL indexing and tuning tutorial for developers.
 - [SQL and aggregated data: is there a better way?](https://github.com/zsvoboda/gooddata-jdbc/wiki/SQL-and-aggregated-data:-is-there-a-better-way%3F)
+- [Double-thinking in SQL (2009)](https://explainextended.com/2009/07/12/double-thinking-in-sql/)

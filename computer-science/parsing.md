@@ -45,3 +45,4 @@
 - [Lezer](https://lezer.codemirror.net/) - Incremental GLR parser intended for use in an editor or similar system, which needs to keep a representation of the program current during changes and in the face of syntax errors. ([GitHub](https://github.com/lezer-parser)) ([Code](https://github.com/lezer-parser/lezer))
 - [GraphRedex](https://github.com/TOPLLab/GraphRedex) - Open-source tool that empowers language designers to interactively explore their reduction graphs.
 - [Parsimmon](https://github.com/jneen/parsimmon) - Small library for writing big parsers made up of lots of little parsers.
+- [Inline caching: quickening (2021)](https://bernsteinbear.com/blog/inline-caching-quickening/)

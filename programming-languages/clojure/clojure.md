@@ -112,3 +112,4 @@
 - [Clojure Rust GraalVM](https://github.com/borkdude/clojure-rust-graalvm) - Example of Clojure program calling a Rust library, all combined into one executable using GraalVM.
 - [Minimum Viable Clojure Developer (2021)](https://www.reddit.com/r/Clojure/comments/l61ib4/minimum_viable_clojure_developer/)
 - [PurelyFunctional.tv](https://purelyfunctional.tv/) - Comprehensive Clojure Training Online.
+- [Run Clojure CGI scripts on cheap shared hosting with babashka (2020)](https://eccentric-j.com/blog/clojure-like-its-php.html)

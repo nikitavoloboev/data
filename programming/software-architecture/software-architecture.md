@@ -118,6 +118,6 @@
 - [Great Ideas in Computer Architecture (Machine Structures) Course (2020)](https://cs61c.org/fa20/)
 - [A Simple and Efficient Real Time Application Powered by Materialize’s TAIL Command (2021)](https://materialize.com/a-simple-and-efficient-real-time-application-powered-by-materializes-tail-command/)
 - [Behaviors to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/) ([HN](https://news.ycombinator.com/item?id=26002543))
-- [Architecture.md (2021)](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html) ([HN](https://news.ycombinator.com/item?id=26048784))
+- [Architecture.md (2021)](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html) ([HN](https://news.ycombinator.com/item?id=26048784)) ([Lobsters](https://lobste.rs/s/tcqizo/architecture_md))
 - [Architectural Decision Records](https://adr.github.io/) - Software design choice that addresses a functional or non-functional requirement that is architecturally significant. ([HN](https://news.ycombinator.com/item?id=26053498))
 - [How to Communicate Architecture (2021)](http://beza1e1.tuxen.de/communicate_architecture.html)
