@@ -49,4 +49,4 @@
 - [docker-cl-example](https://github.com/fukamachi/docker-cl-example/) - Example projects to run/develop Common Lisp web application on Docker container.
 - [CLOG](https://github.com/rabbibotton/clog) - Common Lisp Omnificent GUI.
 - [Lisper.ru](http://lisper.ru/) - Russian Common Lisp Community. ([Code](https://github.com/archimag/rulisp))
-- [State of the Common Lisp ecosystem, 2020](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/)
+- [State of the Common Lisp ecosystem, 2020](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) ([HN](https://news.ycombinator.com/item?id=26065511))

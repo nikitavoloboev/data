@@ -69,3 +69,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [chess-pipeline](https://github.com/charlesoblack/chess-pipeline) - Pulling games from the Lichess API into a PostgreSQL database for data analysis.
 - [chess-engine](https://github.com/adam-mcdaniel/chess-engine) - Pure Rust, dependency-free chess engine that doesn't require a runtime.
 - [Study Openings](http://www.studyopenings.com/) - Tool to help chess players memorize opening repertoires. ([Code](https://github.com/jven/studyopenings))
+- [Stopping Early Queen Attacks In Chess (2021)](https://www.youtube.com/watch?v=cY9zitJFglc)
