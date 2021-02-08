@@ -32,6 +32,7 @@
 - [We’ve made an incredible innovation in hiring: Pay someone to do the work they would be doing if they get the job. If they are able to do it, they get the job.](https://twitter.com/shl/status/1260196779905052678)
 - [Do pilot projects for hiring instead of traditional interview with questions](https://overcast.fm/+Y-HUXijTI).
 - [Your job post should be an expression of your culture and values. If you value transparency, your job post should be as transparent as possible.](https://twitter.com/davidvfurlong/status/1354088604826558465)
+- [Your first 10 hires set the stage for your company’s talent bar and culture. Spend a lot of time with them pre-hire. Get them to work with you for a day or even a week. You’re looking for diamonds in the rough. Known quantities are starting companies or joining sure things.](https://twitter.com/jaltma/status/1358497813076713474)
 
 ## Links
 
