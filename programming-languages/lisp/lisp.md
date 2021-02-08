@@ -114,3 +114,4 @@
 - [REPL as a Service (2021)](https://speechcode.com/blog/repl-as-service)
 - [LispE](https://github.com/naver/lispe) - Version of Lisp that is ultra-minimal but contains all the basic instructions of the language. ([HN](https://news.ycombinator.com/item?id=25940439))
 - [Why I still Lisp (2021)](https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=25978190))
+- [A Lisp REPL as my main shell](https://ambrevar.xyz/lisp-repl-shell/index.html) ([HN](https://news.ycombinator.com/item?id=26059023))

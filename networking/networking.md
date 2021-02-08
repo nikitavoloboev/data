@@ -195,3 +195,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [GoBGP](https://github.com/osrg/gobgp) - BGP implementation in Go. ([Web](https://osrg.github.io/gobgp/))
 - [DPDK](https://github.com/DPDK/dpdk) - Set of libraries and drivers for fast packet processing.
 - [Open Wireless Link](https://github.com/seemoo-lab/owl) - Open Apple Wireless Direct Link (AWDL) implementation written in C. ([Web](https://owlink.org/))
+- [Change your MAC address with a shell script](https://josh.works/shell-script-basics-change-mac-address) ([HN](https://news.ycombinator.com/item?id=26060152))

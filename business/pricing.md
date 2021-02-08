@@ -43,3 +43,4 @@
 - [The World of Pricing: Uber, Trulia, Etsy, Superhuman and More (2021)](https://www.nfx.com/post/the-hidden-world-of-pricing/)
 - [Pricing a SaaS product (2019)](https://www.bannerbear.com/blog/don-t-charge-a-month-for-your-product/) ([HN](https://news.ycombinator.com/item?id=25941412))
 - [Don't Offer a Free Plan](https://nofreeplan.com/) ([HN](https://news.ycombinator.com/item?id=26059517))
+- [Do Offer a Free Plan (2021)](https://www.chrisfrantz.com/how-to-kill-a-unicorn/) ([HN](https://news.ycombinator.com/item?id=26060038))
