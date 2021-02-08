@@ -38,3 +38,4 @@
 - [Simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer) ([HN](https://news.ycombinator.com/item?id=25987949))
 - [Ground Zero](https://github.com/groupoid/lean) - Provides computable HITs, variation of Cubical Type Theory using them, and some other math.
 - [Lean HOL](https://github.com/nyuichi/LeanHOL) - Tiny implementation of higher-order logic proof assistant in lean.
+- [Formal [Lean] Proof of the Independence of the Continuum Hypothesis (2021)](https://arxiv.org/abs/2102.02901)
