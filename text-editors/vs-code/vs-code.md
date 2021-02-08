@@ -54,3 +54,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VS Code Day Event](https://code.visualstudio.com/vscode-day) ([2021 Talks](https://www.youtube.com/playlist?list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq))
 - [VS Code JavaScript snippets](https://github.com/xabikos/vscode-javascript)
 - [VSCode Learn Docs](https://code.visualstudio.com/learn)
+- [VS Code can do that?](https://vscodecandothat.com/) - All the best things about Visual Studio Code that nobody ever bothered to tell you.

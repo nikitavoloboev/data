@@ -6,9 +6,9 @@ Below is a list of extensions I use.
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) - Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.
 - [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron) - Hierarchal note taking tool that grows as you do.
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [CodeStream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - Developer collaboration.
 
 ## Go
@@ -24,6 +24,7 @@ Below is a list of extensions I use.
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Performant, feature-rich language server for Python. ([Code](https://github.com/microsoft/pylance-release))
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Jupyter notebook support.
 
 ## Git
 
@@ -299,6 +300,7 @@ Below is a list of extensions I use.
 ## Flutter
 
 - [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) ([Code](https://github.com/Dart-Code/Flutter))
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) ([Code](https://github.com/Dart-Code/Dart-Code))
 
 ## Erlang
 
@@ -371,7 +373,6 @@ Below is a list of extensions I use.
 
 - [VS Code API](https://code.visualstudio.com/Docs/extensionAPI/vscode-api)
 - [Extensibility Reference](https://code.visualstudio.com/docs/extensionAPI/overview)
-- [VS Code can do that?](https://vscodecandothat.com/)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode)
 - [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
 - [vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager.

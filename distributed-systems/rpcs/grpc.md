@@ -39,3 +39,4 @@
 - [grpcbin](https://github.com/moul/grpcbin) - httpbin like for gRPC.
 - [gRPC UI](https://github.com/fullstorydev/grpcui) - Interactive web UI for gRPC, along the lines of postman.
 - [GripMock](https://github.com/tokopedia/gripmock) - Mock server for GRPC services.
+- [Kreya](https://kreya.app/) - gRPC GUI client. It makes calling gRPC APIs easy. ([Docs](https://kreya.app/docs/getting-started))

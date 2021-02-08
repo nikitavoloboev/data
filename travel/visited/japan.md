@@ -30,3 +30,4 @@
 - [Genki Study Resources](https://sethclydesdale.github.io/genki-study-resources/) - Exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese. ([Code](https://github.com/SethClydesdale/genki-study-resources))
 - [Tokyo.dev](https://www.tokyodev.com/) - Software Developer Jobs in Japan.
 - [Kyoto, Japan (2020)](https://www.arun.is/blog/kyoto/)
+- [1980's Japan](https://www.youtube.com/watch?v=C_qi8XVP8W0) ([HN](https://news.ycombinator.com/item?id=26060833))
