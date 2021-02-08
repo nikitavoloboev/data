@@ -13,7 +13,7 @@
 - [Akku.scm](https://github.com/weinholt/akku) - Language package manager for Scheme.
 - [Nanopass Compiler Library](https://github.com/nanopass/nanopass-framework-scheme) - Embedded DSL for writing compilers in Scheme.
 - [Irken Compiler](https://github.com/samrushing/irken-compiler) - Statically typed variant of Scheme. Or a lisp-like variant of ML.
-- [Gerbil Scheme](https://cons.io/) - Meta-dialect of Scheme with post-modern features. ([Lobsters](https://lobste.rs/s/c29wn2/gerbil_scheme)) ([HN](https://news.ycombinator.com/item?id=20585637))
+- [Gerbil Scheme](https://cons.io/) - Opinionated dialect of Scheme designed for Systems Programming, with a state of the art macro and module system on top of the Gambit runtime. ([Code](https://github.com/vyzo/gerbil)) ([Lobsters](https://lobste.rs/s/c29wn2/gerbil_scheme)) ([HN](https://news.ycombinator.com/item?id=20585637))
 - [pontiff](https://github.com/sylphbio/pontiff) - Haskell-style build system for chicken scheme.
 - [Fibers](https://github.com/wingo/fibers) - Facility that provides Go-like concurrency for Guile Scheme, in the tradition of Concurrent ML.
 - [Practical Chicken Scheme with Emacs: hello-world webserver (2017)](https://www.youtube.com/watch?v=eXB3I3S3vJc)

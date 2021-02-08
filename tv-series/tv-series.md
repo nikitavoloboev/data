@@ -15,3 +15,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Netflix shows that will make you think](https://nesslabs.com/netflix)
 - [FlixPatrol](https://flixpatrol.com/) - TOP 10 on Streaming in the World Today.
 - [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/) ([HN](https://news.ycombinator.com/item?id=25912241)) ([Code](https://github.com/ablwr/halt-and-catch-fire-syllabus))
+- [Next Season Of](https://next-season-of.com/) - Shows when the next season of your TV show premieres.
