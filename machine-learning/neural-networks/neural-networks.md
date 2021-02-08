@@ -206,3 +206,4 @@
 - [Make Your Own Neural Network Book](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608/) ([Code](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork))
 - [Representation Learning for Attributed Multiplex Heterogeneous Network (2019)](https://arxiv.org/abs/1905.01669) ([Code](https://github.com/THUDM/GATNE))
 - [Awesome VAEs](https://github.com/matthewvowels1/Awesome-VAEs) - Curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.
+- [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (2020)](https://arxiv.org/abs/2012.07436) ([Code](https://github.com/zhouhaoyi/Informer2020))

@@ -165,3 +165,4 @@
 - [Principles of Semiconductor Devices](https://ecee.colorado.edu/~bart/book/book/contents.htm)
 - [Resources to make a smart speaker](https://github.com/voice-engine/make-a-smart-speaker)
 - [SparkFun OpenLog](https://github.com/sparkfun/OpenLog) - Open Source Hardware Datalogger. ([Web](https://www.sparkfun.com/products/13712))
+- [Jiga](https://www.jiga3d.com/) - Order Parts Online in CNC Machining, 3D Printing and Sheet Metal. ([App](https://app.jiga3d.com/)) ([HN](https://news.ycombinator.com/item?id=26066276))

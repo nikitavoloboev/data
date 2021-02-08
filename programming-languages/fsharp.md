@@ -12,3 +12,4 @@
 - [WebSharper](https://github.com/dotnet-websharper/core) - F#-based web programming platform including a compiler from F# code to JavaScript.
 - [F# is gaining independence from .NET (2021)](https://onurgumus.github.io/2021/01/31/What-the-F.html) ([HN](https://news.ycombinator.com/item?id=25986316))
 - [Writing high performance F# code (2021)](https://bartoszsypytkowski.com/writing-high-performance-f-code/) ([HN](https://news.ycombinator.com/item?id=26012007))
+- [F# Weekly](https://sergeytihon.com/category/f-weekly/)

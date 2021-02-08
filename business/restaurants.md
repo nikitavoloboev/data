@@ -14,3 +14,4 @@
 - [The “menu engineers” who optimize restaurant revenue (2020)](https://thehustle.co/meet-the-menu-engineers-helping-restaurants-retool-during-the-pandemic/) ([HN](https://news.ycombinator.com/item?id=24322607))
 - [TastyIgniter](https://tastyigniter.com/) - Restaurant Online Ordering System.
 - [How to Develop a Restaurant Reservation App (2020)](https://steelkiwi.com/blog/how-to-develop-a-restaurant-reservation-app/)
+- [TastyIgniter](https://tastyigniter.com/) - Restaurant Online Ordering System. ([Code](https://github.com/tastyigniter/TastyIgniter))

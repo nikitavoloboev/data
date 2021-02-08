@@ -189,3 +189,4 @@
 - [Using GraphQL for High-Performing Mobile Applications (2021)](https://shopify.engineering/using-graphql-for-high-performing-mobile-applications)
 - [GraphQL Portal Gateway](https://github.com/GraphQL-Portal/graphql-portal) - Converge all your data sources into One Graph with a configurable, distributed and open source GraphQL Gateway.
 - [GraphQL-LD](https://github.com/rubensworks/GraphQL-LD.js) - Linked Data Querying with GraphQL.
+- [DGS (Domain Graph Service) Framework](https://netflix.github.io/dgs/) - GraphQL server framework for Spring Boot, developed by Netflix. ([Code](https://github.com/Netflix/dgs-framework))

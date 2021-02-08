@@ -35,6 +35,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegram Captcha Bot](https://github.com/mxssl/tg-captcha-bot) - Validates new users that enter supergroup. Validation works like a simple captcha. Bot written in Go.
 - [carbon.now.sh telegram chatbot](https://github.com/roziscoding/carbon-telegram-bot) - Telegram Chatbot that generates carbon.now.sh images from source code.
 - [webhook2telegram](https://github.com/muety/webhook2telegram) - Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
+- [Voicy](https://voicybot.com/) - Automatically converts all the audio messages to text when added to a group chat. ([Code](https://github.com/backmeupplz/voicy))
 
 ## Links
 
