@@ -111,3 +111,4 @@
 - [Technical Interviews at ReadMe (2021)](https://twitter.com/gkoberger/status/1349142084511436801) ([Thread its based off](https://news.ycombinator.com/item?id=24457170))
 - [Welder](https://www.getwelder.com/) - Record high-quality content remotely. ([HN](https://news.ycombinator.com/item?id=25869864))
 - [Exponent](https://www.tryexponent.com/) - Interview Prep for PM, Engineering, and More.
+- [How to Pass a Software Engineering Coding Interview (2021)](https://www.danhacks.com/software/software-engineering-coding-interview.html)

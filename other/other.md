@@ -441,3 +441,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Gnod](https://www.gnod.com/) - Global Network Of Discovery.
 - [Awesome-Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools. ([Code](https://github.com/LeCoupa/awesome-cheatsheets))
 - [Josh Comeau's Code Snippets](https://www.joshwcomeau.com/snippets/)
+- [How Simulations Work](https://www.anuncommonlab.com/articles/how-simulations-work/)
