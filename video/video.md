@@ -191,3 +191,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Gilfoyle](https://github.com/dreamvo/gilfoyle) - Cloud-native solution to embed media streaming in any application at any scale.
 - [Dreamvo](https://www.dreamvo.com/) - Free and open source video sharing for the 21th century. ([GitHub](https://github.com/dreamvo/))
 - [you-tldr](https://you-tldr.com/) - Easy-to-read transcripts of YouTube videos. ([HN](https://news.ycombinator.com/item?id=26048946))
+- [Plyr](https://plyr.io/) - Simple HTML5, YouTube and Vimeo player. ([Code](https://github.com/sampotts/plyr))

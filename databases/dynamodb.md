@@ -40,3 +40,4 @@
 - [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable) - Access and management for one table designs with NodeJS.
 - [DynamoDB JavaScript DocumentClient cheat sheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet)
 - [DynamoDB sessions at AWS re:Invent 2020](https://www.youtube.com/playlist?list=PL_EDAAla3DXWshFxx1R5P5MNaER84zHsU)
+- [Serverless DynamoDB Local Plugin](https://github.com/99x/serverless-dynamodb-local) - Allows to run DynamoDB locally for serverless.

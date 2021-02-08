@@ -330,3 +330,4 @@
 - [EdgeNet](https://edge-net.org/) - Kubernetes adapted for the network edge. It allows you to deploy applications to hundreds of nodes that are scattered across the internet. ([Code](https://github.com/EdgeNet-project/edgenet))
 - [Rancher](https://rancher.com/) - Enterprise Kubernetes Management. ([Website Code](https://github.com/rancher/ui)) ([GitHub](https://github.com/rancher))
 - [Kosko](https://kosko.dev/) - Organize Kubernetes manifests in JavaScript. ([Code](https://github.com/tommy351/kosko))
+- [sample-apiserver](https://github.com/kubernetes/sample-apiserver) - Demonstration of how to use the k8s.io/apiserver library to build a functional API server.

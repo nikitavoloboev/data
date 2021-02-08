@@ -85,6 +85,7 @@
 - [Spline](https://github.com/linebender/spline) - Implements a new spline designed and optimized for interactive design of 2D curves.
 - [Terra](https://github.com/fintelia/terra) - Large scale terrain rendering library written in Rust.
 - [Ochre](https://github.com/glowcoil/ochre) - Highly portable GPU-accelerated vector graphics. ([Talk](https://rustfest.global/session/23-ochre-highly-portable-gpu-accelerated-vector-graphics/))
+- [glyph-brush](https://github.com/alexheretic/glyph-brush) - Fast GPU cached text rendering.
 
 ## DB
 
@@ -186,6 +187,7 @@
 - [STHash](https://github.com/jedisct1/rust-sthash) - Fast, keyed, cryptographic hash function designed to process large, possibly untrusted data.
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic.
 - [pairing](https://github.com/zkcrypto/pairing) - Crate for using pairing-friendly elliptic curves.
+- [Monotree](https://github.com/thyeem/monotree) - Optimized Sparse Merkle Tree in Rust.
 
 ## Linux
 
@@ -710,6 +712,7 @@
 - [Symphonia](https://github.com/pdeljanov/Symphonia) - Rust audio decoding and media demuxing library supporting OGG, FLAC, MP3, and WAV.
 - [treediff-rs](httops://github.com/Byron/treediff-rs) - Library to compare arbitrary structured data of the same type, efficiently.
 - [replace_with](https://github.com/alecmocatta/replace_with) - Temporarily take ownership of a value at a mutable location, and replace it with a new value based on the old one.
+- [Moka](https://github.com/moka-rs/moka) - Fast, concurrent cache library for Rust.
 
 ## Cargo Plugins
 

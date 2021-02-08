@@ -65,3 +65,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [What is Stablecoin? (2021)](https://medium.com/fleta-first-chain/what-is-stablecoin-a557e38da74)
 - [The Bit Short: Inside Crypto’s Doomsday Machine (2021)](https://crypto-anonymous-2021.medium.com/the-bit-short-inside-cryptos-doomsday-machine-f8dcf78a64d3) ([HN](https://news.ycombinator.com/item?id=25788409))
 - [Elrond and the New Crypto Spaces (2021)](https://marginalrevolution.com/marginalrevolution/2021/01/elrond-and-the-new-crypto-spaces.html) ([HN](https://news.ycombinator.com/item?id=25835871))
+- [Decrypt](https://decrypt.co/) - Your guide to Bitcoin, Ethereum & Web 3.0.
