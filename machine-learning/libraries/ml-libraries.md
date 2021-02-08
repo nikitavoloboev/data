@@ -117,3 +117,4 @@
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Machine learning python package for learning with noisy labels and finding label errors in datasets.
 - [deeptime](https://github.com/deeptime-ml/deeptime) - Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
 - [Jelly Bean World](https://github.com/eaplatanios/jelly-bean-world) - Framework for experimenting with never-ending learning.
+- [Larq](https://github.com/larq/larq) - Open-source deep learning library for training neural networks with extremely low precision weights and activations, such as Binarized Neural Networks (BNNs). ([Web](https://larq.dev/))
