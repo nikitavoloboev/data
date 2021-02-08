@@ -48,3 +48,4 @@
 - [data-lens](https://github.com/fiddlerwoaroof/data-lens) - Functional utilities for Common Lisp.
 - [docker-cl-example](https://github.com/fukamachi/docker-cl-example/) - Example projects to run/develop Common Lisp web application on Docker container.
 - [CLOG](https://github.com/rabbibotton/clog) - Common Lisp Omnificent GUI.
+- [Lisper.ru](http://lisper.ru/) - Russian Common Lisp Community. ([Code](https://github.com/archimag/rulisp))

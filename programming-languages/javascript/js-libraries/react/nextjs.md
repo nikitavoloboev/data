@@ -132,7 +132,7 @@
 - [Next.js Conf](https://nextjs.org/conf) ([HN](https://news.ycombinator.com/item?id=24908729))
 - [Bulletproof Next](https://getstarted.sh/bulletproof-next) - Be an expert in Next.js.
 - [Blogging on Next.js: Generating static index pages](https://javacrisps.com/posts/nextjs-static-fun) ([HN](https://news.ycombinator.com/item?id=24558784))
-- [Quirrel](https://quirrel.dev/) - Job Queueing for Next.js x Vercel. ([Code](https://github.com/quirrel-dev/quirrel))
+- [Quirrel](https://quirrel.dev/) - Job Queueing for Next.js x Vercel. ([Code](https://github.com/quirrel-dev/quirrel)) ([Awesome](https://github.com/quirrel-dev/awesome-quirrel))
 - [Create a Next.js RSS feed for your static website (2020)](https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js)
 - [Replacing Create React App with the Next.js CLI (2020)](https://gist.github.com/tannerlinsley/65ac1f0175d79d19762cf06650707830)
 - [next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing.
