@@ -439,3 +439,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Paul Stamatiou: Stuff I use](https://paulstamatiou.com/stuff-i-use/)
 - [checksec.py](https://github.com/Wenzel/checksec.py) - Simple tool to verify the security properties of your binaries. Based on LIEF.
 - [Gnod](https://www.gnod.com/) - Global Network Of Discovery.
+- [Awesome-Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - Awesome cheat sheets for popular programming languages, frameworks and development tools. ([Code](https://github.com/LeCoupa/awesome-cheatsheets))

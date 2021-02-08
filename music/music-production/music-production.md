@@ -60,6 +60,8 @@
 - [Wavepot](https://wavepot.com/) - Code Music In-Browser.
 - [LiveCore](https://github.com/ul/livecore) - Hardcore livecoding system for realtime audio synth.
 - [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the Web Audio API.
+- [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software. ([Web](https://lmms.io/))
+- [Ardour](https://ardour.org/) - Digital audio workstation.
 
 ## Inspiration
 
@@ -88,7 +90,6 @@
 - [Ask HN: Recommendations for AI generated music software? (2019)](https://news.ycombinator.com/item?id=20514446)
 - [Alda](https://github.com/alda-lang/alda) - Music programming language for musicians.
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
-- [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software.
 - [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) ([HN](https://news.ycombinator.com/item?id=21297462))
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))
 - [Monome](https://monome.org/) - Sound machines for the exploration time and space. ([Code](https://github.com/monome/docs))
