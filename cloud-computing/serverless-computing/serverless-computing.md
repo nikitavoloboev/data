@@ -83,3 +83,4 @@
 - [rusty-workers](https://github.com/losfair/rusty-workers) - Cloud-native distributed serverless workers platform.
 - [Seed](https://seed.run/) - Fully-Managed CI/CD Pipeline for Serverless. ([HN](https://news.ycombinator.com/item?id=25835280))
 - [Atmo](https://github.com/suborbital/atmo) - Build function-based web services using your favorite languages, powered by WebAssembly. ([Docs](https://atmo.suborbital.dev/))
+- [The State of the Serverless Art (2021)](https://medium.com/riselab/the-state-of-the-serverless-art-78a4f02951eb)

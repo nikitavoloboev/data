@@ -27,6 +27,7 @@
 - [Hasura NextJS Boilerplate](https://github.com/ghoshnirmalya/nextjs-hasura-boilerplate)
 - [Next.js blog starter](https://github.com/JoseRFelix/nextjs-starter-blog)
 - [Virtual Event Starter Kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
+- [Next.js Examples](https://github.com/brunocrosier/nextexamples) - Explore all of the official Next.js examples.
 
 ## NextJS plugins
 

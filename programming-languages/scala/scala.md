@@ -63,3 +63,4 @@
 - [scalafmt](https://github.com/scalameta/scalafmt) - Code formatter for Scala. ([Docs](https://scalameta.org/scalafmt/docs/installation.html))
 - [ScalaJobs.dev](https://scalajobs.dev/) - Scala Developer Jobs.
 - [Introduction to Metals with Scala 3 (2021)](https://medium.com/virtuslab/introduction-to-metals-with-scala-3-79ebf3120a95) ([HN](https://news.ycombinator.com/item?id=26012593))
+- [From First Principles: Why Scala? (2021)](https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)

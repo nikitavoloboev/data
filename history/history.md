@@ -92,3 +92,4 @@
 - [I Love Reading 1980s Computer Magazines, and So Should You (2021)](https://www.wired.com/story/i-love-reading-1980s-computer-magazines-and-so-should-you/)
 - [The Sámi on Camera (2021)](https://www.historytoday.com/miscellanies/sami-camera)
 - [History Today](https://www.historytoday.com/) - Illustrated history magazine.
+- [The Why of technology (2021)](https://www.murilopereira.com/the-why-of-technology/)
