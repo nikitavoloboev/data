@@ -20,3 +20,4 @@
 - [Idyll](https://idyll-lang.org/) - Markup language for interactive and data-driven blogging. ([Code](https://github.com/idyll-lang/idyll)) ([HN](https://news.ycombinator.com/item?id=25611425))
 - [CodeDown](https://codedown.io/) - Collaborative coding and mathematics notebooks. ([GitHub](https://github.com/codedownio))
 - [Communicating with Interactive Articles (2020)](https://distill.pub/2020/communicating-with-interactive-articles/)
+- [Taxonomies of Visual Programming (1990)](https://www.cs.cmu.edu/~bam/papers/VLtax2-jvlc-1990.pdf) ([HN](https://news.ycombinator.com/item?id=26057530))

@@ -17,3 +17,4 @@
 - [Generative Language Modeling for Automated Theorem Proving (2020)](https://arxiv.org/abs/2009.03393) ([HN](https://news.ycombinator.com/item?id=24420874))
 - [Untangling Mechanized Proofs (2020)](https://plv.csail.mit.edu/blog/alectryon.html) ([HN](https://news.ycombinator.com/item?id=25148370))
 - [SASyLF](http://www.cs.cmu.edu/~aldrich/SASyLF/) - Educational Proof Assistant for Language Theory. ([Code](https://github.com/boyland/sasylf))
+- [Automated Propositional Sequent Proofs in Your Browser with Tau Prolog (2021)](https://www.philipzucker.com/javascript-automated-proving/)

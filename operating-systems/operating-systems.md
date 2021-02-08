@@ -87,6 +87,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [LeOS Kernel](https://github.com/lowenware/leos-kernel) - Kernel project for operating system for ARM 64bit (AArch64) written in Rust. ([Web](https://lowenware.com/leos/))
 - [RustyHermit](https://github.com/hermitcore/rusty-hermit) - Rust-based, lightweight unikernel.
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system. ([Web](http://jehanne.io/pages/overview.html))
+- [Mimosa](https://github.com/udem-dlteam/mimosa) - Operating system consists of a minimal kernel built on C++ and Scheme.
 
 ## Notes
 
