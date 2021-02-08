@@ -97,3 +97,4 @@
 - [krunvm](https://github.com/slp/krunvm) - Manage lightweight VMs created from OCI images.
 - [Killing Containers at Scale (2021)](https://blog.repl.it/killing-containers-at-scale) ([HN](https://news.ycombinator.com/item?id=26007428))
 - [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles) - Exploring the tradeoffs of building container images at scale. ([HN](https://news.ycombinator.com/item?id=26041099))
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - Launch containers on demand. ([Web](https://containerssh.io/))

@@ -196,3 +196,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization) - Curated list of awesome resources about virtualization.
 - [pyvmidbg](https://github.com/Wenzel/pyvmidbg) - LibVMI-based GDB server, implemented in Python.
 - [libmicrovmi](https://github.com/Wenzel/libmicrovmi) - Cross-platform unified interface on top of hypervisor's VMI APIs.
+- [crosvm](https://github.com/dgreid/crosvm) - Chrome OS Virtual Machine Monitor.
