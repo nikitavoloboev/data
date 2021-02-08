@@ -39,3 +39,4 @@
 - [jest-dynalite](https://github.com/freshollie/jest-dynalite) - Jest preset to run Dynalite (DynamoDB local) per test runner.
 - [DynamoDB OneTable](https://github.com/sensedeep/dynamodb-onetable) - Access and management for one table designs with NodeJS.
 - [DynamoDB JavaScript DocumentClient cheat sheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet)
+- [DynamoDB sessions at AWS re:Invent 2020](https://www.youtube.com/playlist?list=PL_EDAAla3DXWshFxx1R5P5MNaER84zHsU)

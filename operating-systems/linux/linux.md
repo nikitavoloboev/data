@@ -268,4 +268,4 @@
 - [Should You Write a Wayland Compositor? (2021)](https://tudorr.ro/blog/technical/2021/01/26/the-wayland-experience/)
 - [wlroots](https://github.com/swaywm/wlroots) - Modular Wayland compositor library.
 - [Getting better at Linux with mini-projects (2020)](https://carltheperson.com/posts/10-things-linux) ([HN](https://news.ycombinator.com/item?id=26002335))
-- [Making Sense of The Audio Stack On Unix (2021)](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html) ([Lobsters](https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix))
+- [Making Sense of The Audio Stack On Unix (2021)](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html) ([Lobsters](https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix)) ([HN](https://news.ycombinator.com/item?id=26056588))

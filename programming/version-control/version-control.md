@@ -23,3 +23,4 @@
 - [Let's Build a Version Control System (2021)](https://shatterealm.netlify.app/programming/2021_01_02_shiv_lets_build_a_vcs)
 - [VCS Nirvana (2021)](https://paulhammant.com/2020/01/19/vcs-nirvana/) ([Lobsters](https://lobste.rs/s/5iunpc/vcs_nirvana))
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) ([Code](https://github.com/paul-hammant/tbd))
+- [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized version control system for peer-to-peer software development. ([Web](https://www.multiverse-vcs.com/))
