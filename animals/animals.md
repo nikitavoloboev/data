@@ -73,3 +73,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [All I have ever wanted from a yogurt is to know who the cows are.](https://twitter.com/_Jen_Silverman/status/1340367210578108417)
 - [The Summer of Larry (2020)](https://www.youtube.com/watch?v=0OjcqJolKzI)
 - [Earth Species Project](https://www.earthspecies.org/) - Decoding Animal Communication.
+- [Plant-Powered Dog](https://www.plantpowereddog.com/) - Raise a Thriving Plant-Based Dog.
