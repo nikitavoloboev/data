@@ -14,3 +14,7 @@ I run my bookmarklets from KM like so:
 - You can add bookmarklets in Safari either by:
   1. Dragging a bookmarklet from a webpage to your bookmarks bar then moving it from there.
   2. Creating a random bookmark, then editing it and changing the URL to the bookmarklet JavaScript.
+
+## Links
+
+- [Powerlet](https://github.com/anthonyec/powerlet) - Chrome Extension to quickly find and run bookmarklets.

@@ -24,6 +24,7 @@
 - [Robocorp](https://robocorp.com/) - Open source stack for simplifying automation. ([GitHub](https://github.com/robocorp))
 - [Automation and the Future of Work by Aaron Benanav](https://www.versobooks.com/books/3717-automation-and-the-future-of-work)
 - [The economic effects of automation aren’t what you think they are (2019)](https://www.singlelunch.com/2019/10/21/the-economic-effects-of-automation-arent-what-you-think-they-are/)
+- [The Full Automation Fallacy (2020)](https://futuresofwork.co.uk/2020/12/02/the-full-automation-fallacy/) ([HN](https://news.ycombinator.com/item?id=26053760))
 
 ## Images
 

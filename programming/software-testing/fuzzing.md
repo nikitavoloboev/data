@@ -36,3 +36,4 @@
 - [kAFL](https://github.com/IntelLabs/kAFL) - Fuzzer for full VM kernel/driver targets.
 - [Snapandgo](https://github.com/geeksonsecurity/snapandgo) - {golang, ptrace, snapshot}-based fuzzer.
 - [Honggfuzz](https://github.com/google/honggfuzz) - Security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options. ([Web](https://honggfuzz.dev/))
+- [How to Spot Good Fuzzing Research (2018)](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)
