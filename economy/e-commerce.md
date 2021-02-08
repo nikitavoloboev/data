@@ -69,3 +69,4 @@
 - [How curation is reinventing e-commerce (2021)](https://maried.substack.com/p/how-curation-is-reinventing-e-commerce)
 - [Easol](https://easol.com/) - Sell travel and experiences online.
 - [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites (2019)](https://webtransparency.cs.princeton.edu/dark-patterns/) ([HN](https://news.ycombinator.com/item?id=25968531))
+- [Gatsby Starter Shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart.

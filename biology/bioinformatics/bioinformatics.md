@@ -100,3 +100,4 @@
 - [How to Start a Biotech Company on a Budget (2021)](https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/)
 - [BioGraPy](https://github.com/apierleoni/BioGraPy) - Biological Graphic tool in Python.
 - [FPbase](https://www.fpbase.org/) - The Fluorescent Protein Database. ([Code](https://github.com/tlambert03/FPbase))
+- [Cell Ontology](http://obofoundry.org/ontology/cl) - Structured controlled vocabulary for cell types in animals. ([Code](https://github.com/obophenotype/cell-ontology))

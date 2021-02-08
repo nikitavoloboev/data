@@ -70,3 +70,4 @@
 - [Probablistic P2P Content Moderation (2021)](https://generativist.falsifiable.com/metaverse/probablistic-p2p-content-moderation)
 - [Briar](https://briarproject.org/) - Secure messaging, anywhere.
 - [Drawbacks of P2P and a defense of Signal (2021)](https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal) ([HN](https://news.ycombinator.com/item?id=25976439))
+- [P2P chat app with React & Gun.js](https://github.com/dabit3/react-p2p-messaging)
