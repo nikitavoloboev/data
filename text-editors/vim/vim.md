@@ -104,3 +104,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [vim.so](https://www.vim.so/) - Learn and Master Vim faster with interactive exercises. ([HN](https://news.ycombinator.com/item?id=25846347))
 - [lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - Light-weight lsp plugin based on neovim built-in lsp with highly performance UI.
 - [nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim.
+- [Configuring Neovim using Lua (2021)](https://icyphox.sh/blog/nvim-lua/)

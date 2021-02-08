@@ -163,3 +163,4 @@
 - [dev-env](https://github.com/digital-asset/dev-env) - Nix with training wheels.
 - [Basinix](https://github.com/jonringer/basinix) - Pull request reviewing tool for nixpkgs.
 - [Nix-template](https://github.com/jonringer/nix-template) - Make creating nix expressions easy. Provide a nice way to create largely boilerplate nix-expressions.
+- [nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Set of nit-picky rules that aim to point out and explain common mistakes in nixpkgs package pull requests.

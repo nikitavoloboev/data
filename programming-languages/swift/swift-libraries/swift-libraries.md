@@ -607,6 +607,7 @@
 - [PinLayout](https://github.com/layoutBox/PinLayout) - Fast Swift Views layouting without auto layout.
 - [SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
 - [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Swift Geometry Engine.
+- [Syntax](https://github.com/nerdsupremacist/Syntax) - Write parsers quickly in Swift with an intuitive SwiftUI-like DSL.
 
 ## Other (not lib)
 

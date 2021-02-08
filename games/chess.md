@@ -68,3 +68,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Notes on Chess](https://github.com/pepellou/knowledge/blob/master/chess/README.md)
 - [chess-pipeline](https://github.com/charlesoblack/chess-pipeline) - Pulling games from the Lichess API into a PostgreSQL database for data analysis.
 - [chess-engine](https://github.com/adam-mcdaniel/chess-engine) - Pure Rust, dependency-free chess engine that doesn't require a runtime.
+- [Study Openings](http://www.studyopenings.com/) - Tool to help chess players memorize opening repertoires. ([Code](https://github.com/jven/studyopenings))

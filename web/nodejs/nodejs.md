@@ -183,3 +183,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs().
 - [Gluegun](https://github.com/infinitered/gluegun) - Delightful toolkit for building TypeScript-powered command-line apps.
 - [node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS.
+- [LRT](https://github.com/dfilatov/lrt) - Scheduler for long-running tasks inside browsers and Node.JS.

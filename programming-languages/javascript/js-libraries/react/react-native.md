@@ -100,3 +100,4 @@
 - [formidable-webview/webshell](https://github.com/formidable-webview/webshell) - Craft Robust React Native WebView-based components with ease.
 - [Magnus UI](https://github.com/jsartisan/react-native-magnus) - Utility-First React Native UI Framework. ([Web](https://magnus-ui.com/))
 - [react-native-testing](https://github.com/vanGalilea/react-native-testing) - How to test your react-native components with Jest and React Native Testing Library.
+- [Moti](https://github.com/nandorojo/moti) - Universal React Native animation library, powered by Reanimated 2. ([Docs](https://moti.vercel.app/))

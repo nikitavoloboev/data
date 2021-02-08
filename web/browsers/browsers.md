@@ -104,3 +104,4 @@
 - [Zap](https://github.com/issmirnov/zap) - Powerful tool that allows you to define universal web shortcuts in a simple config file.
 - [devtools-ds](https://github.com/intuit/devtools-ds) - Components and tools for building browser devtools extensions.
 - [Web Browser Engineering Book](https://browser.engineering/) - Explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
+- [Supercookie](https://github.com/jonasstrehle/supercookie) - Browser Fingerprinting via Favicon. ([Web](https://supercookie.me/)) ([HN](https://news.ycombinator.com/item?id=26051370))

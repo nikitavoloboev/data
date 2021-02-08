@@ -34,6 +34,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Hylke Visser](https://github.com/htdvisser/dotfiles)
 - [Zach Holman](https://github.com/holman/dotfiles)
 - [Thibault Duplessis](https://github.com/ornicar/dotfiles)
+- [Dimitri Sabadie](https://github.com/phaazon/config)
 
 ## Links
 

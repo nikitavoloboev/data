@@ -66,3 +66,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Awesome Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Panelbear](https://panelbear.com/) - Fast and privacy-friendly website analytics.
 - [Squzy](https://github.com/squzy/squzy) - High-performance open-source monitoring, incident and alert system written in Go with Bazel.
+- [Webmention Analytics](https://github.com/maxboeck/webmention-analytics) - Analytics dashboard for webmention.io data. ([Article](https://mxb.dev/blog/webmention-analytics/))

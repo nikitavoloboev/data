@@ -79,3 +79,4 @@
 - [DNS over TLS - Thoughts and Implementation (2018)](https://sagi.io/dns-over-tls-thoughts-and-implementation/)
 - [DNSCrypt](https://dnscrypt.info/) - Protocol that encrypts, authenticates and optionally anonymizes communications between a DNS client and a DNS resolver. ([GitHub](https://github.com/dnscrypt))
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - Flexible DNS proxy, with support for encrypted DNS protocols.
+- [Why updating DNS is slow](https://wizardzines.com/comics/updating-dns/) ([HN](https://news.ycombinator.com/item?id=26058337))

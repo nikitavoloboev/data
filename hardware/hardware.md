@@ -164,3 +164,4 @@
 - [Examining a technology sample kit: IBM components from 1948 to 1986 (2021)](http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html)
 - [Principles of Semiconductor Devices](https://ecee.colorado.edu/~bart/book/book/contents.htm)
 - [Resources to make a smart speaker](https://github.com/voice-engine/make-a-smart-speaker)
+- [SparkFun OpenLog](https://github.com/sparkfun/OpenLog) - Open Source Hardware Datalogger. ([Web](https://www.sparkfun.com/products/13712))
