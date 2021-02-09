@@ -108,3 +108,4 @@
 - [Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab)
 - [Cryptography Resources](https://tjerandsilde.no/resources/)
 - [NuCypher](https://www.nucypher.com/) - Cryptographic Infrastructure for Privacy-Preserving Applications. ([Code](https://github.com/nucypher/nucypher)) ([GitHub](https://github.com/nucypher/))
+- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures - Chelsea Komlo (2021)](https://www.youtube.com/watch?v=ReN0kMzDFro)

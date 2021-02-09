@@ -29,3 +29,4 @@
 - [Shingo Tamagawa - Three Minutes, Three Years: Making Puparia (2021)](https://www.youtube.com/watch?v=VKsG3E7TLl4)
 - [Watch 20+ Oscar-Qualified Animation Shorts For Free (2021)](https://www.cartoonbrew.com/awards/watch-at-least-15-oscar-qualified-animation-shorts-for-free-online-201173.html)
 - [Cartoon Brew](https://www.cartoonbrew.com/) - Animation News, Animated Cartoons.
+- [35 Years of Pixar Moments! | Pixar (2021)](https://www.youtube.com/watch?v=X3AcXraOW_k)
