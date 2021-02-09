@@ -723,7 +723,7 @@
 - [Arista Go library](https://github.com/aristanetworks/goarista) - Helper functions to work with the reflect package.
 - [Fusion](https://github.com/spy16/fusion) - Tiny stream processing library written in Go.
 - [Go Fluent FFmpeg](https://github.com/modfy/go-fluent-ffmpeg) - Bindings to FFmpeg.
-- [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go.
+- [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go. ([HN](https://news.ycombinator.com/item?id=26063830))
 
 ## Links
 

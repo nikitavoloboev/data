@@ -40,3 +40,4 @@
 - [Frontend Unicorn](https://www.frontendunicorn.com/) - Learn Front End Development.
 - [Awesome Front End Security](https://github.com/rustcohlnikov/awesome-frontend-security)
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) - Testing your knowledge using real job challenges.
+- [I don't want to do front-end anymore (2021)](https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore) ([HN](https://news.ycombinator.com/item?id=26071906))
