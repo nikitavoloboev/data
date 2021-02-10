@@ -163,3 +163,4 @@
 - [h-baselines](https://github.com/AboudyKreidieh/h-baselines) - High-performing hierarchical reinforcement learning models and algorithms.
 - [AI Habitat](https://aihabitat.org/) - Simulation platform for research in Embodied AI. ([Habitat Challenge 2020 Code](https://github.com/facebookresearch/habitat-challenge))
 - [Fundamentals of Multiagent Systems (2010)](http://jmvidal.cse.sc.edu/papers/mas.pdf)
+- [CleanRL](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features.

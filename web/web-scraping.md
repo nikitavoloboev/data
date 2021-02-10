@@ -83,4 +83,4 @@
 - [Headless Chrome Crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome.
 - [Tips for reliable web automation and scraping selectors (2021)](https://medium.com/brick-by-brick/7-bite-sized-tips-for-reliable-web-automation-and-scraping-selectors-2612bc4de2a1) ([HN](https://news.ycombinator.com/item?id=25993258))
 - [Web Crawler for scraping Financial data](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis) ([Article](https://medium.com/datadriveninvestor/build-a-web-crawler-that-scrapes-stock-fundamentals-in-python-e2d4af56398))
-- [Web Scraping 101 with Python (2021)](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [Web Scraping 101 with Python (2021)](https://www.scrapingbee.com/blog/web-scraping-101-with-python/) ([HN](https://news.ycombinator.com/item?id=26090243))
