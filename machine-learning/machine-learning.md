@@ -403,3 +403,4 @@
 - [Domain generalization papers/resources](https://github.com/amber0309/Domain-generalization)
 - [The Universal Training Loop of Machine Learning (2021)](https://liuliu.me/eyes/the-universal-training-loop-of-machine-learning/)
 - [Learning Curve Theory (2021)](https://arxiv.org/abs/2102.04074)
+- [ML Surveys](https://github.com/eugeneyan/ml-surveys) - Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.

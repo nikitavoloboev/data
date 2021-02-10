@@ -160,3 +160,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [TailoredFlow](https://github.com/Omodaka9375/tailoredflow) - Your personal decentralized RSS podcast aggregator.
 - [Listenbox](https://listenbox.app/) - Listen and publish YouTube shows as podcasts.
 - [Subcaster](https://subcaster.com/) - Compare podcast tools side-by-side.
+- [Podz](https://apps.apple.com/us/app/podz-podcast-highlights/id1516678719?ref=producthunt) - The best parts of podcasts in a personalized feed.

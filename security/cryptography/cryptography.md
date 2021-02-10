@@ -109,3 +109,4 @@
 - [Cryptography Resources](https://tjerandsilde.no/resources/)
 - [NuCypher](https://www.nucypher.com/) - Cryptographic Infrastructure for Privacy-Preserving Applications. ([Code](https://github.com/nucypher/nucypher)) ([GitHub](https://github.com/nucypher/))
 - [FROST: Flexible Round-Optimized Schnorr Threshold Signatures - Chelsea Komlo (2021)](https://www.youtube.com/watch?v=ReN0kMzDFro)
+- [Crackpot Cryptography and Security Theater (2021)](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/) ([Lobsters](https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater))

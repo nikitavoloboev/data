@@ -194,6 +194,7 @@
 - [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
 - [libkrun](https://github.com/containers/libkrun) - Dynamic library providing KVM-based process isolation capabilities.
 - [io-uring](https://github.com/tokio-rs/io-uring) - Linux IO Uring.
+- [shmem-ipc](https://github.com/diwic/shmem-ipc) - Rust high-performance communication between untrusted processes on Linux.
 
 ## ML
 

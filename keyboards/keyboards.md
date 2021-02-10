@@ -4,10 +4,6 @@ I love keyboards. Specifically I love remapping them with [Karabiner](../macOS/a
 
 I am currently using builtin 2020 MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards.
 
-## Notes
-
-- Gateron Browns low key travel mech switches maybe are nice. Need something low key travel ala macbook.
-
 ## Interesting keyboards
 
 - [Keyboardio](https://shop.keyboard.io)
@@ -34,6 +30,12 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 ## Interesting keycaps
 
 - [Kailh Low Profile Keycaps - Blank](https://novelkeys.xyz/collections/keycaps/products/kailh-low-profile-keycaps-blank?variant=3747977101352) - Low key & awesome.
+- [Kailh BOX Switches](https://novelkeys.xyz/products/kailh-box-switches) - Brown seem nice.
+
+## Notes
+
+- Gateron Browns low key travel mech switches maybe are nice. Need something low key travel ala macbook.
+- [Fewer keys placed correctly on the keyboard is best.](https://www.reddit.com/r/ErgoMechKeyboards/comments/l8z344/anybody_else_not_really_feeling_the_small_trend/)
 
 ## Links
 

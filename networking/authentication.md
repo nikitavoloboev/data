@@ -105,3 +105,4 @@
 - [A Primer on JSON Web Tokens (2021)](https://pspdfkit.com/blog/2021/a-primer-on-json-web-tokens/)
 - [github/webauthn-json](https://github.com/github/webauthn-json) - Small WebAuthn API wrapper that translates to/from pure JSON using base64url.
 - [Clerk](https://clerk.dev/) - All of user management as-a-service, not just authentication. ([HN](https://news.ycombinator.com/item?id=26069621)) ([Tweet](https://twitter.com/tweetsbycolin/status/1358873005447909378))
+- [Persona](https://withpersona.com/) - Identity infrastructure for any business.

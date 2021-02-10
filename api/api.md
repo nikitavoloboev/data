@@ -195,3 +195,4 @@
 - [Metapine](https://metapine.com/) - Discover new & interesting APIs.
 - [Hydra: Hypermedia-Driven Web APIs](https://github.com/HydraCG/Specifications)
 - [A Theory of Robust API Knowledge (2021)](https://faculty.washington.edu/ajko/papers/Thayer2021TheoryOfRobustAPIKnowledge.pdf)
+- [Public APIs](https://public-apis.io/) - Directory of Free Public & Open Rest APIs.

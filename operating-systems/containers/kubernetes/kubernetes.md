@@ -331,3 +331,4 @@
 - [Rancher](https://rancher.com/) - Enterprise Kubernetes Management. ([Website Code](https://github.com/rancher/ui)) ([GitHub](https://github.com/rancher))
 - [Kosko](https://kosko.dev/) - Organize Kubernetes manifests in JavaScript. ([Code](https://github.com/tommy351/kosko))
 - [sample-apiserver](https://github.com/kubernetes/sample-apiserver) - Demonstration of how to use the k8s.io/apiserver library to build a functional API server.
+- [Kubernetes 101 series retrospective, and a new book (2021)](https://www.jeffgeerling.com/blog/2021/kubernetes-101-series-retrospective-and-new-book)
