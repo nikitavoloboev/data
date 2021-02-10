@@ -158,3 +158,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source is Discrimination (2021)](https://writing.kemitchell.com/2021/01/21/Open-Source-Discrimination.html) ([HN](https://news.ycombinator.com/item?id=25872027)) ([Lobsters](https://lobste.rs/s/btwamx/open_source_is_discrimination))
 - [Google Open Source](https://opensource.google/)
 - [The MIT License, Line by Line (2016)](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) ([HN](https://news.ycombinator.com/item?id=25979584))
+- [LibHunt](https://www.libhunt.com/) - Trending open-source projects and their alternatives.

@@ -80,3 +80,4 @@
 - [Towards Maintainable Elixir: The Development Process (2021)](https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109)
 - [ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 - [Learning Elixir: It’s All Reduce (2021)](https://redrapids.medium.com/learning-elixir-its-all-reduce-204d05f52ee7)
+- [José Valim Reveals “Project Nx” (Numerical Elixir) (2021)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/) ([HN](https://news.ycombinator.com/item?id=26076680))

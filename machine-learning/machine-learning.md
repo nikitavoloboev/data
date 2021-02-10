@@ -402,3 +402,4 @@
 - [Prototypical Networks for Few-shot Learning (2017)](https://arxiv.org/abs/1703.05175) ([Code](https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch))
 - [Domain generalization papers/resources](https://github.com/amber0309/Domain-generalization)
 - [The Universal Training Loop of Machine Learning (2021)](https://liuliu.me/eyes/the-universal-training-loop-of-machine-learning/)
+- [Learning Curve Theory (2021)](https://arxiv.org/abs/2102.04074)

@@ -182,3 +182,4 @@
 - [atJIT](https://github.com/kavon/atJIT) - Just-in-time autotuning compiler for C++.
 - [How to Pass a Variadic Pack as a First Argument of a Function in C++ (2021)](https://www.fluentcpp.com/2021/01/22/how-to-pass-a-variadic-pack-as-a-first-argument-of-a-function-in-cpp/) ([Lobsters](https://lobste.rs/s/2lxeln/how_pass_variadic_pack_as_first_argument))
 - [Time Travel Debugging for C/C++ (2021)](https://pspdfkit.com/blog/2021/time-travel-debugging-for-c/)
+- [Move Semantics in C++ (2020)](https://medium.com/pranayaggarwal25/move-semantics-269e73287b63)

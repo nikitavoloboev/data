@@ -103,3 +103,5 @@
 - [Authentication and Authorisation 101 (2021)](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
 - [oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified OAuth 2.0 Authorization Server implementation for Node.
 - [A Primer on JSON Web Tokens (2021)](https://pspdfkit.com/blog/2021/a-primer-on-json-web-tokens/)
+- [github/webauthn-json](https://github.com/github/webauthn-json) - Small WebAuthn API wrapper that translates to/from pure JSON using base64url.
+- [Clerk](https://clerk.dev/) - All of user management as-a-service, not just authentication. ([HN](https://news.ycombinator.com/item?id=26069621))

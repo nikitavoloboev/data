@@ -26,3 +26,4 @@
 - [eSpeak NG](https://github.com/espeak-ng/espeak-ng) - Open source speech synthesizer that supports more than hundred languages and accents.
 - [PRiSM SampleRNN](https://github.com/rncm-prism/prism-samplernn) - Neural sound synthesis with TensorFlow 2.
 - [Flite](https://github.com/festvox/flite) - Small fast portable speech synthesis system.
+- [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2))

@@ -120,6 +120,7 @@ And these Discord servers:
 - [The Economist](https://www.economist.com/)
 - [Reuters](https://www.reuters.com/)
 - [Bloomberg](https://www.bloomberg.com/)
+- [Works in Progress](https://worksinprogress.co/)
 
 ### Other
 

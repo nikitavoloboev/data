@@ -31,3 +31,4 @@
 - [Revisiting a Video Chat Application with Phoenix and WebRTC (2021)](https://hashrocket.com/blog/posts/revisiting-a-video-chat-application-with-phoenix-and-webrtc)
 - [Phx.Gen.Auth](https://github.com/aaronrenner/phx_gen_auth) - Authentication system generator for Phoenix 1.5+ applications.
 - [Client-Side Drag and Drop with Phoenix LiveView](https://github.com/kelseyleftwich/phoenix-liveview-hook-demo)
+- [Data Fetching Using LiveComponents (2021)](https://kobrakai.de/kolumne/data-fetching-using-livecomponents/)

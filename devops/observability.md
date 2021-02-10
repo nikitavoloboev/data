@@ -15,5 +15,5 @@
 - [Observability, Getting Started - 50 Free Access and Open-Source Solutions (2020)](https://haydenjames.io/observability-getting-started-free-access-and-open-source-solutions/)
 - [tobs](https://github.com/timescale/tobs) - Observability Stack for Kubernetes.
 - [Sensu](https://sensu.io/) - Observability Pipeline that delivers monitoring as code on any cloud. ([Code](https://github.com/sensu/sensu-go))
-- [SigNoz](https://signoz.io/) - Open source Observability platform. ([Code](https://github.com/SigNoz/signoz))
+- [SigNoz](https://signoz.io/) - Open source Observability platform. Alternative to DataDog. ([Code](https://github.com/SigNoz/signoz)) ([HN](https://news.ycombinator.com/item?id=26079389))
 - [Data Observability: Building Your Own Data Quality Monitors Using SQL (2021)](https://ryanothnielkearns.medium.com/data-observability-building-your-own-data-quality-monitors-using-sql-a4c848b6882d)

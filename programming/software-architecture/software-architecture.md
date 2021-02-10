@@ -121,3 +121,4 @@
 - [Architecture.md (2021)](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html) ([HN](https://news.ycombinator.com/item?id=26048784)) ([Lobsters](https://lobste.rs/s/tcqizo/architecture_md))
 - [Architectural Decision Records](https://adr.github.io/) - Software design choice that addresses a functional or non-functional requirement that is architecturally significant. ([HN](https://news.ycombinator.com/item?id=26053498))
 - [How to Communicate Architecture (2021)](http://beza1e1.tuxen.de/communicate_architecture.html)
+- [Building a modular software toolkit at Airtable (2021)](https://medium.com/airtable-eng/building-a-modular-software-toolkit-ce4efd06e75c)

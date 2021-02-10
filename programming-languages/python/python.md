@@ -256,3 +256,4 @@
 - [You don't really need a virtualenv (2021)](https://frostming.com/2021/01-22/introducing-pdm/) ([HN](https://news.ycombinator.com/item?id=26020732))
 - [Homebrew Python Is Not For You (2021)](https://justinmayer.com/posts/homebrew-python-is-not-for-you/) ([Lobsters](https://lobste.rs/s/vhfoga/homebrew_python_is_not_for_you)) ([HN](https://news.ycombinator.com/item?id=26017852))
 - [Pattern matching accepted for Python (2021)](https://lwn.net/Articles/845480/) ([HN](https://news.ycombinator.com/item?id=26080760))
+- [100 Page Python Intro Book](https://learnbyexample.github.io/100_page_python_intro/introduction.html) ([HN](https://news.ycombinator.com/item?id=26076721))

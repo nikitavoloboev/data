@@ -110,3 +110,4 @@
 - [What GitHub Search Needs to Improve (2021)](https://twitter.com/JnBrymn/status/1355654689652690953) ([HN](https://news.ycombinator.com/item?id=25975124))
 - [Lieu](https://lieu.cblgh.org/) - Community search engine. ([Code](https://github.com/cblgh/lieu))
 - [Search with typo tolerance (2021)](https://tomekdev.com/posts/search-with-typo-tolerance)
+- [Same Energy](https://same.energy/) - Visual Search Engine.

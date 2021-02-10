@@ -16,3 +16,5 @@
 - [Legal Concepts for Founders](https://handbook.clerky.com/)
 - [CS50 for Lawyers](https://online-learning.harvard.edu/course/cs50-lawyers)
 - [Terms of Service; Didn’t Read](https://tosdr.org/en/frontpage) ([HN](https://news.ycombinator.com/item?id=25714093))
+- [L4: Domain Specific Languages for Computational Law](https://github.com/smucclaw/dsl)
+- [Legalese](https://legalese.com/) - Software is eating law. ([GitHub](https://github.com/legalese))

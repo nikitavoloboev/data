@@ -11,7 +11,7 @@
 - [PipelineDB](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) ([HN](https://news.ycombinator.com/item?id=18717168))
-- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html) ([HN](https://news.ycombinator.com/item?id=18950460))
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/) ([HN](https://news.ycombinator.com/item?id=18950460))
 - [Slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detail logging and assertions for node.js
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Work-in-progress plugin for prettier to support formatting of PostgreSQL-flavour SQL.
@@ -211,3 +211,4 @@
 - [Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses (2021)](https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/) ([HN](https://news.ycombinator.com/item?id=26024719))
 - [PostgreSQL: What is a checkpoint? (2021)](https://www.cybertec-postgresql.com/en/postgresql-what-is-a-checkpoint/)
 - [Cleaning Up Your Postgres Database (2021)](https://info.crunchydata.com/blog/cleaning-up-your-postgres-database)
+- [Deep PostgreSQL Thoughts: The Linux Assassin (2021)](https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin)

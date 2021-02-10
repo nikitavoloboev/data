@@ -82,3 +82,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Zenodo](https://zenodo.org/) - Research. Shared.
 - [Research Taste Exercises (2021)](http://colah.github.io/notes/taste/)
 - [Reflections on 2020 as an independent researcher](https://andymatuschak.org/2020/)
+- [The speed of science (2021)](https://worksinprogress.co/issue/the-speed-of-science/)

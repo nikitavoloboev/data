@@ -142,3 +142,4 @@
 - [Compiler Video Series](https://github.com/bisqwit/compiler_series)
 - [SymQEMU](https://github.com/eurecom-s3/symqemu) - Compilation-based symbolic execution for binaries. ([Web](http://www.s3.eurecom.fr/tools/symbolic_execution/symqemu.html))
 - [Compiler Class (2021)](https://norswap.com/compilers/) ([HN](https://news.ycombinator.com/item?id=26075930))
+- [Toolchains.net](https://www.toolchains.net/) - Collection of toolchain resources.

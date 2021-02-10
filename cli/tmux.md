@@ -19,3 +19,4 @@
 - [Smug](https://github.com/ivaaaan/smug) - Session manager for tmux written in Go.
 - [tmux-panes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider.
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
+- [Zellij](https://github.com/zellij-org/zellij) - Workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer (similar to tmux and screen), but this is merely its infrastructure layer.

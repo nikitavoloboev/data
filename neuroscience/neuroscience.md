@@ -49,6 +49,7 @@
 - [Is neuroscience the key to protecting AI from adversarial attacks? (2020)](https://bdtechtalks.com/2020/12/07/vonenet-neurscience-inspired-deep-learning/)
 - [What is a current debate in neuroscience? (2021)](https://www.reddit.com/r/neuroscience/comments/l2eiro/what_is_a_current_debate_in_neuroscience/)
 - [NeuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
+- [Ion channels explained (2021)](https://www.reddit.com/r/neuroscience/comments/lggrpi/ion_channels/)
 
 ## Images
 

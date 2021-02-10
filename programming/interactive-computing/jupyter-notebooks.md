@@ -105,3 +105,4 @@
 - [Jupyter Notebooks covering various subjects](https://github.com/Naereen/notebooks)
 - [lolviz](https://github.com/parrt/lolviz) - Simple Python data-structure visualization tool for lists of lists, lists, dictionaries; primarily for use in Jupyter notebooks / presentations.
 - [Falsifiable](https://falsifiable.com/) - One-command publishing for Jupyter notebooks.
+- [An SQL Solution for Jupyter (2021)](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925) ([HN](https://news.ycombinator.com/item?id=26083353))

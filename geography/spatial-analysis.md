@@ -52,3 +52,4 @@
 - [Unfolded](https://www.unfolded.ai/) - Geospatial analytics platform for data unification, enrichment, and visualization. ([Introduction](https://www.unfolded.ai/blog/2021-01-12-introducing-studio/))
 - [Mapshaper](https://mapshaper.org/) - Editor for map data. Shapefile, GeoJSON, TopoJSON and CSV files supported. ([Code](https://github.com/mbloch/mapshaper))
 - [Geospatial Cloud Computing & Visualization Course](https://github.com/MUSA-509/course-materials)
+- [OpenStreetMap proven to be a highly accurate map in top US cities (2021)](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) ([HN](https://news.ycombinator.com/item?id=26082428))

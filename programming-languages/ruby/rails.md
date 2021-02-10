@@ -47,3 +47,4 @@
 - [Rails: Postgres Partial Indexing (2021)](https://www.johnnunemaker.com/rails-postgres-partial-indexing/)
 - [Active Record, Postgres, Rails, and time travel (2021)](https://evilmartians.com/chronicles/logidze-1-0-active-record-postgresql-rails-and-time-travel)
 - [Rails PG Extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
+- [Ruby on Rails View Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/02/10/ruby-on-rails-view-patterns-and-anti-patterns.html)
