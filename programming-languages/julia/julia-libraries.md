@@ -208,6 +208,7 @@
 - [TimerOutputs](https://github.com/KristofferC/TimerOutputs.jl) - Formatted output of timed sections in Julia.
 - [Actors.jl](https://github.com/JuliaActors/Actors.jl) - Concurrent computing in Julia with actors.
 - [DaemonMode](https://github.com/dmolina/DaemonMode.jl) - Client-Daemon workflow to run faster scripts in Julia.
+- [CxxWrap](https://github.com/JuliaInterop/CxxWrap.jl) - Package to make C++ libraries available in Julia.
 
 ## Links
 

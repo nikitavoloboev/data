@@ -82,3 +82,4 @@
 - [Visual scraping with Elixir and Crawly (2021)](https://oltarasenko.medium.com/visual-scraping-with-elixir-and-crawly-or-how-to-get-data-without-programming-540222750135)
 - [Headless Chrome Crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome.
 - [Tips for reliable web automation and scraping selectors (2021)](https://medium.com/brick-by-brick/7-bite-sized-tips-for-reliable-web-automation-and-scraping-selectors-2612bc4de2a1) ([HN](https://news.ycombinator.com/item?id=25993258))
+- [Web Crawler for scraping Financial data](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis) ([Article](https://medium.com/datadriveninvestor/build-a-web-crawler-that-scrapes-stock-fundamentals-in-python-e2d4af56398))

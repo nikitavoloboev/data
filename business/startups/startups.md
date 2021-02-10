@@ -259,6 +259,8 @@
 - [My 2 Year Journey to $10K MRR (2021)](https://www.bannerbear.com/journey-to-10k-mrr/) ([HN](https://news.ycombinator.com/item?id=25929259))
 - [50 Questions to Find a Co-Founder and a Startup Idea](https://firstround.com/review/the-founder-dating-playbook-heres-the-process-i-used-to-find-my-co-founder/)
 - [The Relentless Jeff Bezos (2021)](https://stratechery.com/2021/the-relentless-jeff-bezos/) ([HN](https://news.ycombinator.com/item?id=26013953))
+- [8 things startups can do early on to optimize for focus & productivity (2021)](https://twitter.com/_shahedk/status/1359237833605619712)
+- [Startup advice that nobody tells you (2021)](https://twitter.com/sairaxashraf/status/1359007547655524355)
 
 ## Images
 

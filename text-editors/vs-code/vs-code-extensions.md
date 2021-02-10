@@ -155,6 +155,7 @@ Below is a list of extensions I use.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
 - [edamagit](https://marketplace.visualstudio.com/items?itemName=kahole.magit) - Magit for VSCode, inspired by the awesome original Magit. ([Code](https://github.com/kahole/edamagit))
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph. ([Code](https://github.com/mhutchie/vscode-git-graph))
 
 ## JS/TS
 

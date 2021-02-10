@@ -159,3 +159,4 @@
 - [Implementing Raft's Leader Election in Rust (2021)](http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/)
 - [Effective Fallbacks (2020)](https://raasahsan.com/posts/effective-fallbacks/)
 - [Ask HN: Recommended books and papers on distributed systems? (2021)](https://news.ycombinator.com/item?id=25987664)
+- [Raft implementation in Rust language](https://github.com/akiradeveloper/lol)

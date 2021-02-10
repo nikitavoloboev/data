@@ -4,7 +4,7 @@
 
 - [TLA+ guide](https://learntla.com/introduction/) ([HN](https://news.ycombinator.com/item?id=19661329))
 - [tla+rust](https://github.com/spacejam/tla-rust) - Writing correct lock-free and distributed stateful systems in Rust, assisted by TLA+.
-- [Practical TLA+ by Hillel Wayne (2018)](https://lamport.azurewebsites.net/tla/practical-tla.html?back-link=learning.html)
+- [Practical TLA+ by Hillel Wayne (2018)](https://lamport.azurewebsites.net/tla/practical-tla.html?back-link=learning.html) ([Code](https://github.com/Apress/practical-tla-plus))
 - [Using TLA+ for fun and profit in the development of Elasticsearch - Yannick Welsch (2019)](https://www.youtube.com/watch?v=qYDcbcOVurc) ([HN](https://news.ycombinator.com/item?id=21003470))
 - [TLA+ model checking made symbolic (2019)](https://blog.acolyer.org/2019/11/29/tla-model-checking-made-symbolic/) ([HN](https://news.ycombinator.com/item?id=21662484))
 - [The TLA+ Toolbox (2019)](https://arxiv.org/abs/1912.10633)
@@ -19,3 +19,5 @@
 - [Modeling TLA+ in Z3Py (2020)](https://www.philipzucker.com/Modelling_TLA_in_z3py/)
 - [Weeks of Debugging Can Save You Hours of TLA+ (2020)](https://www.youtube.com/watch?v=wjsI0lTSjIo)
 - [TLA+ Community Modules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community.
+- [TLC](https://github.com/tlaplus/tlaplus) - Explicit state model checker for specifications written in TLA+.
+- [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)

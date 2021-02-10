@@ -339,6 +339,7 @@
 - [dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
 - [DataPrep](https://github.com/sfu-db/dataprep) - Lets you prepare your data using a single library with a few lines of code.
 - [Reloadr](https://github.com/hoh/reloadr) - Hot code reloading tool for Python.
+- [SimFin](https://github.com/SimFin/simfin) - Simple financial data for Python. ([Web](https://simfin.com/))
 
 ## Links
 

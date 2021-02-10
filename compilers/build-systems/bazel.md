@@ -26,3 +26,4 @@
 - [What happened at Bazelcon 2020](https://www.gasparevitta.com/posts/what-happened-at-bazelcon-2020/)
 - [bazel-remote](https://github.com/buchgr/bazel-remote) - Remote build cache for Bazel.
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Library of Starlark functions for manipulating collections, file paths, and various other data types in the domain of Bazel build rules.
+- [Bazel Container Image Rules](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel.
