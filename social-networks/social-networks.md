@@ -90,3 +90,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Hypergrowth Network](https://www.basisset.ventures/hypergrowth-network) - Get advice from the best go-to-market leaders in tech.
 - [CTZN](https://github.com/pfrazee/ctzn) - Distributed social network. Twitter-style feed and posts.
 - [FeoBlog](https://github.com/NfNitLoop/feoblog) - Distributed blogging platform. It takes a lot of its inspiration from Mastodon and Scuttlebutt.
+- [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas) ([HN](https://news.ycombinator.com/item?id=26081672))

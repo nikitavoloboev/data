@@ -35,3 +35,4 @@
 - [Extending C with Zig](https://www.nmichaels.org/zig/c-library.html)
 - [Why Zig when there is already C++, D, and Rust?](https://ziglang.org/learn/why_zig_rust_d_cpp/) ([HN](https://news.ycombinator.com/item?id=25797025))
 - [Zig Makes Go Cross Compilation Just Work (2021)](https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho) ([Lobsters](https://lobste.rs/s/4dejov/zig_makes_go_cross_compilation_just_work))
+- [ziglings](https://github.com/ratfactor/ziglings) - Self-contained series of exercises for learning the Zig programming language.

@@ -191,4 +191,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Get notified when a file on GitHub has changed (2021)](https://blog.mastykarz.nl/get-notified-file-github-changed/)
 - [Awesome READMEs](https://github.com/leogdion/AWESOME-AWESOME-README)
 - [HN: Open-source, not open-contribution (2021)](https://news.ycombinator.com/item?id=25940195)
-- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [GitHub1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. ([HN](https://news.ycombinator.com/item?id=26083919))

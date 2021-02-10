@@ -255,3 +255,4 @@
 - [Constant Folding in Python (2021)](https://arpitbhayani.me/blogs/constant-folding-python)
 - [You don't really need a virtualenv (2021)](https://frostming.com/2021/01-22/introducing-pdm/) ([HN](https://news.ycombinator.com/item?id=26020732))
 - [Homebrew Python Is Not For You (2021)](https://justinmayer.com/posts/homebrew-python-is-not-for-you/) ([Lobsters](https://lobste.rs/s/vhfoga/homebrew_python_is_not_for_you)) ([HN](https://news.ycombinator.com/item?id=26017852))
+- [Pattern matching accepted for Python (2021)](https://lwn.net/Articles/845480/) ([HN](https://news.ycombinator.com/item?id=26080760))

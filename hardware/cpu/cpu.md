@@ -79,3 +79,4 @@
 - [Corellium](https://corellium.com/) - ARM Device Virtualization. ([GitHub](https://github.com/corellium))
 - [Siliconpr0n: High Resolution Chip Maps](https://siliconpr0n.org/map/) ([HN](https://news.ycombinator.com/item?id=25964865))
 - [Fritzchens Fritz's Albums](https://www.flickr.com/photos/130561288@N04/albums) - Gorgeous high resolution die shots of (mostly) modern chips.
+- [Lobsters: How much are non x86/arm platforms used? (2021)](https://lobste.rs/s/79plp4/how_much_are_non_x86_arm_platforms_used)

@@ -37,3 +37,4 @@
 - [Snapandgo](https://github.com/geeksonsecurity/snapandgo) - {golang, ptrace, snapshot}-based fuzzer.
 - [Honggfuzz](https://github.com/google/honggfuzz) - Security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options. ([Web](https://honggfuzz.dev/))
 - [How to Spot Good Fuzzing Research (2018)](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)
+- [Browser fuzzing at Mozilla (2021)](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=26080578))

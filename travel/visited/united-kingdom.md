@@ -23,3 +23,4 @@
 - [Brexit Deal Visualization & Exploration tool](https://brexit.bald.archi/#infobox)
 - [Brexit Reality (2021)](https://twitter.com/rdanielkelemen/status/1348964732104007680)
 - [Weird things about living in UK (2021)](https://twitter.com/jesslynnrose/status/1357329669981413376)
+- [The Queen has more power over British law than we thought (2021)](https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent) ([HN](https://news.ycombinator.com/item?id=26081208))

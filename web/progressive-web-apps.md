@@ -17,3 +17,4 @@
 - [a2hs.js](https://github.com/koddr/a2hs.js) - Add progressive web application (PWA) to Home Screen on iOS.
 - [Progressive Web Apps in 2021](https://firt.dev/pwa-2021)
 - [PWA Badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps.
+- [Pep](https://pep.dev/) - Turn your site into a fast, installable Progressive Web App (PWA). ([HN](https://news.ycombinator.com/item?id=26080935))

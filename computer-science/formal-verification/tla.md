@@ -18,3 +18,4 @@
 - [TLA+ Community Event & Conference](http://conf.tlapl.us/home/)
 - [Modeling TLA+ in Z3Py (2020)](https://www.philipzucker.com/Modelling_TLA_in_z3py/)
 - [Weeks of Debugging Can Save You Hours of TLA+ (2020)](https://www.youtube.com/watch?v=wjsI0lTSjIo)
+- [TLA+ Community Modules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community.

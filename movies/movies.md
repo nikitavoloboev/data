@@ -31,4 +31,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Recently watched movie you cannot stop thinking about (2020)](https://twitter.com/letterboxd/status/1334708381261565953)
 - [Mind-bending movies (2020)](https://www.reddit.com/r/MovieSuggestions/comments/kkdrj4/mindbending_movies_similar_to/)
 - [Film School Rejects](https://filmschoolrejects.com/) - Movies, TV, Culture.
-- [More Classic Movies to Watch](https://www.the-classic-movies.com/)
+- [Collection of Classic Movies](https://www.the-classic-movies.com/)

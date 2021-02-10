@@ -13,3 +13,4 @@
 - [Great reads to learn cognitive sciences (2021)](https://www.reddit.com/r/cogsci/comments/kuz4h7/i_want_to_study_cognitive_sciences_in_the_future/)
 - [Brainiac](https://kickstartsidehustle.com/brainiac/) - Database of 150 cognitive biases that control our decisions.
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) ([Tweet](https://twitter.com/hunterwalk/status/1353109998713229317))
+- [Thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you) ([HN](https://news.ycombinator.com/item?id=26081880))

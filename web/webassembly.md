@@ -137,3 +137,4 @@
 - [Fizzy](https://github.com/wasmx/fizzy) - Fast, deterministic, and pedantic WebAssembly interpreter written in C++.
 - [WebAssembly in Action Book (2019)](https://www.manning.com/books/webassembly-in-action) - With examples using C++ and Emscripten. ([Code](https://github.com/cggallant/WebAssembly-in-Action))
 - [WebAssembly WASI Experiments](https://github.com/topheman/webassembly-wasi-experiments)
+- [WAGI: WebAssembly Gateway Interface](https://github.com/deislabs/wagi)

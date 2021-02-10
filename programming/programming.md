@@ -329,3 +329,5 @@
 - [Developers spend most of their time figuring the system out](https://blog.feenk.com/developers-spend-most-of-their-time-figuri-7aj1ocjhe765vvlln8qqbuhto/) ([HN](https://news.ycombinator.com/item?id=25939122))
 - [The Elements of Computing Systems, Second Edition (2021)](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) ([HN](https://news.ycombinator.com/item?id=26036790))
 - [Programming for Cats](https://programmingforcats.com/) - Book written specially for cats who want to program. ([HN](https://news.ycombinator.com/item?id=26047238))
+- [Debugging stories](http://danluu.com/teach-debugging/) - Collection of debugging stories.
+- [Teach debugging](http://danluu.com/teach-debugging/)

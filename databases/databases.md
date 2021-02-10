@@ -295,3 +295,4 @@
 - [Kalavar](https://kalavar.cf/) - Project attempting to bring a fast, efficient, secure, and asynchronous query model to the modern database system. ([GitHub](https://github.com/KalavarDB))
 - [But how, exactly, databases use mmap? (2021)](https://brunocalza.me/but-how-exactly-databases-use-mmap/) ([Lobsters](https://lobste.rs/s/9ukket/how_exactly_databases_use_mmap))
 - [Building a personal data warehouse in Snowflake for fun and no profit (2021)](https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit) ([HN](https://news.ycombinator.com/item?id=25978000))
+- [ProxySQL](https://github.com/sysown/proxysql) - High performance, high availability, protocol aware proxy for MySQL and forks (like Percona Server and MariaDB).

@@ -72,3 +72,4 @@
 - [Twitter Birdwatch Guide](https://twitter.github.io/birdwatch/) ([Code](https://github.com/twitter/birdwatch))
 - [Twitter improves API usage for researchers (2021)](https://blog.twitter.com/developer/en_us/topics/tips/2021/enabling-the-future-of-academic-research-with-the-twitter-api.html) ([HN](https://news.ycombinator.com/item?id=25927803))
 - [Twitter’s Birdwatch is Fundamentally Flawed (2021)](https://soatok.blog/2021/01/27/twitters-birdwatch-is-fundamentally-flawed/)
+- [Spoonbill](http://spoonbill.io/) - See profile changes from the people you follow on Twitter or other social networks.

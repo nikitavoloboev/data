@@ -185,3 +185,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS.
 - [LRT](https://github.com/dfilatov/lrt) - Scheduler for long-running tasks inside browsers and Node.JS.
 - [ReactXpress](https://github.com/gigantz/react-xpress) - React renderer to build Node.js server.
+- [Node.js 14 is over 20x faster than Python3.8 for fib(n)](https://jott.live/markdown/nodejs_vs_python_) ([HN](https://news.ycombinator.com/item?id=26079570))
