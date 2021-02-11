@@ -108,3 +108,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Definitive DIY Guide to Beautiful Product Photography (2020)](https://www.shopify.ca/blog/12206313-the-ultimate-diy-guide-to-beautiful-product-photography)
 - [Ask HN: Which camera do you own? Do you like it? (2021)](https://news.ycombinator.com/item?id=25848536)
 - [Filmulator](https://github.com/CarVac/filmulator-gui) - Simplified raw editing with the power of film. ([HN](https://news.ycombinator.com/item?id=25885760))
+- [Winners of the 2021 Underwater Photographer of the Year Contest](https://www.theatlantic.com/photo/2021/02/winners-2021-underwater-photographer-year-contest/617963/)
