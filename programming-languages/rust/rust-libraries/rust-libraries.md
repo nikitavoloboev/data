@@ -716,6 +716,8 @@
 - [treediff-rs](httops://github.com/Byron/treediff-rs) - Library to compare arbitrary structured data of the same type, efficiently.
 - [replace_with](https://github.com/alecmocatta/replace_with) - Temporarily take ownership of a value at a mutable location, and replace it with a new value based on the old one.
 - [Moka](https://github.com/moka-rs/moka) - Fast, concurrent cache library for Rust.
+- [nonblockinghashmap](https://github.com/rlei/nonblockinghashmap) - Non-blocking hash map in Rust.
+- [thread_io](https://github.com/markschl/thread_io) - Rust crate for performing I/O in background thread.
 
 ## Cargo Plugins
 

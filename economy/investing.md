@@ -152,3 +152,4 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale. ([Docs](https://polakowo.io/vectorbt/docs/index.html))
 - [MachineLearningStocks](https://github.com/robertmartin8/MachineLearningStocks) - Using python and scikit-learn to make stock predictions.
 - [Algorithmic Trading with Python (2020)](https://github.com/chrisconlan/algorithmic-trading-with-python)
+- [CheaperThanGuru](https://cheaperthanguru.com/) - Analyze Portfolios of Investment Gurus.

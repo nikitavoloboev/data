@@ -14,6 +14,7 @@
 - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Minimal-state, immediate-mode graphical user interface toolkit written in ANSI C.
 - [Pugl](https://github.com/lv2/pugl) - Minimal portable API for embeddable GUIs.
 - [PlutoVG](https://github.com/sammycage/plutovg) - Standalone 2D vector graphics library in C.
+- [VUI](https://github.com/heroseh/vui) - Immediate UI library for C, designed to be easy to use & customizable.
 
 ## Graphics
 
