@@ -69,3 +69,4 @@
 - [Deploying a LoRaWAN network server on Azure (2021)](https://blog.benjamin-cabe.com/2020/12/01/deploying-a-lorawan-network-server-on-azure)
 - [Eveything you need to know about LoRaWAN in 60 minutes - Johan Stokking (2021)](https://www.youtube.com/watch?v=ZsVhYiX4_6o)
 - [Economical LoRa nodes (2021)](https://www.reddit.com/r/Lora/comments/lenh3s/looking_for_economical_lora_node/)
+- [LoRaWAN library for compatible Arduino board](https://github.com/BeelanMX/Beelan-LoRaWAN)

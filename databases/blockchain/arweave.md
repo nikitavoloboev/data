@@ -20,3 +20,4 @@
 - [ArVerify](https://arverify.org/) - Trusted verification for the Arweave network. ([GitHub](https://github.com/ArVerify))
 - [Weve](https://weve.email/) - Decentralized mail system, running on the Arweave network. ([Code](https://github.com/anish-agnihotri/weve))
 - [arGQL](https://github.com/johnletey/arGQL) - JavaScript/TypeScript package that makes interaction with the Arweave GraphQL endpoint simple and easy.
+- [Arweave Gateway](https://github.com/ArweaveTeam/gateway)
