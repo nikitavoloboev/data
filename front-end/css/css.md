@@ -260,3 +260,4 @@
 - [CSS: prefers-color-scheme (2021)](https://3fx.ch/blog/2021/01/27/css-prefers-color-scheme/)
 - [How to select elements that are not children of other elements in CSS (2021)](https://www.stefanjudis.com/snippets/how-to-select-elements-that-are-not-children-of-other-elements-in-css/)
 - [Things You Can Do With CSS Today (2021)](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
+- [Meanderer](https://github.com/jh3y/meanderer) - Micro-library for scaling CSS motion path strings.

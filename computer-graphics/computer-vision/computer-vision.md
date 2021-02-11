@@ -222,3 +222,4 @@
 - [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
 - [D2Det: Towards High Quality Object Detection and Instance Segmentation (2020)](https://github.com/JialeCao001/D2Det)
 - [DetCo: Unsupervised Contrastive Learning for Object Detection (2021)](https://arxiv.org/abs/2102.04803) ([Code](https://github.com/xieenze/DetCo))
+- [Computer Vision Video Lectures](https://github.com/kuzand/Computer-Vision-Video-Lectures) - Curated list of free, high-quality, university-level courses with video lectures related to the field of Computer Vision.
