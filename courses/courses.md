@@ -34,3 +34,4 @@
 - [Most of the time, we don’t really need another MOOC (2021)](https://eugeneyan.com/writing/you-dont-need-another-mooc/) ([HN](https://news.ycombinator.com/item?id=25931498))
 - [Classpert](https://classpert.com/) - Find and compare courses from multiple providers.
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications.
+- [90+ free courses (2021)](https://custom-writing.org/blog/free-online-courses)

@@ -58,3 +58,4 @@
 - [Ruby Reference](https://rubyreferences.github.io/rubyref/) - Ruby Programming Language Reference. ([Code](https://github.com/rubyreferences/rubyref))
 - [Ractors (2021)](https://brandur.org/nanoglyphs/018-ractors)
 - [Diffy](https://github.com/samg/diffy) - Easy Diffing With Ruby.
+- [Why Wasn't Ruby 3 Faster? (2021)](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html) ([HN](https://news.ycombinator.com/item?id=26096340))

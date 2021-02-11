@@ -225,7 +225,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [The Comprehensive Guide to iOS Context Menus (2019)](https://kylebashour.com/posts/context-menu-guide)
 - [WWDC20 Sample Code](https://developer.apple.com/wwdc20/sample-code/)
 - [iOS Background Execution Demystified (2020)](https://twitter.com/mousiechika/status/1276620696731504640)
-- [Stanford Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+- [Stanford Developing Apps for iOS](https://cs193p.sites.stanford.edu/) ([HN](https://news.ycombinator.com/item?id=26091085))
 - [Tokens](https://gikken.co/tokens/) - Better-in-every-way replacement for App Store Connect. Blazing fast promo codes. Amazingly user-friendly.
 - [Intercom for iOS](https://github.com/intercom/intercom-ios) - Integrating Intercom into your iOS application.
 - [Sim Genie](https://simgenie.app/) - Unlock the simulator’s hidden power-ups.

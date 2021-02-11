@@ -26,3 +26,4 @@
 - [CI and End to End Testing: Cypress Percy CircleCI (2021)](https://medium.com/diffgram/implementing-a-ci-system-with-e2e-testing-using-cypress-percy-and-circleci-246b50be466c)
 - [cypress-react-selector](https://github.com/abhinaba-ghosh/cypress-react-selector) - Cypress plugin to locate react elements by component, props and state.
 - [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison (2021)](https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/)
+- [cypress-websocket-testing](https://github.com/lensesio/cypress-websocket-testing) - Test your WebSocket endpoints using Cypress.
