@@ -20,6 +20,7 @@
 - [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 - [HexaPDF](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby.
 - [Scientist](https://github.com/github/scientist) - Ruby library for carefully refactoring critical paths.
+- [Whenever](https://github.com/javan/whenever) - Ruby gem that provides a clear syntax for writing and deploying cron jobs.
 
 ## Links
 

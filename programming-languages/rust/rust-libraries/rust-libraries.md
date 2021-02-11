@@ -718,6 +718,7 @@
 - [Moka](https://github.com/moka-rs/moka) - Fast, concurrent cache library for Rust.
 - [nonblockinghashmap](https://github.com/rlei/nonblockinghashmap) - Non-blocking hash map in Rust.
 - [thread_io](https://github.com/markschl/thread_io) - Rust crate for performing I/O in background thread.
+- [LRU Cache](https://github.com/jeromefroe/lru-rs) - Implementation of a LRU cache in Rust.
 
 ## Cargo Plugins
 
