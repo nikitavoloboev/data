@@ -9,7 +9,7 @@
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python. ([Article](https://engineering.fb.com/security/pysa/))
 - [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
-- [WTF Python](https://github.com/satwikkansal/wtfpython)
+- [WTF Python](https://github.com/satwikkansal/wtfpython) - Exploring and understanding Python through surprising snippets. ([HN](https://news.ycombinator.com/item?id=26097732))
 - [My Python Development Environment, 2020 Edition (2019)](https://jacobian.org/2019/nov/11/python-environment-2020/) ([HN](https://news.ycombinator.com/item?id=21510262))
 - [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)

@@ -193,3 +193,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [you-tldr](https://you-tldr.com/) - Easy-to-read transcripts of YouTube videos. ([HN](https://news.ycombinator.com/item?id=26048946))
 - [Plyr](https://plyr.io/) - Simple HTML5, YouTube and Vimeo player. ([Code](https://github.com/sampotts/plyr))
 - [Remotion](https://www.remotion.dev/) - Create videos programmatically in React. ([Code](https://github.com/JonnyBurger/remotion))
+- [Shrink my video](https://acailly.github.io/shrink-my-video/) - Upload your video then get a smaller one, easy. ([Code](https://github.com/acailly/shrink-my-video/))

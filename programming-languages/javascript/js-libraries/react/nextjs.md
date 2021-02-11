@@ -151,3 +151,4 @@
 - [React Server Components in Next.js](https://github.com/vercel/next-server-components)
 - [Next.js Incremental Static Regeneration with SWR](https://github.com/joe-bell/example-next-isr-with-swr) - Lightning fast static pages with ISR, instantly updated with SWR.
 - [Updating Static Next.js Pages Instantly (2021)](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
+- [Bedrock](https://bedrock.mxstbr.com/) - Modern full-stack Next.js & GraphQL boilerplate.

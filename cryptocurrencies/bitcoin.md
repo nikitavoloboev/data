@@ -117,3 +117,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin Resources](https://bitcoin-resources.com/)
 - [21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](https://21lessons.com/)
 - [Mempool](https://mempool.space/) - Bitcoin block explorer, mempool visualizer, transaction tracker, and fee estimator. ([Code](https://github.com/mempool/mempool))
+- [Bitcoin and Pollution – The Definitive Answer (2021)](https://simon.medium.com/bitcoin-and-pollution-the-definitive-answer-a010b0826f2a) ([HN](https://news.ycombinator.com/item?id=26099530))

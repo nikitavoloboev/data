@@ -70,3 +70,4 @@
 - [FunQy](https://github.com/rvanasa/funqy) - High-level hybrid quantum programming language.
 - [quantum](https://github.com/littledivy/quantum) - Quantum Circuit Simulator in Go.
 - [Quirk](https://algassert.com/quirk) - Quantum Circuit Simulator. ([Code](https://github.com/Strilanc/Quirk))
+- [Yao](https://yaoquantum.org/) - Extensible, Efficient Quantum Algorithm Design For Humans. ([Code](https://github.com/QuantumBFS/Yao.jl))
