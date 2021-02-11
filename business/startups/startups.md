@@ -261,6 +261,7 @@
 - [The Relentless Jeff Bezos (2021)](https://stratechery.com/2021/the-relentless-jeff-bezos/) ([HN](https://news.ycombinator.com/item?id=26013953))
 - [8 things startups can do early on to optimize for focus & productivity (2021)](https://twitter.com/_shahedk/status/1359237833605619712)
 - [Startup advice that nobody tells you (2021)](https://twitter.com/sairaxashraf/status/1359007547655524355)
+- [Ask HN: Startup employees getting nothing after acquisition, is this normal? (2021)](https://news.ycombinator.com/item?id=26098882)
 
 ## Images
 
