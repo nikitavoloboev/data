@@ -55,3 +55,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Алексей Навальный — главный оппозиционный политик России (2021)](https://meduza.io/feature/2021/02/05/aleksey-navalnyy-glavnyy-oppozitsionnyy-politik-rossii-i-glavnyy-politzaklyuchennyy-posmotrite-kak-on-k-etomu-shel-fotografii)
 - [Как при Путине хорошее стало плохим (2021)](https://www.youtube.com/watch?v=kg5e3wt5p70)
 - [The Evolution of Russian Hybrid Warfare (2021)](https://cepa.org/wp-content/uploads/2021/01/CEPA-Hybrid-Warfare-1.28.21.pdf)
+- [Алё, гараж! Десяткам миллионов американцев нечего жрать! Новый этический рейх (2021)](https://www.youtube.com/watch?v=ZgOKZn6k86g)

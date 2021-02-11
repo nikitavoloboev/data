@@ -60,3 +60,4 @@
 - [JerryScript](https://github.com/jerryscript-project/jerryscript) - JavaScript engine for the Internet of Things. ([Web](https://jerryscript.net/))
 - [balena](https://www.balena.io/) - Complete IoT fleet management platform. ([GitHub](https://github.com/balenalabs))
 - [FieldKit](https://www.fieldkit.org/) - Friendly, reliable, low-cost tools to monitor and advocate for the world around you.
+- [AI on the edge device](https://github.com/jomjol/AI-on-the-edge-device) - Example of Artificial Intelligence (AI) calculations on a very cheap hardware.

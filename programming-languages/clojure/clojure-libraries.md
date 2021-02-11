@@ -63,6 +63,7 @@
 - [mount](https://github.com/tolitius/mount) - Managing Clojure and ClojureScript app state.
 - [3DF](https://github.com/sixthnormal/clj-3df) - pub/sub system in which subscriptions can be arbitrary Datalog expressions.
 - [Context](https://github.com/redstarssystems/context) - Library designed to manage system state.
+- [byte-streams](https://github.com/clj-commons/byte-streams) - Rosetta stone for all the byte representations Java has to offer.
 
 ## Links
 
