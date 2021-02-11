@@ -40,3 +40,4 @@
 - [Centralisation Is a Danger to Democracy (2021)](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy) ([HN](https://news.ycombinator.com/item?id=25828081))
 - [HN: What is Socialism? (2020)](https://news.ycombinator.com/item?id=25961455)
 - [The State of Democracy (2020)](https://pages.eiu.com/rs/753-RIQ-438/images/democracy-index-2020.pdf)
+- [democracyData](https://xmarquez.github.io/democracyData/) - Access and manipulate most available democracy datasets. ([Code](https://github.com/xmarquez/democracyData))
