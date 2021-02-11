@@ -78,7 +78,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Home network recommendations? (2020)](https://lobste.rs/s/bxvg76/home_network_recommendations)
 - [nmap](https://github.com/nmap/nmap) - Network Mapper.
 - [How Tailscale works (2020)](https://tailscale.com/blog/how-tailscale-works/) ([HN](https://news.ycombinator.com/item?id=22644357))
-- [Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/) ([HN](https://news.ycombinator.com/item?id=26100075)) ([Code](https://github.com/beejjorgensen/bgnet))
+- [Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/) ([HN](https://news.ycombinator.com/item?id=26100075)) ([Code](https://github.com/beejjorgensen/bgnet))
 - [Unix Network Programming](https://www.goodreads.com/book/show/26850562-unix-network-programming)
 - [Wireshark](https://www.wireshark.org/) - World’s foremost and widely-used network protocol analyzer.
 - [What resources would you recommend to learn socket programming? (2020)](https://lobste.rs/s/mjhquc/what_resources_would_you_recommend_learn)

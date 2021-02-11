@@ -130,4 +130,4 @@
 - [How does Clang 2.7 hold up in 2021?](https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6) ([HN](https://news.ycombinator.com/item?id=25976855))
 - [Developing mathematical software in C (2021)](https://fredrikj.net/blog/2021/01/developing-mathematical-software-in-c/)
 - [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/) ([HN](https://news.ycombinator.com/item?id=26085373))
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/) ([Code](https://github.com/beejjorgensen/bgc))
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) ([Code](https://github.com/beejjorgensen/bgc))
