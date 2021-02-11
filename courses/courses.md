@@ -35,3 +35,4 @@
 - [Classpert](https://classpert.com/) - Find and compare courses from multiple providers.
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications.
 - [90+ free courses (2021)](https://custom-writing.org/blog/free-online-courses)
+- [Next.js Template for Interactive Courses](https://github.com/scastiel/nextjs-course-template)

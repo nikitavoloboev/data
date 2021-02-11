@@ -88,6 +88,7 @@
 - [Comment on PR via GitHub Action](https://github.com/unsplash/comment-on-pr) - GitHub action to comment on the relevant open PR when a commit is pushed.
 - [GitHub Actions for deploying to Azure Functions](https://github.com/Azure/functions-action)
 - [GitHub Action for Azure CLI](https://github.com/Azure/cli)
+- [Workflow Conclusion Action](https://github.com/technote-space/workflow-conclusion-action) - GitHub action to get workflow conclusion.
 
 ## Go
 
