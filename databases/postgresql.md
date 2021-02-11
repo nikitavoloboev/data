@@ -212,3 +212,4 @@
 - [PostgreSQL: What is a checkpoint? (2021)](https://www.cybertec-postgresql.com/en/postgresql-what-is-a-checkpoint/)
 - [Cleaning Up Your Postgres Database (2021)](https://info.crunchydata.com/blog/cleaning-up-your-postgres-database)
 - [Deep PostgreSQL Thoughts: The Linux Assassin (2021)](https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin)
+- [pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss.

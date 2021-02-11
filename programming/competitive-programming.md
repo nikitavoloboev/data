@@ -28,3 +28,4 @@
 - [Competitive programming solutions in C++](https://github.com/omonimus1/competitive-programming)
 - [Solutions to Competitive Programming problems](https://github.com/abeaumont/competitive-programming)
 - [Programming Challenges](https://github.com/michelbernardods/programming-challenges) - Data structures and algorithms. Programming challenges and competitions to improve knowledge.
+- [Data Structures and Algorithms for Competitive Programming](https://github.com/manishbisht/Competitive-Programming)

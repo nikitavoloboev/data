@@ -149,3 +149,6 @@ I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
 - [Ticker](https://github.com/achannarasappa/ticker) - Terminal stock watcher and stock position tracker.
 - [People Are Worried About Payment for Order Flow (2021)](https://www.bloomberg.com/opinion/articles/2021-02-05/robinhood-gamestop-saga-pressures-payment-for-order-flow)
 - [Reddit Stock Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit.
+- [vectorbt](https://github.com/polakowo/vectorbt) - Python library for backtesting and analyzing trading strategies at scale. ([Docs](https://polakowo.io/vectorbt/docs/index.html))
+- [MachineLearningStocks](https://github.com/robertmartin8/MachineLearningStocks) - Using python and scikit-learn to make stock predictions.
+- [Algorithmic Trading with Python (2020)](https://github.com/chrisconlan/algorithmic-trading-with-python)

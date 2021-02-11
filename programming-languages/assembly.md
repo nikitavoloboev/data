@@ -29,3 +29,4 @@
 - [Apple M1 Assembly Language Hello World (2021)](https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/) ([HN](https://news.ycombinator.com/item?id=25786236))
 - [AMIE](https://github.com/NeatMonster/AMIE) - Minimalist Instruction Extender for the ARM architecture and IDA Pro.
 - [PLASMA](https://github.com/dschmenk/PLASMA) - Medium level programming language targeting the 8-bit 6502 processor.
+- [Babbage was a true genius (2006)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BBabbage%20was%20a%20true%20genius%5D%5D)
