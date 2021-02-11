@@ -153,3 +153,4 @@
 - [Updating Static Next.js Pages Instantly (2021)](https://joebell.co.uk/blog/updating-static-next-js-pages-instantly)
 - [Bedrock](https://bedrock.mxstbr.com/) - Modern full-stack Next.js & GraphQL boilerplate.
 - [next-gen](https://github.com/biowaffeln/next-gen) - Next.js Codebase Generator.
+- [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments)
