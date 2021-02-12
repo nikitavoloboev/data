@@ -181,6 +181,7 @@
 - [FBGEMM](https://github.com/pytorch/FBGEMM) - Low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference.
 - [Cista++](https://github.com/felixguendling/cista) - Simple C++ Serialization & Reflection. ([Web](https://cista.rocks/))
 - [Memkind](https://github.com/memkind/memkind) - User extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory. ([Web](http://memkind.github.io/memkind/))
+- [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
 
 ## Links
 

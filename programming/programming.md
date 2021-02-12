@@ -332,3 +332,4 @@
 - [Debugging stories](http://danluu.com/teach-debugging/) - Collection of debugging stories.
 - [Teach debugging](http://danluu.com/teach-debugging/)
 - [Understanding Computation Book](https://computationbook.com/) - Fun and interesting book about computation theory, with explanations written in real Ruby code instead of mathematical notation. ([Code](https://github.com/mjftw/clojure-simple-lang))
+- [Applied Compositional Thinking for Engineers](https://applied-compositional-thinking.engineering/lectures/)

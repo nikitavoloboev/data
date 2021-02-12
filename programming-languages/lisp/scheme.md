@@ -42,3 +42,4 @@
 - [Sin's Scheme Compiler](https://github.com/sinistersnare/SinScheme) - Mostly working compiler from some non-standards compliant Scheme to LLVM IR. Written for a compilers class.
 - [QSCM - A tiny bootstrapped Scheme](https://c9x.me/qscm/)
 - [Tehila](https://github.com/sgrove/tehila) - 3D engine for Scheme.
+- [steel](https://github.com/mattwparas/steel) - Embedded scheme interpreter in Rust.

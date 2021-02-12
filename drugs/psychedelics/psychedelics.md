@@ -102,3 +102,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Psychedelics are a waste of life (2021)](https://scottlocklin.wordpress.com/2021/01/17/psychedelics-are-a-waste-of-life/)
 - [Alien Information Theory: Psychedelic Drug Technologies and the Cosmic Game (2019)](https://ru.b-ok2.org/book/5008504/e64f0a)
 - [How ecstasy and psilocybin are shaking up psychiatry (2021)](https://www.nature.com/articles/d41586-021-00187-9) ([HN](https://news.ycombinator.com/item?id=25973844))
+- [Which myth about psychedelics would you like to bust? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lgs0xm/which_myth_about_psychedelics_would_you_like_to/)

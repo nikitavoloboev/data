@@ -70,3 +70,4 @@
 - [Easol](https://easol.com/) - Sell travel and experiences online.
 - [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites (2019)](https://webtransparency.cs.princeton.edu/dark-patterns/) ([HN](https://news.ycombinator.com/item?id=25968531))
 - [Gatsby Starter Shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart.
+- [Flagship](https://github.com/brandingbrand/flagship) - Accelerates development of the best omnichannel commerce experiences by providing a library of pre-built components and integrations.

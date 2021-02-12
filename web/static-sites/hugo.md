@@ -33,6 +33,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Er](https://github.com/lingxz/er) - Configurable blog theme for Hugo.
 - [TeXify](https://github.com/queensferryme/hugo-theme-texify) - Minimal, latex-style hugo theme for personal blogging.
 - [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) - Accessibility-friendly Hugo theme.
+- [Tufte Hugo Theme](https://github.com/shawnohare/hugo-tufte)
 
 ## Examples
 
