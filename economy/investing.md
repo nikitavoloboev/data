@@ -1,6 +1,6 @@
 # Investing
 
-I invest in stocks/ETFs using [Trading 212](https://www.trading212.com/).
+I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebrokers.co.uk/en/home.php) & [Trading 212](https://www.trading212.com/).
 
 ## Notes
 
