@@ -11,3 +11,4 @@
 - [Born to Die - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=uy53wVs0u6U)
 - [Serial Killer - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=tNUzrI9iEZM)
 - [Art Deco - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=xHUhQHt9DaM)
+- [Viva La Vida - Coldplay (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=2_uDzzOb5po)

@@ -50,3 +50,4 @@
 - [Demystifying SEO with experiments (2015)](https://medium.com/pinterest-engineering/demystifying-seo-with-experiments-a183b325cf4c)
 - [My Google Traffic Has Fallen to Zero (2020)](https://www.goodcheapandfast.com/2020) ([HN](https://news.ycombinator.com/item?id=25640217))
 - [Google SEO General Guidelines (2020)](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
+- [Robots.txt Tester & Validator](https://www.websiteplanet.com/webtools/robots-txt/)
