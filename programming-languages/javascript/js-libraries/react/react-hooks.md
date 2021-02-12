@@ -87,6 +87,7 @@
 - [pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like.
 - [use-between](https://github.com/betula/use-between) - Sharing state between React components.
 - [react-infinite-scroll-hook](https://github.com/onderonur/react-infinite-scroll-hook) - Hook to create infinite scroll components.
+- [Fun Hooks](https://github.com/snapwich/fun-hooks) - Generalized and simple hooking API for adding extensibility to applications.
 
 ## Notes
 

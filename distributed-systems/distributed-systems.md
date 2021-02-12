@@ -160,3 +160,5 @@
 - [Effective Fallbacks (2020)](https://raasahsan.com/posts/effective-fallbacks/)
 - [Ask HN: Recommended books and papers on distributed systems? (2021)](https://news.ycombinator.com/item?id=25987664)
 - [Raft implementation in Rust language](https://github.com/akiradeveloper/lol)
+- [Porcupine](https://github.com/anishathalye/porcupine) - Fast linearizability checker for testing the correctness of distributed systems.
+- [Testing Distributed Systems for Linearizability (2017)](https://www.anishathalye.com/2017/06/04/testing-distributed-systems-for-linearizability/)

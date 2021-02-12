@@ -66,3 +66,4 @@
 - [TorchKGE](https://github.com/torchkge-team/torchkge) - Knowledge Graph embedding in Python and PyTorch.
 - [kgextension](https://github.com/om-hb/kgextension) - Knowledge Graph Extension for Python. ([Docs](https://kgextension.readthedocs.io/en/latest/))
 - [Top-conference Papers on Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications)
+- [Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction (2020)](https://www.aclweb.org/anthology/2020.acl-main.209/) ([Code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings))

@@ -130,3 +130,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. ([ProtonMail Bridge](https://github.com/ProtonMail/proton-bridge)) ([GitHub](https://github.com/ProtonMail))
 - [Mailgun.js](https://github.com/mailgun/mailgun-js) - JavaScript SDK for Mailgun.
 - [imap-backup](https://github.com/joeyates/imap-backup) - Backup GMail (or other IMAP) accounts to disk.
+- [Mailway](https://mailway.app/) - Single way for all your emails. Configure DNS on your domain, add rules for incoming emails, done. ([Reddit](https://www.reddit.com/r/selfhosted/comments/li0j5l/mailway_selfhosted_mail_catchall/))

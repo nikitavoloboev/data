@@ -153,3 +153,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [MachineLearningStocks](https://github.com/robertmartin8/MachineLearningStocks) - Using python and scikit-learn to make stock predictions.
 - [Algorithmic Trading with Python (2020)](https://github.com/chrisconlan/algorithmic-trading-with-python)
 - [CheaperThanGuru](https://cheaperthanguru.com/) - Analyze Portfolios of Investment Gurus.
+- [Historically it's way better to invest at market close than at market open, most gains occur overnight (2021)](https://www.reddit.com/r/investing/comments/lhtodm/historically_its_way_better_to_invest_at_market/)
