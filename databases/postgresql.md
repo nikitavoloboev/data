@@ -214,3 +214,4 @@
 - [Deep PostgreSQL Thoughts: The Linux Assassin (2021)](https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin)
 - [pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Node.js using PostgreSQL like a boss.
 - [FlameExplain](https://flame-explain.com/visualize/input) - PostgreSQL EXPLAIN ANALYZE visualizer with advanced quirk correction algorithms. ([Code](https://github.com/felixge/flame-explain))
+- [AWS Babelfish: The Elephant in the PostgreSQL Room? (2021)](https://postgresql.fund/blog/babelfish-the-elephant-in-the-room/) ([HN](https://news.ycombinator.com/item?id=26114281))

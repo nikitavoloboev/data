@@ -166,3 +166,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [ethabi](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
 - [A Beginner's Guide to NFTs (2021)](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d) ([HN](https://news.ycombinator.com/item?id=26073970))
 - [Lunarity](https://github.com/paritytech/lunarity) - Solidity parser in Rust.
+- [Turbo-G](https://github.com/ledgerwatch/turbo-geth) - Fork of Go-Ethereum with focus on performance.

@@ -627,3 +627,4 @@
 - [Swift Package Collection Generator](https://github.com/apple/swift-package-collection-generator) - Collection of packages and tooling for generating and consuming package feeds.
 - [PureSwift packages](https://github.com/PureSwift)
 - [xcframeworks](https://github.com/bielikb/xcframeworks) - Demonstration of creating and integrating xcframeworks and their co-op with static libraries and Swift packages.
+- [Swift Package Info](https://github.com/marinofelipe/swift-package-info) - Swift CLI tool that provides information about a Swift Package.

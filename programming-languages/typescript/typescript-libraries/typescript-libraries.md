@@ -100,6 +100,7 @@
 - [elm-ts](https://github.com/gcanti/elm-ts) - Porting of The Elm Architecture to TypeScript featuring fp-ts, RxJS and React.
 - [ts-union-tools](https://github.com/naruaway/ts-union-tools) - Set of minimal utilities to work with union types and tagged unions in TypeScript.
 - [ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript.
+- [prex](https://github.com/rbuckton/prex) - Asynchronous coordination for JavaScript and TypeScript.
 
 ## Links
 

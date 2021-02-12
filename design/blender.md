@@ -34,3 +34,4 @@
 - [Vertex Color Master for Blender](https://github.com/andyp123/blender_vertex_color_master) - Add-on for Blender that adds numerous features to assist working with vertex colors.
 - [Blender VSCode Extension](https://github.com/JacquesLucke/blender_vscode)
 - [Sorcar](https://github.com/aachman98/Sorcar) - Procedural modeling in Blender using Node Editor. ([Web](https://aachman98.itch.io/sorcar))
+- [EasyBake](https://github.com/leukbaars/EasyBake) - Texture baking UI for Blender.
