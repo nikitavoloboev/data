@@ -40,4 +40,4 @@
 - [Simulating Fluid Dynamics with Cellular Automata (1986)](https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automaton-fluids-theory.pdf) ([HN](https://news.ycombinator.com/item?id=25756813))
 - [Fast Python implementation of Conway's game of life and other cellular automata](https://github.com/thearn/game-of-life)
 - [Breaking a Degenerate Hyper-Dimensional Game of Life (2021)](https://blog.jle.im/entry/degenerate-hyper-dimensional-game-of-life.html)
-- [Self-Organising Textures](https://distill.pub/selforg/2021/textures/) - Neural Cellular Automata Model of Pattern Formation.
+- [Self-Organising Textures](https://distill.pub/selforg/2021/textures/) - Neural Cellular Automata Model of Pattern Formation. ([HN](https://news.ycombinator.com/item?id=26112959))

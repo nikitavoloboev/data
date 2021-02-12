@@ -44,7 +44,8 @@
 - [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database.
 - [GRDB.swift](https://github.com/groue/GRDB.swift) - Toolkit for SQLite databases, with a focus on application development. ([Web](http://groue.github.io/GRDB.swift/))
 - [edge-sql](https://sql.lspgn.workers.dev/) - Serverless edge worker embedding SQLite using Cloudflare Workers and WASM. ([Code](https://github.com/lspgn/edge-sql)) ([HN](https://news.ycombinator.com/item?id=25842999))
-- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. ([Why I Built Litestream (2021)](https://litestream.io/blog/why-i-built-litestream/)) ([HN](https://news.ycombinator.com/item?id=26103776))
 - [Rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite. ([HN](https://news.ycombinator.com/item?id=25871605))
 - [SQLite CREATE TABLE Parser](https://github.com/marcobambini/sqlite-createtable-parser)
 - [sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database.
+- [SQLite DB Migrations with PRAGMA user_version](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)

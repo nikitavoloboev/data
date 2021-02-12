@@ -167,3 +167,4 @@
 - [SparkFun OpenLog](https://github.com/sparkfun/OpenLog) - Open Source Hardware Datalogger. ([Web](https://www.sparkfun.com/products/13712))
 - [Jiga](https://www.jiga3d.com/) - Faster custom parts for hardware products. ([App](https://app.jiga3d.com/)) ([HN](https://news.ycombinator.com/item?id=26066276))
 - [Misoc](https://github.com/m-labs/misoc) - High performance and small footprint SoC based on Migen.
+- [A Primer on Analog Computing (2021)](https://blog.sigplan.org/2021/02/11/a-primer-on-analog-computing/)

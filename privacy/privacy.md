@@ -80,3 +80,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Moxie Marlinspike Has a Plan to Reclaim Our Privacy (2020)](https://www.newyorker.com/magazine/2020/10/26/taking-back-our-privacy)
 - [We can do better than Signal (2021)](https://icyphox.sh/blog/signal/) ([HN](https://news.ycombinator.com/item?id=25811696)) ([Lobsters](https://lobste.rs/s/ypzg4z/we_can_do_better_than_signal))
 - [Tim Cook keynote on privacy from the CPCD conference (2021)](https://www.youtube.com/watch?v=wmHL7xe1JIY) ([Transcript](https://www.inc.com/justin-bariso/tim-cook-may-have-just-ended-facebook.html))
+- [What Do You Actually Agree To When You Accept All Cookies (2021)](https://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/) ([Lobsters](https://lobste.rs/s/f3jncp/what_do_you_actually_agree_when_you_accept))

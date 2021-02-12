@@ -87,3 +87,4 @@
 - [z.lib](https://github.com/sekrit-twc/zimg) - Scaling, colorspace conversion, and dithering library.
 - [pierogis](https://github.com/pierogis/pierogis) - Framework for image processing.
 - [Fractal Image Compression (2018)](https://pvigier.github.io/2018/05/14/fractal-image-compression.html)
+- [The Magic Kernel Sharp – image resizing algorithm](http://www.johncostella.com/magic/)
