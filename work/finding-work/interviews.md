@@ -112,3 +112,4 @@
 - [Welder](https://www.getwelder.com/) - Record high-quality content remotely. ([HN](https://news.ycombinator.com/item?id=25869864))
 - [Exponent](https://www.tryexponent.com/) - Interview Prep for PM, Engineering, and More.
 - [How to Pass a Software Engineering Coding Interview (2021)](https://www.danhacks.com/software/software-engineering-coding-interview.html)
+- [Technical Interview Preparation Checklist (2019)](https://trekhleb.dev/blog/2019/technical-interview-preparation-checklist/)

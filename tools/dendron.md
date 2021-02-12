@@ -2,6 +2,8 @@
 
 > Open-source, local-first, markdown-based, note-taking tool built on top of VSCode.
 
+I have a Dendron wiki hosted at [epictools.dev](https://epictools.dev).
+
 ## Links
 
 - [Dendron Code](https://github.com/dendronhq/dendron)
