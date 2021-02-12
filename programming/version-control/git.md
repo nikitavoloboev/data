@@ -222,3 +222,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-url-parse](https://github.com/IonicaBizau/git-url-parse) - High level git url parser for common git providers.
 - [pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit.
 - [Cheatsheet to Rewrite Git History (2021)](https://blog.gitguardian.com/rewriting-git-history-cheatsheet/)
+- [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
