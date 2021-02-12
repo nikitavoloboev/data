@@ -49,7 +49,7 @@
 - [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Open source Kubernetes kubelet implementation.
 - [Compose on Kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters.
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
-- [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes.
+- [Kubernetes Failure Stories](https://k8s.af/) - Compiled list of links to public failure stories related to Kubernetes. ([Code](https://github.com/hjacobs/kubernetes-failure-stories)) ([HN](https://news.ycombinator.com/item?id=26106080))
 - [Garden](https://github.com/garden-io/garden) - Development engine for Kubernetes, containers and serverless functions.
 - [Kubinception: using Kubernetes to run Kubernetes (2019)](https://www.ovh.com/fr/blog/kubinception-using-kubernetes-to-run-kubernetes/)
 - [Kubernetes Authentication Example](https://github.com/pusher/k8s-auth-example) - Code is provided verbatim as an example of how to connect to an OIDC provider and authenticate users before configuring their kubeconfig.
