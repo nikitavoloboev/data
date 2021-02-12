@@ -10,7 +10,7 @@ My current plan/hope to do my part in crushing these systems is by helping to bu
 
 Overthrowing oppressive regimes such as Russia and China is hard and requires courage and coordination given the amount of money being spent on police & military by these dictators and the depths in which they go to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
 
-The people in charge [lack any kind of ethics](https://twitter.com/teamnavalny/status/1356712217387937796) and [will go to any lengths to stop the protests](https://twitter.com/pevchikh/status/1356701669271105537) including killing/jailing everyone involved. The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
+The people in charge [lack any kind of ethics](https://twitter.com/teamnavalny/status/1356712217387937796) and [will go to any lengths to stop the protests](https://twitter.com/pevchikh/status/1356701669271105537) including [killing/jailing everyone involved](https://www.youtube.com/watch?v=TW5GmgCOTHE). The police should grow conscience and [stop committing further crimes on behalf of the government](https://twitter.com/egor_mq/status/1355873294126346240). For police that understand they are supporting an oppressive regime but have families and can't afford to lose jobs, financial support should be provided.
 
 It would be great if all countries cut ties with these oppressive regimes and go beyond just sanctions.
 
@@ -55,4 +55,3 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Алексей Навальный — главный оппозиционный политик России (2021)](https://meduza.io/feature/2021/02/05/aleksey-navalnyy-glavnyy-oppozitsionnyy-politik-rossii-i-glavnyy-politzaklyuchennyy-posmotrite-kak-on-k-etomu-shel-fotografii)
 - [Как при Путине хорошее стало плохим (2021)](https://www.youtube.com/watch?v=kg5e3wt5p70)
 - [The Evolution of Russian Hybrid Warfare (2021)](https://cepa.org/wp-content/uploads/2021/01/CEPA-Hybrid-Warfare-1.28.21.pdf)
-- [Алё, гараж! Десяткам миллионов американцев нечего жрать! Новый этический рейх (2021)](https://www.youtube.com/watch?v=ZgOKZn6k86g)
