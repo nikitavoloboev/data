@@ -51,3 +51,4 @@
 - [My Google Traffic Has Fallen to Zero (2020)](https://www.goodcheapandfast.com/2020) ([HN](https://news.ycombinator.com/item?id=25640217))
 - [Google SEO General Guidelines (2020)](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)
 - [Robots.txt Tester & Validator](https://www.websiteplanet.com/webtools/robots-txt/)
+- [Tell HN: A case of negative SEO I caught on my service and how I dealt with it (2021)](https://news.ycombinator.com/item?id=26105890)
