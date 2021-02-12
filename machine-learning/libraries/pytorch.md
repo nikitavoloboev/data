@@ -221,3 +221,4 @@
 - [OpenMM PyTorch Plugin](https://github.com/openmm/openmm-torch) - OpenMM plugin to define forces with neural networks.
 - [Totally Versatile Miscellania for PyTorch](https://github.com/t-vi/pytorch-tvmisc)
 - [Lightning Flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
+- [FlashTorch](https://github.com/MisaOgura/flashtorch) - Python visualization toolkit, built with PyTorch, for neural networks in PyTorch.

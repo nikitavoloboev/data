@@ -26,7 +26,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Bull](https://github.com/optimalbits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.
-- [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Website](https://nestjs.com/)) ([Awesome](https://github.com/juliandavidmr/awesome-nestjs))
+- [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Web](https://nestjs.com/)) ([Awesome](https://github.com/juliandavidmr/awesome-nestjs)) ([Nest framework TypeScript starter](https://github.com/nestjs/typescript-starter))
 - [Nest CLI](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications.
 - [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
 - [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs)
