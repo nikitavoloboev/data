@@ -93,3 +93,4 @@
 - [entities](https://github.com/fb55/entities) - Encode & decode HTML & XML entities with ease & speed.
 - [HTML5 still doesn't replicate what mattered about Flash (2020)](https://twitter.com/larsiusprime/status/1344404336252768257) ([HN](https://news.ycombinator.com/item?id=25587765))
 - [The unreasonable effectiveness of simple HTML (2021)](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/) ([HN](https://news.ycombinator.com/item?id=25915313))
+- [Managing focus in the shadow DOM (2021)](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)

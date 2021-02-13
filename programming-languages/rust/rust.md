@@ -409,3 +409,4 @@
 - [Async Rust: Futures, Tasks, Wakers; Oh My! (2021)](https://msarmi9.github.io/posts/async-rust/)
 - [Rust Foundation](https://foundation.rust-lang.org/) - Independent non-profit organization to steward the Rust programming language and ecosystem. ([Hello World](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/)) ([HN](https://news.ycombinator.com/item?id=26067118)) ([Lobsters](https://lobste.rs/s/akbqap/rust_foundation_hello_world))
 - [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch) ([HN](https://news.ycombinator.com/item?id=26110612))
+- [A New Backend for Cranelift, Part 1: Instruction Selection (2019)](https://cfallin.org/blog/2020/09/18/cranelift-isel-1/) ([Part 2](https://cfallin.org/blog/2021/01/22/cranelift-isel-2/))

@@ -298,3 +298,4 @@
 - [Building a personal data warehouse in Snowflake for fun and no profit (2021)](https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit) ([HN](https://news.ycombinator.com/item?id=25978000))
 - [ProxySQL](https://github.com/sysown/proxysql) - High performance, high availability, protocol aware proxy for MySQL and forks (like Percona Server and MariaDB).
 - [Implementing Data Replication in MemgraphDB (2021)](https://memgraph.com/blog/implementing-data-replication)
+- [How Buffer Pool Works: An Implementation In Go (2021)](https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/) - Exploring how buffer pool management works in databases by building one.
