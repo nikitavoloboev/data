@@ -168,3 +168,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [GumTree](https://github.com/GumTreeDiff/gumtree) - Complete framework to deal with source code as trees and compute differences between them.
 - [Linguist](https://github.com/github/linguist) - Library is used on GitHub.com to create languages used breakdowns.
 - [Joern](https://joern.io/) - Open-Source Code Querying Engine. ([Code](https://github.com/ShiftLeftSecurity/joern))
+- [ATS or Why Linear Types are the Future of Systems Programming (2021)](https://www.youtube.com/watch?v=c4Z25DJusuo)
