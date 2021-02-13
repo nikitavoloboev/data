@@ -725,6 +725,7 @@
 - [Go Fluent FFmpeg](https://github.com/modfy/go-fluent-ffmpeg) - Bindings to FFmpeg.
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go. ([HN](https://news.ycombinator.com/item?id=26063830))
 - [webhooks](https://github.com/go-playground/webhooks) - Allows for easy receiving and parsing of GitHub, Bitbucket and GitLab Webhook Events.
+- [mainthread](https://github.com/faiface/mainthread) - Run stuff on the main thread in Go.
 
 ## Links
 
