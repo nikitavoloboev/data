@@ -112,3 +112,4 @@ All active variables can be seen by running `env`.
 - [rwsh](https://github.com/tudurom/rwsh) - UNIX shell based around Structural Regular Expressions and the usam experiment.
 - [Why Create a New Unix Shell? (2021)](http://www.oilshell.org/blog/2021/01/why-a-new-shell.html) ([HN](https://news.ycombinator.com/item?id=25924647))
 - [Next Generation Shell (NGS)](https://github.com/ngs-lang/ngs) - Modern programming language with the focus on systems engineering. ([Web](https://ngs-lang.org/))
+- [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)

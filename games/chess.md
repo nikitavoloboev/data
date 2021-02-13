@@ -71,3 +71,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Study Openings](http://www.studyopenings.com/) - Tool to help chess players memorize opening repertoires. ([Code](https://github.com/jven/studyopenings))
 - [Stopping Early Queen Attacks In Chess (2021)](https://www.youtube.com/watch?v=cY9zitJFglc)
 - [ChessCraft](https://www.chesscraft.ca/) - Never play the same game of chess again.
+- [Coding Adventure: Chess AI (2021)](https://www.youtube.com/watch?v=U4ogK0MIzqk)

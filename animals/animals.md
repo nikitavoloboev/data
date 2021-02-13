@@ -74,3 +74,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [The Summer of Larry (2020)](https://www.youtube.com/watch?v=0OjcqJolKzI)
 - [Earth Species Project](https://www.earthspecies.org/) - Decoding Animal Communication.
 - [Plant-Powered Dog](https://www.plantpowereddog.com/) - Raise a Thriving Plant-Based Dog.
+- [Animation of 1 whale trying to dodge human ships to get food](https://twitter.com/ballenaschile/status/1356703048270249985)

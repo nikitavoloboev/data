@@ -258,3 +258,4 @@
 - [Pattern matching accepted for Python (2021)](https://lwn.net/Articles/845480/) ([HN](https://news.ycombinator.com/item?id=26080760)) ([Lobsters](https://lobste.rs/s/l4n7db/pattern_matching_accepted_for_python))
 - [100 Page Python Intro Book](https://learnbyexample.github.io/100_page_python_intro/introduction.html) ([HN](https://news.ycombinator.com/item?id=26076721))
 - [CPython CMake Build System](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem)
+- [I have no name, and I must recurse (2021)](https://blog.astrosnail.pt.eu.org/2021-02-11-snake.html) ([Lobsters](https://lobste.rs/s/gguvow/i_have_no_name_i_must_recurse))
