@@ -197,3 +197,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [pyvmidbg](https://github.com/Wenzel/pyvmidbg) - LibVMI-based GDB server, implemented in Python.
 - [libmicrovmi](https://github.com/Wenzel/libmicrovmi) - Cross-platform unified interface on top of hypervisor's VMI APIs.
 - [crosvm](https://github.com/dgreid/crosvm) - Chrome OS Virtual Machine Monitor.
+- [DTB parser implementing notes (2021)](https://kivikakk.ee/2021/02/13/dtb-parser-implementing-notes/)
+- [SerenityOS - Writing a full chain exploit (2021)](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)

@@ -64,3 +64,4 @@
 - [Wicked Blocks](https://blocks.wickedtemplates.com/) - Tailwind Blocks ready to copy-paste. ([HN](https://news.ycombinator.com/item?id=25866949))
 - [Why Tailwind Isn't for Me (2021)](https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90)
 - [Universal Tokens for Tailwind](https://tw-tokens.netlify.app/) - Use Tailwind tokens as CSS variables, SASS map, SASS variables, ES module, JSON & Common JS module. ([Code](https://github.com/itaditya/tw-universal-tokens))
+- [windicss](https://github.com/voorjaar/windicss) - Next generation tailwindcss compiler.

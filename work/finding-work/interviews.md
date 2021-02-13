@@ -113,3 +113,4 @@
 - [Exponent](https://www.tryexponent.com/) - Interview Prep for PM, Engineering, and More.
 - [How to Pass a Software Engineering Coding Interview (2021)](https://www.danhacks.com/software/software-engineering-coding-interview.html)
 - [Technical Interview Preparation Checklist (2019)](https://trekhleb.dev/blog/2019/technical-interview-preparation-checklist/)
+- [Unpacking Interview Questions (2021)](https://jacobian.org/series/unpacking-interview-questions/) - Series sharing some of the questions I use when I interview for technical roles.

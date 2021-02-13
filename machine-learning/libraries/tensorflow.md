@@ -78,3 +78,4 @@
 - [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Language for distributed deep learning, capable of specifying a broad class of distributed tensor computations.
 - [TensorFlow 101: Introduction to Deep Learning](https://github.com/serengil/tensorflow-101)
 - [TensorFlow Lite Support](https://github.com/tensorflow/tflite-support) - Toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
+- [HN: Swift for TensorFlow Shuts Down (2021)](https://news.ycombinator.com/item?id=26117453) ([Lobsters](https://lobste.rs/s/fcnkvu/tensorflow_for_swift_has_been_deprecated))

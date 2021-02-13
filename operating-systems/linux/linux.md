@@ -270,3 +270,4 @@
 - [Getting better at Linux with mini-projects (2020)](https://carltheperson.com/posts/10-things-linux) ([HN](https://news.ycombinator.com/item?id=26002335))
 - [Making Sense of The Audio Stack On Unix (2021)](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html) ([Lobsters](https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix)) ([HN](https://news.ycombinator.com/item?id=26056588))
 - [The Wayland Protocol Book](https://wayland-book.com/)
+- [Linux memory management FAQ](http://landley.net/writing/memory-faq.txt)
