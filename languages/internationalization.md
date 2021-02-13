@@ -15,3 +15,4 @@
 - [i18next-http-middleware](https://github.com/i18next/i18next-http-middleware) - Middleware to be used with Node.js web frameworks like express or Fastify and also for Deno.
 - [Localizely](https://localizely.com/) - Localization Platform for Web and Mobile Apps.
 - [Traduora](https://traduora.com/) - Translation management platform for teams. ([Code](https://github.com/traduora/traduora))
+- [Keys Manager](https://github.com/ngneat/transloco-keys-manager) - Key to a Better Translation Experience.

@@ -140,4 +140,4 @@
 - [Awesome Game Dev](https://github.com/Calinou/awesome-gamedev)
 - [GameNetworkingSockets Build Status](https://github.com/ValveSoftware/GameNetworkingSockets) - Basic transport layer for games. Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.
 - [How EVE Online is built (2021)](https://www.youtube.com/watch?v=ORkE8yeSsV4)
-- [Implementing the Elo Rating System (2020)](https://mattmazzola.medium.com/implementing-the-elo-rating-system-a085f178e065)
+- [Implementing the Elo Rating System (2020)](https://mattmazzola.medium.com/implementing-the-elo-rating-system-a085f178e065) ([HN](https://news.ycombinator.com/item?id=26115665))

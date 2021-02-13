@@ -192,3 +192,4 @@
 - [DGS (Domain Graph Service) Framework](https://netflix.github.io/dgs/) - GraphQL server framework for Spring Boot, developed by Netflix. ([Code](https://github.com/Netflix/dgs-framework))
 - [Awesome Fluent GraphQL](https://github.com/hasura/awesome-fluent-graphql) - Curated collection of fluent API clients that make working with GraphQL awesome, along with examples.
 - [GraphQL is the God Mode of Web Development (2021)](https://www.reaktor.com/forkpullmergepush/graphql-is-the-god-mode-of-web-development/)
+- [ts-gql](https://github.com/Thinkmill/ts-gql) - Write GraphQL queries in TypeScript and generate types effortlessly.

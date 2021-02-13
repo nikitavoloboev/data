@@ -20,3 +20,4 @@
 - [Lecture notes for Geometry, Algebra, and Number Theory](https://github.com/Multramate/GANT)
 - [Do we have negative prime numbers?](https://math.stackexchange.com/questions/1002459/do-we-have-negative-prime-numbers) ([HN](https://news.ycombinator.com/item?id=25802413))
 - [Dave’s Short Course on Complex Numbers (2013)](https://www2.clarku.edu/faculty/djoyce/complex/) ([HN](https://news.ycombinator.com/item?id=25801063))
+- [The Riemann zeta function and the prime number theorem (2021)](https://terrytao.wordpress.com/2021/02/12/246b-notes-4-the-riemann-zeta-function-and-the-prime-number-theorem/)
