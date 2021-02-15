@@ -193,3 +193,4 @@
 - [Awesome Fluent GraphQL](https://github.com/hasura/awesome-fluent-graphql) - Curated collection of fluent API clients that make working with GraphQL awesome, along with examples.
 - [GraphQL is the God Mode of Web Development (2021)](https://www.reaktor.com/forkpullmergepush/graphql-is-the-god-mode-of-web-development/)
 - [ts-gql](https://github.com/Thinkmill/ts-gql) - Write GraphQL queries in TypeScript and generate types effortlessly.
+- [Type-Safe Graphql Apps With Typescript - Workshop](https://www.aaron-powell.com/talks/type-safe-graphql-apps-with-typescript-workshop/) ([Code](https://github.com/aaronpowell/graphql-typescript-workshop))

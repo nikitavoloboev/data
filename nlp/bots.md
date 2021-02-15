@@ -11,3 +11,4 @@
 - [Cloudflare Bot Analytics (2020)](https://blog.cloudflare.com/introducing-bot-analytics/)
 - [Hybrid Conversational Bot](https://github.com/JRC1995/Chatbot) - Based on both neural retrieval and neural generative mechanism with TTS.
 - [Joonbot](https://www.joonbot.com/) - No code free website bot maker.
+- [Polis](https://github.com/pol-is/polis) - AI powered sentiment gathering platform. More organic than surveys, less effort than focus groups.

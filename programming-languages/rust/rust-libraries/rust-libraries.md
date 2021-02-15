@@ -719,6 +719,7 @@
 - [nonblockinghashmap](https://github.com/rlei/nonblockinghashmap) - Non-blocking hash map in Rust.
 - [thread_io](https://github.com/markschl/thread_io) - Rust crate for performing I/O in background thread.
 - [LRU Cache](https://github.com/jeromefroe/lru-rs) - Implementation of a LRU cache in Rust.
+- [Aper](https://github.com/aper-dev/aper) - Synchronized state machines for Rust over WebSockets.
 
 ## Cargo Plugins
 

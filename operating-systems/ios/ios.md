@@ -68,6 +68,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Brave for iOS](https://github.com/brave/brave-ios)
 - [Element iOS](https://github.com/vector-im/element-ios) - Matrix client provided by Element.
 - [Zen Tuner](https://github.com/jpsim/ZenTuner) - Minimal chromatic tuner.
+- [Distributed Chat](https://github.com/fwcd/distributed-chat) - Distributed chat messenger that uses Bluetooth LE mesh networks.
 
 ## Other
 

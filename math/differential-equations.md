@@ -16,3 +16,4 @@
 - [Smooth](https://github.com/psg-mit/smooth) - Arbitrary-precision differentiable programming language.
 - [odin](https://github.com/mrc-ide/odin) - DSL for describing and solving differential equations in R.
 - [Learning Differential Equations that are Easy to Solve (2020)](https://arxiv.org/abs/2007.04504) ([Code](https://github.com/jacobjinkelly/easy-neural-ode))
+- [heyoka](https://github.com/bluescarni/heyoka) - C++ library for ODE integration via Taylor's method and LLVM.

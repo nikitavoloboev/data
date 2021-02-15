@@ -405,3 +405,6 @@
 - [Learning Curve Theory (2021)](https://arxiv.org/abs/2102.04074)
 - [ML Surveys](https://github.com/eugeneyan/ml-surveys) - Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
 - [Practical Deep Learning Course](https://github.com/yandexdataschool/Practical_DL)
+- [Diverse Counterfactual Explanations (DiCE) for ML](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model. ([Docs](https://interpret.ml/DiCE/))
+- [Interpretable Machine Learning](https://github.com/navdeep-G/interpretable-ml) - Techniques & resources for training interpretable ML models, explaining ML models, and debugging ML models.
+- [Awesome Causality](https://github.com/napsternxg/awesome-causality) - Resources related to causality.

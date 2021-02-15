@@ -26,3 +26,4 @@
 - [Story of LSD](https://twitter.com/PulpLibrarian/status/1294322294408515584)
 - [Low Doses of LSD Acutely Increase BDNF Blood Plasma Levels in Healthy Volunteers (2020)](https://pubs.acs.org/doi/abs/10.1021/acsptsci.0c00099) ([HN](https://news.ycombinator.com/item?id=24391387))
 - [David Nichols - From ergot to LSD and beyond (2020)](https://www.youtube.com/watch?v=iu0EZFz0-KQ)
+- [What are some of your favorite things to do on LSD? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lk1u9n/what_are_some_of_your_favorite_things_to_do_on_lsd/)

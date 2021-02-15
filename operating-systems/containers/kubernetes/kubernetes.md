@@ -334,3 +334,4 @@
 - [Kubernetes 101 series retrospective, and a new book (2021)](https://www.jeffgeerling.com/blog/2021/kubernetes-101-series-retrospective-and-new-book)
 - [Kubernetes, Pods, Kubernetes Pod Concepts (2021)](https://releaseapp.io/blog/kubernetes-pods-advanced-concepts-explained)
 - [Helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts.
+- [GetIstio](https://github.com/tetratelabs/getistio) - Integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.

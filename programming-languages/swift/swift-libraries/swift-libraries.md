@@ -160,6 +160,10 @@
 - [Epoxy](https://github.com/airbnb/epoxy-ios) - Suite of declarative UI APIs for building UIKit applications in Swift.
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
 - [KVKCalendar](https://github.com/kvyatkovskys/KVKCalendar) - Most fully customization calendar and timeline library.
+- [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@), URLs (http://), Emails and custom regex patterns, written in Swift.
+- [ExpandedTabBar](https://github.com/yervandsar/ExpandedTabBar) - Creative designed solution for "more" items in UITabBarController.
+- [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+- [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 
 ## macOS
 
@@ -175,6 +179,8 @@
 - [Uberabout](https://github.com/martinlexow/Uberabout) - Replaces the default “About” window in your macOS app with an aesthetically pleasing one.
 - [StackNavigationView](https://github.com/lbrndnr/StackNavigationView) - SwiftUI component for macOS that makes complex view hierarchies possible.
 - [LoginServiceKit](https://github.com/Clipy/LoginServiceKit) - Easy manage login items in macOS.
+- [WindowTreatment](https://github.com/ChimeHQ/WindowTreatment) - Tools for happier work with NSWindow.
+- [Programmatic NSWindow Tabbing](https://github.com/DivineDominion/NSWindow-Tabbing)
 
 ## Web
 
@@ -608,6 +614,7 @@
 - [SwiftState](https://github.com/ReactKit/SwiftState) - Elegant state machine for Swift.
 - [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Swift Geometry Engine.
 - [Syntax](https://github.com/nerdsupremacist/Syntax) - Write parsers quickly in Swift with an intuitive SwiftUI-like DSL.
+- [RxBiBinding](https://github.com/RxSwiftCommunity/RxBiBinding) - Reactive two-way binding.
 
 ## Other (not lib)
 

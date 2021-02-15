@@ -39,3 +39,4 @@ And here are Chrome extensions I use:
 - [Placeholdifier](https://chrome.google.com/webstore/detail/placeholdifier/iinkgkmmblamljaklibgclblomobdbha) - Turn any website into a live wireframe. ([Code](https://github.com/pomber/placeholdifier))
 - [Chrome 89 Beta: advanced hardware interactions, web sharing on desktop (2021)](https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html) ([HN](https://news.ycombinator.com/item?id=25982542))
 - [Prevent chromedp Chromium zombie processes from stacking (2021)](https://aymericbeaumet.com/prevent-chromedp-chromium-zombie-processes-from-stacking)
+- [boilerplate for chrome extensions written in React and bundled with esbuild](https://github.com/martonlederer/esbuild-react-chrome-extension)
