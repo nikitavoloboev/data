@@ -66,3 +66,4 @@
 - [CairoSVG](https://github.com/Kozea/CairoSVG) - SVG converter based on Cairo. It can export SVG files to PDF, EPS, PS, and PNG files. ([Web](https://www.courtbouillon.org/cairosvg))
 - [SVG Crop](https://svgcrop.com/) - Remove blank space from around any SVG instantly.
 - [SVG Tutorial: How to Code SVG Icons by Hand (2021)](https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand/)
+- [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons.

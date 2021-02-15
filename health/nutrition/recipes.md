@@ -34,3 +34,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [recipes-parser](https://github.com/Charlie85270/recipes-parser) - Parse recipes instructions (string text entry) and extract ingredients, units and quantity.
 - [Kalester](https://kalester.com/) - Vegan recipes. Updated daily.
 - [The 20 best curry recipes (2021)](https://www.theguardian.com/food/2021/jan/25/the-20-best-curry-recipes)
+- [Just the Recipe](https://www.justtherecipe.app/) - Paste a recipe URL and get just the ingredients and the directions for making the recipe.

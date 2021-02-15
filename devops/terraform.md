@@ -63,3 +63,4 @@
 - [Etok](https://github.com/leg100/etok) - Execute Terraform On Kubernetes.
 - [Top 20 Terraform Providers (2021)](https://scalr.com/blog/top-20-terraform-providers/)
 - [AirIAM](https://github.com/bridgecrewio/AirIAM) - AWS IAM to least privilege Terraform execution framework.
+- [terraform-provider-utils](https://github.com/cloudposse/terraform-provider-utils) - Terraform provider to add additional missing functionality to Terraform.
