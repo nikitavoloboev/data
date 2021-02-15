@@ -171,6 +171,7 @@
 - [SecretKeys](https://secretkeys.io/) - Privacy Tech & Consulting. ([GitHub](https://github.com/secretkeysio))
 - [ustwo](https://www.ustwo.com/) - Digital product studio.
 - [Provectus](https://provectus.com/) - AI-First Consultancy and Solutions Provider.
+- [8th Light](https://8thlight.com/)
 
 ## Links
 

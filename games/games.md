@@ -88,6 +88,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Shotcaller](https://github.com/amethyst/shotcaller) - RTS / MOBA game with multiple front ends: ASCII-rendered or tiles-rendered.
 - [Station Iapetus](https://github.com/mrDIMAS/StationIapetus) - 3rd person shooter in the very early development phase. Written in Rust.
 - [Soldat](https://github.com/Soldat/soldat) - 2D (side-view) multiplayer action game. ([HN](https://news.ycombinator.com/item?id=26058312))
+- [re3](https://github.com/GTAmodding/re3) - GTA III and Vice City fully reverse engineered. ([HN](https://news.ycombinator.com/item?id=26130320))
 
 ## Awesome games (other)
 
