@@ -40,6 +40,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI.
 - [novelWriter](https://github.com/vkbo/novelWriter) - Markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents. ([Web](https://novelwriter.io/)) ([HN](https://news.ycombinator.com/item?id=25833328))
 - [AX Editor](https://github.com/engali94/ax-editor) - Code editor with syntax highlighting that runs in your terminal written completely in Swift.
+- [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Cross-platform, aesthetic, distraction-free Markdown editor. ([Code](https://github.com/wereturtle/ghostwriter))
 
 ## Web
 
