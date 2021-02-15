@@ -45,3 +45,4 @@
 - [Java Concurrency in Practice](https://jcip.net/)
 - [Java on Truffle – Going Fully Metacircular (2021)](https://medium.com/graalvm/java-on-truffle-going-fully-metacircular-215531e3f840) ([HN](https://news.ycombinator.com/item?id=25838364))
 - [Writing C code in Java/Clojure: GraalVM specific programming (2021)](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
+- [Distribution of JVM Desktop Applications (2021)](https://blog.frankel.ch/state-jvm-desktop-frameworks/6/) ([HN](https://news.ycombinator.com/item?id=26135532))

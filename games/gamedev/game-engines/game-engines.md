@@ -68,6 +68,7 @@
 - [ETEngine](https://github.com/Illation/ETEngine) - Real time 3D Game-Engine with a focus on space sim. Written in C++.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ([Web](https://www.babylonjs.com/)) ([React Babylon.js](https://github.com/brianzinn/react-babylonjs))
 - [PursuedPyBear](https://github.com/ppb/pursuedpybear) - Python game engine. Exists to be an educational resource.
+- [Fluxus](http://www.pawfal.org/fluxus/) - 3D game engine for live-coding worlds into existence. ([HN](https://news.ycombinator.com/item?id=26130341))
 
 ## Physics engines
 

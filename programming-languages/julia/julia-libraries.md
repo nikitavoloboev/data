@@ -168,7 +168,7 @@
 - [JSON3](https://github.com/quinnj/JSON3.jl) - JSON package for Julia. Focused on speed and slick struct mapping.
 - [JSON.jl](https://github.com/JuliaIO/JSON.jl) - JSON parsing and printing.
 - [TableIO](https://github.com/lungben/TableIO.jl) - Glue package for reading and writing tabular data.
-- [JET.jl](https://github.com/aviatesk/JET.jl) - Experimental type checker for Julia, no need for additional type annotations.
+- [JET.jl](https://github.com/aviatesk/JET.jl) - Experimental type checker for Julia, no need for additional type annotations. ([HN](https://news.ycombinator.com/item?id=26135219))
 - [LoopVectorization](https://github.com/chriselrod/LoopVectorization.jl) - Macro(s) for vectorizing loops.
 - [LinearOperators.jl](https://github.com/JuliaSmoothOptimizers/LinearOperators.jl) - Linear Operators for Julia.
 - [Images.jl](https://github.com/JuliaImages/Images.jl) - Image library for Julia.

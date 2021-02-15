@@ -83,3 +83,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Research Taste Exercises (2021)](http://colah.github.io/notes/taste/)
 - [Reflections on 2020 as an independent researcher](https://andymatuschak.org/2020/)
 - [The speed of science (2021)](https://worksinprogress.co/issue/the-speed-of-science/)
+- [Why “Trusting the Science” Is Complicated (2021)](https://lareviewofbooks.org/article/why-trusting-the-science-is-complicated/) ([HN](https://news.ycombinator.com/item?id=26122712))

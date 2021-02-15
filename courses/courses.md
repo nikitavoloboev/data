@@ -36,3 +36,4 @@
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications) - Curated list of free courses & certifications.
 - [90+ free courses (2021)](https://custom-writing.org/blog/free-online-courses)
 - [Next.js Template for Interactive Courses](https://github.com/scastiel/nextjs-course-template)
+- [khan-dl](https://github.com/rand-net/khan-dl) - Khan Academy Course Downloader. ([HN](https://news.ycombinator.com/item?id=26134915))

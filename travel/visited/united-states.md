@@ -35,3 +35,4 @@
 - [Jonathan Haidt: What makes someone a Republican or a Democrat? | Andrew Yang (2021)](https://www.youtube.com/watch?v=gjufYwIbITw)
 - [The White House](https://www.whitehouse.gov/) ([Built with Wordpress](https://ma.tt/2021/01/new-whitehouse-gov/))
 - [Говорим с американским адвокатом о том, как правильно переехать в США (2020)](https://www.youtube.com/watch?v=Ke8I541K2QY)
+- [US Taxes](https://ustaxes.org/info) - Open source tax filing application. ([Code](https://github.com/thegrims/UsTaxes)) ([HN](https://news.ycombinator.com/item?id=26138446))

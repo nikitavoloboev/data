@@ -333,3 +333,4 @@
 - [Teach debugging](http://danluu.com/teach-debugging/)
 - [Understanding Computation Book](https://computationbook.com/) - Fun and interesting book about computation theory, with explanations written in real Ruby code instead of mathematical notation. ([Code](https://github.com/mjftw/clojure-simple-lang))
 - [Applied Compositional Thinking for Engineers](https://applied-compositional-thinking.engineering/lectures/)
+- [On navigating a large codebase (2020)](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/) ([HN](https://news.ycombinator.com/item?id=26129190))

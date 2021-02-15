@@ -15,3 +15,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Slugline](https://slugline.co/) - Screenwriting app for Mac.
 - [‘Mad Max: Fury Road’: The Oral History of a Modern Action Classic (2020)](https://www.nytimes.com/2020/05/12/movies/mad-max-fury-road-oral-history.html)
 - [David F. Sandberg videos on directing](https://www.youtube.com/user/ponysmasher/featured)
+- [The Drenching Richness of Andrei Tarkovsky (2021)](https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky) ([HN](https://news.ycombinator.com/item?id=26126004))

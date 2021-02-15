@@ -108,6 +108,7 @@
 - [Functional Pearl: It’s Easy As 1,2,3 (2021)](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
 - [Fool's scriptum on functional programming](https://github.com/kongware/scriptum) - Course about purely functional programming in JavaScript based on the scriptum library.
 - [PhD research notes on using pure functional programming for implementing Agent-Based Simulations (ABS)](https://github.com/thalerjonathan/phd)
+- [Cube Composer](https://david-peter.de/cube-composer/) - Learn Functional Programming Visually. ([Code](https://github.com/sharkdp/cube-composer)) ([HN](https://news.ycombinator.com/item?id=26131075))
 
 ## Images
 
