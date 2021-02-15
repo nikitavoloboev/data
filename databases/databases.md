@@ -299,3 +299,4 @@
 - [ProxySQL](https://github.com/sysown/proxysql) - High performance, high availability, protocol aware proxy for MySQL and forks (like Percona Server and MariaDB).
 - [Implementing Data Replication in MemgraphDB (2021)](https://memgraph.com/blog/implementing-data-replication)
 - [How Buffer Pool Works: An Implementation In Go (2021)](https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/) - Exploring how buffer pool management works in databases by building one.
+- [Database as a Queue (2021)](https://blog.koehntopp.info/2021/01/20/database-as-a-queue.html) ([Lobsters](https://lobste.rs/s/ukhpmn/database_as_queue))

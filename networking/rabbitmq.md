@@ -12,3 +12,4 @@
 - [RPC over RabbitMQ (with Elixir) (2020)](https://andrealeopardi.com/posts/rpc-over-rabbitmq-with-elixir/)
 - [amiquip](https://github.com/jgallagher/amiquip) - RabbitMQ client written in pure Rust.
 - [Testing RabbitMQ Resiliency with Chaos Mesh (2020)](https://www.youtube.com/watch?v=y2HAJBiXsw0)
+- [Running a Secure RabbitMQ Cluster in Nomad (2019)](https://andydote.co.uk/2019/04/06/nomad-rabbitmq-secure/)

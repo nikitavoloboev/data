@@ -114,3 +114,4 @@
 - [Linear ML](https://github.com/neel-krishnaswami/linearml) - Small implementation of a linear type theory in the style of the Benton-Wadler adjoint calculus.
 - [Implementing Inverse Bidirectional Typechecking](https://github.com/neel-krishnaswami/inverse-bidirectional-typechecking)
 - [The intrinsic topology of a Martin-Lo ̈f universe (2012)](https://www.cs.bham.ac.uk/~mhe/papers/universe-indiscrete-and-rice.pdf)
+- [Typing is Hard](https://3fx.ch/typing-is-hard.html)

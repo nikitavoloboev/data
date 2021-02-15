@@ -168,3 +168,4 @@
 - [musescore-downloader](https://github.com/Xmader/musescore-downloader) - Download sheet music from musescore.com for free.
 - [Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data](https://github.com/cifkao/groove2groove)
 - [Pitch Detector](https://ctrager.github.io/pitch.html) - Are you playing your violin (viola, guitar, etc.) in tune?
+- [The history of trackers (2020)](https://www.musictech.net/guides/essential-guide/history-of-trackers/) ([Lobsters](https://lobste.rs/s/0esop3/history_trackers))
