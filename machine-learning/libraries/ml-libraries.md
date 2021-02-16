@@ -120,3 +120,4 @@
 - [Larq](https://github.com/larq/larq) - Open-source deep learning library for training neural networks with extremely low precision weights and activations, such as Binarized Neural Networks (BNNs). ([Web](https://larq.dev/))
 - [tsai](https://github.com/timeseriesAI/tsai) - State-of-the-art Deep Learning for Time Series and Sequence Modeling.
 - [edbo](https://github.com/b-shields/edbo) - Experimental Design via Bayesian Optimization.
+- [TensorJS](https://github.com/Hoff97/tensorjs) - JS/TS library for accelerated tensor computation intended to be run in the browser.
