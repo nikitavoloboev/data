@@ -70,3 +70,4 @@
 - [Eveything you need to know about LoRaWAN in 60 minutes - Johan Stokking (2021)](https://www.youtube.com/watch?v=ZsVhYiX4_6o)
 - [Economical LoRa nodes (2021)](https://www.reddit.com/r/Lora/comments/lenh3s/looking_for_economical_lora_node/)
 - [LoRaWAN library for compatible Arduino board](https://github.com/BeelanMX/Beelan-LoRaWAN)
+- [Raspberry Pi Pico: The R2040 meets LoRaWAN (2021)](https://lemariva.com/blog/2021/02/raspberry-pi-pico-rp2040-meets-lorawan)

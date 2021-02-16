@@ -210,6 +210,7 @@
 - [Actors.jl](https://github.com/JuliaActors/Actors.jl) - Concurrent computing in Julia with actors.
 - [DaemonMode](https://github.com/dmolina/DaemonMode.jl) - Client-Daemon workflow to run faster scripts in Julia.
 - [CxxWrap](https://github.com/JuliaInterop/CxxWrap.jl) - Package to make C++ libraries available in Julia.
+- [Cassette](https://github.com/JuliaLabs/Cassette.jl) - Lets you easily extend the Julia language by directly injecting the Julia compiler with new, context-specific behaviors.
 
 ## Links
 

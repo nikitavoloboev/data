@@ -335,3 +335,4 @@
 - [Kubernetes, Pods, Kubernetes Pod Concepts (2021)](https://releaseapp.io/blog/kubernetes-pods-advanced-concepts-explained)
 - [Helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts.
 - [GetIstio](https://github.com/tetratelabs/getistio) - Integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
+- [Kubernetes Internals](https://github.com/shubheksha/kubernetes-internals) - Collection of resources that discuss the inner workings of Kubernetes.

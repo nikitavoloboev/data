@@ -35,3 +35,4 @@
 - [HASS-Deepstack-object](https://github.com/robmarkcole/HASS-Deepstack-object) - Home Assistant custom component for Deepstack object detection.
 - [Adaptive Lighting component for Home Assistant](https://github.com/basnijholt/adaptive-lighting)
 - [HA Lovelace card for control of scheduler entities](https://github.com/nielsfaber/scheduler-card)
+- [JavaScript websocket client for Home Assistant](https://github.com/home-assistant/home-assistant-js-websocket)

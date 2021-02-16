@@ -17,3 +17,4 @@ In any way, these are just hypothesis and are quite hard to test and see if they
 - [Jailbreaking the Simulation with George Hotz (2019)](https://www.youtube.com/watch?v=ESXOAJRdcwQ)
 - [HASH](https://hash.ai/) - Open-source platform for general purpose simulation.
 - [The Simulation Argument](https://www.simulation-argument.com/)
+- [The Simulation Hypothesis is Pseudoscience (2021)](https://www.youtube.com/watch?v=HCSqogSPU_Q) ([Reddit](https://www.reddit.com/r/Physics/comments/lkgtof/the_simulation_hypothesis_is_pseudoscience/))

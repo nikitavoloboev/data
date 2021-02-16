@@ -13,3 +13,4 @@
 - [Tesla](https://www.tesla.com/) - Electric Cars, Solar & Clean Energy.
 - [ARK-Invest-Tesla-Valuation-Model (2020)](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model)
 - [Hauling Buddies](https://hauling.market/) - Connecting clients and haulers together.
+- [Ark 1](https://www.lot2046.com/ark-1) ([HN](https://news.ycombinator.com/item?id=26148865))

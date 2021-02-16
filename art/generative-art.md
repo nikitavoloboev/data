@@ -2,6 +2,7 @@
 
 ## Links
 
+- [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.
 - [SNEK](https://github.com/inconvergent/snek) - Experimental system for writing generative systems.
 - [On Generative Algorithms](https://inconvergent.net/generative/sand-spline/)
 - [Inconvergent's generative art](https://inconvergent.net/generative/)
@@ -32,7 +33,6 @@
 - [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)
 - [Nervous System](https://n-e-r-v-o-u-s.com/index.php) - Generative design studio that works at the intersection of science, art, and technology.
 - [Experiments in generative art](https://sketchbook.netlify.com/) ([Code](https://github.com/winkerVSbecks/sketchbook))
-- [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.
 - [Valora](https://github.com/turnage/valora) - Brush for generative fine art. ([Docs](https://paytonturnage.gitbook.io/valora/)) ([HN](https://news.ycombinator.com/item?id=22837990))
 - [Writing Generative Art (2019)](https://paytonturnage.com/writing/writing-generative-art/)
 - [Valora's Rasterizer (2019)](https://paytonturnage.com/writing/valora-rasterizer/)

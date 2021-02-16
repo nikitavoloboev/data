@@ -123,3 +123,4 @@
 - [SwiftUI App Icon Creator](https://github.com/darrarski/swiftui-app-icon-creator) - Create iOS and macOS application icon in Xcode with SwiftUI.
 - [Flocking](https://github.com/Hi-Rez/Flocking) - Example showing how to use SwiftUI, Satin, Forge and Youi to simulate birds flocking via a compute particle system (n-body).
 - [Pulse](https://github.com/kean/Pulse) - Structured logging system built with SwiftUI. Record and inspect network requests and logs right from your iOS app using Pulse Console.
+- [Triple Trouble (2021)](https://kean.blog/post/triple-trouble) - Minimal example of three-column navigation for iPad and macOS using SwiftUI. ([Code](https://github.com/kean/ThreeColumnNavigation))

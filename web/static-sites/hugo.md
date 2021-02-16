@@ -34,6 +34,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [TeXify](https://github.com/queensferryme/hugo-theme-texify) - Minimal, latex-style hugo theme for personal blogging.
 - [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) - Accessibility-friendly Hugo theme.
 - [Tufte Hugo Theme](https://github.com/shawnohare/hugo-tufte)
+- [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Fast, clean, responsive Hugo theme.
 
 ## Examples
 

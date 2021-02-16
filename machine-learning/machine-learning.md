@@ -408,3 +408,5 @@
 - [Diverse Counterfactual Explanations (DiCE) for ML](https://github.com/interpretml/DiCE) - Generate Diverse Counterfactual Explanations for any machine learning model. ([Docs](https://interpret.ml/DiCE/))
 - [Interpretable Machine Learning](https://github.com/navdeep-G/interpretable-ml) - Techniques & resources for training interpretable ML models, explaining ML models, and debugging ML models.
 - [Awesome Causality](https://github.com/napsternxg/awesome-causality) - Resources related to causality.
+- [How to Understand ML Papers Quickly (2021)](https://blog.evjang.com/2021/01/understanding-ml.html)
+- [Patterns, Predictions, and Actions Book](https://mlstory.org/) - A story about machine learning.

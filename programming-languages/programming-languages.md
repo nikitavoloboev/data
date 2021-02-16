@@ -169,3 +169,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Linguist](https://github.com/github/linguist) - Library is used on GitHub.com to create languages used breakdowns.
 - [Joern](https://joern.io/) - Open-Source Code Querying Engine. ([Code](https://github.com/ShiftLeftSecurity/joern))
 - [ATS or Why Linear Types are the Future of Systems Programming (2021)](https://www.youtube.com/watch?v=c4Z25DJusuo)
+- [Enclosure: Language-Based Restriction of Untrusted Libraries](https://nebelwelt.net/files/21ASPLOS.pdf)

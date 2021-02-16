@@ -42,3 +42,4 @@
 - [fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package.
 - [etcpak](https://github.com/wolfpld/etcpak) - Extremely fast Ericsson Texture Compression and S3 Texture Compression (DXT1/DXT5) utility.
 - [Zopfli Compression Algorithm](https://github.com/google/zopfli) - Compression library programmed in C to perform very good, but slow, deflate or zlib compression.
+- [python-blosc](https://github.com/Blosc/python-blosc) - Python wrapper for the extremely fast Blosc compression library.

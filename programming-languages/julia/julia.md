@@ -72,3 +72,4 @@
 - [JuliaFormatter](https://github.com/domluna/JuliaFormatter.jl) - Opinionated code formatter for Julia. ([Docs](https://domluna.github.io/JuliaFormatter.jl/dev/))
 - [Julia workshop for Data Science](https://github.com/crsl4/julia-workshop)
 - [Julia 1.6: what has changed since Julia 1.0? (2021)](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html) ([HN](https://news.ycombinator.com/item?id=26132801))
+- [YASGuide](https://github.com/jrevels/YASGuide) - Yet Another Style Guide For Julia.

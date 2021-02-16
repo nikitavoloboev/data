@@ -224,3 +224,4 @@
 - [DetCo: Unsupervised Contrastive Learning for Object Detection (2021)](https://arxiv.org/abs/2102.04803) ([Code](https://github.com/xieenze/DetCo))
 - [Computer Vision Video Lectures](https://github.com/kuzand/Computer-Vision-Video-Lectures) - Curated list of free, high-quality, university-level courses with video lectures related to the field of Computer Vision.
 - [Cord](https://cord.tech/) - Training data toolbox for computer vision. ([HN](https://news.ycombinator.com/item?id=26104104))
+- [Text-Guided Editing of Images (Using CLIP and StyleGAN)](https://github.com/orpatashnik/StyleCLIP)

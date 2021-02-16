@@ -164,3 +164,4 @@
 - [AI Habitat](https://aihabitat.org/) - Simulation platform for research in Embodied AI. ([Habitat Challenge 2020 Code](https://github.com/facebookresearch/habitat-challenge))
 - [Fundamentals of Multiagent Systems (2010)](http://jmvidal.cse.sc.edu/papers/mas.pdf)
 - [CleanRL](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features.
+- [Rainbow is all you need](https://github.com/Curt-Park/rainbow-is-all-you-need) - Step-by-step tutorial from DQN to Rainbow.

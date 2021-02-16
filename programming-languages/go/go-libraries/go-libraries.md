@@ -726,6 +726,8 @@
 - [go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go. ([HN](https://news.ycombinator.com/item?id=26063830))
 - [webhooks](https://github.com/go-playground/webhooks) - Allows for easy receiving and parsing of GitHub, Bitbucket and GitLab Webhook Events.
 - [mainthread](https://github.com/faiface/mainthread) - Run stuff on the main thread in Go.
+- [ebml-go](https://github.com/at-wat/ebml-go) - Pure Go implementation of bi-directional EBML encoder/decoder.
+- [dither](https://github.com/makeworld-the-better-one/dither) - Fast, correct image dithering library in Go.
 
 ## Links
 

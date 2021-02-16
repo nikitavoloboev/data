@@ -224,3 +224,6 @@ I love Git and version control. And I use version control over any project I do.
 - [Cheatsheet to Rewrite Git History (2021)](https://blog.gitguardian.com/rewriting-git-history-cheatsheet/)
 - [Why SQLite Does Not Use Git](https://sqlite.org/whynotgit.html)
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+- [Commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects. Auto bump versions. Auto changelog generation.
+- [simple-pre-commit](https://github.com/toplenboren/simple-pre-commit) - Simple pre commit hook for small open source projects.
+- [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.

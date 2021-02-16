@@ -14,7 +14,7 @@
 - [Storycap](https://github.com/reg-viz/storycap) - Storybook Addon, Save the screenshot image of your stories via puppeteer.
 - [React Screenshot Test](https://github.com/fwouts/react-screenshot-test) - Dead simple library to screenshot test React components.
 - [Baretest](https://github.com/volument/baretest) - Extremely fast and simple JavaScript test runner.
-- [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript.
+- [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript. ([Web](https://dubzzz.github.io/fast-check.github.com/))
 - [Puppeteer examples](https://github.com/checkly/puppeteer-examples) - Puppeteer Headless Chrome examples for real life use cases.
 - [Tips on testing React components](https://twitter.com/tlakomy/status/1229800529133477889)
 - [TestCheck.js](https://github.com/leebyron/testcheck-js) - Generative property testing for JavaScript.

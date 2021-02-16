@@ -19,6 +19,7 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
 - [Music and Life](https://www.youtube.com/watch?v=WGoTmNU_5A0)
 - [Life is NOT a Journey](https://www.youtube.com/watch?v=rBpaUICxEhk)
+- [The Inevitable Ecstasy - Alan Watts](https://www.youtube.com/watch?v=K6sZQOADpt0)
 
 ## Interesting talks
 

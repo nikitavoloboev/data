@@ -50,3 +50,4 @@
 - [Dawn](https://github.com/TryGhost/Dawn) - Minimal newsletter theme for Ghost.
 - [Every](https://every.to/) - Bundle of newsletters and podcasts trusted by 25,000+ curious business people.
 - [Newsletters: rant about writing on the web (2021)](https://www.robinrendle.com/essays/newsletters)
+- [Substack lessons learned: 500 paid subscribers in 4 months (2021)](https://twitter.com/StockJabber/status/1361428648939696131)

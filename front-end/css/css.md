@@ -262,3 +262,4 @@
 - [Things You Can Do With CSS Today (2021)](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 - [Meanderer](https://github.com/jh3y/meanderer) - Micro-library for scaling CSS motion path strings.
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components.
+- [Fluid typography with CSS clamp (2021)](https://piccalil.li/tutorial/fluid-typography-with-css-clamp)

@@ -57,3 +57,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [The Evolution of Russian Hybrid Warfare (2021)](https://cepa.org/wp-content/uploads/2021/01/CEPA-Hybrid-Warfare-1.28.21.pdf)
 - [The Man Putin Fears The Most (2021)](https://www.youtube.com/watch?v=hrORwk_RZLM)
 - [Кремль ускорит свой конец: Юрий Гиммельфарб о заявлении Лаврова (2021)](https://www.youtube.com/watch?v=doNG2E7L3_U)
+- [The Evolution of Alexey Navalny’s Nationalism (2021)](https://www.newyorker.com/news/our-columnists/the-evolution-of-alexey-navalnys-nationalism)

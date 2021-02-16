@@ -132,3 +132,4 @@
 - [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/) ([HN](https://news.ycombinator.com/item?id=26085373))
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) ([Code](https://github.com/beejjorgensen/bgc))
 - [Obfuscated Tiny C Compiler](https://bellard.org/otcc/) ([HN](https://news.ycombinator.com/item?id=26141124))
+- [Angelix](http://angelix.io/) - Semantics-based test-driven automated program repair tool for C programs. ([Code](https://github.com/mechtaev/angelix))

@@ -463,6 +463,7 @@
 - [Honeycomb](https://github.com/flauwekeul/honeycomb) - Create hex grids easily, in node or the browser.
 - [chunkify](https://github.com/sindresorhus/chunkify) - Split an iterable into evenly sized chunks.
 - [wobble](https://github.com/skevy/wobble) - Tiny spring physics micro-library that models a damped harmonic oscillator.
+- [tmp-cache](https://github.com/lukeed/tmp-cache) - Least-recently-used cache in 35 lines of code.
 
 ## Links
 

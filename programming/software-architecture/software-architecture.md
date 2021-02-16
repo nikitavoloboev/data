@@ -123,3 +123,4 @@
 - [How to Communicate Architecture (2021)](http://beza1e1.tuxen.de/communicate_architecture.html)
 - [Building a modular software toolkit at Airtable (2021)](https://medium.com/airtable-eng/building-a-modular-software-toolkit-ce4efd06e75c)
 - [Introduction to Event-Driven Architecture (2021)](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
+- [A Clear Architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions.

@@ -250,3 +250,5 @@
 - [rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) - Offers high-performance tokenizers for modern language models.
 - [Replicating GPT-2 at Home (2021)](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html) ([HN](https://news.ycombinator.com/item?id=25883791))
 - [Shifterator](https://github.com/ryanjgallagher/shifterator) - Interpretable data visualizations for understanding how texts differ at the word level.
+- [CMU Neural Networks for NLP Course (2021)](http://phontron.com/class/nn4nlp2021/schedule.html) ([Videos](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV))
+- [minnn](https://github.com/neubig/minnn-assignment) - Exercise in developing a minimalist neural network toolkit for NLP.

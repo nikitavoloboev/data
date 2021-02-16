@@ -13,3 +13,4 @@
 - [Mathematics for Machine Learning - Multivariate Calculus (2020)](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
 - [List of Calculus and Analysis Symbols](https://mathvault.ca/hub/higher-math/math-symbols/calculus-analysis-symbols/)
 - [Zero to Calculus](https://docs.google.com/presentation/d/1JA1LVEV_mRTENcy34b_KNzcO6bHBXkFBsYyZRQS6OBg/edit#slide=id.g351491b35_0333)
+- [Elementary Calculus: An Infinitesimal Approach](https://www.math.wisc.edu/~keisler/calc.html)

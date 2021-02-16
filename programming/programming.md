@@ -334,3 +334,4 @@
 - [Understanding Computation Book](https://computationbook.com/) - Fun and interesting book about computation theory, with explanations written in real Ruby code instead of mathematical notation. ([Code](https://github.com/mjftw/clojure-simple-lang))
 - [Applied Compositional Thinking for Engineers](https://applied-compositional-thinking.engineering/lectures/)
 - [On navigating a large codebase (2020)](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/) ([HN](https://news.ycombinator.com/item?id=26129190))
+- [Is this a branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/)

@@ -21,3 +21,6 @@
 - [OpenBCI](https://openbci.com/) - Open Source Biosensing Tools (EEG, EMG, EKG, and more).
 - [5 startups competing with Neuralink (2021)](https://medium.com/swlh/5-startups-breaking-the-boundaries-in-neurotechnology-and-brain-computer-interfaces-better-than-2a3864e50ecb)
 - [Brain2Pix: Fully convolutional naturalistic video reconstruction from brain activity](https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1) ([HN](https://news.ycombinator.com/item?id=26085469))
+- [Neural interface for next-gen neuroprosthetics (2020)](https://www.biorxiv.org/content/10.1101/2020.09.17.301663v1.full)
+- [2020 Neural Interface Market: A Guide for Entrepreneurs and Investors](https://medium.com/neurotech-davis/neural-interface-market-2020-a-guide-for-entrepreneurs-and-investors-4dcd4ec9a4d0)
+- [What are the current main BCI theoretical and engineering challenges? (2021)](https://www.reddit.com/r/BCI/comments/g1wj86/what_are_the_current_main_bci_theoretical_and/)

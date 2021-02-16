@@ -101,3 +101,4 @@
 - [BioGraPy](https://github.com/apierleoni/BioGraPy) - Biological Graphic tool in Python.
 - [FPbase](https://www.fpbase.org/) - The Fluorescent Protein Database. ([Code](https://github.com/tlambert03/FPbase))
 - [Cell Ontology](http://obofoundry.org/ontology/cl) - Structured controlled vocabulary for cell types in animals. ([Code](https://github.com/obophenotype/cell-ontology))
+- [Squidpy](https://github.com/theislab/squidpy) - Spatial Molecular Data Analysis in Python.

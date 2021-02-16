@@ -103,6 +103,7 @@
 - [Getting our first 1000 users in one day (2020)](https://francescodilorenzo.com/typefully-launch) ([HN](https://news.ycombinator.com/item?id=25374319))
 - [Acquisition Channel Opportunities: Instagram Keyword Search, FB Ads Targeting, Pinterest Ranking on Google (2020)](https://www.indiehackers.com/post/acquisition-channel-opportunities-instagram-keyword-search-fb-ads-targeting-pinterest-ranking-on-google-3bec0075db)
 - [Does Advertising Actually Work? (2020)](https://freakonomics.com/podcast/advertising-part-1/) ([Part 2](https://freakonomics.com/podcast/advertising-part-2/))
+- [Entreprenerd: Marketing for Programmers](https://www.jackkinsella.ie/books/entreprenerd/marketing_for_programmers) - Condensed Guide to Marketing Software.
 
 ## Images
 

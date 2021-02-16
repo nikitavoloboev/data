@@ -50,6 +50,7 @@
 - [What is a current debate in neuroscience? (2021)](https://www.reddit.com/r/neuroscience/comments/l2eiro/what_is_a_current_debate_in_neuroscience/)
 - [NeuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 - [Ion channels explained (2021)](https://www.reddit.com/r/neuroscience/comments/lggrpi/ion_channels/)
+- [A compact spatial map in V2 visual cortex (2021)](https://www.biorxiv.org/content/10.1101/2021.02.11.430687v1) ([Reddit](https://www.reddit.com/r/neuroscience/comments/lj92m6/reevaluating_cognitive_map_theory/))
 
 ## Images
 

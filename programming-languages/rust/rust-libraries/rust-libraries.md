@@ -720,6 +720,7 @@
 - [thread_io](https://github.com/markschl/thread_io) - Rust crate for performing I/O in background thread.
 - [LRU Cache](https://github.com/jeromefroe/lru-rs) - Implementation of a LRU cache in Rust.
 - [Aper](https://github.com/aper-dev/aper) - Synchronized state machines for Rust over WebSockets.
+- [Parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.rs.
 
 ## Cargo Plugins
 

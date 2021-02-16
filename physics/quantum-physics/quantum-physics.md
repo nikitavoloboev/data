@@ -44,3 +44,4 @@
 - [Theory of Strongly Correlated Quantum Matter](https://www.fkf.mpg.de/schaefer#)
 - [Don't fall for quantum hype (2021)](https://www.youtube.com/watch?v=b-aGIvUomTA)
 - [Teaching Myself Quantum Mechanics (2021)](https://danielepaliotta.com/qm-1/)
+- [Closed Loophole Confirms the Unreality of the Quantum World (2018)](https://www.quantamagazine.org/closed-loophole-confirms-the-unreality-of-the-quantum-world-20180725/) ([HN](https://news.ycombinator.com/item?id=26147560))

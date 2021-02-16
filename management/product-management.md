@@ -47,3 +47,4 @@
 - [Decisions, Decisions or Why Baskets of Options Dominate (2019)](https://medium.com/@kentbeck_7670/decisions-decisions-or-why-baskets-of-options-dominate-9ac63658b593)
 - [Miro's Product Alignment Approach (2021)](https://farbod.substack.com/p/miros-product-alignment-approach)
 - [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) ([HN](https://news.ycombinator.com/item?id=26012189))
+- [How to Break into Product Management (2019)](https://blog.awaxman.com/how-to-break-into-product-management)

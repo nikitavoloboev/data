@@ -54,3 +54,4 @@
 - [Elm at Rakuten (2021)](https://dev.to/lucamug/elm-6m8)
 - [Safe dead code removal in a pure functional language (2021)](https://jfmengels.net/safe-dead-code-removal/)
 - [elm-tooling](https://github.com/elm-tooling/elm-tooling-cli) - Manage Elm tools. ([Docs](https://elm-tooling.github.io/elm-tooling-cli/))
+- [The trickiest Elm bug I've ever seen (2021)](https://blog.realkinetic.com/the-trickiest-elm-bug-ive-ever-seen-988aff6cbbd7)

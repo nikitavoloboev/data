@@ -56,3 +56,4 @@ Learning to build [startups](startups/startups.md).
 - [Largest tech companies by market cap](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/)
 - [Ask HN: Where can I buy SaaS businesses? (2021)](https://news.ycombinator.com/item?id=25817871)
 - [What are the most impactful non-profits in startups and tech? (2021)](https://twitter.com/schlaf/status/1357413874291662848)
+- [How James Clear runs his business](https://twitter.com/lexpaval/status/1359834580539371520)

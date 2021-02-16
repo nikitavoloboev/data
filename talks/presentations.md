@@ -36,3 +36,4 @@
 - [DeckDeckGo](https://deckdeckgo.com/) - Open source web editor for presentations. ([Code](https://github.com/deckgo/deckdeckgo))
 - [PRESENTA Lib](https://github.com/presenta-software/presenta-lib) - JavaScript library that generates web presentations from config objects. ([Docs](https://lib.presenta.cc/guide/))
 - [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years) ([HN](https://news.ycombinator.com/item?id=26033689))
+- [MDXP](https://github.com/0phoff/MDXP) - Allows you to create slides easily with React and MDX.

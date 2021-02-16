@@ -12,35 +12,35 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 
 - 21 Lessons for the 21st Century 🌟
 - Brief Answers to the Big Questions 🌟
-- A Brief History of Time - [Review](https://www.goodreads.com/review/show/713887770)
+- A Brief History of Time ([Review](https://www.goodreads.com/review/show/713887770))
 
 ### 2016
 
-- Mind for Numbers 🌟 - [Review](https://www.goodreads.com/review/show/1223423349) / [Notes](mind-for-numbers.md)
-- Flowers for Algernon 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
-- Heart of a Dog 🌟 - [Review](https://www.goodreads.com/review/show/589165109)
-- You Don't Know JS: Up & Going - [Review](https://www.goodreads.com/review/show/1587216818)
+- Mind for Numbers 🌟 ([Review](https://www.goodreads.com/review/show/1223423349)) ([Notes](mind-for-numbers.md))
+- Flowers for Algernon 🌟 ([Review](https://www.goodreads.com/review/show/782624446))
+- Heart of a Dog 🌟 ([Review](https://www.goodreads.com/review/show/589165109))
+- You Don't Know JS: Up & Going ([Review](https://www.goodreads.com/review/show/1587216818))
 
 ### 2015
 
-- Logical Reasoning: A First Course - [Review](https://www.goodreads.com/review/show/1389050373)
+- Logical Reasoning: A First Course ([Review](https://www.goodreads.com/review/show/1389050373))
 - The Fable of the Dragon-Tyrant
-- The Little Prince 🌟 - [Review](https://www.goodreads.com/review/show/1206274538)
-- Understand 🌟
+- The Little Prince 🌟 ([Review](https://www.goodreads.com/review/show/1206274538))
+- Understand - Ted Chiang 🌟
 
 ### 2014
 
-- Roadside Picnic - [Review](https://www.goodreads.com/review/show/589176848)
-- A Thousand Tiny Failures: Memoirs of a Pickup Artist - [Review](https://www.goodreads.com/review/show/919954441)
-- The Last Question 🌟 - [Review](https://www.goodreads.com/review/show/935666315)
+- Roadside Picnic ([Review](https://www.goodreads.com/review/show/589176848))
+- A Thousand Tiny Failures: Memoirs of a Pickup Artist ([Review](https://www.goodreads.com/review/show/919954441))
+- The Last Question 🌟 ([Review](https://www.goodreads.com/review/show/935666315))
 
 ### 2013
 
-- The Master and Margarita 🌟 - [Review](https://www.goodreads.com/review/show/583056473)
+- The Master and Margarita 🌟 ([Review](https://www.goodreads.com/review/show/583056473))
 
 ### 2012
 
-- The Picture of Dorian Gray 🌟 - [Review](https://www.goodreads.com/review/show/485035652)
+- The Picture of Dorian Gray 🌟 ([Review](https://www.goodreads.com/review/show/485035652))
 
 ## Unfinished
 

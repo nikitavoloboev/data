@@ -72,3 +72,4 @@
 - [Drawbacks of P2P and a defense of Signal (2021)](https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal) ([HN](https://news.ycombinator.com/item?id=25976439))
 - [P2P chat app with React & Gun.js](https://github.com/dabit3/react-p2p-messaging)
 - [pcp](https://github.com/dennis-tra/pcp) - Peer-to-Peer data transfer tool based on libp2p. ([HN](https://news.ycombinator.com/item?id=26124236))
+- [SonoBus](https://sonobus.net/) - Easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network. ([Code](https://github.com/essej/sonobus))

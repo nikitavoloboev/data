@@ -181,6 +181,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam.
+- [Bloom](https://bloom.sh/) - All-in-one workspace. Open Source Inbox, Calendar, Files, Contacts & much more. ([Code](https://github.com/skerkour/bloom))
 - [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk))
 - [Sextant](https://github.com/mattpocock/sextant) - GUI that lets you chart your application flows, then implement them with generated code.
 - [Windsor](https://windsor.io/) - Simplifying User Data.

@@ -88,6 +88,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RustyHermit](https://github.com/hermitcore/rusty-hermit) - Rust-based, lightweight unikernel.
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system. ([Web](http://jehanne.io/pages/overview.html))
 - [Mimosa](https://github.com/udem-dlteam/mimosa) - Operating system consists of a minimal kernel built on C++ and Scheme.
+- [daintree](https://github.com/kivikakk/daintree) - ARMv8-A operating system, plus a UEFI bootloader, all written in Zig.
 
 ## Notes
 

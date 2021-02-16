@@ -55,7 +55,8 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [lmt](https://github.com/driusan/lmt) - Literate markdown tangle.
 - [Markdown to Google Doc](https://github.com/timwis/markdown-to-google-doc) - Converts a markdown file to .docx and then imports it to Google Drive.
 - [remark-vdom](https://github.com/remarkjs/remark-vdom) - Plugin to compile Markdown to Virtual DOM.
-- [remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs))
+- [Remark](https://remark.js.org/) - Markdown processor powered by plugins. ([GitHub](https://github.com/remarkjs)) ([Code](https://github.com/remarkjs/remark))
+- [Awesome Remark](https://github.com/remarkjs/awesome-remark)
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [CommonMark](https://github.com/MichaelHatherly/CommonMark.jl) - CommonMark-compliant parser for Julia.
 - [Blackfriday](https://github.com/russross/blackfriday) - Markdown processor implemented in Go.

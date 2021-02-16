@@ -1,6 +1,6 @@
 # 2021 January
 
-It's incredibly sad [what is happening to human rights in Russia](https://twitter.com/adagamov/status/1356519608111542277). Russian people deserve better. Putin needs to be [jailed](https://twitter.com/La72La/status/1358911127141429253).
+It's incredibly sad [what is happening to human rights in Russia](https://twitter.com/adagamov/status/1356519608111542277). Russian people deserve better.
 
 > [Когда беззаконие и произвол — суть политической системы и это ужасно, но бывает хуже. Когда беззаконие и произвол надевают мундир прокурора или судейскую мантию. И в этом случае долг каждого человека — не подчиняться законам, которые в это облачены](https://twitter.com/StalinGulag/status/1356595455120076804)
 
