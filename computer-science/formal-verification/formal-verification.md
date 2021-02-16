@@ -53,4 +53,4 @@
 - [Formal Methods Research Group - University of Glasgow](http://www.dcs.gla.ac.uk/research/formalmethods/)
 - [Formal Methods: An Appetizer (2019)](https://www.springer.com/gp/book/9783030051556)
 - [Software Verification and Analysis Using Z3 (2021)](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
-- [Program = Proof](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Give a first introduction to theCurry-Howard correspondence between programs and proofs.
+- [Program = Proof](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Gives a first introduction to the Curry-Howard correspondence between programs and proofs.

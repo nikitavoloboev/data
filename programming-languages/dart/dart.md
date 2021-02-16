@@ -15,3 +15,4 @@
 - [web_socket_channel](https://github.com/dart-lang/web_socket_channel) - StreamChannel wrappers for WebSockets.
 - [Quiver](https://github.com/google/quiver-dart) - Set of utility libraries for Dart.
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
+- [Functions Framework for Dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions.

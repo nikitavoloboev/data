@@ -92,3 +92,4 @@
 - [StyleGAN2-Surgery](https://github.com/aydao/stylegan2-surgery) - StyleGAN2 fork with scripts and convenience modifications for creative media synthesis.
 - [Practical aspects of StyleGAN2 training](https://github.com/l4rz/practical-aspects-of-stylegan2-training)
 - [Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://arxiv.org/pdf/1909.12224.pdf) ([Code](https://github.com/svip-lab/impersonator))
+- [Intermediate Layer Optimization for Inverse Problems using Deep Generative Models](https://github.com/giannisdaras/ilo)
