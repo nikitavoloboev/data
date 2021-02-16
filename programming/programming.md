@@ -335,3 +335,4 @@
 - [Applied Compositional Thinking for Engineers](https://applied-compositional-thinking.engineering/lectures/)
 - [On navigating a large codebase (2020)](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/) ([HN](https://news.ycombinator.com/item?id=26129190))
 - [Is this a branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/)
+- [All about thread-local storage (2021)](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage) ([HN](https://news.ycombinator.com/item?id=26150512))
