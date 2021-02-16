@@ -49,3 +49,4 @@
 - [The Problem with Gradle (2021)](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/) ([HN](https://news.ycombinator.com/item?id=25801986))
 - [distcc](https://github.com/distcc/distcc) - Distributed builds for C, C++ and Objective C.
 - [CMake Examples](https://github.com/ttroy50/cmake-examples) ([Web](http://ttroy50.github.io/cmake-examples/))
+- [ninja-rs](https://github.com/nikhilm/ninja-rs) - Educational implementation of the ninja build system, based on ideas from the Build Systems a la Carte paper.
