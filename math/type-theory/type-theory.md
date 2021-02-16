@@ -115,3 +115,4 @@
 - [Implementing Inverse Bidirectional Typechecking](https://github.com/neel-krishnaswami/inverse-bidirectional-typechecking)
 - [The intrinsic topology of a Martin-Lo ̈f universe (2012)](https://www.cs.bham.ac.uk/~mhe/papers/universe-indiscrete-and-rice.pdf)
 - [Typing is Hard](https://3fx.ch/typing-is-hard.html)
+- [Catt](https://github.com/thibautbenjamin/catt) - Infinity categorical coherence typechecker.

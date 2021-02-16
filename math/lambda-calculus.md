@@ -49,3 +49,4 @@ Is logical theory of computable functions.
 - [Lambda-Calculus cooked n-ways](https://github.com/sweirich/lennart-lambda)
 - [lambs](https://github.com/RaasAhsan/lambs) - Enriched typed lambda calculus.
 - [Lambda Calculus (2020)](https://afnan.io/posts/lambda-calculus/)
+- [Categories and λ-calculus](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/)

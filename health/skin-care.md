@@ -11,6 +11,7 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 ## Notes
 
 - [Tanning is not good for your skin](https://www.youtube.com/watch?v=o9BqrSAHbTc).
+- [More water. More sleep. Less alcohol, less smoking, and less sugar. For most people that'd drop about ten years off of their visible age.](https://www.reddit.com/r/nutrition/comments/lksj1l/what_are_your_favorite_nutritional_tricks_for/)
 
 ## Links
 
