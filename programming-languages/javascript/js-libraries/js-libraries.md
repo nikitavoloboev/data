@@ -46,6 +46,7 @@
 - [Forgo](https://github.com/forgojs/forgo) - Ultra-light UI runtime. Makes it super easy to create modern web apps using JSX (like React).
 - [Whats Up](https://github.com/whatsup/whatsup) - Front-end framework based on ideas of streams and fractals.
 - [Boost](https://github.com/milesj/boost) - Collection of type-safe cross-platform packages for building robust server-side and client-side systems.
+- [Nostalgie](https://github.com/ggoodman/nostalgie) - Opinionated, full-stack, runtime-agnostic framework for building web apps and web pages using react. ([Web](https://nostalgie.dev/))
 
 ## Animation
 
