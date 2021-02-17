@@ -125,7 +125,7 @@ Below is a list of extensions I use.
 - [Stripe](https://marketplace.visualstudio.com/items?itemName=Stripe.vscode-stripe) ([Web](https://stripe.com/docs/stripe-vscode)) ([Tweet](https://twitter.com/auchenberg/status/1349772997993910272)) ([Code](https://github.com/stripe/vscode-stripe))
 - [VSCode Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 - [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly) - Grammar checking. ([Code](https://github.com/znck/grammarly))
-- [Footsteps](https://github.com/Wattenberger/footsteps-vscode) - Keep your place when jumping between a different parts of your code.
+- [Footsteps](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps) - Keep your place when jumping between a different parts of your code. ([Code](https://github.com/Wattenberger/footsteps-vscode))
 
 ## Shell
 

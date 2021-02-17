@@ -342,6 +342,7 @@
 - [SimFin](https://github.com/SimFin/simfin) - Simple financial data for Python. ([Web](https://simfin.com/))
 - [pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches.
 - [squema](https://github.com/Funk66/squema) - Smarter data structures.
+- [traces](https://github.com/datascopeanalytics/traces) - Python library for unevenly-spaced time series analysis.
 
 ## Links
 

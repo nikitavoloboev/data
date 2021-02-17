@@ -216,3 +216,4 @@
 - [FlameExplain](https://flame-explain.com/visualize/input) - PostgreSQL EXPLAIN ANALYZE visualizer with advanced quirk correction algorithms. ([Code](https://github.com/felixge/flame-explain))
 - [AWS Babelfish: The Elephant in the PostgreSQL Room? (2021)](https://postgresql.fund/blog/babelfish-the-elephant-in-the-room/) ([HN](https://news.ycombinator.com/item?id=26114281))
 - [Metagration](https://github.com/michelp/metagration) - PostgreSQL Migrator in PostgreSQL.
+- [Aquameta](https://github.com/aquametalabs/aquameta) - Web development platform built entirely in PostgreSQL.
