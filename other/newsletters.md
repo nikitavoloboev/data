@@ -51,3 +51,4 @@
 - [Every](https://every.to/) - Bundle of newsletters and podcasts trusted by 25,000+ curious business people.
 - [Newsletters: rant about writing on the web (2021)](https://www.robinrendle.com/essays/newsletters)
 - [Substack lessons learned: 500 paid subscribers in 4 months (2021)](https://twitter.com/StockJabber/status/1361428648939696131)
+- [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom feeds. ([HN](https://news.ycombinator.com/item?id=26167248))

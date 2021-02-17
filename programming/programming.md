@@ -337,3 +337,4 @@
 - [Is this a branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/) ([Lobsters](https://lobste.rs/s/dtqkxm/is_this_branch)) ([HN](https://news.ycombinator.com/item?id=26141047))
 - [All about thread-local storage (2021)](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage) ([HN](https://news.ycombinator.com/item?id=26150512))
 - ["Naming Things" is a Poor Name for Naming Things (2021)](https://buttondown.email/hillelwayne/archive/naming-things-is-a-poor-name-for-naming-things/) ([Lobsters](https://lobste.rs/s/lpjklr/naming_things_is_poor_name_for_naming))
+- [The Tech Debt Playbook (2021)](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)
