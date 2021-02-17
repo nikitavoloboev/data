@@ -1,6 +1,6 @@
 # Tea
 
-I prefer tea to coffee.
+I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give focus crashes and disrupt my sleep.
 
 ## Interesting
 
