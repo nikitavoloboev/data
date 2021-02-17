@@ -17,3 +17,4 @@
 - [Creating Tiny Executables in D (2020)](https://abqexpert.com/2020/11/16/creating-tiny-executables-in-d/)
 - [D: The Functional Programming Language Nobody is Talking About - Robert Schadek (2020)](https://www.youtube.com/watch?v=MgcYKqiEpqQ)
 - [Idioms for the D Programming Language](https://p0nce.github.io/d-idioms/) ([HN](https://news.ycombinator.com/item?id=26105564))
+- [Organizations Using the D Language](https://dlang.org/orgs-using-d.html) ([HN](https://news.ycombinator.com/item?id=26158191))

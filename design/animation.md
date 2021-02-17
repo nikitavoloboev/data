@@ -31,3 +31,4 @@
 - [Cartoon Brew](https://www.cartoonbrew.com/) - Animation News, Animated Cartoons.
 - [35 Years of Pixar Moments! | Pixar (2021)](https://www.youtube.com/watch?v=X3AcXraOW_k)
 - [Jitter](https://jitter.video/) - Motion design, made simple.
+- [Pixar in a Box: the art of storytelling](https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-box) ([HN](https://news.ycombinator.com/item?id=26163982))

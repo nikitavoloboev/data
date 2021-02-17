@@ -13,3 +13,4 @@
 - [J1 Forth CPU](https://www.excamera.com/sphinx/fpga-j1.html) ([HN](https://news.ycombinator.com/item?id=25759576))
 - [zForth](https://github.com/zevv/zForth) - Tiny, embeddable, flexible, compact Forth scripting language for embedded systems. ([HN](https://news.ycombinator.com/item?id=25772483))
 - [Modern C64 Forth](https://github.com/jkotlinski/durexforth)
+- [Easy Forth](https://skilldrick.github.io/easyforth/) - Learn forth with REPL in the browser. ([HN](https://news.ycombinator.com/item?id=26164275))

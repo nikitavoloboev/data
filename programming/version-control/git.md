@@ -227,3 +227,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects. Auto bump versions. Auto changelog generation.
 - [simple-pre-commit](https://github.com/toplenboren/simple-pre-commit) - Simple pre commit hook for small open source projects.
 - [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.
+- [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/) ([HN](https://news.ycombinator.com/item?id=26164790))

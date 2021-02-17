@@ -26,3 +26,4 @@
 - [On auto sizes in Grid Layout (2020)](https://www.youtube.com/watch?v=-FJYVwO4-BY) ([Slides](https://talks.hiddedevries.nl/K4gTqg/on-auto-sizes-in-grid-layout))
 - [Prevent layout shifts with CSS grid stacks (2020)](https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/)
 - [Native CSS Masonry Layout In CSS Grid (2020)](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
+- [Bringing a poster layout to life with CSS grid and GSAP](https://richardhaines.dev/bringing-poster-to-life-with-css-grid-and-gsap/)

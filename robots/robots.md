@@ -64,3 +64,4 @@
 - [HKU MaRS Lab](http://web.hku.hk/~fuzhang/index.html) - Focuses on general mechatronic systems and robotics, with emphasis on their practical use in real human life and industry. ([GitHub](https://github.com/hku-mars))
 - [Building General-Purpose Robots (2021)](https://howthehell.substack.com/p/general-purpose-robots)
 - [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics.
+- [Rearranging the Visual World (2021)](https://ai.googleblog.com/2021/02/rearranging-visual-world.html)

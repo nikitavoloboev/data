@@ -74,3 +74,4 @@
 - [Twitter’s Birdwatch is Fundamentally Flawed (2021)](https://soatok.blog/2021/01/27/twitters-birdwatch-is-fundamentally-flawed/)
 - [Spoonbill](http://spoonbill.io/) - See profile changes from the people you follow on Twitter or other social networks.
 - [fllwrs](http://fllwrs.com/) - Keep track of who follows and unfollows you on twitter.
+- [React Static Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.

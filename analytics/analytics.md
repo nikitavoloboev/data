@@ -68,3 +68,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Squzy](https://github.com/squzy/squzy) - High-performance open-source monitoring, incident and alert system written in Go with Bazel.
 - [Webmention Analytics](https://github.com/maxboeck/webmention-analytics) - Analytics dashboard for webmention.io data. ([Article](https://mxb.dev/blog/webmention-analytics/))
 - [Why Databricks Is Winning In The Data & Analytics Market (2021)](https://cloudnativeenterprise.substack.com/p/why-databricks-winning-market) ([HN](https://news.ycombinator.com/item?id=26135144))
+- [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL (2021)](https://brandur.org/minimal-analytics) ([HN](https://news.ycombinator.com/item?id=26155361))

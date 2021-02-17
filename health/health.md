@@ -37,3 +37,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Why Air Quality Matters (2018)](https://www.youtube.com/watch?v=MRqh8oLY7Ik)
 - [Levels](https://www.levelshealth.com/) - Metabolic Fitness Program.
 - [What Will Wellness Look Like in 2021?](https://www.vogue.com/article/wellness-2021)
+- [Digital Health Resources](https://www.franciswong.com/digital-health/)

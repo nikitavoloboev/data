@@ -11,3 +11,4 @@
 - [Open Leadership Framework](https://github.com/mozilla/open-leadership-framework)
 - [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 - [Daniel Ek, CEO of Spotify — The Art of Seeing Around Corners, Two-Year Missions, Top Books, and the Essence of Fire Soul (2020)](https://overcast.fm/+KebsaWsl0)
+- [Soft Skills in Engineering Leadership (2021)](https://codingsans.com/blog/leadership-soft-skills) ([HN](https://news.ycombinator.com/item?id=26165282))

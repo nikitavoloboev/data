@@ -345,3 +345,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The new reading stack (2020)](https://macwright.com/2020/12/24/the-new-reading-stack.html) ([HN](https://news.ycombinator.com/item?id=26035740))
 - [Goodreads Scraper](https://github.com/maria-antoniak/goodreads-scraper) - Python scripts can be used to collect book reviews and metadata from Goodreads.
 - [Reading Techniques](https://students.dartmouth.edu/academic-skills/learning-resources/learning-strategies/reading-techniques)
+- [Bookfeed.io](http://bookfeed.io/) - RSS Feed with New Releases from Your Favorite Authors.

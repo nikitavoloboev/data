@@ -132,3 +132,4 @@
 - [Instant Meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator.
 - [Graphics in Overlapping Bitmap Layers (1983)](https://www.cs.tufts.edu/~nr/cs257/archive/rob-pike/pike-bitmap.pdf)
 - [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/) ([HN](https://news.ycombinator.com/item?id=26134854))
+- [Ask HN: How to self-learn graphics programming? (2021)](https://news.ycombinator.com/item?id=26156783)
