@@ -95,3 +95,4 @@
 - [Intermediate Layer Optimization for Inverse Problems using Deep Generative Models](https://github.com/giannisdaras/ilo)
 - [CharacterGAN: Few-Shot Keypoint Character Animation and Reposing (2021)](https://arxiv.org/abs/2102.03141) ([Code](https://github.com/tohinz/CharacterGAN))
 - [TransGAN: Two Transformers Can Make One Strong GAN (2021)](https://arxiv.org/abs/2102.07074) ([Code](https://github.com/VITA-Group/TransGAN))
+- [Growing generative adversarial networks, layer by layer (2021)](https://www.amazon.science/blog/growing-generative-adversarial-networks-layer-by-layer)
