@@ -20,6 +20,7 @@
 - [Discord JS](https://github.com/discordjs/discord.js)
 - [Discord Swift](https://github.com/Azoy/Sword)
 - [Discord Lua](https://github.com/SinisterRectus/Discordia)
+- [discord-jsx](https://github.com/alii/discord-jsx) - Experimental way to write Discord bots with JSX for Node.
 
 ## Links
 

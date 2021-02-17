@@ -216,6 +216,7 @@ Here are few more things I liked, design wise.
 - [Eric Vanular](https://ericvanular.com/)
 - [Bilal Khan](https://bilal.software/)
 - [Haki Benita](https://hakibenita.com/)
+- [Steven Petryk](https://stevenpetryk.com/)
 - [Joey Banks](https://joeyabanks.io/)
 - [Brian Louis](https://blr.design/)
 - [Brian Hicks](https://www.brianthicks.com/)

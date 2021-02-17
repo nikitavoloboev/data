@@ -156,6 +156,7 @@
 - [Homebase React](https://github.com/homebaseio/homebase-react) - Graph database for delightful React state management.
 - [react-svg](https://github.com/tanem/react-svg) - React component that injects SVG into the DOM.
 - [Gitalk](https://github.com/gitalk/gitalk) - Modern comment component based on GitHub Issue and Preact.
+- [Mafs](https://github.com/stevenpetryk/mafs) - React components for math visualization. ([Docs](https://mafs.dev/guides/get-started/installation/))
 
 ## Links
 

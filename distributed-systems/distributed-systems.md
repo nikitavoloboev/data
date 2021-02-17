@@ -162,3 +162,4 @@
 - [Raft implementation in Rust language](https://github.com/akiradeveloper/lol)
 - [Porcupine](https://github.com/anishathalye/porcupine) - Fast linearizability checker for testing the correctness of distributed systems.
 - [Testing Distributed Systems for Linearizability (2017)](https://www.anishathalye.com/2017/06/04/testing-distributed-systems-for-linearizability/)
+- [Namazu](https://github.com/osrg/namazu) - Programmable Fuzzy Scheduler for Testing Distributed Systems.

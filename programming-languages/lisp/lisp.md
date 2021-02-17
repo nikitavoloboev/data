@@ -116,3 +116,4 @@
 - [Why I still Lisp (2021)](https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8) ([HN](https://news.ycombinator.com/item?id=25978190))
 - [A Lisp REPL as my main shell](https://ambrevar.xyz/lisp-repl-shell/index.html) ([HN](https://news.ycombinator.com/item?id=26059023))
 - [Ask HN: Why should we learn Lisp? (2021)](https://news.ycombinator.com/item?id=26162522)
+- [My experience of writing Lisp in Pony (2020)](https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/)

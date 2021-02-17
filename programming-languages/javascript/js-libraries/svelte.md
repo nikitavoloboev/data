@@ -79,3 +79,4 @@
 - [Why are React component libraries so complicated compared to Svelte? (2021)](https://gradientdescent.de/sharing-components/)
 - [Pancake](https://pancake-charts.surge.sh/) - Charts for Svelte apps. ([Code](https://github.com/Rich-Harris/pancake))
 - [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - Declarative Svelte routing library with SSR support.
+- [svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - Svelte Preprocessor to compile tailwindcss at build time.
