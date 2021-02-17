@@ -96,3 +96,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla (2021)](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/) ([HN](https://news.ycombinator.com/item?id=25810427))
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - Tool to verify that your files are in harmony with your .editorconfig. ([Web](https://editorconfig-checker.github.io/))
 - [dprint](https://dprint.dev/) - Pluggable and configurable code formatting platform written in Rust. ([Code](https://github.com/dprint/dprint))
+- [Building a High Performance Text Editor (2021)](https://wbond.net/thoughts/building_a_high_performance_text_editor)
