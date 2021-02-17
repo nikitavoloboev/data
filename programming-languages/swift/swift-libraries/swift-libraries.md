@@ -617,6 +617,7 @@
 - [RxBiBinding](https://github.com/RxSwiftCommunity/RxBiBinding) - Reactive two-way binding.
 - [CoreGPX](https://github.com/vincentneo/CoreGPX) - Library for parsing and creation of GPX location files. Purely Swift.
 - [SwiftRT](https://github.com/ewconnell/swiftrt) - Experimental computational framework written in the Swift language.
+- [Beethoven](https://github.com/vadymmarkov/Beethoven) - Audio processing Swift library that provides an easy-to-use interface to solve an age-old problem of pitch detection of musical signals.
 
 ## Other (not lib)
 

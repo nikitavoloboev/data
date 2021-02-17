@@ -51,3 +51,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Support in Brave (2021)](https://brave.com/ipfs-support/) ([HN](https://news.ycombinator.com/item?id=25836886)) ([GitHub Issue](https://github.com/brave/brave-browser/issues/10220))
 - [IPSQL](https://github.com/mikeal/IPSQL) - Decentralized database that can run in IPFS. It implements the SQL schema, data model, and query language.
 - [IPFS telegra.ph clone](https://github.com/alexstep/ipfs-telegra.ph) - Minimalist publishing tool for post data to IPFS network. UI cloned from Telegra.ph
+- [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
