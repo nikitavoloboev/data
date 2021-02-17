@@ -193,3 +193,4 @@ I publish most of my work and make it open source for other people to use and re
 - [HN: Open-source, not open-contribution (2021)](https://news.ycombinator.com/item?id=25940195)
 - [GitHub1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code. ([HN](https://news.ycombinator.com/item?id=26083919))
 - [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time.
+- [ghapi](https://github.com/fastai/ghapi) - Delightful and complete interface to GitHub's amazing API.

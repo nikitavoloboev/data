@@ -50,3 +50,4 @@
 - [sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database.
 - [SQLite DB Migrations with PRAGMA user_version](https://levlaz.org/sqlite-db-migrations-with-pragma-user_version/)
 - [Many Small Queries Are Efficient In SQLite](https://sqlite.org/np1queryprob.html)
+- [Rust SQLite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust.

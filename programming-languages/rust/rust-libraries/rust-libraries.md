@@ -721,6 +721,7 @@
 - [LRU Cache](https://github.com/jeromefroe/lru-rs) - Implementation of a LRU cache in Rust.
 - [Aper](https://github.com/aper-dev/aper) - Synchronized state machines for Rust over WebSockets.
 - [Parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.rs.
+- [meio](https://github.com/rillrate/meio) - Async actor framework for Rust.
 
 ## Cargo Plugins
 
