@@ -16,6 +16,7 @@ It includes:
 - [CoRecursive](https://overcast.fm/itunes1330329512/corecursive-software-engineering-interviews) - Learn from software development experts. Hosted by Adam Gordon Bell.
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
 - [cpp.chat](https://overcast.fm/itunes1378325120/cpp-chat) - Strong opinions, weekly held - with great guests from the C++ community.
+- [Daniel and Jorge Explain the Universe](https://overcast.fm/itunes1436616330/daniel-and-jorge-explain-the-universe) - Daniel & Jorge discuss some of the simple but profound questions about existence.
 - [DeepMind: The Podcast](https://overcast.fm/itunes1476316441/deepmind-the-podcast) - Aims to give listeners an inside look at the fascinating world of AI research.
 - [Design Details](https://overcast.fm/itunes947191070/design-details) - Weekly conversation about design process and culture.
 - [The Diff: A Podcast from Facebook Open Source](https://overcast.fm/itunes1454407488/the-diff-a-podcast-from-facebook-open-source) - Showcases the program, the projects and the people that drives the team’s mission of building community through open source technology.

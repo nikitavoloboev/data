@@ -42,6 +42,7 @@
 - [CI](https://github.com/sasa1977/ci) - CI/CD toolkit as an Elixir library.
 - [Waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 - [Oban](https://github.com/sorentwo/oban) - Robust job processing in Elixir, backed by modern PostgreSQL. ([Web](https://getoban.pro/))
+- [nx](https://github.com/elixir-nx/nx) - Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU.
 
 ## Links
 
