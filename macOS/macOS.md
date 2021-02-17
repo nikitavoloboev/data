@@ -139,3 +139,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [DyldExtractor](https://github.com/arandomdev/DyldExtractor) - Extract Binaries from Apple's Dyld Shared Cache.
 - [ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife. ([Web](https://blacktop.github.io/ipsw/))
 - [Hacking native ARM64 binaries to run on the iOS Simulator (2021)](https://bogo.wtf/arm64-to-sim.html) ([Code](https://github.com/bogo/arm64-to-sim))
+- [strongarm](https://github.com/datatheorem/strongarm) - Full-featured, cross-platform ARM64 Mach-O analysis library.

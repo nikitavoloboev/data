@@ -38,3 +38,4 @@
 - [Seeding Databases with Prisma (2021)](https://www.youtube.com/watch?v=2LwTUIqjbPo)
 - [Prisma ERD](https://prisma-erd.simonknott.de/) - Small tool to visualize Prisma schemas as Entity-Relationship Diagrams. ([Code](https://github.com/Skn0tt/prisma-erd))
 - [Prettier plugin for Prisma](https://github.com/umidbekk/prettier-plugin-prisma)
+- [NextJS with Prisma](https://github.com/chenkie/next-prisma) - Sample project shows how to use NextJS with Prisma.
