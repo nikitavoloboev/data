@@ -154,6 +154,8 @@
 - [Glide Data Grid](https://github.com/glideapps/glide-data-grid) - High-performance React grid component, with rich rendering and first-class TypeScript support.
 - [React Colorful](https://github.com/omgovich/react-colorful) - Tiny color picker component for React and Preact apps.
 - [Homebase React](https://github.com/homebaseio/homebase-react) - Graph database for delightful React state management.
+- [react-svg](https://github.com/tanem/react-svg) - React component that injects SVG into the DOM.
+- [Gitalk](https://github.com/gitalk/gitalk) - Modern comment component based on GitHub Issue and Preact.
 
 ## Links
 

@@ -615,6 +615,8 @@
 - [GEOSwift](https://github.com/GEOSwift/GEOSwift) - Swift Geometry Engine.
 - [Syntax](https://github.com/nerdsupremacist/Syntax) - Write parsers quickly in Swift with an intuitive SwiftUI-like DSL.
 - [RxBiBinding](https://github.com/RxSwiftCommunity/RxBiBinding) - Reactive two-way binding.
+- [CoreGPX](https://github.com/vincentneo/CoreGPX) - Library for parsing and creation of GPX location files. Purely Swift.
+- [SwiftRT](https://github.com/ewconnell/swiftrt) - Experimental computational framework written in the Swift language.
 
 ## Other (not lib)
 

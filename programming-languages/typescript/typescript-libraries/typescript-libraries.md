@@ -101,6 +101,7 @@
 - [ts-union-tools](https://github.com/naruaway/ts-union-tools) - Set of minimal utilities to work with union types and tagged unions in TypeScript.
 - [ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript.
 - [prex](https://github.com/rbuckton/prex) - Asynchronous coordination for JavaScript and TypeScript.
+- [Purifree](https://github.com/nythrox/purifree) - Pointfree type-safe functional programming library for TypeScript - with do notation, HKTs, generic lifts and more.
 
 ## Links
 

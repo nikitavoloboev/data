@@ -28,3 +28,4 @@
 - [Flite](https://github.com/festvox/flite) - Small fast portable speech synthesis system.
 - [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech (2020)](https://arxiv.org/abs/2006.04558) ([Code](https://github.com/rishikksh20/FastSpeech2))
 - [Neural Granular Sound Synthesis](https://adrienchaton.github.io/neural_granular_synthesis/) ([Code](https://github.com/adrienchaton/neural_granular_synthesis))
+- [CLEESE](https://github.com/creamlab/cleese) - Combinatorial Expressive Speech Engine.

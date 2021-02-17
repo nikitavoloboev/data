@@ -20,3 +20,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Drug Repurposing Knowledge Graph (DRKG)](https://github.com/gnn4dr/DRKG) - Comprehensive biological knowledge graph relating genes, compounds, diseases, biological processes, side effects and symptoms.
 - [Debunking Crystal Meth Myths | The War on Drugs (2020)](https://www.youtube.com/watch?v=D-VkWkPs1aw)
 - [Know Your Amphetamines (2021)](https://astralcodexten.substack.com/p/know-your-amphetamines)
+- [What are your top 5 favorite drugs? (2021)](https://www.reddit.com/r/Drugs/comments/llo8rt/what_are_your_top_5_favorite_drugs/)

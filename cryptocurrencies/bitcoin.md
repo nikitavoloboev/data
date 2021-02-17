@@ -9,7 +9,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 
 ## Links
 
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers.
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. ([Web](https://bitcoinbook.info/))
 - [Bitcoin for laypeople (2018)](https://mafinto.sh/blog/bitcoin-for-laypeople.html)
 - [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)
 - [Bitcoin: "Failing to Scale" - Prague 2016](https://www.youtube.com/watch?v=bFOFqNKKns0)

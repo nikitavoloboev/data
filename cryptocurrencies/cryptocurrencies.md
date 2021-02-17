@@ -67,3 +67,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Elrond and the New Crypto Spaces (2021)](https://marginalrevolution.com/marginalrevolution/2021/01/elrond-and-the-new-crypto-spaces.html) ([HN](https://news.ycombinator.com/item?id=25835871))
 - [Decrypt](https://decrypt.co/) - Your guide to Bitcoin, Ethereum & Web 3.0.
 - [Awesome crypto trading bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
+- [A mind-map of cryptocurrencies for crypto noobs (2021)](https://noobmaker.substack.com/p/a-quick-overview-of-cryptocurrencies)

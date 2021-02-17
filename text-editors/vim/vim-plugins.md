@@ -119,6 +119,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions.
 - [test.vim](https://github.com/vim-test/vim-test) - Vim wrapper for running tests on different granularities.
 - [Sniprun](https://github.com/michaelb/sniprun) - Code runner plugin for neovim.
+- [fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) - Enable the power of fzf fuzzy search for the neovim built in lsp.
 
 ## Looks
 

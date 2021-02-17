@@ -227,3 +227,4 @@
 - [Text-Guided Editing of Images (Using CLIP and StyleGAN)](https://github.com/orpatashnik/StyleCLIP)
 - [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. ([Web](https://paperswithcode.com/lib/torchvision))
 - [MeInGame: Create a Game Character Face from a Single Portrait (2021)](https://arxiv.org/abs/2102.02371) ([Code](https://github.com/FuxiCV/MeInGame))
+- [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)

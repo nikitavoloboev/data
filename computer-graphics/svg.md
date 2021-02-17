@@ -67,3 +67,4 @@
 - [SVG Crop](https://svgcrop.com/) - Remove blank space from around any SVG instantly.
 - [SVG Tutorial: How to Code SVG Icons by Hand (2021)](https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand/)
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons.
+- [svg-injector](https://github.com/tanem/svg-injector) - Fast, caching, dynamic inline SVG DOM injection library.
