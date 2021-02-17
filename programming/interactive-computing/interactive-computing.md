@@ -23,3 +23,4 @@
 - [Taxonomies of Visual Programming (1990)](https://www.cs.cmu.edu/~bam/papers/VLtax2-jvlc-1990.pdf) ([HN](https://news.ycombinator.com/item?id=26057530))
 - [SplootCode Editor](https://github.com/katharosada/splootcode) - Experimental visual coding interface that's tree-based.
 - [Script of Scripts (SoS)](https://vatlab.github.io/sos-docs/) - Computational environment for the development and execution of scripts in multiple languages for daily computational research.
+- [Myxine](https://github.com/kwf/myxine) - Local web server that enables you to create interactive applications in your web browser from the comfort of your favorite programming language.

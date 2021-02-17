@@ -106,6 +106,7 @@
 - [Reconciling concepts from FP and OOP (2020)](https://thma.github.io/posts/2020-12-20-reconciling-fp-and-oop-concepts.html)
 - [Book of Monads](https://www.goodreads.com/book/show/42449863-the-book-of-monads) ([Code](https://github.com/JonathanLorimer/book-of-monads))
 - [Functional Pearl: It’s Easy As 1,2,3 (2021)](http://www.cs.nott.ac.uk/~pszgmh/123.pdf)
+- [Functional pearl: getting a quick fix on comonads (2015)](https://dl.acm.org/doi/10.1145/2887747.2804310) ([Code](https://github.com/kwf/GQFC))
 - [Fool's scriptum on functional programming](https://github.com/kongware/scriptum) - Course about purely functional programming in JavaScript based on the scriptum library.
 - [PhD research notes on using pure functional programming for implementing Agent-Based Simulations (ABS)](https://github.com/thalerjonathan/phd)
 - [Cube Composer](https://david-peter.de/cube-composer/) - Learn Functional Programming Visually. ([Code](https://github.com/sharkdp/cube-composer)) ([HN](https://news.ycombinator.com/item?id=26131075))
