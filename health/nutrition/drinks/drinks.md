@@ -1,6 +1,8 @@
 # Drinks
 
-I avoid drinking sugary drinks and try drink mostly water, tea & occasional coffee.
+I avoid drinking sugary drinks and try drink well brewed tea where possible. Water otherwise.
+
+I also drink an occasional coffee although I try avoid it as it disrupts my sleep more often than not and gives me focus crashes.
 
 ## Interesting drinks
 
