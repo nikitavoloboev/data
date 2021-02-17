@@ -341,6 +341,7 @@
 - [Reloadr](https://github.com/hoh/reloadr) - Hot code reloading tool for Python.
 - [SimFin](https://github.com/SimFin/simfin) - Simple financial data for Python. ([Web](https://simfin.com/))
 - [pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches.
+- [squema](https://github.com/Funk66/squema) - Smarter data structures.
 
 ## Links
 
