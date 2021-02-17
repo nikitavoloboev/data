@@ -29,6 +29,7 @@
 - [Virtual Event Starter Kit](https://github.com/vercel/virtual-event-starter-kit) - Open source demo that Next.js developers can clone, deploy, and fully customize for events.
 - [Next.js Examples](https://github.com/brunocrosier/nextexamples) - Explore all of the official Next.js examples.
 - [Dan Abramov's Blog in Next.js](https://github.com/condinoaljoseph/aljoseph.co) ([Tweet](https://twitter.com/rauchg/status/1361849656741793793))
+- [next-ignite](https://github.com/hipstersmoothie/next-ignite) - Flexible next.js based documentation website with content authoring in MDX.
 
 ## NextJS plugins
 
