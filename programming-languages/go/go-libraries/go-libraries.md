@@ -730,6 +730,7 @@
 - [dither](https://github.com/makeworld-the-better-one/dither) - Fast, correct image dithering library in Go.
 - [BTree](https://github.com/google/btree) - Provides a simple, ordered, in-memory data structure for Go programs.
 - [gocron](https://github.com/go-co-op/gocron) - Go job scheduling package which lets you run Go functions periodically at pre-determined interval using a simple, human-friendly syntax.
+- [got-reload](https://github.com/got-reload/got-reload) - Reload Go code in a running process at function/method level granularity, using Yaegi.
 
 ## Links
 
