@@ -205,6 +205,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Wix.com](https://www.wix.com/) - Free Website Builder.
 - [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
+- [Murmur](https://www.murmur.com/) - Collaborative platform where teams create, test, scale, and share working agreements.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.

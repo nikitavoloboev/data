@@ -36,3 +36,4 @@
 - [3dfier](https://github.com/tudelft3d/3dfier) - Open-source tool for creating of 3D models. ([Docs](http://tudelft3d.github.io/3dfier/))
 - [Shapefest](https://shapefest.com/) - Massive library of free 3D shapes.
 - [sdf](https://github.com/fogleman/sdf) - Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
+- [potpourri3d](https://github.com/nmwsharp/potpourri3d) - Python library of various algorithms and utilities for 3D triangle meshes and point clouds.

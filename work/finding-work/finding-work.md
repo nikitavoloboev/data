@@ -91,3 +91,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Job Search](https://jobsearchi.com/) ([API](https://api.jobsearchi.com/))
 - [Questions to ask before accepting a tech job offer (2020)](https://blog.mironov.live/questions-to-ask-before-accepting-a-tech-job-offer/)
 - [Best way to find a job at a startup (2021)](https://twitter.com/SWARTZcenter/status/1350075419479969798) ([HN](https://news.ycombinator.com/item?id=25793459))
+- [Ask HN: Advice for finding an entry-level remote job? (2021)](https://news.ycombinator.com/item?id=26171008)

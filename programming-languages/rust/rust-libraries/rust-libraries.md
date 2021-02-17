@@ -725,6 +725,8 @@
 - [meio](https://github.com/rillrate/meio) - Async actor framework for Rust.
 - [Decimal](https://github.com/paupino/rust-decimal) - Decimal Implementation written in pure Rust suitable for financial calculations.
 - [message-io](https://github.com/lemunozm/message-io) - Event-driven message library for building network applications easy and fast.
+- [GraphQL Parser](https://github.com/graphql-rust/graphql-parser) - Parser, formatter and AST for graphql query and schema definition language for rust.
+- [multer-rs](https://github.com/rousan/multer-rs) - Async parser for multipart/form-data content-type in Rust.
 
 ## Cargo Plugins
 

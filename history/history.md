@@ -93,3 +93,4 @@
 - [The Sámi on Camera (2021)](https://www.historytoday.com/miscellanies/sami-camera)
 - [History Today](https://www.historytoday.com/) - Illustrated history magazine.
 - [The Why of technology (2021)](https://www.murilopereira.com/the-why-of-technology/)
+- [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/) ([HN](https://news.ycombinator.com/item?id=26171904))
