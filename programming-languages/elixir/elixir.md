@@ -81,3 +81,4 @@
 - [ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project.
 - [Learning Elixir: It’s All Reduce (2021)](https://redrapids.medium.com/learning-elixir-its-all-reduce-204d05f52ee7)
 - [José Valim Reveals “Project Nx” (Numerical Elixir) (2021)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/) ([HN](https://news.ycombinator.com/item?id=26076680))
+- [Three Ways To Get Started With Mutation Testing (2021)](https://devonestes.com/three-ways-to-get-started-with-mutation-testing)

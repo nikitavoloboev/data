@@ -231,6 +231,7 @@
 - [seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code.
 - [Automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module.
 - [Aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js.
+- [Velcro](https://github.com/peterjoel/velcro) - Macros for conveniently initializing collections from Rust's std and iterators.
 
 ## Other
 

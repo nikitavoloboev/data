@@ -35,3 +35,4 @@
 - [Fulfilling the promise of CI/CD (2021)](https://stackoverflow.blog/2021/01/19/fulfilling-the-promise-of-ci-cd/) ([HN](https://news.ycombinator.com/item?id=25843210))
 - [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 - [Setting up a CI system part 1: Preparing your test machines (2021)](http://www.mupuf.org/blog/2021/02/08/setting-up-a-ci-system-preparing-your-test-machine/)
+- [Delta CI](https://deltaci.com/) - Bare Metal CI/CD with much faster builds. ([HN](https://news.ycombinator.com/item?id=26167222))
