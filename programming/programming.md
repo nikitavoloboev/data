@@ -334,5 +334,6 @@
 - [Understanding Computation Book](https://computationbook.com/) - Fun and interesting book about computation theory, with explanations written in real Ruby code instead of mathematical notation. ([Code](https://github.com/mjftw/clojure-simple-lang))
 - [Applied Compositional Thinking for Engineers](https://applied-compositional-thinking.engineering/lectures/)
 - [On navigating a large codebase (2020)](https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/) ([HN](https://news.ycombinator.com/item?id=26129190))
-- [Is this a branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/)
+- [Is this a branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/) ([Lobsters](https://lobste.rs/s/dtqkxm/is_this_branch)) ([HN](https://news.ycombinator.com/item?id=26141047))
 - [All about thread-local storage (2021)](https://maskray.me/blog/2021-02-14-all-about-thread-local-storage) ([HN](https://news.ycombinator.com/item?id=26150512))
+- ["Naming Things" is a Poor Name for Naming Things (2021)](https://buttondown.email/hillelwayne/archive/naming-things-is-a-poor-name-for-naming-things/) ([Lobsters](https://lobste.rs/s/lpjklr/naming_things_is_poor_name_for_naming))

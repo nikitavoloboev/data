@@ -271,3 +271,4 @@
 - [Making Sense of The Audio Stack On Unix (2021)](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html) ([Lobsters](https://lobste.rs/s/rsvg4s/making_sense_audio_stack_on_unix)) ([HN](https://news.ycombinator.com/item?id=26056588))
 - [The Wayland Protocol Book](https://wayland-book.com/)
 - [Linux memory management FAQ](http://landley.net/writing/memory-faq.txt)
+- [Using eBPF to uncover in-memory loading (2021)](https://blog.tofile.dev/2021/02/15/ebpf-01.html)

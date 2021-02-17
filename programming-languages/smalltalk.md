@@ -30,4 +30,4 @@
 - [The Smalltalk Zoo (2020)](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/) ([Web](https://smalltalkzoo.thechm.org/)) ([HN](https://news.ycombinator.com/item?id=25461760)) ([HN 2](https://news.ycombinator.com/item?id=25754311))
 - [SOM (Simple Object Machine)](https://github.com/rochus-keller/Som) - Smalltalk dialect which is file-based and independent of the Bluebook bytecode and interpreter.
 - [Dr.Geo](http://www.drgeo.eu/) - Interactive Geometry in Smalltalk.
-- [Experiencing Smalltalk (2021)](https://nikhilism.com/post/2021/experiencing-smalltalk/)
+- [Experiencing Smalltalk (2021)](https://nikhilism.com/post/2021/experiencing-smalltalk/) ([Lobsters](https://lobste.rs/s/wgnazl/experiencing_smalltalk))

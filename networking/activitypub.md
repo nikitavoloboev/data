@@ -16,3 +16,4 @@
 - [Issues with ActivityPub (2020)](https://lobste.rs/s/ig0vsd/ask_does_lobster_have_any_plan_join#c_p6gfj9)
 - [Fediverse in 2020](https://fediverse.party/en/post/fediverse-in-2020) ([HN](https://news.ycombinator.com/item?id=25849533))
 - [Fediverse.Party](https://fediverse.party/) - Explore federated networks.
+- [Project idea feedback on "ActivityPub but for sandboxed general purpose computation" (2021)](https://lobste.rs/s/ojnuyg/project_idea_feedback_on_activitypub_for)

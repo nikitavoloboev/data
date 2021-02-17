@@ -65,3 +65,4 @@
 - [Data structures and program structures](http://cr.yp.to/data.html)
 - [cdb](http://cr.yp.to/cdb.html) - Fast, reliable, simple package for creating and reading constant databases.
 - [PGM-index](https://pgm.di.unipi.it/) - Learned indexes that match B-tree performance with 83x less space. ([HN](https://news.ycombinator.com/item?id=25899286)) ([Code](https://github.com/gvinciguerra/PGM-index))
+- [Structural and pure attributes](https://minimalmodeling.substack.com/p/structural-and-pure-attributes)
