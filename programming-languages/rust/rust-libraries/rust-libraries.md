@@ -723,6 +723,7 @@
 - [Aper](https://github.com/aper-dev/aper) - Synchronized state machines for Rust over WebSockets.
 - [Parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.rs.
 - [meio](https://github.com/rillrate/meio) - Async actor framework for Rust.
+- [Decimal](https://github.com/paupino/rust-decimal) - Decimal Implementation written in pure Rust suitable for financial calculations.
 
 ## Cargo Plugins
 

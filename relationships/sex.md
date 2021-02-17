@@ -15,3 +15,4 @@
 - [Extraordinary Passion](https://moderntantra.blogspot.com/) - The Art and Science of Modern Tantric Sex. ([Welcome Post](https://moderntantra.blogspot.com/2013/09/welcome-to-extraordinary-passion.html))
 - [Better Sex 101](https://moderntantra.blogspot.com/p/better-sex-101_21.html)
 - [The Dirty Normal](http://www.thedirtynormal.com/) - Better sex. Powered by science.
+- [Coral](https://getcoral.app/) - Better sex through a mix of science, stories and exercises.

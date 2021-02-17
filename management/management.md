@@ -83,3 +83,4 @@
 - [Improve Team Performance and Turn Around Underachieving Engineering Teams (2021)](https://codingsans.com/blog/improve-team-performance)
 - [Staff Engineer: Leadership beyond the management track](https://gumroad.com/l/staff-engineer)
 - [An Elegant Puzzle Book Review: an Overdue Read for Software Engineering Leads](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/)
+- [Managing Up: How Developers Can Better Communicate to Management](https://www.7pace.com/blog/managing-up)
