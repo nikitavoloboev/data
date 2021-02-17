@@ -82,3 +82,4 @@
 - [dygraphs](https://github.com/danvk/dygraphs) - Interactive visualizations of time series using JavaScript and the HTML canvas tag. ([Web](https://dygraphs.com/))
 - [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots) - Code and tutorials to visualise your data that is both beautiful _and_ statistically valid.
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/) ([HN](https://news.ycombinator.com/item?id=25916646))
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research)

@@ -410,3 +410,4 @@
 - [Awesome Causality](https://github.com/napsternxg/awesome-causality) - Resources related to causality.
 - [How to Understand ML Papers Quickly (2021)](https://blog.evjang.com/2021/01/understanding-ml.html)
 - [Patterns, Predictions, and Actions Book](https://mlstory.org/) - A story about machine learning.
+- [Full Stack Deep Learning Course (2021)](https://fullstackdeeplearning.com/spring2021/) ([Code](https://github.com/filipafcastro/fullstack_deeplearning_course))

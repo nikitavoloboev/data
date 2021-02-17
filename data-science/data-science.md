@@ -157,3 +157,4 @@
 - [Data Together Research](https://github.com/datatogether/research) - Research for tackling the general problem of data resilience & interactivity in all its forms.
 - [Apache Superset](https://superset.apache.org/) - Modern data exploration and visualization platform. ([Code](https://github.com/apache/superset))
 - [Open-Source Data Science Masters](https://github.com/datasciencemasters/go) ([Web](http://datasciencemasters.org/))
+- [Streamlit Data Science and ML Apps in Python](https://github.com/Jcharis/Streamlit_DataScience_Apps)

@@ -13,3 +13,4 @@
 - [Weekly Blitz](https://weekly-blitz.com/) - Best articles, links, community updates and news related to Blitz.js.
 - [Blitz.js & The Future of Fullstack (2020)](https://www.youtube.com/watch?v=ZSD5ifGTlag) ([Notes](https://twitter.com/tlakomy/status/1322518006661058560))
 - [Blitz Guard](https://github.com/ntgussoni/blitz-guard) - Centralized permission based authorization for Blitz.js.
+- [HN: Blitz Beta (2021)](https://news.ycombinator.com/item?id=26166716)
