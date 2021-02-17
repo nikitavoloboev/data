@@ -252,3 +252,4 @@
 - [Shifterator](https://github.com/ryanjgallagher/shifterator) - Interpretable data visualizations for understanding how texts differ at the word level.
 - [CMU Neural Networks for NLP Course (2021)](http://phontron.com/class/nn4nlp2021/schedule.html) ([Videos](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV))
 - [minnn](https://github.com/neubig/minnn-assignment) - Exercise in developing a minimalist neural network toolkit for NLP.
+- [Controllable Sentence Simplification (2019)](https://arxiv.org/abs/1910.02677) ([Code](https://github.com/facebookresearch/access))

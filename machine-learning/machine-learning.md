@@ -180,7 +180,7 @@
 - [Private machine learning progress](https://github.com/OpenMined/private-ai-resources)
 - [Demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain.
 - [Apple at NeurIPS 2019](https://machinelearning.apple.com/2019/12/02/apple-at-neurips-2019.html)
-- [Magenta](https://magenta.tensorflow.org/) - Make Music and Art Using Machine Learning.
+- [Magenta](https://magenta.tensorflow.org/) - Make Music and Art Using Machine Learning. ([JS Code](https://github.com/magenta/magenta-js)) ([GitHub](https://github.com/magenta))
 - [An overview of gradient descent optimization algorithms (2016)](https://ruder.io/optimizing-gradient-descent/)
 - [What are the current significant trends in ML that are NOT Deep Learning related? (2020)](https://www.reddit.com/r/MachineLearning/comments/eq3da0/d_what_are_the_current_significant_trends_in_ml/)
 - [Trax](https://github.com/google/trax) - Helps you understand and explore advanced deep learning.

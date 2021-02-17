@@ -34,3 +34,4 @@
 - [d3-shape](https://github.com/d3/d3-shape) - Graphical primitives for visualization, such as lines and areas.
 - [How to learn D3.js with no coding experience (2021)](https://www.heshameissa.com/blog/learn-d3)
 - [Learning D3.js](https://learningd3.com/)
+- [How D3 Moved Us (2021)](https://observablehq.com/@tophtucker/how-d3-moved-us)

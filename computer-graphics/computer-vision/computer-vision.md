@@ -226,3 +226,4 @@
 - [Cord](https://cord.tech/) - Training data toolbox for computer vision. ([HN](https://news.ycombinator.com/item?id=26104104))
 - [Text-Guided Editing of Images (Using CLIP and StyleGAN)](https://github.com/orpatashnik/StyleCLIP)
 - [torchvision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision. ([Web](https://paperswithcode.com/lib/torchvision))
+- [MeInGame: Create a Game Character Face from a Single Portrait (2021)](https://arxiv.org/abs/2102.02371) ([Code](https://github.com/FuxiCV/MeInGame))
