@@ -88,3 +88,4 @@
 - [pierogis](https://github.com/pierogis/pierogis) - Framework for image processing.
 - [Fractal Image Compression (2018)](https://pvigier.github.io/2018/05/14/fractal-image-compression.html)
 - [The Magic Kernel Sharp – image resizing algorithm](http://www.johncostella.com/magic/)
+- [Sparkles](https://github.com/varld/sparkles) - Easily extract metadata and a blurhash from images.

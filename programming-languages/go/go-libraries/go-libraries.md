@@ -728,6 +728,8 @@
 - [mainthread](https://github.com/faiface/mainthread) - Run stuff on the main thread in Go.
 - [ebml-go](https://github.com/at-wat/ebml-go) - Pure Go implementation of bi-directional EBML encoder/decoder.
 - [dither](https://github.com/makeworld-the-better-one/dither) - Fast, correct image dithering library in Go.
+- [BTree](https://github.com/google/btree) - Provides a simple, ordered, in-memory data structure for Go programs.
+- [gocron](https://github.com/go-co-op/gocron) - Go job scheduling package which lets you run Go functions periodically at pre-determined interval using a simple, human-friendly syntax.
 
 ## Links
 

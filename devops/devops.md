@@ -61,3 +61,4 @@
 - [Zero-downtime deploys with DigitalOcean, GitHub, and Docker (2021)](https://blog.logrocket.com/zero-downtime-deploys-with-digitalocean-github-and-docker/)
 - [Running Nomad for home server (2021)](https://mrkaran.dev/posts/home-server-nomad/) ([Lobsters](https://lobste.rs/s/bybybm/running_nomad_for_home_server)) ([HN](https://news.ycombinator.com/item?id=26142005))
 - [They SRE](https://github.com/upgundecha/howtheysre) - Curated Collection on Site Reliability Engineering.
+- [DevOps Resources](https://github.com/bregman-arie/devops-resources)

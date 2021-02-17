@@ -14,3 +14,4 @@
 - [zForth](https://github.com/zevv/zForth) - Tiny, embeddable, flexible, compact Forth scripting language for embedded systems. ([HN](https://news.ycombinator.com/item?id=25772483))
 - [Modern C64 Forth](https://github.com/jkotlinski/durexforth)
 - [Easy Forth](https://skilldrick.github.io/easyforth/) - Learn forth with REPL in the browser. ([HN](https://news.ycombinator.com/item?id=26164275))
+- [Simple Forth](http://www.murphywong.net/hello/simple.htm)

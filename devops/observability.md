@@ -18,3 +18,4 @@
 - [SigNoz](https://signoz.io/) - Open source Observability platform. Alternative to DataDog. ([Code](https://github.com/SigNoz/signoz)) ([HN](https://news.ycombinator.com/item?id=26079389))
 - [Data Observability: Building Your Own Data Quality Monitors Using SQL (2021)](https://ryanothnielkearns.medium.com/data-observability-building-your-own-data-quality-monitors-using-sql-a4c848b6882d)
 - [Data Observability Universe (2020)](https://metaplane.dev/data-observability)
+- [Observability: What it is and why you need it | Logging, Metrics & Alerts (2021)](https://elastisys.com/what-was-observability-again/)

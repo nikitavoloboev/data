@@ -133,3 +133,4 @@
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) ([Code](https://github.com/beejjorgensen/bgc))
 - [Obfuscated Tiny C Compiler](https://bellard.org/otcc/) ([HN](https://news.ycombinator.com/item?id=26141124))
 - [Angelix](http://angelix.io/) - Semantics-based test-driven automated program repair tool for C programs. ([Code](https://github.com/mechtaev/angelix))
+- [Inline and Sideline Approaches for Low-Cost Memory Safety in C (2021)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)

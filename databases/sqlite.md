@@ -52,3 +52,4 @@
 - [Many Small Queries Are Efficient In SQLite](https://sqlite.org/np1queryprob.html)
 - [Rust SQLite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust.
 - [Command Line Shell for SQLite](https://www.sqlite.org/cli.html) ([HN](https://news.ycombinator.com/item?id=26162115))
+- [sqleet](https://github.com/resilar/sqleet) - Encryption extension for SQLite3.
