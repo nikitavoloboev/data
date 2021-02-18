@@ -157,6 +157,7 @@
 - [react-svg](https://github.com/tanem/react-svg) - React component that injects SVG into the DOM.
 - [Gitalk](https://github.com/gitalk/gitalk) - Modern comment component based on GitHub Issue and Preact.
 - [Mafs](https://github.com/stevenpetryk/mafs) - React components for math visualization. ([Docs](https://mafs.dev/guides/get-started/installation/))
+- [react-masonry-css](https://github.com/paulcollett/react-masonry-css) - React Masonry layout component powered by CSS, dependency free.
 
 ## Links
 

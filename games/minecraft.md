@@ -36,3 +36,4 @@
 - [Worker Biomes](https://github.com/lspgn/worker-biomes) - Minecraft biomes map generator using Cloudflare Workers.
 - [GlobalWarming](https://github.com/nsporillo/GlobalWarming) - Server side global warming mechanics in Minecraft.
 - [AnotherCraft](https://github.com/CZDanol/AnotherCraft) - Minecraft clone. Visualisation of a procedurally generated voxel terrain.
+- [All is Cubes](https://github.com/kpreid/all-is-cubes) - Game engine for worlds made of cubical blocks.

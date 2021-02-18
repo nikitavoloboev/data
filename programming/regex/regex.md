@@ -44,3 +44,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Super Expressive](https://github.com/francisrstokes/super-expressive) - Zero-dependency JavaScript library for building regular expressions in (almost) natural language. ([HN](https://news.ycombinator.com/item?id=25857753))
 - [Stephen Kleene's 1951 Paper Where He Introduces Regular Expressions](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM704.pdf)
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) ([Lobsters](https://lobste.rs/s/nvxhdz/implementing_regular_expressions))
+- [Avoid RegEx (2021)](https://robinwinslow.uk/how-to-regex#avoid-coding-in-regex-if-you-can)

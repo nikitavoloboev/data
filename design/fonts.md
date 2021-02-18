@@ -66,6 +66,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Datalegreya](http://www.datalegreya.com/?lang=en) - Typeface which can interweave data curves with text. ([HN](https://news.ycombinator.com/item?id=25832196)) ([Code](https://github.com/figs-lab/datalegreya))
 - [Leland](https://github.com/MuseScoreFonts/Leland) - SMuFL-compliant OpenType music font.
 - [Commuters Sans](https://dharmatype.com/commuters-sans)
+- [wavefont](https://github.com/audio-lab/wavefont) - Typeface for rendering data: waveforms, spectrums, diagrams, bars etc.
 
 ## Links
 

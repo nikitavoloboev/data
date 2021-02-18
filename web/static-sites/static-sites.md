@@ -47,6 +47,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Toto](https://github.com/metasoarous/toto) - Static site generation in Clojure (with live code reloading!).
 - [Slick](https://github.com/ChrisPenner/Slick) - Static site generator built on Shake configured in Haskell.
 - [Sesame](https://github.com/patricoferris/sesame) - Static site generator in OCaml.
+- [Saga](https://github.com/loopwerk/Saga) - Static site generator, written in Swift, allowing you to supply your own metadata type for your items.
 
 ## Notes
 

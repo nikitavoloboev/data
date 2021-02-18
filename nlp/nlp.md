@@ -254,3 +254,4 @@
 - [minnn](https://github.com/neubig/minnn-assignment) - Exercise in developing a minimalist neural network toolkit for NLP.
 - [Controllable Sentence Simplification (2019)](https://arxiv.org/abs/1910.02677) ([Code](https://github.com/facebookresearch/access))
 - [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
+- [retext](https://github.com/retextjs/retext) - Natural language processor powered by plugins part of the unified collective.

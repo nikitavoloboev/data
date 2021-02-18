@@ -47,3 +47,4 @@
 - [ScatterGL](https://github.com/PAIR-code/scatter-gl) - Interactive 3D / 2D webgl-accelerated scatter plot point renderer. ([Web](https://pair-code.github.io/scatter-gl/))
 - [WebGL Signed Distance Function Mesher](https://github.com/tdhooper/glsl-marching-cubes) - Extract an STL from a glsl distance function.
 - [ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - 3D engine for the Web. Using WebGL.
+- [Rabbit Hole](https://github.com/vanruesc/rabbit-hole) - Volumetric terrain engine for WebGL.

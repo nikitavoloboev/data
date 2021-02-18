@@ -262,6 +262,7 @@
 - [SkeletonUI](https://github.com/CSolanaM/SkeletonUI) - Elegant skeleton loading animation in SwiftUI and Combine.
 - [AVPlayer-SwiftUI](https://github.com/ChrisMash/AVPlayer-SwiftUI) - Using AVPlayer in SwiftUI.
 - [SwiftUIKitView](https://github.com/AvdLee/SwiftUIKitView) - Easily use UIKit views in your SwiftUI applications. Create Xcode Previews for UIView elements.
+- [Loadability](https://github.com/julianschiavo/Loadability) - Powerful, modern networking and caching with SwiftUI support.
 
 ## Test
 
@@ -618,6 +619,7 @@
 - [CoreGPX](https://github.com/vincentneo/CoreGPX) - Library for parsing and creation of GPX location files. Purely Swift.
 - [SwiftRT](https://github.com/ewconnell/swiftrt) - Experimental computational framework written in the Swift language.
 - [Beethoven](https://github.com/vadymmarkov/Beethoven) - Audio processing Swift library that provides an easy-to-use interface to solve an age-old problem of pitch detection of musical signals.
+- [Parsley](https://github.com/loopwerk/Parsley) - Markdown parser for Swift, using Github Flavored Markdown and Metadata.
 
 ## Other (not lib)
 
