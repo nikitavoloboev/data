@@ -17,3 +17,4 @@
 - [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - Takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers.
 - [3D printing boats is becoming standard practice (2020)](https://www.3dprintingmedia.network/3d-printing-boats-is-becoming-standard-practice/) ([HN](https://news.ycombinator.com/item?id=25492406))
 - [OctoPrint](https://octoprint.org/) - Snappy web interface for your 3D printer. ([Code](https://github.com/OctoPrint/OctoPrint))
+- [Multi-metal 4D printing with a desktop electrochemical 3D printer (2019)](https://www.nature.com/articles/s41598-019-40774-5)

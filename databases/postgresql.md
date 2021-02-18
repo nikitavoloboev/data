@@ -217,3 +217,4 @@
 - [AWS Babelfish: The Elephant in the PostgreSQL Room? (2021)](https://postgresql.fund/blog/babelfish-the-elephant-in-the-room/) ([HN](https://news.ycombinator.com/item?id=26114281))
 - [Metagration](https://github.com/michelp/metagration) - PostgreSQL Migrator in PostgreSQL.
 - [Aquameta](https://github.com/aquametalabs/aquameta) - Web development platform built entirely in PostgreSQL.
+- [Deep PostgreSQL Thoughts: Resistance to Containers is Futile (2021)](https://info.crunchydata.com/blog/deep-postgresql-thoughts-resistance-to-containers-is-futile)

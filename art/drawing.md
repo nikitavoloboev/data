@@ -31,3 +31,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Dimensions](https://www.dimensions.com/) - Database of Dimensioned Drawings.
 - [Paint.wtf](https://paint.wtf/) - Convince an AI that you're the best artist. ([HN](https://news.ycombinator.com/item?id=25822610)) ([HN 2](https://news.ycombinator.com/item?id=25830087))
 - [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/) ([HN](https://news.ycombinator.com/item?id=25882377))
+- [Illustration Chronicles](https://illustrationchronicles.com/)

@@ -195,3 +195,4 @@ I publish most of my work and make it open source for other people to use and re
 - [ghtop](https://github.com/nat/ghtop) - See what's happening on GitHub in real time.
 - [ghapi](https://github.com/fastai/ghapi) - Delightful and complete interface to GitHub's amazing API.
 - [GitHub Surf](https://github.com/surfcodes/surf) - Surf GitHub code with VS Code. (with CLI, chrome extensions).
+- [GitHub VSC](https://github.com/gao-sun/github-vsc) - Use VSCode to view and edit GitHub repos, in your browser.

@@ -50,3 +50,4 @@
 - [SSH Access for Supercomputers (2021)](https://goteleport.com/blog/secure-access-supercomputers/)
 - [sshh](https://github.com/daniellockyer/sshh) - Quickly SSH into hosts.
 - [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/) ([HN](https://news.ycombinator.com/item?id=26053323))
+- [SSH Certificates Security Hardening (2021)](https://goteleport.com/blog/ssh-certificates)

@@ -166,3 +166,4 @@
 - [CleanRL](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features.
 - [Rainbow is all you need](https://github.com/Curt-Park/rainbow-is-all-you-need) - Step-by-step tutorial from DQN to Rainbow.
 - [MTEnv](https://github.com/facebookresearch/mtenv) - MultiTask Environments for Reinforcement Learning.
+- [Mastering Atari with Discrete World Models (2021)](https://ai.googleblog.com/2021/02/mastering-atari-with-discrete-world.html)

@@ -51,6 +51,7 @@
 - [NeuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonnal) summer schools in neuroscience and related fields.
 - [Ion channels explained (2021)](https://www.reddit.com/r/neuroscience/comments/lggrpi/ion_channels/)
 - [A compact spatial map in V2 visual cortex (2021)](https://www.biorxiv.org/content/10.1101/2021.02.11.430687v1) ([Reddit](https://www.reddit.com/r/neuroscience/comments/lj92m6/reevaluating_cognitive_map_theory/))
+- [Artificial Neural Nets Finally Yield Clues to How Brains Learn (2021)](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 
 ## Images
 

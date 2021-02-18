@@ -301,3 +301,4 @@
 - [How Buffer Pool Works: An Implementation In Go (2021)](https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/) - Exploring how buffer pool management works in databases by building one.
 - [Database as a Queue (2021)](https://blog.koehntopp.info/2021/01/20/database-as-a-queue.html) ([Lobsters](https://lobste.rs/s/ukhpmn/database_as_queue))
 - [The Database Inside Your Codebase (2021)](https://feifan.blog/posts/the-database-inside-your-codebase) ([Lobsters](https://lobste.rs/s/5isuqt/database_inside_your_codebase)) ([HN](https://news.ycombinator.com/item?id=26160186))
+- [DBCLI](https://www.dbcli.com/) - Commandline Database Clients with Autocompletion and Syntax Highlighting. ([HN](https://news.ycombinator.com/item?id=26182902))

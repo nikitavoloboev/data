@@ -152,3 +152,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/)
 - [saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP.
 - [AWS Quick Starts](https://aws-quickstart.github.io/) - Quick Start Contributor's Guide. ([Code](https://github.com/aws-quickstart/quickstart-superwerker))
+- [How they AWS](https://github.com/upgundecha/howtheyaws)

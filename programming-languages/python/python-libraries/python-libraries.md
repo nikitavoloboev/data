@@ -101,6 +101,7 @@
 - [mutmut](https://github.com/boxed/mutmut) - Mutation testing system for Python, with a strong focus on ease of use.
 - [FreezeGun](https://github.com/spulec/freezegun) - Allows your Python tests to travel through time by mocking the datetime module.
 - [datatest](https://github.com/shawnbrown/datatest) - Test driven data-wrangling and data validation.
+- [Precisely](https://github.com/mwilliamson/python-precisely) - Better assertions for Python tests. ([HN](https://news.ycombinator.com/item?id=26177546))
 
 ## Other
 

@@ -36,3 +36,4 @@
 - [Lightcord](https://github.com/Lightcord/Lightcord) - Simple and customizable client for Discord.
 - [Open Source Communities on Discord](https://discord.com/open-source) ([Code](https://github.com/discord/discord-open-source))
 - [Migrating Our Community from Slack to Discord (2021)](https://orbit.love/blog/how-to-migrate-a-community-from-slack-to-discord)
+- [Discord-to-Slack bot hosted on repl.it (2021)](https://blog.arkency.com/discord-bot-talking-to-slack-hosted-on-repl-dot-it/)

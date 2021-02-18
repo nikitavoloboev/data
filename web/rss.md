@@ -86,3 +86,4 @@
 - [I Still Use RSS (2021)](https://atthis.link/blog/2021/rss.html) ([HN](https://news.ycombinator.com/item?id=26014344))
 - [Turn to RSS Feeds to Regain Control of the World Wide Web (2021)](http://techrights.org/2021/02/06/rss-feeds-www/) ([HN](https://news.ycombinator.com/item?id=26047846))
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
+- [Kalaksi](https://www.kalaksi.com/) - Social-network built on top of RSS.

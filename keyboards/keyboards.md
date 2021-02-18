@@ -108,3 +108,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [The Quietest Mechanical Keyboard (2021)](https://y.tsutsumi.io/quiet-keyboard/) ([Lobsters](https://lobste.rs/s/iwkhbr/quietest_mechanical_keyboard))
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/) - Web application that enables the editing of keyboard-layouts. ([Code](https://github.com/ijprest/keyboard-layout-editor))
 - [Hyper and Super on my keyboard? (2019)](https://shapr.github.io/posts/2019-07-21-space-cadet.html)
+- [Split Keyboards Gallery](https://aposymbiont.github.io/split-keyboards/)

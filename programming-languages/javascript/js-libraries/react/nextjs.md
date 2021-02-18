@@ -156,3 +156,4 @@
 - [Bedrock](https://bedrock.mxstbr.com/) - Modern full-stack Next.js & GraphQL boilerplate.
 - [next-gen](https://github.com/biowaffeln/next-gen) - Next.js Codebase Generator.
 - [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments)
+- [Learn Next.js in 10 Tweets (2021)](https://twitter.com/colbyfayock/status/1362407526222995456)

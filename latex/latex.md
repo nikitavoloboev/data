@@ -65,3 +65,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TeX: A Branch in Desktop Publishing Evolution (2018-2019)](https://www.walden-family.com/ieee/texhistory.html)
 - [Python2LaTeX](https://github.com/jsleb333/python2latex) - Python to LaTeX converter.
 - [MiKTeX](https://miktex.org/) - Modern C/C++ implementation of TeX & Friends. ([Code](https://github.com/MiKTeX/miktex))
+- [Top LaTeX Fonts](https://r2src.github.io/top10fonts/)
