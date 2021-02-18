@@ -174,3 +174,4 @@
 - [What makes a physicist, a great physicist? (2021)](https://www.reddit.com/r/Physics/comments/l9dqnp/what_makes_a_physicist_a_great_physicist/)
 - [Galaxy-Size Gravitational-Wave Detector Hints at Exotic Physics (2021)](https://www.scientificamerican.com/article/galaxy-size-gravitational-wave-detector-hints-at-exotic-physics/) ([HN](https://news.ycombinator.com/item?id=26037041))
 - [Reforming the Mathematical Language of Physics (2002)](http://worrydream.com/refs/Hestenes-ReformingTheMathematicalLanguageOfPhysics.pdf)
+- [Sean Carroll's AMA (2021)](https://overcast.fm/+S_7njW_Sw)

@@ -30,3 +30,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Why do we dream? A new theory on how it protects our brains (2020)](https://time.com/5925206/why-do-we-dream/) ([HN](https://news.ycombinator.com/item?id=25590022))
 - [8 great sleep hacks (2021)](https://twitter.com/m_franceschetti/status/1346180878515499013?s=21)
 - [Kill the Alarm Clock (2017)](https://supermemo.guru/wiki/Kill_the_alarm_clock) ([HN](https://news.ycombinator.com/item?id=26163691))
+- [Sleep in non-human animals](https://en.wikipedia.org/wiki/Sleep_in_non-human_animals)

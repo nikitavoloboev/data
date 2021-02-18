@@ -74,3 +74,4 @@
 - [Five Economics Books Expert Recommendations](https://fivebooks.com/category/economics/)
 - [Narrative Economics](https://www.nber.org/system/files/working_papers/w23075/w23075.pdf)
 - [HN: How this Ends (2021)](https://news.ycombinator.com/item?id=26171022)
+- [Economics Reddit Wiki Recommended Reading](https://www.reddit.com/r/Economics/wiki/reading)
