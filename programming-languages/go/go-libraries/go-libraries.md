@@ -34,6 +34,7 @@
 - [zli](https://github.com/zgoat/zli) - Go library for writing CLI programs. It includes flag parsing, colour escape codes, and various helpful utility functions, and makes testing fairly easy.
 - [Gosh](https://github.com/vladimirvivien/gosh) - Pluggable framework for building command shell programs.
 - [cmder](https://github.com/hexops/cmder) - Lightweight Go pattern for writing CLIs with subcommands.
+- [go-sdk](https://github.com/blend/go-sdk) - Composable toolbox of libraries to build everything from CLIs to enterprise applications.
 
 ## Test
 

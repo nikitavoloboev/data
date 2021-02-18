@@ -36,3 +36,4 @@
 - [Prometheus SQL](https://github.com/chop-dbhi/prometheus-sql) - Service that generates basic metrics for SQL result sets and exposing them as Prometheus metrics.
 - [promremote](https://github.com/m3dbx/prometheus_remote_client_golang) - Prometheus remote write client written in Go.
 - [Prometheus Explorer](https://github.com/spreadshirt/prometheus-explorer) - Lightweight metrics explorer for Prometheus, with a focus on on-the-fly analysis. ([Lobsters](https://lobste.rs/s/tkqcvo/lightweight_metrics_explorer_for))
+- [FiloDB](https://github.com/filodb/FiloDB) - Distributed, Prometheus-compatible, real-time, in-memory, massively scalable, multi-schema time series / event / operational database.

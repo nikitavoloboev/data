@@ -175,3 +175,4 @@
 - [Anatomy of a Typed React Component (2020)](https://daneden.me/blog/2020/anatomy-of-a-typed-react-component)
 - [Keeping up with React Libraries (2020)](https://maxrozen.com/keeping-up-with-react-libraries/)
 - [Scroll a React component into view (2020)](https://robinvdvleuten.nl/blog/scroll-a-react-component-into-view/)
+- [Reusable Components Styleguide](https://github.com/teambit/reusable-components-styleguide) - Tips and tricks for making components shareable across different projects (framework agnostic).

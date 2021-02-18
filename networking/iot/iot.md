@@ -61,3 +61,4 @@
 - [balena](https://www.balena.io/) - Complete IoT fleet management platform. ([GitHub](https://github.com/balenalabs))
 - [FieldKit](https://www.fieldkit.org/) - Friendly, reliable, low-cost tools to monitor and advocate for the world around you.
 - [AI on the edge device](https://github.com/jomjol/AI-on-the-edge-device) - Example of Artificial Intelligence (AI) calculations on a very cheap hardware.
+- [Ockam](https://github.com/ockam-network/ockam) - End-to-end encrypted messaging and mutual authentication between cloud services and edge devices. ([Web](https://www.ockam.io/))

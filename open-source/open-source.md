@@ -159,3 +159,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Google Open Source](https://opensource.google/)
 - [The MIT License, Line by Line (2016)](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html) ([HN](https://news.ycombinator.com/item?id=25979584))
 - [LibHunt](https://www.libhunt.com/) - Trending open-source projects and their alternatives.
+- [NumFOCUS](https://numfocus.org/) - Nonprofit Supporting Open Code for Better Science. ([NumFOCUS Google Summer of Code](https://github.com/numfocus/gsoc))
