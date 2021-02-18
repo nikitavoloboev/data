@@ -261,3 +261,4 @@
 - [I have no name, and I must recurse (2021)](https://blog.astrosnail.pt.eu.org/2021-02-11-snake.html) ([Lobsters](https://lobste.rs/s/gguvow/i_have_no_name_i_must_recurse))
 - [Python Concurrency: The Tricky Bits (2020)](https://python.hamel.dev/concurrency/) ([Tweet](https://twitter.com/HamelHusain/status/1361355718469718020))
 - [Python Programming and Numerical Methods: A Guide for Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) ([HN](https://news.ycombinator.com/item?id=26164879))
+- [Why you really need to upgrade pip (2021)](https://pythonspeed.com/articles/upgrade-pip/) ([Lobsters](https://lobste.rs/s/gywypy/why_you_really_need_upgrade_pip))
