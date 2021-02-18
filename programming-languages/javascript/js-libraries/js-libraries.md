@@ -467,6 +467,7 @@
 - [tmp-cache](https://github.com/lukeed/tmp-cache) - Least-recently-used cache in 35 lines of code.
 - [static-eval](https://github.com/browserify/static-eval) - Evaluate statically-analyzable expressions.
 - [Sparse Octree](https://github.com/vanruesc/sparse-octree) - Sparse, pointer-based octree data structure.
+- [Signature Pad](https://github.com/szimek/signature_pad) - JavaScript library for drawing smooth signatures.
 
 ## Links
 

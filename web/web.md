@@ -231,3 +231,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Web After Tomorrow (2015)](https://tonsky.me/blog/the-web-after-tomorrow/) ([HN](https://news.ycombinator.com/item?id=26053777))
 - [Hobbes' Internet Timeline](https://www.zakon.org/robert/internet/timeline/) - Definitive ARPAnet & Internet history.
 - [Front-of-the-Front-End and Back-of-the-Front-End Web Development (2021)](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/) ([HN](https://news.ycombinator.com/item?id=26160538))
+- [Infima](https://github.com/facebookincubator/infima) - UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website.

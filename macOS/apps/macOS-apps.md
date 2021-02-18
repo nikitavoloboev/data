@@ -89,6 +89,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [DevDocs macOS](https://github.com/dteoh/devdocs-macos) - DevDocs API Documentation viewer for macOS.
 - [Finder built in SwiftUI for macOS](https://github.com/jordansinger/finder-macos-swiftui)
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool to launch everything. Alfred alternative.
+- [keyrace](https://github.com/nat/keyrace) - Daily multiplayer keyboard races for macOS.
 
 ## Other interesting apps
 
