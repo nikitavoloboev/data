@@ -121,3 +121,4 @@
 - [tsai](https://github.com/timeseriesAI/tsai) - State-of-the-art Deep Learning for Time Series and Sequence Modeling.
 - [edbo](https://github.com/b-shields/edbo) - Experimental Design via Bayesian Optimization.
 - [TensorJS](https://github.com/Hoff97/tensorjs) - JS/TS library for accelerated tensor computation intended to be run in the browser.
+- [micro-TCN](https://github.com/csteinmetz1/micro-tcn) - Efficient neural networks for audio effect modeling. ([Web](https://csteinmetz1.github.io/tcn-audio-effects/))
