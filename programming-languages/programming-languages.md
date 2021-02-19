@@ -171,3 +171,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [ATS or Why Linear Types are the Future of Systems Programming (2021)](https://www.youtube.com/watch?v=c4Z25DJusuo)
 - [Enclosure: Language-Based Restriction of Untrusted Libraries](https://nebelwelt.net/files/21ASPLOS.pdf)
 - [Programming Languages Group @ Penn](https://www.cis.upenn.edu/~plclub/)
+- [SICP Book Notes](https://github.com/codereport/SICP-2020)

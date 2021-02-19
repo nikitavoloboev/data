@@ -26,6 +26,7 @@
 - [TensorCore.jl](https://github.com/JuliaMath/TensorCore.jl) - Lightweight package for sharing tensor-algebra definitions.
 - [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) - Julia package for modeling and fitting generalized low rank models.
 - [MADS](https://github.com/madsjulia/Mads.jl) - Integrated high-performance computational framework for data/model/decision analyses.
+- [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) - Agent-based modeling framework in Julia.
 
 ## Math
 

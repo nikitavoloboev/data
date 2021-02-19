@@ -40,3 +40,4 @@
 - [vulkan-renderer](https://github.com/inexorgame/vulkan-renderer) - New 3D game engine using modern C++ and Vulkan API.
 - [Vulkan Performance Layers](https://github.com/googlestadia/performance-layers) - Vulkan layers to measure pipeline performance and analyze frame times.
 - [Datoviz](https://github.com/datoviz/datoviz) - GPU interactive scientific data visualization with Vulkan. ([Docs](https://datoviz.org/))
+- [TTauri GUI library](https://github.com/ttauri-project/ttauri) - Low Latency GUI on top of Vulkan.

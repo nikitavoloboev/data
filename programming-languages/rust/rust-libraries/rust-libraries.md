@@ -729,6 +729,7 @@
 - [GraphQL Parser](https://github.com/graphql-rust/graphql-parser) - Parser, formatter and AST for graphql query and schema definition language for rust.
 - [multer-rs](https://github.com/rousan/multer-rs) - Async parser for multipart/form-data content-type in Rust.
 - [conch-runtime](https://github.com/ipetkov/conch-runtime) - Rust library/runtime for executing Unix shell commands.
+- [rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust.
 
 ## Cargo Plugins
 
