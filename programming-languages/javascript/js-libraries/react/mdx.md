@@ -24,3 +24,4 @@
 - [Remote MDX with Next.js (2021)](https://www.kevinpeters.net/remote-mdx-next-js)
 - [xdm](https://github.com/wooorm/xdm) - MDX compiler.
 - [Example NextJS app with MDX](https://github.com/aulneau/next-mdx-fast-refresh)
+- [mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - Give me MDX/TSX strings and I'll give you back a string of JS you can eval.

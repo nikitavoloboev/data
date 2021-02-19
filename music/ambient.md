@@ -8,4 +8,4 @@
 - [Spotify Ambient Playlist](https://open.spotify.com/playlist/5QOChSDsvLTtBwXmIn8Pss?si=KShjGiRPT5ClDiRixB14xA)
 - [Good Ambient artists to start with? (2021)](https://www.reddit.com/r/ambientmusic/comments/lal3t6/good_ambient_artists_to_start_with/)
 - [Ambient Music Subreddit](https://www.reddit.com/r/ambientmusic/)
-- [I Miss My Bar](http://imissmybar.com/) - Recreate Your Favorite Bar's Atmosphere.
+- [I Miss My Bar](http://imissmybar.com/) - Recreate Your Favorite Bar's Atmosphere. ([HN](https://news.ycombinator.com/item?id=26188710))
