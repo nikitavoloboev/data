@@ -32,3 +32,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Mind-bending movies (2020)](https://www.reddit.com/r/MovieSuggestions/comments/kkdrj4/mindbending_movies_similar_to/)
 - [Film School Rejects](https://filmschoolrejects.com/) - Movies, TV, Culture.
 - [Collection of Classic Movies](https://www.the-classic-movies.com/)
+- [In Bruges: Morality In Dialogue](https://www.youtube.com/watch?v=r_9mLu1kMA8)

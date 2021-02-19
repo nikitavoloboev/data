@@ -413,3 +413,4 @@
 - [Full Stack Deep Learning Course (2021)](https://fullstackdeeplearning.com/spring2021/) ([Code](https://github.com/filipafcastro/fullstack_deeplearning_course))
 - [Physical Principles for Scalable Neural Recording](https://arxiv.org/ftp/arxiv/papers/1306/1306.5709.pdf)
 - [Learn About Transformers: A Recipe (2021)](https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe)
+- [An Inferential Perspective on Federated Learning (2021)](https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/)

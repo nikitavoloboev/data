@@ -398,3 +398,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [The Unreasonable Ecological Cost of Crypto Art (2020)](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)
 - [Cute Cats and Psychedelia: The Tragic Life of Louis Wain](https://illustrationchronicles.com/Cute-Cats-and-Psychedelia-The-Tragic-Life-of-Louis-Wain)
 - [DeviantArt](https://www.deviantart.com/) - Largest Online Art Gallery and Community.
+- [Museo](https://museo.app/) - Tool for finding images in the public domain from some of the best museums in the world. ([Code](https://github.com/chasemccoy/museo))
