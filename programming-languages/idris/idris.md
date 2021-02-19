@@ -41,3 +41,4 @@
 - [idris-ide-client](https://github.com/meraymond2/idris-ide-client) - TypeScript library for communicating with an Idris IDE process.
 - [Interacting with Idris from Racket](https://github.com/david-christiansen/idris-interaction.rkt) - Racket library for interacting with Idris over the IDE protocol.
 - [Idris Ecosystem](https://github.com/xgrommx/idris-ecosystem) - List of popular libraries in the Idris ecosystem.
+- [SAE (Solver of All Equations)](https://github.com/DoctorRyner/sae) - Idris 2 build tool and a package manager.

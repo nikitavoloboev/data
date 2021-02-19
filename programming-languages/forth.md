@@ -17,3 +17,4 @@
 - [Simple Forth](http://www.murphywong.net/hello/simple.htm)
 - [16-bit SUBLEQ eForth](https://github.com/howerj/subleq) - Contains a working Forth interpreter that runs on top of a SUBLEQ 16-bit machine.
 - [Forth SoC Written in VHDL](https://github.com/howerj/forth-cpu) ([HN](https://news.ycombinator.com/item?id=26182925))
+- [Squad: Forth on Chip-8](https://internet-janitor.itch.io/squad)
