@@ -12,6 +12,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Glitch Company values](https://handbook.glitch.me/#values)
 - [Figma's engineering values](https://www.figma.com/blog/figmas-engineering-values/)
 - [Bright Paper](https://beamapp.co/bright_paper.html)
+- [On Deck - Operating Principles](https://www.beondeck.com/principles)
 
 ## Team values
 
