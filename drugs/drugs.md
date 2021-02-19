@@ -21,3 +21,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Debunking Crystal Meth Myths | The War on Drugs (2020)](https://www.youtube.com/watch?v=D-VkWkPs1aw)
 - [Know Your Amphetamines (2021)](https://astralcodexten.substack.com/p/know-your-amphetamines)
 - [What are your top 5 favorite drugs? (2021)](https://www.reddit.com/r/Drugs/comments/llo8rt/what_are_your_top_5_favorite_drugs/)
+- [How Antidepressants Work, At Last? (2021)](https://blogs.sciencemag.org/pipeline/archives/2021/02/19/how-antidepressants-work-at-last)

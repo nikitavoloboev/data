@@ -164,6 +164,7 @@
 - [ExpandedTabBar](https://github.com/yervandsar/ExpandedTabBar) - Creative designed solution for "more" items in UITabBarController.
 - [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 - [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
+- [ChidoriMenu](https://github.com/christianselig/ChidoriMenu) - Easy way to add popover menus visually similar to the Context Menus and Pull Down Menus iOS uses but with some advantages.
 
 ## macOS
 

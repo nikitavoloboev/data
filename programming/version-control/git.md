@@ -229,3 +229,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.
 - [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/) ([HN](https://news.ycombinator.com/item?id=26164790))
 - [Advanced Git Features You Didn’t Know You Needed (2021)](https://martinheinz.dev/blog/43) ([Lobsters](https://lobste.rs/s/bnsmni/advanced_git_features_you_didn_t_know_you))
+- [Git Chain](https://github.com/Shopify/git-chain) - Tool to rebase multiple Git branches based on the previous one.
