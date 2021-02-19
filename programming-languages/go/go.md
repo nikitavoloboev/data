@@ -433,3 +433,4 @@ Go promotes composition over inheritance.
 - [Leveraging the Go Type System (2021)](https://www.gopherguides.com/articles/leveraging-the-go-type-system) ([HN](https://news.ycombinator.com/item?id=26078865))
 - [Go generics proposal has been accepted (2021)](https://github.com/golang/go/issues/43651) ([HN](https://news.ycombinator.com/item?id=26093778))
 - [Securing a Go Microservice with JWT (2021)](https://fusionauth.io/blog/2021/02/18/securing-golang-microservice/)
+- [Generics in Go Tutorial (2021)](https://bitfieldconsulting.com/golang/generics)

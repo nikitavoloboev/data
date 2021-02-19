@@ -45,3 +45,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Stephen Kleene's 1951 Paper Where He Introduces Regular Expressions](https://www.rand.org/content/dam/rand/pubs/research_memoranda/2008/RM704.pdf)
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) ([Lobsters](https://lobste.rs/s/nvxhdz/implementing_regular_expressions))
 - [Avoid RegEx (2021)](https://robinwinslow.uk/how-to-regex#avoid-coding-in-regex-if-you-can)
+- [RegEx Pal](https://www.regexpal.com/) - Test your regular expressions quickly.

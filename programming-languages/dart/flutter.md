@@ -39,3 +39,4 @@
 - [Flutter cheat sheet](https://howtodothisinflutter.com/) ([Code](https://github.com/lesnitsky/howtodothisinflutter))
 - [Hover](https://github.com/go-flutter-desktop/hover) - Run Flutter apps on the desktop with hot-reload.
 - [Amplify Flutter Sample App](https://github.com/mlabieniec/amplify-flutter-sample)
+- [Why every new startup in 2021 should use Flutter](https://siliconivan.medium.com/why-every-new-startup-in-2021-should-use-flutter-4507d7da5642)

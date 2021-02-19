@@ -8,3 +8,4 @@
 - [jest-when](https://github.com/timkindberg/jest-when) - Extended, sugary way to mock return values for specific arguments only.
 - [jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers.
 - [jest-clean-console-reporter](https://github.com/jevakallio/jest-clean-console-reporter) - Custom Jest reporter to reduce console spam in your test output.
+- [esjest-transform](https://github.com/threepointone/esjest-transform) - Fast jest transform.

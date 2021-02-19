@@ -175,3 +175,4 @@
 - [Galaxy-Size Gravitational-Wave Detector Hints at Exotic Physics (2021)](https://www.scientificamerican.com/article/galaxy-size-gravitational-wave-detector-hints-at-exotic-physics/) ([HN](https://news.ycombinator.com/item?id=26037041))
 - [Reforming the Mathematical Language of Physics (2002)](http://worrydream.com/refs/Hestenes-ReformingTheMathematicalLanguageOfPhysics.pdf)
 - [Sean Carroll's AMA (2021)](https://overcast.fm/+S_7njW_Sw)
+- [Other than particles and waves, are there any other fundamental descriptors? (2021)](https://www.reddit.com/r/AskPhysics/comments/lmuuty/other_than_particles_and_waves_are_there_any/)

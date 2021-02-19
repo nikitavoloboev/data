@@ -140,3 +140,4 @@
 - [WAGI: WebAssembly Gateway Interface](https://github.com/deislabs/wagi)
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
 - [go-wasm-http-server](https://github.com/nlepage/go-wasm-http-server) - Embed your Go HTTP handlers in a ServiceWorker (usin WebAssembly) and emulate an HTTP server.
+- [Memory64 Proposal for WebAssembly](https://github.com/WebAssembly/memory64)

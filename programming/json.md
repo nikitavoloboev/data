@@ -50,3 +50,4 @@
 - [JSON-LD Schema](https://github.com/mulesoft-labs/json-ld-schema) - Simple schema validation for linked data.
 - [Build a JSON Schema with functions](https://github.com/wittydeveloper/functional-json-schema)
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C.
+- [JSONLint](https://jsonlint.com/) - JSON Validator.

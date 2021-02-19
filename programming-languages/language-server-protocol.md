@@ -11,3 +11,4 @@
 - [lsp-test](https://github.com/bubba/lsp-test) - Functional testing framework for Language Server Protocol servers.
 - [algocodesearch](https://github.com/adrienjoly/algocodesearch) - Index symbols from a language server (LSP), for code search.
 - [LSIF.dev](https://lsif.dev/) - Community-driven source of knowledge for Language Server Index Format implementations.
+- [Language Server Manager (LSM)](https://github.com/johejo/lsm) - Aims to be a simple and cross platform installation manager for Language Server.

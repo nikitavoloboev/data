@@ -56,6 +56,7 @@
 - [autogold](https://github.com/hexops/autogold) - Automatically update your Go tests.
 - [Gomega](https://github.com/onsi/gomega) - Matcher/assertion library. It is best paired with the Ginkgo BDD test framework.
 - [go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
+- [Rapid](https://github.com/flyingmutant/rapid) - Go library for property-based testing.
 
 ## Web
 
