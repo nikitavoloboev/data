@@ -27,3 +27,4 @@
 - [OpenZKP](https://github.com/0xProject/OpenZKP) - Pure Rust implementations of Zero-Knowledge Proof systems.
 - [zkp](https://github.com/dalek-cryptography/zkp) - Experimental zero-knowledge proof compiler in Rust macros.
 - [Zero Knowledge Proof - Numberphile (2021)](https://www.youtube.com/watch?v=5ovdoxnfFVc)
+- [Serving up zero-knowledge proofs (2021)](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)

@@ -397,3 +397,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Code as Creative Medium (2021)](https://mitpress.mit.edu/books/code-creative-medium) - Handbook for Computational Art and Design.
 - [The Unreasonable Ecological Cost of Crypto Art (2020)](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053)
 - [Cute Cats and Psychedelia: The Tragic Life of Louis Wain](https://illustrationchronicles.com/Cute-Cats-and-Psychedelia-The-Tragic-Life-of-Louis-Wain)
+- [DeviantArt](https://www.deviantart.com/) - Largest Online Art Gallery and Community.

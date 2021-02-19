@@ -42,3 +42,4 @@
 - [Breaking a Degenerate Hyper-Dimensional Game of Life (2021)](https://blog.jle.im/entry/degenerate-hyper-dimensional-game-of-life.html)
 - [Self-Organising Textures](https://distill.pub/selforg/2021/textures/) - Neural Cellular Automata Model of Pattern Formation. ([HN](https://news.ycombinator.com/item?id=26112959))
 - [List of amazing cellular automata projects (2021)](https://twitter.com/GalaxyKate/status/1361354915742892039)
+- [Minkovski Cellular Automata Simulator](https://dmishin.github.io/minkovski-ca/) ([Code](https://github.com/dmishin/minkovski-ca))

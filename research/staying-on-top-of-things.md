@@ -121,6 +121,7 @@ And these Discord servers:
 - [Reuters](https://www.reuters.com/)
 - [Bloomberg](https://www.bloomberg.com/)
 - [Works in Progress](https://worksinprogress.co/)
+- [The New York Times](https://www.nytimes.com/)
 
 ### Other
 
@@ -145,6 +146,7 @@ And these Discord servers:
 - [NPR](https://www.npr.org/)
 - [HackerDaily](https://hackerdaily.io/) - More informative and less addictive Hacker News. ([HN](https://news.ycombinator.com/item?id=25046037))
 - [Skimfeed](https://skimfeed.com/)
+- [Google News](https://news.google.com/)
 
 ## Links
 
@@ -165,3 +167,4 @@ And these Discord servers:
 - [The Fear Of Missing Out (2020)](https://christine.website/blog/gemini-web-fear-missing-out-2020-08-02) ([Lobsters](https://lobste.rs/s/evwukk/fear_missing_out))
 - [Ask HN: What are some of your favorite journals or magazines? (2020)](https://news.ycombinator.com/item?id=25159931)
 - [Ask HN: Alternatives to HN for non-Hacker News? (2020)](https://news.ycombinator.com/item?id=25318880)
+- [Ask HN: What websites do you visit every day? (2021)](https://news.ycombinator.com/item?id=26192817)

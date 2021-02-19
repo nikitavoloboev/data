@@ -67,3 +67,4 @@
 - [Kubernetes provider for Terraform](https://github.com/hashicorp/terraform-provider-kubernetes-alpha) - Supports all API resources in a generic fashion.
 - [Fogg](https://github.com/chanzuckerberg/fogg) - Opinionated tool for managing infrastructure-as-code repositories using Terraform.
 - [terrafmt](https://github.com/katbyte/terrafmt) - Tool for extracting or formatting Terraform configuration embedded in provider code.
+- [tecli](https://github.com/awslabs/tecli) - Command Line Interface for Terraform Enterprise/Cloud.

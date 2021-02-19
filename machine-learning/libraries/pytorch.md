@@ -223,3 +223,4 @@
 - [Lightning Flash](https://github.com/PyTorchLightning/lightning-flash) - Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.
 - [FlashTorch](https://github.com/MisaOgura/flashtorch) - Python visualization toolkit, built with PyTorch, for neural networks in PyTorch.
 - [torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch.
+- [Compressive transformer PyTorch implementation with notes](https://nn.labml.ai/transformers/compressive/index.html)

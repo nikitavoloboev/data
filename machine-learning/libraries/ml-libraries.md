@@ -122,3 +122,4 @@
 - [edbo](https://github.com/b-shields/edbo) - Experimental Design via Bayesian Optimization.
 - [TensorJS](https://github.com/Hoff97/tensorjs) - JS/TS library for accelerated tensor computation intended to be run in the browser.
 - [micro-TCN](https://github.com/csteinmetz1/micro-tcn) - Efficient neural networks for audio effect modeling. ([Web](https://csteinmetz1.github.io/tcn-audio-effects/))
+- [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Python library for dynamic classifier and ensemble selection.

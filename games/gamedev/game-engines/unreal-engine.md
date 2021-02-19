@@ -10,3 +10,4 @@
 - [Stanford CS193u: Video Game Development in C++ and Unreal Engine (2020)](https://www.tomlooman.com/stanford-cs193u/)
 - [Create Multiplayer Games with C++: Unreal Engine Mastery](https://www.udemy.com/course/unrealengine-cpp/)
 - [Future Extensions](https://github.com/splash-damage/future-extensions) - Unreal Engine 4 plugin for async task programming.
+- [Digital Humans](https://www.unrealengine.com/en-US/digital-humans) - High-fidelity digital humans in minutes. ([HN](https://news.ycombinator.com/item?id=26189827))
