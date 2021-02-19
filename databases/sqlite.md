@@ -53,3 +53,4 @@
 - [Rust SQLite](https://github.com/joaoh82/rust_sqlite) - SQLite clone from scratch in Rust.
 - [Command Line Shell for SQLite](https://www.sqlite.org/cli.html) ([HN](https://news.ycombinator.com/item?id=26162115))
 - [sqleet](https://github.com/resilar/sqleet) - Encryption extension for SQLite3.
+- [SQLite Viewer](http://inloop.github.io/sqlite-viewer/) - View SQLite file online. ([Code](https://github.com/inloop/sqlite-viewer))

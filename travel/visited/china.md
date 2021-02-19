@@ -12,3 +12,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Demystifying the Great Firewall of China (2020)](https://medium.com/mobile-asia/demystifying-the-great-firewall-of-china-22f4a97550cc)
 - [Uighur camp detainees allege systematic rape](https://www.bbc.com/news/world-asia-china-55794071) ([HN](https://news.ycombinator.com/item?id=26009586))
 - [ChinaTalk](https://chinatalkshow.libsyn.com/) - Weekly conversation exploring China's economy and tech scene.
+- [Sino Subreddit](https://www.reddit.com/r/Sino/) - News, information, and discussion on anything China and Chinese related.

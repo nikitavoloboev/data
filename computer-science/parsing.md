@@ -47,3 +47,4 @@
 - [Parsimmon](https://github.com/jneen/parsimmon) - Small library for writing big parsers made up of lots of little parsers.
 - [Inline caching: quickening (2021)](https://bernsteinbear.com/blog/inline-caching-quickening/) ([HN](https://news.ycombinator.com/item?id=26054573))
 - [Earley Parser (2021)](https://rahul.gopinath.org/post/2021/02/06/earley-parsing/) ([Lobsters](https://lobste.rs/s/gadd2l/earley_parser))
+- [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree) - Curated list of awesome syntax-tree, unist, hast, xast, mdast, nlcst resources.
