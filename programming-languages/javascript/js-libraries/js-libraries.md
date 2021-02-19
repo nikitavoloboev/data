@@ -469,6 +469,7 @@
 - [Sparse Octree](https://github.com/vanruesc/sparse-octree) - Sparse, pointer-based octree data structure.
 - [Signature Pad](https://github.com/szimek/signature_pad) - JavaScript library for drawing smooth signatures.
 - [dom-to-image-retina](https://github.com/egoist/dom-to-image-retina) - dom-to-image but generates high-resolution images.
+- [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 
 ## Links
 

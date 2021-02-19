@@ -41,3 +41,4 @@
 - [WebRTC.rs](https://github.com/webrtc-rs/webrtc) - Pure Rust implementation of WebRTC API.
 - [WebRTC is now a W3C and IETF standard (2021)](https://web.dev/webrtc-standard-announcement/) ([HN](https://news.ycombinator.com/item?id=25933016))
 - [An architectural overview for WebRTC — A protocol for implementing video conferencing (2021)](https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e)
+- [Kraken](https://github.com/MixinNetwork/kraken) - High performance WebRTC SFU implemented with pure Go.
