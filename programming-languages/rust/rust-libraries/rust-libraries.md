@@ -315,7 +315,7 @@
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library. ([Article](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/))
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules. ([Web](https://neon-bindings.com/))
-- [Tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast. ([HN](https://news.ycombinator.com/item?id=23769424))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative written in Rust. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN 2](https://news.ycombinator.com/item?id=26194990))
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
 - [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
