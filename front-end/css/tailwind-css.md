@@ -66,3 +66,4 @@
 - [Universal Tokens for Tailwind](https://tw-tokens.netlify.app/) - Use Tailwind tokens as CSS variables, SASS map, SASS variables, ES module, JSON & Common JS module. ([Code](https://github.com/itaditya/tw-universal-tokens))
 - [windicss](https://github.com/voorjaar/windicss) - Next generation tailwindcss compiler.
 - [Windi CSS for Vite](https://github.com/windicss/vite-plugin-windicss) - On-demand TailwindCSS.
+- [Windi CSS](https://github.com/windicss/windicss) - Next generation Tailwind CSS compiler. ([Docs](https://windicss.netlify.app/)) ([Docs Code](https://github.com/windicss/docs))

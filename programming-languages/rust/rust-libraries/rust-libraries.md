@@ -149,6 +149,7 @@
 - [iai](https://github.com/bheisler/iai) - Experimental One-shot Benchmark Framework in Rust.
 - [Test Case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily.
 - [rutenspitz](https://github.com/jakubadamw/rutenspitz) - Procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation.
+- [Pretty Assertions](https://github.com/colin-kiegel/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 
 ## Error
 

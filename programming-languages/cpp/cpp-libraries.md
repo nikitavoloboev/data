@@ -182,6 +182,7 @@
 - [Cista++](https://github.com/felixguendling/cista) - Simple C++ Serialization & Reflection. ([Web](https://cista.rocks/))
 - [Memkind](https://github.com/memkind/memkind) - User extensible heap manager built on top of jemalloc which enables control of memory characteristics and a partitioning of the heap between kinds of memory. ([Web](http://memkind.github.io/memkind/))
 - [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) - Functional Programming Library for C++. Write concise and readable C++ code.
+- [polylabel](https://github.com/mapbox/polylabel) - Fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++).
 
 ## Links
 

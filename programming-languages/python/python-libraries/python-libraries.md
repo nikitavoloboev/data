@@ -21,6 +21,7 @@
 - [FastAPI Users](https://github.com/frankie567/fastapi-users) - Ready-to-use and customizable users management for FastAPI.
 - [Frappe](https://github.com/frappe/frappe) - Full-stack web application framework that uses Python and MariaDB on the server side and a tightly integrated client side library.
 - [Tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library. ([Docs](https://www.tornadoweb.org/en/stable/))
+- [Sanic](https://github.com/sanic-org/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast. ([Web](https://sanicframework.org/)) ([Awesome](https://github.com/mekicha/awesome-sanic))
 
 ## ML
 

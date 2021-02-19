@@ -29,3 +29,4 @@
 - [Knot Theory and its Applications](https://www.maths.ed.ac.uk/~v1ranick/papers/murasug3.pdf)
 - [The Crooked Geometry of Round Trips (2021)](https://www.quantamagazine.org/the-crooked-geometry-of-round-trips-20210113/)
 - [Lectures on Analytic Geometry (2019)](https://github.com/PeterScholze/Analytic/blob/main/Analytic.pdf)
+- [Cleaner parallel curves with Euler spirals (2021)](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)

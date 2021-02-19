@@ -51,3 +51,4 @@
 - [r-cli](https://github.com/r-lib/cli) - Tools for making beautiful & useful command line interfaces using R.
 - [pod](https://github.com/klmr/pod) - Write Reusable, Composable and Modular R Code.
 - [ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster.
+- [tweenr](https://github.com/thomasp85/tweenr) - Package for interpolating data, mainly for animations.

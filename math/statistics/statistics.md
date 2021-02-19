@@ -83,3 +83,4 @@
 - [Categories of Nets (2021)](https://johncarlosbaez.wordpress.com/2021/01/17/categories-of-nets/) ([HN](https://news.ycombinator.com/item?id=25820741))
 - [Statistical Typing: A Runtime Type System for Data Science and Machine Learning (2020)](https://blog.pandera.ci/statistical%20typing/unit%20testing/2020/12/26/statistical-typing.html)
 - [Empirical methods Course by CMU](https://bvasiles.github.io/empirical-methods/) ([Code](https://github.com/bvasiles/empirical-methods))
+- [Gaussian Processes: from one to many outputs (2021)](https://invenia.github.io/blog/2021/02/19/OILMM-pt1/)

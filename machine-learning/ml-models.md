@@ -19,3 +19,4 @@
 - [Service Streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [Shapash](https://github.com/MAIF/shapash) - Makes Machine Learning models transparent and understandable by everyone. ([Web](https://maif.github.io/shapash/))
 - [BudgetML: Deploy ML models on a budget](https://github.com/ebhy/budgetml) ([HN](https://news.ycombinator.com/item?id=25986346))
+- [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models (2021)](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html)

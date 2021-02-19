@@ -106,3 +106,4 @@
 - [Web Browser Engineering Book](https://browser.engineering/) - Explains, building a basic but complete web browser, from networking to JavaScript, in a thousand lines of Python.
 - [Supercookie](https://github.com/jonasstrehle/supercookie) - Browser Fingerprinting via Favicon. ([Web](https://supercookie.me/)) ([HN](https://news.ycombinator.com/item?id=26051370))
 - [Titanium Web Browser](https://github.com/antoyo/titanium) - Keyboard-driven web browser written in Rust.
+- [Serverless browser automation with AWS Lambda and Puppeteer (2021)](https://acloudguru.com/blog/engineering/serverless-browser-automation-with-aws-lambda-and-puppeteer)
