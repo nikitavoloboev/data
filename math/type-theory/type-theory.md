@@ -116,3 +116,4 @@
 - [The intrinsic topology of a Martin-Lo ̈f universe (2012)](https://www.cs.bham.ac.uk/~mhe/papers/universe-indiscrete-and-rice.pdf)
 - [Typing is Hard](https://3fx.ch/typing-is-hard.html)
 - [Catt](https://github.com/thibautbenjamin/catt) - Infinity categorical coherence typechecker.
+- [Strongly-typed System F in Haskell](https://github.com/sweirich/challenge)

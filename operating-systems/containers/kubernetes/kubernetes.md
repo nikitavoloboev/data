@@ -337,3 +337,4 @@
 - [GetIstio](https://github.com/tetratelabs/getistio) - Integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [Kubernetes Internals](https://github.com/shubheksha/kubernetes-internals) - Collection of resources that discuss the inner workings of Kubernetes.
 - [Serverless Kubernetes (2021)](https://cto.ai/blog/announcing-cto-ai-kubernetes-paas/) ([HN](https://news.ycombinator.com/item?id=26170612))
+- [monokube](https://github.com/stevelacy/monokube) - Monorepo deployment manager for k8s.

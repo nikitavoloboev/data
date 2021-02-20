@@ -35,6 +35,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [vnav.io](http://vnav.io/) - Fun shooting game. ([HN](https://news.ycombinator.com/item?id=25934270))
 - [Lizard](https://www.playlizard.com/) - Online card game for up to 6 players.
 - [Candy Box 2](https://candybox2.github.io/) ([Code](https://github.com/candybox2/candybox2.github.io))
+- [Smash Karts](https://smashkarts.io/) - Multiplayer Kart Battle Arena game.
 
 ## Awesome OSS games
 
