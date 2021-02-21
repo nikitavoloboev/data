@@ -39,3 +39,4 @@
 - [Ground Zero](https://github.com/groupoid/lean) - Provides computable HITs, variation of Cubical Type Theory using them, and some other math.
 - [Lean HOL](https://github.com/nyuichi/LeanHOL) - Tiny implementation of higher-order logic proof assistant in lean.
 - [Formal [Lean] Proof of the Independence of the Continuum Hypothesis (2021)](https://arxiv.org/abs/2102.02901)
+- [Formalising Mathematics: An Introduction (2021)](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/) ([HN](https://news.ycombinator.com/item?id=26214593))

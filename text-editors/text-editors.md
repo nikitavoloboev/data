@@ -43,6 +43,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [ghostwriter](https://wereturtle.github.io/ghostwriter/) - Cross-platform, aesthetic, distraction-free Markdown editor. ([Code](https://github.com/wereturtle/ghostwriter))
 - [sam](https://github.com/deadpixi/sam) - Updated version of the sam text editor.
 - [Firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
+- [Noteworthy](https://noteworthy.ink/) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror. ([Code](https://github.com/benrbray/noteworthy))
 
 ## Web
 
