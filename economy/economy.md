@@ -75,3 +75,4 @@
 - [Narrative Economics](https://www.nber.org/system/files/working_papers/w23075/w23075.pdf)
 - [HN: How this Ends (2021)](https://news.ycombinator.com/item?id=26171022)
 - [Economics Reddit Wiki Recommended Reading](https://www.reddit.com/r/Economics/wiki/reading)
+- [The US government is inviting inflation (2021)](https://twitter.com/michaeljburry/status/1363226460979228673) ([HN](https://news.ycombinator.com/item?id=26224191))

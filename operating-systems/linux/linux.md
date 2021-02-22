@@ -273,3 +273,4 @@
 - [Linux memory management FAQ](http://landley.net/writing/memory-faq.txt)
 - [Using eBPF to uncover in-memory loading (2021)](https://blog.tofile.dev/2021/02/15/ebpf-01.html)
 - [2021: Year of the Linux Gaming Desktop](https://www.youtube.com/watch?v=pq1XqP4-qOo) ([Lobsters](https://lobste.rs/s/g02hnu/2021_year_linux_gaming_desktop))
+- [Traitor](https://github.com/liamg/traitor) - Linux privilege escalation made easy. ([HN](https://news.ycombinator.com/item?id=26224719))

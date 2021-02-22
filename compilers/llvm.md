@@ -59,3 +59,4 @@
 - [The Architecture of Open Source Applications: LLVM](http://www.aosabook.org/en/llvm.html) ([Reddit](https://www.reddit.com/r/programming/comments/ku9xza/the_architecture_of_open_source_applications_llvm/))
 - [Enzyme](https://github.com/wsmoses/Enzyme) - High-Performance Automatic Differentiator of LLVM. ([Docs](https://enzyme.mit.edu/))
 - [DebugIR](https://github.com/vaivaswatha/debugir) - Debugging LLVM-IR Files.
+- [Dumbo: LLVM-based Dumb Obfuscator (2019)](https://www.babush.me/dumbo-llvm-based-dumb-obfuscator.html)

@@ -103,3 +103,4 @@
 - [Knurling-rs](https://knurling.ferrous-systems.com/) - Get a handle on bare-metal Rust. ([GitHub](https://github.com/knurling-rs)) ([What's Knurling all about?](https://github.com/knurling-rs/meta))
 - [Creating Embedded Microcontrollers](https://abdullahyildiz.github.io/files/Creating_Embedded_Microcontrollers.pdf)
 - [Introduction to ARM Semihosting (2021)](https://interrupt.memfault.com/blog/arm-semihosting)
+- [Tutorial for secure OTA (over the air) firmware update on the ESP32 (2021)](https://www.lab4iot.com/2021/02/21/esp32-secure-firmware-update-over-the-air-ota/)

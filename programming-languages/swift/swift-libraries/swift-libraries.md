@@ -7,6 +7,7 @@
 - [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.
 - [Ashen](https://github.com/colinta/Ashen) - Framework for writing terminal applications in Swift.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - Library for creating command-line applications and running shell commands in Swift.
+- [Spinner](https://github.com/dominicegginton/spinner) - Powerful Swift CLI Spinners.
 
 ## Animation
 
@@ -566,7 +567,7 @@
 - [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing.
 - [Burritos](https://github.com/guillermomuntaner/Burritos) - Collection of well tested Swift Property Wrappers.
 - [workflow-swift](https://github.com/square/workflow-swift) - Unidirectional data flow library for Swift and Kotlin.
-- [SwiftGraphQL](https://github.com/maticzav/swift-graphql) - GraphQL client that lets you forget about GraphQL.
+- [SwiftGraphQL](https://github.com/maticzav/swift-graphql) - GraphQL client that lets you forget about GraphQL. ([HN](https://news.ycombinator.com/item?id=26224060))
 - [DictionaryCoding](https://github.com/elegantchaos/DictionaryCoding) - Swift Decoder/Encoder which converts to/from dictionaries.
 - [Annotated](https://github.com/jegnux/Annotated) - Small library that let you annotate your strings with semantic annotations.
 - [Serpent](https://github.com/nodes-ios/Serpent) - Framework made for creating model objects or structs that can be easily serialized and deserialized from/to JSON.

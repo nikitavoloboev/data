@@ -23,3 +23,4 @@
 - [Who Invented the Alphabet? (2021)](https://www.smithsonianmag.com/history/inventing-alphabet-180976520/) ([HN](https://news.ycombinator.com/item?id=25735348))
 - [How to Teach Yourself a Foreign Language](https://github.com/SAJForbes/HowtoTeachYourselfaForeignLanguage/blob/master/How%20to%20Teach%20Yourself%20a%20Foreign%20Language.pdf)
 - [LibreTranslate](https://libretranslate.com/) - Free and Open Source Machine Translation API. ([Code](https://github.com/uav4geo/LibreTranslate)) ([HN](https://news.ycombinator.com/item?id=26048800))
+- [Languages That Could Change the Way You See the World (2015)](https://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world) ([HN](https://news.ycombinator.com/item?id=26224117))

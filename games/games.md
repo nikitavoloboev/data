@@ -23,6 +23,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [PiAwk](https://www.hiwarp.com/piawk/)
 - [NAiAD](https://www.hiwarp.com/naiad/)
 - [Pure Skill Minesweeper](https://github.andrewt.net/mines/) ([HN](https://news.ycombinator.com/item?id=24181772))
+- [Minesweeper](https://madprops.github.io/minesweeper/)
 - [Hanabi](https://hanabi.cards/) - Cooperative card game. ([Code](https://github.com/bstnfrmry/hanabi))
 - [skribbl](https://skribbl.io/) - Free Multiplayer Drawing & Guessing Game.
 - [PSX Party](https://psxparty.kosmi.io/) - Online Multiplayer Playstation 1 Emulator Using WebRTC. ([HN](https://news.ycombinator.com/item?id=25582187))

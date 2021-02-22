@@ -47,3 +47,4 @@
 - [Writing C code in Java/Clojure: GraalVM specific programming (2021)](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
 - [Distribution of JVM Desktop Applications (2021)](https://blog.frankel.ch/state-jvm-desktop-frameworks/6/) ([HN](https://news.ycombinator.com/item?id=26135532))
 - [jabba](https://github.com/shyiko/jabba) - Java Version Manager.
+- [Choosing Java instead of C++ for low-latency systems (2021)](https://stackoverflow.blog/2021/02/22/choosing-java-instead-of-c-for-low-latency-systems/) ([HN](https://news.ycombinator.com/item?id=26225273))

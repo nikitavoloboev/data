@@ -58,3 +58,4 @@
 - [Colorable](https://colorable.jxnblk.com/) - Color combination contrast tester. ([Code](https://github.com/jxnblk/colorable))
 - [How software gets color wrong (2020)](https://bottosson.github.io/posts/colorwrong/)
 - [Random color generator for JavaScript](https://randomcolor.lllllllllllllllll.com/) ([Code](https://github.com/davidmerfield/randomColor))
+- [Practical Color Theory for People Who Code (2016)](http://tallys.github.io/color-theory/)

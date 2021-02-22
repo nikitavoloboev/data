@@ -15,3 +15,4 @@
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping. Powered by JSON Server + LowDB.
 - [Steps for Designing REST API](https://www.wutsi.com/read/246/5-steps-for-designing-your-rest-apis)
 - [REST API response – Should you envelope or not?](https://news.ycombinator.com/item?id=25913429)
+- [Best practices for REST API design (2020)](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) ([HN](https://news.ycombinator.com/item?id=26225373))

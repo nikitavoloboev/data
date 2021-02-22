@@ -35,6 +35,7 @@ Streaks is a nice app that lets me keep track of the 6 main things I want to kee
 ## Notes
 
 - I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else.
+- [Tiny friction goes a long way. To create healthy behavior, start with healthy defaults.](https://twitter.com/thelindazhang/status/1363318010266587136)
 
 ## Links
 

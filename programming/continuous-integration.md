@@ -36,3 +36,4 @@
 - [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 - [Setting up a CI system part 1: Preparing your test machines (2021)](http://www.mupuf.org/blog/2021/02/08/setting-up-a-ci-system-preparing-your-test-machine/)
 - [Delta CI](https://deltaci.com/) - Bare Metal CI/CD with much faster builds. ([HN](https://news.ycombinator.com/item?id=26167222))
+- [ProgressiveDeliveryConf 2021](https://progressivedeliveryconf21.heysummit.com/) - Learn how to go beyond CI/CD.
