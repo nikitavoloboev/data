@@ -108,6 +108,7 @@
 - [essence-of-live-coding](https://github.com/turion/essence-of-live-coding) - General purpose and type safe live coding framework in Haskell. ([Tutorial](https://github.com/turion/essence-of-live-coding-tutorial))
 - [Higgledy](https://github.com/i-am-tom/higgledy) - Higher-kinded data via generics.
 - [hal](https://github.com/Nike-Inc/hal) - Runtime environment for Haskell applications running on AWS Lambda.
+- [machines](https://github.com/ekmett/machines) - Demand driven input sources like pipes or conduits, but can support multiple inputs.
 
 ## Links
 

@@ -184,3 +184,4 @@
 - [Time Travel Debugging for C/C++ (2021)](https://pspdfkit.com/blog/2021/time-travel-debugging-for-c/)
 - [Move Semantics in C++ (2020)](https://medium.com/pranayaggarwal25/move-semantics-269e73287b63)
 - [An Improved Thread with C++20](http://modernescpp.com/index.php/an-improved-thread-with-c-20) ([HN](https://news.ycombinator.com/item?id=26142257))
+- [Standalone C++](https://github.com/Bareflank/standalone_cxx) - Run C++ from anywhere.

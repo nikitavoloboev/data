@@ -32,3 +32,4 @@
 - [Babbage was a true genius (2006)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BBabbage%20was%20a%20true%20genius%5D%5D) ([HN](https://lobste.rs/s/ovjvzl/babbage_was_true_genius))
 - [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://elronnd.net/writ/2021-02-13_att-asm.html) ([Lobsters](https://lobste.rs/s/zifjgi/why_no_one_should_use_at_t_syntax_ever_for))
 - [Learning to Read x86 Assembly Language (2016)](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
+- [Wiz](https://github.com/wiz-lang/wiz) - High-level assembly language for writing homebrew software for retro console platforms.

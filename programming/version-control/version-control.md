@@ -24,3 +24,4 @@
 - [VCS Nirvana (2021)](https://paulhammant.com/2020/01/19/vcs-nirvana/) ([Lobsters](https://lobste.rs/s/5iunpc/vcs_nirvana))
 - [Trunk Based Development](https://trunkbaseddevelopment.com/) ([Code](https://github.com/paul-hammant/tbd))
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized version control system for peer-to-peer software development. ([Web](https://www.multiverse-vcs.com/))
+- [Snowtrack](https://www.snowtrack.io/) - Fast, scalable version control file storage for graphic files. ([Code](https://github.com/Snowtrack/SnowFS))

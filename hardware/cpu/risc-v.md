@@ -82,3 +82,4 @@
 - [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip) - Contains the Rocket chip generator necessary to instantiate the RISC-V Rocket Core.
 - [Designing a RISC-V CPU (2021)](https://mcla.ug/blog/risc-v-cpu-part-1.html) ([HN](https://news.ycombinator.com/item?id=26164574))
 - [RISC-V assembler in Tcl](https://github.com/jbroll/riscv-asm)
+- [RISC-V Getting Started Guide](https://risc-v-getting-started-guide.readthedocs.io/en/latest/) ([Code](https://github.com/riscv/risc-v-getting-started-guide))
