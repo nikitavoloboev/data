@@ -195,3 +195,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Remotion](https://www.remotion.dev/) - Create videos programmatically in React. ([Code](https://github.com/JonnyBurger/remotion))
 - [Shrink my video](https://acailly.github.io/shrink-my-video/) - Upload your video then get a smaller one, easy. ([Code](https://github.com/acailly/shrink-my-video/))
 - [Optimizing Video For Size And Quality (2021)](https://www.smashingmagazine.com/2021/02/optimizing-video-size-quality/)
+- [What Should I Teach in a Video Tutorial?](https://johnlindquist.com/what-should-i-teach-in-a-video-tutorial/)

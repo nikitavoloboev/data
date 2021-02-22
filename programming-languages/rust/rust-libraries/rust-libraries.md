@@ -781,3 +781,4 @@
 - [cargo-cacher](https://github.com/ChrisMacNaughton/cargo-cacher) - Caching server for crates + cargo.
 - [Expose a Rust Library to Other Languages (2021)](https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html)
 - [rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates.
+- [Against Packaging Rust Crates (2021)](https://fy.blackhats.net.au/blog/html/2021/02/16/against_packaging_rust_crates.html) ([Lobsters](https://lobste.rs/s/unaq3j/against_packaging_rust_crates))

@@ -122,6 +122,7 @@ And these Discord servers:
 - [Bloomberg](https://www.bloomberg.com/)
 - [Works in Progress](https://worksinprogress.co/)
 - [The New York Times](https://www.nytimes.com/)
+- [Tablet Magazine](https://www.tabletmag.com/)
 
 ### Other
 

@@ -37,3 +37,4 @@
 - [HA Lovelace card for control of scheduler entities](https://github.com/nielsfaber/scheduler-card)
 - [JavaScript websocket client for Home Assistant](https://github.com/home-assistant/home-assistant-js-websocket)
 - [Home Assistant Companion Docs](https://companion.home-assistant.io/) ([Code](https://github.com/home-assistant/companion.home-assistant))
+- [zigpy](https://github.com/zigpy/zigpy) - Library implementing a ZigBee stack.

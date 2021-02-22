@@ -76,3 +76,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Plant-Powered Dog](https://www.plantpowereddog.com/) - Raise a Thriving Plant-Based Dog.
 - [Animation of 1 whale trying to dodge human ships to get food](https://twitter.com/ballenaschile/status/1356703048270249985)
 - [The Economics of Biodiversity: The Dasgupta Review (2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957291/Dasgupta_Review_-_Full_Report.pdf)
+- [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)

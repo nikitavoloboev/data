@@ -69,6 +69,7 @@
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - Powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. ([Web](https://www.babylonjs.com/)) ([React Babylon.js](https://github.com/brianzinn/react-babylonjs))
 - [PursuedPyBear](https://github.com/ppb/pursuedpybear) - Python game engine. Exists to be an educational resource.
 - [Fluxus](http://www.pawfal.org/fluxus/) - 3D game engine for live-coding worlds into existence. ([HN](https://news.ycombinator.com/item?id=26130341))
+- [Keikan](https://github.com/slightknack/keikan) - Multithreaded photorealistic rendering engine that supports path-tracing, ray-marching, Photo Based Rendering (through a principled implementation), and more.
 
 ## Physics engines
 

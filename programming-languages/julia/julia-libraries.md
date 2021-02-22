@@ -27,6 +27,7 @@
 - [LowRankModels.jl](https://github.com/madeleineudell/LowRankModels.jl) - Julia package for modeling and fitting generalized low rank models.
 - [MADS](https://github.com/madsjulia/Mads.jl) - Integrated high-performance computational framework for data/model/decision analyses.
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) - Agent-based modeling framework in Julia.
+- [Mitosis.jl](https://github.com/mschauer/Mitosis.jl) - Incorporate discrete and continuous time Markov processes as building blocks into probabilistic graphical models.
 
 ## Math
 
@@ -64,6 +65,7 @@
 - [ChainRulesCore](https://github.com/JuliaDiff/ChainRulesCore.jl) - Provides a light-weight dependency for defining sensitivities for functions in your packages.
 - [Calculus.jl](https://github.com/JuliaMath/Calculus.jl) - Calculus functions in Julia.
 - [TSML](https://github.com/IBM/TSML.jl) - Package for time series data processing, classification, clustering, and prediction.
+- [Metatheory.jl](https://github.com/0x0f0f0f/Metatheory.jl) - General purpose metaprogramming and algebraic computation library for the Julia programming language.
 
 ## NLP
 
