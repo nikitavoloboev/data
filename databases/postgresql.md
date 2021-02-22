@@ -222,3 +222,4 @@
 - [Postgres regex search over 10,000 GitHub repositories (using only a Macbook) (2021)](https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositories)
 - [JIT-Compiling SQL Queries in PostgreSQL Using LLVM (2017)](https://www.pgcon.org/2017/schedule/events/1092.en.html) ([HN](https://news.ycombinator.com/item?id=26211895))
 - [Faster data migrations in Postgres (2021)](https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/)
+- [Fuzzy Name Matching in Postgres (2021)](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)

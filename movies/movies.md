@@ -33,3 +33,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Film School Rejects](https://filmschoolrejects.com/) - Movies, TV, Culture.
 - [Collection of Classic Movies](https://www.the-classic-movies.com/)
 - [In Bruges: Morality In Dialogue](https://www.youtube.com/watch?v=r_9mLu1kMA8)
+- [Flim](https://beta.flim.ai/) - Search movies, actors, directors or keywords.

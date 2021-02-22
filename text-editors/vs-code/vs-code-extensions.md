@@ -126,6 +126,7 @@ Below is a list of extensions I use.
 - [VSCode Spell Checker](https://github.com/streetsidesoftware/vscode-spell-checker)
 - [Grammarly](https://marketplace.visualstudio.com/items?itemName=znck.grammarly) - Grammar checking. ([Code](https://github.com/znck/grammarly))
 - [Footsteps](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps) - Keep your place when jumping between a different parts of your code. ([Code](https://github.com/Wattenberger/footsteps-vscode))
+- [RayThis](https://marketplace.visualstudio.com/items?itemName=Goopware.raythis) - Generate pretty code snippets right out of VSCode. ([Code](https://github.com/ridarf/raythis))
 
 ## Shell
 

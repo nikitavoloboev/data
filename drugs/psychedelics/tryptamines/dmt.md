@@ -70,3 +70,4 @@
 - [My theory of DMT after many trips and lots of research (2021)](https://www.reddit.com/r/DMT/comments/l1w69f/my_theory_of_dmt_after_many_trips_and_lots_of/)
 - [Alien Insect](http://www.buildingalienworlds.com/) - Building Alien Worlds. DMT, the brain, and the Structure of Reality.
 - [Your Brain on DMT: Other Dimensions & Therapeutic Use | Dr Andrew Gallimore (2020)](https://www.youtube.com/watch?v=El76tF3O8T8)
+- [Hamilton Morris describes the history of 5-MeO-DMT (2021)](https://www.youtube.com/watch?v=O_VYXcdTReQ)

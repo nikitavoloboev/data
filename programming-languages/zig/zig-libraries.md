@@ -1,5 +1,9 @@
 # Zig libraries
 
+## CLI
+
+- [zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
+
 ## Web
 
 - [h11](https://github.com/ducdetronquito/h11) - HTTP/1.1 parser for Zig.
@@ -11,6 +15,7 @@
 - [Upaya](https://github.com/prime31/zig-upaya) - Zig-based framework for creating game tools and helper apps.
 - [zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and computer graphics.
 - [zld](https://github.com/kubkon/zld) - Zig's lld drop-in replacement.
+- [Mecha](https://github.com/Hejsil/mecha) - Parser combinator library for Zig.
 
 ## Links
 

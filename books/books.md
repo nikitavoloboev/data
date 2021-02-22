@@ -346,3 +346,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Goodreads Scraper](https://github.com/maria-antoniak/goodreads-scraper) - Python scripts can be used to collect book reviews and metadata from Goodreads.
 - [Reading Techniques](https://students.dartmouth.edu/academic-skills/learning-resources/learning-strategies/reading-techniques)
 - [Bookfeed.io](http://bookfeed.io/) - RSS Feed with New Releases from Your Favorite Authors.
+- [50 Great Classic Novels Under 200 Pages (2021)](https://lithub.com/50-great-classic-novels-under-200-pages/)
+- [Literary Hub](https://lithub.com/) - Daily literary website.

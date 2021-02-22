@@ -62,3 +62,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Parallel bash](https://github.com/Akianonymus/parallel-bash) - Parallel processing of commands in pure bash along with the support of functions.
 - [Learn Bash in 27 minutes](https://github.com/pforret/LearnBashQuickly)
 - [Better BASHing Through Technology (2020)](https://andydote.co.uk/2020/08/28/better-bashing-through-technology/)
+- [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippets and run them with a bit of style.

@@ -92,3 +92,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The Climate Crisis Is Worse Than You Can Imagine. Here’s What Happens If You Try. (2021)](https://www.propublica.org/article/the-climate-crisis-is-worse-than-you-can-imagine-heres-what-happens-if-you-try)
 - [Sea Change Project](https://seachangeproject.com/)
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - Curated list of tech projects against climate change.
+- [How to destroy the Earth (2003)](https://qntm.org/destroy)

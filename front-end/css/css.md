@@ -264,3 +264,4 @@
 - [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components.
 - [Fluid typography with CSS clamp (2021)](https://piccalil.li/tutorial/fluid-typography-with-css-clamp)
 - [CSS Creatures](https://bennettfeely.com/csscreatures/) ([Code](https://github.com/bennettfeely/csscreatures))
+- [minireset.css](https://github.com/jgthms/minireset.css) - Tiny modern CSS reset. ([Web](https://jgthms.com/minireset.css/))

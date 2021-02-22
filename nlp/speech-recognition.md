@@ -34,3 +34,4 @@
 - [A Review of End-to-End Architectures for Speech Recognition (2021)](https://www.assemblyai.com/blog/a-survey-on-end-to-end-speech-recognition-architectures-in-2021)
 - [libfvad](https://github.com/dpirch/libfvad) - Voice activity detection (VAD) library, based on WebRTC's VAD engine.
 - [ASR with PyTorch](https://github.com/jinserk/pytorch-asr) - Experimental code for speech recognition using PyTorch and Kaldi.
+- [YSDA Speech Processing Course](https://github.com/yandexdataschool/speech_course)

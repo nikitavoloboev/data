@@ -50,3 +50,4 @@
 - [Ruby on Rails View Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/02/10/ruby-on-rails-view-patterns-and-anti-patterns.html)
 - [There's No Such Thing as a Free Gem: How to roll your own Twitter OAuth flow in Rails (2021)](https://blog.testdouble.com/posts/2021-02-11-theres-no-such-thing-as-a-free-gem/)
 - [Using Webpacker in Your Ruby on Rails Application — a Deep Dive (2021)](https://blog.appsignal.com/2021/02/17/using-webpacker-in-your-ruby-on-rails-app-deep-dive.html)
+- [A year of Rails (2021)](https://macwright.com/2021/02/18/a-year-of-rails.html)

@@ -737,6 +737,7 @@
 - [got-reload](https://github.com/got-reload/got-reload) - Reload Go code in a running process at function/method level granularity, using Yaegi.
 - [Workerpool](https://github.com/cilium/workerpool) - Run tasks concurrently with limits.
 - [GoFP](https://github.com/rbrahul/gofp) - Lodash like utility library for Go.
+- [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 
 ## Links
 

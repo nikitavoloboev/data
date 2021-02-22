@@ -447,3 +447,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [LibreTime](https://libretime.org/) - Open source radio automation and broadcasting solution. ([Code](https://github.com/libretime/libretime))
 - [Craigslist](https://craigslist.org/)
 - [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html) ([Lobsters](https://lobste.rs/s/gqnal1/draw_iceberg_see_how_it_will_float)) ([HN](https://news.ycombinator.com/item?id=26201160))
+- [Awesome status pages](https://github.com/ivbeg/awesome-status-pages)

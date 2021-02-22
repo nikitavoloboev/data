@@ -81,3 +81,4 @@
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - Flexible DNS proxy, with support for encrypted DNS protocols.
 - [Why updating DNS is slow](https://wizardzines.com/comics/updating-dns/) ([HN](https://news.ycombinator.com/item?id=26058337))
 - [Please do not put IP addresses into DNS MX records (2021)](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html) ([HN](https://news.ycombinator.com/item?id=26215112)) ([Lobsters](https://lobste.rs/s/5r2uri/please_do_not_put_ip_addresses_into_dns_mx))
+- [Cloudflare DDNS](https://github.com/timothymiller/cloudflare-ddns) - Access your home network remotely via a custom domain name without a static IP.
