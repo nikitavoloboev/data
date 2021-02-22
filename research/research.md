@@ -85,3 +85,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The speed of science (2021)](https://worksinprogress.co/issue/the-speed-of-science/)
 - [Why “Trusting the Science” Is Complicated (2021)](https://lareviewofbooks.org/article/why-trusting-the-science-is-complicated/) ([HN](https://news.ycombinator.com/item?id=26122712))
 - [How Can I Academia When My Brain Can't Even? (2020)](https://very.science/PLMW20/)
+- [Research software code is likely to remain a tangled mess (2021)](http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/) ([HN](https://news.ycombinator.com/item?id=26223114))

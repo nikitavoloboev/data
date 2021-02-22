@@ -125,3 +125,4 @@
 - [Introduction to Event-Driven Architecture (2021)](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
 - [A Clear Architecture](https://github.com/jkphl/clear-architecture) - Pragmatic & opinionated implementation of the Clean Architecture with a fixed base layout and simple-to-follow rules and conventions.
 - [Requirements in Model-Based Systems Engineering (2021)](https://insights.sei.cmu.edu/sei_blog/2021/02/requirements-in-model-based-systems-engineering-mbse.html)
+- [Importance of Conceptual Integrity in System Design](https://wiki.c2.com/?ConceptualIntegrity) ([HN](https://news.ycombinator.com/item?id=26211582))

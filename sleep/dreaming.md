@@ -26,3 +26,4 @@ In order to have lucid dreams you need two do three things consistently:
 - [Dream Journal for Lucid Dreaming](https://oneironotes.com/)
 - [Deconstructing Dreams](https://hyperlink.academy/courses/covid-19-and-dreams/20)
 - [Scientists Engineer Dreams to Understand the Sleeping Brain (2020)](https://www.the-scientist.com/features/scientists-engineer-dreams-to-understand-the-sleeping-brain-68170)
+- [Real-time dialogue with a dreaming person is possible (2021)](https://news.northwestern.edu/stories/2021/02/lucid-dreams-ken-paller/)

@@ -340,3 +340,5 @@
 - [The Tech Debt Playbook (2021)](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)
 - [Approaches to Exploring Codebases](https://bypaulshen.com/posts/exploring-codebases)
 - [Some Software Engineering Maxims](https://www.netmeister.org/blog/software-engineering-laws.html) ([Lobsters](https://lobste.rs/s/lnwqrj/some_software_engineering_maxims))
+- [Finite State Machines (2021)](https://adlrocha.substack.com/p/adlrocha-finite-state-machines) ([HN](https://news.ycombinator.com/item?id=26212686))
+- [Linking - How programs are combined](http://csapp.cs.cmu.edu/2e/ch7-preview.pdf)

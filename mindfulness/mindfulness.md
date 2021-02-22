@@ -30,3 +30,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Ask HN: What helps you improve your mood and keep your sanity? (2020)](https://news.ycombinator.com/item?id=25099731)
 - [The Future of Breathing | James Nestor (2020)](https://www.youtube.com/watch?v=5vQ0PM7A764)
 - [tree.fm](https://www.tree.fm/) - Tune Into Forests From Around The World.
+- [Notes on Achieving and Maintaining Mental Wellness as a Stanford PhD Candidate](https://docs.google.com/document/d/1Q0CtPEONRQTimjz9fiuiBwedDFOTYsfyA7ntFaq84Js/edit#heading=h.j6ht6j6d4j5z)

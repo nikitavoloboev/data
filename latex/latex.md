@@ -66,3 +66,5 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Python2LaTeX](https://github.com/jsleb333/python2latex) - Python to LaTeX converter.
 - [MiKTeX](https://miktex.org/) - Modern C/C++ implementation of TeX & Friends. ([Code](https://github.com/MiKTeX/miktex))
 - [Top LaTeX Fonts](https://r2src.github.io/top10fonts/)
+- [TeXMe](https://github.com/susam/texme) - Lightweight JavaScript utility to create self-rendering Markdown + LaTeX documents.
+- [Arara](https://gitlab.com/islandoftex/arara) - TeX automation tool based on rules and directives. ([HN](https://news.ycombinator.com/item?id=26211705))

@@ -34,3 +34,4 @@
 - [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/~dale/lProlog/)
 - [Dale Miller Research](http://www.lix.polytechnique.fr/~dale/) - Focuses on Computational Logic.
 - [Logical Fallacies](https://www.logicalfallacies.org/) - List of Logical Fallacies with Examples. ([HN](https://news.ycombinator.com/item?id=25967160))
+- [Intensional Logic in Context – from philosophy to technology (2021)](https://billwadge.wordpress.com/2021/02/21/intensional-logic-in-context-from-philosophy-to-technology/)

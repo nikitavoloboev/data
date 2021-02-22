@@ -16,3 +16,4 @@
 - [Mici](https://github.com/matt-graham/mici) - Manifold Markov chain Monte Carlo methods in Python.
 - [Efficient Search with Markov Chains (2020)](https://www.daniellowengrub.com/blog/2020/04/16/efficient-search)
 - [MDP-numba](https://github.com/louisabraham/mdp-numba) - Simple JIT-compiled implementation of Markov Decision Processes.
+- [A Tutorial on Hidden Markov Models (1989)](https://courses.physics.illinois.edu/ece417/fa2017/rabiner89.pdf)

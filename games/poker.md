@@ -11,3 +11,4 @@
 - [JustPoker.games](https://justpoker.games/) - No-sign-up in-browser poker app for friendly games. ([HN](https://news.ycombinator.com/item?id=25083418))
 - [Secrets of the MIT Poker Course](https://mentalfloss.atavist.com/secrets-of-the-mit-poker-course)
 - [joker](https://github.com/notnil/joker) - Poker library written in go.
+- [TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - Java implemented Texas holdem and short deck Solver. ([HN](https://news.ycombinator.com/item?id=26213367))

@@ -57,3 +57,4 @@
 - [FACET](https://github.com/BCG-Gamma/facet) - Open source library for human-explainable AI.
 - [Sony AI Research Code](https://github.com/sony/ai-research-code)
 - [AI Achievements](https://achievements.ai/) - Growing Timeline of AI Milestones.
+- [Complexity No Bar to AI](https://www.gwern.net/Complexity-vs-AI) ([HN](https://news.ycombinator.com/item?id=26216238))

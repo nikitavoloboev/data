@@ -99,3 +99,4 @@
 - [Pace Capital](https://www.pacecapital.com/)
 - [Venture Capital Frameworks (2021)](https://docs.google.com/document/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/edit#) - Lessons learned, pattern matching, aphorisms, theories, and general worldview with respect to venture capital. ([Tweet](https://twitter.com/cpaik/status/1355641034726891521))
 - [Andreessen Horowitz](https://a16z.com/) - Venture capital firm in Silicon Valley, California.
+- [Abundant Capital (2021)](https://blog.aaronkharris.com/abundant-capital) ([HN](https://news.ycombinator.com/item?id=26226723))

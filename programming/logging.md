@@ -35,3 +35,4 @@
 - [Logsuck](https://github.com/JackBister/logsuck) - Easy log aggregation, indexing and searching.
 - [Ekanite](https://github.com/ekanite/ekanite) - High-performance syslog server with built-in text search.
 - [The Ultimate Guide To Python Logging (2021)](https://khashtamov.com/en/ultimate-guide-to-python-logging/)
+- [My Logging Best Practices (2020)](https://tuhrig.de/my-logging-best-practices/)

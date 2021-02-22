@@ -32,3 +32,4 @@
 - [websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for python.
 - [websockets](https://github.com/aaugustin/websockets) - Library for building WebSocket servers and clients in Python.
 - [Implementer's Guide to WebSockets](https://cookie.engineer/weblog/articles/implementers-guide-to-websockets.html)
+- [ChatCord App](https://github.com/bradtraversy/chatcord) - Real time chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI.

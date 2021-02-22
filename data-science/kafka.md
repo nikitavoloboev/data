@@ -31,3 +31,4 @@
 - [Kafka message scheduler](https://github.com/etf1/kafka-message-scheduler) - Allows you to send message to a target topic on a specific time with a particular payload.
 - [librdkafka](https://github.com/edenhill/librdkafka) - Apache Kafka C/C++ client library.
 - [A review of Kafka books and tutorials (2021)](https://stambros.medium.com/the-ultimate-knowledge-trove-2bed285dc23e)
+- [Is Pulsar better than Kafka? (2020)](https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/)

@@ -49,3 +49,4 @@
 - [Duffel](https://duffel.com/) - API to sell flights online. Search, book, and sell flights on a developer-friendly platform complete with the extras you need — from seat selection to checked bags.
 - [Radio Garden](http://radio.garden/) - Explore live radio by rotating the globe.
 - [City Guesser](https://virtualvacation.us/guess) - Can you guess what city you're in?
+- [Second Citizenships, Residencies, and/or Temporary Relocation (2021)](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation) ([HN](https://news.ycombinator.com/item?id=26210179))

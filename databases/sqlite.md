@@ -56,3 +56,4 @@
 - [SQLite Viewer](http://inloop.github.io/sqlite-viewer/) - View SQLite file online. ([Code](https://github.com/inloop/sqlite-viewer))
 - [Amalgalite](https://github.com/copiousfreetime/amalgalite) - SQLite embedded in a Ruby extension.
 - [Cross-Database Queries in SQLite (2021)](https://simonwillison.net/2021/Feb/21/cross-database-queries/) ([HN](https://news.ycombinator.com/item?id=26217754))
+- [Build SQLite Extensions in Go](https://github.com/riyaz-ali/sqlite)

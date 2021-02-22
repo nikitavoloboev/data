@@ -116,3 +116,4 @@
 - [Unpacking Interview Questions (2021)](https://jacobian.org/series/unpacking-interview-questions/) - Series sharing some of the questions I use when I interview for technical roles.
 - [What are some of the interviewing standards that you developed over time as a candidate? (2021)](https://twitter.com/kefimochi/status/1361385405401026560)
 - [Ask HN: Is it crazy that software developers have to study for interviews? (2021)](https://news.ycombinator.com/item?id=26183380)
+- [Apple’s tech interview scope for junior position (2021)](https://twitter.com/krzyzanowskim/status/1363640961318985729) ([HN](https://news.ycombinator.com/item?id=26222733))

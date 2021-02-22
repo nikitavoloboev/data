@@ -26,3 +26,4 @@
 - [Markus Triska on constraints and the power of Prolog (2021)](https://thesearch.space/episodes/4-markus-triska-on-constraints-and-the-power-of-prolog)
 - [Why Learn Prolog in 2021?](http://dstrohmaier.com/why-learn-prolog-in-2021/) ([HN](https://news.ycombinator.com/item?id=25652369))
 - [The birth of Prolog (1992)](http://alain.colmerauer.free.fr/alcol/ArchivesPublications/PrologHistory/19november92.pdf)
+- [Prolog Notes](https://github.com/dtonhofer/prolog_notes) - Some notes taken while working on Prolog.

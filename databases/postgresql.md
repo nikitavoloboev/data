@@ -218,3 +218,7 @@
 - [Metagration](https://github.com/michelp/metagration) - PostgreSQL Migrator in PostgreSQL.
 - [Aquameta](https://github.com/aquametalabs/aquameta) - Web development platform built entirely in PostgreSQL.
 - [Deep PostgreSQL Thoughts: Resistance to Containers is Futile (2021)](https://info.crunchydata.com/blog/deep-postgresql-thoughts-resistance-to-containers-is-futile)
+- [Postgres Trigram search learnings (2021)](https://devlog.hexops.com/2021/postgres-trigram-search-learnings)
+- [Postgres regex search over 10,000 GitHub repositories (using only a Macbook) (2021)](https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositories)
+- [JIT-Compiling SQL Queries in PostgreSQL Using LLVM (2017)](https://www.pgcon.org/2017/schedule/events/1092.en.html) ([HN](https://news.ycombinator.com/item?id=26211895))
+- [Faster data migrations in Postgres (2021)](https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/)

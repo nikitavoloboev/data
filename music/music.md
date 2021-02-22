@@ -9,7 +9,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [How to Science [Part 1: Music]](https://www.youtube.com/watch?v=d3mHfqd0VZY)
 - [Coding music](https://gist.github.com/staltz/99d70c8ae57bdc71a53b83e74a51d096)
 - [Platlist Detective](https://www.playlistdetective.com/) - Search Spotify playlists.
-- [Every Noise at Once](http://everynoise.com/engenremap.html)
+- [Every Noise at Once](https://everynoise.com/)
 - [How to shuffle songs? (2014)](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/)
 - [Ask HN: How Can I Learn Music Theory? (2019)](https://news.ycombinator.com/item?id=21822225)
 - [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library.
@@ -73,7 +73,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [spotify_dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from any Spotify playlist, album or track.
 - [spotifydownload](https://github.com/schollz/spotifydownload) - Automatically download your Spotify playlists.
 - [Supercreative Radio](https://www.supercreative.design/radio) - Nonstop music for creatives.
-- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/)
+- [Ishkur's Guide to Electronic Music](https://music.ishkur.com/) ([HN](https://news.ycombinator.com/item?id=26212706))
 - [TildeRadio](https://tilderadio.org/) - Internet radio streamed by/for users of the tildeverse.
 - [Discover Quickly](https://discoverquickly.com/) - Your interface for music discovery, powered by Spotify.
 - [Ask HN: How do you find new music? (2020)](https://news.ycombinator.com/item?id=25085635)
@@ -103,3 +103,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Audiak](https://www.audiak.com/) - Free Music for Your Videos. ([HN](https://news.ycombinator.com/item?id=26022635))
 - [Basic Music Theory (2021)](https://iconcollective.edu/basic-music-theory/) ([HN](https://news.ycombinator.com/item?id=26130228))
 - [Ancient FM](https://www.ancientfm.com/) - Commercial-free Mediaeval and Renaissance Music.
+- [Timelineify](https://www.timelineify.com/) - Create Spotify playlists of an artist's full discography.
