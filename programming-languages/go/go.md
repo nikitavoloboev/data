@@ -434,3 +434,4 @@ Go promotes composition over inheritance.
 - [Go generics proposal has been accepted (2021)](https://github.com/golang/go/issues/43651) ([HN](https://news.ycombinator.com/item?id=26093778))
 - [Securing a Go Microservice with JWT (2021)](https://fusionauth.io/blog/2021/02/18/securing-golang-microservice/)
 - [Generics in Go Tutorial (2021)](https://bitfieldconsulting.com/golang/generics)
+- [Go is not an easy language (2021)](https://www.arp242.net/go-easy.html) ([HN](https://news.ycombinator.com/item?id=26220693)) ([Lobsters](https://lobste.rs/s/ee6nsc/go_is_not_easy_language))

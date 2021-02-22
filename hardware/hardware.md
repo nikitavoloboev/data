@@ -169,3 +169,5 @@
 - [Misoc](https://github.com/m-labs/misoc) - High performance and small footprint SoC based on Migen.
 - [A Primer on Analog Computing (2021)](https://blog.sigplan.org/2021/02/11/a-primer-on-analog-computing/)
 - [Cheap PCB](https://github.com/hardenedlinux/cheap-pcb) - Better understanding the current status of hardware supply chain. ([HN](https://news.ycombinator.com/item?id=26176964))
+- [Dumping the Super Game Boy 2 boot ROM (2015)](https://gekkio.fi/blog/2015/dumping-the-super-game-boy-2-boot-rom/)
+- [Teardown of a quartz crystal oscillator and the tiny IC inside (2021)](http://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html)

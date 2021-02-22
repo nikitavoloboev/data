@@ -117,3 +117,4 @@
 - [Typing is Hard](https://3fx.ch/typing-is-hard.html)
 - [Catt](https://github.com/thibautbenjamin/catt) - Infinity categorical coherence typechecker.
 - [Strongly-typed System F in Haskell](https://github.com/sweirich/challenge)
+- [Native Type Theory (2021)](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html) ([Lobsters](https://lobste.rs/s/ornuz9/native_type_theory))

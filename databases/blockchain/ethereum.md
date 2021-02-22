@@ -170,3 +170,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [What is Ethereum ? To beginners and not quite (2021)](https://www.reddit.com/r/ethereum/comments/lkhe5t/what_is_ethereum_to_beginners_and_not_quite/)
 - [trin](https://github.com/carver/trin) - Ethereum "portal": a json-rpc server with nearly instant sync, and low CPU & storage usage.
 - [How to connect to Ethereum network using Go (2021)](https://www.quiknode.io/guides/web3-sdks/how-to-connect-to-ethereum-network-using-go)
+- [Ethereum Isn't Fun Anymore (2021)](https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/) ([HN](https://news.ycombinator.com/item?id=26222709))

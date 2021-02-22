@@ -25,3 +25,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [ossmalware](https://github.com/jordan-wright/ossmalware) - Attempts to use dynamic analysis to find malware hosted on package managers.
 - [GoFish](https://gofi.sh/) - Cross-platform systems package manager, bringing the ease of use of Homebrew to Linux and Windows. ([Code](https://github.com/fishworks/gofish)) ([Fish Food](https://github.com/fishworks/fish-food))
 - [fpm](https://github.com/jordansissel/fpm) - Packaging made simple. Goal of fpm is to make it easy and quick to build packages such as rpms, debs, macOS packages, etc. ([Docs](https://fpm.readthedocs.io/en/latest/))
+- [The modern packager’s security nightmare (2021)](https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/) ([Lobsters](https://lobste.rs/s/zb1c4k/modern_packager_s_security_nightmare))

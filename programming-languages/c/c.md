@@ -135,3 +135,4 @@
 - [Angelix](http://angelix.io/) - Semantics-based test-driven automated program repair tool for C programs. ([Code](https://github.com/mechtaev/angelix))
 - [Inline and Sideline Approaches for Low-Cost Memory Safety in C (2021)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-954.html)
 - [Checked C](https://github.com/microsoft/checkedc) - Adds static and dynamic checking to C to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. ([HN](https://news.ycombinator.com/item?id=26190403))
+- [ELF: symbol lookup via DT_HASH (2017)](https://flapenguin.me/elf-dt-hash)

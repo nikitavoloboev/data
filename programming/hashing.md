@@ -35,3 +35,5 @@
 - [Hashids](https://hashids.org/) - Generate short unique ids from integers. ([JS Code](https://github.com/niieani/hashids.js)) ([Go Code](https://github.com/speps/go-hashids))
 - [Simhashing (hopefully) made simple (2012)](https://ferd.ca/simhashing-hopefully-made-simple.html)
 - [hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries.
+- [Comparing ahash to other hashing algorithms](https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md) ([Lobsters](https://lobste.rs/s/jitsly/comparing_ahash_other_hashing))
+- [Consistent Hashing: Algorithmic Tradeoffs (2018)](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)

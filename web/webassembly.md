@@ -142,3 +142,5 @@
 - [go-wasm-http-server](https://github.com/nlepage/go-wasm-http-server) - Embed your Go HTTP handlers in a ServiceWorker (usin WebAssembly) and emulate an HTTP server.
 - [Memory64 Proposal for WebAssembly](https://github.com/WebAssembly/memory64)
 - [Raw WebAssembly Demos](https://github.com/binji/raw-wasm) ([Web](https://binji.github.io/raw-wasm/))
+- [Benchmark of WebAssembly runtimes](https://github.com/jedisct1/webassembly-benchmarks)
+- [WebAssembly Search Tools for Static Sites (2021)](https://healeycodes.com/webassembly-search-tools-for-static-websites/) ([Lobsters](https://lobste.rs/s/g8i4w5/webassembly_search_tools_for_static))

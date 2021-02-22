@@ -339,3 +339,4 @@
 - ["Naming Things" is a Poor Name for Naming Things (2021)](https://buttondown.email/hillelwayne/archive/naming-things-is-a-poor-name-for-naming-things/) ([Lobsters](https://lobste.rs/s/lpjklr/naming_things_is_poor_name_for_naming))
 - [The Tech Debt Playbook (2021)](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)
 - [Approaches to Exploring Codebases](https://bypaulshen.com/posts/exploring-codebases)
+- [Some Software Engineering Maxims](https://www.netmeister.org/blog/software-engineering-laws.html) ([Lobsters](https://lobste.rs/s/lnwqrj/some_software_engineering_maxims))
