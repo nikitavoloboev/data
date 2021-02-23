@@ -35,3 +35,4 @@
 - [libfvad](https://github.com/dpirch/libfvad) - Voice activity detection (VAD) library, based on WebRTC's VAD engine.
 - [ASR with PyTorch](https://github.com/jinserk/pytorch-asr) - Experimental code for speech recognition using PyTorch and Kaldi.
 - [YSDA Speech Processing Course](https://github.com/yandexdataschool/speech_course)
+- [Paper List for Speech Translation](https://github.com/dqqcasia/awesome-speech-translation)
