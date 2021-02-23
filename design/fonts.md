@@ -213,3 +213,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Dharma Type](https://dharmatype.com/)
 - [System Font Stack](https://systemfontstack.com/) ([Code](https://github.com/tmcw/systemfontstack))
 - [Uniwidth typefaces for interface design (2021)](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
+- [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code.

@@ -232,3 +232,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Chain](https://github.com/Shopify/git-chain) - Tool to rebase multiple Git branches based on the previous one.
 - [mit](https://github.com/mitchellwrosen/mit) - Git wrapper with a streamlined UX.
 - [Git is my buddy: Effective Git as a solo developer (2021)](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/) ([HN](https://news.ycombinator.com/item?id=26239068))
+- [git-gone](https://github.com/lunaryorn/git-gone) - Cleanup stale Git branches of pull requests.

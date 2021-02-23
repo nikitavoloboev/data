@@ -230,3 +230,4 @@
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [dataset-tools](https://github.com/dvschultz/dataset-tools) - Tools for quickly normalizing image datasets.
 - [Using Streamlit to visualize object detection output (2021)](https://blog.streamlit.io/how-to-use-roboflow-and-streamlit-to-visualize-object-detection-output/)
+- [Mobile Computer Vision @ Facebook](https://github.com/facebookresearch/mobile-vision)
