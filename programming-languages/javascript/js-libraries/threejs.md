@@ -46,3 +46,4 @@
 - [ThreeJS Globe Visualization](https://github.com/vasturiano/three-globe)
 - [Raymarching shaders](https://github.com/gsimone/r3f-raymarching) - Collection of raymarching experiments using react-three-fiber & family.
 - [Three Material Editor](https://github.com/RenaudRohlinger/three-material-editor) - GLSL editor for Threejs scene.
+- [Recreating Real-World Terrain With React, Three.js & WebGL Shaders (2021)](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)

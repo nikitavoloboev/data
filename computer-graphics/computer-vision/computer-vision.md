@@ -229,3 +229,4 @@
 - [MeInGame: Create a Game Character Face from a Single Portrait (2021)](https://arxiv.org/abs/2102.02371) ([Code](https://github.com/FuxiCV/MeInGame))
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [dataset-tools](https://github.com/dvschultz/dataset-tools) - Tools for quickly normalizing image datasets.
+- [Using Streamlit to visualize object detection output (2021)](https://blog.streamlit.io/how-to-use-roboflow-and-streamlit-to-visualize-object-detection-output/)

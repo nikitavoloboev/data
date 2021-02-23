@@ -342,4 +342,4 @@
 - [Some Software Engineering Maxims](https://www.netmeister.org/blog/software-engineering-laws.html) ([Lobsters](https://lobste.rs/s/lnwqrj/some_software_engineering_maxims))
 - [Finite State Machines (2021)](https://adlrocha.substack.com/p/adlrocha-finite-state-machines) ([HN](https://news.ycombinator.com/item?id=26212686))
 - [Linking - How programs are combined](http://csapp.cs.cmu.edu/2e/ch7-preview.pdf)
-- [Why is it so hard to see code from 5 minutes ago? (2021)](https://web.eecs.utk.edu/~azh/blog/yestercode.html) ([HN](https://news.ycombinator.com/item?id=26187881))
+- [Why is it so hard to see code from 5 minutes ago? (2021)](https://web.eecs.utk.edu/~azh/blog/yestercode.html) ([HN](https://news.ycombinator.com/item?id=26187881)) ([Lobsters](https://lobste.rs/s/1339vj/why_is_it_so_hard_see_code_from_5_minutes_ago))
