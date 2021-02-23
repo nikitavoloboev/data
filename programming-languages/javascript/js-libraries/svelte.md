@@ -81,3 +81,4 @@
 - [Svelte Routing](https://github.com/EmilTholin/svelte-routing) - Declarative Svelte routing library with SSR support.
 - [svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - Svelte Preprocessor to compile tailwindcss at build time.
 - [sveld](https://github.com/IBM/sveld) - Generate TypeScript definitions for your Svelte components.
+- [Svelte Relay](https://github.com/kesne/svelte-relay) - Easily use GraphQL in Svelte, powered by the production-ready Relay runtime.

@@ -123,6 +123,7 @@ And these Discord servers:
 - [Works in Progress](https://worksinprogress.co/)
 - [The New York Times](https://www.nytimes.com/)
 - [Tablet Magazine](https://www.tabletmag.com/)
+- [Eye on Design](https://eyeondesign.aiga.org/)
 
 ### Other
 

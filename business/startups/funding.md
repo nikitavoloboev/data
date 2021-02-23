@@ -94,3 +94,4 @@
 - [Investor Pitch Training](https://www.basetemplates.com/investor-pitch-training) - Nail your next investor pitch! Just answer the questions for yourself.
 - [Always Tell Investors Exactly Why They Shouldn’t Invest In Your Company](https://twitter.com/lessin/status/1349791159208603649)
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
+- [Reflecting on what it takes to raise $20M from A16Z (2021)](https://www.siliconvict.com/reforge-a16z-round)

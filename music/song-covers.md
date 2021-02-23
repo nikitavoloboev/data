@@ -12,3 +12,4 @@
 - [Serial Killer - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=tNUzrI9iEZM)
 - [Art Deco - Lana Del Rey (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=xHUhQHt9DaM)
 - [Viva La Vida - Coldplay (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=2_uDzzOb5po)
+- [If I Get High - Nothing But Thieves (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=nFUz9xOXA40)
