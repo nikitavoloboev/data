@@ -76,3 +76,4 @@
 - [What is Asynchronous Hiring](https://asynchr.com/blog/tpost/x56zmg1e31-what-the-hell-is-asynchronous-hiring)
 - [Asynchr](https://asynchr.com/) - Asynchronous hiring for remote teams.
 - [“Location-Based Pay” – Who are we to complain? (2021)](https://blackshaw.substack.com/p/pay) ([HN](https://news.ycombinator.com/item?id=26131138))
+- [Ask HN: Any startups solving for software engineering hiring? (2021)](https://news.ycombinator.com/item?id=26236973)

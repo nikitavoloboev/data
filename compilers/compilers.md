@@ -144,3 +144,4 @@
 - [Compiler Class (2021)](https://norswap.com/compilers/) ([HN](https://news.ycombinator.com/item?id=26075930))
 - [Toolchains.net](https://www.toolchains.net/) - Collection of toolchain resources.
 - [Calculating Correct Compilers II: Return of the Register Machines](https://pure.itu.dk/portal/files/85295380/bahr20jfp_paper.pdf) ([Code](https://github.com/pa-ba/reg-machine))
+- [Teaching Compilers Backward (2021)](https://blog.sigplan.org/2021/02/23/teaching-compilers-backward/) ([HN](https://news.ycombinator.com/item?id=26237368))

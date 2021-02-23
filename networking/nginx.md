@@ -35,3 +35,4 @@
 - [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen.
 - [Cgit, Nginx and Gitolite: A Personal Git Server (2021)](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/) ([HN](https://news.ycombinator.com/item?id=25856071))
 - [Rhit](https://github.com/Canop/rhit) - Nginx log analyzer.
+- [Why does one NGINX worker take all the load? (2017)](https://blog.cloudflare.com/the-sad-state-of-linux-socket-balancing/)

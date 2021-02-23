@@ -46,3 +46,4 @@
 - [Dirhash Standard](https://github.com/andhus/dirhash) - Formal procedure for hashing of a filesystem directory.
 - [The No-Order File System (2012)](http://pages.cs.wisc.edu/~vijayc/nofs.htm) ([HN](https://news.ycombinator.com/item?id=25900461))
 - [PiFS](https://github.com/philipl/pifs) - Data-Free Filesystem.
+- [S3QL](https://github.com/s3ql/s3ql) - File system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
