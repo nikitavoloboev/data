@@ -364,7 +364,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Best of Show HN](https://bestofshowhn.com/)
 - [TreeCard](https://www.treecard.org/) - Wooden debit card that plants trees. ([HN](https://news.ycombinator.com/item?id=25621401))
 - [Moderating a 220k Developer Community (2020)](https://dev.to/swyx/moderating-a-220k-developer-community-3doj)
-- [mold](https://github.com/rui314/mold) - Modern Linker.
+- [Mold](https://github.com/rui314/mold) - Modern Linker. ([Lobsters](https://lobste.rs/s/t9gvtg/mold_modern_linker))
 - [Stedi](https://stedi.com/) - Structured messaging platform for B2B trade.
 - [gorush](https://github.com/appleboy/gorush) - Push notification server written in Go.
 - [Lessons from six months at Shopify (2020)](https://alexdanco.com/2020/10/23/six-lessons-from-six-months-at-shopify/) ([HN](https://news.ycombinator.com/item?id=24876665))
@@ -448,3 +448,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Craigslist](https://craigslist.org/)
 - [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html) ([Lobsters](https://lobste.rs/s/gqnal1/draw_iceberg_see_how_it_will_float)) ([HN](https://news.ycombinator.com/item?id=26201160))
 - [Awesome status pages](https://github.com/ivbeg/awesome-status-pages)
+- [Call a Dev](https://calladev.com/) - Pay Stack Overflow users $1/min for live programming help. ([HN](https://news.ycombinator.com/item?id=26226805))

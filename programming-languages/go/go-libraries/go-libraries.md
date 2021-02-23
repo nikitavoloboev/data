@@ -124,6 +124,7 @@
 - [go-ipset](https://github.com/janeczku/go-ipset) - Go wrapper to the IPtables ipset userspace utility.
 - [Kite](https://github.com/koding/kite) - Micro-service framework in Go.
 - [safehtml](https://github.com/google/safehtml) - Provides immutable string-like types that wrap web types such as HTML, JavaScript and CSS.
+- [HttpRouter](https://github.com/julienschmidt/httprouter) - High performance HTTP request router that scales well.
 
 ## GraphQL
 
@@ -738,6 +739,7 @@
 - [Workerpool](https://github.com/cilium/workerpool) - Run tasks concurrently with limits.
 - [GoFP](https://github.com/rbrahul/gofp) - Lodash like utility library for Go.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
+- [structomap](https://github.com/danhper/structomap) - Helps you to transform your struct into map easily.
 
 ## Links
 

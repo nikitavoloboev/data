@@ -39,3 +39,4 @@
 - [How to Spot Good Fuzzing Research (2018)](https://blog.trailofbits.com/2018/10/05/how-to-spot-good-fuzzing-research/)
 - [Browser fuzzing at Mozilla (2021)](https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=26080578))
 - [Fuzz me wrong – How QuickCheck destroyed my favorite theory](https://thma.github.io/posts/2021-01-30-How-QuickCheck-destroyed-my-favourite-theory.html) ([HN](https://news.ycombinator.com/item?id=26112441))
+- [Fuzzing Forum](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing.

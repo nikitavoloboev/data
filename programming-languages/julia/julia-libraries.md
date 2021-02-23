@@ -28,6 +28,8 @@
 - [MADS](https://github.com/madsjulia/Mads.jl) - Integrated high-performance computational framework for data/model/decision analyses.
 - [Agents.jl](https://github.com/JuliaDynamics/Agents.jl) - Agent-based modeling framework in Julia.
 - [Mitosis.jl](https://github.com/mschauer/Mitosis.jl) - Incorporate discrete and continuous time Markov processes as building blocks into probabilistic graphical models.
+- [BAT](https://github.com/bat/BAT.jl) - Bayesian analysis toolkit in Julia.
+- [MLJFlux](https://github.com/FluxML/MLJFlux.jl) - Interface to the deep learning package Flux.jl from the MLJ.jl toolbox.
 
 ## Math
 

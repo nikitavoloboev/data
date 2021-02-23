@@ -731,6 +731,7 @@
 - [conch-runtime](https://github.com/ipetkov/conch-runtime) - Rust library/runtime for executing Unix shell commands.
 - [rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust.
 - [async-io](https://github.com/smol-rs/async-io) - Async I/O and timers.
+- [stroke-rs](https://github.com/dorianprill/stroke-rs) - Zero-allocation library providing const-generic implementations of Bézier curves, B-Spline curves.
 
 ## Cargo Plugins
 

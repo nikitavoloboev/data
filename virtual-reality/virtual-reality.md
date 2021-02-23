@@ -31,3 +31,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Why the liquids in Half-Life Alyx look so dang good (2021)](https://www.youtube.com/watch?v=9XWxsJKpYYI)
 - [OpenVR Advanced Settings Overlay](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) - Adds an overlay to the OpenVR dashboard that allows access to advanced settings and useful utilities.
 - [Oasis](https://theoasis.com/) - Be Who You Really Are.
+- [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.

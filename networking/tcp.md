@@ -27,3 +27,4 @@
 - [TCPProbe](https://github.com/mehrdadrad/tcpprobe) - TCP tool for network performance and path monitoring, including socket statistics.
 - [BerthaD](https://github.com/bertha/berthad) - Simple, fast, no-nonsense TCP server to store blobs of data by its SHA256 hash.
 - [Chisel](https://github.com/jpillora/chisel) - Fast TCP/UDP Tunnel, Transported over HTTP, Secured via SSH.
+- [go-tcp](https://github.com/mikioh/tcp) - Provides TCP-level socket options that allow manipulation of TCP connection facilities.

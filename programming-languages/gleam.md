@@ -16,3 +16,4 @@
 - [Gleam and Static Types with Louis Pilfold (2020)](https://thinkingelixir.com/podcast-episodes/023-gleam-and-static-types-with-louis-pilfold/)
 - [Shine](https://github.com/jeffkreeftmeijer/shine) - Test runner for Gleam and Erlang.
 - [Gleam 0.14 (2021)](https://gleam.run/news/gleam-v0.14-released/) ([HN](https://news.ycombinator.com/item?id=26185690))
+- [VS Code Gleam](https://github.com/gleam-lang/vscode-gleam) - Gleam support for VS Code.

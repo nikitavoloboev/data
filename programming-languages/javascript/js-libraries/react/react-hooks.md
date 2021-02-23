@@ -129,3 +129,4 @@
 - [Deep dive: How do React hooks really work? (2019)](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/)
 - [React's UseRef Deep Dive](https://www.giovannibenussi.com/blog/a-complete-guide-to-useref/) ([HN](https://news.ycombinator.com/item?id=25452146))
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks (2021)](https://kyleshevlin.com/use-encapsulation)
+- [Before You memo() (2021)](https://overreacted.io/before-you-memo/)

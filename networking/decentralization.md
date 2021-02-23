@@ -48,3 +48,4 @@
 - [Decentralized Social Networking Ecosystem Review by Twitter (2021)](https://ipfs.io/ipfs/QmdFrru4PyHzXGZztEPnYToBR3QovD7fkC1HSyty22LzfD) ([HN](https://news.ycombinator.com/item?id=25861436))
 - [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites) - Resources on building decentralized websites.
 - [Ask HN: Truly successful applications based on decentralized networks? (2021)](https://news.ycombinator.com/item?id=26206504)
+- [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)

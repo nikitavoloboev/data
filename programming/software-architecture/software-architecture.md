@@ -127,3 +127,4 @@
 - [Requirements in Model-Based Systems Engineering (2021)](https://insights.sei.cmu.edu/sei_blog/2021/02/requirements-in-model-based-systems-engineering-mbse.html)
 - [Importance of Conceptual Integrity in System Design](https://wiki.c2.com/?ConceptualIntegrity) ([HN](https://news.ycombinator.com/item?id=26211582))
 - [Monolith First (2015)](https://martinfowler.com/bliki/MonolithFirst.html) ([HN](https://news.ycombinator.com/item?id=26190584))
+- [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.

@@ -145,3 +145,4 @@
 - [Benchmark of WebAssembly runtimes](https://github.com/jedisct1/webassembly-benchmarks)
 - [WebAssembly Search Tools for Static Sites (2021)](https://healeycodes.com/webassembly-search-tools-for-static-websites/) ([Lobsters](https://lobste.rs/s/g8i4w5/webassembly_search_tools_for_static))
 - [vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server.
+- [Effect Handlers Proposal for WebAssembly](https://github.com/effect-handlers/wasm-effect-handlers)

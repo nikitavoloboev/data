@@ -7,6 +7,7 @@
 - [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C. ([HN](https://news.ycombinator.com/item?id=21777401))
 - [Dyad.c](https://github.com/rxi/dyad) - Asynchronous networking for C.
 - [ENet](https://github.com/lsalzman/enet) - Reliable UDP networking library. ([Web](http://enet.bespin.org/))
+- [CivetWeb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server.
 
 ## GUI
 

@@ -70,6 +70,7 @@
 - [PursuedPyBear](https://github.com/ppb/pursuedpybear) - Python game engine. Exists to be an educational resource.
 - [Fluxus](http://www.pawfal.org/fluxus/) - 3D game engine for live-coding worlds into existence. ([HN](https://news.ycombinator.com/item?id=26130341))
 - [Keikan](https://github.com/slightknack/keikan) - Multithreaded photorealistic rendering engine that supports path-tracing, ray-marching, Photo Based Rendering (through a principled implementation), and more.
+- [Oak](https://github.com/oakmound/oak) - Pure Go game engine.
 
 ## Physics engines
 
