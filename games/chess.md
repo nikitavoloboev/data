@@ -72,3 +72,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Stopping Early Queen Attacks In Chess (2021)](https://www.youtube.com/watch?v=cY9zitJFglc)
 - [ChessCraft](https://www.chesscraft.ca/) - Never play the same game of chess again.
 - [Coding Adventure: Chess AI (2021)](https://www.youtube.com/watch?v=U4ogK0MIzqk)
+- [Trapped Knights (2019)](https://www.moll.dev/projects/trapped-knights/)

@@ -102,3 +102,4 @@
 - [Speed up pip downloads in Docker with BuildKit’s new caching (2021)](https://pythonspeed.com/articles/docker-cache-pip-downloads/)
 - [Docker Hub Tool](https://github.com/docker/hub-tool) - CLI tool for interacting with the Docker Hub.
 - [App Platform sample Docker application](https://github.com/digitalocean/sample-dockerfile)
+- [Dazzle](https://github.com/gitpod-io/dazzle) - Experimental Docker image builder which builds independent layers.

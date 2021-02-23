@@ -163,6 +163,7 @@
 - [Srcerr](https://github.com/azriel91/srcerr) - User friendly errors from source data.
 - [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
 - [panic-persist](https://github.com/jamesmunns/panic-persist) - Writes panic messages to a section of RAM.
+- [better-panic](https://github.com/mitsuhiko/better-panic) - Gives you pretty backtraces for panics.
 
 ## IO
 

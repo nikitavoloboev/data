@@ -16,3 +16,4 @@
 - [CUDA Library Samples](https://github.com/NVIDIA/CUDALibrarySamples)
 - [PyCUDA](https://github.com/inducer/pycuda) - Access Nvidia's CUDA parallel computation API from Python.
 - [CUTLASS](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines.
+- [Reaction Diffusion modelling with Julia and CUDA (2020)](https://www.moll.dev/projects/reaction-diffusion-julia/)

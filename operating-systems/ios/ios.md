@@ -290,3 +290,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [usbmuxd](https://github.com/libimobiledevice/usbmuxd) - Socket daemon to multiplex connections from and to iOS devices.
 - [Emerge](https://www.emergetools.com/) - Monitor and reduce iOS app size. ([HN](https://news.ycombinator.com/item?id=26014180))
 - [ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Sample code using the Lidar sensor on iOS device.
+- [SimulatorKit](https://github.com/vmanot/SimulatorKit) - Programmatic access to the Simulator app.
