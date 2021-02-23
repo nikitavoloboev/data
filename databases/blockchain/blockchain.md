@@ -108,3 +108,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Hyperledger](https://www.hyperledger.org/) - Open Source Blockchain Technologies. ([GitHub](https://github.com/hyperledger/))
 - [CX](https://github.com/skycoin/cx) - New programming language for blockchain.
 - [CovenantSQL](https://covenantsql.io/) - Decentralized, trusted, high performance, SQL database with blockchain features. ([Code](https://github.com/CovenantSQL/CovenantSQL))
+- [Graph Node](https://github.com/graphprotocol/graph-node) - Protocol for building decentralized applications (dApps) quickly on Ethereum and IPFS using GraphQL.

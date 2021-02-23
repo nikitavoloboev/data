@@ -51,6 +51,8 @@
 - [Kalepy](https://github.com/lzkelley/kalepy) - Kernel Density Estimation and (re)sampling.
 - [Bodywork](https://github.com/bodywork-ml/bodywork-core) - Python framework that helps machine learning engineers run batch jobs, serve models and deploy machine learning pipelines, in containers on Kubernetes.
 - [Stheno](https://github.com/wesselb/stheno) - Gaussian process modelling in Python.
+- [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library.
+- [pandas-ml](https://github.com/pandas-ml/pandas-ml) - pandas, scikit-learn, xgboost and seaborn integration.
 
 ## Biology
 
