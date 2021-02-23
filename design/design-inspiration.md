@@ -71,6 +71,7 @@ Here are few more things I liked, design wise.
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
 - [Numinus](https://numinus.ca/)
+- [Quill](https://quill.chat/) - Nice mobile & desktop view.
 - [Staff Design](https://staff.design/) - Amazing mobile view too.
 - [CleanShot X](https://cleanshot.com/)
 - [Wasmer](https://wasmer.io/) ([Code](https://github.com/wasmerio/wasmer.io))
@@ -100,7 +101,6 @@ Here are few more things I liked, design wise.
 - [Pixel Envy](https://pxlnv.com/)
 - [Pseudo Random](https://www.pseudorandom.com/)
 - [the Webb](https://blog.webb.page/)
-- [Quill](https://quill.chat/) - Both nice mobile & desktop view.
 - [Dark Forest Blog](https://blog.zkga.me/)
 - [Well-Ironed](https://well-ironed.com/)
 - [Blog Title](https://blogtitle.github.io/)

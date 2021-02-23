@@ -51,3 +51,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [The Mathematics of Consciousness (2021)](https://www.youtube.com/watch?v=efVBUDnD_no) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/ku2v56/the_mathematics_of_consciousness_with_physicist/))
 - [On the Medium of Thought (2020)](https://qualiacomputing.com/2020/12/12/on-the-medium-of-thought/)
 - [Do quantum effects play a role in consciousness? (2021)](https://physicsworld.com/a/do-quantum-effects-play-a-role-in-consciousness/)
+- [What Is Consciousness For? (2021)](https://durmonski.com/lay-summaries/what-is-consciousness-for/)
