@@ -33,7 +33,6 @@
 - [Lobsters: What does your company use for documentation? (2019)](https://lobste.rs/s/6jc9qj/what_does_your_company_use_for)
 - [GitDocs](https://github.com/timberio/gitdocs) - Easy to use, SEO-friendly, beautiful documentation that lives in your git repo.
 - [A Rubric for Open Source Documentation (2019)](https://naildrivin5.com/blog/2019/08/23/a-rubric-for-open-source-documentation.html)
-- [Outline](https://github.com/outline/outline) - Open, extensible, wiki for your team built using React and Node.js
 - [Ask HN: What is key to good technical documentation? (2019)](https://news.ycombinator.com/item?id=20909783)
 - [Slab](https://slab.com/) - Simple, scalable wiki that knocks down silos. ([HN](https://news.ycombinator.com/item?id=24824063))
 - [How to remove condescending language from documentation (2019)](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
@@ -68,7 +67,7 @@
 - [Favorite docs collection (and why) (2020)](https://twitter.com/dan_abramov/status/1280949739534630919)
 - [Ask HN: How do you learn new libraries without much documentation? (2020)](https://news.ycombinator.com/item?id=23800590)
 - [Design Docs at Google (2020)](https://www.industrialempathy.com/posts/design-docs-at-google/) ([HN](https://news.ycombinator.com/item?id=23915521))
-- [Outline](https://www.getoutline.com/) - Team wiki & knowledge base.
+- [Outline](https://www.getoutline.com/) - Open, extensible, wiki for your team built using React and Node.js ([Code](https://github.com/outline/outline))
 - [Why Write ADRs (2020)](https://github.blog/2020-08-13-why-write-adrs/) ([HN](https://news.ycombinator.com/item?id=24146594))
 - [I Love MDN, or the cult of the free in action (2020)](https://www.quirksmode.org/blog/archives/2020/08/i_love_mdn_or_t.html) ([HN](https://news.ycombinator.com/item?id=24159244))
 - [Architecture decision record (ADR)](https://github.com/joelparkerhenderson/architecture_decision_record) - ADR is document that captures an important architectural decision made along with its context and consequences.

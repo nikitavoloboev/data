@@ -732,6 +732,7 @@
 - [rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust.
 - [async-io](https://github.com/smol-rs/async-io) - Async I/O and timers.
 - [stroke-rs](https://github.com/dorianprill/stroke-rs) - Zero-allocation library providing const-generic implementations of Bézier curves, B-Spline curves.
+- [j4rs](https://github.com/astonbitecode/j4rs) - Java for Rust.
 
 ## Cargo Plugins
 

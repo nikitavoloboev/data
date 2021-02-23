@@ -295,6 +295,7 @@ Here are few more things I liked, design wise.
 - [Yenly Ma](https://www.yenly.wtf/)
 - [Bargava Subramanian](https://www.bargava.com/)
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
+- [Tom Moor](https://blog.tommoor.com/about/)
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
 - [Mark Hkr](https://marlom.dev/) ([Code](https://github.com/markhker/marlomdev))
