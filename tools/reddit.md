@@ -7,3 +7,4 @@
 - [Awesome Reddit Bots](https://github.com/huckingfoes/awesome-reddit-bots)
 - [Ideas for Admins Subreddit](https://www.reddit.com/r/ideasfortheadmins/)
 - [Change Log Subreddit](https://www.reddit.com/r/changelog/)
+- [Reddit: One of social media's oldest companies is also its most undervalued (2021)](https://latecheckout.substack.com/p/reddit-organized-lightning) ([HN](https://news.ycombinator.com/item?id=26215604))

@@ -74,3 +74,4 @@
 - [Ogone](https://github.com/SRNV/Ogone) - Advanced Web Composition for Future. Uses Deno.
 - [Deno Module Visualizer](https://deno-visualizer.danopia.net/) - Understand the concept of packages & repositories to show a very simplified import graph.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp-deno) - Deno port of tinyhttp, 0-legacy, tiny & fast web framework.
+- [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)

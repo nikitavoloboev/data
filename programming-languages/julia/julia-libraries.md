@@ -226,3 +226,4 @@
 - [PackagePage.jl](https://github.com/tlienart/PackagePage.jl) - Create a webpage for your package in minutes.
 - [JuliaReach](https://juliareach.github.io/JuliaReach-website/) - Toolbox for set-based reachability analysis and safety verification of dynamical systems. ([GitHub](https://github.com/JuliaReach))
 - [JuliaGraphs](https://juliagraphs.org/) - Graph packages for the Julia language. ([GitHub](https://github.com/JuliaGraphs))
+- [jlpkg](https://github.com/fredrikekre/jlpkg) - Command line interface (CLI) for Pkg, Julia's package manager.
