@@ -124,6 +124,7 @@ And these Discord servers:
 - [The New York Times](https://www.nytimes.com/)
 - [Tablet Magazine](https://www.tabletmag.com/)
 - [Eye on Design](https://eyeondesign.aiga.org/)
+- [BBC](https://www.bbc.com/)
 
 ### Other
 

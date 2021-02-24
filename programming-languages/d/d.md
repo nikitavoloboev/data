@@ -19,3 +19,4 @@
 - [Idioms for the D Programming Language](https://p0nce.github.io/d-idioms/) ([HN](https://news.ycombinator.com/item?id=26105564))
 - [Organizations Using the D Language](https://dlang.org/orgs-using-d.html) ([HN](https://news.ycombinator.com/item?id=26158191))
 - [Interactive tour of the D Programming Language](https://tour.dlang.org/)
+- [PyD](https://github.com/ariovistus/pyd) - Interoperability between Python and D.

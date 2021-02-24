@@ -25,3 +25,4 @@
 - [Ask HN: Best programmable robot for a child with SDK? (2020)](https://news.ycombinator.com/item?id=24919475)
 - [Ask HN: Please share your experience teaching your kids to program (2021)](https://news.ycombinator.com/item?id=25650224)
 - [Ask HN: Critical Thinking Books for Kids (2021)](https://news.ycombinator.com/item?id=26161000)
+- [The unusual ways Western parents raise children (2021)](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children) ([HN](https://news.ycombinator.com/item?id=26249242))

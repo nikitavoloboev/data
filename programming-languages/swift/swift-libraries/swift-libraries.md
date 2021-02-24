@@ -166,6 +166,7 @@
 - [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 - [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - Reimagining UICollectionView.
 - [ChidoriMenu](https://github.com/christianselig/ChidoriMenu) - Easy way to add popover menus visually similar to the Context Menus and Pull Down Menus iOS uses but with some advantages.
+- [CachingPlayerItem](https://github.com/neekeetab/CachingPlayerItem) - Stream and cache media content on your iOS device.
 
 ## macOS
 
@@ -622,6 +623,7 @@
 - [SwiftRT](https://github.com/ewconnell/swiftrt) - Experimental computational framework written in the Swift language.
 - [Beethoven](https://github.com/vadymmarkov/Beethoven) - Audio processing Swift library that provides an easy-to-use interface to solve an age-old problem of pitch detection of musical signals.
 - [Parsley](https://github.com/loopwerk/Parsley) - Markdown parser for Swift, using Github Flavored Markdown and Metadata.
+- [Turf for Swift](https://github.com/mapbox/turf-swift) - Spatial analysis library written in Swift.
 
 ## Other (not lib)
 

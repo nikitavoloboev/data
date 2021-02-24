@@ -52,6 +52,7 @@
 - [gql_client](https://github.com/arthurkhlghatyan/gql-client-rs) - Minimal GraphQL client for Rust.
 - [Cynic](https://github.com/obmarg/cynic) - Bring your own types GraphQL client library for Rust. ([Docs](https://cynic-rs.dev/))
 - [Hyperdrive](https://github.com/dac-gmbh/hyperdrive) - Declarative HTTP request routing, guarding and decoding.
+- [tame-oidc](https://github.com/EmbarkStudios/tame-oidc) - Small OAuth crate that follows the sans-io approach.
 
 ## WASM
 
@@ -787,3 +788,4 @@
 - [Expose a Rust Library to Other Languages (2021)](https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html)
 - [rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates.
 - [Against Packaging Rust Crates (2021)](https://fy.blackhats.net.au/blog/html/2021/02/16/against_packaging_rust_crates.html) ([Lobsters](https://lobste.rs/s/unaq3j/against_packaging_rust_crates))
+- [Starter code for writing procedural macros in Rust](https://github.com/SergioBenitez/proc-macro-starter)

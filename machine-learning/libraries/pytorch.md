@@ -225,3 +225,4 @@
 - [torchinfo](https://github.com/TylerYep/torchinfo) - View model summaries in PyTorch.
 - [Compressive transformer PyTorch implementation with notes](https://nn.labml.ai/transformers/compressive/index.html)
 - [DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
+- [PyTorch: From Centralized To Federated (2021)](https://flower.dev/blog/2021-02-24-pytorch-from-centralized-to-federated)

@@ -58,3 +58,4 @@
 - [Sony AI Research Code](https://github.com/sony/ai-research-code)
 - [AI Achievements](https://achievements.ai/) - Growing Timeline of AI Milestones.
 - [Complexity No Bar to AI](https://www.gwern.net/Complexity-vs-AI) ([HN](https://news.ycombinator.com/item?id=26216238))
+- [Facebook AI Performance Evaluation Platform](https://github.com/facebook/FAI-PEP)
