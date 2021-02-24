@@ -159,3 +159,4 @@
 - [Open-Source Data Science Masters](https://github.com/datasciencemasters/go) ([Web](http://datasciencemasters.org/))
 - [Streamlit Data Science and ML Apps in Python](https://github.com/Jcharis/Streamlit_DataScience_Apps)
 - [Storing and retrieving millions of ad impressions per second at Twitter (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
+- [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/) - Introduction to data science in Python, for people with no programming experience. ([Code](https://github.com/AllenDowney/ElementsOfDataScience))

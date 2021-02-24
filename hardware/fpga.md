@@ -51,3 +51,4 @@
 - [Exploring FPGA Graphics (2020)](https://projectf.io/posts/fpga-graphics/) ([HN](https://news.ycombinator.com/item?id=25998154))
 - [Digital Design for FPGAs, with free tools](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN)
 - [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
+- [FPGA Developer Tutorials](https://www.fpgatutorial.com/)

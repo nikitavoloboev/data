@@ -51,3 +51,4 @@
 - [Ask HN: How do you prevent eyestrain with daily computer use? (2020)](https://news.ycombinator.com/item?id=25408587)
 - [Lobsters battlestations and screenshots (2021)](https://lobste.rs/s/jsd8qv/lobsters_battlestations_screenshots)
 - [The Easiest Way To Fix Low Back Pain (2021)](https://www.youtube.com/watch?v=BqL-_eOiOKw)
+- [The Art of the Desk Setup (2021)](https://www.arun.is/blog/desk-setup/)

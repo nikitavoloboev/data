@@ -122,3 +122,4 @@
 - [How we improved our website's performance (2021)](https://www.smashingmagazine.com/2021/01/smashingmag-performance-case-study/) ([HN](https://news.ycombinator.com/item?id=25874595))
 - [SpeedHub](https://www.speedhub.org/) - Information Source for Web Performance.
 - [Making GitHub’s new homepage fast and performant (2021)](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/) ([HN](https://news.ycombinator.com/item?id=25959646))
+- [JavaScript performance beyond bundle size (2021)](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)

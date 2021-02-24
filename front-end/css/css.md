@@ -265,3 +265,4 @@
 - [Fluid typography with CSS clamp (2021)](https://piccalil.li/tutorial/fluid-typography-with-css-clamp)
 - [CSS Creatures](https://bennettfeely.com/csscreatures/) ([Code](https://github.com/bennettfeely/csscreatures))
 - [minireset.css](https://github.com/jgthms/minireset.css) - Tiny modern CSS reset. ([Web](https://jgthms.com/minireset.css/))
+- [Getting Deep into CSS Shadows](https://css-tricks.com/getting-deep-into-shadows/)

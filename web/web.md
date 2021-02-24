@@ -234,3 +234,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Infima](https://github.com/facebookincubator/infima) - UI framework that provides websites with the minimal CSS and JS needed to get started with building a modern responsive beautiful website.
 - [ArchiveWeb.page](https://archiveweb.page/) - Archive as you browse, store locally and/or share with others via IPFS. ([HN](https://news.ycombinator.com/item?id=26188626))
 - [Webrecorder](https://webrecorder.net/) - Provides a suite of open source projects and tools to capture interactive websites and replay them at a later time as accurately as possible. ([GitHub](https://github.com/webrecorder))
+- [Keeping platforms open (2021)](https://seirdy.one/2021/02/23/keeping-platforms-open.html) ([Lobsters](https://lobste.rs/s/ur3eul/keeping_platforms_open))

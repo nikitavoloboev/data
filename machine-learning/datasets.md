@@ -77,3 +77,4 @@
 - [Datasets should behave like git repositories (2021)](https://dagshub.com/blog/datasets-should-behave-like-git-repositories/)
 - [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) ([Visual Explorer](https://github.com/rajpurkar/SQuAD-explorer))
 - [Data.gov](https://www.data.gov/) - Home of the U.S. Government’s open data.
+- [Visualizing Data Timeliness at Airbnb (2021)](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)

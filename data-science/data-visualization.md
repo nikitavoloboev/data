@@ -83,3 +83,4 @@
 - [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots) - Code and tutorials to visualise your data that is both beautiful _and_ statistically valid.
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/) ([HN](https://news.ycombinator.com/item?id=25916646))
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research)
+- [RAWGraphs](https://rawgraphs.io/) - Open web tool to create custom vector-based visualizations on top of the amazing d3.js library. ([Code](https://github.com/rawgraphs/rawgraphs-app))

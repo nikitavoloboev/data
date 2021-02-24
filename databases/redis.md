@@ -48,3 +48,4 @@
 - [Redis Streams and the Unified Log (2017)](https://brandur.org/redis-streams)
 - [Spark-Redis](https://github.com/RedisLabs/spark-redis) - Library for reading and writing data in Redis using Apache Spark.
 - [Bee-Queue](https://github.com/bee-queue/bee-queue) - Simple, fast, robust job/task queue for Node.js, backed by Redis.
+- [Redis rate limiter (2021)](https://blog.rebased.pl/2021/02/22/redis-rate-limiter.html)

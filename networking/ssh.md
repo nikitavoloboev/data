@@ -52,3 +52,4 @@
 - [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/) ([HN](https://news.ycombinator.com/item?id=26053323))
 - [SSH Certificates Security Hardening (2021)](https://goteleport.com/blog/ssh-certificates)
 - [MultiSSH](https://multissh.dev/) - Connect to multiple SSH hosts simultaneously.
+- [How often should I rotate my ssh keys? (2021)](https://tailscale.com/blog/rotate-ssh-keys/)

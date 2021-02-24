@@ -128,4 +128,5 @@
 - [Importance of Conceptual Integrity in System Design](https://wiki.c2.com/?ConceptualIntegrity) ([HN](https://news.ycombinator.com/item?id=26211582))
 - [Monolith First (2015)](https://martinfowler.com/bliki/MonolithFirst.html) ([HN](https://news.ycombinator.com/item?id=26190584))
 - [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
-- [Modules, monoliths, and microservices (2021)](https://tailscale.com/blog/modules-monoliths-and-microservices/)
+- [Modules, monoliths, and microservices (2021)](https://tailscale.com/blog/modules-monoliths-and-microservices/) ([HN](https://news.ycombinator.com/item?id=26247052))
+- [Tiered Cache Smart Topology (2021)](https://blog.cloudflare.com/tiered-cache-smart-topology/)
