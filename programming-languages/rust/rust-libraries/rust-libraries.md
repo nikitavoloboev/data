@@ -104,6 +104,7 @@
 - [Cask](https://github.com/andresilva/cask) - Fast key-value store written in Rust.
 - [Buzz Rust](https://github.com/cloudfuse-io/buzz-rust) - Serverless query engine.
 - [wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine.
+- [acid-store](https://github.com/lostatc/acid-store) - Library for secure, deduplicated, transactional, and verifiable data storage.
 
 ## Graphics
 

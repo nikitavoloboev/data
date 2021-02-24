@@ -20,3 +20,4 @@
 - [Kiner](https://github.com/bufferapp/kiner) - Python AWS Kinesis Producer with error handling and thread support.
 - [Modern Distributed Data Architecture with Event Streams, Stream Processing and Derived Data (2020)](https://makingsmallercircles.com/articles/modern-distributed-data-architecture-with-event-streams-stream-processing-and-derived-data/)
 - [Apache Samza](https://github.com/apache/samza) - Distributed stream processing framework.
+- [Voik](https://github.com/marceloboeira/voik) - Experimental distributed streaming platform.

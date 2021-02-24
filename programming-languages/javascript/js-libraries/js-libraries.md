@@ -471,6 +471,7 @@
 - [dom-to-image-retina](https://github.com/egoist/dom-to-image-retina) - dom-to-image but generates high-resolution images.
 - [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 - [Perfect Freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
+- [Alo](https://github.com/alojs/alo) - Full-fledged state management. ([Docs](http://www.alojs.com/index.html))
 
 ## Links
 

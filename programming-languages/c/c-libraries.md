@@ -68,3 +68,4 @@
 - [gridsort](https://github.com/scandum/gridsort) - Stable adaptive partitioning comparison sort.
 - [Common C libraries and data structures](https://github.com/tezc/sc) ([HN](https://news.ycombinator.com/item?id=26109324))
 - [libco](https://github.com/higan-emu/libco) - Cooperative multithreading library written in C89.
+- [HYPRE](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods. ([Web](https://computing.llnl.gov/casc/hypre/))
