@@ -37,3 +37,4 @@
 - [Shapefest](https://shapefest.com/) - Massive library of free 3D shapes.
 - [sdf](https://github.com/fogleman/sdf) - Generate 3D meshes based on SDFs (signed distance functions) with a dirt simple Python API.
 - [potpourri3d](https://github.com/nmwsharp/potpourri3d) - Python library of various algorithms and utilities for 3D triangle meshes and point clouds.
+- [vedo](https://github.com/marcomusy/vedo) - Python module for scientific analysis of 3D objects based on VTK. ([Web](https://vedo.embl.es/))

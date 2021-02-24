@@ -91,6 +91,7 @@
 - [react-states](https://github.com/christianalfoni/react-states) - Make your reducers more explicit and constrained.
 - [Faster Full Stack Framework](https://github.com/midwayjs/hooks) - Isomorphic | Zero Api | Using "React Hooks" to develop the back-end.
 - [react-popper-tooltip](https://github.com/mohsinulhaq/react-popper-tooltip) - React hook to effortlessly build smart tooltips.
+- [use-clipboard-copy](https://github.com/wsmd/use-clipboard-copy) - Lightweight copy to clipboard hook for React.
 
 ## Notes
 

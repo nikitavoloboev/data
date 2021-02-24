@@ -5,6 +5,7 @@
 - [TypeScript Community Bot](https://github.com/typescript-community/community-bot) - Utility bot built for the TypeScript Community Discord Server.
 - [KCD Community Bot](https://github.com/kentcdodds/kcd-discord-bot) - Automating onboarding and other things.
 - [Red Discord Bot](https://github.com/Cog-Creators/Red-DiscordBot) - Fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable.
+- [Glimbot](https://github.com/nisamson/glimbot) - Discord utility bot.
 
 ## Libraries
 

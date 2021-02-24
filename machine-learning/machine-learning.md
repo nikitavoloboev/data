@@ -414,3 +414,4 @@
 - [Physical Principles for Scalable Neural Recording](https://arxiv.org/ftp/arxiv/papers/1306/1306.5709.pdf)
 - [Learn About Transformers: A Recipe (2021)](https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe)
 - [An Inferential Perspective on Federated Learning (2021)](https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/)
+- [Free Lunch for Few-shot Learning: Distribution Calibration (2020)](https://arxiv.org/abs/2101.06395) ([Code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration))

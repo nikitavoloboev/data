@@ -130,3 +130,4 @@
 - [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [Modules, monoliths, and microservices (2021)](https://tailscale.com/blog/modules-monoliths-and-microservices/) ([HN](https://news.ycombinator.com/item?id=26247052))
 - [Tiered Cache Smart Topology (2021)](https://blog.cloudflare.com/tiered-cache-smart-topology/)
+- [Using Betas to Deploy New Features Safely (2021)](https://shopify.engineering/using-betas-to-deploy-new-features-safely)
