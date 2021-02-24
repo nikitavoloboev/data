@@ -90,6 +90,7 @@ And [here](https://code.nikitavoloboev.xyz/config#macos-apps-i-have-installed) i
 - [Finder built in SwiftUI for macOS](https://github.com/jordansinger/finder-macos-swiftui)
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool to launch everything. Alfred alternative.
 - [keyrace](https://github.com/nat/keyrace) - Daily multiplayer keyboard races for macOS.
+- [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically switch your Mac between light and dark modes based on the ambient light sensor.
 
 ## Other interesting apps
 

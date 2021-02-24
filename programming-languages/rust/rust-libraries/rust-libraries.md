@@ -734,6 +734,7 @@
 - [async-io](https://github.com/smol-rs/async-io) - Async I/O and timers.
 - [stroke-rs](https://github.com/dorianprill/stroke-rs) - Zero-allocation library providing const-generic implementations of Bézier curves, B-Spline curves.
 - [j4rs](https://github.com/astonbitecode/j4rs) - Java for Rust.
+- [autocfg](https://github.com/cuviper/autocfg) - Rust library for build scripts to automatically configure code based on compiler support.
 
 ## Cargo Plugins
 

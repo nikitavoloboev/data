@@ -130,6 +130,7 @@
 - [IndraDB](https://github.com/indradb/indradb) - Graph database written in rust.
 - [SteveCare](https://github.com/steve-care-software/products) - Peer-to-peer database system that enables people to build complex databases between peers, without any intermediary platform.
 - [CORTX](https://github.com/Seagate/cortx) - Open Source Mass-Capacity Optimized Object Store.
+- [PouchDB](https://pouchdb.com/) - JavaScript Database that Syncs. ([Code](https://github.com/pouchdb/pouchdb))
 
 ## Tools
 
