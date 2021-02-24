@@ -65,3 +65,4 @@
 - [Datalog Queries for Roam Research (2020)](https://davidbieber.com/snippets/2020-12-22-datalog-queries-for-roam-research/)
 - [Better Roam Research](https://github.com/linuz90/better-roam-research) - Minimal theme for Roam Research with system-level Dark Mode support. ([Web](https://fabriziorinaldi.com/better-roam-research/))
 - [BlockRunner](https://blockrunner.cc/) - Game to learn roam research hotkeys.
+- [Deep Dive Into Roam's Data Structure (2021)](https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html) - Why Roam is Much More Than a Note Taking App. ([Video](https://www.youtube.com/watch?v=wjIMRD-JKfU))

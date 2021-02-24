@@ -77,3 +77,4 @@
 - [NASA Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/)
 - [Virgin Galactic](https://www.virgingalactic.com/) - American spaceflight company.
 - [Once we can see them, it’s too late (2021)](https://www.scottaaronson.com/blog/?p=5253) ([HN](https://news.ycombinator.com/item?id=25972111))
+- [Ask HN: What entry level telescope should I choose? (2021)](https://news.ycombinator.com/item?id=26231418)

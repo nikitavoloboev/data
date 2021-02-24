@@ -740,6 +740,7 @@
 - [GoFP](https://github.com/rbrahul/gofp) - Lodash like utility library for Go.
 - [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq.
 - [structomap](https://github.com/danhper/structomap) - Helps you to transform your struct into map easily.
+- [date](https://github.com/rickb777/date) - Go package for working with dates.
 
 ## Links
 

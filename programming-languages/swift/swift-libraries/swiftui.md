@@ -125,3 +125,4 @@
 - [Pulse](https://github.com/kean/Pulse) - Structured logging system built with SwiftUI. Record and inspect network requests and logs right from your iOS app using Pulse Console.
 - [Triple Trouble (2021)](https://kean.blog/post/triple-trouble) - Minimal example of three-column navigation for iPad and macOS using SwiftUI. ([Code](https://github.com/kean/ThreeColumnNavigation))
 - [Building cool apps with SwiftUI](https://github.com/FranckNdame/swiftui.builds)
+- [AppKit is done – macOS and SwiftUI (2021)](https://kean.blog/post/appkit-is-done)
