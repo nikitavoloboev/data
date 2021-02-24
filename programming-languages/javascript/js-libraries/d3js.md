@@ -35,3 +35,4 @@
 - [How to learn D3.js with no coding experience (2021)](https://www.heshameissa.com/blog/learn-d3)
 - [Learning D3.js](https://learningd3.com/)
 - [How D3 Moved Us (2021)](https://observablehq.com/@tophtucker/how-d3-moved-us)
+- [10 Years of Open-Source Visualization – D3.js (2021)](https://observablehq.com/@mbostock/10-years-of-open-source-visualization) ([HN](https://news.ycombinator.com/item?id=26240339))

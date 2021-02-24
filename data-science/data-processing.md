@@ -34,3 +34,4 @@
 - [Workflow Description Language (WDL)](https://github.com/openwdl/wdl) - Way to specify data processing workflows with a human-readable and writeable syntax.
 - [Cloudfuse](https://www.cloudfuse.io/) - Open source serverless data solutions. Future of data pipelines. ([GitHub](https://github.com/cloudfuse-io))
 - [Create your own data stream for Kafka with Python and Faker (2021)](https://aiven.io/blog/create-your-own-data-stream-for-kafka-with-python-and-faker)
+- [Hindsight](https://github.com/mozilla-services/hindsight) - C based data processing infrastructure based on the lua sandbox project.

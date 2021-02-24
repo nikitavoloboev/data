@@ -1,5 +1,9 @@
 # Quantum physics
 
+## Notes
+
+- [This is the reason why the word observer is cursed. Because it leads to people to conclude consciousness and other wrong concepts are associated with the results. All that happens is a measurement, an interaction or interference, so no, you dont need a conscious observer, because the act of measurement is what interacts with the wave function, it happens irregardless of being made by a dog, a tardigrade or a computer, because anything that measures the wave function is interfering with it.](https://www.reddit.com/r/quantum/comments/lqtxa6/does_the_observer_effect_only_happens_if_the/)
+
 ## Links
 
 - [Uncertainty principle? It's not about quantum.](https://www.youtube.com/watch?v=MBnnXbOM5S4)

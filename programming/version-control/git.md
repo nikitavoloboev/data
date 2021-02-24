@@ -233,3 +233,4 @@ I love Git and version control. And I use version control over any project I do.
 - [mit](https://github.com/mitchellwrosen/mit) - Git wrapper with a streamlined UX.
 - [Git is my buddy: Effective Git as a solo developer (2021)](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/) ([HN](https://news.ycombinator.com/item?id=26239068))
 - [git-gone](https://github.com/lunaryorn/git-gone) - Cleanup stale Git branches of pull requests.
+- [Stacked Git](https://github.com/stacked-git/stgit) - Application for managing Git commits as a stack of patches. ([Web](https://stacked-git.github.io/))
