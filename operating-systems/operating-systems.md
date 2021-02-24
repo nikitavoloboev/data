@@ -89,7 +89,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system. ([Web](http://jehanne.io/pages/overview.html))
 - [Mimosa](https://github.com/udem-dlteam/mimosa) - Operating system consists of a minimal kernel built on C++ and Scheme.
 - [daintree](https://github.com/kivikakk/daintree) - ARMv8-A operating system, plus a UEFI bootloader, all written in Zig.
-- [AROS](http://www.aros.org/) - Lightweight, efficient, and flexible desktop operating system.
+- [AROS](http://www.aros.org/) - Lightweight, efficient, and flexible desktop operating system. ([HN](https://news.ycombinator.com/item?id=26250504))
 
 ## Notes
 

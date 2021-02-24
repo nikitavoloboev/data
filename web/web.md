@@ -235,3 +235,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [ArchiveWeb.page](https://archiveweb.page/) - Archive as you browse, store locally and/or share with others via IPFS. ([HN](https://news.ycombinator.com/item?id=26188626))
 - [Webrecorder](https://webrecorder.net/) - Provides a suite of open source projects and tools to capture interactive websites and replay them at a later time as accurately as possible. ([GitHub](https://github.com/webrecorder))
 - [Keeping platforms open (2021)](https://seirdy.one/2021/02/23/keeping-platforms-open.html) ([Lobsters](https://lobste.rs/s/ur3eul/keeping_platforms_open))
+- [Lessons around creating UI builders (2021)](https://59bb.medium.com/lessons-around-creating-ui-builders-46ceeaea327f)

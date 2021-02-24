@@ -139,6 +139,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Uncertainty Mindset Wiki](https://uncertaintymindset.org/UM1/index.html)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
+- [Uzay-G's Wiki](https://knowledge.uzpg.me/)
 - [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)
 - [Artyom's tech notes](https://tek.brick.do/)
 - [Albert Zeyer](https://github.com/albertz/wiki)

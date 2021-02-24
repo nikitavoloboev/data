@@ -23,6 +23,7 @@
 - [Tornado](https://github.com/tornadoweb/tornado) - Python web framework and asynchronous networking library. ([Docs](https://www.tornadoweb.org/en/stable/))
 - [Sanic](https://github.com/sanic-org/sanic) - Async Python 3.6+ web server/framework | Build fast. Run fast. ([Web](https://sanicframework.org/)) ([Awesome](https://github.com/mekicha/awesome-sanic))
 - [IDOM](https://github.com/idom-team/idom) - Create highly interactive web pages purely in Python.
+- [apischema](https://github.com/wyfo/apischema) - JSON (de)serialization, GraphQL and JSON schema generation through python typing.
 
 ## ML
 
