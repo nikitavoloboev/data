@@ -65,3 +65,4 @@
 - [Building General-Purpose Robots (2021)](https://howthehell.substack.com/p/general-purpose-robots)
 - [OpenRR](https://github.com/openrr/openrr) - Open Rust Robotics.
 - [Rearranging the Visual World (2021)](https://ai.googleblog.com/2021/02/rearranging-visual-world.html)
+- [RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics](https://github.com/unmannedlab/RELLIS-3D) ([Web](https://unmannedlab.github.io/research/RELLIS-3D))
