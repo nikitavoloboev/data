@@ -223,3 +223,4 @@
 - [JIT-Compiling SQL Queries in PostgreSQL Using LLVM (2017)](https://www.pgcon.org/2017/schedule/events/1092.en.html) ([HN](https://news.ycombinator.com/item?id=26211895))
 - [Faster data migrations in Postgres (2021)](https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/)
 - [Fuzzy Name Matching in Postgres (2021)](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)
+- [pgsql-ast-parser](https://github.com/oguimbal/pgsql-ast-parser) - Postgres SQL syntax parser.

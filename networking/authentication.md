@@ -107,3 +107,4 @@
 - [Clerk](https://clerk.dev/) - All of user management as-a-service, not just authentication. ([HN](https://news.ycombinator.com/item?id=26069621)) ([Tweet](https://twitter.com/tweetsbycolin/status/1358873005447909378))
 - [Persona](https://withpersona.com/) - Identity infrastructure for any business.
 - [JWT in Go](https://github.com/kataras/jwt)
+- [Twingate – Building the foundation for identity-first network security (2021)](https://www.twingate.com/blog/introducing-identity-first-networking/) ([HN](https://news.ycombinator.com/item?id=26253196))

@@ -415,3 +415,4 @@
 - [Implementing flat_map in Rust (2020)](https://www.eltonpinto.me/blog/posts/implementing_flatmap_in_rust/)
 - [Ask the Expert: Rust at Microsoft (2021)](https://www.youtube.com/watch?v=1uAsA1hm52I)
 - [Integrating Rust and C++ in Firefox (2021)](https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/)
+- [Rust for web development: 2 years later (2021)](https://kerkour.com/blog/rust-for-web-development-2-years-later/)
