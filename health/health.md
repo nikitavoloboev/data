@@ -38,3 +38,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Levels](https://www.levelshealth.com/) - Metabolic Fitness Program.
 - [What Will Wellness Look Like in 2021?](https://www.vogue.com/article/wellness-2021)
 - [Digital Health Resources](https://www.franciswong.com/digital-health/)
+- [How to stay healthy as a programmer? (2021)](https://www.reddit.com/r/AskProgramming/comments/lra030/how_to_stay_healthy_as_a_programmer/)

@@ -114,7 +114,7 @@
 - [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 - [Overview of Python Dependency Management (2020)](https://modelpredict.com/python-dependency-management-tools) ([HN](https://news.ycombinator.com/item?id=23380113))
 - [Guide to Python Debugging (2020)](https://martinheinz.dev/blog/24) ([HN](https://news.ycombinator.com/item?id=23386537))
-- [Python for Lisp Programmers (2000)](https://norvig.com/python-lisp.html)
+- [Python for Lisp Programmers (2000)](https://norvig.com/python-lisp.html) ([HN](https://news.ycombinator.com/item?id=26222374))
 - [Intermediate Python book](https://book.pythontips.com/en/latest/)
 - [Using enumerated types in Python (2020)](https://johnlekberg.com/blog/2020-06-06-enum.html) ([HN](https://news.ycombinator.com/item?id=23440541))
 - [Subpar](https://github.com/google/subpar) - Utility for creating self-contained python executables. It is designed to work well with Bazel.
