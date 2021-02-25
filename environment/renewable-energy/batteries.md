@@ -10,3 +10,4 @@
 - [Jurgen Janek's research](https://scholar.google.de/citations?user=KQQWiYQAAAAJ&hl=en)
 - ["World's fastest electrodes" triple the density of lithium batteries (2020)](https://newatlas.com/energy/nawa-vertically-aligned-carbon-nanotube-electrode/) ([HN](https://news.ycombinator.com/item?id=24706325))
 - [QuantumScape](https://www.quantumscape.com/) - Produces solid state lithium-ion batteries that are used in electric cars.
+- [Form Energy](https://formenergy.com/) - Developing long duration energy storage systems to enable a fully renewable, affordable and reliable electric system.

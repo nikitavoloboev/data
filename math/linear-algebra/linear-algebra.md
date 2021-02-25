@@ -41,3 +41,4 @@
 - [David’s Super Quick Logic Cheat Sheet](http://davidjaz.com/Teaching/DJM_LogicCheat_LinAlg.pdf)
 - [the amplitwist, the conjugate transpose, and the complex derivative (2019)](http://glowcoil.com/posts/amplitwist/)
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.

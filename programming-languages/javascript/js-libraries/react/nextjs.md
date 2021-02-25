@@ -158,3 +158,4 @@
 - [next-gen](https://github.com/biowaffeln/next-gen) - Next.js Codebase Generator.
 - [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments)
 - [Learn Next.js in 10 Tweets (2021)](https://twitter.com/colbyfayock/status/1362407526222995456)
+- [Sign in With Apple Next JS (2020)](https://thesiddd.com/blog/apple-auth)

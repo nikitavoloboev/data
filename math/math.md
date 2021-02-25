@@ -90,7 +90,7 @@
 - [Nonlinear Dynamics and Chaos lectures](https://www.youtube.com/watch?v=ycJEoqmQvwg)
 - [The Future of Mathematics? (2019)](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
 - [CoCalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud.
-- [Prime Numbers and the Riemann Hypothesis](https://github.com/williamstein/rh)
+- [Prime Numbers and the Riemann Hypothesis](https://wstein.org/rh/) ([Code](https://github.com/williamstein/rh))
 - [nLab](https://ncatlab.org/nlab/show/HomePage) - Wiki-lab for collaborative work on Mathematics, Physics and Philosophy — especially from the n-point of view: in so far as these subjects are usefully treated with tools and notions of category theory or higher category theory.
 - [Understanding Mathematics](https://github.com/nbro/understanding-math)
 - [Eigenvectors from eigenvalues (2019)](https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)
@@ -239,3 +239,4 @@
 - [You Could Have Invented Homology, Part 1: Topology (2020)](https://www.youtube.com/watch?v=pSjahcOnJvU)
 - [Art and Craft of Mathematical Problem Solving by Paul Zeitz (2010)](https://kheavan.files.wordpress.com/2010/06/paul-zeitz-author-the-art-and-craft-of-problem-solving-2edwiley20060471789011.pdf)
 - [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/) - Pretty printing calculator language. ([Code](https://github.com/mkhan45/CalcuLaTeX))
+- [Defining Visual Narratives for Mathematics Declaratively (2019)](https://plateau-workshop.org/assets/papers-2019/9.pdf)

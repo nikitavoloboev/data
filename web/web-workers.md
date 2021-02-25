@@ -9,3 +9,4 @@
 - [Fully type-safe Web Workers with zero boilerplate](https://about.sourcegraph.com/blog/felix-becker-fully-type-safe-web-workers-with-zero-boilerplate)
 - [web-worker](https://github.com/developit/web-worker) - Consistent Web Workers in browser and Node.
 - [workerize-loader](https://github.com/developit/workerize-loader) - A webpack loader that moves a module and its dependencies into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
+- [Catiline.js](https://github.com/calvinmetcalf/catiline) - JavaScript library to take the pain out of web workers. ([Web](http://catilinejs.com/))

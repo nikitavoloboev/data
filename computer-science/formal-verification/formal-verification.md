@@ -57,3 +57,4 @@
 - [Concrete Semantics](http://concrete-semantics.org/) - Introduces semantics of programming languages through the medium of a proof assistant.
 - [Curry-Howard is a scam (2021)](https://blag.cedeela.fr/curry-howard-scam/) ([Lobsters](https://lobste.rs/s/kp72m4/curry_howard_is_scam))
 - [Computing with metavalues (2021)](https://fredrikj.net/blog/2021/02/computing-with-metavalues/)
+- [CLP](https://github.com/coin-or/Clp) - Open-source linear programming solver.

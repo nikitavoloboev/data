@@ -39,3 +39,5 @@
 - [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack platform for frontend developers to collaborate and deploy websites.
 - [workers-pubsub](https://github.com/sagi/workers-pubsub) - Google Pub/Sub API for Cloudflare Workers (and Node.js).
 - [db-connect](https://github.com/cloudflare/db-connect) - Connect your SQL database to Cloudflare Workers.
+- [cf-workers](https://github.com/kv-orm/cf-workers) - Cloudflare Workers KV datastore plugin for kv-orm.
+- [workers.sh](https://workers.sh/) - Featureful dashboard for managing Cloudflare Workers. ([Code](https://github.com/GregBrimble/workers.sh))

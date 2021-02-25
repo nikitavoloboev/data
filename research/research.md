@@ -86,3 +86,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Why “Trusting the Science” Is Complicated (2021)](https://lareviewofbooks.org/article/why-trusting-the-science-is-complicated/) ([HN](https://news.ycombinator.com/item?id=26122712))
 - [How Can I Academia When My Brain Can't Even? (2020)](https://very.science/PLMW20/)
 - [Research software code is likely to remain a tangled mess (2021)](http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/) ([HN](https://news.ycombinator.com/item?id=26223114))
+- [ORCID](https://orcid.org/) - Provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher.

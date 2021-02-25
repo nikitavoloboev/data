@@ -66,3 +66,4 @@
 - [Covid-19: The Great Reset (2020)](http://reparti.free.fr/schwab2020.pdf)
 - [How Gamaleya’s Sputnik V Vaccine Works (2021)](https://www.nytimes.com/interactive/2021/health/gamaleya-covid-19-vaccine.html)
 - [Coronavirus: Links, Discussion, Open Thread (2021)](https://astralcodexten.substack.com/p/coronavirus-links-discussion-open) ([HN](https://news.ycombinator.com/item?id=26151086))
+- [Why can't we have contagious vaccines? (2021)](https://www.reddit.com/r/askscience/comments/lqniul/why_cant_we_have_contagious_vaccines/)

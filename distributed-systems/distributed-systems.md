@@ -164,3 +164,4 @@
 - [Testing Distributed Systems for Linearizability (2017)](https://www.anishathalye.com/2017/06/04/testing-distributed-systems-for-linearizability/)
 - [Namazu](https://github.com/osrg/namazu) - Programmable Fuzzy Scheduler for Testing Distributed Systems.
 - [Engineering Dependability and Fault Tolerance in a Distributed System (2021)](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
+- [Autopilot: workload autoscaling at Google (2020)](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524)

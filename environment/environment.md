@@ -93,3 +93,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Sea Change Project](https://seachangeproject.com/)
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) - Curated list of tech projects against climate change.
 - [How to destroy the Earth (2003)](https://qntm.org/destroy)
+- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need by Bill Gates (2021)](https://www.goodreads.com/book/show/49007883)

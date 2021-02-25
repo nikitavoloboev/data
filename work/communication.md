@@ -83,3 +83,4 @@
 - [Importance of asking questions and not worrying about messing up (2021)](https://twitter.com/EvyKassirer/status/1220556930675904516) ([HN](https://news.ycombinator.com/item?id=25922975))
 - [Products vs Protocols: What Signal got right (2021)](https://snikket.org/blog/products-vs-protocols/) ([Lobsters](https://lobste.rs/s/4w5oke/products_vs_protocols_what_signal_got))
 - [How to have better arguments online (2021)](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict) ([HN](https://news.ycombinator.com/item?id=26202991))
+- [Chatting with Glue](https://a9.io/glue-comic/) - Cognitive Tools for Augmented Conversation.
