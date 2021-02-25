@@ -55,3 +55,4 @@
 - [Coq record update library](https://github.com/tchajed/coq-record-update) - Automatically provides a generic way to update record fields.
 - [HELIX](https://github.com/vzaliva/helix) - Formally verified operator language and rewriting engine for high-performance computing.
 - [Bits](https://github.com/coq-community/bits) - Formalization of bitset operations in Coq with a corresponding axiomatization and extraction to OCaml native integers.
+- [Coq formalization of information theory and linear error correcting codes](https://github.com/affeldt-aist/infotheo)

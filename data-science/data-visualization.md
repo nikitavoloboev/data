@@ -84,3 +84,4 @@
 - [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/) ([HN](https://news.ycombinator.com/item?id=25916646))
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research)
 - [RAWGraphs](https://rawgraphs.io/) - Open web tool to create custom vector-based visualizations on top of the amazing d3.js library. ([Code](https://github.com/rawgraphs/rawgraphs-app))
+- [Zeu.js](https://github.com/shzlw/zeu) - JavaScript library for real-time visualization. ([Docs](https://shzlw.github.io/zeu/docs/introduction.html))
