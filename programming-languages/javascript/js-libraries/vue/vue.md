@@ -49,3 +49,4 @@
 - [vueuse/head](https://github.com/vueuse/head) - Document head manager for Vue 3. SSR ready.
 - [Vue Native](https://vue-native.io/) - Framework to build cross platform native mobile apps using JavaScript. ([Code](https://github.com/GeekyAnts/vue-native-core)) ([HN](https://news.ycombinator.com/item?id=25927184))
 - [Nuxt Build Optimizations](https://github.com/loonpwn/nuxt-build-optimisations) - Nuxt.js module to automatically make your builds faster.
+- [Vite Experience with Nuxt 2](https://github.com/nuxt/vite)
