@@ -79,3 +79,4 @@
 - [Data.gov](https://www.data.gov/) - Home of the U.S. Government’s open data.
 - [Visualizing Data Timeliness at Airbnb (2021)](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
 - [The Next Evolution of Data Catalogs: Data Discovery Platforms (2021)](https://medium.com/selectstar/the-evolution-of-data-catalogs-the-data-discovery-platform-1627772ca760)
+- [DeepLabel](https://github.com/jveitchmichaelis/deeplabel) - Cross-platform image annotation tool for machine learning.
