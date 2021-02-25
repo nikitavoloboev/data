@@ -131,6 +131,7 @@
 - [SteveCare](https://github.com/steve-care-software/products) - Peer-to-peer database system that enables people to build complex databases between peers, without any intermediary platform.
 - [CORTX](https://github.com/Seagate/cortx) - Open Source Mass-Capacity Optimized Object Store.
 - [PouchDB](https://pouchdb.com/) - JavaScript Database that Syncs. ([Code](https://github.com/pouchdb/pouchdb))
+- [CryptDB](https://css.csail.mit.edu/cryptdb/) - Database system that can process SQL queries over encrypted data. ([Code](https://github.com/CryptDB/cryptdb))
 
 ## Tools
 
@@ -204,7 +205,7 @@
 - [Apache Druid vs. Time-Series Databases (2019)](https://imply.io/post/apache-druid-vs-time-series-databases) ([HN](https://news.ycombinator.com/item?id=22868286))
 - [Lopez: Breaking boundaries between programming languages and databases (2019)](https://tel.archives-ouvertes.fr/tel-02309327/document)
 - [Declarative Frameworks and Optimization Techniques for Developing Scalable Advanced Analytics over Databases and Data Streams (2019)](https://escholarship.org/content/qt9qb0c0zx/qt9qb0c0zx.pdf)
-- [Things I Wished More Developers Knew About Databases (2020)](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78) ([HN](https://news.ycombinator.com/item?id=22942278))
+- [Things I Wished More Developers Knew About Databases (2020)](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78) ([HN](https://news.ycombinator.com/item?id=22942278))
 - [toyDB](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project.
 - [Gallery of 200 database schema diagrams of open-source packages](https://drawsql.app/templates) ([HN](https://news.ycombinator.com/item?id=23006159))
 - [MySQL sharding at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora?share=1) ([HN](https://news.ycombinator.com/item?id=22987242))
@@ -252,7 +253,7 @@
 - [Database backup strategies (2019)](https://blog.kalbhor.xyz/post/database-backup-strategies/)
 - [Monarch: Google’s Planet-Scale In-Memory Time Series Database](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf) ([HN](https://news.ycombinator.com/item?id=24303422)) ([Notes](https://twitter.com/copyconstruct/status/1299949569057333249))
 - [The database I wish I had (2020)](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html) ([HN](https://news.ycombinator.com/item?id=24337244)) ([Lobsters](https://lobste.rs/s/m9vkg4/database_i_wish_i_had))
-- [Advanced Database Systems course by Andy Pavlo (2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
+- [Advanced Database Systems course by Andy Pavlo (2020)](https://15721.courses.cs.cmu.edu/spring2020/schedule.html) ([Talks](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O))
 - [sled simulation guide](https://sled.rs/simulation) - Contains basic information about deterministic testing of distributed, message-based, event-driven, or actor systems.
 - [Database of Databases](https://dbdb.io/) - Discover and learn about database management systems. ([Code](https://github.com/cmu-db/dbdb.io))
 - [DB-Engines](https://db-engines.com/en/) - Knowledge Base of Relational and NoSQL Database Management Systems.
@@ -292,7 +293,7 @@
 - [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics (2020)](http://cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
 - [clepsydra](https://github.com/graydon/clepsydra) - Implementation of a core protocol for a minimalist distributed database.
 - [A shared database is still an anti-pattern, no matter what the justification (2013)](https://www.ben-morris.com/a-shared-database-is-still-an-anti-pattern-no-matter-what-the-justification/) ([Tweet](https://twitter.com/ColinLeMahieu/status/1344293170159505408))
-- [Your legacy database is outgrowing itself (2021)](https://unstructed.tech/2021/01/11/your-legacy-database-is-outgrowing-itself/) ([HN](https://news.ycombinator.com/item?id=25730778))
+- [Your legacy database is outgrowing itself (2021)](https://ikonicscale.com/your-legacy-database-is-outgrowing-itself) ([HN](https://news.ycombinator.com/item?id=25730778))
 - [An unlikely database migration (2021)](https://tailscale.com/blog/an-unlikely-database-migration/) ([HN](https://news.ycombinator.com/item?id=25767128))
 - [Kalavar](https://kalavar.cf/) - Project attempting to bring a fast, efficient, secure, and asynchronous query model to the modern database system. ([GitHub](https://github.com/KalavarDB))
 - [But how, exactly, databases use mmap? (2021)](https://brunocalza.me/but-how-exactly-databases-use-mmap/) ([Lobsters](https://lobste.rs/s/9ukket/how_exactly_databases_use_mmap))
@@ -305,3 +306,5 @@
 - [DBCLI](https://www.dbcli.com/) - Commandline Database Clients with Autocompletion and Syntax Highlighting. ([HN](https://news.ycombinator.com/item?id=26182902))
 - [Evolving Schemaless into a Distributed SQL Database (2021)](https://eng.uber.com/schemaless-sql-database/)
 - [Turning the database inside out with Apache Samza by Martin Kleppmann (2014)](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+- [Database Reliability Engineering Book (2017)](https://www.oreilly.com/library/view/database-reliability-engineering/9781491925935/)
+- [Are graph databases worth using in 2020?](https://www.reddit.com/r/Database/comments/jlfugt/are_graph_databases_worth_using_in_2020/)
