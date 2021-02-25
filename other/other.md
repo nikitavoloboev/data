@@ -452,3 +452,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines)
 - [WikiLeaks](https://wikileaks.org/) - Publishes news leaks and classified media provided by anonymous sources.
 - [Open MPI](https://www.open-mpi.org/) - Open Source High Performance Computing. ([Code](https://github.com/open-mpi/ompi))
+- [Plain Text Protocols](https://blainsmith.com/articles/plain-text-protocols/) ([HN](https://news.ycombinator.com/item?id=26263085))

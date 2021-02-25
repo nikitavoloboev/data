@@ -112,7 +112,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [intermezzOS kernel](https://github.com/intermezzOS/kernel) - Hobby operating system, in Rust.
 - [The intermezzOS book](http://intermezzos.github.io/book/) ([Code](https://github.com/intermezzOS/book))
 - [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
-- [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
+- [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner. ([Code](https://github.com/tuhdo/os01))
 - [Introducing Mercury OS (2019)](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289)
 - [Nanos](https://github.com/nanovms/nanos) - New kernel designed to run one and only one application in a virtualized environment.
 - [BootOS](https://github.com/nanochess/bootOS) - Monolithic operating system in 512 bytes of x86 machine code. ([HN](https://news.ycombinator.com/item?id=20569438))

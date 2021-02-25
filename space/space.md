@@ -78,3 +78,4 @@
 - [Virgin Galactic](https://www.virgingalactic.com/) - American spaceflight company.
 - [Once we can see them, it’s too late (2021)](https://www.scottaaronson.com/blog/?p=5253) ([HN](https://news.ycombinator.com/item?id=25972111))
 - [Ask HN: What entry level telescope should I choose? (2021)](https://news.ycombinator.com/item?id=26231418)
+- [If Aliens Exist, Here’s How We’ll Find Them (2021)](https://nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them) ([HN](https://news.ycombinator.com/item?id=26262658))
