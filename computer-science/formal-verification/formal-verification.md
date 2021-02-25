@@ -56,3 +56,4 @@
 - [Program = Proof](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Gives a first introduction to the Curry-Howard correspondence between programs and proofs. ([Lobsters](https://lobste.rs/s/d4ixfd/program_proof))
 - [Concrete Semantics](http://concrete-semantics.org/) - Introduces semantics of programming languages through the medium of a proof assistant.
 - [Curry-Howard is a scam (2021)](https://blag.cedeela.fr/curry-howard-scam/) ([Lobsters](https://lobste.rs/s/kp72m4/curry_howard_is_scam))
+- [Computing with metavalues (2021)](https://fredrikj.net/blog/2021/02/computing-with-metavalues/)

@@ -238,6 +238,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Replies](https://replies.io/) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 - [Larder](https://larder.io/) - Bookmarking for developers. ([HN](https://news.ycombinator.com/item?id=23442165))
 - [Ready](https://ready.so/) - The calendar you need to meet.
+- [Literal](https://literal.io/) - Textual annotation management system. ([Code](https://github.com/literal-io/literal))
 - [Memberful](https://memberful.com/) - Sell memberships to your audience.
 - [Dona](https://www.dona.ai/) - A more humane to-do list.
 - [Clockwise](https://www.getclockwise.com/) - Smart calendar assistant that frees up your time so you can focus on what matters.

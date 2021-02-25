@@ -416,3 +416,4 @@
 - [Ask the Expert: Rust at Microsoft (2021)](https://www.youtube.com/watch?v=1uAsA1hm52I)
 - [Integrating Rust and C++ in Firefox (2021)](https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/)
 - [Rust for web development: 2 years later (2021)](https://kerkour.com/blog/rust-for-web-development-2-years-later/) ([HN](https://news.ycombinator.com/item?id=26253448))
+- [Rust Fuzzing Book](https://rust-fuzz.github.io/book/) - Guides and tutorials on how to fuzz Rust code. ([Code](https://github.com/rust-fuzz/book))
