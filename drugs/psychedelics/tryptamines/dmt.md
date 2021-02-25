@@ -71,3 +71,4 @@
 - [Alien Insect](http://www.buildingalienworlds.com/) - Building Alien Worlds. DMT, the brain, and the Structure of Reality.
 - [Your Brain on DMT: Other Dimensions & Therapeutic Use | Dr Andrew Gallimore (2020)](https://www.youtube.com/watch?v=El76tF3O8T8)
 - [Hamilton Morris describes the history of 5-MeO-DMT (2021)](https://www.youtube.com/watch?v=O_VYXcdTReQ)
+- [DMT: the spirit molecule with Rick Strassman (2021)](https://www.youtube.com/watch?v=Pr6AeGkQTA0)

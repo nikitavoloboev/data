@@ -96,4 +96,4 @@
 - [Objection to ORM Hatred (2019)](https://www.jakso.me/blog/objection-to-orm-hatred) ([HN](https://news.ycombinator.com/item?id=26076622))
 - [Lobsters: Why is SQL so successful? (2021)](https://lobste.rs/s/snflhf/why_is_sql_so_successful)
 - [How Materialize and other databases optimize SQL subqueries (2021)](https://scattered-thoughts.net/writing/materialize-decorrelation)
-- [Advanced SQL Questions From Amazon (2021)](https://www.youtube.com/watch?v=VYeevsVj4fU&feature=youtu.be)
+- [Advanced SQL Questions From Amazon (2021)](https://www.youtube.com/watch?v=VYeevsVj4fU)
