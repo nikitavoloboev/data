@@ -25,3 +25,5 @@
 - [Script of Scripts (SoS)](https://vatlab.github.io/sos-docs/) - Computational environment for the development and execution of scripts in multiple languages for daily computational research.
 - [Myxine](https://github.com/kwf/myxine) - Local web server that enables you to create interactive applications in your web browser from the comfort of your favorite programming language.
 - [Storyboard](https://github.com/lazerwalker/storyboard) - Narrative engine for interactive storytelling.
+- [curvenote/article](https://github.com/curvenote/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
+- [curvenote.dev](https://curvenote.dev/) - Interactive Scientific Writing.

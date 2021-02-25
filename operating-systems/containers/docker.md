@@ -103,3 +103,4 @@
 - [Docker Hub Tool](https://github.com/docker/hub-tool) - CLI tool for interacting with the Docker Hub.
 - [App Platform sample Docker application](https://github.com/digitalocean/sample-dockerfile)
 - [Dazzle](https://github.com/gitpod-io/dazzle) - Experimental Docker image builder which builds independent layers.
+- [Cleanup Docker (2021)](https://hanami.run/blog/posts/cleanup-docker/)

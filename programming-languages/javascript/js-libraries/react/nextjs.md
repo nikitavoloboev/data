@@ -31,6 +31,7 @@
 - [Dan Abramov's Blog in Next.js](https://github.com/condinoaljoseph/aljoseph.co) ([Tweet](https://twitter.com/rauchg/status/1361849656741793793))
 - [next-ignite](https://github.com/hipstersmoothie/next-ignite) - Flexible next.js based documentation website with content authoring in MDX.
 - [Next.js Incremental Static Regeneration with SWR](https://github.com/joe-bell/example-next-isr-with-swr) - Lightning fast static pages with ISR, instantly updated with SWR.
+- [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
 ## NextJS plugins
 

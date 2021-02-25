@@ -65,6 +65,7 @@
 - [Context](https://github.com/redstarssystems/context) - Library designed to manage system state.
 - [byte-streams](https://github.com/clj-commons/byte-streams) - Rosetta stone for all the byte representations Java has to offer.
 - [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure.
+- [frak](https://github.com/noprompt/frak) - Transform collections of strings into regular expressions.
 
 ## Links
 
