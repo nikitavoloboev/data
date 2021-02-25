@@ -37,4 +37,4 @@
 - [Zig Makes Go Cross Compilation Just Work (2021)](https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho) ([Lobsters](https://lobste.rs/s/4dejov/zig_makes_go_cross_compilation_just_work))
 - [Ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs. ([HN](https://news.ycombinator.com/item?id=26125063))
 - [Zig Docs](https://ziglang.org/documentation/master/)
-- [Zig Roadmap 2021](https://www.youtube.com/watch?v=pacsngNYXI0)
+- [Zig Roadmap 2021](https://www.youtube.com/watch?v=pacsngNYXI0) ([Lobsters](https://lobste.rs/s/xdyrgj/zig_roadmap_2021))

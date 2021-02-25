@@ -9,6 +9,10 @@
 - [h11](https://github.com/ducdetronquito/h11) - HTTP/1.1 parser for Zig.
 - [Routez](https://github.com/Vexu/routez) - HTTP server for Zig.
 
+## DB
+
+- [OkRedis](https://github.com/kristoff-it/zig-okredis) - Zero-allocation Client for Redis 6+.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)

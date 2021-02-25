@@ -59,3 +59,4 @@
 - [How software gets color wrong (2020)](https://bottosson.github.io/posts/colorwrong/)
 - [Random color generator for JavaScript](https://randomcolor.lllllllllllllllll.com/) ([Code](https://github.com/davidmerfield/randomColor))
 - [Practical Color Theory for People Who Code (2016)](http://tallys.github.io/color-theory/)
+- [Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency (2020)](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)

@@ -37,3 +37,4 @@
 - [Distilling Knowledge From Graph Convolutional Networks (2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.html) ([Code](https://github.com/ihollywhy/DistillGCN.PyTorch))
 - [GN-Transformer AST](https://github.com/chengjunyan1/GN-Transformer-AST) - Code for "GN-Transformer: Fusing AST and Source Code information in Graph Networks" paper.
 - [Graph theory, graph convolutional networks, knowledge graphs (2021)](https://albertazout.substack.com/p/gradient-ascent-10) ([HN](https://news.ycombinator.com/item?id=26058440))
+- [Theoretical Foundations of Graph Neural Networks (2021)](https://www.youtube.com/watch?v=uF53xsT7mjc)

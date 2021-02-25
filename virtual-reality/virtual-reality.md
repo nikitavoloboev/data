@@ -32,3 +32,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [OpenVR Advanced Settings Overlay](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) - Adds an overlay to the OpenVR dashboard that allows access to advanced settings and useful utilities.
 - [Oasis](https://theoasis.com/) - Be Who You Really Are.
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
+- [My Convoluted VRChat Google Meet Setup (2021)](https://christine.website/blog/convoluted-vrchat-gchat-setup-2021-02-24)
