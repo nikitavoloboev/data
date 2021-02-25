@@ -36,4 +36,4 @@
 - [Cgit, Nginx and Gitolite: A Personal Git Server (2021)](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/) ([HN](https://news.ycombinator.com/item?id=25856071))
 - [Rhit](https://github.com/Canop/rhit) - Nginx log analyzer.
 - [Why does one NGINX worker take all the load? (2017)](https://blog.cloudflare.com/the-sad-state-of-linux-socket-balancing/)
-- [Common Nginx misconfigurations that leave your web server open to attack (2020)](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
+- [Common Nginx misconfigurations that leave your web server open to attack (2020)](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/) ([HN](https://news.ycombinator.com/item?id=26259955))

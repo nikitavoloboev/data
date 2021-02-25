@@ -187,3 +187,4 @@
 - [Standalone C++](https://github.com/Bareflank/standalone_cxx) - Run C++ from anywhere.
 - [My tutorial and take on C++20 coroutines (2021)](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html) ([HN](https://news.ycombinator.com/item?id=26221690))
 - [C++ build systems: our transition from CMake to Meson (2021)](https://rosemanlabs.com/blog/build-system.html)
+- [A Case Against Blind Use of C++ Parallel Algorithms (2021)](https://www.accu.org/journals/overload/29/161/teodorescu/)
