@@ -29,3 +29,4 @@
 - [polkadot/api](https://github.com/polkadot-js/api) - Promise and RxJS APIs around Polkadot and any Substrate-based chain RPC calls.
 - [Parity Signer](https://github.com/paritytech/parity-signer) - Air-gapped crypto wallet. ([Web](https://www.parity.io/signer/))
 - [Cumulus](https://github.com/paritytech/cumulus) - Set of tools for writing Substrate-based Polkadot parachains.
+- [8 Features That Make Polkadot Worthy of Attention (2021)](https://medium.com/coinmonks/what-is-polkadot-8-features-that-make-this-blockchain-worthy-of-attention-608b7023cbba)

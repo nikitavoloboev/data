@@ -260,3 +260,4 @@
 - [Haskell for all: Folds are constructor substitution (2021)](https://www.haskellforall.com/2021/02/folds-are-constructor-substitution.html)
 - [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
 - [Reflections On Using Haskell For My Startup (2021)](https://alistairb.dev/reflections-on-haskell-for-startup/) ([HN](https://news.ycombinator.com/item?id=26176940)) ([Lobsters](https://lobste.rs/s/yiwg7l/reflections_on_using_haskell_for_my))
+- [Type inference for Haskell](http://jeremymikkola.com/posts/2019_01_01_type_inference_intro.html)

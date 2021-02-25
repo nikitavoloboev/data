@@ -738,6 +738,7 @@
 - [j4rs](https://github.com/astonbitecode/j4rs) - Java for Rust.
 - [autocfg](https://github.com/cuviper/autocfg) - Rust library for build scripts to automatically configure code based on compiler support.
 - [Figment](https://github.com/SergioBenitez/Figment) - Semi-hierarchical configuration library for Rust.
+- [Arbitrary](https://github.com/rust-fuzz/arbitrary) - Trait for generating structured data from arbitrary, unstructured input.
 
 ## Cargo Plugins
 

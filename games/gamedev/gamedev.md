@@ -144,3 +144,4 @@
 - [NetplayJS](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer games in JavaScript, no server hosting required. Powered by PeerJS and rollback netcode.
 - [Making Games on Your Own as an Engineer (2021)](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/) ([HN](https://news.ycombinator.com/item?id=26246049))
 - [Indie Game Development: Indie Archetypes](https://www.derekyu.com/makegames/archetypes.html)
+- [Egregoria](https://github.com/Uriopass/Egregoria) - Contemplative society simulation.

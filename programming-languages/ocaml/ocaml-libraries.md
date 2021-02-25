@@ -31,6 +31,7 @@
 ## CLI
 
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml. ([Web](https://erratique.ch/software/cmdliner)) ([Cmdliner cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet))
+- [Notty](https://github.com/pqwy/notty) - Declarative terminal graphics for OCaml.
 
 ## Other
 

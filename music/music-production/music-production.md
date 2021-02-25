@@ -62,6 +62,7 @@
 - [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the Web Audio API.
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software. ([Web](https://lmms.io/))
 - [Ardour](https://ardour.org/) - Digital audio workstation.
+- [orenolisp](https://github.com/illiichi/orenolisp) - Structural clojure editor for producing sound using Overtone.
 
 ## Inspiration
 

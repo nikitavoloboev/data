@@ -84,3 +84,4 @@
 - [Statistical Typing: A Runtime Type System for Data Science and Machine Learning (2020)](https://blog.pandera.ci/statistical%20typing/unit%20testing/2020/12/26/statistical-typing.html)
 - [Empirical methods Course by CMU](https://bvasiles.github.io/empirical-methods/) ([Code](https://github.com/bvasiles/empirical-methods))
 - [Gaussian Processes: from one to many outputs (2021)](https://invenia.github.io/blog/2021/02/19/OILMM-pt1/)
+- [Workshop on Agent-Based Modeling (2021)](https://www.aapelivuorinen.com/blog/2021/01/22/agent-based-modeling-workshop/)

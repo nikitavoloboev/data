@@ -39,3 +39,5 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Trulia](https://www.trulia.com/) - Real Estate Listings, Homes For Sale, Housing Data.
 - [Why Staying Home This Year Has Made Me Want Less Space (2020)](https://food52.com/blog/25735-downsizing-after-covid-personal-essay)
 - [Off-grid home with sensors (2014)](https://www.youtube.com/watch?v=VwH6B7aJYDU)
+- [Couchsurfing](https://www.couchsurfing.com/) - Meet and Stay with Locals All Over the World.
+- [Couchers.org](https://couchers.org/) - New online platform for couch-surfers. Non‑profit. Community‑focused. Well built. ([Code](https://github.com/Couchers-org/couchers))

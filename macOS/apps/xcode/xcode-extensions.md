@@ -10,3 +10,4 @@
 ## Links
 
 - [Awesome Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)
+- [Developing Xcode Extensions. Tips and tricks (2021)](https://blog.artemnovichkov.com/developing-xcode-extensions-tips-and-tricks)

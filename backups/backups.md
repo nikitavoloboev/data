@@ -23,6 +23,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Tarsnap](https://www.tarsnap.com/) - Online backups for the truly paranoid. ([HN](https://news.ycombinator.com/item?id=24535046))
 - [Bupstash](https://bupstash.io/) - Encrypted backups made easy. ([Code](https://github.com/andrewchambers/bupstash)) ([Introducing Bupstash](https://acha.ninja/blog/introducing_bupstash/)) ([Lobsters](https://lobste.rs/s/k5opww/introducing_bupstash))
 - [BlobBackup](https://blobbackup.com/) - Simple Backups to Any Storage.
+- [zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution. ([Docs](https://zrepl.github.io/))
 
 ## Cloud Storage
 
