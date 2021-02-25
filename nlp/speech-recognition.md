@@ -36,3 +36,4 @@
 - [ASR with PyTorch](https://github.com/jinserk/pytorch-asr) - Experimental code for speech recognition using PyTorch and Kaldi.
 - [YSDA Speech Processing Course](https://github.com/yandexdataschool/speech_course)
 - [Paper List for Speech Translation](https://github.com/dqqcasia/awesome-speech-translation)
+- [Deep Contextualized Acoustic Representations For Semi-Supervised Speech Recognition (2020)](https://arxiv.org/abs/1912.01679) ([Code](https://github.com/awslabs/speech-representations))

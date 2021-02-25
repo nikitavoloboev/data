@@ -160,3 +160,4 @@
 - [Streamlit Data Science and ML Apps in Python](https://github.com/Jcharis/Streamlit_DataScience_Apps)
 - [Storing and retrieving millions of ad impressions per second at Twitter (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/) - Introduction to data science in Python, for people with no programming experience. ([Code](https://github.com/AllenDowney/ElementsOfDataScience))
+- [Data Science on AWS](https://www.datascienceonaws.com/) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker. ([Code](https://github.com/data-science-on-aws/workshop))

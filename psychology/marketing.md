@@ -105,6 +105,7 @@
 - [Does Advertising Actually Work? (2020)](https://freakonomics.com/podcast/advertising-part-1/) ([Part 2](https://freakonomics.com/podcast/advertising-part-2/))
 - [Entreprenerd: Marketing for Programmers](https://www.jackkinsella.ie/books/entreprenerd/marketing_for_programmers) - Condensed Guide to Marketing Software.
 - [What's your top acquisition channel right now? (2021)](https://www.indiehackers.com/post/whats-your-top-acquisition-channel-right-now-1d022752f5)
+- [How Loom grew from 0-500K users, and beyond (2021)](https://twitter.com/_shahedk/status/1364964378332823552)
 
 ## Images
 

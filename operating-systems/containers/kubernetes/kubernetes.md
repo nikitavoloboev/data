@@ -338,3 +338,5 @@
 - [Kubernetes Internals](https://github.com/shubheksha/kubernetes-internals) - Collection of resources that discuss the inner workings of Kubernetes.
 - [Serverless Kubernetes (2021)](https://cto.ai/blog/announcing-cto-ai-kubernetes-paas/) ([HN](https://news.ycombinator.com/item?id=26170612))
 - [monokube](https://github.com/stevelacy/monokube) - Monorepo deployment manager for k8s.
+- [A Kubernetes User's Guide to HashiCorp Nomad (2021)](https://www.hashicorp.com/blog/a-kubernetes-user-s-guide-to-hashicorp-nomad)
+- [GKE Autopilot: an nodeless and elastic Kubernetes cluster mode (2021)](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot) ([HN](https://news.ycombinator.com/item?id=26252317))
