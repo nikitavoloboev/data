@@ -41,3 +41,4 @@
 - [db-connect](https://github.com/cloudflare/db-connect) - Connect your SQL database to Cloudflare Workers.
 - [cf-workers](https://github.com/kv-orm/cf-workers) - Cloudflare Workers KV datastore plugin for kv-orm.
 - [workers.sh](https://workers.sh/) - Featureful dashboard for managing Cloudflare Workers. ([Code](https://github.com/GregBrimble/workers.sh))
+- [Cloudflare Workers Router](https://github.com/tsndr/cloudflare-worker-router) - Super lightweight router with middleware support and zero dependencies for CloudFlare Workers.

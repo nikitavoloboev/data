@@ -33,3 +33,4 @@
 - [J one-page interpreter fragment (1992)](https://code.jsoftware.com/wiki/Essays/Incunabulum) ([HN](https://news.ycombinator.com/item?id=25902615))
 - [APL Problem Solving Competition](https://dyalogaplcompetition.com/)
 - [Elementary Functions (1966)](https://www.jsoftware.com/papers/Elementary_Functions.pdf) - Book that uses APL to illustrate mathematics.
+- [Algebra: An Algorithmic Treatment](https://www.jsoftware.com/books/pdf/algebra.pdf)

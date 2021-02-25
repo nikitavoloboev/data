@@ -147,3 +147,4 @@
 - [vscode-wasm](https://github.com/wasm-lsp/vscode-wasm) - Visual Studio Code client for the WebAssembly language server.
 - [Effect Handlers Proposal for WebAssembly](https://github.com/effect-handlers/wasm-effect-handlers)
 - [WebAssembly Monorepo](https://github.com/saschazar21/webassembly) - Monorepo for dependency-free WebAssembly projects. Supports browser, web worker and Node.js runtimes.
+- [A Comparison between WebAssembly and RISC-V (2020)](https://medium.com/@losfair/a-comparison-between-webassembly-and-risc-v-e8fb9d37e6cc)
