@@ -24,6 +24,7 @@
 - [ILua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter.
 - [Cell toolbar for JupyterLab](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
 - [xeus-octave](https://github.com/rapgenic/xeus-octave) - Native Octave kernel for jupyter with advanced visualization.
+- [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast Datagrid widget for the Jupyter Notebook and JupyterLab.
 
 ## Links
 

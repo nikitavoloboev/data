@@ -53,6 +53,7 @@
 - [Cynic](https://github.com/obmarg/cynic) - Bring your own types GraphQL client library for Rust. ([Docs](https://cynic-rs.dev/))
 - [Hyperdrive](https://github.com/dac-gmbh/hyperdrive) - Declarative HTTP request routing, guarding and decoding.
 - [tame-oidc](https://github.com/EmbarkStudios/tame-oidc) - Small OAuth crate that follows the sans-io approach.
+- [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust.
 
 ## WASM
 

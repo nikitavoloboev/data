@@ -64,3 +64,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Полное интервью Лаврова агентству РБК о Евросоюзе и США (2021)](https://www.youtube.com/watch?v=0otwCQ43WMY)
 - [Почему Путин боялся и ненавидел Немцова (2021)](https://www.youtube.com/watch?v=CVSLI9AyNIY)
 - [The Russian Revolution - OverSimplified](https://www.youtube.com/watch?v=Cqbleas1mmo)
+- [Russian War Songs Playlist](https://www.youtube.com/watch?v=GCElOmuofo8) ([Volume 2](https://www.youtube.com/watch?v=pY-xlRLEQS8))
+- [Russian Doomer Music](https://www.youtube.com/watch?v=wcaZcbain2s)
+- [True Russian Doomer (suicide edition)](https://www.youtube.com/watch?v=-otYSc8mF3I)
