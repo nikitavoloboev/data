@@ -63,3 +63,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Даниил Дубов Интервью (2021)](https://www.youtube.com/watch?v=iDLQyNKKbvw)
 - [Полное интервью Лаврова агентству РБК о Евросоюзе и США (2021)](https://www.youtube.com/watch?v=0otwCQ43WMY)
 - [Почему Путин боялся и ненавидел Немцова (2021)](https://www.youtube.com/watch?v=CVSLI9AyNIY)
+- [The Russian Revolution - OverSimplified](https://www.youtube.com/watch?v=Cqbleas1mmo)
