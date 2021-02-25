@@ -225,3 +225,4 @@
 - [Fuzzy Name Matching in Postgres (2021)](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)
 - [pgsql-ast-parser](https://github.com/oguimbal/pgsql-ast-parser) - Postgres SQL syntax parser.
 - [Postgres: Built-in full text search vs. trigram matching (2021)](https://www.aapelivuorinen.com/blog/2021/02/24/postgres-text-search/)
+- [Efficient Postgres Full Text Search in Django (2021)](https://pganalyze.com/blog/full-text-search-django-postgres)

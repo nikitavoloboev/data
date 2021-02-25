@@ -173,3 +173,4 @@
 - [Teardown of a quartz crystal oscillator and the tiny IC inside (2021)](http://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html) ([HN](https://news.ycombinator.com/item?id=26206132))
 - [GreaseBoss](https://www.greaseboss.io/) - Real-time system to manage industrial greasing. ([HN](https://news.ycombinator.com/item?id=26240581))
 - [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html) ([HN](https://news.ycombinator.com/item?id=26245563))
+- [Seminar in Computer Architecture - ETH Zürich (2021)](https://safari.ethz.ch/architecture_seminar/spring2021/doku.php) ([Talks](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_awYdjmWVIUegsbY7TPGW4))

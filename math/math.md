@@ -238,5 +238,5 @@
 - [Formalising mathematics course (2021)](http://wwwf.imperial.ac.uk/~buzzard/maths/teaching/21Spr/formalisation.html) ([Code](https://github.com/ImperialCollegeLondon/formalising-mathematics)) ([Intro Article](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/))
 - [You Could Have Invented Homology, Part 1: Topology (2020)](https://www.youtube.com/watch?v=pSjahcOnJvU)
 - [Art and Craft of Mathematical Problem Solving by Paul Zeitz (2010)](https://kheavan.files.wordpress.com/2010/06/paul-zeitz-author-the-art-and-craft-of-problem-solving-2edwiley20060471789011.pdf)
-- [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/) - Pretty printing calculator language. ([Code](https://github.com/mkhan45/CalcuLaTeX))
+- [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/) - Pretty printing calculator language. ([Code](https://github.com/mkhan45/CalcuLaTeX)) ([HN](https://news.ycombinator.com/item?id=26250809))
 - [Defining Visual Narratives for Mathematics Declaratively (2019)](https://plateau-workshop.org/assets/papers-2019/9.pdf)

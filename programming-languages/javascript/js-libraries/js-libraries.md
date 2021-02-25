@@ -474,6 +474,8 @@
 - [Alo](https://github.com/alojs/alo) - Full-fledged state management. ([Docs](http://www.alojs.com/index.html))
 - [Form-Data](https://github.com/form-data/form-data) - Library to create readable "multipart/form-data" streams. Can be used to submit forms and file uploads to other web applications.
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+- [gifenc](https://github.com/mattdesl/gifenc) - Fast and lightweight pure-JavaScript GIF encoder.
+- [tldts](https://github.com/remusao/tldts) - Blazing Fast URL Parsing.
 
 ## Links
 

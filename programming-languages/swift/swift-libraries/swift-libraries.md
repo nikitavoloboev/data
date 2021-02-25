@@ -625,6 +625,7 @@
 - [Parsley](https://github.com/loopwerk/Parsley) - Markdown parser for Swift, using Github Flavored Markdown and Metadata.
 - [Turf for Swift](https://github.com/mapbox/turf-swift) - Spatial analysis library written in Swift.
 - [SwiftRex](https://github.com/SwiftRex/SwiftRex) - Swift + Redux + (Combine|RxSwift|ReactiveSwift).
+- [Puppy](https://github.com/sushichop/Puppy) - Flexible logging library written in Swift.
 
 ## Other (not lib)
 

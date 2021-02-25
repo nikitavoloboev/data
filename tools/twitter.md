@@ -75,3 +75,4 @@
 - [Spoonbill](http://spoonbill.io/) - See profile changes from the people you follow on Twitter or other social networks.
 - [fllwrs](http://fllwrs.com/) - Keep track of who follows and unfollows you on twitter.
 - [React Static Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
+- [Quitting Twitter (2021)](https://blog.nindalf.com/posts/quitting-twitter/) ([HN](https://news.ycombinator.com/item?id=26267529))

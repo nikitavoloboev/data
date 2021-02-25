@@ -21,3 +21,4 @@
 - [TLA+ Community Modules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community.
 - [TLC](https://github.com/tlaplus/tlaplus) - Explicit state model checker for specifications written in TLA+.
 - [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
+- [TLA+ Action Properties (2021)](https://www.hillelwayne.com/post/action-properties/)

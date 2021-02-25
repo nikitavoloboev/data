@@ -6,6 +6,7 @@
 - [KCD Community Bot](https://github.com/kentcdodds/kcd-discord-bot) - Automating onboarding and other things.
 - [Red Discord Bot](https://github.com/Cog-Creators/Red-DiscordBot) - Fully modular bot – meaning all features and commands can be enabled/disabled to your liking, making it completely customizable.
 - [Glimbot](https://github.com/nisamson/glimbot) - Discord utility bot.
+- [Blitz Community Bot](https://github.com/blitz-js/discord-bot) - Utility bot built for the Blitz Community Discord Server.
 
 ## Libraries
 

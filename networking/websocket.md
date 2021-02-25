@@ -34,3 +34,5 @@
 - [Implementer's Guide to WebSockets](https://cookie.engineer/weblog/articles/implementers-guide-to-websockets.html)
 - [ChatCord App](https://github.com/bradtraversy/chatcord) - Real time chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI.
 - [Sarus](https://github.com/anephenix/sarus) - WebSocket JavaScript library. ([Web](https://sarus.anephenix.com/))
+- [The future of web software is HTML over WebSockets (2021)](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/) ([HN](https://news.ycombinator.com/item?id=26265999))
+- [wsServer](https://github.com/Theldus/wsServer) - Tiny WebSocket server library written in C.
