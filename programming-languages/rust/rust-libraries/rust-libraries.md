@@ -739,6 +739,8 @@
 - [autocfg](https://github.com/cuviper/autocfg) - Rust library for build scripts to automatically configure code based on compiler support.
 - [Figment](https://github.com/SergioBenitez/Figment) - Semi-hierarchical configuration library for Rust.
 - [Arbitrary](https://github.com/rust-fuzz/arbitrary) - Trait for generating structured data from arbitrary, unstructured input.
+- [RRT](https://github.com/openrr/rrt) - Rapidly-exploring Random Tree library in Rust.
+- [storage-poc](https://github.com/matthieu-m/storage-poc) - Exploration of using Storage instead of Allocator to parameterize collections in Rust.
 
 ## Cargo Plugins
 

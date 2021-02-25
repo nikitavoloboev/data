@@ -473,6 +473,7 @@
 - [Perfect Freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect freehand lines.
 - [Alo](https://github.com/alojs/alo) - Full-fledged state management. ([Docs](http://www.alojs.com/index.html))
 - [Form-Data](https://github.com/form-data/form-data) - Library to create readable "multipart/form-data" streams. Can be used to submit forms and file uploads to other web applications.
+- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 
 ## Links
 

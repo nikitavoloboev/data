@@ -197,3 +197,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Optimizing Video For Size And Quality (2021)](https://www.smashingmagazine.com/2021/02/optimizing-video-size-quality/)
 - [What Should I Teach in a Video Tutorial?](https://johnlindquist.com/what-should-i-teach-in-a-video-tutorial/)
 - [Milk Video](https://milk.video/) - Edit online event recordings quickly.
+- [NATS Streaming Server](https://github.com/nats-io/nats-streaming-server) - Extremely performant, lightweight reliable streaming platform built on NATS.

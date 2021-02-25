@@ -401,3 +401,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Museo](https://museo.app/) - Tool for finding images in the public domain from some of the best museums in the world. ([Code](https://github.com/chasemccoy/museo))
 - [Foundation](https://foundation.app/) - Creative playground for artists, curators and collectors to experience the new creative economy.
 - [Saatchi Art](https://www.saatchiart.com/) - Buy artwork online.
+- [A Guide to NFTs, and How They Are About to Revolutionize Pretty Much Everything (2021)](https://www.one37pm.com/grind/money/guide-to-nfts) ([HN](https://news.ycombinator.com/item?id=26259256))

@@ -15,3 +15,4 @@
 - [That's a lot of YAML](https://noyaml.com/) ([Lobsters](https://lobste.rs/s/6oxpe3/s_lot_yaml))
 - [Why broot is switching from TOML to Hjson for its configuration files (2020)](https://dystroy.org/blog/hjson-in-broot/) ([Lobsters](https://lobste.rs/s/dn91bz/why_broot_is_switching_from_toml_hjson_for))
 - [carvel-ytt](https://github.com/vmware-tanzu/carvel-ytt) - YAML templating tool that works on YAML structure instead of text. ([Web](https://carvel.dev/ytt/))
+- [Cumin](https://github.com/cympfh/cumin) - Structured, Typed and Mini-Programmable Configuration Language. ([Docs](https://cympfh.cc/cumin/))

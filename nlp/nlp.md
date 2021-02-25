@@ -257,3 +257,4 @@
 - [retext](https://github.com/retextjs/retext) - Natural language processor powered by plugins part of the unified collective.
 - [CLIP Playground](https://www.clipplayground.co/) - Try OpenAI's CLIP model in your browser.
 - [GPT-3 Demo](https://gpt3demo.com/) - GPT-3 Examples, Demos, Showcase, and NLP Use-cases.
+- [Big Sleep](https://github.com/lucidrains/big-sleep) - Simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN.
