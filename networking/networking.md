@@ -206,3 +206,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Shadowsocks](https://shadowsocks.org/en/index.html) - Secure socks5 proxy. ([Code](https://github.com/shadowsocks/shadowsocks-rust)) ([GitHub](https://github.com/shadowsocks))
 - [Open, Programmable, and Virtualized 5G Networks](https://open5g.info/)
 - [The Programmable Data Plane Reading List](https://programmabledataplane.review/)
+- [Ridiculous Router Resets (2021)](https://cucurbit.dev/posts/ridiculous-router-resets/)

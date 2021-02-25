@@ -55,3 +55,4 @@
 - [racket-http-easy](https://github.com/Bogdanp/racket-http-easy) - High-level HTTP client for Racket.
 - [Racket v8.0 (2021)](https://blog.racket-lang.org/2021/02/racket-v8-0.html) ([HN](https://news.ycombinator.com/item?id=26129480))
 - [Picturing Programs: A Racket Book (2010)](http://picturingprograms.com/)
+- [racket-langserver](https://github.com/jeapostrophe/racket-langserver) - Language Server Protocol implementation for Racket.

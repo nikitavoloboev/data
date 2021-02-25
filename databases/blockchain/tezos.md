@@ -30,3 +30,5 @@
 - [Kolibri, an algorithmic stablecoin built on Tezos (2021)](https://kolibri-xtz.medium.com/hello-kolibri-4c6d76046a8b)
 - [StableTez](https://stabletez.com/) - Tezos Stablecoins.
 - [Tezos Finance](https://tezos.finance/) - On-chain Savings & Loan.
+- [TLA+ model of the Tezos p2p layer](https://github.com/simplestaking/model-p2p)
+- [SimpleStaking](https://simplestaking.com/) - Safe way to store & stake Tezos. Desktop & Web Wallet with Trezor support. ([GitHub](https://github.com/simplestaking))
