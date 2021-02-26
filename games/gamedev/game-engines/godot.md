@@ -23,3 +23,4 @@
 - [Godot Improvement Proposals](https://github.com/godotengine/godot-proposals)
 - [Godot Shaders](https://godotshaders.com/) - View and Share Shaders for Godot. ([HN](https://news.ycombinator.com/item?id=26025742))
 - [Goost](https://github.com/goostengine/goost) - General-purpose, extensible and customizable C++ extension for Godot Engine.
+- [Why isn't Godot an ECS-based game engine? (2021)](https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine)
