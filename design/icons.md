@@ -5,6 +5,7 @@
 - [App Store Icon (macOS Big Sur)](https://dribbble.com/shots/12238938-The-App-Store-Icon-macOS-Big-Sur)
 - [Bondi Icons](https://bondi-icons.com/) - Icons for your Mac.
 - [Susan Kare Icons](http://kareprints.com/)
+- [Slack icon](https://twitter.com/thatbenlifetho/status/1365390262386663424?s=20)
 
 ## Icon designers
 

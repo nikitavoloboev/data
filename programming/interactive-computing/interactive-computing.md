@@ -27,3 +27,4 @@
 - [Storyboard](https://github.com/lazerwalker/storyboard) - Narrative engine for interactive storytelling.
 - [curvenote/article](https://github.com/curvenote/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 - [curvenote.dev](https://curvenote.dev/) - Interactive Scientific Writing.
+- [Playbit](https://playb.it/) - Computing environment which encourages playful learning, building & sharing of software.

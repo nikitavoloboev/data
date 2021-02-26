@@ -53,3 +53,4 @@
 - [JSONLint](https://jsonlint.com/) - JSON Validator.
 - [JSON With Commas and Comments (2021)](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) ([HN](https://news.ycombinator.com/item?id=26224255))
 - [HuJSON](https://github.com/tailscale/hujson) - JSON for Humans (comments and trailing commas).
+- [An Exploration of JSON Interoperability Vulnerabilities (2021)](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
