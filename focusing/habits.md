@@ -4,33 +4,25 @@ I use [Streaks](https://streaksapp.com) iOS app to ensure I complete & learn new
 
 ![](https://i.imgur.com/CwOS6jr.png)
 
-## Previous habits
-
-I took a break from using Streaks for a while but before the break, my habits looked like:
-
-![](https://i.imgur.com/SvGbgFs.jpg)
-
-The 6 habits were an essential subset of more general [rules](rules.md).
+The 6 habits are an essential subset of life [rules](rules.md) I try to follow. I get a notification every day at 21:00 on my phone to complete the 6 habits.
 
 ## Habits described
 
-`Sleep 8 hours` is autofilled through my health data.
+`Cardio / Weights` autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app), [Streaks Workout](https://streaksworkout.com), [Fitbod](https://www.fitbod.me) or [Down Dog](https://www.downdogapp.com) apps.
 
-`Cardio / Weights` is autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app) & [Streaks Workout](https://streaksworkout.com) apps. It also includes yoga (tracked with [Down Dog](https://www.downdogapp.com)).
+`Activity rings` autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is ~ 700 calories with fixed 30 min workout & 12H standing goals.
 
-`Activity rings` is autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals.
+`Healthy | Tea` marked as done when I drank only water & tea. Limited coffee if any (get focus crushes). And ate only/primarily [nutritious whole foods (nuts/veggies/fruits)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md).
 
-`Nutritious Plants | Water` is marked as done when I drank only water/tea/coffee (no added sugar) & ate only [nutritious whole foods (nuts/veggies/fruits)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md).
+`Improve | Focus` marked as done when I was not distracted by anything during the day (no analytics, wasting time). I worked on my goals. I was calm, mindful and happy.
 
-`Impact | Simplify | Calm` is marked as done when I felt my work was impactful towards my goals. All of my values and rules were held. I further simplified things and cut out noise from my life to focus on creating and capturing value. It also means I was calm and mindful throughout the day. No anxieties and no inhibitions.
+`Love | Create | Share` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held weld. I showed love to people I care about. I was nice. I made new things and shared it.
 
-`Focus | Make/Learn` is marked as done when I didn't get distracted from tasks I assigned myself to do & worked on [one task at a time](../research/solving-problems.md). I spent the time making things (ideas/art/..) & learning.
+`Habits | Plan | Write` marked as done when all the 6 habits here were complete. I made a plan for tomorrow and wrote things in my journal or somewhere. Writing helps me clear up my mind and clean up life and my thinking.
 
-## Building new habits (rules)
+## New habits
 
-I try learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/goals.md) I want to go. Everything is built around refined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
-
-Streaks is a nice app that lets me keep track of the 6 main things I want to keep track in life. I get a notification in the evening where I review the habits.
+I try learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/goals.md) I want to go. Everything is built around well defined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
 
 ## Notes
 
