@@ -1,10 +1,10 @@
 # Habits
 
-I use [Streaks](https://streaksapp.com) iOS app to ensure I complete & learn new habits.
+I use [Streaks](https://streaksapp.com) iOS app to ensure I complete my 6 daily habits are an essential subset of life [rules](rules.md) I try to follow to live a happy life.
 
 ![](https://i.imgur.com/zs1wiPN.png)
 
-The 6 habits are an essential subset of life [rules](rules.md) I try to follow. I get a notification every day at 21:00 on my phone to complete the 6 habits.
+I get a notification every day at 21:00 on my phone to complete the habits.
 
 ## Habits described
 
