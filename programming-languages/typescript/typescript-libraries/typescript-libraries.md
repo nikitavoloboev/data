@@ -102,6 +102,7 @@
 - [ts-nameof](https://github.com/dsherret/ts-nameof) - nameof in TypeScript.
 - [prex](https://github.com/rbuckton/prex) - Asynchronous coordination for JavaScript and TypeScript.
 - [Purifree](https://github.com/nythrox/purifree) - Pointfree type-safe functional programming library for TypeScript - with do notation, HKTs, generic lifts and more.
+- [valita](https://github.com/badrap/valita) - Typesafe validation & parsing library for TypeScript.
 
 ## Links
 

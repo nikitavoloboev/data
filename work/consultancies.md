@@ -172,6 +172,7 @@
 - [ustwo](https://www.ustwo.com/) - Digital product studio.
 - [Provectus](https://provectus.com/) - AI-First Consultancy and Solutions Provider.
 - [8th Light](https://8thlight.com/)
+- [Trail of Bits](https://www.trailofbits.com/) ([GitHub](https://github.com/trailofbits))
 
 ## Links
 
