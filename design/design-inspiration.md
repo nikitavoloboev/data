@@ -259,6 +259,7 @@ Here are few more things I liked, design wise.
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Monica Powell](https://www.aboutmonica.com/)
 - [Samurai](https://simurai.com/)
+- [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)
 - [Swiftjective-C](https://www.swiftjectivec.com/) ([Code](https://github.com/DreamingInBinary/Swiftjective-C))
 - [P—DPA](http://p-dpa.net/)

@@ -92,6 +92,7 @@
 - [Faster Full Stack Framework](https://github.com/midwayjs/hooks) - Isomorphic | Zero Api | Using "React Hooks" to develop the back-end.
 - [react-popper-tooltip](https://github.com/mohsinulhaq/react-popper-tooltip) - React hook to effortlessly build smart tooltips.
 - [use-clipboard-copy](https://github.com/wsmd/use-clipboard-copy) - Lightweight copy to clipboard hook for React.
+- [useRealTime](https://dlbn.co/articles/userealtime-a-react-hook-for-dealing-with-real-time-applications) - React hook for dealing with real-time applications.
 
 ## Notes
 

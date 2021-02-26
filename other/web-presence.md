@@ -67,7 +67,6 @@ These are my personal profiles on various websites sorted by categories.
 ## Photos
 
 - [Instagram](https://www.instagram.com/nikitavoloboev/)
-- [Exposure](https://nikitavoloboev.exposure.co/)
 - [VSCO](http://vsco.co/nikitavoloboev)
 - [Pretty Ways Instagram](https://www.instagram.com/prettiways/)
 - [Imgur](https://nikivi.imgur.com/)
@@ -107,7 +106,6 @@ These are my personal profiles on various websites sorted by categories.
 - [DevianArt](https://nikivi.deviantart.com/)
 - [Gfycat](https://gfycat.com/@nikivi)
 - [Gumroad](https://gumroad.com/nikitavoloboev)
-- [Leanpub](https://leanpub.com/u/nikitavoloboev)
 - [Things Network](https://www.thethingsnetwork.org/u/nikitavoloboev)
 - [TikTok](https://www.tiktok.com/@nikitavoloboev)
 - [KinoPoisk](https://www.kinopoisk.ru/user/6272121/)
@@ -116,7 +114,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Slant](https://www.slant.co/users/nikivi)
 - [TripAdvisor](https://www.tripadvisor.co.uk/Profile/nikitavoloboev)
 - [Nomad List](https://nomadlist.com/@nikitavoloboev)
-- [Procreate](https://procreate.art/nikivi)
 - [Hackaday](https://hackaday.io/nikitavoloboev)
 - [Gravatar](https://en.gravatar.com/nikitavoloboev)
 - [Pocket](https://getpocket.com/users/nikivi)
