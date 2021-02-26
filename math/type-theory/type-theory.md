@@ -119,3 +119,4 @@
 - [Strongly-typed System F in Haskell](https://github.com/sweirich/challenge)
 - [Native Type Theory (2021)](https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html) ([Lobsters](https://lobste.rs/s/ornuz9/native_type_theory)) ([HN](https://news.ycombinator.com/item?id=26203257))
 - [Simple-sub Algorithm for Algebraic Subtyping](https://github.com/LPTK/simple-sub) ([Demo](https://lptk.github.io/simple-sub/))
+- ["The Trouble With Types" by Martin Odersky (2013)](https://www.youtube.com/watch?v=0lXUBVipXa8)
