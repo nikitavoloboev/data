@@ -16,6 +16,7 @@
 - [Pugl](https://github.com/lv2/pugl) - Minimal portable API for embeddable GUIs.
 - [PlutoVG](https://github.com/sammycage/plutovg) - Standalone 2D vector graphics library in C.
 - [VUI](https://github.com/heroseh/vui) - Immediate UI library for C, designed to be easy to use & customizable.
+- [microui](https://github.com/rxi/microui) - Tiny immediate-mode UI library.
 
 ## Graphics
 

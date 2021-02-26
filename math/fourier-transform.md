@@ -20,3 +20,4 @@
 - [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? (2020)](https://www.youtube.com/watch?v=h7apO7q16V0)
 - [xrft](https://github.com/xgcm/xrft) - Fourier transforms on xarray data structures.
 - [Fourier Analysis Course Notes](https://github.com/NanoScaleDesign/FourierAnalysis)
+- [What is a Discrete Fourier Transform? (2020)](https://www.youtube.com/watch?v=g8RkArhtCc4)

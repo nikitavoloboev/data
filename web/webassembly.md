@@ -148,3 +148,4 @@
 - [Effect Handlers Proposal for WebAssembly](https://github.com/effect-handlers/wasm-effect-handlers)
 - [WebAssembly Monorepo](https://github.com/saschazar21/webassembly) - Monorepo for dependency-free WebAssembly projects. Supports browser, web worker and Node.js runtimes.
 - [A Comparison between WebAssembly and RISC-V (2020)](https://medium.com/@losfair/a-comparison-between-webassembly-and-risc-v-e8fb9d37e6cc)
+- [LAM: an actor-model VM for WebAssembly and native (2021)](https://notamonadtutorial.com/lam-an-actor-model-vm-for-webassembly-and-native-d7939362e1b8)

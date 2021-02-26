@@ -22,3 +22,4 @@
 - [Qt and CMake: The Past, the Present and the Future (2021)](https://www.qt.io/blog/qt-and-cmake-the-past-the-present-and-the-future)
 - [Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python shim around all Qt bindings.
 - [qt-downloader](https://github.com/engnr/qt-downloader) - CLI to download Qt on headless systems.
+- [QT / QML Signals and Slots with C++ (2021)](https://raymii.org/s/snippets/Cpp_QT_QML_Signals_and_Slots.html)

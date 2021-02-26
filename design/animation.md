@@ -34,3 +34,4 @@
 - [Pixar in a Box: the art of storytelling](https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-box) ([HN](https://news.ycombinator.com/item?id=26163982))
 - [Looom Tools](https://github.com/mattdesl/looom-tools) - Suite of JavaScript-based tools for parsing and rendering Looom animation software files.
 - [30 Minutes of Relaxing Visuals from Studio Ghibli](https://www.youtube.com/watch?v=z9Ug-3qhrwY)
+- [Transforming animation with machine learning (2021)](https://medium.com/embarkstudios/transforming-animation-with-machine-learning-27ac694590c)
