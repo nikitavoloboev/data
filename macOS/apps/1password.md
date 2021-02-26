@@ -11,3 +11,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Terraform provider for 1Password](https://github.com/anasinnyk/terraform-provider-onepassword)
 - [Lobsters: What do you use for password management? (2021)](https://lobste.rs/s/emqfkc/what_do_you_use_for_password_management)
 - [1Password GitHub Action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
+- [go-password](https://github.com/sethvargo/go-password) - Go library for generating high-entropy random passwords similar to 1Password.
