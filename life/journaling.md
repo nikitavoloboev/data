@@ -12,7 +12,7 @@ If I ever feel down, I can just start writing and just release all these negativ
 
 ## Day One Journals
 
-![](https://i.imgur.com/ImQFPrY.png)
+![](https://i.imgur.com/vxT4AqW.png)
 
 ## Links
 
