@@ -67,3 +67,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Russian War Songs Playlist](https://www.youtube.com/watch?v=GCElOmuofo8) ([Volume 2](https://www.youtube.com/watch?v=pY-xlRLEQS8))
 - [Russian Doomer Music](https://www.youtube.com/watch?v=wcaZcbain2s)
 - [True Russian Doomer (suicide edition)](https://www.youtube.com/watch?v=-otYSc8mF3I)
+- [The Mark Of Cain](https://www.youtube.com/watch?v=c_NS1ctv0_E) - Explores the history, artistry and meaning behind prisoners' tattoos in Russia.

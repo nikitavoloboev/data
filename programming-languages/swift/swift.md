@@ -187,3 +187,4 @@
 - [Swift Secrets Book (2021)](https://books.apple.com/us/book/id1551005489) - The Secret life of Swift at runtime.
 - [Swift Arcade - YouTube](https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg/videos) ([Code for Demos](https://github.com/jrasmusson/swift-arcade))
 - [Awesome Swift Function Builders](https://github.com/carson-katri/awesome-function-builders)
+- [How and when to use Lazy Collections in Swift (2021)](https://www.avanderlee.com/swift/lazy-collections-arrays/)

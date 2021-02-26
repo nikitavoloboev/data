@@ -26,3 +26,4 @@
 - [Complete Course of Raku programming language](https://course.raku.org/) ([Code](https://github.com/ash/raku-course))
 - [The Trouble with Reference Counting (2021)](https://www.perl.com/article/the-trouble-with-reference-counting/)
 - [The Course of Raku](https://www.i-programmer.info/news/222-perl/14364-the-course-of-raku.html)
+- [Roles as Algebraic Data Types in Raku (2020)](https://wimvanderbauwhede.github.io/articles/roles-as-adts-in-raku/)
