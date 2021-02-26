@@ -19,7 +19,7 @@
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new experience. Build, enforce & [learn existing rules](habits.md).
-- [Take it easy](../life/happiness.md). Be playful. You only live now.
+- [Take it easy](../life/happiness.md). Be playful. You only live now. Create nice memories.
 
 ## Health
 

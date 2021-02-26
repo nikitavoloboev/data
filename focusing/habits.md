@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to ensure I complete & learn new habits.
 
-![](https://i.imgur.com/P5T8KJr.png)
+![](https://i.imgur.com/CwOS6jr.png)
 
 ## Previous habits
 
