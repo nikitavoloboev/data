@@ -81,3 +81,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Avera](https://avera.area120.com/) - Financial computation for the future.
 - [Matt Levine: Money Stuff and Life Stuff Interview (2019)](https://www.youtube.com/watch?v=Knni2SjQvUs)
 - [Finance Database](https://github.com/JerBouma/FinanceDatabase) - Database of 180.000+ symbols containing Equities, ETFs, Funds, Indices, Futures, Options, Currencies, Cryptocurrencies and Money Markets.
+- [Every thought about personal finance I've ever had, as concisely as possible (2021)](https://blog.aadilali.com/posts/personal-finance.html) ([HN](https://news.ycombinator.com/item?id=26281108))
