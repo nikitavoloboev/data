@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to ensure I complete & learn new habits.
 
-![](https://i.imgur.com/CwOS6jr.png)
+![](https://i.imgur.com/zs1wiPN.png)
 
 The 6 habits are an essential subset of life [rules](rules.md) I try to follow. I get a notification every day at 21:00 on my phone to complete the 6 habits.
 
