@@ -339,7 +339,7 @@
 - ["Naming Things" is a Poor Name for Naming Things (2021)](https://buttondown.email/hillelwayne/archive/naming-things-is-a-poor-name-for-naming-things/) ([Lobsters](https://lobste.rs/s/lpjklr/naming_things_is_poor_name_for_naming))
 - [The Tech Debt Playbook (2021)](https://cgroom.medium.com/the-tech-debt-playbook-4e0b2e4c034a)
 - [Approaches to Exploring Codebases](https://bypaulshen.com/posts/exploring-codebases)
-- [Some Software Engineering Maxims](https://www.netmeister.org/blog/software-engineering-laws.html) ([Lobsters](https://lobste.rs/s/lnwqrj/some_software_engineering_maxims))
+- [Software Engineering Laws Everybody Loves to Ignore (2021)](https://www.netmeister.org/blog/software-engineering-laws.html) ([Lobsters](https://lobste.rs/s/lnwqrj/some_software_engineering_maxims)) ([HN](https://news.ycombinator.com/item?id=26278241))
 - [Finite State Machines (2021)](https://adlrocha.substack.com/p/adlrocha-finite-state-machines) ([HN](https://news.ycombinator.com/item?id=26212686))
 - [Linking - How programs are combined](http://csapp.cs.cmu.edu/2e/ch7-preview.pdf)
 - [Why is it so hard to see code from 5 minutes ago? (2021)](https://web.eecs.utk.edu/~azh/blog/yestercode.html) ([HN](https://news.ycombinator.com/item?id=26187881)) ([Lobsters](https://lobste.rs/s/1339vj/why_is_it_so_hard_see_code_from_5_minutes_ago))
