@@ -120,3 +120,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin and Pollution – The Definitive Answer (2021)](https://simon.medium.com/bitcoin-and-pollution-the-definitive-answer-a010b0826f2a) ([HN](https://news.ycombinator.com/item?id=26099530))
 - [End Bitcoin FUD](https://www.bitcoinwillnotboiltheocean.com/) ([Tweet](https://twitter.com/Melt_Dem/status/1361315412445720578?s=20))
 - [Mining Bitcoin with pencil and paper: 0.67 hashes per day (2014)](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html) ([HN](https://news.ycombinator.com/item?id=26146026))
+- [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning) - Bitcoin Lightning library written in Rust.

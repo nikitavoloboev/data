@@ -259,3 +259,4 @@
 - [GPT-3 Demo](https://gpt3demo.com/) - GPT-3 Examples, Demos, Showcase, and NLP Use-cases.
 - [Big Sleep](https://github.com/lucidrains/big-sleep) - Simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN.
 - [Beyond the Imitation Game Benchmark (BIG-bench)](https://github.com/google/BIG-bench) - Collaborative benchmark intended to probe large language models, and extrapolate their future capabilities.
+- [AutoNLP](https://huggingface.co/autonlp) - Automatic way to train, evaluate and deploy state-of-the-art NLP models for different tasks.

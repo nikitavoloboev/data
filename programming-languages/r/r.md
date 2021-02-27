@@ -52,3 +52,4 @@
 - [pod](https://github.com/klmr/pod) - Write Reusable, Composable and Modular R Code.
 - [ggcharts](https://github.com/thomas-neitmann/ggcharts) - Get You to Your Desired Plot Faster.
 - [tweenr](https://github.com/thomasp85/tweenr) - Package for interpolating data, mainly for animations.
+- [SDS 375: Data Visualization in R](https://wilkelab.org/SDS375/syllabus.html) ([Code](https://github.com/wilkelab/SDS375))

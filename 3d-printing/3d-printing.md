@@ -19,3 +19,4 @@
 - [OctoPrint](https://octoprint.org/) - Snappy web interface for your 3D printer. ([Code](https://github.com/OctoPrint/OctoPrint))
 - [Multi-metal 4D printing with a desktop electrochemical 3D printer (2019)](https://www.nature.com/articles/s41598-019-40774-5)
 - [printinator](https://github.com/jessfraz/printinator) - macOS menu bar for 3D printers.
+- [Zine Machine](https://hibred.pmvabf.org/zine-machine) - Compact 3D-printed block printing press. ([HN](https://news.ycombinator.com/item?id=26270251))

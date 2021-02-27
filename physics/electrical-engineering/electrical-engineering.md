@@ -53,3 +53,4 @@
 - [How to design a motherboard for your electronics project (2021)](https://www.staycaffeinated.com/2021/02/21/how-to-design-a-motherboard-for-your-project-part-1) ([HN](https://news.ycombinator.com/item?id=26215270))
 - [NPTEL Basic Electronics - Prof T.S.Natarajan](https://www.youtube.com/playlist?list=PL6A5175DB9EF79D22)
 - [Electrical Engineering Reddit Wiki](https://www.reddit.com/r/ElectricalEngineering/wiki/index)
+- [We don’t understand what electricity is (2021)](https://www.ribbonfarm.com/2021/02/25/heres-why-we-dont-understand-what-electricity-is/) ([HN](https://news.ycombinator.com/item?id=26270920))

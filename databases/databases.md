@@ -308,3 +308,4 @@
 - [Turning the database inside out with Apache Samza by Martin Kleppmann (2014)](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [Database Reliability Engineering Book (2017)](https://www.oreilly.com/library/view/database-reliability-engineering/9781491925935/)
 - [Are graph databases worth using in 2020?](https://www.reddit.com/r/Database/comments/jlfugt/are_graph_databases_worth_using_in_2020/)
+- [Grouparoo](https://www.grouparoo.com/) - Open Source Data Synchronization Framework. ([Code](https://github.com/grouparoo/grouparoo)) ([HN](https://news.ycombinator.com/item?id=26276917))

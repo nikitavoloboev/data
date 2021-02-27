@@ -45,3 +45,4 @@
 - [Asahi GPU](https://github.com/AsahiLinux/gpu) - Research for an open source graphics stack fo Apple M1.
 - [Understanding GPU caches (2021)](https://rastergrid.com/blog/gpu-tech/2021/01/understanding-gpu-caches/)
 - [Security of the Intel Graphics Stack (2021)](https://igor-blue.github.io/2021/02/10/graphics-part1.html)
+- [LambdaCube 3D](https://github.com/lambdacube3d/lambdacube-compiler) - Haskell-like purely functional domain specific language for programming the GPU. ([Web](http://lambdacube3d.com/))

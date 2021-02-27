@@ -97,3 +97,4 @@
 - [Lobsters: Why is SQL so successful? (2021)](https://lobste.rs/s/snflhf/why_is_sql_so_successful)
 - [How Materialize and other databases optimize SQL subqueries (2021)](https://scattered-thoughts.net/writing/materialize-decorrelation)
 - [Advanced SQL Questions From Amazon (2021)](https://www.youtube.com/watch?v=VYeevsVj4fU)
+- [Streaming SQL: What is it, why is it useful? (2021)](https://materialize.com/streaming-sql-intro/)

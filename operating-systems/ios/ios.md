@@ -292,3 +292,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [ExampleOfiOSLiDAR](https://github.com/TokyoYoshida/ExampleOfiOSLiDAR) - Sample code using the Lidar sensor on iOS device.
 - [SimulatorKit](https://github.com/vmanot/SimulatorKit) - Programmatic access to the Simulator app.
 - [Grand Central Dispatch in a Nutshell (2021)](https://www.youtube.com/watch?v=DqNoSlzzDVE)
+- [How Uber Deals with Large iOS App Size (2021)](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/) ([HN](https://news.ycombinator.com/item?id=26277501))

@@ -48,3 +48,4 @@
 - [WebGL Signed Distance Function Mesher](https://github.com/tdhooper/glsl-marching-cubes) - Extract an STL from a glsl distance function.
 - [ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - 3D engine for the Web. Using WebGL.
 - [Rabbit Hole](https://github.com/vanruesc/rabbit-hole) - Volumetric terrain engine for WebGL.
+- [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.

@@ -233,3 +233,5 @@
 - [Mobile Computer Vision @ Facebook](https://github.com/facebookresearch/mobile-vision)
 - [Opening the black box of vision AI algorithms (2021)](https://medium.com/hasty-ai/opening-the-black-box-of-vision-ai-algorithms-466fc3d4bf78)
 - [CompreFace](https://github.com/exadel-inc/CompreFace) - Free face recognition solution that can be easily integrated into any IT system without prior machine learning skills.
+- [IBRNet: Learning Multi-View Image-Based Rendering (2021)](https://ibrnet.github.io/)
+- [From Coarse to Fine: Robust Hierarchical Localization at Large Scale (2019)](https://arxiv.org/abs/1812.03506) ([Code](https://github.com/ethz-asl/hfnet))

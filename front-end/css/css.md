@@ -267,3 +267,4 @@
 - [minireset.css](https://github.com/jgthms/minireset.css) - Tiny modern CSS reset. ([Web](https://jgthms.com/minireset.css/))
 - [Getting Deep into CSS Shadows](https://css-tricks.com/getting-deep-into-shadows/)
 - [The Beauty Of Tiny Enhancements In CSS (2021)](https://ishadeed.com/article/tiny-enhancements-in-css/)
+- [An interactive guide to CSS transitions (2021)](https://www.joshwcomeau.com/animation/css-transitions/) ([HN](https://news.ycombinator.com/item?id=26274516))

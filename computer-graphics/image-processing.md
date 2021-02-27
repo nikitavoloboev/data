@@ -89,3 +89,4 @@
 - [Fractal Image Compression (2018)](https://pvigier.github.io/2018/05/14/fractal-image-compression.html)
 - [The Magic Kernel Sharp – image resizing algorithm](http://www.johncostella.com/magic/)
 - [Sparkles](https://github.com/varld/sparkles) - Easily extract metadata and a blurhash from images.
+- [‘Deep Nostalgia’ can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190) ([HN](https://news.ycombinator.com/item?id=26279372))

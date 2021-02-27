@@ -81,3 +81,5 @@
 - [Fritzchens Fritz's Albums](https://www.flickr.com/photos/130561288@N04/albums) - Gorgeous high resolution die shots of (mostly) modern chips.
 - [Lobsters: How much are non x86/arm platforms used? (2021)](https://lobste.rs/s/79plp4/how_much_are_non_x86_arm_platforms_used)
 - [MIPS Emulator written in Go](https://github.com/0n1shi/mipsemu)
+- [The CPU Shack](http://www.cpushack.com/) - History of Microprocessors & CPU Techo.
+- [The 486 CPU Era – The Birth of Overclocking (2021)](http://www.cpushack.com/2021/02/21/the-486-cpu-era-the-birth-of-overclocking-part-1/)

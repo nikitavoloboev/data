@@ -418,3 +418,4 @@
 - [Rust for web development: 2 years later (2021)](https://kerkour.com/blog/rust-for-web-development-2-years-later/) ([HN](https://news.ycombinator.com/item?id=26253448))
 - [Rust Fuzzing Book](https://rust-fuzz.github.io/book/) - Guides and tutorials on how to fuzz Rust code. ([Code](https://github.com/rust-fuzz/book))
 - [Macros in Rust: A tutorial with examples (2021)](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
+- [Rust const generics MVP hits beta (2021)](https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta.html) ([HN](https://news.ycombinator.com/item?id=26276449))

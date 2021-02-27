@@ -208,3 +208,4 @@
 - [Awesome VAEs](https://github.com/matthewvowels1/Awesome-VAEs) - Curated list of awesome work on VAEs, disentanglement, representation learning, and generative models.
 - [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting (2020)](https://arxiv.org/abs/2012.07436) ([Code](https://github.com/zhouhaoyi/Informer2020))
 - [Training Neural Networks is ER-complete (2021)](https://arxiv.org/abs/2102.09798)
+- [Geoff Hinton 2021 – How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627) ([HN](https://news.ycombinator.com/item?id=26270668))

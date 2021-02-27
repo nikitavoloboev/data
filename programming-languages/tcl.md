@@ -12,3 +12,4 @@
 - [Tcler's Wiki](https://wiki.tcl-lang.org/welcome)
 - [Wapp](https://wapp.tcl.tk/home/doc/trunk/README.md) - Web-Application Framework for TCL.
 - [History of Tcl](https://web.stanford.edu/~ouster/cgi-bin/tclHistory.php) ([HN](https://news.ycombinator.com/item?id=25779347))
+- [OttoCompiler](https://wiki.tcl-lang.org/page/OttoCompiler) - Tcl-Compiler compiles Tcl-Scripts into native C-Code.

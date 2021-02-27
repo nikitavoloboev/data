@@ -348,3 +348,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Bookfeed.io](http://bookfeed.io/) - RSS Feed with New Releases from Your Favorite Authors.
 - [50 Great Classic Novels Under 200 Pages (2021)](https://lithub.com/50-great-classic-novels-under-200-pages/)
 - [Literary Hub](https://lithub.com/) - Daily literary website.
+- [The Art of Reading More Effectively and Efficiently](https://aliabdaal.com/read-more-effectively/) ([HN](https://news.ycombinator.com/item?id=26273735))
