@@ -268,3 +268,4 @@
 - [Getting Deep into CSS Shadows](https://css-tricks.com/getting-deep-into-shadows/)
 - [The Beauty Of Tiny Enhancements In CSS (2021)](https://ishadeed.com/article/tiny-enhancements-in-css/)
 - [An interactive guide to CSS transitions (2021)](https://www.joshwcomeau.com/animation/css-transitions/) ([HN](https://news.ycombinator.com/item?id=26274516))
+- [Diving into the ::before and ::after Pseudo-Elements (2021)](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/)

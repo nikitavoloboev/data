@@ -141,3 +141,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Hacking native ARM64 binaries to run on the iOS Simulator (2021)](https://bogo.wtf/arm64-to-sim.html) ([Code](https://github.com/bogo/arm64-to-sim))
 - [strongarm](https://github.com/datatheorem/strongarm) - Full-featured, cross-platform ARM64 Mach-O analysis library.
 - [macbac](https://github.com/hazcod/macbac) - Lists, controls and schedules efficient APFS snapshots for your convenience.
+- [UTM](https://mac.getutm.app/) - Virtual machines for Mac.
