@@ -97,3 +97,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Rebiber](https://github.com/yuchenlin/rebiber) - Tool for normalizing bibtex with official info.
 - [How to write a great research paper - Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 - [Parsers for scientific papers (PDF2JSON and TEX2JSON)](https://github.com/allenai/s2orc-doc2json)
+- [Collection of academic papers, articles, and other resources](https://github.com/jeffrey-xiao/papers)

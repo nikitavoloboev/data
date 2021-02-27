@@ -69,3 +69,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [True Russian Doomer (suicide edition)](https://www.youtube.com/watch?v=-otYSc8mF3I)
 - [The Mark Of Cain](https://www.youtube.com/watch?v=c_NS1ctv0_E) - Explores the history, artistry and meaning behind prisoners' tattoos in Russia.
 - [gosuslugi.ru](https://www.gosuslugi.ru/) - Портал государственных услуг Российской Федерации.
+- [Борис Немцов. Большой монолог (2012)](https://www.youtube.com/watch?v=arb51HiXhFg)

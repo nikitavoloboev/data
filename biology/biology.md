@@ -54,3 +54,4 @@
 - [Handbook of Biological Statistics](http://www.biostathandbook.com/)
 - [American Society for Microbiology](https://asm.org/)
 - [Mushrooms, Russia and History Book (1957)](https://github.com/squidsoup/mushrooms-russia-history-ebook)
+- [A single cell slime mold makes decisions without a central nervous system](https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/) ([HN](https://news.ycombinator.com/item?id=26285926))

@@ -114,3 +114,4 @@ All active variables can be seen by running `env`.
 - [Next Generation Shell (NGS)](https://github.com/ngs-lang/ngs) - Modern programming language with the focus on systems engineering. ([Web](https://ngs-lang.org/))
 - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells) ([Lobsters](https://lobste.rs/s/bhqflt/alternative_shells))
 - [Run Python Code in a Shell Script (2021)](https://trstringer.com/python-in-shell-script/)
+- [murex](https://github.com/lmorg/murex) - Alternative shell with native support for JSON, YAML, TOML, CSV, etc. ([Web](https://murex.rocks/)) ([HN](https://news.ycombinator.com/item?id=26284294))

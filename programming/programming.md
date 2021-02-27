@@ -134,7 +134,7 @@
 - [Simplicity isn't simple (2015)](https://fishbowl.pastiche.org/2015/04/02/simplicity_isnt_simple) ([Lobsters](https://lobste.rs/s/sddw4g/simplicity_isn_t_simple))
 - [End-user programming (2019)](https://www.inkandswitch.com/end-user-programming.html)
 - [Slow Software (2018)](https://www.inkandswitch.com/slow-software.html)
-- [Noweb](https://www.cs.tufts.edu/~nr/noweb/) - Simple, Extensible Tool for Literate Programming.
+- [Noweb](https://www.cs.tufts.edu/~nr/noweb/) - Simple, Extensible Tool for Literate Programming. ([Code](https://github.com/nrnrnr/noweb)) ([HN](https://news.ycombinator.com/item?id=26287728))
 - [verso](https://github.com/nickpascucci/verso) - New approach to literate programming.
 - [Program Repair](https://program-repair.org/index.html) - Community-driven effort to facilitate discovery, access and systematization of data related to automated program repair research.
 - [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)
