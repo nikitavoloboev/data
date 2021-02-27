@@ -57,3 +57,4 @@
 - [Bits](https://github.com/coq-community/bits) - Formalization of bitset operations in Coq with a corresponding axiomatization and extraction to OCaml native integers.
 - [Coq formalization of information theory and linear error correcting codes](https://github.com/affeldt-aist/infotheo)
 - [jsCoq](https://jscoq.github.io/) - Use Coq in Your Browser. ([Code](https://github.com/jscoq/jscoq))
+- [Translating My Z3 Tutorial to Coq (2021)](https://www.philipzucker.com/translating-z3-to-coq/)

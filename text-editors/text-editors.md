@@ -66,6 +66,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [react-simple-code-editor](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting.
 - [React SimpleMDE](https://github.com/RIP21/react-simplemde-editor) - React wrapper for SimpleMDE markdown editor.
 - [SharePad.io](https://www.sharepad.io/) - Collaborative code editor and compiler.
+- [Math Writer](https://writer.math.dev/) - Rich Text Math Editing on the Web. ([Code](https://github.com/ashok-khanna/math-writer))
 
 ## Links
 

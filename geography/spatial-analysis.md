@@ -56,3 +56,4 @@
 - [Titiler](https://github.com/developmentseed/titiler) - Modern dynamic tile server built on top of FastAPI and Rasterio/GDAL.
 - [Complete Guide to Sources and Layers in React and Mapbox GL JS](https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js/)
 - [World Map Generator](https://www.worldmapgenerator.com/en/) - Generate your own vector world map.
+- [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources.

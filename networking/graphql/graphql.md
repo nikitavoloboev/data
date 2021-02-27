@@ -197,3 +197,4 @@
 - [GraphQL API and Relay Starter Kit](https://github.com/kriasoft/graphql-starter) - Yarn v2 based monorepo template for quickly bootstrapping production ready web application projects optimized for serverless infrastructure, using code-first GraphQL API and PostgreSQL backend.
 - [Meshing GraphQL (2020)](https://thesiddd.com/blog/mesh)
 - [Beyond REST: Rapid Development With GraphQL Microservices (2021)](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+- [giraffeQL](https://github.com/oslabs-beta/giraffeQL) - Developer tool to visualize relational databases and export schemas for GraphQL API's. ([Web](https://giraffeql.io/))
