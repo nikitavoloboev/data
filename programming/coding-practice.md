@@ -78,3 +78,4 @@
 
 - [Cracking the Coding Interview with Rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust)
 - [30 Days of Code](https://github.com/xeoneux/30-Days-of-Code) - Solutions for 30 Days of Code by HackerRank in C++, C#, F#, Go, Java, Kotlin, Python, Ruby, Swift & TypeScript.
+- [Rust Gym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more.

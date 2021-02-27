@@ -67,3 +67,4 @@
 - [Losing faith in UX (2021)](https://creativegood.com/blog/21/losing-faith-in-ux.html) ([HN](https://news.ycombinator.com/item?id=25950351))
 - [Collection of Human Interface and Software Design Guides (2020)](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 - [Apselon](https://apselon.co/) - UX/UI design service for a flat monthly fee.
+- [Tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)

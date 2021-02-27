@@ -89,3 +89,4 @@
 - [A Framework for Writing Better Documentation](https://documentation.divio.com/) ([HN](https://news.ycombinator.com/item?id=26002656))
 - [Improving Usability by Writing Documentation (2021)](https://wbond.net/thoughts/improving_usability_by_writing_documentation)
 - [What nobody tells you about documentation (2017)](https://www.youtube.com/watch?v=t4vKPhjcMZg)
+- [paradoc](https://github.com/jordwalke/paradoc) - One Click Docs.
