@@ -85,4 +85,4 @@
 - [An Elegant Puzzle Book Review: an Overdue Read for Software Engineering Leads](https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/)
 - [Managing Up: How Developers Can Better Communicate to Management](https://www.7pace.com/blog/managing-up)
 - [Mistakes I've Made as an Engineering Manager (2021)](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) ([HN](https://news.ycombinator.com/item?id=26216016))
-- [Awesome CTO](https://github.com/kuchin/awesome-cto)
+- [Awesome CTO](https://github.com/kuchin/awesome-cto) ([HN](https://news.ycombinator.com/item?id=26284750))

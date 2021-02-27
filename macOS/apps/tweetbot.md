@@ -1,6 +1,6 @@
 # [Tweetbot](https://tapbots.com/tweetbot/mac/)
 
-I use the app to stay up to date and communicate on [Twitter](../../tools/twitter.md).
+I once used the app to stay up to date and communicate on [Twitter](../../tools/twitter.md).
 
 I split the app into 2 columns on mac.
 
@@ -9,7 +9,7 @@ I split the app into 2 columns on mac.
 
 ![](https://i.imgur.com/uMoGfGx.png)
 
-I use Tweetbot only on macOS. On iOS, I use the official Twitter app.
+I now use the official Twitter app on iOS and Twitter web on macOS.
 
 ## Notes
 

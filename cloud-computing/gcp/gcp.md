@@ -15,3 +15,4 @@
 - [Google Cloud Workflows](https://cloud.google.com/workflows) - Orchestrate and automate Google Cloud and HTTP-based API services with serverless workflows.
 - [Google Cloud vs. AWS Onboarding Comparison (2021)](https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html) ([HN](https://news.ycombinator.com/item?id=26252010))
 - [Google API Improvement Proposals](https://google.aip.dev/)
+- [WebSockets, HTTP/2 and gRPC bidirectional streams for Cloud Run (2021)](https://cloud.google.com/blog/products/serverless/cloud-run-gets-websockets-http-2-and-grpc-bidirectional-streams)

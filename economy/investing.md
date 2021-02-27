@@ -157,3 +157,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Investing 101: Risk by Chamath Palihapitiya (2020)](https://twitter.com/chamath/status/1308073763842351104)
 - [Buffett FAQ](http://buffettfaq.com/) - Compendium of Q&A sessions with Warren Buffett.
 - [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - Awesome stock market terminal that has been developed for fun.
+- [Are You Trading or Gambling? (2021)](https://investinglessons.substack.com/p/are-you-trading-or-gambling) ([HN](https://news.ycombinator.com/item?id=26283650))
