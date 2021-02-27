@@ -17,3 +17,4 @@
 - [Shine](https://github.com/jeffkreeftmeijer/shine) - Test runner for Gleam and Erlang.
 - [Gleam 0.14 (2021)](https://gleam.run/news/gleam-v0.14-released/) ([HN](https://news.ycombinator.com/item?id=26185690))
 - [VS Code Gleam](https://github.com/gleam-lang/vscode-gleam) - Gleam support for VS Code.
+- [Phantom Types in Gleam (2021)](https://blog.pd-andy.dev/phantom-types-in-gleam)

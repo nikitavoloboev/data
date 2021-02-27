@@ -41,5 +41,5 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Off-grid home with sensors (2014)](https://www.youtube.com/watch?v=VwH6B7aJYDU)
 - [Couchsurfing](https://www.couchsurfing.com/) - Meet and Stay with Locals All Over the World.
 - [Couchers.org](https://couchers.org/) - New online platform for couch-surfers. Non‑profit. Community‑focused. Well built. ([Code](https://github.com/Couchers-org/couchers))
-- [Free Land — Living Off Grid With No Money (2020)](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html)
+- [Free Land – Living Off Grid With No Money (2020)](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html) ([HN](https://news.ycombinator.com/item?id=26281103))
 - [Off Grid Permaculture](https://offgridpermaculture.com/index.html) - Educational project designed to assist those seeking to develop a sustainable, self-sufficient lifestyle.

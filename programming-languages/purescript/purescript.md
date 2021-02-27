@@ -27,4 +27,4 @@
 - [Introducing Halogen Hooks (2020)](https://thomashoneyman.com/articles/introducing-halogen-hooks/)
 - [Practical Profunctor Lenses & Optics In PureScript (2019)](https://thomashoneyman.com/articles/practical-profunctor-lenses-optics/)
 - [How to Write PureScript React Components to Replace JavaScript (2019)](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
-- [PureScript and Haskell (2021)](https://blog.drewolson.org/purescript-and-haskell)
+- [PureScript and Haskell (2021)](https://blog.drewolson.org/purescript-and-haskell) ([HN](https://news.ycombinator.com/item?id=26271851))
