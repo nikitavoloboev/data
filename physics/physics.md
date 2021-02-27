@@ -177,3 +177,4 @@
 - [Sean Carroll's AMA (2021)](https://overcast.fm/+S_7njW_Sw)
 - [Other than particles and waves, are there any other fundamental descriptors? (2021)](https://www.reddit.com/r/AskPhysics/comments/lmuuty/other_than_particles_and_waves_are_there_any/)
 - [EinsteinPy Project](https://einsteinpy.org/) - Python package dedicated to problems arising in General Relativity and gravitational physics. ([Code](https://github.com/einsteinpy/einsteinpy)) ([GitHub](https://github.com/einsteinpy))
+- [ScienceClic English - YouTube](https://www.youtube.com/c/ScienceClicEN/videos)

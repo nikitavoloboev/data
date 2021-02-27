@@ -175,3 +175,4 @@
 - [Building an E-Ink Laptop](https://alexsoto.dev/building-an-e-ink-laptop.html) ([HN](https://news.ycombinator.com/item?id=26245563))
 - [Seminar in Computer Architecture - ETH Zürich (2021)](https://safari.ethz.ch/architecture_seminar/spring2021/doku.php) ([Talks](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_awYdjmWVIUegsbY7TPGW4))
 - [Framework Laptop](https://frame.work/) - Upgradeable, repairable, and 100% yours. ([Intro](https://frame.work/blog/introducing-the-framework-laptop)) ([HN](https://news.ycombinator.com/item?id=26263508)) ([Lobsters](https://lobste.rs/s/hhqli7/introducing_framework_laptop))
+- [SparkFun Electronics](https://www.sparkfun.com/) - Manufactures and sells microcontroller development boards and breakout boards.

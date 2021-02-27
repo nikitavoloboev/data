@@ -63,3 +63,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [StrictMark: Markdown Refactored](http://doc.replicated.cc/^Wiki/strictmark.sm)
 - [MD4C](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [mdast](https://github.com/syntax-tree/mdast) - Markdown Abstract Syntax Tree format.
+- [remark-rehype](https://github.com/remarkjs/remark-rehype) - Plugin to transform from Markdown (remark) to HTML (rehype).
