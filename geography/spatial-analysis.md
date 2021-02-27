@@ -57,3 +57,4 @@
 - [Complete Guide to Sources and Layers in React and Mapbox GL JS](https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js/)
 - [World Map Generator](https://www.worldmapgenerator.com/en/) - Generate your own vector world map.
 - [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources.
+- [H3](https://github.com/uber/h3) - Hexagonal Hierarchical Geospatial Indexing System. ([Docs](https://h3geo.org/docs))

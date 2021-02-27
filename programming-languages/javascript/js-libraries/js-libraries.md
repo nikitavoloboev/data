@@ -476,6 +476,7 @@
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 - [gifenc](https://github.com/mattdesl/gifenc) - Fast and lightweight pure-JavaScript GIF encoder.
 - [tldts](https://github.com/remusao/tldts) - Blazing Fast URL Parsing.
+- [Barba.js](https://github.com/barbajs/barba) - Easy-to-use library that helps you create fluid and smooth transitions between your website's pages.
 
 ## Links
 
