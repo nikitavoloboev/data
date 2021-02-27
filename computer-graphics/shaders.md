@@ -33,3 +33,4 @@
 - [pmfx-shader](https://github.com/polymonster/pmfx-shader) - Cross platform shader system for HLSL, GLSL, Metal and SPIR-V.
 - [GLSLX](https://github.com/evanw/glslx) - GLSL type checker, code formatter, and minifier for WebGL. ([Web](http://evanw.github.io/glslx/))
 - [live-glsl](https://github.com/karimnaaji/live-glsl) - Lightweight GLSL live-coding tool for macOS. ([Web](http://karim.naaji.fr/projects/liveglsl))
+- [grimoire](https://github.com/jshrake/grimoire) - Cross-platform live-coding tool for creative coding with GLSL shaders.
