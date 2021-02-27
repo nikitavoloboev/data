@@ -45,7 +45,7 @@
 - [Proofs Should Repair Themselves (2020)](https://galois.com/blog/2020/12/proofs-should-repair-themselves/) ([Lobsters](https://lobste.rs/s/vh1edq/proofs_should_repair_themselves))
 - [Use polling for resiliency (2020)](https://blog.gchinis.com/posts/use-polling-for-resiliency/) ([Lobsters](https://lobste.rs/s/7vpobg/use_polling_for_resiliency))
 - [The 2020 Expert Survey on Formal Methods](http://www.fmeurope.org/documents/Garavel-terBeek-vandePol-20.pdf)
-- [Formal Methods for the Informal Engineer (2020)](https://fmie2021.github.io/)
+- [Formal Methods for the Informal Engineer (2020)](https://fmie2021.github.io/) ([Code](https://github.com/philzook58/z3_tutorial))
 - [Finding Software Bugs Using Symbolic Execution (2020)](https://sasnauskas.eu/finding-software-bugs-using-symbolic-execution/)
 - [MiniZinc](https://www.minizinc.org/) - High-level constraint modelling language that allows you to easily express and solve discrete optimization problems. ([Code](https://github.com/MiniZinc/libminizinc)) ([Solving River Crossing Puzzles With MiniZinc](https://sasnauskas.eu/solving-river-crossing-puzzles-with-minizinc/))
 - [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html) - Formal Mathematical Language.

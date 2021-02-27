@@ -20,3 +20,5 @@
 - [Machine Learning in Chemistry 101 course](https://github.com/BingqingCheng/ML-in-chemistry-101)
 - [Highly Opinionated List of Open Source Cheminformatics Resources](https://github.com/PatWalters/resources/blob/main/cheminformatics_resources.md)
 - [Beginners Guide to Understanding Chemistry (2021)](https://www.youtube.com/playlist?list=PLgJIUWVTPrnXLrP25h_UteuawBgb0SyVR)
+- [Reddit Recommended Chemistry Books](https://www.reddit.com/r/chemistry/wiki/books)
+- [Chemistry Resources Collection](https://www.reddit.com/r/Chempros/comments/jput3t/megathread_community_resources_collection/)

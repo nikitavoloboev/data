@@ -235,3 +235,4 @@
 - [CompreFace](https://github.com/exadel-inc/CompreFace) - Free face recognition solution that can be easily integrated into any IT system without prior machine learning skills.
 - [IBRNet: Learning Multi-View Image-Based Rendering (2021)](https://ibrnet.github.io/)
 - [From Coarse to Fine: Robust Hierarchical Localization at Large Scale (2019)](https://arxiv.org/abs/1812.03506) ([Code](https://github.com/ethz-asl/hfnet))
+- [Camera Response Function (2021)](https://roboalgorithms.com/posts/camera-response-function/)

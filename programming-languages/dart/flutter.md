@@ -42,3 +42,4 @@
 - [Why every new startup in 2021 should use Flutter](https://siliconivan.medium.com/why-every-new-startup-in-2021-should-use-flutter-4507d7da5642)
 - [FlutterFlow](https://app.flutterflow.io/) - Build cross-platform Flutter mobile apps visually.
 - [Getting Started with AWS Amplify Flutter](https://docs.amplify.aws/start/q/integration/flutter) ([HN](https://news.ycombinator.com/item?id=26263097))
+- [Catcher](https://github.com/jhomlala/catcher) - Flutter plugin which automatically catches error/exceptions and handle them.
