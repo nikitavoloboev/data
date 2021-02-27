@@ -315,3 +315,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Totallib](https://totallib.com/) - Note-taking for better thinking, augmented by AI.
 - [Growing Digital Gardens w/ Maggie Appleton (2021)](https://www.youtube.com/watch?t=141&v=Afq3Y2I2WqM)
 - [em](https://github.com/cybersemics/em) - Beautiful, minimalistic note-taking app for personal sensemaking.
+- [Notemarks](https://notemarks.app/) - Git based labeling app to manage notes, documents, and bookmarks. ([Code](https://github.com/notemarks/notemarks))

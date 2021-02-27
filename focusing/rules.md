@@ -12,7 +12,7 @@
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
-- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people.
+- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
@@ -81,6 +81,7 @@
 - Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
 - Don't repeat myself / duplicate content. Link instead.
 - Add screenshots/screencasts where appropriate. Take accessibility into account (good visibility of text).
+- Clear my thinking and journal. Look back on the day and plan the next.
 
 ## Tools
 

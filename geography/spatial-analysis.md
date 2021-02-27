@@ -55,3 +55,4 @@
 - [OpenStreetMap proven to be a highly accurate map in top US cities (2021)](https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec) ([HN](https://news.ycombinator.com/item?id=26082428))
 - [Titiler](https://github.com/developmentseed/titiler) - Modern dynamic tile server built on top of FastAPI and Rasterio/GDAL.
 - [Complete Guide to Sources and Layers in React and Mapbox GL JS](https://www.lostcreekdesigns.co/writing/a-complete-guide-to-sources-and-layers-in-react-and-mapbox-gl-js/)
+- [World Map Generator](https://www.worldmapgenerator.com/en/) - Generate your own vector world map.

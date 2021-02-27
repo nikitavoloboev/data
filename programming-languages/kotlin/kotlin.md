@@ -3,6 +3,7 @@
 ## Nice OSS Kotlin apps
 
 - [Press](https://github.com/saket/press) - Cross-platform markdown editor written in Kotlin Multiplatform.
+- [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI.
 
 ## Links
 
