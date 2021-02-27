@@ -26,3 +26,4 @@
 - [Multiple objects in single frame with Metal (2020)](https://whackylabs.com/metal/2020/04/30/multiple-objects-single-frame-metal/)
 - [ShaderMania](https://github.com/markusmoenig/ShaderMania) - Metal shader editor for macOS and iOS.
 - [Signed](https://github.com/markusmoenig/Signed) - Editor and renderer for procedural Signed Distance Functions (SDFs). Available for macOS and iOS and is heavily optimized for Metal.
+- [Minimal Metal App](https://github.com/ctreffs/metal-app)
