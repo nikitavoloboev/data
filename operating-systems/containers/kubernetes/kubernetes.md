@@ -341,3 +341,4 @@
 - [A Kubernetes User's Guide to HashiCorp Nomad (2021)](https://www.hashicorp.com/blog/a-kubernetes-user-s-guide-to-hashicorp-nomad)
 - [GKE Autopilot: an nodeless and elastic Kubernetes cluster mode (2021)](https://cloud.google.com/blog/products/containers-kubernetes/introducing-gke-autopilot) ([HN](https://news.ycombinator.com/item?id=26252317))
 - [Google admits Kubernetes container tech is too complex (2021)](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/) ([HN](https://news.ycombinator.com/item?id=26271470))
+- [Take a look at Nomad before jumping on Kubernetes (2021)](https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/) ([HN](https://news.ycombinator.com/item?id=26291975))

@@ -96,3 +96,4 @@
 - [Managing focus in the shadow DOM (2021)](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
 - [rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the unified collective. ([Awesome](https://github.com/rehypejs/awesome-rehype))
 - [linkedom](https://github.com/WebReflection/linkedom) - Triple-linked lists based DOM implementation.
+- [bin2png](https://github.com/lovasoa/bin2png) - Embed binary data inside an HTML file in an efficient way.
