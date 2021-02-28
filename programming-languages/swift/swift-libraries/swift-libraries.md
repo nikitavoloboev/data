@@ -627,6 +627,7 @@
 - [SwiftRex](https://github.com/SwiftRex/SwiftRex) - Swift + Redux + (Combine|RxSwift|ReactiveSwift).
 - [Puppy](https://github.com/sushichop/Puppy) - Flexible logging library written in Swift.
 - [HotReloading](https://github.com/johnno1962/HotReloading) - Hot reloading available as a Swift Package.
+- [SwiftRegex5](https://github.com/johnno1962/SwiftRegex5) - Basic regex operations in Swift.
 
 ## Other (not lib)
 
