@@ -189,3 +189,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Using ES Modules (ESM) in Node.js: A Practical Guide (2021)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/) ([HN](https://news.ycombinator.com/item?id=26087220))
 - [Envalid](https://github.com/af/envalid) - Environment variable validation for Node.js.
 - [Express Typescript Boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - Delightful way to building a RESTful API with NodeJs & TypeScript.
+- [Bytenode](https://github.com/OsamaAbbas/bytenode) - Minimalist bytecode compiler for Node.js.

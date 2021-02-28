@@ -350,6 +350,7 @@
 - [pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches.
 - [squema](https://github.com/Funk66/squema) - Smarter data structures.
 - [traces](https://github.com/datascopeanalytics/traces) - Python library for unevenly-spaced time series analysis.
+- [Succinct](https://github.com/miiohio/succinct) - Compact, and compressed data structures for data-intensive applications.
 
 ## Links
 

@@ -48,3 +48,5 @@
 - [PiFS](https://github.com/philipl/pifs) - Data-Free Filesystem.
 - [S3QL](https://github.com/s3ql/s3ql) - File system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 - [Envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
+- [GotenksFS](https://github.com/carlosgaldino/gotenksfs) - File system on top of your file system.
+- [Writing a file system from scratch in Rust (2020)](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
