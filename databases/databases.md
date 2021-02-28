@@ -132,6 +132,7 @@
 - [CORTX](https://github.com/Seagate/cortx) - Open Source Mass-Capacity Optimized Object Store.
 - [PouchDB](https://pouchdb.com/) - JavaScript Database that Syncs. ([Code](https://github.com/pouchdb/pouchdb))
 - [CryptDB](https://css.csail.mit.edu/cryptdb/) - Database system that can process SQL queries over encrypted data. ([Code](https://github.com/CryptDB/cryptdb))
+- [LBADD](https://github.com/tomarrell/lbadd) - Experimental distributed SQL database, written in Go.
 
 ## Tools
 

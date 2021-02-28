@@ -110,3 +110,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Hyper and Super on my keyboard? (2019)](https://shapr.github.io/posts/2019-07-21-space-cadet.html)
 - [Split Keyboards Gallery](https://aposymbiont.github.io/split-keyboards/)
 - [Turning a wireless keyboard into a wired keyboard (2021)](https://chadaustin.me/2021/02/wired-sculpt/)
+- [How to Delay RSI, by Building a Keyboard (2019)](https://blog.tomarrell.com/post/how_to_prevent_rsi)
