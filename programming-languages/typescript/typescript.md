@@ -132,6 +132,7 @@
 - [Go JSON to TypeScript model converter](https://github.com/tkrajina/typescriptify-golang-structs)
 - [Using fetch with TypeScript (2021)](https://kentcdodds.com/blog/using-fetch-with-type-script)
 - [Bad TypeScript Habits](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/) ([HN](https://news.ycombinator.com/item?id=26005330))
+- [TypeScript Function Syntaxes (2021)](https://kentcdodds.com/blog/typescript-function-syntaxes)
 
 ## Images
 

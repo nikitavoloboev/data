@@ -34,7 +34,7 @@
 
 ## Graphics
 
-- [Cinder](https://github.com/cinder/Cinder) - Peer-reviewed, free, open source C++ library for creative coding. ([Web](https://libcinder.org/)) ([Docs](https://libcinder.org/docs/index.html))
+- [Cinder](https://github.com/cinder/Cinder) - Peer-reviewed, free, open source C++ library for creative coding. ([Web](https://libcinder.org/)) ([Docs](https://libcinder.org/docs/index.html)) ([HN](https://news.ycombinator.com/item?id=26289200))
 - [Terathon Math Library](https://github.com/EricLengyel/Terathon-Math-Library) - C++ math library containing classes for vectors, matrices, quaternions, and elements of projective geometric algebra.
 - [VGC](https://github.com/vgc/vgc) - Next-Gen Graphic Design and 2D Animation. ([Web](https://www.vgc.io/))
 

@@ -166,3 +166,4 @@
 - [Engineering Dependability and Fault Tolerance in a Distributed System (2021)](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 - [Autopilot: workload autoscaling at Google (2020)](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524)
 - [Byztime](https://github.com/akamai-contrib/byztimed) - Byzantine-fault-tolerant protocol for synchronizing time among a group of peers, without reliance on any external time authority.
+- [Foundational distributed systems papers (2021)](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)

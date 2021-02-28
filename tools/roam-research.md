@@ -66,3 +66,4 @@
 - [Better Roam Research](https://github.com/linuz90/better-roam-research) - Minimal theme for Roam Research with system-level Dark Mode support. ([Web](https://fabriziorinaldi.com/better-roam-research/))
 - [BlockRunner](https://blockrunner.cc/) - Game to learn roam research hotkeys.
 - [Deep Dive Into Roam's Data Structure (2021)](https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html) - Why Roam is Much More Than a Note Taking App. ([Video](https://www.youtube.com/watch?v=wjIMRD-JKfU))
+- [Roam Untangled](https://www.jamoe.org/roam) - Learn to setup your Roam Research database.
