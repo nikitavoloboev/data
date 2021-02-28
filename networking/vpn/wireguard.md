@@ -30,3 +30,4 @@
 - [WireGuard UI](https://github.com/EmbarkStudios/wg-ui) - Basic, self-contained management service for WireGuard with a self-serve web UI.
 - [My Automagic NixOS Wireguard Setup (2021)](https://christine.website/blog/my-wireguard-setup-2021-02-06)
 - [WireGuard Manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Manager.
+- [Kilo](https://github.com/squat/kilo) - Multi-cloud network overlay built on WireGuard and designed for Kubernetes. ([Web](https://kilo.squat.ai/))
