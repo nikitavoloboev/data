@@ -42,3 +42,4 @@
 - [DynamoDB sessions at AWS re:Invent 2020](https://www.youtube.com/playlist?list=PL_EDAAla3DXWshFxx1R5P5MNaER84zHsU)
 - [Serverless DynamoDB Local Plugin](https://github.com/99x/serverless-dynamodb-local) - Allows to run DynamoDB locally for serverless.
 - [Fundamentals of Amazon DynamoDB Single Table Design (2020)](https://www.youtube.com/watch?app=desktop&v=KYy8X8t4MB8)
+- [DynamoDB Best Practices](https://dynobase.dev/dynamodb-best-practices/)

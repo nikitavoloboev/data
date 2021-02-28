@@ -2,8 +2,8 @@
 
 ## Top
 
-- [TensorFlow](tensorflow.md)
 - [PyTorch](pytorch.md)
+- [TensorFlow](tensorflow.md)
 - [Keras](keras.md)
 - [fastai](https://github.com/fastai/fastai)
 
@@ -124,3 +124,4 @@
 - [micro-TCN](https://github.com/csteinmetz1/micro-tcn) - Efficient neural networks for audio effect modeling. ([Web](https://csteinmetz1.github.io/tcn-audio-effects/))
 - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Python library for dynamic classifier and ensemble selection.
 - [BytePS](https://github.com/bytedance/byteps) - High performance and generic framework for distributed DNN training.
+- [Hyperactive](https://github.com/SimonBlanke/Hyperactive) - Hyperparameter optimization and meta-learning toolbox for convenient and fast prototyping of machine-learning models.

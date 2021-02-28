@@ -145,3 +145,4 @@
 - [Making Games on Your Own as an Engineer (2021)](https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/) ([HN](https://news.ycombinator.com/item?id=26246049))
 - [Indie Game Development: Indie Archetypes](https://www.derekyu.com/makegames/archetypes.html)
 - [Egregoria](https://github.com/Uriopass/Egregoria) - Contemplative society simulation.
+- [Building a serverless multi-player game that scales (2021)](https://aws.amazon.com/blogs/compute/building-a-serverless-multiplayer-game-that-scales/)

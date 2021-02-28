@@ -10,3 +10,4 @@
 - [Evolutionary Algorithms implementations](https://github.com/EliorBenYosef/evolutionary-algorithms)
 - [How animals evolve](https://microfictiongames.neocities.org/2020/how_animals_evolve.html) - Game about evolutionary biology.
 - [Charles Darwin’s Descent of Man, 150 Years Later (2021)](https://daily.jstor.org/charles-darwins-descent-of-man-150-years-later/)
+- [Practical Evolutionary Algorithms](https://datacrayon.com/shop/product/practical-evolutionary-algorithms-book/)

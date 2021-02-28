@@ -86,3 +86,4 @@
 - [Web Crawler for scraping Financial data](https://github.com/Skumarr53/Stock-Fundamental-data-scraping-and-analysis) ([Article](https://medium.com/datadriveninvestor/build-a-web-crawler-that-scrapes-stock-fundamentals-in-python-e2d4af56398))
 - [Web Scraping 101 with Python (2021)](https://www.scrapingbee.com/blog/web-scraping-101-with-python/) ([HN](https://news.ycombinator.com/item?id=26090243))
 - [Automatio](https://automatio.co/) - No-code Web Automation Tool. Automation Tool to Extract Data From Any Website.
+- [Scaling up a Serverless Web Crawler and Search Engine (2021)](https://aws.amazon.com/blogs/architecture/scaling-up-a-serverless-web-crawler-and-search-engine/)

@@ -178,3 +178,4 @@
 - [Other than particles and waves, are there any other fundamental descriptors? (2021)](https://www.reddit.com/r/AskPhysics/comments/lmuuty/other_than_particles_and_waves_are_there_any/)
 - [EinsteinPy Project](https://einsteinpy.org/) - Python package dedicated to problems arising in General Relativity and gravitational physics. ([Code](https://github.com/einsteinpy/einsteinpy)) ([GitHub](https://github.com/einsteinpy))
 - [ScienceClic English - YouTube](https://www.youtube.com/c/ScienceClicEN/videos)
+- [List of Unsolved Problems in Physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
