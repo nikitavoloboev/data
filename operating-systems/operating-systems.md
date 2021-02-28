@@ -202,3 +202,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [DTB parser implementing notes (2021)](https://kivikakk.ee/2021/02/13/dtb-parser-implementing-notes/)
 - [SerenityOS - Writing a full chain exploit (2021)](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
 - [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series)
+- [Rust VM](https://github.com/atul-g/rust_vm) - Virtual Machine written in Rust to emulate the LC3 computer (Little Computer 3).

@@ -21,3 +21,4 @@
 - [Chewy](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
 - [AWS announces forks of Elasticsearch and Kibana (2021)](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/) ([HN](https://news.ycombinator.com/item?id=25865094))
 - [Elasticsearch Optimizations at Lyft (2021)](https://eng.lyft.com/elasticsearch-optimizations-at-lyft-b555dc020932)
+- [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk)

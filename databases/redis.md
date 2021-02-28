@@ -50,3 +50,5 @@
 - [Bee-Queue](https://github.com/bee-queue/bee-queue) - Simple, fast, robust job/task queue for Node.js, backed by Redis.
 - [Redis rate limiter (2021)](https://blog.rebased.pl/2021/02/22/redis-rate-limiter.html)
 - [Querying, Indexing, and Full-Text Search Course](https://university.redislabs.com/courses/ru203/) - Covers RediSearch, the in-memory query, index, and search engine for Redis.
+- [Awesome Redis](https://github.com/JamzyWang/awesome-redis)
+- [Using Redis as an LRU cache](https://redis.io/topics/lru-cache)
