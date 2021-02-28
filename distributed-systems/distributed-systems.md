@@ -167,3 +167,4 @@
 - [Autopilot: workload autoscaling at Google (2020)](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524)
 - [Byztime](https://github.com/akamai-contrib/byztimed) - Byzantine-fault-tolerant protocol for synchronizing time among a group of peers, without reliance on any external time authority.
 - [Foundational distributed systems papers (2021)](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+- [Making reliable distributed systems in presence of software errors by Joe Armstrong (2003)](https://erlang.org/download/armstrong_thesis_2003.pdf)
