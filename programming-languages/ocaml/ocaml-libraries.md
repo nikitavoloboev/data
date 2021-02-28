@@ -79,6 +79,7 @@
 - [VOCaL](https://github.com/vocal-project/vocal) - Verified OCaml Library.
 - [Fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators.
 - [awa-ssh](https://github.com/mirage/awa-ssh) - Purely functional SSH library in OCaml.
+- [Fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml.
 
 ## Links
 

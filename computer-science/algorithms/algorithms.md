@@ -19,7 +19,7 @@
 - [Some neat algorithms](https://www.nayuki.io/category/programming)
 - [Mathematical Proof of Algorithm Correctness and Efficiency (2019)](https://stackabuse.com/mathematical-proof-of-algorithm-correctness-and-efficiency/)
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive online platform that visualizes algorithms from code.
-- [Algorithms for Optimization book](https://mitpress.mit.edu/books/algorithms-optimization)
+- [Algorithms for Optimization Book](https://mitpress.mit.edu/books/algorithms-optimization) ([Code](https://github.com/sisl/algforopt-notebooks))
 - [Collaborative book on algorithms](https://www.algorithm-archive.org/) ([Code](https://github.com/algorithm-archivists/algorithm-archive))
 - [Algorithms in C by Robert Sedgewick](http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf)
 - [Algorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)

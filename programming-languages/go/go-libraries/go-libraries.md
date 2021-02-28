@@ -742,6 +742,7 @@
 - [structomap](https://github.com/danhper/structomap) - Helps you to transform your struct into map easily.
 - [date](https://github.com/rickb777/date) - Go package for working with dates.
 - [GCache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
+- [gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your Go code.
 
 ## Links
 

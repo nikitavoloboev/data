@@ -22,3 +22,4 @@
 - [Unbound Pi-hole without scripts (2020)](https://jimh.dev/unbound/)
 - [PI-Hole Prometheus Exporter](https://github.com/eko/pihole-exporter) - Prometheus exporter for PI-Hole's Raspberry PI ad blocker.
 - [Update Pi-hole's lists from remote sources](https://github.com/jacklul/pihole-updatelists)
+- [Running my own DoH relay and getting Pi-hole protection away from home (2021)](https://scotthelme.co.uk/running-my-own-doh-relay-and-getting-pihole/)

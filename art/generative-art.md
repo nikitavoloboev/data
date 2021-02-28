@@ -111,3 +111,4 @@
 - [Mutable Gallery](https://mutable.gallery/) - Generative artworks by Heydon Pickering.
 - [Sandpit](https://sandpitjs.com/) - Playground for creative coding.
 - [AI Art Generators](https://aiartists.org/ai-generated-art-tools)
+- [Unknown pleasures](https://github.com/rougier/unknown-pleasures) - Animated lines using matplotlib.
