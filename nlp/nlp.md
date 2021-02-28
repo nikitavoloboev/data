@@ -261,3 +261,4 @@
 - [Beyond the Imitation Game Benchmark (BIG-bench)](https://github.com/google/BIG-bench) - Collaborative benchmark intended to probe large language models, and extrapolate their future capabilities.
 - [AutoNLP](https://huggingface.co/autonlp) - Automatic way to train, evaluate and deploy state-of-the-art NLP models for different tasks.
 - [DeText](https://github.com/linkedin/detext) - Deep Neural Text Understanding Framework for Ranking and Classification Tasks.
+- [Paragraph Vectors in PyTorch](https://github.com/inejc/paragraph-vectors)

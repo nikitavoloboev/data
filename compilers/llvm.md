@@ -60,3 +60,4 @@
 - [Enzyme](https://github.com/wsmoses/Enzyme) - High-Performance Automatic Differentiator of LLVM. ([Docs](https://enzyme.mit.edu/))
 - [DebugIR](https://github.com/vaivaswatha/debugir) - Debugging LLVM-IR Files.
 - [Dumbo: LLVM-based Dumb Obfuscator (2019)](https://www.babush.me/dumbo-llvm-based-dumb-obfuscator.html)
+- [LLVM Meets Code Property Graphs (2021)](https://blog.llvm.org/posts/2021-02-23-llvm-meets-code-property-graphs/)

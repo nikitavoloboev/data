@@ -198,3 +198,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [What Should I Teach in a Video Tutorial?](https://johnlindquist.com/what-should-i-teach-in-a-video-tutorial/)
 - [Milk Video](https://milk.video/) - Edit online event recordings quickly.
 - [NATS Streaming Server](https://github.com/nats-io/nats-streaming-server) - Extremely performant, lightweight reliable streaming platform built on NATS.
+- [Create animated GIF and WebP from videos using FFmpeg (2021)](https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/)
