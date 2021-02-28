@@ -262,6 +262,7 @@
 - [8 things startups can do early on to optimize for focus & productivity (2021)](https://twitter.com/_shahedk/status/1359237833605619712)
 - [Startup advice that nobody tells you (2021)](https://twitter.com/sairaxashraf/status/1359007547655524355)
 - [Ask HN: Startup employees getting nothing after acquisition, is this normal? (2021)](https://news.ycombinator.com/item?id=26098882)
+- [Will it make the boat go faster? This question could also be vital for your early-stage team & company (2021)](https://twitter.com/shreyas/status/1365732851732209668)
 
 ## Images
 
