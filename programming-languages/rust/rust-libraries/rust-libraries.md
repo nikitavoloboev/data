@@ -89,6 +89,7 @@
 - [Terra](https://github.com/fintelia/terra) - Large scale terrain rendering library written in Rust.
 - [Ochre](https://github.com/glowcoil/ochre) - Highly portable GPU-accelerated vector graphics. ([Talk](https://rustfest.global/session/23-ochre-highly-portable-gpu-accelerated-vector-graphics/))
 - [glyph-brush](https://github.com/alexheretic/glyph-brush) - Fast GPU cached text rendering.
+- [Speedy2D](https://github.com/QuantumBadger/Speedy2D) - Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.
 
 ## DB
 

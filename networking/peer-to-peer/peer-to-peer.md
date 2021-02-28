@@ -74,3 +74,4 @@
 - [pcp](https://github.com/dennis-tra/pcp) - Peer-to-Peer data transfer tool based on libp2p. ([HN](https://news.ycombinator.com/item?id=26124236))
 - [SonoBus](https://sonobus.net/) - Easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network. ([Code](https://github.com/essej/sonobus))
 - [Bittensor](https://github.com/opentensor/bittensor) - p2p-market which rewards the production of machine intelligence with a digital token called Tao.
+- [Introduction to libp2p](https://proto.school/introduction-to-libp2p)
