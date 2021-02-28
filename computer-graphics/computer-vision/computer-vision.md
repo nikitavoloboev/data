@@ -236,3 +236,4 @@
 - [IBRNet: Learning Multi-View Image-Based Rendering (2021)](https://ibrnet.github.io/)
 - [From Coarse to Fine: Robust Hierarchical Localization at Large Scale (2019)](https://arxiv.org/abs/1812.03506) ([Code](https://github.com/ethz-asl/hfnet))
 - [Camera Response Function (2021)](https://roboalgorithms.com/posts/camera-response-function/)
+- [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image (2020)](https://arxiv.org/abs/2008.03713) ([Code](https://github.com/mks0601/I2L-MeshNet_RELEASE))
