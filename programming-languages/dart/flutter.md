@@ -2,6 +2,7 @@
 
 ## Nice Flutter apps
 
+- [lemmur](https://github.com/krawieck/lemmur) - Mobile client for lemmy. Federated Reddit alternative.
 - [Gmail Clone built with Flutter](https://github.com/rodydavis/gmail_clone)
 - [GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git.
 - [E-Commerce Complate App](https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI) - Dev streams included.
