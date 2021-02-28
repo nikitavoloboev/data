@@ -71,3 +71,4 @@
 - [libco](https://github.com/higan-emu/libco) - Cooperative multithreading library written in C89.
 - [HYPRE](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods. ([Web](https://computing.llnl.gov/casc/hypre/))
 - [Simple DirectMedia Layer (SDL)](https://libsdl.org/) - Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware. ([Code](https://github.com/libsdl-org/SDL))
+- [TinyExpr](https://github.com/codeplea/tinyexpr) - Small recursive descent parser and evaluation engine for math expressions. ([Web](https://codeplea.com/tinyexpr))

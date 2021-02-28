@@ -14,3 +14,4 @@
 - [How do I design a system to process messages sequentially (2020)](https://lobste.rs/s/w1bk6l/how_do_i_design_system_process_messages)
 - [The Big Little Guide to Message Queues (2020)](https://sudhir.io/the-big-little-guide-to-message-queues/) ([HN](https://news.ycombinator.com/item?id=25591492))
 - [Machinery](https://github.com/RichardKnop/machinery) - Asynchronous task queue/job queue based on distributed message passing.
+- [MiniQueue](https://github.com/tomarrell/miniqueue) - Simple, single binary, message queue.

@@ -10,7 +10,7 @@ I nearly always keep nuts & fruits at hand as they make for healthy quick snacks
 
 I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
 
-My goto recipe is a simple omelette with tomatoes.
+My goto recipe is a simple omelette with tomatoes and Greek salad.
 
 Here is a list of various plant based foods that I use to experiment and cook with. It helps to sometimes pick some ingredients and search recipes you can make with them.
 
