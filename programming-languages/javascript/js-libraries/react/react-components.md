@@ -160,6 +160,7 @@
 - [react-masonry-css](https://github.com/paulcollett/react-masonry-css) - React Masonry layout component powered by CSS, dependency free.
 - [Bumbag](https://bumbag.style/) - Friendly React UI Kit suitable for MVPs or large-scale applications. ([Code](https://github.com/bumbag/bumbag-ui))
 - [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React. ([Web](https://ractive-player.org/))
+- [Slang](https://github.com/tone-row/slang) - Theme-able react component library for fast UI development.
 
 ## Links
 

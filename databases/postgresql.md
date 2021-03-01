@@ -228,3 +228,4 @@
 - [Efficient Postgres Full Text Search in Django (2021)](https://pganalyze.com/blog/full-text-search-django-postgres)
 - [PGMig](https://github.com/leafclick/pgmig) - Standalone PostgreSQL Migration Runner.
 - [Handling Global Associative Arrays in PostgreSQL (2021)](https://www.migops.com/blog/2021/02/28/handling-global-associative-arrays-in-postgresql/)
+- [Time-Series Analytics for PostgreSQL: Introducing Timescale Analytics Project (2021)](https://blog.timescale.com/blog/time-series-analytics-for-postgresql-introducing-the-timescale-analytics-project/)

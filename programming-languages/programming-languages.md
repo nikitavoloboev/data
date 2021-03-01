@@ -174,3 +174,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [SICP Book Notes](https://github.com/codereport/SICP-2020)
 - [Language Explorer](https://language.donghwi.dev/) - Explore 650+ programming languages, visualized based on paradigm influence relationships between languages.
 - [Brown University PLT](http://cs.brown.edu/research/plt/) ([GitHub](https://github.com/brownplt))
+- [DSL might be the answer (2021)](https://blog.royalsloth.eu/posts/dsl-might-be-the-answer/)

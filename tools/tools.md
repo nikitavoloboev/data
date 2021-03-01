@@ -234,6 +234,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
 - [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
+- [flowchart.fun](https://flowchart.fun/) - Generate Flowcharts from Text. ([Code](https://github.com/tone-row/flowchart-fun)) ([HN](https://news.ycombinator.com/item?id=26303784))
 - [Inverse](https://www.inverse.network/) - Lets you have discussions, take notes, and share knowledge across any app or page on the web.
 - [Replies](https://replies.io/) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 - [Larder](https://larder.io/) - Bookmarking for developers. ([HN](https://news.ycombinator.com/item?id=23442165))
