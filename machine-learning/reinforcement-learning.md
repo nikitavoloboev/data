@@ -168,3 +168,4 @@
 - [MTEnv](https://github.com/facebookresearch/mtenv) - MultiTask Environments for Reinforcement Learning.
 - [Mastering Atari with Discrete World Models (2021)](https://ai.googleblog.com/2021/02/mastering-atari-with-discrete-world.html)
 - [Proto-RL: Reinforcement Learning with Prototypical Representations](https://github.com/denisyarats/proto)
+- [Task-Agnostic Morphology Optimization (2021)](https://openreview.net/pdf?id=CGQ6ENUMX6) ([Code](https://github.com/jhejna/morphology-opt))

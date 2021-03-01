@@ -73,3 +73,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Начальник ИК-15 Верещак задержан. Заключённых насиловали ВИЧ-инфицированные "разработчики". Иркутск. (2021)](https://www.youtube.com/watch?v=O-Rb4j-0yTM)
 - [Гулагу-нет YouTube](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) - Правозащитный проект против коррупции и пыток в России.
 - [Богатые и бедные: объясняю на котах | Коты Ходорковского (2021)](https://www.youtube.com/watch?v=VOC6Oc5PKGc)
+- [Как убивали Бориса Немцова. Полная хронология (2021)](https://zona.media/chronicle/nemtsov-chronicle)

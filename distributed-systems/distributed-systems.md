@@ -168,3 +168,4 @@
 - [Byztime](https://github.com/akamai-contrib/byztimed) - Byzantine-fault-tolerant protocol for synchronizing time among a group of peers, without reliance on any external time authority.
 - [Foundational distributed systems papers (2021)](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 - [Making reliable distributed systems in presence of software errors by Joe Armstrong (2003)](https://erlang.org/download/armstrong_thesis_2003.pdf)
+- [unitalk](https://github.com/hoorayman/unitalk) - Distributed chat system which can be used as chat rooms or state synchronization.

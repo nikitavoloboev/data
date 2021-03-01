@@ -203,6 +203,7 @@
 - [io-uring](https://github.com/tokio-rs/io-uring) - Linux IO Uring.
 - [shmem-ipc](https://github.com/diwic/shmem-ipc) - Rust high-performance communication between untrusted processes on Linux.
 - [perf-event](https://github.com/jimblandy/perf-event) - Rust interface to Linux performance monitoring.
+- [RedBPF](https://github.com/ingraind/redbpf) - Rust library for building and running BPF/eBPF modules.
 
 ## ML
 

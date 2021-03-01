@@ -44,3 +44,4 @@
 - [Large-Scale Geo-Replicated Conflict-free Replicated Data Types](https://www.gsd.inesc-id.pt/~ler/reports/carlosbartolomeu-midterm.pdf)
 - [CRDT notes](https://github.com/pfrazee/crdt_notes)
 - [syncpad](https://github.com/Nishimura-Katsuo/syncpad) - CRDT-based collaborative source code editor (featuring the Monaco editor).
+- [Verifying Strong Eventual Consistency in δ-CRDTs](https://github.com/ttaylorr/thesis)

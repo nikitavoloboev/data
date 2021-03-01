@@ -178,6 +178,7 @@ Below is a list of extensions I use.
 - [VS Code Folder Source Actions](https://github.com/mjbvz/vscode-folder-source-actions) - Adds a context menu that allows you to apply VS Code's organize imports code action to all files in a folder.
 - [Flow](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - Flow support.
 - [Abracadabra](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra) - Automated refactorings for VS Code (JS & TS). ([Code](https://github.com/nicoespeon/abracadabra))
+- [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite) - VS Code for Vite. ([Code](https://github.com/antfu/vscode-vite))
 
 ## React
 
