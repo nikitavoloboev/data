@@ -49,3 +49,4 @@
 - [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) ([HN](https://news.ycombinator.com/item?id=26012189))
 - [How to Break into Product Management (2019)](https://blog.awaxman.com/how-to-break-into-product-management)
 - [Source of a lot of bad product decisions](https://twitter.com/danhockenmaier/status/1363203012815020032)
+- [Product Manager's Guide](https://gumroad.com/l/WGHXJ/sp33u1d)

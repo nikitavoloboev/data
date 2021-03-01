@@ -20,3 +20,4 @@
 - [YUE](https://github.com/maierfelix/YUE) - Personal WebGPU based 3D renderer.
 - [WebGPU Clustered Shading](https://github.com/toji/webgpu-clustered-shading)
 - [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
+- [WebGPU Examples](https://github.com/crowlKats/webgpu-examples)
