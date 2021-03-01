@@ -436,3 +436,4 @@ Go promotes composition over inheritance.
 - [Generics in Go Tutorial (2021)](https://bitfieldconsulting.com/golang/generics)
 - [Go is not an easy language (2021)](https://www.arp242.net/go-easy.html) ([HN](https://news.ycombinator.com/item?id=26220693)) ([Lobsters](https://lobste.rs/s/ee6nsc/go_is_not_easy_language))
 - [Exploring "io/fs" to Improve Test Performance and Testability (2021)](https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance)
+- [In Go-land you pay even for what you don't use (2021)](https://notes.volution.ro/v1/2021/02/notes/378ae6f6/)

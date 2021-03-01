@@ -12,3 +12,5 @@
 - [Tabletop Audio](https://tabletopaudio.com/) - Ambiences and Music for Tabletop Role Playing Games.
 - [myNoise](https://mynoise.net/) - Focus. Relax. Sleep.
 - [Ryuichi Sakamoto - solari](https://www.youtube.com/watch?v=n6OqLXvri3M)
+- [Music To Program To](https://alangrow.com/blog/music-to-program-to)
+- [The Dive - Peter Gregson](https://open.spotify.com/track/01hFM9dS9M6lN4rUvo4A2u?si=wxMth1B9RESvGLy7XDJj6w)

@@ -68,3 +68,4 @@
 - [Structural and pure attributes](https://minimalmodeling.substack.com/p/structural-and-pure-attributes)
 - [Cache-Tries: O(1) Concurrent Lock-Free Hash Tries (2018)](http://aleksandar-prokopec.com/resources/docs/p137-prokopec.pdf)
 - [Lockless algorithms for mere mortals (2020)](https://lwn.net/Articles/827180/)
+- [Notes on Data Structures and Programming Techniques (2021)](https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)

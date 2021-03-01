@@ -51,3 +51,5 @@
 - [Lua and Python (2020)](https://lwn.net/Articles/812122/) ([HN](https://news.ycombinator.com/item?id=25794374)) ([Lobsters](https://lobste.rs/s/2lpxqj/lua_python))
 - [luapower](https://luapower.com/) - LuaJIT distribution. ([GitHub](https://github.com/luapower))
 - [Penlight](https://github.com/lunarmodules/Penlight) - Useful pure Lua modules, focusing on input data handling, functional programming and OS path management.
+- [StyLua](https://github.com/JohnnyMorganz/StyLua) - Opinionated Lua code formatter.
+- [Full Moon](https://github.com/Kampfkarren/full-moon) - Lossless Lua 5.1 parser.

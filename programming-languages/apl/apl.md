@@ -36,3 +36,4 @@
 - [Elementary Functions (1966)](https://www.jsoftware.com/papers/Elementary_Functions.pdf) - Book that uses APL to illustrate mathematics.
 - [Algebra: An Algorithmic Treatment](https://www.jsoftware.com/books/pdf/algebra.pdf)
 - [Does APL Need a Type System? (2018)](https://www.youtube.com/watch?v=z8MVKianh54)
+- [APL Seeds](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds21.htm) - Event for those just starting their APL journey.

@@ -15,3 +15,4 @@
 - [A bird feeder that accepts bottle caps for food](https://www.boredpanda.com/magpies-recycling-machine-bottle-caps/) ([HN](https://news.ycombinator.com/item?id=25180662))
 - [Bird Buddy](https://mybirdbuddy.com/) - Smart Bird Feeder.
 - [Bird-Watching Goes Both Ways (2021)](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/) ([HN](https://news.ycombinator.com/item?id=26230862))
+- [Sialis](http://www.sialis.org/index.html) - Helping Bluebirds and Other Small Cavity Nesters Survive and Thrive.

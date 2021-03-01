@@ -19,3 +19,4 @@
 - [pysox](https://github.com/rabitt/pysox) - Python wrapper around SoX.
 - [Digital signal processing theory](https://github.com/capitanov/dsp-theory) - Theory of digital signal processing (DSP): signals, filtration (IIR, FIR, CIC, MAF), transforms (FFT, DFT, Hilbert, Z-transform) etc.
 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/)
+- [MIT: Digital Signal Processing (2011)](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/)

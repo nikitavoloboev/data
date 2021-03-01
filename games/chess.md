@@ -75,3 +75,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Trapped Knights (2019)](https://www.moll.dev/projects/trapped-knights/)
 - [Mayhem in the Møller Attack (2021)](https://www.youtube.com/watch?v=y9Oq0JoWow4)
 - [Tord Romstad - How Modern Chess Programs Work](https://vimeo.com/216463393)
+- [Basic Chess Openings Explained (2020)](https://www.youtube.com/watch?v=8IlJ3v8I4Z8)
+- [How To Learn & Study Chess Openings (2021)](https://www.youtube.com/watch?v=6IegDENuxU4)

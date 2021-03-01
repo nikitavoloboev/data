@@ -142,3 +142,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [strongarm](https://github.com/datatheorem/strongarm) - Full-featured, cross-platform ARM64 Mach-O analysis library.
 - [macbac](https://github.com/hazcod/macbac) - Lists, controls and schedules efficient APFS snapshots for your convenience.
 - [UTM](https://mac.getutm.app/) - Virtual machines for Mac.
+- [Use Touch ID for Sudo on Mac (2021)](https://davidwalsh.name/touch-sudo) ([HN](https://news.ycombinator.com/item?id=26302139))

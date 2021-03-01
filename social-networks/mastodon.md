@@ -18,3 +18,4 @@
 - [Adding comments to your static blog with Mastodon (2020)](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/) ([HN](https://news.ycombinator.com/item?id=25570268))
 - [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon, Pleroma and Misskey API client library for node.js and browser.
 - [Hyperspace Desktop](https://github.com/hyperspacedev/hyperspace) - Beautiful, fluffy client for Mastodon in React + TypeScript.
+- [Mastodon: what are your accounts and who do you recommend? (2021)](https://lobste.rs/s/w9a9xr/mastodon_what_are_your_accounts_who_do_you)

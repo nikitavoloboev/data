@@ -345,3 +345,4 @@
 - [Why is it so hard to see code from 5 minutes ago? (2021)](https://web.eecs.utk.edu/~azh/blog/yestercode.html) ([HN](https://news.ycombinator.com/item?id=26187881)) ([Lobsters](https://lobste.rs/s/1339vj/why_is_it_so_hard_see_code_from_5_minutes_ago))
 - [How to write readable code (2021)](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html) ([Reddit](https://www.reddit.com/r/coding/comments/lr949i/how_to_write_readable_code/))
 - [The Complete Guide to Feature Flags (2021)](https://codeahoy.com/2021/02/27/feature-flags/)
+- [Building Better Code Review at Heap (2021)](https://heap.io/blog/engineering/building-better-code-review-at-heap)
