@@ -17,3 +17,4 @@
 - [Bird-Watching Goes Both Ways (2021)](https://www.altaonline.com/dispatches/a34762846/los-angeles-bird-watching-jason-g-goldman/) ([HN](https://news.ycombinator.com/item?id=26230862))
 - [Sialis](http://www.sialis.org/index.html) - Helping Bluebirds and Other Small Cavity Nesters Survive and Thrive.
 - [Bird Per Hour Twitter](https://twitter.com/BirdPerHour)
+- [The State Birds are Garbage (2021)](https://www.youtube.com/watch?v=JAZI5GcPm8c) ([Reddit](https://www.reddit.com/r/videos/comments/lw4xtq/the_state_birds_are_garbage/))

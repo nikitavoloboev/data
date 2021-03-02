@@ -346,3 +346,4 @@
 - [How to write readable code (2021)](http://jeremymikkola.com/posts/2021_02_02_how_to_write_readable_code.html) ([Reddit](https://www.reddit.com/r/coding/comments/lr949i/how_to_write_readable_code/))
 - [The Complete Guide to Feature Flags (2021)](https://codeahoy.com/2021/02/27/feature-flags/)
 - [Building Better Code Review at Heap (2021)](https://heap.io/blog/engineering/building-better-code-review-at-heap)
+- [Feedback Ladders: How We Encode Code Reviews at Netlify (2020)](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) ([HN](https://news.ycombinator.com/item?id=26319865))

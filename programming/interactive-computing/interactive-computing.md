@@ -28,3 +28,5 @@
 - [curvenote/article](https://github.com/curvenote/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 - [curvenote.dev](https://curvenote.dev/) - Interactive Scientific Writing.
 - [Playbit](https://playb.it/) - Computing environment which encourages playful learning, building & sharing of software.
+- [Paper Programs](https://paperprograms.org/) - Browser-based system for running programs on pieces of paper.
+- [Dynamicland](https://dynamicland.org/) - Our mission is to incubate a humane dynamic medium whose full power is accessible to all people.

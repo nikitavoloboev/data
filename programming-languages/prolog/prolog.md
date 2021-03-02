@@ -28,3 +28,4 @@
 - [The birth of Prolog (1992)](http://alain.colmerauer.free.fr/alcol/ArchivesPublications/PrologHistory/19november92.pdf) ([HN](https://news.ycombinator.com/item?id=26223906))
 - [Prolog Notes](https://github.com/dtonhofer/prolog_notes) - Some notes taken while working on Prolog.
 - [CLP(FD)](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains.
+- [Some Global Optimizations for a Prolog Compiler (1985)](https://core.ac.uk/download/pdf/82661515.pdf)

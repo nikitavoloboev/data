@@ -36,3 +36,4 @@
 - [How do computers work? (2021)](https://steveindusteves.substack.com/p/how-do-computers-work)
 - [How to Read Assembly Language (2021)](https://wolchok.org/posts/how-to-read-assembly-language/) ([HN](https://news.ycombinator.com/item?id=26311722))
 - [Top 10 Craziest Assembly Language Instructions (2021)](https://www.youtube.com/watch?v=Wz_xJPN7lAY)
+- [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)

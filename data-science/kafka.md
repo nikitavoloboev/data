@@ -33,3 +33,5 @@
 - [A review of Kafka books and tutorials (2021)](https://stambros.medium.com/the-ultimate-knowledge-trove-2bed285dc23e)
 - [Is Pulsar better than Kafka? (2020)](https://www.kai-waehner.de/blog/2020/06/09/apache-kafka-versus-apache-pulsar-event-streaming-comparison-features-myths-explored/)
 - [The Kafka API is great; now let's make it fast (2021)](https://vectorized.io/blog/fast-and-safe/)
+- [Kafka Rust Client](https://github.com/kafka-rust/kafka-rust)
+- [Kafka timers (2021)](https://wgtwo.com/blog/kafka-timers)

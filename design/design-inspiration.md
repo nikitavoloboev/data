@@ -486,6 +486,7 @@ Here are few more things I liked, design wise.
 - [Jacob Kaplan-Moss](https://jacobian.org/)
 - [Kohei Asai](https://axross.dev/)
 - [Inigo Quilez](https://www.iquilezles.org/)
+- [Project Nayuki](https://www.nayuki.io/)
 - [Sasha Greif](http://sachagreif.com/)
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)

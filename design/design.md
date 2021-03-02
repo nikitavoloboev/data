@@ -161,3 +161,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [State of Design in 2021](https://www.abstract.design/state-of-design)
 - [The Design Squiggle](https://thedesignsquiggle.com/) - Design process illustrated.
 - [archives.design](https://archives.design/) - Organized collection of graphic design related items that are available on the Internet Archives.
+- [Ouchhh](https://ouchhh.tv/) - German design studio.
+- [Interview with Rasmus Andersson](https://staff.design/rasmus-andersson)

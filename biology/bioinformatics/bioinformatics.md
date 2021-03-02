@@ -105,3 +105,4 @@
 - [TorchProteinLibrary](https://github.com/lupoglaz/TorchProteinLibrary) - PyTorch library of layers acting on protein representations.
 - [The Wilke Lab](https://wilkelab.org/) - Computational Evolutionary Biology.
 - [parasail](https://github.com/jeffdaily/parasail) - Pairwise Sequence Alignment Library.
+- [CellChat](https://github.com/sqjin/CellChat) - R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data.

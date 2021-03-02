@@ -30,3 +30,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Zsh Compinit ... RTFM (2018)](https://www.danielmoch.com/posts/2018/11/zsh-compinit-rtfm/) - Optimizing Zsh startup time.
 - [Mastering Zsh](https://github.com/rothgar/mastering-zsh) - Advanced topics to take advantage of zsh.
 - [Zsh Tricks to Blow Your Mind (2021)](https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind) ([HN](https://news.ycombinator.com/item?id=26175894))
+- [sandboxd](https://github.com/benvan/sandboxd) - Speed up your bashrc / zshrc: avoids running (slow) setup commands until you actually need them.
