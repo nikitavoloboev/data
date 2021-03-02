@@ -63,6 +63,7 @@
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software. ([Web](https://lmms.io/))
 - [Ardour](https://ardour.org/) - Digital audio workstation.
 - [orenolisp](https://github.com/illiichi/orenolisp) - Structural clojure editor for producing sound using Overtone.
+- [WadJS](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 
 ## Inspiration
 

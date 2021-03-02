@@ -477,6 +477,7 @@
 - [gifenc](https://github.com/mattdesl/gifenc) - Fast and lightweight pure-JavaScript GIF encoder.
 - [tldts](https://github.com/remusao/tldts) - Blazing Fast URL Parsing.
 - [Barba.js](https://github.com/barbajs/barba) - Easy-to-use library that helps you create fluid and smooth transitions between your website's pages.
+- [Shuffle.js](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items. ([Web](https://vestride.github.io/Shuffle/))
 
 ## Links
 

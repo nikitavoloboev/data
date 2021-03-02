@@ -173,3 +173,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum Isn't Fun Anymore (2021)](https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/) ([HN](https://news.ycombinator.com/item?id=26222709))
 - [Hyperledger Burrow](https://github.com/hyperledger/burrow) - Permissioned Ethereum smart-contract blockchain node. ([Docs](https://hyperledger.github.io/burrow/#/))
 - [Scaling Ethereum One Tx At A Time](https://rugpullindex.com/blog#ScalingEthereumOneTxAtATime)
+- [TypeChain](https://github.com/ethereum-ts/TypeChain) - TypeScript bindings for Ethereum smart contracts.
