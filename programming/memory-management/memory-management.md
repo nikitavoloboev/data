@@ -35,3 +35,4 @@
 - [Generational references faster than reference counting (2021)](https://vale.dev/blog/generational-references) ([Lobsters](https://lobste.rs/s/sglvcc/generational_references_2_3x_faster_than))
 - [When allocators are hoarding your precious memory (2021)](https://www.algolia.com/blog/engineering/when-allocators-are-hoarding-your-precious-memory/)
 - [Writing a Simple Garbage Collector in C (2020)](https://maplant.com/gc.html) ([Lobsters](https://lobste.rs/s/dd8k4k/writing_simple_garbage_collector_c_2020))
+- [A look into Automatic Reference Counting (2021)](https://neelbakshi.medium.com/a-look-into-automatic-reference-counting-b17e9539d34f)
