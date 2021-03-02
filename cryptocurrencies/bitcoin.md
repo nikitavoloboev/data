@@ -123,3 +123,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning) - Bitcoin Lightning library written in Rust.
 - [BTC-Parachain](https://github.com/interlay/btc-parachain) - Trust-minimized bridge from Bitcoin to Polkadot.
 - [PolkaBTC](https://github.com/interlay/polkabtc-ui) - Trustless and open DeFi access for your Bitcoin.
+- [Bitcoin: The Postmodern Ponzi (2021)](https://www.stephendiehl.com/blog/ponzi.html)

@@ -161,6 +161,7 @@
 - [Bumbag](https://bumbag.style/) - Friendly React UI Kit suitable for MVPs or large-scale applications. ([Code](https://github.com/bumbag/bumbag-ui))
 - [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React. ([Web](https://ractive-player.org/))
 - [Slang](https://github.com/tone-row/slang) - Theme-able react component library for fast UI development.
+- [React-Menu](https://github.com/szhsin/react-menu) - Accessible, responsive, and customizable React menu library.
 
 ## Links
 

@@ -154,3 +154,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Quick Starts](https://aws-quickstart.github.io/) - Quick Start Contributor's Guide. ([Code](https://github.com/aws-quickstart/quickstart-superwerker))
 - [How they AWS](https://github.com/upgundecha/howtheyaws)
 - [What’s New at AWS](https://aws.amazon.com/new/)
+- [Awesome AWS Chalice](https://github.com/magnataurconsulting/awesome-chalice)

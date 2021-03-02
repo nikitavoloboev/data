@@ -84,3 +84,4 @@
 - [Cloudflare DDNS](https://github.com/timothymiller/cloudflare-ddns) - Access your home network remotely via a custom domain name without a static IP.
 - [DNS lookup tool](https://dns-lookup.jvns.ca/) ([Code](https://github.com/jvns/dns-lookup)) ([Article](https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/))
 - [dnc (Domain Name Checker)](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration.
+- [ZDNS](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool.

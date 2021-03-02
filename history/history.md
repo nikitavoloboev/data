@@ -96,3 +96,4 @@
 - [What World War I Can Teach Us about Misjudging Tech and Social Change (2020)](https://www.carnegie.org/topics/topic-articles/emerging-global-order/1920-2020-what-the-history-of-world-war-1-can-teach-us-about-misjudging-tech-social-change/) ([HN](https://news.ycombinator.com/item?id=26171904))
 - [Who did the Anglo-Saxons think they were?](https://www.archaeology.co.uk/articles/who-did-the-anglo-saxons-think-they-were.htm) ([HN](https://news.ycombinator.com/item?id=26175972))
 - [The Cold War - OverSimplified](https://www.youtube.com/watch?v=I79TpDe3t2g&t=2s)
+- [A Brief History of Yesterday](https://abriefhistoryofyesterday.com/) - Brief overview of yesterday's world events.

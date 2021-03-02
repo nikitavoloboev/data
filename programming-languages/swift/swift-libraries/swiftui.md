@@ -126,3 +126,4 @@
 - [Triple Trouble (2021)](https://kean.blog/post/triple-trouble) - Minimal example of three-column navigation for iPad and macOS using SwiftUI. ([Code](https://github.com/kean/ThreeColumnNavigation))
 - [Building cool apps with SwiftUI](https://github.com/FranckNdame/swiftui.builds)
 - [AppKit is done – macOS and SwiftUI (2021)](https://kean.blog/post/appkit-is-done)
+- [HotSwiftUI](https://github.com/johnno1962/HotSwiftUI) - Utilities for Hot Reloading SwiftUI apps.

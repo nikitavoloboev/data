@@ -43,3 +43,4 @@
 - [democracyData](https://xmarquez.github.io/democracyData/) - Access and manipulate most available democracy datasets. ([Code](https://github.com/xmarquez/democracyData))
 - [How the Hell Do You Govern in a Complex World (2020)](https://howthehell.substack.com/p/govern-complex-world) ([HN](https://news.ycombinator.com/item?id=26138224))
 - [The most important part of modern government is database management (2021)](https://twitter.com/rcolvile/status/1361673425140543490) ([HN](https://news.ycombinator.com/item?id=26159540))
+- [CryptoBallot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting. ([Web](https://cryptoballot.com/))
