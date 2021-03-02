@@ -133,6 +133,7 @@
 - [Using fetch with TypeScript (2021)](https://kentcdodds.com/blog/using-fetch-with-type-script)
 - [Bad TypeScript Habits](https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/) ([HN](https://news.ycombinator.com/item?id=26005330))
 - [TypeScript Function Syntaxes (2021)](https://kentcdodds.com/blog/typescript-function-syntaxes)
+- [How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan (2021)](https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7) ([HN](https://news.ycombinator.com/item?id=26314756))
 
 ## Images
 

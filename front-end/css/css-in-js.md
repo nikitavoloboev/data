@@ -34,3 +34,4 @@
 - [System Props](https://github.com/roginfarrer/system-props) - Inspired by styled-system, a responsive, theme-based style props for building design systems with React. ([Web](https://system-props.com/))
 - [The styled-components happy path (2021)](https://www.joshwcomeau.com/css/styled-components/)
 - [CSS-in-TS research analysis](https://github.com/andreipfeiffer/css-in-js)
+- [theme-in-css](https://github.com/pveyes/theme-in-css) - Type-safe CSS custom properties (CSS variables) for theming purpose.

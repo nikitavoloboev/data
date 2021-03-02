@@ -34,5 +34,5 @@
 - [Learning to Read x86 Assembly Language (2016)](http://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language)
 - [Wiz](https://github.com/wiz-lang/wiz) - High-level assembly language for writing homebrew software for retro console platforms.
 - [How do computers work? (2021)](https://steveindusteves.substack.com/p/how-do-computers-work)
-- [How to Read Assembly Language (2021)](https://wolchok.org/posts/how-to-read-assembly-language/)
+- [How to Read Assembly Language (2021)](https://wolchok.org/posts/how-to-read-assembly-language/) ([HN](https://news.ycombinator.com/item?id=26311722))
 - [Top 10 Craziest Assembly Language Instructions (2021)](https://www.youtube.com/watch?v=Wz_xJPN7lAY)

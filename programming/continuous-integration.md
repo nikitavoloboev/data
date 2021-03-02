@@ -37,3 +37,4 @@
 - [Setting up a CI system part 1: Preparing your test machines (2021)](http://www.mupuf.org/blog/2021/02/08/setting-up-a-ci-system-preparing-your-test-machine/)
 - [Delta CI](https://deltaci.com/) - Bare Metal CI/CD with much faster builds. ([HN](https://news.ycombinator.com/item?id=26167222))
 - [ProgressiveDeliveryConf 2021](https://progressivedeliveryconf21.heysummit.com/) - Learn how to go beyond CI/CD.
+- [The Tao of Continuous Integration (2021)](https://blog.trailofbits.com/2021/02/26/the-tao-of-continuous-integration/)

@@ -12,4 +12,4 @@
 - [Cowgol](https://github.com/davidgiven/cowgol) - Self-hosted Ada-inspired programming language for very small systems.
 - [Ada Improvements Ideas](https://github.com/Entomy/Ada-Improvements)
 - [HAC](https://github.com/zertovitch/hac) - Experimental Ada compiler, fully in Ada. ([Web](https://hacadacompiler.sourceforge.io/))
-- [Giving Ada a chance (2021)](https://ajxs.me/blog/Giving_Ada_a_chance.html) ([Lobsters](https://lobste.rs/s/cktczx/giving_ada_chance))
+- [Giving Ada a chance (2021)](https://ajxs.me/blog/Giving_Ada_a_chance.html) ([Lobsters](https://lobste.rs/s/cktczx/giving_ada_chance)) ([HN](https://news.ycombinator.com/item?id=26302344))

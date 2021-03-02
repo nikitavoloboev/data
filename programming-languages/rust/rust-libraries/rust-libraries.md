@@ -773,6 +773,7 @@
 - [cargo makedocs](https://github.com/Bunogi/cargo-makedocs) - Cargo subcommand to build documentation for development easier.
 - [cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide some options useful for testing and continuous integration.
 - [probe-run](https://github.com/knurling-rs/probe-run) - Run embedded programs just like native ones.
+- [cargo-up](https://github.com/pksunkara/cargo-up) - Automatically upgrade breaking changes.
 
 ## Links
 

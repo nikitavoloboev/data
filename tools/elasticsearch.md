@@ -22,3 +22,4 @@
 - [AWS announces forks of Elasticsearch and Kibana (2021)](https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/) ([HN](https://news.ycombinator.com/item?id=25865094))
 - [Elasticsearch Optimizations at Lyft (2021)](https://eng.lyft.com/elasticsearch-optimizations-at-lyft-b555dc020932)
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk)
+- [ClickHouse as an alternative to Elasticsearch for log storage and analysis (2021)](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) ([HN](https://news.ycombinator.com/item?id=26316401))

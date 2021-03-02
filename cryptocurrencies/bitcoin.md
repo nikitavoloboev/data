@@ -124,3 +124,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [BTC-Parachain](https://github.com/interlay/btc-parachain) - Trust-minimized bridge from Bitcoin to Polkadot.
 - [PolkaBTC](https://github.com/interlay/polkabtc-ui) - Trustless and open DeFi access for your Bitcoin.
 - [Bitcoin: The Postmodern Ponzi (2021)](https://www.stephendiehl.com/blog/ponzi.html)
+- [Bitcoin Is Time (2021)](https://dergigi.com/2021/01/14/bitcoin-is-time/) ([HN](https://news.ycombinator.com/item?id=26315923))

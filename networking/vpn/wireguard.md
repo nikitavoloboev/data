@@ -31,3 +31,4 @@
 - [My Automagic NixOS Wireguard Setup (2021)](https://christine.website/blog/my-wireguard-setup-2021-02-06)
 - [WireGuard Manager](https://github.com/complexorganizations/wireguard-manager) - Self-hosted Wireguard Manager.
 - [Kilo](https://github.com/squat/kilo) - Multi-cloud network overlay built on WireGuard and designed for Kubernetes. ([Web](https://kilo.squat.ai/))
+- [SSH and User-mode IP WireGuard (2021)](https://fly.io/blog/ssh-and-user-mode-ip-wireguard/) ([HN](https://news.ycombinator.com/item?id=26315695))

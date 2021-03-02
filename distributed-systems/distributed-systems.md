@@ -169,3 +169,4 @@
 - [Foundational Distributed Systems Papers (2021)](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html) ([HN](https://news.ycombinator.com/item?id=26292627))
 - [Making reliable distributed systems in presence of software errors by Joe Armstrong (2003)](https://erlang.org/download/armstrong_thesis_2003.pdf)
 - [unitalk](https://github.com/hoorayman/unitalk) - Distributed chat system which can be used as chat rooms or state synchronization.
+- [Maelstrom](https://github.com/jepsen-io/maelstrom) - Workbench for learning distributed systems by writing your own.
