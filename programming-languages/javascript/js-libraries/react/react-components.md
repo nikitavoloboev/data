@@ -162,6 +162,7 @@
 - [ractive-player](https://github.com/ysulyma/ractive-player) - Library for interactive videos in React. ([Web](https://ractive-player.org/))
 - [Slang](https://github.com/tone-row/slang) - Theme-able react component library for fast UI development.
 - [React-Menu](https://github.com/szhsin/react-menu) - Accessible, responsive, and customizable React menu library.
+- [Leva](https://github.com/pmndrs/leva) - React-first components GUI.
 
 ## Links
 

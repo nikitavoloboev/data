@@ -24,6 +24,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Bupstash](https://bupstash.io/) - Encrypted backups made easy. ([Code](https://github.com/andrewchambers/bupstash)) ([Introducing Bupstash](https://acha.ninja/blog/introducing_bupstash/)) ([Lobsters](https://lobste.rs/s/k5opww/introducing_bupstash))
 - [BlobBackup](https://blobbackup.com/) - Simple Backups to Any Storage.
 - [zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution. ([Docs](https://zrepl.github.io/))
+- [Linux Time Machine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups.
 
 ## Cloud Storage
 

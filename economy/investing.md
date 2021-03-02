@@ -160,3 +160,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Are You Trading or Gambling? (2021)](https://investinglessons.substack.com/p/are-you-trading-or-gambling) ([HN](https://news.ycombinator.com/item?id=26283650))
 - [Investments you own that you believe have the highest chance of 10X'ing in 5-10 years (2021)](https://www.reddit.com/r/investing/comments/lu6i2t/investments_you_own_that_you_believe_have_the/)
 - [M1 Chart](https://m1chart.com/) - Stock market adjusted for the US-dollar money supply. ([HN](https://news.ycombinator.com/item?id=26128388))
+- [IB-insync](https://github.com/erdewit/ib_insync) - Python sync/async framework for Interactive Brokers API.
