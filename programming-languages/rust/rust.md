@@ -420,3 +420,4 @@
 - [Macros in Rust: A tutorial with examples (2021)](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
 - [Rust const generics MVP hits beta (2021)](https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta.html) ([HN](https://news.ycombinator.com/item?id=26276449))
 - [Life in Differential Dataflow (2021)](https://materialize.com/life-in-differential-dataflow/)
+- [Rust Incubator](https://github.com/instrumentisto/rust-incubator) - Learning Rust step-by-step.

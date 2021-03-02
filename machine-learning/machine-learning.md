@@ -417,3 +417,5 @@
 - [Free Lunch for Few-shot Learning: Distribution Calibration (2020)](https://arxiv.org/abs/2101.06395) ([Code](https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration))
 - [Enlightening Guide to Machine Learning Interviews](https://github.com/alirezadir/machine-learning-interview-enlightener)
 - [How Machine Language Works (2021)](https://www.youtube.com/watch?v=HWpi9n2H3kE)
+- [Sliced Score Matching: A Scalable Approach to Density and Score Estimation (2019)](https://yang-song.github.io/blog/2019/ssm/)
+- [Accelerating Natural Gradient with Higher-Order Invariance (2018)](https://yang-song.github.io/blog/2018/geo/)

@@ -18,3 +18,4 @@
 - [Learning Differential Equations that are Easy to Solve (2020)](https://arxiv.org/abs/2007.04504) ([Code](https://github.com/jacobjinkelly/easy-neural-ode))
 - [heyoka](https://github.com/bluescarni/heyoka) - C++ library for ODE integration via Taylor's method and LLVM.
 - [Ordinary Differential Equations Course Notes](https://github.com/NanoScaleDesign/OrdinaryDifferentialEquations)
+- [Score-Based Generative Modeling through Stochastic Differential Equations (2021)](https://arxiv.org/abs/2011.13456) ([Code](https://github.com/yang-song/score_sde))

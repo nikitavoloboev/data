@@ -17,3 +17,4 @@
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Functions Framework for Dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions.
 - [realtime-dart](https://github.com/supabase/realtime-dart) - Listens to changes in a PostgreSQL Database and via websockets.
+- [OverReact](https://github.com/Workiva/over_react) - Library for building statically-typed React UI components using Dart.

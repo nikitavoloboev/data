@@ -216,3 +216,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [English Style Guide](https://github.com/raywenderlich/english-style-guide)
 - [Writing Tips from the Masters](https://www.writingclasses.com/toolbox/tips-masters)
 - [On Writing More (2021)](https://ava.substack.com/p/on-writing-more) ([HN](https://news.ycombinator.com/item?id=26246619))
+- [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)

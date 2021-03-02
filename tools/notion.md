@@ -42,3 +42,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Perfect starter kit for building beautiful Next.js websites that are backed by Notion content.
 - [notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - Enhancer/customiser for the all-in-one productivity workspace Notion.
 - [Notion Dog](https://github.com/notiondog/notion.dog) - Turn your Notion pages into websites in minutes.
+- [Notion Clone](https://github.com/konstantinmuenster/notion-clone) - Create and Edit Notes like in Notion.

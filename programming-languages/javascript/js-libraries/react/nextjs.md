@@ -60,6 +60,7 @@
 - [next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules.
 - [Next.js S3 Upload](https://github.com/ryanto/next-s3-upload) - Upload files from your Next.js app to S3.
 - [NextStripe](https://github.com/ynnoj/next-stripe) - Simplified server-side Stripe workflows in Next.js
+- [next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi.
 
 ## Notes
 
