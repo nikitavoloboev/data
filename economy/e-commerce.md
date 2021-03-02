@@ -73,3 +73,4 @@
 - [Flagship](https://github.com/brandingbrand/flagship) - Accelerates development of the best omnichannel commerce experiences by providing a library of pre-built components and integrations.
 - [Top 90 Shopify Websites by Traffic](https://reviewbolt.com/top/shopify/) ([HN](https://news.ycombinator.com/item?id=26140934))
 - [Education & E-Commerce (with Rachael Thompson) (2021)](https://www.youtube.com/watch?v=gIZV6anVWnyI)
+- [VRS](https://github.com/vercel/vrs) - Serverless virtual reality e-commerce experience powered by Vercel. ([Web](https://serverless-vrs.now.sh/))

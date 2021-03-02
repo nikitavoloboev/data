@@ -53,3 +53,4 @@
 - [Penlight](https://github.com/lunarmodules/Penlight) - Useful pure Lua modules, focusing on input data handling, functional programming and OS path management.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) - Opinionated Lua code formatter.
 - [Full Moon](https://github.com/Kampfkarren/full-moon) - Lossless Lua 5.1 parser.
+- [Ravi](https://github.com/dibyendumajumdar/ravi) - Dialect of Lua, featuring limited optional static typing, JIT and AOT compilers. ([Web](http://ravilang.github.io/))

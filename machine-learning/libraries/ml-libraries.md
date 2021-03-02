@@ -125,3 +125,4 @@
 - [DESlib](https://github.com/scikit-learn-contrib/DESlib) - Python library for dynamic classifier and ensemble selection.
 - [BytePS](https://github.com/bytedance/byteps) - High performance and generic framework for distributed DNN training.
 - [Hyperactive](https://github.com/SimonBlanke/Hyperactive) - Hyperparameter optimization and meta-learning toolbox for convenient and fast prototyping of machine-learning models.
+- [Jittor](https://github.com/Jittor/jittor) - Just-in-time(JIT) deep learning framework.

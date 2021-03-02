@@ -21,3 +21,4 @@
 - [Feather CMS](https://github.com/BinaryBirds/feather) - Modern Swift-based content management system powered by Vapor 4.
 - [Directus](https://directus.io/) - Open-Source Headless CMS & API. ([Code](https://github.com/directus/directus))
 - [rwtxt](https://github.com/schollz/rwtxt) - CMS for absolute minimalists. ([Web](https://rwtxt.com/public)) ([Lobsters](https://lobste.rs/s/xrqaxh/schollz_rwtxt_cms_for_absolute))
+- [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))

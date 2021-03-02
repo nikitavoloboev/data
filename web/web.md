@@ -237,4 +237,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Keeping platforms open (2021)](https://seirdy.one/2021/02/23/keeping-platforms-open.html) ([Lobsters](https://lobste.rs/s/ur3eul/keeping_platforms_open))
 - [Lessons around creating UI builders (2021)](https://59bb.medium.com/lessons-around-creating-ui-builders-46ceeaea327f)
 - [Redbean](https://justine.lol/redbean/index.html) - Single-file distributable web server. ([HN](https://news.ycombinator.com/item?id=26271117)) ([Lobsters](https://lobste.rs/s/3emvqh/redbean_single_file_distributable_web)) ([Code](https://github.com/jart/cosmopolitan/blob/master/tool/net/redbean.c))
-- [The small web is beautiful (2021)](https://benhoyt.com/writings/the-small-web-is-beautiful/)
+- [The small web is beautiful (2021)](https://benhoyt.com/writings/the-small-web-is-beautiful/) ([Lobsters](https://lobste.rs/s/d6qwff/small_web_is_beautiful))

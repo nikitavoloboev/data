@@ -189,3 +189,4 @@
 - [C++ build systems: our transition from CMake to Meson (2021)](https://rosemanlabs.com/blog/build-system.html)
 - [A Case Against Blind Use of C++ Parallel Algorithms (2021)](https://www.accu.org/journals/overload/29/161/teodorescu/)
 - [How To Stay Sane with Modern C++ (2020)](https://www.cppstories.com/2017/02/how-to-stay-sane-with-modern-c/)
+- [NativeJIT](https://github.com/BitFunnel/NativeJIT) - C++ expression -> x64 JIT.

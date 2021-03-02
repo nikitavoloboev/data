@@ -147,3 +147,6 @@
 - [Teaching Compilers Backward (2021)](https://blog.sigplan.org/2021/02/23/teaching-compilers-backward/) ([HN](https://news.ycombinator.com/item?id=26237368))
 - [Compiler versus Transpiler: what is a compiler, anyway?](https://hisham.hm/2021/02/25/compiler-versus-transpiler-what-is-a-compiler-anyway/)
 - [Inlining and Compiler Optimizations (2021)](https://wolchok.org/posts/inlining-and-compiler-optimizations/)
+- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
+- [JitFromScratch](https://github.com/weliveindetail/JitFromScratch) - Example project from my talks in the LLVM Social Berlin and C++ User Group.
+- [Interpreter, Compiler, JIT (2015)](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/) ([Code](https://github.com/jserv/jit-construct))
