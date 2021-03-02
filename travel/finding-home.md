@@ -44,3 +44,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Free Land – Living Off Grid With No Money (2020)](https://offgridpermaculture.com/Finding_Land/Free_Land___Living_Off_Grid_With_No_Money.html) ([HN](https://news.ycombinator.com/item?id=26281103))
 - [Off Grid Permaculture](https://offgridpermaculture.com/index.html) - Educational project designed to assist those seeking to develop a sustainable, self-sufficient lifestyle.
 - [A new chapter – full-time working from a van in a forest (2021)](https://ghuntley.com/a-new-chapter/) ([HN](https://news.ycombinator.com/item?id=26284635))
+- [IKEA Tiny House](https://www.architecturaldigest.com/story/ikea-tiny-house)

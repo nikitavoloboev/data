@@ -240,6 +240,7 @@
 - [Automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module.
 - [Aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js.
 - [Velcro](https://github.com/peterjoel/velcro) - Macros for conveniently initializing collections from Rust's std and iterators.
+- [if_chain](https://github.com/lambda-fairy/if_chain) - Macro for writing nested `if let` expressions.
 
 ## Other
 
