@@ -134,3 +134,4 @@
 - [Graphics Programming Weekly](https://www.jendrikillner.com/tags/weekly/) ([HN](https://news.ycombinator.com/item?id=26134854))
 - [Ask HN: How to self-learn graphics programming? (2021)](https://news.ycombinator.com/item?id=26156783)
 - [A Guide to the Graphics of the Sega Mega Drive / Genesis](https://rasterscroll.com/mdgraphics/)
+- [Computing gradients on grids of pixels and voxels – forward, central, and… diagonal differences (2021)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)

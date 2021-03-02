@@ -14,3 +14,4 @@
 - [The mechanics and psychology behind The Social Dilemma (2020)](https://medium.com/@jeff_seibert/the-mechanics-and-psychology-behind-the-social-dilemma-719d618aa8ce)
 - [Talking out loud to yourself is a technology for thinking (2020)](https://psyche.co/ideas/talking-out-loud-to-yourself-is-a-technology-for-thinking)
 - [Lorien Psychiatry](https://lorienpsych.com/) - Psychiatry practice by Scott Siskind.
+- [Humans are imitation machines](https://twitter.com/david_perell/status/1365445813644783617)

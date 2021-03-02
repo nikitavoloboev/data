@@ -218,6 +218,8 @@
 - [Cassette](https://github.com/JuliaLabs/Cassette.jl) - Lets you easily extend the Julia language by directly injecting the Julia compiler with new, context-specific behaviors.
 - [Evolutionary](https://github.com/wildart/Evolutionary.jl) - Evolutionary & genetic algorithms for Julia.
 - [REPLMaker](https://github.com/MasonProtter/ReplMaker.jl) - Tool for building (domain specific) languages in Julia.
+- [LLVM.jl](https://github.com/maleadt/LLVM.jl) - Julia wrapper for the LLVM C API.
+- [oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
 
 ## Links
 

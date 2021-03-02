@@ -228,3 +228,4 @@
 - [Terraform module for scalable self hosted GitHub action runners](https://github.com/philips-labs/terraform-aws-github-runner)
 - [Go crazy with GitHub Actions (2021)](https://sanderknape.com/2021/01/go-crazy-github-actions/)
 - [Arduino GitHub Actions](https://github.com/arduino/actions)
+- [Setup Continuous Delivery with GitHub Actions (2021)](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)

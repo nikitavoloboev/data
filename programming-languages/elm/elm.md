@@ -21,6 +21,7 @@
 - [The Syntax Cliff: Teaching syntax with Elm 0.19.1](https://elm-lang.org/news/the-syntax-cliff) ([HN](https://news.ycombinator.com/item?id=21312109))
 - [Building an Elm app from scratch video series (2019)](https://www.youtube.com/watch?v=-1ZA3G9k0Rw&list=PLGDf0elkI13EJ55MbwZd98scG7BKl_n-j)
 - [Elm Cheat Sheet](https://github.com/izdi/elm-cheat-sheet)
+- [Elm Cheat Sheet Visual](https://lucamug.github.io/elm-cheat-sheet/) ([Code](https://github.com/lucamug/elm-cheat-sheet))
 - [Elm Home Page source code](https://github.com/elm/elm-lang.org)
 - [The Biggest Problem with Elm (2019)](https://medium.com/@cscalfani/the-biggest-problem-with-elm-4faecaa58b77)
 - [A Farewell to FRP. Making signals unnecessary with The Elm Architecture (2016)](https://elm-lang.org/news/farewell-to-frp)

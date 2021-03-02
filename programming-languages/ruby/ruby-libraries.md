@@ -7,6 +7,7 @@
 ## DB
 
 - [Sequel](https://github.com/jeremyevans/sequel) - Database Toolkit for Ruby.
+- [BatchLoader](https://github.com/exAspArk/batch-loader) - Powerful tool for avoiding N+1 DB or HTTP queries.
 
 ## Web
 

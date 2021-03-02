@@ -208,4 +208,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [The Programmable Data Plane Reading List](https://programmabledataplane.review/)
 - [Ridiculous Router Resets (2021)](https://cucurbit.dev/posts/ridiculous-router-resets/)
 - [Curl Cookbook](https://catonmat.net/cookbooks/curl)
-- [Splitting the ping (2021)](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split) ([Lobsters](https://lobste.rs/s/ehzayd/splitting_ping))
+- [Splitting the ping (2021)](https://blog.benjojo.co.uk/post/ping-with-loss-latency-split) ([Lobsters](https://lobste.rs/s/ehzayd/splitting_ping)) ([Code](https://github.com/benjojo/sping))

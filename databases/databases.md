@@ -312,3 +312,4 @@
 - [Grouparoo](https://www.grouparoo.com/) - Open Source Data Synchronization Framework. ([Code](https://github.com/grouparoo/grouparoo)) ([HN](https://news.ycombinator.com/item?id=26276917))
 - [How to Efficiently Choose the Right Database for Your Applications (2021)](https://pingcap.com/blog/how-to-efficiently-choose-the-right-database-for-your-applications) ([HN](https://news.ycombinator.com/item?id=26290252))
 - [MySQL from Below (2021)](https://blog.koehntopp.info/2021/02/25/mysql-from-below.html)
+- [Database Normalization in plain language for the working dev (with examples) (2021)](https://www.gatlin.io/guides/database-normalization)

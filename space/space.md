@@ -80,3 +80,5 @@
 - [Ask HN: What entry level telescope should I choose? (2021)](https://news.ycombinator.com/item?id=26231418)
 - [If Aliens Exist, Here’s How We’ll Find Them (2021)](https://nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them) ([HN](https://news.ycombinator.com/item?id=26262658))
 - [Mars Is No Earth (2021)](https://www.theatlantic.com/ideas/archive/2021/02/mars-is-no-earth/618133/) ([HN](https://news.ycombinator.com/item?id=26276381))
+- [Spaceprob.es](https://spaceprob.es/) - Catalogs the active human-made machines that freckle our solar system.
+- [Low Earth Orbit Visualization](https://platform.leolabs.space/visualization) ([HN](https://news.ycombinator.com/item?id=26309367))

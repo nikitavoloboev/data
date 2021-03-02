@@ -185,7 +185,7 @@
 - [Lower Your Guards: A Compositional Pattern-Match Coverage Checker](https://pp.ipd.kit.edu/uploads/publikationen/graf20lyg.pdf)
 - [Software Engineering Within SpaceX (2020)](https://yasoob.me/posts/software_engineering_within_spacex_launch/) ([HN](https://news.ycombinator.com/item?id=23403800))
 - [Ask HN: Are my expectations on code quality and professionalism too high? (2020)](https://news.ycombinator.com/item?id=23426574)
-- [Literate](https://github.com/zyedidia/Literate) - Literate programming tool for any language. ([Lobsters](https://lobste.rs/s/xd1flh/literate_literate_programming_tool_for))
+- [Literate](https://github.com/zyedidia/Literate) - Literate programming tool for any language. ([Web](https://zyedidia.github.io/literate/index.html)) ([Lobsters](https://lobste.rs/s/xd1flh/literate_literate_programming_tool_for))
 - [Ask HN: What is the ideal developer experience in 2020?](https://news.ycombinator.com/item?id=23455741)
 - [Lobsters: What's the ideal developer experience in 2020?](https://lobste.rs/s/c8o1hu/what_s_ideal_developer_experience_2020)
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html) ([Code](https://github.com/colin-scott/interactive_latencies)) ([HN](https://news.ycombinator.com/item?id=22166087))

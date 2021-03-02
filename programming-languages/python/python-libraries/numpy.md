@@ -16,3 +16,4 @@
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [RipTable](https://github.com/rtosholdings/riptable) - All in one, high performance 64 bit python analytics engine for numpy arrays with multithreaded support.
 - [Math Inspector](https://github.com/MathInspector/MathInspector) - Visual programing environment for scientific computing with python. Based on numpy & scipy. ([Web](https://mathinspector.com/))
+- [Rolling Quantiles for NumPy](https://github.com/marmarelis/rolling-quantiles)

@@ -190,3 +190,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Envalid](https://github.com/af/envalid) - Environment variable validation for Node.js.
 - [Express Typescript Boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - Delightful way to building a RESTful API with NodeJs & TypeScript.
 - [Bytenode](https://github.com/OsamaAbbas/bytenode) - Minimalist bytecode compiler for Node.js.
+- [rools](https://github.com/frankthelen/rools) - Small rule engine for Node.

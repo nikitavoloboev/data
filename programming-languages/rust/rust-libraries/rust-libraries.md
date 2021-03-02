@@ -18,6 +18,7 @@
 - [indicatif](https://github.com/mitsuhiko/indicatif) - Rust library for indicating progress in command line applications to users.
 - [xshell](https://github.com/matklad/xshell) - Provides a set of cross-platform utilities for writing ergonomic "bash" scripts.
 - [devx](https://github.com/elastio/devx) - Collection of utilities for writing your own dev scripts.
+- [RustyLine](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust.
 
 ## Web
 

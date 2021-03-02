@@ -35,3 +35,4 @@
 - [Wiz](https://github.com/wiz-lang/wiz) - High-level assembly language for writing homebrew software for retro console platforms.
 - [How do computers work? (2021)](https://steveindusteves.substack.com/p/how-do-computers-work)
 - [How to Read Assembly Language (2021)](https://wolchok.org/posts/how-to-read-assembly-language/)
+- [Top 10 Craziest Assembly Language Instructions (2021)](https://www.youtube.com/watch?v=Wz_xJPN7lAY)

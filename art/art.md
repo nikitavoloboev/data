@@ -187,6 +187,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
+- [Jackie Ferrentino](https://jackieferrentino.com/) ([IG](https://www.instagram.com/hullojackie/))
 - [Michael Kozlowski](https://www.instagram.com/mpkoz/)
 - [Alice Zhang](https://www.instagram.com/alicexz/)
 - [Marko Dieckmann](https://www.instagram.com/ionlands/)
@@ -273,6 +274,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
+- [John Wingfield](https://www.instagram.com/johnwingfield/)
 - [Maley](https://www.instagram.com/maleyphoto/)
 - [Daniel Casson](https://www.instagram.com/dpc_photography_/)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
@@ -402,3 +404,5 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Foundation](https://foundation.app/) - Creative playground for artists, curators and collectors to experience the new creative economy.
 - [Saatchi Art](https://www.saatchiart.com/) - Buy artwork online.
 - [A Guide to NFTs, and How They Are About to Revolutionize Pretty Much Everything (2021)](https://www.one37pm.com/grind/money/guide-to-nfts) ([HN](https://news.ycombinator.com/item?id=26259256))
+- [Do not participate in EFT art market until it is environmentally sustainable (2021)](https://twitter.com/HulloJackie/status/1366215215654838274)
+- [NFTs, FOMO and anxiety, a thread (2021)](https://twitter.com/Sekani__Solomon/status/1366411732474884101)

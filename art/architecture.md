@@ -6,6 +6,7 @@
 - [Tadao Ando](https://en.wikipedia.org/wiki/Tadao_Ando)
 - [Stéphane Beel](http://www.stephanebeel.com/index.html)
 - [George Nakashima](https://nakashimawoodworkers.com/)
+- [Olivetti](https://twitter.com/danrubin/status/1365899422698270721)
 
 ## Nice places
 
@@ -47,3 +48,5 @@
 - [Sverchok](https://github.com/nortikin/sverchok) - Powerful parametric tool for architects, allowing geometry to be programmed visually with nodes.
 - [Animation of how bridges were built in Central Europe in the Middle Ages](https://www.youtube.com/watch?v=nJgD6gyi0Wk) ([HN](https://news.ycombinator.com/item?id=24798302))
 - [ArchDaily](https://www.archdaily.com/) - Broadcasting Architecture Worldwide.
+- [Jason Statham’s Malibu Beach House Embodies His Connection to Nature](https://www.architecturaldigest.com/story/jason-statham-malibu-house) ([Tweet](https://twitter.com/chexee/status/1366407294829748226))
+- [Architectural Digest](https://www.architecturaldigest.com/) - Featuring the work of top architects and designers.

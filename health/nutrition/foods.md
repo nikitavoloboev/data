@@ -109,3 +109,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [farmOS](https://github.com/farmOS) - Web-based application for farm management, planning, and record keeping. ([GitHub](https://github.com/farmOS)) ([Code](https://github.com/farmOS/farmOS))
 - [Hi-Tech Vegetable Farm (2021)](http://ieatishootipost.sg/red-dot-farm/)
 - [My Food Data](https://www.myfooddata.com/) - Provides nutrition data tools and articles to empower you to create a better diet.
+- [What is your go to favorite healthy snack? (2021)](https://www.reddit.com/r/nutrition/comments/lvqlu5/what_is_your_go_to_favorite_healthy_snack/)

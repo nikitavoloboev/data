@@ -12,6 +12,7 @@
 - [Deep Dive into Marketplaces. High level overview.](https://twitter.com/eriktorenberg/status/1239278628682125312)
 - [Sarah Tavel - Consumer & Marketplace Investing (2020)](https://overcast.fm/+Lzu3idA2Y)
 - [Things to look for when evaluating a marketplace startup idea](https://twitter.com/lennysan/status/1276238543132569600)
+- [Everything Marketplaces](https://www.everythingmarketplaces.com/) - Community sharing insights & about everything marketplaces.
 - [The Guide To No Code Marketplaces](https://guides.everythingmarketplaces.com/)
 - [How to build a marketing plan from 0-1: beginner’s guide (2020)](https://twitter.com/AmandaMGoetz/status/1295393675481153538)
 - [The Marketplace Monetization Map: Complexity and Asymmetry (2020)](https://medium.com/breadcrumb/the-marketplace-monetization-map-complexity-and-asymmetry-529b70a830d7)

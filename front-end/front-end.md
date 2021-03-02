@@ -41,3 +41,4 @@
 - [Awesome Front End Security](https://github.com/rustcohlnikov/awesome-frontend-security)
 - [Front-end Challenges](https://github.com/felipefialho/frontend-challenges) - Testing your knowledge using real job challenges.
 - [I don't want to do front-end anymore (2021)](https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore) ([HN](https://news.ycombinator.com/item?id=26071906)) ([Lobsters](https://lobste.rs/s/vxasiq/i_don_t_want_do_front_end_anymore))
+- [Frontend Greatness](https://anchor.fm/frontend-greatness) - Podcast that helps frontend developers go from good to great.

@@ -175,3 +175,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Language Explorer](https://language.donghwi.dev/) - Explore 650+ programming languages, visualized based on paradigm influence relationships between languages.
 - [Brown University PLT](http://cs.brown.edu/research/plt/) ([GitHub](https://github.com/brownplt))
 - [DSL might be the answer (2021)](https://blog.royalsloth.eu/posts/dsl-might-be-the-answer/)
+- [PL Funding Panel with the Creators of Elm, Elixir, and Julia (2021)](https://www.youtube.com/watch?v=f0ouXATi25Iindex=8)
+- [#PLTalk - YouTube](https://www.youtube.com/playlist?list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1)

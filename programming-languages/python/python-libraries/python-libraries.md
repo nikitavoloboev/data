@@ -351,6 +351,8 @@
 - [squema](https://github.com/Funk66/squema) - Smarter data structures.
 - [traces](https://github.com/datascopeanalytics/traces) - Python library for unevenly-spaced time series analysis.
 - [Succinct](https://github.com/miiohio/succinct) - Compact, and compressed data structures for data-intensive applications.
+- [Shared Memory Dict](https://github.com/luizalabs/shared-memory-dict)
+- [Arrow](https://github.com/arrow-py/arrow) - Better dates & times for Python. ([HN](https://news.ycombinator.com/item?id=26282742))
 
 ## Links
 
