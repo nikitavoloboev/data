@@ -278,6 +278,7 @@
 - [XCResultKit](https://github.com/davidahouse/XCResultKit) - Swift interface for finding and parsing xcresult files that Xcode generates when running tests.
 - [simpreboot](https://github.com/drewcrawford/simpreboot) - Accelerate iOS simulator testing.
 - [Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
+- [Pages](https://github.com/nachonavarro/Pages) - Lightweight, paging view solution for SwiftUI.
 
 ## API
 

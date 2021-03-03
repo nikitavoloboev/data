@@ -230,3 +230,4 @@
 - [Handling Global Associative Arrays in PostgreSQL (2021)](https://www.migops.com/blog/2021/02/28/handling-global-associative-arrays-in-postgresql/)
 - [Time-Series Analytics for PostgreSQL: Introducing Timescale Analytics Project (2021)](https://blog.timescale.com/blog/time-series-analytics-for-postgresql-introducing-the-timescale-analytics-project/)
 - [PGConf.Online](https://pgconf.ru/en/) ([2021 Slides](https://github.com/dvarrazzo/psycopg3-pgconf-2021))
+- [Deploying PostgreSQL for High Availability with Patroni, etcd and HAProxy (2021)](https://digitalis.io/blog/postgresql/part1-postgresql-ha-patroni-etcd-haproxy/)

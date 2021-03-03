@@ -43,3 +43,4 @@
 - [An architectural overview for WebRTC — A protocol for implementing video conferencing (2021)](https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e)
 - [Kraken](https://github.com/MixinNetwork/kraken) - High performance WebRTC SFU implemented with pure Go.
 - [WebRTC for beginners; How calls work from the outside (2021)](https://itnext.io/webrtc-for-beginners-how-it-all-works-from-the-outside-3c806f582229)
+- [WebRTC Next Version Use Cases](https://w3c.github.io/webrtc-nv-use-cases/) ([Code](https://github.com/w3c/webrtc-nv-use-cases))

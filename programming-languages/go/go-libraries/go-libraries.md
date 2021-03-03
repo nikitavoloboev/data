@@ -746,6 +746,7 @@
 - [gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your Go code.
 - [go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Go library to provide a self-update mechanism to command line tools.
 - [btree](https://github.com/tidwall/btree) - Efficient B-tree implementation in Go.
+- [log](https://github.com/apex/log) - Structured logging package for Go.
 
 ## Links
 

@@ -73,3 +73,4 @@
 - [Yao](https://yaoquantum.org/) - Extensible, Efficient Quantum Algorithm Design For Humans. ([Code](https://github.com/QuantumBFS/Yao.jl))
 - [Experimental quantum homomorphic encryption (2021)](https://www.nature.com/articles/s41534-020-00340-8.pdf)
 - [Quantum Computation by John Preskill, Caltech (2020)](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
+- [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)

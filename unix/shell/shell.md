@@ -115,3 +115,5 @@ All active variables can be seen by running `env`.
 - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells) ([Lobsters](https://lobste.rs/s/bhqflt/alternative_shells))
 - [Run Python Code in a Shell Script (2021)](https://trstringer.com/python-in-shell-script/)
 - [murex](https://github.com/lmorg/murex) - Alternative shell with native support for JSON, YAML, TOML, CSV, etc. ([Web](https://murex.rocks/)) ([HN](https://news.ycombinator.com/item?id=26284294))
+- [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history.
+- [pimp](https://github.com/aymericbeaumet/pimp) - Give your shell commands superpowers.
