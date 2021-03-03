@@ -95,3 +95,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [How to destroy the Earth (2003)](https://qntm.org/destroy)
 - [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need by Bill Gates (2021)](https://www.goodreads.com/book/show/49007883)
 - [Will technology save us from climate change? (2021)](https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/) ([HN](https://news.ycombinator.com/item?id=26262667))
+- [Google 2020 environmental report](https://blog.google/outreach-initiatives/sustainability/2020-environmental-report/)

@@ -177,7 +177,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontello](https://fontello.com/) - Icon fonts generator. ([Code](https://github.com/fontello/fontello))
 - [lv_font_conv](https://github.com/lvgl/lv_font_conv) - Converts TTF/WOFF fonts to compact bitmap format.
 - [Typogram](https://typogram.vercel.app/) - Create nice-looking, minimalistic graphics that focus on a short snippet of text for sharing on the web. ([Code](https://github.com/thesephist/typogram))
-- [Tips for making variable fonts](https://github.com/scribbletone/i-can-variable-font)
+- [Tips for making variable fonts](https://github.com/scribbletone/i-can-variable-Index of typefaces created by authors associated with Poland.font)
 - [Scaling custom fonts automatically with Dynamic Type (2020)](https://sarunw.com/posts/scaling-custom-fonts-automatically-with-dynamic-type/)
 - [Dev Fonts](https://devfonts.gafi.dev/) - List of fonts for coding. ([Code](https://github.com/Gaafar/dev-fonts)) ([HN](https://news.ycombinator.com/item?id=25159038))
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - First open-source font foundry. ([GitHub](https://github.com/theleagueof))
@@ -217,3 +217,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Stop Using Icon Fonts (2021)](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) ([HN](https://news.ycombinator.com/item?id=26252348))
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Instant font identification.
 - [Font Remix (A Metadesign)](https://www.mitpressjournals.org/doi/pdf/10.1162/desi_a_00590)
+- [Typoteka](https://typoteka.pl/en) - Index of typefaces created by authors associated with Poland.

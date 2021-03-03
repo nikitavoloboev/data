@@ -201,3 +201,4 @@
 - [issr](https://github.com/AlexSergey/issr) - Easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 - [Why Did You Render? (2020)](https://haspar.us/why-did-you-render)
 - [Tao of React - Software Design, Architecture & Best Practices (2021)](https://alexkondov.com/tao-of-react/)
+- [React Training](https://reacttraining.com/) - React Corporate Workshops, Training, and Consulting. ([GitHub](https://github.com/reactTraining/))

@@ -479,6 +479,7 @@
 - [Barba.js](https://github.com/barbajs/barba) - Easy-to-use library that helps you create fluid and smooth transitions between your website's pages.
 - [Shuffle.js](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items. ([Web](https://vestride.github.io/Shuffle/))
 - [stdlib](https://github.com/stdlib-js/stdlib) - Standard library for JavaScript and Node.js. ([Web](https://stdlib.io/))
+- [gensync](https://github.com/loganfsmyth/gensync) - Allows users to use generators in order to write common functions that can be both sync or async.
 
 ## Links
 

@@ -199,3 +199,4 @@
 - [Beyond REST: Rapid Development With GraphQL Microservices (2021)](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
 - [giraffeQL](https://github.com/oslabs-beta/giraffeQL) - Developer tool to visualize relational databases and export schemas for GraphQL API's. ([Web](https://giraffeql.io/))
 - [OAuth Protected GraphQL Playground](https://github.com/autom8ter/oauth-graphql-playground)
+- [GraphQL and modeling domains (2021)](https://alejandromp.com/blog/graphql-modeling-domain-backend-driven-ui/)
