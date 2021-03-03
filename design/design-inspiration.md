@@ -342,6 +342,7 @@ Here are few more things I liked, design wise.
 - [Geri Reid](https://gerireid.com/index.html)
 - [Christine Dodrill](https://christine.website/) ([Code](https://github.com/Xe/site))
 - [Gregory Schier](https://schier.co/) ([Code](https://github.com/gschier/schier.co))
+- [Jan Six](https://www.jansix.at/)
 - [Sophia Dominguez](http://sophiaedm.com/)
 - [Valentin Peretroukhin](https://valentinp.com/)
 - [Owen Williams](https://owenwillia.ms/)

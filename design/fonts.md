@@ -216,3 +216,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code.
 - [Stop Using Icon Fonts (2021)](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) ([HN](https://news.ycombinator.com/item?id=26252348))
 - [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Instant font identification.
+- [Font Remix (A Metadesign)](https://www.mitpressjournals.org/doi/pdf/10.1162/desi_a_00590)

@@ -419,3 +419,4 @@
 - [How Machine Language Works (2021)](https://www.youtube.com/watch?v=HWpi9n2H3kE)
 - [Sliced Score Matching: A Scalable Approach to Density and Score Estimation (2019)](https://yang-song.github.io/blog/2019/ssm/)
 - [Accelerating Natural Gradient with Higher-Order Invariance (2018)](https://yang-song.github.io/blog/2018/geo/)
+- [Some interesting observations about machine learning publication practices from an outsider (2021)](https://www.reddit.com/r/MachineLearning/comments/lvwt3l/d_some_interesting_observations_about_machine/)

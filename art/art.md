@@ -406,3 +406,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [A Guide to NFTs, and How They Are About to Revolutionize Pretty Much Everything (2021)](https://www.one37pm.com/grind/money/guide-to-nfts) ([HN](https://news.ycombinator.com/item?id=26259256))
 - [Do not participate in EFT art market until it is environmentally sustainable (2021)](https://twitter.com/HulloJackie/status/1366215215654838274)
 - [NFTs, FOMO and anxiety, a thread (2021)](https://twitter.com/Sekani__Solomon/status/1366411732474884101)
+- [Guide to ecofriendly CryptoArt (NFTs)](https://github.com/memo/eco-nft)
