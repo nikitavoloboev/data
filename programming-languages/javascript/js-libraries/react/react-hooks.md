@@ -133,3 +133,4 @@
 - [useEncapsulation or Why Your React Components Should Only Use Custom Hooks (2021)](https://kyleshevlin.com/use-encapsulation)
 - [Before You memo() (2021)](https://overreacted.io/before-you-memo/) ([Reddit](https://www.reddit.com/r/reactjs/comments/lq9uuo/overreacted_before_you_memo/))
 - [React Hooks Testing Library](https://github.com/testing-library/react-hooks-testing-library)
+- [React Training Workshop on React Hooks](https://github.com/ReactTraining/react-workshop)
