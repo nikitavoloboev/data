@@ -1,6 +1,6 @@
 # Veganism
 
-I think it's mind numbing how animals can be treated by people. And how oblivious most people are to it all either mindfully or simply due to not being aware of the [consequences of their decisions](https://www.youtube.com/watch?v=OW6AgWPWRP4) (like buying some dead animal's meat) have. Watching a documentary like [Dominion](https://www.youtube.com/watch?v=ny6aqdFy9SI) should be enough to make you at least consider rethinking what food you eat. Thankfully whole food plant based diet is [genuinely a healthier diet](../health/nutrition/nutrition.md) too and there's so many fruits, vegetables and beans that you can choose to eat. I personally [love eating blueberries, avocados, walnuts and almonds](../health/nutrition/foods.md) and making [delicious vegan smoothies](../health/nutrition/recipes.md).
+I think it's mind numbing how animals can be treated by people. And how oblivious most people are to it all either mindfully or simply due to not being aware of the [consequences of their decisions](https://www.youtube.com/watch?v=OW6AgWPWRP4) (like buying some dead animal's meat) have. Watching a documentary like [Dominion](https://www.youtube.com/watch?v=ny6aqdFy9SI) or [Earthlings](https://letterboxd.com/film/earthlings/) (made me go vegan instantly after watching) should be enough to make you at least consider rethinking what food you eat. Thankfully whole food plant based diet is [genuinely a healthier diet](../health/nutrition/nutrition.md) too and there's so many fruits, vegetables and beans that you can choose to eat. I personally [love eating blueberries, avocados, walnuts and almonds](../health/nutrition/foods.md) and making [delicious vegan smoothies](../health/nutrition/recipes.md).
 
 I hope more people wake up to this issue and it changes soon. Because animals should not be treated like that and especially at such scales. It's sad.
 
@@ -44,3 +44,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [What if everyone in the world went vegan? (2020)](https://www.youtube.com/watch?v=5QwKBNWOgbA)
 - [Awesome Veganism](https://github.com/sdassow/awesome-veganism) - Curated list of awesome resources, pointers, and tips to make veganism easy and accessible to everyone.
 - [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1) ([HN](https://news.ycombinator.com/item?id=26049111))
+- [Vegan Bootcamp](https://veganbootcamp.org/) - Going vegan has never been easier.

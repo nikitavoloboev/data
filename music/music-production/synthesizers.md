@@ -23,3 +23,4 @@
 - [How to synthesise electronic noise into musical sound](https://twitter.com/BBCArchive/status/1358788928505933824)
 - [SwiftSynth](https://github.com/GrantJEmerson/SwiftSynth) - Synthesizer written entirely in Swift with Apple's new AVAudioSourceNode. ([Article](https://medium.com/better-programming/building-a-synthesizer-in-swift-866cd15b731))
 - [alles](https://github.com/bwhitman/alles) - Many-speaker distributed mesh synthesizer that responds to control signals over WiFi.
+- [Making A Synthesizer Using Python](https://www.reddit.com/r/Python/comments/lw50ne/making_a_synthesizer_using_python/)

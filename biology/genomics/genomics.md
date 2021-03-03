@@ -54,3 +54,4 @@
 - [Bioconductor](https://bioconductor.org/) - Provides tools for the analysis and comprehension of high-throughput genomic data. ([GitHub](https://github.com/Bioconductor))
 - [Orchestrating Single-Cell Analysis with Bioconductor](http://bioconductor.org/books/release/OSCA/) ([Code](https://github.com/Bioconductor/OrchestratingSingleCellAnalysis))
 - [Awesome CRISPR](https://github.com/davidliwei/awesome-CRISPR) - List of software/websites/databases/papers for genome engineering.
+- [Genomics Workflows on AWS](https://github.com/aws-samples/aws-genomics-workflows) ([Web](https://docs.opendata.aws/genomics-workflows/))
