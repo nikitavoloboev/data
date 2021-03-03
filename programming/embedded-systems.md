@@ -106,3 +106,4 @@
 - [Tutorial for secure OTA (over the air) firmware update on the ESP32 (2021)](https://www.lab4iot.com/2021/02/21/esp32-secure-firmware-update-over-the-air-ota/)
 - [AArch64 Boards and Perception (2021)](https://marcin.juszkiewicz.com.pl/2021/02/22/aarch64-boards-and-perception/)
 - [µGUI](https://github.com/achimdoebler/UGUI) - Open Source GUI module for embedded systems.
+- [avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers.
