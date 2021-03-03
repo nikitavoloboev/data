@@ -23,3 +23,4 @@
 - [40 Years of Black Hole Imaging: Early work 1972-1988, by Jean-Pierre Luminet (2018)](https://blogs.futura-sciences.com/e-luminet/2018/03/07/45-years-black-hole-imaging-1-early-work-1972-1988/) ([Tweet](https://twitter.com/AvatarDomy/status/1328249809560547328))
 - [New Black Holes Offer Physicists a Radical Probe of the Cosmos (2021)](https://www.quantamagazine.org/new-black-holes-offer-physicists-a-radical-probe-of-the-cosmos-20210217/)
 - [Douglas Stanford - “New roles for wormholes” (2020)](https://www.youtube.com/watch?v=-hfcApA9s8Q) ([Reddit](https://www.reddit.com/r/Physics/comments/lsf9tk/new_roles_for_wormholes_accessible_stanford/))
+- [Lab-grown black hole behaves just like Stephen Hawking said it would (2021)](https://www.livescience.com/black-hole-analog-confirms-hawking.html) ([Reddit](https://www.reddit.com/r/EverythingScience/comments/lwd6km/labgrown_black_hole_behaves_just_like_stephen/))

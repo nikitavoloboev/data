@@ -43,3 +43,4 @@
 - [QSCM - A tiny bootstrapped Scheme](https://c9x.me/qscm/)
 - [Tehila](https://github.com/sgrove/tehila) - 3D engine for Scheme.
 - [steel](https://github.com/mattwparas/steel) - Embedded scheme interpreter in Rust.
+- [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine.
