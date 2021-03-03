@@ -44,6 +44,7 @@
 - [Software should be: Robust. Reliable. Stable. Simple.](https://drewdevault.com/2020/10/09/Four-principles-of-software-engineering.html)
 - Read, analyze and write lots of code. Don't be too concerned with the latest fads.
 - [When I update dependencies, I generally try to check each update to see what has changed. This is where using a lot of dependencies becomes expensive, because it takes more work to update them. I don’t really see this process bring automated, unless a web-of-trust like thing got popular. But I’m not holding my breath.](https://lobste.rs/s/vgtkw4/automate_dependency_updates_anyone)
+- [99% of what I do in a large codebase is find pre-existing examples, copy-paste structure, fill in the holes and clean up. That's it.](https://twitter.com/deech/status/1366859264732635148)
 
 ## Links
 
