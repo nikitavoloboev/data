@@ -241,3 +241,4 @@
 - [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/) - Pretty printing calculator language. ([Code](https://github.com/mkhan45/CalcuLaTeX)) ([HN](https://news.ycombinator.com/item?id=26250809))
 - [Defining Visual Narratives for Mathematics Declaratively (2019)](https://plateau-workshop.org/assets/papers-2019/9.pdf)
 - [Byrne’s Euclid](https://www.c82.net/euclid/) - First Six Books of The Elements of Euclid With Coloured Diagrams and Symbols.
+- [Can One Hear the Shape of a Drum?](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/MarkKac.pdf) ([HN](https://news.ycombinator.com/item?id=26312738))

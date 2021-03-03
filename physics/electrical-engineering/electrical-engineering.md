@@ -54,3 +54,4 @@
 - [NPTEL Basic Electronics - Prof T.S.Natarajan](https://www.youtube.com/playlist?list=PL6A5175DB9EF79D22)
 - [Electrical Engineering Reddit Wiki](https://www.reddit.com/r/ElectricalEngineering/wiki/index)
 - [We don’t understand what electricity is (2021)](https://www.ribbonfarm.com/2021/02/25/heres-why-we-dont-understand-what-electricity-is/) ([HN](https://news.ycombinator.com/item?id=26270920))
+- [Semiconductors & Transistors: An overview of theory, fabrication, and application](https://drive.google.com/file/d/1vWgzfLNq1F40R1bw7vu_MBaA0dddK1yh/view) ([Reddit](https://www.reddit.com/r/ECE/comments/lwbpjd/here_is_a_free_resource_i_wrote_for_undergrads/))
