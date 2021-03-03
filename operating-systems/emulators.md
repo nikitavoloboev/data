@@ -34,3 +34,4 @@
 - [vAmiga](https://github.com/dirkwhoffmann/vAmiga) - Emulates a Commodore Amiga 500, 1000, or 2000 on your Mac.
 - [Butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine.
 - [Awesome Open Source Emulators](https://github.com/alnacle/awesome-emulators)
+- [PCSX2](https://github.com/PCSX2/pcsx2) - Playstation 2 Emulator. ([Web](https://pcsx2.net/))

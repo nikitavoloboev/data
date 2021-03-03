@@ -272,6 +272,7 @@ Here are few more things I liked, design wise.
 - [Ben Mingo](https://benmingo.cargo.site/)
 - [Stephen Coakley](https://stephencoakley.com/)
 - [Charlotte Dann](https://charlottedann.com/)
+- [Hugo Daniel](https://hugodaniel.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Zach Bruggeman](https://bruggie.com/)
 - [Sequoia McDowell](https://sequoia.makes.software/)

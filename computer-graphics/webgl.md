@@ -50,3 +50,4 @@
 - [Rabbit Hole](https://github.com/vanruesc/rabbit-hole) - Volumetric terrain engine for WebGL.
 - [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
 - [RedCube.js](https://github.com/Reon90/redcube) - WebGL2 rendering library.
+- [High-level WebGL. Low-level tags. (2021)](https://hugodaniel.com/posts/high-level-webgl-low-level-tags/)

@@ -85,3 +85,4 @@
 - [Empirical methods Course by CMU](https://bvasiles.github.io/empirical-methods/) ([Code](https://github.com/bvasiles/empirical-methods))
 - [Gaussian Processes: from one to many outputs (2021)](https://invenia.github.io/blog/2021/02/19/OILMM-pt1/)
 - [Workshop on Agent-Based Modeling (2021)](https://www.aapelivuorinen.com/blog/2021/01/22/agent-based-modeling-workshop/)
+- [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)

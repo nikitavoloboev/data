@@ -214,3 +214,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [dein.vim](https://github.com/Shougo/dein.vim) - Dark powered Vim/Neovim plugin manager.
 - [Paq](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 - [Neovim Lua Debug Adapter](https://github.com/mfussenegger/nvim-lua-debugger) - Debug Adapter that allows debugging lua plugins written for Neovim.
+- [Awesome Neovim Plugins](https://github.com/rockerBOO/awesome-neovim)

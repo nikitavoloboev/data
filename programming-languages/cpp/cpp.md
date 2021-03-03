@@ -190,3 +190,4 @@
 - [A Case Against Blind Use of C++ Parallel Algorithms (2021)](https://www.accu.org/journals/overload/29/161/teodorescu/)
 - [How To Stay Sane with Modern C++ (2020)](https://www.cppstories.com/2017/02/how-to-stay-sane-with-modern-c/)
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - C++ expression -> x64 JIT.
+- [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/citations/20080039927)

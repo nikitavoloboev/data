@@ -18,3 +18,4 @@
 - [Rust + Hasura](https://github.com/ronanyeah/rust-hasura) - Example of a Rust server that functions as a remote schema for Hasura.
 - [Hasura Data Dictionary](https://github.com/hasura/data-dictionary) - Understand your data graph - which includes your database relationships, and GraphQL schemas. ([Introduction](https://hasura.io/blog/hasura-data-dictionary/))
 - [Hasura + NextJS + Apollo + JWT](https://github.com/Ntarasiuk/nexthasurajwt) - Starter template for a React app with a database + permissions ( JWT).
+- [Building REST from GraphQL - an story of engineering in Haskell (2021)](https://hasura.io/blog/building-rest-from-graphql-story-of-engineering-haskell/)

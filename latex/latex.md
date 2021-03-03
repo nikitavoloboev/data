@@ -69,3 +69,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TeXMe](https://github.com/susam/texme) - Lightweight JavaScript utility to create self-rendering Markdown + LaTeX documents.
 - [Arara](https://gitlab.com/islandoftex/arara) - TeX automation tool based on rules and directives. ([HN](https://news.ycombinator.com/item?id=26211705))
 - [LaTeX Complete – Figma Plugin](https://www.figma.com/community/plugin/793023817364007801/LaTeX-Complete) - Typeset mathematics right in your designs.
+- [GitHub LaTeX Action](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents.

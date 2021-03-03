@@ -35,3 +35,4 @@ I [budget & invest my money](../economy/finance.md).
 - [Working Off-Grid Efficiently](https://100r.co/site/working_offgrid_efficiently.html) ([HN](https://news.ycombinator.com/item?id=25723819))
 - [offgrid house](https://joeyh.name/offgrid/)
 - [Creators of ORCA and their works embracing tech minimalism and software freedom (2021)](https://esoteric.codes/blog/100-rabbits) ([HN](https://news.ycombinator.com/item?id=26054594))
+- [How to Practice (2021)](https://www.newyorker.com/magazine/2021/03/08/how-to-practice) - I wanted to get rid of my possessions, because possessions stood between me and death.
