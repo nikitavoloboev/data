@@ -52,3 +52,5 @@
 - [Using Webpacker in Your Ruby on Rails Application — a Deep Dive (2021)](https://blog.appsignal.com/2021/02/17/using-webpacker-in-your-ruby-on-rails-app-deep-dive.html)
 - [A year of Rails (2021)](https://macwright.com/2021/02/18/a-year-of-rails.html)
 - [Passwordless](https://github.com/mikker/passwordless) - Authentication for your Rails app without the icky-ness of passwords.
+- [RailsAdmin](https://github.com/sferik/rails_admin) - Rails engine that provides an easy-to-use interface for managing your data.
+- [Bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.

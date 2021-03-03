@@ -135,3 +135,4 @@
 - [How DogeHouse will Scale to the Moon (2021)](https://www.youtube.com/watch?v=8YJqB4pNNgs)
 - [Data-Oriented Programming Book (2021)](https://www.manning.com/books/data-oriented-programming)
 - [Internet Archive Infrastructure (2021)](https://archive.org/details/jonah-edwards-presentation) ([HN](https://news.ycombinator.com/item?id=26300191))
+- [Michael Perry on Immutable Architecture (2021)](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)

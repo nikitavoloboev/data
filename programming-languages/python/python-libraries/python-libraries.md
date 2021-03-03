@@ -356,6 +356,7 @@
 - [Distex](https://github.com/erdewit/distex) - Distributed process pool for Python.
 - [nest_asyncio](https://github.com/erdewit/nest_asyncio) - Patch asyncio to allow nested event loops.
 - [eventkit](https://github.com/erdewit/eventkit) - Event-driven data pipelines.
+- [pystatsd](https://github.com/jsocol/pystatsd) - Python client for statsd.
 
 ## Links
 

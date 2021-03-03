@@ -118,6 +118,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Application launcher for macOS. ([Assimilated Theme](https://github.com/benjaminwil/assimilated))
 - [Irradiated Software macOS apps](https://www.irradiatedsoftware.com/labs/)
 - [Freeze](https://freeze.app/) - Save your open windows and tabs for later.
+- [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility.
 
 ## Links
 

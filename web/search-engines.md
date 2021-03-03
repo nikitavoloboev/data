@@ -112,3 +112,4 @@
 - [Search with typo tolerance (2021)](https://tomekdev.com/posts/search-with-typo-tolerance)
 - [Same Energy](https://same.energy/) - Visual Search Engine.
 - [Reiz.IO](https://reiz.io/) - Large Scale Structural Source Code Search. ([Code](https://github.com/reizio/reiz.io))
+- [DataHub](https://github.com/linkedin/datahub) - Generalized Metadata Search & Discovery Tool. ([Web](https://linkedin.github.io/datahub/))

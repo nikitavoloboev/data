@@ -111,3 +111,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Winners of the 2021 Underwater Photographer of the Year Contest](https://www.theatlantic.com/photo/2021/02/winners-2021-underwater-photographer-year-contest/617963/)
 - [What are some shooting habits that changed for you as you got better at photography? (2021)](https://www.reddit.com/r/photography/comments/lppvdm/what_are_some_shooting_habits_that_changed_for/)
 - [Picuki.com](https://www.picuki.com/) - Instagram editor and viewer.
+- [Read this before you buy a Soviet camera (2021)](https://kosmofoto.com/2021/01/read-this-before-you-buy-a-soviet-camera/)
+- [Kosmo Foto](https://kosmofoto.com/)

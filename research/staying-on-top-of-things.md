@@ -125,6 +125,7 @@ And these Discord servers:
 - [Tablet Magazine](https://www.tabletmag.com/)
 - [Eye on Design](https://eyeondesign.aiga.org/)
 - [BBC](https://www.bbc.com/)
+- [Foreign Policy](https://foreignpolicy.com/) - Global Magazine of News and Ideas.
 
 ### Other
 

@@ -198,3 +198,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub VSC](https://github.com/gao-sun/github-vsc) - Use VSCode to view and edit GitHub repos, in your browser.
 - [My GitHub Open PRs](https://github.com/search?o=asc&q=is:pr+is:open+archived:false+user:@me&s=updated&type=Issues)
 - [Terraform Provider GitHub](https://github.com/integrations/terraform-provider-github)
+- [ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line.

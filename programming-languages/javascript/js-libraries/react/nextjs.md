@@ -162,3 +162,4 @@
 - [Learn Next.js in 10 Tweets (2021)](https://twitter.com/colbyfayock/status/1362407526222995456)
 - [Sign in With Apple Next JS (2020)](https://thesiddd.com/blog/apple-auth)
 - [How to manage database connections in NextJS? (2021)](https://www.reddit.com/r/nextjs/comments/lvri96/how_to_manage_database_connections/)
+- [Buidling a Realtime Chat App with Next.js, Ably, and Vercel](https://github.com/ably-labs/NextJS-chat-app)

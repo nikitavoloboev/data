@@ -28,3 +28,5 @@
 - [zkp](https://github.com/dalek-cryptography/zkp) - Experimental zero-knowledge proof compiler in Rust macros.
 - [Zero Knowledge Proof - Numberphile (2021)](https://www.youtube.com/watch?v=5ovdoxnfFVc)
 - [Serving up zero-knowledge proofs (2021)](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
+- [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.
+- [Aleo](https://aleo.org/) - Where Applications Become Zero-Knowledge. ([GitHub](https://github.com/AleoHQ))

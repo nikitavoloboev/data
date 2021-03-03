@@ -97,3 +97,4 @@
 - [Who did the Anglo-Saxons think they were?](https://www.archaeology.co.uk/articles/who-did-the-anglo-saxons-think-they-were.htm) ([HN](https://news.ycombinator.com/item?id=26175972))
 - [The Cold War - OverSimplified](https://www.youtube.com/watch?v=I79TpDe3t2g&t=2s)
 - [A Brief History of Yesterday](https://abriefhistoryofyesterday.com/) - Brief overview of yesterday's world events.
+- [Unlocking history through automated virtual unfolding of sealed documents imaged by X-ray microtomography (2021)](https://www.nature.com/articles/s41467-021-21326-w) ([Code](https://github.com/UnlockingHistory/virtual-unfolding))

@@ -68,3 +68,4 @@
 - [Fogg](https://github.com/chanzuckerberg/fogg) - Opinionated tool for managing infrastructure-as-code repositories using Terraform.
 - [terrafmt](https://github.com/katbyte/terrafmt) - Tool for extracting or formatting Terraform configuration embedded in provider code.
 - [tecli](https://github.com/awslabs/tecli) - Command Line Interface for Terraform Enterprise/Cloud.
+- [Testing HashiCorp Terraform (2021)](https://www.hashicorp.com/blog/testing-hashicorp-terraform)

@@ -70,3 +70,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Awesome crypto trading bots](https://github.com/botcrypto-io/awesome-crypto-trading-bots)
 - [A mind-map of cryptocurrencies for crypto noobs (2021)](https://noobmaker.substack.com/p/a-quick-overview-of-cryptocurrencies)
 - [PancakeSwap](https://pancakeswap.finance/) - Decentralized trading protocol on Binance Smart Chain. ([Front End Code](https://github.com/pancakeswap/pancake-frontend)) ([GitHub](https://github.com/pancakeswap))
+- [Understanding Crypto (2021)](https://adam.mirror.xyz/Q-HIDLBN0lRy1ezLFI-Qj5JhLzHWRUgXF4cqwieQWXQ)

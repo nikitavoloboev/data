@@ -23,3 +23,4 @@
 - [What is this Gemini thing anyway, and why am I excited about it? (2020)](https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html) ([Lobsters](https://lobste.rs/s/ivryqt/what_is_this_gemini_thing_anyway_why_am_i))
 - [A Gopher view of Gemini (2020)](https://oldvcr.blogspot.com/2020/11/a-gopher-view-of-gemini.html) ([Lobsters](https://lobste.rs/s/88qncl/gopher_view_gemini)) ([HN](https://news.ycombinator.com/item?id=25005307))
 - [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini)
+- [Elaho](https://github.com/pitr/gemini-ios) - iOS browser for Gemini protocol.
