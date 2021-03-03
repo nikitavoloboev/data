@@ -522,6 +522,7 @@ Here are few more things I liked, design wise.
 - [Jan-Lukas Else](https://jlelse.dev/)
 - [autophagy](http://autophagy.io/)
 - [Jonathan Clem](https://jclem.net/)
+- [Jakob Greenfeld](https://jakobgreenfeld.com/)
 - [Seana Burns](http://seenaburns.com/)
 - [Maddie](http://maddie.io/) - Clean.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.

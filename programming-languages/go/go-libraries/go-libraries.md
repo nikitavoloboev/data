@@ -745,6 +745,7 @@
 - [GCache](https://github.com/bluele/gcache) - Cache library for golang. It supports expirable Cache, LFU, LRU and ARC.
 - [gcnotifier](https://github.com/CAFxX/gcnotifier) - Know when GC runs from inside your Go code.
 - [go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Go library to provide a self-update mechanism to command line tools.
+- [btree](https://github.com/tidwall/btree) - Efficient B-tree implementation in Go.
 
 ## Links
 

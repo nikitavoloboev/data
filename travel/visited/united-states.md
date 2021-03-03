@@ -37,3 +37,4 @@
 - [Говорим с американским адвокатом о том, как правильно переехать в США (2020)](https://www.youtube.com/watch?v=Ke8I541K2QY)
 - [US Taxes](https://ustaxes.org/info) - Open source tax filing application. ([Code](https://github.com/thegrims/UsTaxes)) ([HN](https://news.ycombinator.com/item?id=26138446))
 - [The American Civil War - OverSimplified](https://www.youtube.com/watch?v=tsxmyL7TUJg)
+- [The US Military is Everywhere (2021)](https://www.youtube.com/watch?v=-YR2TxHkb4c)

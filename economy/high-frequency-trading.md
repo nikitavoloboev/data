@@ -23,3 +23,4 @@
 - [Lean Engine](https://www.quantconnect.com/lean/) - Open-source algorithmic trading engine built for easy strategy research, backtesting and live trading.
 - [Offline Algorithms in Low-Frequency Trading (2021)](https://queue.acm.org/detail.cfm?id=3448307) ([HN](https://news.ycombinator.com/item?id=25968348))
 - [AMA With a Hedge Fund Employee (2021)](https://www.reddit.com/r/AskEconomics/comments/lgzzs6/ama_with_a_hedge_fund_employee/)
+- [Optiver](https://www.optiver.com/) - Trading firm.

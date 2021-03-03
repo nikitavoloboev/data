@@ -198,3 +198,4 @@
 - [Meshing GraphQL (2020)](https://thesiddd.com/blog/mesh)
 - [Beyond REST: Rapid Development With GraphQL Microservices (2021)](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
 - [giraffeQL](https://github.com/oslabs-beta/giraffeQL) - Developer tool to visualize relational databases and export schemas for GraphQL API's. ([Web](https://giraffeql.io/))
+- [OAuth Protected GraphQL Playground](https://github.com/autom8ter/oauth-graphql-playground)
