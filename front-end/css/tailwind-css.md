@@ -68,3 +68,4 @@
 - [Windi CSS for Vite](https://github.com/windicss/vite-plugin-windicss) - On-demand TailwindCSS.
 - [Windi CSS](https://github.com/windicss/windicss) - Next generation Tailwind CSS compiler. ([Docs](https://windicss.netlify.app/)) ([Docs Code](https://github.com/windicss/docs))
 - [updrafts.app](https://updrafts.app/) - Design & Prototype with Tailwind CSS.
+- [Tailwindize](https://quoorex.com/tailwindize/) - Convert any color into a Tailwind one.

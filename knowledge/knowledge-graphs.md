@@ -68,3 +68,4 @@
 - [Top-conference Papers on Knowledge Graphs](https://github.com/wds-seu/Knowledge-Graph-Publications)
 - [Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction (2020)](https://www.aclweb.org/anthology/2020.acl-main.209/) ([Code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings))
 - [Knowledge Graphs (2021)](https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext)
+- [Wikipedia @ 20: Stories of an Incomplete Revolution (2020)](https://direct.mit.edu/books/book/4956/Wikipedia-20Stories-of-an-Incomplete-Revolution)

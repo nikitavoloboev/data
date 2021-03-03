@@ -84,3 +84,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Every thought about personal finance I've ever had, as concisely as possible (2021)](https://blog.aadilali.com/posts/personal-finance.html) ([HN](https://news.ycombinator.com/item?id=26281108))
 - [Finance as culture (2021)](https://luttig.substack.com/p/finance-as-culture) ([Tweet](https://twitter.com/absoluttig/status/1366191939930918915))
 - [pValuation](https://github.com/robertmartin8/pValuation) - Quantamental finance research with python.
+- [Python for Finance Book](https://home.tpq.io/books/py4fi/) - Mastering Data-Driven Finance. ([Code](https://github.com/yhilpisch/py4fi2nd))

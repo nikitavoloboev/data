@@ -51,3 +51,4 @@
 - [Rust-Mandelbrot](https://github.com/Ducolnd/rust-mandelbrot) - Simple Mandelbrot fractal generator written in Rust.
 - [Fractal Garden](https://fractal.garden/) - Explore 3D fractals in real time in your web browser. ([Code](https://github.com/ath92/fractal-garden))
 - [Fractal Sound Explorer](https://github.com/HackerPoet/FractalSoundExplorer) - Explore fractals in an audio-visual sandbox.
+- [Sounds of the Mandelbrot Set (2021)](https://www.youtube.com/watch?v=GiAj9WW1OfQ)
