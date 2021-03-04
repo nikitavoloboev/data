@@ -36,3 +36,4 @@
 - [Sarus](https://github.com/anephenix/sarus) - WebSocket JavaScript library. ([Web](https://sarus.anephenix.com/))
 - [The future of web software is HTML over WebSockets (2021)](https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/) ([HN](https://news.ycombinator.com/item?id=26265999)) ([Reddit](https://www.reddit.com/r/coding/comments/lsq2dw/the_future_of_web_software_is_html_over_websockets/))
 - [wsServer](https://github.com/Theldus/wsServer) - Tiny WebSocket server library written in C.
+- [WebSockets From Scratch](https://github.com/pusher/websockets-from-scratch-tutorial)
