@@ -76,3 +76,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Гулагу-нет YouTube](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) - Правозащитный проект против коррупции и пыток в России.
 - [Богатые и бедные: объясняю на котах | Коты Ходорковского (2021)](https://www.youtube.com/watch?v=VOC6Oc5PKGc)
 - [Как убивали Бориса Немцова. Полная хронология (2021)](https://zona.media/chronicle/nemtsov-chronicle)
+- [«Это ненормально». Арестованные за митинги и психологи — о государственном насилии (2021)](https://vot-tak.tv/novosti/03-03-2021_escalation_of_violence/)
+- [Вот Так](https://vot-tak.tv/)

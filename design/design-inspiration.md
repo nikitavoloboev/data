@@ -242,6 +242,7 @@ Here are few more things I liked, design wise.
 - [Max Woolf](https://minimaxir.com/)
 - [Jason Webb](https://jasonwebb.io/)
 - [Chris Penner](https://chrispenner.ca/)
+- [Michael Nielsen](https://michaelnielsen.org/)
 - [Liam Cooke](https://liamcooke.com/)
 - [Kitze](https://kitze.io/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)

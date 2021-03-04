@@ -20,3 +20,4 @@
 - [Caddy your Serverless Functions (2020)](https://www.briangershon.com/blog/caddy-your-serverless-functions/)
 - [Caddy Docker Proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker.
 - [Building a Kubernetes Ingress Controller with Caddy (2021)](https://dgraph.io/blog/post/building-a-kubernetes-ingress-controller-with-caddy/)
+- [Caddy Ansible Role](https://github.com/caddy-ansible/caddy-ansible) - Ansible role for installing and configuring the Caddy web server.

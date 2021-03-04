@@ -241,3 +241,4 @@
 - [Mrcal](http://mrcal.secretsauce.net/) - Camera Calibrations and More. ([HN](https://news.ycombinator.com/item?id=26300118))
 - [Digging Into Self-Supervised Monocular Depth Estimation (2019)](https://arxiv.org/abs/1806.01260) ([Code](https://github.com/nianticlabs/monodepth2))
 - [VISSL](https://github.com/facebookresearch/vissl) - FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images. ([Web](https://vissl.ai/))
+- [Zumo Labs](https://www.zumolabs.ai/) - Generate custom synthetic data sets that result in more robust and reliable computer vision models. ([GitHub](https://github.com/ZumoLabs))

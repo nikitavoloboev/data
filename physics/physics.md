@@ -179,3 +179,5 @@
 - [EinsteinPy Project](https://einsteinpy.org/) - Python package dedicated to problems arising in General Relativity and gravitational physics. ([Code](https://github.com/einsteinpy/einsteinpy)) ([GitHub](https://github.com/einsteinpy))
 - [ScienceClic English - YouTube](https://www.youtube.com/c/ScienceClicEN/videos)
 - [List of Unsolved Problems in Physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+- [Maps of Matter (2021)](https://futureofmatter.com/maps_of_matter.html)
+- [The Future of Matter](https://futureofmatter.com/) - Notes on the striking things we're learning to do with matter.
