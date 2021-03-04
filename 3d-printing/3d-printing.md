@@ -20,3 +20,4 @@
 - [Multi-metal 4D printing with a desktop electrochemical 3D printer (2019)](https://www.nature.com/articles/s41598-019-40774-5)
 - [printinator](https://github.com/jessfraz/printinator) - macOS menu bar for 3D printers.
 - [Zine Machine](https://hibred.pmvabf.org/zine-machine) - Compact 3D-printed block printing press. ([HN](https://news.ycombinator.com/item?id=26270251))
+- [OpenScan](https://github.com/OpenScanEu/OpenScan) - All you need to build your 3D Scanner.

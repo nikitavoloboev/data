@@ -106,6 +106,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Applied Category Theory 2021](https://johncarlosbaez.wordpress.com/2021/01/02/applied-category-theory-2021-adjoint-school/)
 - [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated/)
 - [Papers on aspects of Generalised Algebraic Theories, Contextual Categories and Mathematical Theory Of Data](https://github.com/JohnWCartmell/Theory)
+- [Emily Riehl is rewriting the foundations of higher category theory (2021)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/) ([HN](https://news.ycombinator.com/item?id=26334535))
 
 ## Images
 

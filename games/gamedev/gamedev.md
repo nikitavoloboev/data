@@ -148,3 +148,4 @@
 - [Building a serverless multi-player game that scales (2021)](https://aws.amazon.com/blogs/compute/building-a-serverless-multiplayer-game-that-scales/)
 - [Supporting hundreds of players on a single fast paced game server (2021)](https://www.reddit.com/r/gamedev/comments/ltvmh9/supporting_hundreds_of_players_on_a_single_fast/)
 - [Video Game Programming From Scratch with Casey Muratori (2021)](https://corecursive.com/062-game-programming/)
+- [Naughty Dog at SIGGRAPH 2020](https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020)

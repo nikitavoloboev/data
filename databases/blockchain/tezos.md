@@ -32,3 +32,4 @@
 - [Tezos Finance](https://tezos.finance/) - On-chain Savings & Loan.
 - [TLA+ model of the Tezos p2p layer](https://github.com/simplestaking/model-p2p)
 - [SimpleStaking](https://simplestaking.com/) - Safe way to store & stake Tezos. Desktop & Web Wallet with Trezor support. ([GitHub](https://github.com/simplestaking))
+- [Kukai](https://wallet.kukai.app/) - Tezos web wallet based on three principles: Security, Community and Reliability. ([Code](https://github.com/kukai-wallet/kukai)) ([Reddit](https://www.reddit.com/r/tezos/comments/lx60jf/tezos_is_about_to_explode_on_twitter/))
