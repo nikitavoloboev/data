@@ -170,3 +170,4 @@
 - [Making reliable distributed systems in presence of software errors by Joe Armstrong (2003)](https://erlang.org/download/armstrong_thesis_2003.pdf)
 - [unitalk](https://github.com/hoorayman/unitalk) - Distributed chat system which can be used as chat rooms or state synchronization.
 - [Maelstrom](https://github.com/jepsen-io/maelstrom) - Workbench for learning distributed systems by writing your own.
+- [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/) ([HN](https://news.ycombinator.com/item?id=26346033))

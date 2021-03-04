@@ -44,3 +44,4 @@
 - [Kraken](https://github.com/MixinNetwork/kraken) - High performance WebRTC SFU implemented with pure Go.
 - [WebRTC for beginners; How calls work from the outside (2021)](https://itnext.io/webrtc-for-beginners-how-it-all-works-from-the-outside-3c806f582229)
 - [WebRTC Next Version Use Cases](https://w3c.github.io/webrtc-nv-use-cases/) ([Code](https://github.com/w3c/webrtc-nv-use-cases))
+- [Trystero](https://github.com/dmotz/trystero) - Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase.

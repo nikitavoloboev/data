@@ -53,6 +53,7 @@
 - [A compact spatial map in V2 visual cortex (2021)](https://www.biorxiv.org/content/10.1101/2021.02.11.430687v1) ([Reddit](https://www.reddit.com/r/neuroscience/comments/lj92m6/reevaluating_cognitive_map_theory/))
 - [Artificial Neural Nets Finally Yield Clues to How Brains Learn (2021)](https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/)
 - [Lena (2021)](https://qntm.org/mmacevedo) ([HN](https://news.ycombinator.com/item?id=26224835))
+- [That Is Not How Your Brain Works (2021)](https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works) ([HN](https://news.ycombinator.com/item?id=26341218))
 
 ## Images
 

@@ -85,3 +85,4 @@
 - [DNS lookup tool](https://dns-lookup.jvns.ca/) ([Code](https://github.com/jvns/dns-lookup)) ([Article](https://jvns.ca/blog/2021/02/24/a-little-tool-to-make-dns-queries/))
 - [dnc (Domain Name Checker)](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration.
 - [ZDNS](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool.
+- [go-doh-client](https://github.com/babolivier/go-doh-client) - Go client library implementation of DNS over HTTPS.

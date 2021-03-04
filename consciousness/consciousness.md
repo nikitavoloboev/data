@@ -52,3 +52,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [On the Medium of Thought (2020)](https://qualiacomputing.com/2020/12/12/on-the-medium-of-thought/)
 - [Do quantum effects play a role in consciousness? (2021)](https://physicsworld.com/a/do-quantum-effects-play-a-role-in-consciousness/)
 - [What Is Consciousness For? (2021)](https://durmonski.com/lay-summaries/what-is-consciousness-for/)
+- [Consciousness Is Just a Feeling (2021)](https://nautil.us/issue/98/mind/consciousness-is-just-a-feeling) ([HN](https://news.ycombinator.com/item?id=26343571))

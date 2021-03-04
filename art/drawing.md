@@ -33,3 +33,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [How to teach technical concepts with cartoons](https://jvns.ca/teach-tech-with-cartoons/) ([HN](https://news.ycombinator.com/item?id=25882377))
 - [Illustration Chronicles](https://illustrationchronicles.com/)
 - [drawdata.xyz](https://drawdata.xyz/) - Draw your Data and Download.
+- [Digital Painting: How to improve your Color Perception (2021)](https://www.youtube.com/watch?v=BpIVS5vuJEY)

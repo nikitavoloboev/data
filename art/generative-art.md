@@ -112,3 +112,5 @@
 - [Sandpit](https://sandpitjs.com/) - Playground for creative coding.
 - [AI Art Generators](https://aiartists.org/ai-generated-art-tools)
 - [Unknown pleasures](https://github.com/rougier/unknown-pleasures) - Animated lines using matplotlib.
+- [Creative Code algorithms & techniques](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b) ([Tweet](https://twitter.com/sableRaph/status/1367085820734279686))
+- [Generative Art Finds Its Prodigy (2018)](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy)

@@ -45,3 +45,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Awesome Veganism](https://github.com/sdassow/awesome-veganism) - Curated list of awesome resources, pointers, and tips to make veganism easy and accessible to everyone.
 - [How to lower the price of plant-based meat](https://us14.campaign-archive.com/?u=66df320da8400b581cbc1b539&id=cea38367f1) ([HN](https://news.ycombinator.com/item?id=26049111))
 - [Vegan Bootcamp](https://veganbootcamp.org/) - Going vegan has never been easier.
+- [Plant-based diet would reduce agricultural land use from 4 to 1B hectares (2021)](https://ourworldindata.org/land-use-diets) ([HN](https://news.ycombinator.com/item?id=26342343))

@@ -190,7 +190,7 @@
 - [hasql-queue](https://github.com/jfischoff/hasql-queue) - Module that utilizes PostgreSQL to implement a durable queue for efficently processing payloads. ([Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html))
 - [tmp-postgres](https://github.com/jfischoff/tmp-postgres) - Create temporary postgres instances. ([Keeping Database Tests Fast with `tmp-postgres`](http://jfischoff.github.io/blog/keeping-database-tests-fast.html)) ([Faster Database Testing with the New `tmp-postgres`](http://jfischoff.github.io/blog/faster-database-testing.html))
 - [DbSchema](https://github.com/db-schema/core) - Opinionated database schema management tool that lets you maintain your DB schema with a single ruby file.
-- [Apache AGE](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph database extension for PostgreSQL.
+- [Apache AGE](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph database extension for PostgreSQL. ([Web](https://age.apache.org/))
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
 - [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.
@@ -231,3 +231,4 @@
 - [Time-Series Analytics for PostgreSQL: Introducing Timescale Analytics Project (2021)](https://blog.timescale.com/blog/time-series-analytics-for-postgresql-introducing-the-timescale-analytics-project/)
 - [PGConf.Online](https://pgconf.ru/en/) ([2021 Slides](https://github.com/dvarrazzo/psycopg3-pgconf-2021))
 - [Deploying PostgreSQL for High Availability with Patroni, etcd and HAProxy (2021)](https://digitalis.io/blog/postgresql/part1-postgresql-ha-patroni-etcd-haproxy/)
+- [Running a safe database migration using Postgres (2021)](https://retool.com/blog/running-safe-database-migrations-using-postgres/)

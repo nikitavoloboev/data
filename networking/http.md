@@ -105,3 +105,4 @@
 - [How to use HTTPS for local development (2021)](https://web.dev/how-to-use-local-https/)
 - [HTTP Pipelining, S3, and gg (2021)](https://buttondown.email/nelhage/archive/http-pipelining-s3-and-gg/) ([Lobsters](https://lobste.rs/s/i02dsl/http_pipelining_s3_gg))
 - [monsoon](https://github.com/RedTeamPentesting/monsoon) - Fast HTTP enumerator that allows you to execute a large number of HTTP requests, filter the responses and display them in real-time.
+- [HTTPWTF (2021)](https://httptoolkit.tech/blog/http-wtf/) ([HN](https://news.ycombinator.com/item?id=26343577))

@@ -16,4 +16,4 @@
 - [Better Sex 101](https://moderntantra.blogspot.com/p/better-sex-101_21.html)
 - [The Dirty Normal](http://www.thedirtynormal.com/) - Better sex. Powered by science.
 - [Coral](https://getcoral.app/) - Better sex through a mix of science, stories and exercises.
-- [Why Are Fewer Young Adults Having Casual Sex? (2021)](https://journals.sagepub.com/doi/full/10.1177/2378023121996854) ([HN](https://news.ycombinator.com/item?id=26329181))
+- [Why Are Fewer Young Adults Having Casual Sex? (2021)](https://journals.sagepub.com/doi/full/10.1177/2378023121996854) ([HN](https://news.ycombinator.com/item?id=26329181)) ([Reddit](https://www.reddit.com/r/science/comments/lwuvpc/casual_sex_among_young_adults_has_declined_due_to/))

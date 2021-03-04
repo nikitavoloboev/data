@@ -270,3 +270,4 @@
 - [An interactive guide to CSS transitions (2021)](https://www.joshwcomeau.com/animation/css-transitions/) ([HN](https://news.ycombinator.com/item?id=26274516))
 - [Diving into the ::before and ::after Pseudo-Elements (2021)](https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/)
 - [AVO: BEM Dialect Using Data Attributes](https://chan.dev/posts/avo-a-bem-dialect-using-data-attributes/)
+- [The Importance of Learning CSS (2021)](https://www.joshwcomeau.com/css/the-importance-of-learning-css/) ([HN](https://news.ycombinator.com/item?id=26346141))

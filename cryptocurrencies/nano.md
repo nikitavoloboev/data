@@ -21,3 +21,4 @@
 - [NanoVault](https://nanovault.io/) - Open source wallet for using the Nano cryptocurrency. ([Code](https://github.com/cronoh/nanovault))
 - [Nano Tipper](https://github.com/danhitchcock/nano_tipper_z) - Nano TipBot for Reddit.
 - [Nano is what Bitcoin hoped to be (2021)](https://magnuschatt.medium.com/nano-is-what-bitcoin-hoped-to-be-a84aecf46b74) ([HN](https://news.ycombinator.com/item?id=26202952))
+- [NanoLooker](https://nanolooker.com/) - Explore the Nano cryptocurrency blockchain. ([Code](https://github.com/running-coder/nanolooker))

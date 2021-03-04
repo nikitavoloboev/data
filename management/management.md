@@ -87,3 +87,4 @@
 - [Mistakes I've Made as an Engineering Manager (2021)](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) ([HN](https://news.ycombinator.com/item?id=26216016))
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) - Resources for chief technology officers, with the emphasis on startups. ([HN](https://news.ycombinator.com/item?id=26284750))
 - [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/)
+- [Ask HN: Do you think Agile/Scrum is beneficial for software delivery? (2021)](https://news.ycombinator.com/item?id=26345235)

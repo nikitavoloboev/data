@@ -14,3 +14,4 @@
 - [Ansible Quick Ref](https://github.com/lorin/ansible-quickref)
 - [Ansible: Up and Running book](http://www.ansiblebook.com/) ([Code](https://github.com/ansiblebook/ansiblebook))
 - [Getting started with Ansible (2020)](https://steampunk.si/blog/getting-started-with-ansible/) ([HN](https://news.ycombinator.com/item?id=25122103))
+- [Exploring Ansible via Setting Up a WireGuard VPN (2021)](https://www.tangramvision.com/blog/exploring-ansible-via-setting-up-a-wireguard-vpn)

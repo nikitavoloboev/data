@@ -48,3 +48,4 @@
 - [Ask HN: Is “contact us for pricing” a dark pattern? (2021)](https://news.ycombinator.com/item?id=26144706)
 - [It's going to cost four figures (2021)](https://raccoon.onyxbits.de/blog/software-development-cost/)
 - [Corrily](https://www.corrily.com/) - Price Optimization for SaaS. ([HN](https://news.ycombinator.com/item?id=26302217))
+- [SaaS billing build vs. buy (2021)](https://blog.billflow.io/saas-billing-build-vs-buy/)

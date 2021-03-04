@@ -17,3 +17,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [The Art of Acting](https://www.youtube.com/watch?v=cBavoLbuDBw)
 - [Why Timothée Chalamet is a great actor](https://www.youtube.com/watch?v=s1Vte4n6SqI)
 - [The Quiet Confidence of Julia Garner (2021)](https://www.rollingstone.com/tv/tv-features/julia-garner-ozark-assistant-inventing-anna-interview-1129080/) ([Reddit](https://www.reddit.com/r/television/comments/lnhnkw/the_quiet_confidence_of_julia_garner/))
+- [Ian McKellen Explains The Difference Between Acting on Stage and In Movies](https://www.youtube.com/watch?v=QzOlVLDMLAQ)

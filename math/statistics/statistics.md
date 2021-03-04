@@ -86,3 +86,4 @@
 - [Gaussian Processes: from one to many outputs (2021)](https://invenia.github.io/blog/2021/02/19/OILMM-pt1/)
 - [Workshop on Agent-Based Modeling (2021)](https://www.aapelivuorinen.com/blog/2021/01/22/agent-based-modeling-workshop/)
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)
+- [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) ([HN](https://news.ycombinator.com/item?id=26312904))

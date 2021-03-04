@@ -27,3 +27,4 @@
 - [Rust for Windows](https://github.com/microsoft/windows-rs) - Lets you call any Windows API past, present, and future using code generated on the fly. ([HN](https://news.ycombinator.com/item?id=25862291))
 - [Creating my awesome Windows 10 dev setup (2021)](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup) ([HN](https://news.ycombinator.com/item?id=25965231))
 - [Switching to Windows (2021)](http://ignorethecode.net/blog/2021/02/02/switching_to_windows/) ([HN](https://news.ycombinator.com/item?id=26101078))
+- [Development on Windows is Painful (2021)](https://christine.website/blog/windows-pain-2021-03-03) ([Lobsters](https://lobste.rs/s/ibxmxb/development_on_windows_is_painful))

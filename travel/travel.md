@@ -50,3 +50,4 @@
 - [Radio Garden](http://radio.garden/) - Explore live radio by rotating the globe.
 - [City Guesser](https://virtualvacation.us/guess) - Can you guess what city you're in?
 - [Second Citizenships, Residencies, and/or Temporary Relocation (2021)](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation) ([HN](https://news.ycombinator.com/item?id=26210179))
+- [City Walks](https://citywalks.live/) - Take a virtual walk through a famous city.
