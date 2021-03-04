@@ -201,6 +201,7 @@
 - [SwiftNIO HTTP/2](https://github.com/apple/swift-nio-http2) - HTTP/2 support for SwiftNIO.
 - [Meridian](https://github.com/khanlou/Meridian) - Web server written in Swift that lets you write your endpoints in a declarative way.
 - [GraphQLKit](https://github.com/alexsteinerde/graphql-kit) - Easy setup of a GraphQL server with Vapor. It uses the GraphQL implementation of Graphiti.
+- [Kitura](https://github.com/Kitura/Kitura) - Swift web framework and HTTP server. ([Web](https://www.kitura.dev/))
 
 ## SwiftUI
 

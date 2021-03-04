@@ -31,3 +31,4 @@
 - [Lectures on Analytic Geometry (2019)](https://github.com/PeterScholze/Analytic/blob/main/Analytic.pdf)
 - [Cleaner parallel curves with Euler spirals (2021)](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
 - [Statistics Postdoc Tames Decades-Old Geometry Problem (2021)](https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/) ([HN](https://news.ycombinator.com/item?id=26314900))
+- [Möbius Printing helper](https://shreevatsa.net/mobius-print/)

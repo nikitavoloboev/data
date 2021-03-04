@@ -49,6 +49,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Sesame](https://github.com/patricoferris/sesame) - Static site generator in OCaml.
 - [Saga](https://github.com/loopwerk/Saga) - Static site generator, written in Swift, allowing you to supply your own metadata type for your items.
 - [nextein](https://github.com/elmasse/nextein) - Static site generator with markdown + react for Next.js. ([Web](https://nextein.elmasse.io/))
+- [Styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 
 ## Notes
 

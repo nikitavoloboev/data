@@ -31,3 +31,4 @@
 - [Cumulus](https://github.com/paritytech/cumulus) - Set of tools for writing Substrate-based Polkadot parachains.
 - [8 Features That Make Polkadot Worthy of Attention (2021)](https://medium.com/coinmonks/what-is-polkadot-8-features-that-make-this-blockchain-worthy-of-attention-608b7023cbba)
 - [Compound Chain](https://github.com/compound-finance/compound-chain) - Interest-bearing stablecoin bridge between all DeFi chains. Built on Substrate. ([Web](https://compound.cash/))
+- [Polkadex](https://github.com/Polkadex-Substrate/Polkadex) - Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework. ([Web](https://www.polkadex.trade/))

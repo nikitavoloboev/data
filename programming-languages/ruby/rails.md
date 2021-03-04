@@ -55,3 +55,4 @@
 - [RailsAdmin](https://github.com/sferik/rails_admin) - Rails engine that provides an easy-to-use interface for managing your data.
 - [Bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 - [Rails Best Practices (2021)](https://www.youtube.com/watch?v=vw7PlBvLq9k)
+- [Prosopite](https://github.com/charkost/prosopite) - Rails N+1 queries auto-detection with zero false positives / false negatives.

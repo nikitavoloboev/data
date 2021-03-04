@@ -164,6 +164,7 @@
 - [React-Menu](https://github.com/szhsin/react-menu) - Accessible, responsive, and customizable React menu library.
 - [Leva](https://github.com/pmndrs/leva) - React-first components GUI.
 - [react-ast](https://github.com/clayrisser/react-ast) - Render abstract syntax trees using react.
+- [Chakra-UI AutoComplete](https://github.com/koolamusic/chakra-ui-autocomplete) - Accessible Autocomplete Utility for Chakra UI that composes Downshift ComboBox.
 
 ## Links
 
