@@ -63,7 +63,6 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Слишком свободный человек (2017)](https://www.youtube.com/watch?v=Zd2n8stiPj4)
 - [Путин уже не тот | Отношения России и запада (2021)](https://www.youtube.com/watch?v=8j8cAHMfrfs)
 - [Даниил Дубов Интервью (2021)](https://www.youtube.com/watch?v=iDLQyNKKbvw)
-- [Полное интервью Лаврова агентству РБК о Евросоюзе и США (2021)](https://www.youtube.com/watch?v=0otwCQ43WMY)
 - [Почему Путин боялся и ненавидел Немцова (2021)](https://www.youtube.com/watch?v=CVSLI9AyNIY)
 - [The Russian Revolution - OverSimplified](https://www.youtube.com/watch?v=Cqbleas1mmo)
 - [Russian War Songs Playlist](https://www.youtube.com/watch?v=GCElOmuofo8) ([Volume 2](https://www.youtube.com/watch?v=pY-xlRLEQS8))

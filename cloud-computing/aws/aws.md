@@ -155,3 +155,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [How they AWS](https://github.com/upgundecha/howtheyaws)
 - [What’s New at AWS](https://aws.amazon.com/new/)
 - [Awesome AWS Chalice](https://github.com/magnataurconsulting/awesome-chalice)
+- [Exploratory Analysis and ETL with Presto and AWS Glue (2020)](https://blog.bigdataboutique.com/2020/10/exploratory-analysis-and-etl-with-presto-and-aws-glue-iwtkxs)

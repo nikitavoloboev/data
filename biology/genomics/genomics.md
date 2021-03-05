@@ -56,3 +56,4 @@
 - [Awesome CRISPR](https://github.com/davidliwei/awesome-CRISPR) - List of software/websites/databases/papers for genome engineering.
 - [Genomics Workflows on AWS](https://github.com/aws-samples/aws-genomics-workflows) ([Web](https://docs.opendata.aws/genomics-workflows/))
 - [Pyne Lab](https://pyne-lab.uk/) - Single molecule biophysics of DNA interactions.
+- [Nextclade](https://clades.nextstrain.org/) - Viral genome alignment, clade assignment, mutation calling, and quality checks. ([Code](https://github.com/nextstrain/nextclade))
