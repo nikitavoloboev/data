@@ -84,3 +84,4 @@
 - [RISC-V assembler in Tcl](https://github.com/jbroll/riscv-asm)
 - [RISC-V Getting Started Guide](https://risc-v-getting-started-guide.readthedocs.io/en/latest/) ([Code](https://github.com/riscv/risc-v-getting-started-guide))
 - [Lion: A formally verified, 5-stage pipeline RISC-V core](https://github.com/standardsemiconductor/lion) ([HN](https://news.ycombinator.com/item?id=26341055))
+- [R2VM](https://github.com/nbdd0121/r2vm) - Rust RISC-V Virtual Machine.

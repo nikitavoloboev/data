@@ -146,6 +146,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Albert Zeyer](https://github.com/albertz/wiki)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
 - [neeasade's notes](https://notes.neeasade.net/)
+- [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))
 - [Gordon Brander's Patterns](http://gordonbrander.com/pattern/)
 - [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))
