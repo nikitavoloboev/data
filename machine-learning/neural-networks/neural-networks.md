@@ -210,3 +210,4 @@
 - [Training Neural Networks is ER-complete (2021)](https://arxiv.org/abs/2102.09798)
 - [Geoff Hinton 2021 – How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627) ([HN](https://news.ycombinator.com/item?id=26270668))
 - [Neural Network Matrix Visualization (2021)](https://iism.org/article/neural-network-matrix-visualization-61)
+- [Multimodal Neurons in Artificial Neural Networks (2021)](https://openai.com/blog/multimodal-neurons/)
