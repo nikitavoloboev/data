@@ -45,3 +45,5 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Off Grid Permaculture](https://offgridpermaculture.com/index.html) - Educational project designed to assist those seeking to develop a sustainable, self-sufficient lifestyle.
 - [A new chapter – full-time working from a van in a forest (2021)](https://ghuntley.com/a-new-chapter/) ([HN](https://news.ycombinator.com/item?id=26284635))
 - [IKEA Tiny House](https://www.architecturaldigest.com/story/ikea-tiny-house)
+- [ICON](https://www.iconbuild.com/) - 3D-Printed Homes for Sale.
+- [Automate Construction](https://automate.construction/) - Construction Industry Is Transforming.

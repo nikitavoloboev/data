@@ -57,3 +57,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VS Code can do that?](https://vscodecandothat.com/) - All the best things about Visual Studio Code that nobody ever bothered to tell you.
 - [Hacking VSCode - fun side projects that boost productivity (2021)](https://www.youtube.com/watch?v=XY9MaaR1dRI)
 - [Make VS Code Awesome](https://makevscodeawesome.com/)
+- [snp](https://github.com/djyde/snp) - VS Code code snippet generator.

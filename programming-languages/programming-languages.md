@@ -178,3 +178,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [PL Funding Panel with the Creators of Elm, Elixir, and Julia (2021)](https://www.youtube.com/watch?v=f0ouXATi25Iindex=8)
 - [#PLTalk - YouTube](https://www.youtube.com/playlist?list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1)
 - [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog)
+- [Mathematically Structured Programming Group @ University of Strathclyde](http://msp.cis.strath.ac.uk/)

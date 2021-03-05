@@ -91,6 +91,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Spotter](https://github.com/spotter-application/spotter) - Productivity tool to launch everything. Alfred alternative.
 - [keyrace](https://github.com/nat/keyrace) - Daily multiplayer keyboard races for macOS.
 - [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically switch your Mac between light and dark modes based on the ambient light sensor.
+- [Nuage](https://github.com/lbrndnr/nuage-macos) - Native SoundCloud app for macOS, written in SwiftUI.
 
 ## Other interesting apps
 

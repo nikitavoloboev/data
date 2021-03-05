@@ -107,3 +107,4 @@
 - [AArch64 Boards and Perception (2021)](https://marcin.juszkiewicz.com.pl/2021/02/22/aarch64-boards-and-perception/)
 - [µGUI](https://github.com/achimdoebler/UGUI) - Open Source GUI module for embedded systems.
 - [avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers.
+- [LambdaChip](http://lambdachip.com/index/) - Write Scheme on Embedded System.

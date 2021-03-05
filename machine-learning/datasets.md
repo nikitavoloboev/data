@@ -81,3 +81,4 @@
 - [The Next Evolution of Data Catalogs: Data Discovery Platforms (2021)](https://medium.com/selectstar/the-evolution-of-data-catalogs-the-data-discovery-platform-1627772ca760)
 - [DeepLabel](https://github.com/jveitchmichaelis/deeplabel) - Cross-platform image annotation tool for machine learning.
 - [WIT : Wikipedia-based Image Text Dataset](https://github.com/google-research-datasets/wit)
+- [Harry Potter Dataset](https://medium.com/google-developer-experts/a-riddikulus-dataset-fb68f9044e33)
