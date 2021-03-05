@@ -111,3 +111,6 @@
 - [Syllabus for Classics of Computer Science](https://canvas.harvard.edu/courses/34992/assignments/syllabus) ([HN](https://news.ycombinator.com/item?id=25842249))
 - [Princeton Network Systems (SNS) group](https://sns.cs.princeton.edu/) ([GitHub](https://github.com/princeton-sns))
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+- [Indiana University Computer Science Program Technical Report Index](https://help.luddy.indiana.edu/techreports/)
+- [Virginia Tech Computer Science Technical Reports](https://eprints.cs.vt.edu/view/year/)
+- [UTCS Tech Reports](https://apps.cs.utexas.edu/apps/tech-reports)
