@@ -162,3 +162,5 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [M1 Chart](https://m1chart.com/) - Stock market adjusted for the US-dollar money supply. ([HN](https://news.ycombinator.com/item?id=26128388))
 - [IB-insync](https://github.com/erdewit/ib_insync) - Python sync/async framework for Interactive Brokers API.
 - [xbbg](https://github.com/alpha-xone/xbbg) - Intuitive Bloomberg data API. ([Docs](https://xbbg.readthedocs.io/en/latest/))
+- [Backtesting.py](https://github.com/kernc/backtesting.py) - Backtest trading strategies with Python.
+- [pysystemtrade](https://github.com/robcarver17/pysystemtrade) - Systematic Trading in Python.

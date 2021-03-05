@@ -243,3 +243,4 @@
 - [VISSL](https://github.com/facebookresearch/vissl) - FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images. ([Web](https://vissl.ai/))
 - [Zumo Labs](https://www.zumolabs.ai/) - Generate custom synthetic data sets that result in more robust and reliable computer vision models. ([GitHub](https://github.com/ZumoLabs))
 - [Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors (2020)](https://arxiv.org/abs/2008.07043) ([Code](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection))
+- [Perceiver: General Perception with Iterative Attention (2021)](https://arxiv.org/abs/2103.03206) ([Code](https://github.com/lucidrains/perceiver-pytorch))
