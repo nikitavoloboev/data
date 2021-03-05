@@ -420,3 +420,4 @@
 - [Sliced Score Matching: A Scalable Approach to Density and Score Estimation (2019)](https://yang-song.github.io/blog/2019/ssm/)
 - [Accelerating Natural Gradient with Higher-Order Invariance (2018)](https://yang-song.github.io/blog/2018/geo/)
 - [Some interesting observations about machine learning publication practices from an outsider (2021)](https://www.reddit.com/r/MachineLearning/comments/lvwt3l/d_some_interesting_observations_about_machine/)
+- [Understanding deep learning requires rethinking generalization (2021)](https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext) ([HN](https://news.ycombinator.com/item?id=26346226))

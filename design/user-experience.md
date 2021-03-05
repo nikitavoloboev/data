@@ -69,3 +69,4 @@
 - [Collection of Human Interface and Software Design Guides (2020)](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 - [Apselon](https://apselon.co/) - UX/UI design service for a flat monthly fee.
 - [Tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)
+- [“User engagement” is code for “addiction” (2021)](https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac) ([HN](https://news.ycombinator.com/item?id=26346688))

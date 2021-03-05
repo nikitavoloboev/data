@@ -61,7 +61,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Investopedia](https://www.investopedia.com/) - Strives to empower every person to feel in control of their financial future.
 - [MoneyWeek playlists](https://www.youtube.com/user/MoneyWeekVideos/playlists) - Educational videos on finance/investing.
 - [Aswath Damodaran's teachings](http://pages.stern.nyu.edu/~adamodar/) ([YouTube](https://www.youtube.com/channel/UCLvnJL8htRR1T9cbSccaoVw/playlists))
-- [Alpaca](https://alpaca.markets/) - API for Stock Trading.
+- [Alpaca](https://alpaca.markets/) - API for Stock Trading. ([Python Client](https://github.com/alpacahq/alpaca-trade-api-python))
 - [IEX Cloud](https://iexcloud.io/) - Easiest way to use financial data.
 - [Mutiny Investment Strategy](https://mutinyfund.com/about/)
 - [Antifragile Investing: How to Not Be a Turkey](https://taylorpearson.me/antifragile-investing/)
@@ -161,3 +161,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Investments you own that you believe have the highest chance of 10X'ing in 5-10 years (2021)](https://www.reddit.com/r/investing/comments/lu6i2t/investments_you_own_that_you_believe_have_the/)
 - [M1 Chart](https://m1chart.com/) - Stock market adjusted for the US-dollar money supply. ([HN](https://news.ycombinator.com/item?id=26128388))
 - [IB-insync](https://github.com/erdewit/ib_insync) - Python sync/async framework for Interactive Brokers API.
+- [xbbg](https://github.com/alpha-xone/xbbg) - Intuitive Bloomberg data API. ([Docs](https://xbbg.readthedocs.io/en/latest/))

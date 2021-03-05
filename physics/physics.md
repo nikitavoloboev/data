@@ -181,3 +181,4 @@
 - [List of Unsolved Problems in Physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
 - [Maps of Matter (2021)](https://futureofmatter.com/maps_of_matter.html)
 - [The Future of Matter](https://futureofmatter.com/) - Notes on the striking things we're learning to do with matter.
+- [What do photons have to do with the electromagnetic force? (2021)](https://www.reddit.com/r/AskPhysics/comments/lxzs4x/what_do_photons_have_to_do_with_the/)

@@ -190,7 +190,7 @@
 - [hasql-queue](https://github.com/jfischoff/hasql-queue) - Module that utilizes PostgreSQL to implement a durable queue for efficently processing payloads. ([Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html))
 - [tmp-postgres](https://github.com/jfischoff/tmp-postgres) - Create temporary postgres instances. ([Keeping Database Tests Fast with `tmp-postgres`](http://jfischoff.github.io/blog/keeping-database-tests-fast.html)) ([Faster Database Testing with the New `tmp-postgres`](http://jfischoff.github.io/blog/faster-database-testing.html))
 - [DbSchema](https://github.com/db-schema/core) - Opinionated database schema management tool that lets you maintain your DB schema with a single ruby file.
-- [Apache AGE](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph database extension for PostgreSQL. ([Web](https://age.apache.org/))
+- [Apache Age](https://github.com/bitnine-oss/AgensGraph-Extension) - Graph Extension for PostgreSQL. ([Web](https://age.apache.org/)) ([HN](https://news.ycombinator.com/item?id=26345755))
 - [Bucardo.org](https://bucardo.org/) - PostgreSQL tools for Replication, Monitoring, and Productivity.
 - [Re-Introducing Hash Indexes in PostgreSQL (2021)](https://hakibenita.com/postgresql-hash-index)
 - [postgresql-hll](https://github.com/citusdata/postgresql-hll) - PostgreSQL extension adding HyperLogLog data structures as a native data type.
