@@ -174,6 +174,7 @@
 - [Provectus](https://provectus.com/) - AI-First Consultancy and Solutions Provider.
 - [8th Light](https://8thlight.com/)
 - [Trail of Bits](https://www.trailofbits.com/) ([GitHub](https://github.com/trailofbits))
+- [Test Double](https://testdouble.com/) - Agency Improving the World's Software.
 
 ## Links
 

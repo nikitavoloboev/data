@@ -33,3 +33,4 @@
 - [Hybrid Public Key Encryption](https://github.com/cfrg/draft-irtf-cfrg-hpke)
 - [What on Earth is this Encryption Scheme? (2021)](https://capnfabs.net/posts/wtf-encryption-scheme-synology-diskstation-nas/)
 - [rage-wasm](https://github.com/kanru/rage-wasm) - WebAssembly wrapper of the rage encryption library.
+- [SchnorrGate](https://github.com/lducas/SchnorrGate) - Testing Schnorr's factoring Claim in Sage.

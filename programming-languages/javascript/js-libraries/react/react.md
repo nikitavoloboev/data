@@ -202,3 +202,4 @@
 - [Why Did You Render? (2020)](https://haspar.us/why-did-you-render)
 - [Tao of React - Software Design, Architecture & Best Practices (2021)](https://alexkondov.com/tao-of-react/)
 - [React Training](https://reacttraining.com/) - React Corporate Workshops, Training, and Consulting. ([GitHub](https://github.com/reactTraining/))
+- [React, Tailwind, Airtable: is this the best MVP stack for your project? (2021)](https://www.youtube.com/watch?v=SLIy_4F6sCY)

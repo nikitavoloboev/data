@@ -61,3 +61,4 @@
 - [Why Wasn't Ruby 3 Faster? (2021)](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html) ([HN](https://news.ycombinator.com/item?id=26096340))
 - [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep (2021)](https://jemma.dev/blog/gc-mark-and-sweep) ([HN](https://news.ycombinator.com/item?id=26182796))
 - [Functional Options in Ruby (2021)](https://dmathieu.com/articles/development/ruby-functional-options/)
+- [Standard Ruby](https://github.com/testdouble/standard) - Ruby style guide, linter, and formatter. ([1.0 release](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/))
