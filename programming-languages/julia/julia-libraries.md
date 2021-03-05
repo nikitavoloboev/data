@@ -69,7 +69,7 @@
 - [Calculus.jl](https://github.com/JuliaMath/Calculus.jl) - Calculus functions in Julia.
 - [TSML](https://github.com/IBM/TSML.jl) - Package for time series data processing, classification, clustering, and prediction.
 - [Metatheory.jl](https://github.com/0x0f0f0f/Metatheory.jl) - General purpose metaprogramming and algebraic computation library for the Julia programming language.
-- [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) - Fast and modern CAS for a fast and modern language.
+- [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) - Fast and modern CAS for a fast and modern language. ([Forum Post](https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251)) ([HN](https://news.ycombinator.com/item?id=26356854))
 - [SymbolicSAT](https://github.com/JuliaSymbolics/SymbolicSAT.jl) - Extends SymbolicUtils expression simplification with a theorem prover.
 
 ## NLP

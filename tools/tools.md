@@ -469,3 +469,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Top 100 Developer Tools of 2020](https://stackshare.io/posts/top-developer-tools-2020)
 - [Great Question](https://greatquestion.co/) - Customer research tools for software teams. ([HN](https://news.ycombinator.com/item?id=26079141))
 - [Crontab.guru](https://crontab.guru/) - Cron schedule expression editor.
+- [Bring Your Own Client (2021)](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html) ([HN](https://news.ycombinator.com/item?id=26355779))

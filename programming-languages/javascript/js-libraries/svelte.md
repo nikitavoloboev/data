@@ -83,3 +83,4 @@
 - [sveld](https://github.com/IBM/sveld) - Generate TypeScript definitions for your Svelte components.
 - [Svelte Relay](https://github.com/kesne/svelte-relay) - Easily use GraphQL in Svelte, powered by the production-ready Relay runtime.
 - [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for Svelte 3 applications, specifically optimized for Single Page Applications (SPA).
+- [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) - Lightweight Electron alternative with native UI. ([HN](https://news.ycombinator.com/item?id=26361423)) ([Web](https://svelte.nodegui.org/))

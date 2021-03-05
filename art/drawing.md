@@ -34,3 +34,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Illustration Chronicles](https://illustrationchronicles.com/)
 - [drawdata.xyz](https://drawdata.xyz/) - Draw your Data and Download.
 - [Digital Painting: How to improve your Color Perception (2021)](https://www.youtube.com/watch?v=BpIVS5vuJEY)
+- [Ask HN: How do I learn drawing? (2021)](https://news.ycombinator.com/item?id=26360349)
