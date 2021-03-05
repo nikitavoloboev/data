@@ -92,3 +92,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [FeoBlog](https://github.com/NfNitLoop/feoblog) - Distributed blogging platform. It takes a lot of its inspiration from Mastodon and Scuttlebutt.
 - [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas) ([HN](https://news.ycombinator.com/item?id=26081672))
 - [TikTok and the Network Effects of Creativity (2021)](https://www.eugenewei.com/blog/2021/2/15/american-idle)
+- [Zenly](https://zen.ly/) - Live map of your friends and family. ([GitHub](https://github.com/znly))
