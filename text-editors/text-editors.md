@@ -68,6 +68,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [SharePad.io](https://www.sharepad.io/) - Collaborative code editor and compiler.
 - [Math Writer](https://writer.math.dev/) - Rich Text Math Editing on the Web. ([Code](https://github.com/ashok-khanna/math-writer))
 - [Plastic Editor](https://plastic-editor.netlify.app/) - Block-based editor, just like Roam Research. ([Code](https://github.com/djyde/plastic-editor))
+- [Plastic](https://github.com/djyde/plastic) - Block-based bi-directional note app. Works locally.
 
 ## Links
 

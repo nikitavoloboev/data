@@ -73,3 +73,4 @@
 - [Friendship ended with Monads: Testing out Algebraic effects in OCaml for Animations (2021)](https://gopiandcode.uk/logs/log-bye-bye-monads-algebraic-effects.html)
 - [Solving the Jane Street puzzle of Dec 2020 - Backtracking with OCaml (2021)](https://willemhoek.com/b/howto-solve-jane-street-puzzle-dec-2020-backtracking-with-ocaml)
 - [Retrofitting Effect Handlers onto OCaml (2020)](https://kcsrk.info/papers/drafts/retro-concurrency.pdf)
+- [OCaml JIT compiler](https://github.com/NathanReb/ocaml-jit) - Just In Time compiler for OCaml native toplevel.
