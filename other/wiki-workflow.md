@@ -144,6 +144,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)
 - [Artyom's tech notes](https://tek.brick.do/)
 - [Albert Zeyer](https://github.com/albertz/wiki)
+- [Juliette Rapala](https://github.com/jrapala/wiki)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Gordon Brander's Patterns](http://gordonbrander.com/pattern/)
 - [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
