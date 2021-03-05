@@ -78,3 +78,4 @@
 - [Iconduck](https://iconduck.com/) - 100k open source icons, downloadable and searchable.
 - [Jam icons](https://jam-icons.com/) - 890+ pixel perfect icons. ([Code](https://github.com/michaelampr/jam))
 - [Google Fonts - Icons Search](https://fonts.google.com/icons)
+- [Sensa Emoji](https://sensa.co/emoji/) - Free, vector, and open-source emoji set.

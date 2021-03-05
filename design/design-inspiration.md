@@ -68,6 +68,7 @@ Here are few more things I liked, design wise.
 - [OpenAI](https://openai.com/)
 - [Zoox](https://zoox.com/)
 - [Endel](https://endel.io/)
+- [GitBook](https://www.gitbook.com/)
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
 - [Numinus](https://numinus.ca/)
