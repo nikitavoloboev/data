@@ -126,6 +126,7 @@ And these Discord servers:
 - [Eye on Design](https://eyeondesign.aiga.org/)
 - [BBC](https://www.bbc.com/)
 - [Foreign Policy](https://foreignpolicy.com/) - Global Magazine of News and Ideas.
+- [Coda Story](https://www.codastory.com/)
 
 ### Other
 

@@ -80,3 +80,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Photos of Russia in 1941](https://www.rbth.com/history/333487-ussr-1941-photos)
 - [Russia Beyond](https://www.rbth.com/) - Gateway to all things Russian.
 - [Сергей Гуриев о том, почему отравили Навального и как Запад продолжит наказывать Кремль (2021)](https://www.youtube.com/watch?v=V5bpjmHIIFE)
+- [Зона: Репрессии не заканчиваются](https://www.youtube.com/playlist?list=PLzGVB_SrjptsNT4Ebnf6KAUbF32wGUorc)
