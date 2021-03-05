@@ -306,6 +306,7 @@ Here are few more things I liked, design wise.
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
 - [Mark Hkr](https://marlom.dev/) ([Code](https://github.com/markhker/marlomdev))
+- [Craig Mulligan](https://hobochild.com/)
 - [Jamie McHale](https://www.jamiemchale.com/)
 - [Cassie Evans](https://www.cassie.codes/) ([Code](https://github.com/cassieevans/personal-site-2019))
 - [Mackenzie Child](https://www.mackenziechild.me/)

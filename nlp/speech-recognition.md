@@ -38,3 +38,4 @@
 - [Paper List for Speech Translation](https://github.com/dqqcasia/awesome-speech-translation)
 - [Deep Contextualized Acoustic Representations For Semi-Supervised Speech Recognition (2020)](https://arxiv.org/abs/1912.01679) ([Code](https://github.com/awslabs/speech-representations))
 - [Lyra: A New Very Low-Bitrate Codec for Speech Compression (2021)](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
+- [Parrot.PY](https://github.com/chaosparrot/parrot.py) - Computer interaction using audio and speech recognition.

@@ -107,3 +107,4 @@
 - [parasail](https://github.com/jeffdaily/parasail) - Pairwise Sequence Alignment Library.
 - [CellChat](https://github.com/sqjin/CellChat) - R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data.
 - [BiLSTM-CNN-CRF architecture for sequence tagging](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf)
+- [scArches](https://github.com/theislab/scarches) - Package to integrate newly produced single-cell datasets into integrated reference atlases.

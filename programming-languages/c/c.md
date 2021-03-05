@@ -138,3 +138,4 @@
 - [ELF: symbol lookup via DT_HASH (2017)](https://flapenguin.me/elf-dt-hash)
 - [Actually Portable Executables (2021)](https://ahgamut.github.io/c/2021/02/27/ape-cosmo/) ([HN](https://news.ycombinator.com/item?id=26292166))
 - [Rust, Zig, and the Futility of "Replacing" C (2021)](https://gavinhoward.com/2021/02/rust-zig-and-the-futility-of-replacing-c/) ([Lobsters](https://lobste.rs/s/1iiifg/rust_zig_futility_replacing_c))
+- [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26347867))

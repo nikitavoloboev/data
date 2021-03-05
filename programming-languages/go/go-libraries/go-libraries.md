@@ -747,6 +747,8 @@
 - [go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Go library to provide a self-update mechanism to command line tools.
 - [btree](https://github.com/tidwall/btree) - Efficient B-tree implementation in Go.
 - [log](https://github.com/apex/log) - Structured logging package for Go.
+- [Go Data Structures](https://github.com/timtadh/data-structures)
+- [fs2](https://github.com/timtadh/fs2) - B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go.
 
 ## Links
 

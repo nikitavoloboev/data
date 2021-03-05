@@ -58,3 +58,4 @@
 - [Coq formalization of information theory and linear error correcting codes](https://github.com/affeldt-aist/infotheo)
 - [jsCoq](https://jscoq.github.io/) - Use Coq in Your Browser. ([Code](https://github.com/jscoq/jscoq))
 - [Translating My Z3 Tutorial to Coq (2021)](https://www.philipzucker.com/translating-z3-to-coq/)
+- [CoqPL: Verifying a compiler through equational means (2021)](https://www.youtube.com/watch?v=Qj8dGo010zI)
