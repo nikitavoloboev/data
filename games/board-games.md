@@ -28,3 +28,5 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Multiplayer Go for the Web (In Rust) with KataGo AI](https://go.terkwood.farm/)
 - [Essen 2016: Best board games from the biggest board game convention](https://arstechnica.com/gaming/2016/10/best-board-games-of-essen-2016/)
 - [My Journey Building a Multiplayer Board Game (2021)](https://denvaar.github.io/articles/board_game.html)
+- [What board game will never leave your collection and why? (2021)](https://www.reddit.com/r/boardgames/comments/ly15ct/what_game_will_never_leave_your_collection_and_why/)
+- [Board Games Reddit Wiki](https://www.reddit.com/r/boardgames/wiki/index)

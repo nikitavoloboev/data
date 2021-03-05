@@ -82,3 +82,4 @@
 - [DeepLabel](https://github.com/jveitchmichaelis/deeplabel) - Cross-platform image annotation tool for machine learning.
 - [WIT : Wikipedia-based Image Text Dataset](https://github.com/google-research-datasets/wit)
 - [Harry Potter Dataset](https://medium.com/google-developer-experts/a-riddikulus-dataset-fb68f9044e33)
+- [DocRED: A Large-Scale Document-Level Relation Extraction Dataset (2019)](https://arxiv.org/abs/1906.06127v3) ([Code](https://github.com/thunlp/DocRED))
