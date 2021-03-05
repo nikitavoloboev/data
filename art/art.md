@@ -406,3 +406,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Do not participate in EFT art market until it is environmentally sustainable (2021)](https://twitter.com/HulloJackie/status/1366215215654838274)
 - [NFTs, FOMO and anxiety, a thread (2021)](https://twitter.com/Sekani__Solomon/status/1366411732474884101)
 - [Guide to ecofriendly CryptoArt (NFTs)](https://github.com/memo/eco-nft)
+- [Cryptocurrencies and NFTs are an absolute disaster for so many more reasons than the ecological (2021)](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3)
