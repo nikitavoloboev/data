@@ -3,6 +3,7 @@
 ## Notes
 
 - [The key idea in semver is awareness. When I’m bumping versions of a bunch of libraries, I want to know which version bumps are most likely to cause breakage.](https://lobste.rs/s/kjm8jv/stop_abusing_semver)
+- [Traditional versioning numbers give you the ability to tick the major number when something important happens, which is a really important communication tool.](https://twitter.com/jtaby/status/1367571746312757248)
 
 ## Links
 

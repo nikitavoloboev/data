@@ -75,7 +75,7 @@
 - [From microops to abstract resources: constructing simpler CPU performance models (2020)](https://arxiv.org/abs/2012.11473)
 - [Let's Build a Microprocessor!](https://tiarkrompf.github.io/notes/?/lets-build-a-microprocessor/) - From NAND to RISC, using JavaScript as a HDL.
 - [ARM NEON intrinsics guide](https://github.com/thenifty/neon-guide)
-- [ASL Interpreter](https://github.com/ARM-software/asl-interpreter) - Example implementation of Arm's Architecture Specification Language (ASL).
+- [ASL Interpreter](https://github.com/ARM-software/asl-interpreter) - Example implementation of Arm's Architecture Specification Language (ASL). ([Fork](https://github.com/alastairreid/asl-interpreter))
 - [Corellium](https://corellium.com/) - ARM Device Virtualization. ([GitHub](https://github.com/corellium))
 - [Siliconpr0n: High Resolution Chip Maps](https://siliconpr0n.org/map/) ([HN](https://news.ycombinator.com/item?id=25964865))
 - [Fritzchens Fritz's Albums](https://www.flickr.com/photos/130561288@N04/albums) - Gorgeous high resolution die shots of (mostly) modern chips.

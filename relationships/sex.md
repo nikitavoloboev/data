@@ -17,3 +17,5 @@
 - [The Dirty Normal](http://www.thedirtynormal.com/) - Better sex. Powered by science.
 - [Coral](https://getcoral.app/) - Better sex through a mix of science, stories and exercises.
 - [Why Are Fewer Young Adults Having Casual Sex? (2021)](https://journals.sagepub.com/doi/full/10.1177/2378023121996854) ([HN](https://news.ycombinator.com/item?id=26329181)) ([Reddit](https://www.reddit.com/r/science/comments/lwuvpc/casual_sex_among_young_adults_has_declined_due_to/))
+- [Sex as a means for validation vs. Sex as way towards intimacy (2021)](https://www.reddit.com/r/sexover30/comments/lxq2rr/sex_as_a_means_for_validation_vs_sex_as_way/)
+- [Women's loss of desire and the pleasure gap (2021)](https://www.reddit.com/r/LowLibidoCommunity/comments/kjo53m/womens_loss_of_desire_and_the_pleasure_gap/)

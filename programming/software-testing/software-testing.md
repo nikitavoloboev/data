@@ -80,3 +80,4 @@
 - [Mutation Driven Testing: When TDD Just Isn’t Good Enough (2021)](https://software.rajivprab.com/2021/02/04/mutation-driven-testing-when-tdd-just-isnt-good-enough/) ([HN](https://news.ycombinator.com/item?id=26024915))
 - [Problems with TDD (2009)](http://www.dalkescientific.com/writings/diary/archive/2009/12/29/problems_with_tdd.html) ([Lobsters](https://lobste.rs/s/crutbk/problems_with_tdd_2009))
 - [Make tests a part of your app (2021)](https://sobolevn.me/2021/02/make-tests-a-part-of-your-app)
+- [Using Relational Problems to Teach Property-Based Testing (2021)](https://www.youtube.com/watch?v=TXOl_NJo8GE)

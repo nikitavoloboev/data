@@ -58,3 +58,4 @@ Learning to build [startups](startups/startups.md).
 - [What are the most impactful non-profits in startups and tech? (2021)](https://twitter.com/schlaf/status/1357413874291662848)
 - [How James Clear runs his business](https://twitter.com/lexpaval/status/1359834580539371520)
 - [A solo journey to $100k (2021)](https://draculatheme.com/pro/journey) ([HN](https://news.ycombinator.com/item?id=26262989))
+- [How to Buy, Grow, and Sell Small Companies](https://www.microacquisitions.com/how-to-buy-small-companies)

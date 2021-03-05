@@ -29,3 +29,4 @@
 - ["Just ship it" is not always the right mindset](https://www.indiehackers.com/forum/just-ship-it-is-not-always-the-right-mindset-b71eda7696)
 - [MVP review and interview with Brad Jasper of Catchnotes.app](https://www.youtube.com/watch?v=6NlfGp1QH20)
 - [Landing Page 101](https://www.syke.co/landingpage101) - Guide focused on how to perfect your landing pages as a solo-designer.
+- [Incredible landing page examples (2021)](https://twitter.com/mrsharma/status/1367301523710103557)

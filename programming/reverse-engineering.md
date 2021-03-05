@@ -79,3 +79,5 @@
 - [Lighthouse](https://github.com/gaasedelen/lighthouse) - Code Coverage Explorer for Reverse Engineers.
 - [How I cut GTA Online loading times by 70% (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) ([HN](https://news.ycombinator.com/item?id=26296339)) ([Lobsters](https://lobste.rs/s/jzj4q9/how_i_cut_gta_online_loading_times_by_70))
 - [It Can Happen to You (2021)](https://www.mattkeeter.com/blog/2021-03-01-happen/) ([HN](https://news.ycombinator.com/item?id=26337046))
+- [Scripts for Hopper Disassembler](https://github.com/droe/hopper-scripts)
+- [HopperScripts](https://github.com/phracker/HopperScripts) - Python Scripts for use with Hopper Disassembler.

@@ -5,6 +5,7 @@
 - Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.
 - [Underappreciated competitive advantage: letting people do x without creating an account.](https://twitter.com/paulg/status/1261976515408990208)
 - Love how both Apple & [Linear](https://linear.app/release-2020-12) present features in neat boxes on a grid.
+- [My firmest design opinion is that every piece of software should have a cute animal mascot that helps you out as you go through onboarding and stuff. No exceptions.](https://twitter.com/ctbeiser/status/1367626163405746176)
 
 ## Links
 
