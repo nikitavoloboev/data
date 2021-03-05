@@ -126,6 +126,7 @@
 - [Kite](https://github.com/koding/kite) - Micro-service framework in Go.
 - [safehtml](https://github.com/google/safehtml) - Provides immutable string-like types that wrap web types such as HTML, JavaScript and CSS.
 - [HttpRouter](https://github.com/julienschmidt/httprouter) - High performance HTTP request router that scales well.
+- [GoRequest](https://github.com/parnurzeal/gorequest) - Simplified HTTP client.
 
 ## GraphQL
 

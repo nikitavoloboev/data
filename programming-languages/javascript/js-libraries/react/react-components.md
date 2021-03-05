@@ -165,6 +165,7 @@
 - [Leva](https://github.com/pmndrs/leva) - React-first components GUI.
 - [react-ast](https://github.com/clayrisser/react-ast) - Render abstract syntax trees using react.
 - [Chakra-UI AutoComplete](https://github.com/koolamusic/chakra-ui-autocomplete) - Accessible Autocomplete Utility for Chakra UI that composes Downshift ComboBox.
+- [Supabase UI](https://github.com/supabase/ui) - React UI library.
 
 ## Links
 
