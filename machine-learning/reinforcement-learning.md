@@ -174,3 +174,4 @@
 - [Self-supervised learning: The dark matter of intelligence (2021)](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence) ([Tweet](https://twitter.com/ylecun/status/1367516830542270467))
 - [Examples of RL applied to problems that aren’t gaming/robotics? (2021)](https://www.reddit.com/r/reinforcementlearning/comments/lx50ao/examples_of_rl_applied_to_problems_that_arent/)
 - [Self-Supervised Policy Adaptation during Deployment (2020)](https://arxiv.org/abs/2007.04309) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/lxdiye/exploring_selfsupervised_policy_adaptation_to/))
+- [Self-Supervised Learning - Yann LeCun (2019)](https://www.youtube.com/watch?v=SaJL4SLfrcY&t=2532s)

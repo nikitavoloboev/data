@@ -36,4 +36,4 @@
 - [Sorcar](https://github.com/aachman98/Sorcar) - Procedural modeling in Blender using Node Editor. ([Web](https://aachman98.itch.io/sorcar))
 - [EasyBake](https://github.com/leukbaars/EasyBake) - Texture baking UI for Blender.
 - [Blender 2.92 (2021)](https://www.blender.org/download/releases/2-92/) ([HN](https://news.ycombinator.com/item?id=26274618))
-- [zpy](https://github.com/ZumoLabs/zpy) - Synthetic data in Blender. ([Reddit](https://www.reddit.com/r/GraphicsProgramming/comments/lxn8nx/using_blender_for_computer_vision/))
+- [zpy](https://github.com/ZumoLabs/zpy) - Synthetic data in Blender. ([Reddit](https://www.reddit.com/r/GraphicsProgramming/comments/lxn8nx/using_blender_for_computer_vision/)) ([Reddit 2](https://www.reddit.com/r/MachineLearning/comments/lxn6cm/p_synthetic_data_for_cv_with_python_and_blender/))
