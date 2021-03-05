@@ -97,3 +97,4 @@
 - [rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the unified collective. ([Awesome](https://github.com/rehypejs/awesome-rehype))
 - [linkedom](https://github.com/WebReflection/linkedom) - Triple-linked lists based DOM implementation.
 - [bin2png](https://github.com/lovasoa/bin2png) - Embed binary data inside an HTML file in an efficient way.
+- [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine. ([Web](http://www.litehtml.com/))

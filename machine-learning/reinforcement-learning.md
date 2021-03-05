@@ -171,3 +171,4 @@
 - [Task-Agnostic Morphology Optimization (2021)](https://openreview.net/pdf?id=CGQ6ENUMX6) ([Code](https://github.com/jhejna/morphology-opt))
 - [MADRL](https://github.com/sisl/MADRL) - Code for multi-agent deep reinforcement learning.
 - [Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings (2021)](https://arxiv.org/abs/2103.02886)
+- [Self-supervised learning: The dark matter of intelligence (2021)](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence) ([Tweet](https://twitter.com/ylecun/status/1367516830542270467))

@@ -140,7 +140,7 @@
 - [Elements](https://www.elements.nl/en) - Specialist for Digital Design & Development.
 - [HYPE4](https://hype4.com/) - Web and mobile / design and development.
 - [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.
-- [gskinner](https://gskinner.com/)
+- [gskinner](https://gskinner.com/) ([GitHub](https://github.com/gskinnerTeam))
 - [47 Degrees](https://www.47deg.com/) - Engineering the Future of Enterprise.
 - [Moritz Systems](https://www.moritz.systems/) - Code Security, Embedded Solutions, IOT and Edge Computing.
 - [LateCheckout](https://withlatecheckout.com/) - Communities design firm.

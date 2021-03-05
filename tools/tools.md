@@ -328,6 +328,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [put.re](https://put.re/) - Privacy focused Imgur alternative.
 - [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([Code](https://github.com/zulip/zulip/))
 - [Roam Research](https://roamresearch.com/) - Note-taking tool for networked thought.
+- [Synth](https://github.com/openquery-io/synth) - Tool for generating realistic data using a declarative data model.
 - [jazz rooms](https://jazz.ninja/)
 - [CloudSynth](https://cloudsynth.com/) - Inbox Zero for Teams.
 - [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
