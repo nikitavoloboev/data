@@ -199,6 +199,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Jsonnet](https://github.com/google/jsonnet) - Data templating language. ([Web](https://jsonnet.org/))
 - [Baremetrics](https://baremetrics.com/) - Subscription Analytics & Insights for Stripe, Braintree, Recurly & more.
 - [Reddit Write](https://redditwrite.datasources.co/) - Writing software trying to help you optimize and create the best reddit posts you can to attract more upvotes and comments.
+- [Openbase](https://openbase.com/) - Choose the right package every time. Compare millions of open-source packages with reviews and insights.
 - [Rasa](https://rasa.com/) - Open source conversational AI.
 - [Data Fetcher for Airtable](https://datafetcher.io/)
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.

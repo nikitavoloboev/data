@@ -10,6 +10,7 @@
 - [Obelisk](https://github.com/obsidiansystems/obelisk) - Provides an easy way to develop and deploy your Reflex project for web and mobile. ([Web](https://haskell.zettel.page/2012403.html))
 - [type-of-html](https://github.com/knupfer/type-of-html) - High performance type safe html generation.
 - [EulerHS](https://github.com/juspay/euler-hs) - Free monadic framework for easy building backend and console applications in Haskell.
+- [websockets](https://github.com/jaspervdj/websockets) - Haskell library for creating WebSocket-capable servers.
 
 ## DB
 
