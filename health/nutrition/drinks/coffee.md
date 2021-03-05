@@ -31,3 +31,4 @@
 - [I (almost) quit caffeine in one year (2021)](https://www.wints.org/blog/2021.01.04/) ([HN](https://news.ycombinator.com/item?id=25642182))
 - [Espresso machine suggestions (2021)](https://twitter.com/MylesBorins/status/1349945730853531657)
 - [Tasting Coffee](https://tasting.coffee/) - Explore and taste a coffee roaster.
+- [Other foods/sweets can change the taste of coffee](https://www.reddit.com/r/Coffee/comments/lxlk5g/today_i_realized_how_much_other_foodssweets_can/)

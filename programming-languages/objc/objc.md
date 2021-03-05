@@ -29,3 +29,4 @@
 - [Oral History of Brad Cox (2016)](https://www.youtube.com/watch?v=1xrL2d5omuA)
 - [Brad Cox has died](https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225) ([HN](https://news.ycombinator.com/item?id=25876767))
 - [Tagged Pointer Strings in Obj-C (2015)](https://www.mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html)
+- [Be careful with Obj-C bridging in Swift (2021)](https://swiftrocks.com/be-careful-with-objc-bridging-in-swift)

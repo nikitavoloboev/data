@@ -64,3 +64,4 @@
 - [TinyPilot](https://github.com/mtlynch/tinypilot) - Turn your Raspberry Pi into a browser-based KVM. Easy-to-use, low-cost device to manage your servers. ([Web](https://tinypilotkvm.com/))
 - [Bringing the Moddable SDK (and modern JavaScript) to the Raspberry Pi Pico (2021)](https://blog.moddable.com/blog/pico/)
 - [RaSCSI](https://github.com/akuker/RASCSI) - Virtual SCSI device emulator that runs on a Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=26247078))
+- [Getting started with Raspberry Pi Pico - MicroPython (2021)](https://www.youtube.com/watch?v=ETf1hD_XfJg)

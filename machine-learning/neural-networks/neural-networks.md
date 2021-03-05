@@ -211,3 +211,4 @@
 - [Geoff Hinton 2021 – How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627) ([HN](https://news.ycombinator.com/item?id=26270668))
 - [Neural Network Matrix Visualization (2021)](https://iism.org/article/neural-network-matrix-visualization-61)
 - [Multimodal Neurons in Artificial Neural Networks (2021)](https://openai.com/blog/multimodal-neurons/) ([HN](https://news.ycombinator.com/item?id=26347613)) ([Code](https://github.com/openai/CLIP-featurevis))
+- [OpenAI Microscope](https://microscope-azure-edge.openai.com/models) - Collection of visualizations of every significant layer and neuron of several common “model organisms” which are often studied in interpretability.

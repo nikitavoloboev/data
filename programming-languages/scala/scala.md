@@ -66,3 +66,4 @@
 - [From First Principles: Why Scala? (2021)](https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html) ([HN](https://news.ycombinator.com/item?id=26101435))
 - [Scale By The Bay 2020: Martin Odersky, Countdown to 3 (2020)](https://www.youtube.com/watch?v=J-KDLrdlg78)
 - [sbt-revolver](https://github.com/spray/sbt-revolver) - SBT plugin for dangerously fast development turnaround in Scala.
+- [Generic Derivation is the New Reflection by Alexander Ioffe (2021)](https://www.youtube.com/watch?v=E9L1-rkYPng)

@@ -357,6 +357,7 @@
 - [nest_asyncio](https://github.com/erdewit/nest_asyncio) - Patch asyncio to allow nested event loops.
 - [eventkit](https://github.com/erdewit/eventkit) - Event-driven data pipelines.
 - [pystatsd](https://github.com/jsocol/pystatsd) - Python client for statsd.
+- [AIOFile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
 
 ## Links
 

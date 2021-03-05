@@ -83,3 +83,4 @@
 - [José Valim Reveals “Project Nx” (Numerical Elixir) (2021)](https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/) ([HN](https://news.ycombinator.com/item?id=26076680))
 - [Three Ways To Get Started With Mutation Testing (2021)](https://devonestes.com/three-ways-to-get-started-with-mutation-testing)
 - [How to process large amounts of data in Elixir with Ecto (2021)](https://mkaszubowski.com/2021/02/16/ecto-repo-stream-data-processing.html) ([Lobsters](https://lobste.rs/s/qhdm3w/how_process_large_amounts_data_elixir))
+- [Concurrent Data Processing in Elixir Book (2021)](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/) - Fast, Resilient Applications with OTP, GenStage, Flow, and Broadway.
