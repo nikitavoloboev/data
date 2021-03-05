@@ -86,3 +86,4 @@
 - [dnc (Domain Name Checker)](https://github.com/fcambus/dnc) - CLI tool to check domain names configuration.
 - [ZDNS](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool.
 - [go-doh-client](https://github.com/babolivier/go-doh-client) - Go client library implementation of DNS over HTTPS.
+- [RouteDNS](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS.

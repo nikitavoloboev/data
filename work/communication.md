@@ -12,6 +12,7 @@
 - [Respect and honesty are the foundation layer that all human contact is built upon. Whatever the situation and whoever we're talking to, let's offer respect, and let's be deserving of people's trust. Offline or online, it doesn't matter.](https://twitter.com/fchollet/status/1340859937782697986)
 - [I’ve learned that when I have a positive thought about someone, it’s generally worth communicating it. If I think a coworker saved me on some project, I tell them. If my partner is making me feel warm and fuzzy, I tell her. If someone impresses me, I say so. I don’t think people express these things nearly as often as they feel them, and I expect that many of the positive things that do end up communicated have another motive behind them. Simple earnest positive comments are very much worthwhile.](https://news.ycombinator.com/item?id=25551487)
 - [Most people do not listen with the intent to understand, they listen with the intent to reply.](https://twitter.com/awilkinson/status/1353760808191180801)
+- [My love language is direct feedback and clear next steps.](https://twitter.com/NatashaVianna/status/1367159598390550528)
 
 ## Links
 
