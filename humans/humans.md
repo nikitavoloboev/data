@@ -27,6 +27,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Creative challenges with Alyssa X](https://nesslabs.com/alyssa-x-interview)
 - [The Observer Effect – Daniel Ek (2020)](https://www.theobservereffect.org/daniel.html)
 - [The Observer Effect – Marc Andreessen](https://www.theobservereffect.org/marc.html)
+- [The Steve Jobs 95 Interview](https://www.youtube.com/watch?v=M6Oxl5dAnR0)
 
 ## Interesting bios
 

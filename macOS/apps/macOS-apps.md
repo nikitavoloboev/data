@@ -92,6 +92,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [keyrace](https://github.com/nat/keyrace) - Daily multiplayer keyboard races for macOS.
 - [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically switch your Mac between light and dark modes based on the ambient light sensor.
 - [Nuage](https://github.com/lbrndnr/nuage-macos) - Native SoundCloud app for macOS, written in SwiftUI.
+- [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - App for tracking personal Bluetooth devices via Apple's massive Find My network.
 
 ## Other interesting apps
 
