@@ -263,3 +263,4 @@
 - [Type inference for Haskell](http://jeremymikkola.com/posts/2019_01_01_type_inference_intro.html)
 - [Why Learn Haskell?](https://crypto.stanford.edu/~blynn/haskell/why.html) ([HN](https://news.ycombinator.com/item?id=26300741))
 - [Haskell Executable Sizes (2021)](https://dfithian.github.io/2021/02/28/haskell-executable-sizes.html) ([Lobsters](https://lobste.rs/s/li8oyx/haskell_executable_sizes))
+- [Emily Pillmore – Hulk SMASH: re-imagining the Maybe-monad and its design space (2020)](https://www.youtube.com/watch?v=4aQlFMvKgdc)

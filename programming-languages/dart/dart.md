@@ -18,3 +18,4 @@
 - [Functions Framework for Dart](https://github.com/GoogleCloudPlatform/functions-framework-dart) - FaaS (Function as a service) framework for writing portable Dart functions.
 - [realtime-dart](https://github.com/supabase/realtime-dart) - Listens to changes in a PostgreSQL Database and via websockets.
 - [OverReact](https://github.com/Workiva/over_react) - Library for building statically-typed React UI components using Dart.
+- [image](https://github.com/brendan-duncan/image) - Dart library for decoding/encoding image formats, and image processing.
