@@ -98,4 +98,4 @@
 - [Growing generative adversarial networks, layer by layer (2021)](https://www.amazon.science/blog/growing-generative-adversarial-networks-layer-by-layer)
 - [GANsformer: Generative Adversarial Transformers](https://github.com/dorarad/gansformer)
 - [Anycost GANs for Interactive Image Synthesis and Editing](https://github.com/mit-han-lab/anycost-gan)
-- [State-of-the-Art Image Generative Models (2021)](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/)
+- [State-of-the-Art Image Generative Models (2021)](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/) ([HN](https://news.ycombinator.com/item?id=26351754))
