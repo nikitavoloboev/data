@@ -264,6 +264,7 @@
 - [Ask HN: Startup employees getting nothing after acquisition, is this normal? (2021)](https://news.ycombinator.com/item?id=26098882)
 - [Will it make the boat go faster? This question could also be vital for your early-stage team & company (2021)](https://twitter.com/shreyas/status/1365732851732209668)
 - [Course: How to Build a Community-led Product](https://communityled.typeform.com/to/kLQDDVWT) ([Tweet](https://twitter.com/gregisenberg/status/1364683626667982861))
+- [Companies that achieved scale with small teams (2021)](https://twitter.com/ankitkr0/status/1367700549982810114)
 
 ## Images
 

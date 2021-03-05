@@ -239,3 +239,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Redbean](https://justine.lol/redbean/index.html) - Single-file distributable web server. ([HN](https://news.ycombinator.com/item?id=26271117)) ([Lobsters](https://lobste.rs/s/3emvqh/redbean_single_file_distributable_web)) ([Code](https://github.com/jart/cosmopolitan/blob/master/tool/net/redbean.c))
 - [The small web is beautiful (2021)](https://benhoyt.com/writings/the-small-web-is-beautiful/) ([Lobsters](https://lobste.rs/s/d6qwff/small_web_is_beautiful))
 - [Unlock](https://unlock-protocol.com/) - Protocol for memberships built on a blockchain. ([Code](https://github.com/unlock-protocol/unlock))
+- [Web Mini Apps](https://web.dev/mini-apps/) - Apps that are built with web technologies but that do not run in browsers.

@@ -25,6 +25,7 @@
 - [IDOM](https://github.com/idom-team/idom) - Create highly interactive web pages purely in Python.
 - [apischema](https://github.com/wyfo/apischema) - JSON (de)serialization, GraphQL and JSON schema generation through python typing.
 - [Proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight, single file HTTP proxy server in Python.
+- [Ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. ([Web](https://ariadnegraphql.org/))
 
 ## ML
 
