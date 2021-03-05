@@ -199,3 +199,4 @@ I publish most of my work and make it open source for other people to use and re
 - [My GitHub Open PRs](https://github.com/search?o=asc&q=is:pr+is:open+archived:false+user:@me&s=updated&type=Issues)
 - [Terraform Provider GitHub](https://github.com/integrations/terraform-provider-github)
 - [ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line.
+- [GitHub Diff](https://git-diff.netlify.app/) - Compare changes across GitHub branches, commits, or tags. ([Code](https://github.com/breadthe/svelte-git-diff))

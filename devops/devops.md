@@ -34,7 +34,7 @@
 - [What is DevOps? (2020)](https://cloud.google.com/devops)
 - [Sysdig](https://sysdig.com/) - Security, Compliance & Performance for your Devops Workflows.
 - [A List of Skills and PracticesWe Use to Train Our DevOps Internally (2020)](https://blog.maddevs.io/devops-engineers-in-mad-devs-449ded5221b6)
-- [Bridgecrew](https://bridgecrew.io/) - Codified cloud security for DevOps.
+- [Bridgecrew](https://bridgecrew.io/) - Codified cloud security for DevOps. ([GitHub](https://github.com/bridgecrewio))
 - [You Reap What You Code (2020)](https://ferd.ca/you-reap-what-you-code.html)
 - [How we use HashiCorp Nomad (2020)](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/) ([HN](https://news.ycombinator.com/item?id=23439788))
 - [Ask HN: Has anyone moved from Kubernetes to Nomad? (2020)](https://news.ycombinator.com/item?id=24865707)

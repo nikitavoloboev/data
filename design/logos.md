@@ -12,3 +12,4 @@
 - [Font In Logo](https://www.fontinlogo.com/) - Search Engine for Logos & Fonts.
 - [Vector Logo Zone](https://www.vectorlogo.zone/?q=) - Collection of vector (SVG) logos, sized and laid out in a uniform way so they look good together next to each other. ([Code](https://github.com/VectorLogoZone/vectorlogozone))
 - [Free Typography Logo Maker](https://formito.com/tools/logo)
+- [Logology](https://www.logology.co/) - Get a brand identity for your startup, in 10 minutes.

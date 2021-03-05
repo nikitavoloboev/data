@@ -72,6 +72,7 @@ Here are few more things I liked, design wise.
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
 - [Numinus](https://numinus.ca/)
+- [Logology](https://www.logology.co/)
 - [Quill](https://quill.chat/) - Nice mobile & desktop view.
 - [Staff Design](https://staff.design/) - Amazing mobile view too.
 - [CleanShot X](https://cleanshot.com/)
