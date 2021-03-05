@@ -230,4 +230,4 @@
 - [Compressive transformer PyTorch implementation with notes](https://nn.labml.ai/transformers/compressive/index.html)
 - [DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E. ([HN](https://news.ycombinator.com/item?id=26255325))
 - [PyTorch: From Centralized To Federated (2021)](https://flower.dev/blog/2021-02-24-pytorch-from-centralized-to-federated)
-- [PyTorch 1.8 (2021)](https://pytorch.org/blog/pytorch-1.8-released/)
+- [PyTorch 1.8, with AMD ROCm support (2021)](https://pytorch.org/blog/pytorch-1.8-released/) ([HN](https://news.ycombinator.com/item?id=26353184))
