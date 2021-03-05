@@ -170,3 +170,4 @@
 - [Proto-RL: Reinforcement Learning with Prototypical Representations](https://github.com/denisyarats/proto)
 - [Task-Agnostic Morphology Optimization (2021)](https://openreview.net/pdf?id=CGQ6ENUMX6) ([Code](https://github.com/jhejna/morphology-opt))
 - [MADRL](https://github.com/sisl/MADRL) - Code for multi-agent deep reinforcement learning.
+- [Improving Computational Efficiency in Visual Reinforcement Learning via Stored Embeddings (2021)](https://arxiv.org/abs/2103.02886)

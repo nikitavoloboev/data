@@ -162,3 +162,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Listenbox](https://listenbox.app/) - Listen and publish YouTube shows as podcasts.
 - [Subcaster](https://subcaster.com/) - Compare podcast tools side-by-side.
 - [Podz](https://apps.apple.com/us/app/podz-podcast-highlights/id1516678719?ref=producthunt) - The best parts of podcasts in a personalized feed.
+- [Podcast note taking app that integrates directly with Roam Research (2021)](https://jgood.io/2021-02-20-poc-pod-notes)

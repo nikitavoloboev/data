@@ -1,5 +1,9 @@
 # [PyTorch](http://pytorch.org/)
 
+## Notes
+
+- [torch.fx allows you to write composable transformations in Python that take in PyTorch code and output PyTorch code](https://twitter.com/cHHillee/status/1367621538791317504)
+
 ## Links
 
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)

@@ -14,3 +14,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [ChinaTalk](https://chinatalkshow.libsyn.com/) - Weekly conversation exploring China's economy and tech scene.
 - [Sino Subreddit](https://www.reddit.com/r/Sino/) - News, information, and discussion on anything China and Chinese related.
 - [China Is Not Our Enemy with Chris Hedges (2021)](https://www.youtube.com/watch?v=l4sVSdY7FHg)
+- [Beijing unveils plan for blockchain-based government (2021)](https://technode.com/2020/07/16/beijing-unveils-plan-for-blockchain-based-government/) ([Tweet](https://twitter.com/balajis/status/1283979539337449473))
