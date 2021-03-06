@@ -57,3 +57,4 @@
 - [Serverless TypeScript: A Complete Setup for AWS SAM Lambdas (2021)](https://evilmartians.com/chronicles/serverless-typescript-a-complete-setup-for-aws-sam-lambda)
 - [cdk-watch](https://github.com/teamplanes/cdk-watch) - CLI to watch and live-update your CDK Stack's Lambdas.
 - [re:Web](https://github.com/apparentorder/reweb) - Enables classic web applications to run on AWS Lambda.
+- [serverlessish](https://github.com/glassechidna/serverlessish) - Run the same Docker images in AWS Lambda and AWS ECS.

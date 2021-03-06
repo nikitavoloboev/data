@@ -240,3 +240,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The small web is beautiful (2021)](https://benhoyt.com/writings/the-small-web-is-beautiful/) ([Lobsters](https://lobste.rs/s/d6qwff/small_web_is_beautiful))
 - [Unlock](https://unlock-protocol.com/) - Protocol for memberships built on a blockchain. ([Code](https://github.com/unlock-protocol/unlock))
 - [Web Mini Apps](https://web.dev/mini-apps/) - Apps that are built with web technologies but that do not run in browsers.
+- [The Web’s Missing Interoperability (2021)](https://stratechery.com/2021/the-webs-missing-interoperability/) ([HN](https://news.ycombinator.com/item?id=26316209))

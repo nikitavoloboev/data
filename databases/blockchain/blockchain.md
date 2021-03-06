@@ -110,3 +110,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [CovenantSQL](https://covenantsql.io/) - Decentralized, trusted, high performance, SQL database with blockchain features. ([Code](https://github.com/CovenantSQL/CovenantSQL))
 - [Graph Node](https://github.com/graphprotocol/graph-node) - Protocol for building decentralized applications (dApps) quickly on Ethereum and IPFS using GraphQL.
 - [Cosmos SDK vs Substrate (2021)](https://gregdhill.xyz/posts/cosmos-sdk-vs-substrate/)
+- [Data Availability & Scaling Blockchains (2021)](https://medium.com/zeroknowledge/data-availability-scaling-blockchains-852f9a54fe54)

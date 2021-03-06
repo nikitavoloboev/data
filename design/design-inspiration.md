@@ -410,6 +410,7 @@ Here are few more things I liked, design wise.
 - [Jeremy Friesen](https://takeonrules.com/)
 - [Noah fleischmann](https://noahfleischmann.com/) ([Code](https://github.com/fnoah/noahfleischmann.com))
 - [Benedict Evans](https://www.ben-evans.com/)
+- [Nataliya Karatkova](https://karatkova.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Tomas](https://www.tomas.io/)
 - [Neef Rehman](https://neef.co/)
