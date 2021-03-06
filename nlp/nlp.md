@@ -264,3 +264,4 @@
 - [Paragraph Vectors in PyTorch](https://github.com/inejc/paragraph-vectors)
 - [NeuSpell: A Neural Spelling Correction Toolkit](https://github.com/neuspell/neuspell)
 - [Natural Language YouTube Search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language.
+- [Accelerate](https://github.com/huggingface/accelerate) - Simple way to train and use NLP models with multi-GPU, TPU, mixed-precision.
