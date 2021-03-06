@@ -269,6 +269,7 @@
 - [SwiftUIKitView](https://github.com/AvdLee/SwiftUIKitView) - Easily use UIKit views in your SwiftUI applications. Create Xcode Previews for UIView elements.
 - [Loadability](https://github.com/julianschiavo/Loadability) - Powerful, modern networking and caching with SwiftUI support.
 - [AlertToast](https://github.com/elai950/AlertToast) - Present Apple-like alert & toast using SwiftUI.
+- [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - Open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind.
 
 ## Test
 

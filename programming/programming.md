@@ -350,3 +350,4 @@
 - [Feedback Ladders: How We Encode Code Reviews at Netlify (2020)](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) ([HN](https://news.ycombinator.com/item?id=26319865))
 - [How to execute an object file (2021)](https://blog.cloudflare.com/how-to-execute-an-object-file-part-1/)
 - [Building cool software projects notes](https://beepb00p.xyz/exobrain/programming/projects.html)
+- [On Understanding Data Abstraction, Revisited (2009)](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)

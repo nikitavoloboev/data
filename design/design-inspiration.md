@@ -514,6 +514,7 @@ Here are few more things I liked, design wise.
 - [Connor Sears](http://connor.town/) - Clean.
 - [Adam Morse](http://mrmrs.cc)
 - [Lily Nguyen](https://lily.digital)
+- [Alexey Guzey](https://guzey.com/)
 - [Sean Thompson](https://cyanhex.co/)
 - [Nienke](https://nienkedekker.com/) - Like the background and colors.
 - [Jani Eväkallio](https://jevakallio.dev/)

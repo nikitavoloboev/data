@@ -36,3 +36,4 @@
 - [30 Minutes of Relaxing Visuals from Studio Ghibli](https://www.youtube.com/watch?v=z9Ug-3qhrwY)
 - [Transforming animation with machine learning (2021)](https://medium.com/embarkstudios/transforming-animation-with-machine-learning-27ac694590c)
 - [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://github.com/google/monster-mash)
+- [Animated Engines](http://animatedengines.com/) ([HN](https://news.ycombinator.com/item?id=26368939))

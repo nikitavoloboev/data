@@ -90,3 +90,5 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Trust: The Need for Public Understanding of How Science Works (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227) ([HN](https://news.ycombinator.com/item?id=26314610))
 - [MIT Press Journals](https://www.mitpressjournals.org/action/showPublications)
 - [The MIT Press launches Direct to Open (2021)](https://mitpress.mit.edu/blog/mit-press-launches-direct-open) ([HN](https://news.ycombinator.com/item?id=26322089))
+- [The Lens](https://www.lens.org/lens/) - Free & Open Patent and Scholarly Search.
+- [Iris.ai](https://iris.ai/) - AI engine for scientific text understanding.

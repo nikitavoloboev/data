@@ -145,3 +145,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Use Touch ID for Sudo on Mac (2021)](https://davidwalsh.name/touch-sudo) ([HN](https://news.ycombinator.com/item?id=26302139))
 - [Linux Desktop on Apple Silicon/M1 in Practice](https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5) ([HN](https://news.ycombinator.com/item?id=26324590))
 - [Reverse-engineering Rosetta 2 (2021)](https://ffri.github.io/ProjectChampollion/part1/)
+- [Reverse engineering Rosetta 2 in M1 Mac](https://github.com/FFRI/ProjectChampollion)
