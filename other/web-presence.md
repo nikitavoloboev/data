@@ -33,7 +33,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Meetup](https://www.meetup.com/members/185347053/)
 - [LinkedIn](https://www.linkedin.com/in/nikitavoloboev)
 - [Facebook](https://facebook.com/nikitavoloboev)
-- [Spectrum](https://spectrum.chat/users/nikivi?tab=posts)
+- [Spectrum](https://spectrum.chat/users/nikivi)
 - [VK](https://vk.com/nikitavoloboev)
 
 ## Learn

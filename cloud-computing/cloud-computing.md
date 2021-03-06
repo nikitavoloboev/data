@@ -35,6 +35,10 @@
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
 - [Hadean](https://hadean.com/) - Distributed Computing at Massive Scale.
 
+## Notes
+
+- [My goto hosting stack for the hyperbeast stack when I'm on a budget: 1. Stick everything inside a single VPS. 2. Use Dokku to: Config Nginx for me. Manage docker containers. Run cron job to backup the db.](https://twitter.com/benawad/status/1366423507555536896)
+
 ## Links
 
 - [What does Unsplash cost in 2019?](https://medium.com/unsplash/what-does-unsplash-cost-in-2019-f499620a14d0) ([HN](https://news.ycombinator.com/item?id=19827521))

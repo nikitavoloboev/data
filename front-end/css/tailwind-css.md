@@ -70,3 +70,4 @@
 - [Windi CSS](https://github.com/windicss/windicss) - Next generation Tailwind CSS compiler. ([Docs](https://windicss.netlify.app/)) ([Docs Code](https://github.com/windicss/docs))
 - [updrafts.app](https://updrafts.app/) - Design & Prototype with Tailwind CSS.
 - [Tailwindize](https://quoorex.com/tailwindize/) - Convert any color into a Tailwind one.
+- [Nightwind](https://github.com/jjranalli/nightwind) - Automatic, customizable, overridable Tailwind dark mode plugin. ([Web](https://nightwindcss.com/))
