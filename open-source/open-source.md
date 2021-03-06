@@ -162,3 +162,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [NumFOCUS](https://numfocus.org/) - Nonprofit Supporting Open Code for Better Science. ([NumFOCUS Google Summer of Code](https://github.com/numfocus/gsoc))
 - [Open source projects should run office hours (2021)](https://simonwillison.net/2021/Feb/19/office-hours/) ([HN](https://news.ycombinator.com/item?id=26351053))
 - [Stakes.social](https://stakes.social/incubator) - Dev Protocol’s user facing application where OSS projects and patrons connect. ([Launch Article](https://medium.com/devprtcl/dev-protocol-incubator-launches-ef4f35940095))
+- [A Day in the Life of an Open Source Developer (2021)](https://www.youtube.com/watch?v=Fc9pWYP1f6o)

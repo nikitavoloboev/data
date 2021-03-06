@@ -424,3 +424,5 @@
 - [MIT HAN Lab](https://hanlab.mit.edu/) - Accelerate Deep Learning Computing. ([GitHub](https://github.com/mit-han-lab))
 - [Feature Stores - A Hierarchy of Needs (2021)](https://eugeneyan.com/writing/feature-stores/)
 - [Visualizing Representations: Deep Learning and Human Beings (2015)](http://colah.github.io/posts/2015-01-Visualizing-Representations/) ([Tweet](https://twitter.com/ch402/status/1367586896801492992))
+- [Transformers](https://github.com/sannykim/transformers) - Collection of resources to study Transformers in depth.
+- [Incomplete Deep Learning Guide](https://github.com/sannykim/deep-learning-guide)
