@@ -11,3 +11,4 @@
 - [The ‘Useless’ Perspective That Transformed Mathematics (2020)](https://www.quantamagazine.org/the-useless-perspective-that-transformed-mathematics-20200609/) ([HN](https://news.ycombinator.com/item?id=23473919))
 - [Cube Games and Group Theory](https://prideout.net/blog/group_theory/)
 - [group-theory](https://github.com/emilypi/group-theory) - Package for exploring constructive group theory in Haskell.
+- [Lie Groups and Lie Algebras Lectures](http://pirsa.org/C19034)
