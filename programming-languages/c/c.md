@@ -140,3 +140,4 @@
 - [Rust, Zig, and the Futility of "Replacing" C (2021)](https://gavinhoward.com/2021/02/rust-zig-and-the-futility-of-replacing-c/) ([Lobsters](https://lobste.rs/s/1iiifg/rust_zig_futility_replacing_c))
 - [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26347867))
 - [Microsoft's list of banned C functions](https://github.com/x509cert/banned/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26353025))
+- [Aro](https://github.com/Vexu/arocc) - C compiler written in Zig.
