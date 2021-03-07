@@ -38,3 +38,4 @@
 - [Ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs. ([HN](https://news.ycombinator.com/item?id=26125063))
 - [Zig Docs](https://ziglang.org/documentation/master/)
 - [Zig Roadmap 2021](https://www.youtube.com/watch?v=pacsngNYXI0) ([Lobsters](https://lobste.rs/s/xdyrgj/zig_roadmap_2021))
+- [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun (2021)](https://kevinlynagh.com/rust-zig/) ([Lobsters](https://lobste.rs/s/eppfav/why_i_rewrote_my_rust_keyboard_firmware))
