@@ -81,3 +81,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Russia Beyond](https://www.rbth.com/) - Gateway to all things Russian.
 - [Сергей Гуриев о том, почему отравили Навального и как Запад продолжит наказывать Кремль (2021)](https://www.youtube.com/watch?v=V5bpjmHIIFE)
 - [Зона: Репрессии не заканчиваются](https://www.youtube.com/playlist?list=PLzGVB_SrjptsNT4Ebnf6KAUbF32wGUorc)
+- [Прощание с Европой. Беседа с политиком Геннадием Гудковым (2021)](https://www.youtube.com/watch?v=lyfntbz6jUI)

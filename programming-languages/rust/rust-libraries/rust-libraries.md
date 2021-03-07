@@ -750,6 +750,7 @@
 - [storage-poc](https://github.com/matthieu-m/storage-poc) - Exploration of using Storage instead of Allocator to parameterize collections in Rust.
 - [safe-transmute-rs](https://github.com/nabijaczleweli/safe-transmute-rs) - Safe-guarded transmute for Rust.
 - [partialdebug](https://github.com/dimpolo/partialdebug) - Derive Debug for types where not all fields implement Debug.
+- [wide](https://github.com/Lokathor/wide) - Crate to help you go wide. By which I mean use SIMD stuff.
 
 ## Cargo Plugins
 
