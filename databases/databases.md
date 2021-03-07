@@ -49,7 +49,7 @@
 - [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
 - [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.
 - [Sonnerie](https://github.com/njaard/sonnerie) - Simple timeseries database.
-- [Dolt](https://github.com/liquidata-inc/dolt) - Relational database, i.e. it has tables, and you can execute SQL queries against those tables. It also has version control primitives that operate at the level of table cell.
+- [Dolt](https://github.com/dolthub/dolt) - Git for Data. SQL database that you can fork, clone, branch, merge. ([HN](https://news.ycombinator.com/item?id=26370572))
 - [Crux](https://github.com/juxt/crux) - Open source document database with bitemporal graph queries. ([Website](https://opencrux.com/)) ([Article](https://jorin.me/crux-as-general-purpose-database/)) ([HN](https://news.ycombinator.com/item?id=23493163))
 - [LokiJS](https://github.com/techfort/LokiJS) - Document oriented database written in JavaScript.
 - [terrier](https://github.com/cmu-db/terrier) - Carnegie Mellon's new database system project that is replacing [Peloton](https://github.com/cmu-db/peloton).

@@ -143,6 +143,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Clinton Boys's Garden](http://mtsolitary.com/)
 - [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)
 - [Artyom's tech notes](https://tek.brick.do/)
+- [D. Bohdan's Wiki](https://dbohdan.com/wiki/sitemap)
 - [Albert Zeyer](https://github.com/albertz/wiki)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
 - [neeasade's notes](https://notes.neeasade.net/)

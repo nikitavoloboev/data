@@ -92,6 +92,7 @@
 - [Validate JSON](https://github.com/OrRosenblatt/validate-json-action) - GitHub Action that validates JSON files based on a JSON Schema.
 - [GitHub Status Action](https://github.com/Sibz/github-status-action) - Adds a status update to a commit. GitHub will always show the latest state of a context.
 - [AWS IAM roles for GitHub Actions workflows](https://github.com/glassechidna/actions2aws)
+- [Blazing fast GitHub Pages deploy](https://github.com/alex-page/blazing-fast-gh-pages-deploy)
 
 ## Go
 

@@ -182,3 +182,6 @@
 - [Maps of Matter (2021)](https://futureofmatter.com/maps_of_matter.html)
 - [The Future of Matter](https://futureofmatter.com/) - Notes on the striking things we're learning to do with matter.
 - [What do photons have to do with the electromagnetic force? (2021)](https://www.reddit.com/r/AskPhysics/comments/lxzs4x/what_do_photons_have_to_do_with_the/)
+- [Problems with Eric Weinstein's “Geometric Unity” (2021)](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html) ([HN](https://news.ycombinator.com/item?id=26371052))
+- [Computation in Physical Systems](https://plato.stanford.edu/entries/computation-physicalsystems/)
+- [Virtual Particles: What are they? (2011)](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/) ([HN](https://news.ycombinator.com/item?id=26368637))

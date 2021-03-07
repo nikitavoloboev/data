@@ -70,7 +70,7 @@
 - [restful-react](https://github.com/contiamo/restful-react) - Consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs.
 - [Iconify](https://github.com/iconify/iconify-react) - Modern open source SVG alternative to glyph fonts.
 - [Formsy](https://github.com/formsy/formsy-react) - Form input builder and validator for React.
-- [React Frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server.
+- [React Frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server. ([Docs](https://davnicwil.com/react-frontload/))
 - [stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects) - Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession.
 - [react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - Super fast and light react npm package for zooming, panning and pinching html elements in easy way.
 - [ReactShadow](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.

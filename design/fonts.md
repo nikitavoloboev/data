@@ -220,3 +220,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Font Remix (A Metadesign)](https://www.mitpressjournals.org/doi/pdf/10.1162/desi_a_00590)
 - [Typoteka](https://typoteka.pl/en) - Index of typefaces created by authors associated with Poland.
 - [The Best Font Loading Strategies and How to Execute Them (2021)](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
+- [Why does typography matter?](https://practicaltypography.com/why-does-typography-matter.html)
+- [Grid Systems in Graphic Design Book](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)

@@ -88,3 +88,4 @@
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
 - [Kalaksi](https://www.kalaksi.com/) - Social-network built on top of RSS.
 - [Nosh](https://nosh.rocks/) - Modern RSS reader. ([Code](https://github.com/mikefrancis/nosh))
+- [Petrolette](http://petrolette.space/) - News reader focused on preventing anyone to know what you are reading.

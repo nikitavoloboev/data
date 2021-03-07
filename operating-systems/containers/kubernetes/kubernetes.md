@@ -346,3 +346,4 @@
 - [Kubernetes Networking Book](https://www.oreilly.com/library/view/kubernetes-networking/9781492081647/) - Guide for anyone who wants to deploy, manage, or troubleshoot a production scale Kubernetes network.
 - [Jetstack Preflight](https://github.com/jetstack/preflight) - Automatically perform Kubernetes cluster configuration checks using Open Policy Agent (OPA).
 - [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes.
+- [Exploring Kubernetes Operator Pattern (2021)](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)

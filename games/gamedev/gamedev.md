@@ -150,3 +150,4 @@
 - [Supporting hundreds of players on a single fast paced game server (2021)](https://www.reddit.com/r/gamedev/comments/ltvmh9/supporting_hundreds_of_players_on_a_single_fast/)
 - [Video Game Programming From Scratch with Casey Muratori (2021)](https://corecursive.com/062-game-programming/)
 - [Naughty Dog at SIGGRAPH 2020](https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020)
+- [Notes on two Jonathan Blow's lectures on game design](https://dbohdan.com/wiki/jonathan-blow)

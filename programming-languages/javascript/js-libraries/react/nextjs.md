@@ -61,6 +61,7 @@
 - [Next.js S3 Upload](https://github.com/ryanto/next-s3-upload) - Upload files from your Next.js app to S3.
 - [NextStripe](https://github.com/ynnoj/next-stripe) - Simplified server-side Stripe workflows in Next.js
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi.
+- [next-plugin-query-cache](https://github.com/ricokahler/next-plugin-query-cache) - Build-time query cache for Next.js. Works by creating an HTTP server during the build that caches responses.
 
 ## Notes
 
