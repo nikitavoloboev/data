@@ -110,3 +110,4 @@
 - [testbook](https://github.com/nteract/testbook) - Unit testing framework extension for testing code in Jupyter Notebooks.
 - [curvenote](https://curvenote.com/) - Share your work and collaborate in Jupyter. ([Code](https://github.com/curvenote/editor))
 - [nbsphinx](https://github.com/spatialaudio/nbsphinx) - Jupyter Notebook Tools for Sphinx.
+- [Datalore](https://datalore.jetbrains.com/) - Powerful online environment for Jupyter notebooks.

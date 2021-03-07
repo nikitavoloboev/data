@@ -73,3 +73,4 @@
 - [Simple DirectMedia Layer (SDL)](https://libsdl.org/) - Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware. ([Code](https://github.com/libsdl-org/SDL))
 - [TinyExpr](https://github.com/codeplea/tinyexpr) - Small recursive descent parser and evaluation engine for math expressions. ([Web](https://codeplea.com/tinyexpr))
 - [HIDAPI](https://github.com/libusb/hidapi) - Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac and Windows.
+- [Minicoro](https://github.com/edubart/minicoro) - Single-file library for using asymmetric coroutines in C.
