@@ -112,3 +112,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Turning a wireless keyboard into a wired keyboard (2021)](https://chadaustin.me/2021/02/wired-sculpt/)
 - [How to Delay RSI, by Building a Keyboard (2019)](https://blog.tomarrell.com/post/how_to_prevent_rsi)
 - [Lobsters: What keyboard do you use? (2021)](https://lobste.rs/s/ggsv7x/what_keyboard_do_you_use)
+- [So how does a PS/2 keyboard interface work? (2021)](https://www.youtube.com/watch?v=7aXbh9VUB3U)
