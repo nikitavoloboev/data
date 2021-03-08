@@ -201,3 +201,4 @@
 - [swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme.
 - [Pusher](https://pusher.com/) - Bi-directional hosted APIs that are flexible, scalable and easy to use. ([GitHub](https://github.com/pusher))
 - [Mockoon](https://mockoon.com/) - Create mock APIs in seconds. ([Code](https://github.com/mockoon/mockoon))
+- [ROAPI](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code. ([Docs](https://roapi.github.io/docs/index.html))

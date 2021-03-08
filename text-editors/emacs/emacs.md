@@ -85,3 +85,4 @@ Might give it a go sometime.
 - [Emacs Manuals Online](https://www.gnu.org/software/emacs/manual/)
 - [Emacs-ng](https://github.com/emacs-ng/emacs-ng) - Emacs with Deno runtime and TypeScript.
 - [Emacs: from catching up to getting ahead (2021)](https://www.murilopereira.com/emacs-from-catching-up-to-getting-ahead/)
+- [My Custom Emacs Setup (2021)](https://hristos.co/blog/my-custom-emacs-setup/) ([Lobsters](https://lobste.rs/s/olduw2/my_custom_emacs_setup))

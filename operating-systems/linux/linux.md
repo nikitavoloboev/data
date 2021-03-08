@@ -277,3 +277,4 @@
 - [Linux Capabilities in a nutshell (2019)](https://k3a.me/linux-capabilities-in-a-nutshell/) ([Lobsters](https://lobste.rs/s/nnwjda/linux_capabilities_nutshell)) ([HN](https://news.ycombinator.com/item?id=26261310))
 - [systemd: Boot Loader Specification](https://systemd.io/BOOT_LOADER_SPECIFICATION/)
 - [Why bother between choosing of distros and desktops theme when the Linuxs they are similar and you can customize them? (2021)](https://www.reddit.com/r/linuxquestions/comments/lxt8pi/why_bother_between_choosing_of_distros_and/)
+- [Qubes-lite with KVM and Wayland (2021)](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/)
