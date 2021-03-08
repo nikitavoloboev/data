@@ -94,3 +94,4 @@
 - [Why Working from Home Will Stick](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf) ([HN](https://news.ycombinator.com/item?id=25882704))
 - [Ask HN: Team fun event ideas during WFH? (2021)](https://news.ycombinator.com/item?id=26080163)
 - [Ask HN: How to stay focused and motivated working from home? (2021)](https://news.ycombinator.com/item?id=26343950)
+- [Working from Home at Monzo - One Year Later (2021)](https://www.youtube.com/watch?v=nDZTAzr-aCI)
