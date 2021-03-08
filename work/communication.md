@@ -13,6 +13,7 @@
 - [I’ve learned that when I have a positive thought about someone, it’s generally worth communicating it. If I think a coworker saved me on some project, I tell them. If my partner is making me feel warm and fuzzy, I tell her. If someone impresses me, I say so. I don’t think people express these things nearly as often as they feel them, and I expect that many of the positive things that do end up communicated have another motive behind them. Simple earnest positive comments are very much worthwhile.](https://news.ycombinator.com/item?id=25551487)
 - [Most people do not listen with the intent to understand, they listen with the intent to reply.](https://twitter.com/awilkinson/status/1353760808191180801)
 - [My love language is direct feedback and clear next steps.](https://twitter.com/NatashaVianna/status/1367159598390550528)
+- [If you see something you love online, maybe consider emailing the person and letting them know! Worst case, they’ll ignore it, best case, you’ll forget about it and then be pleasantly surprised when they answer](https://capnfabs.net/posts/2020-its-over/)
 
 ## Links
 

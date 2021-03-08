@@ -39,3 +39,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Powerful Life Skills (2021)](https://neilkakkar.com/powerful-life-skills.html)
 - [Great Essays of Life Advice](https://lw2.issarice.com/posts/zMmQdob3eFfeMh7D3/my-favorite-essays-of-life-advice)
 - [Functioning ‘mechanical gears’ seen in nature for the first time](https://www.cam.ac.uk/research/news/functioning-mechanical-gears-seen-in-nature-for-the-first-time)
+- [Jordan Peterson on Rules for Life, Psychedelics, The Bible, and Much More (2021)](https://www.youtube.com/watch?v=C1sEHNw4UIg)

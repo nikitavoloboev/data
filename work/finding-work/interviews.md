@@ -118,3 +118,4 @@
 - [Ask HN: Is it crazy that software developers have to study for interviews? (2021)](https://news.ycombinator.com/item?id=26183380)
 - [Apple’s tech interview scope for junior position (2021)](https://twitter.com/krzyzanowskim/status/1363640961318985729) ([HN](https://news.ycombinator.com/item?id=26222733))
 - [Comprehensive list of tech interview questions](https://github.com/twowaits/SDE-Interview-Questions)
+- [Fabian Tamp's experience of interviewing (2020)](https://www.interviews.computer/post/fabian-tamp)
