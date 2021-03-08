@@ -191,3 +191,4 @@
 - [How To Stay Sane with Modern C++ (2020)](https://www.cppstories.com/2017/02/how-to-stay-sane-with-modern-c/)
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - C++ expression -> x64 JIT.
 - [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/citations/20080039927)
+- [Parameter Passing in C and C++ (2021)](https://wolchok.org/posts/parameter-passing/)

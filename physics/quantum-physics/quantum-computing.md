@@ -74,3 +74,4 @@
 - [Experimental quantum homomorphic encryption (2021)](https://www.nature.com/articles/s41534-020-00340-8.pdf)
 - [Quantum Computation by John Preskill, Caltech (2020)](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
+- [Quantum physics needs complex numbers (2021)](https://arxiv.org/abs/2101.10873) ([Reddit](https://www.reddit.com/r/Physics/comments/lztuk4/quantum_physics_needs_complex_numbers/))

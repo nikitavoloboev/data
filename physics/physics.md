@@ -185,3 +185,4 @@
 - [Problems with Eric Weinstein's “Geometric Unity” (2021)](http://backreaction.blogspot.com/2021/03/guest-post-problems-with-eric.html) ([HN](https://news.ycombinator.com/item?id=26371052))
 - [Computation in Physical Systems](https://plato.stanford.edu/entries/computation-physicalsystems/)
 - [Virtual Particles: What are they? (2011)](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/) ([HN](https://news.ycombinator.com/item?id=26368637))
+- [Why Lagrangian Mechanics is Better than Newtonian Mechanics F=ma | Euler-Lagrange Equation (2021)](https://www.youtube.com/watch?v=KpLno70oYHE)

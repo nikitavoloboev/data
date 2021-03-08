@@ -438,3 +438,4 @@ Go promotes composition over inheritance.
 - [Exploring "io/fs" to Improve Test Performance and Testability (2021)](https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance)
 - [In Go-land you pay even for what you don't use (2021)](https://notes.volution.ro/v1/2021/02/notes/378ae6f6/)
 - [5 Common mistakes in Go (2021)](https://deepsource.io/blog/common-mistakes-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lxe4yd/a_short_list_of_patterns_that_beginners_miss/))
+- [How I build web frontends in Go (2021)](https://philippta.github.io/web-frontends-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lzymk9/how_i_build_web_frontends_in_go/))
