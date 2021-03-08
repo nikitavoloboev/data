@@ -39,4 +39,4 @@
 - [Zig Docs](https://ziglang.org/documentation/master/)
 - [Zig Roadmap 2021](https://www.youtube.com/watch?v=pacsngNYXI0) ([Lobsters](https://lobste.rs/s/xdyrgj/zig_roadmap_2021))
 - [Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun (2021)](https://kevinlynagh.com/rust-zig/) ([Lobsters](https://lobste.rs/s/eppfav/why_i_rewrote_my_rust_keyboard_firmware))
-- [Memory-mapped IO registers in zig (2021)](https://scattered-thoughts.net/writing/mmio-in-zig/)
+- [Memory-mapped IO registers in zig (2021)](https://scattered-thoughts.net/writing/mmio-in-zig/) ([Lobsters](https://lobste.rs/s/46xhdl/memory_mapped_io_registers_zig))

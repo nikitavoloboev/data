@@ -51,3 +51,4 @@
 - [Closed Loophole Confirms the Unreality of the Quantum World (2018)](https://www.quantamagazine.org/closed-loophole-confirms-the-unreality-of-the-quantum-world-20180725/) ([HN](https://news.ycombinator.com/item?id=26147560))
 - [Quantum Electrodynamics and Feynman Diagrams (2021)](https://www.youtube.com/watch?v=X-FEU4mQWtE)
 - [Hypernuclei (2021)](https://johncarlosbaez.wordpress.com/2021/03/06/hypernuclei/)
+- [Quantum mechanics isn’t weird, we’re just too big (2021)](https://www.youtube.com/watch?v=q1O11kP6x1k) ([HN](https://news.ycombinator.com/item?id=26365293))
