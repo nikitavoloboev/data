@@ -233,3 +233,4 @@
 - [Deploying PostgreSQL for High Availability with Patroni, etcd and HAProxy (2021)](https://digitalis.io/blog/postgresql/part1-postgresql-ha-patroni-etcd-haproxy/)
 - [Running a safe database migration using Postgres (2021)](https://retool.com/blog/running-safe-database-migrations-using-postgres/)
 - [Postgres Notify for Real Time Dashboards (2021)](https://blog.arctype.com/postgres-notify-for-real-time-dashboards/)
+- [Cleaning Up Your Postgres Database (2021)](http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database)

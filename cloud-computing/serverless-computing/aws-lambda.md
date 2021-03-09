@@ -59,3 +59,4 @@
 - [re:Web](https://github.com/apparentorder/reweb) - Enables classic web applications to run on AWS Lambda.
 - [serverlessish](https://github.com/glassechidna/serverlessish) - Run the same Docker images in AWS Lambda and AWS ECS.
 - [AWS Lambda C++ Runtime](https://github.com/awslabs/aws-lambda-cpp) - C++ implementation of the lambda runtime API.
+- [subscriptionless](https://github.com/andyrichardson/subscriptionless) - Library for using GraphQL subscriptions with AWS Lambda.

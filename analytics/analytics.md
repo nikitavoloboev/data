@@ -70,3 +70,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Why Databricks Is Winning In The Data & Analytics Market (2021)](https://cloudnativeenterprise.substack.com/p/why-databricks-winning-market) ([HN](https://news.ycombinator.com/item?id=26135144))
 - [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL (2021)](https://brandur.org/minimal-analytics) ([HN](https://news.ycombinator.com/item?id=26155361))
 - [Google Analytics: Stop feeding the beast (2021)](https://casparwre.de/blog/stop-using-google-analytics/) ([HN](https://news.ycombinator.com/item?id=26263149))
+- [Counter](https://counter.dev/) - Simple and Free Web Analytics. ([HN](https://news.ycombinator.com/item?id=26379569)) ([Code](https://github.com/ihucos/counter.dev))

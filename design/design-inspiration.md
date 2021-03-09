@@ -329,6 +329,7 @@ Here are few more things I liked, design wise.
 - [Caolan McMahon](https://caolan.uk/)
 - [Sibylle Sehl](https://sibylle.dev/)
 - [Hector Simpson](https://hector.me/)
+- [Jonas Galvez](https://hire.jonasgalvez.com.br/)
 - [Ian Bicking](https://www.ianbicking.org/)
 - [Juanito Fatas](https://juanitofatas.com/)
 - [Damien Seguin](https://dmnsgn.me/)
