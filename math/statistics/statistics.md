@@ -87,3 +87,4 @@
 - [Workshop on Agent-Based Modeling (2021)](https://www.aapelivuorinen.com/blog/2021/01/22/agent-based-modeling-workshop/)
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)
 - [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) ([HN](https://news.ycombinator.com/item?id=26312904))
+- [What are the most important statistical ideas of the past 50 years? (2021)](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf) ([HN](https://news.ycombinator.com/item?id=26374788))
