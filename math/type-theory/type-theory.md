@@ -121,3 +121,4 @@
 - [Simple-sub Algorithm for Algebraic Subtyping](https://github.com/LPTK/simple-sub) ([Demo](https://lptk.github.io/simple-sub/))
 - ["The Trouble With Types" by Martin Odersky (2013)](https://www.youtube.com/watch?v=0lXUBVipXa8)
 - [Grothendieck's EGA English Translation](https://ega.fppf.site/) ([Code](https://github.com/ryankeleti/ega))
+- [Untyped Types (2021)](https://www.gingerbill.org/article/2021/03/07/untyped-types/)

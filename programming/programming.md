@@ -351,3 +351,4 @@
 - [How to execute an object file (2021)](https://blog.cloudflare.com/how-to-execute-an-object-file-part-1/)
 - [Building cool software projects notes](https://beepb00p.xyz/exobrain/programming/projects.html)
 - [On Understanding Data Abstraction, Revisited (2009)](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
+- [Coding Constructs I Now Avoid (and why) (2021)](https://danielbmarkham.com/coding-constructs-i-now-avoid/) ([Lobsters](https://lobste.rs/s/suqsnm/coding_constructs_i_now_avoid_why))
