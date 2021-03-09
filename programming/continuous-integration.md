@@ -1,5 +1,9 @@
 # Continuous Integration
 
+## Notes
+
+- [Fully-automated seamless CI/CD is the goal.](https://twitter.com/fuzzychef/status/1369325657084289029)
+
 ## Links
 
 - [Concourse CI](https://github.com/concourse/concourse) - Automation system written in Go. It is most commonly used for CI/CD, and is built to scale to any kind of automation pipeline, from simple to complex. ([Web](https://concourse-ci.org/))

@@ -225,7 +225,7 @@
 - [The State of CSS](https://stateofcss.com/) ([Code](https://github.com/StateOfJS/StateOfCSS-homepage))
 - [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
 - [Manipulating Colors With CSS Variables and HSL (2020)](https://codesalad.dev/blog/manipulating-colors-with-css-variables-and-hsl-16)
-- [CSS for JavaScript Developers](https://css-for-js.dev/) - Online course that teaches the fundamentals of CSS for React/Vue devs.
+- [CSS for JavaScript Developers](https://css-for-js.dev/) - Online course that teaches the fundamentals of CSS for React/Vue devs. ([How it was made](https://twitter.com/JoshWComeau/status/1369301593921888266))
 - [Custom CSS via Serverless Proxy (2020)](https://paco.sh/blog/custom-css-via-proxy)
 - [How to make CSS Animations (2020)](https://www.imaginarycloud.com/blog/how-to-make-css-animations/)
 - [Everything I Have Done to Make CSS Wizardry Fast](https://gumroad.com/l/yrUwX/earlybird)

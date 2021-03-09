@@ -125,3 +125,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [PolkaBTC](https://github.com/interlay/polkabtc-ui) - Trustless and open DeFi access for your Bitcoin.
 - [Bitcoin: The Postmodern Ponzi (2021)](https://www.stephendiehl.com/blog/ponzi.html)
 - [Bitcoin Is Time (2021)](https://dergigi.com/2021/01/14/bitcoin-is-time/) ([HN](https://news.ycombinator.com/item?id=26315923))
+- [The Lightning Lab](https://discord.com/invite/qEzTQMqJc7) - Discord to learn about building on Bitcoin and Lightning.
