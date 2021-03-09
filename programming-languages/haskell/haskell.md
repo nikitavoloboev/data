@@ -264,4 +264,4 @@
 - [Why Learn Haskell?](https://crypto.stanford.edu/~blynn/haskell/why.html) ([HN](https://news.ycombinator.com/item?id=26300741))
 - [Haskell Executable Sizes (2021)](https://dfithian.github.io/2021/02/28/haskell-executable-sizes.html) ([Lobsters](https://lobste.rs/s/li8oyx/haskell_executable_sizes))
 - [Emily Pillmore – Hulk SMASH: re-imagining the Maybe-monad and its design space (2020)](https://www.youtube.com/watch?v=4aQlFMvKgdc)
-- [Pruning Unused Haskell Dependencies (2021)](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html)
+- [Prune Juice](https://github.com/dfithian/prune-juice) - Prune unused Haskell dependencies. ([Article](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html))
