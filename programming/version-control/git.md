@@ -236,3 +236,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Stacked Git](https://github.com/stacked-git/stgit) - Application for managing Git commits as a stack of patches. ([Web](https://stacked-git.github.io/))
 - [git-notify](https://github.com/jevakallio/git-notify) - Communicate important updates to your team via git commit messages.
 - [diff2html](https://github.com/rtfpessoa/diff2html) - Generates pretty HTML diffs from git diff or unified diff output. ([Web](https://diff2html.xyz/))
+- [Oh My Git!](https://ohmygit.org/) - Open source game about learning Git. ([Code](https://github.com/git-learning-game/oh-my-git))

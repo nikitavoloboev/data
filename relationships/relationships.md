@@ -1,6 +1,6 @@
 # Relationships
 
-Be honest.
+Be honest, kind and empathetic.
 
 ## Notes
 

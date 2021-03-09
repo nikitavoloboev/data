@@ -351,3 +351,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Art of Reading More Effectively and Efficiently](https://aliabdaal.com/read-more-effectively/) ([HN](https://news.ycombinator.com/item?id=26273735))
 - [Find Books](https://www.findbooks.co.uk/) - Generate search query links for books across a range of websites.
 - [worldmiao.two](https://www.worldmiao.com/) - Book search engine.
+- [How I self-published a professional paperback and eBook using LaTeX and Pandoc](http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc)

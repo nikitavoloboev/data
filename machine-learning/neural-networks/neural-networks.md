@@ -212,3 +212,4 @@
 - [Neural Network Matrix Visualization (2021)](https://iism.org/article/neural-network-matrix-visualization-61)
 - [Multimodal Neurons in Artificial Neural Networks (2021)](https://openai.com/blog/multimodal-neurons/) ([HN](https://news.ycombinator.com/item?id=26347613)) ([Code](https://github.com/openai/CLIP-featurevis))
 - [OpenAI Microscope](https://microscope-azure-edge.openai.com/models) - Collection of visualizations of every significant layer and neuron of several common “model organisms” which are often studied in interpretability.
+- [Real time Interactive Visualization of Convolutional Neural Networks in Unity](https://vimeo.com/274236414)

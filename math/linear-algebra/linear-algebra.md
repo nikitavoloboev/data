@@ -42,3 +42,4 @@
 - [the amplitwist, the conjugate transpose, and the complex derivative (2019)](http://glowcoil.com/posts/amplitwist/)
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Vectorious](https://github.com/mateogianolio/vectorious) - Linear algebra in TypeScript.
+- [New Algorithm Breaks Speed Limit for Solving Linear Equations (2021)](https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/) ([HN](https://news.ycombinator.com/item?id=26393795))

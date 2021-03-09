@@ -192,3 +192,4 @@
 - [NativeJIT](https://github.com/BitFunnel/NativeJIT) - C++ expression -> x64 JIT.
 - [NASA C++ Coding Standards and Style Guide](https://ntrs.nasa.gov/citations/20080039927)
 - [Parameter Passing in C and C++ (2021)](https://wolchok.org/posts/parameter-passing/)
+- [Building a Dual Shared and Static Library with CMake (2021)](https://alexreinking.com/blog/building-a-dual-shared-and-static-library-with-cmake.html)

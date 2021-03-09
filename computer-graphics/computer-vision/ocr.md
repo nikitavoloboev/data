@@ -17,3 +17,4 @@
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Rich, leading, and practical OCR tools that help users train better models and apply them into practice.
 - [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - Synthetic data generator for text recognition.
 - [Paperless](https://github.com/jonaswinkler/paperless-ng) - Index and archive all of your scanned paper documents.
+- [Tesseract Teaser](https://www.solipsys.co.uk/new/TesseractTeaser.html)
