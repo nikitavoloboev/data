@@ -2,7 +2,7 @@
 
 I share all ideas of things I want to build in [Notion](../sharing/my-notion.md) as well as sharing [all the projects I am making or have made](https://nikitavoloboev.xyz/projects).
 
-Currently I am focusing my time on building [Learn Anything](learn-anything.md) & [Dendron](../tools/dendron.md).
+Currently I am focusing my time on building [Learn Anything](learn-anything.md).
 
 I try to give my full attention to any ideas I am working on.
 
