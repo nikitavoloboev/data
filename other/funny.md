@@ -65,3 +65,4 @@
 - [Hitler reacts to functional programming](https://www.youtube.com/watch?v=ADqLBc1vFwI)
 - [Ask HN: Anyone know any funny programming jokes? (2021)](https://news.ycombinator.com/item?id=25850739)
 - [Cat Daddy Issues](https://twitter.com/_Glintofsilver/status/1366204627922923521)
+- [Every single park hang in San Francisco (2021)](https://twitter.com/yayalexisgay/status/1369346460911734784)
