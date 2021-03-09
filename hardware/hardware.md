@@ -177,3 +177,4 @@
 - [Framework Laptop](https://frame.work/) - Upgradeable, repairable, and 100% yours. ([Intro](https://frame.work/blog/introducing-the-framework-laptop)) ([HN](https://news.ycombinator.com/item?id=26263508)) ([Lobsters](https://lobste.rs/s/hhqli7/introducing_framework_laptop))
 - [SparkFun Electronics](https://www.sparkfun.com/) - Manufactures and sells microcontroller development boards and breakout boards.
 - [Ask HN: Always on low power home server (2021)](https://news.ycombinator.com/item?id=26292660)
+- [I want a computer that I own (2021)](http://misc-stuff.terraaeon.com/articles/computer-i-own.html) ([HN](https://news.ycombinator.com/item?id=26393824))

@@ -12,3 +12,4 @@
 - [algocodesearch](https://github.com/adrienjoly/algocodesearch) - Index symbols from a language server (LSP), for code search.
 - [LSIF.dev](https://lsif.dev/) - Community-driven source of knowledge for Language Server Index Format implementations.
 - [Language Server Manager (LSM)](https://github.com/johejo/lsm) - Aims to be a simple and cross platform installation manager for Language Server.
+- [lspower](https://github.com/hvithrafn/lspower) - Rust library for the Language Server Protocol (LSP).
