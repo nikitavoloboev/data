@@ -13,3 +13,4 @@ I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/do
 - [In Search of Tomorrow -'80s Sci-Fi Documentary](https://www.kickstarter.com/projects/creatorvc/in-search-of-tomorrow-80s-sci-fi-documentary)
 - [Documentary Mania](https://www.documentarymania.com/) - Free Documentaries Online.
 - [The Best Documentaries of 2020](https://www.indiewire.com/2020/12/best-documentaries-2020-1234604321/)
+- [CuriosityStream](https://curiositystream.com/) - Thousands of documentaries that enlighten, entertain & inspire.

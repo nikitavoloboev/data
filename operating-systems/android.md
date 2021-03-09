@@ -32,3 +32,4 @@
 - [Android GPU Inspector](https://gpuinspector.dev/) - Single tool that will help you profile graphics on Android across several GPUs. ([Code](https://github.com/google/agi))
 - [Accompanist](https://github.com/chrisbanes/accompanist) - Collection of extension libraries for Jetpack Compose.
 - [Android Architecture Components samples](https://github.com/android/architecture-components-samples) ([Web](https://developer.android.com/topic/libraries/architecture))
+- [Litho](https://github.com/facebook/litho) - Declarative framework for building efficient UIs on Android. ([Web](https://fblitho.com/))

@@ -81,3 +81,4 @@
 - [It Can Happen to You (2021)](https://www.mattkeeter.com/blog/2021-03-01-happen/) ([HN](https://news.ycombinator.com/item?id=26337046))
 - [Scripts for Hopper Disassembler](https://github.com/droe/hopper-scripts)
 - [HopperScripts](https://github.com/phracker/HopperScripts) - Python Scripts for use with Hopper Disassembler.
+- [Reverse-engineering the standard-cell logic inside a vintage IBM chip (2021)](http://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)

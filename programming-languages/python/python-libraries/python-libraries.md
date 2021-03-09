@@ -359,6 +359,7 @@
 - [eventkit](https://github.com/erdewit/eventkit) - Event-driven data pipelines.
 - [pystatsd](https://github.com/jsocol/pystatsd) - Python client for statsd.
 - [AIOFile](https://github.com/mosquito/aiofile) - Real asynchronous file operations with asyncio support.
+- [Langcodes](https://github.com/LuminosoInsight/langcodes) - Python library for working with and comparing language codes.
 
 ## Links
 

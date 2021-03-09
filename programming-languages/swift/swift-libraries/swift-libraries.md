@@ -270,6 +270,7 @@
 - [Loadability](https://github.com/julianschiavo/Loadability) - Powerful, modern networking and caching with SwiftUI support.
 - [AlertToast](https://github.com/elai950/AlertToast) - Present Apple-like alert & toast using SwiftUI.
 - [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - Open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind.
+- [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage.
 
 ## Test
 
