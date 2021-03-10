@@ -58,3 +58,4 @@
 - [Ask HN: Predictions for 2021?](https://news.ycombinator.com/item?id=25594068)
 - [Big Ideas 2021 by Ark Invest](https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK%E2%80%93Invest_BigIdeas_2021.pdf) ([HN](https://news.ycombinator.com/item?id=25922385))
 - [How to end stagnation? (2021)](https://www.reddit.com/r/rootsofprogress/comments/lvhwl9/how_to_end_stagnation/)
+- [Focus on future path ways](https://twitter.com/waitbutwhy/status/1367871165319049221)
