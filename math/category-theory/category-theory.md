@@ -108,6 +108,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Papers on aspects of Generalised Algebraic Theories, Contextual Categories and Mathematical Theory Of Data](https://github.com/JohnWCartmell/Theory)
 - [Emily Riehl is rewriting the foundations of higher category theory (2021)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/) ([HN](https://news.ycombinator.com/item?id=26334535))
 - [Emily Pillmore: Type Arithmetic and the Yoneda Lemma (2020)](https://www.youtube.com/watch?v=aXS5HZ_1fNQ)
+- [Categorical logic from a categorical point of view](https://github.com/mikeshulman/catlog)
 
 ## Images
 

@@ -752,6 +752,7 @@
 - [safe-transmute-rs](https://github.com/nabijaczleweli/safe-transmute-rs) - Safe-guarded transmute for Rust.
 - [partialdebug](https://github.com/dimpolo/partialdebug) - Derive Debug for types where not all fields implement Debug.
 - [wide](https://github.com/Lokathor/wide) - Crate to help you go wide. By which I mean use SIMD stuff.
+- [Tailcall](https://github.com/alecdotninja/tailcall) - Safe, zero-cost tail recursion for stable Rust.
 
 ## Cargo Plugins
 

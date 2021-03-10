@@ -483,6 +483,8 @@
 - [gensync](https://github.com/loganfsmyth/gensync) - Allows users to use generators in order to write common functions that can be both sync or async.
 - [monet.js](https://github.com/monet/monet.js) - Monadic types library for JavaScript.
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
+- [Crochet](https://github.com/qteatime/crochet) - Small engine for story-driven games.
+- [diary](https://github.com/maraisr/diary) - Zero-dependency, fast logging library for both Node and Browser.
 
 ## Links
 

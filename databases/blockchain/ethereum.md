@@ -175,3 +175,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Scaling Ethereum One Tx At A Time](https://rugpullindex.com/blog#ScalingEthereumOneTxAtATime)
 - [TypeChain](https://github.com/ethereum-ts/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 - [scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations.
+- [VSCode Solidity](https://github.com/juanfranblanco/vscode-solidity) - VSCode language support extension for Solidity smart contracts in Ethereum.
