@@ -114,3 +114,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Read this before you buy a Soviet camera (2021)](https://kosmofoto.com/2021/01/read-this-before-you-buy-a-soviet-camera/)
 - [Kosmo Foto](https://kosmofoto.com/)
 - [Mirrorless camera recommendations (2021)](https://twitter.com/jasonyuandesign/status/1368046489621073923)
+- [MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) - TensorFlow JS models for MIRNet for low-light image enhancement. ([Demo](https://mirnet-tfjs-demo.azurewebsites.net/))

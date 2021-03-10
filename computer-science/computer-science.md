@@ -114,3 +114,4 @@
 - [Indiana University Computer Science Program Technical Report Index](https://help.luddy.indiana.edu/techreports/)
 - [Virginia Tech Computer Science Technical Reports](https://eprints.cs.vt.edu/view/year/)
 - [UTCS Tech Reports](https://apps.cs.utexas.edu/apps/tech-reports)
+- [Ask HN: Is a Master's in CS worth it? (2021)](https://news.ycombinator.com/item?id=26405955)
