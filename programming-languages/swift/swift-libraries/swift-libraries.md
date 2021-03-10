@@ -636,6 +636,7 @@
 - [HotReloading](https://github.com/johnno1962/HotReloading) - Hot reloading available as a Swift Package.
 - [SwiftRegex5](https://github.com/johnno1962/SwiftRegex5) - Basic regex operations in Swift.
 - [SwiftLSPClient](https://github.com/ChimeHQ/SwiftLSPClient) - Swift library for interacting with Language Server Protocol implementations.
+- [TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 
 ## Other (not lib)
 

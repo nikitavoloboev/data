@@ -33,7 +33,7 @@
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 - [Blogger-cli](https://github.com/hemanta212/blogger-cli) - CLI tool to convert and manage jupyter notebook blogs. Proudly host your notebooks even as a static site.
-- [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.
+- [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter Notebooks.
 - [Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
 - [Some IHaskell notebooks, provisioned using Nix](https://github.com/vaibhavsagar/notebooks)
 - [ipycanvas: A Python Canvas for Jupyter (2019)](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
@@ -113,3 +113,4 @@
 - [Datalore](https://datalore.jetbrains.com/) - Powerful online environment for Jupyter notebooks.
 - [Galata](https://github.com/jupyterlab/galata) - JupyterLab UI Testing Framework.
 - [widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - Template for creating a custom Jupyter widget project.
+- [Jupyter Widget Tutorial](https://github.com/jupyter-widgets/tutorial)

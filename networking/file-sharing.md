@@ -60,3 +60,4 @@
 - [Pydio](https://pydio.com/) - Enterprise File Sharing & Sync Platform. ([Code](https://github.com/pydio/cells))
 - [Cacheroach](https://github.com/bobvawter/cacheroach) - Multi-tenant, multi-region, multi-cloud file store built using CockroachDB.
 - [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere.
+- [ownCloud](https://owncloud.com/) - Share files and folders, easy and secure. ([Code](https://github.com/owncloud/core))

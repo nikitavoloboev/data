@@ -4,6 +4,7 @@
 
 - [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS) - Node.js implementation of HomeKit Accessory Server.
 - [Homebridge](https://homebridge.io/) - Lightweight NodeJS server that emulates the iOS HomeKit API. ([Code](https://github.com/homebridge/homebridge))
+- [Homebridge Config UI X](https://github.com/oznu/homebridge-config-ui-x) - Monitor, configure and backup Homebridge from a browser.
 - [Homebridge Raspberry Pi Image](https://github.com/homebridge/homebridge-raspbian-image)
 - [hc](https://github.com/brutella/hc) - Lightweight framework to develop HomeKit accessories in Go.
 - [HomeKit Accessory Development Kit (ADK)](https://github.com/apple/HomeKitADK) - Used by silicon vendors and accessory manufacturers to build HomeKit compatible devices.
