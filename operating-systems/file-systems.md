@@ -50,3 +50,4 @@
 - [Envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [GotenksFS](https://github.com/carlosgaldino/gotenksfs) - File system on top of your file system.
 - [Writing a file system from scratch in Rust (2020)](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
+- [Query-FS](https://gitlab.common-lisp.net/cl-fuse/query-fs) - Virtual filesystem implemented using FUSE in Common Lisp. ([Talk](https://www.youtube.com/watch?v=4T9ApaL6Un8))

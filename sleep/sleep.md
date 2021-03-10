@@ -2,7 +2,7 @@
 
 Sleeping is a way for our brains to flash out all the toxins that accumulated in the brain throughout the day. A kind of human garbage collector.
 
-I never limit my sleep and I try to sleep as much as my body needs thus I wake up with no alarm.
+I [never limit my sleep and I try to sleep as much as my body needs](https://www.youtube.com/watch?v=zsPgNuuS8pA) thus I wake up with no alarm.
 
 I try to go to bed at the same time each day to maintain the Circadian rhythm.
 
