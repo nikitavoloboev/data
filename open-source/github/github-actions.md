@@ -93,6 +93,7 @@
 - [GitHub Status Action](https://github.com/Sibz/github-status-action) - Adds a status update to a commit. GitHub will always show the latest state of a context.
 - [AWS IAM roles for GitHub Actions workflows](https://github.com/glassechidna/actions2aws)
 - [Blazing fast GitHub Pages deploy](https://github.com/alex-page/blazing-fast-gh-pages-deploy)
+- [Add & Commit](https://github.com/EndBug/add-and-commit) - Add & commit files from a path directly from GitHub Actions.
 
 ## Go
 
@@ -125,6 +126,7 @@
 - [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
 - [npm-install](https://github.com/bahmutov/npm-install) - GitHub Action to install npm dependencies with caching without any configuration.
 - [Jest Github Action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments.
+- [pkg-size action](https://github.com/pkg-size/action) - GitHub Action for getting automated size reports on your pull-requests.
 
 ## TS
 
