@@ -315,7 +315,6 @@
 - [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.
 - [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
 - [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust. ([Web](https://nannou.cc/)) ([HN](https://news.ycombinator.com/item?id=25343356))
-- [Bastion](https://github.com/vertexclique/bastion) - Fault-tolerant Runtime for Rust applications.
 - [Criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust.
 - [Cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command-line wrapper for using libFuzzer. Easy to use, no need to recompile LLVM.
 - [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
@@ -389,7 +388,7 @@
 - [JSON-RPC](https://github.com/paritytech/jsonrpc) - Rust implementation of JSON-RPC 2.0 Specification. Transport-agnostic core and transport servers for http, ipc, websockets and tcp.
 - [yaml-rust](https://github.com/chyh1990/yaml-rust) - Pure rust YAML implementation.
 - [directories](https://github.com/soc/directories-rs) - Mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows.
-- [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model. ([HN](https://news.ycombinator.com/item?id=22403713))
+- [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model. ([HN](https://news.ycombinator.com/item?id=22403713)) ([Web](https://bastion.rs/))
 - [Desse](https://github.com/devashishdxt/desse) - Ultra fast binary serialization and deserialization for types with a constant size (known at compile time).
 - [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram_rust) - Port of HdrHistogram to Rust.
 - [ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust.

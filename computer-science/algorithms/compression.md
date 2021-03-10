@@ -44,3 +44,4 @@
 - [Zopfli Compression Algorithm](https://github.com/google/zopfli) - Compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 - [python-blosc](https://github.com/Blosc/python-blosc) - Python wrapper for the extremely fast Blosc compression library.
 - [zip](https://github.com/kuba--/zip) - Portable, simple zip library written in C.
+- [Compressing data with Parquet (2021)](https://dev.l1x.be/posts/2021/03/08/compressing-data-with-parquet/)

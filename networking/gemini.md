@@ -24,3 +24,4 @@
 - [A Gopher view of Gemini (2020)](https://oldvcr.blogspot.com/2020/11/a-gopher-view-of-gemini.html) ([Lobsters](https://lobste.rs/s/88qncl/gopher_view_gemini)) ([HN](https://news.ycombinator.com/item?id=25005307))
 - [Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini)
 - [Elaho](https://github.com/pitr/gemini-ios) - iOS browser for Gemini protocol.
+- [Agate](https://github.com/mbrubeck/agate) - Server for the Gemini network protocol, built with Rust.
