@@ -219,7 +219,7 @@
 - [Machine Learning: a Probabilistic Perspective book](https://www.cs.ubc.ca/~murphyk/MLbook/) ([Code](https://github.com/probml/pyprobml))
 - [Introduction to Machine Learning - Carnegie Mellon University (2019)](http://www.cs.cmu.edu/%7Eninamf/courses/315sp19/)
 - [Notes on ML courses](https://github.com/alisher0717/machine-learning-notes)
-- [Made With ML](https://madewithml.com/) - Share what you've Made With ML.
+- [Made With ML](https://madewithml.com/) - Share what you've Made With ML. ([Code](https://github.com/GokuMohandas/applied-ml))
 - [Backpropagation 101 (2020)](https://thinc.ai/docs/backprop101) - How to trick yourself into understanding backprop without even trying.
 - [A Spacetime Approach to Generalized Cognitive Reasoning in Multi-scale Learning (2017)](https://arxiv.org/abs/1702.04638)
 - [Open Source Deep Learning Glossary](https://github.com/jrdi/dl-glossary)
@@ -428,3 +428,4 @@
 - [Incomplete Deep Learning Guide](https://github.com/sannykim/deep-learning-guide)
 - [A Year at Google Brain (2020)](https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/) ([HN](https://news.ycombinator.com/item?id=26374143))
 - [Pretrained Transformers as Universal Computation Engines (2021)](https://arxiv.org/abs/2103.05247)
+- [Testing Machine Learning Systems: Code, Data and Models](https://madewithml.com/courses/applied-ml/testing/) ([Tweet](https://twitter.com/GokuMohandas/status/1369261247993176066))
