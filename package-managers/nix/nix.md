@@ -168,3 +168,4 @@
 - [nix-script](https://github.com/BrianHicks/nix-script) - Write scripts in compiled languages that run in the nix ecosystem, with no separate build step. ([Article](https://bytes.zone/posts/nix-script/))
 - [nix-update](https://github.com/Mic92/nix-update) - Updates versions/source hashes of nix packages. It is designed to work with nixpkgs but also other package sets.
 - [Nix Portable](https://github.com/DavHau/nix-portable) - Static, Permissionless, Installation-free, Pre-configured.
+- [nix-optics](https://github.com/masaeedu/nix-optics) - Using profunctor optics to focus modifications in Nix.

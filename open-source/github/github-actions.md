@@ -232,3 +232,4 @@
 - [Go crazy with GitHub Actions (2021)](https://sanderknape.com/2021/01/go-crazy-github-actions/)
 - [Arduino GitHub Actions](https://github.com/arduino/actions)
 - [Setup Continuous Delivery with GitHub Actions (2021)](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)
+- [28 Days of GitHub Action Tips (2021)](https://dev.to/github/28-days-of-github-action-tips-4opg)

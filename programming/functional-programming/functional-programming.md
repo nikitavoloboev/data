@@ -111,6 +111,7 @@
 - [PhD research notes on using pure functional programming for implementing Agent-Based Simulations (ABS)](https://github.com/thalerjonathan/phd)
 - [Cube Composer](https://david-peter.de/cube-composer/) - Learn Functional Programming Visually. ([Code](https://github.com/sharkdp/cube-composer)) ([HN](https://news.ycombinator.com/item?id=26131075))
 - [Myth](https://github.com/silky/myth) - Type-and-example-driven program synthesis for functional programming languages.
+- [Profunctor Optics: Modular Data Accessors (2017)](https://mpickering.github.io/papers/profunctor-options.pdf)
 
 ## Images
 
