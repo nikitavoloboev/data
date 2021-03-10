@@ -51,3 +51,4 @@
 - [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
 - [RedCube.js](https://github.com/Reon90/redcube) - WebGL2 rendering library.
 - [High-level WebGL. Low-level tags. (2021)](https://hugodaniel.com/posts/high-level-webgl-low-level-tags/)
+- [WebGL State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - Visual representation of most of WebGL's internal state.

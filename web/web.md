@@ -220,7 +220,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Herodotus](https://github.com/alaskanpuffin/herodotus-core) - Content Archival Software.
 - [W3C Immersive Web Working Group](https://www.w3.org/immersive-web/) - Help bring high-performance Virtual Reality (VR) and Augmented Reality (AR) to the open Web.
 - [Web Dev Without Tools (2021)](https://danthedev.com/web-dev-without-tools/)
-- [Webmention.io](https://webmention.io/) - Easily enable webmentions and pingbacks on any web page. ([Code](https://github.com/aaronpk/webmention.io))
+- [Webmention.io](https://webmention.io/) - Easily enable webmentions and pingbacks on any web page. ([Code](https://github.com/aaronpk/webmention.io)) ([HN](https://news.ycombinator.com/item?id=26401955))
 - [Ask HN: What's the lowest churn web stack? (2021)](https://news.ycombinator.com/item?id=25798186)
 - [Awesome HTML/CSS/JS Tips](https://github.com/MarkoDenic/awesome-html-css-js-tips)
 - [List of software / services that (almost) every web application needs (2020)](https://dylanstein.dev/blog/everything-everybody-needs)

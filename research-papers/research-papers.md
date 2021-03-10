@@ -98,4 +98,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [How to write a great research paper - Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 - [Parsers for scientific papers (PDF2JSON and TEX2JSON)](https://github.com/allenai/s2orc-doc2json)
 - [Collection of academic papers, articles, and other resources](https://github.com/jeffrey-xiao/papers)
-- [Internet Archive Scholar](https://scholar.archive.org/) - Full-text web search interface over the 25+ million open research papers in the Internet Archive. ([Code](https://github.com/internetarchive/fatcat-scholar))
+- [Internet Archive Scholar](https://scholar.archive.org/) - Full-text web search interface over the 25+ million open research papers in the Internet Archive. ([Code](https://github.com/internetarchive/fatcat-scholar)) ([HN](https://news.ycombinator.com/item?id=26401568))
