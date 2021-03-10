@@ -188,3 +188,4 @@
 - [Swift Arcade - YouTube](https://www.youtube.com/channel/UCxnCA5FBYRCFgIZWD0CKCVg/videos) ([Code for Demos](https://github.com/jrasmusson/swift-arcade))
 - [Awesome Swift Function Builders](https://github.com/carson-katri/awesome-function-builders)
 - [How and when to use Lazy Collections in Swift (2021)](https://www.avanderlee.com/swift/lazy-collections-arrays/)
+- [Workspace](https://github.com/SDGGiesbrecht/Workspace) - Automated Management of Swift Projects.

@@ -17,3 +17,4 @@
 - [Google API Improvement Proposals](https://google.aip.dev/)
 - [WebSockets, HTTP/2 and gRPC bidirectional streams for Cloud Run (2021)](https://cloud.google.com/blog/products/serverless/cloud-run-gets-websockets-http-2-and-grpc-bidirectional-streams)
 - [fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator & testing library.
+- [Terraform Google GKE Cluster](https://github.com/jetstack/terraform-google-gke-cluster) - Terraform module to create a best-practice Google Kubernetes Engine (GKE) cluster.

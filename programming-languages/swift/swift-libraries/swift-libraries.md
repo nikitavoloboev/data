@@ -637,6 +637,7 @@
 - [SwiftRegex5](https://github.com/johnno1962/SwiftRegex5) - Basic regex operations in Swift.
 - [SwiftLSPClient](https://github.com/ChimeHQ/SwiftLSPClient) - Swift library for interacting with Language Server Protocol implementations.
 - [TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
+- [SDGSwift](https://github.com/SDGGiesbrecht/SDGSwift) - Swift Compiler As a Package.
 
 ## Other (not lib)
 

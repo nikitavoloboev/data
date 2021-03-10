@@ -40,3 +40,4 @@
 - [Theoretical Foundations of Graph Neural Networks (2021)](https://www.youtube.com/watch?v=uF53xsT7mjc)
 - [PyTorch GAT](https://github.com/gordicaleksa/pytorch-GAT) - PyTorch implementation of the original GAT paper.
 - [Graph Transformer Networks (2019)](https://arxiv.org/abs/1911.06455) ([Code](https://github.com/seongjunyun/Graph_Transformer_Networks))
+- [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://github.com/DropEdge/DropEdge)
