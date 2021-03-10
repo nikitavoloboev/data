@@ -77,3 +77,4 @@
 - [React Static Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Extremely fast static renderer for tweets.
 - [Quitting Twitter (2021)](https://blog.nindalf.com/posts/quitting-twitter/) ([HN](https://news.ycombinator.com/item?id=26267529))
 - [Summary of Daniel Vassallo's Twitter Course (2021)](https://coursemaker.org/blog/summary-daniel-vassallo-twitter-course/)
+- [Great tweets saved by users](<https://twitter.com/search?q=%22save%20thread%22%20(%40readwiseio)%20min_faves%3A3&src=typed_query>)

@@ -39,3 +39,4 @@
 - [The American Civil War - OverSimplified](https://www.youtube.com/watch?v=tsxmyL7TUJg)
 - [The US Military is Everywhere (2021)](https://www.youtube.com/watch?v=-YR2TxHkb4c)
 - [Book Review: Fussell On Class (2021)](https://astralcodexten.substack.com/p/book-review-fussell-on-class) ([HN](https://news.ycombinator.com/item?id=26351913))
+- [USA Crimes List (2021)](https://www.reddit.com/r/Sino/comments/m162i1/the_usa_will_inevitably_collapse_under_the_weight/)

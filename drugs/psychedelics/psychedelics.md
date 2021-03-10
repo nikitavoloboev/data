@@ -105,3 +105,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Which myth about psychedelics would you like to bust? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lgs0xm/which_myth_about_psychedelics_would_you_like_to/)
 - [Hamilton Morris - Creating The Future Of Psychedelics (2021)](https://www.youtube.com/watch?v=w5qoe-ultyg)
 - [Why do psychedelics make people so... gullible? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lul62a/why_do_psychedelics_make_people_so_gullible/)
+- [Psychedelics do NOT cause serotonin syndrome (2021)](https://www.reddit.com/r/askdrugs/comments/m1gao7/psa_psychedelics_do_not_cause_serotonin_syndrome/)
