@@ -11,6 +11,7 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - Treat people as if they are in a sensitive and malleable emotional state all the time. You have the power to uplift friends and strangers with every interaction, large or small.
 - [Life isn't meant to be easy. Everyone suffers in different ways. You don't deserve to be happy since the nature of reality is slow degradation of your life. Don't over estimate other people's happiness compared to your own. Life is hard for all of us. And let me tell you my friend, solitude is a blessing. It is an opportunity to discover more of yourself and your soul. And ultimately, you will always be alone whether you're in a crowded dance club or in the middle of the desert. Stop worrying about being alone. Fill your time with your passions and life will build itself around you so that you are at least slightly less miserable.](https://www.reddit.com/r/Psychonaut/comments/8exb53/seems_i_am_destined_for_a_life_of_lonely/)
 - Always feeling like you are in a race with other people is not a good way to live a life.
+- [The Mystery of life isn't a problem to solve, but a reality to experience.](https://twitter.com/tanayj/status/1369478724500873223)
 
 ## Links
 

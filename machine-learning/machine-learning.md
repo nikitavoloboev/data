@@ -427,3 +427,4 @@
 - [Transformers](https://github.com/sannykim/transformers) - Collection of resources to study Transformers in depth.
 - [Incomplete Deep Learning Guide](https://github.com/sannykim/deep-learning-guide)
 - [A Year at Google Brain (2020)](https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/) ([HN](https://news.ycombinator.com/item?id=26374143))
+- [Pretrained Transformers as Universal Computation Engines (2021)](https://arxiv.org/abs/2103.05247)

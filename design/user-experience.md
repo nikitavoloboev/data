@@ -70,3 +70,4 @@
 - [Apselon](https://apselon.co/) - UX/UI design service for a flat monthly fee.
 - [Tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)
 - [“User engagement” is code for “addiction” (2021)](https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac) ([HN](https://news.ycombinator.com/item?id=26346688))
+- [How We Deliver Great Customer Experience Without a Support Team (2021)](https://calibreapp.com/blog/great-customer-experience)

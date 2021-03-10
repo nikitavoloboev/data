@@ -10,3 +10,4 @@
 - [jest-clean-console-reporter](https://github.com/jevakallio/jest-clean-console-reporter) - Custom Jest reporter to reduce console spam in your test output.
 - [esjest-transform](https://github.com/threepointone/esjest-transform) - Fast jest transform.
 - [esbuild-jest](https://github.com/aelbore/esbuild-jest) - Jest transformer using esbuild.
+- [Using Jest with native ESModules](https://github.com/kentcdodds/jest-esmodules/)

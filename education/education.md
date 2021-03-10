@@ -64,3 +64,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [CS50's Zoom Setup for Live Classes (2021)](https://www.youtube.com/watch?v=Slsc3tkoS_I)
 - [Resources for Ph.D. students](https://github.com/Qwaz/phd-bookmark)
 - [Ask HN: Is abuse from supervisors as common in industry as in academia? (2021)](https://news.ycombinator.com/item?id=26367099)
+- [Questions for Potential Advisors](https://twitter.com/PaolaVFigueroa/status/1312157953550479361)
