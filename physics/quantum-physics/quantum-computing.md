@@ -75,3 +75,4 @@
 - [Quantum Computation by John Preskill, Caltech (2020)](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
 - [Awesome Quantum Computing](https://github.com/desireevl/awesome-quantum-computing)
 - [Quantum physics needs complex numbers (2021)](https://arxiv.org/abs/2101.10873) ([Reddit](https://www.reddit.com/r/Physics/comments/lztuk4/quantum_physics_needs_complex_numbers/))
+- [D-Wave Ocean Software Docs](https://docs.ocean.dwavesys.com/en/stable/) - Fastest way to get started writing your quantum application.

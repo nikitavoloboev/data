@@ -1,5 +1,9 @@
 # Leadership
 
+## Notes
+
+- [If you are in a leadership position, part of your job is to say "no" on behalf of others who don't have the security to do so.](https://twitter.com/rakyll/status/1369502879023726596)
+
 ## Links
 
 - [Ask HN: How to speak like a leader, not like an engineer? (2019)](https://news.ycombinator.com/item?id=19349676)
