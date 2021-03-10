@@ -574,6 +574,7 @@
     - [Korea](travel/visited/korea.md)
     - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)
+  - [Hiking](travel/hiking.md)
 - [Geography](geography/geography.md)
   - [Spatial analysis](geography/spatial-analysis.md)
 - [Business](business/business.md)

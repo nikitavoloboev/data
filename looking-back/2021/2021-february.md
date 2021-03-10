@@ -8,7 +8,7 @@ Until then I will be trying to get LA up to speed. I also applied to [EF](https:
 
 I also wrote a bit more in my private journal this month. Going to try to get a better handle of how much is actually worth sharing. I want whatever I do share to have value or cause actual interest. No pointless negativity.
 
-Oh yeah, maybe I'll start listing my brief goals for next month here. A snapshot of my [Focus Notion board](../../tools/notion.md). Would make for a nice next month look back to as I see how much I moved forward in completing those goals. And/or how my priorities have shifted.
+Oh yeah, maybe I'll start listing my brief goals for next month here. A snapshot of my [Focus Notion board](../../tools/notion.md). Would make for a nice next month look back too, as I see how much I moved forward in completing those goals. And/or how my priorities have shifted.
 
 ![](https://i.imgur.com/IgYVjR3.png)
 
