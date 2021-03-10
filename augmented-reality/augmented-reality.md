@@ -18,3 +18,4 @@
 - [iOS AR app to distort real world surfaces based off music](https://twitter.com/mattbierner/status/1333918742116397056)
 - [WebAssembly Powered Augmented Reality Sudoku Solver (2020)](https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html) ([Code](https://github.com/ColinEberhardt/wasm-sudoku-solver))
 - [Aardvark](https://github.com/aardvarkxr/aardvark) - Framework for building augmented reality "gadgets" that run on top of virtual reality experiences.
+- [FB Reality Labs: The Next Era of Human-Computer Interaction (2021)](https://tech.fb.com/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/)

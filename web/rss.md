@@ -89,3 +89,4 @@
 - [Kalaksi](https://www.kalaksi.com/) - Social-network built on top of RSS.
 - [Nosh](https://nosh.rocks/) - Modern RSS reader. ([Code](https://github.com/mikefrancis/nosh))
 - [Petrolette](http://petrolette.space/) - News reader focused on preventing anyone to know what you are reading.
+- [RSS as a Facebook alternative (2021)](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/) ([HN](https://news.ycombinator.com/item?id=26403669))

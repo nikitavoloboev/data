@@ -33,3 +33,4 @@
 - [Client-Side Drag and Drop with Phoenix LiveView](https://github.com/kelseyleftwich/phoenix-liveview-hook-demo)
 - [Data Fetching Using LiveComponents (2021)](https://kobrakai.de/kolumne/data-fetching-using-livecomponents/)
 - [Slipstream](https://github.com/NFIBrokerage/slipstream) - Slick websocket client for Phoenix channels.
+- [Constraint Programming with MiniZinc and Phoenix/LiveView](https://github.com/bokner/solverview)
