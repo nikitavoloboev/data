@@ -16,3 +16,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Sino China Wiki](https://www.reddit.com/r/Sino/wiki/index)
 - [China Is Not Our Enemy with Chris Hedges (2021)](https://www.youtube.com/watch?v=l4sVSdY7FHg)
 - [Beijing unveils plan for blockchain-based government (2021)](https://technode.com/2020/07/16/beijing-unveils-plan-for-blockchain-based-government/) ([Tweet](https://twitter.com/balajis/status/1283979539337449473))
+- [Of China and India: wandering thoughts from streets, boats and trains (2018)](https://yawningbread.wordpress.com/2018/01/16/of-china-and-india-wandering-thoughts-from-streets-boats-and-trains/)
