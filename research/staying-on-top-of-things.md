@@ -127,6 +127,8 @@ And these Discord servers:
 - [BBC](https://www.bbc.com/)
 - [Foreign Policy](https://foreignpolicy.com/) - Global Magazine of News and Ideas.
 - [Coda Story](https://www.codastory.com/)
+- [Vox](https://www.vox.com/) - Understand the News.
+- [Future Perfect - Vox](https://www.vox.com/future-perfect)
 
 ### Other
 
