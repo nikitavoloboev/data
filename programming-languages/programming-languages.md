@@ -180,3 +180,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog)
 - [Mathematically Structured Programming Group @ University of Strathclyde](http://msp.cis.strath.ac.uk/)
 - [Women in Programming Languages and Software Engineering Research](https://github.com/jeanqasaur/women-in-programming-languages-research)
+- [I don't want to learn your query language (2018)](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html) ([HN](https://news.ycombinator.com/item?id=26410047))

@@ -204,3 +204,4 @@
 - [React Training](https://reacttraining.com/) - React Corporate Workshops, Training, and Consulting. ([GitHub](https://github.com/reactTraining/))
 - [React, Tailwind, Airtable: is this the best MVP stack for your project? (2021)](https://www.youtube.com/watch?v=SLIy_4F6sCY)
 - [Interactive React](https://interactive-react.com/) - Course about making React applications interactive. ([Tweet](https://twitter.com/siddharthkp/status/1367485346049572877))
+- [Fundamentals of SSR in React (2021)](https://emergent.systems/posts/ssr-in-react/)
