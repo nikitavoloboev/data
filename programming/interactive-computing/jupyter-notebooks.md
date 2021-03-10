@@ -111,3 +111,5 @@
 - [curvenote](https://curvenote.com/) - Share your work and collaborate in Jupyter. ([Code](https://github.com/curvenote/editor))
 - [nbsphinx](https://github.com/spatialaudio/nbsphinx) - Jupyter Notebook Tools for Sphinx.
 - [Datalore](https://datalore.jetbrains.com/) - Powerful online environment for Jupyter notebooks.
+- [Galata](https://github.com/jupyterlab/galata) - JupyterLab UI Testing Framework.
+- [widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - Template for creating a custom Jupyter widget project.

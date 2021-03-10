@@ -7,7 +7,7 @@
 - [Sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [CROKAGE: A New Way to Search Stack Overflow (2019)](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/)
 - [Bayard](https://github.com/mosuka/bayard) - Full-text search and indexing server written in Rust.
-- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/)) ([HN](https://news.ycombinator.com/item?id=22685831))
+- [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/)) ([HN](https://news.ycombinator.com/item?id=22685831)) ([GitHub](https://github.com/meilisearch))
 - [MeiliSearch JavaScript Client](https://github.com/meilisearch/meilisearch-js)
 - [MeiliSearch React](https://github.com/meilisearch/meilisearch-react) - Integrate a front-end search bar in your React application using MeiliSearch.
 - [MeiliSearch Go](https://github.com/meilisearch/meilisearch-go) - MeiliSearch API client written for Go.
@@ -113,3 +113,4 @@
 - [Same Energy](https://same.energy/) - Visual Search Engine.
 - [Reiz.IO](https://reiz.io/) - Large Scale Structural Source Code Search. ([Code](https://github.com/reizio/reiz.io))
 - [DataHub](https://github.com/linkedin/datahub) - Generalized Metadata Search & Discovery Tool. ([Web](https://linkedin.github.io/datahub/))
+- [Milli](https://github.com/meilisearch/milli) - Search through millions of documents in milliseconds.

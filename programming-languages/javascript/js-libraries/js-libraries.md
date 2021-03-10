@@ -47,6 +47,7 @@
 - [Whats Up](https://github.com/whatsup/whatsup) - Front-end framework based on ideas of streams and fractals.
 - [Boost](https://github.com/milesj/boost) - Collection of type-safe cross-platform packages for building robust server-side and client-side systems.
 - [Nostalgie](https://github.com/ggoodman/nostalgie) - Opinionated, full-stack, runtime-agnostic framework for building web apps and web pages using react. ([Web](https://nostalgie.dev/))
+- [Lumino](https://github.com/jupyterlab/lumino) - Library for building interactive web applications.
 
 ## Animation
 
