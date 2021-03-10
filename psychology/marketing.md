@@ -109,6 +109,7 @@
 - [How Loom grew from 0-500K users, and beyond (2021)](https://twitter.com/_shahedk/status/1364964378332823552) ([Part 2](https://twitter.com/_shahedk/status/1367532451594006530))
 - [How Loom built a successful referral program for their SaaS product (2021)](https://twitter.com/_shahedk/status/1367532457075957761)
 - [Zero to Marketing](https://zerotomarketing.com/) - Learn marketing from case studies.
+- [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds.
 
 ## Images
 

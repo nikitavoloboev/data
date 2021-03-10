@@ -6,6 +6,7 @@
 - [I can't imagine building intuition without the experience of writing your own stuff, reading a book isn't going to give you that, especially when it comes to just structuring code in general, if you really want to know how something works you have to write it](https://twitter.com/tjholowaychuk/status/1256189125134336005)
 - [Learning in public creates unpredictable but exceptional outcomes. Best way to LIP is to choose a creative container: a constrained format for sharing one’s learnings, released on a consistent schedule.](https://twitter.com/patrick_oshag/status/1292259847711477761)
 - [Learning is not linear. You can “start anywhere” and branch out. It is much more important to be learning effectively (e.g. learn to recognize when you have a gap instead of trying random guesses until it works, and learn to ask the right questions).](https://twitter.com/dan_abramov/status/1295669401765720064)
+- [It's incredible how much I was able to learn about myself and my craft by being an observer.](https://twitter.com/schlaf/status/1369466938448089088)
 
 ## Links
 

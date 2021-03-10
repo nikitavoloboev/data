@@ -22,3 +22,4 @@
 - [Nano Tipper](https://github.com/danhitchcock/nano_tipper_z) - Nano TipBot for Reddit.
 - [Nano is what Bitcoin hoped to be (2021)](https://magnuschatt.medium.com/nano-is-what-bitcoin-hoped-to-be-a84aecf46b74) ([HN](https://news.ycombinator.com/item?id=26202952))
 - [NanoLooker](https://nanolooker.com/) - Explore the Nano cryptocurrency blockchain. ([Code](https://github.com/running-coder/nanolooker))
+- [Nano Register](https://awesomepandapig.github.io/NanoRegister/) - Input an amount in your local currency and the site will generate a one time QR code which can be scanned. ([Code](https://github.com/awesomepandapig/NanoRegister)) ([Reddit](https://www.reddit.com/r/nanocurrency/comments/m1fuxl/introducing_nano_register/))
