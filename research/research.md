@@ -92,3 +92,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The MIT Press launches Direct to Open (2021)](https://mitpress.mit.edu/blog/mit-press-launches-direct-open) ([HN](https://news.ycombinator.com/item?id=26322089))
 - [The Lens](https://www.lens.org/lens/) - Free & Open Patent and Scholarly Search.
 - [Iris.ai](https://iris.ai/) - AI engine for scientific text understanding.
+- [Substance](https://substance.io/) - Self-publish your research. ([GitHub](https://github.com/substance))

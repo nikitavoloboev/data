@@ -41,3 +41,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Great Essays of Life Advice](https://lw2.issarice.com/posts/zMmQdob3eFfeMh7D3/my-favorite-essays-of-life-advice)
 - [Functioning ‘mechanical gears’ seen in nature for the first time](https://www.cam.ac.uk/research/news/functioning-mechanical-gears-seen-in-nature-for-the-first-time)
 - [Jordan Peterson on Rules for Life, Psychedelics, The Bible, and Much More (2021)](https://www.youtube.com/watch?v=C1sEHNw4UIg)
+- [What Is Life? Its Vast Diversity Defies Easy Definition. (2021)](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/)

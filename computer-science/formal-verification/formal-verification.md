@@ -58,3 +58,4 @@
 - [Curry-Howard is a scam (2021)](https://blag.cedeela.fr/curry-howard-scam/) ([Lobsters](https://lobste.rs/s/kp72m4/curry_howard_is_scam))
 - [Computing with metavalues (2021)](https://fredrikj.net/blog/2021/02/computing-with-metavalues/)
 - [CLP](https://github.com/coin-or/Clp) - Open-source linear programming solver.
+- [Metamath Zero](https://github.com/digama0/mm0) - Language for writing specifications and proofs. Its emphasis is on balancing simplicity of verification and human readability of the specification.

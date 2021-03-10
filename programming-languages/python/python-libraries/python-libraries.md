@@ -98,6 +98,7 @@
 ## Crypto
 
 - [fastecdsa](https://github.com/AntonKueltz/fastecdsa) - Python library for fast elliptic curve crypto.
+- [PyCryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained cryptographic library for Python.
 
 ## Test
 

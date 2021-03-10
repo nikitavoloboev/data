@@ -37,3 +37,4 @@
 - [GlobalWarming](https://github.com/nsporillo/GlobalWarming) - Server side global warming mechanics in Minecraft.
 - [AnotherCraft](https://github.com/CZDanol/AnotherCraft) - Minecraft clone. Visualisation of a procedurally generated voxel terrain.
 - [All is Cubes](https://github.com/kpreid/all-is-cubes) - Game engine for worlds made of cubical blocks.
+- [Minecraft, but I made it in 48 hours](https://github.com/jdah/minecraft-weekend)
