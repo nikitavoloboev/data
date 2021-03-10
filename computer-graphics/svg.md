@@ -68,3 +68,4 @@
 - [SVG Tutorial: How to Code SVG Icons by Hand (2021)](https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand/)
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons.
 - [svg-injector](https://github.com/tanem/svg-injector) - Fast, caching, dynamic inline SVG DOM injection library.
+- [SVG Wave](https://svgwave.in/) - Tiny, customizable gradient SVG wave generator. ([Code](https://github.com/anup-a/svgwave))

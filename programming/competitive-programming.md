@@ -29,3 +29,4 @@
 - [Solutions to Competitive Programming problems](https://github.com/abeaumont/competitive-programming)
 - [Programming Challenges](https://github.com/michelbernardods/programming-challenges) - Data structures and algorithms. Programming challenges and competitions to improve knowledge.
 - [Data Structures and Algorithms for Competitive Programming](https://github.com/manishbisht/Competitive-Programming)
+- [C++ basics for competitive programming (2016)](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)

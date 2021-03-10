@@ -59,3 +59,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Is sugar bad for you if your body needs the calories? (2020)](https://www.reddit.com/r/nutrition/comments/gxv7ya/is_sugar_bad_for_you_if_your_body_needs_the/)
 - [Why is there no definitive healthy Human Diet? (2020)](https://www.reddit.com/r/nutrition/comments/h7jxvp/why_is_there_no_definitive_healthy_human_diet/)
 - [Summary of US nutrition guidelines (2020)](https://news.ycombinator.com/item?id=25570551)
+- [Nutrition Reddit Wiki - Suggested Reading](https://www.reddit.com/r/nutrition/wiki/books)
