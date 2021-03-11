@@ -188,6 +188,7 @@
 
 ## Web
 
+- [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift.
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
 - [Alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
 - [LeafKit](https://github.com/vapor/leaf-kit)
