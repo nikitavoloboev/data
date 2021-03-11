@@ -39,8 +39,7 @@
 - [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.
 - [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy videogames programming. ([go-raylib](https://github.com/chunqian/go-raylib))
 - [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)
-- [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
-  - [Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html)
+- [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things. ([Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html))
 - [Open Source Game Clones](https://osgameclones.com/)
 - [Flecs](https://github.com/SanderMertens/flecs) - Multithreaded Entity Component System written for C89 & C99.
 - [Marvel's Spider-Man: A Technical Postmortem (2019)](https://www.youtube.com/watch?v=KDhKyIZd3O8)
@@ -84,6 +83,7 @@
 - [Yet Another Doom Clone (In 13kb of JavaScript) (2019)](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)
 - [Magic Tools](https://github.com/ellisonleao/magictools) - Game Development resources to make magic happen.
 - [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+- [Nakama](https://heroiclabs.com/) - Distributed server for social and real time games and apps. ([Code](https://github.com/heroiclabs/nakama))
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)
 - [Dwarf Fortress Creator Explains its Complexity & Origins (2020)](https://www.youtube.com/watch?v=VAhHkJQ3KgY) ([HN](https://news.ycombinator.com/item?id=23646395))

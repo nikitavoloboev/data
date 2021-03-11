@@ -24,3 +24,4 @@
 - [Godot Shaders](https://godotshaders.com/) - View and Share Shaders for Godot. ([HN](https://news.ycombinator.com/item?id=26025742))
 - [Goost](https://github.com/goostengine/goost) - General-purpose, extensible and customizable C++ extension for Godot Engine.
 - [Why isn't Godot an ECS-based game engine? (2021)](https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine) ([Lobsters](https://lobste.rs/s/hzqlgc/why_isn_t_godot_ecs_based_game_engine)) ([HN](https://news.ycombinator.com/item?id=26284158))
+- [Making an online multiplayer game with Godot and Nakama (2021)](https://heroiclabs.com/blog/announcements/godot-fishgame/) ([Lobsters](https://lobste.rs/s/rikico/making_online_multiplayer_game_with))
