@@ -22,3 +22,4 @@
 - [TLC](https://github.com/tlaplus/tlaplus) - Explicit state model checker for specifications written in TLA+.
 - [The TLA+ Home Page](https://lamport.azurewebsites.net/tla/tla.html)
 - [TLA+ Action Properties (2021)](https://www.hillelwayne.com/post/action-properties/)
+- [HN: TLA+ (2021)](https://news.ycombinator.com/item?id=26385075)

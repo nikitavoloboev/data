@@ -78,3 +78,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Basic Chess Openings Explained (2020)](https://www.youtube.com/watch?v=8IlJ3v8I4Z8)
 - [How To Learn & Study Chess Openings (2021)](https://www.youtube.com/watch?v=6IegDENuxU4)
 - [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - Can you beat 1024 bytes of JavaScript at Chess? ([HN](https://news.ycombinator.com/item?id=26380110))
+- [When the prison banned board games, we played chess in our minds (2021)](https://www.themarshallproject.org/2021/02/11/when-the-prison-banned-board-games-we-played-chess-in-our-minds) ([HN](https://news.ycombinator.com/item?id=26385142))

@@ -429,3 +429,4 @@
 - [A Year at Google Brain (2020)](https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/) ([HN](https://news.ycombinator.com/item?id=26374143))
 - [Pretrained Transformers as Universal Computation Engines (2021)](https://arxiv.org/abs/2103.05247)
 - [Testing Machine Learning Systems: Code, Data and Models](https://madewithml.com/courses/applied-ml/testing/) ([Tweet](https://twitter.com/GokuMohandas/status/1369261247993176066))
+- [Finding Mona Lisa in the Game of Life (2021)](https://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html) ([HN](https://news.ycombinator.com/item?id=26384403))

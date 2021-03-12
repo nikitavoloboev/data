@@ -44,3 +44,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Vitamin D Supplementation Improves Cognitive Function: 12-month RCT (2020)](https://pubmed.ncbi.nlm.nih.gov/33164936/) ([HN](https://news.ycombinator.com/item?id=25077519))
 - [General Notes On Supplements (2020)](https://lorienpsych.com/2020/12/03/general-notes-on-supplements/)
 - [What supplements do you take and why? (2021)](https://www.reddit.com/r/nutrition/comments/lzpjxq/what_supplements_do_you_take_and_why/)
+- [Ask HN: What supplements do you take? (2021)](https://news.ycombinator.com/item?id=26384702)

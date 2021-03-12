@@ -141,4 +141,4 @@
 - [Git's list of banned C functions](https://github.com/git/git/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26347867))
 - [Microsoft's list of banned C functions](https://github.com/x509cert/banned/blob/master/banned.h) ([HN](https://news.ycombinator.com/item?id=26353025))
 - [Aro](https://github.com/Vexu/arocc) - C compiler written in Zig.
-- [Half of curl’s vulnerabilities are C mistakes (2021)](https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/) ([Lobsters](https://lobste.rs/s/3efzcx/half_curl_s_vulnerabilities_are_c))
+- [Half of curl’s vulnerabilities are C mistakes (2021)](https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/) ([Lobsters](https://lobste.rs/s/3efzcx/half_curl_s_vulnerabilities_are_c)) ([HN](https://news.ycombinator.com/item?id=26396323))
