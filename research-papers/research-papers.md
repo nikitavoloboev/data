@@ -99,3 +99,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Parsers for scientific papers (PDF2JSON and TEX2JSON)](https://github.com/allenai/s2orc-doc2json)
 - [Collection of academic papers, articles, and other resources](https://github.com/jeffrey-xiao/papers)
 - [Internet Archive Scholar](https://scholar.archive.org/) - Full-text web search interface over the 25+ million open research papers in the Internet Archive. ([Code](https://github.com/internetarchive/fatcat-scholar)) ([HN](https://news.ycombinator.com/item?id=26401568))
+- [ResearchGate](https://www.researchgate.net/) - Social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.

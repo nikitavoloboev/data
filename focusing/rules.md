@@ -218,7 +218,7 @@
 
 ## Read
 
-- Make notes on of everything I find useful. Reading books & papers. Meetings, talks.
+- Make notes of everything I find useful. Reading books & papers. Meetings, talks.
 - Review read books on Goodreads & add it to [wiki](../books/books.md).
 
 ## Licensing

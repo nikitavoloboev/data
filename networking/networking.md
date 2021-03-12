@@ -213,3 +213,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Implementer's Guide to SOCKS (2021)](https://cookie.engineer/weblog/articles/implementers-guide-to-socks.html)
 - [Open Wireless Link](https://owlink.org/) - Opening up Apple’s wireless ecosystem around the Apple Wireless Direct Link (AWDL) protocol.
 - [Audio over Bluetooth: most detailed information about profiles and codecs (2019)](https://habr.com/en/post/456182/) ([HN](https://news.ycombinator.com/item?id=26368521))
+- [UERANSIM](https://github.com/aligungr/UERANSIM) - Open source 5G UE and RAN (gNodeB) implementation.
