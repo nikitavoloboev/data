@@ -112,6 +112,7 @@
 - [Cube Composer](https://david-peter.de/cube-composer/) - Learn Functional Programming Visually. ([Code](https://github.com/sharkdp/cube-composer)) ([HN](https://news.ycombinator.com/item?id=26131075))
 - [Myth](https://github.com/silky/myth) - Type-and-example-driven program synthesis for functional programming languages.
 - [Profunctor Optics: Modular Data Accessors (2017)](https://mpickering.github.io/papers/profunctor-options.pdf)
+- [OCaml, Erlang, and Functional Programming with Leandro Ostera (2021)](https://www.youtube.com/watch?v=9qqyd7nQqnE)
 
 ## Images
 
