@@ -218,9 +218,8 @@
 
 ## Read
 
-- Make notes as I read books & papers.
+- Make notes on of everything I find useful. Reading books & papers. Meetings, talks.
 - Review read books on Goodreads & add it to [wiki](../books/books.md).
-- Star articles I liked on Reeder. Transfer likes to wiki later.
 
 ## Licensing
 

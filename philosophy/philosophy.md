@@ -40,3 +40,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Perspectivism | Beyond Good and Evil](https://www.youtube.com/watch?v=xPLq4NgHM48)
 - [Christopher Anadale - YouTube](https://www.youtube.com/c/ChristopherAnadale/featured) - Teaches philosophy.
 - [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
+- [Philosophy Books and Resources](https://github.com/Jfaler/Philosophy)

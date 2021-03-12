@@ -34,6 +34,10 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Research papers](https://github.com/learn-anything/research-papers)
 - And [lots more](https://github.com/learn-anything/curated-lists).
 
+## Notes
+
+- It would be nice to have something like Spotify for scientific publishing. Versioning for papers/research to improve reproducibility.
+
 ## Links
 
 - [Research debt](https://distill.pub/2017/research-debt/)
