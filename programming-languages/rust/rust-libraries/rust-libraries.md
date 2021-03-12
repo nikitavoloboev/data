@@ -753,6 +753,7 @@
 - [wide](https://github.com/Lokathor/wide) - Crate to help you go wide. By which I mean use SIMD stuff.
 - [Tailcall](https://github.com/alecdotninja/tailcall) - Safe, zero-cost tail recursion for stable Rust.
 - [async-imap](https://github.com/async-email/async-imap) - Async IMAP implementation in Rust.
+- [nachricht](https://github.com/yasammez/nachricht) - Self-describing data interchange format.
 
 ## Cargo Plugins
 
