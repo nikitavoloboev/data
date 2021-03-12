@@ -93,3 +93,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Best way to find a job at a startup (2021)](https://twitter.com/SWARTZcenter/status/1350075419479969798) ([HN](https://news.ycombinator.com/item?id=25793459))
 - [Ask HN: Advice for finding an entry-level remote job? (2021)](https://news.ycombinator.com/item?id=26171008)
 - [My experience as a Gazan girl getting into Silicon Valley companies (2021)](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) ([HN](https://news.ycombinator.com/item?id=26251143))
+- [Ask HN: Can you switch to a programming career despite nearing 40? (2021)](https://news.ycombinator.com/item?id=26383366)

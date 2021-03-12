@@ -35,3 +35,4 @@
 - [The Kafka API is great; now let's make it fast (2021)](https://vectorized.io/blog/fast-and-safe/)
 - [Kafka Rust Client](https://github.com/kafka-rust/kafka-rust)
 - [Kafka timers (2021)](https://wgtwo.com/blog/kafka-timers)
+- [Contrasting Kafka with Akka (2021)](https://medium.com/swlh/contrasting-kafka-with-akka-ab445eed2165)

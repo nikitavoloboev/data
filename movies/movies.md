@@ -35,3 +35,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [In Bruges: Morality In Dialogue](https://www.youtube.com/watch?v=r_9mLu1kMA8)
 - [Flim](https://beta.flim.ai/) - Search movies, actors, directors or keywords.
 - [Heat: The Perfect Blend of Realism and Style](https://www.youtube.com/watch?v=VMLej6hFN30)
+- [Modern action films fetishize the body even as they desexualize it (2021)](https://bloodknife.com/everyone-beautiful-no-one-horny/) ([HN](https://news.ycombinator.com/item?id=26381377))

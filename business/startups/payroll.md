@@ -8,3 +8,4 @@
 - [Gusto](https://gusto.com/) - All-In-One People Platform for Payroll, Benefits, HR.
 - [Finch](https://tryfinch.com/) - Universal API for Payroll and HR.
 - [Check](https://checkhq.com/) - Embed payroll in your platform. ([Introducing Check](https://checkhq.com/blog/introducing-check/))
+- [Omnipresent](https://www.omnipresent.com/) - Global Employment for Any Business.

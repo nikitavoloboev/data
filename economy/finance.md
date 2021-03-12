@@ -86,3 +86,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [pValuation](https://github.com/robertmartin8/pValuation) - Quantamental finance research with python.
 - [Python for Finance Book](https://home.tpq.io/books/py4fi/) - Mastering Data-Driven Finance. ([Code](https://github.com/yhilpisch/py4fi2nd))
 - [On the Experience of Being Poor-Ish, for People Who Aren't (2021)](https://residentcontrarian.substack.com/p/on-the-experience-of-being-poor-ish) ([HN](https://news.ycombinator.com/item?id=26300139))
+- [The Joy of Fuck-You Money (2018)](https://thedeepdish.org/fuck-you-money/) ([HN](https://news.ycombinator.com/item?id=26426915))
