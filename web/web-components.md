@@ -30,3 +30,4 @@
 - [fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
 - [customLibraries](https://github.com/WebReflection/custom-libraries) - CustomElements like registry for user-land libraries.
 - [Web Components Spec](https://github.com/WICG/webcomponents)
+- [GitHub's Web Component Collection](https://github.com/github/github-elements) ([HN](https://news.ycombinator.com/item?id=26437668))

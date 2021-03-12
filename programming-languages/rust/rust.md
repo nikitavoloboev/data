@@ -422,3 +422,4 @@
 - [Life in Differential Dataflow (2021)](https://materialize.com/life-in-differential-dataflow/)
 - [Rust Incubator](https://github.com/instrumentisto/rust-incubator) - Learning Rust step-by-step.
 - [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
+- [RustViz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing.
