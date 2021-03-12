@@ -205,3 +205,4 @@
 - [React, Tailwind, Airtable: is this the best MVP stack for your project? (2021)](https://www.youtube.com/watch?v=SLIy_4F6sCY)
 - [Interactive React](https://interactive-react.com/) - Course about making React applications interactive. ([Tweet](https://twitter.com/siddharthkp/status/1367485346049572877))
 - [Fundamentals of SSR in React (2021)](https://emergent.systems/posts/ssr-in-react/)
+- [React State: A simple and easy to follow breakdown (2021)](https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown)

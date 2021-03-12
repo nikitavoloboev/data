@@ -60,3 +60,4 @@
 - [serverlessish](https://github.com/glassechidna/serverlessish) - Run the same Docker images in AWS Lambda and AWS ECS.
 - [AWS Lambda C++ Runtime](https://github.com/awslabs/aws-lambda-cpp) - C++ implementation of the lambda runtime API.
 - [subscriptionless](https://github.com/andyrichardson/subscriptionless) - Library for using GraphQL subscriptions with AWS Lambda.
+- [Serverless Full-Text Search with AWS Lambda and EFS (2021)](https://medium.com/@arsenyyankovski/serverless-full-text-search-with-aws-lambda-and-efs-cf24e1b6fe3b) ([Reddit](https://www.reddit.com/r/aws/comments/m2uzyv/serverless_fulltext_search_with_aws_lambda_and_efs/))
