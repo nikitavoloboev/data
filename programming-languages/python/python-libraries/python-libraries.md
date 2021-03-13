@@ -365,6 +365,7 @@
 - [Langcodes](https://github.com/LuminosoInsight/langcodes) - Python library for working with and comparing language codes.
 - [Python Control Systems](https://github.com/python-control/python-control) - Python module that implements basic operations for analysis and design of feedback control systems.
 - [cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Fast JSON parsing library for Python.
+- [QP Solvers for Python](https://github.com/stephane-caron/qpsolvers) - Quadratic Programming solvers in Python with a unified API.
 
 ## Links
 

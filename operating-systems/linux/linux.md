@@ -279,3 +279,4 @@
 - [systemd: Boot Loader Specification](https://systemd.io/BOOT_LOADER_SPECIFICATION/)
 - [Why bother between choosing of distros and desktops theme when the Linuxs they are similar and you can customize them? (2021)](https://www.reddit.com/r/linuxquestions/comments/lxt8pi/why_bother_between_choosing_of_distros_and/)
 - [Qubes-lite with KVM and Wayland (2021)](https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/)
+- [An Introduction to Linux Kernel Exploitation (2021)](https://pwning.systems/posts/an-introduction-to-kernel-exploitation-part1/)
