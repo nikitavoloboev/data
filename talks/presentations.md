@@ -38,3 +38,4 @@
 - [The man who produced Steve Jobs’ keynotes for 20 years (2018)](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years) ([HN](https://news.ycombinator.com/item?id=26033689))
 - [MDXP](https://github.com/0phoff/MDXP) - Allows you to create slides easily with React and MDX.
 - [Pitch Presentation Templates](https://pitch.com/templates)
+- [RemoteCTRL](https://remotectrl.net/) - Control any slideshow together.

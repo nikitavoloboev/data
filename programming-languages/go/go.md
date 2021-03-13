@@ -440,3 +440,4 @@ Go promotes composition over inheritance.
 - [5 Common mistakes in Go (2021)](https://deepsource.io/blog/common-mistakes-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lxe4yd/a_short_list_of_patterns_that_beginners_miss/))
 - [How I build web frontends in Go (2021)](https://philippta.github.io/web-frontends-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lzymk9/how_i_build_web_frontends_in_go/))
 - [Goroutines Are Not Significantly Lighter Than Threads (2021)](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html) ([Lobsters](https://lobste.rs/s/wxdvlr/goroutines_are_not_significantly))
+- [netaddr.IP: a new IP address type for Go (2021)](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)

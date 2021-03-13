@@ -69,3 +69,4 @@
 - [SVG Repo](https://www.svgrepo.com/) - Free SVG Vectors and Icons.
 - [svg-injector](https://github.com/tanem/svg-injector) - Fast, caching, dynamic inline SVG DOM injection library.
 - [SVG Wave](https://svgwave.in/) - Tiny, customizable gradient SVG wave generator. ([Code](https://github.com/anup-a/svgwave))
+- [Too Many SVGs Clogging Up Your Markup? Try `use`. (2021)](https://css-tricks.com/too-many-svgs-clogging-up-your-markup-try-use/)

@@ -124,3 +124,4 @@
 - [Making GitHub’s new homepage fast and performant (2021)](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/) ([HN](https://news.ycombinator.com/item?id=25959646))
 - [JavaScript performance beyond bundle size (2021)](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)
 - [Speed Is the Killer Feature (2021)](https://bdickason.com/posts/speed-is-the-killer-feature/) ([HN](https://news.ycombinator.com/item?id=26312516))
+- [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)

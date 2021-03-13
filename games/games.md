@@ -174,3 +174,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Playnite](https://playnite.link/) - Video game library manager. ([Code](https://github.com/JosefNemec/Playnite/))
 - [Ultima VIII – How to destroy a gaming franchise in one easy step (2021)](https://www.filfre.net/2021/02/ultima-viii-or-how-to-destroy-a-gaming-franchise-in-one-easy-step/) ([HN](https://news.ycombinator.com/item?id=26195083))
 - [Ask HN: Best free games to play on PC? (2021)](https://news.ycombinator.com/item?id=26401840)
+- [Text Adventures: how Twine remade gaming (2021)](https://www.theverge.com/22321816/twine-games-history-legacy-art)
