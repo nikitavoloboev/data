@@ -93,4 +93,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Creeping as a Service](https://every.to/divinations/creeping-as-a-service-craas) ([HN](https://news.ycombinator.com/item?id=26081672))
 - [TikTok and the Network Effects of Creativity (2021)](https://www.eugenewei.com/blog/2021/2/15/american-idle)
 - [Zenly](https://zen.ly/) - Live map of your friends and family. ([GitHub](https://github.com/znly))
-- [He got Facebook hooked on AI. Now he can't fix its misinformation addiction (2021)](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/)
+- [He got Facebook hooked on AI. Now he can't fix its misinformation addiction (2021)](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/) ([Tweet](https://twitter.com/glichfield/status/1370735851882299393))

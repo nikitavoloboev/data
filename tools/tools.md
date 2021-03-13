@@ -178,6 +178,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Octopus.do](https://octopus.do/sitemap/resource/generator) - Generate Visual Sitemap from sitemap.xml, just write URL. ([HN](https://news.ycombinator.com/item?id=23600645))
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [Transloadit](https://transloadit.com/) - File Uploading, Conversion & Processing for websites/apps.
+- [FreeScout](https://freescout.net/) - Free self-hosted Zendesk & Help Scout alternative.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/))
