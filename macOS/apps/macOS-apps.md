@@ -140,3 +140,4 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Releasecast](https://github.com/superhighfives/releasecast) - Tool to help you get from app to release.
 - [Use Mac APIs and build Mac apps with Go (2021)](https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6)
 - [The Best Mac Duplicate Finders (2021)](https://thesweetbits.com/best-duplicate-file-finder-remover-mac/)
+- [What Makes a Great Mac App? (2021)](https://www.linkedin.com/pulse/what-makes-great-mac-app-vladimir-danila/)

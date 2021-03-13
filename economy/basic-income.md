@@ -7,7 +7,7 @@ Technology and automation will not stop and more things will be automated with e
 ## Links
 
 - [Jeremy Rifkin on Basic Income](https://www.youtube.com/watch?v=6m_k14dEcAI)
-- [World After Capital](http://worldaftercapital.org/) ([Code](https://github.com/WorldAfterCapital/WorldAfterCapital))
+- [World After Capital](http://worldaftercapital.org/) ([Code](https://github.com/WorldAfterCapital/WorldAfterCapital)) ([In Tweets](https://twitter.com/albertwenger/status/1365699765942509569))
 - [Impact of UBI on the Labor Market](https://continuations.com/post/180032156650/world-after-capital-ubi-and-the-labor-market)
 - [What Is the Point of Universal Basic Income? (2020)](https://www.perell.com/fellowship-essays/universal-basic-income) ([HN](https://news.ycombinator.com/item?id=22217231))
 - [HN: Coronavirus Is Making Universal Basic Income Look Better (2020)](https://news.ycombinator.com/item?id=23201177)

@@ -266,3 +266,4 @@
 - [Emily Pillmore – Hulk SMASH: re-imagining the Maybe-monad and its design space (2020)](https://www.youtube.com/watch?v=4aQlFMvKgdc)
 - [Prune Juice](https://github.com/dfithian/prune-juice) - Prune unused Haskell dependencies. ([Article](https://dfithian.github.io/2021/03/08/pruning-unused-haskell-dependencies.html))
 - [Nixkell](https://github.com/pwm/nixkell) - Get your Haskell projects up and running with no fuss using Nix.
+- [Supercharge your handles using phantom types (2021)](https://luctielen.com/posts/supercharge_your_handles_with_phantom_types/)

@@ -14,3 +14,4 @@
 - [Brainiac](https://kickstartsidehustle.com/brainiac/) - Database of 150 cognitive biases that control our decisions.
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) ([Tweet](https://twitter.com/hunterwalk/status/1353109998713229317))
 - [Thinking too much can be bad for you](https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you) ([HN](https://news.ycombinator.com/item?id=26081880))
+- [Final Thoughts on Free Will | Sam Harris (2021)](https://samharris.org/podcasts/241-final-thoughts-on-free-will/) ([Tweet](https://twitter.com/wolfejosh/status/1370730710928134153))
