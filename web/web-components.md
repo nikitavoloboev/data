@@ -31,3 +31,4 @@
 - [customLibraries](https://github.com/WebReflection/custom-libraries) - CustomElements like registry for user-land libraries.
 - [Web Components Spec](https://github.com/WICG/webcomponents)
 - [GitHub's Web Component Collection](https://github.com/github/github-elements) ([HN](https://news.ycombinator.com/item?id=26437668))
+- [Web Components Are Easier Than You Think (2021)](https://css-tricks.com/web-components-are-easier-than-you-think/)

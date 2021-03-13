@@ -355,3 +355,4 @@
 - [Write libraries instead of services, where possible](http://catern.com/services.html) ([HN](https://news.ycombinator.com/item?id=26398960))
 - [The Debugging Book](https://www.debuggingbook.org/) - Tools and Techniques for Automated Software Debugging.
 - [Programming Paradigms, Turing Completeness and Computational Thinking (2020)](https://programming-journal.org/2020/4/4/) ([HN](https://news.ycombinator.com/item?id=26382818))
+- [Staying out of TTL hell (2021)](http://calpaterson.com/ttl-hell.html)

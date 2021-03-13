@@ -58,3 +58,4 @@
 - [Prosopite](https://github.com/charkost/prosopite) - Rails N+1 queries auto-detection with zero false positives / false negatives.
 - [Turbo Native for iOS](https://www.driftingruby.com/episodes/turbo-native-for-ios)
 - [Drifting Ruby](https://www.driftingruby.com/) - Ruby on Rails Screencasts for Web Developers.
+- [My Ruby on Rails stack for side projects in 2021](https://www.mskog.com/posts/my-recommended-rails-stack-in-2021/)

@@ -120,3 +120,4 @@
 - [Comprehensive list of tech interview questions](https://github.com/twowaits/SDE-Interview-Questions)
 - [Fabian Tamp's experience of interviewing (2020)](https://www.interviews.computer/post/fabian-tamp)
 - [Red Flags I Saw While Doing 60 Technical Interviews in 30 Days (2021)](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days-ckm53wt5f00avscs13xf9fhcs) ([HN](https://news.ycombinator.com/item?id=26426602))
+- [Questions for potential employers](https://github.com/tBaxter/questions-for-employers)

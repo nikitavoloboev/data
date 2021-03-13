@@ -99,3 +99,4 @@
 - [A Brief History of Yesterday](https://abriefhistoryofyesterday.com/) - Brief overview of yesterday's world events.
 - [Unlocking history through automated virtual unfolding of sealed documents imaged by X-ray microtomography (2021)](https://www.nature.com/articles/s41467-021-21326-w) ([Code](https://github.com/UnlockingHistory/virtual-unfolding))
 - [How the ARPANET Protocols Worked (2021)](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
+- [Computing History Hub](https://www.notion.so/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521)
