@@ -377,6 +377,7 @@ Here are few more things I liked, design wise.
 - [Adrien Griveau](https://adriengriveau.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
 - [Owen Kelly](https://www.owenkelly.com.au/)
+- [Kitty Giraudel](https://kittygiraudel.com/)
 - [Marcelo Cardoso](https://marcelovicentegc.github.io/)
 - [Dylan Stein](https://dylanstein.dev/)
 - [Ben Kuhn](https://www.benkuhn.net/)

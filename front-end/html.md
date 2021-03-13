@@ -99,3 +99,4 @@
 - [linkedom](https://github.com/WebReflection/linkedom) - Triple-linked lists based DOM implementation.
 - [bin2png](https://github.com/lovasoa/bin2png) - Embed binary data inside an HTML file in an efficient way.
 - [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine. ([Web](http://www.litehtml.com/))
+- [Gorillas’ nav: a case study (2021)](https://kittygiraudel.com/2021/03/13/gorillas-nav-a-case-study/)

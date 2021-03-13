@@ -77,6 +77,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Soreine](http://soreine.github.io/art/)
 - [Julien Gauthier](https://www.artstation.com/renart)
 - [Daniel Danger](https://www.instagram.com/tinymediaempire/)
+- [Alison Zai](https://www.instagram.com/alisonzai/)
 - [Xuan Loc Xuan](https://www.behance.net/xuanlocxuan)
 - [Will Quinn](https://www.instagram.com/willquinnart/)
 - [Darya Shnykina](https://www.behance.net/daryashnykina)
