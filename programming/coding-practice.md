@@ -3,7 +3,7 @@
 ## Practice sites
 
 - [LeetCode](https://leetcode.com)
-- [Exercism](http://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))
+- [Exercism](https://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))
 - [Project Euler](https://projecteuler.net/archives)
 - [Advent of Code](https://adventofcode.com/) ([Lobsters Promo Thread 2020](https://lobste.rs/s/3uxtgb/advent_code_2020_promotion_thread))
 - [HackerRank](https://www.hackerrank.com/)

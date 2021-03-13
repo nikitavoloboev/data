@@ -100,3 +100,4 @@
 - [Howtopedia](http://en.howtopedia.org/wiki/Main_Page) - Collaborative platform for practical knowledge and simple technologies.
 - [The Feynman Technique for Learning Anything Notion Template](https://www.notion.so/The-Feynman-Technique-for-Learning-Anything-6971ac9284d545e4861e0eb4e602471a)
 - [The Recurse Center User’s Manual](https://www.recurse.com/manual)
+- [Awesome by Example](https://github.com/b0o/awesome-by-example) - List of awesome example-based learning resources.

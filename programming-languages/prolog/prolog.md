@@ -29,3 +29,5 @@
 - [Prolog Notes](https://github.com/dtonhofer/prolog_notes) - Some notes taken while working on Prolog.
 - [CLP(FD)](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains.
 - [Some Global Optimizations for a Prolog Compiler (1985)](https://core.ac.uk/download/pdf/82661515.pdf)
+- [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
+- [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)

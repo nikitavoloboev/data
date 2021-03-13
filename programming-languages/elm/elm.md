@@ -56,3 +56,4 @@
 - [Safe dead code removal in a pure functional language (2021)](https://jfmengels.net/safe-dead-code-removal/)
 - [elm-tooling](https://github.com/elm-tooling/elm-tooling-cli) - Manage Elm tools. ([Docs](https://elm-tooling.github.io/elm-tooling-cli/))
 - [The trickiest Elm bug I've ever seen (2021)](https://blog.realkinetic.com/the-trickiest-elm-bug-ive-ever-seen-988aff6cbbd7)
+- [Elm Koans](https://github.com/robertjlooby/elm-koans) - Set of koans for learning Elm.
