@@ -8,6 +8,7 @@
 
 - Can search over my own Twitter profile with Nitter [here](https://nitter.net/nikitavoloboev/search?f=tweets).
 - [To prevent usernames and URLs from being converted to links, interrupt them with a zero-width space.](https://twitter.com/markdalgleish/status/1340897088486273034)
+- [Normalize reading the whole tweet/tweet thread before replying](https://twitter.com/sarah_edo/status/1370806530497376257)
 
 ## Links
 
