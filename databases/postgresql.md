@@ -235,3 +235,4 @@
 - [Postgres Notify for Real Time Dashboards (2021)](https://blog.arctype.com/postgres-notify-for-real-time-dashboards/)
 - [Cleaning Up Your Postgres Database (2021)](http://blog.crunchydata.com/blog/cleaning-up-your-postgres-database)
 - [Cracking PostgreSQL Interview Questions (2021)](https://supabase.io/blog/2021/02/27/cracking-postgres-interview)
+- [Performance differences between Postgres and MySQL (2021)](https://blog.arctype.com/performance-difference-between-postgresql-and-mysql/) ([Lobsters](https://lobste.rs/s/ldnobo/performance_differences_between))

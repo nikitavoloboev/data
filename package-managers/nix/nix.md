@@ -108,7 +108,7 @@
 - [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - CI friendly wrapper around nix-build.
 - [nix-tests](https://github.com/cleverca22/nix-tests) - Scratchpad for small experimental things I am doing with Nix.
 - [Nix Flakes, Part 1: An introduction and tutorial (2020)](https://www.tweag.io/posts/2020-05-25-flakes.html)
-- [Nix Flakes, Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes/) ([Lobsters](https://lobste.rs/s/h99uo8/nix_flakes_part_1_introduction_tutorial))
+- [Nix Flakes, Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes/) ([Lobsters](https://lobste.rs/s/h99uo8/nix_flakes_part_1_introduction_tutorial)) ([Lobsters 2](https://lobste.rs/s/iqoegm/nix_flakes_part_1_introduction_tutorial))
 - [nix-overlays of Antonio Monteiro](https://github.com/anmonteiro/nix-overlays)
 - [A Nix terminology primer by a newcomer (2020)](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 - [Statistical Rethinking and Nix (2020)](https://rgoswami.me/posts/rethinking-r-nix/)

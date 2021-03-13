@@ -173,3 +173,4 @@
 - [The history of trackers (2020)](https://www.musictech.net/guides/essential-guide/history-of-trackers/) ([Lobsters](https://lobste.rs/s/0esop3/history_trackers))
 - [Why does an A note sound different across instruments?](https://omarshehata.me/notebook/exploring_sound) ([HN](https://news.ycombinator.com/item?id=26308241))
 - [Ask HN: Do you create music? let's hear it (2021)](https://news.ycombinator.com/item?id=26391254)
+- [Writing an Audio Plugin in Rust (2017)](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/)

@@ -423,3 +423,4 @@
 - [Rust Incubator](https://github.com/instrumentisto/rust-incubator) - Learning Rust step-by-step.
 - [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
 - [RustViz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing.
+- [How to speed up rustdoc in 2021](https://txti.es/fckc0)

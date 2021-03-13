@@ -439,3 +439,4 @@ Go promotes composition over inheritance.
 - [In Go-land you pay even for what you don't use (2021)](https://notes.volution.ro/v1/2021/02/notes/378ae6f6/)
 - [5 Common mistakes in Go (2021)](https://deepsource.io/blog/common-mistakes-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lxe4yd/a_short_list_of_patterns_that_beginners_miss/))
 - [How I build web frontends in Go (2021)](https://philippta.github.io/web-frontends-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lzymk9/how_i_build_web_frontends_in_go/))
+- [Goroutines Are Not Significantly Lighter Than Threads (2021)](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html) ([Lobsters](https://lobste.rs/s/wxdvlr/goroutines_are_not_significantly))

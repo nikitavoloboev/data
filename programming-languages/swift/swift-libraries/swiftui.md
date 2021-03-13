@@ -130,3 +130,4 @@
 - [SwiftUI Hooks](https://github.com/ra1028/SwiftUI-Hooks) - SwiftUI implementation of React Hooks. Enhances reusability of stateful logic and gives state and lifecycle to function view.
 - [Building the Clubhouse app in SwiftUI (2021)](https://www.youtube.com/watch?v=zbS_raINcs4&feature=youtu.be)
 - [App-wise state in SwiftUI (2021)](https://www.fivestars.blog/swiftui/app-state.html)
+- [Mastering SwiftUI previews (2021)](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/)
