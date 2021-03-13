@@ -152,3 +152,4 @@
 - [Naughty Dog at SIGGRAPH 2020](https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020)
 - [Notes on two Jonathan Blow's lectures on game design](https://dbohdan.com/wiki/jonathan-blow)
 - [I Tried Making a 3D RPG Game in JavaScript (2020)](https://www.youtube.com/watch?v=SBfZAVzbhCg)
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/) ([Tweet](https://twitter.com/ZPostFacto/status/1370032915329949707))

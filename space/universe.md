@@ -34,3 +34,4 @@
 - [Universes Might Bubble Up and Collide (2021)](https://nautil.us/blog/how-universes-might-bubble-up-and-collide)
 - [What is the Cosmic Microwave Background Radiation? (2021)](https://www.youtube.com/watch?v=P_deJsiCNSk)
 - [Logarithmic Maps of the Universe (2005)](https://www.astro.princeton.edu/universe/) ([HN](https://news.ycombinator.com/item?id=26245502))
+- [What Is the Geometry of the Universe? (2020)](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
