@@ -7,6 +7,7 @@
 ## Notes
 
 - [I’ll spend 3 hours reading Amazon reviews before purchasing a $10 item but spend 0 hours doing due diligence before purchasing $10k worth of stock.](https://twitter.com/RampCapitalLLC/status/1369291155142217736)
+- [On your first day rebase the entire repo to a single commit with a message “legacy code”.](https://twitter.com/QuinnyPig/status/1370824822264008709)
 
 ## Links
 
@@ -70,3 +71,4 @@
 - [Ask HN: Anyone know any funny programming jokes? (2021)](https://news.ycombinator.com/item?id=25850739)
 - [Cat Daddy Issues](https://twitter.com/_Glintofsilver/status/1366204627922923521)
 - [Every single park hang in San Francisco (2021)](https://twitter.com/yayalexisgay/status/1369346460911734784)
+- [O RLY Books](https://twitter.com/zenorocha/status/1370794052497465345)
