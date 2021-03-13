@@ -50,3 +50,4 @@
 - [ArchDaily](https://www.archdaily.com/) - Broadcasting Architecture Worldwide.
 - [Jason Statham’s Malibu Beach House Embodies His Connection to Nature](https://www.architecturaldigest.com/story/jason-statham-malibu-house) ([Tweet](https://twitter.com/chexee/status/1366407294829748226))
 - [Architectural Digest](https://www.architecturaldigest.com/) - Featuring the work of top architects and designers.
+- [Valletta, Malta Urbanism](https://twitter.com/SCP_Hughes/status/1370413685798277134)

@@ -164,3 +164,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [xbbg](https://github.com/alpha-xone/xbbg) - Intuitive Bloomberg data API. ([Docs](https://xbbg.readthedocs.io/en/latest/))
 - [Backtesting.py](https://github.com/kernc/backtesting.py) - Backtest trading strategies with Python.
 - [pysystemtrade](https://github.com/robcarver17/pysystemtrade) - Systematic Trading in Python.
+- [Jack Clark - Grateful for Everything, Entitled to Nothing (2021)](https://podcasts.google.com/feed/aHR0cHM6Ly9pbnZlc3RsaWtldGhlYmVzdC5saWJzeW4uY29tL3Jzcw/episode/OWI4MmViNGEtZTQ0NS00NmY3LWJlZWQtZTBkODk4OTNhZmYw?ep=14)

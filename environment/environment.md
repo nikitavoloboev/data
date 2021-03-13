@@ -97,3 +97,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Will technology save us from climate change? (2021)](https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/) ([HN](https://news.ycombinator.com/item?id=26262667))
 - [Google 2020 environmental report](https://blog.google/outreach-initiatives/sustainability/2020-environmental-report/)
 - [In the Atlantic Ocean, Subtle Shifts Hint at Dramatic Dangers (2021)](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html)
+- [Google for Startups Accelerator: Climate Change Accelerators](https://developers.google.com/community/accelerators/climate)
