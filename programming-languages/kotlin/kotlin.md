@@ -25,3 +25,4 @@
 - [Compose browser demos](https://github.com/ShikaSD/compose-browser-demo)
 - [Jetpack Compose Demo Web Demos](https://github.com/JetBrains/compose-for-web-demos)
 - [The Kotlin Foundation](https://kotlinlang.org/docs/kotlin-foundation.html) ([HN](https://news.ycombinator.com/item?id=26124054))
+- [Atomic Kotlin Book (2020)](https://leanpub.com/AtomicKotlin)
