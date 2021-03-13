@@ -19,4 +19,4 @@
 - [L4: Domain Specific Languages for Computational Law](https://github.com/smucclaw/dsl)
 - [Legalese](https://legalese.com/) - Software is eating law. ([GitHub](https://github.com/legalese))
 - [GPT-3, Esq? Evaluating AI Legal Summaries](http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf) ([HN](https://news.ycombinator.com/item?id=26183114))
-- [Templating for Lawyers (2021)](https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html)
+- [Templating for Lawyers (2021)](https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html) ([HN](https://news.ycombinator.com/item?id=26448618))

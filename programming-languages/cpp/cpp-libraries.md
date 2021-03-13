@@ -185,6 +185,7 @@
 - [polylabel](https://github.com/mapbox/polylabel) - Fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++).
 - [GBDT](https://github.com/yarny/gbdt) - High performance and full featured C++ implementation of Jerome H. Friedman's Gradient Boosting Decision Trees Algorithm and its modern offsprings.
 - [DSPatch](https://github.com/cross-platform/dspatch) - Refreshingly Simple C++ Dataflow Framework.
+- [libcuckoo](https://github.com/efficient/libcuckoo) - High-performance, concurrent hash table.
 
 ## Links
 

@@ -71,6 +71,7 @@
 - [Fluxus](http://www.pawfal.org/fluxus/) - 3D game engine for live-coding worlds into existence. ([HN](https://news.ycombinator.com/item?id=26130341))
 - [Keikan](https://github.com/slightknack/keikan) - Multithreaded photorealistic rendering engine that supports path-tracing, ray-marching, Photo Based Rendering (through a principled implementation), and more.
 - [Oak](https://github.com/oakmound/oak) - Pure Go game engine.
+- [Forgotten Server](https://github.com/otland/forgottenserver) - Free and open-source MMORPG server emulator written in C++.
 
 ## Physics engines
 
