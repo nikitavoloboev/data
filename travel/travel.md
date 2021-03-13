@@ -54,3 +54,4 @@
 - [Reddit Solo Travel Wiki](https://www.reddit.com/r/solotravel/wiki/index)
 - [GeoGuessr](https://www.geoguessr.com/) - Geography game which takes you on a journey around the world and challenges your ability to recognize your surroundings.
 - [Ask HN: Those who quit their jobs to travel the world, how did it go? (2021)](https://news.ycombinator.com/item?id=26407560)
+- [Where is everyone going to travel to when the world opens up again? (2021)](https://www.reddit.com/r/solotravel/comments/m4cpmg/where_is_everyone_going_to_travel_to_when_the/)

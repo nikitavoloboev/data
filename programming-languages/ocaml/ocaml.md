@@ -74,3 +74,4 @@
 - [Solving the Jane Street puzzle of Dec 2020 - Backtracking with OCaml (2021)](https://willemhoek.com/b/howto-solve-jane-street-puzzle-dec-2020-backtracking-with-ocaml)
 - [Retrofitting Effect Handlers onto OCaml (2020)](https://kcsrk.info/papers/drafts/retro-concurrency.pdf)
 - [OCaml JIT compiler](https://github.com/NathanReb/ocaml-jit) - Just In Time compiler for OCaml native toplevel.
+- [On OCaml and the JS platform (2021)](https://anmonteiro.com/2021/03/on-ocaml-and-the-js-platform/)
