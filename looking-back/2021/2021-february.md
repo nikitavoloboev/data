@@ -2,7 +2,7 @@
 
 Reading [Fabien's look back on 2020](https://capnfabs.net/posts/2020-its-over/) and just wow. My journal here is just not as good. Let's try change it. And give more variety to my life.
 
-The one month with Dendron I had did not go as well as I hoped in that it turns out I won't be working full time on it at least for now. Maybe I can work on it in short term capacity, it's up to Kevin to decide. I think Dendron is an amazing tool with great potential.
+The one month with Dendron I had did not go as planned and I won't be working full time on it at least for now. I think Dendron is an amazing tool with great potential.
 
 Until then I will be trying to get LA up to speed. I also applied to [EF](https://www.joinef.com/) as a friend of mine, I worked at Gyana with, will be going through the program very soon. I might get into the same batch with him.
 
