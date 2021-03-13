@@ -163,7 +163,7 @@
 - [What do you use to handle state with React? (2020)](https://twitter.com/rachelnabors/status/1306563902436716545)
 - [New JSX Transform (2020)](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) ([HN](https://news.ycombinator.com/item?id=24555415))
 - [My State Management Mistake (2020)](https://epicreact.dev/my-state-management-mistake/)
-- [Epic React course](https://epicreact.dev/) ([Code](https://github.com/topics/epicreact-dev)) ([Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns)) ([React Performance](https://github.com/kentcdodds/react-performance)) ([Notes](https://github.com/AndreaBarghigiani/EpicReactNotes))
+- [Epic React course](https://epicreact.dev/) ([Code](https://github.com/topics/epicreact-dev)) ([Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns)) ([React Performance](https://github.com/kentcdodds/react-performance)) ([Notes](https://github.com/AndreaBarghigiani/EpicReactNotes)) ([Things learned](https://twitter.com/ivanortegaalba/status/1370672717045858305))
 - [react-performance-testing](https://github.com/keiya01/react-performance-testing) - Library to test runtime performance in React.
 - [Developing React Global State Library With Atom Abstraction (2020)](https://blog.axlight.com/posts/developing-react-global-state-library-with-atom-abstraction/)
 - [How to Measure Performance in JavaScript Applications (2020)](https://blog.asayer.io/how-to-measure-performance-in-javascript-applications)
@@ -206,3 +206,4 @@
 - [Interactive React](https://interactive-react.com/) - Course about making React applications interactive. ([Tweet](https://twitter.com/siddharthkp/status/1367485346049572877))
 - [Fundamentals of SSR in React (2021)](https://emergent.systems/posts/ssr-in-react/)
 - [React State: A simple and easy to follow breakdown (2021)](https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown)
+- [preact/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler.

@@ -92,3 +92,4 @@
 - [paradoc](https://github.com/jordwalke/paradoc) - One Click Docs.
 - [Ask HN: How to write documentation for a medium size engineering org? (2021)](https://news.ycombinator.com/item?id=26334164)
 - [Dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX. ([Web](https://dokz.site/))
+- [Ask HN: How Do You Write Documentation (2021)](https://news.ycombinator.com/item?id=26446692)

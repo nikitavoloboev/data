@@ -3,6 +3,7 @@
 ## Notes
 
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.
+- [`<form method=post>` is good to communicate a mutation.](https://twitter.com/ryanflorence/status/1370403183822921731)
 
 ## Links
 
