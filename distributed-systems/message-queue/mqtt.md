@@ -11,3 +11,4 @@
 - [deskmate](https://github.com/rbaron/deskmate) - Hackable & portable MQTT-powered mini dashboard and control center.
 - [A quick introduction to MQTT for IOT (2021)](https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/)
 - [Secure your MQTT server with authentication and encryption (2021)](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/) ([HN](https://news.ycombinator.com/item?id=25988196))
+- [Make your intercom smarter with an MQTT backpack (2021)](https://michael.stapelberg.ch/posts/2021-03-13-smart-intercom-backpack/)

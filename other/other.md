@@ -456,3 +456,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [ImportYeti](https://www.importyeti.com/) - Find Quality Suppliers.
 - [Sacra](https://sacra.com/) - Your backchannel to the secondary markets.
 - [Easiest way to make $9,000 every month (2021)](https://twitter.com/ImSamThompson/status/1367557220469211144)
+- [Ask HN: Where does one search development advice these days? (2021)](https://news.ycombinator.com/item?id=25485171)
