@@ -81,3 +81,5 @@
 - [Fae](https://github.com/Jozty/Fae) - Functional module for Deno inspired from Ramda.
 - [Deno X ranking](https://yoshixmk.github.io/deno-x-ranking/) - Deno Third Party Modules Ranking. ([Code](https://github.com/yoshixmk/deno-x-ranking))
 - [pressf](https://github.com/littledivy/pressf) - Tiny and fast router framework built on top of std/http.
+- [deno_drop](https://github.com/littledivy/drop) - `drop` unwanted Deno resources out of memory.
+- [egoist/router](https://github.com/egoist/router) - Router that works in Node.js, browser and Deno.

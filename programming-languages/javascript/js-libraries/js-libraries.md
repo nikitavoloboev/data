@@ -485,6 +485,7 @@
 - [VivaGraph](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 - [Crochet](https://github.com/qteatime/crochet) - Small engine for story-driven games.
 - [diary](https://github.com/maraisr/diary) - Zero-dependency, fast logging library for both Node and Browser.
+- [tinydate](https://github.com/lukeed/tinydate) - Tiny reusable date formatter.
 
 ## Links
 
