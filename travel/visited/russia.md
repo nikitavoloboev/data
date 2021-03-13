@@ -4,7 +4,7 @@ The number of crimes against humanity committed by [China, Russia, Turkey, Belar
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
-As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed that they are ok with being abused](https://twitter.com/CurrentTimeTv/status/1366436879550328839). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
+As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed](https://twitter.com/Krychek5/status/1370767723446292491) that they are [ok with being abused](https://twitter.com/CurrentTimeTv/status/1366436879550328839). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
 
 My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
 

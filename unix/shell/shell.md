@@ -117,3 +117,4 @@ All active variables can be seen by running `env`.
 - [murex](https://github.com/lmorg/murex) - Alternative shell with native support for JSON, YAML, TOML, CSV, etc. ([Web](https://murex.rocks/)) ([HN](https://news.ycombinator.com/item?id=26284294))
 - [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history.
 - [pimp](https://github.com/aymericbeaumet/pimp) - Give your shell commands superpowers.
+- [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://withfig.com/))

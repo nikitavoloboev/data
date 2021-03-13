@@ -44,3 +44,4 @@
 - [HSLuv](https://www.figma.com/community/plugin/811341846366740536/HSLuve) - Human-friendly alternative to HSL.
 - [Batch Styler](https://github.com/six7/figma-batch-styler) - Figma plugin to batch edit text styles.
 - [Figma Assets Generator](https://github.com/six7/figma-assets-generator) - Creates assets (SVG, JPG, PNG) from a Figma document (e.g. a "Icons" page in one of your files) and places them locally in a folder.
+- [Perfect Freehand Figma Plugin](https://github.com/steveruizok/figma-plugin-perfect-freehand) - Figma plugin for drawing perfect freehand strokes.

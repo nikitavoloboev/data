@@ -31,6 +31,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Surfing cat](https://twitter.com/dodo/status/1329908125655134208)
 - [Leaf sheep](https://twitter.com/stephsmithio/status/1327356193581395969)
 - [Lil floof jumping](https://twitter.com/jonjones/status/1214324526928089088)
+- [Gentle Bees](https://twitter.com/texasbeeworks/status/1370395889718681605)
 
 ## Links
 
