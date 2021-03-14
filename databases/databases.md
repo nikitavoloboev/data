@@ -133,6 +133,7 @@
 - [PouchDB](https://pouchdb.com/) - JavaScript Database that Syncs. ([Code](https://github.com/pouchdb/pouchdb))
 - [CryptDB](https://css.csail.mit.edu/cryptdb/) - Database system that can process SQL queries over encrypted data. ([Code](https://github.com/CryptDB/cryptdb))
 - [LBADD](https://github.com/tomarrell/lbadd) - Experimental distributed SQL database, written in Go.
+- [Baserow](https://baserow.io/) - Self-hosted Airtable alternative. ([HN](https://news.ycombinator.com/item?id=26448985)) ([Code](https://github.com/bram2w/baserow))
 
 ## Tools
 

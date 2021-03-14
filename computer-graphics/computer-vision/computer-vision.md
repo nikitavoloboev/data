@@ -247,3 +247,4 @@
 - [SEER: The start of a more powerful, flexible, and accessible era for computer vision (2021)](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 - [NerFACE: Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction (2021)](https://gafniguy.github.io/4D-Facial-Avatars/)
 - [Neural 3D Video Synthesis](https://neural-3d-video.github.io/)
+- [Involution: Inverting the Inherence of Convolution for Visual Recognition (2021)](https://arxiv.org/abs/2103.06255) ([Code](https://github.com/d-li14/involution))
