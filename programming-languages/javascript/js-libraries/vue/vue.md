@@ -51,3 +51,4 @@
 - [Nuxt Build Optimizations](https://github.com/loonpwn/nuxt-build-optimisations) - Nuxt.js module to automatically make your builds faster.
 - [Vite Experience with Nuxt 2](https://github.com/nuxt/vite)
 - [The Ultimate Nuxt API Setup (2020)](https://hire.jonasgalvez.com.br/2020/feb/22/the-ultimate-nuxt-api-setup/)
+- [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)

@@ -164,3 +164,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Stakes.social](https://stakes.social/incubator) - Dev Protocol’s user facing application where OSS projects and patrons connect. ([Launch Article](https://medium.com/devprtcl/dev-protocol-incubator-launches-ef4f35940095))
 - [A Day in the Life of an Open Source Developer (2021)](https://www.youtube.com/watch?v=Fc9pWYP1f6o)
 - [Clone Wars](https://gourav.io/clone-wars) - Open source clones of popular sites. ([Code](https://github.com/GorvGoyl/Clone-Wars))
+- [Opensource.builders](https://opensource.builders/) - Find open-source alternatives. ([Code](https://github.com/junaid33/opensource.builders))
