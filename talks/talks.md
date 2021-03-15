@@ -61,3 +61,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Ask HN: Best Talks of 2020?](https://news.ycombinator.com/item?id=25537230)
 - [Tech Talk Tips](https://github.com/deniseyu/tech-talking)
 - [Notes on Speaking at EnthusiastiCon 2020](https://capnfabs.net/posts/remote-conference-talk-notes/)
+- [Learn Improv](https://www.learnimprov.com/) - Improvisational comedy structures. ([HN](https://news.ycombinator.com/item?id=26466711))

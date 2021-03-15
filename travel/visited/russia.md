@@ -85,3 +85,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [ДОК Алексашенко, 14 марта 2021 г.](https://www.youtube.com/watch?v=sfo2UGFF8vU)
 - [Где Навальный? Беседа с оппозиционным активистом Константином Котовым (2021)](https://www.youtube.com/watch?v=yyu4zg1Y-Cs)
 - [Журнал Холод](https://holod.media/)
+- [Генералы у власти – горе для страны (2021)](https://www.youtube.com/watch?v=1BqvNLTtLxc)
+- [Лубянская Федерация - ФСБ](https://fsb.dossier.center/) - Как ФСБ определяет политику и экономику России.
