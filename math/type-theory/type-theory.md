@@ -123,3 +123,5 @@
 - [Grothendieck's EGA English Translation](https://ega.fppf.site/) ([Code](https://github.com/ryankeleti/ega))
 - [Untyped Types (2021)](https://www.gingerbill.org/article/2021/03/07/untyped-types/)
 - [Algebra and Data Types (2021)](https://justinpombrio.net/2021/03/11/algebra-and-data-types.html) ([Lobsters](https://lobste.rs/s/aul5kz/algebra_data_types))
+- [What part of Hindley-Milner do you not understand?](https://stackoverflow.com/questions/12532552/what-part-of-hindley-milner-do-you-not-understand)
+- [The Hindley-Milner Type System (2021)](https://www.youtube.com/watch?v=OyrByPkiX7s)

@@ -54,3 +54,4 @@
 - [Persistent Storage and Fast Remote Builds (2021)](https://fly.io/blog/persistent-storage-and-fast-remote-builds/)
 - [Robo](https://github.com/tj/robo) - Simple YAML-based task runner written in Go.
 - [Buck](https://github.com/facebook/buck) - Fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. ([Web](https://buck.build/))
+- [Mage is My Favorite Make (2021)](https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/) ([Lobsters](https://lobste.rs/s/zry6q1/mage_is_my_favorite_make))

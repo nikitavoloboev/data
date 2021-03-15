@@ -273,3 +273,4 @@
 - [The Importance of Learning CSS (2021)](https://www.joshwcomeau.com/css/the-importance-of-learning-css/) ([HN](https://news.ycombinator.com/item?id=26346141))
 - [CSS Auditing Tools (2021)](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
 - [Exploring @property and its Animating Powers (2021)](https://css-tricks.com/exploring-property-and-its-animating-powers/)
+- [Digging Into CSS Logical Properties (2021)](https://ishadeed.com/article/css-logical-properties/)

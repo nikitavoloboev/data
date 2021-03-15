@@ -75,3 +75,4 @@
 - [SonoBus](https://sonobus.net/) - Easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network. ([Code](https://github.com/essej/sonobus))
 - [Bittensor](https://github.com/opentensor/bittensor) - p2p-market which rewards the production of machine intelligence with a digital token called Tao.
 - [Introduction to libp2p](https://proto.school/introduction-to-libp2p)
+- [libp2p tutorial: Build a peer-to-peer app in Rust (2020)](https://blog.logrocket.com/libp2p-tutorial-build-a-peer-to-peer-app-in-rust/)
