@@ -112,3 +112,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Graph Node](https://github.com/graphprotocol/graph-node) - Protocol for building decentralized applications (dApps) quickly on Ethereum and IPFS using GraphQL.
 - [Cosmos SDK vs Substrate (2021)](https://gregdhill.xyz/posts/cosmos-sdk-vs-substrate/)
 - [Data Availability & Scaling Blockchains (2021)](https://medium.com/zeroknowledge/data-availability-scaling-blockchains-852f9a54fe54)
+- [BlockCypher](https://live.blockcypher.com/) - Block Explorer for Bitcoin, Ethereum, Litecoin and More. ([Code](https://github.com/blockcypher/explorer))
