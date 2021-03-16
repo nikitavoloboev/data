@@ -189,3 +189,4 @@
 - [Awesome Swift Function Builders](https://github.com/carson-katri/awesome-function-builders)
 - [How and when to use Lazy Collections in Swift (2021)](https://www.avanderlee.com/swift/lazy-collections-arrays/)
 - [Workspace](https://github.com/SDGGiesbrecht/Workspace) - Automated Management of Swift Projects.
+- [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md) ([HN](https://news.ycombinator.com/item?id=26480922))

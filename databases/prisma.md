@@ -41,3 +41,4 @@
 - [NextJS with Prisma](https://github.com/chenkie/next-prisma) - Sample project shows how to use NextJS with Prisma.
 - [prisma-relay-cursor-connection](https://github.com/devoxa/prisma-relay-cursor-connection) - Extend Prisma's findMany method to support Relay Cursor Connections.
 - [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema.
+- [Hassle-Free Database Migrations with Prisma Migrate (2021)](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b) ([HN](https://news.ycombinator.com/item?id=26480466))
