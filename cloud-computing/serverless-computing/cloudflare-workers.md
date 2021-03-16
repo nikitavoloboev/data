@@ -43,3 +43,4 @@
 - [workers.sh](https://workers.sh/) - Featureful dashboard for managing Cloudflare Workers. ([Code](https://github.com/GregBrimble/workers.sh))
 - [Cloudflare Workers Router](https://github.com/tsndr/cloudflare-worker-router) - Super lightweight router with middleware support and zero dependencies for CloudFlare Workers.
 - [Vitessedge](https://github.com/frandiox/vitessedge-template) - Opinionated Vite Starter Template with SSR in Cloudflare Workers.
+- [Worktop](https://github.com/lukeed/worktop) - Next generation web framework for Cloudflare Workers.
