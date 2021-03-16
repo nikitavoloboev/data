@@ -138,3 +138,4 @@
 - [Michael Perry on Immutable Architecture (2021)](https://www.se-radio.net/2021/02/episode-447-michael-perry-on-immutable-architecture/)
 - [In Search for a Perfect Access Control System (2021)](https://goteleport.com/blog/access-controls/)
 - [Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization/)
+- [Patterns in application-layer protocol design](https://www.devever.net/~hl/applayer)
