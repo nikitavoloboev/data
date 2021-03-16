@@ -17,6 +17,7 @@ Success comes from not giving up and doing what you love.
 - [Success is when reality catches up to your imagination.](https://twitter.com/katgleason/status/1353843174398156801)
 - [Do lots of experiments. Fail fast. Learn from them. Move on.](https://twitter.com/vijaypande/status/1366566096476676096)
 - Create an environment that tolerates and encourages failure.
+- [What we find enjoyable at a certain intensity, duration, and frequency, we can totally hate at a different intensity, duration, and frequency. And vice versa.](https://twitter.com/dvassallo/status/1371714990642581510)
 
 ## Links
 
