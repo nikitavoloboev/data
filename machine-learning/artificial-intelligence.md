@@ -61,3 +61,4 @@
 - [Facebook AI Performance Evaluation Platform](https://github.com/facebook/FAI-PEP)
 - [Google Research: Looking Back at 2020, and Forward to 2021](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html)
 - [Chatting with Google’s DeepMind about the future of AI (2021)](https://stackoverflow.blog/2021/03/02/podcast-317-deepmind-google-ai-deep-learning-muzero/)
+- [Moore's Law for Everything (2021)](https://moores.samaltman.com/) ([HN](https://news.ycombinator.com/item?id=26480981))

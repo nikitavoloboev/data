@@ -84,3 +84,4 @@
 - [Harry Potter Dataset](https://medium.com/google-developer-experts/a-riddikulus-dataset-fb68f9044e33)
 - [DocRED: A Large-Scale Document-Level Relation Extraction Dataset (2019)](https://arxiv.org/abs/1906.06127v3) ([Code](https://github.com/thunlp/DocRED))
 - [Synthetic Data: Even Better than the Real Thing? (2021)](https://cacm.acm.org/news/251046-synthetic-data-even-better-than-the-real-thing/fulltext)
+- [Google C4 dataset](https://github.com/allenai/allennlp/discussions/5056) - Colossal, cleaned version of Common Crawl's web crawl corpus.
