@@ -110,6 +110,7 @@
 - [How Loom built a successful referral program for their SaaS product (2021)](https://twitter.com/_shahedk/status/1367532457075957761)
 - [Zero to Marketing](https://zerotomarketing.com/) - Learn marketing from case studies.
 - [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds.
+- [Framework for prioritizing marketing strategy (2021)](https://twitter.com/theandreboso/status/1370101537893146627)
 
 ## Images
 

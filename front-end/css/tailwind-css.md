@@ -72,3 +72,4 @@
 - [Tailwindize](https://quoorex.com/tailwindize/) - Convert any color into a Tailwind one.
 - [Nightwind](https://github.com/jjranalli/nightwind) - Automatic, customizable, overridable Tailwind dark mode plugin. ([Web](https://nightwindcss.com/))
 - [Why I Don't Like Tailwind CSS (2021)](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/) ([Lobsters](https://lobste.rs/s/15ti7c/why_i_don_t_like_tailwind_css))
+- [Tailwind CSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.

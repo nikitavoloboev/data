@@ -17,3 +17,4 @@
 - [Flatbuffers in Unity - a 40x gain (2020)](https://blog.extrawurst.org/gamedev/unity/programming/rust/2020/12/26/unity-flatbuffers.html) ([Lobsters](https://lobste.rs/s/vvu3kl/flatbuffers_unity_40x_gain))
 - [MeshSync](https://github.com/unity3d-jp/MeshSync) - Package for synchronizing meshes/models editing in DCC tools into Unity in real time.
 - [Unity Editor Toolbox](https://github.com/arimger/Unity-Editor-Toolbox) - Tools, custom attributes, drawers, hierarchy overlay, and other extensions for the Unity Editor.
+- [What 2 years of Unity Indie Game Development looks like... (2021)](https://www.youtube.com/watch?v=zW8uvrxfw_A)

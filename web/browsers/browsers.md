@@ -109,3 +109,4 @@
 - [Serverless browser automation with AWS Lambda and Puppeteer (2021)](https://acloudguru.com/blog/engineering/serverless-browser-automation-with-aws-lambda-and-puppeteer)
 - [ExtensionPay](https://extensionpay.com/) - Payments in browser extensions, no server needed.
 - [React Web Extension Boilerplate](https://github.com/ElForastero/react-browser-extension-boilerplate) - React / Preact X browser extension boilerplate for the most popular browsers.
+- [FingerprintJS](https://fingerprintjs.com/) - Browser fingerprinting and fraud detection API.
