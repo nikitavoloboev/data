@@ -51,3 +51,4 @@
 - [Source of a lot of bad product decisions](https://twitter.com/danhockenmaier/status/1363203012815020032)
 - [Product Manager's Guide](https://gumroad.com/l/WGHXJ/sp33u1d)
 - [The Tools Don't Matter (2021)](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - Why are product managers so obsessed with tools? ([Tweet](https://twitter.com/jasoncwarner/status/1366431102408122369))
+- [Product Lessons](https://www.productlessons.xyz/) - Actionable lessons to accelerate your career.

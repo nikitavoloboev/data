@@ -14,6 +14,7 @@
 - [Most people do not listen with the intent to understand, they listen with the intent to reply.](https://twitter.com/awilkinson/status/1353760808191180801)
 - [My love language is direct feedback and clear next steps.](https://twitter.com/NatashaVianna/status/1367159598390550528)
 - [If you see something you love online, maybe consider emailing the person and letting them know! Worst case, they’ll ignore it, best case, you’ll forget about it and then be pleasantly surprised when they answer](https://capnfabs.net/posts/2020-its-over/)
+- [Never expect or require someone to get back to you immediately unless it’s a true emergency. The expectation of immediate response is toxic.](https://twitter.com/jasonfried/status/1371587706782851072)
 
 ## Links
 

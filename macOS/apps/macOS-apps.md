@@ -93,6 +93,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically switch your Mac between light and dark modes based on the ambient light sensor.
 - [Nuage](https://github.com/lbrndnr/nuage-macos) - Native SoundCloud app for macOS, written in SwiftUI.
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - App for tracking personal Bluetooth devices via Apple's massive Find My network.
+- [Script Kit](https://scriptkit.app/) - Automate Anything. ([Code](https://github.com/johnlindquist/kit))
 
 ## Other interesting apps
 

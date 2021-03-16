@@ -424,3 +424,4 @@
 - [Awesome Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust)
 - [RustViz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing.
 - [How to speed up rustdoc in 2021](https://txti.es/fckc0)
+- [Getting started with ... Rust (2021)](https://stackoverflow.blog/2021/03/15/getting-started-with-rust/)
