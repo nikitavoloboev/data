@@ -15,3 +15,4 @@
 - [Ansible: Up and Running book](http://www.ansiblebook.com/) ([Code](https://github.com/ansiblebook/ansiblebook))
 - [Getting started with Ansible (2020)](https://steampunk.si/blog/getting-started-with-ansible/) ([HN](https://news.ycombinator.com/item?id=25122103))
 - [Exploring Ansible via Setting Up a WireGuard VPN (2021)](https://www.tangramvision.com/blog/exploring-ansible-via-setting-up-a-wireguard-vpn)
+- [Alter Ansible's output on debugging (2021)](https://jpmens.net/2021/03/12/alter-ansible-s-output-on-debugging/)

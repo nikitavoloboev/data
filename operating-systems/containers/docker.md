@@ -105,3 +105,4 @@
 - [Dazzle](https://github.com/gitpod-io/dazzle) - Experimental Docker image builder which builds independent layers.
 - [Cleanup Docker (2021)](https://hanami.run/blog/posts/cleanup-docker/)
 - [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) ([HN](https://news.ycombinator.com/item?id=26446337))
+- [Why We Don’t Use Docker (2021)](https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html) ([Lobsters](https://lobste.rs/s/dsk7m1/why_we_don_t_use_docker_we_don_t_need_it)) ([HN](https://news.ycombinator.com/item?id=26472452))

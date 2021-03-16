@@ -11,3 +11,4 @@
 - [esjest-transform](https://github.com/threepointone/esjest-transform) - Fast jest transform.
 - [esbuild-jest](https://github.com/aelbore/esbuild-jest) - Jest transformer using esbuild.
 - [Using Jest with native ESModules](https://github.com/kentcdodds/jest-esmodules/)
+- [7 Ways to Debug Jest Tests in Terminal (2021)](https://pragmaticpineapple.com/7-ways-to-debug-jest-tests-in-terminal/)
