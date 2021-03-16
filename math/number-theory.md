@@ -23,3 +23,4 @@
 - [The Riemann zeta function and the prime number theorem (2021)](https://terrytao.wordpress.com/2021/02/12/246b-notes-4-the-riemann-zeta-function-and-the-prime-number-theorem/)
 - [Introduction to Analytic Number Theory Book Club](https://spxy.github.io/bc/) ([HN](https://news.ycombinator.com/item?id=26366464))
 - [Do Complex Numbers Exist? (2021)](https://www.youtube.com/watch?v=ALc8CBYOfkw)
+- [The Mysterious Math of Perfect Numbers (2021)](https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/)

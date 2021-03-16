@@ -4,6 +4,7 @@
 
 - [My advice is never to start with unit tests. Start with integration tests and work your way backwards until it stops being worth your time.](https://twitter.com/buildsghost/status/1274240189485862912)
 - [I use TDD when the problem and desired API are both clearly defined. A lot of front-end work is more exploratory in nature, which can make writing tests up front quite challenging. Often (and perhaps even ideally), the desired UI and interactions aren't really set in stone.](https://twitter.com/andrewingram/status/1295335435900727297)
+- [Unit tests are a waste of time when building a product. The only thing that matters is that the product works for your users. The best way to verify that is with e2e tests.](https://twitter.com/mxstbr/status/1371828851811172359)
 
 ## Links
 

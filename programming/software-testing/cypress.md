@@ -27,3 +27,4 @@
 - [cypress-react-selector](https://github.com/abhinaba-ghosh/cypress-react-selector) - Cypress plugin to locate react elements by component, props and state.
 - [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison (2021)](https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/)
 - [cypress-websocket-testing](https://github.com/lensesio/cypress-websocket-testing) - Test your WebSocket endpoints using Cypress.
+- [Improve your custom command logs in Cypress (2021)](https://filiphric.com/improve-your-custom-command-logs-in-cypress)
