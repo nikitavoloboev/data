@@ -26,3 +26,4 @@
 - [Jetpack Compose Demo Web Demos](https://github.com/JetBrains/compose-for-web-demos)
 - [The Kotlin Foundation](https://kotlinlang.org/docs/kotlin-foundation.html) ([HN](https://news.ycombinator.com/item?id=26124054))
 - [Atomic Kotlin Book (2020)](https://leanpub.com/AtomicKotlin)
+- [Kotlin Compiler Crash Course](https://github.com/ahinchman1/Kotlin-Compiler-Crash-Course) ([HN](https://news.ycombinator.com/item?id=26454040))

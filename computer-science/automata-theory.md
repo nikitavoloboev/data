@@ -44,3 +44,4 @@
 - [List of amazing cellular automata projects (2021)](https://twitter.com/GalaxyKate/status/1361354915742892039)
 - [Minkovski Cellular Automata Simulator](https://dmishin.github.io/minkovski-ca/) ([Code](https://github.com/dmishin/minkovski-ca))
 - [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
+- [Create your own cellular automata](http://aperocky.com/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=26466275))

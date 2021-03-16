@@ -19,3 +19,4 @@ Some interesting words I like:
 - [Historical Thesaurus of English](https://ht.ac.uk/) ([HN](https://news.ycombinator.com/item?id=24867054))
 - [Tense Present (2001)](https://harpers.org/wp-content/uploads/HarpersMagazine-2001-04-0070913.pdf) - Beautiful exploration of language and dialect.
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
+- [European Commission English Style Guide](https://ec.europa.eu/info/sites/info/files/styleguide_english_dgt_en.pdf) ([HN](https://news.ycombinator.com/item?id=26465586))

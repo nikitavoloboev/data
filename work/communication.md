@@ -87,3 +87,4 @@
 - [Products vs Protocols: What Signal got right (2021)](https://snikket.org/blog/products-vs-protocols/) ([Lobsters](https://lobste.rs/s/4w5oke/products_vs_protocols_what_signal_got))
 - [How to have better arguments online (2021)](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict) ([HN](https://news.ycombinator.com/item?id=26202991))
 - [Chatting with Glue](https://a9.io/glue-comic/) - Cognitive Tools for Augmented Conversation.
+- [When Should I Interrupt Someone? (2021)](https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/) ([HN](https://news.ycombinator.com/item?id=26463910))
