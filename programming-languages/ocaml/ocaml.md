@@ -75,3 +75,4 @@
 - [Retrofitting Effect Handlers onto OCaml (2020)](https://kcsrk.info/papers/drafts/retro-concurrency.pdf)
 - [OCaml JIT compiler](https://github.com/NathanReb/ocaml-jit) - Just In Time compiler for OCaml native toplevel.
 - [On OCaml and the JS platform (2021)](https://anmonteiro.com/2021/03/on-ocaml-and-the-js-platform/)
+- [Generalised signatures (2021)](https://www.craigfe.io/posts/generalised-signatures) - Technique for defining more reusable OCaml signatures.
