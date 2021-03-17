@@ -113,3 +113,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cosmos SDK vs Substrate (2021)](https://gregdhill.xyz/posts/cosmos-sdk-vs-substrate/)
 - [Data Availability & Scaling Blockchains (2021)](https://medium.com/zeroknowledge/data-availability-scaling-blockchains-852f9a54fe54)
 - [BlockCypher](https://live.blockcypher.com/) - Block Explorer for Bitcoin, Ethereum, Litecoin and More. ([Code](https://github.com/blockcypher/explorer))
+- [Illegal content and the blockchain (2021)](https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html) ([Lobsters](https://lobste.rs/s/yl20qv/illegal_content_blockchain))
