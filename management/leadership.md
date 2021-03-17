@@ -3,6 +3,7 @@
 ## Notes
 
 - [If you are in a leadership position, part of your job is to say "no" on behalf of others who don't have the security to do so.](https://twitter.com/rakyll/status/1369502879023726596)
+- [Leadership is not about being in charge. Leadership is about taking care of those in your charge.](https://twitter.com/simonsinek/status/1372249895894183942)
 
 ## Links
 

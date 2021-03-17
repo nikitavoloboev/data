@@ -18,6 +18,7 @@ Success comes from not giving up and doing what you love.
 - [Do lots of experiments. Fail fast. Learn from them. Move on.](https://twitter.com/vijaypande/status/1366566096476676096)
 - Create an environment that tolerates and encourages failure.
 - [What we find enjoyable at a certain intensity, duration, and frequency, we can totally hate at a different intensity, duration, and frequency. And vice versa.](https://twitter.com/dvassallo/status/1371714990642581510)
+- [Talk to your customers and keep building stuff! The simplest way to figure out what to build is just to ask people what would help them.](https://twitter.com/stephzhan/status/1372251683879751683)
 
 ## Links
 

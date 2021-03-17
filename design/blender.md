@@ -38,3 +38,4 @@
 - [Blender 2.92 (2021)](https://www.blender.org/download/releases/2-92/) ([HN](https://news.ycombinator.com/item?id=26274618))
 - [zpy](https://github.com/ZumoLabs/zpy) - Synthetic data in Blender. ([Reddit](https://www.reddit.com/r/GraphicsProgramming/comments/lxn8nx/using_blender_for_computer_vision/)) ([Reddit 2](https://www.reddit.com/r/MachineLearning/comments/lxn6cm/p_synthetic_data_for_cv_with_python_and_blender/))
 - [Blender Everyday - YouTube](https://www.youtube.com/playlist?list=PLa1F2ddGya_88c6AM7RSLk06c-_rkdUr-)
+- [Stunning Photoreal Renders in Blender by Blitter](https://80.lv/articles/stunning-photoreal-renders-in-blender-by-blitter/)

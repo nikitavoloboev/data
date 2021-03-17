@@ -207,3 +207,4 @@
 - [Fundamentals of SSR in React (2021)](https://emergent.systems/posts/ssr-in-react/)
 - [React State: A simple and easy to follow breakdown (2021)](https://kieranroberts.hashnode.dev/react-state-a-simple-and-easy-to-follow-breakdown)
 - [preact/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler.
+- [Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) (2021)](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
