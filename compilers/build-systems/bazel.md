@@ -28,3 +28,4 @@
 - [Skylib](https://github.com/bazelbuild/bazel-skylib) - Library of Starlark functions for manipulating collections, file paths, and various other data types in the domain of Bazel build rules.
 - [Bazel Container Image Rules](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel.
 - [bazel-cache](https://github.com/znly/bazel-cache) - Minimal cloud oriented Bazel gRPC cache.
+- [bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache, proxies to S3; allows Bazel to work offline; async uploads to make Bazel faster.

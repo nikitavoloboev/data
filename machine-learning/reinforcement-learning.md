@@ -176,3 +176,4 @@
 - [Self-Supervised Policy Adaptation during Deployment (2020)](https://arxiv.org/abs/2007.04309) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/lxdiye/exploring_selfsupervised_policy_adaptation_to/))
 - [Self-Supervised Learning - Yann LeCun (2019)](https://www.youtube.com/watch?v=SaJL4SLfrcY&t=2532s)
 - [Reinforcement Learning: Introduction by Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Debugging Reinforcement Learning Systems (2021)](https://andyljones.com/posts/rl-debugging.html)

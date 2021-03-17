@@ -68,3 +68,4 @@
 - [RELLIS-3D: A Multi-modal Dataset for Off-Road Robotics](https://github.com/unmannedlab/RELLIS-3D) ([Web](https://unmannedlab.github.io/research/RELLIS-3D))
 - [Robotics Courses List](https://github.com/mithi/robotics-coursework)
 - [Vention](https://vention.io/) - Build your machine today. Receive it tomorrow.
+- [DART](https://github.com/dartsim/dart) - Dynamic Animation and Robotics Toolkit. ([Code](https://github.com/dartsim/dart))
