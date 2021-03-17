@@ -56,3 +56,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [A Trip into FreeBSD (2021)](https://christine.website/blog/a-trip-into-freebsd-2021-02-13) ([Lobsters](https://lobste.rs/s/x0jtjw/trip_into_freebsd))
 - [FreeBSD and I2C (2021)](https://blog.tyk.nu/blog/freebsd-and-i2c/)
 - [Runj](https://github.com/samuelkarp/runj) - Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails.
+- [FreeBSD 13.0 – Full Desktop Experience (2021)](https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/) ([HN](https://news.ycombinator.com/item?id=26491974))
