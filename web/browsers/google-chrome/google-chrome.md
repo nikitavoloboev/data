@@ -10,6 +10,10 @@ And here are Chrome extensions I use:
 
 ![](https://i.imgur.com/q2Wnz38.png)
 
+## Notes
+
+- [CMD+SHIFT+A = search open Chrome tabs](https://twitter.com/_developit/status/1372320008701947905)
+
 ## Links
 
 - [Awesome Chrome Extensions](https://github.com/learn-anything/chrome-extensions)
