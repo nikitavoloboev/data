@@ -130,6 +130,7 @@ And these Discord servers:
 - [Vox](https://www.vox.com/) - Understand the News.
 - [Future Perfect - Vox](https://www.vox.com/future-perfect)
 - [Newlines Institute](https://newlinesinstitute.org/)
+- [Document Journal](https://www.documentjournal.com/)
 
 ### Other
 

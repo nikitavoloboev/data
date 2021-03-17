@@ -42,3 +42,4 @@
 - [USA Crimes List (2021)](https://www.reddit.com/r/Sino/comments/m162i1/the_usa_will_inevitably_collapse_under_the_weight/)
 - [Bay Area - I Know a Spot (2021)](https://iknowaspot.substack.com/p/bay-area?r=113yk&utm_campaign=post&utm_medium=web&utm_source=twitter)
 - [What benefit does the USA get from its nearly globe spanning hegemony? (2021)](https://www.reddit.com/r/geopolitics/comments/m4ceyu/question_what_benefit_does_the_usa_get_from_its/)
+- [The End of Silicon Valley as We Know It? (2021)](https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/)

@@ -36,3 +36,5 @@
 - [Create your own data stream for Kafka with Python and Faker (2021)](https://aiven.io/blog/create-your-own-data-stream-for-kafka-with-python-and-faker)
 - [Hindsight](https://github.com/mozilla-services/hindsight) - C based data processing infrastructure based on the lua sandbox project.
 - [Reverse ETL — A Primer (2021)](https://medium.com/memory-leak/reverse-etl-a-primer-4e6694dcc7fb)
+- [I wrote one of the fastest DataFrame libraries (2021)](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
+- [Build your own “data lake” for reporting purposes in a multi-services environment (2021)](https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/)
