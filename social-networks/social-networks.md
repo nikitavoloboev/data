@@ -95,3 +95,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Zenly](https://zen.ly/) - Live map of your friends and family. ([GitHub](https://github.com/znly))
 - [He got Facebook hooked on AI. Now he can't fix its misinformation addiction (2021)](https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/) ([Tweet](https://twitter.com/glichfield/status/1370735851882299393))
 - [SELLFF](https://sellff.com/) - Zero-cost, ad-free alternative to LinkedIn. ([HN](https://news.ycombinator.com/item?id=26475898))
+- [How Clubhouse the "next big thing going to fail (2021)](https://twitter.com/ShaanVP/status/1371972261004070913)
