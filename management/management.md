@@ -89,3 +89,4 @@
 - [Awesome CTO](https://github.com/kuchin/awesome-cto) - Resources for chief technology officers, with the emphasis on startups. ([HN](https://news.ycombinator.com/item?id=26284750))
 - [Things your manager might not know](https://jvns.ca/blog/things-your-manager-might-not-know/)
 - [Ask HN: Do you think Agile/Scrum is beneficial for software delivery? (2021)](https://news.ycombinator.com/item?id=26345235)
+- [Common Mistakes of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/) ([HN](https://news.ycombinator.com/item?id=26474947))

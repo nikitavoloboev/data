@@ -425,3 +425,4 @@
 - [RustViz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing.
 - [How to speed up rustdoc in 2021](https://txti.es/fckc0)
 - [Getting started with ... Rust (2021)](https://stackoverflow.blog/2021/03/15/getting-started-with-rust/)
+- [totally_safe_transmute, line-by-line (2021)](https://blog.yossarian.net/) ([Lobsters](https://lobste.rs/s/9rmsyl/totally_safe_transmute_line_by_line))

@@ -441,3 +441,4 @@ Go promotes composition over inheritance.
 - [How I build web frontends in Go (2021)](https://philippta.github.io/web-frontends-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/lzymk9/how_i_build_web_frontends_in_go/))
 - [Goroutines Are Not Significantly Lighter Than Threads (2021)](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html) ([Lobsters](https://lobste.rs/s/wxdvlr/goroutines_are_not_significantly))
 - [netaddr.IP: a new IP address type for Go (2021)](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
+- [Go Interface Examples](https://github.com/Evertras/go-interface-examples) - Examples of using Go interfaces to make cleaner, more testable code.

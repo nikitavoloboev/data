@@ -43,3 +43,4 @@
 - [gRPC Channels](https://github.com/fullstorydev/grpchan) - Channels for gRPC: custom transports.
 - [grpc-testing](https://github.com/ryoya-fujimoto/grpc-testing) - Testing and helper tool for grpc server, using cuelang and grpcurl.
 - [gun](https://github.com/Qv2ray/gun) - Toy gRPC Tunnel over CloudFlare.
+- [gRPC Is Easy to Misconfigure (2021)](https://www.evanjones.ca/grpc-is-tricky.html) ([HN](https://news.ycombinator.com/item?id=26462438))

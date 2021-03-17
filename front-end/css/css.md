@@ -274,3 +274,5 @@
 - [CSS Auditing Tools (2021)](https://www.smashingmagazine.com/2021/03/css-auditing-tools/)
 - [Exploring @property and its Animating Powers (2021)](https://css-tricks.com/exploring-property-and-its-animating-powers/)
 - [Digging Into CSS Logical Properties (2021)](https://ishadeed.com/article/css-logical-properties/)
+- [CSS Generators (2021)](https://www.smashingmagazine.com/2021/03/css-generators/)
+- [Debugging layout shifts (2021)](https://web.dev/debugging-layout-shifts/)

@@ -183,6 +183,7 @@
 - [query](https://github.com/andrewpillar/query) - Simple PostgreSQL query builder for Go.
 - [postgresql-parser](https://github.com/auxten/postgresql-parser) - PostgreSQL style Parser splitted from CockroachDB.
 - [pggen](https://github.com/jschaf/pggen) - Generate type-safe Go from any Postgres query. If Postgres can run the query, pggen can generate code for it.
+- [Squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generator for Go.
 
 ## ML
 
