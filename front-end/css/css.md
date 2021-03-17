@@ -276,3 +276,4 @@
 - [Digging Into CSS Logical Properties (2021)](https://ishadeed.com/article/css-logical-properties/)
 - [CSS Generators (2021)](https://www.smashingmagazine.com/2021/03/css-generators/)
 - [Debugging layout shifts (2021)](https://web.dev/debugging-layout-shifts/)
+- [Charts.css](https://chartscss.org/) - CSS data visualization framework. ([HN](https://news.ycombinator.com/item?id=26494819)) ([Code](https://github.com/ChartsCSS/charts.css))

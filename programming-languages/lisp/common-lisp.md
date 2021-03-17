@@ -51,4 +51,4 @@
 - [Lisper.ru](http://lisper.ru/) - Russian Common Lisp Community. ([Code](https://github.com/archimag/rulisp))
 - [State of the Common Lisp ecosystem, 2020](https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/) ([HN](https://news.ycombinator.com/item?id=26065511))
 - [Coalton](https://github.com/stylewarning/coalton) - Dialect of ML embedded in Common Lisp.
-- [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+- [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/) ([HN](https://news.ycombinator.com/item?id=26493588))
