@@ -177,3 +177,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations.
 - [VSCode Solidity](https://github.com/juanfranblanco/vscode-solidity) - VSCode language support extension for Solidity smart contracts in Ethereum.
 - [Web3.py](https://github.com/ethereum/web3.py) - Python library for interacting with Ethereum.
+- [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Discover historic Miner Extractable Value (MEV) opportunities.
