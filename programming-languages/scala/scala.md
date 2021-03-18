@@ -67,3 +67,5 @@
 - [Scale By The Bay 2020: Martin Odersky, Countdown to 3 (2020)](https://www.youtube.com/watch?v=J-KDLrdlg78)
 - [sbt-revolver](https://github.com/spray/sbt-revolver) - SBT plugin for dangerously fast development turnaround in Scala.
 - [Generic Derivation is the New Reflection by Alexander Ioffe (2021)](https://www.youtube.com/watch?v=E9L1-rkYPng)
+- [Scala Conference Videos Reddit](https://www.reddit.com/r/ScalaConferenceVideos/)
+- [Best Scala/FP talks (2021)](https://www.reddit.com/r/scala/comments/m5sxk1/best_scalafp_talks/)
