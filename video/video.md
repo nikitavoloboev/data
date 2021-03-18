@@ -202,3 +202,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [PeerTube Index](https://github.com/silicium14/peertube_index) - Centralized search engine for PeerTube videos. ([Web](https://peertube-index.net/))
 - [FFMPEG from Zero to Hero Book](https://ffmpegfromzerotohero.com/) ([HN](https://news.ycombinator.com/item?id=26370704))
 - [Rally Studios](https://www.rally-studios.com/) - Full service creative studio.
+- [Video Literature](https://github.com/VideoForage/Video-Lit) - Systems and Networking related Video research published in major venues of Computer Science.
