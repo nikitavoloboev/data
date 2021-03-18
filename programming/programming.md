@@ -357,3 +357,4 @@
 - [Programming Paradigms, Turing Completeness and Computational Thinking (2020)](https://programming-journal.org/2020/4/4/) ([HN](https://news.ycombinator.com/item?id=26382818))
 - [Staying out of TTL hell (2021)](http://calpaterson.com/ttl-hell.html)
 - [Why Programmers Should(n't) Learn Theory (2021)](http://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
+- [Principles of Developer Experience (2021)](https://cpojer.net/posts/principles-of-devx)

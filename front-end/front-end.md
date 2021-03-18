@@ -43,3 +43,4 @@
 - [I don't want to do front-end anymore (2021)](https://www.askonomm.com/blog/i-dont-want-to-do-frontend-anymore) ([HN](https://news.ycombinator.com/item?id=26071906)) ([Lobsters](https://lobste.rs/s/vxasiq/i_don_t_want_do_front_end_anymore))
 - [Frontend Greatness](https://anchor.fm/frontend-greatness) - Podcast that helps frontend developers go from good to great.
 - [How Wix improved website performance by evolving their infrastructure (2021)](https://web.dev/wix/)
+- [Cобеседование Junior Frontend разработчика (2021)](https://www.youtube.com/watch?v=25lCunO6yDQ)

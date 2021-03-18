@@ -487,6 +487,7 @@
 - [diary](https://github.com/maraisr/diary) - Zero-dependency, fast logging library for both Node and Browser.
 - [tinydate](https://github.com/lukeed/tinydate) - Tiny reusable date formatter.
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [Antiutils](https://github.com/ivan7237d/antiutils) - TypeScript/JavaScript utilities for those who don't like utilities.
 
 ## Links
 
