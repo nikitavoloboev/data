@@ -101,3 +101,4 @@
 - [Podman](https://podman.io/) - Daemonless Container Engine. ([HN](https://news.ycombinator.com/item?id=26101608))
 - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 - [cosign](https://github.com/sigstore/cosign) - Container Signing, Verification and Storage in an OCI registry.
+- [Compiling Containers - Dockerfiles, LLVM and BuildKit (2021)](https://blog.earthly.dev/compiling-containers-dockerfiles-llvm-and-buildkit/)
