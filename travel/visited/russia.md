@@ -89,3 +89,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Лубянская Федерация - ФСБ](https://fsb.dossier.center/) - Как ФСБ определяет политику и экономику России.
 - [Власть vs муниципальные депутаты (2021)](https://www.youtube.com/watch?v=WtZI4XVquOc)
 - [Падение в пропасть. Плохие прогнозы для Путина и всей России (2021)](https://www.svoboda.org/a/31150423.html)
+- [Почему русская деревня голосует за Путина (2020)](https://www.youtube.com/watch?v=37YTRWThCK8)
