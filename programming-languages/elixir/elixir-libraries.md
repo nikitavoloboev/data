@@ -7,6 +7,7 @@
 - [SiteEncrypt](https://github.com/sasa1977/site_encrypt) - Integrated certification via Let's encrypt for Elixir-powered sites.
 - [ExVCR](https://github.com/parroty/exvcr) - Record and replay HTTP interactions library for Elixir.
 - [WebSockex](https://github.com/Azolo/websockex) - Elixir Websocket Client.
+- [Tesla](https://github.com/teamon/tesla) - Flexible HTTP client library for Elixir, with support for middleware and multiple adapters.
 
 ## DB
 

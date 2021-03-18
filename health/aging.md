@@ -55,3 +55,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Request for Startups in the Rejuvenation Biotechnology Space (2021)](https://www.fightaging.org/archives/2021/01/request-for-startups-in-the-rejuvenation-biotechnology-space-2021-edition/)
 - [Fight Aging](https://www.fightaging.org/) - Science of rejuvenation biotechnology.
 - [Cellular Aging Reversed in Mouse Eyes- Interview with Dr. Yuancheng Lu (2021)](https://www.youtube.com/watch?v=TAA6qdWBuf8)
+- [Maxim Orlovsky - A Proper Path to Digital Immortality (2019)](https://www.youtube.com/watch?v=ztG8QNSgxlA&t=211s)
