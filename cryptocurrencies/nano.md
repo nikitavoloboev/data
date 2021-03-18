@@ -24,3 +24,4 @@
 - [NanoLooker](https://nanolooker.com/) - Explore the Nano cryptocurrency blockchain. ([Code](https://github.com/running-coder/nanolooker))
 - [Nano Register](https://awesomepandapig.github.io/NanoRegister/) - Input an amount in your local currency and the site will generate a one time QR code which can be scanned. ([Code](https://github.com/awesomepandapig/NanoRegister)) ([Reddit](https://www.reddit.com/r/nanocurrency/comments/m1fuxl/introducing_nano_register/))
 - [Nano Forum](https://forum.nano.org/latest)
+- [Feeless](https://github.com/feeless/feeless) - Nano cryptocurrency node, wallet, tools, and Rust crate.

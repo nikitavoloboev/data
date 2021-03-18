@@ -178,3 +178,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [VSCode Solidity](https://github.com/juanfranblanco/vscode-solidity) - VSCode language support extension for Solidity smart contracts in Ethereum.
 - [Web3.py](https://github.com/ethereum/web3.py) - Python library for interacting with Ethereum.
 - [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Discover historic Miner Extractable Value (MEV) opportunities.
+- [Expedition](https://expedition.dev/) - Block explorer for the Ethereum stack. ([Code](https://github.com/xops/expedition))
