@@ -47,3 +47,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Mission Protocol](https://missionprotocol.org/) ([HN](https://news.ycombinator.com/item?id=24832404)) ([Ostrich Protocol](https://ostrichprotocol.org/))
 - [My Engineering Values (2020)](https://mikemcquaid.com/2020/12/15/my-engineering-values/)
 - [Compensation as a Reflection of Values (2021)](https://oxide.computer/blog/compensation-as-a-reflection-of-values/) ([HN](https://news.ycombinator.com/item?id=26348836))
+- [The Values of a Post-Woke World (2021)](https://newdiscourses.com/2021/03/values-post-woke-world/)

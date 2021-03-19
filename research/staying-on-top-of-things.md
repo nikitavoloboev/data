@@ -131,6 +131,7 @@ And these Discord servers:
 - [Future Perfect - Vox](https://www.vox.com/future-perfect)
 - [Newlines Institute](https://newlinesinstitute.org/)
 - [Document Journal](https://www.documentjournal.com/)
+- [New Discourses](https://newdiscourses.com/)
 
 ### Other
 

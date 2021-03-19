@@ -47,3 +47,4 @@
 - [DNA synthesis for true random number generation (2020)](https://www.nature.com/articles/s41467-020-19757-y)
 - [An Onion's Genome Has Five Times More DNA Than Humans (2019)](https://geneticsunzipped.com/news/2019/1/31/the-onion-test) ([HN](https://news.ycombinator.com/item?id=25975457))
 - [Sequencing your DNA with a USB dongle and open source code (2021)](https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) ([HN](https://news.ycombinator.com/item?id=26014421))
+- [DNA Repair Mechanisms (2020)](https://www.youtube.com/watch?v=oRfK85gPAVA)
