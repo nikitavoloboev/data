@@ -74,3 +74,4 @@
 - [Julia 1.6: what has changed since Julia 1.0? (2021)](https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html) ([HN](https://news.ycombinator.com/item?id=26132801))
 - [YASGuide](https://github.com/jrevels/YASGuide) - Yet Another Style Guide For Julia.
 - [Building a constraint programming solver in Julia (2019)](https://opensourc.es/blog/constraint-solver-1/)
+- [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)

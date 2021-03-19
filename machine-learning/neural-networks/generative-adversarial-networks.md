@@ -100,3 +100,4 @@
 - [Anycost GANs for Interactive Image Synthesis and Editing](https://github.com/mit-han-lab/anycost-gan)
 - [State-of-the-Art Image Generative Models (2021)](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/) ([HN](https://news.ycombinator.com/item?id=26351754))
 - [GANs for tabular data](https://github.com/Diyago/GAN-for-tabular-data)
+- [Adversarial score matching and improved sampling for image generation](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)

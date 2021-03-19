@@ -1,6 +1,6 @@
 # Relationships
 
-Be honest, kind and empathetic.
+Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore conflicts.
 
 ## Notes
 
@@ -25,3 +25,4 @@ Be honest, kind and empathetic.
 - [Doctor Ramani - YouTube](https://www.youtube.com/c/DoctorRamani/videos) - Clinical psychologist, professor of psychology. Does videos on narcissism.
 - [The narcissist's itch that can't be scratched (2021)](https://www.youtube.com/watch?v=Vpb8hlpF_48)
 - [Why do relationships with narcissists feel like a series of unconnected episodes? (2019)](https://www.youtube.com/watch?v=D7vLvSZEtTU)
+- [Dating over 30 Reddit Wiki](https://www.reddit.com/r/datingoverthirty/wiki/index)
