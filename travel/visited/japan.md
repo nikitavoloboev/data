@@ -33,3 +33,4 @@
 - [1980's Japan](https://www.youtube.com/watch?v=C_qi8XVP8W0) ([HN](https://news.ycombinator.com/item?id=26060833))
 - [Experience Japan Pictograms](https://experience-japan.info/)
 - [Kanji alive](https://kanjialive.com/) - Free study tool for reading and writing kanji. ([Code](https://github.com/kanjialive/kanji-data-media))
+- [Mini Tokyo 3D](https://minitokyo3d.com/)

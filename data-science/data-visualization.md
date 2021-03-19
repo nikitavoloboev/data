@@ -85,3 +85,4 @@
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research)
 - [RAWGraphs](https://rawgraphs.io/) - Open web tool to create custom vector-based visualizations on top of the amazing d3.js library. ([Code](https://github.com/rawgraphs/rawgraphs-app))
 - [Zeu.js](https://github.com/shzlw/zeu) - JavaScript library for real-time visualization. ([Docs](https://shzlw.github.io/zeu/docs/introduction.html))
+- [Which color scale to use when visualizing data (2021)](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
