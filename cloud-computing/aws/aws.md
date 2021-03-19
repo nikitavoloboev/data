@@ -157,3 +157,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Awesome AWS Chalice](https://github.com/magnataurconsulting/awesome-chalice)
 - [Exploratory Analysis and ETL with Presto and AWS Glue (2020)](https://blog.bigdataboutique.com/2020/10/exploratory-analysis-and-etl-with-presto-and-aws-glue-iwtkxs)
 - [Platform that uses my AWS account, but provides me an incredible DX. This way I can start extremely easy, but also have the full, raw power of AWS at my fingertips. (2021)](https://twitter.com/flybayer/status/1369363714873438210)
+- [Repokid](https://github.com/Netflix/repokid) - AWS Least Privilege for Distributed, High-Velocity Deployment.

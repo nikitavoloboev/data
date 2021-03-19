@@ -237,3 +237,4 @@
 - [Cracking PostgreSQL Interview Questions (2021)](https://supabase.io/blog/2021/02/27/cracking-postgres-interview)
 - [Performance differences between Postgres and MySQL (2021)](https://blog.arctype.com/performance-difference-between-postgresql-and-mysql/) ([Lobsters](https://lobste.rs/s/ldnobo/performance_differences_between))
 - [Using Postgres for Cron (2021)](https://hasura.io/blog/using-postgres-for-cron/)
+- [Writing a Postgres SQL Pretty Printer in Rust (2021)](https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/)

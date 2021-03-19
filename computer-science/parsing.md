@@ -50,3 +50,4 @@
 - [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree) - Curated list of awesome syntax-tree, unist, hast, xast, mdast, nlcst resources.
 - [Top-Down Parsing with Parsing Contexts -- A simple approach to context sensitive parsing (2014)](https://lobste.rs/s/l6yieh/top_down_parsing_with_parsing_contexts)
 - [Applicative parsing (2019)](https://jobjo.github.io/2019/05/19/applicative-parsing.html)
+- [Parser Combinators From Scratch (2020)](https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU) ([Code](https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch))
