@@ -110,6 +110,7 @@
 - [Higgledy](https://github.com/i-am-tom/higgledy) - Higher-kinded data via generics.
 - [hal](https://github.com/Nike-Inc/hal) - Runtime environment for Haskell applications running on AWS Lambda.
 - [machines](https://github.com/ekmett/machines) - Demand driven input sources like pipes or conduits, but can support multiple inputs.
+- [refinery](https://github.com/TOTBWF/refinery) - Refinement proof framework for haskell.
 
 ## Links
 
