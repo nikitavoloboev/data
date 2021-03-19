@@ -165,3 +165,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [A Day in the Life of an Open Source Developer (2021)](https://www.youtube.com/watch?v=Fc9pWYP1f6o)
 - [Clone Wars](https://gourav.io/clone-wars) - Open source clones of popular sites. ([Code](https://github.com/GorvGoyl/Clone-Wars))
 - [Opensource.builders](https://opensource.builders/) - Find open-source alternatives. ([Code](https://github.com/junaid33/opensource.builders))
+- [Awesome Software Patreons](https://github.com/uraimo/awesome-software-patreons) - Curated list of awesome programmers and software projects you can support.
