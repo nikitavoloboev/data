@@ -122,6 +122,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Irradiated Software macOS apps](https://www.irradiatedsoftware.com/labs/)
 - [Freeze](https://freeze.app/) - Save your open windows and tabs for later.
 - [FastScripts](https://redsweater.com/fastscripts/) - Powerful script management utility.
+- [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Fully-featured launchd GUI allowing you to create, manage and debug system- and user services on your Mac.
 
 ## Links
 

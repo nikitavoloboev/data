@@ -223,3 +223,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The Best Font Loading Strategies and How to Execute Them (2021)](https://css-tricks.com/the-best-font-loading-strategies-and-how-to-execute-them/)
 - [Why does typography matter?](https://practicaltypography.com/why-does-typography-matter.html)
 - [Grid Systems in Graphic Design Book](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)
+- [Continuous Typography (2020)](https://maxkoehler.com/posts/continuous-typography/)
