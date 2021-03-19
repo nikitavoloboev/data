@@ -44,3 +44,4 @@
 - [Frontend Greatness](https://anchor.fm/frontend-greatness) - Podcast that helps frontend developers go from good to great.
 - [How Wix improved website performance by evolving their infrastructure (2021)](https://web.dev/wix/)
 - [Cобеседование Junior Frontend разработчика (2021)](https://www.youtube.com/watch?v=25lCunO6yDQ)
+- [Front-End Developer Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)

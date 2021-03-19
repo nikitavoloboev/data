@@ -83,3 +83,4 @@
 - [pressf](https://github.com/littledivy/pressf) - Tiny and fast router framework built on top of std/http.
 - [deno_drop](https://github.com/littledivy/drop) - `drop` unwanted Deno resources out of memory.
 - [egoist/router](https://github.com/egoist/router) - Router that works in Node.js, browser and Deno.
+- [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
