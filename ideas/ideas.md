@@ -83,3 +83,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ideas Grab](https://www.ideasgrab.com/) - List of +3400 ideas that you can use for your own projects.
 - [Ask HN: What is your “I don't care if this succeeds” project? (2021)](https://news.ycombinator.com/item?id=25992782)
 - [Lobsters: What side projects are you building currently? (2021)](https://lobste.rs/s/nytdx6/what_side_projects_are_you_building)
+- [Free startup ideas (2021)](https://danromero.org/free-startup-ideas.html)
