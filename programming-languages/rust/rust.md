@@ -426,4 +426,4 @@
 - [How to speed up rustdoc in 2021](https://txti.es/fckc0)
 - [Getting started with ... Rust (2021)](https://stackoverflow.blog/2021/03/15/getting-started-with-rust/)
 - [totally_safe_transmute, line-by-line (2021)](https://blog.yossarian.net/) ([Lobsters](https://lobste.rs/s/9rmsyl/totally_safe_transmute_line_by_line))
-- [Building a shared vision for Async Rust (2021)](https://blog.rust-lang.org/2021/03/18/async-vision-doc.html)
+- [Building a shared vision for Async Rust (2021)](https://blog.rust-lang.org/2021/03/18/async-vision-doc.html) ([Lobsters](https://lobste.rs/s/gziwe9/building_shared_vision_for_async_rust)) ([HN](https://news.ycombinator.com/item?id=26503809))

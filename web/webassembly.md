@@ -151,3 +151,4 @@
 - [LAM: an actor-model VM for WebAssembly and native (2021)](https://notamonadtutorial.com/lam-an-actor-model-vm-for-webassembly-and-native-d7939362e1b8)
 - [LAM](https://github.com/AbstractMachinesLab/lam) - Lightweight alternative to the BEAM that runs as Native and WebAssembly binaries, both on WASI-enabled systems and browsers.
 - [Swag](https://github.com/Ji4n1ng/Swag) - Toy WASM interpreter written in Swift.
+- [Awesome WebAssembly Tools](https://github.com/vshymanskyy/awesome-wasm-tools)

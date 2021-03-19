@@ -268,3 +268,4 @@
 - [Nixkell](https://github.com/pwm/nixkell) - Get your Haskell projects up and running with no fuss using Nix.
 - [Supercharge your handles using phantom types (2021)](https://luctielen.com/posts/supercharge_your_handles_with_phantom_types/)
 - [ghc-lib](https://github.com/digital-asset/ghc-lib) - GHC API, decoupled from GHC versions.
+- [Algebraic Graphs with Class (2017)](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf) ([Lobsters](https://lobste.rs/s/kiqwsk/algebraic_graphs_with_class))

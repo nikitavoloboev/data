@@ -132,3 +132,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [NextJS CMS Ghost](https://github.com/styxlab/next-cms-ghost) - Publish fast blogs with Next.js and Ghost CMS.
 - [Tech Blog Recommendations](https://wolchok.org/reading/)
 - [Interesting Blogs List](https://github.com/xplosionmind/tommi.space/blob/main/_notes/public/Blogroll.md)
+- [Blog Surf](https://blogsurf.io/) - Directory of Personal Blogs, includes search option.
