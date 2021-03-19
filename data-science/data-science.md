@@ -163,3 +163,4 @@
 - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/) - Introduction to data science in Python, for people with no programming experience. ([Code](https://github.com/AllenDowney/ElementsOfDataScience))
 - [Data Science on AWS](https://www.datascienceonaws.com/) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker. ([Code](https://github.com/data-science-on-aws/workshop))
 - [Tips for Shipping Data Products Fast (2021)](https://shopify.engineering/shipping-data-products-fast) ([HN](https://news.ycombinator.com/item?id=26341032))
+- [Data Science Topics Notes](https://github.com/khuyentran1401/Data-science)
