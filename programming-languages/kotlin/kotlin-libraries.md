@@ -2,7 +2,7 @@
 
 ## Other
 
-- [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library.
+- [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library. ([Web](https://arrow-kt.io/))
 - [AutoDsl](https://github.com/juanchosaravia/autodsl) - Auto-generate Kotlin DSL.
 - [StateMachine](https://github.com/Tinder/StateMachine) - Kotlin DSL for finite state machine.
 

@@ -108,3 +108,4 @@
 - [µGUI](https://github.com/achimdoebler/UGUI) - Open Source GUI module for embedded systems.
 - [avr-hal](https://github.com/Rahix/avr-hal) - embedded-hal abstractions for AVR microcontrollers.
 - [LambdaChip](http://lambdachip.com/index/) - Write Scheme on Embedded System.
+- [cortex-m](https://github.com/rust-embedded/cortex-m) - Low level access to Cortex-M processors.

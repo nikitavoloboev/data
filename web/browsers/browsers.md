@@ -110,3 +110,4 @@
 - [ExtensionPay](https://extensionpay.com/) - Payments in browser extensions, no server needed.
 - [React Web Extension Boilerplate](https://github.com/ElForastero/react-browser-extension-boilerplate) - React / Preact X browser extension boilerplate for the most popular browsers.
 - [FingerprintJS](https://fingerprintjs.com/) - Browser fingerprinting and fraud detection API.
+- [Browser Rendering Optimization](https://github.com/vasanthk/browser-rendering-optimization) - Notes on browser rendering optimization and hitting 60fps smoothness.
