@@ -15,7 +15,7 @@
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
-- Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
+- Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love. Self love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best.

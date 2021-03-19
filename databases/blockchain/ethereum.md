@@ -179,3 +179,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Web3.py](https://github.com/ethereum/web3.py) - Python library for interacting with Ethereum.
 - [MEV Inspect](https://github.com/flashbots/mev-inspect-rs) - Discover historic Miner Extractable Value (MEV) opportunities.
 - [Expedition](https://expedition.dev/) - Block explorer for the Ethereum stack. ([Code](https://github.com/xops/expedition))
+- [Sourcify](https://github.com/ethereum/sourcify) - Solidity re-compiler that can be used to verify that bytecode corresponds to certain source code.

@@ -74,3 +74,4 @@
 - [Top 90 Shopify Websites by Traffic](https://reviewbolt.com/top/shopify/) ([HN](https://news.ycombinator.com/item?id=26140934))
 - [Education & E-Commerce (with Rachael Thompson) (2021)](https://www.youtube.com/watch?v=gIZV6anVWnyI)
 - [VRS](https://github.com/vercel/vrs) - Serverless virtual reality e-commerce experience powered by Vercel. ([Web](https://serverless-vrs.now.sh/))
+- [What I wish I knew before building a Shopify App](https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html) ([HN](https://news.ycombinator.com/item?id=26514612))

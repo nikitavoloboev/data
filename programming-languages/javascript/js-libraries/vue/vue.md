@@ -53,3 +53,5 @@
 - [The Ultimate Nuxt API Setup (2020)](https://hire.jonasgalvez.com.br/2020/feb/22/the-ultimate-nuxt-api-setup/)
 - [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
 - [vue-dts-gen](https://github.com/egoist/vue-dts-gen) - Generate `d.ts` from `.vue` files.
+- [Windi CSS for Nuxt.js](https://github.com/windicss/nuxt-windicss-module)
+- [Create Nuxt App](https://github.com/nuxt/create-nuxt-app) - Create a Nuxt.js project in seconds.
