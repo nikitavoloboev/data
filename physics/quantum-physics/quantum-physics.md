@@ -53,3 +53,4 @@
 - [Hypernuclei (2021)](https://johncarlosbaez.wordpress.com/2021/03/06/hypernuclei/)
 - [Quantum mechanics isn’t weird, we’re just too big (2021)](https://www.youtube.com/watch?v=q1O11kP6x1k) ([HN](https://news.ycombinator.com/item?id=26365293))
 - [Quantum Mischief Rewrites the Laws of Cause and Effect (2021)](https://www.quantamagazine.org/quantum-mischief-rewrites-the-laws-of-cause-and-effect-20210311/)
+- [How To Read Feynman Diagrams (2021)](https://www.youtube.com/watch?v=oBNZOOuqO6c)

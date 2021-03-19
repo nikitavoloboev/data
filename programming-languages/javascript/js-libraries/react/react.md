@@ -209,3 +209,5 @@
 - [preact/preset-vite](https://github.com/preactjs/preset-vite) - Preset for using Preact with the vite bundler.
 - [Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) (2021)](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
 - [What made React's context click for you?](https://twitter.com/rachelnabors/status/1372265369352740866)
+- [Building a Modern React App from Scratch in 2021](https://github.com/yakkomajuri/react-from-scratch)
+- [The Perils of Rehydration: An Eye-Opening Realization about Gatsby and React](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)

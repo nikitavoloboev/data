@@ -36,3 +36,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Flim](https://beta.flim.ai/) - Search movies, actors, directors or keywords.
 - [Heat: The Perfect Blend of Realism and Style](https://www.youtube.com/watch?v=VMLej6hFN30)
 - [Modern action films fetishize the body even as they desexualize it (2021)](https://bloodknife.com/everyone-beautiful-no-one-horny/) ([HN](https://news.ycombinator.com/item?id=26381377))
+- [What’s the last 10/10 movie you’ve seen? (2021)](https://twitter.com/patrick_oshag/status/1372709320832512006)

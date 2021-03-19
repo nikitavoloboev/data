@@ -23,3 +23,4 @@
 - [MFC Deck](https://mfcdeck.com/) - Widgetize Your Shortcuts.
 - [Shortcuts Catalog for iOS 14 (2020)](https://www.matthewcassinelli.com/shortcuts-catalog-ios-14/)
 - [Extended Icons](https://extendedicons.com/) - Beaufitul Icons for Shortcuts.
+- [Creating a Siri Shortcut (2021)](https://www.swiftjectivec.com/create-a-siri-shortcut/)

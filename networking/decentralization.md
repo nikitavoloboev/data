@@ -49,3 +49,4 @@
 - [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites) - Resources on building decentralized websites.
 - [Ask HN: Truly successful applications based on decentralized networks? (2021)](https://news.ycombinator.com/item?id=26206504)
 - [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
+- [Decentralization Off The Shelf](https://decentpatterns.xyz/) - Patterns for decentralized protocols and applications. ([Code](https://github.com/simplysecure/dots-patterns))

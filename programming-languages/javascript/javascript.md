@@ -270,3 +270,4 @@
 - [Streams — The definitive guide (2021)](https://web.dev/streams/)
 - [Starlight](https://github.com/Starlight-JS/starlight) - JS engine in Rust.
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [JavaScript and the next decade of data programming (2021)](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/) ([Tweet](https://twitter.com/benmschmidt/status/1368988766174666753))

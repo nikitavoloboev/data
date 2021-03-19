@@ -171,3 +171,4 @@
 - [unitalk](https://github.com/hoorayman/unitalk) - Distributed chat system which can be used as chat rooms or state synchronization.
 - [Maelstrom](https://github.com/jepsen-io/maelstrom) - Workbench for learning distributed systems by writing your own.
 - [An introduction to lockless algorithms (2021)](https://lwn.net/Articles/844224/) ([HN](https://news.ycombinator.com/item?id=26346033))
+- [Clio](https://clio-lang.org/) - Functional, distributed programming language that compiles to JavaScript. ([Code](https://github.com/clio-lang/clio))

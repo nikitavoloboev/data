@@ -11,6 +11,7 @@
 
 - They have amazing ciders. Rekorderlig & Old Moud Cider being my favorite ones.
 - [Itsu](https://www.itsu.com/) is pretty awesome take away food place (with sushi). With discount on food at closing hours (30 min before).
+- When shipping from UK internationally with DHL and maybe others, make sure to both print and put the label and also the paper outlining all the items in the baggage. Fragrances are not allowed.
 
 ## Links
 

@@ -88,3 +88,4 @@
 - [How to have better arguments online (2021)](https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict) ([HN](https://news.ycombinator.com/item?id=26202991))
 - [Chatting with Glue](https://a9.io/glue-comic/) - Cognitive Tools for Augmented Conversation.
 - [When Should I Interrupt Someone? (2021)](https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/) ([HN](https://news.ycombinator.com/item?id=26463910))
+- [How to Give a Status Update To Executives (2021)](https://jacobian.org/2021/mar/5/exec-status-update/)

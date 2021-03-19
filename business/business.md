@@ -60,3 +60,4 @@ Learning to build [startups](startups/startups.md).
 - [A solo journey to $100k (2021)](https://draculatheme.com/pro/journey) ([HN](https://news.ycombinator.com/item?id=26262989))
 - [How to Buy, Grow, and Sell Small Companies](https://www.microacquisitions.com/how-to-buy-small-companies)
 - [The best apps today are games in disguise (2021)](https://twitter.com/Tocelot/status/1370771791891861515)
+- [Lessons from Shopify CEO Tobi Lütke: what he learned from scaling Shopify through the pandemic (2021)](https://calacanis.com/2021/03/18/lessons-from-shopify-ceo-tobi-lutke-what-he-learned-from-scaling-shopify-through-the-pandemic-this-week-in-startups-blog/)
