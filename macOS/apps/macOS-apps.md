@@ -76,7 +76,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Auto DND](https://github.com/dwarvesf/auto-dnd) - Mac app that keeps notifications stays right where it should.
 - [Virtual](https://github.com/kendfinger/virtual) - Boot Linux VMs in a single command on macOS using the new Virtualization.framework.
 - [CloudyTabs](https://github.com/josh-/CloudyTabs) - Menu bar application that lists your iCloud Tabs and Reading List.
-- [BitBar](https://github.com/matryer/bitbar) - Lets you put the output from any script/program in your macOS Menu Bar.
+- [Xbar](https://xbarapp.com/) - Put anything in your macOS menu bar. ([Code](https://github.com/matryer/xbar)) ([HN](https://news.ycombinator.com/item?id=26512460))
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool.
 - [Clean Me](https://github.com/Kevin-De-Koninck/Clean-Me) - macOS system analyzer and cleaner.
 - [ImageOptim](https://imageoptim.com/mac) - GUI image optimizer for Mac. ([Code](https://github.com/ImageOptim/ImageOptim))

@@ -64,6 +64,7 @@
 - [Ardour](https://ardour.org/) - Digital audio workstation.
 - [orenolisp](https://github.com/illiichi/orenolisp) - Structural clojure editor for producing sound using Overtone.
 - [WadJS](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
+- [JamRTC](https://github.com/lminiero/jamrtc) - WebRTC for Live Musicians. ([HN](https://news.ycombinator.com/item?id=26505059))
 
 ## Inspiration
 

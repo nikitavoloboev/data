@@ -326,7 +326,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Polynote](https://github.com/polynote/polynote) - Better notebook for Scala (and more). ([Article](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)) ([HN](https://news.ycombinator.com/item?id=21337260))
 - [Airbridge](https://airbridge.app/) - Calendar built for people, not companies.
 - [Transform](https://transform.tools/) - Polyglot web converter.
-- [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc.
+- [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-Source Alternative to Intercom, Zendesk. ([HN](https://news.ycombinator.com/item?id=26501527))
 - [Imgur](https://imgur.com/) - Upload & browse images.
 - [ImgBB](https://imgbb.com/) - Free image hosting.
 - [put.re](https://put.re/) - Privacy focused Imgur alternative.
