@@ -33,3 +33,4 @@
 - [Statistics Postdoc Tames Decades-Old Geometry Problem (2021)](https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/) ([HN](https://news.ycombinator.com/item?id=26314900))
 - [Möbius Printing helper](https://shreevatsa.net/mobius-print/)
 - [Differential Forms (Discrete Differential Geometry) (2021)](https://www.youtube.com/watch?v=4zicWglBfIE)
+- [Diagrams for Penrose Tiles (2021)](https://readerunner.wordpress.com/2021/03/20/diagrams-for-penrose-tiles/)

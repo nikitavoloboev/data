@@ -54,3 +54,4 @@
 - [tweenr](https://github.com/thomasp85/tweenr) - Package for interpolating data, mainly for animations.
 - [SDS 375: Data Visualization in R](https://wilkelab.org/SDS375/syllabus.html) ([Code](https://github.com/wilkelab/SDS375))
 - [Modern Text Features in R (2021)](https://www.tidyverse.org/blog/2021/02/modern-text-features/) ([HN](https://news.ycombinator.com/item?id=26357955))
+- [An Ode to Stable Interfaces: R and R Core Deserve So Much Praise (2021)](https://dirk.eddelbuettel.com/blog/2021/03/20/)
