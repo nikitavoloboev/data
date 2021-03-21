@@ -91,3 +91,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Падение в пропасть. Плохие прогнозы для Путина и всей России (2021)](https://www.svoboda.org/a/31150423.html)
 - [Почему русская деревня голосует за Путина (2020)](https://www.youtube.com/watch?v=37YTRWThCK8)
 - [Кино в Севкабеле](https://www.youtube.com/watch?v=N83PSvdSYBI)
+- [Вот почему люди хотят «назад в СССР»](https://mirovich.media/657703.html)

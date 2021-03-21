@@ -91,3 +91,4 @@
 - [Sparkles](https://github.com/varld/sparkles) - Easily extract metadata and a blurhash from images.
 - [‘Deep Nostalgia’ can turn old photos of your relatives into moving videos](https://gizmodo.com/deep-nostalgia-can-turn-old-photos-of-your-relatives-1846363190) ([HN](https://news.ycombinator.com/item?id=26279372))
 - [diffimg](https://github.com/nicolashahn/diffimg) - Differentiate images in python - get a ratio or percentage difference, and generate a diff image.
+- [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering Tool.
