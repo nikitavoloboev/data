@@ -89,3 +89,4 @@
 - [Chatting with Glue](https://a9.io/glue-comic/) - Cognitive Tools for Augmented Conversation.
 - [When Should I Interrupt Someone? (2021)](https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/) ([HN](https://news.ycombinator.com/item?id=26463910))
 - [How to Give a Status Update To Executives (2021)](https://jacobian.org/2021/mar/5/exec-status-update/)
+- [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)

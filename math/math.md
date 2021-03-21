@@ -244,3 +244,4 @@
 - [Can One Hear the Shape of a Drum?](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/MarkKac.pdf) ([HN](https://news.ycombinator.com/item?id=26312738))
 - [Complete Proof of the Collatz Conjecture (2021)](https://arxiv.org/abs/2101.06107)
 - [A Guide to Writing Mathematics](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf) ([HN](https://news.ycombinator.com/item?id=26520971))
+- [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html) ([HN](https://news.ycombinator.com/item?id=26524876))
