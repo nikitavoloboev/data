@@ -190,3 +190,4 @@
 - [How and when to use Lazy Collections in Swift (2021)](https://www.avanderlee.com/swift/lazy-collections-arrays/)
 - [Workspace](https://github.com/SDGGiesbrecht/Workspace) - Automated Management of Swift Projects.
 - [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md) ([HN](https://news.ycombinator.com/item?id=26480922))
+- [The Swift Array Design](https://github.com/apple/swift/blob/main/docs/Arrays.rst) ([Lobsters](https://lobste.rs/s/iwm0e5/swift_array_design))

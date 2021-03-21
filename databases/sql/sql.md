@@ -99,3 +99,4 @@
 - [Advanced SQL Questions From Amazon (2021)](https://www.youtube.com/watch?v=VYeevsVj4fU)
 - [Streaming SQL: What is it, why is it useful? (2021)](https://materialize.com/streaming-sql-intro/)
 - [Steampipe](https://steampipe.io/) - Extensible SQL interface to your favorite cloud APIs. ([Code](https://github.com/turbot/steampipe))
+- [Speeding up SQL queries by orders of magnitude using UNION (2021)](https://www.foxhound.systems/blog/sql-performance-with-union/)
