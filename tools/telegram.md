@@ -77,3 +77,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Write yourself a Telegram bookstore bot in Haskell (2017)](http://mylifeecho.com/dev/telegram-bot-tutorial/)
 - [Telegram Bugs and Suggestions](https://bugs.telegram.org/)
 - [A Telegram bot in Elixir featuring LiveView (2021)](https://underjord.io/a-telegram-bot-in-elixir.html)
+- [tg-archive](https://github.com/knadh/tg-archive) - Tool for exporting Telegram group chats into static websites, preserving chat history like mailing list archives.

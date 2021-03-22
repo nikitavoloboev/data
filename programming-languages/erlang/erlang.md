@@ -75,3 +75,4 @@
 - [Erlang Dead Code Cleaner](https://github.com/AdRoll/rebar3_hank) ([Article](https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html))
 - [Poolboy](https://github.com/devinus/poolboy) - Hunky Erlang worker pool factory.
 - [Gproc](https://github.com/uwiger/gproc) - Extended process registry for Erlang.
+- [A few notes on message passing (2021)](http://blog.erlang.org/message-passing/) ([HN](https://news.ycombinator.com/item?id=26514476))

@@ -75,3 +75,4 @@
 - [O RLY Books](https://twitter.com/zenorocha/status/1370794052497465345)
 - [Tim Minchin | "If I Didn't Have You"](https://www.youtube.com/watch?v=UEyJnwPIr4Q)
 - [That Scene in a Christopher Nolan Film When You Give Up Trying to Follow the Story (2021)](https://www.youtube.com/watch?v=s2FXfFeRtJo)
+- [Ancient Egypt, summarised](https://twitter.com/CSMFHT/status/1333344550866231302)
