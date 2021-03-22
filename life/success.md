@@ -20,6 +20,7 @@ Success comes from not giving up and doing what you love.
 - [What we find enjoyable at a certain intensity, duration, and frequency, we can totally hate at a different intensity, duration, and frequency. And vice versa.](https://twitter.com/dvassallo/status/1371714990642581510)
 - [Talk to your customers and keep building stuff! The simplest way to figure out what to build is just to ask people what would help them.](https://twitter.com/stephzhan/status/1372251683879751683)
 - [Convinced 95% of being successful is just finding people you vibe with.](https://twitter.com/lisawehden/status/1372037806734807040?s=28)
+- [My job is to remove myself from the critical path.](https://twitter.com/rakyll/status/1374082005453840386)
 
 ## Links
 

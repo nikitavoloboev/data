@@ -216,3 +216,4 @@
 - [Techniques for Reducing Overfitting (2021)](https://www.youtube.com/watch?v=KOBmBjlMVAE) ([Tweet](https://twitter.com/rasbt/status/1369045968738476035))
 - [Accelerating Neural Networks on Mobile and Web with Sparse Inference (2021)](https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html)
 - [Quantization for Neural Networks (2020)](https://leimao.github.io/article/Neural-Networks-Quantization/)
+- [Introduction to Automatic Hyperparameter Tuning](https://www.neuraxle.org/stable/hyperparameter_tuning.html)

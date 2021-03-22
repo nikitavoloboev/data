@@ -442,3 +442,4 @@ Go promotes composition over inheritance.
 - [Goroutines Are Not Significantly Lighter Than Threads (2021)](https://matklad.github.io//2021/03/12/goroutines-are-not-significantly-smaller-than-threads.html) ([Lobsters](https://lobste.rs/s/wxdvlr/goroutines_are_not_significantly))
 - [netaddr.IP: a new IP address type for Go (2021)](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 - [Go Interface Examples](https://github.com/Evertras/go-interface-examples) - Examples of using Go interfaces to make cleaner, more testable code.
+- [Darker Corners of Go (2021)](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) ([Lobsters](https://lobste.rs/s/cbjhdi/darker_corners_go))
