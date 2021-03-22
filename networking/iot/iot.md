@@ -63,3 +63,4 @@
 - [AI on the edge device](https://github.com/jomjol/AI-on-the-edge-device) - Example of Artificial Intelligence (AI) calculations on a very cheap hardware.
 - [Ockam](https://github.com/ockam-network/ockam) - End-to-end encrypted messaging and mutual authentication between cloud services and edge devices. ([Web](https://www.ockam.io/))
 - [Inside SimpliSafe Alarm System (2021)](https://medium.com/tenable-techblog/inside-simplisafe-alarm-system-291a8c3e4d89)
+- [The S in IoT is for Security](https://puri.sm/posts/the-s-in-iot-is-for-security/) ([HN](https://news.ycombinator.com/item?id=26540007))

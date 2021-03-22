@@ -88,3 +88,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [On the Experience of Being Poor-Ish, for People Who Aren't (2021)](https://residentcontrarian.substack.com/p/on-the-experience-of-being-poor-ish) ([HN](https://news.ycombinator.com/item?id=26300139))
 - [The Joy of Fuck-You Money (2018)](https://thedeepdish.org/fuck-you-money/) ([HN](https://news.ycombinator.com/item?id=26426915))
 - [Good basic couple finance courses/books (2021)](https://twitter.com/kylemathews/status/1371290275478302721)
+- [Early-Retirement Update (2021)](https://livingafi.com/2021/03/17/the-2021-early-retirement-update/) ([HN](https://news.ycombinator.com/item?id=26543527))

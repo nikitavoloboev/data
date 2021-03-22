@@ -105,6 +105,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcasts in Russian](https://russiancast.club/)
 - [Collection of Podcasts for Developers](https://devandgear.com/posts/collection-podcasts-for-developers/)
 - [The 50 Best Podcasts of 2020](https://www.theatlantic.com/culture/archive/2020/12/50-best-podcasts-2020/617486/)
+- [Podcasts that'll take me on a journey, any genre, fiction or non fiction](https://www.reddit.com/r/podcasts/comments/majoje/podcasts_thatll_take_me_on_a_journey_any_genre/)
 
 ## Notes
 

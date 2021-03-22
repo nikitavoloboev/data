@@ -211,3 +211,4 @@
 - [What made React's context click for you?](https://twitter.com/rachelnabors/status/1372265369352740866)
 - [Building a Modern React App from Scratch in 2021](https://github.com/yakkomajuri/react-from-scratch)
 - [The Perils of Rehydration: An Eye-Opening Realization about Gatsby and React](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
+- [SimpleR State](https://github.com/arnelenero/simpler-state) - Simplest app state management for React. ([HN](https://news.ycombinator.com/item?id=26525526))

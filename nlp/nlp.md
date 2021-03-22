@@ -182,7 +182,7 @@
 - [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://github.com/yaohungt/Multimodal-Transformer) - In PyTorch.
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) (2020)](http://jalammar.github.io/illustrated-gpt2/)
 - [A Primer in BERTology: What we know about how BERT works (2020)](https://arxiv.org/abs/2002.12327) ([HN](https://news.ycombinator.com/item?id=25043280))
-- [GPT Neo](https://github.com/EleutherAI/GPTNeo) - Implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.
+- [GPT Neo](https://github.com/EleutherAI/gpt-neo/) - Open-source GPT model, with pretrained 1.3B & 2.7B weight models. ([HN](https://news.ycombinator.com/item?id=26534000))
 - [Text Synth](https://bellard.org/textsynth/) - Text completion using the GPT-2 language model.
 - [How to Go from NLP in 1 Language to NLP in N Languages in One Shot (2020)](https://x.ai/how-to-go-from-nlp-in-1-language-to-nlp-in-n-languages-in-one-shot/)
 - [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) - Family of topic models that use pre-trained representations of language (e.g., BERT) to support topic modeling.

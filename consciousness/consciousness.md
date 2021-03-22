@@ -54,3 +54,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [What Is Consciousness For? (2021)](https://durmonski.com/lay-summaries/what-is-consciousness-for/)
 - [Consciousness Is Just a Feeling (2021)](https://nautil.us/issue/98/mind/consciousness-is-just-a-feeling) ([HN](https://news.ycombinator.com/item?id=26343571))
 - [Is Consciousness Everywhere? (2021)](https://thereader.mitpress.mit.edu/is-consciousness-everywhere/)
+- [What is consciousness? Some new perspectives from our physics project (2021)](https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/) ([HN](https://news.ycombinator.com/item?id=26544651))
