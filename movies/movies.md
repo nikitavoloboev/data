@@ -37,3 +37,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Heat: The Perfect Blend of Realism and Style](https://www.youtube.com/watch?v=VMLej6hFN30)
 - [Modern action films fetishize the body even as they desexualize it (2021)](https://bloodknife.com/everyone-beautiful-no-one-horny/) ([HN](https://news.ycombinator.com/item?id=26381377))
 - [What’s the last 10/10 movie you’ve seen? (2021)](https://twitter.com/patrick_oshag/status/1372709320832512006)
+- [Akira Kurosawa’s List of His 100 Favorite Movies (2015)](https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html) ([HN](https://news.ycombinator.com/item?id=26551604))
