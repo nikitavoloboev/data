@@ -47,3 +47,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) ([Lobsters](https://lobste.rs/s/nvxhdz/implementing_regular_expressions))
 - [Avoid RegEx (2021)](https://robinwinslow.uk/how-to-regex#avoid-coding-in-regex-if-you-can)
 - [RegEx Pal](https://www.regexpal.com/) - Test your regular expressions quickly.
+- [Regular expression compilation visualized](https://compiler.org/reason-re-nfa/src/index.html) ([HN](https://news.ycombinator.com/item?id=26537734))
