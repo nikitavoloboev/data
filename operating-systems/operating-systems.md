@@ -204,3 +204,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series)
 - [Rust VM](https://github.com/atul-g/rust_vm) - Virtual Machine written in Rust to emulate the LC3 computer (Little Computer 3).
 - [What are Ring 0 and Ring 3 in the context of operating systems?](https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems)
+- [User mode VS Kernel mode (2017)](https://medium.com/@SagiDana/kernel-mode-vs-user-mode-784a5b1f4911)

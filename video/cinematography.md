@@ -15,3 +15,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [The Cinematography That Changed Cinema (2020)](https://www.youtube.com/watch?v=_XiqTYvq-W0)
 - [The Hollywood Tech Tricks Getting Film Crews Back On Set (2021)](https://www.wired.com/story/hollywood-covid-19-filmmaking-tech/)
 - [A Drone’s Eye View of a Bowling Alley](https://kottke.org/21/03/a-drones-eye-view-of-a-bowling-alley)
+- [The Director Who Mastered The Art of Filming Faces (2021)](https://www.youtube.com/watch?v=IK4KO0E5Ze0)
