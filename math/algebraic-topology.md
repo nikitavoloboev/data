@@ -9,3 +9,4 @@
 - [Interview with Inna Zakharevich (2021)](https://www.youtube.com/watch?v=E4SYGwd22iM)
 - [Algebraic K-theory, combinatorial K-theory and geometry - Inna Zakharevich (2018)](https://www.youtube.com/watch?v=wEz7fCvK6sM)
 - [You Could Have Invented Homology (2021)](https://www.youtube.com/playlist?list=PLcaesJ30fdQ_qyizYsFvlm9LkJvj2CxxU)
+- [Computational Algebraic Topology Lecture Notes](http://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf)

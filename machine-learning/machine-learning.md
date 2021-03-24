@@ -431,3 +431,4 @@
 - [Testing Machine Learning Systems: Code, Data and Models](https://madewithml.com/courses/applied-ml/testing/) ([Tweet](https://twitter.com/GokuMohandas/status/1369261247993176066))
 - [Finding Mona Lisa in the Game of Life (2021)](https://avinayak.github.io/algorithms/programming/2021/02/19/finding-mona-lisa-in-the-game-of-life.html) ([HN](https://news.ycombinator.com/item?id=26384403))
 - [Geometric deep learning, from Euclid to drug design (2021)](https://www.youtube.com/watch?v=8IwJtFNXr1U&t=210s) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/m8ewph/geometric_foundations_of_deep_learning_research/))
+- [GeoGuessing with Deep Learning (2021)](https://healeycodes.com/geoguessing-with-deep-learning/)

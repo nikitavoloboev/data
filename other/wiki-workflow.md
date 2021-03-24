@@ -322,3 +322,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [em](https://github.com/cybersemics/em) - Beautiful, minimalistic note-taking app for personal sensemaking.
 - [Notemarks](https://notemarks.app/) - Git based labeling app to manage notes, documents, and bookmarks. ([Code](https://github.com/notemarks/notemarks))
 - [Method for maximizing the value of networked note-taking systems, using Obsidian (2021)](https://www.quora.com/q/tophersblog/The-connection-between-Zettelkasten-and-systems-theory-is-a-vital-one-to-consider-In-line-with-August-Bradleys-insigh)
+- [Deconstructing digital gardens (2020)](https://vivqu.com/blog/2020/10/18/digital-gardens/)
