@@ -191,3 +191,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Express Typescript Boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - Delightful way to building a RESTful API with NodeJs & TypeScript.
 - [Bytenode](https://github.com/OsamaAbbas/bytenode) - Minimalist bytecode compiler for Node.js.
 - [rools](https://github.com/frankthelen/rools) - Small rule engine for Node.
+- [I finally escaped Node (and you can too) (2021)](https://acco.io/i-escaped-node) ([Lobsters](https://lobste.rs/s/eaaxsb/i_finally_escaped_node_you_can_too))
