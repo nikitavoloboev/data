@@ -444,3 +444,4 @@ Go promotes composition over inheritance.
 - [Go Interface Examples](https://github.com/Evertras/go-interface-examples) - Examples of using Go interfaces to make cleaner, more testable code.
 - [Darker Corners of Go (2021)](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) ([Lobsters](https://lobste.rs/s/cbjhdi/darker_corners_go)) ([HN](https://news.ycombinator.com/item?id=26550685))
 - [The ecosystem of the Go programming language (2021)](https://henvic.dev/posts/go/) ([HN](https://news.ycombinator.com/item?id=26540121))
+- [Practical Go Lessons Book](https://www.practical-go-lessons.com/)

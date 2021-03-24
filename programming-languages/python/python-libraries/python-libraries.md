@@ -85,6 +85,7 @@
 - [yoyo-migrations](https://pypi.org/project/yoyo-migrations/) - Database schema migration tool. Database migrations can be written as SQL files or Python scripts.
 - [PyPika](https://github.com/kayak/pypika) - Python API for building SQL queries. Excels at all sorts of SQL queries but is especially useful for data analysis.
 - [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - Easy-to-use asyncio ORM inspired by Django.
+- [Vinum](https://github.com/dmitrykoval/vinum) - SQL query processor for Python, designed for data analysis workflows and in-memory analytics.
 
 ## GUI
 

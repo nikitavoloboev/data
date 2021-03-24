@@ -45,3 +45,4 @@
 - [How Wix improved website performance by evolving their infrastructure (2021)](https://web.dev/wix/)
 - [Cобеседование Junior Frontend разработчика (2021)](https://www.youtube.com/watch?v=25lCunO6yDQ)
 - [Front-End Developer Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
+- [A Complete Guide To Accessible Front-End Components (2021)](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)

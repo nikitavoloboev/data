@@ -1,5 +1,9 @@
 # Clothes
 
+## Interesting
+
+- [Cat Cardigan](https://www.etsy.com/listing/855368476/cat-cardigan-vintage-christine-foley)
+
 ## Collections
 
 - [She rises at Dusk (2020)](https://www.hassidriss.com/aw20-she-rises-at-dusk)
