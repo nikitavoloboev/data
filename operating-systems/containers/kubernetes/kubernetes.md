@@ -347,3 +347,4 @@
 - [Jetstack Preflight](https://github.com/jetstack/preflight) - Automatically perform Kubernetes cluster configuration checks using Open Policy Agent (OPA).
 - [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes.
 - [Exploring Kubernetes Operator Pattern (2021)](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)
+- [kube-fledged](https://github.com/senthilrch/kube-fledged) - Kubernetes add-on for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster.
