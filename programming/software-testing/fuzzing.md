@@ -41,3 +41,4 @@
 - [Fuzz me wrong – How QuickCheck destroyed my favorite theory](https://thma.github.io/posts/2021-01-30-How-QuickCheck-destroyed-my-favourite-theory.html) ([HN](https://news.ycombinator.com/item?id=26112441))
 - [Fuzzing Forum](https://github.com/google/fuzzing) - Tutorials, examples, discussions, research proposals, and other resources related to fuzzing.
 - [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer.
+- [Lessons from Fuzzing a Compiler for a Year (2021)](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)

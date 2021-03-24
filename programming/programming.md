@@ -358,3 +358,4 @@
 - [Staying out of TTL hell (2021)](http://calpaterson.com/ttl-hell.html)
 - [Why Programmers Should(n't) Learn Theory (2021)](http://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
 - [Principles of Developer Experience (2021)](https://cpojer.net/posts/principles-of-devx)
+- [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
