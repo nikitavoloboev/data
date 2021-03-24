@@ -115,3 +115,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [BlockCypher](https://live.blockcypher.com/) - Block Explorer for Bitcoin, Ethereum, Litecoin and More. ([Code](https://github.com/blockcypher/explorer))
 - [Illegal content and the blockchain (2021)](https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html) ([Lobsters](https://lobste.rs/s/yl20qv/illegal_content_blockchain))
 - [How NFT's actually reference the media you're "buying" (2021)](https://twitter.com/samecwilliams/status/1372295148516864002)
+- [What Does It Mean To Buy a Gif? (2021)](https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html)

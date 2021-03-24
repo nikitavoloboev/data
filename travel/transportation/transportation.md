@@ -16,3 +16,4 @@
 - [Ark 1](https://www.lot2046.com/ark-1) ([HN](https://news.ycombinator.com/item?id=26148865))
 - [Archer](https://archer.com/) - Accelerate the benefits of sustainable air mobility.
 - [H3X](https://www.h3x.tech/) - Electric Aircraft Propulsion. ([HN](https://news.ycombinator.com/item?id=26224709))
+- [VesselFinder](https://www.vesselfinder.com/) - Free AIS Ship Tracking of Marine Traffic.

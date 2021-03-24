@@ -52,3 +52,4 @@
 - [Accessibility Guidelines "Silver"](https://w3c.github.io/silver/) ([Code](https://github.com/w3c/silver))
 - [Building greater accessibility into Facebook.com (2020)](https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/?sf242103664=1)
 - [Web Content Accessibility Guidelines](https://w3c.github.io/wcag/guidelines/) ([Code](https://github.com/w3c/wcag))
+- [A Beginner’s Guide To Web Accessibility (2021)](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
