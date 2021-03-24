@@ -177,3 +177,4 @@
 - [Self-Supervised Learning - Yann LeCun (2019)](https://www.youtube.com/watch?v=SaJL4SLfrcY&t=2532s)
 - [Reinforcement Learning: Introduction by Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [Debugging Reinforcement Learning Systems (2021)](https://andyljones.com/posts/rl-debugging.html)
+- [Mastering Real-Time Strategy Games with Deep Reinforcement Learning: Mere Mortal Edition (2021)](https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/)

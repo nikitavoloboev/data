@@ -15,3 +15,4 @@
 - [Talking out loud to yourself is a technology for thinking (2020)](https://psyche.co/ideas/talking-out-loud-to-yourself-is-a-technology-for-thinking)
 - [Lorien Psychiatry](https://lorienpsych.com/) - Psychiatry practice by Scott Siskind.
 - [Humans are imitation machines](https://twitter.com/david_perell/status/1365445813644783617)
+- [Book Review: Antifragile (2021)](https://astralcodexten.substack.com/p/book-review-antifragile) ([HN](https://news.ycombinator.com/item?id=26561327))
