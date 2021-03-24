@@ -92,3 +92,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Почему русская деревня голосует за Путина (2020)](https://www.youtube.com/watch?v=37YTRWThCK8)
 - [Кино в Севкабеле](https://www.youtube.com/watch?v=N83PSvdSYBI)
 - [Вот почему люди хотят «назад в СССР»](https://mirovich.media/657703.html)
+- [Lurkmore](https://lurkmore.to/)

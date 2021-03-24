@@ -80,3 +80,4 @@
 - [TensorFlow Lite Support](https://github.com/tensorflow/tflite-support) - Toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
 - [HN: Swift for TensorFlow Shuts Down (2021)](https://news.ycombinator.com/item?id=26117453) ([Lobsters](https://lobste.rs/s/fcnkvu/tensorflow_for_swift_has_been_deprecated))
 - [Tensorflow on open source GPUs (2020)](https://www.youtube.com/watch?v=KfDQb6xOkXg)
+- [PalletML](https://palletml.com/) - Deploy your TensorFlow models to mobile. Instantly. ([HN](https://news.ycombinator.com/item?id=26566817))

@@ -19,3 +19,4 @@
 - [fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator & testing library.
 - [Terraform Google GKE Cluster](https://github.com/jetstack/terraform-google-gke-cluster) - Terraform module to create a best-practice Google Kubernetes Engine (GKE) cluster.
 - [Building a high-scale chat server on Cloud Run (2021)](https://ahmet.im/blog/cloud-run-chat-server/) ([HN](https://news.ycombinator.com/item?id=26406206))
+- [Compare AWS and Azure Services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison) ([HN](https://news.ycombinator.com/item?id=26562230))

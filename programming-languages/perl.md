@@ -28,3 +28,4 @@
 - [The Course of Raku](https://www.i-programmer.info/news/222-perl/14364-the-course-of-raku.html)
 - [Roles as Algebraic Data Types in Raku (2020)](https://wimvanderbauwhede.github.io/articles/roles-as-adts-in-raku/)
 - [Perl Cheat Sheet](https://juerd.nl/site.plp/perlcheat)
+- [The Future of Perl (2021)](https://perl.topicbox.com/groups/perl-core/T4bad780270b6eec5-Mda5ea1e37bdfe5d7b37f443c) ([HN](https://news.ycombinator.com/item?id=26565155))
