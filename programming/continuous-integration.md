@@ -43,3 +43,4 @@
 - [ProgressiveDeliveryConf 2021](https://progressivedeliveryconf21.heysummit.com/) - Learn how to go beyond CI/CD.
 - [The Tao of Continuous Integration (2021)](https://blog.trailofbits.com/2021/02/26/the-tao-of-continuous-integration/)
 - [Speeding up Docker builds in CI with BuildKit (2021)](https://pythonspeed.com/articles/speeding-up-docker-ci/)
+- [Continuous Integration With Interactive Notebooks](https://nextjournal.com/blog/ci)

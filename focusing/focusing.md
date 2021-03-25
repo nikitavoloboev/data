@@ -62,3 +62,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [9 tips on how to spend time effectively & efficiently (2021)](https://twitter.com/m_franceschetti/status/1355202318803861504)
 - [Me and ADHD (2020)](https://www.linkedin.com/pulse/adhd-me-ish-verduzco/) ([HN](https://news.ycombinator.com/item?id=25992390))
 - [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
+- [Phones and apps reduce your ability to focus even when they don’t distract you (2021)](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you) ([HN](https://news.ycombinator.com/item?id=26582729))

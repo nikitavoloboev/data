@@ -57,3 +57,4 @@
 - [A single cell slime mold makes decisions without a central nervous system](https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/) ([HN](https://news.ycombinator.com/item?id=26285926))
 - [How many mutations does the average human have, if <1 what % of people have at least 1 mutation present? (2021)](https://www.reddit.com/r/askscience/comments/lxhyi3/how_many_mutations_does_the_average_human_have_if/)
 - [Human Body 2.0 Project](https://newhumanbody.com/) - Idea that every part of the body should be easily replaceable in case something goes wrong.
+- [The Database of Useful Biological Numbers](https://bionumbers.hms.harvard.edu/search.aspx) ([HN](https://news.ycombinator.com/item?id=26576173))

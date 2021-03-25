@@ -143,3 +143,4 @@
 - [Aro](https://github.com/Vexu/arocc) - C compiler written in Zig.
 - [Half of curl’s vulnerabilities are C mistakes (2021)](https://daniel.haxx.se/blog/2021/03/09/half-of-curls-vulnerabilities-are-c-mistakes/) ([Lobsters](https://lobste.rs/s/3efzcx/half_curl_s_vulnerabilities_are_c)) ([HN](https://news.ycombinator.com/item?id=26396323))
 - [C's removal of `gets` could have been done better (2021)](https://quuxplusone.github.io/blog/2021/03/12/gets-considered-harmful-duh/)
+- [Compile times, and why "the obvious" might not be so (2021)](https://rachelbythebay.com/w/2021/03/24/comp/) ([Lobsters](https://lobste.rs/s/ounjyq/compile_times_why_obvious_might_not_be_so))

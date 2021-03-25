@@ -359,3 +359,4 @@
 - [Why Programmers Should(n't) Learn Theory (2021)](http://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)
 - [Principles of Developer Experience (2021)](https://cpojer.net/posts/principles-of-devx)
 - [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
+- [Fundamentals of Optimal Code Style](https://optimal-codestyle.github.io/) ([Lobsters](https://lobste.rs/s/g145c1/fundamentals_optimal_code_style))

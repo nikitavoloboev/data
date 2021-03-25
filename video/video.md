@@ -205,3 +205,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Video Literature](https://github.com/VideoForage/Video-Lit) - Systems and Networking related Video research published in major venues of Computer Science.
 - [Ask HN: What home security camera setup do you use? (2021)](https://news.ycombinator.com/item?id=26543233)
 - [Automatic Video Editing (2021)](https://tratt.net/laurie/blog/entries/automatic_video_editing.html) ([Lobsters](https://lobste.rs/s/amn5pk/automatic_video_editing))
+- [Free Video Converter Online](https://vidds.co/free-video-converter/) - WebAssembly and ffmpeg = Quick clip, overlay, resize and GIF-ize videos. ([HN](https://news.ycombinator.com/item?id=26580333))

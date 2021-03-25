@@ -270,3 +270,4 @@
 - [ghc-lib](https://github.com/digital-asset/ghc-lib) - GHC API, decoupled from GHC versions.
 - [Algebraic Graphs with Class (2017)](https://eprint.ncl.ac.uk/file_store/production/239461/EF82F5FE-66E3-4F64-A1AC-A366D1961738.pdf) ([Lobsters](https://lobste.rs/s/kiqwsk/algebraic_graphs_with_class))
 - [Haskell in Depth (2021)](https://www.manning.com/books/haskell-in-depth) ([Code](https://github.com/bravit/hid-examples))
+- [An introduction to typeclass metaprogramming (2021)](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)

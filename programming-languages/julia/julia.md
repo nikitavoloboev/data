@@ -75,3 +75,4 @@
 - [YASGuide](https://github.com/jrevels/YASGuide) - Yet Another Style Guide For Julia.
 - [Building a constraint programming solver in Julia (2019)](https://opensourc.es/blog/constraint-solver-1/)
 - [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
+- [Julia 1.6 Highlights (2021)](https://julialang.org/blog/2021/03/julia-1.6-highlights/) ([HN](https://news.ycombinator.com/item?id=26580926))
