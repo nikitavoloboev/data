@@ -50,3 +50,4 @@
 - [Choosing Java instead of C++ for low-latency systems (2021)](https://stackoverflow.blog/2021/02/22/choosing-java-instead-of-c-for-low-latency-systems/) ([HN](https://news.ycombinator.com/item?id=26225273))
 - [Java 16 (2021)](http://jdk.java.net/16/) ([HN](https://news.ycombinator.com/item?id=26477144))
 - [The Modern Java Platform – 2021 Edition](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/) ([HN](https://news.ycombinator.com/item?id=26485993))
+- [ZGC – What's new in JDK 16 (2021)](https://malloc.se/blog/zgc-jdk16) ([HN](https://news.ycombinator.com/item?id=26555514))

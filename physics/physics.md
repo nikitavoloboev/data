@@ -188,3 +188,4 @@
 - [Why Lagrangian Mechanics is Better than Newtonian Mechanics F=ma | Euler-Lagrange Equation (2021)](https://www.youtube.com/watch?v=KpLno70oYHE)
 - [Incoherent light sources (like a lightbulb) can actually be coherent at very small timescales](https://twitter.com/bencbartlett/status/1369396941730312193)
 - [Poster summarizing the standard model of particle physics (2021)](https://twitter.com/DominicWalliman/status/1370044170274938886)
+- [Alternative interpretations of classical physics (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062107) ([HN](https://news.ycombinator.com/item?id=26552942))

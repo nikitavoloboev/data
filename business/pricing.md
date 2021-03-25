@@ -50,3 +50,4 @@
 - [Corrily](https://www.corrily.com/) - Price Optimization for SaaS. ([HN](https://news.ycombinator.com/item?id=26302217))
 - [SaaS billing build vs. buy (2021)](https://blog.billflow.io/saas-billing-build-vs-buy/)
 - [Adding tooltips on each item in the pricing table](https://twitter.com/damengchen/status/1366505122772054016)
+- [How to price your SaaS product](https://www.lennysnewsletter.com/p/saas-pricing-strategy) ([HN](https://news.ycombinator.com/item?id=26553639))
