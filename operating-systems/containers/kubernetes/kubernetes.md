@@ -348,3 +348,4 @@
 - [Argo Rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes.
 - [Exploring Kubernetes Operator Pattern (2021)](https://iximiuz.com/en/posts/kubernetes-operator-pattern/)
 - [kube-fledged](https://github.com/senthilrch/kube-fledged) - Kubernetes add-on for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster.
+- [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security)
