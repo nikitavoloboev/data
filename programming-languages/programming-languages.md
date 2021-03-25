@@ -183,3 +183,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [I don't want to learn your query language (2018)](https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html) ([HN](https://news.ycombinator.com/item?id=26410047))
 - [Lobsters: What's your experience been writing language tools? (2021)](https://lobste.rs/s/qjrgq4/what_s_your_experience_been_writing)
 - [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust (2021)](https://benhoyt.com/writings/count-words/) ([HN](https://news.ycombinator.com/item?id=26463967)) ([Lobsters](https://lobste.rs/s/3byl7t/performance_comparison_counting_words))
+- [What Programming Language Would Yoko Ono Create? (2021)](https://esoteric.codes/blog/what-programming-language-would-yoko-ono-write)
+- [20 Intriguing, Unusual, and Goofy Programming Languages (2019)](https://dev.to/awwsmm/20-intriguing-unusual-and-goofy-programming-languages-238f)
