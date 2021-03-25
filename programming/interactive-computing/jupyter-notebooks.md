@@ -18,7 +18,7 @@
 - [GitPlus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests.
 - [Elyra](https://github.com/elyra-ai/elyra) - Set of AI-centric extensions to JupyterLab Notebooks. ([Docs](https://elyra.readthedocs.io/))
 - [jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - JupyterLab extension for standalone integration of drawio / mxgraph into jupyterlab.
-- [pigeon](https://github.com/agermanidis/pigeon) - Quickly annotate data on Jupyter.
+- [PigeonXT](https://github.com/dennisbakhuis/pigeonXT) - Quickly annotate data in Jupyter Lab.
 - [JupyterLab Commenting and Annotation](https://github.com/jupyterlab/jupyterlab-commenting)
 - [JupyterLab File Tree](https://github.com/youngthejames/jupyterlab_filetree)
 - [ILua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter.

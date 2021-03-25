@@ -272,7 +272,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Getting Started with Core Bluetooth (2020)](https://ditto.live/blog/posts/getting-started-with-core-bluetooth)
 - [E.gg](https://e.gg/) - Creative app.
 - [NASA Systems Engineering Handbook](https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook)
-- [Storj](https://storj.io/) - Decentralized Cloud Storage.
+- [Storj](https://storj.io/) - Decentralized Cloud Storage. ([Code](https://github.com/storj/storj))
 - [Block Party](https://www.blockpartyapp.com/) - Consumer app to solve online harassment and put you back in control.
 - [Product Club](https://chalkapp.com/productclub) - Community for product people and investors.
 - [Anduril](https://www.anduril.com/)

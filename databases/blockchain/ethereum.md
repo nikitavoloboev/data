@@ -181,3 +181,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Expedition](https://expedition.dev/) - Block explorer for the Ethereum stack. ([Code](https://github.com/xops/expedition))
 - [Sourcify](https://github.com/ethereum/sourcify) - Solidity re-compiler that can be used to verify that bytecode corresponds to certain source code.
 - [Wormhole](https://github.com/certusone/wormhole) - ETH <-> SOL <-> Terra token bridge developed by Certus One.
+- [MetaMask Browser Extension](https://metamask.io/) - Enables browsing Ethereum blockchain enabled websites. ([Code](https://github.com/MetaMask/metamask-extension))
