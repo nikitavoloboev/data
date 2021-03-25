@@ -16,3 +16,4 @@
 - [John Ioannidis research](https://profiles.stanford.edu/john-ioannidis) - Professor of medicine and epidemiology.
 - [Our amazing immune system (2020)](https://berthub.eu/articles/posts/immune-system/) ([HN](https://news.ycombinator.com/item?id=25168744))
 - [Making Vaccine (2021)](https://www.lesswrong.com/posts/niQ3heWwF6SydhS7R/making-vaccine) ([HN](https://news.ycombinator.com/item?id=26022750))
+- [The molecular assembly of the marsupial γμ T cell receptor defines a third T cell lineage (2021)](https://science.sciencemag.org/content/371/6536/1383)

@@ -8,6 +8,7 @@
 - [So much of good management is so simple: recognizing when your people need a challenge vs. when they need help.](https://twitter.com/jenistyping/status/1277466746400563200)
 - [Review of Ted Lasso show and Ted's focus on making everyone in the team being the best version of themselves.](https://twitter.com/_danilo/status/1304811249499283456)
 - [Do you need to estimate the shit that needs to be done? No! It all needs to be done. The dev team will do it as fast as they can. Estimating the work will only waste time they could spend getting the shit done.](http://slap.pm/)
+- [It’s taken me years to realise I do not aspire to manage, only to mentor.](https://twitter.com/AlexJonesax/status/1374619459101544451)
 
 ## Links
 

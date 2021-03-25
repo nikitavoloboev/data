@@ -39,3 +39,4 @@
 - [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) - Offers a vendor-agnostic implementation on how to receive, process and export telemetry data.
 - [Data Logging: Sampling versus Profiling (2020)](https://whylabs.ai/blog/posts/data-logging-sampling-versus-profiling)
 - [Stuff Your Logs (2021)](https://pvk.ca/Blog/2021/01/11/stuff-your-logs/) ([HN](https://news.ycombinator.com/item?id=26510530))
+- [How GitHub Actions renders large-scale logs (2021)](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/)
