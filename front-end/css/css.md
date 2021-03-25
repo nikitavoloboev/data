@@ -279,3 +279,4 @@
 - [Charts.css](https://chartscss.org/) - CSS data visualization framework. ([HN](https://news.ycombinator.com/item?id=26494819)) ([Code](https://github.com/ChartsCSS/charts.css))
 - [Creating Directionally Lit 3D Buttons with CSS (2021)](https://dev.to/jh3y/creating-directionally-lit-3d-buttons-with-css-2jc2)
 - [Smooth Shadow](https://shadows.brumm.af/) - Make a smooth shadow.
+- [Not Your Typical Horizontal Rules (2021)](https://www.sarasoueidan.com/blog/horizontal-rules/)

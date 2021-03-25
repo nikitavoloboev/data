@@ -429,3 +429,4 @@
 - [Building a shared vision for Async Rust (2021)](https://blog.rust-lang.org/2021/03/18/async-vision-doc.html) ([Lobsters](https://lobste.rs/s/gziwe9/building_shared_vision_for_async_rust)) ([HN](https://news.ycombinator.com/item?id=26503809))
 - [Safe Systems Programming in Rust (2021)](https://cacm.acm.org/magazines/2021/4/251364-safe-systems-programming-in-rust/fulltext)
 - [How to execute shellcodes from memory in Rust (2021)](https://kerkour.com/blog/rust-execute-from-memory/)
+- [Fireflowers - The Rust Programming Language, in the words of its practitioners](https://brson.github.io/fireflowers/)
