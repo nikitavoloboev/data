@@ -137,3 +137,4 @@
 - [Computing gradients on grids of pixels and voxels – forward, central, and… diagonal differences (2021)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
 - [It's raymarching march (2021)](https://ch-st.de/its-ray-marching-march/)
 - [Fitting cubic Bézier curves (2021)](https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html)
+- [PlenOctrees for Real-time Rendering of Neural Radiance Fields](http://alexyu.net/plenoctrees/) ([Code](https://github.com/sxyu/volrend)) ([HN](https://news.ycombinator.com/item?id=26597419)) ([Talk](https://www.youtube.com/watch?v=LRAqeM8EjOo))
