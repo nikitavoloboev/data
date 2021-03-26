@@ -267,6 +267,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Julien Gauthier's dystopian, post–global-warming Bangkok](https://twitter.com/FedeItaliano76/status/1296827295806758912)
 - [Anna Niess Tumblr](https://glerpie.tumblr.com/)
 - [3D pic of paint 'Girl with Pearl Earring' with 10Bs of pixels](https://www.micro-pano.com/pearl/)
+- [The Beautiful Drawings of Richard Feynman](https://abakcus.com/the-beautiful-drawings-of-richard-feynman/)
 
 ## Photography
 

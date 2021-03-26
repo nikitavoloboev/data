@@ -88,3 +88,4 @@
 - [Automatio](https://automatio.co/) - No-code Web Automation Tool. Automation Tool to Extract Data From Any Website.
 - [Scaling up a Serverless Web Crawler and Search Engine (2021)](https://aws.amazon.com/blogs/architecture/scaling-up-a-serverless-web-crawler-and-search-engine/)
 - [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - List of of HTTP user-agents used by robots, crawlers, and spiders as in single JSON file.
+- [ant](https://github.com/yields/ant) - Web crawler for Go.
