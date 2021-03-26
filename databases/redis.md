@@ -52,3 +52,4 @@
 - [Querying, Indexing, and Full-Text Search Course](https://university.redislabs.com/courses/ru203/) - Covers RediSearch, the in-memory query, index, and search engine for Redis.
 - [Awesome Redis](https://github.com/JamzyWang/awesome-redis)
 - [Using Redis as an LRU cache](https://redis.io/topics/lru-cache)
+- [Using Serverless Redis with Next.js (2021)](https://www.youtube.com/watch?v=FytxaSVQROc)
