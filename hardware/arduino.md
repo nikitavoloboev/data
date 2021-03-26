@@ -24,3 +24,4 @@
 - [Arduino Tools extension for VS Code](https://github.com/arduino/vscode-arduino-tools)
 - [What is like Arduino but more powerful? (2021)](https://www.reddit.com/r/embedded/comments/ly1pkl/what_is_like_arduino_but_more_powerful/)
 - [Why I don’t ‘do’ Arduino (2021)](http://www.mattmillman.com/why-i-dont-do-arduino/) ([Lobsters](https://lobste.rs/s/x0jdod/why_i_don_t_do_arduino))
+- [ArduinoFake](https://github.com/FabioBatSilva/ArduinoFake) - Arduino mocking made easy.

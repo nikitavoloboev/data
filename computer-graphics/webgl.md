@@ -53,3 +53,5 @@
 - [High-level WebGL. Low-level tags. (2021)](https://hugodaniel.com/posts/high-level-webgl-low-level-tags/)
 - [WebGL State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - Visual representation of most of WebGL's internal state.
 - [Infinite grid with just one square (2021)](https://hugodaniel.com/posts/infinite-grid-with-just-one-square/)
+- [SpectorJS](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease. ([Web](https://spector.babylonjs.com/))
+- [luma.gl](https://luma.gl/) - High-performance toolkit for WebGL-based data visualization. ([Code](https://github.com/visgl/luma.gl))
