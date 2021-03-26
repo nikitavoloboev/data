@@ -38,3 +38,4 @@
 - [Contrasting Kafka with Akka (2021)](https://medium.com/swlh/contrasting-kafka-with-akka-ab445eed2165)
 - [Kafka Lag Exporter](https://github.com/lightbend/kafka-lag-exporter) - Monitor Kafka Consumer Group Latency with Kafka Lag Exporter.
 - [Awesome Open-Source Contribs for Apache Kafka](https://github.com/streamthoughts/awesome-opensource-contribs-kafka)
+- [kafka-serde](https://github.com/DataDog/kafka-serde) - Rust's serde implementation for the Kafka protocol.
