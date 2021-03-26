@@ -59,3 +59,4 @@
 - [Computing with metavalues (2021)](https://fredrikj.net/blog/2021/02/computing-with-metavalues/)
 - [CLP](https://github.com/coin-or/Clp) - Open-source linear programming solver.
 - [Metamath Zero](https://github.com/digama0/mm0) - Language for writing specifications and proofs. Its emphasis is on balancing simplicity of verification and human readability of the specification.
+- [KreMLin](https://github.com/FStarLang/kremlin) - Tool for extracting low-level F\* programs to readable C code.

@@ -50,3 +50,4 @@ Is logical theory of computable functions.
 - [lambs](https://github.com/RaasAhsan/lambs) - Enriched typed lambda calculus.
 - [Lambda Calculus (2020)](https://afnan.io/posts/lambda-calculus/)
 - [Categories and λ-calculus](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/)
+- [NanoHaskell](https://github.com/bkomuves/nanohs) - Self-hosting lambda calculus compiler.
