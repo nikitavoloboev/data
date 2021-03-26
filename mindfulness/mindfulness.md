@@ -32,3 +32,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [tree.fm](https://www.tree.fm/) - Tune Into Forests From Around The World.
 - [Notes on Achieving and Maintaining Mental Wellness as a Stanford PhD Candidate](https://docs.google.com/document/d/1Q0CtPEONRQTimjz9fiuiBwedDFOTYsfyA7ntFaq84Js/edit#heading=h.j6ht6j6d4j5z)
 - [Looking Closely is Everything (2021)](https://craigmod.com/essays/looking_closely/)
+- [What 4 Years in Solitary Confinement Taught Me About Surviving Isolation (2020)](https://humanparts.medium.com/8ight-things-i-learned-in-solitary-confiment-that-will-help-you-keep-calm-during-the-coronavirus-a5a253c2fe7e)

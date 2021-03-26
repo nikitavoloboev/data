@@ -445,3 +445,5 @@ Go promotes composition over inheritance.
 - [Darker Corners of Go (2021)](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) ([Lobsters](https://lobste.rs/s/cbjhdi/darker_corners_go)) ([HN](https://news.ycombinator.com/item?id=26550685))
 - [The ecosystem of the Go programming language (2021)](https://henvic.dev/posts/go/) ([HN](https://news.ycombinator.com/item?id=26540121))
 - [Practical Go Lessons Book](https://www.practical-go-lessons.com/) ([HN](https://news.ycombinator.com/item?id=26568014))
+- [Life of a Go module (2021)](https://jayconrod.com/posts/118/life-of-a-go-module)
+- [Gotchas in the Go Network Packages Defaults (2021)](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)

@@ -31,7 +31,7 @@
 - [Svelte SSR example](https://github.com/PierBover/svelte-ssr-example)
 - [Tan Li Hau: The Svelte Compiler (2020)](https://www.youtube.com/watch?v=e2pGS1eqja8)
 - [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - Responsive, draggable and resizable grid layout, for Svelte.
-- [MDsveX](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte.
+- [MDsveX](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte. ([Docs](https://mdsvex.pngwn.io/docs/)) ([Playground](https://mdsvex.pngwn.io/playground/))
 - [Routify](https://github.com/sveltech/routify) - Routes for Svelte, automated by your file structure. ([Web](https://routify.dev/))
 - [Svelte Language Tools](https://github.com/sveltejs/language-tools) - Contains a library implementing the Language Server Protocol (LSP).
 - [Svelte Society Day 2020: Rich Harris: Frequently Asked Questions](https://www.youtube.com/watch?v=luM5uobewhA)
