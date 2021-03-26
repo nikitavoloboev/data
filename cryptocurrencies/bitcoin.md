@@ -128,3 +128,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [The Lightning Lab](https://discord.com/invite/qEzTQMqJc7) - Discord to learn about building on Bitcoin and Lightning.
 - [Coldcore](https://github.com/jamesob/coldcore) - Trust-minimized Bitcoin wallet.
 - [Why Bitcoin Cash?](https://whybitcoincash.com/)
+- [Bitcoin Lightning Documentation](https://github.com/t-bast/lightning-docs)

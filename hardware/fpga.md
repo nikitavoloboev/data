@@ -52,3 +52,4 @@
 - [Digital Design for FPGAs, with free tools](https://github.com/Obijuan/open-fpga-verilog-tutorial/wiki/Home_EN)
 - [FPGA NTP Server](https://research.wand.net.nz/hardware/ntp.php)
 - [FPGA Developer Tutorials](https://www.fpgatutorial.com/)
+- [Related Projects of Open Source FPGA Foundation](https://github.com/os-fpga/open-source-fpga-resource)

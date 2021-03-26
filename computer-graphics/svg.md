@@ -71,3 +71,4 @@
 - [SVG Wave](https://svgwave.in/) - Tiny, customizable gradient SVG wave generator. ([Code](https://github.com/anup-a/svgwave))
 - [Too Many SVGs Clogging Up Your Markup? Try `use`. (2021)](https://css-tricks.com/too-many-svgs-clogging-up-your-markup-try-use/)
 - [SVG Explained in 100 Seconds (2021)](https://www.youtube.com/watch?v=emFMHH2Bfvo)
+- [Yogurt Layout](https://github.com/accurat/yogurt-layout) - Small JS layout computation library, to organize space in SVGs and canvases.

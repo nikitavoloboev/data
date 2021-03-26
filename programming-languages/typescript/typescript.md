@@ -136,6 +136,7 @@
 - [How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan (2021)](https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7) ([HN](https://news.ycombinator.com/item?id=26314756))
 - [User-defined type guards in TypeScript (2021)](https://gcollazo.com/user-defined-type-guards-in-typescript/)
 - [How to write a Constrained Identity Function (CIF) in TypeScript (2021)](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
+- [Mostly Adequate Guide for the fp-ts library](https://github.com/ChuckJonas/mostly-adequate-fp-ts)
 
 ## Images
 

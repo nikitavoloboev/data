@@ -89,3 +89,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Why I Built My Own Shitty Static Site Generator (2020)](https://erikwinter.nl/articles/2020/why-i-built-my-own-shitty-static-site-generator/) ([Lobsters](https://lobste.rs/s/uacznf/why_i_built_my_own_shitty_static_site))
 - [sitemap-static](https://github.com/tmcw/sitemap-static) - Make a sitemap for a static website based on files on disk.
 - [Sourcehut Pages](https://srht.site/) - Tool which allows you to publish static websites.
+- [Ask HN: Cheapest/ easiest way to host a static site (2021)](https://news.ycombinator.com/item?id=26594242)
