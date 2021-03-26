@@ -70,7 +70,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Feedback Fish](https://feedback.fish/) - Collect feedback. Make your customers happy.
 - [Hypothesis](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere. ([HN](https://news.ycombinator.com/item?id=23573852)) ([GitHub](https://github.com/hypothesis)) ([Code](https://github.com/hypothesis/h)) ([Client Code](https://github.com/hypothesis/client))
 - [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter. ([Concurrent prettier runner](https://github.com/microsoft/parallel-prettier))
-- [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
+- [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525)) ([HN 2](https://news.ycombinator.com/item?id=26582515))
 - [klobie](https://klobie.com/) - Bookmarking tool designed to help synthesize your web research . ([HN](https://news.ycombinator.com/item?id=24004588))
 - [MessageBird](https://messagebird.com/en/) - Zero friction, omnichannel communication. ([HN](https://news.ycombinator.com/item?id=23624854))
 - [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.

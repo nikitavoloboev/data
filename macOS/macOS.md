@@ -147,3 +147,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Reverse-engineering Rosetta 2 (2021)](https://ffri.github.io/ProjectChampollion/part1/) ([Code](https://github.com/FFRI/ProjectChampollion))
 - [Apple M1 Microarchitecture Research](https://dougallj.github.io/applecpu/firestorm.html) ([HN](https://news.ycombinator.com/item?id=26375139))
 - [Mathias Bynens' Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) ([HN](https://news.ycombinator.com/item?id=26513528))
+- [xhyve](https://github.com/machyve/xhyve) - Lightweight macOS virtualization solution.

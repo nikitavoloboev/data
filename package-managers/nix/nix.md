@@ -170,3 +170,4 @@
 - [nix-update](https://github.com/Mic92/nix-update) - Updates versions/source hashes of nix packages. It is designed to work with nixpkgs but also other package sets.
 - [Nix Portable](https://github.com/DavHau/nix-portable) - Static, Permissionless, Installation-free, Pre-configured.
 - [nix-optics](https://github.com/masaeedu/nix-optics) - Using profunctor optics to focus modifications in Nix.
+- [Use Nix flakes without any fluff](https://github.com/gytis-ivaskevicius/flake-utils-plus)

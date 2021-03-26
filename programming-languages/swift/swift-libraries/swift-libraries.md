@@ -168,6 +168,7 @@
 - [ChidoriMenu](https://github.com/christianselig/ChidoriMenu) - Easy way to add popover menus visually similar to the Context Menus and Pull Down Menus iOS uses but with some advantages.
 - [CachingPlayerItem](https://github.com/neekeetab/CachingPlayerItem) - Stream and cache media content on your iOS device.
 - [BMPlayer](https://github.com/BrikerMan/BMPlayer) - Video player for iOS, based on AVPlayer, support the horizontal, vertical screen.
+- [Aztec Editor](https://github.com/wordpress-mobile/AztecEditor-iOS) - Reusable native iOS visual HTML text editor component.
 
 ## macOS
 
