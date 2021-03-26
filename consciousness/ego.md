@@ -23,3 +23,4 @@ Similar to how switching of channels in a radio works, perhaps we can tune into 
 - [Loupe 2019: Ash Adamson on a Practice Through Change](https://www.youtube.com/watch?v=N92gu_AQ43E)
 - [What is an ego death to you? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/elqiq7/the_ego_death_i_wanna_know/)
 - [Why is everyone so obsessed with the destruction of "ego"? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/gqrc0v/why_is_everyone_so_obsessed_with_the_destruction/)
+- [Why is Ego Death Therapeutic? (2021)](https://realitysandwich.com/why-is-ego-death-therapeutic/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/mbbohy/why_is_ego_death_therapeutic/))

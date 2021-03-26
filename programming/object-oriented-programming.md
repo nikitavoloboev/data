@@ -21,3 +21,4 @@
 - [Object-oriented programming: Some history, and challenges for the next 50 years](http://web.cecs.pdx.edu/~black/publications/O-JDahl.pdf) ([HN](https://news.ycombinator.com/item?id=25109900))
 - [Casey Muratori on getting rid of OOP mindset (2017)](https://www.youtube.com/watch?v=GKYCA3UsmrU) ([HN](https://news.ycombinator.com/item?id=25446404))
 - [An Object-Oriented Language for the '20s (2021)](https://adam.nels.onl/blog/an-oo-languge-for-the-20s/) ([HN](https://news.ycombinator.com/item?id=26446685))
+- [Why OO Sucks by Joe Armstrong (2000)](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks) ([HN](https://news.ycombinator.com/item?id=26586829))

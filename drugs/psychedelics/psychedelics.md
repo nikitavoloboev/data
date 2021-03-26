@@ -106,3 +106,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Hamilton Morris - Creating The Future Of Psychedelics (2021)](https://www.youtube.com/watch?v=w5qoe-ultyg)
 - [Why do psychedelics make people so... gullible? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lul62a/why_do_psychedelics_make_people_so_gullible/)
 - [Psychedelics do NOT cause serotonin syndrome (2021)](https://www.reddit.com/r/askdrugs/comments/m1gao7/psa_psychedelics_do_not_cause_serotonin_syndrome/)
+- [Does anybody else feel like the shrooms know you ate them? (2021)](https://www.reddit.com/r/Psychedelics/comments/mcyksz/does_anybody_else_feel_like_the_shrooms_know_you/)
