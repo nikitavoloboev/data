@@ -28,3 +28,4 @@
 - [Image Stabilization – In Humans (2021)](https://i-kh.net/2021/02/18/image-stabilization-in-humans/)
 - [SpikeGLX](https://github.com/billkarsh/SpikeGLX) - Recording system for extracellular neural probes.
 - [Neurosity](https://neurosity.co/) - Develop Crown that guides you into a flow state and helps you stay in the zone.
+- [Gabe Newell on Valve's Brain Computer Interfaces and Gaming Inside the Brain (2021)](https://www.youtube.com/watch?v=tVu-96J6_I0)

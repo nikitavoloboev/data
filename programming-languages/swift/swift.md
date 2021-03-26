@@ -193,3 +193,4 @@
 - [The Swift Array Design](https://github.com/apple/swift/blob/main/docs/Arrays.rst) ([Lobsters](https://lobste.rs/s/iwm0e5/swift_array_design))
 - [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
 - [SwiftFiddle](https://swiftfiddle.com/) - Swift Online Playground. ([Code](https://github.com/kishikawakatsumi/swift-playground))
+- [Classes vs. Structs in Swift — Basics and Memory Management (2021)](https://betterprogramming.pub/classes-vs-structs-basics-and-memory-management-4707714d82e7)
