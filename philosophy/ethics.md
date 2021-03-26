@@ -15,3 +15,4 @@
 - [Ethical Design Guide](https://ethicaldesign.guide/)
 - [Moral Competence (2021)](https://evanjconrad.com/posts/moral-competence) ([HN](https://news.ycombinator.com/item?id=25648186))
 - [Toward ethical, transparent and fair AI/ML](https://github.com/rockita/criticalML) - Critical reading list for engineers, designers, and policy makers.
+- [How Ethics could be integrated in CS education (2021)](https://twitter.com/nprandchill/status/1374774492111720449)
