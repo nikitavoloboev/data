@@ -49,3 +49,4 @@
 - [FigmaExport](https://github.com/RedMadRobot/figma-export) - Command line utility to export colors, typography, icons and images from Figma to Xcode / Android Studio project.
 - [Figma Assets Fetch](https://github.com/movch/figma-asset-fetch) - macOS command-line utility for template-based code generation from Figma assets.
 - [Vector Networks (2016)](https://www.figma.com/blog/introducing-vector-networks/)
+- [UI Design Livestream: Variants, Prototyping and Interactive Components in Figma (2021)](https://www.youtube.com/watch?v=YoHTtporWrw)
