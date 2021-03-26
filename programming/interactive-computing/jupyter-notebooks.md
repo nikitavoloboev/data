@@ -46,7 +46,7 @@
 - [nbcommands](https://github.com/vinayak-mehta/nbcommands) - Unix commands for Jupyter notebooks.
 - [Jupyter/IPython Kernel Tools](https://github.com/Calysto/metakernel)
 - [Making Git and Jupyter Notebooks play nice (2017)](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/) ([HN](https://news.ycombinator.com/item?id=21661013))
-- [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloudblog.withgoogle.com/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks/amp/)
+- [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks)
 - [Computational Publishing with Jupyter](https://github.com/odewahn/computational-publishing)
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks.
 - [Juno](https://juno.sh/) - Complete Jupyter development environment for your iPad or iPhone.

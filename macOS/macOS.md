@@ -107,7 +107,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Apple's macOS SDKs](https://github.com/alexey-lysiuk/macos-sdk)
 - [macOS11 Big Sur UI Kit](https://applypixels.com/resource/big-sur-ui)
 - [Apple Platform Versions](https://github.com/phatblat/ApplePlatformVersions) - Recent history of platforms developed by Apple, including Apple-managed build tools for these platforms.
-- [Sketch — Part of your world: Why we’re proud to build a truly native Mac app (2020)](https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/) ([HN](https://news.ycombinator.com/item?id=24899391)) ([HN 2](https://news.ycombinator.com/item?id=24912325)) ([Tweet](https://twitter.com/amix3k/status/1321404287566680064?s=21))
+- [Sketch — Part of your world: Why we’re proud to build a truly native Mac app (2020)](https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/) ([HN](https://news.ycombinator.com/item?id=24899391)) ([HN 2](https://news.ycombinator.com/item?id=24912325)) ([Tweet](https://twitter.com/amix3k/status/1321404287566680064))
 - [macOS 11 boot volume layout (2020)](https://eclecticlight.co/2020/09/16/boot-volume-layout/) ([HN](https://news.ycombinator.com/item?id=24957783))
 - [Booting a macOS Apple Silicon Kernel in QEMU (2020)](https://worthdoingbadly.com/xnuqemu3/) ([HN](https://news.ycombinator.com/item?id=25064593))
 - [macOS defaults](https://macos-defaults.com/) - List of macOS defaults commands with demos. ([Code](https://github.com/yannbertrand/macos-defaults))

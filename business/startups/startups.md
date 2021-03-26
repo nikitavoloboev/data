@@ -240,7 +240,7 @@
 - [Founder Library](https://www.founderlibrary.com/) - Learning portal packed with hundreds of resources to help startup founders go further faster.
 - [I sold Baremetrics (2020)](https://baremetrics.com/blog/i-sold-baremetrics) ([HN](https://news.ycombinator.com/item?id=25045325)) ([Tweet](https://twitter.com/Shpigford/status/1326153473956716544))
 - [Awesome YCombinator](https://github.com/PolymerSearch/awesome-ycombinator) - Resources for maximizing your startup and business success.
-- [Finances needed to indie (2020)](https://twitter.com/yongfook/status/1328158466645475328) ([Tweet 2](https://twitter.com/shpigford/status/1328162960586452992?s=21))
+- [Finances needed to indie (2020)](https://twitter.com/yongfook/status/1328158466645475328) ([Tweet 2](https://twitter.com/shpigford/status/1328162960586452992))
 - [How to Name Startups (2020)](https://atay.me/posts/how-to-name-startups/)
 - [MicroConf](https://microconf.com/) - Trusted Community for Non-Venture Track SaaS Founders.
 - [Awesome Startup Deals](https://github.com/startupdeals/startupdeals)

@@ -26,7 +26,7 @@
 
 ## WM
 
-- [i3](https://github.com/i3/i3) - Tiling WM. [Faster than xmonad](https://twitter.com/smdiehl/status/1323935455126106114?s=21).
+- [i3](https://github.com/i3/i3) - Tiling WM. [Faster than xmonad](https://twitter.com/smdiehl/status/1323935455126106114).
 - [i3-gaps](https://github.com/Airblader/i3) - Tiling window manager for X11.
 - [xmonad](http://xmonad.org/) - Tiling WM.
 - [river](https://github.com/ifreund/river) - Dynamic tiling wayland compositor.

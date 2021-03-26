@@ -21,6 +21,7 @@
 - To build derivation in nixpkgs, at root of `nixpkgs`, run `nix build -f . <pkg-name>` (ie `nix build -f . wifi-password`)
 - To find out the SHA256, run `nix-prefetch-url -A <pkg-name>.src` (ie `nix-prefetch-url -A wifi-password.src`). `nix-prefetch-url` works with GitHub. This gives you the SHA256 you can copy.
 - [I think Nix's approach is the right way to build container images--build the image layers declaratively, reproducibly, incrementally (no, Dockerfile builds aren't incremental because dependency trees aren't linear), and without a container runtime dependency.](https://twitter.com/weberc2/status/1334927112550174721)
+- [Nix doesn't solve dependency resolution problems. Only pinning. There's ground to break there. Dependency management not being part of flakes is my biggest gripe with it. It would be our chance to be the once size fits all solution but we failed to deliver.](https://twitter.com/ProgrammerDude/status/1375451276234928132)
 
 ## Links
 
@@ -134,7 +135,7 @@
 - [swift2nix: Run Swift inside Nix builds (2020)](https://euandre.org/2020/10/05/swift2nix-run-swift-inside-nix-builds.html)
 - [sorri](https://github.com/nmattia/sorri) - Simple, lightweight implementation of Tweag's lorri.
 - [Nix and the nix-shell for easily redistributable scripts (2020)](https://knezevic.ch/posts/nix-shell-redistributable-scripts/)
-- [nix-buildkite](https://github.com/circuithub/nix-buildkite) - Take a Nix job description and turn it into separate Buildkite steps with dependencies. ([Tweet](https://twitter.com/acid2/status/1314507071224676352?s=21))
+- [nix-buildkite](https://github.com/circuithub/nix-buildkite) - Take a Nix job description and turn it into separate Buildkite steps with dependencies. ([Tweet](https://twitter.com/acid2/status/1314507071224676352))
 - [pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) - Seamless integration of pre-commit git hooks with Nix.
 - [Nix + Haskell setup](https://twitter.com/acid2/status/1314507569541640192)
 - [caching your nix-shell (2020)](https://fzakaria.com/2020/08/11/caching-your-nix-shell.html)
