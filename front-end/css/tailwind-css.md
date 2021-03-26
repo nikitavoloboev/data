@@ -74,3 +74,4 @@
 - [Why I Don't Like Tailwind CSS (2021)](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/) ([Lobsters](https://lobste.rs/s/15ti7c/why_i_don_t_like_tailwind_css))
 - [Tailwind CSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
 - [Tailwind CSS JIT + Rails without Webpacker](https://github.com/domchristie/tailwindcss-jit-rails)
+- [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase (2021)](https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/)

@@ -13,3 +13,4 @@
 - [Fifteen Ways to Draw a Line](https://sighack.com/post/fifteen-ways-to-draw-a-line) ([Code](https://github.com/sighack/fifteen-lines))
 - [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing.
 - [Chroma](https://github.com/neilpanchal/Chroma) - Color conversion library for Processing.
+- [Processing Posters](https://github.com/Volorf/Processing-Posters) - Collection of generative posters I designed with p5.js.
