@@ -202,6 +202,7 @@
 - [arkworks::algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic.
 - [pairing](https://github.com/zkcrypto/pairing) - Crate for using pairing-friendly elliptic curves.
 - [Monotree](https://github.com/thyeem/monotree) - Optimized Sparse Merkle Tree in Rust.
+- [Cupcake](https://github.com/facebookresearch/Cupcake) - Rust library for lattice-based additive homomorphic encryption.
 
 ## Linux
 

@@ -58,6 +58,7 @@
 - [pandas-ml](https://github.com/pandas-ml/pandas-ml) - pandas, scikit-learn, xgboost and seaborn integration.
 - [wavetorch](https://github.com/fancompute/wavetorch) - Numerically solving and backpropagating through the wave equation.
 - [ennemi](https://github.com/polsys/ennemi) - Easy Nearest Neighbor Estimation of Mutual Information.
+- [Knock Knock](https://github.com/huggingface/knockknock) - Get notified when your training ends with only two additional lines of code.
 
 ## Biology
 

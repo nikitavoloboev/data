@@ -155,6 +155,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
+- [Param Singh's Notes](https://notes.param.codes/)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
