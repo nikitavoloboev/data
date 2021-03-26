@@ -35,3 +35,4 @@
 - [The styled-components happy path (2021)](https://www.joshwcomeau.com/css/styled-components/)
 - [CSS-in-TS research analysis](https://github.com/andreipfeiffer/css-in-js)
 - [theme-in-css](https://github.com/pveyes/theme-in-css) - Type-safe CSS custom properties (CSS variables) for theming purpose.
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript.

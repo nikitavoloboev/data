@@ -107,3 +107,4 @@
 - [monsoon](https://github.com/RedTeamPentesting/monsoon) - Fast HTTP enumerator that allows you to execute a large number of HTTP requests, filter the responses and display them in real-time.
 - [HTTPWTF (2021)](https://httptoolkit.tech/blog/http-wtf/) ([HN](https://news.ycombinator.com/item?id=26343577))
 - [httpit](https://github.com/gonetx/httpit) - Rapid http(s) benchmark tool written in Go.
+- [Serving a single file over HTTP with Rust and Go (2021)](https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/)
