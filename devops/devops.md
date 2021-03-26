@@ -62,3 +62,4 @@
 - [Running Nomad for home server (2021)](https://mrkaran.dev/posts/home-server-nomad/) ([Lobsters](https://lobste.rs/s/bybybm/running_nomad_for_home_server)) ([HN](https://news.ycombinator.com/item?id=26142005))
 - [They SRE](https://github.com/upgundecha/howtheysre) - Curated Collection on Site Reliability Engineering.
 - [DevOps Resources](https://github.com/bregman-arie/devops-resources)
+- [We are far from a better Heroku for production apps in a hyper cloud (2021)](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/) ([HN](https://news.ycombinator.com/item?id=26554504))
