@@ -93,3 +93,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Кино в Севкабеле](https://www.youtube.com/watch?v=N83PSvdSYBI)
 - [Вот почему люди хотят «назад в СССР»](https://mirovich.media/657703.html)
 - [Lurkmore](https://lurkmore.to/)
+- [Объявление холодной войны. Беседа с Юрием Швецом (2021)](https://www.youtube.com/watch?v=5MTKH9YJk60)

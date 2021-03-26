@@ -166,3 +166,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [pysystemtrade](https://github.com/robcarver17/pysystemtrade) - Systematic Trading in Python.
 - [Jack Clark - Grateful for Everything, Entitled to Nothing (2021)](https://podcasts.google.com/feed/aHR0cHM6Ly9pbnZlc3RsaWtldGhlYmVzdC5saWJzeW4uY29tL3Jzcw/episode/OWI4MmViNGEtZTQ0NS00NmY3LWJlZWQtZTBkODk4OTNhZmYw?ep=14)
 - [Why in the world would you own bonds? (2021)](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when) ([HN](https://news.ycombinator.com/item?id=26485756))
+- [Trading Signals](https://github.com/bennycode/trading-signals) - Technical indicators and overlays to run technical analysis with JavaScript / TypeScript.

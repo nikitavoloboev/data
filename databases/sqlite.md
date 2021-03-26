@@ -58,4 +58,5 @@
 - [Cross-Database Queries in SQLite (2021)](https://simonwillison.net/2021/Feb/21/cross-database-queries/) ([HN](https://news.ycombinator.com/item?id=26217754))
 - [Build SQLite Extensions in Go](https://github.com/riyaz-ali/sqlite)
 - [What’s new in SQLite 3.35 (2021)](https://nalgeon.github.io/sqlite-3-35/) ([HN](https://news.ycombinator.com/item?id=26440397))
-- [SQLite is not a toy database (2021)](https://antonz.org/sqlite-is-not-a-toy-database/) ([HN](https://news.ycombinator.com/item?id=26580614))
+- [SQLite is not a toy database (2021)](https://antonz.org/sqlite-is-not-a-toy-database/) ([HN](https://news.ycombinator.com/item?id=26580614)) ([Lobsters](https://lobste.rs/s/ts0vtk/sqlite_is_not_toy_database))
+- [SQLite Plus](https://github.com/nalgeon/sqlite-plus) - All the missing SQLite functions.

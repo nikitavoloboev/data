@@ -118,3 +118,4 @@ All active variables can be seen by running `env`.
 - [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history.
 - [pimp](https://github.com/aymericbeaumet/pimp) - Give your shell commands superpowers.
 - [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://withfig.com/))
+- [Elvish Shell](https://elv.sh/) - Expressive programming language and a versatile interactive shell, combined into one seamless package. ([Tour](https://elv.sh/learn/tour.html))

@@ -131,3 +131,4 @@
 - [Building the Clubhouse app in SwiftUI (2021)](https://www.youtube.com/watch?v=zbS_raINcs4&feature=youtu.be)
 - [App-wise state in SwiftUI (2021)](https://www.fivestars.blog/swiftui/app-state.html)
 - [Mastering SwiftUI previews (2021)](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/)
+- [SwiftUI Animations Library](https://github.com/amosgyamfi/swiftui-animation-library) - Useful SwiftUI animations for your next project.
