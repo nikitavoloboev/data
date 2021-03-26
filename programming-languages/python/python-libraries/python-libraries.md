@@ -57,6 +57,7 @@
 - [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library.
 - [pandas-ml](https://github.com/pandas-ml/pandas-ml) - pandas, scikit-learn, xgboost and seaborn integration.
 - [wavetorch](https://github.com/fancompute/wavetorch) - Numerically solving and backpropagating through the wave equation.
+- [ennemi](https://github.com/polsys/ennemi) - Easy Nearest Neighbor Estimation of Mutual Information.
 
 ## Biology
 
