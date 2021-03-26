@@ -73,3 +73,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Understanding Crypto (2021)](https://adam.mirror.xyz/Q-HIDLBN0lRy1ezLFI-Qj5JhLzHWRUgXF4cqwieQWXQ)
 - [NFTs are a dangerous trap (2021)](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 - [Cryptography behind the top cryptocurrencies](http://ethanfast.com/top-crypto.html) ([HN](https://news.ycombinator.com/item?id=26526108))
+- [Binance.US](https://www.binance.us/en/home) - Buy & Sell Crypto.

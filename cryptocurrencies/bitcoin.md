@@ -127,3 +127,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin Is Time (2021)](https://dergigi.com/2021/01/14/bitcoin-is-time/) ([HN](https://news.ycombinator.com/item?id=26315923))
 - [The Lightning Lab](https://discord.com/invite/qEzTQMqJc7) - Discord to learn about building on Bitcoin and Lightning.
 - [Coldcore](https://github.com/jamesob/coldcore) - Trust-minimized Bitcoin wallet.
+- [Why Bitcoin Cash?](https://whybitcoincash.com/)

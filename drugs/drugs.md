@@ -25,3 +25,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [A Look Down Track B (2021)](https://astralcodexten.substack.com/p/a-look-down-track-b) - Do antidepressants bind to TrkB receptors directly?
 - [What drugs aren’t as bad for you as people make them out to be? (2021)](https://www.reddit.com/r/askdrugs/comments/lpczev/what_drugs_arent_as_bad_for_you_as_people_make/)
 - [Tripby](https://tripby.org/) - Understand your substances, their effects, dosage and duration. ([Code](https://github.com/dlbnco/tripby.org))
+- [What do you guys think about the future of drugs? (2021)](https://www.reddit.com/r/researchchemicals/comments/md6gej/what_do_you_guys_think_about_the_future_of_drugs/)

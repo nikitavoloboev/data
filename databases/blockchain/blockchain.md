@@ -26,6 +26,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Zilliqa](https://www.zilliqa.com/)
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa) - Scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
 - [Metapurse](https://metapurse.fund/) - Crypto-exclusive fund.
+- [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with Blockchain.
 
 ## Notes
 
