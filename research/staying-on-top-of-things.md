@@ -132,6 +132,7 @@ And these Discord servers:
 - [Newlines Institute](https://newlinesinstitute.org/)
 - [Document Journal](https://www.documentjournal.com/)
 - [New Discourses](https://newdiscourses.com/)
+- [Damn Interesting](https://www.damninteresting.com/)
 
 ### Other
 
