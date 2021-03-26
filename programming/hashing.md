@@ -37,5 +37,5 @@
 - [hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries.
 - [Comparing ahash to other hashing algorithms](https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md) ([Lobsters](https://lobste.rs/s/jitsly/comparing_ahash_other_hashing))
 - [Consistent Hashing: Algorithmic Tradeoffs (2018)](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
-- [How to implement a hash table (in C) (2021)](https://benhoyt.com/writings/hash-table-in-c/)
+- [How to implement a hash table (in C) (2021)](https://benhoyt.com/writings/hash-table-in-c/) ([HN](https://news.ycombinator.com/item?id=26590234))
 - [Live-coding a linked hash map in Rust (2018)](https://www.youtube.com/watch?v=k6xR2kf9hlA)

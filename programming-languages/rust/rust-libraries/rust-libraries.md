@@ -693,7 +693,7 @@
 - [slab](https://github.com/carllerche/slab) - Pre-allocated storage for a uniform data type.
 - [Cuckoo Filter](https://github.com/axiomhq/rust-cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
 - [QuantMath](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk. ([HN](https://news.ycombinator.com/item?id=25814113))
-- [egg](https://github.com/egraphs-good/egg) - Flexible, high-performance e-graph library.
+- [Egg](https://github.com/egraphs-good/egg) - Flexible, high-performance e-graph library. ([Web](https://egraphs-good.github.io/)) ([Talk](https://www.youtube.com/watch?v=LKELTEOFY-s)) ([HN](https://news.ycombinator.com/item?id=26587209))
 - [Codegen](https://github.com/carllerche/codegen) - Provides an builder API to assist in generating Rust code.
 - [similar](https://github.com/mitsuhiko/similar) - High level diffing library for rust based on diffs.
 - [x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
