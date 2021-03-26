@@ -61,3 +61,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [What small change(s) has made a large impact on your life? (2020)](https://lobste.rs/s/4oiijk/what_small_change_s_has_made_large_impact)
 - [100+ Hacks for Boosting Your Happiness Chemicals](https://www.theemotionmachine.com/100-hacks-for-boosting-your-happiness-chemicals/)
 - [Ask HN: What was the biggest contributor to your happiness in the past year? (2021)](https://news.ycombinator.com/item?id=26528011)
+- [What gives you pleasure? (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/md7giy/what_gives_you_pleasure/)

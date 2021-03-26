@@ -205,3 +205,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Rust VM](https://github.com/atul-g/rust_vm) - Virtual Machine written in Rust to emulate the LC3 computer (Little Computer 3).
 - [What are Ring 0 and Ring 3 in the context of operating systems?](https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems)
 - [User mode VS Kernel mode (2017)](https://medium.com/@SagiDana/kernel-mode-vs-user-mode-784a5b1f4911)
+- [Domain/OS Design Principles (1989)](http://bitsavers.org/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf)
