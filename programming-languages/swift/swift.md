@@ -192,3 +192,4 @@
 - [Swift Evolution: Actors](https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md) ([HN](https://news.ycombinator.com/item?id=26480922))
 - [The Swift Array Design](https://github.com/apple/swift/blob/main/docs/Arrays.rst) ([Lobsters](https://lobste.rs/s/iwm0e5/swift_array_design))
 - [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line.
+- [SwiftFiddle](https://swiftfiddle.com/) - Swift Online Playground. ([Code](https://github.com/kishikawakatsumi/swift-playground))

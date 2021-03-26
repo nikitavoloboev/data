@@ -191,6 +191,7 @@
 - [wann](https://github.com/xyproto/wann) - Weight Agnostic Neural Networks in Go.
 - [spaGO](https://github.com/nlpodyssey/spago) - Supports relevant neural network architectures in natural language processing tasks.
 - [go-featureprocessing](https://github.com/nikolaydubina/go-featureprocessing) - Ultra-fast and simple feature processing in Go with functionality matching sklearn.
+- [onnx-go](https://github.com/owulveryck/onnx-go) - Go Interface to Open Neural Network Exchange (ONNX).
 
 ## Graphics
 

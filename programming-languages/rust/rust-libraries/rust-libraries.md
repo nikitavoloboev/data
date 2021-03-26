@@ -758,6 +758,7 @@
 - [async-imap](https://github.com/async-email/async-imap) - Async IMAP implementation in Rust.
 - [nachricht](https://github.com/yasammez/nachricht) - Self-describing data interchange format.
 - [Enumflags](https://github.com/NieDzejkob/enumflags2) - Rust library for efficiently representing sets of data-less enums.
+- [cooper](https://github.com/fpagliughi/cooper-rs) - Simple in-process Actor library in Rust.
 
 ## Cargo Plugins
 
