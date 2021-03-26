@@ -281,3 +281,4 @@
 - [Smooth Shadow](https://shadows.brumm.af/) - Make a smooth shadow.
 - [Not Your Typical Horizontal Rules (2021)](https://www.sarasoueidan.com/blog/horizontal-rules/)
 - [Handling Text Over Images in CSS (2021)](https://ishadeed.com/article/handling-text-over-image-css/)
+- [cool.css](https://coolcss.dev/) - Last CSS framework I'll (hopefully) ever have to build. ([Code](https://github.com/peruvianidol/coolcss))
