@@ -16,3 +16,4 @@
 - [How to Develop a Restaurant Reservation App (2020)](https://steelkiwi.com/blog/how-to-develop-a-restaurant-reservation-app/)
 - [TastyIgniter](https://tastyigniter.com/) - Restaurant Online Ordering System. ([Code](https://github.com/tastyigniter/TastyIgniter))
 - [Mezli](https://www.mezli.com/) - Robotic restaurants that serve healthy fast food. ([HN](https://news.ycombinator.com/item?id=26468204))
+- [Michelin Guide](https://guide.michelin.com/en) - Find the Michelin-rated Restaurants worldwide.

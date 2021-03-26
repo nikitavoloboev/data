@@ -39,3 +39,4 @@
 - [MDXP](https://github.com/0phoff/MDXP) - Allows you to create slides easily with React and MDX.
 - [Pitch Presentation Templates](https://pitch.com/templates)
 - [RemoteCTRL](https://remotectrl.net/) - Control any slideshow together.
+- [Shower Presentation Template](https://github.com/shower/shower)

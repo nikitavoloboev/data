@@ -215,3 +215,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Audio over Bluetooth: most detailed information about profiles and codecs (2019)](https://habr.com/en/post/456182/) ([HN](https://news.ycombinator.com/item?id=26368521))
 - [UERANSIM](https://github.com/aligungr/UERANSIM) - Open source 5G UE and RAN (gNodeB) implementation.
 - [netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP).
+- [Ethernet and IP Networking 101 (Heavily Illustrated) (2021)](https://iximiuz.com/en/posts/computer-networking-101/)

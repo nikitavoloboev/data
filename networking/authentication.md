@@ -110,3 +110,4 @@
 - [Twingate – Building the foundation for identity-first network security (2021)](https://www.twingate.com/blog/introducing-identity-first-networking/) ([HN](https://news.ycombinator.com/item?id=26253196))
 - [GoTrue](https://github.com/netlify/gotrue) - Small open-source API written in Go, that can act as a self-standing API service for handling user registration and authentication for JAM projects.
 - [FusionAuth](https://fusionauth.io/) - Authentication and Authorization built for devs.
+- [Hidden OAuth attack vectors (2021)](https://portswigger.net/research/hidden-oauth-attack-vectors)
