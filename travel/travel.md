@@ -57,3 +57,4 @@
 - [Where is everyone going to travel to when the world opens up again? (2021)](https://www.reddit.com/r/solotravel/comments/m4cpmg/where_is_everyone_going_to_travel_to_when_the/)
 - [What is the most useful piece of travel kit you've bought or been gifted? (2021)](https://www.reddit.com/r/solotravel/comments/maj6w1/what_is_the_most_useful_piece_of_travel_kit_youve/)
 - [Ask HN: Digital Nomads: What's Your Setup? (2021)](https://news.ycombinator.com/item?id=26567980)
+- [Advice as a new full-time digital nomad (2021)](https://www.reddit.com/r/digitalnomad/comments/me30te/need_advice_as_a_new_fulltime_digital_nomad/)
