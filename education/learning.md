@@ -90,7 +90,7 @@
 - [Chet](https://chet.social/) - Share, discover, and discuss meaningful content tailored to your profession, interests, and aspirations.
 - [Learn Difficult Concepts with the ADEPT Method (2014)](https://betterexplained.com/articles/adept-method/)
 - [Preserve Knowledge YouTube](https://www.youtube.com/c/PreserveKnowledge/featured) - Canada higher education media organization that focuses on advances in mathematics, computer science, and artificial intelligence.
-- [Learning Theory from First Principles (2020)](https://www.di.ens.fr/~fbach/learning_theory_class/)
+- [Learning Theory from First Principles (2020)](https://www.di.ens.fr/~fbach/learning_theory_class/) ([Book](https://www.di.ens.fr/~fbach/ltfp_book.pdf))
 - [Things I Learnt in 2020](https://drobinin.com/posts/things-i-learnt-in-2020/) ([HN](https://news.ycombinator.com/item?id=25582269))
 - [100 Tweets on Better Internet Learning (2020)](https://hyperlink.academy/library/100-tweets-on-internet-learning)
 - [Learn X by Doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) - Project-based learning search engine. ([HN](https://news.ycombinator.com/item?id=25754437)) ([Code](https://github.com/aquadzn/learn-x-by-doing-y))

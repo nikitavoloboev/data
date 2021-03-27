@@ -138,3 +138,4 @@
 - [It's raymarching march (2021)](https://ch-st.de/its-ray-marching-march/)
 - [Fitting cubic Bézier curves (2021)](https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html)
 - [PlenOctrees for Real-time Rendering of Neural Radiance Fields](http://alexyu.net/plenoctrees/) ([Code](https://github.com/sxyu/volrend)) ([HN](https://news.ycombinator.com/item?id=26597419)) ([Talk](https://www.youtube.com/watch?v=LRAqeM8EjOo))
+- [Understanding and Extending Neural Radiance Fields (Jonathan T. Barron) (2020)](https://www.youtube.com/watch?v=nRyOzHpcr4Q)
