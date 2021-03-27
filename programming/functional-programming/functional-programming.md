@@ -113,6 +113,7 @@
 - [Myth](https://github.com/silky/myth) - Type-and-example-driven program synthesis for functional programming languages.
 - [Profunctor Optics: Modular Data Accessors (2017)](https://mpickering.github.io/papers/profunctor-options.pdf)
 - [OCaml, Erlang, and Functional Programming with Leandro Ostera (2021)](https://www.youtube.com/watch?v=9qqyd7nQqnE)
+- [Functional Programming Slack](https://fpchat-invite.herokuapp.com/)
 
 ## Images
 

@@ -13,3 +13,4 @@
 - [Freeletics](https://www.freeletics.com/en/) - Intensive workouts & individual training plans.
 - [DAREBEE](https://darebee.com/) - Fitness blueprints: no-equipment visual workouts, fitness programs and challenges, training and running tips, recipes and nutrition advice.
 - [Foundation Light](https://darebee.com/programs/foundation-light-program.html) - Low impact 100% bodyweight based fitness program perfect for anyone with joint issues, recovering from an injury or is heavily overweight.
+- [How the Deadlift Will Save Your Life (2021)](https://www.theamericanconservative.com/articles/how-the-deadlift-will-save-your-life/)
