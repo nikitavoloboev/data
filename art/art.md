@@ -411,3 +411,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Cryptocurrencies and NFTs are an absolute disaster for so many more reasons than the ecological (2021)](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3)
 - [Secret Hiding Place - Voxel Art Timelapse (2020)](https://www.youtube.com/watch?v=BAOc2qleqwc)
 - [MetaKovan on his $69m Purchase of Beeple's Everydays, the Metaverse, and NFTs (2021)](https://www.youtube.com/watch?v=hb5LapixLbk&t=1015s)
+- [Louvre entire collection available online](https://collections.louvre.fr/en/) ([HN](https://news.ycombinator.com/item?id=26599830))

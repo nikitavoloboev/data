@@ -33,3 +33,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Oasis](https://theoasis.com/) - Be Who You Really Are.
 - [Bullet Physics SDK](https://github.com/bulletphysics/bullet3) - Real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.
 - [My Convoluted VRChat Google Meet Setup (2021)](https://christine.website/blog/convoluted-vrchat-gchat-setup-2021-02-24)
+- [Printing In Virtual Reality](https://blog.glitch.land/en/posts/tb-point-mapper-pt1/)
