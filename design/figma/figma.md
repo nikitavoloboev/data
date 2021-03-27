@@ -50,3 +50,4 @@
 - [Figma Assets Fetch](https://github.com/movch/figma-asset-fetch) - macOS command-line utility for template-based code generation from Figma assets.
 - [Vector Networks (2016)](https://www.figma.com/blog/introducing-vector-networks/)
 - [UI Design Livestream: Variants, Prototyping and Interactive Components in Figma (2021)](https://www.youtube.com/watch?v=YoHTtporWrw)
+- [Figma to React](https://figma-to-react.vercel.app/) - Convert Figma designs to React code. ([HN](https://news.ycombinator.com/item?id=26603097))

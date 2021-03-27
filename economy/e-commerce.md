@@ -76,3 +76,4 @@
 - [VRS](https://github.com/vercel/vrs) - Serverless virtual reality e-commerce experience powered by Vercel. ([Web](https://serverless-vrs.now.sh/))
 - [What I wish I knew before building a Shopify App](https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html) ([HN](https://news.ycombinator.com/item?id=26514612))
 - [HULL](https://github.com/ndimatteo/HULL) - Headless Shopify Starter – powered by Next.js + Sanity.io.
+- [Kaiyo](https://kaiyo.com/) - Buy and Sell Used Furniture.

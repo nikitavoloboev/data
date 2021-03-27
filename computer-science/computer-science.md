@@ -115,3 +115,4 @@
 - [Virginia Tech Computer Science Technical Reports](https://eprints.cs.vt.edu/view/year/)
 - [UTCS Tech Reports](https://apps.cs.utexas.edu/apps/tech-reports)
 - [Ask HN: Is a Master's in CS worth it? (2021)](https://news.ycombinator.com/item?id=26405955)
+- [Combinators: A Centennial View (2021)](https://arxiv.org/abs/2103.12811)

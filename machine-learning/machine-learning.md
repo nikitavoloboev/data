@@ -433,3 +433,4 @@
 - [Geometric deep learning, from Euclid to drug design (2021)](https://www.youtube.com/watch?v=8IwJtFNXr1U&t=210s) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/m8ewph/geometric_foundations_of_deep_learning_research/))
 - [GeoGuessing with Deep Learning (2021)](https://healeycodes.com/geoguessing-with-deep-learning/)
 - [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+- [Out of Distribution Generalization in Machine Learning (2021)](https://arxiv.org/abs/2103.02667)

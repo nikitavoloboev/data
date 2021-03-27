@@ -51,4 +51,4 @@
 - [Top-Down Parsing with Parsing Contexts -- A simple approach to context sensitive parsing (2014)](https://lobste.rs/s/l6yieh/top_down_parsing_with_parsing_contexts)
 - [Applicative parsing (2019)](https://jobjo.github.io/2019/05/19/applicative-parsing.html)
 - [Parser Combinators From Scratch (2020)](https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU) ([Code](https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch))
-- [Ohm](https://ohmlang.github.io/) - Parser generator consisting of a library and a domain-specific language. ([Code](https://github.com/harc/ohm))
+- [Ohm](https://ohmlang.github.io/) - Parser generator consisting of a library and a domain-specific language. ([Code](https://github.com/harc/ohm)) ([HN](https://news.ycombinator.com/item?id=26603393))
