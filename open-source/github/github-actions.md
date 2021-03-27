@@ -235,3 +235,4 @@
 - [Setup Continuous Delivery with GitHub Actions (2021)](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)
 - [28 Days of GitHub Action Tips (2021)](https://dev.to/github/28-days-of-github-action-tips-4opg)
 - [On-demand self-hosted AWS EC2 runner for GitHub Actions](https://github.com/machulav/ec2-github-runner)
+- [Save your bookmarks with GitHub actions](https://katydecorah.com/code/bookmark-action/)

@@ -51,3 +51,4 @@ Is logical theory of computable functions.
 - [Lambda Calculus (2020)](https://afnan.io/posts/lambda-calculus/)
 - [Categories and λ-calculus](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/cat/)
 - [NanoHaskell](https://github.com/bkomuves/nanohs) - Self-hosting lambda calculus compiler.
+- [Fundamentals of Lambda Calculus & Functional Programming in JavaScript (2017)](https://www.youtube.com/watch?v=3VQ382QG-y4)
