@@ -11,6 +11,7 @@
 - [Kubernetes (or whatever other container scheduler) might feel like overkill, but if all they do is force you to adopt a container-centric / 12-factor way of building your applications it was worth trying them. And once you've adopted that workflow it's a no-brainer to go from a single node to a cluster which will dynamically allocate the workloads it runs.](https://news.ycombinator.com/item?id=18495697)
   - Running a small container cluster at work has even changed how I setup single-host projects in my spare time: I will build everything into a container, bind-mount whatever it might need, create a simple systemd unit that just runs / rms the docker container on start and stop. Bliss.
 - [After a couple years on kubernetes, there is a simple joy to a deployment process that looks like "scp binary server: && ssh server systemctl restart service", and takes 5s to complete.](https://twitter.com/dave_universetf/status/1216791280505774080)
+- [In K8S, I think the best is hand-on experience, do it and. you will understand why a certain thing has to do that way.](https://lobste.rs/s/waj0ky/what_are_you_doing_this_weekend#c_s4hcbh)
 
 ## Links
 
@@ -350,3 +351,4 @@
 - [kube-fledged](https://github.com/senthilrch/kube-fledged) - Kubernetes add-on for creating and managing a cache of container images directly on the worker nodes of a kubernetes cluster.
 - [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security)
 - [Porter](https://www.getporter.dev/) - Fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more. ([Code](https://github.com/porter-dev/porter)) ([Dashboard](https://dashboard.getporter.dev/login))
+- [Learnk8s](https://learnk8s.io/) - Kubernetes training company.

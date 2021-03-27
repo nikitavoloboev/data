@@ -74,3 +74,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [NFTs are a dangerous trap (2021)](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/)
 - [Cryptography behind the top cryptocurrencies](http://ethanfast.com/top-crypto.html) ([HN](https://news.ycombinator.com/item?id=26526108))
 - [Binance.US](https://www.binance.us/en/home) - Buy & Sell Crypto.
+- [NFTs and crypto-art, from a practicing artist, who thinks, on balance that (ultimately) it's a good idea (2021)](https://revdancatt.com/2021/03/23/nfts-crypto-art-what-is-is-from-an-artists-view)

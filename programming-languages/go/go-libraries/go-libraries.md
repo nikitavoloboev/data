@@ -755,6 +755,7 @@
 - [log](https://github.com/apex/log) - Structured logging package for Go.
 - [Go Data Structures](https://github.com/timtadh/data-structures)
 - [fs2](https://github.com/timtadh/fs2) - B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go.
+- [go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update.
 
 ## Links
 

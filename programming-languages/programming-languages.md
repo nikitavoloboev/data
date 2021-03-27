@@ -185,3 +185,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust (2021)](https://benhoyt.com/writings/count-words/) ([HN](https://news.ycombinator.com/item?id=26463967)) ([Lobsters](https://lobste.rs/s/3byl7t/performance_comparison_counting_words))
 - [What Programming Language Would Yoko Ono Create? (2021)](https://esoteric.codes/blog/what-programming-language-would-yoko-ono-write)
 - [20 Intriguing, Unusual, and Goofy Programming Languages (2019)](https://dev.to/awwsmm/20-intriguing-unusual-and-goofy-programming-languages-238f)
+- [FSL.tools](https://fsl.tools/) - Programming language to make complex Finite State Machines easy to create and maintain.

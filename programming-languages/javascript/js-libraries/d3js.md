@@ -38,3 +38,4 @@
 - [10 Years of Open-Source Visualization – D3.js (2021)](https://observablehq.com/@mbostock/10-years-of-open-source-visualization) ([HN](https://news.ycombinator.com/item?id=26240339))
 - [D3-React Patterns](https://github.com/lloydrichards/D3-React-Patterns)
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Library based on D3.js, optimized for visualizing and laying out time-series data. ([Code](https://github.com/metricsgraphics/metrics-graphics))
+- [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
