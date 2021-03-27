@@ -10,3 +10,4 @@
 - [WASI Worker](https://github.com/dunnock/wasi-worker) - WASM / WASI interface for browser service workers.
 - [uhtml-ssr](https://github.com/WebReflection/uhtml-ssr) - Uhtml for Service Worker, Web Worker, NodeJS, and other SSR cases.
 - [Stealing web browser history with Service Workers](https://www.cs.uic.edu/~skarami/files/sw21/preprint-sw-ndss21.pdf)
+- [SWDEV](https://github.com/mizchi/swdev) - No bundle frontend by service-worker.

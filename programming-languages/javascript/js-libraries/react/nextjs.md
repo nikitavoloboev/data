@@ -167,3 +167,5 @@
 - [A simple approach to testing next.js apps](https://hobochild.com/posts/testing.html)
 - [Micro Frontends in NextJS with Webpack 5 (2021)](https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/)
 - [Yarn Workspaces + XState + Next.js Template](https://github.com/with-heart/xstate-nextjs-workspaces-template)
+- [Terraform Next.js module for AWS](https://github.com/dealmore/terraform-aws-next-js)
+- [Terraform Next.js Image Optimization module for AWS](https://github.com/dealmore/terraform-aws-next-js-image-optimization)

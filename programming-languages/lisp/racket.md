@@ -57,3 +57,4 @@
 - [Picturing Programs: A Racket Book (2010)](http://picturingprograms.com/)
 - [racket-langserver](https://github.com/jeapostrophe/racket-langserver) - Language Server Protocol implementation for Racket.
 - [Racket GUI packages](https://github.com/racket/gui)
+- [brag](https://github.com/mbutterick/brag) - Racket DSL for generating parsers from BNF grammars.

@@ -25,3 +25,4 @@
 - [alles](https://github.com/bwhitman/alles) - Many-speaker distributed mesh synthesizer that responds to control signals over WiFi.
 - [Making A Synthesizer Using Python](https://www.reddit.com/r/Python/comments/lw50ne/making_a_synthesizer_using_python/)
 - [Synth Playground](https://learningsynths.ableton.com/en/playground)
+- [Synth Modes](https://synthmodes.com/) - Mobile-friendly cheat sheets for synthesizer modules. ([Code](https://github.com/boourns/synthmodes))

@@ -179,3 +179,4 @@
 - [Debugging Reinforcement Learning Systems (2021)](https://andyljones.com/posts/rl-debugging.html)
 - [Mastering Real-Time Strategy Games with Deep Reinforcement Learning: Mere Mortal Edition (2021)](https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/)
 - [adeptRL](https://github.com/heronsystems/adeptRL) - Reinforcement learning framework to accelerate research.
+- [OpenAI Baselines](https://github.com/openai/baselines) - Set of high-quality implementations of reinforcement learning algorithms.

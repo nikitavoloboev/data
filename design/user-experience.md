@@ -72,3 +72,4 @@
 - [“User engagement” is code for “addiction” (2021)](https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac) ([HN](https://news.ycombinator.com/item?id=26346688))
 - [How We Deliver Great Customer Experience Without a Support Team (2021)](https://calibreapp.com/blog/great-customer-experience)
 - [Fuckin' user interface design, I swear (2021)](https://blog.plover.com/tech/ui.html) ([HN](https://news.ycombinator.com/item?id=26381768))
+- [Guide to UX Research Methods](https://www.toptal.com/designers/user-research/guide-to-ux-research-methods)
