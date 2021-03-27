@@ -13,3 +13,4 @@
 - [Joonbot](https://www.joonbot.com/) - No code free website bot maker.
 - [Polis](https://github.com/pol-is/polis) - AI powered sentiment gathering platform. More organic than surveys, less effort than focus groups.
 - [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
+- [OpenChat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks.
