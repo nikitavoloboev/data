@@ -640,6 +640,7 @@
 - [SwiftLSPClient](https://github.com/ChimeHQ/SwiftLSPClient) - Swift library for interacting with Language Server Protocol implementations.
 - [TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [SDGSwift](https://github.com/SDGGiesbrecht/SDGSwift) - Swift Compiler As a Package.
+- [Foil](https://github.com/jessesquires/Foil) - Lightweight property wrapper for UserDefaults done right.
 
 ## Other (not lib)
 

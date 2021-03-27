@@ -166,3 +166,4 @@
 - [Buidling a Realtime Chat App with Next.js, Ably, and Vercel](https://github.com/ably-labs/NextJS-chat-app)
 - [A simple approach to testing next.js apps](https://hobochild.com/posts/testing.html)
 - [Micro Frontends in NextJS with Webpack 5 (2021)](https://thekevinwang.com/2021/03/26/micro-frontends-nextjs/)
+- [Yarn Workspaces + XState + Next.js Template](https://github.com/with-heart/xstate-nextjs-workspaces-template)
