@@ -111,3 +111,4 @@
 - [GoTrue](https://github.com/netlify/gotrue) - Small open-source API written in Go, that can act as a self-standing API service for handling user registration and authentication for JAM projects.
 - [FusionAuth](https://fusionauth.io/) - Authentication and Authorization built for devs.
 - [Hidden OAuth attack vectors (2021)](https://portswigger.net/research/hidden-oauth-attack-vectors)
+- [Vercel Basic Auth](https://github.com/flawyte/vercel-basic-auth) - How to add Basic Authentication to a Vercel deployment using various languages / frameworks.

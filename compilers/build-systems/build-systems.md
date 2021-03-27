@@ -56,4 +56,4 @@
 - [Buck](https://github.com/facebook/buck) - Fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. ([Web](https://buck.build/))
 - [Mage is My Favorite Make (2021)](https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/) ([Lobsters](https://lobste.rs/s/zry6q1/mage_is_my_favorite_make))
 - [Kres](https://github.com/talos-systems/kres) - Tool to automate generation of build instructions based on project structure.
-- [How you can handle The Diamond with CMake (2021)](http://beza1e1.tuxen.de/cmake_diamond.html)
+- [How you can handle The Diamond with CMake (2021)](http://beza1e1.tuxen.de/cmake_diamond.html) ([HN](https://news.ycombinator.com/item?id=26602450))

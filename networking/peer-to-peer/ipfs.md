@@ -53,3 +53,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS telegra.ph clone](https://github.com/alexstep/ipfs-telegra.ph) - Minimalist publishing tool for post data to IPFS network. UI cloned from Telegra.ph
 - [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
 - [Gantry](https://github.com/gregdhill/ipfs-oci) - Move container images to and from IPFS.
+- [ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.

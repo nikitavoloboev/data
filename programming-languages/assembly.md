@@ -38,3 +38,4 @@
 - [Top 10 Craziest Assembly Language Instructions (2021)](https://www.youtube.com/watch?v=Wz_xJPN7lAY)
 - [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
 - [How to Read ARM64 Assembly Language (2021)](https://wolchok.org/posts/how-to-read-arm64-assembly-language/)
+- [Easy 6502](http://skilldrick.github.io/easy6502/) - One-stop accessible tutorial on 6502 assembly language programming. ([Code](https://github.com/skilldrick/easy6502))

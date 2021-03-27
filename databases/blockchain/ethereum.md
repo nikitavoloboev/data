@@ -185,3 +185,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Example of connecting to an Ethereum wallet using React & Web3](https://gist.github.com/dabit3/ba2685a379236d933ba85c30d00ec50c) ([Tweet](https://twitter.com/dabit3/status/1375231016068128770))
 - [Ethereum Utilities](https://github.com/ethereum/eth-utils) - Common utility functions for python code that interacts with Ethereum.
 - [Onboard](https://github.com/blocknative/onboard) - JavaScript library to easily onboard users to ethereum apps by enabling wallet selection, connection, wallet checks and real time state updates.
+- [Rari Capital](https://app.rari.capital/) - Yield aggregator and an open interest rate protocol. ([Code](https://github.com/Rari-Capital/rari-dApp)) ([GitHub](https://github.com/Rari-Capital))
+- [micro-eth-signer](https://github.com/paulmillr/micro-eth-signer) - Create, sign and validate Ethereum transactions & addresses with minimum deps.
