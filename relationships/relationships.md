@@ -28,3 +28,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Dating over 30 Reddit Wiki](https://www.reddit.com/r/datingoverthirty/wiki/index)
 - [Ask HN: How to Build Empathy? (2021)](https://news.ycombinator.com/item?id=26523816)
 - [Ask Women over 30 Reddit](https://www.reddit.com/r/AskWomenOver30/)
+- [Has dating success fallen in recent years? (2021)](https://www.reddit.com/r/datingoverthirty/comments/me3yio/has_dating_success_fallen_in_recent_years/)
