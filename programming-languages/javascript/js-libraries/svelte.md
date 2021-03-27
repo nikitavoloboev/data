@@ -86,3 +86,4 @@
 - [Svelte NodeGUI](https://github.com/nodegui/svelte-nodegui) - Lightweight Electron alternative with native UI. ([HN](https://news.ycombinator.com/item?id=26361423)) ([Web](https://svelte.nodegui.org/))
 - [Comparing Svelte and React (2021)](https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/) ([HN](https://news.ycombinator.com/item?id=26571391))
 - [SvelteKit](https://github.com/sveltejs/kit) - Fastest way to build Svelte apps. ([Web](https://kit.svelte.dev/)) ([HN](https://news.ycombinator.com/item?id=26557886))
+- [SvelteKit, TypeScript and TailwindCSS Template](https://github.com/Dan1ve/Sveltekit-Typescript-TailwindCSS-Jit)
