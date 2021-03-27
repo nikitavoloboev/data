@@ -63,3 +63,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Hugo Code](https://github.com/gohugoio/hugo)
 - [Wowchemy](https://wowchemy.com/) - Website Builder for Hugo. ([Code](https://github.com/wowchemy/wowchemy-hugo-modules))
 - [Build, deploy and host hugo with srht.site](https://www.monotux.tech/posts/2021/03/built-with-srht-sites/) ([Lobsters](https://lobste.rs/s/pjrbwg/build_deploy_host_hugo_with_srht_site))
+- [How to use GitHub Actions and private repositories to deploy a Hugo static site (2021)](https://reverse.put.as/2021/03/11/hugo-githubactions/)

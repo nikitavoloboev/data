@@ -26,3 +26,4 @@
 - [Simple Go HTTPS/TLS Examples](https://github.com/denji/golang-tls)
 - [third-wheel](https://github.com/campbellC/third-wheel) - TLS man-in-the-middle proxy written in rust, with the aim of being lightweight and fast.
 - [SSLsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception. ([Web](https://www.roe.ch/SSLsplit))
+- [Is TLS Fast Yet?](https://istlsfastyet.com/)
