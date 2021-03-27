@@ -68,3 +68,4 @@
 - [Coronavirus: Links, Discussion, Open Thread (2021)](https://astralcodexten.substack.com/p/coronavirus-links-discussion-open) ([HN](https://news.ycombinator.com/item?id=26151086))
 - [Why can't we have contagious vaccines? (2021)](https://www.reddit.com/r/askscience/comments/lqniul/why_cant_we_have_contagious_vaccines/)
 - [Genome Sequencing and Covid-19: How Scientists Are Tracking the Virus (2021)](https://www.nytimes.com/interactive/2021/03/25/magazine/genome-sequencing-covid-variants.html?action=click&module=Top%20Stories&pgtype=Homepage)
+- [Vanden Bossche, PhD: the risk of “viral escape” posed by “leaky vaccines.” (2021)](https://www.youtube.com/watch?v=2LSMpuQcTSE)

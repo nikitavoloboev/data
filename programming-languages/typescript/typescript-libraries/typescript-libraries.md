@@ -103,6 +103,7 @@
 - [prex](https://github.com/rbuckton/prex) - Asynchronous coordination for JavaScript and TypeScript.
 - [Purifree](https://github.com/nythrox/purifree) - Pointfree type-safe functional programming library for TypeScript - with do notation, HKTs, generic lifts and more.
 - [valita](https://github.com/badrap/valita) - Typesafe validation & parsing library for TypeScript.
+- [Tick-Knock](https://github.com/mayakwd/tick-knock) - Small and powerful, type-safe and easy-to-use Entity-Component-System (ECS) library written in TypeScript.
 
 ## Links
 
