@@ -169,3 +169,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Funds for Open Source (2021)](https://blog.opencollective.com/funds-for-open-source/) ([HN](https://news.ycombinator.com/item?id=26578898))
 - [“Free Software”: An idea whose time has passed (2021)](https://r0ml.medium.com/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
 - [Let's talk about money and open source (2021)](https://twitter.com/siddharthkp/status/1324402646762086407)
+- [Open source is not a business model (2018)](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/) ([HN](https://news.ycombinator.com/item?id=26602316))

@@ -119,3 +119,4 @@
 - [My experience of writing Lisp in Pony (2020)](https://stereobooster.com/posts/my-experience-of-writing-lisp-in-pony/)
 - [Bootstrapping LISP in a Boot Sector](https://github.com/jart/sectorlisp)
 - [Fancy defines](https://idiomdrottning.org/fancy-defines) ([Lobsters](https://lobste.rs/s/mgfnix/fancy_defines))
+- [Swift LispKit](https://github.com/objecthub/swift-lispkit) - Framework for building Lisp-based extension and scripting languages for macOS and iOS applications.
