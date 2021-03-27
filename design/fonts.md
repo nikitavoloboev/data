@@ -225,3 +225,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Grid Systems in Graphic Design Book](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)
 - [Continuous Typography (2020)](https://maxkoehler.com/posts/continuous-typography/)
 - [Fontshare](https://www.fontshare.com/) - Free fonts service.
+- [Glyphs](https://glyphsapp.com/) - Mac font editor that puts you in control.

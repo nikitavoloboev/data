@@ -36,3 +36,4 @@
 - [Logical Fallacies](https://www.logicalfallacies.org/) - List of Logical Fallacies with Examples. ([HN](https://news.ycombinator.com/item?id=25967160))
 - [Intensional Logic in Context – from philosophy to technology (2021)](https://billwadge.wordpress.com/2021/02/21/intensional-logic-in-context-from-philosophy-to-technology/)
 - [Open Logic Project](https://openlogicproject.org/) - Open Source, Customizable, Advanced Logic Text. ([Code](https://github.com/OpenLogicProject/OpenLogic))
+- [Combinators: A Centennial View (2021)](https://arxiv.org/abs/2103.12811) ([HN](https://news.ycombinator.com/item?id=26603872))
