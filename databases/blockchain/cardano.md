@@ -22,3 +22,4 @@
 - [Cardano Ops](https://github.com/input-output-hk/cardano-ops) - NixOps deployment configuration for IOHK/Cardano devops.
 - [Reasons ADA could fail (2021)](https://www.reddit.com/r/cardano/comments/ls7rz6/tell_me_all_the_reasons_ada_could_fail/)
 - [Getting Started Developing on Cardano (2021)](https://www.reddit.com/r/CardanoDevelopers/comments/m31l87/getting_started_developing_on_cardano/)
+- [Charles Hoskinson Surprise AMA March 27, 2021](https://www.youtube.com/watch?v=-CdzVz9TjcM)
