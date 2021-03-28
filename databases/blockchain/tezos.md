@@ -13,7 +13,7 @@
 - [Arthur Breitman's blog](https://ex.rs/) - Creator of tezos.
 - [Tezos code](https://gitlab.com/tezos/tezos)
 - [Tezos — a self-amending crypto-ledger White Paper (2014)](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf) ([Code](https://github.com/tezos/tezos-papers))
-- [Tezos Docs](https://assets.tqtezos.com/docs/intro/)
+- [Tezos Docs](https://assets.tqtezos.com/docs/intro/) ([Code](https://github.com/tqtezos/assets.tqtezos.com))
 - [Tezos Developer Portal](https://developers.tezos.com/)
 - [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries.
 - [Virtual Discussion with Emin Gün Sirer and Kathleen Breitman on Tezos (2020)](https://www.youtube.com/watch?v=5pvniYzV5hc)
@@ -34,3 +34,5 @@
 - [SimpleStaking](https://simplestaking.com/) - Safe way to store & stake Tezos. Desktop & Web Wallet with Trezor support. ([GitHub](https://github.com/simplestaking))
 - [Kukai](https://wallet.kukai.app/) - Tezos web wallet based on three principles: Security, Community and Reliability. ([Code](https://github.com/kukai-wallet/kukai)) ([Reddit](https://www.reddit.com/r/tezos/comments/lx60jf/tezos_is_about_to_explode_on_twitter/))
 - [Tezos Florence Protocol Upgrade (2021)](https://forum.tezosagora.org/t/florence-our-next-protocol-upgrade-proposal/2816)
+- [Build your first DApp on Tezos in 2-4 hours (2021)](https://styts.com/your-first-tezos-dapp/)
+- [The Protocol: from High-level Command Line to Low-level Operations (2021)](https://blog.nomadic-labs.com/the-protocol-from-high-level-command-line-to-low-level-operations.html)

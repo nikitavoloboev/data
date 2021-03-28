@@ -23,3 +23,8 @@
 - [Reasons ADA could fail (2021)](https://www.reddit.com/r/cardano/comments/ls7rz6/tell_me_all_the_reasons_ada_could_fail/)
 - [Getting Started Developing on Cardano (2021)](https://www.reddit.com/r/CardanoDevelopers/comments/m31l87/getting_started_developing_on_cardano/)
 - [Charles Hoskinson Surprise AMA March 27, 2021](https://www.youtube.com/watch?v=-CdzVz9TjcM)
+- [CNFT](https://www.cnft.io/) - Digital Token Platform. Using Cardano.
+- [Goguen Smart Contracts - Cardano Roadmap](https://roadmap.cardano.org/en/goguen/)
+- [Daedalus](https://daedaluswallet.io/) - Open source wallet for ada, built to grow with the Cardano blockchain.
+- [Yoroi](https://yoroi-wallet.com/#/) - Light Wallet for Cardano.
+- [Cardano PoolTool](https://pooltool.io/) - Comprehensive staking statistics for Cardano on the web.
