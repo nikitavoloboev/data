@@ -188,7 +188,7 @@
 - [Canduma rust authentication server boilerplate](https://github.com/clifinger/canduma) - Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT.
 - [Rust teams structure](https://github.com/rust-lang/team)
 - [Rust Learning](https://github.com/ctjhoa/rust-learning) - Bunch of links to blog posts, articles, videos, etc for learning Rust.
-- [How often does Rust change? (2020)](https://steveklabnik.com/writing/how-often-does-rust-change) ([Lobsters](https://lobste.rs/s/rbpnib/how_often_does_rust_change)) ([HN](https://news.ycombinator.com/item?id=22842442))
+- [How often does Rust change? (2020)](https://steveklabnik.com/writing/how-often-does-rust-change) ([Lobsters](https://lobste.rs/s/rbpnib/how_often_does_rust_change)) ([HN](https://news.ycombinator.com/item?id=22842442)) ([HN 2](https://news.ycombinator.com/item?id=26606617))
 - [Cranelift backend for rustc](https://github.com/bjorn3/rustc_codegen_cranelift)
 - [Possible New Backend for Rust (2020)](https://jason-williams.co.uk/a-possible-new-backend-for-rust)
 - [Ask Rust Experts](https://rust-experts.com/#qna-ide-1)
@@ -430,3 +430,4 @@
 - [Safe Systems Programming in Rust (2021)](https://cacm.acm.org/magazines/2021/4/251364-safe-systems-programming-in-rust/fulltext)
 - [How to execute shellcodes from memory in Rust (2021)](https://kerkour.com/blog/rust-execute-from-memory/)
 - [Fireflowers - The Rust Programming Language, in the words of its practitioners](https://brson.github.io/fireflowers/)
+- [Pin and suffering (2021)](https://fasterthanli.me/articles/pin-and-suffering)

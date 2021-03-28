@@ -13,3 +13,5 @@
 - [Ada Improvements Ideas](https://github.com/Entomy/Ada-Improvements)
 - [HAC](https://github.com/zertovitch/hac) - Experimental Ada compiler, fully in Ada. ([Web](https://hacadacompiler.sourceforge.io/))
 - [Giving Ada a chance (2021)](https://ajxs.me/blog/Giving_Ada_a_chance.html) ([Lobsters](https://lobste.rs/s/cktczx/giving_ada_chance)) ([HN](https://news.ycombinator.com/item?id=26302344))
+- [Ada for the C++ and Java Developer](https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf) ([HN](https://news.ycombinator.com/item?id=26609060))
+- [Ada for the Embedded C Developer (2021)](https://www.youtube.com/watch?v=Myqo75Yb_lU)

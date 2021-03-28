@@ -1,5 +1,9 @@
 # Sex
 
+## Notes
+
+- [Give her an O (or more) before you actually fuck. That way if you finish early it’s not the end of the world. I would also say give her an O after you’ve cum as well.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
+
 ## Links
 
 - [Dipsea](https://www.dipseastories.com/) - Sexy audio stories that set the mood and spark your imagination.
@@ -21,3 +25,6 @@
 - [Women's loss of desire and the pleasure gap (2021)](https://www.reddit.com/r/LowLibidoCommunity/comments/kjo53m/womens_loss_of_desire_and_the_pleasure_gap/)
 - [Women who found it difficult to orgasm during sex but “worked it out”, what’s your trick? (2021)](https://www.reddit.com/r/sex/comments/m8euc5/women_who_found_it_difficult_to_orgasm_during_sex/)
 - [New partner. How to get the most pleasure from his shape/size of penis?](https://www.reddit.com/r/sexover30/comments/me08vc/new_partner_how_to_get_the_most_pleasure_from_his/)
+- [A Beginner's Guide to Good, Great, and Amazing Sex](https://www.reddit.com/r/sexover30/comments/71zp0s/a_beginners_guide_to_good_great_and_amazing_sex/)
+- [Fascinating G-Spot Orgasm Thread](https://www.reddit.com/r/sexover30/comments/islp9p/fascinating_gspot_orgasm_thread/)
+- [My Tips on Giving Oral to Women (31M)](https://www.reddit.com/r/sexover30/comments/gva63v/my_tips_on_giving_oral_to_women_31m/)

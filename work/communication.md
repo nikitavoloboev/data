@@ -90,3 +90,4 @@
 - [When Should I Interrupt Someone? (2021)](https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/) ([HN](https://news.ycombinator.com/item?id=26463910))
 - [How to Give a Status Update To Executives (2021)](https://jacobian.org/2021/mar/5/exec-status-update/)
 - [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
+- [How can you tell if someone is lying? (2021)](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/) ([HN](https://news.ycombinator.com/item?id=26607386))

@@ -20,3 +20,4 @@ Some interesting words I like:
 - [Tense Present (2001)](https://harpers.org/wp-content/uploads/HarpersMagazine-2001-04-0070913.pdf) - Beautiful exploration of language and dialect.
 - [Common Errors in English Usage](https://brians.wsu.edu/common-errors/)
 - [European Commission English Style Guide](https://ec.europa.eu/info/sites/info/files/styleguide_english_dgt_en.pdf) ([HN](https://news.ycombinator.com/item?id=26465586))
+- [English is relatively easy to learn, but not to master (2018)](http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/) ([HN](https://news.ycombinator.com/item?id=26597578))
