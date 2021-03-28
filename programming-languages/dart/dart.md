@@ -19,3 +19,4 @@
 - [realtime-dart](https://github.com/supabase/realtime-dart) - Listens to changes in a PostgreSQL Database and via websockets.
 - [OverReact](https://github.com/Workiva/over_react) - Library for building statically-typed React UI components using Dart.
 - [image](https://github.com/brendan-duncan/image) - Dart library for decoding/encoding image formats, and image processing.
+- [Ferry](https://github.com/gql-dart/ferry) - Simple, powerful GraphQL Client for Flutter and Dart.

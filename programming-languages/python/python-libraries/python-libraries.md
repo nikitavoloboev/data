@@ -371,6 +371,7 @@
 - [QP Solvers for Python](https://github.com/stephane-caron/qpsolvers) - Quadratic Programming solvers in Python with a unified API.
 - [talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
 - [MatchPy](https://github.com/HPAC/matchpy) - Library for pattern matching on symbolic expressions in Python.
+- [DPPy](https://github.com/guilgautier/DPPy) - Sampling Determinantal Point Processes with Python.
 
 ## Links
 
