@@ -24,6 +24,7 @@
 
 ## Web
 
+- [ntex](https://github.com/ntex-rs/ntex) - Framework for composable networking services.
 - [Isahc](https://github.com/sagebind/isahc) - Practical HTTP client that is fun to use.
 - [tide-acme](https://github.com/http-rs/tide-acme) - Automatic HTTPS certificates for Tide, via Let's Encrypt and ACME tls-alpn-01 challenges.
 - [preroll](https://github.com/eaze/preroll) - Easy boilerplate utilities for Rust http services which use async-std, Tide, Surf, and friends. ([Tweet](https://twitter.com/Fishrock123/status/1374072772737998848?s=20))
