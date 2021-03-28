@@ -201,3 +201,4 @@ I publish most of my work and make it open source for other people to use and re
 - [ghstack](https://github.com/ezyang/ghstack) - Submit stacked diffs to GitHub on the command line.
 - [GitHub Diff](https://git-diff.netlify.app/) - Compare changes across GitHub branches, commits, or tags. ([Code](https://github.com/breadthe/svelte-git-diff))
 - [Scripting with GitHub CLI (2021)](https://github.blog/2021-03-11-scripting-with-github-cli/)
+- [GitHub Learning Lab](https://lab.github.com/githubtraining/)

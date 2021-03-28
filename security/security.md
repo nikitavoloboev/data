@@ -149,3 +149,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Ask HN: Any tips for a programmer wanting to switch into security? (2021)](https://news.ycombinator.com/item?id=26056136)
 - [Free CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
 - [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [GitHub Learning Lab: Security Strategy Essentials](https://lab.github.com/githubtraining/security-strategy-essentials)
