@@ -178,3 +178,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Text Adventures: how Twine remade gaming (2021)](https://www.theverge.com/22321816/twine-games-history-legacy-art)
 - [Serious Play (2021)](https://www.andy.works/words/serious-play) - Video games are taking over the world and it's time for Design to take them seriously.
 - [Wavedash](https://wavedash.gg/) - Discover new games. Keep track of what you've played. Share your thoughts.
+- [What’s the last 10/10 video game you played? (2021)](https://twitter.com/patrick_oshag/status/1376214010895405065)
