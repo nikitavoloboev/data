@@ -447,3 +447,4 @@ Go promotes composition over inheritance.
 - [Practical Go Lessons Book](https://www.practical-go-lessons.com/) ([HN](https://news.ycombinator.com/item?id=26568014))
 - [Life of a Go module (2021)](https://jayconrod.com/posts/118/life-of-a-go-module)
 - [Gotchas in the Go Network Packages Defaults (2021)](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
+- [Common anti-patterns in Go (2021)](https://deepsourcehq.hashnode.dev/common-anti-patterns-in-go)

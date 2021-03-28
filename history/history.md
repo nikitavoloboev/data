@@ -101,3 +101,4 @@
 - [How the ARPANET Protocols Worked (2021)](https://twobithistory.org/2021/03/08/arpanet-protocols.html)
 - [Computing History Hub](https://www.notion.so/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521)
 - [Computers and Creativity (2021)](https://www.mollymielke.com/cc)
+- [A History of Boats, Canals & Finance (2021)](https://investoramnesia.com/2021/03/28/a-history-of-boats-canals-finance/) ([Tweet](https://twitter.com/InvestorAmnesia/status/1376143250571026441))
