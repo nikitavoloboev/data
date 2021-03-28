@@ -59,3 +59,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [Make VS Code Awesome](https://makevscodeawesome.com/)
 - [snp](https://github.com/djyde/snp) - VS Code code snippet generator.
 - [HN: Reflections on IDEA vs VS Code (2021)](https://news.ycombinator.com/item?id=26367410)
+- [Productive VS Code](https://productivevscode.com/) - Change the way you VS Code in 1 hour.

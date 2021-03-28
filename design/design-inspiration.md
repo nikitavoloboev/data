@@ -57,6 +57,7 @@ Here are few more things I liked, design wise.
 - [Remotive](https://remotive.io/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
+- [Haikei](https://haikei.app/)
 - [Walling](https://walling.app/)
 - [Raycast](https://raycast.com/)
 - [Work Notes](https://worknotes.co.uk/)

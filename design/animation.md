@@ -38,3 +38,4 @@
 - [Transforming animation with machine learning (2021)](https://medium.com/embarkstudios/transforming-animation-with-machine-learning-27ac694590c)
 - [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://github.com/google/monster-mash)
 - [Animated Engines](http://animatedengines.com/) ([HN](https://news.ycombinator.com/item?id=26368939))
+- [Motion Made Simple](https://motion.dev/)
