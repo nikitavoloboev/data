@@ -76,3 +76,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Binance.US](https://www.binance.us/en/home) - Buy & Sell Crypto.
 - [NFTs and crypto-art, from a practicing artist, who thinks, on balance that (ultimately) it's a good idea (2021)](https://revdancatt.com/2021/03/23/nfts-crypto-art-what-is-is-from-an-artists-view)
 - [Alternatives to Proof of Work (PoW) (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mdvdag/proof_of_what/)
+- [Balaji Interview (2021)](https://tim.blog/2021/03/24/balaji-srinivasan/)

@@ -57,3 +57,4 @@
 - [Genomics Workflows on AWS](https://github.com/aws-samples/aws-genomics-workflows) ([Web](https://docs.opendata.aws/genomics-workflows/))
 - [Pyne Lab](https://pyne-lab.uk/) - Single molecule biophysics of DNA interactions.
 - [Nextclade](https://clades.nextstrain.org/) - Viral genome alignment, clade assignment, mutation calling, and quality checks. ([Code](https://github.com/nextstrain/nextclade))
+- [Shooting out the messenger—mRNA and how the pandemic advanced biotechnologies (2021)](https://www.economist.com/podcasts/2021/03/24/shooting-out-the-messenger-mrna-and-how-the-pandemic-advanced-biotechnologies) ([Tweet](https://twitter.com/EricTopol/status/1376253167575334914))

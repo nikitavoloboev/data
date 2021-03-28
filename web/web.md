@@ -243,3 +243,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Web’s Missing Interoperability (2021)](https://stratechery.com/2021/the-webs-missing-interoperability/) ([HN](https://news.ycombinator.com/item?id=26316209))
 - [Ask HN: What's the fastest stack for making web side projects? (2021)](https://news.ycombinator.com/item?id=26556722)
 - [Permission.site](https://permission.site/) - Simple site to test permission-related UI for web APIs. ([Code](https://github.com/chromium/permission.site)) ([HN](https://news.ycombinator.com/item?id=26588480))
+- [How will the web be different in 5 years from now? (2021)](https://twitter.com/koenbok/status/1375759968272535552)

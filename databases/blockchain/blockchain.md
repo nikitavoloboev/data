@@ -118,3 +118,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How NFT's actually reference the media you're "buying" (2021)](https://twitter.com/samecwilliams/status/1372295148516864002)
 - [What Does It Mean To Buy a Gif? (2021)](https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html)
 - [Why The NFT Market Is Not As Crazy As You Think (2021)](https://www.youtube.com/watch?v=UpXCUEOcyNs)
+- [a16z Podcast: All about NFTs (2021)](https://a16z.com/2021/03/27/nfts-explainer-faqs-hype-reality-innovation-crypto-creator-economy/)

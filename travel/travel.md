@@ -3,6 +3,7 @@
 ## Notes
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
+- [You can use the minus syntax to exclude results in Google Maps.](https://twitter.com/conradev/status/1376219194010656769)
 
 ## Links
 
