@@ -245,3 +245,4 @@
 - [Complete Proof of the Collatz Conjecture (2021)](https://arxiv.org/abs/2101.06107)
 - [A Guide to Writing Mathematics](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf) ([HN](https://news.ycombinator.com/item?id=26520971))
 - [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html) ([HN](https://news.ycombinator.com/item?id=26524876))
+- [How to Solve It Book by George Pólya (1945)](https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf)
