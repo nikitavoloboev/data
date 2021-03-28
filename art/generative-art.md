@@ -115,3 +115,4 @@
 - [Creative Code algorithms & techniques](https://www.notion.so/Creative-Code-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b) ([Tweet](https://twitter.com/sableRaph/status/1367085820734279686))
 - [Generative Art Finds Its Prodigy (2018)](https://www.artnome.com/news/2018/8/8/generative-art-finds-its-prodigy)
 - [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees. ([Web](https://www.michaelfogleman.com/static/quads/))
+- [Coding Adventure: Ant and Slime Simulations (2021)](https://www.youtube.com/watch?v=X-iSQQgOd1A)

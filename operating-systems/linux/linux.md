@@ -282,3 +282,4 @@
 - [An Introduction to Linux Kernel Exploitation (2021)](https://pwning.systems/posts/an-introduction-to-kernel-exploitation-part1/)
 - [Buildroot](https://buildroot.org/) - Making Embedded Linux Easy. ([HN](https://news.ycombinator.com/item?id=26473632))
 - [Outrun](https://github.com/Overv/outrun) - Execute local command using processing power of another Linux machine. ([HN](https://news.ycombinator.com/item?id=26504131))
+- [Box86](https://github.com/ptitSeb/box86) - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices.

@@ -134,3 +134,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Underline](https://underline.email/) - For sending email newsletters, not “campaigns”.
 - [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - List of disposable email domains.
 - [Email is Good](https://email-is-good.com/) - Site about email productivity.
+- [Gefilte Fish](https://github.com/nedbat/gefilte) - Automates the creation of GMail filters.

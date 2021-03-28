@@ -94,3 +94,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Вот почему люди хотят «назад в СССР»](https://mirovich.media/657703.html)
 - [Lurkmore](https://lurkmore.to/)
 - [Объявление холодной войны. Беседа с Юрием Швецом (2021)](https://www.youtube.com/watch?v=5MTKH9YJk60)
+- [Главное — признать, что ты сволочь (2021)](https://holod.media/2021/03/25/roditeli/) - Как живут родители, которые били своих детей, но потом раскаялись в этом.

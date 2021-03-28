@@ -6,3 +6,4 @@
 - [.NET NanoFramework](https://www.nanoframework.net/) - Making it easy to write C# code for embedded systems. ([HN](https://news.ycombinator.com/item?id=25787800))
 - [.NET for Beginners (2020)](https://dusted.codes/dotnet-for-beginners)
 - [.NET GC Internals mini-series (2021)](https://tooslowexception.com/net-gc-internals-mini-series/) ([HN](https://news.ycombinator.com/item?id=25876087))
+- [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) - Build client web apps with C#.

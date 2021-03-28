@@ -15,3 +15,4 @@
 - [F# Weekly](https://sergeytihon.com/category/f-weekly/)
 - [Write your own Excel in 100 lines of F# (2018)](http://tomasp.net/blog/2018/write-your-own-excel/#)
 - [How do I get started with F#? (2021)](https://www.compositional-it.com/news-blog/how-do-i-get-started-with-f/)
+- [Bolero](https://github.com/fsbolero/Bolero) - Set of tools and libraries to run F# applications in WebAssembly using Blazor.

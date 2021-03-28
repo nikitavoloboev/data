@@ -352,3 +352,4 @@
 - [Awesome Kubernetes Security](https://github.com/magnologan/awesome-k8s-security)
 - [Porter](https://www.getporter.dev/) - Fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more. ([Code](https://github.com/porter-dev/porter)) ([Dashboard](https://dashboard.getporter.dev/login))
 - [Learnk8s](https://learnk8s.io/) - Kubernetes training company.
+- [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies) ([Article](https://blog.container-solutions.com/kubernetes-deployment-strategies))
