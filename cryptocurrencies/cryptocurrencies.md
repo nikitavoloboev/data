@@ -75,3 +75,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Cryptography behind the top cryptocurrencies](http://ethanfast.com/top-crypto.html) ([HN](https://news.ycombinator.com/item?id=26526108))
 - [Binance.US](https://www.binance.us/en/home) - Buy & Sell Crypto.
 - [NFTs and crypto-art, from a practicing artist, who thinks, on balance that (ultimately) it's a good idea (2021)](https://revdancatt.com/2021/03/23/nfts-crypto-art-what-is-is-from-an-artists-view)
+- [Alternatives to Proof of Work (PoW) (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mdvdag/proof_of_what/)

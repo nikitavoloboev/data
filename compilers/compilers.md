@@ -150,3 +150,4 @@
 - [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
 - [JitFromScratch](https://github.com/weliveindetail/JitFromScratch) - Example project from my talks in the LLVM Social Berlin and C++ User Group.
 - [Interpreter, Compiler, JIT (2015)](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/) ([Code](https://github.com/jserv/jit-construct))
+- [A simple program reducer for any language (2021)](https://comby.dev/blog/2021/03/26/comby-reducer)
