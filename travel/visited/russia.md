@@ -6,7 +6,7 @@ It's a travesty that citizen's taxes are are being stolen to further [strengthen
 
 As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed](https://twitter.com/Krychek5/status/1370767723446292491) that they are [ok with being abused](https://twitter.com/CurrentTimeTv/status/1366436879550328839). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
 
-My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
+My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to [stop being abused by their environment](https://twitter.com/Dr_Mozgoprav_/status/1376094848437121024).
 
 Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) such as [Russia](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) and China is hard and requires courage and coordination given the amount of money being spent on police & military by these dictators and the [depths in which they go](https://varlamov.ru/4200776.html) to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
 

@@ -6,6 +6,10 @@ I [never limit my sleep and I try to sleep as much as my body needs](https://www
 
 I try to go to bed at the same time each day to maintain the Circadian rhythm.
 
+## Notes
+
+- [Consuming alcohol prior to sleep increases your avg sleeping heart rate by >10% because your liver is metabolizing alcohol and your body producing cortisol. You are forcing your heart to beat an extra 3k times during the night + getting lower sleep quality and lower recovery](https://twitter.com/m_franceschetti/status/1375867987614371840)
+
 ## Links
 
 - [Matthew Walker Ph.D - Author of “Why We Sleep: Unlocking the Power of Sleep and Dreams” (2018)](https://overcast.fm/+GJeg4VYxg)
