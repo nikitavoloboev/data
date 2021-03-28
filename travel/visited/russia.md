@@ -95,3 +95,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Lurkmore](https://lurkmore.to/)
 - [Объявление холодной войны. Беседа с Юрием Швецом (2021)](https://www.youtube.com/watch?v=5MTKH9YJk60)
 - [Главное — признать, что ты сволочь (2021)](https://holod.media/2021/03/25/roditeli/) - Как живут родители, которые били своих детей, но потом раскаялись в этом.
+- [Галина Юзефович критикует Толстого и хвалит Гарри Поттера (2018)](https://www.youtube.com/watch?v=KPvADZhowDQ) ([Tweet](https://twitter.com/letopisi_rus/status/1376083034034823168))
+- [Екатерина Шульман о литературе, Толкине, президентстве и «Всемирном идеологическом отделе» (2021)](https://www.youtube.com/watch?v=dv1gNmGmOMg)
