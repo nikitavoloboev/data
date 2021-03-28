@@ -60,3 +60,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Why is there no definitive healthy Human Diet? (2020)](https://www.reddit.com/r/nutrition/comments/h7jxvp/why_is_there_no_definitive_healthy_human_diet/)
 - [Summary of US nutrition guidelines (2020)](https://news.ycombinator.com/item?id=25570551)
 - [Nutrition Reddit Wiki - Suggested Reading](https://www.reddit.com/r/nutrition/wiki/books)
+- [If calories = energy, why do some high calorie things not make you satiated and energized while low calorie things do? (2021)](https://www.reddit.com/r/nutrition/comments/messhn/if_calories_energy_why_do_some_high_calorie/)
