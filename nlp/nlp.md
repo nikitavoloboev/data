@@ -266,3 +266,4 @@
 - [Natural Language YouTube Search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language.
 - [Accelerate](https://github.com/huggingface/accelerate) - Simple way to train and use NLP models with multi-GPU, TPU, mixed-precision.
 - [Classical Language Toolkit (CLTK)](https://github.com/cltk/cltk) - Python library offering natural language processing (NLP) for pre-modern languages. ([Web](http://cltk.org/))
+- [Guide: Finetune GPT2-XL](https://github.com/Xirider/finetune-gpt2xl)

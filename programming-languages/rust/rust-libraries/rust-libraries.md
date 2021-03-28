@@ -765,6 +765,7 @@
 - [cooper](https://github.com/fpagliughi/cooper-rs) - Simple in-process Actor library in Rust.
 - [Mtrx](https://github.com/MayorMonty/mtrx) - Type-safe matrix operations using Rust's const generics.
 - [Rustwide](https://github.com/rust-lang/rustwide) - Execute your code on the Rust ecosystem.
+- [array-init](https://github.com/Manishearth/array-init) - Safe wrapper for initializing arrays.
 
 ## Cargo Plugins
 
