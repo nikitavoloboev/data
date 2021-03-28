@@ -86,3 +86,4 @@
 - [Lion: A formally verified, 5-stage pipeline RISC-V core](https://github.com/standardsemiconductor/lion) ([HN](https://news.ycombinator.com/item?id=26341055))
 - [R2VM](https://github.com/nbdd0121/r2vm) - Rust RISC-V Virtual Machine.
 - [What happens when you load into x0 on RISC-V? (2021)](https://commaok.xyz/post/riscv_isa_blog_post/)
+- [RARS](https://github.com/TheThirdOne/rars) - RISC-V Assembler and Runtime Simulator.

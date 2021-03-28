@@ -40,3 +40,4 @@
 - [How to Read ARM64 Assembly Language (2021)](https://wolchok.org/posts/how-to-read-arm64-assembly-language/)
 - [Easy 6502](http://skilldrick.github.io/easy6502/) - One-stop accessible tutorial on 6502 assembly language programming. ([Code](https://github.com/skilldrick/easy6502))
 - [swiftdasm](https://github.com/plotfi/swiftdasm) - arm64 disassembler written in Swift.
+- [Haruspex](https://github.com/can1357/haruspex) - Exploration of x86-64 ISA using speculative execution.

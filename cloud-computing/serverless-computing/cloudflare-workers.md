@@ -45,3 +45,4 @@
 - [Vitessedge](https://github.com/frandiox/vitessedge-template) - Opinionated Vite Starter Template with SSR in Cloudflare Workers.
 - [Worktop](https://github.com/lukeed/worktop) - Next generation web framework for Cloudflare Workers.
 - [Vercel Serverless Functions vs. Cloudflare Workers (2021)](https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers) ([HN](https://news.ycombinator.com/item?id=26580102))
+- [workers-graphql](https://github.com/caass/workers-graphql) - GraphQL API built for Cloudflare Workers.

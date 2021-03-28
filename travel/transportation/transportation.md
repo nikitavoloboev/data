@@ -18,3 +18,4 @@
 - [H3X](https://www.h3x.tech/) - Electric Aircraft Propulsion. ([HN](https://news.ycombinator.com/item?id=26224709))
 - [Vessel Finder](https://www.vesselfinder.com/) - Free AIS Ship Tracking of Marine Traffic.
 - [The Drivers Cooperative](https://www.drivers.coop/) ([HN](https://news.ycombinator.com/item?id=26588607))
+- [TeslaMate](https://github.com/adriankumpf/teslamate) - Powerful, self-hosted data logger for your Tesla.

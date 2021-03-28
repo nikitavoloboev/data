@@ -239,3 +239,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Oh My Git!](https://ohmygit.org/) - Open source game about learning Git. ([Code](https://github.com/git-learning-game/oh-my-git))
 - [Improving large monorepo performance on GitHub (2021)](https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/) ([HN](https://news.ycombinator.com/item?id=26479127))
 - [Self-Hosting Git (2020)](https://peppe.rs/posts/self-hosting_git/) ([HN](https://news.ycombinator.com/item?id=26490179))
+- [Git scraping: tracking changes to a scraped data source using GitHub Actions (2021)](https://www.youtube.com/watch?v=2CjA-03yK8I) ([Tweet](https://twitter.com/simonw/status/1367632117127995393))

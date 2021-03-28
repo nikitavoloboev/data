@@ -78,3 +78,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegram Bugs and Suggestions](https://bugs.telegram.org/)
 - [A Telegram bot in Elixir featuring LiveView (2021)](https://underjord.io/a-telegram-bot-in-elixir.html)
 - [tg-archive](https://github.com/knadh/tg-archive) - Tool for exporting Telegram group chats into static websites, preserving chat history like mailing list archives.
+- [LoggerTelegramBackend](https://github.com/adriankumpf/logger-telegram-backend) - Logger backend for Telegram.

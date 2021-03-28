@@ -25,6 +25,7 @@
 - [reason-recoil](https://github.com/bloodyowl/reason-recoil) - Zero-cost bindings to Facebook's Recoil library.
 - [re-classnames](https://github.com/MinimaHQ/re-classnames) - Reimplementation of classnames in ReasonML.
 - [Fetch](https://github.com/lessp/fetch) - Fetch libraries and interface for ReasonML/OCaml.
+- [Relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
 
 ## Links
 
