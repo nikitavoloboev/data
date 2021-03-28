@@ -130,3 +130,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Why Bitcoin Cash?](https://whybitcoincash.com/)
 - [Bitcoin Lightning Documentation](https://github.com/t-bast/lightning-docs)
 - [Bitcoin is not a Battery – it is a Sink (2021)](https://elad-verbin.medium.com/bitcoin-is-not-a-battery-it-is-a-sink-852db9669f20) ([HN](https://news.ycombinator.com/item?id=26611342))
+- [Lightning Network Hacksprint Wrap-Up (March 2021)](https://www.youtube.com/watch?v=cj-7hC0kksA)

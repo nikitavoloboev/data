@@ -109,3 +109,4 @@
 - [BiLSTM-CNN-CRF architecture for sequence tagging](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf)
 - [scArches](https://github.com/theislab/scarches) - Package to integrate newly produced single-cell datasets into integrated reference atlases.
 - [Biotech for the Biocurious (2021)](https://minutes.substack.com/p/biotech-for-the-biocurious)
+- [The Century of Biology Newsletter](https://centuryofbio.substack.com/)

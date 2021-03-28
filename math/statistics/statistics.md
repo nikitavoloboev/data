@@ -89,3 +89,4 @@
 - [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) ([HN](https://news.ycombinator.com/item?id=26312904))
 - [What are the most important statistical ideas of the past 50 years? (2021)](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf) ([HN](https://news.ycombinator.com/item?id=26374788))
 - [Comments on ML "versus" statistics (2020)](https://sgfin.github.io/2020/01/31/Comments-ML-Statistics/)
+- [Nice Statistics term names (2021)](https://twitter.com/erikbryn/status/1376250955612581890)

@@ -431,3 +431,4 @@
 - [How to execute shellcodes from memory in Rust (2021)](https://kerkour.com/blog/rust-execute-from-memory/)
 - [Fireflowers - The Rust Programming Language, in the words of its practitioners](https://brson.github.io/fireflowers/)
 - [Pin and suffering (2021)](https://fasterthanli.me/articles/pin-and-suffering)
+- [Where to go to learn Rust in 2021](https://loige.co/where-to-go-to-learn-rust-in-2021/)
