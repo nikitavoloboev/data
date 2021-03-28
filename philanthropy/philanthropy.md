@@ -12,3 +12,4 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 - [GiveDirectly](https://www.givedirectly.org/) - Send money to people living in poverty.
 - [Equity for Impact](https://equityforimpact.com/)
 - [Omaze](https://www.omaze.com/) - Raises money for charity by offering incredible experiences.
+- [Kiva](https://www.kiva.org/) - Loans that change lives.
