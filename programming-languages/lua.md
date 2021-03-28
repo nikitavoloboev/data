@@ -54,3 +54,4 @@
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) - Opinionated Lua code formatter.
 - [Full Moon](https://github.com/Kampfkarren/full-moon) - Lossless Lua 5.1 parser.
 - [Ravi](https://github.com/dibyendumajumdar/ravi) - Dialect of Lua, featuring limited optional static typing, JIT and AOT compilers. ([Web](http://ravilang.github.io/))
+- [LuaJIT compiler explorer](https://luajit.me/) ([Code](https://github.com/rapidlua/luajit.me))

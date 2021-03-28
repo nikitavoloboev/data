@@ -68,3 +68,4 @@
 - [Deep Dive Into Roam's Data Structure (2021)](https://www.zsolt.blog/2021/01/Roam-Data-Structure-Query.html) - Why Roam is Much More Than a Note Taking App. ([Video](https://www.youtube.com/watch?v=wjIMRD-JKfU))
 - [Roam Untangled](https://www.jamoe.org/roam) - Learn to setup your Roam Research database.
 - [Homebase React - Roam Demo](https://roamdemo.homebase.io/page/VtNCWUiUW?ref=hn) ([Code](https://github.com/homebaseio/homebase-react/tree/master/examples/roam))
+- [Free Roam](https://github.com/cofinley/free-roam) - Attempt to recreate the major parts of Roam for offline use.

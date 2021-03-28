@@ -52,3 +52,5 @@
 - [Product Manager's Guide](https://gumroad.com/l/WGHXJ/sp33u1d)
 - [The Tools Don't Matter (2021)](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - Why are product managers so obsessed with tools? ([Tweet](https://twitter.com/jasoncwarner/status/1366431102408122369))
 - [Product Lessons](https://www.productlessons.xyz/) - Actionable lessons to accelerate your career.
+- [1-Pager Product requirements document](https://docs.google.com/document/d/1541V32QgSwyCFWxtiMIThn-6n-2s7fVWztEWVa970uo/edit#)
+- [What is the best way to write a PRD?](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)

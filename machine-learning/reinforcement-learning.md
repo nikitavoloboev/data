@@ -180,3 +180,4 @@
 - [Mastering Real-Time Strategy Games with Deep Reinforcement Learning: Mere Mortal Edition (2021)](https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/)
 - [adeptRL](https://github.com/heronsystems/adeptRL) - Reinforcement learning framework to accelerate research.
 - [OpenAI Baselines](https://github.com/openai/baselines) - Set of high-quality implementations of reinforcement learning algorithms.
+- [Jax (Flax) RL](https://github.com/ikostrikov/jax-rl) - Jax (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.

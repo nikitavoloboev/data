@@ -53,3 +53,4 @@ Here are tools I use for streaming:
 - [OBS.Ninja](https://github.com/steveseguin/obsninja) - Lets you bring remote video feeds into OBS via WebRTC. ([Web](https://obs.ninja/))
 - [Code streaming: hundred ounces of nuances (2021)](https://solovyov.net/blog/2021/streaming/)
 - [Guide: Live-Streaming for Performance-Makers (2021)](https://jackp.svbtle.com/live-streaming-for-performance-makers)
+- [Vigilio](https://vigilio.tugcan.net/) - Your own movie streaming service. Easy to install, easy to use. ([Code](https://github.com/tugcanolgun/vigilio))
