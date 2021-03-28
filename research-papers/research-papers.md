@@ -102,3 +102,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ResearchGate](https://www.researchgate.net/) - Social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
 - [How should one starting reading research papers? (2021)](https://www.reddit.com/r/AskPhysics/comments/mf1kg7/how_should_one_starting_reading_research_papers/)
 - [SciHive](https://github.com/ranihorev/scihive-frontend) - Read, collaborate and talk about scientific papers.
+- [Publishing a research paper as an independent (2021)](https://twitter.com/chrislpenner/status/1375937810016837634)

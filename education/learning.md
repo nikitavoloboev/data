@@ -101,3 +101,4 @@
 - [The Feynman Technique for Learning Anything Notion Template](https://www.notion.so/The-Feynman-Technique-for-Learning-Anything-6971ac9284d545e4861e0eb4e602471a)
 - [The Recurse Center User’s Manual](https://www.recurse.com/manual)
 - [Awesome by Example](https://github.com/b0o/awesome-by-example) - List of awesome example-based learning resources.
+- [The ghosts in the data (2021)](https://veekaybee.github.io/2021/03/26/data-ghosts/) - Post on ghost knowledge aka implicit knowledge, aka what you learn at work that you wouldn't be able to in a textbook. ([Tweet](https://twitter.com/vboykis/status/1375608719627653125))

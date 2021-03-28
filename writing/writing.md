@@ -106,6 +106,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [I just set aside about an hour a day, during my peak alertness time (around 11-2) during which I write. I have an outline of a book I want to write, and I just pick a section and start going (whatever I feel like that particular day). I write until the words don't flow any more. One thing that helped me a lot an idea I learned in high school of writing a shitty first draft -- almost stream of consciousness, without caring about quality, then going back to clean up later.](https://twitter.com/justinkan/status/1268270905379024896)
 - [Write like you speak. Use simple words & tenses. Use the active voice. Cut as much as possible.](http://www.paulgraham.com/writing44.html)
 - [Writing clearly is like playing Tetris. Sentences should be presented with clauses that drop down and slot together efficiently. At the earliest available opportunity you drop in a block that completes the line and points are won/made.](https://news.ycombinator.com/item?id=24268382)
+- [Recipe: 1. Write an essay. 2. Explain to a friend what you said in it. 3. Go back and rewrite it to say what you just said to your friend.](https://twitter.com/paulg/status/1376139287314493447)
 
 ## Links
 
