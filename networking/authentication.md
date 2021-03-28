@@ -112,3 +112,5 @@
 - [FusionAuth](https://fusionauth.io/) - Authentication and Authorization built for devs.
 - [Hidden OAuth attack vectors (2021)](https://portswigger.net/research/hidden-oauth-attack-vectors)
 - [Vercel Basic Auth](https://github.com/flawyte/vercel-basic-auth) - How to add Basic Authentication to a Vercel deployment using various languages / frameworks.
+- [Do You Know Your OAuth Flows? (2021)](https://medium.com/cloud-security/do-you-know-your-oauth-flows-137fb01b45f8)
+- [OAuth 2.0 Authentication Vulnerabilities](https://portswigger.net/web-security/oauth) ([HN](https://news.ycombinator.com/item?id=26603259))
