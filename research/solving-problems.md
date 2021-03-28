@@ -48,6 +48,7 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 ## Notes
 
 - [I learned about the Feynman technique. Just write down how the thing you’re trying to learn works (a bug, a technique, anything) until you hit a wall in your understanding. This makes the boundary of your understanding explicit. Often, it’s surprising how much you actually do understand before hitting the wall, but before you build confidence, there’s a bias to assume the amount you don’t understand is greater than it really is. Make the boundary explicit, and then you have a specific point to push forward from, rather than kind of a cloud of doubt and anxiety. This made it clear that I knew more than I felt I knew, and at the very least helped me hone in on specific questions to ask.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [Usually the easiest way to solve a problem is to not have it.](https://twitter.com/grhmc/status/1376148802428665861)
 
 ## Links
 
