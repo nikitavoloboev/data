@@ -265,3 +265,4 @@
 - [12 requests per second: A realistic look at Python web frameworks (2021)](https://suade.org/dev/12-requests-per-second-with-python/) ([HN](https://news.ycombinator.com/item?id=26188765))
 - [Conda lock](https://github.com/conda-incubator/conda-lock) - Lightweight library that can be used to generate fully reproducible lock files for conda environments.
 - [Interfaces and Protocols in Python (2021)](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html)
+- [Many models workflows in Python (2020)](https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/)

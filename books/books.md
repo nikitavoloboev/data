@@ -356,3 +356,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Zeneca](https://www.zeneca.io/) - Share and discuss your favorite books. ([HN](https://news.ycombinator.com/item?id=26387444))
 - [Plex & Booksonic Audiobook Guide](https://github.com/seanap/Plex-Audiobook-Guide) - Walkthrough for optimal Audiobook experience using Plex.
 - [Ask HN: Do you read books regularly? Fiction or nonfiction? (2021)](https://news.ycombinator.com/item?id=26593122)
+- [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks) ([HN](https://news.ycombinator.com/item?id=26612063))
