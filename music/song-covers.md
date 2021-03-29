@@ -14,3 +14,4 @@
 - [Viva La Vida - Coldplay (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=2_uDzzOb5po)
 - [If I Get High - Nothing But Thieves (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=nFUz9xOXA40)
 - [Streets - Doja Cat (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=NhXeexJu_iU)
+- [Иван Дорн - Целовать другого (bathroom cover by Базиль)](https://www.youtube.com/watch?v=YtKULMP1Bfs)
