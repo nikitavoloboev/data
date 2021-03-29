@@ -78,3 +78,4 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 - [AlfredExtraPane](https://github.com/mr-pennyworth/alfred-extra-pane) - Spotight-like rich previews for Alfred workflows. ([Forum post](https://www.alfredforum.com/topic/16111-wip-poc-spotlight-like-rich-preview-pane-for-alfred-workflows/))
 - [Workflow Icon Generator](https://icons.deanishe.net/)
 - [How to Programmatically Add Folders to the Spotlight Ignore List (2020)](https://mattprice.me/2020/programmatically-modify-spotlight-ignore/)
+- [Alfred Workflow ScriptFilter in Swift](https://github.com/godbout/AlfredWorkflowScriptFilter) ([Discussion](https://www.alfredforum.com/topic/16719-alfredworkflowscriptfilter-swift/))

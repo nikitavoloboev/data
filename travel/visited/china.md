@@ -19,3 +19,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Of China and India: wandering thoughts from streets, boats and trains (2018)](https://yawningbread.wordpress.com/2018/01/16/of-china-and-india-wandering-thoughts-from-streets-boats-and-trains/)
 - [The Uyghur Genocide: An examination of breaches of the 1948 Genocide Convention (2021)](https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/) ([HN](https://news.ycombinator.com/item?id=26401715))
 - [Vanishing Asia](https://www.kickstarter.com/projects/kk-org/vanishing-asia) - Set of 3 books, with 1,000 pages, that captures Asia’s disappearing traditions and vanishing designs, in 35 countries.
+- [What is the world going to be like when China’s economy is far larger than the US’s? (2021)](https://www.reddit.com/r/geopolitics/comments/mfghjh/what_is_the_world_going_to_be_like_when_chinas/)

@@ -435,3 +435,4 @@
 - [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [Out of Distribution Generalization in Machine Learning (2021)](https://arxiv.org/abs/2103.02667)
 - [Label Errors](https://labelerrors.com/) - Label errors in benchmark ML test sets. ([Lobsters](https://lobste.rs/s/v28crd/label_errors_benchmark_ml_test_sets))
+- [What will the major ML research trends be in the 2020s?](https://www.reddit.com/r/MachineLearning/comments/mfnhki/d_what_will_the_major_ml_research_trends_be_in/)
