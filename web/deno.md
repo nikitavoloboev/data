@@ -86,3 +86,5 @@
 - [egoist/router](https://github.com/egoist/router) - Router that works in Node.js, browser and Deno.
 - [gql](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
 - [The Deno Company (2021)](https://deno.com/blog/the-deno-company) ([HN](https://news.ycombinator.com/item?id=26620116))
+- [Sift](https://github.com/satyarohith/sift) - Routing library for Deno Deploy.
+- [deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy.

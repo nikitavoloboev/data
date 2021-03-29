@@ -110,3 +110,4 @@
 - [LambdaChip](http://lambdachip.com/index/) - Write Scheme on Embedded System.
 - [cortex-m](https://github.com/rust-embedded/cortex-m) - Low level access to Cortex-M processors.
 - [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML) - Spying on Microcontrollers using Current Sensing and embedded TinyML models.
+- [ODAS](https://github.com/introlab/odas) - Open embeddeD Audition System.

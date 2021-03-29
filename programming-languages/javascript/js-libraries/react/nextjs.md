@@ -62,6 +62,7 @@
 - [NextStripe](https://github.com/ynnoj/next-stripe) - Simplified server-side Stripe workflows in Next.js
 - [next-joi](https://github.com/codecoolture/next-joi) - Validate NEXT.js API Routes with joi.
 - [next-plugin-query-cache](https://github.com/ricokahler/next-plugin-query-cache) - Build-time query cache for Next.js. Works by creating an HTTP server during the build that caches responses.
+- [next-plugin-preval](https://github.com/ricokahler/next-plugin-preval) - Pre-evaluate async functions during builds and import them like JSON.
 
 ## Notes
 

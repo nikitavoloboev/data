@@ -488,6 +488,7 @@
 - [tinydate](https://github.com/lukeed/tinydate) - Tiny reusable date formatter.
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [Antiutils](https://github.com/ivan7237d/antiutils) - TypeScript/JavaScript utilities for those who don't like utilities.
+- [linked-list](https://github.com/wooorm/linked-list) - Minimalistic linked lists.
 
 ## Links
 

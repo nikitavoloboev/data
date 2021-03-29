@@ -224,6 +224,7 @@
 - [LLVM.jl](https://github.com/maleadt/LLVM.jl) - Julia wrapper for the LLVM C API.
 - [oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
 - [RuntimeGeneratedFunctions.jl](https://github.com/SciML/RuntimeGeneratedFunctions.jl) - Functions generated at runtime without world-age issues or overhead.
+- [Catwalk.jl](https://github.com/tisztamo/Catwalk.jl) - Adaptive optimizer for speeding up dynamic dispatch in Julia.
 
 ## Links
 
