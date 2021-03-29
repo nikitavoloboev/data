@@ -66,7 +66,7 @@
 - [WadJS](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 - [JamRTC](https://github.com/lminiero/jamrtc) - WebRTC for Live Musicians. ([HN](https://news.ycombinator.com/item?id=26505059))
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) ([HN](https://news.ycombinator.com/item?id=26533792))
-- [Alda](https://alda.io/) - Text-based programming language for music composition. ([Why I'm rewriting Alda in Go and Kotlin](https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/))
+- [Alda](https://alda.io/) - Text-based programming language for music composition. ([Why I'm rewriting Alda in Go and Kotlin](https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/)) ([Code](https://github.com/alda-lang/alda))
 
 ## Inspiration
 
@@ -93,7 +93,6 @@
 - [Syntorial](https://www.syntorial.com/) - Video game-like training software, that will teach you how to program synth patches by ear.
 - [Ear Training Practice](https://tonedear.com/)
 - [Ask HN: Recommendations for AI generated music software? (2019)](https://news.ycombinator.com/item?id=20514446)
-- [Alda](https://github.com/alda-lang/alda) - Music programming language for musicians.
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 - [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) ([HN](https://news.ycombinator.com/item?id=21297462))
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))

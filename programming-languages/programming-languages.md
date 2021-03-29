@@ -186,3 +186,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What Programming Language Would Yoko Ono Create? (2021)](https://esoteric.codes/blog/what-programming-language-would-yoko-ono-write)
 - [20 Intriguing, Unusual, and Goofy Programming Languages (2019)](https://dev.to/awwsmm/20-intriguing-unusual-and-goofy-programming-languages-238f)
 - [FSL.tools](https://fsl.tools/) - Programming language to make complex Finite State Machines easy to create and maintain.
+- [Language evangelists, why should I use [language]? (2021)](https://lobste.rs/s/vnc7u4/language_evangelists_why_should_i_use)
