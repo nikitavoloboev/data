@@ -137,6 +137,7 @@
 - [User-defined type guards in TypeScript (2021)](https://gcollazo.com/user-defined-type-guards-in-typescript/)
 - [How to write a Constrained Identity Function (CIF) in TypeScript (2021)](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
 - [Mostly Adequate Guide for the fp-ts library](https://github.com/ChuckJonas/mostly-adequate-fp-ts)
+- [Type-Level Programming in TypeScript (2021)](https://mjj.io/2021/03/29/type-level-programming-in-typescript/)
 
 ## Images
 

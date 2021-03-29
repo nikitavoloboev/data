@@ -53,6 +53,7 @@
 - [NewType](https://github.com/estatico/scala-newtype) - Scala with no runtime overhead.
 - [Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala. ([Docs](https://www.optics.dev/Monocle/))
 - [refined](https://github.com/fthomas/refined) - Simple refinement types for Scala.
+- [uPickle](https://github.com/com-lihaoyi/upickle) - Simple Scala JSON and Binary (MessagePack) serialization library.
 
 ## Links
 

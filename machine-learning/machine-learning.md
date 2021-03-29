@@ -434,3 +434,4 @@
 - [GeoGuessing with Deep Learning (2021)](https://healeycodes.com/geoguessing-with-deep-learning/)
 - [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [Out of Distribution Generalization in Machine Learning (2021)](https://arxiv.org/abs/2103.02667)
+- [Label Errors](https://labelerrors.com/) - Label errors in benchmark ML test sets. ([Lobsters](https://lobste.rs/s/v28crd/label_errors_benchmark_ml_test_sets))
