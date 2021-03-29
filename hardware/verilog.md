@@ -10,3 +10,5 @@
 - [Verilog PCI Express Components](https://github.com/alexforencich/verilog-pcie)
 - [Verilog AXI Components](https://github.com/alexforencich/verilog-axi)
 - [Verilator](https://github.com/verilator/verilator) - Fastest Verilog/SystemVerilog simulator. ([Web](https://www.veripool.org/wiki/verilator))
+- [YosysHQ](https://www.yosyshq.com/) - Team maintaining Yosys and the related Open Source EDA projects. ([GitHub](https://github.com/YosysHQ))
+- [Yosys](https://github.com/YosysHQ/yosys) - Framework for Verilog RTL synthesis. ([Web](http://www.clifford.at/yosys/))

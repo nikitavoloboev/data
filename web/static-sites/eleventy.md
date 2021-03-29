@@ -26,3 +26,4 @@
 - [11ty Netlify Jumpstart](https://github.com/5t3ph/11ty-netlify-jumpstart)
 - [Smol Eleventy Starter](https://github.com/5t3ph/smol-11ty-starter)
 - [A Deep Dive Into Eleventy Static Site Generator (2021)](https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/)
+- [11ty Rocks!](https://11ty.rocks/) - Collection of Eleventy (11ty) starters, projects, plugins, and resources.

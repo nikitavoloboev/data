@@ -17,3 +17,4 @@
 - [PHP Internals](https://phpinternals.net/) - Dedicated to providing resources on PHP's internals.
 - [Static analysis tools for PHP](https://github.com/exakat/php-static-analysis-tools)
 - [TNTSearch](https://github.com/teamtnt/tntsearch) - Fully featured full text search engine written in PHP.
+- [Thinking Functionally in PHP (2020)](https://leanpub.com/thinking-functionally-in-php)
