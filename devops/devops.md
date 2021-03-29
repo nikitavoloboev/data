@@ -63,4 +63,4 @@
 - [They SRE](https://github.com/upgundecha/howtheysre) - Curated Collection on Site Reliability Engineering.
 - [DevOps Resources](https://github.com/bregman-arie/devops-resources)
 - [We are far from a better Heroku for production apps in a hyper cloud (2021)](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/) ([HN](https://news.ycombinator.com/item?id=26554504))
-- [coolify](https://coollabs.io/coolify) - Open-source, hassle-free, self-hostable Heroku & Netlify alternative. ([Code](https://github.com/coollabsio/coolify))
+- [coolify](https://coollabs.io/coolify) - Open-source, self-hostable Heroku and Netlify alternative. ([Code](https://github.com/coollabsio/coolify)) ([HN](https://news.ycombinator.com/item?id=26624341))

@@ -114,3 +114,4 @@
 - [Galata](https://github.com/jupyterlab/galata) - JupyterLab UI Testing Framework.
 - [widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - Template for creating a custom Jupyter widget project.
 - [Jupyter Widget Tutorial](https://github.com/jupyter-widgets/tutorial)
+- [Improvements to Jupyter Notebooks (2021)](https://twitter.com/isosteph/status/1376563122605944832)

@@ -39,3 +39,4 @@
 - [Combinators: A Centennial View (2021)](https://arxiv.org/abs/2103.12811) ([HN](https://news.ycombinator.com/item?id=26603872))
 - [Dana Scott: Looking Backward; Looking Forward (2018)](https://www.youtube.com/watch?v=uS9InrmPIoc)
 - [Dana Scott's Research](https://www.cs.cmu.edu/~scott/)
+- [Retrospective review of Gödel, Escher, Bach (1996)](https://cs.nyu.edu/davise/papers/hofstadter.pdf) ([HN](https://news.ycombinator.com/item?id=26624220))

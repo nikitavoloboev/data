@@ -116,7 +116,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [PopClip](https://pilotmoon.com/popclip/) - Appears when you select text with your mouse on your Mac. ([PopClip Extensions](https://github.com/pilotmoon/PopClip-Extensions))
 - [ClashX](https://github.com/yichengchen/clashX) - Rule based proxy For Mac base on Clash.
 - [Lacona](https://lacona.app/) - Command launcher.
-- [Numi](https://numi.app/) - Beautiful calculator app for Mac. ([Code](https://github.com/nikolaeu/numi))
+- [Numi](https://numi.app/) - Beautiful calculator app for Mac. ([Code](https://github.com/nikolaeu/numi)) ([HN](https://news.ycombinator.com/item?id=26624386))
 - [ViDL](https://omz-software.com/vidl/) - Download videos from YouTube and hundreds of other websites for offline viewing.
 - [FSMonitor](https://fsmonitor.com/) - macOS app that monitors all changes to the file system.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Application launcher for macOS. ([Assimilated Theme](https://github.com/benjaminwil/assimilated))
