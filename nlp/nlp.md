@@ -267,3 +267,4 @@
 - [Accelerate](https://github.com/huggingface/accelerate) - Simple way to train and use NLP models with multi-GPU, TPU, mixed-precision.
 - [Classical Language Toolkit (CLTK)](https://github.com/cltk/cltk) - Python library offering natural language processing (NLP) for pre-modern languages. ([Web](http://cltk.org/))
 - [Guide: Finetune GPT2-XL](https://github.com/Xirider/finetune-gpt2xl)
+- [GENRE (Generarive ENtity REtrieval)](https://github.com/facebookresearch/GENRE) - Uses a sequence-to-sequence approach to entity retrieval (e.g., linking), based on fine-tuned BART architecture.

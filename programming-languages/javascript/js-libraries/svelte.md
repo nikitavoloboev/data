@@ -88,3 +88,4 @@
 - [SvelteKit](https://github.com/sveltejs/kit) - Fastest way to build Svelte apps. ([Web](https://kit.svelte.dev/)) ([HN](https://news.ycombinator.com/item?id=26557886))
 - [SvelteKit, TypeScript and TailwindCSS Template](https://github.com/Dan1ve/Sveltekit-Typescript-TailwindCSS-Jit)
 - [Svelte + TS + Vite Template](https://github.com/PuruVJ/macos-web-svelte-dock)
+- [Felte](https://github.com/pablo-abc/felte) - Form library for Svelte. ([Web](https://felte.dev/))

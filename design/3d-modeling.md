@@ -41,3 +41,4 @@
 - [picoCAD](https://johanpeitz.itch.io/picocad) - Program to build and texture lowpoly 3D models. ([Tweet](https://twitter.com/johanpeitz/status/1365356945708896265))
 - [LeoCAD](https://www.leocad.org/) - CAD application for creating virtual LEGO models. ([Code](https://github.com/leozide/leocad))
 - [Meshlete](https://github.com/JarkkoPFC/meshlete) - Chop 3D objects to meshlets.
+- [Online 3D Viewer](https://3dviewer.net/) - Free and open source web solution to visualize and investigate 3D models files right in your browser. ([Code](https://github.com/kovacsv/Online3DViewer))
