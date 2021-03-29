@@ -22,6 +22,7 @@
   1. Assuming people know everything
   2. Assuming people are stupid
 - [If asked a question twice, respond the 3rd time with a URL.](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
+- [When done right your documentation is also part of your support, marketing, and even sales.](https://twitter.com/ianstormtaylor/status/1376601005597544448)
 
 ## Links
 

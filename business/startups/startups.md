@@ -43,6 +43,7 @@
   - Keep going. It's only a failure if I don't get back up and try again.
 - [The point of vesting is to exchange shares for value as the value in the form of work is provided over a period of time. In my company we just split all the shares evenly on day one with no vesting schedule.](https://news.ycombinator.com/item?id=25216709)
 - [If you launch and no one notices, launch again. We launched 3 times. - Brian Chesky](https://twitter.com/gregisenberg/status/1346628063983972353)
+- [Customer service is a big differentiator for a startup. Especially in the very beginning, when you have so few users that you can deliver extremely personalized service, and it's the CEO doing it.](https://twitter.com/SamGichuru/status/1376588000335962123)
 
 ## Links
 
