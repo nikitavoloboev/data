@@ -135,3 +135,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [disposable-email-domains](https://github.com/ivolo/disposable-email-domains) - List of disposable email domains.
 - [Email is Good](https://email-is-good.com/) - Site about email productivity.
 - [Gefilte Fish](https://github.com/nedbat/gefilte) - Automates the creation of GMail filters.
+- [Sieve](http://sieve.info/) - Language for filtering e-mail messages.
