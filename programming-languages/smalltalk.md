@@ -35,3 +35,4 @@
 - [Seaside](https://github.com/SeasideSt/Seaside) - Framework for developing sophisticated web applications in Smalltalk.
 - [Strongtalk](http://www.strongtalk.org/) - High-Performance Open Source Smalltalk With An Optional Type System. ([Code](https://github.com/talksmall/Strongtalk))
 - [Squeak](http://www.rowledge.org/tim/squeak/) - Free Smalltalk System – On RISC OS.
+- [A look at Self's object system](https://sin-ack.github.io/posts/self-object-system/)

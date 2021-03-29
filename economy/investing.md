@@ -128,7 +128,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity.
 - [Save like a pessimist, invest like an optimist (2020)](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/) ([HN](https://news.ycombinator.com/item?id=25093308))
 - [TradingView](https://www.tradingview.com/) - Free Stock Charts, Stock Quotes and Trade Ideas.
-- [Vanguard Total World Stock ETF](https://investor.vanguard.com/etf/profile/VT) ([Reddit](https://www.reddit.com/r/IAmA/comments/k9b4g8/im_ray_daliofounder_of_bridgewater_associates_we/gf4ga79/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Vanguard Total World Stock ETF](https://investor.vanguard.com/etf/profile/VT) ([Reddit](https://www.reddit.com/r/IAmA/comments/k9b4g8/im_ray_daliofounder_of_bridgewater_associates_we/gf4ga79/))
 - [Ark ETF tracker](https://cathiesark.com/) ([HN](https://news.ycombinator.com/item?id=25421207))
 - [From Newbie to Pro Investor Guide (2020)](https://www.reddit.com/r/investing/comments/khg9sj/the_ultimate_fundamentals_guide_on_what_you_need/)
 - [What are your current undervalued stock picks? What are your stock picks for 2021?](https://www.reddit.com/r/investing/comments/kj20bp/what_are_your_current_undervalued_stock_picks/)
