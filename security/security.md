@@ -150,3 +150,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Free CyberSecurity Professional Development Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)
 - [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 - [GitHub Learning Lab: Security Strategy Essentials](https://lab.github.com/githubtraining/security-strategy-essentials)
+- [Darkbit](https://darkbit.io/) - Cloud-native security built for your business.

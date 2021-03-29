@@ -39,3 +39,4 @@
 - [Kafka Lag Exporter](https://github.com/lightbend/kafka-lag-exporter) - Monitor Kafka Consumer Group Latency with Kafka Lag Exporter.
 - [Awesome Open-Source Contribs for Apache Kafka](https://github.com/streamthoughts/awesome-opensource-contribs-kafka)
 - [kafka-serde](https://github.com/DataDog/kafka-serde) - Rust's serde implementation for the Kafka protocol.
+- [Apache Kafka Mocking and Testing (2020)](https://microcks.io/blog/apache-kafka-mocking-testing/)

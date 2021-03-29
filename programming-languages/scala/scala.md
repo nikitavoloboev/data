@@ -70,3 +70,4 @@
 - [Scala Conference Videos Reddit](https://www.reddit.com/r/ScalaConferenceVideos/)
 - [Best Scala/FP talks (2021)](https://www.reddit.com/r/scala/comments/m5sxk1/best_scalafp_talks/)
 - [Scala projects are difficult to maintain (2021)](https://mungingdata.com/scala/maintenance-nightmare-upgrade/) ([HN](https://news.ycombinator.com/item?id=26539508))
+- [Deriving the Frontend — Form Combinator Fun with Scala.js (2021)](https://www.youtube.com/watch?v=JHriftPO62I)

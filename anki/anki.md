@@ -51,3 +51,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Obsidian to Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki.
 - [go-anki](https://github.com/flimzy/anki) - Go library to read Anki \*.apkg files.
 - [Closet](https://github.com/hgiesel/closet) - Powerful templating engine for use in flashcards, especially Anki flashcards. ([Docs](https://closetengine.com/))
+- [Omen Flashcards](https://omen.cards/) - Beautifully designed, habit-forming flashcards.
