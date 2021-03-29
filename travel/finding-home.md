@@ -47,3 +47,4 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [IKEA Tiny House](https://www.architecturaldigest.com/story/ikea-tiny-house)
 - [ICON](https://www.iconbuild.com/) - 3D-Printed Homes for Sale.
 - [Automate Construction](https://automate.construction/) - Construction Industry Is Transforming.
+- [Cover](https://buildcover.com/) - Making thoughtfully designed and well-built homes for everyone.

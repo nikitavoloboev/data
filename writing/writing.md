@@ -107,6 +107,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Write like you speak. Use simple words & tenses. Use the active voice. Cut as much as possible.](http://www.paulgraham.com/writing44.html)
 - [Writing clearly is like playing Tetris. Sentences should be presented with clauses that drop down and slot together efficiently. At the earliest available opportunity you drop in a block that completes the line and points are won/made.](https://news.ycombinator.com/item?id=24268382)
 - [Recipe: 1. Write an essay. 2. Explain to a friend what you said in it. 3. Go back and rewrite it to say what you just said to your friend.](https://twitter.com/paulg/status/1376139287314493447)
+- [One of the hardest things to do when writing (and thus one of the differentiators of really good writing) is to cut stuff that's genuinely good, just not good in the thing you're writing.](https://twitter.com/paulg/status/1376562393396957185)
 
 ## Links
 
