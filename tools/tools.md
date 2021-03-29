@@ -480,4 +480,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Tool to live chat with your users suggestions (2021)](https://twitter.com/Suhail/status/1371539301331214336)
 - [Ask HN: What are some “10x” software product innovations you have experienced? (2021)](https://news.ycombinator.com/item?id=26477507)
 - [Excel Never Dies (2021)](https://www.notboring.co/p/excel-never-dies)
-- [Developer tools can be magic. Instead, they collect dust (2021)](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
+- [Developer tools can be magic. Instead, they collect dust (2021)](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html) ([HN](https://news.ycombinator.com/item?id=26612894))
