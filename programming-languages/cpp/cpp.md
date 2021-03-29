@@ -197,3 +197,4 @@
 - [How C++ Resolves a Function Call (2021)](https://preshing.com/20210315/how-cpp-resolves-a-function-call/) ([HN](https://news.ycombinator.com/item?id=26471883))
 - [Making Your Own Container Compatible With C++20 Ranges (2021)](https://www.reedbeta.com/blog/ranges-compatible-containers/)
 - [Cling -- Beyond Just Interpreting C++ (2021)](https://blog.llvm.org/posts/2021-03-25-cling-beyond-just-interpreting-cpp/)
+- [Blazing fast expression evaluation for C++ in LLDB (2021)](https://werat.dev/blog/blazing-fast-expression-evaluation-for-c-in-lldb/)

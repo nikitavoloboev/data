@@ -156,6 +156,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
 - [Param Singh's Notes](https://notes.param.codes/)
+- [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))
 - [Imron Rosyadi](https://irosyadi.gitbook.io/irosyadi/) ([Code](https://github.com/irosyadi/gitbook))
@@ -325,3 +326,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Method for maximizing the value of networked note-taking systems, using Obsidian (2021)](https://www.quora.com/q/tophersblog/The-connection-between-Zettelkasten-and-systems-theory-is-a-vital-one-to-consider-In-line-with-August-Bradleys-insigh)
 - [Deconstructing digital gardens (2020)](https://vivqu.com/blog/2020/10/18/digital-gardens/)
 - [Serenity Notes](https://www.serenity.re/en/notes) - E2E encrypted notes. ([HN](https://news.ycombinator.com/item?id=26567497))
+- [A Brief History & Ethos of the Digital Garden (2021)](https://maggieappleton.com/garden-history)
