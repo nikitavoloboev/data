@@ -1,5 +1,9 @@
 # Geometry
 
+## Notes
+
+- [You can use the isometric dots to produce other kinds of perspective.](https://twitter.com/GnarledMonster/status/1376510536951664643)
+
 ## Links
 
 - [Area of sphere - strangely beautiful in its simplicity](http://matematicascercanas.com/wp-content/uploads/2016/07/VarC3A1zsceruza.gif)

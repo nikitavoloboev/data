@@ -6,6 +6,7 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 
 - Try to use multiple aspects of your brain at once when learning. One of the best "learn about learning" lessons I ever had was studying jazz theory. My teacher used a four-way method of learning chords - say the name of the chord, visualize it on the keyboard, feel the shape your hands make to play the chord, and listen to the sound of the chord. I've applied this sort of approach to all sorts of skills since then.
 - Go for a quick read, minus derivations. Then do the derivations in a slow read. For more thorough understanding of physics/math textbooks & research papers.
+- [We have a system where everyone is forced to be educated, but no one is allowed to think, ever.](https://twitter.com/SamoBurja/status/1376585579115245568)
 
 ## Links
 

@@ -125,3 +125,4 @@
 - [JavaScript performance beyond bundle size (2021)](https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/)
 - [Speed Is the Killer Feature (2021)](https://bdickason.com/posts/speed-is-the-killer-feature/) ([HN](https://news.ycombinator.com/item?id=26312516))
 - [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)
+- [Who has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/)
