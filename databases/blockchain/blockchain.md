@@ -60,7 +60,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [NEAR Protocol](https://github.com/nearprotocol/nearcore) - Scalable and usable blockchain.
 - [Harmony](https://github.com/harmony-one/harmony) - Core protocol of harmony.
 - [DAML](https://daml.com/) - Build full-stack, distributed applications for DLT, Blockchain, or databases in days. ([Code](https://github.com/digital-asset/daml)) ([Article](https://serokell.io/blog/daml-interview))
-- [Solana](https://github.com/solana-labs/solana) - New blockchain architecture built from the ground up for scale. The architecture supports up to 710 thousand transactions per second on a gigabit network.
 - [go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
 - [MIT: Blockchain and Money (2018)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) ([Lectures](https://www.youtube.com/watch?v=EH6vE97qIP4))
 - [Substrate Recipes](https://substrate.dev/recipes/) - Cookbook of working examples that demonstrate best practices when building blockchains with Substrate. ([Code](https://github.com/substrate-developer-hub/recipes))
@@ -120,3 +119,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [What Does It Mean To Buy a Gif? (2021)](https://jackrusher.com/journal/what-does-it-mean-to-buy-a-gif.html)
 - [Why The NFT Market Is Not As Crazy As You Think (2021)](https://www.youtube.com/watch?v=UpXCUEOcyNs)
 - [a16z Podcast: All about NFTs (2021)](https://a16z.com/2021/03/27/nfts-explainer-faqs-hype-reality-innovation-crypto-creator-economy/)
+- [Solana](https://solana.com/) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. ([Code](https://github.com/solana-labs/solana)) ([Reddit](https://www.reddit.com/r/solana/)) ([Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0))
