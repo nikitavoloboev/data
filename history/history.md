@@ -102,3 +102,4 @@
 - [Computing History Hub](https://www.notion.so/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521)
 - [Computers and Creativity (2021)](https://www.mollymielke.com/cc)
 - [A History of Boats, Canals & Finance (2021)](https://investoramnesia.com/2021/03/28/a-history-of-boats-canals-finance/) ([Tweet](https://twitter.com/InvestorAmnesia/status/1376143250571026441))
+- [Priest says Hell is an invention of the church to control people with fear (2014)](https://www.youtube.com/watch?v=QGzc0CJWC4E) ([Reddit](https://www.reddit.com/r/videos/comments/mg8624/retired_priest_says_hell_is_an_invention_of_the/))

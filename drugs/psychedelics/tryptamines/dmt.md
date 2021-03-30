@@ -72,3 +72,4 @@
 - [Your Brain on DMT: Other Dimensions & Therapeutic Use | Dr Andrew Gallimore (2020)](https://www.youtube.com/watch?v=El76tF3O8T8)
 - [Hamilton Morris describes the history of 5-MeO-DMT (2021)](https://www.youtube.com/watch?v=O_VYXcdTReQ)
 - [DMT: the spirit molecule with Rick Strassman (2021)](https://www.youtube.com/watch?v=Pr6AeGkQTA0)
+- [What’s the most obscene visual you’ve had on DMT? (2021)](https://www.reddit.com/r/DMT/comments/mgd4o7/whats_the_most_obscene_visual_youve_had_on_dmt/)

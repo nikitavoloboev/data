@@ -9,3 +9,4 @@
 - [Hundred Rabbits](https://www.youtube.com/channel/UCzdg4pZb-viC3EdA1zxRl4A) - Digital studio aboard a sailboat.
 - [Dreams in the Age of Covid | A Sailing Story (2021)](https://www.youtube.com/watch?v=fpitMQpKaaw)
 - [Wallenius Oceanbird](https://www.oceanbirdwallenius.com/) - Wind-powered cargo vessel. ([HN](https://news.ycombinator.com/item?id=26054096))
+- [How Yachts Are Made in Factories?](https://www.youtube.com/watch?v=BtWfDIqS_eQ&t=16s)

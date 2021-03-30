@@ -59,3 +59,4 @@
 - [What is the most useful piece of travel kit you've bought or been gifted? (2021)](https://www.reddit.com/r/solotravel/comments/maj6w1/what_is_the_most_useful_piece_of_travel_kit_youve/)
 - [Ask HN: Digital Nomads: What's Your Setup? (2021)](https://news.ycombinator.com/item?id=26567980)
 - [Advice as a new full-time digital nomad (2021)](https://www.reddit.com/r/digitalnomad/comments/me30te/need_advice_as_a_new_fulltime_digital_nomad/)
+- [First long solo trip (Female) - possible destinations (2021)](https://www.reddit.com/r/solotravel/comments/mfyjws/first_long_solo_trip_female_possible_destinations/)
