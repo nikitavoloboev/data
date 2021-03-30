@@ -4,9 +4,9 @@ The number of crimes against humanity committed by [China, Russia, Turkey, Belar
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
-As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed](https://twitter.com/Krychek5/status/1370767723446292491) that they are [ok with being abused](https://twitter.com/CurrentTimeTv/status/1366436879550328839). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
+As [Alexey Navalny says](https://www.instagram.com/p/CKOx19NlDzw/), there are 3 kinds of people. Ones that are [so brainwashed that they are ok with being abused](https://www.youtube.com/watch?v=K_tEHkJkbEU). Ones that know they are being abused but are too scared to do anything to change it. And ones that know they are abused and are willing to put their lives at risk in order to live a better future.
 
-My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to [stop being abused by their environment](https://twitter.com/Dr_Mozgoprav_/status/1376094848437121024).
+My current plan/hope to do my part in crushing these systems is by helping to build best tools available for all things learning & organizing around causes/ideas. Everyone should be able to think critically and know how to be effective and how to stop being abused by their environment.
 
 Overthrowing [oppressive regimes](https://www.youtube.com/watch?v=WGYYI1zhp2Y) such as [Russia](https://www.youtube.com/c/Гулагунетофициальныйканал/videos) and China is hard and requires courage and coordination given the amount of money being spent on police & military by these dictators and the [depths in which they go](https://varlamov.ru/4200776.html) to try and [jail for even thinking the wrong thing](https://twitter.com/adagamov/status/1356519608111542277).
 
@@ -98,3 +98,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Галина Юзефович критикует Толстого и хвалит Гарри Поттера (2018)](https://www.youtube.com/watch?v=KPvADZhowDQ) ([Tweet](https://twitter.com/letopisi_rus/status/1376083034034823168))
 - [Екатерина Шульман о литературе, Толкине, президентстве и «Всемирном идеологическом отделе» (2021)](https://www.youtube.com/watch?v=dv1gNmGmOMg)
 - [Евгений Чебатков «Выходи из комнаты» (2021)](https://www.youtube.com/watch?v=OVPHqRzXRto)
+- [Новости СВЕРХДЕРЖАВЫ - YouTube](https://www.youtube.com/c/pwrru/videos)
