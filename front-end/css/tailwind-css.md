@@ -75,3 +75,4 @@
 - [Tailwind CSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) - Just-in-time compiler for Tailwind CSS.
 - [Tailwind CSS JIT + Rails without Webpacker](https://github.com/domchristie/tailwindcss-jit-rails)
 - [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase (2021)](https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/)
+- [Kimia-UI](https://kimia-ui.vercel.app/) - Collection of UI Components for React built with Tailwind CSS. ([Code](https://github.com/enochndika/kimia-UI))

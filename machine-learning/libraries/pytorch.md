@@ -233,3 +233,4 @@
 - [PyTorch 1.8, with AMD ROCm support (2021)](https://pytorch.org/blog/pytorch-1.8-released/) ([HN](https://news.ycombinator.com/item?id=26353184))
 - [Linear Attention Transformer in PyTorch](https://github.com/lucidrains/linear-attention-transformer) - Transformer based on a variant of attention that is linear complexity in respect to sequence length.
 - [GeoTorch](https://github.com/Lezcano/geotorch) - Constrained optimization toolkit for PyTorch.
+- [LieTorch: Tangent Space Backpropagation](https://github.com/princeton-vl/lietorch)

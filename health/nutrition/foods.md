@@ -110,4 +110,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Hi-Tech Vegetable Farm (2021)](http://ieatishootipost.sg/red-dot-farm/)
 - [My Food Data](https://www.myfooddata.com/) - Provides nutrition data tools and articles to empower you to create a better diet.
 - [What is your go to favorite healthy snack? (2021)](https://www.reddit.com/r/nutrition/comments/lvqlu5/what_is_your_go_to_favorite_healthy_snack/)
-- [Ambrook](https://ambrook.ag/) - Find Farm Funding.
+- [Ambrook](https://ambrook.ag/) - Find Farm Funding. ([Working at Ambrook](https://docs.google.com/document/d/e/2PACX-1vR2XCxB8ZlaQZTT2E1Rh2kx6_8LItbj18AS8bR0U7YqddGa4V1rI2S-x20VWC-j_UuzYG2pcxG7hc3_/pub))

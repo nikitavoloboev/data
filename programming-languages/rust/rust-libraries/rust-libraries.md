@@ -24,6 +24,7 @@
 
 ## Web
 
+- [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
 - [ntex](https://github.com/ntex-rs/ntex) - Framework for composable networking services.
 - [Isahc](https://github.com/sagebind/isahc) - Practical HTTP client that is fun to use.
 - [tide-acme](https://github.com/http-rs/tide-acme) - Automatic HTTPS certificates for Tide, via Let's Encrypt and ACME tls-alpn-01 challenges.
