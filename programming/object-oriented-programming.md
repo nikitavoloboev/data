@@ -1,5 +1,9 @@
 # [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
+## Notes
+
+- [DI frameworks seem to encourage a degenerate style of OO design where every class has an interface and every interface has exactly one implementation.](https://twitter.com/einarwh/status/1376814194184585218)
+
 ## Links
 
 - [Crafting Interpreters: Classes and Instances](http://craftinginterpreters.com/classes-and-instances.html) ([HN](https://news.ycombinator.com/item?id=21923928))

@@ -30,3 +30,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Ask Women over 30 Reddit](https://www.reddit.com/r/AskWomenOver30/)
 - [Has dating success fallen in recent years? (2021)](https://www.reddit.com/r/datingoverthirty/comments/me3yio/has_dating_success_fallen_in_recent_years/)
 - [Things a healthy relationship should have (2021)](https://twitter.com/butchanarchy/status/1375833141647044610)
+- [The 80/80 Marriage](https://www.8080marriage.com/) - Practical Guide to Marriage in The Modern Age. ([Tweet](https://twitter.com/emmabostian/status/1376760059439513603))
+- [Epic Date Night](https://s3.amazonaws.com/kajabi-storefronts-production/sites/83868/themes/1735146/downloads/TuvA0yBxTHyWRjnJUcvV_Epic_Date_Night.pdf)

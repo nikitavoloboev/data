@@ -96,3 +96,5 @@
 - [The Non-Obvious Guide to Fundraising](https://www.nfx.com/post/the-non-obvious-guide-to-fundraising/)
 - [Reflecting on what it takes to raise $20M from A16Z (2021)](https://www.siliconvict.com/reforge-a16z-round)
 - [Tips for pitching your startup to investors (2021)](https://www.youtube.com/watch?v=5SS_oCS3iTM)
+- [Roll Up Vehicles](https://www.angellist.com/ruv) - Way for founders to efficiently raise from up to 250 angels with a single line on the cap table.
+- [What would Y-Combinator look like if it was created today? (2021)](https://twitter.com/gregisenberg/status/1376936185206075392)
