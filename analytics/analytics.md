@@ -71,3 +71,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL (2021)](https://brandur.org/minimal-analytics) ([HN](https://news.ycombinator.com/item?id=26155361))
 - [Google Analytics: Stop feeding the beast (2021)](https://casparwre.de/blog/stop-using-google-analytics/) ([HN](https://news.ycombinator.com/item?id=26263149))
 - [Counter](https://counter.dev/) - Simple and Free Web Analytics. ([HN](https://news.ycombinator.com/item?id=26379569)) ([Code](https://github.com/ihucos/counter.dev))
+- [Redata](https://www.redata.team/) - Better monitoring for data teams. ([Code](https://github.com/redata-team/redata))

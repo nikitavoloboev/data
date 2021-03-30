@@ -64,3 +64,4 @@
 - [GoRails](https://gorails.com/) - Learn Ruby on Rails.
 - [Rails Bytes](https://railsbytes.com/) - Templates to enrich your Ruby on Rails apps.
 - [Jumpstart Pro](https://jumpstartrails.com/) - Ruby on Rails SaaS Template.
+- [Why Write Rails View Tests (2021)](https://pragmaticpineapple.com/why-write-rails-view-tests/)

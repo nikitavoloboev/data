@@ -188,3 +188,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Rari Capital](https://app.rari.capital/) - Yield aggregator and an open interest rate protocol. ([Code](https://github.com/Rari-Capital/rari-dApp)) ([GitHub](https://github.com/Rari-Capital))
 - [micro-eth-signer](https://github.com/paulmillr/micro-eth-signer) - Create, sign and validate Ethereum transactions & addresses with minimum deps.
 - [Ethereum scaling diagram](https://github.com/protolambda/ethereum-scaling-diagram)
+- [Hello World Smart Contract for Beginners (2021)](https://medium.com/alchemy-api/hello-world-smart-contract-for-beginners-7a65cc4ae95f)
