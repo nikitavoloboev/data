@@ -361,3 +361,4 @@
 - [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 - [Fundamentals of Optimal Code Style](https://optimal-codestyle.github.io/) ([Lobsters](https://lobste.rs/s/g145c1/fundamentals_optimal_code_style))
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) ([HN](https://news.ycombinator.com/item?id=26537298))
+- [StatesML](https://github.com/StatesML/StatesML-grammar) - States Modeling Language.

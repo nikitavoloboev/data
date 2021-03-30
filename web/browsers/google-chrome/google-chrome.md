@@ -46,3 +46,4 @@ And here are Chrome extensions I use:
 - [Prevent chromedp Chromium zombie processes from stacking (2021)](https://aymericbeaumet.com/prevent-chromedp-chromium-zombie-processes-from-stacking)
 - [boilerplate for chrome extensions written in React and bundled with esbuild](https://github.com/martonlederer/esbuild-react-chrome-extension)
 - [semantic-release-chrome](https://github.com/GabrielDuarteM/semantic-release-chrome) - Set of semantic-release plugins for publishing a Chrome extension release.
+- [cdp](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome DevTools Protocol (CDP), written in Go.
