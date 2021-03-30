@@ -110,3 +110,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Timelineify](https://www.timelineify.com/) - Create Spotify playlists of an artist's full discography.
 - [Pyro](https://www.getpyro.app/?ref=producthunt#/) - Spotify music voting for parties.
 - [Lists of Music Records](https://mjj.io/lists/)
+- [Butternotes](https://butternotes.com/) - Explore & Practice Music. ([Code](https://github.com/dt1/butternotes))
+- [Deriving Keys From Chords](https://butternotes.com/on-programming/chords-to-scales)
