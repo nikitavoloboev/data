@@ -217,3 +217,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [netbootd](https://github.com/DSpeichert/netbootd) - Lightweight network boot/install server (DHCP, TFTP, HTTP).
 - [Ethernet and IP Networking 101 (Heavily Illustrated) (2021)](https://iximiuz.com/en/posts/computer-networking-101/)
 - [The Actual OSI Model (2021)](https://computer.rip/2021-03-27-the-actual-osi-model.html) ([HN](https://news.ycombinator.com/item?id=26607983))
+- [ZeroTier](https://www.zerotier.com/) - Connect team members from anywhere in the world on any device.
