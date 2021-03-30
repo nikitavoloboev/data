@@ -218,3 +218,4 @@
 - [Quantization for Neural Networks (2020)](https://leimao.github.io/article/Neural-Networks-Quantization/)
 - [Introduction to Automatic Hyperparameter Tuning](https://www.neuraxle.org/stable/hyperparameter_tuning.html)
 - [Neural Networks Block Movement Pruning](https://github.com/huggingface/nn_pruning)
+- [Torch-Dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.

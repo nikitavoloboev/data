@@ -25,6 +25,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
 - [Telegram C++](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API provides an HTTP API for creating Telegram Bots.
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too.
+- [banana](https://github.com/Smertig/banana) - C++ Telegram Bot API library.
 
 ## Bots
 
