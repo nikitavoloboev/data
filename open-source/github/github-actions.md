@@ -95,6 +95,7 @@
 - [Blazing fast GitHub Pages deploy](https://github.com/alex-page/blazing-fast-gh-pages-deploy)
 - [Add & Commit](https://github.com/EndBug/add-and-commit) - Add & commit files from a path directly from GitHub Actions.
 - [Slash Command Dispatch](https://github.com/peter-evans/slash-command-dispatch) - GitHub action that facilitates "ChatOps" by creating dispatch events for slash commands.
+- [Paths Changes Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 
 ## Go
 

@@ -80,3 +80,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [The Economics of Biodiversity: The Dasgupta Review (2021)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957291/Dasgupta_Review_-_Full_Report.pdf)
 - [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
 - [Animal Life Twitter](https://twitter.com/animalIife)
+- [A chair made for needy pets (2021)](https://www.youtube.com/watch?v=XYqz1F6eAVU)
