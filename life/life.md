@@ -42,3 +42,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Functioning ‘mechanical gears’ seen in nature for the first time](https://www.cam.ac.uk/research/news/functioning-mechanical-gears-seen-in-nature-for-the-first-time)
 - [Jordan Peterson on Rules for Life, Psychedelics, The Bible, and Much More (2021)](https://www.youtube.com/watch?v=C1sEHNw4UIg)
 - [What Is Life? Its Vast Diversity Defies Easy Definition. (2021)](https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/)
+- [What Is Life? Book by Erwin Schrödinger (1944)](http://strangebeautiful.com/other-texts/schrodinger-what-is-life-mind-matter-auto-sketches.pdf) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/mfpq7l/quantum_physics_pioneer_erwin_schrodingers/))
