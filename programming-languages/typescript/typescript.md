@@ -138,6 +138,7 @@
 - [How to write a Constrained Identity Function (CIF) in TypeScript (2021)](https://kentcdodds.com/blog/how-to-write-a-constrained-identity-function-in-typescript)
 - [Mostly Adequate Guide for the fp-ts library](https://github.com/ChuckJonas/mostly-adequate-fp-ts)
 - [Type-Level Programming in TypeScript (2021)](https://mjj.io/2021/03/29/type-level-programming-in-typescript/)
+- [TypeScript Strictly Typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Enable configurations for strictly typed TypeScript, ESLint or TSLint.
 
 ## Images
 

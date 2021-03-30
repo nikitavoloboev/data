@@ -88,7 +88,7 @@
 - [Byterun](https://github.com/nedbat/byterun) - Python implementation of a Python bytecode runner.
 - [Clean Code Python](https://github.com/zedr/clean-code-python)
 - [cython](https://github.com/cython/cython) - Most widely used Python to C compiler.
-- [HPy](https://github.com/hpyproject/hpy) - Better API for extending Python in C. ([Hello, HPy](https://hpyproject.org/blog/posts/2021/03/hello-hpy/)) ([Web](https://hpyproject.org/index.html))
+- [HPy](https://github.com/hpyproject/hpy) - Better API for extending Python in C. ([Hello, HPy](https://hpyproject.org/blog/posts/2021/03/hello-hpy/)) ([Web](https://hpyproject.org/index.html)) ([HN](https://news.ycombinator.com/item?id=26625398))
 - [Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
 - [The Composition Over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 - [Building Finite State Machines with Python Coroutines](https://arpitbhayani.me/blogs/fsm) ([HN](https://news.ycombinator.com/item?id=22915716))
