@@ -188,6 +188,7 @@
 - [DSPatch](https://github.com/cross-platform/dspatch) - Refreshingly Simple C++ Dataflow Framework.
 - [libcuckoo](https://github.com/efficient/libcuckoo) - High-performance, concurrent hash table.
 - [libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++.
+- [IceCream-Cpp](https://github.com/renatoGarcia/icecream-cpp) - Little (single header) library to help with the print debugging on C++11 and forward.
 
 ## Links
 
