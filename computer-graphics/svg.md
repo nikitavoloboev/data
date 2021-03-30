@@ -73,3 +73,4 @@
 - [SVG Explained in 100 Seconds (2021)](https://www.youtube.com/watch?v=emFMHH2Bfvo)
 - [Yogurt Layout](https://github.com/accurat/yogurt-layout) - Small JS layout computation library, to organize space in SVGs and canvases.
 - [Haikei](https://haikei.app/) - Generate unique SVG design assets.
+- [Warp SVG Online](https://pavellaptev.github.io/warp-svg/) - Warp and distort SVG files online. ([Code](https://github.com/PavelLaptev/warp-svg))

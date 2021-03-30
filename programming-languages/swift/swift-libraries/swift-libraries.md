@@ -641,6 +641,7 @@
 - [TrustKit](https://github.com/datatheorem/TrustKit) - Easy SSL pinning validation and reporting for iOS, macOS, tvOS and watchOS.
 - [SDGSwift](https://github.com/SDGGiesbrecht/SDGSwift) - Swift Compiler As a Package.
 - [Foil](https://github.com/jessesquires/Foil) - Lightweight property wrapper for UserDefaults done right.
+- [BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
 
 ## Other (not lib)
 
