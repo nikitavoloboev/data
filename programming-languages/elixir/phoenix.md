@@ -34,3 +34,4 @@
 - [Data Fetching Using LiveComponents (2021)](https://kobrakai.de/kolumne/data-fetching-using-livecomponents/)
 - [Slipstream](https://github.com/NFIBrokerage/slipstream) - Slick websocket client for Phoenix channels.
 - [Constraint Programming with MiniZinc and Phoenix/LiveView](https://github.com/bokner/solverview)
+- [Learning Elixir, Phoenix and LiveView: A Primer for Experienced Programmers (2021)](https://amattn.com/p/learning_elixir_phoenix_and_liveview_a_primer_for_experienced_programmers.html)

@@ -39,3 +39,4 @@
 - [Lizard Labs](https://lizardlabs.eu/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds.
 - [Trusted RC Vendors](https://buy.research-chemicals.online/)
 - [David Nichols - Random Selections: From Research Tools to Research Chemicals (2015)](https://www.youtube.com/watch?v=iiYaFP6iQGg)
+- [I tried 122 drugs (all were lab tested) A.M.A. (2021)](https://www.reddit.com/r/researchchemicals/comments/mg03w7/i_tried_122_drugs_all_were_lab_tested_ama/)
