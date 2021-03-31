@@ -26,3 +26,4 @@
 - [Weird things about living in UK (2021)](https://twitter.com/jesslynnrose/status/1357329669981413376)
 - [The Queen has more power over British law than we thought (2021)](https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent) ([HN](https://news.ycombinator.com/item?id=26081208))
 - [Is anyone else really concerned about the future of UK? (2021)](https://www.reddit.com/r/unitedkingdom/comments/m6ws6c/is_anyone_else_really_concerned_about_the_future/)
+- [Nice places to live in London (2021)](https://twitter.com/antonyslumbers/status/1376227037153726470)
