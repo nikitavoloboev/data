@@ -69,3 +69,4 @@
 - [terrafmt](https://github.com/katbyte/terrafmt) - Tool for extracting or formatting Terraform configuration embedded in provider code.
 - [tecli](https://github.com/awslabs/tecli) - Command Line Interface for Terraform Enterprise/Cloud.
 - [Testing HashiCorp Terraform (2021)](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
+- [Terraform Plugin SDK](https://github.com/hashicorp/terraform-plugin-sdk) - Enables building plugins (providers) to manage any service providers or custom in-house solutions. ([Docs](https://www.terraform.io/docs/extend/))

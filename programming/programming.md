@@ -364,3 +364,4 @@
 - [StatesML](https://github.com/StatesML/StatesML-grammar) - States Modeling Language.
 - [Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next? (2021)](https://news.ycombinator.com/item?id=26647717)
 - [Modern Code Review: A Case Study at Google (2018)](https://sback.it/publications/icse2018seip.pdf)
+- [Keep It Local (2021)](https://v5.chriskrycho.com/elsewhere/keep-it-local/) ([Talk](https://www.youtube.com/watch?v=Mt7v-VbFjxk))

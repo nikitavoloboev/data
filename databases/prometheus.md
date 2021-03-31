@@ -39,3 +39,4 @@
 - [FiloDB](https://github.com/filodb/FiloDB) - Distributed, Prometheus-compatible, real-time, in-memory, massively scalable, multi-schema time series / event / operational database.
 - [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes.
 - [bird_exporter](https://github.com/czerwonk/bird_exporter) - Metric exporter for bird routing daemon to use with Prometheus.
+- [Prometheus SQL Exporter](https://github.com/burningalchemist/sql_exporter)

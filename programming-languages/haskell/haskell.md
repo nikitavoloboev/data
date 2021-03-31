@@ -273,3 +273,4 @@
 - [An introduction to typeclass metaprogramming (2021)](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/)
 - [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)
 - [Easy Haskell Language Server Nix](https://github.com/jkachmar/easy-hls-nix)
+- [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to forbid them.
