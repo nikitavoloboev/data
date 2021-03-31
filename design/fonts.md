@@ -227,4 +227,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Continuous Typography (2020)](https://maxkoehler.com/posts/continuous-typography/)
 - [Fontshare](https://www.fontshare.com/) - Free fonts service.
 - [Glyphs](https://glyphsapp.com/) - Mac font editor that puts you in control.
-- [Let’s fix font size (2021)](https://tonsky.me/blog/font-size/) ([HN](https://news.ycombinator.com/item?id=26633148))
+- [Let’s fix font size (2021)](https://tonsky.me/blog/font-size/) ([HN](https://news.ycombinator.com/item?id=26633148)) ([Lobsters](https://lobste.rs/s/nl6nd3/font_size_is_useless_let_s_fix_it))

@@ -100,4 +100,4 @@
 - [Streaming SQL: What is it, why is it useful? (2021)](https://materialize.com/streaming-sql-intro/)
 - [Steampipe](https://steampipe.io/) - Extensible SQL interface to your favorite cloud APIs. ([Code](https://github.com/turbot/steampipe))
 - [Speeding up SQL queries by orders of magnitude using UNION (2021)](https://www.foxhound.systems/blog/sql-performance-with-union/) ([HN](https://news.ycombinator.com/item?id=26524776))
-- [Some opinionated thoughts on SQL databases (2021)](https://blog.nelhage.com/post/some-opinionated-sql-takes/)
+- [Some opinionated thoughts on SQL databases (2021)](https://blog.nelhage.com/post/some-opinionated-sql-takes/) ([Lobsters](https://lobste.rs/s/jb8jk1/some_opinionated_thoughts_on_sql))

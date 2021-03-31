@@ -219,3 +219,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [The Actual OSI Model (2021)](https://computer.rip/2021-03-27-the-actual-osi-model.html) ([HN](https://news.ycombinator.com/item?id=26607983))
 - [ZeroTier](https://www.zerotier.com/) - Connect team members from anywhere in the world on any device.
 - [hostctl](https://github.com/guumaster/hostctl) - Gives you more control over the use of your hosts file.
+- [Lobsters: What do you use for your home networking setup? (2021)](https://lobste.rs/s/dbr7yu/what_do_you_use_for_your_home_networking)
