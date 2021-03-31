@@ -489,6 +489,7 @@
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [Antiutils](https://github.com/ivan7237d/antiutils) - TypeScript/JavaScript utilities for those who don't like utilities.
 - [linked-list](https://github.com/wooorm/linked-list) - Minimalistic linked lists.
+- [msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - JavaScript implementation of MessagePack, an efficient binary serilization format.
 
 ## Links
 

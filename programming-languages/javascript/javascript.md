@@ -272,3 +272,4 @@
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [JavaScript and the next decade of data programming (2021)](http://benschmidt.org/post/2020-01-15/2020-01-15-webgpu/) ([Tweet](https://twitter.com/benmschmidt/status/1368988766174666753))
 - [Glide](https://github.com/Myrannas/glide) - Interpreted JavaScript VM written entirely in safe rust.
+- [stricter](https://github.com/atlassian/stricter) - Project-wide js-linting tool.

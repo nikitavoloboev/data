@@ -18,3 +18,4 @@
 - [Cumin](https://github.com/cympfh/cumin) - Structured, Typed and Mini-Programmable Configuration Language. ([Docs](https://cympfh.cc/cumin/))
 - [Intercal, YAML, and Other Horrible Programming Languages (2021)](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/) ([HN](https://news.ycombinator.com/item?id=26271582))
 - [Code is Data is YAML (2021)](https://buttondown.email/hillelwayne/archive/code-is-data-is-yaml/)
+- [BundleWrap](https://github.com/bundlewrap/bundlewrap) - Config management with Python. ([Web](https://bundlewrap.org/))
