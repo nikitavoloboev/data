@@ -21,3 +21,4 @@
 - [bCast Blog](https://blog.bcast.fm/) - How To Build A Profitable Podcast.
 - [How to Record Great Sounding / High Quality Audio at Home (2021)](https://nickjanetakis.com/blog/how-to-record-great-sounding-high-quality-audio-at-home)
 - [Reflecting on a Hundred Days of a Software Podcast (2021)](https://utsavshah.com/2021/03/19/reflecting-on-a-hundred-days-of-a-software-podcast/)
+- [How to clean up your audio recordings](https://twitter.com/mrxinu/status/1376998161437257731)

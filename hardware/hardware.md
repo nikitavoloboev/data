@@ -180,3 +180,4 @@
 - [I want a computer that I own (2021)](http://misc-stuff.terraaeon.com/articles/computer-i-own.html) ([HN](https://news.ycombinator.com/item?id=26393824))
 - [DIY Through Hole Plating of PCBs (2017)](https://blog.honzamrazek.cz/2017/10/diy-through-hole-plating-of-pcbs/)
 - [Cobalt](https://github.com/oxidecomputer/cobalt) - Collection of common Bluespec interfaces/modules.
+- [Flexible Internal Representation for RTL](https://github.com/chipsalliance/firrtl) ([Web](https://www.chisel-lang.org/firrtl/))

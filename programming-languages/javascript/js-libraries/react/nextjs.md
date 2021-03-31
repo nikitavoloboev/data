@@ -33,6 +33,7 @@
 - [Next.js Incremental Static Regeneration with SWR](https://github.com/joe-bell/example-next-isr-with-swr) - Lightning fast static pages with ISR, instantly updated with SWR.
 - [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 - [Next.js landing page template for SaaS products](https://next-startd.vercel.app/) ([Web](https://next-startd.vercel.app/))
+- [Next js Auth boilerplate](https://github.com/smakosh/auth-ts-next-boilerplate)
 
 ## NextJS plugins
 

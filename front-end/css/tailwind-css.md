@@ -68,6 +68,7 @@
 - [windicss](https://github.com/voorjaar/windicss) - Next generation tailwindcss compiler.
 - [Windi CSS for Vite](https://github.com/windicss/vite-plugin-windicss) - On-demand TailwindCSS.
 - [Windi CSS](https://github.com/windicss/windicss) - Next generation Tailwind CSS compiler. ([Docs](https://windicss.netlify.app/)) ([Docs Code](https://github.com/windicss/docs))
+- [Windi Analysis](https://github.com/windicss/windicss-analysis) - Visual analyzer for Windi CSS. ([Web](https://analysis-demo.windicss.org/#/))
 - [updrafts.app](https://updrafts.app/) - Design & Prototype with Tailwind CSS.
 - [Tailwindize](https://quoorex.com/tailwindize/) - Convert any color into a Tailwind one.
 - [Nightwind](https://github.com/jjranalli/nightwind) - Automatic, customizable, overridable Tailwind dark mode plugin. ([Web](https://nightwindcss.com/))

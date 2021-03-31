@@ -136,3 +136,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email is Good](https://email-is-good.com/) - Site about email productivity.
 - [Gefilte Fish](https://github.com/nedbat/gefilte) - Automates the creation of GMail filters.
 - [Sieve](http://sieve.info/) - Language for filtering e-mail messages.
+- [Leave Me Alone](https://leavemealone.app/) - Easily unsubscribe from unwanted emails.
