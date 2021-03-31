@@ -18,3 +18,4 @@
 - [Static analysis tools for PHP](https://github.com/exakat/php-static-analysis-tools)
 - [TNTSearch](https://github.com/teamtnt/tntsearch) - Fully featured full text search engine written in PHP.
 - [Thinking Functionally in PHP (2020)](https://leanpub.com/thinking-functionally-in-php)
+- [The PHP Interpreter Code](https://github.com/php/php-src)
