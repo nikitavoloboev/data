@@ -40,3 +40,4 @@
 - [Awesome Open-Source Contribs for Apache Kafka](https://github.com/streamthoughts/awesome-opensource-contribs-kafka)
 - [kafka-serde](https://github.com/DataDog/kafka-serde) - Rust's serde implementation for the Kafka protocol.
 - [Apache Kafka Mocking and Testing (2020)](https://microcks.io/blog/apache-kafka-mocking-testing/)
+- [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet (2021)](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)

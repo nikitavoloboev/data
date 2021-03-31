@@ -27,3 +27,4 @@
 - [Duolingo's language notes all on one page](https://duome.eu/tips/en) ([HN](https://news.ycombinator.com/item?id=26427405))
 - [How to learn a language (and stick at it)](https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning)
 - [Interlinear Books](https://interlinearbooks.com/) - Bringing Literature to Language Learners.
+- [SelfStudyClassics](https://selfstudyclassics.com/) - Online Latin course.

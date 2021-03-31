@@ -92,3 +92,4 @@
 - [How to Give a Status Update To Executives (2021)](https://jacobian.org/2021/mar/5/exec-status-update/)
 - [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/)
 - [How can you tell if someone is lying? (2021)](https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/) ([HN](https://news.ycombinator.com/item?id=26607386))
+- [Yes, experts will lie to you sometimes (2021)](https://noahpinion.substack.com/p/yes-experts-will-lie-to-you-sometimes)

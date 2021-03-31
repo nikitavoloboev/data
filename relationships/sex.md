@@ -3,6 +3,7 @@
 ## Notes
 
 - [Give her an O (or more) before you actually fuck. That way if you finish early it’s not the end of the world. I would also say give her an O after you’ve cum as well.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
+- [Going off birth control increases sex drive.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
 
 ## Links
 
@@ -28,3 +29,7 @@
 - [A Beginner's Guide to Good, Great, and Amazing Sex](https://www.reddit.com/r/sexover30/comments/71zp0s/a_beginners_guide_to_good_great_and_amazing_sex/)
 - [Fascinating G-Spot Orgasm Thread](https://www.reddit.com/r/sexover30/comments/islp9p/fascinating_gspot_orgasm_thread/)
 - [My Tips on Giving Oral to Women (31M)](https://www.reddit.com/r/sexover30/comments/gva63v/my_tips_on_giving_oral_to_women_31m/)
+- [Favorite Sex Positions (2021)](https://www.reddit.com/r/sexover30/comments/mgiu55/best_sex_practices_of_the_week_favorite_sex/)
+- [Best lube for sensitive genitals (2021)](https://www.reddit.com/r/sex/comments/mghvro/what_is_the_best_lube_for_sensitive_genitals/)
+- [Healthy amount of sex per week in a relationship](https://www.reddit.com/r/sex/comments/mgfndk/what_would_you_say_is_a_healthy_amount_of_sex_per/)
+- [Sex Positions List](https://sexpositions.club/)

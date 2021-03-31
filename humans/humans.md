@@ -29,6 +29,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [The Observer Effect – Marc Andreessen](https://www.theobservereffect.org/marc.html)
 - [The Steve Jobs 95 Interview](https://www.youtube.com/watch?v=M6Oxl5dAnR0)
 - [Interview with Patrick Collison (2021)](https://noahpinion.substack.com/p/interview-patrick-collison-co-founder) ([HN](https://news.ycombinator.com/item?id=26385572))
+- [Oral History of Dave Cutler (2018)](https://www.youtube.com/watch?v=29RkHH-psrY)
 
 ## Interesting bios
 

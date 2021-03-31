@@ -69,3 +69,4 @@
 - [Why can't we have contagious vaccines? (2021)](https://www.reddit.com/r/askscience/comments/lqniul/why_cant_we_have_contagious_vaccines/)
 - [Genome Sequencing and Covid-19: How Scientists Are Tracking the Virus (2021)](https://www.nytimes.com/interactive/2021/03/25/magazine/genome-sequencing-covid-variants.html?action=click&module=Top%20Stories&pgtype=Homepage)
 - [Vanden Bossche, PhD: the risk of “viral escape” posed by “leaky vaccines.” (2021)](https://www.youtube.com/watch?v=2LSMpuQcTSE)
+- [Moderna mRNA sequence released to GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf) ([HN](https://news.ycombinator.com/item?id=26628233))
