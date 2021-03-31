@@ -63,3 +63,4 @@
 - [Chatting with Google’s DeepMind about the future of AI (2021)](https://stackoverflow.blog/2021/03/02/podcast-317-deepmind-google-ai-deep-learning-muzero/)
 - [Moore's Law for Everything (2021)](https://moores.samaltman.com/) ([HN](https://news.ycombinator.com/item?id=26480981))
 - [How We Built A Context-Specific Bidding System for Etsy Ads (2021)](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
+- [Most fears about technology are really fears about capitalism](https://twitter.com/jackiehluo/status/1377325259779674112)

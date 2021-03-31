@@ -24,7 +24,7 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [How to Stop Freaking Out and Tackle Climate Change (2020)](https://www.nytimes.com/2020/01/10/opinion/how-to-help-climate-change.html) ([Tweet](https://twitter.com/ayanaeliza/status/1216021205049839618))
 - [Personal list of interesting climate change & sustainability links](https://github.com/timothyclifford/planet-earth)
 - [Climatescape](https://climatescape.org/) - Open database of organizations leading the fight against climate change. ([Code](https://github.com/climatescape/climatescape.org))
-- [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate. Be a part of the solution.
+- [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate. Be a part of the solution.
 - [Stripe’s first negative emissions purchases (2020)](https://stripe.com/blog/first-negative-emissions-purchases)
 - [Source materials supporting Stripe's 2020 negative emissions purchases](https://github.com/stripe/negative-emissions-source-materials)
 - [electricityMap](https://www.electricitymap.org/map) - Real-time visualisation of the CO2 emissions of electricity consumption.
@@ -86,6 +86,7 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Data for Environmental Intelligence](https://github.com/rockita/Environmental_Intelligence)
 - [Carbon Dioxide Removal Primer](https://cdrprimer.org/) - Resource on the fundamentals of carbon dioxide removal and its role in addressing the climate crisis.
 - [Air Pollution Primer (2021)](https://www.babyfriendlyair.com/en/guides/air-pollution-primer/)
+- [Air Pollution - Our World in Data](https://ourworldindata.org/air-pollution)
 - [Project Vesta](https://www.projectvesta.org/) - Help reverse climate change by turning a trillion tonnes of CO2 into rock.
 - [The Extinction Clock](https://extinctionclock.org/) - Internet's authoritative source for end of world climate and extinction predictions.
 - [Awesome Open Atmospheric, Ocean, and Climate Science](https://github.com/pangeo-data/awesome-open-climate-science)

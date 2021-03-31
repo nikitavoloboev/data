@@ -6,6 +6,7 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Pipe](https://www.pipe.com/)
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)
 - [Arrival](https://arrival.com/)

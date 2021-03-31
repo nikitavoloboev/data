@@ -104,3 +104,4 @@
 - [React Native ARIA](https://github.com/GeekyAnts/react-native-aria) - Helps you build accessible and rich Apps with React Native.
 - [MMKV](https://github.com/mrousavy/react-native-mmkv) - Extremely fast key/value storage library for React Native. ~30x faster than AsyncStorage.
 - [React Native Multithreading](https://github.com/mrousavy/react-native-multithreading) - Fast and easy multithreading for React Native using JSI.
+- [Setting up an Example App for Your React Native Library (2019)](https://medium.com/@charpeni/setting-up-an-example-app-for-your-react-native-library-d940c5cf31e4) ([Tweet](https://twitter.com/ericclemmons/status/1377097139201843200))
