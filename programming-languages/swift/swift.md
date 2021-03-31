@@ -195,3 +195,4 @@
 - [SwiftFiddle](https://swiftfiddle.com/) - Swift Online Playground. ([Code](https://github.com/kishikawakatsumi/swift-playground))
 - [Classes vs. Structs in Swift — Basics and Memory Management (2021)](https://betterprogramming.pub/classes-vs-structs-basics-and-memory-management-4707714d82e7)
 - [Strings, characters, and performance in Swift — a deep dive (2016)](https://medium.com/@tonyallevato/strings-characters-and-performance-in-swift-a-deep-dive-b7b5bde58d53)
+- [How C and Objective-C declarations are translated to Swift](https://github.com/apple/swift/blob/main/docs/CToSwiftNameTranslation.md)
