@@ -300,7 +300,7 @@
 - [Gentle introduction to Kubernetes](https://github.com/eon01/kubernetes-workshop)
 - [Kubernetes is a container orchestration system, but that's not the point (2020)](https://nikhiljha.com/posts/kubernetes-intro/) ([Lobsters](https://lobste.rs/s/xdcrsa/kubernetes_is_container_orchestration))
 - [helm-docs](https://github.com/norwoodj/helm-docs) - Tool for automatically generating markdown documentation for helm charts.
-- [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes. ([Web](https://kubecost.com/))
+- [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes. ([Web](https://kubecost.com/)) ([GitHub](https://github.com/kubecost))
 - [Kubernetes Pondering (2020)](https://christine.website/blog/k8s-pondering-2020-12-31) ([Lobsters](https://lobste.rs/s/avqtvh/kubernetes_pondering))
 - [Accelerated Feedback Loops when Developing for Kubernetes with Conftest (2020)](https://reese.dev/accelerated-feedback-loops-when/)
 - [kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
@@ -353,3 +353,4 @@
 - [Porter](https://www.getporter.dev/) - Fully-managed PaaS that lets teams automate DevOps. Deploy and manage apps within AWS, GCP, DO, and more. ([Code](https://github.com/porter-dev/porter)) ([Dashboard](https://dashboard.getporter.dev/login))
 - [Learnk8s](https://learnk8s.io/) - Kubernetes training company.
 - [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies) ([Article](https://blog.container-solutions.com/kubernetes-deployment-strategies))
+- [kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads.
