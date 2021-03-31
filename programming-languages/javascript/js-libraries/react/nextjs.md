@@ -172,3 +172,4 @@
 - [Terraform Next.js module for AWS](https://github.com/dealmore/terraform-aws-next-js)
 - [Terraform Next.js Image Optimization module for AWS](https://github.com/dealmore/terraform-aws-next-js-image-optimization)
 - [How to fix layout shifts to improve SEO in Next.js apps (2021)](https://blog.logrocket.com/fix-layout-shifts-improve-seo-next-js/)
+- [next-data-hooks](https://github.com/ricokahler/next-data-hooks) - Use getStaticProps and getServerSideProps as react hooks.

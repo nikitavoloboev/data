@@ -56,6 +56,7 @@
 - [That Is Not How Your Brain Works (2021)](https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works) ([HN](https://news.ycombinator.com/item?id=26341218))
 - [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
 - [Greg Dunn Neuro Art](https://www.instagram.com/gdunnart/)
+- [How brain cells are trying to connect with each other](https://www.reddit.com/r/Psychedelics/comments/mh1of9/interesting_video_showing_brain_cells_trying_to/)
 
 ## Images
 

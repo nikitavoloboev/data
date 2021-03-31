@@ -246,3 +246,5 @@
 - [A Guide to Writing Mathematics](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf) ([HN](https://news.ycombinator.com/item?id=26520971))
 - [How to Study Mathematics (2017)](https://www.math.uh.edu/~dblecher/pf2.html) ([HN](https://news.ycombinator.com/item?id=26524876))
 - [How to Solve It Book by George Pólya (1945)](https://math.hawaii.edu/home/pdf/putnam/PolyaHowToSolveIt.pdf)
+- [Vladimir Arnold on Teaching Mathematics (1997)](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
+- [How entropy can be seen as a volume - the geometric interpretation of information theory (2021)](https://ruvi.blog/2021/03/31/entropy-as-a-volume-the-geometric-interpretation/) ([Reddit](https://www.reddit.com/r/math/comments/mh54sr/how_entropy_can_be_seen_as_a_volume_the_geometric/))
