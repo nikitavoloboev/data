@@ -433,3 +433,5 @@
 - [Pin and suffering (2021)](https://fasterthanli.me/articles/pin-and-suffering)
 - [Where to go to learn Rust in 2021](https://loige.co/where-to-go-to-learn-rust-in-2021/) ([HN](https://news.ycombinator.com/item?id=26613625)) ([Lobsters](https://lobste.rs/s/sy7y7f/where_go_learn_rust_2021))
 - [The magical applications of Zero-Sized Types in Rust (2021)](https://www.hardmo.de/article/2021-03-14-zst-proof-types.md)
+- [Learning Parser Combinators With Rust (2019)](https://bodil.lol/parser-combinators/)
+- [Parser combinators in Rust (2021)](https://doma.dev/blog/parsing-stuff-in-rust/)
