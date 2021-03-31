@@ -55,3 +55,4 @@
 - [vue-dts-gen](https://github.com/egoist/vue-dts-gen) - Generate `d.ts` from `.vue` files.
 - [Windi CSS for Nuxt.js](https://github.com/windicss/nuxt-windicss-module)
 - [Create Nuxt App](https://github.com/nuxt/create-nuxt-app) - Create a Nuxt.js project in seconds.
+- [Pinia](https://github.com/posva/pinia) - Intuitive, type safe and flexible Store for Vue. ([Docs](https://pinia.esm.dev/introduction.html))

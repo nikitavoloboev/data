@@ -46,3 +46,4 @@
 - [Worktop](https://github.com/lukeed/worktop) - Next generation web framework for Cloudflare Workers.
 - [Vercel Serverless Functions vs. Cloudflare Workers (2021)](https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers) ([HN](https://news.ycombinator.com/item?id=26580102))
 - [workers-graphql](https://github.com/caass/workers-graphql) - GraphQL API built for Cloudflare Workers.
+- [Durable Objects, now in Open Beta (2021)](https://blog.cloudflare.com/durable-objects-open-beta/)

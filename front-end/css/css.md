@@ -285,3 +285,4 @@
 - [Animating Underlines with CSS (2021)](https://css-irl.info/animating-underlines/)
 - [Grid Component](https://github.com/naver/egjs-grid) - Component that can arrange items according to the type of grids.
 - [Tools for Auditing CSS (2021)](https://css-tricks.com/tools-for-auditing-css/)
+- [Container Queries are actually coming (2021)](https://piccalil.li/blog/container-queries-are-actually-coming)

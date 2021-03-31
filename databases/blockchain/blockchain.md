@@ -120,3 +120,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Why The NFT Market Is Not As Crazy As You Think (2021)](https://www.youtube.com/watch?v=UpXCUEOcyNs)
 - [a16z Podcast: All about NFTs (2021)](https://a16z.com/2021/03/27/nfts-explainer-faqs-hype-reality-innovation-crypto-creator-economy/)
 - [Solana](https://solana.com/) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. ([Code](https://github.com/solana-labs/solana)) ([Reddit](https://www.reddit.com/r/solana/)) ([Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0))
+- [Storage Chains Compared](https://skynetwiki.tech/storage-chains-compared/)
+- [Storj vs Filecoin (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mgxskc/storj_vs_filecoin/)
