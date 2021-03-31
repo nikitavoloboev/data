@@ -70,3 +70,4 @@
 - [Vention](https://vention.io/) - Build your machine today. Receive it tomorrow.
 - [DART](https://github.com/dartsim/dart) - Dynamic Animation and Robotics Toolkit. ([Code](https://github.com/dartsim/dart))
 - [PyRobot](https://github.com/facebookresearch/pyrobot) - Open Source Robotics Research Platform. ([Web](https://pyrobot.org/))
+- [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics. ([Code](https://github.com/foxglove/studio))
