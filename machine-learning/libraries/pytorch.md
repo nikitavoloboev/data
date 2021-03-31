@@ -234,3 +234,5 @@
 - [Linear Attention Transformer in PyTorch](https://github.com/lucidrains/linear-attention-transformer) - Transformer based on a variant of attention that is linear complexity in respect to sequence length.
 - [GeoTorch](https://github.com/Lezcano/geotorch) - Constrained optimization toolkit for PyTorch.
 - [LieTorch: Tangent Space Backpropagation](https://github.com/princeton-vl/lietorch)
+- [FastMoE](https://fastmoe.ai/) - Fast MoE implementation for PyTorch. ([Code](https://github.com/laekov/fastmoe))
+- [NN Template](https://github.com/lucmos/nn-template) - Generic template to bootstrap your PyTorch project with PyTorch Lightning, Hydra, W&B, DVC, and Streamlit.

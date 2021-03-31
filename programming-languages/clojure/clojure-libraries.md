@@ -26,6 +26,7 @@
 
 - [deep-diamond](https://github.com/uncomplicate/deep-diamond) - Fast Clojure Tensor & Deep Learning library.
 - [DataLinguist](https://github.com/simongray/datalinguist) - Stanford CoreNLP in idiomatic Clojure.
+- [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - Clojure high performance data processing system.
 
 ## Other
 

@@ -46,3 +46,4 @@
 - [CryptoBallot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting. ([Web](https://cryptoballot.com/))
 - [Less than 20% of the world's population now live in a “free” country (2021)](https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege) ([HN](https://news.ycombinator.com/item?id=26397819))
 - [The Design of Forms in Government departments](https://design-of-forms.online/)
+- [CitizenLab](https://github.com/CitizenLabDotCo/citizenlab) - Digital democracy platform that facilitates community participation and co-creation. ([Web](https://www.citizenlab.co/))

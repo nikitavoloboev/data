@@ -28,6 +28,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Metapurse](https://metapurse.fund/) - Crypto-exclusive fund.
 - [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with Blockchain.
 - [OpenSea](https://opensea.io/) - Largest NFT marketplace. Buy, sell, and discover rare digital items.
+- [hicetnunc2000](https://www.hicetnunc.xyz/) - Smart contracts and distributed systems designs. ([Web](https://www.hicetnunc.xyz/))
 
 ## Notes
 

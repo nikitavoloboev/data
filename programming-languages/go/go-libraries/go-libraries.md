@@ -757,6 +757,7 @@
 - [fs2](https://github.com/timtadh/fs2) - B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go.
 - [go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update.
 - [Gochan](https://github.com/zxjcarrot/gochan) - Turns io.ReadWriter interface into channels.
+- [mathfmt](https://github.com/mmcloughlin/mathfmt) - Document mathematical Go code beautifully.
 
 ## Links
 

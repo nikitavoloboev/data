@@ -267,3 +267,4 @@
 - [Interfaces and Protocols in Python (2021)](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html)
 - [Many models workflows in Python (2020)](https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/)
 - [VSCode's Python Interactive mode is amazing! (2020)](https://www.youtube.com/watch?v=lwN4-W1WR84)
+- [How I Beat the Berlin Rental Market With a Python Script (2021)](https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/)

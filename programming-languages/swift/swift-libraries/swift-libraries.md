@@ -205,6 +205,7 @@
 - [Meridian](https://github.com/khanlou/Meridian) - Web server written in Swift that lets you write your endpoints in a declarative way.
 - [GraphQLKit](https://github.com/alexsteinerde/graphql-kit) - Easy setup of a GraphQL server with Vapor. It uses the GraphQL implementation of Graphiti.
 - [Kitura](https://github.com/Kitura/Kitura) - Swift web framework and HTTP server. ([Web](https://www.kitura.dev/))
+- [Apodini](https://github.com/Apodini/Apodini) - Declarative, composable framework to build web services using Swift.
 
 ## SwiftUI
 
@@ -274,6 +275,7 @@
 - [AlertToast](https://github.com/elai950/AlertToast) - Present Apple-like alert & toast using SwiftUI.
 - [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - Open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage.
+- [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - Animations created with SwiftUI.
 
 ## Test
 

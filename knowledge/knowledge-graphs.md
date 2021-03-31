@@ -69,3 +69,4 @@
 - [Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction (2020)](https://www.aclweb.org/anthology/2020.acl-main.209/) ([Code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings))
 - [Knowledge Graphs (2021)](https://cacm.acm.org/magazines/2021/3/250711-knowledge-graphs/fulltext)
 - [Wikipedia @ 20: Stories of an Incomplete Revolution (2020)](https://direct.mit.edu/books/book/4956/Wikipedia-20Stories-of-an-Incomplete-Revolution)
+- [WikiCite data](https://github.com/wikicite/wikicite-data) - Extract, transform, and analyze bibliographic data from Wikidata dumps. ([Statistics](http://wikicite.org/statistics.html))

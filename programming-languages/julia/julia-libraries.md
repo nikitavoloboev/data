@@ -31,6 +31,7 @@
 - [BAT](https://github.com/bat/BAT.jl) - Bayesian analysis toolkit in Julia.
 - [MLJFlux](https://github.com/FluxML/MLJFlux.jl) - Interface to the deep learning package Flux.jl from the MLJ.jl toolbox.
 - [Transformers.jl](https://github.com/chengchingwen/Transformers.jl) - Julia Implementation of Transformer models.
+- [Cambrian.jl](https://github.com/d9w/Cambrian.jl) - Evolutionary Computation framework.
 
 ## Math
 

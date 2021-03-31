@@ -269,3 +269,4 @@
 - [Guide: Finetune GPT2-XL](https://github.com/Xirider/finetune-gpt2xl)
 - [GENRE (Generarive ENtity REtrieval)](https://github.com/facebookresearch/GENRE) - Uses a sequence-to-sequence approach to entity retrieval (e.g., linking), based on fine-tuned BART architecture.
 - [Teachable NLP](https://ainize.ai/teachable-nlp) - GPT-2 Training as a Service.
+- [DensePhrases](https://github.com/princeton-nlp/DensePhrases) - Provides answers to your natural language questions from the entire Wikipedia in real-time.
