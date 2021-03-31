@@ -41,3 +41,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Christopher Anadale - YouTube](https://www.youtube.com/c/ChristopherAnadale/featured) - Teaches philosophy.
 - [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 - [Philosophy Books and Resources](https://github.com/Jfaler/Philosophy)
+- [From the Philosophy of the Open to the Ideology of the User-Friendly (2021)](https://loriemerson.net/2013/02/02/from-the-philosophy-of-the-open-to-the-ideology-of-the-user-friendly-2/)
