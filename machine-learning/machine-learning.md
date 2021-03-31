@@ -437,3 +437,4 @@
 - [Label Errors](https://labelerrors.com/) - Label errors in benchmark ML test sets. ([Lobsters](https://lobste.rs/s/v28crd/label_errors_benchmark_ml_test_sets))
 - [What will the major ML research trends be in the 2020s?](https://www.reddit.com/r/MachineLearning/comments/mfnhki/d_what_will_the_major_ml_research_trends_be_in/)
 - [Machine Learning and Deep Learning Courses (2021)](https://elvissaravia.substack.com/p/machine-learning-and-deep-learning)
+- [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)

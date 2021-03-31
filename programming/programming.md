@@ -363,3 +363,4 @@
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) ([HN](https://news.ycombinator.com/item?id=26537298))
 - [StatesML](https://github.com/StatesML/StatesML-grammar) - States Modeling Language.
 - [Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next? (2021)](https://news.ycombinator.com/item?id=26647717)
+- [Modern Code Review: A Case Study at Google (2018)](https://sback.it/publications/icse2018seip.pdf)

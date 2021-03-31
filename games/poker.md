@@ -12,3 +12,4 @@
 - [Secrets of the MIT Poker Course](https://mentalfloss.atavist.com/secrets-of-the-mit-poker-course)
 - [joker](https://github.com/notnil/joker) - Poker library written in go.
 - [TexasHoldemSolverJava](https://github.com/bupticybee/TexasHoldemSolverJava) - Java implemented Texas holdem and short deck Solver. ([HN](https://news.ycombinator.com/item?id=26213367))
+- [Poker Web](https://github.com/buhrmi/svelte-poker) - Poker game made with Svelte.

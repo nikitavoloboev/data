@@ -112,3 +112,4 @@
 - [FingerprintJS](https://fingerprintjs.com/) - Browser fingerprinting and fraud detection API.
 - [Browser Rendering Optimization](https://github.com/vasanthk/browser-rendering-optimization) - Notes on browser rendering optimization and hitting 60fps smoothness.
 - [CORS in 100 Seconds (2021)](https://www.youtube.com/watch?v=4KHiSt0oLJ0)
+- [Browserosaurus](https://wstone.io/browserosaurus) - Browser prompter for macOS. ([Code](https://github.com/will-stone/browserosaurus))
