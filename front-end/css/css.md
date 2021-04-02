@@ -287,3 +287,4 @@
 - [Tools for Auditing CSS (2021)](https://css-tricks.com/tools-for-auditing-css/)
 - [Container Queries are actually coming (2021)](https://piccalil.li/blog/container-queries-are-actually-coming)
 - [Building a Magical 3D button with HTML and CSS (2021)](https://www.joshwcomeau.com/animation/3d-button/) ([HN](https://news.ycombinator.com/item?id=26635300)) ([Tweet](https://twitter.com/JoshWComeau/status/1376917791190704134))
+- [Dark mode in 5 minutes, with inverted lightness variables (2021)](https://lea.verou.me/2021/03/inverted-lightness-variables/)

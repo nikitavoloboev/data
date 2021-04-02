@@ -121,3 +121,4 @@ All active variables can be seen by running `env`.
 - [Elvish Shell](https://elv.sh/) - Expressive programming language and a versatile interactive shell, combined into one seamless package. ([Tour](https://elv.sh/learn/tour.html))
 - [All the characters that work on any terminal and any operating system](https://github.com/ehmicky/cross-platform-terminal-characters)
 - [Improving shell workflows with fzf (2021)](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/) ([HN](https://news.ycombinator.com/item?id=26634419))
+- [Shell Field Guide](https://raimonster.com/scripting-field-guide/)

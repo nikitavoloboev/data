@@ -97,3 +97,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The Lens](https://www.lens.org/lens/) - Free & Open Patent and Scholarly Search.
 - [Iris.ai](https://iris.ai/) - AI engine for scientific text understanding.
 - [Substance](https://substance.io/) - Self-publish your research. ([GitHub](https://github.com/substance))
+- [The Overedge Catalog: The Future of Research Organizations](https://arbesman.net/overedge/)

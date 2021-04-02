@@ -39,3 +39,4 @@
 - [Home Assistant Companion Docs](https://companion.home-assistant.io/) ([Code](https://github.com/home-assistant/companion.home-assistant))
 - [zigpy](https://github.com/zigpy/zigpy) - Library implementing a ZigBee stack.
 - [Frigate](https://github.com/blakeblackshear/frigate) - NVR with real time local object detection for IP cameras.
+- [How to achieve smart home nirvana (or, home automation without subscription) (2021)](https://arstechnica.com/information-technology/2021/03/how-to-achieve-smart-home-nirvana-or-home-automation-without-subscription/)
