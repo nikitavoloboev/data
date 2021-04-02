@@ -71,3 +71,4 @@
 - [Vanden Bossche, PhD: the risk of “viral escape” posed by “leaky vaccines.” (2021)](https://www.youtube.com/watch?v=2LSMpuQcTSE)
 - [Moderna mRNA sequence released to GitHub](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf) ([HN](https://news.ycombinator.com/item?id=26628233))
 - [Why do mRNA Vaccines have side effects? (2021)](https://www.reddit.com/r/bioinformatics/comments/mi3fdc/why_do_mrna_vaccines_have_side_effects/)
+- [What are the actual differences between the Pfizer and Moderna vaccine? (2021)](https://www.reddit.com/r/askscience/comments/mi5frs/what_are_the_actual_differences_between_the/)

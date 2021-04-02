@@ -315,3 +315,4 @@
 - [MySQL from Below (2021)](https://blog.koehntopp.info/2021/02/25/mysql-from-below.html)
 - [Database Normalization in plain language for the working dev (with examples) (2021)](https://www.gatlin.io/guides/database-normalization)
 - [Array Databases: Concepts, Standards, Implementations](https://rd-alliance.org/system/files/Array-Databases_final-report.pdf) ([HN](https://news.ycombinator.com/item?id=26462602))
+- [Ask HN: Best low-/no-code solution for simple web-based database front ends (2021)](https://news.ycombinator.com/item?id=26657803)
