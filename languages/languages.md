@@ -28,3 +28,4 @@
 - [How to learn a language (and stick at it)](https://psyche.co/guides/how-to-approach-the-lifelong-project-of-language-learning)
 - [Interlinear Books](https://interlinearbooks.com/) - Bringing Literature to Language Learners.
 - [SelfStudyClassics](https://selfstudyclassics.com/) - Online Latin course.
+- [Learning dutch (2021)](https://www.reddit.com/r/Netherlands/comments/mig7jq/learning_dutch/)

@@ -12,3 +12,4 @@
 - [An Introduction to Algebraic Topology (2020)](https://www.youtube.com/watch?v=2R4jvKGwKoE)
 - [Topology in Condensed Matter](https://topocondmat.org/) ([Code](https://github.com/topocm/topocm_content))
 - [Topology 101: How Mathematicians Study Holes (2021)](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/) ([HN](https://news.ycombinator.com/item?id=25928221))
+- [Book recommendations: Topology? (2021)](https://www.reddit.com/r/math/comments/mihme1/book_recommendations_topology/)

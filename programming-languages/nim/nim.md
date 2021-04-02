@@ -25,3 +25,4 @@
 - [nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language.
 - [Print](https://github.com/treeform/print) - Set of pretty print macros, useful for print-debugging.
 - [Pattern matching in Nim (2021)](https://nim-lang.org/blog/2021/03/10/fusion-and-pattern-matching.html) ([HN](https://news.ycombinator.com/item?id=26420716))
+- [Cosmopolitan Libc for Nim](https://github.com/Yardanico/cosmonim)

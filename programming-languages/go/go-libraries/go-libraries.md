@@ -128,6 +128,7 @@
 - [HttpRouter](https://github.com/julienschmidt/httprouter) - High performance HTTP request router that scales well.
 - [GoRequest](https://github.com/parnurzeal/gorequest) - Simplified HTTP client.
 - [Go CORS handler](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests.
+- [gqlgenc](https://github.com/Yamashou/gqlgenc) - Go library for building GraphQL client with gqlgen.
 
 ## GraphQL
 

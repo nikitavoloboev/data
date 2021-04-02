@@ -188,3 +188,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [FSL.tools](https://fsl.tools/) - Programming language to make complex Finite State Machines easy to create and maintain.
 - [Language evangelists, why should I use [language]? (2021)](https://lobste.rs/s/vnc7u4/language_evangelists_why_should_i_use)
 - [A history of ALGOL 68](https://dl.acm.org/doi/10.1145/234286.1057810)
+- [The BNF Dream (2021)](https://blog.chewxy.com/2021/03/25/bnfs/)

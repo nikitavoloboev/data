@@ -61,3 +61,4 @@
 - [Cacheroach](https://github.com/bobvawter/cacheroach) - Multi-tenant, multi-region, multi-cloud file store built using CockroachDB.
 - [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere. ([Code](https://github.com/gravitational/teleport))
 - [ownCloud](https://owncloud.com/) - Share files and folders, easy and secure. ([Code](https://github.com/owncloud/core))
+- [Wormhole](https://wormhole.app/) - Simple, private file sharing. ([HN](https://news.ycombinator.com/item?id=26666142))

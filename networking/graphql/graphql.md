@@ -201,3 +201,4 @@
 - [OAuth Protected GraphQL Playground](https://github.com/autom8ter/oauth-graphql-playground)
 - [GraphQL and modeling domains (2021)](https://alejandromp.com/blog/graphql-modeling-domain-backend-driven-ui/)
 - [REST vs GraphQL vs gRPC (2021)](https://www.danhacks.com/software/grpc-rest-graphql.html) ([HN](https://news.ycombinator.com/item?id=26466592))
+- [Graphile Engine](https://github.com/graphile/graphile-engine) - Enables you to build high-performance easily-extensible GraphQL schemas by combining plugins.
