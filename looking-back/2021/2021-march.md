@@ -12,7 +12,7 @@ The other little things I appreciated this month were spending a lot of time wit
 
 I did learn quite a bit this month and started going through the [CSS for JS devs course](https://css-for-js.dev/).
 
-This month has been quite funny though especially with the [boat getting stuck](https://stone-soup.ghost.io/archive/i-like-that-the-boat-is-stuck/).
+This month has been quite funny too especially with the [boat getting stuck](https://stone-soup.ghost.io/archive/i-like-that-the-boat-is-stuck/).
 
 Oh and [Fuck This Pandemic](https://eng.rekki.com/fuck-this-pandemic/pandemic.txt).
 
