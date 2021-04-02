@@ -199,3 +199,4 @@
 - [Cling -- Beyond Just Interpreting C++ (2021)](https://blog.llvm.org/posts/2021-03-25-cling-beyond-just-interpreting-cpp/)
 - [Blazing fast expression evaluation for C++ in LLDB (2021)](https://werat.dev/blog/blazing-fast-expression-evaluation-for-c-in-lldb/)
 - [Lint Tools - checking C/C++ programs](https://invisible-island.net/personal/lint-tools.html)
+- [All C++20 core language features with examples (2021)](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
