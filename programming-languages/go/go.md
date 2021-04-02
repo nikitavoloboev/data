@@ -449,3 +449,4 @@ Go promotes composition over inheritance.
 - [Gotchas in the Go Network Packages Defaults (2021)](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 - [Common anti-patterns in Go (2021)](https://deepsourcehq.hashnode.dev/common-anti-patterns-in-go)
 - [How does Go know time.Now? (2021)](https://tpaschalis.github.io/golang-time-now/)
+- [Spaghetti](https://github.com/adonovan/spaghetti) - Dependency analysis tool for Go packages.

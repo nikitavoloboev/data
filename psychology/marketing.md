@@ -111,6 +111,7 @@
 - [Zero to Marketing](https://zerotomarketing.com/) - Learn marketing from case studies.
 - [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds.
 - [Framework for prioritizing marketing strategy (2021)](https://twitter.com/theandreboso/status/1370101537893146627)
+- [Ask HN: Where do you find potential customers to validate your idea / MVP? (2021)](https://news.ycombinator.com/item?id=26644616)
 
 ## Images
 

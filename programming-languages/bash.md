@@ -15,7 +15,7 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Infinity](https://github.com/niieani/bash-oo-framework) - Modern boilerplate / framework / standard library for Bash.
 - [Funky](https://github.com/bbugyi200/funky) - Takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
 - [create-bash-script](https://github.com/nikita-skobov/create-bash-script) - Bash script designed to create other bash scripts with argument parsing.
-- [Bash Language Server](https://github.com/mads-hartmann/bash-language-server) - Bash language server implementation based on Tree Sitter and its grammar for Bash with explainshell integration.
+- [Bash-LSP](https://github.com/bash-lsp/bash-language-server) - Language server for Bash. ([HN](https://news.ycombinator.com/item?id=26663135))
 - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 - [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 - [How To Automate Basic Development Tasks with Bash](https://jmulholland.com/how-to-automate-basic-development-tasks-with-bash)

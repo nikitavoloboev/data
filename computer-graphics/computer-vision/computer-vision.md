@@ -249,3 +249,4 @@
 - [Neural 3D Video Synthesis](https://neural-3d-video.github.io/)
 - [Involution: Inverting the Inherence of Convolution for Visual Recognition (2021)](https://arxiv.org/abs/2103.06255) ([Code](https://github.com/d-li14/involution))
 - [Awesome Causality in Computer Vision](https://github.com/Wangt-CN/Awesome-Causality-in-CV)
+- [Vision Transformers for Dense Prediction (2021)](https://arxiv.org/abs/2103.13413) ([Code](https://github.com/intel-isl/DPT))

@@ -75,3 +75,4 @@
 - [Haikei](https://haikei.app/) - Generate unique SVG design assets.
 - [Warp SVG Online](https://pavellaptev.github.io/warp-svg/) - Warp and distort SVG files online. ([Code](https://github.com/PavelLaptev/warp-svg))
 - [SVG Generators (2021)](https://www.smashingmagazine.com/2021/03/svg-generators/)
+- [Make Awesome SVG Animations with CSS (2021)](https://www.youtube.com/watch?v=UTHgr6NLeEw) ([Code](https://github.com/fireship-io/animated-svg-demo))
