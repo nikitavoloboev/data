@@ -99,3 +99,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Екатерина Шульман о литературе, Толкине, президентстве и «Всемирном идеологическом отделе» (2021)](https://www.youtube.com/watch?v=dv1gNmGmOMg)
 - [Евгений Чебатков «Выходи из комнаты» (2021)](https://www.youtube.com/watch?v=OVPHqRzXRto)
 - [Новости СВЕРХДЕРЖАВЫ - YouTube](https://www.youtube.com/c/pwrru/videos)
+- [Россия в судах. Дело Чернышевского (2021)](https://www.youtube.com/watch?v=k4lyCSodqBY)
