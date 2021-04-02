@@ -29,7 +29,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory nLab](https://ncatlab.org/nlab/show/category+theory)
 - [Applied Category Theory – Online Course](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
 - [Functional Programming and Category Theory [Part 1] - Categories and Functors](http://nikgrozev.com/2016/03/14/functional-programming-and-category-theory-part-1-categories-and-functors/)
-- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) ([PDF](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf))
+- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/) ([PDF](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf)) ([Paper](https://arxiv.org/abs/1803.05316))
 - [Category Theory for Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([Notes](https://github.com/rpeszek/notes-milewski-ctfp-hs))
 - [Learn You Some Category Theory](https://jozefg.bitbucket.io/posts/2013-10-22-category-theory-in-haskell.html)
@@ -109,6 +109,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Emily Riehl is rewriting the foundations of higher category theory (2021)](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/) ([HN](https://news.ycombinator.com/item?id=26334535))
 - [Emily Pillmore: Type Arithmetic and the Yoneda Lemma (2020)](https://www.youtube.com/watch?v=aXS5HZ_1fNQ)
 - [Categorical logic from a categorical point of view](https://github.com/mikeshulman/catlog)
+- [Category Theory Illustrated - Orders](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
 
 ## Images
 

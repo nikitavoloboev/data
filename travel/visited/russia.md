@@ -100,3 +100,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Евгений Чебатков «Выходи из комнаты» (2021)](https://www.youtube.com/watch?v=OVPHqRzXRto)
 - [Новости СВЕРХДЕРЖАВЫ - YouTube](https://www.youtube.com/c/pwrru/videos)
 - [Россия в судах. Дело Чернышевского (2021)](https://www.youtube.com/watch?v=k4lyCSodqBY)
+- [ФЕЙГИН LIVE - YouTube](https://www.youtube.com/c/FeyginLive/videos)
