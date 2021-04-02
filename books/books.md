@@ -219,6 +219,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What are some books where the reader learns by building projects? (2021)](https://news.ycombinator.com/item?id=26039706)
 - [My sci-fi novel recommendations (2021)](https://noahpinion.substack.com/p/my-sci-fi-novel-recommendations)
 - [Most Recommended Books](https://mostrecommendedbooks.com/) - Discover books recommended by the world's most influential people.
+- [Longest book you actually are delighted you read and think about very often?](https://twitter.com/ellegist/status/1377735648749182977)
 
 ## Notes
 

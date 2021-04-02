@@ -108,6 +108,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing clearly is like playing Tetris. Sentences should be presented with clauses that drop down and slot together efficiently. At the earliest available opportunity you drop in a block that completes the line and points are won/made.](https://news.ycombinator.com/item?id=24268382)
 - [Recipe: 1. Write an essay. 2. Explain to a friend what you said in it. 3. Go back and rewrite it to say what you just said to your friend.](https://twitter.com/paulg/status/1376139287314493447)
 - [One of the hardest things to do when writing (and thus one of the differentiators of really good writing) is to cut stuff that's genuinely good, just not good in the thing you're writing.](https://twitter.com/paulg/status/1376562393396957185)
+- [1. Write not just what you know, but what you're learning. And post about what you love. 2. Have at least a tiny website that shows something neat. 3. Do things publicly, and comment when you think the other people would find it meaningful. 4. Help other people.](https://twitter.com/simonsarris/status/1378023590503849986)
 
 ## Links
 
