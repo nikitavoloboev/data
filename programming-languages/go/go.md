@@ -453,3 +453,4 @@ Go promotes composition over inheritance.
 - [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)
 - [goenv](https://github.com/syndbg/goenv) - Go Version Management.
 - [Good books for advanced go topics and how things are working under the hood (2021)](https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/)
+- [Understanding Allocations: the Stack and the Heap (2019)](https://www.youtube.com/watch?v=ZMZpH4yT7M0)
