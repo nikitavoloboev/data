@@ -67,6 +67,7 @@
 - [JamRTC](https://github.com/lminiero/jamrtc) - WebRTC for Live Musicians. ([HN](https://news.ycombinator.com/item?id=26505059))
 - [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) ([HN](https://news.ycombinator.com/item?id=26533792))
 - [Alda](https://alda.io/) - Text-based programming language for music composition. ([Why I'm rewriting Alda in Go and Kotlin](https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/)) ([Code](https://github.com/alda-lang/alda))
+- [IBNIZ](http://viznut.fi/ibniz/) - Virtual machine designed for extremely compact low-level audiovisual programs. ([Code](https://github.com/viznut/IBNIZ))
 
 ## Inspiration
 

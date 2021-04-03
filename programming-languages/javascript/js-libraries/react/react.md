@@ -213,3 +213,4 @@
 - [The Perils of Rehydration: An Eye-Opening Realization about Gatsby and React](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 - [SimpleR State](https://github.com/arnelenero/simpler-state) - Simplest app state management for React. ([HN](https://news.ycombinator.com/item?id=26525526))
 - [Testing React](https://github.com/storybookjs/testing-react) - Testing utilities that allow you to reuse your Storybook stories in your React unit tests.
+- [Atomos](https://github.com/oslabs-beta/atomos) - Open source Chrome developer tool for Recoil.

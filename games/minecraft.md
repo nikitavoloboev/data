@@ -39,3 +39,5 @@
 - [All is Cubes](https://github.com/kpreid/all-is-cubes) - Game engine for worlds made of cubical blocks.
 - [Minecraft, made in 48 hours](https://github.com/jdah/minecraft-weekend) ([Video](https://www.youtube.com/watch?v=4O0_-1NaWnY))
 - [EssentialsX](https://essentialsx.net/) - Essential plugin suite for Minecraft servers. ([Code](https://github.com/EssentialsX/Essentials))
+- [Minecraft Dev for IntelliJ](https://minecraftdev.org/) - Plugin for IntelliJ IDEA for Minecraft mod development. ([Code](https://github.com/minecraft-dev/MinecraftDev))
+- [pakkit](https://github.com/Heath123/pakkit) - Packet monitor for Minecraft.
