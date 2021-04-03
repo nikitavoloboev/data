@@ -101,3 +101,4 @@
 - [litehtml](https://github.com/litehtml/litehtml) - Fast and lightweight HTML/CSS rendering engine. ([Web](http://www.litehtml.com/))
 - [Gorillas’ nav: a case study (2021)](https://kittygiraudel.com/2021/03/13/gorillas-nav-a-case-study/)
 - [Under-Engineered Select Menus (2021)](https://adrianroselli.com/2021/03/under-engineered-select-menus.html)
+- [Parsed HTML Rewriter](https://github.com/worker-tools/parsed-html-rewriter) - DOM-based implementation of Cloudflare Worker's HTMLRewriter.

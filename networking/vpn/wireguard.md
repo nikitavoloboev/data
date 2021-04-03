@@ -35,3 +35,4 @@
 - [tailscale-controller](https://github.com/davidsbond/tailscale-controller) - Kubernetes controller for managing the installation of Tailscale on individual nodes.
 - [Headscale](https://github.com/juanfont/headscale) - Open source implementation of the Tailscale coordination server.
 - [innernet](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood. ([Article](https://blog.tonari.no/introducing-innernet))
+- [wgctl](https://github.com/apognu/wgctl) - WireGuard control utility.
