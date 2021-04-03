@@ -240,3 +240,4 @@
 - [Writing a Postgres SQL Pretty Printer in Rust (2021)](https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/)
 - [Notes on some PostgreSQL implementation details (2021)](https://buttondown.email/nelhage/archive/notes-on-some-postgresql-implementation-details/)
 - [pg_repack](https://github.com/reorg/pg_repack) - Reorganize tables in PostgreSQL databases with minimal locks.
+- [Securing a Postgres Database (2021)](https://goteleport.com/blog/securing-postgres-postgresql/) ([HN](https://news.ycombinator.com/item?id=26674756))

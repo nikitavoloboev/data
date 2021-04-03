@@ -204,3 +204,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Scripting with GitHub CLI (2021)](https://github.blog/2021-03-11-scripting-with-github-cli/)
 - [GitHub Learning Lab](https://lab.github.com/githubtraining/)
 - [Octocrabby](https://github.com/travisbrown/octocrabby) - Tools for managing GitHub block lists.
+- [RepoKitteh](https://www.repokitteh.io/) - GitHub Functions: Workflow Automation. ([HN](https://news.ycombinator.com/item?id=26674781))
