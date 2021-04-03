@@ -21,3 +21,4 @@
 - [Firefox Was Always Enough (2020)](https://www.ianbicking.org/blog/2020/11/firefox-was-always-enough.html) ([HN](https://news.ycombinator.com/item?id=25443152))
 - [addons-linter](https://github.com/mozilla/addons-linter) - Firefox Add-ons linter, written in JavaScript.
 - [Total Cookie Protection (2021)](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) ([HN](https://news.ycombinator.com/item?id=26237404))
+- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Firefox extension to protect from being fingerprinted.

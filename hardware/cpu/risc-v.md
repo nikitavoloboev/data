@@ -87,3 +87,4 @@
 - [R2VM](https://github.com/nbdd0121/r2vm) - Rust RISC-V Virtual Machine.
 - [What happens when you load into x0 on RISC-V? (2021)](https://commaok.xyz/post/riscv_isa_blog_post/)
 - [RARS](https://github.com/TheThirdOne/rars) - RISC-V Assembler and Runtime Simulator.
+- [RustSBI](https://github.com/luojia65/rustsbi) - RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
