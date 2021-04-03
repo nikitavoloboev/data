@@ -133,3 +133,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Tech Blog Recommendations](https://wolchok.org/reading/)
 - [Interesting Blogs List](https://github.com/xplosionmind/tommi.space/blob/main/_notes/public/Blogroll.md)
 - [Blog Surf](https://blogsurf.io/) - Directory of Personal Blogs, includes search option.
+- [Blogosphere](https://bilbof.com/blogosphere) - Discover independent technical blogs.

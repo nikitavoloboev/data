@@ -57,3 +57,4 @@
 - [elm-tooling](https://github.com/elm-tooling/elm-tooling-cli) - Manage Elm tools. ([Docs](https://elm-tooling.github.io/elm-tooling-cli/))
 - [The trickiest Elm bug I've ever seen (2021)](https://blog.realkinetic.com/the-trickiest-elm-bug-ive-ever-seen-988aff6cbbd7)
 - [Elm Koans](https://github.com/robertjlooby/elm-koans) - Set of koans for learning Elm.
+- [Calling Rust through Wasm from Elm (2020)](https://vleue.com/2020/07/wasm-elm/)

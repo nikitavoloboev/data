@@ -62,3 +62,4 @@
 - [Dumbo: LLVM-based Dumb Obfuscator (2019)](https://www.babush.me/dumbo-llvm-based-dumb-obfuscator.html)
 - [LLVM Meets Code Property Graphs (2021)](https://blog.llvm.org/posts/2021-02-23-llvm-meets-code-property-graphs/)
 - [LLVM Project Blog](https://blog.llvm.org/)
+- [revng](https://github.com/revng/revng) - Static binary translator. Given a input ELF binary for one of the supported architectures, it will analyze it and emit an equivalent LLVM IR.
