@@ -117,3 +117,4 @@
 - [Quads](https://github.com/fogleman/Quads) - Computer art based on quadtrees. ([Web](https://www.michaelfogleman.com/static/quads/))
 - [Coding Adventure: Ant and Slime Simulations (2021)](https://www.youtube.com/watch?v=X-iSQQgOd1A)
 - [Physarum Transport Networks](https://github.com/fogleman/physarum) - Particle-based simulation inspired by the Physarum polycephalum slime mold.
+- [Simple formula to create bit fields that look like alien art](https://twitter.com/aemkei/status/1378106731386040322)

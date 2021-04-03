@@ -365,4 +365,4 @@
 - [Ask HN: I've realized I'm a bad software engineer and I'm over 30, what's next? (2021)](https://news.ycombinator.com/item?id=26647717)
 - [Modern Code Review: A Case Study at Google (2018)](https://sback.it/publications/icse2018seip.pdf)
 - [Keep It Local (2021)](https://v5.chriskrycho.com/elsewhere/keep-it-local/) ([Talk](https://www.youtube.com/watch?v=Mt7v-VbFjxk))
-- [What problems do people solve with strace? (2021)](https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/)
+- [What problems do people solve with strace? (2021)](https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/) ([Lobsters](https://lobste.rs/s/d9ucpe/what_problems_do_people_solve_with_strace))

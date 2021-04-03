@@ -133,3 +133,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Lightning Network Hacksprint Wrap-Up (March 2021)](https://www.youtube.com/watch?v=cj-7hC0kksA)
 - [Casa](https://keys.casa/) - Secure Storage Solutions for Bitcoin.
 - [10x Security Bitcoin Guide](https://btcguide.github.io/) ([Code](https://github.com/btcguide/btcguide.github.io))
+- [BTCPay Server](https://btcpayserver.org/) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ([Code](https://github.com/btcpayserver/btcpayserver))

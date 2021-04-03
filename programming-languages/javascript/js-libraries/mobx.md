@@ -3,6 +3,7 @@
 ## Notes
 
 - [Please give me one good reason why you prefer MobX? I've been using it for my last project and I hate it - too much magic behind the scenes; numerous edge cases where it is not clear how it would work; really invites developers to write spaghetti code; transforms react components into these observers that no longer work as standard components so observables should mostly be used instead of local state, components are rerendered only if an observable used in the render method is changed, some lifecycle hooks are messed up](https://www.reddit.com/r/javascript/comments/gt0bue/askjs_what_are_your_must_have_react_tools_in_2020/)
+- [Joy of coding in a well done Mobx app is great and the boilerplate is minimal](https://twitter.com/BibeauGuillaume/status/1378326748396449793)
 
 ## Links
 
