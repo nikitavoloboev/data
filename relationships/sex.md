@@ -33,3 +33,4 @@
 - [Best lube for sensitive genitals (2021)](https://www.reddit.com/r/sex/comments/mghvro/what_is_the_best_lube_for_sensitive_genitals/)
 - [Healthy amount of sex per week in a relationship](https://www.reddit.com/r/sex/comments/mgfndk/what_would_you_say_is_a_healthy_amount_of_sex_per/)
 - [Sex Positions List](https://sexpositions.club/)
+- [Sexual compatibility, what is it?](https://twitter.com/QiaochuYuan/status/1378399565393502208)

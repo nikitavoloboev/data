@@ -372,6 +372,7 @@
 - [talon](https://github.com/mailgun/talon) - Mailgun library to extract message quotations and signatures.
 - [MatchPy](https://github.com/HPAC/matchpy) - Library for pattern matching on symbolic expressions in Python.
 - [DPPy](https://github.com/guilgautier/DPPy) - Sampling Determinantal Point Processes with Python.
+- [python devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python.
 
 ## Links
 
