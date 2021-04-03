@@ -102,3 +102,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Россия в судах. Дело Чернышевского (2021)](https://www.youtube.com/watch?v=k4lyCSodqBY)
 - [ФЕЙГИН LIVE - YouTube](https://www.youtube.com/c/FeyginLive/videos)
 - [Циан](https://www.cian.ru/) - Онлайн-недвижимости России.
+- [Things not to do in Russia (2021)](https://www.reddit.com/r/AskARussian/comments/mj8kaw/if_i_ever_visit_russia_what_are_some_things_i/)

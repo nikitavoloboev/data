@@ -12,3 +12,4 @@
 - [QuantumScape](https://www.quantumscape.com/) - Produces solid state lithium-ion batteries that are used in electric cars.
 - [Form Energy](https://formenergy.com/) - Developing long duration energy storage systems to enable a fully renewable, affordable and reliable electric system.
 - [How To Make an Aluminum Air Battery (2021)](https://www.youtube.com/watch?v=DdFqTQKjICI)
+- [HN: Lithium battery costs have fallen by 98% in three decades (2021)](https://news.ycombinator.com/item?id=26682097)

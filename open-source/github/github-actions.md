@@ -104,6 +104,7 @@
 - [action-update-go](https://github.com/thepwagner/action-update-go) - GitHub Action to open PRs proposing dependency updates.
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go.
 - [Go Release GitHub Action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
+- [GoReleaser Action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser.
 
 ## Rust
 

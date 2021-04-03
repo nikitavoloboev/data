@@ -242,3 +242,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git scraping: tracking changes to a scraped data source using GitHub Actions (2021)](https://www.youtube.com/watch?v=2CjA-03yK8I) ([Tweet](https://twitter.com/simonw/status/1367632117127995393))
 - [Git Plan](https://github.com/synek/git-plan) - Better workflow for git.
 - [Those pesky pull request reviews (2021)](https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/) ([Tweet](https://twitter.com/jessitron/status/1376553051398488064))
+- [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages)
