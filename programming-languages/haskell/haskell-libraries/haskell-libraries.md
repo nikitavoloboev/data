@@ -34,6 +34,10 @@
 
 - [Haskeline](https://github.com/judah/haskeline) - Haskell library for line input in command-line programs.
 
+## Error
+
+- [eio](https://github.com/kowainik/eio) - IO with Exceptions tracked on the type-level.
+
 ## Other
 
 - [generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.

@@ -405,7 +405,7 @@ Go promotes composition over inheritance.
 - [Unsafe string interning in Go (2020)](https://mdlayher.com/blog/unsafe-string-interning-in-go/)
 - [go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write Go using clean architecture.
 - [Learn Go in 5 mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510) ([Lobsters](https://lobste.rs/s/loxv7y/learn_go_5mins)) ([HN](https://news.ycombinator.com/item?id=25646909))
-- [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool.
+- [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool.goenv - Go Version Management.
 - [Go as a dynamic plugin language for Go](https://skuz.xyz/go-in-go.html) ([Lobsters](https://lobste.rs/s/lqr8yr/go_as_dynamic_plugin_language_for_go))
 - [GolangWeekly Searcher](http://golangweeklysearch.com/)
 - [Go Cheat Sheet](https://devhints.io/go)
@@ -451,3 +451,5 @@ Go promotes composition over inheritance.
 - [How does Go know time.Now? (2021)](https://tpaschalis.github.io/golang-time-now/)
 - [Spaghetti](https://github.com/adonovan/spaghetti) - Dependency analysis tool for Go packages.
 - [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)
+- [goenv](https://github.com/syndbg/goenv) - Go Version Management.
+- [Good books for advanced go topics and how things are working under the hood (2021)](https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/)
