@@ -77,3 +77,4 @@
 - [SVG Generators (2021)](https://www.smashingmagazine.com/2021/03/svg-generators/)
 - [Make Awesome SVG Animations with CSS (2021)](https://www.youtube.com/watch?v=UTHgr6NLeEw) ([Code](https://github.com/fireship-io/animated-svg-demo))
 - [SVG Color Matrix Mixer](https://www.fecolormatrix.com/)
+- [DOM to SVG](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".

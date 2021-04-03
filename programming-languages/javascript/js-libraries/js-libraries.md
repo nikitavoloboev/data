@@ -491,6 +491,7 @@
 - [linked-list](https://github.com/wooorm/linked-list) - Minimalistic linked lists.
 - [msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - JavaScript implementation of MessagePack, an efficient binary serilization format.
 - [Tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component.
+- [betterator](https://github.com/TomerAberbach/betterator) - Better sync and async iterator API.
 
 ## Links
 

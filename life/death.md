@@ -27,3 +27,4 @@ One advantage that this view of the world brings. The view that everything that 
 - [How do you prepare the experience of dying? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/ie23u1/how_do_you_prepare_the_experience_of_dying/)
 - [Farewill](https://farewill.com/) - Wills And Probate Experts. Simpler Cremation Service.
 - [How to Live with Dying (2020)](https://theamericanscholar.org/how-to-live-with-dying/) ([HN](https://news.ycombinator.com/item?id=24880514))
+- [Near Death Experience Research Foundation](https://www.nderf.org/)

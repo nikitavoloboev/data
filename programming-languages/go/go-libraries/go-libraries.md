@@ -761,6 +761,7 @@
 - [Gochan](https://github.com/zxjcarrot/gochan) - Turns io.ReadWriter interface into channels.
 - [mathfmt](https://github.com/mmcloughlin/mathfmt) - Document mathematical Go code beautifully.
 - [generics](https://github.com/adonovan/generics) - Quick experiments with Go generics.
+- [slicegraph](https://github.com/jbszczepaniak/slicegraph) - Uses graphviz in order to pretty print slices for you.
 
 ## Links
 
