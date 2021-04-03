@@ -65,3 +65,4 @@
 - [Ray Tracing in pure CMake (2020)](https://64.github.io/cmake-raytracer/) ([Code](https://github.com/64/cmake-raytracer))
 - [Simple ray tracer written in Rust from scratch](https://github.com/dranikpg/simple-rays) ([HN](https://news.ycombinator.com/item?id=26143837))
 - [Awesome Ray Tracing](https://github.com/dannyfritz/awesome-ray-tracing)
+- [raytracing-go](https://github.com/y-taka-23/raytracing-go) - Go implementation of the book Ray Tracing in One Weekend.

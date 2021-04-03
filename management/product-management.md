@@ -54,3 +54,4 @@
 - [Product Lessons](https://www.productlessons.xyz/) - Actionable lessons to accelerate your career.
 - [1-Pager Product requirements document](https://docs.google.com/document/d/1541V32QgSwyCFWxtiMIThn-6n-2s7fVWztEWVa970uo/edit#)
 - [What is the best way to write a PRD?](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
+- [Building Products at Airbnb (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-airbnb)
