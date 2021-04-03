@@ -138,3 +138,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Sieve](http://sieve.info/) - Language for filtering e-mail messages.
 - [Leave Me Alone](https://leavemealone.app/) - Easily unsubscribe from unwanted emails.
 - [Revelop](https://revelop.app/) - New standard for email.
+- [Your email validation logic is very, very likely wrong](https://twitter.com/jschauma/status/1378172844169961477)

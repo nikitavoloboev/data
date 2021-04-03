@@ -450,3 +450,4 @@ Go promotes composition over inheritance.
 - [Common anti-patterns in Go (2021)](https://deepsourcehq.hashnode.dev/common-anti-patterns-in-go)
 - [How does Go know time.Now? (2021)](https://tpaschalis.github.io/golang-time-now/)
 - [Spaghetti](https://github.com/adonovan/spaghetti) - Dependency analysis tool for Go packages.
+- [Go HTTPS servers with TLS (2021)](https://eli.thegreenplace.net/2021/go-https-servers-with-tls/)

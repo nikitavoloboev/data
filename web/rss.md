@@ -90,3 +90,4 @@
 - [Nosh](https://nosh.rocks/) - Modern RSS reader. ([Code](https://github.com/mikefrancis/nosh))
 - [Petrolette](http://petrolette.space/) - News reader focused on preventing anyone to know what you are reading.
 - [RSS as a Facebook alternative (2021)](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/) ([HN](https://news.ycombinator.com/item?id=26403669))
+- [How to turn a webpage into an RSS feed using Feed Creator (2021)](https://www.fivefilters.org/2021/how-to-turn-a-webpage-into-an-rss-feed/)
