@@ -165,3 +165,4 @@
 - [Tips for Shipping Data Products Fast (2021)](https://shopify.engineering/shipping-data-products-fast) ([HN](https://news.ycombinator.com/item?id=26341032))
 - [Data Science Topics Notes](https://github.com/khuyentran1401/Data-science)
 - [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources such as SQL databases, or document formats like CSV or Excel. ([Web](https://sq.io/))
+- [Ask HN: What are the best data science bootcamps? (2021)](https://news.ycombinator.com/item?id=26648469)

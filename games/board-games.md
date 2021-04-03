@@ -31,3 +31,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [What board game will never leave your collection and why? (2021)](https://www.reddit.com/r/boardgames/comments/ly15ct/what_game_will_never_leave_your_collection_and_why/)
 - [Board Games Reddit Wiki](https://www.reddit.com/r/boardgames/wiki/index)
 - [Board Gaming in Figma (2021)](https://mastery.games/post/board-gaming-in-figma/)
+- [Roleplayful](https://roleplayful.com/) - Find people to play tabletop roleplaying games with. ([HN](https://news.ycombinator.com/item?id=26647424))

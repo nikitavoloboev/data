@@ -19,3 +19,4 @@
 - [Intercal, YAML, and Other Horrible Programming Languages (2021)](https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/) ([HN](https://news.ycombinator.com/item?id=26271582))
 - [Code is Data is YAML (2021)](https://buttondown.email/hillelwayne/archive/code-is-data-is-yaml/)
 - [BundleWrap](https://github.com/bundlewrap/bundlewrap) - Config management with Python. ([Web](https://bundlewrap.org/))
+- [Don’t use environment variables for configuration (2021)](https://nibblestew.blogspot.com/2021/03/never-use-environment-variables-for.html) ([HN](https://news.ycombinator.com/item?id=26656952))

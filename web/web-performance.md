@@ -126,3 +126,4 @@
 - [Speed Is the Killer Feature (2021)](https://bdickason.com/posts/speed-is-the-killer-feature/) ([HN](https://news.ycombinator.com/item?id=26312516))
 - [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)
 - [Who has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/)
+- [Fixing a slow site iteratively (2021)](https://css-tricks.com/fixing-a-slow-site-iteratively/)
