@@ -110,3 +110,4 @@
 - [Serving a single file over HTTP with Rust and Go (2021)](https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/)
 - [Unix Domain Sockets for Serving HTTP in Production (2021)](https://christine.website/blog/unix-domain-sockets-2021-04-01) ([Lobsters](https://lobste.rs/s/fqqsct/unix_domain_sockets_for_serving_http))
 - [Where is HTTP/3 right now? (2021)](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
+- [darkhttpd](https://unix4lyfe.org/darkhttpd/) - HTTP server in a single .c file. ([HN](https://news.ycombinator.com/item?id=26671851))
