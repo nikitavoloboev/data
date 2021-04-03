@@ -285,3 +285,4 @@
 - [Box86](https://github.com/ptitSeb/box86) - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices.
 - [Exploring Linux File System (2021)](https://muhammadraza.me/2021/Linux-FS/)
 - [What are people's current preferred tools for configuring a Linux server entirely out of a version control repository? (2021)](https://twitter.com/simonw/status/1377331955507765252)
+- [Fed up with the Mac, I spent six months with a Linux laptop (2021)](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html) ([Lobsters](https://lobste.rs/s/pjkafl/fed_up_with_mac_i_spent_six_months_with)) ([HN](https://news.ycombinator.com/item?id=26677035))

@@ -35,3 +35,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Zetamesh](https://github.com/zetamesh/zetamesh) - P2P VPN: Build a security layer-three local area network on the WAN.
 - [Simple and Secure VPN in FreeBSD – Introducing WireGuard (2021)](https://klarasystems.com/articles/simple-and-secure-vpn-in-freebsd/)
 - [TCP/IP Fingerprinting for VPN and Proxy Detection (2021)](https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detection/)
+- [VpnCloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN. ([Web](https://vpncloud.ddswd.de/))
