@@ -405,7 +405,7 @@ Go promotes composition over inheritance.
 - [Unsafe string interning in Go (2020)](https://mdlayher.com/blog/unsafe-string-interning-in-go/)
 - [go-clean-architecture](https://github.com/caohoangnam/go-clean-architecture) - Write Go using clean architecture.
 - [Learn Go in 5 mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510) ([Lobsters](https://lobste.rs/s/loxv7y/learn_go_5mins)) ([HN](https://news.ycombinator.com/item?id=25646909))
-- [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool.goenv - Go Version Management.
+- [gomod](https://github.com/Helcaraxan/gomod) - Go modules analysis tool.
 - [Go as a dynamic plugin language for Go](https://skuz.xyz/go-in-go.html) ([Lobsters](https://lobste.rs/s/lqr8yr/go_as_dynamic_plugin_language_for_go))
 - [GolangWeekly Searcher](http://golangweeklysearch.com/)
 - [Go Cheat Sheet](https://devhints.io/go)
