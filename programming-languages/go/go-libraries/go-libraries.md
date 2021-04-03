@@ -759,6 +759,7 @@
 - [go-selfupdate](https://github.com/sanbornm/go-selfupdate) - Enable your Go applications to self update.
 - [Gochan](https://github.com/zxjcarrot/gochan) - Turns io.ReadWriter interface into channels.
 - [mathfmt](https://github.com/mmcloughlin/mathfmt) - Document mathematical Go code beautifully.
+- [generics](https://github.com/adonovan/generics) - Quick experiments with Go generics.
 
 ## Links
 

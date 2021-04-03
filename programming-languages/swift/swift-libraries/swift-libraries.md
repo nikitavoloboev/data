@@ -186,6 +186,7 @@
 - [LoginServiceKit](https://github.com/Clipy/LoginServiceKit) - Easy manage login items in macOS.
 - [WindowTreatment](https://github.com/ChimeHQ/WindowTreatment) - Tools for happier work with NSWindow.
 - [Programmatic NSWindow Tabbing](https://github.com/DivineDominion/NSWindow-Tabbing)
+- [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) - Swift framework that aims to make Core Audio use less tedious in macOS.
 
 ## Web
 

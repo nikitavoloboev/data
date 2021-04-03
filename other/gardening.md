@@ -9,3 +9,4 @@
 - [WatchFlower](https://github.com/emericg/WatchFlower) - Plant monitoring application that reads and plots data from compatible Bluetooth sensors like Xiaomi "Flower Care" or Parrot "Flower Power". ([Web](https://emeric.io/WatchFlower/))
 - [Three Reasons Fungi Are Not Plants (2021)](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants) ([HN](https://news.ycombinator.com/item?id=25824799))
 - [Mushrooms & Microbiology: Cultivating a high-value sustainable crop](https://experience.kennesaw.edu/mushroomsandmicrobiology)
+- [Greg](https://greg.app/) - Smarter way to care for and discover new plants.

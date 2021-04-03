@@ -9,3 +9,7 @@ I never answered any of these prompts but I hope to try flex my creative writing
 ## Other
 
 - [Simulations created our world to mine entertainment](https://www.reddit.com/r/AWLIAS/comments/72nki3/what_is_our_purpose/dnk4l3a/)
+
+## Links
+
+- [Writing Prompts](https://prompts.ml/) - Never run out of writing ideas again.

@@ -207,3 +207,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [User mode VS Kernel mode (2017)](https://medium.com/@SagiDana/kernel-mode-vs-user-mode-784a5b1f4911)
 - [Domain/OS Design Principles (1989)](http://bitsavers.org/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf)
 - [Build your own: linker in Rust](https://github.com/andrewhalle/byo-linker) ([Reddit](https://www.reddit.com/r/rust/comments/mdtsk5/build_your_own_linker/))
+- [The Distributed Operating System Void with Kubernetes (2021)](https://nivenly.com/lib/2021-04-02-operating-system-interface/) ([Reddit](https://www.reddit.com/r/kubernetes/comments/miw0og/the_distributed_operating_system_void_with/))

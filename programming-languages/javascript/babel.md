@@ -10,3 +10,4 @@
 - [Babel Docs](https://babeljs.io/docs/en/index.html) ([Code](https://github.com/babel/website))
 - [babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - Allows you to build simple compile-time libraries.
 - [Codemods with Babel Plugins (2021)](https://next.egghead.io/learn/javascript/codemods-with-babel-plugins)
+- [babel-plugin-codegen](https://github.com/kentcdodds/babel-plugin-codegen) - Generate code at build-time.

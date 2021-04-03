@@ -38,3 +38,4 @@
 - [AnotherCraft](https://github.com/CZDanol/AnotherCraft) - Minecraft clone. Visualisation of a procedurally generated voxel terrain.
 - [All is Cubes](https://github.com/kpreid/all-is-cubes) - Game engine for worlds made of cubical blocks.
 - [Minecraft, made in 48 hours](https://github.com/jdah/minecraft-weekend) ([Video](https://www.youtube.com/watch?v=4O0_-1NaWnY))
+- [EssentialsX](https://essentialsx.net/) - Essential plugin suite for Minecraft servers. ([Code](https://github.com/EssentialsX/Essentials))

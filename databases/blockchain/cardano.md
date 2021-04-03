@@ -28,3 +28,4 @@
 - [Daedalus](https://daedaluswallet.io/) - Open source wallet for ada, built to grow with the Cardano blockchain.
 - [Yoroi](https://yoroi-wallet.com/#/) - Light Wallet for Cardano.
 - [Cardano PoolTool](https://pooltool.io/) - Comprehensive staking statistics for Cardano on the web.
+- [Is Cardano effectively ETH2.0 but with an earlier release date? (2021)](https://www.reddit.com/r/cardano/comments/mj4p97/is_cardano_effectively_eth20_but_with_an_earlier/)

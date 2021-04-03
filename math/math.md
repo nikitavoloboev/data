@@ -249,3 +249,4 @@
 - [Vladimir Arnold on Teaching Mathematics (1997)](https://www.uni-muenster.de/Physik.TP/~munsteg/arnold.html)
 - [How entropy can be seen as a volume - the geometric interpretation of information theory (2021)](https://ruvi.blog/2021/03/31/entropy-as-a-volume-the-geometric-interpretation/) ([Reddit](https://www.reddit.com/r/math/comments/mh54sr/how_entropy_can_be_seen_as_a_volume_the_geometric/))
 - [How (and why) to raise e to the power of a matrix (2021)](https://www.youtube.com/watch?v=O85OWBJ2ayo)
+- [ELI5 what is chaos theory, and what is it used for? (2021)](https://www.reddit.com/r/explainlikeimfive/comments/mj70p9/eli5_what_is_chaos_theory_and_what_is_it_used_for/)
