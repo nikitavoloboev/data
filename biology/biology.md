@@ -60,3 +60,4 @@
 - [The Database of Useful Biological Numbers](https://bionumbers.hms.harvard.edu/search.aspx) ([HN](https://news.ycombinator.com/item?id=26576173))
 - [Photosynthesis microetched print](https://www.gregadunn.com/product/photosynthesis-microetched-print/)
 - [Scientists create simple synthetic cell (2021)](https://www.nist.gov/news-events/news/2021/03/scientists-create-simple-synthetic-cell-grows-and-divides-normally) ([HN](https://news.ycombinator.com/item?id=26632004))
+- [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)

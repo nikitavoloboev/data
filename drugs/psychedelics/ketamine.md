@@ -7,3 +7,4 @@
 - [What is it like to k hole? (2020)](https://www.reddit.com/r/ketamine/comments/hciwx8/what_is_it_like_to_k_hole/)
 - [Ketamine alternatives (2021)](https://www.reddit.com/r/researchchemicals/comments/lf10rp/ketamine_alternatives/)
 - [Psychonautic value of K-holes (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lv3mr5/why_does_it_seem_like_the_psychonautic_value_of/)
+- [Why do you use dissociatives in a party setting? (2021)](https://www.reddit.com/r/researchchemicals/comments/mj6ti3/why_do_you_use_dissociatives_in_a_party_setting/)
