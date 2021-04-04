@@ -108,3 +108,4 @@ I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) on
 - [Psychedelics do NOT cause serotonin syndrome (2021)](https://www.reddit.com/r/askdrugs/comments/m1gao7/psa_psychedelics_do_not_cause_serotonin_syndrome/)
 - [Does anybody else feel like the shrooms know you ate them? (2021)](https://www.reddit.com/r/Psychedelics/comments/mcyksz/does_anybody_else_feel_like_the_shrooms_know_you/)
 - [Types of hallucinations (2021)](https://www.reddit.com/r/researchchemicals/comments/mh909z/types_of_hallucinations/)
+- [How do Psychedelics work? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/mk36v1/how_do_psychedelics_work_short_paper_i_wrote_that/)

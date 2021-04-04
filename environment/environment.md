@@ -100,3 +100,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [In the Atlantic Ocean, Subtle Shifts Hint at Dramatic Dangers (2021)](https://www.nytimes.com/interactive/2021/03/02/climate/atlantic-ocean-climate-change.html)
 - [Google for Startups Accelerator: Climate Change Accelerators](https://developers.google.com/community/accelerators/climate)
 - [We’re Hurtling Toward Global Suicide (2021)](https://newrepublic.com/article/161575/climate-change-effects-hurtling-toward-global-suicide)
+- [Three Most Important Graphs in Climate Change (2019)](https://globalecoguy.org/the-three-most-important-graphs-in-climate-change-e64d3f4ed76)
