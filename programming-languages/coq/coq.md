@@ -59,3 +59,4 @@
 - [jsCoq](https://jscoq.github.io/) - Use Coq in Your Browser. ([Code](https://github.com/jscoq/jscoq))
 - [Translating My Z3 Tutorial to Coq (2021)](https://www.philipzucker.com/translating-z3-to-coq/)
 - [CoqPL: Verifying a compiler through equational means (2021)](https://www.youtube.com/watch?v=Qj8dGo010zI)
+- [Formalization of the Calculus of Constructions in Coq](https://github.com/coq-contribs/coq-in-coq)

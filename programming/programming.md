@@ -368,3 +368,4 @@
 - [What problems do people solve with strace? (2021)](https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/) ([Lobsters](https://lobste.rs/s/d9ucpe/what_problems_do_people_solve_with_strace))
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
 - [My programming setup (2021)](https://lemire.me/blog/2021/04/04/my-programming-setup/)
+- [Recommendations for learning fundamentals of programming](https://vladris.com/blog/2020/12/29/recommendations.html)
