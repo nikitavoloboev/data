@@ -88,3 +88,4 @@
 - [Exploring Tweets with SQLite and WASM](https://divu.in/experiments/wasm/twitter-sqlite) ([HN](https://news.ycombinator.com/item?id=26675984))
 - [Growth Tweets](https://www.growthtweets.link/) - Weekly-updated repository of tweets that matter.
 - [Best of Twitter - Alexey Guzey](https://guzey.com/best-of-twitter/) - Send 10-20 of the most interesting tweets I see every week.
+- [The power of Twitter (2021)](https://twitter.com/gregisenberg/status/1378395998859493378)

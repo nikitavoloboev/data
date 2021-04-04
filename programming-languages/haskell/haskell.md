@@ -274,3 +274,4 @@
 - [Combining folds using semigroups (2021)](https://luctielen.com/posts/combining_folds_using_semigroups/)
 - [Easy Haskell Language Server Nix](https://github.com/jkachmar/easy-hls-nix)
 - [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to forbid them.
+- [Haskell Tool Stack](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new.

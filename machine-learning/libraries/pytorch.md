@@ -237,3 +237,4 @@
 - [FastMoE](https://fastmoe.ai/) - Fast MoE implementation for PyTorch. ([Code](https://github.com/laekov/fastmoe))
 - [NN Template](https://github.com/lucmos/nn-template) - Generic template to bootstrap your PyTorch project with PyTorch Lightning, Hydra, W&B, DVC, and Streamlit.
 - [Lightning Hydra Template](https://github.com/ashlevski/lightning-hydra-template) - PyTorch Lightning + Hydra. A very general, feature-rich template for rapid, scalable ML experimentation process and best practices.
+- [Memformer - PyTorch](https://github.com/lucidrains/memformer) - Implementation of Memformer, a Memory-augmented Transformer, in PyTorch.

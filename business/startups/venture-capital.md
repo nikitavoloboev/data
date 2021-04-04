@@ -105,3 +105,4 @@
 - [Andreessen Horowitz](https://a16z.com/) - Venture capital firm in Silicon Valley, California.
 - [Abundant Capital (2021)](https://blog.aaronkharris.com/abundant-capital) ([HN](https://news.ycombinator.com/item?id=26226723))
 - [Distributed Capital (2021)](https://blog.aaronkharris.com/distributed-capital)
+- [If you could be an LP in any fund, what would it be? (2021)](https://twitter.com/austin_rief/status/1378378432384528385)

@@ -133,3 +133,4 @@
 - [Mastering SwiftUI previews (2021)](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/)
 - [SwiftUI Animations Library](https://github.com/amosgyamfi/swiftui-animation-library) - Useful SwiftUI animations for your next project.
 - [DetailsPro](https://detailspro.app/) - Design user interfaces with SwiftUI.
+- [Core Data and SwiftUI (2021)](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)

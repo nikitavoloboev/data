@@ -21,6 +21,7 @@ Success comes from not giving up and doing what you love.
 - [Talk to your customers and keep building stuff! The simplest way to figure out what to build is just to ask people what would help them.](https://twitter.com/stephzhan/status/1372251683879751683)
 - [Convinced 95% of being successful is just finding people you vibe with.](https://twitter.com/lisawehden/status/1372037806734807040)
 - [My job is to remove myself from the critical path.](https://twitter.com/rakyll/status/1374082005453840386)
+- [Since location and network have become mostly unbundled (in some circles), where you live is not as big of a (professional) decision as who are the 10-20 people you chat with most in digital space.](https://twitter.com/eriktorenberg/status/1378420045349486592)
 
 ## Links
 
