@@ -213,6 +213,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com) play live, do
 - [Alicia Keys: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=uwUt1fVLb3E)
 - [Dave Matthews: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=ieoiAeL-uow)
 - [Glass Animals - Heat Waves (Stripped back)](https://www.youtube.com/watch?v=EFVNzgKRHak)
+- [Moderat Live @ Sonar Festival 2017 (Full Set)](https://www.youtube.com/watch?v=FYHcCjzNN0I)
 
 ## Mixes
 
