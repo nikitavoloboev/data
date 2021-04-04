@@ -48,3 +48,4 @@
 - [The Design of Forms in Government departments](https://design-of-forms.online/)
 - [CitizenLab](https://github.com/CitizenLabDotCo/citizenlab) - Digital democracy platform that facilitates community participation and co-creation. ([Web](https://www.citizenlab.co/))
 - [Industries are held back the most by the government (2021)](https://twitter.com/orthonormalist/status/1378689088174256128)
+- [Against Hickelism (2021)](https://noahpinion.substack.com/p/against-hickelism) - Poverty is falling, and it isn't because of free-market capitalism. ([HN](https://news.ycombinator.com/item?id=26693052))

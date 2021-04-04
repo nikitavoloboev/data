@@ -46,7 +46,7 @@
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 - [Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift.
 - [How do closures and callbacks work? It's turtles all the way down (2018)](https://desiatov.com/closures/)
-- [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly. ([Docs](https://book.swiftwasm.org/)) ([Docs code](https://github.com/swiftwasm/swiftwasm-book))
+- [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly. ([Docs](https://book.swiftwasm.org/)) ([Docs code](https://github.com/swiftwasm/swiftwasm-book)) ([Code](https://github.com/swiftwasm/swift))
 - [NSScreencast](https://nsscreencast.com/episodes) - Video Training for iOS Developers.
 - [Swift for TensorFlow Newsletter](https://www.s4tfnews.com/issues)
 - [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages.

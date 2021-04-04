@@ -95,6 +95,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [re3](https://github.com/GTAmodding/re3) - GTA III and Vice City fully reverse engineered. ([HN](https://news.ycombinator.com/item?id=26130320))
 - [Valheim](https://www.valheimgame.com/) - Survival and sandbox video game. ([Valheim Server](https://github.com/mbround18/valheim-docker))
 - [Mindustry](https://mindustrygame.github.io/) - Sandbox tower-defense game. ([Code](https://github.com/Anuken/Mindustry))
+- [OpenTTD](https://www.openttd.org/) - Open source simulation game based upon Transport Tycoon Deluxe. ([Code](https://github.com/OpenTTD/OpenTTD))
 
 ## Awesome games (other)
 

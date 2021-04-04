@@ -89,3 +89,4 @@
 - [SvelteKit, TypeScript and TailwindCSS Template](https://github.com/Dan1ve/Sveltekit-Typescript-TailwindCSS-Jit)
 - [Svelte + TS + Vite Template](https://github.com/PuruVJ/macos-web-svelte-dock)
 - [Felte](https://github.com/pablo-abc/felte) - Form library for Svelte. ([Web](https://felte.dev/))
+- [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
