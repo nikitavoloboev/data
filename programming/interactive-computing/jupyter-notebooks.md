@@ -108,7 +108,7 @@
 - [Falsifiable](https://falsifiable.com/) - One-command publishing for Jupyter notebooks.
 - [An SQL Solution for Jupyter (2021)](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925) ([HN](https://news.ycombinator.com/item?id=26083353))
 - [testbook](https://github.com/nteract/testbook) - Unit testing framework extension for testing code in Jupyter Notebooks.
-- [curvenote](https://curvenote.com/) - Share your work and collaborate in Jupyter. ([Code](https://github.com/curvenote/editor))
+- [curvenote](https://curvenote.com/) - Share your work and collaborate in Jupyter. ([Code](https://github.com/curvenote/editor)) ([GitHub](https://github.com/curvenote))
 - [nbsphinx](https://github.com/spatialaudio/nbsphinx) - Jupyter Notebook Tools for Sphinx.
 - [Datalore](https://datalore.jetbrains.com/) - Powerful online environment for Jupyter notebooks.
 - [Galata](https://github.com/jupyterlab/galata) - JupyterLab UI Testing Framework.
