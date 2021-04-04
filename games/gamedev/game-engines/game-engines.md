@@ -92,3 +92,4 @@
 - [Porting a c++ game engine to the web with emscripten (2020)](https://www.polymonster.co.uk/blog/porting-to-wasm-with-emscripten)
 - [The CRYENGINE Rendering Pipeline (2021)](https://www.youtube.com/watch?v=34S3onEr3r8)
 - [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) ([Code](https://github.com/boksajak/brdf))
+- [Game Engine: How I Implemented Skeletal Animation (2021)](https://vladh.net/articles/game-engine-skeletal-animation.html) ([HN](https://news.ycombinator.com/item?id=26659295))

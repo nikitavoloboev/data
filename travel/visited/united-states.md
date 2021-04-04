@@ -44,3 +44,4 @@
 - [What benefit does the USA get from its nearly globe spanning hegemony? (2021)](https://www.reddit.com/r/geopolitics/comments/m4ceyu/question_what_benefit_does_the_usa_get_from_its/)
 - [The End of Silicon Valley as We Know It? (2021)](https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/)
 - [Why I hate solo traveling in America (2021)](https://www.reddit.com/r/solotravel/comments/me6ph2/why_i_hate_solo_travelling_in_america/)
+- [Tax Reddit](https://www.reddit.com/r/tax/) - News, discussion, policy, and law relating to any tax in US.
