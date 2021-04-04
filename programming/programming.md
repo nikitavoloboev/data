@@ -367,3 +367,4 @@
 - [Keep It Local (2021)](https://v5.chriskrycho.com/elsewhere/keep-it-local/) ([Talk](https://www.youtube.com/watch?v=Mt7v-VbFjxk))
 - [What problems do people solve with strace? (2021)](https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/) ([Lobsters](https://lobste.rs/s/d9ucpe/what_problems_do_people_solve_with_strace))
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
+- [My programming setup (2021)](https://lemire.me/blog/2021/04/04/my-programming-setup/)

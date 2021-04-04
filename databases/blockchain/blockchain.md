@@ -123,3 +123,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Solana](https://solana.com/) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. ([Code](https://github.com/solana-labs/solana)) ([Reddit](https://www.reddit.com/r/solana/)) ([Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0))
 - [Storage Chains Compared](https://skynetwiki.tech/storage-chains-compared/)
 - [Storj vs Filecoin (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mgxskc/storj_vs_filecoin/)
+- [Kulupu](https://kulupu.network/) - Proof of work blockchain with on-chain governance and online upgrade. ([Code](https://github.com/kulupu/kulupu))

@@ -189,3 +189,4 @@
 - [Software Consulting: What This Really Means and How to Start (2020)](https://daedtech.com/software-consulting/)
 - [Becoming A Consultant In 2020: A How-To Guide (2020)](https://ericvanular.com/becoming-a-consultant-in-2020/)
 - [Ask HN: How do custom software dev firms make money? (2020)](https://news.ycombinator.com/item?id=24959238)
+- [The Consultant Out of Time (2021)](https://tomcritchlow.com/2021/01/26/kairos/)
