@@ -309,6 +309,7 @@
 - [PostgresKit](https://github.com/vapor/postgres-kit) - Non-blocking, event-driven Swift client for PostgreSQL.
 - [SqlKit](https://github.com/vapor/sql-kit) - Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 - [SwiftDB](https://github.com/vmanot/SwiftDB) - Type-safe, SwiftUI-inspired wrapper around CoreData.
+- [Dflat](https://github.com/liuliu/dflat) - Structured Data Store for Mobile. SQLite ❤️ FlatBuffers.
 
 ## Graphics
 

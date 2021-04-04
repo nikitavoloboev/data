@@ -251,3 +251,4 @@
 - [Awesome Causality in Computer Vision](https://github.com/Wangt-CN/Awesome-Causality-in-CV)
 - [Vision Transformers for Dense Prediction (2021)](https://arxiv.org/abs/2103.13413) ([Code](https://github.com/intel-isl/DPT))
 - [LoFTR: Detector-Free Local Feature Matching with Transformers (2021)](https://arxiv.org/abs/2104.00680) ([Code](https://github.com/zju3dv/LoFTR))
+- [ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
