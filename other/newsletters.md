@@ -10,6 +10,7 @@
 ## Notes
 
 - [Treat your email list like your friends and community members.](https://twitter.com/jhooks/status/1310418061451603968)
+- [Can run an entire newsletter with Markdown, GitHub Actions, and your preferred mail API](https://twitter.com/bitandbang/status/1378788692114993156)
 
 ## Links
 

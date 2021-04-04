@@ -355,3 +355,4 @@
 - [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies) ([Article](https://blog.container-solutions.com/kubernetes-deployment-strategies))
 - [kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads.
 - [Capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy.
+- [Wrangler](https://github.com/rancher/wrangler) - Framework for wrapping clients, informers, listers into a simple usable controller pattern that promotes some good practices.
