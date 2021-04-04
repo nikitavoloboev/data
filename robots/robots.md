@@ -74,3 +74,4 @@
 - [towr](https://github.com/ethz-adrl/towr) - Light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
 - [Smart Robotics Lab at Imperial College](http://wp.doc.ic.ac.uk/sleutene/)
 - [Christoper Choi's Research](http://chutsu.github.io/)
+- [How To Become a Robotics Software Engineer (2021)](https://monolop.com/2021/04/02/robotics-software-engineer/)
