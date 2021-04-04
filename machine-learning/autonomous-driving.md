@@ -33,3 +33,4 @@
 - [Social Driving](https://github.com/fidler-lab/social-driving) - Design multi-agent environments and simple reward functions such that social driving behavior emerges.
 - [FAST-LIO](https://github.com/hku-mars/FAST_LIO) - Computationally efficient and robust LiDAR-inertial odometry (LIO) package.
 - [Awesome Lane Detection](https://github.com/amusi/awesome-lane-detection)
+- [SMARTS](https://github.com/huawei-noah/SMARTS) - Scalable Multi-Agent RL Training School for Autonomous Driving.

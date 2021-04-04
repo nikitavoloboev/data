@@ -37,3 +37,4 @@
 - [Tasting Coffee](https://tasting.coffee/) - Explore and taste a coffee roaster.
 - [Other foods/sweets can change the taste of coffee](https://www.reddit.com/r/Coffee/comments/lxlk5g/today_i_realized_how_much_other_foodssweets_can/)
 - [Never had coffee, recommendations? (2021)](https://www.reddit.com/r/Coffee/comments/mevhix/never_had_coffee_recommendations/)
+- [Best coffee alternatives](https://twitter.com/benjitaylor/status/1378757809592930304)

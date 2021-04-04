@@ -40,3 +40,4 @@
 - [Lyra: A New Very Low-Bitrate Codec for Speech Compression (2021)](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
 - [Parrot.PY](https://github.com/chaosparrot/parrot.py) - Computer interaction using audio and speech recognition.
 - [SpeechBrain Toolkit](https://github.com/speechbrain/speechbrain) - PyTorch-based Speech Toolkit. ([Web](https://speechbrain.github.io/))
+- [Vosk API](https://github.com/alphacep/vosk-api) - Offline open source speech recognition toolkit.
