@@ -63,3 +63,4 @@ Learning to build [startups](startups/startups.md).
 - [Lessons from Shopify CEO Tobi Lütke: what he learned from scaling Shopify through the pandemic (2021)](https://calacanis.com/2021/03/18/lessons-from-shopify-ceo-tobi-lutke-what-he-learned-from-scaling-shopify-through-the-pandemic-this-week-in-startups-blog/)
 - [Blook](https://www.blook.io/) - Register Your Company In The U.S globally.
 - [How much it costs to incorporate (2021)](https://twitter.com/JoshWComeau/status/1377336821961654279)
+- [What is the highest margin business you've ever seen? (2021)](https://twitter.com/businessbarista/status/1378827193422393355)

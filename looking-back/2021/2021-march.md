@@ -17,3 +17,5 @@ This month has been quite funny too especially with the [boat getting stuck](htt
 Oh and [Fuck This Pandemic](https://eng.rekki.com/fuck-this-pandemic/pandemic.txt).
 
 [This](https://open.spotify.com/track/2lF5acSU8Vu9292cthQmc5?si=DhLiuvcBQ_-blgLtlrnf0Q) is my new goto focus song. 🌸
+
+And tripping [listening to Hania Rani](https://www.youtube.com/watch?v=kFRdoYfZYUY) is bliss. 17:00 onwards is ♥️
