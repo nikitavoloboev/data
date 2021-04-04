@@ -130,6 +130,7 @@
 - [GoRequest](https://github.com/parnurzeal/gorequest) - Simplified HTTP client.
 - [Go CORS handler](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests.
 - [gqlgenc](https://github.com/Yamashou/gqlgenc) - Go library for building GraphQL client with gqlgen.
+- [canvas](https://github.com/fzipp/canvas) - Draw on an HTML 2D canvas in a web browser from a server program using WebSockets.
 
 ## GraphQL
 

@@ -354,3 +354,4 @@
 - [Learnk8s](https://learnk8s.io/) - Kubernetes training company.
 - [Kubernetes deployment strategies explained](https://github.com/ContainerSolutions/k8s-deployment-strategies) ([Article](https://blog.container-solutions.com/kubernetes-deployment-strategies))
 - [kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads.
+- [Capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy.

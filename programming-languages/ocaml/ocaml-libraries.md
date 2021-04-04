@@ -7,6 +7,7 @@
 - [http/af](https://github.com/inhabitedtype/httpaf) - High performance, memory efficient, and scalable web server written in OCaml.
 - [Eliom](https://github.com/ocsigen/eliom) - Framework for building client/server Web and mobile applications in OCaml.
 - [ocaml-wasmtime](https://github.com/LaurentMazare/ocaml-wasmtime) - OCaml WebAssembly runtime powered by wasmtime.
+- [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework.
 
 ## Test
 
@@ -85,6 +86,7 @@
 - [awa-ssh](https://github.com/mirage/awa-ssh) - Purely functional SSH library in OCaml.
 - [Fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml.
 - [eioio](https://github.com/ocaml-multicore/eioio) - Effects-based direct-style IO for multicore OCaml.
+- [RES](https://github.com/mmottl/res) - OCaml library for resizable arrays and strings.
 
 ## Links
 

@@ -157,3 +157,4 @@
 - [Game Pillars and Values (2021)](https://www.charliecleveland.com/game-pillars/)
 - [Demoscene: The Strangest (and Coolest) Computer Subculture](https://www.youtube.com/watch?v=VENFVhQqGls)
 - [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
+- [Sims 2 Dev Thread](https://twitter.com/JustJakeSimpson/status/1375520115920236544)
