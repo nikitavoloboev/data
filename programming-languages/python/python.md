@@ -269,3 +269,4 @@
 - [VSCode's Python Interactive mode is amazing! (2020)](https://www.youtube.com/watch?v=lwN4-W1WR84)
 - [How I Beat the Berlin Rental Market With a Python Script (2021)](https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/)
 - [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
+- [Hypermodern Python Cookiecutter Template](https://github.com/cjolowicz/cookiecutter-hypermodern-python)

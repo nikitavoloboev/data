@@ -72,3 +72,5 @@
 - [PyRobot](https://github.com/facebookresearch/pyrobot) - Open Source Robotics Research Platform. ([Web](https://pyrobot.org/))
 - [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics. ([Code](https://github.com/foxglove/studio))
 - [towr](https://github.com/ethz-adrl/towr) - Light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
+- [Smart Robotics Lab at Imperial College](http://wp.doc.ic.ac.uk/sleutene/)
+- [Christoper Choi's Research](http://chutsu.github.io/)
