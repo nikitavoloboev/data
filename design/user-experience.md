@@ -74,3 +74,4 @@
 - [Fuckin' user interface design, I swear (2021)](https://blog.plover.com/tech/ui.html) ([HN](https://news.ycombinator.com/item?id=26381768))
 - [Guide to UX Research Methods](https://www.toptal.com/designers/user-research/guide-to-ux-research-methods)
 - [SleekUI](https://sleekui.com/) - UI Design Software Comparison. ([HN](https://news.ycombinator.com/item?id=26688148))
+- [What publicly traded companies focus on great user experience and design? (2021)](https://twitter.com/Shpigford/status/1378520719005515777)

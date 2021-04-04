@@ -86,3 +86,4 @@
 - [Synthetic Data: Even Better than the Real Thing? (2021)](https://cacm.acm.org/news/251046-synthetic-data-even-better-than-the-real-thing/fulltext)
 - [Google C4 dataset](https://github.com/allenai/allennlp/discussions/5056) - Colossal, cleaned version of Common Crawl's web crawl corpus.
 - [Finding a standard dataset format for machine learning (2020)](https://openml.github.io/blog/openml/data/2020/03/23/Finding-a-standard-dataset-format-for-machine-learning.html) ([HN](https://news.ycombinator.com/item?id=26462685))
+- [Hashing techniques to compare large datasets? (2021)](https://www.reddit.com/r/MachineLearning/comments/mjqc2v/d_hashing_techniques_to_compare_large_datasets/)
