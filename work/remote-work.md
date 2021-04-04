@@ -97,3 +97,4 @@
 - [Ask HN: How to stay focused and motivated working from home? (2021)](https://news.ycombinator.com/item?id=26343950)
 - [Working from Home at Monzo - One Year Later (2021)](https://www.youtube.com/watch?v=nDZTAzr-aCI)
 - [A look into the work from home experience (2021)](https://miro.com/blog/remote-work-survey/)
+- [The Future of Remote Work is the Opposite of Lonely (2021)](https://annehelen.substack.com/p/the-future-of-remote-work-is-the)

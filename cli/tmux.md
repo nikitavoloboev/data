@@ -21,3 +21,4 @@
 - [tmux-jump](https://github.com/schasse/tmux-jump) - Vimium/Easymotion like navigation for tmux.
 - [Zellij](https://github.com/zellij-org/zellij) - Workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer (similar to tmux and screen), but this is merely its infrastructure layer.
 - [extrakto](https://github.com/laktak/extrakto) - Quickly select, copy/insert/complete text without a mouse.
+- [tmux lets you select and copy text with your keyboard (2021)](https://ianthehenry.com/posts/tmux-psa/)

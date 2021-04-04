@@ -17,3 +17,4 @@
 - [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - ESLint plugin to disable all mutation in JavaScript.
 - [Code Quality Tools](https://github.com/strvcom/code-quality-tools) - Monorepo with some frequently-used configurations we use on projects.
+- [eslint-plugin-clean-regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex) - ESLint plugin for writing better regular expressions.

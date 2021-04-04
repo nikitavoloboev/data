@@ -15,3 +15,4 @@
 - [Letting Go of Nostalgia Urbanism](https://www.granolashotgun.com/granolashotguncom/2mvygaw3y67fx5bqrvno2lp452zifc) ([HN](https://news.ycombinator.com/item?id=25626389))
 - [Unfinished Metropolis: once and future Berlin (2020)](https://www.degradedorbit.com/articles/unfinished-metropolis-once-and-future-berlin)
 - [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises) ([HN](https://news.ycombinator.com/item?id=26212975))
+- [Clues for software design in how we sketch maps of cities (2021)](https://interconnected.org/home/2021/03/31/maps)

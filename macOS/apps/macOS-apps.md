@@ -59,6 +59,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS.
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings. ([HN](https://news.ycombinator.com/item?id=23991111))
 - [Boop](https://boop.okat.best/) - Scriptable scratchpad for developers. In slow yet steady progress. ([Code](https://github.com/IvanMathy/Boop))
+- [Boom3D](https://www.globaldelight.com/boom/) - Volume Booster & Equalizer for Mac and Windows.
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center.
 - [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 - [eqMac](https://github.com/bitgapp/eqMac) - macOS System-wide Audio Equalizer.

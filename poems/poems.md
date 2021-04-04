@@ -12,3 +12,4 @@
 - [Poetry Unbound](https://onbeing.org/series/poetry-unbound/)
 - [Experience Poetry](https://onbeing.org/poetry-home/)
 - [Good places to start learning poetry in English (2021)](https://twitter.com/dan_abramov/status/1378049147811606541)
+- [On “getting” poetry by Adam Kirsch (2021)](https://newcriterion.com/issues/2021/4/on-getting-poetry)
