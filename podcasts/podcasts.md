@@ -109,6 +109,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcasts similar to Radiolab? (Informative, wide variety of topics, etc.)](https://www.reddit.com/r/podcasts/comments/meftlz/podcasts_similar_to_radiolab_informative_wide/)
 - [Light-hearted and funny podcasts?](https://www.reddit.com/r/podcasts/comments/mh5qqt/lighthearted_and_funny_podcasts/)
 - [What's a podcast you used to listen to all the time, but never do anymore?](https://www.reddit.com/r/podcasts/comments/mhxwy6/whats_a_podcast_you_used_to_listen_to_all_the/)
+- [What are your favorite obscure podcasts? (2021)](https://www.reddit.com/r/podcasts/comments/mk4t7o/what_are_your_favourite_obscure_podcasts/)
 
 ## Notes
 
