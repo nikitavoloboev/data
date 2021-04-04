@@ -155,3 +155,5 @@
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/) ([Tweet](https://twitter.com/ZPostFacto/status/1370032915329949707))
 - [Learning Machine Learning for Game Development (2021)](https://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html) ([HN](https://news.ycombinator.com/item?id=26523223))
 - [Game Pillars and Values (2021)](https://www.charliecleveland.com/game-pillars/)
+- [Demoscene: The Strangest (and Coolest) Computer Subculture](https://www.youtube.com/watch?v=VENFVhQqGls)
+- [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)

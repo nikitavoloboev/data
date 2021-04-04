@@ -70,3 +70,5 @@
 - [Rescript Editor Support](https://github.com/rescript-lang/rescript-editor-support) - Command line to support editor integration for Rescript.
 - [Reason on multicore OCaml](https://github.com/ManasJayanth/reason-on-multicore)
 - [I Switched from TypeScript to ReScript (2021)](https://medium.com/att-israel/how-i-switched-from-typescript-to-rescript-637aa5ef8d3) ([HN](https://news.ycombinator.com/item?id=25845147))
+- [Melange](https://github.com/melange-re/melange) - Mixture of tooling combined to produce JS from OCaml / Reason.
+- [Melange Basic Template](https://github.com/melange-re/melange-basic-template)
