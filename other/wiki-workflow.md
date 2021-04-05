@@ -153,6 +153,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))
 - [masayume](https://github.com/masayume/DigitalGarden)
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
+- [Binny's garden](https://notes.binnyva.com/)
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
 - [Param Singh's Notes](https://notes.param.codes/)
