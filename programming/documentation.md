@@ -95,3 +95,4 @@
 - [Dokz](https://github.com/remorses/dokz) - Effortless documentation with Next.js and MDX. ([Web](https://dokz.site/))
 - [Ask HN: How Do You Write Documentation (2021)](https://news.ycombinator.com/item?id=26446692)
 - [Ask HN: How do I improve boring README page? (2021)](https://news.ycombinator.com/item?id=26537805)
+- [Docuowl](https://github.com/docuowl/docuowl) - Generates a static single-page documentation from Markdown files.

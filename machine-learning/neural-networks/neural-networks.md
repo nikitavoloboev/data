@@ -220,3 +220,4 @@
 - [Neural Networks Block Movement Pruning](https://github.com/huggingface/nn_pruning)
 - [Torch-Dreams](https://github.com/Mayukhdeb/torch-dreams) - Making neural networks more interpretable, for research and art.
 - [Are Deep Neural Networks Dramatically Overfitted? (2019)](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html) ([HN](https://news.ycombinator.com/item?id=26695976))
+- [NASLib](https://github.com/automl/NASLib) - Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers.

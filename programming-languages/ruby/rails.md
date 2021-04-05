@@ -66,3 +66,5 @@
 - [Jumpstart Pro](https://jumpstartrails.com/) - Ruby on Rails SaaS Template.
 - [Why Write Rails View Tests (2021)](https://pragmaticpineapple.com/why-write-rails-view-tests/)
 - [How to Build a Web App with and without Rails Libraries (2021)](https://shopify.engineering/building-web-app-ruby-rails)
+- [What is a Rails model? (2021)](https://www.codewithjason.com/what-is-a-rails-model/)
+- [Rails Testing for Beginners](https://www.codewithjason.com/rails-testing-for-beginners/)
