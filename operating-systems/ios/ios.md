@@ -300,3 +300,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Junior to Senior iOS Roadmap (2021)](https://twitter.com/fromjrtosr/status/1371865810545876995)
 - [Grapefruit](https://github.com/ChiChou/grapefruit) - Runtime Application Instruments for iOS.
 - [How to Become an iOS Developer in 2021](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer)
+- [iOS app launch checklist (2021)](https://twitter.com/JPEGuin/status/1379046725780959236)

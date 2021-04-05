@@ -178,3 +178,4 @@
 - [Ask HN: Do you create music? let's hear it (2021)](https://news.ycombinator.com/item?id=26391254)
 - [Writing an Audio Plugin in Rust (2017)](https://www.seventeencups.net/posts/writing-an-audio-plugin-in-rust/)
 - [Piano Practice Software Progress (2021)](https://jacquesmattheij.com/piano-practice-software-progress/) ([HN](https://news.ycombinator.com/item?id=26609482))
+- [Resources & tools to learn music production (2021)](https://twitter.com/carolynz/status/1378838910932037636)
