@@ -271,3 +271,4 @@
 - [Awesome asyncio](https://github.com/timofurrer/awesome-asyncio)
 - [Hypermodern Python Cookiecutter Template](https://github.com/cjolowicz/cookiecutter-hypermodern-python)
 - [Bowler](https://github.com/facebookincubator/Bowler) - Safe code refactoring for modern Python. ([Web](https://pybowler.io/))
+- [Kuroko](https://kuroko-lang.github.io/) - Dynamic, bytecode-compiled programming language and a dialect of Python. ([Code](https://github.com/kuroko-lang/kuroko))

@@ -194,3 +194,4 @@
 - [How does Hawking Radiation work? (2021)](https://www.youtube.com/watch?v=rrUvLlrvgxQ)
 - [The Secret of Synchronization (2021)](https://www.youtube.com/watch?v=t-_VPRCtiUg)
 - [When Feynman Met Dirac](https://www.cantorsparadise.com/when-feynman-met-dirac-fe9cca0006df)
+- [The Koide Formula (2021)](https://johncarlosbaez.wordpress.com/2021/04/04/the-koide-formula/)
