@@ -126,3 +126,4 @@
 - [What part of Hindley-Milner do you not understand?](https://stackoverflow.com/questions/12532552/what-part-of-hindley-milner-do-you-not-understand)
 - [The Hindley-Milner Type System (2021)](https://www.youtube.com/watch?v=OyrByPkiX7s)
 - [Formalization of simple type theory](https://github.com/Chaaaos/formaltt)
+- [Modal Type Theory implementation](https://mtt-lang.github.io/mtt-web/) - Toy functional language based on modal type theory. ([Code](https://github.com/mtt-lang/mtt-lang))

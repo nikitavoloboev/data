@@ -47,3 +47,4 @@ And here are Chrome extensions I use:
 - [boilerplate for chrome extensions written in React and bundled with esbuild](https://github.com/martonlederer/esbuild-react-chrome-extension)
 - [semantic-release-chrome](https://github.com/GabrielDuarteM/semantic-release-chrome) - Set of semantic-release plugins for publishing a Chrome extension release.
 - [cdp](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome DevTools Protocol (CDP), written in Go.
+- [chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension.

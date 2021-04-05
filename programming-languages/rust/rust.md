@@ -436,3 +436,4 @@
 - [Learning Parser Combinators With Rust (2019)](https://bodil.lol/parser-combinators/)
 - [Parser combinators in Rust (2021)](https://doma.dev/blog/parsing-stuff-in-rust/)
 - [Crust of Rust: Atomics and Memory Ordering (2021)](https://www.youtube.com/watch?v=rMGWeSjctlY) ([Reddit](https://www.reddit.com/r/rust/comments/miucih/crust_of_rust_atomics_and_memory_ordering_video/))
+- [Rust generics vs Java generics (2019)](https://fasterthanli.me/articles/rust-vs-java-generics)

@@ -325,5 +325,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Notemarks](https://notemarks.app/) - Git based labeling app to manage notes, documents, and bookmarks. ([Code](https://github.com/notemarks/notemarks))
 - [Method for maximizing the value of networked note-taking systems, using Obsidian (2021)](https://www.quora.com/q/tophersblog/The-connection-between-Zettelkasten-and-systems-theory-is-a-vital-one-to-consider-In-line-with-August-Bradleys-insigh)
 - [Deconstructing digital gardens (2020)](https://vivqu.com/blog/2020/10/18/digital-gardens/)
-- [Serenity Notes](https://www.serenity.re/en/notes) - E2E encrypted notes. ([HN](https://news.ycombinator.com/item?id=26567497))
+- [Serenity Notes](https://www.serenity.re/en/notes) - E2E encrypted notes. ([HN](https://news.ycombinator.com/item?id=26567497)) ([Code](https://github.com/SerenityNotes/serenity-notes-clients))
 - [A Brief History & Ethos of the Digital Garden (2021)](https://maggieappleton.com/garden-history)
