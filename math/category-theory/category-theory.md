@@ -111,6 +111,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Categorical logic from a categorical point of view](https://github.com/mikeshulman/catlog)
 - [Category Theory Illustrated - Orders](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
 - [tikzcd-editor](https://tikzcd.yichuanshen.de/) - Simple visual editor for creating commutative diagrams. ([Code](https://github.com/yishn/tikzcd-editor))
+- [The Categorical Machine: Part 1 (Applied Category Theory) (2020)](https://www.youtube.com/watch?v=hU8lG-R67Qg) - Compare Functional Programming, Lambda Calculus, and Categories (Cats).
 
 ## Images
 

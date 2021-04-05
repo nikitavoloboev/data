@@ -11,3 +11,4 @@
 - [uhtml-ssr](https://github.com/WebReflection/uhtml-ssr) - Uhtml for Service Worker, Web Worker, NodeJS, and other SSR cases.
 - [Stealing web browser history with Service Workers](https://www.cs.uic.edu/~skarami/files/sw21/preprint-sw-ndss21.pdf)
 - [SWDEV](https://github.com/mizchi/swdev) - No bundle frontend by service-worker.
+- [Now THAT’S What I Call Service Worker! (2021)](https://alistapart.com/article/now-thats-what-i-call-service-worker/)
