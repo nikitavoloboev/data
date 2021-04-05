@@ -66,3 +66,4 @@
 - [Microservices on cloud-based Kubernetes](https://github.com/didier-durand/microservices-on-cloud-kubernetes)
 - [Building a microservice with Rust (2021)](https://medium.com/tenable-techblog/building-a-microservice-with-rust-23a4de6e5e14)
 - [The Netflix Cosmos Platform (2021)](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad) - Orchestrated Functions as a Microservice.
+- [Simplifying Microservices Debugging with Thundra Sidekick (2021)](https://blog.thundra.io/simplifying-microservices-debugging-with-thundra-sidekick)

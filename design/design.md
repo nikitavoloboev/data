@@ -165,3 +165,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Interview with Rasmus Andersson](https://staff.design/rasmus-andersson)
 - [xLayers](https://xlayers.dev/#/home) - Generate code from your design. ([Code](https://github.com/xlayers/xlayers))
 - [Bloo Lo-Fi Wireframe Kit](https://bloouikit.com/)
+- [illlustrations](https://illlustrations.co/) - Open source illustrations kit.
