@@ -18,3 +18,4 @@ I run my bookmarklets from KM like so:
 ## Links
 
 - [Powerlet](https://github.com/anthonyec/powerlet) - Chrome Extension to quickly find and run bookmarklets.
+- [Awesome Bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets)

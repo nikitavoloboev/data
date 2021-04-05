@@ -174,3 +174,4 @@
 - [How to fix layout shifts to improve SEO in Next.js apps (2021)](https://blog.logrocket.com/fix-layout-shifts-improve-seo-next-js/)
 - [next-data-hooks](https://github.com/ricokahler/next-data-hooks) - Use getStaticProps and getServerSideProps as react hooks.
 - [Using Docker with Next.js (and Deploying with Google Cloud Run)](https://www.youtube.com/watch?v=Pd2tVxhFnO4)
+- [If you use Next.js, what is your favorite part about it? (2021)](https://twitter.com/heybereket/status/1378889849235775489)
