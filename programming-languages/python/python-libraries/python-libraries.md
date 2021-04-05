@@ -74,6 +74,7 @@
 - [Cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification.
 - [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple.
 - [alive-progress](https://github.com/rsalmei/alive-progress) - New kind of Progress Bar, with real time throughput, eta and cool animations.
+- [python-nubia](https://github.com/facebookincubator/python-nubia) - Lightweight framework for building command-line applications with Python.
 
 ## DB
 
@@ -88,6 +89,7 @@
 - [PyPika](https://github.com/kayak/pypika) - Python API for building SQL queries. Excels at all sorts of SQL queries but is especially useful for data analysis.
 - [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - Easy-to-use asyncio ORM inspired by Django.
 - [Vinum](https://github.com/dmitrykoval/vinum) - SQL query processor for Python, designed for data analysis workflows and in-memory analytics.
+- [aiosqlite](https://github.com/omnilib/aiosqlite) - Friendly, async interface to sqlite databases.
 
 ## GUI
 
@@ -373,6 +375,7 @@
 - [MatchPy](https://github.com/HPAC/matchpy) - Library for pattern matching on symbolic expressions in Python.
 - [DPPy](https://github.com/guilgautier/DPPy) - Sampling Determinantal Point Processes with Python.
 - [python devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python.
+- [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 
 ## Links
 

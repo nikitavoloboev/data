@@ -509,6 +509,7 @@ Here are few more things I liked, design wise.
 - [Charlie Gerard](https://charliegerard.dev/)
 - [Mike Solomon](https://msol.io/)
 - [Adam Ho](https://www.adamho.com/)
+- [John Reese](https://jreese.sh/)
 - [Isaac Freund](http://ifreund.xyz/blog/)
 - [Seena Burns](http://seenaburns.com/) - Love the color scheme & look. Awesome blog.
 - [Alex Kehayias](https://www.alexkehayias.com/)

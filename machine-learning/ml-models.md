@@ -23,3 +23,4 @@
 - [Model Search](https://github.com/google/model_search) - Framework that implements AutoML algorithms for model architecture search at scale.
 - [Embedding stores (2021)](https://nlathia.github.io/2021/03/Embeddings.html)
 - [Running ML models in a game (and in Wasm!) (2020)](https://vleue.com/2020/12/bevmnist/)
+- [Deep learning model compression (2021)](https://rachitsingh.com/deep-learning-model-compression/)
