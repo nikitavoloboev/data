@@ -39,3 +39,4 @@
 - [Monster Mash: New Sketch-Based Modeling and Animation Tool](https://github.com/google/monster-mash)
 - [Animated Engines](http://animatedengines.com/) ([HN](https://news.ycombinator.com/item?id=26368939))
 - [Motion Made Simple](https://motion.dev/)
+- [Clean Slate Demo Scene (2021)](https://www.youtube.com/watch?v=O3T1-nadehU)

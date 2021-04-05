@@ -241,6 +241,7 @@
 
 - [errors](https://github.com/juju/errors) - Provides an easy way to annotate errors without losing the original error context.
 - [panicwrap](https://github.com/mitchellh/panicwrap) - Go library for catching and handling panics in Go applications.
+- [multierr](https://github.com/andreyvit/multierr) - Merges multiple errors into a single error value in idiomatic Go way.
 
 ## Other
 
