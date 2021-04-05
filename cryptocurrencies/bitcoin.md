@@ -134,3 +134,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Casa](https://keys.casa/) - Secure Storage Solutions for Bitcoin.
 - [10x Security Bitcoin Guide](https://btcguide.github.io/) ([Code](https://github.com/btcguide/btcguide.github.io))
 - [BTCPay Server](https://btcpayserver.org/) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ([Code](https://github.com/btcpayserver/btcpayserver))
+- [How 100% trustless Bitcoin lending app can work (2021)](https://twitter.com/muneeb/status/1379076213357039622)
