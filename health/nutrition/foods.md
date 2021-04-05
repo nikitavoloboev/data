@@ -111,3 +111,5 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [My Food Data](https://www.myfooddata.com/) - Provides nutrition data tools and articles to empower you to create a better diet.
 - [What is your go to favorite healthy snack? (2021)](https://www.reddit.com/r/nutrition/comments/lvqlu5/what_is_your_go_to_favorite_healthy_snack/)
 - [Ambrook](https://ambrook.ag/) - Find Farm Funding. ([Working at Ambrook](https://docs.google.com/document/d/e/2PACX-1vR2XCxB8ZlaQZTT2E1Rh2kx6_8LItbj18AS8bR0U7YqddGa4V1rI2S-x20VWC-j_UuzYG2pcxG7hc3_/pub))
+- [List of foods that go together exceptionally well? (2021)](https://www.reddit.com/r/nutrition/comments/mkgpf8/is_there_a_list_of_foods_that_go_together/)
+- [The Flavour Thesaurus Book](https://cloudflare-ipfs.com/ipfs/bafykbzacect4mbppyvi7kfe3fgv6vmceyfs5thurm7o27bcsrooijcq3yqxae?filename=Segnit%2C%20Niki%20-%20The%20flavor%20thesaurus%20_%20a%20compendium%20of%20pairings%2C%20recipes%2C%20and%20ideas%20for%20the%20creative%20cook-Bloomsbury%20%282010%29.pdf)

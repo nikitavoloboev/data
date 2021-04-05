@@ -55,3 +55,4 @@
 - [Quantum Mischief Rewrites the Laws of Cause and Effect (2021)](https://www.quantamagazine.org/quantum-mischief-rewrites-the-laws-of-cause-and-effect-20210311/)
 - [How To Read Feynman Diagrams (2021)](https://www.youtube.com/watch?v=oBNZOOuqO6c)
 - [Quantum nonlocality](https://en.wikipedia.org/wiki/Quantum_nonlocality)
+- [Quantum Hamiltonian Explained](https://twitter.com/HyperboIeva/status/1378729664328437769)

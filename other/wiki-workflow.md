@@ -327,3 +327,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Deconstructing digital gardens (2020)](https://vivqu.com/blog/2020/10/18/digital-gardens/)
 - [Serenity Notes](https://www.serenity.re/en/notes) - E2E encrypted notes. ([HN](https://news.ycombinator.com/item?id=26567497)) ([Code](https://github.com/SerenityNotes/serenity-notes-clients))
 - [A Brief History & Ethos of the Digital Garden (2021)](https://maggieappleton.com/garden-history)
+- [Thread on 2-way links (2021)](https://twitter.com/elzr/status/1378821500246065154)

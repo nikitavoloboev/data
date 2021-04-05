@@ -344,7 +344,7 @@
 - [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimzes GC overhead.
 - [expr](https://github.com/antonmedv/expr) - Evaluate expression in Go.
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages.
-- [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
+- [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Go. ([Web](https://casbin.org/en/))
 - [JobRunner](https://github.com/bamzi/jobrunner) - Framework for performing work asynchronously, outside of the request flow.
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go.
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go.

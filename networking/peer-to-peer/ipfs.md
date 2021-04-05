@@ -54,3 +54,4 @@ I especially like the distinction of distributing content over distributing link
 - [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
 - [Gantry](https://github.com/gregdhill/ipfs-oci) - Move container images to and from IPFS.
 - [ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
+- [Distributed Web Gateway | Cloudflare](https://www.cloudflare.com/distributed-web-gateway/) - Simplify, speed up, and secure access to both the Ethereum network and the InterPlanetary File System (IPFS).
