@@ -97,3 +97,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [SELLFF](https://sellff.com/) - Zero-cost, ad-free alternative to LinkedIn. ([HN](https://news.ycombinator.com/item?id=26475898))
 - [How Clubhouse the "next big thing going to fail (2021)](https://twitter.com/ShaanVP/status/1371972261004070913) ([HN](https://news.ycombinator.com/item?id=26656665))
 - [Osintgram](https://github.com/Datalux/Osintgram) - OSINT tool on Instagram. Offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+- [How Polarization Ate Our Brains (2021)](https://zeynep.substack.com/p/how-polarization-ate-our-brains)

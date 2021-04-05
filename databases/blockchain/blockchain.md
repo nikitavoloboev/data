@@ -125,3 +125,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Storage Chains Compared](https://skynetwiki.tech/storage-chains-compared/)
 - [Storj vs Filecoin (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mgxskc/storj_vs_filecoin/)
 - [Kulupu](https://kulupu.network/) - Proof of work blockchain with on-chain governance and online upgrade. ([Code](https://github.com/kulupu/kulupu))
+- [Chia Network](https://www.chia.net/) - New blockchain and smart transaction platform that is easier to use, more efficient, and secure. ([Code](https://github.com/Chia-Network/chia-blockchain))

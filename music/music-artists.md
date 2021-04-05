@@ -2,7 +2,7 @@
 
 Below is a list of music artists I like. I attach my favorite songs from these artists.
 
-If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com) play live, do it. ♥️
+If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com) or [Hania Rani](http://haniarani.com/) play live, do it. ♥️
 
 ## Favorite artists
 
