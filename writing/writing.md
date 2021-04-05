@@ -221,3 +221,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [On Writing More (2021)](https://ava.substack.com/p/on-writing-more) ([HN](https://news.ycombinator.com/item?id=26246619))
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - [Paul Graham Isn’t a Simple Writer, and Here Are Some of His Cool Tricks (2021)](https://sashachapin.substack.com/p/paul-graham-isnt-a-simple-writer)
+- [Writing tools I learned from The Economist (2021)](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)

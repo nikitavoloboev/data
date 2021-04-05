@@ -12,3 +12,4 @@
 - [Verilator](https://github.com/verilator/verilator) - Fastest Verilog/SystemVerilog simulator. ([Web](https://www.veripool.org/wiki/verilator))
 - [YosysHQ](https://www.yosyshq.com/) - Team maintaining Yosys and the related Open Source EDA projects. ([GitHub](https://github.com/YosysHQ))
 - [Yosys](https://github.com/YosysHQ/yosys) - Framework for Verilog RTL synthesis. ([Web](http://www.clifford.at/yosys/))
+- [Icarus Verilog](http://iverilog.icarus.com/) - Verilog simulation and synthesis tool. ([Code](https://github.com/steveicarus/iverilog))

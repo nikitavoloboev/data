@@ -152,3 +152,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [GitHub Learning Lab: Security Strategy Essentials](https://lab.github.com/githubtraining/security-strategy-essentials)
 - [Darkbit](https://darkbit.io/) - Cloud-native security built for your business.
 - [What hardware and software should I use for a self hosted home security system? (2021)](https://www.reddit.com/r/selfhosted/comments/mjmojl/what_hardware_and_software_should_i_use_for_a/)
+- [CALDERA](https://github.com/mitre/caldera) - Scalable Automated Adversary Emulation Platform.

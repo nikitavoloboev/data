@@ -45,3 +45,4 @@
 - [The End of Silicon Valley as We Know It? (2021)](https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/)
 - [Why I hate solo traveling in America (2021)](https://www.reddit.com/r/solotravel/comments/me6ph2/why_i_hate_solo_travelling_in_america/)
 - [Tax Reddit](https://www.reddit.com/r/tax/) - News, discussion, policy, and law relating to any tax in US.
+- [U.S elevation graphic](https://twitter.com/milehigherjoel/status/1378466795053477890)

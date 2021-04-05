@@ -141,6 +141,7 @@
 - [TypeScript Strictly Typed](https://github.com/cyrilletuzi/typescript-strictly-typed) - Enable configurations for strictly typed TypeScript, ESLint or TSLint.
 - [Type Gymnastics](https://github.com/g-plane/type-gymnastics) - Collection of wonderful TypeScript type gymnastics code snippets.
 - [swc-node](https://github.com/Brooooooklyn/swc-node) - Faster ts-node without type check.
+- [vite-plugin-ts-checker](https://github.com/fi3ework/vite-plugin-ts-checker) - Vite plugin that runs TypeScript type checker on a separate process.
 
 ## Images
 
