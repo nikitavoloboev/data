@@ -247,3 +247,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Inside a viral website (2021)](https://notfunatparties.substack.com/p/inside-a-viral-website) ([HN](https://news.ycombinator.com/item?id=26645813))
 - [Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
 - [Ask HN: What novel tools are you using to write web sites/apps? (2021)](https://news.ycombinator.com/item?id=26693959)
+- [Sidenotes in Web Design · Gwern.net](https://www.gwern.net/Sidenotes)
