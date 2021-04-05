@@ -67,6 +67,7 @@
 - [Using approximate nearest neighbor search in real world applications (2020)](https://blog.vespa.ai/using-approximate-nearest-neighbor-search-in-real-world-applications/)
 - [In search of the fastest concurrent Union-Find algorithm (2019)](https://arxiv.org/pdf/1911.06347.pdf)
 - [Computer Science 521 Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
+- [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 
 ## Images
 

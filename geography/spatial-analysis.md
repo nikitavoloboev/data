@@ -60,3 +60,4 @@
 - [H3](https://github.com/uber/h3) - Hexagonal Hierarchical Geospatial Indexing System. ([Docs](https://h3geo.org/docs))
 - [How to use Mapbox Movement Data for data analytics (guide) (2021)](https://www.mapbox.com/blog/how-to-utilize-mapbox-movement-data-for-mobility-insights-a-guide-for-analysts-data-scientists-and-developers)
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Spatial Extension to SQLite. ([HN](https://news.ycombinator.com/item?id=26685156))
+- [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926))

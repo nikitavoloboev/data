@@ -370,3 +370,4 @@
 - [My programming setup (2021)](https://lemire.me/blog/2021/04/04/my-programming-setup/)
 - [Recommendations for learning fundamentals of programming](https://vladris.com/blog/2020/12/29/recommendations.html)
 - [Examples of real-world, relatable engineering trade-offs (2021)](https://twitter.com/floydophone/status/1378794336687546368)
+- [On Cache Invalidation: Why Is It Hard? (2018)](https://yihui.org/en/2018/06/cache-invalidation/) ([HN](https://news.ycombinator.com/item?id=26686770))

@@ -97,7 +97,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Awesome Typography](https://github.com/Jolg42/awesome-typography)
 - [Type Specimens](https://typespecimens.io/)
 - [Type Studies](https://typestudies.com/)
-- [Practical Typography](https://practicaltypography.com/)
+- [Practical Typography](https://practicaltypography.com/) ([HN](https://news.ycombinator.com/item?id=26688142))
 - [Showcase of OpenType Features](https://otf.show/hlig) ([Code](https://github.com/dvkndn/otf.show))
 - [monospacifier.py](https://github.com/cpitclaudel/monospacifier) - Great way to increase the Unicode coverage of your favorite programming font.
 - [Chrome Detect Font](https://github.com/hmarr/chrome-detect-font) - Easily see which fonts are in use.
