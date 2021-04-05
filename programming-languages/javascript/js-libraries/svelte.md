@@ -90,3 +90,5 @@
 - [Svelte + TS + Vite Template](https://github.com/PuruVJ/macos-web-svelte-dock)
 - [Felte](https://github.com/pablo-abc/felte) - Form library for Svelte. ([Web](https://felte.dev/))
 - [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
+- [Add Tailwind CSS to Svelte CLI tool](https://github.com/svelte-add/tailwindcss)
+- [Svelte Adders](https://github.com/svelte-add/svelte-adders) - Collection of composable commands to add functionality to Svelte.

@@ -19,3 +19,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [The Quiet Confidence of Julia Garner (2021)](https://www.rollingstone.com/tv/tv-features/julia-garner-ozark-assistant-inventing-anna-interview-1129080/) ([Reddit](https://www.reddit.com/r/television/comments/lnhnkw/the_quiet_confidence_of_julia_garner/))
 - [Ian McKellen Explains The Difference Between Acting on Stage and In Movies](https://www.youtube.com/watch?v=QzOlVLDMLAQ)
 - [The 32 Greatest Character Actors Working Today (2021)](https://www.vulture.com/article/best-character-actors.html)
+- [Bob Odenkirk Got Lucky with Breaking Bad (2021)](https://www.youtube.com/watch?v=cjMlTC8Ikxw)
