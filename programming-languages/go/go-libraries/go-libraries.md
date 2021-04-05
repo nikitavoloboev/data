@@ -201,6 +201,7 @@
 - [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.
 - [orb](https://github.com/paulmach/orb) - Types and utilities for working with 2d geometry in Golang.
 - [Canvas](https://github.com/tdewolff/canvas) - Cairo in Go: vector to SVG, PDF, EPS, raster, HTML Canvas, etc.
+- [gfx](https://github.com/peterhellberg/gfx) - Convenience package for dealing with graphics in my pixel drawing experiments.
 
 ## GUI
 

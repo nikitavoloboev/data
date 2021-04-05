@@ -85,3 +85,4 @@ I try to give my full attention to any ideas I am working on.
 - [Lobsters: What side projects are you building currently? (2021)](https://lobste.rs/s/nytdx6/what_side_projects_are_you_building)
 - [Free startup ideas (2021)](https://danromero.org/free-startup-ideas.html)
 - [Ask HN: Can build CRUD apps, what now? (2021)](https://news.ycombinator.com/item?id=26693494)
+- [10 perspective-altering ideas. Illustrated.](https://twitter.com/jackbutcher/status/1378743787716022275)
