@@ -209,3 +209,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [PyTube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [Easy video converting for the web (2021)](https://mefody.dev/chunks/ffmpeg-alias/)
 - [Tips for having video calls with strangers (2021)](https://twitter.com/chrishlad/status/1377724246793801730)
+- [Meet with Spot](https://www.meetwithspot.com/) - Step away from the screen and try a walking meeting with Spot.
