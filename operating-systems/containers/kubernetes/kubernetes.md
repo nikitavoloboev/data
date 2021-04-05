@@ -356,3 +356,4 @@
 - [kubectl-cost](https://github.com/kubecost/kubectl-cost) - CLI for determining the cost of Kubernetes workloads.
 - [Capsule](https://github.com/clastix/capsule) - Kubernetes Operator for multi-tenancy.
 - [Wrangler](https://github.com/rancher/wrangler) - Framework for wrapping clients, informers, listers into a simple usable controller pattern that promotes some good practices.
+- [Longhorn](https://longhorn.io/) - Cloud native distributed block storage for Kubernetes. ([Code](https://github.com/longhorn/longhorn))
