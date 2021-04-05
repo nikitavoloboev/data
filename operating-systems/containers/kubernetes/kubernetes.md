@@ -358,3 +358,4 @@
 - [Wrangler](https://github.com/rancher/wrangler) - Framework for wrapping clients, informers, listers into a simple usable controller pattern that promotes some good practices.
 - [Longhorn](https://longhorn.io/) - Cloud native distributed block storage for Kubernetes. ([Code](https://github.com/longhorn/longhorn))
 - [Kubernetes README](https://kubernetesreadme.com/) - What to Read to Learn More About Kubernetes. ([Code](https://github.com/chris-short/kubernetesreadme.com))
+- [Oxidizing the Kubernetes operator](https://www.pavel.cool/rust/rust-kubernetes-operators/)

@@ -190,6 +190,7 @@
 - [libmprompt](https://github.com/koka-lang/libmprompt) - Robust multi-prompt delimited control and effect handlers in C/C++.
 - [IceCream-Cpp](https://github.com/renatoGarcia/icecream-cpp) - Little (single header) library to help with the print debugging on C++11 and forward.
 - [expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions. ([Tweet](https://twitter.com/TartanLlama/status/1376915871956836359))
+- [monolish](https://github.com/ricosjp/monolish) - MONOlithic Liner equation Solvers for Highly-parallel architecture.
 
 ## Links
 

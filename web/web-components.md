@@ -32,3 +32,4 @@
 - [Web Components Spec](https://github.com/WICG/webcomponents)
 - [GitHub's Web Component Collection](https://github.com/github/github-elements) ([HN](https://news.ycombinator.com/item?id=26437668))
 - [Web Components Are Easier Than You Think (2021)](https://css-tricks.com/web-components-are-easier-than-you-think/)
+- [Happy DOM](https://github.com/capricorn86/happy-dom) - JSDOM alternative with support for server side rendering of web components.

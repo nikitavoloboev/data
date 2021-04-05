@@ -90,3 +90,4 @@
 - [deployctl](https://github.com/denoland/deployctl) - Command line tool for Deno Deploy.
 - [aws_api](https://github.com/cloudydeno/deno-aws_api) - From-scratch Typescript AWS API client built for Deno.
 - [Custom Stack](https://github.com/ihack2712/cstack) - Create custom cool errors in Deno.
+- [Onyx Deno](https://github.com/oslabs-beta/onyx) - Onyx is authentication middleware for Deno.

@@ -53,3 +53,4 @@
 - [Awesome Redis](https://github.com/JamzyWang/awesome-redis)
 - [Using Redis as an LRU cache](https://redis.io/topics/lru-cache)
 - [Using Serverless Redis with Next.js (2021)](https://www.youtube.com/watch?v=FytxaSVQROc)
+- [We scaled the GitHub API with a sharded, replicated rate limiter in Redis (2021)](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)

@@ -109,6 +109,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Recipe: 1. Write an essay. 2. Explain to a friend what you said in it. 3. Go back and rewrite it to say what you just said to your friend.](https://twitter.com/paulg/status/1376139287314493447)
 - [One of the hardest things to do when writing (and thus one of the differentiators of really good writing) is to cut stuff that's genuinely good, just not good in the thing you're writing.](https://twitter.com/paulg/status/1376562393396957185)
 - [1. Write not just what you know, but what you're learning. And post about what you love. 2. Have at least a tiny website that shows something neat. 3. Do things publicly, and comment when you think the other people would find it meaningful. 4. Help other people.](https://twitter.com/simonsarris/status/1378023590503849986)
+- [Writing with rhythm: This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.](https://www.indiehackers.com/post/whats-the-best-piece-of-content-you-ve-ever-encountered-book-article-podcast-episode-etc-3da46a464c)
 
 ## Links
 
@@ -221,4 +222,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [On Writing More (2021)](https://ava.substack.com/p/on-writing-more) ([HN](https://news.ycombinator.com/item?id=26246619))
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - [Paul Graham Isn’t a Simple Writer, and Here Are Some of His Cool Tricks (2021)](https://sashachapin.substack.com/p/paul-graham-isnt-a-simple-writer)
-- [Writing tools I learned from The Economist (2021)](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
+- [Writing tools I learned from The Economist (2021)](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) ([HN](https://news.ycombinator.com/item?id=26700319))

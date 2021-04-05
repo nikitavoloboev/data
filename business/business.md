@@ -64,3 +64,4 @@ Learning to build [startups](startups/startups.md).
 - [Blook](https://www.blook.io/) - Register Your Company In The U.S globally.
 - [How much it costs to incorporate (2021)](https://twitter.com/JoshWComeau/status/1377336821961654279)
 - [What is the highest margin business you've ever seen? (2021)](https://twitter.com/businessbarista/status/1378827193422393355)
+- [Gaps](https://gaps.com/) - Online business analysis & opportunities.

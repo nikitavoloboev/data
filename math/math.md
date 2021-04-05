@@ -252,3 +252,4 @@
 - [ELI5 what is chaos theory, and what is it used for? (2021)](https://www.reddit.com/r/explainlikeimfive/comments/mj70p9/eli5_what_is_chaos_theory_and_what_is_it_used_for/)
 - [What are the best/most interesting Springer Math Books? (2021)](https://www.reddit.com/r/math/comments/mjj331/what_are_the_bestmost_interesting_springer_books/)
 - [What Became of Moses Schönfinkel, Inventor of Combinators (2021)](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
+- [Mathematical Markup Language (MathML)](https://w3c.github.io/mathml/) ([Code](https://github.com/mathml-refresh/mathml))
