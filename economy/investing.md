@@ -172,3 +172,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Reasons to casually angel invest (2021)](https://twitter.com/celinehalioua/status/1375947954255585281)
 - [Atelier Angels Pilot Program](https://www.notion.so/Atelier-Angels-Pilot-Program-f5f870f78c3b4cd2afaa6e033e69b46e) - Program where top creators learn to be successful angel investors. ([Tweet](https://twitter.com/ljin18/status/1375898032059908103))
 - [How do I begin investing? (2021)](https://www.reddit.com/r/leanfire/comments/mfe1f1/how_do_i_begin_investing/)
+- [Investing Reddit Wiki](https://www.reddit.com/r/investing/wiki/index)
