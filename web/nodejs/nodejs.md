@@ -194,3 +194,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [rools](https://github.com/frankthelen/rools) - Small rule engine for Node.
 - [I finally escaped Node (and you can too) (2021)](https://acco.io/i-escaped-node) ([Lobsters](https://lobste.rs/s/eaaxsb/i_finally_escaped_node_you_can_too))
 - [LoopBack](https://loopback.io/) - Highly extensible Node.js and TypeScript framework for building APIs and microservices. ([Code](https://github.com/strongloop/loopback-next))
+- [Sending tuples from Node to Rust and back (2021)](https://www.fluvio.io/blog/2021/04/node-bindgen-tuples/)
