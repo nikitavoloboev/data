@@ -18,4 +18,4 @@ Oh and [Fuck This Pandemic](https://eng.rekki.com/fuck-this-pandemic/pandemic.tx
 
 [This](https://open.spotify.com/track/2lF5acSU8Vu9292cthQmc5?si=DhLiuvcBQ_-blgLtlrnf0Q) is my new goto focus song. 🌸
 
-And tripping [listening to Hania Rani](https://www.youtube.com/watch?v=kFRdoYfZYUY) is bliss. [13:00 onwards](https://youtu.be/kFRdoYfZYUY?t=820) is ♥️
+And tripping [listening to Hania Rani](https://www.youtube.com/watch?v=kFRdoYfZYUY) is bliss. [13:00 onwards](https://youtu.be/kFRdoYfZYUY?t=820) is ♥️. [Leaving](https://open.spotify.com/track/5kGMJTXKSDrFRGAgeLmavm?si=H9Aa-Iv-RaKWDEylBx1kJQ) is the song.
