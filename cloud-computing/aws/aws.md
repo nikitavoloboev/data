@@ -159,3 +159,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Platform that uses my AWS account, but provides me an incredible DX. This way I can start extremely easy, but also have the full, raw power of AWS at my fingertips. (2021)](https://twitter.com/flybayer/status/1369363714873438210)
 - [Repokid](https://github.com/Netflix/repokid) - AWS Least Privilege for Distributed, High-Velocity Deployment.
 - [Amazon S3 Object Lambda (2021)](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/) ([HN](https://news.ycombinator.com/item?id=26520021))
+- [Collection of higher-level reusable cdk constructs](https://github.com/cloudcomponents/cdk-constructs)

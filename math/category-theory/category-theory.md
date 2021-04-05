@@ -110,6 +110,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Emily Pillmore: Type Arithmetic and the Yoneda Lemma (2020)](https://www.youtube.com/watch?v=aXS5HZ_1fNQ)
 - [Categorical logic from a categorical point of view](https://github.com/mikeshulman/catlog)
 - [Category Theory Illustrated - Orders](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
+- [tikzcd-editor](https://tikzcd.yichuanshen.de/) - Simple visual editor for creating commutative diagrams. ([Code](https://github.com/yishn/tikzcd-editor))
 
 ## Images
 

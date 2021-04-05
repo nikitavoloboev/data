@@ -369,3 +369,4 @@
 - [Awesome Code Review](https://github.com/joho/awesome-code-review)
 - [My programming setup (2021)](https://lemire.me/blog/2021/04/04/my-programming-setup/)
 - [Recommendations for learning fundamentals of programming](https://vladris.com/blog/2020/12/29/recommendations.html)
+- [Examples of real-world, relatable engineering trade-offs (2021)](https://twitter.com/floydophone/status/1378794336687546368)
