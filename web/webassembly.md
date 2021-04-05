@@ -152,3 +152,4 @@
 - [LAM](https://github.com/AbstractMachinesLab/lam) - Lightweight alternative to the BEAM that runs as Native and WebAssembly binaries, both on WASI-enabled systems and browsers.
 - [Swag](https://github.com/Ji4n1ng/Swag) - Toy WASM interpreter written in Swift.
 - [Awesome WebAssembly Tools](https://github.com/vshymanskyy/awesome-wasm-tools)
+- [WASM signatures](https://github.com/jedisct1/wasmsign) - Tool to add and verify digital signatures to/from WASM binaries.

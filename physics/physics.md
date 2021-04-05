@@ -193,3 +193,4 @@
 - [Alternative interpretations of classical physics (2019)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.062107) ([HN](https://news.ycombinator.com/item?id=26552942))
 - [How does Hawking Radiation work? (2021)](https://www.youtube.com/watch?v=rrUvLlrvgxQ)
 - [The Secret of Synchronization (2021)](https://www.youtube.com/watch?v=t-_VPRCtiUg)
+- [When Feynman Met Dirac](https://www.cantorsparadise.com/when-feynman-met-dirac-fe9cca0006df)

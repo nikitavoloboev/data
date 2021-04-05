@@ -461,3 +461,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [It's time to build: A New World's Fair (2021)](https://www.cameronwiese.com/blog/worlds-fair) ([HN](https://news.ycombinator.com/item?id=26481373))
 - [Girl Survival Guide Related Subs](https://www.reddit.com/r/TheGirlSurvivalGuide/wiki/index)
 - [Executive Assistant help for CEO (2021)](https://twitter.com/ChristineCarril/status/1378557962667495427)
+- [Grit](https://github.com/climech/grit) - Multitree-based personal task manager.
