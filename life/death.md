@@ -28,3 +28,4 @@ One advantage that this view of the world brings. The view that everything that 
 - [Farewill](https://farewill.com/) - Wills And Probate Experts. Simpler Cremation Service.
 - [How to Live with Dying (2020)](https://theamericanscholar.org/how-to-live-with-dying/) ([HN](https://news.ycombinator.com/item?id=24880514))
 - [Near Death Experience Research Foundation](https://www.nderf.org/)
+- [The Leading Causes of Death in the US for 2020](https://jamanetwork.com/journals/jama/fullarticle/2778234)

@@ -41,3 +41,4 @@
 - [Parrot.PY](https://github.com/chaosparrot/parrot.py) - Computer interaction using audio and speech recognition.
 - [SpeechBrain Toolkit](https://github.com/speechbrain/speechbrain) - PyTorch-based Speech Toolkit. ([Web](https://speechbrain.github.io/))
 - [Vosk API](https://github.com/alphacep/vosk-api) - Offline open source speech recognition toolkit.
+- [Lyra](https://github.com/google/lyra) - Very Low-Bitrate Codec for Speech Compression.

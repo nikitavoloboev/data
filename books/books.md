@@ -360,3 +360,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Ambiguous Utopia of Iain M. Banks](https://www.thenewatlantis.com/publications/the-ambiguous-utopia-of-iain-m-banks) ([HN](https://news.ycombinator.com/item?id=26612063))
 - [Storytel](https://www.storytel.com/) - Audiobooks in your iPhone or Android mobile.
 - [What Goodreads could have been (2021)](https://notfunatparties.substack.com/p/what-goodreads-could-have-been)
+- [Copybooks](https://www.copybooks.app/) - Books recommended by real people, not Amazon's robots. ([Code](https://github.com/tomjohnneill/copybooks))

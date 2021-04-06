@@ -216,3 +216,4 @@
 - [Atomos](https://github.com/oslabs-beta/atomos) - Open source Chrome developer tool for Recoil.
 - [react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React.
 - [Practical React Query Blog Posts](https://tkdodo.eu/blog/practical-react-query)
+- [jsx-dom](https://github.com/proteriax/jsx-dom) - Use JSX to create DOM elements.
