@@ -195,3 +195,4 @@
 - [The Secret of Synchronization (2021)](https://www.youtube.com/watch?v=t-_VPRCtiUg)
 - [When Feynman Met Dirac](https://www.cantorsparadise.com/when-feynman-met-dirac-fe9cca0006df) ([HN](https://news.ycombinator.com/item?id=26697227))
 - [The Koide Formula (2021)](https://johncarlosbaez.wordpress.com/2021/04/04/the-koide-formula/)
+- [Leonard Susskind on Richard Feynman, the Holographic Principle, and Unanswered Questions in Physics (2018)](https://www.youtube.com/watch?v=CQAcLW6qdQY)

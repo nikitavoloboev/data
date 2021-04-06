@@ -18,7 +18,7 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Reserve](https://reserve.org/) - Flexible pool of stablecoins designed to reduce risk through diversification and decentralized governance. ([HN](https://news.ycombinator.com/item?id=25899418))
 - [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments.
 - [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
-- [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency.
+- [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
 
 ## Notes
 

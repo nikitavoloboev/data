@@ -105,3 +105,4 @@
 - [The ghosts in the data (2021)](https://veekaybee.github.io/2021/03/26/data-ghosts/) - Post on ghost knowledge aka implicit knowledge, aka what you learn at work that you wouldn't be able to in a textbook. ([Tweet](https://twitter.com/vboykis/status/1375608719627653125))
 - [Value of tutors in success of top achievers (2021)](https://twitter.com/andy_matuschak/status/1378775753144164359)
 - [Reading Material across various domains](https://github.com/agrim123/reading-material)
+- [Cheat Sheet Maker](https://cheatsheet-maker.herokuapp.com/) - App for creating and sharing cheat sheets (with markdown). ([Code](https://github.com/mdtarhini/cheat-sheet-maker))
