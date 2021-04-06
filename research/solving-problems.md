@@ -64,3 +64,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Problem Solving Techniques (2020)](https://denvaar.github.io/articles/problem_solving_example.html)
 - [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/) ([HN](https://news.ycombinator.com/item?id=25031483))
 - [4 Different Perspectives to Solve Problems (2020)](https://neilkakkar.com/different-perspectives-to-solve-problems.html)
+- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) ([Summary](https://twitter.com/philipcdavis/status/1379554692137558019))

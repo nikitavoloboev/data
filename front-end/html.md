@@ -104,3 +104,4 @@
 - [Parsed HTML Rewriter](https://github.com/worker-tools/parsed-html-rewriter) - DOM-based implementation of Cloudflare Worker's HTMLRewriter.
 - [htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML. Uses CSS selectors to extract bits content from HTML files.
 - [Beautiful PDFs from HTML](https://pdf.math.dev/) ([Code](https://github.com/ashok-khanna/pdf)) ([HN](https://news.ycombinator.com/item?id=26691626))
+- [SelectMadu](https://github.com/pavish/select-madu) - Replacement for the select menu, with support for searching, multiple selections, async data loading and more.

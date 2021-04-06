@@ -372,3 +372,4 @@
 - [Examples of real-world, relatable engineering trade-offs (2021)](https://twitter.com/floydophone/status/1378794336687546368)
 - [On Cache Invalidation: Why Is It Hard? (2018)](https://yihui.org/en/2018/06/cache-invalidation/) ([HN](https://news.ycombinator.com/item?id=26686770))
 - [Programming is hard (2021)](https://dorinlazar.ro/2021-02-programming-is-hard/) ([HN](https://news.ycombinator.com/item?id=26711862))
+- [Surprisingly Slow (2021)](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/) - Collection of various computer and software behaviors that are unexpectedly slow or slow for unexpected reasons. ([Tweet](https://twitter.com/indygreg/status/1379317419680833543))

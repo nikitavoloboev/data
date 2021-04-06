@@ -41,3 +41,4 @@
 - [EssentialsX](https://essentialsx.net/) - Essential plugin suite for Minecraft servers. ([Code](https://github.com/EssentialsX/Essentials))
 - [Minecraft Dev for IntelliJ](https://minecraftdev.org/) - Plugin for IntelliJ IDEA for Minecraft mod development. ([Code](https://github.com/minecraft-dev/MinecraftDev))
 - [pakkit](https://github.com/Heath123/pakkit) - Packet monitor for Minecraft.
+- [JSPrismarine](https://prismarine.dev/) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
