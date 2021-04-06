@@ -93,3 +93,4 @@
 - [Ask HN: Do you think Agile/Scrum is beneficial for software delivery? (2021)](https://news.ycombinator.com/item?id=26345235)
 - [Common Mistakes of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/) ([HN](https://news.ycombinator.com/item?id=26474947))
 - [Ask HN: Why do companies ask employees to set goals? (2021)](https://news.ycombinator.com/item?id=26591035)
+- [The Nakazawa Management Starter Pack (2021)](https://cpojer.net/posts/the-nakazawa-management-starter-pack)

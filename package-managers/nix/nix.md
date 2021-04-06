@@ -172,3 +172,4 @@
 - [nix-optics](https://github.com/masaeedu/nix-optics) - Using profunctor optics to focus modifications in Nix.
 - [Use Nix flakes without any fluff](https://github.com/gytis-ivaskevicius/flake-utils-plus)
 - [Nix-environments](https://github.com/nix-community/nix-environments) - Repository to maintain out-of-tree shell.nix files.
+- [Determinate Systems](https://determinate.systems/) - Nix ecosystem consulting by Graham Christensen.
