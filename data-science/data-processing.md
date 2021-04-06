@@ -38,3 +38,4 @@
 - [Reverse ETL — A Primer (2021)](https://medium.com/memory-leak/reverse-etl-a-primer-4e6694dcc7fb)
 - [I wrote one of the fastest DataFrame libraries (2021)](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
 - [Build your own “data lake” for reporting purposes in a multi-services environment (2021)](https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/)
+- [Feature Stores: The Data Side of ML Pipelines (2021)](https://medium.com/riselab/feature-stores-the-data-side-of-ml-pipelines-7083d69bff1c)

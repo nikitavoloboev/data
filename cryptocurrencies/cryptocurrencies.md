@@ -19,6 +19,7 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments.
 - [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
 - [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
+- [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
 
 ## Notes
 

@@ -371,3 +371,4 @@
 - [Recommendations for learning fundamentals of programming](https://vladris.com/blog/2020/12/29/recommendations.html)
 - [Examples of real-world, relatable engineering trade-offs (2021)](https://twitter.com/floydophone/status/1378794336687546368)
 - [On Cache Invalidation: Why Is It Hard? (2018)](https://yihui.org/en/2018/06/cache-invalidation/) ([HN](https://news.ycombinator.com/item?id=26686770))
+- [Programming is hard (2021)](https://dorinlazar.ro/2021-02-programming-is-hard/) ([HN](https://news.ycombinator.com/item?id=26711862))
