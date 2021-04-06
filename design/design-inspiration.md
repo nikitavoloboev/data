@@ -298,6 +298,7 @@ Here are few more things I liked, design wise.
 - [Timmy O'Mahony](https://timmyomahony.com/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Alex Bainter](https://alexbainter.com/)
+- [Eliza SJ](https://www.elizasj.com/)
 - [Nick Reese](https://nicholasreese.com/)
 - [Rach Smith](https://rachsmith.com/)
 - [Nick Bostrom](https://www.nickbostrom.com/)
