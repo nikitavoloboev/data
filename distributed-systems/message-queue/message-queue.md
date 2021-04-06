@@ -15,3 +15,5 @@
 - [The Big Little Guide to Message Queues (2020)](https://sudhir.io/the-big-little-guide-to-message-queues/) ([HN](https://news.ycombinator.com/item?id=25591492))
 - [Machinery](https://github.com/RichardKnop/machinery) - Asynchronous task queue/job queue based on distributed message passing.
 - [MiniQueue](https://github.com/tomarrell/miniqueue) - Simple, single binary, message queue.
+- [Broker](https://github.com/apibillme/broker) - Real-time BaaS (Backend as a Service). SSE message broker that requires you write no backend code to have a full real-time API.
+- [JackRabbit](https://github.com/apibillme/jackrabbit) - Real-time Message Queue.
