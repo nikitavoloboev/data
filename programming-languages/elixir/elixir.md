@@ -86,3 +86,4 @@
 - [Concurrent Data Processing in Elixir Book (2021)](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/) - Fast, Resilient Applications with OTP, GenStage, Flow, and Broadway.
 - [How to debug Elixir/Erlang compiler performance (2021)](https://dashbit.co/blog/how-to-debug-elixir-erlang-compiler-performance)
 - [Association Defaults in Ecto (2021)](https://slab.com/blog/association-defaults-in-ecto/) ([Lobsters](https://lobste.rs/s/akopsw/using_association_defaults_ecto_secure))
+- [Parser Combinators in Elixir (2021)](https://serokell.io/blog/parser-combinators-in-elixir)
