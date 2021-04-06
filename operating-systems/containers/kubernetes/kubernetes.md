@@ -360,3 +360,4 @@
 - [Kubernetes README](https://kubernetesreadme.com/) - What to Read to Learn More About Kubernetes. ([Code](https://github.com/chris-short/kubernetesreadme.com))
 - [Oxidizing the Kubernetes operator](https://www.pavel.cool/rust/rust-kubernetes-operators/)
 - [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide) ([HN](https://news.ycombinator.com/item?id=26709628))
+- [KubePlus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from Helm charts.

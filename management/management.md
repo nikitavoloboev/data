@@ -94,3 +94,4 @@
 - [Common Mistakes of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/) ([HN](https://news.ycombinator.com/item?id=26474947))
 - [Ask HN: Why do companies ask employees to set goals? (2021)](https://news.ycombinator.com/item?id=26591035)
 - [The Nakazawa Management Starter Pack (2021)](https://cpojer.net/posts/the-nakazawa-management-starter-pack)
+- [The Daily Standup Is a Waste of Time](https://buildthestage.com/the-daily-standup-is-a-waste-of-time/) ([HN](https://news.ycombinator.com/item?id=26709951))
