@@ -107,3 +107,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [AMA on Russian politics and Ukraine escalation (2021)](https://www.reddit.com/r/geopolitics/comments/mjik4r/russia_seems_to_be_a_particularly_piqued_interest/)
 - [Russia’s Weak Strongman: The Perilous Bargains That Keep Putin in Power (2021)](https://www.foreignaffairs.com/articles/russia-fsu/2021-04-01/vladimir-putin-russias-weak-strongman) ([Reddit](https://www.reddit.com/r/geopolitics/comments/miq6a9/russias_weak_strongman_the_perilous_bargains_that/))
 - [Мобилизационный сценарий. Беседа с Геннадием Гудковым (2021)](https://www.youtube.com/watch?v=uej-0b_6T9E)
+- [Ошибки и реформы девяностых [Другие 90-е] (2021)](https://www.youtube.com/watch?v=K70WuLPV--o)
+- [Фотографии Дмитрия Маркова — рассказ о тоске и жизни в регионах России (2021)](https://meduza.io/feature/2021/04/03/fotografii-dmitriya-markova-rasskaz-o-toske-i-zhizni-v-regionah-rossii-a-ego-snimok-omonovtsa-pod-portretom-putina-stal-simvolom-presledovaniya-navalnogo)
