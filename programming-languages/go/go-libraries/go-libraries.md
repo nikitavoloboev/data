@@ -766,6 +766,7 @@
 - [generics](https://github.com/adonovan/generics) - Quick experiments with Go generics.
 - [slicegraph](https://github.com/jbszczepaniak/slicegraph) - Uses graphviz in order to pretty print slices for you.
 - [scriptish](https://github.com/ganbarodigital/go_scriptish) - Library to help you port bash scripts to Go.
+- [Project Flogo](https://github.com/TIBCOSoftware/flogo) - Ultra-light, Go-based open source ecosystem for building event-driven apps. ([Web](http://www.flogo.io/))
 
 ## Links
 

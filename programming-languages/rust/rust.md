@@ -439,3 +439,4 @@
 - [Rust generics vs Java generics (2019)](https://fasterthanli.me/articles/rust-vs-java-generics)
 - [Debug Formatters in Rust (2021)](https://www.youtube.com/watch?v=aYE0frR-kGs)
 - [Mutabah's Rust Compiler](https://github.com/thepowersgang/mrustc) - Alternative rust compiler (re-implementation).
+- [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust tool chains.

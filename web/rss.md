@@ -92,3 +92,4 @@
 - [RSS as a Facebook alternative (2021)](https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/) ([HN](https://news.ycombinator.com/item?id=26403669))
 - [How to turn a webpage into an RSS feed using Feed Creator (2021)](https://www.fivefilters.org/2021/how-to-turn-a-webpage-into-an-rss-feed/)
 - [gof](https://sr.ht/~mjorgensen/gof/) - CLI to post RSS/Atom feeds to the fediverse.
+- [Monitor Web Pages For Changes Using Web Feeds (2021)](https://www.inoreader.com/blog/2021/04/monitor-web-pages-for-changes-with-web-feeds.html)

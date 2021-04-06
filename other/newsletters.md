@@ -56,3 +56,4 @@
 - [Substack lessons learned: 500 paid subscribers in 4 months (2021)](https://twitter.com/StockJabber/status/1361428648939696131)
 - [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom feeds. ([HN](https://news.ycombinator.com/item?id=26167248))
 - [Rollups](https://leavemealone.app/rollups/) - Combine your favorite newsletters into a single email sent weekly.
+- [Awesome Newspapers](https://github.com/divkakwani/awesome-newspapers) - Directory of Online Newspaper Sources for 70+ Languages.

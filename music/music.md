@@ -113,3 +113,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Butternotes](https://butternotes.com/) - Explore & Practice Music. ([Code](https://github.com/dt1/butternotes))
 - [Deriving Keys From Chords](https://butternotes.com/on-programming/chords-to-scales)
 - [Piano Day](https://www.pianoday.org/)
+- [Spotify Downloader](https://github.com/L04DB4L4NC3R/spotify-downloader) - Download songs, playlists and albums, or sync in to your favorite tunes.
