@@ -75,3 +75,4 @@
 - [Modern Django: A Guide on How to Deploy Django-based Web Applications](https://github.com/djstein/modern-django)
 - [Django Algolia Integration](https://github.com/algolia/algoliasearch-django)
 - [Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS (2021)](https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/) ([HN](https://news.ycombinator.com/item?id=25973242))
+- [Django 3.2 (2021)](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/) ([HN](https://news.ycombinator.com/item?id=26710013))

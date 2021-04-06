@@ -359,3 +359,4 @@
 - [Longhorn](https://longhorn.io/) - Cloud native distributed block storage for Kubernetes. ([Code](https://github.com/longhorn/longhorn))
 - [Kubernetes README](https://kubernetesreadme.com/) - What to Read to Learn More About Kubernetes. ([Code](https://github.com/chris-short/kubernetesreadme.com))
 - [Oxidizing the Kubernetes operator](https://www.pavel.cool/rust/rust-kubernetes-operators/)
+- [A detailed guide to SSO on Kubernetes](http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide) ([HN](https://news.ycombinator.com/item?id=26709628))

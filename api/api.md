@@ -205,3 +205,4 @@
 - [Mockoon](https://mockoon.com/) - Create mock APIs in seconds. ([Code](https://github.com/mockoon/mockoon))
 - [ROAPI](https://github.com/roapi/roapi) - Create full-fledged APIs for static datasets without writing a single line of code. ([Docs](https://roapi.github.io/docs/index.html))
 - [Autocode](https://autocode.com/) - Instant endpoints for anything.
+- [HN: Google’s copying of the Java SE API was fair use (2021)](https://news.ycombinator.com/item?id=26699106)
