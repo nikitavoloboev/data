@@ -27,3 +27,4 @@
 - [ShaderMania](https://github.com/markusmoenig/ShaderMania) - Metal shader editor for macOS and iOS.
 - [Signed](https://github.com/markusmoenig/Signed) - Editor and renderer for procedural Signed Distance Functions (SDFs). Available for macOS and iOS and is heavily optimized for Metal.
 - [Minimal Metal App](https://github.com/ctreffs/metal-app)
+- [GLTFKit](https://github.com/warrenm/GLTFKit) - Objective-C glTF 2.0 loader and Metal-based renderer.

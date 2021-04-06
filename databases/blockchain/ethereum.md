@@ -191,3 +191,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Hello World Smart Contract for Beginners (2021)](https://medium.com/alchemy-api/hello-world-smart-contract-for-beginners-7a65cc4ae95f)
 - [ZRNT](https://github.com/protolambda/zrnt) - Minimal Go implementation of the Eth 2 spec.
 - [zkopru](https://github.com/zkopru-network/zkopru) - Ethereum L2 scaling solution for private transactions using zk-SNARK and optimistic rollup.
+- [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node for test and development.
+- [EatTheBlocks](https://eattheblocks.com/) - Screencast for Ethereum Dapp Developers. ([Code](https://github.com/jklepatch/eattheblocks))

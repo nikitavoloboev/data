@@ -80,3 +80,4 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [YouTube channels dedicated to technical analysis of various cryptocurrencies (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mfiriu/are_there_any_recommended_youtube_channels/)
 - [Interesting cryptocurrencies that are not BTC or ETH (2021)](https://twitter.com/patrick_oshag/status/1376970262206427136)
 - [Wagyu](https://github.com/AleoHQ/wagyu) - Rust library for generating cryptocurrency wallets.
+- [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
