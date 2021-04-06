@@ -75,3 +75,4 @@
 - [Guide to UX Research Methods](https://www.toptal.com/designers/user-research/guide-to-ux-research-methods)
 - [SleekUI](https://sleekui.com/) - UI Design Software Comparison. ([HN](https://news.ycombinator.com/item?id=26688148))
 - [What publicly traded companies focus on great user experience and design? (2021)](https://twitter.com/Shpigford/status/1378520719005515777)
+- [The Market for User Research Platforms (2021)](https://a16z.com/2021/04/06/the-market-for-user-research-platforms/)

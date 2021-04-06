@@ -17,6 +17,8 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
 - [Reserve](https://reserve.org/) - Flexible pool of stablecoins designed to reduce risk through diversification and decentralized governance. ([HN](https://news.ycombinator.com/item?id=25899418))
 - [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments.
+- [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
+- [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency.
 
 ## Notes
 
@@ -80,4 +82,3 @@ It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus
 - [YouTube channels dedicated to technical analysis of various cryptocurrencies (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mfiriu/are_there_any_recommended_youtube_channels/)
 - [Interesting cryptocurrencies that are not BTC or ETH (2021)](https://twitter.com/patrick_oshag/status/1376970262206427136)
 - [Wagyu](https://github.com/AleoHQ/wagyu) - Rust library for generating cryptocurrency wallets.
-- [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))

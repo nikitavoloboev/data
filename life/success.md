@@ -23,6 +23,7 @@ Success comes from not giving up and doing what you love.
 - [My job is to remove myself from the critical path.](https://twitter.com/rakyll/status/1374082005453840386)
 - [Since location and network have become mostly unbundled (in some circles), where you live is not as big of a (professional) decision as who are the 10-20 people you chat with most in digital space.](https://twitter.com/eriktorenberg/status/1378420045349486592)
 - [Most people forget that the goal isn’t money. The goal is to spend days as you wish.](https://twitter.com/rsms/status/1379455124620279812)
+- [If you are tired, learn how to rest. Not how to quit.](https://twitter.com/paulocoelho/status/1379168086943752192)
 
 ## Links
 
