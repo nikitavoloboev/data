@@ -650,6 +650,7 @@
 - [BackedCodable](https://github.com/jegnux/BackedCodable) - Powerful property wrapper to back codable properties.
 - [ZIP Foundation](https://github.com/weichsel/ZIPFoundation) - Library to create, read and modify ZIP archive files.
 - [Gen](https://github.com/pointfreeco/swift-gen) - Composable, transformable, controllable randomness.
+- [Swift Collections](https://github.com/apple/swift-collections) - Package of production grade Swift data structures.
 
 ## Other (not lib)
 

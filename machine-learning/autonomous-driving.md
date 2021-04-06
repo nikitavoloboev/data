@@ -34,3 +34,4 @@
 - [FAST-LIO](https://github.com/hku-mars/FAST_LIO) - Computationally efficient and robust LiDAR-inertial odometry (LIO) package.
 - [Awesome Lane Detection](https://github.com/amusi/awesome-lane-detection)
 - [SMARTS](https://github.com/huawei-noah/SMARTS) - Scalable Multi-Agent RL Training School for Autonomous Driving.
+- [Duckietown](https://www.duckietown.org/) - Self-driving car simulator for the Duckietown universe. ([Code](https://github.com/duckietown/gym-duckietown))

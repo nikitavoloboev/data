@@ -65,3 +65,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippets and run them with a bit of style.
 - [bash_unit](https://github.com/pgrange/bash_unit) - Bash unit testing.
 - [Elegant bash conditionals (2021)](https://timvisee.com/blog/elegant-bash-conditionals/) ([Lobsters](https://lobste.rs/s/nao13f/elegant_bash_conditionals))
+- [Bash lambda](https://github.com/spencertipping/bash-lambda) - Anonymous functions and FP stuff for bash.

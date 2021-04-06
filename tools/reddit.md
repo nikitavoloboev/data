@@ -11,3 +11,4 @@
 - [RedditStorage](https://github.com/rossem/RedditStorage) - Application that allows you to store on Reddit subreddits via raw bytes.
 - [Reddit Code Old](https://github.com/reddit-archive/reddit)
 - [Reddit Saved to CSV](https://github.com/AlkTheOrg/reddit-saved-to-csv)
+- [Map of Reddit](https://anvaka.github.io/map-of-reddit/) ([Code](https://github.com/anvaka/map-of-reddit))

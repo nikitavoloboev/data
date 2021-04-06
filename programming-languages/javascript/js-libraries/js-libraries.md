@@ -492,6 +492,7 @@
 - [msgpack-javascript](https://github.com/msgpack/msgpack-javascript) - JavaScript implementation of MessagePack, an efficient binary serilization format.
 - [Tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component.
 - [betterator](https://github.com/TomerAberbach/betterator) - Better sync and async iterator API.
+- [XState Catalogue](https://github.com/mattpocock/xstate-catalogue) - Professionally designed, interactive state machines. ([Web](https://xstate-catalogue.com/))
 
 ## Links
 

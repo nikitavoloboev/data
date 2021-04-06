@@ -329,3 +329,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Serenity Notes](https://www.serenity.re/en/notes) - E2E encrypted notes. ([HN](https://news.ycombinator.com/item?id=26567497)) ([Code](https://github.com/SerenityNotes/serenity-notes-clients))
 - [A Brief History & Ethos of the Digital Garden (2021)](https://maggieappleton.com/garden-history)
 - [Thread on 2-way links (2021)](https://twitter.com/elzr/status/1378821500246065154)
+- [Gatsby Garden](https://github.com/binnyva/gatsby-garden) - Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes.

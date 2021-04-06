@@ -85,7 +85,7 @@
 - [What we have learned from developing a real RN app (2020)](https://www.reddit.com/r/reactnative/comments/gvrmrm/what_we_have_learned_from_developing_a_real_rn_app/)
 - [React Native iOS Kit](https://github.com/callstack/react-native-ios-kit) - Missing React Native UI Kit for iOS.
 - [Animated TabBar](https://github.com/gorhom/react-native-animated-tabbar) - 60FPS animated tab bar with a variety of cool animation presets.
-- [React Native Directory](https://reactnative.directory/)
+- [React Native Directory](https://reactnative.directory/) - Searchable and filterable directory of React Native libraries. ([Code](https://github.com/react-native-community/directory))
 - [react-native-template](https://github.com/echobind/react-native-template) - Echobind's template for React Native projects.
 - [React Native renderer based on Skia](https://github.com/Kudo/react-native-skia)
 - [React Native Navigation Tutorial (2020)](https://www.robinwieruch.de/react-native-navigation)
