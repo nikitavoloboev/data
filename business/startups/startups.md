@@ -267,6 +267,7 @@
 - [Course: How to Build a Community-led Product](https://communityled.typeform.com/to/kLQDDVWT) ([Tweet](https://twitter.com/gregisenberg/status/1364683626667982861))
 - [Companies that achieved scale with small teams (2021)](https://twitter.com/ankitkr0/status/1367700549982810114)
 - [Diagnose with data and treat with design (2021)](https://twitter.com/joulee/status/1367875690939346949)
+- [Letter to myself in late 2008](https://dalton.substack.com/p/letter-to-myself-in-late-2008)
 
 ## Images
 

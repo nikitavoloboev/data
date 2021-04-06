@@ -9,3 +9,7 @@
 - [Kyle Stacher](https://www.instagram.com/thiefhands)
 - [Daria Shishkina](https://www.instagram.com/shishkina_art/)
 - [Mio](https://www.instagram.com/cochlea1313/)
+
+## Interesting artists
+
+- [Jon Black](https://www.instagram.com/jon._.black/)

@@ -321,6 +321,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Free for Developers](https://free-for.dev/#/) - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. ([Code](https://github.com/ripienaar/free-for-dev)) ([HN](https://news.ycombinator.com/item?id=26239711))
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 - [Findka](https://essays.findka.com/) - Great essays delivered to your inbox. Chosen specifically for you with machine learning. ([HN](https://news.ycombinator.com/item?id=23541840))
+- [Butterfly Network](https://www.butterflynetwork.com/) - Point of care ultrasound solutions.
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
 - [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.

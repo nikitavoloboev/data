@@ -34,6 +34,7 @@ Learning to build [startups](startups/startups.md).
 ## Notes
 
 - [I don't care how successful you or your company becomes, the absolute worst founders are the ones that screw over their employees / teammates during any M&A. First rule is take care of everyone on your team first.](https://twitter.com/ajt/status/1379303139870961666)
+- [Organizations should outgrow their founders.](https://twitter.com/joshsimmons/status/1379326794373898242)
 
 ## Links
 
