@@ -83,3 +83,4 @@
 - [Make tests a part of your app (2021)](https://sobolevn.me/2021/02/make-tests-a-part-of-your-app)
 - [Using Relational Problems to Teach Property-Based Testing (2021)](https://www.youtube.com/watch?v=TXOl_NJo8GE)
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source Test Case Management System. ([Web](https://kiwitcms.org/))
+- [Automated Testing with Specifications (2021)](https://www.youtube.com/watch?v=MLcNhc27Ghw)
