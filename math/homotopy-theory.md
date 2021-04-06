@@ -26,3 +26,4 @@
 - [Agda formalisation of the Introduction to Homotopy Type Theory](https://github.com/HoTT-Intro/Agda)
 - [Base library for HoTT in Agda](https://github.com/pcapriotti/agda-base)
 - [Spring School on Homotopy Type Theory](https://epit2020cnrs.inria.fr/) ([Code](https://github.com/HoTT/EPIT-2020))
+- [Dan Christensen: "Reasoning in an ∞-topos with homotopy type theory" (2021)](https://www.youtube.com/watch?v=_0sEEAMwHzo)
