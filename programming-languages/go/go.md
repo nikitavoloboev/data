@@ -456,3 +456,4 @@ Go promotes composition over inheritance.
 - [Good books for advanced go topics and how things are working under the hood (2021)](https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/)
 - [Understanding Allocations: the Stack and the Heap (2019)](https://www.youtube.com/watch?v=ZMZpH4yT7M0)
 - [Why people hate Go? (2021)](https://www.reddit.com/r/golang/comments/mjhf5h/why_people_hate_go/)
+- [Ask HN: Are you using Go for web development? (2021)](https://news.ycombinator.com/item?id=26576330)

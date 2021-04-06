@@ -206,3 +206,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Octocrabby](https://github.com/travisbrown/octocrabby) - Tools for managing GitHub block lists.
 - [RepoKitteh](https://www.repokitteh.io/) - GitHub Functions: Workflow Automation. ([HN](https://news.ycombinator.com/item?id=26674781))
 - [Dev Protocol](https://devprotocol.xyz/) - Lets GitHub users tokenize their OSS projects in a few clicks. ([Code](https://github.com/dev-protocol/protocol))
+- [Lotus](https://getlotus.app/) - Keep up with GitHub notifications without stress.

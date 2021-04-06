@@ -34,3 +34,4 @@
 - [Healthy amount of sex per week in a relationship](https://www.reddit.com/r/sex/comments/mgfndk/what_would_you_say_is_a_healthy_amount_of_sex_per/)
 - [Sex Positions List](https://sexpositions.club/)
 - [Sexual compatibility, what is it?](https://twitter.com/QiaochuYuan/status/1378399565393502208)
+- [Planned Parenthood](https://www.plannedparenthood.org/) - Provides reproductive health care in the United States and globally.
