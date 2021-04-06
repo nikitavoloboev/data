@@ -66,3 +66,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Resources for Ph.D. students](https://github.com/Qwaz/phd-bookmark)
 - [Ask HN: Is abuse from supervisors as common in industry as in academia? (2021)](https://news.ycombinator.com/item?id=26367099)
 - [Questions for Potential Advisors](https://twitter.com/PaolaVFigueroa/status/1312157953550479361)
+- [How to increase viewpoint diversity in academia](https://twitter.com/conor64/status/1379530257116491777)

@@ -33,6 +33,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Lil floof jumping](https://twitter.com/jonjones/status/1214324526928089088)
 - [Gentle Bees](https://twitter.com/texasbeeworks/status/1370395889718681605)
 - [Don't give up](https://twitter.com/benphillips76/status/1376430374121828352)
+- [Rabbit surreptitiously stretches within reach of kisses](https://www.reddit.com/r/aww/comments/i3l7k4/how_to_surreptitiously_stretch_within_reach_of/)
 
 ## Links
 

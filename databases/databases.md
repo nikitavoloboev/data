@@ -318,3 +318,4 @@
 - [Ask HN: Best low-/no-code solution for simple web-based database front ends (2021)](https://news.ycombinator.com/item?id=26657803)
 - [We ditched MySQL and made our dashboard really fast. Here is how we did it. (2021)](https://usefathom.com/blog/worlds-fastest-analytics)
 - [Databunker](https://databunker.org/) - Secure storage for personal records built to comply with GDPR. ([Code](https://github.com/securitybunker/databunker)) ([HN](https://news.ycombinator.com/item?id=26690279))
+- [Database options (2021)](https://twitter.com/ryanflorence/status/1379285868611915780)

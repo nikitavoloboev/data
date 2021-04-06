@@ -24,6 +24,7 @@ Success comes from not giving up and doing what you love.
 - [Since location and network have become mostly unbundled (in some circles), where you live is not as big of a (professional) decision as who are the 10-20 people you chat with most in digital space.](https://twitter.com/eriktorenberg/status/1378420045349486592)
 - [Most people forget that the goal isn’t money. The goal is to spend days as you wish.](https://twitter.com/rsms/status/1379455124620279812)
 - [If you are tired, learn how to rest. Not how to quit.](https://twitter.com/paulocoelho/status/1379168086943752192)
+- [The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think.](https://twitter.com/mkobach/status/1379237073194991623)
 
 ## Links
 
