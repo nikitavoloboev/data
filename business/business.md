@@ -31,6 +31,10 @@ Learning to build [startups](startups/startups.md).
 - [Apollo](https://www.apollographql.com/careers/) ([Senior eng](https://www.apollographql.com/careers/positions/#Senior-Backend-Software-Engineer:b8ec842e-e79a-455e-a665-b312892d946e))
 - [Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
 
+## Notes
+
+- [I don't care how successful you or your company becomes, the absolute worst founders are the ones that screw over their employees / teammates during any M&A. First rule is take care of everyone on your team first.](https://twitter.com/ajt/status/1379303139870961666)
+
 ## Links
 
 - [Cloudflare S-1](https://www.sec.gov/Archives/edgar/data/1477333/000119312519222176/d735023ds1.htm) ([HN](https://news.ycombinator.com/item?id=20706702))

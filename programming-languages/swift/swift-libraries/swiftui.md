@@ -1,5 +1,9 @@
 # [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
+## Notes
+
+- [Setting a random background color is a great way to detect an accidental SwiftUI loop.](https://twitter.com/steipete/status/1379483193708052480)
+
 ## Links
 
 - [SwiftUI Essentials WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/216/)

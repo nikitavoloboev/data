@@ -93,3 +93,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [VISA USDC coin explained (2021)](https://twitter.com/terryangelos/status/1376539932588531714)
 - [Why Python is huge in finance? by Daniel Roos (2019)](https://www.youtube.com/watch?v=kBwOy-6CtAQ)
 - [aat](https://github.com/AsyncAlgoTrading/aat) - Asynchronous, event-driven algorithmic trading in Python and C++.
+- [Tips to diversify income with passive income streams (2021)](https://twitter.com/johndsaunders/status/1379390180445065219)

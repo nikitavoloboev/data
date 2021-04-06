@@ -40,3 +40,4 @@
 - [Animated Engines](http://animatedengines.com/) ([HN](https://news.ycombinator.com/item?id=26368939))
 - [Motion Made Simple](https://motion.dev/)
 - [Clean Slate Demo Scene (2021)](https://www.youtube.com/watch?v=O3T1-nadehU)
+- [How to Create Mathematical Animations like 3Blue1Brown Using Python (2021)](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
