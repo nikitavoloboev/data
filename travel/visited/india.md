@@ -6,3 +6,4 @@
 - [I tried starting a manufacturing unit in India (2020)](https://superr.in/economy/i-tried-starting-a-manufacturing-unit-in-india/)
 - [How India Censors The Web (2020)](http://iamkush.me/how-india-censors-the-web/) ([HN](https://news.ycombinator.com/item?id=24633490))
 - [How India built IndiaStack, a set of APIs for identity (Aadhar), payments (UPI), and data (DEPA)](https://twitter.com/balajis/status/1355129423624687619)
+- [Razorpay](https://razorpay.com/) - Best Payment Gateway for Online Payments in India.
