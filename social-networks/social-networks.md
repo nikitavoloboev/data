@@ -21,6 +21,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
   - Generally you'd lose contact with all these people over time as you mature and just naturally drift apart. No shame in that, the ones you do want to keep in touch with you'd make a real effort for. Now it's so easy to just send a "like" , "congratulations!" or "Happy birthday!" that you find yourself very loosely connected to a bunch of people you don't want to be but feel like everyone else is still in "contact" so you don't want to miss out.
 - When you realize that Instagram is someones curated life, you realize how manufactured their profile actually is. What you see is what they want you to see.
 - [The sad truth is that friendly face isn’t Facebook’s true face; it’s a sham, just like it’s a sham to sit on a tractor so people will think you’re tall. Mark Zuckerberg uses your most intimate connections, the literal faces of the people you love, to fool you into thinking that he’s not picking your pocket and taking a wrecking ball to our media, to the integrity of our society, and to democracy itself.](https://medium.com/s/story/the-smallness-of-mark-zuckerberg-4e94a88bba02)
+- [I gained a following in part because developers with larger followings would share my work. If you have a large following I highly encourage you to share the work of other creators! It costs nothing to share a blog or video but can make a huge difference to that creator!](https://twitter.com/EmmaBostian/status/1379813903417364485)
 
 ## Links
 

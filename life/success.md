@@ -25,6 +25,7 @@ Success comes from not giving up and doing what you love.
 - [Most people forget that the goal isn’t money. The goal is to spend days as you wish.](https://twitter.com/rsms/status/1379455124620279812)
 - [If you are tired, learn how to rest. Not how to quit.](https://twitter.com/paulocoelho/status/1379168086943752192)
 - [The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think.](https://twitter.com/mkobach/status/1379237073194991623)
+- [Imposter syndrome never goes away. I work to reframe the conversation. I'm the prototype of my role. The only comparison I can have is myself on my best day. If I was able to perform well before, then I can do it again.](https://twitter.com/bryanl/status/1379791377245016067)
 
 ## Links
 
