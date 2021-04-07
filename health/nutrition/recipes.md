@@ -37,3 +37,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Just the Recipe](https://www.justtherecipe.app/) - Paste a recipe URL and get just the ingredients and the directions for making the recipe.
 - [RecipeRadar](https://www.reciperadar.com/) - Recipe search engine and meal planner.
 - [Poached eggs recipe](https://www.youtube.com/watch?v=yifZtA3uF-E)
+- [Open source cooking](https://opensource.cooking/) - Simple, bloat free cooking site. Submit recipes. ([HN](https://news.ycombinator.com/item?id=26727700))
