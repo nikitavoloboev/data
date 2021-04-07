@@ -44,3 +44,4 @@
 - [The Tao of Continuous Integration (2021)](https://blog.trailofbits.com/2021/02/26/the-tao-of-continuous-integration/)
 - [Speeding up Docker builds in CI with BuildKit (2021)](https://pythonspeed.com/articles/speeding-up-docker-ci/)
 - [Continuous Integration With Interactive Notebooks](https://nextjournal.com/blog/ci)
+- [Modern CI is Too Complex and Misdirected (2021)](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/) ([Lobsters](https://lobste.rs/s/k0qhfw/modern_ci_is_too_complex_misdirected)) ([HN](https://news.ycombinator.com/item?id=26727790))

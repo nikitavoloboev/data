@@ -48,4 +48,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [My Engineering Values (2020)](https://mikemcquaid.com/2020/12/15/my-engineering-values/)
 - [Compensation as a Reflection of Values (2021)](https://oxide.computer/blog/compensation-as-a-reflection-of-values/) ([HN](https://news.ycombinator.com/item?id=26348836))
 - [The Values of a Post-Woke World (2021)](https://newdiscourses.com/2021/03/values-post-woke-world/)
-- [What I learned about culture working for Bezos and Zuck (2021)](https://twitter.com/DanRose999/status/1378393523213373440)
+- [What defines a great company culture? (2021)](https://twitter.com/DanRose999/status/1378393523213373440) ([HN](https://news.ycombinator.com/item?id=26700186))

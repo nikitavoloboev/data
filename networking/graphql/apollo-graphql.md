@@ -14,3 +14,4 @@
 - [Apollo platform tutorial app](https://www.apollographql.com/docs/tutorial/introduction/) ([Code](https://github.com/apollographql/fullstack-tutorial)) ([Code 2](https://github.com/nikolasburk/apollo-server-livestream))
 - [Apollo Studio: A GraphQL IDE for every environment (2020)](https://www.apollographql.com/blog/apollo-studio-a-graphql-ide-for-every-environment/)
 - [Using Apollo Federation with local schemas](https://patrick.wtf/posts/apollo-federation-local-services)
+- [Apollo Client – Demystifying Cache Normalization (2020)](https://www.apollographql.com/blog/demystifying-cache-normalization/) ([HN](https://news.ycombinator.com/item?id=26728114))
