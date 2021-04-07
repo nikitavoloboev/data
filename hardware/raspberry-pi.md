@@ -67,3 +67,4 @@
 - [Getting started with Raspberry Pi Pico - MicroPython (2021)](https://www.youtube.com/watch?v=ETf1hD_XfJg)
 - [Monitoring a Raspberry Pi with Grafana, InfluxDB and collectd (2021)](https://ch-st.de/raspberry-pi-grafana-influxdb-collectd/)
 - [CutiePi](https://cutiepi.io/) - All-in-one Raspberry Pi tablet. ([HN](https://news.ycombinator.com/item?id=20703721))
+- [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)

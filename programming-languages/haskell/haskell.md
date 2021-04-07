@@ -276,3 +276,4 @@
 - [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) - Documentation about Haskell's dangerous functions and a hlint config file to forbid them.
 - [Haskell Tool Stack](https://github.com/commercialhaskell/stack-templates) - Project templates for stack new.
 - [GHC Whole Program Compiler and External STG IR tooling](https://github.com/grin-compiler/ghc-whole-program-compiler-project)
+- [Z.Haskell](https://z.haskell.world/) - Fast/Concise/Modern Haskell Engineering Toolkits. ([GitHub](https://github.com/ZHaskell)) ([HN](https://news.ycombinator.com/item?id=26720551))
