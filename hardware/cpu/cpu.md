@@ -85,4 +85,4 @@
 - [The 486 CPU Era – The Birth of Overclocking (2021)](http://www.cpushack.com/2021/02/21/the-486-cpu-era-the-birth-of-overclocking-part-1/)
 - [How CPUs are Designed and Built (2020)](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/)
 - [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade (2021)](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture) ([HN](https://news.ycombinator.com/item?id=26638091))
-- [Our Journey to ARM | PSPDFKit (2021)](https://pspdfkit.com/blog/2021/our-journey-to-arm/?utm_source=twitter&utm_medium=social&utm_campaign=blog&utm_content=server)
+- [Our Journey to ARM | PSPDFKit (2021)](https://pspdfkit.com/blog/2021/our-journey-to-arm/)
