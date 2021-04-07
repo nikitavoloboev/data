@@ -21,6 +21,7 @@
 - [Gungnir](https://github.com/kwrooijen/gungnir) - High level, data driven database library for Clojure data mapping.
 - [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
 - [honeysql-postgres](https://github.com/nilenso/honeysql-postgres) - PostgreSQL extension for honeysql.
+- [HugSQL](https://github.com/layerware/hugsql) - Clojure library for embracing SQL. ([Docs](https://www.hugsql.org/))
 
 ## ML
 
