@@ -376,6 +376,7 @@
 - [DPPy](https://github.com/guilgautier/DPPy) - Sampling Determinantal Point Processes with Python.
 - [python devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python.
 - [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
+- [xarray-dataclasses](https://github.com/astropenguin/xarray-dataclasses) - xarray extension for typed DataArray and Dataset creation.
 
 ## Links
 

@@ -210,3 +210,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Easy video converting for the web (2021)](https://mefody.dev/chunks/ffmpeg-alias/)
 - [Tips for having video calls with strangers (2021)](https://twitter.com/chrishlad/status/1377724246793801730)
 - [Meet with Spot](https://www.meetwithspot.com/) - Step away from the screen and try a walking meeting with Spot.
+- [Jellyfin](https://jellyfin.org/) - Free Software Media System. ([Desktop Code](https://github.com/jellyfin/jellyfin-desktop)) ([GitHub](https://github.com/jellyfin))
