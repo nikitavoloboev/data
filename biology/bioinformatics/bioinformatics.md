@@ -110,3 +110,4 @@
 - [scArches](https://github.com/theislab/scarches) - Package to integrate newly produced single-cell datasets into integrated reference atlases.
 - [Biotech for the Biocurious (2021)](https://minutes.substack.com/p/biotech-for-the-biocurious)
 - [The Century of Biology Newsletter](https://centuryofbio.substack.com/)
+- [Papers on machine learning for proteins](https://github.com/yangkky/Machine-learning-for-proteins)

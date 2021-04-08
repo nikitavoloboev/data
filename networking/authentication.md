@@ -117,3 +117,4 @@
 - [The Modern Guide to OAuth (2021)](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 - [MagicSquared](https://magicsquared.net/) - Magic Magic Link Authentication.
 - [Behind GitHub's new authentication token formats (2021)](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) ([HN](https://news.ycombinator.com/item?id=26701149))
+- [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
