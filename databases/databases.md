@@ -164,6 +164,10 @@
 - [noisepage-test](https://github.com/cmu-db/noisepage-stats) - DBMS Performance & Correctness Testing Framework.
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 
+## Notes
+
+- [Database queries are especially fast if you copy the database into RAM.](https://twitter.com/raymondh/status/1380240448606756865)
+
 ## Links
 
 - [Stanford DB course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)

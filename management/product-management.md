@@ -56,3 +56,4 @@
 - [What is the best way to write a PRD?](https://www.vindhyac.com/posts/best-prd-templates-from-companies-we-adore/)
 - [Building Products at Airbnb (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-airbnb)
 - [Linear Method - Practices for Building](https://linear.app/method)
+- [A letter to our future Lead Product Manager, Growth](https://www.notion.so/A-letter-to-our-future-Lead-Product-Manager-Growth-94937a4a80c94a87a7ccb9ce648935c8)

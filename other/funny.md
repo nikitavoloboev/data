@@ -80,3 +80,4 @@
 - [Ancient Egypt, summarised](https://twitter.com/CSMFHT/status/1333344550866231302)
 - [I Like That The Boat Is Stuck (2021)](https://stone-soup.ghost.io/archive/i-like-that-the-boat-is-stuck/)
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+- [Every academic submitting work done in lockdown](https://twitter.com/salisbot/status/1379876646740713475)
