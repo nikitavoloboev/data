@@ -26,6 +26,7 @@
 - [apischema](https://github.com/wyfo/apischema) - JSON (de)serialization, GraphQL and JSON schema generation through python typing.
 - [Proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight, single file HTTP proxy server in Python.
 - [Ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. ([Web](https://ariadnegraphql.org/))
+- [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 
 ## ML
 
@@ -59,6 +60,7 @@
 - [wavetorch](https://github.com/fancompute/wavetorch) - Numerically solving and backpropagating through the wave equation.
 - [ennemi](https://github.com/polsys/ennemi) - Easy Nearest Neighbor Estimation of Mutual Information.
 - [Knock Knock](https://github.com/huggingface/knockknock) - Get notified when your training ends with only two additional lines of code.
+- [Orion](https://github.com/Epistimio/orion) - Asynchronous Distributed Hyperparameter Optimization. ([Docs](https://orion.readthedocs.io/en/stable/))
 
 ## Biology
 

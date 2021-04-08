@@ -127,3 +127,5 @@
 - [The Hindley-Milner Type System (2021)](https://www.youtube.com/watch?v=OyrByPkiX7s)
 - [Formalization of simple type theory](https://github.com/Chaaaos/formaltt)
 - [Modal Type Theory implementation](https://mtt-lang.github.io/mtt-web/) - Toy functional language based on modal type theory. ([Code](https://github.com/mtt-lang/mtt-lang))
+- [Giml's type inference engine (2021)](https://gilmi.me/blog/post/2021/04/06/giml-type-inference)
+- [Understanding typing judgments (2016)](https://www.hedonisticlearning.com/posts/understanding-typing-judgments.html)

@@ -21,6 +21,10 @@
 - [Mox](https://github.com/dashbitco/mox) - Library for defining concurrent mocks in Elixir.
 - [Hammox](https://github.com/msz/hammox) - Automated contract testing for Elixir functions and mocks.
 
+## ML
+
+- [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
+
 ## Other
 
 - [GraphQL toolkit for Elixir](https://github.com/absinthe-graphql/absinthe)

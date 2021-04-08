@@ -122,3 +122,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Using NixOS as a router (2021)](https://francis.begyn.be/blog/nixos-home-router)
 - [Immutable Systems Infrastructure, or how to mashup Kubernetes and Nix](https://tevps.net/blog/2021/2/20/immutable-systems-infrastructure-or-how-mashup-kub/) ([Lobsters](https://lobste.rs/s/h8ejms/immutable_systems_infrastructure_how))
 - [NixOS Flake Example](https://github.com/colemickens/nixos-flake-example) - Demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
+- [Bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad.

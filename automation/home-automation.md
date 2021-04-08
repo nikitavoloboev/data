@@ -41,3 +41,4 @@
 - [Frigate](https://github.com/blakeblackshear/frigate) - NVR with real time local object detection for IP cameras.
 - [How to achieve smart home nirvana (or, home automation without subscription) (2021)](https://arstechnica.com/information-technology/2021/03/how-to-achieve-smart-home-nirvana-or-home-automation-without-subscription/)
 - [Go Chromecast](https://github.com/vishen/go-chromecast) - CLI for Google Chromecast, Home devices and Cast Groups.
+- [Alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant.

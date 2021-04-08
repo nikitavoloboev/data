@@ -143,6 +143,7 @@
 - [swc-node](https://github.com/Brooooooklyn/swc-node) - Faster ts-node without type check.
 - [vite-plugin-ts-checker](https://github.com/fi3ework/vite-plugin-ts-checker) - Vite plugin that runs TypeScript type checker on a separate process.
 - [Oh no, I have to add those stupid TypeScript types (2021)](https://www.aleksandra.codes/fighting-with-ts)
+- [Unirepo](https://github.com/deref/uni) - Extremely opinionated TypeScript monorepo tool.
 
 ## Images
 
