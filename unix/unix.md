@@ -54,3 +54,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [USENIX](https://www.usenix.org/) - Advanced Computing Systems Association.
 - [Supervisor](https://github.com/Supervisor/supervisor) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems. ([Docs](http://supervisord.org/))
 - [Ask HN: What are the bad parts of Unix? (2021)](https://news.ycombinator.com/item?id=26604833)
+- [Detailed Behaviors of Unix Signal (2021)](https://www.dyx.name/posts/essays/signal.html)
