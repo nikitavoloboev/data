@@ -441,3 +441,4 @@
 - [Mutabah's Rust Compiler](https://github.com/thepowersgang/mrustc) - Alternative rust compiler (re-implementation).
 - [rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay for binary distributed rust tool chains.
 - [Tour of Rust's Standard Library Traits (2021)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
+- [Creusot](https://github.com/xldenis/creusot) - Tool for deductive verification of Rust code.
