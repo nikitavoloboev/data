@@ -142,3 +142,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Your E-Mail Validation Logic is Wrong](https://twitter.com/jschauma/status/1378172844169961477) ([Article](https://www.netmeister.org/blog/email.html))
 - [Best Privacy Friendly Email Forwarding Service (2021)](https://lobste.rs/s/jtecff/best_privacy_friendly_email_forwarding)
 - [TXMailer](https://github.com/apibillme/txmailer) - Transactional Mailer with Liquid and AWS SES.
+- [Exim Internet Mailer](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge for use on Unix systems connected to the Internet. ([Code](https://github.com/Exim/exim))

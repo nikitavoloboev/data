@@ -21,3 +21,4 @@
 - [WebGPU Clustered Shading](https://github.com/toji/webgpu-clustered-shading)
 - [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
 - [WebGPU Examples](https://github.com/crowlKats/webgpu-examples)
+- ["Hello, Triangle" WebGPU and Dawn](https://github.com/cwoffenden/hello-webgpu)

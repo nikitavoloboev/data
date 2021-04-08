@@ -77,3 +77,4 @@
 - [Gproc](https://github.com/uwiger/gproc) - Extended process registry for Erlang.
 - [A few notes on message passing (2021)](http://blog.erlang.org/message-passing/) ([HN](https://news.ycombinator.com/item?id=26514476))
 - ["Systems that run forever self-heal and scale" by Joe Armstrong (2013)](https://www.youtube.com/watch?v=cNICGEwmXLU)
+- [BPE: Business Process Engine](https://github.com/synrc/bpe) ([Web](https://bpe.n2o.dev/))

@@ -400,3 +400,4 @@
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - Curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.
 - [conda-press](https://github.com/conda-incubator/conda-press) - Press conda packages into wheels.
 - [cibuildwheel](https://github.com/joerick/cibuildwheel) - Build Python wheels for all the platforms on CI with minimal configuration.
+- [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)

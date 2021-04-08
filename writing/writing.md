@@ -222,6 +222,6 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [On Writing More (2021)](https://ava.substack.com/p/on-writing-more) ([HN](https://news.ycombinator.com/item?id=26246619))
 - [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - [Paul Graham Isn’t a Simple Writer, and Here Are Some of His Cool Tricks (2021)](https://sashachapin.substack.com/p/paul-graham-isnt-a-simple-writer)
-- [Writing tools I learned from The Economist (2021)](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) ([HN](https://news.ycombinator.com/item?id=26700319))
+- [Writing tools I learned from The Economist (2021)](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) ([HN](https://news.ycombinator.com/item?id=26700319)) ([PDF](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf))
 - [Compound Writing](https://www.compoundwriting.com/) - Community-Powered Writing Workflow.
 - [RedPen](https://github.com/redpen-cc/redpen) - Open source proofreading tool to check if your technical documents meet the writing standard. ([Web](https://redpen.cc/))

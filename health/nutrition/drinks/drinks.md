@@ -13,3 +13,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 
 - [Soft drink recipes](https://github.com/blinry/soft-drink-recipes)
 - [Athletic Brewing Company](https://athleticbrewing.com/) - Craft Non-Alcoholic Beer.
+- [Oatly: The New Coke (2020)](https://every.to/almanack/oatly-the-new-coke-821556) ([HN](https://news.ycombinator.com/item?id=26705429))

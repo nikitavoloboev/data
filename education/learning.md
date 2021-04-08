@@ -106,3 +106,4 @@
 - [Value of tutors in success of top achievers (2021)](https://twitter.com/andy_matuschak/status/1378775753144164359)
 - [Reading Material across various domains](https://github.com/agrim123/reading-material)
 - [Cheat Sheet Maker](https://cheatsheet-maker.herokuapp.com/) - App for creating and sharing cheat sheets (with markdown). ([Code](https://github.com/mdtarhini/cheat-sheet-maker))
+- [The Ultimate Deliberate Practice Guide: How to Be the Best (2021)](https://fs.blog/2021/04/deliberate-practice-guide/)
