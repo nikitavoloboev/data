@@ -494,6 +494,7 @@
 - [Tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component.
 - [betterator](https://github.com/TomerAberbach/betterator) - Better sync and async iterator API.
 - [XState Catalogue](https://github.com/mattpocock/xstate-catalogue) - Professionally designed, interactive state machines. ([Web](https://xstate-catalogue.com/))
+- [Combine-Promises](https://github.com/slorber/combine-promises) - Like Promise.all(array) but with an object instead of an array.
 
 ## Links
 

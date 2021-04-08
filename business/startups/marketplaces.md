@@ -22,3 +22,4 @@
 - [Experimenting with Pricing as a Marketplace (2020)](https://twosided.io/p/experimenting-with-pricing-as-a-marketplace)
 - [B2B SaaS marketplaces with opportunities for indie hackers](https://rocketgems.com/blog/saas-marketplaces/) ([HN](https://news.ycombinator.com/item?id=25870899))
 - [Gumroad: The Android of the Creator Economy That Powered $142M in GMV (2021)](https://sacra.com/research/gumroad-android-creator-economy/) ([Tweet](https://twitter.com/nansterio/status/1367546648340144132))
+- [The Guide To No Code Marketplaces](https://gumroad.com/l/TheGuideToNoCodeMarketplaces)
