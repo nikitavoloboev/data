@@ -29,4 +29,4 @@
 - [curvenote.dev](https://curvenote.dev/) - Interactive Scientific Writing.
 - [Playbit](https://playb.it/) - Computing environment which encourages playful learning, building & sharing of software.
 - [Paper Programs](https://paperprograms.org/) - Browser-based system for running programs on pieces of paper.
-- [Dynamicland](https://dynamicland.org/) - Our mission is to incubate a humane dynamic medium whose full power is accessible to all people.
+- [Dynamicland](https://dynamicland.org/) - Our mission is to incubate a humane dynamic medium whose full power is accessible to all people. ([HN](https://news.ycombinator.com/item?id=26725370))

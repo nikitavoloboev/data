@@ -139,3 +139,4 @@
 - [In Search for a Perfect Access Control System (2021)](https://goteleport.com/blog/access-controls/)
 - [Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization/)
 - [Patterns in application-layer protocol design](https://www.devever.net/~hl/applayer)
+- [The Architecture Behind A One-Person Tech Startup (2021)](https://anthonynsimon.com/blog/one-man-saas-architecture/) ([HN](https://news.ycombinator.com/item?id=26737771))
