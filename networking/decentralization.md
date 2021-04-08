@@ -51,3 +51,4 @@
 - [Awesome Decentralized Web](https://github.com/gdamdam/awesome-decentralized-web)
 - [Decentralization Off The Shelf](https://decentpatterns.xyz/) - Patterns for decentralized protocols and applications. ([Code](https://github.com/simplysecure/dots-patterns))
 - [The Most Important Scarce Resource is Legitimacy (2021)](https://vitalik.ca/general/2021/03/23/legitimacy.html) ([Reddit](https://www.reddit.com/r/ethereum/comments/mbph0b/the_most_important_scarce_resource_is_legitimacy/)) ([HN](https://news.ycombinator.com/item?id=26560626))
+- [Ouinet](https://github.com/equalitie/ouinet) - Library to enable decentralized web requests.

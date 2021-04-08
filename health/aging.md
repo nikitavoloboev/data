@@ -39,7 +39,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Aging research links](https://www.notion.so/40e0f73987aa46f39932647ba05925e6?v=3c79739323b5452c9de3210adf481c97)
 - [Quantitative Translation of Dog-to-Human Aging (2020)](<https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf>) ([HN](https://news.ycombinator.com/item?id=23730613))
 - [Anti-ageing: Where We Are At Now And The Various Drugs And Companies In The Field (2020)](https://www.reddit.com/r/singularity/comments/hlm7i5/antiageing_where_we_are_at_now_and_the_various/)
-- [Longevity — what we know so far (2020)](https://www.youtube.com/watch?v=R719BANcwkA)
+- [Longevity — what we know so far (2020)](https://www.youtube.com/watch?v=R719BANcwkA) ([Notes](https://twitter.com/ArtirKel/status/1380237279881351171))
 - [Calico](https://www.calicolabs.com/) - Research longevity.
 - [Who Gets to Solve Death? (2020)](https://divinations.substack.com/p/who-gets-to-solve-death)
 - [Learnings from Running a Longevity Startup (2020)](https://www.celinehh.com/year-1-learnings) ([HN](https://news.ycombinator.com/item?id=24923116))

@@ -257,3 +257,4 @@
 - [Computer Vision and Embroidery (2021)](https://healeycodes.com/computer-vision-and-embroidery/) ([Code](https://github.com/healeycodes/embroidery-vision))
 - [mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields (2021)](https://jonbarron.info/mipnerf/)
 - [Python libraries I use every day for computer vision work (2021)](https://twitter.com/svpino/status/1379666495811117062)
+- [Awesome Temporal Sentence Grounding in Videos](https://github.com/Soldelli/Awesome-Temporal-Language-Grounding-in-Videos)
