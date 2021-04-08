@@ -2,7 +2,7 @@
 
 You can listen through a lot of the songs I liked on [Spotify](https://open.spotify.com/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=1ApEajgvR_O_S9Oe-wXJLA), [YouTube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) & [SoundCloud](https://soundcloud.com/you/likes). And I share a lot of [playlists](music-playlists.md) and [music artists](music-artists.md) I love.
 
-You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums) alongside my [yearly music stats](https://www.last.fm/user/playfullyExist/listening-report/year). Here are [my Spotify stats](https://volt.fm/user/3vt1fdpakw5amtop).
+You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums) alongside my [yearly music stats](https://www.last.fm/user/playfullyExist/listening-report/year). Here are [my Spotify stats](https://volt.fm/nikitavoloboev).
 
 ## Notes
 
