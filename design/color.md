@@ -64,3 +64,4 @@
 - [HSL: a color format for humans (2021)](https://cloudfour.com/thinks/hsl-a-color-format-for-humans/)
 - [Mesh](https://meshgradient.com/) - Create beautiful mesh gradients.
 - [Poulette](https://github.com/grgrdvrt/poulette) - Color Palette GUI. ([Demo](https://www.grgrdvrt.com/poulette-demo/)) ([HN](https://news.ycombinator.com/item?id=26632653))
+- [Colord](https://github.com/omgovich/colord) - Tiny yet powerful tool for high-performance color manipulations and conversions.

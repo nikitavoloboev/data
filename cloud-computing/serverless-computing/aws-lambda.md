@@ -62,3 +62,4 @@
 - [subscriptionless](https://github.com/andyrichardson/subscriptionless) - Library for using GraphQL subscriptions with AWS Lambda.
 - [Serverless Full-Text Search with AWS Lambda and EFS (2021)](https://medium.com/@arsenyyankovski/serverless-full-text-search-with-aws-lambda-and-efs-cf24e1b6fe3b) ([Reddit](https://www.reddit.com/r/aws/comments/m2uzyv/serverless_fulltext_search_with_aws_lambda_and_efs/))
 - [PR Assigner](https://github.com/justeat/PRAssigner) - Swift AWS Lambda to automatically assign engineers to pull requests with a Slack integration.
+- [AWS Lambda Developer Guide](https://github.com/awsdocs/aws-lambda-developer-guide)

@@ -194,3 +194,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node for test and development.
 - [EatTheBlocks](https://eattheblocks.com/) - Screencast for Ethereum Dapp Developers. ([Code](https://github.com/jklepatch/eattheblocks))
 - [Why sharding is great: demystifying the technical properties (2021)](https://vitalik.ca/general/2021/04/07/sharding.html)
+- [Vector](https://github.com/connext/vector) - Ultra-minimal state channel network implementation.
