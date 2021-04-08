@@ -181,3 +181,7 @@
 - [DIY Through Hole Plating of PCBs (2017)](https://blog.honzamrazek.cz/2017/10/diy-through-hole-plating-of-pcbs/)
 - [Cobalt](https://github.com/oxidecomputer/cobalt) - Collection of common Bluespec interfaces/modules.
 - [Flexible Internal Representation for RTL](https://github.com/chipsalliance/firrtl) ([Web](https://www.chisel-lang.org/firrtl/))
+- [LATTE: Languages, Tools, and Techniques for Accelerator Design](https://capra.cs.cornell.edu/latte21/) ([Code](https://github.com/cucapra/latte21))
+- [Capra](https://capra.cs.cornell.edu/) - Computer Architecture & Programming Abstractions Research Group. ([GitHub](https://github.com/cucapra))
+- [Calyx](https://capra.cs.cornell.edu/calyx/) - Compiler Infrastructure for Accelerator Generators. ([Code](https://github.com/cucapra/calyx))
+- [Dahlia](https://github.com/cucapra/dahlia) - Time-sensitive affine types for predictable hardware generation. ([Web](https://capra.cs.cornell.edu/dahlia/))

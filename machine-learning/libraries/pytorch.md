@@ -238,3 +238,5 @@
 - [NN Template](https://github.com/lucmos/nn-template) - Generic template to bootstrap your PyTorch project with PyTorch Lightning, Hydra, W&B, DVC, and Streamlit.
 - [Lightning Hydra Template](https://github.com/ashlevski/lightning-hydra-template) - PyTorch Lightning + Hydra. A very general, feature-rich template for rapid, scalable ML experimentation process and best practices.
 - [Memformer - PyTorch](https://github.com/lucidrains/memformer) - Implementation of Memformer, a Memory-augmented Transformer, in PyTorch.
+- [torchtyping](https://github.com/patrick-kidger/torchtyping) - Runtime type annotations for the shape, dtype etc. of PyTorch Tensors.
+- [torchbench](https://github.com/paperswithcode/torchbench) - Easily benchmark machine learning models in PyTorch.

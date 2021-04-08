@@ -771,6 +771,8 @@
 - [array-init](https://github.com/Manishearth/array-init) - Safe wrapper for initializing arrays.
 - [voladdress](https://github.com/rust-console/voladdress) - Crate to make volatile memory operations easy to work with.
 - [bb8](https://github.com/djc/bb8) - Full-featured connection pool, designed for asynchronous connections (using tokio).
+- [Sophia](https://github.com/pchampin/sophia_rs) - Rust toolkit for RDF and Linked Data.
+- [switchyard](https://github.com/BVE-Reborn/switchyard) - Real-time compute-focused async executor with job pools, thread-local data, and priorities.
 
 ## Cargo Plugins
 

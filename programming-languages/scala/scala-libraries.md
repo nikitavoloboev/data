@@ -54,6 +54,7 @@
 - [Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala. ([Docs](https://www.optics.dev/Monocle/))
 - [refined](https://github.com/fthomas/refined) - Simple refinement types for Scala.
 - [uPickle](https://github.com/com-lihaoyi/upickle) - Simple Scala JSON and Binary (MessagePack) serialization library.
+- [LaCasa](https://github.com/phaller/lacasa) - Lightweight affine types and object capabilities in Scala.
 
 ## Links
 

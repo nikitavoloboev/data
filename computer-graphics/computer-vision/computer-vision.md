@@ -254,6 +254,6 @@
 - [ccv](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library.
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes (2020)](https://arxiv.org/abs/2011.13084) ([Code](https://github.com/zhengqili/Neural-Scene-Flow-Fields))
 - [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control (2021)](https://xbpeng.github.io/projects/AMP/) ([Tweet](https://twitter.com/xbpeng4/status/1379465757688352769))
-- [Computer Vision and Embroidery (2021)](https://healeycodes.com/computer-vision-and-embroidery/)
+- [Computer Vision and Embroidery (2021)](https://healeycodes.com/computer-vision-and-embroidery/) ([Code](https://github.com/healeycodes/embroidery-vision))
 - [mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields (2021)](https://jonbarron.info/mipnerf/)
 - [Python libraries I use every day for computer vision work (2021)](https://twitter.com/svpino/status/1379666495811117062)
