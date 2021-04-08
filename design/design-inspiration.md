@@ -38,6 +38,7 @@ Here are few more things I liked, design wise.
 - [Exyte](https://exyte.com/)
 - [Zipcall](https://zipcall.io/)
 - [Issue 33](https://issue33.com/)
+- [volt.fm](https://volt.fm/)
 - [Baths Music](https://bathsmusic.net/)
 - [Pointless](https://ptls.dev/)
 - [Lunadio](https://www.lunadio.com/)
