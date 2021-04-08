@@ -109,3 +109,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Мобилизационный сценарий. Беседа с Геннадием Гудковым (2021)](https://www.youtube.com/watch?v=uej-0b_6T9E)
 - [Ошибки и реформы девяностых [Другие 90-е] (2021)](https://www.youtube.com/watch?v=K70WuLPV--o)
 - [Фотографии Дмитрия Маркова — рассказ о тоске и жизни в регионах России (2021)](https://meduza.io/feature/2021/04/03/fotografii-dmitriya-markova-rasskaz-o-toske-i-zhizni-v-regionah-rossii-a-ego-snimok-omonovtsa-pod-portretom-putina-stal-simvolom-presledovaniya-navalnogo)
+- [Throttling of Twitter in Russia](https://throttletwitter.com/) ([Tweet](https://twitter.com/royaensafi/status/1379539118770769926))
