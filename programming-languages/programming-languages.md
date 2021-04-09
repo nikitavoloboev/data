@@ -191,3 +191,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The BNF Dream (2021)](https://blog.chewxy.com/2021/03/25/bnfs/)
 - [Ask HN: How to study programming language theory as a non CS student? (2021)](https://news.ycombinator.com/item?id=26657907)
 - [Wuffs the Language](https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md) ([Lobsters](https://lobste.rs/s/kuv1lj/wuffs_language))
+- [Introducing Dawn (Part 1) (2021)](<https://www.dawn-lang.org/posts/introducing-dawn-(part-1)/>) ([Lobsters](https://lobste.rs/s/rqc2sj/introducing_dawn_part_1))
