@@ -9,3 +9,4 @@
 - [Best country in Western/Southern Europe to retire with €500K (2021)](https://www.reddit.com/r/EuropeFIRE/comments/m2tnhv/best_country_in_westernsouthern_europe_to_retire/)
 - [TaxEU Reddit](https://www.reddit.com/r/TaxEU/) - Dedicated to taxation in the EU/EEA and neighbors.
 - [Ask HN: How to relocate to Europe as a software developer (2021)](https://news.ycombinator.com/item?id=26722428)
+- [What is one European historical event that you (shamefully) know very little about? (2021)](https://www.reddit.com/r/AskEurope/comments/mn1d9e/what_is_one_european_historical_event_that_you/)

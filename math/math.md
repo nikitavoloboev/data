@@ -254,3 +254,4 @@
 - [What Became of Moses Schönfinkel, Inventor of Combinators (2021)](https://writings.stephenwolfram.com/2021/03/a-little-closer-to-finding-what-became-of-moses-schonfinkel-inventor-of-combinators/)
 - [Mathematical Markup Language (MathML)](https://w3c.github.io/mathml/) ([Code](https://github.com/mathml-refresh/mathml))
 - [Map of Mathematical Structures (MIT)](https://space.mit.edu/home/tegmark/toe.gif)
+- [Why do you like math? (2021)](https://www.reddit.com/r/math/comments/mmxbg7/why_do_you_like_math/)

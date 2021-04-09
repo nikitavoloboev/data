@@ -223,6 +223,7 @@
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
 - [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.
 - [Fwumious Wabbit](https://github.com/outbrain/fwumious_wabbit) - Fast on-line machine learning toolkit written in Rust.
+- [Mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks.
 
 ## macOS
 
@@ -773,6 +774,7 @@
 - [bb8](https://github.com/djc/bb8) - Full-featured connection pool, designed for asynchronous connections (using tokio).
 - [Sophia](https://github.com/pchampin/sophia_rs) - Rust toolkit for RDF and Linked Data.
 - [switchyard](https://github.com/BVE-Reborn/switchyard) - Real-time compute-focused async executor with job pools, thread-local data, and priorities.
+- [tokio-uring](https://github.com/tokio-rs/tokio-uring) - tokio-uring backed runtime for Rust.
 
 ## Cargo Plugins
 

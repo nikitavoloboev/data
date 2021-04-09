@@ -140,3 +140,4 @@
 - [PlenOctrees for Real-time Rendering of Neural Radiance Fields](http://alexyu.net/plenoctrees/) ([Code](https://github.com/sxyu/volrend)) ([HN](https://news.ycombinator.com/item?id=26597419)) ([Talk](https://www.youtube.com/watch?v=LRAqeM8EjOo))
 - [Understanding and Extending Neural Radiance Fields (Jonathan T. Barron) (2020)](https://www.youtube.com/watch?v=nRyOzHpcr4Q)
 - [Rendering large 3D tilemaps with a single draw call at 3000 FPS (2021)](https://blog.paavo.me/gpu-tilemap-rendering/)
+- [Example-based texture synthesis written in Rust](https://github.com/EmbarkStudios/texture-synthesis)

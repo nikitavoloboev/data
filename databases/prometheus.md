@@ -41,3 +41,4 @@
 - [bird_exporter](https://github.com/czerwonk/bird_exporter) - Metric exporter for bird routing daemon to use with Prometheus.
 - [Prometheus SQL Exporter](https://github.com/burningalchemist/sql_exporter)
 - [Prometheus and Aegis (2021)](https://christine.website/blog/aegis-prometheus-2021-04-05)
+- [karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.

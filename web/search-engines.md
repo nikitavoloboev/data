@@ -118,3 +118,4 @@
 - [Google's Got A Secret](https://knuckleheads.club/) ([HN](https://news.ycombinator.com/item?id=26592635))
 - [Evaluating Search Algorithms (2021)](https://shopify.engineering/evaluating-search-algorithms) ([HN](https://news.ycombinator.com/item?id=26664976))
 - [Portal](https://github.com/apibillme/portal) - Full Text Search Web Service.
+- [Vald](https://vald.vdaas.org/) - Highly Scalable Distributed Vector Search Engine. ([Code](https://github.com/vdaas/vald))

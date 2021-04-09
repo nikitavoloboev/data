@@ -2,8 +2,9 @@
 
 ## Notes
 
-- [Give her an O (or more) before you actually fuck. That way if you finish early it’s not the end of the world. I would also say give her an O after you’ve cum as well.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
-- [Going off birth control increases sex drive.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
+- [Give her an orgasm (or more) before you actually have sex. That way if you finish early it’s not the end of the world.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
+- [Going off birth control can increase sex drive.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
+- There is no such thing as vaginal orgasm, only clitoral. Be gentle with it.
 
 ## Links
 

@@ -101,3 +101,4 @@
 - [State-of-the-Art Image Generative Models (2021)](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/) ([HN](https://news.ycombinator.com/item?id=26351754))
 - [GANs for tabular data](https://github.com/Diyago/GAN-for-tabular-data)
 - [Adversarial score matching and improved sampling for image generation](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)
+- [ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement (2021)](https://arxiv.org/abs/2104.02699) ([Code](https://github.com/yuval-alaluf/restyle-encoder))
