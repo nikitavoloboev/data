@@ -775,6 +775,8 @@
 - [Sophia](https://github.com/pchampin/sophia_rs) - Rust toolkit for RDF and Linked Data.
 - [switchyard](https://github.com/BVE-Reborn/switchyard) - Real-time compute-focused async executor with job pools, thread-local data, and priorities.
 - [tokio-uring](https://github.com/tokio-rs/tokio-uring) - tokio-uring backed runtime for Rust.
+- [rust-iterators](https://github.com/rustomax/rust-iterators) - Basic Rust iterator usage.
+- [uluru](https://github.com/servo/uluru) - Simple, fast, LRU cache implementation.
 
 ## Cargo Plugins
 

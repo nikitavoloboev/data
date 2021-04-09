@@ -31,3 +31,4 @@
 - [Gabe Newell on Valve's Brain Computer Interfaces and Gaming Inside the Brain (2021)](https://www.youtube.com/watch?v=tVu-96J6_I0)
 - [Top-down control of visual cortex by the frontal eye fields through oscillatory realignment (2021)](https://www.nature.com/articles/s41467-021-21979-7)
 - [Human use of high-bandwidth wireless brain-computer interface (2021)](https://www.brown.edu/news/2021-03-31/braingate-wireless) ([HN](https://news.ycombinator.com/item?id=26690126))
+- [Monkey MindPong (2021)](https://neuralink.com/blog/) ([HN](https://news.ycombinator.com/item?id=26745227))

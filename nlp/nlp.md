@@ -271,3 +271,4 @@
 - [Teachable NLP](https://ainize.ai/teachable-nlp) - GPT-2 Training as a Service.
 - [DensePhrases](https://github.com/princeton-nlp/DensePhrases) - Provides answers to your natural language questions from the entire Wikipedia in real-time.
 - [How to use GPT-3 recursively to solve general problems (2021)](https://twitter.com/sharifshameem/status/1379756878062710789)
+- [Podium](https://github.com/TakeLab/podium) - Framework agnostic Python NLP library for data loading and preprocessing.
