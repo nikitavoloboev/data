@@ -66,3 +66,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [4 Different Perspectives to Solve Problems (2020)](https://neilkakkar.com/different-perspectives-to-solve-problems.html)
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) ([Summary](https://twitter.com/philipcdavis/status/1379554692137558019))
 - [Adding is favored over subtracting in problem solving (2021)](https://www.nature.com/articles/d41586-021-00592-0) ([HN](https://news.ycombinator.com/item?id=26727878))
+- [How to Learn Complex Things Quickly: A Guide (2021)](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
