@@ -86,7 +86,7 @@
 - [sfaira](https://github.com/theislab/sfaira) - Data and model repository for single-cell data.
 - [Theis Lab](https://www.helmholtz-muenchen.de/icb/) - Institute of Computational Biology. ([GitHub](https://github.com/theislab))
 - [PostEra](https://postera.ai/) - Medicinal Chemistry Powered by Machine Learning.
-- [Bioregistry](https://github.com/cthoyt/bioregistry) - Integrative registry of biological databases, ontologies, and nomenclatures.
+- [Bioregistry](https://github.com/bioregistry/bioregistry) - Integrative meta-registry of biological databases, ontologies, and nomenclatures.
 - [Nature Biotechnology](https://www.nature.com/nbt/)
 - [PyMOL](https://pymol.org/) - Molecular visualization system. ([Code](https://github.com/schrodinger/pymol-open-source))
 - [Bioinformatics Chat](https://bioinformatics.chat/) - Podcast about computational biology, bioinformatics, and next generation sequencing.
