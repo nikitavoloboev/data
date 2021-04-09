@@ -45,3 +45,4 @@
 - [New Algorithm Breaks Speed Limit for Solving Linear Equations (2021)](https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/) ([HN](https://news.ycombinator.com/item?id=26393795))
 - [Mathematicians Inch Closer to Matrix Multiplication Goal (2021)](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
 - [Printing algebraic numbers](https://fredrikj.net/blog/2021/03/printing-algebraic-numbers/)
+- [Tasty Bits of Several Complex Variables](https://www.jirka.org/scv/) ([Code](https://github.com/jirilebl/scv))

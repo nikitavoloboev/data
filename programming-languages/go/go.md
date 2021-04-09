@@ -457,3 +457,4 @@ Go promotes composition over inheritance.
 - [Understanding Allocations: the Stack and the Heap (2019)](https://www.youtube.com/watch?v=ZMZpH4yT7M0)
 - [Why people hate Go? (2021)](https://www.reddit.com/r/golang/comments/mjhf5h/why_people_hate_go/)
 - [Ask HN: Are you using Go for web development? (2021)](https://news.ycombinator.com/item?id=26576330)
+- [Generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)

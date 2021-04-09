@@ -274,3 +274,4 @@
 - [Kuroko](https://kuroko-lang.github.io/) - Dynamic, bytecode-compiled programming language and a dialect of Python. ([Code](https://github.com/kuroko-lang/kuroko))
 - [IPython as a System Shell](https://ipython.readthedocs.io/en/stable/interactive/shell.html) ([HN](https://news.ycombinator.com/item?id=26711434))
 - [IPython](https://github.com/ipython/ipython) - Productive Interactive Computing. ([Docs](https://ipython.readthedocs.io/en/stable/))
+- [Jurigged](https://github.com/breuleux/jurigged) - Hot code reloading for Python. ([HN](https://news.ycombinator.com/item?id=26753190))

@@ -49,3 +49,4 @@
 - [Flutter 2 (2021)](https://developers.googleblog.com/2021/03/announcing-flutter-2.html) ([HN](https://news.ycombinator.com/item?id=26332944)) ([Keynote](https://www.youtube.com/watch?v=zSbsIiluixw))
 - [Blobs](https://blobs.app/) - Generate beautiful blob shapes for web and flutter apps.
 - [Cocoon](https://github.com/flutter/cocoon) - Flutter's build coordinator and aggregator.
+- [Realm Dart](https://github.com/realm/realm-dart)

@@ -115,3 +115,4 @@
 - [widget-cookiecutter](https://github.com/jupyter-widgets/widget-cookiecutter) - Template for creating a custom Jupyter widget project.
 - [Jupyter Widget Tutorial](https://github.com/jupyter-widgets/tutorial)
 - [Improvements to Jupyter Notebooks (2021)](https://twitter.com/isosteph/status/1376563122605944832)
+- [Voila](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone web applications.

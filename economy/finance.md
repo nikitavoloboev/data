@@ -95,3 +95,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [aat](https://github.com/AsyncAlgoTrading/aat) - Asynchronous, event-driven algorithmic trading in Python and C++.
 - [Tips to diversify income with passive income streams (2021)](https://twitter.com/johndsaunders/status/1379390180445065219)
 - [Checkout.com](https://www.checkout.com/) - Accept Payments Online.
+- [Interactive financial modeling (2021)](https://www.youtube.com/watch?v=h1BGy6CV1co)
