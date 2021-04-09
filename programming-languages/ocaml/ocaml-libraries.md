@@ -87,6 +87,7 @@
 - [Fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml.
 - [eioio](https://github.com/ocaml-multicore/eioio) - Effects-based direct-style IO for multicore OCaml.
 - [RES](https://github.com/mmottl/res) - OCaml library for resizable arrays and strings.
+- [Preface](https://github.com/xvw/preface) - Opinionated library designed to facilitate the handling of recurring functional programming idioms in OCaml.
 
 ## Links
 

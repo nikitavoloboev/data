@@ -85,3 +85,4 @@
 - [Atmo](https://github.com/suborbital/atmo) - Build function-based web services using your favorite languages, powered by WebAssembly. ([Docs](https://atmo.suborbital.dev/))
 - [The State of the Serverless Art (2021)](https://medium.com/riselab/the-state-of-the-serverless-art-78a4f02951eb)
 - [Introduction to Serverless Go with OpenFaaS (2021)](https://www.youtube.com/watch?v=kFnTiRCYzCM)
+- [Modern, faster Netlify Functions: New bundler and JavaScript features (2021)](https://www.netlify.com/blog/2021/04/02/modern-faster-netlify-functions/)

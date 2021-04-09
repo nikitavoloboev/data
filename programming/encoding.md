@@ -23,4 +23,4 @@
 - [Executable PNGs (2020)](https://djharper.dev/post/2020/12/26/executable-pngs/) ([Lobsters](https://lobste.rs/s/npswqw/executable_pngs)) ([HN](https://news.ycombinator.com/item?id=25543191))
 - [Unicode Proposal to Encode Subscripts/Superscripts for Mathematical Programming](https://github.com/stevengj/subsuper-proposal)
 - [Emoji Under the Hood](https://tonsky.me/blog/emoji/) ([HN](https://news.ycombinator.com/item?id=26574008))
-- [The history of UTF-8 as told by Rob Pike](http://doc.cat-v.org/bell_labs/utf-8_history) ([Lobsters](https://lobste.rs/s/jo5he6/history_utf_8_as_told_by_rob_pike))
+- [The history of UTF-8 as told by Rob Pike](http://doc.cat-v.org/bell_labs/utf-8_history) ([Lobsters](https://lobste.rs/s/jo5he6/history_utf_8_as_told_by_rob_pike)) ([HN](https://news.ycombinator.com/item?id=26735958))
