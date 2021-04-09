@@ -45,3 +45,4 @@
 - [python-blosc](https://github.com/Blosc/python-blosc) - Python wrapper for the extremely fast Blosc compression library.
 - [zip](https://github.com/kuba--/zip) - Portable, simple zip library written in C.
 - [Compressing data with Parquet (2021)](https://dev.l1x.be/posts/2021/03/08/compressing-data-with-parquet/)
+- [Lossless Text Compression](https://bilalonureskili.com/files/LTC_en.pdf) ([HN](https://news.ycombinator.com/item?id=26722960))
