@@ -324,3 +324,4 @@
 - [Databunker](https://databunker.org/) - Secure storage for personal records built to comply with GDPR. ([Code](https://github.com/securitybunker/databunker)) ([HN](https://news.ycombinator.com/item?id=26690279))
 - [Database options (2021)](https://twitter.com/ryanflorence/status/1379285868611915780)
 - [Database Deep Dives with Andy Pavlo (2021)](https://www.ibm.com/cloud/blog/database-deep-dives-with-andy-pavlo)
+- [Graphs with Spidey DB (2021)](https://kubej.com/graphs-with-spidey-db/) ([HN](https://news.ycombinator.com/item?id=26753830))
