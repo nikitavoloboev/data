@@ -46,6 +46,7 @@
 - [When I update dependencies, I generally try to check each update to see what has changed. This is where using a lot of dependencies becomes expensive, because it takes more work to update them. I don’t really see this process bring automated, unless a web-of-trust like thing got popular. But I’m not holding my breath.](https://lobste.rs/s/vgtkw4/automate_dependency_updates_anyone)
 - [99% of what I do in a large codebase is find pre-existing examples, copy-paste structure, fill in the holes and clean up. That's it.](https://twitter.com/deech/status/1366859264732635148)
 - [Don't comment bad code. Rewrite it.](https://twitter.com/CodeWisdom/status/1380234043581681677)
+- [Universal property of software is that it evolves. And since human beings (us, developers) make it evolve, we need to make sure that making evolve will be as easy as possible, and as little error-prone as possible of course.](https://www.reddit.com/r/programming/comments/2wau2x/maslows_pyramid_of_code_review/)
 
 ## Links
 

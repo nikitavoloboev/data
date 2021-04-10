@@ -212,3 +212,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Meet with Spot](https://www.meetwithspot.com/) - Step away from the screen and try a walking meeting with Spot.
 - [Jellyfin](https://jellyfin.org/) - Free Software Media System. ([Desktop Code](https://github.com/jellyfin/jellyfin-desktop)) ([GitHub](https://github.com/jellyfin))
 - [cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera.
+- [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4) ([HN](https://news.ycombinator.com/item?id=26746537))

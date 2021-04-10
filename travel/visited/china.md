@@ -21,4 +21,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Vanishing Asia](https://www.kickstarter.com/projects/kk-org/vanishing-asia) - Set of 3 books, with 1,000 pages, that captures Asia’s disappearing traditions and vanishing designs, in 35 countries.
 - [What is the world going to be like when China’s economy is far larger than the US’s? (2021)](https://www.reddit.com/r/geopolitics/comments/mfghjh/what_is_the_world_going_to_be_like_when_chinas/)
 - [Is cheaper labor the only reason countries like China and India can produce certain consumer goods more cheaply than the United States? (2021)](https://www.reddit.com/r/AskEconomics/comments/mgvpea/is_cheaper_labor_the_only_reason_countries_like/)
-- [Peter Thiel on US-China Relations (2021)](https://www.youtube.com/watch?v=SJcKWtiFzIY) ([Tweet](https://twitter.com/wolfejosh/status/1379989909583360002))
+- [Peter Thiel on US-China Relations (2021)](https://www.youtube.com/watch?v=SJcKWtiFzIY) ([Tweet](https://twitter.com/wolfejosh/status/1379989909583360002)) ([Transcript](https://nixonseminar.com/2021/04/the-nixon-seminar-april-6-2021-transcript/))
