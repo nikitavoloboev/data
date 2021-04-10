@@ -1,8 +1,8 @@
 # Cryptocurrencies
 
-I think [Nano](nano.md) is the future of money if compared to any other coin based off its features. Whilst [Ethereum](../databases/blockchain/ethereum.md)/[Tezos](../databases/blockchain/tezos.md) are great for building out more complex decentralized apps.
+I think [Nano](nano.md) or [Solana](https://solana.com/) is the future of digital money if compared to any other coin based on features. Whilst [Tezos](../databases/blockchain/tezos.md) is great for building out more complex decentralized apps due to its [efficient working proof of stake consensus algorithm](https://tezos.gitlab.io/008/proof_of_stake.html).
 
-It's a matter of time that [Bitcoin](bitcoin.md) with its horrible PoW consensus that [wastes electricity](https://www.youtube.com/watch?v=f0HC1Udk6-E) and its slow & expensive transactions will no longer be used (even as a store of value).
+It's a shame that [Bitcoin](bitcoin.md) is still used to make [wasteful & slow transactions](https://www.youtube.com/watch?v=f0HC1Udk6-E) with its [horrible PoW consensus algorithm](https://www.youtube.com/watch?v=bBC-nXj3Ng4).
 
 ## Interesting
 

@@ -11,6 +11,7 @@
 - [I told my ex of 4 years he’d always have a piece of my heart & i can’t remember his last name rn](https://twitter.com/MichaelaOkla/status/1371708729519796227)
 - [All of my plans for the future involve me waking up tomorrow with a sudden sense of discipline and adherence to routine that i have never displayed even once in my life.](https://twitter.com/rmccarthyjames/status/1318969146898612224)
 - [I told my wife she should embrace her mistakes.. She gave me a hug.](https://twitter.com/Dadsaysjokes/status/1376980673353891843)
+- [“The worst they can say is no” okay but that like devastates me when it happens](https://twitter.com/ginnyhogan_/status/1380892199991324678)
 
 ## Links
 

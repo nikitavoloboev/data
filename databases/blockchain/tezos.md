@@ -13,8 +13,9 @@
 - [Arthur Breitman's blog](https://ex.rs/) - Creator of tezos.
 - [Tezos code](https://gitlab.com/tezos/tezos)
 - [Tezos — a self-amending crypto-ledger White Paper (2014)](https://tezos.com/static/white_paper-2dc8c02267a8fb86bd67a108199441bf.pdf) ([Code](https://github.com/tezos/tezos-papers))
-- [Tezos Docs](https://assets.tqtezos.com/docs/intro/) ([Code](https://github.com/tqtezos/assets.tqtezos.com))
+- [Digital Assets on Tezos Docs](https://assets.tqtezos.com/docs/intro/) ([Code](https://github.com/tqtezos/assets.tqtezos.com))
 - [Tezos Developer Portal](https://developers.tezos.com/)
+- [Tezos Developer Docs](https://tezos.gitlab.io/index.html)
 - [TzKT Pro](https://pro.tzkt.io/) - Tezos blockchain API on top of TzKT and PostgREST enabling sophisticated queries via convenient client libraries.
 - [Virtual Discussion with Emin Gün Sirer and Kathleen Breitman on Tezos (2020)](https://www.youtube.com/watch?v=5pvniYzV5hc)
 - [Tezos Agora](https://www.tezosagora.org/) - Place to discuss and learn about the long-term direction of the Tezos project.

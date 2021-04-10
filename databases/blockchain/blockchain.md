@@ -1,6 +1,6 @@
 # [Blockchain](http://en.wikipedia.org/wiki/Blockchain)
 
-In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list). Which can be used to solve the double spending problem in cryptocurrencies using proof of work (or other methods) and a persistent chain of records (blocks mined).
+In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list). Which can be used to solve the double spending problem in cryptocurrencies using proof of stake (or other methods) and a persistent chain of records (blocks mined).
 
 ## Consensus algorithms
 
