@@ -103,3 +103,4 @@
 - [Some opinionated thoughts on SQL databases (2021)](https://blog.nelhage.com/post/some-opinionated-sql-takes/) ([Lobsters](https://lobste.rs/s/jb8jk1/some_opinionated_thoughts_on_sql))
 - [How to create a 1M record table with a single query (2021)](https://antonz.org/random-table/)
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+- [Thinking in Questions with SQL (2021)](https://benjiweber.co.uk/blog/2021/03/21/thinking-in-questions-with-sql/)

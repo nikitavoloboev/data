@@ -36,3 +36,4 @@
 - [Logarithmic Maps of the Universe (2005)](https://www.astro.princeton.edu/universe/) ([HN](https://news.ycombinator.com/item?id=26245502))
 - [What Is the Geometry of the Universe? (2020)](https://www.quantamagazine.org/what-is-the-geometry-of-the-universe-20200316/)
 - [Is the Universe a Hologram? (2021)](https://www.youtube.com/watch?v=T4DAGabiGms)
+- [The Expansion of the Universe (2021)](https://johncarlosbaez.wordpress.com/2021/04/09/the-expansion-of-the-universe/) ([HN](https://news.ycombinator.com/item?id=26755045))
