@@ -62,3 +62,4 @@
 - [Scientists create simple synthetic cell (2021)](https://www.nist.gov/news-events/news/2021/03/scientists-create-simple-synthetic-cell-grows-and-divides-normally) ([HN](https://news.ycombinator.com/item?id=26632004))
 - [Modern Statistics for Modern Biology](https://web.stanford.edu/class/bios221/book/index.html)
 - [Cell Size and Scale](https://learn.genetics.utah.edu/content/cells/scale/)
+- [How a carnivorous mushroom poisons its prey (2021)](https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/) ([HN](https://news.ycombinator.com/item?id=26745892))

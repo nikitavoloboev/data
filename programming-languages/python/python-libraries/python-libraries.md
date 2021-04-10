@@ -379,6 +379,7 @@
 - [python devtools](https://github.com/samuelcolvin/python-devtools) - Dev tools for python.
 - [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [xarray-dataclasses](https://github.com/astropenguin/xarray-dataclasses) - xarray extension for typed DataArray and Dataset creation.
+- [printstack](https://github.com/morefigs/printstack) - Python package that adds stack trace links to the print function. ([HN](https://news.ycombinator.com/item?id=26747743))
 
 ## Links
 
@@ -400,4 +401,4 @@
 - [awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - Curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources.
 - [conda-press](https://github.com/conda-incubator/conda-press) - Press conda packages into wheels.
 - [cibuildwheel](https://github.com/joerick/cibuildwheel) - Build Python wheels for all the platforms on CI with minimal configuration.
-- [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
+- [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/) ([HN](https://news.ycombinator.com/item?id=26733423))

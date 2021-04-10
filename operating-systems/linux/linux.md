@@ -288,3 +288,4 @@
 - [Fed up with the Mac, I spent six months with a Linux laptop (2021)](https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html) ([Lobsters](https://lobste.rs/s/pjkafl/fed_up_with_mac_i_spent_six_months_with)) ([HN](https://news.ycombinator.com/item?id=26677035))
 - [Arch Linux installer - guided, templates etc](https://github.com/archlinux/archinstall)
 - [Wayland Explorer](https://wayland.app/protocols/) - Wayland Protocol Documentation. ([Code](https://github.com/vially/wayland-explorer))
+- [Ask HN: Why is the Linux community struggling to implement hibernation? (2021)](https://news.ycombinator.com/item?id=26739220)

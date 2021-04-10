@@ -118,5 +118,6 @@
 - [Google's Got A Secret](https://knuckleheads.club/) ([HN](https://news.ycombinator.com/item?id=26592635))
 - [Evaluating Search Algorithms (2021)](https://shopify.engineering/evaluating-search-algorithms) ([HN](https://news.ycombinator.com/item?id=26664976))
 - [Portal](https://github.com/apibillme/portal) - Full Text Search Web Service.
-- [Vald](https://vald.vdaas.org/) - Highly Scalable Distributed Vector Search Engine. ([Code](https://github.com/vdaas/vald))
+- [Vald](https://vald.vdaas.org/) - Highly Scalable Distributed Vector Search Engine. ([Code](https://github.com/vdaas/vald)) ([HN](https://news.ycombinator.com/item?id=26735300))
 - [Awesome Vector Search Engine](https://github.com/currentsapi/awesome-vector-search)
+- [OpenGameArt Search + Reverse Image Search](https://emh.lart.no/ogasearch/) - Reverse image search for pixel art. ([Code](https://github.com/emnh/PixelArtSearch)) ([HN](https://news.ycombinator.com/item?id=26735700))

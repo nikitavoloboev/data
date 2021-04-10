@@ -46,4 +46,4 @@
 - [WebRTC Next Version Use Cases](https://w3c.github.io/webrtc-nv-use-cases/) ([Code](https://github.com/w3c/webrtc-nv-use-cases))
 - [Trystero](https://github.com/dmotz/trystero) - Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase.
 - [webrtc-unreliable](https://github.com/kyren/webrtc-unreliable) - Rust library which allows you to write a game server with browser based clients and UDP-like networking.
-- [Pear](https://github.com/sepfy/pear) - WebRTC Toolkit for IoT/Embedded Device.
+- [Pear](https://github.com/sepfy/pear) - WebRTC Toolkit for IoT/Embedded Device. ([HN](https://news.ycombinator.com/item?id=26735423))

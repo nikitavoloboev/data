@@ -44,3 +44,4 @@
 - [Lessons from Fuzzing a Compiler for a Year (2021)](https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/)
 - [SQLfuzz](https://github.com/PumpkinSeed/sqlfuzz) - Simple SQL table fuzzing.
 - [Tavor](https://github.com/zimmski/tavor) - Generic fuzzing and delta-debugging framework.
+- [What Is Fuzz Testing? (2021)](https://blog.fuzzbuzz.io/what-is-fuzz-testing/) ([HN](https://news.ycombinator.com/item?id=26731751))

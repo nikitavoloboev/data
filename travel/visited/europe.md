@@ -10,3 +10,4 @@
 - [TaxEU Reddit](https://www.reddit.com/r/TaxEU/) - Dedicated to taxation in the EU/EEA and neighbors.
 - [Ask HN: How to relocate to Europe as a software developer (2021)](https://news.ycombinator.com/item?id=26722428)
 - [What is one European historical event that you (shamefully) know very little about? (2021)](https://www.reddit.com/r/AskEurope/comments/mn1d9e/what_is_one_european_historical_event_that_you/)
+- [European Urbanism and High-Speed Rail (2021)](https://pedestrianobservations.com/2021/04/04/european-urbanism-and-high-speed-rail/) ([HN](https://news.ycombinator.com/item?id=26746487))

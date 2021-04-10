@@ -243,3 +243,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Plan](https://github.com/synek/git-plan) - Better workflow for git.
 - [Those pesky pull request reviews (2021)](https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/) ([Tweet](https://twitter.com/jessitron/status/1376553051398488064))
 - [On Git Commit Messages](https://github.com/michaeljones/on-commit-messages)
+- [Commits are snapshots not diffs (2020)](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) ([HN](https://news.ycombinator.com/item?id=26741829))
+- [A look how branches work in Git (2021)](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) ([HN](https://news.ycombinator.com/item?id=26735628))

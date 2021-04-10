@@ -65,3 +65,4 @@
 - [Inside SimpliSafe Alarm System (2021)](https://medium.com/tenable-techblog/inside-simplisafe-alarm-system-291a8c3e4d89)
 - [The S in IoT is for Security](https://puri.sm/posts/the-s-in-iot-is-for-security/) ([HN](https://news.ycombinator.com/item?id=26540007))
 - [Zabbix](https://www.zabbix.com/) - Enterprise-Class Open Source Network Monitoring Solution.
+- [HStreamDB](https://hstream.io/) - Streaming database built for IoT data storage and real-time processing. ([Code](https://github.com/hstreamdb/hstream/))

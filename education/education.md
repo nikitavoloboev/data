@@ -68,3 +68,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Questions for Potential Advisors](https://twitter.com/PaolaVFigueroa/status/1312157953550479361)
 - [How to increase viewpoint diversity in academia](https://twitter.com/conor64/status/1379530257116491777)
 - [Oppia](https://www.oppia.org/) - Free, Online and Interactive Lessons for Anyone. ([Code](https://github.com/oppia/oppia))
+- [Ask HN: Moving to US from Argentina for college. Any advice for a newcomer? (2021)](https://news.ycombinator.com/item?id=26728967)

@@ -17,4 +17,4 @@
 - [How do I get started with F#? (2021)](https://www.compositional-it.com/news-blog/how-do-i-get-started-with-f/)
 - [Bolero](https://github.com/fsbolero/Bolero) - Set of tools and libraries to run F# applications in WebAssembly using Blazor.
 - [F# Language and Core Library Suggestions](https://github.com/fsharp/fslang-suggestions)
-- [A brief F# exploration (2021)](https://notes.srid.ca/fsharp-exploration)
+- [A brief F# exploration (2021)](https://notes.srid.ca/fsharp-exploration) ([HN](https://news.ycombinator.com/item?id=26739501))

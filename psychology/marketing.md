@@ -98,7 +98,7 @@
 - [Magical growth loops: loops where most of your growth comes from existing users (2020)](https://twitter.com/lennysan/status/1328739791567872001)
 - [120+ Resources for Learning Sales](https://www.loxoapp.com/120_sales_resources)
 - [How Duolingo grew from 5M to 200M users in 5 years using product-led growth (2020)](https://twitter.com/Eepsita/status/1333407747111407621)
-- [Standing Out in 2020: Doing Content Right (2020)](https://gumroad.com/l/doing-content-right) ([Resources Directory](https://www.notion.so/The-Doing-Content-Right-Directory-b170d7682d9f48aca2d946479fd27809)) ([Videos](https://www.youtube.com/playlist?app=desktop&list=PLDJ41lE0dRgopf_3Et1zJMzYYXAL8eYPL))
+- [Standing Out in 2020: Doing Content Right (2020)](https://gumroad.com/l/doing-content-right) ([Resources Directory](https://www.notion.so/The-Doing-Content-Right-Directory-b170d7682d9f48aca2d946479fd27809)) ([Videos](https://www.youtube.com/playlist?app=desktop&list=PLDJ41lE0dRgopf_3Et1zJMzYYXAL8eYPL)) ([Web](https://doingcontentright.carrd.co/))
 - [GrowthList](https://www.thegrowthlist.co/) - Browse +120 proven tactics to boost your growth.
 - [Autopilot](https://www.autopilothq.com/) - Marketing automation software made visual.
 - [Getting our first 1000 users in one day (2020)](https://francescodilorenzo.com/typefully-launch) ([HN](https://news.ycombinator.com/item?id=25374319))
@@ -112,6 +112,7 @@
 - [CopyAI](https://www.copy.ai/) - Create Marketing Copy In Seconds.
 - [Framework for prioritizing marketing strategy (2021)](https://twitter.com/theandreboso/status/1370101537893146627)
 - [Ask HN: Where do you find potential customers to validate your idea / MVP? (2021)](https://news.ycombinator.com/item?id=26644616)
+- [Ask HN: I built it, nobody came, now what? (2021)](https://news.ycombinator.com/item?id=26734079)
 
 ## Images
 

@@ -90,6 +90,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Mimosa](https://github.com/udem-dlteam/mimosa) - Operating system consists of a minimal kernel built on C++ and Scheme.
 - [daintree](https://github.com/kivikakk/daintree) - ARMv8-A operating system, plus a UEFI bootloader, all written in Zig.
 - [AROS](http://www.aros.org/) - Lightweight, efficient, and flexible desktop operating system. ([HN](https://news.ycombinator.com/item?id=26250504))
+- [M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores.
 
 ## Notes
 
@@ -208,3 +209,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Domain/OS Design Principles (1989)](http://bitsavers.org/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf)
 - [Build your own: linker in Rust](https://github.com/andrewhalle/byo-linker) ([Reddit](https://www.reddit.com/r/rust/comments/mdtsk5/build_your_own_linker/))
 - [The Distributed Operating System Void with Kubernetes (2021)](https://nivenly.com/lib/2021-04-02-operating-system-interface/) ([Reddit](https://www.reddit.com/r/kubernetes/comments/miw0og/the_distributed_operating_system_void_with/))
+- [Microkernel.info](http://www.microkernel.info/) - List of active free, open source microkernel projects.

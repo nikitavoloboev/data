@@ -23,7 +23,7 @@
 
 ## ML
 
-- [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks.
+- [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks. ([HN](https://news.ycombinator.com/item?id=26737956))
 
 ## Other
 

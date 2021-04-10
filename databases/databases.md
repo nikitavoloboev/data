@@ -325,3 +325,4 @@
 - [Database options (2021)](https://twitter.com/ryanflorence/status/1379285868611915780)
 - [Database Deep Dives with Andy Pavlo (2021)](https://www.ibm.com/cloud/blog/database-deep-dives-with-andy-pavlo)
 - [Graphs with Spidey DB (2021)](https://kubej.com/graphs-with-spidey-db/) ([HN](https://news.ycombinator.com/item?id=26753830))
+- [dbdiagram.io](https://dbdiagram.io/home) - Database Relationship Diagrams Design Tool.

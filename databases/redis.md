@@ -53,6 +53,6 @@
 - [Awesome Redis](https://github.com/JamzyWang/awesome-redis)
 - [Using Redis as an LRU cache](https://redis.io/topics/lru-cache)
 - [Using Serverless Redis with Next.js (2021)](https://www.youtube.com/watch?v=FytxaSVQROc)
-- [We scaled the GitHub API with a sharded, replicated rate limiter in Redis (2021)](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
+- [We scaled the GitHub API with a sharded, replicated rate limiter in Redis (2021)](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/) ([HN](https://news.ycombinator.com/item?id=26738417))
 - [redis-x-stream](https://github.com/calebboyd/redis-x-stream) - AsyncIterable interface for reading redis streams.
 - [Redis clone in TypeScript (2020)](https://kubej.com/redis-clone-in-typescript/)
