@@ -121,3 +121,4 @@
 - [Clojure Koans](http://clojurekoans.com/)
 - [Returns a map (2021)](https://clojurearcana.com/returns-a-map/)
 - [clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates.
+- [ClojureVerse](https://clojureverse.org/)
