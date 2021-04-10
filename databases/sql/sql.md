@@ -105,3 +105,4 @@
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [Thinking in Questions with SQL (2021)](https://benjiweber.co.uk/blog/2021/03/21/thinking-in-questions-with-sql/)
 - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices) ([HN](https://news.ycombinator.com/item?id=26762206))
+- [Arctype](https://arctype.com/) - Fast and easy-to-use SQL client.

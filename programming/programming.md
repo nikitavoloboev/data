@@ -48,6 +48,7 @@
 - [Don't comment bad code. Rewrite it.](https://twitter.com/CodeWisdom/status/1380234043581681677)
 - [Universal property of software is that it evolves. And since human beings (us, developers) make it evolve, we need to make sure that making evolve will be as easy as possible, and as little error-prone as possible of course.](https://www.reddit.com/r/programming/comments/2wau2x/maslows_pyramid_of_code_review/)
 - [The developers who seem to have all the answers? They aren’t smarter than you. They’ve just seen that before.](https://twitter.com/laurieontech/status/1380196421421428736)
+- [Why do programmers reach for step-based debugging when tracing (print-based debugging) is generally more useful?](https://twitter.com/sunshowers6/status/1380947800309985283)
 
 ## Links
 
