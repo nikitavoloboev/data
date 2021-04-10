@@ -221,3 +221,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [hostctl](https://github.com/guumaster/hostctl) - Gives you more control over the use of your hosts file.
 - [Lobsters: What do you use for your home networking setup? (2021)](https://lobste.rs/s/dbr7yu/what_do_you_use_for_your_home_networking)
 - [ifconfig.co](https://ifconfig.co/) - What is my IP address?
+- [Network Calculus: A Comprehensive Guide (2016)](https://mediatum.ub.tum.de/doc/1328613/1328613.pdf)

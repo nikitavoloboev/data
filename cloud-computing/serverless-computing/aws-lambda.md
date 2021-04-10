@@ -63,3 +63,4 @@
 - [Serverless Full-Text Search with AWS Lambda and EFS (2021)](https://medium.com/@arsenyyankovski/serverless-full-text-search-with-aws-lambda-and-efs-cf24e1b6fe3b) ([Reddit](https://www.reddit.com/r/aws/comments/m2uzyv/serverless_fulltext_search_with_aws_lambda_and_efs/))
 - [PR Assigner](https://github.com/justeat/PRAssigner) - Swift AWS Lambda to automatically assign engineers to pull requests with a Slack integration.
 - [AWS Lambda Developer Guide](https://github.com/awsdocs/aws-lambda-developer-guide)
+- [How Lambda work? Cold starts? Firecracker? Container support? (2021)](https://www.youtube.com/watch?v=OOGV81YbuEo)
