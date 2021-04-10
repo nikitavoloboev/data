@@ -235,6 +235,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [updown.io](https://updown.io/) - Website monitoring, simple and inexpensive.
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 - [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
+- [Gauguin](https://github.com/micheleriva/gauguin) - High performances Go server for generating open graph images dynamically.
 - [Namechk](https://namechk.com/) - Username, Domain, and Trademark Search.
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
