@@ -97,3 +97,4 @@
 - [The Daily Standup Is a Waste of Time](https://buildthestage.com/the-daily-standup-is-a-waste-of-time/) ([HN](https://news.ycombinator.com/item?id=26709951))
 - [Working Backwards: Insights, Stories, and Secrets from Inside Amazon (2021)](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595/)
 - [Overcoming the Capitalist's Dilemma, with Andy Jassy, CEO of Amazon Web Services (2020)](https://www.hbs.edu/forum-for-growth-and-innovation/podcasts/disruptive-voice/Pages/podcast-details.aspx?episode=15834284)
+- [A reading list for new engineering managers (2018)](https://jacobian.org/2018/may/2/engmanager-reading-list/)

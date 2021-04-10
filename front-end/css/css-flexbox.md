@@ -24,3 +24,4 @@
 - [Building Website Headers with CSS Flexbox (2020)](https://ishadeed.com/article/website-headers-flexbox/)
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) - Cleaner, hack-free CSS. ([Code](https://github.com/philipwalton/solved-by-flexbox))
 - [How to CSS](https://www.howtocss.dev/) - Online tool to help you learn and experiment with CSS flexbox. ([Code](https://github.com/mikolajdobrucki/how-to-css))
+- [Yoga WASM](https://github.com/rickbutton/yoga-wasm) - Yoga layout engine, but in WebAssembly.

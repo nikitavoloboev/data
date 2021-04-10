@@ -135,3 +135,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [10x Security Bitcoin Guide](https://btcguide.github.io/) ([Code](https://github.com/btcguide/btcguide.github.io))
 - [BTCPay Server](https://btcpayserver.org/) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor. ([Code](https://github.com/btcpayserver/btcpayserver))
 - [How 100% trustless Bitcoin lending app can work (2021)](https://twitter.com/muneeb/status/1379076213357039622)
+- [Breez](https://breez.technology/) - Lightning Fast Bitcoin Payments. ([Mobile Client Code](https://github.com/breez/breezmobile))

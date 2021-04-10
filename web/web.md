@@ -21,7 +21,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Ask HN: Where can one learn about the history of the internet and the protocols?](https://news.ycombinator.com/item?id=17607095)
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Making dev.to Incredibly fast](https://dev.to/ben/making-devto-insanely-fast)
-- [The Most Annoying Website - Feross Aboukhadijeh (2018)](https://www.youtube.com/watch?v=QFZ-pwErSl4)
+- [The Most Annoying Website - Feross Aboukhadijeh (2018)](https://www.youtube.com/watch?v=QFZ-pwErSl4) ([Code](https://github.com/feross/TheAnnoyingSite.com))
 - [What, exactly, is the DOM? (2018)](https://bitsofco.de/what-exactly-is-the-dom/)
 - [web.dev](https://web.dev/) - Explore structured curriculums that include both guides and hands-on codelabs. [Code](https://github.com/GoogleChrome/web.dev).
 - [Ask HN: Go-to web stack today? (2019)](https://news.ycombinator.com/item?id=18829557)
