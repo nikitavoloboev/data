@@ -208,6 +208,7 @@
 - [Kitura](https://github.com/Kitura/Kitura) - Swift web framework and HTTP server. ([Web](https://www.kitura.dev/))
 - [Apodini](https://github.com/Apodini/Apodini) - Declarative, composable framework to build web services using Swift.
 - [UDPBroadcastConnection](https://github.com/gunterhager/UDPBroadcastConnection) - Framework to send UDP broadcast messages and listen to responses using a Dispatch source.
+- [Swim](https://github.com/robb/Swim) - DSL for writing HTML in Swift.
 
 ## SwiftUI
 

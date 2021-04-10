@@ -128,7 +128,8 @@
 - [Game UI Database](https://www.gameuidatabase.com/) - Reference tool for interface designers.
 - [Ask HN: I'm quitting my job, will create a game – any advice? (2020)](https://news.ycombinator.com/item?id=25376714)
 - [The Lighting of Need for Speed Heat in Frostbite (2020)](https://www.youtube.com/watch?v=K-CIiBpOI0o)
-- [ink](https://www.inklestudios.com/ink/) - Narrative scripting language. ([Code](https://github.com/inkle/ink))
+- [Ink](https://www.inklestudios.com/ink/) - Narrative scripting language. ([Code](https://github.com/inkle/ink))
+- [Inky](https://github.com/inkle/inky) - Editor for ink: inkle's narrative scripting language.
 - [TIC-80](https://github.com/nesbox/TIC-80) - Fantasy computer for making, playing and sharing tiny games. ([Web](https://tic80.com/))
 - [Making a Game in 48 hours with Rust and WebAssembly (2020)](https://ianjk.com/rust-gamejam/)
 - [Build tools for a multiplayer browser game (2021)](https://jeffanddom.com/devlog/2021-01-07-how-jeff-and-dom-make-the-game/)
