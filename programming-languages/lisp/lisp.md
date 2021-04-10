@@ -123,3 +123,4 @@
 - [Datalisp: Overview of design decisions (2021)](https://cloudflare-ipfs.com/ipfs/Qmeg9cAPVC18bdGuQtGJKtP7VcRQErnCApbcbgn1FaSq9T/datalisp.pdf)
 - [Lisp as an Alternative to Java (2000)](https://norvig.com/java-lisp.html) ([HN](https://news.ycombinator.com/item?id=26720403))
 - [Spaik](https://github.com/snyball/spaik) - Lisp compiler/VM with a moving GC written in Rust.
+- [Orion](https://github.com/Wafelack/orion) - High level, purely functional Lisp dialect written in Rust.

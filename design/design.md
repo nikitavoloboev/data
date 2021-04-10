@@ -166,4 +166,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [xLayers](https://xlayers.dev/#/home) - Generate code from your design. ([Code](https://github.com/xlayers/xlayers))
 - [Bloo Lo-Fi Wireframe Kit](https://bloouikit.com/)
 - [illlustrations](https://illlustrations.co/) - Open source illustrations kit.
-- [Alexander Christopher: Notes on the Synthesis of Form (1964)](https://monoskop.org/images/f/ff/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf) - Book by Christopher Alexander about the process of design.
+- [Alexander Christopher: Notes on the Synthesis of Form (1964)](https://monoskop.org/images/f/ff/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf) - Book about the process of design.

@@ -24,6 +24,7 @@
 - [Ludomotion](https://www.ludomotion.com/) - Amsterdam based, indie game studio.
 - [Team Cherry](https://teamcherry.com.au/)
 - [Snowman](https://www.builtbysnowman.com/) - Small studio handcrafting big ideas.
+- [Relic Entertainment](https://www.relic.com/)
 
 ## Notes
 
