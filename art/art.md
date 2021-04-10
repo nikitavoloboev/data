@@ -357,6 +357,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 ## Notes
 
 - [Hitofude Ryuu = the art of painting a dragon with a single stroke](https://www.youtube.com/watch?v=2z8n1UiWQ6c)
+- [Stop thinking about art works as objects, and start thinking about them as triggers for experiences.](https://twitter.com/dark_shark/status/1380725473869635585)
 
 ## Links
 

@@ -55,3 +55,4 @@
 - [HuJSON](https://github.com/tailscale/hujson) - JSON for Humans (comments and trailing commas).
 - [An Exploration of JSON Interoperability Vulnerabilities (2021)](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)
 - [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/) ([Code](https://github.com/json-schema-org/understanding-json-schema))
+- [quicktype](https://app.quicktype.io/) - Instantly parse JSON in any language. ([Tweet](https://twitter.com/steipete/status/1380860288791117835))
