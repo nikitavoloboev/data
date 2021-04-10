@@ -78,3 +78,4 @@
 - [HULL](https://github.com/ndimatteo/HULL) - Headless Shopify Starter – powered by Next.js + Sanity.io.
 - [Kaiyo](https://kaiyo.com/) - Buy and Sell Used Furniture.
 - [Shopify: The E-commerce On-Ramp (2021)](https://www.joincolossus.com/episodes/85946038/danco-shopify-the-e-commerce-on-ramp)
+- [Backflip](https://www.backflip.com/) - Instantly sell your old electronics.

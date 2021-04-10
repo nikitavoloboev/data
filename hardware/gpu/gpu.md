@@ -48,3 +48,4 @@
 - [LambdaCube 3D](https://github.com/lambdacube3d/lambdacube-compiler) - Haskell-like purely functional domain specific language for programming the GPU. ([Web](http://lambdacube3d.com/))
 - [Apple GPU architecture docs and tools](https://github.com/dougallj/applegpu)
 - [GPA](https://github.com/Jokeren/GPA) - GPU Performance Advisor.
+- [Vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs. ([HN](https://news.ycombinator.com/item?id=26754351))
