@@ -62,3 +62,4 @@
 - [First long solo trip (Female) - possible destinations (2021)](https://www.reddit.com/r/solotravel/comments/mfyjws/first_long_solo_trip_female_possible_destinations/)
 - [Long term visas](https://longtermvisas.com/) - Travel decisions, simplified.
 - [Best country in Latin America to enjoy Nature? (2021)](https://www.reddit.com/r/solotravel/comments/mjuwsd/best_country_in_latin_america_to_enjoy_nature/)
+- [What is the best English speaking country to leanfire in your opinion? (2021)](https://www.reddit.com/r/leanfire/comments/mnq41m/what_is_the_best_english_speaking_country_to/)
