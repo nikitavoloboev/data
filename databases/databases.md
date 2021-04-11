@@ -168,6 +168,7 @@
 ## Notes
 
 - [Database queries are especially fast if you copy the database into RAM.](https://twitter.com/raymondh/status/1380240448606756865)
+- [More than likely images/videos are stored in something like AWS S3 and the database would just have links to them. It is possible to store an image straight up in a database though but it would be as a blob/buffer data that is then turned back into an image on the client. The blob/base64 string way can be slower/probably not recommended. For fast load/performance they'd use caching/cdn.](https://www.reddit.com/r/AskProgramming/comments/moj0rb/how_do_websites_store_videos_and_images_can_this/)
 
 ## Links
 
