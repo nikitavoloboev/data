@@ -69,6 +69,7 @@
 - [Alda](https://alda.io/) - Text-based programming language for music composition. ([Why I'm rewriting Alda in Go and Kotlin](https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/)) ([Code](https://github.com/alda-lang/alda))
 - [IBNIZ](http://viznut.fi/ibniz/) - Virtual machine designed for extremely compact low-level audiovisual programs. ([Code](https://github.com/viznut/IBNIZ))
 - [HMSL](https://github.com/philburk/hmsl) - Hierarchical Music Specification Language.
+- [Pure Data](https://github.com/pure-data/pure-data) - Free real-time computer music system.
 
 ## Inspiration
 

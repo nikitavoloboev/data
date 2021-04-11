@@ -770,6 +770,7 @@
 - [Project Flogo](https://github.com/TIBCOSoftware/flogo) - Ultra-light, Go-based open source ecosystem for building event-driven apps. ([Web](http://www.flogo.io/))
 - [go-hypercore](https://github.com/kiambogo/go-hypercore) - Hypercore implementation in Go.
 - [gostackparse](https://github.com/DataDog/gostackparse) - Parse go stack traces at ~300 MiB/s.
+- [perf](https://github.com/golang/perf) - Go performance measurement, storage, and analysis tools.
 
 ## Links
 
