@@ -102,3 +102,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [We’re Hurtling Toward Global Suicide (2021)](https://newrepublic.com/article/161575/climate-change-effects-hurtling-toward-global-suicide)
 - [Three Most Important Graphs in Climate Change (2019)](https://globalecoguy.org/the-three-most-important-graphs-in-climate-change-e64d3f4ed76)
 - [Ask HN: What actions did you take against climate change? (2021)](https://news.ycombinator.com/item?id=26759758)
+- [Coalition for Rainforest Nations](https://www.rainforestcoalition.org/)
+- [How to Donate to Fight Climate Change (Effectively) (2020)](https://www.theatlantic.com/science/archive/2020/12/how-to-donate-to-fight-climate-change-effectively/617248/)

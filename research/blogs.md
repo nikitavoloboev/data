@@ -134,3 +134,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Interesting Blogs List](https://github.com/xplosionmind/tommi.space/blob/main/_notes/public/Blogroll.md)
 - [Blog Surf](https://blogsurf.io/) - Directory of Personal Blogs, includes search option.
 - [Blogosphere](https://bilbof.com/blogosphere) - Discover independent technical blogs. ([HN](https://news.ycombinator.com/item?id=26684792))
+- [If you have to create a blog in 2021, what's your choice?](https://twitter.com/nachoiacovino/status/1381258237186572291)

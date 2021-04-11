@@ -33,3 +33,4 @@
 - [Human use of high-bandwidth wireless brain-computer interface (2021)](https://www.brown.edu/news/2021-03-31/braingate-wireless) ([HN](https://news.ycombinator.com/item?id=26690126))
 - [Monkey MindPong (2021)](https://neuralink.com/blog/) ([HN](https://news.ycombinator.com/item?id=26745227))
 - [The current state of the art in brain computer interfaces (2021)](https://neurogenesis.substack.com/p/invasive-neurotech-companies)
+- [Neuralink MindPong Deconstructed (2021)](https://www.youtube.com/watch?v=rzNOuJIzk2E)

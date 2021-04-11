@@ -83,3 +83,4 @@
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 - [Every academic submitting work done in lockdown](https://twitter.com/salisbot/status/1379876646740713475)
 - [How Asian Parents Flex](https://www.youtube.com/watch?v=CIMmK86vNYo)
+- [Existential Crisis Cat](https://www.youtube.com/watch?v=pBjU3Ii7lfs)

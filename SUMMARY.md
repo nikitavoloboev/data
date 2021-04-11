@@ -572,6 +572,7 @@
     - [India](travel/visited/india.md)
     - [Ukraine](travel/visited/ukraine.md)
     - [Austria](travel/visited/austria.md)
+    - [Sweden](travel/visited/sweden.md)
     - [Korea](travel/visited/korea.md)
     - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)

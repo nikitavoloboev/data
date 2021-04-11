@@ -544,6 +544,7 @@ Here are few more things I liked, design wise.
 - [Jonathan Clem](https://jclem.net/)
 - [Jakob Greenfeld](https://jakobgreenfeld.com/)
 - [Seana Burns](http://seenaburns.com/)
+- [Andre Venancio](https://www.andrevenancio.com/work)
 - [Maddie](http://maddie.io/) - Clean.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.
 - [Ines](https://ines.io/about)

@@ -13,3 +13,5 @@ I also support [Archive.org](https://archive.org/donate/) & [Wikipedia](https://
 - [Equity for Impact](https://equityforimpact.com/)
 - [Omaze](https://www.omaze.com/) - Raises money for charity by offering incredible experiences.
 - [Kiva](https://www.kiva.org/) - Loans that change lives.
+- [Against Malaria](https://www.againstmalaria.com/default.aspx)
+- [GiveWell](https://www.givewell.org/) - Charity Reviews and Research.
