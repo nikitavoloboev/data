@@ -182,3 +182,4 @@
 - [OpenAI Baselines](https://github.com/openai/baselines) - Set of high-quality implementations of reinforcement learning algorithms.
 - [Jax (Flax) RL](https://github.com/ikostrikov/jax-rl) - Jax (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 - [Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem (2018)](https://www.youtube.com/watch?v=my207WNoeyA)
+- [Deep Reinforcement Learning Berkeley Course](http://rail.eecs.berkeley.edu/deeprlcourse/) ([Code](https://github.com/berkeleydeeprlcourse/homework_fall2020)) ([GitHub](https://github.com/berkeleydeeprlcourse))

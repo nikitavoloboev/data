@@ -116,6 +116,7 @@
 - [machines](https://github.com/ekmett/machines) - Demand driven input sources like pipes or conduits, but can support multiple inputs.
 - [refinery](https://github.com/TOTBWF/refinery) - Refinement proof framework for haskell.
 - [linear-logic](https://github.com/ekmett/linear-logic) - Encodes a version of intuitionistic linear logic on top of linear Haskell.
+- [Parsec](https://github.com/haskell/parsec) - Monadic parser combinator library.
 
 ## Links
 

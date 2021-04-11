@@ -223,3 +223,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [ifconfig.co](https://ifconfig.co/) - What is my IP address?
 - [Network Calculus: A Comprehensive Guide (2016)](https://mediatum.ub.tum.de/doc/1328613/1328613.pdf)
 - [Networking Books](https://mwl.io/nonfiction/networking)
+- [Full functional WiFi repeater (correctly: a WiFi NAT router)](https://github.com/martin-ger/esp_wifi_repeater)

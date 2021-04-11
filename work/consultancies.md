@@ -77,6 +77,7 @@
 ## Elixir
 
 - [Dasshbit](https://dashbit.co/) - Help startups and enterprises adopt and run Elixir in production.
+- [Moose Code](https://moosecode.nl/) - Elixir Consulting.
 
 ## Haskell
 
