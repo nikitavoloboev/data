@@ -444,3 +444,4 @@
 - [Creusot](https://github.com/xldenis/creusot) - Tool for deductive verification of Rust code.
 - [Rustexp](https://rustexp.lpil.uk/) - Rust regular expression editor & tester. ([Code](https://github.com/lpil/rustexp))
 - [Best of ML Rust](https://github.com/e-tony/best-of-ml-rust) - Ranked list of awesome machine learning Rust libraries.
+- [Rust for {Ruby, Haskell, C, ...} programmers](https://github.com/mre/rust-for-x)

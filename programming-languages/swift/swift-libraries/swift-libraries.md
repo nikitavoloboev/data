@@ -654,6 +654,7 @@
 - [Gen](https://github.com/pointfreeco/swift-gen) - Composable, transformable, controllable randomness.
 - [Swift Collections](https://github.com/apple/swift-collections) - Package of production grade Swift data structures.
 - [Options](https://github.com/brightdigit/Options) - Swift Package for more powerful Enum types.
+- [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - Elegant modern declarative data visualization chart framework.
 
 ## Other (not lib)
 

@@ -73,3 +73,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Generating ePub from LaTeX (2021)](https://minireference.com/blog/generating-epub-from-latex/) ([HN](https://news.ycombinator.com/item?id=26356903))
 - [LearnLaTeX.org](https://www.learnlatex.org/en/) - Place to learn LaTeX online. ([HN](https://news.ycombinator.com/item?id=26497557))
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor. ([Code](https://github.com/overleaf/overleaf))
+- [fiziko](https://github.com/jemmybutton/fiziko) - MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook.
