@@ -49,3 +49,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Compensation as a Reflection of Values (2021)](https://oxide.computer/blog/compensation-as-a-reflection-of-values/) ([HN](https://news.ycombinator.com/item?id=26348836))
 - [The Values of a Post-Woke World (2021)](https://newdiscourses.com/2021/03/values-post-woke-world/)
 - [What defines a great company culture? (2021)](https://twitter.com/DanRose999/status/1378393523213373440) ([HN](https://news.ycombinator.com/item?id=26700186))
+- [The 25 Principles for Adult Behavior](https://www.openculture.com/2018/02/the-25-principles-for-adult-behavior.html)

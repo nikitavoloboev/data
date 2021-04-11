@@ -106,3 +106,7 @@
 - [Abundant Capital (2021)](https://blog.aaronkharris.com/abundant-capital) ([HN](https://news.ycombinator.com/item?id=26226723))
 - [Distributed Capital (2021)](https://blog.aaronkharris.com/distributed-capital)
 - [If you could be an LP in any fund, what would it be? (2021)](https://twitter.com/austin_rief/status/1378378432384528385)
+- [FUSE](https://fuse.vc/) - Seattle Venture Capital.
+- [Founders' Co-op](https://www.founderscoop.com/) - Seattle Venture Capital.
+- [First Rays VC](https://www.firstraysvc.com/)
+- [Altair Capital](https://www.altair-cap.com/)

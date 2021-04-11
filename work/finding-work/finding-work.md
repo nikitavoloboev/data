@@ -97,3 +97,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: How do you leave a job? (2021)](https://news.ycombinator.com/item?id=26587018)
 - [Awesome Tech Job Hunting List](https://github.com/randallkanna/awesome-job-list)
 - [Things I was asked to do while job hunting (2021)](https://www.kylenazario.com/2021/04/10/job-hunting-fun/) ([HN](https://news.ycombinator.com/item?id=26763336))
+- [Ask HN: I feel my career is at a dead end. Any advice on what could I do? (2021)](https://news.ycombinator.com/item?id=26769638)

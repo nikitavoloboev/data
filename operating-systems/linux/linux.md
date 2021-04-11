@@ -289,3 +289,4 @@
 - [Arch Linux installer - guided, templates etc](https://github.com/archlinux/archinstall)
 - [Wayland Explorer](https://wayland.app/protocols/) - Wayland Protocol Documentation. ([Code](https://github.com/vially/wayland-explorer))
 - [Ask HN: Why is the Linux community struggling to implement hibernation? (2021)](https://news.ycombinator.com/item?id=26739220)
+- [The Motivation Behind Systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html) ([HN](https://news.ycombinator.com/item?id=26767261))

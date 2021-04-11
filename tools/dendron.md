@@ -14,3 +14,4 @@ I have a Dendron wiki hosted at [epictools.dev](https://epictools.dev).
 - [It's Not You - It's Your Knowledge Base](https://www.kevinslin.com/notes/e1455752-b052-4212-ac6e-cc054659f2bb.html)
 - [Dendron Docs Code](https://github.com/dendronhq/dendron-site)
 - [Note taking With Dendron (2021)](https://twit.tv/shows/floss-weekly/episodes/619)
+- [Dendron Handbook](https://handbook.dendron.so/)

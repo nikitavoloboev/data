@@ -13,3 +13,4 @@
 - [Neo4j Connector for Apache Spark](https://github.com/neo4j-contrib/neo4j-spark-connector)
 - [Introducing Neo4j Aura Enterprise (2021)](https://neo4j.com/blog/neo4j-aura-enterprise-ga-release/)
 - [Neo4j Performance adventures for petabyte-scale datasets (2021)](https://unhexium.net/research/neo4j-performance-adventures-for-petabyte-scale-datasets/)
+- [The Neo4j GraphQL Library Beta Release (2021)](https://medium.com/neo4j/announcing-the-neo4j-graphql-library-beta-99ae8541bbe7)

@@ -164,6 +164,7 @@
 - [Skeema](https://github.com/skeema/skeema) - Schema management CLI for MySQL.
 - [noisepage-test](https://github.com/cmu-db/noisepage-stats) - DBMS Performance & Correctness Testing Framework.
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
+- [CloudBeaver](https://cloudbeaver.io/) - Database Management from Browser. ([Code](https://github.com/dbeaver/cloudbeaver))
 
 ## Notes
 

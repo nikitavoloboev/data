@@ -35,3 +35,4 @@
 - [Kanji alive](https://kanjialive.com/) - Free study tool for reading and writing kanji. ([Code](https://github.com/kanjialive/kanji-data-media))
 - [Mini Tokyo 3D](https://minitokyo3d.com/)
 - [Японский язык? Сейчас объясню! (2020)](https://www.youtube.com/watch?v=pLNZtA2a4CM)
+- [Interview: Everything you have heard about Japan is True (2020)](https://hargup.medium.com/everything-you-have-heard-about-japan-is-true-901e0bbcee9b)

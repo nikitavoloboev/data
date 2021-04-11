@@ -62,3 +62,5 @@
 - [SQLite Plus](https://github.com/nalgeon/sqlite-plus) - All the missing SQLite functions. ([HN](https://news.ycombinator.com/item?id=26683832))
 - [Dogsheep](https://dogsheep.github.io/) - Tools for personal analytics using SQLite and Datasette. ([Code](https://github.com/dogsheep/dogsheep.github.io))
 - [Bionic](https://github.com/bionic-dev/bionic) - Convert data exports from various services to a single SQLite database.
+- [SquirrelByte](https://github.com/adamlouis/squirrelbyte) - SQLite-based JSON document server. ([Web](https://squirrelbyte.com/)) ([HN](https://news.ycombinator.com/item?id=26766557))
+- [Ask HN: Deploying SQLite on a Production Website (2021)](https://news.ycombinator.com/item?id=26765118)

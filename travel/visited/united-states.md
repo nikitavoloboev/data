@@ -46,3 +46,4 @@
 - [Why I hate solo traveling in America (2021)](https://www.reddit.com/r/solotravel/comments/me6ph2/why_i_hate_solo_travelling_in_america/)
 - [Tax Reddit](https://www.reddit.com/r/tax/) - News, discussion, policy, and law relating to any tax in US.
 - [U.S elevation graphic](https://twitter.com/milehigherjoel/status/1378466795053477890)
+- [Why do so many companies incorporate in Delaware?](https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/) ([HN](https://news.ycombinator.com/item?id=26770454))
