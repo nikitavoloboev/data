@@ -777,6 +777,7 @@
 - [tokio-uring](https://github.com/tokio-rs/tokio-uring) - tokio-uring backed runtime for Rust.
 - [rust-iterators](https://github.com/rustomax/rust-iterators) - Basic Rust iterator usage.
 - [uluru](https://github.com/servo/uluru) - Simple, fast, LRU cache implementation.
+- [Typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects.
 
 ## Cargo Plugins
 

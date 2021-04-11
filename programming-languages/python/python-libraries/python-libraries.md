@@ -380,6 +380,7 @@
 - [aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [xarray-dataclasses](https://github.com/astropenguin/xarray-dataclasses) - xarray extension for typed DataArray and Dataset creation.
 - [printstack](https://github.com/morefigs/printstack) - Python package that adds stack trace links to the print function. ([HN](https://news.ycombinator.com/item?id=26747743))
+- [DataFusion in Python](https://github.com/jorgecarleitao/datafusion-python) - Python library that binds to Apache Arrow in-memory query engine DataFusion.
 
 ## Links
 

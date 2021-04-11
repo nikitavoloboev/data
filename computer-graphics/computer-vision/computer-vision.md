@@ -259,3 +259,4 @@
 - [Python libraries I use every day for computer vision work (2021)](https://twitter.com/svpino/status/1379666495811117062)
 - [Awesome Temporal Sentence Grounding in Videos](https://github.com/Soldelli/Awesome-Temporal-Language-Grounding-in-Videos)
 - [The Affective Growth of Computer Vision](https://authentic.sice.indiana.edu/publications/Su_Crandall-AffectiveGrowthCV-CVPR21.pdf)
+- [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D (2020)](https://arxiv.org/abs/2008.05711) ([Code](https://github.com/nv-tlabs/lift-splat-shoot))

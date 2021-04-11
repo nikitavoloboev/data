@@ -240,3 +240,4 @@
 - [Memformer - PyTorch](https://github.com/lucidrains/memformer) - Implementation of Memformer, a Memory-augmented Transformer, in PyTorch.
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Runtime type annotations for the shape, dtype etc. of PyTorch Tensors.
 - [torchbench](https://github.com/paperswithcode/torchbench) - Easily benchmark machine learning models in PyTorch.
+- [pytorch-world](https://github.com/stites/pytorch-world) - Nix scripts for pytorch-related libraries.
