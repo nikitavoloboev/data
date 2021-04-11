@@ -86,3 +86,4 @@ I try to give my full attention to any ideas I am working on.
 - [Free startup ideas (2021)](https://danromero.org/free-startup-ideas.html)
 - [Ask HN: Can build CRUD apps, what now? (2021)](https://news.ycombinator.com/item?id=26693494)
 - [10 perspective-altering ideas. Illustrated.](https://twitter.com/jackbutcher/status/1378743787716022275)
+- [Evaluating Modest SaaS Business Ideas (2021)](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/) ([HN](https://news.ycombinator.com/item?id=26763521))
