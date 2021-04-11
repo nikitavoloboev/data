@@ -7,6 +7,7 @@
 - [Vega-Lite API](https://github.com/vega/vega-lite-api) - JavaScript API for Vega-Lite.
 - [Vega Editor](https://vega.github.io/editor/#/)
 - [VegaGraphs](https://github.com/JuliaGraphs/VegaGraphs.jl) - Implements graph visualization with Vega-Lite.
+- [vega-bundler](https://github.com/vega/vega-bundler) - Compile optimized Vega and Vega-Lite bundles.
 - [react-vega](https://github.com/vega/react-vega) - Convert Vega spec into React class conveniently.
 - [altair_recipes](https://github.com/piccolbo/altair_recipes) - Collection of ready-made statistical graphics for vega.
 - [XVega](https://github.com/QuantStack/xvega) - C++ API to Vega-Lite.

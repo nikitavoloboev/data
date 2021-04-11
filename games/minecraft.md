@@ -43,3 +43,4 @@
 - [pakkit](https://github.com/Heath123/pakkit) - Packet monitor for Minecraft.
 - [JSPrismarine](https://prismarine.dev/) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
 - [minepkg](https://preview.minepkg.io/) - Package Manager For Minecraft. Open platform for mod & modpack sharing. ([Code](https://github.com/minepkg/minepkg))
+- [PolyMc](https://github.com/TheEpicBlock/PolyMc) - Making minecraft mods compatible with a vanilla client.

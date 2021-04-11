@@ -104,6 +104,7 @@
 - [Purifree](https://github.com/nythrox/purifree) - Pointfree type-safe functional programming library for TypeScript - with do notation, HKTs, generic lifts and more.
 - [valita](https://github.com/badrap/valita) - Typesafe validation & parsing library for TypeScript.
 - [Tick-Knock](https://github.com/mayakwd/tick-knock) - Small and powerful, type-safe and easy-to-use Entity-Component-System (ECS) library written in TypeScript.
+- [gridstack.js](https://github.com/gridstack/gridstack.js) - Mobile-friendly modern Typescript library for dashboard layout and creation. ([Web](https://gridstackjs.com/))
 
 ## Links
 
