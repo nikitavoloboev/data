@@ -96,6 +96,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [OpenHaystack](https://github.com/seemoo-lab/openhaystack) - App for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [Script Kit](https://scriptkit.app/) - Automate Anything. ([Code](https://github.com/johnlindquist/kit))
 - [Vitals](https://github.com/hmarr/vitals) - Tiny macOS process monitor.
+- [Patchman](https://github.com/PraneetNeuro/Patchman) - MacOS application to test APIs with HTTP methods (Decluttered Postman).
 
 ## Other interesting apps
 

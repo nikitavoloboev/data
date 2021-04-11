@@ -114,7 +114,7 @@
 - [Reiz.IO](https://reiz.io/) - Large Scale Structural Source Code Search. ([Code](https://github.com/reizio/reiz.io))
 - [DataHub](https://github.com/linkedin/datahub) - Generalized Metadata Search & Discovery Tool. ([Web](https://linkedin.github.io/datahub/))
 - [Milli](https://github.com/meilisearch/milli) - Search through millions of documents in milliseconds.
-- [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
+- [Building a full-text search engine in 150 lines of Python code (2021)](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/) ([In Rust](https://github.com/rtyler/goedesearch))
 - [Google's Got A Secret](https://knuckleheads.club/) ([HN](https://news.ycombinator.com/item?id=26592635))
 - [Evaluating Search Algorithms (2021)](https://shopify.engineering/evaluating-search-algorithms) ([HN](https://news.ycombinator.com/item?id=26664976))
 - [Portal](https://github.com/apibillme/portal) - Full Text Search Web Service.

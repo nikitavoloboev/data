@@ -176,3 +176,4 @@
 - [Determinate Systems](https://determinate.systems/) - Nix ecosystem consulting by Graham Christensen.
 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/)
 - [Nix is the ultimate DevOps toolkit (2021)](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html) ([HN](https://news.ycombinator.com/item?id=26748696)) ([Lobsters](https://lobste.rs/s/5gbbp2/nix_is_ultimate_devops_toolkit))
+- [devshell](https://github.com/numtide/devshell) - Per project developer environments.

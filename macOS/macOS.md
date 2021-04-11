@@ -149,3 +149,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Mathias Bynens' Sensible macOS Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) ([HN](https://news.ycombinator.com/item?id=26513528))
 - [xhyve](https://github.com/machyve/xhyve) - Lightweight macOS virtualization solution.
 - [Declarative macOS configuration options (2021)](https://lobste.rs/s/q8qgr7/any_advice_on_declarative_macos)
+- [macOS scripts](https://github.com/0xmachos/macos-scripts) - Various scripts for macOS tasks.

@@ -153,3 +153,4 @@
 - [Swag](https://github.com/Ji4n1ng/Swag) - Toy WASM interpreter written in Swift.
 - [Awesome WebAssembly Tools](https://github.com/vshymanskyy/awesome-wasm-tools)
 - [WASM signatures](https://github.com/jedisct1/wasmsign) - Tool to add and verify digital signatures to/from WASM binaries.
+- [wasm-jseval](https://github.com/maple3142/wasm-jseval) - Safe eval library based on WebAssembly and Duktape/QuickJS.

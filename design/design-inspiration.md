@@ -518,6 +518,7 @@ Here are few more things I liked, design wise.
 - [Obed Parlapiano](https://obedparla.com/)
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)
 - [Shaan Puri](https://www.shaanpuri.com/)
+- [Jake Runzer](https://jakerunzer.com/)
 - [Ink & Switch](https://www.inkandswitch.com/index.html)
 - [Tonsky](https://tonsky.me/)
 - [Isobit](https://www.isobit.io)

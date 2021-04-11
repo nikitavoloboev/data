@@ -164,6 +164,7 @@
 - [rutenspitz](https://github.com/jakubadamw/rutenspitz) - Procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation.
 - [Pretty Assertions](https://github.com/colin-kiegel/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 - [Shuttle](https://github.com/awslabs/shuttle) - Library for testing concurrent Rust code.
+- [build-fs-tree](https://github.com/KSXGitHub/build-fs-tree) - Generate a filesystem tree from a macro or a YAML tree.
 
 ## Error
 

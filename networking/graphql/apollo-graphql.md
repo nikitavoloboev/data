@@ -15,3 +15,4 @@
 - [Apollo Studio: A GraphQL IDE for every environment (2020)](https://www.apollographql.com/blog/apollo-studio-a-graphql-ide-for-every-environment/)
 - [Using Apollo Federation with local schemas](https://patrick.wtf/posts/apollo-federation-local-services)
 - [Apollo Client – Demystifying Cache Normalization (2020)](https://www.apollographql.com/blog/demystifying-cache-normalization/) ([HN](https://news.ycombinator.com/item?id=26728114))
+- [Auto generate Apollo code for Next.js SSR](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)

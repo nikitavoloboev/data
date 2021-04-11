@@ -50,3 +50,4 @@
 - [Blobs](https://blobs.app/) - Generate beautiful blob shapes for web and flutter apps.
 - [Cocoon](https://github.com/flutter/cocoon) - Flutter's build coordinator and aggregator.
 - [Realm Dart](https://github.com/realm/realm-dart)
+- [Embedded Linux embedding for Flutter](https://github.com/sony/flutter-embedded-linux)

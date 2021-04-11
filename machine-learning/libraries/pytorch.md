@@ -241,3 +241,4 @@
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Runtime type annotations for the shape, dtype etc. of PyTorch Tensors.
 - [torchbench](https://github.com/paperswithcode/torchbench) - Easily benchmark machine learning models in PyTorch.
 - [pytorch-world](https://github.com/stites/pytorch-world) - Nix scripts for pytorch-related libraries.
+- [Butterfly matrix multiplication in PyTorch](https://github.com/HazyResearch/butterfly)

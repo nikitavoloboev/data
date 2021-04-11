@@ -72,6 +72,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Plastic](https://github.com/djyde/plastic) - Block-based bi-directional note app. Works locally.
 - [Ace](https://ace.c9.io/) - High Performance Code Editor for the Web. ([Code](https://github.com/ajaxorg/ace))
 - [Copenhagen](https://github.com/acode/copenhagen) - Free, lightweight and hackable open source code editor for the web.
+- [Milkdown](https://github.com/Saul-Mirone/milkdown) - WYSIWYG markdown editor.
 
 ## Links
 
