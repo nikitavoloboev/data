@@ -92,6 +92,7 @@
 - [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - Easy-to-use asyncio ORM inspired by Django.
 - [Vinum](https://github.com/dmitrykoval/vinum) - SQL query processor for Python, designed for data analysis workflows and in-memory analytics.
 - [aiosqlite](https://github.com/omnilib/aiosqlite) - Friendly, async interface to sqlite databases.
+- [ORM](https://github.com/encode/orm) - Async ORM for Python, with support for Postgres, MySQL, and SQLite.
 
 ## GUI
 

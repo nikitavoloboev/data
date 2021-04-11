@@ -28,3 +28,4 @@
 - [SSLsplit](https://github.com/droe/sslsplit) - Transparent SSL/TLS interception. ([Web](https://www.roe.ch/SSLsplit))
 - [Is TLS Fast Yet?](https://istlsfastyet.com/)
 - [tlsfuzzer](https://github.com/tlsfuzzer/tlsfuzzer) - SSL and TLS protocol test suite and fuzzer.
+- [TLS Mastery](https://mwl.io/nonfiction/networking#tls) ([HN](https://news.ycombinator.com/item?id=26760032))
