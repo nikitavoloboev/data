@@ -115,7 +115,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Bennett Hardwick](https://bennetthardwick.com/wiki/)
 - [Neil's Noodlemaps](https://commonplace.doubleloop.net/)
-- [Jesse Squires TIL](https://github.com/jessesquires/TIL)
+- [Jesse Squires TIL](https://jessesquires.github.io/TIL/) ([Code](https://github.com/jessesquires/TIL))
 - [Piotr Gaczkowski](https://garden.doomhammer.info/)
 - [chl's org file notes](https://github.com/even4void/org)
 - [Cosma Shalizi](http://bactra.org/) ([Notebooks](http://bactra.org/notebooks/))

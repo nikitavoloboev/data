@@ -20,3 +20,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [Ian McKellen Explains The Difference Between Acting on Stage and In Movies](https://www.youtube.com/watch?v=QzOlVLDMLAQ)
 - [The 32 Greatest Character Actors Working Today (2021)](https://www.vulture.com/article/best-character-actors.html)
 - [Bob Odenkirk Got Lucky with Breaking Bad (2021)](https://www.youtube.com/watch?v=cjMlTC8Ikxw)
+- [Off Camera with Sam Jones](https://www.youtube.com/c/theoffcamerashow/videos)
