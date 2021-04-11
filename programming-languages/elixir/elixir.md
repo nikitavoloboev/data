@@ -87,3 +87,4 @@
 - [How to debug Elixir/Erlang compiler performance (2021)](https://dashbit.co/blog/how-to-debug-elixir-erlang-compiler-performance)
 - [Association Defaults in Ecto (2021)](https://slab.com/blog/association-defaults-in-ecto/) ([Lobsters](https://lobste.rs/s/akopsw/using_association_defaults_ecto_secure))
 - [Parser Combinators in Elixir (2021)](https://serokell.io/blog/parser-combinators-in-elixir)
+- [Elixir Memory - Not Quite Free (2018)](https://stephenbussey.com/2018/05/09/elixir-memory-not-quite-free.html)
