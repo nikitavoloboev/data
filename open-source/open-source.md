@@ -172,4 +172,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open source is not a business model (2018)](https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/) ([HN](https://news.ycombinator.com/item?id=26602316))
 - [Software freedom isn’t about licenses – it’s about power. (2021)](https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html)
 - [Open source promotion cheat sheet](https://github.com/zenika-open-source/promote-open-source-project/blob/master/README.md)
-- [Playing the Open Source Game (2021)](https://kristoff.it/blog/the-open-source-game/)
+- [Playing the Open Source Game (2021)](https://kristoff.it/blog/the-open-source-game/) ([Lobsters](https://lobste.rs/s/whaa3i/playing_open_source_game))

@@ -126,3 +126,4 @@
 - [BytePS](https://github.com/bytedance/byteps) - High performance and generic framework for distributed DNN training.
 - [Hyperactive](https://github.com/SimonBlanke/Hyperactive) - Hyperparameter optimization and meta-learning toolbox for convenient and fast prototyping of machine-learning models.
 - [Jittor](https://github.com/Jittor/jittor) - Just-in-time(JIT) deep learning framework.
+- [autofeat](https://github.com/cod3licious/autofeat) - Linear Prediction Model with Automated Feature Engineering and Selection Capabilities.

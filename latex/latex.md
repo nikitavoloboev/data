@@ -74,3 +74,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LearnLaTeX.org](https://www.learnlatex.org/en/) - Place to learn LaTeX online. ([HN](https://news.ycombinator.com/item?id=26497557))
 - [Overleaf](https://www.overleaf.com/) - Online LaTeX Editor. ([Code](https://github.com/overleaf/overleaf))
 - [fiziko](https://github.com/jemmybutton/fiziko) - MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook.
+- [acmart](https://github.com/borisveytsman/acmart) - ACM consolidated LaTeX styles.
