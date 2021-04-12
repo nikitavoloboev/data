@@ -19,6 +19,8 @@
 - There are efficient tools to grow food at home so more people can live off the grid without government intervention and need to pay tax.
 - Government conducts itself in transparent and open manner. Any change to constitution or law is done in the open. Every tax dollar should be accounted for without ability to mismanage the budget (no stealing).
 
+I try to get to this future as soon as possible by setting and completing my own personal [life goals](../focusing/goals.md).
+
 ## Links
 
 - [Jeremy Rifkin: "The Zero Marginal Cost Society"](https://www.youtube.com/watch?v=5-iDUcETjvo) - Moving into the world where it costs nearly nothing to manufacture, share or create things. The growing economy of _sharing_ things and less need for ownership.

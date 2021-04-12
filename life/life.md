@@ -1,8 +1,8 @@
 # Life
 
-I live an interesting life. I think. It is fascinating to think what I would be doing if I was born a decade earlier or few decades later. How different would my life be?
+I try to live my life [enjoying each moment](../mindfulness/mindfulness.md) and moving towards the [future I want](../future/future.md).
 
-In any way, you probably live only one life. So best [make it count](http://paulgraham.com/vb.html).
+You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.html). So best [make it count](http://paulgraham.com/vb.html).
 
 ## Notes
 
