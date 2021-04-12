@@ -2,7 +2,7 @@
 
 For my own personal finance, I budget & manage my money with [Monzo](https://monzo.com) (UK/US) & [N26](https://n26.com/en-gb/) (EU).
 
-I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and ideas that interest me. I also support open source projects & people I love.
+I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending). The rest I [invest into stocks/ETFs](investing.md) and [ideas that interest me](../ideas/ideas.md). I also support open source projects & people I love.
 
 I use [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat manage my spending but not proactively. I try to be mindful with my spending at all times and try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
 
