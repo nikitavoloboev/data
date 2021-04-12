@@ -51,6 +51,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Martin Lucina](https://lucina.net/cv:lucina)
 - [Craig Ferguson](https://www.craigfe.io/cv.pdf) ([Code](https://github.com/CraigFe/fancv))
 - [Hylke Visser](https://htdvisser.dev/)
+- [Ben Hoyt](https://benhoyt.com/cv/)
 
 ## Notes
 

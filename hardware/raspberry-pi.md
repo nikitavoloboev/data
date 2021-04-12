@@ -68,3 +68,4 @@
 - [Monitoring a Raspberry Pi with Grafana, InfluxDB and collectd (2021)](https://ch-st.de/raspberry-pi-grafana-influxdb-collectd/)
 - [CutiePi](https://cutiepi.io/) - All-in-one Raspberry Pi tablet. ([HN](https://news.ycombinator.com/item?id=20703721))
 - [State of netbooting Raspberry Pi in 2021](https://blog.alexellis.io/state-of-netbooting-raspberry-pi-in-2021/)
+- [Build a Raspberry Pi Linux System the Hard Way (2021)](https://rickcarlino.com/2021/01/23/build-a-raspbery-pi-linux-system-the-hard-way-html.html)

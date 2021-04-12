@@ -113,6 +113,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [tikzcd-editor](https://tikzcd.yichuanshen.de/) - Simple visual editor for creating commutative diagrams. ([Code](https://github.com/yishn/tikzcd-editor))
 - [The Categorical Machine: Part 1 (Applied Category Theory) (2020)](https://www.youtube.com/watch?v=hU8lG-R67Qg) - Compare Functional Programming, Lambda Calculus, and Categories (Cats).
 - [Category Theoretic Approaches to Machine Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
+- [Towards Categorical Foundations of Learning (2021)](https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html)
 
 ## Images
 

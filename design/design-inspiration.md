@@ -415,6 +415,7 @@ Here are few more things I liked, design wise.
 - [Fredrik Johansson](https://fredrikj.net/)
 - [Kuldar Kalvik](https://kuldar.com/) ([Code](https://github.com/kuldar/kuldar-2020))
 - [Guillermo Garron](https://www.garron.blog/)
+- [Ben Hoyt](https://benhoyt.com/) ([Code](https://github.com/benhoyt/benhoyt.github.com))
 - [Kabir Shah](https://kabir.sh/)
 - [Jeremy Friesen](https://takeonrules.com/)
 - [Noah fleischmann](https://noahfleischmann.com/) ([Code](https://github.com/fnoah/noahfleischmann.com))
