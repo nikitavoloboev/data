@@ -113,3 +113,4 @@
 - [darkhttpd](https://unix4lyfe.org/darkhttpd/) - HTTP server in a single .c file. ([HN](https://news.ycombinator.com/item?id=26671851))
 - [Reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy. ([Web](https://reproxy.io/))
 - [HTTP Prompt](https://github.com/httpie/http-prompt) - Interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. ([Web](https://http-prompt.com/))
+- [Security Headers](https://securityheaders.com/) - Analyze your HTTP response headers.

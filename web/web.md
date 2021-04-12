@@ -249,3 +249,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Ask HN: What novel tools are you using to write web sites/apps? (2021)](https://news.ycombinator.com/item?id=26693959)
 - [Sidenotes in Web Design · Gwern.net](https://www.gwern.net/Sidenotes)
 - [Ask HN: What is a good way to build a web application in 2021](https://news.ycombinator.com/item?id=26734749)
+- [Upcoming web tech to be excited about (2021)](https://twitter.com/wesbos/status/1381622263347171329)
