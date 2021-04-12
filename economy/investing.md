@@ -174,3 +174,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [How do I begin investing? (2021)](https://www.reddit.com/r/leanfire/comments/mfe1f1/how_do_i_begin_investing/)
 - [Investing Reddit Wiki](https://www.reddit.com/r/investing/wiki/index)
 - [On Deck Investing](https://www.beondeck.com/investing) - Become a more informed investor and level up your portfolio. In 10 weeks.
+- [John Bogle's 10 Rules of Investing](https://www.youtube.com/watch?v=ItmmwvCBJqg) ([Reddit](https://www.reddit.com/r/Bogleheads/comments/mp2eve/john_bogles_10_rules_of_investing_founder_of/))
