@@ -175,3 +175,4 @@
 - [next-data-hooks](https://github.com/ricokahler/next-data-hooks) - Use getStaticProps and getServerSideProps as react hooks.
 - [Using Docker with Next.js (and Deploying with Google Cloud Run)](https://www.youtube.com/watch?v=Pd2tVxhFnO4)
 - [If you use Next.js, what is your favorite part about it? (2021)](https://twitter.com/heybereket/status/1378889849235775489)
+- [Difference between SSR, SSG, CSR and SPA (2021)](https://www.reddit.com/r/nextjs/comments/mot54n/difference_between_ssr_ssg_csr_and_spa/)
