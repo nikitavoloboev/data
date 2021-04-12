@@ -66,3 +66,5 @@
 - [Most fears about technology are really fears about capitalism](https://twitter.com/jackiehluo/status/1377325259779674112)
 - [Why Computers Won’t Make Themselves Smarter (2021)](https://www.newyorker.com/culture/annals-of-inquiry/why-computers-wont-make-themselves-smarter)
 - [This AI Learns From Its Dreams | Two Minute Papers (2018)](https://www.youtube.com/watch?v=gvjCu7zszbQ) ([Paper](https://arxiv.org/abs/1803.10122))
+- [Replika](https://replika.ai/) - AI companion who cares.
+- [Replika.ai Research Papers, Posters, Slides & Datasets](https://github.com/lukalabs/replika-research)

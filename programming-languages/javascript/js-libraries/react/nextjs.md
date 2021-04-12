@@ -177,3 +177,4 @@
 - [If you use Next.js, what is your favorite part about it? (2021)](https://twitter.com/heybereket/status/1378889849235775489)
 - [Difference between SSR, SSG, CSR and SPA (2021)](https://www.reddit.com/r/nextjs/comments/mot54n/difference_between_ssr_ssg_csr_and_spa/)
 - [How to make Next.js site more secure (2021)](https://twitter.com/leeerob/status/1381605537742254082)
+- [Transitioning Mailbrew from CRA to NextJS (2021)](https://francescodilorenzo.com/cra-to-nextjs)
