@@ -1,6 +1,6 @@
 # Death
 
-I try to live my life enjoying each moment and moving towards the [future I want](../future/future.md). [One day I will die.](https://medium.com/@nikitavoloboev/opening-up-my-mind-%EF%B8%8F-575c8ece8a24) And I don't want to regret any of the precious and limited time I spent in here.
+I try to [live my life enjoying each moment](https://www.youtube.com/watch?v=UF8uR6Z6KLc) and moving towards the [future I want](../future/future.md). [One day I will die.](ttps://medium.com/@nikitavoloboev/opening-up-my-mind-%EF%B8%8F-575c8ece8a24) And I don't want to regret any of the precious and limited time I spent in here.
 
 I don't much think about life after death as [there is no point to it](https://www.youtube.com/watch?v=wU0PYcCsL6o). I don't think about going to sleep or waking up, it just happens.
 
