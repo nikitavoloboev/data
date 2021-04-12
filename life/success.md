@@ -84,3 +84,4 @@ Success comes from not giving up and doing what you love.
 - [How Much I Earned in 2020 - My Best Year Ever](https://www.youtube.com/watch?v=VTTp5A-rSdc)
 - [How to increase your luck surface area (2010)](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area) ([HN](https://news.ycombinator.com/item?id=25968751))
 - [Embrace the Grind (2021)](https://jacobian.org/2021/apr/7/embrace-the-grind/) ([HN](https://news.ycombinator.com/item?id=26747305)) ([Lobsters](https://lobste.rs/s/vs5nxu/embrace_grind))
+- [How to make impact on the internet (2021)](https://twitter.com/gregisenberg/status/1381588219477815296)

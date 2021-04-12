@@ -1,5 +1,9 @@
 # Restaurants
 
+## Notes
+
+- [There’s a handful of restaurants in SF that do the Apple “App Clips” flow where you scan a QR code, get the menu, and can pay with Apple Pay.](https://twitter.com/sdamico/status/1381441842676297731)
+
 ## Links
 
 - [Rekki](https://rekki.com/en-us/) - Reinventing Ordering for Chefs and Suppliers.
