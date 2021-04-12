@@ -16,7 +16,7 @@ With all that said, there is only real conclusion to draw knowing all this. Have
 
 > [Your parents miss you and wish you'd call. Later you'll miss them and wish you could.](https://twitter.com/paulg/status/1106946093701455872)
 
-Spend more time with your close ones.
+Spend more time with ones you care about. Be [aware of your ego](../consciousness/ego.md) and be a [kind and loving person](../environment/veganism.md).
 
 ## Notes
 
