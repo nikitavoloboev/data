@@ -29,6 +29,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The profile picture is the logo for your Twitter brand. Pick a unique picture that's recognizable from a distance, and don't change it. It'll stand out in a pile of mentions and allow busy accounts to notice and remember you.](https://twitter.com/naval/status/1062020468725571584)
 - Wrap Google queries with complex chars in `""`. i.e. google for `"set -x" zsh` instead of `set -x zsh`.
 - [Bad-faith behavior by a _single person_ can seriously drain gumption.](https://twitter.com/andy_matuschak/status/1378762483440050177)
+- [It is difficult to get a person to understand something, when their salary depends on their not understanding it.](https://twitter.com/awilkinson/status/1381620877146562568)
 
 ## Other
 

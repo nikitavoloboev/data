@@ -16,6 +16,7 @@
 - [If you see something you love online, maybe consider emailing the person and letting them know! Worst case, they’ll ignore it, best case, you’ll forget about it and then be pleasantly surprised when they answer](https://capnfabs.net/posts/2020-its-over/)
 - [Never expect or require someone to get back to you immediately unless it’s a true emergency. The expectation of immediate response is toxic.](https://twitter.com/jasonfried/status/1371587706782851072)
 - [Best calls I've had for months have been audio walk-and-talks and I love them.](https://twitter.com/superbryntendo/status/1376606058467188747)
+- [The gross thing about assuming all women in tech are dealing with impostor syndrome is that lots of men take it as permission to position themselves as your mentor rather than your peer.](https://twitter.com/amyngyn/status/1381416143684915207)
 
 ## Links
 
