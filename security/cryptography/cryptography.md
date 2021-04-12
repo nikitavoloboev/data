@@ -112,3 +112,4 @@
 - [Crackpot Cryptography and Security Theater (2021)](https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/) ([Lobsters](https://lobste.rs/s/eext9b/crackpot_cryptography_security_theater))
 - [Lobsters: Resources for crypto fundamentals? (2021)](https://lobste.rs/s/edpwke/resources_for_crypto_fundamentals)
 - [keys.pub](https://keys.pub/) - Cryptographic key management. ([Code](https://github.com/keys-pub/keys))
+- [hacspec](https://github.com/hacspec/hacspec) - Specification language for cryptography primitives. ([Web](https://hacspec.github.io/))

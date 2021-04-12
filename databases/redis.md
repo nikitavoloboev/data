@@ -56,3 +56,4 @@
 - [We scaled the GitHub API with a sharded, replicated rate limiter in Redis (2021)](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/) ([HN](https://news.ycombinator.com/item?id=26738417))
 - [redis-x-stream](https://github.com/calebboyd/redis-x-stream) - AsyncIterable interface for reading redis streams.
 - [Redis clone in TypeScript (2020)](https://kubej.com/redis-clone-in-typescript/)
+- [Redis Input/Output Tools (RIOT)](https://github.com/redis-developer/riot) - Series of utilities designed to help you get data in and out of Redis.

@@ -13,6 +13,10 @@
 - [RODARTE SS21](https://twitter.com/coldtakesonly/status/1307540898394386437)
 - [Christian Dior Spring 2021 Ready-to-Wear Collection | Vogue](https://www.vogue.com/fashion-shows/spring-2021-ready-to-wear/christian-dior)
 
+## Notes
+
+- [I really like fashion but I also really like buying one sweater and wearing it 300 days in a row](https://twitter.com/simonsarris/status/1381407102091018240)
+
 ## Links
 
 - [Allbirds](https://www.allbirds.com/) - Sustainable & Comfortable Shoes/Clothes.
