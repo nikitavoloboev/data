@@ -20,9 +20,11 @@ I try to stay in touch using these few things:
 
 Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md) on mac. And I use official Twitter iOS app.
 
-### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
+### [Hacker News](https://news.ycombinator.com/) and [Lobsters](https://lobste.rs/)
 
 They are my two favorite news aggregators on the web. I like Lobsters for its smaller community and quite often better links and discussions.
+
+I mostly use [Hckr News](https://hckrnews.com/) and/or [HN](https://news.ycombinator.com/newest) and [Lobsters](https://lobste.rs/newest) sorted by new. [HN Front](https://news.ycombinator.com/front) is nice too to get a full day coverage of posts. And [HN Search](https://hn.algolia.com/) is great too.
 
 ### Reddit
 

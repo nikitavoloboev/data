@@ -3,6 +3,7 @@
 ## Notes
 
 - [Caffeine is a stimulant. The avg half life of caffeine in an adult is around 5h. So if you have a coffee at 5pm, it means that only 50% of it is gone by 10pm. Depending on how quickly you metabolise coffee, that half life could actually be up to 9h.](https://twitter.com/m_franceschetti/status/1378402354316328968)
+- [Sometimes going to get coffee isn’t really about the coffee](https://twitter.com/cnstntnnn/status/1381267903044059141)
 
 ## Links
 
