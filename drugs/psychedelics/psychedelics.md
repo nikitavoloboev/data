@@ -18,6 +18,8 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 
 I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day.
 
+Psychedelics together with listening of Alan Watts taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my happiness amidst all the universe's chaos.
+
 ## Notes
 
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)

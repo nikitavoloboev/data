@@ -1,14 +1,22 @@
 # Death
 
-I have been very fortunate in life in that I never came close to death or what dying feels like.
+I try to live my life enjoying each moment and moving towards the [future I want](../future/future.md). [One day I will die.](https://medium.com/@nikitavoloboev/opening-up-my-mind-%EF%B8%8F-575c8ece8a24) And I don't want to regret any of the precious and limited time I spent in here.
 
-I am however curious about the subject of death and life itself. What I think about death and life has been deeply shaped by works of [Alan Watts](../humans/alan-watts.md). His ability to transcribe the mysticism and ideas of Zen and Buddhism through stories and beautiful and understandable metaphors is nothing short of amazing.
+I don't much think about life after death as [there is no point to it](https://www.youtube.com/watch?v=wU0PYcCsL6o). I don't think about going to sleep or waking up, it just happens.
 
-One thing I observed, both through my own personal experience and the things I've read is that I am not my body. I am not my ego. The so called **ego death**, I think shows that **I** is an **illusion**. The awareness I feel of my body, my thoughts, my memories is a construct of my own mind shaped by experience. **Ego death**, which [by some](https://psychonautwiki.org/w/index.php?title=Memory_suppression&_=#Ego_death) is described as **suppression of memory** shows that there is more to life than **I** and my life. There is an eternal energy present that underlies all experiences in this universe. You can feel the presence of this eternal energy through deep meditation or taking a short trip with psychedelics.
+If I can form and retrieve memories, I am alive. So I try to do my best in making that process going smoothly with [proper exercise](../fitness/fitness.md), [sleep](../sleep/sleep.md) and [happy outlook on life](happiness.md).
 
-Again, these are just my thoughts on the matter shaped by my own experiences in life and the things I've read and seen. You can never be sure about these things. And more importantly, human language seems too limited to express these ideas and thoughts. You are forced to use metaphors and stories so we can relate the experience to something we know. This is more apparent with psychedelics where trying to describe a psychedelic trip to someone who never experienced it is impossible.
+Its nice there are many humans working on [aging and longevity](../health/aging.md), specifically rejuvenation & eradication of diseases. I hope to contribute to the field too soon.
 
-One advantage that this view of the world brings. The view that everything that happens in the world has no inherent meaning and you are the only person who can give meaning to anything. The view that life and experience as you know it is temporary and can be easily taken away from you. It makes you stop fearing death and anything else that you have no control over. So you can focus on what you think is important to your life and not worry about what would happen **if this happened..** or **if only had this happened..** and start to live **now**.
+From the psychedelic experiences I had in my life, I learned to appreciate the complex nature that is the human brain. Its ability to detect patterns in everything and draw connections is truly marvelous. Listening to all of [Alan Watts's works](../humans/alan-watts.md) on some tryptamine or lysergamide is something everyone should try to do once in their life as in my personal experience it made me truly content with my place in the universe. There is no meaning but the one you care enough to care about. And it seems the only true goal of conscious life is to understand itself. Explore the cosmos.
+
+The other neat thing about psychedelics is their ability to [induce ego death by shutting off default mode network](https://psychonautwiki.org/wiki/Talk:Psilocybin_and_the_Default_Mode_Network). Having your short term memories suppressed so much that you forget that you even took the drug or that you were/are a human being is crazy experience. I had this on [Salvia](../drugs/psychedelics/salvia.md) and life is never really the same after this. Even if it's all just a drug.
+
+With all that said, there is only real conclusion to draw knowing all this. Have fun, be nice and don't worry about what might happen or what has already happened. In the end, it seems even the [universe will eventually go dark and 'die'](https://www.youtube.com/watch?v=uD4izuDMUQA). Probably to eventually be reborn again.
+
+> [Your parents miss you and wish you'd call. Later you'll miss them and wish you could.](https://twitter.com/paulg/status/1106946093701455872)
+
+Spend more time with your close ones.
 
 ## Notes
 
