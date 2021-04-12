@@ -123,3 +123,4 @@ All active variables can be seen by running `env`.
 - [Improving shell workflows with fzf (2021)](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/) ([HN](https://news.ycombinator.com/item?id=26634419))
 - [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
 - [Koi language](https://koi-lang.dev/) - Minimalistic language, mainly aimed at shell scripting. ([Code](https://github.com/eliaperantoni/Koi))
+- [What exactly was the point of [ “x$var” = “xval” ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035)
