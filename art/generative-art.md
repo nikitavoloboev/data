@@ -120,3 +120,4 @@
 - [Simple formula to create bit fields that look like alien art](https://twitter.com/aemkei/status/1378106731386040322)
 - [Reflections on Five Years of Making Art Through Programming (2019)](https://tylerxhobbs.com/essays/2019/reflections-on-five-years-of-making-art-through-programming)
 - [How I Do Generative Art: In Praise of Netpbm (2021)](https://journal.infinitenegativeutility.com/how-i-do-generative-art-in-praise-of-netpbm)
+- [Art Blocks](https://artblocks.io/) - Generative Content Hosted on the Ethereum Blockchain.

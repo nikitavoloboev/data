@@ -3,7 +3,7 @@
 ## ML
 
 - [Flux](https://github.com/FluxML/Flux.jl) - Elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support. ([Flux Model Zoo](https://github.com/FluxML/model-zoo)) ([Deep Learning with Flux.jl](https://juliaacademy.com/p/deep-learning-with-flux-jl)) ([Web](https://fluxml.ai/))
-- [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework. ([Tutorial](https://alan-turing-institute.github.io/MLJTutorials/))
+- [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework. ([Tutorial](https://alan-turing-institute.github.io/MLJTutorials/)) ([HN](https://news.ycombinator.com/item?id=26774590))
 - [MLJTime](https://github.com/alan-turing-institute/MLJTime.jl) - MLJ compatible Julia toolbox for learning with time series.
 - [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.

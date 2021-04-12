@@ -102,3 +102,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How Polarization Ate Our Brains (2021)](https://zeynep.substack.com/p/how-polarization-ate-our-brains)
 - [The Crypto Social Network is Here. Meet BitClout. (2021)](https://jakeudell1.medium.com/the-crypto-social-network-is-here-meet-bitclout-c1859671fd5)
 - [The Ponzi Career (2021)](https://www.drorpoleg.com/the-ponzi-career/) - Future of work is a pyramid scheme, where every person sells his favorite person to the next person. ([HN](https://news.ycombinator.com/item?id=26770562))
+- [Racket](https://racket.com/)
