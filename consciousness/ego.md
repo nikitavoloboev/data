@@ -2,11 +2,11 @@
 
 Ego is who I am. Without ego, there is no I.
 
-PsychonautWiki describes [ego death as memory suppression](https://psychonautwiki.org/w/index.php?title=Memory_suppression&_=#Ego_death). Without your memory, there is no you.
+[PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) describes [ego death as memory suppression](https://psychonautwiki.org/w/index.php?title=Memory_suppression&_=#Ego_death). Without your memory, there is no you.
 
 I had an experience of true ego death only once on [Salvia](../drugs/psychedelics/salvia.md). In those brief moments, I did not know that I was a human person who smoked some drug. My experience was completely foreign to me (like an observer that has no control of what I get to experience or feel). There is a brief moment where I thought, wow I just died. Only to have a wild experience that is hard/impossible to put into words for some unknown time. Eventually you do come back as 'you'. With all the memories you had before you smoked and a quickly diminishing recollection of the wild experience you just had. DMT is supposedly like that too but I never had a breakthrough experience on it yet.
 
-One thing I always keep at top of my mind as far as ego goes is that I am not a 'main character' in this story of life. [Everyone else around me lives a life as complicated or more complicated as me](https://www.youtube.com/watch?v=AkoML0_FiV4). Everyone has the capacity to get hurt and feel pain. And everyone can be happy. I should never be better of at the cost of someone else. I should strive to lift everyone around me up.
+One thing I always keep at top of my mind as far as ego goes is that I am not a 'main character' in this [story of life](https://www.youtube.com/watch?v=KgzQuE1pR1w). [Everyone else around me lives a life as complicated or more complicated as me](https://www.youtube.com/watch?v=AkoML0_FiV4). Everyone has the capacity to get hurt and feel pain. And everyone can be happy. I should never be better of at the cost of someone else. I should strive to lift everyone around me up.
 
 I like to believe in the idea of [Pantheism](https://plato.stanford.edu/entries/pantheism/). I and every other conscious human/animal in this universe is part of one conscious being that is the universe itself. [Hurting another conscious being, you are hurting yourself.](http://www.galactanet.com/oneoff/theegg_mod.html)
 
