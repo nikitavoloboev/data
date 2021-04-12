@@ -107,3 +107,4 @@
 - [Reading Material across various domains](https://github.com/agrim123/reading-material)
 - [Cheat Sheet Maker](https://cheatsheet-maker.herokuapp.com/) - App for creating and sharing cheat sheets (with markdown). ([Code](https://github.com/mdtarhini/cheat-sheet-maker))
 - [The Ultimate Deliberate Practice Guide: How to Be the Best (2021)](https://fs.blog/2021/04/deliberate-practice-guide/)
+- [Naval's learnings](https://twitter.com/jmikolay/status/1364339943699591177)

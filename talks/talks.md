@@ -63,3 +63,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Notes on Speaking at EnthusiastiCon 2020](https://capnfabs.net/posts/remote-conference-talk-notes/)
 - [Learn Improv](https://www.learnimprov.com/) - Improvisational comedy structures. ([HN](https://news.ycombinator.com/item?id=26466711))
 - [Learn to be a great public speaker online in 8 weeks (2021)](https://twitter.com/RobbieCrab/status/1372234591990337541)
+- [How to become a better public speaker](https://twitter.com/JamesClear/status/1378090311537287171)

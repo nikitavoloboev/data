@@ -26,6 +26,7 @@ Success comes from not giving up and doing what you love.
 - [If you are tired, learn how to rest. Not how to quit.](https://twitter.com/paulocoelho/status/1379168086943752192)
 - [The older you get, the more you realize that much the world was build by people no more remarkable than you. The bar isn’t as high as you think.](https://twitter.com/mkobach/status/1379237073194991623)
 - [Imposter syndrome never goes away. I work to reframe the conversation. I'm the prototype of my role. The only comparison I can have is myself on my best day. If I was able to perform well before, then I can do it again.](https://twitter.com/bryanl/status/1379791377245016067)
+- [Success in anything is just a byproduct of learning, and learning is a byproduct of curiosity. Ultimately, if you are curious about something, you will be successful at it, and the more curious you are about it, the more successful you will be at it.](https://twitter.com/jmikolay/status/1364341154020474888)
 
 ## Links
 
