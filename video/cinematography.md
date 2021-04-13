@@ -17,3 +17,5 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [A Drone’s Eye View of a Bowling Alley](https://kottke.org/21/03/a-drones-eye-view-of-a-bowling-alley)
 - [The Director Who Mastered The Art of Filming Faces (2021)](https://www.youtube.com/watch?v=IK4KO0E5Ze0)
 - [Time, Tarkovsky And The Pandemic (2021)](https://www.youtube.com/watch?v=cztCmNSVS3Q)
+- [Wandering DP - YouTube](https://www.youtube.com/c/wanderingdp/videos) - Cinematography podcast.
+- [Books for learning cinematic lightning/direction of photography? (2021)](https://www.reddit.com/r/cinematography/comments/mpymcv/books_for_learning_cinematic_lightningdirection/)

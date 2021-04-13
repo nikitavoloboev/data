@@ -111,3 +111,4 @@
 - [Biotech for the Biocurious (2021)](https://minutes.substack.com/p/biotech-for-the-biocurious)
 - [The Century of Biology Newsletter](https://centuryofbio.substack.com/)
 - [Papers on machine learning for proteins](https://github.com/yangkky/Machine-learning-for-proteins)
+- [Finding a "killer application" for novel biotech: AveXis case study (2020)](https://www.youtube.com/watch?v=n5QyDGhJQSI) ([Tweet](https://twitter.com/paraschopra/status/1381947695980453889))
