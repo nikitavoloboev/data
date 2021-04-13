@@ -12,3 +12,5 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Lobsters: What do you use for password management? (2021)](https://lobste.rs/s/emqfkc/what_do_you_use_for_password_management)
 - [1Password GitHub Action](https://github.com/RobotsAndPencils/1password-action) - Import logins, passwords and documents from your 1Password vaults to use in your GitHub Action workflows.
 - [go-password](https://github.com/sethvargo/go-password) - Go library for generating high-entropy random passwords similar to 1Password.
+- [1Password Secrets Automation (2021)](https://1password.com/secrets/) ([HN](https://news.ycombinator.com/item?id=26794040)) ([Article](https://blog.1password.com/introducing-secrets-automation/))
+- [1Password Connect Node SDK](https://github.com/1Password/connect-sdk-js)
