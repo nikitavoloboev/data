@@ -39,4 +39,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What’s the last 10/10 movie you’ve seen? (2021)](https://twitter.com/patrick_oshag/status/1372709320832512006)
 - [Akira Kurosawa’s List of His 100 Favorite Movies (2015)](https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html) ([HN](https://news.ycombinator.com/item?id=26551604))
 - [What are any number of movies in your top ten? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/me6one/what_are_any_number_of_movies_in_your_top_ten/)
-- [‎Gentle Cinema, a list of films by Doug Dillaman](https://letterboxd.com/dillamonster/list/gentle-cinema/) - Pleasant people doing pleasant things and there's not much drama and you just kind of feel lovely about the world.
+- [Gentle Cinema, a list of films by Doug Dillaman](https://letterboxd.com/dillamonster/list/gentle-cinema/) - Pleasant people doing pleasant things and there's not much drama and you just kind of feel lovely about the world.
+- [Parasite Movie Explained in 15 Beats — How to Write a Screenplay with Save the Cat's Story Structure (2021)](https://www.youtube.com/watch?v=2kil95fwMVo)

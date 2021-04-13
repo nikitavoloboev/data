@@ -810,6 +810,7 @@
 - [cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide some options useful for testing and continuous integration.
 - [probe-run](https://github.com/knurling-rs/probe-run) - Run embedded programs just like native ones.
 - [cargo-up](https://github.com/pksunkara/cargo-up) - Automatically upgrade breaking changes.
+- [cargo-update](https://github.com/nabijaczleweli/cargo-update) - cargo subcommand for checking and applying updates to installed executables.
 
 ## Links
 
