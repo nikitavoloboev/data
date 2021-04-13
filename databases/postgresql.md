@@ -243,3 +243,4 @@
 - [Securing a Postgres Database (2021)](https://goteleport.com/blog/securing-postgres-postgresql/) ([HN](https://news.ycombinator.com/item?id=26674756))
 - [Things I Hate About PostgreSQL (2020)](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791) ([Lobsters](https://lobste.rs/s/vytsm4/10_things_i_hate_about_postgresql)) ([HN](https://news.ycombinator.com/item?id=26709019))
 - [Anatomy of a PostgreSQL Query Plan (2021)](https://arctype.com/blog/postgresql-query-plan-anatomy/)
+- [Terraform Provider for PostgreSQL](https://github.com/cyrilgdn/terraform-provider-postgresql)

@@ -261,3 +261,4 @@
 - [The Affective Growth of Computer Vision](https://authentic.sice.indiana.edu/publications/Su_Crandall-AffectiveGrowthCV-CVPR21.pdf)
 - [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D (2020)](https://arxiv.org/abs/2008.05711) ([Code](https://github.com/nv-tlabs/lift-splat-shoot))
 - [End-to-End Video Instance Segmentation with Transformers (2021)](https://arxiv.org/abs/2011.14503) ([Code](https://github.com/Epiphqny/VisTR))
+- [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi)

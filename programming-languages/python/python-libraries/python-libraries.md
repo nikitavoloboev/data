@@ -77,6 +77,7 @@
 - [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple.
 - [alive-progress](https://github.com/rsalmei/alive-progress) - New kind of Progress Bar, with real time throughput, eta and cool animations.
 - [python-nubia](https://github.com/facebookincubator/python-nubia) - Lightweight framework for building command-line applications with Python.
+- [argcomplete](https://github.com/kislyuk/argcomplete) - Python and tab completion, better together.
 
 ## DB
 

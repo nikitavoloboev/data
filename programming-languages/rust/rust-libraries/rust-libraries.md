@@ -779,6 +779,7 @@
 - [rust-iterators](https://github.com/rustomax/rust-iterators) - Basic Rust iterator usage.
 - [uluru](https://github.com/servo/uluru) - Simple, fast, LRU cache implementation.
 - [Typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects.
+- [popol](https://github.com/cloudhead/popol) - Minimal non-blocking I/O for Rust.
 
 ## Cargo Plugins
 

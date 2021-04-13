@@ -134,6 +134,7 @@
 - [canvas](https://github.com/fzipp/canvas) - Draw on an HTML 2D canvas in a web browser from a server program using WebSockets.
 - [Encore](https://github.com/encoredev/encore) - Go backend framework with superpowers. ([Web](https://encore.dev/))
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+- [rek](https://github.com/lucperkins/rek) - Easy HTTP client for Go. Inspired by the immortal Requests.
 
 ## GraphQL
 
