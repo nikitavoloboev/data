@@ -834,6 +834,7 @@
   - [My workflow notation](other/my-workflow-notation.md)
   - [Queries](other/queries.md)
   - [Funny](other/funny.md)
+  - [NSFW](other/nsfw.md)
   - [Puzzles](other/puzzles.md)
   - [Woodworking](other/woodworking.md)
   - [Gardening](other/gardening.md)
