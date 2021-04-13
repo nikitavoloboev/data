@@ -655,6 +655,7 @@
 - [Swift Collections](https://github.com/apple/swift-collections) - Package of production grade Swift data structures.
 - [Options](https://github.com/brightdigit/Options) - Swift Package for more powerful Enum types.
 - [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - Elegant modern declarative data visualization chart framework.
+- [Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement.
 
 ## Other (not lib)
 

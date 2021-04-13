@@ -92,3 +92,5 @@
 - [SvelteFire](https://github.com/codediodeio/sveltefire) - Cybernetically enhanced Firebase apps.
 - [Add Tailwind CSS to Svelte CLI tool](https://github.com/svelte-add/tailwindcss)
 - [Svelte Adders](https://github.com/svelte-add/svelte-adders) - Collection of composable commands to add functionality to Svelte.
+- [Dynamic, smooth animations in Svelte](https://twitter.com/DerekNguyen10/status/1381908660406820869)
+- [Why Typescript and Svelte are a match made in heaven (2021)](https://www.sanity.io/guides/using-typescript-with-svelte)
