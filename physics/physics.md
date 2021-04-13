@@ -199,3 +199,4 @@
 - [Muon G-2 Experiment at Fermilab Finds Hint of New Particles (2021)](https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407/) ([HN](https://news.ycombinator.com/item?id=26738989)) ([HN 2](https://news.ycombinator.com/item?id=26726269))
 - [This result could change physics forever (2021)](https://www.youtube.com/watch?v=0roQUZvU-As)
 - [Who are the current "rock stars" in physics? (2021)](https://www.reddit.com/r/AskPhysics/comments/mnotsv/who_are_the_current_rock_stars_in_physics/)
+- [NEWS: What's up with Muons? - Sixty Symbols (2021)](https://www.youtube.com/watch?v=kBzn4o4z5Bk) ([Reddit](https://www.reddit.com/r/Physics/comments/mpjzp1/news_whats_up_with_muons_sixty_symbols/))

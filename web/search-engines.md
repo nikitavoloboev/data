@@ -121,3 +121,4 @@
 - [Vald](https://vald.vdaas.org/) - Highly Scalable Distributed Vector Search Engine. ([Code](https://github.com/vdaas/vald)) ([HN](https://news.ycombinator.com/item?id=26735300))
 - [Awesome Vector Search Engine](https://github.com/currentsapi/awesome-vector-search)
 - [OpenGameArt Search + Reverse Image Search](https://emh.lart.no/ogasearch/) - Reverse image search for pixel art. ([Code](https://github.com/emnh/PixelArtSearch)) ([HN](https://news.ycombinator.com/item?id=26735700))
+- [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics.

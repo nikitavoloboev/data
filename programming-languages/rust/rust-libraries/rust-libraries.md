@@ -780,6 +780,7 @@
 - [uluru](https://github.com/servo/uluru) - Simple, fast, LRU cache implementation.
 - [Typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects.
 - [popol](https://github.com/cloudhead/popol) - Minimal non-blocking I/O for Rust.
+- [escher](https://github.com/petrosagg/escher) - Self-referencial structs using async stacks.
 
 ## Cargo Plugins
 

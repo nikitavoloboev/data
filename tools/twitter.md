@@ -92,3 +92,4 @@
 - [The power of Twitter (2021)](https://twitter.com/gregisenberg/status/1378395998859493378)
 - [Archive Team: A Smattering of Tweets](https://archive.org/details/archiveteam_twitter) ([HN](https://news.ycombinator.com/item?id=26703203))
 - [Telegram bot that forwards Tweets](https://github.com/franciscod/telegram-twitter-forwarder-bot)
+- [Goodbye](https://github.com/ahmetb/goodbye) - Notify yourself when someone unfollows you on Twitter.
