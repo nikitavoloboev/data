@@ -21,3 +21,4 @@
 - [Building a high-scale chat server on Cloud Run (2021)](https://ahmet.im/blog/cloud-run-chat-server/) ([HN](https://news.ycombinator.com/item?id=26406206))
 - [Compare AWS and Azure Services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison) ([HN](https://news.ycombinator.com/item?id=26562230))
 - [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - Collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [runsd](https://github.com/ahmetb/runsd) - Drop-in Service Discovery capabilities for Google Cloud Run.
