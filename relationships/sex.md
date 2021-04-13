@@ -39,3 +39,4 @@
 - [Planned Parenthood](https://www.plannedparenthood.org/) - Provides reproductive health care in the United States and globally.
 - [OUI](https://www.oui.us/) - Birth Control Designed for You.
 - [How-to ride on top](https://www.reddit.com/r/sexover30/comments/mphoiq/howto_ride_on_top/)
+- [What are some common misconceptions about lesbian sex?](https://www.reddit.com/r/sex/comments/mpymjp/questions_for_lesbians_what_are_some_common/)

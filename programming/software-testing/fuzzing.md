@@ -45,3 +45,4 @@
 - [SQLfuzz](https://github.com/PumpkinSeed/sqlfuzz) - Simple SQL table fuzzing.
 - [Tavor](https://github.com/zimmski/tavor) - Generic fuzzing and delta-debugging framework.
 - [What Is Fuzz Testing? (2021)](https://blog.fuzzbuzz.io/what-is-fuzz-testing/) ([HN](https://news.ycombinator.com/item?id=26731751))
+- [An Empirical Study of OSS-Fuzz Bugs (2021)](https://arxiv.org/pdf/2103.11518.pdf)

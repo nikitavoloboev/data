@@ -36,3 +36,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Simple and Secure VPN in FreeBSD – Introducing WireGuard (2021)](https://klarasystems.com/articles/simple-and-secure-vpn-in-freebsd/)
 - [TCP/IP Fingerprinting for VPN and Proxy Detection (2021)](https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detection/)
 - [VpnCloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN. ([Web](https://vpncloud.ddswd.de/)) ([HN](https://news.ycombinator.com/item?id=26678723))
+- [Everything VPN Is New Again (2021)](https://cacm.acm.org/magazines/2021/4/251363-everything-vpn-is-new-again/fulltext)
