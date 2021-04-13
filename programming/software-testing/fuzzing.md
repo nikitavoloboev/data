@@ -10,7 +10,6 @@
 - [Fuzzing Firefox with WebIDL (2020)](https://hacks.mozilla.org/2020/04/fuzzing-with-webidl/)
 - [Fuzzit](https://github.com/fuzzitdev/fuzzit) - Helps you integrate Continuous Fuzzing to your C/C++, Java, Go, Rust and Swift projects with your current CI/CD workflow.
 - [rustbuster](https://github.com/phra/rustbuster) - Comprehensive Web Fuzzer and Content Discovery Tool.
-- [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
 - [lain](https://github.com/microsoft/lain) - Fuzzer framework built in Rust.
 - [Fuzzing Raft for Fun and Publication (2015)](https://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit/)
 - [Design Draft: First Class Fuzzing in Go](https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md)
@@ -46,3 +45,4 @@
 - [Tavor](https://github.com/zimmski/tavor) - Generic fuzzing and delta-debugging framework.
 - [What Is Fuzz Testing? (2021)](https://blog.fuzzbuzz.io/what-is-fuzz-testing/) ([HN](https://news.ycombinator.com/item?id=26731751))
 - [An Empirical Study of OSS-Fuzz Bugs (2021)](https://arxiv.org/pdf/2103.11518.pdf)
+- [Coverage Guided, Property Based Testing](https://lemonidas.github.io/pdf/FuzzChick.pdf)
