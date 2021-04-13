@@ -38,3 +38,4 @@
 - [Sexual compatibility, what is it?](https://twitter.com/QiaochuYuan/status/1378399565393502208)
 - [Planned Parenthood](https://www.plannedparenthood.org/) - Provides reproductive health care in the United States and globally.
 - [OUI](https://www.oui.us/) - Birth Control Designed for You.
+- [How-to ride on top](https://www.reddit.com/r/sexover30/comments/mphoiq/howto_ride_on_top/)

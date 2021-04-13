@@ -4,6 +4,11 @@ Our body likes to stay and keep itself in a state of homeostasis. I think it is 
 
 Moderation is key with drugs of any kind, be it medicine or recreational use. Knowing what the appropriate dosage is, what effects a drug has and what are the consequences of taking the drug is of utmost importance.
 
+## Notes
+
+- [The drug isn't the issue its our relationship with them.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)
+- [The difference between a medicine and a poison is the dose, and the method for finding the right dose varies from person to person.](https://www.reddit.com/r/Psychedelics/comments/mpmmse/this_needs_to_stop/)
+
 ## Links
 
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Amazing resource.

@@ -97,4 +97,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Checkout.com](https://www.checkout.com/) - Accept Payments Online.
 - [Interactive financial modeling (2021)](https://www.youtube.com/watch?v=h1BGy6CV1co)
 - [Maybe](https://maybe.co/) - Modern financial planning & investment management.
-- [How People Get Rich Now (2021)](http://paulgraham.com/richnow.html) ([HN](https://news.ycombinator.com/item?id=26781052))
+- [How People Get Rich Now (2021)](http://paulgraham.com/richnow.html) ([HN](https://news.ycombinator.com/item?id=26781052)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/mpteal/how_people_get_rich_now_by_paul_graham/))

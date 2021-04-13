@@ -29,6 +29,7 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
   - their diet is not the "elixir of youth", as multiple interacting factors may be in play
 - [We can argue about carbohydrates endlessly, and I have to no avail in the past, but there is no dietary need for sugar at all. We tolerate some of it, but the less of it you eat the better off your body will be.](https://news.ycombinator.com/item?id=25570376)
 - [The structure of amino acids require nitrogen, and there is no nitrogen in fatty acids - only carbon and hydrogen. However, we can recycle nitrogen that is already in the body. There has been a documented fast of over a year for an obese person with no documented ill effects.](https://www.reddit.com/r/nutrition/comments/mfqcxw/can_the_human_body_produce_a_protein_from_stored/)
+- [Blueberries have more polyphenols and antioxidants than strawberries. In general, darker berries (blueberries, blackberries, açaí, cranberries, etc.) are your best bet for micronutrient benefits.](https://www.reddit.com/r/nutrition/comments/mpmz0j/strawberries_or_blueberries/)
 
 ## Links
 

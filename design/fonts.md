@@ -229,3 +229,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Glyphs](https://glyphsapp.com/) - Mac font editor that puts you in control.
 - [Let’s fix font size (2021)](https://tonsky.me/blog/font-size/) ([HN](https://news.ycombinator.com/item?id=26633148)) ([Lobsters](https://lobste.rs/s/nl6nd3/font_size_is_useless_let_s_fix_it))
 - [Free Font Alternatives: The Ultimate Guide (2021)](https://learnui.design/blog/ultimate-guide-similar-fonts.html)
+- [Fontjoy](https://fontjoy.com/) - Generate font pairings in one click. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/mpgbq0/fontjoy_a_website_that_helps_designers_to_choose/))

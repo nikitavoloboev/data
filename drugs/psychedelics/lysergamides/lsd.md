@@ -28,3 +28,4 @@
 - [David Nichols - From ergot to LSD and beyond (2020)](https://www.youtube.com/watch?v=iu0EZFz0-KQ)
 - [What are some of your favorite things to do on LSD? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lk1u9n/what_are_some_of_your_favorite_things_to_do_on_lsd/)
 - [LSD Tolerance Calculator](https://lsdtolerancecalculator.github.io/)
+- [I took some LSD and realized being happy is my baseline (2021)](https://www.reddit.com/r/Psychonaut/comments/mplesn/i_took_some_lsd_and_realized_being_happy_is_my/)
