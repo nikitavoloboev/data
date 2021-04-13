@@ -46,3 +46,4 @@
 - [DynamoDB Checklist (2021)](https://www.sensedeep.com/blog/posts/2021/dynamodb-checklist.html)
 - [DynamoDB with Go](https://dev.to/jbszczepaniak/dynamodb-with-go-1-setup-1nnm)
 - [Amazon DynamoDB Developer Guide](https://github.com/awsdocs/amazon-dynamodb-developer-guide)
+- [Amazon DynamoDB data modeling with NoSQL Workbench with Gunnar and Samaneh (2021)](https://www.twitch.tv/videos/984733547)

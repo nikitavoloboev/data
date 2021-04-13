@@ -444,3 +444,4 @@
 - [How I built a €25K Machine Learning Rig (2021)](https://www.emilwallner.com/p/ml-rig) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/ml6u5u/p_how_i_built_a_25k_machine_learning_rig/))
 - [Learning Fast Algorithms for Linear Transforms Using Butterfly Factorizations (2019)](https://arxiv.org/abs/1903.05895)
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - Resource for learning about ML, DL, PyTorch and TensorFlow.
+- [Joint Universal Syntactic and Semantic Parsing (2021)](https://arxiv.org/abs/2104.05696)

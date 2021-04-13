@@ -124,3 +124,4 @@
 - [Why Senior Engineers Hate Coding Interviews (2020)](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757) ([Lobsters](https://lobste.rs/s/tw2pdg/why_senior_engineers_hate_coding))
 - [Do you have a framework for good engineering interview questions? (2021)](https://lobste.rs/s/c1e5ii/do_you_have_framework_for_good)
 - [Technical interview methods pale in comparison to playing Factorio with someone (2021)](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/) ([HN](https://news.ycombinator.com/item?id=26591966)) ([Lobsters](https://lobste.rs/s/nwvm1p/factorio_is_best_technical_interview_we))
+- [Senior and Above Interviews at Big Tech and Startups](https://blog.pragmaticengineer.com/tech-interviews/)
