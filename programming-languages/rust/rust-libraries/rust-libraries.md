@@ -781,6 +781,7 @@
 - [Typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects.
 - [popol](https://github.com/cloudhead/popol) - Minimal non-blocking I/O for Rust.
 - [escher](https://github.com/petrosagg/escher) - Self-referencial structs using async stacks.
+- [dipa](https://github.com/chinedufn/dipa) - Makes it easy to efficiently delta encode large Rust data structures.
 
 ## Cargo Plugins
 

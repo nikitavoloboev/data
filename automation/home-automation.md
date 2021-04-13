@@ -43,3 +43,4 @@
 - [Go Chromecast](https://github.com/vishen/go-chromecast) - CLI for Google Chromecast, Home devices and Cast Groups.
 - [Alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant.
 - [Home Assistant CLI](https://github.com/home-assistant-ecosystem/home-assistant-cli)
+- [HA Floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Floor plan for Home Assistant.

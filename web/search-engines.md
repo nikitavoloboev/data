@@ -122,3 +122,4 @@
 - [Awesome Vector Search Engine](https://github.com/currentsapi/awesome-vector-search)
 - [OpenGameArt Search + Reverse Image Search](https://emh.lart.no/ogasearch/) - Reverse image search for pixel art. ([Code](https://github.com/emnh/PixelArtSearch)) ([HN](https://news.ycombinator.com/item?id=26735700))
 - [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics.
+- [Dedupe Python Library](https://github.com/dedupeio/dedupe) - Python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.

@@ -178,3 +178,4 @@
 - [Difference between SSR, SSG, CSR and SPA (2021)](https://www.reddit.com/r/nextjs/comments/mot54n/difference_between_ssr_ssg_csr_and_spa/)
 - [How to make Next.js site more secure (2021)](https://twitter.com/leeerob/status/1381605537742254082)
 - [Transitioning Mailbrew from CRA to NextJS (2021)](https://francescodilorenzo.com/cra-to-nextjs)
+- [Next Remote Watch](https://github.com/hashicorp/next-remote-watch) - Decorated local server for next.js that enables reloads from remote data changes.

@@ -57,6 +57,8 @@
 - [React Suite](https://rsuitejs.com/) - Suite of React components, sensible UI design, and a friendly development experience. ([Code](https://github.com/rsuite/rsuite))
 - [Ant Design](https://ant.design/) - World's second most popular React UI framework. ([Code](https://github.com/ant-design/ant-design))
 - [aragonUI](https://ui.aragon.org/) - UI kit for decentralized apps. ([Code](https://github.com/aragon/ui))
+- [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/) ([Code](https://github.com/salesforce-ux/design-system))
+- [Shopify Polaris design tokens](https://github.com/Shopify/polaris-tokens)
 
 ## Notes
 

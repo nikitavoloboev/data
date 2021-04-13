@@ -59,6 +59,7 @@
 - [go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
 - [Rapid](https://github.com/flyingmutant/rapid) - Go library for property-based testing.
 - [sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Mock library implementing sql/driver. Simulate any SQL driver behavior in tests, without needing a real database connection.
+- [Ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go.
 
 ## Web
 

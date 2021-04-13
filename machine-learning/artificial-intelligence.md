@@ -68,3 +68,4 @@
 - [This AI Learns From Its Dreams | Two Minute Papers (2018)](https://www.youtube.com/watch?v=gvjCu7zszbQ) ([Paper](https://arxiv.org/abs/1803.10122))
 - [Replika](https://replika.ai/) - AI companion who cares.
 - [Replika.ai Research Papers, Posters, Slides & Datasets](https://github.com/lukalabs/replika-research)
+- [From Zero to AI Research Scientist full resources guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)

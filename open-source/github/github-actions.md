@@ -241,3 +241,4 @@
 - [On-demand self-hosted AWS EC2 runner for GitHub Actions](https://github.com/machulav/ec2-github-runner)
 - [Save your bookmarks with GitHub actions](https://katydecorah.com/code/bookmark-action/)
 - [Awesome GHA Snippets](https://github.com/yengoteam/awesome-gha-snippets)
+- [Awesome self-hosted GitHub Action runners](https://github.com/jonico/awesome-runners)
