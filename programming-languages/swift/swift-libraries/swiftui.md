@@ -139,3 +139,4 @@
 - [DetailsPro](https://detailspro.app/) - Design user interfaces with SwiftUI.
 - [Core Data and SwiftUI (2021)](https://davedelong.com/blog/2021/04/03/core-data-and-swiftui/)
 - [SwiftUI Notes/Links](https://github.com/jessesquires/TIL/blob/main/apple_platform/swiftui.md)
+- [Every SwiftUI protocol explained (2021)](https://www.fivestars.blog/articles/swiftui-protocols/)

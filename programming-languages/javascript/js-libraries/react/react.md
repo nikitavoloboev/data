@@ -3,6 +3,7 @@
 ## OSS React apps
 
 - [Linear.app clone](https://github.com/tuan3w/linearapp_clone) - Uses React and Tailwind CSS.
+- [MacOS in React](https://macos.now.sh/) ([Code](https://github.com/PuruVJ/macos-web))
 
 ## Notes
 
