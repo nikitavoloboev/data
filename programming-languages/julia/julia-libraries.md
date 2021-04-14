@@ -226,6 +226,7 @@
 - [oneAPI.jl](https://github.com/JuliaGPU/oneAPI.jl) - Julia support for the oneAPI programming toolkit.
 - [RuntimeGeneratedFunctions.jl](https://github.com/SciML/RuntimeGeneratedFunctions.jl) - Functions generated at runtime without world-age issues or overhead.
 - [Catwalk.jl](https://github.com/tisztamo/Catwalk.jl) - Adaptive optimizer for speeding up dynamic dispatch in Julia.
+- [Reexport](https://github.com/simonster/Reexport.jl) - Julia macro for re-exporting one module from another.
 
 ## Links
 

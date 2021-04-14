@@ -8,6 +8,7 @@
 - [Eliom](https://github.com/ocsigen/eliom) - Framework for building client/server Web and mobile applications in OCaml.
 - [ocaml-wasmtime](https://github.com/LaurentMazare/ocaml-wasmtime) - OCaml WebAssembly runtime powered by wasmtime.
 - [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework. ([Docs](https://aantron.github.io/dream/)) ([HN](https://news.ycombinator.com/item?id=26758151))
+- [OCaml JavaScript bindings](https://github.com/tmattio/js-bindings)
 
 ## Test
 
