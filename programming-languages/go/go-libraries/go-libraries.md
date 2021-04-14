@@ -133,9 +133,10 @@
 - [Go CORS handler](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests.
 - [gqlgenc](https://github.com/Yamashou/gqlgenc) - Go library for building GraphQL client with gqlgen.
 - [canvas](https://github.com/fzipp/canvas) - Draw on an HTML 2D canvas in a web browser from a server program using WebSockets.
-- [Encore](https://github.com/encoredev/encore) - Go backend framework with superpowers. ([Web](https://encore.dev/))
+- [Encore](https://github.com/encoredev/encore) - Go backend framework with superpowers. ([Web](https://encore.dev/)) ([Reddit](https://www.reddit.com/r/golang/comments/mpdw1h/encore_the_go_backend_framework_with_superpowers/))
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 - [rek](https://github.com/lucperkins/rek) - Easy HTTP client for Go. Inspired by the immortal Requests.
+- [auth](https://github.com/posener/auth) - Painless OAuth authentication middleware.
 
 ## GraphQL
 

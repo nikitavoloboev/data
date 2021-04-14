@@ -446,3 +446,4 @@
 - [Best of ML Rust](https://github.com/e-tony/best-of-ml-rust) - Ranked list of awesome machine learning Rust libraries.
 - [Rust for {Ruby, Haskell, C, ...} programmers](https://github.com/mre/rust-for-x)
 - [Priroda](https://github.com/oli-obk/priroda) - Graphical debugger for Rust MIR.
+- [Ferrous Rust Teaching Material](https://github.com/ferrous-systems/teaching-material) ([Web](https://ferrous-systems.github.io/teaching-material/index.html))
