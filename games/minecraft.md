@@ -44,3 +44,4 @@
 - [JSPrismarine](https://prismarine.dev/) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
 - [minepkg](https://preview.minepkg.io/) - Package Manager For Minecraft. Open platform for mod & modpack sharing. ([Code](https://github.com/minepkg/minepkg))
 - [PolyMc](https://github.com/TheEpicBlock/PolyMc) - Making minecraft mods compatible with a vanilla client.
+- [I built a Neural Network in Minecraft](https://www.youtube.com/watch?v=7OdhtAiPfWY) ([Tweet](https://twitter.com/ykilcher/status/1382328460308271104))

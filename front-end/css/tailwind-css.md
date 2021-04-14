@@ -78,3 +78,4 @@
 - [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase (2021)](https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/)
 - [Kimia-UI](https://kimia-ui.vercel.app/) - Collection of UI Components for React built with Tailwind CSS. ([Code](https://github.com/enochndika/kimia-UI))
 - [Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering.
+- [Tailwind UI: Now with React + Vue support (2021)](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support) ([Tweet](https://twitter.com/adamwathan/status/1382391188993478656))
