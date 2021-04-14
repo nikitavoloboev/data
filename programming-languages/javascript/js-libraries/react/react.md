@@ -1,5 +1,9 @@
 # [React](https://reactjs.org)
 
+## OSS React apps
+
+- [Linear.app clone](https://github.com/tuan3w/linearapp_clone) - Uses React and Tailwind CSS.
+
 ## Notes
 
 - Immediate mode simply means you specify what to redraw on every frame, there is no caching unless you specify it. And you basically redraw whenever some state changes (in a game this is going to be at frame rate).

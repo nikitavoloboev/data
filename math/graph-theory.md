@@ -38,3 +38,4 @@
 - [Awesome Dynamic Graphs](https://github.com/domargan/awesome-dynamic-graphs)
 - [GraphScope](https://github.com/alibaba/GraphScope) - One-Stop Large-Scale Graph Computing System from Alibaba. ([Web](https://graphscope.io/))
 - [The Easiest Unsolved Problem in Graph Theory (2021)](https://medium.com/cantors-paradise/the-easiest-unsolved-problem-in-graph-theory-fa3a7f26181b)
+- [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data.
