@@ -109,3 +109,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Extreme Vim Macros for Traditionalist Catholics (2021)](https://www.youtube.com/watch?v=FXCitlsA7eQ) ([Reddit](https://www.reddit.com/r/vim/comments/lw71ax/extreme_vim_macros_for_traditionalist_catholics/))
 - [Vim is Turing-Complete (2021)](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)
 - [nvcode](https://github.com/ChristianChiarulli/nvcode) - Ultimate Neovim Config NVCode.
+- [Vim normal mode grammar](https://glts.github.io/2013/04/28/vim-normal-mode-grammar.html)

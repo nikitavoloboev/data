@@ -447,3 +447,4 @@
 - [Rust for {Ruby, Haskell, C, ...} programmers](https://github.com/mre/rust-for-x)
 - [Priroda](https://github.com/oli-obk/priroda) - Graphical debugger for Rust MIR.
 - [Ferrous Rust Teaching Material](https://github.com/ferrous-systems/teaching-material) ([Web](https://ferrous-systems.github.io/teaching-material/index.html))
+- [Rust shenanigans: return type polymorphism (2021)](https://loige.co/rust-shenanigans-return-type-polymorphism/) ([Lobsters](https://lobste.rs/s/w0ufh8/rust_shenanigans_return_type))
