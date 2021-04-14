@@ -128,6 +128,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [LaunchControl](https://www.soma-zone.com/LaunchControl/) - Fully-featured launchd GUI allowing you to create, manage and debug system- and user services on your Mac.
 - [HextEdit](https://hextedit.app/) - Fast and native hex editor for macOS.
 - [Shortcat](https://shortcatapp.com/) - Keyboard productivity app for macOS.
+- [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
 
 ## Links
 

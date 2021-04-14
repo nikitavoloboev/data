@@ -216,6 +216,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
 - [NoCo](https://noco.io/) - Low-code platform for engineering teams.
+- [listifi](https://listifi.app/) - Create lists to share with everyone. ([Code](https://github.com/neurosnap/listifi))
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
 - [Audiblogs](https://audiblogs.com/) - Listen to any web article in your podcast player.
 - [Vendia](https://vendia.net/) - Share data and code with partners in real time.

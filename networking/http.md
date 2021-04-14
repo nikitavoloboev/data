@@ -115,3 +115,4 @@
 - [HTTP Prompt](https://github.com/httpie/http-prompt) - Interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. ([Web](https://http-prompt.com/))
 - [Security Headers](https://securityheaders.com/) - Analyze your HTTP response headers.
 - [esbuild-dev-server](https://github.com/zaydek/esbuild-dev-server) - Playground for esbuild, file watching, server-sent events, and HTTP servers.
+- [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for http applications and a dashboard query accelerator for time series databases.

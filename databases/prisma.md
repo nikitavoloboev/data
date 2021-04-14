@@ -43,3 +43,5 @@
 - [Prisma DBML Generator](https://github.com/notiz-dev/prisma-dbml-generator) - Automatically generate a DBML schema from your Prisma Schema.
 - [Hassle-Free Database Migrations with Prisma Migrate (2021)](https://www.prisma.io/blog/prisma-migrate-ga-b5eno5g08d0b) ([HN](https://news.ycombinator.com/item?id=26480466))
 - [nexus-prisma](https://github.com/prisma/nexus-prisma) - Official Prisma plugin for Nexus.
+- [How to deploy Prisma in AWS Lambda with Serverless (2021)](https://dev.to/eddeee888/how-to-deploy-prisma-in-aws-lambda-with-serverless-1m76) ([Code](https://github.com/eddeee888/topic-prisma-aws-lambda-deployment))
+- [How to write tests for Prisma with Docker and Jest (2021)](https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i) ([Code](https://github.com/eddeee888/topic-prisma-testing))
