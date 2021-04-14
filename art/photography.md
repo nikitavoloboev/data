@@ -116,3 +116,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Mirrorless camera recommendations (2021)](https://twitter.com/jasonyuandesign/status/1368046489621073923)
 - [MIRNet-TFJS](https://github.com/Rishit-dagli/MIRNet-TFJS) - TensorFlow JS models for MIRNet for low-light image enhancement. ([Demo](https://mirnet-tfjs-demo.azurewebsites.net/))
 - [Annie Leibovitz Teaches Photography Course](https://www.masterclass.com/classes/annie-leibovitz-teaches-photography)
+- [Nice photo-sharing platforms (2021)](https://twitter.com/wongmjane/status/1382362757886971905)

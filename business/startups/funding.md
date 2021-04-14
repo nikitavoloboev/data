@@ -101,3 +101,4 @@
 - [What would Y-Combinator look like if it was created today? (2021)](https://twitter.com/gregisenberg/status/1376936185206075392)
 - [The Deck We Used to Raise Our Seed with Accel in 13 Days (2021)](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/) ([HN](https://news.ycombinator.com/item?id=26650493))
 - [Raising a VC Fund in Public (2021)](https://www.tango.vc/p/fundraise)
+- [Wefunder](https://wefunder.com/home) - Invest in Startups You Love - Equity Crowdfunding.

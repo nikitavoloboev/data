@@ -100,3 +100,4 @@
 - [A reading list for new engineering managers (2018)](https://jacobian.org/2018/may/2/engmanager-reading-list/)
 - [Larry Page's Comeback (2014)](https://www.businessinsider.com/larry-page-the-untold-story-2014-4) ([HN](https://news.ycombinator.com/item?id=26764230))
 - [Use Red/Yellow/Green system for check-ins (2021)](https://twitter.com/bencodezen/status/1381689656157335558)
+- [#1 tip for new managers: protect your energy (2021)](https://twitter.com/ppyapali/status/1382124266812952582)

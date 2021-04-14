@@ -6,6 +6,7 @@
 - [Running a Remote Company ≠ Working From Home. It means the freedom to set your own work hours, work from anywhere (cafes, travel, co-working) and live where you want.](https://twitter.com/awilkinson/status/1317911134704340992)
 - [Normalize recess for adults. Walking away from my computer to explore the neighborhood at some point between 1p - 3p has done more for me than any corporate mental health app ever.](https://twitter.com/emhaasch/status/1369408335313780743)
 - [Remote work rewards writers.](https://twitter.com/shl/status/1381603968489381896)
+- [Companies mandating company-wide time off days, where EVERYBODY at the company takes the same day off (hoping to help with burnout/pandemic breathing room) is helpful.](https://twitter.com/lara_hogan/status/1382087784974798849)
 
 ## Links
 

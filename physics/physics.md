@@ -200,3 +200,4 @@
 - [This result could change physics forever (2021)](https://www.youtube.com/watch?v=0roQUZvU-As)
 - [Who are the current "rock stars" in physics? (2021)](https://www.reddit.com/r/AskPhysics/comments/mnotsv/who_are_the_current_rock_stars_in_physics/)
 - [NEWS: What's up with Muons? - Sixty Symbols (2021)](https://www.youtube.com/watch?v=kBzn4o4z5Bk) ([Reddit](https://www.reddit.com/r/Physics/comments/mpjzp1/news_whats_up_with_muons_sixty_symbols/))
+- [Can We Understand the Standard Model Using Octonions?](http://pirsa.org/21040005/) ([Tweet](https://twitter.com/johncarlosbaez/status/1382358155389136899))
