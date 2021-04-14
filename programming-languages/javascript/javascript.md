@@ -276,3 +276,4 @@
 - [JavaScript Pass By Value Function Parameters](https://kentcdodds.com/blog/javascript-pass-by-value-function-parameters)
 - [Use console.log() like a pro (2020)](https://markodenic.com/use-console-log-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=26779800))
 - [The complete guide to working with strings in modern JavaScript](https://www.baseclass.io/guides/string-handling-modern-js)
+- [Natto.dev](https://natto.dev/) - Canvas for JavaScript. ([HN](https://news.ycombinator.com/item?id=26790285))

@@ -504,3 +504,4 @@
 - [Awesome XState](https://github.com/darrylhebbes/awesome_xstate)
 - [Moiva.io](https://moiva.io/) - Measure and compare JavaScript libraries side by side.
 - [Scarf](https://about.scarf.sh/) - Installation analytics for your npm package. ([Code](https://github.com/scarf-sh/scarf-js))
+- [npmrank](https://github.com/anvaka/npmrank) - Computes various graph metrics for npm dependencies.

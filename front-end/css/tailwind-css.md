@@ -79,3 +79,4 @@
 - [Kimia-UI](https://kimia-ui.vercel.app/) - Collection of UI Components for React built with Tailwind CSS. ([Code](https://github.com/enochndika/kimia-UI))
 - [Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering.
 - [Tailwind UI: Now with React + Vue support (2021)](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support) ([Tweet](https://twitter.com/adamwathan/status/1382391188993478656))
+- [Building React + Vue support for Tailwind UI (2021)](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui) ([HN](https://news.ycombinator.com/item?id=26784484))

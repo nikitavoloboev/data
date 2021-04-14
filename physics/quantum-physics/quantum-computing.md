@@ -77,3 +77,4 @@
 - [Quantum physics needs complex numbers (2021)](https://arxiv.org/abs/2101.10873) ([Reddit](https://www.reddit.com/r/Physics/comments/lztuk4/quantum_physics_needs_complex_numbers/))
 - [D-Wave Ocean Software Docs](https://docs.ocean.dwavesys.com/en/stable/) - Fastest way to get started writing your quantum application.
 - [How I Became A Quantum Computing Researcher (2021)](https://www.youtube.com/watch?v=3BXZxh6rVlE)
+- [Quantum computing’s reproducibility crisis: Majorana fermions (2021)](https://www.nature.com/articles/d41586-021-00954-8) ([HN](https://news.ycombinator.com/item?id=26781994))

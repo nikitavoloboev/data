@@ -246,4 +246,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Commits are snapshots not diffs (2020)](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/) ([HN](https://news.ycombinator.com/item?id=26741829))
 - [A look how branches work in Git (2021)](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) ([HN](https://news.ycombinator.com/item?id=26735628))
 - [GitAhead](https://gitahead.github.io/gitahead.com/) - Graphical Git client for Windows, Linux and macOS. ([Code](https://github.com/gitahead/gitahead))
-- [Gitlet](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript. ([Docs](http://gitlet.maryrosecook.com/docs/gitlet.html))
+- [Gitlet.js](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript. ([Docs](http://gitlet.maryrosecook.com/docs/gitlet.html)) ([HN](https://news.ycombinator.com/item?id=26787376))

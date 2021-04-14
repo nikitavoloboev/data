@@ -183,3 +183,4 @@ And these Discord servers:
 - [Ask HN: What are some of your favorite journals or magazines? (2020)](https://news.ycombinator.com/item?id=25159931)
 - [Ask HN: Alternatives to HN for non-Hacker News? (2020)](https://news.ycombinator.com/item?id=25318880)
 - [Ask HN: What websites do you visit every day? (2021)](https://news.ycombinator.com/item?id=26192817)
+- [Ask HN: What other news sources do you use? (2021)](https://news.ycombinator.com/item?id=26794248)

@@ -106,3 +106,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [How to Donate to Fight Climate Change (Effectively) (2020)](https://www.theatlantic.com/science/archive/2020/12/how-to-donate-to-fight-climate-change-effectively/617248/)
 - [Yale Environment 360](https://e360.yale.edu/) - Online magazine offering opinion, analysis, reporting, and debate on global environmental issues.
 - [Why has climate economics failed us? (2021)](https://noahpinion.substack.com/p/why-has-climate-economics-failed) ([Tweet](https://twitter.com/Noahpinion/status/1381830759883841539))
+- [We Are Living in a Climate Emergency, and We’re Going to Say So (2021)](https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/) ([HN](https://news.ycombinator.com/item?id=26800003))

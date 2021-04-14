@@ -23,3 +23,4 @@
 - [rwtxt](https://github.com/schollz/rwtxt) - CMS for absolute minimalists. ([Web](https://rwtxt.com/public)) ([Lobsters](https://lobste.rs/s/xrqaxh/schollz_rwtxt_cms_for_absolute))
 - [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))
 - [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms))
+- [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack.
