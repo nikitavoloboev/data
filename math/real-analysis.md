@@ -11,3 +11,4 @@
 - [Mark Schmidt of UBC, giving an animated guest lecture on fast optimization algorithms for deep learning (2020)](https://www.youtube.com/watch?v=nk4M-kYvaNU)
 - [Principles of Mathematical Analysis by Walter Rudin](https://www.goodreads.com/book/show/292079.Principles_of_Mathematical_Analysis) ([Review](https://hampuswessman.se/2021/01/principles-of-mathematical-analysis/))
 - [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) ([Code](https://github.com/jirilebl/ra))
+- [What is Real Analysis about, and why is it so important for financial mathematics? (2021)](https://www.reddit.com/r/learnmath/comments/mqc7n3/what_is_real_analysis_about_and_why_is_it_so/)

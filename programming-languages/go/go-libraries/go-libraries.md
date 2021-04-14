@@ -133,7 +133,7 @@
 - [Go CORS handler](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests.
 - [gqlgenc](https://github.com/Yamashou/gqlgenc) - Go library for building GraphQL client with gqlgen.
 - [canvas](https://github.com/fzipp/canvas) - Draw on an HTML 2D canvas in a web browser from a server program using WebSockets.
-- [Encore](https://github.com/encoredev/encore) - Go backend framework with superpowers. ([Web](https://encore.dev/)) ([Reddit](https://www.reddit.com/r/golang/comments/mpdw1h/encore_the_go_backend_framework_with_superpowers/))
+- [Encore](https://github.com/encoredev/encore) - Go framework for building distributed systems. ([Web](https://encore.dev/)) ([Reddit](https://www.reddit.com/r/golang/comments/mpdw1h/encore_the_go_backend_framework_with_superpowers/)) ([HN](https://news.ycombinator.com/item?id=26806797))
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 - [rek](https://github.com/lucperkins/rek) - Easy HTTP client for Go. Inspired by the immortal Requests.
 - [auth](https://github.com/posener/auth) - Painless OAuth authentication middleware.
@@ -776,6 +776,7 @@
 - [go-hypercore](https://github.com/kiambogo/go-hypercore) - Hypercore implementation in Go.
 - [gostackparse](https://github.com/DataDog/gostackparse) - Parse go stack traces at ~300 MiB/s.
 - [perf](https://github.com/golang/perf) - Go performance measurement, storage, and analysis tools.
+- [go-edlib](https://github.com/hbollon/go-edlib) - Edit distance and string comparison library.
 
 ## Links
 

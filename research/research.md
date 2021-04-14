@@ -101,3 +101,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [The Overedge Catalog: The Future of Research Organizations](https://arbesman.net/overedge/)
 - [Sabine Hossenfelder | Research Made Easy: Evaluate and Rank Your Way (2021)](https://www.youtube.com/watch?v=IVFutzyRmNg)
 - [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
+- [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
