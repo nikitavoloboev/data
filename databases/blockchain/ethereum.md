@@ -197,3 +197,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Vector](https://github.com/connext/vector) - Ultra-minimal state channel network implementation.
 - [The Complete Guide to Full Stack Ethereum Development (2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) ([Code](https://github.com/dabit3/full-stack-ethereum))
 - [zkPorter: a breakthrough in L2 scaling (2021)](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf) ([Tweet](https://twitter.com/zksync/status/1381955843428605958))
+- [Uniswap V3 Code](https://github.com/Uniswap/uniswap-v3-core) - Core smart contracts of Uniswap v3.
