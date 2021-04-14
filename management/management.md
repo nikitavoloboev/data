@@ -101,3 +101,4 @@
 - [Larry Page's Comeback (2014)](https://www.businessinsider.com/larry-page-the-untold-story-2014-4) ([HN](https://news.ycombinator.com/item?id=26764230))
 - [Use Red/Yellow/Green system for check-ins (2021)](https://twitter.com/bencodezen/status/1381689656157335558)
 - [#1 tip for new managers: protect your energy (2021)](https://twitter.com/ppyapali/status/1382124266812952582)
+- [Write tasks not user stories – Linear Method](https://linear.app/method/write-tasks-not-user-stories) ([HN](https://news.ycombinator.com/item?id=26809166))

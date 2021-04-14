@@ -105,6 +105,7 @@
 - [valita](https://github.com/badrap/valita) - Typesafe validation & parsing library for TypeScript.
 - [Tick-Knock](https://github.com/mayakwd/tick-knock) - Small and powerful, type-safe and easy-to-use Entity-Component-System (ECS) library written in TypeScript.
 - [gridstack.js](https://github.com/gridstack/gridstack.js) - Mobile-friendly modern Typescript library for dashboard layout and creation. ([Web](https://gridstackjs.com/))
+- [SheetQuery](https://github.com/vlucas/sheetquery) - Query Builder/ORM for Google Sheets.
 
 ## Links
 
@@ -117,3 +118,4 @@
 - [Awesome Template Literal Types](https://github.com/ghoullier/awesome-template-literal-types)
 - [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.
 - [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.
+- [SheetQuery](https://github.com/vlucas/sheetquery) - Query Builder/ORM for Google Sheets.

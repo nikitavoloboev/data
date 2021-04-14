@@ -4,6 +4,7 @@
 
 - [Signal Android](https://github.com/signalapp/Signal-Android)
 - [Dawn](https://github.com/Tunous/Dawn) - Reddit client.
+- [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram UI clone app built with Jetpack Compose.
 
 ## Links
 

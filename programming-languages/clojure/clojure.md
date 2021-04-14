@@ -122,3 +122,4 @@
 - [Returns a map (2021)](https://clojurearcana.com/returns-a-map/)
 - [clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates.
 - [ClojureVerse](https://clojureverse.org/)
+- [deps.clj](https://github.com/borkdude/deps.clj) - Port of the Clojure CLI bash script to Clojure. Can be run as executable or from source with babashka or JVM.
