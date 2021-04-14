@@ -279,3 +279,4 @@
 - [Python dataclasses will save you hours (2021)](https://www.youtube.com/watch?v=vBH6GRJ1REM)
 - [Faster Python with Go shared objects (the easy way) (2021)](https://blog.kchung.co/faster-python-with-go-shared-objects/)
 - [Learn by reading code: Python standard library design decisions explained (for advanced beginners) (2021)](https://death.andgravity.com/stdlib)
+- [Python 3 Types in the Wild: A Tale of Two Type Systems (2020)](https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf)

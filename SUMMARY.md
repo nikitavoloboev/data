@@ -636,6 +636,7 @@
   - [SVG](computer-graphics/svg.md)
 - [Tools](tools/tools.md)
   - [Twitter](tools/twitter.md)
+  - [Obsidian](tools/obsidian.md)
   - [Dendron](tools/dendron.md)
   - [GitBook](tools/gitbook.md)
   - [CodeSandbox](tools/codesandbox.md)
