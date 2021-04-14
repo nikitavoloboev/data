@@ -17,4 +17,4 @@
 - [John Abercrombie – Timeless](https://open.spotify.com/track/3nTQL2ScjeyOxjqSmDoCCr?si=-2XNmJG1TPmi_fd2w9QMPQ)
 - [Noizer](https://noizer.vercel.app/) - Ambient sounds like Noisli, but free.
 - [VirtOcean](https://virtocean.com/) - Sea and ocean sounds noise generator.
-- [Lofi.cafe](https://lofi.cafe/) ([HN](https://news.ycombinator.com/item?id=26805702))
+- [Lofi.cafe](https://lofi.cafe/) - Retro themed website for LoFi music streaming. ([HN](https://news.ycombinator.com/item?id=26805702))

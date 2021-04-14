@@ -89,3 +89,4 @@
 - [RouteDNS](https://github.com/folbricht/routedns) - DNS stub resolver, proxy and router with support for DoT, DoH, DoQ, and DTLS.
 - [Stop using low DNS TTLs (2019)](https://00f.net/2019/11/03/stop-using-low-dns-ttls/) ([HN](https://news.ycombinator.com/item?id=21436448))
 - [dnspeep](https://github.com/jvns/dnspeep) - Lets you spy on the DNS queries your computer is making.
+- [hyper-dns](https://github.com/martinheidegger/hyper-dns) - DNS lookup for dat/hyper archives.

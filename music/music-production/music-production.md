@@ -28,6 +28,7 @@
 - [Vivid](https://vivid-synth.com/) - High quality audio with Haskell and SuperCollider. ([Code](https://github.com/vivid-synth/vivid))
 - [Teensy Audio Library](https://github.com/PaulStoffregen/Audio) - 16 bit, 44.1 kHz streaming audio library for Teensy 3.
 - [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis. ([Web](http://faust.grame.fr/)) ([Docs](https://faust.grame.fr/doc/manual/index.html#quick-start))
+- [FaustLive](https://github.com/grame-cncm/faustlive) - Swiss knife for Faust development.
 - [AudioKit Pro](https://audiokitpro.com/) - Leading free & open-source audio framework for iOS, macOS, and Apple Watch.
 - [noise.sh](https://noise.sh/) - Digital signal processing spreadsheet for sound design.
 - [Noisefunge](https://github.com/revnull/noisefunge.rs) - Music livecoding environment based on the befunge programming language. ([HN](https://news.ycombinator.com/item?id=24549602))
@@ -70,6 +71,7 @@
 - [IBNIZ](http://viznut.fi/ibniz/) - Virtual machine designed for extremely compact low-level audiovisual programs. ([Code](https://github.com/viznut/IBNIZ))
 - [HMSL](https://github.com/philburk/hmsl) - Hierarchical Music Specification Language.
 - [Pure Data](https://github.com/pure-data/pure-data) - Free real-time computer music system.
+- [Vult](https://github.com/modlfo/vult) - Transcompiler well suited to write high-performance DSP code. ([Web](http://modlfo.github.io/vult/))
 
 ## Inspiration
 
@@ -183,3 +185,4 @@
 - [Piano Practice Software Progress (2021)](https://jacquesmattheij.com/piano-practice-software-progress/) ([HN](https://news.ycombinator.com/item?id=26609482))
 - [Resources & tools to learn music production (2021)](https://twitter.com/carolynz/status/1378838910932037636)
 - [How We Record Audio At The Tiny Desk (2017)](https://www.youtube.com/watch?v=e07bI5rz6FY)
+- [VCV Prototype](https://github.com/VCVRack/VCV-Prototype) - Scripting language host for VCV Rack.

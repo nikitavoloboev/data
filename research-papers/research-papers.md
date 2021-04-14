@@ -105,3 +105,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Publishing a research paper as an independent (2021)](https://twitter.com/chrislpenner/status/1375937810016837634)
 - [JabRef](https://www.jabref.org/) - Free Reference Manager - Stay on top of your Literature. ([Code](https://github.com/JabRef/jabref))
 - [acmdownload](https://github.com/niklasekstrom/acmdownload) - Python script to automatically download metadata about research papers, starting with some paper and transitively downloading the most relevant papers, from ACM digital library.
+- [Pubs](https://github.com/pubs/pubs) - Brings your bibliography to the command line.
