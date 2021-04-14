@@ -24,4 +24,4 @@
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk)
 - [ClickHouse as an alternative to Elasticsearch for log storage and analysis (2021)](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/) ([HN](https://news.ycombinator.com/item?id=26316401))
 - [How to build an elastic search cluster for production? (2021)](https://www.cncf.io/blog/2021/03/25/how-to-build-an-elastic-search-cluster-for-production/)
-- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine. Forked off Elasticsearch.
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine. AWS fork of Elasticsearch and Kibana. ([Intro](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)) ([HN](https://news.ycombinator.com/item?id=26780848))
