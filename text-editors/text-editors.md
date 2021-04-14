@@ -45,6 +45,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Firepad](https://github.com/FirebaseExtended/firepad) - Collaborative Text Editor Powered by Firebase.
 - [Noteworthy](https://noteworthy.ink/) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror. ([Code](https://github.com/benrbray/noteworthy))
 - [Texture](https://github.com/substance/texture) - Visual editor for research.
+- [Amp](https://amp.rs/) - Complete text editor for your terminal. ([Code](https://github.com/jmacdonald/amp))
 
 ## Web
 

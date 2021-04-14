@@ -292,3 +292,4 @@
 - [100 underline/overlay animations | The ultimate CSS collection (2021)](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
 - [My Website is More Responsive Than Yours (2021)](https://www.youtube.com/watch?v=Dk1gxZ_K3E0)
 - [Say Hello To CSS Container Queries (2021)](https://ishadeed.com/article/say-hello-to-css-container-queries/) ([Tweet](https://twitter.com/Stammy/status/1382335598283919369))
+- [Awesome Container Queries](https://github.com/sturobson/Awesome-Container-Queries)

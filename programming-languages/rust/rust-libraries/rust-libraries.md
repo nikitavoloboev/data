@@ -782,6 +782,7 @@
 - [popol](https://github.com/cloudhead/popol) - Minimal non-blocking I/O for Rust.
 - [escher](https://github.com/petrosagg/escher) - Self-referencial structs using async stacks.
 - [dipa](https://github.com/chinedufn/dipa) - Makes it easy to efficiently delta encode large Rust data structures.
+- [Scribe](https://github.com/jmacdonald/scribe) - Text editor toolkit.
 
 ## Cargo Plugins
 
