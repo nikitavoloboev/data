@@ -106,3 +106,4 @@
 - [Computers by the Decade](https://www.charlieharrington.com/computers-by-the-decade)
 - [The Shape of Rome (2013)](https://www.exurbe.com/the-shape-of-rome/) ([HN](https://news.ycombinator.com/item?id=26769371))
 - [The Fallen of World War II](http://www.fallen.io/ww2/) - Data-driven documentary about war & peace.
+- [A Natural History of Beauty](https://meltingasphalt.com/a-natural-history-of-beauty/)
