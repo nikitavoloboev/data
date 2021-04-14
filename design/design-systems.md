@@ -116,3 +116,4 @@
 - [Hawkins: Diving into the Reasoning Behind our Design System (2021)](https://netflixtechblog.com/hawkins-diving-into-the-reasoning-behind-our-design-system-964a7357547)
 - [Design System Questionnaire](https://github.com/bradfrost/design-system-questionnaire)
 - [Component Gallery](https://component.gallery/) - Collection of interface components from real-world design systems.
+- [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)

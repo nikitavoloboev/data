@@ -467,7 +467,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [PDF Wrench](https://pdfwrench.com/) - Combine multiple PDF pages and images into one PDF document. ([HN](https://news.ycombinator.com/item?id=24830927))
 - [Tools for Conviviality (1973)](http://www.davidtinapple.com/illich/1973_tools_for_convivality.html)
 - [Gitlab: Tech Stack (2020)](https://about.gitlab.com/handbook/business-ops/tech-stack/) ([HN](https://news.ycombinator.com/item?id=24868415))
-- [Open source, experimental, and tiny tools roundup](https://github.com/everestpipkin/tools-list) - Smaller tools that might be useful in building your game/website/interactive project.
+- [Open source, experimental, and tiny tools roundup](https://tinytools.directory/) - Smaller tools that might be useful in building your game/website/interactive project. ([Code](https://github.com/everestpipkin/tools-list))
 - [When is no-code useful? (2020)](https://linus.coffee/note/no-code/) ([HN](https://news.ycombinator.com/item?id=24914062))
 - [Interesting web services](https://gist.github.com/franky47/c78b5a7303356b3855c573c44c5d4455) - Semi-curated list of SaaS, platforms and web-based tools for software development.
 - [Product Explorer](https://productexplorer.io/) - Database of 15k+ products for makers and indie investors.

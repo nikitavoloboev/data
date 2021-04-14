@@ -85,3 +85,4 @@
 - [How Asian Parents Flex](https://www.youtube.com/watch?v=CIMmK86vNYo)
 - [Existential Crisis Cat](https://www.youtube.com/watch?v=pBjU3Ii7lfs)
 - [Девушка отругала парня на людях (2021)](https://www.youtube.com/watch?v=F820EN5143M)
+- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) ([HN](https://news.ycombinator.com/item?id=26766722))

@@ -41,3 +41,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What are any number of movies in your top ten? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/me6one/what_are_any_number_of_movies_in_your_top_ten/)
 - [Gentle Cinema, a list of films by Doug Dillaman](https://letterboxd.com/dillamonster/list/gentle-cinema/) - Pleasant people doing pleasant things and there's not much drama and you just kind of feel lovely about the world.
 - [Parasite Movie Explained in 15 Beats — How to Write a Screenplay with Save the Cat's Story Structure (2021)](https://www.youtube.com/watch?v=2kil95fwMVo)
+- [Why Do Wes Anderson Movies Look Like That? (2020)](https://www.youtube.com/watch?v=ba3c9KEuQ4A) ([Article](https://kottke.org/21/04/why-do-wes-anderson-movies-look-like-that))
+- [100 Greatest Korean Films Ever](https://www.koreanscreen.com/100-greatest-korean-films-100-51)

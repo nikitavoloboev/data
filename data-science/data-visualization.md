@@ -90,3 +90,4 @@
 - [go-tsne](https://github.com/danaugrs/go-tsne) - Go implementation of t-Distributed Stochastic Neighbor Embedding (t-SNE), a prize-winning technique for dimensionality reduction particularly well suited for visualizing high-dimensional datasets.
 - [Expose your private Grafana dashboards with TLS (2021)](https://blog.alexellis.io/expose-grafana-dashboards/)
 - [Dataviz Accessibility Resources](https://github.com/dataviza11y/resources)
+- [Online text to diagram tools](https://xosh.org/text-to-diagram/)
