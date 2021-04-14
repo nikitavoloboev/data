@@ -201,3 +201,4 @@
 - [Who are the current "rock stars" in physics? (2021)](https://www.reddit.com/r/AskPhysics/comments/mnotsv/who_are_the_current_rock_stars_in_physics/)
 - [NEWS: What's up with Muons? - Sixty Symbols (2021)](https://www.youtube.com/watch?v=kBzn4o4z5Bk) ([Reddit](https://www.reddit.com/r/Physics/comments/mpjzp1/news_whats_up_with_muons_sixty_symbols/))
 - [Can We Understand the Standard Model Using Octonions?](http://pirsa.org/21040005/) ([Tweet](https://twitter.com/johncarlosbaez/status/1382358155389136899))
+- [The Wolfram Physics Project: A One-Year Update (2021)](https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/) ([HN](https://news.ycombinator.com/item?id=26808991))
