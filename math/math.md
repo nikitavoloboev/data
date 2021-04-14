@@ -230,6 +230,7 @@
 - [Graphtoy](https://graphtoy.com/) ([HN](https://news.ycombinator.com/item?id=25612132))
 - [Principle of Maximum Entropy (2020)](https://leimao.github.io/blog/Maximum-Entropy/) ([HN](https://news.ycombinator.com/item?id=25641459))
 - [The Riemann Hypothesis, Explained (2021)](https://www.youtube.com/watch?v=zlm1aajH6gY) ([Article](https://www.quantamagazine.org/how-i-learned-to-love-and-fear-the-riemann-hypothesis-20210104/))
+- [What is the Riemann Hypothesis? (2019)](https://www.youtube.com/watch?v=v9nyNBLCPks)
 - [Math & Stats Uni Notes](https://github.com/yuchenWYC/Yuchen-UofT-notes)
 - [A Mathematician’s Lament (2009)](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 - [Mathcha](https://www.mathcha.io/) - Online Math Editor.

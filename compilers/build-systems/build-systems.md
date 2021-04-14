@@ -59,3 +59,4 @@
 - [You can handle The Diamond with CMake (2021)](http://beza1e1.tuxen.de/cmake_diamond.html) ([HN](https://news.ycombinator.com/item?id=26602450))
 - [Turborepo](https://turborepo.com/) - Blazing fast monorepo build system. ([GitHub](https://github.com/turborepo)) ([Turbo v0.4.0](https://turborepo.com/posts/turbo-0-4-0))
 - [OMake](http://projects.camlcity.org/projects/omake.html) - Build system designed for scalability and portability. ([Code](https://github.com/ocaml-omake/omake))
+- [Reproducible Builds: Increasing the Integrity of Software Supply Chains (2021)](https://arxiv.org/abs/2104.06020)

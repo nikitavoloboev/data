@@ -11,6 +11,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Qokkas](https://en.wikipedia.org/wiki/Quokka)
 - [Colugo](https://en.wikipedia.org/wiki/Colugo)
 - [Axolotl](https://en.wikipedia.org/wiki/Axolotl)
+- [Seahorse](https://en.wikipedia.org/wiki/Seahorse) ([Reddit](https://www.reddit.com/r/askscience/comments/mqt9af/what_is_up_with_the_seahorse_it_looks_like_nature/))
 
 ## Cute
 
