@@ -42,3 +42,4 @@
 - [Apache Kafka Mocking and Testing (2020)](https://microcks.io/blog/apache-kafka-mocking-testing/)
 - [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet (2021)](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 - [Best Books to Learn Apache Kafka (2021)](https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9)
+- [Kafka-Penguin](https://github.com/oslabs-beta/kafka-penguin) - Easy-to-use, lightweight KafkaJS library for message processing.

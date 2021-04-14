@@ -277,3 +277,4 @@
 - [Jurigged](https://github.com/breuleux/jurigged) - Hot code reloading for Python. ([HN](https://news.ycombinator.com/item?id=26753190))
 - [Free Python Books](https://github.com/pamoroso/free-python-books) ([HN](https://news.ycombinator.com/item?id=26759677))
 - [Python dataclasses will save you hours (2021)](https://www.youtube.com/watch?v=vBH6GRJ1REM)
+- [Faster Python with Go shared objects (the easy way) (2021)](https://blog.kchung.co/faster-python-with-go-shared-objects/)

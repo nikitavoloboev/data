@@ -461,3 +461,4 @@ Go promotes composition over inheritance.
 - [Generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)
 - [How to structure a go project? (2021)](https://www.reddit.com/r/golang/comments/motgyv/how_to_structure_a_project/)
 - [Mugo, a toy compiler for a subset of Go that can compile itself (2021)](https://benhoyt.com/writings/mugo/) ([HN](https://news.ycombinator.com/item?id=26777705)) ([Code](https://github.com/benhoyt/mugo))
+- [Mocking dependencies in Go with implicit interfaces (2021)](https://www.victorhurdugaci.com/mocking-dependencies-go/)
