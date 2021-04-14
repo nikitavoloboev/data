@@ -128,3 +128,4 @@
 - [Jittor](https://github.com/Jittor/jittor) - Just-in-time(JIT) deep learning framework.
 - [autofeat](https://github.com/cod3licious/autofeat) - Linear Prediction Model with Automated Feature Engineering and Selection Capabilities.
 - [Distrax](https://github.com/deepmind/distrax) - Lightweight library of probability distributions and bijectors. It acts as a JAX-native reimplementation of a subset of TensorFlow Probability (TFP).
+- [scikit-learn-extra](https://github.com/scikit-learn-contrib/scikit-learn-extra) - Set of useful tools compatible with scikit-learn.
