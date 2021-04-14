@@ -209,6 +209,7 @@
 - [Apodini](https://github.com/Apodini/Apodini) - Declarative, composable framework to build web services using Swift.
 - [UDPBroadcastConnection](https://github.com/gunterhager/UDPBroadcastConnection) - Framework to send UDP broadcast messages and listen to responses using a Dispatch source.
 - [Swim](https://github.com/robb/Swim) - DSL for writing HTML in Swift.
+- [TinyGraphQL](https://github.com/GetStream/TinyGraphQL) - Simple and lightweight GraphQL query builder for the Swift language.
 
 ## SwiftUI
 

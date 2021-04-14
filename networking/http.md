@@ -114,3 +114,4 @@
 - [Reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy. ([Web](https://reproxy.io/))
 - [HTTP Prompt](https://github.com/httpie/http-prompt) - Interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. ([Web](https://http-prompt.com/))
 - [Security Headers](https://securityheaders.com/) - Analyze your HTTP response headers.
+- [esbuild-dev-server](https://github.com/zaydek/esbuild-dev-server) - Playground for esbuild, file watching, server-sent events, and HTTP servers.

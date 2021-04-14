@@ -291,3 +291,4 @@
 - [Ask HN: Why is the Linux community struggling to implement hibernation? (2021)](https://news.ycombinator.com/item?id=26739220)
 - [The Motivation Behind Systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html) ([HN](https://news.ycombinator.com/item?id=26767261))
 - [rund](https://github.com/rvolosatovs/rund) - Run arbitrary containerized Linux processes over gRPC with mTLS auth.
+- [ELKDAT](https://github.com/satoru-takeuchi/elkdat) - Easy linux kernel development and test tool.

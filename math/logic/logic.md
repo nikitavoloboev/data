@@ -41,4 +41,4 @@
 - [Dana Scott's Research](https://www.cs.cmu.edu/~scott/)
 - [Retrospective review of Gödel, Escher, Bach (1996)](https://cs.nyu.edu/davise/papers/hofstadter.pdf) ([HN](https://news.ycombinator.com/item?id=26624220))
 - [Superposition for Lambda-Free Higher-Order Logic (2021)](https://arxiv.org/abs/2005.02094)
-- [Logica](https://logica.dev/) - Modern Logic Programming. ([Code](https://github.com/EvgSkv/logica)) ([Article](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html))
+- [Logica](https://logica.dev/) - Modern Logic Programming. ([Code](https://github.com/EvgSkv/logica)) ([Article](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)) ([HN](https://news.ycombinator.com/item?id=26805121))
