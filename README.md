@@ -53,6 +53,8 @@ I'd love to hear any [ideas you have](https://github.com/nikitavoloboev/knowledg
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared. ♥️
+
+You can also buy a [PDF export of the entirety of this wiki (2,405 pages)](https://gumroad.com/l/everything-i-know) to support me releasing this wiki for free.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
