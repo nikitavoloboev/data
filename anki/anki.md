@@ -52,3 +52,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [go-anki](https://github.com/flimzy/anki) - Go library to read Anki \*.apkg files.
 - [Closet](https://github.com/hgiesel/closet) - Powerful templating engine for use in flashcards, especially Anki flashcards. ([Docs](https://closetengine.com/))
 - [Omen Flashcards](https://omen.cards/) - Beautifully designed, habit-forming flashcards.
+- [Memo](https://github.com/olmps/memo) - Open-source, programming-oriented spaced repetition software (SRS) written in Flutter.

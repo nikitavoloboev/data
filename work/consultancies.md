@@ -72,7 +72,7 @@
 
 ## Clojure
 
-- [JUXT](https://juxt.pro/index.html)
+- [JUXT](https://juxt.pro/) ([GitHub](https://github.com/juxt))
 
 ## Elixir
 

@@ -72,6 +72,7 @@
 - [HMSL](https://github.com/philburk/hmsl) - Hierarchical Music Specification Language.
 - [Pure Data](https://github.com/pure-data/pure-data) - Free real-time computer music system.
 - [Vult](https://github.com/modlfo/vult) - Transcompiler well suited to write high-performance DSP code. ([Web](http://modlfo.github.io/vult/))
+- [OP-1](https://teenage.engineering/products/op-1) - Synthesizer, sampler and sequencer. ([Anniversary](https://teenage.engineering/products/op-1/anniversary)) ([HN](https://news.ycombinator.com/item?id=26808757))
 
 ## Inspiration
 
