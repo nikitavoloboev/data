@@ -43,3 +43,4 @@
 - [DropEdge: Towards Deep Graph Convolutional Networks on Node Classification](https://github.com/DropEdge/DropEdge)
 - [DIG (Dive into Graphs)](https://github.com/divelab/DIG) - Library for graph deep learning research.
 - [Understanding Graph Neural Networks from Graph Signal Denoising Perspectives (2020)](https://arxiv.org/abs/2006.04386) ([Code](https://github.com/fuguoji/GSDN))
+- [Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions](https://github.com/shyam196/egc)

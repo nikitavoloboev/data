@@ -185,3 +185,4 @@
 - [Deep Reinforcement Learning Berkeley Course](http://rail.eecs.berkeley.edu/deeprlcourse/) ([Code](https://github.com/berkeleydeeprlcourse/homework_fall2020)) ([GitHub](https://github.com/berkeleydeeprlcourse))
 - [Awesome Offline RL](https://github.com/hanjuku-kaso/awesome-offline-rl) - Collection of research and review papers for offline reinforcement learning.
 - [Podracer architectures for scalable Reinforcement Learning (2021)](https://arxiv.org/abs/2104.06272) ([Tweet](https://twitter.com/jekbradbury/status/1382203188489588741))
+- [RL Baselines3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo) - Training Framework for Stable Baselines3 Reinforcement Learning Agents.
