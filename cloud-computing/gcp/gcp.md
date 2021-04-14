@@ -22,3 +22,4 @@
 - [Compare AWS and Azure Services to Google Cloud](https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison) ([HN](https://news.ycombinator.com/item?id=26562230))
 - [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - Collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [runsd](https://github.com/ahmetb/runsd) - Drop-in Service Discovery capabilities for Google Cloud Run.
+- [Google Cloud vs AWS in 2021 (Comparing the Giants)](https://kinsta.com/blog/google-cloud-vs-aws/)
