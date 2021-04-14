@@ -129,3 +129,4 @@
 - [Modal Type Theory implementation](https://mtt-lang.github.io/mtt-web/) - Toy functional language based on modal type theory. ([Code](https://github.com/mtt-lang/mtt-lang))
 - [Giml's type inference engine (2021)](https://gilmi.me/blog/post/2021/04/06/giml-type-inference)
 - [Understanding typing judgments (2016)](https://www.hedonisticlearning.com/posts/understanding-typing-judgments.html)
+- [Prototype implementations of systems based on setoid type theory](https://github.com/AndrasKovacs/setoidtt)

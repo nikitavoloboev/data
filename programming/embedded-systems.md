@@ -112,3 +112,4 @@
 - [CurrentSense-TinyML](https://github.com/Santandersecurityresearch/CurrentSense-TinyML) - Spying on Microcontrollers using Current Sensing and embedded TinyML models.
 - [ODAS](https://github.com/introlab/odas) - Open embeddeD Audition System.
 - [Testing an embedded application (2021)](https://ferrous-systems.com/blog/test-embedded-app/)
+- [cortex-m-rt](https://github.com/rust-embedded/cortex-m-rt) - Minimal startup / runtime for Cortex-M microcontrollers.

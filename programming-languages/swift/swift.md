@@ -199,3 +199,4 @@
 - [Swift on Server Deployment Guide](https://github.com/swift-server/guides) - Guides for building, debugging and deploying Swift Server applications.
 - [How to Use iCloud While Only Kinda Using iCloud (2021)](https://www.swiftjectivec.com/how-to-use-icloud-without-really-using-icloud/)
 - [Building an App with ZIO (2021)](https://www.youtube.com/watch?v=XUwynbWUlhg)
+- [How to index Swift strings for fast read outs (2021)](https://twitter.com/nicklockwood/status/1382020582393454595)

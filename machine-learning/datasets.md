@@ -88,3 +88,4 @@
 - [Finding a standard dataset format for machine learning (2020)](https://openml.github.io/blog/openml/data/2020/03/23/Finding-a-standard-dataset-format-for-machine-learning.html) ([HN](https://news.ycombinator.com/item?id=26462685))
 - [Hashing techniques to compare large datasets? (2021)](https://www.reddit.com/r/MachineLearning/comments/mjqc2v/d_hashing_techniques_to_compare_large_datasets/)
 - [Machine Learning Datasets | Papers With Code](https://paperswithcode.com/datasets) ([Twitter](https://twitter.com/paperswithdata))
+- [Ocean Market](https://market.oceanprotocol.com/) - Marketplace to find, publish and trade data sets. ([Code](https://github.com/oceanprotocol/market))

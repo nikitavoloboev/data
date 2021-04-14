@@ -89,3 +89,4 @@
 - [Parser Combinators in Elixir (2021)](https://serokell.io/blog/parser-combinators-in-elixir)
 - [Elixir Memory - Not Quite Free (2018)](https://stephenbussey.com/2018/05/09/elixir-memory-not-quite-free.html)
 - [Credo](https://github.com/rrrene/credo) - Static code analysis tool for the Elixir language with a focus on code consistency and teaching.
+- [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)

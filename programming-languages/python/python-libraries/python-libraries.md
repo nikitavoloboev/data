@@ -61,6 +61,7 @@
 - [ennemi](https://github.com/polsys/ennemi) - Easy Nearest Neighbor Estimation of Mutual Information.
 - [Knock Knock](https://github.com/huggingface/knockknock) - Get notified when your training ends with only two additional lines of code.
 - [Orion](https://github.com/Epistimio/orion) - Asynchronous Distributed Hyperparameter Optimization. ([Docs](https://orion.readthedocs.io/en/stable/))
+- [ProbNum](https://github.com/probabilistic-numerics/probnum) - Probabilistic Numerics in Python.
 
 ## Biology
 

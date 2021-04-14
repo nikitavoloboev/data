@@ -48,3 +48,4 @@
 - [workers-graphql](https://github.com/caass/workers-graphql) - GraphQL API built for Cloudflare Workers.
 - [Durable Objects, now in Open Beta (2021)](https://blog.cloudflare.com/durable-objects-open-beta/)
 - [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+- [WebSockets Support in Cloudflare Workers (2021)](https://blog.cloudflare.com/introducing-websockets-in-workers/)
