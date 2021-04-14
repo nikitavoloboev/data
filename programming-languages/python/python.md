@@ -278,3 +278,4 @@
 - [Free Python Books](https://github.com/pamoroso/free-python-books) ([HN](https://news.ycombinator.com/item?id=26759677))
 - [Python dataclasses will save you hours (2021)](https://www.youtube.com/watch?v=vBH6GRJ1REM)
 - [Faster Python with Go shared objects (the easy way) (2021)](https://blog.kchung.co/faster-python-with-go-shared-objects/)
+- [Learn by reading code: Python standard library design decisions explained (for advanced beginners) (2021)](https://death.andgravity.com/stdlib)
