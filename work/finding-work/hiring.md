@@ -23,6 +23,7 @@
 - [Apple Jobs](https://www.apple.com/jobs/us/)
 - [Transloadit](https://transloadit.com/jobs/)
 - [Apple Xcode Quality Engineer](https://twitter.com/bugKrusha/status/1358864506516959233)
+- [Fungarzione](https://www.notion.so/Looking-for-a-Full-Stack-developer-for-working-on-Fungarzione-ff0041c0771f48488ee5e68e503b1add)
 
 ## Questions to ask
 

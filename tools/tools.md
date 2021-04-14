@@ -288,6 +288,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router. ([Web](https://vector.dev/))
 - [SerpAPI](https://serpapi.com/) - Scrape Google search results from our fast, easy, and complete API.
 - [Shuffle](https://shuffle.dev/) - Online editor for busy developers. ([HN](https://news.ycombinator.com/item?id=25822636))
+- [Napkin](https://www.napkin.io/) - Backend in the Browser.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 - [Dialup](https://dialup.com/) - Serendipitous voice chat. ([HN](https://news.ycombinator.com/item?id=25557779))
 - [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion.
