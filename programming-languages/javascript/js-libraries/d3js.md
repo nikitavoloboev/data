@@ -39,3 +39,4 @@
 - [D3-React Patterns](https://github.com/lloydrichards/D3-React-Patterns)
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Library based on D3.js, optimized for visualizing and laying out time-series data. ([Code](https://github.com/metricsgraphics/metrics-graphics))
 - [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
+- [D3 in Depth](https://www.d3indepth.com/) - Learn D3.js step by step.

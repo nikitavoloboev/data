@@ -113,3 +113,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Важные истории](https://istories.media/)
 - [«Надо будет, и тебя убьем» (2021)](https://istories.media/reportages/2021/04/09/nado-budet-i-tebya-ubem/) ([Tweet](https://twitter.com/nlyaskin/status/1380473537979420686))
 - [Журнал DOXA](https://doxajournal.ru/)
+- [Бизнесмен Дмитрий Потапенко — Евгении Альбац: "Мы уже живем в совке 2.0" (2021)](https://www.youtube.com/watch?v=xrL6T8TIHG0)
