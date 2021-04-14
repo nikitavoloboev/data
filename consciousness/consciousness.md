@@ -56,3 +56,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [Is Consciousness Everywhere? (2021)](https://thereader.mitpress.mit.edu/is-consciousness-everywhere/)
 - [What is consciousness? Some new perspectives from our physics project (2021)](https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/) ([HN](https://news.ycombinator.com/item?id=26544651))
 - [Do you think that advanced AIs like Sophia and GPT-3 are conscious beings? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/mgdnhz/in_your_own_opinion_do_you_think_that_advanced/)
+- [How would we know whether we are hallucinating reality or not? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/mq1dxc/how_would_we_know_whether_we_are_hallucinating/)

@@ -149,3 +149,6 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Use Mac APIs and build Mac apps with Go (2021)](https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6)
 - [The Best Mac Duplicate Finders (2021)](https://thesweetbits.com/best-duplicate-file-finder-remover-mac/)
 - [What Makes a Great Mac App? (2021)](https://www.linkedin.com/pulse/what-makes-great-mac-app-vladimir-danila/)
+- [Sparkle](https://sparkle-project.org/) - Open source software update framework for macOS. ([Code](https://github.com/sparkle-project/Sparkle))
+- [Bump](https://github.com/replay-software/bump) - Easy way to release & update indie Mac apps. ([Web](https://replay.software/bump))
+- [Bump Core](https://github.com/replay-software/bump-core) - CLI tool that powers the Bump deploy pipeline.

@@ -71,3 +71,4 @@
 - [Testing HashiCorp Terraform (2021)](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 - [Terraform Plugin SDK](https://github.com/hashicorp/terraform-plugin-sdk) - Enables building plugins (providers) to manage any service providers or custom in-house solutions. ([Docs](https://www.terraform.io/docs/extend/))
 - [Stop using Terraform remote state blocks (2021)](https://medium.com/peloton-engineering/stop-using-terraform-remote-state-blocks-2f2d5cea300b)
+- [terrafying](https://github.com/uswitch/terrafying) - Small ruby DSL for Terraform.
