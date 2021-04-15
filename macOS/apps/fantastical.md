@@ -16,3 +16,4 @@ I often switch between `Week` and `Month` views.
 
 - [SavvyCal](https://savvycal.com/) - Scheduling Software Your Recipients Will Love.
 - [Doodle](https://doodle.com/en/) - Free online meeting scheduling tool.
+- [Calendso](https://calendso.com/) - Open Source Calendly Alternative. ([Code](https://github.com/calendso/calendso)) ([HN](https://news.ycombinator.com/item?id=26817795))

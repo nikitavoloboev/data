@@ -64,3 +64,4 @@
 - [Bionic](https://github.com/bionic-dev/bionic) - Convert data exports from various services to a single SQLite database.
 - [SquirrelByte](https://github.com/adamlouis/squirrelbyte) - SQLite-based JSON document server. ([Web](https://squirrelbyte.com/)) ([HN](https://news.ycombinator.com/item?id=26766557))
 - [Ask HN: Deploying SQLite on a Production Website (2021)](https://news.ycombinator.com/item?id=26765118)
+- [SQLite the only database you will ever need in most cases (2021)](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html) ([Lobsters](https://lobste.rs/s/tsh0jq/sqlite_only_database_you_will_ever_need))

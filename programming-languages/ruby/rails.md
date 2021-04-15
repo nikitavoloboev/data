@@ -68,3 +68,4 @@
 - [How to Build a Web App with and without Rails Libraries (2021)](https://shopify.engineering/building-web-app-ruby-rails)
 - [What is a Rails model? (2021)](https://www.codewithjason.com/what-is-a-rails-model/)
 - [Rails Testing for Beginners](https://www.codewithjason.com/rails-testing-for-beginners/)
+- [Ruby on Rails Controller Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html)
