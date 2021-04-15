@@ -20,6 +20,7 @@
 
 - [Mox](https://github.com/dashbitco/mox) - Library for defining concurrent mocks in Elixir.
 - [Hammox](https://github.com/msz/hammox) - Automated contract testing for Elixir functions and mocks.
+- [PropCheck](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 
 ## ML
 
