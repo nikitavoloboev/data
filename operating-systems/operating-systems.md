@@ -91,6 +91,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [daintree](https://github.com/kivikakk/daintree) - ARMv8-A operating system, plus a UEFI bootloader, all written in Zig.
 - [AROS](http://www.aros.org/) - Lightweight, efficient, and flexible desktop operating system. ([HN](https://news.ycombinator.com/item?id=26250504))
 - [M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores.
+- [vanadinite](https://github.com/repnop/vanadinite) - RISC-V OS written in Rust.
 
 ## Notes
 

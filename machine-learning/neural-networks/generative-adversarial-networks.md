@@ -102,3 +102,4 @@
 - [GANs for tabular data](https://github.com/Diyago/GAN-for-tabular-data)
 - [Adversarial score matching and improved sampling for image generation](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)
 - [ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement (2021)](https://arxiv.org/abs/2104.02699) ([Code](https://github.com/yuval-alaluf/restyle-encoder))
+- [WaveGAN](https://github.com/chrisdonahue/wavegan) - Learn to synthesize raw audio with generative adversarial networks.

@@ -103,3 +103,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [The Crypto Social Network is Here. Meet BitClout. (2021)](https://jakeudell1.medium.com/the-crypto-social-network-is-here-meet-bitclout-c1859671fd5)
 - [The Ponzi Career (2021)](https://www.drorpoleg.com/the-ponzi-career/) - Future of work is a pyramid scheme, where every person sells his favorite person to the next person. ([HN](https://news.ycombinator.com/item?id=26770562))
 - [Is content moderation a dead end? (2021)](https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end) ([HN](https://news.ycombinator.com/item?id=26796579))
+- [Sophie Zhang whistleblower working to uncover FB wrong doings AMA (2021)](https://www.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/)
