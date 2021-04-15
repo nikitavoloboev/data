@@ -115,3 +115,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Журнал DOXA](https://doxajournal.ru/)
 - [Бизнесмен Дмитрий Потапенко — Евгении Альбац: "Мы уже живем в совке 2.0" (2021)](https://www.youtube.com/watch?v=xrL6T8TIHG0)
 - [Alex Vindman on the Escalation in Ukraine (2021)](https://www.lawfareblog.com/lawfare-podcast-alex-vindman-escalation-ukraine)
+- [What's your favorite city in Russia? (2021)](https://www.reddit.com/r/AskARussian/comments/mrdt6n/what_your_favorite_city_in_russia/)
+- [Гибель империи. Российский урок. (2021)](https://www.youtube.com/watch?v=4n01EBO0mUs)

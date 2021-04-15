@@ -445,3 +445,4 @@
 - [Learning Fast Algorithms for Linear Transforms Using Butterfly Factorizations (2019)](https://arxiv.org/abs/1903.05895)
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - Resource for learning about ML, DL, PyTorch and TensorFlow.
 - [Joint Universal Syntactic and Semantic Parsing (2021)](https://arxiv.org/abs/2104.05696)
+- [A Comprehensive Introduction to Bayesian Deep Learning (2021)](https://www.topbots.com/comprehensive-introduction-to-bayesian-deep-learning/)
