@@ -53,3 +53,4 @@
 - [Figma to React](https://figma-to-react.vercel.app/) - Convert Figma designs to React code. ([HN](https://news.ycombinator.com/item?id=26603097))
 - [Figma Plugin API typings](https://github.com/figma/plugin-typings)
 - [Figma Course for Beginners](https://learningfigma.com/)
+- [Nucleus UI](https://www.nucleus-ui.com/) - Free UI component library for Figma.

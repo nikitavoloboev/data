@@ -54,4 +54,4 @@
 - [Tell HN: A case of negative SEO I caught on my service and how I dealt with it (2021)](https://news.ycombinator.com/item?id=26105890)
 - [SEO, Performance, and Image Codecs (2021)](https://www.getrevue.co/profile/DuncanMackenzie/issues/seo-performance-and-image-codecs-343846)
 - [GetKeywords](https://www.getkeywords.io/) - Intent-Focused Keyword Research Simplified.
-- [Free backlink checker and analysis tool](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html)
+- [Backlink Checker](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html) - Check and analyze any site’s backlinks.
