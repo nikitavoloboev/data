@@ -362,3 +362,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [What Goodreads could have been (2021)](https://notfunatparties.substack.com/p/what-goodreads-could-have-been)
 - [Copybooks](https://www.copybooks.app/) - Books recommended by real people, not Amazon's robots. ([Code](https://github.com/tomjohnneill/copybooks))
 - [Pictures, Engravings and Extracts From Old Books](https://www.fromoldbooks.org/)
+- [Why has no one made a better Goodreads (2021)](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a) ([HN](https://news.ycombinator.com/item?id=26834833))
