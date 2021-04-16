@@ -131,3 +131,4 @@
 - [scikit-learn-extra](https://github.com/scikit-learn-contrib/scikit-learn-extra) - Set of useful tools compatible with scikit-learn.
 - [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Building Genetic Algorithm in Python.
 - [Newt](https://github.com/AaltoML/Newt) - Gaussian process library in JAX.
+- [Hedgehog](https://github.com/MaxHalford/hedgehog) - Bayesian networks in Python.

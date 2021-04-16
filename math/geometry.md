@@ -39,3 +39,4 @@
 - [Differential Forms (Discrete Differential Geometry) (2021)](https://www.youtube.com/watch?v=4zicWglBfIE)
 - [Diagrams for Penrose Tiles (2021)](https://readerunner.wordpress.com/2021/03/20/diagrams-for-penrose-tiles/)
 - [Tesseract, 4th Dimension Made Easy - Carl Sagan](https://www.youtube.com/watch?v=N0WjV6MmCyM)
+- [New Approach to Arakelov Geometry (2007)](https://arxiv.org/abs/0704.2030) ([Reddit](https://www.reddit.com/r/math/comments/ms2a7m/durov_new_approach_to_arakelov_geometry/))
