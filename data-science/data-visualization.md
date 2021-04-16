@@ -91,3 +91,4 @@
 - [Expose your private Grafana dashboards with TLS (2021)](https://blog.alexellis.io/expose-grafana-dashboards/)
 - [Dataviz Accessibility Resources](https://github.com/dataviza11y/resources)
 - [Online text to diagram tools](https://xosh.org/text-to-diagram/)
+- [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program. ([Web](https://www.alex-spataru.com/serial-studio.html))

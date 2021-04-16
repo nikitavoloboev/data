@@ -117,3 +117,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Alex Vindman on the Escalation in Ukraine (2021)](https://www.lawfareblog.com/lawfare-podcast-alex-vindman-escalation-ukraine)
 - [What's your favorite city in Russia? (2021)](https://www.reddit.com/r/AskARussian/comments/mrdt6n/what_your_favorite_city_in_russia/)
 - [Гибель империи. Российский урок. (2021)](https://www.youtube.com/watch?v=4n01EBO0mUs)
+- [Безвозвратные потери. Беседа с журналистом Аркадий Бабченко (2021)](https://www.youtube.com/watch?v=K2mC3zw9J4I)
