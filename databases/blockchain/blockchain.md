@@ -130,3 +130,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Chia Network](https://www.chia.net/) - New blockchain and smart transaction platform that is easier to use, more efficient, and secure. ([Code](https://github.com/Chia-Network/chia-blockchain))
 - [Chris Dixon - The Potential of Blockchain Technology (2021)](https://www.joincolossus.com/episodes/22848496/dixon-the-potential-of-blockchain-technology)
 - [Awesome-NFT](https://github.com/gianni-dalerta/awesome-nft) - Curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
+- [Most promising novel distributed ledger consensus and/or sharding mechanisms (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mrir3o/what_are_the_most_promising_novel_distributed/)
