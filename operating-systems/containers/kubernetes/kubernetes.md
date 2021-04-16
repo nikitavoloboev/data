@@ -363,3 +363,4 @@
 - [KubePlus](https://github.com/cloud-ark/kubeplus) - CRD for CRDs to design multi-tenant platform services from Helm charts.
 - [Kubectl build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [KDash](https://github.com/kdash-rs/kdash) - Fast and simple dashboard for Kubernetes.
+- [Liqo](https://liqo.io/) - Platform to enable dynamic and decentralized resource sharing across Kubernetes clusters, either on-prem or managed. ([Code](https://github.com/liqotech/liqo))
