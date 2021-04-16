@@ -93,3 +93,4 @@
 - [diffimg](https://github.com/nicolashahn/diffimg) - Differentiate images in python - get a ratio or percentage difference, and generate a diff image.
 - [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering Tool.
 - [Fast, Safe PNG Decoder (2021)](https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html) ([HN](https://news.ycombinator.com/item?id=26714831))
+- [Content-aware image resizing in JavaScript (2021)](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)

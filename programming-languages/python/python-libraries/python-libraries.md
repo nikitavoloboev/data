@@ -384,6 +384,7 @@
 - [xarray-dataclasses](https://github.com/astropenguin/xarray-dataclasses) - xarray extension for typed DataArray and Dataset creation.
 - [printstack](https://github.com/morefigs/printstack) - Python package that adds stack trace links to the print function. ([HN](https://news.ycombinator.com/item?id=26747743))
 - [DataFusion in Python](https://github.com/jorgecarleitao/datafusion-python) - Python library that binds to Apache Arrow in-memory query engine DataFusion.
+- [Cerberus](https://github.com/pyeve/cerberus) - Lightweight and extensible data validation library for Python.
 
 ## Links
 
