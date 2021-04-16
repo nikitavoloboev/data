@@ -180,3 +180,4 @@
 - [Transitioning Mailbrew from CRA to NextJS (2021)](https://francescodilorenzo.com/cra-to-nextjs)
 - [Next Remote Watch](https://github.com/hashicorp/next-remote-watch) - Decorated local server for next.js that enables reloads from remote data changes.
 - [What is Incremental Static Regeneration (ISR) with Next.js?](https://twitter.com/leeerob/status/1382400399949271040)
+- [next-password-protect](https://github.com/storyofams/next-password-protect) - Password protect your Next.js deployments.

@@ -783,6 +783,7 @@
 - [escher](https://github.com/petrosagg/escher) - Self-referencial structs using async stacks.
 - [dipa](https://github.com/chinedufn/dipa) - Makes it easy to efficiently delta encode large Rust data structures.
 - [Scribe](https://github.com/jmacdonald/scribe) - Text editor toolkit.
+- [mint](https://github.com/kvark/mint) - Math Interoperability Types.
 
 ## Cargo Plugins
 
