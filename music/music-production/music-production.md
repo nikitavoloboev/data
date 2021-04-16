@@ -187,3 +187,4 @@
 - [Resources & tools to learn music production (2021)](https://twitter.com/carolynz/status/1378838910932037636)
 - [How We Record Audio At The Tiny Desk (2017)](https://www.youtube.com/watch?v=e07bI5rz6FY)
 - [VCV Prototype](https://github.com/VCVRack/VCV-Prototype) - Scripting language host for VCV Rack.
+- [Beat Lock](https://beatlock.io/) - Discover who is using your beat in music streaming services.

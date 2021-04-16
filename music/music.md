@@ -115,3 +115,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Piano Day](https://www.pianoday.org/)
 - [Spotify Downloader](https://github.com/L04DB4L4NC3R/spotify-downloader) - Download songs, playlists and albums, or sync in to your favorite tunes.
 - [volt.fm](https://volt.fm/) - See, compare and share your Spotify stats.
+- [Car Thing](https://carthing.spotify.com/) - Spotify’s new smart player designed for your drive.
