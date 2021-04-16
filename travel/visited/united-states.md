@@ -48,3 +48,4 @@
 - [U.S elevation graphic](https://twitter.com/milehigherjoel/status/1378466795053477890)
 - [Why do so many companies incorporate in Delaware?](https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/) ([HN](https://news.ycombinator.com/item?id=26770454))
 - [Lawfare](https://www.lawfareblog.com/) - American blog dedicated to national security issues.
+- [Global Trends 2040: US Intelligence report](https://www.dni.gov/files/ODNI/documents/assessments/GlobalTrends_2040.pdf)

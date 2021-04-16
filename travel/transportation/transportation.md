@@ -20,3 +20,5 @@
 - [The Drivers Cooperative](https://www.drivers.coop/) ([HN](https://news.ycombinator.com/item?id=26588607))
 - [TeslaMate](https://github.com/adriankumpf/teslamate) - Powerful, self-hosted data logger for your Tesla.
 - [Shipmap.org](https://www.shipmap.org/) - Visualization of Global Cargo Ships.
+- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
+- [Awesome Automotive](https://github.com/Marcin214/awesome-automotive) - Curated list of delightful and free automotive engineering resources.
