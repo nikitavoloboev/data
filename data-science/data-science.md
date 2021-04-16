@@ -168,3 +168,4 @@
 - [Ask HN: What are the best data science bootcamps? (2021)](https://news.ycombinator.com/item?id=26648469)
 - [Data Science Learning Resources](https://github.com/rebecca-vickery/data-science-learning-resources)
 - [Loading SQL data into Pandas without running out of memory (2021)](https://pythonspeed.com/articles/pandas-sql-chunking/)
+- [What is the best structured ds project you have seen? (2021)](https://www.reddit.com/r/datascience/comments/mrwzkq/what_is_the_best_structured_ds_project_you_have/)

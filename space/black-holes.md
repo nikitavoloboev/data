@@ -25,3 +25,4 @@
 - [Douglas Stanford - “New roles for wormholes” (2020)](https://www.youtube.com/watch?v=-hfcApA9s8Q) ([Reddit](https://www.reddit.com/r/Physics/comments/lsf9tk/new_roles_for_wormholes_accessible_stanford/))
 - [Lab-grown black hole behaves just like Stephen Hawking said it would (2021)](https://www.livescience.com/black-hole-analog-confirms-hawking.html) ([Reddit](https://www.reddit.com/r/EverythingScience/comments/lwd6km/labgrown_black_hole_behaves_just_like_stephen/))
 - [Black Holes, Hawking Radiation and Holography (2021)](https://www.youtube.com/watch?v=WnkMchdz1AY)
+- [The Doubly Warped World of Binary Black Holes (2021)](https://www.youtube.com/watch?v=rQcKIN9vj3U) ([Article](https://www.nasa.gov/feature/goddard/2021/new-nasa-visualization-probes-the-light-bending-dance-of-binary-black-holes))
