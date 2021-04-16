@@ -21,4 +21,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [The 32 Greatest Character Actors Working Today (2021)](https://www.vulture.com/article/best-character-actors.html)
 - [Bob Odenkirk Got Lucky with Breaking Bad (2021)](https://www.youtube.com/watch?v=cjMlTC8Ikxw)
 - [Better Call Saul’s Bob Odenkirk Reveals How He Writes Comedy Sketches (2016)](https://www.youtube.com/watch?v=AdBBBABtnEs)
-- [Off Camera with Sam Jones](https://www.youtube.com/c/theoffcamerashow/videos)
+- [Off Camera with Sam Jones](https://www.youtube.com/c/theoffcamerashow/videos) ([Web](https://offcamera.com/))

@@ -122,3 +122,4 @@
 - [How I Do Generative Art: In Praise of Netpbm (2021)](https://journal.infinitenegativeutility.com/how-i-do-generative-art-in-praise-of-netpbm)
 - [Art Blocks](https://artblocks.io/) - Generative Content Hosted on the Ethereum Blockchain.
 - [Generative Art in Go](https://github.com/jdxyw/generativeart)
+- [Delaunay Maze Loop Animation](https://github.com/Bleuje/delaunay-maze-loop)
