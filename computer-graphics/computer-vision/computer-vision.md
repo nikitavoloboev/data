@@ -263,3 +263,4 @@
 - [End-to-End Video Instance Segmentation with Transformers (2021)](https://arxiv.org/abs/2011.14503) ([Code](https://github.com/Epiphqny/VisTR))
 - [SAHI: Slicing Aided Hyper Inference](https://github.com/obss/sahi)
 - [FOVO: A new 3D rendering technique based on human vision (2020)](https://www.gamasutra.com/blogs/RobertPepperell/20200527/363615/FOVO_A_new_3D_rendering_technique_based_on_human_vision.php) ([HN](https://news.ycombinator.com/item?id=26795290))
+- [Is Space-Time Attention All You Need for Video Understanding? (2021)](https://arxiv.org/abs/2102.05095) ([Code](https://github.com/facebookresearch/TimeSformer))
