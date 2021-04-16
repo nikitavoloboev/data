@@ -19,3 +19,4 @@
 - [TNTSearch](https://github.com/teamtnt/tntsearch) - Fully featured full text search engine written in PHP.
 - [Thinking Functionally in PHP (2020)](https://leanpub.com/thinking-functionally-in-php)
 - [The PHP Interpreter Code](https://github.com/php/php-src)
+- [PHP in 2021](https://stitcher.io/blog/php-in-2021) ([HN](https://news.ycombinator.com/item?id=26825468))

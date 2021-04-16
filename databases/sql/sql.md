@@ -106,3 +106,4 @@
 - [Thinking in Questions with SQL (2021)](https://benjiweber.co.uk/blog/2021/03/21/thinking-in-questions-with-sql/)
 - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices) ([HN](https://news.ycombinator.com/item?id=26762206))
 - [Arctype](https://arctype.com/) - Fast and easy-to-use SQL client.
+- [Don’t we all just want to use SQL on the front end? (2021)](https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146) ([HN](https://news.ycombinator.com/item?id=26822884))

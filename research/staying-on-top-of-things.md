@@ -137,6 +137,7 @@ And these Discord servers:
 - [Damn Interesting](https://www.damninteresting.com/)
 - [Abakcus](https://abakcus.com/) - Collection of the Best Mathematics and Science Stuff.
 - [Vulture](https://www.vulture.com/) - Entertainment News.
+- [Longreads](https://longreads.com/)
 
 ### Other
 

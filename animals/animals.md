@@ -83,3 +83,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Localize your cat at home with BLE beacon, ESP32s, and Machine Learning](https://github.com/filipsPL/cat-localizer)
 - [Animal Life Twitter](https://twitter.com/animalIife)
 - [A chair made for needy pets (2021)](https://www.youtube.com/watch?v=XYqz1F6eAVU)
+- [Why Bumblebees Love Cats and Other Beautiful Relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/) ([HN](https://news.ycombinator.com/item?id=26822896))
