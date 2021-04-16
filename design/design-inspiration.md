@@ -510,6 +510,7 @@ Here are few more things I liked, design wise.
 - [Adam Pritchard](https://crypti.cc/)
 - [Charli Marie](https://charlimarie.com/)
 - [Charlie Gerard](https://charliegerard.dev/)
+- [Dwinawan](https://dwinawan.com/)
 - [Mike Solomon](https://msol.io/)
 - [Adam Ho](https://www.adamho.com/)
 - [John Reese](https://jreese.sh/)

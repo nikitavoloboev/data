@@ -107,3 +107,4 @@
 - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices) ([HN](https://news.ycombinator.com/item?id=26762206))
 - [Arctype](https://arctype.com/) - Fast and easy-to-use SQL client.
 - [Don’t we all just want to use SQL on the front end? (2021)](https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146) ([HN](https://news.ycombinator.com/item?id=26822884))
+- [TinySQL](https://github.com/tidb-incubator/tinysql) - Course designed to teach you how to implement a distributed relational database in Go.
