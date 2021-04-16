@@ -196,3 +196,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [LoopBack](https://loopback.io/) - Highly extensible Node.js and TypeScript framework for building APIs and microservices. ([Code](https://github.com/strongloop/loopback-next))
 - [Sending tuples from Node to Rust and back (2021)](https://www.fluvio.io/blog/2021/04/node-bindgen-tuples/)
 - [HugSql](https://github.com/carocad/hugsql) - Node.js library for embracing SQL.
+- [esmon](https://github.com/egoist/esmon) - Like nodemon but using esbuild.
