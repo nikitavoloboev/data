@@ -396,3 +396,4 @@ Below is a list of extensions I use.
 - [How to Code a VSCode Extension (2020)](https://www.youtube.com/watch?v=a5DX5pQ9p5M)
 - [Open VSX Registry](https://open-vsx.org/) - Open-source registry for VS Code extensions. ([Code](https://github.com/EclipseFdn/open-vsx.org))
 - [VS Code Theme Editor](https://themes.vscode.one/) - Create VS Code Themes Easily. ([HN](https://news.ycombinator.com/item?id=26579936))
+- [VSColors](https://www.vscolors.com/)
