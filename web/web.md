@@ -255,3 +255,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Awesome Landing Page](https://github.com/nordicgiant2/awesome-landing-page) - Series of beautiful and practical landing page templates.
 - [How Shopify Dynamically Routes Storefront Traffic (2021)](https://shopify.engineering/dynamically-route-storefront-traffic)
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html) - 100+ Tools to Build a Landing Page.
+- [Schema.org](https://schema.org/) - Schemas for Structured Data on the Internet.

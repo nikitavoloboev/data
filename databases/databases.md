@@ -331,3 +331,4 @@
 - [Graphs with Spidey DB (2021)](https://kubej.com/graphs-with-spidey-db/) ([HN](https://news.ycombinator.com/item?id=26753830))
 - [dbdiagram.io](https://dbdiagram.io/home) - Database Relationship Diagrams Design Tool.
 - [Foundations of Databases (1995)](http://webdam.inria.fr/Alice/) - Book published by Addison Wesley. ([HN](https://news.ycombinator.com/item?id=26809253))
+- [Segcache: a memory-efficient, scalable cache for small objects with TTL (2021)](https://twitter.github.io/pelikan/2021/segcache.html)

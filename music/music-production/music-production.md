@@ -188,3 +188,4 @@
 - [How We Record Audio At The Tiny Desk (2017)](https://www.youtube.com/watch?v=e07bI5rz6FY)
 - [VCV Prototype](https://github.com/VCVRack/VCV-Prototype) - Scripting language host for VCV Rack.
 - [Beat Lock](https://beatlock.io/) - Discover who is using your beat in music streaming services.
+- [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/) ([HN](https://news.ycombinator.com/item?id=26832636))
