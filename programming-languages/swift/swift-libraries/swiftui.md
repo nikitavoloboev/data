@@ -141,3 +141,4 @@
 - [SwiftUI Notes/Links](https://github.com/jessesquires/TIL/blob/main/apple_platform/swiftui.md)
 - [Every SwiftUI protocol explained (2021)](https://www.fivestars.blog/articles/swiftui-protocols/)
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
+- [SwiftUI Livestream: How we built our iOS app (2021)](https://www.youtube.com/watch?v=zerEdPmSMrk)

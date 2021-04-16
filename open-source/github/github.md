@@ -210,3 +210,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Standard and acceptable badges list](https://badges.aleen42.com/) ([Code](https://github.com/aleen42/badges))
 - [HUBFS](https://github.com/billziss-gh/hubfs) - Read-only file system for GitHub and Git.
 - [Awesome Developer GitHub Profiles](https://github.com/coderjojo/creative-profile-readme)
+- [GistFS](https://github.com/jhchabran/gistfs) - Go io/fs filesystem implementation for reading files in a Github gists.
