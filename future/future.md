@@ -62,3 +62,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [How to end stagnation? (2021)](https://www.reddit.com/r/rootsofprogress/comments/lvhwl9/how_to_end_stagnation/)
 - [Focus on future path ways](https://twitter.com/waitbutwhy/status/1367871165319049221)
 - [Ask HN: What under-the-radar technology are you excited about? (2021)](https://news.ycombinator.com/item?id=26780866)
+- [List of emerging technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)

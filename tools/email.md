@@ -145,3 +145,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Exim Internet Mailer](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge for use on Unix systems connected to the Internet. ([Code](https://github.com/Exim/exim))
 - [checkmail](https://github.com/badoux/checkmail) - Go package for email validation.
 - [A Complete Guide To HTML Email (2021)](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
+- [Mailspring](https://getmailspring.com/) - Beautiful, fast and fully open source mail client for Mac, Windows and Linux. ([Code](https://github.com/Foundry376/Mailspring))
