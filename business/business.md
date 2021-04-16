@@ -72,4 +72,4 @@ Learning to build [startups](startups/startups.md).
 - [What is the highest margin business you've ever seen? (2021)](https://twitter.com/businessbarista/status/1378827193422393355)
 - [Gaps](https://gaps.com/) - Online business analysis & opportunities.
 - [Learnings from Jeff Bezos's 23 years of Amazon shareholder letters (2021)](https://twitter.com/sumitgrrg/status/1381227286238666752)
-- [Career Ladders](https://career-ladders.dev/) - Sample of career ladders I use for my organization, open sourced for anyone. ([Code](https://github.com/sdras/career-ladders))
+- [Career Ladders](https://career-ladders.dev/) - Sample of career ladders I use for my organization, open sourced for anyone. ([Code](https://github.com/sdras/career-ladders)) ([Article](https://css-tricks.com/the-importance-of-career-laddering/))

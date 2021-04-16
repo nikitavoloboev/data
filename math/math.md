@@ -257,3 +257,4 @@
 - [Map of Mathematical Structures (MIT)](https://space.mit.edu/home/tegmark/toe.gif)
 - [Why do you like math? (2021)](https://www.reddit.com/r/math/comments/mmxbg7/why_do_you_like_math/)
 - [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55) ([HN](https://news.ycombinator.com/item?id=26751222))
+- [Galois Theory (2021)](https://www.maths.ed.ac.uk/~tl/gt/gt.pdf)

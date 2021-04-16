@@ -57,3 +57,4 @@
 - [Building Products at Airbnb (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-airbnb)
 - [Linear Method - Practices for Building](https://linear.app/method)
 - [A letter to our future Lead Product Manager, Growth](https://www.notion.so/A-letter-to-our-future-Lead-Product-Manager-Growth-94937a4a80c94a87a7ccb9ce648935c8)
+- [Why your organization needs product principles](https://slack.design/articles/why-your-organization-needs-product-principles/)

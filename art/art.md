@@ -186,6 +186,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Robh Ruppel](https://www.artstation.com/robh_ruppel_design)
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
+- [Raoul Marks](https://www.instagram.com/raoul_marks/) ([Web](http://www.raoulmarks.com/))
 - [Zi Xu](https://www.zixu.co/)
 - [Jackie Ferrentino](https://jackieferrentino.com/) ([IG](https://www.instagram.com/hullojackie/))
 - [Michael Kozlowski](https://www.instagram.com/mpkoz/)
