@@ -189,3 +189,4 @@
 - [VCV Prototype](https://github.com/VCVRack/VCV-Prototype) - Scripting language host for VCV Rack.
 - [Beat Lock](https://beatlock.io/) - Discover who is using your beat in music streaming services.
 - [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/) ([HN](https://news.ycombinator.com/item?id=26832636))
+- [Digital Audio 101: Playing Audio from a Microcontroller (2021)](https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c) ([HN](https://news.ycombinator.com/item?id=26820648))

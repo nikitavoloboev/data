@@ -256,3 +256,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [How Shopify Dynamically Routes Storefront Traffic (2021)](https://shopify.engineering/dynamically-route-storefront-traffic)
 - [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html) - 100+ Tools to Build a Landing Page.
 - [Schema.org](https://schema.org/) - Schemas for Structured Data on the Internet.
+- [My Ideal Web Service (2021)](https://kevincox.ca/2021/04/15/my-ideal-service/)

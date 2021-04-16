@@ -97,3 +97,4 @@
 - [Ask HN: How do I improve boring README page? (2021)](https://news.ycombinator.com/item?id=26537805)
 - [Docuowl](https://github.com/docuowl/docuowl) - Generates a static single-page documentation from Markdown files.
 - [The Grand Unified Theory of Documentation](https://diataxis.fr/) ([HN](https://news.ycombinator.com/item?id=26824743))
+- [Writing Docs at Amazon (2019)](https://blog.usejournal.com/writing-docs-at-amazon-e025808616bd)

@@ -122,6 +122,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Ask HN: What's that Game that predicts your choices? (2020)](https://news.ycombinator.com/item?id=25332641)
 - [A comparison of city building games (2021)](https://twitter.com/alfred_twu/status/1345955063353597954) ([HN](https://news.ycombinator.com/item?id=25632642))
 - [What older video games do you find yourself going back to? (2021)](https://www.reddit.com/r/AskUK/comments/mqlmyb/what_older_video_games_do_you_find_yourself_going/)
+- [Ask HN: What are some good strategy games? (2021)](https://news.ycombinator.com/item?id=26820739)
 
 ## Links
 

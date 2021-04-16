@@ -186,3 +186,4 @@
 - [Calyx](https://capra.cs.cornell.edu/calyx/) - Compiler Infrastructure for Accelerator Generators. ([Code](https://github.com/cucapra/calyx))
 - [Dahlia](https://github.com/cucapra/dahlia) - Time-sensitive affine types for predictable hardware generation. ([Web](https://capra.cs.cornell.edu/dahlia/))
 - [ESP32-C6, a Wi-Fi 6 and Bluetooth 5 (LE) SoC (2021)](https://www.espressif.com/en/news/ESP32_C6) ([HN](https://news.ycombinator.com/item?id=26758050))
+- [Lobsters: Single board computers? (2021)](https://lobste.rs/s/wz9wt8/single_board_computers)
