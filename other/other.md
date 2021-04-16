@@ -464,3 +464,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Executive Assistant help for CEO (2021)](https://twitter.com/ChristineCarril/status/1378557962667495427)
 - [Grit](https://github.com/climech/grit) - Multitree-based personal task manager.
 - [Glob Editor](https://globs-steveruiz.vercel.app/) - Globs-based vector editor. ([Code](https://github.com/steveruizok/globs))
+- [Awesome Forensics](https://github.com/cugu/awesome-forensics)

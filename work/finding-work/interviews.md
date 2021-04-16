@@ -16,6 +16,7 @@
 - [In my experience the best candidates speculate rather than giving up, ask appropriate clarifying questions, and take end-to-end ownership of each answer by synthesising disparate discussion into a coherent final explanation.](https://twitter.com/kieranmch/status/1215385877112815617)
 - [You don't need to know the answer (let's be honest, the interviewer didn't know it in details either) to actually talk about why the problem exists and what you understand about it.](https://news.ycombinator.com/item?id=24460286)
 - If you find someone who is capable of just getting things done and learning what they need to, that's all that matters. If they can google their way around and find the answer, then who cares what was in their brain the minute before, at the end of the day they solved the problem.
+- [Here's what I look for in an interview: 1. Clear communication. 2. The humility to say "I don't know". 3. Can discuss the tradeoffs of different approaches. 4. Seems excited to learn more and grow.](https://twitter.com/housecor/status/1383077932621557765)
 
 ## Links
 
