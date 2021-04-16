@@ -14,3 +14,4 @@
 - [David Khourshid — The visual future of reactive applications with statecharts (2020)](https://www.youtube.com/watch?v=o84Xw8qiTCw)
 - [RxFeedback](https://github.com/NoTests/RxFeedback.swift) - Universal system operator and architecture for RxSwift.
 - [reactive.how](https://reactive.how/) - Learn RxJS operators and Reactive Programming principles. ([Code](https://github.com/cedricss/reactive.how))
+- [Kairo.js](https://github.com/3Shain/kairo) - Refined reactive programming pattern for web applications, the framework over frameworks.
