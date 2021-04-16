@@ -69,3 +69,4 @@
 - [Replika](https://replika.ai/) - AI companion who cares.
 - [Replika.ai Research Papers, Posters, Slides & Datasets](https://github.com/lukalabs/replika-research)
 - [From Zero to AI Research Scientist full resources guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+- [Francois Chollet - Intelligence and Generalization (2021)](https://www.youtube.com/watch?v=J0p_thJJnoo)

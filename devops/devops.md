@@ -1,5 +1,9 @@
 # DevOps
 
+## Notes
+
+- [You can make your default branch `staging`, and assign it a custom domain. Using Vercel.](https://twitter.com/rauchg/status/1383072230536404996)
+
 ## Links
 
 - [We're Reddit's Infrastructure team, ask us anything! (2018)](https://www.reddit.com/r/sysadmin/comments/9x577m/were_reddits_infrastructure_team_ask_us_anything/)

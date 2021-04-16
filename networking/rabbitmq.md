@@ -14,3 +14,4 @@
 - [Testing RabbitMQ Resiliency with Chaos Mesh (2020)](https://www.youtube.com/watch?v=y2HAJBiXsw0)
 - [Running a Secure RabbitMQ Cluster in Nomad (2019)](https://andydote.co.uk/2019/04/06/nomad-rabbitmq-secure/)
 - [go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - Higher-level RabbitMQ library in Go.
+- [Lapin](https://github.com/CleverCloud/lapin) - Rust AMQP client library.
