@@ -2,7 +2,7 @@
 
 I use the app to manage events in my life I sync with Google Calendar.
 
-I always view my events from `Week` view & have 6 days in view only with 16 hours shown in one view. This gives perspective over current and upcoming events/deadlines. All events created by default have 30 min duration.
+I always view my events from `Week` view & have 7 days in view with 18 hours shown in one view. This gives perspective over current and upcoming events/deadlines. All events created by default have 30 min duration.
 
 I often switch between `Week` and `Month` views.
 

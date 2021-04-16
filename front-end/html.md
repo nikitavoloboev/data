@@ -107,3 +107,4 @@
 - [SelectMadu](https://github.com/pavish/select-madu) - Replacement for the select menu, with support for searching, multiple selections, async data loading and more.
 - [Sortable Table Columns (2021)](https://adrianroselli.com/2021/04/sortable-table-columns.html)
 - [My current HTML boilerplate (2021)](https://www.matuzo.at/blog/html-boilerplate/) - Summarized which elements I use for the basic structure of a HTML document in 2021, with explanations why.
+- [Ammonia](https://github.com/rust-ammonia/ammonia) - Repair and secure untrusted HTML.

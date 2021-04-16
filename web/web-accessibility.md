@@ -56,3 +56,4 @@
 - [A Beginner’s Guide To Web Accessibility (2021)](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
 - [Accessible front-end components: claims vs reality (2021)](https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality)
 - [Overlay Fact Sheet](https://overlayfactsheet.com/) - Introduction, definition, and history of web accessibility overlays.
+- [Web Accessibility Fundamentals Workshop](https://www.sandrina-p.net/workshop-a11y/)
