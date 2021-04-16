@@ -496,6 +496,7 @@
 - [XState Catalogue](https://github.com/mattpocock/xstate-catalogue) - Professionally designed, interactive state machines. ([Web](https://xstate-catalogue.com/))
 - [Combine-Promises](https://github.com/slorber/combine-promises) - Like Promise.all(array) but with an object instead of an array.
 - [async-retry](https://github.com/vercel/async-retry) - Retrying made simple, easy, and async.
+- [party.js](https://github.com/YilianSource/party-js) - JavaScript library to brighten up your user's site experience with visual effects.
 
 ## Links
 

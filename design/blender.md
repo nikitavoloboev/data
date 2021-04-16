@@ -41,3 +41,4 @@
 - [Stunning Photoreal Renders in Blender by Blitter](https://80.lv/articles/stunning-photoreal-renders-in-blender-by-blitter/)
 - [Blender’s History](https://docs.blender.org/manual/en/latest/getting_started/about/history.html)
 - [Blender Reference Manual](https://docs.blender.org/manual/en/latest/index.html)
+- [The Lightmapper](https://github.com/Naxela/The_Lightmapper) - Fast and easy baked GI Lightmaps for Blender and Cycles.

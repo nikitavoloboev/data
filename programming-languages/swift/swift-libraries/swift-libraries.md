@@ -281,6 +281,7 @@
 - [Composable Navigator](https://github.com/Bahn-X/swift-composable-navigator) - Open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind.
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage.
 - [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - Animations created with SwiftUI.
+- [Stacks](https://github.com/kean/Stacks) - UIStackView convenience APIs inspired by SwiftUI.
 
 ## Test
 
