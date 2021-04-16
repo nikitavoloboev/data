@@ -446,3 +446,4 @@
 - [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection) - Resource for learning about ML, DL, PyTorch and TensorFlow.
 - [Joint Universal Syntactic and Semantic Parsing (2021)](https://arxiv.org/abs/2104.05696)
 - [A Comprehensive Introduction to Bayesian Deep Learning (2021)](https://www.topbots.com/comprehensive-introduction-to-bayesian-deep-learning/)
+- [Stanford Machine Learning with Graphs Course (2021)](http://web.stanford.edu/class/cs224w/)
