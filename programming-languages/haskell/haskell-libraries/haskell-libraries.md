@@ -118,6 +118,7 @@
 - [linear-logic](https://github.com/ekmett/linear-logic) - Encodes a version of intuitionistic linear logic on top of linear Haskell.
 - [Parsec](https://github.com/haskell/parsec) - Monadic parser combinator library.
 - [what-it-do](https://github.com/ocharles/what-it-do) - Automatically trace all (showable) binds in do expressions.
+- [Pretty](https://github.com/haskell/pretty) - Haskell Pretty-printer library.
 
 ## Links
 

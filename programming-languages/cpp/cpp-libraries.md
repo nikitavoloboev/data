@@ -192,6 +192,7 @@
 - [expected](https://github.com/TartanLlama/expected) - C++11/14/17 std::expected with functional-style extensions. ([Tweet](https://twitter.com/TartanLlama/status/1376915871956836359))
 - [monolish](https://github.com/ricosjp/monolish) - MONOlithic Liner equation Solvers for Highly-parallel architecture.
 - [EVE](https://github.com/jfalcou/eve) - Expressive Velocity Engine.
+- [Galois](https://github.com/KatanaGraph/katana) - C++ library designed to ease parallel programming, especially for applications with irregular parallelism.
 
 ## Links
 
