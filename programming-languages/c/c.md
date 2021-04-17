@@ -15,6 +15,7 @@
 - [Building C programs](http://seenaburns.com/building-c-programs/)
 - [Tiny Garbage Collector](https://github.com/orangeduck/tgc) - Tiny Garbage Collector for C.
 - [Awesome C](https://github.com/kozross/awesome-c) - Curated list of awesome C frameworks, libraries, resources and other shiny things.
+- [Awesome C 2](https://github.com/uhub/awesome-c)
 - [9cc small C compiler](https://github.com/rui314/9cc)
 - [picol, a Tcl interpreter in 550 lines of C code (2007)](http://oldblog.antirez.com/post/picol.html)
 - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)](https://github.com/ivmai/bdwgc)
