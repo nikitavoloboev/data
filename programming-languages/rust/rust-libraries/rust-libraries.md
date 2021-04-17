@@ -784,6 +784,8 @@
 - [dipa](https://github.com/chinedufn/dipa) - Makes it easy to efficiently delta encode large Rust data structures.
 - [Scribe](https://github.com/jmacdonald/scribe) - Text editor toolkit.
 - [mint](https://github.com/kvark/mint) - Math Interoperability Types.
+- [niffler](https://github.com/luizirber/niffler) - Simple and transparent support for compressed files.
+- [zstd-rs](https://github.com/gyscos/zstd-rs) - Rust binding for the zstd compression library.
 
 ## Cargo Plugins
 

@@ -658,6 +658,7 @@
 - [Options](https://github.com/brightdigit/Options) - Swift Package for more powerful Enum types.
 - [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - Elegant modern declarative data visualization chart framework.
 - [Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement.
+- [FuzzyFind](https://github.com/truizlop/FuzzyFind) - Swift package to perform fuzzy search queries on strings.
 
 ## Other (not lib)
 
