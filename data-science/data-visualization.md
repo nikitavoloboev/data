@@ -93,3 +93,4 @@
 - [Online text to diagram tools](https://xosh.org/text-to-diagram/)
 - [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program. ([Web](https://www.alex-spataru.com/serial-studio.html))
 - [Chartability](https://chartability.fizz.studio/) - Methodology for ensuring that data visualizations, systems, and interfaces are accessible.
+- [Battle of the Python Dashboarding Giants: Streamlit vs. Dash vs. Voilà vs. Panel (2021)](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57)

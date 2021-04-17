@@ -449,3 +449,4 @@
 - [Ferrous Rust Teaching Material](https://github.com/ferrous-systems/teaching-material) ([Web](https://ferrous-systems.github.io/teaching-material/index.html))
 - [Rust shenanigans: return type polymorphism (2021)](https://loige.co/rust-shenanigans-return-type-polymorphism/) ([Lobsters](https://lobste.rs/s/w0ufh8/rust_shenanigans_return_type))
 - [Why Rust strings seem hard (2021)](https://www.brandons.me/blog/why-rust-strings-seem-hard) ([HN](https://news.ycombinator.com/item?id=26811879)) ([Lobsters](https://lobste.rs/s/0mvd4x/why_rust_strings_seem_hard))
+- [du it in Rust: async, tokio, streams, and surprises about perf (2021)](https://www.youtube.com/watch?v=35v9BO1g_mA)

@@ -103,3 +103,4 @@
 - [Adversarial score matching and improved sampling for image generation](https://github.com/AlexiaJM/AdversarialConsistentScoreMatching)
 - [ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement (2021)](https://arxiv.org/abs/2104.02699) ([Code](https://github.com/yuval-alaluf/restyle-encoder))
 - [WaveGAN](https://github.com/chrisdonahue/wavegan) - Learn to synthesize raw audio with generative adversarial networks.
+- [InfinityGAN: Towards Infinite-Resolution Image Synthesis (2021)](https://arxiv.org/abs/2104.03963) ([Code](https://github.com/hubert0527/infinityGAN))

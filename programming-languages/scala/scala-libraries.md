@@ -19,6 +19,10 @@
 - [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) - Tidy SQL-based DB access library for Scala that naturally wraps JDBC and provides easy-to-use APIs.
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
 
+## Test
+
+- [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.
+
 ## Other
 
 - [sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.

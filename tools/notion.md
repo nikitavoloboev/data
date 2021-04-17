@@ -45,3 +45,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Clone](https://github.com/konstantinmuenster/notion-clone) - Create and Edit Notes like in Notion.
 - [Notion Blog](https://www.notion.so/blog)
 - [Creating a MVP landing page using nothing but Notion and a little CSS](https://noahbragg.com/blog/how-i-created-my-landing-page)
+- [Reverse-Engineering Notion's and Clubhouse's API (2021)](https://www.youtube.com/watch?v=h6rpahb8_nk)
