@@ -54,4 +54,3 @@
 - [Valletta, Malta Urbanism](https://twitter.com/SCP_Hughes/status/1370413685798277134)
 - [Envelope](https://envelopead.com/) - Idea-driven architecture and activations studio.
 - [Ugly or Beautiful? The Housing Blocks Communism Left Behind](https://www.wired.com/story/communist-housing-blocks-gallery/) ([Tweet](https://twitter.com/WIRED/status/1378918910112727042))
-- [Archaeology Twitter Topic](https://twitter.com/i/topics/1046582045349015552)
