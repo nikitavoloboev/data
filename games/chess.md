@@ -83,3 +83,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [What is an effective way to prepare openings? (2021)](https://www.reddit.com/r/chess/comments/m6xy18/what_is_an_effective_way_to_prepare_openings/)
 - [2800 Grandmaster vs. 2400 ELO: The Difference (2021)](https://www.youtube.com/watch?v=9dQzTnvsNG4)
 - [Lichess Founder AMA (2021)](https://www.reddit.com/r/chess/comments/mpasyl/i_started_lichess_ask_me_anything/)
+- [The Trappiest Opening in Chess? | Win Quickly with the Stafford Gambit (2020)](https://www.youtube.com/watch?v=nH_fiqlLp2U)

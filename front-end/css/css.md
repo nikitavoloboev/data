@@ -293,3 +293,4 @@
 - [My Website is More Responsive Than Yours (2021)](https://www.youtube.com/watch?v=Dk1gxZ_K3E0)
 - [Say Hello To CSS Container Queries (2021)](https://ishadeed.com/article/say-hello-to-css-container-queries/) ([Tweet](https://twitter.com/Stammy/status/1382335598283919369))
 - [Awesome Container Queries](https://github.com/sturobson/Awesome-Container-Queries)
+- [Overflow Issues In CSS (2021)](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)

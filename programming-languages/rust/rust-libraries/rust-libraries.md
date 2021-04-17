@@ -788,6 +788,7 @@
 - [niffler](https://github.com/luizirber/niffler) - Simple and transparent support for compressed files.
 - [zstd-rs](https://github.com/gyscos/zstd-rs) - Rust binding for the zstd compression library.
 - [markup.rs](https://github.com/utkarshkukreti/markup.rs) - Blazing fast, type-safe template engine for Rust.
+- [argmin](https://github.com/argmin-rs/argmin) - Mathematical optimization in pure Rust.
 
 ## Cargo Plugins
 

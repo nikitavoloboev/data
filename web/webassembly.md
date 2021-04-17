@@ -155,3 +155,4 @@
 - [WASM signatures](https://github.com/jedisct1/wasmsign) - Tool to add and verify digital signatures to/from WASM binaries.
 - [wasm-jseval](https://github.com/maple3142/wasm-jseval) - Safe eval library based on WebAssembly and Duktape/QuickJS.
 - [Is WebAssembly magic performance pixie dust? (2021)](https://surma.dev/things/js-to-asc/) ([HN](https://news.ycombinator.com/item?id=26803155)) ([Tweet](https://twitter.com/DasSurma/status/1381970241694076930))
+- [Web Bundler](https://github.com/panoptix-za/web-bundler) - Bundles a Rust WebAssembly frontend application for publishing.
