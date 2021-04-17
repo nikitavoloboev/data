@@ -167,6 +167,7 @@
 - [Chakra-UI AutoComplete](https://github.com/koolamusic/chakra-ui-autocomplete) - Accessible Autocomplete Utility for Chakra UI that composes Downshift ComboBox.
 - [Supabase UI](https://github.com/supabase/ui) - React UI library.
 - [Reactjs-popup](https://github.com/yjose/reactjs-popup) - React Popup Component - Modals, Tooltips and Menus. All in one.
+- [use-click-outside](https://github.com/ElForastero/use-click-outside) - React hook to detect clicks outside of the components. With shadow DOM support.
 
 ## Links
 

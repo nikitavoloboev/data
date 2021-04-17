@@ -208,6 +208,7 @@
 - [pairing](https://github.com/zkcrypto/pairing) - Crate for using pairing-friendly elliptic curves.
 - [Monotree](https://github.com/thyeem/monotree) - Optimized Sparse Merkle Tree in Rust.
 - [Cupcake](https://github.com/facebookresearch/Cupcake) - Rust library for lattice-based additive homomorphic encryption.
+- [orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto.
 
 ## Linux
 
