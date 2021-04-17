@@ -364,4 +364,5 @@
 - [KDash](https://github.com/kdash-rs/kdash) - Fast and simple dashboard for Kubernetes.
 - [Liqo](https://liqo.io/) - Platform to enable dynamic and decentralized resource sharing across Kubernetes clusters, either on-prem or managed. ([Code](https://github.com/liqotech/liqo))
 - [Exploring the Kubernetes API with Curl (2021)](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html) ([HN](https://news.ycombinator.com/item?id=26800094))
+- [kubesql](https://github.com/Dentrax/kubesql) - Experimental tool to query K8s API using plain SQL.
 - [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))

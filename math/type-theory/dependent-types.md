@@ -24,7 +24,7 @@
 - [In Further Praise of Dependent Types (2020)](https://golem.ph.utexas.edu/category/2020/05/in_further_praise_of_dependent.html) ([HN](https://news.ycombinator.com/item?id=23139972))
 - [Checking Dependent Types with Normalization by Evaluation: A Tutorial](http://davidchristiansen.dk/tutorials/nbe/)
 - [Epigram: Practical Programming with Dependent Types (2004)](http://cs.ru.nl/F.Wiedijk/courses/tt-2010/tvftl/epigram-notes.pdf) ([Lobsters](https://lobste.rs/s/v0cfko/epigram_practical_programming_with))
-- [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/)
+- [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/) ([PDF](https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf))
 - [How to implement dependent type theory (2012)](http://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 - [Dependently-typed compilers don't go wrong (2020)](http://www.cs.nott.ac.uk/~pszgmh/bib.html#well-typed)
 - [Dependable Types explained in parts (2018)](http://www.tomharding.me/2018/01/09/dependable-types/)
