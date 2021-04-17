@@ -447,3 +447,5 @@
 - [Joint Universal Syntactic and Semantic Parsing (2021)](https://arxiv.org/abs/2104.05696)
 - [A Comprehensive Introduction to Bayesian Deep Learning (2021)](https://www.topbots.com/comprehensive-introduction-to-bayesian-deep-learning/)
 - [Stanford Machine Learning with Graphs Course (2021)](http://web.stanford.edu/class/cs224w/)
+- [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning. ([Web](https://keepsake.ai/))
+- [Learning Versatile Neural Architectures by Propagating Network Codes](https://github.com/dingmyu/NCP)
