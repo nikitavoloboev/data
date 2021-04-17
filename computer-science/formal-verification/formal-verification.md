@@ -62,3 +62,4 @@
 - [KreMLin](https://github.com/FStarLang/kremlin) - Tool for extracting low-level F\* programs to readable C code.
 - [Formal Methods of Software Design Course by Eric Hehner](http://www.cs.utoronto.ca/~hehner/FMSD/) ([HN](https://news.ycombinator.com/item?id=26610221))
 - [The Little Prover](https://mitpress.mit.edu/books/little-prover) ([Code](https://github.com/the-little-prover/j-bob))
+- [IncA](https://github.com/szabta89/IncA) - Incremental Program Analysis Framework.

@@ -278,3 +278,4 @@
 - [GHC Whole Program Compiler and External STG IR tooling](https://github.com/grin-compiler/ghc-whole-program-compiler-project)
 - [Z.Haskell](https://z.haskell.world/) - Fast/Concise/Modern Haskell Engineering Toolkits. ([GitHub](https://github.com/ZHaskell)) ([HN](https://news.ycombinator.com/item?id=26720551))
 - [The Benefits of Learning Haskell (2021)](https://alistairb.dev/benefits-of-learning-haskell/) ([Lobsters](https://lobste.rs/s/fxc0j9/benefits_learning_haskell))
+- [Products and sums, named and anonymous (2021)](https://osa1.net/posts/2021-04-10-sums-and-products.html)
