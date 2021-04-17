@@ -95,3 +95,4 @@
 - [cache](https://github.com/denosaurs/cache) - Deno cache library.
 - [Deno 1.9 (2021)](https://deno.com/blog/v1.9) ([HN](https://news.ycombinator.com/item?id=26797557))
 - [Peco](https://github.com/sebringrose/peco) - Featherweight Deno webapp framework. Built with Preact and htm.
+- [Eggs CLI](https://github.com/nestdotland/eggs) - CLI used to publish and update modules in nest.land.

@@ -197,3 +197,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Sending tuples from Node to Rust and back (2021)](https://www.fluvio.io/blog/2021/04/node-bindgen-tuples/)
 - [HugSql](https://github.com/carocad/hugsql) - Node.js library for embracing SQL.
 - [esmon](https://github.com/egoist/esmon) - Like nodemon but using esbuild.
+- [MikroORM](https://mikro-orm.io/) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. ([Code](https://github.com/mikro-orm/mikro-orm))

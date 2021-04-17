@@ -282,6 +282,7 @@
 - [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage.
 - [SwiftUI-Animations](https://github.com/Shubham0812/SwiftUI-Animations) - Animations created with SwiftUI.
 - [Stacks](https://github.com/kean/Stacks) - UIStackView convenience APIs inspired by SwiftUI.
+- [WrappingHStack](https://github.com/dkk/WrappingHStack) - SwiftUI HStack with the ability to wrap contained elements.
 
 ## Test
 

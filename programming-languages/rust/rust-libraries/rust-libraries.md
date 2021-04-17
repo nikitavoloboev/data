@@ -116,6 +116,7 @@
 - [Buzz Rust](https://github.com/cloudfuse-io/buzz-rust) - Serverless query engine.
 - [wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine.
 - [acid-store](https://github.com/lostatc/acid-store) - Library for secure, deduplicated, transactional, and verifiable data storage.
+- [SeaQuery](https://github.com/SeaQL/sea-query) - Database agnostic runtime query builder for Rust.
 
 ## Graphics
 
@@ -786,6 +787,7 @@
 - [mint](https://github.com/kvark/mint) - Math Interoperability Types.
 - [niffler](https://github.com/luizirber/niffler) - Simple and transparent support for compressed files.
 - [zstd-rs](https://github.com/gyscos/zstd-rs) - Rust binding for the zstd compression library.
+- [markup.rs](https://github.com/utkarshkukreti/markup.rs) - Blazing fast, type-safe template engine for Rust.
 
 ## Cargo Plugins
 

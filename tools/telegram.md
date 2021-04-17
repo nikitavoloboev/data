@@ -27,6 +27,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too.
 - [banana](https://github.com/Smertig/banana) - C++ Telegram Bot API library.
 - [TelegraML](https://github.com/nv-vn/TelegraML) - OCaml implementation of the Telegram Bot API.
+- [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Simple, but extensible Python implementation for the Telegram Bot API.
 
 ## Bots
 

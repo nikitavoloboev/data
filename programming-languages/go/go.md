@@ -464,3 +464,4 @@ Go promotes composition over inheritance.
 - [Mocking dependencies in Go with implicit interfaces (2021)](https://www.victorhurdugaci.com/mocking-dependencies-go/)
 - [gops](https://github.com/google/gops) - Command to list and diagnose Go processes currently running on your system.
 - [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
+- [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
