@@ -43,7 +43,6 @@
 - [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster.
 - [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes. ([Getting started](https://iamstoxe.com/posts/argo-getting-started/)) ([Templating](https://iamstoxe.com/posts/templating-with-argo/)) ([Argo Server](https://iamstoxe.com/posts/argo-server/))
 - [Kazan](https://github.com/obmarg/kazan) - Kubernetes API client for Elixir.
-- [Tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Maestro](https://github.com/maestrosdk/maestro) - Provides a declarative approach to building production-grade Kubernetes Operators covering the entire application lifecycle.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide)
@@ -364,3 +363,5 @@
 - [Kubectl build](https://github.com/kvaps/kubectl-build) - Build dockerfiles directly in your Kubernetes cluster.
 - [KDash](https://github.com/kdash-rs/kdash) - Fast and simple dashboard for Kubernetes.
 - [Liqo](https://liqo.io/) - Platform to enable dynamic and decentralized resource sharing across Kubernetes clusters, either on-prem or managed. ([Code](https://github.com/liqotech/liqo))
+- [Exploring the Kubernetes API with Curl (2021)](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html) ([HN](https://news.ycombinator.com/item?id=26800094))
+- [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))

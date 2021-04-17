@@ -174,3 +174,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open source promotion cheat sheet](https://github.com/zenika-open-source/promote-open-source-project/blob/master/README.md)
 - [Playing the Open Source Game (2021)](https://kristoff.it/blog/the-open-source-game/) ([Lobsters](https://lobste.rs/s/whaa3i/playing_open_source_game))
 - [Ask HN: Would issue “bounties” make contributing to open source more appealing? (2021)](https://news.ycombinator.com/item?id=26813725)
+- [It's time to say goodbye to the GPL (2021)](https://martin.kleppmann.com/2021/04/14/goodbye-gpl.html) ([HN](https://news.ycombinator.com/item?id=26834157))
