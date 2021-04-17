@@ -44,3 +44,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Why Do Wes Anderson Movies Look Like That? (2020)](https://www.youtube.com/watch?v=ba3c9KEuQ4A) ([Article](https://kottke.org/21/04/why-do-wes-anderson-movies-look-like-that))
 - [100 Greatest Korean Films Ever](https://www.koreanscreen.com/100-greatest-korean-films-100-51)
 - [The Most Beautiful Shots in Movie History](https://www.youtube.com/watch?v=AA3bJ74uIPI)
+- [Seth Rogen Explains How to Write a Movie (2020)](https://www.youtube.com/watch?v=Ej7rfjORot4)
