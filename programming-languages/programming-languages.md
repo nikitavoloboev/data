@@ -195,3 +195,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Why concatenative programming matters (2012)](https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 - [PLTalk links](https://github.com/jeanqasaur/pltalk)
 - [Crash Course on Notation in Programming Language Theory (2012)](http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
+- [Reflection for the Masses](http://www.p-cos.net/documents/s32008.pdf) ([Code](https://github.com/namin/3-proto-lisp))

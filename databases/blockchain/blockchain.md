@@ -133,3 +133,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Most promising novel distributed ledger consensus and/or sharding mechanisms (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mrir3o/what_are_the_most_promising_novel_distributed/)
 - [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html))
 - [LazyLedger](https://lazyledger.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/lazyledger/lazyledger-core))
+- [Gravity Bridge](https://github.com/cosmos/gravity-bridge) - CosmosSDK application for moving assets on and off of EVM based, POW chains.
