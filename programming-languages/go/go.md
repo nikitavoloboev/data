@@ -463,3 +463,4 @@ Go promotes composition over inheritance.
 - [Mugo, a toy compiler for a subset of Go that can compile itself (2021)](https://benhoyt.com/writings/mugo/) ([HN](https://news.ycombinator.com/item?id=26777705)) ([Code](https://github.com/benhoyt/mugo))
 - [Mocking dependencies in Go with implicit interfaces (2021)](https://www.victorhurdugaci.com/mocking-dependencies-go/)
 - [gops](https://github.com/google/gops) - Command to list and diagnose Go processes currently running on your system.
+- [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.

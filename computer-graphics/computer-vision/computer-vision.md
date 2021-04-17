@@ -267,3 +267,4 @@
 - [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer) - Transformer with Computer-Vision (CV) papers.
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - Deep learning library for video understanding research. ([Web](https://pytorchvideo.org/))
 - [Self-supervised Video Object Segmentation by Motion Grouping (2021)](https://charigyang.github.io/motiongroup/) ([HN](https://news.ycombinator.com/item?id=26842018))
+- [torchvideo](https://github.com/torchvideo/torchvideo) - Datasets, transforms and samplers for video in PyTorch.

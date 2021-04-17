@@ -77,3 +77,4 @@
 - [Data Science in Julia for Hackers](https://datasciencejuliahackers.com/)
 - [Julia 1.6 Highlights (2021)](https://julialang.org/blog/2021/03/julia-1.6-highlights/) ([HN](https://news.ycombinator.com/item?id=26580926))
 - [Unreasonable Effectiveness of Multiple Dispatch (2019)](https://www.youtube.com/watch?app=desktop&v=kc9HwsxE1OY)
+- [Seam carving in Julia (by 3Blue1Brown) (2020)](https://www.youtube.com/watch?v=rpB6zQNsbQU)
