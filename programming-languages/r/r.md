@@ -57,3 +57,4 @@
 - [An Ode to Stable Interfaces: R and R Core Deserve So Much Praise (2021)](https://dirk.eddelbuettel.com/blog/2021/03/20/)
 - [llr](https://github.com/dirkschumacher/llr) - Lisp-like-R: A clojure inspired lisp that compiles to R in R.
 - [Notes on R programming Newsletter](https://buttondown.email/rcode)
+- [mgcViz](https://github.com/mfasiolo/mgcViz) - Visual tools for Generalized Additive Models.

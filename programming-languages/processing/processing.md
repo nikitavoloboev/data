@@ -14,3 +14,4 @@
 - [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Library for Processing.
 - [Chroma](https://github.com/neilpanchal/Chroma) - Color conversion library for Processing.
 - [Processing Posters](https://github.com/Volorf/Processing-Posters) - Collection of generative posters I designed with p5.js.
+- [p5](https://github.com/p5py/p5) - Python package based on the core ideas of Processing.
