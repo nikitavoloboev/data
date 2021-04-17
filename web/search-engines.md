@@ -124,3 +124,4 @@
 - [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics.
 - [Dedupe Python Library](https://github.com/dedupeio/dedupe) - Python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.
 - [Weaviate](https://github.com/semi-technologies/weaviate) - Cloud-native, modular, real-time vector search engine.
+- [Internet Search Tips](https://www.gwern.net/Search) - Description of advanced tips and tricks for effective Internet research of papers/books.

@@ -87,3 +87,4 @@
 - [Arm Announces Armv9 Architecture: SVE2, Security, and the Next Decade (2021)](https://www.anandtech.com/show/16584/arm-announces-armv9-architecture) ([HN](https://news.ycombinator.com/item?id=26638091))
 - [Our Journey to ARM | PSPDFKit (2021)](https://pspdfkit.com/blog/2021/our-journey-to-arm/)
 - [Understanding modern state-of-the-art branch predictor (2021)](https://twitter.com/halvarflake/status/1381567750733238272)
+- [Application Binary Interface for the Arm Architecture](https://github.com/ARM-software/abi-aa)
