@@ -819,6 +819,7 @@
 - [probe-run](https://github.com/knurling-rs/probe-run) - Run embedded programs just like native ones.
 - [cargo-up](https://github.com/pksunkara/cargo-up) - Automatically upgrade breaking changes.
 - [cargo-update](https://github.com/nabijaczleweli/cargo-update) - cargo subcommand for checking and applying updates to installed executables.
+- [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy.
 
 ## Links
 
