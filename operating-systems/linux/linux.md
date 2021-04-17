@@ -292,3 +292,4 @@
 - [The Motivation Behind Systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html) ([HN](https://news.ycombinator.com/item?id=26767261))
 - [rund](https://github.com/rvolosatovs/rund) - Run arbitrary containerized Linux processes over gRPC with mTLS auth.
 - [ELKDAT](https://github.com/satoru-takeuchi/elkdat) - Easy linux kernel development and test tool.
+- [Graphene](https://github.com/oscarlab/graphene) - Linux-compatible Library OS for Multi-Process Applications. ([Web](https://grapheneproject.io/))

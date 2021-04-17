@@ -204,3 +204,4 @@
 - [Graphile Engine](https://github.com/graphile/graphile-engine) - Enables you to build high-performance easily-extensible GraphQL schemas by combining plugins.
 - [WunderGraph](https://wundergraph.com/) - API integration made simple. ([GitHub](https://github.com/wundergraph/)) ([Docs](https://docs.wundergraph.com/))
 - [Try GraphQL!](https://trygql.dev/) - Purpose-built Demo APIs for GraphQL. ([Code](https://github.com/kitten/trygql.dev))
+- [Building a GraphQL API with Deno and gql (2021)](https://v1rtl.site/blog/deno-graphql)
