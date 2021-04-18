@@ -60,6 +60,7 @@
 - [The enteric nervous system in gastrointestinal disease etiology (2021)](https://link.springer.com/article/10.1007/s00018-021-03812-y)
 - [Recent books about the behavioral neuroscience of mental disorders and psychopharmacology (2021)](https://www.reddit.com/r/neuroscience/comments/mezauy/recent_books_about_the_behavioural_neuroscience/)
 - [Neurons might contain something within them (2021)](https://join.substack.com/p/is-this-the-most-interesting-idea) ([HN](https://news.ycombinator.com/item?id=26838016))
+- [The brain ‘rotates’ memories to save them from new sensations (2021)](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/) ([HN](https://news.ycombinator.com/item?id=26830105))
 
 ## Images
 

@@ -661,6 +661,7 @@
 - [AAChartKit-Swift](https://github.com/AAChartModel/AAChartKit-Swift) - Elegant modern declarative data visualization chart framework.
 - [Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement.
 - [FuzzyFind](https://github.com/truizlop/FuzzyFind) - Swift package to perform fuzzy search queries on strings.
+- [Yaproq](https://github.com/yaproq/yaproq) - Templating language for Swift.
 
 ## Other (not lib)
 

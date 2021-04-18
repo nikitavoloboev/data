@@ -20,3 +20,4 @@
 - [Nuclear technology’s role in the world’s energy supply is shrinking (2021)](https://www.nature.com/articles/d41586-021-00615-w) ([HN](https://news.ycombinator.com/item?id=26401782))
 - [HN: Nuclear should be considered part of clean energy standard, White House says (2021)](https://news.ycombinator.com/item?id=26673987)
 - [Why is nuclear fusion so hard? (2018)](http://blog.sigfpe.com/2018/12/why-is-nuclear-fusion-so-hard.html)
+- [Why has nuclear power been a flop? (2021)](https://rootsofprogress.org/devanney-on-the-nuclear-flop)
