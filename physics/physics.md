@@ -202,3 +202,4 @@
 - [NEWS: What's up with Muons? - Sixty Symbols (2021)](https://www.youtube.com/watch?v=kBzn4o4z5Bk) ([Reddit](https://www.reddit.com/r/Physics/comments/mpjzp1/news_whats_up_with_muons_sixty_symbols/))
 - [Can We Understand the Standard Model Using Octonions?](http://pirsa.org/21040005/) ([Tweet](https://twitter.com/johncarlosbaez/status/1382358155389136899))
 - [The Wolfram Physics Project: A One-Year Update (2021)](https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/) ([HN](https://news.ycombinator.com/item?id=26808991))
+- [Collection of Videos in Support of Geometric Unity](https://pullthatupjamie.com/) ([Reddit](https://www.reddit.com/r/ThePortal/comments/msypp9/does_anybody_have_a_good_eli5_for_geometric_unity/))

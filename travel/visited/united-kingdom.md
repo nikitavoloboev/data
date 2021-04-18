@@ -27,3 +27,4 @@
 - [The Queen has more power over British law than we thought (2021)](https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent) ([HN](https://news.ycombinator.com/item?id=26081208))
 - [Is anyone else really concerned about the future of UK? (2021)](https://www.reddit.com/r/unitedkingdom/comments/m6ws6c/is_anyone_else_really_concerned_about_the_future/)
 - [Nice places to live in London (2021)](https://twitter.com/antonyslumbers/status/1376227037153726470)
+- [What are some behaviors acceptable in other countries, but not in the United Kingdom? (2021)](https://www.reddit.com/r/AskUK/comments/mt8jj4/what_are_some_behaviors_acceptable_in_other/)

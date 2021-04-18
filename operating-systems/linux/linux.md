@@ -293,3 +293,4 @@
 - [rund](https://github.com/rvolosatovs/rund) - Run arbitrary containerized Linux processes over gRPC with mTLS auth.
 - [ELKDAT](https://github.com/satoru-takeuchi/elkdat) - Easy linux kernel development and test tool.
 - [Graphene](https://github.com/oscarlab/graphene) - Linux-compatible Library OS for Multi-Process Applications. ([Web](https://grapheneproject.io/))
+- [I Implemented /dev/printerfact in Rust (2021)](https://christine.website/blog/dev-printerfact-2021-04-17) ([Lobsters](https://lobste.rs/s/n5trnx/how_i_implemented_dev_printerfact_rust)) ([HN](https://news.ycombinator.com/item?id=26845355))

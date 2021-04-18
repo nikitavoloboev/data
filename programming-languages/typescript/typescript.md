@@ -144,6 +144,7 @@
 - [vite-plugin-ts-checker](https://github.com/fi3ework/vite-plugin-ts-checker) - Vite plugin that runs TypeScript type checker on a separate process.
 - [Oh no, I have to add those stupid TypeScript types (2021)](https://www.aleksandra.codes/fighting-with-ts)
 - [Unirepo](https://github.com/deref/uni) - Extremely opinionated TypeScript monorepo tool.
+- [DTS Bundle Generator](https://github.com/timocov/dts-bundle-generator) - Small tool to generate a dts bundle from your ts code.
 
 ## Images
 
