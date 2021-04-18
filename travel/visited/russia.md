@@ -118,3 +118,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [What's your favorite city in Russia? (2021)](https://www.reddit.com/r/AskARussian/comments/mrdt6n/what_your_favorite_city_in_russia/)
 - [Гибель империи. Российский урок. (2021)](https://www.youtube.com/watch?v=4n01EBO0mUs)
 - [Безвозвратные потери. Беседа с журналистом Аркадий Бабченко (2021)](https://www.youtube.com/watch?v=K2mC3zw9J4I)
+- [Адекватный тред с тредами про поведение на протестных акциях (2021)](https://twitter.com/mamaneplach/status/1351659920542806017)
