@@ -8,6 +8,7 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 
 - [Club-Mate](https://www.club-mate.de/en/)
 - [MAKAvA delighted ice tea](https://www.makava.at/)
+- [Sweet Liberty’s Pina Colada](https://www.washingtonpost.com/recipes/sweet-libertys-pina-colada/15979/)
 
 ## Links
 

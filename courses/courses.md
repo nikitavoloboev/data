@@ -40,3 +40,4 @@
 - [PSI Lectures](https://perimeterinstitute.ca/psi-lectures)
 - [What's happening in the online education market broadly, and cohort-based courses specifically (2021)](https://twitter.com/fortelabs/status/1369754186967965697)
 - [How Josh Comeau pulled off a $500.000 Course Launch (2021)](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000) ([HN](https://news.ycombinator.com/item?id=26692410))
+- [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Cross-platform python based utility to download courses from Udemy for personal offline use.
