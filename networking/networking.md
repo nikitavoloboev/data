@@ -225,3 +225,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Networking Books](https://mwl.io/nonfiction/networking)
 - [Full functional WiFi repeater (correctly: a WiFi NAT router)](https://github.com/martin-ger/esp_wifi_repeater)
 - [Docker Stack which Monitors your home network](https://github.com/geerlingguy/internet-monitoring)
+- [Why did the IETF specifically choose 192.168/16 to be a private IP address class?](https://superuser.com/questions/784978/why-did-the-ietf-specifically-choose-192-168-16-to-be-a-private-ip-address-class) ([Lobsters](https://lobste.rs/s/yzk1rb/why_did_ietf_specifically_choose_192_168))
