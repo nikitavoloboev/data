@@ -367,3 +367,4 @@
 - [kubesql](https://github.com/Dentrax/kubesql) - Experimental tool to query K8s API using plain SQL.
 - [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))
 - [Datree](https://www.datree.io/) - Prevent Kubernetes misconfigurations. ([Code](https://github.com/datreeio/datree))
+- [AutoK3s](https://github.com/cnrancher/autok3s) - Fully certified Kubernetes offering, it can replace the "full-fat" K8s in some cases.

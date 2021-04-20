@@ -24,3 +24,4 @@
 - [Deepr](https://github.com/deeprjs/deepr) - Specification for invoking remote methods, deeply.
 - [rpc-bench](https://github.com/cockroachdb/rpc-bench) - Benchmarking various RPC implementations.
 - [Writing an RPC From Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
+- [yarpc](https://github.com/yarpc/yarpc-go) - Message passing platform for Go.
