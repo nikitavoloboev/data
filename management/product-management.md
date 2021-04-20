@@ -59,3 +59,4 @@
 - [A letter to our future Lead Product Manager, Growth](https://www.notion.so/A-letter-to-our-future-Lead-Product-Manager-Growth-94937a4a80c94a87a7ccb9ce648935c8)
 - [Why your organization needs product principles](https://slack.design/articles/why-your-organization-needs-product-principles/)
 - [Ask HN: Good resources to become a better Product Manager? (2021)](https://news.ycombinator.com/item?id=26856691)
+- [Lenny's Job Board](https://pallet.xyz/list/lennys-jobs) - Job board, specializing in product-building roles. ([Tweet](https://twitter.com/lennysan/status/1384530146330222599))
