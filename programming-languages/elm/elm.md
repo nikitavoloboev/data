@@ -59,3 +59,4 @@
 - [Elm Koans](https://github.com/robertjlooby/elm-koans) - Set of koans for learning Elm.
 - [Calling Rust through Wasm from Elm (2020)](https://vleue.com/2020/07/wasm-elm/)
 - [Elm Weekly](http://www.elmweekly.nl/)
+- [Why we chose Elm for Humio’s web UI (2021)](https://www.humio.com/whats-new/blog/why-we-chose-elm-for-humio-s-web-ui) ([HN](https://news.ycombinator.com/item?id=26860919)) ([Lobsters](https://lobste.rs/s/cuxhio/why_we_chose_elm_for_humio_s_web_ui))

@@ -44,3 +44,4 @@
 - [Lyra](https://github.com/google/lyra) - Very Low-Bitrate Codec for Speech Compression.
 - [lasr](https://github.com/sooftware/lasr) - PyTorch Lightning implementation of Automatic Speech Recognition.
 - [TTS](https://github.com/coqui-ai/TTS) - Library for advanced Text-to-Speech generation.
+- [Speech Recognition from Scratch](https://colab.research.google.com/drive/1aFgzrUv3udM_gNJNUoLaHIm78QHtxdIz?usp=sharing)
