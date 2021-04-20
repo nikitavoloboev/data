@@ -70,3 +70,4 @@
 - [coolify](https://coollabs.io/coolify) - Open-source, self-hostable Heroku and Netlify alternative. ([Code](https://github.com/coollabsio/coolify)) ([HN](https://news.ycombinator.com/item?id=26624341))
 - [CloudARK](https://cloudark.io/) - Platform-As-Code. ([GitHub](https://github.com/cloud-ark))
 - [Meltano](https://meltano.com/) - ELT for the DataOps era.
+- [DigitalOcean Agent](https://github.com/digitalocean/do-agent) - Collects system metrics from DigitalOcean Droplets.

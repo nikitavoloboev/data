@@ -28,3 +28,4 @@
 - [Traefik Ondemand Plugin](https://github.com/acouvreur/traefik-ondemand-plugin) - Traefik plugin to scale containers on demand.
 - [Deterministic Aperture: A distributed, load balancing algorithm (2019)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html) ([HN](https://news.ycombinator.com/item?id=25596645))
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - Facebook's implementation of a load balancer for DHCP.
+- [sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer.
