@@ -214,3 +214,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [cam2ip](https://github.com/gen2brain/cam2ip) - Turn any webcam into an IP camera.
 - [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4) ([HN](https://news.ycombinator.com/item?id=26746537))
 - [goav](https://github.com/giorgisio/goav) - Go bindings for FFmpeg.
+- [RUHAcam](https://github.com/penk/ruha.camera) - 3D Printable Retro-style Raspberry Pi HQ Camera. ([Web](https://ruha.camera/)) ([HN](https://news.ycombinator.com/item?id=26859058))
