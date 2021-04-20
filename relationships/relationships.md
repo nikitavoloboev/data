@@ -35,3 +35,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [How did you ever recover from abusive relationship with a woman? (2021)](https://www.reddit.com/r/AskMen/comments/mgn543/how_did_you_ever_recover_from_abusive/)
 - [How important is good conversations? (2021)](https://www.reddit.com/r/datingoverthirty/comments/mhtuk9/how_important_is_good_conversations/)
 - [How do you all accept kindness (love)? (2021)](https://www.reddit.com/r/datingoverthirty/comments/mmut90/how_do_you_all_accept_kindness_love/)
+- [What are little gestures that can brighten someone's day when dating or in a relationship?](https://www.reddit.com/r/datingoverthirty/comments/murrar/what_are_little_gestures_that_can_brighten/)
