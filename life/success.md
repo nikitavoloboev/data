@@ -87,3 +87,4 @@ Success comes from not giving up and doing what you love.
 - [Embrace the Grind (2021)](https://jacobian.org/2021/apr/7/embrace-the-grind/) ([HN](https://news.ycombinator.com/item?id=26747305)) ([Lobsters](https://lobste.rs/s/vs5nxu/embrace_grind))
 - [How to make impact on the internet (2021)](https://twitter.com/gregisenberg/status/1381588219477815296)
 - [Patrick OShaughnessy's advice on life after turning 36 (2021)](https://twitter.com/patrick_oshag/status/1382781568343797767)
+- [Early YC Founders' Non-Linear Success on HN](https://twitter.com/stephsmithio/status/1384245328245714957) ([HN](https://news.ycombinator.com/item?id=26868333))

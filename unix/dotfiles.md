@@ -53,3 +53,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Dotfile](https://github.com/knoebber/dotfile) - Version control system designed for dotfiles.
 - [Using GNU Stow to manage your dotfiles (2012)](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html) ([HN](https://news.ycombinator.com/item?id=25549462))
 - [yadm](https://yadm.io/) - Yet Another Dotfiles Manager. ([Code](https://github.com/TheLocehiliosan/yadm))
+- [Ask HN: Dotfiles Management Tools? (2021)](https://news.ycombinator.com/item?id=26867467)

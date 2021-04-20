@@ -17,3 +17,4 @@
 - [Silent Running: The sci-fi that predicted modern crises](https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises) ([HN](https://news.ycombinator.com/item?id=26212975))
 - [Clues for software design in how we sketch maps of cities (2021)](https://interconnected.org/home/2021/03/31/maps)
 - [The Signs that Make a City (2021)](https://tribunemag.co.uk/2021/04/the-signs-that-make-a-city) ([HN](https://news.ycombinator.com/item?id=26839799))
+- [Book review on the history of modern Singapore](https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer) ([HN](https://news.ycombinator.com/item?id=26868966))

@@ -64,3 +64,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Ask HN: What was the biggest contributor to your happiness in the past year? (2021)](https://news.ycombinator.com/item?id=26528011)
 - [What gives you pleasure? (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/md7giy/what_gives_you_pleasure/)
 - [What's the best feeling?](https://twitter.com/BecomingCritter/status/1381795127312670721)
+- [You Are Not ‘Behind’ (2016)](https://zackkanter.com/2016/01/13/you-are-not-behind/) ([HN](https://news.ycombinator.com/item?id=26868731))
