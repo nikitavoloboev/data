@@ -41,3 +41,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [How to stay healthy as a programmer? (2021)](https://www.reddit.com/r/AskProgramming/comments/lra030/how_to_stay_healthy_as_a_programmer/)
 - [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score)
 - [Nabla](https://www.nabla.com/en/) - Your health in one app.
+- [As you age (30+), what health aspects do you need to keep an eye on?](https://www.reddit.com/r/AskMen/comments/muobbu/as_you_age_30_what_health_aspects_do_you_need_to/)
