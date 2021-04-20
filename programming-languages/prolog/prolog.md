@@ -32,3 +32,4 @@
 - [99 Prolog Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/)
 - [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 - [Prolog Meta-interpreters (2021)](https://www.youtube.com/watch?v=nmBkU-l1zyc)
+- [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd)

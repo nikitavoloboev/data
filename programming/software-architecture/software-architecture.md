@@ -142,3 +142,4 @@
 - [The Architecture Behind A One-Person Tech Startup (2021)](https://anthonynsimon.com/blog/one-man-saas-architecture/) ([HN](https://news.ycombinator.com/item?id=26737771))
 - [What event sourcing is not about (2021)](https://stitcher.io/blog/what-event-sourcing-is-not-about)
 - [Scaling LiveJournal (2007)](https://www.youtube.com/watch?v=zHXoDB07Iwg)
+- [Software Infrastructure 2.0: A Wishlist (2021)](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html) ([HN](https://news.ycombinator.com/item?id=26869050))
