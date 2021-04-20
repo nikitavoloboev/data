@@ -117,3 +117,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [volt.fm](https://volt.fm/) - See, compare and share your Spotify stats.
 - [Car Thing](https://carthing.spotify.com/) - Spotify’s new smart player designed for your drive.
 - [WhoSampled](https://www.whosampled.com/) - Discover Music via Samples, Cover Songs and Remixes.
+- [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/) - Algorithmic self-composing acid techno music. ([HN](https://news.ycombinator.com/item?id=26870666)) ([Code](https://github.com/vitling/acid-banger))

@@ -11,6 +11,7 @@
 - [Logic Matters](https://www.logicmatters.net/)
 - [Logic Matters Study Guide](http://www.logicmatters.net/tyl/)
 - [Gödel’s Theorems Books](https://www.logicmatters.net/igt/)
+- [Introduction to Formal Logic](https://www.logicmatters.net/ifl/)
 - [forallx: Cambridge book](http://people.ds.cam.ac.uk/tecb2/forallx.shtml) - Covers both truth-functional logic and first-order logic, introducing students to semantics and to a Fitch-style natural deduction system.
 - [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [Hoare Logic: Introduction to separation logic](http://www.cl.cam.ac.uk/teaching/1718/HLog+ModC/slides/lecture5-4-updated.pdf)

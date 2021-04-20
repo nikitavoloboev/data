@@ -73,3 +73,4 @@ Learning to build [startups](startups/startups.md).
 - [Gaps](https://gaps.com/) - Online business analysis & opportunities.
 - [Learnings from Jeff Bezos's 23 years of Amazon shareholder letters (2021)](https://twitter.com/sumitgrrg/status/1381227286238666752)
 - [Career Ladders](https://career-ladders.dev/) - Sample of career ladders I use for my organization, open sourced for anyone. ([Code](https://github.com/sdras/career-ladders)) ([Article](https://css-tricks.com/the-importance-of-career-laddering/))
+- [Ask HN: I'd like to start a company, where should I begin? (2021)](https://news.ycombinator.com/item?id=26869271)

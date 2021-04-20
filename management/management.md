@@ -102,3 +102,4 @@
 - [Use Red/Yellow/Green system for check-ins (2021)](https://twitter.com/bencodezen/status/1381689656157335558)
 - [#1 tip for new managers: protect your energy (2021)](https://twitter.com/ppyapali/status/1382124266812952582)
 - [Write tasks not user stories – Linear Method](https://linear.app/method/write-tasks-not-user-stories) ([HN](https://news.ycombinator.com/item?id=26809166))
+- [Manage Work not People (2021)](http://diego-pacheco.blogspot.com/2021/04/manage-work-not-people.html)

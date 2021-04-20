@@ -364,3 +364,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Pictures, Engravings and Extracts From Old Books](https://www.fromoldbooks.org/)
 - [Why has no one made a better Goodreads (2021)](https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a) ([HN](https://news.ycombinator.com/item?id=26834833))
 - [How to Write a Technical Book (2021)](https://serhack.me/articles/how-to-write-technical-book/) ([HN](https://news.ycombinator.com/item?id=26831469)) ([Lobsters](https://lobste.rs/s/9mcwxo/writing_technical_book))
+- [Shepherd](https://shepherd.com/) - Discover The Best Books To Read. ([HN](https://news.ycombinator.com/item?id=26871660))
