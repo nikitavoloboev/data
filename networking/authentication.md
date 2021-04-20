@@ -119,3 +119,4 @@
 - [Behind GitHub's new authentication token formats (2021)](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) ([HN](https://news.ycombinator.com/item?id=26701149))
 - [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
 - [Basic HTTP Auth via Cloudflare Workers](https://github.com/dommmel/cloudflare-workers-basic-auth) - Can be used to protect static HTML pages.
+- [Single Sign-On Solutions (2021)](https://www.reddit.com/r/selfhosted/comments/mu9gsm/single_signon_solutions/)
