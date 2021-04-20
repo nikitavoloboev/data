@@ -451,3 +451,4 @@
 - [Why Rust strings seem hard (2021)](https://www.brandons.me/blog/why-rust-strings-seem-hard) ([HN](https://news.ycombinator.com/item?id=26811879)) ([Lobsters](https://lobste.rs/s/0mvd4x/why_rust_strings_seem_hard))
 - [du it in Rust: async, tokio, streams, and surprises about perf (2021)](https://www.youtube.com/watch?v=35v9BO1g_mA)
 - [What's in the box? (2021)](https://fasterthanli.me/articles/whats-in-the-box) ([Lobsters](https://lobste.rs/s/ilmlls/what_s_box)) ([HN](https://news.ycombinator.com/item?id=26861875))
+- [First steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/) ([HN](https://news.ycombinator.com/item?id=26851425))

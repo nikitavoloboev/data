@@ -64,3 +64,4 @@
 - [PR Assigner](https://github.com/justeat/PRAssigner) - Swift AWS Lambda to automatically assign engineers to pull requests with a Slack integration.
 - [AWS Lambda Developer Guide](https://github.com/awsdocs/aws-lambda-developer-guide)
 - [How Lambda work? Cold starts? Firecracker? Container support? (2021)](https://www.youtube.com/watch?v=OOGV81YbuEo)
+- [Ask HN: Does anyone else find the AWS Lambda developer experience frustrating? (2021)](https://news.ycombinator.com/item?id=26855037)

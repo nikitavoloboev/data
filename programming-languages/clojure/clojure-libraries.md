@@ -69,6 +69,7 @@
 - [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure.
 - [frak](https://github.com/noprompt/frak) - Transform collections of strings into regular expressions.
 - [Methodical](https://github.com/camsaul/methodical) - Clojure multimethods just got a whole lot more powerful.
+- [farolero](https://github.com/IGJoshua/farolero) - Thread-safe Common Lisp style conditions and restarts for Clojure(Script). ([HN](https://news.ycombinator.com/item?id=26852309))
 
 ## Links
 
