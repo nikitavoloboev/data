@@ -333,6 +333,7 @@ Here are few more things I liked, design wise.
 - [Andrew Ingram](https://andrewingram.net/)
 - [Caolan McMahon](https://caolan.uk/)
 - [Sibylle Sehl](https://sibylle.dev/)
+- [Tyler Galpin](https://www.galp.in/) ([Tweet](https://twitter.com/TylerGalpin/status/1384511348512485382))
 - [Hector Simpson](https://hector.me/)
 - [Jonas Galvez](https://hire.jonasgalvez.com.br/)
 - [Ian Bicking](https://www.ianbicking.org/)

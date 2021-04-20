@@ -366,3 +366,4 @@
 - [Exploring the Kubernetes API with Curl (2021)](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html) ([HN](https://news.ycombinator.com/item?id=26800094))
 - [kubesql](https://github.com/Dentrax/kubesql) - Experimental tool to query K8s API using plain SQL.
 - [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))
+- [Datree](https://www.datree.io/) - Prevent Kubernetes misconfigurations. ([Code](https://github.com/datreeio/datree))
