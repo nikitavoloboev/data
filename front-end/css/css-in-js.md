@@ -37,3 +37,4 @@
 - [theme-in-css](https://github.com/pveyes/theme-in-css) - Type-safe CSS custom properties (CSS variables) for theming purpose.
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript.
 - [Stitches Zigzag](https://github.com/garand/stitches-zigzag) - Tailwind inspired tools to build fast with Stitches.
+- [Stylin](https://github.com/sultan99/stylin) - Build-time CSS library that offers an elegant way to style React components.

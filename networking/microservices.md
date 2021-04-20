@@ -67,3 +67,4 @@
 - [Building a microservice with Rust (2021)](https://medium.com/tenable-techblog/building-a-microservice-with-rust-23a4de6e5e14)
 - [The Netflix Cosmos Platform (2021)](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad) - Orchestrated Functions as a Microservice.
 - [Simplifying Microservices Debugging with Thundra Sidekick (2021)](https://blog.thundra.io/simplifying-microservices-debugging-with-thundra-sidekick)
+- [Ask HN: How do you keep track of releases/deployments of dozens micro-services? (2021)](https://news.ycombinator.com/item?id=26872904)

@@ -278,3 +278,4 @@
 - [The complete guide to working with strings in modern JavaScript](https://www.baseclass.io/guides/string-handling-modern-js)
 - [Natto.dev](https://natto.dev/) - Canvas for JavaScript. ([HN](https://news.ycombinator.com/item?id=26790285))
 - [Kataw](https://github.com/kataw/kataw) - Insane fast JavaScript toolchain.
+- [JS Tooling not in JS](https://github.com/RobinCsl/awesome-js-tooling-not-in-js) - Curated list of JavaScript tooling not written in JavaScript. ([HN](https://news.ycombinator.com/item?id=26872457))
