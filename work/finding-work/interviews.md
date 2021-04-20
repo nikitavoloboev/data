@@ -126,3 +126,4 @@
 - [Do you have a framework for good engineering interview questions? (2021)](https://lobste.rs/s/c1e5ii/do_you_have_framework_for_good)
 - [Technical interview methods pale in comparison to playing Factorio with someone (2021)](https://erikmcclure.com/blog/factorio-is-best-interview-we-have/) ([HN](https://news.ycombinator.com/item?id=26591966)) ([Lobsters](https://lobste.rs/s/nwvm1p/factorio_is_best_technical_interview_we))
 - [Senior and Above Interviews at Big Tech and Startups](https://blog.pragmaticengineer.com/tech-interviews/)
+- [Questions to ask in a job interview that reveal company culture (2021)](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture)
