@@ -115,3 +115,4 @@
 - [Browserosaurus](https://wstone.io/browserosaurus) - Browser prompter for macOS. ([Code](https://github.com/will-stone/browserosaurus))
 - [How Browsers Lay Out Web Pages](https://browser.engineering/layout.html) ([HN](https://news.ycombinator.com/item?id=26707368))
 - [Deep dive in CORS: History, how it works, and best practices (2021)](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/) ([HN](https://news.ycombinator.com/item?id=26798412))
+- [The Hotdog web browser and browser engine](https://github.com/danfragoso/thdwb) ([HN](https://news.ycombinator.com/item?id=26869814))
