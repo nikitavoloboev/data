@@ -22,3 +22,4 @@
 - [Cap'n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system. Think JSON, except binary. ([Code](https://github.com/capnproto/capnproto))
 - [Deepr](https://github.com/deeprjs/deepr) - Specification for invoking remote methods, deeply.
 - [rpc-bench](https://github.com/cockroachdb/rpc-bench) - Benchmarking various RPC implementations.
+- [Writing an RPC From Scratch (2021)](https://alexanderell.is/posts/rpc-from-scratch/)
