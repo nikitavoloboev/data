@@ -790,6 +790,7 @@
 - [zstd-rs](https://github.com/gyscos/zstd-rs) - Rust binding for the zstd compression library.
 - [markup.rs](https://github.com/utkarshkukreti/markup.rs) - Blazing fast, type-safe template engine for Rust.
 - [argmin](https://github.com/argmin-rs/argmin) - Mathematical optimization in pure Rust.
+- [trait-set](https://github.com/popzxc/trait-set) - Trait aliases on stable Rust.
 
 ## Cargo Plugins
 

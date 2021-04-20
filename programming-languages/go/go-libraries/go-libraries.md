@@ -777,6 +777,7 @@
 - [gostackparse](https://github.com/DataDog/gostackparse) - Parse go stack traces at ~300 MiB/s.
 - [perf](https://github.com/golang/perf) - Go performance measurement, storage, and analysis tools.
 - [go-edlib](https://github.com/hbollon/go-edlib) - Edit distance and string comparison library.
+- [go-billy](https://github.com/go-git/go-billy) - Missing interface filesystem abstraction for Go.
 
 ## Links
 

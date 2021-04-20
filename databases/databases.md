@@ -136,6 +136,7 @@
 - [Baserow](https://baserow.io/) - Self-hosted Airtable alternative. ([HN](https://news.ycombinator.com/item?id=26448985)) ([Code](https://github.com/bram2w/baserow))
 - [KuiBaDB](https://github.com/hidva/KuiBaDB) - Another Postgres rewritten with Rust and multi-threading.
 - [LeanStore](https://github.com/leanstore/leanstore) - High-performance OLTP storage engine optimized for many-core CPUs and NVMe SSDs. ([Web](https://dbis1.github.io/leanstore.html))
+- [KVS](https://kvs.n2o.dev/) - Abstract Chain Database. ([Code](https://github.com/synrc/kvs))
 
 ## Tools
 
