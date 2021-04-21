@@ -78,3 +78,4 @@
 - [D-Wave Ocean Software Docs](https://docs.ocean.dwavesys.com/en/stable/) - Fastest way to get started writing your quantum application.
 - [How I Became A Quantum Computing Researcher (2021)](https://www.youtube.com/watch?v=3BXZxh6rVlE)
 - [Quantum computing’s reproducibility crisis: Majorana fermions (2021)](https://www.nature.com/articles/d41586-021-00954-8) ([HN](https://news.ycombinator.com/item?id=26781994))
+- [Write Your First Quantum Program (Common Lisp) (2021)](https://lambdafaktorie.com/how-to-write-your-first-quantum-program/) ([HN](https://news.ycombinator.com/item?id=26873119))

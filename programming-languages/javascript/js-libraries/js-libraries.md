@@ -377,7 +377,7 @@
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Online spreadsheet like excel that is powerful, simple to configure, and completely open source. ([Docs](https://mengshukeji.github.io/LuckysheetDocs/guide/))
 - [noUiSlider](https://github.com/leongersen/noUiSlider) - Lightweight JavaScript range slider.
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for JavaScript. ([Web](https://davidshimjs.github.io/qrcodejs/))
-- [HyperScript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript, on client or server.
+- [HyperScript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript, on client or server. ([Web](https://hyperscript.org/)) ([HN](https://news.ycombinator.com/item?id=26873682))
 - [hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers) - Terse syntax for hyperscript.
 - [EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - Open source syntax highlighter written in pure javascript.
 - [eslisp](https://github.com/anko/eslisp) - S-expression syntax for JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable.

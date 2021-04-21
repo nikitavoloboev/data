@@ -15,7 +15,7 @@
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability.
 - [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.
 - [ErlangRT](https://github.com/kvakvs/ErlangRT) - Attempt to make Erlang runtime (BEAM emulator) in Rust.
-- [BEAM VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc.
+- [BEAM VM Wisdoms (2019)](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc. ([HN](https://news.ycombinator.com/item?id=26889048))
 - [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business.
 - [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
 - [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang. ([Code](https://github.com/oreillymedia/etudes-for-erlang))

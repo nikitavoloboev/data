@@ -42,5 +42,5 @@
 - [swiftdasm](https://github.com/plotfi/swiftdasm) - arm64 disassembler written in Swift.
 - [Haruspex](https://github.com/can1357/haruspex) - Exploration of x86-64 ISA using speculative execution.
 - [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
-- [Assembly v. intrinsics](https://danluu.com/assembly-intrinsics/)
+- [Assembly vs. intrinsics (2014)](https://danluu.com/assembly-intrinsics/) ([HN](https://news.ycombinator.com/item?id=26877076))
 - [How many x86 instructions are there? (2016)](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/) ([HN](https://news.ycombinator.com/item?id=26889108))
