@@ -198,3 +198,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [The Complete Guide to Full Stack Ethereum Development (2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) ([Code](https://github.com/dabit3/full-stack-ethereum)) ([Video](https://www.youtube.com/watch?v=a0osIaAOFSE))
 - [zkPorter: a breakthrough in L2 scaling (2021)](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf) ([Tweet](https://twitter.com/zksync/status/1381955843428605958))
 - [Uniswap V3 Code](https://github.com/Uniswap/uniswap-v3-core) - Core smart contracts of Uniswap v3.
+- [Ethereum: A Store of Value with Cash Flow (2021)](https://ethereumcashflow.com/) ([HN](https://news.ycombinator.com/item?id=26885803))

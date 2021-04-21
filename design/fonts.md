@@ -232,3 +232,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontjoy](https://fontjoy.com/) - Generate font pairings in one click. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/mpgbq0/fontjoy_a_website_that_helps_designers_to_choose/))
 - [UNCUT](https://uncut.wtf/) - Open source typeface catalogue, focusing on somewhat contemporary type.
 - [PSTL](https://pstypelab.com/) - Digital Type Lab.
+- [Intrinsic Typography is the Future of Styling Text on the Web (2021)](https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/)

@@ -20,3 +20,4 @@
 - [Squad: Forth on Chip-8](https://internet-janitor.itch.io/squad)
 - [MiniForth](https://github.com/davidjade/MiniForth) - Minimal Forth Interpreter.
 - [Starting Forth](https://www.forth.com/starting-forth/) - Introduction to the Forth Programming Language. ([HN](https://news.ycombinator.com/item?id=26677630))
+- [Lisp in Forth](https://github.com/schani/forthlisp) ([HN](https://news.ycombinator.com/item?id=26882117))

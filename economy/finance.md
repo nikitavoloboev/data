@@ -101,3 +101,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Just Be Rich (2021)](https://keenen.xyz/just-be-rich/) ([HN](https://news.ycombinator.com/item?id=26787654))
 - [Learning Decentralized Finance](https://github.com/ajlopez/LearningDeFi)
 - [Introduction to Machine Learning for Finance](https://algofin.substack.com/p/ml-101-an-introduction) ([HN](https://news.ycombinator.com/item?id=26868051))
+- [The Greshm System (2021)](https://www.greshm.org/files/greshm.pdf) ([HN](https://news.ycombinator.com/item?id=26884532))
