@@ -203,3 +203,4 @@
 - [fips](https://github.com/floooh/fips) - High-level build system for distributed, multi-platform C/C++ projects.
 - [Examining Problematic Memory in C/C++ Applications with BPF, perf, and Memcheck (2021)](https://doordash.engineering/2021/04/01/examining-problematic-memory-with-bpf-perf-and-memcheck/)
 - [Understanding Atomics and Memory Ordering (2021)](https://dev.to/kprotty/understanding-atomics-and-memory-ordering-2mom)
+- [C++ Style Guide Lineup](https://github.com/motine/cppstylelineup) - Comparison of common C++ style guides.

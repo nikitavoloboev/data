@@ -70,3 +70,4 @@
 - [Rails Testing for Beginners](https://www.codewithjason.com/rails-testing-for-beginners/)
 - [Ruby on Rails Controller Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html)
 - [Hotwire: Reactive Rails with no JavaScript? (2021)](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
+- [Dead simple Rails monitoring (2021)](http://tomrothe.de/posts/dead-simple-rails-monitoring.html)
