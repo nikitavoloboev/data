@@ -467,3 +467,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 - [DevRel Collective](https://devrelcollective.fun/) - Place forsharing information, resources, and encouragement among the Developer Relations community. ([Code](https://github.com/devrelcollective/devrelcollective.fun))
 - [Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/) ([Lobsters](https://lobste.rs/s/kwzuqn/maze_generator_go_webassembly))
+- [flowkit](https://flowkit.vercel.app/) - Simple online flow chart editor. ([Code](https://github.com/egoist/flowkit))

@@ -54,3 +54,4 @@
 - [A categorized list of all Java and JVM features since JDK 8 to 16 (2021)](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/) ([HN](https://news.ycombinator.com/item?id=26662297))
 - [jbang](https://github.com/jbangdev/jbang) - Run java as scripts anywhere. ([Web](https://www.jbang.dev/))
 - [Java Is Underhyped (2021)](https://jackson.sh/posts/2021-04-java-underrated/) ([HN](https://news.ycombinator.com/item?id=26827766))
+- [Multi-Tier Compilation in GraalVM (2021)](https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402)
