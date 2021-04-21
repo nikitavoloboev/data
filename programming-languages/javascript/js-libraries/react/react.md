@@ -223,3 +223,4 @@
 - [Practical React Query Blog Posts](https://tkdodo.eu/blog/practical-react-query)
 - [jsx-dom](https://github.com/proteriax/jsx-dom) - Use JSX to create DOM elements.
 - [Issues with using React to build web apps (2021)](https://twitter.com/hbuchel/status/1379117623930064897)
+- [React Suspense is Killing Me (2021)](https://blog.6nok.org/the-suspense-is-killing-me:-part-1/)
