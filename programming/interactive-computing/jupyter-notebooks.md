@@ -25,6 +25,7 @@
 - [Cell toolbar for JupyterLab](https://github.com/jupyterlab-contrib/jlab-enhanced-cell-toolbar)
 - [xeus-octave](https://github.com/rapgenic/xeus-octave) - Native Octave kernel for jupyter with advanced visualization.
 - [ipydatagrid](https://github.com/bloomberg/ipydatagrid) - Fast Datagrid widget for the Jupyter Notebook and JupyterLab.
+- [JupyterLab Monaco Editor Extension](https://github.com/jupyterlab/jupyterlab-monaco)
 
 ## Links
 
@@ -118,3 +119,4 @@
 - [Voila](https://github.com/voila-dashboards/voila) - Turns Jupyter notebooks into standalone web applications.
 - [JupyterLite](https://jupyterlite.vercel.app/doc/workspaces) - WASM powered Jupyter running in the browser. ([Code](https://github.com/jtpio/jupyterlite))
 - [Jupyter Kernel Gateway](https://github.com/jupyter/kernel_gateway) - Web server that provides headless access to Jupyter kernels.
+- [Jupyter Client](https://github.com/jupyter/jupyter_client) - Jupyter protocol client APIs.

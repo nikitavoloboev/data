@@ -27,3 +27,4 @@
 - [MobX JSX](https://github.com/ryansolid/mobx-jsx) - Raw MobX performance without being restrained by a Virtual DOM.
 - [MobX 6 (2020)](https://michel.codes/blogs/mobx6) ([HN](https://news.ycombinator.com/item?id=24648363))
 - [Mobx Devtools](https://github.com/mobxjs/mobx-devtools)
+- [mobx-form-validation-kit](https://github.com/QuantumArt/mobx-form-validation-kit) - Utilities form controls on base mobx for validation.

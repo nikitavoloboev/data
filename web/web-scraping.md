@@ -90,3 +90,4 @@
 - [crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - List of of HTTP user-agents used by robots, crawlers, and spiders as in single JSON file.
 - [ant](https://github.com/yields/ant) - Web crawler for Go.
 - [SearchScraperAPI](https://github.com/EdmundMartin/SearchScraperAPI) - Implementation of an API, which allows you to scrape Google, Bing, Yandex, and Qwant.
+- [Scala Scraper](https://github.com/ruippeixotog/scala-scraper) - Scala library for scraping content from HTML pages.

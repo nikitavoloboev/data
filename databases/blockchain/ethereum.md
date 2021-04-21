@@ -201,3 +201,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum: A Store of Value with Cash Flow (2021)](https://ethereumcashflow.com/) ([HN](https://news.ycombinator.com/item?id=26885803))
 - [DAM - Decentralized Asset Management (2021)](https://medium.com/dam-finance/introducing-dam-42bfbabcb4f0)
 - [Ethereum.org Code](https://github.com/ethereum/ethereum-org-website)
+- [hive](https://github.com/ethereum/hive) - Ethereum end-to-end test harness.
