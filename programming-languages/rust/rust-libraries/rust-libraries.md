@@ -793,6 +793,7 @@
 - [trait-set](https://github.com/popzxc/trait-set) - Trait aliases on stable Rust.
 - [String Interner](https://github.com/Robbepop/string-interner) - Data structure to efficiently intern, cache and restore strings.
 - [simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
+- [biquad](https://github.com/korken89/biquad-rs) - Rust library for digital second order IIR filtrers, also known as biquads.
 
 ## Cargo Plugins
 
