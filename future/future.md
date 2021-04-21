@@ -63,3 +63,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Focus on future path ways](https://twitter.com/waitbutwhy/status/1367871165319049221)
 - [Ask HN: What under-the-radar technology are you excited about? (2021)](https://news.ycombinator.com/item?id=26780866)
 - [List of emerging technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies) ([HN](https://news.ycombinator.com/item?id=26837152))
+- [Which terms would trend in Google Search in 5/10 years? (2021)](https://twitter.com/eriktorenberg/status/1384915308717256708)

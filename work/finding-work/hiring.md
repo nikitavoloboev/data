@@ -35,6 +35,7 @@
 - [Do pilot projects for hiring instead of traditional interview with questions](https://overcast.fm/+Y-HUXijTI).
 - [Your job post should be an expression of your culture and values. If you value transparency, your job post should be as transparent as possible.](https://twitter.com/davidvfurlong/status/1354088604826558465)
 - [Your first 10 hires set the stage for your company’s talent bar and culture. Spend a lot of time with them pre-hire. Get them to work with you for a day or even a week. You’re looking for diamonds in the rough. Known quantities are starting companies or joining sure things.](https://twitter.com/jaltma/status/1358497813076713474)
+- [If I could give out just one piece of advice: take more bets on people early in their careers.](https://twitter.com/anothercohen/status/1384657538201710598)
 
 ## Links
 
