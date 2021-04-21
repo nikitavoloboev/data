@@ -31,6 +31,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Interview with Patrick Collison (2021)](https://noahpinion.substack.com/p/interview-patrick-collison-co-founder) ([HN](https://news.ycombinator.com/item?id=26385572))
 - [Oral History of Dave Cutler (2018)](https://www.youtube.com/watch?v=29RkHH-psrY)
 - [Ezra Klein Interviews Ted Chiang (2021)](https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html) ([HN](https://news.ycombinator.com/item?id=26768327))
+- [Mads Mikkelsen, In Conversation (2021)](https://www.vulture.com/article/mads-mikkelsen-in-conversation.html)
 
 ## Interesting bios
 

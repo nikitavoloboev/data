@@ -79,3 +79,4 @@
 - [Kaiyo](https://kaiyo.com/) - Buy and Sell Used Furniture.
 - [Shopify: The E-commerce On-Ramp (2021)](https://www.joincolossus.com/episodes/85946038/danco-shopify-the-e-commerce-on-ramp)
 - [Backflip](https://www.backflip.com/) - Instantly sell your old electronics.
+- [Buy For Life](https://www.buyforlife.com/) - Find better products that benefit both yourself and the planet. ([HN](https://news.ycombinator.com/item?id=26847251))

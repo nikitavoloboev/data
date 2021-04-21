@@ -188,3 +188,4 @@
 - [ESP32-C6, a Wi-Fi 6 and Bluetooth 5 (LE) SoC (2021)](https://www.espressif.com/en/news/ESP32_C6) ([HN](https://news.ycombinator.com/item?id=26758050))
 - [Lobsters: Single board computers? (2021)](https://lobste.rs/s/wz9wt8/single_board_computers)
 - [DIY Split-Flap Display](https://github.com/scottbez1/splitflap) ([Web](https://scottbez1.github.io/splitflap/)) ([HN](https://news.ycombinator.com/item?id=26858741))
+- [MANUZOID](https://manuzoid.com/) - Search for Manual Online.
