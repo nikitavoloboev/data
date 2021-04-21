@@ -15,7 +15,7 @@
 
 ## Links
 
-- [So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) ([HN](https://news.ycombinator.com/item?id=24088985))
+- [So You Want To Learn Physics...](https://www.susanrigetti.com/physics) ([HN](https://news.ycombinator.com/item?id=24088985))
 - [The Astonishing Simplicity of Everything](https://www.youtube.com/watch?v=f1x9lgX8GaE)
 - [The Map of Physics](https://www.youtube.com/watch?v=ZihywtixUYo)
 - [The Theoretical Minimum Courses](https://theoreticalminimum.com/courses) - Theoretical Physics Education.
