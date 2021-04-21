@@ -123,3 +123,4 @@
 - [Art Blocks](https://artblocks.io/) - Generative Content Hosted on the Ethereum Blockchain.
 - [Generative Art in Go](https://github.com/jdxyw/generativeart)
 - [Delaunay Maze Loop Animation](https://github.com/Bleuje/delaunay-maze-loop)
+- [Solvency](https://www.solvency.art/) - Limited edition series of WebGL artworks. Each artwork is a unique, generative NFT. ([Tweet](https://twitter.com/ezzzrrra/status/1384572610835582979))

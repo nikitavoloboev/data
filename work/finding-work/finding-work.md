@@ -36,6 +36,7 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [If asked previous salary, you can answer `As per contract, I'm not at liberty to disclose this.`.](https://www.reddit.com/r/cscareerquestionsEU/comments/9ohap7/uk_company_asking_about_current_salary_up_front/)
 - [2 years is a very normal amount of time to stay at a job before moving on. "Moving on" can include "promotion".](https://twitter.com/seldo/status/1381603198754975748)
 - ["Job hopping" is a symptom of fake promises given by management. Grass looks greener when interviewing, you hardly know what the day to day work will be like before joining. Exiting fast is better in my book than wasting time in a miserable situation.](https://twitter.com/rakyll/status/1381599321200553990)
+- [3 Ways to Get Promoted: 1. You have a supportive boss that follows-through. 2. You have a kick-ass internal network supporting you (peers, sponsors, mentors, etc). 3. Jump to a different company.](https://twitter.com/lcooney/status/1384948385078185984)
 
 ## Links
 
