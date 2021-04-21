@@ -42,3 +42,4 @@
 - [Formalising Mathematics: An Introduction (2021)](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/) ([HN](https://news.ycombinator.com/item?id=26214593))
 - [lean4-cli](https://github.com/mhuisi/lean4-cli) - A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.
 - [Lean reference type-checker](https://github.com/leanprover/tc)
+- [Formal ML](https://github.com/google/formal-ml) - LEAN library for proving foundational results in measure theory, probability, statistics, and machine learning, based upon mathlib.

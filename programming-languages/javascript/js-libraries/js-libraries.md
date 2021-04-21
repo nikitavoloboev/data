@@ -77,6 +77,7 @@
 - [test-flat](https://github.com/kettanaito/test-flat) - Test framework extension to support resources teardown and cleanup in flat tests.
 - [zora](https://github.com/lorenzofox3/zora) - Lightest, yet Fastest JavaScript test runner for nodejs and browsers.
 - [Vest](https://github.com/ealush/vest) - Declarative Validation Testing.
+- [uvu](https://github.com/lukeed/uvu) - Extremely fast and lightweight test runner for Node.js and the browser.
 
 ## State management
 

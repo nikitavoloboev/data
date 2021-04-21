@@ -132,3 +132,4 @@
 - [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython) - Building Genetic Algorithm in Python.
 - [Newt](https://github.com/AaltoML/Newt) - Gaussian process library in JAX.
 - [Hedgehog](https://github.com/MaxHalford/hedgehog) - Bayesian networks in Python.
+- [Backdoors 101](https://github.com/ebagdasa/backdoors101) - PyTorch framework for state-of-the-art backdoor defenses and attacks on deep learning models.
