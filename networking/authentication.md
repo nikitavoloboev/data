@@ -120,3 +120,4 @@
 - [Ory Keto](https://github.com/ory/keto) - Open source implementation of "Zanzibar: Google's Consistent, Global Authorization System".
 - [Basic HTTP Auth via Cloudflare Workers](https://github.com/dommmel/cloudflare-workers-basic-auth) - Can be used to protect static HTML pages.
 - [Single Sign-On Solutions (2021)](https://www.reddit.com/r/selfhosted/comments/mu9gsm/single_signon_solutions/)
+- [AuthCompanion](https://github.com/pmprosociety/authcompanion) - Effortless, open source, token-based user management server - well suited for microservices and static website projects.

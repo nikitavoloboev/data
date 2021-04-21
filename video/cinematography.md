@@ -19,3 +19,5 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Time, Tarkovsky And The Pandemic (2021)](https://www.youtube.com/watch?v=cztCmNSVS3Q)
 - [Wandering DP - YouTube](https://www.youtube.com/c/wanderingdp/videos) - Cinematography podcast.
 - [Books for learning cinematic lightning/direction of photography? (2021)](https://www.reddit.com/r/cinematography/comments/mpymcv/books_for_learning_cinematic_lightningdirection/)
+- [Web Resources for Cinematographers](https://sites.google.com/view/webresource/home)
+- [Compare Sensor Sizes](https://sensorsizes.com/) - Camera Sensor Size Comparison Tool.
