@@ -364,6 +364,7 @@ Here are few more things I liked, design wise.
 - [Nicole Orchard](https://nicoleorchard.com/)
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
+- [Ahmed Gabri](https://gabri.me/)
 - [Fabio Cevasco](https://h3rald.com/) ([Code](https://github.com/h3rald/h3rald))
 - [Lauren Tan](https://www.no.lol/)
 - [Steve Ruiz](https://steveruiz.me/) ([Code](https://github.com/steveruizok/personal-blog))

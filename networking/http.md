@@ -117,3 +117,4 @@
 - [esbuild-dev-server](https://github.com/zaydek/esbuild-dev-server) - Playground for esbuild, file watching, server-sent events, and HTTP servers.
 - [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for http applications and a dashboard query accelerator for time series databases.
 - [GLORP](https://github.com/denandz/glorp) - CLI-based HTTP intercept and replay proxy.
+- [low-http-server](https://github.com/jkyberneees/low-http-server) - HTTP server implementation for Node.js based on uWebSockets.js.

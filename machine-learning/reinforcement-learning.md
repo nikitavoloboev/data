@@ -189,3 +189,5 @@
 - [Awesome RL environments](https://github.com/clvrai/awesome-rl-envs)
 - [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
 - [Large collection of machine learning / RF paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
+- [Ecole](https://github.com/ds4dm/ecole) - Extensible Combinatorial Optimization Learning Environments. ([Web](https://www.ecole.ai/))
+- [MBRL-Lib](https://github.com/facebookresearch/mbrl-lib) - Library for Model Based RL.

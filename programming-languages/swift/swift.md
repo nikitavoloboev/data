@@ -201,3 +201,4 @@
 - [Building an App with ZIO (2021)](https://www.youtube.com/watch?v=XUwynbWUlhg)
 - [How to index Swift strings for fast read outs (2021)](https://twitter.com/nicklockwood/status/1382020582393454595)
 - [UIFont and Dynamic Type explained (2021)](https://twitter.com/featherless/status/1382146916402790401)
+- [FlippingNotch](https://github.com/quickbirdstudios/FlippingNotch) - Pull to refresh / add/ show custom animation written Swift.
