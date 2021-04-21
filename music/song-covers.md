@@ -16,3 +16,4 @@
 - [Streets - Doja Cat (Cover) by Alice Kristiansen](https://www.youtube.com/watch?v=NhXeexJu_iU)
 - [Иван Дорн - Целовать другого (bathroom cover by Базиль)](https://www.youtube.com/watch?v=YtKULMP1Bfs)
 - [Иван Дорн - Целовать другого (cover by etreamoi)](https://www.youtube.com/watch?v=ZQS6VNgTZBA)
+- [V&M - Beggin' (Madcon Acoustic Cover)](https://www.youtube.com/watch?v=H6xLQmU_2ro)
