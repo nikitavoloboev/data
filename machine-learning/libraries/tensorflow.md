@@ -84,3 +84,4 @@
 - [Why is Tensorflow so hated on and PyTorch is the cool kids framework? (2021)](https://www.reddit.com/r/MachineLearning/comments/m3boyo/d_why_is_tensorflow_so_hated_on_and_pytorch_is/)
 - [CppFlow](https://github.com/serizba/cppflow) - Run TensorFlow models in C++ without installation and without Bazel.
 - [Why do practitioners still use regular TensorFlow? (2021)](https://www.reddit.com/r/MachineLearning/comments/msejyh/why_do_practitioners_still_use_regular_tensorflow/)
+- [Neural Network TensorFlow C API](https://github.com/Neargye/hello_tf_c_api)

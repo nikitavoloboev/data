@@ -196,3 +196,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [PLTalk links](https://github.com/jeanqasaur/pltalk)
 - [Crash Course on Notation in Programming Language Theory (2012)](http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html)
 - [Reflection for the Masses](http://www.p-cos.net/documents/s32008.pdf) ([Code](https://github.com/namin/3-proto-lisp))
+- [The end of history for programming (2021)](https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html)

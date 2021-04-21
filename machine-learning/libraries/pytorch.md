@@ -244,3 +244,4 @@
 - [Butterfly matrix multiplication in PyTorch](https://github.com/HazyResearch/butterfly)
 - [GLOM - PyTorch](https://github.com/lucidrains/glom-pytorch) - Geoffrey Hinton's new idea that integrates concepts from neural fields, top-down-bottom-up processing, and attention (consensus between columns) for learning emergent part-whole heirarchies from data.
 - [nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using PyTorch 1D convolution network.
+- [Lightning-Transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible interface for high performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.

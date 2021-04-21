@@ -792,6 +792,7 @@
 - [argmin](https://github.com/argmin-rs/argmin) - Mathematical optimization in pure Rust.
 - [trait-set](https://github.com/popzxc/trait-set) - Trait aliases on stable Rust.
 - [String Interner](https://github.com/Robbepop/string-interner) - Data structure to efficiently intern, cache and restore strings.
+- [simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
 
 ## Cargo Plugins
 
