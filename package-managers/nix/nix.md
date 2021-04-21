@@ -178,3 +178,4 @@
 - [Nix is the ultimate DevOps toolkit (2021)](https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html) ([HN](https://news.ycombinator.com/item?id=26748696)) ([Lobsters](https://lobste.rs/s/5gbbp2/nix_is_ultimate_devops_toolkit))
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments.
 - [Nix Data](https://github.com/nix-community/nix-data) - Set of packages for data-scientists with batteries-included.
+- [Nomia](https://github.com/scarf-sh/nomia) - System for precise, efficient resource management across every domain and resource type.
