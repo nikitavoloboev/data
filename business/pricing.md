@@ -52,3 +52,4 @@
 - [Adding tooltips on each item in the pricing table](https://twitter.com/damengchen/status/1366505122772054016)
 - [How to price your SaaS product](https://www.lennysnewsletter.com/p/saas-pricing-strategy) ([HN](https://news.ycombinator.com/item?id=26553639))
 - [Ask HN: My startup has more annual subscribers than monthly. What to make of it? (2021)](https://news.ycombinator.com/item?id=26821281)
+- [Fun facts about SaaS pricing (2020)](https://twitter.com/awwstn/status/1213215748979445761)

@@ -18,6 +18,7 @@
 - [Best calls I've had for months have been audio walk-and-talks and I love them.](https://twitter.com/superbryntendo/status/1376606058467188747)
 - [The gross thing about assuming all women in tech are dealing with impostor syndrome is that lots of men take it as permission to position themselves as your mentor rather than your peer.](https://twitter.com/amyngyn/status/1381416143684915207)
 - [My favorite question anyone asks me when I am struggling is, 'Do you want empathy or strategy right now?'](https://twitter.com/noampomsky/status/1382117707588456450)
+- [The business world now works like this: 1. If I don't know you > Zoom. 2. If I know you a bit > Email. 3. If we really work together / collaborate > text.](https://twitter.com/lessin/status/1383534481705865221)
 
 ## Links
 

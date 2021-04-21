@@ -225,3 +225,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing tools I learned from The Economist (2021)](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the) ([HN](https://news.ycombinator.com/item?id=26700319)) ([PDF](https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf))
 - [Compound Writing](https://www.compoundwriting.com/) - Community-Powered Writing Workflow.
 - [RedPen](https://github.com/redpen-cc/redpen) - Open source proofreading tool to check if your technical documents meet the writing standard. ([Web](https://redpen.cc/))
+- [Mental model for generating world-class writing](https://twitter.com/Julian/status/1327765347936522240)

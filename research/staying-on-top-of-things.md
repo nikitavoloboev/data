@@ -164,6 +164,10 @@ And these Discord servers:
 - [Skimfeed](https://skimfeed.com/)
 - [Google News](https://news.google.com/)
 
+## Notes
+
+- [Code scripts machines, media scripts human beings.](https://twitter.com/visualizevalue/status/1383108890213105669)
+
 ## Links
 
 - [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
