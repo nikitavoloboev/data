@@ -71,3 +71,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Ask HN: Moving to US from Argentina for college. Any advice for a newcomer? (2021)](https://news.ycombinator.com/item?id=26728967)
 - [Applying to STEM Ph.D. Programs Guide](https://github.com/gwisk/gradguide)
 - [Moodle](https://moodle.org/) - Open-source learning platform. ([Code](https://github.com/moodle/moodle))
+- [Strong/Weak Reasons to do a PhD in Computer Science (2021)](https://raymondcheng.net/thoughts/why-phd.html)
