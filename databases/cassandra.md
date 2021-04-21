@@ -9,3 +9,4 @@
 - [Cassandra, with Sam Ramji (2020)](https://overcast.fm/+MqPknNFqU)
 - [DataStax](https://www.datastax.com/) - Scale-out NoSQL built on Apache Cassandra.
 - [Benchmarking Apache Cassandra with Rust (2020)](https://pkolaczk.github.io/benchmarking-cassandra/)
+- [Brief Introduction to Apache Cassandra - DataStax Academy](https://www.datastax.com/dev)

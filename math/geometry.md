@@ -11,7 +11,8 @@
 - [hyperbolic](https://github.com/cduck/hyperbolic) - Python 3 library for generating hyperbolic geometry and drawing it.
 - [Topos Theory course](https://johncarlosbaez.wordpress.com/2020/01/05/topos-theory-part-1/)
 - [Discrete Differential Geometry Forum](http://ddg.cs.columbia.edu/)
-- [Discrete Differential Geometry course by Keenan Crane (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+- [Discrete Differential Geometry course by Keenan Crane (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS) ([Web](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/))
+- [CS 15-458/858: Discrete Differential Geometry](https://brickisland.net/DDGSpring2021/)
 - [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software.
 - [Polyhedra Viewer](https://polyhedra.tessera.li/) - Explore the relationships between convex regular-faced polyhedra. ([Code](https://github.com/tesseralis/polyhedra-viewer)) ([Polyhedron Wiki](https://en.wikipedia.org/wiki/Polyhedron))
 - [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/) ([HN](https://news.ycombinator.com/item?id=23590642))

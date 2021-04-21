@@ -117,3 +117,4 @@
 - [Ask HN: Is a Master's in CS worth it? (2021)](https://news.ycombinator.com/item?id=26405955)
 - [Most under-valued ideas in computer science (2021)](https://twitter.com/lukego/status/1376105477701038082)
 - [Whether, Why, and How to Get a Ph.D. in Computer Science](http://mycsphd.org/)
+- [A.M. Turing Award](https://amturing.acm.org/)
