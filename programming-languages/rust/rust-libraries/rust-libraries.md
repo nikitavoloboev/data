@@ -98,6 +98,7 @@
 - [glyph-brush](https://github.com/alexheretic/glyph-brush) - Fast GPU cached text rendering.
 - [Speedy2D](https://github.com/QuantumBadger/Speedy2D) - Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.
 - [Skui](https://github.com/skui-org/skui) - Skia-based C++ UI framework.
+- [nuklear-rust](https://github.com/snuk182/nuklear-rust) - Bindings to the Nuklear 2D immediate GUI library.
 
 ## DB
 

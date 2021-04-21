@@ -270,3 +270,4 @@
 - [torchvideo](https://github.com/torchvideo/torchvideo) - Datasets, transforms and samplers for video in PyTorch.
 - [A General and Adaptive Robust Loss Function (2019)](https://arxiv.org/abs/1701.03077) ([Code](https://github.com/jonbarron/robust_loss_pytorch))
 - [Self-supervising Fine-grained Region Similarities for Large-scale Image Localization (2020)](https://geyixiao.com/projects/sfrs) ([Code](https://github.com/yxgeee/OpenIBL))
+- [MaX-DeepLab: Dual-Path Transformers for End-to-End Panoptic Segmentation (2021)](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)

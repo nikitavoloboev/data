@@ -34,3 +34,4 @@
 - [Web Components Are Easier Than You Think (2021)](https://css-tricks.com/web-components-are-easier-than-you-think/)
 - [Happy DOM](https://github.com/capricorn86/happy-dom) - JSDOM alternative with support for server side rendering of web components.
 - [builtin-elements](https://github.com/WebReflection/builtin-elements) - Zero friction custom elements like primitive.
+- [Lit.dev](https://lit.dev/) - Simple. Fast. Web Components. ([Code](https://github.com/lit/lit.dev))
