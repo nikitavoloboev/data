@@ -275,3 +275,4 @@
 - [Prompts](https://prompts.ai/) - Advanced GPT-3 playground. ([Code](https://github.com/sevazhidkov/prompts-ai))
 - [TextFlint](https://github.com/textflint/textflint) - Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing.
 - [Awesome Text Summarization](https://github.com/icoxfog417/awesome-text-summarization)
+- [SimCSE: Simple Contrastive Learning of Sentence Embeddings (2021)](https://arxiv.org/abs/2104.08821) ([Code](https://github.com/princeton-nlp/SimCSE))
