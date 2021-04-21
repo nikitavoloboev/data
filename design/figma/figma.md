@@ -54,3 +54,5 @@
 - [Figma Plugin API typings](https://github.com/figma/plugin-typings)
 - [Figma Course for Beginners](https://learningfigma.com/)
 - [Nucleus UI](https://www.nucleus-ui.com/) - Free UI component library for Figma.
+- [FigJam](https://www.figma.com/figjam/) - Online whiteboard for teams to explore ideas together.
+- [Figma Community collections](https://www.figma.com/community/collection/config2021-sessions)
