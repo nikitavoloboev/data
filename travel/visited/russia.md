@@ -119,3 +119,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Гибель империи. Российский урок. (2021)](https://www.youtube.com/watch?v=4n01EBO0mUs)
 - [Безвозвратные потери. Беседа с журналистом Аркадий Бабченко (2021)](https://www.youtube.com/watch?v=K2mC3zw9J4I)
 - [Адекватный тред с тредами про поведение на протестных акциях (2021)](https://twitter.com/mamaneplach/status/1351659920542806017)
+- [Прояви свою солидарность](https://solidarity.support/) - Поддержите СМИ и правозащитников, которые поддерживают вас.
