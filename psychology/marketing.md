@@ -114,6 +114,7 @@
 - [Ask HN: Where do you find potential customers to validate your idea / MVP? (2021)](https://news.ycombinator.com/item?id=26644616)
 - [Ask HN: I built it, nobody came, now what? (2021)](https://news.ycombinator.com/item?id=26734079)
 - [21 lessons I’ve learned over 4 years that will help you get your first 10 customers](https://twitter.com/KarthikS2206/status/1379656690740568067)
+- [What is the most clever customer acquisition strategy you’ve ever seen? (2021)](https://twitter.com/patrick_oshag/status/1384995096660221953)
 
 ## Images
 
