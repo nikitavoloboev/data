@@ -116,7 +116,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [From boiling lead and black art: An essay on the history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
 - [The Future of Text: 2020 Vision Book](https://www.thefutureoftext.org/2020-vision-book.html) ([PDF](https://futuretextpublishing.com/future-of-text-2020-download/))
 - [Future Of Text Initiative](http://futureoftext.org/)
-- [How to pick different font sizes that look good together](https://twitter.com/siddharthkp/status/1262038126794551296?s=20)
+- [How to pick different font sizes that look good together](https://twitter.com/siddharthkp/status/1262038126794551296)
 - [Font Picker](https://github.com/samuelmeuli/font-picker) - Font selector component for Google Fonts.
 - [Advice on improving typesetting on websites](https://twitter.com/rsms/status/1262450475669975040)
 - [xz/fonts](https://fonts.xz.style/) - Break your users from unethical tracking networks. xz/fonts delivers exclusively open-source fonts through Vercel's impossibly fast CDN. ([Code](https://github.com/xz/fonts))

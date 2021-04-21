@@ -49,3 +49,4 @@
 - [Why do so many companies incorporate in Delaware?](https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/) ([HN](https://news.ycombinator.com/item?id=26770454))
 - [Lawfare](https://www.lawfareblog.com/) - American blog dedicated to national security issues.
 - [Global Trends 2040: US Intelligence report](https://www.dni.gov/files/ODNI/documents/assessments/GlobalTrends_2040.pdf)
+- [Field notes: Miami (2021)](https://devonzuegel.com/post/field-notes-miami) ([Tweet](https://twitter.com/zebulgar/status/1384986967218216962))

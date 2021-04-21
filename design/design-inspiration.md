@@ -312,6 +312,7 @@ Here are few more things I liked, design wise.
 - [Tom Moor](https://blog.tommoor.com/about/)
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
+- [Jed Bridges](https://www.jedbridges.com/)
 - [Mark Hkr](https://marlom.dev/) ([Code](https://github.com/markhker/marlomdev))
 - [Craig Mulligan](https://hobochild.com/)
 - [Jamie McHale](https://www.jamiemchale.com/)
@@ -699,7 +700,7 @@ Here are few more things I liked, design wise.
 - [Creative Portfolios](https://creative-portfolios.now.sh/) - Curation of the most creative portfolios made by designers & developers.
 - [Ask HN: What are some examples of well-designed personal sites? (2019)](https://news.ycombinator.com/item?id=21737529)
 - [Ask HN: What Landing Page do you absolutely love? (2020)](https://news.ycombinator.com/item?id=21962712)
-- [Design Site Inspiration](https://twitter.com/steveschoger/status/1215673997725196288?s=20)
+- [Design Site Inspiration](https://twitter.com/steveschoger/status/1215673997725196288)
 - [Awesome GUI Websites](https://simone.computer/#/awesomegui) - Websites, web apps, portfolios which look like desktop graphical user interfaces. ([Code](https://github.com/syxanash/awesome-gui-websites))
 - [Personal Website Chats](https://www.youtube.com/playlist?list=PLEXbN99LY3OCarUeXcxWeZzOelXQvVdAA)
 - [Lobsters: Rate my Homepage (2020)](https://lobste.rs/s/h9xgpv/rate_my_homepage)
