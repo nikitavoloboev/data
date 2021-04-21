@@ -143,3 +143,4 @@
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
 - [SwiftUI Livestream: How we built our iOS app (2021)](https://www.youtube.com/watch?v=zerEdPmSMrk)
 - [SwiftUI In Production (2021)](https://pspdfkit.com/blog/2021/swiftui-in-production/)
+- [SwiftUISparkleTestApp](https://github.com/tillhainbach/SwiftUISparkleTestApp) - Sample Project for using Sparkle and SwiftUI.
