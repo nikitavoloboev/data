@@ -10,3 +10,4 @@
 - [MLOps on Azure](https://github.com/microsoft/MLOps)
 - [Inside Azure Data Center Architecture with Mark Russinovich (2021)](https://www.youtube.com/watch?v=o2W1bo1DjQY)
 - [Data Engineering on Azure Book (2021)](https://www.manning.com/books/data-engineering-on-azure)
+- [Azure Docs](https://docs.microsoft.com/en-us/azure/) ([Code](https://github.com/MicrosoftDocs/azure-docs))

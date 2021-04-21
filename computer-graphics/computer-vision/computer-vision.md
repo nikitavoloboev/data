@@ -268,3 +268,4 @@
 - [PyTorchVideo](https://github.com/facebookresearch/pytorchvideo) - Deep learning library for video understanding research. ([Web](https://pytorchvideo.org/))
 - [Self-supervised Video Object Segmentation by Motion Grouping (2021)](https://charigyang.github.io/motiongroup/) ([HN](https://news.ycombinator.com/item?id=26842018))
 - [torchvideo](https://github.com/torchvideo/torchvideo) - Datasets, transforms and samplers for video in PyTorch.
+- [A General and Adaptive Robust Loss Function (2019)](https://arxiv.org/abs/1701.03077) ([Code](https://github.com/jonbarron/robust_loss_pytorch))
