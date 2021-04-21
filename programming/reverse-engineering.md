@@ -82,3 +82,4 @@
 - [Scripts for Hopper Disassembler](https://github.com/droe/hopper-scripts)
 - [HopperScripts](https://github.com/phracker/HopperScripts) - Python Scripts for use with Hopper Disassembler.
 - [Reverse-engineering the standard-cell logic inside a vintage IBM chip (2021)](http://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)
+- [Tenet](https://github.com/gaasedelen/tenet) - Trace Explorer for Reverse Engineers. ([Article](https://blog.ret2.io/2021/04/20/tenet-trace-explorer/))
