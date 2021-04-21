@@ -791,6 +791,7 @@
 - [markup.rs](https://github.com/utkarshkukreti/markup.rs) - Blazing fast, type-safe template engine for Rust.
 - [argmin](https://github.com/argmin-rs/argmin) - Mathematical optimization in pure Rust.
 - [trait-set](https://github.com/popzxc/trait-set) - Trait aliases on stable Rust.
+- [String Interner](https://github.com/Robbepop/string-interner) - Data structure to efficiently intern, cache and restore strings.
 
 ## Cargo Plugins
 
