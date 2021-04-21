@@ -168,3 +168,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [illlustrations](https://illlustrations.co/) - Open source illustrations kit.
 - [Alexander Christopher: Notes on the Synthesis of Form (1964)](https://monoskop.org/images/f/ff/Alexander_Christopher_Notes_on_the_Synthesis_of_Form.pdf) - Book about the process of design.
 - [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) - Curated list of design resources from design templates, stock photos, icons, colors, and much more.
+- [Compute Cuter](https://computecuter.com/) - Guide to cute-ifying your computer. ([Lobsters](https://lobste.rs/s/mw6fgw/compute_cuter))

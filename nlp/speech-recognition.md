@@ -45,3 +45,4 @@
 - [lasr](https://github.com/sooftware/lasr) - PyTorch Lightning implementation of Automatic Speech Recognition.
 - [TTS](https://github.com/coqui-ai/TTS) - Library for advanced Text-to-Speech generation.
 - [Speech Recognition from Scratch](https://colab.research.google.com/drive/1aFgzrUv3udM_gNJNUoLaHIm78QHtxdIz?usp=sharing)
+- [Common Voice](https://commonvoice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
