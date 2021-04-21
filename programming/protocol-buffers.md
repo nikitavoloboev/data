@@ -34,3 +34,4 @@
 - [Protocol Puffers](https://github.com/PragmaTwice/protopuf) - Little, highly templated, and protobuf-compatible serialization/deserialization library written in C++20.
 - [Pyrobuf](https://github.com/appnexus/pyrobuf) - Alternative to Google's Python Protobuf library.
 - [Protobuf Rules for Bazel](https://github.com/bazelbuild/rules_proto)
+- [Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)

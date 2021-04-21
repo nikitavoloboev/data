@@ -28,3 +28,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [The modern packager’s security nightmare (2021)](https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/) ([Lobsters](https://lobste.rs/s/zb1c4k/modern_packager_s_security_nightmare))
 - [Ask HN: What is the most complex concept you understand? (2021)](https://www.youtube.com/watch?v=iBaqOK75cho)
 - [UPM](https://github.com/replit/upm) - Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+- [Version SAT: Climbing Out the Dependency Hell](https://research.swtch.com/version-sat)

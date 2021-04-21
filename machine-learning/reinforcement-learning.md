@@ -187,3 +187,5 @@
 - [Podracer architectures for scalable Reinforcement Learning (2021)](https://arxiv.org/abs/2104.06272) ([Tweet](https://twitter.com/jekbradbury/status/1382203188489588741))
 - [RL Baselines3 Zoo](https://github.com/DLR-RM/rl-baselines3-zoo) - Training Framework for Stable Baselines3 Reinforcement Learning Agents.
 - [Awesome RL environments](https://github.com/clvrai/awesome-rl-envs)
+- [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
+- [Large collection of machine learning / RF paper notes](https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c)
