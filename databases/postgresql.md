@@ -247,3 +247,4 @@
 - [Lessons Learned from 5 Years of Scaling PostgreSQL (2021)](https://onesignal.com/blog/lessons-learned-from-5-years-of-scaling-postgresql/) ([HN](https://news.ycombinator.com/item?id=26825109))
 - [pganalyze](https://pganalyze.com/) - PostgreSQL Performance Monitoring. PostgreSQL Tuning. ([GitHub](https://github.com/pganalyze))
 - [pganalyze collector](https://github.com/pganalyze/collector) - Go-based daemon which collects various information about Postgres databases as well as queries run on it.
+- [Working with PostgreSQL (2021)](https://zerodha.tech/blog/working-with-postgresql/)
