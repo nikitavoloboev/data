@@ -379,3 +379,4 @@
 - [Surprisingly Slow (2021)](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/) - Collection of various computer and software behaviors that are unexpectedly slow or slow for unexpected reasons. ([Tweet](https://twitter.com/indygreg/status/1379317419680833543))
 - [Ask HN: What tech job would let me get away with the least real work possible? (2021)](https://news.ycombinator.com/item?id=26721951)
 - [First-Class I/O (2021)](https://blog.sunfishcode.online/first-class-io/) ([HN](https://news.ycombinator.com/item?id=26768606))
+- [Running code within another process's address space (2021)](https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/) ([HN](https://news.ycombinator.com/item?id=26899118))
