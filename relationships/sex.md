@@ -40,3 +40,4 @@
 - [OUI](https://www.oui.us/) - Birth Control Designed for You.
 - [How-to ride on top](https://www.reddit.com/r/sexover30/comments/mphoiq/howto_ride_on_top/)
 - [What are some common misconceptions about lesbian sex?](https://www.reddit.com/r/sex/comments/mpymjp/questions_for_lesbians_what_are_some_common/)
+- [Additions to house that improve sex life (2021)](https://www.reddit.com/r/sexover30/comments/mvozde/additions_to_house_that_improve_sex_life/)

@@ -124,4 +124,4 @@
 - [Generative Art in Go](https://github.com/jdxyw/generativeart)
 - [Delaunay Maze Loop Animation](https://github.com/Bleuje/delaunay-maze-loop)
 - [Solvency](https://www.solvency.art/) - Limited edition series of WebGL artworks. Each artwork is a unique, generative NFT. ([Tweet](https://twitter.com/ezzzrrra/status/1384572610835582979))
-- [Triangula](https://github.com/RH12503/Triangula) - Iterative algorithm to generate high-quality triangulated images.
+- [Triangula](https://github.com/RH12503/Triangula) - Iterative algorithm to generate high-quality triangulated images. ([HN](https://news.ycombinator.com/item?id=26899066))

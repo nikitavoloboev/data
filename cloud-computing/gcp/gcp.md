@@ -23,3 +23,4 @@
 - [setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - Collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [runsd](https://github.com/ahmetb/runsd) - Drop-in Service Discovery capabilities for Google Cloud Run.
 - [Google Cloud vs AWS in 2021 (Comparing the Giants)](https://kinsta.com/blog/google-cloud-vs-aws/)
+- [Why I distrust Google Cloud more than than AWS or Azure (2021)](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html) ([HN](https://news.ycombinator.com/item?id=26897106))

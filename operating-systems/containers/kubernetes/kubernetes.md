@@ -367,3 +367,4 @@
 - [Tilt](https://tilt.dev/) - Multi-service dev environment for teams on Kubernetes. ([Code](https://github.com/tilt-dev/tilt))
 - [Datree](https://www.datree.io/) - Prevent Kubernetes misconfigurations. ([Code](https://github.com/datreeio/datree))
 - [AutoK3s](https://github.com/cnrancher/autok3s) - Fully certified Kubernetes offering, it can replace the "full-fat" K8s in some cases.
+- [Scaling Kubernetes with Assurance at Pinterest (2021)](https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da)

@@ -65,3 +65,4 @@
 - [AWS Lambda Developer Guide](https://github.com/awsdocs/aws-lambda-developer-guide)
 - [How Lambda work? Cold starts? Firecracker? Container support? (2021)](https://www.youtube.com/watch?v=OOGV81YbuEo)
 - [Ask HN: Does anyone else find the AWS Lambda developer experience frustrating? (2021)](https://news.ycombinator.com/item?id=26855037)
+- [Why We Moved From Lambda to ECS (2021)](https://prismatic.io/blog/why-we-moved-from-lambda-to-ecs/)
