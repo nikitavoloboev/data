@@ -27,3 +27,4 @@
 - [Making an online multiplayer game with Godot and Nakama (2021)](https://heroiclabs.com/blog/announcements/godot-fishgame/) ([Lobsters](https://lobste.rs/s/rikico/making_online_multiplayer_game_with))
 - [Godot Engine Web Editor](https://editor.godotengine.org/releases/latest/) ([HN](https://news.ycombinator.com/item?id=26528835))
 - [Bitmapflow](https://github.com/Bauxitedev/bitmapflow) - Tool to generate inbetweens for animated sprites, written in godot-rust.
+- [Godot 3.3 (2021)](https://godotengine.org/article/godot-3-3-has-arrived) ([HN](https://news.ycombinator.com/item?id=26896340))

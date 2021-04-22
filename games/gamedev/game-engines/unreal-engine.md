@@ -14,3 +14,4 @@
 - [Coconut Lizard](https://www.coconutlizard.co.uk/) - Unreal Engine Development, Support and Consultation. ([Blog](https://www.coconutlizard.co.uk/blog/))
 - [Confessions of an Unreal Engine 4 Engineering Firefighter (2018)](https://allarsblog.com/2018/03/17/confessions-of-an-unreal-engine-4-engineering-firefighter/)
 - [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator) - Cloud-based app that empowers anyone to create photorealistic digital humans, fully rigged and complete with hair and clothing, in minutes. ([Video](https://www.youtube.com/watch?v=OeUBATSJSr0))
+- [On the Perceived Inevitability of Unreal](http://alextardif.com/Unreal.html) ([Lobsters](https://lobste.rs/s/ulwmqh/on_perceived_inevitability_unreal))

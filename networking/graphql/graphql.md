@@ -34,7 +34,7 @@
 - [parse-graphql](https://github.com/egoist/parse-graphql) - Given a GraphQL source, parses it into a Document.
 - [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - Tool that generates code out of your GraphQL schema.
 - [A Different Approach to GraphQL Caching (2019)](https://adamrackis.dev/graphql-caching-and-micro/)
-- [Why I use GraphQL and avoid REST APIs (2018)](https://desiatov.com/why-graphql)
+- [Why I use GraphQL and avoid REST APIs (2018)](https://desiatov.com/why-graphql) ([Lobsters](https://lobste.rs/s/wrwqzb/why_i_use_graphql_avoid_rest_apis))
 - [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
 - [GraphQL Weekly](https://www.graphqlweekly.com) - Weekly newsletter of the best news, articles and projects about GraphQL.
 - [Concise and powerful introduction to GraphQL for React developers](https://learn.hasura.io/graphql/react/)

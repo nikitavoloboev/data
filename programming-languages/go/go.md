@@ -465,3 +465,4 @@ Go promotes composition over inheritance.
 - [gops](https://github.com/google/gops) - Command to list and diagnose Go processes currently running on your system.
 - [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
 - [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
+- [Tiny Container Challenge: Building a 6kB Containerized HTTP Server (2021)](https://devopsdirective.com/posts/2021/04/tiny-container-image/) ([HN](https://news.ycombinator.com/item?id=26899292))
