@@ -85,3 +85,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Lichess Founder AMA (2021)](https://www.reddit.com/r/chess/comments/mpasyl/i_started_lichess_ask_me_anything/)
 - [The Trappiest Opening in Chess? | Win Quickly with the Stafford Gambit (2020)](https://www.youtube.com/watch?v=nH_fiqlLp2U)
 - [OpeningTree](https://www.openingtree.com/) - Consolidated view of all your chess games from chess.com, lichess, grandmaster games or custom pgn. ([Code](https://github.com/openingtree/openingtree))
+- [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.) ([HN](https://news.ycombinator.com/item?id=26910579))
