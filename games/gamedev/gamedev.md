@@ -166,3 +166,4 @@
 - [Sims 2 Dev Thread](https://twitter.com/JustJakeSimpson/status/1375520115920236544)
 - [Kaboom.js](https://github.com/replit/kaboom) - JavaScript game library. ([Docs](https://kaboomjs.com/)) ([Intro](https://blog.replit.com/kaboom)) ([HN](https://news.ycombinator.com/item?id=26728774))
 - [CloudMorph](https://github.com/giongto35/cloud-morph) - Decentralized, self-hosted cloud gaming/cloud application platform.
+- [Game accessibility guidelines](http://gameaccessibilityguidelines.com/) - Straightforward reference for inclusive game design. ([HN](https://news.ycombinator.com/item?id=26913554))
