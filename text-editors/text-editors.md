@@ -108,3 +108,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [dprint](https://dprint.dev/) - Pluggable and configurable code formatting platform written in Rust. ([Code](https://github.com/dprint/dprint))
 - [Building a High Performance Text Editor (2021)](https://wbond.net/thoughts/building_a_high_performance_text_editor)
 - [Editors, IDEs; O Gods, What If Microsoft Was Right All Along? (2021)](https://brandur.org/nanoglyphs/021-ides)
+- [Chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.

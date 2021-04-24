@@ -366,3 +366,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How to Write a Technical Book (2021)](https://serhack.me/articles/how-to-write-technical-book/) ([HN](https://news.ycombinator.com/item?id=26831469)) ([Lobsters](https://lobste.rs/s/9mcwxo/writing_technical_book))
 - [Shepherd](https://shepherd.com/) - Discover The Best Books To Read. ([HN](https://news.ycombinator.com/item?id=26871660))
 - [Ask HN: How do you become an active reader and deep thinker? (2021)](https://news.ycombinator.com/item?id=26866463)
+- [Goodreads Datasets](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) ([Code](https://github.com/MengtingWan/goodreads)) ([Reddit](https://www.reddit.com/r/Archiveteam/comments/mxccfp/the_goodreads_metadata_collection_retired_and_51/))
