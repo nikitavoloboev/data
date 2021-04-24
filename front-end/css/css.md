@@ -295,3 +295,5 @@
 - [Awesome Container Queries](https://github.com/sturobson/Awesome-Container-Queries)
 - [Overflow Issues In CSS (2021)](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
 - [Float an Element to the Bottom Corner (2021)](https://css-tricks.com/float-an-element-to-the-bottom-corner/)
+- [Transition.css](https://www.transition.style/) - Easy transitions with clip-path. ([Code](https://github.com/argyleink/transition.css))
+- [Shortstack](https://github.com/argyleink/shortstack) - Minimal Rollup + PostCSS modern syntax starter template.
