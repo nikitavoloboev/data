@@ -244,3 +244,4 @@
 - [Awesome GHA Snippets](https://github.com/yengoteam/awesome-gha-snippets)
 - [Awesome self-hosted GitHub Action runners](https://github.com/jonico/awesome-runners)
 - [Work with GitHub Actions in Your Terminal with GitHub CLI (2021)](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/) ([HN](https://news.ycombinator.com/item?id=26822169))
+- [GitHub Actions workflow browser (2021)](https://qmacro.org/2021/04/24/github-actions-workflow-browser/)

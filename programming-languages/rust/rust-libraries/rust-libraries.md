@@ -797,6 +797,7 @@
 - [simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
 - [biquad](https://github.com/korken89/biquad-rs) - Rust library for digital second order IIR filtrers, also known as biquads.
 - [Deltoid](https://github.com/jjpe/deltoid) - Type-driven rust library that can be used to calculate deltas.
+- [ipc-channel](https://github.com/servo/ipc-channel) - Multiprocess drop-in replacement for Rust channels.
 
 ## Cargo Plugins
 
