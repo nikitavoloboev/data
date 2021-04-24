@@ -24,3 +24,4 @@
 - [Foundations of Probabilistic Programming (2020)](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)
 - [Semantics of probabilistic programs](https://ieeexplore.ieee.org/document/4568006) ([Tweet](https://twitter.com/tobycmurray/status/1382137010043817986))
 - [Probabilistic Programming for Inverse Problems in Physical Sciences (2021)](https://www.iiia.csic.es/en-us/news-events/seminar-details/?seminar_id=35)
+- [Probabilistic Programming for Programming Languages People](http://adriansampson.net/doc/ppl.html) ([Code](https://github.com/sampsyo/ppl-intro))
