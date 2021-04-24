@@ -33,3 +33,4 @@
 - [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems)
 - [Prolog Meta-interpreters (2021)](https://www.youtube.com/watch?v=nmBkU-l1zyc)
 - [Prolog for Beginners](https://www.coursera.org/projects/prolog-for-beginners-fhqrd) ([HN](https://news.ycombinator.com/item?id=26872770))
+- [A Hitchhiker's Guide to Reinventing a Prolog Machine (2018)](https://drops.dagstuhl.de/opus/volltexte/2018/8453/) ([HN](https://news.ycombinator.com/item?id=26913859))

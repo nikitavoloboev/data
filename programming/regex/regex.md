@@ -50,3 +50,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Regular expression compilation visualized](https://compiler.org/reason-re-nfa/src/index.html) ([HN](https://news.ycombinator.com/item?id=26537734))
 - [regex101](https://regex101.com/) - Build, test, and debug regex. ([Issues](https://github.com/firasdib/Regex101))
 - [igrepper](https://github.com/igoyak/igrepper) - Interactive grepping using ncurses and rust.
+- [Some useful regular expressions for programmers (2021)](https://lemire.me/blog/2021/04/22/some-useful-regular-expressions-for-programmers/) ([HN](https://news.ycombinator.com/item?id=26910717))

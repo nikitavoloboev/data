@@ -24,7 +24,7 @@
 - [vt-pbf](https://github.com/mapbox/vt-pbf) - Serialize Mapbox Vector Tiles to binary protobufs in javascript.
 - [Opinions I have formed about the “geospatial industry” (2020)](https://twitter.com/mouthofmorrison/status/1265635034939248640) ([HN](https://news.ycombinator.com/item?id=23609819))
 - [DeepTrace](https://frontrangegeosciences.com/DeepTrace/) - Breakthrough application of deep learning for picking arrival times in seismic data.
-- [Satellogic](https://satellogic.com/) - Vertically integrated  geospatial analytics. Powerful satellite image solutions to gain access of a more efficient and real time information for your business.
+- [Satellogic](https://satellogic.com/) - Vertically integrated geospatial analytics. Powerful satellite image solutions to gain access of a more efficient and real time information for your business.
 - [Ethics in Geo (2020)](https://macwright.org/2020/06/21/ethics-in-geo.html)
 - [Seeing how it all unfolds (2020)](https://erdavis.com/2020/06/19/seeing-how-it-all-unfolds/)
 - [Very spatial people to follow on Twitter (2020)](https://spatialawareness.xyz/blog/very-spatial-people-to-follow-on-twitter/) ([Tweet](https://twitter.com/robhawkes/status/1280055131178926080))
@@ -61,3 +61,4 @@
 - [How to use Mapbox Movement Data for data analytics (guide) (2021)](https://www.mapbox.com/blog/how-to-utilize-mapbox-movement-data-for-mobility-insights-a-guide-for-analysts-data-scientists-and-developers)
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Spatial Extension to SQLite. ([HN](https://news.ycombinator.com/item?id=26685156))
 - [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926))
+- [A new way to make maps with OpenStreetMap (2021)](https://protomaps.com/blog/new-way-to-make-maps/) ([HN](https://news.ycombinator.com/item?id=26918259))

@@ -13,3 +13,4 @@
 - [Form Energy](https://formenergy.com/) - Developing long duration energy storage systems to enable a fully renewable, affordable and reliable electric system.
 - [How To Make an Aluminum Air Battery (2021)](https://www.youtube.com/watch?v=DdFqTQKjICI)
 - [HN: Lithium battery costs have fallen by 98% in three decades (2021)](https://news.ycombinator.com/item?id=26682097)
+- [Gravity batteries try to beat chemical ones with winches, weights, mine shafts (2021)](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts) ([HN](https://news.ycombinator.com/item?id=26922544))
