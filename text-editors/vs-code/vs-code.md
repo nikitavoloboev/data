@@ -23,6 +23,7 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VS Code has excellent integrated node debugging. It integrates seamlessly with the entire tool ecosystem (eg I use ts-node-dev for autoreloading + typescript support, and the VS Code debugger Just Works). And because it's inside the editor, ndb features like the ability to put breakpoints in a file before it is required are irrelevant. It's all at your fingertips, just put a breakpoint right where you're coding, hit F5 to attach the debugger to your devserver and step through the code.](https://news.ycombinator.com/item?id=17581521)
 - To hide non useful `Outline` section in sidebar, just open the context menu on the outline section's header and select the "Hide" action.
 - [Can use "\*" in the advanced search options in @code to search for similar subfolders across multiple parent folders.](https://twitter.com/SteveGodderidge/status/1285978384049348609)
+- [Can Keyboard map Emmet commands: inward and outward to select HTML/JSX blocks](https://twitter.com/jaredpalmer/status/1385938591323414529)
 
 ## Links
 

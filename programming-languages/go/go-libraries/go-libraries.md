@@ -779,6 +779,8 @@
 - [go-edlib](https://github.com/hbollon/go-edlib) - Edit distance and string comparison library.
 - [go-billy](https://github.com/go-git/go-billy) - Missing interface filesystem abstraction for Go.
 - [gronx](https://github.com/adhocore/gronx) - Lightweight, fast and dependency-free Cron expression parser.
+- [synx](https://github.com/cristalhq/synx) - Better sync package for Go.
+- [fastime](https://github.com/kpango/fastime) - Super fast time function library for Go with zero memory allocation. Returns the approximate time.
 
 ## Links
 

@@ -662,6 +662,7 @@
 - [Nantes](https://github.com/instacart/Nantes) - Swift TTTAttributedLabel replacement.
 - [FuzzyFind](https://github.com/truizlop/FuzzyFind) - Swift package to perform fuzzy search queries on strings.
 - [Yaproq](https://github.com/yaproq/yaproq) - Templating language for Swift.
+- [Swift Collections Benchmark](https://github.com/apple/swift-collections-benchmark) - Lets you collect and easily visualize performance data about data structure implementations and collection algorithms.
 
 ## Other (not lib)
 
