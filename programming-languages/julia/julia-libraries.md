@@ -74,6 +74,7 @@
 - [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) - Fast and modern CAS for a fast and modern language. ([Forum Post](https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251)) ([HN](https://news.ycombinator.com/item?id=26356854))
 - [SymbolicSAT](https://github.com/JuliaSymbolics/SymbolicSAT.jl) - Extends SymbolicUtils expression simplification with a theorem prover.
 - [Interpolations](https://github.com/JuliaMath/Interpolations.jl) - Fast, continuous interpolation of discrete datasets in Julia.
+- [Bootstrap.jl](https://github.com/juliangehring/Bootstrap.jl) - Statistical bootstrapping library for Julia.
 
 ## NLP
 

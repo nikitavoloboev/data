@@ -88,3 +88,4 @@ Might give it a go sometime.
 - [My Custom Emacs Setup (2021)](https://hristos.co/blog/my-custom-emacs-setup/) ([Lobsters](https://lobste.rs/s/olduw2/my_custom_emacs_setup))
 - [Emacs org-mode examples and cookbook](http://ehneilsen.net/notebook/orgExamples/org-examples.html)
 - [From Vim to Emacs in Fourteen Days (2015)](https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html)
+- [Awesome Elisp](https://github.com/p3r7/awesome-elisp) - Curated list of emacs-lisp development resources.

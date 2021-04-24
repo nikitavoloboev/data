@@ -40,3 +40,4 @@
 - [Build your own “data lake” for reporting purposes in a multi-services environment (2021)](https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/)
 - [Feature Stores: The Data Side of ML Pipelines (2021)](https://medium.com/riselab/feature-stores-the-data-side-of-ml-pipelines-7083d69bff1c)
 - [Flowgger](https://github.com/awslabs/flowgger) - Fast, simple and lightweight data collector written in Rust.
+- [Popsink](https://app.popsink.dev/) - Real-time data platform you don't have to build.
