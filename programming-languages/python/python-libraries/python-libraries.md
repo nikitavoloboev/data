@@ -387,6 +387,7 @@
 - [Cerberus](https://github.com/pyeve/cerberus) - Lightweight and extensible data validation library for Python.
 - [funcX](https://github.com/funcx-faas/funcX) - High Performance Function Serving for Science. ([Web](https://funcx.org/))
 - [Clumper](https://github.com/koaning/clumper) - Small python library that can clump lists of data together.
+- [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your machine learning code into microservices with web API, interactive GUI, and more.
 
 ## Links
 

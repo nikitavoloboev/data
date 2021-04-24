@@ -202,3 +202,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [DAM - Decentralized Asset Management (2021)](https://medium.com/dam-finance/introducing-dam-42bfbabcb4f0)
 - [Ethereum.org Code](https://github.com/ethereum/ethereum-org-website)
 - [hive](https://github.com/ethereum/hive) - Ethereum end-to-end test harness.
+- [Dharma](https://www.dharma.io/) - Ethereum wallet that connects to your bank account.
