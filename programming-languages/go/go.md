@@ -466,3 +466,4 @@ Go promotes composition over inheritance.
 - [Go8](https://github.com/gmhafiz/go8) - Go + Postgres + Chi Router + sqlx, unit testing Starter Kit for API Development.
 - [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
 - [Tiny Container Challenge: Building a 6kB Containerized HTTP Server (2021)](https://devopsdirective.com/posts/2021/04/tiny-container-image/) ([HN](https://news.ycombinator.com/item?id=26899292))
+- [Build, notarize, and sign Golang binaries for MacOS with GitHub Actions (2020)](https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/) ([Code](https://github.com/kencochrane/golang-github-action-sign-macos))

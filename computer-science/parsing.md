@@ -53,3 +53,4 @@
 - [Parser Combinators From Scratch (2020)](https://www.youtube.com/watch?v=6oQLRhw5Ah0&list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU) ([Code](https://github.com/LowLevelJavaScript/Parser-Combinators-From-Scratch))
 - [Ohm](https://ohmlang.github.io/) - Parser generator consisting of a library and a domain-specific language. ([Code](https://github.com/harc/ohm)) ([HN](https://news.ycombinator.com/item?id=26603393))
 - [Pika parsing: reformulating packrat parsing as a dynamic programming algorithm solves the left recursion and error recovery problems (2020)](https://arxiv.org/pdf/2005.06444.pdf)
+- [Sparser](https://github.com/Unibeautify/sparser) - Framework of various language parsers. ([Web](https://sparser.io/))
