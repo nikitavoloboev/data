@@ -36,3 +36,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Digital Painting: How to improve your Color Perception (2021)](https://www.youtube.com/watch?v=BpIVS5vuJEY)
 - [Ask HN: How do I learn drawing? (2021)](https://news.ycombinator.com/item?id=26360349)
 - [My Neighbor Totoro: 100 Original Concept Art Collection](https://www.iamag.co/my-neighbor-totoro-100-original-concept-art-collection/)
+- [How to Draw a Self-Portrait in 11 Levels of Increasing Complexity](https://kottke.org/21/04/how-to-draw-a-self-portrait-in-11-levels-of-increasing-complexity) ([Video](https://www.youtube.com/watch?v=8T3cxSySI2Q))

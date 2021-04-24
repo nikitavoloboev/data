@@ -60,3 +60,4 @@
 - [Turborepo](https://turborepo.com/) - Blazing fast monorepo build system. ([GitHub](https://github.com/turborepo)) ([Turbo v0.4.0](https://turborepo.com/posts/turbo-0-4-0))
 - [OMake](http://projects.camlcity.org/projects/omake.html) - Build system designed for scalability and portability. ([Code](https://github.com/ocaml-omake/omake))
 - [Reproducible Builds: Increasing the Integrity of Software Supply Chains (2021)](https://arxiv.org/abs/2104.06020)
+- [Comparing the New Generation of Build Tools (2021)](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
