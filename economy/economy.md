@@ -81,3 +81,6 @@
 - [Food Prices Are Soaring Faster Than Inflation and Incomes (2021)](https://www.bloomberg.com/news/articles/2021-03-01/inflation-2021-malnutrition-and-hunger-fears-rise-as-food-prices-soar-globally) ([HN](https://news.ycombinator.com/item?id=26383419))
 - [Why inflation is not a threat (2021)](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/) ([HN](https://www.taxresearch.org.uk/Blog/2021/03/14/why-inflation-is-not-a-threat/))
 - [Foundations of complexity economics (2021)](https://www.nature.com/articles/s42254-020-00273-3) ([HN](https://news.ycombinator.com/item?id=26839781))
+- [Where do I start my economics journey? (2021)](https://www.reddit.com/r/AskEconomics/comments/mxfmmc/where_do_i_start_my_economics_journey/)
+- [Principles of Microeconomics](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135162173.pdf)
+- [Macroeconomics - Olivier Blanchard](https://www.pearsonhighered.com/assets/preface/0/1/3/4/0134897897.pdf)
