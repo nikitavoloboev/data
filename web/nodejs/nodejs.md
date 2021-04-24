@@ -17,6 +17,7 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js. ([Web](https://www.fastify.io/))
 - [fastify-plugin](https://github.com/fastify/fastify-plugin) - Plugin helper for Fastify.
+- [fastify-cli](https://github.com/fastify/fastify-cli) - Run a Fastify application with one command.
 - [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 - [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.

@@ -215,3 +215,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [FFmpeg 4.4](http://ffmpeg.org/index.html#pr4.4) ([HN](https://news.ycombinator.com/item?id=26746537))
 - [goav](https://github.com/giorgisio/goav) - Go bindings for FFmpeg.
 - [RUHAcam](https://github.com/penk/ruha.camera) - 3D Printable Retro-style Raspberry Pi HQ Camera. ([Web](https://ruha.camera/)) ([HN](https://news.ycombinator.com/item?id=26859058))
+- [FFmpeg cheat sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
