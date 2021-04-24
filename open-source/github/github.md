@@ -211,3 +211,4 @@ I publish most of my work and make it open source for other people to use and re
 - [HUBFS](https://github.com/billziss-gh/hubfs) - Read-only file system for GitHub and Git.
 - [Awesome Developer GitHub Profiles](https://github.com/coderjojo/creative-profile-readme)
 - [GistFS](https://github.com/jhchabran/gistfs) - Go io/fs filesystem implementation for reading files in a Github gists.
+- [git-xargs](https://github.com/gruntwork-io/git-xargs) - Command-line tool (CLI) for making updates across multiple Github repositories with a single command.
