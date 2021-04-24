@@ -66,3 +66,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [bash_unit](https://github.com/pgrange/bash_unit) - Bash unit testing.
 - [Elegant bash conditionals (2021)](https://timvisee.com/blog/elegant-bash-conditionals/) ([Lobsters](https://lobste.rs/s/nao13f/elegant_bash_conditionals))
 - [Bash lambda](https://github.com/spencertipping/bash-lambda) - Anonymous functions and FP stuff for bash.
+- [How to navigate directories faster with bash (2015)](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html) ([HN](https://news.ycombinator.com/item?id=26899531))

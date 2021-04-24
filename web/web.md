@@ -259,3 +259,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [My Ideal Web Service (2021)](https://kevincox.ca/2021/04/15/my-ideal-service/)
 - [Clean Up the Web](https://cleanuptheweb.org/) - Help rid the web of privacy-invading tracking. ([Code](https://github.com/small-tech/cleanuptheweb.org))
 - [Relate](https://relate.app/) - Open platform to create for the web.
+- [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/) - Book about the fundamentals of creating a good web interface.

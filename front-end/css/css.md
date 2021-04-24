@@ -294,3 +294,4 @@
 - [Say Hello To CSS Container Queries (2021)](https://ishadeed.com/article/say-hello-to-css-container-queries/) ([Tweet](https://twitter.com/Stammy/status/1382335598283919369))
 - [Awesome Container Queries](https://github.com/sturobson/Awesome-Container-Queries)
 - [Overflow Issues In CSS (2021)](https://www.smashingmagazine.com/2021/04/css-overflow-issues/)
+- [Float an Element to the Bottom Corner (2021)](https://css-tricks.com/float-an-element-to-the-bottom-corner/)
