@@ -95,6 +95,7 @@
 - [useRealTime](https://dlbn.co/articles/userealtime-a-react-hook-for-dealing-with-real-time-applications) - React hook for dealing with real-time applications.
 - [React Hooks by Baidu](https://github.com/ecomfe/react-hooks)
 - [use-editable](https://github.com/kitten/use-editable) - Small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic).
+- [react-hanger](https://github.com/kitze/react-hanger) - Collection of useful React hooks.
 
 ## Notes
 
