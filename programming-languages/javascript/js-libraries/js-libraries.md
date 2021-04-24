@@ -500,6 +500,7 @@
 - [async-retry](https://github.com/vercel/async-retry) - Retrying made simple, easy, and async.
 - [party.js](https://github.com/YilianSource/party-js) - JavaScript library to brighten up your user's site experience with visual effects.
 - [Scule](https://github.com/unjs/scule) - String case utils.
+- [Nano Events](https://github.com/ai/nanoevents) - Simple and tiny event emitter library for JavaScript.
 
 ## Links
 
