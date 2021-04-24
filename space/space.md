@@ -87,3 +87,4 @@
 - [Inspiration4](https://inspiration4.com/) - Planned SpaceX Crew Dragon mission to low Earth orbit.
 - [Apollo 13 in Real Time](https://apolloinrealtime.org/13/) - Real-time journey through the third lunar landing attempt.
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - Tediously accurate map of the solar system.
+- [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth) ([HN](https://news.ycombinator.com/item?id=26923322))
