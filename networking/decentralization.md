@@ -39,6 +39,7 @@
 - [The unrealized potential of federation (2020)](https://drewdevault.com/2020/09/20/The-potential-of-federation.html) ([HN](https://news.ycombinator.com/item?id=24534148))
 - [Spritely](https://spritelyproject.org/) - Project to level up the federated social web. ([Lobsters](https://lobste.rs/s/whaf2t/spritely))
 - [Filecoin](https://filecoin.io/) - Decentralized storage network for humanity's most important information. ([Tweet](https://twitter.com/smdiehl/status/1318143467613192194)) ([What Information Should we be Preserving in Filecoin?](https://blog.archive.org/2020/10/22/what-information-should-we-be-preserving-in-filecoin/)) ([Review](https://www.reddit.com/r/Arweave/comments/m14o0a/disappointed_by_filecoin/)) ([How storage and retrieval deals work on Filecoin](https://filecoin.io/blog/posts/how-storage-and-retrieval-deals-work-on-filecoin/))
+- [Lotus](https://github.com/filecoin-project/lotus) - Implementation of the Filecoin Distributed Storage Network.
 - [Forest](https://github.com/ChainSafe/forest) - Rust Filecoin Node Implementation.
 - [witnet-rust](https://github.com/witnet/witnet-rust) - Open source implementation of the Witnet Decentralized Oracle Network protocol written in Rust.
 - [Awesome distributed, decentralized, p2p apps or tools](https://github.com/croqaz/awesome-decentralized)

@@ -107,6 +107,7 @@
 - [gridstack.js](https://github.com/gridstack/gridstack.js) - Mobile-friendly modern Typescript library for dashboard layout and creation. ([Web](https://gridstackjs.com/))
 - [SheetQuery](https://github.com/vlucas/sheetquery) - Query Builder/ORM for Google Sheets.
 - [immutability-helper](https://github.com/kolodny/immutability-helper) - Mutate a copy of data without changing the original source.
+- [nom-ts](https://github.com/hasparus/nom-ts) - TypeScript nominal-typing helpers.
 
 ## Links
 

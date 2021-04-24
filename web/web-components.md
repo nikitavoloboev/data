@@ -35,3 +35,4 @@
 - [Happy DOM](https://github.com/capricorn86/happy-dom) - JSDOM alternative with support for server side rendering of web components.
 - [builtin-elements](https://github.com/WebReflection/builtin-elements) - Zero friction custom elements like primitive.
 - [Lit.dev](https://lit.dev/) - Simple. Fast. Web Components. ([Code](https://github.com/lit/lit.dev))
+- [Web Components Polyfills](https://github.com/webcomponents/polyfills)

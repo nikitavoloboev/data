@@ -59,3 +59,4 @@
 - [Notes on R programming Newsletter](https://buttondown.email/rcode)
 - [mgcViz](https://github.com/mfasiolo/mgcViz) - Visual tools for Generalized Additive Models.
 - [Rhumba](https://github.com/mamba-org/rhumba) - R package manager that is blazingly fast. Powered by mamba.
+- [dm](https://github.com/krlmlr/dm) - Working with relational data models in R.
