@@ -282,3 +282,4 @@
 - [How Slow is JavaScript Really? JavaScript vs C++ (Data Structures & Optimization) (2021)](https://www.youtube.com/watch?v=WLwTlC1R2sY)
 - [Duktape](https://github.com/svaarala/duktape) - Embeddable Javascript engine with a focus on portability and compact footprint.
 - [JavaScript for Data Science](http://js4ds.org/) ([Code](https://github.com/software-tools-in-javascript/js4ds/))
+- [FIBJS](https://github.com/fibjs/fibjs) - JavaScript runtime built on Chrome's V8 JavaScript engine.

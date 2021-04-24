@@ -49,6 +49,7 @@
 - [Nostalgie](https://github.com/ggoodman/nostalgie) - Opinionated, full-stack, runtime-agnostic framework for building web apps and web pages using react. ([Web](https://nostalgie.dev/))
 - [Lumino](https://github.com/jupyterlab/lumino) - Library for building interactive web applications.
 - [Skruv](https://skruv.io/) - No-dependency, no-build, small JS framework. ([Code](https://github.com/skruv/skruv)) ([HN](https://news.ycombinator.com/item?id=26722051))
+- [jQuery](https://github.com/jquery/jquery) - Fast, small, and feature-rich JavaScript library. ([Web](https://jquery.com/))
 
 ## Animation
 
