@@ -272,3 +272,4 @@
 - [Self-supervising Fine-grained Region Similarities for Large-scale Image Localization (2020)](https://geyixiao.com/projects/sfrs) ([Code](https://github.com/yxgeee/OpenIBL))
 - [MaX-DeepLab: Dual-Path Transformers for End-to-End Panoptic Segmentation (2021)](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)
 - [Vizy](https://vizycam.com/) - AI Camera.
+- [MMPX Style-Preserving Pixel Art Magnification (2021)](https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf) ([HN](https://news.ycombinator.com/item?id=26934973))

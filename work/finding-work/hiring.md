@@ -81,3 +81,4 @@
 - [“Location-Based Pay” – Who are we to complain? (2021)](https://blackshaw.substack.com/p/pay) ([HN](https://news.ycombinator.com/item?id=26131138))
 - [Ask HN: Any startups solving for software engineering hiring? (2021)](https://news.ycombinator.com/item?id=26236973)
 - [Don’t hire top talent; hire for weaknesses (2021)](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) ([HN](https://news.ycombinator.com/item?id=26764432))
+- [Job descriptions should show a salary or salary range (2021)](https://sifted.eu/articles/job-advert-salary-range/) ([HN](https://news.ycombinator.com/item?id=26932978))
