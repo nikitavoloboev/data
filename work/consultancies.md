@@ -83,6 +83,10 @@
 
 - [Kowainik](https://kowainik.github.io/)
 
+## Kotlin
+
+- [Touchlab](https://touchlab.co/)
+
 ## NixOS
 
 - [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016.

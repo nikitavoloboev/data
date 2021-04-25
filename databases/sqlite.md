@@ -66,3 +66,4 @@
 - [Ask HN: Deploying SQLite on a Production Website (2021)](https://news.ycombinator.com/item?id=26765118)
 - [SQLite the only database you will ever need in most cases (2021)](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html) ([Lobsters](https://lobste.rs/s/tsh0jq/sqlite_only_database_you_will_ever_need)) ([HN](https://news.ycombinator.com/item?id=26816954))
 - [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database.
+- [SQLiter](https://github.com/touchlab/SQLiter) - Minimal multiplatform sqlite library.
