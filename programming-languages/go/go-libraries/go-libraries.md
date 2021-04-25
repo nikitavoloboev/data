@@ -137,6 +137,7 @@
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 - [rek](https://github.com/lucperkins/rek) - Easy HTTP client for Go. Inspired by the immortal Requests.
 - [auth](https://github.com/posener/auth) - Painless OAuth authentication middleware.
+- [Go SSC](https://github.com/yuriizinets/go-ssc) - HTML render engine concept, that brings frontend-like components experience to the server side with native html/template on steroids.
 
 ## GraphQL
 

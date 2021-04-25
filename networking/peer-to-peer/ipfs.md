@@ -55,3 +55,4 @@ I especially like the distinction of distributing content over distributing link
 - [Gantry](https://github.com/gregdhill/ipfs-oci) - Move container images to and from IPFS.
 - [ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [Distributed Web Gateway | Cloudflare](https://www.cloudflare.com/distributed-web-gateway/) - Simplify, speed up, and secure access to both the Ethereum network and the InterPlanetary File System (IPFS).
+- [Hic et Nunc Tools](https://github.com/atomantic/hicetnunc_tools) - Auditing, IPFS Pinning, and other tools for creators, collectors, and network support of Hic et Nunc.
