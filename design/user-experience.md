@@ -79,3 +79,4 @@
 - [UX Design Challenges](https://uxtools.co/challenges/)
 - [uiwtf](https://uiw.tf/) - Experimental laboratory for user interfaces.
 - [Guide user actions](https://twitter.com/CasJam/status/1204138492420333573)
+- [Ask HN: What are some good resources for a programmer to learn UI/UX design? (2021)](https://news.ycombinator.com/item?id=26932020)

@@ -20,3 +20,4 @@
 - [How to Debug JavaScript Apps with Chrome DevTools (2020)](https://blog.asayer.io/how-to-debug-javascript-apps-with-chrome-devtools)
 - [Emulate vision deficiencies in DevTools (2020)](https://addyosmani.com/blog/emulate-vision-deficiencies-devtools/)
 - [Awesome Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [Introduction to Dev Tools](https://github.com/jkup/mastering-chrome-devtools)
