@@ -58,3 +58,4 @@
 - [Condition](https://github.com/FMS-Cat/condition) - 64KB WebGL Intro.
 - [Sahti](https://github.com/vuoro/sahti) - Write a WebGL 2 command, use it like a component.
 - [Sunny Land](https://github.com/passiomatic/sunny-land) - WebGL Playground platformer.
+- [WebGL 2.0 API Quick Reference Guide](https://www.khronos.org/files/webgl20-reference-guide.pdf)

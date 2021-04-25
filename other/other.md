@@ -469,3 +469,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Maze Generator in Go in WebAssembly](http://frigidriver.com/mazes/) ([Lobsters](https://lobste.rs/s/kwzuqn/maze_generator_go_webassembly))
 - [flowkit](https://flowkit.vercel.app/) - Simple online flow chart editor. ([Code](https://github.com/egoist/flowkit))
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
+- [Ask HN: What is your favorite daily-use object? (2021)](https://news.ycombinator.com/item?id=26934770)

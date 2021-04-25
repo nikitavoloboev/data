@@ -332,3 +332,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Gatsby Garden](https://github.com/binnyva/gatsby-garden) - Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes.
 - [Mem](https://get.mem.ai/) - Capture and access information from anywhere. Simple as Apple Notes — powered by a collaborative graph database.
 - [Building a Memex](https://github.com/adri/memex) - Search of my personal data.
+- [Ask HN: How do you organize your knowledge? (2021)](https://news.ycombinator.com/item?id=26935838)

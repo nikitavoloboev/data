@@ -74,6 +74,7 @@
 - [Vult](https://github.com/modlfo/vult) - Transcompiler well suited to write high-performance DSP code. ([Web](http://modlfo.github.io/vult/))
 - [OP-1](https://teenage.engineering/products/op-1) - Synthesizer, sampler and sequencer. ([Anniversary](https://teenage.engineering/products/op-1/anniversary)) ([HN](https://news.ycombinator.com/item?id=26808757)) ([Article](https://taoofmac.com/space/blog/2021/04/17/1610))
 - [Sorceress](https://github.com/ooesili/sorceress) - Rust environment for sound synthesis and algorithmic composition.
+- [Mido](https://github.com/mido/mido) - MIDI Objects for Python.
 
 ## Inspiration
 
@@ -191,3 +192,4 @@
 - [Beat Lock](https://beatlock.io/) - Discover who is using your beat in music streaming services.
 - [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/) ([HN](https://news.ycombinator.com/item?id=26832636))
 - [Digital Audio 101: Playing Audio from a Microcontroller (2021)](https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c) ([HN](https://news.ycombinator.com/item?id=26820648))
+- [Short Introduction To MIDI](https://mido.readthedocs.io/en/latest/about_midi.html)
