@@ -179,3 +179,4 @@
 - [devshell](https://github.com/numtide/devshell) - Per project developer environments.
 - [Nix Data](https://github.com/nix-community/nix-data) - Set of packages for data-scientists with batteries-included.
 - [Nomia](https://github.com/scarf-sh/nomia) - System for precise, efficient resource management across every domain and resource type.
+- [Chimera](https://github.com/craftweg/chimera) - Nix-based package manager with the focus on developer experience.

@@ -74,7 +74,7 @@
 - [Boring Benefits of Lisp (2020)](https://justinmeiners.github.io/boring-benefits-of-lisp/)
 - [Review of Paul Graham's Bel, Chris Granger's Eve, and a Silly VR Rant](https://gist.github.com/wtaysom/7e5fda6d65807073c3fa6b92b1e25a32) ([HN](https://news.ycombinator.com/item?id=24162703))
 - [Sild](https://github.com/jfo/sild) - Lisp Dialect.
-- [Mal](https://github.com/kanaka/mal) - Make a Clojure inspired Lisp interpreter.
+- [Mal](https://github.com/kanaka/mal) - Make a Clojure inspired Lisp interpreter. ([HN](https://news.ycombinator.com/item?id=26924344))
 - [Compiling a Lisp: Overture](https://bernsteinbear.com/blog/compiling-a-lisp-0/) ([Lobsters](https://lobste.rs/s/hwekzx/compiling_lisp_overture))
 - [Compiling a Lisp: Primitive unary functions](https://bernsteinbear.com/blog/compiling-a-lisp-4/) ([HN](https://news.ycombinator.com/item?id=24386826))
 - [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language.
