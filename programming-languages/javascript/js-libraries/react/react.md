@@ -20,6 +20,7 @@
 - [Imagine this exists at the top level of your code: `setInterval(render, 100)`. Don’t do anything in render that you wouldn’t do in this function. Should be clear why you wouldn’t mutate or allocate resources that need cleanup.](https://twitter.com/dan_abramov/status/1314935179060928512)
 - [Preact is so fast on the speedometer benchmark that the jit never kicks in](https://twitter.com/_gsathya/status/1333392326798962688)
 - [Real use case for server rendering portions of an app: you have a perf sensitive page and need to render something that requires a business logic library that pulls in a huge dependency graph. Server render solves that.](https://twitter.com/jordwalke/status/1343174656639954944)
+- [JSX has a syntax to support generics.](https://twitter.com/0xca0a/status/1386435628737335296)
 
 ## Links
 

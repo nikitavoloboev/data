@@ -49,3 +49,4 @@
 - [Apple GPU architecture docs and tools](https://github.com/dougallj/applegpu)
 - [GPA](https://github.com/Jokeren/GPA) - GPU Performance Advisor.
 - [Vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs. ([HN](https://news.ycombinator.com/item?id=26754351))
+- [Patterns and behaviors for GPU computing](https://github.com/moderngpu/moderngpu)
