@@ -122,3 +122,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Прояви свою солидарность](https://solidarity.support/) - Поддержите СМИ и правозащитников, которые поддерживают вас.
 - [Фашистская диктатура. Беседа с Фёдором Крашенинниковым (2021)](https://www.youtube.com/watch?v=idOT80WliuM)
 - [Возвращение в Россию из Европы (2020)](https://nesiditsa.ru/forum/vozvrashhenie-v-rossiyu-iz-evropy)
+- [Как устроена психология чекиста? (2021)](https://www.youtube.com/watch?v=-smbWcUt62w)
