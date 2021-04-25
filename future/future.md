@@ -64,3 +64,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: What under-the-radar technology are you excited about? (2021)](https://news.ycombinator.com/item?id=26780866)
 - [List of emerging technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies) ([HN](https://news.ycombinator.com/item?id=26837152))
 - [Which terms would trend in Google Search in 5/10 years? (2021)](https://twitter.com/eriktorenberg/status/1384915308717256708)
+- [The next ten years (2021)](https://world.hey.com/joaoqalves/the-next-ten-years-5b776dac)

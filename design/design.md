@@ -170,3 +170,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) - Curated list of design resources from design templates, stock photos, icons, colors, and much more.
 - [Compute Cuter](https://computecuter.com/) - Guide to cute-ifying your computer. ([Lobsters](https://lobste.rs/s/mw6fgw/compute_cuter))
 - [Graphic Designers Have Always Loved Minimalism. But at What Cost? (2021)](https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/) ([HN](https://news.ycombinator.com/item?id=26859183))
+- [Hack Design](https://hackdesign.org/) - Design lessons for everyone, curated by top designers.
