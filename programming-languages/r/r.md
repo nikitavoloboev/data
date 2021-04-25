@@ -61,3 +61,4 @@
 - [Rhumba](https://github.com/mamba-org/rhumba) - R package manager that is blazingly fast. Powered by mamba.
 - [dm](https://github.com/krlmlr/dm) - Working with relational data models in R.
 - [Interactive Studio for Explanatory Model Analysis](https://github.com/ModelOriented/modelStudio)
+- [rOpenSci](https://ropensci.org/) - Open tools for open science. ([GitHub](https://github.com/ropensci))

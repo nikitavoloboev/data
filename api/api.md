@@ -22,6 +22,7 @@
 - [Twitter Python 2](https://github.com/tweepy/tweepy)
 - [Twitter Python 3](https://github.com/geduldig/TwitterAPI)
 - [Twitter Rust](https://github.com/egg-mode-rs/egg-mode)
+- [Twitter R](https://github.com/ropensci/rtweet)
 - [Twitter Node](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
 - [Twitter Node](https://github.com/FeedHive/twitter-api-client)
 - [Twitter Node 2](https://github.com/yarnaimo/twimo-v2) - Twitter API v2 client for TypeScript auto-generated from official OpenAPI specification.

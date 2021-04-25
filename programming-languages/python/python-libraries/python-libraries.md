@@ -388,6 +388,7 @@
 - [funcX](https://github.com/funcx-faas/funcX) - High Performance Function Serving for Science. ([Web](https://funcx.org/))
 - [Clumper](https://github.com/koaning/clumper) - Small python library that can clump lists of data together.
 - [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your machine learning code into microservices with web API, interactive GUI, and more.
+- [Tenacity](https://github.com/jd/tenacity) - Retrying library for Python.
 
 ## Links
 
