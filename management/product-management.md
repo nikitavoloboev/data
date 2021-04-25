@@ -61,3 +61,4 @@
 - [Ask HN: Good resources to become a better Product Manager? (2021)](https://news.ycombinator.com/item?id=26856691)
 - [Lenny's Job Board](https://pallet.xyz/list/lennys-jobs) - Job board, specializing in product-building roles. ([Tweet](https://twitter.com/lennysan/status/1384530146330222599))
 - [What are the most remarkable “small wins” that you’ve seen products ship? (2021)](https://twitter.com/rauchg/status/1380641625995546626)
+- [A Product Engineer’s Guide to Platform Engineers (2019)](https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1) ([HN](https://news.ycombinator.com/item?id=26935504))

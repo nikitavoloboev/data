@@ -202,3 +202,4 @@
 - [How to index Swift strings for fast read outs (2021)](https://twitter.com/nicklockwood/status/1382020582393454595)
 - [UIFont and Dynamic Type explained (2021)](https://twitter.com/featherless/status/1382146916402790401)
 - [FlippingNotch](https://github.com/quickbirdstudios/FlippingNotch) - Pull to refresh / add/ show custom animation written Swift.
+- [Swift on the Server (2020)](https://theswiftdev.com/swift-on-the-server-in-2020/) ([HN](https://news.ycombinator.com/item?id=26935152))
