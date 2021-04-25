@@ -247,3 +247,4 @@ I love Git and version control. And I use version control over any project I do.
 - [A look how branches work in Git (2021)](https://stackoverflow.blog/2021/04/05/a-look-under-the-hood-how-branches-work-in-git/) ([HN](https://news.ycombinator.com/item?id=26735628))
 - [GitAhead](https://gitahead.github.io/gitahead.com/) - Graphical Git client for Windows, Linux and macOS. ([Code](https://github.com/gitahead/gitahead))
 - [Gitlet.js](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript. ([Docs](http://gitlet.maryrosecook.com/docs/gitlet.html)) ([HN](https://news.ycombinator.com/item?id=26787376))
+- [git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs with syntax highlighting in your terminal.

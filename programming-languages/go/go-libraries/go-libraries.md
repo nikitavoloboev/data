@@ -794,3 +794,4 @@
 - [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects)
 - [Go web framework benchmark](https://github.com/smallnest/go-web-framework-benchmark)
 - [Modu](https://github.com/KimMachineGun/modu) - Deadly simple terminal UI tool to update Go Modules.
+- [Collect data about your Go dependencies](https://github.com/nikolaydubina/import-graph)
