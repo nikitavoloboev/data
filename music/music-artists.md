@@ -115,7 +115,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com) or [Hania Ran
 - [МЫ](https://soundcloud.com/user-613634972) - [Возможно](https://www.youtube.com/watch?v=B1yIJ706i78)
 - [Tristan de Liège](https://soundcloud.com/tristandeliege) - [Rêve De Nuages](https://www.youtube.com/watch?v=RmE8V9_81lo)
 - [Devine Lu Linvega](https://twitter.com/neauoire) - [Hundred Rabbits](https://aliceffekt.bandcamp.com/album/hundred-rabbits)
-- [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) - [Stay (Live)](https://www.youtube.com/watch?v=hHNlphN76jU) | [The Situation (Live)](https://www.youtube.com/watch?v=6-seyQanuI0)
+- [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) - [Stay (Live)](https://www.youtube.com/watch?v=hHNlphN76jU) | [The Situation (Live)](https://www.youtube.com/watch?v=6-seyQanuI0) | [Lonely Sometimes (Live)](https://www.youtube.com/watch?v=LLKNeyZXImk)
 - [Project Lazarus](https://open.spotify.com/artist/33OJLcrDP4wfgTsq250m9Y?si=K_hWsQDGTdKdDAko0F0NnQ) ([Bandcamp](https://projectlazarus.bandcamp.com/))
 - [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) ([Turiya Sings](https://www.youtube.com/watch?v=Y9HgjQvDH3A))
 - [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X?si=QYqj3rfTT5S7zmc0_mNVbA)

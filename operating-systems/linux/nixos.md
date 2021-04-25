@@ -124,3 +124,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Flake Example](https://github.com/colemickens/nixos-flake-example) - Demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.
 - [Bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad.
 - [nixos-up](https://github.com/samuela/nixos-up) - Fastest NixOS install there is.
+- [Declarative Docker Container Service in NixOS (2020)](https://www.breakds.org/post/declarative-docker-in-nixos/)
