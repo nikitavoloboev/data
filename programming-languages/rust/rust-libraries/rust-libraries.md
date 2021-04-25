@@ -855,3 +855,4 @@
 - [Against Packaging Rust Crates (2021)](https://fy.blackhats.net.au/blog/html/2021/02/16/against_packaging_rust_crates.html) ([Lobsters](https://lobste.rs/s/unaq3j/against_packaging_rust_crates))
 - [Starter code for writing procedural macros in Rust](https://github.com/SergioBenitez/proc-macro-starter)
 - [crates.io database dum](https://github.com/dtolnay/db-dump) - Library for scripting analyses against crates.io's database dumps.
+- [Crater](https://github.com/rust-lang/crater) - Tool to run experiments across parts of the Rust ecosystem.

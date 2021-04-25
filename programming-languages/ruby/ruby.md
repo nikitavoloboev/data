@@ -64,3 +64,4 @@
 - [Standard Ruby](https://github.com/testdouble/standard) - Ruby style guide, linter, and formatter. ([1.0 release](https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/)) ([HN](https://news.ycombinator.com/item?id=26352977))
 - [Resilience in Ruby: Shell Commands (2021)](https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/)
 - [Ruby Garbage Collection Deep Dive (2021)](https://jemma.dev/blog/gc-internal)
+- [frum](https://github.com/TaKO8Ki/frum) - Fast and modern Ruby version manager written in Rust.

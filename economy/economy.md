@@ -84,3 +84,4 @@
 - [Where do I start my economics journey? (2021)](https://www.reddit.com/r/AskEconomics/comments/mxfmmc/where_do_i_start_my_economics_journey/)
 - [Principles of Microeconomics](https://www.pearsonhighered.com/assets/preface/0/1/3/5/0135162173.pdf)
 - [Macroeconomics - Olivier Blanchard](https://www.pearsonhighered.com/assets/preface/0/1/3/4/0134897897.pdf)
+- [What is your favorite economics paper? (2021)](https://www.reddit.com/r/AskEconomics/comments/my0f6w/what_is_your_favorite_economics_paper/)
