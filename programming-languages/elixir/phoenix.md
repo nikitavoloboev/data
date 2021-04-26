@@ -38,3 +38,4 @@
 - [Elixir and Phoenix after two years (2021)](https://nts.strzibny.name/elixir-phoenix-after-two-year/) ([HN](https://news.ycombinator.com/item?id=26702222))
 - [Phoenix LiveView Counter Tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial)
 - [Livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView. ([HN](https://news.ycombinator.com/item?id=26853285))
+- [PhoenixIntegration](https://github.com/boydm/phoenix_integration) - Set of lightweight, server-side integration test functions for Phoenix.

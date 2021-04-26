@@ -206,3 +206,4 @@
 - [Try GraphQL!](https://trygql.dev/) - Purpose-built Demo APIs for GraphQL. ([Code](https://github.com/kitten/trygql.dev))
 - [Building a GraphQL API with Deno and gql (2021)](https://v1rtl.site/blog/deno-graphql)
 - [GraphQL Scalars](https://github.com/Urigo/graphql-scalars) - Library of custom GraphQL scalar types for creating precise type-safe GraphQL schemas.
+- [Envelop](https://github.com/dotansimha/envelop) - Lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer.

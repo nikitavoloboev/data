@@ -4,6 +4,7 @@
 
 - [Electro Swing Dance Freestyle: Lone Digger, Caravan Palace](https://www.youtube.com/watch?v=ODou1efdRzU)
 - [Не перебивай](https://twitter.com/amebakin/status/1367972159348477956)
+- [Malhari](https://www.youtube.com/watch?v=l_MyUGq7pgs)
 
 ## Cute
 
@@ -12,3 +13,4 @@
 ## Links
 
 - [Vibz](http://vibz.dance/) - Innovative dance tutorial application.
+- [Dancing Reddit](https://www.reddit.com/r/Dance/)
