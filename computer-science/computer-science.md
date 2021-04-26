@@ -119,3 +119,4 @@
 - [Whether, Why, and How to Get a Ph.D. in Computer Science](http://mycsphd.org/)
 - [A.M. Turing Award](https://amturing.acm.org/)
 - [Why not faster computation via evolution and diffracted light (2021)](https://interconnected.org/home/2021/04/20/computers)
+- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/) ([Code](https://github.com/amyjko/foundations-of-information))
