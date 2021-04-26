@@ -170,6 +170,7 @@
 - [BMPlayer](https://github.com/BrikerMan/BMPlayer) - Video player for iOS, based on AVPlayer, support the horizontal, vertical screen.
 - [Aztec Editor](https://github.com/wordpress-mobile/AztecEditor-iOS) - Reusable native iOS visual HTML text editor component.
 - [Rideau](https://github.com/muukii/Rideau) - Drawer UI similar to what Apple's apps use. (e.g Maps, Shortcuts).
+- [NiceNotifications](https://github.com/nicephoton/NiceNotifications) - Create rich local notifications experiences on iOS with incredible ease.
 
 ## macOS
 

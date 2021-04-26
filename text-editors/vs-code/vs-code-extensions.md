@@ -302,6 +302,7 @@ Below is a list of extensions I use.
 
 ## Nix
 
+- [Nix IDE](https://marketplace.visualstudio.com/items?itemName=jnoortheen.nix-ide) - Nix language support with formatting and error report. ([Code](https://github.com/nix-community/vscode-nix-ide))
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 - [Nix Environment Selector](https://github.com/arrterian/nix-env-selector) - Allows you switch environment for Visual Studio Code and extensions based on .nix config files.
 

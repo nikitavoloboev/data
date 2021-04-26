@@ -85,3 +85,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still used to make [wasteful & slow t
 - [Wagyu](https://github.com/AleoHQ/wagyu) - Rust library for generating cryptocurrency wallets.
 - [Et tu, Signal? (2021)](https://www.stephendiehl.com/blog/signal.html) ([HN](https://news.ycombinator.com/item?id=26724237))
 - [Why Cryptocurrency Is A Giant Fraud (2021)](https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud) ([HN](https://news.ycombinator.com/item?id=26885008))
+- [Lily Wallet](https://github.com/Lily-Technologies/lily-wallet) - Multisig Bitcoin Wallet. ([Web](https://lily-wallet.com/))
