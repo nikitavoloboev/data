@@ -297,3 +297,4 @@
 - [Float an Element to the Bottom Corner (2021)](https://css-tricks.com/float-an-element-to-the-bottom-corner/)
 - [Transition.css](https://www.transition.style/) - Easy transitions with clip-path. ([Code](https://github.com/argyleink/transition.css))
 - [Shortstack](https://github.com/argyleink/shortstack) - Minimal Rollup + PostCSS modern syntax starter template.
+- [CSS Tips (2020)](https://markodenic.com/css-tips/) ([HN](https://news.ycombinator.com/item?id=26945263))
