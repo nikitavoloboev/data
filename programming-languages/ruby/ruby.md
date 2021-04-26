@@ -65,3 +65,4 @@
 - [Resilience in Ruby: Shell Commands (2021)](https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/)
 - [Ruby Garbage Collection Deep Dive (2021)](https://jemma.dev/blog/gc-internal)
 - [frum](https://github.com/TaKO8Ki/frum) - Fast and modern Ruby version manager written in Rust.
+- [JRuby](https://github.com/jruby/jruby) - Implementation of Ruby on the JVM. ([Web](https://www.jruby.org/))
