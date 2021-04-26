@@ -273,3 +273,4 @@
 - [MaX-DeepLab: Dual-Path Transformers for End-to-End Panoptic Segmentation (2021)](https://ai.googleblog.com/2021/04/max-deeplab-dual-path-transformers-for.html)
 - [Vizy](https://vizycam.com/) - AI Camera.
 - [MMPX Style-Preserving Pixel Art Magnification (2021)](https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf) ([HN](https://news.ycombinator.com/item?id=26934973))
+- [Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://hkchengrex.github.io/MiVOS/) ([Code](https://github.com/hkchengrex/Scribble-to-Mask))

@@ -49,3 +49,4 @@ And here are Chrome extensions I use:
 - [cdp](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome DevTools Protocol (CDP), written in Go.
 - [chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension.
 - [Ask HN: For those who use Chrome, why do you? (2021)](https://news.ycombinator.com/item?id=26765493)
+- [Chrome Platform Status](https://chromestatus.com/features)
