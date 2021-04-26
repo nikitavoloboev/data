@@ -297,3 +297,4 @@
 - [Kernel Recipes 2017 - Perf in Netflix - Brendan Gregg](https://www.youtube.com/watch?v=UVM3WX8Lq2k)
 - [How Linux Works Book](https://nostarch.com/howlinuxworks3)
 - [Awesome Wayland](https://github.com/natpen/awesome-wayland)
+- [Beyond process supervisors](http://catern.com/supervisors.html)
