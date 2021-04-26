@@ -44,3 +44,4 @@
 - [Building A Discord Bot Using Discord.js (2021)](https://www.smashingmagazine.com/2021/02/building-discord-bot-discordjs/)
 - [Disboard](https://disboard.org/) - Public Discord Server List.
 - [Disboard Scraper](https://github.com/crock/disboard-scraper) - Discord Server List Scraper.
+- [Discord Backup](https://github.com/Androz2091/discord-backup) - Powerful Node.js module that allows you to easily manage discord server backups.
