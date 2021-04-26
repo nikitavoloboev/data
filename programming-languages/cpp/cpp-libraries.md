@@ -197,6 +197,7 @@
 - [monolish](https://github.com/ricosjp/monolish) - MONOlithic Liner equation Solvers for Highly-parallel architecture.
 - [EVE](https://github.com/jfalcou/eve) - Expressive Velocity Engine.
 - [Galois](https://github.com/KatanaGraph/katana) - C++ library designed to ease parallel programming, especially for applications with irregular parallelism.
+- [timemory](https://github.com/NERSC/timemory) - Timing + Memory + Hardware Counter Utilities for C / C++ / CUDA / Python.
 
 ## Links
 

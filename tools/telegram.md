@@ -82,6 +82,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [A Telegram bot in Elixir featuring LiveView (2021)](https://underjord.io/a-telegram-bot-in-elixir.html)
 - [tg-archive](https://github.com/knadh/tg-archive) - Tool for exporting Telegram group chats into static websites, preserving chat history like mailing list archives.
 - [LoggerTelegramBackend](https://github.com/adriankumpf/logger-telegram-backend) - Logger backend for Telegram.
-- [telegram-t](https://github.com/Ajaxy/telegram-tt) - Secret project for winning Telegram Lightweight Client Contest.
+- [Telegram Web Z](https://github.com/Ajaxy/telegram-tt) - Secret project for winning Telegram Lightweight Client Contest.
+- [Telegram Web K](https://github.com/morethanwords/tweb)
 - [MTProto transports](https://core.telegram.org/mtproto/mtproto-transports)
 - [MTProxybot](https://t.me/MTProxybot) - Set up and manage Telegram MTProxy servers.
