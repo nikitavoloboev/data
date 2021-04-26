@@ -1,6 +1,6 @@
 # Chess
 
-Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to game analysis. [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
+Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I play on [Lichess](https://lichess.org/) & enjoy watching [great chess games](https://lichess.org/games) & listening to [game analysis](https://www.youtube.com/user/RosenChess/videos). [Mikhail Tal](https://www.youtube.com/playlist?list=PLDnx7w_xuguGl3y2Utxhp6eAKi9KhVlcx), [Daniil Dubov](https://www.youtube.com/results?search_query=daniil+dubov) &
 [Teimour Radjabov](https://www.youtube.com/c/TeimourRadjabovChess/videos) games are joy to watch.
 
 ## Links
@@ -86,3 +86,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [The Trappiest Opening in Chess? | Win Quickly with the Stafford Gambit (2020)](https://www.youtube.com/watch?v=nH_fiqlLp2U)
 - [OpeningTree](https://www.openingtree.com/) - Consolidated view of all your chess games from chess.com, lichess, grandmaster games or custom pgn. ([Code](https://github.com/openingtree/openingtree))
 - [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.) ([HN](https://news.ycombinator.com/item?id=26910579))
+- [8 Weird Opening Traps You've Never Seen Before (2021)](https://www.youtube.com/watch?v=VHlsQ2OT2eI)
