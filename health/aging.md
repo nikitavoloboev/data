@@ -57,3 +57,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Cellular Aging Reversed in Mouse Eyes- Interview with Dr. Yuancheng Lu (2021)](https://www.youtube.com/watch?v=TAA6qdWBuf8)
 - [Maxim Orlovsky - A Proper Path to Digital Immortality (2019)](https://www.youtube.com/watch?v=ztG8QNSgxlA&t=211s)
 - [The Effects of Longer Lifespans (2021)](https://www.youtube.com/watch?v=DUVfyGEab0M)
+- [Longevity Investing Resources (2021)](https://www.reddit.com/r/longevity/comments/mwt2oy/longevity_investing_resources/)

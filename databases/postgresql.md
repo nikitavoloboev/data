@@ -249,3 +249,4 @@
 - [pganalyze collector](https://github.com/pganalyze/collector) - Go-based daemon which collects various information about Postgres databases as well as queries run on it.
 - [Working with PostgreSQL (2021)](https://zerodha.tech/blog/working-with-postgresql/)
 - [Pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres. ([HN](https://news.ycombinator.com/item?id=26903105))
+- [PgCookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project.

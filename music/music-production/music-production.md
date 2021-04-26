@@ -193,3 +193,4 @@
 - [A top audio engineer explains NPR’s signature sound (2015)](https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/) ([HN](https://news.ycombinator.com/item?id=26832636))
 - [Digital Audio 101: Playing Audio from a Microcontroller (2021)](https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c) ([HN](https://news.ycombinator.com/item?id=26820648))
 - [Short Introduction To MIDI](https://mido.readthedocs.io/en/latest/about_midi.html)
+- [DataLooper](https://www.datalooperpedal.com/) - Ultimate Ableton Foot Controller.

@@ -260,3 +260,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Clean Up the Web](https://cleanuptheweb.org/) - Help rid the web of privacy-invading tracking. ([Code](https://github.com/small-tech/cleanuptheweb.org))
 - [Relate](https://relate.app/) - Open platform to create for the web.
 - [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/) - Book about the fundamentals of creating a good web interface.
+- [Paid in Full: an internet where every interaction is a financial transaction (2021)](https://reallifemag.com/paid-in-full/) ([HN](https://news.ycombinator.com/item?id=26935057))

@@ -381,3 +381,4 @@
 - [First-Class I/O (2021)](https://blog.sunfishcode.online/first-class-io/) ([HN](https://news.ycombinator.com/item?id=26768606))
 - [Running code within another process's address space (2021)](https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/) ([HN](https://news.ycombinator.com/item?id=26899118))
 - [You might as well timestamp it (2021)](https://changelog.com/posts/you-might-as-well-timestamp-it) ([HN](https://news.ycombinator.com/item?id=26922759))
+- [Ask HN: What diagrams do you use in software development? (2021)](https://news.ycombinator.com/item?id=26940593)
