@@ -333,3 +333,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Mem](https://get.mem.ai/) - Capture and access information from anywhere. Simple as Apple Notes — powered by a collaborative graph database.
 - [Building a Memex](https://github.com/adri/memex) - Search of my personal data.
 - [Ask HN: How do you organize your knowledge? (2021)](https://news.ycombinator.com/item?id=26935838)
+- [Reflect](https://reflect.app/) - Keep track of your notes, books, and meetings.
