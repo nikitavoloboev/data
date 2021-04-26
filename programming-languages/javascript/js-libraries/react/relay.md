@@ -23,3 +23,4 @@
 - [Relay.swift](https://github.com/relay-tools/Relay.swift) - Relay GraphQL framework, ported to Swift and SwiftUI. ([Docs](https://www.notion.so/Relay-swift-e6e1c35b170a4149940ff9c18c0b6875))
 - [relay-nextjs](https://github.com/RevereCRE/relay-nextjs) - Wraps page components, a GraphQL query, and some helper methods to automatically hook up data fetching using Relay.
 - [Awesome Relay](https://github.com/expede/awesome-relay)
+- [fgs](https://github.com/maraisr/fgs) - Fetch GraphQL Schema from a GraphQL HTTP Endpoint from grphql-config that is Relay (rust) aware.

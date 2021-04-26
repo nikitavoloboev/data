@@ -91,3 +91,4 @@
 - [Credo](https://github.com/rrrene/credo) - Static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 - [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
 - [Running Dialyzer for Elixir Projects in GitHub Actions](https://gist.github.com/Stratus3D/90c6c42bfdb4d3d144e9beda33bce46e)
+- [Killer Elixir Tips](https://github.com/blackode/elixir-tips) ([Web](https://elixir-tips.blackode.in/))

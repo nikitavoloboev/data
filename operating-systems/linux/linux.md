@@ -296,3 +296,4 @@
 - [I Implemented /dev/printerfact in Rust (2021)](https://christine.website/blog/dev-printerfact-2021-04-17) ([Lobsters](https://lobste.rs/s/n5trnx/how_i_implemented_dev_printerfact_rust)) ([HN](https://news.ycombinator.com/item?id=26845355))
 - [Kernel Recipes 2017 - Perf in Netflix - Brendan Gregg](https://www.youtube.com/watch?v=UVM3WX8Lq2k)
 - [How Linux Works Book](https://nostarch.com/howlinuxworks3)
+- [Awesome Wayland](https://github.com/natpen/awesome-wayland)
