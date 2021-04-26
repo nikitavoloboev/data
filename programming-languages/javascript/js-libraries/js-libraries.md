@@ -502,6 +502,7 @@
 - [party.js](https://github.com/YilianSource/party-js) - JavaScript library to brighten up your user's site experience with visual effects.
 - [Scule](https://github.com/unjs/scule) - String case utils.
 - [Nano Events](https://github.com/ai/nanoevents) - Simple and tiny event emitter library for JavaScript.
+- [stoplight/yaml](https://github.com/stoplightio/yaml) - Useful functions when working with YAML.
 
 ## Links
 

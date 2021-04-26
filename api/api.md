@@ -209,3 +209,4 @@
 - [HN: Google’s copying of the Java SE API was fair use (2021)](https://news.ycombinator.com/item?id=26699106)
 - [Using Postman and APIMatic to Document APIs and Generate Client Libraries (2021)](https://blog.apimatic.io/curating-postman-collections-to-generate-quality-api-documentation-sdks-9bafc2a901fc)
 - [Read from databases, write to APIs (2021)](https://acco.io/read-from-dbs) ([Lobsters](https://lobste.rs/s/lyeekg/read_from_databases_write_apis))
+- [Stoplight Elements](https://stoplight.io/open-source/elements/) - Beautiful API documentation powered by OpenAPI and Markdown. ([Code](https://github.com/stoplightio/elements))

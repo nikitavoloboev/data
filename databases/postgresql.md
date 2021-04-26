@@ -251,3 +251,4 @@
 - [Pgvector](https://github.com/ankane/pgvector) - Open-source vector similarity search for Postgres. ([HN](https://news.ycombinator.com/item?id=26903105))
 - [PgCookbook](https://github.com/grayhemp/pgcookbook) - PostgreSQL documentation project.
 - [pg_tmp](http://eradman.com/ephemeralpg/) - Run tests on an isolated, temporary PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=26947964))
+- [IntegreSQL](https://github.com/allaboutapps/integresql) - Manages isolated PostgreSQL databases for your integration tests.

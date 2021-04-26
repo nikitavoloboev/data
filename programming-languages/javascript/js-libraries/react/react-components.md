@@ -169,6 +169,7 @@
 - [Reactjs-popup](https://github.com/yjose/reactjs-popup) - React Popup Component - Modals, Tooltips and Menus. All in one.
 - [use-click-outside](https://github.com/ElForastero/use-click-outside) - React hook to detect clicks outside of the components. With shadow DOM support.
 - [Playground](https://github.com/agneym/playground) - HTML, CSS and JS demonstration component that runs entirely in the browser and does not require loading any third party sites.
+- [JSON Schema Viewer](https://github.com/stoplightio/json-schema-viewer)
 
 ## Links
 

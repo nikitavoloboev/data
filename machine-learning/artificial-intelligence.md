@@ -71,3 +71,4 @@
 - [From Zero to AI Research Scientist full resources guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 - [Francois Chollet - Intelligence and Generalization (2021)](https://www.youtube.com/watch?v=J0p_thJJnoo)
 - [Your Favorite AI Podcasts / Blogs / Newsletters / YouTube Channels? (2021)](https://www.reddit.com/r/MachineLearning/comments/mwwftu/d_your_favorite_ai_podcasts_blogs_newsletters/)
+- [We were promised Strong AI, but instead we got metadata analysis (2021)](https://calpaterson.com/metadata.html) ([HN](https://news.ycombinator.com/item?id=26941332))
