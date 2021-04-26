@@ -89,3 +89,4 @@
 - [RARS](https://github.com/TheThirdOne/rars) - RISC-V Assembler and Runtime Simulator.
 - [RustSBI](https://github.com/luojia65/rustsbi) - RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
 - [Spike RISC-V ISA Simulator](https://github.com/riscv/riscv-isa-sim)
+- [Examples of RISC-V Assembly Programs](https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/) ([HN](https://news.ycombinator.com/item?id=26946993))

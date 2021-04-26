@@ -213,3 +213,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The Distributed Operating System Void with Kubernetes (2021)](https://nivenly.com/lib/2021-04-02-operating-system-interface/) ([Reddit](https://www.reddit.com/r/kubernetes/comments/miw0og/the_distributed_operating_system_void_with/))
 - [Microkernel.info](http://www.microkernel.info/) - List of active free, open source microkernel projects.
 - [Fish in a Barrel: an insider’s retrospective of the SOSP’09 multikernel paper (2021)](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/)
+- [QEMU internals](https://airbus-seclab.github.io/qemu_blog/) ([Code](https://github.com/airbus-seclab/qemu_blog)) ([HN](https://news.ycombinator.com/item?id=26941744))
