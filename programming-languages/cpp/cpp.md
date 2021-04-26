@@ -55,7 +55,7 @@
 - [CppCon 2019: Saar Raz “C++20 Concepts: A Day in the Life”](https://www.youtube.com/watch?v=qawSiMIXtE4)
 - [Chandler Carruth - Programming Language Design for Performance Critical Software (2019)](https://www.youtube.com/watch?v=_prA_EmoBe4)
 - [C++ programming: From problem analysis to program design](http://index-of.co.uk/Programming/C++%20Programming%20From%20Problem%20Analysis%20to%20Program%20Design%20-%20D.%20S.%20Malik%20-%202011.pdf)
-- [C++ Insights](https://cppinsights.io/) - See your source code with the eyes of a compiler. ([Code](https://github.com/andreasfertig/cppinsights))
+- [C++ Insights](https://cppinsights.io/) - See your source code with the eyes of a compiler. ([Code](https://github.com/andreasfertig/cppinsights)) ([About](https://cppinsights.io/about.html))
 - [ThreadPool](https://github.com/progschj/ThreadPool) - Simple C++11 Thread Pool implementation. ([HN](https://news.ycombinator.com/item?id=22001711))
 - [What do you mean by "cache friendly"? - Björn Fahller (2019)](https://www.youtube.com/watch?v=Fzbotzi1gYs)
 - [C++ papers JTC1/SC22/WG21 (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/)

@@ -109,3 +109,4 @@
 - [Don’t we all just want to use SQL on the front end? (2021)](https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146) ([HN](https://news.ycombinator.com/item?id=26822884))
 - [TinySQL](https://github.com/tidb-incubator/tinysql) - Course designed to teach you how to implement a distributed relational database in Go.
 - [Ask HN: Is there a way to efficiently subscribe to an SQL query for changes? (2021)](https://news.ycombinator.com/item?id=26901352)
+- [Practical SQL for Data Analysis: What you can do without Pandas (2021)](https://hakibenita.com/sql-for-data-analysis)
