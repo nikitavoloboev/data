@@ -88,3 +88,4 @@
 - [Our Journey to ARM | PSPDFKit (2021)](https://pspdfkit.com/blog/2021/our-journey-to-arm/)
 - [Understanding modern state-of-the-art branch predictor (2021)](https://twitter.com/halvarflake/status/1381567750733238272)
 - [Application Binary Interface for the Arm Architecture](https://github.com/ARM-software/abi-aa)
+- [A CPU With Just One Instruction (2019)](https://www.youtube.com/watch?v=jRZDnetjGuo)
