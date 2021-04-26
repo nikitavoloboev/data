@@ -38,3 +38,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Near Death Experience Research Foundation](https://www.nderf.org/)
 - [The Leading Causes of Death in the US for 2020](https://jamanetwork.com/journals/jama/fullarticle/2778234)
 - [Empathy](https://www.empathy.com/) - Helping people navigate the journey after losing a loved one.
+- [How do you cope with knowing you will die someday?](https://twitter.com/hippieforlife11/status/1386400906388725760)

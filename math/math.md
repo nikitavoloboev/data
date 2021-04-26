@@ -259,3 +259,4 @@
 - [Oliver Heaviside (1850-1925) – Physical Mathematician (1983)](https://sci-hub.se/10.1093/teamat/2.2.55) ([HN](https://news.ycombinator.com/item?id=26751222))
 - [Galois Theory (2021)](https://www.maths.ed.ac.uk/~tl/gt/gt.pdf)
 - [Useful inequalities cheat sheet](http://www.lkozma.net/inequalities_cheat_sheet/ineq.pdf)
+- [The Two Cultures of Mathematics (2000)](https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf) ([HN](https://news.ycombinator.com/item?id=26939292))

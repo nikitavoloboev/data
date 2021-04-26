@@ -125,3 +125,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Bitte](https://github.com/input-output-hk/bitte) - Nix Ops for Terraform, Consul, Vault, Nomad.
 - [nixos-up](https://github.com/samuela/nixos-up) - Fastest NixOS install there is.
 - [Declarative Docker Container Service in NixOS (2020)](https://www.breakds.org/post/declarative-docker-in-nixos/)
+- [Using Morph for Deploying to NixOS (2021)](https://christine.website/blog/morph-setup-2021-04-25)

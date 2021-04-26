@@ -203,3 +203,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum.org Code](https://github.com/ethereum/ethereum-org-website)
 - [hive](https://github.com/ethereum/hive) - Ethereum end-to-end test harness.
 - [Dharma](https://www.dharma.io/) - Ethereum wallet that connects to your bank account.
+- [Alchemy](https://www.alchemyapi.io/) - Blockchain Developer Platform and Node Service for Ethereum & Crypto.com. ([Tweet](https://twitter.com/spakhm/status/1386457314194956290))
+- [Zora Docs](https://zora.engineering/zdk/reference/zora)
