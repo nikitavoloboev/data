@@ -2,6 +2,10 @@
 
 > Production-ready open-source web server that is fast, easy to use, and makes you more productive.
 
+## Notes
+
+- [Get SSL and subdomains setup for localhost using Caddy Server](https://twitter.com/HunterBecton/status/1386762000387088385)
+
 ## Links
 
 - [Caddy code](https://github.com/mholt/caddy)
