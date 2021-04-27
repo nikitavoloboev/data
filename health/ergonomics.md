@@ -30,6 +30,7 @@
 - [Has nice lights](https://twitter.com/robhawkes/status/1317457111241162758)
 - [OnlySetups](https://onlysetups.vercel.app/) - Easily view workstations and gaming setups from Reddit.
 - [My Productivity Desk Setup (2021)](https://www.youtube.com/watch?v=5791L8VEHZw)
+- [Show your home office setup (2021)](https://twitter.com/nikitonsky/status/1387052880465522693)
 
 ## Links
 

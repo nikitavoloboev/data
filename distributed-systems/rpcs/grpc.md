@@ -45,4 +45,4 @@
 - [gun](https://github.com/Qv2ray/gun) - Toy gRPC Tunnel over CloudFlare.
 - [gRPC Is Easy to Misconfigure (2021)](https://www.evanjones.ca/grpc-is-tricky.html) ([HN](https://news.ycombinator.com/item?id=26462438))
 - [gRPC RFCs](https://github.com/grpc/proposal)
-- [DRPC](https://github.com/storj/drpc/) - Drop-in, lightweight gRPC replacement. ([Web](https://storj.github.io/drpc/)) ([Article](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc))
+- [DRPC](https://github.com/storj/drpc/) - Drop-in, lightweight gRPC replacement. ([Web](https://storj.github.io/drpc/)) ([Article](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc)) ([Reddit](https://www.reddit.com/r/golang/comments/mznppb/introducing_drpc_the_storj_replacement_for_grpc/))

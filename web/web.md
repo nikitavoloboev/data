@@ -262,3 +262,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/) - Book about the fundamentals of creating a good web interface.
 - [Paid in Full: an internet where every interaction is a financial transaction (2021)](https://reallifemag.com/paid-in-full/) ([HN](https://news.ycombinator.com/item?id=26935057))
 - [vite-plugin-compress](https://github.com/alloc/vite-plugin-compress) - Compress your bundle + assets from Vite.
+- [IndieWebify.Me](https://indiewebify.me/) - Guide to getting you on the IndieWeb.

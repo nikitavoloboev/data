@@ -24,6 +24,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Every high performer is fundamentally relaxed, and practices minimal use of effort to get a given result. Don't try harder: eliminate tensions.](https://twitter.com/sanityinc/status/1309974689268129792)
 - [Simply doodling on a Synth and enjoying the sounds, playing an instrument without trying to make a song, can be very relaxing and satisfying. Especially when you are a beginner at it. Otherwise you might be trying too hard to create something meaningful, destroying the pleasure in the process. So my advice would be not to attempt to create, but to simply indulge in the act and enjoy the flow.](https://news.ycombinator.com/item?id=24743944)
 - [When a person fails to begin a project that they care about, it’s typically due to either a) anxiety about their attempts not being ‘good enough’ or b) confusion about what the first steps of the task are. Not laziness.](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01)
+- [Working on anything nontrivial requires you to kind of take a deep breath and dive into the space for awhile.](https://twitter.com/peterbourgon/status/1387098683485868040)
 
 ## Links
 
