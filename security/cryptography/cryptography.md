@@ -64,6 +64,7 @@
 - [How To Learn Cryptography as a Programmer (2020)](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
 - [Cifra](https://github.com/ctz/cifra) - Collection of cryptographic primitives targeted at embedded use.
 - [sjcl](http://bitwiseshiftleft.github.io/sjcl/) - Stanford Javascript Crypto Library. ([Web](http://bitwiseshiftleft.github.io/sjcl/)) ([HN](https://news.ycombinator.com/item?id=23524662))
+- [Sodium](https://github.com/jedisct1/libsodium) - Modern, easy-to-use software library for encryption, decryption, signatures, password hashing and more. ([Docs](https://doc.libsodium.org/))
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - Sodium crypto library compiled to WebAssembly and pure JavaScript using Emscripten, with automatically generated wrappers to make it easy to use in web applications.
 - [Finite Fields (2020)](https://btcclj.com/posts-output/2020-04-21-finite-fields/) ([Lobsters](https://lobste.rs/s/tuawd2/finite_fields))
 - [Really low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)

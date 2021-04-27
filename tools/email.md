@@ -12,6 +12,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [If you know someone is very busy, occupied, focused on other things, the best way to get a chance at a piece of their time is with a very short email, not a very long one.](https://twitter.com/jasonfried/status/1273364620187762688)
 - [The only two laws for writing any email: 1. Be Valuable 2. Be Interesting](https://www.linkedin.com/pulse/only-two-laws-writing-any-email-henry-taylor/)
 - After meetings, its great to send a list of actionable items for all those involved as a summary.
+- [If you want to avoid 95% of promo spam in your inbox, just set up a Gmail filter that moves any email with the word "Unsubscribe" into a separate folder.](https://twitter.com/Julian/status/1387159799503065090)
 
 ## Links
 

@@ -503,6 +503,7 @@
 - [Scule](https://github.com/unjs/scule) - String case utils.
 - [Nano Events](https://github.com/ai/nanoevents) - Simple and tiny event emitter library for JavaScript.
 - [stoplight/yaml](https://github.com/stoplightio/yaml) - Useful functions when working with YAML.
+- [Safe Await](https://github.com/DavidWells/safe-await) - Safely use async/await without all the try catch blocks.
 
 ## Links
 
