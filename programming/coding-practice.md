@@ -21,6 +21,7 @@
 - [Synacor Challenge](https://challenge.synacor.com/)
 - [Online Judge](https://onlinejudge.org/) ([Code](https://github.com/TheOnlineJudge/ojudge))
 - [Edabit](https://edabit.com/) - Interactive coding challenges.
+- [DMOJ](https://dmoj.ca/) - Modern Online Judge. ([Code](https://github.com/DMOJ/online-judge))
 
 ## LeetCode solutions
 

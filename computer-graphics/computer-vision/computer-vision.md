@@ -274,3 +274,4 @@
 - [Vizy](https://vizycam.com/) - AI Camera.
 - [MMPX Style-Preserving Pixel Art Magnification (2021)](https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf) ([HN](https://news.ycombinator.com/item?id=26934973))
 - [Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://hkchengrex.github.io/MiVOS/) ([Code](https://github.com/hkchengrex/Scribble-to-Mask))
+- [SuperPoint: Self-Supervised Interest Point Detection and Description (2018)](https://arxiv.org/abs/1712.07629) ([Code](https://github.com/eric-yyjau/pytorch-superpoint))

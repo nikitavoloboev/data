@@ -214,4 +214,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Microkernel.info](http://www.microkernel.info/) - List of active free, open source microkernel projects.
 - [Fish in a Barrel: an insider’s retrospective of the SOSP’09 multikernel paper (2021)](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/)
 - [QEMU internals](https://airbus-seclab.github.io/qemu_blog/) ([Code](https://github.com/airbus-seclab/qemu_blog)) ([HN](https://news.ycombinator.com/item?id=26941744))
-- [Unikraft: Fast, Specialized Unikernels the Easy Way (2021)](https://arxiv.org/abs/2104.12721)
+- [Unikraft: Fast, Specialized Unikernels the Easy Way (2021)](https://arxiv.org/abs/2104.12721) ([HN](https://news.ycombinator.com/item?id=26954547))

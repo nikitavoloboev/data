@@ -73,3 +73,4 @@
 - [LoRaWAN library for compatible Arduino board](https://github.com/BeelanMX/Beelan-LoRaWAN)
 - [Raspberry Pi Pico: The R2040 meets LoRaWAN (2021)](https://lemariva.com/blog/2021/02/raspberry-pi-pico-rp2040-meets-lorawan)
 - [The Things Stack Introduction - Bogdans Afonins (2021)](https://www.youtube.com/watch?v=rK8oJHZ9Q7U)
+- [IP2LoRa](https://github.com/airbus-cyber/IP2LoRa) - IP tunnelling over LoRa.

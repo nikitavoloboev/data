@@ -41,3 +41,4 @@
 - [Feature Stores: The Data Side of ML Pipelines (2021)](https://medium.com/riselab/feature-stores-the-data-side-of-ml-pipelines-7083d69bff1c)
 - [Flowgger](https://github.com/awslabs/flowgger) - Fast, simple and lightweight data collector written in Rust.
 - [Popsink](https://app.popsink.dev/) - Real-time data platform you don't have to build.
+- [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/))
