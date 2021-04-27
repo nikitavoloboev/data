@@ -229,3 +229,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Start building your own private network on Cloudflare today (2021)](https://blog.cloudflare.com/build-your-own-private-network-on-cloudflare/)
 - [sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner.
 - [Awesome Internet Scanning](https://github.com/paralax/awesome-internet-scanning)
+- [Termshark](https://github.com/gcla/termshark) - Terminal UI for tshark, inspired by Wireshark.

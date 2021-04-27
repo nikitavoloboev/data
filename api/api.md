@@ -96,6 +96,7 @@
 - [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) - Instagram Private API Swift.
 - [Instagram Private API in Python](https://github.com/ping/instagram_private_api)
 - [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
+- [Swiftagram](https://github.com/sbertix/Swiftagram) - Modern Swift wrapper for Instagram Private API.
 - [Instagram Private Web API client](https://github.com/jlobos/instagram-web-api)
 - [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Fastly Go](https://github.com/fastly/go-fastly)
