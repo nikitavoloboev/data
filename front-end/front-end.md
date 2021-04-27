@@ -47,3 +47,4 @@
 - [Front-End Developer Learning Roadmap](https://frontendmasters.com/guides/learning-roadmap/)
 - [A Complete Guide To Accessible Front-End Components (2021)](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)
 - [I can only think that modern front end development has failed (2021)](https://twitter.com/antirez/status/1378272801522597888) ([HN](https://news.ycombinator.com/item?id=26689239))
+- [Paperclip](https://github.com/crcn/paperclip) - Build UIs at the speed of thought. ([Web](https://paperclip.dev/))

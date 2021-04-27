@@ -115,3 +115,4 @@
 - [Finding a "killer application" for novel biotech: AveXis case study (2020)](https://www.youtube.com/watch?v=n5QyDGhJQSI) ([Tweet](https://twitter.com/paraschopra/status/1381947695980453889))
 - [BioModels](https://www.ebi.ac.uk/biomodels/) - Vast repository of mathematical models of biological and biomedical systems.
 - [noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust.
+- [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy.

@@ -225,3 +225,4 @@
 - [jsx-dom](https://github.com/proteriax/jsx-dom) - Use JSX to create DOM elements.
 - [Issues with using React to build web apps (2021)](https://twitter.com/hbuchel/status/1379117623930064897)
 - [React Suspense is Killing Me (2021)](https://blog.6nok.org/the-suspense-is-killing-me:-part-1/)
+- [jsx-runtime](https://github.com/itsjavi/jsx-runtime) - Extremely lightweight JSX runtime (<2KB) to write JSX without React in TypeScript or JavaScript.

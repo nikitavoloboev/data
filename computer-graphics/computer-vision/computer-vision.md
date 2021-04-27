@@ -276,3 +276,4 @@
 - [Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://hkchengrex.github.io/MiVOS/) ([Code](https://github.com/hkchengrex/Scribble-to-Mask))
 - [SuperPoint: Self-Supervised Interest Point Detection and Description (2018)](https://arxiv.org/abs/1712.07629) ([Code](https://github.com/eric-yyjau/pytorch-superpoint))
 - [Multi-Stage Progressive Image Restoration (2021)](https://arxiv.org/abs/2102.02808) ([Code](https://github.com/swz30/MPRNet))
+- [COLMAP](https://github.com/colmap/colmap) - General-purpose Structure-from-Motion (SfM) and Multi-View Stereo (MVS) pipeline with a graphical and command-line interface. ([Docs](https://colmap.github.io/))
