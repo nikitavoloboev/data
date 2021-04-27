@@ -124,3 +124,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Возвращение в Россию из Европы (2020)](https://nesiditsa.ru/forum/vozvrashhenie-v-rossiyu-iz-evropy)
 - [Как устроена психология чекиста? (2021)](https://www.youtube.com/watch?v=-smbWcUt62w)
 - [Фиаско. Беседа с Юрием Швецом (2021)](https://www.youtube.com/watch?v=SvcliCCyahE)
+- [Андрей Ситник — Реальная изнанка Википедии, войны фракций и политика для технарей (2021)](https://www.youtube.com/watch?v=AudsAM6CKXs)

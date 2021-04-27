@@ -169,7 +169,7 @@
 - [What do you use to handle state with React? (2020)](https://twitter.com/rachelnabors/status/1306563902436716545)
 - [New JSX Transform (2020)](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) ([HN](https://news.ycombinator.com/item?id=24555415))
 - [My State Management Mistake (2020)](https://epicreact.dev/my-state-management-mistake/)
-- [Epic React course](https://epicreact.dev/) ([Code](https://github.com/topics/epicreact-dev)) ([Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns)) ([React Performance](https://github.com/kentcdodds/react-performance)) ([Notes](https://github.com/AndreaBarghigiani/EpicReactNotes)) ([Things learned](https://twitter.com/ivanortegaalba/status/1370672717045858305))
+- [Epic React course](https://epicreact.dev/) ([Code](https://github.com/topics/epicreact-dev)) ([Advanced React Patterns](https://github.com/kentcdodds/advanced-react-patterns)) ([React Performance](https://github.com/kentcdodds/react-performance)) ([Notes](https://github.com/AndreaBarghigiani/EpicReactNotes)) ([Things learned](https://twitter.com/ivanortegaalba/status/1370672717045858305)) ([Tips and Tricks](https://twitter.com/MakadiaHarsh/status/1386704779477360641))
 - [react-performance-testing](https://github.com/keiya01/react-performance-testing) - Library to test runtime performance in React.
 - [Developing React Global State Library With Atom Abstraction (2020)](https://blog.axlight.com/posts/developing-react-global-state-library-with-atom-abstraction/)
 - [How to Measure Performance in JavaScript Applications (2020)](https://blog.asayer.io/how-to-measure-performance-in-javascript-applications)

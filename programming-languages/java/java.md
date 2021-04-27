@@ -56,3 +56,4 @@
 - [Java Is Underhyped (2021)](https://jackson.sh/posts/2021-04-java-underrated/) ([HN](https://news.ycombinator.com/item?id=26827766))
 - [Multi-Tier Compilation in GraalVM (2021)](https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402)
 - [JDK](https://github.com/openjdk/jdk) - Open-source reference implementations of Java. ([Web](https://openjdk.java.net/projects/jdk/)) ([GitHub](https://github.com/openjdk))
+- [Java: Automated API Testing with REST Assured (2021)](https://www.linkedin.com/learning/java-automated-api-testing-with-rest-assured)

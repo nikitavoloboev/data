@@ -138,6 +138,7 @@ And these Discord servers:
 - [Abakcus](https://abakcus.com/) - Collection of the Best Mathematics and Science Stuff.
 - [Vulture](https://www.vulture.com/) - Entertainment News.
 - [Longreads](https://longreads.com/)
+- [The Markup](https://themarkup.org/)
 
 ### Other
 

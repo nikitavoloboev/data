@@ -82,6 +82,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Orga](https://github.com/nomic-io/orga) - Stack for building blockchain applications powered by Tendermint consensus.
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk) - Framework for building blockchain applications in Golang.
 - [Gaia](https://github.com/cosmos/gaia) - Implementation of Cosmos Hub, built using the Cosmos SDK.
+- [OpenZeppelin](https://openzeppelin.com/) - Standard for secure blockchain applications. ([Tweet](https://twitter.com/spakhm/status/1386933188652503040))
 - [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - Library for secure smart contract development.
 - [A Philosophy of Blockchain Validation (2020)](https://vitalik.ca/general/2020/08/17/philosophy.html)
 - [Blockchain, the Solution for Almost Nothing](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86649455475-f933fe63) ([HN](https://news.ycombinator.com/item?id=24249477)) ([Lobsters](https://lobste.rs/s/2kmkou/blockchain_amazing_solution_for_almost))
