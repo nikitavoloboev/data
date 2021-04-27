@@ -145,3 +145,4 @@
 - [SwiftUI In Production (2021)](https://pspdfkit.com/blog/2021/swiftui-in-production/)
 - [SwiftUISparkleTestApp](https://github.com/tillhainbach/SwiftUISparkleTestApp) - Sample Project for using Sparkle and SwiftUI.
 - [What is not so great about SwiftUI (2020)](https://tclementdev.com/posts/what_is_not_so_great_about_swiftui.html)
+- [Building a Document-Based App with SwiftUI](https://developer.apple.com/documentation/swiftui/building_a_document-based_app_with_swiftui)
