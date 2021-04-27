@@ -13,6 +13,7 @@ And here are Chrome extensions I use:
 ## Notes
 
 - [CMD+SHIFT+A = search open Chrome tabs](https://twitter.com/_developit/status/1372320008701947905)
+- [chrome://settings/content/notifications to turn off notifications from websites](https://twitter.com/stephhippo/status/1386761846472859648)
 
 ## Links
 

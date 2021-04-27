@@ -59,6 +59,7 @@
 - [refined](https://github.com/fthomas/refined) - Simple refinement types for Scala.
 - [uPickle](https://github.com/com-lihaoyi/upickle) - Simple Scala JSON and Binary (MessagePack) serialization library.
 - [LaCasa](https://github.com/phaller/lacasa) - Lightweight affine types and object capabilities in Scala.
+- [Spotted Leopards](https://github.com/typelevel/spotted-leopards) - Proof of concept for a cats-like library built using Dotty features.
 
 ## Links
 
