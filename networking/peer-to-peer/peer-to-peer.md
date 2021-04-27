@@ -76,3 +76,6 @@
 - [Bittensor](https://github.com/opentensor/bittensor) - p2p-market which rewards the production of machine intelligence with a digital token called Tao.
 - [Introduction to libp2p](https://proto.school/introduction-to-libp2p)
 - [libp2p tutorial: Build a peer-to-peer app in Rust (2020)](https://blog.logrocket.com/libp2p-tutorial-build-a-peer-to-peer-app-in-rust/)
+- [Chamomile](https://github.com/cypherlink/chamomile) - Build a robust stable connection on p2p network.
+- [CypherLink](https://cypherlink.io/) - Building a new distributed security network. ([GitHub](https://github.com/cypherlink))
+- [TDN](https://github.com/cypherlink/TDN) - Trusted Distributed Network. (Also micro-framework for building blockchain-like DApp).
