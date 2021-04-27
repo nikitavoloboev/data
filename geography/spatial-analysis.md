@@ -62,3 +62,4 @@
 - [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index) - Spatial Extension to SQLite. ([HN](https://news.ycombinator.com/item?id=26685156))
 - [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926))
 - [A new way to make maps with OpenStreetMap (2021)](https://protomaps.com/blog/new-way-to-make-maps/) ([HN](https://news.ycombinator.com/item?id=26918259))
+- [Tegola](https://github.com/go-spatial/tegola) - Mapbox Vector Tile server written in Go. ([Web](https://tegola.io/))

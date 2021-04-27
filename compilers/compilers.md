@@ -154,3 +154,4 @@
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
 - [The Golden Age of Compiler Design in an Era of HW/SW Co-Design – Chris Lattner (2021)](https://www.youtube.com/watch?v=4HgShra-KnY) ([HN](https://news.ycombinator.com/item?id=26886427))
 - [Phism: Polyhedral High-Level Synthesis in MLIR (2021)](https://arxiv.org/abs/2103.15103)
+- [Gibbon](https://github.com/iu-parfunc/gibbon) - Compiler for functional programs on serialized data. ([Web](http://iu-parfunc.github.io/gibbon/))
