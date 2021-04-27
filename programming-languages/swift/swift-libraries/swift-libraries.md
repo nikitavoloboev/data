@@ -286,6 +286,7 @@
 - [Stacks](https://github.com/kean/Stacks) - UIStackView convenience APIs inspired by SwiftUI.
 - [WrappingHStack](https://github.com/dkk/WrappingHStack) - SwiftUI HStack with the ability to wrap contained elements.
 - [Liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
+- [AQUI](https://github.com/AlanQuatermain/AQUI) - Collection of SwiftUI views and utilities.
 
 ## Test
 
