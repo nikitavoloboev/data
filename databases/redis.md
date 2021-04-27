@@ -58,3 +58,4 @@
 - [Redis clone in TypeScript (2020)](https://kubej.com/redis-clone-in-typescript/)
 - [Redis Input/Output Tools (RIOT)](https://github.com/redis-developer/riot) - Series of utilities designed to help you get data in and out of Redis.
 - [How much faster is Redis at storing a blob of JSON compared to PostgreSQL? (2019)](https://www.peterbe.com/plog/redis-vs-postgres-blob-of-json) ([HN](https://news.ycombinator.com/item?id=26850639))
+- [RedisGraph](https://github.com/RedisGraph/RedisGraph) - Graph database module for Redis. ([Docs](https://oss.redislabs.com/redisgraph/))

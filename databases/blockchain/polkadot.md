@@ -35,3 +35,5 @@
 - [Substrate Developer Hub](https://substrate.dev/) - Substrate Documentation for Blockchain Developers.
 - [Subport](https://github.com/paritytech/subport) - Parity Substrate(-based) chains usage and development support.
 - [Parity Bridges Common](https://github.com/paritytech/parity-bridges-common) - Collection of components for building bridges.
+- [HydraDX node](https://github.com/galacticcouncil/HydraDX-node) - Cross-chain liquidity protocol built on Substrate. ([Web](https://hydradx.io/))
+- [Substrate Node Template](https://github.com/substrate-developer-hub/substrate-node-template) - New FRAME-based Substrate node, ready for hacking.
