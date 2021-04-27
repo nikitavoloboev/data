@@ -21,3 +21,4 @@
 - [GPT-3, Esq? Evaluating AI Legal Summaries](http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf) ([HN](https://news.ycombinator.com/item?id=26183114))
 - [Templating for Lawyers (2021)](https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html) ([HN](https://news.ycombinator.com/item?id=26448618))
 - [Terms & Privacy - Every](https://every.to/legal) - Written in plain language by lawyer.
+- [Types of Legal Argument (2021)](https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html) ([HN](https://news.ycombinator.com/item?id=26952429))

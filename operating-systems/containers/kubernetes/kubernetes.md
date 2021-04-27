@@ -370,3 +370,4 @@
 - [Scaling Kubernetes with Assurance at Pinterest (2021)](https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da)
 - [Admission Control](https://github.com/elithrar/admission-control) - Helpful micro-framework for writing Kubernetes Admission Controllers.
 - [DirectCSI](https://github.com/minio/direct-csi) - Container Storage Interface (CSI) driver for direct attached storage.
+- [Karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration. ([HN](https://news.ycombinator.com/item?id=26951940))
