@@ -3,6 +3,7 @@
 ## Nice pricing pages
 
 - [Monica](https://www.monicahq.com/pricing)
+- [Splitbee](https://splitbee.io/pricing)
 
 ## Notes
 

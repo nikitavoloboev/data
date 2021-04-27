@@ -449,3 +449,4 @@
 - [Stanford Machine Learning with Graphs Course (2021)](http://web.stanford.edu/class/cs224w/)
 - [Keepsake](https://github.com/replicate/keepsake) - Version control for machine learning. ([Web](https://keepsake.ai/))
 - [Learning Versatile Neural Architectures by Propagating Network Codes](https://github.com/dingmyu/NCP)
+- [Machine learning is going real-time (2020)](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)

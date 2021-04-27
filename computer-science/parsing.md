@@ -54,3 +54,4 @@
 - [Ohm](https://ohmlang.github.io/) - Parser generator consisting of a library and a domain-specific language. ([Code](https://github.com/harc/ohm)) ([HN](https://news.ycombinator.com/item?id=26603393))
 - [Pika parsing: reformulating packrat parsing as a dynamic programming algorithm solves the left recursion and error recovery problems (2020)](https://arxiv.org/pdf/2005.06444.pdf)
 - [Sparser](https://github.com/Unibeautify/sparser) - Framework of various language parsers. ([Web](https://sparser.io/))
+- [Parsers all the way down: writing a self-hosting parser (2021)](https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html)
