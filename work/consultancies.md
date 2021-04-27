@@ -182,6 +182,10 @@
 - [Trail of Bits](https://www.trailofbits.com/) ([GitHub](https://github.com/trailofbits))
 - [Test Double](https://testdouble.com/) - Agency Improving the World's Software.
 
+## Notes
+
+- [The "expert path" is valid. Become an expert in something and learn to sell that expertise. The reward? No upper limit on your rates.](https://twitter.com/aeduhm/status/1387054427010486272)
+
 ## Links
 
 - [How to Find Consulting Clients (2019)](https://chrisachard.com/how-to-find-consulting-clients) ([HN](https://news.ycombinator.com/item?id=21473265))
