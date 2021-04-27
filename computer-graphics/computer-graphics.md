@@ -142,3 +142,4 @@
 - [Understanding and Extending Neural Radiance Fields (Jonathan T. Barron) (2020)](https://www.youtube.com/watch?v=nRyOzHpcr4Q)
 - [Rendering large 3D tilemaps with a single draw call at 3000 FPS (2021)](https://blog.paavo.me/gpu-tilemap-rendering/)
 - [Example-based texture synthesis written in Rust](https://github.com/EmbarkStudios/texture-synthesis)
+- [A Pixel Is Not a Little Square (1995)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)

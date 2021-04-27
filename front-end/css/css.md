@@ -298,3 +298,5 @@
 - [Transition.css](https://www.transition.style/) - Easy transitions with clip-path. ([Code](https://github.com/argyleink/transition.css))
 - [Shortstack](https://github.com/argyleink/shortstack) - Minimal Rollup + PostCSS modern syntax starter template.
 - [CSS Tips (2020)](https://markodenic.com/css-tips/) ([HN](https://news.ycombinator.com/item?id=26945263))
+- [CSS Container Query Proposal & Explainer](https://css.oddbird.net/rwd/query/explainer/)
+- [CQFill](https://github.com/jsxtools/cqfill) - Polyfill for CSS Container Queries.
