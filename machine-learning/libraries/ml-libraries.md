@@ -134,3 +134,4 @@
 - [Hedgehog](https://github.com/MaxHalford/hedgehog) - Bayesian networks in Python.
 - [Backdoors 101](https://github.com/ebagdasa/backdoors101) - PyTorch framework for state-of-the-art backdoor defenses and attacks on deep learning models.
 - [Sabertooth](https://github.com/nikitakit/sabertooth) - Standalone pre-training recipe with JAX+Flax.
+- [ProbFlow](https://github.com/brendanhasz/probflow) - Python package for building Bayesian models with TensorFlow or PyTorch.

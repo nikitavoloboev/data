@@ -169,3 +169,5 @@
 - [Data Science Learning Resources](https://github.com/rebecca-vickery/data-science-learning-resources)
 - [Loading SQL data into Pandas without running out of memory (2021)](https://pythonspeed.com/articles/pandas-sql-chunking/)
 - [What is the best structured ds project you have seen? (2021)](https://www.reddit.com/r/datascience/comments/mrwzkq/what_is_the_best_structured_ds_project_you_have/)
+- [Data Science Learning Resources (2021)](https://twitter.com/codinghorror/status/1387140404131221513)
+- [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy.
