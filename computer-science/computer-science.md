@@ -120,3 +120,4 @@
 - [A.M. Turing Award](https://amturing.acm.org/)
 - [Why not faster computation via evolution and diffracted light (2021)](https://interconnected.org/home/2021/04/20/computers)
 - [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/) ([Code](https://github.com/amyjko/foundations-of-information))
+- [Lobsters: What are the best computer science papers? (2021)](https://lobste.rs/s/l8eiy6/what_are_best_computer_science_papers)
