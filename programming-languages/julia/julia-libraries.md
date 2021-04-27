@@ -33,6 +33,7 @@
 - [Transformers.jl](https://github.com/chengchingwen/Transformers.jl) - Julia Implementation of Transformer models.
 - [Cambrian.jl](https://github.com/d9w/Cambrian.jl) - Evolutionary Computation framework.
 - [Nonconvex](https://github.com/mohamed82008/Nonconvex.jl) - Toolbox for non-convex constrained optimization.
+- [ReinforcementLearningEnvironments.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearningEnvironments.jl) - One-stop package for different reinforcement learning environments.
 
 ## Math
 

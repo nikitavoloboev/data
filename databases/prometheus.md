@@ -42,3 +42,4 @@
 - [Prometheus SQL Exporter](https://github.com/burningalchemist/sql_exporter)
 - [Prometheus and Aegis (2021)](https://christine.website/blog/aegis-prometheus-2021-04-05)
 - [karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
+- [pint](https://github.com/cloudflare/pint) - Prometheus rule linter.
