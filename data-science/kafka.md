@@ -44,3 +44,4 @@
 - [Best Books to Learn Apache Kafka (2021)](https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9)
 - [Kafka-Penguin](https://github.com/oslabs-beta/kafka-penguin) - Easy-to-use, lightweight KafkaJS library for message processing.
 - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+- [Google Pub/Sub Lite for Kafka Users (2021)](https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5)

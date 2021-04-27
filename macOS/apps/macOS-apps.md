@@ -152,3 +152,4 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Sparkle](https://sparkle-project.org/) - Open source software update framework for macOS. ([Code](https://github.com/sparkle-project/Sparkle))
 - [Bump](https://github.com/replay-software/bump) - Easy way to release & update indie Mac apps. ([Web](https://replay.software/bump)) ([Why we built Bump](https://almonk.medium.com/why-we-built-bump-an-automated-pipeline-for-releasing-apps-with-sparkle-ac8a6e330272))
 - [Bump Core](https://github.com/replay-software/bump-core) - CLI tool that powers the Bump deploy pipeline.
+- [Signing a Mac Application (2015)](https://pracucci.com/atom-electron-signing-mac-app.html)

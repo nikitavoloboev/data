@@ -58,3 +58,4 @@
 - [Quantum Hamiltonian Explained](https://twitter.com/HyperboIeva/status/1378729664328437769)
 - [Reflection of a Quantum particle from a mirror that is only three atomic layers thick](https://twitter.com/quant_phys/status/1380869125430460417)
 - [Quantum field theory books (2021)](https://www.reddit.com/r/AskPhysics/comments/mvcklj/quantum_field_theory_book/)
+- [What's an equation in quantum physics that fascinates you the most? (2021)](https://www.reddit.com/r/AskPhysics/comments/mzr46g/whats_an_equation_in_quantum_physics_that/)
