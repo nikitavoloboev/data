@@ -8,7 +8,7 @@ I mapped my most visited chats with KM macros that call URL schemes like so:
 
 ![](https://i.imgur.com/J2n7NpH.png)
 
-This lets me jump between many groups in under 1 second time. For other groups I use the channel switcher. And I use [smart folders](https://telegram.org/blog/folders):
+This lets me jump between many chats instantly. For other chats I use the channel switcher. I also use [smart folders](https://telegram.org/blog/folders):
 
 ![](https://i.imgur.com/BTnHiiI.png)
 
