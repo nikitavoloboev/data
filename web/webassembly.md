@@ -157,3 +157,4 @@
 - [Is WebAssembly magic performance pixie dust? (2021)](https://surma.dev/things/js-to-asc/) ([HN](https://news.ycombinator.com/item?id=26803155)) ([Tweet](https://twitter.com/DasSurma/status/1381970241694076930))
 - [Web Bundler](https://github.com/panoptix-za/web-bundler) - Bundles a Rust WebAssembly frontend application for publishing.
 - [WASM Coq](https://github.com/WasmCert/WasmCert-Coq) - WebAssembly (aka Wasm) formalization in Coq, based on the official formalization.
+- [Using asynchronous web APIs from WebAssembly (2021)](https://web.dev/asyncify/)
