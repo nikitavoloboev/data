@@ -122,3 +122,4 @@
 - [Jupyter Kernel Gateway](https://github.com/jupyter/kernel_gateway) - Web server that provides headless access to Jupyter kernels.
 - [Jupyter Client](https://github.com/jupyter/jupyter_client) - Jupyter protocol client APIs.
 - [Streambook](https://github.com/srush/streambook) - Live Python Notebooks with any Editor.
+- [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks.
