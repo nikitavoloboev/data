@@ -118,3 +118,4 @@
 - [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for http applications and a dashboard query accelerator for time series databases.
 - [GLORP](https://github.com/denandz/glorp) - CLI-based HTTP intercept and replay proxy.
 - [low-http-server](https://github.com/jkyberneees/low-http-server) - HTTP server implementation for Node.js based on uWebSockets.js.
+- [HTTP/2: 5 things every Enterprise Architect needs to know (2021)](https://www.redhat.com/architect/http2)

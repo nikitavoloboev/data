@@ -300,3 +300,4 @@
 - [CSS Tips (2020)](https://markodenic.com/css-tips/) ([HN](https://news.ycombinator.com/item?id=26945263))
 - [CSS Container Query Proposal & Explainer](https://css.oddbird.net/rwd/query/explainer/)
 - [CQFill](https://github.com/jsxtools/cqfill) - Polyfill for CSS Container Queries.
+- [A Complete Guide to Custom Properties (2021)](https://css-tricks.com/a-complete-guide-to-custom-properties/)
