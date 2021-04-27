@@ -46,3 +46,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [What Is Life? Book by Erwin Schrödinger (1944)](http://strangebeautiful.com/other-texts/schrodinger-what-is-life-mind-matter-auto-sketches.pdf) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/mfpq7l/quantum_physics_pioneer_erwin_schrodingers/))
 - [How to Build a Life - The Atlantic](https://www.theatlantic.com/projects/how-build-life/) - Column about pointing yourself toward happiness.
 - [Ask HN: What small thing helped you appreciate life more? (2021)](https://news.ycombinator.com/item?id=26731289)
+- [99 Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)

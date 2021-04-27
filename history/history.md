@@ -110,3 +110,4 @@
 - [How the fall of the Roman empire paved the road to modernity](https://aeon.co/essays/how-the-fall-of-the-roman-empire-paved-the-road-to-modernity) ([HN](https://news.ycombinator.com/item?id=26819319))
 - [What's your favorite piece of obsolete technology? (2021)](https://twitter.com/theavalkyrie/status/1383092894551117839)
 - [Протесты немецких женщин на Розенштрассе](https://twitter.com/elitablog/status/1384253519918637061)
+- [Exclusive Photos Inside the Chernobyl Nuclear Power Plant (2021)](https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/)

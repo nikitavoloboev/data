@@ -73,3 +73,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Applying to STEM Ph.D. Programs Guide](https://github.com/gwisk/gradguide)
 - [Moodle](https://moodle.org/) - Open-source learning platform. ([Code](https://github.com/moodle/moodle))
 - [Strong/Weak Reasons to do a PhD in Computer Science (2021)](https://raymondcheng.net/thoughts/why-phd.html)
+- [Someone has to run the fabs (2021)](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs)
