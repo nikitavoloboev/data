@@ -90,3 +90,4 @@
 - [Machine Learning Datasets | Papers With Code](https://paperswithcode.com/datasets) ([Twitter](https://twitter.com/paperswithdata))
 - [Ocean Market](https://market.oceanprotocol.com/) - Marketplace to find, publish and trade data sets. ([Code](https://github.com/oceanprotocol/market))
 - [Generating Datasets with Pretrained Language Models (2021)](https://arxiv.org/abs/2104.07540)
+- [nbodykit](https://github.com/bccp/nbodykit) - Analysis kit for large-scale structure datasets, the massively parallel way.

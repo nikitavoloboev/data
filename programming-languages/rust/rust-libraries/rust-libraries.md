@@ -261,6 +261,7 @@
 - [if_chain](https://github.com/lambda-fairy/if_chain) - Macro for writing nested `if let` expressions.
 - [proc-macro-crate](https://github.com/bkchr/proc-macro-crate) - Providing support for $crate in procedural macros.
 - [typestate](https://github.com/rustype/typestate-rs) - Provides developers with a macro to design typestated objects.
+- [Educe](https://github.com/magiclen/educe) - Provides procedural macros to help you implement Rust-built-in traits quickly.
 
 ## Other
 

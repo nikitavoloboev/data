@@ -282,3 +282,4 @@
 - [Python 3 Types in the Wild: A Tale of Two Type Systems (2020)](https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf) ([HN](https://news.ycombinator.com/item?id=26788177))
 - [Sourcery](https://sourcery.ai/) - Automatically Improve Python Code Quality.
 - [Roadmap for mastering Python (2021)](https://twitter.com/PrasoonPratham/status/1383279052430008323)
+- [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
