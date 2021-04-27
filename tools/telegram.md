@@ -8,7 +8,11 @@ I mapped my most visited chats with KM macros that call URL schemes like so:
 
 ![](https://i.imgur.com/J2n7NpH.png)
 
-This lets me jump between many groups in under 1 second time. For other groups I use the channel switcher.
+This lets me jump between many groups in under 1 second time. For other groups I use the channel switcher. And I use [smart folders](https://telegram.org/blog/folders):
+
+![](https://i.imgur.com/BTnHiiI.png)
+
+I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, swipe left and right or click. The folders are: Personal Messages (1 to 1 chats), Groups, Channels, Bots.
 
 ## Bot libraries
 
