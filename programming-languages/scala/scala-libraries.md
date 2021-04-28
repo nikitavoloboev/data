@@ -23,6 +23,10 @@
 
 - [Weaver-test](https://github.com/disneystreaming/weaver-test) - Test framework that runs everything in parallel.
 
+## ML
+
+- [Noether](https://github.com/spotify/noether) - Scala Aggregators used for ML Model metrics mo.
+
 ## Other
 
 - [sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.

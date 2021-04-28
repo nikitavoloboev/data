@@ -298,3 +298,4 @@
 - [How Linux Works Book](https://nostarch.com/howlinuxworks3)
 - [Awesome Wayland](https://github.com/natpen/awesome-wayland)
 - [Beyond process supervisors](http://catern.com/supervisors.html)
+- [An Interview With Linus Torvalds: Linux and Git (2021)](https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git)

@@ -39,3 +39,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [How do you all accept kindness (love)? (2021)](https://www.reddit.com/r/datingoverthirty/comments/mmut90/how_do_you_all_accept_kindness_love/)
 - [What are little gestures that can brighten someone's day when dating or in a relationship?](https://www.reddit.com/r/datingoverthirty/comments/murrar/what_are_little_gestures_that_can_brighten/)
 - [What's something your partner does that just makes you smile? (2021)](https://www.reddit.com/r/AskMen/comments/myvyzj/whats_something_your_partner_does_that_just_makes/)
+- [Recovering from realizing your life with a narcissist was a lie (2021)](https://www.youtube.com/watch?v=-ul3Q1VP734)
