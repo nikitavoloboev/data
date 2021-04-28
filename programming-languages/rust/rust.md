@@ -455,3 +455,4 @@
 - [IRust](https://github.com/sigmaSd/IRust) - Cross Platform Rust REPL.
 - [If you could re-design Rust from scratch today, what would you change? (2021)](https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/) ([Lobsters](https://lobste.rs/s/j7zv69/if_you_could_re_design_rust_from_scratch))
 - [Red & blue functions are actually a good thing (2021)](https://blainehansen.me/post/red-blue-functions-are-actually-good/) ([HN](https://news.ycombinator.com/item?id=26940548))
+- [Async programming in Rust | A video essay (2021)](https://diode.zone/videos/watch/9d0f20fc-6b17-48db-acda-67e0d623814c)

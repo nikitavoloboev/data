@@ -57,6 +57,7 @@ Here are few more things I liked, design wise.
 - [Podia](https://www.podia.com/)
 - [Reeder](https://reeder.app/)
 - [Remotive](https://remotive.io/)
+- [Expo](https://expo.io/)
 - [Contrast](https://www.contrast.app/)
 - [Whereby](https://whereby.com/)
 - [Haikei](https://haikei.app/)

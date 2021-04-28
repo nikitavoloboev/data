@@ -96,6 +96,7 @@
 - [React Hooks by Baidu](https://github.com/ecomfe/react-hooks)
 - [use-editable](https://github.com/kitten/use-editable) - Small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic).
 - [react-hanger](https://github.com/kitze/react-hanger) - Collection of useful React hooks.
+- [useUnmountSignal](https://github.com/expo/use-unmount-signal) - React Hook to cancel promises when a component is unmounted.
 
 ## Notes
 
