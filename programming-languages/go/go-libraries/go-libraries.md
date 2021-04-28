@@ -783,6 +783,7 @@
 - [synx](https://github.com/cristalhq/synx) - Better sync package for Go.
 - [fastime](https://github.com/kpango/fastime) - Super fast time function library for Go with zero memory allocation. Returns the approximate time.
 - [Redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go.
+- [PEG](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 
 ## Links
 

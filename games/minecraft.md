@@ -46,3 +46,4 @@
 - [PolyMc](https://github.com/TheEpicBlock/PolyMc) - Making minecraft mods compatible with a vanilla client.
 - [I built a Neural Network in Minecraft](https://www.youtube.com/watch?v=7OdhtAiPfWY) ([Tweet](https://twitter.com/ykilcher/status/1382328460308271104))
 - [GANcraft](https://nvlabs.github.io/GANcraft/) - Unsupervised 3D Neural Rendering of Minecraft Worlds. ([HN](https://news.ycombinator.com/item?id=26833972))
+- [Create](https://github.com/Creators-of-Create/Create) - Mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.

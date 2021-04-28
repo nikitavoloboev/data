@@ -217,3 +217,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [RUHAcam](https://github.com/penk/ruha.camera) - 3D Printable Retro-style Raspberry Pi HQ Camera. ([Web](https://ruha.camera/)) ([HN](https://news.ycombinator.com/item?id=26859058))
 - [FFmpeg cheat sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
 - [Video Call Checklist](https://checklist.video/) - Definitive Guide to Amazing Video Calls. ([HN](https://news.ycombinator.com/item?id=26944417))
+- [FFmpegKit](https://github.com/tanersener/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, iOS, macOS and tvOS.

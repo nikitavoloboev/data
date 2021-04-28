@@ -21,6 +21,7 @@
 - [RustyLine](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust.
 - [seahorse](https://github.com/ksk001100/seahorse) - Minimal CLI framework written in Rust.
 - [conch-parser](https://github.com/ipetkov/conch-parser) - Rust library for parsing Unix shell commands.
+- [cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
 
 ## Web
 
