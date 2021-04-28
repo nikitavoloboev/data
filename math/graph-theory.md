@@ -40,3 +40,4 @@
 - [The Easiest Unsolved Problem in Graph Theory (2021)](https://medium.com/cantors-paradise/the-easiest-unsolved-problem-in-graph-theory-fa3a7f26181b)
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data.
 - [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different (2021)](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/) ([HN](https://news.ycombinator.com/item?id=26943468))
+- [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges.

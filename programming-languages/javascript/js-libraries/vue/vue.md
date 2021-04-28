@@ -57,3 +57,4 @@
 - [Create Nuxt App](https://github.com/nuxt/create-nuxt-app) - Create a Nuxt.js project in seconds.
 - [Pinia](https://github.com/posva/pinia) - Intuitive, type safe and flexible Store for Vue. ([Docs](https://pinia.esm.dev/introduction.html))
 - [Nuxt Speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - Module for NuxtJS. Takes over the lighthouse performance optimization of your generated website. ([Docs](https://nuxt-speedkit.grabarzundpartner.dev/))
+- [Typed Vuex](https://github.com/danielroe/typed-vuex) - Strongly-typed store accessor for vanilla Vuex.

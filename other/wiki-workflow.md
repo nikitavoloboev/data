@@ -335,3 +335,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ask HN: How do you organize your knowledge? (2021)](https://news.ycombinator.com/item?id=26935838)
 - [Reflect](https://reflect.app/) - Keep track of your notes, books, and meetings.
 - [KnowAssist](https://www.knowassist.com/) - Good knowledge management.
+- [Gatsby Brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - Use this theme to integrate Roam Research inspired bidirectional linking of notes into a network on your site.

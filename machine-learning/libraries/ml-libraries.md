@@ -135,3 +135,5 @@
 - [Backdoors 101](https://github.com/ebagdasa/backdoors101) - PyTorch framework for state-of-the-art backdoor defenses and attacks on deep learning models.
 - [Sabertooth](https://github.com/nikitakit/sabertooth) - Standalone pre-training recipe with JAX+Flax.
 - [ProbFlow](https://github.com/brendanhasz/probflow) - Python package for building Bayesian models with TensorFlow or PyTorch.
+- [Mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation which scales Numpy, pandas, Scikit-learn and Python functions.
+- [DeepMatch](https://github.com/shenweichen/DeepMatch) - Deep matching model library for recommendations & advertising.

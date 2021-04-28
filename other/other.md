@@ -474,3 +474,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [AtJSON](https://github.com/CondeNast/atjson) - Living content format for annotating content.
 - [Swimlanes.io](https://swimlanes.io/) - Generated editable sequence diagrams. ([HN](https://news.ycombinator.com/item?id=26956728))
 - [Diagwiz Playground](https://diagwiz.io/playground/) - Diagrams as code. ([Code](https://github.com/kjagiello/diagwiz))
+- [Awesome HN](https://github.com/bminusl/awesome-hackernews) - Curated list of FOSS tools to improve the Hacker News experience.

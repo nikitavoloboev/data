@@ -97,3 +97,4 @@
 - [Deno 1.9 (2021)](https://deno.com/blog/v1.9) ([HN](https://news.ycombinator.com/item?id=26797557))
 - [Peco](https://github.com/sebringrose/peco) - Featherweight Deno webapp framework. Built with Preact and htm.
 - [Eggs CLI](https://github.com/nestdotland/eggs) - CLI used to publish and update modules in nest.land.
+- [Update Deno Dependencies](https://github.com/hayd/deno-udd) - Run this script to update your dependency urls to their latest published versions.

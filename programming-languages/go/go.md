@@ -74,7 +74,7 @@ Go promotes composition over inheritance.
 - [Golang challenge](http://golang-challenge.org/)
 - [dep2nix](https://github.com/nixcloud/dep2nix) - Using golang/dep to create a deps.nix file for go projects to package them for nixpkgs.
 - [GopherCon 2018 - Rethinking Classical Concurrency Patterns](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/) - [Slides](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
-- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout) ([Not a standard Go project layout](https://github.com/golang-standards/project-layout/issues/117))
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [Golang Monorepo](https://github.com/flowerinthenight/golang-monorepo) - Example of a golang-based monorepo.
 - [Lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
@@ -148,7 +148,7 @@ Go promotes composition over inheritance.
 - [Go Things I Love: Methods On Any Type (2019)](https://www.justindfuller.com/posts/2019-12-14_Go-Things-I-Love-Methods-On-Any-Type) ([Reddit](https://www.reddit.com/r/golang/comments/eaqnyh/go_things_i_love_methods_on_any_type/))
 - [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang examples compared to Node.js for learning.
 - [Testing in Go: Test Doubles by Example (2019)](https://ieftimov.com/post/testing-in-go-test-doubles-by-example/)
-- [Chime](https://www.chimehq.com/) - Go editor for macOS. ([HN](https://news.ycombinator.com/item?id=21963708))
+- [Chime](https://www.chimehq.com/) - Go editor for macOS. ([HN](https://news.ycombinator.com/item?id=21963708)) ([GitHub](https://github.com/ChimeHQ))
 - [Go Things I Love: Channels and Goroutines (2020)](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/) ([HN](https://news.ycombinator.com/item?id=21968939))
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs. ([Code](https://github.com/mmcgrana/gobyexample))

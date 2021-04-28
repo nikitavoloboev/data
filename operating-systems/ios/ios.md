@@ -72,6 +72,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Distributed Chat](https://github.com/fwcd/distributed-chat) - Distributed chat messenger that uses Bluetooth LE mesh networks.
 - [Dash iOS](https://github.com/Kapeli/Dash-iOS)
 - [BeeSwift](https://github.com/beeminder/BeeSwift)
+- [Swift Composable App Example](https://github.com/darrarski/swift-composable-app-example) - Example iOS app built with module composition in mind.
 
 ## Other
 

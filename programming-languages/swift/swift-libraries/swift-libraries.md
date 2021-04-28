@@ -288,6 +288,7 @@
 - [WrappingHStack](https://github.com/dkk/WrappingHStack) - SwiftUI HStack with the ability to wrap contained elements.
 - [Liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
 - [AQUI](https://github.com/AlanQuatermain/AQUI) - Collection of SwiftUI views and utilities.
+- [DynamicColor](https://github.com/yannickl/DynamicColor) - Provides powerful methods to manipulate colors in an easy way in Swift and SwiftUI.
 
 ## Test
 
@@ -667,6 +668,7 @@
 - [FuzzyFind](https://github.com/truizlop/FuzzyFind) - Swift package to perform fuzzy search queries on strings.
 - [Yaproq](https://github.com/yaproq/yaproq) - Templating language for Swift.
 - [Swift Collections Benchmark](https://github.com/apple/swift-collections-benchmark) - Lets you collect and easily visualize performance data about data structure implementations and collection algorithms.
+- [ProcessEnv](https://github.com/ChimeHQ/ProcessEnv) - Small library for capturing the shell configuration used by a Foundation/AppKit process.
 
 ## Other (not lib)
 

@@ -157,3 +157,4 @@
 - [Gibbon](https://github.com/iu-parfunc/gibbon) - Compiler for functional programs on serialized data. ([Web](http://iu-parfunc.github.io/gibbon/))
 - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack) ([Web](http://tack.sourceforge.net/))
 - [Awesome Decompilation](https://github.com/nforest/awesome-decompilation)
+- [Tiny compiler for a simple synthetic language featuring LL(2) grammar, written in pure C](https://github.com/zakirullin/tiny-compiler)

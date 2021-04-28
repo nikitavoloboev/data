@@ -195,6 +195,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
 - [Unicorn Platform](https://unicornplatform.com/) - Landing page builder for startups.
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
+- [Precursor](https://precursorapp.com/) - Fast prototyping web app, makes collaboration easy. ([Code](https://github.com/PrecursorApp/precursor))
 - [Front](https://frontapp.com/) - Inbox for teams.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Primer](https://www.primer.com/) - Get creative with your space. Visualize inspiring ideas right in your space so you can make it perfect.

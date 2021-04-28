@@ -226,3 +226,4 @@
 - [Issues with using React to build web apps (2021)](https://twitter.com/hbuchel/status/1379117623930064897)
 - [React Suspense is Killing Me (2021)](https://blog.6nok.org/the-suspense-is-killing-me:-part-1/)
 - [jsx-runtime](https://github.com/itsjavi/jsx-runtime) - Extremely lightweight JSX runtime (<2KB) to write JSX without React in TypeScript or JavaScript.
+- [react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - Simple parser for react properties defined in typescript instead of propTypes.

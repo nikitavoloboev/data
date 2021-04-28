@@ -199,6 +199,7 @@
 - [Galois](https://github.com/KatanaGraph/katana) - C++ library designed to ease parallel programming, especially for applications with irregular parallelism.
 - [timemory](https://github.com/NERSC/timemory) - Timing + Memory + Hardware Counter Utilities for C / C++ / CUDA / Python.
 - [Casbin-CPP](https://github.com/casbin/casbin-cpp) - Authorization library that supports access control models like ACL, RBAC, ABAC in C/C++.
+- [SON-RPC-CXX](https://github.com/jsonrpcx/json-rpc-cxx) - JSON-RPC for modern C++.
 
 ## Links
 

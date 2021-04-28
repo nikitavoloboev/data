@@ -193,3 +193,4 @@
 - [MBRL-Lib](https://github.com/facebookresearch/mbrl-lib) - Library for Model Based RL.
 - [Towards a Theory of Generalization in Reinforcement Learning (2021)](https://windowsontheory.org/2021/04/24/towards-a-theory-of-generalization-in-reinforcement-learning-guest-lecture-by-sham-kakade/)
 - [Evolving Reinforcement Learning Algorithms (2021)](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
+- [Model-Based RL for Decentralized Multi-agent Navigation (2021)](https://ai.googleblog.com/2021/04/model-based-rl-for-decentralized-multi.html)
