@@ -246,3 +246,4 @@
 - [nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio processing by using PyTorch 1D convolution network.
 - [Lightning-Transformers](https://github.com/PyTorchLightning/lightning-transformers) - Flexible interface for high performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra.
 - [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
+- [torchsynth](https://github.com/torchsynth/torchsynth) - Based upon traditional modular synthesis written in PyTorch. It is GPU-optional and differentiable. ([Docs](https://torchsynth.readthedocs.io/en/latest/))

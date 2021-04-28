@@ -301,3 +301,4 @@
 - [CSS Container Query Proposal & Explainer](https://css.oddbird.net/rwd/query/explainer/)
 - [CQFill](https://github.com/jsxtools/cqfill) - Polyfill for CSS Container Queries.
 - [A Complete Guide to Custom Properties (2021)](https://css-tricks.com/a-complete-guide-to-custom-properties/)
+- [Tacit](https://github.com/yegor256/tacit) - CSS Framework for Dummies, Without Classes. ([Web](https://yegor256.github.io/tacit/))
