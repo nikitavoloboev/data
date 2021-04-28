@@ -63,3 +63,5 @@
 - [PostGIS](https://postgis.net/) - Spatial and Geographic Objects for PostgreSQL. ([HN](https://news.ycombinator.com/item?id=26686926))
 - [A new way to make maps with OpenStreetMap (2021)](https://protomaps.com/blog/new-way-to-make-maps/) ([HN](https://news.ycombinator.com/item?id=26918259))
 - [Tegola](https://github.com/go-spatial/tegola) - Mapbox Vector Tile server written in Go. ([Web](https://tegola.io/))
+- [Globe.GL](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL.
+- [react-globe.gl](https://github.com/vasturiano/react-globe.gl) - React bindings for the globe.gl UI component.

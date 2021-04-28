@@ -473,3 +473,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What is your favorite daily-use object? (2021)](https://news.ycombinator.com/item?id=26934770)
 - [AtJSON](https://github.com/CondeNast/atjson) - Living content format for annotating content.
 - [Swimlanes.io](https://swimlanes.io/) - Generated editable sequence diagrams. ([HN](https://news.ycombinator.com/item?id=26956728))
+- [Diagwiz Playground](https://diagwiz.io/playground/) - Diagrams as code. ([Code](https://github.com/kjagiello/diagwiz))
