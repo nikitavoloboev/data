@@ -391,6 +391,7 @@
 - [Opyrator](https://github.com/ml-tooling/opyrator) - Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [Tenacity](https://github.com/jd/tenacity) - Retrying library for Python.
 - [Klepto](https://github.com/uqfoundation/klepto) - Persistent caching to memory, disk, or database.
+- [Python MSS](https://github.com/BoboTiG/python-mss) - Ultra fast cross-platform multiple screenshots module in pure Python using ctypes.
 
 ## Links
 

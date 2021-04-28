@@ -231,6 +231,9 @@
 - [RuntimeGeneratedFunctions.jl](https://github.com/SciML/RuntimeGeneratedFunctions.jl) - Functions generated at runtime without world-age issues or overhead.
 - [Catwalk.jl](https://github.com/tisztamo/Catwalk.jl) - Adaptive optimizer for speeding up dynamic dispatch in Julia.
 - [Reexport](https://github.com/simonster/Reexport.jl) - Julia macro for re-exporting one module from another.
+- [OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software.
+- [NOMAD.jl](https://github.com/bbopt/NOMAD.jl) - Julia interface to the NOMAD blackbox optimization software.
+- [BayesNets](https://github.com/sisl/BayesNets.jl) - Bayesian Networks for Julia.
 
 ## Links
 

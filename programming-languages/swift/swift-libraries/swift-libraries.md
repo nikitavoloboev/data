@@ -212,6 +212,7 @@
 - [UDPBroadcastConnection](https://github.com/gunterhager/UDPBroadcastConnection) - Framework to send UDP broadcast messages and listen to responses using a Dispatch source.
 - [Swim](https://github.com/robb/Swim) - DSL for writing HTML in Swift.
 - [TinyGraphQL](https://github.com/GetStream/TinyGraphQL) - Simple and lightweight GraphQL query builder for the Swift language.
+- [Atributika](https://github.com/psharanda/Atributika) - Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
 
 ## SwiftUI
 
