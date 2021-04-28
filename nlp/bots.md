@@ -14,3 +14,4 @@
 - [Polis](https://github.com/pol-is/polis) - AI powered sentiment gathering platform. More organic than surveys, less effort than focus groups.
 - [Awesome ChatOps](https://github.com/exAspArk/awesome-chatops)
 - [OpenChat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks.
+- [CSML (Conversational Standard Meta Language)](https://github.com/CSML-by-Clevy/csml-engine) - Domain-Specific Language designed for easily creating conversational experiences. ([Web](https://www.csml.dev/)) ([GitHub](https://github.com/CSML-by-Clevy))
