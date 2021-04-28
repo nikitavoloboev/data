@@ -171,6 +171,7 @@
 - [Playground](https://github.com/agneym/playground) - HTML, CSS and JS demonstration component that runs entirely in the browser and does not require loading any third party sites.
 - [JSON Schema Viewer](https://github.com/stoplightio/json-schema-viewer)
 - [Inspx](https://github.com/raunofreiberg/inspx) - Pixel perfect layout inspection.
+- [Embrace](https://github.com/grammarly/embrace) - Typesafe, declarative, and composable UI engine on top of React and Focal.
 
 ## Links
 

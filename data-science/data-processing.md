@@ -42,3 +42,4 @@
 - [Flowgger](https://github.com/awslabs/flowgger) - Fast, simple and lightweight data collector written in Rust.
 - [Popsink](https://app.popsink.dev/) - Real-time data platform you don't have to build.
 - [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/))
+- [Winterfell](https://github.com/novifinancial/winterfell) - Distributed STARK prover.

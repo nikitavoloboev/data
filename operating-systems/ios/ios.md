@@ -304,3 +304,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Go-iOS](https://github.com/danielpaulus/go-ios) - Operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 - [SwiftShield](https://github.com/rockbruno/swiftshield) - Swift Obfuscator that protects iOS apps against reverse engineering attacks.
 - [Technologies to stay relevant as an iOS engineer (2021)](https://twitter.com/Andi_Rohn/status/1378861859055407108)
+- [Loading WebP Images from UIPasteboard (2021)](https://noahgilmore.com/blog/uipasteboard-webp/)
+- [Writing An App In 2 Days (2020)](https://noahgilmore.com/blog/transparent-app-icons/)

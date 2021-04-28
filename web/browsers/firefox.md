@@ -22,4 +22,4 @@
 - [addons-linter](https://github.com/mozilla/addons-linter) - Firefox Add-ons linter, written in JavaScript.
 - [Total Cookie Protection (2021)](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) ([HN](https://news.ycombinator.com/item?id=26237404))
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Firefox extension to protect from being fingerprinted.
-- [Firefox and Chromium (2021)](https://madaidans-insecurities.github.io/firefox-chromium.html)
+- [Firefox and Chromium (2021)](https://madaidans-insecurities.github.io/firefox-chromium.html) ([Lobsters](https://lobste.rs/s/eys36p/firefox_chromium))

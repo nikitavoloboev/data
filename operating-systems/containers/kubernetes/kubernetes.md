@@ -371,3 +371,4 @@
 - [Admission Control](https://github.com/elithrar/admission-control) - Helpful micro-framework for writing Kubernetes Admission Controllers.
 - [DirectCSI](https://github.com/minio/direct-csi) - Container Storage Interface (CSI) driver for direct attached storage.
 - [Karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration. ([HN](https://news.ycombinator.com/item?id=26951940))
+- [Fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters.
