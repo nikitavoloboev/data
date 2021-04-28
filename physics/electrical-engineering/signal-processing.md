@@ -22,3 +22,4 @@
 - [MIT: Digital Signal Processing (2011)](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/)
 - [What is dither? (1996)](https://www.earlevel.com/main/1996/10/20/what-is-dither/)
 - [Analog Signals and Systems Book (2011)](https://link.springer.com/chapter/10.1007/978-3-642-15591-8_1)
+- [MDfourier](http://junkerhq.net/MDFourier/) - Audio analysis tool for gaming hardware.

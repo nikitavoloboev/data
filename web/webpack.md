@@ -50,3 +50,4 @@
 - [Statoscope](https://github.com/smelukov/statoscope) - Analyzes webpack stats and supplies the UI to display. ([Web](https://statoscope.tech/))
 - [webpack-nano](https://github.com/shellscape/webpack-nano) - Tiny Webpack CLI.
 - [How to Migrate an App From Webpack to Snowpack (2021)](https://primalskill.blog/how-to-migrate-an-app-from-webpack-to-snowpack)
+- [Why we switched from Webpack to Vite (2021)](https://blog.replit.com/vite) ([HN](https://news.ycombinator.com/item?id=26972400))
