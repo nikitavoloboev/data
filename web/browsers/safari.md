@@ -38,3 +38,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [How to convert existing web extensions for Safari (2021)](https://developer.apple.com/news/?id=qiz0arxc) ([HN](https://news.ycombinator.com/item?id=25649509))
 - [Safari 14 added WebExtensions support, so where are the extensions? (2021)](https://sixcolors.com/post/2021/01/safari-14-added-webextensions-support-so-where-are-the-extensions/) ([HN](https://news.ycombinator.com/item?id=25815566))
 - [Hush](https://github.com/oblador/hush) - Block nags to accept cookies and privacy invasive tracking in Safari. ([HN](https://news.ycombinator.com/item?id=25892588))
+- [iOS 14.5 brings the new Safari 14.1 to PWAs and the Web Platform (2021)](https://firt.dev/ios-14.5/)
