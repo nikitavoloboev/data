@@ -21,15 +21,23 @@ Once I found and understand what it is I want to solve. I look into it more and 
 
 Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
 
-![](https://i.imgur.com/qHAJdYk.png)
+![](https://i.imgur.com/0HFwEZy.png)
 
-> It often looks like this
+> It often looks like this. Where LA and epictools are two tasks/projects with subtasks.
+
+![](https://i.imgur.com/uzauKKU.png)
+
+> MindNode lets you focus in on one of the nodes for better focus.
 
 ![](https://i.imgur.com/L5ueCNB.png)
 
-> But can also look like this. Example of a [brainstorming session](https://youtu.be/sB0DWq3PTDk).
+> Can also use arrows with descriptions for more high level views. Above is example of [one brainstorming session](https://youtu.be/sB0DWq3PTDk).
 
-Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor or [2Do](../macOS/apps/2do.md). I also sketch problems out on iPad with [Procreate](https://procreate.art/) app.
+Often times I do the decoupling of the task inside the app I am working in itself, be it a code editor (as comments) or [2Do](../macOS/apps/2do.md) (as note).
+
+Other times I sketch problems out in [FigJam](https://www.figma.com/figjam/) or [Excalidraw](https://excalidraw.com/) collaboratively with others.
+
+Sometimes I doodle things on iPad with [Procreate](https://procreate.art/) or Notes apps.
 
 ## 3. Work on solving the task and nothing else
 

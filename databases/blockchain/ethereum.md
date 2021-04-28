@@ -206,3 +206,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Alchemy](https://www.alchemyapi.io/) - Blockchain Developer Platform and Node Service for Ethereum & Crypto.com. ([Tweet](https://twitter.com/spakhm/status/1386457314194956290))
 - [Zora Docs](https://zora.engineering/zdk/reference/zora)
 - [Ethereum staking](https://ethereum.org/en/eth2/staking/) ([HN](https://news.ycombinator.com/item?id=26944738))
+- [Sequence](https://sequence.build/) - Seamless user and developer experience for Ethereum, NFTs, Web3, DeFi and Dapps.
+- [Ethkit](https://github.com/0xsequence/ethkit) - Ethereum CLI and Go development kit designed to make it easier to use and develop for Ethereum.
