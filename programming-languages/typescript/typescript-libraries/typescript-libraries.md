@@ -109,6 +109,7 @@
 - [immutability-helper](https://github.com/kolodny/immutability-helper) - Mutate a copy of data without changing the original source.
 - [nom-ts](https://github.com/hasparus/nom-ts) - TypeScript nominal-typing helpers.
 - [generic-type-guard](https://github.com/mscharley/generic-type-guard) - Type safe, composable type guards for TypeScript.
+- [type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript.
 
 ## Links
 

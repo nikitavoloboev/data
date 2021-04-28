@@ -139,3 +139,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [If you have to create a blog in 2021, what's your choice?](https://twitter.com/nachoiacovino/status/1381258237186572291)
 - [How I Built my Blog using MDX, Next.js, and React (2021)](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
 - [Generating social media images for your blog posts (2021)](https://twitter.com/danieljcafonso/status/1387060020274241536)
+- [Github Blog](https://github.com/renatorib/github-blog) - Turn your github issues into a CMS for your blog.
