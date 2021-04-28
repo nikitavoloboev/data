@@ -88,7 +88,7 @@
 - [Bolt](https://github.com/huawei-noah/bolt) - Deep learning library with high performance and heterogeneous flexibility.
 - [hypothesis](https://github.com/montefiore-ai/hypothesis) - Python toolkit for (simulation-based) inference and the mechanization of science.
 - [MMFeat](https://github.com/douwekiela/mmfeat) - Multi-modal features toolkit in Python.
-- [Flower](https://github.com/adap/flower) - Friendly Federated Learning Framework. ([Web](https://flower.dev/))
+- [Flower](https://github.com/adap/flower) - Friendly Federated Learning Framework. ([Web](https://flower.dev/)) ([Flower Summit 2021](https://flower.dev/conf/flower-summit-2021))
 - [brain.js](https://github.com/BrainJS/brain.js) - GPU accelerated Neural networks in JavaScript for Browsers and Node.js. ([Web](https://brain.js.org/#/))
 - [Buffalo](https://github.com/kakao/buffalo) - Fast and scalable production-ready open source project for recommender systems.
 - [EvalML](https://github.com/alteryx/evalml) - AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.

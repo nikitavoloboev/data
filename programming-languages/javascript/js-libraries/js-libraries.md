@@ -508,6 +508,7 @@
 - [tidy.js](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse.
 - [keypather](https://github.com/tjmehta/keypather) - Get, set, or delete deep object values using keypath strings (supports immutable operations) and more.
 - [Veramo](https://github.com/uport-project/veramo) - JavaScript Framework for Verifiable Data. ([Web](https://veramo.io/))
+- [it](https://github.com/achingbrain/it) - Utility modules to make dealing with async iterators easier.
 
 ## Links
 

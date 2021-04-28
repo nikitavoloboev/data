@@ -20,3 +20,5 @@
 - [Organizations Using the D Language](https://dlang.org/orgs-using-d.html) ([HN](https://news.ycombinator.com/item?id=26158191))
 - [Interactive tour of the D Programming Language](https://tour.dlang.org/)
 - [PyD](https://github.com/ariovistus/pyd) - Interoperability between Python and D.
+- [DRuntime](https://github.com/dlang/druntime) - Low level runtime library for the D programming language.
+- [Phobos](https://github.com/dlang/phobos) - Standard library of the D programming language.
