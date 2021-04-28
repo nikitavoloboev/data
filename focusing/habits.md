@@ -14,7 +14,7 @@ I get a notification every day at 21:00 on my phone to complete the habits.
 
 `Healthy | Tea | Clean Skin` marked as done when I drank only water & tea. Limited coffee if any (get focus crushes). And ate only/primarily [nutritious whole foods (nuts/veggies/fruits)](../health/nutrition/foods.md) with focus on completing my [micro & macro nutrient goals](../health/nutrition/nutrition.md). I also [kept my skin clean](../health/skin-care.md) and washed/smelled well.
 
-`Focus | Impact | Improve` marked as done when I was not distracted by anything during the day (no analytics, wasting time). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
+`Focus | Impact | Improve` marked as done when I was not distracted by anything during the day (went through my todos one by one) (no analytics & pointless time wasters). I worked on my [goals](goals.md) & used time wisely. I was calm, mindful and happy.
 
 `Love | Create | Share` marked as done when all/most of my [values](../business/startups/values.md) and [rules](rules.md) were held well. I showed love to people I care about. I was nice. I made new things and shared it.
 
