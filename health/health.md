@@ -42,4 +42,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score)
 - [Nabla](https://www.nabla.com/en/) - Your health in one app.
 - [As you age (30+), what health aspects do you need to keep an eye on?](https://www.reddit.com/r/AskMen/comments/muobbu/as_you_age_30_what_health_aspects_do_you_need_to/)
-- [Better air is the easiest way not to die (2021)](https://dynomight.net/air/)
+- [Better air is the easiest way not to die (2021)](https://dynomight.net/air/) ([HN](https://news.ycombinator.com/item?id=26964722))

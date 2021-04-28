@@ -451,3 +451,4 @@
 - [Learning Versatile Neural Architectures by Propagating Network Codes](https://github.com/dingmyu/NCP)
 - [Machine learning is going real-time (2020)](https://huyenchip.com/2020/12/27/real-time-machine-learning.html)
 - [Awesome Normalizing Flows](https://github.com/janosh/awesome-normalizing-flows)
+- [Differentiable Model Compression via Pseudo Quantization Noise (2021)](https://arxiv.org/abs/2104.09987) ([Code](https://github.com/facebookresearch/diffq))
