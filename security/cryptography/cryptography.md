@@ -115,3 +115,4 @@
 - [keys.pub](https://keys.pub/) - Cryptographic key management. ([Code](https://github.com/keys-pub/keys))
 - [hacspec](https://github.com/hacspec/hacspec) - Specification language for cryptography primitives. ([Web](https://hacspec.github.io/))
 - [Actually, You Are Rolling Your Own Crypto (2021)](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/) ([Lobsters](https://lobste.rs/s/vi6chi/actually_you_are_rolling_your_own_crypto))
+- [ZenGo Research](https://www.zengo.com/research/) - Goal is to take threshold cryptography all the way from theory to your mobile device (or any consumer software/hardware). ([GitHub](https://github.com/ZenGo-X))

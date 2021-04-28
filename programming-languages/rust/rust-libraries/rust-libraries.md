@@ -211,6 +211,7 @@
 - [Monotree](https://github.com/thyeem/monotree) - Optimized Sparse Merkle Tree in Rust.
 - [Cupcake](https://github.com/facebookresearch/Cupcake) - Rust library for lattice-based additive homomorphic encryption.
 - [orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto.
+- [Curv](https://github.com/ZenGo-X/curv) - Rust language general purpose elliptic curve cryptography.
 
 ## Linux
 
@@ -801,6 +802,7 @@
 - [Deltoid](https://github.com/jjpe/deltoid) - Type-driven rust library that can be used to calculate deltas.
 - [ipc-channel](https://github.com/servo/ipc-channel) - Multiprocess drop-in replacement for Rust channels.
 - [Prepona](https://github.com/maminrayej/prepona) - Graph crate with simplicity in mind.
+- [delay-timer](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks.
 
 ## Cargo Plugins
 
