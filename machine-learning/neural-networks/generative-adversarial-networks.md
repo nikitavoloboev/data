@@ -106,3 +106,4 @@
 - [InfinityGAN: Towards Infinite-Resolution Image Synthesis (2021)](https://arxiv.org/abs/2104.03963) ([Code](https://github.com/hubert0527/infinityGAN))
 - [Assessing Generative Models via Precision and Recall (2018)](https://arxiv.org/abs/1806.00035) ([Code](https://github.com/msmsajjadi/precision-recall-distributions))
 - [Few-shot Image Generation via Cross-domain Correspondence (2021)](https://arxiv.org/abs/2104.06820) ([Code](https://github.com/utkarshojha/few-shot-gan-adaptation))
+- [StarGAN v2: Diverse Image Synthesis for Multiple Domains (2020)](https://arxiv.org/abs/1912.01865) ([Code](https://github.com/clovaai/stargan-v2))
