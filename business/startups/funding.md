@@ -44,6 +44,7 @@
 
 - [Preparing to raise capital? Do not start with the deck. Start with an FAQ. Write down the answers to ALL questions investors can possibly ask you.](https://twitter.com/alexiskold/status/1218987908545306624)
 - [Raising a round from strategic angels is only helpful if you actually know how to leverage them. I am seeing some founders really lean into this and turn their investors into a community.](https://twitter.com/austin_rief/status/1378921515916361731)
+- [When you raise capital, you're typically raising to get to key metrics to be able to raise more capital. Knowing that, tell me what KPIs you plan to hit with your raise.](https://twitter.com/lpolovets/status/1387229726071087104)
 
 ## Links
 

@@ -55,3 +55,4 @@
 - [Ouinet](https://github.com/equalitie/ouinet) - Library to enable decentralized web requests.
 - [Edge & Node](https://edgeandnode.com/) - Initial team behind The Graph. We create and support protocols and dApps that empower individuals and move humanity forward.
 - [Starting a new digital identity (2021)](https://k3tan.com/starting-a-new-digital-identity) ([HN](https://news.ycombinator.com/item?id=26888067))
+- [Resources to learn DeFi from 0 (2021)](https://twitter.com/stevegraham/status/1387121989672919040)

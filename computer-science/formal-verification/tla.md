@@ -24,3 +24,4 @@
 - [TLA+ Action Properties (2021)](https://www.hillelwayne.com/post/action-properties/)
 - [HN: TLA+ (2021)](https://news.ycombinator.com/item?id=26385075)
 - [TLA+ Graph Explorer](https://github.com/afonsonf/tlaplus-graph-explorer) - Static web application to explore and animate a TLA+ state graph.
+- [Dr. TLA+ Series](https://github.com/tlaplus/DrTLAPlus) - Learn an algorithm and protocol, study a specification.
