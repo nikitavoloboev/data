@@ -177,3 +177,4 @@
 - [Achieving reliable dual writes in distributed systems (2021)](https://engineering.razorpay.com/achieving-reliable-dual-writes-in-distributed-systems-cb9ff3b9bfc1)
 - [Paxos Made Simple (2016)](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf)
 - [Fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple. ([Web](https://uber.github.io/fiber/))
+- [Raft Implementation & CLI Visualization in Rust](https://github.com/andreev-io/Raft)
