@@ -158,3 +158,5 @@
 - [Web Bundler](https://github.com/panoptix-za/web-bundler) - Bundles a Rust WebAssembly frontend application for publishing.
 - [WASM Coq](https://github.com/WasmCert/WasmCert-Coq) - WebAssembly (aka Wasm) formalization in Coq, based on the official formalization.
 - [Using asynchronous web APIs from WebAssembly (2021)](https://web.dev/asyncify/)
+- [Learning Web Assembly System Interface (WASI)](https://github.com/danbev/learning-wasi)
+- [aWsm](https://github.com/gwsystems/aWsm) - WebAssembly ahead-of-time compiler and runtime. Focuses on generating fast code, simplicity, and portability.
