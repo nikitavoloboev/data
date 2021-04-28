@@ -279,3 +279,4 @@
 - [SimCSE: Simple Contrastive Learning of Sentence Embeddings (2021)](https://arxiv.org/abs/2104.08821) ([Code](https://github.com/princeton-nlp/SimCSE))
 - [Berkeley Neural Parser](https://github.com/nikitakit/self-attentive-parser) - High-accuracy NLP parser with models for 11 languages. ([Web](https://parser.kitaev.io/))
 - [nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP.
+- [Top2Vec](https://github.com/ddangelov/Top2Vec) - Learns jointly embedded topic, document and word vectors.

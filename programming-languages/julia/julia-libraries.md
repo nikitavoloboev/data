@@ -234,6 +234,7 @@
 - [OpticSim.jl](https://github.com/microsoft/OpticSim.jl) - Optical Simulation software.
 - [NOMAD.jl](https://github.com/bbopt/NOMAD.jl) - Julia interface to the NOMAD blackbox optimization software.
 - [BayesNets](https://github.com/sisl/BayesNets.jl) - Bayesian Networks for Julia.
+- [IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Find all roots of a function in a guaranteed way with Julia.
 
 ## Links
 

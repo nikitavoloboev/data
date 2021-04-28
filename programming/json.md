@@ -57,3 +57,4 @@
 - [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/) ([Code](https://github.com/json-schema-org/understanding-json-schema))
 - [quicktype](https://app.quicktype.io/) - Instantly parse JSON in any language. ([Tweet](https://twitter.com/steipete/status/1380860288791117835))
 - [JsonLogic](https://jsonlogic.com/) - Build complex rules and share them as JSON.
+- [JsQuery](https://github.com/postgrespro/jsquery) - JSON query language with GIN indexing support.
