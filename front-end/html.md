@@ -108,3 +108,4 @@
 - [Sortable Table Columns (2021)](https://adrianroselli.com/2021/04/sortable-table-columns.html)
 - [My current HTML Boilerplate (2021)](https://www.matuzo.at/blog/html-boilerplate/) - Summarized which elements I use for the basic structure of a HTML document in 2021, with explanations why. ([HN](https://news.ycombinator.com/item?id=26952557))
 - [Ammonia](https://github.com/rust-ammonia/ammonia) - Repair and secure untrusted HTML.
+- [Modeling and Reasoning about DOM Events](https://world.cs.brown.edu/~sk/Publications/Papers/Published/lckqk-model-reason-dom-events/paper.pdf)

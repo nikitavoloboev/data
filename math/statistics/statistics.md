@@ -92,3 +92,4 @@
 - [Nice Statistics term names (2021)](https://twitter.com/erikbryn/status/1376250955612581890)
 - [Lisp-Stat](https://lisp-stat.dev/) - Environment for Statistical Computing. ([Code](https://github.com/Lisp-Stat/lisp-stat)) ([HN](https://news.ycombinator.com/item?id=26632429))
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) - Light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. ([Code](https://github.com/matheusfacure/python-causality-handbook))
+- [Statistical approaches for performance analysis (2020)](https://aakinshin.net/posts/statistics-for-performance/)

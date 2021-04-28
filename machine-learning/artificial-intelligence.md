@@ -73,3 +73,4 @@
 - [Your Favorite AI Podcasts / Blogs / Newsletters / YouTube Channels? (2021)](https://www.reddit.com/r/MachineLearning/comments/mwwftu/d_your_favorite_ai_podcasts_blogs_newsletters/)
 - [We were promised Strong AI, but instead we got metadata analysis (2021)](https://calpaterson.com/metadata.html) ([HN](https://news.ycombinator.com/item?id=26941332))
 - [Is your AI project a nonstarter? (2018)](https://medium.com/hackernoon/ai-reality-checklist-be34e2fdab9) - Check(list) to help you avoid the pain of learning the hard way.
+- [The Coming AI Hackers (2021)](https://www.belfercenter.org/publication/coming-ai-hackers)
