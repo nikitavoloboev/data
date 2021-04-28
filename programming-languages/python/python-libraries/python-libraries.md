@@ -392,6 +392,7 @@
 - [Tenacity](https://github.com/jd/tenacity) - Retrying library for Python.
 - [Klepto](https://github.com/uqfoundation/klepto) - Persistent caching to memory, disk, or database.
 - [Python MSS](https://github.com/BoboTiG/python-mss) - Ultra fast cross-platform multiple screenshots module in pure Python using ctypes.
+- [rtoml](https://github.com/samuelcolvin/rtoml) - Better TOML library for python implemented in rust.
 
 ## Links
 

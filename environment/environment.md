@@ -108,3 +108,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Why has climate economics failed us? (2021)](https://noahpinion.substack.com/p/why-has-climate-economics-failed) ([Tweet](https://twitter.com/Noahpinion/status/1381830759883841539))
 - [We Are Living in a Climate Emergency, and We’re Going to Say So (2021)](https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/) ([HN](https://news.ycombinator.com/item?id=26800003))
 - [Job board to work on problems like climate change and food insecurity](https://goodjobs.careers/) ([HN](https://news.ycombinator.com/item?id=26858935))
+- [Heirloom](https://medium.com/@heirloomcarbon/announcing-heirloom-275d16a06df6) - Low-cost approach to direct air capture via mineralization.
