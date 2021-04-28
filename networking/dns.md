@@ -1,5 +1,9 @@
 # [DNS](http://en.wikipedia.org/wiki/Domain_Name_System)
 
+## Notes
+
+- [`dig +noall +answer DOMAIN` will get just the DNS info you want.](https://twitter.com/b0rk/status/1387490109168173057)
+
 ## Links
 
 - [How DNS works](https://howdns.works/) - Fun and colorful explanation of how DNS works.

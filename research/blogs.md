@@ -58,6 +58,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Seena Burns](http://seenaburns.com/archive/)
 - [Excalidraw Blog](https://blog.excalidraw.com/) ([Code](https://github.com/excalidraw/excalidraw-blog))
 - [All Things Distributed](https://www.allthingsdistributed.com/)
+- [New Science](https://newscience.org/)
 
 ## Links
 
