@@ -34,6 +34,7 @@
 
 - Programming is about solving problems. Programming a game isn't really any different. I start by thinking what problem is this game going to solve, as well as what other games might already do that. For example if I was making a physics puzzle game I would also consider "Why aren't they just playing Portal instead of this?" And go from there.
 - ["Mod" culture in gaming is an incredibly powerful, creative force that is responsible for nearly all popular games today. It allows non-technical users to tinker, create, and distribute to an engaged, pre-installed user base.](https://twitter.com/cpaik/status/1270824271204532226)
+- [To anyone who struggles with large-scale nature scenes. Test out the idea you have on a small square first, get all the elements to work together, and then build your scene from there. ](https://twitter.com/BlenderBrit/status/1386689708131033095)
 
 ## Links
 
