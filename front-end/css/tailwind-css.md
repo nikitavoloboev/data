@@ -81,3 +81,4 @@
 - [Tailwind UI: Now with React + Vue support (2021)](https://blog.tailwindcss.com/tailwind-ui-now-with-react-and-vue-support) ([Tweet](https://twitter.com/adamwathan/status/1382391188993478656))
 - [Building React + Vue support for Tailwind UI (2021)](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui) ([HN](https://news.ycombinator.com/item?id=26784484))
 - [Using Tailwind CSS's Headless UI for React (2021)](https://www.youtube.com/watch?v=CkIixGA1LqI)
+- [tailbuild](https://github.com/calebporzio/tailbuild) - Simple command to build a Tailwind CSS file for your project (with JIT compiling and watching).

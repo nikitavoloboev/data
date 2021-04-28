@@ -213,3 +213,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GistFS](https://github.com/jhchabran/gistfs) - Go io/fs filesystem implementation for reading files in a Github gists.
 - [git-xargs](https://github.com/gruntwork-io/git-xargs) - Command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [A Better Model for Stacked (GitHub) Pull Requests (2021)](https://timothyandrew.dev/blog/git-stack/) ([HN](https://news.ycombinator.com/item?id=26913959))
+- [GHToken](https://github.com/Link-/github-app-bash) - Create an installation access token for a GitHub app from your terminal.

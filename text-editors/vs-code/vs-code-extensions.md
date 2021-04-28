@@ -129,6 +129,7 @@ Below is a list of extensions I use.
 - [Footsteps](https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps) - Keep your place when jumping between a different parts of your code. ([Code](https://github.com/Wattenberger/footsteps-vscode))
 - [RayThis](https://marketplace.visualstudio.com/items?itemName=Goopware.raythis) - Generate pretty code snippets right out of VSCode. ([Code](https://github.com/ridarf/raythis))
 - [Checkov](https://marketplace.visualstudio.com/items?itemName=Bridgecrew.checkov) - Static code analysis tool for infrastrucutre-as-code. ([Code](https://github.com/bridgecrewio/checkov-vscode))
+- [Browse Lite](https://marketplace.visualstudio.com/items?itemName=antfu.browse-lite) - Embedded browser in VS Code. ([Code](https://github.com/antfu/vscode-browse-lite))
 
 ## Shell
 

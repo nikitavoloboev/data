@@ -74,3 +74,4 @@
 - [Pulumi](https://www.pulumi.com/) - Modern Infrastructure as Code. Any cloud, any language. ([Code](https://github.com/pulumi/pulumi)) ([HN](https://news.ycombinator.com/item?id=22866714)) ([HN 2](https://news.ycombinator.com/item?id=26880935))
 - [Piku](https://github.com/piku/piku) - Tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. ([GitHub](https://github.com/piku))
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Fleet](https://fleetdm.com/) - Open source device management. ([Code](https://github.com/fleetdm/fleet))

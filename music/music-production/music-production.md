@@ -76,6 +76,7 @@
 - [Sorceress](https://github.com/ooesili/sorceress) - Rust environment for sound synthesis and algorithmic composition.
 - [Mido](https://github.com/mido/mido) - MIDI Objects for Python.
 - [basedrop](https://github.com/glowcoil/basedrop) - Set of memory-management tools for real-time audio. ([Web](https://glowcoil.com/posts/basedrop/))
+- [FunDSP](https://github.com/SamiPerttu/fundsp) - Audio DSP library featuring an inline graph notation for audio processing.
 
 ## Inspiration
 
