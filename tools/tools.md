@@ -215,6 +215,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
+- [Focalboard](https://www.focalboard.com/) - Open source alternative to Trello, Asana, and Notion. ([Code](https://github.com/mattermost/focalboard))
 - [NoCo](https://noco.io/) - Low-code platform for engineering teams.
 - [listifi](https://listifi.app/) - Create lists to share with everyone. ([Code](https://github.com/neurosnap/listifi))
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.

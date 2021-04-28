@@ -289,6 +289,7 @@
 - [Liquid](https://github.com/maustinstar/liquid) - Create a playful backsplash in SwiftUI.
 - [AQUI](https://github.com/AlanQuatermain/AQUI) - Collection of SwiftUI views and utilities.
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Provides powerful methods to manipulate colors in an easy way in Swift and SwiftUI.
+- [FetchImage](https://github.com/kean/FetchImage) - Makes it easy to download images using Nuke and display them in SwiftUI apps.
 
 ## Test
 

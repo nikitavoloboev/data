@@ -28,3 +28,4 @@
 - [The unusual ways Western parents raise children (2021)](https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children) ([HN](https://news.ycombinator.com/item?id=26249242))
 - [Ask HN: What do you do to get your kids to programming? (2021)](https://news.ycombinator.com/item?id=26457473)
 - [What are your experiences with people who say you'll "change your mind" about having children? (2021)](https://www.reddit.com/r/AskMen/comments/mh2wuf/childfree_men_of_reddit_what_are_your_experiences/)
+- [KidsLoop](https://www.kidsloop.net/) - Adaptive platform for early years.
