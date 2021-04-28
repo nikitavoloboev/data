@@ -104,3 +104,4 @@
 - [Write tasks not user stories – Linear Method](https://linear.app/method/write-tasks-not-user-stories) ([HN](https://news.ycombinator.com/item?id=26809166))
 - [Manage Work not People (2021)](http://diego-pacheco.blogspot.com/2021/04/manage-work-not-people.html)
 - [A Checklist For First-Time Engineering Managers](https://blog.pragmaticengineer.com/checklist-for-first-time-managers/)
+- [Top Management Skills: SQL, Excel, Clear Communication, Story, Prioritization](https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/)
