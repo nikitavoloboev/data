@@ -32,3 +32,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Zsh Tricks to Blow Your Mind (2021)](https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind) ([HN](https://news.ycombinator.com/item?id=26175894))
 - [sandboxd](https://github.com/benvan/sandboxd) - Speed up your bashrc / zshrc: avoids running (slow) setup commands until you actually need them.
 - [zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh.
+- [Zim](https://github.com/zimfw/zimfw) - Modular, customizable, and blazing fast Zsh framework. ([Web](https://zimfw.sh/))

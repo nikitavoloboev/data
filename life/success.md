@@ -89,3 +89,4 @@ Success comes from not giving up and doing what you love.
 - [Patrick OShaughnessy's advice on life after turning 36 (2021)](https://twitter.com/patrick_oshag/status/1382781568343797767)
 - [Early YC Founders' Non-Linear Success on HN](https://twitter.com/stephsmithio/status/1384245328245714957) ([HN](https://news.ycombinator.com/item?id=26868333))
 - [4 behaviors of successful founders (2021)](https://twitter.com/Julian/status/1386785605145739266)
+- [Building a Mountain of Levers (2021)](https://www.ejorgenson.com/leverage) - Leverage, from idea to application. ([Tweet](https://twitter.com/EricJorgenson/status/1361444421892526081))
