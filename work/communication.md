@@ -19,6 +19,7 @@
 - [The gross thing about assuming all women in tech are dealing with impostor syndrome is that lots of men take it as permission to position themselves as your mentor rather than your peer.](https://twitter.com/amyngyn/status/1381416143684915207)
 - [My favorite question anyone asks me when I am struggling is, 'Do you want empathy or strategy right now?'](https://twitter.com/noampomsky/status/1382117707588456450)
 - [The business world now works like this: 1. If I don't know you > Zoom. 2. If I know you a bit > Email. 3. If we really work together / collaborate > Text.](https://twitter.com/lessin/status/1383534481705865221)
+- [Don’t confuse your critics with your haters. Critics see good in you too. Learn to value your critics. They aren’t trying to mess with you. They may not be correct but critics aren’t haters. Learn to spot the differences.](https://twitter.com/EricRWeinstein/status/1387219408645361665)
 
 ## Links
 

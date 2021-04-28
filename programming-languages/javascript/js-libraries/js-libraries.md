@@ -505,6 +505,7 @@
 - [stoplight/yaml](https://github.com/stoplightio/yaml) - Useful functions when working with YAML.
 - [Safe Await](https://github.com/DavidWells/safe-await) - Safely use async/await without all the try catch blocks.
 - [Casbin.js](https://github.com/casbin/casbin.js) - Authorization library that supports access control models like ACL, RBAC, ABAC in Frontend JavaScript.
+- [tidy.js](https://github.com/pbeshai/tidy) - Tidy up your data with JavaScript, inspired by dplyr and the tidyverse.
 
 ## Links
 
