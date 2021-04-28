@@ -784,6 +784,7 @@
 - [fastime](https://github.com/kpango/fastime) - Super fast time function library for Go with zero memory allocation. Returns the approximate time.
 - [Redsync](https://github.com/go-redsync/redsync) - Distributed mutual exclusion lock using Redis for Go.
 - [PEG](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
+- [Grafana Plugin SDK for Go](https://github.com/grafana/grafana-plugin-sdk-go) - Go SDK for building backend plugins for Grafana.
 
 ## Links
 

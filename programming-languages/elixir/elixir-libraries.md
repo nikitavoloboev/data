@@ -53,6 +53,7 @@
 - [Boundary](https://github.com/sasa1977/boundary) - Manage and restrain cross-module dependencies in Elixir projects.
 - [Poison](https://github.com/devinus/poison) - Incredibly fast, pure Elixir JSON library.
 - [Exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque / Sidekiq.
+- [Twirp](https://github.com/keathley/twirp-elixir) - Elixir implementation of the twirp RPC framework.
 
 ## Links
 

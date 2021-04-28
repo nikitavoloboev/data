@@ -162,3 +162,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Collection of higher-level reusable cdk constructs](https://github.com/cloudcomponents/cdk-constructs)
 - [ecsk](https://github.com/yukiarrr/ecsk) - CLI tool that you can interactively call Amazon ECS APIs (run-task, execute-command, stop-task), copy files between ECS and local, and view logs.
 - [Diving Deep on S3 Consistency (2021)](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html) ([HN](https://news.ycombinator.com/item?id=26968627))
+- [[MAMIP] Monitor AWS Managed IAM Policies](https://github.com/z0ph/MAMIP)

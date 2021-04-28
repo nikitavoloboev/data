@@ -4,6 +4,7 @@
 
 - [Linear.app clone](https://github.com/tuan3w/linearapp_clone) - Uses React and Tailwind CSS.
 - [MacOS in React](https://macos.now.sh/) ([Code](https://github.com/PuruVJ/macos-web))
+- [DDDForum.com](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript & DDD from solidbook.io.
 
 ## Notes
 
