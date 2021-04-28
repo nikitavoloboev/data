@@ -8,3 +8,4 @@
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Complex query language implementation for the Obsidian note-taking tool.
 - [Templater](https://github.com/SilentVoid13/Templater) - Template plugin for obsidian.
 - [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) - Create/manage your daily, weekly, and monthly notes in Obsidian.
+- [Obsidian Mind Map](https://github.com/lynchjames/obsidian-mind-map) - Obsidian plugin for displaying markdown notes as mind maps using Markmap.

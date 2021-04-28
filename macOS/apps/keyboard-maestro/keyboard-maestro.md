@@ -29,3 +29,4 @@ I share [all the macros I use](km-macros.md) with the app.
 - [Little Approach I use to quickly prototype new macros](https://forum.keyboardmaestro.com/t/little-approach-i-use-to-quickly-prototype-new-macros/8091)
 - [Simplicity vs Complexity](https://forum.keyboardmaestro.com/t/simplicity-vs-complexity/11259)
 - [KM Wiki](https://wiki.keyboardmaestro.com/Home_Page) ([Quick Start](https://wiki.keyboardmaestro.com/manual/Quick_Start))
+- [Keyboard Maestro Course](https://www.youtube.com/playlist?list=PLsFZ0c2Wsoy8U8NA1C6Bii5ylV4sFyIzt)
