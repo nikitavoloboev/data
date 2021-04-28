@@ -731,6 +731,7 @@
     - [Polkadot](databases/blockchain/polkadot.md)
     - [Cardano](databases/blockchain/cardano.md)
     - [Arweave](databases/blockchain/arweave.md)
+    - [Solana](databases/blockchain/solana.md)
 - [Art](art/art.md)
   - [Photography](art/photography.md)
   - [Drawing](art/drawing.md)

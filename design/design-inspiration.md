@@ -76,6 +76,7 @@ Here are few more things I liked, design wise.
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
 - [Numinus](https://numinus.ca/)
+- [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)
 - [Logology](https://www.logology.co/)
 - [Quill](https://quill.chat/) - Nice mobile & desktop view.

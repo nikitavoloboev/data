@@ -124,7 +124,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Why The NFT Market Is Not As Crazy As You Think (2021)](https://www.youtube.com/watch?v=UpXCUEOcyNs)
 - [a16z Podcast: All about NFTs (2021)](https://a16z.com/2021/03/27/nfts-explainer-faqs-hype-reality-innovation-crypto-creator-economy/)
 - [NFT Canon](https://a16z.com/2021/04/02/nfts-readings-resources/) - Curated list of readings and resources on all things NFTs.
-- [Solana](https://solana.com/) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. ([Code](https://github.com/solana-labs/solana)) ([Reddit](https://www.reddit.com/r/solana/)) ([Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)) ([Solana Scaling Potential](https://www.youtube.com/watch?v=FbCUHBhf-rU))
 - [Storage Chains Compared](https://skynetwiki.tech/storage-chains-compared/)
 - [Storj vs Filecoin (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mgxskc/storj_vs_filecoin/)
 - [Kulupu](https://kulupu.network/) - Proof of work blockchain with on-chain governance and online upgrade. ([Code](https://github.com/kulupu/kulupu))
@@ -132,7 +131,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Chris Dixon - The Potential of Blockchain Technology (2021)](https://www.joincolossus.com/episodes/22848496/dixon-the-potential-of-blockchain-technology)
 - [Awesome-NFT](https://github.com/gianni-dalerta/awesome-nft) - Curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
 - [Most promising novel distributed ledger consensus and/or sharding mechanisms (2021)](https://www.reddit.com/r/CryptoTechnology/comments/mrir3o/what_are_the_most_promising_novel_distributed/)
-- [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html))
 - [LazyLedger](https://lazyledger.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/lazyledger/lazyledger-core))
 - [Gravity Bridge](https://github.com/cosmos/gravity-bridge) - CosmosSDK application for moving assets on and off of EVM based, POW chains.
 - [Horizon Blockchain Games](https://horizon.io/) - Building a New Dimension where Internet economies are fun, accessible, and for the benefit of all participants.
