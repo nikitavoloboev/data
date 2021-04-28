@@ -161,3 +161,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon S3 Object Lambda (2021)](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/) ([HN](https://news.ycombinator.com/item?id=26520021))
 - [Collection of higher-level reusable cdk constructs](https://github.com/cloudcomponents/cdk-constructs)
 - [ecsk](https://github.com/yukiarrr/ecsk) - CLI tool that you can interactively call Amazon ECS APIs (run-task, execute-command, stop-task), copy files between ECS and local, and view logs.
+- [Diving Deep on S3 Consistency (2021)](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)

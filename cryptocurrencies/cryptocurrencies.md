@@ -86,3 +86,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still used to make [wasteful & slow t
 - [Et tu, Signal? (2021)](https://www.stephendiehl.com/blog/signal.html) ([HN](https://news.ycombinator.com/item?id=26724237))
 - [Why Cryptocurrency Is A Giant Fraud (2021)](https://www.currentaffairs.org/2021/04/why-cryptocurrency-is-a-giant-fraud) ([HN](https://news.ycombinator.com/item?id=26885008))
 - [rate.sx](http://rate.sx/) - Console service for exploring (crypto)currencies exchange rates. ([Code](https://github.com/chubin/rate.sx))
+- [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with trailing buy/sell strategy.

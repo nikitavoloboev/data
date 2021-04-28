@@ -29,3 +29,4 @@
 - [cypress-websocket-testing](https://github.com/lensesio/cypress-websocket-testing) - Test your WebSocket endpoints using Cypress.
 - [Improve your custom command logs in Cypress (2021)](https://filiphric.com/improve-your-custom-command-logs-in-cypress)
 - [Cypress Fail Fast](https://github.com/javierbrea/cypress-fail-fast) - Cypress plugin to skip tests on first failure.
+- [Visual testing with Cypress and Percy](https://github.com/percy/percy-cypress)

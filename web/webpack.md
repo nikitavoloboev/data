@@ -17,6 +17,7 @@
 - [esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin) - Use esbuild as minifier for webpack.
 - [SVG sprite loader](https://github.com/JetBrains/svg-sprite-loader) - Webpack loader for creating SVG sprites.
 - [Webpack Virtual Modules](https://github.com/sysgears/webpack-virtual-modules) - Plugin that allows for dynamical generation of in-memory virtual modules for JavaScript builds created with webpack.
+- [responsive-loader](https://github.com/dazuaz/responsive-loader) - Webpack loader for responsive images.
 
 ## Links
 

@@ -35,3 +35,4 @@
 - [Android Architecture Components samples](https://github.com/android/architecture-components-samples) ([Web](https://developer.android.com/topic/libraries/architecture))
 - [Litho](https://github.com/facebook/litho) - Declarative framework for building efficient UIs on Android. ([Web](https://fblitho.com/))
 - [JADX](https://github.com/skylot/jadx) - Command line and GUI tools for producing Java source code from Android Dex and Apk files.
+- [unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
