@@ -248,3 +248,4 @@ I love Git and version control. And I use version control over any project I do.
 - [GitAhead](https://gitahead.github.io/gitahead.com/) - Graphical Git client for Windows, Linux and macOS. ([Code](https://github.com/gitahead/gitahead))
 - [Gitlet.js](https://github.com/maryrosecook/gitlet) - Git implemented in JavaScript. ([Docs](http://gitlet.maryrosecook.com/docs/gitlet.html)) ([HN](https://news.ycombinator.com/item?id=26787376))
 - [git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs with syntax highlighting in your terminal.
+- [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/) ([HN](https://news.ycombinator.com/item?id=26961044))

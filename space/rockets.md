@@ -13,3 +13,4 @@
 - [Rocket Lab Unveils Plans for New 8-Ton Class Reusable Rocket (2021)](https://www.rocketlabusa.com/about-us/updates/rocket-lab-unveils-plans-for-new-8-ton-class-reusable-rocket-for-mega-constellation-deployment/) ([Tweet](https://twitter.com/RocketLab/status/1366358673522499588))
 - [SpaceX's Starship SN10 Successfully Lands After Amazing Flight. Dismantles Itself Spectacularly. (2021)](https://www.youtube.com/watch?v=CF9mdMI1qxM) ([Reddit](https://www.reddit.com/r/spacex/comments/lxq997/spacexs_starship_sn10_successfully_lands_after/))
 - [SN69 Rocket](https://twitter.com/ErcXspace/status/1382096113860239365)
+- [Orbital Mechanics – How do rockets get to where they're headed?](https://steemit.com/steemstem/@alexdory/how-do-rockets-really-get-to-where-they-re-headed-orbital-mechanics) ([HN](https://news.ycombinator.com/item?id=26944249))

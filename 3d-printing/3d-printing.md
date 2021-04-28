@@ -21,3 +21,4 @@
 - [printinator](https://github.com/jessfraz/printinator) - macOS menu bar for 3D printers.
 - [Zine Machine](https://hibred.pmvabf.org/zine-machine) - Compact 3D-printed block printing press. ([HN](https://news.ycombinator.com/item?id=26270251))
 - [OpenScan](https://github.com/OpenScanEu/OpenScan) - All you need to build your 3D Scanner.
+- [A house 3D printed from raw earth](https://www.itsnicethat.com/news/tecla-house-mario-cucinella-wasp-architecture-270421) ([HN](https://news.ycombinator.com/item?id=26954712))

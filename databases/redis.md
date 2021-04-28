@@ -59,3 +59,5 @@
 - [Redis Input/Output Tools (RIOT)](https://github.com/redis-developer/riot) - Series of utilities designed to help you get data in and out of Redis.
 - [How much faster is Redis at storing a blob of JSON compared to PostgreSQL? (2019)](https://www.peterbe.com/plog/redis-vs-postgres-blob-of-json) ([HN](https://news.ycombinator.com/item?id=26850639))
 - [RedisGraph](https://github.com/RedisGraph/RedisGraph) - Graph database module for Redis. ([Docs](https://oss.redislabs.com/redisgraph/))
+- [KeyDB CEO Interview: Getting into YC with a Fork of Redis](https://console.dev/qa/keydb-john-sully/) ([HN](https://news.ycombinator.com/item?id=26956846))
+- [Using a disk-based Redis clone to reduce AWS S3 bill (2021)](https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill) ([HN](https://news.ycombinator.com/item?id=26955404))

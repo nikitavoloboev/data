@@ -472,4 +472,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [List of Aesthetics](https://aesthetics.fandom.com/wiki/List_of_Aesthetics)
 - [Ask HN: What is your favorite daily-use object? (2021)](https://news.ycombinator.com/item?id=26934770)
 - [AtJSON](https://github.com/CondeNast/atjson) - Living content format for annotating content.
-- [Swimlanes.io](https://swimlanes.io/) - Generated editable sequence diagrams.
+- [Swimlanes.io](https://swimlanes.io/) - Generated editable sequence diagrams. ([HN](https://news.ycombinator.com/item?id=26956728))
