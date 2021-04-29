@@ -149,3 +149,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Mailspring](https://getmailspring.com/) - Beautiful, fast and fully open source mail client for Mac, Windows and Linux. ([Code](https://github.com/Foundry376/Mailspring))
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS. ([Docs](https://nodemailer.com/about/))
 - [Inbucket](http://disposable.dhc-app.com/) - Self-hosted disposable mail service. ([Code](https://github.com/denghongcai/forsaken-mail))
+- [How to write cold emails to investors – lessons from 30 VCs (2021)](https://www.flowrite.com/blog/cold-email-to-investors) ([HN](https://news.ycombinator.com/item?id=26982029))

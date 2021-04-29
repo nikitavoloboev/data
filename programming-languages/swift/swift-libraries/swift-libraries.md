@@ -305,6 +305,7 @@
 - [Difference](https://github.com/krzysztofzablocki/Difference) - Simple way to identify what is different between 2 instances of any type. Must have for TDD.
 - [Pages](https://github.com/nachonavarro/Pages) - Lightweight, paging view solution for SwiftUI.
 - [Mockolo](https://github.com/uber/mockolo) - Efficient Mock Generator for Swift.
+- [Mocker](https://github.com/WeTransfer/Mocker) - Library written in Swift which makes it possible to mock data requests using a custom URLProtocol.
 
 ## API
 
