@@ -38,3 +38,4 @@
 - [Why does one NGINX worker take all the load? (2017)](https://blog.cloudflare.com/the-sad-state-of-linux-socket-balancing/)
 - [Common Nginx misconfigurations that leave your web server open to attack (2020)](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/) ([HN](https://news.ycombinator.com/item?id=26259955))
 - [Nginx Cheatsheet (2021)](https://vishnu.hashnode.dev/nginx-cheatsheet)
+- [The NGINX Handbook (2021)](https://www.freecodecamp.org/news/the-nginx-handbook/)
