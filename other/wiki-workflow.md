@@ -139,6 +139,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Uncertainty Mindset Wiki](https://uncertaintymindset.org/UM1/index.html)
 - [Kormyen's Memex](https://kormyen.github.io/memex/)
 - [Chotrin's Wiki](https://chotrin.tilde.institute/)
+- [Sridhar Ratnakumar](https://notes.srid.ca/) ([Code](https://github.com/srid/notes.srid.ca))
 - [Uzay-G's Wiki](https://knowledge.uzpg.me/)
 - [Clinton Boys's Garden](http://mtsolitary.com/)
 - [Brett Abramczyk's Wiki](https://github.com/babramczyk/wiki)

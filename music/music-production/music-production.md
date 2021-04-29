@@ -199,3 +199,4 @@
 - [DataLooper](https://www.datalooperpedal.com/) - Ultimate Ableton Foot Controller.
 - [Live-coding ambient music in SuperCollider (2020)](https://www.youtube.com/watch?v=bW1otBbTh-E)
 - [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music)
+- [Web Audio Resources](https://github.com/alemangui/web-audio-resources)
