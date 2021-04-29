@@ -44,3 +44,4 @@
 - [How Safe Is Zig?](https://scattered-thoughts.net/writing/how-safe-is-zig/) ([Lobsters](https://lobste.rs/s/v5y4jb/how_safe_is_zig)) ([HN](https://news.ycombinator.com/item?id=26537693))
 - [Zig Playground](https://zig-play-a9lwj.ondigitalocean.app/) - Online Zig compiler inspired by Go and Rust. ([Code](https://github.com/gsquire/zig-play))
 - [zigdoc](https://github.com/g-w1/zigdoc) - zig -> docs.
+- [zig.run](https://zig.run/) - Run and play with Zig source code. ([Code](https://github.com/jlauman/zig.run))

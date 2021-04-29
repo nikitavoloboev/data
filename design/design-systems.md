@@ -117,3 +117,4 @@
 - [Design System Questionnaire](https://github.com/bradfrost/design-system-questionnaire)
 - [Component Gallery](https://component.gallery/) - Collection of interface components from real-world design systems.
 - [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
+- [Specify](https://specifyapp.com/) - One Design API, for all your design system tools. ([Specify Parsers](https://github.com/Specifyapp/parsers))

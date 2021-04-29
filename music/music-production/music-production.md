@@ -77,6 +77,7 @@
 - [Mido](https://github.com/mido/mido) - MIDI Objects for Python.
 - [basedrop](https://github.com/glowcoil/basedrop) - Set of memory-management tools for real-time audio. ([Web](https://glowcoil.com/posts/basedrop/))
 - [FunDSP](https://github.com/SamiPerttu/fundsp) - Audio DSP library featuring an inline graph notation for audio processing.
+- [PunKt](https://github.com/pjagielski/punkt) - Live coding music library/environment for Kotlin.
 
 ## Inspiration
 
@@ -197,3 +198,4 @@
 - [Short Introduction To MIDI](https://mido.readthedocs.io/en/latest/about_midi.html)
 - [DataLooper](https://www.datalooperpedal.com/) - Ultimate Ableton Foot Controller.
 - [Live-coding ambient music in SuperCollider (2020)](https://www.youtube.com/watch?v=bW1otBbTh-E)
+- [Awesome Live Coding Music](https://github.com/pjagielski/awesome-live-coding-music)

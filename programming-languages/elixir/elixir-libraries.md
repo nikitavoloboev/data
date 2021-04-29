@@ -12,6 +12,7 @@
 ## DB
 
 - [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir.
+- [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [EctoMorph](https://github.com/Adzz/ecto_morph) - Morphs your Ecto capabilities.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
 - [Hierarch](https://github.com/Byzanteam-Labs/hierarch) - Tree structure & hierarchy for ecto models with ltree (Postgres).

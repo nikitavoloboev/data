@@ -61,3 +61,4 @@
 - [CoqPL: Verifying a compiler through equational means (2021)](https://www.youtube.com/watch?v=Qj8dGo010zI)
 - [Formalization of the Calculus of Constructions in Coq](https://github.com/coq-contribs/coq-in-coq)
 - [Coq Library of Undecidability Proofs](https://github.com/uds-psl/coq-library-undecidability)
+- [Perennial](https://github.com/mit-pdos/perennial) - Verifying concurrent crash-safe systems.

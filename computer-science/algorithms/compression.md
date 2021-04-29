@@ -47,3 +47,4 @@
 - [Compressing data with Parquet (2021)](https://dev.l1x.be/posts/2021/03/08/compressing-data-with-parquet/)
 - [Lossless Text Compression](https://bilalonureskili.com/files/LTC_en.pdf) ([HN](https://news.ycombinator.com/item?id=26722960))
 - [CompressAI](https://github.com/InterDigitalInc/CompressAI) - PyTorch library and evaluation platform for end-to-end compression research.
+- [zipindex](https://github.com/minio/zipindex) - Package for indexing zip files and storing a compressed index.
