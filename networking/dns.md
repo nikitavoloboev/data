@@ -95,3 +95,4 @@
 - [dnspeep](https://github.com/jvns/dnspeep) - Lets you spy on the DNS queries your computer is making.
 - [hyper-dns](https://github.com/martinheidegger/hyper-dns) - DNS lookup for dat/hyper archives.
 - [The Sisyphean Task Of DNS Client Config on Linux (2021)](https://tailscale.com/blog/sisyphean-dns-client-linux/) ([HN](https://news.ycombinator.com/item?id=26821298)) ([Lobsters](https://lobste.rs/s/v9w4ax/sisyphean_task_dns_client_config_on_linux))
+- [We Built Our Own DNS Infrastructure (2021)](https://blog.replit.com/dns)
