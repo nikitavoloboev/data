@@ -105,3 +105,4 @@
 - [Manage Work not People (2021)](http://diego-pacheco.blogspot.com/2021/04/manage-work-not-people.html)
 - [A Checklist For First-Time Engineering Managers](https://blog.pragmaticengineer.com/checklist-for-first-time-managers/)
 - [Top Management Skills: SQL, Excel, Clear Communication, Story, Prioritization](https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/)
+- [What can managers do to help colleague that came back from a burnout to reintegrate better (2021)](https://twitter.com/pmarquees/status/1387704907025747970)
