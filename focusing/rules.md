@@ -11,7 +11,8 @@
 - Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply (from first principles). Move in right direction. Move fast. No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- Don't compare myself to other people. Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
+- [Don't compare myself to other people](https://twitter.com/_Pammy_DS_/status/1387212857016786948). [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665). Improve.
+- Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
