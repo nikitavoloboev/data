@@ -117,3 +117,4 @@
 - [Actually, You Are Rolling Your Own Crypto (2021)](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/) ([Lobsters](https://lobste.rs/s/vi6chi/actually_you_are_rolling_your_own_crypto))
 - [ZenGo Research](https://www.zengo.com/research/) - Goal is to take threshold cryptography all the way from theory to your mobile device (or any consumer software/hardware). ([GitHub](https://github.com/ZenGo-X))
 - [Cryptofuzz](https://github.com/guidovranken/cryptofuzz) - Differential cryptography fuzzing.
+- [Cryptography and how to deal with man-in-the-middle attacks in JavaScript](https://blog.sessionstack.com/how-javascript-works-cryptography-how-to-deal-with-man-in-the-middle-mitm-attacks-bf8fc6be546c) ([HN](https://news.ycombinator.com/item?id=26979300))

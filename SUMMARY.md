@@ -312,6 +312,7 @@
   - [Pascal](programming-languages/pascal.md)
   - [Self](programming-languages/self.md)
   - [Factor](programming-languages/factor.md)
+  - [Fortran](programming-languages/fortran.md)
   - [Ink](programming-languages/ink.md)
   - [Haxe](programming-languages/haxe/haxe.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)

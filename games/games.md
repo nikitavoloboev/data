@@ -97,6 +97,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Mindustry](https://mindustrygame.github.io/) - Sandbox tower-defense game. ([Code](https://github.com/Anuken/Mindustry))
 - [OpenTTD](https://www.openttd.org/) - Open source simulation game based upon Transport Tycoon Deluxe. ([Code](https://github.com/OpenTTD/OpenTTD))
 - [Liblast](https://github.com/unfa/liblast) - Libre multiplayer FPS game created in Godot.
+- [Nine Chronicles](https://github.com/planetarium/NineChronicles) - Open source online RPG without servers.
 
 ## Awesome games (other)
 

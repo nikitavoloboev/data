@@ -120,3 +120,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/) - Algorithmic self-composing acid techno music. ([HN](https://news.ycombinator.com/item?id=26870666)) ([Code](https://github.com/vitling/acid-banger))
 - [Deriving the piano keyboard from biological principles using clustering](https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html) ([HN](https://news.ycombinator.com/item?id=26860627))
 - [Basic Music Theory in ~200 Lines of Python (2021)](https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python) ([HN](https://news.ycombinator.com/item?id=26859907))
+- [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/) ([HN](https://news.ycombinator.com/item?id=26977869))

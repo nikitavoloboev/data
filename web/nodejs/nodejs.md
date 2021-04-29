@@ -2,6 +2,10 @@
 
 I use [np](https://github.com/sindresorhus/np) to publish packages.
 
+## Notes
+
+- [I use package.json scripts as entrypoints to custom JS scripts. Make is a build tool, not a meta-shellscript format.](https://news.ycombinator.com/item?id=26978206)
+
 ## Links
 
 - [Introduction to Node.js](https://nodejs.dev/)

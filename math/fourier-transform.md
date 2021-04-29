@@ -21,3 +21,4 @@
 - [xrft](https://github.com/xgcm/xrft) - Fourier transforms on xarray data structures.
 - [Fourier Analysis Course Notes](https://github.com/NanoScaleDesign/FourierAnalysis)
 - [What is a Discrete Fourier Transform? (2020)](https://www.youtube.com/watch?v=g8RkArhtCc4)
+- [The Fourier transform is a neural network (2021)](https://sidsite.com/posts/fourier-nets/) ([HN](https://news.ycombinator.com/item?id=26980169))
