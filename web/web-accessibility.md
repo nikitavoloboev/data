@@ -58,3 +58,4 @@
 - [Overlay Fact Sheet](https://overlayfactsheet.com/) - Introduction, definition, and history of web accessibility overlays.
 - [Web Accessibility Fundamentals Workshop](https://www.sandrina-p.net/workshop-a11y/)
 - [Modern CSS Upgrades To Improve Accessibility (2021)](https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/)
+- [Practical Accessibility](https://practical-accessibility.today/) - Web accessibility course for Web designers and developers, by Sara Soueidan.

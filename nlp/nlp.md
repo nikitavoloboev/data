@@ -280,3 +280,4 @@
 - [Berkeley Neural Parser](https://github.com/nikitakit/self-attentive-parser) - High-accuracy NLP parser with models for 11 languages. ([Web](https://parser.kitaev.io/))
 - [nlpaug](https://github.com/makcedward/nlpaug) - Data augmentation for NLP.
 - [Top2Vec](https://github.com/ddangelov/Top2Vec) - Learns jointly embedded topic, document and word vectors.
+- [Focused Attention Improves Document-Grounded Generation (2021)](https://arxiv.org/abs/2104.12714) ([Code](https://github.com/shrimai/Focused-Attention-Improves-Document-Grounded-Generation))

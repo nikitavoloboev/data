@@ -69,6 +69,7 @@
 - [Computer Science 521 Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall13/cos521/)
 - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages (2015)](https://pragprog.com/titles/jbmaze/mazes-for-programmers/)
+- [Papers anyone teaching algorithms & data should include (2021)](https://twitter.com/XandaSchofield/status/1387513839449645056)
 
 ## Images
 

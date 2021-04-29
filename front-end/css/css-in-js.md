@@ -39,3 +39,4 @@
 - [Stitches Zigzag](https://github.com/garand/stitches-zigzag) - Tailwind inspired tools to build fast with Stitches.
 - [Stylin](https://github.com/sultan99/stylin) - Build-time CSS library that offers an elegant way to style React components.
 - [Sprinkles](https://github.com/seek-oss/vanilla-extract/tree/master/packages/sprinkles) - Zero-runtime atomic CSS framework for vanilla-extract.
+- [Fower](https://github.com/forsigner/fower) - Utility-first CSS in JS library for rapid UI development.

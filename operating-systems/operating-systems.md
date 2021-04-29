@@ -93,6 +93,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [M3](https://github.com/TUD-OS/M3) - Microkernel-based system for heterogeneous manycores.
 - [vanadinite](https://github.com/repnop/vanadinite) - RISC-V OS written in Rust.
 - [Tetris-OS](https://github.com/jdah/tetris-os) - Operating system that only plays Tetris. ([HN](https://news.ycombinator.com/item?id=26883645)) ([Video](https://www.youtube.com/watch?v=FaILnmUYS_U))
+- [Helium](https://github.com/mszoek/helium) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS.
 
 ## Notes
 
