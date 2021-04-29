@@ -19,6 +19,7 @@
 - [5 ways to monetize your open source project as an individual: 1. Ads 2. Licensing 3. Consulting 4. Sponsors 5. Premium Code](https://twitter.com/zenorocha/status/1313140411699920899)
 - [No one can actually prove ads any any ROI at all. No one is willing to run the experiments necessary. In the few cases of natural experiments, where ads got turned off for some people by accident, there was no change in buying behavior.](https://news.ycombinator.com/item?id=25623858)
 - [How to sell your product: tell people how they can solve the problem it solves, without buying your product.](https://twitter.com/shl/status/1369026126366994432)
+- [Simple marketing rule: If you make people feel good, those "people" will be customers for life](https://twitter.com/gregisenberg/status/1385586957519147008)
 
 ## Links
 

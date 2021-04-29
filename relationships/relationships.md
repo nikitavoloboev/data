@@ -11,6 +11,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Believing in friends rather than snubbing them for not “being on your level” is a generally smart practice.](https://twitter.com/rsg/status/1387817238422556673)
 - [I need kindness and thoughtfulness. I communicate it right away. I’m a fairly sensitive guy and don’t feel like that’s a negative quality so I need a partner that’s nice and who lets me know they’re thinking about me. Not like 24/7 texting thing but I just like knowing I’m being considered. From major decisions to small shit like asking me if I want something from the store.](https://www.reddit.com/r/datingoverthirty/comments/n14q9a/men_what_do_you_understand_to_be_your_emotional/)
 - [I need someone who gives the benefit of the doubt and assumes positive intent. Sometimes words or actions can be misinterpreted. Hopefully I have shown my partner that I am a good, caring person. So if something seems out of character, they should check in rather than assuming the worst. I do that in return by saying "Hey, when you said X it made me feel [mad/sad/rejected] because it sounds like [you're mad at me / frustrated / unsupported]. Am I reading that correctly?"](https://www.reddit.com/r/datingoverthirty/comments/n14q9a/men_what_do_you_understand_to_be_your_emotional/)
+- [Патриархат должен умереть, семья это про партнёрство, уважение и решение проблем вместе, как вы их разруливаете это не важно.](https://twitter.com/mlfrg/status/1384536293921726465)
 
 ## Links
 

@@ -173,3 +173,4 @@
 - [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) - Google Colab based no-cost toolbox to explore Deep-Learning in Microscopy.
 - [How do you manage Data Science experiments? (2021)](https://www.reddit.com/r/MachineLearning/comments/n0bsag/d_how_do_you_manage_data_science_experiments/)
 - [Querybook](https://www.querybook.org/) - Big Data Querying UI, combining collocated table metadata and a simple notebook interface. ([Code](https://github.com/pinterest/querybook))
+- [Principal Component Analysis explained](https://twitter.com/TivadarDanka/status/1387399961143353347)
