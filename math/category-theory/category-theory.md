@@ -114,6 +114,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [The Categorical Machine: Part 1 (Applied Category Theory) (2020)](https://www.youtube.com/watch?v=hU8lG-R67Qg) - Compare Functional Programming, Lambda Calculus, and Categories (Cats).
 - [Category Theoretic Approaches to Machine Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
 - [Towards Categorical Foundations of Learning (2021)](https://www.brunogavranovic.com/posts/2021-03-03-Towards-Categorical-Foundations-Of-Neural-Networks.html)
+- [Category theory is a universal modeling language](http://math.mit.edu/~dspivak/informatics/)
 
 ## Images
 

@@ -272,6 +272,7 @@
 - [StartupToolchain](https://startuptoolchain.com/) - Curated list of startup tools in a single page.
 - [First 18 months of a startup (2021)](https://twitter.com/Suhail/status/1382351985584721926) ([HN](https://news.ycombinator.com/item?id=26808427))
 - [My startup failed, then I found out I was unemployable (2021)](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html) ([HN](https://news.ycombinator.com/item?id=26792876))
+- [Build a SaaS Platform with Stripe (2021)](https://jonmeyers.io/blog/build-a-saas-platform-with-stripe) ([Tweet](https://twitter.com/_dijonmusters/status/1387399124165677057?s=28))
 
 ## Images
 

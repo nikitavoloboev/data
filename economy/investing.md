@@ -177,3 +177,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [John Bogle's 10 Rules of Investing](https://www.youtube.com/watch?v=ItmmwvCBJqg) ([Reddit](https://www.reddit.com/r/Bogleheads/comments/mp2eve/john_bogles_10_rules_of_investing_founder_of/))
 - [Those who are leanfired or working towards it, how do you currently invest? (2021)](https://www.reddit.com/r/leanfire/comments/mpvk0o/those_who_are_leanfired_or_working_towards_it_how/)
 - [Why not go 100% vanguard target? (2021)](https://www.reddit.com/r/Bogleheads/comments/my6tux/why_not_go_100_vanguard_target/)
+- [Things to consider before putting on an options trade (2021)](https://www.reddit.com/r/options/comments/n13xal/things_to_consider_before_putting_on_an_options/)
