@@ -39,3 +39,4 @@
 - [CombineCocoa](https://github.com/CombineCommunity/CombineCocoa) - Combine publisher bridges for UIKit.
 - [Combine Getting Started Guide (2021)](https://6ary.medium.com/combine-getting-started-guide-c5ac0febc04c)
 - [Designing API using Combine framework (2021)](https://swiftwithmajid.com/2021/04/07/designing-api-using-combine-framework/)
+- [Combine Expectations](https://github.com/groue/CombineExpectations) - Utilities for tests that wait for Combine publishers.
