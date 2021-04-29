@@ -100,6 +100,7 @@
 - [Speedy2D](https://github.com/QuantumBadger/Speedy2D) - Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.
 - [Skui](https://github.com/skui-org/skui) - Skia-based C++ UI framework.
 - [nuklear-rust](https://github.com/snuk182/nuklear-rust) - Bindings to the Nuklear 2D immediate GUI library.
+- [Tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust.
 
 ## DB
 

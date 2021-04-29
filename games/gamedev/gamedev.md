@@ -169,3 +169,4 @@
 - [CloudMorph](https://github.com/giongto35/cloud-morph) - Decentralized, self-hosted cloud gaming/cloud application platform.
 - [Game accessibility guidelines](http://gameaccessibilityguidelines.com/) - Straightforward reference for inclusive game design. ([HN](https://news.ycombinator.com/item?id=26913554))
 - [Making an online multiplayer game in Rust with Nakama (2021)](https://heroiclabs.com/blog/tutorials/rust-fishgame/)
+- [Open Saves](https://github.com/googleforgames/open-saves) - Open-source, purpose-built single interface for multiple storage backends on Google Cloud.

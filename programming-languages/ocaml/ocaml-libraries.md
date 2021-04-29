@@ -89,6 +89,7 @@
 - [eioio](https://github.com/ocaml-multicore/eioio) - Effects-based direct-style IO for multicore OCaml.
 - [RES](https://github.com/mmottl/res) - OCaml library for resizable arrays and strings.
 - [Preface](https://github.com/xvw/preface) - Opinionated library designed to facilitate the handling of recurring functional programming idioms in OCaml.
+- [OCaml Containers](https://github.com/c-cube/ocaml-containers) - Modular, clean and powerful extension of the OCaml standard library.
 
 ## Links
 
