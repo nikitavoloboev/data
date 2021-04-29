@@ -82,4 +82,4 @@
 - [Building React + Vue support for Tailwind UI (2021)](https://blog.tailwindcss.com/building-react-and-vue-support-for-tailwind-ui) ([HN](https://news.ycombinator.com/item?id=26784484))
 - [Using Tailwind CSS's Headless UI for React (2021)](https://www.youtube.com/watch?v=CkIixGA1LqI)
 - [tailbuild](https://github.com/calebporzio/tailbuild) - Simple command to build a Tailwind CSS file for your project (with JIT compiling and watching).
-- [Tailwind JIT as a CDN](https://github.com/beyondcode/tailwind-jit-api) - Use the full power of Tailwind CSS' new JIT compiler by including one script tag to your HTML.
+- [Tailwind JIT as a CDN](https://github.com/beyondcode/tailwind-jit-api) - Use the full power of Tailwind CSS' new JIT compiler by including one script tag to your HTML. ([Demo](https://twitter.com/marcelpociot/status/1387513006351953920))

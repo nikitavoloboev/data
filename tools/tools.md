@@ -231,6 +231,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
 - [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
 - [Luma Profile](https://lu.ma/new) - Best Homepage for Creators. Show off your work, collect email addresses, and sell products.
+- [Butter](https://butter.us/) - Workshops as smooth as butter.
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content with just one link.
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
 - [Pantry](https://getpantry.cloud/) - Free data storage as a service. A good resource when building personal projects, apps for hackathons, and prototypes alike. ([Code](https://github.com/imRohan/Pantry))
@@ -426,6 +427,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
   2. Stand on the shoulders of giants.
   3. Solve for the 80 % use case.
   4. Make it easy to adopt/delete.
+- [We shape our tools and thereafter our tools shape us.](https://twitter.com/druchtie/status/1387827865144729603)
 
 ## Links
 

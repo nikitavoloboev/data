@@ -787,6 +787,7 @@
 - [PEG](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 - [Grafana Plugin SDK for Go](https://github.com/grafana/grafana-plugin-sdk-go) - Go SDK for building backend plugins for Grafana.
 - [monkit](https://github.com/spacemonkeygo/monkit) - Flexible process data collection, metrics, monitoring, instrumentation, and tracing client library for Go.
+- [ants](https://github.com/panjf2000/ants) - High-performance and low-cost goroutine pool in Go.
 
 ## Links
 

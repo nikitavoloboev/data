@@ -63,3 +63,4 @@
 - [Formal Methods of Software Design Course by Eric Hehner](http://www.cs.utoronto.ca/~hehner/FMSD/) ([HN](https://news.ycombinator.com/item?id=26610221))
 - [The Little Prover](https://mitpress.mit.edu/books/little-prover) ([Code](https://github.com/the-little-prover/j-bob))
 - [IncA](https://github.com/szabta89/IncA) - Incremental Program Analysis Framework.
+- [Combining static model checking with dynamic enforcement using the Statecall Policy Language (2015)](https://blog.acolyer.org/2015/03/23/combining-static-model-checking-with-dynamic-enforcement-using-the-statecall-policy-language/)
