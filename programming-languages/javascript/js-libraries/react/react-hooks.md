@@ -103,6 +103,7 @@
 
 - [You can pass _anything_ into context, including "subscribable" objects (like RxJS observables, etc.). This means that you can share & subscribe to streams of values that change frequently, without causing unnecessary rerenders.](https://twitter.com/DavidKPiano/status/1228700861024604160)
 - [Use useState to force a render](https://twitter.com/spikebrehm/status/1386777164780036099)
+- [Every time I think I have a use case for useReducer I end up using useState with an object literal instead.](https://twitter.com/mjackson/status/1387885971589386240)
 
 ## Links
 

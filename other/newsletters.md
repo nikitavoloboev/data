@@ -58,3 +58,4 @@
 - [Rollups](https://leavemealone.app/rollups/) - Combine your favorite newsletters into a single email sent weekly.
 - [Awesome Newspapers](https://github.com/divkakwani/awesome-newspapers) - Directory of Online Newspaper Sources for 70+ Languages.
 - [Flowrite](https://www.flowrite.com/) - Turns words into ready-to-send emails, messages, and posts in your personal style.
+- [Framework for newsletter design (2021)](https://twitter.com/HatchKolby/status/1387785746652749829)

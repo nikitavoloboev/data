@@ -151,6 +151,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))
 - [Nimor's Zettelkasten](https://nimor111.github.io/notebook/) ([Code](https://github.com/Nimor111/notebook))
 - [Gordon Brander's Patterns](http://gordonbrander.com/pattern/)
+- [EyebrowHairs](https://www.eyebrowhairs.com/) ([Code](https://github.com/EyebrowHairs/garden))
 - [Pepe Doval's Wiki](https://github.com/pepellou/knowledge)
 - [Jacob Chvatal](https://github.com/jakeisnt/wiki) ([Web](https://anagora.org/@jakeisnt/wiki))
 - [masayume](https://github.com/masayume/DigitalGarden)

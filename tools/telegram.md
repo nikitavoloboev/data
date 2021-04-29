@@ -90,3 +90,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Web K](https://github.com/morethanwords/tweb)
 - [MTProto transports](https://core.telegram.org/mtproto/mtproto-transports)
 - [MTProxybot](https://t.me/MTProxybot) - Set up and manage Telegram MTProxy servers.
+- [Telegram messenger CLI](https://github.com/kenorb-contrib/tg)

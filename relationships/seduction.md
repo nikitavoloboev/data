@@ -30,6 +30,8 @@ Personally I found dating apps like Tinder to be a [waste of time](https://twitt
 - [I think advanced game is loving yourself no matter what happens to you. Rejections, shit tests, break-ups, critics, emotions. These are all opportunities to learn, to improve, to love yourself more, to be authentic, to go forward. It's not about protecting yourself so you don't feel anything anymore, it's about being at peace with what goes inside of you and outside of you. It's about breaking down your limiting beliefs and your expectations, going with the flow and being in the moment.](https://www.reddit.com/r/seduction/comments/elut4g/advanced_game_is_just_not_giving_a_fuck/)
 - [Stop chasing girls and focus entirely on self development](https://www.reddit.com/r/seduction/comments/n057n9/female_perspective_on_online_dating/)
 - [In person approaching > online dating.](https://www.reddit.com/r/seduction/comments/n057n9/female_perspective_on_online_dating/)
+- [Women will respect your courage. It’s never creepy if you stay respectful. You can’t get in trouble for talking to strangers. She can’t do nothing about if your not harassing her. Some guys think talking to women they don’t know is like against the law.](https://www.reddit.com/r/seduction/comments/myz64b/women_will_respect_your_courage/)
+- [The only way to know if she finds you attractive is to approach her.](https://www.reddit.com/r/seduction/comments/myz64b/women_will_respect_your_courage/)
 
 ## Links
 

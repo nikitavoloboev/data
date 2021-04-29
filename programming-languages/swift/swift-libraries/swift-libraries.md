@@ -672,6 +672,7 @@
 - [Yaproq](https://github.com/yaproq/yaproq) - Templating language for Swift.
 - [Swift Collections Benchmark](https://github.com/apple/swift-collections-benchmark) - Lets you collect and easily visualize performance data about data structure implementations and collection algorithms.
 - [ProcessEnv](https://github.com/ChimeHQ/ProcessEnv) - Small library for capturing the shell configuration used by a Foundation/AppKit process.
+- [swift-enum-properties](https://github.com/pointfreeco/swift-enum-properties) - Struct and enum data access in harmony.
 
 ## Other (not lib)
 

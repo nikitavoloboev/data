@@ -80,3 +80,4 @@
 - [DOM to SVG](https://github.com/felixfbecker/dom-to-svg) - Library to convert a given HTML DOM node into an accessible SVG "screenshot".
 - [Swipey image grids (2021)](https://www.cassie.codes/posts/swipey-image-grids/) ([Tweet](https://twitter.com/cassiecodes/status/1378656290273173509))
 - [SVG Essentials & Animation Course](https://frontendmasters.com/courses/svg-essentials-animation/) ([Code](https://github.com/sdras/svg-workshop))
+- [svgpath](https://github.com/fontello/svgpath) - SVG path low level transformations toolkit.
