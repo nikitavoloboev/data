@@ -173,6 +173,7 @@
 - [Inspx](https://github.com/raunofreiberg/inspx) - Pixel perfect layout inspection.
 - [Embrace](https://github.com/grammarly/embrace) - Typesafe, declarative, and composable UI engine on top of React and Focal.
 - [React ECS](https://github.com/dustinlacewell/react-ecs) - Declarative Entity Component System for React.
+- [Replay](https://github.com/vimond/replay) - React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 
 ## Links
 
