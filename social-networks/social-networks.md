@@ -106,3 +106,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Sophie Zhang, Facebook whistleblower AMA (2021)](https://www.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/) ([HN](https://news.ycombinator.com/item?id=26813922))
 - [LinkTalk, a Network for Thoughtful Conversations (2021)](https://personal.jatan.space/p/introducing-linktalk)
 - [Better alternatives to LinkedIn (2021)](https://twitter.com/ohmygoshna/status/1387192520581451777)
+- [Polywork](https://www.polywork.com/) - Professional network that represents all the wonderful things you actually do as a professional.

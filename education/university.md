@@ -82,6 +82,10 @@ I personally fell in love with open source software and specifically optimizing 
 
 There are many more things that simply would not happen if I didn't try new things. Fear is the worst reason to not do a thing.
 
+## Notes
+
+- [Having the ability to go to college isn't the same as having the opportunity to go to college and i am sick of acting like it is.](https://twitter.com/_thotology/status/1387769165780504578)
+
 ## Links
 
 - [Should you go to university? (2019)](https://jwmza.com/thoughts/should-you-go-to-university/)
