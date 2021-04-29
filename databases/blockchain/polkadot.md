@@ -38,3 +38,4 @@
 - [HydraDX node](https://github.com/galacticcouncil/HydraDX-node) - Cross-chain liquidity protocol built on Substrate. ([Web](https://hydradx.io/))
 - [Substrate Node Template](https://github.com/substrate-developer-hub/substrate-node-template) - New FRAME-based Substrate node, ready for hacking.
 - [What are the most promising projects building on Polkadot? (2021)](https://www.reddit.com/r/dot/comments/myz449/what_are_the_most_promising_projects_building_on/)
+- [Polkadot Telemetry](https://github.com/paritytech/substrate-telemetry)
