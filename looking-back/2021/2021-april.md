@@ -23,3 +23,5 @@ I turned 26 this month and feel like I have not achieved anything in life yet, n
 May should be exciting. It's insane seeing how companies like Apple/Google/FB/.. grow nearly 100% at their scale. Talk about network effects and good product.
 
 It's also amazing to me that I live at the same time with brave people like Navalny or hard working people like Elon Musk with aspirations greater than themselves. Leave the world better than you found it. Leave any person better than you found them. ♥️
+
+[Letter to Glass](https://open.spotify.com/track/66JaeVf0sXp4GzOrN3hY48) is my new focus song.

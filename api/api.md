@@ -13,6 +13,7 @@
 - [GitHub Swift 2](https://github.com/serhii-londar/GithubAPI)
 - [GitHub Swift 3](https://github.com/nerdishbynature/octokit.swift) - Swift API Client for GitHub and GitHub Enterprise.
 - [GitHub Python](https://github.com/PyGithub/PyGithub)
+- [GitHub Julia](https://github.com/JuliaWeb/GitHub.jl)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
