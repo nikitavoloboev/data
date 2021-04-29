@@ -28,6 +28,7 @@ Success comes from not giving up and doing what you love.
 - [Imposter syndrome never goes away. I work to reframe the conversation. I'm the prototype of my role. The only comparison I can have is myself on my best day. If I was able to perform well before, then I can do it again.](https://twitter.com/bryanl/status/1379791377245016067)
 - [Success in anything is just a byproduct of learning, and learning is a byproduct of curiosity. Ultimately, if you are curious about something, you will be successful at it, and the more curious you are about it, the more successful you will be at it.](https://twitter.com/jmikolay/status/1364341154020474888)
 - [Life goal: Work hard, retire early, buy a small house in the south of France, drink wine, study math.](https://twitter.com/suzatweet/status/1381866563201028099)
+- [I'm not impressed if you're a good engineer. I'm impressed if you're a good teammate.](https://twitter.com/RandallKanna/status/1387202807103574016)
 
 ## Links
 
