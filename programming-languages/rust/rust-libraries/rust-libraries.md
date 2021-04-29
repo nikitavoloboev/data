@@ -266,6 +266,10 @@
 - [typestate](https://github.com/rustype/typestate-rs) - Provides developers with a macro to design typestated objects.
 - [Educe](https://github.com/magiclen/educe) - Provides procedural macros to help you implement Rust-built-in traits quickly.
 
+## Math
+
+- [Lair](https://github.com/vinesystems/lair) - Linear Algebra in Rust.
+
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
