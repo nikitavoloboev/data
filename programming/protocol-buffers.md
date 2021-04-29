@@ -35,3 +35,4 @@
 - [Pyrobuf](https://github.com/appnexus/pyrobuf) - Alternative to Google's Python Protobuf library.
 - [Protobuf Rules for Bazel](https://github.com/bazelbuild/rules_proto)
 - [Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html) ([HN](https://news.ycombinator.com/item?id=26931581))
+- [Kiwi Message Format](https://github.com/evanw/kiwi) - Schema-based binary format for efficiently encoding trees of data. ([Demo](http://evanw.github.io/kiwi/))

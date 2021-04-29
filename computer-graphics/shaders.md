@@ -35,3 +35,4 @@
 - [live-glsl](https://github.com/karimnaaji/live-glsl) - Lightweight GLSL live-coding tool for macOS. ([Web](http://karim.naaji.fr/projects/liveglsl))
 - [grimoire](https://github.com/jshrake/grimoire) - Cross-platform live-coding tool for creative coding with GLSL shaders.
 - [How to read shader assembly (2021)](https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/)
+- [Lygia](https://github.com/patriciogonzalezvivo/lygia) - Granular and multi-language shader library designed for performance and flexibility.
