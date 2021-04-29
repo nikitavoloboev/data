@@ -385,3 +385,4 @@
 - [How we ship code faster and safer with feature flags (2021)](https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/)
 - [What are your favorite codebases to study? (2021)](https://lobste.rs/s/sp606q/what_are_your_favorite_codebases_study)
 - [Generalizing linear operators in differential dataflow (2021)](https://materialize.com/generalizing-linear-operators/)
+- [Software qualities: what they are and how can you improve them (2021)](https://afpr252.github.io/blog/software-qualities)

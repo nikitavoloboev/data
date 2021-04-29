@@ -93,3 +93,4 @@
 - [Running Dialyzer for Elixir Projects in GitHub Actions](https://gist.github.com/Stratus3D/90c6c42bfdb4d3d144e9beda33bce46e)
 - [Killer Elixir Tips](https://github.com/blackode/elixir-tips) ([Web](https://elixir-tips.blackode.in/))
 - [Commanded](https://github.com/commanded/commanded) - Use Commanded to build your own Elixir applications following the CQRS/ES pattern.
+- [Why SOLID may be useful for you in Elixir (2021)](https://dev.to/savonarola/why-solid-may-be-useful-for-you-in-elixir-58me)
