@@ -454,3 +454,4 @@
 - [Differentiable Model Compression via Pseudo Quantization Noise (2021)](https://arxiv.org/abs/2104.09987) ([Code](https://github.com/facebookresearch/diffq))
 - [The Rise of HuggingFace (2021)](https://marksaroufim.substack.com/p/huggingface)
 - [See through Gradients: Image Batch Recovery via GradInversion (2021)](https://arxiv.org/abs/2104.07586) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/n0o6dn/d_new_paper_shows_that_federated_learning_is/))
+- [Recommendation System using ML and DL](https://github.com/amitkaps/recommendation)

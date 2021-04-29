@@ -85,3 +85,4 @@
 - [CppFlow](https://github.com/serizba/cppflow) - Run TensorFlow models in C++ without installation and without Bazel.
 - [Why do practitioners still use regular TensorFlow? (2021)](https://www.reddit.com/r/MachineLearning/comments/msejyh/why_do_practitioners_still_use_regular_tensorflow/)
 - [Neural Network TensorFlow C API](https://github.com/Neargye/hello_tf_c_api)
+- [Adaptive Framework for On-device Recommendation (2021)](https://blog.tensorflow.org/2021/04/adaptive-framework-for-on-device-recommendation.html)

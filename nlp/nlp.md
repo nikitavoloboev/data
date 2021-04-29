@@ -282,3 +282,4 @@
 - [Top2Vec](https://github.com/ddangelov/Top2Vec) - Learns jointly embedded topic, document and word vectors.
 - [Focused Attention Improves Document-Grounded Generation (2021)](https://arxiv.org/abs/2104.12714) ([Code](https://github.com/shrimai/Focused-Attention-Improves-Document-Grounded-Generation))
 - [NLPretext](https://github.com/artefactory/NLPretext) - All the goto functions you need to handle NLP use-cases.
+- [spaCy + UDPipe](https://github.com/TakeLab/spacy-udpipe)

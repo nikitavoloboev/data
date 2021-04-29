@@ -94,3 +94,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [What Google recruiters look for in a technical resume (2021)](https://leetresumes.com/blog/what-google-recruiters-look-for-in-a-technical-resume) ([HN](https://news.ycombinator.com/item?id=26030737))
 - [Leet Resumes](https://leetresumes.com/) - Great Technical Resumes Written For Free.
 - [LaTex CV and Resume Collection](https://github.com/jankapunkt/latexcv)
+- [Bragdocs](https://www.bragdocs.com/) - Record and show your proof of your work.
