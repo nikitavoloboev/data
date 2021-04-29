@@ -458,3 +458,4 @@
 - [Async programming in Rust | A video essay (2021)](https://diode.zone/videos/watch/9d0f20fc-6b17-48db-acda-67e0d623814c)
 - [A brief history of Rust at Facebook (2021)](https://engineering.fb.com/2021/04/29/developer-tools/rust/) ([HN](https://news.ycombinator.com/item?id=26982879))
 - [Building an Emulator with Rust](https://read.cv/mehdi/uNGQ7pgWb2CO1QfJkb1n)
+- [Why asynchronous Rust doesn't work (2021)](https://theta.eu.org/2021/03/08/async-rust-2.html) ([HN](https://news.ycombinator.com/item?id=26406989))
