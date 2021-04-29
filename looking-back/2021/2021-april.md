@@ -18,8 +18,8 @@ Finishing up CSS course, releasing [EpicTools](https://epictools.dev) site with 
 
 [1cP-LSD](https://en.wikipedia.org/wiki/1cP-LSD) in nature alone is quite an experience. Previously I only tripped at home or somewhere where people still kind of hanged around. I had some bad trips on LSD and I do dislike the length of the trip compared to other psyches but it can be nice. Sometimes I do feel like I am dying on it.
 
-I turned 26 this month and feel like I have not achieved anything in life yet, not for the lack of trying. Still know so few people, have little to no real friends. My skills are all over the place. I have dreams but I myself am also all over the place too.
+I turned 26 this month and feel like I have not achieved anything in life yet, not for the lack of trying. Still know so few people, have little to no real friends. My skills are all over the place. I [have dreams](https://twitter.com/PDLComics/status/1387798834361761794) but I myself am also all over the place too.
 
 May should be exciting. It's insane seeing how companies like Apple/Google/FB/.. grow nearly 100% at their scale. Talk about network effects and good product.
 
-It's amazing to me I live in the same time with brave people like Navalny or hard working people like Elon Musk with aspirations greater than themselves. Leave the world better than you found it. Leave any person better than you found them. ♥️
+It's also amazing to me that I live at the same time with brave people like Navalny or hard working people like Elon Musk with aspirations greater than themselves. Leave the world better than you found it. Leave any person better than you found them. ♥️
