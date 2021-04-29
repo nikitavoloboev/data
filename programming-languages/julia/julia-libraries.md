@@ -236,6 +236,7 @@
 - [BayesNets](https://github.com/sisl/BayesNets.jl) - Bayesian Networks for Julia.
 - [IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Find all roots of a function in a guaranteed way with Julia.
 - [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia.
+- [DrWatson](https://github.com/JuliaDynamics/DrWatson.jl) - Scientific project assistant software.
 
 ## Links
 

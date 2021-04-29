@@ -213,6 +213,7 @@
 - [Swim](https://github.com/robb/Swim) - DSL for writing HTML in Swift.
 - [TinyGraphQL](https://github.com/GetStream/TinyGraphQL) - Simple and lightweight GraphQL query builder for the Swift language.
 - [Atributika](https://github.com/psharanda/Atributika) - Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
+- [HTMLKit](https://github.com/vapor-community/HTMLKit) - Type-safe DSL that renders dynamic HTML templates in Swift.
 
 ## SwiftUI
 
