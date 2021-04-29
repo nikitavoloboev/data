@@ -105,3 +105,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Is content moderation a dead end? (2021)](https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end) ([HN](https://news.ycombinator.com/item?id=26796579))
 - [Sophie Zhang, Facebook whistleblower AMA (2021)](https://www.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/) ([HN](https://news.ycombinator.com/item?id=26813922))
 - [LinkTalk, a Network for Thoughtful Conversations (2021)](https://personal.jatan.space/p/introducing-linktalk)
+- [Better alternatives to LinkedIn (2021)](https://twitter.com/ohmygoshna/status/1387192520581451777)
