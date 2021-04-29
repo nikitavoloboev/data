@@ -129,6 +129,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [HextEdit](https://hextedit.app/) - Fast and native hex editor for macOS.
 - [Shortcat](https://shortcatapp.com/) - Keyboard productivity app for macOS.
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly.
+- [Flume](https://flumeapp.com/) - Beautiful Instagram experience for your Mac.
 
 ## Links
 

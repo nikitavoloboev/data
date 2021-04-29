@@ -83,3 +83,4 @@
 - [Don’t hire top talent; hire for weaknesses (2021)](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/) ([HN](https://news.ycombinator.com/item?id=26764432))
 - [Job descriptions should show a salary or salary range (2021)](https://sifted.eu/articles/job-advert-salary-range/) ([HN](https://news.ycombinator.com/item?id=26932978))
 - [Tools for doing hiring coding challenges (2021)](https://twitter.com/Shpigford/status/1387825617870147587)
+- [A Framework for Hiring a VP of Engineering, from Shopify's VPE](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right)

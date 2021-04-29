@@ -34,7 +34,7 @@
 - [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester)) ([Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)) ([HN](https://news.ycombinator.com/item?id=22226380)) ([In Russian](https://github.com/danlark1/hse_missing_cs_education)) ([Videos Code](https://github.com/missing-semester/videos))
 - [How These Things Work - A book about CS from first principles (2016)](https://reasonablypolymorphic.com/book/preface) ([HN](https://news.ycombinator.com/item?id=22346349))
 - [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
-- [Computer Science from the Bottom Up](https://www.bottomupcs.com/) ([Code](https://github.com/ianw/bottomupcs))
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/) ([Code](https://github.com/ianw/bottomupcs)) ([HN](https://news.ycombinator.com/item?id=26981668))
 - [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers)
 - [Computer Science Ontology (CSO)](http://cso.kmi.open.ac.uk/home) - Large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm.
 - [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete) ([HN](https://news.ycombinator.com/item?id=22839035))
