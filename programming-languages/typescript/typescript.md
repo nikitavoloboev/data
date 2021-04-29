@@ -10,6 +10,7 @@
 - `any` means “ignore the type”, `unknown` means “we don’t know the type”, which aren’t the same thing, and for better code you’d rather not know the type than ignore it.
 - You can’t use `unknown` as a simple replacement for `any`, that wouldn’t make sense. `unkwnown` carries the implication that you should not use this variable other than passing it around. Or testing its type to get rid of the “unknown” state.
 - Tuples are very useful for simulating multiple returns like React hooks, and other combined values that don't need string object keys
+- [TS generics are basically functions that you invoke with <> instead of ()... but without optional _named_ param support... and a lot of other things that I would expect from a "function"](https://twitter.com/tannerlinsley/status/1387806690364465152)
 
 ## Links
 

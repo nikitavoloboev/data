@@ -467,3 +467,4 @@ Go promotes composition over inheritance.
 - [xo](https://github.com/xo/xo) - Command-line tool to generate Go code based on a database schema or a custom query.
 - [Tiny Container Challenge: Building a 6kB Containerized HTTP Server (2021)](https://devopsdirective.com/posts/2021/04/tiny-container-image/) ([HN](https://news.ycombinator.com/item?id=26899292))
 - [Build, notarize, and sign Golang binaries for MacOS with GitHub Actions (2020)](https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/) ([Code](https://github.com/kencochrane/golang-github-action-sign-macos))
+- [Network Programming with Go by Adam Woodbeck (2021)](https://www.penguinrandomhouse.com/books/645956/network-programming-with-go-by-adam-woodbeck/)
