@@ -283,3 +283,4 @@
 - [Duktape](https://github.com/svaarala/duktape) - Embeddable Javascript engine with a focus on portability and compact footprint.
 - [JavaScript for Data Science](http://js4ds.org/) ([Code](https://github.com/software-tools-in-javascript/js4ds/)) ([HN](https://news.ycombinator.com/item?id=26931296))
 - [FIBJS](https://github.com/fibjs/fibjs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [A JavaScript optimizing compiler (2021)](https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071)

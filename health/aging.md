@@ -59,3 +59,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [The Effects of Longer Lifespans (2021)](https://www.youtube.com/watch?v=DUVfyGEab0M)
 - [Longevity Investing Resources (2021)](https://www.reddit.com/r/longevity/comments/mwt2oy/longevity_investing_resources/)
 - [Want to Live to 200?](https://www.nytimes.com/interactive/2021/04/27/magazine/longevity-timeline.html)
+- [The central role of DNA damage in the ageing process (2021)](https://www.nature.com/articles/s41586-021-03307-7)
