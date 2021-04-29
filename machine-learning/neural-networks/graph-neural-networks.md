@@ -45,3 +45,4 @@
 - [Understanding Graph Neural Networks from Graph Signal Denoising Perspectives (2020)](https://arxiv.org/abs/2006.04386) ([Code](https://github.com/fuguoji/GSDN))
 - [Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions](https://github.com/shyam196/egc)
 - [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
+- [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (2021)](https://arxiv.org/abs/2104.13478)

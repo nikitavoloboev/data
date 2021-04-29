@@ -68,3 +68,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Clockwork Nutrition](https://clockworknutrition.com/) - Automates meals based on your fitness and health goals.
 - [How to Read Food Labels Without Being Tricked](https://www.healthline.com/nutrition/how-to-read-food-labels)
 - [Soosee](https://jordibruin.github.io/food-scanner/) - Allergy & Food Scanner.
+- [FoodNoms](https://foodnoms.com/) - Food Tracker App for iPhone.
