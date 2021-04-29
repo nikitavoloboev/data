@@ -281,3 +281,4 @@
 - [Barlow Twins: Self-Supervised Learning via Redundancy Reduction (2021)](https://arxiv.org/abs/2103.03230) ([Code](https://github.com/facebookresearch/barlowtwins))
 - [HIPCL](https://github.com/cpc/hipcl) - OpenCL/SPIR-V implementation of HIP.
 - [MMCV](https://github.com/open-mmlab/mmcv) - Foundational library for computer vision research and supports many research projects. ([Docs](https://mmcv.readthedocs.io/en/latest/))
+- [MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding (2021)](https://arxiv.org/abs/2104.12763) ([Code](https://github.com/ashkamath/mdetr))

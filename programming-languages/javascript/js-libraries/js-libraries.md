@@ -125,6 +125,7 @@
 - [Hammer.js](https://github.com/hammerjs/hammer.js) - Multi-touch gestures.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [Xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web. ([State Machines Workshop](https://github.com/ooade/state-machines-workshop))
+- [XState Helpers](https://github.com/VanTanev/xstate-helpers) - Collection of helpers for XState with React.
 - [xstate-component-tree](https://github.com/tivac/xstate-component-tree) - Build a tree of UI components based on your state chart.
 - [virtual-scroller](https://github.com/valdrinkoshi/virtual-scroller) - Maps a provided set of JavaScript objects onto DOM nodes, and renders only the DOM nodes that are currently visible, leaving the rest "virtualized".
 - [jSPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.

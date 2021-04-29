@@ -208,3 +208,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum staking](https://ethereum.org/en/eth2/staking/) ([HN](https://news.ycombinator.com/item?id=26944738))
 - [Sequence](https://sequence.build/) - Seamless user and developer experience for Ethereum, NFTs, Web3, DeFi and Dapps.
 - [Ethkit](https://github.com/0xsequence/ethkit) - Ethereum CLI and Go development kit designed to make it easier to use and develop for Ethereum.
+- [Aurora Engine](https://github.com/aurora-is-near/aurora-engine) - Implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
