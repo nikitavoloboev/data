@@ -126,7 +126,7 @@
 - [Classification with PyTorch](https://github.com/bearpaw/pytorch-classification)
 - [PyTorch Toolbox](https://github.com/PistonY/torch-toolbox) - Aiming to make you write Pytorch code more easier, readable and concise.
 - [Sinusoidal Representation Networks (SIREN)](https://github.com/dalmia/siren)
-- [PyTorch Hub](https://pytorch.org/hub/) - Discover and publish models to a pre-trained model repository designed for research exploration.
+- [PyTorch Hub](https://pytorch.org/hub/) - Discover and publish models to a pre-trained model repository designed for research exploration. ([Code](https://github.com/pytorch/hub))
 - [Pretrained models for PyTorch](https://github.com/Cadene/pretrained-models.pytorch)
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions. In PyTorch.
 - [minGPT](https://github.com/karpathy/minGPT) - Minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training. ([Code](https://news.ycombinator.com/item?id=24189497))

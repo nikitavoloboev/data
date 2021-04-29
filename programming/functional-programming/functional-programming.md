@@ -115,6 +115,7 @@
 - [OCaml, Erlang, and Functional Programming with Leandro Ostera (2021)](https://www.youtube.com/watch?v=9qqyd7nQqnE)
 - [Functional Programming Slack](https://fpchat-invite.herokuapp.com/)
 - [Can continuation passing style code perform well? (2021)](http://funcall.blogspot.com/2021/04/can-continuation-passing-style-code.html) ([HN](https://news.ycombinator.com/item?id=26800745)) ([Lobsters](https://lobste.rs/s/ossum2/can_continuation_passing_style_code))
+- [Algebraic Types' Series Expansions (2021)](https://twitter.com/macrocephalopod/status/1366715423807397889)
 
 ## Images
 

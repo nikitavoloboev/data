@@ -42,3 +42,4 @@
 - [Clean Slate Demo Scene (2021)](https://www.youtube.com/watch?v=O3T1-nadehU)
 - [How to Create Mathematical Animations like 3Blue1Brown Using Python (2021)](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
 - [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
+- [Motion Representations for Articulated Animation (2021)](https://arxiv.org/abs/2104.11280) ([Code](https://github.com/snap-research/articulated-animation))

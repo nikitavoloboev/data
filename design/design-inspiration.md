@@ -402,6 +402,7 @@ Here are few more things I liked, design wise.
 - [David Ross](https://djr.com/)
 - [Fran Perez](https://franperez.me/)
 - [Jeff Hilnbrand](https://jhil.co/) ([Code](https://github.com/jhil/jhilco-2021))
+- [Maria Antoniak](https://maria-antoniak.github.io/)
 - [Delan Azabani](https://www.azabani.com/)
 - [Brian Ketelsen](https://www.brian.dev/)
 - [Andrew Kensler](http://eastfarthing.com/blog/index.html)
