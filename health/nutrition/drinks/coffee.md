@@ -4,6 +4,7 @@
 
 - [Caffeine is a stimulant. The avg half life of caffeine in an adult is around 5h. So if you have a coffee at 5pm, it means that only 50% of it is gone by 10pm. Depending on how quickly you metabolise coffee, that half life could actually be up to 9h.](https://twitter.com/m_franceschetti/status/1378402354316328968)
 - [Sometimes going to get coffee isn’t really about the coffee](https://twitter.com/cnstntnnn/status/1381267903044059141)
+- [Coffee, done right, is delicious. High quality bean, appropriately roasted, relatively fresh, freshly ground immediately before use with a bur grinder, and then your choice of method, plenty of grinds but almost always hot water, and preferably some pressure to extract oils, finally filtered through paper. My weapon of choice is an aeropress or a manual espresso press. An Americano is arguably superior to a cup of drip. I drink it black.](https://news.ycombinator.com/item?id=26987526)
 
 ## Links
 
@@ -39,3 +40,4 @@
 - [Other foods/sweets can change the taste of coffee](https://www.reddit.com/r/Coffee/comments/lxlk5g/today_i_realized_how_much_other_foodssweets_can/)
 - [Never had coffee, recommendations? (2021)](https://www.reddit.com/r/Coffee/comments/mevhix/never_had_coffee_recommendations/)
 - [Best coffee alternatives](https://twitter.com/benjitaylor/status/1378757809592930304)
+- [Habitual coffee drinkers have a distinct pattern of brain functionalconnectivity (2021)](https://www.nature.com/articles/s41380-021-01075-4) ([HN](https://news.ycombinator.com/item?id=26987526))

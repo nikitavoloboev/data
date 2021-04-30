@@ -393,6 +393,7 @@ Here are few more things I liked, design wise.
 - [Ben Kuhn](https://www.benkuhn.net/)
 - [Michael McLoughlin](https://mmcloughlin.com/)
 - [Christopher Wood](https://chris-wood.github.io/)
+- [Roger Ruiz](https://write.rog.gr/)
 - [Alethea Flowers](https://thea.codes/)
 - [Benoit Grelard](https://benoit.works/)
 - [Timo Lins](https://timo.sh/) ([Code](https://github.com/timolins/timo-sh))

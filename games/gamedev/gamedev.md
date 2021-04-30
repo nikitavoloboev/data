@@ -171,3 +171,4 @@
 - [Making an online multiplayer game in Rust with Nakama (2021)](https://heroiclabs.com/blog/tutorials/rust-fishgame/)
 - [Open Saves](https://github.com/googleforgames/open-saves) - Open-source, purpose-built single interface for multiple storage backends on Google Cloud.
 - [Writing web-based interactive fiction with ink](https://www.inklestudios.com/ink/web-tutorial/) ([HN](https://news.ycombinator.com/item?id=26984912))
+- [GB Studio](https://www.gbstudio.dev/) - Game maker for the Game Boy. ([Code](https://github.com/chrismaltby/gb-studio))
