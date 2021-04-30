@@ -47,3 +47,4 @@
 - [How to write tests for Prisma with Docker and Jest (2021)](https://dev.to/eddeee888/how-to-write-tests-for-prisma-with-docker-and-jest-593i) ([Code](https://github.com/eddeee888/topic-prisma-testing))
 - [Prisma – The Complete ORM for Node.js and TypeScript (2021)](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb) ([HN](https://news.ycombinator.com/item?id=26887724))
 - [Trisma](https://github.com/alii/trisma) - Experimental way of creating a Prisma DMMF with TypeScript Decorators.
+- [Prisma Admin](https://github.com/paljs/prisma-admin) - Full-stack Prisma, GraphQL, Nexus, Apollo, and NextJS with Admin UI to control your Prisma DB.
