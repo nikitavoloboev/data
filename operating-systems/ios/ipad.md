@@ -16,3 +16,4 @@
 - [Paperlike](https://paperlike.com/) - iPad Screen Protector: write and draw like on paper.
 - [Saving the iPad — Building an app for myself (2020)](https://sakunlabs.com/blog/saving-the-ipad)
 - [Linux on iPad](https://ipadlinux.org/) ([HN](https://news.ycombinator.com/item?id=25172883))
+- [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)

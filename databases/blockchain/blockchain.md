@@ -136,3 +136,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Horizon Blockchain Games](https://horizon.io/) - Building a New Dimension where Internet economies are fun, accessible, and for the benefit of all participants.
 - [Avalanche](https://www.avalabs.org/) - Open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. ([Code](https://github.com/ava-labs/avalanchego))
 - [How NFTs work](https://twitter.com/KetanJ0/status/1387710309767565312)
+- [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance.

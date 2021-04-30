@@ -22,3 +22,4 @@
 - [Shipmap.org](https://www.shipmap.org/) - Visualization of Global Cargo Ships.
 - [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
 - [Awesome Automotive](https://github.com/Marcin214/awesome-automotive) - Curated list of delightful and free automotive engineering resources.
+- [Internal Combustion Engine (2021)](https://ciechanow.ski/internal-combustion-engine/) ([HN](https://news.ycombinator.com/item?id=26991300))
