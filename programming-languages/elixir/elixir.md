@@ -94,3 +94,4 @@
 - [Killer Elixir Tips](https://github.com/blackode/elixir-tips) ([Web](https://elixir-tips.blackode.in/))
 - [Commanded](https://github.com/commanded/commanded) - Use Commanded to build your own Elixir applications following the CQRS/ES pattern.
 - [Why SOLID may be useful for you in Elixir (2021)](https://dev.to/savonarola/why-solid-may-be-useful-for-you-in-elixir-58me)
+- [Building a Distributed Turn-Based Game System in Elixir (2021)](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/) ([HN](https://news.ycombinator.com/item?id=26989577)) ([Code](https://github.com/fly-apps/tictac))

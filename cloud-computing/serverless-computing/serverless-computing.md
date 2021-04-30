@@ -89,3 +89,4 @@
 - [Serverless Patterns Collection](https://serverlessland.com/patterns)
 - [What challenges have you faced adopting serverless technologies? (2021)](https://twitter.com/flybayer/status/1381743417391255559)
 - [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React](https://egghead.io/courses/building-an-opengraph-image-generation-api-with-cloudinary-netlify-functions-and-react-914e)
+- [Lift](https://github.com/getlift/lift) - Easily deploy well-designed serverless applications on AWS.
