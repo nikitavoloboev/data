@@ -65,3 +65,4 @@
 - [Tegola](https://github.com/go-spatial/tegola) - Mapbox Vector Tile server written in Go. ([Web](https://tegola.io/))
 - [Globe.GL](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL.
 - [react-globe.gl](https://github.com/vasturiano/react-globe.gl) - React bindings for the globe.gl UI component.
+- [GeoRust](https://georust.org/) - Ecosystem of geospatial tools and libraries written in Rust. ([GitHub](https://github.com/georust))

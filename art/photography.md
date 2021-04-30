@@ -118,3 +118,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Annie Leibovitz Teaches Photography Course](https://www.masterclass.com/classes/annie-leibovitz-teaches-photography)
 - [Nice photo-sharing platforms (2021)](https://twitter.com/wongmjane/status/1382362757886971905)
 - [Nextcloud Photos](https://github.com/nextcloud/photos) - Your memories under your control.
+- [Dual Photography](https://graphics.stanford.edu/papers/dual_photography/)

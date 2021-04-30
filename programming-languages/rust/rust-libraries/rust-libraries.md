@@ -810,6 +810,7 @@
 - [Prepona](https://github.com/maminrayej/prepona) - Graph crate with simplicity in mind.
 - [delay-timer](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks.
 - [jsonschema](https://github.com/Stranger6667/jsonschema-rs) - JSON Schema validation library.
+- [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
 
 ## Cargo Plugins
 
