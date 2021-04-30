@@ -455,3 +455,4 @@
 - [The Rise of HuggingFace (2021)](https://marksaroufim.substack.com/p/huggingface)
 - [See through Gradients: Image Batch Recovery via GradInversion (2021)](https://arxiv.org/abs/2104.07586) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/n0o6dn/d_new_paper_shows_that_federated_learning_is/))
 - [Recommendation System using ML and DL](https://github.com/amitkaps/recommendation)
+- [Mathematical Foundations of Machine Learning (2020)](https://www.dropbox.com/s/mffzmuo9fvs5j6m/Study_Guide.pdf)

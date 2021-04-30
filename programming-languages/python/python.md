@@ -283,3 +283,4 @@
 - [Sourcery](https://sourcery.ai/) - Automatically Improve Python Code Quality.
 - [Roadmap for mastering Python (2021)](https://twitter.com/PrasoonPratham/status/1383279052430008323)
 - [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+- [The hidden performance overhead of Python C extensions (2021)](https://pythonspeed.com/articles/python-extension-performance/) ([Lobsters](https://lobste.rs/s/6rxxhh/hidden_performance_overhead_python_c))

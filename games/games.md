@@ -187,3 +187,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Wavedash](https://wavedash.gg/) - Discover new games. Keep track of what you've played. Share your thoughts.
 - [What’s the last 10/10 video game you played? (2021)](https://twitter.com/patrick_oshag/status/1376214010895405065)
 - [IGDB.com](https://www.igdb.com/discover) - Video game database.
+- [Awesome Programming Games](https://github.com/readyready15728/awesome-programming-games)
