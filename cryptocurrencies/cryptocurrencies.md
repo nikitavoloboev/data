@@ -88,3 +88,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still used to make [wasteful & slow t
 - [rate.sx](http://rate.sx/) - Console service for exploring (crypto)currencies exchange rates. ([Code](https://github.com/chubin/rate.sx))
 - [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with trailing buy/sell strategy.
 - [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
+- [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))

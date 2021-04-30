@@ -2,26 +2,28 @@
 
 Spent the month at my family's home in Spain. Little internet. Can't wait to go back to NL in May and start working at full speed.
 
-Slowly removing bad habits from my life and ensuring I follow through my [top 6 habits I have set](../../focusing/habits.md).
+Slowly removing bad habits from my life. Not going through my todo list without distractions & not exercising being the big ones. Try to ensure I follow through my [top 6 habits I have set](../../focusing/habits.md) for myself. It really makes life much simpler, knowing that even in the 'worst' days, if I try and do my habits, I will have moved forward in life and it was a great day.
 
-The wiki grew by a lot this month but what's the point. Nearly no one is reading it. Makes sense of course as it quite unstructured and current search capabilities are not the greatest.
+The wiki grew by a lot this month (~ 600 commits) but what's the point. Few people read it. Makes sense as it quite unstructured and current search capabilities are not the greatest (GitBook & my [Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind)). I also don't share it much anywhere. I am not too active anywhere in honesty. I previously kind of cared about losing followers, especially people whom I admire, but it's whatever. I am who I am and can post what I want, I'll find my audience. 😊
 
-It's hard to justify investing so much time in the wiki given [support I get on GitHub](https://github.com/sponsors/nikitavoloboev) and [elsewhere](https://gumroad.com/l/everything-i-know). Need to focus better. Build real things!
+Speaking of this wiki, I often catch myself on the thought of why am I even doing all this? I collected so many links & now notes. I don't think I should expect people to show [support for it on GitHub](https://github.com/sponsors/nikitavoloboev) but still. I am trying to come to terms that this wiki in itself is simply not enough to earn any money. I did make a [PDF of the entire wiki that people can buy](https://gumroad.com/l/everything-i-know). No one did of course. 😸
 
-Also a bit burned out by things to do. 😿
+Anyway. Need to focus better. Build real things! I do this wiki for myself, there is no need to get any validation for it. Seeking validation is waste of time anyway, what truly matters is impact. How many lives I have changed for the better. I do miss the pre Covid especially the special time I got to work in Rekki. Truly my favorite company and culture I've ever worked in. Want to build something as great myself soon.
 
-I can't imagine how much harder it is for other people though so I can't complain really.
+I am getting a better hang of how to use and utilize my wiki more. Starting from May, I want to truly focus my [monkey mind](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) and start building.
 
-On less negative news, I am getting a better hang of how to use and utilize my wiki more. Added a lot of notes, links will soon be in LA.
+Finish up [CSS course](https://css-for-js.dev). Release [EpicTools](https://epictools.dev) site with course content on Karabiner/KM/NextJS/WikiManagement/.. in similar way to what [Josh](https://twitter.com/JoshWComeau) has done with his course. Hopefully that will be something that people will buy, I will do my best to pack as much knowledge as I can into it and make it worth it's money.
 
-Finishing up CSS course, releasing [EpicTools](https://epictools.dev) site with course content similar to what [Josh](https://twitter.com/JoshWComeau) has.
+And after that, focus on LA. I need the money from that course to push me forward to building an MVP of LA that people can buy too. Those are the goals.
 
-[1cP-LSD](https://en.wikipedia.org/wiki/1cP-LSD) in nature alone is quite an experience. Previously I only tripped at home or somewhere where people still kind of hanged around. I had some bad trips on LSD and I do dislike the length of the trip compared to other psyches but it can be nice. Sometimes I do feel like I am dying on it.
+The time I spent in Spain was mostly spending time walking the dogs and petting them. Trying to read Dune and listening to lots of music and some podcasts. Playing and having fun time with my brother and sister.
 
-I turned 26 this month and feel like I have not achieved anything in life yet, not for the lack of trying. Still know so few people, have little to no real friends. My skills are all over the place. I [have dreams](https://twitter.com/PDLComics/status/1387798834361761794) but I myself am also all over the place too.
+Also [1cP-LSD](https://en.wikipedia.org/wiki/1cP-LSD) in nature alone is quite an experience. Previously I only tripped at home or somewhere where people still kind of hanged around. I had some bad trips on LSD and I do dislike the length of the trip compared to other psyches but it can be nice. Sometimes I do feel like I am dying on it.
 
-May should be exciting. It's insane seeing how companies like Apple/Google/FB/.. grow nearly 100% at their scale. Talk about network effects and good product.
+I also turned 26 this month. Still young and I truly feel/believe that the best is yet to come. I think I am more mindful and happy now than I was before. I do know few people still and have little to no real friends. I did read that it's normal though. My skills are also all over the place. I [got dreams](https://twitter.com/PDLComics/status/1387798834361761794) though.
 
-It's also amazing to me that I live at the same time with brave people like [Navalny](https://www.reddit.com/r/worldnews/comments/n1amvo/navalny_says_putin_is_a_naked_king_whose_crown_is/) or hard working people like Elon Musk with aspirations greater than themselves. Leave the world better than you found it. Leave any person better than you found them. ♥️
+Here is to an exciting and happy May.
 
-[Letter to Glass](https://open.spotify.com/track/66JaeVf0sXp4GzOrN3hY48) is my new focus song.
+Leave the world better than you found it. Leave any person better than you found them. ♥️
+
+[Letter to Glass](https://open.spotify.com/track/66JaeVf0sXp4GzOrN3hY48) is my new focus song. I also played [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) song a lot.
