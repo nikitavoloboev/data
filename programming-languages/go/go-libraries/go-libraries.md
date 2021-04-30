@@ -140,6 +140,7 @@
 - [Go SSC](https://github.com/yuriizinets/go-ssc) - HTML render engine concept, that brings frontend-like components experience to the server side with native html/template on steroids.
 - [golongpoll](https://github.com/jcuga/golongpoll) - Go long polling library. Makes web pub-sub easy via HTTP long-poll servers and clients.
 - [Vektor](https://github.com/suborbital/vektor) - Opinionated production-grade HTTP server framework.
+- [graphql-go-tools](https://github.com/jensneuse/graphql-go-tools) - Tools to write high performance GraphQL applications using Go.
 
 ## GraphQL
 
