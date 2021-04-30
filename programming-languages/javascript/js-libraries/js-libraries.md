@@ -511,6 +511,7 @@
 - [Veramo](https://github.com/uport-project/veramo) - JavaScript Framework for Verifiable Data. ([Web](https://veramo.io/))
 - [it](https://github.com/achingbrain/it) - Utility modules to make dealing with async iterators easier.
 - [DiceBear](https://github.com/dicebear/dicebear) - Avatar library for designers and developers. ([Web](https://avatars.dicebear.com/))
+- [JParticles](https://github.com/Barrior/JParticles) - Concise, lightweight, and efficient Canvas library for building some cool particle effects. ([Web](https://jparticles.js.org/#/))
 
 ## Links
 

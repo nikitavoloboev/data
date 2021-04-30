@@ -209,3 +209,4 @@
 - [Envelop](https://github.com/dotansimha/envelop) - Lightweight library allowing developers to easily develop, share, collaborate and extend their GraphQL execution layer.
 - [Mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify. ([Docs](https://mercurius.dev/#/))
 - [TypeScript with GraphQL done right (2021)](https://charlypoly.com/publications/typescript-with-graphql-done-right)
+- [Supercharging file-based content with GraphQL (2021)](https://tina.io/blog/using-graphql-with-the-filesystem/)

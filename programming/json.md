@@ -58,3 +58,4 @@
 - [quicktype](https://app.quicktype.io/) - Instantly parse JSON in any language. ([Tweet](https://twitter.com/steipete/status/1380860288791117835))
 - [JsonLogic](https://jsonlogic.com/) - Build complex rules and share them as JSON.
 - [JsQuery](https://github.com/postgrespro/jsquery) - JSON query language with GIN indexing support.
+- [BSON](http://bsonspec.org/) - Binary JSON. ([Code](https://github.com/mongodb/bsonspec.org))
