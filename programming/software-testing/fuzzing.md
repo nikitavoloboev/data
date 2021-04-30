@@ -47,3 +47,4 @@
 - [An Empirical Study of OSS-Fuzz Bugs (2021)](https://arxiv.org/pdf/2103.11518.pdf)
 - [Coverage Guided, Property Based Testing](https://lemonidas.github.io/pdf/FuzzChick.pdf)
 - [Static Mocking vs. Mocking with Fuzz Data (Embedded) (2021)](https://blog.code-intelligence.com/automating-embedded-security)
+- [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)

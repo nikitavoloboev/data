@@ -36,3 +36,4 @@
 - [Formal Verification of Authenticated, Append-Only Skip Lists in Agda](https://github.com/oracle/aaosl-agda)
 - [agda-language-server](https://github.com/banacorn/agda-language-server) - Language Server Protocol for Agda.
 - [Mechanisation of Fitch-style Intuitionistic K in Agda](https://github.com/nachivpn/k)
+- [Agda lecture notes for the Functional Programming course at TU Delft](https://github.com/jespercockx/agda-lecture-notes)

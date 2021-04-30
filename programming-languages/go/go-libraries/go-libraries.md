@@ -139,6 +139,7 @@
 - [auth](https://github.com/posener/auth) - Painless OAuth authentication middleware.
 - [Go SSC](https://github.com/yuriizinets/go-ssc) - HTML render engine concept, that brings frontend-like components experience to the server side with native html/template on steroids.
 - [golongpoll](https://github.com/jcuga/golongpoll) - Go long polling library. Makes web pub-sub easy via HTTP long-poll servers and clients.
+- [Vektor](https://github.com/suborbital/vektor) - Opinionated production-grade HTTP server framework.
 
 ## GraphQL
 
@@ -789,6 +790,8 @@
 - [Grafana Plugin SDK for Go](https://github.com/grafana/grafana-plugin-sdk-go) - Go SDK for building backend plugins for Grafana.
 - [monkit](https://github.com/spacemonkeygo/monkit) - Flexible process data collection, metrics, monitoring, instrumentation, and tracing client library for Go.
 - [ants](https://github.com/panjf2000/ants) - High-performance and low-cost goroutine pool in Go.
+- [Reactr](https://github.com/suborbital/reactr) - Fast, performant function scheduling system for Go & WebAssembly.
+- [Grav](https://github.com/suborbital/grav) - Embedded distributed messaging mesh for Go applications.
 
 ## Links
 
