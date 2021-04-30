@@ -4,11 +4,11 @@ Spent the month at my family's home in Spain. Little internet. Can't wait to go 
 
 Slowly removing bad habits from my life and ensuring I follow through my [top 6 habits I have set](../../focusing/habits.md).
 
-The wiki grew by a lot this month but what's the point. No one is reading it. Need to focus better.
+The wiki grew by a lot this month but what's the point. Nearly no one is reading it. Makes sense of course as it quite unstructured and current search capabilities are not the greatest.
+
+It's hard to justify investing so much time in the wiki given [support I get on GitHub](https://github.com/sponsors/nikitavoloboev) and [elsewhere](https://gumroad.com/l/everything-i-know). Need to focus better. Build real things!
 
 Also a bit burned out by things to do. 😿
-
-I think I might just close off this wiki as it has no use for anyone but me it seems judging by [support I get on GitHub](https://github.com/sponsors/nikitavoloboev) and [elsewhere](https://gumroad.com/l/everything-i-know).
 
 I can't imagine how much harder it is for other people though so I can't complain really.
 

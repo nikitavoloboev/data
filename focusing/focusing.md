@@ -26,7 +26,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [When a person fails to begin a project that they care about, it’s typically due to either a) anxiety about their attempts not being ‘good enough’ or b) confusion about what the first steps of the task are. Not laziness.](https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01)
 - [Working on anything nontrivial requires you to kind of take a deep breath and dive into the space for awhile.](https://twitter.com/peterbourgon/status/1387098683485868040)
 - [Moving/batching all meetings to one day can be helpful. Or no meetings/calls on Thu/Fri as example.](https://twitter.com/coreyhainesco/status/1387557466179653632)
-- [Have a different room for work that’s separate from bedroom and living area. Take walks to break up the day. Turn everything off at 6, and don’t check messages till next day.](https://twitter.com/herrmanndigital/status/1387773860636995592)
+- [Have a different room for work that’s separate from bedroom and living area. Take walks to break up the day. Take time off in evenings as reward.](https://twitter.com/herrmanndigital/status/1387773860636995592)
 - [Manage priorities rather than time.](https://twitter.com/MikeyFox/status/1387699937954119683)
 
 ## Links
