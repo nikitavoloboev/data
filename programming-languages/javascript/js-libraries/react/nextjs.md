@@ -186,3 +186,4 @@
 - [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js (2021)](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
 - [4 techniques for structuring Next.js applications (2021)](https://blog.rstankov.com/structuring-next-js-application/)
 - [Portable apps with Go and Next.js (2021)](https://v0x.nl/articles/portable-apps-go-nextjs) ([Code](https://github.com/dstotijn/golang-nextjs-portable))
+- [next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - Confidently unit test your Next.js API routes/handlers in an isolated Next.js-like environment.

@@ -53,4 +53,3 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [What defines a great company culture? (2021)](https://twitter.com/DanRose999/status/1378393523213373440) ([HN](https://news.ycombinator.com/item?id=26700186))
 - [The 25 Principles for Adult Behavior](https://www.openculture.com/2018/02/the-25-principles-for-adult-behavior.html)
 - [Awesome Engineering Team Principles](https://github.com/posquit0/awesome-engineering-team-principles)
-- [Changes at Basecamp (2021)](https://world.hey.com/jason/changes-at-basecamp-7f32afc5) ([HN](https://news.ycombinator.com/item?id=26944192))

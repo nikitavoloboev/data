@@ -20,6 +20,7 @@
 - [My favorite question anyone asks me when I am struggling is, 'Do you want empathy or strategy right now?'](https://twitter.com/noampomsky/status/1382117707588456450)
 - [The business world now works like this: 1. If I don't know you > Zoom. 2. If I know you a bit > Email. 3. If we really work together / collaborate > Text.](https://twitter.com/lessin/status/1383534481705865221)
 - [Don’t confuse your critics with your haters. Critics see good in you too. Learn to value your critics. They aren’t trying to mess with you. They may not be correct but critics aren’t haters. Learn to spot the differences.](https://twitter.com/EricRWeinstein/status/1387219408645361665)
+- [The way to keep politics out of work is to keep your work environment professional.](https://news.ycombinator.com/item?id=26998127)
 
 ## Links
 
