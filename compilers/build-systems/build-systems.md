@@ -61,3 +61,4 @@
 - [OMake](http://projects.camlcity.org/projects/omake.html) - Build system designed for scalability and portability. ([Code](https://github.com/ocaml-omake/omake))
 - [Reproducible Builds: Increasing the Integrity of Software Supply Chains (2021)](https://arxiv.org/abs/2104.06020)
 - [Comparing the New Generation of Build Tools (2021)](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+- [Blade Build System](https://github.com/chen3feng/blade-build) - Easy-to-use, fast and modern build system for trunk based development in large scale monorepo codebase.
