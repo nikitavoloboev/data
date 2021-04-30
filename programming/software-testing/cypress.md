@@ -30,3 +30,4 @@
 - [Improve your custom command logs in Cypress (2021)](https://filiphric.com/improve-your-custom-command-logs-in-cypress)
 - [Cypress Fail Fast](https://github.com/javierbrea/cypress-fail-fast) - Cypress plugin to skip tests on first failure.
 - [Visual testing with Cypress and Percy](https://github.com/percy/percy-cypress)
+- [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots)

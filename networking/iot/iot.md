@@ -36,6 +36,7 @@
 - [Adam](https://github.com/lf-edge/adam) - Reference implementation of an LF-Edge API-compliant Controller.
 - [rtlamr](https://github.com/bemasher/rtlamr) - rtl-sdr receiver for Itron ERT compatible smart meters operating in the 900MHz ISM band.
 - [Nerves Platform](https://www.nerves-project.org/) - Open-source platform and infrastructure you need to build, deploy, and securely manage your fleet of IoT devices at speed and scale. ([Code](https://github.com/nerves-project/nerves)) ([HN](https://news.ycombinator.com/item?id=24184603))
+- [Nerves Livebook Firmware](https://github.com/fhunleth/nerves_livebook) - Lets you try out the Nerves projects on real hardware without needing to build anything.
 - [Espressif IoT Development Framework](https://github.com/espressif/esp-idf)
 - [Towards Secure IoT Programming in Haskell](http://nachivpn.me/haski.pdf)
 - [Octopi](https://octopi.chalmers.se/) - Research effort for creating an environment in which secure internet-of-things can be developed.
