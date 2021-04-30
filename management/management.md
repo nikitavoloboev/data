@@ -10,6 +10,7 @@
 - [Do you need to estimate the shit that needs to be done? No! It all needs to be done. The dev team will do it as fast as they can. Estimating the work will only waste time they could spend getting the shit done.](http://slap.pm/)
 - [It’s taken me years to realise I do not aspire to manage, only to mentor.](https://twitter.com/AlexJonesax/status/1374619459101544451)
 - [Once a manager makes it clear they don’t value you, believe them. And move on.](https://twitter.com/editingemily/status/1376971156725637130)
+- [Bad management is so endemic in tech companies that weak managers often don't even know they are weak, and power dynamics often mean they have no motivation to improve.](https://twitter.com/hmason/status/1387494922832564224)
 
 ## Links
 

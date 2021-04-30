@@ -477,3 +477,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome HN](https://github.com/bminusl/awesome-hackernews) - Curated list of FOSS tools to improve the Hacker News experience.
 - [BenchExec](https://github.com/sosy-lab/benchexec) - Framework for Reliable Benchmarking and Resource Measurement.
 - [How to Map Nothing (2021)](https://placesjournal.org/article/how-to-map-nothing/)
+- [Cognitive Medium](http://cognitivemedium.com/slow) - List of marvellous projects which human beings have undertaken that took an exceptionally long time.

@@ -185,6 +185,7 @@
 ## Notes
 
 - [The "expert path" is valid. Become an expert in something and learn to sell that expertise. The reward? No upper limit on your rates.](https://twitter.com/aeduhm/status/1387054427010486272)
+- [Set expectations (in the contracts) with clients about response time on emails and scheduling calls for non-emergencies.](https://twitter.com/LizTweetsTech/status/1387727344622882824)
 
 ## Links
 

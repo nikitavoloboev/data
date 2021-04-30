@@ -226,3 +226,5 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Compound Writing](https://www.compoundwriting.com/) - Community-Powered Writing Workflow.
 - [RedPen](https://github.com/redpen-cc/redpen) - Open source proofreading tool to check if your technical documents meet the writing standard. ([Web](https://redpen.cc/))
 - [Mental model for generating world-class writing](https://twitter.com/Julian/status/1327765347936522240)
+- [Editing technique of counting to use with writing (2021)](https://twitter.com/MarcJBrooker/status/1387562273330188289)
+- [Great Memos](https://sriramk.com/memos.html)

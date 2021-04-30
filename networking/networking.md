@@ -230,3 +230,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [sx](https://github.com/v-byte-cpu/sx) - Fast, modern, easy-to-use network scanner.
 - [Awesome Internet Scanning](https://github.com/paralax/awesome-internet-scanning)
 - [Termshark](https://github.com/gcla/termshark) - Terminal UI for tshark, inspired by Wireshark.
+- [netdiag](https://github.com/kentik/netdiag) - IPv4 and IPv6 network diagnostics.
+- [Kentik](https://www.kentik.com/) - Cloud-based, real-time network visibility and analytics solution for network and security operators. ([GitHub](https://github.com/kentik))
