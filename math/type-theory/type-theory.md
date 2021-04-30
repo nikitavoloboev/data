@@ -131,3 +131,4 @@
 - [Understanding typing judgments (2016)](https://www.hedonisticlearning.com/posts/understanding-typing-judgments.html)
 - [Prototype implementations of systems based on setoid type theory](https://github.com/AndrasKovacs/setoidtt)
 - [Higher-Dimensional Type Theory Course (2020)](https://favonia.org/courses/hdtt2020/) - Graduate seminar course on the recent development of higher-dimensional type theory. ([Code](https://github.com/favonia/hdtt2020-notes))
+- [Synthetic mathematics with an excursion into computability theory (2021)](https://vimeo.com/510188470)
