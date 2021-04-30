@@ -97,7 +97,7 @@
 - [Golang Desktop App with Webview/Lorca, WASM and Bazel (2020)](https://maori.geek.nz/golang-desktop-app-with-webview-lorca-wasm-and-bazel-3283813bf89) ([HN](https://news.ycombinator.com/item?id=24117758))
 - [Bytecode Alliance RFCs](https://github.com/bytecodealliance/rfcs)
 - [Webassembly Without The Browser (2020)](https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html) ([HN](https://news.ycombinator.com/item?id=24180303))
-- [Everything Old is New Again: Binary Security of WebAssembly (2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann) ([HN](https://news.ycombinator.com/item?id=24216764))
+- [Everything Old is New Again: Binary Security of WebAssembly (2020)](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann) ([HN](https://news.ycombinator.com/item?id=24216764)) ([HN 2](https://news.ycombinator.com/item?id=26994741))
 - [Hands-on WebAssembly: Try the basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) ([HN](https://news.ycombinator.com/item?id=24279912))
 - [WebAssembly Troubles: WebAssembly Is Not a Stack Machine (2020)](http://troubles.md/wasm-is-not-a-stack-machine/)
 - [Wasmer Python](https://github.com/wasmerio/wasmer-python) - WebAssembly runtime for Python.

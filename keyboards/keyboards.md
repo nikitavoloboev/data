@@ -114,3 +114,5 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Lobsters: What keyboard do you use? (2021)](https://lobste.rs/s/ggsv7x/what_keyboard_do_you_use)
 - [So how does a PS/2 keyboard interface work? (2021)](https://www.youtube.com/watch?v=7aXbh9VUB3U)
 - [UseTheKeyboard](https://usethekeyboard.com/) - Collection of keyboard shortcuts for Mac apps, Windows programs, and websites. ([Code](https://github.com/aschmelyun/use-the-keyboard))
+- [Ask HN: What's your keyboard and what you love and hate about it? (2021)](https://news.ycombinator.com/item?id=26995906)
+- [Beginner’s guide to mechanical keyboards (2021)](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards) ([HN](https://news.ycombinator.com/item?id=26989563))
