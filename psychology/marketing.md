@@ -117,6 +117,7 @@
 - [21 lessons I’ve learned over 4 years that will help you get your first 10 customers](https://twitter.com/KarthikS2206/status/1379656690740568067)
 - [What is the most clever customer acquisition strategy you’ve ever seen? (2021)](https://twitter.com/patrick_oshag/status/1384995096660221953)
 - [7 key areas to focus when starting a consumer brand (2021)](https://twitter.com/jwmares/status/1387818691962753027)
+- [Headless Brands](https://otherinter.net/web3/headless-brands/)
 
 ## Images
 

@@ -308,3 +308,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Loading WebP Images from UIPasteboard (2021)](https://noahgilmore.com/blog/uipasteboard-webp/)
 - [Writing An App In 2 Days (2020)](https://noahgilmore.com/blog/transparent-app-icons/)
 - [A Best in Class App - The Book](https://www.swiftjectivec.com/bestinclassbook) - Technical guide and proven tips on how to make and design the very best iOS apps.
+- [Designing your first iOS app (2021)](https://www.youtube.com/watch?v=XzjxqS0xAu0)

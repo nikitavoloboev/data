@@ -44,3 +44,4 @@
 - [SAE (Solver of All Equations)](https://github.com/DoctorRyner/sae) - Idris 2 build tool and a package manager.
 - [Idris 2 Template](https://github.com/alexhumphreys/hello-idris2)
 - [Idris 2 LSP](https://github.com/idris-community/idris2-lsp)
+- [Idris 2 VSCode Extension](https://github.com/bamboo/idris2-lsp-vscode)

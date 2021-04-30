@@ -185,3 +185,4 @@
 - [NextAuth.js TypeScript Example](https://github.com/nextauthjs/next-auth-typescript-example) - Example of how to use the NextAuth.js library to add authentication to a Next.js application with Typescript.
 - [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js (2021)](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
 - [4 techniques for structuring Next.js applications (2021)](https://blog.rstankov.com/structuring-next-js-application/)
+- [Portable apps with Go and Next.js (2021)](https://v0x.nl/articles/portable-apps-go-nextjs) ([Code](https://github.com/dstotijn/golang-nextjs-portable))
