@@ -99,3 +99,4 @@
 - [Eggs CLI](https://github.com/nestdotland/eggs) - CLI used to publish and update modules in nest.land.
 - [Update Deno Dependencies](https://github.com/hayd/deno-udd) - Run this script to update your dependency urls to their latest published versions.
 - [Terraform provider for Deno Deploy](https://github.com/wperron/terraform-deploy-provider)
+- [Andromeda](https://github.com/andromedaland/andromeda) - Global graph of Deno modules and their interdepencies.
