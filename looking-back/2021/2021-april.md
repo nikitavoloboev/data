@@ -8,7 +8,7 @@ The wiki grew by a lot this month (~ 600 commits) but what's the point. Few peop
 
 Speaking of this wiki, I often catch myself on the thought of why am I even doing all this? I collected so many links & now notes. I don't think I should expect people to show [support for it on GitHub](https://github.com/sponsors/nikitavoloboev) but still. I am trying to come to terms that this wiki in itself is simply not enough to earn any money. I did make a [PDF of the entire wiki that people can buy](https://gumroad.com/l/everything-i-know). No one did of course. 😸
 
-Anyway. Need to focus better. Build real things! I do this wiki for myself, there is no need to get any validation for it. Seeking validation is waste of time anyway, what truly matters is impact. How many lives I have changed for the better. I do miss the pre Covid especially the special time I got to work in Rekki. Truly my favorite company and culture I've ever worked in. Want to build something as great myself soon.
+Anyway. Need to focus better. Build real things! I do this wiki for myself, there is no need to get any validation for it. Seeking validation is waste of time anyway, what truly matters is impact. How many lives I have changed for the better. I do miss the pre Covid life especially the special time I got to work in Rekki. Truly my favorite company and culture I've ever worked in. Want to build something as great myself soon.
 
 I am getting a better hang of how to use and utilize my wiki more. Starting from May, I want to truly focus my [monkey mind](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) and start building.
 
