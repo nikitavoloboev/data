@@ -56,3 +56,4 @@
 - [Ravi](https://github.com/dibyendumajumdar/ravi) - Dialect of Lua, featuring limited optional static typing, JIT and AOT compilers. ([Web](http://ravilang.github.io/))
 - [LuaJIT compiler explorer](https://luajit.me/) ([Code](https://github.com/rapidlua/luajit.me))
 - [LadyLua](https://github.com/tongson/LadyLua) - Batteries-included static Lua 5.1 interpreter. ([HN](https://news.ycombinator.com/item?id=26738006))
+- [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Write Lua with TypeScript. ([Web](https://typescripttolua.github.io/))

@@ -79,3 +79,4 @@
 - [Unreasonable Effectiveness of Multiple Dispatch (2019)](https://www.youtube.com/watch?app=desktop&v=kc9HwsxE1OY)
 - [Seam carving in Julia (by 3Blue1Brown) (2020)](https://www.youtube.com/watch?v=rpB6zQNsbQU)
 - [BeautifulAlgorithms.jl](https://github.com/mossr/BeautifulAlgorithms.jl) - Concise and beautiful algorithms written in Julia.
+- [Blue: Style Guide for Julia](https://github.com/invenia/BlueStyle)
