@@ -15,6 +15,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Massive calorie surplus isn't making you put on muscle any faster and is just being turned into fat. And that makes sense. There is only so much muscle you can actually build naturally every week/month/year. Extra calories beyond what will be used for that muscle growth aren't going to increase that limit.](https://www.reddit.com/r/Fitness/comments/ed6kbi/thoughts_on_greg_doucette_and_his_opinion_on/)
 - [If you want a correlation between sitting at a desk and building strength to offset that, look at squats in all it's forms, and hamstring and quad dominant exercises. Your lower body is in much more trouble than your lower back from sitting at a computer. Hipflexer stretches with resistance bands will also do you wonders.](https://news.ycombinator.com/item?id=25030938)
 - [Exercise is good for you, and what that exercise looks like is almost completely unimportant. Do what you enjoy and can sustain. If you have ten minutes in the morning, do HIIT. If you have an hour after work and want to get out of the house, go jogging or ride a bike. Anything is better than nothing.](https://news.ycombinator.com/item?id=25071676)
+- [Your muscles do not distinguish resistance from external weights or from your own bodyweight.](https://www.reddit.com/r/bodyweightfitness/comments/n2jdmo/how_much_fitness_can_be_achieved_with_simple_home/)o
 
 ## Links
 
@@ -39,3 +40,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [A Guide to Metabolic Fitness (2020)](https://www.levelshealth.com/blog/the-ultimate-guide-to-metabolic-fitness)
 - [Shona Vertue Fitness](https://www.shonavertue.com/)
 - [How fit can you get from just walking?](https://www.gq.com/story/get-fit-from-just-walking) ([HN](https://news.ycombinator.com/item?id=26850779))
+- [THENX](https://www.youtube.com/user/TheMiamiTrainer)
+- [Chris Heria](https://www.youtube.com/c/CHRISHERIA/videos)
+- [10 Best Exercises To Build Muscle (2021)](https://www.youtube.com/watch?v=Z_hl0Aq4yPk)
+- [How much fitness can be achieved with simple home routines? (2021)](https://www.reddit.com/r/bodyweightfitness/comments/n2jdmo/how_much_fitness_can_be_achieved_with_simple_home/)
