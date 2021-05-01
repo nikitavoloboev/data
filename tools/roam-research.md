@@ -70,3 +70,4 @@
 - [Homebase React - Roam Demo](https://roamdemo.homebase.io/page/VtNCWUiUW?ref=hn) ([Code](https://github.com/homebaseio/homebase-react/tree/master/examples/roam))
 - [Free Roam](https://github.com/cofinley/free-roam) - Attempt to recreate the major parts of Roam for offline use.
 - [How I became more productive during the pandemic (2021)](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
+- [Roam Toolkit](https://github.com/roam-unofficial/roam-toolkit) - Roam force multiplier.

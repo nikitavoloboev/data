@@ -16,6 +16,8 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [I don’t really care what you look like or what you do, I care about your kindness and your level of empathy. You can fix someone’s haircut or wardrobe or encourage your partner to go back to school if they want to change career paths, but kindness and expressing empathy, jumping to support your partner in their worst times...that’s something innate. And that’s what I’m looking for.](https://www.reddit.com/r/datingoverthirty/comments/n19ouq/has_there_been_an_event_or_events_that_have/)
 - [I think we always want to be with people we find attractive, but what we find attractive may change or expand.](https://www.reddit.com/r/datingoverthirty/comments/n0jbbx/attractiveness_in_mate_selection_does_importance/)
 - [Don’t lower your standards. Spend more time with these guys and see if attraction grows. Usually, people who give the advice to lower your standards are those who are more concerned with being in a relationship than finding someone they’re compatible with.](https://www.reddit.com/r/datingoverthirty/comments/n0onwm/how_do_you_lower_your_standards/)
+- [If you can just sit together doing nothing and still have a good time you know you have the right friend.](https://www.reddit.com/r/wholesomememes/comments/n2c8dt/friendship_goals/)
+- Go on walks with your partner to start the day. Get coffee, talk. Enjoy each other's company. ♥️
 
 ## Links
 

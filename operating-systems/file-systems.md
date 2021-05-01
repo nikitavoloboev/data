@@ -53,3 +53,4 @@
 - [Query-FS](https://gitlab.common-lisp.net/cl-fuse/query-fs) - Virtual filesystem implemented using FUSE in Common Lisp. ([Talk](https://www.youtube.com/watch?v=4T9ApaL6Un8))
 - [CrossFS](https://github.com/RutgersCSSystems/CrossFS) - Direct-access cross-layered file system with support for concurrency.
 - [A Survey of Distributed File Systems (1989)](https://www.cs.cmu.edu/~satya/docdir/satya89survey.pdf)
+- [libfsrefs](https://github.com/libyal/libfsrefs) - Library and tools to access the Resilient File System (ReFS).
