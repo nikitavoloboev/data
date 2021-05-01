@@ -204,3 +204,4 @@
 - [The Wolfram Physics Project: A One-Year Update (2021)](https://writings.stephenwolfram.com/2021/04/the-wolfram-physics-project-a-one-year-update/) ([HN](https://news.ycombinator.com/item?id=26808991))
 - [Collection of Videos in Support of Geometric Unity](https://pullthatupjamie.com/) ([Reddit](https://www.reddit.com/r/ThePortal/comments/msypp9/does_anybody_have_a_good_eli5_for_geometric_unity/))
 - [David Tong: Lectures on Particle Physics](http://www.damtp.cam.ac.uk/user/tong/particle.html) ([Reddit](https://www.reddit.com/r/Physics/comments/mwzuem/david_tong_drops_a_new_set_of_lecture_notes_on/))
+- [The Map of Particle Physics | The Standard Model Explained (2021)](https://www.youtube.com/watch?v=mYcLuWHzfmE)

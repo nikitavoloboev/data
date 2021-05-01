@@ -104,3 +104,4 @@
 - [Best Practices for Remote Software Engineering (2021)](https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext) ([HN](https://news.ycombinator.com/item?id=26944628))
 - [2021 GitLab Remote Work Report](https://about.gitlab.com/remote-work-report/)
 - [Arc](https://arc.dev/) - Easiest way to find remote developer jobs.
+- [Predictions on remote work (2021)](https://twitter.com/marcusradell/status/1388501184172937223)
