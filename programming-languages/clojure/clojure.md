@@ -124,3 +124,4 @@
 - [ClojureVerse](https://clojureverse.org/)
 - [deps.clj](https://github.com/borkdude/deps.clj) - Port of the Clojure CLI bash script to Clojure. Can be run as executable or from source with babashka or JVM.
 - [Developer Ergonomics with VS Code, Clojure, and ClojureScript (2021)](https://www.youtube.com/watch?v=LR7Wv6bSZqE)
+- [cljstyle](https://github.com/greglook/cljstyle) - Tool for formatting Clojure code.
