@@ -13,6 +13,7 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof), [Ajahn Chah](http://en.wikipedia.org/wiki/Ajahn_Chah), Rupert Spira are interesting.
 - [It’s being mindful and living in the present moment. Not worried about the future or the past. Also, the goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don’t react to every thought they have, which gives them a greater control of their emotions.](https://www.reddit.com/r/RationalPsychonaut/comments/fsjp6s/in_the_psychedelic_community_its_insinuated_that/)
 - [I still can't think of a more important skill to learn than not immediately reacting to every stimulus. Everything worthwhile comes after this. Otherwise you are just like a pinball machine. Even if your particular pinball style is enjoyable, you are still not free or conscious](https://twitter.com/KevinDMackay/status/1372231092858720261)
+- [The ability to observe without evaluating is the highest form of intelligence.](https://twitter.com/stephsmithio/status/1388574607527931904)
 
 ## Links
 
