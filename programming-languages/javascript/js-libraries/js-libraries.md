@@ -513,6 +513,7 @@
 - [DiceBear](https://github.com/dicebear/dicebear) - Avatar library for designers and developers. ([Web](https://avatars.dicebear.com/))
 - [JParticles](https://github.com/Barrior/JParticles) - Concise, lightweight, and efficient Canvas library for building some cool particle effects. ([Web](https://jparticles.js.org/#/))
 - [Arquero](https://github.com/uwdata/arquero) - Query processing and transformation of array-backed data tables.
+- [TypeIt](https://github.com/alexmacarthur/typeit) - Most versatile JavaScript animated typing utility on the planet. ([Web](https://typeitjs.com/))
 
 ## Links
 

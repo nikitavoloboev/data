@@ -71,6 +71,7 @@
 - [Methodical](https://github.com/camsaul/methodical) - Clojure multimethods just got a whole lot more powerful.
 - [farolero](https://github.com/IGJoshua/farolero) - Thread-safe Common Lisp style conditions and restarts for Clojure(Script). ([HN](https://news.ycombinator.com/item?id=26852309))
 - [Missionary](https://github.com/leonoel/missionary/) - Functional effect and streaming system for clojure and clojurescript.
+- [danzig](https://github.com/ribelo/danzig) - Easy-to-use transducer based data analysis tools.
 
 ## Links
 

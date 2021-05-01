@@ -794,6 +794,7 @@
 - [ants](https://github.com/panjf2000/ants) - High-performance and low-cost goroutine pool in Go.
 - [Reactr](https://github.com/suborbital/reactr) - Fast, performant function scheduling system for Go & WebAssembly.
 - [Grav](https://github.com/suborbital/grav) - Embedded distributed messaging mesh for Go applications.
+- [vellum](https://github.com/blevesearch/vellum) - Go library implementing an FST (finite state transducer).
 
 ## Links
 
