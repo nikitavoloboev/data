@@ -128,3 +128,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Фиаско. Беседа с Юрием Швецом (2021)](https://www.youtube.com/watch?v=SvcliCCyahE)
 - [Андрей Ситник — Реальная изнанка Википедии, войны фракций и политика для технарей (2021)](https://www.youtube.com/watch?v=AudsAM6CKXs)
 - [Если бы вы уехали из России по чему бы вы сильнее всего скучали? (2021)](https://twitter.com/kristinaboyar/status/1388236965062008834)
+- [Россия в судах](https://www.youtube.com/playlist?list=PLnnvzPm9BOwrIPtZ7M0yKG8QiYuLU9g4W)
