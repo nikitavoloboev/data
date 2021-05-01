@@ -12,6 +12,7 @@
 - [“It’s not for everyone”.](https://seths.blog/2018/06/its-not-for-everyone/)
 - [Many devs devalue their time enormously. ](https://twitter.com/kentcdodds/status/1316728697584381952)
 - [Interesting approach to raise price based off number of items sold. Start at $10, after 30 sales, raise to $15 etc.](https://gumroad.com/l/doing-content-right)
+- [I feel like something almost everybody gets wrong about subscription pricing in their apps is not having a ‘no brainer’ tier as an onramp. Give me a feature subset that I can live on while I get started with your app, don’t just go straight to the ’30 day trial or $50/yr’ extreme](https://twitter.com/stroughtonsmith/status/1388607057910239232)
 
 ## Links
 
