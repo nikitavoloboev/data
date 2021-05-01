@@ -56,3 +56,4 @@
 - [Nucleus UI](https://www.nucleus-ui.com/) - Free UI component library for Figma.
 - [FigJam](https://www.figma.com/figjam/) - Online whiteboard for teams to explore ideas together.
 - [Figma Community collections](https://www.figma.com/community/collection/config2021-sessions)
+- [Figma API Docs](https://www.figma.com/developers/api) ([Code](https://github.com/figma/figma-api-demo))

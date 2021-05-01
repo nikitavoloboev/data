@@ -67,3 +67,4 @@
 - [SQLite the only database you will ever need in most cases (2021)](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html) ([Lobsters](https://lobste.rs/s/tsh0jq/sqlite_only_database_you_will_ever_need)) ([HN](https://news.ycombinator.com/item?id=26816954))
 - [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database.
 - [SQLiter](https://github.com/touchlab/SQLiter) - Minimal multiplatform sqlite library.
+- [Litestream/s6 Example](https://github.com/benbjohnson/litestream-s6-example) - Example of running a Go application in the same container as Litestream by using s6-overlay. Allows developers to release their SQLite-based application and provide replication in a single container.

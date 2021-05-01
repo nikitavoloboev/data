@@ -41,3 +41,4 @@
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data.
 - [New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different (2021)](https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/) ([HN](https://news.ycombinator.com/item?id=26943468))
 - [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges. ([Tweet](https://twitter.com/PetarV_93/status/1387441776793882627))
+- [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/pdf/2104.14516.pdf) ([Tweet](https://twitter.com/wtgowers/status/1388458562775654401))

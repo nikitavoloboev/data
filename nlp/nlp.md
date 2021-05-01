@@ -284,3 +284,4 @@
 - [NLPretext](https://github.com/artefactory/NLPretext) - All the goto functions you need to handle NLP use-cases.
 - [spaCy + UDPipe](https://github.com/TakeLab/spacy-udpipe)
 - [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) - Friendly fork of HuggingFace's Transformers, adding Adapters to PyTorch language models.
+- [TextAttack](https://github.com/QData/TextAttack) - Generating adversarial examples for NLP models.
