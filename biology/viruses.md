@@ -73,3 +73,4 @@
 - [Why do mRNA Vaccines have side effects? (2021)](https://www.reddit.com/r/bioinformatics/comments/mi3fdc/why_do_mrna_vaccines_have_side_effects/)
 - [What are the actual differences between the Pfizer and Moderna vaccine? (2021)](https://www.reddit.com/r/askscience/comments/mi5frs/what_are_the_actual_differences_between_the/)
 - [Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out (2021)](https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/) ([HN](https://news.ycombinator.com/item?id=26750452))
+- [How Pfizer Makes Its Covid-19 Vaccine (2021)](https://www.nytimes.com/interactive/2021/health/pfizer-coronavirus-vaccine.html)

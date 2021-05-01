@@ -871,3 +871,4 @@
 - [Starter code for writing procedural macros in Rust](https://github.com/SergioBenitez/proc-macro-starter)
 - [crates.io database dum](https://github.com/dtolnay/db-dump) - Library for scripting analyses against crates.io's database dumps.
 - [Crater](https://github.com/rust-lang/crater) - Tool to run experiments across parts of the Rust ecosystem.
+- [Alexandrie](https://github.com/Hirevo/alexandrie) - Modular alternative crate registry for Rust suitable for use with Cargo.
