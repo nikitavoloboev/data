@@ -340,3 +340,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [KnowAssist](https://www.knowassist.com/) - Good knowledge management.
 - [Gatsby Brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - Use this theme to integrate Roam Research inspired bidirectional linking of notes into a network on your site.
 - [Notea](https://cinwell.com/notea/) - Self-hosted note-taking app stored on S3. ([Code](https://github.com/QingWei-Li/notea))
+- [Codex OS](https://twitter.com/codexeditor) - Creating the knowledge worker's OS.

@@ -143,3 +143,4 @@
 - [Rendering large 3D tilemaps with a single draw call at 3000 FPS (2021)](https://blog.paavo.me/gpu-tilemap-rendering/)
 - [Example-based texture synthesis written in Rust](https://github.com/EmbarkStudios/texture-synthesis)
 - [A Pixel Is Not a Little Square (1995)](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf) ([HN](https://news.ycombinator.com/item?id=26950455))
+- [Film simulations from scratch using Python (2021)](https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/)
