@@ -48,3 +48,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [The Lounge](https://thelounge.chat/) - Self-hosted web IRC client. ([Lobsters](https://lobste.rs/s/s9yl76/self_hosted_web_irc_client))
 - [soju](https://sr.ht/~emersion/soju/) - User-friendly IRC bouncer. ([Lobsters](https://lobste.rs/s/0dnybw/soju_user_friendly_irc_bouncer))
 - [History of IRC (Internet Relay Chat)](https://daniel.haxx.se/irchistory.html)
+- [Kiwi IRC](https://kiwiirc.com/) - Web IRC client. ([Code](https://github.com/kiwiirc/kiwiirc))

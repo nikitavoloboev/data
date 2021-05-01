@@ -813,6 +813,7 @@
 - [jsonschema](https://github.com/Stranger6667/jsonschema-rs) - JSON Schema validation library.
 - [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
 - [profiling](https://github.com/aclysma/profiling) - Provides a very thin abstraction over instrumented profiling crates like puffin, optick, tracy, and superluminal-perf.
+- [ocaml-rs ](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust.
 
 ## Cargo Plugins
 

@@ -216,3 +216,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Fish in a Barrel: an insider’s retrospective of the SOSP’09 multikernel paper (2021)](https://www.sigops.org/2021/fish-in-a-barrel-an-insiders-retrospective-of-the-sosp09-multikernel-paper/)
 - [QEMU internals](https://airbus-seclab.github.io/qemu_blog/) ([Code](https://github.com/airbus-seclab/qemu_blog)) ([HN](https://news.ycombinator.com/item?id=26941744))
 - [Unikraft: Fast, Specialized Unikernels the Easy Way (2021)](https://arxiv.org/abs/2104.12721) ([HN](https://news.ycombinator.com/item?id=26954547))
+- [Torvalds: Shared libraries are not a good thing in general (2021)](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/) ([HN](https://news.ycombinator.com/item?id=27009044))

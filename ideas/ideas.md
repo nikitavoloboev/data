@@ -91,3 +91,4 @@ I try to give my full attention to any ideas I am working on.
 - [The idea validation method Stripe uses for building new products (2021)](https://www.indiehackers.com/post/the-idea-validation-method-stripe-uses-for-building-new-products-8d4ce7747e)
 - [My playbook for shipping side projects (2021)](https://brianlovin.com/writing/my-playbook-for-shipping-side-projects)
 - [Do What Makes The Best Story](https://amasad.me/story) ([Tweet](https://twitter.com/KennethCassel/status/1388460504109174785))
+- [Ideas Filter](http://ideasfilter.com/) - List of apps people pay for but have low rating. ([HN](https://news.ycombinator.com/item?id=27007767))

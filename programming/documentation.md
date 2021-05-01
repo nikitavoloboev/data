@@ -99,3 +99,4 @@
 - [The Grand Unified Theory of Documentation](https://diataxis.fr/) ([HN](https://news.ycombinator.com/item?id=26824743))
 - [Writing Docs at Amazon (2019)](https://blog.usejournal.com/writing-docs-at-amazon-e025808616bd)
 - [Word usage guidance and alternative terms](https://developers.google.com/style/word-list) ([HN](https://news.ycombinator.com/item?id=26860227))
+- [Why programmers don’t write documentation (2021)](https://kislayverma.com/programming/why-programmers-dont-write-documentation/) ([HN](https://news.ycombinator.com/item?id=27007105))
