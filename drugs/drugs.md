@@ -32,3 +32,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Tripby](https://tripby.org/) - Understand your substances, their effects, dosage and duration. ([Code](https://github.com/dlbnco/tripby.org))
 - [What do you guys think about the future of drugs? (2021)](https://www.reddit.com/r/researchchemicals/comments/md6gej/what_do_you_guys_think_about_the_future_of_drugs/)
 - [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)
+- [Documentary about benzodiazepine withdrawal syndrome](https://www.youtube.com/watch?v=YEk3e9uKwRo)
