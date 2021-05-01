@@ -698,6 +698,7 @@
       - [Godot](games/gamedev/game-engines/godot.md)
       - [Unity](games/gamedev/game-engines/unity.md)
       - [Unreal Engine](games/gamedev/game-engines/unreal-engine.md)
+      - [Bevy](games/gamedev/game-engines/bevy.md)
   - [Board games](games/board-games.md)
   - [Chess](games/chess.md)
   - [Poker](games/poker.md)

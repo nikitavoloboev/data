@@ -3,7 +3,7 @@
 ## Interesting Engines
 
 - [Godot](https://github.com/godotengine/godot)
-- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust. ([Web](https://bevyengine.org/)) ([Introduction](https://bevyengine.org/news/introducing-bevy/)) ([HN](https://news.ycombinator.com/item?id=24123283)) ([HN 2](https://news.ycombinator.com/item?id=24983956)) ([WebGL2 renderer plugin for Bevy game engine](https://github.com/mrk-its/bevy_webgl2)) ([Awesome Bevy](https://github.com/bevyengine/awesome-bevy)) ([bevy_crossterm](https://github.com/octotep/bevy_crossterm)) ([Bevy Cheat Book](https://bevy-cheatbook.github.io/))
+- [Bevy](https://github.com/bevyengine/bevy) - Refreshingly simple data-driven game engine built in Rust.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go. ([Web](https://ebiten.org/)) ([Ebiten in 2020](https://ebiten.org/blog/2020.html)) ([HN](https://news.ycombinator.com/item?id=25429375))
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
