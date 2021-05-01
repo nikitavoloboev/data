@@ -21,3 +21,4 @@
 - [Score-Based Generative Modeling through Stochastic Differential Equations (2021)](https://arxiv.org/abs/2011.13456) ([Code](https://github.com/yang-song/score_sde))
 - [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) ([Code](https://github.com/jirilebl/diffyqs))
 - [Convolutional Solvers for PDEs](https://github.com/nw2190/ConvPDE)
+- [diffeqpy](https://github.com/SciML/diffeqpy) - Package for solving differential equations in Python.

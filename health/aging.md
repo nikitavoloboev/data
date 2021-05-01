@@ -8,6 +8,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [I'm 71 and find that the less I worry about aging, the younger I feel.](https://www.reddit.com/r/longevity/comments/e7e6wa/motivation_for_a_long_life/)
 - [It’s amazing how well a few things predict longevity. Do you smoke? Are you obese? High cholesterol or blood pressure? Do you sit or do you move? Living healthier for ~15 years longer is not rocket science, but does take effort.](https://twitter.com/davidasinclair/status/1259694358300852225)
 - [I'm 61 and I walk briskly 90 minutes 5-6 a week and lift weights 3-4 times a week. I never experience "aches and pain" with age.](https://www.reddit.com/r/Aging/comments/lgc92w/why_do_our_bodies_punish_us_for_getting_older/)
+- [Aging is an extraordinary process where you become the person always should have been.](https://www.reddit.com/r/datingoverthirty/comments/n22676/what_do_you_actually_likefind_refreshing_about/)
 
 ## Links
 

@@ -206,3 +206,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [MikroORM](https://mikro-orm.io/) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. ([Code](https://github.com/mikro-orm/mikro-orm))
 - [Haf](https://github.com/BatuhanW/haf) - Fully typed, cross-platform, persistent config solution for your NodeJS projects with a great developer experience.
 - [nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js.
+- [unimported](https://github.com/smeijer/unimported) - CLI utility that scans node/JavaScript projects to report dangling files and unused dependencies.

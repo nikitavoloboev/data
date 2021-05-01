@@ -116,6 +116,7 @@
 - [Functional Programming Slack](https://fpchat-invite.herokuapp.com/)
 - [Can continuation passing style code perform well? (2021)](http://funcall.blogspot.com/2021/04/can-continuation-passing-style-code.html) ([HN](https://news.ycombinator.com/item?id=26800745)) ([Lobsters](https://lobste.rs/s/ossum2/can_continuation_passing_style_code))
 - [Algebraic Types' Series Expansions (2021)](https://twitter.com/macrocephalopod/status/1366715423807397889)
+- [Implementing Functional Languages: Tutorial by Simon Peyton Jones and David Lester (2000)](https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf) ([Code](https://github.com/themattchan/core))
 
 ## Images
 

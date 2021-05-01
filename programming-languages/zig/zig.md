@@ -1,5 +1,9 @@
 # [Zig](https://ziglang.org/)
 
+## Notes
+
+- [Zig compiler pipeline is: tokenize -> parse -> astgen -> sema -> codegen](https://twitter.com/andy_kelley/status/1388268643075563520)
+
 ## Links
 
 - [Zig Learn](https://ziglearn.org/) ([Code](https://github.com/Sobeston/ziglearn))

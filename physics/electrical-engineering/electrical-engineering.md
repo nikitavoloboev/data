@@ -58,3 +58,4 @@
 - [CMOS Circuit Design, Layout, and Simulation (2019)](http://cmosedu.com/cmos1/book.htm)
 - [My self-study plan for electrical engineering (2021)](https://i-kh.net/2021/03/20/electrical-engineering-study-plan/)
 - [Digital](https://github.com/hneemann/Digital) - Digital logic designer and circuit simulator.
+- [Advice on self-studying EE (2021)](https://www.reddit.com/r/ElectricalEngineering/comments/n1rxsh/advice_on_selfstudying_ee/)

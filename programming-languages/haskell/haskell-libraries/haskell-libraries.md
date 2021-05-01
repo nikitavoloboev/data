@@ -119,6 +119,7 @@
 - [Parsec](https://github.com/haskell/parsec) - Monadic parser combinator library.
 - [what-it-do](https://github.com/ocharles/what-it-do) - Automatically trace all (showable) binds in do expressions.
 - [Pretty](https://github.com/haskell/pretty) - Haskell Pretty-printer library.
+- [Hypertypes](https://github.com/lamdu/hypertypes) - Generic programming for heterogeneous recursive types.
 
 ## Links
 

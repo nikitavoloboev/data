@@ -190,3 +190,4 @@ And these Discord servers:
 - [Ask HN: Alternatives to HN for non-Hacker News? (2020)](https://news.ycombinator.com/item?id=25318880)
 - [Ask HN: What websites do you visit every day? (2021)](https://news.ycombinator.com/item?id=26192817)
 - [Ask HN: What other news sources do you use? (2021)](https://news.ycombinator.com/item?id=26794248)
+- [HN: Second-Chance Pool](https://news.ycombinator.com/pool) - Way to give links a second chance at the front page. ([HN](https://news.ycombinator.com/item?id=26998308))
