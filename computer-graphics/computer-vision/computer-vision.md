@@ -285,3 +285,4 @@
 - [Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples (2021)](https://arxiv.org/abs/2104.13963) ([Code](https://github.com/facebookresearch/suncet))
 - [Emerging Properties in Self-Supervised Vision Transformers (2021)](https://arxiv.org/abs/2104.14294) ([Code](https://github.com/facebookresearch/dino))
 - [Geometry-Free View Synthesis: Transformers and no 3D Priors (2021)](https://arxiv.org/abs/2104.07652) ([Code](https://github.com/CompVis/geometry-free-view-synthesis))
+- [Easily Transform Portraits of People into AI Aberrations Using StyleCLIP (2021)](https://minimaxir.com/2021/04/styleclip/)

@@ -283,3 +283,4 @@
 - [Focused Attention Improves Document-Grounded Generation (2021)](https://arxiv.org/abs/2104.12714) ([Code](https://github.com/shrimai/Focused-Attention-Improves-Document-Grounded-Generation))
 - [NLPretext](https://github.com/artefactory/NLPretext) - All the goto functions you need to handle NLP use-cases.
 - [spaCy + UDPipe](https://github.com/TakeLab/spacy-udpipe)
+- [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) - Friendly fork of HuggingFace's Transformers, adding Adapters to PyTorch language models.

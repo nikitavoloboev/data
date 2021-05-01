@@ -55,6 +55,8 @@
 - [Poison](https://github.com/devinus/poison) - Incredibly fast, pure Elixir JSON library.
 - [Exq](https://github.com/akira/exq) - Job processing library for Elixir - compatible with Resque / Sidekiq.
 - [Twirp](https://github.com/keathley/twirp-elixir) - Elixir implementation of the twirp RPC framework.
+- [libcluster](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.
+- [Horde](https://github.com/derekkraan/horde) - Distributed Supervisor and Registry backed by DeltaCrdt.
 
 ## Links
 
