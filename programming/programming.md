@@ -197,7 +197,6 @@
 - [Annotated Debugger Implementation Bibliography](https://aarzilli.github.io/debugger-bibliography/) ([Code](https://github.com/aarzilli/debugger-bibliography))
 - [Conversational software development (2020)](https://oli.me.uk/conversational-software-development/)
 - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) ([HN](https://news.ycombinator.com/item?id=23444594)) ([HN 2](https://news.ycombinator.com/item?id=25322651))
-- [Adventures in Advanced Symbolic Programming (2020)](http://groups.csail.mit.edu/mac/users/gjs/6.945/)
 - [Software Design for Flexibility by Chris Hanson, Gerald Jay Sussman (2020)](https://www.penguinrandomhouse.com/books/669475/software-design-for-flexibility-by-chris-hanson-and-gerald-jay-sussman/)
 - [MIT 6.001 Structure and Interpretation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090) ([HN](https://news.ycombinator.com/item?id=23599263))
 - [If you can't delete code then you're stuck with it](https://www.christopherbiscardi.com/post/if-you-cant-delete-code-then-youre-stuck-with-it)
@@ -295,7 +294,7 @@
 - [Programiz](https://www.programiz.com/) - Learn to Code for Free.
 - [How to Make Your Code Reviewer Fall in Love with You (2020)](https://mtlynch.io/code-review-love/) ([HN](https://news.ycombinator.com/item?id=25330182))
 - [Software Design for Flexibility](https://mitpress.mit.edu/books/software-design-flexibility) ([HN](https://news.ycombinator.com/item?id=25322938))
-- [Adventures in Advanced Symbolic Programming (2020)](http://groups.csail.mit.edu/mac/users/gjs/6.945/)
+- [Adventures in Advanced Symbolic Programming (2021)](https://groups.csail.mit.edu/mac/users/gjs/6.945/) ([Code](https://github.com/compclub/book-code))
 - [State Machines resources](https://github.com/achou11/state-machines)
 - [Code Review Best Practices – Lessons from the Trenches (2020)](https://blogboard.io/blog/code-review-best-practices) ([HN](https://news.ycombinator.com/item?id=25362375))
 - [Frontiers of Performance with Daniel Lemire (2020)](https://overcast.fm/+LfVO9vQsc)

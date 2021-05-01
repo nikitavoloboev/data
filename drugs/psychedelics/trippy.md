@@ -16,3 +16,4 @@
 - [Reverse Phi Illusion](https://michaelbach.de/ot/mot-reversePhi/)
 - [Zoomquilt 2](http://zoomquilt2.com/) ([HN](https://news.ycombinator.com/item?id=25557627))
 - [Arkadia Zoomquilt](http://arkadia.xyz/) - Infinitely zooming botanical floral paradise painting. ([HN](https://news.ycombinator.com/item?id=26078677))
+- [Motion Illusions](https://jake.vision/blog/motion-illusions)

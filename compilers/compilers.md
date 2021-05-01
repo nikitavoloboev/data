@@ -152,7 +152,7 @@
 - [Interpreter, Compiler, JIT (2015)](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/) ([Code](https://github.com/jserv/jit-construct))
 - [A simple program reducer for any language (2021)](https://comby.dev/blog/2021/03/26/comby-reducer)
 - [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/)
-- [The Golden Age of Compiler Design in an Era of HW/SW Co-Design – Chris Lattner (2021)](https://www.youtube.com/watch?v=4HgShra-KnY) ([HN](https://news.ycombinator.com/item?id=26886427))
+- [The Golden Age of Compiler Design in an Era of HW/SW Co-Design – Chris Lattner (2021)](https://www.youtube.com/watch?v=4HgShra-KnY) ([HN](https://news.ycombinator.com/item?id=26886427)) ([Slides](https://docs.google.com/presentation/d/1ZMtzT6nmfvNOlIaHRzdaXpFeaAklcT7DvfGjhgpzcxk/edit#slide=id.p))
 - [Phism: Polyhedral High-Level Synthesis in MLIR (2021)](https://arxiv.org/abs/2103.15103)
 - [Gibbon](https://github.com/iu-parfunc/gibbon) - Compiler for functional programs on serialized data. ([Web](http://iu-parfunc.github.io/gibbon/))
 - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack) ([Web](http://tack.sourceforge.net/))

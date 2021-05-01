@@ -14,6 +14,7 @@
 - [If there is a blockchain based mobile voting App (with proper KYC of course), we won't have to wait for results, or have any questions on its validity. Privacy can be protected using a number of encryption mechanisms.](https://twitter.com/VitalikButerin/status/1324179944558059522)
 - [The "capitalism <-> socialism" opposition seems outdated. I prefer to think in terms of "centralization vs decentralization". Humans have evolved to perform best in small groups of less than 150 people. That's why wherever there's centralization and excessive heirarchy, there's inefficiency and underutilized human potential. Capitalist monopolies and socialist dictatorships are equally bad.](https://t.me/durov/151)
 - I think every citizen should have ability to live off the grid without having to pay any tax if he/she wants to. There should be tools available to grow your own food with ease in any environment. Purchases should be conducted in a global decentralized untraceable cryptocurrency. And there should be systems built where fraud (stealing) cannot happen from the government. Full accountability.
+- [Poverty is not a personal failure. It’s a government policy.](https://twitter.com/The_Acumen/status/1388276859532611589)
 
 ## Links
 

@@ -90,3 +90,4 @@ I try to give my full attention to any ideas I am working on.
 - [Evaluating Modest SaaS Business Ideas (2021)](https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/) ([HN](https://news.ycombinator.com/item?id=26763521))
 - [The idea validation method Stripe uses for building new products (2021)](https://www.indiehackers.com/post/the-idea-validation-method-stripe-uses-for-building-new-products-8d4ce7747e)
 - [My playbook for shipping side projects (2021)](https://brianlovin.com/writing/my-playbook-for-shipping-side-projects)
+- [Do What Makes The Best Story](https://amasad.me/story) ([Tweet](https://twitter.com/KennethCassel/status/1388460504109174785))
