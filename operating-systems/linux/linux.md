@@ -302,3 +302,4 @@
 - [The Linux Documentation Project](https://tldp.org/docs.html) - Good, reliable documentation for the Linux operating system. ([HN](https://news.ycombinator.com/item?id=26991660))
 - [ArchWiki](https://wiki.archlinux.org/) - Arch Linux Wiki.
 - [Ask HN: What are the best maintained how-to sites for Linux? (2021)](https://news.ycombinator.com/item?id=26997498)
+- [Linux Hypervisor Setup (Libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/) ([HN](https://news.ycombinator.com/item?id=27006354))

@@ -62,6 +62,7 @@
 - [Neurons might contain something within them (2021)](https://join.substack.com/p/is-this-the-most-interesting-idea) ([HN](https://news.ycombinator.com/item?id=26838016))
 - [The brain ‘rotates’ memories to save them from new sensations (2021)](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/) ([HN](https://news.ycombinator.com/item?id=26830105))
 - [Anatomy of hierarchy: Feedforward and feedback pathways in macaque visual cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4255240/) ([Tweet](https://twitter.com/patrickmineault/status/1385068971112681475))
+- [The human brain builds structures in 11 dimensions (2017)](https://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
 
 ## Images
 

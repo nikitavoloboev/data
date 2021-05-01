@@ -89,3 +89,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still used to make [wasteful & slow t
 - [Binance Trading Bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot with trailing buy/sell strategy.
 - [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
 - [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
+- [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange.
