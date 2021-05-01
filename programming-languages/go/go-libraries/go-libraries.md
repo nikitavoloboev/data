@@ -198,6 +198,7 @@
 - [pggen](https://github.com/jschaf/pggen) - Generate type-safe Go from any Postgres query. If Postgres can run the query, pggen can generate code for it.
 - [Squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generator for Go.
 - [Litestream as Library](https://github.com/benbjohnson/litestream-library-example) - Example repository for embedding Litestream in a Go application.
+- [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
 
 ## ML
 

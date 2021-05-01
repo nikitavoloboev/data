@@ -94,3 +94,4 @@
 - [gof](https://sr.ht/~mjorgensen/gof/) - CLI to post RSS/Atom feeds to the fediverse.
 - [Monitor Web Pages For Changes Using Web Feeds (2021)](https://www.inoreader.com/blog/2021/04/monitor-web-pages-for-changes-with-web-feeds.html)
 - [rss-watch](https://github.com/mkroman/rss-watch) - Command-line utillity for watching RSS/Atom feeds and executing a script whenever there's a new entry on the given feed.
+- [arss](https://github.com/1ntEgr8/arss) - RSS reader that doesn't try to do too much.

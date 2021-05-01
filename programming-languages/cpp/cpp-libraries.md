@@ -211,3 +211,4 @@
 - [The Art of C++](https://github.com/taocpp) - Collection of high-quality C++ libraries. ([Web](https://taocpp.github.io/))
 - [Conan](https://github.com/conan-io/conan) - Decentralized, open-source, C/C++ package manager. ([Web](https://conan.io/))
 - [hdoc](https://hdoc.io/) - Modern C++ documentation tool. ([HN](https://news.ycombinator.com/item?id=26038816))
+- [Mason](https://github.com/mapbox/mason) - Cross-platform, command-line package manager for C/C++ applications.
