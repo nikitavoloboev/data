@@ -21,6 +21,7 @@ I [budget & invest my money](../economy/finance.md).
   - When we break our dependence on material objects, we naturally find no use for the things that we do not need. Only when we extinguish that need to own things can we call ourselves minimalists. Otherwise, we are just trying to impress. If there is struggle, then there is dysfunction.
 - So many people are just replacing their attachment and dependency with tangible objects into attachment and dependency with the "idea" of minimalism. It morphs into someone's entire identity. It's just trading one addiction with another.
 - [FB Market Place](https://facebook.com/marketplace), [Ebay](https://www.ebay.com), [Gumtree](https://www.gumtree.com/), [Swappa (US only)](https://swappa.com) can be used to sell things.
+- [Complexity happens by default. Simplicity happens by design.](https://twitter.com/jackbutcher/status/1388524378011414528)
 
 ## Links
 
