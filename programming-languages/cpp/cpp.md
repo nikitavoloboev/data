@@ -205,3 +205,4 @@
 - [Understanding Atomics and Memory Ordering (2021)](https://dev.to/kprotty/understanding-atomics-and-memory-ordering-2mom)
 - [C++ Style Guide Lineup](https://github.com/motine/cppstylelineup) - Comparison of common C++ style guides.
 - [SIMD for C++ Developers (2019)](http://const.me/articles/simd/simd.pdf) ([HN](https://news.ycombinator.com/item?id=26955221))
+- [C++ Constructors, Memory, and Lifetimes (2021)](https://erikmcclure.com/blog/cpp-constructors-memory-and-lifetimes/)

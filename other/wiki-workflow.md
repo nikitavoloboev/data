@@ -333,7 +333,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [A Brief History & Ethos of the Digital Garden (2021)](https://maggieappleton.com/garden-history)
 - [Thread on 2-way links (2021)](https://twitter.com/elzr/status/1378821500246065154)
 - [Gatsby Garden](https://github.com/binnyva/gatsby-garden) - Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes.
-- [Mem](https://get.mem.ai/) - Capture and access information from anywhere. Simple as Apple Notes — powered by a collaborative graph database.
+- [Mem](https://get.mem.ai/) - Capture and access information from anywhere. Simple as Apple Notes — powered by a collaborative graph database. ([Intro](https://www.youtube.com/watch?v=hWvQUvWUCeU))
 - [Building a Memex](https://github.com/adri/memex) - Search of my personal data.
 - [Ask HN: How do you organize your knowledge? (2021)](https://news.ycombinator.com/item?id=26935838)
 - [Reflect](https://reflect.app/) - Keep track of your notes, books, and meetings.
@@ -341,3 +341,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Gatsby Brain](https://github.com/aengusmcmillin/gatsby-theme-brain) - Use this theme to integrate Roam Research inspired bidirectional linking of notes into a network on your site.
 - [Notea](https://cinwell.com/notea/) - Self-hosted note-taking app stored on S3. ([Code](https://github.com/QingWei-Li/notea))
 - [Codex OS](https://twitter.com/codexeditor) - Creating the knowledge worker's OS.
+- [Merlot](https://github.com/thesephist/merlot) - Web based Markdown writing app built with isomorphic Ink and Torus.

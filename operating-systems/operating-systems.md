@@ -217,3 +217,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [QEMU internals](https://airbus-seclab.github.io/qemu_blog/) ([Code](https://github.com/airbus-seclab/qemu_blog)) ([HN](https://news.ycombinator.com/item?id=26941744))
 - [Unikraft: Fast, Specialized Unikernels the Easy Way (2021)](https://arxiv.org/abs/2104.12721) ([HN](https://news.ycombinator.com/item?id=26954547))
 - [Torvalds: Shared libraries are not a good thing in general (2021)](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/) ([HN](https://news.ycombinator.com/item?id=27009044))
+- [Sigil OS post-mortem report](https://portal.mozz.us/gemini/gemini.spam.works/~emery/devlog/sigil-report.gmi) ([Lobsters](https://lobste.rs/s/fwlxjd/sigil_os_post_mortem_report))
