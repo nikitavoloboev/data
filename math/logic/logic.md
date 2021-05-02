@@ -44,3 +44,4 @@
 - [Superposition for Lambda-Free Higher-Order Logic (2021)](https://arxiv.org/abs/2005.02094)
 - [Logica](https://logica.dev/) - Modern Logic Programming. ([Code](https://github.com/EvgSkv/logica)) ([Article](https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html)) ([HN](https://news.ycombinator.com/item?id=26805121))
 - [Per Martin Löf: How did 'judgement' come to be a term of logic? (2011)](https://www.youtube.com/watch?v=FGUzgcLXNuk)
+- [Clingo](https://github.com/potassco/clingo) - Grounder and solver for logic programs. ([Web](https://potassco.org/clingo/))

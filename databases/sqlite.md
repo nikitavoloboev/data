@@ -68,3 +68,4 @@
 - [csvs-to-sqlite](https://github.com/simonw/csvs-to-sqlite) - Convert CSV files into a SQLite database.
 - [SQLiter](https://github.com/touchlab/SQLiter) - Minimal multiplatform sqlite library.
 - [Litestream/s6 Example](https://github.com/benbjohnson/litestream-s6-example) - Example of running a Go application in the same container as Litestream by using s6-overlay. Allows developers to release their SQLite-based application and provide replication in a single container.
+- [Hosting SQLite databases on Github Pages - (or any static file hoster) (2021)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)

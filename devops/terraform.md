@@ -73,3 +73,4 @@
 - [Stop using Terraform remote state blocks (2021)](https://medium.com/peloton-engineering/stop-using-terraform-remote-state-blocks-2f2d5cea300b)
 - [terrafying](https://github.com/uswitch/terrafying) - Small ruby DSL for Terraform.
 - [tfquery](https://github.com/mazen160/tfquery) - Run SQL queries on your Terraform infrastructure. Query resources and analyze its configuration using a SQL-powered framework.
+- [Terraform Tuesdays - YouTube](https://www.youtube.com/playlist?list=PLXb5972EMl4BWj8cAq9AZgeKBa2M8_7-y) ([Code](https://github.com/ned1313/terraform-tuesdays))

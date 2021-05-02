@@ -138,7 +138,7 @@
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. ([Modern APIs with FastAPI course](https://github.com/talkpython/modern-apis-with-fastapi))
-- [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines.
+- [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines. ([Docs](https://www.starlette.io/))
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [POT: Python Optimal Transport](https://github.com/PythonOT/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
 - [Pampy](https://github.com/santinic/pampy) - Pattern Matching for Python you always dreamed of.
