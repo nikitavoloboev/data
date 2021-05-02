@@ -90,3 +90,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still used to make [wasteful & slow t
 - [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
 - [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
 - [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange.
+- [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([Code](https://github.com/raydium-io/raydium-ui))

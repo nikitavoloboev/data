@@ -31,3 +31,4 @@
 - [Is Cardano effectively ETH2.0 but with an earlier release date? (2021)](https://www.reddit.com/r/cardano/comments/mj4p97/is_cardano_effectively_eth20_but_with_an_earlier/)
 - [Cardano Updates](https://cardanoupdates.com/)
 - [Guide: How to Build a Cardano Stake Pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
+- [Essential Cardano list](https://github.com/input-output-hk/essential-cardano)
