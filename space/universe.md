@@ -3,6 +3,7 @@
 ## Notes
 
 - [Cosmological red-shift (caused by the expansion of the universe) does not conserve energy. Expanding universe is not time translation invariant, so energy is not strictly conserved.](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
+- [A human is 25 orders of magnitude smaller than the whole universe, but 35 orders of magnitude bigger than a Planck length. We're bigger than average.](https://www.reddit.com/r/quantum/comments/n27xx8/question_in_the_scheme_of_the_size_of_the_known/)
 
 ## Links
 
