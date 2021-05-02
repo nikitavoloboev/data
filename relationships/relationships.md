@@ -19,6 +19,8 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [If you can just sit together doing nothing and still have a good time you know you have the right friend.](https://www.reddit.com/r/wholesomememes/comments/n2c8dt/friendship_goals/)
 - Go on walks with your partner to start the day. Get coffee, talk. Enjoy each other's company. ♥️
 - [Dating has absolutely changed in the last 25 years, a lot! Dating used to be you had a few options, picked one and made it work. Now the climate is much different with the illusion of infinite choice and lack of investment.](https://www.reddit.com/r/datingoverthirty/comments/n2lwsh/how_much_of_dating_is_well_just_luck/)
+- [One of the most useful changes I made to dating was to view early dates as a way to have fun and decide if I liked them, instead of worrying whether they liked me- they were going to feel whatever way they wanted to about me, and if I was being myself and they weren’t into that, I didn’t want them anyway.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2x8ht/how_can_i_get_wooed_and_date_normally_as_a_people/)
+- [Stop doing the things you do "for them" so much. Put all the effort you put into the chase into yourself. You want to call, call. You want to have a quiet day at home? Turn off your phone. You want to ask a guy out? Do it. Not sure if you're feeling it? Let him make the first move.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2x8ht/how_can_i_get_wooed_and_date_normally_as_a_people/)
 
 ## Links
 
@@ -53,3 +55,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Recovering from realizing your life with a narcissist was a lie (2021)](https://www.youtube.com/watch?v=-ul3Q1VP734)
 - [Best Dating App for Dating w/ Intention (2021)](https://www.reddit.com/r/datingoverthirty/comments/n0pq64/best_dating_app_for_dating_w_intention/)
 - [In your experience, how long does it take for someone's "dark side" to come out in dating? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n2katv/in_your_experience_how_long_does_it_take_for/)
+- [Why does someone go from normal relationship behavior to breaking up with you over night? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n2vigt/why_does_someone_go_from_normal_relationship/)

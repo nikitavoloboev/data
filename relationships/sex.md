@@ -45,3 +45,4 @@
 - [Guide to Getting It On Book](https://www.goodreads.com/book/show/72834.Guide_to_Getting_It_On_)
 - [Women's Anatomy Of Arousal Book](https://www.goodreads.com/book/show/7198255-women-s-anatomy-of-arousal)
 - [Good resources on learning the pleasures of sex (2021)](https://www.reddit.com/r/sexover30/comments/mxqdfs/what_are_some_good/)
+- [Mirena appreciation post (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2t9hw/mirena_appreciation_post/)
