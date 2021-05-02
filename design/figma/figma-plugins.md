@@ -46,3 +46,4 @@
 - [Figma Assets Generator](https://github.com/six7/figma-assets-generator) - Creates assets (SVG, JPG, PNG) from a Figma document (e.g. a "Icons" page in one of your files) and places them locally in a folder.
 - [Perfect Freehand Figma Plugin](https://github.com/steveruizok/figma-plugin-perfect-freehand) - Figma plugin for drawing perfect freehand strokes.
 - [Node Decoder](https://www.figma.com/community/plugin/933372797518031971/Node-Decoder) - Converts any Figma layer to Plugin API compatible code and avoids the need to code visual assets manually when developing plugins. ([Tweet](https://twitter.com/leadream4/status/1387944828458074112))
+- [Figma <> HTML](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more. ([Web](https://www.figma.com/community/plugin/747985167520967365/Figma-to-HTML%2C-CSS%2C-React-%26-more!))

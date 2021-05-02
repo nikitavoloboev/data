@@ -97,3 +97,4 @@
 - [Bayesian Analysis Recipes](https://github.com/ericmjl/bayesian-analysis-recipes)
 - [Stanford Nimble](https://github.com/keenon/nimblephysics) - Physics Engine for Deep Learning. ([Web](https://nimblephysics.org/))
 - [No, it’s not The Incentives—it’s you (2018)](https://www.talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/)
+- [Probability Theory (For Scientists and Engineers) (2018)](https://betanalpha.github.io/assets/case_studies/probability_theory)
