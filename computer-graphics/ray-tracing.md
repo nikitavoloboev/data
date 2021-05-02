@@ -68,3 +68,4 @@
 - [raytracing-go](https://github.com/y-taka-23/raytracing-go) - Go implementation of the book Ray Tracing in One Weekend.
 - [Coding Adventure: Ray Marching (2019)](https://www.youtube.com/watch?v=Cp5WWtMoeKg)
 - [A Course on Ray Tracing and Global Illumination](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
+- [Ray tracer for those who skipped the math class (2021)](https://zserge.com/posts/raytracer/)

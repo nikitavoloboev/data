@@ -51,3 +51,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What's something your partner does that just makes you smile? (2021)](https://www.reddit.com/r/AskMen/comments/myvyzj/whats_something_your_partner_does_that_just_makes/)
 - [Recovering from realizing your life with a narcissist was a lie (2021)](https://www.youtube.com/watch?v=-ul3Q1VP734)
 - [Best Dating App for Dating w/ Intention (2021)](https://www.reddit.com/r/datingoverthirty/comments/n0pq64/best_dating_app_for_dating_w_intention/)
+- [In your experience, how long does it take for someone's "dark side" to come out in dating? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n2katv/in_your_experience_how_long_does_it_take_for/)

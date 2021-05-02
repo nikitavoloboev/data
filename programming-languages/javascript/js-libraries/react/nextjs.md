@@ -188,3 +188,4 @@
 - [Portable apps with Go and Next.js (2021)](https://v0x.nl/articles/portable-apps-go-nextjs) ([Code](https://github.com/dstotijn/golang-nextjs-portable))
 - [next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) - Confidently unit test your Next.js API routes/handlers in an isolated Next.js-like environment.
 - [Generating a robots.txt in Next.js (2021)](https://mmazzarolo.com/blog/2021-04-27-nextjs-robots-txt/)
+- [How to build file upload forms on Next.js (2021)](https://betterprogramming.pub/how-to-build-file-upload-forms-on-next-js-c92ad41c63f2)
