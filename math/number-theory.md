@@ -26,3 +26,4 @@
 - [The Mysterious Math of Perfect Numbers (2021)](https://www.quantamagazine.org/the-mysterious-math-of-perfect-numbers-20210315/)
 - [Capturing Number Theory in Haskell (2021)](https://bor0.wordpress.com/2021/04/05/capturing-number-theory-in-haskell/)
 - [Illegal Prime Numbers](https://en.wikipedia.org/wiki/Illegal_prime) ([HN](https://news.ycombinator.com/item?id=26776949))
+- [Proofs of the infinitude of primes](https://tyamada1093.web.fc2.com/math/files/infprime.pdf)

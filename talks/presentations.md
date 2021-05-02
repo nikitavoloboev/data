@@ -41,3 +41,5 @@
 - [RemoteCTRL](https://remotectrl.net/) - Control any slideshow together.
 - [Shower Presentation Template](https://github.com/shower/shower)
 - [MarkShow](https://mark.show/#) - Markdown to Slideshow. ([HN](https://news.ycombinator.com/item?id=26931098))
+- [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
+- [Slidev for VSCode](https://github.com/slidevjs/slidev-vscode)

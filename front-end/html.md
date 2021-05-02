@@ -112,3 +112,4 @@
 - [html-parsed-element](https://github.com/WebReflection/html-parsed-element) - Base custom element class with a reliable `parsedCallback` method.
 - [focus-trap](https://github.com/focus-trap/focus-trap) - Trap focus within a DOM node.
 - [Incremental DOM](https://github.com/google/incremental-dom) - Library for building up DOM trees and updating them in-place when data changes.
+- [The Humble <img> Element And Core Web Vitals (2021)](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)

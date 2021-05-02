@@ -54,3 +54,4 @@
 - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/) ([HN](https://news.ycombinator.com/item?id=26493588))
 - [opticl](https://github.com/slyrus/opticl) - Image processing library for Common Lisp.
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html) ([Lobsters](https://lobste.rs/s/qqelbo/features_common_lisp_2008))
+- [Python vs Common Lisp, workflow and ecosystem (2019)](https://lisp-journey.gitlab.io/pythonvslisp/) ([HN](https://news.ycombinator.com/item?id=27011942))
