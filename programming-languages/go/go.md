@@ -470,3 +470,4 @@ Go promotes composition over inheritance.
 - [Network Programming with Go by Adam Woodbeck (2021)](https://www.penguinrandomhouse.com/books/645956/network-programming-with-go-by-adam-woodbeck/)
 - [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
 - [uGo](https://github.com/ozanh/ugo) - Fast, dynamic scripting language to embed in Go applications.
+- [Best examples of a Go client (2021)](https://www.reddit.com/r/golang/comments/n2r2je/best_examples_of_a_go_client/)
