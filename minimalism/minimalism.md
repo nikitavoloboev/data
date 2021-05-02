@@ -38,4 +38,4 @@ I [budget & invest my money](../economy/finance.md).
 - [Creators of ORCA and their works embracing tech minimalism and software freedom (2021)](https://esoteric.codes/blog/100-rabbits) ([HN](https://news.ycombinator.com/item?id=26054594))
 - [How to Practice (2021)](https://www.newyorker.com/magazine/2021/03/08/how-to-practice) - I wanted to get rid of my possessions, because possessions stood between me and death.
 - [Home Inventory (2021)](https://alexfedoseev.com/blog/productivity/2021/home-inventory)
-- [Simplifier](https://simplifier.neocities.org/index.html) ([Tweet](https://twitter.com/rsms/status/1388554538831867905))
+- [Simplifier](https://simplifier.neocities.org/index.html) ([Tweet](https://twitter.com/rsms/status/1388554538831867905)) ([HN](https://news.ycombinator.com/item?id=26979636))

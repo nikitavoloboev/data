@@ -17,3 +17,4 @@
 - [Pen Plotter Art and Algorithms (2017)](https://mattdesl.svbtle.com/pen-plotter-1)
 - [linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
 - [Pen Plotter Heatmaps (2021)](https://www.larswander.com/posts/plotter-heatmaps.html)
+- [Pen plotters: not just output devices (2016)](https://scruss.com/blog/2016/05/17/pen-plotters-not-just-output-devices/) ([HN](https://news.ycombinator.com/item?id=26990920))

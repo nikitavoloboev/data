@@ -89,3 +89,4 @@ Might give it a go sometime.
 - [Emacs org-mode examples and cookbook](http://ehneilsen.net/notebook/orgExamples/org-examples.html)
 - [From Vim to Emacs in Fourteen Days (2015)](https://blog.aaronbieber.com/2015/05/24/from-vim-to-emacs-in-fourteen-days.html)
 - [Awesome Elisp](https://github.com/p3r7/awesome-elisp) - Curated list of emacs-lisp development resources.
+- [Emacs Lisp book revived: Marcin Borkowski (2021)](http://mbork.pl/2021-05-01_Emacs_Lisp_book_revived) ([HN](https://news.ycombinator.com/item?id=27005000))

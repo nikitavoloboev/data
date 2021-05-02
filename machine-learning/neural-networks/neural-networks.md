@@ -136,7 +136,7 @@
 - [Genann](https://github.com/codeplea/genann) - Minimal, well-tested library for training and using feedforward artificial neural networks (ANN) in C.
 - [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks (2020)](https://blog.ml.cmu.edu/2020/08/14/high-frequency-component-helps-explain-the-generalization-of-convolutional-neural-networks/)
 - [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) - Curated list of neural network pruning resources.
-- [Hopfield Networks is All You Need (2020)](https://arxiv.org/abs/2008.02217) ([Code](https://github.com/ml-jku/hopfield-layers))
+- [Hopfield Networks is All You Need (2020)](https://arxiv.org/abs/2008.02217) ([Code](https://github.com/ml-jku/hopfield-layers)) ([Article](https://ml-jku.github.io/hopfield-layers/)) ([HN](https://news.ycombinator.com/item?id=26990000))
 - [Sparse Networks from Scratch: Faster Training without Losing Performance (2019)](https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/)
 - [Jigsaw Labs - Learn Neural Nets](https://www.jigsawlabs.io/#neural_nets)
 - [Implementing a Neural Network in C](https://www.cs.bham.ac.uk/~jxb/INC/nn.html) ([Code](https://github.com/mathmagson/neuralnetwork))

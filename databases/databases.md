@@ -335,5 +335,5 @@
 - [Segcache: a memory-efficient, scalable cache for small objects with TTL (2021)](https://twitter.github.io/pelikan/2021/segcache.html)
 - [Ask HN: How would you store 10PB of data for your startup today? (2021)](https://news.ycombinator.com/item?id=26912321)
 - [Query Engines: Push vs. Pull (2021)](http://justinjaffray.com/query-engines-push-vs.-pull/)
-- [How Litestream Eliminated My Database Server for $0.03/month (2021)](https://mtlynch.io/litestream/)
+- [How Litestream Eliminated My Database Server for $0.03/month (2021)](https://mtlynch.io/litestream/) ([HN](https://news.ycombinator.com/item?id=27006476))
 - [“What Goes Around Comes Around”: A Brief History of Databases (2017)](https://15721.courses.cs.cmu.edu/spring2020/papers/01-intro/whatgoesaround-stonebraker.pdf) ([Summary](https://blog.grakn.ai/what-goes-around-comes-around-52d38ee1ea9e))
