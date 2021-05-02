@@ -375,3 +375,4 @@
 - [Prow](https://github.com/kubernetes/test-infra/tree/master/prow) - Kubernetes based CI/CD system.
 - [Fluent Bit Operator](https://github.com/kubesphere/fluentbit-operator)
 - [Devtron](https://devtron.ai/) - Software Delivery Workflow For Kubernetes. ([Code](https://github.com/devtron-labs/devtron))
+- [Native Kubernetes Continuous Delivery (2021)](https://www.reddit.com/r/kubernetes/comments/n2jy7f/native_kubernetes_continuous_delivery/)

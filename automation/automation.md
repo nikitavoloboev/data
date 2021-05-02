@@ -3,6 +3,7 @@
 ## Notes
 
 - One important thing to remember is that when people talk about technology replacing jobs, it's easy to imagine exactly one robot being brought in to completely replace exactly one human worker, and that isn't really how it works.
+- [Don't spend 3 days automating something you can manually do in 20 min.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
 
 ## Links
 
