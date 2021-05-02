@@ -18,6 +18,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Don’t lower your standards. Spend more time with these guys and see if attraction grows. Usually, people who give the advice to lower your standards are those who are more concerned with being in a relationship than finding someone they’re compatible with.](https://www.reddit.com/r/datingoverthirty/comments/n0onwm/how_do_you_lower_your_standards/)
 - [If you can just sit together doing nothing and still have a good time you know you have the right friend.](https://www.reddit.com/r/wholesomememes/comments/n2c8dt/friendship_goals/)
 - Go on walks with your partner to start the day. Get coffee, talk. Enjoy each other's company. ♥️
+- [Dating has absolutely changed in the last 25 years, a lot! Dating used to be you had a few options, picked one and made it work. Now the climate is much different with the illusion of infinite choice and lack of investment.](https://www.reddit.com/r/datingoverthirty/comments/n2lwsh/how_much_of_dating_is_well_just_luck/)
 
 ## Links
 

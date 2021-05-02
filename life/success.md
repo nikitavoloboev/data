@@ -29,6 +29,8 @@ Success comes from not giving up and doing what you love.
 - [Success in anything is just a byproduct of learning, and learning is a byproduct of curiosity. Ultimately, if you are curious about something, you will be successful at it, and the more curious you are about it, the more successful you will be at it.](https://twitter.com/jmikolay/status/1364341154020474888)
 - [Life goal: Work hard, retire early, buy a small house in the south of France, drink wine, study math.](https://twitter.com/suzatweet/status/1381866563201028099)
 - [I'm not impressed if you're a good engineer. I'm impressed if you're a good teammate.](https://twitter.com/RandallKanna/status/1387202807103574016)
+- [Luck is when opportunity meets preparation. If the moment comes, and you're ready, it will happen.](https://www.reddit.com/r/datingoverthirty/comments/n2lwsh/how_much_of_dating_is_well_just_luck/)
+- [Don’t feel guilty about your privilege. Use it to lift others up.](https://twitter.com/marcusjcarey/status/1388631703544025095)
 
 ## Links
 
