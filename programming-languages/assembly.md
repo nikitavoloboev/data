@@ -44,3 +44,4 @@
 - [Avoiding instruction cache misses (2019)](https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/)
 - [Assembly vs. intrinsics (2014)](https://danluu.com/assembly-intrinsics/) ([HN](https://news.ycombinator.com/item?id=26877076))
 - [How many x86 instructions are there? (2016)](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/) ([HN](https://news.ycombinator.com/item?id=26889108))
+- [X86 Opcode and Instruction Reference](http://ref.x86asm.net/) ([Code](https://github.com/Barebit/x86reference))

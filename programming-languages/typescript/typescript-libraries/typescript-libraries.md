@@ -7,7 +7,7 @@
 
 ## Web
 
-- [tRPC](https://github.com/colinhacks/trpc) - Toolkit for building end-to-end TypeScript data layers.
+- [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs.
 - [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
 

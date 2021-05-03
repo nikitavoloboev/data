@@ -37,3 +37,4 @@
 - [Writing a Simple Garbage Collector in C (2020)](https://maplant.com/gc.html) ([Lobsters](https://lobste.rs/s/dd8k4k/writing_simple_garbage_collector_c_2020))
 - [A look into Automatic Reference Counting (2021)](https://neelbakshi.medium.com/a-look-into-automatic-reference-counting-b17e9539d34f)
 - [Papers for heap memory analysis and leak detection (2021)](https://github.com/grin-compiler/ghc-whole-program-compiler-project/issues/5)
+- [Memory Management Landscape](https://github.com/plasma-umass/memory-landscape)

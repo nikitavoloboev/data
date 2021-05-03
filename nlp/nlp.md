@@ -285,3 +285,5 @@
 - [spaCy + UDPipe](https://github.com/TakeLab/spacy-udpipe)
 - [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) - Friendly fork of HuggingFace's Transformers, adding Adapters to PyTorch language models.
 - [TextAttack](https://github.com/QData/TextAttack) - Generating adversarial examples for NLP models.
+- [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Implementation of model parallel GPT-3-like models on GPUs, based on the DeepSpeed library.
+- [Transfer Learning in Natural Language Processing (2019)](https://naacl2019.org/program/tutorials/) ([Code](https://github.com/huggingface/naacl_transfer_learning_tutorial))

@@ -264,6 +264,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Mugshot Bot](https://www.mugshotbot.com/) - Automated link previews - no design tools needed.
 - [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
 - [Lattice](https://lattice.com/) - Performance management and employee engagement.
+- [cryptgeon](https://cryptgeon.nicco.io/) - Secure, open source note sharing service inspired by PrivNote. ([Code](https://github.com/cupcakearmy/cryptgeon))
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 - [Fixmie](https://fixmie.com/) - Automated code fixes.

@@ -110,3 +110,4 @@
 - [TinySQL](https://github.com/tidb-incubator/tinysql) - Course designed to teach you how to implement a distributed relational database in Go.
 - [Ask HN: Is there a way to efficiently subscribe to an SQL query for changes? (2021)](https://news.ycombinator.com/item?id=26901352)
 - [Practical SQL for Data Analysis: What you can do without Pandas (2021)](https://hakibenita.com/sql-for-data-analysis)
+- [sqlbench](https://github.com/felixge/sqlbench) - Measures and compares the execution time of one or more SQL queries.

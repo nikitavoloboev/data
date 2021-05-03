@@ -200,6 +200,7 @@
 - [timemory](https://github.com/NERSC/timemory) - Timing + Memory + Hardware Counter Utilities for C / C++ / CUDA / Python.
 - [Casbin-CPP](https://github.com/casbin/casbin-cpp) - Authorization library that supports access control models like ACL, RBAC, ABAC in C/C++.
 - [SON-RPC-CXX](https://github.com/jsonrpcx/json-rpc-cxx) - JSON-RPC for modern C++.
+- [PTHash](https://github.com/jermp/pthash) - Fast and compact minimal perfect hash functions in C++.
 
 ## Links
 
