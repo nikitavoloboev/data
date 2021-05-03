@@ -457,3 +457,4 @@
 - [Recommendation System using ML and DL](https://github.com/amitkaps/recommendation)
 - [Mathematical Foundations of Machine Learning (2020)](https://www.dropbox.com/s/mffzmuo9fvs5j6m/Study_Guide.pdf)
 - [How to Write Design Docs for Machine Learning Systems](https://eugeneyan.com/writing/ml-design-docs/) ([Code](https://github.com/eugeneyan/ml-design-docs))
+- [Reproducible Deep Learning (2021)](https://www.sscardapane.it/teaching/reproducibledl/) - PhD Course in Data Science. ([Code](https://github.com/sscardapane/reprodl2021))

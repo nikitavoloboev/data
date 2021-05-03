@@ -22,6 +22,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [One of the most useful changes I made to dating was to view early dates as a way to have fun and decide if I liked them, instead of worrying whether they liked me- they were going to feel whatever way they wanted to about me, and if I was being myself and they weren’t into that, I didn’t want them anyway.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2x8ht/how_can_i_get_wooed_and_date_normally_as_a_people/)
 - [Stop doing the things you do "for them" so much. Put all the effort you put into the chase into yourself. You want to call, call. You want to have a quiet day at home? Turn off your phone. You want to ask a guy out? Do it. Not sure if you're feeling it? Let him make the first move.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2x8ht/how_can_i_get_wooed_and_date_normally_as_a_people/)
 - [Long distance tends to work better when there is a definite time frame for when you'll get back together. It's a lot easier to deal with the loneliness when you know that "in two years after I get **\_\_** done, we can be together".](https://www.reddit.com/r/AskMen/comments/n3b61g/have_you_ever_done_longdistance_how_did_it_go/)
+- [Love and relationship are bonds that must be nurtured from both sides throughout life, or they fade away leaving nothing more than friendship.](https://news.ycombinator.com/item?id=27030269)
 
 ## Links
 

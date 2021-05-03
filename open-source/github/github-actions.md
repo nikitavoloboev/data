@@ -157,6 +157,7 @@
 
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
+- [nix-profile-action](https://github.com/yaxitech/nix-profile-action) - GitHub Action to install an ephemeral Nix profile.
 
 ## Haskell
 
