@@ -462,3 +462,4 @@
 - [Rust's Most Unrecognized Contributor (2021)](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor) ([Lobsters](https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor)) ([Reddit](https://www.reddit.com/r/rust/comments/n3ar6s/rusts_most_unrecognized_contributor/))
 - [xargo](https://github.com/japaric/xargo) - Sysroot manager that lets you build and customize `std`.
 - [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) - Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.
+- [Understanding Rust as a C++ developer (2021)](https://renoth.medium.com/understanding-rust-as-a-c-developer-69ee8ca76fd6)

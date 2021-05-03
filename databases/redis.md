@@ -63,3 +63,4 @@
 - [Using a disk-based Redis clone to reduce AWS S3 bill (2021)](https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill) ([HN](https://news.ycombinator.com/item?id=26955404))
 - [Redis Simple Message Queue](https://github.com/smrchy/rsmq)
 - [reqlite](https://github.com/augmentable-dev/reqlite) - Query Redis with SQL.
+- [RedisLess](https://github.com/Qovery/RedisLess) - Fast, lightweight, embedded and scalable in-memory Key/Value store library compatible with the Redis API.
