@@ -201,6 +201,7 @@
 - [Casbin-CPP](https://github.com/casbin/casbin-cpp) - Authorization library that supports access control models like ACL, RBAC, ABAC in C/C++.
 - [SON-RPC-CXX](https://github.com/jsonrpcx/json-rpc-cxx) - JSON-RPC for modern C++.
 - [PTHash](https://github.com/jermp/pthash) - Fast and compact minimal perfect hash functions in C++.
+- [Zadeh](https://github.com/atom-community/zadeh) - Blazing fast library for fuzzy filtering, matching, and other fuzzy things.
 
 ## Links
 

@@ -91,3 +91,4 @@
 - [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React](https://egghead.io/courses/building-an-opengraph-image-generation-api-with-cloudinary-netlify-functions-and-react-914e)
 - [Lift](https://github.com/getlift/lift) - Easily deploy well-designed serverless applications on AWS.
 - [vHive](https://github.com/ease-lab/vhive) - Open-source framework for serverless experimentation.
+- [Go SDK for Serverless Workflow](https://github.com/serverlessworkflow/sdk-go)

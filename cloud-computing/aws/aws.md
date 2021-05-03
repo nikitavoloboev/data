@@ -164,3 +164,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Diving Deep on S3 Consistency (2021)](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html) ([HN](https://news.ycombinator.com/item?id=26968627))
 - [[MAMIP] Monitor AWS Managed IAM Policies](https://github.com/z0ph/MAMIP)
 - [AWS X-Ray SDK for Python](https://github.com/aws/aws-xray-sdk-python)
+- [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups.

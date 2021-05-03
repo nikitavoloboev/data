@@ -74,3 +74,4 @@ Learning to build [startups](startups/startups.md).
 - [Learnings from Jeff Bezos's 23 years of Amazon shareholder letters (2021)](https://twitter.com/sumitgrrg/status/1381227286238666752)
 - [Career Ladders](https://career-ladders.dev/) - Sample of career ladders I use for my organization, open sourced for anyone. ([Code](https://github.com/sdras/career-ladders)) ([Article](https://css-tricks.com/the-importance-of-career-laddering/))
 - [Ask HN: I'd like to start a company, where should I begin? (2021)](https://news.ycombinator.com/item?id=26869271)
+- [How Tech Loses Out over at Companies, Countries and Continents (2021)](https://berthub.eu/articles/posts/how-tech-loses-out/) ([Lobsters](https://lobste.rs/s/iz5vhn/how_tech_loses_out_over_at_companies))
