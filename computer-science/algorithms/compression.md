@@ -48,3 +48,4 @@
 - [Lossless Text Compression](https://bilalonureskili.com/files/LTC_en.pdf) ([HN](https://news.ycombinator.com/item?id=26722960))
 - [CompressAI](https://github.com/InterDigitalInc/CompressAI) - PyTorch library and evaluation platform for end-to-end compression research.
 - [zipindex](https://github.com/minio/zipindex) - Package for indexing zip files and storing a compressed index.
+- [COIN: COmpression with Implicit Neural representations (2021)](https://arxiv.org/abs/2103.03123) ([Code](https://github.com/EmilienDupont/coin))

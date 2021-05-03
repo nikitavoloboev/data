@@ -111,3 +111,4 @@
 - [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/) ([Code](https://github.com/fhsinchy/docker-handbook-projects))
 - [Don’t leak your Docker image’s build secrets (2021)](https://pythonspeed.com/articles/docker-build-secrets/)
 - [Write a Good Dockerfile in 19 'Easy' Steps (2021)](https://jkutner.github.io/2021/04/26/write-good-dockerfile.html)
+- [Rocker](https://github.com/daikimiura/rocker) - Minimal docker implementation for educational purposes.

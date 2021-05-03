@@ -73,3 +73,4 @@
 - [Implicit In-order Forests: Zooming a billion trace events at 60fps (2021)](https://thume.ca/2021/03/14/iforests/) ([Lobsters](https://lobste.rs/s/gkmpyc/implicit_order_forests_zooming_billion))
 - [Bloom filters explained in a single image (2021)](https://exampl.io/bloom-filters/) ([HN](https://news.ycombinator.com/item?id=26771991))
 - [Traversing nested data-structures in various languages](https://github.com/josevalim/nested-data-structure-traversal) ([HN](https://news.ycombinator.com/item?id=26776786))
+- [Teaching Bloom Filters new tricks (2020)](https://toao.com/blog/teaching-bloom-filters-new-tricks)
