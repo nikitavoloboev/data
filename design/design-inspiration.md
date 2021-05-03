@@ -64,6 +64,7 @@ Here are few more things I liked, design wise.
 - [Walling](https://walling.app/)
 - [Raycast](https://raycast.com/)
 - [Work Notes](https://worknotes.co.uk/)
+- [Aleo](https://aleo.org/)
 - [Logic Magazine](https://logicmag.io/)
 - [Dithering](https://dithering.fm/)
 - [Glitch](https://glitch.com/)

@@ -138,3 +138,5 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Breez](https://breez.technology/) - Lightning Fast Bitcoin Payments. ([Mobile Client Code](https://github.com/breez/breezmobile))
 - [myNode](https://github.com/mynodebtc/mynode) - Easiest way to run Bitcoin and Lightning.
 - [Lily Wallet](https://github.com/Lily-Technologies/lily-wallet) - Multisig Bitcoin Wallet. ([Web](https://lily-wallet.com/))
+- [coins](https://github.com/summa-tx/bitcoins-rs) - Bitcoin-oriented dev toolboxes for native and browser apps.
+- [Riemann](https://github.com/summa-tx/riemann) - Rapid prototyping transaction toolbox for Bitcoin-style chains.
