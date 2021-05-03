@@ -47,3 +47,4 @@
 - [Speech Recognition from Scratch](https://colab.research.google.com/drive/1aFgzrUv3udM_gNJNUoLaHIm78QHtxdIz?usp=sharing)
 - [Common Voice](https://commonvoice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
 - [FullSubNet: A Full-Band and Sub-Band Fusion Model for Real-Time Single-Channel Speech Enhancement (2021)](https://arxiv.org/abs/2010.15508) ([Code](https://github.com/haoxiangsnr/FullSubNet))
+- [DeepSpeech2 in PyTorch using PyTorch Lightning](https://github.com/SeanNaren/deepspeech.pytorch)

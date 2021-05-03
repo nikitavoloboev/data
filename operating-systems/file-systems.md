@@ -55,3 +55,4 @@
 - [A Survey of Distributed File Systems (1989)](https://www.cs.cmu.edu/~satya/docdir/satya89survey.pdf)
 - [libfsrefs](https://github.com/libyal/libfsrefs) - Library and tools to access the Resilient File System (ReFS).
 - [netfuse](https://github.com/anowell/netfuse) - FUSE-based abstraction for networked filesystems.
+- [go-fsimpl](https://github.com/hairyhenderson/go-fsimpl) - Go filesystem implementations for various URL schemes.

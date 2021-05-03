@@ -137,6 +137,7 @@
 - [KuiBaDB](https://github.com/hidva/KuiBaDB) - Another Postgres rewritten with Rust and multi-threading.
 - [LeanStore](https://github.com/leanstore/leanstore) - High-performance OLTP storage engine optimized for many-core CPUs and NVMe SSDs. ([Web](https://dbis1.github.io/leanstore.html))
 - [KVS](https://kvs.n2o.dev/) - Abstract Chain Database. ([Code](https://github.com/synrc/kvs))
+- [Yorkie](https://yorkie.dev/) - Document store for building collaborative editing applications. ([Code](https://github.com/yorkie-team/yorkie))
 
 ## Tools
 

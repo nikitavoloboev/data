@@ -81,4 +81,4 @@
 - [Sensa Emoji](https://sensa.co/emoji/) - Free, vector, and open-source emoji set.
 - [Twemoji](https://twemoji.twitter.com/) - Twitter’s open source emoji.
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Apple offers 2,400 icons for free. ([HN](https://news.ycombinator.com/item?id=26484456))
-- [Iconic](https://iconic.app/) - Free pixel-perfect icons.
+- [Iconic](https://iconic.app/) - Free pixel-perfect icons. ([Code](https://github.com/Make-Lemonade/iconicicons))

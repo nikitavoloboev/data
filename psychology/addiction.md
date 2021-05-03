@@ -13,3 +13,4 @@
 - [How long until we create the perfect drug, that has everyone addicted, all the time?](https://twitter.com/naval/status/1297080832046141441)
 - [Only successful approach to productivity is treating yourself like an addict](https://twitter.com/awilkinson/status/1346482158131531784)
 - [How do you guys resist temptations? (2021)](https://www.reddit.com/r/researchchemicals/comments/m5hh8g/how_do_you_guys_resist_temptations/)
+- [Ask HN: Mobile phone addiction help? (2021)](https://news.ycombinator.com/item?id=27017776)

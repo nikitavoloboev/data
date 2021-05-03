@@ -2,7 +2,7 @@
 
 > Distributed consensus platform with meta-consensus capability
 
-I love that Tezos has an [efficient working proof of stake consensus algorithm](https://tezos.gitlab.io/008/proof_of_stake.html) and the governance of the chain is fully decentralized too unlike [Ethereum](ethereum.md) so community decides in which direction the chain policies can go.
+I love that Tezos has an [efficient working proof of stake consensus algorithm](https://tezos.gitlab.io/008/proof_of_stake.html) and the governance of the chain is fully decentralized too so community decides in which direction the chain policies can go.
 
 ## Applications
 
