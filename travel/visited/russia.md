@@ -131,3 +131,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Россия в судах](https://www.youtube.com/playlist?list=PLnnvzPm9BOwrIPtZ7M0yKG8QiYuLU9g4W)
 - [Миф о 13% налога. Сколько россияне платят государству со своих зарплат (2021)](https://www.youtube.com/watch?v=ar2p8juOJpo)
 - [Книга Фанфиков](https://ficbook.net/)
+- [ЗВОНОК ИЗ ПРОШЛОГО. Черно-белый разговор с Верой (2021)](https://www.youtube.com/watch?v=ijnBRLa6NIw)

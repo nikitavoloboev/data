@@ -29,3 +29,4 @@
 - [Solana GitHub](https://github.com/solana-labs)
 - [StableSwap](https://stableswap.pro/#/) - Adaptation of the Solana token-swap program implementing Curve's StableSwap invariant. ([Code](https://github.com/stableswap/stable-swap-program))
 - [Solana: The World's Fastest Blockchain (fireside chat at Node) (2021)](https://www.youtube.com/watch?v=uhrU0W4J05w)
+- [Promising new projects of SOL Ecosystem (2021)](https://twitter.com/CryptoGodJohn/status/1386370402264432640)

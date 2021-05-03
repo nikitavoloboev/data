@@ -139,3 +139,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance.
 - [Staking Facilities](https://stakingfacilities.com/) - Web 3.0 Infrastructure & Services.
 - [Rust in Blockchain](https://rustinblockchain.org/) ([Twitter](https://twitter.com/rust_blockchain))
+- [Loom Network](https://loomx.io/) - Production-Ready, Multichain Interop Platform for Serious Dapp Developers. ([GitHub](https://github.com/loomnetwork)) ([Code](https://github.com/loomnetwork/loomchain))

@@ -288,3 +288,4 @@
 - [Easily Transform Portraits of People into AI Aberrations Using StyleCLIP (2021)](https://minimaxir.com/2021/04/styleclip/)
 - [DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates (2021)](https://arxiv.org/abs/2102.09105) ([Code](https://github.com/Colin97/DeepMetaHandles))
 - [Onepanel](https://github.com/onepanelio/onepanel) - Open and extensible integrated development environment (IDE) for computer vision. ([Web](https://docs.onepanel.ai/))
+- [Vector Neurons: A General Framework for SO(3)-Equivariant Networks (2021)](https://arxiv.org/abs/2104.12229) ([Code](https://github.com/FlyingGiraffe/vnn))
