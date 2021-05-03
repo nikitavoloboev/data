@@ -24,6 +24,8 @@ I also turned 26 this month. Still young and I truly feel/believe that the best 
 
 Here is to an exciting and happy May. This is the last month I get to be unhappy with myself. Such a waste of time.
 
-Leave the world better than you found it. Leave any person better than you found them. ♥️
+I started to really get fascinated by [Solana](https://solana.com/). The [tech talk on it](https://www.youtube.com/watch?v=oBW2KJq3FnA) is mind opening and inspiring. Might try build something on it soonish.
+
+As reminder. Leave the world better than you found it. Leave any person better than you found them. ♥️
 
 [Letter to Glass](https://open.spotify.com/track/66JaeVf0sXp4GzOrN3hY48) is my new focus song. I also played [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) song a lot.
