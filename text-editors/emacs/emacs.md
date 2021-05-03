@@ -47,7 +47,7 @@ Might give it a go sometime.
 - [How do you setup emacs? (2020)](https://lobste.rs/s/uv4xpv/how_do_you_setup_emacs)
 - [The most successful malleable system in history (2020)](https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/) ([HN](https://news.ycombinator.com/item?id=22875106))
 - [Ask HN: Resources to grok Emacs and use it well? (2020)](https://news.ycombinator.com/item?id=22881808)
-- [Evolution of Emacs Lisp](http://www.iro.umontreal.ca/~monnier/hopl-4-emacs-lisp.pdf) ([HN](https://news.ycombinator.com/item?id=23080417))
+- [Evolution of Emacs Lisp](https://dl.acm.org/doi/10.1145/3386324) ([HN](https://news.ycombinator.com/item?id=23080417))
 - [Making Emacs popular again (2020)](https://lwn.net/SubscriberLink/819452/1480c3a59d3d9093/) ([Lobsters](https://lobste.rs/s/ueqxbu/making_emacs_popular_again)) ([HN](https://news.ycombinator.com/item?id=23107123))
 - [Prettifying Org Mode with CSS (2020)](https://sandyuraz.com/articles/orgmode-css/) ([HN](https://news.ycombinator.com/item?id=23130104))
 - [Spacemacs and My Exit From VSCode (2020)](https://dev.to/zamhaq/spacemacs-and-my-exit-from-vscode-54o2) ([Lobsters](https://lobste.rs/s/zc0shz/spacemacs_my_exit_from_vscode))

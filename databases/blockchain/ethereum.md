@@ -211,3 +211,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Aurora Engine](https://github.com/aurora-is-near/aurora-engine) - Implements an Ethereum Virtual Machine (EVM) on the NEAR Protocol.
 - [What Is Staking How It Works in Ethereum? (2021)](https://medium.com/coinmonks/what-is-staking-can-really-help-me-earn-passive-income-it-is-risky-373ba829f903)
 - [The Ethereum Bull Case with Su Zhu, Hasu, and special guest Cobie (2021)](https://www.youtube.com/watch?v=ho39imoAAuY)
+- [Ethereum Rescue With Dan Robinson (2021)](https://corecursive.com/064-ethereum-rescue-with-dan-robinson/)
+- [ETHGlobal.tv](https://ethglobal.tv/) - Scaling Ethereum.

@@ -51,3 +51,4 @@ And here are Chrome extensions I use:
 - [chrome-sidebar](https://github.com/segmentio/chrome-sidebar) - Easiest way to embed an iframe as a chrome extension.
 - [Ask HN: For those who use Chrome, why do you? (2021)](https://news.ycombinator.com/item?id=26765493)
 - [Chrome Platform Status](https://chromestatus.com/features)
+- [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome) - High-level API to control headless Chrome or Chromium over the DevTools Protocol.

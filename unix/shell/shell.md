@@ -127,3 +127,4 @@ All active variables can be seen by running `env`.
 - [The TTY demystified (2008)](http://www.linusakesson.net/programming/tty/index.php) ([HN](https://news.ycombinator.com/item?id=26803109))
 - [Reverse Shell Generator](https://www.revshells.com/) ([Code](https://github.com/0dayCTF/reverse-shell-generator))
 - [Learn GNU AWK](https://learnbyexample.github.io/learn_gnuawk/preface.html)
+- [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/) ([HN](https://news.ycombinator.com/item?id=27023572))

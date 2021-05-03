@@ -468,7 +468,7 @@ Go promotes composition over inheritance.
 - [Tiny Container Challenge: Building a 6kB Containerized HTTP Server (2021)](https://devopsdirective.com/posts/2021/04/tiny-container-image/) ([HN](https://news.ycombinator.com/item?id=26899292))
 - [Build, notarize, and sign Golang binaries for MacOS with GitHub Actions (2020)](https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/) ([Code](https://github.com/kencochrane/golang-github-action-sign-macos))
 - [Network Programming with Go by Adam Woodbeck (2021)](https://www.penguinrandomhouse.com/books/645956/network-programming-with-go-by-adam-woodbeck/)
-- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod)
+- [Go Modules Cheat Sheet](https://encore.dev/guide/go.mod) ([HN](https://news.ycombinator.com/item?id=27025462))
 - [uGo](https://github.com/ozanh/ugo) - Fast, dynamic scripting language to embed in Go applications.
 - [Best examples of a Go client (2021)](https://www.reddit.com/r/golang/comments/n2r2je/best_examples_of_a_go_client/)
 - [The Ultimate Guide to JSON in Go (2021)](https://qvault.io/golang/json-golang/)

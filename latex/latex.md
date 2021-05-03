@@ -76,3 +76,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [fiziko](https://github.com/jemmybutton/fiziko) - MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook.
 - [acmart](https://github.com/borisveytsman/acmart) - ACM consolidated LaTeX styles.
 - [LaTeX Best Practices](https://github.com/simonharrer/latex-best-practices)
+- [TeXmacs and the Art of Mathematical Writing](https://texmacs.github.io/notes/docs/art-of-math-writing.html) ([HN](https://news.ycombinator.com/item?id=27024260))

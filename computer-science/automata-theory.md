@@ -45,3 +45,4 @@
 - [Minkovski Cellular Automata Simulator](https://dmishin.github.io/minkovski-ca/) ([Code](https://github.com/dmishin/minkovski-ca))
 - [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
 - [Create your own cellular automata](http://aperocky.com/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=26466275))
+- [Self-reproducing cellular automata (2021)](https://www.johndcook.com/blog/2021/05/03/self-reproducing-cellular-automata/)

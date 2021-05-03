@@ -140,3 +140,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Lily Wallet](https://github.com/Lily-Technologies/lily-wallet) - Multisig Bitcoin Wallet. ([Web](https://lily-wallet.com/))
 - [coins](https://github.com/summa-tx/bitcoins-rs) - Bitcoin-oriented dev toolboxes for native and browser apps.
 - [Riemann](https://github.com/summa-tx/riemann) - Rapid prototyping transaction toolbox for Bitcoin-style chains.
+- [Ask HN: What do you think of Bitcoin? (2021)](https://news.ycombinator.com/item?id=27024667)

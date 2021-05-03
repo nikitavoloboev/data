@@ -22,7 +22,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Go, Tooling, and New Languages (2016)](http://parellagram.com/posts/tools)
 - [Programming paradigms for dummies: what every programmer should know (2019)](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
 - [What, if anything, is a programming paradigm? (2017)](http://www.cs.cmu.edu/~rwh/papers/paradigms/paradigm.pdf)
-- [Programming Languages Zoo](https://github.com/andrejbauer/plzoo) - Collection of implementations of miniature programming languages.
+- [Programming Languages Zoo](https://github.com/andrejbauer/plzoo) - Collection of implementations of miniature programming languages. ([Web](https://plzoo.andrej.com/))
 - [Thinking in a Language (2019)](https://maxhallinan.com/posts/2019/02/15/thinking-in-a-language/)
 - [What are some niche features you'd like to see in more languages? (2019)](https://lobste.rs/s/mcwvhn/what_are_some_niche_features_you_d_like_see)
 - [Ask HN: What programming language should I learn next? (2019)](https://news.ycombinator.com/item?id=19504453)
