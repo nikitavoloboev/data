@@ -21,6 +21,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Absolem](https://zealot.hu/absolem/) ([Code](https://github.com/mrzealot/absolem))
 - [jklp](https://github.com/brow/jklp) - 36-key ergonomic keyboard.
 - [Moonlander](https://zsa.io/moonlander/) - Next-generation ergonomic keyboard. ([HN](https://news.ycombinator.com/item?id=23995049))
+- [Keychron K3](https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard) - Hot-Swappable Low Profile Optical Wireless Mechanical Keyboard.
 - [Keychron K6](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard) ([Tweet](https://twitter.com/kaepora/status/1288755152854437894))
 - [Custom keyboard](https://twitter.com/_philpl/status/1297952549505466369) ([Specs](https://twitter.com/_philpl/status/1297955234795474946))
 - [Ergonomic Ultimate Hacking Keyboard 60](https://ultimatehackingkeyboard.com/blog/2020/11/05/introducing-the-uhk-60-v2) ([HN](https://news.ycombinator.com/item?id=25016438))

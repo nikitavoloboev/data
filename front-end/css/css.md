@@ -16,6 +16,7 @@
   - never use absolute widths (px, in, cm, etc.) for anything
 - body tag takes up the whole width and height of the browser screen.
 - [Hex colors are super common... and inconvenient as heck. Try hsl instead.](https://twitter.com/sulco/status/1295336749552537600)
+- [If you make it a rule to always use attributes instead of classes to apply CSS to element states (not variants), you’ll force yourself to make your app more accessible (Similar to React Testing Library). If you’re using CSS-in-JS this also helps create more static styles.](https://twitter.com/buildsghost/status/1389225898193293313)
 
 ## Links
 

@@ -479,3 +479,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How to Map Nothing (2021)](https://placesjournal.org/article/how-to-map-nothing/)
 - [Cognitive Medium](http://cognitivemedium.com/slow) - List of marvellous projects which human beings have undertaken that took an exceptionally long time.
 - [Changes at Basecamp (2021)](https://world.hey.com/jason/changes-at-basecamp-7f32afc5) ([HN](https://news.ycombinator.com/item?id=26944192)) ([HN 2](https://news.ycombinator.com/item?id=26998127)) ([Tweet](https://twitter.com/ItsTheBrandi/status/1388219837097283588))
+- [imagededup](https://github.com/idealo/imagededup) - Python package that simplifies the task of finding exact and near duplicates in an image collection.
+- [readme.so](https://readme.so/) - Simple editor allows you to quickly add and customize all the sections you need for your project's readme. ([Code](https://github.com/katherinepeterson/readme.so))

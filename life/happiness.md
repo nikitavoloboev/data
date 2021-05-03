@@ -47,6 +47,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
   - As for its relation to neurochemistry, I most certainly agree that it plays a major role. That's why things like exercise, proper nutrition and plentiful sleep plays such a huge role in achieving and maintaining this state of happiness. Without those three things, or in other words, without you taking care of your body, reaching these states of being is simply much harder if not impossible.
 - Happiness is the absence of striving for happiness.
 - [It is a pretty simple move, and also a very powerful move, to focus on what you like versus what you don’t like.](https://twitter.com/adamwathan/status/1376533386949488642)
+- [You don’t owe people to be attractive to them.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n3x5bg/you_dont_owe_people_to_be_attractive_to_them/)
 
 ## Links
 

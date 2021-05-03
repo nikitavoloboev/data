@@ -1,5 +1,9 @@
 # React components
 
+## Notes
+
+- [Design System opinion: Don't make your <Link> and <Button> components support both link and button visuals. Do make your <Link> and <Button> components renders either <a> or <button> based on the props passed to it ("to" should render an anchor, "onClick" should render a button)](https://twitter.com/buildsghost/status/1389294014222934018)
+
 ## Other
 
 - [Belle](https://github.com/nikgraf/belle/) - Configurable React Components with great UX.
