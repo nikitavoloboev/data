@@ -22,7 +22,7 @@ Also [1cP-LSD](https://en.wikipedia.org/wiki/1cP-LSD) in nature alone is quite a
 
 I also turned 26 this month. Still young and I truly feel/believe that the best is yet to come. I think I am more mindful and happy now than I was before. I do know few people still and have little to no real friends. I did read that it's normal though. My skills are also all over the place. I [got dreams](https://twitter.com/PDLComics/status/1387798834361761794) though.
 
-Here is to an exciting and happy May.
+Here is to an exciting and happy May. This is the last month I get to be unhappy with myself. Such a waste of time.
 
 Leave the world better than you found it. Leave any person better than you found them. ♥️
 
