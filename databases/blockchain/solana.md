@@ -5,6 +5,7 @@
 ## Apps
 
 - [Zoolana](https://www.zoolana.com/#/) - P2P meeting app built on Solana.
+- [Sollectify](https://sollectify.com/) - Fast and easy to use NFT marketplace on Solana blockchain.
 
 ## Links
 
