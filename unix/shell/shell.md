@@ -126,3 +126,4 @@ All active variables can be seen by running `env`.
 - [What was the point of [ “x$var” = “xval” ]? (2021)](https://www.vidarholen.net/contents/blog/?p=1035) ([HN](https://news.ycombinator.com/item?id=26776956))
 - [The TTY demystified (2008)](http://www.linusakesson.net/programming/tty/index.php) ([HN](https://news.ycombinator.com/item?id=26803109))
 - [Reverse Shell Generator](https://www.revshells.com/) ([Code](https://github.com/0dayCTF/reverse-shell-generator))
+- [Learn GNU AWK](https://learnbyexample.github.io/learn_gnuawk/preface.html)

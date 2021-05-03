@@ -15,3 +15,5 @@
 - [Giving Ada a chance (2021)](https://ajxs.me/blog/Giving_Ada_a_chance.html) ([Lobsters](https://lobste.rs/s/cktczx/giving_ada_chance)) ([HN](https://news.ycombinator.com/item?id=26302344))
 - [Ada for the C++ and Java Developer](https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf) ([HN](https://news.ycombinator.com/item?id=26609060))
 - [Ada for the Embedded C Developer (2021)](https://www.youtube.com/watch?v=Myqo75Yb_lU)
+- [Comparing Ada to Other Languages](https://pyjarrett.github.io/programming-with-ada/900-comparison.html)
+- [Programming with Ada Docs](https://pyjarrett.github.io/programming-with-ada/index.html)
