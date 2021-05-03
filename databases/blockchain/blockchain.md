@@ -138,3 +138,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How NFTs work](https://twitter.com/KetanJ0/status/1387710309767565312)
 - [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance.
 - [Staking Facilities](https://stakingfacilities.com/) - Web 3.0 Infrastructure & Services.
+- [Rust in Blockchain](https://rustinblockchain.org/) ([Twitter](https://twitter.com/rust_blockchain))
