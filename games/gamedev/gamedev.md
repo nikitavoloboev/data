@@ -173,3 +173,4 @@
 - [Writing web-based interactive fiction with ink](https://www.inklestudios.com/ink/web-tutorial/) ([HN](https://news.ycombinator.com/item?id=26984912))
 - [GB Studio](https://www.gbstudio.dev/) - Game maker for the Game Boy. ([Code](https://github.com/chrismaltby/gb-studio))
 - [Building games that can be understood at a glance (2018)](http://stfj.net/DesigningForSubwayLegibility/)
+- [MServer](https://github.com/changnet/MServer) - Mini Distributed Game Server.
