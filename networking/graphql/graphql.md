@@ -210,3 +210,4 @@
 - [Mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify. ([Docs](https://mercurius.dev/#/))
 - [TypeScript with GraphQL done right (2021)](https://charlypoly.com/publications/typescript-with-graphql-done-right)
 - [Supercharging file-based content with GraphQL (2021)](https://tina.io/blog/using-graphql-with-the-filesystem/)
+- [GraphQL Bench](https://github.com/hasura/graphql-bench) - Super simple tool to benchmark GraphQL queries.

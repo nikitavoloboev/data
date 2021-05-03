@@ -24,7 +24,7 @@
 - [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM. ([HN](https://news.ycombinator.com/item?id=24185963))
 - [Anton Lavrik - A Reflection on Building the WhatsApp Server - Code BEAM 2018](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
 - [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
-- [Hex](https://hex.pm/) - Package manager for the Erlang ecosystem.
+- [Hex](https://hex.pm/) - Package manager for the Erlang ecosystem. ([Code](https://github.com/hexpm/hex))
 - [Blog from the Erlang/OTP team](http://blog.erlang.org/)
 - [Erlang Language Server Protocol Implementation](https://github.com/erlang-ls/erlang_ls)
 - [Advent of Code 2019 done in Erlang videos](https://www.youtube.com/watch?v=TqzBchjZw4Q)

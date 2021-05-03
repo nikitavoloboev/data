@@ -199,6 +199,7 @@
 - [Squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generator for Go.
 - [Litestream as Library](https://github.com/benbjohnson/litestream-library-example) - Example repository for embedding Litestream in a Go application.
 - [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
+- [tpg](https://github.com/tidwall/tpg) - Insanely tiny Postgres library for Go.
 
 ## ML
 
