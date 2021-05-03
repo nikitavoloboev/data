@@ -12,3 +12,4 @@
 - [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html))
 - [Summary of Solana, the tech, and why it is the future + comparison to other top projects (2021)](https://www.reddit.com/r/solana/comments/n0hyad/a_summary_of_solana_the_tech_and_why_it_is_the/)
 - [Solana vs Algorand (2021)](https://www.reddit.com/r/solana/comments/n1yc3j/solana_vs_algorand/)
+- [In Rust We Trust - Berkeley Packet Filter and Rust (2019)](https://www.youtube.com/watch?v=oBW2KJq3FnA)

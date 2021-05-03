@@ -38,4 +38,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [RecipeRadar](https://www.reciperadar.com/) - Recipe search engine and meal planner.
 - [Poached eggs recipe](https://www.youtube.com/watch?v=yifZtA3uF-E)
 - [Open source cooking](https://opensource.cooking/) - Simple, bloat free cooking site. Submit recipes. ([HN](https://news.ycombinator.com/item?id=26727700))
-- [Half Lemons](https://www.halflemons.com/) - Recipes Using Only The Ingredients You Already Have.
+- [Half Lemons](https://www.halflemons.com/) - Recipes Using Only The Ingredients You Already Have. ([Reddit](https://www.reddit.com/r/apple/comments/n36hlp/i_launched_my_first_app_on_the_app_store_half/))

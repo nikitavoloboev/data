@@ -1,6 +1,6 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
-Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064). [Nano](nano.md) is the future of decentralized currency.
+Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/status/1350869944888664064) which made great history for being the first true digital cryptocurrency. [Solana](../databases/blockchain/solana.md) is a more efficient and better version of decentralized programmable money.
 
 ## Notes
 

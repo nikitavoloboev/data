@@ -1,5 +1,9 @@
 # Yoga
 
+## Notes
+
+- [I do yoga on my rest days. It helps loosen, and relieve everything, while also being a decent low impact workout on its own.](https://www.reddit.com/r/bodyweightfitness/comments/n3cc69/need_help_finding_a_habitual_every_day_routine/)
+
 ## Links
 
 - [Yoga: The practice of Calm](https://juanitofatas.com/fragments/yoga)

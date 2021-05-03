@@ -459,4 +459,4 @@
 - [A brief history of Rust at Facebook (2021)](https://engineering.fb.com/2021/04/29/developer-tools/rust/) ([HN](https://news.ycombinator.com/item?id=26982879))
 - [Building an Emulator with Rust](https://read.cv/mehdi/uNGQ7pgWb2CO1QfJkb1n)
 - [Why asynchronous Rust doesn't work (2021)](https://theta.eu.org/2021/03/08/async-rust-2.html) ([HN](https://news.ycombinator.com/item?id=26406989))
-- [Rust's Most Unrecognized Contributor (2021)](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor) ([Lobsters](https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor))
+- [Rust's Most Unrecognized Contributor (2021)](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor) ([Lobsters](https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor)) ([Reddit](https://www.reddit.com/r/rust/comments/n3ar6s/rusts_most_unrecognized_contributor/))

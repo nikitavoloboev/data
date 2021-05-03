@@ -16,6 +16,7 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [If you want a correlation between sitting at a desk and building strength to offset that, look at squats in all it's forms, and hamstring and quad dominant exercises. Your lower body is in much more trouble than your lower back from sitting at a computer. Hipflexer stretches with resistance bands will also do you wonders.](https://news.ycombinator.com/item?id=25030938)
 - [Exercise is good for you, and what that exercise looks like is almost completely unimportant. Do what you enjoy and can sustain. If you have ten minutes in the morning, do HIIT. If you have an hour after work and want to get out of the house, go jogging or ride a bike. Anything is better than nothing.](https://news.ycombinator.com/item?id=25071676)
 - [Your muscles do not distinguish resistance from external weights or from your own bodyweight.](https://www.reddit.com/r/bodyweightfitness/comments/n2jdmo/how_much_fitness_can_be_achieved_with_simple_home/)
+- [Try to walk outdoors every day. This is safe for almost every body and has been proven to help with depression. To give yourself those daily small wins, you gotta set the bar really low. I mean REALLY low, and then bask in pride when you hit your target.](https://www.reddit.com/r/bodyweightfitness/comments/n3cc69/need_help_finding_a_habitual_every_day_routine/)
 
 ## Links
 
@@ -44,3 +45,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Chris Heria](https://www.youtube.com/c/CHRISHERIA/videos)
 - [10 Best Exercises To Build Muscle (2021)](https://www.youtube.com/watch?v=Z_hl0Aq4yPk)
 - [How much fitness can be achieved with simple home routines? (2021)](https://www.reddit.com/r/bodyweightfitness/comments/n2jdmo/how_much_fitness_can_be_achieved_with_simple_home/)
+- [Finding a Habitual EVERY DAY routine. Rest days mess me up (2021)](https://www.reddit.com/r/bodyweightfitness/comments/n3cc69/need_help_finding_a_habitual_every_day_routine/)

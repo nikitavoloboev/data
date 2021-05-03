@@ -2,6 +2,8 @@
 
 > Distributed consensus platform with meta-consensus capability
 
+I love that Tezos has an [efficient working proof of stake consensus algorithm](https://tezos.gitlab.io/008/proof_of_stake.html) and the governance of the chain is fully decentralized too unlike [Ethereum](ethereum.md) so community decides in which direction the chain policies can go.
+
 ## Applications
 
 - [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
