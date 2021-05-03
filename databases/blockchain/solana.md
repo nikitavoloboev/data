@@ -26,3 +26,4 @@
 - [Solana White Paper](https://solana.com/solana-whitepaper.pdf) - New architecture for a high performance blockchain. ([Code](https://github.com/solana-labs/whitepaper))
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library) - Collection of Solana-maintained on-chain programs.
 - [Solana GitHub](https://github.com/solana-labs)
+- [StableSwap](https://stableswap.pro/#/) - Adaptation of the Solana token-swap program implementing Curve's StableSwap invariant. ([Code](https://github.com/stableswap/stable-swap-program))

@@ -4,9 +4,9 @@
 
 - [Give her an orgasm (or more) before you actually have sex. That way if you finish early it’s not the end of the world.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
 - [Going off birth control can increase sex drive.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
-- [There is no such thing as vaginal orgasm, only clitoral. Pay attention and be gentle.](https://www.abc.net.au/health/features/stories/2014/10/28/4116350.htm)
+- [There is no such thing as vaginal orgasm, only clitoral. Pay attention and be gentle with it.](https://www.abc.net.au/health/features/stories/2014/10/28/4116350.htm)
 - [How is female birth control literally all so incredibly medieval](https://twitter.com/nwilliams030/status/1381421499005943810)
-- [If you're taking it slower now, your probably getting into it more. I used to have problems where was hitting cervix and sent shooting pains. Now he takes tons of time warming me up, tons of foreplay and things directed towards me. Cause with me so um excited it allows me to relax and enjoy myself more, and in return hitting the deep points don't feel painful anymore they are way more pleasurable. I am left teary eyed, semi runny nose, giggly, shaking.... sometimes if edge long enough too on top that, can make you feel almost drunk.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
+- [If you're taking it slower now, you're probably getting into it more. I used to have problems where he was hitting cervix and sent shooting pains. Now he takes tons of time warming me up, tons of foreplay and things directed towards me. It allows me to relax and enjoy myself more, and in return hitting the deep points don't feel painful anymore they are way more pleasurable. I am left teary eyed, semi runny nose, giggly, shaking.... sometimes if I edge long enough too on top that, can make you feel almost drunk.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
 
 ## Links
 

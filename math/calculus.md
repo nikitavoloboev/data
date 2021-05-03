@@ -17,3 +17,4 @@
 - [Surprising integral evaluated by differentiation (2021)](https://www.youtube.com/watch?v=irFANuXSaic)
 - [Introduction to Sequent Calculus (2021)](https://www.youtube.com/watch?v=xLRUofFSq5Y)
 - [Mila Computer Calculus RG](https://compcalc.github.io/) - Reading about differential, integral and logical calculi. ([Code](https://github.com/compcalc/compcalc.github.io)) ([HN](https://news.ycombinator.com/item?id=27004278))
+- [Why learn Calculus? (2021)](https://www.reddit.com/r/learnmath/comments/n34jx5/why_learn_calculus/)

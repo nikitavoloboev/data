@@ -1,6 +1,6 @@
 # Relationships
 
-Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore conflicts.
+Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore conflicts. Try not to argue on same topics and resolve issues when they arise at their root.
 
 ## Notes
 

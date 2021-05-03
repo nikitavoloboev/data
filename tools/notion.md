@@ -47,3 +47,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Creating a MVP landing page using nothing but Notion and a little CSS](https://noahbragg.com/blog/how-i-created-my-landing-page)
 - [Reverse-Engineering Notion's and Clubhouse's API (2021)](https://www.youtube.com/watch?v=h6rpahb8_nk)
 - [Potion](https://www.potion.so/) - Create custom websites in minutes. All on Notion. ([Code](https://github.com/benborgers/potion))
+- [Notionery](https://www.notionery.com/) - Discover the latest Notion templates, products, and more.
