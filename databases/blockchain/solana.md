@@ -22,3 +22,7 @@
 - [Awesome Solana](https://github.com/paul-schaaf/awesome-solana)
 - [SPL Token UI](https://www.spl-token-ui.com/#/) - UI for the creation and management of SPL tokens. ([Code](https://github.com/paul-schaaf/spl-token-ui))
 - [Solana Beach](https://solanabeach.io/) - Search Solana blocks, accounts, transactions, programs and tokens.
+- [Solana Explorer](https://explorer.solana.com/) - Explorer for Solana clusters. ([Code](https://github.com/solana-labs/explorer))
+- [Solana White Paper](https://solana.com/solana-whitepaper.pdf) - New architecture for a high performance blockchain. ([Code](https://github.com/solana-labs/whitepaper))
+- [Solana Program Library](https://github.com/solana-labs/solana-program-library) - Collection of Solana-maintained on-chain programs.
+- [Solana GitHub](https://github.com/solana-labs)

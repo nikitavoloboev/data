@@ -460,3 +460,5 @@
 - [Building an Emulator with Rust](https://read.cv/mehdi/uNGQ7pgWb2CO1QfJkb1n)
 - [Why asynchronous Rust doesn't work (2021)](https://theta.eu.org/2021/03/08/async-rust-2.html) ([HN](https://news.ycombinator.com/item?id=26406989))
 - [Rust's Most Unrecognized Contributor (2021)](https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor) ([Lobsters](https://lobste.rs/s/nw07cy/rust_s_most_unrecognized_contributor)) ([Reddit](https://www.reddit.com/r/rust/comments/n3ar6s/rusts_most_unrecognized_contributor/))
+- [xargo](https://github.com/japaric/xargo) - Sysroot manager that lets you build and customize `std`.
+- [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) - Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.
