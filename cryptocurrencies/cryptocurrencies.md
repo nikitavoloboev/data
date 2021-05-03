@@ -91,3 +91,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
 - [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange.
 - [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([Code](https://github.com/raydium-io/raydium-ui))
+- [The FTX Podcast](https://www.youtube.com/playlist?list=PLLDdsQN_5infQ9Ee-KPxcH3gvMIbymZEg) - Tristan Yver looks into the stories of emerging and established cryptocurrency companies and technologies.

@@ -137,3 +137,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Avalanche](https://www.avalabs.org/) - Open-source platform for launching highly decentralized applications, new financial primitives, and new interoperable blockchains. ([Code](https://github.com/ava-labs/avalanchego))
 - [How NFTs work](https://twitter.com/KetanJ0/status/1387710309767565312)
 - [Algorand](https://www.algorand.com/) - Open source, permissionless, pure PoS blockchain protocol designed for the future of finance.
+- [Staking Facilities](https://stakingfacilities.com/) - Web 3.0 Infrastructure & Services.
