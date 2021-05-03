@@ -62,3 +62,4 @@
 - [Teleport](https://goteleport.com/) - Access Computing Resources Anywhere. ([Code](https://github.com/gravitational/teleport))
 - [ownCloud](https://owncloud.com/) - Share files and folders, easy and secure. ([Code](https://github.com/owncloud/core))
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing. ([HN](https://news.ycombinator.com/item?id=26666142))
+- [SkyTransfer](https://skytransfer.hns.siasky.net/#/) - Free, Open-Source, Decentralized and Encrypted File-Sharing. ([Code](https://github.com/kamy22/skytransfer)) ([HN](https://news.ycombinator.com/item?id=27017805))

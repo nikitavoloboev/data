@@ -84,3 +84,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Animal Life Twitter](https://twitter.com/animalIife)
 - [A chair made for needy pets (2021)](https://www.youtube.com/watch?v=XYqz1F6eAVU)
 - [Why Bumblebees Love Cats and Other Beautiful Relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/) ([HN](https://news.ycombinator.com/item?id=26822896))
+- [Forming eye contact is important in dog–human communication](https://www.nature.com/articles/s41598-021-88702-w)

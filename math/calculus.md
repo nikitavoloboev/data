@@ -15,3 +15,5 @@
 - [Zero to Calculus](https://docs.google.com/presentation/d/1JA1LVEV_mRTENcy34b_KNzcO6bHBXkFBsYyZRQS6OBg/edit#slide=id.g351491b35_0333)
 - [Elementary Calculus: An Infinitesimal Approach](https://www.math.wisc.edu/~keisler/calc.html)
 - [Surprising integral evaluated by differentiation (2021)](https://www.youtube.com/watch?v=irFANuXSaic)
+- [Introduction to Sequent Calculus (2021)](https://www.youtube.com/watch?v=xLRUofFSq5Y)
+- [Mila Computer Calculus RG](https://compcalc.github.io/) - Reading about differential, integral and logical calculi. ([Code](https://github.com/compcalc/compcalc.github.io)) ([HN](https://news.ycombinator.com/item?id=27004278))

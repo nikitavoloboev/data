@@ -303,3 +303,4 @@
 - [A Complete Guide to Custom Properties (2021)](https://css-tricks.com/a-complete-guide-to-custom-properties/)
 - [Tacit](https://github.com/yegor256/tacit) - CSS Framework for Dummies, Without Classes. ([Web](https://yegor256.github.io/tacit/))
 - [How to Create Actions for Selected Text With the Selection API (2021)](https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/)
+- [Book insights: The New CSS Layout (2021)](https://world.hey.com/ahuth/book-insights-the-new-css-layout-7c2b49b0)

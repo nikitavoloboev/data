@@ -14,7 +14,7 @@
 - [Embedded devices Working Group](https://github.com/rust-embedded/wg) - Issue tracker is used by the embedded WG to coordinate efforts towards making Rust a great choice for embedded development.
 - [Arm Mbed DAPLink](https://github.com/ARMmbed/DAPLink) - Open-source software project that enables programming and debugging application software running on Arm Cortex CPUs.
 - [Mbed TLS](https://github.com/ARMmbed/mbedtls) - Open source, portable, easy to use, readable and flexible SSL library.
-- [Modern Microprocessors](http://www.lighterra.com/papers/modernmicroprocessors/) - Brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture.
+- [Modern Microprocessors a 90-Minute Guide](http://www.lighterra.com/papers/modernmicroprocessors/) - Brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture. ([HN](https://news.ycombinator.com/item?id=27014027))
 - [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems. ([HN](https://news.ycombinator.com/item?id=24166861))
 - [CircuitPython](https://github.com/adafruit/circuitpython) - Programming Hardware in Python. ([HN](https://news.ycombinator.com/item?id=25923491))
 - [What's your preferred embedded/application scripting language? (2019)](https://lobste.rs/s/jtrbrj/what_s_your_preferred_embedded)

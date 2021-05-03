@@ -674,6 +674,7 @@
 - [ProcessEnv](https://github.com/ChimeHQ/ProcessEnv) - Small library for capturing the shell configuration used by a Foundation/AppKit process.
 - [swift-enum-properties](https://github.com/pointfreeco/swift-enum-properties) - Struct and enum data access in harmony.
 - [Regex](https://github.com/sindresorhus/Regex) - Wrapper for NSRegularExpression that makes it more convenient and type-safe to use regular expressions in Swift.
+- [SwiftRegexDSL](https://github.com/kodlian/SwiftRegexDSL) - Declarative Structured Language for regular expressions in Swift.
 
 ## Other (not lib)
 

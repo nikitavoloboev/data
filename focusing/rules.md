@@ -52,6 +52,7 @@
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Notion [Learn page](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
+- Focus on current problems. Use learnings from the past. Don't dwell on what has happened or what I can't change.
 
 ## Ideas
 

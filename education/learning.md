@@ -110,3 +110,4 @@
 - [Naval's learnings](https://twitter.com/jmikolay/status/1364339943699591177)
 - [How to teach things to developers efficiently (2021)](https://twitter.com/JoshWComeau/status/1381611771841146883)
 - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html) ([HN](https://news.ycombinator.com/item?id=26931359))
+- [One Year of TILs (2021)](https://simonwillison.net/2021/May/2/one-year-of-tils/) ([HN](https://news.ycombinator.com/item?id=27017604))

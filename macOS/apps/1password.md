@@ -15,3 +15,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [1Password Secrets Automation (2021)](https://1password.com/secrets/) ([HN](https://news.ycombinator.com/item?id=26794040)) ([Article](https://blog.1password.com/introducing-secrets-automation/))
 - [1Password Connect Node SDK](https://github.com/1Password/connect-sdk-js)
 - [Hashicorp Vault 1Password Secrets Backend](https://github.com/1Password/vault-plugin-secrets-onepassword)
+- [1Password Security Design (2021)](https://1password.com/files/1Password-White-Paper.pdf)

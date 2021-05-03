@@ -89,3 +89,4 @@
 - [If the Moon Were Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html) - Tediously accurate map of the solar system.
 - [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth) ([HN](https://news.ycombinator.com/item?id=26923322))
 - [Mars26](https://mars26.com/) - High Resolution Mars Map. ([HN](https://news.ycombinator.com/item?id=26965583))
+- [Stars That Race Through Space at Nearly the Speed of Light (2021)](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/) ([HN](https://news.ycombinator.com/item?id=27019843))
