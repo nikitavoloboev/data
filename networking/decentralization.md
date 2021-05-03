@@ -1,5 +1,9 @@
 # [Decentralization](http://en.wikipedia.org/wiki/Decentralization)
 
+## Notes
+
+- [The hardest problem in censorship resistance is the challenge of getting humans to split their stake between many independent validators. Defi is going to drive censorship resistance, and is really our only hope of achieving a truly censorship resistant global network.](https://twitter.com/aeyakovenko/status/1388148048639905792)
+
 ## Links
 
 - [The Decentralized Web Primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/)
