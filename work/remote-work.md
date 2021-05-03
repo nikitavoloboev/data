@@ -7,6 +7,7 @@
 - [Normalize recess for adults. Walking away from my computer to explore the neighborhood at some point between 1p - 3p has done more for me than any corporate mental health app ever.](https://twitter.com/emhaasch/status/1369408335313780743)
 - [Remote work rewards writers.](https://twitter.com/shl/status/1381603968489381896)
 - [Companies mandating company-wide time off days, where EVERYBODY at the company takes the same day off (hoping to help with burnout/pandemic breathing room) is helpful.](https://twitter.com/lara_hogan/status/1382087784974798849)
+- [Just because you work from home, doesn’t mean you have to be available 24/7 for work.](https://twitter.com/catalinmpit/status/1388809429806686213)
 
 ## Links
 
