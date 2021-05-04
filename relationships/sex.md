@@ -49,3 +49,4 @@
 - [Mirena appreciation post (2021)](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n2t9hw/mirena_appreciation_post/)
 - [What makes sex with a guy go from good to mind blowing? (2021)](https://www.reddit.com/r/sex/comments/n4e6pp/what_makes_sex_with_a_guy_go_from_good_to/)
 - [On Incels, Dead Bedrooms and the Hard Problems of Loneliness (2021)](https://residentcontrarian.substack.com/p/on-incels-dead-bedrooms-and-the-hard) ([HN](https://news.ycombinator.com/item?id=27039498))
+- [Movies with lots of sexual energy? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/n4fm4i/movies_with_lots_of_sexual_energy/)

@@ -190,3 +190,4 @@
 - [DIY Split-Flap Display](https://github.com/scottbez1/splitflap) ([Web](https://scottbez1.github.io/splitflap/)) ([HN](https://news.ycombinator.com/item?id=26858741))
 - [MANUZOID](https://manuzoid.com/) - Search for Manual Online.
 - [Why making chips is so hard (2021)](https://www.youtube.com/watch?v=CkNn98WE5_k)
+- [The True Cost of Processor Manufacturing: TSMC 7nm (2021)](https://www.youtube.com/watch?v=tvVobTtgss0)
