@@ -31,3 +31,4 @@
 - [Writing a Simple TCP Server Using Kqueue (2021)](https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah)
 - [Talking TCP and UDP with Adam Woodbeck (2021)](https://changelog.com/gotime/176)
 - [microps](https://github.com/pandax381/microps) - Implementation of a small TCP/IP protocol stack for learning.
+- [Low-level TCP server in Rust with MIO (2019)](https://sergey-melnychuk.github.io/2019/08/01/rust-mio-tcp-server/) ([Code](https://github.com/sergey-melnychuk/mio-tcp-server))

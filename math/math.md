@@ -263,3 +263,4 @@
 - [Good books to relearn math (2021)](https://www.reddit.com/r/learnmath/comments/mzn7z0/good_books_to_relearn_math/)
 - [Intuitive Guide to Hyperbolic Functions](https://betterexplained.com/articles/hyperbolic-functions/)
 - [Cognicull](https://cognicull.com/en) - Learning site that pursues "ease of understanding" and "comfort".
+- [Which was the first book that gave you the taste of real mathematics? (2021)](https://www.reddit.com/r/math/comments/n4idcv/which_was_the_first_book_that_gave_you_the_taste/)

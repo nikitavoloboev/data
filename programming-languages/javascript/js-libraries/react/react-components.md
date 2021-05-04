@@ -179,6 +179,7 @@
 - [React ECS](https://github.com/dustinlacewell/react-ecs) - Declarative Entity Component System for React.
 - [Replay](https://github.com/vimond/replay) - React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [candycode/elements](https://github.com/cndycd/elements) - Basic ingredients for baking custom React components spiced with spring physics.
+- [Mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience. ([Web](https://mantine.dev/))
 
 ## Links
 

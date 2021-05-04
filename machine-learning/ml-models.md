@@ -25,3 +25,4 @@
 - [Running ML models in a game (and in Wasm!) (2020)](https://vleue.com/2020/12/bevmnist/)
 - [Deep learning model compression (2021)](https://rachitsingh.com/deep-learning-model-compression/)
 - [ModelDB](https://github.com/VertaAI/modeldb) - Open Source ML Model Versioning, Metadata, and Experiment Management.
+- [Gradio](https://www.gradio.app/) - Generate an easy-to-use UI for your ML model, function, or API with only a few lines of code. ([Code](https://github.com/gradio-app/gradio))

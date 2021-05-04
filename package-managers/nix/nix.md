@@ -182,3 +182,5 @@
 - [Chimera](https://github.com/craftweg/chimera) - Nix-based package manager with the focus on developer experience.
 - [Data Science with Nix: Parameter Sweeps (2021)](https://blog.nixbuild.net/posts/2021-04-26-data-science-with-nix-parameter-sweeps.html)
 - [Nixpkgs rules for Bazel](https://github.com/tweag/rules_nixpkgs) - Rules for importing Nixpkgs packages into Bazel.
+- [Practical Nix Flakes (2021)](https://serokell.io/blog/practical-nix-flakes)
+- [npmlock2nix](https://github.com/tweag/npmlock2nix) - Utilizing npm lockfiles to create Nix expressions for NPM based projects.

@@ -17,6 +17,7 @@
 - [PlutoVG](https://github.com/sammycage/plutovg) - Standalone 2D vector graphics library in C.
 - [VUI](https://github.com/heroseh/vui) - Immediate UI library for C, designed to be easy to use & customizable.
 - [microui](https://github.com/rxi/microui) - Tiny immediate-mode UI library.
+- [SDL_gpu](https://github.com/grimfang4/sdl-gpu) - Library for high-performance, modern 2D graphics with SDL written in C.
 
 ## Graphics
 

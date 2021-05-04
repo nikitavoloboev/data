@@ -106,3 +106,4 @@
 - [Stargz Snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast docker image distribution plugin for containerd, based on CRFS/stargz.
 - [Quark Container](https://github.com/QuarkContainer/Quark) - Secure container runtime with OCI interface.
 - [Inclavare Containers](https://github.com/alibaba/inclavare-containers) - Novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem. ([Web](https://inclavare-containers.io/en/))
+- [ContainerLab](https://github.com/srl-labs/containerlab) - Enables container-based networking labs. ([Docs](https://containerlab.srlinux.dev/))

@@ -237,4 +237,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Intrinsic Typography is the Future of Styling Text on the Web (2021)](https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/)
 - [What I learned from studying fonts of top 1000 sites (2021)](https://dribbble.com/stories/2021/04/26/web-design-data-fonts)
 - [Swash](https://github.com/dfrg/swash) - Font introspection, complex text shaping and glyph rendering.
+- [Demo for the swash crate](https://github.com/dfrg/swash_demo)
 - [Components AI - Typefaces](https://github.com/components-ai/typefaces) - Collection of Google Fonts typeface packages for three.js/react-three-fiber.
