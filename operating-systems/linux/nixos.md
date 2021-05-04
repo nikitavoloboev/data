@@ -127,3 +127,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nixos-up](https://github.com/samuela/nixos-up) - Fastest NixOS install there is.
 - [Declarative Docker Container Service in NixOS (2020)](https://www.breakds.org/post/declarative-docker-in-nixos/)
 - [Using Morph for Deploying to NixOS (2021)](https://christine.website/blog/morph-setup-2021-04-25)
+- [Show me what you run (2021)](https://blog.superbaloo.net/posts/show-me-what-you-run/)
