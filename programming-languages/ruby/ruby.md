@@ -67,3 +67,4 @@
 - [frum](https://github.com/TaKO8Ki/frum) - Fast and modern Ruby version manager written in Rust.
 - [JRuby](https://github.com/jruby/jruby) - Implementation of Ruby on the JVM. ([Web](https://www.jruby.org/))
 - [Cloudtasker](https://github.com/keypup-io/cloudtasker) - Background jobs for Ruby using Google Cloud Tasks.
+- [Introducing dry-files (2021)](https://dry-rb.org/news/2021/05/04/introducing-dry-files/)

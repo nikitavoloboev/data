@@ -262,7 +262,7 @@
 - [How to select elements that are not children of other elements in CSS (2021)](https://www.stefanjudis.com/snippets/how-to-select-elements-that-are-not-children-of-other-elements-in-css/)
 - [Things You Can Do With CSS Today (2021)](https://www.smashingmagazine.com/2021/02/things-you-can-do-with-css-today/)
 - [Meanderer](https://github.com/jh3y/meanderer) - Micro-library for scaling CSS motion path strings.
-- [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components.
+- [SmolCSS](https://smolcss.dev/) - Minimal snippets for modern CSS layouts and components. ([Code](https://github.com/5t3ph/smolcss))
 - [Fluid typography with CSS clamp (2021)](https://piccalil.li/tutorial/fluid-typography-with-css-clamp)
 - [CSS Creatures](https://bennettfeely.com/csscreatures/) ([Code](https://github.com/bennettfeely/csscreatures))
 - [minireset.css](https://github.com/jgthms/minireset.css) - Tiny modern CSS reset. ([Web](https://jgthms.com/minireset.css/))
