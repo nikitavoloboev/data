@@ -254,3 +254,5 @@
 - [IntegreSQL](https://github.com/allaboutapps/integresql) - Manages isolated PostgreSQL databases for your integration tests.
 - [EventStore](https://github.com/commanded/eventstore) - Event store using PostgreSQL for persistence.
 - [Stripe Sync Engine](https://github.com/supabase/stripe-sync-engine) - Continuously synchronizes a Stripe account to a Postgres database.
+- [PGXN: PostgreSQL Extension Network](https://pgxn.org/)
+- [PGXN Client](https://github.com/pgxn/pgxnclient) - Command line client for the PostgreSQL Extension Network.
