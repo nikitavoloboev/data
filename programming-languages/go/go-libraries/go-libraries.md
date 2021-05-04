@@ -796,6 +796,8 @@
 - [Reactr](https://github.com/suborbital/reactr) - Fast, performant function scheduling system for Go & WebAssembly.
 - [Grav](https://github.com/suborbital/grav) - Embedded distributed messaging mesh for Go applications.
 - [vellum](https://github.com/blevesearch/vellum) - Go library implementing an FST (finite state transducer).
+- [GCI](https://github.com/daixiang0/gci) - Tool that control Go package import order and make it always deterministic.
+- [imgutil](https://github.com/buildpacks/imgutil) - Helpful utilities for working with images.
 
 ## Links
 

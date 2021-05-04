@@ -458,3 +458,4 @@
 - [Mathematical Foundations of Machine Learning (2020)](https://www.dropbox.com/s/mffzmuo9fvs5j6m/Study_Guide.pdf)
 - [How to Write Design Docs for Machine Learning Systems](https://eugeneyan.com/writing/ml-design-docs/) ([Code](https://github.com/eugeneyan/ml-design-docs))
 - [Reproducible Deep Learning (2021)](https://www.sscardapane.it/teaching/reproducibledl/) - PhD Course in Data Science. ([Code](https://github.com/sscardapane/reprodl2021))
+- [Unsupervised Contrastive Learning of Sound Event Representations (2020)](https://arxiv.org/abs/2011.07616) ([Code](https://github.com/edufonseca/uclser20/blob/main/README.md))

@@ -378,3 +378,4 @@
 - [Native Kubernetes Continuous Delivery (2021)](https://www.reddit.com/r/kubernetes/comments/n2jy7f/native_kubernetes_continuous_delivery/)
 - [Rio](https://rio.io/) - Application Deployment Engine for Kubernetes. ([Code](https://github.com/rancher/rio))
 - [kim](https://github.com/rancher/kim) - Kubernetes Image Manager.
+- [node-disk-manager](https://github.com/openebs/node-disk-manager) - Kubernetes Storage Device Management.

@@ -51,6 +51,7 @@
 - [Skruv](https://skruv.io/) - No-dependency, no-build, small JS framework. ([Code](https://github.com/skruv/skruv)) ([HN](https://news.ycombinator.com/item?id=26722051))
 - [jQuery](https://github.com/jquery/jquery) - Fast, small, and feature-rich JavaScript library. ([Web](https://jquery.com/))
 - [neo.mjs](https://github.com/neomjs/neo) - Create blazing fast multithreaded Web Apps.
+- [presta](https://github.com/sure-thing/presta) - Hyper minimal framework for the modern web. ([Web](https://presta.run/))
 
 ## Animation
 

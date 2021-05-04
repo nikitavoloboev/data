@@ -817,6 +817,8 @@
 - [gumdrop](https://github.com/murarth/gumdrop) - Rust option parser with custom derive support.
 - [memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
 - [Scalable Concurrent Containers](https://github.com/wvwwvwwv/scalable-concurrent-containers) - Scalable concurrent data structures for database management systems.
+- [lexical](https://github.com/Alexhuszagh/rust-lexical) - Fast lexical conversion routines for both std and no_std environments.
+- [Drop-Merge-Sort](https://github.com/emilk/drop-merge-sort) - Adaptive sorting algorithm.
 
 ## Cargo Plugins
 
@@ -876,3 +878,4 @@
 - [crates.io database dum](https://github.com/dtolnay/db-dump) - Library for scripting analyses against crates.io's database dumps.
 - [Crater](https://github.com/rust-lang/crater) - Tool to run experiments across parts of the Rust ecosystem.
 - [Alexandrie](https://github.com/Hirevo/alexandrie) - Modular alternative crate registry for Rust suitable for use with Cargo.
+- [Cargo Release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
