@@ -150,3 +150,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - Send e-mails with Node.JS. ([Docs](https://nodemailer.com/about/))
 - [Inbucket](http://disposable.dhc-app.com/) - Self-hosted disposable mail service. ([Code](https://github.com/denghongcai/forsaken-mail))
 - [How to write cold emails to investors (2021)](https://www.flowrite.com/blog/cold-email-to-investors) ([HN](https://news.ycombinator.com/item?id=26982029))
+- [Swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir.

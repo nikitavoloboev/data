@@ -815,6 +815,7 @@
 - [profiling](https://github.com/aclysma/profiling) - Provides a very thin abstraction over instrumented profiling crates like puffin, optick, tracy, and superluminal-perf.
 - [ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust.
 - [gumdrop](https://github.com/murarth/gumdrop) - Rust option parser with custom derive support.
+- [memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
 
 ## Cargo Plugins
 

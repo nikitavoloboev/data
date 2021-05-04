@@ -113,7 +113,7 @@ Go promotes composition over inheritance.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)
 - [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
-- [Ultimate Go study guide](https://github.com/ardanlabs/gotraining-studyguide) ([HN](https://news.ycombinator.com/item?id=20701671))
+- [Ultimate Go Study Guide](https://github.com/ardanlabs/gotraining-studyguide) ([HN](https://news.ycombinator.com/item?id=20701671))
 - [Redress](https://github.com/goretk/redress) - Tool for analyzing stripped binaries.
 - [Ask HN: Is there a project based book or course on Go for writing web APIs? (2019)](https://news.ycombinator.com/item?id=20704993)
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)

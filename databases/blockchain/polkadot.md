@@ -40,3 +40,4 @@
 - [What are the most promising projects building on Polkadot? (2021)](https://www.reddit.com/r/dot/comments/myz449/what_are_the_most_promising_projects_building_on/)
 - [Polkadot Telemetry](https://github.com/paritytech/substrate-telemetry)
 - [Polkadot Ethereum Bridge](https://github.com/Snowfork/polkadot-ethereum)
+- [Polkadot Validator Setup](https://github.com/w3f/polkadot-validator-setup)

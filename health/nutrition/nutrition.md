@@ -71,3 +71,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Soosee](https://jordibruin.github.io/food-scanner/) - Allergy & Food Scanner.
 - [FoodNoms](https://foodnoms.com/) - Food Tracker App for iPhone.
 - [Do you have a single food item that completely changed your life and led you to pursue nutrition? (2021)](https://www.reddit.com/r/nutrition/comments/n2di2o/do_you_have_a_single_food_item_that_completely/)
+- [Have you ever added a food to your diet that made you feel immediately healthier? (2021)](https://www.reddit.com/r/nutrition/comments/n4eky8/have_you_ever_added_a_food_to_your_diet_that_made/)

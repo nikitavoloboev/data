@@ -38,6 +38,7 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - Show genuine interest.
 - [You don't need permission to think or feel sexually about someone. It's how you treat them that matters. As far as flirting with people, you will make mistakes and you will make people uncomfortable from time to time, we all do. Just like with other kinds of interaction. If it happens, just apologize and carry on.](https://www.reddit.com/r/sex/comments/n36pky/how_do_i_25m_flirt_without_making_a_woman_feel/)
 - [How would you talk to a potential friend? Speak to this person the same way. Conversation flows or it doesn’t. Presenting with a list of questions quickly turns a date into an interview. Be yourself, allow silences if they occur and let your activities or what she says guide the conversation. Also don’t forget you’re also picking someone here which lowers the pressure of “I hope they like me.”](https://www.reddit.com/r/datingoverthirty/comments/n406f4/i_30m_am_going_on_my_first_inperson_date_in_over/)
+- [I absolutely stopped giving a good goddamn what people thought of me. Apathy apparently comes across as confidence. Being genuinely not interested in impressing anyone led to them trying to impress me.](https://www.reddit.com/r/datingoverthirty/comments/n4jslg/people_who_had_a_much_better_dating_life_after_30/)
 
 ## Links
 

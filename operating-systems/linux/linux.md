@@ -304,3 +304,4 @@
 - [Ask HN: What are the best maintained how-to sites for Linux? (2021)](https://news.ycombinator.com/item?id=26997498)
 - [Linux Hypervisor Setup (Libvirt/QEMU/KVM)](https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/) ([HN](https://news.ycombinator.com/item?id=27006354))
 - [BPF (Berkeley Packet Filter) Docs](https://www.kernel.org/doc/html/latest/bpf/index.html) - Technology used in certain computer operating systems for programs that need to, among other things, analyze network traffic.
+- [KVM Fuzz](https://github.com/klecko/kvm-fuzz) - Emulate and fuzz x86_64 binaries using KVM.

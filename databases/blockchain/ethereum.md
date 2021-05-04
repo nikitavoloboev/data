@@ -198,6 +198,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [The Complete Guide to Full Stack Ethereum Development (2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) ([Code](https://github.com/dabit3/full-stack-ethereum)) ([Video](https://www.youtube.com/watch?v=a0osIaAOFSE))
 - [zkPorter: a breakthrough in L2 scaling (2021)](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf) ([Tweet](https://twitter.com/zksync/status/1381955843428605958))
 - [Uniswap V3 Code](https://github.com/Uniswap/uniswap-v3-core) - Core smart contracts of Uniswap v3.
+- [Uniswap V3 Periphery](https://github.com/Uniswap/uniswap-v3-periphery) - Peripheral smart contracts for interacting with Uniswap v3.
 - [Ethereum: A Store of Value with Cash Flow (2021)](https://ethereumcashflow.com/) ([HN](https://news.ycombinator.com/item?id=26885803))
 - [DAM - Decentralized Asset Management (2021)](https://medium.com/dam-finance/introducing-dam-42bfbabcb4f0)
 - [Ethereum.org Code](https://github.com/ethereum/ethereum-org-website)
@@ -213,3 +214,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [The Ethereum Bull Case with Su Zhu, Hasu, and special guest Cobie (2021)](https://www.youtube.com/watch?v=ho39imoAAuY)
 - [Ethereum Rescue With Dan Robinson (2021)](https://corecursive.com/064-ethereum-rescue-with-dan-robinson/)
 - [ETHGlobal.tv](https://ethglobal.tv/) - Scaling Ethereum.
+- [Lodestar](https://github.com/ChainSafe/lodestar) - TypeScript Implementation of the Beacon Chain. ([Web](https://lodestar.chainsafe.io/))
