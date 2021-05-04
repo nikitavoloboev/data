@@ -11,3 +11,4 @@
 - [p5i](https://github.com/antfu/p5i) - p5.js, but with more friendly instance mode APIs.
 - [q5.js](https://github.com/LingDong-/q5xjs) - Small and fast alternative (experimental) implementation of p5.js.
 - [p5.SVG](https://github.com/zenozeng/p5.js-svg) - SVG runtime for p5.js.
+- [p5.collide2D](https://github.com/bmoren/p5.collide2D) - Collision detection library for 2D geometry in p5.js.
