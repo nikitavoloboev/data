@@ -150,6 +150,7 @@
 - [Advanced TypeScript Fundamentals (2021)](https://egghead.io/courses/advanced-typescript-fundamentals-579c174f)
 - [Writing better TypeScript (2021)](https://stefan-bauer.online/writing-better-type-script/) ([Reddit](https://www.reddit.com/r/typescript/comments/n08p0s/writing_better_typescript/))
 - [Advanced Typescript Types (2021)](https://engineering.tableau.com/really-advanced-typescript-types-c590eee59a12)
+- [TypeScript Needs to Emit Runtime Type Information](https://www.typescriptneedstypes.com/) ([Code](https://github.com/akutruff/typescript-needs-types))
 
 ## Images
 

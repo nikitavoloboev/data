@@ -47,6 +47,7 @@ It includes:
 - [Masters in Business](https://overcast.fm/itunes730188152/masters-in-business) - Looks at the people and ideas that shape markets, investing and business.
 - [The Next Big Idea](https://overcast.fm/itunes1482067226/the-next-big-idea) - Each episode dives deep into one big idea through immersive storytelling, narration and curator interviews with the most interesting authors at work today.
 - [The Portal](https://overcast.fm/itunes1469999563/the-portal) - This podcast does something different. Hosted by Eric Weinstein.
+- [Absolutely Mental](https://absolutelymental.com/) - Podcast series from Ricky Gervais and Sam Harris.
 - [Practical AI](https://overcast.fm/itunes1406537385/practical-ai) - Making artificial intelligence practical, productive, and accessible to everyone.
 - [Quanta Science Podcast](https://overcast.fm/itunes1021340531/quanta-science-podcast) - In-depth news about mathematics, physics, biology and computer science.
 - [Rationally Speaking](https://overcast.fm/itunes351953012/rationally-speaking) - Exploring the borderlands between reason and nonsense.

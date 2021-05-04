@@ -820,6 +820,7 @@
 - [lexical](https://github.com/Alexhuszagh/rust-lexical) - Fast lexical conversion routines for both std and no_std environments.
 - [Drop-Merge-Sort](https://github.com/emilk/drop-merge-sort) - Adaptive sorting algorithm.
 - [Sauce](https://github.com/DanCardin/sauce) - Context specific everything.
+- [tokio-console](https://github.com/tokio-rs/console) - Diagnostics and debugging tool for asynchronous Rust programs.
 
 ## Cargo Plugins
 

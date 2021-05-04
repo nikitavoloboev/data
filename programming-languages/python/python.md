@@ -285,3 +285,4 @@
 - [Roadmap for mastering Python (2021)](https://twitter.com/PrasoonPratham/status/1383279052430008323)
 - [Awesome Flake8 Extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
 - [The hidden performance overhead of Python C extensions (2021)](https://pythonspeed.com/articles/python-extension-performance/) ([Lobsters](https://lobste.rs/s/6rxxhh/hidden_performance_overhead_python_c))
+- [Cinder](https://github.com/facebookincubator/cinder) - Instagram's performance oriented fork of CPython. ([HN](https://news.ycombinator.com/item?id=27043217))

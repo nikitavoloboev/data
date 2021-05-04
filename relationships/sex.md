@@ -50,3 +50,4 @@
 - [What makes sex with a guy go from good to mind blowing? (2021)](https://www.reddit.com/r/sex/comments/n4e6pp/what_makes_sex_with_a_guy_go_from_good_to/)
 - [On Incels, Dead Bedrooms and the Hard Problems of Loneliness (2021)](https://residentcontrarian.substack.com/p/on-incels-dead-bedrooms-and-the-hard) ([HN](https://news.ycombinator.com/item?id=27039498))
 - [Movies with lots of sexual energy? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/n4fm4i/movies_with_lots_of_sexual_energy/)
+- [The macho sperm myth](https://aeon.co/amp/essays/the-idea-that-sperm-race-to-the-egg-is-just-another-macho-myth) - Idea that millions of sperm are on an Olympian race to reach the egg is yet another male fantasy of human reproduction.
