@@ -816,6 +816,7 @@
 - [ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust.
 - [gumdrop](https://github.com/murarth/gumdrop) - Rust option parser with custom derive support.
 - [memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
+- [Scalable Concurrent Containers](https://github.com/wvwwvwwv/scalable-concurrent-containers) - Scalable concurrent data structures for database management systems.
 
 ## Cargo Plugins
 

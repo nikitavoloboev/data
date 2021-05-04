@@ -67,6 +67,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Bon Iver](https://soundcloud.com/boniver)
 - [Ludovico Einaudi](https://soundcloud.com/ludovicoeinaudi)
 - [J Dilla](https://soundcloud.com/jdilla)
+- [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O?si=RxoMJ1waT6OBmZsSuN3h5g) - [Dead Knot](https://open.spotify.com/track/3jBimHN9fDN99JeJJxd48F)
 - [18 Carat Affair](https://soundcloud.com/18carataffair)
 - [Patrick O’Hearn](http://www.patrickohearn.com/music/)
 - [Glass Animals](https://soundcloud.com/glassanimals) - [The Other Side of Paradise](https://www.youtube.com/watch?v=1R0AUyvNc4Y)
