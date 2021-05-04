@@ -49,3 +49,4 @@
 - [Trisma](https://github.com/alii/trisma) - Experimental way of creating a Prisma DMMF with TypeScript Decorators.
 - [Prisma Admin](https://github.com/paljs/prisma-admin) - Full-stack Prisma, GraphQL, Nexus, Apollo, and NextJS with Admin UI to control your Prisma DB.
 - [Pal.js](https://paljs.com/) - Start your NodeJs, Prisma, GraphQL, React project. ([GitHub](https://github.com/paljs))
+- [How to Spot Bottlenecks in DB Performance](https://www.prisma.io/dataguide/managing-databases/how-to-spot-bottlenecks-in-performance)

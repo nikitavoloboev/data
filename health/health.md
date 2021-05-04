@@ -8,7 +8,7 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 - [Exercise](../fitness/fitness.md) - Start every morning with some exercise. Go on walks or do exercise throughout the day when possible.
 - Dental care - Brush my teeth daily with occasional flossing.
 - [Skin care](skin-care.md) - Clean & moisturize my skin every morning/evening. Apply occasional deep pore cleansing face masks. Apply sunscreen when going out for long time.
-- [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouching my back and sit for long times. Take breaks. Use good chair & desk.
+- [Ergonomics](ergonomics.md) - Sit properly or stand, keeping good posture throughout the day. Never slouch my back and sit for long times. Take breaks. Use good chair & desk.
 
 These health focuses are part of my [life rules](../focusing/rules.md).
 
