@@ -387,6 +387,7 @@ Here are few more things I liked, design wise.
 - [Ema Suriano](https://emasuriano.com/)
 - [Adrien Griveau](https://adriengriveau.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
+- [Aidan Gomez](https://gom.ai/)
 - [Owen Kelly](https://www.owenkelly.com.au/)
 - [Kitty Giraudel](https://kittygiraudel.com/)
 - [Marcelo Cardoso](https://marcelovicentegc.github.io/)

@@ -7,6 +7,7 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 ## Notes
 
 - [Today in music theory, I learned that chords can use different octaves. It's painfully obvious when you think about it, but for some reason it never occurred to me.](https://merveilles.town/web/statuses/105834224452459065)
+- [If you buy an album from Bandcamp, it's around the financial equivalent to the artist of you streaming their music every day for 3 years.](https://twitter.com/posthuman/status/1389480550432448513)
 
 ## Links
 

@@ -64,3 +64,4 @@
 - [A Product Engineer’s Guide to Platform Engineers (2019)](https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1) ([HN](https://news.ycombinator.com/item?id=26935504))
 - [Product vs. Project Teams (2021)](https://svpg.com/product-vs-project-teams/) ([Tweet](https://twitter.com/cagan/status/1387119286989197314))
 - [Competitive Analysis For Product Engineers (2021)](https://staysaasy.com/product/2021/05/02/competition.html)
+- [14 habits of highly effective Product Managers (2021)](https://twitter.com/lennysan/status/1389611792741986305)

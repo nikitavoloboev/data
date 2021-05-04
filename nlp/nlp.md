@@ -287,3 +287,4 @@
 - [TextAttack](https://github.com/QData/TextAttack) - Generating adversarial examples for NLP models.
 - [GPT-NeoX](https://github.com/EleutherAI/gpt-neox) - Implementation of model parallel GPT-3-like models on GPUs, based on the DeepSpeed library.
 - [Transfer Learning in Natural Language Processing (2019)](https://naacl2019.org/program/tutorials/) ([Code](https://github.com/huggingface/naacl_transfer_learning_tutorial))
+- [Cohere](https://cohere.ai/) - Help computers understand language. ([Tweet](https://twitter.com/AidanNGomez/status/1389574000796479489))

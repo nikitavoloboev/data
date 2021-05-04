@@ -231,3 +231,4 @@
 - [Best way to internationalize React site (2021)](https://twitter.com/feross/status/1387528321026510850)
 - [State Machines: Should this be a state, or in context? (2021)](https://dev.to/mpocock1/state-machines-should-this-be-a-state-or-in-context-1d7e) ([Tweet](https://twitter.com/mpocock1/status/1387677156558389252?s=28))
 - [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - Render JSX and Preact components to an HTML string.
+- [API Design for a React Tree Table (2021)](https://www.robinwieruch.de/react-tree-list)
