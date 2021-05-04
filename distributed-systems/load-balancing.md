@@ -29,3 +29,4 @@
 - [Deterministic Aperture: A distributed, load balancing algorithm (2019)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html) ([HN](https://news.ycombinator.com/item?id=25596645))
 - [dhcplb](https://github.com/facebookincubator/dhcplb) - Facebook's implementation of a load balancer for DHCP.
 - [sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer.
+- [Load Balancing and Auto Scaling with Open Source HAProxy (2021)](https://blog.stefan-koch.name/2021/05/02/load-balancing-auto-scaling-open-source-haproxy)

@@ -819,6 +819,7 @@
 - [Scalable Concurrent Containers](https://github.com/wvwwvwwv/scalable-concurrent-containers) - Scalable concurrent data structures for database management systems.
 - [lexical](https://github.com/Alexhuszagh/rust-lexical) - Fast lexical conversion routines for both std and no_std environments.
 - [Drop-Merge-Sort](https://github.com/emilk/drop-merge-sort) - Adaptive sorting algorithm.
+- [Sauce](https://github.com/DanCardin/sauce) - Context specific everything.
 
 ## Cargo Plugins
 

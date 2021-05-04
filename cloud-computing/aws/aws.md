@@ -165,3 +165,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [[MAMIP] Monitor AWS Managed IAM Policies](https://github.com/z0ph/MAMIP)
 - [AWS X-Ray SDK for Python](https://github.com/aws/aws-xray-sdk-python)
 - [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups.
+- [Run an Action on all VMs in an AWS Auto Scaling Group (2021)](https://blog.stefan-koch.name/2021/04/14/clusterssh-aws-auto-scaling-group)
