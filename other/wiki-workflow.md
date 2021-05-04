@@ -342,3 +342,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Notea](https://cinwell.com/notea/) - Self-hosted note-taking app stored on S3. ([Code](https://github.com/QingWei-Li/notea))
 - [Codex OS](https://twitter.com/codexeditor) - Creating the knowledge worker's OS.
 - [Merlot](https://github.com/thesephist/merlot) - Web based Markdown writing app built with isomorphic Ink and Torus.
+- [Hypernotes](https://hypernotes.zenkit.com/) - Platform for collaboration and project management.

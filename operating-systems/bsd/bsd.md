@@ -59,3 +59,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD 13.0 – Full Desktop Experience (2021)](https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/) ([HN](https://news.ycombinator.com/item?id=26491974))
 - [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call (2021)](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/) ([HN](https://news.ycombinator.com/item?id=26590495))
 - [OpenBSD Code](https://github.com/openbsd/src)
+- [As a longtime BSD user, I have my doubts about our future. (2021)](https://www.reddit.com/r/BSD/comments/n1m4he/as_a_longtime_bsd_user_i_have_my_doubts_about_our/)

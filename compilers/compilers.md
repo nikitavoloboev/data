@@ -158,3 +158,4 @@
 - [Amsterdam Compiler Kit](https://github.com/davidgiven/ack) ([Web](http://tack.sourceforge.net/))
 - [Awesome Decompilation](https://github.com/nforest/awesome-decompilation)
 - [Tiny compiler for a simple synthetic language featuring LL(2) grammar, written in pure C](https://github.com/zakirullin/tiny-compiler)
+- [The compiler will optimize that away (2021)](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) ([HN](https://news.ycombinator.com/item?id=27010965))
