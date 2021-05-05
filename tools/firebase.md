@@ -23,3 +23,4 @@
 - [fuego](https://github.com/sgarciac/fuego) - Command-line firestore client.
 - [Foundry](https://github.com/FoundryApp/foundry-cli) - Fastest way to build Firebase CloudFunctions.
 - [Firebase storage lite](https://github.com/samuelgozi/firebase-storage-lite) - Lightweight and performant alternative to Firebase storage. JS library for modern browsers.
+- [Firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals.

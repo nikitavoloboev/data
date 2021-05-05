@@ -70,3 +70,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Phones and apps reduce your ability to focus even when they don’t distract you (2021)](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you) ([HN](https://news.ycombinator.com/item?id=26582729))
 - [Why I'm unreachable and maybe you should be too](https://levels.io/contact-me/)
 - [Ask HN: Solo developer, what's your recipe to start working? (2021)](https://news.ycombinator.com/item?id=26747318)
+- [Efficiency Is the Enemy (2021)](https://fs.blog/2021/05/slack/) ([HN](https://news.ycombinator.com/item?id=27036695))

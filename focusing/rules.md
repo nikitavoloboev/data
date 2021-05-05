@@ -19,17 +19,18 @@
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love. Self love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Create & update rules based on new life experiences. Adapt each rule to suit my life best.
-- [Take it easy](../life/happiness.md). Be playful. You only live now. Make new nice memories.
+- Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits.
+- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. You only live now.
+- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md).
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 50+ min cardio/weights daily.
+- [Exercise](../fitness/fitness.md). Start every morning with a workout & shower. 40+ min cardio/weights daily.
 - Eat [whole food plant based nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & [tea](../health/nutrition/drinks/tea.md). Limit [coffee](../health/nutrition/drinks/coffee.md). No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Go on walks or do exercise throughout the day when possible as breaks.
-- Brush/floss teeth & [clean face](../health/skin-care.md) daily.
+- Brush/floss teeth & [clean face](../health/skin-care.md) daily. Smell nice.
 - Apply sunscreen when going out for long time. Don't frown. Don't touch face or mouth with dirty hands.
 - Accept and love my body and self. I am perfect as I am. Don't care what other people might think of me.
 - Never sit for long. Sit up right (good posture, never slouch). Use great chair. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing. Take breaks.
@@ -39,7 +40,7 @@
 
 ## Focus
 
-- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
+- [Break problems down](../research/solving-problems.md) using first principle thinking. Solve each step one at a time. Know the end goal. Don't over optimize.
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
@@ -52,7 +53,6 @@
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Notion [Learn page](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
-- Focus on current problems. Use learnings from the past. Don't dwell on what has happened or what I can't change.
 
 ## Ideas
 
