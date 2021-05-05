@@ -48,3 +48,4 @@
 - [An Onion's Genome Has Five Times More DNA Than Humans (2019)](https://geneticsunzipped.com/news/2019/1/31/the-onion-test) ([HN](https://news.ycombinator.com/item?id=25975457))
 - [Sequencing your DNA with a USB dongle and open source code (2021)](https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) ([HN](https://news.ycombinator.com/item?id=26014421))
 - [DNA Repair Mechanisms (2020)](https://www.youtube.com/watch?v=oRfK85gPAVA)
+- [Could DNA have a form of primitive "password protection"? (2021)](https://www.reddit.com/r/askscience/comments/n542n1/could_dna_have_a_form_of_primitive_password/)

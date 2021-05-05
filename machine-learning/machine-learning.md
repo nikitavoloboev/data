@@ -459,3 +459,4 @@
 - [How to Write Design Docs for Machine Learning Systems](https://eugeneyan.com/writing/ml-design-docs/) ([Code](https://github.com/eugeneyan/ml-design-docs))
 - [Reproducible Deep Learning (2021)](https://www.sscardapane.it/teaching/reproducibledl/) - PhD Course in Data Science. ([Code](https://github.com/sscardapane/reprodl2021))
 - [Unsupervised Contrastive Learning of Sound Event Representations (2020)](https://arxiv.org/abs/2011.07616) ([Code](https://github.com/edufonseca/uclser20/blob/main/README.md))
+- [Differentially Private Learning Needs Better Features (or Much More Data) (2021)](https://arxiv.org/abs/2011.11660)
