@@ -55,3 +55,4 @@
 - [The Art of the Desk Setup (2021)](https://www.arun.is/blog/desk-setup/)
 - [Ask HN: How have you cured your RSI? (2021)](https://news.ycombinator.com/item?id=26651156)
 - [Upright Helper](https://aaryanporwal.github.io/uprighthelper/) - Uses web cam to help you keep right posture. ([Code](https://github.com/aaryanporwal/uprighthelper))
+- [Rating or Roasting Your Workspace Setups (2021)](https://www.youtube.com/watch?v=dUO46Cj6ZAQ) ([Tweet](https://twitter.com/UltraLinx/status/1389872897477517312))

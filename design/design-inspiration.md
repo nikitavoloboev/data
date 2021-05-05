@@ -337,6 +337,7 @@ Here are few more things I liked, design wise.
 - [Anna Niess](https://annaniess.biz/)
 - [Andrew Ingram](https://andrewingram.net/)
 - [Caolan McMahon](https://caolan.uk/)
+- [George Francis](https://georgefrancis.dev/)
 - [Sibylle Sehl](https://sibylle.dev/)
 - [Tyler Galpin](https://www.galp.in/) ([Tweet](https://twitter.com/TylerGalpin/status/1384511348512485382))
 - [Hector Simpson](https://hector.me/)

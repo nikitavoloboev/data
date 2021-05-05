@@ -17,3 +17,4 @@
 - [Toward ethical, transparent and fair AI/ML](https://github.com/rockita/criticalML) - Critical reading list for engineers, designers, and policy makers.
 - [How Ethics could be integrated in CS education (2021)](https://twitter.com/nprandchill/status/1374774492111720449)
 - [Stanford Ethical and Social Issues in Natural Language Processing Seminar](https://web.stanford.edu/class/cs384/)
+- [NeurIPS Ethics Guidelines](https://neurips.cc/public/EthicsGuidelines)

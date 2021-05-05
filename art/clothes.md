@@ -39,3 +39,4 @@
 - [NA-KD](https://www.na-kd.com/en) - Women's Clothes & Fashion.
 - [Quince](https://www.onequince.com/)
 - [Elizabeth & Clarke](https://shop.elizabethandclarke.com/) - Clothes that work at the office or home office.
+- [Nice dresses thread](https://twitter.com/pivoismylife/status/1389665040442273798)

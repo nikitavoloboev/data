@@ -6,6 +6,7 @@
 - [Random NSFW Subreddit](https://www.reddit.com/r/randnsfw/)
 - [Top of NSFW](https://www.reddit.com/user/topnsfwmulti/m/topnsfw/)
 - [chickflixxx](https://www.reddit.com/r/chickflixxx/) - Place for women to confer about and share porn/erotica.
+- [GW Couples](https://www.reddit.com/r/GWCouples/)
 - [Polaroid Nudes](https://www.reddit.com/r/PolaroidNudes/)
 
 ## Links

@@ -142,3 +142,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Rust in Blockchain](https://rustinblockchain.org/) ([Twitter](https://twitter.com/rust_blockchain))
 - [Loom Network](https://loomx.io/) - Production-Ready, Multichain Interop Platform for Serious Dapp Developers. ([GitHub](https://github.com/loomnetwork)) ([Code](https://github.com/loomnetwork/loomchain))
 - [Chainlink](https://chain.link/) - Blockchain Oracles for Connected Smart Contracts.
+- [What actually happens in cryptocurrency space (2021)](https://twitter.com/jonsyu/status/1389635626698297344)

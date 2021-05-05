@@ -31,6 +31,7 @@ Success comes from not giving up and doing what you love.
 - [I'm not impressed if you're a good engineer. I'm impressed if you're a good teammate.](https://twitter.com/RandallKanna/status/1387202807103574016)
 - [Luck is when opportunity meets preparation. If the moment comes, and you're ready, it will happen.](https://www.reddit.com/r/datingoverthirty/comments/n2lwsh/how_much_of_dating_is_well_just_luck/)
 - [Don’t feel guilty about your privilege. Use it to lift others up.](https://twitter.com/marcusjcarey/status/1388631703544025095)
+- [There's a lot of power in regularly picking at the same problems for several decades. 3 traps: to get discouraged & give up, to lose the initial passion & check out, and to wrongly believe you've figured it out -- substituting a real solution with the idea of having found one.](https://twitter.com/fchollet/status/1390003550374162447)
 
 ## Links
 

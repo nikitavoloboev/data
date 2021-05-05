@@ -199,3 +199,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The end of history for programming (2021)](https://www.haskellforall.com/2021/04/the-end-of-history-for-programming.html)
 - [Langs In Rust](https://github.com/alilleybrinker/langs-in-rust) - List of programming languages implemented in Rust, for inspiration.
 - [Demystifying interpreters (2020)](https://rena.to/blog/demystifying-interpreters)
+- [PLDI 2021](https://pldi21.sigplan.org/)

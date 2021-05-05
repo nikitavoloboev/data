@@ -253,7 +253,7 @@
 - [notevil](https://github.com/mmckegg/notevil) - Evalulate javascript like the built-in javascript eval() method but safely.
 - [react-digraph](https://github.com/uber/react-digraph) - Library for creating directed graph editors.
 - [bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await.
-- [CLUI](https://github.com/replit/clui) - Collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
+- [CLUI](https://github.com/replit/clui) - Collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete. ([Article](https://blog.replit.com/clui)) ([HN](https://news.ycombinator.com/item?id=27052505))
 - [cosha](https://github.com/robinloeffel/cosha) - Colorful shadows for your images.
 - [Rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda.
 - [MathJax](https://github.com/mathjax/MathJax) - Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers. ([Web](https://www.mathjax.org/)) ([HN](https://news.ycombinator.com/item?id=24741077))
