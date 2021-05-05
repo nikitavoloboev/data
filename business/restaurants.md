@@ -21,3 +21,4 @@
 - [TastyIgniter](https://tastyigniter.com/) - Restaurant Online Ordering System. ([Code](https://github.com/tastyigniter/TastyIgniter))
 - [Mezli](https://www.mezli.com/) - Robotic restaurants that serve healthy fast food. ([HN](https://news.ycombinator.com/item?id=26468204))
 - [Michelin Guide](https://guide.michelin.com/en) - Find Michelin-rated Restaurants worldwide.
+- [Free Food](https://freefood.is/) - Radically fair way to order from local restaurants. ([Code](https://github.com/noahlevenson/libfood)) ([Lobsters](https://lobste.rs/s/vhxlg5/decentralized_location_aware_p2p))
