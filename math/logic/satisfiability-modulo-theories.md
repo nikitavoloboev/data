@@ -31,3 +31,4 @@
 - [Kind 2](https://github.com/kind2-mc/kind2) - Multi-engine, parallel, SMT-based automatic model checker for safety properties of Lustre programs. ([Web](https://kind2-mc.github.io/kind2/))
 - [Sat/SMT by Example (2021)](https://sat-smt.codes/SAT_SMT_by_example.pdf)
 - [Programming in Z3 by learning to think like a compiler](https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5) ([HN](https://news.ycombinator.com/item?id=27025289))
+- [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)

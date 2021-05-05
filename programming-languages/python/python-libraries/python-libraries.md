@@ -395,6 +395,7 @@
 - [rtoml](https://github.com/samuelcolvin/rtoml) - Better TOML library for python implemented in rust.
 - [cache_decorator](https://github.com/zommiommy/cache_decorator) - Simple decorator to cache the results of computationally heavy functions.
 - [Event Sourcing in Python](https://github.com/johnbywater/eventsourcing)
+- [Optimesh](https://github.com/nschloe/optimesh) - Several mesh smoothing/optimization methods with one simple interface.
 
 ## Links
 

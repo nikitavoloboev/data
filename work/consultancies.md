@@ -90,7 +90,7 @@
 
 ## NixOS
 
-- [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016.
+- [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016. ([GitHub](https://github.com/numtide))
 
 ## Elm
 

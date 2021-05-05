@@ -185,3 +185,4 @@
 - [Practical Nix Flakes (2021)](https://serokell.io/blog/practical-nix-flakes)
 - [npmlock2nix](https://github.com/tweag/npmlock2nix) - Utilizing npm lockfiles to create Nix expressions for NPM based projects.
 - [Laurn](https://github.com/baloo/laurn) - Run a dev-environment in a pure-ish nix environment.
+- [nix-filter](https://github.com/numtide/nix-filter) - Small self-container source filtering lib.
