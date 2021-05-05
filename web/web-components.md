@@ -36,4 +36,4 @@
 - [builtin-elements](https://github.com/WebReflection/builtin-elements) - Zero friction custom elements like primitive.
 - [Lit.dev](https://lit.dev/) - Simple. Fast. Web Components. ([Code](https://github.com/lit/lit.dev))
 - [Web Components Polyfills](https://github.com/webcomponents/polyfills)
-- [How we use Web Components at GitHub (2021)](https://github.blog/2021-05-04-how-we-use-web-components-at-github/)
+- [How we use Web Components at GitHub (2021)](https://github.blog/2021-05-04-how-we-use-web-components-at-github/) ([HN](https://news.ycombinator.com/item?id=27045450))
