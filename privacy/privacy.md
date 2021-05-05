@@ -85,3 +85,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Zero Data App](https://0data.app/) - Curated collection of five best-in-class libraries/frameworks that enable building SPA apps with user controlled data. ([HN](https://news.ycombinator.com/item?id=26365835))
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [Blacklight](https://themarkup.org/blacklight) - Real-Time Website Privacy Inspector.
+- [Data Leverage Roundup](https://github.com/nickmvincent/DataLeverageRoundup)

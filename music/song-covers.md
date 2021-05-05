@@ -17,3 +17,4 @@
 - [Иван Дорн - Целовать другого (bathroom cover by Базиль)](https://www.youtube.com/watch?v=YtKULMP1Bfs)
 - [Иван Дорн - Целовать другого (cover by etreamoi)](https://www.youtube.com/watch?v=ZQS6VNgTZBA)
 - [V&M - Beggin' (Madcon Acoustic Cover)](https://www.youtube.com/watch?v=H6xLQmU_2ro)
+- [the 1 - Taylor Swift Cover By Billie Flynn](https://www.youtube.com/watch?v=9Z9kpfzAKhA)
