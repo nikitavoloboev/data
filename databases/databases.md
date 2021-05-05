@@ -138,6 +138,7 @@
 - [LeanStore](https://github.com/leanstore/leanstore) - High-performance OLTP storage engine optimized for many-core CPUs and NVMe SSDs. ([Web](https://dbis1.github.io/leanstore.html))
 - [KVS](https://kvs.n2o.dev/) - Abstract Chain Database. ([Code](https://github.com/synrc/kvs))
 - [Yorkie](https://yorkie.dev/) - Document store for building collaborative editing applications. ([Code](https://github.com/yorkie-team/yorkie))
+- [InfluxDB IOx](https://github.com/influxdata/influxdb_iox) - Future core of InfluxDB, an open source time series database.
 
 ## Tools
 
