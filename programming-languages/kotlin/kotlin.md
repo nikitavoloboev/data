@@ -27,3 +27,4 @@
 - [The Kotlin Foundation](https://kotlinlang.org/docs/kotlin-foundation.html) ([HN](https://news.ycombinator.com/item?id=26124054))
 - [Atomic Kotlin Book (2020)](https://leanpub.com/AtomicKotlin)
 - [Kotlin Compiler Crash Course](https://github.com/ahinchman1/Kotlin-Compiler-Crash-Course) ([HN](https://news.ycombinator.com/item?id=26454040))
+- [Compose for Web UI Framework](https://compose-web.ui.pages.jetbrains.team/) ([HN](https://news.ycombinator.com/item?id=27043067))

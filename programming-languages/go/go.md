@@ -472,4 +472,4 @@ Go promotes composition over inheritance.
 - [uGo](https://github.com/ozanh/ugo) - Fast, dynamic scripting language to embed in Go applications.
 - [Best examples of a Go client (2021)](https://www.reddit.com/r/golang/comments/n2r2je/best_examples_of_a_go_client/)
 - [The Ultimate Guide to JSON in Go (2021)](https://qvault.io/golang/json-golang/)
-- [Branchless Coding in Go (2021)](https://mattnakama.com/blog/go-branchless-coding/)
+- [Branchless Coding in Go (2021)](https://mattnakama.com/blog/go-branchless-coding/) ([HN](https://news.ycombinator.com/item?id=27038606))
