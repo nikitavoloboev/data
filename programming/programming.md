@@ -386,3 +386,4 @@
 - [What are your favorite codebases to study? (2021)](https://lobste.rs/s/sp606q/what_are_your_favorite_codebases_study)
 - [Generalizing linear operators in differential dataflow (2021)](https://materialize.com/generalizing-linear-operators/)
 - [Software qualities: what they are and how can you improve them (2021)](https://afpr252.github.io/blog/software-qualities)
+- [Lobsters: What's the most mysterious bug you've ever encountered? (2021)](https://lobste.rs/s/o5vohj/what_s_most_mysterious_bug_you_ve_ever)

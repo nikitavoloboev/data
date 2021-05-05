@@ -138,7 +138,7 @@
 - [Computing gradients on grids of pixels and voxels – forward, central, and… diagonal differences (2021)](https://bartwronski.com/2021/02/28/computing-gradients-on-grids-forward-central-and-diagonal-differences/)
 - [It's raymarching march (2021)](https://ch-st.de/its-ray-marching-march/)
 - [Fitting cubic Bézier curves (2021)](https://raphlinus.github.io/curves/2021/03/11/bezier-fitting.html)
-- [PlenOctrees for Real-time Rendering of Neural Radiance Fields](http://alexyu.net/plenoctrees/) ([Code](https://github.com/sxyu/volrend)) ([HN](https://news.ycombinator.com/item?id=26597419)) ([Talk](https://www.youtube.com/watch?v=LRAqeM8EjOo))
+- [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/) ([Code](https://github.com/sxyu/volrend)) ([HN](https://news.ycombinator.com/item?id=26597419)) ([Talk](https://www.youtube.com/watch?v=LRAqeM8EjOo))
 - [Understanding and Extending Neural Radiance Fields (Jonathan T. Barron) (2020)](https://www.youtube.com/watch?v=nRyOzHpcr4Q)
 - [Rendering large 3D tilemaps with a single draw call at 3000 FPS (2021)](https://blog.paavo.me/gpu-tilemap-rendering/)
 - [Example-based texture synthesis written in Rust](https://github.com/EmbarkStudios/texture-synthesis)

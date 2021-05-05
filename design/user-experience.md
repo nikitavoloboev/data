@@ -82,3 +82,4 @@
 - [Ask HN: What are some good resources for a programmer to learn UI/UX design? (2021)](https://news.ycombinator.com/item?id=26932020)
 - [Nice way to share feedback on a site](https://twitter.com/tcosta_co/status/1387176801932296197)
 - [Should one interface be designed for both novice and expert users? (2021)](https://twitter.com/geoffreylitt/status/1388144343404486656)
+- [Tips to help your landing page convert (2021)](https://twitter.com/heyblake/status/1389725784651309056)

@@ -464,3 +464,4 @@
 - [cargo-xbuild](https://github.com/rust-osdev/cargo-xbuild) - Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc.
 - [Understanding Rust as a C++ developer (2021)](https://renoth.medium.com/understanding-rust-as-a-c-developer-69ee8ca76fd6)
 - [Programming Rust Book (2017)](https://www.oreilly.com/library/view/programming-rust/9781491927274/) ([GitHub](https://github.com/ProgrammingRust))
+- [An Incomplete Explanation of the Proc Macro That Saved Me 4000 Lines of Rust (2021)](https://mbuffett.com/posts/incomplete-macro-walkthrough/)
