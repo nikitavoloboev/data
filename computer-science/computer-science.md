@@ -123,3 +123,4 @@
 - [Lobsters: What are the best computer science papers? (2021)](https://lobste.rs/s/l8eiy6/what_are_best_computer_science_papers)
 - [Software and Computational Systems Lab](https://www.sosy-lab.org/) ([GitHub](https://github.com/sosy-lab))
 - [Kolmogorov Complexity: Extensions and Applications (2021)](https://blog.neotree.uber.space/posts/kolmogorov-complexity) ([HN](https://news.ycombinator.com/item?id=27043153))
+- [Automata Modulo Theories (2021)](https://cacm.acm.org/magazines/2021/5/252180-automata-modulo-theories/fulltext)

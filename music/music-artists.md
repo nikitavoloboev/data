@@ -221,6 +221,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Hania Rani – Live from Studio S2](https://www.youtube.com/watch?v=kFRdoYfZYUY)
 - [Hania Rani - Esja (live)](https://www.youtube.com/watch?v=h4LDkrHGD0o)
 - [Скриптонит - Время возвращаться [Live]](https://www.youtube.com/watch?v=UEzl9JYkH5M)
+- [Taylor Swift - the 1 (studio sessions)](https://www.youtube.com/watch?v=eBJF2v23IAE)
 
 ## Mixes
 

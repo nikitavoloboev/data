@@ -138,3 +138,4 @@
 - [Mars](https://github.com/mars-project/mars) - Tensor-based unified framework for large-scale data computation which scales Numpy, pandas, Scikit-learn and Python functions.
 - [DeepMatch](https://github.com/shenweichen/DeepMatch) - Deep matching model library for recommendations & advertising.
 - [Layout Parser](https://github.com/Layout-Parser/layout-parser) - Unified toolkit for Deep Learning Based Document Image Analysis. ([Web](https://layout-parser.github.io/))
+- [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
