@@ -14,3 +14,4 @@
 - [Language Server Manager (LSM)](https://github.com/johejo/lsm) - Aims to be a simple and cross platform installation manager for Language Server.
 - [lspower](https://github.com/hvithrafn/lspower) - Rust library for the Language Server Protocol (LSP).
 - [vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) - JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
+- [Minimalistic language server (LSP) implementation](https://github.com/bkomuves/toy-language-server)
