@@ -41,3 +41,4 @@
 - [Polkadot Telemetry](https://github.com/paritytech/substrate-telemetry)
 - [Polkadot Ethereum Bridge](https://github.com/Snowfork/polkadot-ethereum)
 - [Polkadot Validator Setup](https://github.com/w3f/polkadot-validator-setup)
+- [subxt](https://github.com/paritytech/substrate-subxt) - Submit extrinsics (transactions) to a substrate node via RPC.

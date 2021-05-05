@@ -96,3 +96,4 @@
 - [Why Typescript and Svelte are a match made in heaven (2021)](https://www.sanity.io/guides/using-typescript-with-svelte)
 - [micro-graphql-svelte](https://github.com/arackaf/micro-graphql-svelte) - Light and simple GraphQL Svelte client with extensible, composable cache invalidation.
 - [Notus Svelte](https://github.com/creativetimofficial/notus-svelte) - Free Tailwind CSS UI Kit and Admin.
+- [svelte-adapter](https://github.com/pngwn/svelte-adapter) - Use Svelte components with Vue and React.

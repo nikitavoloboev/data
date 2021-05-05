@@ -418,6 +418,7 @@ Here are few more things I liked, design wise.
 - [Robert Squires](https://robertsquires.co.uk/)
 - [Wilson Miner](https://wilsonminer.com/)
 - [Mathias Schäfer](https://molily.de/)
+- [Wildan Zulfikar](https://wzulfikar.com/)
 - [Marvin Schwaibold](https://www.marvinschwaibold.com/)
 - [Martin Lexow](https://martinlexow.de/)
 - [Paul Shen](https://bypaulshen.com/)

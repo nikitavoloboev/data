@@ -821,6 +821,7 @@
 - [Drop-Merge-Sort](https://github.com/emilk/drop-merge-sort) - Adaptive sorting algorithm.
 - [Sauce](https://github.com/DanCardin/sauce) - Context specific everything.
 - [tokio-console](https://github.com/tokio-rs/console) - Diagnostics and debugging tool for asynchronous Rust programs.
+- [jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await.
 
 ## Cargo Plugins
 

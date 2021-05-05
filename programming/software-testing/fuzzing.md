@@ -49,3 +49,4 @@
 - [Static Mocking vs. Mocking with Fuzz Data (Embedded) (2021)](https://blog.code-intelligence.com/automating-embedded-security)
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your own fuzzers together and extend their features using Rust.
+- [ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool.

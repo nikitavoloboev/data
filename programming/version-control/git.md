@@ -251,3 +251,4 @@ I love Git and version control. And I use version control over any project I do.
 - [What’s wrong with Git? A conceptual design analysis (2016)](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/) ([HN](https://news.ycombinator.com/item?id=26961044))
 - [Scaling monorepo maintenance (2021)](https://github.blog/2021-04-29-scaling-monorepo-maintenance/) ([HN](https://news.ycombinator.com/item?id=26991505))
 - [Clean Git House (2021)](https://write.rog.gr/dress-code/clean-git-house.html) - Guide about deleting branches in Git.
+- [repostatus.org](https://www.repostatus.org/) - Standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects. ([Code](https://github.com/jantman/repostatus.org))

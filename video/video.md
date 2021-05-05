@@ -220,3 +220,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Video Call Checklist](https://checklist.video/) - Definitive Guide to Amazing Video Calls. ([HN](https://news.ycombinator.com/item?id=26944417))
 - [FFmpegKit](https://github.com/tanersener/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, iOS, macOS and tvOS.
 - [Building video chat into my personal website using WebRTC, WebSockets, and Go (2021)](https://mattbutterfield.com/blog/2021-05-02-adding-video-chat) ([HN](https://news.ycombinator.com/item?id=27029502))
+- [Videogrep](https://github.com/antiboredom/videogrep) - Command line tool that searches through dialog in video files.

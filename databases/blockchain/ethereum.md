@@ -215,3 +215,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum Rescue With Dan Robinson (2021)](https://corecursive.com/064-ethereum-rescue-with-dan-robinson/)
 - [ETHGlobal.tv](https://ethglobal.tv/) - Scaling Ethereum.
 - [Lodestar](https://github.com/ChainSafe/lodestar) - TypeScript Implementation of the Beacon Chain. ([Web](https://lodestar.chainsafe.io/))
+- [Building GraphQL APIs on Ethereum (2021)](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)

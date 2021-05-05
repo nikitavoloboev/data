@@ -57,3 +57,4 @@ Here are tools I use for streaming:
 - [tizz](https://tizz.io/) - Make twitch viewership numbers easily accessible and shareable, with an emphasis on recent data. ([Reddit](https://www.reddit.com/r/reactjs/comments/mk3w8k/tizz_twitch_viewership_metrics_fe_api_built_with/))
 - [Live stream to multiple platforms with Stream Connect (2021)](https://blog.cloudflare.com/restream-with-stream-connect/)
 - [Nobody.live](https://nobody.live/) - Lonely streams and streamers with zero viewers. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/mpv2o4/nobodylive_website_for_finding_twitch_streamers/))
+- [Chatterino 2](https://github.com/Chatterino/chatterino2) - Chat client for Twitch.

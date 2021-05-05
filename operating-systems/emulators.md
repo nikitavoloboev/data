@@ -36,3 +36,4 @@
 - [Awesome Open Source Emulators](https://github.com/alnacle/awesome-emulators)
 - [PCSX2](https://github.com/PCSX2/pcsx2) - Playstation 2 Emulator. ([Web](https://pcsx2.net/))
 - [QEMU 6.0.0](https://www.qemu.org/2021/04/30/qemu-6-0-0/) ([HN](https://news.ycombinator.com/item?id=26990957))
+- [FEX](https://github.com/FEX-Emu/FEX) - Fast x86 emulation frontend.
