@@ -179,3 +179,4 @@
 - [Fiber](https://github.com/uber/fiber) - Distributed Computing for AI Made Simple. ([Web](https://uber.github.io/fiber/))
 - [Raft Implementation & CLI Visualization in Rust](https://github.com/andreev-io/Raft)
 - [Ask HN: Learning Distributed Systems as a Junior Engineer (2021)](https://news.ycombinator.com/item?id=26989035)
+- [The Distributed Reading List](https://reiddraper.github.io/distreader/)

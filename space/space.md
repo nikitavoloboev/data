@@ -36,7 +36,7 @@
 - [ELI5: What is space made out of? What is the blackness in space? (2020)](https://www.reddit.com/r/explainlikeimfive/comments/gk9859/eli5_what_is_space_made_out_of_what_is_the/)
 - [Titan - A Frozen Oasis | The Lesser Worlds (2019)](https://www.youtube.com/watch?v=ZnfhpaVs2gY)
 - [Why are the objects in the space spinning?](https://www.reddit.com/r/AskPhysics/comments/gq8qpe/why_are_the_objects_in_the_space_spinning/)
-- [Everyday Astronaut](https://everydayastronaut.com/)
+- [Everyday Astronaut](https://everydayastronaut.com/) ([YouTube](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q))
 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
 - [SpaceX software team AMA (2020)](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/)
 - [RussianSpaceWeb](http://www.russianspaceweb.com/) - News and history of astronautics in the former USSR.
@@ -90,3 +90,4 @@
 - [Earth Restored – 50 restored images of earth released](http://www.tobyord.com/earth) ([HN](https://news.ycombinator.com/item?id=26923322))
 - [Mars26](https://mars26.com/) - High Resolution Mars Map. ([HN](https://news.ycombinator.com/item?id=26965583))
 - [Stars That Race Through Space at Nearly the Speed of Light (2021)](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/) ([HN](https://news.ycombinator.com/item?id=27019843))
+- [NASASpaceflight - YouTube](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA)
