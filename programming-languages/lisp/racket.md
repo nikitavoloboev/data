@@ -60,3 +60,4 @@
 - [brag](https://github.com/mbutterick/brag) - Racket DSL for generating parsers from BNF grammars.
 - [Goblins: A transactional, distributed actor model environment](https://docs.racket-lang.org/goblins/) ([HN](https://news.ycombinator.com/item?id=26665387))
 - [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) - WYSIWYG program to create GUI applications for Racket.
+- [Building Web Services with Racket (2021)](https://www.youtube.com/watch?v=ZvwE6_MMJjM)
