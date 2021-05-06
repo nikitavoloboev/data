@@ -60,3 +60,4 @@
 - [Quantum field theory books (2021)](https://www.reddit.com/r/AskPhysics/comments/mvcklj/quantum_field_theory_book/)
 - [What's an equation in quantum physics that fascinates you the most? (2021)](https://www.reddit.com/r/AskPhysics/comments/mzr46g/whats_an_equation_in_quantum_physics_that/)
 - [Best online course for Introductory Quantum Mechanics? (2021)](https://www.reddit.com/r/AskPhysics/comments/n3tdsb/best_online_course_for_introductory_quantum/)
+- [Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope (2021)](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)

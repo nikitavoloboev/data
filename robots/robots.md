@@ -78,3 +78,4 @@
 - [CLVR (Cognitive Learning for Vision and Robotics Lab)](https://clvrai.com/) ([GitHub](https://github.com/clvrai))
 - [Science and Engineering for Learning Robots (2021)](https://blog.evjang.com/2021/03/learning-robots.html)
 - [Deep Reinforcement Learning for Robotic Grasping from Octrees](https://github.com/AndrejOrsula/drl_grasping)
+- [Kidnapped Robot Problem (2021)](https://www.youtube.com/watch?v=8a3KX2InUqY)

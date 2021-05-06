@@ -156,3 +156,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Bug Bounty Cheat Sheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Hack The Box](https://www.hackthebox.eu/) - Hacking Training For The Best. Individuals & Companies.
 - [Pentesting: What I should have done (2021)](https://diablohorn.com/2021/04/24/pentesting-what-i-should-have-done/)
+- [A future without passwords (2021)](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/) ([HN](https://news.ycombinator.com/item?id=27064116))
