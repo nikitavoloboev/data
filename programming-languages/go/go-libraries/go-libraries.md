@@ -799,6 +799,7 @@
 - [GCI](https://github.com/daixiang0/gci) - Tool that control Go package import order and make it always deterministic.
 - [imgutil](https://github.com/buildpacks/imgutil) - Helpful utilities for working with images.
 - [rjson](https://github.com/WillAbides/rjson) - Fast JSON parser for go.
+- [fungo](https://github.com/rvolosatovs/fungo) - Generic, lazy, concurrent Go2 collections, result, maybe wrappers and all kinds of sweet functional goodness to operate upon them.
 
 ## Links
 

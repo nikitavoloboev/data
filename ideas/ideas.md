@@ -93,3 +93,4 @@ I try to give my full attention to any ideas I am working on.
 - [Do What Makes The Best Story](https://amasad.me/story) ([Tweet](https://twitter.com/KennethCassel/status/1388460504109174785))
 - [Ideas Filter](http://ideasfilter.com/) - List of apps people pay for but have low rating. ([HN](https://news.ycombinator.com/item?id=27007767))
 - [Orbit](https://withorbit.com/) - Experimental platform for publishing and engaging with small tasks repeatedly over time. ([Code](https://github.com/andymatuschak/orbit)) ([HN](https://news.ycombinator.com/item?id=27051468))
+- [Crazy New Ideas (2021)](http://paulgraham.com/newideas.html) ([HN](https://news.ycombinator.com/item?id=27061789))

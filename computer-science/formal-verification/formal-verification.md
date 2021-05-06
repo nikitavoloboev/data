@@ -65,3 +65,4 @@
 - [IncA](https://github.com/szabta89/IncA) - Incremental Program Analysis Framework.
 - [Combining static model checking with dynamic enforcement using the Statecall Policy Language (2015)](https://blog.acolyer.org/2015/03/23/combining-static-model-checking-with-dynamic-enforcement-using-the-statecall-policy-language/)
 - [Proofcraft](https://proofcraft.systems/) - Partner with experts to verify your software. Learn formal verification from the experts.
+- [Can Formal Methods Succeed where UML Failed? (2021)](https://buttondown.email/hillelwayne/archive/can-formal-methods-succeed-where-uml-failed)

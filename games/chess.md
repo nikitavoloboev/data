@@ -88,3 +88,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Why Lichess will always be free](https://lichess.org/blog/YF-ZORQAACAA89PI/why-lichess-will-always-be-free.) ([HN](https://news.ycombinator.com/item?id=26910579))
 - [8 Weird Opening Traps You've Never Seen Before (2021)](https://www.youtube.com/watch?v=VHlsQ2OT2eI)
 - [GM Aman Hambleton Beautiful Queen Sac (2021)](https://www.youtube.com/watch?v=HRJUF7FFOV4&t=6s)
+- [Мужской разговор с Даниилом Дубовым: о Карлсене, претендентах, читерах и будущем шахмат (2021)](https://www.youtube.com/watch?v=n4cHZWlFh18)

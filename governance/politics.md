@@ -19,3 +19,4 @@
 - [Popular Information](https://popular.info/) - Newsletter about politics for people who give a damn.
 - [Issues with Marxism (2020)](https://twitter.com/PsychRabble/status/1335792815461294087)
 - [Book Review: Why We're Polarized (2021)](https://astralcodexten.substack.com/p/book-review-why-were-polarized) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/lges1y/book_review_why_were_polarized/))
+- [Four stages of caring about politics](https://twitter.com/nikitabier/status/1390297478675648514)
