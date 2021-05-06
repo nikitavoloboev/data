@@ -191,3 +191,4 @@
 - [MANUZOID](https://manuzoid.com/) - Search for Manual Online.
 - [Why making chips is so hard (2021)](https://www.youtube.com/watch?v=CkNn98WE5_k)
 - [The True Cost of Processor Manufacturing: TSMC 7nm (2021)](https://www.youtube.com/watch?v=tvVobTtgss0)
+- [Apples M1 Processor: The hardware behind the hype (2020)](https://www.youtube.com/watch?v=NH9kwje2k8U)
