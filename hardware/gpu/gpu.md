@@ -52,3 +52,4 @@
 - [Patterns and behaviors for GPU computing](https://github.com/moderngpu/moderngpu)
 - [Faster Rendering Using Hardware Acceleration (2021)](https://www.sublimetext.com/blog/articles/hardware-accelerated-rendering)
 - [NVTOP](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool.
+- [gpustat](https://github.com/wookayin/gpustat) - Simple command-line utility for querying and monitoring GPU status.

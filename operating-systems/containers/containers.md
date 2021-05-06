@@ -107,3 +107,4 @@
 - [Quark Container](https://github.com/QuarkContainer/Quark) - Secure container runtime with OCI interface.
 - [Inclavare Containers](https://github.com/alibaba/inclavare-containers) - Novel container runtime, aka confidential container, for cloud-native confidential computing and enclave runtime ecosystem. ([Web](https://inclavare-containers.io/en/))
 - [ContainerLab](https://github.com/srl-labs/containerlab) - Enables container-based networking labs. ([Docs](https://containerlab.srlinux.dev/))
+- [Making the Internet more secure one signed container at a time (2021)](https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.htoml)

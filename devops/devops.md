@@ -77,3 +77,4 @@
 - [Fleet](https://fleetdm.com/) - Open source device management. ([Code](https://github.com/fleetdm/fleet))
 - [Reliably CLI](https://github.com/reliablyhq/cli) - Reliability as Code: SRE automation at the tip of your fingers. ([Web](https://reliably.com/))
 - [To PaaS or not (2021)](https://www.shayon.dev/post/2021/119/to-paas-or-not/)
+- [SRE at Google: Our complete list of CRE life lessons (2021)](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)

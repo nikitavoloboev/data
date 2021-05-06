@@ -76,7 +76,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nixos-manager](https://github.com/pmiddend/nixos-manager) - Manage your NixOS graphically.
 - [Search NixOS packages and options](https://search.nixos.org/) ([Code](https://github.com/NixOS/nixos-search))
 - [My NixOS Desktop Flow (2020)](https://christine.website/blog/nixos-desktop-flow-2020-04-25) ([HN](https://news.ycombinator.com/item?id=22984639)) ([Lobsters](https://lobste.rs/s/yb1oqg/my_nixos_desktop_flow))
-- [Is NixOS Reproducible?](https://r13y.com/)
+- [Is NixOS Reproducible?](https://r13y.com/) ([Code](https://github.com/grahamc/r13y.com))
 - [Impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage.
 - [NixOS Weekly Newsletter](https://weekly.nixos.org/) - Stay up to date with events, learning resources, and recent developments in NixOS community. ([Code](https://github.com/NixOS/nixos-weekly))
 - [Nix Community Infrastructure](https://github.com/nix-community/infra)
