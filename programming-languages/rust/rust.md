@@ -467,3 +467,4 @@
 - [An Incomplete Explanation of the Proc Macro That Saved Me 4000 Lines of Rust (2021)](https://mbuffett.com/posts/incomplete-macro-walkthrough/)
 - [The Great Rewriting In Rust (2021)](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
 - [Moves, copies and clones in Rust (2020)](https://hashrust.com/blog/moves-copies-and-clones-in-rust/) ([Lobsters](https://lobste.rs/s/ywrfsl/moves_copies_clones_rust))
+- [Interior mutability in Rust: what, why, how? (2016)](https://ricardomartins.cc/2016/06/08/interior-mutability)

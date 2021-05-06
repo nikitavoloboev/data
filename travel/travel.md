@@ -65,3 +65,5 @@
 - [What is the best English speaking country to leanfire in your opinion? (2021)](https://www.reddit.com/r/leanfire/comments/mnq41m/what_is_the_best_english_speaking_country_to/)
 - [Tripadvisor](https://www.tripadvisor.com/) - Read Reviews, Compare Prices & Book.
 - [I booked my cheapest one-month trip (2021)](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/) ([HN](https://news.ycombinator.com/item?id=26982370))
+- [The Hoxton](https://thehoxton.com/) - Open House Hotels in London, Europe and USA.
+- [Camp Hox](https://thehoxton.com/camp-hox/) - Van trips.
