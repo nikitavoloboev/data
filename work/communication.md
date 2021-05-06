@@ -104,3 +104,4 @@
 - [How to have fewer meetings (2021)](https://twitter.com/Jobvo/status/1379436947827875840)
 - [Ask HN: How do you run better meetings? (2021)](https://news.ycombinator.com/item?id=26856387)
 - [A practical guide to reducing loneliness (2021)](https://burgesspowell.medium.com/a-practical-guide-for-reducing-loneliness-right-now-f02f8c3035bd) ([HN](https://news.ycombinator.com/item?id=26943140))
+- [How To Breathe Correctly When Speaking (2017)](https://www.youtube.com/watch?v=bkY9C7VX8ww)

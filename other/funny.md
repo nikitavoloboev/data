@@ -12,6 +12,9 @@
 - [All of my plans for the future involve me waking up tomorrow with a sudden sense of discipline and adherence to routine that i have never displayed even once in my life.](https://twitter.com/rmccarthyjames/status/1318969146898612224)
 - [I told my wife she should embrace her mistakes.. She gave me a hug.](https://twitter.com/Dadsaysjokes/status/1376980673353891843)
 - [“The worst they can say is no” okay but that like devastates me when it happens](https://twitter.com/ginnyhogan_/status/1380892199991324678)
+- [I think being funny is often about looking at things in different ways.](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
+- [The one element that makes a person laugh is surprise (positive one hopefully). So to bring to their attention something that is true, but also that they did not think about. When a human is surprised with a thought that they recognize as true, but had not thought about it, they will laugh.](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
+- [Practice and perspective makes you more funny. Who are you favorite comedians? Why do you find them funny? What is their perspective on life? Can you imagine how many times theyve done a gig and its absolutely flopped but they kept going regardless?](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
 
 ## Links
 

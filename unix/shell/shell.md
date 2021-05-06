@@ -128,3 +128,4 @@ All active variables can be seen by running `env`.
 - [Reverse Shell Generator](https://www.revshells.com/) ([Code](https://github.com/0dayCTF/reverse-shell-generator))
 - [Learn GNU AWK](https://learnbyexample.github.io/learn_gnuawk/preface.html)
 - [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/) ([HN](https://news.ycombinator.com/item?id=27023572))
+- [The Once and Future Shell (2021)](https://angelhof.github.io/files/papers/shell-2021-hotos.pdf)

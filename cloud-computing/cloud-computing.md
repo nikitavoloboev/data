@@ -66,3 +66,4 @@
 - [A crash course on running your own servers with a shoestring budget (2021)](https://blog.alexgleason.me/run-your-own-server/) ([Lobsters](https://lobste.rs/s/77orlj/crash_course_on_running_your_own_servers))
 - [Cloudlist](https://github.com/projectdiscovery/cloudlist) - Multi-cloud tool for getting Assets (Hostnames, IP Addresses) from Cloud Providers.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool.
+- [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf)

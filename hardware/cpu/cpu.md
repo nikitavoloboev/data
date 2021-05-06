@@ -90,3 +90,4 @@
 - [Application Binary Interface for the Arm Architecture](https://github.com/ARM-software/abi-aa)
 - [A CPU With Just One Instruction (2019)](https://www.youtube.com/watch?v=jRZDnetjGuo)
 - [v86](https://github.com/copy/v86/) - Emulates an x86-compatible CPU and hardware.
+- [RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
