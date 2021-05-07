@@ -444,6 +444,7 @@ Here are few more things I liked, design wise.
 - [Abhinav Sarkar](https://abhinavsarkar.net/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Karan Sharma](https://mrkaran.dev/) ([Code](https://github.com/mr-karan/website))
+- [Kaspar Etter](https://kasparetter.com/)
 - [Victor Darvariu](https://victor.darvariu.me/)
 - [Rafal Tomal](https://rafaltomal.com/)
 - [Azer Koculu](https://kodfabrik.com/) ([Code](https://github.com/azer/notebook))

@@ -396,6 +396,7 @@
 - [cache_decorator](https://github.com/zommiommy/cache_decorator) - Simple decorator to cache the results of computationally heavy functions.
 - [Event Sourcing in Python](https://github.com/johnbywater/eventsourcing)
 - [Optimesh](https://github.com/nschloe/optimesh) - Several mesh smoothing/optimization methods with one simple interface.
+- [pyeasyga](https://github.com/remiomosowon/pyeasyga) - Simple and easy-to-use implementation of a Genetic Algorithm library in Python.
 
 ## Links
 
