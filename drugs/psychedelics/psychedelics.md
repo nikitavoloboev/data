@@ -47,6 +47,8 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Psychedelic assisted therapy is the product here - not psychedelics. Also you are completely missing the opportunity now presents through decriminalization for research into making even better drugs. Less side effects, less duration, more precise results. There’s now a run for companies to patent a drug that will be time release inside of your therapeutic lsd capsule so it stops the trip at a designated interval.](https://www.reddit.com/r/investing/comments/k9tkww/psychedelic_substances_may_be_the_next_cannabis/)
 - [Citruline Malate or/and L-Arginine are best for vasoconstriction.](https://www.reddit.com/r/researchchemicals/comments/m7tw6p/body_load_on_4homipt/)
 - [If psychedelics turn out to be as effective as they look in early trials, we're going to look back at the last 50 years of prohibition & realize we just sat by & allowed oceans of unnecessary pain.](https://twitter.com/drvolts/status/1389415794732199936)
+- [Some people think they’ve transcended the ego when that’s really their ego talking.](https://www.reddit.com/r/RationalPsychonaut/comments/n6bxie/narcissism_in_the_psychedelic_community/)
+- [I think psychedelics often times just reinforce existing personal traits.](https://www.reddit.com/r/RationalPsychonaut/comments/n6bxie/narcissism_in_the_psychedelic_community/)
 
 ## Links
 

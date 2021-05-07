@@ -21,6 +21,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [The line separating investment and speculation, which is never bright and clear, becomes blurred still further when most market participants have recently enjoyed triumphs. Nothing sedates rationality like large doses of effortless money.](https://www.reddit.com/r/investing/comments/kbgtbu/for_all_those_who_know_we_are_in_a_bubble_but/)
 - [The stock market is not the economy. The stock market consists disproportionately of medium and large companies. Different companies also depend on different markets, countries and supply chains.](https://www.reddit.com/r/AskEconomics/comments/mfms35/covid_brexit_and_now_the_suez_channel_blocked/)
 - [Just because a company is in an exciting industry doesn’t mean it’s a good investment. This is also a important thing to remember when investing in EV stocks.](https://www.reddit.com/r/stocks/comments/n392a4/twitter_twtr_has_done_basically_nothing_in_its/)
+- [The problem with buying things that you don't know how to value, is you don't know when to sell until it's too late.](https://www.reddit.com/r/investing/comments/n6dh3d/i_sold_every_share_i_own_today/)
 
 ## Links
 

@@ -882,3 +882,4 @@
 - [Crater](https://github.com/rust-lang/crater) - Tool to run experiments across parts of the Rust ecosystem.
 - [Alexandrie](https://github.com/Hirevo/alexandrie) - Modular alternative crate registry for Rust suitable for use with Cargo.
 - [Cargo Release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
+- [The most underrated but useful Rust standard library type (2021)](https://dev.to/thepuzzlemaker/the-most-underrated-but-useful-rust-standard-library-type-59b1) ([Lobsters](https://lobste.rs/s/8oq6km/most_underrated_useful_rust_standard))
