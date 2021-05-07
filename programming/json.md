@@ -10,7 +10,7 @@
 - [jqplay](https://jqplay.org/) - Playground for jq, written in Go. ([Code](https://github.com/jingweno/jqplay))
 - [Verify JSON](https://github.com/yusufnb/verify-json) - Library to verify JSON structure easily using a lightweight JSON schema syntax. ([HN](https://news.ycombinator.com/item?id=22885527))
 - [How (not) to sign a JSON object (2019)](https://latacora.micro.blog/2019/07/24/how-not-to.html)
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor. ([Internals](https://github.com/stedolan/jq/wiki/Internals:-introduction))
 - [ijq](https://sr.ht/~gpanders/ijq/) - Interactive jq tool. ([Lobsters](https://lobste.rs/s/grp58v/ijq_interactive_jq))
 - [jq-repl](https://github.com/ashb/jqrepl) - REPL to make exploring data with JQ easier.
 - [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.

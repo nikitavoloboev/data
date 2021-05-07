@@ -91,3 +91,4 @@
 - [Mars26](https://mars26.com/) - High Resolution Mars Map. ([HN](https://news.ycombinator.com/item?id=26965583))
 - [Stars That Race Through Space at Nearly the Speed of Light (2021)](https://www.scientificamerican.com/article/stars-that-race-through-space-at-nearly-the-speed-of-light/) ([HN](https://news.ycombinator.com/item?id=27019843))
 - [NASASpaceflight - YouTube](https://www.youtube.com/channel/UCSUu1lih2RifWkKtDOJdsBA)
+- [Varda Space Industries](https://varda.com/) ([Tweet](https://twitter.com/Jeff_Burke14/status/1390656861888671747))
