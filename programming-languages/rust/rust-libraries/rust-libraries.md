@@ -62,6 +62,7 @@
 - [Hyperdrive](https://github.com/dac-gmbh/hyperdrive) - Declarative HTTP request routing, guarding and decoding.
 - [tame-oidc](https://github.com/EmbarkStudios/tame-oidc) - Small OAuth crate that follows the sans-io approach.
 - [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust.
+- [MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework.
 
 ## WASM
 
