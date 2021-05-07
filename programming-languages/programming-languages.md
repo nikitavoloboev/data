@@ -200,3 +200,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Langs In Rust](https://github.com/alilleybrinker/langs-in-rust) - List of programming languages implemented in Rust, for inspiration.
 - [Demystifying interpreters (2020)](https://rena.to/blog/demystifying-interpreters)
 - [PLDI 2021](https://pldi21.sigplan.org/)
+- [treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree.

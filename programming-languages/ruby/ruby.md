@@ -68,3 +68,5 @@
 - [JRuby](https://github.com/jruby/jruby) - Implementation of Ruby on the JVM. ([Web](https://www.jruby.org/))
 - [Cloudtasker](https://github.com/keypup-io/cloudtasker) - Background jobs for Ruby using Google Cloud Tasks.
 - [Introducing dry-files (2021)](https://dry-rb.org/news/2021/05/04/introducing-dry-files/)
+- [Ruby Garbage Collection Deep Dive: Compaction (2021)](https://jemma.dev/blog/gc-compaction)
+- [Ruby Weekly](https://rubyweekly.com/) - Free, once–weekly e-mail round-up of Ruby news and articles.
