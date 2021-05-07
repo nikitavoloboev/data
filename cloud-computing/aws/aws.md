@@ -167,3 +167,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups.
 - [Run an Action on all VMs in an AWS Auto Scaling Group (2021)](https://blog.stefan-koch.name/2021/04/14/clusterssh-aws-auto-scaling-group)
 - [Amazon SageMaker Safe Deployment Pipeline](https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline)
+- [AWS SDK for Rust](https://github.com/awslabs/aws-sdk-rust) ([Article](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/))
