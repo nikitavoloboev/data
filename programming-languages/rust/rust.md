@@ -468,3 +468,4 @@
 - [The Great Rewriting In Rust (2021)](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
 - [Moves, copies and clones in Rust (2020)](https://hashrust.com/blog/moves-copies-and-clones-in-rust/) ([Lobsters](https://lobste.rs/s/ywrfsl/moves_copies_clones_rust))
 - [Interior mutability in Rust: what, why, how? (2016)](https://ricardomartins.cc/2016/06/08/interior-mutability)
+- [Optimizing 700 CPUs Away With Rust (2021)](https://medium.com/tenable-techblog/optimizing-700-cpus-away-with-rust-dc7a000dbdb2) ([Tweet](https://twitter.com/steveklabnik/status/1390395707207602182))
