@@ -118,3 +118,4 @@
 - [The Hotdog web browser and browser engine](https://github.com/danfragoso/thdwb) ([HN](https://news.ycombinator.com/item?id=26869814))
 - [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - Minimal web browser for the distributed web.
 - [broz](https://github.com/antfu/broz) - Simple, frameless browser for screenshots.
+- [Wexond Base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron. ([Web](https://wexond.net/))

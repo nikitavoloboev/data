@@ -152,3 +152,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [How to write cold emails to investors (2021)](https://www.flowrite.com/blog/cold-email-to-investors) ([HN](https://news.ycombinator.com/item?id=26982029))
 - [Swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir.
 - [SendGrid Email Blast](https://github.com/freeCodeCamp/sendgrid-email-blast) - CLI tool for sending emails via the SendGrid API.
+- [Email explained from first principles](https://explained-from-first-principles.com/email/)

@@ -1,5 +1,10 @@
 # Politics
 
+## Notes
+
+- [I look at political philosophy's in a way similar to the various forces of nature. Example. If Gravity was the only force of nature, the universe would be extraordinarily boring. But throw in a few more forces and you get all this crazy shit. I view libertarianism, Conservatism, liberalism, and all your other -ism's as forces that work to create a functional government. I'll wholly agree that any form of government that is 100% a particular political/social ideal will be a horror in one form or another. Why I'm a libertarian, isn't because i advocate the abolishment of government control, but that our government needs to be moved in a more libertarian direction. I think our government, is 1: two damn big 2: to damn invasive. Ergo the force that opposes these is Libertarianism.](https://www.reddit.com/r/philosophy/comments/e7lr8/the_problems_with_libertarianism/)
+- [Libertarians want to largely do away with government regulation, but good regulation actually makes an economy more efficient because it accounts for the parts of an economy that aren't part of a contract between two parties. These are what economists call externalities. Sometimes government will price these externalities and charge businesses a fee. Sometimes they can convert the externalities into property rights. Sometimes they just make a rule like "every building needs to be built according to this code".](https://www.reddit.com/r/Ask_Politics/comments/9uy4f4/why_are_libertarians_wrong/)
+
 ## USA
 
 - [The Fight Goes On (2020)](https://medium.com/@teamwarren/the-fight-goes-on-8f5ca2b4b557)

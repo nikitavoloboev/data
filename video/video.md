@@ -223,3 +223,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Building video chat into my personal website using WebRTC, WebSockets, and Go (2021)](https://mattbutterfield.com/blog/2021-05-02-adding-video-chat) ([HN](https://news.ycombinator.com/item?id=27029502))
 - [Videogrep](https://github.com/antiboredom/videogrep) - Command line tool that searches through dialog in video files.
 - [SVT Encore](https://github.com/svt/encore) - Scalable video transcoding tool, built on Open Source giants like FFmpeg and Redisson.
+- [CanCan](https://github.com/dfinity/cancan) - Scalable video-sharing service.

@@ -134,3 +134,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [ЗВОНОК ИЗ ПРОШЛОГО. Черно-белый разговор с Верой (2021)](https://www.youtube.com/watch?v=ijnBRLa6NIw)
 - [«Дело Навального: Путин, яд, власть». Документальный фильм. (2021)](https://www.youtube.com/watch?v=nRWk0t0M8Eg)
 - [Отец Дмитрий - Никакого ада нет (Кровосток prod.)](https://www.youtube.com/watch?v=zek9F1CqVvM)
+- [Михаил Светов стрим после отсидки (2021)](https://www.youtube.com/watch?v=-Y_a0hR9Ss4)
