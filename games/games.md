@@ -37,6 +37,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Lizard](https://www.playlizard.com/) - Online card game for up to 6 players.
 - [Candy Box 2](https://candybox2.github.io/) ([Code](https://github.com/candybox2/candybox2.github.io))
 - [Smash Karts](https://smashkarts.io/) - Multiplayer Kart Battle Arena game.
+- [Hatetris](https://qntm.org/hatetris) - Tetris which always gives you the worst piece. ([Code](https://github.com/qntm/hatetris)) ([HN](https://news.ycombinator.com/item?id=27063894))
 
 ## Awesome OSS games
 

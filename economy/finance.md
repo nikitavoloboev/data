@@ -104,3 +104,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [The Greshm System (2021)](https://www.greshm.org/files/greshm.pdf) ([HN](https://news.ycombinator.com/item?id=26884532))
 - [Balance](https://www.getbalance.com/) - B2B Payments for Merchants & Marketplaces.
 - [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
+- [Circle](https://www.circle.com/en/) - Payments infrastructure for internet businesses.
