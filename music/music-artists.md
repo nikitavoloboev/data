@@ -12,7 +12,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L?si=z0SiQAMIQweX-3aMN9UPfA) - [Murmuration](https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd?si=9a470aa69add460a)
 - [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV?si=9O4N_itiTI2-N8CvHq2M2g) - [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP?si=ExOC4zkQSgWl21bpQJVvJg)
 - [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM?si=dOIi6tVhRuq8dBOqsIP1ow) - [Love Songs For Robots](https://www.youtube.com/watch?v=EgPV9lhYPoA)
-- [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ?si=ae1wF-F0QralkmBLnKKnOg) - [UFOF Live](https://www.youtube.com/watch?v=rpnZtNTtuvU)
+- [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ?si=ae1wF-F0QralkmBLnKKnOg) - [UFOF Live](https://www.youtube.com/watch?v=rpnZtNTtuvU) | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo)
 - [Vermont](https://open.spotify.com/artist/4g1pqB36gtNg1XBQ5iGFIV) - [Rückzug](https://open.spotify.com/track/7hbDg7brpECQeFwtrNiy8z)
 - [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=HjYFj5TzRlyc1yW4vnbLrw) - [willow](https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D?si=ugOv52xHQ1SDDEVr0WDTIw)
 - [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11?si=HEMfDbBgRnW08VqYOvPr5Q) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)

@@ -147,3 +147,4 @@
 - [Compile times, and why "the obvious" might not be so (2021)](https://rachelbythebay.com/w/2021/03/24/comp/) ([Lobsters](https://lobste.rs/s/ounjyq/compile_times_why_obvious_might_not_be_so))
 - [CBMC](https://github.com/diffblue/cbmc) - Bounded Model Checker for C and C++ programs. ([Web](http://www.cprover.org/cbmc/))
 - [Type-safe generic data structures in C (2020)](https://iafisher.com/blog/2020/06/type-safe-generics-in-c)
+- [Modern C and What We Can Learn from It (2021)](https://www.youtube.com/watch?v=QpAhX-gsHMs) ([HN](https://news.ycombinator.com/item?id=27059976))
