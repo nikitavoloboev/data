@@ -389,3 +389,4 @@
 - [Lobsters: What's the most mysterious bug you've ever encountered? (2021)](https://lobste.rs/s/o5vohj/what_s_most_mysterious_bug_you_ve_ever)
 - [The Myth of the Genius Programmer (2009)](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [Instruction level just-in-time programming](https://blog.asrpo.com/jit_programming) ([Lobsters](https://lobste.rs/s/6muxzs/instruction_level_just_time_programming))
+- ["What even is code? Building a non-code coding interface" - Katie Bell (2021)](https://www.youtube.com/watch?v=UH0A2iujtY8)

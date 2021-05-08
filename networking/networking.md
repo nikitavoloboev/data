@@ -234,3 +234,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Kentik](https://www.kentik.com/) - Cloud-based, real-time network visibility and analytics solution for network and security operators. ([GitHub](https://github.com/kentik))
 - [NoRouter](https://norouter.io/) - (IP-over-Stdio) is the easiest multi-host & multi-cloud networking ever. ([Code](https://github.com/norouter/norouter))
 - [Proving 50-Year-Old Sorting Networks Optimal: Part 1 (2021)](https://jix.one/proving-50-year-old-sorting-networks-optimal-part-1/) ([Lobsters](https://lobste.rs/s/bgigl9/proving_50_year_old_sorting_networks))
+- [innisfree](https://github.com/conorsch/innisfree) - Expose local services via public IPv4 addresses, safely.
