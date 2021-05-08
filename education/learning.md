@@ -112,3 +112,4 @@
 - [Feynman: I am burned out and I'll never accomplish anything (1985)](https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html) ([HN](https://news.ycombinator.com/item?id=26931359))
 - [One Year of TILs (2021)](https://simonwillison.net/2021/May/2/one-year-of-tils/) ([HN](https://news.ycombinator.com/item?id=27017604))
 - [Explained from First Principles](https://explained-from-first-principles.com/) ([Code](https://github.com/KasparEtter/ef1p))
+- [Tinyschool](https://tiny.school/) - Curated learning paths that will help you be a better engineer.

@@ -118,6 +118,7 @@
 - [What is the most clever customer acquisition strategy you’ve ever seen? (2021)](https://twitter.com/patrick_oshag/status/1384995096660221953)
 - [7 key areas to focus when starting a consumer brand (2021)](https://twitter.com/jwmares/status/1387818691962753027)
 - [Headless Brands](https://otherinter.net/web3/headless-brands/)
+- [Importance of Sales team (2021)](https://twitter.com/paulstovell/status/1389881033470869504)
 
 ## Images
 

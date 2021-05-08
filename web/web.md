@@ -265,3 +265,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [IndieWebify.Me](https://indiewebify.me/) - Guide to getting you on the IndieWeb. ([Code](https://github.com/indieweb/indiewebify-me))
 - [Facts every Web Dev should know before they Burn Out](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
 - [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
+- [What’s the web dev equivalent of SICP? (2021)](https://news.ycombinator.com/item?id=27084854)
