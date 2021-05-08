@@ -95,3 +95,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Phantom](https://phantom.app/) - Digital wallet reimagined for DeFi & NFTs. Supports Solana and Ethereum.
 - [Blockfolio](https://blockfolio.com/) - Buy, sell & track your Bitcoin, Ethereum, & more.
 - [Ask HN: What are the resources for curated insights on Bitcoin, Ethereum etc.? (2021)](https://news.ycombinator.com/item?id=27073238)
+- [Crypto fundamentals and NFTs (2021)](https://docs.google.com/presentation/d/1sUpk0gbvRQelH0MUIOqjNeGe8nwRH4mhrhDHmI6qh4M/edit#slide=id.g442eb61d9d_0_0)
