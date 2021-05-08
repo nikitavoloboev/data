@@ -286,3 +286,4 @@
 - [A JavaScript optimizing compiler (2021)](https://medium.com/leaningtech/a-javascript-optimizing-compiler-3fd3f49bd071)
 - [In-depth exploration of JavaScript iteration protocols (2021)](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
 - [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems.
+- [Endo](https://github.com/endojs/endo) - Distributed secure JavaScript sandbox, based on SES.
