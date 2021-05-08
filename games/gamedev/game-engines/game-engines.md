@@ -73,6 +73,7 @@
 - [Oak](https://github.com/oakmound/oak) - Pure Go game engine.
 - [Forgotten Server](https://github.com/otland/forgottenserver) - Free and open-source MMORPG server emulator written in C++.
 - [Our Machinery](https://ourmachinery.com/) - New Kind of Game Engine.
+- [Ferret](https://github.com/Rua/ferret) - Doom-compatible game engine.
 
 ## Physics engines
 

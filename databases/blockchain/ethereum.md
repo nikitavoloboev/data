@@ -217,3 +217,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Lodestar](https://github.com/ChainSafe/lodestar) - TypeScript Implementation of the Beacon Chain. ([Web](https://lodestar.chainsafe.io/))
 - [Building GraphQL APIs on Ethereum (2021)](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
 - [Uniswap V3 Mainnet Launch (2021)](https://uniswap.org/blog/launch-uniswap-v3/) ([Tweet](https://twitter.com/Uniswap/status/1390012757970411520))
+- [EthereumKit](https://github.com/yuzushioh/EthereumKit) - Free, open-source Swift framework for easily interacting with the Ethereum.

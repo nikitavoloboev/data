@@ -42,3 +42,4 @@
 - [Best coffee alternatives](https://twitter.com/benjitaylor/status/1378757809592930304)
 - [Habitual coffee drinkers have a distinct pattern of brain functionalconnectivity (2021)](https://www.nature.com/articles/s41380-021-01075-4) ([HN](https://news.ycombinator.com/item?id=26987526))
 - [Artisan](https://artisan-scope.org/) - Software that helps coffee roasters record, analyze, and control roast profiles. ([Code](https://github.com/artisan-roaster-scope/artisan))
+- [Stumptown Coffee Roasters](https://www.stumptowncoffee.com/)

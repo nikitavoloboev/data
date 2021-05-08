@@ -800,6 +800,7 @@
 - [imgutil](https://github.com/buildpacks/imgutil) - Helpful utilities for working with images.
 - [rjson](https://github.com/WillAbides/rjson) - Fast JSON parser for go.
 - [fungo](https://github.com/rvolosatovs/fungo) - Generic, lazy, concurrent Go2 collections, result, maybe wrappers and all kinds of sweet functional goodness to operate upon them.
+- [tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions.
 
 ## Links
 
