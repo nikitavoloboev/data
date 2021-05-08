@@ -207,3 +207,4 @@
 - [The Map of Particle Physics | The Standard Model Explained (2021)](https://www.youtube.com/watch?v=mYcLuWHzfmE)
 - [Statistical mechanics from entanglement: The Eigenstate Thermalization Hypothesis (2021)](https://www.youtube.com/watch?v=p4fpzYD_WRU) ([Reddit](https://www.reddit.com/r/Physics/comments/n36b5f/statistical_mechanics_from_entanglement_the/))
 - [Are all forces illusions? (2020)](https://www.youtube.com/watch?v=YRgBLVI3suM)
+- [Intersection-free Rigid Body Dynamics (2021)](https://ipc-sim.github.io/rigid-ipc/)
