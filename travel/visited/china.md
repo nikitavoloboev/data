@@ -26,3 +26,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [China is betting that the West is in irreversible decline (2021)](https://www.economist.com/china/2021/04/03/china-is-betting-that-the-west-is-in-irreversible-decline) ([HN](https://news.ycombinator.com/item?id=26793337))
 - [Why I, as a non-Chinese person, support the People's Republic. (2021)](https://www.reddit.com/r/Sino/comments/lecrok/why_i_as_a_nonchinese_person_support_the_peoples/)
 - [5 Life lessons from 10 years in China (2021)](https://www.youtube.com/watch?v=vAcoaOr4qqY)
+- [China’s Social Credit System: Speculation vs. Reality (2021)](https://thediplomat.com/2021/03/chinas-social-credit-system-speculation-vs-reality/)

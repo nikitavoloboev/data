@@ -55,3 +55,4 @@
 - [opticl](https://github.com/slyrus/opticl) - Image processing library for Common Lisp.
 - [Features of Common Lisp (2008)](http://random-state.net/features-of-common-lisp.html) ([Lobsters](https://lobste.rs/s/qqelbo/features_common_lisp_2008))
 - [Python vs Common Lisp, workflow and ecosystem (2019)](https://lisp-journey.gitlab.io/pythonvslisp/) ([HN](https://news.ycombinator.com/item?id=27011942))
+- [CL-REPL](https://github.com/koji-kojiro/cl-repl) - Full-featured REPL implementation designed to work with Roswell.
