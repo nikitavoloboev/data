@@ -72,3 +72,4 @@
 - [SQLite performance tuning (2020)](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
 - [SQLite on the Jamstack (2021)](https://www.youtube.com/watch?v=912bOLolMIA)
 - [A Hitchiker's Guide to SQLite with Python (2021)](https://arctype.com/blog/hitchhikers-guide-sqlite-python/)
+- [wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions.
