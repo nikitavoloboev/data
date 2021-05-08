@@ -10,6 +10,7 @@
 - AI doesn't need to follow the human model, just like planes don't need to flap their wings like a bird. For most jobs AI will be very different from humans. Even when AI acts as human for entertainment I would imagine them being very different internally, as their job is to mimic aspects of human behaviors, not actually a human as a whole.
 - Almost all of machine learning is about representing data as vectors and performing linear and non-linear transformations in order to perform classification, regression, etc.
 - Most of ML is fitting models to data. To fit a model you minimize some error measure as a function of its real valued parameters, e.g. the weights of the connections in a neural network. The algorithms to do the minimization are based on gradient descent, which depends on derivatives, i.e. differential calculus.
+- [Learn optimization before studying machine learning if you really want to understand what's going on.](https://twitter.com/Adam235711/status/1391067131169574914)
 
 ## Links
 
@@ -461,3 +462,4 @@
 - [Reproducible Deep Learning (2021)](https://www.sscardapane.it/teaching/reproducibledl/) - PhD Course in Data Science. ([Code](https://github.com/sscardapane/reprodl2021))
 - [Unsupervised Contrastive Learning of Sound Event Representations (2020)](https://arxiv.org/abs/2011.07616) ([Code](https://github.com/edufonseca/uclser20/blob/main/README.md))
 - [Differentially Private Learning Needs Better Features (or Much More Data) (2021)](https://arxiv.org/abs/2011.11660)
+- [Bias, variance, and their relationship with machine learning algorithms explained (2021)](https://twitter.com/svpino/status/1390969728504565761)

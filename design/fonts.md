@@ -240,3 +240,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Demo for the swash crate](https://github.com/dfrg/swash_demo)
 - [Components AI - Typefaces](https://github.com/components-ai/typefaces) - Collection of Google Fonts typeface packages for three.js/react-three-fiber.
 - [NaNGlyphFilters](https://www.generativefonts.xyz/) - Generative Fonts & Scripts. ([Code](https://github.com/NaN-xyz/Glyph-Filters))
+- [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)

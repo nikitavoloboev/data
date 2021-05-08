@@ -208,3 +208,4 @@
 - [C++ Constructors, Memory, and Lifetimes (2021)](https://erikmcclure.com/blog/cpp-constructors-memory-and-lifetimes/)
 - [A map through the three major coroutine series (2021)](https://devblogs.microsoft.com/oldnewthing/?p=105178)
 - [Instant replay: Debugging C and C++ programs with rr (2021)](https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/) ([HN](https://news.ycombinator.com/item?id=27034588))
+- [C++, Swift, Rust, and stable ABIs (2021)](https://twitter.com/dgregor79/status/1391117707555196928)
