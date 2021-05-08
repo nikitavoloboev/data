@@ -33,7 +33,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [LinkLiar](https://github.com/halo/LinkLiar) - Link-Layer MAC spoofing GUI for macOS.
 - [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 - [Blurred](https://github.com/dwarvesf/Blurred) - macOS utility that helps reduce distraction by dimming your inactive noise.
-- [HackerNews.app](https://github.com/pcr910303/HackerNews) - HN macOS app based on official API.
+- [HackerNews.app](https://github.com/goranmoomin/HackerNews) - macOS HackerNews client that aims to be a Mac-assed Mac app. Written in Swift + AppKit.
 - [BluetoothConnector](https://github.com/lapfelix/BluetoothConnector) - Simple macOS CLI to connect/disconnect a Bluetooth device. Useful for AirPods or other Bluetooth headphones.
 - [Universal Tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any macOS app.
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - macOS and iOS application and framework to play with the Apple Push Notification service.

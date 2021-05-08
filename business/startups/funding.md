@@ -104,3 +104,4 @@
 - [Raising a VC Fund in Public (2021)](https://www.tango.vc/p/fundraise)
 - [Wefunder](https://wefunder.com/home) - Invest in Startups You Love - Equity Crowdfunding.
 - [Travis Kalanick on Fundraising (2009)](https://swooshing.wordpress.com/2009/03/19/startup-seed-raising-skillzzz/)
+- [Announcing investor syndicates like Coachella posters](https://twitter.com/balajis/status/1390779404712701953)

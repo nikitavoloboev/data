@@ -53,6 +53,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Hylke Visser](https://htdvisser.dev/)
 - [Ben Hoyt](https://benhoyt.com/cv/)
 - [Anatoly Yakovenko](http://aeyakovenko.github.io/resume.html)
+- [Andrew Carr](https://andrewnc.github.io/)
 
 ## Notes
 

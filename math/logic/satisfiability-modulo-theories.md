@@ -32,3 +32,4 @@
 - [Sat/SMT by Example (2021)](https://sat-smt.codes/SAT_SMT_by_example.pdf)
 - [Programming in Z3 by learning to think like a compiler](https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5) ([HN](https://news.ycombinator.com/item?id=27025289))
 - [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
+- [Fun examples of Z3 (2021)](https://twitter.com/andrew_n_carr/status/1390723195607552000)

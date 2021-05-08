@@ -49,3 +49,4 @@
 - [I can only think that modern front end development has failed (2021)](https://twitter.com/antirez/status/1378272801522597888) ([HN](https://news.ycombinator.com/item?id=26689239))
 - [Paperclip](https://github.com/crcn/paperclip) - Build UIs at the speed of thought. ([Web](https://paperclip.dev/))
 - [roxy](https://github.com/chronos-tachyon/roxy) - Frontend Proxy.
+- [LogRocket](https://logrocket.com/) - Modern Frontend Monitoring and Product Analytics.

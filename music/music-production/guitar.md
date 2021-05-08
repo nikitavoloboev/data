@@ -7,6 +7,7 @@
 ## Nice covers
 
 - [Nils Frahm - Me](https://www.youtube.com/watch?v=3hHB4YhnATQ)
+- [Johnny Cash - Hurt Cover (NIN) Fingerstyle](https://www.youtube.com/watch?v=8LU-kq19V3Y)
 
 ## Links
 
