@@ -46,3 +46,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [The Most Beautiful Shots in Movie History](https://www.youtube.com/watch?v=AA3bJ74uIPI)
 - [Seth Rogen Explains How to Write a Movie (2020)](https://www.youtube.com/watch?v=Ej7rfjORot4)
 - [Movie of the Night](https://www.movieofthenight.com/) - Movie/series recommendation engine.
+- [WeWatch](https://wewatchapp.xyz/) - Find what to watch with your friends.

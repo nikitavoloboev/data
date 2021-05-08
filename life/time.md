@@ -6,6 +6,10 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 
 ![](https://i.imgur.com/R8A6OUr.png)
 
+## Notes
+
+- [The greater a clock's accuracy, the more it increases entropy in the universe.](https://twitter.com/pkedrosky/status/1391027646193045511)
+
 ## Links
 
 - [How well are you investing your time?](https://www.youtube.com/watch?v=nH5K0yo-o1A)
@@ -22,3 +26,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Illusions of Time (2021)](https://www.youtube.com/watch?v=zHL9GP_B30E)
 - [Einstein and Hume’s philosophy of time](https://aeon.co/essays/what-albert-einstein-owes-to-david-humes-notion-of-time) ([HN](https://news.ycombinator.com/item?id=25810015))
 - [Timezone Bullshit (2021)](https://blog.wesleyac.com/posts/timezone-bullshit) ([HN](https://news.ycombinator.com/item?id=26087502))
+- [Measuring the Thermodynamic Cost of Timekeeping (2021)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021029)

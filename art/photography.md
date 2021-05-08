@@ -120,3 +120,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Nextcloud Photos](https://github.com/nextcloud/photos) - Your memories under your control.
 - [Dual Photography](https://graphics.stanford.edu/papers/dual_photography/)
 - [Total Relighting: Learning to Relight Portraits for Background Replacement (2021)](https://augmentedperception.github.io/total_relighting/) ([Tweet](https://twitter.com/debfx/status/1388215364497002500))
+- [My full two-year film and photography journey | equipment, pricing, & crippling social anxiety! (2020)](https://www.youtube.com/watch?v=iPV56hBnv4w)

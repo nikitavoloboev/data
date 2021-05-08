@@ -79,6 +79,7 @@
 - [FunDSP](https://github.com/SamiPerttu/fundsp) - Audio DSP library featuring an inline graph notation for audio processing.
 - [PunKt](https://github.com/pjagielski/punkt) - Live coding music library/environment for Kotlin.
 - [OpenMusic](https://github.com/openmusic-project/openmusic) - Visual programming language based on Lisp.
+- [Scribbletune](https://scribbletune.com/) - Create music with JavaScript. ([Code](https://github.com/scribbletune/scribbletune))
 
 ## Inspiration
 
