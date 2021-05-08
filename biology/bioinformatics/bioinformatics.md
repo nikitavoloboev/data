@@ -116,3 +116,4 @@
 - [BioModels](https://www.ebi.ac.uk/biomodels/) - Vast repository of mathematical models of biological and biomedical systems.
 - [noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust.
 - [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy.
+- [Role of Bioelectricity During Cell Proliferation in Different Cell Types (2020)](https://pubmed.ncbi.nlm.nih.gov/32714900/)

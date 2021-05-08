@@ -70,3 +70,4 @@
 - [Introducing dry-files (2021)](https://dry-rb.org/news/2021/05/04/introducing-dry-files/)
 - [Ruby Garbage Collection Deep Dive: Compaction (2021)](https://jemma.dev/blog/gc-compaction)
 - [Ruby Weekly](https://rubyweekly.com/) - Free, once–weekly e-mail round-up of Ruby news and articles.
+- [Ruby Garbage Collection with Jemma Issroff (2021)](https://railswithjason.simplecast.com/episodes/093-garbage-collection-with-jemma-issroff)
