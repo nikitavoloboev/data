@@ -62,3 +62,4 @@
 - [dm](https://github.com/krlmlr/dm) - Working with relational data models in R.
 - [Interactive Studio for Explanatory Model Analysis](https://github.com/ModelOriented/modelStudio)
 - [rOpenSci](https://ropensci.org/) - Open tools for open science. ([GitHub](https://github.com/ropensci))
+- [collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R.
