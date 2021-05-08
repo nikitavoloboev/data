@@ -397,6 +397,7 @@
 - [Event Sourcing in Python](https://github.com/johnbywater/eventsourcing)
 - [Optimesh](https://github.com/nschloe/optimesh) - Several mesh smoothing/optimization methods with one simple interface.
 - [pyeasyga](https://github.com/remiomosowon/pyeasyga) - Simple and easy-to-use implementation of a Genetic Algorithm library in Python.
+- [mimic](https://github.com/reinderien/mimic) - Abusing Unicode to create tragedy.
 
 ## Links
 

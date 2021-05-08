@@ -306,3 +306,4 @@
 - [How to Create Actions for Selected Text With the Selection API (2021)](https://css-tricks.com/how-to-create-actions-for-selected-text-with-the-selection-api/)
 - [Book insights: The New CSS Layout (2021)](https://world.hey.com/ahuth/book-insights-the-new-css-layout-7c2b49b0)
 - [CSS Card with hover animation and mobile fallback (2021)](https://www.youtube.com/watch?v=5DEq5cWNYt8)
+- [CSS Hell](https://csshell.dev/) - Collection of common CSS mistakes, and how to fix them. ([Code](https://github.com/Stefanye/CSSHell))

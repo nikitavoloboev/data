@@ -122,3 +122,4 @@
 - [Single Sign-On Solutions (2021)](https://www.reddit.com/r/selfhosted/comments/mu9gsm/single_signon_solutions/)
 - [AuthCompanion](https://github.com/pmprosociety/authcompanion) - Effortless, open source, token-based user management server - well suited for microservices and static website projects.
 - [Biscuit, the foundation for your authorization systems (2021)](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/)
+- [Soto Cognito Authentication Kit](https://github.com/soto-project/soto-cognito-authentication-kit) - Authenticating with AWS Cognito.

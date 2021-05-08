@@ -34,3 +34,4 @@
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - Decentralized Operating System for Zero-Knowledge Applications.
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - Virtual Machine for Zero-Knowledge Executions.
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - Software Development Kit (SDK) for Zero-Knowledge Transactions.
+- [wasmsnark](https://github.com/iden3/wasmsnark) - Fast zkSnark proof generator written in native Web Assembly.

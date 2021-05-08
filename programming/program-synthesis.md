@@ -17,3 +17,4 @@
 - [Program Synthesis Papers by Area](https://docs.google.com/spreadsheets/d/1F0MH949En1wn-iCDS6dunkIs8YdwxZjLkXsY7Xy2iro/htmlview)
 - [Syntia](https://github.com/RUB-SysSec/syntia) - Program synthesis based framework for deobfuscation. It uses instruction traces as an blackbox oracle to produce random input and output pairs.
 - [SpiegeLib](https://github.com/spiegelib/spiegelib) - Synthesizer Programming with Intelligent Exploration, Generation, and Evaluation Library.
+- [Cozy](https://github.com/CozySynthesizer/cozy) - Tool that synthesizes data structure implementations from simple high-level specifications.
