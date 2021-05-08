@@ -71,3 +71,4 @@
 - [Wikipedia @ 20: Stories of an Incomplete Revolution (2020)](https://direct.mit.edu/books/book/4956/Wikipedia-20Stories-of-an-Incomplete-Revolution)
 - [WikiCite data](https://github.com/wikicite/wikicite-data) - Extract, transform, and analyze bibliographic data from Wikidata dumps. ([Statistics](http://wikicite.org/statistics.html))
 - [Building a Knowledge Graph (Cheaply) (2021)](https://neeva.co/blog/building-a-kg-on-the-cheap)
+- [Knowledge Graphs with Inductive Logic Programming (2021)](https://blogs.sap.com/2021/05/06/knowledge-graphs-with-inductive-logic-programming-on-cml21/)

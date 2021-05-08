@@ -61,3 +61,4 @@
 - [Goblins: A transactional, distributed actor model environment](https://docs.racket-lang.org/goblins/) ([HN](https://news.ycombinator.com/item?id=26665387))
 - [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) - WYSIWYG program to create GUI applications for Racket.
 - [Building Web Services with Racket (2021)](https://www.youtube.com/watch?v=ZvwE6_MMJjM)
+- [Racket 8.1 (2021)](https://blog.racket-lang.org/2021/05/racket-v8-1.html) ([HN](https://news.ycombinator.com/item?id=27073879))

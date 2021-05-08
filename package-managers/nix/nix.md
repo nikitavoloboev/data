@@ -154,7 +154,7 @@
 - [nixbuild.net Action](https://github.com/nixbuild/nixbuild-action) - GitHub Action for using the nixbuild.net service.
 - [fromElisp](https://github.com/talyz/fromElisp) - Emacs Lisp reader in Nix.
 - [On-demand linked libraries for Nix (2020)](https://fzakaria.com/2020/11/17/on-demand-linked-libraries-for-nix.html) ([Lobsters](https://lobste.rs/s/nawo6d/on_demand_linked_libraries_for_nix))
-- [Towards a content-addressed model for Nix (2020)](https://www.tweag.io/blog/2020-09-10-nix-cas/)
+- [Towards a Content-Addressed Model for Nix (2020)](https://www.tweag.io/blog/2020-09-10-nix-cas/) ([HN](https://news.ycombinator.com/item?id=27070858))
 - [deploy-rs](https://github.com/serokell/deploy-rs) - Simple, multi-profile Nix-flake deploy tool.
 - [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix) - One-stop reference to build TodoMVC application inside the Nix world.
 - [Trustix: Distributed trust and reproducibility tracking for binary caches (2020)](https://www.tweag.io/blog/2020-12-16-trustix-announcement/) ([Code](https://github.com/tweag/trustix))

@@ -57,3 +57,4 @@
 - [Multi-Tier Compilation in GraalVM (2021)](https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402)
 - [JDK](https://github.com/openjdk/jdk) - Open-source reference implementations of Java. ([Web](https://openjdk.java.net/projects/jdk/)) ([GitHub](https://github.com/openjdk))
 - [Java: Automated API Testing with REST Assured (2021)](https://www.linkedin.com/learning/java-automated-api-testing-with-rest-assured)
+- [Java's records, Lombok's data, and Kotlin's data classes (2021)](https://nipafx.dev/java-record-semantics/) ([HN](https://news.ycombinator.com/item?id=27076976))

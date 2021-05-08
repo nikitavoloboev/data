@@ -91,3 +91,4 @@
 - [A CPU With Just One Instruction (2019)](https://www.youtube.com/watch?v=jRZDnetjGuo)
 - [v86](https://github.com/copy/v86/) - Emulates an x86-compatible CPU and hardware.
 - [RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
+- [Where the top of the stack is on x86 (2011)](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/) ([HN](https://news.ycombinator.com/item?id=27077173))

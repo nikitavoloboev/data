@@ -63,4 +63,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [How we hosted FOSDEM 2021 on Matrix (2021)](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix) ([HN](https://news.ycombinator.com/item?id=26142654))
 - [Hummingbard](https://hummingbard.com/hummingbard/introducing-hummingbard) - Decentralized communities built on Matrix. ([HN](https://news.ycombinator.com/item?id=26277602)) ([Code](https://github.com/hummingbard/hummingbard))
 - [Element Home](https://element.io/element-home) - Element app, but faster, personalized and under your control. ([Article](https://element.io/blog/element-home/)) ([HN](https://news.ycombinator.com/item?id=26311801))
-- [Pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem.
+- [Pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem. ([Article](https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network)) ([HN](https://news.ycombinator.com/item?id=27077660))

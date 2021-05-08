@@ -104,3 +104,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 - [Should Knowledge Be Free? (2020)](https://www.youtube.com/watch?v=PriwCi6SzLo&t=8s)
+- [DOAJ](https://www.doaj.org/) - Directory of Open Access Journals. ([HN](https://news.ycombinator.com/item?id=27073779))

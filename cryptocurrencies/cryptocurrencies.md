@@ -94,3 +94,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [The FTX Podcast](https://www.youtube.com/playlist?list=PLLDdsQN_5infQ9Ee-KPxcH3gvMIbymZEg) - Tristan Yver looks into the stories of emerging and established cryptocurrency companies and technologies.
 - [Phantom](https://phantom.app/) - Digital wallet reimagined for DeFi & NFTs. Supports Solana and Ethereum.
 - [Blockfolio](https://blockfolio.com/) - Buy, sell & track your Bitcoin, Ethereum, & more.
+- [Ask HN: What are the resources for curated insights on Bitcoin, Ethereum etc.? (2021)](https://news.ycombinator.com/item?id=27073238)
