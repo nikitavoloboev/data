@@ -119,3 +119,5 @@
 - [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - Minimal web browser for the distributed web.
 - [broz](https://github.com/antfu/broz) - Simple, frameless browser for screenshots.
 - [Wexond Base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron. ([Web](https://wexond.net/))
+- [Refresh](https://refresh.study/) - Fresh approach to the browser.
+- [Synth](https://synth.app/) - Browser From The Future.
