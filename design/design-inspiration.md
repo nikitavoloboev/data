@@ -478,6 +478,7 @@ Here are few more things I liked, design wise.
 - [JP Simard](https://www.jpsim.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
+- [Stefania Peter](https://schatten.hu/)
 - [Colin Dunn](http://colindunn.com/)
 - [Neven Mrgan](https://mrgan.com/)
 - [Chris Dzombak](https://www.dzombak.com/)

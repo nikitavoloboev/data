@@ -8,6 +8,7 @@
 - [Ashen](https://github.com/colinta/Ashen) - Framework for writing terminal applications in Swift.
 - [SwiftShell](https://github.com/kareman/SwiftShell) - Library for creating command-line applications and running shell commands in Swift.
 - [Spinner](https://github.com/dominicegginton/spinner) - Powerful Swift CLI Spinners.
+- [TerminalUI](https://github.com/chriseidhof/TerminalUI) - Way to build TUI apps with a layout system and API that's similar to SwiftUI.
 
 ## Animation
 

@@ -113,3 +113,4 @@
 - [focus-trap](https://github.com/focus-trap/focus-trap) - Trap focus within a DOM node.
 - [Incremental DOM](https://github.com/google/incremental-dom) - Library for building up DOM trees and updating them in-place when data changes.
 - [The Humble <img> Element And Core Web Vitals (2021)](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
+- [Update Canvas 2D API](https://github.com/fserb/canvas2D)
