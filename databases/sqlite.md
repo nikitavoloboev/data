@@ -71,3 +71,4 @@
 - [Hosting SQLite databases on GitHub Pages or any static file hoster (2021)](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/) ([Code](https://github.com/phiresky/sql.js-httpvfs)) ([HN](https://news.ycombinator.com/item?id=27016630))
 - [SQLite performance tuning (2020)](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
 - [SQLite on the Jamstack (2021)](https://www.youtube.com/watch?v=912bOLolMIA)
+- [A Hitchiker's Guide to SQLite with Python (2021)](https://arctype.com/blog/hitchhikers-guide-sqlite-python/)

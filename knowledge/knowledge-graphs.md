@@ -72,3 +72,4 @@
 - [WikiCite data](https://github.com/wikicite/wikicite-data) - Extract, transform, and analyze bibliographic data from Wikidata dumps. ([Statistics](http://wikicite.org/statistics.html))
 - [Building a Knowledge Graph (Cheaply) (2021)](https://neeva.co/blog/building-a-kg-on-the-cheap)
 - [Knowledge Graphs with Inductive Logic Programming (2021)](https://blogs.sap.com/2021/05/06/knowledge-graphs-with-inductive-logic-programming-on-cml21/)
+- [Knowledge Graphs ICLR 2021: Your guide to KG-related research in ML](https://mgalkin.medium.com/knowledge-graphs-iclr-2021-6e0b52c80686)
