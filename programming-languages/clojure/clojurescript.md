@@ -24,3 +24,4 @@
 - [hiccup-d3](https://github.com/rollacaster/hiccup-d3) - Provides D3 charts written in ClojureScript.
 - [ClojureScript Koans](http://clojurescriptkoans.com/)
 - [Awesome ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
+- [Lessons On Writing JavaScript and React From ClojureScript (2021)](https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/)

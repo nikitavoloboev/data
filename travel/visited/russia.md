@@ -136,3 +136,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Отец Дмитрий - Никакого ада нет (Кровосток prod.)](https://www.youtube.com/watch?v=zek9F1CqVvM)
 - [Михаил Светов стрим после отсидки (2021)](https://www.youtube.com/watch?v=-Y_a0hR9Ss4)
 - [Сергей Гуриев: Россия не обречена (2021)](https://www.youtube.com/watch?v=F28guTzKUvk)
+- [Как Путин использует День Победы 9 мая для удержания своей власти (2021)](https://www.youtube.com/watch?v=4XSOX0N86-s)
