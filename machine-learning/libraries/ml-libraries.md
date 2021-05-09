@@ -139,3 +139,4 @@
 - [DeepMatch](https://github.com/shenweichen/DeepMatch) - Deep matching model library for recommendations & advertising.
 - [Layout Parser](https://github.com/Layout-Parser/layout-parser) - Unified toolkit for Deep Learning Based Document Image Analysis. ([Web](https://layout-parser.github.io/))
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
+- [PySR](https://github.com/MilesCranmer/PySR) - Simple, fast, and parallelized symbolic regression in Python/Julia via regularized evolution and simulated annealing.
