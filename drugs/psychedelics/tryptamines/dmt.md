@@ -34,6 +34,7 @@
   - You are smoking DMT for some kind of reason. If you're going to make the decision to let go and allow the life changing experience to take place, then you should just go balls to the wall and smoke pure DMT, especially if you have pure DMT. Allow whatever happens to happen, that will be a part of the experience. I hope you gain the most you can from your experience my friend.
 - [Changa: Use a bong, gently light it so it catches fire then remove flame](https://www.reddit.com/r/DMT/comments/91ftx9/first_time_changa_how_do_i_smoke_it/)
 - [Changa smoking: Great guide](https://www.reddit.com/r/DMT/comments/arrimi/advice_about_doing_changa_dmt_for_the_first_time/)
+- [Harmaline compound inhibits the activity of the enzyme, monoamino-oxidase (MAO), which breaks down DMT. With other words, if you take a MAO inhibitor like harmaline and then take DMT, you get an extended DMT trip since the DMT is not broken down.](https://www.reddit.com/r/DMT/comments/n8hqny/alright_guys_im_throwing_in_the_towel_enough_dmt/)
 
 ## Links
 

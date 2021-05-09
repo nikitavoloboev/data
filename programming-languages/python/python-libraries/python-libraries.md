@@ -398,6 +398,7 @@
 - [Optimesh](https://github.com/nschloe/optimesh) - Several mesh smoothing/optimization methods with one simple interface.
 - [pyeasyga](https://github.com/remiomosowon/pyeasyga) - Simple and easy-to-use implementation of a Genetic Algorithm library in Python.
 - [mimic](https://github.com/reinderien/mimic) - Abusing Unicode to create tragedy.
+- [zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple.
 
 ## Links
 
