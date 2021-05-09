@@ -47,3 +47,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [How to Build a Life - The Atlantic](https://www.theatlantic.com/projects/how-build-life/) - Column about pointing yourself toward happiness.
 - [Ask HN: What small thing helped you appreciate life more? (2021)](https://news.ycombinator.com/item?id=26731289)
 - [99 Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
+- [Breaking Bad: The Value of Human Life](https://www.youtube.com/watch?v=V87lK_sUDDY)
