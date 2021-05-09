@@ -107,3 +107,4 @@
 - [A Checklist For First-Time Engineering Managers](https://blog.pragmaticengineer.com/checklist-for-first-time-managers/)
 - [Top Management Skills: SQL, Excel, Clear Communication, Story, Prioritization](https://www.craigkerstiens.com/2021/04/27/top-5-product-and-management-skills-sql-excel-clear-communication-story-prioritization/)
 - [What can managers do to help colleague that came back from a burnout to reintegrate better (2021)](https://twitter.com/pmarquees/status/1387704907025747970)
+- [Staying on the path to high performing teams (2018)](https://lethain.com/durably-excellent-teams/) ([HN](https://news.ycombinator.com/item?id=27092326))

@@ -289,3 +289,4 @@
 - [Transfer Learning in Natural Language Processing (2019)](https://naacl2019.org/program/tutorials/) ([Code](https://github.com/huggingface/naacl_transfer_learning_tutorial))
 - [Cohere](https://cohere.ai/) - Help computers understand language. ([Tweet](https://twitter.com/AidanNGomez/status/1389574000796479489))
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability tool designed to work exclusively with the transformers package.
+- [Whatlang](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. ([Web](https://whatlang.org/))

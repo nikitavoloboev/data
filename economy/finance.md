@@ -105,3 +105,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Balance](https://www.getbalance.com/) - B2B Payments for Merchants & Marketplaces.
 - [finance-dl](https://github.com/jbms/finance-dl) - Tools for automatically downloading/scraping personal financial data.
 - [Circle](https://www.circle.com/en/) - Payments infrastructure for internet businesses.
+- [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/) ([HN](https://news.ycombinator.com/item?id=27099536))
