@@ -9,10 +9,10 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp?si=i1mTFkg7SoiFNGwbkz1RNw) - [My Friend the Forest](https://open.spotify.com/track/7B0ofCHeQu2FoX7P28ZaPp?si=4DtqB8PfRAGecWdoqP1L1A) | [La](https://open.spotify.com/track/3OjWbbavamAsikThpDy2oP?si=eLa9dHH6TCaOvylRnp84fg) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8) | ["Berduxa"](https://www.youtube.com/watch?v=QWcTgkjANmc) | [Boiler Room x Dimensions Opening Concert Live Set](https://www.youtube.com/watch?v=xih8aiacRSk)
 - [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD?si=_mnATsOOStyjZgNHSxcL4g) - [Leaving](https://open.spotify.com/track/5kGMJTXKSDrFRGAgeLmavm?si=TytLQ8hWSBCGb6Z8TyT8pA) | [Glass](https://www.youtube.com/watch?v=l0yRNQj2_tc) | [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K?si=a9VJJ_6ETfGbUOrecNME_g)
 - [Odyn v Kanoe](https://open.spotify.com/artist/5fMNki1cAszN37EYRTVdOc?si=WeJ2i3o2S4qs0d8TX1wwjg) - [Пішы](https://open.spotify.com/track/2F4tpqfNGqNnw6lh0wiEd8?si=hIRCItLvQUG0nv0KLLXh_g) | [У мене немає дому](https://open.spotify.com/track/2TpNeeSqSlZSUNwbtf3Kej?si=9jeZUb43QbKGXur2rhTIfw) | [Вулиця](https://open.spotify.com/track/0iuFchkINYHdmpspMvoVkq?si=-jR8LBhqQ0mxLdpgP3DCCg) | [Жучка](https://open.spotify.com/track/1UOFxpQ5Krk9ky2lVAFX6o) | [Рибка](https://open.spotify.com/track/50b10MN2uPDtDPgQcjWw1d)
-- [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L?si=z0SiQAMIQweX-3aMN9UPfA) - [Murmuration](https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd?si=9a470aa69add460a)
+- [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) - [Murmuration](https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd?si=9a470aa69add460a)
 - [Cemeteries](https://open.spotify.com/artist/7s2GHSP1ToELf5MUqzgRqV?si=9O4N_itiTI2-N8CvHq2M2g) - [Sodus](https://open.spotify.com/track/1cyRoWGazsa8Vr5qlDfvPP?si=ExOC4zkQSgWl21bpQJVvJg)
 - [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM?si=dOIi6tVhRuq8dBOqsIP1ow) - [Love Songs For Robots](https://www.youtube.com/watch?v=EgPV9lhYPoA)
-- [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ?si=ae1wF-F0QralkmBLnKKnOg) - [UFOF Live](https://www.youtube.com/watch?v=rpnZtNTtuvU) | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo)
+- [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ?si=ae1wF-F0QralkmBLnKKnOg) - [UFOF Live](https://www.youtube.com/watch?v=rpnZtNTtuvU) | [Paul](https://open.spotify.com/track/1uP8UVMXcTJn28TbhfR2Wo) | [Parallels](https://open.spotify.com/track/1p2YbadXvxiEegwj9PgjHq)
 - [Vermont](https://open.spotify.com/artist/4g1pqB36gtNg1XBQ5iGFIV) - [Rückzug](https://open.spotify.com/track/7hbDg7brpECQeFwtrNiy8z)
 - [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=HjYFj5TzRlyc1yW4vnbLrw) - [willow](https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D?si=ugOv52xHQ1SDDEVr0WDTIw)
 - [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11?si=HEMfDbBgRnW08VqYOvPr5Q) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
@@ -222,6 +222,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Hania Rani - Esja (live)](https://www.youtube.com/watch?v=h4LDkrHGD0o)
 - [Скриптонит - Время возвращаться [Live]](https://www.youtube.com/watch?v=UEzl9JYkH5M)
 - [Taylor Swift - the 1 (studio sessions)](https://www.youtube.com/watch?v=eBJF2v23IAE)
+- [Big Thief - Parallels](https://www.youtube.com/watch?v=ISfCqVPukoI)
 
 ## Mixes
 

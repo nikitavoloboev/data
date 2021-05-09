@@ -42,3 +42,4 @@
 - [Polkadot Ethereum Bridge](https://github.com/Snowfork/polkadot-ethereum)
 - [Polkadot Validator Setup](https://github.com/w3f/polkadot-validator-setup)
 - [subxt](https://github.com/paritytech/substrate-subxt) - Submit extrinsics (transactions) to a substrate node via RPC.
+- [Banksy Network](https://github.com/Banksy-Finance/banksy) - Cross-chain NFT based on Substrate for Polkadot and Kusama.

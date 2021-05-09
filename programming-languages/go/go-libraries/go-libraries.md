@@ -200,6 +200,7 @@
 - [Litestream as Library](https://github.com/benbjohnson/litestream-library-example) - Example repository for embedding Litestream in a Go application.
 - [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
 - [tpg](https://github.com/tidwall/tpg) - Insanely tiny Postgres library for Go.
+- [dburl](https://github.com/xo/dburl) - Provides a standard, URL style mechanism for parsing and opening SQL database connection strings for Go.
 
 ## ML
 
@@ -801,6 +802,7 @@
 - [rjson](https://github.com/WillAbides/rjson) - Fast JSON parser for go.
 - [fungo](https://github.com/rvolosatovs/fungo) - Generic, lazy, concurrent Go2 collections, result, maybe wrappers and all kinds of sweet functional goodness to operate upon them.
 - [tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions.
+- [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML format.
 
 ## Links
 

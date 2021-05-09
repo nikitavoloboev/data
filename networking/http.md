@@ -121,3 +121,4 @@
 - [HTTP/2: 5 things every Enterprise Architect needs to know (2021)](https://www.redhat.com/architect/http2)
 - [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) ([HN](https://news.ycombinator.com/item?id=26984701))
 - [Forwarding HTTP/S Proxy](https://github.com/betalo-sweden/forwardingproxy) - Useful when one wants to have originating requests to a destination service from a set of well-known IPs.
+- [GoHFS](https://github.com/finzzz/gohfs) - Minimal HTTP File Server for pentesting written in Go.
