@@ -287,3 +287,4 @@
 - [In-depth exploration of JavaScript iteration protocols (2021)](https://www.nodejsdesignpatterns.com/blog/javascript-async-iterators/)
 - [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems.
 - [Endo](https://github.com/endojs/endo) - Distributed secure JavaScript sandbox, based on SES.
+- [How JavaScript works: 3 types of polymorphism (2021)](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1)
