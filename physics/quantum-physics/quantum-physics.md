@@ -61,3 +61,4 @@
 - [What's an equation in quantum physics that fascinates you the most? (2021)](https://www.reddit.com/r/AskPhysics/comments/mzr46g/whats_an_equation_in_quantum_physics_that/)
 - [Best online course for Introductory Quantum Mechanics? (2021)](https://www.reddit.com/r/AskPhysics/comments/n3tdsb/best_online_course_for_introductory_quantum/)
 - [Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope (2021)](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)
+- [What did Einstein mean by “spooky action at a distance”? (2021)](http://backreaction.blogspot.com/2021/05/what-did-einstein-mean-by-spooky-action.html) ([HN](https://news.ycombinator.com/item?id=27093168))

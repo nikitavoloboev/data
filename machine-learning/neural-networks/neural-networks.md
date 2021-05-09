@@ -223,4 +223,4 @@
 - [NASLib](https://github.com/automl/NASLib) - Neural Architecture Search (NAS) library for facilitating NAS research for the community by providing interfaces to several state-of-the-art NAS search spaces and optimizers.
 - [Neural Network Visualization](https://github.com/julrog/nn_vis) - Visualization of neural network architectures and parameters.
 - [Restricted Boltzmann Machine in Haskell](https://github.com/aeyakovenko/rbm)
-- [x-transformers](https://github.com/lucidrains/x-transformers) - Simple but complete full-attention transformer with a set of promising experimental features from various papers.
+- [X-Transformers](https://github.com/lucidrains/x-transformers) - Simple but complete full-attention transformer with a set of promising experimental features from various papers. ([HN](https://news.ycombinator.com/item?id=27089208))
