@@ -2,6 +2,7 @@
 
 ## Cover Tutorials
 
+- [Big Thief - Parallels - Guitar Lesson With Chords](https://www.youtube.com/watch?v=aidxwUYb91Q)
 - [БУМБОКС - ВАХТЕРАМ](https://www.youtube.com/watch?v=ot7KvOhLNgk)
 
 ## Nice covers

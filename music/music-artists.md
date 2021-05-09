@@ -223,6 +223,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Скриптонит - Время возвращаться [Live]](https://www.youtube.com/watch?v=UEzl9JYkH5M)
 - [Taylor Swift - the 1 (studio sessions)](https://www.youtube.com/watch?v=eBJF2v23IAE)
 - [Big Thief - Parallels](https://www.youtube.com/watch?v=ISfCqVPukoI)
+- [Big Thief: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=D0E5vMkDfOI)
 
 ## Mixes
 
