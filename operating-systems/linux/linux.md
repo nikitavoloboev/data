@@ -306,3 +306,4 @@
 - [BPF (Berkeley Packet Filter) Docs](https://www.kernel.org/doc/html/latest/bpf/index.html) - Technology used in certain computer operating systems for programs that need to, among other things, analyze network traffic.
 - [KVM Fuzz](https://github.com/klecko/kvm-fuzz) - Emulate and fuzz x86_64 binaries using KVM.
 - [BPF performance analysis at Netflix (2019)](https://www.youtube.com/watch?v=16slh29iN1g)
+- [Dropping cache didn’t drop cache (2021)](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html) ([HN](https://news.ycombinator.com/item?id=27086209))

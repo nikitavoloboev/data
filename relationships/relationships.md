@@ -68,3 +68,6 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Best Dating App for Dating w/ Intention (2021)](https://www.reddit.com/r/datingoverthirty/comments/n0pq64/best_dating_app_for_dating_w_intention/)
 - [In your experience, how long does it take for someone's "dark side" to come out in dating? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n2katv/in_your_experience_how_long_does_it_take_for/)
 - [Why does someone go from normal relationship behavior to breaking up with you over night? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n2vigt/why_does_someone_go_from_normal_relationship/)
+- [How big of a red flag is not asking follow up questions? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n7ggj8/how_big_of_a_red_flag_is_not_asking_follow_up/)
+- [What is intellectual stimulation to you? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n7jw58/what_is_intellectual_stimulation_to_you/)
+- [How to deal with my own red flags (2021)](https://www.reddit.com/r/datingoverthirty/comments/n7n49z/how_to_deal_with_my_own_red_flags/)

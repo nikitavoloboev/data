@@ -210,3 +210,4 @@
 - [Instant replay: Debugging C and C++ programs with rr (2021)](https://developers.redhat.com/blog/2021/05/03/instant-replay-debugging-c-and-c-programs-with-rr/) ([HN](https://news.ycombinator.com/item?id=27034588))
 - [C++, Swift, Rust, and stable ABIs (2021)](https://twitter.com/dgregor79/status/1391117707555196928)
 - [What can C++ do that Rust can’t? (2021)](https://www.reddit.com/r/rust/comments/n7rjfk/what_can_c_do_that_rust_cant_2021_edition/)
+- [Ask HN: Getting back to C++ and looking for ideas (2021)](https://news.ycombinator.com/item?id=27091044)
