@@ -1,5 +1,9 @@
 # [Apache Kafka](https://kafka.apache.org/)
 
+## Notes
+
+- [Same goes with all the Kafka usage, making development literally Kafkaesque. The data eventually flows through your microservice landscape, being eventually consistent and performance issues become a whole different nightmare. Yea, maybe I just didn't read enough of the documentation but maybe your 1500 users per month web-app doesn't need 7 microservices and Kafka as single source of truth, all hold together by 8 developers.](https://news.ycombinator.com/item?id=27092326)
+
 ## Links
 
 - [Confluent](https://www.confluent.io/) - Complete Event Streaming Platform For Apache Kafka.

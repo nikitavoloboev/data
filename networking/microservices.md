@@ -4,6 +4,8 @@
 
 - [Microservices; the act of replacing every SQL query with a gRPC call.](https://twitter.com/davecheney/status/1296033304756404225)
 - [The single most effective thing you can do to improve the reliability, performance, and coherence of a distributed system is to minimize the required coördination and communication between nodes](https://twitter.com/peterbourgon/status/1300092429018820616)
+- [Don't solve problems you don't have. Most companies think they need microservices, for example. It is an extremely expensive proposition. Debugging anything becomes a nightmare and developer ergonomics are shot to hell. There is a reason why we stayed away from distributed services in the past. What, you think I could not have stitched together 20 different Python services on my machine in 2009 and put my productivity into paralysis? Don't fool yourself about things like Docker making things easier. It doesn't help people reason about distributed systems.](https://news.ycombinator.com/item?id=27092326)
+- [Instagram? Monolith. 12 people when sold to Facebook. WhatsApp? Monolith. 32 people when sold to Facebook. StackOverflow. Monolith, with a lite SQL ORM for highly optimized queries.](https://news.ycombinator.com/item?id=27092326)
 
 ## Links
 
