@@ -84,3 +84,4 @@
 - [tailbuild](https://github.com/calebporzio/tailbuild) - Simple command to build a Tailwind CSS file for your project (with JIT compiling and watching).
 - [Tailwind JIT as a CDN](https://github.com/beyondcode/tailwind-jit-api) - Use the full power of Tailwind CSS' new JIT compiler by including one script tag to your HTML. ([Demo](https://twitter.com/marcelpociot/status/1387513006351953920))
 - [Tailwind Mobile](https://github.com/tailwind-mobile/tailwind-mobile) - Mobile UI components made with Tailwind CSS. ([Web](https://tailwind-mobile.com/))
+- [Sexism, Racism, Toxic Positivity, and TailwindCSS (2021)](https://dev.to/cher/sexism-racism-toxic-positivity-and-tailwindcss-cil)

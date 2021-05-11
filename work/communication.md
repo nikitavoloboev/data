@@ -105,3 +105,4 @@
 - [Ask HN: How do you run better meetings? (2021)](https://news.ycombinator.com/item?id=26856387)
 - [A practical guide to reducing loneliness (2021)](https://burgesspowell.medium.com/a-practical-guide-for-reducing-loneliness-right-now-f02f8c3035bd) ([HN](https://news.ycombinator.com/item?id=26943140))
 - [How To Breathe Correctly When Speaking (2017)](https://www.youtube.com/watch?v=bkY9C7VX8ww)
+- [Criticism pushes the web forward (2021)](https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/)

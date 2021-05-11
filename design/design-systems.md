@@ -119,3 +119,4 @@
 - [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
 - [Specify](https://specifyapp.com/) - One Design API, for all your design system tools. ([Specify Parsers](https://github.com/Specifyapp/parsers))
 - [Why I Build Design Systems with Stitches and Radix (2021)](https://ped.ro/blog/why-i-build-design-systems-with-stitches-and-radix) ([Tweet](https://twitter.com/peduarte/status/1388040430860701696))
+- [Microsoft Inclusive Design](https://www.microsoft.com/design/inclusive/)

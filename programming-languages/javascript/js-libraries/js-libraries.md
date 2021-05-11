@@ -58,7 +58,7 @@
 - [Anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
-- [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding.
+- [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding. ([Web](https://ptsjs.org/))
 - [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight (<2kb gzipped) vanilla JS plugin to create smooth & beautiful animations when you scroll.
 - [Flipping](https://github.com/davidkpiano/flipping) - Library (and collection of adapters) for implementing FLIP transitions.
 - [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
