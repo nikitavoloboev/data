@@ -110,3 +110,4 @@
 - [Founders' Co-op](https://www.founderscoop.com/) - Seattle Venture Capital.
 - [First Rays VC](https://www.firstraysvc.com/)
 - [Altair Capital](https://www.altair-cap.com/)
+- [Tango.vc](https://www.tango.vc/) - Venture capital fund investing in seed-stage ML and Robotics.

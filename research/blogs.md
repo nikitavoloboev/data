@@ -143,3 +143,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Generating social media images for your blog posts (2021)](https://twitter.com/danieljcafonso/status/1387060020274241536)
 - [Github Blog](https://github.com/renatorib/github-blog) - Turn your github issues into a CMS for your blog.
 - [Awesome Tech Blogs](https://tech-blogs.dev/) ([Code](https://github.com/markodenic/awesome-tech-blogs))
+- [Tips to start a Blog (2021)](https://twitter.com/katie_hockman/status/1392128759508111362)

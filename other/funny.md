@@ -15,7 +15,6 @@
 - [I think being funny is often about looking at things in different ways.](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
 - [The one element that makes a person laugh is surprise (positive one hopefully). So to bring to their attention something that is true, but also that they did not think about. When a human is surprised with a thought that they recognize as true, but had not thought about it, they will laugh.](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
 - [Practice and perspective makes you more funny. Who are you favorite comedians? Why do you find them funny? What is their perspective on life? Can you imagine how many times theyve done a gig and its absolutely flopped but they kept going regardless?](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
-- [Put it all into Doge Money](https://twitter.com/DanOBrienPoker/status/1391601685844291584)
 
 ## Links
 
@@ -91,3 +90,4 @@
 - [Девушка отругала парня на людях (2021)](https://www.youtube.com/watch?v=F820EN5143M)
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) ([HN](https://news.ycombinator.com/item?id=26766722))
 - [Russian kid screaming blyat (minecraft)](https://www.youtube.com/watch?v=Gm5EBnLTG90)
+- [Put it all into Doge Money](https://twitter.com/DanOBrienPoker/status/1391601685844291584)

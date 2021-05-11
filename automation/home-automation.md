@@ -45,3 +45,4 @@
 - [Alarmo](https://github.com/nielsfaber/alarmo) - Easy to use alarm system integration for Home Assistant.
 - [Home Assistant CLI](https://github.com/home-assistant-ecosystem/home-assistant-cli)
 - [HA Floorplan](https://github.com/ExperienceLovelace/ha-floorplan) - Floor plan for Home Assistant.
+- [Decluttering Card](https://github.com/custom-cards/decluttering-card) - Reuse multiple times the same card configuration with variables to declutter your config.
