@@ -49,3 +49,4 @@
 - [Kafka-Penguin](https://github.com/oslabs-beta/kafka-penguin) - Easy-to-use, lightweight KafkaJS library for message processing.
 - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 - [Google Pub/Sub Lite for Kafka Users (2021)](https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5)
+- [Teach Yourself Apache Kafka and Python with a Jupyter Notebook](https://aiven.io/blog/teach-yourself-apache-kafka-and-python-with-a-jupyter-notebook)

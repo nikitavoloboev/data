@@ -62,3 +62,4 @@
 - [Formalization of the Calculus of Constructions in Coq](https://github.com/coq-contribs/coq-in-coq)
 - [Coq Library of Undecidability Proofs](https://github.com/uds-psl/coq-library-undecidability)
 - [Perennial](https://github.com/mit-pdos/perennial) - Verifying concurrent crash-safe systems.
+- [Coq Platform](https://github.com/coq/platform) - Multi platform setup for Coq, Coq libraries and tools.

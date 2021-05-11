@@ -74,6 +74,7 @@
 - [Forgotten Server](https://github.com/otland/forgottenserver) - Free and open-source MMORPG server emulator written in C++.
 - [Our Machinery](https://ourmachinery.com/) - New Kind of Game Engine.
 - [Ferret](https://github.com/Rua/ferret) - Doom-compatible game engine.
+- [Wicked Engine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance. ([Web](https://wickedengine.net/))
 
 ## Physics engines
 

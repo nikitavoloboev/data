@@ -97,3 +97,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Leet Resumes](https://leetresumes.com/) - Great Technical Resumes Written For Free.
 - [LaTex CV and Resume Collection](https://github.com/jankapunkt/latexcv)
 - [Bragdocs](https://www.bragdocs.com/) - Record and show your proof of your work.
+- [How to write a resume that converts](https://www.productlessons.xyz/article/product-manager-resume-with-examples-keywords) ([HN](https://news.ycombinator.com/item?id=27112542))

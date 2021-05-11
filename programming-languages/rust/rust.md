@@ -472,3 +472,4 @@
 - [A primer on code generation in Cranelift (2021)](https://blog.benj.me/2021/02/17/cranelift-codegen-primer/)
 - [flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages.
 - [refcounts (2021)](https://blog.yoshuawuyts.com/refcounts/)
+- [The Plan for the Rust 2021 Edition](https://blog.rust-lang.org/2021/05/11/edition-2021.html) ([HN](https://news.ycombinator.com/item?id=27118997))

@@ -122,3 +122,4 @@
 - [CSRF, CORS, and HTTP Security headers Demystified](https://blog.vnaik.com/posts/web-attacks.html) ([HN](https://news.ycombinator.com/item?id=26984701))
 - [Forwarding HTTP/S Proxy](https://github.com/betalo-sweden/forwardingproxy) - Useful when one wants to have originating requests to a destination service from a set of well-known IPs.
 - [GoHFS](https://github.com/finzzz/gohfs) - Minimal HTTP File Server for pentesting written in Go.
+- [Dolores](https://github.com/hauleth/dolores) - Local development HTTPS proxy server meant to simplify working with multi-domain applications by serving each application on separate domain under .localhost TLD.

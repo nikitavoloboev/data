@@ -307,3 +307,4 @@
 - [KVM Fuzz](https://github.com/klecko/kvm-fuzz) - Emulate and fuzz x86_64 binaries using KVM.
 - [BPF performance analysis at Netflix (2019)](https://www.youtube.com/watch?v=16slh29iN1g)
 - [Dropping cache didn’t drop cache (2021)](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html) ([HN](https://news.ycombinator.com/item?id=27086209))
+- [Praise for Alpine Linux (2021)](https://portal.drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi) ([HN](https://news.ycombinator.com/item?id=27104898))

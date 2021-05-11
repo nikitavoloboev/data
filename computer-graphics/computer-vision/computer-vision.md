@@ -293,3 +293,4 @@
 - [MLP-Mixer: An all-MLP Architecture for Vision (2021)](https://arxiv.org/abs/2105.01601) ([Code](https://github.com/lucidrains/mlp-mixer-pytorch)) ([Code](https://github.com/rishikksh20/MLP-Mixer-pytorch))
 - [Self-attention building blocks for computer vision applications in PyTorch](https://github.com/The-AI-Summer/self-attention-cv)
 - [LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference](https://github.com/facebookresearch/LeViT)
+- [Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary (2021)](https://arxiv.org/abs/2104.14631)

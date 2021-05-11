@@ -150,3 +150,4 @@
 - [Modern C and What We Can Learn from It (2021)](https://www.youtube.com/watch?v=QpAhX-gsHMs) ([HN](https://news.ycombinator.com/item?id=27059976))
 - [The price of dynamic memory: Allocation (2020)](https://johnysswlab.com/the-price-of-dynamic-memory-allocation/)
 - [The Byte Order Fiasco (2021)](https://justine.lol/endian.html) ([Lobsters](https://lobste.rs/s/celegm/byte_order_fiasco))
+- [snmalloc](https://github.com/microsoft/snmalloc) - High-performance allocator.

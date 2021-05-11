@@ -42,3 +42,4 @@
 - [Tesseract, 4th Dimension Made Easy - Carl Sagan](https://www.youtube.com/watch?v=N0WjV6MmCyM)
 - [New Approach to Arakelov Geometry (2007)](https://arxiv.org/abs/0704.2030) ([Reddit](https://www.reddit.com/r/math/comments/ms2a7m/durov_new_approach_to_arakelov_geometry/))
 - [A Satisfying Result (2021)](https://cacm.acm.org/magazines/2021/5/252165-a-satisfying-result/fulltext#.YIeLaVxXfk0.twitter)
+- [Geometry Processing Course](https://github.com/alecjacobson/geometry-processing)

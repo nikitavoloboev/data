@@ -79,3 +79,4 @@
 - [Science and Engineering for Learning Robots (2021)](https://blog.evjang.com/2021/03/learning-robots.html)
 - [Deep Reinforcement Learning for Robotic Grasping from Octrees](https://github.com/AndrejOrsula/drl_grasping)
 - [Kidnapped Robot Problem (2021)](https://www.youtube.com/watch?v=8a3KX2InUqY)
+- [How Robots Can Learn End-to-End From Data (2021)](https://medium.com/@sergey.levine/how-robots-can-learn-end-to-end-from-data-3d879b0a2ba1)

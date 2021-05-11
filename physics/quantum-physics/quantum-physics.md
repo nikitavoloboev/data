@@ -62,3 +62,4 @@
 - [Best online course for Introductory Quantum Mechanics? (2021)](https://www.reddit.com/r/AskPhysics/comments/n3tdsb/best_online_course_for_introductory_quantum/)
 - [Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope (2021)](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)
 - [What did Einstein mean by “spooky action at a distance”? (2021)](http://backreaction.blogspot.com/2021/05/what-did-einstein-mean-by-spooky-action.html) ([HN](https://news.ycombinator.com/item?id=27093168))
+- [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time (2021)](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)

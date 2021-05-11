@@ -63,3 +63,4 @@
 - [Interactive Studio for Explanatory Model Analysis](https://github.com/ModelOriented/modelStudio)
 - [rOpenSci](https://ropensci.org/) - Open tools for open science. ([GitHub](https://github.com/ropensci))
 - [collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R.
+- [Epidemiologist R Handbook](https://epirhandbook.com/) - R for applied epidemiology and public health. ([HN](https://news.ycombinator.com/item?id=27106489))

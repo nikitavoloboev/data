@@ -15,3 +15,4 @@
 - [How to Relocate Your Startup to Estonia (2021)](https://twitter.com/adekunle_idlas/status/1386333433044115456)
 - [Saving for Retirement in EU (2021)](https://www.reddit.com/r/eupersonalfinance/comments/mzj8u2/saving_for_retirement_in_eu/)
 - [The European System of Monopoly (2021)](https://thecounterbalance.substack.com/p/the-european-system-of-monopoly) ([HN](https://news.ycombinator.com/item?id=26989282))
+- [Europe's 70 startup unicorns (2021)](https://sifted.eu/articles/europe-unicorns-2021/)

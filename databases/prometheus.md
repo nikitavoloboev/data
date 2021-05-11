@@ -43,3 +43,4 @@
 - [Prometheus and Aegis (2021)](https://christine.website/blog/aegis-prometheus-2021-04-05)
 - [karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 - [pint](https://github.com/cloudflare/pint) - Prometheus rule linter.
+- [ML data and model drift in Prometheus and Grafana](https://boxkite.ml/en/latest/using/)
