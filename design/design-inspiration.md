@@ -145,6 +145,7 @@ Here are few more things I liked, design wise.
 - [Joel Hooks](https://joelhooks.com/) ([Code](https://github.com/joelhooks/joelhooks-com))
 - [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
+- [George Kedenburg III](https://gk3.website/)
 - [Alistair Shepherd](https://alistairshepherd.uk/)
 - [Surma](https://surma.dev/) ([Code](https://github.com/surma/surma.dev))
 - [Alain](https://alain.xyz/)
