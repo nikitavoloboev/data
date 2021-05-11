@@ -102,7 +102,7 @@
 - [GraphQL Spec](https://spec.graphql.org/) ([Code](https://github.com/graphql/graphql-spec))
 - [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - Light and simple utility for adding GraphQL to React components. Ships with an extensible, composable cache invalidation mechanism.
 - [GraphQL directives are underrated (2020)](https://blog.logrocket.com/graphql-directives-are-underrated/)
-- [Genql](https://genql.now.sh/) - Type safe GraphQL query builder. ([Code](https://github.com/remorses/genql))
+- [Genql](https://genql.now.sh/) - Type safe GraphQL query builder. ([Code](https://github.com/remorses/genql)) ([Tweet](https://twitter.com/daniel2color/status/1392085494520074245))
 - [Slash GraphQL](https://dgraph.io/slash-graphql) - Fully managed GraphQL backend service. Fastest way to build GraphQL apps. ([HN](https://news.ycombinator.com/item?id=25315698))
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps.
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use. ([Example of use](https://github.com/jeffwillette/graphql-go-pets-example))
@@ -212,3 +212,4 @@
 - [Supercharging file-based content with GraphQL (2021)](https://tina.io/blog/using-graphql-with-the-filesystem/)
 - [GraphQL Bench](https://github.com/hasura/graphql-bench) - Super simple tool to benchmark GraphQL queries.
 - [GraphQL Code Generator plugin for generating Go](https://github.com/ctison/graphql-codegen-golang)
+- [graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state.

@@ -54,7 +54,6 @@
 - [LokiJS](https://github.com/techfort/LokiJS) - Document oriented database written in JavaScript.
 - [terrier](https://github.com/cmu-db/terrier) - Carnegie Mellon's new database system project that is replacing [Peloton](https://github.com/cmu-db/peloton).
 - [Nebula Graph](https://github.com/vesoft-inc/nebula) - Open-source graph database capable of hosting super large scale graphs with dozens of billions of vertices (nodes) and trillions of edges, with milliseconds of latency. ([HN](https://news.ycombinator.com/item?id=22051271)) ([Active Fork](https://github.com/vesoft-inc/nebula-graph))
-- [](https://github.com/vesoft-inc/nebula-graph)
 - [SeaTable](https://seatable.io/) - Online lightweight database with a spreadsheet interface. ([Code](https://github.com/seatable/seatable))
 - [Ceph](https://github.com/ceph/ceph) - Distributed object, block, and file storage platform.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
