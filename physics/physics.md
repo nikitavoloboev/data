@@ -209,3 +209,4 @@
 - [Are all forces illusions? (2020)](https://www.youtube.com/watch?v=YRgBLVI3suM)
 - [Intersection-free Rigid Body Dynamics (2021)](https://ipc-sim.github.io/rigid-ipc/)
 - [Gravity is a double copy of other forces (2021)](https://www.quantamagazine.org/how-gravity-is-a-double-copy-of-other-forces-20210504/) ([HN](https://news.ycombinator.com/item?id=27094179))
+- [Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)

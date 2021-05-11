@@ -38,3 +38,4 @@
 - [A look into Automatic Reference Counting (2021)](https://neelbakshi.medium.com/a-look-into-automatic-reference-counting-b17e9539d34f)
 - [Papers for heap memory analysis and leak detection (2021)](https://github.com/grin-compiler/ghc-whole-program-compiler-project/issues/5)
 - [Memory Management Landscape](https://github.com/plasma-umass/memory-landscape)
+- [Summarizing Garbage Collection (2016)](https://eschew.wordpress.com/2016/09/02/summarizing-gc/)
