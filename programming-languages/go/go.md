@@ -473,3 +473,4 @@ Go promotes composition over inheritance.
 - [Best examples of a Go client (2021)](https://www.reddit.com/r/golang/comments/n2r2je/best_examples_of_a_go_client/)
 - [The Ultimate Guide to JSON in Go (2021)](https://qvault.io/golang/json-golang/)
 - [Branchless Coding in Go (2021)](https://mattnakama.com/blog/go-branchless-coding/) ([HN](https://news.ycombinator.com/item?id=27038606))
+- [pprof++: A Go Profiler with Hardware Performance Monitoring (2021)](https://eng.uber.com/pprof-go-profiler/)
