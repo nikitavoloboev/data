@@ -474,3 +474,4 @@ Go promotes composition over inheritance.
 - [The Ultimate Guide to JSON in Go (2021)](https://qvault.io/golang/json-golang/)
 - [Branchless Coding in Go (2021)](https://mattnakama.com/blog/go-branchless-coding/) ([HN](https://news.ycombinator.com/item?id=27038606))
 - [pprof++: A Go Profiler with Hardware Performance Monitoring (2021)](https://eng.uber.com/pprof-go-profiler/)
+- [Calling C code from go (2018)](https://karthikkaranth.me/blog/calling-c-code-from-go/)
