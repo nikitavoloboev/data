@@ -93,3 +93,4 @@
 - [nbodykit](https://github.com/bccp/nbodykit) - Analysis kit for large-scale structure datasets, the massively parallel way.
 - [Dataset Inference: Ownership Resolution in Machine Learning (2021)](https://arxiv.org/abs/2104.10706) ([Tweet](https://twitter.com/NicolasPapernot/status/1387842242744832004))
 - [Diffgram](https://diffgram.com/) - Data Labeling Software for Machine Learning. ([Code](https://github.com/diffgram/diffgram))
+- [Data Profiler](https://github.com/capitalone/DataProfiler) - Python library designed to make data analysis, monitoring and sensitive data detection easy.

@@ -18,3 +18,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Next Season Of](https://next-season-of.com/) - Shows when the next season of your TV show premieres.
 - [Compare TV Show Ratings](https://phiresky.github.io/tv-show-ratings/) ([Code](https://github.com/phiresky/tv-show-ratings))
 - ["How I Wrote Breaking Bad"](https://www.youtube.com/watch?v=FrRBZNpPAfk)
+- [How I Wrote True Detective](https://www.youtube.com/watch?v=2hPn-23N8q4)
