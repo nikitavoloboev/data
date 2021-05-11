@@ -76,3 +76,4 @@
 - [TinyExpr](https://github.com/codeplea/tinyexpr) - Small recursive descent parser and evaluation engine for math expressions. ([Web](https://codeplea.com/tinyexpr))
 - [HIDAPI](https://github.com/libusb/hidapi) - Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac and Windows.
 - [Minicoro](https://github.com/edubart/minicoro) - Single-file library for using asymmetric coroutines in C.
+- [utf8.h](https://github.com/sheredom/utf8.h) - Simple one header solution to supporting utf8 strings in C and C++.
