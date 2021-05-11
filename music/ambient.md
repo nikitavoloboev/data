@@ -18,3 +18,4 @@
 - [Noizer](https://noizer.vercel.app/) - Ambient sounds like Noisli, but free.
 - [VirtOcean](https://virtocean.com/) - Sea and ocean sounds noise generator.
 - [Lofi.cafe](https://lofi.cafe/) - Retro themed website for LoFi music streaming. ([HN](https://news.ycombinator.com/item?id=26805702))
+- [Study Music](https://eukaryotewritesblog.com/study-music/)

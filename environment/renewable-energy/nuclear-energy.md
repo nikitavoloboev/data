@@ -22,3 +22,4 @@
 - [Why is nuclear fusion so hard? (2018)](http://blog.sigfpe.com/2018/12/why-is-nuclear-fusion-so-hard.html)
 - [Why has nuclear power been a flop? (2021)](https://rootsofprogress.org/devanney-on-the-nuclear-flop)
 - [Born secret – the heavy burden of bomb physics (2021)](https://www.nature.com/articles/d41586-021-01024-9) ([HN](https://news.ycombinator.com/item?id=26867366))
+- [What Does a Nuclear Bomb Explosion Feel Like?](https://video.vice.com/en_uk/video/motherboard-atomic-soldiers/5b7ed514be40777a7f330631)

@@ -29,3 +29,4 @@
 - [Anyone here a social entrepreneur i.e. placing social impact above profit? (2020)](https://news.ycombinator.com/item?id=24168902)
 - [5k people have pledged to give 10%+ of their income to effective charities (2020)](https://www.givingwhatwecan.org/post/2020/09/5000-people-have-pledged/) ([HN](https://news.ycombinator.com/item?id=24604594))
 - [Effective Altruism Is Not Effective (2021)](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html) ([HN](https://news.ycombinator.com/item?id=26813763))
+- [Effective Altruism](https://www.effectivealtruism.org/) - Using reason and evidence to do the most good.

@@ -187,3 +187,4 @@
 - [Laurn](https://github.com/baloo/laurn) - Run a dev-environment in a pure-ish nix environment.
 - [nix-filter](https://github.com/numtide/nix-filter) - Small self-container source filtering lib.
 - [nix-eval-lsp](https://github.com/aaronjanse/nix-eval-lsp) - Nix language server that evaluates code.
+- [Flakes are such an obviously good thing: ...but the design and development process should be better (2021)](https://grahamc.com/blog/flakes-are-an-obviously-good-thing) ([Lobsters](https://lobste.rs/s/ipvgon/flakes_are_such_obviously_good_thing))

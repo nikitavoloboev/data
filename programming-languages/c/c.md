@@ -149,3 +149,4 @@
 - [Type-safe generic data structures in C (2020)](https://iafisher.com/blog/2020/06/type-safe-generics-in-c)
 - [Modern C and What We Can Learn from It (2021)](https://www.youtube.com/watch?v=QpAhX-gsHMs) ([HN](https://news.ycombinator.com/item?id=27059976))
 - [The price of dynamic memory: Allocation (2020)](https://johnysswlab.com/the-price-of-dynamic-memory-allocation/)
+- [The Byte Order Fiasco (2021)](https://justine.lol/endian.html) ([Lobsters](https://lobste.rs/s/celegm/byte_order_fiasco))

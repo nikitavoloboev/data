@@ -161,3 +161,4 @@
 - [Learning Web Assembly System Interface (WASI)](https://github.com/danbev/learning-wasi)
 - [aWsm](https://github.com/gwsystems/aWsm) - WebAssembly ahead-of-time compiler and runtime. Focuses on generating fast code, simplicity, and portability.
 - [wasm-run](https://github.com/wasm3/node-wasm-run) - Run arbitrary WASM/WASI files.
+- [Hit the Ground Running: Wasm Snapshots for Fast Start Up (2021)](https://fitzgeraldnick.com/2021/05/10/wasm-summit-2021.html)

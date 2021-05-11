@@ -51,6 +51,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [nextein](https://github.com/elmasse/nextein) - Static site generator with markdown + react for Next.js. ([Web](https://nextein.elmasse.io/))
 - [Styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [clayoven](https://github.com/artagnon/clayoven) - Beautiful website generator aimed at math-heavy sites.
+- [Ema](https://ema.srid.ca/) - Next-gen Haskell static site generator. ([Code](https://github.com/srid/ema))
 
 ## Notes
 

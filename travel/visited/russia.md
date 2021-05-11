@@ -138,3 +138,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Михаил Светов стрим после отсидки (2021)](https://www.youtube.com/watch?v=-Y_a0hR9Ss4)
 - [Сергей Гуриев: Россия не обречена (2021)](https://www.youtube.com/watch?v=F28guTzKUvk)
 - [Как Путин использует День Победы 9 мая для удержания своей власти (2021)](https://www.youtube.com/watch?v=4XSOX0N86-s)
+- [Как появилась Meduza и как ее признали иностранным агентом (2021)](https://podcasts.google.com/feed/aHR0cHM6Ly96YXB1c2t6YXZ0cmEubGlic3luLmNvbS9yc3M/episode/MDdiNGRjNTMtZDRlZC00ODMyLThmYjUtMWNlMjk4YTZiMjk5?ep=14)

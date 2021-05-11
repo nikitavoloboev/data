@@ -31,6 +31,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bad-faith behavior by a _single person_ can seriously drain gumption.](https://twitter.com/andy_matuschak/status/1378762483440050177)
 - [It is difficult to get a person to understand something, when their salary depends on their not understanding it.](https://twitter.com/awilkinson/status/1381620877146562568)
 - [When your existence outside the workplace is devoid of meaning, you’ll confuse your place of work with your entire life.](https://twitter.com/dvassallo/status/1386831102359179264)
+- Play stupid games win stupid prizes.
 
 ## Other
 

@@ -125,3 +125,4 @@
 - [Kolmogorov Complexity: Extensions and Applications (2021)](https://blog.neotree.uber.space/posts/kolmogorov-complexity) ([HN](https://news.ycombinator.com/item?id=27043153))
 - [Automata Modulo Theories (2021)](https://cacm.acm.org/magazines/2021/5/252180-automata-modulo-theories/fulltext)
 - [Coding Coach - YouTube](https://www.youtube.com/c/CodingCoach/videos)
+- [VScape: Assessing and Escaping Virtual Call Protections (2021)](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
