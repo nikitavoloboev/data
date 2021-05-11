@@ -112,3 +112,4 @@
 - [Don’t leak your Docker image’s build secrets (2021)](https://pythonspeed.com/articles/docker-build-secrets/)
 - [Write a Good Dockerfile in 19 'Easy' Steps (2021)](https://jkutner.github.io/2021/04/26/write-good-dockerfile.html)
 - [Rocker](https://github.com/daikimiura/rocker) - Minimal docker implementation for educational purposes.
+- [Better Dockerfiles (2021)](https://ols.wtf/2021/04/09/better-dockerfiles.html)
