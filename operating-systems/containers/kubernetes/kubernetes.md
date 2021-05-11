@@ -380,3 +380,4 @@
 - [kim](https://github.com/rancher/kim) - Kubernetes Image Manager.
 - [node-disk-manager](https://github.com/openebs/node-disk-manager) - Kubernetes Storage Device Management.
 - [kcp](https://github.com/kcp-dev/kcp) - Minimal Kubernetes API server.
+- [Open Source funding, Kim and Rancher Desktop with Matt Farina (2021)](https://www.youtube.com/watch?v=l9j45bvv7Rk)

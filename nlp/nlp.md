@@ -290,3 +290,4 @@
 - [Cohere](https://cohere.ai/) - Help computers understand language. ([Tweet](https://twitter.com/AidanNGomez/status/1389574000796479489))
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret) - Model explainability tool designed to work exclusively with the transformers package.
 - [Whatlang](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. ([Web](https://whatlang.org/))
+- [Category Theory + NLP Papers](https://github.com/jbrkr/Category_Theory_Natural_Language_Processing_NLP)

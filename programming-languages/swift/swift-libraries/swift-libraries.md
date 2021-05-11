@@ -679,6 +679,7 @@
 - [swift-enum-properties](https://github.com/pointfreeco/swift-enum-properties) - Struct and enum data access in harmony.
 - [Regex](https://github.com/sindresorhus/Regex) - Wrapper for NSRegularExpression that makes it more convenient and type-safe to use regular expressions in Swift.
 - [SwiftRegexDSL](https://github.com/kodlian/SwiftRegexDSL) - Declarative Structured Language for regular expressions in Swift.
+- [SFBAudioEngine](https://github.com/sbooth/SFBAudioEngine) - Toolbox of powerful audio functionality for macOS and iOS.
 
 ## Other (not lib)
 
@@ -699,3 +700,4 @@
 - [PureSwift packages](https://github.com/PureSwift)
 - [xcframeworks](https://github.com/bielikb/xcframeworks) - Demonstration of creating and integrating xcframeworks and their co-op with static libraries and Swift packages.
 - [Swift Package Info](https://github.com/marinofelipe/swift-package-info) - Swift CLI tool that provides information about a Swift Package.
+- [Entrapta](https://github.com/kelvin13/entrapta) - Experimental tool to generate richly-linked, Apple-style API reference websites for Swift projects.
