@@ -369,3 +369,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: How do you become an active reader and deep thinker? (2021)](https://news.ycombinator.com/item?id=26866463)
 - [Goodreads Datasets](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) ([Code](https://github.com/MengtingWan/goodreads)) ([Reddit](https://www.reddit.com/r/Archiveteam/comments/mxccfp/the_goodreads_metadata_collection_retired_and_51/))
 - [Little Free Library](https://littlefreelibrary.org/) ([HN](https://news.ycombinator.com/item?id=27080639))
+- [Ask HN: How can I read faster? (2021)](https://news.ycombinator.com/item?id=27103792)

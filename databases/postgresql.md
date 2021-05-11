@@ -256,3 +256,4 @@
 - [Stripe Sync Engine](https://github.com/supabase/stripe-sync-engine) - Continuously synchronizes a Stripe account to a Postgres database.
 - [PGXN: PostgreSQL Extension Network](https://pgxn.org/)
 - [PGXN Client](https://github.com/pgxn/pgxnclient) - Command line client for the PostgreSQL Extension Network.
+- [Using PostgreSQL as a Data Warehouse (2021)](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/) ([HN](https://news.ycombinator.com/item?id=27109960))
