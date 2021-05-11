@@ -79,3 +79,4 @@
 - [Constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
 - [Rapid Prototyping with Django, htmx, and Tailwind CSS (2021)](https://testdriven.io/blog/django-htmx-tailwind/)
 - [Django SQL Dashboard](https://django-sql-dashboard.datasette.io/en/latest/) ([HN](https://news.ycombinator.com/item?id=27107428))
+- [Get to know Django models better (2021)](https://girlthatlovestocode.com/django-model)

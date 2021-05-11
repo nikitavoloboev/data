@@ -7,3 +7,4 @@
 - [Good Sudoku](https://www.playgoodsudoku.com/) - Turns your iOS device into an AI powered Sudoku genius.
 - [Sudoku Solver](https://sudokuspoiler.azurewebsites.net/) - Uses Donald Knuth's Dancing Links algorithm to solve several Sudoku implementations.
 - [A Fast Sudoku Solver (2018)](https://www.sebastiansylvan.com/post/sudoku/)
+- [suGOku](https://github.com/bertoort/sugoku) - Sudoku puzzle solver and generator. ([Web](https://sugoku2.herokuapp.com/))

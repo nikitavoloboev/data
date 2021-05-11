@@ -49,3 +49,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Potion](https://www.potion.so/) - Create custom websites in minutes. All on Notion. ([Code](https://github.com/benborgers/potion))
 - [Notionery](https://www.notionery.com/) - Discover the latest Notion templates, products, and more.
 - [Next.js Notion Starter Kit](https://github.com/wzulfikar/nextjs-notion) - Jamstack blog with Next.js and Notion. ([Web](https://wzulfikar.com/))
+- [Joonbot](https://www.joonbot.com/chatbot-in-notion/) - Build and embed a chatbot in minutes in your Notion page.

@@ -226,6 +226,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Google Cloud Search](https://cloudsearch.google.com) - Helps your employees quickly, easily, and securely find information across the business, whether integrated with G Suite.
 - [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
 - [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [Dashblock](https://www.dashblock.com/) - Build web automations without coding.
 - [Lookback](https://lookback.io/) - Talk to your users. See how they’re using your app or website. ([GitHub](https://github.com/lookback))
 - [Eraser](https://www.tryeraser.com/home) - Make Team Meetings Visual.
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))

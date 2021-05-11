@@ -121,3 +121,4 @@
 - [Wexond Base](https://github.com/wexond/browser-base) - Modern and feature-rich web browser base based on Electron. ([Web](https://wexond.net/))
 - [Refresh](https://refresh.study/) - Fresh approach to the browser.
 - [Synth](https://synth.app/) - Browser From The Future.
+- [Hoverify](https://www.tryhoverify.com/) - All-in-one browser extension that helps you in web development.

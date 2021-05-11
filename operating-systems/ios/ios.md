@@ -310,3 +310,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [A Best in Class App - The Book](https://www.swiftjectivec.com/bestinclassbook) - Technical guide and proven tips on how to make and design the very best iOS apps.
 - [Designing your first iOS app (2021)](https://www.youtube.com/watch?v=XzjxqS0xAu0)
 - [Mobile Apps at Scale: 39 Engineering Challenges](https://www.mobileatscale.com/)
+- [IPAPatch](https://github.com/paradiseduo/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.

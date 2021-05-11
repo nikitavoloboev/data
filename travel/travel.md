@@ -52,6 +52,7 @@
 - [City Guesser](https://virtualvacation.us/guess) - Can you guess what city you're in?
 - [Second Citizenships, Residencies, and/or Temporary Relocation (2021)](https://www.lesswrong.com/posts/jHnFBHrwiNb5xvLBM/second-citizenships-residencies-and-or-temporary-relocation) ([HN](https://news.ycombinator.com/item?id=26210179))
 - [City Walks](https://citywalks.live/) - Take a virtual walk through a famous city.
+- [Reddit Travel Wiki](https://www.reddit.com/r/travel/wiki/index)
 - [Reddit Solo Travel Wiki](https://www.reddit.com/r/solotravel/wiki/index)
 - [GeoGuessr](https://www.geoguessr.com/) - Geography game which takes you on a journey around the world and challenges your ability to recognize your surroundings.
 - [Ask HN: Those who quit their jobs to travel the world, how did it go? (2021)](https://news.ycombinator.com/item?id=26407560)

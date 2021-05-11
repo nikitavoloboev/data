@@ -50,3 +50,4 @@
 - [zigdoc](https://github.com/g-w1/zigdoc) - zig -> docs.
 - [zig.run](https://zig.run/) - Run and play with Zig source code. ([Code](https://github.com/jlauman/zig.run))
 - [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers) ([HN](https://news.ycombinator.com/item?id=27115551))
+- [Performance Tracking for Zig](https://github.com/ziglang/gotta-go-fast)

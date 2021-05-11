@@ -78,7 +78,7 @@
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
 - [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
-- [Metaflow](https://metaflow.org/) - Framework for real-life data science. ([HN](https://news.ycombinator.com/item?id=21696779)) ([Code](https://github.com/Netflix/metaflow))
+- [Metaflow](https://metaflow.org/) - Framework for real-life data science. ([HN](https://news.ycombinator.com/item?id=21696779)) ([Code](https://github.com/Netflix/metaflow)) ([Tools](https://github.com/Netflix/metaflow-tools))
 - [SaturnCloud](https://www.saturncloud.io/s/index.html) - Manage Data Science applications so Data Scientists don't have to do DevOps.
 - [Falcon](https://github.com/uwdata/falcon) - Interactive Visual Analysis for Big Data.
 - [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)

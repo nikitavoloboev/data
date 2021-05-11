@@ -168,7 +168,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [TailoredFlow](https://github.com/Omodaka9375/tailoredflow) - Your personal decentralized RSS podcast aggregator.
 - [Listenbox](https://listenbox.app/) - Listen and publish YouTube shows as podcasts.
 - [Subcaster](https://subcaster.com/) - Compare podcast tools side-by-side.
-- [Podz](https://apps.apple.com/us/app/podz-podcast-highlights/id1516678719?ref=producthunt) - The best parts of podcasts in a personalized feed.
+- [Podz](https://apps.apple.com/us/app/podz-podcast-highlights/id1516678719) - The best parts of podcasts in a personalized feed.
 - [Podcast note taking app that integrates directly with Roam Research (2021)](https://jgood.io/2021-02-20-poc-pod-notes)
 - [How Spotify is Killing the Open Podcast Ecosystem (2020)](https://singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem/) ([HN](https://news.ycombinator.com/item?id=26872229))
 - [Spotify's Open Access Platform (2021)](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome)
