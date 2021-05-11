@@ -153,3 +153,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Swoosh](https://github.com/swoosh/swoosh) - Compose, deliver and test your emails easily in Elixir.
 - [SendGrid Email Blast](https://github.com/freeCodeCamp/sendgrid-email-blast) - CLI tool for sending emails via the SendGrid API.
 - [Email explained from first principles](https://explained-from-first-principles.com/email/)
+- [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. ([Code](https://github.com/hteumeuleu/caniemail))

@@ -143,3 +143,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Loom Network](https://loomx.io/) - Production-Ready, Multichain Interop Platform for Serious Dapp Developers. ([GitHub](https://github.com/loomnetwork)) ([Code](https://github.com/loomnetwork/loomchain))
 - [Chainlink](https://chain.link/) - Blockchain Oracles for Connected Smart Contracts.
 - [What actually happens in cryptocurrency space (2021)](https://twitter.com/jonsyu/status/1389635626698297344)
+- [The Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) - World’s first blockchain that runs at web speed and can increase its capacity without bound.

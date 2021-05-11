@@ -44,3 +44,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [As you age (30+), what health aspects do you need to keep an eye on?](https://www.reddit.com/r/AskMen/comments/muobbu/as_you_age_30_what_health_aspects_do_you_need_to/)
 - [Better air is the easiest way not to die (2021)](https://dynomight.net/air/) ([HN](https://news.ycombinator.com/item?id=26964722))
 - [How do you treat your health when you have wealth? (2021)](https://www.reddit.com/r/FIREUK/comments/n6v9t3/how_do_you_treat_your_health_when_you_have_wealth/)
+- [Ask HN: How can I improve my intelligence? (2021)](https://news.ycombinator.com/item?id=27102764)
