@@ -127,3 +127,4 @@
 - [The Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)
 - [Who has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/)
 - [Fixing a slow site iteratively (2021)](https://css-tricks.com/fixing-a-slow-site-iteratively/)
+- [10 things I learned making the fastest site in the world (2016)](https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)

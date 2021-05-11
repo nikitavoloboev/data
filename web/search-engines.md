@@ -127,3 +127,4 @@
 - [Internet Search Tips](https://www.gwern.net/Search) - Description of advanced tips and tricks for effective Internet research of papers/books.
 - [Get better at Googling (2021)](https://markodenic.com/use-google-like-a-pro/) ([HN](https://news.ycombinator.com/item?id=26911629))
 - [Metasearch](https://github.com/duolingo/metasearch) - Search aggregator for Slack, Google Docs, GitHub, and more.
+- [Quickwit](https://github.com/quickwit-inc/quickwit) - Big data search engine. ([Web](https://quickwit.io/))

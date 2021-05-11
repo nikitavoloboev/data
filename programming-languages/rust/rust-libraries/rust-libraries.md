@@ -239,6 +239,7 @@
 - [mach](https://github.com/fitzgen/mach) - Rust interface to the Mach 3.0 kernel that underlies macOS.
 - [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS).
 - [Fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries.
+- [core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS.
 
 ## Macros
 

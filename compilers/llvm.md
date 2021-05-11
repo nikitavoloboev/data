@@ -65,3 +65,4 @@
 - [revng](https://github.com/revng/revng) - Static binary translator. Given a input ELF binary for one of the supported architectures, it will analyze it and emit an equivalent LLVM IR.
 - [PolyTracker](https://github.com/trailofbits/polytracker) - LLVM-based instrumentation tool for universal taint analysis.
 - [A look at LLVM - comparing clamp implementations (2021)](https://secret.club/2021/04/09/std-clamp.html) ([HN](https://news.ycombinator.com/item?id=26753872))
+- [Speedbuilding LLVM/Clang in 5 minutes (2021)](https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/)

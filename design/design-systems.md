@@ -70,7 +70,7 @@
 - [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems) - Curated list of design systems made up of reusable React components.
 - [Framer Session 6 — Framer Bridge](https://www.youtube.com/watch?v=WsKSDyxcK5Q)
 - [Introducing Base Web, Uber’s New Design System for Building Websites in React (2019)](https://eng.uber.com/introducing-base-web/)
-- [Stencil](https://github.com/ionic-team/stencil) - Web Component compiler for building fast, reusable UI components and Progressive Web Apps. ([Web](https://stenciljs.com/))
+- [Stencil](https://github.com/ionic-team/stencil) - Web Component compiler for building fast, reusable UI components and Progressive Web Apps. ([Web](https://stenciljs.com/)) ([Web Code](https://github.com/ionic-team/stencil-site))
 - [Theme UI](https://theme-ui.com/) - Build consistent, themeable React UIs based on design system constraints and design tokens.
 - [Awesome component-driven development](https://github.com/component-driven/awesome-list)
 - [Modulz](https://www.modulz.app/) - Design, develop, document and deploy your design system—without writing code.

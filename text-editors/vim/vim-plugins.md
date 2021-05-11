@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Utility
 
 - [Hop](https://github.com/phaazon/hop.nvim) - Neovim motions on speed.
+- [Which Key](https://github.com/folke/which-key.nvim) - Displays a popup with possible keybindings of the command you started typing.
 - [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative editing in Neovim using built-in capabilities.
 - [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
 - [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in lua.

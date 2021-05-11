@@ -25,3 +25,4 @@
 - [Google Cloud vs AWS in 2021 (Comparing the Giants)](https://kinsta.com/blog/google-cloud-vs-aws/)
 - [Why I distrust Google Cloud more than than AWS or Azure (2021)](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html) ([HN](https://news.ycombinator.com/item?id=26897106))
 - [First look at GKE Autopilot (2021)](https://ahmet.im/blog/gke-autopilot/)
+- [Cloud Storage Rust](https://github.com/ThouCheese/cloud-storage-rs) - Crate for uploading files to Google cloud storage, and for generating download URLs.

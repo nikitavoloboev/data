@@ -57,6 +57,7 @@
 - [Twirp](https://github.com/keathley/twirp-elixir) - Elixir implementation of the twirp RPC framework.
 - [libcluster](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.
 - [Horde](https://github.com/derekkraan/horde) - Distributed Supervisor and Registry backed by DeltaCrdt.
+- [libring](https://github.com/bitwalker/libring) - Fast consistent hash ring for Elixir.
 
 ## Links
 
