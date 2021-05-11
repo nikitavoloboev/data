@@ -20,3 +20,5 @@
 - [Book review on the history of modern Singapore](https://www.lrb.co.uk/the-paper/v43/n06/thomas-meaney/the-bayswater-grocer) ([HN](https://news.ycombinator.com/item?id=26868966))
 - [Suburban Development Makes American Cities Poorer (2020)](https://www.youtube.com/watch?v=VVUeqxXwCA0)
 - [Miami Tech Week: The Start Of Startup Cities (2021)](https://1729.com/miami/)
+- [Traffic Calming Strategies](https://globaldesigningcities.org/publication/global-street-design-guide/designing-streets-people/designing-for-motorists/traffic-calming-strategies/)
+- [Global Designing Cities Initiative](https://globaldesigningcities.org/)
