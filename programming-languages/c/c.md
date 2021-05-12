@@ -151,3 +151,4 @@
 - [The price of dynamic memory: Allocation (2020)](https://johnysswlab.com/the-price-of-dynamic-memory-allocation/)
 - [The Byte Order Fiasco (2021)](https://justine.lol/endian.html) ([Lobsters](https://lobste.rs/s/celegm/byte_order_fiasco))
 - [snmalloc](https://github.com/microsoft/snmalloc) - High-performance allocator.
+- [Practical Design Patterns: Opaque Pointers and Objects in C (2021)](https://interrupt.memfault.com/blog/opaque-pointers) ([Lobsters](https://lobste.rs/s/zkpczs/practical_design_patterns_opaque))
