@@ -71,3 +71,4 @@
 - [Ruby on Rails Controller Patterns and Anti-patterns (2021)](https://blog.appsignal.com/2021/04/14/ruby-on-rails-controller-patterns-and-anti-patterns.html)
 - [Hotwire: Reactive Rails with no JavaScript? (2021)](https://evilmartians.com/chronicles/hotwire-reactive-rails-with-no-javascript)
 - [Dead simple Rails monitoring (2021)](http://tomrothe.de/posts/dead-simple-rails-monitoring.html)
+- [The room where it happens: How Rails gets made (2021)](https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/) ([Lobsters](https://lobste.rs/s/j1gmob/room_where_it_happens_how_rails_gets_made))
