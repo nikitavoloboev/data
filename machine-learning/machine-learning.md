@@ -463,3 +463,4 @@
 - [Unsupervised Contrastive Learning of Sound Event Representations (2020)](https://arxiv.org/abs/2011.07616) ([Code](https://github.com/edufonseca/uclser20/blob/main/README.md))
 - [Differentially Private Learning Needs Better Features (or Much More Data) (2021)](https://arxiv.org/abs/2011.11660)
 - [Bias, variance, and their relationship with machine learning algorithms explained (2021)](https://twitter.com/svpino/status/1390969728504565761)
+- [Unsupervised Contrastive Learning of Sound Event Representations](https://github.com/edufonseca/uclser20)

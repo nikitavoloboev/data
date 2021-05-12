@@ -193,3 +193,4 @@
 - [The True Cost of Processor Manufacturing: TSMC 7nm (2021)](https://www.youtube.com/watch?v=tvVobTtgss0)
 - [Apples M1 Processor: The hardware behind the hype (2020)](https://www.youtube.com/watch?v=NH9kwje2k8U)
 - [Apple Silicon Hardware: SPRR and Guarded Exception Levels (GXF) (2021)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/) ([HN](https://news.ycombinator.com/item?id=27078614))
+- [Adafruit](https://www.adafruit.com/) - Unique & fun DIY electronics and kits.

@@ -104,3 +104,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: How can a unhireable person get a job? (2021)](https://news.ycombinator.com/item?id=26825017)
 - [What to do in your first two weeks of starting a new job (2021)](https://twitter.com/QuinnyPig/status/1370575853554266118)
 - [The Trimodal Nature of Software Engineer Compensation: Why Positions Pay a (Very) Different Salary (2021)](https://www.youtube.com/watch?v=h8Xpapy6I9E)
+- [Remote-first companies that actively hire](https://www.remotecompany.com/blog/remote-first-companies-list) ([HN](https://news.ycombinator.com/item?id=27097069))
