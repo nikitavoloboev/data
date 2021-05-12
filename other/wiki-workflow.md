@@ -88,6 +88,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
+- [Matous Dzivjak](https://github.com/matoous/wiki)
 - [Kevin S Lin](https://www.kevinslin.com/)
 - [Alex's Zettelkasten](https://notes.alexkehayias.com/)
 - [Yizhou Shan](http://lastweek.io/)
