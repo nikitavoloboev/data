@@ -42,3 +42,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Better Call Dev](https://better-call.dev/) - Tezos smart contract explorer by Baking Bad. ([Docs](https://better-call.dev/docs)) ([Backend Code](https://github.com/baking-bad/bcdhub))
 - [OpenMinter](https://github.com/tqtezos/minter) - dApp framework for enabling the creation and collection of non-fungible tokens (NFTs) on Tezos.
 - [Faster finality with Emmy (2021)](https://blog.nomadic-labs.com/faster-finality-with-emmy.html)
+- [The Easy Guide to Solo Baking Tezos on a Raspberry Pi (2021)](https://imthemule.medium.com/the-easy-guide-to-solo-baking-tezos-on-a-raspberry-pi-f255e48dfbf0) ([Tweet](https://twitter.com/mattdesl/status/1392585351600934913))
