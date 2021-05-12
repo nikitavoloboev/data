@@ -22,6 +22,7 @@
 - [HexaPDF](https://github.com/gettalong/hexapdf) - Versatile PDF creation and manipulation for Ruby.
 - [Scientist](https://github.com/github/scientist) - Ruby library for carefully refactoring critical paths.
 - [Whenever](https://github.com/javan/whenever) - Ruby gem that provides a clear syntax for writing and deploying cron jobs.
+- [Flipper](https://github.com/jnunemaker/flipper) - Beautiful, performant feature flags for Ruby.
 
 ## Links
 
