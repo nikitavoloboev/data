@@ -75,6 +75,7 @@
 - [Our Machinery](https://ourmachinery.com/) - New Kind of Game Engine.
 - [Ferret](https://github.com/Rua/ferret) - Doom-compatible game engine.
 - [Wicked Engine](https://github.com/turanszkij/WickedEngine) - C++ game engine focusing on modern rendering techniques and performance. ([Web](https://wickedengine.net/))
+- [Permafrost Engine](https://github.com/eduard-permyakov/permafrost-engine) - OpenGL RTS game engine written in C.
 
 ## Physics engines
 

@@ -38,3 +38,4 @@
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) - Granular and multi-language shader library designed for performance and flexibility.
 - [The case of the curiously slow shader (2021)](https://raphlinus.github.io/gpu/2021/04/28/slow-shader.html)
 - [Shader School](https://github.com/stackgl/shader-school) - Introduction to GLSL shaders and graphics programming that runs in your web browser.
+- [Shader Coding](https://twitter.com/AlanZucconi/status/1392447855659466752)

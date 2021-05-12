@@ -54,3 +54,4 @@
 - [Visualising how BitTorrent works (2010)](http://mg8.org/processing/bt.html)
 - [instant.io](https://github.com/webtorrent/instant.io) - Streaming file transfer over WebTorrent (torrents on the web). ([Web](https://instant.io/))
 - [βTorrent](https://btorrent.xyz/) - Browser WebTorrent Client. ([Code](https://github.com/DiegoRBaquero/BTorrent))
+- [BitFiend](https://github.com/eduard-permyakov/BitFiend) - BitTorrent client written in C.
