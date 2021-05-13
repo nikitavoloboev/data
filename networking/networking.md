@@ -236,5 +236,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Proving 50-Year-Old Sorting Networks Optimal: Part 1 (2021)](https://jix.one/proving-50-year-old-sorting-networks-optimal-part-1/) ([Lobsters](https://lobste.rs/s/bgigl9/proving_50_year_old_sorting_networks))
 - [innisfree](https://github.com/conorsch/innisfree) - Expose local services via public IPv4 addresses, safely.
 - [Transport vs Network (2021)](https://www.potaroo.net/ispcol/2021-05/headers.html)
-- [Send My](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
+- [Send My](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network. ([Article](https://positive.security/blog/send-my))
 - [Wait for It](https://github.com/maxcnunes/waitforit) - Wait until an address become available.
