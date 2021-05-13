@@ -97,3 +97,4 @@
 - [Semiotic](https://github.com/nteract/semiotic) - Data visualization framework combining React & D3. ([Web](https://semiotic.nteract.io/))
 - [Grafar](https://github.com/thoughtspile/grafar) - JavaScript library for reactive, 3D mathematical visualization. ([Web](https://thoughtspile.github.io/grafar/#/))
 - [Observable Plot](https://github.com/observablehq/plot) - JavaScript library for exploratory data visualization. ([Web](https://observablehq.com/@observablehq/plot)) ([HN](https://news.ycombinator.com/item?id=27036768)) ([Tweet](https://twitter.com/FrankElavsky/status/1389961152545890308)) ([Tweet](https://twitter.com/simonw/status/1389615048880914437?s=20))
+- [Dataflow](https://github.com/asg017/dataflow) - Self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more. ([Web](https://alexgarcia.xyz/dataflow/)) ([Demo](https://observablehq.com/@asg017/introducing-dataflow))
