@@ -805,6 +805,7 @@
 - [tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions.
 - [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML format.
 - [OSIN](https://github.com/openshift/osin) - Go OAuth2 server library.
+- [sroar](https://github.com/dgraph-io/sroar) - Serialized Roaring Bitmaps.
 
 ## Links
 

@@ -68,3 +68,4 @@
 - [I booked my cheapest one-month trip (2021)](https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/) ([HN](https://news.ycombinator.com/item?id=26982370))
 - [The Hoxton](https://thehoxton.com/) - Open House Hotels in London, Europe and USA.
 - [Camp Hox](https://thehoxton.com/camp-hox/) - Van trips.
+- [You get to create your own list of what you believe are the Seven Wonders of the World. What are they? (2021)](https://www.reddit.com/r/solotravel/comments/nac1ao/you_get_to_create_your_own_list_of_what_you/)

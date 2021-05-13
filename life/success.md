@@ -96,3 +96,4 @@ Success comes from not giving up and doing what you love.
 - [4 behaviors of successful founders (2021)](https://twitter.com/Julian/status/1386785605145739266)
 - [Building a Mountain of Levers (2021)](https://www.ejorgenson.com/leverage) - Leverage, from idea to application. ([Tweet](https://twitter.com/EricJorgenson/status/1361444421892526081))
 - [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/) - The big benefits of little changes.
+- [John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA (2021)](https://overcast.fm/+eZyAvIA8g)
