@@ -168,3 +168,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Run an Action on all VMs in an AWS Auto Scaling Group (2021)](https://blog.stefan-koch.name/2021/04/14/clusterssh-aws-auto-scaling-group)
 - [Amazon SageMaker Safe Deployment Pipeline](https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline)
 - [AWS SDK for Rust](https://github.com/awslabs/aws-sdk-rust) ([Article](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)) ([HN](https://news.ycombinator.com/item?id=27080859))
+- [Learn AWS with Rust](https://github.com/richardhboyd/learn-rust-on-aws)

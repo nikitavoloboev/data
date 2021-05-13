@@ -60,6 +60,7 @@
 - [Rapid](https://github.com/flyingmutant/rapid) - Go library for property-based testing.
 - [sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Mock library implementing sql/driver. Simulate any SQL driver behavior in tests, without needing a real database connection.
 - [Ginkgo](https://github.com/onsi/ginkgo) - BDD Testing Framework for Go.
+- [GoConvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 
 ## Web
 

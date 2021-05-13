@@ -144,3 +144,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Github Blog](https://github.com/renatorib/github-blog) - Turn your github issues into a CMS for your blog.
 - [Awesome Tech Blogs](https://tech-blogs.dev/) ([Code](https://github.com/markodenic/awesome-tech-blogs))
 - [Tips to start a Blog (2021)](https://twitter.com/katie_hockman/status/1392128759508111362)
+- [Nobelium](https://nobelium.js.org/) - Static blog build on top of Notion and Nextjs, deployed on Vercel. ([Code](https://github.com/craigary/nobelium))

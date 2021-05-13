@@ -108,3 +108,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Better alternatives to LinkedIn (2021)](https://twitter.com/ohmygoshna/status/1387192520581451777)
 - [Polywork](https://www.polywork.com/) - Professional network that represents all the wonderful things you actually do as a professional.
 - [Granary](https://granary.io/) - Fetches and converts data between social networks, HTML and JSON with microformats2, ActivityStreams 1 and 2, Atom, RSS, JSON Feed, and more. ([Code](https://github.com/snarfed/granary))
+- [Garnet](https://www.garnet.app/) - One app to unite your community.

@@ -31,3 +31,4 @@
 - [How Slack plans to build Virtual HQ for the hybrid remote future (2021)](https://twitter.com/noah_weiss/status/1375136823404605443)
 - [Slack Bolt](https://github.com/KhushrajRathod/slack-bolt) - TypeScript framework to build Slack apps in a flash with the latest platform features.
 - [SwiftBlocksUI](https://github.com/SwiftBlocksUI/SwiftBlocksUI) - Develop interactive Slack messages and modals using a SwiftUI like declarative style.
+- [Paco](https://pacohq.com/) - Sync GitHub/JIRA with Slack.

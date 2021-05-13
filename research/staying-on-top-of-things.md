@@ -139,6 +139,7 @@ And these Discord servers:
 - [Vulture](https://www.vulture.com/) - Entertainment News.
 - [Longreads](https://longreads.com/)
 - [The Markup](https://themarkup.org/)
+- [3 Quarks Daily](https://3quarksdaily.com/) - Science Arts Philosophy Politics Literature.
 
 ### Other
 
