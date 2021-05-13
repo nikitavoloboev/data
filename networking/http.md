@@ -123,3 +123,4 @@
 - [Forwarding HTTP/S Proxy](https://github.com/betalo-sweden/forwardingproxy) - Useful when one wants to have originating requests to a destination service from a set of well-known IPs.
 - [GoHFS](https://github.com/finzzz/gohfs) - Minimal HTTP File Server for pentesting written in Go.
 - [Dolores](https://github.com/hauleth/dolores) - Local development HTTPS proxy server meant to simplify working with multi-domain applications by serving each application on separate domain under .localhost TLD.
+- [Rlay](https://github.com/cfe84/rlay) - Development tool that allows you to forward HTTP calls to your local machine through a server. ([Article](https://www.feval.ca/posts/rlay/))

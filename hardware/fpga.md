@@ -54,3 +54,4 @@
 - [FPGA Developer Tutorials](https://www.fpgatutorial.com/)
 - [Related Projects of Open Source FPGA Foundation](https://github.com/os-fpga/open-source-fpga-resource)
 - [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) - Open project that aims to recreate various classic computers, game consoles and arcade machines, using modern hardware. ([HN](https://news.ycombinator.com/item?id=26772151))
+- [Architecture All Access: Modern FPGA Architecture (2021)](https://www.youtube.com/watch?v=EVy4KEj9kZg)

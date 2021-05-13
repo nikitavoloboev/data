@@ -517,6 +517,7 @@
 - [TypeIt](https://github.com/alexmacarthur/typeit) - Most versatile JavaScript animated typing utility on the planet. ([Web](https://typeitjs.com/))
 - [ASON](https://github.com/jtenner/ason) - Data oriented algorithm designed for compact and speedy storage of AssemblyScript objects in a binary format.
 - [refractor](https://github.com/wooorm/refractor) - Lightweight, robust, elegant virtual syntax highlighting using Prism.
+- [Expounder](https://github.com/skorokithakis/expounder) - Library for explaining things in HTML.
 
 ## Links
 
