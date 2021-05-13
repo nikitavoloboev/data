@@ -52,3 +52,5 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Joonbot](https://www.joonbot.com/chatbot-in-notion/) - Build and embed a chatbot in minutes in your Notion page.
 - [Notion API](https://developers.notion.com/) - Connect Notion pages and databases to the tools you use every day, creating powerful workflows. ([HN](https://news.ycombinator.com/item?id=27144566))
 - [Open Source Notion API Apps](https://github.com/MaaxGr/open-source-notionapi-apps)
+- [Notion SDK for JavaScript](https://github.com/makenotion/notion-sdk-js)
+- [Notion GitHub](https://github.com/makenotion)
