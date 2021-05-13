@@ -476,3 +476,4 @@ Go promotes composition over inheritance.
 - [pprof++: A Go Profiler with Hardware Performance Monitoring (2021)](https://eng.uber.com/pprof-go-profiler/) ([HN](https://news.ycombinator.com/item?id=27118541))
 - [Calling C code from go (2018)](https://karthikkaranth.me/blog/calling-c-code-from-go/)
 - [profile](https://github.com/mmcloughlin/profile) - Simple profiling for Go.
+- [Thoughts on how to structure Go code (2021)](https://changelog.com/posts/on-go-application-structure) ([Reddit](https://www.reddit.com/r/golang/comments/nb0w7c/thoughts_on_how_to_structure_go_code/))

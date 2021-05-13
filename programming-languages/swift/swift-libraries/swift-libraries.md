@@ -680,6 +680,7 @@
 - [Regex](https://github.com/sindresorhus/Regex) - Wrapper for NSRegularExpression that makes it more convenient and type-safe to use regular expressions in Swift.
 - [SwiftRegexDSL](https://github.com/kodlian/SwiftRegexDSL) - Declarative Structured Language for regular expressions in Swift.
 - [SFBAudioEngine](https://github.com/sbooth/SFBAudioEngine) - Toolbox of powerful audio functionality for macOS and iOS.
+- [SWCompression](https://github.com/tsolomko/SWCompression) - Swift framework for working with compression, archives and containers.
 
 ## Other (not lib)
 

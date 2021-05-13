@@ -804,6 +804,7 @@
 - [fungo](https://github.com/rvolosatovs/fungo) - Generic, lazy, concurrent Go2 collections, result, maybe wrappers and all kinds of sweet functional goodness to operate upon them.
 - [tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions.
 - [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML format.
+- [OSIN](https://github.com/openshift/osin) - Go OAuth2 server library.
 
 ## Links
 

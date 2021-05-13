@@ -237,3 +237,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [innisfree](https://github.com/conorsch/innisfree) - Expose local services via public IPv4 addresses, safely.
 - [Transport vs Network (2021)](https://www.potaroo.net/ispcol/2021-05/headers.html)
 - [Send My](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
+- [Wait for It](https://github.com/maxcnunes/waitforit) - Wait until an address become available.
