@@ -224,3 +224,6 @@
 - [Neural Network Visualization](https://github.com/julrog/nn_vis) - Visualization of neural network architectures and parameters.
 - [Restricted Boltzmann Machine in Haskell](https://github.com/aeyakovenko/rbm)
 - [X-Transformers](https://github.com/lucidrains/x-transformers) - Simple but complete full-attention transformer with a set of promising experimental features from various papers. ([HN](https://news.ycombinator.com/item?id=27089208))
+- [Introduction to Attention Mechanism (2021)](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
+- [Understanding Positional Encoding in Transformers (2021)](https://erdem.pl/2021/05/understanding-positional-encoding-in-transformers)
+- [Measuring XAI methods with Infidelity and Sensitivity (2021)](https://erdem.pl/2021/03/measuring-xai-methods-with-infidelity-and-sensitivity)
