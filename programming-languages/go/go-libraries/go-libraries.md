@@ -202,6 +202,7 @@
 - [go-sqlite](https://github.com/zombiezen/go-sqlite) - Low-level Go interface to SQLite 3.
 - [tpg](https://github.com/tidwall/tpg) - Insanely tiny Postgres library for Go.
 - [dburl](https://github.com/xo/dburl) - Provides a standard, URL style mechanism for parsing and opening SQL database connection strings for Go.
+- [Loukoum](https://github.com/ulule/loukoum) - Simple SQL Query Builder.
 
 ## ML
 

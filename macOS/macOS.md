@@ -151,3 +151,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS scripts](https://github.com/0xmachos/macos-scripts) - Various scripts for macOS tasks.
 - [Pure Rust Implementation of Apple Code Signing (2021)](https://gregoryszorc.com/blog/2021/04/14/pure-rust-implementation-of-apple-code-signing/)
 - [Apple’s Notarizing](https://www.cdfinder.de/guide/blog/apple_hell.html) ([HN](https://news.ycombinator.com/item?id=26993857))
+- [macOS dev setup](https://github.com/donnemartin/dev-setup)

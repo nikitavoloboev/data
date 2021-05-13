@@ -97,7 +97,7 @@
 - [What an interview with Steve Jobs feels like (intimidating personality) (2020)](https://www.youtube.com/watch?v=ecKgqJRvZ5M)
 - [Reversing the technical interview (2017)](https://aphyr.com/posts/340-reversing-the-technical-interview) ([HN](https://news.ycombinator.com/item?id=24735062))
 - [EPI Judge](https://github.com/adnanaziz/EPIJudge) - Companion to our book Elements of Programming Interviews.
-- [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - Curated list of lists of technical interview questions.
+- [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) - Curated list of lists of technical interview questions.
 - [Everything you need to know to get the job](https://github.com/kdn251/interviews)
 - [Protips for tech interviewing, especially for big teams or orgs (2020)](https://twitter.com/devonbl/status/1318944166651613185)
 - [What to Ask as a Candidate – How to Go Deeper Than “What’s the Culture Like?” (2020)](https://firstround.com/review/the-40-best-questions-to-ask-in-an-interview-how-to-go-deeper-than-whats-the-culture-like/)
