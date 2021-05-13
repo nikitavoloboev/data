@@ -11,3 +11,4 @@
 - [OpenAPS](https://openaps.org/) - Open Artificial Pancreas System project (OpenAPS) is an open and transparent effort to make safe and effective basic Artificial Pancreas System (APS) technology widely available to more quickly improve and save as many lives as possible and reduce the burden of Type 1 diabetes.
 - [The medications that change who we are (2020)](https://www.bbc.com/future/article/20200108-the-medications-that-change-who-we-are) ([HN](https://news.ycombinator.com/item?id=22019202))
 - [OHIF Viewer](https://viewer.ohif.org/) - Open source in-browser DICOM viewer for medical CT scan.
+- [WHO List of Essential Medicines](https://list.essentialmeds.org/) ([HN](https://news.ycombinator.com/item?id=27136775))

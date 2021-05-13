@@ -473,3 +473,4 @@
 - [flapigen-rs](https://github.com/Dushistov/flapigen-rs) - Tool for connecting programs or libraries written in Rust with other languages.
 - [refcounts (2021)](https://blog.yoshuawuyts.com/refcounts/)
 - [The Plan for the Rust 2021 Edition](https://blog.rust-lang.org/2021/05/11/edition-2021.html) ([HN](https://news.ycombinator.com/item?id=27118997))
+- [55,000 lines of Rust code later: A debugger is born (2021)](https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md) ([HN](https://news.ycombinator.com/item?id=27135591))

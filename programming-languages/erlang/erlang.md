@@ -79,4 +79,4 @@
 - ["Systems that run forever self-heal and scale" by Joe Armstrong (2013)](https://www.youtube.com/watch?v=cNICGEwmXLU)
 - [BPE: Business Process Engine](https://github.com/synrc/bpe) ([Web](https://bpe.n2o.dev/))
 - [Bitcask](https://github.com/basho/bitcask) - Log-Structured Hash Table for Fast Key/Value Data.
-- [Erlang/OTP 24 Highlights (2021)](https://blog.erlang.org/My-OTP-24-Highlights/)
+- [Erlang/OTP 24 Highlights (2021)](https://blog.erlang.org/My-OTP-24-Highlights/) ([HN](https://news.ycombinator.com/item?id=27128994))

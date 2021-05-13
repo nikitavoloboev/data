@@ -464,3 +464,4 @@
 - [Differentially Private Learning Needs Better Features (or Much More Data) (2021)](https://arxiv.org/abs/2011.11660)
 - [Bias, variance, and their relationship with machine learning algorithms explained (2021)](https://twitter.com/svpino/status/1390969728504565761)
 - [Unsupervised Contrastive Learning of Sound Event Representations](https://github.com/edufonseca/uclser20)
+- [Kobra](https://kobra.dev/) - Visual programming language for machine learning. ([HN](https://news.ycombinator.com/item?id=27135573))

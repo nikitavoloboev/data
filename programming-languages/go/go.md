@@ -477,3 +477,4 @@ Go promotes composition over inheritance.
 - [Calling C code from go (2018)](https://karthikkaranth.me/blog/calling-c-code-from-go/)
 - [profile](https://github.com/mmcloughlin/profile) - Simple profiling for Go.
 - [Thoughts on how to structure Go code (2021)](https://changelog.com/posts/on-go-application-structure) ([Reddit](https://www.reddit.com/r/golang/comments/nb0w7c/thoughts_on_how_to_structure_go_code/))
+- [Go With The Domain](https://threedots.tech/go-with-the-domain/) - Building Modern Business Software in Go. ([HN](https://news.ycombinator.com/item?id=27140724))

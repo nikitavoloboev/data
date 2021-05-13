@@ -9,3 +9,4 @@
 - [Hundred Rabbits](https://100r.co/) - [Devine](http://xxiivv.com/) & [Rekka](http://kokorobot.ca/), part of a traveling design studio on sailboat. Very [inspiring](https://www.youtube.com/channel/UCzdg4pZb-viC3EdA1zxRl4A).
 - [Seats2meet](https://www.seats2meet.com/) - Work together, find relevant people, events and locations.
 - [Ask HN: How are Digital Nomads coping with travel restrictions? (2020)](https://news.ycombinator.com/item?id=24867241)
+- [Ask HN: Digital nomads, where's the best place in the world to work from? (2021)](https://news.ycombinator.com/item?id=27129943)

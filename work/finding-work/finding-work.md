@@ -105,3 +105,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [What to do in your first two weeks of starting a new job (2021)](https://twitter.com/QuinnyPig/status/1370575853554266118)
 - [The Trimodal Nature of Software Engineer Compensation: Why Positions Pay a (Very) Different Salary (2021)](https://www.youtube.com/watch?v=h8Xpapy6I9E)
 - [Remote-first companies that actively hire](https://www.remotecompany.com/blog/remote-first-companies-list) ([HN](https://news.ycombinator.com/item?id=27097069))
+- [Six Things I Wish Someone Told Me About Getting a Promotion](https://radhika.dev/mid/) ([HN](https://news.ycombinator.com/item?id=27140505))
