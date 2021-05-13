@@ -125,3 +125,4 @@
 - [Spaik](https://github.com/snyball/spaik) - Lisp compiler/VM with a moving GC written in Rust.
 - [Orion](https://github.com/Wafelack/orion) - High level, purely functional Lisp dialect written in Rust.
 - [Joxa](https://github.com/joxa/joxa) - Modern Lisp for the Erlang VM.
+- [Lets LISP like it's 1959 (2019)](https://www.youtube.com/watch?v=hGY3uBHVVr4)

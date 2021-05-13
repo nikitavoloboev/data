@@ -97,3 +97,4 @@
 - [micro-graphql-svelte](https://github.com/arackaf/micro-graphql-svelte) - Light and simple GraphQL Svelte client with extensible, composable cache invalidation.
 - [Notus Svelte](https://github.com/creativetimofficial/notus-svelte) - Free Tailwind CSS UI Kit and Admin.
 - [svelte-adapter](https://github.com/pngwn/svelte-adapter) - Use Svelte components with Vue and React.
+- [Vue RFCs](https://github.com/vuejs/rfcs)
