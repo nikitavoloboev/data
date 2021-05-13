@@ -78,5 +78,5 @@
 - [Django 3.2 (2021)](https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/) ([HN](https://news.ycombinator.com/item?id=26710013))
 - [Constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
 - [Rapid Prototyping with Django, htmx, and Tailwind CSS (2021)](https://testdriven.io/blog/django-htmx-tailwind/)
-- [Django SQL Dashboard](https://django-sql-dashboard.datasette.io/en/latest/) ([HN](https://news.ycombinator.com/item?id=27107428)) ([Code](https://github.com/simonw/django-sql-dashboard))
+- [Django SQL Dashboard](https://django-sql-dashboard.datasette.io/en/latest/) ([HN](https://news.ycombinator.com/item?id=27107428)) ([Code](https://github.com/simonw/django-sql-dashboard)) ([Article](https://simonwillison.net/2021/May/10/django-sql-dashboard/))
 - [Get to know Django models better (2021)](https://girlthatlovestocode.com/django-model)

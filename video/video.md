@@ -226,3 +226,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [CanCan](https://github.com/dfinity/cancan) - Scalable video-sharing service.
 - [SRS](https://github.com/ossrs/srs) - Simple, high efficiency and real time video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.
 - [FFmpeg as a Library : libav tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+- [25 Edits That Define the Modern Internet Video (2021)](https://www.vulture.com/2021/05/best-online-videos-tiktok-youtube-vine.html)

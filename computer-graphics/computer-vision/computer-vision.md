@@ -295,3 +295,4 @@
 - [LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference](https://github.com/facebookresearch/LeViT)
 - [Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary (2021)](https://arxiv.org/abs/2104.14631)
 - [Neural Rendering: How Low Can You Go in Terms of Input? (2021)](https://www.unite.ai/neural-rendering-low-resolution-input-intel/)
+- [Enhancing Photorealism Enhancement (2021)](https://intel-isl.github.io/PhotorealismEnhancement/)

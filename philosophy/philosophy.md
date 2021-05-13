@@ -43,3 +43,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Philosophy Books and Resources](https://github.com/Jfaler/Philosophy)
 - [From the Philosophy of the Open to the Ideology of the User-Friendly (2021)](https://loriemerson.net/2013/02/02/from-the-philosophy-of-the-open-to-the-ideology-of-the-user-friendly-2/)
 - [On Susan Stebbing and the role of public philosophy](https://aeon.co/essays/on-susan-stebbing-and-the-role-of-public-philosophy)
+- [Visualizing SEP](https://www.visualizingsep.com/#) - Interactive data visualization of the Stanford Encyclopedia of Philosophy.
