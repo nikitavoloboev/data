@@ -295,6 +295,7 @@
 - [DynamicColor](https://github.com/yannickl/DynamicColor) - Provides powerful methods to manipulate colors in an easy way in Swift and SwiftUI.
 - [FetchImage](https://github.com/kean/FetchImage) - Makes it easy to download images using Nuke and display them in SwiftUI apps.
 - [ResponderChain](https://github.com/Amzd/ResponderChain) - Cross-platform first responder handling without subclassing views or making custom ViewRepresentables in SwiftUI.
+- [SwiftUI TextEdit View](https://github.com/krzyzanowskim/SwiftUI.TextEdit) - SwiftUI proof-of-concept text edit component.
 
 ## Test
 
