@@ -292,3 +292,5 @@
 - [Whatlang](https://github.com/greyblake/whatlang-rs) - Natural language detection library for Rust. ([Web](https://whatlang.org/))
 - [Category Theory + NLP Papers](https://github.com/jbrkr/Category_Theory_Natural_Language_Processing_NLP)
 - [UniLM](https://github.com/microsoft/unilm) - Pre-trained models for natural language understanding (NLU) and generation (NLG) tasks.
+- [AutoNLP](https://github.com/huggingface/autonlp) - Faster and easier training and deployments of SOTA NLP models.
+- [TAble PArSing (TAPAS)](https://github.com/google-research/tapas) - End-to-end neural table-text understanding models.
