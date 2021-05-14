@@ -45,6 +45,7 @@
 - [If you launch and no one notices, launch again. We launched 3 times. - Brian Chesky](https://twitter.com/gregisenberg/status/1346628063983972353)
 - [Customer service is a big differentiator for a startup. Especially in the very beginning, when you have so few users that you can deliver extremely personalized service, and it's the CEO doing it.](https://twitter.com/SamGichuru/status/1376588000335962123)
 - [Product research is valuable, but if you can ship an MVP in the a similar time frame, do that instead. Real product data > everything else.](https://twitter.com/hemal/status/1382074186588332033)
+- [The faster a space is moving, the more you need to bet on the people than the product.](https://twitter.com/scottbelsky/status/1391437978401116166)
 
 ## Links
 

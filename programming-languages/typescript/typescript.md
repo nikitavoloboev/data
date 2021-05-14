@@ -152,6 +152,7 @@
 - [Advanced Typescript Types (2021)](https://engineering.tableau.com/really-advanced-typescript-types-c590eee59a12)
 - [TypeScript Needs to Emit Runtime Type Information](https://www.typescriptneedstypes.com/) ([Code](https://github.com/akutruff/typescript-needs-types))
 - [types-sync](https://github.com/maddhruv/types-sync) - Keep your types in sync with DefinitelyTyped - auto install/uninstall types for dependencies on postinstall.
+- [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
 
 ## Images
 

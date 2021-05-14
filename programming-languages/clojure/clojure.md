@@ -126,3 +126,4 @@
 - [Developer Ergonomics with VS Code, Clojure, and ClojureScript (2021)](https://www.youtube.com/watch?v=LR7Wv6bSZqE)
 - [cljstyle](https://github.com/greglook/cljstyle) - Tool for formatting Clojure code.
 - [Six years of professional Clojure development (2021)](http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html)
+- [Clojure JVM + BEAM = Clojerl (by Juan Facorro) (2021)](https://www.youtube.com/watch?v=vgxOKmZYDwU)

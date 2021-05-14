@@ -20,6 +20,7 @@
 - [No one can actually prove ads any any ROI at all. No one is willing to run the experiments necessary. In the few cases of natural experiments, where ads got turned off for some people by accident, there was no change in buying behavior.](https://news.ycombinator.com/item?id=25623858)
 - [How to sell your product: tell people how they can solve the problem it solves, without buying your product.](https://twitter.com/shl/status/1369026126366994432)
 - [Simple marketing rule: If you make people feel good, those "people" will be customers for life](https://twitter.com/gregisenberg/status/1385586957519147008)
+- [If you're only able to make 1 marketing hire at your startup, I strongly recommend starting with a content writer.](https://twitter.com/agazdecki/status/1391724959282565120)
 
 ## Links
 
@@ -119,6 +120,7 @@
 - [7 key areas to focus when starting a consumer brand (2021)](https://twitter.com/jwmares/status/1387818691962753027)
 - [Headless Brands](https://otherinter.net/web3/headless-brands/)
 - [Importance of Sales team (2021)](https://twitter.com/paulstovell/status/1389881033470869504)
+- [Top 0.1% of marketing mental models (2021)](https://twitter.com/george__mack/status/1391824470977941516)
 
 ## Images
 

@@ -22,3 +22,4 @@
 - [Miami Tech Week: The Start Of Startup Cities (2021)](https://1729.com/miami/)
 - [Traffic Calming Strategies](https://globaldesigningcities.org/publication/global-street-design-guide/designing-streets-people/designing-for-motorists/traffic-calming-strategies/)
 - [Global Designing Cities Initiative](https://globaldesigningcities.org/)
+- [Suppose cities had official apps (2021)](https://twitter.com/balajis/status/1391635915370500096)
