@@ -37,6 +37,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Do not sweep anything under the rug. If there's an issue address it, and do everything to compromise and resolve it as much as possible.](https://www.reddit.com/r/AskMen/comments/na7e9t/what_is_the_single_hardest_lesson_a_man_has_to/)
 - [She’s not the answer to your problems. I see so many long-term single guys who are desperate to be in a relationship, but they don’t seem to realize that a relationship will more often magnify their problems, rather than eliminate them.](https://www.reddit.com/r/AskMen/comments/na7e9t/what_is_the_single_hardest_lesson_a_man_has_to/)
 - [In so many ways, women are like cats. If you chase women they will run away. Remember that women have a lot of men chasing them and they aren’t just looking for “a guy” they are looking for the one they want.](https://www.reddit.com/r/AskMen/comments/na7e9t/what_is_the_single_hardest_lesson_a_man_has_to/)
+- [Coffee and walk are often the best dates. The focus of the date should just be get together, make sure you didn't misrepresent yourselves, connect a little, become comfortable in one another's company. Something that can be short if needed, but can be extended if things are going well.](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/)
 
 ## Links
 
@@ -77,3 +78,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [How to deal with my own red flags (2021)](https://www.reddit.com/r/datingoverthirty/comments/n7n49z/how_to_deal_with_my_own_red_flags/)
 - [Narcissistic Abuse Reddit](https://www.reddit.com/r/NarcissisticAbuse/)
 - [Divorce (2021)](https://www.profgalloway.com/divorce/)
+- [Successful experiences dating "avoidants" (2021)](https://www.reddit.com/r/datingoverthirty/comments/nbnx50/successful_experiences_dating_avoidants/)

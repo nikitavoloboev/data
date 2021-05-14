@@ -125,7 +125,7 @@
 - Go on unique and spontaneous dates. Try and walk every day and spend time together (i.e. get coffee and walk).
 - Don't show bad intentions, the goal of each relationship is to maximize each other's happiness and pleasure in life. Don't take relationships for granted and don't abuse other's love for you.
 - Ask before doing something that can potentially hurt your partner.
-- Assume good intentions. Call out bad behavior in a friendly way. Don't be passive aggressive and don't make many many demeaning jokes about your partner/friend. Don't put people down for the sake of a laugh.
+- Assume good intentions. Call out bad behavior in a friendly way. Don't be passive aggressive and don't make many demeaning jokes about your partner/friend. Don't put people down for the sake of a laugh.
 - Take things seriously. Don't let anyone lose trust in you, especially your partner.
 
 ## Finance

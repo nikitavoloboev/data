@@ -114,3 +114,4 @@
 - [Explained from First Principles](https://explained-from-first-principles.com/) ([Code](https://github.com/KasparEtter/ef1p))
 - [Tinyschool](https://tiny.school/) - Curated learning paths that will help you be a better engineer.
 - [Traverse](https://traverse.link/) - Learning tool designed to help you remember.
+- [Kyla Scanlon's Reading List](https://www.notion.so/Reading-List-1b7b6b0c0c0646849124942c3e23e39c)

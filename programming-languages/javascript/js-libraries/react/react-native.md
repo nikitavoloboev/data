@@ -107,3 +107,4 @@
 - [Setting up an Example App for Your React Native Library (2019)](https://medium.com/@charpeni/setting-up-an-example-app-for-your-react-native-library-d940c5cf31e4) ([Tweet](https://twitter.com/ericclemmons/status/1377097139201843200))
 - [Why founders should NOT use React Native (2021)](https://twitter.com/ricburton/status/1378891194776739842)
 - [Stripe React Native SDK](https://github.com/stripe/stripe-react-native)
+- [Coinbase’s successful transition to React Native (2021)](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971)

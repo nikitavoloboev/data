@@ -24,6 +24,7 @@
 - [Some companies think political discussions belong in any part of their work space. Others feel they get in the way of other communication. A suggestion to reject false trade-offs: actively create spaces for these conversations.](https://twitter.com/moskov/status/1389375526888886275)
 - [Zoom has conditioned me to believe that if I don’t like an event or meeting, I can just leave—immediately and without a word to anyone.](https://twitter.com/ConnorMEwing/status/1388148963417673739)
 - [7 principles for better networking (2021)](https://twitter.com/businessbarista/status/1389265524597657603)
+- [Don't prioritize someone else's opinions, expectations or thoughts on your response times over your own needs/wants/availability. Some people will complain you aren't responsive enough, some will think its too much, some will reply to soon for your liking, some too slow.](https://www.reddit.com/r/datingoverthirty/comments/nbj1b0/is_it_better_to_quickly_reply_when_you_have_a/)
 
 ## Links
 
