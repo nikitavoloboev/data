@@ -72,3 +72,4 @@
 - [Scala projects are difficult to maintain (2021)](https://mungingdata.com/scala/maintenance-nightmare-upgrade/) ([HN](https://news.ycombinator.com/item?id=26539508))
 - [Deriving the Frontend — Form Combinator Fun with Scala.js (2021)](https://www.youtube.com/watch?v=JHriftPO62I)
 - [What's new in Scala 3: all the "small" things (2020)](https://www.youtube.com/watch?v=GCuskYmhvAc)
+- [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0) ([HN](https://news.ycombinator.com/item?id=27151732))

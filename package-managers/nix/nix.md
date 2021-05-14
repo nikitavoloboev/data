@@ -189,3 +189,4 @@
 - [nix-eval-lsp](https://github.com/aaronjanse/nix-eval-lsp) - Nix language server that evaluates code.
 - [Flakes are such an obviously good thing: ...but the design and development process should be better (2021)](https://grahamc.com/blog/flakes-are-an-obviously-good-thing) ([Lobsters](https://lobste.rs/s/ipvgon/flakes_are_such_obviously_good_thing))
 - [scratchix](https://github.com/dramforever/scratchix) - Linux From Scratch, but it's Nix.
+- [Understanding Nix's String Context (2018)](https://shealevy.com/blog/2018/08/05/understanding-nixs-string-context/)
