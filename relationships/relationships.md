@@ -76,3 +76,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What is intellectual stimulation to you? (2021)](https://www.reddit.com/r/datingoverthirty/comments/n7jw58/what_is_intellectual_stimulation_to_you/)
 - [How to deal with my own red flags (2021)](https://www.reddit.com/r/datingoverthirty/comments/n7n49z/how_to_deal_with_my_own_red_flags/)
 - [Narcissistic Abuse Reddit](https://www.reddit.com/r/NarcissisticAbuse/)
+- [Divorce (2021)](https://www.profgalloway.com/divorce/)

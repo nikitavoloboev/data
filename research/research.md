@@ -105,3 +105,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research)
 - [Should Knowledge Be Free? (2020)](https://www.youtube.com/watch?v=PriwCi6SzLo&t=8s)
 - [DOAJ](https://www.doaj.org/) - Directory of Open Access Journals. ([HN](https://news.ycombinator.com/item?id=27073779))
+- [Rescue Mission for Sci-Hub and Open Science: We Are the Library](https://www.reddit.com/r/DataHoarder/comments/nc27fv/rescue_mission_for_scihub_and_open_science_we_are/)

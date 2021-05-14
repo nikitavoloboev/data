@@ -106,3 +106,4 @@
 - [Travis Kalanick on Fundraising (2009)](https://swooshing.wordpress.com/2009/03/19/startup-seed-raising-skillzzz/)
 - [Announcing investor syndicates like Coachella posters](https://twitter.com/balajis/status/1390779404712701953)
 - [Guide to Non-Dilutive Funding For SaaS Companies (2021)](https://blog.trypaper.io/definitive-guide-to-non-dilutive-funding-for-saas-companies/)
+- [Some Notes on Fundraising (2021)](https://continuations.com/post/651160278275440640/some-notes-on-fundraising)

@@ -294,3 +294,4 @@
 - [UniLM](https://github.com/microsoft/unilm) - Pre-trained models for natural language understanding (NLU) and generation (NLG) tasks.
 - [AutoNLP](https://github.com/huggingface/autonlp) - Faster and easier training and deployments of SOTA NLP models.
 - [TAble PArSing (TAPAS)](https://github.com/google-research/tapas) - End-to-end neural table-text understanding models.
+- [Replacing Bert Self-Attention with Fourier Transform: 92% Accuracy, 7X Faster (2021)](https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/)

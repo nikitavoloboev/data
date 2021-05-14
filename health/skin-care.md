@@ -25,3 +25,5 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [Liah Yoo YouTube](https://www.youtube.com/c/LiahYoo/videos) - Videos to make taking care of yourself more approachable by offering skincare, self-care, and lifestyle tips.
 - [What are some small changes you made to your routine that had an impact on your skin? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/kpobqa/miscellaneous_what_are_some_small_changes_you/)
 - [Your best kept skincare tips you follow that don't involve products? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/n4lb09/miscwhat_are_some_of_your_best_kept_skincare_tips/)
+- [Nice Skin Care Routine](https://www.reddit.com/r/SkincareAddiction/comments/ncemoq/selfie_going_makeupfree_for_the_first_time_in_a/)
+- [SkincareAddiction Wiki](https://www.reddit.com/r/SkincareAddiction/wiki/index)

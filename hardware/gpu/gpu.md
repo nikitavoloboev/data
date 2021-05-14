@@ -53,3 +53,4 @@
 - [Faster Rendering Using Hardware Acceleration (2021)](https://www.sublimetext.com/blog/articles/hardware-accelerated-rendering)
 - [NVTOP](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool.
 - [gpustat](https://github.com/wookayin/gpustat) - Simple command-line utility for querying and monitoring GPU status.
+- [The stack monoid revisited (2021)](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)

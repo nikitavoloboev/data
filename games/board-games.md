@@ -32,3 +32,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [Board Games Reddit Wiki](https://www.reddit.com/r/boardgames/wiki/index)
 - [Board Gaming in Figma (2021)](https://mastery.games/post/board-gaming-in-figma/)
 - [Roleplayful](https://roleplayful.com/) - Find people to play tabletop roleplaying games with. ([HN](https://news.ycombinator.com/item?id=26647424))
+- [GamesRoom.io](https://gamesroom.io/) - Board games and video chat.
