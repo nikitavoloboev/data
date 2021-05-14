@@ -62,7 +62,7 @@
 - [Hyperdrive](https://github.com/dac-gmbh/hyperdrive) - Declarative HTTP request routing, guarding and decoding.
 - [tame-oidc](https://github.com/EmbarkStudios/tame-oidc) - Small OAuth crate that follows the sans-io approach.
 - [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust.
-- [MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework.
+- [MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework. ([Podcast](https://blog.abor.dev/p/moonzoon)) ([HN](https://news.ycombinator.com/item?id=27155639))
 
 ## WASM
 
@@ -354,7 +354,7 @@
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library. ([Article](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/))
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules. ([Web](https://neon-bindings.com/))
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative written in Rust. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN 2](https://news.ycombinator.com/item?id=26194990))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative written in Rust. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831))
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
 - [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
