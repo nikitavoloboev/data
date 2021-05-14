@@ -54,3 +54,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Open Source Notion API Apps](https://github.com/MaaxGr/open-source-notionapi-apps)
 - [Notion SDK for JavaScript](https://github.com/makenotion/notion-sdk-js)
 - [Notion GitHub](https://github.com/makenotion)
+- [Notion Apps](https://www.notionapps.xyz/) - Directory of Notion API apps.
