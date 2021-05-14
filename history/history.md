@@ -111,4 +111,4 @@
 - [What's your favorite piece of obsolete technology? (2021)](https://twitter.com/theavalkyrie/status/1383092894551117839)
 - [Протесты немецких женщин на Розенштрассе](https://twitter.com/elitablog/status/1384253519918637061)
 - [Exclusive Photos Inside the Chernobyl Nuclear Power Plant (2021)](https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/)
-- [What John von Neumann really did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+- [What John von Neumann Did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)

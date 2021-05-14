@@ -44,3 +44,4 @@
 - [karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager.
 - [pint](https://github.com/cloudflare/pint) - Prometheus rule linter.
 - [ML data and model drift in Prometheus and Grafana](https://boxkite.ml/en/latest/using/)
+- [Fly’s Prometheus Metrics](https://fly.io/blog/measuring-fly/) ([HN](https://news.ycombinator.com/item?id=27147482))
