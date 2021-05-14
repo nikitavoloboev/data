@@ -2,4 +2,5 @@
 
 ## Links
 
-- [Zulip 3.0: Threaded Open Source Team Chat (2020)](https://blog.zulip.com/2020/07/16/zulip-3-0-released/) ([HN](https://news.ycombinator.com/item?id=23860338))
+- [Zulip 3.0 (2020)](https://blog.zulip.com/2020/07/16/zulip-3-0-released/) ([HN](https://news.ycombinator.com/item?id=23860338))
+- [Zulip 4.0 (2021)](https://blog.zulip.com/2021/05/13/zulip-4-0-released/) ([HN](https://news.ycombinator.com/item?id=27149123))

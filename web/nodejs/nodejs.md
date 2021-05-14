@@ -209,3 +209,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [unimported](https://github.com/smeijer/unimported) - CLI utility that scans node/JavaScript projects to report dangling files and unused dependencies.
 - [boxednode](https://github.com/mongodb-js/boxednode) - Ship a JS file with Node.js in a box.
 - [caxa](https://github.com/leafac/caxa) - Package Node.js applications into executable binaries.
+- [Dependency Managers Don’t Manage Your Dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
+- [Specialist](https://github.com/fabiospampinato/specialist) - Library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.

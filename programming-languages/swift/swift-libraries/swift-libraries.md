@@ -682,6 +682,7 @@
 - [SwiftRegexDSL](https://github.com/kodlian/SwiftRegexDSL) - Declarative Structured Language for regular expressions in Swift.
 - [SFBAudioEngine](https://github.com/sbooth/SFBAudioEngine) - Toolbox of powerful audio functionality for macOS and iOS.
 - [SWCompression](https://github.com/tsolomko/SWCompression) - Swift framework for working with compression, archives and containers.
+- [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
 
 ## Other (not lib)
 

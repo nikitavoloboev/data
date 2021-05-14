@@ -195,3 +195,4 @@
 - [Evolving Reinforcement Learning Algorithms (2021)](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
 - [Model-Based RL for Decentralized Multi-agent Navigation (2021)](https://ai.googleblog.com/2021/04/model-based-rl-for-decentralized-multi.html)
 - [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2))
+- [RoboDesk](https://github.com/google-research/robodesk) - Multi-Task Reinforcement Learning Benchmark.

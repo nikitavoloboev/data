@@ -49,3 +49,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [soju](https://sr.ht/~emersion/soju/) - User-friendly IRC bouncer. ([Lobsters](https://lobste.rs/s/0dnybw/soju_user_friendly_irc_bouncer))
 - [History of IRC (Internet Relay Chat)](https://daniel.haxx.se/irchistory.html)
 - [Kiwi IRC](https://kiwiirc.com/) - Web IRC client. ([Code](https://github.com/kiwiirc/kiwiirc))
+- [I am resigning along with most other Freenode staff (2021)](https://p.haavard.me/407) ([HN](https://news.ycombinator.com/item?id=27153338))

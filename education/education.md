@@ -76,3 +76,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Someone has to run the fabs (2021)](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs)
 - [Juni Learning](https://junilearning.com/) - Online Coding Classes for Kids.
 - [UPchieve](https://upchieve.org/) - Live tutoring for low-income students. ([HN](https://news.ycombinator.com/item?id=27118794))
+- [Synthesis](https://www.synthesis.is/) - Weekly, 1-hour enrichment program for students who want to learn how to build the future.
