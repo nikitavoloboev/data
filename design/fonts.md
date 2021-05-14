@@ -242,3 +242,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [NaNGlyphFilters](https://www.generativefonts.xyz/) - Generative Fonts & Scripts. ([Code](https://github.com/NaN-xyz/Glyph-Filters))
 - [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
 - [Using Computer Modern on the web](https://www.checkmyworking.com/cm-web-fonts/)
+- [Ask HN: What are the best typography talks? (2021)](https://news.ycombinator.com/item?id=27154412)
