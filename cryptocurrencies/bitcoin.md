@@ -143,3 +143,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Ask HN: What do you think of Bitcoin? (2021)](https://news.ycombinator.com/item?id=27024667)
 - [An Analysis of Bitcoin's Throughput Bottlenecks](https://github.com/fresheneesz/bitcoinThroughputAnalysis) ([HN](https://news.ycombinator.com/item?id=27127644))
 - [We Use Coins](https://www.weusecoins.com/) ([Code](https://github.com/sunnankar/wuc-new))
+- [Bitcoin Is Civilization (2021)](https://bariweiss.substack.com/p/is-bitcoin-anarchy-or-civilization) ([Tweet](https://twitter.com/APompliano/status/1393230162649616387))
