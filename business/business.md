@@ -77,3 +77,4 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: I'd like to start a company, where should I begin? (2021)](https://news.ycombinator.com/item?id=26869271)
 - [How Tech Loses Out over at Companies, Countries and Continents (2021)](https://berthub.eu/articles/posts/how-tech-loses-out/) ([Lobsters](https://lobste.rs/s/iz5vhn/how_tech_loses_out_over_at_companies))
 - [What's Salesforce? (2019)](https://retool.com/blog/salesforce-for-engineers/) ([HN](https://news.ycombinator.com/item?id=27016600))
+- [Great banks for business (2021)](https://twitter.com/mjackson/status/1393298475970744324)

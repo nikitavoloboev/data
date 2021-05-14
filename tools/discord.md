@@ -8,6 +8,7 @@
 - [Glimbot](https://github.com/nisamson/glimbot) - Discord utility bot.
 - [Blitz Community Bot](https://github.com/blitz-js/discord-bot) - Utility bot built for the Blitz Community Discord Server.
 - [Next.js Discord Slash Commands](https://github.com/jackmerrill/nextjs-discord-slash-commands)
+- [Discord GitHub Bot](https://github.com/Falconerd/discord-bot-github) - Consumes the GitHub API and gives you updates.
 
 ## Libraries
 

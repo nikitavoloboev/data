@@ -21,7 +21,7 @@
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits.
 - Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. You only live now.
-- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md).
+- [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md). Appreciate what you have.
 
 ## Health
 
@@ -113,6 +113,20 @@
 - Value each animal’s life as equal to that of my own. Don't eat or hurt anyone.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
 - Strive to empower everyone around me to be better. Show compassion and care. Be humble.
+
+## Relationships
+
+- Communicate everything. Be honest, kind and empathetic. Don't avoid/ignore conflicts.
+- Acknowledge and apologize for any mistakes made. Learn and improve.
+- Don't be cruel in my actions and words. Treat my partner and friends with respect.
+- Show genuine interest and love in the other person's lives. Especially my partner.
+- Don't cheat (if not discussed and not allowed) in secret. Don't lie.
+- Don't complain needlessly and be a burden to anyone's lives. It's okay to ask for help and hugs. Share your struggles and the wins. Appreciate each other.
+- Go on unique and spontaneous dates. Try and walk every day and spend time together (i.e. get coffee and walk).
+- Don't show bad intentions, the goal of each relationship is to maximize each other's happiness and pleasure in life. Don't take relationships for granted and don't abuse other's love for you.
+- Ask before doing something that can potentially hurt your partner.
+- Assume good intentions. Call out bad behavior in a friendly way. Don't be passive aggressive and don't make many many demeaning jokes about your partner/friend. Don't put people down for the sake of a laugh.
+- Take things seriously. Don't let anyone lose trust in you, especially your partner.
 
 ## Finance
 

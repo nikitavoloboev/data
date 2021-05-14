@@ -10,6 +10,7 @@
 - [To prevent usernames and URLs from being converted to links, interrupt them with a zero-width space.](https://twitter.com/markdalgleish/status/1340897088486273034)
 - [Normalize reading the whole tweet/tweet thread before replying](https://twitter.com/sarah_edo/status/1370806530497376257)
 - [Twitter stops being fun after a certain number of followers because you can’t tweet anything without a barrage of opinions/projections.](https://twitter.com/notdanilu/status/1378770853169627137)
+- [Twitter is a lot like prison. The best move on your first day is to pick a fight with the biggest account on here.](https://twitter.com/nikitabier/status/1391049141124427782)
 
 ## Links
 
