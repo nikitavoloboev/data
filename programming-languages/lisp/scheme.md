@@ -44,3 +44,4 @@
 - [Tehila](https://github.com/sgrove/tehila) - 3D engine for Scheme.
 - [steel](https://github.com/mattwparas/steel) - Embedded scheme interpreter in Rust.
 - [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine.
+- [A love letter to s7 Scheme (2016)](https://carloscarrasco.com/love-letter-to-s7-scheme/)

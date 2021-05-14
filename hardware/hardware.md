@@ -195,3 +195,4 @@
 - [Apple Silicon Hardware: SPRR and Guarded Exception Levels (GXF) (2021)](https://blog.svenpeter.dev/posts/m1_sprr_gxf/) ([HN](https://news.ycombinator.com/item?id=27078614))
 - [Adafruit](https://www.adafruit.com/) - Unique & fun DIY electronics and kits.
 - [DIY Air Quality Sensor](https://www.airgradient.com/diy/)
+- [What other hobbyist "small devices" are out there other than the RPi? (2021)](https://lobste.rs/s/uhrh3e/what_other_hobbyist_small_devices_are_out)
