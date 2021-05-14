@@ -229,3 +229,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Mental model for generating world-class writing](https://twitter.com/Julian/status/1327765347936522240)
 - [Editing technique of counting to use with writing (2021)](https://twitter.com/MarcJBrooker/status/1387562273330188289)
 - [Great Memos](https://sriramk.com/memos.html)
+- [Programming and Writing (2021)](http://antirez.com/news/135) ([HN](https://news.ycombinator.com/item?id=27152571))

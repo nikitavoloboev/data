@@ -111,3 +111,4 @@
 - [Ask HN: Is there a way to efficiently subscribe to an SQL query for changes? (2021)](https://news.ycombinator.com/item?id=26901352)
 - [Practical SQL for Data Analysis: What you can do without Pandas (2021)](https://hakibenita.com/sql-for-data-analysis) ([HN](https://news.ycombinator.com/item?id=27025829))
 - [sqlbench](https://github.com/felixge/sqlbench) - Measures and compares the execution time of one or more SQL queries.
+- [Efficient SQL on Pandas with DuckDB (2021)](https://duckdb.org/2021/05/14/sql-on-pandas.html)

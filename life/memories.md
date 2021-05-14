@@ -17,3 +17,7 @@ It's interesting to think, what would I do if I knew that at the end of every da
 In any way, knowing all that. I just wish to make as many unique and interesting experiences in life as I can. Make many meaningful friendships and meet many interesting people. Build interesting things and share them. Travel to new places and feel the different cultures and histories of these places. Take photographs and capture these little moments in my life.
 
 Because that's what life is. Trying to peek under the covers of this reality only gets you so far.
+
+## Links
+
+- [The brain maps out ideas and memories like spaces (2021)](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/) ([HN](https://news.ycombinator.com/item?id=27148529))

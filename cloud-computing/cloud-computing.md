@@ -68,3 +68,4 @@
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool.
 - [Cloud Native Glossary](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf)
 - [Cloudflare on the Edge (2021)](https://stratechery.com/2021/cloudflare-on-the-edge/) ([HN](https://news.ycombinator.com/item?id=27120677))
+- [Ask HN: Where is a nice place to host which is not AWS / GCP types (2021)](https://news.ycombinator.com/item?id=27150689)

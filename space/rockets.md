@@ -14,3 +14,4 @@
 - [SpaceX's Starship SN10 Successfully Lands After Amazing Flight. Dismantles Itself Spectacularly. (2021)](https://www.youtube.com/watch?v=CF9mdMI1qxM) ([Reddit](https://www.reddit.com/r/spacex/comments/lxq997/spacexs_starship_sn10_successfully_lands_after/))
 - [SN69 Rocket](https://twitter.com/ErcXspace/status/1382096113860239365)
 - [Orbital Mechanics – How do rockets get to where they're headed?](https://steemit.com/steemstem/@alexdory/how-do-rockets-really-get-to-where-they-re-headed-orbital-mechanics) ([HN](https://news.ycombinator.com/item?id=26944249))
+- [How SpaceX lands Starship (sort of) (2021)](https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b) ([HN](https://news.ycombinator.com/item?id=27148296))
