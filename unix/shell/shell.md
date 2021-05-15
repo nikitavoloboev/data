@@ -130,3 +130,4 @@ All active variables can be seen by running `env`.
 - [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/) ([HN](https://news.ycombinator.com/item?id=27023572))
 - [The Once and Future Shell (2021)](https://angelhof.github.io/files/papers/shell-2021-hotos.pdf)
 - [zx](https://github.com/google/zx) - JavaScript for Shell Scripting. ([Lobsters](https://lobste.rs/s/9yu5sl/after_discussion_here_i_created_lib_for)) ([HN](https://news.ycombinator.com/item?id=27072515))
+- [lazycli](https://github.com/jesseduffield/lazycli) - Turn static CLI commands into TUIs with ease.

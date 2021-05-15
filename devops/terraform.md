@@ -74,3 +74,4 @@
 - [terrafying](https://github.com/uswitch/terrafying) - Small ruby DSL for Terraform.
 - [tfquery](https://github.com/mazen160/tfquery) - Run SQL queries on your Terraform infrastructure. Query resources and analyze its configuration using a SQL-powered framework.
 - [Terraform Tuesdays - YouTube](https://www.youtube.com/playlist?list=PLXb5972EMl4BWj8cAq9AZgeKBa2M8_7-y) ([Code](https://github.com/ned1313/terraform-tuesdays))
+- [turf](https://github.com/cloudposse/turf) - CLI Tool to help with various automation tasks (mostly all that stuff we cannot accomplish with native Terraform).

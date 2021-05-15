@@ -355,6 +355,7 @@ Here are few more things I liked, design wise.
 - [Neil Sainsbury](https://www.neilwithdata.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Fabian De Smet](https://fabiandesmet.com/)
+- [Kyle Mathews](https://bricolage.io/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
 - [Mitxela](https://mitxela.com/)
 - [Francesco Lorenzo](https://francescodilorenzo.com/)

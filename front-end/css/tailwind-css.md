@@ -86,3 +86,4 @@
 - [Tailwind Mobile](https://github.com/tailwind-mobile/tailwind-mobile) - Mobile UI components made with Tailwind CSS. ([Web](https://tailwind-mobile.com/))
 - [Sexism, Racism, Toxic Positivity, and TailwindCSS (2021)](https://dev.to/cher/sexism-racism-toxic-positivity-and-tailwindcss-cil)
 - [Moving From Tailwind To CSS Variables (2021)](https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables)
+- [TailwindCSS Stimulus Components](https://github.com/excid3/tailwindcss-stimulus-components) - Set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.

@@ -211,3 +211,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [caxa](https://github.com/leafac/caxa) - Package Node.js applications into executable binaries.
 - [Dependency Managers Don’t Manage Your Dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 - [Specialist](https://github.com/fabiospampinato/specialist) - Library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
+- [Steno](https://github.com/typicode/steno) - Specialized fast async file writer.
