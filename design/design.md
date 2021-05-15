@@ -175,3 +175,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Web Designer & Developer Toolkit](https://toolkit.addy.codes/) - Curated tools & resources for people who make websites.
 - [Root Illustrations](https://rootwireframekit.com/illustrations) - Beautiful illustration constructor for websites & apps.
 - [Skribbl](https://weareskribbl.com/) - Free, Hand-Drawn Illustrations.
+- [Базовые принципы проектирования](https://andreivoronin.github.io/design-basic)
