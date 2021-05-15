@@ -476,4 +476,4 @@
 - [55,000 lines of Rust code later: A debugger is born (2021)](https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md) ([HN](https://news.ycombinator.com/item?id=27135591))
 - [Rust Quiz](https://dtolnay.github.io/rust-quiz/)
 - [Rust Weird Expressions](https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs) ([HN](https://news.ycombinator.com/item?id=27152920))
-- [Things you can’t do in Rust (and what to do instead) (2021)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
+- [Things you can’t do in Rust (and what to do instead) (2021)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/) ([Reddit](https://www.reddit.com/r/rust/comments/nclaru/things_you_cant_do_in_rust_and_what_to_do_instead/))
