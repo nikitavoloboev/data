@@ -518,6 +518,7 @@
 - [ASON](https://github.com/jtenner/ason) - Data oriented algorithm designed for compact and speedy storage of AssemblyScript objects in a binary format.
 - [refractor](https://github.com/wooorm/refractor) - Lightweight, robust, elegant virtual syntax highlighting using Prism.
 - [Expounder](https://github.com/skorokithakis/expounder) - Library for explaining things in HTML.
+- [timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity.
 
 ## Links
 

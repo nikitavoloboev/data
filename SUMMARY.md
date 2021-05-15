@@ -848,6 +848,7 @@
   - [Used hotkeys](other/used-hotkeys.md)
   - [Mentions](other/mentions.md)
   - [Web presence](other/web-presence.md)
+- [Notes](notes/notes.md)
 - [Looking back](looking-back/looking-back.md)
   - [2017](looking-back/2017/2017.md)
   - [2018](looking-back/2018/2018.md)
