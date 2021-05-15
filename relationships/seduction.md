@@ -54,6 +54,8 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - [Mutual interest mutual investment. Above all, don't chase because it will always end in a crash or in your face in the pavement. Focus on you, build yourself up and get your numbers up.](https://www.reddit.com/r/seduction/comments/mqzvcr/she_now_puts_effort_to_try_to_talk_to_me/)
 - [Rejection doesn't hurt. It's time/money/energy saver.](https://www.reddit.com/r/seduction/comments/mocvvw/stop_trying_to_avoid_rejection/)
 - [If a person really wants to see you, they will make the time. Some people are actually busy, but yes, if they want to see you they will offer an alternative time(s) they are available.](https://www.reddit.com/r/seduction/comments/n355o6/if_a_person_really_wants_to_see_you_they_will/)
+- [You have to flirt I'm other ways (verbally or with expressions) before touching someone. Or it can get awkward.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
+- [Flirty energy comes out of a deep comfort. It is like this acceptance of who you are and a confidence that the other person will like and receive you. Being flirty is playful. It is fun and without expectation. Flirting doesn’t have a goal. Somehow fake it till you make it, believe in your value and believe that the men you are with will value and be attracted to you. Lose expectations. React playfully in the moment. Don’t be concerned with outcome or keeping up appearances. More than anything don’t be afraid of rejection.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
 
 ## Links
 
@@ -69,3 +71,4 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - [What skills or skill sets or activities are attractive for a mid 30s guy?](https://www.reddit.com/r/datingoverthirty/comments/n04zmr/question_for_the_women_out_there_what_skills_or/)
 - [Men in your mid-30s or older, where are you meeting single women? (2021)](https://www.reddit.com/r/seduction/comments/n5tnmz/men_in_your_mid30s_or_older_where_are_you_meeting/)
 - [First Date Ideas? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/)
+- [Tips for flirting with other grown ups? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
