@@ -257,3 +257,4 @@
 - [PGXN: PostgreSQL Extension Network](https://pgxn.org/)
 - [PGXN Client](https://github.com/pgxn/pgxnclient) - Command line client for the PostgreSQL Extension Network.
 - [Using PostgreSQL as a Data Warehouse (2021)](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/) ([HN](https://news.ycombinator.com/item?id=27109960))
+- [IsomorphicDB](http://isomorphicdb.io/) - PostgreSQL compatible distributed database in Rust. ([Code](https://github.com/alex-dukhno/isomorphicdb))

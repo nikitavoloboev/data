@@ -36,3 +36,4 @@
 - [Headscale](https://github.com/juanfont/headscale) - Open source implementation of the Tailscale coordination server.
 - [innernet](https://github.com/tonarino/innernet) - Private network system that uses WireGuard under the hood. ([Article](https://blog.tonari.no/introducing-innernet))
 - [wgctl](https://github.com/apognu/wgctl) - WireGuard control utility.
+- [Ansible Wireguard Role](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
