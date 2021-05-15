@@ -28,3 +28,4 @@
 - [Cosmopolitan Libc for Nim](https://github.com/Yardanico/cosmonim)
 - [Nim Playground](https://play.nim-lang.org/)
 - [Nim 2.0 thoughts (2021)](https://forum.nim-lang.org/t/7983) ([HN](https://news.ycombinator.com/item?id=27165366))
+- [Nim RFCs](https://github.com/nim-lang/RFCs)

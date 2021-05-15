@@ -128,6 +128,10 @@
 - Assume good intentions. Call out bad behavior in a friendly way. Don't be passive aggressive and don't make many demeaning jokes about your partner/friend. Don't put people down for the sake of a laugh.
 - Take things seriously. Don't let anyone lose trust in you, especially your partner.
 
+## Communication
+
+- Show interest. Listen more. Don't be annoying and self indulgent. Respect time and don't pressure for response.
+
 ## Finance
 
 - Mindfully spend money. Don't support practices I don't agree with.

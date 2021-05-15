@@ -219,3 +219,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Nesting GitHub’s API in your GraphQL Schema](https://www.parabol.co/blog/nest-github-api-in-graphql-schema)
 - [Dependabot](https://dependabot.com/) - Automated dependency updates. ([Code](https://github.com/dependabot/dependabot-core))
 - [GREV](https://hanadigital.github.io/grev/) - View github release statistics. ([Code](https://github.com/HanaDigital/grev))
+- [giscus](https://github.com/laymonage/giscus) - Comments widget built on GitHub Discussions. ([Article](https://laymonage.com/posts/giscus))

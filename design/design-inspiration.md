@@ -273,6 +273,7 @@ Here are few more things I liked, design wise.
 - [Chance Strickland](https://chance.dev/)
 - [Monica Powell](https://www.aboutmonica.com/)
 - [Samurai](https://simurai.com/)
+- [Sage Abdullah](https://laymonage.com/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)
 - [Swiftjective-C](https://www.swiftjectivec.com/) ([Code](https://github.com/DreamingInBinary/Swiftjective-C))
