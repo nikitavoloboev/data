@@ -249,3 +249,4 @@
 - [GitHub Actions workflow browser (2021)](https://qmacro.org/2021/04/24/github-actions-workflow-browser/)
 - [How we use GitHub Actions to manage GitHub Docs (2021)](https://github.blog/2021-04-28-use-github-actions-manage-docs/)
 - [Unpacking Bash shell tips from a GitHub Actions workflow (2021)](https://qmacro.org/autodidactics/2021/04/28/unpacking-tips/) ([Lobsters](https://lobste.rs/s/lpfc9n/unpacking_bash_shell_tips_from_github))
+- [GitHub Actions and their product management philosophy (2021)](https://blog.thestateofme.com/2021/05/15/github-actions-and-their-product-management-philosophy/)
