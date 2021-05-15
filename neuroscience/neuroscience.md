@@ -1,5 +1,9 @@
 # Neuroscience
 
+## Notes
+
+- [Tools are interpreted by the brain as an extension of the human body.](https://twitter.com/provisionalidea/status/1392854515347513351)
+
 ## Links
 
 - [Master/Mind](https://vimeo.com/141479485)
