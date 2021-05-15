@@ -99,3 +99,4 @@ Success comes from not giving up and doing what you love.
 - [John Danaher: The Path to Mastery in Jiu Jitsu, Grappling, Judo, and MMA (2021)](https://overcast.fm/+eZyAvIA8g)
 - [How to be a better human](https://twitter.com/schlaf/status/1392898563693289477)
 - [Old Guard vs. New Guard: How to best scale a team (2021)](https://twitter.com/johncutlefish/status/1392943820728246274)
+- [10 ways to start developing your intellectual curiosity (2021)](https://twitter.com/SahilBloom/status/1393558623771451393)

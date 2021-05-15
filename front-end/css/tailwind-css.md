@@ -1,5 +1,9 @@
 # [Tailwind CSS](https://tailwindcss.com/)
 
+## Notes
+
+- [You can get all the Tailwind JIT goodness you like just by adding a single script tag to the head of your document.](https://twitter.com/lukejacksonn/status/1393563736942825481)
+
 ## Links
 
 - [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
