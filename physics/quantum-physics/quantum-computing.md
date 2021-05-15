@@ -81,3 +81,4 @@
 - [Write Your First Quantum Program (Common Lisp) (2021)](https://lambdafaktorie.com/how-to-write-your-first-quantum-program/) ([HN](https://news.ycombinator.com/item?id=26873119))
 - [Awesome Quantum Games](https://github.com/HuangJunye/Awesome-Quantum-Games)
 - [QuEST](https://github.com/QuEST-Kit/QuEST) - Multithreaded, distributed, GPU-accelerated simulator of quantum computers. ([Web](https://quest.qtechtheory.org/))
+- [Quantum Computing: Top Players 2021](https://www.youtube.com/watch?v=OGsu5MIzruw)
