@@ -206,3 +206,4 @@
 - [Swift Generics 2: Existentials Boogaloo (2021)](https://www.timekl.com/blog/2021/04/26/swift-generics-2-existentials-boogaloo/) ([Tweet](https://mobile.twitter.com/timothyekl/status/1386713786552225797))
 - [Introduction to Generics in Swift (2021)](https://www.youtube.com/watch?v=NY0LFoHQUbk)
 - [Swift Actors: A practical example, part 1 (2021)](https://trycombine.com/posts/swift-actors/) ([HN](https://news.ycombinator.com/item?id=27104376))
+- [PlotPlayground](https://github.com/JohnSundell/PlotPlayground) - Swift playground that comes pre-loaded with Plot, that can be used to explore the new component API.

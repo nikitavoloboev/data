@@ -95,6 +95,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tetris-OS](https://github.com/jdah/tetris-os) - Operating system that only plays Tetris. ([HN](https://news.ycombinator.com/item?id=26883645)) ([Video](https://www.youtube.com/watch?v=FaILnmUYS_U))
 - [Helium](https://github.com/mszoek/helium) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS.
 - [Harvey](https://github.com/Harvey-OS/harvey) - Distributed operating system. ([Web](https://harvey-os.org/))
+- [TypOS](https://github.com/msp-strath/TypOS) - Operating system for typechecking processes.
 
 ## Notes
 

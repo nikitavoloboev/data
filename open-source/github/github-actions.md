@@ -108,6 +108,7 @@
 - [setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go.
 - [Go Release GitHub Action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
 - [GoReleaser Action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser.
+- [Go version action](https://github.com/arnested/go-version-action) - Action for using the latest released Go version and your projects minimal support Go version.
 
 ## Rust
 

@@ -826,6 +826,8 @@
 - [Sauce](https://github.com/DanCardin/sauce) - Context specific everything.
 - [tokio-console](https://github.com/tokio-rs/console) - Diagnostics and debugging tool for asynchronous Rust programs.
 - [jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await.
+- [bytemuck](https://github.com/Lokathor/bytemuck) - Crate for mucking around with piles of bytes.
+- [heed](https://github.com/Kerollmops/heed) - Fully typed LMDB/MDBX wrapper with minimum overhead.
 
 ## Cargo Plugins
 

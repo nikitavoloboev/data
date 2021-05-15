@@ -383,3 +383,4 @@
 - [Open Source funding, Kim and Rancher Desktop with Matt Farina (2021)](https://www.youtube.com/watch?v=l9j45bvv7Rk)
 - [Bare Metal Operator](https://github.com/metal3-io/baremetal-operator) - Bare metal host provisioning integration for Kubernetes.
 - [Ask HN: What do you think will come after Kubernetes? (2021)](https://news.ycombinator.com/item?id=27155526)
+- [Pinniped](https://github.com/vmware-tanzu/pinniped) - Easy, secure way to log in to your Kubernetes clusters. ([Web](https://pinniped.dev/))

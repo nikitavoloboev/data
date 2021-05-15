@@ -143,6 +143,7 @@
 - [Vektor](https://github.com/suborbital/vektor) - Opinionated production-grade HTTP server framework.
 - [graphql-go-tools](https://github.com/jensneuse/graphql-go-tools) - Tools to write high performance GraphQL applications using Go.
 - [Lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares.
+- [Secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 
 ## GraphQL
 

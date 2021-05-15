@@ -296,3 +296,4 @@
 - [Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary (2021)](https://arxiv.org/abs/2104.14631)
 - [Neural Rendering: How Low Can You Go in Terms of Input? (2021)](https://www.unite.ai/neural-rendering-low-resolution-input-intel/)
 - [Enhancing Photorealism Enhancement (2021)](https://intel-isl.github.io/PhotorealismEnhancement/)
+- [DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control (2021)](http://www.geometrylearning.com/DeepFaceEditing/) ([Code](https://github.com/IGLICT/DeepFaceEditing-Jittor))

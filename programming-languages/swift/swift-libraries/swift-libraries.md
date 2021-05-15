@@ -684,6 +684,7 @@
 - [SFBAudioEngine](https://github.com/sbooth/SFBAudioEngine) - Toolbox of powerful audio functionality for macOS and iOS.
 - [SWCompression](https://github.com/tsolomko/SWCompression) - Swift framework for working with compression, archives and containers.
 - [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
+- [RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 
 ## Other (not lib)
 
