@@ -101,6 +101,7 @@
 
 ## Test
 
+- [ReTest](https://github.com/JuliaTesting/ReTest.jl) - Testing framework for Julia.
 - [XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - Unit-testing framework for Julia.
 
 ## Error
