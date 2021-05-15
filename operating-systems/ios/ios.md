@@ -311,3 +311,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Designing your first iOS app (2021)](https://www.youtube.com/watch?v=XzjxqS0xAu0)
 - [Mobile Apps at Scale: 39 Engineering Challenges](https://www.mobileatscale.com/)
 - [IPAPatch](https://github.com/paradiseduo/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
+- [How to set up iOS environments: develop, staging, and production (2021)](https://sarunw.com/posts/how-to-set-up-ios-environments/) ([Reddit](https://www.reddit.com/r/swift/comments/nca3go/how_to_set_up_ios_environments_develop_staging/))

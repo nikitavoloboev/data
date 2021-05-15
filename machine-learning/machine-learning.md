@@ -465,3 +465,4 @@
 - [Bias, variance, and their relationship with machine learning algorithms explained (2021)](https://twitter.com/svpino/status/1390969728504565761)
 - [Unsupervised Contrastive Learning of Sound Event Representations](https://github.com/edufonseca/uclser20)
 - [Kobra](https://kobra.dev/) - Visual programming language for machine learning. ([HN](https://news.ycombinator.com/item?id=27135573))
+- [Delving into Deep Imbalanced Regression (2021)](https://arxiv.org/abs/2102.09554) ([Code](https://github.com/YyzHarry/imbalanced-regression))

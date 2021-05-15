@@ -46,6 +46,7 @@ It includes:
 - [Making Sense with Sam Harris](https://overcast.fm/itunes733163012/making-sense-with-sam-harris) - Neuroscientist, philosopher and best selling author.
 - [Masters in Business](https://overcast.fm/itunes730188152/masters-in-business) - Looks at the people and ideas that shape markets, investing and business.
 - [The Next Big Idea](https://overcast.fm/itunes1482067226/the-next-big-idea) - Each episode dives deep into one big idea through immersive storytelling, narration and curator interviews with the most interesting authors at work today.
+- [Darknet Diaries](https://darknetdiaries.com/) - True stories from the dark side of the Internet.
 - [The Portal](https://overcast.fm/itunes1469999563/the-portal) - This podcast does something different. Hosted by Eric Weinstein.
 - [Absolutely Mental](https://absolutelymental.com/) - Podcast series from Ricky Gervais and Sam Harris.
 - [Practical AI](https://overcast.fm/itunes1406537385/practical-ai) - Making artificial intelligence practical, productive, and accessible to everyone.

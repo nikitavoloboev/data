@@ -74,3 +74,4 @@
 - [Bloom filters explained in a single image (2021)](https://exampl.io/bloom-filters/) ([HN](https://news.ycombinator.com/item?id=26771991))
 - [Traversing nested data-structures in various languages](https://github.com/josevalim/nested-data-structure-traversal) ([HN](https://news.ycombinator.com/item?id=26776786))
 - [Teaching Bloom Filters new tricks (2020)](https://toao.com/blog/teaching-bloom-filters-new-tricks)
+- [Detailed Design of a Lock-Free Queue (2014)](https://moodycamel.com/blog/2014/detailed-design-of-a-lock-free-queue)

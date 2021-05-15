@@ -53,3 +53,5 @@
 - [The macho sperm myth](https://aeon.co/amp/essays/the-idea-that-sperm-race-to-the-egg-is-just-another-macho-myth) - Idea that millions of sperm are on an Olympian race to reach the egg is yet another male fantasy of human reproduction.
 - [First time sex tips? (2021)](https://www.reddit.com/r/sexover30/comments/n4o7ju/first_time_sex_tips/)
 - [Taking sex differences in personality seriously (2019)](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/) ([HN](https://news.ycombinator.com/item?id=27053720))
+- [What are some ways to experiment sexually when you are in a committed relationship? (2021)](https://www.reddit.com/r/sexover30/comments/ncq7u3/what_are_some_ways_to_experiment_sexually_when/)
+- [Things I can do to make sex go from great to mind-blowing? (2021)](https://www.reddit.com/r/sex/comments/nceldf/things_i_24f_can_do_to_make_sex_go_from_great_to/)

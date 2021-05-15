@@ -55,3 +55,4 @@
 - [instant.io](https://github.com/webtorrent/instant.io) - Streaming file transfer over WebTorrent (torrents on the web). ([Web](https://instant.io/))
 - [βTorrent](https://btorrent.xyz/) - Browser WebTorrent Client. ([Code](https://github.com/DiegoRBaquero/BTorrent))
 - [BitFiend](https://github.com/eduard-permyakov/BitFiend) - BitTorrent client written in C.
+- [The Pirate Bay – Darknet Diaries (2021)](https://darknetdiaries.com/episode/92/)

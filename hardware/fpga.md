@@ -56,3 +56,4 @@
 - [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) - Open project that aims to recreate various classic computers, game consoles and arcade machines, using modern hardware. ([HN](https://news.ycombinator.com/item?id=26772151))
 - [Architecture All Access: Modern FPGA Architecture (2021)](https://www.youtube.com/watch?v=EVy4KEj9kZg)
 - [Lessons learned while building an ASIC design (2021)](https://zipcpu.com/blog/2021/03/06/asic-lsns.html)
+- [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) - FPGA-based ISA video card specifically designed to emulate certain old video standards.
