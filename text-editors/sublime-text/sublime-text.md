@@ -33,3 +33,4 @@ I switch between Ayu Light and Ayu Mirage themes as I change between macOS appea
 - [Sublime Text 4 change log](https://gist.github.com/jfcherng/7bf4103ea486d1f67b7970e846b3a619)
 - [HN: Sublime Text 4 (2021)](https://news.ycombinator.com/item?id=26646142)
 - [Building an ultimate writing machine from Sublime Text](https://tonsky.me/blog/sublime-writer/)
+- [Sublime Text Regular Expression Cheat Sheet (2019)](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)

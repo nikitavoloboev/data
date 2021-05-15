@@ -73,3 +73,4 @@
 - [SQLite on the Jamstack (2021)](https://www.youtube.com/watch?v=912bOLolMIA)
 - [A Hitchiker's Guide to SQLite with Python (2021)](https://arctype.com/blog/hitchhikers-guide-sqlite-python/)
 - [wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions.
+- [Sqliteviz](https://github.com/lana-k/sqliteviz) - SQLite database visualizer.

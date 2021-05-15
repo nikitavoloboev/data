@@ -55,3 +55,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Supervisor](https://github.com/Supervisor/supervisor) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems. ([Docs](http://supervisord.org/))
 - [Ask HN: What are the bad parts of Unix? (2021)](https://news.ycombinator.com/item?id=26604833)
 - [Detailed Behaviors of Unix Signal (2021)](https://www.dyx.name/posts/essays/signal.html)
+- [Unix Philosophy with an Example (2019)](https://massimo-nazaria.github.io/blog/2019/03/02/unix-philosophy-with-an-example.html) ([Lobsters](https://lobste.rs/s/0zuri5/unix_philosophy_with_example))

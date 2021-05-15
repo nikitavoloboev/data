@@ -117,3 +117,4 @@
 - [noodles](https://github.com/zaeleus/noodles) - Bioinformatics I/O libraries in Rust.
 - [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy.
 - [Role of Bioelectricity During Cell Proliferation in Different Cell Types (2020)](https://pubmed.ncbi.nlm.nih.gov/32714900/)
+- [tidysq](https://github.com/BioGenies/tidysq) - Contains tools for analysis and manipulation of biological sequences (including amino acid and nucleic acid – e.g. RNA, DNA – sequences).

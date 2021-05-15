@@ -175,6 +175,7 @@
 - [Inspector](https://github.com/ipedro/Inspector) - Debugging library written in Swift.
 - [Drops](https://github.com/omaralbeik/Drops) - µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil.
 - [Cider](https://github.com/markmals/Cider) - Helpers and extensions for UIKit.
+- [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 
 ## macOS
 

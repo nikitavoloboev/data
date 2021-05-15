@@ -123,3 +123,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Basic Music Theory in ~200 Lines of Python (2021)](https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python) ([HN](https://news.ycombinator.com/item?id=26859907))
 - [History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/) ([HN](https://news.ycombinator.com/item?id=26977869))
 - [Radiohead: магия аккорда. Лекция Анны Виленской (2020)](https://www.youtube.com/watch?v=dxHlcBH4eVc)
+- [Chillhop Music](https://chillhop.com/) - Lofi hip hop and chill beats. ([YouTube](https://www.youtube.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg))

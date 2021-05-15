@@ -96,3 +96,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Blockfolio](https://blockfolio.com/) - Buy, sell & track your Bitcoin, Ethereum, & more.
 - [Ask HN: What are the resources for curated insights on Bitcoin, Ethereum etc.? (2021)](https://news.ycombinator.com/item?id=27073238)
 - [Crypto fundamentals and NFTs (2021)](https://docs.google.com/presentation/d/1sUpk0gbvRQelH0MUIOqjNeGe8nwRH4mhrhDHmI6qh4M/edit#slide=id.g442eb61d9d_0_0)
+- [Beancounter](https://github.com/square/beancounter) - Utility to audit the balance of Hierarchical Deterministic (HD) wallets. Supports multisig + segwit wallets.

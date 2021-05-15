@@ -520,6 +520,7 @@
 - [refractor](https://github.com/wooorm/refractor) - Lightweight, robust, elegant virtual syntax highlighting using Prism.
 - [Expounder](https://github.com/skorokithakis/expounder) - Library for explaining things in HTML.
 - [timidity](https://github.com/feross/timidity) - Play MIDI files in the browser w/ Web Audio, WebAssembly, and libtimidity.
+- [buffer](https://github.com/feross/buffer) - Buffer module from node.js, for the browser.
 
 ## Links
 
