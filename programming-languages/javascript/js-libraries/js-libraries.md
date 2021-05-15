@@ -81,6 +81,7 @@
 - [zora](https://github.com/lorenzofox3/zora) - Lightest, yet Fastest JavaScript test runner for nodejs and browsers.
 - [Vest](https://github.com/ealush/vest) - Declarative Validation Testing.
 - [uvu](https://github.com/lukeed/uvu) - Extremely fast and lightweight test runner for Node.js and the browser.
+- [Spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. An inclusive, accessibility-first GUI for generating clean, semantic JavaScript tests in only a few clicks of (or keystrokes) of a button. ([Web](https://www.spearmintjs.com/))
 
 ## State management
 

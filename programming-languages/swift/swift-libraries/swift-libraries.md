@@ -174,6 +174,7 @@
 - [NiceNotifications](https://github.com/nicephoton/NiceNotifications) - Create rich local notifications experiences on iOS with incredible ease.
 - [Inspector](https://github.com/ipedro/Inspector) - Debugging library written in Swift.
 - [Drops](https://github.com/omaralbeik/Drops) - µFramework for showing alerts like the one used when copying from pasteboard or connecting Apple pencil.
+- [Cider](https://github.com/markmals/Cider) - Helpers and extensions for UIKit.
 
 ## macOS
 

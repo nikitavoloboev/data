@@ -69,3 +69,4 @@
 - [The Hoxton](https://thehoxton.com/) - Open House Hotels in London, Europe and USA.
 - [Camp Hox](https://thehoxton.com/camp-hox/) - Van trips.
 - [You get to create your own list of what you believe are the Seven Wonders of the World. What are they? (2021)](https://www.reddit.com/r/solotravel/comments/nac1ao/you_get_to_create_your_own_list_of_what_you/)
+- [What destination can you travel to repeatedly without ever getting tired of it? (2021)](https://www.reddit.com/r/solotravel/comments/nckve0/what_destination_can_you_travel_to_repeatedly/)
