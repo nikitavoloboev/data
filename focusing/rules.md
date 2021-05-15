@@ -20,7 +20,7 @@
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits.
-- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. You only live now.
+- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything. Anything outside of this moment is imagination. Live now.
 - [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close relationships. Look towards the [future](../future/future.md). Appreciate what you have.
 
 ## Health
