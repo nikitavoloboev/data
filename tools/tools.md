@@ -497,3 +497,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Excel Never Dies (2021)](https://www.notboring.co/p/excel-never-dies)
 - [Developer tools can be magic. Instead, they collect dust (2021)](http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html) ([HN](https://news.ycombinator.com/item?id=26612894))
 - [Cusdis](https://cusdis.com/) - Next comment tool for your website. ([Code](https://github.com/djyde/cusdis)) ([HN](https://news.ycombinator.com/item?id=26878153))
+- [The Return of Fancy Tools (2021)](https://macwright.com/2021/03/16/return-of-fancy-tools.html) ([HN](https://news.ycombinator.com/item?id=27160983))

@@ -261,3 +261,4 @@
 - [pgq](https://github.com/btubbs/pgq) - Go library for job queues that use Postgres for persistence.
 - [pgANN](https://github.com/netrasys/pgANN) - Approximate Nearest Neighbor (ANN) searches using a PostgreSQL backend.
 - [smlar](https://github.com/jirutka/smlar) - PostgreSQL extension for an effective similarity search.
+- [Debugging random slow writes in PostgreSQL (2021)](https://iamsafts.com/posts/postgres-gin-performance/) ([HN](https://news.ycombinator.com/item?id=27152507))

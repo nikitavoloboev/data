@@ -12,5 +12,5 @@
 ![](https://i.imgur.com/w4R6Mkl.jpg)
 
 - A parser takes the flat sequence of tokens and builds a tree structure that mirrors the nested nature of the grammar.
-  - These trees have a couple of different names — “parse tree” or “abstract syntax tree” — depending on how close to the bare syntactic structure of the source language they are.
+  - These trees have a couple of different names — “parse tree” or “abstract syntax tree” — depending on how close to the bare syntactic structure of the source language they are.
     - In practice, language hackers usually call them “syntax trees”, “ASTs”, or often just “trees”.

@@ -25,3 +25,4 @@
 - [Ask HN: Any luck negotiating better terms for on-call? (2021)](https://news.ycombinator.com/item?id=25650905)
 - [How to Negotiate Your Tech Offer (2020)](https://www.youtube.com/watch?v=fyn0CKPuPlA)
 - [Tips for negotiating your salary (from an ex-FAANG recruiter) (2021)](https://www.youtube.com/watch?v=u9BoG1n1948)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) ([HN](https://news.ycombinator.com/item?id=27160934))

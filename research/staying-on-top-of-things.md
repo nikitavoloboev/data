@@ -140,6 +140,7 @@ And these Discord servers:
 - [Longreads](https://longreads.com/)
 - [The Markup](https://themarkup.org/)
 - [3 Quarks Daily](https://3quarksdaily.com/) - Science Arts Philosophy Politics Literature.
+- [C-Heads Magazine](https://www.c-heads.com/) - Magazine for photography, fashion, music & youth culture.
 
 ### Other
 

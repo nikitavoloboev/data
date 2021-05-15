@@ -54,7 +54,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Castle Island Ventures](http://www.castleisland.vc/) - Venture capital firm focused exclusively on public blockchains.
 - [Zero knowledge podcast](https://www.zeroknowledge.fm/)
 - [Ara](https://ara.one/) - Blockchain powered global rewards system.
-- [Understanding Blockchain Technologies — A Comprehensive Guide (2019)](https://medium.com/@urlichsanais/understanding-blockchain-technologies-a-comprehensive-guide-ce4ecdee25d2)
+- [Understanding Blockchain Technologies — A Comprehensive Guide (2019)](https://medium.com/@urlichsanais/understanding-blockchain-technologies-a-comprehensive-guide-ce4ecdee25d2)
 - [Hedera Hashgraph](https://www.hedera.com/) - Enterprise-grade public network for decentralized applications.
 - [Toychain](https://github.com/certichain/toychain) - Minimalistic blockchain consensus implemented and verified in Coq.
 - [Scilla](https://github.com/Zilliqa/scilla) - Smart Contract Intermediate Level Language.

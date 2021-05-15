@@ -13,7 +13,7 @@
 - [Detox](https://github.com/wix/detox) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps.
 - [Awesome React Native Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 - [Declarative future of gestures and animations in React Native - Krzysztof Magiera (2018)](https://www.youtube.com/watch?v=kdq4z2708VM)
-- [Simple physics with Reanimated — Part 1](https://blog.swmansion.com/simple-physics-with-reanimated-part-1-9d55d36f73cd)
+- [Simple physics with Reanimated — Part 1](https://blog.swmansion.com/simple-physics-with-reanimated-part-1-9d55d36f73cd)
 - [Why Discord is Sticking with React Native (2018)](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
 - [React Native Web](https://github.com/necolas/react-native-web) - Makes it possible to run React Native components and APIs on the web using React DOM.
 - [CodePush](https://github.com/Microsoft/code-push) - Cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
@@ -107,4 +107,4 @@
 - [Setting up an Example App for Your React Native Library (2019)](https://medium.com/@charpeni/setting-up-an-example-app-for-your-react-native-library-d940c5cf31e4) ([Tweet](https://twitter.com/ericclemmons/status/1377097139201843200))
 - [Why founders should NOT use React Native (2021)](https://twitter.com/ricburton/status/1378891194776739842)
 - [Stripe React Native SDK](https://github.com/stripe/stripe-react-native)
-- [Coinbase’s successful transition to React Native (2021)](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971)
+- [Coinbase's Transition to React Native (2021)](https://blog.coinbase.com/announcing-coinbases-successful-transition-to-react-native-af4c591df971) ([HN](https://news.ycombinator.com/item?id=27161522))

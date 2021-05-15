@@ -18,7 +18,7 @@ It is common to use React with a Flux pattern to manage the state of the applica
 
 ## Links
 
-- [React Redux — Concept, Workflow & Cheatsheet (2017)](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
+- [React Redux — Concept, Workflow & Cheatsheet (2017)](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 - [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide)
 - [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4&index=7&list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP)

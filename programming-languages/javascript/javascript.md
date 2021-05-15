@@ -5,7 +5,7 @@
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
 - In JavaScript, a type is a runtime tag describing the actual kind of data you have at runtime.
 - A property is any value attached to an object. A method is a property that is a function.
-- `this`, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
+- `this`, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
 - [Can type `debugger` in JS/TS to activate debugger at that point](https://twitter.com/calebporzio/status/1151185995309690886).
 - Can `console.log({ myConst })` to log the variable with the value as an object so you see the variable name & the value. As opposed to doing `console.log(myConst, 'myConst')`.
 - [Periodic reminder that `await import('//dev.jspm.io/[pkg]')` allows you to import anything from npm in the browser instantly. I often use this in the console to test things out.](https://twitter.com/guybedford/status/1202022281633030145)
@@ -288,3 +288,4 @@
 - [Elk](https://github.com/cesanta/elk) - Tiny JS engine for embedded systems.
 - [Endo](https://github.com/endojs/endo) - Distributed secure JavaScript sandbox, based on SES.
 - [How JavaScript works: 3 types of polymorphism (2021)](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1) ([HN](https://news.ycombinator.com/item?id=27074514))
+- [Modern JavaScript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) ([HN](https://news.ycombinator.com/item?id=27165954))
