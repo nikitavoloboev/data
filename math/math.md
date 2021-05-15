@@ -264,3 +264,4 @@
 - [Intuitive Guide to Hyperbolic Functions](https://betterexplained.com/articles/hyperbolic-functions/)
 - [Cognicull](https://cognicull.com/en) - Learning site that pursues "ease of understanding" and "comfort".
 - [Which was the first book that gave you the taste of real mathematics? (2021)](https://www.reddit.com/r/math/comments/n4idcv/which_was_the_first_book_that_gave_you_the_taste/)
+- [How to Code a Math Formula (2020)](https://www.youtube.com/watch?v=ncRmzy6BWH0) ([Reddit](https://www.reddit.com/r/learnmachinelearning/comments/nc9ejh/how_to_code_a_math_formula/))

@@ -1,5 +1,9 @@
 # Strength training
 
+## Notes
+
+- [Lift weights. An increase in muscle will pull the skin tighter. Without any muscle size you'll just be 'skinny fat.'](https://www.reddit.com/r/bodyweightfitness/comments/ncpysn/how_can_i_lose_this_last_bit_of_fat_and_just_have/)
+
 ## Links
 
 - [StrongLifts 5×5 Workout: Beginner Training Program for Strength & Muscle Mass](https://stronglifts.com/5x5/)
