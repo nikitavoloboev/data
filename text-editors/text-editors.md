@@ -47,6 +47,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Texture](https://github.com/substance/texture) - Visual editor for research.
 - [Amp](https://amp.rs/) - Complete text editor for your terminal. ([Code](https://github.com/jmacdonald/amp))
 - [Atlas](http://atlasengineering.io/) - Hopefully better engineering IDE. ([HN](https://news.ycombinator.com/item?id=27112529))
+- [Noto](https://github.com/brunophilipe/Noto) - Beautiful and simple plain text editor for macOS written in Swift.
 
 ## Web
 

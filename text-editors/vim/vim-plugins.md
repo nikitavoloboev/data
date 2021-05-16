@@ -219,3 +219,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Neovim Lua Debug Adapter](https://github.com/mfussenegger/nvim-lua-debugger) - Debug Adapter that allows debugging lua plugins written for Neovim.
 - [Awesome Neovim Plugins](https://github.com/rockerBOO/awesome-neovim)
 - [nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - Lua API for using fzf in neovim.
+- [defaults.nvim](https://github.com/mjlbach/defaults.nvim) - Small, featureful neovim template.

@@ -49,3 +49,4 @@
 - [CompressAI](https://github.com/InterDigitalInc/CompressAI) - PyTorch library and evaluation platform for end-to-end compression research.
 - [zipindex](https://github.com/minio/zipindex) - Package for indexing zip files and storing a compressed index.
 - [COIN: COmpression with Implicit Neural representations (2021)](https://arxiv.org/abs/2103.03123) ([Code](https://github.com/EmilienDupont/coin))
+- [Zippy](https://github.com/guzba/zippy) - Pure Nim implementation of deflate, zlib, gzip and zip.

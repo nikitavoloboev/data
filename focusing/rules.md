@@ -118,7 +118,7 @@
 
 - Communicate everything. Be honest, kind and empathetic. Don't avoid/ignore conflicts.
 - Acknowledge and apologize for any mistakes made. Learn and improve.
-- Don't be cruel in my actions and words. Treat my partner and friends with respect.
+- Don't be cruel in my actions and words. Treat my partner and friends with respect. You are only as pretty as you treat people.
 - Show genuine interest and love in the other person's lives. Especially my partner.
 - Don't cheat (if not discussed and not allowed) in secret. Don't lie.
 - Don't complain needlessly and be a burden to anyone's lives. It's okay to ask for help and hugs. Share your struggles and the wins. Appreciate each other.
