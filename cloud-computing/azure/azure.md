@@ -11,3 +11,4 @@
 - [Inside Azure Data Center Architecture with Mark Russinovich (2021)](https://www.youtube.com/watch?v=o2W1bo1DjQY)
 - [Data Engineering on Azure Book (2021)](https://www.manning.com/books/data-engineering-on-azure)
 - [Azure Docs](https://docs.microsoft.com/en-us/azure/) ([Code](https://github.com/MicrosoftDocs/azure-docs))
+- [21 hands-on Azure builders to follow in 2021](https://acloudguru.com/blog/engineering/follow-the-builders-21-hands-on-azure-builders-to-follow-in-2021)

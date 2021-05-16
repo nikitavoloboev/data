@@ -57,3 +57,4 @@
 - [Parsers all the way down: writing a self-hosting parser (2021)](https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html)
 - [Canopy](https://github.com/jcoglan/canopy) - Parser compiler for Java, JavaScript, Python, Ruby. ([Docs](http://canopy.jcoglan.com/))
 - [Principled Procedural Parsing (2019)](https://norswap.com/pubs/thesis.pdf)
+- [Parsix](https://github.com/parsix/parsix) - Parse, don't validate. ([HN](https://news.ycombinator.com/item?id=27166162))
