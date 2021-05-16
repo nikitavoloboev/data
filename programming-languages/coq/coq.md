@@ -63,3 +63,4 @@
 - [Coq Library of Undecidability Proofs](https://github.com/uds-psl/coq-library-undecidability)
 - [Perennial](https://github.com/mit-pdos/perennial) - Verifying concurrent crash-safe systems.
 - [Coq Platform](https://github.com/coq/platform) - Multi platform setup for Coq, Coq libraries and tools.
+- [The Principia Rewrite](https://www.principiarewrite.com/) ([Code](https://github.com/LogicalAtomist/principia))

@@ -65,3 +65,4 @@
 - [collapse](https://github.com/SebKrantz/collapse) - Advanced and Fast Data Transformation in R.
 - [Epidemiologist R Handbook](https://epirhandbook.com/) - R for applied epidemiology and public health. ([HN](https://news.ycombinator.com/item?id=27106489))
 - [deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages.
+- [stringi](https://github.com/gagolews/stringi) - String Processing Package for R.

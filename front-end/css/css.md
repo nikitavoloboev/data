@@ -309,3 +309,4 @@
 - [CSS Card with hover animation and mobile fallback (2021)](https://www.youtube.com/watch?v=5DEq5cWNYt8)
 - [CSS Hell](https://csshell.dev/) - Collection of common CSS mistakes, and how to fix them. ([Code](https://github.com/Stefanye/CSSHell))
 - [Component-level art direction with CSS Container Queries (2021)](https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/)
+- [Wallace CLI](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics in your terminal.

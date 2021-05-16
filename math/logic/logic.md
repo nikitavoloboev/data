@@ -48,3 +48,5 @@
 - [Specifying State Machines with Temporal Logic (2021)](https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-temporal-logic.html)
 - [Cqfd](https://github.com/jdrprod/cqfd) - Why3 certified prover for the propositional logic.
 - [Standard Ternary Logic (2016)](https://homepage.divms.uiowa.edu/~jones/ternary/logic.shtml)
+- [Relational](https://github.com/ltworf/relational) - Educational tool for relational algebra.
+- [Logic solver in Rust](https://github.com/qnighy/logic-solver-rs)

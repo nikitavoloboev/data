@@ -204,3 +204,5 @@
 - [Web Audio Resources](https://github.com/alemangui/web-audio-resources)
 - [How I Practice Piano (2021)](https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/) ([HN](https://news.ycombinator.com/item?id=27085922))
 - [LEARN ORCΛ](https://metasyn.github.io/learn-orca/)
+- [Awesome Audio DSP](https://github.com/BillyDM/Awesome-Audio-DSP)
+- [Rust-LV2](https://github.com/RustAudio/rust-lv2) - Safe, fast, and ergonomic framework to create LV2 plugins for audio processing, written in Rust.
