@@ -310,3 +310,4 @@
 - [Praise for Alpine Linux (2021)](https://portal.drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi) ([HN](https://news.ycombinator.com/item?id=27104898))
 - [Linux Kernel Commit History Search](https://linux-commits-search.typesense.org/) - Instantly search 1M Linux Kernel Commit Messages using Typesense Search. ([Code](https://github.com/typesense/showcase-linux-commits-search))
 - [Alpine Conference](https://alpinelinux.org/conf/)
+- [systemd: The Good Parts (2021)](https://christine.website/talks/systemd-the-good-parts-2021-05-16) ([Lobsters](https://lobste.rs/s/po98o2/systemd_good_parts))

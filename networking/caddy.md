@@ -26,3 +26,4 @@
 - [Building a Kubernetes Ingress Controller with Caddy (2021)](https://dgraph.io/blog/post/building-a-kubernetes-ingress-controller-with-caddy/)
 - [Caddy Ansible Role](https://github.com/caddy-ansible/caddy-ansible) - Ansible role for installing and configuring the Caddy web server.
 - [caddy-auth-jwt](https://github.com/greenpau/caddy-auth-jwt) - JWT Authorization Plugin for Caddy v2.
+- [How to setup a Handshake site with Caddy (2021)](https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt)
