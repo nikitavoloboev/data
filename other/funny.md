@@ -91,3 +91,4 @@
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) ([HN](https://news.ycombinator.com/item?id=26766722))
 - [Russian kid screaming blyat (minecraft)](https://www.youtube.com/watch?v=Gm5EBnLTG90)
 - [Put it all into Doge Money](https://twitter.com/DanOBrienPoker/status/1391601685844291584)
+- [You are in Bulgaria!](https://www.youtube.com/watch?v=JW8DNStF3TE)
