@@ -239,4 +239,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Send My](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network. ([Article](https://positive.security/blog/send-my)) ([HN](https://news.ycombinator.com/item?id=27130355))
 - [Wait for It](https://github.com/maxcnunes/waitforit) - Wait until an address become available.
 - [Home network 10 Gbit/s upgrade (2021)](https://michael.stapelberg.ch/posts/2021-05-16-home-network-fiber-10-gbits-upgrade/)
-- [Observing my cellphone switch towers (2021)](https://fabiensanglard.net/lte/index.html)
+- [Observing my cellphone switch towers (2021)](https://fabiensanglard.net/lte/index.html) ([HN](https://news.ycombinator.com/item?id=27171860))
