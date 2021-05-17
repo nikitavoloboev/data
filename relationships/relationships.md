@@ -84,3 +84,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Divorce (2021)](https://www.profgalloway.com/divorce/)
 - [Successful experiences dating "avoidants" (2021)](https://www.reddit.com/r/datingoverthirty/comments/nbnx50/successful_experiences_dating_avoidants/)
 - [Dunbar's Number is Quadratic (2020)](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
+- [Dating Trauma Podcast Episode (2021)](https://www.dateablepodcast.com/episode/s12e4-dating-trauma)
+- [Dateable Podcast](https://www.dateablepodcast.com/) - Dating and Relationship Podcast.

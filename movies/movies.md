@@ -47,3 +47,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Seth Rogen Explains How to Write a Movie (2020)](https://www.youtube.com/watch?v=Ej7rfjORot4)
 - [Movie of the Night](https://www.movieofthenight.com/) - Movie/series recommendation engine.
 - [WeWatch](https://wewatchapp.xyz/) - Find what to watch with your friends.
+- [What was the movie that shook you to your core and confirmed your passion for cinema? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/ne71uk/what_was_the_movie_that_shook_you_to_your_core/)

@@ -55,3 +55,5 @@
 - [Taking sex differences in personality seriously (2019)](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/) ([HN](https://news.ycombinator.com/item?id=27053720))
 - [What are some ways to experiment sexually when you are in a committed relationship? (2021)](https://www.reddit.com/r/sexover30/comments/ncq7u3/what_are_some_ways_to_experiment_sexually_when/)
 - [Things I can do to make sex go from great to mind-blowing? (2021)](https://www.reddit.com/r/sex/comments/nceldf/things_i_24f_can_do_to_make_sex_go_from_great_to/)
+- [Swingers Reddit Wiki](https://www.reddit.com/r/Swingers/wiki/index)
+- [STIs explained (2021)](https://www.reddit.com/r/Swingers/comments/nduu53/we_really_need_to_talk_about_stis/)
