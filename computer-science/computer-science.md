@@ -126,3 +126,4 @@
 - [Automata Modulo Theories (2021)](https://cacm.acm.org/magazines/2021/5/252180-automata-modulo-theories/fulltext)
 - [Coding Coach - YouTube](https://www.youtube.com/c/CodingCoach/videos)
 - [VScape: Assessing and Escaping Virtual Call Protections (2021)](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
+- [Hints for Computer System Design (2016)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
