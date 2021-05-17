@@ -39,3 +39,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [How to Draw a Self-Portrait in 11 Levels of Increasing Complexity](https://kottke.org/21/04/how-to-draw-a-self-portrait-in-11-levels-of-increasing-complexity) ([Video](https://www.youtube.com/watch?v=8T3cxSySI2Q))
 - [excalidraw-animate](https://github.com/dai-shi/excalidraw-animate) - Tool to animate Excalidraw drawings.
 - [Replidraw](http://replidraw.vercel.app/) - Tiny Figma-like multiplayer graphics editor. ([Code](https://github.com/rocicorp/replidraw))
+- [Telestrator](https://github.com/steveruizok/telestrator) - Disappearing drawing tool for your screen.
