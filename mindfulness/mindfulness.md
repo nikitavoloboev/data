@@ -39,3 +39,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [What 4 Years in Solitary Confinement Taught Me About Surviving Isolation (2020)](https://humanparts.medium.com/8ight-things-i-learned-in-solitary-confiment-that-will-help-you-keep-calm-during-the-coronavirus-a5a253c2fe7e)
 - [Anxiety Is in Your Body, Not Your Mind (2021)](https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb) ([HN](https://news.ycombinator.com/item?id=26774145))
 - [Ask HN: Tips for handling chronic stress?](https://news.ycombinator.com/item?id=26859401)
+- [The Path to Enlightenment (Non-Duality) (2021)](https://www.youtube.com/watch?v=FuhvJpTh0eQ)
