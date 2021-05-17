@@ -227,3 +227,4 @@
 - [Introduction to Attention Mechanism (2021)](https://erdem.pl/2021/05/introduction-to-attention-mechanism)
 - [Understanding Positional Encoding in Transformers (2021)](https://erdem.pl/2021/05/understanding-positional-encoding-in-transformers)
 - [Measuring XAI methods with Infidelity and Sensitivity (2021)](https://erdem.pl/2021/03/measuring-xai-methods-with-infidelity-and-sensitivity)
+- [Quasi-Recurrent Neural Networks (2016)](https://arxiv.org/abs/1611.01576) ([Code](https://github.com/salesforce/pytorch-qrnn))

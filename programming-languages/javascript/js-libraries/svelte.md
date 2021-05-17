@@ -98,3 +98,4 @@
 - [Notus Svelte](https://github.com/creativetimofficial/notus-svelte) - Free Tailwind CSS UI Kit and Admin.
 - [svelte-adapter](https://github.com/pngwn/svelte-adapter) - Use Svelte components with Vue and React.
 - [Vue RFCs](https://github.com/vuejs/rfcs)
+- [ESLint plugin for Svelte v3 components](https://github.com/sveltejs/eslint-plugin-svelte3)
