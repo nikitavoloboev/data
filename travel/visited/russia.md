@@ -139,3 +139,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Сергей Гуриев: Россия не обречена (2021)](https://www.youtube.com/watch?v=F28guTzKUvk)
 - [Как Путин использует День Победы 9 мая для удержания своей власти (2021)](https://www.youtube.com/watch?v=4XSOX0N86-s)
 - [Как появилась Meduza и как ее признали иностранным агентом (2021)](https://podcasts.google.com/feed/aHR0cHM6Ly96YXB1c2t6YXZ0cmEubGlic3luLmNvbS9yc3M/episode/MDdiNGRjNTMtZDRlZC00ODMyLThmYjUtMWNlMjk4YTZiMjk5?ep=14)
+- [Когда исчезнет путин](https://twitter.com/garaevruslan02/status/1394326462795288580)

@@ -93,4 +93,4 @@
 - [RISC vs. CISC](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/)
 - [Where the top of the stack is on x86 (2011)](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/) ([HN](https://news.ycombinator.com/item?id=27077173))
 - [Architecture All Access: Modern CPU Architecture (2021)](https://www.youtube.com/watch?v=vgPFzblBh7w&list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj)
-- [How M1 Macs feel faster than Intel models: it’s about QoS (2021)](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/)
+- [How M1 Macs feel faster than Intel models: it’s about QoS (2021)](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/) ([HN](https://news.ycombinator.com/item?id=27182244))

@@ -35,3 +35,4 @@
 - [The current state of the art in brain computer interfaces (2021)](https://neurogenesis.substack.com/p/invasive-neurotech-companies)
 - [Neuralink MindPong Deconstructed (2021)](https://www.youtube.com/watch?v=rzNOuJIzk2E)
 - [What can you do after complete intertwinement of Neuralink with AI singularity?](https://www.reddit.com/r/Neuralink/comments/myipyc/once_there_is_the_complete_intertwinement_of/)
+- [Can Machines Control Our Brains? (2021)](https://www.quantamagazine.org/how-brain-computer-interface-technology-is-different-from-mind-control-20210517/)
