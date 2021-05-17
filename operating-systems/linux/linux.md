@@ -312,3 +312,4 @@
 - [Alpine Conference](https://alpinelinux.org/conf/)
 - [Systemd: The Good Parts (2021)](https://christine.website/talks/systemd-the-good-parts-2021-05-16) ([Lobsters](https://lobste.rs/s/po98o2/systemd_good_parts)) ([HN](https://news.ycombinator.com/item?id=27175960))
 - [New service manager for Linux distributions (2021)](https://skarnet.com/projects/service-manager.html)
+- [Hummingbird](https://github.com/Sweets/hummingbird) - Lightning fast Linux init.
