@@ -60,3 +60,4 @@
 - [Java's records, Lombok's data, and Kotlin's data classes (2021)](https://nipafx.dev/java-record-semantics/) ([HN](https://news.ycombinator.com/item?id=27076976))
 - [How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit (2021)](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
 - [Teeing, a hidden gem in the Java API (2021)](https://blog.frankel.ch/teeing-java-api/) ([HN](https://news.ycombinator.com/item?id=27103033))
+- [Why use Java instead of Kotlin? (2021)](https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/) ([HN](https://news.ycombinator.com/item?id=27183076))

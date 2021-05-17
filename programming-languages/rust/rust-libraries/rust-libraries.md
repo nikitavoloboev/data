@@ -270,6 +270,7 @@
 - [Educe](https://github.com/magiclen/educe) - Provides procedural macros to help you implement Rust-built-in traits quickly.
 - [no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic.
 - [spez](https://github.com/m-ou-se/spez) - Macro to specialize on the type of an expression.
+- [lazy-regex](https://github.com/Canop/lazy-regex) - Macro for when you're tired of the regex creation boilerplate.
 
 ## Math
 
