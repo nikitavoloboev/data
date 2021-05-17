@@ -809,6 +809,7 @@
 - [go-toml](https://github.com/pelletier/go-toml) - Go library for the TOML format.
 - [OSIN](https://github.com/openshift/osin) - Go OAuth2 server library.
 - [sroar](https://github.com/dgraph-io/sroar) - Serialized Roaring Bitmaps.
+- [csvtk](https://github.com/shenwei356/csvtk) - Cross-platform, efficient and practical CSV/TSV toolkit in Go.
 
 ## Links
 

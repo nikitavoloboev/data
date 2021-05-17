@@ -118,3 +118,6 @@
 - [Datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy.
 - [Role of Bioelectricity During Cell Proliferation in Different Cell Types (2020)](https://pubmed.ncbi.nlm.nih.gov/32714900/)
 - [tidysq](https://github.com/BioGenies/tidysq) - Contains tools for analysis and manipulation of biological sequences (including amino acid and nucleic acid – e.g. RNA, DNA – sequences).
+- [SeqKit](https://github.com/shenwei356/seqkit) - Cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Go.
+- [TaxonKit](https://github.com/shenwei356/taxonkit) - Practical and Efficient NCBI Taxonomy Toolkit.
+- [unikmer](https://github.com/shenwei356/unikmer) - Toolkit for nucleic acid k-mer analysis, including set operations on k-mers (sketch) optional with TaxIDs but without count information.
