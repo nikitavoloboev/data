@@ -124,6 +124,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X?si=QYqj3rfTT5S7zmc0_mNVbA)
 - [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF?si=c4fmmO4jRWiuoqx6NAEG5A) ([Thom Yorke, Burial & Four Tet - Her Revolution](https://www.youtube.com/watch?v=qdrmRoCMWC4)) ([Thom Yorke, Burial & Four Tet - His Rope](https://www.youtube.com/watch?v=dCrAMw57ATI))
 - [Four Tet](http://www.fourtet.net/)
+- [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO?si=Efk2EKvsR2i1epM7xaRCMg) - [and she was](https://open.spotify.com/track/4y6jjdklWYLDCIBsj3RMQZ)
 
 ## Interesting artists
 

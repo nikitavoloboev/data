@@ -29,3 +29,4 @@
 - [Nice places to live in London (2021)](https://twitter.com/antonyslumbers/status/1376227037153726470)
 - [What are some behaviors acceptable in other countries, but not in the United Kingdom? (2021)](https://www.reddit.com/r/AskUK/comments/mt8jj4/what_are_some_behaviors_acceptable_in_other/)
 - [Moving to London for a Tech Job](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/) ([HN](https://news.ycombinator.com/item?id=27154769))
+- [UKPersonalFinance Wiki](https://ukpersonal.finance/)

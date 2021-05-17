@@ -14,6 +14,10 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [LEVA - YouTube](https://www.youtube.com/channel/UC6t1USQd5kZsY7AFACsdC9Q/videos)
 - [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488) ([HN](https://news.ycombinator.com/item?id=27161011))
 
+## Favorite clips
+
+- [Carlos Cipa - Today and It's Gone](https://www.youtube.com/watch?v=26zJ1CLzsTk)
+
 ## Tools
 
 - [Streamable](https://streamable.com/) - Video publishing made easy.
