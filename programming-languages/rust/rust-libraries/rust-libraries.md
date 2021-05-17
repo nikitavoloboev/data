@@ -830,6 +830,7 @@
 - [bytemuck](https://github.com/Lokathor/bytemuck) - Crate for mucking around with piles of bytes.
 - [heed](https://github.com/Kerollmops/heed) - Fully typed LMDB/MDBX wrapper with minimum overhead.
 - [FUSE-Rust](https://github.com/cberner/fuser) - Rust library crate for easy implementation of FUSE filesystems in userspace.
+- [micromath](https://github.com/tarcieri/micromath) - Embedded Rust arithmetic, 2D/3D vector, and statistics library.
 
 ## Cargo Plugins
 
