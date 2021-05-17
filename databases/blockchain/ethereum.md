@@ -124,6 +124,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [OpenEthereum](https://github.com/openethereum/openethereum) - Fast and feature-rich multi-network Ethereum client.
 - [Opyn Protection](https://opyn.co/#/) - Securing Decentralized Finance. Allows you to protect your DeFi deposits and hedge ETH risk.
 - [Optimism](https://optimism.io/) - New Scalability Stack for Ethereum. Instant transactions and scalable smart contracts on Ethereum. ([Code](https://github.com/ethereum-optimism/optimism-monorepo))
+- [Awesome Optimism Bridges](https://github.com/krzkaczor/awesome-optimism-bridges)
 - [Enclave EVM](https://github.com/microsoft/eEVM) - Open-source, standalone, embeddable, C++ implementation of the Ethereum Virtual Machine.
 - [Scribble](https://github.com/ConsenSys/scribble) - Solidity runtime verification tool for property based testing.
 - [Ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript). ([Docs](https://docs.ethers.io/))

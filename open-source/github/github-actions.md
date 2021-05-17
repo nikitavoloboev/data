@@ -99,6 +99,7 @@
 - [Pull Request Labeler](https://github.com/actions/labeler) - Action for automatically labelling pull requests.
 - [GitHub Actions for Netlify](https://github.com/netlify/actions)
 - [upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - Uploads files/folders to a Google Cloud Storage (GCS) bucket.
+- [setup-xcode](https://github.com/maxim-lobanov/setup-xcode) - Set up your GitHub Actions workflow with a specific version of Xcode.
 
 ## Go
 
