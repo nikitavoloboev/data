@@ -98,3 +98,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Crypto fundamentals and NFTs (2021)](https://docs.google.com/presentation/d/1sUpk0gbvRQelH0MUIOqjNeGe8nwRH4mhrhDHmI6qh4M/edit#slide=id.g442eb61d9d_0_0)
 - [Beancounter](https://github.com/square/beancounter) - Utility to audit the balance of Hierarchical Deterministic (HD) wallets. Supports multisig + segwit wallets.
 - [Why Crypto Matters (and It’s a Lot More than Bitcoin) (2021)](https://raohacker.com/why-crypto-matters-and-its-a-lot-more-than-bitcoin/)
+- [Fireside Chat With Kevin Rose about Cryptocurrencies/Solana (2021)](https://www.youtube.com/watch?v=_8fDeEgUPsg)

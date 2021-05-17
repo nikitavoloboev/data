@@ -50,3 +50,4 @@
 - [Paperclip](https://github.com/crcn/paperclip) - Build UIs at the speed of thought. ([Web](https://paperclip.dev/))
 - [roxy](https://github.com/chronos-tachyon/roxy) - Frontend Proxy.
 - [LogRocket](https://logrocket.com/) - Modern Frontend Monitoring and Product Analytics.
+- [Essential list of resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
