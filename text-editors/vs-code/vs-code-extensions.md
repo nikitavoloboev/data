@@ -183,6 +183,7 @@ Below is a list of extensions I use.
 - [Flow](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - Flow support.
 - [Abracadabra](https://marketplace.visualstudio.com/items?itemName=nicoespeon.abracadabra) - Automated refactorings for VS Code (JS & TS). ([Code](https://github.com/nicoespeon/abracadabra))
 - [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite) - VS Code for Vite. ([Code](https://github.com/antfu/vscode-vite))
+- [Typehole](https://marketplace.visualstudio.com/items?itemName=rikurouvila.typehole) - Automatically generate TypeScript types and interfaces for all serializable runtime values. ([Code](https://github.com/rikukissa/typehole))
 
 ## React
 

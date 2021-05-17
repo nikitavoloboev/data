@@ -58,3 +58,4 @@ Here are tools I use for streaming:
 - [Live stream to multiple platforms with Stream Connect (2021)](https://blog.cloudflare.com/restream-with-stream-connect/)
 - [Nobody.live](https://nobody.live/) - Lonely streams and streamers with zero viewers. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/mpv2o4/nobodylive_website_for_finding_twitch_streamers/))
 - [Chatterino 2](https://github.com/Chatterino/chatterino2) - Chat client for Twitch.
+- [Illegal streams, decrypting m3u8’s, and building a better stream experience (2018)](https://blog.jonlu.ca/posts/illegal-streams)

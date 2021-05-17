@@ -100,3 +100,4 @@
 - [DNS Violations](https://github.com/dns-violations/dns-violations) - List of DNS violations by implementations, software and/or systems.
 - [dnspython](https://github.com/rthalley/dnspython) - Powerful DNS toolkit for python.
 - [inadyn](https://github.com/troglobit/inadyn) - Dynamic DNS client with SSL/TLS support. ([Web](https://troglobit.com/projects/inadyn/))
+- [Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool.

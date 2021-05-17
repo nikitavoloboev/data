@@ -58,3 +58,4 @@
 - [Canopy](https://github.com/jcoglan/canopy) - Parser compiler for Java, JavaScript, Python, Ruby. ([Docs](http://canopy.jcoglan.com/))
 - [Principled Procedural Parsing (2019)](https://norswap.com/pubs/thesis.pdf)
 - [Parsix](https://github.com/parsix/parsix) - Parse, don't validate. ([HN](https://news.ycombinator.com/item?id=27166162))
+- [parsegen](https://github.com/osa1/parsegen) - LR parser generator, similar to happy, ocamlyacc, and lalrpop.

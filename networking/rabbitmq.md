@@ -16,3 +16,4 @@
 - [go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - Higher-level RabbitMQ library in Go.
 - [Lapin](https://github.com/CleverCloud/lapin) - Rust AMQP client library.
 - [Coworkers](https://github.com/tjmehta/coworkers) - RabbitMQ microservice framework.
+- [How to use RabbitMQ in service integration (2021)](https://www.erlang-solutions.com/blog/how-to-use-rabbitmq-in-service-integration/)
