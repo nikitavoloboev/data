@@ -1,5 +1,9 @@
 # Objective C
 
+## Notes
+
+- [To learn ObjC: Best start with the first chapter or two in any intro book, then start a new Xcode Project in Obj-C and make a simple app that does something. Just getting exposed to all the APIs you currently use in their Obj-C forms makes thinking in the language so much easier.](https://twitter.com/NathanBLawrence/status/1394694493073457159)
+
 ## Links
 
 - [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
@@ -31,3 +35,5 @@
 - [Tagged Pointer Strings in Obj-C (2015)](https://www.mikeash.com/pyblog/friday-qa-2015-07-31-tagged-pointer-strings.html)
 - [Be careful with Obj-C bridging in Swift (2021)](https://swiftrocks.com/be-careful-with-objc-bridging-in-swift)
 - [How NetNewsWire Handles Threading (2021)](https://inessential.com/2021/03/20/how_netnewswire_handles_threading) ([HN](https://news.ycombinator.com/item?id=26536423))
+- [Stanford Objective C Lecture (2017)](https://www.youtube.com/watch?v=o3t52-ZxFtU)
+- [Objective-C for Swift Developers Book](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)

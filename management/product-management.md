@@ -67,3 +67,4 @@
 - [14 habits of highly effective Product Managers (2021)](https://twitter.com/lennysan/status/1389611792741986305)
 - [Ask HN: How do you generally build a product? (2021)](https://news.ycombinator.com/item?id=27057978)
 - [Keylitic](https://www.keylitic.com/) - Discover product trends in your industry.
+- [Compass](https://www.usecompass.app/) - Complete toolkit for product managers using Linear.
