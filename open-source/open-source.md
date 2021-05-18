@@ -177,3 +177,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [It's time to say goodbye to the GPL (2021)](https://martin.kleppmann.com/2021/04/14/goodbye-gpl.html) ([HN](https://news.ycombinator.com/item?id=26834157))
 - [How to safely open-source internal software - Some best practices (2021)](https://blog.gitguardian.com/safely-open-source-software-best-practices/)
 - [InnerSource Patters Book](https://patterns.innersourcecommons.org/) - Use of open source principles and practices for software development within the confines of an organization.
+- [Prefer the MIT License](https://juxt.pro/blog/prefer-mit) ([Lobsters](https://lobste.rs/s/qgxnjn/prefer_mit_license))

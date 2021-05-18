@@ -60,3 +60,4 @@
 - [JsQuery](https://github.com/postgrespro/jsquery) - JSON query language with GIN indexing support.
 - [BSON](http://bsonspec.org/) - Binary JSON. ([Code](https://github.com/mongodb/bsonspec.org))
 - [Noise](https://github.com/pipedown/noise) - JSON full text and ad-hoc query engine with example-based query syntax. ([Web](https://noisesearch.org/))
+- [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
