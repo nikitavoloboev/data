@@ -245,3 +245,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Ask HN: What are the best typography talks? (2021)](https://news.ycombinator.com/item?id=27154412)
 - [Learning a Manifold of Fonts](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html)
 - [5 steps to faster web fonts (2021)](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
+- [Open source beautiful fonts (2021)](https://twitter.com/gontijodesign/status/1394624373823348737)

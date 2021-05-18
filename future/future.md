@@ -65,3 +65,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [List of emerging technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies) ([HN](https://news.ycombinator.com/item?id=26837152))
 - [Which terms would trend in Google Search in 5/10 years? (2021)](https://twitter.com/eriktorenberg/status/1384915308717256708)
 - [The next ten years (2021)](https://world.hey.com/joaoqalves/the-next-ten-years-5b776dac)
+- [What do we do now that people 50 years from now will think is crazy and unhealthy (2021)](https://twitter.com/Solar_Trex/status/1394454744945491968)

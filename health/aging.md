@@ -63,3 +63,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [The central role of DNA damage in the ageing process (2021)](https://www.nature.com/articles/s41586-021-03307-7)
 - [People who live past 105 years old have genes that stop DNA damage (2021)](https://www.newscientist.com/article/2277000-people-who-live-past-105-years-old-have-genes-that-stop-dna-damage/) ([HN](https://news.ycombinator.com/item?id=27089624))
 - [Extending health span: AKG, human clinical trials & aging biomarkers (Prof Brian Kennedy) (2021)](https://www.youtube.com/watch?v=iYO-j2hesRw)
+- [Akira Kurosawa's letter on human potential](https://twitter.com/MadelineHorwat1/status/1394103866443055114)
