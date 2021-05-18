@@ -33,3 +33,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [What do you guys think about the future of drugs? (2021)](https://www.reddit.com/r/researchchemicals/comments/md6gej/what_do_you_guys_think_about_the_future_of_drugs/)
 - [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)
 - [Documentary about benzodiazepine withdrawal syndrome](https://www.youtube.com/watch?v=YEk3e9uKwRo)
+- [What is the closest thing to a "pure-euphoriant" out there? (2021)](https://www.reddit.com/r/researchchemicals/comments/nfalvj/what_is_the_closest_thing_to_a_pureeuphoriant_out/)

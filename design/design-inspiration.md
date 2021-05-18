@@ -448,6 +448,7 @@ Here are few more things I liked, design wise.
 - [Joe Birr-Pixton](http://jbp.io/)
 - [Abhinav Sarkar](https://abhinavsarkar.net/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
+- [Denis Defreyne](https://denisdefreyne.com/)
 - [Karan Sharma](https://mrkaran.dev/) ([Code](https://github.com/mr-karan/website))
 - [Kaspar Etter](https://kasparetter.com/)
 - [Victor Darvariu](https://victor.darvariu.me/)

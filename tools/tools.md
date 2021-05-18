@@ -500,3 +500,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Cusdis](https://cusdis.com/) - Next comment tool for your website. ([Code](https://github.com/djyde/cusdis)) ([HN](https://news.ycombinator.com/item?id=26878153))
 - [The Return of Fancy Tools (2021)](https://macwright.com/2021/03/16/return-of-fancy-tools.html) ([HN](https://news.ycombinator.com/item?id=27160983))
 - [Ask HN: What are some tools / libraries you built yourself? (2021)](https://news.ycombinator.com/item?id=27171970)
+- [The tools and tech I use to run a one-woman hardware company (2021)](https://blog.thea.codes/winterblooms-tech-stack/) ([HN](https://news.ycombinator.com/item?id=27199225))
