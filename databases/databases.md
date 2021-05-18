@@ -172,6 +172,7 @@
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [CloudBeaver](https://cloudbeaver.io/) - Database Management from Browser. ([Code](https://github.com/dbeaver/cloudbeaver))
 - [DbGate](https://dbgate.org/) - Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. ([Code](https://github.com/dbgate/dbgate))
+- [Snaplet](https://www.snaplet.dev/) - Work with your database as easily as your code.
 
 ## Notes
 

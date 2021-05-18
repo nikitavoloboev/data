@@ -298,3 +298,4 @@
 - [Enhancing Photorealism Enhancement (2021)](https://intel-isl.github.io/PhotorealismEnhancement/)
 - [DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control (2021)](http://www.geometrylearning.com/DeepFaceEditing/) ([Code](https://github.com/IGLICT/DeepFaceEditing-Jittor))
 - [Omnimatte: Associating Objects and Their Effects in Video (2021)](https://omnimatte.github.io/)
+- [Rethinking "Batch" in BatchNorm (2021)](https://arxiv.org/abs/2105.07576)
