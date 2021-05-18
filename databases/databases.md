@@ -141,6 +141,7 @@
 - [Yorkie](https://yorkie.dev/) - Document store for building collaborative editing applications. ([Code](https://github.com/yorkie-team/yorkie))
 - [InfluxDB IOx](https://github.com/influxdata/influxdb_iox) - Future core of InfluxDB, an open source time series database.
 - [EliasDB](https://github.com/krotik/eliasdb) - Graph-based database.
+- [Resql](https://github.com/tezc/resql) - SQL database server that uses SQLite as its SQL engine and it provides replication and automatic failover capabilities.
 
 ## Tools
 

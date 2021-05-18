@@ -190,3 +190,4 @@
 - [Generating a robots.txt in Next.js (2021)](https://mmazzarolo.com/blog/2021-04-27-nextjs-robots-txt/)
 - [How to build file upload forms on Next.js (2021)](https://betterprogramming.pub/how-to-build-file-upload-forms-on-next-js-c92ad41c63f2)
 - [Next.js: restrict pages to authenticated users (2021)](https://www.dmitry-ishkov.com/2021/05/restrict-nextjs-page-to-authenticated.html)
+- [Host a Next.js SSR app with real-time data on AWS Amplify (2021)](https://aws.amazon.com/blogs/mobile/host-a-next-js-ssr-app-with-real-time-data-on-aws-amplify/)

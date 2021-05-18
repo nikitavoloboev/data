@@ -221,3 +221,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Torvalds: Shared libraries are not a good thing in general (2021)](https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/) ([HN](https://news.ycombinator.com/item?id=27009044))
 - [Sigil OS post-mortem report](https://portal.mozz.us/gemini/gemini.spam.works/~emery/devlog/sigil-report.gmi) ([Lobsters](https://lobste.rs/s/fwlxjd/sigil_os_post_mortem_report))
 - [Loose ideas for operating systems (2021)](https://sporks.space/2021/05/09/loose-ideas-for-operating-systems/)
+- [An Incremental Path Towards a Safer OS Kernel (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s09-li.pdf)

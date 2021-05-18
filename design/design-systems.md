@@ -59,6 +59,7 @@
 - [aragonUI](https://ui.aragon.org/) - UI kit for decentralized apps. ([Code](https://github.com/aragon/ui))
 - [Salesforce Lightning Design System](https://www.lightningdesignsystem.com/) ([Code](https://github.com/salesforce-ux/design-system))
 - [Shopify Polaris design tokens](https://github.com/Shopify/polaris-tokens)
+- [Material You](https://material.io/blog/announcing-material-you)
 
 ## Notes
 

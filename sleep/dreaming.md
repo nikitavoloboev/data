@@ -1,7 +1,5 @@
 # Dreaming
 
-Don't know much about why we dream.
-
 ## Lucid dreaming
 
 I do know that lucid dreaming is possible. That is you can be somewhat _aware_ that you are in a dream. You can even control the dream by manifesting objects you want to see or you can even fly.
@@ -27,3 +25,4 @@ In order to have lucid dreams you need two do three things consistently:
 - [Deconstructing Dreams](https://hyperlink.academy/courses/covid-19-and-dreams/20)
 - [Scientists Engineer Dreams to Understand the Sleeping Brain (2020)](https://www.the-scientist.com/features/scientists-engineer-dreams-to-understand-the-sleeping-brain-68170)
 - [Real-time dialogue with a dreaming person is possible (2021)](https://news.northwestern.edu/stories/2021/02/lucid-dreams-ken-paller/)
+- [The overfitted brain: Dreams evolved to assist generalization (2021)](<https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7>) ([HN](https://news.ycombinator.com/item?id=27198505))
