@@ -97,3 +97,4 @@
 - [Building a Distributed Turn-Based Game System in Elixir (2021)](https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/) ([HN](https://news.ycombinator.com/item?id=26989577)) ([Code](https://github.com/fly-apps/tictac))
 - [HelloElixir](https://github.com/fly-apps/hello_elixir-dockerfile) - Example for building and deploying an Elixir application to Fly using a Dockerfile.
 - [Efficiently querying data in batches using Absinthe (2021)](https://sevenseacat.net/posts/2021/querying-batches-with-absinthe/)
+- [Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir? (2021)](https://news.ycombinator.com/item?id=27192873)

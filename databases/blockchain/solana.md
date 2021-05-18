@@ -32,3 +32,4 @@
 - [Promising new projects of SOL Ecosystem (2021)](https://twitter.com/CryptoGodJohn/status/1386370402264432640)
 - [Fireside Chat with Jeremy Allaire (2021)](https://www.youtube.com/watch?v=w1Us2kEvqIg)
 - [Is SOL the smart contract chain to beat? (2021)](https://www.youtube.com/watch?v=TS2mSjvE3Ok)
+- [Intro to the Solana Programming Model - Technical Workshop (2021)](https://www.youtube.com/watch?v=7Iitv5tMOMY)
