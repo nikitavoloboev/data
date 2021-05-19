@@ -115,3 +115,4 @@
 - [The Humble <img> Element And Core Web Vitals (2021)](https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/)
 - [Update Canvas 2D API](https://github.com/fserb/canvas2D)
 - [Google Docs will now use canvas based rendering (2021)](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html) ([HN](https://news.ycombinator.com/item?id=27129858)) ([Lobsters](https://lobste.rs/s/uqb3kj/google_docs_will_now_use_canvas_based))
+- [DOM Events](https://domevents.dev/) - Learn about the DOM Event system through exploration.

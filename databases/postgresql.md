@@ -262,3 +262,4 @@
 - [pgANN](https://github.com/netrasys/pgANN) - Approximate Nearest Neighbor (ANN) searches using a PostgreSQL backend.
 - [smlar](https://github.com/jirutka/smlar) - PostgreSQL extension for an effective similarity search.
 - [Debugging random slow writes in PostgreSQL (2021)](https://iamsafts.com/posts/postgres-gin-performance/) ([HN](https://news.ycombinator.com/item?id=27152507))
+- [PostgreSQL: Detecting slow queries quickly (2021)](https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly/)
