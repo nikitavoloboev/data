@@ -44,6 +44,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - ['Match the energy' of people you are dealing with.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
 - [I need a person who can respectfully tell me exactly what they have a problem with and what they want. So then we can have an adult conversation to either fix it or understand we're not compatible.](https://www.reddit.com/r/datingoverthirty/comments/nd616p/dae_notice_a_datepartner_criticizing_instead_of/)
 - [Trying to get your needs met without being vulnerable leads to abuse.](https://www.reddit.com/r/datingoverthirty/comments/nd616p/dae_notice_a_datepartner_criticizing_instead_of/)
+- [People aren't trying to cultivate a monogamous lifelong relationship—some people stumble into it, but generally on the surface contemporary dating is "let's see what happens" with a lot of underlying anxiety/confusion/ambivalence that ruins things.](https://twitter.com/mtbtws/status/1394788213361872897)
 
 ## Links
 
@@ -88,3 +89,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Dunbar's Number is Quadratic (2020)](https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic)
 - [Dating Trauma Podcast Episode (2021)](https://www.dateablepodcast.com/episode/s12e4-dating-trauma)
 - [Dateable Podcast](https://www.dateablepodcast.com/) - Dating and Relationship Podcast.
+- [Biggest obstacles in finding a partner (2021)](https://twitter.com/default_friend/status/1394765016964878339)

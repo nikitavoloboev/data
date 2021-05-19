@@ -51,3 +51,4 @@
 - [Pal.js](https://paljs.com/) - Start your NodeJs, Prisma, GraphQL, React project. ([GitHub](https://github.com/paljs))
 - [How to Spot Bottlenecks in DB Performance](https://www.prisma.io/dataguide/managing-databases/how-to-spot-bottlenecks-in-performance)
 - [Prisma + Serverless-Stack](https://github.com/millsp/prisma-serverless-stack)
+- [Using Prisma With PostgreSQL on DigitalOcean (2021)](https://www.youtube.com/watch?v=0EcgdCSPygM)

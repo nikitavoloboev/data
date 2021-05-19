@@ -109,3 +109,4 @@
 - [What can managers do to help colleague that came back from a burnout to reintegrate better (2021)](https://twitter.com/pmarquees/status/1387704907025747970)
 - [Staying on the path to high performing teams (2018)](https://lethain.com/durably-excellent-teams/) ([HN](https://news.ycombinator.com/item?id=27092326))
 - [Thoughts on Stripe's lack of managers (2021)](https://twitter.com/cjc/status/1392657326318833667)
+- [The Managers Handbook](https://themanagershandbook.com/)
