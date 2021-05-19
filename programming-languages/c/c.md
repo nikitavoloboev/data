@@ -152,3 +152,4 @@
 - [The Byte Order Fiasco (2021)](https://justine.lol/endian.html) ([Lobsters](https://lobste.rs/s/celegm/byte_order_fiasco))
 - [snmalloc](https://github.com/microsoft/snmalloc) - High-performance allocator.
 - [Practical Design Patterns: Opaque Pointers and Objects in C (2021)](https://interrupt.memfault.com/blog/opaque-pointers) ([Lobsters](https://lobste.rs/s/zkpczs/practical_design_patterns_opaque))
+- [movfuscator](https://github.com/Battelle/movfuscator) - Single instruction C compiler.
