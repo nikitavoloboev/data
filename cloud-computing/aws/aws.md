@@ -12,6 +12,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable graph database built for the cloud.
 - [RDS Proxy](https://aws.amazon.com/rds/proxy/) - Fully managed, highly available database proxy for Amazon Relational Database Service (RDS).
 - [AWS Honeycode](https://www.honeycode.aws/) - Build Web & Mobile Apps Without Writing Code. ([Announcement](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)) ([HN](https://news.ycombinator.com/item?id=23633110))
+- [AWS App Runner](https://aws.amazon.com/apprunner/) - Fully managed container application service.
 
 ## Links
 
@@ -169,3 +170,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon SageMaker Safe Deployment Pipeline](https://github.com/aws-samples/amazon-sagemaker-safe-deployment-pipeline)
 - [AWS SDK for Rust](https://github.com/awslabs/aws-sdk-rust) ([Article](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)) ([HN](https://news.ycombinator.com/item?id=27080859))
 - [Learn AWS with Rust](https://github.com/richardhboyd/learn-rust-on-aws)
+- [Hello App Runner](https://github.com/aws-containers/hello-app-runner) - Example application for AWS App Runner.
