@@ -35,7 +35,7 @@
 - [Prize winning JS solution for the Telegram April 2019 coding contest](https://github.com/Finesse/telegram-chart)
 - [New technique for making responsive, JavaScript-free charts (2020)](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp)
 - [HiPlot](https://github.com/facebookresearch/hiplot) - Lightweight interactive visualization tool to help AI researchers discover correlations and patterns in high-dimensional data. ([Article](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/)) ([HN](https://news.ycombinator.com/item?id=22270727))
-- [Explorabl.es](https://explorabl.es/) - Hub for learning through play. ([HN](https://news.ycombinator.com/item?id=22368323))
+- [Explorabl.es](https://explorabl.es/) - Hub for learning through play. ([HN](https://news.ycombinator.com/item?id=22368323)) ([Code](https://github.com/explorableexplanations/explorableexplanations.github.io))
 - [Interactive Data Visualization course (2020)](http://vis.csail.mit.edu/classes/6.894/)
 - [Vega-Embed](https://github.com/vega/vega-embed) - Makes it easy to embed interactive Vega and Vega-Lite views into web pages.
 - [Facette](https://github.com/facette/facette) - Time series data visualization software.

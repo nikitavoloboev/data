@@ -107,3 +107,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Circle](https://www.circle.com/en/) - Payments infrastructure for internet businesses.
 - [The Ultimate Guide to Inflation](https://www.lynalden.com/inflation/) ([HN](https://news.ycombinator.com/item?id=27099536))
 - [Why Open Source Finance Will Win. (2019)](https://medium.com/balance-io/why-open-source-finance-will-win-a1f3a61544c2)
+- [Lean FIRE Reddit Wiki](https://www.reddit.com/r/leanfire/wiki/index)
+- [Anyone Retire in a LCOL Country and Regret it? (2021)](https://www.reddit.com/r/leanfire/comments/nfq3p7/anyone_retire_in_a_lcol_country_and_regret_it/)

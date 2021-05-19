@@ -90,3 +90,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Dating Trauma Podcast Episode (2021)](https://www.dateablepodcast.com/episode/s12e4-dating-trauma)
 - [Dateable Podcast](https://www.dateablepodcast.com/) - Dating and Relationship Podcast.
 - [Biggest obstacles in finding a partner (2021)](https://twitter.com/default_friend/status/1394765016964878339)
+- [Single men of Reddit in their 30s who have never had a girlfriend, how do you stay hopeful? (2021)](https://www.reddit.com/r/AskMen/comments/nfw4fm/single_men_of_reddit_in_their_30s_who_have_never/)

@@ -34,3 +34,5 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)
 - [Documentary about benzodiazepine withdrawal syndrome](https://www.youtube.com/watch?v=YEk3e9uKwRo)
 - [What is the closest thing to a "pure-euphoriant" out there? (2021)](https://www.reddit.com/r/researchchemicals/comments/nfalvj/what_is_the_closest_thing_to_a_pureeuphoriant_out/)
+- [Drugs Reddit Knowledge Base](https://www.reddit.com/r/Drugs/wiki/knowledgebase)
+- [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)

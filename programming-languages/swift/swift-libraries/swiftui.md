@@ -148,3 +148,4 @@
 - [Building a Document-Based App with SwiftUI](https://developer.apple.com/documentation/swiftui/building_a_document-based_app_with_swiftui)
 - [How to create a Search Bar with SwiftUI (2021)](https://blckbirds.com/post/how-to-create-a-search-bar-with-swiftui/)
 - [Abstracting Navigation in SwiftUI (2021)](https://obscuredpixels.com/abstracting-navigation-in-swiftui) ([Reddit](https://www.reddit.com/r/swift/comments/n14w72/abstracting_navigation_in_swiftui/))
+- [SwiftUI Introspect (2021)](https://www.fivestars.blog/articles/swiftui-introspect/)
