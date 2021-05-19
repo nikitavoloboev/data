@@ -107,3 +107,4 @@
 - [Arc](https://arc.dev/) - Easiest way to find remote developer jobs.
 - [Predictions on remote work (2021)](https://twitter.com/marcusradell/status/1388501184172937223)
 - [Ask HN: How to negotiate continuing to work remotely? (2021)](https://news.ycombinator.com/item?id=27123553)
+- [Remotebear](https://remotebear.io/) - Best remote jobs at leading tech companies. ([Code](https://github.com/remotebear-io/remotebear)) ([Article](https://mmazzarolo.com/blog/2021-05-01-open-sourcing-remotebear/))
