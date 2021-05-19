@@ -467,3 +467,4 @@
 - [Kobra](https://kobra.dev/) - Visual programming language for machine learning. ([HN](https://news.ycombinator.com/item?id=27135573))
 - [Delving into Deep Imbalanced Regression (2021)](https://arxiv.org/abs/2102.09554) ([Code](https://github.com/YyzHarry/imbalanced-regression))
 - [Comprehensive Survey on Transfer Learning](http://datamining.rutgers.edu/publication/A%20Comprehensive%20Survey%20on%20Transfer%20Learning.pdf)
+- [Applied Deep Learning Course](https://github.com/maziarraissi/Applied-Deep-Learning) ([Videos](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4))
