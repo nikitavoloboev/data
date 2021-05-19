@@ -121,6 +121,7 @@
 - [Headless Brands](https://otherinter.net/web3/headless-brands/)
 - [Importance of Sales team (2021)](https://twitter.com/paulstovell/status/1389881033470869504)
 - [Top 0.1% of marketing mental models (2021)](https://twitter.com/george__mack/status/1391824470977941516)
+- [Ask HN: Desperately need “sales for nerds” advice (2021)](https://news.ycombinator.com/item?id=27192884)
 
 ## Images
 

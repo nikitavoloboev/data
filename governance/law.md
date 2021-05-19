@@ -22,3 +22,4 @@
 - [Templating for Lawyers (2021)](https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html) ([HN](https://news.ycombinator.com/item?id=26448618))
 - [Terms & Privacy - Every](https://every.to/legal) - Written in plain language by lawyer.
 - [Types of Legal Argument (2021)](https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html) ([HN](https://news.ycombinator.com/item?id=26952429))
+- [Terms and Conditions Game](https://termsandconditions.game/) ([HN](https://news.ycombinator.com/item?id=27191795))

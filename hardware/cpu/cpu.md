@@ -95,3 +95,5 @@
 - [Architecture All Access: Modern CPU Architecture (2021)](https://www.youtube.com/watch?v=vgPFzblBh7w&list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj)
 - [How M1 Macs feel faster than Intel models: it’s about QoS (2021)](https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/) ([HN](https://news.ycombinator.com/item?id=27182244))
 - [UCodeDisasm: Intel Atom Disassembler](https://github.com/chip-red-pill/uCodeDisasm)
+- [Atomics in AArch64 (2021)](https://cpufun.substack.com/p/atomics-in-aarch64)
+- [CPU Fun Blog](https://cpufun.substack.com/) - Intended to cover various subjects related to the low-level interactions of software and hardware.
