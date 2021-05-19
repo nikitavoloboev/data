@@ -102,3 +102,4 @@
 - [inadyn](https://github.com/troglobit/inadyn) - Dynamic DNS client with SSL/TLS support. ([Web](https://troglobit.com/projects/inadyn/))
 - [Anubis](https://github.com/jonluca/Anubis) - Subdomain enumeration and information gathering tool.
 - [ddclient](https://github.com/ddclient/ddclient) - Perl client used to update dynamic DNS entries for accounts on many dynamic DNS services.
+- [dnsharper](https://github.com/marshall-lee/dnsharper) - Small DNS server to lookup local network IPs by their MAC addresses.
