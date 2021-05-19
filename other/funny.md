@@ -92,3 +92,4 @@
 - [Russian kid screaming blyat (minecraft)](https://www.youtube.com/watch?v=Gm5EBnLTG90)
 - [Put it all into Doge Money](https://twitter.com/DanOBrienPoker/status/1391601685844291584)
 - [You are in Bulgaria!](https://www.youtube.com/watch?v=JW8DNStF3TE)
+- [CTO holding onto to an outdated opinion about a technology they used once](https://twitter.com/jaredpalmer/status/1394708179305603074)
