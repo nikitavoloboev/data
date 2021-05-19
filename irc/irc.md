@@ -50,4 +50,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [History of IRC (Internet Relay Chat)](https://daniel.haxx.se/irchistory.html)
 - [Kiwi IRC](https://kiwiirc.com/) - Web IRC client. ([Code](https://github.com/kiwiirc/kiwiirc))
 - [I am resigning along with most other Freenode staff (2021)](https://p.haavard.me/407) ([HN](https://news.ycombinator.com/item?id=27153338))
-- [Libera Chat](https://libera.chat/) - Next-generation IRC network for FOSS projects collaboration.
+- [Libera Chat](https://libera.chat/) - Next-generation IRC network for FOSS projects collaboration. ([HN](https://news.ycombinator.com/item?id=27207734))

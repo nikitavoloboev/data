@@ -92,3 +92,4 @@
 - [Examples of RISC-V Assembly Programs](https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/) ([HN](https://news.ycombinator.com/item?id=26946993))
 - [RISC-V ELF psABI Document](https://github.com/riscv/riscv-elf-psabi-doc) - Processor-specific application binary interface document for RISC-V.
 - [riscv-mini](https://github.com/ucb-bar/riscv-mini) - Simple RISC-V 3-stage pipeline written in Chisel.
+- [BlackParrot](https://github.com/black-parrot/black-parrot) - Linux-Capable Accelerator Host RISC-V Multicore.
