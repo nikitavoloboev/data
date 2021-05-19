@@ -333,6 +333,7 @@ Here are few more things I liked, design wise.
 - [Paul Glushak](https://0xff.nu/)
 - [Shawn Wang](https://www.swyx.io/) ([Code](https://github.com/sw-yx/swyxdotio))
 - [Sarun](https://sarunw.com/)
+- [Niccolo Borgioli](https://nicco.io/)
 - [Emma Goto](https://www.emgoto.com/) ([Code](https://github.com/emgoto/emgoto.com))
 - [Gianluca Brindisi](https://cloudberry.engineering/)
 - [Shihab Mehboob](https://www.pnguin.app/)
