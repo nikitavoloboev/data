@@ -70,7 +70,7 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Best place to get nutrition data (2021)](https://www.reddit.com/r/nutrition/comments/mg70il/best_place_to_get_nutrition_data/)
 - [Clockwork Nutrition](https://clockworknutrition.com/) - Automates meals based on your fitness and health goals.
 - [How to Read Food Labels Without Being Tricked](https://www.healthline.com/nutrition/how-to-read-food-labels)
-- [Soosee](https://jordibruin.github.io/food-scanner/) - Allergy & Food Scanner.
+- [Soosee](https://jordibruin.github.io/food-scanner/) - Allergy & Food Scanner. ([Twitter](https://twitter.com/sooseeapp))
 - [FoodNoms](https://foodnoms.com/) - Food Tracker App for iPhone.
 - [Do you have a single food item that completely changed your life and led you to pursue nutrition? (2021)](https://www.reddit.com/r/nutrition/comments/n2di2o/do_you_have_a_single_food_item_that_completely/)
 - [Have you ever added a food to your diet that made you feel immediately healthier? (2021)](https://www.reddit.com/r/nutrition/comments/n4eky8/have_you_ever_added_a_food_to_your_diet_that_made/)
