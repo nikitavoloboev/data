@@ -60,3 +60,4 @@
 - [Digital](https://github.com/hneemann/Digital) - Digital logic designer and circuit simulator.
 - [Advice on self-studying EE (2021)](https://www.reddit.com/r/ElectricalEngineering/comments/n1rxsh/advice_on_selfstudying_ee/)
 - [Logisim](https://github.com/reds-heig/logisim-evolution) - Digital logic designer and simulator.
+- [Circuit Synthesis for Analog Computing (2021)](https://blog.sigplan.org/2021/05/18/circuit-synthesis-for-analog-computing/) ([HN](https://news.ycombinator.com/item?id=27194378))

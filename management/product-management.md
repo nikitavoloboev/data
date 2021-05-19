@@ -68,3 +68,4 @@
 - [Ask HN: How do you generally build a product? (2021)](https://news.ycombinator.com/item?id=27057978)
 - [Keylitic](https://www.keylitic.com/) - Discover product trends in your industry.
 - [Compass](https://www.usecompass.app/) - Complete toolkit for product managers using Linear.
+- [Building Products at Stripe (2021)](https://newsletter.bringthedonuts.com/p/building-products-at-stripe) ([HN](https://news.ycombinator.com/item?id=27194976))
