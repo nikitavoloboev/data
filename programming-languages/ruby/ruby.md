@@ -72,3 +72,4 @@
 - [Ruby Weekly](https://rubyweekly.com/) - Free, once–weekly e-mail round-up of Ruby news and articles.
 - [Ruby Garbage Collection with Jemma Issroff (2021)](https://railswithjason.simplecast.com/episodes/093-garbage-collection-with-jemma-issroff)
 - [Ruby's Top Exception Classes](https://www.exceptionalcreatures.com/bestiary.html)
+- [Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/c/) ([HN](https://news.ycombinator.com/item?id=27172483))

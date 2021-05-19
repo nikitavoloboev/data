@@ -1,5 +1,9 @@
 # [Prolog](https://en.wikipedia.org/wiki/Prolog)
 
+## Notes
+
+- [We call Prolog & Datalog "logic programming", but really they're "deductive programming": they don't treat clauses as propositions, but as inference rules. SAT/SMT are arguably _actually_ logic programming.](https://twitter.com/arntzenius/status/1393700339510042625)
+
 ## Links
 
 - [The Power of Prolog book](https://www.metalevel.at/prolog) ([Code](https://github.com/triska/the-power-of-prolog)) ([HN](https://news.ycombinator.com/item?id=22804079)) ([Videos](https://www.metalevel.at/prolog/videos/))

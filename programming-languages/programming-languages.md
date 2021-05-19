@@ -203,4 +203,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [treefmt](https://github.com/numtide/treefmt) - One CLI to format the code tree.
 - [Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser (2021)](https://abhinavsarkar.net/posts/implementing-co-1/)
 - [Playground for PL ideas](https://github.com/alecthomas/langx)
-- [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html)
+- [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html) ([HN](https://news.ycombinator.com/item?id=27210008))

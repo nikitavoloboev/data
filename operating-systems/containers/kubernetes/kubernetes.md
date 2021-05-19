@@ -228,7 +228,7 @@
 - [MicroK8s](https://github.com/ubuntu/microk8s) - Small, fast, single-package Kubernetes for developers, IoT and edge. ([Web](https://microk8s.io/)) ([HN](https://news.ycombinator.com/item?id=24786646))
 - [Evolution of k8s worker nodes (2020)](https://thechief.io/c/abvijaykumar/evolution-k8s-worker-nodes/)
 - [Kiali](https://kiali.io/) - Service mesh observability and configuration. ([Kiali Operator](https://github.com/kiali/kiali-operator)) ([Kiali Front End](https://github.com/kiali/kiali-ui))
-- [KubeVirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. ([Web](https://kubevirt.io/))
+- [KubeVirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. ([Web](https://kubevirt.io/)) ([HN](https://news.ycombinator.com/item?id=27205617))
 - [Cluster Turndown](https://github.com/kubecost/cluster-turndown) - Automated turndown of Kubernetes clusters on specific schedules.
 - [Kubernetes Enhancements](https://github.com/kubernetes/enhancements)
 - [kubeaudit](https://github.com/Shopify/kubeaudit) - Command line tool and a Go package to audit Kubernetes clusters for various different security concerns.

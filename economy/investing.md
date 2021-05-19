@@ -23,6 +23,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Just because a company is in an exciting industry doesn’t mean it’s a good investment. This is also a important thing to remember when investing in EV stocks.](https://www.reddit.com/r/stocks/comments/n392a4/twitter_twtr_has_done_basically_nothing_in_its/)
 - [The problem with buying things that you don't know how to value, is you don't know when to sell until it's too late.](https://www.reddit.com/r/investing/comments/n6dh3d/i_sold_every_share_i_own_today/)
 - [If total market index funds aren't a good investment over the next 30 years, then stock picking is likely to be even worse.](https://www.reddit.com/r/Bogleheads/comments/n8j145/is_there_strong_evidence_that_index_funds_will_be/)
+- [Short term market trends are less affected by earnings and more by market sentiment. Consistent earnings will make the price rise in the long run but stocks always go through highs and lows.](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
 
 ## Links
 
@@ -182,3 +183,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Why not go 100% vanguard target? (2021)](https://www.reddit.com/r/Bogleheads/comments/my6tux/why_not_go_100_vanguard_target/)
 - [Things to consider before putting on an options trade (2021)](https://www.reddit.com/r/options/comments/n13xal/things_to_consider_before_putting_on_an_options/)
 - [Value Investing in 2021 w/ Mohnish Pabrai](https://overcast.fm/+I6zEIwfLE)
+- [Explain why earnings no longer matter, and the entire market is just pump&dump after pump&dump? (2021)](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)

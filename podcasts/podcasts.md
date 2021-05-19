@@ -73,6 +73,7 @@ It includes:
 - [We Study Billionaires - The Investor’s Podcast Network](https://overcast.fm/itunes928933489/we-study-billionaires-the-investor-s-podcast-network) - We interview and study famous financial billionaires including Warren Buffett and Howard Marks, and teach you what we learn and how you can apply their investment strategies in the stock market.
 - [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
 - [Zero Knowledge](https://overcast.fm/itunes1326503043/zero-knowledge) - Where we talk about blockchain technology and development.
+- [ReadME Podcast](https://github.com/readme/podcast) - Take a look behind the scenes of the most impactful open source projects and the developers who make them happen.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

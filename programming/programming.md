@@ -391,3 +391,4 @@
 - [Instruction level just-in-time programming](https://blog.asrpo.com/jit_programming) ([Lobsters](https://lobste.rs/s/6muxzs/instruction_level_just_time_programming))
 - ["What even is code? Building a non-code coding interface" - Katie Bell (2021)](https://www.youtube.com/watch?v=UH0A2iujtY8)
 - [Effective Code Review](https://github.com/jspahrsummers/effective-code-review/blob/main/Effective%20Code%20Review.pdf)
+- [How necessary are the programming fundamentals? (2021)](https://swiftrocks.com/how-necessary-are-the-programming-fundamentals.html) ([HN](https://news.ycombinator.com/item?id=27193415))

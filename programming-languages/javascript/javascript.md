@@ -289,3 +289,4 @@
 - [Endo](https://github.com/endojs/endo) - Distributed secure JavaScript sandbox, based on SES.
 - [How JavaScript works: 3 types of polymorphism (2021)](https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1) ([HN](https://news.ycombinator.com/item?id=27074514))
 - [Modern JavaScript: Everything you missed over the last 10 years (2020)](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years) ([HN](https://news.ycombinator.com/item?id=27165954))
+- [Rethinking JavaScript Infrastructure (2021)](https://cpojer.net/posts/rethinking-javascript-infrastructure)

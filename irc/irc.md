@@ -51,3 +51,5 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Kiwi IRC](https://kiwiirc.com/) - Web IRC client. ([Code](https://github.com/kiwiirc/kiwiirc))
 - [I am resigning along with most other Freenode staff (2021)](https://p.haavard.me/407) ([HN](https://news.ycombinator.com/item?id=27153338))
 - [Libera Chat](https://libera.chat/) - Next-generation IRC network for FOSS projects collaboration. ([HN](https://news.ycombinator.com/item?id=27207734))
+- [Freenode resignation FAQ](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409/)
+- [Leaving Freenode for a new network (2021)](https://www.kline.sh/) ([HN](https://news.ycombinator.com/item?id=27207440))

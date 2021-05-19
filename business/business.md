@@ -37,6 +37,7 @@ Learning to build [startups](startups/startups.md).
 - [Organizations should outgrow their founders.](https://twitter.com/joshsimmons/status/1379326794373898242)
 - [Product-market fit heals and forgives almost everything. The highest order bit is almost the only thing that matters by a long shot, to a dramatic and unintuitive degree.](https://twitter.com/visakanv/status/1382128300189839360)
 - [Business is just an elaborate excuse to make friends with interesting people.](https://twitter.com/awilkinson/status/1390741017079422979)
+- [Having a flat company structure sounds great until you've lived it. Companies need structure and hierarchy to work.](https://twitter.com/iamharaldur/status/1395084530609004549)
 
 ## Links
 
@@ -79,3 +80,4 @@ Learning to build [startups](startups/startups.md).
 - [What's Salesforce? (2019)](https://retool.com/blog/salesforce-for-engineers/) ([HN](https://news.ycombinator.com/item?id=27016600))
 - [Great banks for business (2021)](https://twitter.com/mjackson/status/1393298475970744324)
 - [Eight ways to make money (2021)](https://twitter.com/lennysan/status/1392862308951498754)
+- [Trends](https://trends.co/) - Your next business idea, delivered weekly.

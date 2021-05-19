@@ -121,3 +121,4 @@
 - [SeqKit](https://github.com/shenwei356/seqkit) - Cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Go.
 - [TaxonKit](https://github.com/shenwei356/taxonkit) - Practical and Efficient NCBI Taxonomy Toolkit.
 - [unikmer](https://github.com/shenwei356/unikmer) - Toolkit for nucleic acid k-mer analysis, including set operations on k-mers (sketch) optional with TaxIDs but without count information.
+- [ProteinSolver](https://github.com/ostrokach/proteinsolver) - Graph neural network capable of generating novel amino acid sequences that fold into proteins with predetermined topologies. ([Docs](proteinsolver.org))

@@ -128,3 +128,4 @@
 - [Senior and Above Interviews at Big Tech and Startups](https://blog.pragmaticengineer.com/tech-interviews/)
 - [Questions to ask in a job interview that reveal company culture (2021)](https://www.fastcompany.com/90622890/10-questions-to-ask-in-a-job-interview-that-will-really-expose-a-companys-culture)
 - [Avoiding Leetcode Anxiety](https://leetcodetherapy.com/leetcode-anxiety) ([HN](https://news.ycombinator.com/item?id=26988811))
+- [Why did you choose to end interview early? (2021)](https://twitter.com/engineering_bae/status/1394676304537133069)

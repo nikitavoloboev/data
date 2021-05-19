@@ -95,3 +95,4 @@
 - [Starlink Satellites Tracker](https://findstarlink.com/) ([HN](https://news.ycombinator.com/item?id=27080471))
 - [Blue Origin’s massive New Glenn rocket is delayed for years. What went wrong? (2021)](https://arstechnica.com/science/2021/03/so-what-really-happened-with-blue-origins-new-glenn-rocket/)
 - [SpaceX software team AMA (2021)](https://www.reddit.com/r/spacex/comments/ncj4vz/we_are_the_spacex_software_team_ask_us_anything/)
+- [Dissolving the Fermi Paradox (2018)](https://arxiv.org/abs/1806.02404) ([HN](https://news.ycombinator.com/item?id=27205742))
