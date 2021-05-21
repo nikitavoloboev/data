@@ -271,6 +271,7 @@
 - [no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic.
 - [spez](https://github.com/m-ou-se/spez) - Macro to specialize on the type of an expression.
 - [lazy-regex](https://github.com/Canop/lazy-regex) - Macro for when you're tired of the regex creation boilerplate.
+- [Arraygen](https://github.com/theypsilon/arraygen) - Derive macro for generating arrays from struct fields.
 
 ## Math
 
