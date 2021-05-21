@@ -314,3 +314,4 @@
 - [New service manager for Linux distributions (2021)](https://skarnet.com/projects/service-manager.html)
 - [Hummingbird](https://github.com/Sweets/hummingbird) - Lightning fast Linux init.
 - [File Descriptor Limits (2021)](http://0pointer.net/blog/file-descriptor-limits.html)
+- [Fuzzing the Linux kernel (2021)](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)

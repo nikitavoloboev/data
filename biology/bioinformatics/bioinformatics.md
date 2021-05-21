@@ -122,3 +122,5 @@
 - [TaxonKit](https://github.com/shenwei356/taxonkit) - Practical and Efficient NCBI Taxonomy Toolkit.
 - [unikmer](https://github.com/shenwei356/unikmer) - Toolkit for nucleic acid k-mer analysis, including set operations on k-mers (sketch) optional with TaxIDs but without count information.
 - [ProteinSolver](https://github.com/ostrokach/proteinsolver) - Graph neural network capable of generating novel amino acid sequences that fold into proteins with predetermined topologies. ([Docs](proteinsolver.org))
+- [Learning from Protein Structure with Geometric Vector Perceptrons (2020)](https://openreview.net/forum?id=1YLJDvSx6J4) ([Code](https://github.com/drorlab/gvp))
+- [Dabble](https://github.com/Eigenstate/dabble) - Membrane protein builder and parameterizer.

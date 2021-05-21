@@ -66,3 +66,4 @@
 - [PolyTracker](https://github.com/trailofbits/polytracker) - LLVM-based instrumentation tool for universal taint analysis.
 - [A look at LLVM - comparing clamp implementations (2021)](https://secret.club/2021/04/09/std-clamp.html) ([HN](https://news.ycombinator.com/item?id=26753872))
 - [Speedbuilding LLVM/Clang in 5 minutes (2021)](https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/)
+- [Building LLVM in 90 seconds using Amazon Lambda (2021)](https://blog.nelhage.com/post/building-llvm-in-90s/) ([Lobsters](https://lobste.rs/s/pruijn/building_llvm_90_seconds_using_amazon))

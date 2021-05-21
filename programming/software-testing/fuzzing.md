@@ -50,3 +50,4 @@
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [LibAFL](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your own fuzzers together and extend their features using Rust.
 - [ssdeep](https://github.com/ssdeep-project/ssdeep) - Fuzzy hashing API and fuzzy hashing tool.
+- [Fuzzinator](https://github.com/renatahodovan/fuzzinator) - Random Testing Framework.

@@ -216,3 +216,4 @@
 - [API Versioning Has No "Right Way" (2017)](https://apisyouwonthate.com/blog/api-versioning-has-no-right-way)
 - [API Specification Toolbox](http://api.specificationtoolbox.com/) - Project to try and define the world of API specifications. ([Code](https://github.com/api-specification-toolbox/toolbox))
 - [API Blueprint](https://apiblueprint.org/) - Powerful high-level API description language for web APIs. ([Code](https://github.com/apiaryio/api-blueprint))
+- [4 essential characteristics of successful APIs (2021)](https://opensource.com/article/21/5/successful-apis)

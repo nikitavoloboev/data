@@ -832,6 +832,7 @@
 - [heed](https://github.com/Kerollmops/heed) - Fully typed LMDB/MDBX wrapper with minimum overhead.
 - [FUSE-Rust](https://github.com/cberner/fuser) - Rust library crate for easy implementation of FUSE filesystems in userspace.
 - [micromath](https://github.com/tarcieri/micromath) - Embedded Rust arithmetic, 2D/3D vector, and statistics library.
+- [Ordered Floats](https://github.com/reem/rust-ordered-float) - Provides several wrapper types for Ord and Eq implementations on f64.
 
 ## Cargo Plugins
 
