@@ -8,6 +8,7 @@
 - [Remote work rewards writers.](https://twitter.com/shl/status/1381603968489381896)
 - [Companies mandating company-wide time off days, where EVERYBODY at the company takes the same day off (hoping to help with burnout/pandemic breathing room) is helpful.](https://twitter.com/lara_hogan/status/1382087784974798849)
 - [Just because you work from home, doesn’t mean you have to be available 24/7 for work.](https://twitter.com/catalinmpit/status/1388809429806686213)
+- [Remote work has tons of benefits, but a dangerous disadvantage that isn't talked about enough is that the internet can start to replace your real-life social circles. Really important to combat that, or you can start taking things here way too seriously.](https://twitter.com/adamwathan/status/1395835514473877508)
 
 ## Links
 

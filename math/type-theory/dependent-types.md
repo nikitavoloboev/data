@@ -46,3 +46,4 @@
 - [Dependently Typed Linear π-Calculus in Agda](https://github.com/5HT/DependentLinearPi)
 - [Type systems for programs respecting dimensions (2021)](https://fredriknf.com/papers/dimensions2021.pdf)
 - [Calculating Dependently-Typed Compilers (2021)](http://www.cs.nott.ac.uk/~pszgmh/well-typed.pdf)
+- [A Dependently Typed Assembly Language](https://www.cs.cmu.edu/~rwh/papers/dtal/icfp01.pdf)

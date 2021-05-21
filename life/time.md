@@ -27,3 +27,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Einstein and Hume’s philosophy of time](https://aeon.co/essays/what-albert-einstein-owes-to-david-humes-notion-of-time) ([HN](https://news.ycombinator.com/item?id=25810015))
 - [Timezone Bullshit (2021)](https://blog.wesleyac.com/posts/timezone-bullshit) ([HN](https://news.ycombinator.com/item?id=26087502))
 - [Measuring the Thermodynamic Cost of Timekeeping (2021)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.021029)
+- [The Secret Life of the Watch](https://www.youtube.com/watch?v=Kd6m0fvlDOc)

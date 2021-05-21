@@ -26,6 +26,8 @@
 - [7 principles for better networking (2021)](https://twitter.com/businessbarista/status/1389265524597657603)
 - [Don't prioritize someone else's opinions, expectations or thoughts on your response times over your own needs/wants/availability. Some people will complain you aren't responsive enough, some will think its too much, some will reply to soon for your liking, some too slow.](https://www.reddit.com/r/datingoverthirty/comments/nbj1b0/is_it_better_to_quickly_reply_when_you_have_a/)
 - [Show interest and ask follow up questions to whatever conversation is going on along with while sharing some of your own experiences.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
+- Tell your colleagues you appreciate them, directly and in private. Kudos are awesome, but a private message from a coworker feels really authentic and awesome.
+- [The best engineers I know admit when they don't know something.](https://twitter.com/NovallSwift/status/1395497415948464129)
 
 ## Links
 

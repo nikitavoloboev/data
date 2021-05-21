@@ -184,3 +184,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Things to consider before putting on an options trade (2021)](https://www.reddit.com/r/options/comments/n13xal/things_to_consider_before_putting_on_an_options/)
 - [Value Investing in 2021 w/ Mohnish Pabrai](https://overcast.fm/+I6zEIwfLE)
 - [Explain why earnings no longer matter, and the entire market is just pump&dump after pump&dump? (2021)](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
+- [DealTeam](https://www.dealteam.com/) - Platform for professional investors.

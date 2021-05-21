@@ -29,6 +29,7 @@
   4. Calculus of one variable - Maron
 - [If you can, find someone else to work with, and someone else who already knows some math to ask occasional questions would probably help you a lot.](https://news.ycombinator.com/item?id=18939913)
 - [Monad on Set is a way to describe some sort of gadget that's a set equipped with a bunch of operations obeying a bunch of equations](https://twitter.com/johncarlosbaez/status/1294054900289028096)
+- [There's no closed-form solution for the motion of 3 gravitational masses in space, because solving that would tell us whether some guy's pure math construct halts or not.](https://twitter.com/hillelogram/status/1395847898739445761)
 
 ## Links
 
