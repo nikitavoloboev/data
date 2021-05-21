@@ -165,3 +165,4 @@
 - [wasmCloud](https://github.com/wasmCloud/wasmCloud) - Universal host runtime for actors built with WebAssembly and capability providers. ([Web](https://wasmcloud.dev/))
 - [WebContainer Core](https://github.com/stackblitz/webcontainer-core)
 - [Rust WebAssembly React Template](https://github.com/Fallenstedt/wasm-react-webpack-template)
+- [Defense in depth: stopping a Wasm compiler bug before it became a problem (2021)](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)

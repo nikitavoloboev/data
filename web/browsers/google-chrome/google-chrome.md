@@ -52,3 +52,4 @@ And here are Chrome extensions I use:
 - [Ask HN: For those who use Chrome, why do you? (2021)](https://news.ycombinator.com/item?id=26765493)
 - [Chrome Platform Status](https://chromestatus.com/features)
 - [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome) - High-level API to control headless Chrome or Chromium over the DevTools Protocol.
+- [Chromium spelling and grammar features (2021)](https://www.azabani.com/2021/05/17/spelling-grammar.html)

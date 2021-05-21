@@ -177,6 +177,7 @@
 - [Cider](https://github.com/markmals/Cider) - Helpers and extensions for UIKit.
 - [YYText](https://github.com/ibireme/YYText) - Powerful text framework for iOS to display and edit rich text.
 - [Tutti](https://github.com/danielsaidi/Tutti) - Swift library that lets you create tutorials, hints and onboarding experiences.
+- [UXKit](https://github.com/ZeeZide/UXKit) - Write code that works on both, UIKit and AppKit.
 
 ## macOS
 

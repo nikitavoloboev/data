@@ -38,3 +38,5 @@
 - [Does APL Need a Type System? (2018)](https://www.youtube.com/watch?v=z8MVKianh54)
 - [APL Seeds](https://www.dyalog.com/apl-seeds-user-meetings/aplseeds21.htm) - Event for those just starting their APL journey.
 - [APLcart](https://aplcart.info/) - Find your way in APL. ([Code](https://github.com/abrudz/aplcart))
+- [APL Style: Patterns/Anti-patterns](https://sway.office.com/b1pRwmzuGjqB30On) ([Lobsters](https://lobste.rs/s/3cscix/apl_style_patterns_anti_patterns))
+- [Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages](https://twitter.com/zverok/status/1395444520116969476) ([Lobsters](https://lobste.rs/s/dgegjp/some_thoughts_on_apls_real_imagined))

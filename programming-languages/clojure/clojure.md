@@ -128,3 +128,4 @@
 - [Six years of professional Clojure development (2021)](http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html)
 - [Clojure JVM + BEAM = Clojerl (by Juan Facorro) (2021)](https://www.youtube.com/watch?v=vgxOKmZYDwU)
 - [americano](https://github.com/IGJoshua/americano) - Simple tool for compiling Java from the Clojure CLI.
+- [Practical Artificial Intelligence Programming With Clojure (2021)](https://leanpub.com/clojureai) ([Code](https://github.com/mark-watson/Clojure-AI-Book-Code))
