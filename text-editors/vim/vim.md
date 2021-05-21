@@ -110,3 +110,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim is Turing-Complete (2021)](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)
 - [nvcode](https://github.com/ChristianChiarulli/nvcode) - Ultimate Neovim Config NVCode.
 - [Vim normal mode grammar](https://glts.github.io/2013/04/28/vim-normal-mode-grammar.html)
+- [Vim Tips You Probably Never Heard of (2021)](https://www.youtube.com/watch?v=bQfFvExpZDU)
