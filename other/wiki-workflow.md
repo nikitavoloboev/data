@@ -344,3 +344,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Codex OS](https://twitter.com/codexeditor) - Creating the knowledge worker's OS.
 - [Merlot](https://github.com/thesephist/merlot) - Web based Markdown writing app built with isomorphic Ink and Torus.
 - [Hypernotes](https://hypernotes.zenkit.com/) - Platform for collaboration and project management.
+- [Innos Note](https://innos.io/)
+- [How NOT to take Smart Notes (2021)](https://www.reddit.com/r/ObsidianMD/comments/ng9pqg/how_not_to_take_smart_notes/)
