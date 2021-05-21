@@ -67,3 +67,4 @@
 - [Ask HN: Does anyone else find the AWS Lambda developer experience frustrating? (2021)](https://news.ycombinator.com/item?id=26855037)
 - [Why We Moved From Lambda to ECS (2021)](https://prismatic.io/blog/why-we-moved-from-lambda-to-ecs/)
 - [AWS Lambda performance optimization (2021)](https://betterdev.blog/aws-lambda-performance-optimization/)
+- [Llama](https://github.com/nelhage/llama) - CLI for outsourcing computation to Amazon Lambda.

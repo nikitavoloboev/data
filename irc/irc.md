@@ -53,3 +53,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Libera Chat](https://libera.chat/) - Next-generation IRC network for FOSS projects collaboration. ([HN](https://news.ycombinator.com/item?id=27207734))
 - [Freenode resignation FAQ](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409/)
 - [Leaving Freenode for a new network (2021)](https://www.kline.sh/) ([HN](https://news.ycombinator.com/item?id=27207440))
+- [Solanum IRCd](https://solanum.chat/) - IRCv3 server designed to be highly scalable. ([Code](https://github.com/solanum-ircd/solanum))

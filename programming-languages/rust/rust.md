@@ -479,3 +479,4 @@
 - [Things you can’t do in Rust (and what to do instead) (2021)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/) ([Reddit](https://www.reddit.com/r/rust/comments/nclaru/things_you_cant_do_in_rust_and_what_to_do_instead/)) ([HN](https://news.ycombinator.com/item?id=27164000))
 - [Debugging rust application inside Linux container (2021)](https://blog.erebe.dev/blog/debug-rust-aplication-inside-container/index.html)
 - [Naming Your Lifetimes (2021)](https://www.possiblerust.com/pattern/naming-your-lifetimes)
+- [Rust Web Development (2021)](https://www.manning.com/books/rust-web-development) ([Reddit](https://www.reddit.com/r/rust/comments/nhu9h9/the_rust_web_development_book_is_now_in_meap/))

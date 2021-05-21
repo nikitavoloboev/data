@@ -36,6 +36,7 @@
 - [Gosh](https://github.com/vladimirvivien/gosh) - Pluggable framework for building command shell programs.
 - [cmder](https://github.com/hexops/cmder) - Lightweight Go pattern for writing CLIs with subcommands.
 - [go-sdk](https://github.com/blend/go-sdk) - Composable toolbox of libraries to build everything from CLIs to enterprise applications.
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - Feature flags with no complex system to maintain.
 
 ## Test
 

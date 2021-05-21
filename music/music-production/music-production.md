@@ -80,6 +80,7 @@
 - [PunKt](https://github.com/pjagielski/punkt) - Live coding music library/environment for Kotlin.
 - [OpenMusic](https://github.com/openmusic-project/openmusic) - Visual programming language based on Lisp.
 - [Scribbletune](https://scribbletune.com/) - Create music with JavaScript. ([Code](https://github.com/scribbletune/scribbletune))
+- [auditok](https://github.com/amsehili/auditok) - Audio/acoustic activity detection and audio segmentation tool.
 
 ## Inspiration
 
