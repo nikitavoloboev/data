@@ -311,4 +311,4 @@
 - [Component-level art direction with CSS Container Queries (2021)](https://www.sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/)
 - [Wallace CLI](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics in your terminal.
 - [No, Utility Classes Aren't the Same As Inline Styles (2021)](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
-- [Learn CSS](https://web.dev/learn/css/) - Evergreen CSS course and reference to level up your web styling expertise.
+- [Learn CSS](https://web.dev/learn/css/) - Evergreen CSS course and reference to level up your web styling expertise. ([HN](https://news.ycombinator.com/item?id=27233019))
