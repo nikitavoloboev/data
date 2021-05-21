@@ -77,6 +77,7 @@ Here are few more things I liked, design wise.
 - [GitBook](https://www.gitbook.com/)
 - [Websmyth](https://websmyth.co/)
 - [Finch](https://tryfinch.com/)
+- [Rekki](https://rekki.com/)
 - [Numinus](https://numinus.ca/)
 - [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)
