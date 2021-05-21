@@ -64,3 +64,4 @@
 - [Perennial](https://github.com/mit-pdos/perennial) - Verifying concurrent crash-safe systems.
 - [Coq Platform](https://github.com/coq/platform) - Multi platform setup for Coq, Coq libraries and tools.
 - [The Principia Rewrite](https://www.principiarewrite.com/) ([Code](https://github.com/LogicalAtomist/principia))
+- [Algebra Tactics](https://github.com/math-comp/algebra-tactics) - Experimental reflexive tactics for ring and field expressions.

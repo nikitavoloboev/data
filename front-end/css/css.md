@@ -312,3 +312,4 @@
 - [Wallace CLI](https://github.com/projectwallace/wallace-cli) - Pretty CSS analytics in your terminal.
 - [No, Utility Classes Aren't the Same As Inline Styles (2021)](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 - [Learn CSS](https://web.dev/learn/css/) - Evergreen CSS course and reference to level up your web styling expertise. ([HN](https://news.ycombinator.com/item?id=27233019))
+- [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)

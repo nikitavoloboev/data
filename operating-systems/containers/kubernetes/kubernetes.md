@@ -384,3 +384,5 @@
 - [Bare Metal Operator](https://github.com/metal3-io/baremetal-operator) - Bare metal host provisioning integration for Kubernetes.
 - [Ask HN: What do you think will come after Kubernetes? (2021)](https://news.ycombinator.com/item?id=27155526)
 - [Pinniped](https://github.com/vmware-tanzu/pinniped) - Easy, secure way to log in to your Kubernetes clusters. ([Web](https://pinniped.dev/))
+- [vcluster](https://github.com/loft-sh/vcluster) - Virtual Clusters For Kubernetes. ([Web](https://www.vcluster.com/))
+- [loft](https://loft.sh/) - Namespaces & Virtual Kubernetes Clusters For Engineering Teams. ([GitHub](https://github.com/loft-sh))

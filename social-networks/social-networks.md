@@ -110,3 +110,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Granary](https://granary.io/) - Fetches and converts data between social networks, HTML and JSON with microformats2, ActivityStreams 1 and 2, Atom, RSS, JSON Feed, and more. ([Code](https://github.com/snarfed/granary))
 - [Garnet](https://www.garnet.app/) - One app to unite your community.
 - [The Anxiety of Influencers (2021)](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/) - Educating the TikTok generation.
+- [Genies](https://genies.com/) - Custom 3D Avatars For Consumers and Celebrities.

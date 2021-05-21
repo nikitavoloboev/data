@@ -47,6 +47,7 @@
 - [Product research is valuable, but if you can ship an MVP in the a similar time frame, do that instead. Real product data > everything else.](https://twitter.com/hemal/status/1382074186588332033)
 - [The faster a space is moving, the more you need to bet on the people than the product.](https://twitter.com/scottbelsky/status/1391437978401116166)
 - [Startups never get faster over time, only slower. Your accumulating advantages & inevitable success need to kick in before entropy swallows you.](https://twitter.com/petegilligan/status/1393361203485892610)
+- [Startups are awesome because even if you fail, you’ll still succeed by way of getting one of the best learning experiences of your life.](https://twitter.com/mckaywrigley/status/1395073768549015553)
 
 ## Links
 
@@ -276,6 +277,8 @@
 - [My startup failed, then I found out I was unemployable (2021)](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html) ([HN](https://news.ycombinator.com/item?id=26792876))
 - [Build a SaaS Platform with Stripe (2021)](https://jonmeyers.io/blog/build-a-saas-platform-with-stripe) ([Tweet](https://twitter.com/_dijonmusters/status/1387399124165677057?s=28))
 - [Small teams](https://stevepulec.com/posts/small/)
+- [Ask HN: How do I learn more about entrepreneurship/startups? (2021)](https://news.ycombinator.com/item?id=27205818)
+- [Paul Graham advice to startup founders (2021)](https://twitter.com/m_franceschetti/status/1395735041636974593)
 
 ## Images
 

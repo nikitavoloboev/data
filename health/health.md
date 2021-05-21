@@ -45,3 +45,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Better air is the easiest way not to die (2021)](https://dynomight.net/air/) ([HN](https://news.ycombinator.com/item?id=26964722))
 - [How do you treat your health when you have wealth? (2021)](https://www.reddit.com/r/FIREUK/comments/n6v9t3/how_do_you_treat_your_health_when_you_have_wealth/)
 - [Ask HN: How can I improve my intelligence? (2021)](https://news.ycombinator.com/item?id=27102764)
+- [Ro](https://ro.co/) - Healthcare technology company building a patient-centric healthcare system.

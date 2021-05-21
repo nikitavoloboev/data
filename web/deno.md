@@ -101,3 +101,4 @@
 - [Terraform provider for Deno Deploy](https://github.com/wperron/terraform-deploy-provider)
 - [Andromeda](https://github.com/andromedaland/andromeda) - Global graph of Deno modules and their interdepencies.
 - [dzx](https://github.com/c4spar/deno-dzx) - Deno shell tools inspired by zx.
+- [Trex](https://github.com/crewdevio/Trex) - Package Manager for Deno.

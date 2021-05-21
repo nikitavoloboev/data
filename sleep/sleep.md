@@ -9,6 +9,7 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 ## Notes
 
 - [Consuming alcohol prior to sleep increases your avg sleeping heart rate by >10% because your liver is metabolizing alcohol and your body producing cortisol. You are forcing your heart to beat an extra 3k times during the night + getting lower sleep quality and lower recovery](https://twitter.com/m_franceschetti/status/1375867987614371840)
+- [Do plants sleep? Anesthesia works on plants too, and we don’t know why.](https://news.ycombinator.com/item?id=27195813)
 
 ## Links
 
@@ -38,3 +39,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Intro to sleep & brain development](https://twitter.com/basakbuilds/status/1372114559486595072)
 - [Ask HN: What has been the biggest contributor in improving your sleep? (2021)](https://news.ycombinator.com/item?id=26931085)
 - [The Hidden Connection Between Sleep and Dementia (2021)](https://www.youtube.com/watch?v=76z4UPt-OME)
+- [Hydras suggest that sleep evolved before brains (2021)](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/) ([HN](https://news.ycombinator.com/item?id=27195813))

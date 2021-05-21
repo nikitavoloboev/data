@@ -38,6 +38,7 @@ Learning to build [startups](startups/startups.md).
 - [Product-market fit heals and forgives almost everything. The highest order bit is almost the only thing that matters by a long shot, to a dramatic and unintuitive degree.](https://twitter.com/visakanv/status/1382128300189839360)
 - [Business is just an elaborate excuse to make friends with interesting people.](https://twitter.com/awilkinson/status/1390741017079422979)
 - [Having a flat company structure sounds great until you've lived it. Companies need structure and hierarchy to work.](https://twitter.com/iamharaldur/status/1395084530609004549)
+- [A small team of great engineers can make just a shocking amount of progress. This is one of the most unintuitive things for business people who tend to think more linearly in terms of team size vs. output.](https://twitter.com/jaltma/status/1395479778346426372)
 
 ## Links
 
@@ -81,3 +82,4 @@ Learning to build [startups](startups/startups.md).
 - [Great banks for business (2021)](https://twitter.com/mjackson/status/1393298475970744324)
 - [Eight ways to make money (2021)](https://twitter.com/lennysan/status/1392862308951498754)
 - [Trends](https://trends.co/) - Your next business idea, delivered weekly.
+- [Netflix's strategy of managing "complexity" and "creativity"](https://twitter.com/TrungTPhan/status/1395389066703622145)

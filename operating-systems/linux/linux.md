@@ -313,5 +313,5 @@
 - [Systemd: The Good Parts (2021)](https://christine.website/talks/systemd-the-good-parts-2021-05-16) ([Lobsters](https://lobste.rs/s/po98o2/systemd_good_parts)) ([HN](https://news.ycombinator.com/item?id=27175960))
 - [New service manager for Linux distributions (2021)](https://skarnet.com/projects/service-manager.html)
 - [Hummingbird](https://github.com/Sweets/hummingbird) - Lightning fast Linux init.
-- [File Descriptor Limits (2021)](http://0pointer.net/blog/file-descriptor-limits.html)
+- [File Descriptor Limits (2021)](http://0pointer.net/blog/file-descriptor-limits.html) ([Lobsters](https://lobste.rs/s/soircc/file_descriptor_limits)) ([HN](https://news.ycombinator.com/item?id=27215690))
 - [Fuzzing the Linux kernel (2021)](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)

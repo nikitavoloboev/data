@@ -176,3 +176,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Root Illustrations](https://rootwireframekit.com/illustrations) - Beautiful illustration constructor for websites & apps.
 - [Skribbl](https://weareskribbl.com/) - Free, Hand-Drawn Illustrations.
 - [Базовые принципы проектирования](https://andreivoronin.github.io/design-basic)
+- [Design Regression](https://designregression.com/) - Journal publishing texts that are about design for reading and reading-related research.

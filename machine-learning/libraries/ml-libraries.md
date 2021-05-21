@@ -141,3 +141,4 @@
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
 - [PySR](https://github.com/MilesCranmer/PySR) - Simple, fast, and parallelized symbolic regression in Python/Julia via regularized evolution and simulated annealing.
 - [Snowman Hotword Detection](https://github.com/Thalhammer/snowman)
+- [CLU](https://github.com/google/CommonLoopUtils) - Contains common functionality for writing ML training loops using JAX.

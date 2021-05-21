@@ -82,3 +82,4 @@
 - [SVG Essentials & Animation Course](https://frontendmasters.com/courses/svg-essentials-animation/) ([Code](https://github.com/sdras/svg-workshop))
 - [svgpath](https://github.com/fontello/svgpath) - SVG path low level transformations toolkit.
 - [kld-intersections](https://github.com/thelonious/kld-intersections) - Library of intersection algorithms covering all SVG shape types.
+- [SVG Loader](https://github.com/shubhamjain/svg-loader) - Plug 'n Play external SVG loader. ([Article](https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/))

@@ -27,3 +27,4 @@ I like to believe in the idea of [Pantheism](https://plato.stanford.edu/entries/
 - [Why is everyone so obsessed with the destruction of "ego"? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/gqrc0v/why_is_everyone_so_obsessed_with_the_destruction/)
 - [Why is Ego Death Therapeutic? (2021)](https://realitysandwich.com/why-is-ego-death-therapeutic/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/mbbohy/why_is_ego_death_therapeutic/))
 - [Why “You are the universe” actually scares me (2021)](https://www.reddit.com/r/AlanWatts/comments/mqd0s8/why_you_are_the_universe_actually_scares_me/)
+- [The self is not singular but a fluid network of identities (2021)](https://aeon.co/essays/the-self-is-not-singular-but-a-fluid-network-of-identities)

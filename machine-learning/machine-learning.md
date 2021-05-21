@@ -469,3 +469,4 @@
 - [Comprehensive Survey on Transfer Learning](http://datamining.rutgers.edu/publication/A%20Comprehensive%20Survey%20on%20Transfer%20Learning.pdf)
 - [Applied Deep Learning Course](https://github.com/maziarraissi/Applied-Deep-Learning) ([Videos](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4))
 - [Pay Attention to MLPs (2021)](https://arxiv.org/abs/2105.08050) ([Tweet](https://twitter.com/Hanxiao_6/status/1394742841033641985))
+- [E(n) Equivariant Normalizing Flows for Molecule Generation in 3D (2021)](https://arxiv.org/abs/2105.09016) ([Tweet](https://twitter.com/wellingmax/status/1395281027824857088))

@@ -15,3 +15,4 @@
 - [HN: Lithium battery costs have fallen by 98% in three decades (2021)](https://news.ycombinator.com/item?id=26682097)
 - [Gravity batteries try to beat chemical ones with winches, weights, mine shafts (2021)](https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-chemical-cousins-winches-weights-and-mine-shafts) ([HN](https://news.ycombinator.com/item?id=26922544))
 - [Europe will beat China on batteries (2021)](https://bigthink.com/strange-maps/gigafactories-in-europe)
+- [What happens to all the dead electric-car batteries? (2021)](https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries) ([HN](https://news.ycombinator.com/item?id=27232178))

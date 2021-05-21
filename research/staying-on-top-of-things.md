@@ -79,6 +79,7 @@ And these Discord servers:
 - [QMK](https://discord.gg/mthbPUc)
 - [Godot Engine](https://discord.gg/ZXJERxu)
 - [r/Apple](https://discordapp.com/invite/apple)
+- [Shipping Friday](https://discord.com/invite/v3F698dn)
 
 ## Publications
 
@@ -141,6 +142,7 @@ And these Discord servers:
 - [The Markup](https://themarkup.org/)
 - [3 Quarks Daily](https://3quarksdaily.com/) - Science Arts Philosophy Politics Literature.
 - [C-Heads Magazine](https://www.c-heads.com/) - Magazine for photography, fashion, music & youth culture.
+- [Palladium Magazine](https://palladiummag.com/)
 
 ### Other
 

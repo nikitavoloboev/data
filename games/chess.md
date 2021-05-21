@@ -94,3 +94,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Gotham Chess](https://www.gotham-chess.com/) ([YouTube](https://www.youtube.com/channel/UCQHX6ViZmPsWiYSFAyS0a3Q))
 - [Magnus Carlsen's Challenger: Ian Nepomniachtchi (2021)](https://www.youtube.com/watch?v=ba7Q0ZOnUkg)
 - [Want To Crush The London System?](https://www.youtube.com/watch?v=Nc8rzTIfFCw)
+- [10 Positions Chess Engines Just Don't Understand (2021)](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)

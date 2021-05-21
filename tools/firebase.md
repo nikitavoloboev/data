@@ -25,3 +25,4 @@
 - [Firebase storage lite](https://github.com/samuelgozi/firebase-storage-lite) - Lightweight and performant alternative to Firebase storage. JS library for modern browsers.
 - [Firetable](https://github.com/AntlerVC/firetable) - Excel/Google Sheets like UI for Firebase/Firestore. No more admin portals.
 - [Firebase | Q&A (2021)](https://www.youtube.com/watch?v=3BMNzY_ljSw)
+- [Firebase Extensions](https://firebase.google.com/products/extensions) - Pre-packaged solutions that save you time.

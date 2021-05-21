@@ -128,3 +128,5 @@
 - [Who has the fastest F1 website in 2021?](https://jakearchibald.com/2021/f1-perf-part-1/)
 - [Fixing a slow site iteratively (2021)](https://css-tricks.com/fixing-a-slow-site-iteratively/)
 - [10 things I learned making the fastest site in the world (2016)](https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+- [Improving performance at scale (2021)](https://www.notion.so/Improving-performance-at-scale-432a23dc5607416cafb5f82360e5f157)
+- [Google I/O AMA: Web runtime performance (2021)](https://events.google.com/io/session/fa14e5ee-a3e2-408c-b0fc-6a8f427411d5?lng=en)

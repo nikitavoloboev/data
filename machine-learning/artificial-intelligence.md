@@ -76,3 +76,4 @@
 - [The Coming AI Hackers (2021)](https://www.belfercenter.org/publication/coming-ai-hackers)
 - [Silicon Valley AI Lab](https://svail.github.io/)
 - [Facebook AI Research](https://ai.facebook.com/)
+- [MUM: A new AI milestone for understanding information (2021)](https://blog.google/products/search/introducing-mum/)

@@ -130,3 +130,4 @@
 - [List of Generative Art Resources](https://github.com/Ram-N/generative_art/blob/main/docs/resources.md)
 - [Experiments in Generative Art](https://github.com/Ram-N/generative_art) - Using Python, Processing, and P5.js.
 - [Trassel](https://lab.hakim.se/trassel/)
+- [PINTR](https://javier.xyz/pintr/) - Create single line SVG illustrations from your pictures. ([Code](https://github.com/javierbyte/pintr))

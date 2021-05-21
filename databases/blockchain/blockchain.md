@@ -146,3 +146,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [The Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) - World’s first blockchain that runs at web speed and can increase its capacity without bound.
 - [Dan Guido - What the hell are the blockchain people doing & why isn't it a dumpster fire? (2021)](https://www.youtube.com/watch?v=wT-AmR7wtI8)
 - [DecentLand](https://decent.land/#home) - Land of DAOs.
+- [Blockwatch Data](https://blockwatch.cc/) - Blockchain Data Provider. ([GitHub](https://github.com/blockwatch-cc))

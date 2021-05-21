@@ -43,3 +43,6 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [OpenMinter](https://github.com/tqtezos/minter) - dApp framework for enabling the creation and collection of non-fungible tokens (NFTs) on Tezos.
 - [Faster finality with Emmy (2021)](https://blog.nomadic-labs.com/faster-finality-with-emmy.html)
 - [The Easy Guide to Solo Baking Tezos on a Raspberry Pi (2021)](https://imthemule.medium.com/the-easy-guide-to-solo-baking-tezos-on-a-raspberry-pi-f255e48dfbf0) ([Tweet](https://twitter.com/mattdesl/status/1392585351600934913))
+- [Learn to Build a DApp in minutes on Tezos (2021)](https://forum.tezosagora.org/t/learn-to-build-a-dapp-in-minutes-on-tezos/3137)
+- [TzGo](https://github.com/blockwatch-cc/tzgo) - Go library for the Tezos blockchain. ([Article](https://blockwatch.cc/blog/introducing-tzgo-a-low-level-golang-library-for-tezos/))
+- [Tezori (T2)](https://github.com/Cryptonomic/T2) - Wallet for the Tezos blockchain based on ConseilJS.

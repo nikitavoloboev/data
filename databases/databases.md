@@ -3,7 +3,7 @@
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
-- [PlanetScale](https://www.planetscale.com/) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873))
+- [PlanetScale](https://www.planetscale.com/) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage. ([Rocksplicator - RocksDB Replication](https://github.com/pinterest/rocksplicator))
 - [TerarkDB](https://github.com/bytedance/terarkdb) - RocksDB compatible KV storage engine with better performance. ([HN](https://news.ycombinator.com/item?id=25514419))
