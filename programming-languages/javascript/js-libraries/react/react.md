@@ -233,3 +233,4 @@
 - [preact-render-to-string](https://github.com/preactjs/preact-render-to-string) - Render JSX and Preact components to an HTML string.
 - [API Design for a React Tree Table (2021)](https://www.robinwieruch.de/react-tree-list)
 - [Vite Typescript React 17 SSR](https://github.com/jonluca/vite-typescript-ssr-react) ([Web](https://blog.jonlu.ca/posts/vite))
+- [React without JSX (2021)](https://twitter.com/necolas/status/1395808225753108482)

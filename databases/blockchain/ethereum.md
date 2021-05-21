@@ -222,3 +222,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Argent](https://www.argent.xyz/) - Best Ethereum wallet for DeFi.
 - [Ethereum will use around 99.95% less energy post merge (2021)](https://blog.ethereum.org/2021/05/18/country-power-no-more/) ([HN](https://news.ycombinator.com/item?id=27194586))
 - [Justin Drake - Ethereum: Into the Ether (2021)](https://www.joincolossus.com/episodes/14242194/drake-ethereum-into-the-ether?tab=blocks)
+- [Rainbow](https://rainbow.me/) - Explore the new world of Ethereum.
