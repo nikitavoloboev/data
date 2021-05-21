@@ -20,3 +20,4 @@
 - [Aardvark](https://github.com/aardvarkxr/aardvark) - Framework for building augmented reality "gadgets" that run on top of virtual reality experiences.
 - [FB Reality Labs: The Next Era of Human-Computer Interaction (2021)](https://tech.fb.com/inside-facebook-reality-labs-the-next-era-of-human-computer-interaction/)
 - [Awesome WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
+- [Streem](https://www.streem.com/) - Easy AR-powered remote video support & communication platform.

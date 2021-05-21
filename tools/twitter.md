@@ -100,3 +100,4 @@
 - [Twitter Spaces, a few weeks in (2021)](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
 - [BrandBird](https://www.brandbird.app/) - Brand Your Twitter Visual Content.
 - [Twitter Clone](https://github.com/HotPotatoC/twitter-clone) - Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis.
+- [TwitterStream](https://github.com/Fallenstedt/twitter-stream) - Stream Tweets With Twitter's v2 Streaming API using Go.

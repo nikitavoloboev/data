@@ -108,3 +108,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Remote-first companies that actively hire](https://www.remotecompany.com/blog/remote-first-companies-list) ([HN](https://news.ycombinator.com/item?id=27097069))
 - [Six Things I Wish Someone Told Me About Getting a Promotion](https://radhika.dev/mid/) ([HN](https://news.ycombinator.com/item?id=27140505))
 - [Relocate.me](https://relocate.me/) - Find Developer Jobs, IT Jobs Abroad.
+- [Three Steps I Took to Get a Job Offer From Amazon (2021)](https://fallenstedt.com/blog/how-to-succeed-at-interviews/)

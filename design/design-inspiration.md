@@ -302,6 +302,7 @@ Here are few more things I liked, design wise.
 - [John Quach](https://jonquach.com/) ([Code](https://github.com/itsjonq/jonquach))
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Jendrik Poloczek](https://madewithtea.com/)
+- [Alex Fallenstedt](https://fallenstedt.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Timmy O'Mahony](https://timmyomahony.com/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))

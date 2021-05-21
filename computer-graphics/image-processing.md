@@ -96,3 +96,4 @@
 - [Content-aware image resizing in JavaScript (2021)](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/) ([HN](https://news.ycombinator.com/item?id=26839692))
 - [Cloudflare Images](https://blog.cloudflare.com/announcing-cloudflare-images-beta/) ([HN](https://news.ycombinator.com/item?id=26877335))
 - [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Creates ID mattes automatically with support for motion blur, transparency, and depth of field.
+- [Using Rust and WebAssembly to Process Pixels from a Video Feed (2020)](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg) ([Code](https://github.com/Fallenstedt/webassembly-pixel-processing))

@@ -164,3 +164,4 @@
 - [Hit the Ground Running: Wasm Snapshots for Fast Start Up (2021)](https://fitzgeraldnick.com/2021/05/10/wasm-summit-2021.html)
 - [wasmCloud](https://github.com/wasmCloud/wasmCloud) - Universal host runtime for actors built with WebAssembly and capability providers. ([Web](https://wasmcloud.dev/))
 - [WebContainer Core](https://github.com/stackblitz/webcontainer-core)
+- [Rust WebAssembly React Template](https://github.com/Fallenstedt/wasm-react-webpack-template)

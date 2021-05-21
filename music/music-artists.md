@@ -195,6 +195,10 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [David West](https://open.spotify.com/artist/3kTQiUxeIBkaXlOug0xXXX?si=NEZtW9b5ThWXmGcyZefcKA) - [Alberto Balsam](https://open.spotify.com/track/18a4YelwwkDXV9y2oPlusJ)
 - [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) - [Little Numbers Live](https://www.youtube.com/watch?v=IEng60LouQo)
 
+## Nice lyrics
+
+- [Christina Perri - Jar of Hearts](https://www.youtube.com/watch?app=desktop&v=dz7BGlgb5Do)
+
 ## Live
 
 - [Ólafur Arnalds - A Sunrise Session with JFDR (some kind of peace)](https://www.youtube.com/watch?v=KrQV8nTCwqg)

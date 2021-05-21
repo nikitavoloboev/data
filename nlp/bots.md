@@ -16,3 +16,4 @@
 - [OpenChat](https://github.com/hyunwoongko/openchat) - Easy to use opensource chatting framework via neural networks.
 - [CSML (Conversational Standard Meta Language)](https://github.com/CSML-by-Clevy/csml-engine) - Domain-Specific Language designed for easily creating conversational experiences. ([Web](https://www.csml.dev/)) ([GitHub](https://github.com/CSML-by-Clevy))
 - [Chatty Goose](https://github.com/castorini/chatty-goose) - Python framework for conversational search.
+- [AWS Lex + AWS Lambda Example](https://github.com/Fallenstedt/aws-lex-lambda-example) - End goal is to communicate with an AWS Lex chatbot using HTTP.

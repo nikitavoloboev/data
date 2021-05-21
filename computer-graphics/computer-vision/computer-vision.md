@@ -300,3 +300,4 @@
 - [Omnimatte: Associating Objects and Their Effects in Video (2021)](https://omnimatte.github.io/)
 - [Rethinking "Batch" in BatchNorm (2021)](https://arxiv.org/abs/2105.07576)
 - [Most popular metrics used to evaluate object detection algorithms](https://github.com/rafaelpadilla/Object-Detection-Metrics)
+- [UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation (2020)](https://arxiv.org/abs/2002.06353) ([Code](https://github.com/microsoft/UniVL))
