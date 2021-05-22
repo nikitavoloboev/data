@@ -50,3 +50,4 @@
 - [Lawfare](https://www.lawfareblog.com/) - American blog dedicated to national security issues.
 - [Global Trends 2040: US Intelligence report](https://www.dni.gov/files/ODNI/documents/assessments/GlobalTrends_2040.pdf)
 - [Field notes: Miami (2021)](https://devonzuegel.com/post/field-notes-miami) ([Tweet](https://twitter.com/zebulgar/status/1384986967218216962))
+- [Jonathan Haidt: The Coddling of the American Mind (2019)](https://www.youtube.com/watch?v=3b3Ob4CK4Xs)

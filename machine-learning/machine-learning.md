@@ -473,3 +473,4 @@
 - [Fast and Slow Learning of Recurrent Independent Mechanisms (2021)](https://arxiv.org/abs/2105.08710) ([Tweet](https://twitter.com/anirudhg9119/status/1395889099102380032))
 - [Find Trending Machine Learning Research Papers on Twitter](https://papers.labml.ai/papers/daily)
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/Jannoshh/simple-sam))
+- [Apple - Making Mobile Applications Accessible with Machine Learning (2021)](https://machinelearning.apple.com/research/mobile-applications-accessible)
