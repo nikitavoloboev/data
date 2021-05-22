@@ -98,4 +98,4 @@
 - [HelloElixir](https://github.com/fly-apps/hello_elixir-dockerfile) - Example for building and deploying an Elixir application to Fly using a Dockerfile.
 - [Efficiently querying data in batches using Absinthe (2021)](https://sevenseacat.net/posts/2021/querying-batches-with-absinthe/)
 - [Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir? (2021)](https://news.ycombinator.com/item?id=27192873)
-- [Metaprogramming in Elixir (2021)](https://serokell.io/blog/elixir-metaprogramming)
+- [Metaprogramming in Elixir (2021)](https://serokell.io/blog/elixir-metaprogramming) ([HN](https://news.ycombinator.com/item?id=27231926))

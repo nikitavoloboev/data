@@ -146,3 +146,4 @@
 - [Film simulations from scratch using Python (2021)](https://kevinmartinjose.com/2021/04/27/film-simulations-from-scratch-using-python/)
 - [Computer Graphics Papers Parody](https://twitter.com/BrunoLevy01/status/1388421597413974016)
 - [Sharper Mipmapping using Shader Based Supersampling (2019)](https://bgolus.medium.com/sharper-mipmapping-using-shader-based-supersampling-ed7aadb47bec)
+- [Graphics Pipelines for Young Bloods (2021)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/) ([HN](https://news.ycombinator.com/item?id=27232516))

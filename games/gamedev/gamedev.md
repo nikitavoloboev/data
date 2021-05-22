@@ -26,6 +26,7 @@
 - [Snowman](https://www.builtbysnowman.com/) - Small studio handcrafting big ideas.
 - [Relic Entertainment](https://www.relic.com/)
 - [Ninja Theory](https://www.ninjatheory.com/)
+- [Paradox Interactive](https://www.paradoxplaza.com/)
 
 ## Devs
 
