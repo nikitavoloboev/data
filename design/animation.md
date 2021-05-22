@@ -43,3 +43,4 @@
 - [How to Create Mathematical Animations like 3Blue1Brown Using Python (2021)](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
 - [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
 - [Motion Representations for Articulated Animation (2021)](https://arxiv.org/abs/2104.11280) ([Code](https://github.com/snap-research/articulated-animation))
+- [GKIDS Films](https://gkids.com/) - Distributor of remarkable international animations.

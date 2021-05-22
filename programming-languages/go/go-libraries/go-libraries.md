@@ -811,6 +811,7 @@
 - [OSIN](https://github.com/openshift/osin) - Go OAuth2 server library.
 - [sroar](https://github.com/dgraph-io/sroar) - Serialized Roaring Bitmaps.
 - [csvtk](https://github.com/shenwei356/csvtk) - Cross-platform, efficient and practical CSV/TSV toolkit in Go.
+- [Go Debug](https://github.com/golang/debug) - Utilities and libraries for debugging Go programs.
 
 ## Links
 

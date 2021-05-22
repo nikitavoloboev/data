@@ -5,6 +5,7 @@
 - [South Philippine Dwarf Kingfisher](https://twitter.com/StrangeFactoid/status/1326766923703586822)
 - [Starling](https://twitter.com/SketchesbyBoze/status/1366937615723864066)
 - [Rose Finch](https://twitter.com/Iconawrites/status/1384958351294046208)
+- [Tree swallow](https://twitter.com/GlenGrambo/status/1395550872680153089)
 
 ## Links
 

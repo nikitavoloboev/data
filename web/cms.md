@@ -14,7 +14,7 @@
 - [Spina CMS](https://github.com/SpinaCMS/Spina) - Easy to use CMS that features a clean interface without distractions.
 - [Contentful](https://www.contentful.com/) - API-first content platform to build digital experiences.
 - [Build and Deploy a Next.js Blog with Cosmic and Vercel (2020)](https://vercel.com/guides/deploying-next-and-cosmic-with-vercel)
-- [KeystoneJS](https://github.com/keystonejs/keystone) - Scalable platform and CMS to build Node.js applications. ([Web](https://www.keystonejs.com/)) ([Keystone + Prisma](https://www.keystonejs.com/blog/prisma-adapter))
+- [KeystoneJS](https://github.com/keystonejs/keystone) - Scalable platform and CMS to build Node.js applications. ([Web](https://www.keystonejs.com/)) ([Keystone + Prisma](https://www.keystonejs.com/blog/prisma-adapter)) ([Keystone Next](https://next.keystonejs.com/))
 - [Grav](https://getgrav.org/) - Modern Flat-File CMS.
 - [Caasy](https://caasy.io/) - Headless CMS with a focus on efficient collaboration and maximum flexibility.
 - [Best CMS with nice PR based workflows (2020)](https://twitter.com/rauchg/status/1323053624688173056)
@@ -24,3 +24,4 @@
 - [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))
 - [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms))
 - [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack.
+- [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS.

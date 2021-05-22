@@ -59,3 +59,4 @@ Here are tools I use for streaming:
 - [Nobody.live](https://nobody.live/) - Lonely streams and streamers with zero viewers. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/mpv2o4/nobodylive_website_for_finding_twitch_streamers/))
 - [Chatterino 2](https://github.com/Chatterino/chatterino2) - Chat client for Twitch.
 - [Illegal streams, decrypting m3u8’s, and building a better stream experience (2018)](https://blog.jonlu.ca/posts/illegal-streams)
+- [2021 Streaming Kit](https://ma.tt/2021/05/2021-streaming-kit/)

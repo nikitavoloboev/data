@@ -22,3 +22,6 @@
 - [Awesome WebAR](https://github.com/tobiasbueschel/awesome-WebAR)
 - [Streem](https://www.streem.com/) - Easy AR-powered remote video support & communication platform.
 - [Snap Partner Summit](https://snappartnersummit.com/)
+- [Occipital](https://occipital.com/) - Makes Structure Sensor, Structure SDK, Structure Core, Bridge Engine, and 360 Panorama.
+- [Canvas](https://canvas.io/) - Blazing-Fast Mobile 3D Capture.
+- [Structure Sensor](https://structure.io/) - 3D scanning, augmented reality, and more for mobile devices.

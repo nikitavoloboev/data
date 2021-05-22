@@ -30,3 +30,5 @@
 - [GLTFKit](https://github.com/warrenm/GLTFKit) - Objective-C glTF 2.0 loader and Metal-based renderer.
 - [MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess) - High-Performance video effects processing framework. It's base on GPUImage3 Metal, support asynchronous and multithread processing.
 - [vger](https://github.com/audulus/vger) - 2D GPU renderer for dynamic UIs.
+- [Metal Render Pipeline (2021)](http://ioloro.com/2021/02/12/metal-render-pipeline.html)
+- [Metal/MetalKit Glossary (2021)](http://ioloro.com/2021/01/18/metalmetalkit-glossary.html)

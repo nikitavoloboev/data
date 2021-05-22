@@ -57,3 +57,4 @@
 - [Architecture All Access: Modern FPGA Architecture (2021)](https://www.youtube.com/watch?v=EVy4KEj9kZg)
 - [Lessons learned while building an ASIC design (2021)](https://zipcpu.com/blog/2021/03/06/asic-lsns.html)
 - [Graphics Gremlin](https://github.com/schlae/graphics-gremlin) - FPGA-based ISA video card specifically designed to emulate certain old video standards.
+- [HRT](https://github.com/gatecat/hrt) - Proof-of-concept of loading a modified FPGA design without losing state, using the partial reconfiguration-like features of the ECP5.

@@ -67,6 +67,7 @@
 - [The brain ‘rotates’ memories to save them from new sensations (2021)](https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/) ([HN](https://news.ycombinator.com/item?id=26830105))
 - [Anatomy of hierarchy: Feedforward and feedback pathways in macaque visual cortex](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4255240/) ([Tweet](https://twitter.com/patrickmineault/status/1385068971112681475))
 - [The human brain builds structures in 11 dimensions (2017)](https://bigthink.com/paul-ratner/our-brains-think-in-11-dimensions-discover-scientists)
+- [Neurons Act Not As Complex, Multi-Unit Processing Systems (2020)](https://www.resonancescience.org/blog/Neurons-Act-Not-As-Simple-Logic-Gates-But-As-Complex-Multi-Unit-Processing-Systems) ([Tweet](https://twitter.com/IntuitMachine/status/1395564948751802368))
 
 ## Images
 

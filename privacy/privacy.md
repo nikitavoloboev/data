@@ -87,3 +87,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Blacklight](https://themarkup.org/blacklight) - Real-Time Website Privacy Inspector.
 - [Data Leverage Roundup](https://github.com/nickmvincent/DataLeverageRoundup)
 - [FBPCS (Facebook Private Computation Service)](https://github.com/facebookresearch/FBPCS)
+- [Phantom Analyzer](https://usephantom.com/) - Simple, real-time website scanner to see trackers that collect info about you.

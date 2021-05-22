@@ -97,3 +97,4 @@
 - [Cloudflare Images](https://blog.cloudflare.com/announcing-cloudflare-images-beta/) ([HN](https://news.ycombinator.com/item?id=26877335))
 - [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Creates ID mattes automatically with support for motion blur, transparency, and depth of field.
 - [Using Rust and WebAssembly to Process Pixels from a Video Feed (2020)](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg) ([Code](https://github.com/Fallenstedt/webassembly-pixel-processing))
+- [dask-image](https://github.com/dask/dask-image) - Distributed image processing.

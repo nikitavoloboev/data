@@ -45,6 +45,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [I need a person who can respectfully tell me exactly what they have a problem with and what they want. So then we can have an adult conversation to either fix it or understand we're not compatible.](https://www.reddit.com/r/datingoverthirty/comments/nd616p/dae_notice_a_datepartner_criticizing_instead_of/)
 - [Trying to get your needs met without being vulnerable leads to abuse.](https://www.reddit.com/r/datingoverthirty/comments/nd616p/dae_notice_a_datepartner_criticizing_instead_of/)
 - [People aren't trying to cultivate a monogamous lifelong relationship—some people stumble into it, but generally on the surface contemporary dating is "let's see what happens" with a lot of underlying anxiety/confusion/ambivalence that ruins things.](https://twitter.com/mtbtws/status/1394788213361872897)
+- [Don't create stories in your mind about him/her without ever knowing if this he/she is worthy of your swooning. Best thing is focus that energy on someone who is going to return the effort.](https://www.reddit.com/r/datingoverthirty/comments/nhhvzd/how_do_you_get_over_someone_you_cant_have_and/)
 
 ## Links
 
