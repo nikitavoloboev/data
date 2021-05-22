@@ -237,6 +237,7 @@ Here are few more things I liked, design wise.
 - [Bytes.Zone](https://bytes.zone/)
 - [Jack McDade](https://jackmcdade.com/)
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
+- [Miguel Solorio](https://www.miguelsolorio.com/)
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
 - [Will Boyd](https://codersblock.com/)
 - [Fabian Fett](https://fabianfett.de/)
