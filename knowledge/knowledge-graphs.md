@@ -74,3 +74,4 @@
 - [Knowledge Graphs with Inductive Logic Programming (2021)](https://blogs.sap.com/2021/05/06/knowledge-graphs-with-inductive-logic-programming-on-cml21/)
 - [Knowledge Graphs ICLR 2021: Your guide to KG-related research in ML](https://mgalkin.medium.com/knowledge-graphs-iclr-2021-6e0b52c80686)
 - [KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora (2021)](https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html) ([HN](https://news.ycombinator.com/item?id=27233470))
+- [An Introduction to Knowledge Graphs (2021)](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)

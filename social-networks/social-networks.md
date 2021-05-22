@@ -112,3 +112,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [The Anxiety of Influencers (2021)](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/) - Educating the TikTok generation.
 - [Genies](https://genies.com/) - Custom 3D Avatars For Consumers and Celebrities.
 - [Tiktok, Emergent Creativity, The Limits of Social Graphs (2021)](https://www.youtube.com/watch?v=xbnDay35L8I)
+- [Inside the Bubble at Facebook](https://www.nemil.com/tdf/part1-employees.html)
