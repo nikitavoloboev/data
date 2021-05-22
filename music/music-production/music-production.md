@@ -81,6 +81,7 @@
 - [OpenMusic](https://github.com/openmusic-project/openmusic) - Visual programming language based on Lisp.
 - [Scribbletune](https://scribbletune.com/) - Create music with JavaScript. ([Code](https://github.com/scribbletune/scribbletune))
 - [auditok](https://github.com/amsehili/auditok) - Audio/acoustic activity detection and audio segmentation tool.
+- [‎Flip Sampler](https://apps.apple.com/us/app/flip-make-music-everywhere/id1486629619#?platform=iphone)
 
 ## Inspiration
 

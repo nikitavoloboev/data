@@ -34,3 +34,4 @@
 - [Is SOL the smart contract chain to beat? (2021)](https://www.youtube.com/watch?v=TS2mSjvE3Ok)
 - [Intro to the Solana Programming Model - Technical Workshop (2021)](https://www.youtube.com/watch?v=7Iitv5tMOMY)
 - [Hello world on Solana](https://github.com/solana-labs/example-helloworld)
+- [Pyth Workshop (2021)](https://www.youtube.com/watch?v=LjGXaMSPYDM)
