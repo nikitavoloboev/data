@@ -49,3 +49,4 @@
 - [Sequencing your DNA with a USB dongle and open source code (2021)](https://stackoverflow.blog/2021/02/03/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) ([HN](https://news.ycombinator.com/item?id=26014421))
 - [DNA Repair Mechanisms (2020)](https://www.youtube.com/watch?v=oRfK85gPAVA)
 - [Could DNA have a form of primitive "password protection"? (2021)](https://www.reddit.com/r/askscience/comments/n542n1/could_dna_have_a_form_of_primitive_password/)
+- [DNA Features Viewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer) - Python library to visualize DNA features, e.g. from GenBank or Gff files, or Biopython SeqRecords.

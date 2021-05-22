@@ -63,3 +63,4 @@
 - [An on-off switch for gene editing (2021)](https://news.mit.edu/2021/switch-crispr-gene-editing-0414)
 - [Scientists Catch Jumping Genes Rewiring Genomes (2021)](https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/) ([HN](https://news.ycombinator.com/item?id=27140443))
 - [regenie](https://github.com/rgcgithub/regenie) - C++ program for whole genome regression modelling of large genome-wide association studies.
+- [Edinburgh Genome Foundry](https://edinburgh-genome-foundry.github.io/) ([GitHub](https://github.com/Edinburgh-Genome-Foundry))
