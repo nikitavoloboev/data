@@ -120,3 +120,4 @@
 - [Cryptography and how to deal with man-in-the-middle attacks in JavaScript](https://blog.sessionstack.com/how-javascript-works-cryptography-how-to-deal-with-man-in-the-middle-mitm-attacks-bf8fc6be546c) ([HN](https://news.ycombinator.com/item?id=26979300))
 - [RELIC](https://github.com/relic-toolkit/relic) - Modern cryptographic meta-toolkit with emphasis on efficiency and flexibility.
 - [Arbitrary Code Execution in the Universal Turing Machine (2021)](https://arxiv.org/abs/2105.02124) ([HN](https://news.ycombinator.com/item?id=27104125))
+- [CrySyS Lab](https://www.crysys.hu/) - Laboratory of Cryptography and System Security.

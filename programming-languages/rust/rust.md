@@ -480,3 +480,4 @@
 - [Debugging rust application inside Linux container (2021)](https://blog.erebe.dev/blog/debug-rust-aplication-inside-container/index.html)
 - [Naming Your Lifetimes (2021)](https://www.possiblerust.com/pattern/naming-your-lifetimes)
 - [Rust Web Development (2021)](https://www.manning.com/books/rust-web-development) ([Reddit](https://www.reddit.com/r/rust/comments/nhu9h9/the_rust_web_development_book_is_now_in_meap/))
+- [Rust books you read and liked? (2021)](https://www.reddit.com/r/rust/comments/ni8kw3/what_other_rust_books_besides_the_book_have_you/)

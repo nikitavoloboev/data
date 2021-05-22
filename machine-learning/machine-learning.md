@@ -471,3 +471,4 @@
 - [Pay Attention to MLPs (2021)](https://arxiv.org/abs/2105.08050) ([Tweet](https://twitter.com/Hanxiao_6/status/1394742841033641985))
 - [E(n) Equivariant Normalizing Flows for Molecule Generation in 3D (2021)](https://arxiv.org/abs/2105.09016) ([Tweet](https://twitter.com/wellingmax/status/1395281027824857088))
 - [Fast and Slow Learning of Recurrent Independent Mechanisms (2021)](https://arxiv.org/abs/2105.08710) ([Tweet](https://twitter.com/anirudhg9119/status/1395889099102380032))
+- [Find Trending Machine Learning Research Papers on Twitter](https://papers.labml.ai/papers/daily)
