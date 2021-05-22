@@ -142,6 +142,7 @@
 - [InfluxDB IOx](https://github.com/influxdata/influxdb_iox) - Future core of InfluxDB, an open source time series database.
 - [EliasDB](https://github.com/krotik/eliasdb) - Graph-based database.
 - [Resql](https://github.com/tezc/resql) - SQL database server that uses SQLite as its SQL engine and it provides replication and automatic failover capabilities.
+- [Tarantool](https://www.tarantool.io/en/) - In-memory computing platform. ([Go client](https://github.com/FZambia/tarantool))
 
 ## Tools
 

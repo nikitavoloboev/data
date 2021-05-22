@@ -142,7 +142,7 @@
 - [Apptension](https://apptension.com/)
 - [Abstract Machines](https://abstractmachines.dev/) - Short contracts, code reviews, and coaching in the fields of web, data, and knowledge engineering.
 - [Futured](https://www.futured.app/en/) - Mobile business builders.
-- [Metosin](https://www.metosin.fi/en/)
+- [Metosin](https://www.metosin.fi/en/) ([GitHub](https://github.com/metosin))
 - [Elements](https://www.elements.nl/en) - Specialist for Digital Design & Development.
 - [HYPE4](https://hype4.com/) - Web and mobile / design and development.
 - [FP Complete](https://www.fpcomplete.com/) - Specialize in building Reliable, Repeatable, Scalable and Highly Secure Software.

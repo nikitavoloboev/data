@@ -11,6 +11,7 @@
 - [clj-http](https://github.com/dakrone/clj-http) - Idiomatic clojure http client wrapping the apache client.
 - [Gniazdo](https://github.com/stalefruits/gniazdo) - WebSocket client for Clojure.
 - [Oz](https://github.com/metasoarous/oz) - Data visualizations in Clojure and ClojureScript using Vega and Vega-lite.
+- [Muuntaja](https://github.com/metosin/muuntaja) - Clojure library for fast HTTP format negotiation, encoding and decoding
 
 ## DB
 

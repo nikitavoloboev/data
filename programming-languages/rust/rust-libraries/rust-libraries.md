@@ -833,6 +833,8 @@
 - [FUSE-Rust](https://github.com/cberner/fuser) - Rust library crate for easy implementation of FUSE filesystems in userspace.
 - [micromath](https://github.com/tarcieri/micromath) - Embedded Rust arithmetic, 2D/3D vector, and statistics library.
 - [Ordered Floats](https://github.com/reem/rust-ordered-float) - Provides several wrapper types for Ord and Eq implementations on f64.
+- [sorbus](https://github.com/CAD97/sorbus) - Generic "green" syntax tree implementation.
+- [Pointer Utils](https://github.com/CAD97/pointer-utils) - Collection of small utilities for working with pointer types in Rust.
 
 ## Cargo Plugins
 
