@@ -155,3 +155,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email explained from first principles](https://explained-from-first-principles.com/email/)
 - [Can I Email](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. ([Code](https://github.com/hteumeuleu/caniemail))
 - [Just Use Email](https://www.justuseemail.com/) - How to use Email for Everything. ([HN](https://news.ycombinator.com/item?id=27123389))
+- [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch))

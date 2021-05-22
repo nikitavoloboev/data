@@ -348,3 +348,4 @@
 - [“What Goes Around Comes Around”: A Brief History of Databases (2017)](https://15721.courses.cs.cmu.edu/spring2020/papers/01-intro/whatgoesaround-stonebraker.pdf) ([Summary](https://blog.grakn.ai/what-goes-around-comes-around-52d38ee1ea9e))
 - [How Discord Stores Billions of Messages (2017)](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 - [Experience with using NoSQL for a startup (2021)](https://twitter.com/alexbdebrie/status/1394966974443266048)
+- [Common data model mistakes made by startups](https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html) ([HN](https://news.ycombinator.com/item?id=27248093))
