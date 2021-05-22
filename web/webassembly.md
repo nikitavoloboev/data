@@ -166,3 +166,4 @@
 - [WebContainer Core](https://github.com/stackblitz/webcontainer-core)
 - [Rust WebAssembly React Template](https://github.com/Fallenstedt/wasm-react-webpack-template)
 - [Defense in depth: stopping a Wasm compiler bug before it became a problem (2021)](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)
+- [WebAssembly Tour](https://github.com/thangchung/webassembly-tour)

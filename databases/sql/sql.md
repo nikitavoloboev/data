@@ -113,3 +113,4 @@
 - [sqlbench](https://github.com/felixge/sqlbench) - Measures and compares the execution time of one or more SQL queries.
 - [Efficient SQL on Pandas with DuckDB (2021)](https://duckdb.org/2021/05/14/sql-on-pandas.html)
 - [SQL](https://github.com/nearform/sql) - SQL injection protection module.
+- [DuoRAT: Towards Simpler Text-to-SQL Models (2020)](https://arxiv.org/abs/2010.11119) ([Code](https://github.com/ElementAI/duorat))

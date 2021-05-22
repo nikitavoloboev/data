@@ -204,3 +204,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Implementing Co, a Small Interpreted Language With Coroutines #1: The Parser (2021)](https://abhinavsarkar.net/posts/implementing-co-1/)
 - [Playground for PL ideas](https://github.com/alecthomas/langx)
 - [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html) ([HN](https://news.ycombinator.com/item?id=27210008))
+- [Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers)

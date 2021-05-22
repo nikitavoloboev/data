@@ -18,3 +18,4 @@
 - [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - Synthetic data generator for text recognition.
 - [Paperless](https://github.com/jonaswinkler/paperless-ng) - Index and archive all of your scanned paper documents.
 - [Tesseract Teaser](https://www.solipsys.co.uk/new/TesseractTeaser.html)
+- [macOCR](https://github.com/schappim/macOCR) - Get any text on your screen into your clipboard.
