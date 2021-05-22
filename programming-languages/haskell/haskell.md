@@ -282,3 +282,4 @@
 - [Continued Fractions in Haskell (2021)](https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f) ([HN](https://news.ycombinator.com/item?id=26872463))
 - [Type-guided development and garden paths (2021)](https://frasertweedale.github.io/blog-fp/posts/2021-05-12-types-garden-path.html)
 - [GADTs for Dummies](https://wiki.haskell.org/GADTs_for_dummies) ([HN](https://news.ycombinator.com/item?id=27172843))
+- [Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) - Project-driven approach to practical Haskell development.

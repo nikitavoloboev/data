@@ -100,3 +100,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Beancounter](https://github.com/square/beancounter) - Utility to audit the balance of Hierarchical Deterministic (HD) wallets. Supports multisig + segwit wallets.
 - [Why Crypto Matters (and It’s a Lot More than Bitcoin) (2021)](https://raohacker.com/why-crypto-matters-and-its-a-lot-more-than-bitcoin/)
 - [Fireside Chat With Kevin Rose about Cryptocurrencies/Solana (2021)](https://www.youtube.com/watch?v=_8fDeEgUPsg)
+- [Proof-of-stake is inherently self-referential](https://github.com/stickfigure/blog/wiki/Proof-Of-Stake-Wears-No-Clothes) ([HN](https://news.ycombinator.com/item?id=27235668))
