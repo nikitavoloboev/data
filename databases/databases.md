@@ -174,6 +174,7 @@
 - [CloudBeaver](https://cloudbeaver.io/) - Database Management from Browser. ([Code](https://github.com/dbeaver/cloudbeaver))
 - [DbGate](https://dbgate.org/) - Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. ([Code](https://github.com/dbgate/dbgate))
 - [Snaplet](https://www.snaplet.dev/) - Work with your database as easily as your code.
+- [Condenser](https://github.com/TonicAI/condenser) - Database subsetting tool.
 
 ## Notes
 

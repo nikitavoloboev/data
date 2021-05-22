@@ -38,3 +38,4 @@
 - [QEMU 6.0.0](https://www.qemu.org/2021/04/30/qemu-6-0-0/) ([HN](https://news.ycombinator.com/item?id=26990957))
 - [FEX](https://github.com/FEX-Emu/FEX) - Fast x86 emulation frontend.
 - [Magia](https://github.com/pokemium/magia) - GBA emulator written in Go.
+- [CHIP-8 (and Emulators) In Plain English (2021)](https://cgmathprog.home.blog/2021/05/20/chip-8-and-emulator-overview/)
