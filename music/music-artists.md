@@ -194,6 +194,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [RSAC](https://open.spotify.com/artist/73GvUkYDMIcPNepUhyC8ic?si=4rS4LanCTVGjVHKQTqXk8A) - [Поезда (feat. ELLA)](https://open.spotify.com/track/1ti48LD5k8NTOAodLLSPXS?si=SvS1tzLPSzWtypi0rxrt4A)
 - [David West](https://open.spotify.com/artist/3kTQiUxeIBkaXlOug0xXXX?si=NEZtW9b5ThWXmGcyZefcKA) - [Alberto Balsam](https://open.spotify.com/track/18a4YelwwkDXV9y2oPlusJ)
 - [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) - [Little Numbers Live](https://www.youtube.com/watch?v=IEng60LouQo)
+- [Nevidimka](https://open.spotify.com/artist/793iuHlWU5g7wYztpuHDZP) - [Звезда](https://open.spotify.com/track/05YZVXYxyj7XRwVJCSidzQ?si=ce3278a32f204ab7)
 
 ## Nice lyrics
 

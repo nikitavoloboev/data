@@ -52,3 +52,4 @@
 - [An intro to Zig's integer casting for C programmers](https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers) ([HN](https://news.ycombinator.com/item?id=27115551))
 - [Performance Tracking for Zig](https://github.com/ziglang/gotta-go-fast)
 - [Building an efficient and portable programming language with Zig (2021)](https://www.fastly.com/blog/building-an-efficient-and-portable-programming-language-with-zig) ([Lobsters](https://lobste.rs/s/qv9fgc/building_efficient_portable))
+- [Zig Makes Rust Cross-compilation Just Work (2021)](https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/) ([HN](https://news.ycombinator.com/item?id=27245369))
