@@ -145,3 +145,4 @@
 - [Software Infrastructure 2.0: A Wishlist (2021)](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html) ([HN](https://news.ycombinator.com/item?id=26869050))
 - [Computer Architecture](https://comparch.org/) - Thoughts from Jon Masters.
 - [DataHub: Popular metadata architectures explained (2020)](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
+- [Domain Driven Design —— Can it work on Infrastructure Software Development? (2021)](https://longfangsong.github.io/2021/01/04/Domain-Driven-Design-%E2%80%94%E2%80%94-Can-it-work-on-Infrastructure-Software-Development/)

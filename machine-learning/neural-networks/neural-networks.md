@@ -228,3 +228,4 @@
 - [Understanding Positional Encoding in Transformers (2021)](https://erdem.pl/2021/05/understanding-positional-encoding-in-transformers)
 - [Measuring XAI methods with Infidelity and Sensitivity (2021)](https://erdem.pl/2021/03/measuring-xai-methods-with-infidelity-and-sensitivity)
 - [Quasi-Recurrent Neural Networks (2016)](https://arxiv.org/abs/1611.01576) ([Code](https://github.com/salesforce/pytorch-qrnn))
+- [deepdream.c](https://github.com/znah/deepdream_c) - Experiment trying to implement Convolutional Neural Network inference and back-propagation using a minimal subset of C89 language and standard library features.

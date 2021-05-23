@@ -523,6 +523,7 @@
 - [buffer](https://github.com/feross/buffer) - Buffer module from node.js, for the browser.
 - [pixi-graph](https://github.com/zakjan/pixi-graph) - Graph visualization library using PIXI.js and Graphology.
 - [xache](https://github.com/mafintosh/xache) - Auto expiring, max sizable cache.
+- [ndarray](https://github.com/scijs/ndarray) - Modular multidimensional arrays for JavaScript.
 
 ## Links
 

@@ -66,3 +66,4 @@
 - [There’s no such thing as a tree (phylogenetically) (2021)](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/)
 - [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/videos) ([Twitter](https://twitter.com/journeytomicro))
 - [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology)
+- [Computationally Designed Organisms With Josh Bongard & Michael Levin (2021)](https://www.youtube.com/watch?v=86krKgoEzGQ)

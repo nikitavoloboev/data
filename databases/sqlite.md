@@ -75,3 +75,4 @@
 - [wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with experimental support for browser storage extensions.
 - [Sqliteviz](https://github.com/lana-k/sqliteviz) - Single-page offline-first PWA for fully client-side visualization of SQLite databases or CSV. ([HN](https://news.ycombinator.com/item?id=27165192))
 - [SQLite in production with WAL (2020)](https://victoria.dev/blog/sqlite-in-production-with-wal/) ([HN](https://news.ycombinator.com/item?id=27237919))
+- [Deno SQLite Module](https://github.com/dyedgreen/deno-sqlite)

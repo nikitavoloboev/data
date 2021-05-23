@@ -253,3 +253,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Clean Git House (2021)](https://write.rog.gr/dress-code/clean-git-house.html) - Guide about deleting branches in Git.
 - [repostatus.org](https://www.repostatus.org/) - Standard to easily communicate to humans and machines the development/support and usability status of software repositories/projects. ([Code](https://github.com/jantman/repostatus.org))
 - [Undercover](https://github.com/a7ul/undercover) - Store your environment variables and secrets in git safely.
+- [gitgo](https://github.com/ChimeraCoder/gitgo) - Provides Go functions for interacting with Git repositories.
