@@ -253,6 +253,7 @@ Here are few more things I liked, design wise.
 - [Andrew Chou](https://andrew.nonetoohappy.buzz/) ([Code](https://github.com/achou11/andrew-chou))
 - [Rakhim](https://rakhim.org/)
 - [Peter Beshai](https://peterbeshai.com/)
+- [Karina Nguyen](https://www.karinanguyen.co/)
 - [Max Woolf](https://minimaxir.com/)
 - [Jason Webb](https://jasonwebb.io/)
 - [Chris Penner](https://chrispenner.ca/)

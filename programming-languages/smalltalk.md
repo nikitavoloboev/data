@@ -28,7 +28,7 @@
 - [Squeak/Smalltalk Website code](https://github.com/squeak-smalltalk/squeak.org)
 - [Domains](https://github.com/len/Domains) - Computational algebra system in Smalltalk.
 - [The Smalltalk Zoo (2020)](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/) ([Web](https://smalltalkzoo.thechm.org/)) ([HN](https://news.ycombinator.com/item?id=25461760)) ([HN 2](https://news.ycombinator.com/item?id=25754311))
-- [SOM (Simple Object Machine)](https://github.com/rochus-keller/Som) - Smalltalk dialect which is file-based and independent of the Bluebook bytecode and interpreter. ([Web](http://som-st.github.io/))
+- [SOM (Simple Object Machine)](https://github.com/rochus-keller/Som) - Smalltalk dialect which is file-based and independent of the Bluebook bytecode and interpreter. ([Web](http://som-st.github.io/)) ([Fork](https://github.com/SOM-st/SOM))
 - [ohm-som](https://github.com/pdubroy/ohm-som) - JavaScript implementation of SOM, a minimal Smalltalk for teaching and research.
 - [Dr.Geo](http://www.drgeo.eu/) - Interactive Geometry in Smalltalk.
 - [Experiencing Smalltalk (2021)](https://nikhilism.com/post/2021/experiencing-smalltalk/) ([Lobsters](https://lobste.rs/s/wgnazl/experiencing_smalltalk))
