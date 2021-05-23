@@ -142,3 +142,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Когда исчезнет путин](https://twitter.com/garaevruslan02/status/1394326462795288580)
 - [В заброшенных деревнях (2021)](https://tjournal.ru/stories/383825-v-zabroshennyh-derevnyah)
 - [TJ](https://tjournal.ru/) - Новости интернета.
+- [Baza.io](https://baza.io/) - Новости/правда/эмоции.

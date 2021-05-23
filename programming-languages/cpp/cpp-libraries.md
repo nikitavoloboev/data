@@ -202,6 +202,7 @@
 - [SON-RPC-CXX](https://github.com/jsonrpcx/json-rpc-cxx) - JSON-RPC for modern C++.
 - [PTHash](https://github.com/jermp/pthash) - Fast and compact minimal perfect hash functions in C++.
 - [Zadeh](https://github.com/atom-community/zadeh) - Blazing fast library for fuzzy filtering, matching, and other fuzzy things.
+- [Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. ([HN](https://news.ycombinator.com/item?id=27256686))
 
 ## Links
 

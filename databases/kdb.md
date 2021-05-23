@@ -22,3 +22,4 @@
 - [Fun Q: A Functional Introduction to Machine Learning in Q](https://github.com/psaris/funq)
 - [Shakti code](https://shakti.sh/) - Universal database, web server and language.
 - [Developing with kdb+ and the q language](https://code.kx.com/q/)
+- [Why is K so performant? (2021)](https://www.reddit.com/r/apljk/comments/njcpml/why_is_k_so_performant/)

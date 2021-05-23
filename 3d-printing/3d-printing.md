@@ -24,3 +24,4 @@
 - [A house 3D printed from raw earth](https://www.itsnicethat.com/news/tecla-house-mario-cucinella-wasp-architecture-270421) ([HN](https://news.ycombinator.com/item?id=26954712))
 - [MyMiniFactory](https://www.myminifactory.com/) - Discover STL files for 3D printing ideas and high-quality 3D printer models.
 - [How I set up my 3D Printer](https://github.com/geerlingguy/3d-printing)
+- [Rapid Prototyping with a $100 Inkjet Printer (2021)](https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3) ([HN](https://news.ycombinator.com/item?id=27254480))

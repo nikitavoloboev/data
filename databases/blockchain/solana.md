@@ -36,4 +36,5 @@
 - [Hello world on Solana](https://github.com/solana-labs/example-helloworld)
 - [Pyth Workshop (2021)](https://www.youtube.com/watch?v=LjGXaMSPYDM)
 - [Programming Solana Smart Contracts | Hello World Anchor Tutorial (2021)](https://www.youtube.com/watch?v=oD1umX_DnUw)
+- [Programming Solana Smart Contracts | Intermediate Anchor Tutorial (2021)](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
 - [Solana Questions (2021)](https://twitter.com/baalazamon/status/1396486458324701189)
