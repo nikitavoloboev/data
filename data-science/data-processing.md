@@ -44,3 +44,4 @@
 - [Flyte](https://github.com/flyteorg/flyte) - Structured programming and distributed processing platform that enables highly concurrent, scalable and maintainable workflows for Machine Learning and Data Processing. ([Web](https://flyte.org/))
 - [Winterfell](https://github.com/novifinancial/winterfell) - Distributed STARK prover.
 - [Python to Distributed Python to Airflow task in ~5 lines of code](https://www.astronomer.io/blog/airflow-ray-data-science-story)
+- [DataFusion](https://github.com/apache/arrow-datafusion) - Extensible query execution framework, written in Rust, that uses Apache Arrow as its in-memory format.

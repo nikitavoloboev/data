@@ -20,3 +20,4 @@
 - [the 1 - Taylor Swift Cover By Billie Flynn](https://www.youtube.com/watch?v=9Z9kpfzAKhA)
 - [Taylor Swift - the 1 (cover)](https://www.youtube.com/watch?v=VJN80tyAXqo)
 - [Wuthering Heights - Kate Bush (Live Acoustic Cover)](https://www.youtube.com/watch?v=36oiYbolb4w)
+- [Shawn James - Losing My Religion (R.E.M. Cover)](https://www.youtube.com/watch?v=VoOLAILDBPE)
