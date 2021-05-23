@@ -46,3 +46,4 @@
 - [syncpad](https://github.com/Nishimura-Katsuo/syncpad) - CRDT-based collaborative source code editor (featuring the Monaco editor).
 - [Verifying Strong Eventual Consistency in δ-CRDTs](https://github.com/ttaylorr/thesis)
 - [Reactive CRDT](https://github.com/YousefED/reactive-crdt) - Easy-to-use library for building collaborative applications that sync automatically.
+- [Conflict-free Reinterpretable Ordered Washed Data (CROWD)](https://github.com/hyoo-ru/crowd.hyoo.ru) - Like CRDT but better. ([Demo](https://crowd.hyoo.ru/))
