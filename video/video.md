@@ -24,6 +24,10 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Around](https://www.around.co/) - Quick, high-impact video calls for a new era of work.
 - [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics. ([Code](https://github.com/NatronGitHub/Natron))
 
+## Notes
+
+- [In 'Mad Max: Fury Road' (2015) Margaret Sixel purposely removed frames in scenes to make you feel as anxious as Max.](https://twitter.com/Delivery_Pig/status/1395829946413690880)
+
 ## Links
 
 - [Videvo](https://www.videvo.net/) - Free Stock Video Footage.

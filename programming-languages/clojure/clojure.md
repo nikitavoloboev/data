@@ -130,3 +130,4 @@
 - [americano](https://github.com/IGJoshua/americano) - Simple tool for compiling Java from the Clojure CLI.
 - [Practical Artificial Intelligence Programming With Clojure (2021)](https://leanpub.com/clojureai) ([Code](https://github.com/mark-watson/Clojure-AI-Book-Code))
 - [Paths, Paths, Paths ... (2021)](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html)
+- [The REPL](https://www.therepl.net/) - Weekly newsletter and podcast diving into Clojure programs and libraries by Daniel Compton.
