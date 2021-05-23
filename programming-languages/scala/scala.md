@@ -73,3 +73,4 @@
 - [Deriving the Frontend — Form Combinator Fun with Scala.js (2021)](https://www.youtube.com/watch?v=JHriftPO62I)
 - [What's new in Scala 3: all the "small" things (2020)](https://www.youtube.com/watch?v=GCuskYmhvAc)
 - [Scala 3.0](https://github.com/lampepfl/dotty/releases/tag/3.0.0) ([HN](https://news.ycombinator.com/item?id=27151732)) ([Article](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html))
+- [Build your own refinement types in Scala 3 (2021)](https://msitko.pl/blog/build-your-own-refinement-types-in-scala3.html)

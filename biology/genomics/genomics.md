@@ -64,3 +64,4 @@
 - [Scientists Catch Jumping Genes Rewiring Genomes (2021)](https://www.quantamagazine.org/scientists-catch-jumping-genes-rewiring-genomes-20210512/) ([HN](https://news.ycombinator.com/item?id=27140443))
 - [regenie](https://github.com/rgcgithub/regenie) - C++ program for whole genome regression modelling of large genome-wide association studies.
 - [Edinburgh Genome Foundry](https://edinburgh-genome-foundry.github.io/) ([GitHub](https://github.com/Edinburgh-Genome-Foundry))
+- [Cultural Evolution of Genetic Heritability (2021)](https://michael.muthukrishna.com/wp-content/uploads/2021/05/Cultural_Evolution_of_Genetic_Heritability-BBS-Uchiyama_Spicer_Muthukrishna-final.pdf) ([Tweet](https://twitter.com/mmuthukrishna/status/1395731515540127746))
