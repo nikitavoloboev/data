@@ -212,3 +212,4 @@
 - [What can C++ do that Rust can’t? (2021)](https://www.reddit.com/r/rust/comments/n7rjfk/what_can_c_do_that_rust_cant_2021_edition/)
 - [Ask HN: Getting back to C++ and looking for ideas (2021)](https://news.ycombinator.com/item?id=27091044)
 - [ClangQL](https://github.com/frabert/ClangQL) - Query C++ codebases using SQLite. ([HN](https://news.ycombinator.com/item?id=27248960))
+- [C++20: Building a Thread-Pool with Coroutines (2021)](https://blog.eiler.eu/posts/20210512/) ([HN](https://news.ycombinator.com/item?id=27234044))

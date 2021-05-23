@@ -357,6 +357,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Edgar Berg](https://www.instagram.com/edgarberg/)
 - [Берлин в марте](http://sergeykorol.ru/blog/berlin-marz-2021/)
 - [Lina Scheynius](https://www.instagram.com/linascheynius/)
+- [Felix Russell-Saw](https://www.instagram.com/felixrussellsaw/)
 
 ## Notes
 

@@ -46,6 +46,9 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Trying to get your needs met without being vulnerable leads to abuse.](https://www.reddit.com/r/datingoverthirty/comments/nd616p/dae_notice_a_datepartner_criticizing_instead_of/)
 - [People aren't trying to cultivate a monogamous lifelong relationship—some people stumble into it, but generally on the surface contemporary dating is "let's see what happens" with a lot of underlying anxiety/confusion/ambivalence that ruins things.](https://twitter.com/mtbtws/status/1394788213361872897)
 - [Don't create stories in your mind about him/her without ever knowing if this he/she is worthy of your swooning. Best thing is focus that energy on someone who is going to return the effort.](https://www.reddit.com/r/datingoverthirty/comments/nhhvzd/how_do_you_get_over_someone_you_cant_have_and/)
+- [Things not working out sometimes is just a crappy part of dating. You just have to pick yourself up and move on.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
+- [Know that no matter how magical things were, you didn’t lose the right person. She isn’t the right person. The right person will stay and want to keep seeing you. The right person will want things to progress. So try to remember that. Sometimes when something doesn’t work out, it can feel like you lost your last chance at love. But you haven’t. She just isn’t the right one.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
+- [What I’ve learned through online dating is after 3-6 dates you start to feel like you really know the person. In reality, you don’t know them. They’re barely an acquaintance. And you can remove each other from your lives with a couple clicks and texts.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
 
 ## Links
 

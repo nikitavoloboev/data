@@ -96,7 +96,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Helium](https://github.com/mszoek/helium) - BSD-based OS project that aims to provide an experience like and some compatibility with macOS.
 - [Harvey](https://github.com/Harvey-OS/harvey) - Distributed operating system. ([Web](https://harvey-os.org/))
 - [TypOS](https://github.com/msp-strath/TypOS) - Operating system for typechecking processes.
-- [KolibriOS](http://www.kolibrios.org/en/) - Tiny yet incredibly powerful and fast operating system.
+- [KolibriOS](http://www.kolibrios.org/en/) - Tiny yet incredibly powerful and fast operating system. ([HN](https://news.ycombinator.com/item?id=27249075))
 
 ## Notes
 

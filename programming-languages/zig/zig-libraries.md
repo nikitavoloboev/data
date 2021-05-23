@@ -8,6 +8,7 @@
 
 - [h11](https://github.com/ducdetronquito/h11) - HTTP/1.1 parser for Zig.
 - [Routez](https://github.com/Vexu/routez) - HTTP server for Zig.
+- [Apple Pie](https://github.com/Luukdegram/apple_pie) - Basic HTTP server implementation in Zig.
 
 ## DB
 

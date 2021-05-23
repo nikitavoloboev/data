@@ -178,3 +178,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [How to safely open-source internal software - Some best practices (2021)](https://blog.gitguardian.com/safely-open-source-software-best-practices/)
 - [InnerSource Patters Book](https://patterns.innersourcecommons.org/) - Use of open source principles and practices for software development within the confines of an organization.
 - [Prefer the MIT License](https://juxt.pro/blog/prefer-mit) ([Lobsters](https://lobste.rs/s/qgxnjn/prefer_mit_license))
+- [Monetizing open-source is problematic (2021)](https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic) ([HN](https://news.ycombinator.com/item?id=27252066))
