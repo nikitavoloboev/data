@@ -132,3 +132,4 @@
 - [Trassel](https://lab.hakim.se/trassel/)
 - [PINTR](https://javier.xyz/pintr/) - Create single line SVG illustrations from your pictures. ([Code](https://github.com/javierbyte/pintr))
 - [Noise generator](https://noiseisnice.com/)
+- [UJI](https://doersino.github.io/uji/) - Minimalist generative art thing – press the buttons and play with the sliders. ([Code](https://github.com/doersino/uji))

@@ -121,6 +121,7 @@
 - [Pretty](https://github.com/haskell/pretty) - Haskell Pretty-printer library.
 - [Hypertypes](https://github.com/lamdu/hypertypes) - Generic programming for heterogeneous recursive types.
 - [laop](https://github.com/bolt12/laop) - Linear Algebra of Programming - Algebraic Matrices in Haskell.
+- [Category-Syntax](https://github.com/gelisam/category-syntax) - Do-notation for Category and "Arrow without arr".
 
 ## Links
 
