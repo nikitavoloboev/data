@@ -146,6 +146,7 @@
 - [Rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu.
 - [Conrod](https://github.com/PistonDevelopers/conrod) - Easy-to-use, 2D GUI library written entirely in Rust.
 - [Peach](https://github.com/flmng0/peach) - Processing-esque sandboxing framework for Rust.
+- [Rendiation](https://github.com/mikialex/rendiation) - Group of crates that can be composed to impl graphics project.
 
 ## Games
 

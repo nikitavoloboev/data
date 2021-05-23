@@ -313,3 +313,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [IPAPatch](https://github.com/paradiseduo/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [How to set up iOS environments: develop, staging, and production (2021)](https://sarunw.com/posts/how-to-set-up-ios-environments/) ([Reddit](https://www.reddit.com/r/swift/comments/nca3go/how_to_set_up_ios_environments_develop_staging/))
 - [FoulDecrypt](https://github.com/NyaMisty/fouldecrypt) - Lightweight and simpling iOS binary decryptor.
+- [IPATool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store.
