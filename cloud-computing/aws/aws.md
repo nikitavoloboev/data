@@ -171,3 +171,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS SDK for Rust](https://github.com/awslabs/aws-sdk-rust) ([Article](https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/)) ([HN](https://news.ycombinator.com/item?id=27080859))
 - [Learn AWS with Rust](https://github.com/richardhboyd/learn-rust-on-aws)
 - [Hello App Runner](https://github.com/aws-containers/hello-app-runner) - Example application for AWS App Runner.
+- [Ness](https://ness.sh/) - Deploy web sites to your AWS account effortlessly.

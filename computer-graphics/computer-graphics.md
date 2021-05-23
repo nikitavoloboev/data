@@ -147,3 +147,4 @@
 - [Computer Graphics Papers Parody](https://twitter.com/BrunoLevy01/status/1388421597413974016)
 - [Sharper Mipmapping using Shader Based Supersampling (2019)](https://bgolus.medium.com/sharper-mipmapping-using-shader-based-supersampling-ed7aadb47bec)
 - [Graphics Pipelines for Young Bloods (2021)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/) ([HN](https://news.ycombinator.com/item?id=27232516))
+- [125 Artists Create Unique Renders From a Simple Prompt (2020)](https://www.youtube.com/watch?v=EdCvwmebWN0)

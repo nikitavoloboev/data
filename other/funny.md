@@ -16,6 +16,7 @@
 - [The one element that makes a person laugh is surprise (positive one hopefully). So to bring to their attention something that is true, but also that they did not think about. When a human is surprised with a thought that they recognize as true, but had not thought about it, they will laugh.](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
 - [Practice and perspective makes you more funny. Who are you favorite comedians? Why do you find them funny? What is their perspective on life? Can you imagine how many times theyve done a gig and its absolutely flopped but they kept going regardless?](https://www.reddit.com/r/selfimprovement/comments/lym25n/how_do_i_become_funny/)
 - [Recruiters be like: We want someone who can connect to the database using CSS.](https://twitter.com/towernter/status/1394676801742512130)
+- [I would describe my conversational skills as “short story long”](https://twitter.com/ginnyhogan_/status/1396111131211714560)
 
 ## Links
 
