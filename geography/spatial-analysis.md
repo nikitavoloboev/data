@@ -67,3 +67,4 @@
 - [react-globe.gl](https://github.com/vasturiano/react-globe.gl) - React bindings for the globe.gl UI component.
 - [GeoRust](https://georust.org/) - Ecosystem of geospatial tools and libraries written in Rust. ([GitHub](https://github.com/georust))
 - [Ask HN: Cheapest Maps APIs (2021)](https://news.ycombinator.com/item?id=27032680)
+- [geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
