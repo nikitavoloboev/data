@@ -54,3 +54,4 @@
 - [NVTOP](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool.
 - [gpustat](https://github.com/wookayin/gpustat) - Simple command-line utility for querying and monitoring GPU status.
 - [The stack monoid revisited (2021)](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+- [Hash Functions for GPU Rendering (2021)](https://www.reedbeta.com/blog/hash-functions-for-gpu-rendering/) ([HN](https://news.ycombinator.com/item?id=27244209))
