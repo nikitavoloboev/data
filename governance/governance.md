@@ -53,3 +53,4 @@
 - [Why Governments Fail (2021)](https://www.persuasion.community/p/-why-governments-fail) ([HN](https://news.ycombinator.com/item?id=26943269))
 - [Capitalism is better then socialism, even if Capitalism is the reason socialist societies failed. (2021)](https://www.reddit.com/r/IntellectualDarkWeb/comments/mzov5l/capitalism_is_better_then_socialism_even_if/)
 - [Dual Power App](https://dualpower.app/) - Platform that provides a framework for organizing toward a worker-owned economy, with tools for founding, funding, governance, and internal + external communications. ([Code](https://github.com/BSA-US/dual-power-app))
+- [Simple Verifiable Elections (2020)](https://samtay.github.io/posts/verifiable-elections)
