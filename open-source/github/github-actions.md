@@ -22,7 +22,7 @@
 - [deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - GitHub Action to automatically build and deploy your mdbook project.
 - [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute comment from issues and pull requests.
 - [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
-- [GitHub Action for the OCaml programming language](https://github.com/avsm/setup-ocaml)
+- [GitHub Action for the OCaml programming language](https://github.com/ocaml/setup-ocaml)
 - [Upload Release Asset](https://github.com/actions/upload-release-asset) - Action to upload a release asset via the GitHub Release API.
 - [Publish to GitHub](https://github.com/mikeal/publish-to-github-action) - GitHub Action to push any local file changes, including new files, back to master.
 - [Post Slack messages](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages.
@@ -146,7 +146,7 @@
 
 ## OCaml
 
-- [Set up OCaml](https://github.com/actions-ml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
+- [Set up OCaml](https://github.com/ocaml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
 
 ## Docker
 
