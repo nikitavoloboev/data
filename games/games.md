@@ -100,6 +100,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [OpenTTD](https://www.openttd.org/) - Open source simulation game based upon Transport Tycoon Deluxe. ([Code](https://github.com/OpenTTD/OpenTTD))
 - [Liblast](https://github.com/unfa/liblast) - Libre multiplayer FPS game created in Godot.
 - [Nine Chronicles](https://github.com/planetarium/NineChronicles) - Open source online RPG without servers.
+- [SNKRX](https://github.com/a327ex/SNKRX) - Arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. ([HN](https://news.ycombinator.com/item?id=27254177))
 
 ## Awesome games (other)
 

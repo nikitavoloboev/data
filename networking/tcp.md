@@ -33,3 +33,4 @@
 - [microps](https://github.com/pandax381/microps) - Implementation of a small TCP/IP protocol stack for learning.
 - [Low-level TCP server in Rust with MIO (2019)](https://sergey-melnychuk.github.io/2019/08/01/rust-mio-tcp-server/) ([Code](https://github.com/sergey-melnychuk/mio-tcp-server))
 - [Nice illustration of TCP/IP vs. the OSI model](https://twitter.com/rtzll/status/1391459216771145728)
+- [Armada](https://github.com/resyncgg/armada) - High-Performance TCP SYN scanner.

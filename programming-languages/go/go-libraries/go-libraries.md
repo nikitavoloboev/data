@@ -256,6 +256,7 @@
 - [go-eBPF](https://github.com/cilium/ebpf) - Pure Go library that provides utilities for loading, compiling, and debugging eBPF programs.
 - [zerocopy](https://github.com/acln0/zerocopy) - Zero-copy I/O primitives and pipelines for Go. Linux-specific.
 - [nftables](https://github.com/google/nftables) - Manipulates Linux nftables (the iptables successor).
+- [libbpfgo](https://github.com/aquasecurity/libbpfgo) - Go library for working with Linux's eBPF.
 
 ## Error
 

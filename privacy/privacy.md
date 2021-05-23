@@ -88,3 +88,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Data Leverage Roundup](https://github.com/nickmvincent/DataLeverageRoundup)
 - [FBPCS (Facebook Private Computation Service)](https://github.com/facebookresearch/FBPCS)
 - [Phantom Analyzer](https://usephantom.com/) - Simple, real-time website scanner to see trackers that collect info about you.
+- [PrivacyTools](https://www.privacytools.io/) - Encryption Against Global Mass Surveillance. ([Code](https://github.com/privacytools/privacytools.io))

@@ -158,3 +158,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Pentesting: What I should have done (2021)](https://diablohorn.com/2021/04/24/pentesting-what-i-should-have-done/)
 - [A future without passwords (2021)](https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/) ([HN](https://news.ycombinator.com/item?id=27064116))
 - [Introduction to Security Good Practices (2021)](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html) ([HN](https://news.ycombinator.com/item?id=27099025))
+- [resync](https://resync.gg/) - Curate, monitor, and derive signal from the world's attack surface.
+- [Aqua Security](https://www.aquasec.com/) - Full lifecycle security for containers and cloud-native applications. ([GitHub](https://github.com/aquasecurity))
