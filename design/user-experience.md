@@ -89,3 +89,4 @@
 - [On Building a Fluid User Interface by IG (2021)](https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface)
 - [Can't Unsee](https://cantunsee.space/) ([Lobsters](https://lobste.rs/s/hoqnks/can_t_unsee))
 - [50 tips to improve user interface](https://fifty.user-interface.io/50_ui_tips.pdf) ([HN](https://news.ycombinator.com/item?id=27210022))
+- [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) - Hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.

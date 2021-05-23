@@ -533,6 +533,7 @@ Here are few more things I liked, design wise.
 - [Project Nayuki](https://www.nayuki.io/)
 - [Sasha Greif](http://sachagreif.com/)
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
+- [Silvestar Bistrović](https://www.silvestar.codes/)
 - [Adam Pritchard](https://crypti.cc/)
 - [Charli Marie](https://charlimarie.com/)
 - [Charlie Gerard](https://charliegerard.dev/)

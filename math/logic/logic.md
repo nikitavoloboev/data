@@ -50,4 +50,4 @@
 - [Standard Ternary Logic (2016)](https://homepage.divms.uiowa.edu/~jones/ternary/logic.shtml)
 - [Relational](https://github.com/ltworf/relational) - Educational tool for relational algebra.
 - [Logic solver in Rust](https://github.com/qnighy/logic-solver-rs)
-- [You Can't Prove Everything That's True (2021)](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+- [You Can't Prove Everything That's True (2021)](https://www.youtube.com/watch?v=HeQX2HjkcNo) ([Lobsters](https://lobste.rs/s/o4ri2w/you_can_t_prove_everything_s_true))

@@ -18,7 +18,7 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 
 I hope to grow my own [plant garden](https://www.reddit.com/r/druggardening/) one day.
 
-Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md) taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my happiness amidst all the universe's chaos.
+Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md) taught me a lot about [life](../../life/life.md) and [death](../../life/death.md) and how to always find my [happiness](../../life/happiness.md) amidst all the universe's chaos.
 
 ## Notes
 

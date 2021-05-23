@@ -196,3 +196,4 @@
 - [Adafruit](https://www.adafruit.com/) - Unique & fun DIY electronics and kits.
 - [DIY Air Quality Sensor](https://www.airgradient.com/diy/)
 - [What other hobbyist "small devices" are out there other than the RPi? (2021)](https://lobste.rs/s/uhrh3e/what_other_hobbyist_small_devices_are_out)
+- [Fixing Xilinx's Broken AXI-lite Design in VHDL (2021)](https://zipcpu.com/blog/2021/05/22/vhdlaxil.html)
