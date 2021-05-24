@@ -110,3 +110,4 @@
 - [Generative Adversarial Network in Go via Gorgonia](https://github.com/LdDl/gan-go)
 - [Controllable Person Image Synthesis with Attribute-Decomposed GAN (2020)](https://arxiv.org/abs/2003.12267) ([Code](https://github.com/menyifang/ADGAN))
 - [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort (2021)](https://nv-tlabs.github.io/datasetGAN/)
+- [On the use of Benford's law to detect GAN-generated images (2020)](https://arxiv.org/abs/2004.07682)
