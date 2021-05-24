@@ -8,6 +8,10 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 
 - [Werenode](http://werenode.com/index.html) - Boost the EV charging network. Make it auditable thanks to Tezos blockchain. ([Reddit](https://www.reddit.com/r/tezos/comments/l3o4cr/werenode/))
 
+## Notes
+
+- [The simplest way but still having your own keys is using a software wallet such as Exodus. It's what I use, around 5.5% in Exodus Earn, just activate Earn and every Tezos you have in your wallet will be staked. Otherwise, use Temple Wallet for example and use a baker that you like.](https://www.reddit.com/r/tezos/comments/njtn3h/best_place_to_stake_my_tezos/)
+
 ## Links
 
 - [TezEdge](https://tezedge.com) - Tezos Explorer. ([Code](https://github.com/simplestaking/tezedge))
@@ -46,3 +50,5 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Learn to Build a DApp in minutes on Tezos (2021)](https://forum.tezosagora.org/t/learn-to-build-a-dapp-in-minutes-on-tezos/3137)
 - [TzGo](https://github.com/blockwatch-cc/tzgo) - Go library for the Tezos blockchain. ([Article](https://blockwatch.cc/blog/introducing-tzgo-a-low-level-golang-library-for-tezos/))
 - [Tezori (T2)](https://github.com/Cryptonomic/T2) - Wallet for the Tezos blockchain based on ConseilJS.
+- [Tezos Nodes](https://tezos-nodes.com/) - Reliability rating public Tezos Bakers.
+- [Best place to stake my Tezos? (2021)](https://www.reddit.com/r/tezos/comments/njtn3h/best_place_to_stake_my_tezos/)
