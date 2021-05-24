@@ -102,3 +102,4 @@
 - [Andromeda](https://github.com/andromedaland/andromeda) - Global graph of Deno modules and their interdepencies.
 - [dzx](https://github.com/c4spar/deno-dzx) - Deno shell tools inspired by zx.
 - [Trex](https://github.com/crewdevio/Trex) - Package Manager for Deno.
+- [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.

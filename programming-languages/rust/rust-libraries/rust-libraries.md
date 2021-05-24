@@ -122,6 +122,7 @@
 - [acid-store](https://github.com/lostatc/acid-store) - Library for secure, deduplicated, transactional, and verifiable data storage.
 - [SeaQuery](https://github.com/SeaQL/sea-query) - Database agnostic runtime query builder for Rust.
 - [DharmaDB](https://github.com/sushrut141/DharmaDB) - Persistent, fault tolerant key-value store written in Rust.
+- [typed-sql](https://github.com/matthunz/typed-sql) - Zero-cost ORM with fast compile times. ([Reddit](https://www.reddit.com/r/rust/comments/njbt9s/announcing_typedsql_beta_zerocost_orm_with_fast/))
 
 ## Graphics
 
@@ -838,6 +839,7 @@
 - [Ordered Floats](https://github.com/reem/rust-ordered-float) - Provides several wrapper types for Ord and Eq implementations on f64.
 - [sorbus](https://github.com/CAD97/sorbus) - Generic "green" syntax tree implementation.
 - [Pointer Utils](https://github.com/CAD97/pointer-utils) - Collection of small utilities for working with pointer types in Rust.
+- [Valuable](https://github.com/tokio-rs/valuable) - Provides object-safe value inspection. Use cases include passing structured data to trait objects and object-safe serialization.
 
 ## Cargo Plugins
 
@@ -899,3 +901,4 @@
 - [Alexandrie](https://github.com/Hirevo/alexandrie) - Modular alternative crate registry for Rust suitable for use with Cargo.
 - [Cargo Release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
 - [The most underrated but useful Rust standard library type (2021)](https://dev.to/thepuzzlemaker/the-most-underrated-but-useful-rust-standard-library-type-59b1) ([Lobsters](https://lobste.rs/s/8oq6km/most_underrated_useful_rust_standard))
+- [Carnet](https://github.com/kutometa/carnet) - Small tool that imposes additional security constraints on Rust's official package manager, Cargo.
