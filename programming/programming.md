@@ -50,6 +50,9 @@
 - [The developers who seem to have all the answers? They aren’t smarter than you. They’ve just seen that before.](https://twitter.com/laurieontech/status/1380196421421428736)
 - [Why do programmers reach for step-based debugging when tracing (print-based debugging) is generally more useful?](https://twitter.com/sunshowers6/status/1380947800309985283)
 - [Computers, networking, etc are just an agreed upon spec of which bytes in which location result in which action.](https://twitter.com/JustJake/status/1373419730875289600)
+- [Mutation at a microscopic level is totally okay. What matters most is avoiding mutation at the macroscopic level, like when the app architecture has many important modules mutating or monkey patching each other.](https://twitter.com/andrestaltz/status/1396893574516678662)
+- [My general rule is that mutating off screen is dangerous, not necessarily bad but a red flag. I’ve found if you have to scroll up/down or change file to find a reference to some variable then there is almost certainly an increased chance of fuckery.](https://twitter.com/lukejacksonn/status/1396950510465437697)
+- [An anti-pattern is just a pattern used in a sub-optmial context. A good practice is just a practice used in the right context. You shouldn't talk about patterns and practice being "good" or "bad" without talking about the context in which they will be used.](https://twitter.com/samnewman/status/1396830310390763529)
 
 ## Links
 
