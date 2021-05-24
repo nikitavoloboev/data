@@ -196,6 +196,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [David West](https://open.spotify.com/artist/3kTQiUxeIBkaXlOug0xXXX?si=NEZtW9b5ThWXmGcyZefcKA) - [Alberto Balsam](https://open.spotify.com/track/18a4YelwwkDXV9y2oPlusJ)
 - [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) - [Little Numbers Live](https://www.youtube.com/watch?v=IEng60LouQo)
 - [Nevidimka](https://open.spotify.com/artist/793iuHlWU5g7wYztpuHDZP) - [Звезда](https://open.spotify.com/track/05YZVXYxyj7XRwVJCSidzQ?si=ce3278a32f204ab7)
+- [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) - [Trymai](https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx)
 
 ## Nice lyrics
 
@@ -237,6 +238,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Haley Heynderickx - "Show You a Body" (Live at WFUV)](https://www.youtube.com/watch?v=-ClE6HWVjQ4)
 - [Haley Heynderickx: Tiny Desk Concert](https://www.youtube.com/watch?v=Mub2i2BoHpM)
 - [Скриптонит - Одно и то же [Live]](https://www.youtube.com/watch?v=axPNG8IzQ_Y)
+- [Khrystyna Soloviy - Trymai (Live)](https://www.youtube.com/watch?v=3sZbAymNGf4)
 
 ## Mixes
 

@@ -27,3 +27,4 @@
 - [GuitarML (2021)](https://blog.zakjost.com/post/guitarml/) ([Code](https://github.com/GuitarML/SmartGuitarAmp))
 - [Making a Guitar | Handcrafted Woodworking (2016)](https://www.youtube.com/watch?v=sAeXskZHC2o)
 - [Designing a guitar with hot-swappable pickups (2021)](https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups) ([HN](https://news.ycombinator.com/item?id=27017176))
+- [NeuralPi](https://github.com/GuitarML/NeuralPi) - Raspberry Pi guitar pedal using neural networks to emulate real amps and pedals.

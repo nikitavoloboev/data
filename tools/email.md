@@ -118,7 +118,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) - One-click, easy-to-deploy SMTP+everything else server: a mail server in a box. ([Web](https://mailinabox.email/))
 - [docker-mailserver](https://github.com/tomav/docker-mailserver) - Full stack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
 - [go-smtp](https://github.com/emersion/go-smtp) - ESMTP client and server library written in Go.
-- [Reacher](https://reacher.email/) - Open-Source Email Verification API.
+- [Reacher](https://reacher.email/) - Open-Source Email Verification API. ([GitHub](https://github.com/reacherhq)) ([Backend Server Code](https://github.com/reacherhq/backend))
 - [check-if-email-exists](https://github.com/amaurymartiny/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 - [Bamboo](https://github.com/thoughtbot/bamboo) - Testable, composable, and adapter based Elixir email library for devs that love piping.
 - [IMAP API](https://imapapi.com/) - Self hosted daemon to access IMAP and SMTP accounts via HTTP API. ([Code](https://github.com/andris9/imapapi)) ([HN](https://news.ycombinator.com/item?id=25372987))

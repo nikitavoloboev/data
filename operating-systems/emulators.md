@@ -39,3 +39,4 @@
 - [FEX](https://github.com/FEX-Emu/FEX) - Fast x86 emulation frontend.
 - [Magia](https://github.com/pokemium/magia) - GBA emulator written in Go.
 - [CHIP-8 (and Emulators) In Plain English (2021)](https://cgmathprog.home.blog/2021/05/20/chip-8-and-emulator-overview/)
+- [Bringing emulation into the 21st century (2021)](https://blog.davetcode.co.uk/post/21st-century-emulator/)

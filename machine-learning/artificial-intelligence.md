@@ -78,3 +78,4 @@
 - [Facebook AI Research](https://ai.facebook.com/)
 - [MUM: A new AI milestone for understanding information (2021)](https://blog.google/products/search/introducing-mum/)
 - [Intel ISL (Intel Intelligent Systems Lab)](http://vladlen.info/lab/) ([GitHub](https://github.com/intel-isl))
+- [Biases in AI Systems (2021)](https://queue.acm.org/detail.cfm?id=3466134)

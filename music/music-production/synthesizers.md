@@ -26,3 +26,4 @@
 - [Making A Synthesizer Using Python](https://www.reddit.com/r/Python/comments/lw50ne/making_a_synthesizer_using_python/)
 - [Synth Playground](https://learningsynths.ableton.com/en/playground)
 - [Synth Modes](https://synthmodes.com/) - Mobile-friendly cheat sheets for synthesizer modules. ([Code](https://github.com/boourns/synthmodes))
+- [Fragment Audio Server](https://github.com/grz0zrg/fas) - C Pixels-based graphical audio synthesizer implemented as a WebSocket server.
