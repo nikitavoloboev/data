@@ -161,4 +161,3 @@
 - [The compiler will optimize that away (2021)](https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/) ([HN](https://news.ycombinator.com/item?id=27010965))
 - [Machine Learning in Compiler Optimization (2021)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-2.html)
 - [Noise-Aware Dynamical System Compilation for Analog Devices with Legno (2020)](https://www.youtube.com/watch?v=7PU-6cWQQkE)
-- [Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/)

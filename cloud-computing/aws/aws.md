@@ -172,3 +172,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Learn AWS with Rust](https://github.com/richardhboyd/learn-rust-on-aws)
 - [Hello App Runner](https://github.com/aws-containers/hello-app-runner) - Example application for AWS App Runner.
 - [Ness](https://ness.sh/) - Deploy web sites to your AWS account effortlessly.
+- [Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/) ([HN](https://news.ycombinator.com/item?id=27264500))

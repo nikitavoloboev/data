@@ -7,6 +7,7 @@
 - [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/)
 - [Capisco Ergonomic Office Chair](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733))
 - [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))
+- [Ask HN: What kind of chair are you using for WFH? (2021)](https://news.ycombinator.com/item?id=27265275)
 
 ## Standing desks
 
