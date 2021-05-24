@@ -220,6 +220,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [My sci-fi novel recommendations (2021)](https://noahpinion.substack.com/p/my-sci-fi-novel-recommendations)
 - [Most Recommended Books](https://mostrecommendedbooks.com/) - Discover books recommended by the world's most influential people.
 - [Longest book you actually are delighted you read and think about very often?](https://twitter.com/ellegist/status/1377735648749182977)
+- [Ask HN: What is a good fictional universe to get immersed in? (2021)](https://news.ycombinator.com/item?id=27270776)
 
 ## Notes
 

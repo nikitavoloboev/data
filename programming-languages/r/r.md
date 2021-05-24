@@ -66,3 +66,4 @@
 - [Epidemiologist R Handbook](https://epirhandbook.com/) - R for applied epidemiology and public health. ([HN](https://news.ycombinator.com/item?id=27106489))
 - [deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages.
 - [stringi](https://github.com/gagolews/stringi) - String Processing Package for R.
+- [How I Learned to Love Failing at Compiling R (2020)](https://www.youtube.com/watch?v=VdD0nHbcyk4)

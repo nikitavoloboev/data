@@ -190,3 +190,4 @@
 - [Flakes are such an obviously good thing: ...but the design and development process should be better (2021)](https://grahamc.com/blog/flakes-are-an-obviously-good-thing) ([Lobsters](https://lobste.rs/s/ipvgon/flakes_are_such_obviously_good_thing))
 - [scratchix](https://github.com/dramforever/scratchix) - Linux From Scratch, but it's Nix.
 - [Understanding Nix's String Context (2018)](https://shealevy.com/blog/2018/08/05/understanding-nixs-string-context/)
+- [Replit now supports every programming language in Nix (2021)](https://blog.replit.com/nix) ([HN](https://news.ycombinator.com/item?id=27269292))
