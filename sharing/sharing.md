@@ -6,7 +6,7 @@ I love solving problems with code. [Here](my-github.md) are all the repositories
 
 ## Thoughts on [Twitter](https://twitter.com/nikitavoloboev)
 
-I share everything I am to now there.
+I share everything I am to up now there.
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
 
