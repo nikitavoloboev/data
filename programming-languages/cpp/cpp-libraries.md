@@ -203,6 +203,7 @@
 - [PTHash](https://github.com/jermp/pthash) - Fast and compact minimal perfect hash functions in C++.
 - [Zadeh](https://github.com/atom-community/zadeh) - Blazing fast library for fuzzy filtering, matching, and other fuzzy things.
 - [Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. ([HN](https://news.ycombinator.com/item?id=27256686))
+- [AFF3CT](https://github.com/aff3ct/aff3ct) - Fast simulator and a library dedicated to the channel coding. ([Web](http://aff3ct.github.io/))
 
 ## Links
 

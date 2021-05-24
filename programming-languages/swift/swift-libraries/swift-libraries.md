@@ -689,6 +689,7 @@
 - [SWCompression](https://github.com/tsolomko/SWCompression) - Swift framework for working with compression, archives and containers.
 - [Snowflake](https://github.com/onmyway133/Snowflake) - SVG in Swift.
 - [RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
+- [PLCrashReporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS, macOS and tvOS.
 
 ## Other (not lib)
 

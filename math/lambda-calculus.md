@@ -54,3 +54,4 @@ Is logical theory of computable functions.
 - [Fundamentals of Lambda Calculus & Functional Programming in JavaScript (2017)](https://www.youtube.com/watch?v=3VQ382QG-y4) ([Code](https://github.com/glebec/lambda-talk)) ([Web](https://glebec.github.io/lambda-talk/))
 - [Visual Lambda Calculus Explorer](https://twitter.com/prathyvsh/status/1188787773441888257)
 - [Binary Lambda Calculus (2012)](https://www.ioccc.org/2012/tromp/hint.html) ([HN](https://news.ycombinator.com/item?id=26769650))
+- [Simply typed lambda calculus (2020)](https://splintah.github.io/posts/2020-05-24-Simply-typed-lambda.html)

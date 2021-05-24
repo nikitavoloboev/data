@@ -127,6 +127,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) - [and she was](https://open.spotify.com/track/4y6jjdklWYLDCIBsj3RMQZ)
 - [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) - [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Gone](https://open.spotify.com/track/4wuY7AFjWkbltPwugDpR4U) | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI)
 - [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) - [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph)
+- [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) - [Квітка](https://open.spotify.com/track/6LmpYRchoYl3gRGbcQ7k8z)
 
 ## Interesting artists
 

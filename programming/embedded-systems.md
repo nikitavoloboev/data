@@ -115,3 +115,4 @@
 - [cortex-m-rt](https://github.com/rust-embedded/cortex-m-rt) - Minimal startup / runtime for Cortex-M microcontrollers.
 - [Want to Learn Programming and Microcontrollers? (2021)](https://www.eejournal.com/article/want-to-learn-programming-and-microcontrollers/) ([HN](https://news.ycombinator.com/item?id=26981800))
 - [Building Morsecipher (2021)](https://fadein.xyz/posts/2021-04-29-morsecipher-architecture/)
+- [Rune](https://github.com/hotg-ai/rune) - Containerization technology for deploying TinyML applications to extremely constraint devices.
