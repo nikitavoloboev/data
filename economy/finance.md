@@ -111,3 +111,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Anyone Retire in a LCOL Country and Regret it? (2021)](https://www.reddit.com/r/leanfire/comments/nfq3p7/anyone_retire_in_a_lcol_country_and_regret_it/)
 - [Exec Sum](https://execsum.co/) - Daily Finance & Business Newsletter.
 - [How to Get Rich without Being Lucky (2019)](https://nav.al/rich) ([HN](https://news.ycombinator.com/item?id=27245680))
+- [DeFi Beyond the Hype – Wharton (2021)](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf)

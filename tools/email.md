@@ -140,7 +140,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Sieve](http://sieve.info/) - Language for filtering e-mail messages.
 - [Leave Me Alone](https://leavemealone.app/) - Easily unsubscribe from unwanted emails.
 - [Revelop](https://revelop.app/) - New standard for email.
-- [Your E-Mail Validation Logic is Wrong](https://twitter.com/jschauma/status/1378172844169961477) ([Article](https://www.netmeister.org/blog/email.html))
+- [Your E-Mail Validation Logic is Wrong](https://twitter.com/jschauma/status/1378172844169961477) ([Article](https://www.netmeister.org/blog/email.html)) ([HN](https://news.ycombinator.com/item?id=27263141))
 - [Best Privacy Friendly Email Forwarding Service (2021)](https://lobste.rs/s/jtecff/best_privacy_friendly_email_forwarding)
 - [TXMailer](https://github.com/apibillme/txmailer) - Transactional Mailer with Liquid and AWS SES.
 - [Exim Internet Mailer](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge for use on Unix systems connected to the Internet. ([Code](https://github.com/Exim/exim))

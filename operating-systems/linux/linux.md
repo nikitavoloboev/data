@@ -316,3 +316,4 @@
 - [File Descriptor Limits (2021)](http://0pointer.net/blog/file-descriptor-limits.html) ([Lobsters](https://lobste.rs/s/soircc/file_descriptor_limits)) ([HN](https://news.ycombinator.com/item?id=27215690))
 - [Fuzzing the Linux kernel (2021)](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)
 - [Rust heads into the kernel? (2021)](https://lwn.net/Articles/853423/) ([HN](https://news.ycombinator.com/item?id=27248059))
+- [rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs.

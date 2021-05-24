@@ -346,3 +346,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Hypernotes](https://hypernotes.zenkit.com/) - Platform for collaboration and project management.
 - [Innos Note](https://innos.io/)
 - [How NOT to take Smart Notes (2021)](https://www.reddit.com/r/ObsidianMD/comments/ng9pqg/how_not_to_take_smart_notes/)
+- [rsms's memex](https://github.com/rsms/memex) - Software for managing my digital information, like tweets.

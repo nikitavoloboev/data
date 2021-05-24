@@ -94,3 +94,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ideas Filter](http://ideasfilter.com/) - List of apps people pay for but have low rating. ([HN](https://news.ycombinator.com/item?id=27007767))
 - [Orbit](https://withorbit.com/) - Experimental platform for publishing and engaging with small tasks repeatedly over time. ([Code](https://github.com/andymatuschak/orbit)) ([HN](https://news.ycombinator.com/item?id=27051468))
 - [Crazy New Ideas (2021)](http://paulgraham.com/newideas.html) ([HN](https://news.ycombinator.com/item?id=27061789))
+- [Why I prefer making useless stuff (2021)](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html) ([HN](https://news.ycombinator.com/item?id=27256867))
