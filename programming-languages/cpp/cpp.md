@@ -213,3 +213,4 @@
 - [Ask HN: Getting back to C++ and looking for ideas (2021)](https://news.ycombinator.com/item?id=27091044)
 - [ClangQL](https://github.com/frabert/ClangQL) - Query C++ codebases using SQLite. ([HN](https://news.ycombinator.com/item?id=27248960))
 - [C++20: Building a Thread-Pool with Coroutines (2021)](https://blog.eiler.eu/posts/20210512/) ([HN](https://news.ycombinator.com/item?id=27234044))
+- [My experience binding a couple of scripting engines with C++ (2021)](https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7) ([HN](https://news.ycombinator.com/item?id=27262511))

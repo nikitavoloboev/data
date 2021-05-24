@@ -65,3 +65,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Extending health span: AKG, human clinical trials & aging biomarkers (Prof Brian Kennedy) (2021)](https://www.youtube.com/watch?v=iYO-j2hesRw)
 - [Akira Kurosawa's letter on human potential](https://twitter.com/MadelineHorwat1/status/1394103866443055114)
 - [How to solve aging (2021)](https://nintil.com/how-to-solve-aging/)
+- [Reminder on age “limits”](https://twitter.com/christenobrien/status/1396824607391318018)

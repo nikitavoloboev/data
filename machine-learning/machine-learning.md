@@ -340,6 +340,7 @@
 - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 - [ML and DL related contests, competitions and conference challenges](https://github.com/skrish13/ml-contests-conf)
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - Contains figures and templates which you can reuse and customize to improve your scientific writing.
+- [DL Visuals](https://github.com/dvgodoy/dl-visuals) - Deep Learning Visuals.
 - [Deep Learning with Catalyst course](https://github.com/catalyst-team/dl-course)
 - [OpenMined Courses](https://courses.openmined.org/) - Learn how privacy technology is changing our world and how you can lead the charge.
 - [Adversarial ML Threat Matrix](https://github.com/mitre/advmlthreatmatrix)

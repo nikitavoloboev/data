@@ -98,3 +98,4 @@
 - [Cryptomatte](https://github.com/Psyop/Cryptomatte) - Creates ID mattes automatically with support for motion blur, transparency, and depth of field.
 - [Using Rust and WebAssembly to Process Pixels from a Video Feed (2020)](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg) ([Code](https://github.com/Fallenstedt/webassembly-pixel-processing))
 - [dask-image](https://github.com/dask/dask-image) - Distributed image processing.
+- [A broader picture: A guide on imgproxy for businesses (2021)](https://evilmartians.com/chronicles/a-broader-picture-a-guide-on-imgproxy-for-businesses)
