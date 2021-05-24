@@ -44,3 +44,4 @@
 - [Animation of Electric Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
 - [Motion Representations for Articulated Animation (2021)](https://arxiv.org/abs/2104.11280) ([Code](https://github.com/snap-research/articulated-animation))
 - [GKIDS Films](https://gkids.com/) - Distributor of remarkable international animations.
+- [Learn Framer Motion in 10 Tweets (2021)](https://twitter.com/willjohnsonio/status/1396857844973064202)

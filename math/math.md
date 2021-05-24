@@ -268,3 +268,4 @@
 - [How to Code a Math Formula (2020)](https://www.youtube.com/watch?v=ncRmzy6BWH0) ([Reddit](https://www.reddit.com/r/learnmachinelearning/comments/nc9ejh/how_to_code_a_math_formula/))
 - [What's your favorite "strange" function? (2021)](https://www.reddit.com/r/math/comments/ndu57f/whats_your_favorite_strange_function/)
 - [The Textbook That Unleashed Ramanujan's Genius](https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf) ([HN](https://news.ycombinator.com/item?id=27204366))
+- [Abakcus](https://abakcus.com/) - Collection of the Best Mathematics and Science Stuff. ([Twitter](https://twitter.com/abakcus))

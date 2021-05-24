@@ -30,3 +30,4 @@
 - [SelfStudyClassics](https://selfstudyclassics.com/) - Online Latin course.
 - [Learning dutch (2021)](https://www.reddit.com/r/Netherlands/comments/mig7jq/learning_dutch/)
 - [Mouse Dictionary](https://mouse-dictionary.netlify.app/en/) - Super fast dictionary for language learners as Chrome/Firefox extension. ([Code](https://github.com/wtetsu/mouse-dictionary))
+- [Fluent](https://www.fluent.co/) - Learn languages by browsing the web.

@@ -40,3 +40,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Empathy](https://www.empathy.com/) - Helping people navigate the journey after losing a loved one.
 - [How do you cope with knowing you will die someday?](https://twitter.com/hippieforlife11/status/1386400906388725760)
 - [Movies that explore the concept of dying (2021)](https://www.reddit.com/r/MovieSuggestions/comments/n0pl1v/looking_for_movies_that_explore_the_concept_of/)
+- [How do you come to peace with death? (2021)](https://twitter.com/araghougassian/status/1396721803712614401)
