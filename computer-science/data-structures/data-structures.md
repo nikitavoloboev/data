@@ -75,3 +75,4 @@
 - [Traversing nested data-structures in various languages](https://github.com/josevalim/nested-data-structure-traversal) ([HN](https://news.ycombinator.com/item?id=26776786))
 - [Teaching Bloom Filters new tricks (2020)](https://toao.com/blog/teaching-bloom-filters-new-tricks)
 - [Detailed Design of a Lock-Free Queue (2014)](https://moodycamel.com/blog/2014/detailed-design-of-a-lock-free-queue)
+- [Finding the Median of 2 Sorted Arrays in Logarithmic Time (2019)](https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46)

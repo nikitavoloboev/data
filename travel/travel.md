@@ -72,3 +72,4 @@
 - [What destination can you travel to repeatedly without ever getting tired of it? (2021)](https://www.reddit.com/r/solotravel/comments/nckve0/what_destination_can_you_travel_to_repeatedly/)
 - [Other than bars and restaurants, what do you do solo traveling? (2021)](https://www.reddit.com/r/solotravel/comments/ngdwup/other_than_bars_and_restaurants_what_do_you_do/)
 - [Flightradar24](https://www.flightradar24.com/) - Live Flight Tracker.
+- [Airbnb 2021](https://www.airbnb.com/2021)

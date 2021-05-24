@@ -253,3 +253,4 @@
 - [Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3](https://github.com/msminhas93/DeepLabv3FineTuning)
 - [Class Activation Map methods implemented in PyTorch](https://github.com/jacobgil/pytorch-grad-cam)
 - [Neural Network Pruning](https://github.com/lucaslie/torchprune) - PyTorch-based pruning and research.
+- [Deep Learning with PyTorch Step-by-Step: Beginner's Guide (2021)](https://leanpub.com/pytorch)

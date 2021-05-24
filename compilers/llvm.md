@@ -68,3 +68,4 @@
 - [Speedbuilding LLVM/Clang in 5 minutes (2021)](https://www.cambus.net/speedbuilding-llvm-clang-in-5-minutes/)
 - [Building LLVM in 90 seconds using Amazon Lambda (2021)](https://blog.nelhage.com/post/building-llvm-in-90s/) ([Lobsters](https://lobste.rs/s/pruijn/building_llvm_90_seconds_using_amazon))
 - [eBPF assembly with LLVM (2020)](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
+- [Alive2: Bounded Translation Validation for LLVM (2021)](https://www.cs.utah.edu/~regehr/alive2-pldi21.pdf)
