@@ -1,4 +1,4 @@
-# [BetterTouchTool](https://www.boastr.net)
+# [BetterTouchTool](https://folivora.ai)
 
 I use BTT to [customize different trackpad gestures](https://medium.com/@nikitavoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze) either globally or on per app basis. I also use BTT for all my window management needs (move window left/right or maximize).
 
