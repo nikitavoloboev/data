@@ -28,6 +28,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Moving/batching all meetings to one day can be helpful. Or no meetings/calls on Thu/Fri as example.](https://twitter.com/coreyhainesco/status/1387557466179653632)
 - [Have a different room for work that’s separate from bedroom and living area. Take walks to break up the day. Take time off in evenings as reward.](https://twitter.com/herrmanndigital/status/1387773860636995592)
 - [Manage priorities rather than time.](https://twitter.com/MikeyFox/status/1387699937954119683)
+- [Every evening, write down a daily schedule for the next day and try to stick to it as best as possible.](https://twitter.com/rasbt/status/1397221898044456962)
 
 ## Links
 

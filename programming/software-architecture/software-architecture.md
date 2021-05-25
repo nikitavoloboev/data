@@ -148,3 +148,4 @@
 - [DataHub: Popular metadata architectures explained (2020)](https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained)
 - [Domain Driven Design —— Can it work on Infrastructure Software Development? (2021)](https://longfangsong.github.io/2021/01/04/Domain-Driven-Design-%E2%80%94%E2%80%94-Can-it-work-on-Infrastructure-Software-Development/)
 - [Product Hunt Architecture (2021)](https://blog.rstankov.com/product-hunt-architecture/)
+- [Immutable Infrastructure: Reliability, consistency and confidence through immutability (2020)](https://medium.com/the-cloud-architect/immutable-infrastructure-21f6613e7a23)

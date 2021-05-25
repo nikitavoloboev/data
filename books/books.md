@@ -221,6 +221,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Most Recommended Books](https://mostrecommendedbooks.com/) - Discover books recommended by the world's most influential people.
 - [Longest book you actually are delighted you read and think about very often?](https://twitter.com/ellegist/status/1377735648749182977)
 - [Ask HN: What is a good fictional universe to get immersed in? (2021)](https://news.ycombinator.com/item?id=27270776)
+- [Unhinged Women Fiction // Book Recs (2021)](https://www.youtube.com/watch?v=rNAfoCEmiXE&list=TLPQMjUwNTIwMjFg8xCFMewS1g&index=7)
 
 ## Notes
 

@@ -117,3 +117,4 @@
 - [Kyla Scanlon's Reading List](https://www.notion.so/Reading-List-1b7b6b0c0c0646849124942c3e23e39c)
 - [Ask HN: What lessons did you learn from your best or worst colleagues? (2021)](https://news.ycombinator.com/item?id=27161901)
 - [Learney](https://app.learney.me/) - Online learning platform that lets you take your own path.
+- [Caught in the Study Web (2021)](https://every.to/cybernaut/caught-in-the-study-web) ([Tweet](https://twitter.com/fadeke_adegbuyi/status/1396908868656005123))

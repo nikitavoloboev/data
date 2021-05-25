@@ -231,3 +231,5 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Great Memos](https://sriramk.com/memos.html)
 - [Programming and Writing (2021)](http://antirez.com/news/135) ([HN](https://news.ycombinator.com/item?id=27152571))
 - [Technical Writing Courses by Google](https://developers.google.com/tech-writing)
+- [15 Tips for Writing Better Short Stories (2021)](https://www.youtube.com/watch?v=Fxb8TZbTlZc)
+- [ShaelinWrites - YouTube](https://www.youtube.com/c/ShaelinWrites/videos) - Talks about writing.

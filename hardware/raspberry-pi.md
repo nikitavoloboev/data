@@ -72,3 +72,4 @@
 - [rp-hal](https://github.com/rp-rs/rp-hal) - Rust HAL impl for the RP family of microcontrollers from the Raspberry Pi Foundation.
 - [Rascam](https://github.com/pedrosland/rascam) - Rust library for interacting with the Raspberry Pi Camera.
 - [My 6-node 1U Raspberry Pi rack mount Cluster (2021)](https://www.jeffgeerling.com/blog/2021/my-6-node-1u-raspberry-pi-rack-mount-cluster)
+- [Young Persons Guide to BCPL Programming on the Raspberry Pi](https://www.cl.cam.ac.uk/~mr10/bcpl4raspi.pdf)
