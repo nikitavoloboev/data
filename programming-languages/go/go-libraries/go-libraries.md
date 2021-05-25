@@ -813,6 +813,7 @@
 - [sroar](https://github.com/dgraph-io/sroar) - Serialized Roaring Bitmaps.
 - [csvtk](https://github.com/shenwei356/csvtk) - Cross-platform, efficient and practical CSV/TSV toolkit in Go.
 - [Go Debug](https://github.com/golang/debug) - Utilities and libraries for debugging Go programs.
+- [codec](https://github.com/jba/codec) - Fast Encoding of Go Values.
 
 ## Links
 
