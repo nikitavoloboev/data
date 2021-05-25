@@ -113,3 +113,4 @@
 - [Write a Good Dockerfile in 19 'Easy' Steps (2021)](https://jkutner.github.io/2021/04/26/write-good-dockerfile.html)
 - [Rocker](https://github.com/daikimiura/rocker) - Minimal docker implementation for educational purposes.
 - [Better Dockerfiles (2021)](https://ols.wtf/2021/04/09/better-dockerfiles.html)
+- [Docker-ls](https://github.com/mayflower/docker-ls) - Set of CLI tools for browsing and manipulating docker registries.

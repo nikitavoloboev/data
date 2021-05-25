@@ -209,3 +209,4 @@
 - [PlotPlayground](https://github.com/JohnSundell/PlotPlayground) - Swift playground that comes pre-loaded with Plot, that can be used to explore the new component API.
 - [Useful Swift Things](https://github.com/jphong1111/Useful_Swift) - List of useful iOS & Swift stuff.
 - [SwiftLee Jobs](https://www.swiftleejobs.com/) - Find your next Swift job.
+- [Introduction to async/await in Swift (2021)](https://theswiftdev.com/introduction-to-asyncawait-in-swift/)

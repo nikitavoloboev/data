@@ -241,3 +241,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Home network 10 Gbit/s upgrade (2021)](https://michael.stapelberg.ch/posts/2021-05-16-home-network-fiber-10-gbits-upgrade/)
 - [Observing my cellphone switch towers (2021)](https://fabiensanglard.net/lte/index.html) ([HN](https://news.ycombinator.com/item?id=27171860))
 - [Preparing your game for deterministic netcode (2021)](https://yal.cc/preparing-your-game-for-deterministic-netcode/) ([HN](https://news.ycombinator.com/item?id=27253890))
+- [BGP introduction, all you need to know to start (2021)](https://www.samovergre.com/2021/05/25/bgp-part-1-atlas-of-the-internet/) ([HN](https://news.ycombinator.com/item?id=27279587))
