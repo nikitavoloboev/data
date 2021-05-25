@@ -52,3 +52,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Tezori (T2)](https://github.com/Cryptonomic/T2) - Wallet for the Tezos blockchain based on ConseilJS.
 - [Tezos Nodes](https://tezos-nodes.com/) - Reliability rating public Tezos Bakers.
 - [Best place to stake my Tezos? (2021)](https://www.reddit.com/r/tezos/comments/njtn3h/best_place_to_stake_my_tezos/)
+- [Blockwatch Tezos Indexer](https://github.com/blockwatch-cc/tzindex)

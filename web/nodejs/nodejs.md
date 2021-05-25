@@ -213,3 +213,5 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [Specialist](https://github.com/fabiospampinato/specialist) - Library that helps you write tiny, fast, bundled and beautiful CLI apps that can automatically check for updates.
 - [Steno](https://github.com/typicode/steno) - Specialized fast async file writer.
 - [WebContainers: Run Node.js natively in the browser (2021)](https://blog.stackblitz.com/posts/introducing-webcontainers/) ([HN](https://news.ycombinator.com/item?id=27223012))
+- [envfile](https://github.com/bevry/envfile) - Parse and write environment files with Node.js.
+- [listr2](https://github.com/cenk1cenk2/listr2) - Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.

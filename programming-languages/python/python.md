@@ -290,3 +290,4 @@
 - [py2many](https://github.com/adsharma/py2many) - Python to CLike languages transpiler.
 - [Shrinking your Python application’s Docker image: an overview (2021)](https://pythonspeed.com/articles/smaller-docker-images/)
 - [Tiny Python Projects Book (2020)](http://tinypythonprojects.com/) - Learn coding and testing with puzzles and games. ([Code](https://github.com/kyclark/tiny_python_projects))
+- [Cpython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation.

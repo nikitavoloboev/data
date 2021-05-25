@@ -97,3 +97,4 @@
 - [UCodeDisasm: Intel Atom Disassembler](https://github.com/chip-red-pill/uCodeDisasm)
 - [Atomics in AArch64 (2021)](https://cpufun.substack.com/p/atomics-in-aarch64)
 - [CPU Fun Blog](https://cpufun.substack.com/) - Intended to cover various subjects related to the low-level interactions of software and hardware.
+- [Building an Always-On CPU Profiler (2021)](https://blog.px.dev/cpu-profiling/)

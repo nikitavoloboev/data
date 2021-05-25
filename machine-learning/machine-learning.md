@@ -469,7 +469,7 @@
 - [Delving into Deep Imbalanced Regression (2021)](https://arxiv.org/abs/2102.09554) ([Code](https://github.com/YyzHarry/imbalanced-regression))
 - [Comprehensive Survey on Transfer Learning](http://datamining.rutgers.edu/publication/A%20Comprehensive%20Survey%20on%20Transfer%20Learning.pdf)
 - [Applied Deep Learning Course](https://github.com/maziarraissi/Applied-Deep-Learning) ([Videos](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4))
-- [Pay Attention to MLPs (2021)](https://arxiv.org/abs/2105.08050) ([Tweet](https://twitter.com/Hanxiao_6/status/1394742841033641985))
+- [Pay Attention to MLPs (2021)](https://arxiv.org/abs/2105.08050) ([Tweet](https://twitter.com/Hanxiao_6/status/1394742841033641985)) ([Code](https://github.com/lucidrains/g-mlp-pytorch))
 - [E(n) Equivariant Normalizing Flows for Molecule Generation in 3D (2021)](https://arxiv.org/abs/2105.09016) ([Tweet](https://twitter.com/wellingmax/status/1395281027824857088))
 - [Fast and Slow Learning of Recurrent Independent Mechanisms (2021)](https://arxiv.org/abs/2105.08710) ([Tweet](https://twitter.com/anirudhg9119/status/1395889099102380032))
 - [Find Trending Machine Learning Research Papers on Twitter](https://papers.labml.ai/papers/daily)

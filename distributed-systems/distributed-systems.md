@@ -184,3 +184,4 @@
 - [Launchpad](https://github.com/deepmind/launchpad) - Library that simplifies writing distributed programs by seamlessly launching them on a variety of different platforms.
 - [The Problem of Distributed Consensus (2021)](https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/)
 - [A robust distributed locking algorithm based on Google Cloud Storage (2021)](https://www.joyfulbikeshedding.com/blog/2021-05-19-robust-distributed-locking-algorithm-based-on-google-cloud-storage.html)
+- [Sealer](https://github.com/alibaba/sealer) - Build share and run your distributed applications.

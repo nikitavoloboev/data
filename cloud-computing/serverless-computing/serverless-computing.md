@@ -97,3 +97,4 @@
 - [vHive](https://github.com/ease-lab/vhive) - Open-source framework for serverless experimentation.
 - [Go SDK for Serverless Workflow](https://github.com/serverlessworkflow/sdk-go)
 - [The State of Serverless (2021)](https://www.datadoghq.com/state-of-serverless/)
+- [Second State](https://www.secondstate.io/) - Fast, safe, portable & serverless Rust on WebAssembly. ([GitHub](https://github.com/second-state))

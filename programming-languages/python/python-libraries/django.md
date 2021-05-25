@@ -80,3 +80,4 @@
 - [Rapid Prototyping with Django, htmx, and Tailwind CSS (2021)](https://testdriven.io/blog/django-htmx-tailwind/)
 - [Django SQL Dashboard](https://django-sql-dashboard.datasette.io/en/latest/) ([HN](https://news.ycombinator.com/item?id=27107428)) ([Code](https://github.com/simonw/django-sql-dashboard)) ([Article](https://simonwillison.net/2021/May/10/django-sql-dashboard/))
 - [Get to know Django models better (2021)](https://girlthatlovestocode.com/django-model)
+- [Django Chat](https://djangochat.com/) - Podcast on the Django Web Framework by William Vincent and Carlton Gibson.

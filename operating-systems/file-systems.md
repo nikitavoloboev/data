@@ -57,3 +57,4 @@
 - [netfuse](https://github.com/anowell/netfuse) - FUSE-based abstraction for networked filesystems.
 - [go-fsimpl](https://github.com/hairyhenderson/go-fsimpl) - Go filesystem implementations for various URL schemes.
 - [ImpFS](https://github.com/tomjridge/imp_fs) - Novel filesystem with some interesting features.
+- [rpg-cli](https://github.com/facundoolano/rpg-cli) - Your filesystem as a dungeon.

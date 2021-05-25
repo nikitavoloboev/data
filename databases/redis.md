@@ -64,3 +64,5 @@
 - [Redis Simple Message Queue](https://github.com/smrchy/rsmq)
 - [reqlite](https://github.com/augmentable-dev/reqlite) - Query Redis with SQL.
 - [RedisLess](https://github.com/Qovery/RedisLess) - Fast, lightweight, embedded and scalable in-memory Key/Value store library compatible with the Redis API. ([Article](https://www.heapstack.sh/redisless-blazingly-fast-serverless-redis))
+- [Redis Internals](https://github.com/zpoint/Redis-Internals) - Analyze Redis 5.0 source code through diagrams.
+- [Codis](https://github.com/CodisLabs/codis) - Proxy based high performance Redis cluster solution written in Go.

@@ -212,3 +212,4 @@
 - [Elk OS](https://elk.audio/audio-os/) - Audio Operating System. ([HN](https://news.ycombinator.com/item?id=27269589))
 - [Ask HN: How to get started with audio programming? (2021)](https://news.ycombinator.com/item?id=27273706)
 - [Freesound](https://freesound.org/) - Collaborative database of Creative Commons Licensed sounds.
+- [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio)

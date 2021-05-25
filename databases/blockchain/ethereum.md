@@ -226,3 +226,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Superfluid](https://www.superfluid.finance/) - Programmable money streams on Ethereum.
 - [Arbitrum](https://arbitrum.io/) - Optimistic Rollup built to scale Ethereum.
 - [Ethereum Developer Resources](https://ethereum.org/en/developers/)
+- [SOLL](https://github.com/second-state/SOLL) - New compiler for generating Ewasm (Ethereum flavored WebAssembly) files from Solidity and Yul.

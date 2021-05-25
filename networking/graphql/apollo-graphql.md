@@ -17,3 +17,4 @@
 - [Apollo Client – Demystifying Cache Normalization (2020)](https://www.apollographql.com/blog/demystifying-cache-normalization/) ([HN](https://news.ycombinator.com/item?id=26728114))
 - [Auto generate Apollo code for Next.js SSR](https://github.com/correttojs/graphql-codegen-apollo-next-ssr)
 - [Apollo Prophecy](https://github.com/theGlenn/apollo-prophecy) - Command tool to generate errors files for your Appolo Server and Client.
+- [Apollo Invalidation Policies](https://github.com/NerdWalletOSS/apollo-invalidation-policies) - Extension of the Apollo 3 cache with support for type-based invalidation policies.
