@@ -102,3 +102,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [Fireside Chat With Kevin Rose about Cryptocurrencies/Solana (2021)](https://www.youtube.com/watch?v=_8fDeEgUPsg)
 - [Proof-of-stake is inherently self-referential](https://github.com/stickfigure/blog/wiki/Proof-Of-Stake-Wears-No-Clothes) ([HN](https://news.ycombinator.com/item?id=27235668))
 - [The TIE](https://www.thetie.io/) - Data and Technology for Digital Assets. ([Research](https://research.thetie.io/))
+- [Ban Cryptocurrency to Fight Ransomware (2021)](https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831) ([Tweet](https://twitter.com/leereiners/status/1397254301253345287))

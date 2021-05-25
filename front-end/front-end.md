@@ -1,5 +1,9 @@
 # Front End
 
+## Notes
+
+- [Every time I write code that has user interactions + async logic and don't use state machines, I get tons of bugs.](https://twitter.com/ryanflorence/status/1397283439787741186)
+
 ## Links
 
 - [Front End Resources](https://enboard.co/frontend/)

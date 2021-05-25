@@ -114,3 +114,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Tiktok, Emergent Creativity, The Limits of Social Graphs (2021)](https://www.youtube.com/watch?v=xbnDay35L8I)
 - [Inside the Bubble at Facebook](https://www.nemil.com/tdf/part1-employees.html)
 - [The Cold Start Problem Book (2021)](https://www.coldstart.com/) - How to start and scale network effects. ([Tweet](https://twitter.com/andrewchen/status/1373782512816812034))
+- [The Great Online Game (2021)](https://www.notboring.co/p/the-great-online-game) ([Tweet](https://twitter.com/blakeir/status/1397278844986482691))
