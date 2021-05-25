@@ -112,6 +112,7 @@
 - [type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript.
 - [DDD](https://github.com/node-ts/ddd) - Domain Driven Design framework for software simplicity in node.
 - [ts-checked-fsm](https://github.com/tableau/ts-checked-fsm) - TypeScript library providing compile-time checking for state machine transitions.
+- [resolvers](https://github.com/react-hook-form/resolvers) - Validation resolvers: Zod, Yup, Joi, Superstruct, Vest, class-validator, io-ts, and nope.
 
 ## Links
 

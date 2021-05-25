@@ -87,3 +87,4 @@
 - [What is your favorite economics paper? (2021)](https://www.reddit.com/r/AskEconomics/comments/my0f6w/what_is_your_favorite_economics_paper/)
 - [Labor shortage or terrible jobs? (2021)](https://annehelen.substack.com/p/the-capitalism-is-broken-economy) ([HN](https://news.ycombinator.com/item?id=26994175))
 - [The Ball and Supply Chain (2021)](https://puri.sm/posts/the-ball-and-supply-chain/) ([HN](https://news.ycombinator.com/item?id=27011159))
+- [Do the 'rich' pay less tax? (2021)](https://www.reddit.com/r/AskEconomics/comments/nkow6i/do_the_rich_pay_less_tax/)

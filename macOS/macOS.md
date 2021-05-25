@@ -153,3 +153,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Apple’s Notarizing](https://www.cdfinder.de/guide/blog/apple_hell.html) ([HN](https://news.ycombinator.com/item?id=26993857))
 - [macOS dev setup](https://github.com/donnemartin/dev-setup)
 - [Lima](https://github.com/AkihiroSuda/lima) - Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac"). ([HN](https://news.ycombinator.com/item?id=27151993))
+- [Inspect Apple macOS software updates](https://github.com/hjuutilainen/sus-inspector)
