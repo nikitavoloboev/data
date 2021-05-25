@@ -122,3 +122,4 @@
 - [Refresh](https://refresh.study/) - Fresh approach to the browser.
 - [Synth](https://synth.app/) - Browser From The Future.
 - [Hoverify](https://www.tryhoverify.com/) - All-in-one browser extension that helps you in web development.
+- [What’s the most underrated browser API? (2021)](https://twitter.com/burgessdryan/status/1397202072941080587)
