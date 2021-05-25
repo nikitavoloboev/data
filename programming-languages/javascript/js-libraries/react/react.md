@@ -234,3 +234,4 @@
 - [API Design for a React Tree Table (2021)](https://www.robinwieruch.de/react-tree-list)
 - [Vite Typescript React 17 SSR](https://github.com/jonluca/vite-typescript-ssr-react) ([Web](https://blog.jonlu.ca/posts/vite))
 - [React without JSX (2021)](https://twitter.com/necolas/status/1395808225753108482)
+- [How to manage global state with XState and React (2021)](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5)

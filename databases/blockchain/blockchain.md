@@ -150,3 +150,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [xDai chain](https://www.xdaichain.com/) - Stable payments blockchain designed for fast and inexpensive transactions.
 - [The Limits to Blockchain Scalability (2021)](https://vitalik.ca/general/2021/05/23/scaling.html) ([HN](https://news.ycombinator.com/item?id=27257641))
 - [How Blockchains Work (2021)](https://asthasr.github.io/posts/how-blockchains-work/)
+- [Web 2 to Web 3 (2021)](https://twitter.com/dabit3/status/1397247252251521026)

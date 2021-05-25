@@ -53,3 +53,4 @@
 - [Cloudflare Developer Challenges Solutions](https://github.com/cloudflare/devweek)
 - [Using Cloudflare Workers to improve your Fastly cache hit rate](https://blog.diffen.com/post/631968553491415040/using-cloudflare-workers-to-improve-fastly-cache-hit-rat)
 - [Multiplayer Doom on Cloudflare Workers (2021)](https://blog.cloudflare.com/doom-multiplayer-workers/) ([Code](https://github.com/cloudflare/doom-wasm)) ([HN](https://news.ycombinator.com/item?id=27194031))
+- [kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) - Open-source library for managing the retrieval of static assets from Workers KV inside of a Cloudflare Workers function.
