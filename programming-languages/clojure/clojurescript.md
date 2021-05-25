@@ -27,3 +27,4 @@
 - [Lessons On Writing JavaScript and React From ClojureScript (2021)](https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/) ([HN](https://news.ycombinator.com/item?id=27089576))
 - [ClojureScript Macros (2019)](https://code.thheller.com/blog/shadow-cljs/2019/10/12/clojurescript-macros.html)
 - [Hot Reload in ClojureScript (2019)](https://code.thheller.com/blog/shadow-cljs/2019/08/25/hot-reload-in-clojurescript.html)
+- [Developing mobile digital key applications with ClojureScript (2021)](https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/)

@@ -100,3 +100,4 @@
 - [Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir? (2021)](https://news.ycombinator.com/item?id=27192873)
 - [Metaprogramming in Elixir (2021)](https://serokell.io/blog/elixir-metaprogramming) ([HN](https://news.ycombinator.com/item?id=27231926))
 - [Elixir at Ramp (2021)](https://engineering.ramp.com/elixir-at-ramp/)
+- [Debugging Elixir Code: The Definitive Guide (2021)](https://curiosum.dev/blog/debugging-elixir-code-the-definitive-guide)

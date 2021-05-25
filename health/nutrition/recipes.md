@@ -41,3 +41,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Half Lemons](https://www.halflemons.com/) - Recipes Using Only The Ingredients You Already Have. ([Reddit](https://www.reddit.com/r/apple/comments/n36hlp/i_launched_my_first_app_on_the_app_store_half/))
 - [What's a delicious and healthy meal from your country/culture that deserves more credit than it gets. (2021)](https://www.reddit.com/r/nutrition/comments/na150w/whats_a_delicious_and_healthy_meal_from_your/)
 - [Cookies Recipe](https://tilman.dev/blog/2021/02/click-here-to-accept-cookies/)
+- [Mushroom risotto with homemade mushroom stock](https://www.youtube.com/watch?v=rjQ65Lu1voU)

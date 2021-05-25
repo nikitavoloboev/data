@@ -116,4 +116,4 @@
 - [Update Canvas 2D API](https://github.com/fserb/canvas2D)
 - [Google Docs will now use canvas based rendering (2021)](https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html) ([HN](https://news.ycombinator.com/item?id=27129858)) ([Lobsters](https://lobste.rs/s/uqb3kj/google_docs_will_now_use_canvas_based))
 - [DOM Events](https://domevents.dev/) - Learn about the DOM Event system through exploration.
-- [The Button Cheat Sheet](https://www.buttoncheatsheet.com/)
+- [The Button Cheat Sheet](https://www.buttoncheatsheet.com/) ([HN](https://news.ycombinator.com/item?id=27276547))
