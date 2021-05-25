@@ -20,3 +20,4 @@
 - [WeWeb](https://www.weweb.io/) - Create websites visually using JAMstack tools. ([HN](https://news.ycombinator.com/item?id=26248123))
 - [The Evolution Of Jamstack (2021)](https://www.smashingmagazine.com/2021/05/evolution-jamstack/)
 - [Jamstack & New Netlify Features with Jason Lengstorf & Phil Hawksworth (2021)](https://shoptalkshow.com/464/)
+- [FSJam Podcast](https://fsjam.org/) - Conversations about the emerging world of Fullstack Jamstack applications.

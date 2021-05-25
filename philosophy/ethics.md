@@ -18,3 +18,4 @@
 - [How Ethics could be integrated in CS education (2021)](https://twitter.com/nprandchill/status/1374774492111720449)
 - [Stanford Ethical and Social Issues in Natural Language Processing Seminar](https://web.stanford.edu/class/cs384/)
 - [NeurIPS Ethics Guidelines](https://neurips.cc/public/EthicsGuidelines)
+- [Notes on Ethics](https://paul.copplest.one/knowledge/philosophy/ethics.html)

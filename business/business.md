@@ -83,3 +83,5 @@ Learning to build [startups](startups/startups.md).
 - [Eight ways to make money (2021)](https://twitter.com/lennysan/status/1392862308951498754)
 - [Trends](https://trends.co/) - Your next business idea, delivered weekly.
 - [Netflix's strategy of managing "complexity" and "creativity"](https://twitter.com/TrungTPhan/status/1395389066703622145)
+- [Profit Sharing (2020)](https://paul.copplest.one/blog/profit-sharing.html) - How to compensate employees.
+- [Decision making framework businesses and startups](https://paul.copplest.one/levels/business.html#general)

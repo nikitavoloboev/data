@@ -293,6 +293,7 @@ Here are few more things I liked, design wise.
 - [Hugo Daniel](https://hugodaniel.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Zach Bruggeman](https://bruggie.com/)
+- [Paul Copplestone](https://paul.copplest.one/)
 - [Sequoia McDowell](https://sequoia.makes.software/)
 - [Femke van Schoonhoven](https://www.femke.co.nz/)
 - [Matías Martínez](https://matias.ma/)
