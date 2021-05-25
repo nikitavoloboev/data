@@ -145,3 +145,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Awesome Tech Blogs](https://tech-blogs.dev/) ([Code](https://github.com/markodenic/awesome-tech-blogs))
 - [Tips to start a Blog (2021)](https://twitter.com/katie_hockman/status/1392128759508111362)
 - [Nobelium](https://nobelium.js.org/) - Static blog build on top of Notion and Nextjs, deployed on Vercel. ([Code](https://github.com/craigary/nobelium))
+- [Blog about what you've struggled with (2021)](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)

@@ -314,3 +314,4 @@
 - [Learn CSS](https://web.dev/learn/css/) - Evergreen CSS course and reference to level up your web styling expertise. ([HN](https://news.ycombinator.com/item?id=27233019))
 - [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
 - [25 Years of CSS (2021)](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/)
+- [CSS Container Queries: Use-Cases And Migration Strategies (2021)](https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/)

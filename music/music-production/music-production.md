@@ -211,3 +211,4 @@
 - [Rust-LV2](https://github.com/RustAudio/rust-lv2) - Safe, fast, and ergonomic framework to create LV2 plugins for audio processing, written in Rust.
 - [Elk OS](https://elk.audio/audio-os/) - Audio Operating System. ([HN](https://news.ycombinator.com/item?id=27269589))
 - [Ask HN: How to get started with audio programming? (2021)](https://news.ycombinator.com/item?id=27273706)
+- [Freesound](https://freesound.org/) - Collaborative database of Creative Commons Licensed sounds.

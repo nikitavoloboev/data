@@ -37,3 +37,5 @@
 - [What can you do after complete intertwinement of Neuralink with AI singularity?](https://www.reddit.com/r/Neuralink/comments/myipyc/once_there_is_the_complete_intertwinement_of/)
 - [Can Machines Control Our Brains? (2021)](https://www.quantamagazine.org/how-brain-computer-interface-technology-is-different-from-mind-control-20210517/) ([HN](https://news.ycombinator.com/item?id=27185993))
 - [BlackRock Microsystems](https://blackrockneurotech.com/) - Brain-Computer Interfaces.
+- [Bryan Johnson: Kernel Brain-Computer Interfaces (2021)](https://overcast.fm/+eZyCHNnz8)
+- [Kernel](https://www.kernel.com/) - Creates the interfaces and insights necessary to unlock the greatest scientific unknown: the inner workings of the human brain and mind.

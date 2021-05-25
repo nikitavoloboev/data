@@ -114,3 +114,4 @@
 - [What John von Neumann Did at Los Alamos (2020)](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
 - [Books to understand Middle East better (2021)](https://twitter.com/brianleroux/status/1393588109514731522)
 - [Why Civilization Is Older Than We Thought (2021)](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
+- [Why Some Old Computers are Interesting](http://hccc.org.uk/retro/retro.html)
