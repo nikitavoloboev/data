@@ -98,3 +98,4 @@
 - [Dissolving the Fermi Paradox (2018)](https://arxiv.org/abs/1806.02404) ([HN](https://news.ycombinator.com/item?id=27205742))
 - [HiRISE](https://www.uahirise.org/) - High Resolution Imaging Science Experiment.
 - [MARS - Real Colors of the Red Planet - Volume II (2021)](https://www.youtube.com/watch?v=axkF6gAh2e0)
+- [As The Universe Expands, Does Space Actually Stretch? (2021)](https://www.forbes.com/sites/startswithabang/2021/05/25/as-the-universe-expands-does-space-actually-stretch/)

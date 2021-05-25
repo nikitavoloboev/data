@@ -264,3 +264,4 @@
 - [Debugging random slow writes in PostgreSQL (2021)](https://iamsafts.com/posts/postgres-gin-performance/) ([HN](https://news.ycombinator.com/item?id=27152507))
 - [PostgreSQL: Detecting slow queries quickly (2021)](https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly/)
 - [An early look at Postgres 14 performance and monitoring improvements (2021)](https://pganalyze.com/blog/postgres-14-performance-monitoring) ([HN](https://news.ycombinator.com/item?id=27247621))
+- [Kubegres](https://www.kubegres.io/) - PostgreSQL Operator for Kubernetes.

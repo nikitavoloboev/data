@@ -117,7 +117,7 @@ All active variables can be seen by running `env`.
 - [murex](https://github.com/lmorg/murex) - Alternative shell with native support for JSON, YAML, TOML, CSV, etc. ([Web](https://murex.rocks/)) ([HN](https://news.ycombinator.com/item?id=26284294))
 - [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history.
 - [pimp](https://github.com/aymericbeaumet/pimp) - Give your shell commands superpowers.
-- [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://withfig.com/))
+- [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://fig.io/)) ([HN](https://news.ycombinator.com/item?id=27277819))
 - [Elvish Shell](https://elv.sh/) - Expressive programming language and a versatile interactive shell, combined into one seamless package. ([Tour](https://elv.sh/learn/tour.html))
 - [All the characters that work on any terminal and any operating system](https://github.com/ehmicky/cross-platform-terminal-characters)
 - [Improving shell workflows with fzf (2021)](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/) ([HN](https://news.ycombinator.com/item?id=26634419))

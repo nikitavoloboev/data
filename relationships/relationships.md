@@ -49,6 +49,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Things not working out sometimes is just a crappy part of dating. You just have to pick yourself up and move on.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
 - [Know that no matter how magical things were, you didn’t lose the right person. She isn’t the right person. The right person will stay and want to keep seeing you. The right person will want things to progress. So try to remember that. Sometimes when something doesn’t work out, it can feel like you lost your last chance at love. But you haven’t. She just isn’t the right one.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
 - [What I’ve learned through online dating is after 3-6 dates you start to feel like you really know the person. In reality, you don’t know them. They’re barely an acquaintance. And you can remove each other from your lives with a couple clicks and texts.](https://www.reddit.com/r/datingoverthirty/comments/nito7v/what_did_i_do_wrong_would_appreciate_any_insight/)
+- [Don't become good at staying in toxic situations.](https://www.instagram.com/p/CPRA8ephrQQ/)
 
 ## Links
 
