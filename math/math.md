@@ -269,3 +269,4 @@
 - [What's your favorite "strange" function? (2021)](https://www.reddit.com/r/math/comments/ndu57f/whats_your_favorite_strange_function/)
 - [The Textbook That Unleashed Ramanujan's Genius](https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf) ([HN](https://news.ycombinator.com/item?id=27204366))
 - [Abakcus](https://abakcus.com/) - Collection of the Best Mathematics and Science Stuff. ([Twitter](https://twitter.com/abakcus))
+- [The Essence of Mathematics Through Elementary Problems](https://www.openbookpublishers.com/product/979) ([HN](https://news.ycombinator.com/item?id=27254415))

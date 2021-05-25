@@ -8,7 +8,7 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 
 - [Nano](nano.md) - Peer-to-peer digital currency with fast & cheap transactions.
 - [Cardano SL](https://cardanodocs.com/introduction/) ([Benefits of Nano](https://www.reddit.com/r/nanocurrency/comments/ksz0hi/all_the_benefits_of_nano_summarized/))
-- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency. ([Mastering Monero](https://masteringmonero.com/))
+- [Monero](https://github.com/monero-project/monero) - Secure, private, untraceable cryptocurrency. ([Mastering Monero](https://masteringmonero.com/)) ([Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf))
 - [Libra](libra.md)
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.

@@ -208,3 +208,4 @@
 - [Swift Actors: A practical example, part 1 (2021)](https://trycombine.com/posts/swift-actors/) ([HN](https://news.ycombinator.com/item?id=27104376))
 - [PlotPlayground](https://github.com/JohnSundell/PlotPlayground) - Swift playground that comes pre-loaded with Plot, that can be used to explore the new component API.
 - [Useful Swift Things](https://github.com/jphong1111/Useful_Swift) - List of useful iOS & Swift stuff.
+- [SwiftLee Jobs](https://www.swiftleejobs.com/) - Find your next Swift job.

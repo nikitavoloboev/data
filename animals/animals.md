@@ -88,3 +88,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Forming eye contact is important in dog–human communication](https://www.nature.com/articles/s41598-021-88702-w)
 - [How much do cats actually kill? [Infographic]](https://theoatmeal.com/comics/cats_actually_kill)
 - [The Bobcats on Monday](https://theoatmeal.com/comics/bobcats_monday)
+- [In the Deep Sea, Animals Abound](http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound) ([HN](https://news.ycombinator.com/item?id=27263609))

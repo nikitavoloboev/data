@@ -192,3 +192,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What’s the last 10/10 video game you played? (2021)](https://twitter.com/patrick_oshag/status/1376214010895405065)
 - [IGDB.com](https://www.igdb.com/discover) - Video game database.
 - [Awesome Programming Games](https://github.com/readyready15728/awesome-programming-games)
+- [Ask HN: What are some things you learnt from a game that changed your life? (2021)](https://news.ycombinator.com/item?id=27259095)
