@@ -72,3 +72,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Ask HN: Solo developer, what's your recipe to start working? (2021)](https://news.ycombinator.com/item?id=26747318)
 - [Efficiency Is the Enemy (2021)](https://fs.blog/2021/05/slack/) ([HN](https://news.ycombinator.com/item?id=27036695))
 - [Multitasking hurts performance and may even damage the brain (2018)](https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/) ([HN](https://news.ycombinator.com/item?id=27042151))
+- [In praise of structured time](https://twitter.com/jongold/status/1397218299251990535)
