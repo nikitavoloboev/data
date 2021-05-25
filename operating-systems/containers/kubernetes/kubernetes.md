@@ -386,3 +386,4 @@
 - [Pinniped](https://github.com/vmware-tanzu/pinniped) - Easy, secure way to log in to your Kubernetes clusters. ([Web](https://pinniped.dev/))
 - [vcluster](https://github.com/loft-sh/vcluster) - Virtual Clusters For Kubernetes. ([Web](https://www.vcluster.com/))
 - [loft](https://loft.sh/) - Namespaces & Virtual Kubernetes Clusters For Engineering Teams. ([GitHub](https://github.com/loft-sh))
+- [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML. ([Web](https://k8s-examples.container-solutions.com/))

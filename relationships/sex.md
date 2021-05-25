@@ -58,3 +58,4 @@
 - [Swingers Reddit Wiki](https://www.reddit.com/r/Swingers/wiki/index)
 - [STIs explained (2021)](https://www.reddit.com/r/Swingers/comments/nduu53/we_really_need_to_talk_about_stis/)
 - [Modern Fertility](https://modernfertility.com/) - The fertility hormone test you can take at home.
+- [Whats your signature move your ex probably still fantasizes about? (2021)](https://www.reddit.com/r/sexover30/comments/njdowx/whats_your_signature_move_your_ex_probably_still/)

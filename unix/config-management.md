@@ -22,3 +22,4 @@
 - [Don’t use environment variables for configuration (2021)](https://nibblestew.blogspot.com/2021/03/never-use-environment-variables-for.html) ([HN](https://news.ycombinator.com/item?id=26656952))
 - [Beemo](https://github.com/beemojs/beemo) - Centralized configuration layer for dev tools. ([Web](https://beemo.dev/))
 - [LIBUCL](https://github.com/vstakhov/libucl) - Universal configuration library parser.
+- [Jerikan: a configuration management system for network teams (2021)](https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible)

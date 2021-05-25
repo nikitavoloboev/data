@@ -288,3 +288,4 @@
 - [Cinder](https://github.com/facebookincubator/cinder) - Instagram's performance oriented fork of CPython. ([HN](https://news.ycombinator.com/item?id=27043217))
 - [Asynchronous Tasks with FastAPI and Celery (2021)](https://testdriven.io/blog/fastapi-and-celery/)
 - [py2many](https://github.com/adsharma/py2many) - Python to CLike languages transpiler.
+- [Shrinking your Python application’s Docker image: an overview (2021)](https://pythonspeed.com/articles/smaller-docker-images/)

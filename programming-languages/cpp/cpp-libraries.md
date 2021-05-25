@@ -204,6 +204,7 @@
 - [Zadeh](https://github.com/atom-community/zadeh) - Blazing fast library for fuzzy filtering, matching, and other fuzzy things.
 - [Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. ([HN](https://news.ycombinator.com/item?id=27256686))
 - [AFF3CT](https://github.com/aff3ct/aff3ct) - Fast simulator and a library dedicated to the channel coding. ([Web](http://aff3ct.github.io/))
+- [Boost.Hof](https://github.com/boostorg/hof) - Higher-order functions for C++.
 
 ## Links
 
@@ -216,3 +217,4 @@
 - [Conan](https://github.com/conan-io/conan) - Decentralized, open-source, C/C++ package manager. ([Web](https://conan.io/))
 - [hdoc](https://hdoc.io/) - Modern C++ documentation tool. ([HN](https://news.ycombinator.com/item?id=26038816)) ([Code](https://github.com/hdoc/hdoc))
 - [Mason](https://github.com/mapbox/mason) - Cross-platform, command-line package manager for C/C++ applications.
+- [Boost C++ Libraries](https://www.boost.org/) - Free peer-reviewed portable C++ source libraries. ([GitHub](https://github.com/boostorg))

@@ -48,6 +48,7 @@
 - [The faster a space is moving, the more you need to bet on the people than the product.](https://twitter.com/scottbelsky/status/1391437978401116166)
 - [Startups never get faster over time, only slower. Your accumulating advantages & inevitable success need to kick in before entropy swallows you.](https://twitter.com/petegilligan/status/1393361203485892610)
 - [Startups are awesome because even if you fail, you’ll still succeed by way of getting one of the best learning experiences of your life.](https://twitter.com/mckaywrigley/status/1395073768549015553)
+- [Clerky or Stripe Atlas are top choices to make LLC](https://twitter.com/hswolff/status/1397200309227855879)
 
 ## Links
 

@@ -100,3 +100,4 @@
 - [Vue RFCs](https://github.com/vuejs/rfcs)
 - [ESLint plugin for Svelte v3 components](https://github.com/sveltejs/eslint-plugin-svelte3)
 - [Up and running with Svelte 3 (2021)](https://egghead.io/courses/getting-started-with-svelte-3-05a8541a)
+- [svelte-local-storage-store](https://github.com/joshnuss/svelte-local-storage-store) - Adds pub/sub to localStorage.
