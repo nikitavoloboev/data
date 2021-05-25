@@ -112,4 +112,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Exec Sum](https://execsum.co/) - Daily Finance & Business Newsletter.
 - [How to Get Rich without Being Lucky (2019)](https://nav.al/rich) ([HN](https://news.ycombinator.com/item?id=27245680))
 - [DeFi Beyond the Hype – Wharton (2021)](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf)
-- [Stripe Payment Links](https://stripe.com/payments/payment-links) - Create a payment page in just a few clicks and share the link with your customers. ([Tweet](https://twitter.com/stripe/status/1397246058166632456))
+- [Stripe Payment Links](https://stripe.com/payments/payment-links) - Create a payment page in just a few clicks and share the link with your customers. ([Tweet](https://twitter.com/stripe/status/1397246058166632456)) ([HN](https://news.ycombinator.com/item?id=27280096))

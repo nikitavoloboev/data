@@ -100,7 +100,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 ## Notes
 
-- [kernels are virtual machines and we write far better systems when we’re aware of what the VM underneath our programs is going to do to translate our use of memory, files, sockets and threads into things that happen in hardware](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [Kernels are virtual machines and we write far better systems when we’re aware of what the VM underneath our programs is going to do to translate our use of memory, files, sockets and threads into things that happen in hardware](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [We have moved away from a world of shared libraries, filesystems, and UNIX users and permissions into a world of shared-nothing (no shared memory, no shared filesystem), capabilities, new and extremely aggressive attack vectors, and a need to compartmentalize and virtualize at more fundamental layers even if it comes at a performance penalty. You can't retrofit a microkernel-like abstraction on top of Linux. At the same time, a lot of the features you need for a shared multi-user system are basically cruft for modern mobile, single-user systems with little use for shared resources (not saying they're not shared; it's just that you can no longer trust apps installed in the user system so expecting apps to behave nicely is out of the window). The new wave of OSes embraces formal correctness when possible, JIT, garbage-collected application programming languages, tightly-enforced resource boundaries, deny-by-default security models, provably-safe system programming languages (Rust and whatever else will come), immutability and copy-on-write at the cost of filesystem space, and secure memory abstractions for more RAM.](https://news.ycombinator.com/item?id=27280567)
 
 ## Links
 

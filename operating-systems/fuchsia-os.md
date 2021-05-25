@@ -1,5 +1,9 @@
 # [Fuchsia OS](https://fuchsia.dev/)
 
+## Notes
+
+- [Fuchsia solves very realistic problem: building a clean driver interface, while keep it open and gain hardware vendor support.](https://news.ycombinator.com/item?id=27280567)
+
 ## Links
 
 - [Fuchsia OS Introduction (2019)](https://bzdww.com/article/163937/) ([HN](https://news.ycombinator.com/item?id=19485121))
