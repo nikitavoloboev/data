@@ -1,5 +1,10 @@
 # Color
 
+## Nice gradients
+
+- [1](https://components.ai/gradient/ZkZ7AP11YnaNf2SuDTt6?tab=editor)
+- [2](https://components.ai/gradient/p1DA8pSJI7vVfAeFkgXU?tab=editor)
+
 ## Links
 
 - [Color Hunt](http://colorhunt.co/)

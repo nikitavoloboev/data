@@ -54,3 +54,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [The 25 Principles for Adult Behavior](https://www.openculture.com/2018/02/the-25-principles-for-adult-behavior.html)
 - [Awesome Engineering Team Principles](https://github.com/posquit0/awesome-engineering-team-principles)
 - [How to build nice company culture (in Russian) (2021)](https://twitter.com/the2pizza/status/1388478059519651845)
+- [Conscious Culture](https://conscious.org/) - Bridging Humanity with Execution.

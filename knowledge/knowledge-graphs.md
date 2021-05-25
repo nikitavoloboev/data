@@ -76,3 +76,4 @@
 - [KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora (2021)](https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html) ([HN](https://news.ycombinator.com/item?id=27233470))
 - [An Introduction to Knowledge Graphs (2021)](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/) ([HN](https://news.ycombinator.com/item?id=27245696))
 - [Language Models are Open Knowledge Graphs (2020)](https://arxiv.org/abs/2010.11967) ([Code](https://github.com/theblackcat102/language-models-are-knowledge-graphs-pytorch))
+- [KgBase](https://www.kgbase.com/) - No-code knowledge graphs.

@@ -96,3 +96,4 @@
 - [Lift](https://github.com/getlift/lift) - Easily deploy well-designed serverless applications on AWS.
 - [vHive](https://github.com/ease-lab/vhive) - Open-source framework for serverless experimentation.
 - [Go SDK for Serverless Workflow](https://github.com/serverlessworkflow/sdk-go)
+- [The State of Serverless (2021)](https://www.datadoghq.com/state-of-serverless/)

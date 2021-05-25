@@ -224,3 +224,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Justin Drake - Ethereum: Into the Ether (2021)](https://www.joincolossus.com/episodes/14242194/drake-ethereum-into-the-ether?tab=blocks)
 - [Rainbow](https://rainbow.me/) - Explore the new world of Ethereum.
 - [Superfluid](https://www.superfluid.finance/) - Programmable money streams on Ethereum.
+- [Arbitrum](https://arbitrum.io/) - Optimistic Rollup built to scale Ethereum.
+- [Ethereum Developer Resources](https://ethereum.org/en/developers/)
