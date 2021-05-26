@@ -152,3 +152,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How Blockchains Work (2021)](https://asthasr.github.io/posts/how-blockchains-work/)
 - [Web 2 to Web 3 (2021)](https://twitter.com/dabit3/status/1397247252251521026)
 - [How and when did NFTs start? How are they evolving? (2021)](https://twitter.com/muneeb/status/1397204583710134281)
+- [Internet Computer](https://dfinity.org/) - Extends the public Internet so it can natively host websites , software systems, open internet services and DeFi systems. ([GitHub](https://github.com/dfinity))

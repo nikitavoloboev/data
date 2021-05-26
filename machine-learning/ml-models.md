@@ -28,3 +28,4 @@
 - [Gradio](https://www.gradio.app/) - Generate an easy-to-use UI for your ML model, function, or API with only a few lines of code. ([Code](https://github.com/gradio-app/gradio))
 - [Awesome Model Quantization](https://github.com/htqin/awesome-model-quantization)
 - [Tracking the Performance of Your Machine Learning Models With MLflow (2021)](https://muttdata.ai/blog/2021/02/12/ml-flow.html)
+- [Counterfit](https://github.com/Azure/counterfit) - CLI that provides a generic automation layer for assessing the security of ML models.

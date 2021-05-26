@@ -241,6 +241,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Скриптонит - Одно и то же [Live]](https://www.youtube.com/watch?v=axPNG8IzQ_Y)
 - [Khrystyna Soloviy - Trymai (Live)](https://www.youtube.com/watch?v=3sZbAymNGf4)
 - [Julia Jacklin - Don't Know How to Keep Loving You](https://www.youtube.com/watch?v=N9TT5kO4p7Q)
+- [Margaret Glaspy performs "Parental Guidance"](https://www.youtube.com/watch?v=sOsJfKWbgdQ)
 
 ## Mixes
 

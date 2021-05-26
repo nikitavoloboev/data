@@ -39,6 +39,7 @@ Learning to build [startups](startups/startups.md).
 - [Business is just an elaborate excuse to make friends with interesting people.](https://twitter.com/awilkinson/status/1390741017079422979)
 - [Having a flat company structure sounds great until you've lived it. Companies need structure and hierarchy to work.](https://twitter.com/iamharaldur/status/1395084530609004549)
 - [A small team of great engineers can make just a shocking amount of progress. This is one of the most unintuitive things for business people who tend to think more linearly in terms of team size vs. output.](https://twitter.com/jaltma/status/1395479778346426372)
+- [Most large companies are incompetent at doing or thinking about anything beyond their core competency.](https://twitter.com/austin_rief/status/1397526266442625032)
 
 ## Links
 
@@ -85,3 +86,4 @@ Learning to build [startups](startups/startups.md).
 - [Netflix's strategy of managing "complexity" and "creativity"](https://twitter.com/TrungTPhan/status/1395389066703622145)
 - [Profit Sharing (2020)](https://paul.copplest.one/blog/profit-sharing.html) - How to compensate employees.
 - [Decision making framework businesses and startups](https://paul.copplest.one/levels/business.html#general)
+- [Colossus](https://www.joincolossus.com/) - Best information on business building and investing.

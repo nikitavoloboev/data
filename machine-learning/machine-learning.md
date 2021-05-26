@@ -11,6 +11,7 @@
 - Almost all of machine learning is about representing data as vectors and performing linear and non-linear transformations in order to perform classification, regression, etc.
 - Most of ML is fitting models to data. To fit a model you minimize some error measure as a function of its real valued parameters, e.g. the weights of the connections in a neural network. The algorithms to do the minimization are based on gradient descent, which depends on derivatives, i.e. differential calculus.
 - [Learn optimization before studying machine learning if you really want to understand what's going on.](https://twitter.com/Adam235711/status/1391067131169574914)
+- [What idiot called it "machine learning" instead of "bias automation".](https://twitter.com/fasterthanlime/status/868840530813353985)
 
 ## Links
 
@@ -475,3 +476,4 @@
 - [Find Trending Machine Learning Research Papers on Twitter](https://papers.labml.ai/papers/daily)
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/Jannoshh/simple-sam))
 - [Apple - Making Mobile Applications Accessible with Machine Learning (2021)](https://machinelearning.apple.com/research/mobile-applications-accessible)
+- [NYU Deep Learning Spring 2021](https://github.com/Atcold/NYU-DLSP21) ([Videos](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI))

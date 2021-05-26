@@ -213,3 +213,4 @@
 - [GraphQL Bench](https://github.com/hasura/graphql-bench) - Super simple tool to benchmark GraphQL queries.
 - [GraphQL Code Generator plugin for generating Go](https://github.com/ctison/graphql-codegen-golang)
 - [graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state.
+- [Sudograph](https://github.com/sudograph/sudograph) - GraphQL database for the Internet Computer. Greatly simplifies CRUD development by providing GraphQL queries and mutations derived directly from your GraphQL schema.

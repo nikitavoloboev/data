@@ -39,7 +39,7 @@
 - [Compact server for private LoRaWAN networks](https://github.com/gotthardp/lorawan-server)
 - [Introduction to LoRaWAN and The Things Network (2019)](https://channel9.msdn.com/Shows/Internet-of-Things-Show/Introduction-to-LoRaWAN-and-The-Things-Network)
 - [Technical overview of LoRa and LoRaWAN](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf)
-- [The Things Stack](https://thethingsstack.io) - Open Source LoRaWAN Network Server. ([Code](https://github.com/TheThingsIndustries/lorawan-stack-docs))
+- [The Things Stack](https://thethingsstack.io) - Open Source LoRaWAN Network Server. ([Code](https://github.com/TheThingsIndustries/lorawan-stack-docs)) ([Docs](https://www.thethingsindustries.com/docs/))
 - [Securing LoRaWAN with Secure Elements (2019)](https://www.linkedin.com/pulse/securing-lorawan-secure-elements-johan-stokking/)
 - [The Things Conference 2020](https://www.youtube.com/watch?v=0eOpMDffbQ0)
 - [The LoraWan Pager](https://hackaday.io/project/22038-the-lorawan-pager) - Open telecommunicator device, independent from SIM CARDS and Telecom providers.
