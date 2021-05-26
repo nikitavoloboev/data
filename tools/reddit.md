@@ -15,3 +15,4 @@
 - [Reddit Bests](https://redditbests.com/) - Most popular products on Reddit.
 - [Reddit Search](https://camas.github.io/reddit-search/) - Search engine for Reddit indexable by user, subreddit, and date. ([Code](https://github.com/camas/reddit-search/)) ([HN](https://news.ycombinator.com/item?id=26867693))
 - [Advanced Reddit search](https://redditsearch.io/)
+- [FindAReddit](https://www.findareddit.com/) - Find Subreddits for your Niche. ([HN](https://news.ycombinator.com/item?id=27293902))

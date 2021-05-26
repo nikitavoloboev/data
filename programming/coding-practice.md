@@ -84,3 +84,4 @@
 - [Solving Advent of Code 2020 in under a second (2021)](https://timvisee.com/blog/solving-aoc-2020-in-under-a-second/)
 - [5 years of leetcode with no progress. I'm giving up (2021)](https://news.ycombinator.com/item?id=26468248)
 - [Google Interview Questions Articles](https://alexgolec.dev/tag/google-interview-questions/)
+- [Решаем LeetCode на сложности Hard (2021)](https://www.youtube.com/watch?v=LtPDRjEXMBI)
