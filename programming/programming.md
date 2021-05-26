@@ -396,3 +396,4 @@
 - [Effective Code Review](https://github.com/jspahrsummers/effective-code-review/blob/main/Effective%20Code%20Review.pdf)
 - [How necessary are the programming fundamentals? (2021)](https://swiftrocks.com/how-necessary-are-the-programming-fundamentals.html) ([HN](https://news.ycombinator.com/item?id=27193415))
 - [Learn the Basics of Programming in 20 Minutes](https://easylang.online/apps/tutorial_learn_programming.html)
+- [Ask HN: Is it better to generalize or specialize as a developer? (2021)](https://news.ycombinator.com/item?id=27285144)

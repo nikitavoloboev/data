@@ -114,3 +114,4 @@
 - [Efficient SQL on Pandas with DuckDB (2021)](https://duckdb.org/2021/05/14/sql-on-pandas.html)
 - [SQL](https://github.com/nearform/sql) - SQL injection protection module.
 - [DuoRAT: Towards Simpler Text-to-SQL Models (2020)](https://arxiv.org/abs/2010.11119) ([Code](https://github.com/ElementAI/duorat))
+- [SQL Jobber](https://github.com/knadh/sql-jobber) - Lightweight SQL job-server for scaling read queries. ([HN](https://news.ycombinator.com/item?id=27285237))
