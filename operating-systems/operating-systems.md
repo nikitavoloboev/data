@@ -225,3 +225,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Loose ideas for operating systems (2021)](https://sporks.space/2021/05/09/loose-ideas-for-operating-systems/)
 - [An Incremental Path Towards a Safer OS Kernel (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s09-li.pdf)
 - [Urbit: The good, the bad, and the insane (2021)](https://wejn.org/2021/02/urbit-good-bad-insane/) ([HN](https://news.ycombinator.com/item?id=27268462)) ([Lobsters](https://lobste.rs/s/prlffn/urbit_good_bad_insane))
+- [Overview: Capability Computation](http://www.erights.org/elib/capability/overview.html)

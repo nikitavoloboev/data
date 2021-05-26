@@ -80,3 +80,4 @@
 - [SRE at Google: Our complete list of CRE life lessons (2021)](https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons)
 - [Bad Machinery: Managing Interrupts Under Load](https://log.andvari.net/pages/bad-machinery.html)
 - [Securing DevOps: Security in the Cloud (2018)](https://www.manning.com/books/securing-devops)
+- [Craft](https://github.com/getsentry/craft) - Universal Release Tool (And More).

@@ -56,3 +56,4 @@
 - [LogRocket](https://logrocket.com/) - Modern Frontend Monitoring and Product Analytics.
 - [Essential list of resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Никита Мостовой: перфоманс фронтенд приложений (2020)](https://www.youtube.com/watch?v=TtTtbioaPOk)
+- [Front End Happy Hour Podcast](http://frontendhappyhour.com/)

@@ -331,6 +331,7 @@ Here are few more things I liked, design wise.
 - [Jamie McHale](https://www.jamiemchale.com/)
 - [Cassie Evans](https://www.cassie.codes/) ([Code](https://github.com/cassieevans/personal-site-2019))
 - [Mackenzie Child](https://www.mackenziechild.me/)
+- [Gadzhi Kharkharov](https://kkga.me/)
 - [Serge Zaitsev](https://zserge.com/)
 - [Wilhelm Klopp](https://wilhelmklopp.com/)
 - [Jason Lengstorf](https://www.jason.af/)

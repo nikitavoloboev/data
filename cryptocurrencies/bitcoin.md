@@ -145,3 +145,5 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [We Use Coins](https://www.weusecoins.com/) ([Code](https://github.com/sunnankar/wuc-new))
 - [Bitcoin Is Civilization (2021)](https://bariweiss.substack.com/p/is-bitcoin-anarchy-or-civilization) ([Tweet](https://twitter.com/APompliano/status/1393230162649616387)) ([Summary](https://twitter.com/balajis/status/1393240816198426630?s=28))
 - [Bitcoin is not an asset that protects against inflation (2021)](https://www.reddit.com/r/investing/comments/ngamt2/can_we_please_throw_out_the_idea_that_bitcoin_is/)
+- [Fold](https://foldapp.com/) - Best Way to Earn Bitcoin Rewards.
+- [Sidecar Channels: For Onboarding A Billion People to Bitcoin, Lightning Is Needed (2021)](https://lightning.engineering/posts/2021-05-26-sidecar-channels/)

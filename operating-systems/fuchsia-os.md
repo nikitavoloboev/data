@@ -3,6 +3,7 @@
 ## Notes
 
 - [Fuchsia solves very realistic problem: building a clean driver interface, while keep it open and gain hardware vendor support.](https://news.ycombinator.com/item?id=27280567)
+- [One of the most interesting aspects of Google's newly released Fuchsia OS is the use of an object capability ("OCap") security model.](https://twitter.com/bascule/status/1397576763572584457)
 
 ## Links
 
