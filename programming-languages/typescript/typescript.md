@@ -154,6 +154,7 @@
 - [types-sync](https://github.com/maddhruv/types-sync) - Keep your types in sync with DefinitelyTyped - auto install/uninstall types for dependencies on postinstall.
 - [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
 - [Functional TypeScript in Production Systems (2021)](https://antman-does-software.com/functional-typescript-in-production-systems)
+- [TypeScript: Sorting out tsconfig (2021)](https://dev.to/barinbritva/typescript-spelling-out-tsconfig-part-1-3nak)
 
 ## Images
 

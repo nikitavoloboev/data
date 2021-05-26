@@ -78,3 +78,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX Best Practices](https://github.com/simonharrer/latex-best-practices)
 - [TeXmacs and the Art of Mathematical Writing](https://texmacs.github.io/notes/docs/art-of-math-writing.html) ([HN](https://news.ycombinator.com/item?id=27024260))
 - [HaTeX](https://github.com/Daniel-Diaz/HaTeX) - Haskell library that implements the LaTeX syntax, plus some abstractions on top.
+- [finl is not LaTeX – Reinventing LaTeX for the twenty-first century](https://www.finl.xyz/) ([Lobsters](https://lobste.rs/s/udu5oe/finl_is_not_latex_reinventing_latex_for))

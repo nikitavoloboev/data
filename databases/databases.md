@@ -350,3 +350,4 @@
 - [Experience with using NoSQL for a startup (2021)](https://twitter.com/alexbdebrie/status/1394966974443266048)
 - [Common data model mistakes made by startups](https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html) ([HN](https://news.ycombinator.com/item?id=27248093))
 - [Easily Build Advanced Similarity Search With The Pinecone Vector Database (2021)](https://www.dataengineeringpodcast.com/pinecone-vector-database-similarity-search-episode-189/)
+- [Minimal Modeling Blog](https://minimalmodeling.substack.com/) - Dedicated to in-depth discussion of all kinds of topics related to the database modeling.
