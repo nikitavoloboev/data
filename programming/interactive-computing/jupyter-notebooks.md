@@ -125,3 +125,4 @@
 - [nbviewer.js](https://github.com/kokes/nbviewer.js) - Client side rendering of Jupyter notebooks.
 - [nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal.
 - [black-nb](https://github.com/tomcatling/black-nb) - Runs black on code cells in a Jupyter notebook.
+- [Deepnote CTO interview – Using K8s for real-time Jupyter collaboration (2021)](https://console.dev/interviews/deepnote-jan-matas/)

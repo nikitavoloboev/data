@@ -242,3 +242,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Observing my cellphone switch towers (2021)](https://fabiensanglard.net/lte/index.html) ([HN](https://news.ycombinator.com/item?id=27171860))
 - [Preparing your game for deterministic netcode (2021)](https://yal.cc/preparing-your-game-for-deterministic-netcode/) ([HN](https://news.ycombinator.com/item?id=27253890))
 - [BGP introduction, all you need to know to start (2021)](https://www.samovergre.com/2021/05/25/bgp-part-1-atlas-of-the-internet/) ([HN](https://news.ycombinator.com/item?id=27279587))
+- [FRRouting](https://github.com/FRRouting/frr) - Software that implements and manages various IPv4 and IPv6 routing protocols. ([Web](https://frrouting.org/))

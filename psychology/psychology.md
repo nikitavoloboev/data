@@ -18,3 +18,5 @@
 - [Book Review: Antifragile (2021)](https://astralcodexten.substack.com/p/book-review-antifragile) ([HN](https://news.ycombinator.com/item?id=26561327))
 - [Maslow Got It Wrong (2021)](https://gatherfor.medium.com/maslow-got-it-wrong-ae45d6217a8c)
 - [Why People Feel Like Victims (2021)](https://nautil.us/issue/99/universality/why-people-feel-like-victims) ([HN](https://news.ycombinator.com/item?id=27067543))
+- [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
+- [The Methods of Rationality Podcast](https://hpmorpodcast.com/)

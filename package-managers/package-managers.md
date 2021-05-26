@@ -29,3 +29,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Ask HN: What is the most complex concept you understand? (2021)](https://www.youtube.com/watch?v=iBaqOK75cho)
 - [UPM](https://github.com/replit/upm) - Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [Version SAT: Climbing Out the Dependency Hell](https://research.swtch.com/version-sat)
+- [Deps](https://github.com/dropseed/deps) - Command line tool for staying on top of dependencies. It runs updates, automates pull requests, and keeps your local installations in check.

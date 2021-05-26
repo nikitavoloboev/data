@@ -104,3 +104,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [The TIE](https://www.thetie.io/) - Data and Technology for Digital Assets. ([Research](https://research.thetie.io/))
 - [Ban Cryptocurrency to Fight Ransomware (2021)](https://www.wsj.com/articles/ban-cryptocurrency-to-fight-ransomware-11621962831) ([Tweet](https://twitter.com/leereiners/status/1397254301253345287))
 - [CryptoFees.info](https://cryptofees.info/) - Cryprocurrencies fee analyzer.
+- [All Cryptos by Year/Month](https://washingtonindependent.com/all-cryptos-by-year-month/)

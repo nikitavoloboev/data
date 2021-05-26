@@ -230,3 +230,4 @@
 - [Quasi-Recurrent Neural Networks (2016)](https://arxiv.org/abs/1611.01576) ([Code](https://github.com/salesforce/pytorch-qrnn))
 - [deepdream.c](https://github.com/znah/deepdream_c) - Experiment trying to implement Convolutional Neural Network inference and back-propagation using a minimal subset of C89 language and standard library features.
 - [Adapting Neural Networks for the Estimation of Treatment Effects (2018)](https://arxiv.org/abs/1906.02120) ([Code](https://github.com/claudiashi57/dragonnet))
+- [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/abs/2104.14516) ([Code](https://github.com/zawagner22/cross-entropy-for-combinatorics))
