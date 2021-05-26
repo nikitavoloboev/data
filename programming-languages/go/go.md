@@ -480,3 +480,4 @@ Go promotes composition over inheritance.
 - [Go With The Domain](https://threedots.tech/go-with-the-domain/) - Building Modern Business Software in Go. ([HN](https://news.ycombinator.com/item?id=27140724))
 - [Learning Go Book (2021)](https://www.oreilly.com/library/view/learning-go/9781492077206/) - Idiomatic Approach to Real-World Go Programming. ([Review](https://bitfieldconsulting.com/golang/jon-bodner-learning-go))
 - [Constant-Time Big Numbers: An Introduction (2021)](https://cronokirby.com/posts/2021/04/constant-time-big-numbers-introduction/)
+- [How to best use Go for writing web services (2021)](https://www.reddit.com/r/golang/comments/njydij/after_2_years_of_django_im_starting_using_go_for/)

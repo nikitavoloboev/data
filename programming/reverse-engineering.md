@@ -84,3 +84,4 @@
 - [Reverse-engineering the standard-cell logic inside a vintage IBM chip (2021)](http://www.righto.com/2021/03/reverse-engineering-standard-cell-logic.html)
 - [Tenet](https://github.com/gaasedelen/tenet) - Trace Explorer for Reverse Engineers. ([Article](https://blog.ret2.io/2021/04/20/tenet-trace-explorer/))
 - [Reverse Engineering an Unknown Microcontroller](https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller) ([HN](https://news.ycombinator.com/item?id=27128531))
+- [Nightmare](https://github.com/guyinatuxedo/nightmare) - Intro to binary exploitation / reverse engineering course based around ctf challenges.
