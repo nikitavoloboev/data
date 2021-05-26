@@ -98,7 +98,7 @@ And [here](https://epictools.dev/notes/997aa0e2-f452-425a-b752-122dbd8f62e6.html
 - [Vitals](https://github.com/hmarr/vitals) - Tiny macOS process monitor.
 - [Patchman](https://github.com/PraneetNeuro/Patchman) - MacOS application to test APIs with HTTP methods (Decluttered Postman).
 - [System Color Picker](https://sindresorhus.com/system-color-picker) - macOS color picker as an app with more features. ([Code](https://github.com/sindresorhus/System-Color-Picker))
-- [Unexpectedly](https://github.com/packagesdev/unexpectedly) - macOS utility to browse crash logs.
+- [Unexpectedly](https://github.com/packagesdev/unexpectedly) - macOS utility to browse crash logs. ([Web](http://s.sudre.free.fr/Software/Unexpectedly/about.html))
 
 ## Other interesting apps
 

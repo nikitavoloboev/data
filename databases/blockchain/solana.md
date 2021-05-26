@@ -40,3 +40,4 @@
 - [Solana Questions (2021)](https://twitter.com/baalazamon/status/1396486458324701189)
 - [Exploring the Solana Ecosystem (2021)](https://research.thetie.io/solana-ecosystem/)
 - [Step Finance](https://step.finance/) - Front page of Solana. Visualize, Analyze, Execute and Aggregate transactions across all Solana contracts in one place. ([Twitter](https://twitter.com/StepFinance_))
+- [Solana overview to average non technical reader (2021)](https://twitter.com/srinathariharan/status/1396916432202502152)

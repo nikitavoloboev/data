@@ -130,3 +130,4 @@
 - [10 things I learned making the fastest site in the world (2016)](https://medium.com/hackernoon/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 - [Improving performance at scale (2021)](https://www.notion.so/Improving-performance-at-scale-432a23dc5607416cafb5f82360e5f157)
 - [Google I/O AMA: Web runtime performance (2021)](https://events.google.com/io/session/fa14e5ee-a3e2-408c-b0fc-6a8f427411d5?lng=en)
+- [How to not get sucked into performance micro-optimization territory (2021)](https://twitter.com/JoshWComeau/status/1397559162477895681)

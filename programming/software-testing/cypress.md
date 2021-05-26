@@ -31,3 +31,4 @@
 - [Cypress Fail Fast](https://github.com/javierbrea/cypress-fail-fast) - Cypress plugin to skip tests on first failure.
 - [Visual testing with Cypress and Percy](https://github.com/percy/percy-cypress)
 - [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots)
+- [A Practical Guide to Intercepting Network Requests in Cypress](https://egghead.io/blog/intercepting-network-requests-in-cypress)
