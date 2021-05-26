@@ -97,3 +97,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [10 Positions Chess Engines Just Don't Understand (2021)](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
 - [How To Become A Chess Grandmaster (2021)](https://www.youtube.com/watch?v=X4nTq2XPvAc)
 - [Sultan Khan: The Best Unknown Chess Player Who Ever Lived (2021)](https://www.youtube.com/watch?v=8Jhv4F8NGe8)
+- [7 BEST Queen Sacrifices In Chess History! (2021)](https://www.youtube.com/watch?v=_JzChhH-id0)

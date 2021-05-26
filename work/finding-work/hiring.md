@@ -39,6 +39,7 @@
 - [Every employee’s one thing was unique, and everyone knew I would evaluate him only on that one thing.](https://twitter.com/Austen/status/1388612463768215553)
 - [Normalize telling candidates when their ask is significantly below market rate. Nothing cute about underpaying people who are still figuring things out.](https://twitter.com/TheYelitsa/status/1394757802422423555)
 - [Offer both early exercises and 10 year extended exercise window. Do it right after you raise a priced round and start granting options. That way you only have to change few lines in the options plan. It will be more painful to do later.](https://twitter.com/karrisaarinen/status/1397561196232863754)
+- [Day Bridge options can be exercised as soon as they vest, and can be exercised long after you leave. You can also leave before fully vesting. They are also EMI approved (very tax efficient) and the strike price is currently ~£0.](https://twitter.com/kieranmch/status/1397612206800375816)
 
 ## Links
 

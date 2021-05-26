@@ -436,6 +436,7 @@ Here are few more things I liked, design wise.
 - [Mathias Schäfer](https://molily.de/)
 - [Wildan Zulfikar](https://wzulfikar.com/)
 - [Marvin Schwaibold](https://www.marvinschwaibold.com/)
+- [Virginia Hanusik](http://www.virginiahanusik.com/)
 - [Martin Lexow](https://martinlexow.de/)
 - [Paul Shen](https://bypaulshen.com/)
 - [Ian Jones](https://www.ianjones.us/) ([Code](https://github.com/theianjones/blog))

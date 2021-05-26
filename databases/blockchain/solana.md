@@ -41,3 +41,6 @@
 - [Exploring the Solana Ecosystem (2021)](https://research.thetie.io/solana-ecosystem/)
 - [Step Finance](https://step.finance/) - Front page of Solana. Visualize, Analyze, Execute and Aggregate transactions across all Solana contracts in one place. ([Twitter](https://twitter.com/StepFinance_))
 - [Solana overview to average non technical reader (2021)](https://twitter.com/srinathariharan/status/1396916432202502152)
+- [Multicoin Capital: Technical Scalability Creates Social Scalability (2021)](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) ([Tweet](https://twitter.com/KyleSamani/status/1397602061932433411))
+- [Solana Season Hackathon](https://solana.com/solanaszn)
+- [Solana Ecosystem](https://solana.com/ecosystem)
