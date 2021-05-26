@@ -485,3 +485,4 @@
 - [Awesome Rust Security](https://github.com/ex0dus-0x/awesome-rust-security)
 - [Writing Pythonic Rust (2021)](http://www.cmyr.net/blog/rust-python-learnings.html) ([HN](https://news.ycombinator.com/item?id=27267066))
 - [Routing traffic in Rust using eBPF (2021)](https://www.infinyon.com/blog/2021/05/ebpf-routing-rust/)
+- [Rust is a wave of the future (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture) ([Lobsters](https://lobste.rs/s/tl5zpc/rust_is_wave_future)) ([HN](https://news.ycombinator.com/item?id=27278180))

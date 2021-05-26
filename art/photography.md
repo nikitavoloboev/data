@@ -123,3 +123,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [My full two-year film and photography journey | equipment, pricing, & crippling social anxiety! (2020)](https://www.youtube.com/watch?v=iPV56hBnv4w)
 - [Why are modern 50mm lenses so damned complicated? (2021)](https://www.dpreview.com/opinion/9236543269/why-are-modern-50mm-lenses-so-damned-complicated) ([HN](https://news.ycombinator.com/item?id=27104271)) ([Reddit](https://www.reddit.com/r/photography/comments/n8jcde/explaining_why_modern_50mm_lenses_so_damned/))
 - [Life as a 1990s Russian newspaper photographer, shooting on a cheap Soviet camera (2021)](https://kosmofoto.com/2021/03/life-as-a-1990s-russian-newspaper-photographer-shooting-on-a-zenit-e/) ([HN](https://news.ycombinator.com/item?id=27170776))
+- [How do I properly photograph against light? (2021)](https://www.reddit.com/r/photography/comments/nj7hof/got_my_first_real_camera_how_do_i_properly/)
