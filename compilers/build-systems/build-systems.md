@@ -63,3 +63,4 @@
 - [Comparing the New Generation of Build Tools (2021)](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
 - [Blade Build System](https://github.com/chen3feng/blade-build) - Easy-to-use, fast and modern build system for trunk based development in large scale monorepo codebase.
 - [Escaping AutoHell: A Vision for Automated Analysis and Migration of Autotools Build Systems (2016)](https://www.cs.cmu.edu/~ckaestne/pdf/releng16.pdf)
+- [Using CMake and Managing Dependencies (2021)](https://eliasdaler.github.io/using-cmake/) ([HN](https://news.ycombinator.com/item?id=27265074))

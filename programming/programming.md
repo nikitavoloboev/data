@@ -205,7 +205,7 @@
 - [MIT 6.001 Structure and Interpretation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090) ([HN](https://news.ycombinator.com/item?id=23599263))
 - [If you can't delete code then you're stuck with it](https://www.christopherbiscardi.com/post/if-you-cant-delete-code-then-youre-stuck-with-it)
 - [Dynamic linking (2020)](https://drewdevault.com/dynlib.html) ([Lobsters](https://drewdevault.com/dynlib.html)) ([HN](https://news.ycombinator.com/item?id=23654353))
-- [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean) ([Reddit](https://www.reddit.com/r/programming/comments/hhlvqq/its_probably_time_to_stop_recommending_clean_code/)) ([Lobsters](https://lobste.rs/s/twdhuk/it_s_probably_time_stop_recommending))
+- [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean) ([Reddit](https://www.reddit.com/r/programming/comments/hhlvqq/its_probably_time_to_stop_recommending_clean_code/)) ([Lobsters](https://lobste.rs/s/twdhuk/it_s_probably_time_stop_recommending)) ([HN](https://news.ycombinator.com/item?id=27276706))
 - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/) ([HN](https://news.ycombinator.com/item?id=23630640))
 - [Programming Questions Quiz](https://questions.wizardzines.com/)
 - [Ways to explain code when told it doesn't make sense](https://softwareengineering.stackexchange.com/questions/411585/ways-to-explain-code-when-told-it-doesnt-make-sense)

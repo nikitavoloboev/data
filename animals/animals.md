@@ -89,3 +89,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [How much do cats actually kill? [Infographic]](https://theoatmeal.com/comics/cats_actually_kill)
 - [The Bobcats on Monday](https://theoatmeal.com/comics/bobcats_monday)
 - [In the Deep Sea, Animals Abound](http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound) ([HN](https://news.ycombinator.com/item?id=27263609))
+- [Biodiversity decline will require millions of years to recover (2021)](https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/) ([HN](https://news.ycombinator.com/item?id=27277329))
