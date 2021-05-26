@@ -49,3 +49,5 @@
 - [WebGL Cellular Automata](https://github.com/benpm/webgl-cellular-automata) - Multi-state 8-neighbor totalistic 2D cellular automata simulation written in WebGL, with support for random rule generation.
 - [Adversarial Reprogramming of Neural Cellular Automata (2021)](https://distill.pub/selforg/2021/adversarial/) ([HN](https://news.ycombinator.com/item?id=27068236))
 - [Conway’s Game of Life in SwiftUI](https://github.com/martinlexow/GameOfLife)
+- [Understanding Multiple Neighborhood Cellular Automata (2021)](https://slackermanz.com/understanding-multiple-neighborhood-cellular-automata/) ([HN](https://news.ycombinator.com/item?id=27287184))
+- [VulkanAutomata](https://github.com/Slackermanz/VulkanAutomata) - GPU-Accelerated Cellular Automata Render Engine using the Vulkan API.

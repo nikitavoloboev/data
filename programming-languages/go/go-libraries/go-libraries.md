@@ -224,7 +224,7 @@
 
 ## GUI
 
-- [Gio](https://gioui.org/) - Implements portable immediate mode GUI programs in Go. ([Code](https://github.com/gioui/gio))
+- [Gio](https://gioui.org/) - Implements portable immediate mode GUI programs in Go. ([Code](https://github.com/gioui/gio)) ([HN](https://news.ycombinator.com/item?id=27287270))
 - [ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
 - [Nucular](https://github.com/aarzilli/nucular) - GUI toolkit for go.
 - [Gorough](https://github.com/NovikovRoman/gorough) - Create graphics with a hand-drawn, sketchy, appearance. Based on Rough.js.

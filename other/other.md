@@ -484,3 +484,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [readme.so](https://readme.so/) - Simple editor allows you to quickly add and customize all the sections you need for your project's readme. ([Code](https://github.com/katherinepeterson/readme.so))
 - [Ultimate "What Do You Hoard" thread & Wiki link (2021)](https://www.reddit.com/r/DataHoarder/comments/ne6j3s/the_ultimate_what_do_you_hoard_thread_wiki_link/)
 - [Ask HN: Favorite purchases of last two years? (2021)](https://news.ycombinator.com/item?id=27219759)
+- [The Expanse UI Design (2021)](https://www.hudsandguis.com/home/2021/theexpanse) ([HN](https://news.ycombinator.com/item?id=27287912))

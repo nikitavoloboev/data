@@ -70,6 +70,7 @@
 - [Eytzinger Binary Search](https://algorithmica.org/en/eytzinger)
 - [Mazes for Programmers: Code Your Own Twisty Little Passages (2015)](https://pragprog.com/titles/jbmaze/mazes-for-programmers/)
 - [Papers anyone teaching algorithms & data should include (2021)](https://twitter.com/XandaSchofield/status/1387513839449645056)
+- [The fastest and shortest algorithm for all well-defined problems (2002)](https://arxiv.org/abs/cs/0206022) ([HN](https://news.ycombinator.com/item?id=27274897))
 
 ## Images
 

@@ -194,3 +194,4 @@
 - [Host a Next.js SSR app with real-time data on AWS Amplify (2021)](https://aws.amazon.com/blogs/mobile/host-a-next-js-ssr-app-with-real-time-data-on-aws-amplify/)
 - [A Complete Beginner's Guide to Next.js (2021)](https://welearncode.com/beginners-guide-nextjs/)
 - [How to embed Keystone + SQLite in a Next.js app](https://next.keystonejs.com/tutorials/embedded-mode-with-sqlite-nextjs)
+- [Building a SaaS Application with Next.js, Prisma, Auth0 and Stripe (2021)](https://egghead.io/blog/saas-app-with-nextjs-prisma-auth0-and-stripe)

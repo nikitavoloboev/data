@@ -48,6 +48,7 @@ Below is a list of extensions I use.
 ## Utility
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
+- [Dance](https://marketplace.visualstudio.com/items?itemName=gregoire.dance) - Kakoune-inspired key bindings for VSCode. ([Code](https://github.com/71/dance))
 - [Thinking in Data](https://marketplace.visualstudio.com/items?itemName=dynamicwebpaige.thinking-in-data) - VS Code extension pack to help users visualize, understand, and interact with data. ([Code](https://github.com/dynamicwebpaige/thinking-in-data))
 - [Live Frame](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-live-frame) - Run your web app inside VS Code. ([Code](https://github.com/jevakallio/vscode-live-frame))
 - [Excalidraw integration](https://marketplace.visualstudio.com/items?itemName=brijeshb42.vscode-excalidraw) - Create and edit excalidraw compatible files in vscode directly. ([Code](https://github.com/brijeshb42/vscode-excalidraw))

@@ -125,3 +125,4 @@
 - [Awesome Template Literal Types](https://github.com/ghoullier/awesome-template-literal-types)
 - [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.
 - [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.
+- [Grok](https://github.com/ui-js/grok) - Turns a TypeScript declaration file into a beautiful, readable, web page.
