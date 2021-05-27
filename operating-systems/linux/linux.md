@@ -317,3 +317,4 @@
 - [Fuzzing the Linux kernel (2021)](https://docs.google.com/presentation/d/19JaXHFMT-R2le6x-vPKw5D1Cxlw2aLtxHEIDwWBNXCQ/edit#slide=id.gda44520c30_7_54)
 - [Rust heads into the kernel? (2021)](https://lwn.net/Articles/853423/) ([HN](https://news.ycombinator.com/item?id=27248059))
 - [rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs.
+- [An Abridged Guide to the Enterprise Linux Landscape (2021)](https://www.linuxjournal.com/content/abridged-guide-enterprise-linux-landscape)

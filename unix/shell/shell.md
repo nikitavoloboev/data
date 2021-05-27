@@ -132,3 +132,4 @@ All active variables can be seen by running `env`.
 - [zx](https://github.com/google/zx) - JavaScript for Shell Scripting. ([Lobsters](https://lobste.rs/s/9yu5sl/after_discussion_here_i_created_lib_for)) ([HN](https://news.ycombinator.com/item?id=27072515))
 - [lazycli](https://github.com/jesseduffield/lazycli) - Turn static CLI commands into TUIs with ease.
 - [Quickly copy the output of the last shell command you ran (2021)](https://ianthehenry.com/posts/tmux-copy-last-command/)
+- [Performance optimizations for the shell prompt (2021)](https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/)

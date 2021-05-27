@@ -267,3 +267,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Internet explained from first principles](https://explained-from-first-principles.com/internet/)
 - [What’s the web dev equivalent of SICP? (2021)](https://news.ycombinator.com/item?id=27084854)
 - [mmm.page](https://build.mmm.page/) - Dead simple, drag & drop personal websites.
+- [The new responsive: Web design in a component-driven world (2021)](https://web.dev/new-responsive/)
