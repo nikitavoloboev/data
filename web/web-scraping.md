@@ -92,3 +92,4 @@
 - [SearchScraperAPI](https://github.com/EdmundMartin/SearchScraperAPI) - Implementation of an API, which allows you to scrape Google, Bing, Yandex, and Qwant.
 - [Scala Scraper](https://github.com/ruippeixotog/scala-scraper) - Scala library for scraping content from HTML pages.
 - [Next.js Web Scraper Playground](https://github.com/johnpolacek/nextjs-scraper-playground) - Build and test your own web scraper APIs with Next.js API Routes and cheerio. ([Web](https://nextjs-scraper-playground.vercel.app/))
+- [Scrapers List](https://github.com/cassidoo/scrapers)

@@ -403,6 +403,7 @@
 - [zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple.
 - [polliwog](https://github.com/lace/polliwog) - 2D and 3D computational geometry library which scales from prototyping to production.
 - [vg](https://github.com/lace/vg) - Linear algebra for humans.
+- [soundata](https://github.com/soundata/soundata) - Python library for loading & working with sound datasets.
 
 ## Links
 

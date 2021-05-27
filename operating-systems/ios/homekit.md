@@ -19,3 +19,4 @@
 - [esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Bring native Apple HomeKit support to any device based on an ESP8266/ESP8285 microcontroller.
 - [Arduino HomeKit ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266) - Native Apple HomeKit accessory implementation for the ESP8266 Arduino core.
 - [This Smart Home Isn’t Stupid (2021)](https://www.youtube.com/watch?v=85yH56DS5mg)
+- [esp-homekit](https://github.com/maximkulkin/esp-homekit) - Apple HomeKit accessory server library for ESP-OPEN-RTOS.

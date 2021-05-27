@@ -66,7 +66,7 @@
 - [On Deck](https://www.beondeck.com/openhouse) - Builds community around a cohort of experienced founders in the formative stages of starting a company. ([Angels](https://www.beondeck.com/angels))
 - [Indiegogo](https://www.indiegogo.com/) - Crowdfund Innovations & Support Entrepreneurs.
 - [fosspay](https://github.com/ddevault/fosspay) - Donation collection for FOSS groups and individuals.
-- [Coil](https://coil.com/) - Experience web monetized content in your browser while supporting sites you love in real time.
+- [Coil](https://coil.com/) - Experience web monetized content in your browser while supporting sites you love in real time. ([GitHub](https://github.com/coilhq))
 - [Ask HN: Are there any incubators for nonprofit startups? (2020)](https://news.ycombinator.com/item?id=23548935)
 - [What growth stage funds typically ask to see for diligence of early stage SaaS companies (2020)](https://threadreaderapp.com/thread/1275566984428548096.html)
 - [NLnet Foundation](https://nlnet.nl/) - Supports organizations and people that contribute to an open information society.

@@ -168,3 +168,4 @@
 - [Defense in depth: stopping a Wasm compiler bug before it became a problem (2021)](https://www.fastly.com/blog/defense-in-depth-stopping-a-wasm-compiler-bug-before-it-became-a-problem)
 - [WebAssembly Tour](https://github.com/thangchung/webassembly-tour)
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications. ([Web](https://wasmedge.org/))
+- [webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly.
