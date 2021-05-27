@@ -75,3 +75,4 @@
 - [Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out (2021)](https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/) ([HN](https://news.ycombinator.com/item?id=26750452))
 - [How Pfizer Makes Its Covid-19 Vaccine (2021)](https://www.nytimes.com/interactive/2021/health/pfizer-coronavirus-vaccine.html)
 - [Investigate the Origins of Covid-19 (2021)](https://www.reddit.com/r/science/comments/gk6y95/covid19_did_not_come_from_the_wuhan_institute_of/)
+- [Vaccines: A Measured Response (2021)](https://www.youtube.com/watch?v=8BIcAZxFfrc) ([Reddit](https://www.reddit.com/r/videos/comments/nlmtvu/vaccines_a_measured_response/))

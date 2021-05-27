@@ -93,3 +93,4 @@
 - [RISC-V ELF psABI Document](https://github.com/riscv/riscv-elf-psabi-doc) - Processor-specific application binary interface document for RISC-V.
 - [riscv-mini](https://github.com/ucb-bar/riscv-mini) - Simple RISC-V 3-stage pipeline written in Chisel.
 - [BlackParrot](https://github.com/black-parrot/black-parrot) - Linux-Capable Accelerator Host RISC-V Multicore.
+- [Build a RISC-V CPU From Scratch (2021)](https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch)

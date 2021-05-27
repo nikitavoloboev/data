@@ -97,3 +97,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Biggest obstacles in finding a partner (2021)](https://twitter.com/default_friend/status/1394765016964878339)
 - [Single men of Reddit in their 30s who have never had a girlfriend, how do you stay hopeful? (2021)](https://www.reddit.com/r/AskMen/comments/nfw4fm/single_men_of_reddit_in_their_30s_who_have_never/)
 - [What is the early stage of dating someone new supposed to look like? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nk0qki/what_is_the_early_stage_of_dating_someone_new/)
+- [«Почему изменяют нам, почему изменяем мы, почему изменяют с нами?» (2021)](https://www.youtube.com/watch?v=LpeXsr0rwK8)
