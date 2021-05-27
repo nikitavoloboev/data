@@ -47,3 +47,4 @@
 - [Type systems for programs respecting dimensions (2021)](https://fredriknf.com/papers/dimensions2021.pdf)
 - [Calculating Dependently-Typed Compilers (2021)](http://www.cs.nott.ac.uk/~pszgmh/well-typed.pdf)
 - [A Dependently Typed Assembly Language](https://www.cs.cmu.edu/~rwh/papers/dtal/icfp01.pdf)
+- [Checking Dependent Types with Normalization by Evaluation: A Tutorial (Haskell Version) (2019)](https://davidchristiansen.dk/tutorials/implementing-types-hs.pdf)

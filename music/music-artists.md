@@ -197,6 +197,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) - [Little Numbers Live](https://www.youtube.com/watch?v=IEng60LouQo)
 - [Nevidimka](https://open.spotify.com/artist/793iuHlWU5g7wYztpuHDZP) - [Звезда](https://open.spotify.com/track/05YZVXYxyj7XRwVJCSidzQ?si=ce3278a32f204ab7)
 - [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) - [Trymai](https://open.spotify.com/track/4LKfJMumpW7HyBT05uXYUx)
+- [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) - [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy)
 
 ## Nice lyrics
 
