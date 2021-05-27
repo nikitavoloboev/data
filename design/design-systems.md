@@ -61,6 +61,7 @@
 - [Shopify Polaris design tokens](https://github.com/Shopify/polaris-tokens)
 - [Material You](https://material.io/blog/announcing-material-you) - Next stage for Material Design. ([HN](https://news.ycombinator.com/item?id=27204720))
 - [Gestalt](https://github.com/pinterest/gestalt) - Set of React UI components that enforces Pinterest’s design language. ([Web](https://gestalt.netlify.app/))
+- [Woly UI Dev Kit](https://github.com/woly-ui/woly) - Modular design-system to build flexible UI.
 
 ## Notes
 

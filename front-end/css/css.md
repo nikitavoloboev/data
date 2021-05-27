@@ -315,3 +315,4 @@
 - [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
 - [25 Years of CSS (2021)](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/)
 - [CSS Container Queries: Use-Cases And Migration Strategies (2021)](https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/)
+- [Parsel](https://github.com/LeaVerou/parsel) - Tiny, permissive CSS selector parser. ([Web](https://projects.verou.me/))

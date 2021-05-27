@@ -401,6 +401,8 @@
 - [pyeasyga](https://github.com/remiomosowon/pyeasyga) - Simple and easy-to-use implementation of a Genetic Algorithm library in Python.
 - [mimic](https://github.com/reinderien/mimic) - Abusing Unicode to create tragedy.
 - [zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple.
+- [polliwog](https://github.com/lace/polliwog) - 2D and 3D computational geometry library which scales from prototyping to production.
+- [vg](https://github.com/lace/vg) - Linear algebra for humans.
 
 ## Links
 

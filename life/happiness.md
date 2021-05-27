@@ -50,6 +50,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [It is a pretty simple move, and also a very powerful move, to focus on what you like versus what you don’t like.](https://twitter.com/adamwathan/status/1376533386949488642)
 - [You don’t owe people to be attractive to them.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/n3x5bg/you_dont_owe_people_to_be_attractive_to_them/)
 - [The only thing that will make you feel better after breakup/hardships is time - and sadly you can’t fast forward that. Know that healing isn’t linear too.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/ncve9g/starting_over_at_28_im_scared_but_hopeful/)
+- [Nobody who is happy, successful, and fulfilled will ever hate on you.](https://twitter.com/ZubyMusic/status/1397662847077961728)
 
 ## Links
 

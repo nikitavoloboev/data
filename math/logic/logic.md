@@ -52,3 +52,4 @@
 - [Logic solver in Rust](https://github.com/qnighy/logic-solver-rs)
 - [You Can't Prove Everything That's True (2021)](https://www.youtube.com/watch?v=HeQX2HjkcNo) ([Lobsters](https://lobste.rs/s/o4ri2w/you_can_t_prove_everything_s_true))
 - [Five Stages of Accepting Constructive Mathematics (2017)](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf)
+- [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)

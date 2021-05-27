@@ -123,6 +123,7 @@
 - [Top 0.1% of marketing mental models (2021)](https://twitter.com/george__mack/status/1391824470977941516)
 - [Ask HN: Desperately need “sales for nerds” advice (2021)](https://news.ycombinator.com/item?id=27192884)
 - [How to quickly grow an online audience? A mix of writing, marketing, and startups. (2021)](https://twitter.com/Julian/status/1396901044429496329)
+- [160+ Platforms to get free traffic for your product (2021)](https://gumroad.com/l/free-traffic)
 
 ## Images
 
