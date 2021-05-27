@@ -35,6 +35,7 @@ Success comes from not giving up and doing what you love.
 - [If you like something, start talking about it. It will attract like-minded people: the best audience there is.](https://twitter.com/arvidkahl/status/1391146884891353089)
 - [There are two types of people: 1) I worked hard to get to where I am. No one gave me any breaks, so you're on your own. 2) I worked hard to get to where I am. Now I get to unlock doors for others. If you're the second type, you're my people. 💙](https://twitter.com/amandanat/status/1394791445349892096)
 - [So much of my growth as an IT person was "trying to put myself out of a job" by fixing things permanently. I just kept working on more and more advanced projects as my time freed up. So much in Enterprise has perverse incentives with managed providers where that doesn't happen.](https://twitter.com/SwiftOnSecurity/status/1395821219484680194)
+- [Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that.](https://twitter.com/SahilBloom/status/1397930673881731074)
 
 ## Links
 

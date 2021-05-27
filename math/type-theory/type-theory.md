@@ -134,3 +134,4 @@
 - [Synthetic mathematics with an excursion into computability theory (2021)](https://vimeo.com/510188470)
 - [Counterexamples in Type Systems](http://counterexamples.org/) ([Code](https://github.com/stedolan/counterexamples)) ([HN](https://news.ycombinator.com/item?id=27252899))
 - [Introduction to Type Systems](https://splintah.github.io/series/Introduction%20to%20Type%20Systems.html)
+- [System F Playground](http://jamesrwilcox.com/f/)
