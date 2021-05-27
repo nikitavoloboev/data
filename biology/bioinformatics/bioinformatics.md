@@ -125,3 +125,4 @@
 - [Learning from Protein Structure with Geometric Vector Perceptrons (2020)](https://openreview.net/forum?id=1YLJDvSx6J4) ([Code](https://github.com/drorlab/gvp))
 - [Dabble](https://github.com/Eigenstate/dabble) - Membrane protein builder and parameterizer.
 - [ffq](https://github.com/pachterlab/ffq) - Fetch run information from the European Nucleotide Archive (ENA). ([Tweet](https://twitter.com/sinabooeshaghi/status/1396920733918322689))
+- [MolPAL](https://github.com/coleygroup/molpal) - Molecular Pool-based Active Learning.

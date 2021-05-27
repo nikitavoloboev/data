@@ -87,3 +87,4 @@ Learning to build [startups](startups/startups.md).
 - [Profit Sharing (2020)](https://paul.copplest.one/blog/profit-sharing.html) - How to compensate employees.
 - [Decision making framework businesses and startups](https://paul.copplest.one/levels/business.html#general)
 - [Colossus](https://www.joincolossus.com/) - Best information on business building and investing.
+- [Ask HN: Where would you incorporate in 2021?](https://news.ycombinator.com/item?id=27288453)

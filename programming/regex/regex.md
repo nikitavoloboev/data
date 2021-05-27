@@ -52,4 +52,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [igrepper](https://github.com/igoyak/igrepper) - Interactive grepping using ncurses and rust.
 - [Some useful regular expressions for programmers (2021)](https://lemire.me/blog/2021/04/22/some-useful-regular-expressions-for-programmers/) ([HN](https://news.ycombinator.com/item?id=26910717))
 - [Bling Fire](https://github.com/microsoft/BlingFire) - Lightning fast Finite State machine and REgular expression manipulation library.
-- [Let’s Build a Regex Engine (2019)](https://kean.blog/post/lets-build-regex)
+- [Let’s Build a Regex Engine (2019)](https://kean.blog/post/lets-build-regex) ([HN](https://news.ycombinator.com/item?id=27287987))
