@@ -306,3 +306,4 @@
 - [Easy Few-Shot Learning](https://github.com/sicara/easy-few-shot-learning) - Ready-to-use code and tutorial notebooks to boost your way into few-shot image classification.
 - [BasicSR (Basic Super Restoration)](https://github.com/xinntao/BasicSR) - Open source image and video restoration toolbox based on PyTorch, such as super-resolution, denoise, deblurring, JPEG artifacts removal, etc.
 - [Intriguing Properties of Vision Transformers (2021)](https://arxiv.org/abs/2105.10497) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/njm2ru/r_intriguing_properties_of_vision_transformers/))
+- [DIY Amazon Go – computer vision tutorial for cashierless checkout](https://www.sbxrobotics.com/tutorial)

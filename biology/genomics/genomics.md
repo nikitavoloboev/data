@@ -66,3 +66,4 @@
 - [Edinburgh Genome Foundry](https://edinburgh-genome-foundry.github.io/) ([GitHub](https://github.com/Edinburgh-Genome-Foundry))
 - [Cultural Evolution of Genetic Heritability (2021)](https://michael.muthukrishna.com/wp-content/uploads/2021/05/Cultural_Evolution_of_Genetic_Heritability-BBS-Uchiyama_Spicer_Muthukrishna-final.pdf) ([Tweet](https://twitter.com/mmuthukrishna/status/1395731515540127746))
 - [Pachter Lab](http://pachterlab.github.io/) - Develops computational and experimental methods for genomics. ([GitHub](https://github.com/pachterlab))
+- [The complete sequence of a human genome (2021)](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1)

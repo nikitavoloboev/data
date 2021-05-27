@@ -291,3 +291,4 @@
 - [Rethinking JavaScript Infrastructure (2021)](https://cpojer.net/posts/rethinking-javascript-infrastructure)
 - [2D Optics Demos in JavaScript (2021)](https://www.philipzucker.com/aesthetic-javascript-eduction/)
 - [Beginner Web Dev](https://beginnerwebdev.com/) - Getting Started with JavaScript Course.
+- [V8 Sparkplug – A non-optimizing JavaScript compiler (2021)](https://v8.dev/blog/sparkplug) ([HN](https://news.ycombinator.com/item?id=27304808))
