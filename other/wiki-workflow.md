@@ -104,7 +104,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Abigail Africa's Notes](https://www.notion.so/Notes-3a56fef72dc94bc28b0804efc789913b)
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
 - [Nat Eliason notes](https://www.nateliason.com/notes)
-- [Bharat’s Digital Garden](https://notes.bharatkalluri.in/)
+- [Bharat’s Digital Garden](https://bharatkalluri.com/notes)
 - [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
 - [Sridhar Ratnakumar](https://www.srid.ca/z-index.html)
 - [Timothy Andrew](https://timothyandrew.net/learning/)
