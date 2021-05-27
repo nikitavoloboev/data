@@ -53,6 +53,7 @@
 - [Mutation at a microscopic level is totally okay. What matters most is avoiding mutation at the macroscopic level, like when the app architecture has many important modules mutating or monkey patching each other.](https://twitter.com/andrestaltz/status/1396893574516678662)
 - [My general rule is that mutating off screen is dangerous, not necessarily bad but a red flag. I’ve found if you have to scroll up/down or change file to find a reference to some variable then there is almost certainly an increased chance of fuckery.](https://twitter.com/lukejacksonn/status/1396950510465437697)
 - [An anti-pattern is just a pattern used in a sub-optmial context. A good practice is just a practice used in the right context. You shouldn't talk about patterns and practice being "good" or "bad" without talking about the context in which they will be used.](https://twitter.com/samnewman/status/1396830310390763529)
+- [“Change only one thing at a time” should be codified into every software change control process. There should be no implicit changes, ever. Every single bit of config needs to be captured as code.](https://twitter.com/copyconstruct/status/1398043935176413184)
 
 ## Links
 

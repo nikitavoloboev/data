@@ -18,3 +18,4 @@
 - [AR with SceneKit and Metal (2020)](https://emillindfors.com/blog/2020-12/ar-with-scenekit-and-metal/) ([HN](https://news.ycombinator.com/item?id=25373105))
 - [ARImageTracking](https://github.com/riccqi/ARImageTracking) - Augmented Reality image tracking with SwiftUI and RealityKit and ARKit 4. ([Tweet](https://twitter.com/riccqi/status/1347562930078826498))
 - [SwiftAR](https://github.com/jlsiewert/SwiftAR) - Declarative Framework for AR, Inspired by SwiftUI.
+- [Augmented reality face filters with iOS - Roxana Jula (2021)](https://www.youtube.com/watch?v=xSLDST-a6qU)

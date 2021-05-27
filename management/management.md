@@ -112,3 +112,4 @@
 - [Thoughts on Stripe's lack of managers (2021)](https://twitter.com/cjc/status/1392657326318833667)
 - [The Managers Handbook](https://themanagershandbook.com/)
 - [Building Self-Managed Teams: A Case Study from Riot Games (2021)](https://codingsans.com/blog/self-managed-teams) ([HN](https://news.ycombinator.com/item?id=27207107))
+- [What’s the best thing a manager has ever done for you? (2021)](https://twitter.com/joulee/status/1398029642443853824)
