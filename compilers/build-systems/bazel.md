@@ -29,3 +29,4 @@
 - [Bazel Container Image Rules](https://github.com/bazelbuild/rules_docker) - Rules for building and handling Docker images with Bazel.
 - [bazel-cache](https://github.com/znly/bazel-cache) - Minimal cloud oriented Bazel gRPC cache.
 - [bazels3cache](https://github.com/Asana/bazels3cache) - Small web server for a Bazel cache, proxies to S3; allows Bazel to work offline; async uploads to make Bazel faster.
+- [BuildBuddy](https://github.com/buildbuddy-io/buildbuddy) - Open source Bazel build event viewer, result store, and remote cache. ([Web](https://www.buildbuddy.io/))
