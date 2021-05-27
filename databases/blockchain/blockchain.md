@@ -154,3 +154,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [How and when did NFTs start? How are they evolving? (2021)](https://twitter.com/muneeb/status/1397204583710134281)
 - [Internet Computer](https://dfinity.org/) - Extends the public Internet so it can natively host websites , software systems, open internet services and DeFi systems. ([GitHub](https://github.com/dfinity))
 - [Multicoin Capital](https://multicoin.capital/) - Thesis-driven investment firm that invests in cryptocurrencies, tokens, and blockchain companies. ([Twitter](https://twitter.com/multicoincap))
+- [What are the Most Interesting Projects Uniquely Enabled by Crypto? (2021)](https://www.reddit.com/r/CryptoTechnology/comments/nluv1w/what_are_the_most_interesting_projects_uniquely/)

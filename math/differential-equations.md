@@ -23,3 +23,4 @@
 - [Convolutional Solvers for PDEs](https://github.com/nw2190/ConvPDE)
 - [diffeqpy](https://github.com/SciML/diffeqpy) - Package for solving differential equations in Python.
 - [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) - Package for solving differential equations with neural networks.
+- [rodeo](https://github.com/mlysy/rodeo) - Probabilistic Solution of Differential Equations.
