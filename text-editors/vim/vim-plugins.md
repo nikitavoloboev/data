@@ -222,3 +222,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - Lua API for using fzf in neovim.
 - [defaults.nvim](https://github.com/mjlbach/defaults.nvim) - Small, featureful neovim template.
 - [packer.nvim](https://github.com/wbthomason/packer.nvim) - use-package inspired plugin manager for Neovim.
+- [lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline.

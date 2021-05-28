@@ -82,3 +82,4 @@
 - [How Robots Can Learn End-to-End From Data (2021)](https://medium.com/@sergey.levine/how-robots-can-learn-end-to-end-from-data-3d879b0a2ba1)
 - [Robotic ‘Third Thumb’ use can alter brain representation of the hand](https://www.ucl.ac.uk/news/2021/may/robotic-third-thumb-use-can-alter-brain-representation-hand) ([Tweet](https://twitter.com/sevenOfPrice/status/1396533985644253189))
 - [Rogue Robotics](https://www.roguerobotics.com/) - Creative electronics engineering company.
+- [Verifiable Robotics Research Group](http://verifiablerobotics.com/) ([GitHub](https://github.com/VerifiableRobotics))
