@@ -39,6 +39,10 @@
 
 - [ppx_let_locs](https://github.com/EduardoRFS/ppx_let_locs) - Improving stack trace for let monadic.
 
+## Graphics
+
+- [Vg](https://github.com/dbuenzli/vg) - Declarative 2D vector graphics for OCaml.
+
 ## Other
 
 - [OCamlbuild](https://github.com/ocaml/ocamlbuild) - Generic build tool, that has built-in rules for building OCaml library and programs.

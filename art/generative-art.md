@@ -121,6 +121,7 @@
 - [Reflections on Five Years of Making Art Through Programming (2019)](https://tylerxhobbs.com/essays/2019/reflections-on-five-years-of-making-art-through-programming)
 - [How I Do Generative Art: In Praise of Netpbm (2021)](https://journal.infinitenegativeutility.com/how-i-do-generative-art-in-praise-of-netpbm)
 - [Art Blocks](https://artblocks.io/) - Generative Content Hosted on the Ethereum Blockchain.
+- [tiny-artblocks](https://github.com/mattdesl/tiny-artblocks) - Starter kit for tiny and robust ArtBlocks artworks with plain vanilla JavaScript.
 - [Generative Art in Go](https://github.com/jdxyw/generativeart)
 - [Delaunay Maze Loop Animation](https://github.com/Bleuje/delaunay-maze-loop)
 - [Solvency](https://www.solvency.art/) - Limited edition series of WebGL artworks. Each artwork is a unique, generative NFT. ([Tweet](https://twitter.com/ezzzrrra/status/1384572610835582979))

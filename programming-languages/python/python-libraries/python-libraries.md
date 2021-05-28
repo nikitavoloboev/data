@@ -404,6 +404,7 @@
 - [polliwog](https://github.com/lace/polliwog) - 2D and 3D computational geometry library which scales from prototyping to production.
 - [vg](https://github.com/lace/vg) - Linear algebra for humans.
 - [soundata](https://github.com/soundata/soundata) - Python library for loading & working with sound datasets.
+- [QuickPotato](https://github.com/JoeyHendricks/QuickPotato) - Profile and test to gain insights into the performance of your beautiful Python code.
 
 ## Links
 
