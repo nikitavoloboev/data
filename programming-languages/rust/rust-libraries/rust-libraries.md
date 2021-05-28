@@ -843,6 +843,7 @@
 - [semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning.
 - [hashed-permutation](https://github.com/afnanenayet/hashed-permutation) - An implementation of Kensler's hashed permutation algorithm.
 - [Array2D](https://github.com/HarrisonMc555/array2d) - Statically-sized two-dimensional array written in Rust.
+- [Ropey](https://github.com/cessen/ropey) - utf8 text rope for manipulating and editing large texts.
 
 ## Cargo Plugins
 

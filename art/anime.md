@@ -12,3 +12,4 @@
 - [AnimeCV](https://github.com/kosuke1701/AnimeCV) - Pretrained computer vision tools for anime style illustrations.
 - [Anime is booming, so why are animators living in poverty? (2021)](https://www.nytimes.com/2021/02/24/business/japan-anime.html) ([HN](https://news.ycombinator.com/item?id=26275488)) ([Reddit](https://www.reddit.com/r/television/comments/ltulz1/anime_is_booming_so_why_are_animators_living_in/))
 - [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Sketch extractor for illustration, anime art, manga. ([HN](https://news.ycombinator.com/item?id=27070838))
+- [mangodl](https://github.com/Gyro7/mangodl) - Easy-to-use CLI tool for downloading manga.

@@ -169,3 +169,4 @@
 - [WebAssembly Tour](https://github.com/thangchung/webassembly-tour)
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications. ([Web](https://wasmedge.org/))
 - [webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly.
+- [wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - Language server implementation for WebAssembly.
