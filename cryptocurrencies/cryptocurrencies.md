@@ -106,3 +106,4 @@ It's a shame that [Bitcoin](bitcoin.md) is still widely used to make [wasteful &
 - [CryptoFees.info](https://cryptofees.info/) - Cryprocurrencies fee analyzer.
 - [All Cryptos by Year/Month](https://washingtonindependent.com/all-cryptos-by-year-month/)
 - [Rafiki](https://github.com/coilhq/rafiki) - Open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.
+- [Proof of stake will not save us (2021)](https://www.somethinginteresting.news/p/proof-of-stake-will-not-save-us) - Proof-of-stake doesn't eliminate costs it only makes them harder to reason about. ([Tweet](https://twitter.com/knifefight/status/1398063621251366915))

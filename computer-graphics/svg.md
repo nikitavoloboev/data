@@ -83,4 +83,4 @@
 - [svgpath](https://github.com/fontello/svgpath) - SVG path low level transformations toolkit.
 - [kld-intersections](https://github.com/thelonious/kld-intersections) - Library of intersection algorithms covering all SVG shape types.
 - [SVG Loader](https://github.com/shubhamjain/svg-loader) - Plug 'n Play external SVG loader. ([Article](https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/))
-- [Boring Avatars](https://boringavatars.com/) - Avatar generator playground. ([Code](https://github.com/boringdesigners/boring-avatars))
+- [Boring Avatars](https://boringavatars.com/) - React library to generate custom avatars. ([Code](https://github.com/boringdesigners/boring-avatars)) ([HN](https://news.ycombinator.com/item?id=27311964))

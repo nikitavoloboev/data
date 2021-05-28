@@ -32,6 +32,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [It is difficult to get a person to understand something, when their salary depends on their not understanding it.](https://twitter.com/awilkinson/status/1381620877146562568)
 - [When your existence outside the workplace is devoid of meaning, you’ll confuse your place of work with your entire life.](https://twitter.com/dvassallo/status/1386831102359179264)
 - Play stupid games win stupid prizes.
+- [Social consensus is not the same thing as truth.](https://twitter.com/balajis/status/1398245943128956936)
 
 ## Other
 
@@ -486,3 +487,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Favorite purchases of last two years? (2021)](https://news.ycombinator.com/item?id=27219759)
 - [The Expanse UI Design (2021)](https://www.hudsandguis.com/home/2021/theexpanse) ([HN](https://news.ycombinator.com/item?id=27287912))
 - [Beaver](https://github.com/Clivern/Beaver) - Real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [Everyday Experiments](https://everydayexperiments.com/) - Ways to enhance our interactions with space and improve our everyday lives.
+- [Invisible Roommates](https://everydayexperiments.com/invisible-roommates)

@@ -110,3 +110,5 @@
 - [Making the Internet more secure one signed container at a time (2021)](https://security.googleblog.com/2021/05/making-internet-more-secure-one-signed.htoml)
 - [OCI Registry As Storage](https://github.com/deislabs/oras)
 - [crane](https://github.com/google/go-containerregistry/tree/main/cmd/crane) - Tool for interacting with remote images and registries.
+- [Ask HN: I need to learn to love containers – HN please show me the good side? (2021)](https://news.ycombinator.com/item?id=27310722)
+- [The 17 Ways to Run Containers on AWS (2021)](https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws/)

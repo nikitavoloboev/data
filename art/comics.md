@@ -12,3 +12,4 @@
 - [Calvin and Hobbes Search Engine](http://michaelyingling.com/random/calvin_and_hobbes/) ([HN](https://news.ycombinator.com/item?id=26119380))
 - [Comix I/O](http://cmx.io/) - Create your own xkcd-style comics using HTML markup. ([Code](https://github.com/darwin/cmx.js))
 - [Wizard Zines Comics](https://wizardzines.com/comics/) ([Article](https://jvns.ca/blog/2021/05/02/publishing-comics/))
+- [MonkeyUser](https://www.monkeyuser.com/)

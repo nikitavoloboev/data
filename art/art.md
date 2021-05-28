@@ -151,6 +151,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Sean Sevestre](https://www.artstation.com/sean)
 - [Simon Stalenhag](https://www.simonstalenhag.se/) ([Other art](https://www.simonstalenhag.se/other.html))
 - [Fran Rodríguez](https://www.instagram.com/lacabezaenlasnubes/)
+- [Jesperish](https://www.instagram.com/jesperish/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Nicholas Kole](https://www.instagram.com/nicholaskole/) ([Web](https://www.nicholaskole.art/))

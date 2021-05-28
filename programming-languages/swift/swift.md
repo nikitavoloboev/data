@@ -210,3 +210,4 @@
 - [Useful Swift Things](https://github.com/jphong1111/Useful_Swift) - List of useful iOS & Swift stuff.
 - [SwiftLee Jobs](https://www.swiftleejobs.com/) - Find your next Swift job.
 - [Introduction to async/await in Swift (2021)](https://theswiftdev.com/introduction-to-asyncawait-in-swift/)
+- [Here is what SwiftData will be (…and what it could have been) (2021)](https://drewmccormack.medium.com/here-is-what-swiftdata-will-be-and-what-it-could-have-been-65b79cd11c6a)

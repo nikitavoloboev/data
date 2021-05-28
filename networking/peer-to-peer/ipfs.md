@@ -10,6 +10,7 @@ I especially like the distinction of distributing content over distributing link
 
 ## Links
 
+- [What is IPFS? - A Beginner's Guide (2021)](https://hackernoon.com/a-beginners-guide-to-ipfs-20673fedd3f)
 - [Go IPFS](https://github.com/ipfs/go-ipfs)
 - [JS IPFS](https://github.com/ipfs/js-ipfs) ([Web](https://js.ipfs.io/))
 - [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)

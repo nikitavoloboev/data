@@ -85,3 +85,4 @@
 - [5 years of leetcode with no progress. I'm giving up (2021)](https://news.ycombinator.com/item?id=26468248)
 - [Google Interview Questions Articles](https://alexgolec.dev/tag/google-interview-questions/)
 - [Решаем LeetCode на сложности Hard (2021)](https://www.youtube.com/watch?v=LtPDRjEXMBI)
+- [Ask HN: Did preparing for LeetCode type of interviews improve your skills? (2021)](https://news.ycombinator.com/item?id=27312265)

@@ -1,5 +1,9 @@
 # Psychology
 
+## Notes
+
+- [To fix unconscious issues one must make them conscious- by experiencing them, rather than turning away because they make one uncomfortable. Have to push through the fear.](https://www.reddit.com/r/RationalPsychonaut/comments/nmpr5o/constant_psych_takers_what_takes_away_your_fear/)
+
 ## Links
 
 - [Derren Brown Advertising Agency Task](https://www.youtube.com/watch?v=YQXe1CokWqQ&app=desktop) - Best be aware of the power that advertising has on day to day life.

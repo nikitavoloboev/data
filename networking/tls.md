@@ -30,3 +30,5 @@
 - [tlsfuzzer](https://github.com/tlsfuzzer/tlsfuzzer) - SSL and TLS protocol test suite and fuzzer.
 - [TLS Mastery](https://mwl.io/nonfiction/networking#tls) ([HN](https://news.ycombinator.com/item?id=26760032))
 - [mkcert.org](https://mkcert.org/) - Web service that allows you to build customised TLS trust stores. ([Code](https://github.com/Lukasa/mkcert))
+- [Feisty Duck](https://www.feistyduck.com/) - SSL/TLS and PKI training and books.
+- [Bulletproof TLS Newsletter](https://www.feistyduck.com/bulletproof-tls-newsletter/)

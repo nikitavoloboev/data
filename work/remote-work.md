@@ -110,3 +110,5 @@
 - [Ask HN: How to negotiate continuing to work remotely? (2021)](https://news.ycombinator.com/item?id=27123553)
 - [Remotebear](https://remotebear.io/) - Best remote jobs at leading tech companies. ([Code](https://github.com/remotebear-io/remotebear)) ([Article](https://mmazzarolo.com/blog/2021-05-01-open-sourcing-remotebear/))
 - [What if remote work didn’t mean working from home? (2021)](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home) ([HN](https://news.ycombinator.com/item?id=27275318))
+- [Remotists.com](https://remotists.com/) - Top Remote jobs every week.
+- [Top 100 Remote Jobs](https://remotists.com/top100_remotejobs/)
