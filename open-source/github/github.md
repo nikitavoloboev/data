@@ -225,3 +225,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Flat Data](https://octo.github.com/projects/flat-data) - Explores how to make it easy to work with data in git and GitHub. ([Tweet](https://twitter.com/simonw/status/1394729289346519041))
 - [GitHub OCTO](https://octo.github.com/) - GitHub’s Office of the CTO investigates the future of software development.
 - [GitHub Exporter](https://github.com/github/github-artifact-exporter) - Set of packages to make exporting artifacts from GitHub easier.
+- [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome) - Browse Every Awesome List on GitHub.

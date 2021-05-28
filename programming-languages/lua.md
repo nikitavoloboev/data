@@ -57,3 +57,4 @@
 - [LuaJIT compiler explorer](https://luajit.me/) ([Code](https://github.com/rapidlua/luajit.me))
 - [LadyLua](https://github.com/tongson/LadyLua) - Batteries-included static Lua 5.1 interpreter. ([HN](https://news.ycombinator.com/item?id=26738006))
 - [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Write Lua with TypeScript. ([Web](https://typescripttolua.github.io/))
+- [debugger.lua](https://github.com/slembcke/debugger.lua) - Simple, embedabble CLI debugger for Lua.

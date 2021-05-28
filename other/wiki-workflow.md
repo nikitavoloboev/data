@@ -159,6 +159,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Kate Bowie](https://katebowies-garden.netlify.app/)
 - [Binny's garden](https://notes.binnyva.com/)
 - [Anthony Amar's Garden](https://garden.anthonyamar.fr/)
+- [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)

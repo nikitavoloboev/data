@@ -426,3 +426,4 @@
 - [conda-press](https://github.com/conda-incubator/conda-press) - Press conda packages into wheels.
 - [cibuildwheel](https://github.com/joerick/cibuildwheel) - Build Python wheels for all the platforms on CI with minimal configuration.
 - [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/) ([HN](https://news.ycombinator.com/item?id=26733423))
+- [PDM](https://github.com/pdm-project/pdm) - Modern Python package manager with PEP 582 support.

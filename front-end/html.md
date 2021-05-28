@@ -118,3 +118,4 @@
 - [DOM Events](https://domevents.dev/) - Learn about the DOM Event system through exploration.
 - [The Button Cheat Sheet](https://www.buttoncheatsheet.com/) ([HN](https://news.ycombinator.com/item?id=27276547))
 - [HTML Parser Book](https://htmlparser.info/) - Idiosyncrasies of the HTML parser. ([Code](https://github.com/zcorpan/html-parser-book)) ([HN](https://news.ycombinator.com/item?id=27311627))
+- [Declarative Shadow DOM](https://github.com/mfreed7/declarative-shadow-dom)

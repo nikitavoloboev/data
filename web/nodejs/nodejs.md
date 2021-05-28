@@ -216,3 +216,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [envfile](https://github.com/bevry/envfile) - Parse and write environment files with Node.js.
 - [listr2](https://github.com/cenk1cenk2/listr2) - Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [node-rs](https://github.com/napi-rs/node-rs) - Rust Node.js bindings.
+- [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading.

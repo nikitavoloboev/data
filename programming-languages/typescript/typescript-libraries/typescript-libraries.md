@@ -114,6 +114,7 @@
 - [ts-checked-fsm](https://github.com/tableau/ts-checked-fsm) - TypeScript library providing compile-time checking for state machine transitions.
 - [resolvers](https://github.com/react-hook-form/resolvers) - Validation resolvers: Zod, Yup, Joi, Superstruct, Vest, class-validator, io-ts, and nope.
 - [json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas.
+- [meros](https://github.com/maraisr/meros) - Fast utility that makes reading multipart responses simple.
 
 ## Links
 

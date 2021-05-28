@@ -21,6 +21,7 @@ Some articles I read and liked that don't fit under any other topic inside this 
 - [Readme Driven Development (2010)](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - [Legendary articles (2020)](https://wheresvic.net/legendary)
 - [Technical reading list](https://linus.zone/technical-reading)
+- [Patio11's Greatest Hits](https://www.kalzumeus.com/greatest-hits/)
 
 ## Links
 
