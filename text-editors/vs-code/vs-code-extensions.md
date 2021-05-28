@@ -268,6 +268,7 @@ Below is a list of extensions I use.
 
 ## Vue
 
+- [Vetur](https://vuejs.github.io/vetur/) - Vue tooling for VS Code. ([Code](https://github.com/vuejs/vetur))
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) ([Code](https://github.com/sdras/vue-vscode-snippets))
 
 ## Bash

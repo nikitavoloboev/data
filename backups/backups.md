@@ -26,6 +26,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [zrepl](https://github.com/zrepl/zrepl) - One-stop ZFS backup & replication solution. ([Docs](https://zrepl.github.io/))
 - [Linux Time Machine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups.
 - [Autorestic](https://github.com/cupcakearmy/autorestic) - High level CLI utility for restic. ([Docs](https://autorestic.vercel.app/))
+- [Walrus](https://github.com/Clivern/Walrus) - Fast, Secure and Reliable System Backup, Set up in Minutes. ([Web](https://clivern.github.io/Walrus/))
 
 ## Cloud Storage
 

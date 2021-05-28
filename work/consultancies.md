@@ -181,6 +181,7 @@
 - [8th Light](https://8thlight.com/)
 - [Trail of Bits](https://www.trailofbits.com/) ([GitHub](https://github.com/trailofbits))
 - [Test Double](https://testdouble.com/) - Agency Improving the World's Software.
+- [Bocoup](https://bocoup.com/) - Web platform consulting services.
 
 ## Notes
 

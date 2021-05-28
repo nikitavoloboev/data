@@ -483,3 +483,5 @@ Go promotes composition over inheritance.
 - [How to best use Go for writing web services (2021)](https://www.reddit.com/r/golang/comments/njydij/after_2_years_of_django_im_starting_using_go_for/)
 - [GoReleaser Pro](https://github.com/goreleaser/goreleaser-pro) - Fork of the OSS version you already use everyday, with extra features. ([Docs](https://goreleaser.com/pro))
 - [Functional Programming in Go with Generics (2021)](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/) ([HN](https://news.ycombinator.com/item?id=27298506))
+- [The Cult of Go Test (2016)](https://danmux.com/posts/the_cult_of_go_test/)
+- [Rabbit](https://github.com/Clivern/Rabbit) - Lightweight service that will build and store your go projects binaries, Integrated with Github.

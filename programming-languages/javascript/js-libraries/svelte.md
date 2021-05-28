@@ -3,6 +3,7 @@
 ## Example sites
 
 - [Elianiva](https://elianiva.me/) ([Code](https://github.com/elianiva/elianiva.me))
+- [SvelteKit RealWorld App](https://github.com/sveltejs/realworld)
 
 ## Links
 

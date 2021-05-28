@@ -143,6 +143,7 @@
 - [EliasDB](https://github.com/krotik/eliasdb) - Graph-based database.
 - [Resql](https://github.com/tezc/resql) - SQL database server that uses SQLite as its SQL engine and it provides replication and automatic failover capabilities.
 - [Tarantool](https://www.tarantool.io/en/) - In-memory computing platform. ([Go client](https://github.com/FZambia/tarantool))
+- [EventQL](https://eventql.io/) - Database for large-scale event analytics. ([Code](https://github.com/eventql/eventql))
 
 ## Tools
 
