@@ -87,3 +87,4 @@
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open Source Test Case Management System. ([Web](https://kiwitcms.org/))
 - [Automated Testing with Specifications (2021)](https://www.youtube.com/watch?v=MLcNhc27Ghw)
 - [Core Concepts in Software Testing Workshop](https://github.com/jbelmont/software-testing-workshop)
+- [TDD: Getting Out of My Own Way (2021)](https://adamtuttle.codes/blog/2021/tdd-getting-out-of-my-own-way/)

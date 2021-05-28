@@ -191,3 +191,4 @@
 - [scratchix](https://github.com/dramforever/scratchix) - Linux From Scratch, but it's Nix.
 - [Understanding Nix's String Context (2018)](https://shealevy.com/blog/2018/08/05/understanding-nixs-string-context/)
 - [Replit now supports every programming language in Nix (2021)](https://blog.replit.com/nix) ([HN](https://news.ycombinator.com/item?id=27269292))
+- [nix-graph](https://github.com/awakesecurity/nix-graph) - Reify the Nix build graph into a Haskell graph data structure.
