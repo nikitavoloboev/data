@@ -22,3 +22,4 @@
 - [qp2p](https://github.com/maidsafe/qp2p) - Peer-to-peer communications library for Rust based on QUIC protocol.
 - [Quant](https://github.com/NTAP/quant) - QUIC implementation for POSIX and IoT platforms.
 - [quicer](https://github.com/emqx/quic) - QUIC Protocol for Erlang & Elixir.
+- [QUIC is now RFC 9000 (2021)](https://www.fastly.com/blog/quic-is-now-rfc-9000)

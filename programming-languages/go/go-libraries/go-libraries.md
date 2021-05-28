@@ -815,6 +815,8 @@
 - [Go Debug](https://github.com/golang/debug) - Utilities and libraries for debugging Go programs.
 - [codec](https://github.com/jba/codec) - Fast Encoding of Go Values.
 - [defaults](https://github.com/creasty/defaults) - Initialize structs with default values.
+- [go-daemon](https://github.com/sevlyar/go-daemon) - Library for writing system daemons in Go.
+- [retag](https://github.com/sevlyar/retag) - Change tags of structures' fields in runtime without copying of data in Go. Conditional marshalling and unmarshalling.
 
 ## Links
 

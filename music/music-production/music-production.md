@@ -53,7 +53,6 @@
 - [Crypt](https://github.com/DavW/crypt) - Software synthesiser plugin designed for creating spacious cold hyper-unisoned synth sounds.
 - [Fourhands](https://fourhands.jminjie.com/) - P2P MIDI jam room for pianists. ([Code](https://github.com/jminjie/fourhands)) ([HN](https://news.ycombinator.com/item?id=25685903))
 - [FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding. ([Web](https://foxdot.org/))
-- [SOUL (SOUnd Language)](https://github.com/soul-lang/SOUL) - Attempt to modernise and optimise the way high-performance, low-latency audio code is written and executed.
 - [RaveForce](https://github.com/chaosprint/RaveForce) - Environment that allows you to define your musical task in SuperCollider, and train an agent to do the task in Python with APIs similar to the OpenAI Gym.
 - [libsamplerate](https://github.com/libsndfile/libsamplerate) - Library for performing sample rate conversion of audio data. ([Web](http://libsndfile.github.io/libsamplerate/))
 - [Music Pattern Generator](https://github.com/hisschemoller/music-pattern-generator) - JavaScript MIDI Music Pattern Generator.
@@ -83,6 +82,7 @@
 - [auditok](https://github.com/amsehili/auditok) - Audio/acoustic activity detection and audio segmentation tool.
 - [‎Flip Sampler](https://apps.apple.com/us/app/flip-make-music-everywhere/id1486629619#?platform=iphone)
 - [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment.
+- [SOUL](https://soul.dev/) - Language and infrastructure for writing and deploying audio code. ([Code](https://github.com/soul-lang/SOUL))
 
 ## Inspiration
 
