@@ -267,3 +267,4 @@
 - [Kubegres](https://www.kubegres.io/) - PostgreSQL Operator for Kubernetes.
 - [Beware The Missing Foreign Key Index: A Postgres Performance Gotcha (2021)](https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i)
 - [How difficult is to create a database software like PostgreSQL? (2021)](https://www.migops.com/blog/2021/04/17/how-difficult-is-to-create-a-database-software-like-postgresql/)
+- [PostgreSQL EXPLAIN Output Explained (2021)](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/) ([HN](https://news.ycombinator.com/item?id=27317024))

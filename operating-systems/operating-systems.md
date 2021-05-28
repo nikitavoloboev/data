@@ -209,6 +209,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [crosvm](https://github.com/dgreid/crosvm) - Chrome OS Virtual Machine Monitor.
 - [DTB parser implementing notes (2021)](https://kivikakk.ee/2021/02/13/dtb-parser-implementing-notes/)
 - [SerenityOS - Writing a full chain exploit (2021)](https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html)
+- [I quit my job to focus on SerenityOS full time (2021)](https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/) ([HN](https://news.ycombinator.com/item?id=27317655))
 - [Write Your Own 64-bit Operating System Kernel From Scratch](https://github.com/davidcallanan/os-series)
 - [Rust VM](https://github.com/atul-g/rust_vm) - Virtual Machine written in Rust to emulate the LC3 computer (Little Computer 3).
 - [What are Ring 0 and Ring 3 in the context of operating systems?](https://stackoverflow.com/questions/18717016/what-are-ring-0-and-ring-3-in-the-context-of-operating-systems)
@@ -226,3 +227,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [An Incremental Path Towards a Safer OS Kernel (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s09-li.pdf)
 - [Urbit: The good, the bad, and the insane (2021)](https://wejn.org/2021/02/urbit-good-bad-insane/) ([HN](https://news.ycombinator.com/item?id=27268462)) ([Lobsters](https://lobste.rs/s/prlffn/urbit_good_bad_insane))
 - [Overview: Capability Computation](http://www.erights.org/elib/capability/overview.html)
+- [Ask HN: How are you using unikernels? (2021)](https://news.ycombinator.com/item?id=27301210)

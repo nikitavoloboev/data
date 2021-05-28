@@ -8,6 +8,7 @@
 - [ExVCR](https://github.com/parroty/exvcr) - Record and replay HTTP interactions library for Elixir.
 - [WebSockex](https://github.com/Azolo/websockex) - Elixir Websocket Client.
 - [Tesla](https://github.com/teamon/tesla) - Flexible HTTP client library for Elixir, with support for middleware and multiple adapters.
+- [Mojito](https://github.com/appcues/mojito) - Easy-to-use Elixir HTTP client, built on the low-level Mint library.
 
 ## DB
 
@@ -58,6 +59,7 @@
 - [libcluster](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.
 - [Horde](https://github.com/derekkraan/horde) - Distributed Supervisor and Registry backed by DeltaCrdt.
 - [libring](https://github.com/bitwalker/libring) - Fast consistent hash ring for Elixir.
+- [Aja](https://github.com/sabiwara/aja) - Extension of the Elixir standard library focused on data structures, data manipulation and performance.
 
 ## Links
 

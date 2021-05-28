@@ -144,3 +144,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [TJ](https://tjournal.ru/) - Новости интернета.
 - [Baza.io](https://baza.io/) - Новости/правда/эмоции.
 - [Why is the Moscow Metro so grandiose compared to other Soviet architecture (2021)](https://www.reddit.com/r/AskHistorians/comments/lz3rj1/why_did_the_ussr_build_such_grandiose_designs_and/gq09pvf/) ([HN](https://news.ycombinator.com/item?id=27262943))
+- [Why Russians do not smile (2002)](https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/) ([HN](https://news.ycombinator.com/item?id=27317859))

@@ -390,3 +390,4 @@
 - [How a Kubernetes Pod Gets an IP Address (2020)](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
 - [Epinio](https://epinio.io/) - Opinionated platform that runs on Kubernetes and takes you from App to URL in one step. ([Code](https://github.com/epinio/epinio))
 - [Cyclonus](https://github.com/mattfenwick/cyclonus) - Tools for understanding, measuring, and applying network policies effectively in kubernetes.
+- [Kubernetes: The Universal Control Plane (2020)](https://blog.cedriccharly.com/post/20200426-kubernetes-the-universal-control-plane/)

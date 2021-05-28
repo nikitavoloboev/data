@@ -485,3 +485,4 @@ Go promotes composition over inheritance.
 - [Functional Programming in Go with Generics (2021)](https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/) ([HN](https://news.ycombinator.com/item?id=27298506))
 - [The Cult of Go Test (2016)](https://danmux.com/posts/the_cult_of_go_test/)
 - [Rabbit](https://github.com/Clivern/Rabbit) - Lightweight service that will build and store your go projects binaries, Integrated with Github.
+- [xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler.

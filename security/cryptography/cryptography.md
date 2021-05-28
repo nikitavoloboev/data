@@ -25,7 +25,7 @@
 - [dalek cryptography](https://github.com/dalek-cryptography) - Fast, safe, pure-rust elliptic curve cryptography.
 - [Trillian](https://github.com/google/trillian) - Transparent, highly scalable and cryptographically verifiable data store.
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
-- [Elliptic Curve Cryptography Explained (2019)](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
+- [Elliptic Curve Cryptography Explained (2019)](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/) ([HN](https://news.ycombinator.com/item?id=27301651))
 - [The Latest Developments in Cryptography Webinar](https://www.youtube.com/watch?v=eQdkZRLD09M)
 - [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 - [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/) ([HN](https://news.ycombinator.com/item?id=22013751)) ([HN 2](https://news.ycombinator.com/item?id=22980003))
