@@ -56,3 +56,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Putting your Keyboard on Steroids with Karabiner Elements (2020)](https://dev.to/swyx/notes-on-karabiner-elements-from-john-lindquist-4cmo)
 - [Karabiner Docs](https://karabiner-elements.pqrs.org/docs/)
 - [Compose Key On macOS](https://github.com/Granitosaurus/macos-compose) ([HN](https://news.ycombinator.com/item?id=24553013))
+- [Remap Keyboard Shortcuts Karabiner Elements (2020)](https://www.youtube.com/watch?v=vysHEYTp0H4)
