@@ -185,3 +185,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Value Investing in 2021 w/ Mohnish Pabrai](https://overcast.fm/+I6zEIwfLE)
 - [Explain why earnings no longer matter, and the entire market is just pump&dump after pump&dump? (2021)](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
 - [DealTeam](https://www.dealteam.com/) - Platform for professional investors.
+- [10 investing lessons from Stanley Druckenmiller (2021)](https://twitter.com/TrungTPhan/status/1397927107682914308)

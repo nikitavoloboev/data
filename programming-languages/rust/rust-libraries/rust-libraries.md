@@ -841,6 +841,8 @@
 - [Pointer Utils](https://github.com/CAD97/pointer-utils) - Collection of small utilities for working with pointer types in Rust.
 - [Valuable](https://github.com/tokio-rs/valuable) - Provides object-safe value inspection. Use cases include passing structured data to trait objects and object-safe serialization.
 - [semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning.
+- [hashed-permutation](https://github.com/afnanenayet/hashed-permutation) - An implementation of Kensler's hashed permutation algorithm.
+- [Array2D](https://github.com/HarrisonMc555/array2d) - Statically-sized two-dimensional array written in Rust.
 
 ## Cargo Plugins
 

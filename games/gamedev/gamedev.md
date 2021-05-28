@@ -176,3 +176,4 @@
 - [GB Studio](https://www.gbstudio.dev/) - Game maker for the Game Boy. ([Code](https://github.com/chrismaltby/gb-studio))
 - [Building games that can be understood at a glance (2018)](http://stfj.net/DesigningForSubwayLegibility/)
 - [MServer](https://github.com/changnet/MServer) - Mini Distributed Game Server.
+- [Lightweight Websocket library a simple game server in Go? (2021)](https://www.reddit.com/r/golang/comments/nmues9/lightweight_websocket_library_a_simple_game_server/)

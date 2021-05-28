@@ -133,3 +133,4 @@
 - [PINTR](https://javier.xyz/pintr/) - Create single line SVG illustrations from your pictures. ([Code](https://github.com/javierbyte/pintr))
 - [Noise generator](https://noiseisnice.com/)
 - [UJI](https://doersino.github.io/uji/) - Minimalist generative art thing – press the buttons and play with the sliders. ([Code](https://github.com/doersino/uji))
+- [Manolo Ide's Processing Sketches](https://www.behance.net/manoloide) ([Code](https://github.com/manoloide/AllSketchs))

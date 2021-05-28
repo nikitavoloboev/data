@@ -67,6 +67,7 @@
 - [Izumi](https://github.com/7mind/izumi) - Productivity-oriented collection of lightweight fancy stuff for Scala toolchain. ([Docs](https://izumi.7mind.io/))
 - [Libretto](https://github.com/TomasMikula/libretto) - Declarative concurrency and stream processing library for Scala.
 - [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
+- [Natchez](https://github.com/tpolecat/natchez) - Distributed tracing library for Scala.
 
 ## Links
 

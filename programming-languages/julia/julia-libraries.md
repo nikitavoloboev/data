@@ -240,6 +240,7 @@
 - [DrWatson](https://github.com/JuliaDynamics/DrWatson.jl) - Scientific project assistant software.
 - [Strategems](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting in Julia.
 - [Polyester](https://github.com/JuliaSIMD/Polyester.jl) - Provides low overhead threading.
+- [ChannelBuffers](https://github.com/KlausC/ChannelBuffers.jl) - Parallel tasks using pipe streams.
 
 ## Links
 

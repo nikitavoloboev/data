@@ -348,6 +348,7 @@ Here are few more things I liked, design wise.
 - [Josh Thompson](https://josh.works/)
 - [Nikolas Klein](http://nikolasklein.de/)
 - [Anna Niess](https://annaniess.biz/)
+- [Stephen Anfield](https://www.stephenanfield.com/)
 - [Andrew Ingram](https://andrewingram.net/)
 - [Caolan McMahon](https://caolan.uk/)
 - [George Francis](https://georgefrancis.dev/)

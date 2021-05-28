@@ -72,3 +72,4 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - [Men in your mid-30s or older, where are you meeting single women? (2021)](https://www.reddit.com/r/seduction/comments/n5tnmz/men_in_your_mid30s_or_older_where_are_you_meeting/)
 - [First Date Ideas? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/)
 - [Tips for flirting with other grown ups? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
+- [Men, how the hell do I know when to make a move while on a date with a woman? (2021)](https://www.reddit.com/r/AskMen/comments/nmnwm8/men_how_the_hell_do_i_know_when_to_make_a_move/)

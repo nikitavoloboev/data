@@ -258,7 +258,7 @@
 - Yellow arrows & text is nicer to read when annotating images.
 - Don't play games on mac/iOS.
 - [Automate backups](../backups/backups.md).
-- Archive useful content no longer actively used. `~/archive`
+- Archive useful content no longer actively used. `~/archive`. Preserve useful chat histories & other data.
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
