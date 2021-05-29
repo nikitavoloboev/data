@@ -113,3 +113,4 @@
 - [The Managers Handbook](https://themanagershandbook.com/)
 - [Building Self-Managed Teams: A Case Study from Riot Games (2021)](https://codingsans.com/blog/self-managed-teams) ([HN](https://news.ycombinator.com/item?id=27207107))
 - [What’s the best thing a manager has ever done for you? (2021)](https://twitter.com/joulee/status/1398029642443853824)
+- [How We Work at Railway (2021)](https://blog.railway.app/p/how-we-work)

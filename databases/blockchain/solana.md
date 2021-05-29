@@ -44,3 +44,4 @@
 - [Multicoin Capital: Technical Scalability Creates Social Scalability (2021)](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) ([Tweet](https://twitter.com/KyleSamani/status/1397602061932433411))
 - [Solana Season Hackathon](https://solana.com/solanaszn)
 - [Solana Ecosystem](https://solana.com/ecosystem)
+- [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana.
