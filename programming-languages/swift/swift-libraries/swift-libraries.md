@@ -692,6 +692,7 @@
 - [RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 - [PLCrashReporter](https://github.com/microsoft/plcrashreporter) - Reliable, open-source crash reporting for iOS, macOS and tvOS.
 - [RSBarcodes](https://github.com/yeahdongcn/RSBarcodes_Swift) - 1D and 2D barcodes reader and generators for iOS 8 with delightful controls.
+- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - Provides as easy to use interface for socket based connections on server or client side.
 
 ## Other (not lib)
 

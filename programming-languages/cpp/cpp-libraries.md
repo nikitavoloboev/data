@@ -206,6 +206,7 @@
 - [Workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. ([HN](https://news.ycombinator.com/item?id=27256686))
 - [AFF3CT](https://github.com/aff3ct/aff3ct) - Fast simulator and a library dedicated to the channel coding. ([Web](http://aff3ct.github.io/))
 - [Boost.Hof](https://github.com/boostorg/hof) - Higher-order functions for C++.
+- [aids](https://github.com/rexim/aids) - std replacement for C++.
 
 ## Links
 

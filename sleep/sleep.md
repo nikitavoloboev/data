@@ -40,3 +40,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Ask HN: What has been the biggest contributor in improving your sleep? (2021)](https://news.ycombinator.com/item?id=26931085)
 - [The Hidden Connection Between Sleep and Dementia (2021)](https://www.youtube.com/watch?v=76z4UPt-OME)
 - [Hydras suggest that sleep evolved before brains (2021)](https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/) ([HN](https://news.ycombinator.com/item?id=27195813))
+- [Ask HN: What's your sleeping setup(bed/pillows/sheets)? (2021)](https://news.ycombinator.com/item?id=27327050)
