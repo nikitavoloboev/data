@@ -228,4 +228,3 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Urbit: The good, the bad, and the insane (2021)](https://wejn.org/2021/02/urbit-good-bad-insane/) ([HN](https://news.ycombinator.com/item?id=27268462)) ([Lobsters](https://lobste.rs/s/prlffn/urbit_good_bad_insane))
 - [Overview: Capability Computation](http://www.erights.org/elib/capability/overview.html)
 - [Ask HN: How are you using unikernels? (2021)](https://news.ycombinator.com/item?id=27301210)
-- [Reflecting on the last year of SerenityOS Browser development (2021)](https://www.youtube.com/watch?app=desktop&v=-YlVex4nbfw)

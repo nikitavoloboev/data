@@ -58,3 +58,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [Do you think that advanced AIs like Sophia and GPT-3 are conscious beings? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/mgdnhz/in_your_own_opinion_do_you_think_that_advanced/)
 - [How would we know whether we are hallucinating reality or not? (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/mq1dxc/how_would_we_know_whether_we_are_hallucinating/)
 - [Where and how our internal world pops into existence?](https://twitter.com/paraschopra/status/1386377277475201024)
+- [Making the hard problem of consciousness easier (2021)](https://science.sciencemag.org/content/372/6545/911) ([HN](https://news.ycombinator.com/item?id=27323401))

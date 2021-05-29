@@ -213,3 +213,4 @@
 - [An incomplete introduction to modern computational methods in physics part 1: Diagonalization](https://www.youtube.com/watch?v=LtiiBkolFo8) ([Reddit](https://www.reddit.com/r/Physics/comments/ndovks/an_incomplete_introduction_to_modern/))
 - [What are the shortest, peer-reviewed articles in physics? (2021)](https://www.reddit.com/r/AskPhysics/comments/nhm3ya/what_are_the_shortest_peerreviewed_articles_in/)
 - [Coanda Effect (2017)](https://www.youtube.com/watch?v=NvzXKZNJ7ZU)
+- [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) ([HN](https://news.ycombinator.com/item?id=27322636))
