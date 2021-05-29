@@ -198,3 +198,4 @@
 - [What other hobbyist "small devices" are out there other than the RPi? (2021)](https://lobste.rs/s/uhrh3e/what_other_hobbyist_small_devices_are_out)
 - [Fixing Xilinx's Broken AXI-lite Design in VHDL (2021)](https://zipcpu.com/blog/2021/05/22/vhdlaxil.html)
 - [Oxide Computer](https://oxide.computer/) - Servers as they should be. ([HN](https://news.ycombinator.com/item?id=27294471)) ([Lobsters](https://lobste.rs/s/j27kjs/oxide_computer_hardware_photos_specs_now))
+- [Apple Has a Decade-long Lead in Wearables (2021)](https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables) ([HN](https://news.ycombinator.com/item?id=27321387))

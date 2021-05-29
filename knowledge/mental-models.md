@@ -23,3 +23,4 @@
 - [Mentat Wiki](http://www.ludism.org/mentat/) - Exploring ways to become a better thinker. ([HN](https://news.ycombinator.com/item?id=24568112))
 - [Convex and Concave Dispositions (2020)](https://vitalik.ca/general/2020/11/08/concave.html)
 - [Thomas Sowell, a lesson in critical thinking (1995)](https://www.youtube.com/watch?v=waEc4YbQQX0)
+- [Guide to my favorite mental models (2021)](https://twitter.com/gregisenberg/status/1398664821139255298)

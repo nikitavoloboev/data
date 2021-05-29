@@ -14,6 +14,7 @@
 - [Williamsburg open place](https://twitter.com/madelinebilis/status/1327380099147165697)
 - [Living Lab House / JC Architecture](https://www.archdaily.com/923076/living-lab-house-jc-architecture)
 - [Nice office](https://twitter.com/alexhaobao/status/1388332873309061124)
+- [Black Pine Cabin](https://www.shedbuilt.com/portfolio/black-pine-cabin/)
 
 ## Links
 
@@ -55,3 +56,4 @@
 - [Valletta, Malta Urbanism](https://twitter.com/SCP_Hughes/status/1370413685798277134)
 - [Envelope](https://envelopead.com/) - Idea-driven architecture and activations studio.
 - [Ugly or Beautiful? The Housing Blocks Communism Left Behind](https://www.wired.com/story/communist-housing-blocks-gallery/) ([Tweet](https://twitter.com/WIRED/status/1378918910112727042))
+- [SHED Architecture & Design](https://www.shedbuilt.com/) - Seattle Modern Architects.

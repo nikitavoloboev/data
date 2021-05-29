@@ -101,3 +101,4 @@
 - [Word usage guidance and alternative terms](https://developers.google.com/style/word-list) ([HN](https://news.ycombinator.com/item?id=26860227))
 - [Why programmers don’t write documentation (2021)](https://kislayverma.com/programming/why-programmers-dont-write-documentation/) ([HN](https://news.ycombinator.com/item?id=27007105))
 - [Docusaurus 2 Beta (2021)](https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta) ([HN](https://news.ycombinator.com/item?id=27132485))
+- [Common Documentation Mistakes and How to Avoid Them (2021)](https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/)

@@ -24,6 +24,7 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - To hide non useful `Outline` section in sidebar, just open the context menu on the outline section's header and select the "Hide" action.
 - [Can use "\*" in the advanced search options in @code to search for similar subfolders across multiple parent folders.](https://twitter.com/SteveGodderidge/status/1285978384049348609)
 - [Can Keyboard map Emmet commands: inward and outward to select HTML/JSX blocks](https://twitter.com/jaredpalmer/status/1385938591323414529)
+- [When you're writing markdown in VSCode you can just highlight text and ctrl+v to automatically make it a link.](https://twitter.com/hollylawly/status/1398375511366115328)
 
 ## Links
 

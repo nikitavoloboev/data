@@ -175,3 +175,4 @@
 - [Querybook](https://www.querybook.org/) - Big Data Querying UI, combining collocated table metadata and a simple notebook interface. ([Code](https://github.com/pinterest/querybook))
 - [Principal Component Analysis explained](https://twitter.com/TivadarDanka/status/1387399961143353347)
 - [Dataproofer](https://github.com/dataproofer/Dataproofer) - Proofreader for your data.
+- [Automated Data Wrangling for Open Data (2021)](https://catalyst.coop/2021/05/23/automated-data-wrangling/)

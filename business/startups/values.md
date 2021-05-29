@@ -34,6 +34,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [I don't believe that everyone is replaceable. If you are enforcing a culture everyone is replaceable, you are enforcing a culture people can't demonstrate their unique capabilities.](https://twitter.com/rakyll/status/1343129540302831616)
 - [PayPal culture: 1. Extreme Focus. 2. Dedication to individual accomplishment. 3. Refusal to accept constraints, external or internal. 4. Radical transparency on metrics. 5. Meritocratic opportunity. 6. Vigorous Debate.](https://twitter.com/kgao1412/status/1381729135781949440)
 - [Many companies try to just bolt on a tactic (i.e. "henceforth we shall write memos") without being intentional about the cultural substrate (i.e. who gets hired, how much do we value charisma vs. rigor, do people care more about correctness or optics..). Culture will eat Tactics.](https://twitter.com/shreyas/status/1397609770517815302)
+- [The fastest way to destroy an engineering culture is to blame people for raising questions and concerns.](https://twitter.com/rakyll/status/1396351409046528005)
 
 ## Links
 
