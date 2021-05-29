@@ -160,3 +160,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Introduction to Security Good Practices (2021)](https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html) ([HN](https://news.ycombinator.com/item?id=27099025))
 - [resync](https://resync.gg/) - Curate, monitor, and derive signal from the world's attack surface.
 - [Aqua Security](https://www.aquasec.com/) - Full lifecycle security for containers and cloud-native applications. ([GitHub](https://github.com/aquasecurity))
+- - [nmmapper](https://www.nmmapper.com/sys/tools/subdomainfinder/) - 8 common sudomain finder tools hosted online for those who want to test before installation. 
