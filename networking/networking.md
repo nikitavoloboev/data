@@ -247,3 +247,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Demo BPF applications](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE.
 - [BPF tips & tricks: the guide to bpf_trace_printk() and bpf_printk() (2021)](https://nakryiko.com/posts/bpf-tips-printk/)
 - [Understanding btrfs internals (2020)](https://dxuuu.xyz/btrfs-internals.html)
+- [multiaddr](https://github.com/multiformats/multiaddr) - Composable and future-proof network addresses. ([Web](https://multiformats.io/multiaddr/))
