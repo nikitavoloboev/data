@@ -96,3 +96,5 @@
 - [Data Profiler](https://github.com/capitalone/DataProfiler) - Python library designed to make data analysis, monitoring and sensitive data detection easy.
 - [Tonic](https://www.tonic.ai/) - Fake Data Company. ([GitHub](https://github.com/TonicAI))
 - [Datasets for Google Cloud](https://cloud.google.com/solutions/datasets) ([Article](https://cloud.google.com/blog/topics/developers-practitioners/datasets-google-cloud-introducing-our-new-reference-architecture))
+- [SQLite Data Starter Packs](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
+- [GitHub Collection: Open data](https://github.com/collections/open-data) - Examples of using GitHub to store, publish, and collaborate on open, machine-readable datasets.

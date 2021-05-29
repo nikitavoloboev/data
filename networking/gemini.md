@@ -26,3 +26,4 @@
 - [Elaho](https://github.com/pitr/gemini-ios) - iOS browser for Gemini protocol.
 - [Agate](https://github.com/mbrubeck/agate) - Server for the Gemini network protocol, built with Rust.
 - [Gemini Capsule in a FreeBSD Jail (2021)](https://www.ecliptik.com/Gemini-Capsule-in-a-FreeBSD-Jail/)
+- [Contributing to Gemini ecosystem (2021)](https://pitr.ca/2021-05-29-gemini-ecosystem)

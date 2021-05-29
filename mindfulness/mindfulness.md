@@ -40,3 +40,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Anxiety Is in Your Body, Not Your Mind (2021)](https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb) ([HN](https://news.ycombinator.com/item?id=26774145))
 - [Ask HN: Tips for handling chronic stress?](https://news.ycombinator.com/item?id=26859401)
 - [The Path to Enlightenment (Non-Duality) (2021)](https://www.youtube.com/watch?v=FuhvJpTh0eQ)
+- [Ask HN: How to Disconnect from Work (2021)](https://news.ycombinator.com/item?id=27326607)
