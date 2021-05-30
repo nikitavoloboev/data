@@ -488,3 +488,5 @@
 - [Rust is a wave of the future (2021)](https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture) ([Lobsters](https://lobste.rs/s/tl5zpc/rust_is_wave_future)) ([HN](https://news.ycombinator.com/item?id=27278180))
 - [Awesome Rewrite It In Rust](https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust) - Curated list of replacements for existing software written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/nm96n1/awesome_rewrite_it_in_rust_a_curated_list_of/)) ([HN](https://news.ycombinator.com/item?id=27312564)) ([Lobsters](https://lobste.rs/s/wwjtw6/rust_based_replacements_for_existing))
 - [Structural Typing in Rust (2021)](https://beachape.com/blog/2021/05/25/structural-typing-in-rust/)
+- [My first cup of Rust (2021)](https://blog.frankel.ch/start-rust/1/)
+- [Puffin](https://github.com/EmbarkStudios/puffin) - Simple instrumentation profiler for Rust.
