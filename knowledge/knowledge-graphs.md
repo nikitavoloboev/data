@@ -77,3 +77,4 @@
 - [An Introduction to Knowledge Graphs (2021)](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/) ([HN](https://news.ycombinator.com/item?id=27245696))
 - [Language Models are Open Knowledge Graphs (2020)](https://arxiv.org/abs/2010.11967) ([Code](https://github.com/theblackcat102/language-models-are-knowledge-graphs-pytorch))
 - [KgBase](https://www.kgbase.com/) - No-code knowledge graphs.
+- [Re-evaluation of Knowledge Graph Completion Methods (2020)](https://github.com/svjan5/kg-reeval)

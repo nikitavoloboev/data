@@ -47,3 +47,4 @@
 - [gRPC RFCs](https://github.com/grpc/proposal)
 - [DRPC](https://github.com/storj/drpc/) - Drop-in, lightweight gRPC replacement. ([Web](https://storj.github.io/drpc/)) ([Article](https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc)) ([Reddit](https://www.reddit.com/r/golang/comments/mznppb/introducing_drpc_the_storj_replacement_for_grpc/)) ([Lobsters](https://lobste.rs/s/qo2qqk/introducing_drpc_our_replacement_for))
 - [Why load balancing gRPC is tricky? (2020)](https://majidfn.com/blog/20201222-grpc-load-balancing/)
+- [ghz](https://github.com/bojand/ghz) - gRPC benchmarking and load testing tool. ([Web](https://ghz.sh/))

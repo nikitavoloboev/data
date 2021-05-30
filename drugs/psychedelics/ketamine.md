@@ -8,3 +8,4 @@
 - [Ketamine alternatives (2021)](https://www.reddit.com/r/researchchemicals/comments/lf10rp/ketamine_alternatives/)
 - [Psychonautic value of K-holes (2021)](https://www.reddit.com/r/RationalPsychonaut/comments/lv3mr5/why_does_it_seem_like_the_psychonautic_value_of/)
 - [Why do you use dissociatives in a party setting? (2021)](https://www.reddit.com/r/researchchemicals/comments/mj6ti3/why_do_you_use_dissociatives_in_a_party_setting/)
+- [First Time Ketamine Tips (2021)](https://www.reddit.com/r/ketamine/comments/no92ru/doing_ket_for_the_first_time_today_any_tips/)

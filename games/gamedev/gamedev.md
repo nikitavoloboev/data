@@ -27,6 +27,7 @@
 - [Relic Entertainment](https://www.relic.com/)
 - [Ninja Theory](https://www.ninjatheory.com/)
 - [Paradox Interactive](https://www.paradoxplaza.com/)
+- [Big Time Studios](https://bigtime.gg/)
 
 ## Devs
 

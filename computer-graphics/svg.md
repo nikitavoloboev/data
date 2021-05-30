@@ -84,3 +84,4 @@
 - [kld-intersections](https://github.com/thelonious/kld-intersections) - Library of intersection algorithms covering all SVG shape types.
 - [SVG Loader](https://github.com/shubhamjain/svg-loader) - Plug 'n Play external SVG loader. ([Article](https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/))
 - [Boring Avatars](https://boringavatars.com/) - React library to generate custom avatars. ([Code](https://github.com/boringdesigners/boring-avatars)) ([HN](https://news.ycombinator.com/item?id=27311964))
+- [svgj](https://github.com/Jarred-Sumner/svgj) - Quickly converts .svg files into JSX.

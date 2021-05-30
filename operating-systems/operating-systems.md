@@ -97,6 +97,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Harvey](https://github.com/Harvey-OS/harvey) - Distributed operating system. ([Web](https://harvey-os.org/))
 - [TypOS](https://github.com/msp-strath/TypOS) - Operating system for typechecking processes.
 - [KolibriOS](http://www.kolibrios.org/en/) - Tiny yet incredibly powerful and fast operating system. ([HN](https://news.ycombinator.com/item?id=27249075))
+- [Kerla](https://github.com/nuta/kerla) - New operating system kernel with Linux binary compatibility written in Rust.
 
 ## Notes
 

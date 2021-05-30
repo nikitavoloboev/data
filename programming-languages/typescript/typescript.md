@@ -155,6 +155,7 @@
 - [TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
 - [Functional TypeScript in Production Systems (2021)](https://antman-does-software.com/functional-typescript-in-production-systems)
 - [TypeScript: Sorting out tsconfig (2021)](https://dev.to/barinbritva/typescript-spelling-out-tsconfig-part-1-3nak)
+- [The Seven Sources of Unsoundness in TypeScript (2021)](https://effectivetypescript.com/2021/05/06/unsoundness/)
 
 ## Images
 
