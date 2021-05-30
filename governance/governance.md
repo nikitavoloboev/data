@@ -55,3 +55,4 @@
 - [Dual Power App](https://dualpower.app/) - Platform that provides a framework for organizing toward a worker-owned economy, with tools for founding, funding, governance, and internal + external communications. ([Code](https://github.com/BSA-US/dual-power-app))
 - [Simple Verifiable Elections (2020)](https://samtay.github.io/posts/verifiable-elections)
 - [Why Nations Succeed (2020)](https://paul.copplest.one/blog/why-nations-succeed.html)
+- [Who is working on using blockchain for voting systems in political elections? (2021)](https://www.reddit.com/r/CryptoTechnology/comments/nnxs4q/is_anybody_working_on_voting_systems_for/)

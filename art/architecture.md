@@ -15,6 +15,7 @@
 - [Living Lab House / JC Architecture](https://www.archdaily.com/923076/living-lab-house-jc-architecture)
 - [Nice office](https://twitter.com/alexhaobao/status/1388332873309061124)
 - [Black Pine Cabin](https://www.shedbuilt.com/portfolio/black-pine-cabin/)
+- [Nice balcony](https://twitter.com/aeduhm/status/1398740225954824196)
 
 ## Links
 

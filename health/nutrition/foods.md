@@ -116,3 +116,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Good healthy bar I can eat whilst at work? (2021)](https://www.reddit.com/r/nutrition/comments/n84coi/whats_a_good_healthy_bar_i_can_eat_whilst_at_work/)
 - [Russian foods](https://www.reddit.com/r/AskARussian/comments/nba6xz/hello_i_am_italian_and_i_love_russian_cuisine_wat/)
 - [Eating to be full (2021)](https://www.reddit.com/r/nutrition/comments/nj2azz/eating_to_be_full/)
+- [Hot Sauces List](https://nfultz.github.io/notes/hotsauce.html)
