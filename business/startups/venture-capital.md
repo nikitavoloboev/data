@@ -114,3 +114,4 @@
 - [OpenVC](https://www.openvc.app/) - All VC firms by thesis. Radically free and open. VC search engine.
 - [OS Fund](https://osfund.co/)
 - [Moxxie Ventures](https://www.moxxie.vc/)
+- [Bessemer Venture Partners](https://www.bvp.com/)

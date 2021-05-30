@@ -54,3 +54,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Freenode resignation FAQ](https://gist.github.com/joepie91/df80d8d36cd9d1bde46ba018af497409/)
 - [Leaving Freenode for a new network (2021)](https://www.kline.sh/) ([HN](https://news.ycombinator.com/item?id=27207440))
 - [Solanum IRCd](https://solanum.chat/) - IRCv3 server designed to be highly scalable. ([Code](https://github.com/solanum-ircd/solanum))
+- [IRC: run it or use it, but try to avoid doing both (2021)](https://rachelbythebay.com/w/2021/05/26/irc/) ([Lobsters](https://lobste.rs/s/bnwwtx/irc_run_it_use_it_try_avoid_doing_both))

@@ -61,3 +61,4 @@
 - [How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit (2021)](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)
 - [Teeing, a hidden gem in the Java API (2021)](https://blog.frankel.ch/teeing-java-api/) ([HN](https://news.ycombinator.com/item?id=27103033))
 - [Why use Java instead of Kotlin? (2021)](https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/) ([HN](https://news.ycombinator.com/item?id=27183076))
+- [Quest to the OS: Java Native Memory (2021)](https://blog.picnic.nl/quest-to-the-os-java-native-memory-5d3ef68ffc0a) ([Lobsters](https://lobste.rs/s/9ne763/quest_os_java_native_memory))

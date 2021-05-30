@@ -243,3 +243,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Recut](https://getrecut.com/) - Remove Silence From Your Videos Automatically.
 - [LightTwist](http://lighttwist.io/) - iOS app that turns your room into a customizable virtual video studio.
 - [OpenHD](https://github.com/OpenHD/Open.HD) - HD video, UAV telemetry, audio, and RC control. ([HN](https://news.ycombinator.com/item?id=27298422))
+- [TubeNotes](https://tubenotes.xyz/) - Annotate and Loop Videos.
+- [Synthesia](https://www.synthesia.io/) - Create AI videos by simply typing in text. ([HN](https://news.ycombinator.com/item?id=27328205))
