@@ -318,3 +318,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [IPATool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store.
 - [WWDC21](https://developer.apple.com/wwdc21/) ([HN](https://news.ycombinator.com/item?id=27266177))
 - [MicroMDM](https://github.com/micromdm/micromdm) - Mobile Device Management server. ([Web](https://micromdm.io/))
+- [Object serialization in iOS (2019)](https://dmtopolog.com/object-serialization-in-ios/)

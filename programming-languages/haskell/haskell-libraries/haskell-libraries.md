@@ -122,6 +122,7 @@
 - [Hypertypes](https://github.com/lamdu/hypertypes) - Generic programming for heterogeneous recursive types.
 - [laop](https://github.com/bolt12/laop) - Linear Algebra of Programming - Algebraic Matrices in Haskell.
 - [Category-Syntax](https://github.com/gelisam/category-syntax) - Do-notation for Category and "Arrow without arr".
+- [PariPari](https://github.com/minad/paripari) - Fast parser combinator library for Haskell.
 
 ## Links
 

@@ -222,6 +222,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Longest book you actually are delighted you read and think about very often?](https://twitter.com/ellegist/status/1377735648749182977)
 - [Ask HN: What is a good fictional universe to get immersed in? (2021)](https://news.ycombinator.com/item?id=27270776)
 - [Unhinged Women Fiction // Book Recs (2021)](https://www.youtube.com/watch?v=rNAfoCEmiXE&list=TLPQMjUwNTIwMjFg8xCFMewS1g&index=7)
+- [50 book recommendations (2021)](https://twitter.com/AliAbdaal/status/1392177777382670342)
+- [20 books to read in your 20s](https://twitter.com/warikoo/status/1398148280291250176)
 
 ## Notes
 

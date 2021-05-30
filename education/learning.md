@@ -118,3 +118,4 @@
 - [Ask HN: What lessons did you learn from your best or worst colleagues? (2021)](https://news.ycombinator.com/item?id=27161901)
 - [Learney](https://app.learney.me/) - Online learning platform that lets you take your own path.
 - [Caught in the Study Web (2021)](https://every.to/cybernaut/caught-in-the-study-web) ([Tweet](https://twitter.com/fadeke_adegbuyi/status/1396908868656005123))
+- [Neso Academy - YouTube](https://www.youtube.com/c/nesoacademy/videos) - On a mission to provide free and subsidized education.

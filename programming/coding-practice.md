@@ -22,6 +22,7 @@
 - [Online Judge](https://onlinejudge.org/) ([Code](https://github.com/TheOnlineJudge/ojudge))
 - [Edabit](https://edabit.com/) - Interactive coding challenges.
 - [DMOJ](https://dmoj.ca/) - Modern Online Judge. ([Code](https://github.com/DMOJ/online-judge))
+- [CodeCrafters](httpsm://codecrafters.io/) - Advanced Programming Challenges.
 
 ## LeetCode solutions
 

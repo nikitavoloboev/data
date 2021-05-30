@@ -115,3 +115,4 @@
 - [OS Fund](https://osfund.co/)
 - [Moxxie Ventures](https://www.moxxie.vc/)
 - [Bessemer Venture Partners](https://www.bvp.com/)
+- [chaotic.capital](https://chaotic.capital/)
