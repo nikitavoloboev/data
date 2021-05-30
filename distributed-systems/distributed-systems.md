@@ -186,3 +186,4 @@
 - [A robust distributed locking algorithm based on Google Cloud Storage (2021)](https://www.joyfulbikeshedding.com/blog/2021-05-19-robust-distributed-locking-algorithm-based-on-google-cloud-storage.html)
 - [Sealer](https://github.com/alibaba/sealer) - Build share and run your distributed applications.
 - [Scalability](https://github.com/Clivern/Scalability) - Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
+- [Building a Raft (2021)](https://benjamincongdon.me/blog/2021/05/16/Building-a-Raft/)
