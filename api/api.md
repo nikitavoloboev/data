@@ -219,3 +219,4 @@
 - [4 essential characteristics of successful APIs (2021)](https://opensource.com/article/21/5/successful-apis)
 - [The Architecture of Uber's API gateway (2021)](https://eng.uber.com/architecture-api-gateway/)
 - [Small things that make APIs a little bit better for its users (2021)](https://edmz.org/personal/2021/05/27/small_things_that_make_apis_a_little_bit_better.html) ([Lobsters](https://lobste.rs/s/7bak6y/small_things_make_apis_litte_bit_better))
+- [AIP Improvement Proposals](https://google.aip.dev/) - Focused design documents for flexible API development. How Google does APIs. ([Code](https://github.com/aip-dev/google.aip.dev))

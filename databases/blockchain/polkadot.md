@@ -45,3 +45,4 @@
 - [Banksy Network](https://github.com/Banksy-Finance/banksy) - Cross-chain NFT based on Substrate for Polkadot and Kusama.
 - [Statemint](https://github.com/paritytech/statemint) - Blockchain to support generic assets in the Polkadot and Kusama networks.
 - [BEEFY (Bridge Efficiency Enabling Finality Yielder)](https://github.com/paritytech/grandpa-bridge-gadget) - Secondary protocol running along GRANDPA Finality to support efficient bridging with non-Substrate blockchains.
+- [Polkadot Decoded 2021: Auctions, and Crowdloans, and Slots (2021)](https://www.youtube.com/watch?v=qGjCYl2awkM)
