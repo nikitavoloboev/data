@@ -477,3 +477,4 @@
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization (2020)](https://arxiv.org/abs/2010.01412) ([Code](https://github.com/Jannoshh/simple-sam))
 - [Apple - Making Mobile Applications Accessible with Machine Learning (2021)](https://machinelearning.apple.com/research/mobile-applications-accessible)
 - [NYU Deep Learning Spring 2021](https://github.com/Atcold/NYU-DLSP21) ([Videos](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI))
+- [JAX learning resources (2021)](https://www.reddit.com/r/MachineLearning/comments/no3r7m/d_jax_learning_resources/)

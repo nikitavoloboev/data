@@ -60,3 +60,4 @@
 - [Modern CSS Upgrades To Improve Accessibility (2021)](https://moderncss.dev/modern-css-upgrades-to-improve-accessibility/)
 - [Practical Accessibility](https://practical-accessibility.today/) - Web accessibility course for Web designers and developers, by Sara Soueidan.
 - [Replit - Why We Switched From Webpack To Vite (2021)](https://blog.replit.com/vite)
+- [Why we’ve created an accessibility manual – and how you can help shape it (2021)](https://accessibility.blog.gov.uk/2021/05/27/why-weve-created-an-accessibility-manual-and-how-you-can-help-shape-it/)

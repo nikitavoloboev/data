@@ -844,6 +844,7 @@
 - [hashed-permutation](https://github.com/afnanenayet/hashed-permutation) - An implementation of Kensler's hashed permutation algorithm.
 - [Array2D](https://github.com/HarrisonMc555/array2d) - Statically-sized two-dimensional array written in Rust.
 - [Ropey](https://github.com/cessen/ropey) - utf8 text rope for manipulating and editing large texts.
+- [Twoway](https://github.com/bluss/twoway) - Fast substring search for strings and byte strings, using the two-way algorithm.
 
 ## Cargo Plugins
 
