@@ -9,6 +9,7 @@ Here are few more things I liked, design wise.
 - [Pipe](https://www.pipe.com/)
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)
+- [Scale](https://scale.com/)
 - [Arrival](https://arrival.com/)
 - [Framer](https://www.framer.com/)
 - [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370))

@@ -319,3 +319,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [WWDC21](https://developer.apple.com/wwdc21/) ([HN](https://news.ycombinator.com/item?id=27266177))
 - [MicroMDM](https://github.com/micromdm/micromdm) - Mobile Device Management server. ([Web](https://micromdm.io/))
 - [Object serialization in iOS (2019)](https://dmtopolog.com/object-serialization-in-ios/)
+- [AppleVis](https://www.applevis.com/) - Online resource for blind and low vision users of Apple products.

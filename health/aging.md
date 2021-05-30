@@ -67,3 +67,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [How to solve aging (2021)](https://nintil.com/how-to-solve-aging/)
 - [Reminder on age “limits”](https://twitter.com/christenobrien/status/1396824607391318018)
 - [Analysis of blood markers predicts human lifespan limit (2021)](https://www.nature.com/articles/s41467-021-23014-1) ([HN](https://news.ycombinator.com/item?id=27288796))
+- [High FGF21, Low Insulin And Glucose: A Pro-Longevity Strategy? (2021)](https://www.youtube.com/watch?v=NreBsyaj0l0)

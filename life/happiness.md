@@ -72,3 +72,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [For those who can afford it, quitting has become the ultimate form of self-care (2021)(https://www.thecut.com/2021/05/quitting-your-job-as-self-care.html) ([HN](https://news.ycombinator.com/item?id=27120557))
 - [An Antidote to Dissatisfaction](https://www.youtube.com/watch?v=WPPPFqsECz0)
 - [Beyond a $90K income, happiness is based on social ties and time spent meaningfully (2021)](https://www.reddit.com/r/leanfire/comments/nh1zok/beyond_a_90k_income_happiness_is_based_on_social/)
+- [Best way to spend $15K to improve quality of life (2021)](https://www.reddit.com/r/fatFIRE/comments/nnzqwz/best_way_to_spend_15k_to_improve_quality_of_life/)
