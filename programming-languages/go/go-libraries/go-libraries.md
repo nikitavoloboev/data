@@ -821,6 +821,7 @@
 - [go-sundheit](https://github.com/AppsFlyer/go-sundheit) - Library built to provide support for defining service health for Go services.
 - [Render](https://github.com/unrolled/render) - Provides functionality for easily rendering JSON, XML, text, binary data, and HTML templates.
 - [LimitIO](https://github.com/nanmu42/limitio) - Go io.Reader and io.Writer with limit.
+- [notify](https://github.com/rjeczalik/notify) - File system event notification library on steroids.
 
 ## Links
 

@@ -214,3 +214,4 @@
 - [Freesound](https://freesound.org/) - Collaborative database of Creative Commons Licensed sounds.
 - [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio)
 - [Mix with the Masters](https://www.mixwiththemasters.com/) - Learn music production from the world's top music mixers and producers. ([YouTube](https://www.youtube.com/user/MixWithTheMASTERS/videos))
+- [A Recipe For Learning Audio Programming](https://pbat.ch/wiki/audio_programming_recipe/)
