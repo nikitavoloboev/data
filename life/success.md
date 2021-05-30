@@ -104,3 +104,4 @@ Success comes from not giving up and doing what you love.
 - [Old Guard vs. New Guard: How to best scale a team (2021)](https://twitter.com/johncutlefish/status/1392943820728246274)
 - [10 ways to start developing your intellectual curiosity (2021)](https://twitter.com/SahilBloom/status/1393558623771451393)
 - [The Mental Benefits of Being Terrible at Something (2021)](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits) ([HN](https://news.ycombinator.com/item?id=27204406))
+- [Advice to my younger self (2019)](https://blog.alexmaccaw.com/advice-to-my-younger-self/)

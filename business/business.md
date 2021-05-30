@@ -88,3 +88,4 @@ Learning to build [startups](startups/startups.md).
 - [Decision making framework businesses and startups](https://paul.copplest.one/levels/business.html#general)
 - [Colossus](https://www.joincolossus.com/) - Best information on business building and investing.
 - [Ask HN: Where would you incorporate in 2021?](https://news.ycombinator.com/item?id=27288453)
+- [The six principles of lifestyle businesses (2021)](https://blog.alexmaccaw.com/the-six-principles-of-lifestyle-businesses/)

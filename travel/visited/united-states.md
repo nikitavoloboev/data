@@ -52,3 +52,4 @@
 - [Field notes: Miami (2021)](https://devonzuegel.com/post/field-notes-miami) ([Tweet](https://twitter.com/zebulgar/status/1384986967218216962))
 - [Jonathan Haidt: The Coddling of the American Mind (2019)](https://www.youtube.com/watch?v=3b3Ob4CK4Xs)
 - [What's the most underrated neighborhood in the bay area? (2021)](https://twitter.com/pitdesi/status/1396886135381532672)
+- [Engineer’s Guide to US Visas (2019)](https://underdog.io/blog/engineers-guide-to-us-visas)
