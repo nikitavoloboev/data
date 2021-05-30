@@ -13,7 +13,7 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - [Don't compare myself to other people](https://twitter.com/_Pammy_DS_/status/1387212857016786948). [Don't listen to haters but pay attention to genuine feedback](https://twitter.com/EricRWeinstein/status/1387219408645361665). Improve.
 - Surround myself with people that inspire me & I can trust to do good. Be my true self. Inspire others.
-- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love.
+- Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people. Do what I love. Value myself and my work.
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
 - Don't judge anyone. Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love. Self love.
@@ -128,6 +128,9 @@
 - Ask before doing something that can potentially hurt your partner.
 - Assume good intentions. Call out bad behavior in a friendly way. Don't be passive aggressive and don't make many demeaning jokes about your partner/friend. Don't put people down for the sake of a laugh.
 - Take things seriously. Don't let anyone lose trust in you, especially your partner.
+- If you cannot avoid/stop hurting someone, then better stop communication with them, so you don’t continue doing it.
+- If you feel that something is not right, it probably is not right. Deal with it early.
+- You have power to influence other people, be gentle and kind.
 
 ## Communication
 
