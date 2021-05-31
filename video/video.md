@@ -247,3 +247,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [TubeNotes](https://tubenotes.xyz/) - Annotate and Loop Videos.
 - [Synthesia](https://www.synthesia.io/) - Create AI videos by simply typing in text. ([HN](https://news.ycombinator.com/item?id=27328205))
 - [What’s the best YouTube video you’ve ever seen? (2021)](https://twitter.com/patrick_oshag/status/1399040672271941637)
+- [AVPress](https://avpress.zaps.dev/) - In-browser video compressor.

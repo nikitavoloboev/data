@@ -147,3 +147,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Why Russians do not smile (2002)](https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/) ([HN](https://news.ycombinator.com/item?id=27317859))
 - [«ОПГ Озеро» | Путинизм как он есть (2021)](https://www.youtube.com/watch?v=lur-PCLaYNQ)
 - [Как погибает Россия. Разруха, воровство и смерть в русской деревне (2020)](https://www.youtube.com/watch?v=4iKE4DmWd1w)
+- [Путин Марионетка Кремля (2021)](https://www.youtube.com/watch?v=sPyVLDmEQIM)

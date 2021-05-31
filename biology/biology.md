@@ -67,3 +67,4 @@
 - [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/videos) ([Twitter](https://twitter.com/journeytomicro))
 - [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology)
 - [Computationally Designed Organisms With Josh Bongard & Michael Levin (2021)](https://www.youtube.com/watch?v=86krKgoEzGQ)
+- [How Slime Molds Remember Where They Ate (2021)](https://www.scientificamerican.com/article/how-slime-molds-remember-where-they-ate/)

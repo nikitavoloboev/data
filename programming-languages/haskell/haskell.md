@@ -29,6 +29,7 @@
 ## Links
 
 - [A Gentle Introduction to Haskell (2000)](https://www.haskell.org/tutorial/)
+- [CIS 194: Introduction to Haskell (2016)](https://www.seas.upenn.edu/~cis194/fall16/) ([Code](https://github.com/byorgey/haskell-course))
 - [Haskell Programming Book](https://haskellbook.com/)
 - [Learn Haskell Path](https://github.com/bitemyapp/learnhaskell)
 - [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types) ([Notes](https://abhinavsarkar.net/posts/twt-notes-1/))
@@ -284,3 +285,4 @@
 - [GADTs for Dummies](https://wiki.haskell.org/GADTs_for_dummies) ([HN](https://news.ycombinator.com/item?id=27172843))
 - [Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) - Project-driven approach to practical Haskell development.
 - [Haskell challenges](https://github.com/effectfully-ou/haskell-challenges) - Code challenges to solve with Haskell.
+- [Getting started with Haskell projects using Scotty (2021)](https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/)

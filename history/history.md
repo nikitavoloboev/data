@@ -115,3 +115,4 @@
 - [Books to understand Middle East better (2021)](https://twitter.com/brianleroux/status/1393588109514731522)
 - [Why Civilization Is Older Than We Thought (2021)](https://palladiummag.com/2021/05/17/why-civilization-is-older-than-we-thought/)
 - [Why Some Old Computers are Interesting](http://hccc.org.uk/retro/retro.html)
+- [We only ever talk about the third attack on Pearl Harbor](https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/) ([HN](https://news.ycombinator.com/item?id=27345075))

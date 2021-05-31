@@ -143,6 +143,7 @@ And these Discord servers:
 - [3 Quarks Daily](https://3quarksdaily.com/) - Science Arts Philosophy Politics Literature.
 - [C-Heads Magazine](https://www.c-heads.com/) - Magazine for photography, fashion, music & youth culture.
 - [Palladium Magazine](https://palladiummag.com/)
+- [But What For?](https://www.butwhatfor.com/)
 
 ### Other
 

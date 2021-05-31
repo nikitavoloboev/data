@@ -206,3 +206,4 @@
 - [The Consultant Out of Time (2021)](https://tomcritchlow.com/2021/01/26/kairos/)
 - [Ask HN: Charge per hour or per project? (2021)](https://news.ycombinator.com/item?id=26899225)
 - [Ask HN: How did you transition from FTE to self-employed/sole proprietor? (2021)](https://news.ycombinator.com/item?id=26995874)
+- [Consulting 101 Advice (2021)](https://twitter.com/mike_julian/status/1399471815014031366)

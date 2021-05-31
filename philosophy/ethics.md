@@ -19,3 +19,4 @@
 - [Stanford Ethical and Social Issues in Natural Language Processing Seminar](https://web.stanford.edu/class/cs384/)
 - [NeurIPS Ethics Guidelines](https://neurips.cc/public/EthicsGuidelines)
 - [Notes on Ethics](https://paul.copplest.one/knowledge/philosophy/ethics.html)
+- [Are we cut out for universal morality? (2021)](https://nautil.us/issue/100/outsiders/are-we-cut-out-for-universal-morality) ([HN](https://news.ycombinator.com/item?id=27336272))

@@ -23,3 +23,4 @@ I sometimes do one day fasts but not routinely.
 - [Effects of Intermittent Fasting on Health, Aging, and Disease](https://www.gwern.net/docs/longevity/2019-decabo.pdf) ([HN](https://news.ycombinator.com/item?id=21887905))
 - [Fasting and rapamycin: diabetes versus benevolent glucose intolerance (2019)](https://www.nature.com/articles/s41419-019-1822-8) ([Reddit](https://www.reddit.com/r/longevity/comments/cprhpl/fasting_and_rapamycin_diabetes_versus_benevolent/))
 - [Fasting improves chemotherapy results and protects from side effects (2020)](https://www.nature.com/articles/s41467-020-16138-3) ([HN](https://news.ycombinator.com/item?id=24480142))
+- [Intermittent Fasting Improves Long Term Memory (2021)](https://neurosciencenews.com/intermittent-fasting-neurogenesis-memory-18522/) ([Reddit](https://www.reddit.com/r/EverythingScience/comments/np1mnv/intermittent_fasting_improves_long_term_memory/))
