@@ -286,3 +286,4 @@
 - [Simple Haskell Handbook](https://leanpub.com/simple-haskell-book) - Project-driven approach to practical Haskell development.
 - [Haskell challenges](https://github.com/effectfully-ou/haskell-challenges) - Code challenges to solve with Haskell.
 - [Getting started with Haskell projects using Scotty (2021)](https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/)
+- [Haskell project template using Nix + Flakes + VSCode (HLS)](https://github.com/srid/haskell-template)

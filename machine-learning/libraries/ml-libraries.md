@@ -142,3 +142,4 @@
 - [PySR](https://github.com/MilesCranmer/PySR) - Simple, fast, and parallelized symbolic regression in Python/Julia via regularized evolution and simulated annealing.
 - [Snowman Hotword Detection](https://github.com/Thalhammer/snowman)
 - [CLU](https://github.com/google/CommonLoopUtils) - Contains common functionality for writing ML training loops using JAX.
+- [SparseML](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models.
