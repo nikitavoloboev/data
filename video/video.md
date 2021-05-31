@@ -13,6 +13,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [iPhone 12 - 6 Months Later](https://www.youtube.com/watch?v=ab5Oackjvv8)
 - [LEVA - YouTube](https://www.youtube.com/channel/UC6t1USQd5kZsY7AFACsdC9Q/videos)
 - [TikTok Remix Culture](https://twitter.com/Iameaschris/status/1391207396979007488) ([HN](https://news.ycombinator.com/item?id=27161011))
+- [Parasite VFX reel](https://twitter.com/jimmycthatsme/status/1398707908259442693)
 
 ## Favorite clips
 

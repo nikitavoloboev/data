@@ -218,3 +218,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [node-rs](https://github.com/napi-rs/node-rs) - Rust Node.js bindings.
 - [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading.
 - [How to update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
+- [nact](https://github.com/nactio/nact) - Node.js + actors. Redux but for the server. ([Web](https://nact.io/))

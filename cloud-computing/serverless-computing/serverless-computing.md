@@ -98,3 +98,4 @@
 - [Go SDK for Serverless Workflow](https://github.com/serverlessworkflow/sdk-go)
 - [The State of Serverless (2021)](https://www.datadoghq.com/state-of-serverless/)
 - [Second State](https://www.secondstate.io/) - Fast, safe, portable & serverless Rust on WebAssembly. ([GitHub](https://github.com/second-state))
+- [The Serverless Edge](https://www.theserverlessedge.com/) - Learn how serverless can transform your business model.

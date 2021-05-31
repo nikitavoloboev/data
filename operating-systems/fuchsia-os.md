@@ -13,3 +13,4 @@
 - [Expanding Fuchsia's open source model (2020)](https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html) ([HN](https://news.ycombinator.com/item?id=25347967))
 - [Fun facts as team member of Fuchsia project (2020)](https://twitter.com/marcaruel/status/1336722205636517891)
 - [Portable Fuchsia Emulator (FImage)](https://github.com/dahliaOS/fimage)
+- [Taking a look at Google's Fuchsia OS (2021)](https://www.youtube.com/watch?v=P76hq28dPxQ)

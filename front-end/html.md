@@ -119,3 +119,4 @@
 - [The Button Cheat Sheet](https://www.buttoncheatsheet.com/) ([HN](https://news.ycombinator.com/item?id=27276547))
 - [HTML Parser Book](https://htmlparser.info/) - Idiosyncrasies of the HTML parser. ([Code](https://github.com/zcorpan/html-parser-book)) ([HN](https://news.ycombinator.com/item?id=27311627))
 - [Declarative Shadow DOM](https://github.com/mfreed7/declarative-shadow-dom)
+- [Your Ultimate Guide to Understanding DOM Events](https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23)

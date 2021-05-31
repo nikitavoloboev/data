@@ -58,3 +58,4 @@
 - [LadyLua](https://github.com/tongson/LadyLua) - Batteries-included static Lua 5.1 interpreter. ([HN](https://news.ycombinator.com/item?id=26738006))
 - [TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Write Lua with TypeScript. ([Web](https://typescripttolua.github.io/))
 - [debugger.lua](https://github.com/slembcke/debugger.lua) - Simple, embedabble CLI debugger for Lua.
+- [Terra](https://terralang.org/) - Low-level system programming language meta-programmed from Lua. ([HN](https://news.ycombinator.com/item?id=27334065)) ([Code](https://github.com/terralang/terra))
