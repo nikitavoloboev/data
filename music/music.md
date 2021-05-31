@@ -125,3 +125,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Radiohead: магия аккорда. Лекция Анны Виленской (2020)](https://www.youtube.com/watch?v=dxHlcBH4eVc)
 - [Chillhop Music](https://chillhop.com/) - Lofi hip hop and chill beats. ([YouTube](https://www.youtube.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg))
 - [What are your top three Jazz albums and why? (2021)](https://www.reddit.com/r/Jazz/comments/nniyfs/what_are_your_top_three_jazz_albums_and_why/)
+- [Nina](https://nina.market/) - Decentralized music distribution service. ([Litepaper](https://docs.nina.market/litepaper/))

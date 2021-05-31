@@ -27,6 +27,7 @@
 - [Proxy.py](https://github.com/abhinavsingh/proxy.py) - Lightweight, single file HTTP proxy server in Python.
 - [Ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach. ([Web](https://ariadnegraphql.org/))
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
+- [HTTP Core](https://github.com/encode/httpcore) - Minimal HTTP client.
 
 ## ML
 
@@ -63,6 +64,7 @@
 - [Orion](https://github.com/Epistimio/orion) - Asynchronous Distributed Hyperparameter Optimization. ([Docs](https://orion.readthedocs.io/en/stable/))
 - [ProbNum](https://github.com/probabilistic-numerics/probnum) - Probabilistic Numerics in Python.
 - [OpenL3](https://github.com/marl/openl3) - Open-source deep audio and image embeddings.
+- [xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library.
 
 ## Biology
 
@@ -83,6 +85,8 @@
 
 ## DB
 
+- [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.
+- [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy.
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - Lightweight library for converting complex objects to and from simple Python datatypes. ([Docs](https://marshmallow.readthedocs.io/en/stable/))
 - [marshmallow-dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
@@ -158,7 +162,6 @@
 - [sktime](https://github.com/alan-turing-institute/sktime) - scikit-learn compatible Python toolbox for learning with time series and panel data.
 - [Incremental](https://github.com/twisted/incremental) - Library for versioning your Python projects.
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
-- [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.
 - [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
 - [Thorn](https://github.com/robinhood/thorn) - Webhook framework for Python, focusing on flexibility and ease of use, both when getting started and when maintaining a production system.
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
@@ -405,6 +408,8 @@
 - [vg](https://github.com/lace/vg) - Linear algebra for humans.
 - [soundata](https://github.com/soundata/soundata) - Python library for loading & working with sound datasets.
 - [QuickPotato](https://github.com/JoeyHendricks/QuickPotato) - Profile and test to gain insights into the performance of your beautiful Python code.
+- [APScheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python.
+- [cbor2](https://github.com/agronholm/cbor2) - Pure Python CBOR (de)serializer with extensive tag support.
 
 ## Links
 
@@ -428,3 +433,5 @@
 - [cibuildwheel](https://github.com/joerick/cibuildwheel) - Build Python wheels for all the platforms on CI with minimal configuration.
 - [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/) ([HN](https://news.ycombinator.com/item?id=26733423))
 - [PDM](https://github.com/pdm-project/pdm) - Modern Python package manager with PEP 582 support.
+- [Python Wheel Standard](https://github.com/pypa/wheel)
+- [Python Packaging Authority](https://www.pypa.io/en/latest/) ([GitHub](https://github.com/pypa))

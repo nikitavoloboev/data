@@ -299,3 +299,4 @@
 - [True Few-Shot Learning with Language Models (2021)](https://arxiv.org/abs/2105.11447) ([Tweet](https://twitter.com/EthanJPerez/status/1397015129506541570))
 - [End-to-end NLP workflows from prototype to production](https://github.com/explosion/projects) ([Web](https://spacy.io/usage/projects))
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end Python framework for building natural language search interfaces to data.
+- [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.

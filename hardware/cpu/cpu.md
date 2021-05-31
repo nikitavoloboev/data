@@ -98,3 +98,4 @@
 - [Atomics in AArch64 (2021)](https://cpufun.substack.com/p/atomics-in-aarch64)
 - [CPU Fun Blog](https://cpufun.substack.com/) - Intended to cover various subjects related to the low-level interactions of software and hardware.
 - [Building an Always-On CPU Profiler (2021)](https://blog.px.dev/cpu-profiling/)
+- [Scamp – a homebrew 16-bit CPU (2021)](https://incoherency.co.uk/blog/stories/scamp-lives.html) ([HN](https://news.ycombinator.com/item?id=27339088))

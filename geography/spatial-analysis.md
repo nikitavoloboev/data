@@ -69,3 +69,4 @@
 - [Ask HN: Cheapest Maps APIs (2021)](https://news.ycombinator.com/item?id=27032680)
 - [geopy](https://github.com/geopy/geopy) - Geocoding library for Python.
 - [leafmap](https://github.com/giswqs/leafmap) - Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment.
+- [PostGIS at 20, The Beginning (2021)](http://blog.cleverelephant.ca/2021/05/postgis-20-years.html) ([HN](https://news.ycombinator.com/item?id=27344639))

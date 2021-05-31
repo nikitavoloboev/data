@@ -193,3 +193,4 @@
 - [Replit now supports every programming language in Nix (2021)](https://blog.replit.com/nix) ([HN](https://news.ycombinator.com/item?id=27269292))
 - [nix-graph](https://github.com/awakesecurity/nix-graph) - Reify the Nix build graph into a Haskell graph data structure.
 - [Digga](https://github.com/divnix/digga) - Feature rich and configurable framework for harnessing Nix Flakes.
+- [Nix solves the package manager ejection problem (2021)](https://zeroindexed.com/nix-ejection-problem) ([HN](https://news.ycombinator.com/item?id=27344677))

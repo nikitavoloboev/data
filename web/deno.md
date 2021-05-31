@@ -103,3 +103,4 @@
 - [dzx](https://github.com/c4spar/deno-dzx) - Deno shell tools inspired by zx.
 - [Trex](https://github.com/crewdevio/Trex) - Package Manager for Deno.
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
+- [Deno PKG](https://denopkg.com/) - Use GitHub as a package registry for Deno. ([Code](https://github.com/denopkg/denopkg.com))

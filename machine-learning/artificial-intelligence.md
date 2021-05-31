@@ -80,3 +80,5 @@
 - [Intel ISL (Intel Intelligent Systems Lab)](http://vladlen.info/lab/) ([GitHub](https://github.com/intel-isl))
 - [Biases in AI Systems (2021)](https://queue.acm.org/detail.cfm?id=3466134)
 - [Anthropic AI](https://www.anthropic.com/) - Building Reliable, Interpretable, and Steerable AI Systems. ([HN](https://news.ycombinator.com/item?id=27318153))
+- [Coral](https://coral.ai/) - Complete toolkit to build products with local AI. ([GitHub](https://github.com/google-coral))
+- [PAIR – Google Research](https://research.google/teams/brain/pair/) - Human-centered research and design to make AI partnerships productive, enjoyable, and fair.

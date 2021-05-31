@@ -11,3 +11,4 @@
 - [Kubernetes operator for FoundationDB](https://github.com/FoundationDB/fdb-kubernetes-operator)
 - [FoundationDB site](https://www.foundationdb.org/)
 - [A ZooKeeper Layer for FoundationDB - Paul Hemberger (2020)](https://www.youtube.com/watch?v=3FYpf1QMPgQ)
+- [FoundationDB: How I Learned to Stop Worrying and Trust the Database (2020)](https://www.youtube.com/watch?v=OJb8A6h9jQQ)

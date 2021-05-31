@@ -110,3 +110,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Relocate.me](https://relocate.me/) - Find Developer Jobs, IT Jobs Abroad.
 - [Three Steps I Took to Get a Job Offer From Amazon (2021)](https://fallenstedt.com/blog/how-to-succeed-at-interviews/)
 - [Ask HN: Are there software companies with a good life/work balance? (2021)](https://news.ycombinator.com/item?id=27250546)
+- [20 ways to stand out in a hiring process](https://twitter.com/SahilBloom/status/1399375061111382022)

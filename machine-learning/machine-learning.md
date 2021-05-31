@@ -339,6 +339,7 @@
 - [Decision Making under Uncertainty course](https://web.stanford.edu/class/aa228/cgi-bin/wp/) ([Algorithms for Decision Making book](https://github.com/sisl/algorithmsbook/)) ([Concise Deep Learning Overview (2020)](https://web.stanford.edu/group/sisl/public/dm/chapter-31.pdf) ([HN](https://news.ycombinator.com/item?id=24908999))) ([Book Website](https://algorithmsbook.com/))
 - [Effective testing for machine learning systems (2020)](https://www.jeremyjordan.me/testing-ml/)
 - [Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
+- [Awesome Multimodal Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 - [ML and DL related contests, competitions and conference challenges](https://github.com/skrish13/ml-contests-conf)
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - Contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [DL Visuals](https://github.com/dvgodoy/dl-visuals) - Deep Learning Visuals.
@@ -478,3 +479,5 @@
 - [Apple - Making Mobile Applications Accessible with Machine Learning (2021)](https://machinelearning.apple.com/research/mobile-applications-accessible)
 - [NYU Deep Learning Spring 2021](https://github.com/Atcold/NYU-DLSP21) ([Videos](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI))
 - [JAX learning resources (2021)](https://www.reddit.com/r/MachineLearning/comments/no3r7m/d_jax_learning_resources/)
+- [Machine Learning with Python Cookbook Book (2018)](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/)
+- [Understanding Dimensionality Reduction with UMAP](https://pair-code.github.io/understanding-umap/)

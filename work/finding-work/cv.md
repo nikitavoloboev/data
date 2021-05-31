@@ -65,6 +65,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
   - What was the business impact?
   - Is this experience relevant for my business?
 - Ideally keep the CV to one page, so cut out irrelevant or low signal information.
+- [Talk a lot more about outcomes/ results. Talk a little bit less about specific technologies. Avoid a list of projects or accomplishments without context.](https://twitter.com/davidbrunelle/status/1399377372659343363)
 
 ## Links
 

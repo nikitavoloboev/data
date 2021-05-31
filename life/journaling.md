@@ -10,7 +10,7 @@ Journaling helps me be mindful of what I am doing and keeps me in check for what
 
 If I ever feel down, I can just start writing and just release all these negative thoughts onto paper. Many times, the simple act of writing makes you realize that these things I worry about are silly and are either not in my control or simply not worth even being sad over.
 
-I quite like [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/) and [Brandur's small notes on all things](https://brandur.org/fragments).
+I quite like [Fabian's retrospectives](https://capnfabs.net/tags/retrospective/), [Brandur's small notes on all things](https://brandur.org/fragments) and [Matous's journals](https://dzx.cz/tags/journal/).
 
 ## Day One Journals
 

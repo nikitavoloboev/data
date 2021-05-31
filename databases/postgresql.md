@@ -269,3 +269,4 @@
 - [How difficult is to create a database software like PostgreSQL? (2021)](https://www.migops.com/blog/2021/04/17/how-difficult-is-to-create-a-database-software-like-postgresql/)
 - [PostgreSQL EXPLAIN Output Explained (2021)](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/) ([HN](https://news.ycombinator.com/item?id=27317024))
 - [PolarDB](https://github.com/alibaba/PolarDB-for-PostgreSQL) - Open source database system based on PostgreSQL. ([HN](https://news.ycombinator.com/item?id=27330342))
+- [PostgreSQL UUID vs. Serial vs. Identity (2021)](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/) ([HN](https://news.ycombinator.com/item?id=27345837))

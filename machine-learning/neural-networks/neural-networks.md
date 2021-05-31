@@ -232,3 +232,4 @@
 - [Adapting Neural Networks for the Estimation of Treatment Effects (2018)](https://arxiv.org/abs/1906.02120) ([Code](https://github.com/claudiashi57/dragonnet))
 - [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/abs/2104.14516) ([Code](https://github.com/zawagner22/cross-entropy-for-combinatorics))
 - [Artificial Neural Nets Finally Yield Clues to How Brains Learn (2021)](https://overcast.fm/+JGHe8QPBw)
+- [Neural Additive Models: Interpretable Machine Learning with Neural Nets (2020)](https://arxiv.org/abs/2004.13912) ([Code](https://github.com/rish-16/nam-pytorch))

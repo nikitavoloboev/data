@@ -248,3 +248,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [BPF tips & tricks: the guide to bpf_trace_printk() and bpf_printk() (2021)](https://nakryiko.com/posts/bpf-tips-printk/)
 - [Understanding btrfs internals (2020)](https://dxuuu.xyz/btrfs-internals.html)
 - [multiaddr](https://github.com/multiformats/multiaddr) - Composable and future-proof network addresses. ([Web](https://multiformats.io/multiaddr/))
+- [curl localhost as a local host (2021)](https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/)
+- [OSI Reference Model - The ISO Model of Architecture for Open Systems Interconnection (1980)](https://www.cs.cmu.edu/~srini/15-744/F02/readings/Zim80.pdf)

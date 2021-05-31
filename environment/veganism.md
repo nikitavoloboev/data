@@ -47,3 +47,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Vegan Bootcamp](https://veganbootcamp.org/) - Going vegan has never been easier.
 - [Plant-based diet would reduce agricultural land use from 4 to 1B hectares (2021)](https://ourworldindata.org/land-use-diets) ([HN](https://news.ycombinator.com/item?id=26342343))
 - [Vegan Fitness Reddit](https://www.reddit.com/r/veganfitness/) - Place to come and discuss vegan fitness, bodybuilding, and health.
+- [Labriculture Now (2021)](https://logicmag.io/distribution/labriculture-now/) - Time to disrupt the toxic animal agriculture industry with bioreactor-brewed meat.

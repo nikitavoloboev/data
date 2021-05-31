@@ -64,3 +64,4 @@
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing. ([HN](https://news.ycombinator.com/item?id=26666142))
 - [SkyTransfer](https://skytransfer.hns.siasky.net/#/) - Free, Open-Source, Decentralized and Encrypted File-Sharing. ([Code](https://github.com/kamy22/skytransfer)) ([HN](https://news.ycombinator.com/item?id=27017805))
 - [Sending Files with Taildrop (2021)](https://tailscale.com/blog/sending-files-with-taildrop/)
+- [Powergate](https://github.com/textileio/powergate) - Multitiered file storage API built on Filecoin and IPFS.

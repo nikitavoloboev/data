@@ -845,6 +845,10 @@
 - [Array2D](https://github.com/HarrisonMc555/array2d) - Statically-sized two-dimensional array written in Rust.
 - [Ropey](https://github.com/cessen/ropey) - utf8 text rope for manipulating and editing large texts.
 - [Twoway](https://github.com/bluss/twoway) - Fast substring search for strings and byte strings, using the two-way algorithm.
+- [serde-diff](https://github.com/amethyst/serde-diff) - Utility for comparing two structs and re-applying the differences to other structs.
+- [Sluice](https://github.com/sagebind/sluice) - Asynchronous byte buffers and pipes for concurrent I/O programming.
+- [terminusdb-store](https://github.com/terminusdb/terminusdb-store) - Tokio-enabled data store for triple data.
+- [async-attributes](https://github.com/async-rs/async-attributes) - Experimental language-level polyfills for Async Rust.
 
 ## Cargo Plugins
 

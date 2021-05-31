@@ -96,6 +96,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Dijkstra: On the foolishness of "natural language programming"](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html) ([Tweet](https://twitter.com/GabrielG439/status/1279178769949798400))
 - [Semantics with Applications: A Formal Introduction](http://www.dis.uniroma1.it/~degiacom/CogRobCourse01/NielsonNielson.ps)
 - [The Formal Semantics of Programming Languages: An Introduction (1993)](https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf)
+- [Semantics of Programming Languages in Agda](https://github.com/GavinMendelGleason/programming_semantics)
 - [The Fatal Flaw of Ownership Semantics (2020)](https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)
 - [The Pyret Code; or A Rationale for the Pyret Programming Language](https://www.pyret.org/pyret-code/index.html) ([Lobsters](https://lobste.rs/s/j0i8au/pyret_code_rationale_for_pyret))
 - [Statically Sized Higher-kinded Polymorphism (2020)](http://blog.ielliott.io/sized-hkts/) ([Lobsters](https://lobste.rs/s/vlndlq/statically_sized_higher_kinded))
@@ -205,3 +206,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Playground for PL ideas](https://github.com/alecthomas/langx)
 - [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html) ([HN](https://news.ycombinator.com/item?id=27210008))
 - [Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers)
+- [Sereal](https://github.com/Sereal/Sereal) - Fast, compact, schema-less, binary serialization and deserialization oriented towards dynamic languages.

@@ -70,3 +70,4 @@
 - [Cloudflare on the Edge (2021)](https://stratechery.com/2021/cloudflare-on-the-edge/) ([HN](https://news.ycombinator.com/item?id=27120677))
 - [Ask HN: Where is a nice place to host which is not AWS / GCP types (2021)](https://news.ycombinator.com/item?id=27150689)
 - [Northflank](https://northflank.com/) - Full-stack cloud platform.
+- [Spot instances for personal servers (2021)](https://pitr.ca/2021-05-23-personal-spot) - Save 70% on personal servers.

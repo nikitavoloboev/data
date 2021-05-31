@@ -74,3 +74,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Redata](https://www.redata.team/) - Better monitoring for data teams. ([Code](https://github.com/redata-team/redata))
 - [SaaS Metrics](https://www.causal.app/saas-metrics) - Collection of articles and interactive models, to help you understand the metrics that matter to your SaaS business.
 - [Volument](https://volument.com/) - Smarter take on website analytics. ([HN](https://news.ycombinator.com/item?id=27186249))
+- [June](https://june.so/) - Instant analytics reports, on top of Segment.

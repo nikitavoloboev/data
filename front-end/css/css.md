@@ -317,3 +317,4 @@
 - [CSS Container Queries: Use-Cases And Migration Strategies (2021)](https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/)
 - [Parsel](https://github.com/LeaVerou/parsel) - Tiny, permissive CSS selector parser. ([Web](https://projects.verou.me/))
 - [What the heck, z-index?](https://www.joshwcomeau.com/css/stacking-contexts/) - Exploring stacking contexts, one of the most misunderstood mechanisms in CSS.
+- [Critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages.

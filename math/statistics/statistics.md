@@ -101,3 +101,4 @@
 - [An Introduction to Statistical Learning Book](https://www.statlearning.com/)
 - [ISLR tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
 - [Core components of recommender systems (2021)](https://rezkaaufar.github.io/blog/2021/recsys-core-components/?1)
+- [Interactive Visualization of Gaussian Processes](http://www.infinitecuriosity.org/vizgp/)

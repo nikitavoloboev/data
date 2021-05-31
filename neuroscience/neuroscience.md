@@ -70,6 +70,7 @@
 - [Neurons Act Not As Complex, Multi-Unit Processing Systems (2020)](https://www.resonancescience.org/blog/Neurons-Act-Not-As-Simple-Logic-Gates-But-As-Complex-Multi-Unit-Processing-Systems) ([Tweet](https://twitter.com/IntuitMachine/status/1395564948751802368))
 - [An Atlas of Cortical Arealization Identifies Dynamic Molecular Signatures (2021)](https://www.biorxiv.org/content/10.1101/2021.05.17.444528v2)
 - [Nowakowski Lab](https://nowakowski-lab.squarespace.com/)
+- [Patrick J. Mineault's research on neuroscience, ML](https://xcorr.net/)
 
 ## Images
 

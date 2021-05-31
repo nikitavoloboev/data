@@ -178,3 +178,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Базовые принципы проектирования](https://andreivoronin.github.io/design-basic)
 - [Design Regression](https://designregression.com/) - Journal publishing texts that are about design for reading and reading-related research.
 - [Playbook](https://askplaybook.com/) - Helps designers achieve their career goals.
+- [Embracing Design Constraints (2021)](https://adrianroselli.com/2021/05/embracing-design-constraints.html)

@@ -18,3 +18,4 @@
 - [What happens to all the dead electric-car batteries? (2021)](https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries) ([HN](https://news.ycombinator.com/item?id=27232178))
 - [Eternally five years away? No, batteries are improving under your nose (2021)](https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/)
 - [LiFePO4 Batteries On Boats](https://marinehowto.com/lifepo4-batteries-on-boats/)
+- [diyBMS v4](https://github.com/stuartpittaway/diyBMSv4) - Do it yourself battery management system for Lithium ion battery packs/cells.

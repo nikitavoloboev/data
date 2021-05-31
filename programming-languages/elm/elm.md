@@ -40,6 +40,7 @@
 - [Beginning Elm](https://elmprogramming.com/) - Gentle introduction to Elm programming language.
 - [Evan Czaplicki - The life of a file (2017)](https://www.youtube.com/watch?v=XpDsk374LDE)
 - [Elm debug extension](https://github.com/kraklin/elm-debug-extension) - Browser extension, that is making your elm Debug.log output much easier to work with.
+- [Functional Programming in Elm](https://functional-programming-in-elm.netlify.app/)
 - [Issue #40: Functional programming in Elm (2020)](https://elmbits.com/issue-40-functional-programming/)
 - [Elm Bits](https://elmbits.com/) - Free weekly newsletter about Elm.
 - [Elm Shared State example](https://github.com/ohanhi/elm-shared-state) - Example for organizing large Single-Page Applications (SPAs) in Elm.
@@ -63,3 +64,4 @@
 - [Elm Designer](https://github.com/passiomatic/elm-designer) - Visual code generator for Elm UI.
 - [React to Elm Migration Guide (2021)](https://dev.to/jesterxl/react-to-elm-migration-guide-30np)
 - [Elm at NoRedInk (2021)](https://juliu.is/elm-at-noredink/)
+- [Elm UI Book](https://github.com/dtwrks/elm-ui-book) - Book that tells the story of the UI elements of your Elm application.

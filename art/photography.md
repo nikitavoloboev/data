@@ -125,3 +125,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Life as a 1990s Russian newspaper photographer, shooting on a cheap Soviet camera (2021)](https://kosmofoto.com/2021/03/life-as-a-1990s-russian-newspaper-photographer-shooting-on-a-zenit-e/) ([HN](https://news.ycombinator.com/item?id=27170776))
 - [How do I properly photograph against light? (2021)](https://www.reddit.com/r/photography/comments/nj7hof/got_my_first_real_camera_how_do_i_properly/)
 - [If you could only have one lens, what would it be? (2021)](https://www.reddit.com/r/photography/comments/nn0nlv/if_you_could_only_have_one_lens_what_would_it_be/)
+- [Ask HN: Alternatives to Google Photos? (2021)](https://news.ycombinator.com/item?id=27338008)

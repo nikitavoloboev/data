@@ -16,7 +16,7 @@ I especially like the distinction of distributing content over distributing link
 - [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)
 - [IPFS Collaborative Notebook for Research](https://github.com/ipfs/notes)
 - [gx](https://github.com/whyrusleeping/gx) - Packaging tool built around the distributed, content addressed filesystem IPFS.
-- [Textile](https://textile.io/) - Set of open source tools that provide a decentralized database, IPFS-based storage, content hosting, and more over Libp2p, IPFS, and Filecoin.
+- [Textile](https://textile.io/) - Set of open source tools that provide a decentralized database, IPFS-based storage, content hosting, and more over Libp2p, IPFS, and Filecoin. ([GitHub](https://github.com/textileio))
 - [Textile's Threads protocol & database (js-threads)](https://github.com/textileio/js-threads)
 - [go-textile](https://github.com/textileio/go-textile) - Textile implementation in Go.
 - [Textile Docs](https://docs.textile.io/)

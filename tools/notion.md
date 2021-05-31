@@ -57,3 +57,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Apps](https://www.notionapps.xyz/) - Directory of Notion API apps.
 - [Notion Capture](https://github.com/btahir/notion-capture) - Shows how to use the new Notion API with Next.js to capture emails.
 - [The data model behind Notion's flexibility (2021)](https://www.notion.so/blog/data-model-behind-notion) ([HN](https://news.ycombinator.com/item?id=27200177)) ([Lobsters](https://lobste.rs/s/y11kqf/data_model_behind_notion_s_flexibility))
+- [Notion API Go SDK](https://github.com/jomei/notionapi)

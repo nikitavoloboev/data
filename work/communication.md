@@ -28,6 +28,7 @@
 - [Show interest and ask follow up questions to whatever conversation is going on along with while sharing some of your own experiences.](https://www.reddit.com/r/datingoverthirty/comments/nb2gga/tips_for_flirting_with_other_grown_ups/)
 - Tell your colleagues you appreciate them, directly and in private. Kudos are awesome, but a private message from a coworker feels really authentic and awesome.
 - [The best engineers I know admit when they don't know something.](https://twitter.com/NovallSwift/status/1395497415948464129)
+- [Everyone’s favorite subject is themselves. Remember that when you’re trying to strike up a conversation.](https://twitter.com/TuurDemeester/status/1399409965513723905)
 
 ## Links
 
@@ -110,3 +111,4 @@
 - [A practical guide to reducing loneliness (2021)](https://burgesspowell.medium.com/a-practical-guide-for-reducing-loneliness-right-now-f02f8c3035bd) ([HN](https://news.ycombinator.com/item?id=26943140))
 - [How To Breathe Correctly When Speaking (2017)](https://www.youtube.com/watch?v=bkY9C7VX8ww)
 - [Criticism pushes the web forward (2021)](https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/)
+- [You Can Only Maintain So Many Close Friendships (2021)](https://www.theatlantic.com/family/archive/2021/05/robin-dunbar-explains-circles-friendship-dunbars-number/618931/) ([Tweet](https://twitter.com/morganhousel/status/1399410481077514245?s=20))

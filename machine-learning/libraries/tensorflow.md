@@ -89,3 +89,4 @@
 - [Adaptive Framework for On-device Recommendation (2021)](https://blog.tensorflow.org/2021/04/adaptive-framework-for-on-device-recommendation.html)
 - [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning)
 - [TensorFlow Ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow.
+- [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow.

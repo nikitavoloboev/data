@@ -5,13 +5,14 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 ## Notes
 
 - [I use package.json scripts as entrypoints to custom JS scripts. Make is a build tool, not a meta-shellscript format.](https://news.ycombinator.com/item?id=26978206)
+- [`yarn upgrade-interactive --latest` to bulk choose which packages to upgrade to latest version.](https://twitter.com/debs_obrien/status/1399256756216381441)
 
 ## Links
 
 - [Introduction to Node.js](https://nodejs.dev/)
 - [Node.Dev](https://node.dev/) - Latest Node.js content, news and updates in one place.
 - [Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY)
-- [Node best practices](https://github.com/i0natan/nodebestpractices)
+- [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 - [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
 - [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [What is the Node way?](http://thenodeway.io/introduction)
@@ -219,3 +220,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading.
 - [How to update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
 - [nact](https://github.com/nactio/nact) - Node.js + actors. Redux but for the server. ([Web](https://nact.io/))
+- [Yalc](https://github.com/wclr/yalc) - Better workflow than npm | yarn link for package authors.

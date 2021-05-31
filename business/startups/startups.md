@@ -281,6 +281,7 @@
 - [Ask HN: How do I learn more about entrepreneurship/startups? (2021)](https://news.ycombinator.com/item?id=27205818)
 - [Paul Graham advice to startup founders (2021)](https://twitter.com/m_franceschetti/status/1395735041636974593)
 - [Working at a startup is overrated, both financially and emotionally (2021)](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##) ([HN](https://news.ycombinator.com/item?id=27245090))
+- [An Engineer's guide to Stock Options (2013)](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
 
 ## Images
 

@@ -3,7 +3,7 @@
 ## Links
 
 - [Where to start learning Reinforcement Learning in 2018?](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
-- [Reinforcement Learning, An Introduction book](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) - Significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence. ([Web](http://incompleteideas.net/book/the-book-2nd.html)) ([Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction))
+- [Reinforcement Learning, An Introduction book](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) - Significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence. ([Web](http://incompleteideas.net/book/the-book-2nd.html)) ([Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)) ([Julia Code](https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl))
 - [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, TensorFlow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 - [Learning to Learn for Robotic Control - Prof. Pieter Abbeel](https://www.youtube.com/watch?v=WFCzLZKVs44)
 - [MIT AGI: OpenAI Meta-Learning and Self-Play (Ilya Sutskever)](https://www.youtube.com/watch?v=9EN_HoEk3KY)
@@ -196,3 +196,4 @@
 - [Model-Based RL for Decentralized Multi-agent Navigation (2021)](https://ai.googleblog.com/2021/04/model-based-rl-for-decentralized-multi.html)
 - [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2))
 - [RoboDesk](https://github.com/google-research/robodesk) - Multi-Task Reinforcement Learning Benchmark.
+- [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) - Reinforcement learning package for Julia. ([Web](https://juliareinforcementlearning.org/))

@@ -216,3 +216,4 @@
 - [Sudograph](https://github.com/sudograph/sudograph) - GraphQL database for the Internet Computer. Greatly simplifies CRUD development by providing GraphQL queries and mutations derived directly from your GraphQL schema.
 - [PostGraphile Aggregates](https://github.com/graphile/pg-aggregates) - Aggregates for PostGraphile connections.
 - [Benzene](https://github.com/hoangvvo/benzene) - Fast, minimal, agnostic GraphQL Libraries. ([Docs](https://benzene.vercel.app/))
+- [GraphQL Conf](https://graphqlconf.org/) ([HN](https://news.ycombinator.com/item?id=27343280))

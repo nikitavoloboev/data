@@ -181,6 +181,7 @@
 - [candycode/elements](https://github.com/cndycd/elements) - Basic ingredients for baking custom React components spiced with spring physics.
 - [Mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience. ([Web](https://mantine.dev/))
 - [re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
+- [masonic](https://github.com/jaredLunde/masonic) - High-performance masonry layouts for React.
 
 ## Links
 

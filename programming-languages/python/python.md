@@ -291,3 +291,4 @@
 - [Shrinking your Python application’s Docker image: an overview (2021)](https://pythonspeed.com/articles/smaller-docker-images/)
 - [Tiny Python Projects Book (2020)](http://tinypythonprojects.com/) - Learn coding and testing with puzzles and games. ([Code](https://github.com/kyclark/tiny_python_projects))
 - [Cpython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation.
+- [The guide to Python virtual environments with conda (2021)](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)

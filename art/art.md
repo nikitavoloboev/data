@@ -208,7 +208,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Reuben Wu](https://www.instagram.com/itsreuben/)
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [100 Rabbits](https://100r.co/site/home.html)
-- [6vcr](http://6vcr.com/portfolio)
+- [6vcr](http://6vcr.com/portfolio) ([IG](https://www.instagram.com/6vcr/))
 - [Lou LL](https://www.artstation.com/arroll)
 - [Chris Skinner](https://www.instagram.com/skinnercreative/)
 - [Liam Cobb](https://liamcobb.tumblr.com/)

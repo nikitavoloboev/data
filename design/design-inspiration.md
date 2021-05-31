@@ -463,6 +463,7 @@ Here are few more things I liked, design wise.
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Denis Defreyne](https://denisdefreyne.com/)
 - [Karan Sharma](https://mrkaran.dev/) ([Code](https://github.com/mr-karan/website))
+- [Matous Dzivjak](https://dzx.cz/)
 - [Kaspar Etter](https://kasparetter.com/)
 - [Victor Darvariu](https://victor.darvariu.me/)
 - [Rafal Tomal](https://rafaltomal.com/)

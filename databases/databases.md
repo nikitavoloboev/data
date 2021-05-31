@@ -178,6 +178,7 @@
 - [Snaplet](https://www.snaplet.dev/) - Work with your database as easily as your code.
 - [Condenser](https://github.com/TonicAI/condenser) - Database subsetting tool.
 - [NocoDB](https://www.nocodb.com/) - Turns your SQL database into a Nocode platform. Free & Open Source. ([Code](https://github.com/nocodb/nocodb)) ([HN](https://news.ycombinator.com/item?id=27303783))
+- [Owoof](https://github.com/sqwishy/owoof) - Program for querying and modifying information in a datalog-like format backed by SQLite.
 
 ## Notes
 

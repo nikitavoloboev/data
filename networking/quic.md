@@ -24,3 +24,5 @@
 - [quicer](https://github.com/emqx/quic) - QUIC Protocol for Erlang & Elixir.
 - [QUIC is now RFC 9000 (2021)](https://www.fastly.com/blog/quic-is-now-rfc-9000) ([HN](https://news.ycombinator.com/item?id=27310349))
 - [QUIC Version 1 is live on Cloudflare (2021)](https://blog.cloudflare.com/quic-version-1-is-live-on-cloudflare/)
+- [A Deep Dive into QUIC (2020)](https://blog.cloudflare.com/last-call-for-quic/)
+- [Quiwi](https://github.com/goburrow/quic) - QUIC implementation in Go.

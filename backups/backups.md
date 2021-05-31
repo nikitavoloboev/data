@@ -54,3 +54,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Backing up data like the adult I supposedly am (2020)](https://magnusson.io/post/backups/) ([Lobsters](https://lobste.rs/s/bmqi6l/backing_up_data_like_adult_i_supposedly_am)) ([HN](https://news.ycombinator.com/item?id=24526706))
 - [Automatic restic backups using systemd services and timers](https://github.com/erikw/restic-systemd-automatic-backup)
 - [Encrypted Backup Shootout (2021)](https://acha.ninja/blog/encrypted_backup_shootout/) ([HN](https://news.ycombinator.com/item?id=25618346))
+- [Back up your MacOS (2021)](https://dzx.cz/2021/05/23/back_up_your_macos/)

@@ -78,6 +78,7 @@
 - [Permafrost Engine](https://github.com/eduard-permyakov/permafrost-engine) - OpenGL RTS game engine written in C.
 - [Quake3e](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
 - [Pyxel](https://github.com/kitao/pyxel) - Retro game engine for Python.
+- [PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine. ([Web](https://www.puzzlescript.net/))
 
 ## Physics engines
 

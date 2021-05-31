@@ -116,3 +116,5 @@
 - [Docker-ls](https://github.com/mayflower/docker-ls) - Set of CLI tools for browsing and manipulating docker registries.
 - [Cheapest, lowest-effort way to run 2 docker containers in a reliable way](https://twitter.com/grhmc/status/1398262987606089736)
 - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [File Permissions: A painful side of Docker (2019)](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/) ([HN](https://news.ycombinator.com/item?id=27311619))
+- [Diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry. ([Docs](https://crazymax.dev/diun/))

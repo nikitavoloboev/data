@@ -15,3 +15,4 @@
 - [SSB Drive](https://github.com/cn-uofbasel/ssbdrv) - Decentralized file system over Secure Scuttlebutt.
 - [kuska handshake](https://github.com/Kuska-ssb/handshake) - Secure Scuttlebutt handshake + boxstream library.
 - [SSB-DB2](https://github.com/ssb-ngi-pointer/ssb-db2) - New database for secure-scuttlebutt.
+- [Introducing SSB Rooms 2 (2021)](https://www.youtube.com/watch?v=W5p0y_MWwDE) ([Tweet](https://twitter.com/andrestaltz/status/1399378477405646855))
