@@ -91,3 +91,4 @@
 - [50 tips to improve user interface](https://fifty.user-interface.io/50_ui_tips.pdf) ([HN](https://news.ycombinator.com/item?id=27210022))
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) - Hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
 - [Ask HN: Which tools/services have your favorite UI/UX? (2021)](https://news.ycombinator.com/item?id=27278367)
+- [Rethinking the computer ‘desktop’ as a concept (2021)](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40) ([HN](https://news.ycombinator.com/item?id=27344010)) ([Lobsters](https://lobste.rs/s/sqrrfc/why_we_need_rethink_computer_desktop_as))
