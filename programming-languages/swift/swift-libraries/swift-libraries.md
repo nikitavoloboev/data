@@ -698,6 +698,7 @@
 - [NukeUI](https://github.com/kean/NukeUI) - Comprehensive solution for displaying lazily loaded images on Apple platforms.
 - [JMESPath for Swift](https://github.com/adam-fowler/jmespath.swift) - Swift implementation of JMESPath, a query language for JSON.
 - [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
+- [Pigeon](https://github.com/fmo91/Pigeon) - SwiftUI and UIKit library that relies on Combine to deal with asynchronous data.
 
 ## Other (not lib)
 

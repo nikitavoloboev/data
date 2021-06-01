@@ -34,7 +34,7 @@
 - [Tabler Icons](https://tablericons.com/) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Code](https://github.com/tabler/tabler-icons))
 - [Designing App Icons (2020)](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
 - [Ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons. ([Code](https://github.com/mikolajdobrucki/ikonate))
-- [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library.
+- [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library. ([Code](https://github.com/lucaburgio/iconoir))
 - [Timeloop](https://www.timeloop.design/) - Designs by Fabian.
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons.
 - [Clarity Icons](https://clarity.design/icons)

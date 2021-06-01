@@ -392,3 +392,4 @@
 - [Cyclonus](https://github.com/mattfenwick/cyclonus) - Tools for understanding, measuring, and applying network policies effectively in kubernetes.
 - [Kubernetes: The Universal Control Plane (2020)](https://blog.cedriccharly.com/post/20200426-kubernetes-the-universal-control-plane/)
 - [Falcosidekick](https://github.com/falcosecurity/falcosidekick) - Simple daemon to help you with Falco's outputs.
+- [Architecting Kubernetes clusters — choosing the best autoscaling strategy (2021)](https://learnk8s.io/kubernetes-autoscaling-strategies)

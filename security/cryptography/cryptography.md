@@ -123,3 +123,4 @@
 - [CrySyS Lab](https://www.crysys.hu/) - Laboratory of Cryptography and System Security.
 - [Hacker's guide to deep-learning side-channel attacks: the theory (2021)](https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/)
 - [Cryptography from the Ground Up (2021)](https://cmdli.github.io/crypto/)
+- [Crypto Gotchas](https://github.com/SalusaSecondus/CryptoGotchas) - Collection of common (interesting) cryptographic mistakes.

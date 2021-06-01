@@ -29,6 +29,7 @@
 - [Ask HN: What do you do to get your kids to programming? (2021)](https://news.ycombinator.com/item?id=26457473)
 - [What are your experiences with people who say you'll "change your mind" about having children? (2021)](https://www.reddit.com/r/AskMen/comments/mh2wuf/childfree_men_of_reddit_what_are_your_experiences/)
 - [KidsLoop](https://www.kidsloop.net/) - Adaptive platform for early years.
-- [‎DA Baby](https://apps.apple.com/app/da-baby/id1512238725) - Newborn Tracker App.
+- [DA Baby](https://apps.apple.com/app/da-baby/id1512238725) - Newborn Tracker App.
 - [I Became a Mother at 25, and I’m Not Sorry I Didn’t Wait (2021)](https://www.nytimes.com/2021/05/07/opinion/motherhood-baby-bust-early-parenthood.html)
 - [Alfie Kohn's research](https://www.alfiekohn.org/) - Writes and speaks widely on human behavior, education, and parenting.
+- [What’s the worst thing parents teach to their children? (2021)](https://twitter.com/paraschopra/status/1399722409704361984)

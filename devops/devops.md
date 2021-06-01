@@ -81,3 +81,4 @@
 - [Bad Machinery: Managing Interrupts Under Load](https://log.andvari.net/pages/bad-machinery.html)
 - [Securing DevOps: Security in the Cloud (2018)](https://www.manning.com/books/securing-devops)
 - [Craft](https://github.com/getsentry/craft) - Universal Release Tool (And More).
+- [DevOps Cheat Sheets](https://lzone.de/) ([Code](https://github.com/lwindolf/lzone-cheat-sheets))

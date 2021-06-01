@@ -51,7 +51,7 @@
 - [urql-exchange-schema](https://github.com/mxstbr/urql-exchange-schema) - Fetch data from a local GraphQL schema with urql. Useful for testing.
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - Easiest way to configure your development environment with your GraphQL schema (supported by most tools, editors & IDEs).
 - [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - Mock or extend your GraphQL API with faked data. No coding required.
-- [gqless](https://github.com/samdenty/gqless) - Auto-generates GraphQL queries based on the data your application consumes.
+- [GQLess](https://github.com/gqless/gqless) - GraphQL client built for rapid iteration. ([Web](https://gqless.com/))
 - [Designing GraphQL Schemas - Nik Graf (2019)](https://www.youtube.com/watch?v=fBkmlFfwRu0)
 - [ReactiveConf 2019 - Nader Dabit: Curious Use Cases of GraphQL](https://www.youtube.com/watch?v=BLmoce4tjMc)
 - [10-tweet GraphQL crash course](https://twitter.com/hexrcs/status/1190332090149150720)

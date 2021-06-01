@@ -324,6 +324,7 @@ Here are few more things I liked, design wise.
 - [Bargava Subramanian](https://www.bargava.com/)
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
 - [Tom Moor](https://blog.tommoor.com/about/)
+- [Raluca Nicola](https://raluca-nicola.net/)
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
 - [Jed Bridges](https://www.jedbridges.com/)

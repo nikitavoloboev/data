@@ -27,3 +27,4 @@
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch) - Open source distributed and RESTful search engine. AWS fork of Elasticsearch and Kibana. ([Intro](https://aws.amazon.com/blogs/opensource/introducing-opensearch/)) ([HN](https://news.ycombinator.com/item?id=26780848))
 - [elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Rust Client for Elasticsearch.
 - [elasticsearch_loader](https://github.com/moshe/elasticsearch_loader) - Tool for batch loading data files (json, parquet, csv, tsv) into ElasticSearch.
+- [Open Distro for Elasticsearch SQL](https://github.com/opendistro-for-elasticsearch/sql) - Enables you to extract insights out of Elasticsearch using the familiar SQL query syntax.

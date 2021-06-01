@@ -212,3 +212,4 @@
 - [Introduction to async/await in Swift (2021)](https://theswiftdev.com/introduction-to-asyncawait-in-swift/)
 - [Here is what SwiftData will be (…and what it could have been) (2021)](https://drewmccormack.medium.com/here-is-what-swiftdata-will-be-and-what-it-could-have-been-65b79cd11c6a)
 - [New in Swift 5.5: Async/await, actors, throwing properties, and more (2021)](https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5) ([Lobsters](https://lobste.rs/s/qmuhez/what_s_new_swift_5_5))
+- [URLSession: Common pitfalls with background download & upload tasks (2021)](https://www.avanderlee.com/swift/urlsession-common-pitfalls-with-background-download-upload-tasks/)

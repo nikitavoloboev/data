@@ -66,3 +66,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [How to become a better public speaker](https://twitter.com/JamesClear/status/1378090311537287171)
 - [Awesome Speakers](https://github.com/karlhorky/awesome-speakers) - Awesome speakers in the programming and design communities.
 - [Ask HN: How to Speak Confidently? (2021)](https://news.ycombinator.com/item?id=26807085)
+- [Transitions: The easiest way to improve your tech talk (2018)](https://medium.com/@saronyitbarek/transitions-the-easiest-way-to-improve-your-tech-talk-ebe4d40a3257)

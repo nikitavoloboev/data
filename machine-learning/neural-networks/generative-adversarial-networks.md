@@ -112,3 +112,4 @@
 - [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort (2021)](https://nv-tlabs.github.io/datasetGAN/)
 - [On the use of Benford's law to detect GAN-generated images (2020)](https://arxiv.org/abs/2004.07682)
 - [Generative Models as Distributions of Functions (2021)](https://arxiv.org/abs/2102.04776) ([Code](https://github.com/EmilienDupont/neural-function-distributions))
+- [GAN_Metrics-Tensorflow](https://github.com/taki0112/GAN_Metrics-Tensorflow) - Simple Tensorflow implementation of metrics for GAN evaluation.

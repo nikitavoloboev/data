@@ -47,3 +47,4 @@
 - [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
 - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (2021)](https://arxiv.org/abs/2104.13478)
 - [E(n) Equivariant Graph Neural Networks (2021)](https://arxiv.org/abs/2102.09844) ([Code](https://github.com/vgsatorras/egnn))
+- [How Attentive are Graph Attention Networks? (2021)](https://arxiv.org/pdf/2105.14491.pdf) ([Code](https://github.com/tech-srl/how_attentive_are_gats))

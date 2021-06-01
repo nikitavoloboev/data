@@ -361,7 +361,7 @@
 - [On Understanding Data Abstraction, Revisited (2009)](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 - [Coding Constructs I Now Avoid (and why) (2021)](https://danielbmarkham.com/coding-constructs-i-now-avoid/) ([Lobsters](https://lobste.rs/s/suqsnm/coding_constructs_i_now_avoid_why))
 - [Write libraries instead of services, where possible](http://catern.com/services.html) ([HN](https://news.ycombinator.com/item?id=26398960))
-- [The Debugging Book](https://www.debuggingbook.org/) - Tools and Techniques for Automated Software Debugging.
+- [The Debugging Book](https://www.debuggingbook.org/) - Tools and Techniques for Automated Software Debugging. ([Code](https://github.com/uds-se/debuggingbook))
 - [Programming Paradigms, Turing Completeness and Computational Thinking (2020)](https://programming-journal.org/2020/4/4/) ([HN](https://news.ycombinator.com/item?id=26382818))
 - [Staying out of TTL hell (2021)](http://calpaterson.com/ttl-hell.html)
 - [Why Programmers Should(n't) Learn Theory (2021)](http://www.pathsensitive.com/2021/03/why-programmers-shouldnt-learn-theory.html)

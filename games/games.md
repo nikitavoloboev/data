@@ -39,6 +39,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Smash Karts](https://smashkarts.io/) - Multiplayer Kart Battle Arena game.
 - [Hatetris](https://qntm.org/hatetris) - Tetris which always gives you the worst piece. ([Code](https://github.com/qntm/hatetris)) ([HN](https://news.ycombinator.com/item?id=27063894))
 - [Lovetris](https://unrealwill.github.io/lovetris/) - Tetris which always gives you the best piece. ([Code](https://github.com/unrealwill/lovetris)) ([HN](https://news.ycombinator.com/item?id=27083666))
+- [PlayingCards.io](https://playingcards.io/) - Virtual deck of cards using just a browser.
 
 ## Awesome OSS games
 

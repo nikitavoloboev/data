@@ -207,3 +207,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A Gentle Introduction to Ted Nelson's ZigZag Structure (2002)](https://www.nongnu.org/gzz/gi/gi.html) ([HN](https://news.ycombinator.com/item?id=27210008))
 - [Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers)
 - [Sereal](https://github.com/Sereal/Sereal) - Fast, compact, schema-less, binary serialization and deserialization oriented towards dynamic languages.
+- [Compilation as Multi-Language Semantics](https://github.com/wilbowma/multi-lang-comp)

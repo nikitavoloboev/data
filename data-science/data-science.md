@@ -176,3 +176,4 @@
 - [Principal Component Analysis explained](https://twitter.com/TivadarDanka/status/1387399961143353347)
 - [Dataproofer](https://github.com/dataproofer/Dataproofer) - Proofreader for your data.
 - [Automated Data Wrangling for Open Data (2021)](https://catalyst.coop/2021/05/23/automated-data-wrangling/)
+- [Data science interview questions with answers](https://github.com/iamtodor/data-science-interview-questions-and-answers)
