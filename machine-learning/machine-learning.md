@@ -481,3 +481,4 @@
 - [JAX learning resources (2021)](https://www.reddit.com/r/MachineLearning/comments/no3r7m/d_jax_learning_resources/)
 - [Machine Learning with Python Cookbook Book (2018)](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/)
 - [Understanding Dimensionality Reduction with UMAP](https://pair-code.github.io/understanding-umap/)
+- [Neural Algorithmic Reasoning (2021)](https://arxiv.org/abs/2105.02761) ([Tweet](https://twitter.com/s_scardapane/status/1399378122894684166))

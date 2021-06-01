@@ -410,6 +410,7 @@
 - [QuickPotato](https://github.com/JoeyHendricks/QuickPotato) - Profile and test to gain insights into the performance of your beautiful Python code.
 - [APScheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python.
 - [cbor2](https://github.com/agronholm/cbor2) - Pure Python CBOR (de)serializer with extensive tag support.
+- [Entangle](https://github.com/radiantone/entangle) - Lightweight (serverless) native python parallel processing framework based on simple decorators and call graphs.
 
 ## Links
 

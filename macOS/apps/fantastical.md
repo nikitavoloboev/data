@@ -19,3 +19,4 @@ I often switch between `Week` and `Month` views.
 - [Calendso](https://calendso.com/) - Open Source Calendly Alternative. ([Code](https://github.com/calendso/calendso)) ([HN](https://news.ycombinator.com/item?id=26817795))
 - [Nettu scheduler](https://github.com/fmeringdal/nettu-scheduler) - Self-hosted calendar and scheduler server.
 - [Vimcal](https://www.vimcal.com/) - Fly through your calendar.
+- [Your Calendar as Todo List](https://twitter.com/swyx/status/1364107473724919809)

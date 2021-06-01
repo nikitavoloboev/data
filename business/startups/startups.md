@@ -49,6 +49,7 @@
 - [Startups never get faster over time, only slower. Your accumulating advantages & inevitable success need to kick in before entropy swallows you.](https://twitter.com/petegilligan/status/1393361203485892610)
 - [Startups are awesome because even if you fail, you’ll still succeed by way of getting one of the best learning experiences of your life.](https://twitter.com/mckaywrigley/status/1395073768549015553)
 - [Clerky or Stripe Atlas are top choices to make LLC](https://twitter.com/hswolff/status/1397200309227855879)
+- [Startups should use their capital to eliminate risk. Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1399363160151318528)
 
 ## Links
 

@@ -227,3 +227,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Arbitrum](https://arbitrum.io/) - Optimistic Rollup built to scale Ethereum.
 - [Ethereum Developer Resources](https://ethereum.org/en/developers/)
 - [SOLL](https://github.com/second-state/SOLL) - New compiler for generating Ewasm (Ethereum flavored WebAssembly) files from Solidity and Yul.
+- [zkSync 2.0: Hello Ethereum! (2021)](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)

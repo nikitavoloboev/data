@@ -214,3 +214,4 @@
 - [What are the shortest, peer-reviewed articles in physics? (2021)](https://www.reddit.com/r/AskPhysics/comments/nhm3ya/what_are_the_shortest_peerreviewed_articles_in/)
 - [Coanda Effect (2017)](https://www.youtube.com/watch?v=NvzXKZNJ7ZU)
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) ([HN](https://news.ycombinator.com/item?id=27322636))
+- [Scattering Theory of Waves and Particles (1982)](https://link.springer.com/book/10.1007/978-3-642-88128-2)

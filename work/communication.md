@@ -29,6 +29,7 @@
 - Tell your colleagues you appreciate them, directly and in private. Kudos are awesome, but a private message from a coworker feels really authentic and awesome.
 - [The best engineers I know admit when they don't know something.](https://twitter.com/NovallSwift/status/1395497415948464129)
 - [Everyone’s favorite subject is themselves. Remember that when you’re trying to strike up a conversation.](https://twitter.com/TuurDemeester/status/1399409965513723905)
+- [Conversation should be back/forth, not interrupting.](https://news.ycombinator.com/item?id=26807085)
 
 ## Links
 

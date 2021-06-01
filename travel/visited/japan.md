@@ -37,3 +37,4 @@
 - [Японский язык? Сейчас объясню! (2020)](https://www.youtube.com/watch?v=pLNZtA2a4CM)
 - [Interview: Everything you have heard about Japan is True (2020)](https://hargup.medium.com/everything-you-have-heard-about-japan-is-true-901e0bbcee9b)
 - [Japan as seen through the lens of Marcio Kogan (2021)](https://www.wallpaper.com/design/explore-japan-with-marcio-kogan)
+- [Craig Mod - YouTube](https://www.youtube.com/c/CraigMod/videos) - Videos on Japan, Walking, Photograph, Literature.
