@@ -68,3 +68,5 @@
 - [Pachter Lab](http://pachterlab.github.io/) - Develops computational and experimental methods for genomics. ([GitHub](https://github.com/pachterlab))
 - [The complete sequence of a human genome (2021)](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1)
 - [perbase](https://github.com/sstadick/perbase) - Per-base per-nucleotide depth analysis.
+- [Computational genomics resources](https://github.com/igordot/genomics)
+- [Seq-N-Slide](https://github.com/igordot/sns) - Sequencing data analysis pipelines. ([Docs](https://igordot.github.io/sns/))

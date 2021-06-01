@@ -200,3 +200,4 @@
 - [Oxide Computer](https://oxide.computer/) - Servers as they should be. ([HN](https://news.ycombinator.com/item?id=27294471)) ([Lobsters](https://lobste.rs/s/j27kjs/oxide_computer_hardware_photos_specs_now))
 - [Apple Has a Decade-long Lead in Wearables (2021)](https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables) ([HN](https://news.ycombinator.com/item?id=27321387))
 - [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC (2021)](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming) ([HN](https://news.ycombinator.com/item?id=27350632))
+- [Denotational hardware design in Agda](https://github.com/conal/agda-hardware)

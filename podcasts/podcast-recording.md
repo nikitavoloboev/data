@@ -24,3 +24,4 @@
 - [How to clean up your audio recordings](https://twitter.com/mrxinu/status/1376998161437257731)
 - [Which podcast host do you use? (2021)](https://twitter.com/dr/status/1378279098674421762)
 - [High quality audio makes you sound smarter (2021)](https://tips.ariyh.com/p/good-sound-quality-smarter) ([HN](https://news.ycombinator.com/item?id=26818774))
+- [What software do you use to edit/produce podcasts?](https://twitter.com/tylertringas/status/1399768425795293185)

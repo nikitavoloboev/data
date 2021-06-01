@@ -849,6 +849,7 @@
 - [Sluice](https://github.com/sagebind/sluice) - Asynchronous byte buffers and pipes for concurrent I/O programming.
 - [terminusdb-store](https://github.com/terminusdb/terminusdb-store) - Tokio-enabled data store for triple data.
 - [async-attributes](https://github.com/async-rs/async-attributes) - Experimental language-level polyfills for Async Rust.
+- [speedy](https://github.com/koute/speedy) - Fast binary serialization framework.
 
 ## Cargo Plugins
 

@@ -56,6 +56,7 @@
 - [Interaction Design in a Nutshell](https://github.com/SSoelvsten/interaction-design-in-a-nutshell) - Dense, clearly defined, and small guide to interaction design.
 - [List of worst UX (2020)](https://twitter.com/iamdevloper/status/1337538974789865473)
 - [UX Christmas](https://ux.christmas/)
+- [Dark Patterns Hall of Shame](https://www.darkpatterns.org/hall-of-shame) ([HN](https://news.ycombinator.com/item?id=27328863))
 - [Types of Dark Pattern](https://darkpatterns.org/types-of-dark-pattern.html)
 - [Why Jira Sucks](https://whyjirasucks.com/) ([HN](https://news.ycombinator.com/item?id=25590846))
 - [Grumpy Website](https://grumpy.website/) - Blog about design fails / gripes / anitpatterns.
@@ -92,3 +93,4 @@
 - [UI Dev Newsletter](https://mentor.silvestar.codes/reads/) - Hand-curated list of articles, tutorials, opinions, and tools related to User Interface development.
 - [Ask HN: Which tools/services have your favorite UI/UX? (2021)](https://news.ycombinator.com/item?id=27278367)
 - [Rethinking the computer ‘desktop’ as a concept (2021)](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40) ([HN](https://news.ycombinator.com/item?id=27344010)) ([Lobsters](https://lobste.rs/s/sqrrfc/why_we_need_rethink_computer_desktop_as))
+- [Command Palette Interfaces](https://philipcdavis.com/writing/command-palette-interfaces)

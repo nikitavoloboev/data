@@ -244,7 +244,3 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Julia Jacklin - Don't Know How to Keep Loving You](https://www.youtube.com/watch?v=N9TT5kO4p7Q)
 - [Margaret Glaspy performs "Parental Guidance"](https://www.youtube.com/watch?v=sOsJfKWbgdQ)
 - [Jay-Jay Johanson - Not Time Yet](https://www.youtube.com/watch?v=LjTwbHdPvx8)
-
-## Mixes
-
-- [Nils Frahm xmas mix 2019](https://www.mixcloud.com/nilsoliver5/nils-frahm-xmas-mix-2019/)

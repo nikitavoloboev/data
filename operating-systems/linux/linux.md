@@ -320,3 +320,4 @@
 - [An Abridged Guide to the Enterprise Linux Landscape (2021)](https://www.linuxjournal.com/content/abridged-guide-enterprise-linux-landscape)
 - [My Linux machine setup](https://github.com/brpaz/my-linux-setup)
 - [A process murder mystery - a debugging story (2021)](https://blog.viraptor.info/post/a-process-murder-mystery-a-debugging-story)
+- [A Secure and Formally Verified Linux KVM Hypervisor (2021)](http://nieh.net/pubs/ieeesp2021_kvm.pdf)

@@ -192,6 +192,7 @@ Here are few more things I liked, design wise.
 - [Arun Venkatesan](https://www.arun.is/)
 - [Tina He](http://tinahe.co/)
 - [Boris Muller](https://esono.com/)
+- [Robin Sloan](https://society.robinsloan.com/)
 - [Jordan Lewis](https://jordanlewis.org/)
 - [Hayk An](https://hayk.design/#/)
 - [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
@@ -738,3 +739,4 @@ Here are few more things I liked, design wise.
 - [Personal Website Chats](https://www.youtube.com/playlist?list=PLEXbN99LY3OCarUeXcxWeZzOelXQvVdAA)
 - [Lobsters: Rate my Homepage (2020)](https://lobste.rs/s/h9xgpv/rate_my_homepage)
 - [SaaS Landing Page Examples (2020)](https://www.eleken.co/blog-posts/saas-landing-page-examples-get-inspired-and-discover-how-to-boost-conversion)
+- [Colophon](https://society.robinsloan.com/archive/colophon/)

@@ -37,3 +37,4 @@ In short, it can be summed down to this:
 - [Oblique Questions (2020)](http://neugierig.org/software/blog/2020/04/oblique-questions.html)
 - [40 questions to ask yourself every year](http://stephanango.com/40-questions) ([Code](https://github.com/kepano/40-questions))
 - [Set Explicit Help Timeouts (2021)](https://www.swyx.io/help-timeouts/)
+- [How to Ask Useful Questions](https://joshkaufman.net/how-to-ask-useful-questions/)

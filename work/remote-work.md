@@ -112,3 +112,4 @@
 - [What if remote work didn’t mean working from home? (2021)](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home) ([HN](https://news.ycombinator.com/item?id=27275318))
 - [Remotists.com](https://remotists.com/) - Top Remote jobs every week.
 - [Top 100 Remote Jobs](https://remotists.com/top100_remotejobs/)
+- [Employees are quitting instead of giving up working from home (2021)](https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home) ([HN](https://news.ycombinator.com/item?id=27353672))

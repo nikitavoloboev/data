@@ -493,3 +493,4 @@
 - [The simpler alternative to GCC-RS (2021)](https://shnatsel.medium.com/the-simpler-alternative-to-gcc-rs-90da2b3685d3)
 - [RPG](https://github.com/JohnTitor/rpg) - CLI tool for the Rust Playground.
 - [Tightness Driven Development in Rust (2021)](https://www.ecorax.net/tightness/)
+- [A Firehose of Rust, for busy people who know some C++ (2021)](https://www.youtube.com/watch?v=IPmRDS0OSxM)

@@ -82,3 +82,4 @@
 - [Securing DevOps: Security in the Cloud (2018)](https://www.manning.com/books/securing-devops)
 - [Craft](https://github.com/getsentry/craft) - Universal Release Tool (And More).
 - [DevOps Cheat Sheets](https://lzone.de/) ([Code](https://github.com/lwindolf/lzone-cheat-sheets))
+- [MegaEase](https://www.megaease.com/) - High Performance Software Architecture. ([GitHub](https://github.com/megaease))

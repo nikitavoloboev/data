@@ -183,6 +183,7 @@
 - [Test Double](https://testdouble.com/) - Agency Improving the World's Software.
 - [Bocoup](https://bocoup.com/) - Web platform consulting services.
 - [OddBird](https://www.oddbird.net/) - Experts in digital product creation. ([GitHub](https://github.com/oddbird/))
+- [NearForm](https://www.nearform.com/) - Enterprise Software Development & Capability Building.
 
 ## Notes
 

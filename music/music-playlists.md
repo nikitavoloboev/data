@@ -12,6 +12,11 @@ I share a [big playlist of all music I like](https://www.youtube.com/playlist?li
 
 I share music I liked on SoundCloud on [my profile](https://soundcloud.com/nikitavoloboev).
 
+## Interesting mixes
+
+- [Nils Frahm xmas mix 2019](https://www.mixcloud.com/nilsoliver5/nils-frahm-xmas-mix-2019/)
+- [Gagarin - Sovietwave Mix](https://www.youtube.com/watch?v=o2mD5hv0eMc)
+
 ## Links
 
 - [PLYST](https://plylst.app/) - Create smart playlists for your Spotify library. ([Code](https://github.com/Shpigford/plylst))

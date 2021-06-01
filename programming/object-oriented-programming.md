@@ -28,3 +28,4 @@
 - [Why OO Sucks by Joe Armstrong (2000)](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks) ([HN](https://news.ycombinator.com/item?id=26586829))
 - [Is Inheritance That Evil? (2021)](https://thevaluable.dev/guide-inheritance-oop/)
 - [Inheritance was invented as a performance hack](http://catern.com/inheritance.html) ([Lobsters](https://lobste.rs/s/gq29l7/inheritance_was_invented_as_performance)) ([HN](https://news.ycombinator.com/item?id=26988839))
+- [The Power of Interoperability: Why Objects Are Inevitable](https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf)

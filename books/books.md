@@ -224,6 +224,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Unhinged Women Fiction // Book Recs (2021)](https://www.youtube.com/watch?v=rNAfoCEmiXE&list=TLPQMjUwNTIwMjFg8xCFMewS1g&index=7)
 - [50 book recommendations (2021)](https://twitter.com/AliAbdaal/status/1392177777382670342)
 - [20 books to read in your 20s](https://twitter.com/warikoo/status/1398148280291250176)
+- [In search of the new (2021)](https://society.robinsloan.com/archive/in-search-of-the-new/)
 
 ## Notes
 

@@ -40,3 +40,4 @@
 - [The Expansion of the Universe (2021)](https://johncarlosbaez.wordpress.com/2021/04/09/the-expansion-of-the-universe/) ([HN](https://news.ycombinator.com/item?id=26755045))
 - [The Edges of Our Universe (2021)](https://arxiv.org/abs/2104.01191) ([HN](https://news.ycombinator.com/item?id=26732996))
 - [Does the Universe Have Higher Dimensions?](https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html) ([Video](https://www.youtube.com/watch?v=ZS2hJLIN1DM)) ([HN](https://news.ycombinator.com/item?id=26775447))
+- [Powers of Ten (1977)](https://www.youtube.com/watch?v=0fKBhvDjuy0) - Adventure in magnitudes.

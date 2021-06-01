@@ -89,3 +89,4 @@ Learning to build [startups](startups/startups.md).
 - [Colossus](https://www.joincolossus.com/) - Best information on business building and investing.
 - [Ask HN: Where would you incorporate in 2021?](https://news.ycombinator.com/item?id=27288453)
 - [The six principles of lifestyle businesses (2021)](https://blog.alexmaccaw.com/the-six-principles-of-lifestyle-businesses/)
+- [Businesses at Work (2021)](https://www.okta.com/sites/default/files/2021-03/Businesses-at-Work-2021.pdf)

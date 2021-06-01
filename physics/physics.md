@@ -215,3 +215,5 @@
 - [Coanda Effect (2017)](https://www.youtube.com/watch?v=NvzXKZNJ7ZU)
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) ([HN](https://news.ycombinator.com/item?id=27322636))
 - [Scattering Theory of Waves and Particles (1982)](https://link.springer.com/book/10.1007/978-3-642-88128-2)
+- [Physics-informed neural networks with hard constraints for inverse design (2021)](https://arxiv.org/abs/2102.04626) ([Code](https://github.com/lululxvi/hpinn))
+- [Of the physicists that are still 'alive,' what is the top 5 of physicists who has contributed more to our understanding of the universe? (2021)](https://www.reddit.com/r/AskPhysics/comments/npn7au/of_the_physicists_that_are_still_alive_what_is/)

@@ -42,3 +42,7 @@
   - USB-C <-> Lightning
   - USB-C <-> Ethernet
   - USB-C <-> USB
+
+## Links
+
+- [Overkill Objects for Everyday Life (2021)](https://neil.computer/notes/overkill-objects-for-everyday-life/) ([HN](https://news.ycombinator.com/item?id=27334223))

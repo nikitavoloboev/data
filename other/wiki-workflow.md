@@ -349,3 +349,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Innos Note](https://innos.io/)
 - [How NOT to take Smart Notes (2021)](https://www.reddit.com/r/ObsidianMD/comments/ng9pqg/how_not_to_take_smart_notes/)
 - [rsms's memex](https://github.com/rsms/memex) - Software for managing my digital information, like tweets.
+- [Notable](https://notable.app/) - Markdown-based note-taking app.
+- [emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema. Create beautiful websites like wikis. ([Web](https://note.ema.srid.ca/))

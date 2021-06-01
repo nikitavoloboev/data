@@ -29,3 +29,4 @@
 - [Nuxtron](https://github.com/saltyshiomix/nuxtron) - Nuxt.js + Electron.
 - [hyperupdate](https://github.com/hyperdivision/hyperupdate) - P2P Electron updater with binary diffing built in.
 - [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) - Listing cross platform desktop GUI App development options.
+- [Making Electron apps feel native on Mac (2021)](https://getlotus.app/21-making-electron-apps-feel-native-on-mac)

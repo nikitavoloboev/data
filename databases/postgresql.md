@@ -270,3 +270,5 @@
 - [PostgreSQL EXPLAIN Output Explained (2021)](https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/) ([HN](https://news.ycombinator.com/item?id=27317024))
 - [PolarDB](https://github.com/alibaba/PolarDB-for-PostgreSQL) - Open source database system based on PostgreSQL. ([HN](https://news.ycombinator.com/item?id=27330342))
 - [PostgreSQL UUID vs. Serial vs. Identity (2021)](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/) ([HN](https://news.ycombinator.com/item?id=27345837))
+- [repmgr](https://github.com/EnterpriseDB/repmgr) - Replication Manager for PostgreSQL. ([Web](https://repmgr.org/))
+- [Better JSON in Postgres with PostgreSQL 14 (2021)](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14) ([Tweet](https://twitter.com/simonw/status/1399803232906448898)) ([HN](https://news.ycombinator.com/item?id=27358977))

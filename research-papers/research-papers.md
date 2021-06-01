@@ -108,3 +108,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Pubs](https://github.com/pubs/pubs) - Brings your bibliography to the command line.
 - [Automatic citation extraction from URLs (2019)](https://phiresky.github.io/blog/2019/pandoc-url2cite/)
 - [Paperoni](https://github.com/mila-iqia/paperoni) - Search for scientific papers on the command line.
+- [SciRate](https://scirate.com/) - Top arXiv papers. Open peer review site for arXiv preprints. ([Code](https://github.com/scirate/scirate))

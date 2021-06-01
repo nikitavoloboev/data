@@ -78,3 +78,4 @@
 - [Terraform Hydra Provider](https://github.com/DeterminateSystems/terraform-provider-hydra/) - Declaratively configure your Hydra server with Terraform. ([Article](https://determinate.systems/posts/terraform-provider-hydra/))
 - [Terraform graph beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 - [Continuous Infrastructure Deployment with Terraform Cloud (2021)](https://itnext.io/continuous-infrastructure-deployment-with-terraform-cloud-2853cbbb920)
+- [Terraform: Up and Running](https://www.terraformupandrunning.com/)

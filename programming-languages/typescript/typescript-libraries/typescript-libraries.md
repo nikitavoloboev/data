@@ -116,6 +116,7 @@
 - [resolvers](https://github.com/react-hook-form/resolvers) - Validation resolvers: Zod, Yup, Joi, Superstruct, Vest, class-validator, io-ts, and nope.
 - [json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas.
 - [meros](https://github.com/maraisr/meros) - Fast utility that makes reading multipart responses simple.
+- [storage](https://github.com/ngneat/storage) - Various implementation of storage which implements API similar to the 'localStorage.'.
 
 ## Links
 

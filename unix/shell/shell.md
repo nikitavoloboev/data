@@ -134,3 +134,4 @@ All active variables can be seen by running `env`.
 - [Quickly copy the output of the last shell command you ran (2021)](https://ianthehenry.com/posts/tmux-copy-last-command/)
 - [Performance optimizations for the shell prompt (2021)](https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/)
 - [GoTTY](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application.
+- [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.

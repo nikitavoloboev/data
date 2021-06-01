@@ -230,3 +230,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [zkSync 2.0: Hello Ethereum! (2021)](https://medium.com/matter-labs/zksync-2-0-hello-ethereum-ca48588de179)
 - [DeFi Explained: The FULL Guide (2021)](https://www.reddit.com/r/CryptoCurrency/comments/nletmi/defi_explained_the_full_guide/)
 - [uniswap-v3-staker](https://github.com/omarish/uniswap-v3-staker) - Canonical staking contract designed for Uniswap V3.
+- [Fish.vote](https://www.fish.vote/) - Crowd Proposals for UNI governance.

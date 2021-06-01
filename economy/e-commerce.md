@@ -83,3 +83,4 @@
 - [Build an E-commerce platform in 25 days using Next.js, Netlify and Stripe](https://e-commerce-in-25-days.netlify.app/)
 - [Farfetch - The road to 1.7 billion dollars in revenues (2021)](https://disclosinggrowth.substack.com/p/farfetch-the-road-to-17-billion-dollars)
 - [Jam Pony Delivery](https://www.jampony.delivery/) - Help Small Businesses Keep 100% of Their Revenue.
+- [Vendure](https://github.com/vendure-ecommerce/vendure) - Modern, headless GraphQL-based e-commerce framework built with TypeScript & NodeJS. ([Web](https://www.vendure.io/))

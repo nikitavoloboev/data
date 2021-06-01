@@ -134,7 +134,7 @@
 
 ## Communication
 
-- Show interest. Listen more. Don't be annoying and self indulgent. Respect time and don't pressure for response.
+- Show interest. Ask genuine questions. Listen more. Don't interrupt. Don't be annoying and self indulgent. Respect time and don't pressure for response.
 
 ## Finance
 
@@ -145,6 +145,7 @@
 
 - Aggressively research everything I don't understand. In solving problems, think about it in terms of models I can validate.
 - For programming, think about the data model and operations. Always keep in mind the problem being solved.
+- Don't panic. Stay calm & reasonable.
 
 ## Code
 

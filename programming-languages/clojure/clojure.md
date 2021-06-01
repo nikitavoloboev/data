@@ -133,3 +133,4 @@
 - [The REPL](https://www.therepl.net/) - Weekly newsletter and podcast diving into Clojure programs and libraries by Daniel Compton.
 - [Clojure by Example (2015)](https://kimh.github.io/clojure-by-example/#about) ([HN](https://news.ycombinator.com/item?id=27273911)) ([Code](https://github.com/kimh/clojure-by-example))
 - [Roll your own Clojure web stack (2021)](https://purelyfunctional.tv/guide/clojure-web-tutorial/)
+- [Clojure's JSON ecosystem (2021)](https://www.juxt.pro/blog/json-in-clojure)

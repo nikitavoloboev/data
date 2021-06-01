@@ -490,3 +490,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Everyday Experiments](https://everydayexperiments.com/) - Ways to enhance our interactions with space and improve our everyday lives.
 - [Invisible Roommates](https://everydayexperiments.com/invisible-roommates)
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Oh My BackEnd](https://github.com/bzick/oh-my-backend) - Что нужно знать бекенд-разработчику Web приложений.

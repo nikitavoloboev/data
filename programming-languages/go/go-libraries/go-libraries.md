@@ -146,6 +146,7 @@
 - [Lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares.
 - [Secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [goql](https://github.com/getoutreach/goql) - GraphQL client package written in Go.
+- [Glue](https://github.com/desertbit/glue) - Robust Go and JavaScript Socket Library.
 
 ## GraphQL
 

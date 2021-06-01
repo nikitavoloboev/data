@@ -176,3 +176,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS FAQs](https://aws.amazon.com/faqs/)
 - [PMapper](https://github.com/nccgroup/PMapper) - Tool for quickly evaluating IAM permissions in AWS.
 - [Kubernetes Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+- [Nomad AWS Module](https://github.com/hashicorp/terraform-aws-nomad) - Terraform Module for how to run Nomad on AWS using Terraform and Packer.

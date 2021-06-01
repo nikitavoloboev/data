@@ -118,3 +118,5 @@
 - [SQL Query Optimization: Understanding Key Principle (2021)](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/) ([Reddit](https://www.reddit.com/r/programming/comments/nm9ehx/sql_query_optimization_understanding_key_principle/))
 - [SQLizer](https://sqlizer.io/#/) - Easily convert files into SQL Databases.
 - [sql-lint](https://github.com/joereynolds/sql-lint) - Does sanity checks on your queries as well as bring errors back from the DB.
+- [Actual order of execution of SQL](https://twitter.com/chrisalbon/status/1399767813569486853)
+- [sqlgg](https://github.com/ygrek/sqlgg) - SQL Guided (code) Generator. ([Web](https://ygrek.org/p/sqlgg/))
