@@ -143,3 +143,4 @@
 - [Snowman Hotword Detection](https://github.com/Thalhammer/snowman)
 - [CLU](https://github.com/google/CommonLoopUtils) - Contains common functionality for writing ML training loops using JAX.
 - [SparseML](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models.
+- [CogDL](https://github.com/THUDM/cogdl) - Extensive Toolkit for Deep Learning on Graphs. ([Web](https://cogdl.ai/))

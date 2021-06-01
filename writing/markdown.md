@@ -69,3 +69,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Yarner](https://github.com/mlange-42/yarner) - Language-independent Literate Programming tool for Markdown. ([Docs](https://mlange-42.github.io/yarner/))
 - [prosemd](https://github.com/kitten/prosemd-lsp) - Experimental proofreading and linting language server for markdown files.
 - [Zeta Note](https://github.com/artempyanykh/zeta-note) - Markdown LSP server for easy note-taking with cross-references and diagnostics.
+- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of markdown.

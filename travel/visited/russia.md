@@ -148,3 +148,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [«ОПГ Озеро» | Путинизм как он есть (2021)](https://www.youtube.com/watch?v=lur-PCLaYNQ)
 - [Как погибает Россия. Разруха, воровство и смерть в русской деревне (2020)](https://www.youtube.com/watch?v=4iKE4DmWd1w)
 - [Путин Марионетка Кремля (2021)](https://www.youtube.com/watch?v=sPyVLDmEQIM)
+- [Медведев. Был у нас такой президент (2021)](https://www.youtube.com/watch?v=qm3oWPNZkqA)
+- [Зимний Байкал! Самое ледяное путешествие! (2021)](https://www.youtube.com/watch?v=lLhzcOxHtQE)

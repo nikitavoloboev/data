@@ -147,3 +147,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Nobelium](https://nobelium.js.org/) - Static blog build on top of Notion and Nextjs, deployed on Vercel. ([Code](https://github.com/craigary/nobelium))
 - [Blog about what you've struggled with (2021)](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 - [Ask HN: Favorite Blogs by Individuals? (2021)](https://news.ycombinator.com/item?id=27302195)
+- [Small B Blogging (2018)](https://tomcritchlow.com/2018/02/23/small-b-blogging/) ([HN](https://news.ycombinator.com/item?id=27347026))

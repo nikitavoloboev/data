@@ -57,3 +57,4 @@
 - [Backlink Checker](https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html) - Check and analyze any site’s backlinks.
 - [Content Marketing for Bootstrappers (2021)](https://jameschambers.co.uk/saas-content-marketing)
 - [How Buffer built many backlinks for their business (2021)](https://twitter.com/thatcontentguru/status/1396954662927020037)
+- [6 SEO strategies](https://twitter.com/searchbrat/status/1391043242901262343)
