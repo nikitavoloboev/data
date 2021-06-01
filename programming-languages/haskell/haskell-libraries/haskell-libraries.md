@@ -124,6 +124,7 @@
 - [Category-Syntax](https://github.com/gelisam/category-syntax) - Do-notation for Category and "Arrow without arr".
 - [PariPari](https://github.com/minad/paripari) - Fast parser combinator library for Haskell.
 - [Diagrams-Lib](https://github.com/diagrams/diagrams-lib) - Standard library for diagrams, a Haskell embedded domain-specific language for compositional, declarative drawing.
+- [named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell.
 
 ## Links
 

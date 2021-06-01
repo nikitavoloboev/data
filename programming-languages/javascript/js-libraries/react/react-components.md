@@ -182,6 +182,7 @@
 - [Mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience. ([Web](https://mantine.dev/))
 - [re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
 - [masonic](https://github.com/jaredLunde/masonic) - High-performance masonry layouts for React.
+- [react-loosely-lazy](https://github.com/atlassian-labs/react-loosely-lazy) - Use advanced React async components patterns today.
 
 ## Links
 

@@ -129,6 +129,7 @@
 - [datatest](https://github.com/shawnbrown/datatest) - Test driven data-wrangling and data validation.
 - [Precisely](https://github.com/mwilliamson/python-precisely) - Better assertions for Python tests. ([HN](https://news.ycombinator.com/item?id=26177546))
 - [Ward](https://github.com/darrenburns/ward) - Modern test framework for Python with a focus on productivity and readability.
+- [Pynguin](https://github.com/se2p/pynguin) – Generate Python unit tests automatically. ([HN](https://news.ycombinator.com/item?id=27350264))
 
 ## Other
 

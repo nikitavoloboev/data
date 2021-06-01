@@ -60,7 +60,7 @@
 - [How to effectively model “errors” in your GraphQL schema (2019)](https://medium.com/@sachee/200-ok-error-handling-in-graphql-7ec869aec9bc)
 - [Using Haskell to build a performant GraphQL to SQL compiler by Tanmai Gopal (2018)](https://www.youtube.com/watch?v=JOaeF-VKrS8)
 - [Статьи и презентации про GraphQL](https://github.com/nodkz/conf-talks)
-- [graphqurl](https://github.com/hasura/graphqurl) - Curl for GraphQL with autocomplete, subscriptions and GraphiQL.
+- [graphqurl](https://github.com/hasura/graphqurl) - Curl for GraphQL with autocomplete, subscriptions and GraphiQL. ([Article](https://blog.graphqleditor.com/graphqurl))
 - [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. ([Web](https://graphile-starter.herokuapp.com/))
 - [Designing GraphQL Schemas (2019)](https://egghead.io/courses/designing-graphql-schemas-99db)
 - [graphql-santa](https://github.com/prisma-labs/graphql-santa) - GraphQL API framework. It takes a code-first approach and brings together a set of tools that provide robust type safety so that if your app compiles, you have a high degree of confidence that it works.

@@ -149,3 +149,4 @@
 - [Graphics Pipelines for Young Bloods (2021)](https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/) ([HN](https://news.ycombinator.com/item?id=27232516))
 - [125 Artists Create Unique Renders From a Simple Prompt (2020)](https://www.youtube.com/watch?v=EdCvwmebWN0)
 - [A Macro View of Nanite (2021)](http://www.elopezr.com/a-macro-view-of-nanite/) ([HN](https://news.ycombinator.com/item?id=27345411))
+- [Rotations with quaternions (2021)](https://imadr.github.io/rotations-with-quaternions/)

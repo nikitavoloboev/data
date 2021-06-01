@@ -696,6 +696,8 @@
 - [Media](https://github.com/crelies/Media) - Beautiful and declarative cross-platform wrapper API for Apple's PhotoKit.
 - [Needle](https://github.com/uber/needle) - Compile-time safe Swift dependency injection framework.
 - [NukeUI](https://github.com/kean/NukeUI) - Comprehensive solution for displaying lazily loaded images on Apple platforms.
+- [JMESPath for Swift](https://github.com/adam-fowler/jmespath.swift) - Swift implementation of JMESPath, a query language for JSON.
+- [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
 
 ## Other (not lib)
 

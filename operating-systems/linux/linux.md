@@ -318,3 +318,5 @@
 - [Rust heads into the kernel? (2021)](https://lwn.net/Articles/853423/) ([HN](https://news.ycombinator.com/item?id=27248059))
 - [rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs.
 - [An Abridged Guide to the Enterprise Linux Landscape (2021)](https://www.linuxjournal.com/content/abridged-guide-enterprise-linux-landscape)
+- [My Linux machine setup](https://github.com/brpaz/my-linux-setup)
+- [A process murder mystery - a debugging story (2021)](https://blog.viraptor.info/post/a-process-murder-mystery-a-debugging-story)

@@ -89,3 +89,4 @@
 - [Core Concepts in Software Testing Workshop](https://github.com/jbelmont/software-testing-workshop)
 - [TDD: Getting Out of My Own Way (2021)](https://adamtuttle.codes/blog/2021/tdd-getting-out-of-my-own-way/)
 - [How to Test (2021)](https://matklad.github.io//2021/05/31/how-to-test.html)
+- [Testing in the Twenties (2021)](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)

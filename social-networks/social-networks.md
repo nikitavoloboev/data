@@ -109,7 +109,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Polywork](https://www.polywork.com/) - Professional network that represents all the wonderful things you actually do as a professional.
 - [Granary](https://granary.io/) - Fetches and converts data between social networks, HTML and JSON with microformats2, ActivityStreams 1 and 2, Atom, RSS, JSON Feed, and more. ([Code](https://github.com/snarfed/granary))
 - [Garnet](https://www.garnet.app/) - One app to unite your community.
-- [The Anxiety of Influencers (2021)](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/) - Educating the TikTok generation.
+- [The Anxiety of Influencers (2021)](https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/) - Educating the TikTok generation. ([HN](https://news.ycombinator.com/item?id=27349755))
 - [Genies](https://genies.com/) - Custom 3D Avatars For Consumers and Celebrities.
 - [Tiktok, Emergent Creativity, The Limits of Social Graphs (2021)](https://www.youtube.com/watch?v=xbnDay35L8I)
 - [Inside the Bubble at Facebook](https://www.nemil.com/tdf/part1-employees.html)
