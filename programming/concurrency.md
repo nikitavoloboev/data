@@ -26,3 +26,4 @@ Concurrency is the composition of independently executing computations.
 - [SOMns](https://github.com/smarr/SOMns) - Dynamic, class-based, object-oriented language in the tradition of Smalltalk and Self. Newspeak for Concurrency Research.
 - [Concurrency Kit](http://concurrencykit.org/) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems. ([Code](https://github.com/concurrencykit/ck))
 - [Lock-free vs. wait-free concurrency (2010)](https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency)
+- [Concurrent Expression Problem (2021)](https://matklad.github.io/2021/04/26/concurrent-expression-problem.html)

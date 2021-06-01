@@ -175,3 +175,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Flashcards to learn AWS skills](https://cloudbite.attejuvonen.fi/) ([HN](https://news.ycombinator.com/item?id=27264500))
 - [AWS FAQs](https://aws.amazon.com/faqs/)
 - [PMapper](https://github.com/nccgroup/PMapper) - Tool for quickly evaluating IAM permissions in AWS.
+- [Kubernetes Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)

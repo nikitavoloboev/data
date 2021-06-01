@@ -130,7 +130,7 @@
 - [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.
 - [Gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.
 - [kubenav](https://github.com/kubenav/kubenav) - Navigator for your Kubernetes clusters right in your pocket.
-- [Kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management.
+- [Kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management. ([Web](https://kyverno.io/))
 - [Nirmata](https://www.nirmata.com/) - Unified management plane for all your Kubernetes clusters and workloads.
 - [Deep Dive into Kubernetes Internals for Builders and Operators (2020)](https://www.youtube.com/watch?v=3KtEAa7_duA)
 - [Rode](https://github.com/liatrio/rode) - Cloud native software supply chain.
@@ -391,3 +391,4 @@
 - [Epinio](https://epinio.io/) - Opinionated platform that runs on Kubernetes and takes you from App to URL in one step. ([Code](https://github.com/epinio/epinio))
 - [Cyclonus](https://github.com/mattfenwick/cyclonus) - Tools for understanding, measuring, and applying network policies effectively in kubernetes.
 - [Kubernetes: The Universal Control Plane (2020)](https://blog.cedriccharly.com/post/20200426-kubernetes-the-universal-control-plane/)
+- [Falcosidekick](https://github.com/falcosecurity/falcosidekick) - Simple daemon to help you with Falco's outputs.

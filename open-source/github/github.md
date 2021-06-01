@@ -227,3 +227,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Exporter](https://github.com/github/github-artifact-exporter) - Set of packages to make exporting artifacts from GitHub easier.
 - [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome) - Browse Every Awesome List on GitHub.
 - [GitHub Security Lab](https://securitylab.github.com/) - Securing the world’s software, together. ([Code](https://github.com/github/securitylab))
+- [Prometheus GitHub Exporter](https://github.com/infinityworks/github-exporter) - Exposes basic metrics for your repositories from the GitHub API, to a Prometheus compatible endpoint.

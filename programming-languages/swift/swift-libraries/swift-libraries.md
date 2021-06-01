@@ -695,6 +695,7 @@
 - [SwiftSocket](https://github.com/swiftsocket/SwiftSocket) - Provides as easy to use interface for socket based connections on server or client side.
 - [Media](https://github.com/crelies/Media) - Beautiful and declarative cross-platform wrapper API for Apple's PhotoKit.
 - [Needle](https://github.com/uber/needle) - Compile-time safe Swift dependency injection framework.
+- [NukeUI](https://github.com/kean/NukeUI) - Comprehensive solution for displaying lazily loaded images on Apple platforms.
 
 ## Other (not lib)
 

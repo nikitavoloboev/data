@@ -376,3 +376,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: How can I read faster? (2021)](https://news.ycombinator.com/item?id=27103792)
 - [Writing books is not really a good idea (2021)](https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors) ([HN](https://news.ycombinator.com/item?id=27106055))
 - [Writing a Programming Book in 2021](https://jmtirado.net/writing-a-programming-book-in-2021/) ([HN](https://news.ycombinator.com/item?id=27129518))
+- [Librimood](https://librimood.com/) - Find books based on your mood.
+- [Suggest Me A Book Reddit](https://www.reddit.com/r/suggestmeabook/)
