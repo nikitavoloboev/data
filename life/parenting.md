@@ -31,3 +31,4 @@
 - [KidsLoop](https://www.kidsloop.net/) - Adaptive platform for early years.
 - [‎DA Baby](https://apps.apple.com/app/da-baby/id1512238725) - Newborn Tracker App.
 - [I Became a Mother at 25, and I’m Not Sorry I Didn’t Wait (2021)](https://www.nytimes.com/2021/05/07/opinion/motherhood-baby-bust-early-parenthood.html)
+- [Alfie Kohn's research](https://www.alfiekohn.org/) - Writes and speaks widely on human behavior, education, and parenting.
