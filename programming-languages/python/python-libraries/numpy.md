@@ -17,3 +17,4 @@
 - [RipTable](https://github.com/rtosholdings/riptable) - All in one, high performance 64 bit python analytics engine for numpy arrays with multithreaded support.
 - [Math Inspector](https://github.com/MathInspector/MathInspector) - Visual programing environment for scientific computing with python. Based on numpy & scipy. ([Web](https://mathinspector.com/))
 - [Rolling Quantiles for NumPy](https://github.com/marmarelis/rolling-quantiles)
+- [Legate NumPy](https://github.com/nv-legate/legate.numpy) - Aspiring Drop-In Replacement for NumPy at Scale.
