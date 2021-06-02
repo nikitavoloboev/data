@@ -42,3 +42,4 @@
 - [How GitHub Actions renders large-scale logs (2021)](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/)
 - [Grafana Agent](https://github.com/grafana/agent) - Prometheus Metrics, Loki Logs, and Tempo Traces, optimized for Grafana Cloud.
 - [Why and how GitHub is adopting OpenTelemetry (2021)](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/) ([HN](https://news.ycombinator.com/item?id=27294890))
+- [Logging is important (2021)](https://gcollazo.com/logging-is-important/)

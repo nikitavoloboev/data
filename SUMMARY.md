@@ -574,6 +574,7 @@
     - [Ukraine](travel/visited/ukraine.md)
     - [Austria](travel/visited/austria.md)
     - [Sweden](travel/visited/sweden.md)
+    - [Norway](travel/visited/norway.md)
     - [Finland](travel/visited/finland.md)
     - [Korea](travel/visited/korea.md)
     - [Kazakhstan](travel/visited/kazakhstan.md)

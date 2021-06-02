@@ -56,5 +56,5 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Solanum IRCd](https://solanum.chat/) - IRCv3 server designed to be highly scalable. ([Code](https://github.com/solanum-ircd/solanum))
 - [IRC: run it or use it, but try to avoid doing both (2021)](https://rachelbythebay.com/w/2021/05/26/irc/) ([Lobsters](https://lobste.rs/s/bnwwtx/irc_run_it_use_it_try_avoid_doing_both))
 - [Projects and channels that have decided to leave Freenode](https://github.com/siraben/freenode-exodus)
-- [Atheme IRC Services](https://github.com/hackint/atheme) - Set of services for IRC networks designed for large IRC networks with high scalability requirements.
+- [Atheme IRC Services](https://github.com/atheme/atheme) - Set of services for IRC networks designed for large IRC networks with high scalability requirements. ([Web](https://atheme.github.io/atheme.html))
 - [hackint](https://hackint.org/) - Communication IRC network for the hacker community. ([GitHub](https://github.com/hackint/))
