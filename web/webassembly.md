@@ -171,4 +171,4 @@
 - [webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly.
 - [wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - Language server implementation for WebAssembly.
 - [Making JavaScript run fast on WebAssembly (2021)](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly) ([HN](https://news.ycombinator.com/item?id=27370138))
-- [Exploiting a zero-day WebAssembly Vulnerability in macOS Safari](https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/)
+- [Exploiting a zero-day WebAssembly Vulnerability in macOS Safari (2021)](https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/)

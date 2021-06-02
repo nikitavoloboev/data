@@ -99,6 +99,7 @@
 - [useUnmountSignal](https://github.com/expo/use-unmount-signal) - React Hook to cancel promises when a component is unmounted.
 - [useStateMachine](https://github.com/cassiozen/useStateMachine) - ½ kb state machine hook for React. ([HN](https://news.ycombinator.com/item?id=27231269))
 - [react-hookz/web](https://github.com/react-hookz/web) - Library of general-purpose React hooks built with care and SSR compatibility in mind.
+- [React Cool Virtual](https://github.com/wellyshen/react-cool-virtual) - Tiny React hook for rendering large datasets like a breeze.
 
 ## Notes
 

@@ -325,3 +325,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - Debugging library written in Objective-C. Debugging tools for iOS developers & QA engineers.
 - [Apple Design Awards](https://developer.apple.com/design/awards/)
 - [AppIcon](https://github.com/Nonchalant/AppIcon) - Generates \*.appiconset contains each resolution image for iOS, MacOS.
+- [Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device.
