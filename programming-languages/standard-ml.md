@@ -14,3 +14,6 @@
 - [The History of Standard ML (2020)](https://smlfamily.github.io/history/SML-history.pdf) ([Lobsters](https://lobste.rs/s/0clf32/history_standard_ml))
 - [Standard ML in 2020](https://notes.eatonphil.com/standard-ml-in-2020.html) ([HN](https://news.ycombinator.com/item?id=24890463))
 - [Morel](https://github.com/julianhyde/morel) - Standard ML interpreter, with relational extensions, implemented in Java.
+- [Successor ML](https://github.com/SMLFamily/Successor-ML) - Effort to evolve the Standard ML language while keeping true to its clean and elegant design.
+- [Standard ML Basis Library](https://github.com/SMLFamily/BasisLibrary)
+- [Moscow ML](https://github.com/kfl/mosml) - Light-weight implementation of Standard ML (SML), a strict functional language widely used in teaching and research.

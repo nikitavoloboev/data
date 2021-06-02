@@ -207,6 +207,7 @@
 - [AFF3CT](https://github.com/aff3ct/aff3ct) - Fast simulator and a library dedicated to the channel coding. ([Web](http://aff3ct.github.io/))
 - [Boost.Hof](https://github.com/boostorg/hof) - Higher-order functions for C++.
 - [aids](https://github.com/rexim/aids) - std replacement for C++.
+- [POCO (Portable Components)](https://github.com/pocoproject/poco) - Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. ([Web](https://pocoproject.org/))
 
 ## Links
 

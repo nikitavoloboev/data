@@ -241,6 +241,9 @@
 - [Strategems](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting in Julia.
 - [Polyester](https://github.com/JuliaSIMD/Polyester.jl) - Provides low overhead threading.
 - [ChannelBuffers](https://github.com/KlausC/ChannelBuffers.jl) - Parallel tasks using pipe streams.
+- [BenchmarkCI.jl](https://github.com/tkf/BenchmarkCI.jl) - Provides an easy way to run benchmark suite via GitHub Actions.
+- [BangBang](https://github.com/JuliaFolds/BangBang.jl) - Implements functions whose name ends with !!. Those functions provide a uniform interface for mutable and immutable data structures.
+- [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) - Efficient transducers for Julia.
 
 ## Links
 

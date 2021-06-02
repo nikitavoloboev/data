@@ -96,3 +96,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [Summary on the current state of universities (2020)](https://twitter.com/eriktorenberg/status/1294485125703413761)
 - [Back to School? Marc Andreessen says get clear-eyed on what your education will give you (2020)](https://www.youtube.com/watch?v=_s1xyZM-2Gw)
 - [MIT](https://web.mit.edu/)
+- [Stanford](https://www.stanford.edu/) ([YouTube](https://www.youtube.com/c/stanford/videos))

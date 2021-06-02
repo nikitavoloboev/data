@@ -163,6 +163,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Nick Groenen's digital garden](https://notes.nick.groenen.me/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
+- [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
 - [Charlie T](https://blog.charlietrochlil.com/) ([Code](https://github.com/rhymeswithvocal/digital-garden))

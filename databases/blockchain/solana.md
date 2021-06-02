@@ -45,3 +45,5 @@
 - [Solana Season Hackathon](https://solana.com/solanaszn)
 - [Solana Ecosystem](https://solana.com/ecosystem)
 - [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana.
+- [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
+- [Solana Validators](https://www.validators.app/)

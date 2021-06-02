@@ -76,3 +76,4 @@
 - [What’s the most obscene visual you’ve had on DMT? (2021)](https://www.reddit.com/r/DMT/comments/mgd4o7/whats_the_most_obscene_visual_youve_had_on_dmt/)
 - [What RC or even normal drugs are the closest to Mescaline or NN-DMT? (2021)](https://www.reddit.com/r/researchchemicals/comments/myc1ax/what_rc_or_even_normal_drugs_are_the_closest_to/)
 - [How ayahuasca changed my perspective (2021)](https://pmoncada.medium.com/on-god-or-something-or-anything-how-ayahuasca-changed-my-perspective-on-life-e000c89b4b4d) ([HN](https://news.ycombinator.com/item?id=27026108))
+- [DMT vs. 5-MeO-DMT: 12 Key Differences (2021)](https://www.youtube.com/watch?v=bwwZP-Bm7kI) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/nq0421/dmt_vs_5meodmt_12_key_differences/))

@@ -26,3 +26,5 @@
 - [Why I distrust Google Cloud more than than AWS or Azure (2021)](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html) ([HN](https://news.ycombinator.com/item?id=26897106))
 - [First look at GKE Autopilot (2021)](https://ahmet.im/blog/gke-autopilot/)
 - [Cloud Storage Rust](https://github.com/ThouCheese/cloud-storage-rs) - Crate for uploading files to Google cloud storage, and for generating download URLs.
+- [Google APIs](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
+- [Google API Linter](https://github.com/googleapis/api-linter) - API linter provides real-time checks for compliance with many of Google's API standards.

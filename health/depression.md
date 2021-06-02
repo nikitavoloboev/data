@@ -32,3 +32,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Podcasts for those with Depresion? (2021)](https://www.reddit.com/r/podcasts/comments/mk8a1b/podcasts_for_those_with_depresion/)
 - [Psilocybin 'promising' for depression (2021)](https://www.bbc.com/news/health-56745139) ([HN](https://news.ycombinator.com/item?id=26816444))
 - [A few thoughts on depression (2021)](https://noahpinion.substack.com/p/a-few-thoughts-on-depression)
+- [Stanford's Sapolsky On Depression in U.S. (2009)](https://www.youtube.com/watch?v=NOAgplgTxfc)
