@@ -208,3 +208,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Recent Advances in Programming Language Pre-Trained Models (PL-PTMs)](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers)
 - [Sereal](https://github.com/Sereal/Sereal) - Fast, compact, schema-less, binary serialization and deserialization oriented towards dynamic languages.
 - [Compilation as Multi-Language Semantics](https://github.com/wilbowma/multi-lang-comp)
+- [Domain-Specific Languages Syllabus (2016)](https://github.com/jeanqasaur/dsl-syllabus-fall-2016)

@@ -48,3 +48,4 @@
 - [Reactive CRDT](https://github.com/YousefED/reactive-crdt) - Easy-to-use library for building collaborative applications that sync automatically.
 - [Conflict-free Reinterpretable Ordered Washed Data (CROWD)](https://github.com/hyoo-ru/crowd.hyoo.ru) - Like CRDT but better. ([Demo](https://crowd.hyoo.ru/))
 - [crdt-tree](https://github.com/codesandbox/crdt-tree) - Implementation of a tree Conflict-Free Replicated Data Type in TS.
+- [CRDT Tutorial for Beginners](https://github.com/ljwagerfield/crdt)

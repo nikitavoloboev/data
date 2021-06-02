@@ -254,3 +254,4 @@
 - [Class Activation Map methods implemented in PyTorch](https://github.com/jacobgil/pytorch-grad-cam)
 - [Neural Network Pruning](https://github.com/lucaslie/torchprune) - PyTorch-based pruning and research.
 - [Deep Learning with PyTorch Step-by-Step: Beginner's Guide (2021)](https://leanpub.com/pytorch)
+- [learn2learn](https://github.com/learnables/learn2learn) - PyTorch Library for Meta-learning Research.

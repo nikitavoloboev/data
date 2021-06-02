@@ -145,3 +145,4 @@
 - [SparseML](https://github.com/neuralmagic/sparseml) - Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models.
 - [CogDL](https://github.com/THUDM/cogdl) - Extensive Toolkit for Deep Learning on Graphs. ([Web](https://cogdl.ai/))
 - [TensorLy](https://github.com/tensorly/tensorly) - Tensor Learning in Python. ([Web](http://tensorly.org/stable/index.html))
+- [Cornac](https://github.com/PreferredAI/cornac) - Comparative Framework for Multimodal Recommender Systems.

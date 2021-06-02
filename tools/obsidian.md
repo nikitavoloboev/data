@@ -11,3 +11,4 @@
 - [Obsidian Mind Map](https://github.com/lynchjames/obsidian-mind-map) - Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [Recall](https://github.com/martin-jw/obsidian-recall) - Spaced Repetition System in Obsidian.
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
+- [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com.

@@ -151,3 +151,5 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Медведев. Был у нас такой президент (2021)](https://www.youtube.com/watch?v=qm3oWPNZkqA)
 - [Зимний Байкал! Самое ледяное путешествие! (2021)](https://www.youtube.com/watch?v=lLhzcOxHtQE)
 - [Государственная Дума VIII](https://duma.vote/)
+- [Почему растут цены на продукты? (2021)](https://www.youtube.com/watch?v=zQHsIg9HCB8)
+- [Кто мы — DOXA? Как студенческий журнал стал врагом государства (2021)](https://www.youtube.com/watch?v=vFTfmo9E9iQ)

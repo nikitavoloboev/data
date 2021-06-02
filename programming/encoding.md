@@ -25,3 +25,4 @@
 - [Emoji Under the Hood](https://tonsky.me/blog/emoji/) ([HN](https://news.ycombinator.com/item?id=26574008))
 - [The history of UTF-8 as told by Rob Pike](http://doc.cat-v.org/bell_labs/utf-8_history) ([Lobsters](https://lobste.rs/s/jo5he6/history_utf_8_as_told_by_rob_pike)) ([HN](https://news.ycombinator.com/item?id=26735958))
 - [Concise Encoding](https://concise-encoding.org/) - Friendly data format for human and machine. Ad-hoc, secure, with 1:1 compatible twin binary and text formats and rich type support. ([Code](https://github.com/kstenerud/concise-encoding))
+- [Practical Reed-Solomon for Programmers (2021)](https://berthub.eu/articles/posts/reed-solomon-for-programmers/)

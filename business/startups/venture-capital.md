@@ -116,3 +116,4 @@
 - [Moxxie Ventures](https://www.moxxie.vc/)
 - [Bessemer Venture Partners](https://www.bvp.com/)
 - [chaotic.capital](https://chaotic.capital/)
+- [200+ Resources for Breaking into VC (2021)](https://gumroad.com/l/VC-resources)

@@ -1,5 +1,9 @@
 # Parenting
 
+## Notes
+
+- [One of the most striking things you learn from having kids is how much you took your parents for granted.](https://twitter.com/paulg/status/1400058832596967425)
+
 ## Links
 
 - [Ask HN: How did you prepare for being a first-time parent? (2019)](https://news.ycombinator.com/item?id=21053211)

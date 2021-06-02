@@ -65,6 +65,7 @@
 - [ProbNum](https://github.com/probabilistic-numerics/probnum) - Probabilistic Numerics in Python.
 - [OpenL3](https://github.com/marl/openl3) - Open-source deep audio and image embeddings.
 - [xitorch](https://github.com/xitorch/xitorch) - Differentiable scientific computing library.
+- [randopt](https://github.com/seba-1511/randopt) - Python package for machine learning experiment management, hyper-parameter optimization, and results visualization.
 
 ## Biology
 
@@ -412,6 +413,8 @@
 - [APScheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python.
 - [cbor2](https://github.com/agronholm/cbor2) - Pure Python CBOR (de)serializer with extensive tag support.
 - [Entangle](https://github.com/radiantone/entangle) - Lightweight (serverless) native python parallel processing framework based on simple decorators and call graphs.
+- [TypeGuard](https://github.com/agronholm/typeguard) - Run-time type checker for Python.
+- [Greykite](https://github.com/linkedin/greykite) - Flexible, intuitive and fast forecasting library.
 
 ## Links
 

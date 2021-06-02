@@ -157,3 +157,4 @@
 - [lacc](https://github.com/larmel/lacc) - Simple, self-hosting C compiler.
 - [RefinedC: Automating the Foundational Verification of C Code with Refined Ownership Types (2021)](https://plv.mpi-sws.org/refinedc/paper.pdf) ([HN](https://news.ycombinator.com/item?id=27265329))
 - [Modern C for C++ Peeps (2019)](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html)
+- [Libdill: Structured Concurrency for C (2016)](http://libdill.org/structured-concurrency.html) ([HN](https://news.ycombinator.com/item?id=27357295))

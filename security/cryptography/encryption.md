@@ -34,3 +34,4 @@
 - [What on Earth is this Encryption Scheme? (2021)](https://capnfabs.net/posts/wtf-encryption-scheme-synology-diskstation-nas/)
 - [rage-wasm](https://github.com/kanru/rage-wasm) - WebAssembly wrapper of the rage encryption library.
 - [SchnorrGate](https://github.com/lducas/SchnorrGate) - Testing Schnorr's factoring Claim in Sage.
+- [On the Feasibility of Secure Traceability in End-to-End Encrypted Messaging (2021)](https://nadim.computer/posts/2021-06-02-traceability.html)

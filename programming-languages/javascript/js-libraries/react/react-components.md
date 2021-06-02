@@ -183,6 +183,7 @@
 - [re-position](https://github.com/rmarganti/re-position) - Drag, resize, and rotate all in one flexible React component.
 - [masonic](https://github.com/jaredLunde/masonic) - High-performance masonry layouts for React.
 - [react-loosely-lazy](https://github.com/atlassian-labs/react-loosely-lazy) - Use advanced React async components patterns today.
+- [Supabase Grid](https://github.com/supabase/grid) - React component to display your PostgreSQL table data.
 
 ## Links
 

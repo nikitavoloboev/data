@@ -28,3 +28,4 @@
 - [Black Holes, Hawking Radiation and Holography (2021)](https://www.youtube.com/watch?v=WnkMchdz1AY)
 - [The Doubly Warped World of Binary Black Holes (2021)](https://www.youtube.com/watch?v=rQcKIN9vj3U) ([Article](https://www.nasa.gov/feature/goddard/2021/new-nasa-visualization-probes-the-light-bending-dance-of-binary-black-holes))
 - [Supermassive Black Hole Graphics Shader Tutorial (2021)](https://kelvinvanhoorn.wordpress.com/2021/04/20/supermassive-black-hole-tutorial/)
+- [How does gravity escape a black hole? (2021)](https://www.reddit.com/r/AskPhysics/comments/nqc9b5/how_does_gravity_escape_a_black_hole/)

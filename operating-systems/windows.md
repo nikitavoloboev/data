@@ -32,3 +32,4 @@
 - [Windows 95 – How Does It Look Today?](https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9) ([HN](https://news.ycombinator.com/item?id=26676957))
 - [WSLg](https://github.com/microsoft/wslg) - Windows Subsystem for Linux GUI.
 - [If Microsoft Designed macOS (Concept)](https://www.youtube.com/watch?v=OtwHJwP-juo)
+- [Process Hacker](https://github.com/processhacker/processhacker) - Free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.

@@ -447,7 +447,7 @@
 - [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector.
 - [dotsql](https://github.com/gchaincl/dotsql) - Golang library for using SQL.
 - [Authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web.
-- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go.
+- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go. ([Reddit](https://www.reddit.com/r/golang/comments/nqc4rv/is_segmentiokafkago_production_ready/))
 - [ClickHouse](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse.
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - Thread-safe concurrent map for go.
 - [GoJSONQ](https://github.com/thedevsaddam/gojsonq) - Simple Go package to Query over JSON/YAML/XML/CSV Data.

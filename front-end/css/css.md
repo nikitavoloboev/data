@@ -313,7 +313,7 @@
 - [No, Utility Classes Aren't the Same As Inline Styles (2021)](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 - [Learn CSS](https://web.dev/learn/css/) - Evergreen CSS course and reference to level up your web styling expertise. ([HN](https://news.ycombinator.com/item?id=27233019))
 - [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
-- [25 Years of CSS (2021)](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/)
+- [25 Years of CSS (2021)](https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/) ([HN](https://news.ycombinator.com/item?id=27366056))
 - [CSS Container Queries: Use-Cases And Migration Strategies (2021)](https://www.smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/)
 - [Parsel](https://github.com/LeaVerou/parsel) - Tiny, permissive CSS selector parser. ([Web](https://projects.verou.me/))
 - [What the heck, z-index?](https://www.joshwcomeau.com/css/stacking-contexts/) - Exploring stacking contexts, one of the most misunderstood mechanisms in CSS.
