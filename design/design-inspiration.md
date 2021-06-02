@@ -236,6 +236,8 @@ Here are few more things I liked, design wise.
 - [Brian Louis](https://blr.design/)
 - [Brian Hicks](https://www.brianthicks.com/)
 - [Callum Macrae](https://macr.ae/)
+- [Dean Eigenmann](https://dean.eigenmann.me/)
+- [Jeff Reiner](https://reiner.design/)
 - [Bytes.Zone](https://bytes.zone/)
 - [Jack McDade](https://jackmcdade.com/)
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))

@@ -188,3 +188,7 @@
 - [Sealer](https://github.com/alibaba/sealer) - Build share and run your distributed applications.
 - [Scalability](https://github.com/Clivern/Scalability) - Guides, Articles, Podcasts, Videos and Notes to Build Reliable Large-Scale Distributed Systems.
 - [Building a Raft (2021)](https://benjamincongdon.me/blog/2021/05/16/Building-a-Raft/)
+- [Time, clocks, and order. (2020)](https://dean.eigenmann.me/blog/2020/01/06/time-clocks-and-order/) - Look at the notion of time in a distributed system, and its effects on ordering.
+- [The Generals (2020)](https://dean.eigenmann.me/blog/2020/05/06/generals/) - Look at the Two Generals' and Byzantine Generals' problem, two popular consensus problems.
+- [Impossibility of Distributed Consensus with One Faulty Process (2020)](https://dean.eigenmann.me/blog/2020/03/27/impossibility-of-distributed-consensus-with-one-faulty-process/)
+- [The CAP Theorem (2020)](https://dean.eigenmann.me/blog/2020/02/17/cap-theorem/)

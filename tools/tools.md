@@ -116,6 +116,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Calendly](https://calendly.com/) - Schedule meetings.
 - [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
 - [Bit](https://bit.dev/) - The shared component cloud.
+- [Graphite](https://editor.graphite.design/) - Powerful 2D vector and raster editing: procedural and nondestructive. ([Code](https://github.com/GraphiteEditor/Graphite))
 - [Balerter](https://github.com/balerter/balerter) - Scripts based alerting system.
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.

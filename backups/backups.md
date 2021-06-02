@@ -55,3 +55,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Automatic restic backups using systemd services and timers](https://github.com/erikw/restic-systemd-automatic-backup)
 - [Encrypted Backup Shootout (2021)](https://acha.ninja/blog/encrypted_backup_shootout/) ([HN](https://news.ycombinator.com/item?id=25618346))
 - [Back up your MacOS (2021)](https://dzx.cz/2021/05/23/back_up_your_macos/)
+- [Personal data backup plan (2020)](https://jacobbednarz.com/personal-data-backup-plan)

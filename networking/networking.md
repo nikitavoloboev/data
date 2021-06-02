@@ -251,3 +251,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [curl localhost as a local host (2021)](https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/)
 - [OSI Reference Model - The ISO Model of Architecture for Open Systems Interconnection (1980)](https://www.cs.cmu.edu/~srini/15-744/F02/readings/Zim80.pdf)
 - [Easegress](https://github.com/megaease/easegress) - All-rounder traffic orchestration system.
+- [Bluetooth Mesh Rust](https://github.com/AndrewGi/BluetoothMeshRust) - Cross-platform, full Bluetooth Mesh stack implemented in Rust.

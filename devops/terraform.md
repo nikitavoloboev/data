@@ -82,3 +82,5 @@
 - [TerraCost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 - [TerraCognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
 - [InfraMap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+- [Cloudflare Terraform Provider](https://github.com/cloudflare/terraform-provider-cloudflare)
+- [Terraform provider development overrides (2021)](https://jacobbednarz.com/terraform-provider-development-overrides)

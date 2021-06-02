@@ -231,3 +231,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [DeFi Explained: The FULL Guide (2021)](https://www.reddit.com/r/CryptoCurrency/comments/nletmi/defi_explained_the_full_guide/)
 - [uniswap-v3-staker](https://github.com/omarish/uniswap-v3-staker) - Canonical staking contract designed for Uniswap V3.
 - [Fish.vote](https://www.fish.vote/) - Crowd Proposals for UNI governance.
+- [Network Addresses in Ethereum (2020)](https://dean.eigenmann.me/blog/2020/01/21/network-addresses-in-ethereum/)
