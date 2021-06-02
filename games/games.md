@@ -1,5 +1,3 @@
-# Games
-
 I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25) & [games I am playing now](https://www.grouvee.com/user/nikivi/shelves/12651-playing/?num=25) or [plan to play next](https://www.grouvee.com/user/nikivi/shelves/513443-next/?num=25) on [Grouvee](https://www.grouvee.com/user/nikivi/).
 
 I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I also [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
@@ -103,6 +101,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Nine Chronicles](https://github.com/planetarium/NineChronicles) - Open source online RPG without servers.
 - [SNKRX](https://github.com/a327ex/SNKRX) - Arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. ([HN](https://news.ycombinator.com/item?id=27254177))
 - [BYTEPATH](https://github.com/a327ex/BYTEPATH) - Replayable arcade shooter with a focus on build theorycrafting.
+- [Racing Game in ThreeJS](https://github.com/pmndrs/racing-game)
 
 ## Awesome games (other)
 

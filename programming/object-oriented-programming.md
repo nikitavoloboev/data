@@ -29,3 +29,4 @@
 - [Is Inheritance That Evil? (2021)](https://thevaluable.dev/guide-inheritance-oop/)
 - [Inheritance was invented as a performance hack](http://catern.com/inheritance.html) ([Lobsters](https://lobste.rs/s/gq29l7/inheritance_was_invented_as_performance)) ([HN](https://news.ycombinator.com/item?id=26988839))
 - [The Power of Interoperability: Why Objects Are Inevitable](https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf)
+- [A hopefully modern description of Object-Oriented Analysis (2021)](https://www.sicpers.info/2021/05/a-hopefully-modern-description-of-object-oriented-analysis/)

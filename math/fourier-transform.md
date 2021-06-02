@@ -23,3 +23,4 @@
 - [What is a Discrete Fourier Transform? (2020)](https://www.youtube.com/watch?v=g8RkArhtCc4)
 - [The Fourier transform is a neural network (2021)](https://sidsite.com/posts/fourier-nets/) ([HN](https://news.ycombinator.com/item?id=26980169))
 - [Multiplying Integers Using Fourier Transforms](http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf) ([HN](https://news.ycombinator.com/item?id=27165133))
+- [Fourier Neural Operator](https://github.com/zongyi-li/fourier_neural_operator) - Use Fourier transform to learn operators in differential equations.

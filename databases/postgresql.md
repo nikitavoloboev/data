@@ -272,3 +272,4 @@
 - [PostgreSQL UUID vs. Serial vs. Identity (2021)](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/) ([HN](https://news.ycombinator.com/item?id=27345837))
 - [repmgr](https://github.com/EnterpriseDB/repmgr) - Replication Manager for PostgreSQL. ([Web](https://repmgr.org/))
 - [Better JSON in Postgres with PostgreSQL 14 (2021)](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14) ([Tweet](https://twitter.com/simonw/status/1399803232906448898)) ([HN](https://news.ycombinator.com/item?id=27358977))
+- [PostgreSQL Autodoc](https://github.com/cbbrowne/autodoc) - Dumps a Postgres schema in several useful documentary forms.

@@ -70,3 +70,4 @@
 - [A Course on Ray Tracing and Global Illumination](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/)
 - [Ray tracer for those who skipped the math class (2021)](https://zserge.com/posts/raytracer/)
 - [A Dive into Ray Tracing Performance on the Apple M1 (2021)](https://www.willusher.io/graphics/2020/12/20/rt-dive-m1) ([HN](https://news.ycombinator.com/item?id=27340555))
+- [Arnold Renderer](https://www.arnoldrenderer.com/) - Advanced Monte Carlo ray tracing renderer built for the demands of feature-length animation and visual effects.

@@ -83,6 +83,7 @@
 - [‎Flip Sampler](https://apps.apple.com/us/app/flip-make-music-everywhere/id1486629619#?platform=iphone)
 - [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment.
 - [SOUL](https://soul.dev/) - Language and infrastructure for writing and deploying audio code. ([Code](https://github.com/soul-lang/SOUL))
+- [libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library.
 
 ## Inspiration
 

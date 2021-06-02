@@ -85,3 +85,4 @@
 - [SVG Loader](https://github.com/shubhamjain/svg-loader) - Plug 'n Play external SVG loader. ([Article](https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/))
 - [Boring Avatars](https://boringavatars.com/) - React library to generate custom avatars. ([Code](https://github.com/boringdesigners/boring-avatars)) ([HN](https://news.ycombinator.com/item?id=27311964))
 - [svgj](https://github.com/Jarred-Sumner/svgj) - Quickly converts .svg files into JSX.
+- [text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.

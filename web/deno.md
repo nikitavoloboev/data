@@ -104,3 +104,4 @@
 - [Trex](https://github.com/crewdevio/Trex) - Package Manager for Deno.
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 - [Deno PKG](https://denopkg.com/) - Use GitHub as a package registry for Deno. ([Code](https://github.com/denopkg/denopkg.com))
+- [AloeDB](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno.

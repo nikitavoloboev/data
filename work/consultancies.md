@@ -62,6 +62,7 @@
 - [Websmyth](https://websmyth.co/) - Custom Websites For Small Businesses.
 - [PHYGITALISM](https://phygitalism.com/) - Moscow based design studio.
 - [Sensa](https://sensa.co/) - Strategy + Craft.
+- [BASIC](https://www.basicagency.com/) - Digital Branding & Experience Design Agency.
 
 ## DB
 

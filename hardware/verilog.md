@@ -15,3 +15,4 @@
 - [Icarus Verilog](http://iverilog.icarus.com/) - Verilog simulation and synthesis tool. ([Code](https://github.com/steveicarus/iverilog))
 - [Factorio Verilog Compiler](https://github.com/Redcrafter/verilog2factorio) - Compile Verilog (a hardware description language) into Factorio blueprints. ([HN](https://news.ycombinator.com/item?id=26929370))
 - [Clash](https://github.com/clash-lang/clash-compiler) - Haskell to VHDL/Verilog/SystemVerilog compiler. ([Web](https://clash-lang.org/))
+- [sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion.

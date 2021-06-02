@@ -2,6 +2,10 @@
 
 Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles) as a framework for making better decisions.
 
+## Notes
+
+- [Obama used 'decision memos' with choices of: 1. agree. 2. disagree 3. let's discuss](https://twitter.com/Conaw/status/1399850705435955200)
+
 ## Links
 
 - [What Really Drives Our Decision-Making? (2019)](https://ritholtz.com/2019/05/what-really-drives-our-decision-making/)

@@ -201,3 +201,5 @@
 - [Apple Has a Decade-long Lead in Wearables (2021)](https://www.aboveavalon.com/notes/2021/5/27/apple-has-a-decade-long-lead-in-wearables) ([HN](https://news.ycombinator.com/item?id=27321387))
 - [AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC (2021)](https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming) ([HN](https://news.ycombinator.com/item?id=27350632))
 - [Denotational hardware design in Agda](https://github.com/conal/agda-hardware)
+- [Zero to ASIC Course](https://www.zerotoasiccourse.com/) - Learn how to make your own computer chips. ([YouTube](https://www.youtube.com/c/ZeroToASIC/videos))
+- [Cores that don’t count (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf)

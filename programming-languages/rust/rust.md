@@ -494,3 +494,4 @@
 - [RPG](https://github.com/JohnTitor/rpg) - CLI tool for the Rust Playground.
 - [Tightness Driven Development in Rust (2021)](https://www.ecorax.net/tightness/)
 - [A Firehose of Rust, for busy people who know some C++ (2021)](https://www.youtube.com/watch?v=IPmRDS0OSxM)
+- [Rust for Rustaceans Book (2021)](https://nostarch.com/rust-rustaceans) - Idiomatic Programming for Experienced Developers. ([Tweet](https://twitter.com/jonhoo/status/1399824695600418817))
