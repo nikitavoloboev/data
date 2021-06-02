@@ -70,3 +70,4 @@
 - [eBPF assembly with LLVM (2020)](https://qmonnet.github.io/whirl-offload/2020/04/12/llvm-ebpf-asm/)
 - [Alive2: Bounded Translation Validation for LLVM (2021)](https://www.cs.utah.edu/~regehr/alive2-pldi21.pdf)
 - [llvm-deobfuscator](https://github.com/RPISEC/llvm-deobfuscator) - Performs the inverse operation of the control flow flattening pass performed by LLVM-Obfuscator. ([Article](https://rpis.ec/blog/dissection-llvm-obfuscator-p1/))
+- [LLVM MinGW](https://github.com/mstorsjo/llvm-mingw) - LLVM/Clang/LLD based mingw-w64 toolchain.

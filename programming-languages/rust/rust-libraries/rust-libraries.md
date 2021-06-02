@@ -852,6 +852,7 @@
 - [async-attributes](https://github.com/async-rs/async-attributes) - Experimental language-level polyfills for Async Rust.
 - [speedy](https://github.com/koute/speedy) - Fast binary serialization framework.
 - [serde_with](https://github.com/jonasbb/serde_with) - Custom de/serialization functions for Rust's serde using the with-annotation.
+- [tabled](https://github.com/zhiburt/tabled) - Easy to use library for pretty print tables of Rust structs and enums.
 
 ## Cargo Plugins
 
