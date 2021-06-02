@@ -255,3 +255,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Undercover](https://github.com/a7ul/undercover) - Store your environment variables and secrets in git safely.
 - [gitgo](https://github.com/ChimeraCoder/gitgo) - Provides Go functions for interacting with Git repositories.
 - [Convco](https://github.com/convco/convco) - Conventional commits, changelog, versioning, validation.
+- [GitLive](https://git.live/) - Extend Git with real-time collaborative superpowers.

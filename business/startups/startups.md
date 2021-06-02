@@ -51,6 +51,8 @@
 - [Clerky or Stripe Atlas are top choices to make LLC](https://twitter.com/hswolff/status/1397200309227855879)
 - [Startups should use their capital to eliminate risk. Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1399363160151318528)
 - [You are not your startup. Whatever happens to your startup will happen. But take care of yourself - you are important.](https://twitter.com/dunkhippo33/status/1399811072035418113)
+- [The public is never wrong. When people don't respond to what you do, they're telling you something loud and clear. You're just not listening.](https://twitter.com/jackbutcher/status/1399783270062174210)
+- [You do everything differently when you're an owner.](https://twitter.com/jackbutcher/status/1399571975459246082)
 
 ## Links
 

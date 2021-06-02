@@ -29,6 +29,7 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Have a different room for work that’s separate from bedroom and living area. Take walks to break up the day. Take time off in evenings as reward.](https://twitter.com/herrmanndigital/status/1387773860636995592)
 - [Manage priorities rather than time.](https://twitter.com/MikeyFox/status/1387699937954119683)
 - [Every evening, write down a daily schedule for the next day and try to stick to it as best as possible.](https://twitter.com/rasbt/status/1397221898044456962)
+- [The sunk cost of perfectionism: Spending time making things you don't know anyone wants.](https://twitter.com/jackbutcher/status/1399798492521021446)
 
 ## Links
 
