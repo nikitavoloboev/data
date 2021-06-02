@@ -197,3 +197,4 @@
 - [Mastering Atari with Discrete World Models (2021)](https://danijar.com/project/dreamerv2/) ([Code](https://github.com/danijar/dreamerv2))
 - [RoboDesk](https://github.com/google-research/robodesk) - Multi-Task Reinforcement Learning Benchmark.
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) - Reinforcement learning package for Julia. ([Web](https://juliareinforcementlearning.org/))
+- [Improving Exploration in Soft-Actor-Critic with Normalizing Flows Policies (2019)](https://arxiv.org/abs/1906.02771) ([Code](https://github.com/joeybose/FloRL))

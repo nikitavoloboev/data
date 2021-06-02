@@ -52,6 +52,7 @@
 - [jQuery](https://github.com/jquery/jquery) - Fast, small, and feature-rich JavaScript library. ([Web](https://jquery.com/))
 - [neo.mjs](https://github.com/neomjs/neo) - Create blazing fast multithreaded Web Apps.
 - [presta](https://github.com/sure-thing/presta) - Hyper minimal framework for the modern web. ([Web](https://presta.run/))
+- [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
 
 ## Animation
 

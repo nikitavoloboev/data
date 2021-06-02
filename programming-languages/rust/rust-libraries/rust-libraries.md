@@ -63,6 +63,7 @@
 - [tame-oidc](https://github.com/EmbarkStudios/tame-oidc) - Small OAuth crate that follows the sans-io approach.
 - [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust.
 - [MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework. ([Podcast](https://blog.abor.dev/p/moonzoon)) ([HN](https://news.ycombinator.com/item?id=27155639))
+- [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 
 ## WASM
 

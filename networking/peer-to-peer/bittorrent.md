@@ -56,3 +56,4 @@
 - [βTorrent](https://btorrent.xyz/) - Browser WebTorrent Client. ([Code](https://github.com/DiegoRBaquero/BTorrent))
 - [BitFiend](https://github.com/eduard-permyakov/BitFiend) - BitTorrent client written in C.
 - [The Pirate Bay – Darknet Diaries (2021)](https://darknetdiaries.com/episode/92/)
+- [Transmission-rpc](https://github.com/Trim21/transmission-rpc) - Python module implementing the json-rpc client protocol for the BitTorrent client Transmission.
