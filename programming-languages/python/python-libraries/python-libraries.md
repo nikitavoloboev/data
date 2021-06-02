@@ -415,6 +415,7 @@
 - [Entangle](https://github.com/radiantone/entangle) - Lightweight (serverless) native python parallel processing framework based on simple decorators and call graphs.
 - [TypeGuard](https://github.com/agronholm/typeguard) - Run-time type checker for Python.
 - [Greykite](https://github.com/linkedin/greykite) - Flexible, intuitive and fast forecasting library.
+- [plydata](https://github.com/has2k1/plydata) - Grammar for data manipulation in Python.
 
 ## Links
 

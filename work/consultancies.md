@@ -185,6 +185,7 @@
 - [Bocoup](https://bocoup.com/) - Web platform consulting services.
 - [OddBird](https://www.oddbird.net/) - Experts in digital product creation. ([GitHub](https://github.com/oddbird/))
 - [NearForm](https://www.nearform.com/) - Enterprise Software Development & Capability Building.
+- [Public Digital](https://public.digital/)
 
 ## Notes
 

@@ -99,3 +99,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Sultan Khan: The Best Unknown Chess Player Who Ever Lived (2021)](https://www.youtube.com/watch?v=8Jhv4F8NGe8)
 - [7 BEST Queen Sacrifices In Chess History! (2021)](https://www.youtube.com/watch?v=_JzChhH-id0)
 - [Chess reinforcement learning by AlphaGo Zero methods](https://github.com/Zeta36/chess-alpha-zero)
+- [How To Calculate In Chess (2021)](https://www.youtube.com/watch?v=9Ga9dP3bvN8)

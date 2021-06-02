@@ -19,3 +19,4 @@
 - [PWA Badge](https://github.com/ali-master/pwa-badge) - Badging for PWA app icons, Like Native Apps.
 - [Pep](https://pep.dev/) - Turn your site into a fast, installable Progressive Web App (PWA). ([HN](https://news.ycombinator.com/item?id=26080935))
 - [PWABuilder](https://www.pwabuilder.com/) - Quickly and easily turn your website into an app. ([Code](https://github.com/pwa-builder/PWABuilder))
+- [Building multiple Progressive Web Apps on the same domain (2021)](https://web.dev/building-multiple-pwas-on-the-same-domain/)

@@ -68,6 +68,7 @@
 - [Libretto](https://github.com/TomasMikula/libretto) - Declarative concurrency and stream processing library for Scala.
 - [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
 - [Natchez](https://github.com/tpolecat/natchez) - Distributed tracing library for Scala.
+- [SWAN](https://github.com/themaplelab/swan) - Swift Static Analysis Framework.
 
 ## Links
 

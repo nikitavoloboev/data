@@ -125,3 +125,4 @@
 - [Dolores](https://github.com/hauleth/dolores) - Local development HTTPS proxy server meant to simplify working with multi-domain applications by serving each application on separate domain under .localhost TLD.
 - [Rlay](https://github.com/cfe84/rlay) - Development tool that allows you to forward HTTP calls to your local machine through a server. ([Article](https://www.feval.ca/posts/rlay/))
 - [Extreme HTTP Performance Tuning (2021)](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) ([HN](https://news.ycombinator.com/item?id=27226382))
+- [Conditional HTTP GET: The fastest requests need no response body (2021)](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/)

@@ -828,6 +828,7 @@
 - [Mango Cache](https://github.com/goburrow/cache) - Partial implementations of Guava Cache in Go.
 - [Go Nanoid](https://github.com/matoous/go-nanoid) - Go random IDs generator.
 - [glog](https://github.com/golang/glog) - Leveled execution logs for Go.
+- [QOR OSS](https://github.com/qor/oss) - Provides common interface to operate files in cloud storage/filesystem.
 
 ## Links
 

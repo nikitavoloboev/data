@@ -79,3 +79,6 @@
 - [Terraform graph beautifier](https://github.com/pcasteran/terraform-graph-beautifier) - Command line tool allowing to convert the barely usable output of the terraform graph command to something more meaningful and explanatory.
 - [Continuous Infrastructure Deployment with Terraform Cloud (2021)](https://itnext.io/continuous-infrastructure-deployment-with-terraform-cloud-2853cbbb920)
 - [Terraform: Up and Running](https://www.terraformupandrunning.com/)
+- [TerraCost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
+- [TerraCognita](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
+- [InfraMap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.

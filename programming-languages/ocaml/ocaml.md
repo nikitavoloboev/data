@@ -78,3 +78,4 @@
 - [Generalised signatures (2021)](https://www.craigfe.io/posts/generalised-signatures) - Technique for defining more reusable OCaml signatures.
 - [Mkocaml](https://github.com/chrisnevers/mkocaml) - Tool to generate OCaml projects.
 - [Js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) - Compiler from OCaml to JavaScript. ([Docs](http://ocsigen.org/js_of_ocaml/latest/manual/overview))
+- [ocaml-tree-sitter](https://github.com/returntocorp/ocaml-tree-sitter) - Generate OCaml parsers based on tree-sitter grammars, for semgrep.

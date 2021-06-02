@@ -30,3 +30,4 @@
 - [PureScript and Haskell (2021)](https://blog.drewolson.org/purescript-and-haskell) ([HN](https://news.ycombinator.com/item?id=26271851))
 - [Halogen Template](https://github.com/purescript-halogen/purescript-halogen-template) - Template project for getting started with Halogen.
 - [Purescript esbuild plugin](https://github.com/Mateiadrielrafael/esbuild-plugin-purescript)
+- [Flame](https://github.com/easafe/purescript-flame) - PureScript front-end framework inspired by the Elm architecture. ([HN](https://news.ycombinator.com/item?id=27364833))

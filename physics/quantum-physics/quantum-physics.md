@@ -65,3 +65,5 @@
 - [Quantum Leaps, Long Assumed to Be Instantaneous, Take Time (2021)](https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/)
 - [Is there a Wave Function of the Universe?](https://www.reddit.com/r/quantum/comments/ncsoyn/wave_function_of_the_universe/)
 - [In which ways does quantum mechanics differ from traditional physics? What did you learn that felt 'weird'? (2021)](https://www.reddit.com/r/Physics/comments/noe9y2/in_which_ways_does_quantum_mechanics_differ_from/)
+- [Why does measuring a quantum object change it? (2021)](https://overcast.fm/+Oq0Z42QZg)
+- [What Is Real? by Adam Becker (2018)](https://www.hachettebookgroup.com/titles/adam-becker/what-is-real/9780465096060/) - The Unfinished Quest for the Meaning of Quantum Physics.
