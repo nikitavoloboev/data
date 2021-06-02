@@ -216,3 +216,5 @@
 - [My experience binding a couple of scripting engines with C++ (2021)](https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7) ([HN](https://news.ycombinator.com/item?id=27262511))
 - [C++Now 2021](https://pages.jetbrains.com/cppnow2021)
 - [C++Now 2019: Odin Holmes “Tacit DSL All the Things”](https://www.youtube.com/watch?v=J0jwUEyrvQM)
+- [Ambiguity in template parameters (2021)](https://brevzin.github.io/c++/2021/05/12/template-ambiguity/)
+- [C++20 Range Adaptors and Range Factories (2021)](https://brevzin.github.io/c++/2021/02/28/ranges-reference/)
