@@ -50,6 +50,7 @@
 - [Startups are awesome because even if you fail, you’ll still succeed by way of getting one of the best learning experiences of your life.](https://twitter.com/mckaywrigley/status/1395073768549015553)
 - [Clerky or Stripe Atlas are top choices to make LLC](https://twitter.com/hswolff/status/1397200309227855879)
 - [Startups should use their capital to eliminate risk. Pick the biggest problems and eliminate them one at a time.](https://twitter.com/JonErlichman/status/1399363160151318528)
+- [You are not your startup. Whatever happens to your startup will happen. But take care of yourself - you are important.](https://twitter.com/dunkhippo33/status/1399811072035418113)
 
 ## Links
 

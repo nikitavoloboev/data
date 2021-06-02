@@ -486,3 +486,4 @@ Go promotes composition over inheritance.
 - [The Cult of Go Test (2016)](https://danmux.com/posts/the_cult_of_go_test/) ([Lobsters](https://lobste.rs/s/vzdoor/cult_go_test))
 - [Rabbit](https://github.com/Clivern/Rabbit) - Lightweight service that will build and store your go projects binaries, Integrated with Github.
 - [xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler.
+- [gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.

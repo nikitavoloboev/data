@@ -700,6 +700,7 @@
 - [JMESPath for Swift](https://github.com/adam-fowler/jmespath.swift) - Swift implementation of JMESPath, a query language for JSON.
 - [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
 - [Pigeon](https://github.com/fmo91/Pigeon) - SwiftUI and UIKit library that relies on Combine to deal with asynchronous data.
+- [SwiftCF](https://github.com/ddddxxx/SwiftCF) - Use CoreFoundation based framework in Swift painlessly.
 
 ## Other (not lib)
 

@@ -483,3 +483,4 @@
 - [Understanding Dimensionality Reduction with UMAP](https://pair-code.github.io/understanding-umap/)
 - [Neural Algorithmic Reasoning (2021)](https://arxiv.org/abs/2105.02761) ([Tweet](https://twitter.com/s_scardapane/status/1399378122894684166))
 - [A Pragmatic Look at Deep Imitation Learning](https://github.com/Kaixhin/imitation-learning)
+- [Stanford CS229: Machine Learning Course (2021)](http://cs229.stanford.edu/) ([Notes](https://github.com/mossr/machine_learning_book))

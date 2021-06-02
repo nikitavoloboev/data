@@ -83,3 +83,4 @@
 - [Erlang Solutions](https://www.erlang-solutions.com/) - Scalable Distributed Technology.
 - [My Road to Erlang (2008)](https://prog21.dadgum.com/22.html)
 - [ERLUP](https://github.com/tsloughter/erlup) - Manage multiple Erlang installs with per directory configuration.
+- [hackney](https://github.com/benoitc/hackney) - HTTP client library in Erlang.

@@ -69,8 +69,10 @@
 - [Algebird](https://github.com/twitter/algebird) - Abstract Algebra for Scala.
 - [Natchez](https://github.com/tpolecat/natchez) - Distributed tracing library for Scala.
 - [SWAN](https://github.com/themaplelab/swan) - Swift Static Analysis Framework.
+- [Chimney](https://github.com/scalalandio/chimney) - Scala library for boilerplate-free, type-safe data transformations.
 
 ## Links
 
 - [Scaladex](https://index.scala-lang.org/) - Scala Package Index. ([Code](https://github.com/scalacenter/scaladex))
 - [Useful Scala libraries (2020)](https://twitter.com/hmemcpy/status/1318473961236291584)
+- [Scalaland.io](https://scalalandio.github.io/) - Umbrella for various Scala projects. ([GitHub](https://github.com/scalalandio))

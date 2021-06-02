@@ -170,4 +170,4 @@
 - [WasmEdge](https://github.com/WasmEdge/WasmEdge) - High-performance, extensible, and hardware optimized WebAssembly Virtual Machine for cloud, AI, and blockchain applications. ([Web](https://wasmedge.org/))
 - [webassemblyjs](https://github.com/xtuc/webassemblyjs) - Toolchain for WebAssembly.
 - [wasm-lsp-server](https://github.com/wasm-lsp/wasm-lsp-server) - Language server implementation for WebAssembly.
-- [Making JavaScript run fast on WebAssembly (2021)](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+- [Making JavaScript run fast on WebAssembly (2021)](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly) ([HN](https://news.ycombinator.com/item?id=27370138))

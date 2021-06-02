@@ -49,6 +49,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Atlas](http://atlasengineering.io/) - Hopefully better engineering IDE. ([HN](https://news.ycombinator.com/item?id=27112529))
 - [Noto](https://github.com/brunophilipe/Noto) - Beautiful and simple plain text editor for macOS written in Swift.
 - [Helix](https://github.com/helix-editor/helix) - Post-modern modal text editor. ([Web](https://helix-editor.com/)) ([HN](https://news.ycombinator.com/item?id=27358479))
+- [Tofu](https://tofu.is/) - Exploration in fluid code editing. ([Code](https://github.com/Gregoor/tofu))
 
 ## Web
 
@@ -109,6 +110,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [The values of Emacs, the Neovim revolution, and the VSCode gorilla (2021)](https://www.murilopereira.com/the-values-of-emacs-the-neovim-revolution-and-the-vscode-gorilla/) ([HN](https://news.ycombinator.com/item?id=25810427))
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - Tool to verify that your files are in harmony with your .editorconfig. ([Web](https://editorconfig-checker.github.io/))
 - [dprint](https://dprint.dev/) - Pluggable and configurable code formatting platform written in Rust. ([Code](https://github.com/dprint/dprint))
+- [dprint-node](https://github.com/devongovett/dprint-node) - Node API for the dprint TypeScript and JavaScript code formatter.
 - [Building a High Performance Text Editor (2021)](https://wbond.net/thoughts/building_a_high_performance_text_editor)
 - [Editors, IDEs; O Gods, What If Microsoft Was Right All Along? (2021)](https://brandur.org/nanoglyphs/021-ides)
 - [Chroma](https://github.com/alecthomas/chroma) - General purpose syntax highlighter in pure Go.

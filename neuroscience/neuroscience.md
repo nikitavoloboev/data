@@ -71,6 +71,7 @@
 - [An Atlas of Cortical Arealization Identifies Dynamic Molecular Signatures (2021)](https://www.biorxiv.org/content/10.1101/2021.05.17.444528v2)
 - [Nowakowski Lab](https://nowakowski-lab.squarespace.com/)
 - [Patrick J. Mineault's research on neuroscience, ML](https://xcorr.net/)
+- [A Browsable Petascale Reconstruction of the Human Cortex (2021)](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
 
 ## Images
 
