@@ -75,7 +75,6 @@
 - [What it’s like trying to argue with 90% of the people in my mentions](https://twitter.com/MalwareTechBlog/status/1330273227185262592)
 - [When you need to confirm you're not a robot](https://twitter.com/5tevieM/status/1333115413291552769)
 - [Galactic Federation interviews Earth for membership](https://twitter.com/vinn_ayy/status/1336178629450018817)
-- [Ваня Усович "ЕЩЕ ОДИН ДЕНЬ" 2020](https://www.youtube.com/watch?v=yh6NYuc9gC0)
 - [Hitler reacts to functional programming](https://www.youtube.com/watch?v=ADqLBc1vFwI)
 - [Ask HN: Anyone know any funny programming jokes? (2021)](https://news.ycombinator.com/item?id=25850739)
 - [Cat Daddy Issues](https://twitter.com/_Glintofsilver/status/1366204627922923521)

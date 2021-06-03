@@ -199,5 +199,5 @@
 - [ReinforcementLearning.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl) - Reinforcement learning package for Julia. ([Web](https://juliareinforcementlearning.org/))
 - [Improving Exploration in Soft-Actor-Critic with Normalizing Flows Policies (2019)](https://arxiv.org/abs/1906.02771) ([Code](https://github.com/joeybose/FloRL))
 - [Cherry](https://github.com/learnables/cherry) - PyTorch Library for Reinforcement Learning Research.
-- [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://sites.google.com/berkeley.edu/decision-transformer) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/nqqle6/r_decision_transformer_reinforcement_learning_via/))
+- [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://sites.google.com/berkeley.edu/decision-transformer) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/nqqle6/r_decision_transformer_reinforcement_learning_via/)) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/nqp9nh/decision_transformer_reinforcement_learning_via/))
 - [Reinforcement Learning Tricks, Index](https://github.com/Miffyli/rl-human-prior-tricks)

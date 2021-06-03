@@ -8,4 +8,5 @@
 ## Funny
 
 - [Tinder as a woman](https://www.youtube.com/watch?app=desktop&v=7Fh52TgG_YE)
-- [Кому нравятся качки](https://twitter.com/i/lists/1351120526220152839)
+- [Сергей Орлов - Про спортзалы](https://www.youtube.com/watch?v=KW9knOePgmU)
+- [Ваня Усович "ЕЩЕ ОДИН ДЕНЬ" 2020](https://www.youtube.com/watch?v=yh6NYuc9gC0)

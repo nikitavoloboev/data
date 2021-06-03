@@ -66,7 +66,8 @@
 - [Edinburgh Genome Foundry](https://edinburgh-genome-foundry.github.io/) ([GitHub](https://github.com/Edinburgh-Genome-Foundry))
 - [Cultural Evolution of Genetic Heritability (2021)](https://michael.muthukrishna.com/wp-content/uploads/2021/05/Cultural_Evolution_of_Genetic_Heritability-BBS-Uchiyama_Spicer_Muthukrishna-final.pdf) ([Tweet](https://twitter.com/mmuthukrishna/status/1395731515540127746))
 - [Pachter Lab](http://pachterlab.github.io/) - Develops computational and experimental methods for genomics. ([GitHub](https://github.com/pachterlab))
-- [The complete sequence of a human genome (2021)](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1)
+- [The complete sequence of a human genome (2021)](https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1) ([Reddit](https://www.reddit.com/r/genomics/comments/nmg0t6/the_complete_sequence_of_a_human_genome_nurk_et/))
 - [perbase](https://github.com/sstadick/perbase) - Per-base per-nucleotide depth analysis.
 - [Computational genomics resources](https://github.com/igordot/genomics)
 - [Seq-N-Slide](https://github.com/igordot/sns) - Sequencing data analysis pipelines. ([Docs](https://igordot.github.io/sns/))
+- [Genomics Reddit](https://www.reddit.com/r/genomics/)
