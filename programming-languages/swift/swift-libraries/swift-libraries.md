@@ -304,6 +304,7 @@
 - [ToastUI](https://github.com/quanshousio/ToastUI) - Simple way to show toast in SwiftUI.
 - [SystemNotification](https://github.com/danielsaidi/SystemNotification) - SwiftUI library that lets you mimic the native iOS system notification in your iOS apps.
 - [BetterSafariView](https://github.com/stleamist/BetterSafariView) - Better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+- [CodeEditorView](https://github.com/mchakravarty/CodeEditorView) - SwiftUI code editor view for iOS and macOS.
 
 ## Test
 

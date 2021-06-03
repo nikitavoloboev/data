@@ -247,3 +247,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [5 steps to faster web fonts (2021)](https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/)
 - [Open source beautiful fonts (2021)](https://twitter.com/gontijodesign/status/1394624373823348737)
 - [Awesome OSS Fonts](https://github.com/drwpow/awesome-oss-fonts)
+- [OpenType](https://github.com/bodoni/opentype) - Parser for OpenType fonts.

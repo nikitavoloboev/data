@@ -134,3 +134,4 @@
 - [Clojure by Example (2015)](https://kimh.github.io/clojure-by-example/#about) ([HN](https://news.ycombinator.com/item?id=27273911)) ([Code](https://github.com/kimh/clojure-by-example))
 - [Roll your own Clojure web stack (2021)](https://purelyfunctional.tv/guide/clojure-web-tutorial/)
 - [Clojure's JSON ecosystem (2021)](https://www.juxt.pro/blog/json-in-clojure)
+- [Tour of our 250k line Clojure codebase (2021)](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/) ([HN](https://news.ycombinator.com/item?id=27385208))

@@ -178,3 +178,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Kubernetes Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
 - [Nomad AWS Module](https://github.com/hashicorp/terraform-aws-nomad) - Terraform Module for how to run Nomad on AWS using Terraform and Packer.
 - [Advice on using AWS for startups (2021)](https://twitter.com/aeduhm/status/1400110976179965954)
+- [Mind map of container platforms and tools on AWS](https://github.com/rakyll/aws-containers)
