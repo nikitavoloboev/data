@@ -252,3 +252,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [OSI Reference Model - The ISO Model of Architecture for Open Systems Interconnection (1980)](https://www.cs.cmu.edu/~srini/15-744/F02/readings/Zim80.pdf)
 - [Easegress](https://github.com/megaease/easegress) - All-rounder traffic orchestration system.
 - [Bluetooth Mesh Rust](https://github.com/AndrewGi/BluetoothMeshRust) - Cross-platform, full Bluetooth Mesh stack implemented in Rust.
+- [netkat](https://github.com/aojea/netkat) - Netcat version using raw sockets to avoid iptables and/or other OS filtering mechanisms.
