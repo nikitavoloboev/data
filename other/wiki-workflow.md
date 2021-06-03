@@ -353,3 +353,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [rsms's memex](https://github.com/rsms/memex) - Software for managing my digital information, like tweets.
 - [Notable](https://notable.app/) - Markdown-based note-taking app.
 - [emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema. Create beautiful websites like wikis. ([Web](https://note.ema.srid.ca/))
+- [Joplin](https://joplinapp.org/) - Open source note taking and to-do application with synchronisation capabilities. ([Code](https://github.com/laurent22/joplin))

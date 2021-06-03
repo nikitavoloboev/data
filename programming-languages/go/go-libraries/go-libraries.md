@@ -844,3 +844,4 @@
 - [Collect data about your Go dependencies](https://github.com/nikolaydubina/import-graph)
 - [glice](https://github.com/ribice/glice) - Go license and dependency checker.
 - [gopkgs](https://github.com/uudashr/gopkgs) - Tool to get list available Go packages.
+- [GoCover.io](https://gocover.io/) - See code coverage of any Go package. ([Code](https://github.com/vieux/gocover.io))

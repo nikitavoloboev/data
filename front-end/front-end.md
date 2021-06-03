@@ -57,3 +57,4 @@
 - [Essential list of resources for Front-End beginners](https://github.com/thedaviddias/Resources-Front-End-Beginner)
 - [Никита Мостовой: перфоманс фронтенд приложений (2020)](https://www.youtube.com/watch?v=TtTtbioaPOk)
 - [Front End Happy Hour Podcast](http://frontendhappyhour.com/)
+- [Front-End Testing is For Everyone (2021)](https://css-tricks.com/front-end-testing-is-for-everyone/)

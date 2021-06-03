@@ -426,3 +426,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Old Book Illustrations](https://www.oldbookillustrations.com/subjects/)
 - [Gallery](https://gallery.so/) - Show your collection to the world.
 - [Async Art](https://async.art/) - Art movement built on the blockchain.
+- [The Bob Ross Virtual Art Gallery](https://connorrothschild.github.io/bob-ross-art-gallery/)

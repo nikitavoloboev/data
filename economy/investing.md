@@ -24,6 +24,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [The problem with buying things that you don't know how to value, is you don't know when to sell until it's too late.](https://www.reddit.com/r/investing/comments/n6dh3d/i_sold_every_share_i_own_today/)
 - [If total market index funds aren't a good investment over the next 30 years, then stock picking is likely to be even worse.](https://www.reddit.com/r/Bogleheads/comments/n8j145/is_there_strong_evidence_that_index_funds_will_be/)
 - [Short term market trends are less affected by earnings and more by market sentiment. Consistent earnings will make the price rise in the long run but stocks always go through highs and lows.](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
+- [Social media has permanently changed investor behavior in ways many professional investors haven't yet come to terms with.](https://twitter.com/morganhousel/status/1400503536555757575)
 
 ## Links
 
