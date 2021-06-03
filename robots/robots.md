@@ -77,7 +77,7 @@
 - [How To Become a Robotics Software Engineer (2021)](https://monolop.com/2021/04/02/robotics-software-engineer/)
 - [CLVR (Cognitive Learning for Vision and Robotics Lab)](https://clvrai.com/) ([GitHub](https://github.com/clvrai))
 - [Science and Engineering for Learning Robots (2021)](https://blog.evjang.com/2021/03/learning-robots.html)
-- [Deep Reinforcement Learning for Robotic Grasping from Octrees](https://github.com/AndrejOrsula/drl_grasping)
+- [Deep Reinforcement Learning for Robotic Grasping from Octrees](https://github.com/AndrejOrsula/drl_grasping) ([Paper](https://github.com/AndrejOrsula/master_thesis))
 - [Kidnapped Robot Problem (2021)](https://www.youtube.com/watch?v=8a3KX2InUqY)
 - [How Robots Can Learn End-to-End From Data (2021)](https://medium.com/@sergey.levine/how-robots-can-learn-end-to-end-from-data-3d879b0a2ba1)
 - [Robotic ‘Third Thumb’ use can alter brain representation of the hand](https://www.ucl.ac.uk/news/2021/may/robotic-third-thumb-use-can-alter-brain-representation-hand) ([Tweet](https://twitter.com/sevenOfPrice/status/1396533985644253189))

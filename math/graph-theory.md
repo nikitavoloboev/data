@@ -43,3 +43,4 @@
 - [Geometric Deep Learning](https://geometricdeeplearning.com/) - Grids, Graphs, Groups, Geodesics, and Gauges. ([Tweet](https://twitter.com/PetarV_93/status/1387441776793882627))
 - [Constructions in combinatorics via neural networks (2021)](https://arxiv.org/pdf/2104.14516.pdf) ([Tweet](https://twitter.com/wtgowers/status/1388458562775654401))
 - [Kite](https://erkal.github.io/kite/) - Interactive visualization tool for graph theory. ([Code](https://github.com/erkal/kite))
+- [Spaghetti](https://github.com/pysal/spaghetti) - Open-source Python library for the analysis of network-based spatial data. ([Web](https://pysal.org/spaghetti/))
