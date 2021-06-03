@@ -154,3 +154,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Почему растут цены на продукты? (2021)](https://www.youtube.com/watch?v=zQHsIg9HCB8)
 - [Кто мы — DOXA? Как студенческий журнал стал врагом государства (2021)](https://www.youtube.com/watch?v=vFTfmo9E9iQ)
 - [more.tv](https://more.tv/) - Смотреть сериалы, фильмы, телепередачи и мультфильмы.
+- [Красная Поляна Россия (2021)](https://www.youtube.com/watch?v=F4YQJv8RRZY)
