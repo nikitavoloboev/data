@@ -20,3 +20,4 @@
 - [Unifying the CUDA Python Ecosystem (2021)](https://developer.nvidia.com/blog/unifying-the-cuda-python-ecosystem/) ([HN](https://news.ycombinator.com/item?id=26834491))
 - [Using OpenGL instead of CUDA for machine learning](https://phisiart.github.io/418-proj/)
 - [Awesome GPGPU](https://github.com/rbaygildin/learn-gpgpu) - Algorithms implemented in CUDA + resources about GPGPU.
+- [Accelerating Conway's Game of Life Using CUDA (2021)](https://brendanrayw.medium.com/my-experience-learning-cuda-to-accelerate-conways-game-of-life-5d52eabc2dfb)

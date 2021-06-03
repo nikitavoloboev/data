@@ -133,6 +133,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Axiom](https://axiom.co/) - Store and query unlimited machine data. ([GitHub](https://github.com/axiomhq))
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
+- [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli))
 - [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
@@ -156,6 +157,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Tiny Letter](https://tinyletter.com)
+- [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
@@ -242,6 +244,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content with just one link.
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
 - [Pantry](https://getpantry.cloud/) - Free data storage as a service. A good resource when building personal projects, apps for hackathons, and prototypes alike. ([Code](https://github.com/imRohan/Pantry))
+- [BRYTER](https://bryter.com/) - No-code enterprise platform.
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
 - [updown.io](https://updown.io/) - Website monitoring, simple and inexpensive.
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.

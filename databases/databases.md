@@ -57,7 +57,7 @@
 - [Nebula Graph](https://github.com/vesoft-inc/nebula) - Open-source graph database capable of hosting super large scale graphs with dozens of billions of vertices (nodes) and trillions of edges, with milliseconds of latency. ([HN](https://news.ycombinator.com/item?id=22051271)) ([Active Fork](https://github.com/vesoft-inc/nebula-graph))
 - [SeaTable](https://seatable.io/) - Online lightweight database with a spreadsheet interface. ([Code](https://github.com/seatable/seatable))
 - [Ceph](https://github.com/ceph/ceph) - Distributed object, block, and file storage platform.
-- [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+- [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding. ([Web](https://vitess.io/))
 - [MinIO](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage. ([Web](https://min.io/)) ([GitHub](https://github.com/minio))
 - [Memory-Efficient Search Trees for Database Management Systems (2020)](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-101.pdf) ([HN](https://news.ycombinator.com/item?id=22543125))
 - [ShareDB](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT).
@@ -355,3 +355,4 @@
 - [Common data model mistakes made by startups](https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html) ([HN](https://news.ycombinator.com/item?id=27248093))
 - [Easily Build Advanced Similarity Search With The Pinecone Vector Database (2021)](https://www.dataengineeringpodcast.com/pinecone-vector-database-similarity-search-episode-189/)
 - [Minimal Modeling Blog](https://minimalmodeling.substack.com/) - Dedicated to in-depth discussion of all kinds of topics related to the database modeling.
+- [Getting Started with IndexedDB for Big Data Storage (2021)](https://blog.openreplay.com/getting-started-with-indexeddb-for-big-data-storage)

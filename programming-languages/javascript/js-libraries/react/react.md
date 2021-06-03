@@ -237,3 +237,4 @@
 - [How to manage global state with XState and React (2021)](https://dev.to/mpocock1/how-to-manage-global-state-with-xstate-and-react-3if5)
 - [Improve the Performance of your React Forms](https://epicreact.dev/improve-the-performance-of-your-react-forms/)
 - [How To Add Prettier and ESLint Automation to a React Codebase (2021)](https://www.swyx.io/prettier-eslint-react/)
+- [React Status](https://react.statuscode.com/) - Weekly roundup of the latest React and React Native links and tutorials.

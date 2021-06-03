@@ -221,3 +221,4 @@ I use [np](https://github.com/sindresorhus/np) to publish packages.
 - [How to update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
 - [nact](https://github.com/nactio/nact) - Node.js + actors. Redux but for the server. ([Web](https://nact.io/))
 - [Yalc](https://github.com/wclr/yalc) - Better workflow than npm | yarn link for package authors.
+- [Awesome NodeJS Security](https://github.com/lirantal/awesome-nodejs-security)

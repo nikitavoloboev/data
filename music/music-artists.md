@@ -203,6 +203,8 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 
 - [Christina Perri - Jar of Hearts](https://www.youtube.com/watch?app=desktop&v=dz7BGlgb5Do)
 - [Julia Jacklin - Don't Know How To Keep Loving You](https://www.youtube.com/watch?v=XXnw6gYX_IA)
+- [I Speak Because I Can](https://www.youtube.com/watch?v=nGUS84in1eM)
+- [Laura Marling - Night Terror](https://www.youtube.com/watch?v=rsIKbH9p9zI)
 
 ## Live
 

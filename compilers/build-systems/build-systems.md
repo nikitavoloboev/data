@@ -64,3 +64,4 @@
 - [Blade Build System](https://github.com/chen3feng/blade-build) - Easy-to-use, fast and modern build system for trunk based development in large scale monorepo codebase.
 - [Escaping AutoHell: A Vision for Automated Analysis and Migration of Autotools Build Systems (2016)](https://www.cs.cmu.edu/~ckaestne/pdf/releng16.pdf)
 - [Using CMake and Managing Dependencies (2021)](https://eliasdaler.github.io/using-cmake/) ([HN](https://news.ycombinator.com/item?id=27265074))
+- [Cake](https://github.com/wurosh/cake) - Thin wrapper around make that runs all targets inside a development Docker/Podman container. ([HN](https://news.ycombinator.com/item?id=27378642))

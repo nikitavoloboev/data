@@ -38,6 +38,7 @@ Success comes from not giving up and doing what you love.
 - [Want to get ahead in life? Start genuinely rooting for others to succeed. It’s as simple as that.](https://twitter.com/SahilBloom/status/1397930673881731074)
 - [Do you feel lost? Try creating. Could be code, companies, art, people. Creation brings meaning because it's what we were made to do.](https://twitter.com/maccaw/status/1398325800705855492)
 - [Celebrate when your friends win.](https://twitter.com/APompliano/status/1399725443322978310)
+- [Fear makes us fiction writers.](https://twitter.com/businessbarista/status/1400454512721108995)
 
 ## Links
 

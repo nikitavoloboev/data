@@ -131,3 +131,5 @@
 - [How image search works at Dropbox (2021)](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox) ([HN](https://news.ycombinator.com/item?id=27127403))
 - [Billion-Scale Approximate Nearest Neighbor Search (2020)](https://www.youtube.com/watch?v=SKrHs03i08Q)
 - [Recommendations and Results Organization in Netflix Search (2021)](https://arxiv.org/abs/2105.14134)
+- [Full-Text Search PostgreSQL or ElasticSearch (2021)](https://fueled.com/the-cache/posts/backend/fulltext-search-postgresql-vs-elasticsearch/)
+- [Ask HN: Has Google search got noticably worse recently? (2021)](https://news.ycombinator.com/item?id=27379083)

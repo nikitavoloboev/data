@@ -83,3 +83,4 @@
 - [Robotic ‘Third Thumb’ use can alter brain representation of the hand](https://www.ucl.ac.uk/news/2021/may/robotic-third-thumb-use-can-alter-brain-representation-hand) ([Tweet](https://twitter.com/sevenOfPrice/status/1396533985644253189))
 - [Rogue Robotics](https://www.roguerobotics.com/) - Creative electronics engineering company.
 - [Verifiable Robotics Research Group](http://verifiablerobotics.com/) ([GitHub](https://github.com/VerifiableRobotics))
+- [3D Printing with a Robot Arm (2021)](https://www.youtube.com/watch?v=dqgT--f9so0)

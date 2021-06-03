@@ -29,3 +29,4 @@
 - [Bitmapflow](https://github.com/Bauxitedev/bitmapflow) - Tool to generate inbetweens for animated sprites, written in godot-rust.
 - [Godot 3.3 (2021)](https://godotengine.org/article/godot-3-3-has-arrived) ([HN](https://news.ycombinator.com/item?id=26896340))
 - [Godot dictionary tutorial with examples (2020)](https://generalistprogrammer.com/godot/godot-dictionary-tutorial-with-examples/)
+- [Dialogic](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations in your Godot games.

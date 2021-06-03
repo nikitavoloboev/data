@@ -42,3 +42,4 @@
 - [Let's Build An Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack (2021)](https://dev.to/elixirprogrammer/let-s-build-an-instagram-clone-with-the-petal-phoenix-elixir-tailwindcss-alpinejs-liveview-stack-263n)
 - [Let’s build a real time chat application with Elixir and Phoenix LiveView (2021)](https://www.youtube.com/watch?v=_rTFZbvMfJA)
 - [ExPlatorm](https://github.com/alex-min/ex_platform) - Battery-included Phoenix boilerplate.
+- [Phoenix + Docker app example](https://github.com/nickjj/docker-phoenix-example)

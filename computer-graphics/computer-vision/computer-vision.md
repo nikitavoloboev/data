@@ -309,3 +309,5 @@
 - [DIY Amazon Go – computer vision tutorial for cashierless checkout](https://www.sbxrobotics.com/tutorial)
 - [Image Retrieval in the Wild (2020)](https://matsui528.github.io/cvpr2020_tutorial_retrieval/)
 - [Awesome Transformer in CV papers](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV)
+- [Sensor Calibration from Scratch with Rust (2021)](https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3)
+- [Tangram Vision](https://www.tangramvision.com/) - Integrate, Calibrate Perception Sensors For Robots, Drones & Automation. ([Blog](https://www.tangramvision.com/blog))

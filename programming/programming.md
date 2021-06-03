@@ -400,3 +400,4 @@
 - [Ask HN: Is it better to generalize or specialize as a developer? (2021)](https://news.ycombinator.com/item?id=27285144)
 - [Drunk Post: Things I've learned as a Sr Engineer (2021)](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/) ([HN](https://news.ycombinator.com/item?id=27333260)) ([Lobsters](https://lobste.rs/s/kkvgjx/drunk_post_things_i_ve_learned_as_sr))
 - [How to Design Perfect (Software) Products](http://hintjens.com/blog:19)
+- [Staff archetypes](https://staffeng.com/guides/staff-archetypes)

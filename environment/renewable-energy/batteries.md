@@ -19,3 +19,4 @@
 - [Eternally five years away? No, batteries are improving under your nose (2021)](https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/)
 - [LiFePO4 Batteries On Boats](https://marinehowto.com/lifepo4-batteries-on-boats/)
 - [diyBMS v4](https://github.com/stuartpittaway/diyBMSv4) - Do it yourself battery management system for Lithium ion battery packs/cells.
+- [Australian aluminium-ion battery breakthrough (2021)](https://www.motoring.com.au/australian-aluminium-ion-battery-breakthrough-129973/) ([HN](https://news.ycombinator.com/item?id=27384158))

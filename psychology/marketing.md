@@ -124,6 +124,8 @@
 - [Ask HN: Desperately need “sales for nerds” advice (2021)](https://news.ycombinator.com/item?id=27192884)
 - [How to quickly grow an online audience? A mix of writing, marketing, and startups. (2021)](https://twitter.com/Julian/status/1396901044429496329)
 - [160+ Platforms to get free traffic for your product (2021)](https://gumroad.com/l/free-traffic)
+- [Iterable](https://iterable.com/) - Cross-Channel Marketing Platform to Improve Customer Experiences.
+- [The Embedded Entrepreneur: How to Build an Audience-Driven Business](https://embeddedentrepreneur.com/) ([HN](https://news.ycombinator.com/item?id=27378561))
 
 ## Images
 

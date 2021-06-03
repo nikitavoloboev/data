@@ -78,3 +78,4 @@
 - [Deno SQLite Module](https://github.com/dyedgreen/deno-sqlite)
 - [Simple application with an HTTP server & SQLite database](https://github.com/benbjohnson/myapp)
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - SQL linter and auto-formatter for Humans. ([Web](https://www.sqlfluff.com/))
+- [SQLite Archiver](https://sqlite.org/sqlar/doc/trunk/README.md)

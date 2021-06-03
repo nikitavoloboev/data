@@ -17,3 +17,4 @@
 - [Ada for the Embedded C Developer (2021)](https://www.youtube.com/watch?v=Myqo75Yb_lU)
 - [Comparing Ada to Other Languages](https://pyjarrett.github.io/programming-with-ada/900-comparison.html)
 - [Programming with Ada Docs](https://pyjarrett.github.io/programming-with-ada/index.html)
+- [Going beyond Ada 2022](https://blog.adacore.com/going-beyond-ada-2022)

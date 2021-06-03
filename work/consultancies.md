@@ -186,6 +186,8 @@
 - [OddBird](https://www.oddbird.net/) - Experts in digital product creation. ([GitHub](https://github.com/oddbird/))
 - [NearForm](https://www.nearform.com/) - Enterprise Software Development & Capability Building.
 - [Public Digital](https://public.digital/)
+- [Fueled](https://fueled.com/) - Mobile App Development & Digital Transformation Company.
+- [Imaginary Cloud](https://web.imaginarycloud.com/) - Software Development & UI/UX Design.
 
 ## Notes
 

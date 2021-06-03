@@ -124,3 +124,4 @@
 - [Hoverify](https://www.tryhoverify.com/) - All-in-one browser extension that helps you in web development.
 - [What’s the most underrated browser API? (2021)](https://twitter.com/burgessdryan/status/1397202072941080587)
 - [Reflecting on the last year of SerenityOS Browser development (2021)](https://www.youtube.com/watch?app=desktop&v=-YlVex4nbfw)
+- [Web Search Navigator](https://github.com/infokiller/web-search-navigator) - Chrome/Firefox extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others.

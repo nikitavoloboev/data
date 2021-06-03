@@ -174,3 +174,4 @@
 - [Exploiting a zero-day WebAssembly Vulnerability in macOS Safari (2021)](https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/)
 - [wasmlink](https://github.com/peterhuene/wasmlink) - WebAssembly Module Linker.
 - [An introduction to WebAssembly for JavaScript Developers (2021)](https://pascalpares.appspot.ovh/webassembly-for-javascript-developers/)
+- [wapm](https://wapm.io/) - WebAssembly Package Manager.

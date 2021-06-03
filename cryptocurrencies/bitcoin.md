@@ -147,3 +147,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Bitcoin is not an asset that protects against inflation (2021)](https://www.reddit.com/r/investing/comments/ngamt2/can_we_please_throw_out_the_idea_that_bitcoin_is/)
 - [Fold](https://foldapp.com/) - Best Way to Earn Bitcoin Rewards.
 - [Sidecar Channels: For Onboarding A Billion People to Bitcoin, Lightning Is Needed (2021)](https://lightning.engineering/posts/2021-05-26-sidecar-channels/)
+- [Bitcoin Design](https://bitcoin.design/) - Open-source design for Bitcoin products. ([Guide](https://bitcoin.design/guide/)) ([GitHub](https://github.com/BitcoinDesign))

@@ -9,6 +9,7 @@
 - [WebSockex](https://github.com/Azolo/websockex) - Elixir Websocket Client.
 - [Tesla](https://github.com/teamon/tesla) - Flexible HTTP client library for Elixir, with support for middleware and multiple adapters.
 - [Mojito](https://github.com/appcues/mojito) - Easy-to-use Elixir HTTP client, built on the low-level Mint library.
+- [elixir-auth-google](https://github.com/dwyl/elixir-auth-google) - Minimalist Google OAuth Authentication for Elixir Apps.
 
 ## DB
 

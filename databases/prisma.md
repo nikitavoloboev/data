@@ -53,3 +53,4 @@
 - [Prisma + Serverless-Stack](https://github.com/millsp/prisma-serverless-stack)
 - [Using Prisma With PostgreSQL on DigitalOcean (2021)](https://www.youtube.com/watch?v=0EcgdCSPygM)
 - [GoPrisma](https://github.com/jensneuse/goprisma) - Go wrapper for prisma to turn databases into GraphQL APIs using Go.
+- [prisma-repl](https://github.com/egoist/prisma-repl) - REPL for Prisma databases.

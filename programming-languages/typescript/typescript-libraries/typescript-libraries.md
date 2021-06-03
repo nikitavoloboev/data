@@ -117,6 +117,7 @@
 - [json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas.
 - [meros](https://github.com/maraisr/meros) - Fast utility that makes reading multipart responses simple.
 - [storage](https://github.com/ngneat/storage) - Various implementation of storage which implements API similar to the 'localStorage.'.
+- [mswjs/data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
 
 ## Links
 
@@ -130,3 +131,4 @@
 - [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.
 - [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.
 - [Grok](https://github.com/ui-js/grok) - Turns a TypeScript declaration file into a beautiful, readable, web page.
+- [my-ts-lib](https://github.com/egoist/ts-lib-starter) - Minimal TypeScript library starter.
