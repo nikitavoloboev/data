@@ -82,3 +82,4 @@
 - [Anthropic AI](https://www.anthropic.com/) - Building Reliable, Interpretable, and Steerable AI Systems. ([HN](https://news.ycombinator.com/item?id=27318153))
 - [Coral](https://coral.ai/) - Complete toolkit to build products with local AI. ([GitHub](https://github.com/google-coral))
 - [PAIR – Google Research](https://research.google/teams/brain/pair/) - Human-centered research and design to make AI partnerships productive, enjoyable, and fair.
+- [The Impossibility of Automating Ambiguity (2021)](https://direct.mit.edu/artl/article/doi/10.1162/artl_a_00336/101872/The-Impossibility-of-Automating-Ambiguity) ([Tweet](https://twitter.com/tanepiper/status/1400562951162040321))

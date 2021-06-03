@@ -6,6 +6,7 @@ Concurrency is the composition of independently executing computations.
 
 - [Race condition occurs when two or more threads can access shared data and they try to change it at the same time.](https://stackoverflow.com/questions/34510/what-is-a-race-condition/34550#34550)
 - [Concurrency is when two or more tasks can start, run, and complete in overlapping time periods. It doesn't necessarily mean they'll ever both be running at the same instant. For example, multitasking on a single-core machine.](https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism)
+- [Concurrency is not Parallelism. Concurrency enables making progress on many tasks, without having to run A to completion to start work on B. Parallelism is actually running A and B simultaneously.](https://twitter.com/ktosopl/status/1400443844743684099)
 
 ## Links
 

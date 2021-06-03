@@ -69,3 +69,4 @@
 - [Awesome Synthetic Biology](https://github.com/websemantics/awesome-synthetic-biology)
 - [Computationally Designed Organisms With Josh Bongard & Michael Levin (2021)](https://www.youtube.com/watch?v=86krKgoEzGQ)
 - [How Slime Molds Remember Where They Ate (2021)](https://www.scientificamerican.com/article/how-slime-molds-remember-where-they-ate/)
+- [Translational stem cell therapy: vascularized skin grafts in skin repair and regeneration (2021)](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02752-2)

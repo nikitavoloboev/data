@@ -1,5 +1,9 @@
 # Viruses
 
+## Notes
+
+- [There are bacteria protected against all natural viruses](https://twitter.com/Eaterofsun/status/1400522215888769030)
+
 ## Links
 
 - [Coronavirus Tech Handbook](https://coronavirustechhandbook.com/)

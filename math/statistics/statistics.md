@@ -103,3 +103,4 @@
 - [Core components of recommender systems (2021)](https://rezkaaufar.github.io/blog/2021/recsys-core-components/?1)
 - [Interactive Visualization of Gaussian Processes](http://www.infinitecuriosity.org/vizgp/)
 - [A Concrete Introduction to Probability (2018)](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb) ([HN](https://news.ycombinator.com/item?id=27379366))
+- [Statistical inference considered harmful (2016)](https://github.com/frankmcsherry/blog/blob/master/posts/2016-06-14.md) ([Tweet](https://twitter.com/Aaroth/status/1400560793482149890))
