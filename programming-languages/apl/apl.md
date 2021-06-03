@@ -40,3 +40,5 @@
 - [APLcart](https://aplcart.info/) - Find your way in APL. ([Code](https://github.com/abrudz/aplcart))
 - [APL Style: Patterns/Anti-patterns](https://sway.office.com/b1pRwmzuGjqB30On) ([Lobsters](https://lobste.rs/s/3cscix/apl_style_patterns_anti_patterns))
 - [Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages](https://twitter.com/zverok/status/1395444520116969476) ([Lobsters](https://lobste.rs/s/dgegjp/some_thoughts_on_apls_real_imagined))
+- [APL – a Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
+- [Vector, the Journal of the British APL Association](http://archive.vector.org.uk/)

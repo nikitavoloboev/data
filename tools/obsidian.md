@@ -12,3 +12,4 @@
 - [Recall](https://github.com/martin-jw/obsidian-recall) - Spaced Repetition System in Obsidian.
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com.
+- [Obsidian Internal Links supercharger](https://github.com/mdelobelle/obsidian_supercharged_links) - Add attributes and context menu options to internal links.
