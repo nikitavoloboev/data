@@ -102,3 +102,4 @@
 - [ISLR tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
 - [Core components of recommender systems (2021)](https://rezkaaufar.github.io/blog/2021/recsys-core-components/?1)
 - [Interactive Visualization of Gaussian Processes](http://www.infinitecuriosity.org/vizgp/)
+- [A Concrete Introduction to Probability (2018)](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb) ([HN](https://news.ycombinator.com/item?id=27379366))

@@ -98,3 +98,4 @@
 - [Datasets for Google Cloud](https://cloud.google.com/solutions/datasets) ([Article](https://cloud.google.com/blog/topics/developers-practitioners/datasets-google-cloud-introducing-our-new-reference-architecture))
 - [SQLite Data Starter Packs](http://2016.padjo.org/tutorials/sqlite-data-starterpacks/)
 - [GitHub Collection: Open data](https://github.com/collections/open-data) - Examples of using GitHub to store, publish, and collaborate on open, machine-readable datasets.
+- [Scientific Data Repositories](https://www.nature.com/sdata/policies/repositories) ([HN](https://news.ycombinator.com/item?id=27365755))

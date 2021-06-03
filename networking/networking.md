@@ -253,3 +253,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Easegress](https://github.com/megaease/easegress) - All-rounder traffic orchestration system.
 - [Bluetooth Mesh Rust](https://github.com/AndrewGi/BluetoothMeshRust) - Cross-platform, full Bluetooth Mesh stack implemented in Rust.
 - [netkat](https://github.com/aojea/netkat) - Netcat version using raw sockets to avoid iptables and/or other OS filtering mechanisms.
+- [Enabling real-time collaboration with RSocket (2021)](https://canvatechblog.com/enabling-real-time-collaboration-with-rsocket-92416fe52650)
