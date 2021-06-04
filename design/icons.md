@@ -83,3 +83,5 @@
 - [SF Symbols](https://developer.apple.com/sf-symbols/) - Apple offers 2,400 icons for free. ([HN](https://news.ycombinator.com/item?id=26484456))
 - [Iconic](https://iconic.app/) - Free pixel-perfect icons. ([Code](https://github.com/Make-Lemonade/iconicicons))
 - [VK Icons](https://vkcom.github.io/icons/) - SVG icons to use with React. ([Code](https://github.com/VKCOM/icons))
+- [Icônes](https://icones.js.org/) - Icon Explorer with Instant searching. ([Code](https://github.com/antfu/icones))
+- [Iconify](https://github.com/iconify/iconify) - Universal icon framework. ([Web](https://iconify.design/))

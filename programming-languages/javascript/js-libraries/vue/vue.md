@@ -13,7 +13,7 @@
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
-- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production. ([Tweet](https://twitter.com/HerrBertling/status/1334433014038847488)) ([Tweet 2](https://twitter.com/AdamRackis/status/1334494401440206849)) ([vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths)) ([Awesome](https://github.com/vitejs/awesome-vite)) ([Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr))
+- [Vite](https://github.com/vitejs/vite) - Opinionated web dev build tool that serves your code via native ES Module imports during dev and bundles it with Rollup for production. ([Tweet](https://twitter.com/HerrBertling/status/1334433014038847488)) ([Tweet 2](https://twitter.com/AdamRackis/status/1334494401440206849)) ([vite-tsconfig-paths](https://github.com/aleclarson/vite-tsconfig-paths)) ([Awesome](https://github.com/vitejs/awesome-vite)) ([Vite SSR Plugin](https://github.com/brillout/vite-plugin-ssr)) ([Develop with Vite](https://www.youtube.com/watch?v=xx8gEHet6n8))
 - [Zipe](https://github.com/pikax/zipe) - Vite + SSR.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
@@ -58,3 +58,5 @@
 - [Pinia](https://github.com/posva/pinia) - Intuitive, type safe and flexible Store for Vue. ([Docs](https://pinia.esm.dev/introduction.html))
 - [Nuxt Speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - Module for NuxtJS. Takes over the lighthouse performance optimization of your generated website. ([Docs](https://nuxt-speedkit.grabarzundpartner.dev/))
 - [Typed Vuex](https://github.com/danielroe/typed-vuex) - Strongly-typed store accessor for vanilla Vuex.
+- [](https://www.youtube.com/watch?v=IMJjP6edHd0)
+- [Vue Demi](https://github.com/vueuse/vue-demi) - Creates Universal Library for Vue 2 & 3.
