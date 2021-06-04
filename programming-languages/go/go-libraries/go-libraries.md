@@ -831,6 +831,7 @@
 - [QOR OSS](https://github.com/qor/oss) - Provides common interface to operate files in cloud storage/filesystem.
 - [Tabby](https://github.com/cheynewallace/tabby) - Tiny library for super simple Go tables.
 - [kademlia](https://github.com/prettymuchbryce/kademlia) - Go implementation of a Kademlia distributed hash table.
+- [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time.
 
 ## Links
 

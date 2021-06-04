@@ -52,6 +52,7 @@
 - [Can Elm compiler skip virtual DOM?](https://discourse.elm-lang.org/t/can-the-compiler-skip-virtual-dom/6300/)
 - [Combinators - Inverting Top-Down Transforms (2020)](https://functional.christmas/2020/10)
 - [elm-review](https://github.com/jfmengels/elm-review) - Analyzes Elm projects, to help find mistakes before your users find them.
+- [elm-review-common](https://github.com/jfmengels/elm-review-common) - Provides common linting rules for elm-review.
 - [Test-only values (2020)](https://jfmengels.net/test-only-values/)
 - [Elm at Rakuten (2021)](https://dev.to/lucamug/elm-6m8)
 - [Safe dead code removal in a pure functional language (2021)](https://jfmengels.net/safe-dead-code-removal/)

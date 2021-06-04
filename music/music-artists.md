@@ -123,7 +123,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) ([Turiya Sings](https://www.youtube.com/watch?v=Y9HgjQvDH3A))
 - [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X?si=QYqj3rfTT5S7zmc0_mNVbA)
 - [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF?si=c4fmmO4jRWiuoqx6NAEG5A) ([Thom Yorke, Burial & Four Tet - Her Revolution](https://www.youtube.com/watch?v=qdrmRoCMWC4)) ([Thom Yorke, Burial & Four Tet - His Rope](https://www.youtube.com/watch?v=dCrAMw57ATI))
-- [Four Tet](http://www.fourtet.net/)
+- [Four Tet](http://www.fourtet.net/) - [Daughter](https://open.spotify.com/track/4H4p1B3GrZHnh71vgPtHQW)
 - [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) - [and she was](https://open.spotify.com/track/4y6jjdklWYLDCIBsj3RMQZ)
 - [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) - [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Gone](https://open.spotify.com/track/4wuY7AFjWkbltPwugDpR4U) | [Burn](https://open.spotify.com/track/099qKQ9zvTWcMDsNsasKpI)
 - [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) - [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph)
