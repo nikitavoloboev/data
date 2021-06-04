@@ -144,6 +144,7 @@ And these Discord servers:
 - [C-Heads Magazine](https://www.c-heads.com/) - Magazine for photography, fashion, music & youth culture.
 - [Palladium Magazine](https://palladiummag.com/)
 - [But What For?](https://www.butwhatfor.com/)
+- [World Affairs](https://worldaffairs.blog/) - Objective, Nonpartisan and Insightful.
 
 ### Other
 

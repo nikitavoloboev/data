@@ -28,3 +28,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [5 Life lessons from 10 years in China (2021)](https://www.youtube.com/watch?v=vAcoaOr4qqY)
 - [China’s Social Credit System: Speculation vs. Reality (2021)](https://thediplomat.com/2021/03/chinas-social-credit-system-speculation-vs-reality/)
 - [China's political alignment chart](https://twitter.com/balajis/status/1398661987614089216)
+- [Tiananmen Square Massacre – Facts, Fiction and Propaganda (2019)](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/amp/) ([Reddit](https://www.reddit.com/r/Sino/comments/gwbpvo/tiananmen_square_massacre_facts_fiction_and/))
