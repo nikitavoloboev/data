@@ -492,3 +492,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [Oh My BackEnd](https://github.com/bzick/oh-my-backend) - Что нужно знать бекенд-разработчику Web приложений.
 - [Discount for Student Dev](https://github.com/AchoArnold/discount-for-student-dev) - List of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students.
+- [Awesome Data Hoarding](https://github.com/simon987/awesome-datahoarding) - List of data-hoarding related tools.

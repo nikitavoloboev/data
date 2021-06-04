@@ -58,5 +58,5 @@
 - [Pinia](https://github.com/posva/pinia) - Intuitive, type safe and flexible Store for Vue. ([Docs](https://pinia.esm.dev/introduction.html))
 - [Nuxt Speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - Module for NuxtJS. Takes over the lighthouse performance optimization of your generated website. ([Docs](https://nuxt-speedkit.grabarzundpartner.dev/))
 - [Typed Vuex](https://github.com/danielroe/typed-vuex) - Strongly-typed store accessor for vanilla Vuex.
-- [](https://www.youtube.com/watch?v=IMJjP6edHd0)
+- [Composable Vue - Anthony Fu (2021)](https://www.youtube.com/watch?v=IMJjP6edHd0)
 - [Vue Demi](https://github.com/vueuse/vue-demi) - Creates Universal Library for Vue 2 & 3.
