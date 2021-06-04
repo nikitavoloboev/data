@@ -21,6 +21,7 @@
 - [How to sell your product: tell people how they can solve the problem it solves, without buying your product.](https://twitter.com/shl/status/1369026126366994432)
 - [Simple marketing rule: If you make people feel good, those "people" will be customers for life](https://twitter.com/gregisenberg/status/1385586957519147008)
 - [If you're only able to make 1 marketing hire at your startup, I strongly recommend starting with a content writer.](https://twitter.com/agazdecki/status/1391724959282565120)
+- [Build communities, not audiences.](https://twitter.com/SoniaChanel617/status/1400430635035021312)
 
 ## Links
 

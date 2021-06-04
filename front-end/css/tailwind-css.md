@@ -93,3 +93,4 @@
 - [TailwindCSS Stimulus Components](https://github.com/excid3/tailwindcss-stimulus-components) - Set of StimulusJS components for TailwindCSS apps similar to Bootstrap JS components.
 - [eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage.
 - [Best way to structure your classes and markup when building UIs with Tailwind CSS (2021)](https://twitter.com/adamwathan/status/1399473267606528005)
+- [tailwindcss/aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) - Plugin that provides a composable API for giving elements a fixed aspect ratio.

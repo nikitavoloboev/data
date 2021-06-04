@@ -22,6 +22,7 @@
 - [seahorse](https://github.com/ksk001100/seahorse) - Minimal CLI framework written in Rust.
 - [conch-parser](https://github.com/ipetkov/conch-parser) - Rust library for parsing Unix shell commands.
 - [cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
+- [youchoose](https://github.com/nathom/youchoose) - Lightweight terminal menu for Rust.
 
 ## Web
 
@@ -854,6 +855,7 @@
 - [serde_with](https://github.com/jonasbb/serde_with) - Custom de/serialization functions for Rust's serde using the with-annotation.
 - [tabled](https://github.com/zhiburt/tabled) - Easy to use library for pretty print tables of Rust structs and enums.
 - [async-stream](https://github.com/tokio-rs/async-stream) - Asynchronous streams for Rust using async & await notation.
+- [Concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust.
 
 ## Cargo Plugins
 

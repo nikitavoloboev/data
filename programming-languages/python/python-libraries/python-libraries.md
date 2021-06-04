@@ -29,6 +29,7 @@
 - [fastapi-gino-arq-uvicorn](https://github.com/leosussan/fastapi-gino-arq-uvicorn) - High-performance Async REST API, in Python. FastAPI + GINO + Arq + Uvicorn (w/ Redis and PostgreSQL).
 - [HTTP Core](https://github.com/encode/httpcore) - Minimal HTTP client.
 - [GraphQL-core 3](https://github.com/graphql-python/graphql-core) - Python 3.6+ port of the GraphQL.js reference implementation of GraphQL.
+- [Pyre](https://github.com/Project-Dream-Weaver/Pyre) - Fast asyncronous HTTP server and framework written in Rust for Python.
 
 ## ML
 

@@ -321,3 +321,4 @@
 - [My Linux machine setup](https://github.com/brpaz/my-linux-setup)
 - [A process murder mystery - a debugging story (2021)](https://blog.viraptor.info/post/a-process-murder-mystery-a-debugging-story)
 - [A Secure and Formally Verified Linux KVM Hypervisor (2021)](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
+- [static-get](https://github.com/minos-org/minos-static) - Portable binaries for Linux.

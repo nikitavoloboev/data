@@ -60,3 +60,4 @@
 - [Modern Fertility](https://modernfertility.com/) - The fertility hormone test you can take at home.
 - [Whats your signature move your ex probably still fantasizes about? (2021)](https://www.reddit.com/r/sexover30/comments/njdowx/whats_your_signature_move_your_ex_probably_still/)
 - [Alan Watts - On Sexuality](https://www.youtube.com/watch?v=QCZCXY8_nDg)
+- [Что нужно знать о сексе с женщинами](https://twitter.com/kiwi_ksu/status/1400476323584294914)
