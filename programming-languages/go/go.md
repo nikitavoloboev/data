@@ -488,3 +488,4 @@ Go promotes composition over inheritance.
 - [xgo](https://github.com/techknowlogick/xgo) - Go CGO cross compiler.
 - [gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
 - [A guide to linting Go programs (2021)](https://freshman.tech/linting-golang/)
+- [Go: Fuzzing Is Beta Ready (2021)](https://blog.golang.org/fuzz-beta) ([HN](https://news.ycombinator.com/item?id=27391048))

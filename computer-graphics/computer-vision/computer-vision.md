@@ -312,3 +312,4 @@
 - [Sensor Calibration from Scratch with Rust (2021)](https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3)
 - [Tangram Vision](https://www.tangramvision.com/) - Integrate, Calibrate Perception Sensors For Robots, Drones & Automation. ([Blog](https://www.tangramvision.com/blog))
 - [Rust CV](https://github.com/rust-cv/cv) - Project to implement computer vision algorithms, abstractions, and systems in Rust.
+- [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control (2021)](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/) ([HN](https://news.ycombinator.com/item?id=27393047))
