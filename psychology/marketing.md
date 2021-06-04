@@ -127,6 +127,7 @@
 - [160+ Platforms to get free traffic for your product (2021)](https://gumroad.com/l/free-traffic)
 - [Iterable](https://iterable.com/) - Cross-Channel Marketing Platform to Improve Customer Experiences.
 - [The Embedded Entrepreneur: How to Build an Audience-Driven Business](https://embeddedentrepreneur.com/) ([HN](https://news.ycombinator.com/item?id=27378561))
+- [Best growth channels for growing Transistor (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/h0hnkyy?utm_source=share&utm_medium=web2x&context=3)
 
 ## Images
 

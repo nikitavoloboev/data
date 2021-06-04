@@ -127,3 +127,4 @@
 - [Extreme HTTP Performance Tuning (2021)](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) ([HN](https://news.ycombinator.com/item?id=27226382))
 - [Conditional HTTP GET: The fastest requests need no response body (2021)](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/)
 - [ReWrk](https://github.com/ChillFish8/ReWrk) - More modern HTTP framework benchmark utility.
+- [Sozu](https://github.com/sozu-proxy/sozu) - HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. ([Web](https://www.sozu.io/))

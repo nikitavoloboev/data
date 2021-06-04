@@ -48,3 +48,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Ask HN: How can I improve my intelligence? (2021)](https://news.ycombinator.com/item?id=27102764)
 - [Ro](https://ro.co/) - Healthcare technology company building a patient-centric healthcare system.
 - [Clean Air for Cognition](https://www.reddit.com/r/Nootropics/comments/niov31/clean_air_for_cognition/)
+- [This Is Your Brain On Stale Air (2019)](https://www.youtube.com/watch?v=1Nh_vxpycEA)

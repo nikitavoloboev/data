@@ -77,6 +77,7 @@ It includes:
 - [FSJam Podcast](https://fsjam.org/) - Conversations about the emerging world of Fullstack Jamstack applications.
 - [The Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Business Breakdowns](https://overcast.fm/itunes1559120677/business-breakdowns) - Series of conversations with investors and operators diving deep into a single business.
+- [Build Your SaaS](https://saas.transistor.fm/)
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
@@ -117,6 +118,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Light-hearted and funny podcasts?](https://www.reddit.com/r/podcasts/comments/mh5qqt/lighthearted_and_funny_podcasts/)
 - [What's a podcast you used to listen to all the time, but never do anymore?](https://www.reddit.com/r/podcasts/comments/mhxwy6/whats_a_podcast_you_used_to_listen_to_all_the/)
 - [What are your favorite obscure podcasts? (2021)](https://www.reddit.com/r/podcasts/comments/mk4t7o/what_are_your_favourite_obscure_podcasts/)
+- [Podcasts for bootstrappers and indie hackers](https://transistor.fm/podcasts-for-bootstrappers/)
 
 ## Notes
 
@@ -178,3 +180,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [How Spotify is Killing the Open Podcast Ecosystem (2020)](https://singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem/) ([HN](https://news.ycombinator.com/item?id=26872229))
 - [Spotify's Open Access Platform (2021)](https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome)
 - [The New Podcast Oligopoly (2021)](https://fair.org/home/the-new-podcast-oligopoly/)
+- [PodClips](https://podclips.com/) - Discover the Best Podcast Clips.

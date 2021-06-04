@@ -31,6 +31,7 @@
 - [Everyone’s favorite subject is themselves. Remember that when you’re trying to strike up a conversation.](https://twitter.com/TuurDemeester/status/1399409965513723905)
 - [Conversation should be back/forth, not interrupting.](https://news.ycombinator.com/item?id=26807085)
 - [It's not a joke if only you thinks it's funny.](https://www.reddit.com/r/sex/comments/npsw3o/my_gf_makes_casual_jokes_about_my_m_size/)
+- [Staying/sitting together is support too.](https://twitter.com/ashleysimpo/status/1400200742506532869)
 
 ## Links
 
@@ -114,3 +115,4 @@
 - [How To Breathe Correctly When Speaking (2017)](https://www.youtube.com/watch?v=bkY9C7VX8ww)
 - [Criticism pushes the web forward (2021)](https://hiddedevries.nl/en/blog/2021-05-08-criticism-pushes-the-web-forward/)
 - [You Can Only Maintain So Many Close Friendships (2021)](https://www.theatlantic.com/family/archive/2021/05/robin-dunbar-explains-circles-friendship-dunbars-number/618931/) ([Tweet](https://twitter.com/morganhousel/status/1399410481077514245?s=20))
+- [Great example of well communicated email with action points by Apple Exec](https://twitter.com/amdev/status/1400437325667127296)

@@ -3,6 +3,8 @@
 ## Notes
 
 - [Fully-automated seamless CI/CD is the goal.](https://twitter.com/fuzzychef/status/1369325657084289029)
+- [At Stripe my PR is often reviewed within 10 minutes. That makes a huge difference for shipping fast.](https://twitter.com/jlongster/status/1400511441556459523)
+- [I feel like if I’m sitting on someone’s PR, I’m blocking them from moving forward. Rarely the case, but it’s a good motivator.](https://twitter.com/destroytoday/status/1400593283395555328)
 
 ## Links
 

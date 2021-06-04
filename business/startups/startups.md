@@ -53,6 +53,7 @@
 - [You are not your startup. Whatever happens to your startup will happen. But take care of yourself - you are important.](https://twitter.com/dunkhippo33/status/1399811072035418113)
 - [The public is never wrong. When people don't respond to what you do, they're telling you something loud and clear. You're just not listening.](https://twitter.com/jackbutcher/status/1399783270062174210)
 - [You do everything differently when you're an owner.](https://twitter.com/jackbutcher/status/1399571975459246082)
+- [The market you’re in will determine most of your growth.](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
 
 ## Links
 
@@ -286,6 +287,7 @@
 - [Paul Graham advice to startup founders (2021)](https://twitter.com/m_franceschetti/status/1395735041636974593)
 - [Working at a startup is overrated, both financially and emotionally (2021)](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##) ([HN](https://news.ycombinator.com/item?id=27245090))
 - [An Engineer's guide to Stock Options (2013)](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
+- [How we grew Transistor to million dollar revenue (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
 
 ## Images
 
