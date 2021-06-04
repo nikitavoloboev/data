@@ -497,3 +497,4 @@
 - [Rust for Rustaceans Book (2021)](https://nostarch.com/rust-rustaceans) - Idiomatic Programming for Experienced Developers. ([Tweet](https://twitter.com/jonhoo/status/1399824695600418817))
 - [vergen](https://github.com/rustyhorde/vergen) - Generate cargo: instructions at compile time in build scripts for use with the env! macro.
 - [Build your own X in Rust](https://github.com/osynavets/build-your-own-x-in-rust)
+- [Automatic Rust verification tools (2021)](https://alastairreid.github.io/automatic-rust-verification-tools-2021/)

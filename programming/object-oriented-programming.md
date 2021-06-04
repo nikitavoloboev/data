@@ -30,3 +30,4 @@
 - [Inheritance was invented as a performance hack](http://catern.com/inheritance.html) ([Lobsters](https://lobste.rs/s/gq29l7/inheritance_was_invented_as_performance)) ([HN](https://news.ycombinator.com/item?id=26988839))
 - [The Power of Interoperability: Why Objects Are Inevitable](https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf)
 - [A hopefully modern description of Object-Oriented Analysis (2021)](https://www.sicpers.info/2021/05/a-hopefully-modern-description-of-object-oriented-analysis/)
+- [The faster you unlearn OOP, the better for you and your software (2018)](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) ([Lobsters](https://lobste.rs/s/fuqmad/faster_you_unlearn_oop_better_for_you_your))

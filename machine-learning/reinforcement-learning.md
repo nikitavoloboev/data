@@ -202,3 +202,4 @@
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://sites.google.com/berkeley.edu/decision-transformer) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/nqqle6/r_decision_transformer_reinforcement_learning_via/)) ([Reddit](https://www.reddit.com/r/reinforcementlearning/comments/nqp9nh/decision_transformer_reinforcement_learning_via/))
 - [Reinforcement Learning Tricks, Index](https://github.com/Miffyli/rl-human-prior-tricks)
 - [CS234: Reinforcement Learning Course](http://web.stanford.edu/class/cs234/index.html) ([Code](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019))
+- [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://arxiv.org/abs/2106.01345) ([Code](https://github.com/kzl/decision-transformer))
