@@ -29,4 +29,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [China’s Social Credit System: Speculation vs. Reality (2021)](https://thediplomat.com/2021/03/chinas-social-credit-system-speculation-vs-reality/)
 - [China's political alignment chart](https://twitter.com/balajis/status/1398661987614089216)
 - [Tiananmen Square Massacre – Facts, Fiction and Propaganda (2019)](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/amp/) ([Reddit](https://www.reddit.com/r/Sino/comments/gwbpvo/tiananmen_square_massacre_facts_fiction_and/))
-- [The story of the Tank Man photo by its photographer, Jeff Widener](http://www.jeffwidener.com/stories/2016/09/tankman/)
+- [The story of the Tank Man photo by its photographer, Jeff Widener](http://www.jeffwidener.com/stories/2016/09/tankman/) ([HN](https://news.ycombinator.com/item?id=27396783))

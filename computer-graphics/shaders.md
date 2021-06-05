@@ -40,4 +40,4 @@
 - [Shader School](https://github.com/stackgl/shader-school) - Introduction to GLSL shaders and graphics programming that runs in your web browser.
 - [Shader Coding](https://twitter.com/AlanZucconi/status/1392447855659466752)
 - [Shader Workshop (2021)](http://charstiles.com/class/)
-- [Compute Shader 101 (2021)](https://www.youtube.com/watch?v=DZRn_jNZjbw) ([Code](https://github.com/googlefonts/compute-shader-101))
+- [Compute Shader 101 (2021)](https://www.youtube.com/watch?v=DZRn_jNZjbw) ([Code](https://github.com/googlefonts/compute-shader-101)) ([HN](https://news.ycombinator.com/item?id=27396634))
