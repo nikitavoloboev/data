@@ -39,3 +39,4 @@
 - [Common Nginx misconfigurations that leave your web server open to attack (2020)](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/) ([HN](https://news.ycombinator.com/item?id=26259955))
 - [Nginx Cheatsheet (2021)](https://vishnu.hashnode.dev/nginx-cheatsheet)
 - [The NGINX Handbook (2021)](https://www.freecodecamp.org/news/the-nginx-handbook/)
+- [Nice nginx features for developers (2021)](https://alex.dzyoba.com/blog/nginx-features-for-developers/) ([Lobsters](https://lobste.rs/s/kewdvx/nice_nginx_features_for_developers))

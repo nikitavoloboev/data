@@ -248,3 +248,4 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Margaret Glaspy performs "Parental Guidance"](https://www.youtube.com/watch?v=sOsJfKWbgdQ)
 - [Jay-Jay Johanson - Not Time Yet](https://www.youtube.com/watch?v=LjTwbHdPvx8)
 - [Maribou State - Nervous Tics (feat. Holly Walker) (Live on KEXP)](https://www.youtube.com/watch?v=kaCFhb01yNo)
+- [Один в каное - Маленький хлопчик](https://www.youtube.com/watch?v=iCJgSwolnAU)
