@@ -38,6 +38,7 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - ["Job hopping" is a symptom of fake promises given by management. Grass looks greener when interviewing, you hardly know what the day to day work will be like before joining. Exiting fast is better in my book than wasting time in a miserable situation.](https://twitter.com/rakyll/status/1381599321200553990)
 - [3 Ways to Get Promoted: 1. You have a supportive boss that follows-through. 2. You have a kick-ass internal network supporting you (peers, sponsors, mentors, etc). 3. Jump to a different company.](https://twitter.com/lcooney/status/1384948385078185984)
 - [You don't get a promotion by doing your job really well. you get a promotion by doing a different job.](https://twitter.com/fat/status/1393287585380790272)
+- [Want to break into tech and work at a startup? Research a company, find the founder(s) on Twitter, and DM them a note about why you’re excited and what value you bring. DMs are open and every founder is looking for passionate, talented people.](https://twitter.com/anothercohen/status/1400942834396459011)
 
 ## Links
 

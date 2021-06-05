@@ -203,3 +203,5 @@
 - [Reinforcement Learning Tricks, Index](https://github.com/Miffyli/rl-human-prior-tricks)
 - [CS234: Reinforcement Learning Course](http://web.stanford.edu/class/cs234/index.html) ([Code](https://github.com/Huixxi/CS234-Reinforcement-Learning-Winter-2019))
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://arxiv.org/abs/2106.01345) ([Code](https://github.com/kzl/decision-transformer))
+- [UC Berkeley Robot Learning Lab](https://rll.berkeley.edu/)
+- [lifelong_rl](https://github.com/kzl/lifelong_rl) - PyTorch implementations of RL algorithms.

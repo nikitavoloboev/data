@@ -147,6 +147,7 @@
 - [Secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [goql](https://github.com/getoutreach/goql) - GraphQL client package written in Go.
 - [Glue](https://github.com/desertbit/glue) - Robust Go and JavaScript Socket Library.
+- [gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go.
 
 ## GraphQL
 

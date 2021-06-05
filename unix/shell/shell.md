@@ -135,3 +135,4 @@ All active variables can be seen by running `env`.
 - [Performance optimizations for the shell prompt (2021)](https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/)
 - [GoTTY](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
+- [Unix Shell Programming: The Next 50 Years (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf) ([HN](https://news.ycombinator.com/item?id=27378444))
