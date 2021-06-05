@@ -80,3 +80,4 @@
 - [How Pfizer Makes Its Covid-19 Vaccine (2021)](https://www.nytimes.com/interactive/2021/health/pfizer-coronavirus-vaccine.html)
 - [Investigate the Origins of Covid-19 (2021)](https://www.reddit.com/r/science/comments/gk6y95/covid19_did_not_come_from_the_wuhan_institute_of/)
 - [Vaccines: A Measured Response (2021)](https://www.youtube.com/watch?v=8BIcAZxFfrc) ([Reddit](https://www.reddit.com/r/videos/comments/nlmtvu/vaccines_a_measured_response/))
+- [The lab-leak theory: inside the fight to uncover Covid-19’s origins](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins) ([HN](https://news.ycombinator.com/item?id=27388587))

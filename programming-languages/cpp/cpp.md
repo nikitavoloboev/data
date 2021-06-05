@@ -218,3 +218,4 @@
 - [C++Now 2019: Odin Holmes “Tacit DSL All the Things”](https://www.youtube.com/watch?v=J0jwUEyrvQM)
 - [Ambiguity in template parameters (2021)](https://brevzin.github.io/c++/2021/05/12/template-ambiguity/)
 - [C++20 Range Adaptors and Range Factories (2021)](https://brevzin.github.io/c++/2021/02/28/ranges-reference/)
+- [Mesh: Compacting Memory Management for C/C++ Applications (2019)](https://arxiv.org/abs/1902.04738)

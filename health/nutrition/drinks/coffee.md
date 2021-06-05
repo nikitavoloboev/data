@@ -46,3 +46,4 @@
 - [Why I Quit Caffeine (as a software developer)](https://www.youtube.com/watch?v=Guk29oT7c5M)
 - [Making Coffee In A Clear Glass Moka Pot](https://www.youtube.com/watch?v=c7FoqR9oCfI)
 - [The 4:6 method for coffee-brewing (2017)](https://www.youtube.com/watch?v=wmCW8xSWGZY) ([HN](https://news.ycombinator.com/item?id=27354789))
+- [A Beginner's Guide to Coffee Grinders (2021)](https://www.youtube.com/watch?v=bgjvLQu5NlE)

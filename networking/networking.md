@@ -255,3 +255,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [netkat](https://github.com/aojea/netkat) - Netcat version using raw sockets to avoid iptables and/or other OS filtering mechanisms.
 - [Enabling real-time collaboration with RSocket (2021)](https://canvatechblog.com/enabling-real-time-collaboration-with-rsocket-92416fe52650)
 - [LDAP Guide Part 1: Foundations](https://fy.blackhats.net.au/blog/html/pages/ldap_guide_part_1_foundations.html)
+- [Ask HN: Best way to learn networking fundamentals quickly (2021)](https://news.ycombinator.com/item?id=27398061)

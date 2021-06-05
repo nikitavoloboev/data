@@ -42,4 +42,4 @@
 - [Some thoughts on APLs (real or imagined) beauty, and the value of very concise languages](https://twitter.com/zverok/status/1395444520116969476) ([Lobsters](https://lobste.rs/s/dgegjp/some_thoughts_on_apls_real_imagined))
 - [APL – a Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
 - [Vector, the Journal of the British APL Association](http://archive.vector.org.uk/)
-- [From Competitive Programming to APL With Conor Hoekstra](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/)
+- [From Competitive Programming to APL](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/) ([HN](https://news.ycombinator.com/item?id=27380431))

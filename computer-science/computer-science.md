@@ -128,5 +128,5 @@
 - [VScape: Assessing and Escaping Virtual Call Protections (2021)](https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf)
 - [Hints for Computer System Design (2016)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 - [Alphabetical Listing of ACM SIGs](https://www.acm.org/special-interest-groups/alphabetical-listing)
-- [Stanford CS Curriculum](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/edit#gid=0)
+- [Stanford CS Curriculum](https://docs.google.com/spreadsheets/d/1zfw8nPvJeewxcFUBpKUKmAVE8PjnJI7H0CKimdQXxr0/htmlview) ([HN](https://news.ycombinator.com/item?id=27388391))
 - [Modern Computing is NOT Good at Executing Programs (2021)](https://jeremykhawaja.com/post/modern-computing-is-not-good-at-executing-programs/)

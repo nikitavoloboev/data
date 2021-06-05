@@ -304,6 +304,7 @@
 - [Beware Default Random Forest Importances (2018)](https://explained.ai/rf-importance/index.html)
 - [The Mechanics of Machine Learning](https://mlbook.explained.ai/)
 - [Yann LeCun Spring 2020 DL Course (Videos, Slides, Jupyter Notebooks)](https://atcold.github.io/pytorch-Deep-Learning/) ([HN](https://news.ycombinator.com/item?id=24715307)) ([Article](https://nyudatascience.medium.com/yann-lecuns-deep-learning-course-at-cds-is-now-fully-online-accessible-to-all-787ddc8bf0af))
+- [Yann LeCun Deep Learning Course 2021](https://atcold.github.io/NYU-DLSP21/) ([HN](https://news.ycombinator.com/item?id=27387154))
 - [ML Guide: Feature Store vs Data Warehouse (2020)](https://www.logicalclocks.com/blog/feature-store-vs-data-warehouse) ([HN](https://news.ycombinator.com/item?id=24718301))
 - [Grid AI](https://www.grid.ai/) - Seamlessly train hundreds of Machine Learning models on the cloud from your laptop. ([HN](https://news.ycombinator.com/item?id=24720681))
 - [Getting Started with Applied ML Research (2020)](https://elvissaravia.substack.com/p/getting-started-with-applied-ml-research)

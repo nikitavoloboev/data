@@ -43,7 +43,7 @@
 - [Awesome Clang](https://github.com/ingve/awesome-clang)
 - [Tell HN: C Experts Panel – Ask us anything about C (2020)](https://news.ycombinator.com/item?id=22865357)
 - [Embedding Binary Objects in C](https://flak.tedunangst.com/post/embedding-binary-objects-in-c) ([HN](https://news.ycombinator.com/item?id=22888318))
-- [Micro C series (2020)](https://blog.josephmorag.com/posts/mcc0/) - Explore how to write a compiler for a small subset of C to LLVM in Haskell.
+- [Implementing a LLVM Micro C compiler in Haskell](https://blog.josephmorag.com/posts/mcc0/) ([HN](https://news.ycombinator.com/item?id=27394857))
 - [Why should I have written ZeroMQ in C, not C++ (2012)](http://250bpm.com/blog:4)
 - [Awesome C](https://github.com/Bfgeshka/awesome-c)
 - [Verified sequential malloc/free](https://www.cs.princeton.edu/~appel/papers/memmgr.pdf) ([HN](https://news.ycombinator.com/item?id=23046356))
