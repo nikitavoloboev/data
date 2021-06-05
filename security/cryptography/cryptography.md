@@ -124,3 +124,4 @@
 - [Hacker's guide to deep-learning side-channel attacks: the theory (2021)](https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/)
 - [Cryptography from the Ground Up (2021)](https://cmdli.github.io/crypto/)
 - [Crypto Gotchas](https://github.com/SalusaSecondus/CryptoGotchas) - Collection of common (interesting) cryptographic mistakes.
+- [How I Learned Symmetric-Key Cryptanalysis (2021)](https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html) ([HN](https://news.ycombinator.com/item?id=27406888))

@@ -21,7 +21,7 @@
 - [Reverse-engineering the first FPGA chip, the XC2064 (2020)](http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 - [FireSim](https://github.com/firesim/firesim) - Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation.
 - [Are FPGAs More Secure Than Processors? (2020)](https://semiengineering.com/are-fpgas-more-secure-than-processors/)
-- [Conway's Game of Life on FPGA (2020)](https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/)
+- [Conway's Game of Life on FPGA (2020)](https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/) ([HN](https://news.ycombinator.com/item?id=27402485))
 - [Analogue Duo](https://www.analogue.co/duo/) - FPGA Based TurboGrafx-16/PC Engine Clone. ([HN](https://news.ycombinator.com/item?id=24802193))
 - [Dream Machine: MiSTer FPGA (2020)](https://felixleger.com/posts/20201018-misterfpga/)
 - [FPGAwars](https://fpgawars.github.io/) - Exploring the Open Side of the FPGAs. ([HN](https://news.ycombinator.com/item?id=24940201))

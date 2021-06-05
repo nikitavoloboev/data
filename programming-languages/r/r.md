@@ -67,3 +67,4 @@
 - [deepdep](https://github.com/DominikRafacz/deepdep) - Visualise and Explore Deep Dependencies of R packages.
 - [stringi](https://github.com/gagolews/stringi) - String Processing Package for R.
 - [How I Learned to Love Failing at Compiling R (2020)](https://www.youtube.com/watch?v=VdD0nHbcyk4)
+- [Learn R Through Examples (2020)](https://gexijin.github.io/learnR/index.html) ([HN](https://news.ycombinator.com/item?id=27404103))
