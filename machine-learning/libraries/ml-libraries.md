@@ -148,3 +148,4 @@
 - [Cornac](https://github.com/PreferredAI/cornac) - Comparative Framework for Multimodal Recommender Systems.
 - [MegEngine](https://github.com/MegEngine/MegEngine) - Fast, scalable and easy-to-use deep learning framework, with auto-differentiation.
 - [SeqIO](https://github.com/google/seqio) - Task-based datasets, preprocessing, and evaluation for sequence models.
+- [OpenAI Python](https://github.com/openai/openai-python) - Provides convenient access to the OpenAI API from applications written in Python.
