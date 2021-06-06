@@ -151,3 +151,4 @@
 - [SwiftUI Introspect (2021)](https://www.fivestars.blog/articles/swiftui-introspect/)
 - [swiftUIViews](https://swiftuiviews.dev/)
 - [SwiftUI and Core Data: The MVVM Way (2021)](https://betterprogramming.pub/swiftui-and-coredata-the-mvvm-way-ab9847cbff0f)
+- [Getting started with SwiftUI (2021)](https://paulstamatiou.com/getting-started-with-swiftui/)
