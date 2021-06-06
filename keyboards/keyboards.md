@@ -30,6 +30,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Lalboard](https://github.com/JesusFreke/lalboard) - 3D-printed keyboard inspired by the DataHand. ([HN](https://news.ycombinator.com/item?id=26099807))
 - [Squeezebox Keyboard](https://peterlyons.com/problog/2021/04/squeezebox-keyboard/) ([HN](https://news.ycombinator.com/item?id=27207333))
 - [MVKB Keyboards](https://mvkb.com/)
+- [IIICC](https://github.com/kbjunky/IIICC) - Three piece split keyboard with macropad running QMK.
 
 ## Interesting keycaps
 
