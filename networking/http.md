@@ -128,4 +128,4 @@
 - [Conditional HTTP GET: The fastest requests need no response body (2021)](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/)
 - [ReWrk](https://github.com/ChillFish8/ReWrk) - More modern HTTP framework benchmark utility.
 - [Sozu](https://github.com/sozu-proxy/sozu) - HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. ([Web](https://www.sozu.io/))
-- [Prestige](https://github.com/sharat87/prestige) - Text-based HTTP client in the browser. An interface-less Postman.
+- [Prestige](https://github.com/sharat87/prestige) - Text-based HTTP client in the browser. An interface-less Postman. ([Web](https://prestigemad.com/)) ([HN](https://news.ycombinator.com/item?id=27412445))

@@ -321,3 +321,4 @@
 - [CSS Layout Generator](https://layout.bradwoods.io/)
 - [PostCSS Focus](https://github.com/postcss/postcss-focus) - PostCSS plugin to add :focus selector to every :hover for keyboard accessibility.
 - [CSSBootcamp.com](https://cssbootcamp.com/) - Structured, Guided, Curriculum for CSS.
+- [Animate.css](https://animate.style/) - Cross-browser library of CSS animations. ([Code](https://github.com/animate-css/animate.css))

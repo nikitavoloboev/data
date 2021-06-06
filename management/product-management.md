@@ -72,3 +72,4 @@
 - [What to product managers do (2021)](https://twitter.com/gbrl_dick/status/1394824941640437760)
 - [What I think makes a good product manager (2021)](https://twitter.com/anothercohen/status/1394829612408926213)
 - [The Product Folks](https://www.theproductfolks.com/) - Community of Product Managers and enthusiasts.
+- [Rituals for hypergrowth: An inside look at how YouTube scaled](https://coda.io/@shishir/rituals-for-hypergrowth-an-inside-look-at-how-youtube-scaled)

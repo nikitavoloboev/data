@@ -379,3 +379,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Writing a Programming Book in 2021](https://jmtirado.net/writing-a-programming-book-in-2021/) ([HN](https://news.ycombinator.com/item?id=27129518))
 - [Librimood](https://librimood.com/) - Find books based on your mood.
 - [Suggest Me A Book Reddit](https://www.reddit.com/r/suggestmeabook/)
+- [Writing a Technical Book (2021)](https://andregarzia.com/2021/04/writing-a-technical-book.html)

@@ -48,3 +48,4 @@ In any way, it is an interesting subject I don't know much about.
 - [How to deconstruct the world](https://psyche.co/guides/how-to-deconstruct-the-world-by-thinking-like-jacques-derrida)
 - [How Philosophers Think](https://perell.com/essay/how-philosophers-think/) ([HN](https://news.ycombinator.com/item?id=27367632))
 - [The Darkest Philosopher in History - Arthur Schopenhauer (2021)](https://www.youtube.com/watch?v=MpMkXyBWpl8)
+- [A first lesson in meta-rationality](https://metarationality.com/bongard-meta-rationality) ([HN](https://news.ycombinator.com/item?id=27411960))

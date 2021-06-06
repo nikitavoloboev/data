@@ -125,3 +125,4 @@
 - [Soto Cognito Authentication Kit](https://github.com/soto-project/soto-cognito-authentication-kit) - Authenticating with AWS Cognito.
 - [JWT should not be your default for sessions (2021)](https://evertpot.com/jwt-is-a-bad-default/) ([HN](https://news.ycombinator.com/item?id=27136539))
 - [Webhook Authentication Learnings for GitHub, GitLab, and Bitbucket (2021)](https://releasehub.com/blog/webhook-authentication-learnings)
+- [Himeji: a scalable centralized system for authorization at Airbnb (2021)](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574)
