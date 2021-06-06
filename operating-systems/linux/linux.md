@@ -322,3 +322,5 @@
 - [A process murder mystery - a debugging story (2021)](https://blog.viraptor.info/post/a-process-murder-mystery-a-debugging-story)
 - [A Secure and Formally Verified Linux KVM Hypervisor (2021)](http://nieh.net/pubs/ieeesp2021_kvm.pdf)
 - [static-get](https://github.com/minos-org/minos-static) - Portable binaries for Linux.
+- [Using signalfd and pidfd to make signals less painful under Linux (2021)](https://unixism.net/2021/02/making-signals-less-painful-under-linux/)
+- [io_uring By Example: An Article Series (2020)](https://unixism.net/2020/04/io-uring-by-example-article-series/)
