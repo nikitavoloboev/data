@@ -54,3 +54,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Best place to stake my Tezos? (2021)](https://www.reddit.com/r/tezos/comments/njtn3h/best_place_to_stake_my_tezos/)
 - [Blockwatch Tezos Indexer](https://github.com/blockwatch-cc/tzindex)
 - [Verifiable Oracles for Tezos (2021)](https://ubinetic.medium.com/oracles-by-ubinetic-1f358779425)
+- [What can Tezos do for regular people? (2021)](https://www.reddit.com/r/tezos/comments/nqb6ow/what_can_tezos_do_for_regular_people/)

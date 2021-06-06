@@ -70,6 +70,7 @@
 - [Natchez](https://github.com/tpolecat/natchez) - Distributed tracing library for Scala.
 - [SWAN](https://github.com/themaplelab/swan) - Swift Static Analysis Framework.
 - [Chimney](https://github.com/scalalandio/chimney) - Scala library for boilerplate-free, type-safe data transformations.
+- [banana-rdf](https://github.com/banana-rdf/banana-rdf) - Library for RDF, SPARQL and Linked Data technologies in Scala.
 
 ## Links
 

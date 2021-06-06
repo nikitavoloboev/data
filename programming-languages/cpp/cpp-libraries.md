@@ -3,6 +3,7 @@
 ## CLI
 
 - [cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser.
+- [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface.
 
 ## Testing
 

@@ -21,3 +21,4 @@
 - [The Evolution Of Jamstack (2021)](https://www.smashingmagazine.com/2021/05/evolution-jamstack/)
 - [Jamstack & New Netlify Features with Jason Lengstorf & Phil Hawksworth (2021)](https://shoptalkshow.com/464/)
 - [FSJam Podcast](https://fsjam.org/) - Conversations about the emerging world of Fullstack Jamstack applications.
+- [Subscription Management in Jamstack Apps](https://github.com/stripe-samples/netlify-stripe-subscriptions) - Example of managing subscriptions with the Stripe Customer Portal and Netlify Identity.

@@ -233,3 +233,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Fish.vote](https://www.fish.vote/) - Crowd Proposals for UNI governance.
 - [Network Addresses in Ethereum (2020)](https://dean.eigenmann.me/blog/2020/01/21/network-addresses-in-ethereum/)
 - [Vitalik Buterin: Ethereum 2.0 (2021)](https://www.youtube.com/watch?v=XW0QZmtbjvs)
+- [Akula](https://github.com/rust-ethereum/akula) - Ethereum client written in Rust.
