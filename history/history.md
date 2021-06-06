@@ -121,3 +121,4 @@
 - [Why Some Old Computers are Interesting](http://hccc.org.uk/retro/retro.html)
 - [We only ever talk about the third attack on Pearl Harbor](https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/) ([HN](https://news.ycombinator.com/item?id=27345075))
 - [Summarize the 2010-2020 period in the length of a tweet](https://twitter.com/morganhousel/status/1399840530159202306)
+- [Vlogging Through History - YouTube](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ)

@@ -23,3 +23,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Compare Sensor Sizes](https://sensorsizes.com/) - Camera Sensor Size Comparison Tool.
 - [What movie do you think has the most impressive cinematography? (2021)](https://www.reddit.com/r/Letterboxd/comments/n4rf2r/what_movie_do_you_think_has_the_most_impressive/)
 - [Lighting Master Class With Emmy Award Winning DP David Mullen, ASC (2021)](https://www.youtube.com/watch?v=ohTH2iYIH2E) ([Reddit](https://www.reddit.com/r/cinematography/comments/n4qntj/lighting_master_class_with_emmy_award_winning_dp/))
+- [KUBRICK / TARKOVSKY (2016)](https://www.youtube.com/watch?v=nJiDSbbfk8U)
