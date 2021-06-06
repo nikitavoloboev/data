@@ -158,3 +158,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Freaking blockchains: How do they work? (2021)](https://norswap.com/blockchain-how/) ([Lobsters](https://lobste.rs/s/ks4qql/freaking_blockchains_how_do_they_work))
 - [Pyth Network](https://pyth.network/) - Real-time on-chain market data.
 - [Ask HN: What are some ideal applications of blockchains? (2021)](https://news.ycombinator.com/item?id=27389830)
+- [Blockchain 101 - A Visual Demo (2016)](https://www.youtube.com/watch?v=_160oMzblY8)

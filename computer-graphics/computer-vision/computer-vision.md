@@ -313,3 +313,4 @@
 - [Tangram Vision](https://www.tangramvision.com/) - Integrate, Calibrate Perception Sensors For Robots, Drones & Automation. ([Blog](https://www.tangramvision.com/blog))
 - [Rust CV](https://github.com/rust-cv/cv) - Project to implement computer vision algorithms, abstractions, and systems in Rust.
 - [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control (2021)](http://gvv.mpi-inf.mpg.de/projects/NeuralActor/) ([HN](https://news.ycombinator.com/item?id=27393047))
+- [Robust Instance Segmentation through Reasoning about Multi-Object Occlusion (2021)](https://arxiv.org/abs/2012.02107) ([Code](https://github.com/XD7479/Multi-Object-Occlusion))

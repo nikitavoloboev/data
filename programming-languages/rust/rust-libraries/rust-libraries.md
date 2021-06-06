@@ -284,6 +284,7 @@
 - [Lair](https://github.com/vinesystems/lair) - Linear Algebra in Rust.
 - [Friedrich](https://github.com/nestordemeure/friedrich) - Rust implementation of Gaussian Process regression.
 - [hnsw](https://github.com/rust-cv/hnsw) - Hierarchical Navigable Small World Graph for fast ANN search.
+- [statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust.
 
 ## Other
 

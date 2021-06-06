@@ -61,3 +61,4 @@ Here are tools I use for streaming:
 - [Illegal streams, decrypting m3u8’s, and building a better stream experience (2018)](https://blog.jonlu.ca/posts/illegal-streams)
 - [2021 Streaming Kit](https://ma.tt/2021/05/2021-streaming-kit/)
 - [Visualizing Twitch Communities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities)
+- [River](https://github.com/nintha/river) - Pure Rust Implementation of RTMP Live Stream Server.
