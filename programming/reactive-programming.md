@@ -15,3 +15,4 @@
 - [RxFeedback](https://github.com/NoTests/RxFeedback.swift) - Universal system operator and architecture for RxSwift.
 - [reactive.how](https://reactive.how/) - Learn RxJS operators and Reactive Programming principles. ([Code](https://github.com/cedricss/reactive.how))
 - [Kairo.js](https://github.com/3Shain/kairo) - Refined reactive programming pattern for web applications, the framework over frameworks.
+- [A Hands-on Introduction to Fine-Grained Reactivity (2021)](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)

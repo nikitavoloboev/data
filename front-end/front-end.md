@@ -58,3 +58,4 @@
 - [Никита Мостовой: перфоманс фронтенд приложений (2020)](https://www.youtube.com/watch?v=TtTtbioaPOk)
 - [Front End Happy Hour Podcast](http://frontendhappyhour.com/)
 - [Front-End Testing is For Everyone (2021)](https://css-tricks.com/front-end-testing-is-for-everyone/)
+- [For Web](https://forweb.dev/en) - Awesomeness for front-end developers and web designers.

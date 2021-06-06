@@ -31,3 +31,4 @@
 - [The Power of Interoperability: Why Objects Are Inevitable](https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf)
 - [A hopefully modern description of Object-Oriented Analysis (2021)](https://www.sicpers.info/2021/05/a-hopefully-modern-description-of-object-oriented-analysis/)
 - [The faster you unlearn OOP, the better for you and your software (2018)](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software) ([Lobsters](https://lobste.rs/s/fuqmad/faster_you_unlearn_oop_better_for_you_your))
+- [The repeated deaths of OOP (2015)](https://loup-vaillant.fr/articles/deaths-of-oop) ([Lobsters](https://lobste.rs/s/9emqww/repeated_deaths_oop))
