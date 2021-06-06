@@ -78,6 +78,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Ace](https://ace.c9.io/) - High Performance Code Editor for the Web. ([Code](https://github.com/ajaxorg/ace))
 - [Copenhagen](https://github.com/acode/copenhagen) - Free, lightweight and hackable open source code editor for the web.
 - [Milkdown](https://github.com/Saul-Mirone/milkdown) - WYSIWYG markdown editor.
+- [Rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative text editor, self-hosted, no database required. ([Web](https://rustpad.io/)) ([HN](https://news.ycombinator.com/item?id=27408326))
 
 ## Links
 
