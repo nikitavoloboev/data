@@ -302,3 +302,4 @@
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
 - [English-to-Spanish translation with a sequence-to-sequence Transformer in Keras](https://keras.io/examples/nlp/neural_machine_translation_with_transformer/)
 - [Evaluation Harness for Large Language Models](https://github.com/EleutherAI/lm-evaluation-harness) - Framework for few-shot evaluation of autoregressive language models.
+- [MLP GPT - Jax](https://github.com/lucidrains/mlp-gpt-jax) - GPT, made only of MLPs, in Jax.

@@ -45,4 +45,4 @@
 - [steel](https://github.com/mattwparas/steel) - Embedded scheme interpreter in Rust.
 - [Gauche](https://github.com/shirok/Gauche) - Scheme Scripting Engine.
 - [A love letter to s7 Scheme (2016)](https://carloscarrasco.com/love-letter-to-s7-scheme/)
-- [Using Scheme to Find the Median of Two Sorted Integer Lists (2021)](https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/)
+- [Using Scheme to Find the Median of Two Sorted Integer Lists (2021)](https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/) ([HN](https://news.ycombinator.com/item?id=27403666))

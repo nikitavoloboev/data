@@ -12,7 +12,7 @@
 - [Klise](https://github.com/piharpi/jekyll-klise) - Minimalist Jekyll theme for running a personal site or blog, light & dark mode support.
 - [Sparrow](https://github.com/lingxz/sparrow) - Clean and minimal Jekyll theme for writers.
 - [So Simple](https://github.com/mmistakes/so-simple-theme) - Simple Jekyll theme for words and pictures.
-- [ET-Jekyll](https://et-jekyll.netlify.app/) - Edward Tufte-inspired Jekyll theme. ([HN](https://news.ycombinator.com/item?id=27407264))
+- [ET-Jekyll](https://et-jekyll.netlify.app/) - Edward Tufte-inspired Jekyll theme. ([HN](https://news.ycombinator.com/item?id=27407264)) ([Code](https://github.com/bradleytaunt/ET-Jekyll))
 
 ## Plugins
 

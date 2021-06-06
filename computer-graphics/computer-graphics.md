@@ -151,3 +151,4 @@
 - [A Macro View of Nanite (2021)](http://www.elopezr.com/a-macro-view-of-nanite/) ([HN](https://news.ycombinator.com/item?id=27345411))
 - [Rotations with quaternions (2021)](https://imadr.github.io/rotations-with-quaternions/)
 - [Implementing strict three-point perspective](https://pomax.github.io/three-point-perspective/) ([HN](https://news.ycombinator.com/item?id=27407691))
+- [IconVG](https://github.com/google/iconvg) - Compact, binary format for simple vector graphics. ([HN](https://news.ycombinator.com/item?id=27404301))

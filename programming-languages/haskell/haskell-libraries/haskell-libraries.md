@@ -125,6 +125,7 @@
 - [PariPari](https://github.com/minad/paripari) - Fast parser combinator library for Haskell.
 - [Diagrams-Lib](https://github.com/diagrams/diagrams-lib) - Standard library for diagrams, a Haskell embedded domain-specific language for compositional, declarative drawing.
 - [named](https://github.com/monadfix/named) - Named parameters (keyword arguments) for Haskell.
+- [recursion-schemes](https://github.com/recursion-schemes/recursion-schemes) - Represents common recursion patterns as higher-order functions.
 
 ## Links
 
