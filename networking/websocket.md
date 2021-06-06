@@ -39,3 +39,4 @@
 - [WebSockets From Scratch](https://github.com/pusher/websockets-from-scratch-tutorial)
 - [WebSocket, Shrek, and AsyncAPI - An Opinionated Intro (2021)](https://www.asyncapi.com/blog/websocket-part1)
 - [AnyCable](https://github.com/anycable/anycable-go) - Go WebSocket Server.
+- [From Sockets to WebSockets](https://github.com/susam/lab/tree/master/web/sockets)

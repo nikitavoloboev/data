@@ -249,3 +249,5 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Jay-Jay Johanson - Not Time Yet](https://www.youtube.com/watch?v=LjTwbHdPvx8)
 - [Maribou State - Nervous Tics (feat. Holly Walker) (Live on KEXP)](https://www.youtube.com/watch?v=kaCFhb01yNo)
 - [Один в каное - Маленький хлопчик](https://www.youtube.com/watch?v=iCJgSwolnAU)
+- [Один в каное - Демони](https://www.youtube.com/watch?v=_FZS8MWJt78)
+- [Один в каное - Пообіцяй мені](https://www.youtube.com/watch?v=9ea4vNoJpt4)
