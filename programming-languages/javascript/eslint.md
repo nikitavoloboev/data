@@ -19,3 +19,4 @@
 - [Code Quality Tools](https://github.com/strvcom/code-quality-tools) - Monorepo with some frequently-used configurations we use on projects.
 - [eslint-plugin-clean-regex](https://github.com/RunDevelopment/eslint-plugin-clean-regex) - ESLint plugin for writing better regular expressions.
 - [eslint-plugin-xstate](https://github.com/rlaffers/eslint-plugin-xstate) - ESLint plugin to check for common mistakes and enforce good practices when using XState.
+- [eslint-utils](https://github.com/mysticatea/eslint-utils) - Provides utility functions and classes for make ESLint custom rules.

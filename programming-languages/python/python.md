@@ -293,3 +293,4 @@
 - [Cpython Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation.
 - [The guide to Python virtual environments with conda (2021)](https://whiteboxml.com/blog/the-definitive-guide-to-python-virtual-environments-with-conda)
 - [PyCon US 2021 Recordings](https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1) ([HN](https://news.ycombinator.com/item?id=27398986))
+- [Python in a Box](https://github.com/raxod502/python-in-a-box) - Interactive online Python REPL in 30 lines of JavaScript.

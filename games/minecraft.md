@@ -48,3 +48,4 @@
 - [GANcraft](https://nvlabs.github.io/GANcraft/) - Unsupervised 3D Neural Rendering of Minecraft Worlds. ([HN](https://news.ycombinator.com/item?id=26833972))
 - [Create](https://github.com/Creators-of-Create/Create) - Mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.
 - [Apple M1 Minecraft Launcher](https://github.com/ezfe/minecraft-jar-command) - Download and run Minecraft without the Launcher.
+- [Velocity](https://github.com/VelocityPowered/Velocity) - Modern, next-generation Minecraft server proxy. ([Web](https://velocitypowered.com/))

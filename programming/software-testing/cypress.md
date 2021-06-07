@@ -33,3 +33,4 @@
 - [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots)
 - [A Practical Guide to Intercepting Network Requests in Cypress](https://egghead.io/blog/intercepting-network-requests-in-cypress)
 - [How To Quickly Add Cypress To Your Next.js App (2021)](https://dev.to/ashconnolly/how-to-quickly-add-cypress-to-your-next-js-app-2oc6)
+- [cypress-axe](https://github.com/component-driven/cypress-axe) - Test accessibility with axe-core in Cypress.
