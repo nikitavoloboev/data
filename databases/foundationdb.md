@@ -12,3 +12,4 @@
 - [FoundationDB site](https://www.foundationdb.org/)
 - [A ZooKeeper Layer for FoundationDB - Paul Hemberger (2020)](https://www.youtube.com/watch?v=3FYpf1QMPgQ)
 - [FoundationDB: How I Learned to Stop Worrying and Trust the Database (2020)](https://www.youtube.com/watch?v=OJb8A6h9jQQ)
+- [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store](https://www.foundationdb.org/files/fdb-paper.pdf) ([HN](https://news.ycombinator.com/item?id=27424605))

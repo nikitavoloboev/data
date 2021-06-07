@@ -489,6 +489,7 @@
 - [Awesome Rewrite It In Rust](https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust) - Curated list of replacements for existing software written in Rust. ([Reddit](https://www.reddit.com/r/rust/comments/nm96n1/awesome_rewrite_it_in_rust_a_curated_list_of/)) ([HN](https://news.ycombinator.com/item?id=27312564)) ([Lobsters](https://lobste.rs/s/wwjtw6/rust_based_replacements_for_existing))
 - [Structural Typing in Rust (2021)](https://beachape.com/blog/2021/05/25/structural-typing-in-rust/)
 - [My first cup of Rust (2021)](https://blog.frankel.ch/start-rust/1/) ([Lobsters](https://lobste.rs/s/cye5pa/my_first_cup_rust))
+- [My second cup of Rust (2021)](https://blog.frankel.ch/start-rust/2/)
 - [Puffin](https://github.com/EmbarkStudios/puffin) - Simple instrumentation profiler for Rust.
 - [The simpler alternative to GCC-RS (2021)](https://shnatsel.medium.com/the-simpler-alternative-to-gcc-rs-90da2b3685d3)
 - [RPG](https://github.com/JohnTitor/rpg) - CLI tool for the Rust Playground.

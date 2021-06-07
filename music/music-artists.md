@@ -252,3 +252,5 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Один в каное - Демони](https://www.youtube.com/watch?v=_FZS8MWJt78)
 - [Один в каное - Пообіцяй мені](https://www.youtube.com/watch?v=9ea4vNoJpt4)
 - [Один в каное - Небо](https://www.youtube.com/watch?v=qhHq3S3JHI0)
+- [Один в каное — Веснянка](https://www.youtube.com/watch?v=HKyrtF7zG_Q)
+- [Один в каное - Пiшы](https://www.youtube.com/watch?v=RlYZfDvy63Y)

@@ -62,3 +62,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [As a longtime BSD user, I have my doubts about our future. (2021)](https://www.reddit.com/r/BSD/comments/n1m4he/as_a_longtime_bsd_user_i_have_my_doubts_about_our/) ([HN](https://news.ycombinator.com/item?id=27168358))
 - [OrGY: My Personal Technology Stack (2021)](https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html)
 - [Poudriere Guide (2021)](https://danschmid.de/en/blog/poudriere-guide)
+- [FreeBSD from a NetBSD user’s perspective (2021)](https://washbear.neocities.org/freebsd-netbsd-user.html)

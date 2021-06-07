@@ -158,3 +158,4 @@ Change comes gradually, then suddenly. I am hopeful that this [change comes soon
 - [Честная история Алексея Навального (2021)](https://www.youtube.com/watch?v=RBTkO04dwQI)
 - [Либертарианская партия России / ЛПР](https://lp-russia.org/)
 - [FRUMMY](https://frummy.ru/) - Фрукты и овощи с доставкой в Санкт-Петербурге.
+- [Дмитрий Гудков - YouTube](https://www.youtube.com/channel/UCwY0N0ZfxLz6XhTupuV0L0A)

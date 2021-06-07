@@ -27,3 +27,4 @@
 - [mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - Give me MDX/TSX strings and I'll give you back a string of JS you can eval.
 - [React server components + MDX (2021)](https://wooorm.com/server-components-mdx-demo/) ([Code](https://github.com/wooorm/server-components-mdx-demo))
 - [Code Hike Scrollycoding Preview](https://code-hike-scrollycoding-preview.vercel.app/) ([Code](https://github.com/pomber/scrollycoding-preview/)) ([Tweet](https://twitter.com/rauchg/status/1367199228494155786))
+- [Vite Plugin MDX](https://github.com/brillout/vite-plugin-mdx)
