@@ -26,6 +26,7 @@
 - [Automation and the Future of Work by Aaron Benanav](https://www.versobooks.com/books/3717-automation-and-the-future-of-work)
 - [The economic effects of automation aren’t what you think they are (2019)](https://www.singlelunch.com/2019/10/21/the-economic-effects-of-automation-arent-what-you-think-they-are/)
 - [The Full Automation Fallacy (2020)](https://futuresofwork.co.uk/2020/12/02/the-full-automation-fallacy/) ([HN](https://news.ycombinator.com/item?id=26053760))
+- [What is a seemingly basic task that, when automated, will actually be a huge milestone? (2021)](https://www.reddit.com/r/Automate/comments/nugo1q/what_is_a_seemingly_basic_task_that_when/)
 
 ## Images
 
