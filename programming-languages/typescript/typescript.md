@@ -158,6 +158,7 @@
 - [The Seven Sources of Unsoundness in TypeScript (2021)](https://effectivetypescript.com/2021/05/06/unsoundness/)
 - [Bundling TypeScript With Esbuild for NPM](https://souporserious.com/bundling-typescript-with-esbuild-for-npm/)
 - [mini-typescript](https://github.com/sandersn/mini-typescript) - Miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler.
+- [Shiki Twoslash](https://shikijs.github.io/twoslash/) - Static Code Samples for JS Projects. ([Code](https://github.com/shikijs/twoslash))
 
 ## Images
 
