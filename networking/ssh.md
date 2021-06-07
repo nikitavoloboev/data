@@ -56,3 +56,4 @@
 - [remote pbcopy for use over ssh](https://github.com/bottlerocketlabs/remote-pbcopy)
 - [tosh](https://github.com/mikroskeem/tosh) - Imagine your SSH server only listens on an IPv6 address, and where the last 6 digits are changing every 30 seconds as a TOTP code.
 - [consrv](https://github.com/mdlayher/consrv) - SSH to serial console bridge server.
+- [ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).

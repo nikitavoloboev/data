@@ -833,6 +833,7 @@
 - [Tabby](https://github.com/cheynewallace/tabby) - Tiny library for super simple Go tables.
 - [kademlia](https://github.com/prettymuchbryce/kademlia) - Go implementation of a Kademlia distributed hash table.
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time.
+- [reflect2](https://github.com/modern-go/reflect2) - Reflect API without runtime reflect.Value cost.
 
 ## Links
 
