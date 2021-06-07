@@ -234,3 +234,4 @@
 - [Artificial Neural Nets Finally Yield Clues to How Brains Learn (2021)](https://overcast.fm/+JGHe8QPBw)
 - [Neural Additive Models: Interpretable Machine Learning with Neural Nets (2020)](https://arxiv.org/abs/2004.13912) ([Code](https://github.com/rish-16/nam-pytorch))
 - [Neural-Backed Decision Trees](https://research.alvinwan.com/neural-backed-decision-trees/) ([Code](https://github.com/alvinwan/neural-backed-decision-trees))
+- [Introduction to Neural Network Verification Book](https://verifieddeeplearning.com/)

@@ -18,3 +18,4 @@
 - [Syntia](https://github.com/RUB-SysSec/syntia) - Program synthesis based framework for deobfuscation. It uses instruction traces as an blackbox oracle to produce random input and output pairs.
 - [SpiegeLib](https://github.com/spiegelib/spiegelib) - Synthesizer Programming with Intelligent Exploration, Generation, and Evaluation Library.
 - [Cozy](https://github.com/CozySynthesizer/cozy) - Tool that synthesizes data structure implementations from simple high-level specifications.
+- [A Program Synthesis Primer (2017)](https://barghouthi.github.io/2017/04/24/synthesis-primer/)

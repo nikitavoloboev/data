@@ -487,3 +487,4 @@
 - [Stanford CS229: Machine Learning Course (2021)](http://cs229.stanford.edu/) ([Notes](https://github.com/mossr/machine_learning_book))
 - [Informative Dropout for Robust Representation Learning: A Shape-bias Perspective (2020)](https://arxiv.org/abs/2008.04254) ([Code](https://github.com/bfshi/InfoDrop))
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval (2020)](https://arxiv.org/abs/2007.00808) ([Code](https://github.com/microsoft/ANCE))
+- [Fairification: Making Unfair Programs Fair (2017)](https://barghouthi.github.io/2017/05/01/debiasing/)

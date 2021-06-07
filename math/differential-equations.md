@@ -25,3 +25,4 @@
 - [neurodiffeq](https://github.com/NeuroDiffGym/neurodiffeq) - Package for solving differential equations with neural networks.
 - [rodeo](https://github.com/mlysy/rodeo) - Probabilistic Solution of Differential Equations.
 - [Graph based neural operators](https://github.com/zongyi-li/graph-pde) - Using graph network to solve PDEs.
+- [Differentiable Programming: A Semantics Perspective (2018)](https://barghouthi.github.io/2018/05/01/differentiable-programming/)
