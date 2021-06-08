@@ -84,3 +84,4 @@
 - [InfraMap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [Cloudflare Terraform Provider](https://github.com/cloudflare/terraform-provider-cloudflare)
 - [Terraform provider development overrides (2021)](https://jacobbednarz.com/terraform-provider-development-overrides)
+- [Terraform 1.0 (2021)](https://github.com/hashicorp/terraform/releases/tag/v1.0.0) ([HN](https://news.ycombinator.com/item?id=27433863))

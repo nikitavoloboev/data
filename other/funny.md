@@ -4,6 +4,11 @@
 
 - [crabs dancing](https://twitter.com/TaylorLorenz/status/1347693967446429698) ([Full Clip](https://www.youtube.com/watch?v=LDU_Txk06tM))
 
+## Funny meme templates
+
+- [Am I.. No. But do I..? Also no.](https://twitter.com/InternetHippo/status/581955225235292160)
+- [Do thing. For this? Look. For this?](https://twitter.com/elonmusk/status/1401493801131298816)
+
 ## Notes
 
 - [I’ll spend 3 hours reading Amazon reviews before purchasing a $10 item but spend 0 hours doing due diligence before purchasing $10k worth of stock.](https://twitter.com/RampCapitalLLC/status/1369291155142217736)
