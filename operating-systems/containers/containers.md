@@ -115,3 +115,4 @@
 - [FastFreeze](https://github.com/twosigma/fastfreeze) - Enables checkpoint/restore for applications running in Linux containers.
 - [Containerlab - your network-centric labs with a Docker UX (2021)](https://netdevops.me/2021/containerlab-your-network-centric-labs-with-a-docker-ux/)
 - [The Need for Slimmer Containers (2021)](https://iximiuz.com/en/posts/thick-container-vulnerabilities/) ([HN](https://news.ycombinator.com/item?id=27377560))
+- [Demystifying container networking (2017)](https://blog.mbrt.dev/posts/container-network/)

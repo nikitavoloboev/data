@@ -15,3 +15,4 @@
 - [Germany's Political System Explained](https://www.youtube.com/watch?v=v-Wf1UoV-wU)
 - [Easy German - YouTube](https://www.youtube.com/c/EasyGerman/videos) - Produce videos and a podcast to help you learn German as spoken in the streets and among friends.
 - [Post-Merkel Germany May Be Shaded Green (2021)](https://www.nytimes.com/2021/04/17/world/europe/germany-green-party-merkel.html) ([Tweet](https://twitter.com/v_milov/status/1386241988190605319))
+- [Awesome German](https://github.com/willianpaixao/awesome-german) - Links to learn German as foreign language.
