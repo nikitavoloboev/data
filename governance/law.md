@@ -27,4 +27,4 @@
 - [Terms & Privacy - Every](https://every.to/legal) - Written in plain language by lawyer.
 - [Types of Legal Argument (2021)](https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html) ([HN](https://news.ycombinator.com/item?id=26952429))
 - [Terms and Conditions Game](https://termsandconditions.game/) ([HN](https://news.ycombinator.com/item?id=27191795))
-- [Replit used legal threats to kill my open-source project (2021)](https://intuitiveexplanations.com/tech/replit/) ([HN](https://news.ycombinator.com/item?id=27424195))
+- [Replit used legal threats to kill my open-source project (2021)](https://intuitiveexplanations.com/tech/replit/) ([HN](https://news.ycombinator.com/item?id=27424195)) ([Reddit](https://www.reddit.com/r/programming/comments/nulyx0/how_replit_used_legal_threats_to_kill_my/))

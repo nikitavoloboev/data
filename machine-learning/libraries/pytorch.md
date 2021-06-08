@@ -257,3 +257,4 @@
 - [learn2learn](https://github.com/learnables/learn2learn) - PyTorch Library for Meta-learning Research.
 - [PyTorch builds the future of AI and machine learning at Facebook (2021)](https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/)
 - [allRank](https://github.com/allegro/allRank) - Framework for training learning-to-rank neural models based on PyTorch.
+- [KD_Lib](https://github.com/SforAiDl/KD_Lib) - PyTorch library to easily facilitate knowledge distillation for custom deep learning models.
