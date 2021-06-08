@@ -24,3 +24,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Ribbon](https://withribbon.com/) - Automate virtual ticketing, event websites, and customer communication using Zoom for video.
 - [DevX Conf](https://devxconf.org/)
 - [Vendelux](https://vendelux.com/) - Supercharge networking at events and conferences.
+- [TicketSwap](https://www.ticketswap.com/) - Safest way to buy and sell e-tickets. ([GitHub](https://github.com/TicketSwap))

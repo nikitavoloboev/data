@@ -50,3 +50,4 @@
 - [Apple M1 Minecraft Launcher](https://github.com/ezfe/minecraft-jar-command) - Download and run Minecraft without the Launcher.
 - [Velocity](https://github.com/VelocityPowered/Velocity) - Modern, next-generation Minecraft server proxy. ([Web](https://velocitypowered.com/))
 - [Amulet Map Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - Minecraft world editor and converter. ([Web](https://www.amuletmc.com/))
+- [Iris](https://github.com/IrisShaders/Iris) - Shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders.

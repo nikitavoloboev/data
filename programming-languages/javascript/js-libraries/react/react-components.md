@@ -184,6 +184,7 @@
 - [masonic](https://github.com/jaredLunde/masonic) - High-performance masonry layouts for React.
 - [react-loosely-lazy](https://github.com/atlassian-labs/react-loosely-lazy) - Use advanced React async components patterns today.
 - [Supabase Grid](https://github.com/supabase/grid) - React component to display your PostgreSQL table data.
+- [threaded-comments](https://github.com/lawrencecchen/threaded-comments) - Reddit styled threaded comments using Supabase and Next.js.
 
 ## Links
 

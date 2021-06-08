@@ -62,3 +62,4 @@
 - [Vue Demi](https://github.com/vueuse/vue-demi) - Creates Universal Library for Vue 2 & 3.
 - [Scaling Your Vue Components for Mid-Large Size Apps (2021)](https://harlanzw.com/blog/scale-your-vue-components/)
 - [Building a Vue Auto Component Importer (2020)](https://harlanzw.com/blog/vue-automatic-component-imports/)
+- [Naive UI](https://github.com/TuSimple/naive-ui) - Vue 3 Component Library. ([Web](https://www.naiveui.com/en-US/os-theme))

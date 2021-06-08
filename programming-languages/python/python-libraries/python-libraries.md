@@ -114,6 +114,7 @@
 - [pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS. ([Web](https://pywebview.flowrl.com/))
 - [Flexx](https://github.com/flexxui/flexx) - Write desktop and web apps in pure Python.
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module for human beings.
+- [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Beautiful Tkinter GUIs by Drag and Drop.
 
 ## Crypto
 

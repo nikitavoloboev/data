@@ -205,3 +205,4 @@
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling (2021)](https://arxiv.org/abs/2106.01345) ([Code](https://github.com/kzl/decision-transformer))
 - [UC Berkeley Robot Learning Lab](https://rll.berkeley.edu/)
 - [lifelong_rl](https://github.com/kzl/lifelong_rl) - PyTorch implementations of RL algorithms.
+- [Control-Oriented Model-Based Reinforcement Learning with Implicit Differentiation (2021)](https://arxiv.org/abs/2106.03273) ([Code](https://github.com/evgenii-nikishin/omd))
