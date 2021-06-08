@@ -401,4 +401,5 @@
 - [Drunk Post: Things I've learned as a Sr Engineer (2021)](https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/) ([HN](https://news.ycombinator.com/item?id=27333260)) ([Lobsters](https://lobste.rs/s/kkvgjx/drunk_post_things_i_ve_learned_as_sr))
 - [How to Design Perfect (Software) Products](http://hintjens.com/blog:19)
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes)
-- [Clever vs Insightful Code (2021)](https://www.hillelwayne.com/post/cleverness/) ([Lobsters](https://lobste.rs/s/hvxks3/clever_vs_insightful_code))
+- [Clever vs Insightful Code (2021)](https://www.hillelwayne.com/post/cleverness/) ([Lobsters](https://lobste.rs/s/hvxks3/clever_vs_insightful_code)) ([HN](https://news.ycombinator.com/item?id=27418296))
+- [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) ([HN](https://news.ycombinator.com/item?id=27414443))

@@ -71,3 +71,4 @@
 - [How Slime Molds Remember Where They Ate (2021)](https://www.scientificamerican.com/article/how-slime-molds-remember-where-they-ate/)
 - [Translational stem cell therapy: vascularized skin grafts in skin repair and regeneration (2021)](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02752-2)
 - [Imaging The Human Body With Muons](https://www.science20.com/tommaso_dorigo/imaging_the_human_body_with_muons-254294) ([Reddit](https://www.reddit.com/r/Physics/comments/nokdun/imaging_the_human_body_with_muons/))
+- [Lab Cultures: An Interview with an Anonymous Biologist (2019)](https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/)

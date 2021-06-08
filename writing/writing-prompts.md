@@ -13,3 +13,4 @@ I never answered any of these prompts but I hope to try flex my creative writing
 ## Links
 
 - [Writing Prompts](https://prompts.ml/) - Never run out of writing ideas again.
+- [Favorite opening lines : Fantasy](https://www.reddit.com/r/Fantasy/comments/lwf5m4/favorite_opening_lines/)

@@ -235,3 +235,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [15 Tips for Writing Better Short Stories (2021)](https://www.youtube.com/watch?v=Fxb8TZbTlZc)
 - [ShaelinWrites - YouTube](https://www.youtube.com/c/ShaelinWrites/videos) - Talks about writing.
 - [David Ogilvy: How to Write](https://twitter.com/dickiebush/status/1399879281652678664)
+- [How to Start a Novel](https://granta.com/notes-on-craft-jonathan-lee/) ([HN](https://news.ycombinator.com/item?id=27415122))

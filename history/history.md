@@ -3,6 +3,7 @@
 ## Notes
 
 - [If we've learned one thing from the last 2,500 years of human history, it's that all progress out of humanity's default state of misery and despair comes from being able to freely think, write, and argue.](https://twitter.com/APompliano/status/1399406777406472194)
+- [The past does not repeat itself, but it rhymes. - Mark Twain](https://news.ycombinator.com/item?id=27421527)
 
 ## Links
 
@@ -122,3 +123,4 @@
 - [We only ever talk about the third attack on Pearl Harbor](https://www.butwhatfor.com/admiral-yarnell-and-an-attack-on-pearl-harbor/) ([HN](https://news.ycombinator.com/item?id=27345075))
 - [Summarize the 2010-2020 period in the length of a tweet](https://twitter.com/morganhousel/status/1399840530159202306)
 - [Vlogging Through History - YouTube](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ)
+- [HN: David Dushman, last surviving Auschwitz liberator, dies aged 98 (2021)](https://news.ycombinator.com/item?id=27421527)
