@@ -41,6 +41,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Lovetris](https://unrealwill.github.io/lovetris/) - Tetris which always gives you the best piece. ([Code](https://github.com/unrealwill/lovetris)) ([HN](https://news.ycombinator.com/item?id=27083666))
 - [PlayingCards.io](https://playingcards.io/) - Virtual deck of cards using just a browser.
 - [yare.io](https://yare.io/) - Game where you control units with JavaScript. ([HN](https://news.ycombinator.com/item?id=27365961))
+- [Evolve](https://pmotschmann.github.io/Evolve/) - Incremental game about evolving a civilization. ([Code](https://github.com/pmotschmann/Evolve))
 
 ## Awesome OSS games
 

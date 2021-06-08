@@ -182,3 +182,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Monetizing open-source is problematic (2021)](https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic) ([HN](https://news.ycombinator.com/item?id=27252066))
 - [Should You Open Source Your Startup? (2021)](https://www.youtube.com/watch?v=YIL5fuAUPiA)
 - [Open Source Insights](https://deps.dev/)
+- [Sorry everybody, I failed with you](https://github.com/pedronauck/docz/issues/1634) ([HN](https://news.ycombinator.com/item?id=27420554))

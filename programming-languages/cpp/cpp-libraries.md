@@ -211,6 +211,7 @@
 - [POCO (Portable Components)](https://github.com/pocoproject/poco) - Powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. ([Web](https://pocoproject.org/))
 - [Operon](https://github.com/heal-research/operon) - C++ Large Scale Genetic Programming. ([Docs](https://operongp.readthedocs.io/en/latest/))
 - [CppCoro](https://github.com/lewissbaker/cppcoro) - Library of C++ coroutine abstractions for the coroutines TS.
+- [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library.
 
 ## Links
 

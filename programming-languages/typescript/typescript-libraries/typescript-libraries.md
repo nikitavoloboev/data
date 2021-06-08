@@ -118,6 +118,7 @@
 - [meros](https://github.com/maraisr/meros) - Fast utility that makes reading multipart responses simple.
 - [storage](https://github.com/ngneat/storage) - Various implementation of storage which implements API similar to the 'localStorage.'.
 - [mswjs/data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
+- [WolfECS](https://github.com/EnderShadow8/wolf-ecs) - Powerful, lightweight Entity Component System framework written in Typescript.
 
 ## Links
 

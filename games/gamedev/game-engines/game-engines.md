@@ -80,6 +80,7 @@
 - [Pyxel](https://github.com/kitao/pyxel) - Retro game engine for Python.
 - [PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine. ([Web](https://www.puzzlescript.net/))
 - [Box2D-Lite](https://github.com/erincatto/box2d-lite) - Small 2D physics engine. ([Web](https://box2d.org/))
+- [MxEngine](https://github.com/asc-community/MxEngine) - C++ open source 3D game engine.
 
 ## Physics engines
 

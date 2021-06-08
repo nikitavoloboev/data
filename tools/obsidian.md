@@ -13,3 +13,4 @@
 - [Obsidian React Components](https://github.com/elias-sundqvist/obsidian-react-components)
 - [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com.
 - [Obsidian Internal Links supercharger](https://github.com/mdelobelle/obsidian_supercharged_links) - Add attributes and context menu options to internal links.
+- [Obsidian Git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git.
