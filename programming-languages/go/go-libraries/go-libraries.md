@@ -211,6 +211,7 @@
 - [dburl](https://github.com/xo/dburl) - Provides a standard, URL style mechanism for parsing and opening SQL database connection strings for Go.
 - [Loukoum](https://github.com/ulule/loukoum) - Simple SQL Query Builder.
 - [tstorage](https://github.com/nakabonne/tstorage) - Fast time-series data storage library.
+- [Kiwi](https://github.com/sdslabs/kiwi) - Minimalistic in-memory key value store. ([Web](https://kiwi.sdslabs.co/))
 
 ## ML
 
@@ -835,6 +836,7 @@
 - [kademlia](https://github.com/prettymuchbryce/kademlia) - Go implementation of a Kademlia distributed hash table.
 - [autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time.
 - [reflect2](https://github.com/modern-go/reflect2) - Reflect API without runtime reflect.Value cost.
+- [S2](https://github.com/golang/geo) - S2 geometry library in Go.
 
 ## Links
 

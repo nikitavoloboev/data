@@ -3,6 +3,7 @@
 ## Notes
 
 - [`dig +noall +answer DOMAIN` will get just the DNS info you want.](https://twitter.com/b0rk/status/1387490109168173057)
+- [Can get your IP using DNS instead of HTTP: `dig +short -4 A myip.opendns.com @resolver1.opendns.com`. For IPv6: `dig +short -6 AAAA myip.opendns.com @resolver1.ipv6-sandbox.opendns.com`](https://lobste.rs/s/0kqjna/new_future_for_icanhazip)
 
 ## Links
 

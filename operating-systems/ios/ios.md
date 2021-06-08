@@ -75,6 +75,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [BeeSwift](https://github.com/beeminder/BeeSwift)
 - [Swift Composable App Example](https://github.com/darrarski/swift-composable-app-example) - Example iOS app built with module composition in mind.
 - [Clendar](https://github.com/vinhnx/Clendar) - Universal calendar app. Written in SwiftUI.
+- [Pilcrow](https://github.com/zachwaugh/pilcrow) - Document editor for iOS.
 
 ## Other
 

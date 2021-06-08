@@ -183,3 +183,4 @@
 - [Pixel Thief](https://thief.bradwoods.io/) - Learn how to build a game using XState & React.
 - [#PitchYaGame - Twitter](https://twitter.com/hashtag/PitchYaGame)
 - [Ask HN: Game development for non-game developers (2021)](https://news.ycombinator.com/item?id=27408023)
+- [Entity Component System architectures (and why you should care)](https://dev.to/endershadow8/entity-component-system-architectures-and-why-you-should-care-59ja) ([Lobsters](https://lobste.rs/s/w2vbib/entity_component_system_architectures))

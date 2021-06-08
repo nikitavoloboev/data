@@ -60,3 +60,5 @@
 - [Typed Vuex](https://github.com/danielroe/typed-vuex) - Strongly-typed store accessor for vanilla Vuex.
 - [Composable Vue - Anthony Fu (2021)](https://www.youtube.com/watch?v=IMJjP6edHd0)
 - [Vue Demi](https://github.com/vueuse/vue-demi) - Creates Universal Library for Vue 2 & 3.
+- [Scaling Your Vue Components for Mid-Large Size Apps (2021)](https://harlanzw.com/blog/scale-your-vue-components/)
+- [Building a Vue Auto Component Importer (2020)](https://harlanzw.com/blog/vue-automatic-component-imports/)

@@ -73,3 +73,4 @@
 - [Geospatial Network Visualization](https://geonetworks.github.io/) - Collection of visualization techniques for geospatial network data.
 - [Should web maps be centralized services? (2020)](https://bdon.org/blog/web-map-services/)
 - [Protomaps](https://protomaps.com/) - Simple, customizable maps for the web. ([GitHub](https://github.com/protomaps)) ([JS library](https://github.com/protomaps/protomaps.js))
+- [Mapnik](https://github.com/mapnik/mapnik) - Open source toolkit for developing mapping applications. At the core is a C++ shared library providing algorithms and patterns for spatial data access and visualization. ([Web](https://mapnik.org/))

@@ -41,3 +41,4 @@
 - [Shader Coding](https://twitter.com/AlanZucconi/status/1392447855659466752)
 - [Shader Workshop (2021)](http://charstiles.com/class/)
 - [Compute Shader 101 (2021)](https://www.youtube.com/watch?v=DZRn_jNZjbw) ([Code](https://github.com/googlefonts/compute-shader-101)) ([HN](https://news.ycombinator.com/item?id=27396634))
+- [Shader Place](https://github.com/CharStiles/shaderplace) - Real-time collaborative GLSL livecode editor.

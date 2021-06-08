@@ -61,3 +61,6 @@
 - [Whats your signature move your ex probably still fantasizes about? (2021)](https://www.reddit.com/r/sexover30/comments/njdowx/whats_your_signature_move_your_ex_probably_still/)
 - [Alan Watts - On Sexuality](https://www.youtube.com/watch?v=QCZCXY8_nDg)
 - [Что нужно знать о сексе с женщинами](https://twitter.com/kiwi_ksu/status/1400476323584294914)
+- [HEX Condoms](https://www.lelohex.com/hex-original) ([Reddit](https://www.reddit.com/r/sex/comments/nudwzu/for_men_can_you_really_not_feel_anything_when/))
+- [What are things that woman find sexy that men rarely do?](https://www.reddit.com/r/sexover30/comments/nu4oju/what_are_some_things_that_i_can_try_to_get_my/)
+- [Is G-spot actually just an internal part of clitoris?](https://www.reddit.com/r/sexover30/comments/nosd53/is_gspot_actually_just_an_internal_part_of/)

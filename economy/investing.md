@@ -187,3 +187,5 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Explain why earnings no longer matter, and the entire market is just pump&dump after pump&dump? (2021)](https://www.reddit.com/r/stocks/comments/ngcedr/can_anyone_explain_why_earnings_no_longer_matter/)
 - [DealTeam](https://www.dealteam.com/) - Platform for professional investors.
 - [10 investing lessons from Stanley Druckenmiller (2021)](https://twitter.com/TrungTPhan/status/1397927107682914308)
+- [Free resources for the stock market (2021)](https://major.io/2021/04/22/free-resources-for-the-stock-market/)
+- [Posts on Options Trading](https://major.io/tags/options/)

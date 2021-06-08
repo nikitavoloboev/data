@@ -119,4 +119,4 @@
 - [File Permissions: A painful side of Docker (2019)](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/) ([HN](https://news.ycombinator.com/item?id=27311619))
 - [Diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry. ([Docs](https://crazymax.dev/diun/))
 - [Best Practices Around Creating Production Ready Web Apps with Docker Compose (2021)](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose) ([HN](https://news.ycombinator.com/item?id=27359081))
-- [Docker is a compiler (2021)](https://matt-rickard.com/docker-is-a-compiler/)
+- [Docker is a compiler (2021)](https://matt-rickard.com/docker-is-a-compiler/) ([Lobsters](https://lobste.rs/s/tkfrqc/docker_is_compiler))

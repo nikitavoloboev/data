@@ -7,3 +7,4 @@
 - [Rend](https://github.com/Netflix/rend) - Memcached proxy that manages data chunking and L1 / L2 caches.
 - [Twemcache](https://github.com/twitter/twemcache) - Twitter Memcached. Modified to make to suitable for the large scale production environment at Twitter.
 - [Load tester/fuzzer for memcached](https://github.com/memcached/mctester)
+- [Scaling Memcache at Facebook (2021)](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)

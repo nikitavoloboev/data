@@ -159,6 +159,7 @@
 - [Bundling TypeScript With Esbuild for NPM](https://souporserious.com/bundling-typescript-with-esbuild-for-npm/)
 - [mini-typescript](https://github.com/sandersn/mini-typescript) - Miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler.
 - [Shiki Twoslash](https://shikijs.github.io/twoslash/) - Static Code Samples for JS Projects. ([Code](https://github.com/shikijs/twoslash))
+- [esbuild-node-loader](https://github.com/antfu/esbuild-node-loader) - Transpile TypeScript to ESM with Node.js loader.
 
 ## Images
 

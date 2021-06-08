@@ -12,7 +12,7 @@
 - [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome))
 - [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [TiKV](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB. ([pd - Placement driver for TiKV](https://github.com/pingcap/pd)) ([TiKV Rust Client](https://github.com/tikv/client-rust))
-- [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends. ([Paper](https://pdos.csail.mit.edu/papers/noria:osdi18.pdf))
+- [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends. ([Paper](https://pdos.csail.mit.edu/papers/noria:osdi18.pdf)) ([Notes](https://www.micahlerner.com/2021/03/28/noria-dynamic.html))
 - [RethinkDB](https://www.rethinkdb.com/) - Pushes JSON to your apps in realtime.
 - [RedixDB](https://github.com/alash3al/redix) - Persistent real-time key-value store, with the same redis protocol with powerful features.
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
@@ -356,3 +356,4 @@
 - [Easily Build Advanced Similarity Search With The Pinecone Vector Database (2021)](https://www.dataengineeringpodcast.com/pinecone-vector-database-similarity-search-episode-189/)
 - [Minimal Modeling Blog](https://minimalmodeling.substack.com/) - Dedicated to in-depth discussion of all kinds of topics related to the database modeling.
 - [Getting Started with IndexedDB for Big Data Storage (2021)](https://blog.openreplay.com/getting-started-with-indexeddb-for-big-data-storage)
+- [The pedantic checklist for changing your data model in a web application (2021)](https://rtpg.co/2021/06/07/changes-checklist.html) ([Lobsters](https://lobste.rs/s/jcy2ap/pedantic_checklist_for_changing_your))
