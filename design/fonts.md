@@ -248,3 +248,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Open source beautiful fonts (2021)](https://twitter.com/gontijodesign/status/1394624373823348737)
 - [Awesome OSS Fonts](https://github.com/drwpow/awesome-oss-fonts)
 - [OpenType](https://github.com/bodoni/opentype) - Parser for OpenType fonts.
+- [nanoemoji](https://github.com/googlefonts/nanoemoji) - Wee tool to build color fonts.

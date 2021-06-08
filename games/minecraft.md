@@ -49,3 +49,4 @@
 - [Create](https://github.com/Creators-of-Create/Create) - Mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.
 - [Apple M1 Minecraft Launcher](https://github.com/ezfe/minecraft-jar-command) - Download and run Minecraft without the Launcher.
 - [Velocity](https://github.com/VelocityPowered/Velocity) - Modern, next-generation Minecraft server proxy. ([Web](https://velocitypowered.com/))
+- [Amulet Map Editor](https://github.com/Amulet-Team/Amulet-Map-Editor) - Minecraft world editor and converter. ([Web](https://www.amuletmc.com/))
