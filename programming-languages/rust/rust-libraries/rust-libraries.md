@@ -859,6 +859,7 @@
 - [tabled](https://github.com/zhiburt/tabled) - Easy to use library for pretty print tables of Rust structs and enums.
 - [async-stream](https://github.com/tokio-rs/async-stream) - Asynchronous streams for Rust using async & await notation.
 - [Concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust.
+- [cap](https://github.com/alecmocatta/cap) - Allocator that can track and limit memory usage.
 
 ## Cargo Plugins
 

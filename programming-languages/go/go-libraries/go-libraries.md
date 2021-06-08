@@ -148,6 +148,7 @@
 - [goql](https://github.com/getoutreach/goql) - GraphQL client package written in Go.
 - [Glue](https://github.com/desertbit/glue) - Robust Go and JavaScript Socket Library.
 - [gock](https://github.com/h2non/gock) - HTTP traffic mocking and testing made easy in Go.
+- [YoMo](https://github.com/yomorun/yomo) - Streaming-Serverless Framework for Low-latency Edge Computing applications, running atop QUIC protocol, engaging 5G technology.
 
 ## GraphQL
 
