@@ -30,3 +30,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [China's political alignment chart](https://twitter.com/balajis/status/1398661987614089216)
 - [Tiananmen Square Massacre – Facts, Fiction and Propaganda (2019)](https://worldaffairs.blog/2019/06/02/tiananmen-square-massacre-facts-fiction-and-propaganda/amp/) ([Reddit](https://www.reddit.com/r/Sino/comments/gwbpvo/tiananmen_square_massacre_facts_fiction_and/))
 - [The story of the Tank Man photo by its photographer, Jeff Widener](http://www.jeffwidener.com/stories/2016/09/tankman/) ([HN](https://news.ycombinator.com/item?id=27396783))
+- [The Wires of War: Technology and the Global Struggle for Power by Jacob Helberg (2021)](https://www.goodreads.com/book/show/56898159-the-wires-of-war) ([Tweet](https://twitter.com/maccaw/status/1401936733248397312))
