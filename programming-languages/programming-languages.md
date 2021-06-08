@@ -210,6 +210,6 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Compilation as Multi-Language Semantics](https://github.com/wilbowma/multi-lang-comp)
 - [Domain-Specific Languages Syllabus (2016)](https://github.com/jeanqasaur/dsl-syllabus-fall-2016)
 - [Schrödinger's Code: Undefined behavior in theory and practice (2021)](https://queue.acm.org/detail.cfm?id=3468263)
-- [Riju](https://github.com/hirako2000/riju) - Fast online playground for every programming language.
+- [Riju](https://github.com/umesh-timalsina/riju) - Fast online playground for every programming language.
 - [plyg](https://github.com/2teez/plyg) - Playground to safely try out different programming languages in a single file.
 - [Principles of Programming Languages Course Notes](https://github.com/barghouthi/cs704)

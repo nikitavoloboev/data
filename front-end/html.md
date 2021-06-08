@@ -121,3 +121,4 @@
 - [Declarative Shadow DOM](https://github.com/mfreed7/declarative-shadow-dom)
 - [Your Ultimate Guide to Understanding DOM Events](https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23)
 - [Stampino](https://github.com/justinfagnani/stampino) - Fast and extremely powerful HTML template system.
+- [million](https://github.com/millionjs/million) - Fast/Small Virtual DOM.
