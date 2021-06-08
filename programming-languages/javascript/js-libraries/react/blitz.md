@@ -14,4 +14,5 @@
 - [Blitz.js & The Future of Fullstack (2020)](https://www.youtube.com/watch?v=ZSD5ifGTlag) ([Notes](https://twitter.com/tlakomy/status/1322518006661058560))
 - [Blitz Guard](https://github.com/ntgussoni/blitz-guard) - Centralized permission based authorization for Blitz.js.
 - [HN: Blitz Beta (2021)](https://news.ycombinator.com/item?id=26166716)
+- [HN: Blitz (2021)](https://news.ycombinator.com/item?id=27411975)
 - [Auth-Tailwind](https://github.com/Anjianto/auth-tailwind) - Beautiful and Lightweight Authentication Design with Blitz and Tailwind CSS.

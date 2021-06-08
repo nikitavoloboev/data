@@ -126,3 +126,4 @@
 - [JWT should not be your default for sessions (2021)](https://evertpot.com/jwt-is-a-bad-default/) ([HN](https://news.ycombinator.com/item?id=27136539))
 - [Webhook Authentication Learnings for GitHub, GitLab, and Bitbucket (2021)](https://releasehub.com/blog/webhook-authentication-learnings)
 - [Himeji: a scalable centralized system for authorization at Airbnb (2021)](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574)
+- [All you need to know about user session security (2019)](https://medium.com/hackernoon/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
