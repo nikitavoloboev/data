@@ -90,3 +90,4 @@
 - [Zero to Mastery Deep Learning with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning)
 - [TensorFlow Ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow.
 - [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow.
+- [Learning TensorFlow.js Book (2021)](https://www.oreilly.com/library/view/learning-tensorflowjs/9781492090786/)
