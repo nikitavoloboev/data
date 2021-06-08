@@ -402,4 +402,4 @@
 - [How to Design Perfect (Software) Products](http://hintjens.com/blog:19)
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes)
 - [Clever vs Insightful Code (2021)](https://www.hillelwayne.com/post/cleverness/) ([Lobsters](https://lobste.rs/s/hvxks3/clever_vs_insightful_code)) ([HN](https://news.ycombinator.com/item?id=27418296))
-- [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) ([HN](https://news.ycombinator.com/item?id=27414443))
+- [An incomplete list of skills senior engineers need, beyond coding (2021)](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) ([HN](https://news.ycombinator.com/item?id=27414443)) ([Tweet](https://twitter.com/skamille/status/1401591683108806665))

@@ -288,6 +288,7 @@
 - [Working at a startup is overrated, both financially and emotionally (2021)](https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##) ([HN](https://news.ycombinator.com/item?id=27245090))
 - [An Engineer's guide to Stock Options (2013)](https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options/)
 - [How we grew Transistor to million dollar revenue (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/)
+- [Qualities of great CEOs](https://twitter.com/noahkagan/status/1401965821430226951)
 
 ## Images
 

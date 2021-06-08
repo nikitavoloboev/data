@@ -42,3 +42,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [The Path to Enlightenment (Non-Duality) (2021)](https://www.youtube.com/watch?v=FuhvJpTh0eQ)
 - [Ask HN: How to Disconnect from Work (2021)](https://news.ycombinator.com/item?id=27326607)
 - [How to stop overthinking (2021)](https://psyche.co/guides/how-to-stop-overthinking-with-help-from-metacognitive-strategies)
+- [Coa](https://www.joincoa.com/) - Mental Health & Emotional Fitness.

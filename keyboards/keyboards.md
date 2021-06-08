@@ -121,3 +121,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Ask HN: What's your keyboard and what you love and hate about it? (2021)](https://news.ycombinator.com/item?id=26995906)
 - [Beginner’s guide to mechanical keyboards (2021)](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards) ([HN](https://news.ycombinator.com/item?id=26989563))
 - [How does a USB keyboard work? (2021)](https://www.youtube.com/watch?v=wdgULBpRoXk)
+- [Nice Keyboard Recs (2021)](https://twitter.com/dan_abramov/status/1402048600234995713)
