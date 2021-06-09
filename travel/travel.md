@@ -74,3 +74,4 @@
 - [Flightradar24](https://www.flightradar24.com/) - Live Flight Tracker.
 - [Airbnb 2021](https://www.airbnb.com/2021)
 - [Numbeo](https://www.numbeo.com/cost-of-living/) - Largest cost of living database.
+- [Compare Countries By Tax Rates](https://thebanks.eu/compare-countries-by-tax-rates) ([Comment](https://news.ycombinator.com/item?id=27433423))

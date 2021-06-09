@@ -55,3 +55,4 @@ And here are Chrome extensions I use:
 - [Chromium spelling and grammar features (2021)](https://www.azabani.com/2021/05/17/spelling-grammar.html)
 - [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
 - [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension.
+- [Introducing chrome.scripting (2021)](https://developer.chrome.com/blog/crx-scripting-api/) ([HN](https://news.ycombinator.com/item?id=27441898)) ([Lobsters](https://lobste.rs/s/tfa1lp/introducing_chrome_scripting))
