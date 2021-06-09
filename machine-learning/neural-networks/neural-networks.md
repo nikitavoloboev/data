@@ -236,3 +236,4 @@
 - [Neural-Backed Decision Trees](https://research.alvinwan.com/neural-backed-decision-trees/) ([Code](https://github.com/alvinwan/neural-backed-decision-trees))
 - [Introduction to Neural Network Verification Book](https://verifieddeeplearning.com/)
 - [ERAN](https://github.com/eth-sri/eran) - ETH Robustness Analyzer for Deep Neural Networks.
+- [What are Transformer Neural Networks? (2021)](https://www.youtube.com/watch?v=XSSTuhyAmnI)

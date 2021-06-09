@@ -101,4 +101,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Chess reinforcement learning by AlphaGo Zero methods](https://github.com/Zeta36/chess-alpha-zero)
 - [How To Calculate In Chess (2021)](https://www.youtube.com/watch?v=9Ga9dP3bvN8)
 - [scalachess](https://github.com/ornicar/scalachess) - Chess API written in Scala. Immutable and free of side effects.
-- [Engineering a chess match against my brother (2021)](https://blog.mbrt.dev/posts/chess-eng/)
+- [Engineering a chess match against my brother (2021)](https://blog.mbrt.dev/posts/chess-eng/) ([HN](https://news.ycombinator.com/item?id=27431924))
