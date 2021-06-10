@@ -279,6 +279,7 @@
 - [lazy-regex](https://github.com/Canop/lazy-regex) - Macro for when you're tired of the regex creation boilerplate.
 - [Arraygen](https://github.com/theypsilon/arraygen) - Derive macro for generating arrays from struct fields.
 - [flamer](https://github.com/llogiq/flamer) - Compiler plugin to insert flame calls.
+- [bitflags](https://github.com/bitflags/bitflags) - Macro to generate structures which behave like bitflags.
 
 ## Math
 

@@ -293,3 +293,4 @@
 - [Beginner Web Dev](https://beginnerwebdev.com/) - Getting Started with JavaScript Course.
 - [V8 Sparkplug – A non-optimizing JavaScript compiler (2021)](https://v8.dev/blog/sparkplug) ([HN](https://news.ycombinator.com/item?id=27304808))
 - [JavaScript Notes and Reference](https://wesbos.com/javascript)
+- [JavaScript Bytecode VM - YouTube](https://www.youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL)
