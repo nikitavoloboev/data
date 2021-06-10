@@ -99,3 +99,4 @@
 - [Put it all into Doge Money](https://twitter.com/DanOBrienPoker/status/1391601685844291584)
 - [You are in Bulgaria!](https://www.youtube.com/watch?v=JW8DNStF3TE)
 - [CTO holding onto to an outdated opinion about a technology they used once](https://twitter.com/jaredpalmer/status/1394708179305603074)
+- [Some funny engineering/programmer jokes](https://www.powerstream.com/powerhumor.htm) ([HN](https://news.ycombinator.com/item?id=27456349))
