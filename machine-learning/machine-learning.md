@@ -489,3 +489,4 @@
 - [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval (2020)](https://arxiv.org/abs/2007.00808) ([Code](https://github.com/microsoft/ANCE))
 - [Fairification: Making Unfair Programs Fair (2017)](https://barghouthi.github.io/2017/05/01/debiasing/)
 - [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/)
+- [Practical Deep Learning for Cloud, Mobile, and Edge (2019)](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/)

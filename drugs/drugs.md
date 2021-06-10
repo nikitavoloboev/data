@@ -36,3 +36,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [What is the closest thing to a "pure-euphoriant" out there? (2021)](https://www.reddit.com/r/researchchemicals/comments/nfalvj/what_is_the_closest_thing_to_a_pureeuphoriant_out/)
 - [Drugs Reddit Knowledge Base](https://www.reddit.com/r/Drugs/wiki/knowledgebase)
 - [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)
+- [Drug Users Use a Lot of Drugs (2021)](https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs) ([HN](https://news.ycombinator.com/item?id=27451914))

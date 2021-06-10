@@ -16,3 +16,4 @@
 - [HN: Blitz Beta (2021)](https://news.ycombinator.com/item?id=26166716)
 - [HN: Blitz (2021)](https://news.ycombinator.com/item?id=27411975)
 - [Auth-Tailwind](https://github.com/Anjianto/auth-tailwind) - Beautiful and Lightweight Authentication Design with Blitz and Tailwind CSS.
+- [The application stack: Blitz (2021)](https://blog.placemark.io/2021/05/10/blitz.html)

@@ -183,7 +183,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [The Card Player's Guide To Lockdown (2020)](https://blog.zdsmith.com/posts/the-card-players-guide-to-lockdown.html)
 - [SimulationCraft](https://github.com/simulationcraft/simc) - Tool to explore combat mechanics in the popular MMO RPG World of Warcraft.
 - [Puzzles](http://nikoli.co.jp/en/puzzles/)
-- [playit.gg](https://playit.gg/) - Making it easy to play games with friends.
+- [playit.gg](https://playit.gg/) - Making it easy to play games with friends. Self host game servers with a free static IP. ([HN](https://news.ycombinator.com/item?id=27449888))
 - [Proton Custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
 - [FACEIT](https://www.faceit.com/en) - Competitive gaming platform for online multiplayer games. ([GitHub](https://github.com/faceit))
 - [Functorio - Having fun with functional programming (2021)](https://bartoszmilewski.com/2021/02/16/functorio/) ([Talk](https://www.youtube.com/watch?v=A46KQtriYuM)) ([HN](https://news.ycombinator.com/item?id=26157969))

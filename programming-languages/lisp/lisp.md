@@ -127,3 +127,4 @@
 - [Joxa](https://github.com/joxa/joxa) - Modern Lisp for the Erlang VM.
 - [Lets LISP like it's 1959 (2019)](https://www.youtube.com/watch?v=hGY3uBHVVr4)
 - [LIPS](https://github.com/jcubic/lips) - Scheme based powerful lisp interpreter written in JavaScript.
+- [Original Hacker News Source Code (2009)](https://github.com/wting/hackernews) ([HN](https://news.ycombinator.com/item?id=27452276))
