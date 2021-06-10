@@ -316,3 +316,4 @@
 - [Robust Instance Segmentation through Reasoning about Multi-Object Occlusion (2021)](https://arxiv.org/abs/2012.02107) ([Code](https://github.com/XD7479/Multi-Object-Occlusion))
 - [MERLOT: Multimodal Neural Script Knowledge Models (2021)](https://arxiv.org/abs/2106.02636) ([Tweet](https://twitter.com/jmhessel/status/1401983972272345088))
 - [Scaling Vision Transformers (2021)](https://arxiv.org/abs/2106.04560)
+- [Self-Supervised Scene De-occlusion (2020)](https://arxiv.org/abs/2004.02788) ([Code](https://github.com/XiaohangZhan/deocclusion))

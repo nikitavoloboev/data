@@ -214,6 +214,7 @@
 - [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library.
 - [Pipes](https://github.com/joboccara/pipes) - Small components for writing expressive code when working on collections.
 - [NamedType](https://github.com/joboccara/NamedType) - Implementation of strong types in C++.
+- [kari.hpp](https://github.com/BlackMATov/kari.hpp) - Experimental library for currying in C++17.
 
 ## Links
 
