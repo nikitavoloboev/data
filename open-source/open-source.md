@@ -183,3 +183,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Should You Open Source Your Startup? (2021)](https://www.youtube.com/watch?v=YIL5fuAUPiA)
 - [Open Source Insights](https://deps.dev/)
 - [Sorry everybody, I failed with you](https://github.com/pedronauck/docz/issues/1634) ([HN](https://news.ycombinator.com/item?id=27420554))
+- [antirez's thoughts on open source](https://news.ycombinator.com/item?id=27423526) ([Tweet](https://twitter.com/antirez/status/1401921830311575556))

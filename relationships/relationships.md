@@ -100,3 +100,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What is the early stage of dating someone new supposed to look like? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nk0qki/what_is_the_early_stage_of_dating_someone_new/)
 - [«Почему изменяют нам, почему изменяем мы, почему изменяют с нами?» (2021)](https://www.youtube.com/watch?v=LpeXsr0rwK8)
 - [Those of you who are single by choice, who are you waiting for? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nltfw6/those_of_you_who_are_single_by_choice_who_are_you/)
+- [12 levels of friendship](https://twitter.com/TaariqIsmail/status/1402681643714985984)
