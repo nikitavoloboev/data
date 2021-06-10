@@ -10,3 +10,4 @@
 - [Home ownership is the West’s biggest economic-policy mistake (2020)](https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake) ([HN](https://news.ycombinator.com/item?id=26871164))
 - [Making sense of what’s going on in the housing market (2021)](https://cobylefko.medium.com/no-were-not-in-a-bubble-f6bc44b960dd) ([HN](https://news.ycombinator.com/item?id=26890236))
 - [Orbital Witness](https://www.orbitalwitness.com/) - Instant property insight.
+- [HN: If you sell a house these days, the buyer might be a pension fund (2021)](https://news.ycombinator.com/item?id=27448175)

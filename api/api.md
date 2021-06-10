@@ -222,3 +222,4 @@
 - [Small things that make APIs a little bit better for its users (2021)](https://edmz.org/personal/2021/05/27/small_things_that_make_apis_a_little_bit_better.html) ([Lobsters](https://lobste.rs/s/7bak6y/small_things_make_apis_litte_bit_better))
 - [AIP Improvement Proposals](https://google.aip.dev/) - Focused design documents for flexible API development. How Google does APIs. ([Code](https://github.com/aip-dev/google.aip.dev))
 - [The state of Stripe API library codegen (2021)](https://brandur.org/fragments/stripe-codegen)
+- [API Federation: growing scalable API landscapes (2021)](https://engineering.salesforce.com/api-federation-growing-scalable-api-landscapes-a0f1f0dad506)

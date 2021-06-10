@@ -157,3 +157,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Just Use Email](https://www.justuseemail.com/) - How to use Email for Everything. ([HN](https://news.ycombinator.com/item?id=27123389))
 - [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch))
 - [Big Mail](https://getbigmail.com/) - Upgrade your inbox.
+- [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
