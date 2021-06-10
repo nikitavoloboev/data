@@ -127,3 +127,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [What are your top three Jazz albums and why? (2021)](https://www.reddit.com/r/Jazz/comments/nniyfs/what_are_your_top_three_jazz_albums_and_why/)
 - [Nina](https://nina.market/) - Decentralized music distribution service. ([Litepaper](https://docs.nina.market/litepaper/))
 - [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription.
+- [Daft Punk Cafe](https://daftpunk.cafe/)

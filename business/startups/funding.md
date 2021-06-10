@@ -109,3 +109,4 @@
 - [Some Notes on Fundraising (2021)](https://continuations.com/post/651160278275440640/some-notes-on-fundraising)
 - [Earl Grey Capital](https://earlgrey.capital/) - Rolling fund by Alex MacCaw and Amit Vasudev.
 - [Collaborative Fund](https://www.collaborativefund.com/)
+- [Todd and Rahul's Angel Fund](https://www.toddandrahulangelfund.com/) ([Tweet](https://twitter.com/toddg777/status/1402656648490061827))

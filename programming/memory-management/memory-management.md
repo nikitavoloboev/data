@@ -19,6 +19,7 @@
 - [Memory Allocators 101 - Write a simple memory allocator (2015)](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 - [gperftools](https://github.com/gperftools/gperftools) - Collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.
 - [Memory Consistency Models: A Tutorial (2016)](https://www.cs.utexas.edu/~bornholt/post/memory-models.html) ([HN](https://news.ycombinator.com/item?id=23546316))
+- [The memory models that underlie programming languages](http://canonical.org/~kragen/memory-models/)
 - [Modern garbage collection (2016)](https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e) - A look at the Go GC strategy.
 - [Virtual Memory Tricks (2017)](https://ourmachinery.com/post/virtual-memory-tricks/)
 - [Reference counting vs GC (2020)](https://twitter.com/mraleph/status/1305209967641796611)
