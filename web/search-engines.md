@@ -133,3 +133,5 @@
 - [Recommendations and Results Organization in Netflix Search (2021)](https://arxiv.org/abs/2105.14134)
 - [Full-Text Search PostgreSQL or ElasticSearch (2021)](https://fueled.com/the-cache/posts/backend/fulltext-search-postgresql-vs-elasticsearch/)
 - [Ask HN: Has Google search got noticably worse recently? (2021)](https://news.ycombinator.com/item?id=27379083)
+- [Pinecone](https://www.pinecone.io/) - Managed Vector Similarity Search.
+- [Extreme Classification with Vector Similarity Search](https://www.pinecone.io/docs/examples/extreme-classification/)

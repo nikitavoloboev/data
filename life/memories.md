@@ -21,3 +21,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 ## Links
 
 - [The brain maps out ideas and memories like spaces (2021)](https://www.quantamagazine.org/the-brain-maps-out-ideas-and-memories-like-spaces-20190114/) ([HN](https://news.ycombinator.com/item?id=27148529))
+- [Human Memory Course](https://github.com/ContextLab/human-memory)

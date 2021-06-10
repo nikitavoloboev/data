@@ -128,3 +128,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Nina](https://nina.market/) - Decentralized music distribution service. ([Litepaper](https://docs.nina.market/litepaper/))
 - [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription.
 - [Daft Punk Cafe](https://daftpunk.cafe/)
+- [gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.

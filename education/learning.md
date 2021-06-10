@@ -123,3 +123,4 @@
 - [RFC.fyi](https://rfc.fyi/) - Browse RFCs by keywords, id or collection. ([HN](https://news.ycombinator.com/item?id=27336584))
 - [All the best engineering advice I stole from non-technical people (2021)](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 - [Brendan's Personal Canon](https://www.brendanschlagel.com/canon/) - Things that have most influenced my work and thinking.
+- [Things Every Educated 21st-Century Person Should Know but that Most People Don't? (2021)](https://www.reddit.com/r/slatestarcodex/comments/nw2b1v/things_every_educated_21stcentury_person_should/)

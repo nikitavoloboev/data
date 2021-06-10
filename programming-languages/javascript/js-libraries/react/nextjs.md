@@ -199,3 +199,4 @@
 - [Avoid refetching data in NextJS when navigating (2021)](https://rasmussendev.medium.com/avoiding-refetching-data-in-nextjs-when-navigating-df673ef491f)
 - [Shallow Routing in Next.js (2021)](https://dev.to/netlify/shallow-routing-in-next-js-1dp9)
 - [How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL (2021)](https://vercel.com/guides/nextjs-prisma-postgres)
+- [Full Stack Development with Next.js and Supabase (2021)](https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/)
