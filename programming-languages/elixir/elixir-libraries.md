@@ -10,6 +10,8 @@
 - [Tesla](https://github.com/teamon/tesla) - Flexible HTTP client library for Elixir, with support for middleware and multiple adapters.
 - [Mojito](https://github.com/appcues/mojito) - Easy-to-use Elixir HTTP client, built on the low-level Mint library.
 - [elixir-auth-google](https://github.com/dwyl/elixir-auth-google) - Minimalist Google OAuth Authentication for Elixir Apps.
+- [Ace](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
+- [Raxx](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ## DB
 

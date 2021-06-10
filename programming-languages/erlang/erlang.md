@@ -85,3 +85,4 @@
 - [ERLUP](https://github.com/tsloughter/erlup) - Manage multiple Erlang installs with per directory configuration.
 - [hackney](https://github.com/benoitc/hackney) - HTTP client library in Erlang.
 - [The Development of Erlang (1997)](https://fermatslibrary.com/s/the-development-of-erlang) ([HN](https://news.ycombinator.com/item?id=27365883))
+- [Cowlib](https://github.com/ninenines/cowlib) - Support library for manipulating Web protocols.
