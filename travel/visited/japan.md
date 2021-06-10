@@ -39,3 +39,4 @@
 - [Japan as seen through the lens of Marcio Kogan (2021)](https://www.wallpaper.com/design/explore-japan-with-marcio-kogan)
 - [Craig Mod - YouTube](https://www.youtube.com/c/CraigMod/videos) - Videos on Japan, Walking, Photograph, Literature.
 - [Nihongo](https://nihongo-app.com/) - Modern Japanese dictionary for iPhone and iPad.
+- [Reasons Not to Move to Japan (2021)](https://www.youtube.com/watch?v=nfpWAqK0YZE)

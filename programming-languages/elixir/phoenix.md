@@ -44,3 +44,4 @@
 - [ExPlatorm](https://github.com/alex-min/ex_platform) - Battery-included Phoenix boilerplate.
 - [Phoenix + Docker app example](https://github.com/nickjj/docker-phoenix-example)
 - [Phoenix LiveSession](https://github.com/pentacent/phoenix_live_session) - Live sessions for Phoenix LiveView and Phoenix Controllers.
+- [Phoenix: An Introduction to Elixir's Web Framework (2021)](https://serokell.io/blog/introduction-to-phoenix)

@@ -67,3 +67,4 @@
 - [The S in IoT is for Security](https://puri.sm/posts/the-s-in-iot-is-for-security/) ([HN](https://news.ycombinator.com/item?id=26540007))
 - [Zabbix](https://www.zabbix.com/) - Enterprise-Class Open Source Network Monitoring Solution.
 - [HStreamDB](https://hstream.io/) - Streaming database built for IoT data storage and real-time processing. ([Code](https://github.com/hstreamdb/hstream/))
+- [Cellular connectivity for IoT (2021)](https://blog.toit.io/cellular-connectivity-for-iot-78dfe2026720)

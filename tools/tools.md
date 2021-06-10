@@ -157,6 +157,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Formspree](https://formspree.io/) - Custom Forms with No Server Code.
 - [Tiny Letter](https://tinyletter.com)
+- [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
