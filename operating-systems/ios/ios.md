@@ -328,3 +328,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [AppIcon](https://github.com/Nonchalant/AppIcon) - Generates \*.appiconset contains each resolution image for iOS, MacOS.
 - [Jitterbug](https://github.com/osy/Jitterbug) - Launch JIT enabled iOS app with a second iOS device.
 - [WWDC Community Week](https://wwdc.community/)
+- [Apple Developer Documentation](https://developer.apple.com/documentation/)

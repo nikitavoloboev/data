@@ -101,3 +101,4 @@
 - [Second State](https://www.secondstate.io/) - Fast, safe, portable & serverless Rust on WebAssembly. ([GitHub](https://github.com/second-state))
 - [The Serverless Edge](https://www.theserverlessedge.com/) - Learn how serverless can transform your business model.
 - [Commandeer](https://getcommandeer.com/) - Desktop cloud management app - AWS S3, DynamoDB, Lambda. ([Code](https://github.com/commandeer/open))
+- [Serving dynamic website content with serverless architecture (2021)](https://acloudguru.com/blog/engineering/serving-dynamic-website-content-with-serverless-architecture)

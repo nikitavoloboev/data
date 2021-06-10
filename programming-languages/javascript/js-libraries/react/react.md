@@ -239,4 +239,4 @@
 - [How To Add Prettier and ESLint Automation to a React Codebase (2021)](https://www.swyx.io/prettier-eslint-react/)
 - [React Status](https://react.statuscode.com/) - Weekly roundup of the latest React and React Native links and tutorials.
 - [Remastered](https://github.com/Schniz/remastered) - Full-stack approach to React development. ([Web](https://remastered.hagever.com/))
-- [React 18 Working Group](https://github.com/reactwg/react-18) ([HN](https://news.ycombinator.com/item?id=27438400))
+- [React 18 Working Group](https://github.com/reactwg/react-18) ([HN](https://news.ycombinator.com/item?id=27438400)) ([Lobsters](https://lobste.rs/s/eqqsqi/plan_for_react_18))
