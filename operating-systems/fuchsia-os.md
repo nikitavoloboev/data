@@ -4,6 +4,7 @@
 
 - [Fuchsia solves very realistic problem: building a clean driver interface, while keep it open and gain hardware vendor support.](https://news.ycombinator.com/item?id=27280567)
 - [One of the most interesting aspects of Google's newly released Fuchsia OS is the use of an object capability ("OCap") security model.](https://twitter.com/bascule/status/1397576763572584457)
+- [Fuchsia design principle: Bring Your Own Runtime. If your code can speak the protocols, it can be a first-class citizen regardless of language or runtime. Consequence: Fuchsia does not provide libc or other shared system libraries. Each package is #hermetic and has its own libc.](https://twitter.com/adambarth/status/1402663330913820674)
 
 ## Links
 
