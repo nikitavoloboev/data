@@ -838,6 +838,8 @@
 - [reflect2](https://github.com/modern-go/reflect2) - Reflect API without runtime reflect.Value cost.
 - [S2](https://github.com/golang/geo) - S2 geometry library in Go.
 - [Gollum](https://github.com/trivago/gollum) - n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
+- [config](https://github.com/uber-go/config) - Configuration for Go applications.
+- [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 
 ## Links
 

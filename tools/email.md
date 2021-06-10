@@ -158,3 +158,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Notmuch Email](https://notmuchmail.org/) - Fast, global-search and tag-based email system to use within your text editor or in a terminal. ([Code](https://github.com/notmuch/notmuch))
 - [Big Mail](https://getbigmail.com/) - Upgrade your inbox.
 - [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
+- [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
