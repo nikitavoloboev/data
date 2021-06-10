@@ -95,3 +95,4 @@
 - [Rethinking the computer ‘desktop’ as a concept (2021)](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40) ([HN](https://news.ycombinator.com/item?id=27344010)) ([Lobsters](https://lobste.rs/s/sqrrfc/why_we_need_rethink_computer_desktop_as))
 - [Command Palette Interfaces](https://philipcdavis.com/writing/command-palette-interfaces)
 - [3 conversion killers in onboarding (2021)](https://twitter.com/RamliJohn/status/1401950036997537792)
+- [What I learnt roasting 200 landing pages (2021)](https://blog.roastmylandingpage.com/landing-page-roasts/) ([HN](https://news.ycombinator.com/item?id=27140440))

@@ -130,6 +130,7 @@
 - [Best growth channels for growing Transistor (2021)](https://www.reddit.com/r/SaaS/comments/nrjsao/im_40_years_old_and_i_finally_bootstrapped_a_saas/h0hnkyy?utm_source=share&utm_medium=web2x&context=3)
 - [Pinterest's Growth experiments (2021)](https://twitter.com/searchbrat/status/1400455348897521672)
 - [70 marketing lessons](https://twitter.com/heyblake/status/1402048227025690624)
+- [150 Places to Post Your Startup/Product](https://breue.com/places_to_post_startup)
 
 ## Images
 

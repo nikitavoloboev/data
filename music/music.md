@@ -129,3 +129,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart) - Python library that aims for democratizing automatic music transcription.
 - [Daft Punk Cafe](https://daftpunk.cafe/)
 - [gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
+- [SomaFM](https://somafm.com/) - Commercial-free, Listener-supported Radio.

@@ -217,3 +217,4 @@
 - [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio)
 - [Mix with the Masters](https://www.mixwiththemasters.com/) - Learn music production from the world's top music mixers and producers. ([YouTube](https://www.youtube.com/user/MixWithTheMASTERS/videos))
 - [A Recipe For Learning Audio Programming](https://pbat.ch/wiki/audio_programming_recipe/)
+- [Pianobook](https://www.pianobook.co.uk/) - Peer-to-peer community of composers, producers and sound smiths sharing their sounds for all to use for free.

@@ -253,3 +253,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
 - [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/) ([HN](https://news.ycombinator.com/item?id=27428380))
 - [Nettu Meet](https://github.com/fmeringdal/nettu-meet) - Open source video conference web application designed for interactive online tutoring.
+- [Kapwing MP4 Editor](https://www.kapwing.com/tools/mp4-editor) - Edit MP4 Online.

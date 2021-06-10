@@ -73,7 +73,7 @@
 - [Public Icons](https://publicicons.lllllllllllllllll.com/) - Free icons in the public domain.
 - [Glyphs](https://glyphs.fyi/) - Complete icons design system from Figma to web components. ([Code](https://github.com/gorango/glyphs))
 - [Inspyr](https://inspyr.io/) - Handpicked set of beautifully designed SVG icons.
-- [Ionicons](https://ionicons.com/) - Premium designed icons for use in web, iOS, Android, and desktop apps. ([Code](https://github.com/ionic-team/ionicons))
+- [Ionicons](https://ionic.io/ionicons) - Premium designed icons for use in web, iOS, Android, and desktop apps. ([Code](https://github.com/ionic-team/ionicons))
 - [Flagpack](https://flagpack.xyz/) - 260+ flag icons to easily use within your code project. ([Code](https://github.com/Yummygum/react-flagpack))
 - [Iconduck](https://iconduck.com/) - 100k open source icons, downloadable and searchable.
 - [Jam icons](https://jam-icons.com/) - 890+ pixel perfect icons. ([Code](https://github.com/michaelampr/jam))

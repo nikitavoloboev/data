@@ -31,7 +31,7 @@
 - [Broccoli: Syncing faster by syncing less (2020)](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 - [Ask HN: What is your favorite method of sending large files? (2020)](https://news.ycombinator.com/item?id=24351111)
 - [Data Transfer Project](https://github.com/google/data-transfer-project) - Makes it easy for people to transfer their data between online services. ([Web](https://datatransferproject.dev/))
-- [File Transfer with SSH, Tee, and Base64 (2019)](https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/)
+- [File Transfer with SSH, Tee, and Base64 (2019)](https://susam.in/blog/file-transfer-with-ssh-tee-and-base64/) -
 - [Tardigrade](https://tardigrade.io/) - Decentralized Cloud Object Storage.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another. ([HN](https://news.ycombinator.com/item?id=24503077))
 - [wave-share](https://github.com/ggerganov/wave-share) - Serverless, peer-to-peer, local file sharing through sound. ([HN](https://news.ycombinator.com/item?id=24586390))
@@ -65,3 +65,5 @@
 - [SkyTransfer](https://skytransfer.hns.siasky.net/#/) - Free, Open-Source, Decentralized and Encrypted File-Sharing. ([Code](https://github.com/kamy22/skytransfer)) ([HN](https://news.ycombinator.com/item?id=27017805))
 - [Sending Files with Taildrop (2021)](https://tailscale.com/blog/sending-files-with-taildrop/)
 - [Powergate](https://github.com/textileio/powergate) - Multitiered file storage API built on Filecoin and IPFS.
+- [Tresorit Send](https://send.tresorit.com/) - Send Big Files up to 5GB Securely.
+- [Send](https://send.vis.ee/) - Encrypt and send files with a link that automatically expires to ensure your important documents don't stay online forever.
