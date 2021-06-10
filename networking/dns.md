@@ -106,3 +106,4 @@
 - [dnsharper](https://github.com/marshall-lee/dnsharper) - Small DNS server to lookup local network IPs by their MAC addresses.
 - [DNS Based Discovery (2020)](https://vac.dev/dns-based-discovery)
 - [Anatomy of a Linux DNS Lookup](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/) ([HN](https://news.ycombinator.com/item?id=27396208))
+- [MaraDNS](https://github.com/samboy/MaraDNS) - Small open-source DNS server. ([Web](https://maradns.samiam.org/))
