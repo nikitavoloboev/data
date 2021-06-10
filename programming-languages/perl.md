@@ -30,3 +30,4 @@
 - [Perl Cheat Sheet](https://juerd.nl/site.plp/perlcheat)
 - [The Future of Perl (2021)](https://perl.topicbox.com/groups/perl-core/T4bad780270b6eec5-Mda5ea1e37bdfe5d7b37f443c) ([HN](https://news.ycombinator.com/item?id=26565155))
 - [Perl / Unix One-liner Cage Match (2021)](https://www.perl.com/article/perl-one-liners-part-1/)
+- [Perl Data Language](http://pdl.perl.org/) - Scientific Computing with Perl. ([HN](https://news.ycombinator.com/item?id=27439638))

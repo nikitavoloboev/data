@@ -194,3 +194,4 @@
 - [The CAP Theorem (2020)](https://dean.eigenmann.me/blog/2020/02/17/cap-theorem/)
 - [Metastability and Distributed Systems (2021)](https://brooker.co.za/blog/2021/05/24/metastable.html)
 - [Distributed Systems Course (2021)](http://composition.al/CSE138-2021-03/schedule.html) ([Tweet](https://twitter.com/lindsey/status/1402763622745477121))
+- [Metastable Failures in Distributed Systems (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf)

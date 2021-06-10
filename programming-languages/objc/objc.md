@@ -37,3 +37,4 @@
 - [How NetNewsWire Handles Threading (2021)](https://inessential.com/2021/03/20/how_netnewswire_handles_threading) ([HN](https://news.ycombinator.com/item?id=26536423))
 - [Stanford Objective C Lecture (2017)](https://www.youtube.com/watch?v=o3t52-ZxFtU)
 - [Objective-C for Swift Developers Book](https://www.hackingwithswift.com/store/objective-c-for-swift-developers)
+- [Constant Literals in Objective-C (2021)](https://blog.andrewmadsen.com/2021/06/07/constant-literals-in.html)

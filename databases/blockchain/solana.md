@@ -50,3 +50,4 @@
 - [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/))
 - [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex))
 - [HAPI](https://solana.com/ecosystem/hapi) - Cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.
+- [First impressions of Rust programming on Solana (2021)](https://brson.github.io/2021/06/08/rust-on-solana)

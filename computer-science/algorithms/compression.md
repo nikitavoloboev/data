@@ -52,3 +52,4 @@
 - [COIN: COmpression with Implicit Neural representations (2021)](https://arxiv.org/abs/2103.03123) ([Code](https://github.com/EmilienDupont/coin))
 - [Zippy](https://github.com/guzba/zippy) - Pure Nim implementation of deflate, zlib, gzip and zip.
 - [ezip2dmg](https://github.com/getsentry/ezip2dmg) - Simple wrapper utility to decompress an encrypted ZIP into a newly mounted encrypted DMG.
+- [Text Classification by Data Compression (2021)](https://maxhalford.github.io/blog/text-classification-by-compression/) ([HN](https://news.ycombinator.com/item?id=27440093))

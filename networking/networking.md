@@ -91,7 +91,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [libnekit](https://github.com/zhuhaow/libnekit) - Efficient and Flexible Network Utility Library.
 - [R2](https://github.com/gopakumarce/R2) - Network packet forwarding engine in Rust.
 - [packetdrill](https://github.com/google/packetdrill) - Enables quick, precise tests for entire TCP/UDP/IPv4/IPv6 network stacks, from the system call layer down to the NIC hardware.
-- [TCP/IP Tutorial (1991)](https://tools.ietf.org/html/rfc1180) ([HN](https://news.ycombinator.com/item?id=22863507))
+- [TCP/IP Tutorial (1991)](https://datatracker.ietf.org/doc/html/rfc1180) ([HN](https://news.ycombinator.com/item?id=22863507))
 - [Is BGP safe yet? No.](https://isbgpsafeyet.com/) ([HN](https://news.ycombinator.com/item?id=22899546))
 - [Achieveing reliable UDP transmission at 10 Gb/s using BSD socket for data acquisition systems (2017)](https://arxiv.org/abs/1706.00333) ([HN](https://news.ycombinator.com/item?id=22917447))
 - [Networking tutorial (2015)](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)

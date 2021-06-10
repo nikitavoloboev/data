@@ -91,3 +91,4 @@
 - [Hyperinflation FAQ (2012)](http://howfiatdies.blogspot.com/2012/10/faq-for-hyperinflation-skeptics.html)
 - [The inflation economy (2021)](https://graymirror.substack.com/p/the-inflation-economy)
 - [Inflation and Investing: False Alarm or Fair Warning? (2021)](https://www.youtube.com/watch?v=p0vqmjgF3E4)
+- [Ask HN: Are We in a Mega Bubble? (2021)](https://news.ycombinator.com/item?id=27443944)
