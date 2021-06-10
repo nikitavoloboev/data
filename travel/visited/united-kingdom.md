@@ -31,3 +31,4 @@
 - [Moving to London for a Tech Job](https://relocate.me/blog/expat-stories/moving-to-the-uk-for-a-tech-job/) ([HN](https://news.ycombinator.com/item?id=27154769))
 - [UKPersonalFinance Wiki](https://ukpersonal.finance/)
 - [UK Salaries Range (2021)](https://www.reddit.com/r/UKPersonalFinance/comments/nj57ve/the_actual_reality_of_salaries_in_this_country/)
+- [Boris Johnson Knows Exactly What He’s Doing (2021)](https://www.theatlantic.com/magazine/archive/2021/07/boris-johnson-minister-of-chaos/619010/)

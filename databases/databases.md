@@ -355,5 +355,5 @@
 - [Easily Build Advanced Similarity Search With The Pinecone Vector Database (2021)](https://www.dataengineeringpodcast.com/pinecone-vector-database-similarity-search-episode-189/)
 - [Minimal Modeling Blog](https://minimalmodeling.substack.com/) - Dedicated to in-depth discussion of all kinds of topics related to the database modeling.
 - [Getting Started with IndexedDB for Big Data Storage (2021)](https://blog.openreplay.com/getting-started-with-indexeddb-for-big-data-storage)
-- [The pedantic checklist for changing your data model in a web application (2021)](https://rtpg.co/2021/06/07/changes-checklist.html) ([Lobsters](https://lobste.rs/s/jcy2ap/pedantic_checklist_for_changing_your))
+- [The pedantic checklist for changing your data model in a web application (2021)](https://rtpg.co/2021/06/07/changes-checklist.html) ([Lobsters](https://lobste.rs/s/jcy2ap/pedantic_checklist_for_changing_your)) ([HN](https://news.ycombinator.com/item?id=27431494))
 - [Introduction to Graph Databases](https://github.com/threatgrid/asami/wiki/Introduction)

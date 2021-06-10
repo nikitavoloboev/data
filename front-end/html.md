@@ -122,3 +122,4 @@
 - [Your Ultimate Guide to Understanding DOM Events](https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23)
 - [Stampino](https://github.com/justinfagnani/stampino) - Fast and extremely powerful HTML template system.
 - [million](https://github.com/millionjs/million) - Fast/Small Virtual DOM.
+- [The right tag for the job: why you should use semantic HTML (2021)](https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/)

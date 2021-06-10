@@ -231,3 +231,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Overview: Capability Computation](http://www.erights.org/elib/capability/overview.html)
 - [Ask HN: How are you using unikernels? (2021)](https://news.ycombinator.com/item?id=27301210)
 - [Sudo](https://github.com/sudo-project/sudo) - Program designed to allow a sysadmin to give limited root privileges to users and log root activity.
+- [I wrote a linker everyone can understand (2021)](https://briancallahan.net/blog/20210609.html) ([HN](https://news.ycombinator.com/item?id=27444647))
