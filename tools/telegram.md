@@ -45,6 +45,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [webhook2telegram](https://github.com/muety/webhook2telegram) - Telegram bot which translates push messages sent as simple HTTP calls into Telegram messages you can subscribe to.
 - [Voicy](https://voicybot.com/) - Automatically converts all the audio messages to text when added to a group chat. ([Code](https://github.com/backmeupplz/voicy))
 - [Stonky](https://github.com/antirez/stonky) - Stock market Telegram bot.
+- [telewater](https://github.com/aahnik/telewater) - Telegram bot that applies watermark on images, gifs, and videos.
 
 ## Links
 
