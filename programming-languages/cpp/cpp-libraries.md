@@ -212,6 +212,8 @@
 - [Operon](https://github.com/heal-research/operon) - C++ Large Scale Genetic Programming. ([Docs](https://operongp.readthedocs.io/en/latest/))
 - [CppCoro](https://github.com/lewissbaker/cppcoro) - Library of C++ coroutine abstractions for the coroutines TS.
 - [TinyGLTF](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library.
+- [Pipes](https://github.com/joboccara/pipes) - Small components for writing expressive code when working on collections.
+- [NamedType](https://github.com/joboccara/NamedType) - Implementation of strong types in C++.
 
 ## Links
 
