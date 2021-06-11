@@ -95,3 +95,4 @@
 - [BlackParrot](https://github.com/black-parrot/black-parrot) - Linux-Capable Accelerator Host RISC-V Multicore.
 - [Build a RISC-V CPU From Scratch (2021)](https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch) ([HN](https://news.ycombinator.com/item?id=27289213))
 - [NEORV32 RISC-V Processor](https://github.com/stnolting/neorv32) - Size-optimized, customizable full-scale 32-bit RISC-V soft-core CPU and SoC written in platform-independent VHDL. ([HN](https://news.ycombinator.com/item?id=27343948))
+- [RISC-V Adventures: Lightening](https://ekaitz.elenq.tech/lightening.html) ([Part 2](https://ekaitz.elenq.tech/hex0.html))

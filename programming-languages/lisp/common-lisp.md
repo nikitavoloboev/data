@@ -57,3 +57,4 @@
 - [Python vs Common Lisp, workflow and ecosystem (2019)](https://lisp-journey.gitlab.io/pythonvslisp/) ([HN](https://news.ycombinator.com/item?id=27011942))
 - [CL-REPL](https://github.com/koji-kojiro/cl-repl) - Full-featured REPL implementation designed to work with Roswell.
 - [Comparison of Common Lisp Testing Frameworks](https://sabracrolleton.github.io/testing-framework)
+- [JSCL](https://github.com/jscl-project/jscl) - Common Lisp to JavaScript compiler.
