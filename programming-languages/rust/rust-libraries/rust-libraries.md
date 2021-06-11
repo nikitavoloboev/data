@@ -863,6 +863,7 @@
 - [Concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust.
 - [cap](https://github.com/alecmocatta/cap) - Allocator that can track and limit memory usage.
 - [Instant Distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index.
+- [static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting.
 
 ## Cargo Plugins
 
