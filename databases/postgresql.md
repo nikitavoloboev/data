@@ -274,3 +274,4 @@
 - [Better JSON in Postgres with PostgreSQL 14 (2021)](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14) ([Tweet](https://twitter.com/simonw/status/1399803232906448898)) ([HN](https://news.ycombinator.com/item?id=27358977))
 - [PostgreSQL Autodoc](https://github.com/cbbrowne/autodoc) - Dumps a Postgres schema in several useful documentary forms.
 - [Logical replication and decoding for Cloud SQL for PostgreSQL (2021)](https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql) ([HN](https://news.ycombinator.com/item?id=27406589))
+- [Zero downtime Postgres migration, done right (2021)](https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/) ([HN](https://news.ycombinator.com/item?id=27473788))

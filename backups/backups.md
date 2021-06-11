@@ -12,7 +12,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
   - [Vorta Backup Client](https://github.com/borgbase/vorta) - Backup client for macOS and Linux desktops. It integrates the mighty BorgBackup with your desktop environment to protect your data from disk failure, ransomware and theft.
   - [BorgBase](https://www.borgbase.com/) - Specialized Hosting Service for BorgBackup.
 - [HashBackup](http://www.hashbackup.com/) - Unix command-line backup program to create a local backup, remote offsite backup, or both, in your own storage accounts.
-- [Kopia](https://github.com/kopia/kopia) - Simple, cross-platform tool for managing encrypted backups in the cloud.
+- [Kopia](https://github.com/kopia/kopia) - Simple, cross-platform tool for managing encrypted backups in the cloud. ([Web](https://kopia.io/)) ([HN](https://news.ycombinator.com/item?id=27471945))
 - [knoxite](https://github.com/knoxite/knoxite) - Data storage & backup system.
 - [Rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers. ([HN](https://news.ycombinator.com/item?id=22791036)) ([Web](https://rclone.org/))
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.

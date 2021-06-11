@@ -72,3 +72,4 @@
 - [Seq-N-Slide](https://github.com/igordot/sns) - Sequencing data analysis pipelines. ([Docs](https://igordot.github.io/sns/))
 - [Genomics Reddit](https://www.reddit.com/r/genomics/)
 - [How to sequence your genome at home (2021)](http://blog.booleanbiotech.com/human-genome-at-home.html) ([HN](https://news.ycombinator.com/item?id=27422719))
+- [Ask HN: What's an interesting DIY genetic engineering project? (2021)](https://news.ycombinator.com/item?id=27475080)
