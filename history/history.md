@@ -124,3 +124,4 @@
 - [Summarize the 2010-2020 period in the length of a tweet](https://twitter.com/morganhousel/status/1399840530159202306)
 - [Vlogging Through History - YouTube](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ)
 - [HN: David Dushman, last surviving Auschwitz liberator, dies aged 98 (2021)](https://news.ycombinator.com/item?id=27421527)
+- [OpenHistoricalMap](https://www.openhistoricalmap.org/) ([HN](https://news.ycombinator.com/item?id=27469715))

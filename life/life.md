@@ -51,4 +51,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Breaking Bad: The Value of Human Life](https://www.youtube.com/watch?v=V87lK_sUDDY)
 - [Synthetic living machines: A new window on life (2021)](https://www.sciencedirect.com/science/article/pii/S2589004221004739) ([HN](https://news.ycombinator.com/item?id=27320975))
 - [Awesome Artificial Life](https://github.com/jetnew/awesome-artificial-life)
-- [Artificial Life Environment (ALiEn)](https://alien-project.org/) - Simulation program based on a specialized 2D physics and rendering engine in CUDA. ([Code](https://github.com/chrxh/alien))
+- [ALiEn](https://alien-project.org/) - GPU-accelerated artificial life simulation program. ([Code](https://github.com/chrxh/alien)) ([HN](https://news.ycombinator.com/item?id=27472224))

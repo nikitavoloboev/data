@@ -57,3 +57,5 @@
 - [Cute fractal](https://twitter.com/zozuar/status/1367243732764876800)
 - [Using Genetic Algorithm to Create Fractals](https://victorribeiro.com/randomFractal/) ([HN](https://news.ycombinator.com/item?id=26460374))
 - [The Double Pendulum Fractal (2021)](https://www.youtube.com/watch?v=n7JK4Ht8k8M)
+- [rust-fractal-core](https://github.com/rust-fractal/rust-fractal-core) - Mandelbrot fractal visualizer featuring perturbation based iteration methods, series approximation and multithreading.
+- [rust-fractal-gui](https://github.com/rust-fractal/rust-fractal-gui) - GUI for rust-fractal-core, a mandelbrot fractal visualizer.
