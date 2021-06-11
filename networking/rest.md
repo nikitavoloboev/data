@@ -21,3 +21,4 @@
 - [REST API Tutorial](https://www.restapitutorial.com/) ([Code](https://github.com/tfredrich/RestApiTutorial.com))
 - [Should we rebrand REST? (2021)](https://kieranpotts.com/rebranding-rest/) ([Lobsters](https://lobste.rs/s/j7qi7v/should_we_rebrand_rest))
 - [Practical REST](https://www.crudful.com/guides/what-is-rest)
+- [What is REST](https://restfulapi.net/)

@@ -492,3 +492,4 @@ Go promotes composition over inheritance.
 - [Optimistic Concurrency Control for Real-world Go Programs (2021)](https://arxiv.org/abs/2106.01710)
 - [Go rules for Bazel](https://github.com/bazelbuild/rules_go)
 - [Go Error Handling Proposals](https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/) ([HN](https://news.ycombinator.com/item?id=27440504))
+- [Go 1.17 Beta (2021)](https://tip.golang.org/doc/go1.17) ([HN](https://news.ycombinator.com/item?id=27462884))

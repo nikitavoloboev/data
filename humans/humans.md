@@ -69,3 +69,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [The Unparalleled Genius of John von Neumann (2019)](https://www.cantorsparadise.com/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d) ([HN](https://news.ycombinator.com/item?id=26695502))
 - [Pioneers – Tools & Craft – Notion](https://www.notion.so/blog/topic/pioneers) - Conversations with the minds that shaped computing.
 - [Ninfex](https://ninfex.com/hello) - People Powered Search. ([HN](https://news.ycombinator.com/item?id=27316752))
+- [Alias](https://alias.co/) - Alerts for your favorite people.

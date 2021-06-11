@@ -113,6 +113,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Elrond](https://elrond.com/) - Highly scalable, fast and secure blockchain platform for distributed apps, enterprise use cases and the new internet economy. ([GitHub](https://github.com/ElrondNetwork)) ([Code](https://github.com/ElrondNetwork/elrond-go))
 - [Maiar](https://maiar.com/) - Digital wallet and global payments app that allows you to exchange and securely store money on your mobile phone. Built with Elrond.
 - [Hyperledger](https://www.hyperledger.org/) - Open Source Blockchain Technologies. ([GitHub](https://github.com/hyperledger/))
+- [Hyperledger Labs](https://labs.hyperledger.org/) ([GitHub](https://github.com/hyperledger-labs))
 - [CX](https://github.com/skycoin/cx) - New programming language for blockchain.
 - [CovenantSQL](https://covenantsql.io/) - Decentralized, trusted, high performance, SQL database with blockchain features. ([Code](https://github.com/CovenantSQL/CovenantSQL))
 - [Graph Node](https://github.com/graphprotocol/graph-node) - Protocol for building decentralized applications (dApps) quickly on Ethereum and IPFS using GraphQL.
@@ -159,3 +160,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Pyth Network](https://pyth.network/) - Real-time on-chain market data.
 - [Ask HN: What are some ideal applications of blockchains? (2021)](https://news.ycombinator.com/item?id=27389830)
 - [Blockchain 101 - A Visual Demo (2016)](https://www.youtube.com/watch?v=_160oMzblY8)
+- [FireFly](https://github.com/hyperledger-labs/firefly) - Multiparty system for enterprise data flows, powered by blockchain.

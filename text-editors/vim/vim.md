@@ -112,3 +112,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim normal mode grammar](https://glts.github.io/2013/04/28/vim-normal-mode-grammar.html)
 - [Vim Tips You Probably Never Heard of (2021)](https://www.youtube.com/watch?v=bQfFvExpZDU)
 - [Neovim 0.5 Is Overpowering (2021)](https://crispgm.com/page/neovim-is-overpowering.html) ([HN](https://news.ycombinator.com/item?id=27291302)) ([Lobsters](https://lobste.rs/s/8npjng/neovim_0_5_is_overpowering))
+- [Xcode 13 Vim Mode](https://palatable.tech/post/xcode-13-vim-mode/)

@@ -28,6 +28,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 ## Notes
 
 - [In 'Mad Max: Fury Road' (2015) Margaret Sixel purposely removed frames in scenes to make you feel as anxious as Max.](https://twitter.com/Delivery_Pig/status/1395829946413690880)
+- [Hide self view in video calls to make them less draining. The brain uses a tremendous amount of energy looking at itself.](https://twitter.com/maccaw/status/1403129131622088704)
 
 ## Links
 

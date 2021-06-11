@@ -73,3 +73,4 @@
 - [Rascam](https://github.com/pedrosland/rascam) - Rust library for interacting with the Raspberry Pi Camera.
 - [My 6-node 1U Raspberry Pi rack mount Cluster (2021)](https://www.jeffgeerling.com/blog/2021/my-6-node-1u-raspberry-pi-rack-mount-cluster)
 - [Young Persons Guide to BCPL Programming on the Raspberry Pi](https://www.cl.cam.ac.uk/~mr10/bcpl4raspi.pdf)
+- [Raspberry Pi WiFi to ethernet bridge (2021)](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/) ([HN](https://news.ycombinator.com/item?id=27464907))

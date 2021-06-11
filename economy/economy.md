@@ -92,3 +92,4 @@
 - [The inflation economy (2021)](https://graymirror.substack.com/p/the-inflation-economy)
 - [Inflation and Investing: False Alarm or Fair Warning? (2021)](https://www.youtube.com/watch?v=p0vqmjgF3E4)
 - [Ask HN: Are We in a Mega Bubble? (2021)](https://news.ycombinator.com/item?id=27443944)
+- [Incentives in economics are wrong, but how? (2021)](https://wyclif.substack.com/p/incentives-in-economics-are-wrong) ([HN](https://news.ycombinator.com/item?id=27472840))

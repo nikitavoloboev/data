@@ -105,3 +105,4 @@
 - [A Concrete Introduction to Probability (2018)](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb) ([HN](https://news.ycombinator.com/item?id=27379366))
 - [Statistical inference considered harmful (2016)](https://github.com/frankmcsherry/blog/blob/master/posts/2016-06-14.md) ([Tweet](https://twitter.com/Aaroth/status/1400560793482149890))
 - [David Hume: Causation](https://iep.utm.edu/hume-cau/)
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)

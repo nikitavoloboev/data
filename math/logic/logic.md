@@ -54,3 +54,4 @@
 - [Five Stages of Accepting Constructive Mathematics (2017)](https://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf)
 - [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
 - [An Automated Approach to the Collatz Conjecture (2021)](https://arxiv.org/abs/2105.14697)
+- [Designing Software with Predicate Logic (2021)](https://buttondown.email/hillelwayne/archive/designing-software-with-predicate-logic/)

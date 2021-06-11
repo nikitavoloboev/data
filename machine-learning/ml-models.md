@@ -30,3 +30,4 @@
 - [Tracking the Performance of Your Machine Learning Models With MLflow (2021)](https://muttdata.ai/blog/2021/02/12/ml-flow.html)
 - [Counterfit](https://github.com/Azure/counterfit) - CLI that provides a generic automation layer for assessing the security of ML models.
 - [Convect](https://www.convect.ml/) - Instant Serverless Deployment of ML Models. ([HN](https://news.ycombinator.com/item?id=27303690))
+- [Using Argo to Train Predictive Models (2021)](https://flightaware.engineering/using-argo-to-train-predictive-models/) ([HN](https://news.ycombinator.com/item?id=27464445))
