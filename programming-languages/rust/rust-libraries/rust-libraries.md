@@ -862,6 +862,7 @@
 - [async-stream](https://github.com/tokio-rs/async-stream) - Asynchronous streams for Rust using async & await notation.
 - [Concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust.
 - [cap](https://github.com/alecmocatta/cap) - Allocator that can track and limit memory usage.
+- [Instant Distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index.
 
 ## Cargo Plugins
 
