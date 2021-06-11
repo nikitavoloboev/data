@@ -354,3 +354,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Notable](https://notable.app/) - Markdown-based note-taking app.
 - [emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema. Create beautiful websites like wikis. ([Web](https://note.ema.srid.ca/))
 - [Joplin](https://joplinapp.org/) - Open source note taking and to-do application with synchronisation capabilities. ([Code](https://github.com/laurent22/joplin))
+- [Dedicated hardware for note taking](https://twitter.com/jessmartin/status/1365290998243409922)
