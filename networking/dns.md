@@ -107,3 +107,4 @@
 - [DNS Based Discovery (2020)](https://vac.dev/dns-based-discovery)
 - [Anatomy of a Linux DNS Lookup](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/) ([HN](https://news.ycombinator.com/item?id=27396208))
 - [MaraDNS](https://github.com/samboy/MaraDNS) - Small open-source DNS server. ([Web](https://maradns.samiam.org/))
+- [odoh-client-rs](https://github.com/cloudflare/odoh-client-rs) - Oblivious DoH client application written in Rust.

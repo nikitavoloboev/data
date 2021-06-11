@@ -25,3 +25,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [DevX Conf](https://devxconf.org/)
 - [Vendelux](https://vendelux.com/) - Supercharge networking at events and conferences.
 - [TicketSwap](https://www.ticketswap.com/) - Safest way to buy and sell e-tickets. ([GitHub](https://github.com/TicketSwap))
+- [How to move a 400-person hackathon online (2021)](https://www.juricho.me/posts/online-hackathon/)

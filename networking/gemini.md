@@ -28,3 +28,4 @@
 - [Gemini Capsule in a FreeBSD Jail (2021)](https://www.ecliptik.com/Gemini-Capsule-in-a-FreeBSD-Jail/)
 - [Contributing to Gemini ecosystem (2021)](https://pitr.ca/2021-05-29-gemini-ecosystem)
 - [Gig](https://github.com/pitr/gig) - Gemini Go framework.
+- [Why Gemini is not my favorite internet protocol (2021)](https://gerikson.com/blog/comm/Why-u-no-gemini.html) ([Lobsters](https://lobste.rs/s/vhlagb/why_gemini_is_not_my_favorite_internet))

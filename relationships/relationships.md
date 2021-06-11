@@ -101,3 +101,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [«Почему изменяют нам, почему изменяем мы, почему изменяют с нами?» (2021)](https://www.youtube.com/watch?v=LpeXsr0rwK8)
 - [Those of you who are single by choice, who are you waiting for? (2021)](https://www.reddit.com/r/datingoverthirty/comments/nltfw6/those_of_you_who_are_single_by_choice_who_are_you/)
 - [12 levels of friendship](https://twitter.com/TaariqIsmail/status/1402681643714985984)
+- [Brené Brown on Empathy (Kid Friendly!)](https://www.youtube.com/watch?v=HznVuCVQd10) ([Reddit](https://www.reddit.com/r/videos/comments/nxjdcp/this_2_and_a_half_minute_video_on_empathy_has_had/))
