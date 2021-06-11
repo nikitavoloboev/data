@@ -103,4 +103,4 @@
 - [Debugging Elixir Code: The Definitive Guide (2021)](https://curiosum.dev/blog/debugging-elixir-code-the-definitive-guide)
 - [Sourceror](https://github.com/doorgan/sourceror) - Utilities to manipulate elixir source code.
 - [A deep dive into the Elixir AST (2021)](https://dorgan.netlify.app/posts/2021/04/the_elixir_ast/)
-- [Good and Bad Elixir (2021)](https://keathley.io/blog/good-and-bad-elixir.html) ([Tweet](https://twitter.com/ChrisKeathley/status/1400456268876161033))
+- [Good and Bad Elixir (2021)](https://keathley.io/blog/good-and-bad-elixir.html) ([Tweet](https://twitter.com/ChrisKeathley/status/1400456268876161033)) ([HN](https://news.ycombinator.com/item?id=27463725))
