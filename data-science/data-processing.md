@@ -49,3 +49,4 @@
 - [Dataform](https://dataform.co/) - Manage data pipelines in BigQuery.
 - [Legate Pandas](https://github.com/nv-legate/legate.pandas) - Aspiring Drop-In Replacement for Pandas at Scale.
 - [datablocks](https://datablocks.pro/) - Flow based data processing editor. ([HN](https://news.ycombinator.com/item?id=27459664))
+- [Reproducible data processing pipelines (2021)](https://guix.gnu.org/blog/2021/reproducible-data-processing-pipelines/)

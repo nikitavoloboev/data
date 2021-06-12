@@ -865,6 +865,7 @@
 - [Instant Distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index.
 - [static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting.
 - [async raft](https://github.com/async-raft/async-raft) - Implementation of the Raft distributed consensus protocol using the Tokio framework.
+- [arrow-rs](https://github.com/apache/arrow-rs) - Native Rust implementation of Apache Arrow.
 
 ## Cargo Plugins
 
@@ -929,3 +930,4 @@
 - [Carnet](https://github.com/kutometa/carnet) - Small tool that imposes additional security constraints on Rust's official package manager, Cargo.
 - [rust-trending](https://github.com/pbzweihander/rust-trending) - Twitter bot to tweet trending Rust libraries.
 - [nocargo](https://github.com/oxalica/nocargo) - Cargo in nix.
+- [What are the most "professional" crates? (2021)](https://www.reddit.com/r/rust/comments/nsvyxq/what_are_the_most_professional_crates/)

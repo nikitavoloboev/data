@@ -106,3 +106,4 @@
 - [Statistical inference considered harmful (2016)](https://github.com/frankmcsherry/blog/blob/master/posts/2016-06-14.md) ([Tweet](https://twitter.com/Aaroth/status/1400560793482149890))
 - [David Hume: Causation](https://iep.utm.edu/hume-cau/)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Multidimensional Kalman-Filter](https://github.com/balzer82/Kalman) - Some Python Implementations of the Kalman Filter.
