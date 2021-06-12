@@ -14,6 +14,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [The Mystery of life isn't a problem to solve, but a reality to experience.](https://twitter.com/tanayj/status/1369478724500873223)
 - [The meaning of life is to give life meaning. You don't have to do anything, but it's actually quite hard to do nothing for long. The Universe keeps changing and flowing, and we're along for the ride. Your consciousness is absolutely absurd. Focus inward and on the present moment, be with your breath and body. The direction will present itself to you, unveiling bit by bit. We have many small decisions each day that add up to what we are, based on what is handed to us. Be kind, be the Light, and the rest will come to you.](https://www.reddit.com/r/RationalPsychonaut/comments/mffe0j/this_might_be_a_bit_off_topic_but_i_love_this/)
 - [How to ruin your life: Make your permanent decisions based on temporary feelings.](https://twitter.com/WealthInc247/status/1401622946867785731)
+- [A lot of people make the mistake of trying to eradicate the mundane from their lives.](https://merveilles.town/web/statuses/106389298578607938)
 
 ## Links
 

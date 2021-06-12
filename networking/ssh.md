@@ -57,3 +57,4 @@
 - [tosh](https://github.com/mikroskeem/tosh) - Imagine your SSH server only listens on an IPv6 address, and where the last 6 digits are changing every 30 seconds as a TOTP code.
 - [consrv](https://github.com/mdlayher/consrv) - SSH to serial console bridge server.
 - [ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
+- [SSH quoting (2021)](https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html) ([HN](https://news.ycombinator.com/item?id=27483077))
