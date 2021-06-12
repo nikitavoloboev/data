@@ -149,3 +149,4 @@
 - [MegEngine](https://github.com/MegEngine/MegEngine) - Fast, scalable and easy-to-use deep learning framework, with auto-differentiation.
 - [SeqIO](https://github.com/google/seqio) - Task-based datasets, preprocessing, and evaluation for sequence models.
 - [OpenAI Python](https://github.com/openai/openai-python) - Provides convenient access to the OpenAI API from applications written in Python.
+- [Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku.

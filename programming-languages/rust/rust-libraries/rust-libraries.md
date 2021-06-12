@@ -928,3 +928,4 @@
 - [The most underrated but useful Rust standard library type (2021)](https://dev.to/thepuzzlemaker/the-most-underrated-but-useful-rust-standard-library-type-59b1) ([Lobsters](https://lobste.rs/s/8oq6km/most_underrated_useful_rust_standard))
 - [Carnet](https://github.com/kutometa/carnet) - Small tool that imposes additional security constraints on Rust's official package manager, Cargo.
 - [rust-trending](https://github.com/pbzweihander/rust-trending) - Twitter bot to tweet trending Rust libraries.
+- [nocargo](https://github.com/oxalica/nocargo) - Cargo in nix.

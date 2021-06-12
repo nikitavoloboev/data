@@ -19,3 +19,5 @@
 - [SASyLF](http://www.cs.cmu.edu/~aldrich/SASyLF/) - Educational Proof Assistant for Language Theory. ([Code](https://github.com/boyland/sasylf))
 - [Automated Propositional Sequent Proofs in Your Browser with Tau Prolog (2021)](https://www.philipzucker.com/javascript-automated-proving/)
 - [Proof-Oriented Programming in F\*](http://www.fstar-lang.org/tutorial/)
+- [HipSpec](https://github.com/danr/hipspec) - Inductive theorem prover for Haskell programs.
+- [Twee](https://github.com/nick8325/twee) - Equational theorem prover based on Knuth-Bendix completion.
