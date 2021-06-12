@@ -125,3 +125,4 @@
 - [Vlogging Through History - YouTube](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ)
 - [HN: David Dushman, last surviving Auschwitz liberator, dies aged 98 (2021)](https://news.ycombinator.com/item?id=27421527)
 - [OpenHistoricalMap](https://www.openhistoricalmap.org/) ([HN](https://news.ycombinator.com/item?id=27469715))
+- [Putting all your ancestors in a line and talking to them](https://twitter.com/makseest_ru/status/1402598603642658848)

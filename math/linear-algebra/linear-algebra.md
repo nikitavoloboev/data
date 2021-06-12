@@ -46,3 +46,4 @@
 - [Mathematicians Inch Closer to Matrix Multiplication Goal (2021)](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/)
 - [Printing algebraic numbers](https://fredrikj.net/blog/2021/03/printing-algebraic-numbers/)
 - [Tasty Bits of Several Complex Variables](https://www.jirka.org/scv/) ([Code](https://github.com/jirilebl/scv))
+- [A friendly introduction to linear algebra for ML (2021)](https://www.youtube.com/watch?v=LlKAna21fLE)

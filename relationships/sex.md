@@ -64,3 +64,5 @@
 - [HEX Condoms](https://www.lelohex.com/hex-original) ([Reddit](https://www.reddit.com/r/sex/comments/nudwzu/for_men_can_you_really_not_feel_anything_when/))
 - [What are things that woman find sexy that men rarely do?](https://www.reddit.com/r/sexover30/comments/nu4oju/what_are_some_things_that_i_can_try_to_get_my/)
 - [Is G-spot actually just an internal part of clitoris?](https://www.reddit.com/r/sexover30/comments/nosd53/is_gspot_actually_just_an_internal_part_of/)
+- [Exploring Queerness By Switching Up My Vibrators (2021)](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
+- [Future of Sex](https://futureofsex.net/) - Latest news on how tech is expanding sexuality.

@@ -38,3 +38,4 @@
 - [wgctl](https://github.com/apognu/wgctl) - WireGuard control utility.
 - [Ansible Wireguard Role](https://github.com/githubixx/ansible-role-wireguard) - Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.
 - [Tutorial: Tailscale on AWS with Terraform (2021)](https://mediamachine.io/blog/tailscale-on-aws-with-terraform-tutorial/)
+- [Taildrop was kind of easy, actually (2021)](https://tailscale.com/blog/2021-06-taildrop-was-easy/)

@@ -62,3 +62,4 @@
 - [Resources to learn DeFi from 0 (2021)](https://twitter.com/stevegraham/status/1387121989672919040)
 - [Flamingo DAO](https://flamingodao.xyz/) - NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets.
 - [Yatima](https://github.com/yatima-inc/yatima) - Programming language for the decentralized web. ([HN](https://news.ycombinator.com/item?id=27425941))
+- [Decentralized identity](https://github.com/dabit3/decentralized-identity) - Authentication system built with Ceramic & IDX.
