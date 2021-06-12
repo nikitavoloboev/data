@@ -8,3 +8,4 @@
 - [Map Making in the Age of Artificial Intelligence - Tim Wallace (2019)](https://www.youtube.com/watch?v=6Au4HuHdF60&t=517)
 - [Tim Wallace's Work](https://timwallace.net/) - Senior Editor for Geography at The New York Times.
 - [World Population by Country](https://worldpopulationreview.com/)
+- [Geography Realm](https://www.geographyrealm.com/) - Geography, Maps, and GIS.
