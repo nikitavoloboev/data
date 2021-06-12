@@ -101,3 +101,4 @@
 - [A broader picture: A guide on imgproxy for businesses (2021)](https://evilmartians.com/chronicles/a-broader-picture-a-guide-on-imgproxy-for-businesses)
 - [Lust](https://github.com/ChillFish8/lust) - Fast, auto-optimizing image server designed for high throughput and caching.
 - [cutout.pro](https://www.cutout.pro/) - Image Cutout and Background Removal.
+- [MozJPEG](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
