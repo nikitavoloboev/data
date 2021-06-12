@@ -43,3 +43,4 @@
 - [APL – a Glimpse of Heaven (2006)](http://archive.vector.org.uk/art10011550)
 - [Vector, the Journal of the British APL Association](http://archive.vector.org.uk/)
 - [From Competitive Programming to APL](https://corecursive.com/065-competitive-coding-with-conor-hoekstra/) ([HN](https://news.ycombinator.com/item?id=27380431))
+- [BQN](https://github.com/mlochbaum/BQN) - APL-like programming language. Self-hosted. ([Web](https://mlochbaum.github.io/BQN/))
