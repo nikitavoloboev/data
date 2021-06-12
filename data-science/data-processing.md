@@ -48,3 +48,4 @@
 - [Delta Sharing](https://delta.io/sharing/) - Open Protocol for Secure Data Sharing. ([Article](https://databricks.com/blog/2021/05/26/introducing-delta-sharing-an-open-protocol-for-secure-data-sharing.html)) ([Tweet](https://twitter.com/matei_zaharia/status/1397585545849540612))
 - [Dataform](https://dataform.co/) - Manage data pipelines in BigQuery.
 - [Legate Pandas](https://github.com/nv-legate/legate.pandas) - Aspiring Drop-In Replacement for Pandas at Scale.
+- [datablocks](https://datablocks.pro/) - Flow based data processing editor. ([HN](https://news.ycombinator.com/item?id=27459664))

@@ -864,6 +864,7 @@
 - [cap](https://github.com/alecmocatta/cap) - Allocator that can track and limit memory usage.
 - [Instant Distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index.
 - [static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting.
+- [async raft](https://github.com/async-raft/async-raft) - Implementation of the Raft distributed consensus protocol using the Tokio framework.
 
 ## Cargo Plugins
 

@@ -190,3 +190,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://www.interactivebroke
 - [Free resources for the stock market (2021)](https://major.io/2021/04/22/free-resources-for-the-stock-market/)
 - [Posts on Options Trading](https://major.io/tags/options/)
 - [Republic](https://republic.co/) - Invest in Startups.
+- [Complex Adaptive Systems (Stonk Market) and How to Beat Them (2021)](https://www.youtube.com/watch?v=8QaP43sFO5A)
