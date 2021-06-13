@@ -493,3 +493,4 @@
 - [Pretrained Encoders are All You Need (2021)](https://arxiv.org/abs/2106.05139) ([Code](https://github.com/PAL-ML/PEARL_v1))
 - [The Modern Mathematics of Deep Learning (2021)](https://arxiv.org/abs/2105.04026) ([HN](https://news.ycombinator.com/item?id=27485574))
 - [An Attention Free Transformer (2021)](https://arxiv.org/abs/2105.14103) ([Code](https://github.com/rish-16/aft-pytorch))
+- [Towards Causal Representation Learning (2021)](https://arxiv.org/abs/2102.11107)

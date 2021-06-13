@@ -255,6 +255,7 @@ Here are few more things I liked, design wise.
 - [Krasjet](https://krasjet.com/)
 - [Craig Mod](https://craigmod.com/)
 - [Andrew Chou](https://andrew.nonetoohappy.buzz/) ([Code](https://github.com/achou11/andrew-chou))
+- [Marc Rousavy](https://mrousavy.github.io/)
 - [Rakhim](https://rakhim.org/)
 - [Peter Beshai](https://peterbeshai.com/)
 - [Karina Nguyen](https://www.karinanguyen.co/)
