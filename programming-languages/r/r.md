@@ -69,3 +69,4 @@
 - [How I Learned to Love Failing at Compiling R (2020)](https://www.youtube.com/watch?v=VdD0nHbcyk4)
 - [Learn R Through Examples (2020)](https://gexijin.github.io/learnR/index.html) ([HN](https://news.ycombinator.com/item?id=27404103))
 - [robservable](https://github.com/juba/robservable) - Allows the use of Observable notebooks (or parts of them) as htmlwidgets in R. ([Web](https://juba.github.io/robservable/))
+- [jsonlite](https://github.com/jeroen/jsonlite) - Robust, High Performance JSON Parser and Generator for R.

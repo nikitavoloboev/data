@@ -529,6 +529,7 @@
 - [LUME AutoLayout](https://github.com/lume/autolayout) - Apple’s Auto Layout for JavaScript. ([HN](https://news.ycombinator.com/item?id=27322427))
 - [Zoomtastic](https://github.com/Kirlovon/Zoomtastic) - Tiny image zoomer for web.
 - [Patronum](https://github.com/effector/patronum) - Effector operators library delivering modularity and convenience.
+- [Cabin](https://github.com/cabinjs/cabin) - Best JavaScript and Node.js logging service and logging npm package.
 
 ## Links
 

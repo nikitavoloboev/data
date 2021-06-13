@@ -136,3 +136,4 @@ All active variables can be seen by running `env`.
 - [GoTTY](https://github.com/sorenisanerd/gotty) - Share your terminal as a web application.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 - [Unix Shell Programming: The Next 50 Years (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf) ([HN](https://news.ycombinator.com/item?id=27378444))
+- [Hilbish](https://github.com/Rosettea/Hilbish) - Interactive Unix-like shell written in Go, with the config and other code written in Lua.
