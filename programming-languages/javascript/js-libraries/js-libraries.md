@@ -528,6 +528,7 @@
 - [ndarray](https://github.com/scijs/ndarray) - Modular multidimensional arrays for JavaScript.
 - [LUME AutoLayout](https://github.com/lume/autolayout) - Apple’s Auto Layout for JavaScript. ([HN](https://news.ycombinator.com/item?id=27322427))
 - [Zoomtastic](https://github.com/Kirlovon/Zoomtastic) - Tiny image zoomer for web.
+- [Patronum](https://github.com/effector/patronum) - Effector operators library delivering modularity and convenience.
 
 ## Links
 

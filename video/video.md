@@ -61,7 +61,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing. ([HN](https://news.ycombinator.com/item?id=23006794))
 - [@cloudflare/stream-react](https://github.com/cloudflare/stream-react) - Official React component for Cloudflare Stream.
 - [VidGear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features.
-- [Invidio](https://invidio.us/) - Alternative front-end to YouTube. ([Code](https://github.com/omarroth/invidious))
+- [Invidio](https://invidio.us/) - Alternative front-end to YouTube. ([Code](https://github.com/iv-org/invidious))
 - [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
 - [Komposition](https://owickstrom.github.io/komposition/) - Video editor built for screencasters.
 - [Stremio](https://www.stremio.com/) - Modern media center that's a one-stop solution for your video entertainment.
@@ -255,3 +255,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [An interactive look at how a video signal is made](https://blog.pizzabox.computer/random/videolines/) ([HN](https://news.ycombinator.com/item?id=27428380))
 - [Nettu Meet](https://github.com/fmeringdal/nettu-meet) - Open source video conference web application designed for interactive online tutoring. ([HN](https://news.ycombinator.com/item?id=27434254))
 - [Kapwing MP4 Editor](https://www.kapwing.com/tools/mp4-editor) - Edit MP4 Online.
+- [YT-DLP](https://github.com/yt-dlp/yt-dlp) - youtube-dl fork with additional features and fixes.

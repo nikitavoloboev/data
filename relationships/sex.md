@@ -66,3 +66,5 @@
 - [Is G-spot actually just an internal part of clitoris?](https://www.reddit.com/r/sexover30/comments/nosd53/is_gspot_actually_just_an_internal_part_of/)
 - [Exploring Queerness By Switching Up My Vibrators (2021)](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
 - [Future of Sex](https://futureofsex.net/) - Latest news on how tech is expanding sexuality.
+- [Scarleteen](https://www.scarleteen.com/) - Sex Education For The Real World.
+- [How do girls cum?](https://www.reddit.com/r/NoStupidQuestions/comments/nyqpcf/how_do_girls_cum_what_comes_out_and_how_long_does/)

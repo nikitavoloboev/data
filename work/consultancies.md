@@ -115,7 +115,7 @@
 - [Reify Works](https://www.reifyworks.com/) - Help companies market and sell more software.
 - [YLD](https://www.yld.io/)
 - [PerfPerfPerf](https://3perf.com/) - Web performance consultancy. ([Code](https://github.com/3perf/website))
-- [RedMadRobot](https://www.redmadrobot.com/) - Full cycle product development.
+- [RedMadRobot](https://www.redmadrobot.com/) - Full cycle product development. ([GitHub](https://github.com/RedMadRobot))
 - [Parallax](https://parall.ax/) - Digital agency.
 - [Exyte](https://exyte.com/) - Mobile, Blockchain, and AR/VR Development Agency.
 - [The Yak Collective](https://www.yakcollective.org/) - Network of over 300 independent consultants, coaches, and freelancers with varied technical and creative skills.

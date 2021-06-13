@@ -324,3 +324,4 @@
 - [static-get](https://github.com/minos-org/minos-static) - Portable binaries for Linux.
 - [Using signalfd and pidfd to make signals less painful under Linux (2021)](https://unixism.net/2021/02/making-signals-less-painful-under-linux/)
 - [io_uring By Example: An Article Series (2020)](https://unixism.net/2020/04/io-uring-by-example-article-series/)
+- [LK Embedded Kernel](https://github.com/littlekernel/lk) - SMP-aware kernel designed for small systems ported to a variety of platforms and CPU architectures.

@@ -245,6 +245,7 @@
 - [BangBang](https://github.com/JuliaFolds/BangBang.jl) - Implements functions whose name ends with !!. Those functions provide a uniform interface for mutable and immutable data structures.
 - [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) - Efficient transducers for Julia.
 - [ProtoStructs](https://github.com/BeastyBlacksmith/ProtoStructs.jl) - Easy prototyping of structs.
+- [FilePaths.jl](https://github.com/rofinn/FilePaths.jl) - Type based API for working with filesystem paths.
 
 ## Links
 

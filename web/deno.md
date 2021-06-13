@@ -105,3 +105,5 @@
 - [compression](https://github.com/deno-libs/compression) - Deno HTTP compression middleware.
 - [Deno PKG](https://denopkg.com/) - Use GitHub as a package registry for Deno. ([Code](https://github.com/denopkg/denopkg.com))
 - [AloeDB](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno.
+- [Dep](https://github.com/denodep/dep) - Deno dependency management tool.
+- [dectyl](https://github.com/kitsonk/dectyl) - APIs for testing Deno Deploy scripts using the Deno CLI.

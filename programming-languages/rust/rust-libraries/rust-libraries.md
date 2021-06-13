@@ -866,6 +866,7 @@
 - [static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting.
 - [async raft](https://github.com/async-raft/async-raft) - Implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [arrow-rs](https://github.com/apache/arrow-rs) - Native Rust implementation of Apache Arrow.
+- [gtmpl-rust](https://github.com/fiji-flo/gtmpl-rust) - Go text/template for rust.
 
 ## Cargo Plugins
 

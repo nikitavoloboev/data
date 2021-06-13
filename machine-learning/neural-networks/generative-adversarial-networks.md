@@ -115,3 +115,4 @@
 - [GAN_Metrics-Tensorflow](https://github.com/taki0112/GAN_Metrics-Tensorflow) - Simple Tensorflow implementation of metrics for GAN evaluation.
 - [Controllable Text-to-Image Generation (2019)](https://arxiv.org/abs/1909.07083) ([Code](https://github.com/mrlibw/ControlGAN))
 - [How can generative adversarial networks learn real-life distributions easily (2021)](https://www.microsoft.com/en-us/research/blog/how-can-generative-adversarial-networks-learn-real-life-distributions-easily/)
+- [GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings (2021)](https://arxiv.org/abs/2106.05609) ([Code](https://github.com/rusty1s/pyg_autoscale))
