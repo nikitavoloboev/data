@@ -97,3 +97,4 @@
 - [NEORV32 RISC-V Processor](https://github.com/stnolting/neorv32) - Size-optimized, customizable full-scale 32-bit RISC-V soft-core CPU and SoC written in platform-independent VHDL. ([HN](https://news.ycombinator.com/item?id=27343948))
 - [RISC-V Adventures: Lightening](https://ekaitz.elenq.tech/lightening.html) ([Part 2](https://ekaitz.elenq.tech/hex0.html))
 - [RISC-V Supervisor Binary Interface Spec](https://github.com/riscv/riscv-sbi-doc)
+- [George Hotz | twitchcore: a little RISC-V core | in Python | in Verilog | on FPGA (2021)](https://www.youtube.com/watch?v=camQ9QeBY9Q)

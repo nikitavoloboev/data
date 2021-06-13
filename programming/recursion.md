@@ -19,3 +19,4 @@
 - [Spirals, Snowflakes and Trees: Recursion in Pictures](http://learn.hfm.io/fractals.html) ([HN](https://news.ycombinator.com/item?id=25583631))
 - [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/) ([Lobsters](https://lobste.rs/s/kwebam/how_not_teach_recursion))
 - [How to get better at recursion (2021)](https://notes.eatonphil.com/practicing-recursion.html)
+- [Unifying Structured Recursion Schemes (2013)](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/URS.pdf)
