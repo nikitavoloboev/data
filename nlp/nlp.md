@@ -296,7 +296,7 @@
 - [TAble PArSing (TAPAS)](https://github.com/google-research/tapas) - End-to-end neural table-text understanding models.
 - [Replacing Bert Self-Attention with Fourier Transform: 92% Accuracy, 7X Faster (2021)](https://syncedreview.com/2021/05/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-19/)
 - [FNet: Mixing Tokens with Fourier Transforms (2021)](https://arxiv.org/abs/2105.03824) ([Tweet](https://twitter.com/ilyaeck/status/1393132270806966272))
-- [True Few-Shot Learning with Language Models (2021)](https://arxiv.org/abs/2105.11447) ([Tweet](https://twitter.com/EthanJPerez/status/1397015129506541570))
+- [True Few-Shot Learning with Language Models (2021)](https://arxiv.org/abs/2105.11447) ([Tweet](https://twitter.com/EthanJPerez/status/1397015129506541570)) ([Code](https://github.com/ethanjperez/true_few_shot))
 - [End-to-end NLP workflows from prototype to production](https://github.com/explosion/projects) ([Web](https://spacy.io/usage/projects))
 - [Haystack](https://github.com/deepset-ai/haystack) - End-to-end Python framework for building natural language search interfaces to data.
 - [PLMpapers](https://github.com/thunlp/PLMpapers) - Must-read Papers on pre-trained language models.
