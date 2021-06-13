@@ -58,3 +58,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Projects and channels that have decided to leave Freenode](https://github.com/siraben/freenode-exodus)
 - [Atheme IRC Services](https://github.com/atheme/atheme) - Set of services for IRC networks designed for large IRC networks with high scalability requirements. ([Web](https://atheme.github.io/atheme.html))
 - [hackint](https://hackint.org/) - Communication IRC network for the hacker community. ([GitHub](https://github.com/hackint/))
+- [Goodbye Freenode (2021)](https://nedbatchelder.com/blog/202106/goodbye_freenode.html) ([HN](https://news.ycombinator.com/item?id=27491967))
