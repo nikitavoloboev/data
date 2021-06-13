@@ -129,3 +129,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [BOX Photos](https://github.com/functionland/photos) - React-native(expo)+typescript application to replace Google Photos/Apple Photos, and give freedom in hosting your photos on any platform.
 - [On the Usefulness of Photography (2020)](https://simonsarris.substack.com/p/on-the-usefulness-of-photography)
 - [Fujifilm Film Simulation Recipes that will make you stop shooting RAW (2021)](https://www.youtube.com/watch?v=b1BOnOfSNPU)
+- [Who are some of your favorite photographers? (2021)](https://www.reddit.com/r/photography/comments/nyijta/who_are_some_of_your_favourite_photographers/)

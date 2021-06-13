@@ -80,3 +80,4 @@
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - SQL linter and auto-formatter for Humans. ([Web](https://www.sqlfluff.com/))
 - [SQLite Archiver](https://sqlite.org/sqlar/doc/trunk/README.md)
 - [How to Setup Replicated Highly Available SQLite with rqlite (2021)](https://lowendbox.com/blog/how-to-setup-replicated-highly-available-sqlite-with-rqlite/)
+- [Ask HN: What is the SQLite of nosql databases? (2021)](https://news.ycombinator.com/item?id=27490361)

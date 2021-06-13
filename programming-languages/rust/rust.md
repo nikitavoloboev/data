@@ -501,3 +501,4 @@
 - [Automatic Rust verification tools (2021)](https://alastairreid.github.io/automatic-rust-verification-tools-2021/)
 - [From Julia to Rust (2021)](https://miguelraz.github.io/blog/juliatorust/) ([HN](https://news.ycombinator.com/item?id=27407268))
 - [Crust of Rust - YouTube](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Video series to understand intermediate Rust concepts.
+- [Sizedness in Rust (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/sizedness-in-rust.md)
