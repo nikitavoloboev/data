@@ -40,3 +40,4 @@
 - [Craig Mod - YouTube](https://www.youtube.com/c/CraigMod/videos) - Videos on Japan, Walking, Photograph, Literature.
 - [Nihongo](https://nihongo-app.com/) - Modern Japanese dictionary for iPhone and iPad.
 - [Reasons Not to Move to Japan (2021)](https://www.youtube.com/watch?v=nfpWAqK0YZE)
+- [Why Japan fell behind in the tech industry (2021)](https://www.youtube.com/watch?v=GqMSWuSeDPA)
