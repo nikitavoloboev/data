@@ -842,6 +842,7 @@
 - [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go.
 - [NBIO](https://github.com/lesismal/nbio) - High-performance, non-blocking, event-driven, easy-to-use, least-dependency networking framework written in Go.
 - [ARPC](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
+- [Copier](https://github.com/jinzhu/copier) - Copy value from struct to struct and more.
 
 ## Links
 

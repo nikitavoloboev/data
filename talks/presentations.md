@@ -44,3 +44,4 @@
 - [MarkShow](https://mark.show/#) - Markdown to Slideshow. ([HN](https://news.ycombinator.com/item?id=26931098))
 - [Slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers. ([Web](https://sli.dev/))
 - [Slidev for VSCode](https://github.com/slidevjs/slidev-vscode)
+- [Slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.

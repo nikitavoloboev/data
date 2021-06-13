@@ -99,6 +99,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [KolibriOS](http://www.kolibrios.org/en/) - Tiny yet incredibly powerful and fast operating system. ([HN](https://news.ycombinator.com/item?id=27249075))
 - [Kerla](https://github.com/nuta/kerla) - New operating system kernel with Linux binary compatibility written in Rust.
 - [rustboot](https://github.com/haileysome/rustboot) - Tiny 32 bit kernel written in Rust.
+- [mycelium](https://github.com/hawkw/mycelium) - Hobby OS in Rust.
 
 ## Notes
 

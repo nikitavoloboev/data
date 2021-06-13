@@ -107,7 +107,7 @@
 - [C3 Language Compiler](https://github.com/c3lang/c3c) - C3 is a C-like language trying to be "an incremental improvement over C" rather than a whole new language.
 - [Coccinelle](https://github.com/coccinelle/coccinelle) - Allows programmers to easily write some complex style-preserving source-to-source transformations on C source code, like for instance to perform some refactorings.
 - [rcc](https://github.com/wbowling/rcc) - Basic c compiler written in rust.
-- [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+- [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html) ([Code](https://github.com/nlsandler/write_a_c_compiler))
 - [What is your favorite C programming trick?](https://stackoverflow.com/questions/599365/what-is-your-favorite-c-programming-trick) ([HN](https://news.ycombinator.com/item?id=25176531))
 - [Linus Torvalds' good taste argument for linked lists, explained](https://github.com/mkirchner/linked-list-good-taste) ([HN](https://news.ycombinator.com/item?id=25326552))
 - [DragonFFI](https://github.com/aguinet/dragonffi) - C Foreign Function Interface (FFI) library written in C++ and based on Clang/LLV.

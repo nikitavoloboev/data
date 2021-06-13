@@ -159,3 +159,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Big Mail](https://getbigmail.com/) - Upgrade your inbox.
 - [What's in email tracking links and pixels? (2021)](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/) ([HN](https://news.ycombinator.com/item?id=27446907))
 - [Automating Gmail with AppsScript (2020)](https://akshayshah.org/automating-gmail-with-appsscript/)
+- [Dada Mail](https://github.com/justingit/dada-mail) - Contemporary, mature and intuitive web-based e-mail list management system.

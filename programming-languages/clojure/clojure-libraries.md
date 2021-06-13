@@ -23,6 +23,7 @@
 - [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
 - [honeysql-postgres](https://github.com/nilenso/honeysql-postgres) - PostgreSQL extension for honeysql.
 - [HugSQL](https://github.com/layerware/hugsql) - Clojure library for embracing SQL. ([Docs](https://www.hugsql.org/))
+- [Pathom](https://github.com/wilkerlucio/pathom) - Clojure(script) engine for processing EQL requests.
 
 ## ML
 

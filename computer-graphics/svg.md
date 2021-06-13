@@ -87,3 +87,4 @@
 - [svgj](https://github.com/Jarred-Sumner/svgj) - Quickly converts .svg files into JSX.
 - [text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
 - [Blobs](https://github.com/g-harel/blobs) - Random blob generation and animation. ([Web](https://blobs.dev/))
+- [LunaSVG](https://github.com/sammycage/lunasvg) - Standalone SVG rendering library in C++.

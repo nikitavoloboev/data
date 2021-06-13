@@ -95,3 +95,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram messenger CLI](https://github.com/kenorb-contrib/tg)
 - [go-telegram-widget](https://github.com/wesleym/telegramwidget) - Data structure and associated utility functions for the Telegram login widget.
 - [tgcf](https://github.com/aahnik/tgcf) - Tool to automate custom telegram message forwarding.
+- [Botletter](https://github.com/GitbarPodcast/Botletter) - Turn your telegram community links into a newsletter.

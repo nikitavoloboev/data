@@ -867,6 +867,7 @@
 - [async raft](https://github.com/async-raft/async-raft) - Implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [arrow-rs](https://github.com/apache/arrow-rs) - Native Rust implementation of Apache Arrow.
 - [gtmpl-rust](https://github.com/fiji-flo/gtmpl-rust) - Go text/template for rust.
+- [rust-x86](https://github.com/gz/rust-x86) - Rust library to use x86 (amd64) specific functionality and registers.
 
 ## Cargo Plugins
 
