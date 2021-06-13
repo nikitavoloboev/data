@@ -20,3 +20,4 @@
 - [LiFePO4 Batteries On Boats](https://marinehowto.com/lifepo4-batteries-on-boats/)
 - [diyBMS v4](https://github.com/stuartpittaway/diyBMSv4) - Do it yourself battery management system for Lithium ion battery packs/cells.
 - [Australian aluminium-ion battery breakthrough (2021)](https://www.motoring.com.au/australian-aluminium-ion-battery-breakthrough-129973/) ([HN](https://news.ycombinator.com/item?id=27384158))
+- [Supercapacitors Go Hybrid for Increased Performance and Efficiency (2021)](https://www.techbriefs.com/component/content/article/tb/pub/features/technology-leaders/39272)
