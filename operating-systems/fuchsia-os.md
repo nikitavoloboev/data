@@ -15,3 +15,4 @@
 - [Fun facts as team member of Fuchsia project (2020)](https://twitter.com/marcaruel/status/1336722205636517891)
 - [Portable Fuchsia Emulator (FImage)](https://github.com/dahliaOS/fimage)
 - [Taking a look at Google's Fuchsia OS (2021)](https://www.youtube.com/watch?v=P76hq28dPxQ)
+- [A few thoughts on Fuchsia security (2021)](https://blog.cr0.org/2021/06/a-few-thoughts-on-fuchsia-security.html) ([HN](https://news.ycombinator.com/item?id=27487465))

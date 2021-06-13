@@ -491,4 +491,4 @@
 - [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/)
 - [Practical Deep Learning for Cloud, Mobile, and Edge (2019)](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/)
 - [Pretrained Encoders are All You Need (2021)](https://arxiv.org/abs/2106.05139) ([Code](https://github.com/PAL-ML/PEARL_v1))
-- [The Modern Mathematics of Deep Learning (2021)](https://arxiv.org/abs/2105.04026)
+- [The Modern Mathematics of Deep Learning (2021)](https://arxiv.org/abs/2105.04026) ([HN](https://news.ycombinator.com/item?id=27485574))
