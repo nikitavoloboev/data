@@ -188,6 +188,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [FreeScout](https://freescout.net/) - Free self-hosted Zendesk & Help Scout alternative.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
+- [Shove](https://github.com/pennersr/shove) - Asynchronous & persistent push notification service.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam Research. ([HN](https://news.ycombinator.com/item?id=26316793)) ([Web](https://athensresearch.github.io/athens/))
 - [RustDesk](https://rustdesk.com/) - Best open source remote desktop software. ([Code](https://github.com/rustdesk/rustdesk))
 - [Macrov](https://www.usemacro.com/) - Checklists, reimagined - supercharge your team’s processes.

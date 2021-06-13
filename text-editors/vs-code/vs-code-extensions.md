@@ -48,6 +48,7 @@ Below is a list of extensions I use.
 ## Utility
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
+- [Remote RepositoriesPreview](https://marketplace.visualstudio.com/items?itemName=github.remotehub) - Remotely browse and edit a GitHub repository. ([Article](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa))
 - [Dance](https://marketplace.visualstudio.com/items?itemName=gregoire.dance) - Kakoune-inspired key bindings for VSCode. ([Code](https://github.com/71/dance))
 - [Thinking in Data](https://marketplace.visualstudio.com/items?itemName=dynamicwebpaige.thinking-in-data) - VS Code extension pack to help users visualize, understand, and interact with data. ([Code](https://github.com/dynamicwebpaige/thinking-in-data))
 - [Live Frame](https://marketplace.visualstudio.com/items?itemName=jevakallio.vscode-live-frame) - Run your web app inside VS Code. ([Code](https://github.com/jevakallio/vscode-live-frame))

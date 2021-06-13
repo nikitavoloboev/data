@@ -337,6 +337,7 @@ Here are few more things I liked, design wise.
 - [Mark Hkr](https://marlom.dev/) ([Code](https://github.com/markhker/marlomdev))
 - [Craig Mulligan](https://hobochild.com/)
 - [Jamie McHale](https://www.jamiemchale.com/)
+- [Tania Allard](https://www.trallard.dev/)
 - [Cassie Evans](https://www.cassie.codes/) ([Code](https://github.com/cassieevans/personal-site-2019))
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Gadzhi Kharkharov](https://kkga.me/)
