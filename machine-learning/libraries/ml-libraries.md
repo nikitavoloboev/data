@@ -150,3 +150,4 @@
 - [SeqIO](https://github.com/google/seqio) - Task-based datasets, preprocessing, and evaluation for sequence models.
 - [OpenAI Python](https://github.com/openai/openai-python) - Provides convenient access to the OpenAI API from applications written in Python.
 - [Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku.
+- [deepC](https://github.com/ai-techsystems/deepC) - Vendor independent deep learning library, compiler and inference framework designed for small form-factor devices.

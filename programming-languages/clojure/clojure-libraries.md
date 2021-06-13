@@ -74,6 +74,7 @@
 - [Missionary](https://github.com/leonoel/missionary/) - Functional effect and streaming system for clojure and clojurescript.
 - [danzig](https://github.com/ribelo/danzig) - Easy-to-use transducer based data analysis tools.
 - [Editscript](https://github.com/juji-io/editscript) - Diff and patch for Clojure/Clojurescript data.
+- [Cybermonday](https://github.com/kiranshila/cybermonday) - Markdown as Clojure Data.
 
 ## Links
 

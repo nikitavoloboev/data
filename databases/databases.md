@@ -144,6 +144,8 @@
 - [Tarantool](https://www.tarantool.io/en/) - In-memory computing platform. ([Go client](https://github.com/FZambia/tarantool))
 - [EventQL](https://eventql.io/) - Database for large-scale event analytics. ([Code](https://github.com/eventql/eventql))
 - [OceanBase](https://github.com/oceanbase/oceanbase) - Distributed, banking suitable, open-source related database featuring high scalability and high compatibility. ([HN](https://news.ycombinator.com/item?id=27350108))
+- [Kvrocks](https://github.com/bitleak/kvrocks) - Distributed key value NoSQL database based on RocksDB and compatible with Redis protocol.
+- [UnQLite](https://github.com/symisc/unqlite) - Embedded NoSQL, Transactional Database Engine. ([Web](https://unqlite.org/))
 
 ## Tools
 

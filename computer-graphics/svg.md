@@ -86,3 +86,4 @@
 - [Boring Avatars](https://boringavatars.com/) - React library to generate custom avatars. ([Code](https://github.com/boringdesigners/boring-avatars)) ([HN](https://news.ycombinator.com/item?id=27311964))
 - [svgj](https://github.com/Jarred-Sumner/svgj) - Quickly converts .svg files into JSX.
 - [text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
+- [Blobs](https://github.com/g-harel/blobs) - Random blob generation and animation. ([Web](https://blobs.dev/))

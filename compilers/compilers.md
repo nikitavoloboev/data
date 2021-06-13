@@ -162,3 +162,4 @@
 - [Machine Learning in Compiler Optimization (2021)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-2.html)
 - [Noise-Aware Dynamical System Compilation for Analog Devices with Legno (2020)](https://www.youtube.com/watch?v=7PU-6cWQQkE)
 - [yair](https://github.com/sheredom/yair) - High-level compiler IR entirely written in Rust.
+- [Tiramisu](https://github.com/Tiramisu-Compiler/tiramisu) - Compiler for expressing fast and portable data parallel computations. ([Web](http://tiramisu-compiler.org/))
