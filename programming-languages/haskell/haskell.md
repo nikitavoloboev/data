@@ -289,3 +289,4 @@
 - [Haskell project template using Nix + Flakes + VSCode (HLS)](https://github.com/srid/haskell-template)
 - [Using dependent types to write proofs in Haskell (2021)](https://janmasrovira.gitlab.io/ascetic-slug/post/haskell-proofs/)
 - [Objects (2021)](https://jeremykhawaja.com/post/objects/)
+- [The Fixed Point: Recursion, Laziness, and Haskell's fix function (2021)](https://rebeccaskinner.net/posts/2021-06-09-getting-to-the-fixed-point.html)
