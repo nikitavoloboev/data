@@ -7,6 +7,7 @@
 
 ## Links
 
+- [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python. ([Article](https://engineering.fb.com/security/pysa/)) ([Web](https://pyre-check.org/)) ([HN](https://news.ycombinator.com/item?id=27107647))
 - [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
