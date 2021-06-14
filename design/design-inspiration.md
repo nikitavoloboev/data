@@ -15,6 +15,7 @@ Here are few more things I liked, design wise.
 - [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370))
 - [Apple](https://www.apple.com/)
 - [Primer](https://www.withprimer.com/)
+- [Prisma](https://www.prisma.io/)
 - [Supernotes](https://supernotes.app/)
 - [Mailbrew](https://mailbrew.com/)
 - [Fey](https://feyapp.com/)

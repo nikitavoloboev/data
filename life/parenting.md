@@ -38,3 +38,4 @@
 - [Alfie Kohn's research](https://www.alfiekohn.org/) - Writes and speaks widely on human behavior, education, and parenting.
 - [What’s the worst thing parents teach to their children? (2021)](https://twitter.com/paraschopra/status/1399722409704361984)
 - [Must stop kids being risk averse (2021)](https://twitter.com/anafabrega11/status/1400100413521764358)
+- [Books about parenting (2021)](https://www.reddit.com/r/suggestmeabook/comments/nz8qet/my_girlfriend_gave_birth_two_months_ago_so_i_need/)
