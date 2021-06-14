@@ -21,6 +21,7 @@
 - [zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and computer graphics.
 - [zld](https://github.com/kubkon/zld) - Zig's lld drop-in replacement.
 - [Mecha](https://github.com/Hejsil/mecha) - Parser combinator library for Zig.
+- [Dida](https://github.com/jamii/dida) - Differential dataflow for mere mortals.
 
 ## Links
 

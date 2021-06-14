@@ -28,3 +28,4 @@
 - [ClojureScript Macros (2019)](https://code.thheller.com/blog/shadow-cljs/2019/10/12/clojurescript-macros.html)
 - [Hot Reload in ClojureScript (2019)](https://code.thheller.com/blog/shadow-cljs/2019/08/25/hot-reload-in-clojurescript.html)
 - [Developing mobile digital key applications with ClojureScript (2021)](https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/)
+- [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides/#0) ([HN](https://news.ycombinator.com/item?id=27499904))
