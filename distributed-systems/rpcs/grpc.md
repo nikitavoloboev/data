@@ -49,3 +49,4 @@
 - [Why load balancing gRPC is tricky? (2020)](https://majidfn.com/blog/20201222-grpc-load-balancing/)
 - [ghz](https://github.com/bojand/ghz) - gRPC benchmarking and load testing tool. ([Web](https://ghz.sh/))
 - [gRPC vs REST: comparing APIs architectural styles (2021)](https://www.imaginarycloud.com/blog/grpc-vs-rest/)
+- [Lile](https://github.com/lileio/lile) - Easily generate gRPC services in Go.
