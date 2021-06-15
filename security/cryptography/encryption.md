@@ -35,3 +35,4 @@
 - [rage-wasm](https://github.com/kanru/rage-wasm) - WebAssembly wrapper of the rage encryption library.
 - [SchnorrGate](https://github.com/lducas/SchnorrGate) - Testing Schnorr's factoring Claim in Sage.
 - [On the Feasibility of Secure Traceability in End-to-End Encrypted Messaging (2021)](https://nadim.computer/posts/2021-06-02-traceability.html)
+- [Fully Homomorphic Encryption (FHE)](https://github.com/google/fully-homomorphic-encryption) - Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set. ([HN](https://news.ycombinator.com/item?id=27510902))
