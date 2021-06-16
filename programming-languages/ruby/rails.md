@@ -74,3 +74,4 @@
 - [The room where it happens: How Rails gets made (2021)](https://schneems.com/2021/05/12/the-room-where-it-happens-how-rails-gets-made/) ([Lobsters](https://lobste.rs/s/j1gmob/room_where_it_happens_how_rails_gets_made))
 - [How I organize my Rails apps (2021)](https://www.codewithjason.com/organize-rails-apps/)
 - [Cells](https://github.com/trailblazer/cells) - View components for Ruby and Rails.
+- [Designing and Launching New Features in Rails (2021)](https://blog.engineyard.com/ruby-unbundled-design-and-launch-features-in-rails)
