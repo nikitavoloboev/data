@@ -213,6 +213,7 @@
 - [Loukoum](https://github.com/ulule/loukoum) - Simple SQL Query Builder.
 - [tstorage](https://github.com/nakabonne/tstorage) - Fast time-series data storage library.
 - [Kiwi](https://github.com/sdslabs/kiwi) - Minimalistic in-memory key value store. ([Web](https://kiwi.sdslabs.co/))
+- [bun](https://github.com/uptrace/bun) - Simple and performant ORM for sql.DB. ([Web](https://bun.uptrace.dev/))
 
 ## ML
 

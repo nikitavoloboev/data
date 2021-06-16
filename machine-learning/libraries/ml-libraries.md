@@ -152,3 +152,4 @@
 - [Mesh Transformer JAX](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku.
 - [deepC](https://github.com/ai-techsystems/deepC) - Vendor independent deep learning library, compiler and inference framework designed for small form-factor devices.
 - [Dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++. ([Web](http://dlib.net/))
+- [Continuum](https://github.com/Continvvm/continuum) - Clean and simple data loading library for Continual Learning.

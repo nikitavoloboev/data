@@ -135,3 +135,4 @@
 - [Noise generator](https://noiseisnice.com/)
 - [UJI](https://doersino.github.io/uji/) - Minimalist generative art thing – press the buttons and play with the sliders. ([Code](https://github.com/doersino/uji))
 - [Manolo Ide's Processing Sketches](https://www.behance.net/manoloide) ([Code](https://github.com/manoloide/AllSketchs))
+- [generativepy](https://github.com/martinmcbride/generativepy) - Generative art and graphing library for creating images and animations.
