@@ -38,3 +38,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [VpnCloud](https://github.com/dswd/vpncloud) - Peer-to-peer VPN. ([Web](https://vpncloud.ddswd.de/)) ([HN](https://news.ycombinator.com/item?id=26678723))
 - [Everything VPN Is New Again (2021)](https://cacm.acm.org/magazines/2021/4/251363-everything-vpn-is-new-again/fulltext)
 - [Bitmask](https://bitmask.net/) - Open source application to provide easy and secure encrypted communication with a VPN. ([Code](https://github.com/leapcode/bitmask-vpn))
+- [Apple's iCloud+ “VPN” (2021)](https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html) ([HN](https://news.ycombinator.com/item?id=27527559))
