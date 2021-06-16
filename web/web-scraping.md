@@ -94,3 +94,4 @@
 - [Next.js Web Scraper Playground](https://github.com/johnpolacek/nextjs-scraper-playground) - Build and test your own web scraper APIs with Next.js API Routes and cheerio. ([Web](https://nextjs-scraper-playground.vercel.app/))
 - [Scrapers List](https://github.com/cassidoo/scrapers)
 - [Trafilatura](https://github.com/adbar/trafilatura) - Web scraping library and command-line tool for text discovery and extraction (main content, metadata, comments).
+- [Rarchy](https://rarchy.com/) - Visual Sitemaps & Website Planning Tool. ([HN](https://news.ycombinator.com/item?id=27509682))

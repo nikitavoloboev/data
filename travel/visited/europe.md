@@ -17,3 +17,4 @@
 - [The European System of Monopoly (2021)](https://thecounterbalance.substack.com/p/the-european-system-of-monopoly) ([HN](https://news.ycombinator.com/item?id=26989282))
 - [Europe's 70 startup unicorns (2021)](https://sifted.eu/articles/europe-unicorns-2021/)
 - [HN: Europe is now a corporate also-ran. Can it recover its footing? (2021)](https://news.ycombinator.com/item?id=27479428)
+- [Europe's Software Problem (2021)](https://berthub.eu/articles/posts/europes-software-problem/) ([HN](https://news.ycombinator.com/item?id=27513412))
