@@ -84,3 +84,4 @@
 - [PAIR – Google Research](https://research.google/teams/brain/pair/) - Human-centered research and design to make AI partnerships productive, enjoyable, and fair.
 - [The Impossibility of Automating Ambiguity (2021)](https://direct.mit.edu/artl/article/doi/10.1162/artl_a_00336/101872/The-Impossibility-of-Automating-Ambiguity) ([Tweet](https://twitter.com/tanepiper/status/1400562951162040321))
 - [A Breakdown of AI Chip Companies (2021)](https://geohot.github.io/blog/jekyll/update/2021/06/13/a-breakdown-of-ai-chip-companies.html)
+- [The Ethics of AI (2021)](https://www.vimarsh.info/blog/ethics-of-ai/)

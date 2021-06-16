@@ -6,7 +6,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 
 ## Interesting fonts
 
-- [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
+- [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) ([Code](https://github.com/googlefonts/Inconsolata))
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.

@@ -48,4 +48,4 @@
 - [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks! (2021)](https://blog.cloudflare.com/branch-predictor/)
 - [Don't Use Inline Assembly](https://gcc.gnu.org/wiki/DontUseInlineAsm)
 - [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
-- [Code in ARM Assembly: Registers explained (2021)](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/)
+- [Code in ARM Assembly: Registers explained (2021)](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/) ([HN](https://news.ycombinator.com/item?id=27526155))
