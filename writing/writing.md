@@ -237,3 +237,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [David Ogilvy: How to Write](https://twitter.com/dickiebush/status/1399879281652678664)
 - [How to Start a Novel](https://granta.com/notes-on-craft-jonathan-lee/) ([HN](https://news.ycombinator.com/item?id=27415122))
 - [UX writing: Using voice principles and a tone map to write consistently (2021)](https://uxdesign.cc/ux-writing-using-voice-principles-and-a-tone-map-to-write-consistently-4337570ee8f5)
+- [exegesis](https://exegesis.io/) - Writing app for capturing and sharing disorganized, non-linear, creative thinking.

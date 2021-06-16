@@ -73,3 +73,4 @@
 - [Genomics Reddit](https://www.reddit.com/r/genomics/)
 - [How to sequence your genome at home (2021)](http://blog.booleanbiotech.com/human-genome-at-home.html) ([HN](https://news.ycombinator.com/item?id=27422719))
 - [Ask HN: What's an interesting DIY genetic engineering project? (2021)](https://news.ycombinator.com/item?id=27475080)
+- [Illumina](https://www.illumina.com/) - Sequencing and array-based solutions for genetic research.

@@ -530,6 +530,7 @@
 - [Zoomtastic](https://github.com/Kirlovon/Zoomtastic) - Tiny image zoomer for web.
 - [Patronum](https://github.com/effector/patronum) - Effector operators library delivering modularity and convenience.
 - [Cabin](https://github.com/cabinjs/cabin) - Best JavaScript and Node.js logging service and logging npm package.
+- [Normalized Cache](https://github.com/boschni/normalized-cache) - Cache for storing normalized data.
 
 ## Links
 

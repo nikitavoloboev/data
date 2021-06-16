@@ -35,3 +35,4 @@
 - [EpiDope](https://github.com/mcollatz/EpiDope) - Prediction of B-cell epitopes from amino acid sequences using deep neural networks.
 - [Best practices to ensure robust investigation of circular RNAs: pitfalls and tips (2021)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246952)
 - [TraCeR](https://github.com/Teichlab/tracer) - Reconstruction of T cell receptor sequences from single-cell RNAseq data.
+- [Why Does Allergy Immunotherapy Work? (2021)](https://the-lagrangian.github.io/2021/06/14/why-does-allergy-immunotherapy-work.html)
