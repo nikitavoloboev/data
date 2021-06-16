@@ -404,3 +404,4 @@
 - [Clever vs Insightful Code (2021)](https://www.hillelwayne.com/post/cleverness/) ([Lobsters](https://lobste.rs/s/hvxks3/clever_vs_insightful_code)) ([HN](https://news.ycombinator.com/item?id=27418296))
 - [An incomplete list of skills senior engineers need, beyond coding (2021)](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) ([HN](https://news.ycombinator.com/item?id=27414443)) ([Tweet](https://twitter.com/skamille/status/1401591683108806665))
 - [Why bugs might feel “impossible” (2021)](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/) ([HN](https://news.ycombinator.com/item?id=27515944))
+- [Unreliability at Scale (2021)](https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1) ([HN](https://news.ycombinator.com/item?id=27524641))

@@ -56,7 +56,7 @@
 - [AlaSQL](https://github.com/agershun/alasql) - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL).
 - [RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers (2020)](https://arxiv.org/abs/1911.04942) ([Code](https://github.com/microsoft/rat-sql))
 - [Some SQL Tricks of an Application DBA (2020)](https://hakibenita.com/sql-tricks-application-dba) ([Lobsters](https://lobste.rs/s/yqd6bi/some_sql_tricks_application_dba))
-- [Scaling relational SQL databases (2020)](https://stribny.name/blog/2020/07/scaling-relational-sql-databases)
+- [Scaling relational SQL databases (2020)](https://stribny.name/blog/2020/07/scaling-relational-sql-databases) ([HN](https://news.ycombinator.com/item?id=27505267))
 - [The Troublesome Active Record Pattern (2020)](http://calpaterson.com/activerecord.html) ([HN](https://news.ycombinator.com/item?id=22615414))
 - [Implementing subqueries in go-mysql-server (2020)](https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/)
 - [We Can Do Better Than SQL (2019)](https://edgedb.com/blog/we-can-do-better-than-sql/) ([Lobsters](https://lobste.rs/s/uwefle/we_can_do_better_than_sql)) ([HN](https://news.ycombinator.com/item?id=24106608))
