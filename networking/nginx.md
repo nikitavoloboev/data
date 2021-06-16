@@ -40,3 +40,4 @@
 - [Nginx Cheatsheet (2021)](https://vishnu.hashnode.dev/nginx-cheatsheet)
 - [The NGINX Handbook (2021)](https://www.freecodecamp.org/news/the-nginx-handbook/)
 - [Nice nginx features for developers (2021)](https://alex.dzyoba.com/blog/nginx-features-for-developers/) ([Lobsters](https://lobste.rs/s/kewdvx/nice_nginx_features_for_developers))
+- [Nginx tuning tips: TLS/SSL HTTPS - Improved TTFB/latency (2021)](https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/)
