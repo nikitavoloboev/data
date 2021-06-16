@@ -305,3 +305,4 @@
 - [MLP GPT - Jax](https://github.com/lucidrains/mlp-gpt-jax) - GPT, made only of MLPs, in Jax.
 - [Few-Shot Question Answering by Pretraining Span Selection (2021)](https://arxiv.org/abs/2101.00438) ([Code](https://github.com/oriram/splinter))
 - [Neural Extractive Search (2021)](https://arxiv.org/abs/2106.04612) ([Demo](https://spike.neural-sim.apps.allenai.org/datasets))
+- [Hugging Face NLP Course](https://huggingface.co/course/)

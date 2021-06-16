@@ -381,3 +381,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Suggest Me A Book Reddit](https://www.reddit.com/r/suggestmeabook/)
 - [Writing a Technical Book (2021)](https://andregarzia.com/2021/04/writing-a-technical-book.html)
 - [Unbuch](https://github.com/mrtzh/unbuch) - Compile markdown into an HTML and PDF book based on Pandoc.
+- [So You Want to Write a Book](https://ed2592press.com/author/)

@@ -201,3 +201,5 @@
 - [How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL (2021)](https://vercel.com/guides/nextjs-prisma-postgres)
 - [Full Stack Development with Next.js and Supabase (2021)](https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/)
 - [Playwright Next.js Example](https://github.com/dferber90/nextjs-playwright-example)
+- [Next.js 11 (2021)](https://nextjs.org/blog/next-11) ([HN](https://news.ycombinator.com/item?id=27517457))
+- [Next.js Live](https://nextjs.org/live) - Code in the browser. With your team. ([HN](https://news.ycombinator.com/item?id=27517440))
