@@ -242,3 +242,4 @@
 - [React 18 Working Group](https://github.com/reactwg/react-18) ([HN](https://news.ycombinator.com/item?id=27438400)) ([Lobsters](https://lobste.rs/s/eqqsqi/plan_for_react_18))
 - [New Suspense SSR Architecture in React 18 (2021)](https://github.com/reactwg/react-18/discussions/37)
 - [Intermediate React.js Coding Interview (ft. Clément Mihailescu) (2021)](https://www.youtube.com/watch?v=6s0OVdoo4Q4)
+- [Utopia](https://utopia.app/) - Visual design tool for React, with code as the source of truth. ([HN](https://news.ycombinator.com/item?id=27516212))

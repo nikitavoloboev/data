@@ -86,3 +86,4 @@
 - [Icônes](https://icones.js.org/) - Icon Explorer with Instant searching. ([Code](https://github.com/antfu/icones))
 - [Iconify](https://github.com/iconify/iconify) - Universal icon framework. ([Web](https://iconify.design/))
 - [Styled Icons](https://styled-icons.js.org/) - Styled Components icon library. ([Code](https://github.com/styled-icons/styled-icons))
+- [Health Icons](https://healthicons.org/)
