@@ -67,3 +67,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [The next ten years (2021)](https://world.hey.com/joaoqalves/the-next-ten-years-5b776dac)
 - [What do we do now that people 50 years from now will think is crazy and unhealthy (2021)](https://twitter.com/Solar_Trex/status/1394454744945491968)
 - [Predictions of the future (2021)](https://blog.alexmaccaw.com/predictions-of-the-future/)
+- [Future from a16z](https://future.a16z.com/) - Understand the Future, How Tech Shapes It, and How We Build It. ([HN](https://news.ycombinator.com/item?id=27515710))

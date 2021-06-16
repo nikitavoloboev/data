@@ -232,6 +232,7 @@
 - [perf-event](https://github.com/jimblandy/perf-event) - Rust interface to Linux performance monitoring.
 - [RedBPF](https://github.com/ingraind/redbpf) - Rust library for building and running BPF/eBPF modules.
 - [iou](https://github.com/ringbahn/iou) - Rust interface to io_uring.
+- [Aya](https://github.com/alessandrod/aya) - eBPF library for the Rust programming language, built with a focus on developer experience and operability. ([Article](https://confused.ai/posts/announcing-aya))
 
 ## ML
 
