@@ -356,3 +356,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Joplin](https://joplinapp.org/) - Open source note taking and to-do application with synchronisation capabilities. ([Code](https://github.com/laurent22/joplin))
 - [Dedicated hardware for note taking](https://twitter.com/jessmartin/status/1365290998243409922)
 - [Nota](https://nota.md/) - Pro writing app designed for local Markdown files. ([Reddit](https://www.reddit.com/r/macapps/comments/o0gu2j/nota_pro_writing_app_designed_for_local_markdown/))
+- [Note Taking in 2021](http://blog.dornea.nu/2021/06/13/note-taking-in-2021/) ([HN](https://news.ycombinator.com/item?id=27513008))
