@@ -10,3 +10,7 @@
 ## Произношение
 
 - [Скороговорка «Лигурия»](http://mnemo.ua/blog/skorogovorka-liguriya-slozhno-zapomnit.html)
+
+## Links
+
+- [Балабоба](https://yandex.ru/lab/yalm)

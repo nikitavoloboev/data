@@ -503,3 +503,4 @@
 - [Crust of Rust - YouTube](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa) - Video series to understand intermediate Rust concepts.
 - [Sizedness in Rust (2020)](https://github.com/pretzelhammer/rust-blog/blob/master/posts/sizedness-in-rust.md)
 - [Untapped potential in Rust's type system (2021)](https://www.jakobmeier.ch/blogging/Untapped-Rust.html) ([HN](https://news.ycombinator.com/item?id=27490596))
+- [Exploring ways to make async Rust easier (2021)](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/)

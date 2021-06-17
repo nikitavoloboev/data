@@ -84,3 +84,4 @@
 - [DevOps Cheat Sheets](https://lzone.de/) ([Code](https://github.com/lwindolf/lzone-cheat-sheets))
 - [MegaEase](https://www.megaease.com/) - High Performance Software Architecture. ([GitHub](https://github.com/megaease))
 - [Erda](https://github.com/erda-project/erda) - Enterprise-grade application building, deploying, monitoring platform.
+- [DevOps Engineering Course for Beginners (2021)](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
