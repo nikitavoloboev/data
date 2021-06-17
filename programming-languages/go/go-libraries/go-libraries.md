@@ -846,6 +846,7 @@
 - [ARPC](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [Copier](https://github.com/jinzhu/copier) - Copy value from struct to struct and more.
 - [PubSub](https://github.com/lileio/pubsub) - Publish & Subscribe library, with pluggable providers and middleware for Go.
+- [Jettison](https://github.com/wI2L/jettison) - Fast and flexible JSON encoder for Go.
 
 ## Links
 

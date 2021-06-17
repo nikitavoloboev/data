@@ -62,3 +62,4 @@
 - [Replit - Why We Switched From Webpack To Vite (2021)](https://blog.replit.com/vite)
 - [Why we’ve created an accessibility manual – and how you can help shape it (2021)](https://accessibility.blog.gov.uk/2021/05/27/why-weve-created-an-accessibility-manual-and-how-you-can-help-shape-it/)
 - [The perfect link](https://a11y-collective.com/blog/the-perfect-link/)
+- [A Complete Guide To Accessibility Tooling (2021)](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
