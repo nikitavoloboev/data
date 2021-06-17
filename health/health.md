@@ -49,3 +49,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Ro](https://ro.co/) - Healthcare technology company building a patient-centric healthcare system.
 - [Clean Air for Cognition](https://www.reddit.com/r/Nootropics/comments/niov31/clean_air_for_cognition/)
 - [This Is Your Brain On Stale Air (2019)](https://www.youtube.com/watch?v=1Nh_vxpycEA)
+- [Dr. Peter Attia on Longevity Drugs, Alzheimer’s Disease, and the 3 Most Important Levers to Pull (2021)](https://overcast.fm/+KebuB8q28)

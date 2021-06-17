@@ -186,6 +186,7 @@
 - [Supabase Grid](https://github.com/supabase/grid) - React component to display your PostgreSQL table data.
 - [threaded-comments](https://github.com/lawrencecchen/threaded-comments) - Reddit styled threaded comments using Supabase and Next.js.
 - [Nano Stores](https://github.com/ai/nanostores) - Tiny (152 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores.
+- [React Lazy Hydration](https://github.com/hadeeb/react-lazy-hydration) - Lazy Hydration for Server Rendered React Components.
 
 ## Links
 
