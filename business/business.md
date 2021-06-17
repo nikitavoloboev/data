@@ -91,3 +91,4 @@ Learning to build [startups](startups/startups.md).
 - [The six principles of lifestyle businesses (2021)](https://blog.alexmaccaw.com/the-six-principles-of-lifestyle-businesses/)
 - [Businesses at Work (2021)](https://www.okta.com/sites/default/files/2021-03/Businesses-at-Work-2021.pdf)
 - [Actionable Steps for Building the Right Business with Arvid Kahl (2021)](https://www.indiehackers.com/podcast/212-arvid-kahl)
+- [What happens in an IPO? – A beginner's guide (2021)](https://www.simplanations.in/p/ipo-1) ([HN](https://news.ycombinator.com/item?id=27538095))

@@ -154,3 +154,4 @@
 - [Dlib](https://github.com/davisking/dlib) - Toolkit for making real world machine learning and data analysis applications in C++. ([Web](http://dlib.net/))
 - [Continuum](https://github.com/Continvvm/continuum) - Clean and simple data loading library for Continual Learning.
 - [Smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine.
+- [AugLy](https://github.com/facebookresearch/AugLy) - Data augmentations library for audio, image, text, and video.

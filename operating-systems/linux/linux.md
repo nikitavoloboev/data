@@ -325,3 +325,4 @@
 - [Using signalfd and pidfd to make signals less painful under Linux (2021)](https://unixism.net/2021/02/making-signals-less-painful-under-linux/)
 - [io_uring By Example: An Article Series (2020)](https://unixism.net/2020/04/io-uring-by-example-article-series/)
 - [LK Embedded Kernel](https://github.com/littlekernel/lk) - SMP-aware kernel designed for small systems ported to a variety of platforms and CPU architectures.
+- [io_uring is not an event system (2021)](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)

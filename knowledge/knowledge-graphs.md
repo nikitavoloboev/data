@@ -78,3 +78,5 @@
 - [Language Models are Open Knowledge Graphs (2020)](https://arxiv.org/abs/2010.11967) ([Code](https://github.com/theblackcat102/language-models-are-knowledge-graphs-pytorch))
 - [KgBase](https://www.kgbase.com/) - No-code knowledge graphs.
 - [Re-evaluation of Knowledge Graph Completion Methods (2020)](https://github.com/svjan5/kg-reeval)
+- [Query Embedding on Hyper-relational Knowledge Graphs (2021)](https://arxiv.org/abs/2106.08166) ([Code](https://github.com/DimitrisAlivas/StarQE))
+- [Improving Hyper-Relational Knowledge Graph Completion (2021)](https://arxiv.org/abs/2104.08167)

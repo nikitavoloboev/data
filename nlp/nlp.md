@@ -306,3 +306,4 @@
 - [Few-Shot Question Answering by Pretraining Span Selection (2021)](https://arxiv.org/abs/2101.00438) ([Code](https://github.com/oriram/splinter))
 - [Neural Extractive Search (2021)](https://arxiv.org/abs/2106.04612) ([Demo](https://spike.neural-sim.apps.allenai.org/datasets))
 - [Hugging Face NLP Course](https://huggingface.co/course/)
+- [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.

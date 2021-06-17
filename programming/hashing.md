@@ -39,3 +39,4 @@
 - [Consistent Hashing: Algorithmic Tradeoffs (2018)](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 - [How to implement a hash table (in C) (2021)](https://benhoyt.com/writings/hash-table-in-c/) ([HN](https://news.ycombinator.com/item?id=26590234))
 - [Live-coding a linked hash map in Rust (2018)](https://www.youtube.com/watch?v=k6xR2kf9hlA)
+- [Representing SHA-256 Hashes As Avatars (2021)](https://francoisbest.com/posts/2021/hashvatars) ([HN](https://news.ycombinator.com/item?id=26861728))

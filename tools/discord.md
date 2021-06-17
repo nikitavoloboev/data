@@ -46,3 +46,4 @@
 - [Disboard](https://disboard.org/) - Public Discord Server List.
 - [Disboard Scraper](https://github.com/crock/disboard-scraper) - Discord Server List Scraper.
 - [Discord Backup](https://github.com/Androz2091/discord-backup) - Powerful Node.js module that allows you to easily manage discord server backups.
+- [discord-sdk](https://github.com/EmbarkStudios/discord-sdk) - Open implementation of the Discord Game SDK in Rust.

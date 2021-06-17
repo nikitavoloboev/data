@@ -152,3 +152,4 @@
 - [Rotations with quaternions (2021)](https://imadr.github.io/rotations-with-quaternions/)
 - [Implementing strict three-point perspective](https://pomax.github.io/three-point-perspective/) ([HN](https://news.ycombinator.com/item?id=27407691))
 - [IconVG](https://github.com/google/iconvg) - Compact, binary format for simple vector graphics. ([HN](https://news.ycombinator.com/item?id=27404301))
+- [Asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language. ([Web](https://asymptote.sourceforge.io/))

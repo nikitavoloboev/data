@@ -37,3 +37,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Drugs Reddit Knowledge Base](https://www.reddit.com/r/Drugs/wiki/knowledgebase)
 - [Drugs Reddit Wiki](https://www.reddit.com/r/Drugs/wiki/index)
 - [Drug Users Use a Lot of Drugs (2021)](https://astralcodexten.substack.com/p/drug-users-use-a-lot-of-drugs) ([HN](https://news.ycombinator.com/item?id=27451914))
+- [Open Targets Platform](https://platform.opentargets.org/) - Comprehensive tool that supports systematic identification and prioritisation of potential therapeutic drug targets. ([Code](https://github.com/opentargets/platform-app))
