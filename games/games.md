@@ -42,6 +42,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [PlayingCards.io](https://playingcards.io/) - Virtual deck of cards using just a browser.
 - [yare.io](https://yare.io/) - Game where you control units with JavaScript. ([HN](https://news.ycombinator.com/item?id=27365961))
 - [Evolve](https://pmotschmann.github.io/Evolve/) - Incremental game about evolving a civilization. ([Code](https://github.com/pmotschmann/Evolve))
+- [Wayfinder](https://wayfinder.nfb.ca/) - Relaxing 'art game' in the browser. ([HN](https://news.ycombinator.com/item?id=27532068))
 
 ## Awesome OSS games
 

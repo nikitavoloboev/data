@@ -131,6 +131,7 @@
 - [Pinterest's Growth experiments (2021)](https://twitter.com/searchbrat/status/1400455348897521672)
 - [70 marketing lessons](https://twitter.com/heyblake/status/1402048227025690624)
 - [150 Places to Post Your Startup/Product](https://breue.com/places_to_post_startup)
+- [Ask HN: What is your “sales stack”? (2021)](https://news.ycombinator.com/item?id=27525819)
 
 ## Images
 

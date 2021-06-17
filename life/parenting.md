@@ -40,3 +40,4 @@
 - [Must stop kids being risk averse (2021)](https://twitter.com/anafabrega11/status/1400100413521764358)
 - [Books about parenting (2021)](https://www.reddit.com/r/suggestmeabook/comments/nz8qet/my_girlfriend_gave_birth_two_months_ago_so_i_need/)
 - [What’re some clever ways you can help your kid out financially?](https://twitter.com/nateliason/status/1404441187143110660)
+- [Kids need freedom, too (2021)](https://www.persuasion.community/p/kids-need-freedom-too) ([HN](https://news.ycombinator.com/item?id=27530365))

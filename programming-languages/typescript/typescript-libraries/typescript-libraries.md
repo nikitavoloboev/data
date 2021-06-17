@@ -120,6 +120,7 @@
 - [mswjs/data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
 - [WolfECS](https://github.com/EnderShadow8/wolf-ecs) - Powerful, lightweight Entity Component System framework written in Typescript.
 - [typed-regex](https://github.com/phenax/typed-regex) - TypeScript library for type-safe regex for named capture groups.
+- [JSON bond](https://github.com/kossnocorp/json-bond) - Type-safe JSON strings.
 
 ## Links
 

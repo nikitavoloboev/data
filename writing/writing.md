@@ -238,3 +238,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [How to Start a Novel](https://granta.com/notes-on-craft-jonathan-lee/) ([HN](https://news.ycombinator.com/item?id=27415122))
 - [UX writing: Using voice principles and a tone map to write consistently (2021)](https://uxdesign.cc/ux-writing-using-voice-principles-and-a-tone-map-to-write-consistently-4337570ee8f5)
 - [exegesis](https://exegesis.io/) - Writing app for capturing and sharing disorganized, non-linear, creative thinking.
+- [Master copywriting (2021)](https://twitter.com/alexgarcia_atx/status/1405155705477156866)
