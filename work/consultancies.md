@@ -188,6 +188,7 @@
 - [Public Digital](https://public.digital/)
 - [Fueled](https://fueled.com/) - Mobile App Development & Digital Transformation Company.
 - [Imaginary Cloud](https://web.imaginarycloud.com/) - Software Development & UI/UX Design.
+- [TypeFox](https://www.typefox.io/)
 
 ## Notes
 

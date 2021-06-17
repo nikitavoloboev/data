@@ -131,3 +131,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
 - [SomaFM](https://somafm.com/) - Commercial-free, Listener-supported Radio.
 - [Moving my home media library from iTunes to Jellyfin and Infuse (2021)](https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse) ([HN](https://news.ycombinator.com/item?id=27462767))
+- [A beginner’s guide to modern art jazz](https://lukemuehlhauser.com/a-beginners-guide-to-modern-art-jazz/)
+- [A Beginner’s Guide to Miles Davis](https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/) ([HN](https://news.ycombinator.com/item?id=27525047))

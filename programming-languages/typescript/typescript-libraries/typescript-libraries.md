@@ -122,6 +122,7 @@
 - [typed-regex](https://github.com/phenax/typed-regex) - TypeScript library for type-safe regex for named capture groups.
 - [JSON bond](https://github.com/kossnocorp/json-bond) - Type-safe JSON strings.
 - [Cockatiel](https://github.com/connor4312/cockatiel) - Resilience and transient-fault-handling library.
+- [ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate Zod schemas from Typescript types/interfaces.
 
 ## Links
 

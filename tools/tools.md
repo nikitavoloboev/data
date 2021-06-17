@@ -243,6 +243,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Eraser](https://www.tryeraser.com/home) - Make Team Meetings Visual.
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
 - [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
+- [Svix](https://www.svix.com/) - Webhooks as a Service. ([HN](https://news.ycombinator.com/item?id=27528202))
 - [Luma Profile](https://lu.ma/new) - Best Homepage for Creators. Show off your work, collect email addresses, and sell products.
 - [Butter](https://butter.us/) - Workshops as smooth as butter.
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content with just one link.

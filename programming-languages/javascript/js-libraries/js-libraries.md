@@ -532,6 +532,7 @@
 - [Patronum](https://github.com/effector/patronum) - Effector operators library delivering modularity and convenience.
 - [Cabin](https://github.com/cabinjs/cabin) - Best JavaScript and Node.js logging service and logging npm package.
 - [Normalized Cache](https://github.com/boschni/normalized-cache) - Cache for storing normalized data.
+- [itty router](https://github.com/kwhitley/itty-router) - Router, designed for Express.js-like routing within Cloudflare Workers (or anywhere else).
 
 ## Links
 

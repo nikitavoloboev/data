@@ -246,6 +246,7 @@
 - [Transducers.jl](https://github.com/JuliaFolds/Transducers.jl) - Efficient transducers for Julia.
 - [ProtoStructs](https://github.com/BeastyBlacksmith/ProtoStructs.jl) - Easy prototyping of structs.
 - [FilePaths.jl](https://github.com/rofinn/FilePaths.jl) - Type based API for working with filesystem paths.
+- [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) - Provides a rigorous data model using Julia structures to enable power systems analysis and modeling.
 
 ## Links
 
