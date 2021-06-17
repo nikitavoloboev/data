@@ -51,3 +51,4 @@
 - [Google Pub/Sub Lite for Kafka Users (2021)](https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5)
 - [Teach Yourself Apache Kafka and Python with a Jupyter Notebook](https://aiven.io/blog/teach-yourself-apache-kafka-and-python-with-a-jupyter-notebook)
 - [Confluent Hub](https://www.confluent.io/hub/) - Discover Kafka connectors and more.
+- [Gently Down the Stream - A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/)

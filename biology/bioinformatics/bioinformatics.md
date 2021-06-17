@@ -126,3 +126,7 @@
 - [Dabble](https://github.com/Eigenstate/dabble) - Membrane protein builder and parameterizer.
 - [ffq](https://github.com/pachterlab/ffq) - Fetch run information from the European Nucleotide Archive (ENA). ([Tweet](https://twitter.com/sinabooeshaghi/status/1396920733918322689))
 - [MolPAL](https://github.com/coleygroup/molpal) - Molecular Pool-based Active Learning.
+- [Delocalization-Induced Molecular Equality (2021)](https://depth-first.com/articles/2021/06/17/delocalization-induced-molecular-equality/)
+- [Molecular Assembly Index (2021)](https://depth-first.com/articles/2021/06/04/molecular-assembly-index/)
+- [Depth-First Blog](https://depth-first.com/)
+- [ChemCore](https://github.com/rapodaca/chemcore) - Cheminformatics toolkit for Rust. ([Article](https://depth-first.com/articles/2020/06/01/chemcore-a-cheminformatics-toolkit-for-rust/))

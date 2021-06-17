@@ -85,3 +85,4 @@
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) - Comprehensive catalog of quantum algorithms.
 - [Mitiq](https://github.com/unitaryfund/mitiq) - Python toolkit for implementing error mitigation techniques on quantum computers.
 - [What makes quantum computing so hard to explain? (2021)](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/) ([HN](https://news.ycombinator.com/item?id=27439839))
+- [The Ghost in the Quantum Turing Machine](https://www.scottaaronson.com/papers/giqtm3.pdf)

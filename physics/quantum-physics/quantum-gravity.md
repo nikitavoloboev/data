@@ -10,3 +10,4 @@
 - [Quantum Gravity | The Search For a Theory of Everything (2020)](https://www.youtube.com/watch?v=d-86tNCSJsg)
 - [How To Test Quantum Gravity (2020)](https://www.youtube.com/watch?v=HKtFU2Pxnm0)
 - [Physical Warp Drives (2021)](https://iopscience.iop.org/article/10.1088/1361-6382/abdf6e) ([HN](https://news.ycombinator.com/item?id=27314827))
+- [Mathematicians Prove 2D Version of Quantum Gravity Really Works (2021)](https://www.quantamagazine.org/mathematicians-prove-2d-version-of-quantum-gravity-really-works-20210617/) ([Reddit](https://www.reddit.com/r/Physics/comments/o1zso1/mathematicians_prove_2d_version_of_quantum/))

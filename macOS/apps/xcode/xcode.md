@@ -69,3 +69,4 @@
 - [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) - Easiest way to install and switch between multiple versions of Xcode.
 - [InjectionIII](https://github.com/johnno1962/InjectionIII) - Re-write of Injection for Xcode in (mostly) Swift.
 - [Xcode Tips](https://xcode-tips.github.io/) - Community-run website for documenting Xcode Tips. ([Code](https://github.com/Xcode-Tips/xcode-tips.github.io))
+- [What’s new in Xcode 13? (2021)](https://www.hackingwithswift.com/articles/236/whats-new-in-xcode-13)
