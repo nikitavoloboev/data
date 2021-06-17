@@ -90,3 +90,4 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: Where would you incorporate in 2021?](https://news.ycombinator.com/item?id=27288453)
 - [The six principles of lifestyle businesses (2021)](https://blog.alexmaccaw.com/the-six-principles-of-lifestyle-businesses/)
 - [Businesses at Work (2021)](https://www.okta.com/sites/default/files/2021-03/Businesses-at-Work-2021.pdf)
+- [Actionable Steps for Building the Right Business with Arvid Kahl (2021)](https://www.indiehackers.com/podcast/212-arvid-kahl)

@@ -30,6 +30,7 @@
 - [Paradox Interactive](https://www.paradoxplaza.com/)
 - [Big Time Studios](https://bigtime.gg/)
 - [No More Robots](https://nomorerobots.io/)
+- [Resolution Games](https://www.resolutiongames.com/)
 
 ## Devs
 

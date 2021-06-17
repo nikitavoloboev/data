@@ -218,3 +218,4 @@
 - [Benzene](https://github.com/hoangvvo/benzene) - Fast, minimal, agnostic GraphQL Libraries. ([Docs](https://benzene.vercel.app/))
 - [GraphQL Conf](https://graphqlconf.org/) ([HN](https://news.ycombinator.com/item?id=27343280))
 - [GraphCDN](https://graphcdn.io/) - GraphQL CDN with edge caching and analytics. ([HN](https://news.ycombinator.com/item?id=27536878))
+- [Using GraphQL Code Generator For Type-Safe GraphQL Clients (2021)](https://dev.to/gethackteam/using-graphql-code-generator-for-type-safe-graphql-clients-1724)

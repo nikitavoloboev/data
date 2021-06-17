@@ -32,3 +32,4 @@
 - [Cardano Updates](https://cardanoupdates.com/)
 - [Guide: How to Build a Cardano Stake Pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
 - [Essential Cardano list](https://github.com/input-output-hk/essential-cardano)
+- [Charles Hoskinson: Cardano (2021)](https://overcast.fm/+eZyBb8vOc)

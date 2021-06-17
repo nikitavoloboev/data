@@ -203,3 +203,4 @@
 - [Denotational hardware design in Agda](https://github.com/conal/agda-hardware)
 - [Zero to ASIC Course](https://www.zerotoasiccourse.com/) - Learn how to make your own computer chips. ([YouTube](https://www.youtube.com/c/ZeroToASIC/videos))
 - [Cores that don’t count (2021)](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf) ([Tweet](https://twitter.com/supersat/status/1399877794834747395)) ([HN](https://news.ycombinator.com/item?id=27378624))
+- [Khadas](https://www.khadas.com/) - Shenzhen based hardware manufacturer.
