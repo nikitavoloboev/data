@@ -153,3 +153,4 @@
 - [SwiftUI and Core Data: The MVVM Way (2021)](https://betterprogramming.pub/swiftui-and-coredata-the-mvvm-way-ab9847cbff0f)
 - [Getting started with SwiftUI (2021)](https://paulstamatiou.com/getting-started-with-swiftui/)
 - [Demystify SwiftUI (2021)](https://developer.apple.com/videos/play/wwdc2021/10022/)
+- [Mastering List in SwiftUI (2021)](https://swiftwithmajid.com/2021/06/16/mastering-list-in-swiftui/)

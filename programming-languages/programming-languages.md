@@ -59,7 +59,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [NEAL](https://github.com/uber/NEAL) - Language-independent code analysis tool that aims to enable more people to write quality enforcement rules.
 - [Most(ly dead) Influential Programming Languages (2020)](https://hillelwayne.com/post/influential-dead-languages/) ([HN](https://news.ycombinator.com/item?id=22690229))
 - [Sam Tobin-Hochstadt's research](http://samth.github.io/)
-- [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack (everything above the processor and OS kernel).
+- [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack (everything above the processor and OS kernel). ([Mu's neighborhood](http://akkartik.name/post/neighborhood)) ([Lobsters](https://lobste.rs/s/l74gwy/mu_s_neighborhood))
 - [Mu: A minimal hobbyist computing stack (2019)](http://akkartik.name/post/mu-2019-1)
 - [Bitsy](https://github.com/apbendi/bitsyspec) - Best language to implement when writing your first compiler or interpreter.
 - [codespan-reporting](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.

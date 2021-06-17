@@ -258,3 +258,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ask HN: Best way to learn networking fundamentals quickly (2021)](https://news.ycombinator.com/item?id=27398061)
 - [WTF is my IP?](https://wtfismyip.com/) ([Code](https://github.com/wtfismyip/wtfismyip))
 - [Intercepting Zoom's encrypted data with BPF (2020)](https://confused.ai/posts/intercepting-zoom-tls-encryption-bpf-uprobes)
+- [Lucid: A Language for Control in the Data Plane (2021)](https://www.cs.princeton.edu/~jrex/papers/lucid21.pdf)

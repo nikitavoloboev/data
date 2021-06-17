@@ -86,3 +86,4 @@
 - [Reverse Engineering an Unknown Microcontroller](https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller) ([HN](https://news.ycombinator.com/item?id=27128531))
 - [Nightmare](https://github.com/guyinatuxedo/nightmare) - Intro to binary exploitation / reverse engineering course based around ctf challenges.
 - [Miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python.
+- [Pwning Home Router - Linksys WRT54G (2021)](https://elongl.github.io/exploitation/2021/05/30/pwning-home-router.html) ([Lobsters](https://lobste.rs/s/c9994a/pwning_home_router_linksys_wrt54g))

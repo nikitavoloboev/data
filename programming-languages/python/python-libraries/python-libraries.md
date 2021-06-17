@@ -92,7 +92,7 @@
 - [sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy.
 - [marshmallow](https://github.com/marshmallow-code/marshmallow) - Lightweight library for converting complex objects to and from simple Python datatypes. ([Docs](https://marshmallow.readthedocs.io/en/stable/))
 - [marshmallow-dataclass](https://github.com/lovasoa/marshmallow_dataclass) - Automatic generation of marshmallow schemas from dataclasses.
-- [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
+- [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter. ([Web](https://www.psycopg.org/))
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 - [Plyvel](https://github.com/wbolster/plyvel) - Fast and feature-rich Python interface to LevelDB.

@@ -104,3 +104,4 @@
 - [Common Documentation Mistakes and How to Avoid Them (2021)](https://glebbahmutov.com/blog/common-documentation-mistakes-and-how-to-avoid-them/)
 - [The case for Continuous Documentation (2021)](https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/) ([HN](https://news.ycombinator.com/item?id=27411574))
 - [Archbee](https://www.archbee.io/) - Documentation Tool for your Team and Product.
+- [Explaining Code using ASCII Art (2019)](https://blog.regehr.org/archives/1653)
